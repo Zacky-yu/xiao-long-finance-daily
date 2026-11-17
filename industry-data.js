@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 06:12:16",
+ "generated_at": "2026/11/18 06:32:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+     "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+     "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
+     "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+     "source": "TechCrunch AI",
+     "zh": "Amazon and Google will together own nearly 30% of Anthropic after its IPO"
+    },
     {
      "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
      "link": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
@@ -66,20 +74,20 @@ window.INDUSTRY_DATA = {
      "zh": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off"
     },
     {
-     "title": "As decision model use skyrockets, is customization the next frontier?",
-     "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-     "pubDate": "Tue, 17 Nov 2026 18:10:00 +0000",
-     "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-     "source": "TechCrunch AI",
-     "zh": "As decision model use skyrockets, is customization the next frontier?"
-    },
-    {
      "title": "Introducing GPT-6.2 Astra and Sol",
      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
      "source": "OpenAI",
      "zh": "Introducing GPT-6.2 Astra and Sol"
+    },
+    {
+     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
+     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
+     "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+     "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
+     "source": "KDnuggets",
+     "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
     },
     {
      "title": "Research Reports",
@@ -104,6 +112,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，刚刚，由诺奖得主、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis）创办的英国AI药物研发公司Isomorphic Labs宣布完成 50亿美元（约合人民币333亿元）C轮融资 ，融资获得超额认购。 结合公开数据不完全统计，本轮融资刷新该公司此前的单轮融资纪录，可能创下 全球AI制药领域单轮融资规模新纪录 。 ▲哈萨比斯宣布Isomorphic Labs完成C轮融资（图源：X） 2025年3月，Isomorphic Labs宣布完成 6亿美元（约合人民币40亿元）首次外部融资 。今年5月，该公司再获",
      "source": "智东西",
      "zh": "刚刚，诺奖得主的AI公司融了333亿"
+    },
+    {
+     "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+     "link": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+     "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+     "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
+     "source": "KDnuggets",
+     "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
     },
     {
      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "量子位",
      "zh": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs"
-    },
-    {
-     "title": "曝董事会不考虑黄仁勋复职！奥尔特曼发声：他是我的英雄",
-     "link": "https://zhidx.com/p/611257.html",
-     "pubDate": "Tue, 17 Nov 2026 10:03:21 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日消息，今日，据外媒《华尔街日报》和CNBC援引知情人士消息报道，尽管部分投资者、员工及硅谷人士呼吁黄仁勋回归，英伟达董事会目前 并未考虑让其重新担任CEO 。 另外，OpenAI联合创始人、CEO萨姆·奥尔特曼（Sam Altman）今日在活动上公开谈及黄仁勋辞职。他谈道：“ 黄仁勋长期以来都是我的英雄 ，但英雄也有缺点。” 在被问及黄仁勋是否应该回归时，奥尔特曼说：“我认为自己掌握的信息 还不足以回答这个问题 。”他 对黄仁勋的处境有强烈的共情 ，仍记得当年被逐出OpenAI的感受。他补充道：“ 很难想象没有黄仁勋的AI革命 。他",
-     "source": "智东西",
-     "zh": "曝董事会不考虑黄仁勋复职！奥尔特曼发声：他是我的英雄"
-    },
-    {
-     "title": "刚刚，李飞飞正式加入AMD，与苏姿丰同框",
-     "link": "https://zhidx.com/p/611267.html",
-     "pubDate": "Tue, 17 Nov 2026 08:47:16 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西11月17日消息，今日凌晨， AMD 宣布完成对“AI教母” 李飞飞 联合创办的空间智能公司 World Labs 的收购。 AMD在社交平台X上发文，放出AMD董事会主席兼CEO 苏姿丰 与斯坦福大学计算机科学红杉讲席教授、World Labs联合创始人兼CEO 李飞飞 的同框照片，官宣World Labs团队正式加入AMD。推文附带握手表情，同时标注了“芯片女王”“AI教母”两个称号。 李飞飞转发了这篇推文，她说：“AI是一项文明科技！在这个历史时刻，我们每个人都面临着巨大的机遇和责任。我深感荣幸和激动能够领导World Labs加入AMD。",
-     "source": "智东西",
-     "zh": "刚刚，李飞飞正式加入AMD，与苏姿丰同框"
     }
    ]
   },
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Iceland’s first wind farm comes with a water-saving bonus",
+     "link": "https://electrek.co/2026/11/17/iceland-first-wind-farm-gives-its-hydropower-a-winter-boost/",
+     "pubDate": "Tue, 17 Nov 2026 22:12:53 +0000",
+     "summary": "Iceland’s first utility-scale wind farm comes with a useful perk: When the wind picks up, its hydropower reservoirs can save water for later. more…",
+     "source": "Electrek",
+     "zh": "Iceland’s first wind farm comes with a water-saving bonus"
+    },
+    {
      "title": "Rivian Is Inviting Owners To Beta Test Its New Point-To-Point Assisted Driving Tech",
      "link": "https://insideevs.com/news/815761/rivian-autonomy-beta-test-closed/",
      "pubDate": "Tue, 17 Nov 2026 22:03:05 +0000",
@@ -728,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "Finding an electric bike for a teenager can be surprisingly tricky. Parents generally want something safe, manageable, and from a reputable company. Teenagers, meanwhile, generally want something that doesn’t look like it was picked out by their parents. The newly launched Juiced Scrambler Mini look",
      "source": "Electrek",
      "zh": "Juiced Scrambler Mini launched as a cooler (and safer) e-bike option for teens and parents"
-    },
-    {
-     "title": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more",
-     "link": "https://electrek.co/2026/11/17/ecoflow-5018wh-titan-classic-hiboy-evs-more/",
-     "pubDate": "Tue, 17 Nov 2026 19:00:00 +0000",
-     "summary": "Our headliner today is the latest 48-hour EcoFlow flash sale, which has offers like the TITAN 5000 Classic Power Station with 4x 175W rigid solar panels down at a $2,707 low , and others from $899. Hiboy is currently offering up to 45% Black Friday savings on EVs starting from $300 , while Worx’s ne",
-     "source": "Electrek",
-     "zh": "EcoFlow flash sale offers 5,018Wh TITAN Classic + 4x rigid solar panels $1,588 off, Hiboy EVs up to 45% off from $300, more"
     },
     {
      "title": "REO Runabout vs. Slate Truck: Which Sub-$30,000 Truck Is Better?",
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The Rising Tide Of Distributed Energy Resources",
+     "link": "https://cleantechnica.com/2026/11/17/distributed-energy-resources-solar-storage-batteries-compute/",
+     "pubDate": "Tue, 17 Nov 2026 22:05:42 +0000",
+     "summary": "The renewable energy \"prosumer\" envisioned by the US Department of Energy in the early 2000's has become the sophisticated distributed energy resources manager of today. The post The Rising Tide Of Distributed Energy Resources appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "The Rising Tide Of Distributed Energy Resources"
+    },
+    {
      "title": "UK Carbon Capture Keeps Advancing Despite Critics",
      "link": "https://oilprice.com/Energy/Energy-General/UK-Carbon-Capture-Keeps-Advancing-Despite-Critics.html",
      "pubDate": "Tue, 17 Nov 2026 16:00:00 -0600",
@@ -997,7 +1005,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1085,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon also announced four new utility-scale wind and solar projects with a combined total capacity of 934 MW in India. The projects have been secured through power purchase agreements (PPAs) and are part of Amazon’s existing $4 billion contracted projects in India. The post Amazon to invest $7 bill",
      "source": "pv magazine",
      "zh": "Amazon to invest $7 billion in renewable energy in India by 2030"
-    },
-    {
-     "title": "Waaree Energy Storage says new 5.15GWh Gujarat battery pack manufacturing line is ‘milestone’ for ‘Make-in-India’ strategy",
-     "link": "https://www.energy-storage.news/waaree-energy-storage-says-new-5-15gwh-gujarat-battery-pack-manufacturing-line-is-milestone-for-make-in-india-strategy/",
-     "pubDate": "Tue, 17 Nov 2026 12:37:33 +0000",
-     "summary": "Waaree ESS has begun commercial production at its 5.15GWh battery pack manufacturing line in Rola, Valsad, Gujarat.",
-     "source": "Energy Storage News",
-     "zh": "Waaree Energy Storage says new 5.15GWh Gujarat battery pack manufacturing line is ‘milestone’ for ‘Make-in-India’ strategy"
     }
    ]
   },
@@ -1474,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1530,14 +1522,6 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1552,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     }
    ]
   },
@@ -1778,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+     "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+     "pubDate": "Tue, 17 Nov 2026 22:19:19 +0000",
+     "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+     "source": "WIRED",
+     "zh": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang"
+    },
+    {
+     "title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+     "link": "https://www.techmeme.com/261117/p59#a261117p59",
+     "pubDate": "Tue, 17 Nov 2026 17:15:01 -0500",
+     "summary": "Hayden Field / The Verge : On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO &nbsp; &mdash;&nbsp; The board said it would not take additional questions on the call about Huang's departure. &hellip; Starting Nvidia's quarterly earnings call",
+     "source": "Techmeme",
+     "zh": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)"
+    },
+    {
      "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
      "link": "https://www.techmeme.com/261117/p58#a261117p58",
      "pubDate": "Tue, 17 Nov 2026 17:05:10 -0500",
@@ -1821,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "link": "https://calif.io/java4shell/",
      "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 98 # Comments: 11",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 146 # Comments: 21",
      "source": "Hacker News",
      "zh": "Java4Shell: RCE in OpenJDK when processing Base64"
     },
@@ -1834,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: the US SEC is investigating Nvidia, including whether the company&apos;s disclosures misled investors (Wall Street Journal)"
     },
     {
-     "title": "Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)",
-     "link": "https://www.techmeme.com/261117/p53#a261117p53",
-     "pubDate": "Tue, 17 Nov 2026 15:45:03 -0500",
-     "summary": "Milana Vinn / Reuters : Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years &nbsp; &mdash;&nbsp; US advertising technology firm AppLovin (APP.O) is among the companies in talks to acquire smal",
-     "source": "Techmeme",
-     "zh": "Sources: AppLovin is among companies in talks to acquire ad tech company Criteo, which has a ~$1B market cap after its stock fell 50%+ over the past five years (Milana Vinn/Reuters)"
+     "title": "Human.md",
+     "link": "https://www.human-md.ai/",
+     "pubDate": "Tue, 17 Nov 2026 20:47:36 +0000",
+     "summary": "Article URL: https://www.human-md.ai/ Comments URL: https://news.ycombinator.com/item?id=50537962 Points: 42 # Comments: 26",
+     "source": "Hacker News",
+     "zh": "Human.md"
     },
     {
      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
@@ -1853,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Web Browser Engineering (2021)",
      "link": "https://browser.engineering/",
      "pubDate": "Tue, 17 Nov 2026 20:01:35 +0000",
-     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 82 # Comments: 9",
+     "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 87 # Comments: 10",
      "source": "Hacker News",
      "zh": "Web Browser Engineering (2021)"
     },
@@ -1861,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "jQuery 4.1.0",
      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
      "pubDate": "Tue, 17 Nov 2026 19:50:40 +0000",
-     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 167 # Comments: 72",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 177 # Comments: 82",
      "source": "Hacker News",
      "zh": "jQuery 4.1.0"
     },
@@ -1869,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
      "link": "https://arxiv.org/abs/2611.09827",
      "pubDate": "Tue, 17 Nov 2026 19:46:57 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 37 # Comments: 11",
+     "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 42 # Comments: 17",
      "source": "Hacker News",
      "zh": "Effects of a Nuclear Detonation in Low Earth Orbit"
     },
@@ -1901,25 +1893,9 @@ window.INDUSTRY_DATA = {
      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
      "pubDate": "Tue, 17 Nov 2026 19:25:27 +0000",
-     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 152 # Comments: 45",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 164 # Comments: 53",
      "source": "Hacker News",
      "zh": "350 years ago, Ole Rømer discovered that light has a finite speed"
-    },
-    {
-     "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-     "link": "https://starsling.dev",
-     "pubDate": "Tue, 17 Nov 2026 19:01:43 +0000",
-     "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency",
-     "source": "Hacker News",
-     "zh": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
-    },
-    {
-     "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-     "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-     "pubDate": "Tue, 17 Nov 2026 18:55:40 +0000",
-     "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
-     "source": "TechCrunch",
-     "zh": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"
     },
     {
      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -2026,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Meta’s ‘secret’ Black Friday sale just started, and it offers up to 25% off the company’s smart glasses",
+     "link": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
+     "pubDate": "Tue, 17 Nov 2026 22:19:40 +0000",
+     "summary": "Ray-Ban Meta (Gen 2), Meta Glasses, Oakley Meta HSTN, Oakley Meta Vanguard, and RX Lenses are between 15% and 25% off right now for Meta’s Black Friday sale. more…",
+     "source": "9to5Google",
+     "zh": "Meta’s ‘secret’ Black Friday sale just started, and it offers up to 25% off the company’s smart glasses"
+    },
+    {
      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
      "link": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
      "pubDate": "Tue, 17 Nov 2026 22:07:22 +0000",
@@ -2064,6 +2048,14 @@ window.INDUSTRY_DATA = {
      "summary": "Expanded sensor support and a a Dynamic Farsight update are also on the way in December.",
      "source": "Android Authority",
      "zh": "Google Home app will show estimated Nest Thermostat energy savings next month"
+    },
+    {
+     "title": "YouTube ‘Co-Views’ try to guess how many people are watching your TV, rolling out now",
+     "link": "https://9to5google.com/2026/11/17/youtube-co-views-tv/",
+     "pubDate": "Tue, 17 Nov 2026 21:40:00 +0000",
+     "summary": "Following a change in how it counts views earlier this year, YouTube is now announcing “Co-Views” as a way for the platform to try and guess how many people are watching a YouTube video on a TV, and it counts towards the video’s total view count. more…",
+     "source": "9to5Google",
+     "zh": "YouTube ‘Co-Views’ try to guess how many people are watching your TV, rolling out now"
     },
     {
      "title": "The Sideload 052: Pebble’s back. Now what?",
@@ -2218,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "What exactly are Flock cameras and how can you spot one?"
     },
     {
-     "title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
-     "link": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
-     "pubDate": "Tue, 17 Nov 2026 19:00:00 +0000",
-     "summary": "Meta’s WhatsApp is making a huge change to chat backups, with a new built-in cloud backup option on Android that doesn’t rely on Google, and is free. more…",
-     "source": "9to5Google",
-     "zh": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free"
-    },
-    {
      "title": "Sharp unveils the light and thin Aquos sense11 with a 3,000-nit OLED screen",
      "link": "https://www.gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php",
      "pubDate": "Tue, 17 Nov 2026 19:51:02 +0100",
@@ -2240,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you. more…",
      "source": "9to5Mac",
      "zh": "Why iPhone Duo wasn’t for me (but might be for you)"
-    },
-    {
-     "title": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2",
-     "link": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/",
-     "pubDate": "Tue, 17 Nov 2026 18:20:00 +0000",
-     "summary": "The frontier model races continues. A week after the launch of Anthropic’s Claude 5.2 and Google’s Gemini 4 Hydrogen, OpenAI is releasing GPT-6.2 Astra and Sol as a “new standard for professional work.” more…",
-     "source": "9to5Google",
-     "zh": "OpenAI releases GPT-6.2 Astra to regain performance lead from Claude Fable 5.2"
     },
     {
      "title": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more",
@@ -2274,6 +2250,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "NVDA in charts: Data center revenue rises 110% Y/Y",
+     "link": "https://seekingalpha.com/news/4673877-nvda-in-charts-data-center-revenue-rises-110-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:28:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NVDA in charts: Data center revenue rises 110% Y/Y"
+    },
+    {
+     "title": "Restaurant Brands International prices $1 billion senior secured notes offering",
+     "link": "https://seekingalpha.com/news/4673952-restaurant-brands-international-prices-1-billion-senior-secured-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:21:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Restaurant Brands International prices $1 billion senior secured notes offering"
+    },
+    {
+     "title": "CE Brands GAAP EPS of -C$0.04, revenue of C$0.16M",
+     "link": "https://seekingalpha.com/news/4673955-ce-brands-gaap-eps-of-c004-revenue-of-c016m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:21:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CE Brands GAAP EPS of -C$0.04, revenue of C$0.16M"
+    },
+    {
+     "title": "i3 Verticals Non-GAAP EPS of $0.30 beats by $0.04, revenue of $55.4M beats by $0.91M",
+     "link": "https://seekingalpha.com/news/4673954-i3-verticals-non-gaap-eps-of-0_30-beats-by-0_04-revenue-of-55_4m-beats-by-0_91m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:18:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "i3 Verticals Non-GAAP EPS of $0.30 beats by $0.04, revenue of $55.4M beats by $0.91M"
+    },
+    {
+     "title": "Goodfellow sets new 414K share buyback plan under renewed NCIB",
+     "link": "https://seekingalpha.com/news/4673949-goodfellow-sets-new-414k-share-buyback-plan-under-renewed-ncib?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:16:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Goodfellow sets new 414K share buyback plan under renewed NCIB"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 22:15:00 GMT",
+     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?"
+    },
+    {
+     "title": "NRx outlines $400M ketamine market growing 17% a year while targeting 2027 NRX-100 approval",
+     "link": "https://seekingalpha.com/news/4673951-nrx-outlines-400m-ketamine-market-growing-17-percent-a-year-while-targeting-2027-nrxminus-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 17:14:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NRx outlines $400M ketamine market growing 17% a year while targeting 2027 NRX-100 approval"
+    },
+    {
+     "title": "AI繁荣终结？美银月度调查：基金经理20年来最大幅度削减科技股仓位",
+     "link": "https://wallstreetcn.com/articles/3786133",
+     "pubDate": "Wed, 18 Nov 2026 06:13:49 +0800",
+     "summary": "美国银行（Bank of America）最新月度调查显示，全球基金经理正在以2006年以来最快速度撤出科技股，对人工智能过度投资的担忧达到历史峰值。同时，基金经理对欧洲股市的乐观程度升至年内最高，呈现出鲜明的跨市场分化格局。 调查显示，科技股超配比例从10月的净37%骤降至净12%，单月降幅创近20年之最。与此同时，欧洲股市方面，净67%的基金经理预计欧洲股市将在未来一至三个月内上涨，为今年2月以来最高读数。 美银策略师Michael Hartnett在报告中直言\"AI繁荣与亢奋情绪已经终结\"，并建议投资者在未来数月维持防御性仓位。 市场表现印证了这一情绪转变。纳斯达克100指数本月已下跌逾",
+     "source": "华尔街见闻",
+     "zh": "AI繁荣终结？美银月度调查：基金经理20年来最大幅度削减科技股仓位"
+    },
+    {
+     "title": "Nvidia sales doubled last quarter",
+     "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 22:08:10 GMT",
+     "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
+     "source": "Financial Times",
+     "zh": "Nvidia sales doubled last quarter"
+    },
+    {
      "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
      "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 22:08:00 GMT",
@@ -2290,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "德鲁肯米勒看空铜价、股市持仓中性，称当前市场能见度为记忆中最低"
     },
     {
-     "title": "Merck ends development of BTK inhibitor nemtabrutinib",
-     "link": "https://seekingalpha.com/news/4673942-merck-ends-development-btk-inhibitor-nemtabrutinib?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 17:05:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Merck ends development of BTK inhibitor nemtabrutinib"
-    },
-    {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
      "pubDate": "Tue, 17 Nov 2026 22:03:57 GMT",
@@ -2306,52 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
     },
     {
-     "title": "Firm Capital Apartment Real Estate Investment Trust reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673947-firm-capital-apartment-real-estate-investment-trust-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 17:03:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Firm Capital Apartment Real Estate Investment Trust reports Q3 results"
-    },
-    {
-     "title": "Nvidia's neocloud commitments total $32B through 2032",
-     "link": "https://seekingalpha.com/news/4673935-nvidias-neocloud-commitments-total-32b-through-2032?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 17:02:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia's neocloud commitments total $32B through 2032"
-    },
-    {
-     "title": "ZTO Express Non-GAAP EPS of $0.48 beats by $0.01, revenue of $2.14B beats by $40M",
-     "link": "https://seekingalpha.com/news/4673946-zto-express-non-gaap-eps-of-0_48-beats-by-0_01-revenue-of-2_14b-beats-by-40m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 17:02:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ZTO Express Non-GAAP EPS of $0.48 beats by $0.01, revenue of $2.14B beats by $40M"
-    },
-    {
      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
      "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
      "pubDate": "Tue, 17 Nov 2026 22:02:05 GMT",
      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
      "source": "CNBC",
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
-    },
-    {
-     "title": "Pizza Pizza Royalty declares $0.0675 dividend",
-     "link": "https://seekingalpha.com/news/4673945-pizza-pizza-royalty-declares-0_0675-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:57:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pizza Pizza Royalty declares $0.0675 dividend"
-    },
-    {
-     "title": "La-Z-Boy's weak FQ3 outlook overshadows better-than-feared results, raised dividend",
-     "link": "https://seekingalpha.com/news/4673911-la-z-boys-weak-fq3-outlook-overshadows-better-than-feared-results-raised-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 16:57:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "La-Z-Boy's weak FQ3 outlook overshadows better-than-feared results, raised dividend"
     },
     {
      "title": "6亿元项目折戟 通光线缆终止与长飞光纤合资事项",
@@ -2426,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "东方财富财经早餐 11月18日周三"
     },
     {
-     "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-     "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-     "pubDate": "Tue, 17 Nov 2026 21:31:21 GMT",
-     "summary": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
-     "source": "CNBC",
-     "zh": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China"
-    },
-    {
      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
      "pubDate": "Tue, 17 Nov 2026 21:30:00 GMT",
@@ -2442,18 +2434,10 @@ window.INDUSTRY_DATA = {
      "zh": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?"
     },
     {
-     "title": "Nvidia sales doubled last quarter",
-     "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 21:28:22 GMT",
-     "summary": "Chip giant reports strong earnings after CEO Jensen Huang forced to step down",
-     "source": "Financial Times",
-     "zh": "Nvidia sales doubled last quarter"
-    },
-    {
      "title": "英伟达预计第四季度营收1274亿至1326亿美元 高于市场预期",
      "link": "http://finance.eastmoney.com/news/1345,202611183933318685.html",
      "pubDate": "Wed, 18 Nov 2026 05:20:54 +0800",
-     "summary": "英伟达 第三季度营收1158亿美元，预期1093.3亿美元。其中 数据中心 营收1076亿美元，预期1018.7亿美元。调整后毛利率74.9%。 英伟达 预计第四季度营收1274亿至1326亿美元，预期1252.5亿美元。 英伟达 股价盘后涨超2%。英伟达连续第15个季度营收超出预估上限。英伟达临时CEO称路线图按计划进行。 英伟达董事会批准增加1500亿美元股票回购计划，剩余股票回购授权额度为2273亿美元。 （文章来源：财联社）",
+     "summary": "英伟达 第三季度营收1158亿美元，环比增长20.3%，同比增长103.1%，预期1093.3亿美元。其中 数据中心 营收1076亿美元，环比增长21%，同比增长110%，预期1018.7亿美元。调整后毛利率74.9%。 英伟达 预计第四季度营收1261亿至1339亿美元，预期1252.5亿美元。 英伟达 预计第四季度GAAP和非GAAP毛利率在71.0%至72.0%之间。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "英伟达预计第四季度营收1274亿至1326亿美元 高于市场预期"
     },
@@ -2504,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "据华尔街日报援引知情人士透露，美国证券交易委员会（SEC）正在对英伟达展开调查。此前，该公司首席执行官黄仁勋因被曝出婚外情而辞职。 知情人士表示，目前尚无法立即获悉此次调查的全部具体焦点，但其中包括审查公司的信息披露是否误导了投资者。 这项民事调查进一步加剧了英伟达面临的危机。自黄仁勋被罢免以来，该公司股价已累计下跌超过10%。就在几周前，英伟达还是处于人工智能交易热潮中心的股市宠儿，也是全球市值最高的公司。 去年，英伟达调整了其国际芯片销售的披露方式，取消了原本单独列示对新加坡销售额的披露项目。 自黄仁勋与爱丽丝·黄（Alice Huang）的关系被曝光以来，英伟达在亚洲的业务便一直处于聚光",
      "source": "华尔街见闻",
      "zh": "报道：美SEC调查英伟达，包括是否通过信息披露误导投资者"
-    },
-    {
-     "title": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
-     "link": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 20:58:00 GMT",
-     "summary": "The U.S. regulator’s disclosure was more extensive than what the biotech company had announced Sunday.",
-     "source": "MarketWatch",
-     "zh": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug"
     }
    ]
   },

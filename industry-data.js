@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 17:12:01",
+ "generated_at": "2026/11/17 17:20:33",
  "recent_days": 7,
  "industries": [
   {
@@ -146,6 +146,14 @@ window.INDUSTRY_DATA = {
      "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
     },
     {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+    },
+    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "12月1日，细数AI的未竟之问。",
      "source": "量子位",
      "zh": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力"
-    },
-    {
-     "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-     "link": "https://www.qbitai.com/2026/11/510496.html",
-     "pubDate": "Mon, 16 Nov 2026 08:02:07 +0000",
-     "summary": "在华为待了快10000天。",
-     "source": "量子位",
-     "zh": "没搞过一天研发的他，50岁以华为董事的身份退休了"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
+     "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
+     "pubDate": "Tue, 17 Nov 2026 09:16:07 +0000",
+     "summary": "The banking group reports double-digit cost savings from quantum-inspired optimization, but useful quantum hardware faces a tougher test than faster calculations. The post Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready"
+    },
     {
      "title": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders",
      "link": "https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "For third quarter 2026, AXT Inc of Fremont, CA, USA — which makes gallium arsenide (GaAs), indium phosphide (InP) and germanium (Ge) substrates and raw materials at plants in China — has reported revenue of $73.4m, up 54% on last quarter’s record of $47.6m and up 162% on $28m a year ago, driven by e",
      "source": "Semiconductor Today",
      "zh": "AXT’s revenue grows 162% year-on-year to record $73.4m in Q3"
-    },
-    {
-     "title": "What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process",
-     "link": "https://semiengineering.com/what-is-acoustic-micro-imaging-a-quick-guide-to-this-inspection-process/",
-     "pubDate": "Mon, 16 Nov 2026 08:01:29 +0000",
-     "summary": "Obtaining clear images of gaps and delaminations in advanced packages. The post What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process"
     }
    ]
   },
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Frontier Energy builds ‘largest SWIS-connected hybrid solar-plus-storage plant’ in Western Australia",
+     "link": "https://www.energy-storage.news/frontier-energy-construction-waroona-solar-plus-storage-bess-western-australia/",
+     "pubDate": "Tue, 17 Nov 2026 09:16:49 +0000",
+     "summary": "ASX-listed Frontier Energy has started construction on Stage 1 of its Waroona Renewable Energy Project in Western Australia (WA), which pairs solar PV with a battery energy storage system (BESS).",
+     "source": "Energy Storage News",
+     "zh": "Frontier Energy builds ‘largest SWIS-connected hybrid solar-plus-storage plant’ in Western Australia"
+    },
+    {
      "title": "Satellite imagery reveals vegetation recovery at solar plant in semi-arid region of China",
      "link": "https://www.pv-magazine.com/2026/11/17/satellite-imagery-reveals-vegetation-recovery-at-solar-plant-in-semi-arid-region-of-china/",
      "pubDate": "Tue, 17 Nov 2026 08:57:38 +0000",
@@ -1096,14 +1104,6 @@ window.INDUSTRY_DATA = {
      "summary": "PVcase's Douglas Geist speaks to PV Tech Premium exclusively about the launch of its solar design latest platform, Concept.",
      "source": "PV Tech",
      "zh": "How PVcase’s latest platform aims to cut solar project attrition"
-    },
-    {
-     "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
-     "link": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
-     "pubDate": "Mon, 16 Nov 2026 08:56:20 -0500",
-     "summary": "Environmental groups say they are &ldquo;evaluating all legal options&rdquo; after a federal appeals court vacated a previous order for the same plant, ruling DOE exceeded its authority. The plant&rsquo;s owner says it has spent more than $300 million keeping it open.",
-     "source": "Utility Dive",
-     "zh": "Over court objections, DOE issues 7th order to keep Michigan coal plant online"
     }
    ]
   },
@@ -1226,6 +1226,14 @@ window.INDUSTRY_DATA = {
      "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
     },
     {
+     "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
+     "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
+     "pubDate": "Mon, 16 Nov 2026 12:00:00 -0500",
+     "summary": "CG&rsquo;s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street&rsquo;s expectations and lifting company shares.&nbsp;",
+     "source": "BioPharma Dive",
+     "zh": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial"
+    },
+    {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
      "pubDate": "Mon, 16 Nov 2026 11:57:00 -0500",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
      "source": "BioPharma Dive",
      "zh": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging"
-    },
-    {
-     "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-     "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
-     "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
-     "source": "BioPharma Dive",
-     "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1360,14 +1360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly ",
      "source": "NASA",
      "zh": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover"
-    },
-    {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     },
     {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
@@ -1514,14 +1506,6 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1536,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     },
     {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -1778,6 +1754,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Meta says it modified Instagram&apos;s recommendation systems in India to show less sexual and violent content, after New Delhi called for tighter content checks (Reuters)",
+     "link": "https://www.techmeme.com/261117/p6#a261117p6",
+     "pubDate": "Tue, 17 Nov 2026 04:10:01 -0500",
+     "summary": "Reuters : Meta says it modified Instagram's recommendation systems in India to show less sexual and violent content, after New Delhi called for tighter content checks &nbsp; &mdash;&nbsp; Meta Platforms (META.O) said on Tuesday it had modified Instagram's recommendation systems specifically for Indi",
+     "source": "Techmeme",
+     "zh": "Meta says it modified Instagram&apos;s recommendation systems in India to show less sexual and violent content, after New Delhi called for tighter content checks (Reuters)"
+    },
+    {
+     "title": "陈国富：民营经济的草根命运",
+     "link": "https://www.huxiu.com/article/4906251.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 17:09:38 +0800",
+     "summary": "本文来自微信公众号： 读书杂志 ，作者：陈国富，原文标题：《旧锦新样 | 陈国富：民营经济的草根命运》 编者按 民营经济今天已成为中国经济增长的主要支柱，但它在体制内的处境始终微妙。陈国富这篇写于二〇〇三年的文章，从生成机制和融资环境两个层面，解释了这种处境的结构性根源：民营经济是在国有经济体系的缝隙中“溢出”的——劳动力被排斥在国有产权之外，资本则通过金融管制的“缺口”漏出。这决定了它与现行融资体制之间的排斥性，也决定了它的“草根”身份。二十多年过去，文章所揭示的问题并未过时。当民营经济信心问题再度成为讨论焦点，回溯这一结构性困境，或许更有意义。 民营经济的草根命运 （原载《读书》2003年",
+     "source": "虎嗅",
+     "zh": "陈国富：民营经济的草根命运"
+    },
+    {
+     "title": "百度在别人的 AI 生意里找到了增长",
+     "link": "https://www.huxiu.com/article/4906249.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 17:09:28 +0800",
+     "summary": "本文来自微信公众号： Techmo ，作者：Techmo，原文标题：《百度在别人的 AI 生意里找到了增长》 11月16日，百度发布第三季度财报。一组数据勾勒出其当下AI业务的增长重心：按公司披露的业务口径，AI收入同比增加约36亿元，其中云基础设施收入就增加了约40亿元；与此同时，AI原生营销收入下滑，AI应用收入基本持平。 为其他企业训练模型、运行AI产品提供算力，已经成为百度增长最快的生意之一。相比之下，百度自己的AI应用都尚未贡献同等规模的收入增量。 算力需求的增长正在转化为更长期的客户关系。管理层在业绩会上透露，今年按合同金额计算最大的三家GPU云客户，续约时均转向多年期合同，其中一",
+     "source": "虎嗅",
+     "zh": "百度在别人的 AI 生意里找到了增长"
+    },
+    {
+     "title": "又贵又难吃的赛百味，怎么突然卖爆了？",
+     "link": "https://www.huxiu.com/article/4905055.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 17:05:26 +0800",
+     "summary": "全世界最不讨喜的生意里，一定有白人饭。 往健康了做，有人骂味道寡淡，狗都不吃。 往好吃了做，有人骂酱料太多，热量太高。 但风评差，不影响这几年白人饭品牌闷声大发财。 今年，中国的轻食市场规模预计会达到5000亿元。 最猛的是白人饭之王，三明治仙人，薄肌必吃榜排名第一的赛百味。光是过去三年开的店，快赶上它之前28年的总和。 这证明：只有中国人改造过的白人饭，才是能卖得出去的白人饭。 这期视频，我们以赛百味为例，聊一聊中国人是如何改造白人饭的。",
+     "source": "虎嗅",
+     "zh": "又贵又难吃的赛百味，怎么突然卖爆了？"
+    },
+    {
+     "title": "传三星电子确定内存未来发展方向：HBM5 使用 D0a DRAM Die",
+     "link": "https://www.ithome.com/1/028/418.htm",
+     "pubDate": "Tue, 17 Nov 2026 09:03:56 GMT",
+     "summary": "IT之家 11 月 17 日消息，韩媒 THE ELEC 当地时间今日报道称，三星电子近期已确认了 DRAM 内存技术的未来发展方向，多条技术路线将并行推进。 三星电子目前最为先进的 DRAM 工艺为第 6 代 10nm 级的 1c nm (D1c)，采用传统的 6F² 结构和制造工艺。后续的 常规迭代 D1d 将用于 LPDDR 等通用内存产品 ，预计 2027H2 量产。 三星此前曾表示 HBM5 内存将升级至新一代 DRAM Die。而根据韩媒报道， 这里的“新一代”将是应用混合键合技术的 D0a ，而不是普遍认为的 D1d。 D0a 在不同的晶圆上制造存储阵列和外围电路，此后以 W2W",
+     "source": "IT之家",
+     "zh": "传三星电子确定内存未来发展方向：HBM5 使用 D0a DRAM Die"
+    },
+    {
+     "title": "腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%",
+     "link": "https://www.ithome.com/1/028/417.htm",
+     "pubDate": "Tue, 17 Nov 2026 09:02:26 GMT",
+     "summary": "IT之家 11 月 17 日消息，腾讯音乐今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：257.69 亿元，同比增长 6.22% 毛利润 ：113.18 亿元，同比增长 6.04% 毛利率 ：43.92%，同比下降 0.07 个百分点 归母净利润 ：67.16 亿元，同比下降 24.14% 经营现金流 ：103.96 亿元，同比增长 32.6% 基本每股收益 ：2.16 元，同比下降 25.26% 稀释每股收益 ：",
+     "source": "IT之家",
+     "zh": "腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%"
+    },
+    {
+     "title": "为什么BLG夺冠，没有EDG那么“疯”了",
+     "link": "https://www.huxiu.com/article/4906015.html?f=rss",
+     "pubDate": "Tue, 17 Nov 2026 17:01:57 +0800",
+     "summary": "BLG捧回了阔别五年的世界冠军，可这场热闹，为什么没像2021年EDG那样烧到圈外？人换了，平台散了，电竞也长大了。你更怀念哪一种欢呼？",
+     "source": "虎嗅",
+     "zh": "为什么BLG夺冠，没有EDG那么“疯”了"
+    },
+    {
+     "title": "亚马逊宣布减排新目标：到 2030 年，电力碳排放强度较 2019 年下降 65%",
+     "link": "https://www.ithome.com/1/028/416.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:59:08 GMT",
+     "summary": "IT之家 11 月 17 日消息，今天（17 日）下午，亚马逊宣布新的减排目标：到 2030 年， 全球业务用电的碳排放强度较 2019 年下降 65% 。 公告称，新目标及其计算方法参考了国际能源署《2050 年净零排放》路线图，并经过顶尖学者审查。亚马逊还承诺根据最新气候科学研究成果持续更新目标和方法。 碳排放强度指每单位用电量对应的碳排放量，通常以每兆瓦时用电对应的二氧化碳当量衡量。亚马逊的目标是，到 2030 年，每消耗一单位电力所对应的碳排放量比 2019 年减少 65%。 据IT之家了解，2019 年，亚马逊联合发起《气候宣言》，并承诺到 2040 年实现净零碳排放。 目前，亚马逊",
+     "source": "IT之家",
+     "zh": "亚马逊宣布减排新目标：到 2030 年，电力碳排放强度较 2019 年下降 65%"
+    },
+    {
+     "title": "虎牙 2026 年第三季度净利润 2930 万元，营业利润四年来首次转正",
+     "link": "https://www.ithome.com/1/028/411.htm",
+     "pubDate": "Tue, 17 Nov 2026 08:56:35 GMT",
+     "summary": "IT之家 11 月 17 日消息，虎牙今日公布了 2026 年第三季度未经审计财务业绩： 2026 年第三季度营收 17.528 亿元人民币（2.614 亿美元）， 同比增长 3.8% ； 游戏相关服务、广告及其他收入 6.447 亿元人民币（9620 万美元），同比增长 21.3%； 营业利润 1520 万元人民币 （230 万美元），而 2025 年同期营业亏损 1430 万元人民币； 非 GAAP 营业利润 3050 万元人民币（460 万美元），而 2025 年同期为 630 万元人民币； 归属于虎牙的净利润 2930 万元人民币 （440 万美元），而 2025 年同期为 960 万",
+     "source": "IT之家",
+     "zh": "虎牙 2026 年第三季度净利润 2930 万元，营业利润四年来首次转正"
+    },
+    {
      "title": "采购了数字化，运营着模拟化",
      "link": "https://www.huxiu.com/article/4906245.html?f=rss",
      "pubDate": "Tue, 17 Nov 2026 16:55:42 +0800",
@@ -1802,30 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "A look at ~1,400 Urban Legend campaigns where right-wing influencers got paid to push crypto policy and Nvidia sales to China after the US approved H200 sales (ModelRepublic)"
     },
     {
-     "title": "满街是平替，保时捷反击",
-     "link": "https://www.huxiu.com/article/4906225.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 16:54:24 +0800",
-     "summary": "平替保时捷更难了？电车学不了它这三招...",
-     "source": "虎嗅",
-     "zh": "满街是平替，保时捷反击"
-    },
-    {
-     "title": "汪明荃“吃席式演唱会”火了，银发经济还有多少想象力？",
-     "link": "https://www.huxiu.com/article/4906246.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 16:52:56 +0800",
-     "summary": "本文来自微信公众号： 音乐先声 ，作者：范志辉 还得是老辈子明星知道疼人。 最近，79岁的汪明荃把演唱会开进佛山一家酒店宴会厅，十人一桌，歌迷仅需花600多元，不仅能吃饭听歌，还能近距离与阿姐互动。这种被网友调侃“老辈子宠粉”的演出形式，意外在社交平台走红。 起初，不少网友还质疑汪明荃在酒店宴会厅登台是否有“自降身价”之嫌，但随着现场互动曝光，舆论开始转向，甚至让不少年轻网友都直呼羡慕，喊话让自担抓紧“抄作业”。 那么，为什么一场看似不够标准的演唱会，如何精准击中了观众的需求？当歌手和歌迷都逐渐老去，演唱会是否也该换一种打开方式？ “老辈子”明星有多疼人？ 猛一看以为是谁家婚宴，再猛一看以为是",
-     "source": "虎嗅",
-     "zh": "汪明荃“吃席式演唱会”火了，银发经济还有多少想象力？"
-    },
-    {
-     "title": "AI按Token收费，错在哪里？",
-     "link": "https://www.huxiu.com/article/4906242.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 16:50:28 +0800",
-     "summary": "本文来自微信公众号： 爱中 谭 ，作者：爱中&nbsp;谭 Token越来越便宜，AI账单越来越贵；真正的裁判，是验证成本。 先摆现象，再谈问题。 全球每百万Token的推理均价，从2026年5月底的2.04美元跌到8月初的1.16美元，9月初进一步跌到0.97美元。这是Silicon Data的LLM Token Expenditure Index（SDLLMTK），按实际使用量加权，不是厂商挂牌价。 中国厂商是主要推力之一：DeepSeek在5月把V4-Pro的API价格永久下调至原价四分之一。价格战没有停在9月——11月16日，腾讯混元Hy4flash发布，单任务成本再降一个量级。 需要",
-     "source": "虎嗅",
-     "zh": "AI按Token收费，错在哪里？"
-    },
-    {
      "title": "大众预告神秘 GTI 概念车：宽体设计搭配巨型尾翼，号称史上最狂野 GTI",
      "link": "https://www.ithome.com/1/028/391.htm",
      "pubDate": "Tue, 17 Nov 2026 08:44:42 GMT",
@@ -1842,52 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "孟菲斯利用 SpaceXSI 数据中心房产税资助社区，全财年预算 326 万美元"
     },
     {
-     "title": "买Cybercab年赚3万美金？你想多了",
-     "link": "https://www.huxiu.com/article/4906241.html?f=rss",
-     "pubDate": "Tue, 17 Nov 2026 16:42:45 +0800",
-     "summary": "本文来自微信公众号： 字母榜 ，作者：彦飞 马斯克兑现了十年前的承诺——让自动驾驶出租车给车主赚钱。 近日，特斯拉宣布开始对外销售Cybercab。这辆车专为自动驾驶而打造，没有方向盘、油门、刹车和传统后视镜，原先只用于特斯拉的robotaxi网络，现在普通人也能买到了。 更令人兴奋的是，它的价格并不贵：29990美元，约合人民币21.6万元。 特斯拉方面表示，首批Cybercab预计今年12月交付；除奥斯汀外，车主将来还可以选择在达拉斯、休斯敦、沃斯堡和圣安东尼奥等地交车。 早在Cybercab问世前，马斯克就多次宣称，robotaxi既可以服务车主，也可以在空闲时段上路接单赚钱，一年可达3",
-     "source": "虎嗅",
-     "zh": "买Cybercab年赚3万美金？你想多了"
-    },
-    {
-     "title": "搭上《GTA6》热潮：快餐企业赛百味将在美国迈阿密独家供应“罪恶城古巴三明治”",
-     "link": "https://www.ithome.com/1/028/377.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:39:32 GMT",
-     "summary": "IT之家 11 月 17 日消息，据 IGN 报道，随着《GTA6》发售临近，快餐连锁品牌赛百味（Subway）也加入了宣传热潮，宣布将迈阿密地区供应“罪恶城古巴三明治”（Vice City Cubano），呼应游戏中的虚构城市罪恶城（Vice City）。 据报道，该三明治仅在美国迈阿密地区发售，提供 6 英寸和 12 英寸两种规格，配料包括硬木烟熏手撕猪肉、黑森林火腿、融化的普罗卧干酪、酸黄瓜和芥末酱，搭配新鲜烘焙的意大利手工面包，同时外覆《GTA 6》主题包装。 赛百味确认，这款三明治既可以到店购买，也支持外卖配送，方便玩家在《GTA 6》发售后宅在家中游玩时享用。 《GTA 6》将于 ",
-     "source": "IT之家",
-     "zh": "搭上《GTA6》热潮：快餐企业赛百味将在美国迈阿密独家供应“罪恶城古巴三明治”"
-    },
-    {
      "title": "富岳运行系统遭非法访问",
      "link": "https://www.solidot.org/story?sid=85911",
      "pubDate": "Tue, 17 Nov 2026 16:35:50 +0800",
      "summary": "日本理化学研究所超算富岳的运行系统遭到外部非法访问，用户信息可能已经外泄。除大学等研究机构外，产业界也可使用“富岳”。因遭到非法访问，理研已暂停富岳运行，据悉恢复时间未定。遭到非法访问的是用户申请使用“富岳”时需连接的系统。受害范围取决于用户登记了多少个人信息。目前正在调查非法访问发生的时间以及被发现的经过。",
      "source": "Solidot",
      "zh": "富岳运行系统遭非法访问"
-    },
-    {
-     "title": "马斯克确认将前往中国，透露 11 月 18 日纽约 DealBook 峰会由数字版自己出席",
-     "link": "https://www.ithome.com/1/028/369.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:34:25 GMT",
-     "summary": "IT之家 11 月 17 日消息，马斯克今日在回复一条关于纽约 DealBook 峰会的帖文下留言称：“ I will be in China, so it will be digital me. （我会在中国，所以届时将由数字版的我出席）。” 原贴显示，一名记者列举了 DealBook 峰会的嘉宾名单，马斯克被列入参会名单。 他的回应意味着他届时不会亲自到场，同时确认了他前往中国 。 IT之家注意到，DealBook 峰会将于 11 月 18 日在纽约举行。而同时，深圳正迎来 APEC 系列重要活动。根据规划，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，",
-     "source": "IT之家",
-     "zh": "马斯克确认将前往中国，透露 11 月 18 日纽约 DealBook 峰会由数字版自己出席"
-    },
-    {
-     "title": "支付宝芝麻信用上线“超享订”汽车订阅服务，蔚来乐道 L90 成为首发车型",
-     "link": "https://www.ithome.com/1/028/363.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:32:20 GMT",
-     "summary": "IT之家 11 月 17 日消息，支付宝芝麻信用上线“超享订”汽车订阅服务，蔚来旗下乐道 L90 成为首发指定车型，在支付宝 App 内搜索“芝麻汽车订阅”即可跳转相应页面（要求芝麻分达到 650 分及以上），首批覆盖成都、广州、杭州、合肥、南京、苏州 6 座城市。 以 2025 款乐道 L90 六座版 Ultra 车型为例，整车指导价约 29.98 万元，若选择 BaaS 电池租用方式购车，提车费用约 21.38 万元。 而在使用“超享订”汽车订阅服务后，用户支付 26000 元订阅启动金，之后每月支付 2999 元月费，即可将乐道 L90 开回家，免押金、免保险费、免 BaaS 租电费，无",
-     "source": "IT之家",
-     "zh": "支付宝芝麻信用上线“超享订”汽车订阅服务，蔚来乐道 L90 成为首发车型"
-    },
-    {
-     "title": "谷歌 DeepMind 核心高管再出走，首席战略官跳槽 Anthropic",
-     "link": "https://www.ithome.com/1/028/360.htm",
-     "pubDate": "Tue, 17 Nov 2026 08:31:08 GMT",
-     "summary": "IT之家 11 月 17 日消息，据科技媒体《The Information》当地时间 16 日报道，谷歌 DeepMind 首席战略官贾斯吉特・塞孔（Jasjit Sekhon）已离职并加入 Anthropic。随着 Anthropic 即将在本周启动大规模首次公开募股（IPO），谷歌 DeepMind 的 AI 人才持续流向这家 Claude 聊天机器人的开发商，已逐渐形成明显趋势。 塞孔在社交平台 X 上发文确认了这一消息。他表示：“我很高兴加入 Anthropic。”他还透露，自己将负责支持 Claude，让其知识和判断建立在严格、可靠的事实基础之上，同时重视并践行这种严谨性。 塞孔今",
-     "source": "IT之家",
-     "zh": "谷歌 DeepMind 核心高管再出走，首席战略官跳槽 Anthropic"
     },
     {
      "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
@@ -1954,6 +1938,14 @@ window.INDUSTRY_DATA = {
      "zh": "A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)"
     },
     {
+     "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+     "link": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+     "pubDate": "Tue, 17 Nov 2026 07:04:46 +0000",
+     "summary": "Article URL: https://verisource.dev/benchmarks/ai-search-readiness-2026 Comments URL: https://news.ycombinator.com/item?id=50528364 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md"
+    },
+    {
      "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
      "link": "https://www.solidot.org/story?sid=85908",
      "pubDate": "Tue, 17 Nov 2026 14:50:24 +0800",
@@ -2000,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
      "source": "WIRED",
      "zh": "Chewy Promo Codes: 25% Off November 2026"
-    },
-    {
-     "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-     "link": "https://www.wired.com/story/uber-eats-promo-code/",
-     "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
-     "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-     "source": "WIRED",
-     "zh": "Uber Eats Promo Codes: $15 Off│November 2026"
-    },
-    {
-     "title": "50% Off DoorDash Promo Code | November 2026",
-     "link": "https://www.wired.com/story/doordash-promo-code/",
-     "pubDate": "Tue, 17 Nov 2026 06:00:00 +0000",
-     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-     "source": "WIRED",
-     "zh": "50% Off DoorDash Promo Code | November 2026"
     }
    ]
   },
@@ -2025,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iPhone Duo gets face unlock feature in latest iOS 27.3 beta",
+     "link": "https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php",
+     "pubDate": "Tue, 17 Nov 2026 10:11:02 +0100",
+     "summary": "The second iOS 27.3 beta is now rolling out to developers, bringing several new features, including facial unlocking on the iPhone Duo. Notably, the first iOS 27.3 beta was released earlier this month. Apple has included a new “Unlock with Front Camera” option under Touch ID and Passcode in the Sett",
+     "source": "GSMArena",
+     "zh": "iPhone Duo gets face unlock feature in latest iOS 27.3 beta"
+    },
     {
      "title": "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
      "link": "https://www.androidauthority.com/googlebook-chrome-m157-vertical-tabs-3735870/",
@@ -2256,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Physical storage and memory are only getting more expensive, but that doesn’t mean we need to store any less. The alternative solution is a secure cloud storage platform, and there’s really only one good option. more…",
      "source": "9to5Google",
      "zh": "Secure cloud storage is the cheaper, safer alternative to keeping files physical"
-    },
-    {
-     "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
-     "link": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
-     "pubDate": "Mon, 16 Nov 2026 22:20:37 +0000",
-     "summary": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations"
     }
    ]
   },
@@ -2273,6 +2249,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "DOJ set to review DoorDash-Instacart deal - report",
+     "link": "https://seekingalpha.com/news/4673464-doj-to-review-doordash-instacart-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 04:10:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DOJ set to review DoorDash-Instacart deal - report"
+    },
+    {
+     "title": "Weibo Non-GAAP EPS of $0.06 misses by $0.17, revenue of $410.2M misses by $4.79M",
+     "link": "https://seekingalpha.com/news/4673515-weibo-non-gaap-eps-of-006-misses-by-017-revenue-of-4102m-misses-by-479m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 04:08:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Weibo Non-GAAP EPS of $0.06 misses by $0.17, revenue of $410.2M misses by $4.79M"
+    },
+    {
+     "title": "Tencent Music Entertainment Non-GAAP EPADS of $0.23 in-line, revenue of $1.33B misses by $40M",
+     "link": "https://seekingalpha.com/news/4673514-tencent-music-entertainment-non-gaap-epads-of-023-in-line-revenue-of-133b-misses-by-40m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 04:06:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tencent Music Entertainment Non-GAAP EPADS of $0.23 in-line, revenue of $1.33B misses by $40M"
+    },
     {
      "title": "ADM Tronics GAAP EPS of $0.00, revenue of $0.94M",
      "link": "https://seekingalpha.com/news/4673513-adm-tronics-gaap-eps-of-000-revenue-of-094m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2298,36 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "ONE Nuclear Energy Inc. GAAP EPS of -$0.76"
     },
     {
-     "title": "Vertiqal Studios reports Q3 results",
-     "link": "https://seekingalpha.com/news/4673509-vertiqal-studios-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:55:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vertiqal Studios reports Q3 results"
-    },
-    {
-     "title": "AIB Data Centers Inc. GAAP EPS of -$0.06 beats by $0.04, revenue of $0.8M beats by $0.75M",
-     "link": "https://seekingalpha.com/news/4673510-aib-data-centers-inc-gaap-eps-of--006-beats-by-004-revenue-of-08m-beats-by-075m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:55:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AIB Data Centers Inc. GAAP EPS of -$0.06 beats by $0.04, revenue of $0.8M beats by $0.75M"
-    },
-    {
      "title": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%",
      "link": "http://www.eeo.com.cn/2026/1117/1095245.shtml",
      "pubDate": "Tue, 17 Nov 2026 16:54:18 +0800",
      "summary": "2026年10月，全国餐饮收入5235亿元，同比增长0.7%，增速较9月回落1.4个百分点；限额以上单位餐饮收入1459亿元，同比下降2.9%，由9月的正增长再度转负。",
      "source": "经济观察网",
      "zh": "中国烹饪协会：10月全国餐饮收入5235亿元，同比增长0.7%"
-    },
-    {
-     "title": "Talon Metals Corp. GAAP EPS of $0.00 misses by $0.08, revenue of $58.43M misses by $21.48M",
-     "link": "https://seekingalpha.com/news/4673508-talon-metals-corp-gaap-eps-of-000-misses-by-008-revenue-of-5843m-misses-by-2148m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 03:47:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Talon Metals Corp. GAAP EPS of $0.00 misses by $0.08, revenue of $58.43M misses by $21.48M"
     },
     {
      "title": "Treasury yields are broadly flat as investors await retail sales data",
@@ -2450,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "全球股市四连跌，英伟达绩前跌幅加深，韩股收跌2.6%，油价下跌"
     },
     {
-     "title": "因购置地块权属变动，安琪酵母食品原料三期项目投资由4.2亿降至1.8亿",
-     "link": "http://www.eeo.com.cn/2026/1117/1095121.shtml",
-     "pubDate": "Tue, 17 Nov 2026 15:27:34 +0800",
-     "summary": "11月17日，安琪酵母在公告中表示，因原项目规划购置地块权属发生变动，部分子项目已不具备实施条件，拟对项目方案进行调整。",
-     "source": "经济观察网",
-     "zh": "因购置地块权属变动，安琪酵母食品原料三期项目投资由4.2亿降至1.8亿"
-    },
-    {
      "title": "特朗普说可能与金正恩在中国举行会晤 外交部：没有这方面的信息",
      "link": "http://finance.eastmoney.com/news/1345,202611173932837628.html",
      "pubDate": "Tue, 17 Nov 2026 15:27:10 +0800",
@@ -2512,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
      "source": "CNBC",
      "zh": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024"
+    },
+    {
+     "title": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
+     "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
+     "pubDate": "Tue, 17 Nov 2026 06:00:07 GMT",
+     "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
+     "source": "Financial Times",
+     "zh": "‘Katastrophe’: inside the chaos at Germany’s biggest bank"
     }
    ]
   },

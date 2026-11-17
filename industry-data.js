@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/17 19:44:23",
+ "generated_at": "2026/11/17 19:52:12",
  "recent_days": 7,
  "industries": [
   {
@@ -202,6 +202,14 @@ window.INDUSTRY_DATA = {
      "zh": "How to Give Claude Code Up-to-Date Documentation With Context7"
     },
     {
+     "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+     "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+     "pubDate": "Mon, 16 Nov 2026 14:01:15 GMT",
+     "summary": "Plus: CucumberVision!",
+     "source": "Import AI",
+     "zh": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development"
+    },
+    {
      "title": "狂揽80亿！前Anthropic员工押注RSI，谷歌英伟达都投了",
      "link": "https://zhidx.com/p/611006.html",
      "pubDate": "Mon, 16 Nov 2026 21:55:11 +0800",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
      "source": "量子位",
      "zh": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准"
-    },
-    {
-     "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
-     "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
-     "pubDate": "Mon, 16 Nov 2026 10:39:41 +0000",
-     "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code ",
-     "source": "MarkTechPost",
-     "zh": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands"
     }
    ]
   },
@@ -906,6 +906,14 @@ window.INDUSTRY_DATA = {
      "zh": "India Gives Green Light to Commercial Sustainable Jet Fuel Production"
     },
     {
+     "title": "In the South, heat pumps are the secret to a more reliable grid",
+     "link": "https://www.canarymedia.com/articles/heat-pumps/south-heat-pumps-reliable-grid",
+     "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
+     "summary": "For many in North Carolina and Tennessee, 2022’s Winter Storm Elliott lives in infamy. Temperatures plunged well below freezing for days at a time, just as families were gathered at home for the Christmas holiday. The grid couldn’t keep up, and some 1.6 million households lost power in rolling black",
+     "source": "Canary Media",
+     "zh": "In the South, heat pumps are the secret to a more reliable grid"
+    },
+    {
      "title": "Global Energy Storage Alliance launches at COP31, aims to address persistent energy transition challenges",
      "link": "https://www.energy-storage.news/global-energy-storage-alliance-launches-at-cop31-aims-to-address-persistent-energy-transition-challenges/",
      "pubDate": "Tue, 17 Nov 2026 10:05:41 +0000",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Vikram Solar secured 1.7GW in new orders in Q2 but saw both revenues and profits fall as the company faced procurement and pricing headwinds.",
      "source": "PV Tech",
      "zh": "Vikram Solar sees Q2 revenue and profit slump, adds 1.7GW of new orders"
-    },
-    {
-     "title": "FERC’s See on large loads, Western markets and affordability",
-     "link": "https://www.utilitydive.com/news/ferc-lindsay-see-large-loads-western-markets-affordability/874736/",
-     "pubDate": "Mon, 16 Nov 2026 10:00:32 -0500",
-     "summary": "FERC&rsquo;s Lindsay See on federal permitting reform: &ldquo;I'm a former litigator. I lived in the trenches here. I think one of the biggest drivers in terms of cost and extra time is uncertainty in legal statutes.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "FERC’s See on large loads, Western markets and affordability"
     }
    ]
   },
@@ -1378,14 +1378,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
@@ -1522,14 +1514,6 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
-    },
-    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1544,14 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […] The post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
      "source": "SpaceNews",
      "zh": "What role does industry play in Europe’s space sovereignty push?"
-    },
-    {
-     "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload"
     },
     {
      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -1922,12 +1898,28 @@ window.INDUSTRY_DATA = {
      "zh": "Chinese records: Alice Huang&apos;s husband Kang Wei built a state-backed data center network in China, with proposed investment exceeding $9B between 2021 and 2024 (Lingling Wei/Wall Street Journal)"
     },
     {
+     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+     "source": "WIRED",
+     "zh": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward"
+    },
+    {
      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
      "link": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
      "source": "WIRED",
      "zh": "The Dark Side of the Moon Was the Brightest Part of 2026"
+    },
+    {
+     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+     "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+     "source": "WIRED",
+     "zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?"
     },
     {
      "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
@@ -1944,22 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
      "source": "WIRED",
      "zh": "Congratulations to WIRED’s Class of 2026"
-    },
-    {
-     "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-     "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-     "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-     "source": "WIRED",
-     "zh": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward"
-    },
-    {
-     "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-     "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-     "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-     "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-     "source": "WIRED",
-     "zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?"
     },
     {
      "title": "How a Bunch of YouTube Auteurs Are Reinventing Hollywood",
@@ -2021,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "How the Claude Code team thinks about verification",
      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
      "pubDate": "Tue, 17 Nov 2026 10:20:40 +0000",
-     "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 22 # Comments: 13",
+     "summary": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 34 # Comments: 23",
      "source": "Hacker News",
      "zh": "How the Claude Code team thinks about verification"
     }
@@ -2282,12 +2258,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Amazon makes major investments in renewable energy projects in India",
+     "link": "https://seekingalpha.com/news/4673557-amazon-makes-major-investments-to-renewable-energy-projects-in-india?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:44:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon makes major investments in renewable energy projects in India"
+    },
+    {
+     "title": "Daré Bioscience expects DARE to PLAY dispensing to begin in November across 28 states",
+     "link": "https://seekingalpha.com/news/4673559-dare-bioscience-expects-dare-to-play-dispensing-to-begin-in-november-across-28-states?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:43:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Daré Bioscience expects DARE to PLAY dispensing to begin in November across 28 states"
+    },
+    {
      "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
      "pubDate": "Tue, 17 Nov 2026 11:38:33 GMT",
      "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
      "source": "CNBC",
      "zh": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts"
+    },
+    {
+     "title": "The fight to reinstate Jensen Huang overshadows Nvidia earnings",
+     "link": "https://seekingalpha.com/news/4673512-the-fight-to-reinstate-jensen-huang-overshadows-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 06:37:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The fight to reinstate Jensen Huang overshadows Nvidia earnings"
     },
     {
      "title": "Walt Disney beats top-line and bottom-line estimates; reaffirms FY2027 adjusted EPS outlook",
@@ -2322,36 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia forms board committee to oversee national security, chip exports"
     },
     {
-     "title": "Earnings Snapshot: Home Depot tops Q3 estimates, issues above-consensus FY26 sales view",
-     "link": "https://seekingalpha.com/news/4673555-earnings-snapshot-home-depot-tops-q3-estimates-issues-above-consensus-fy26-sales-view?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:28:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Snapshot: Home Depot tops Q3 estimates, issues above-consensus FY26 sales view"
-    },
-    {
-     "title": "Tencent Music Q3 revenue falls short of estimates, earnings beat",
-     "link": "https://seekingalpha.com/news/4673539-tencent-music-q3-revenue-falls-short-of-estimates-earnings-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:28:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tencent Music Q3 revenue falls short of estimates, earnings beat"
-    },
-    {
      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
      "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
      "pubDate": "Tue, 17 Nov 2026 11:27:33 GMT",
      "summary": "Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.",
      "source": "CNBC",
      "zh": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’"
-    },
-    {
-     "title": "Northern Dynasty Minerals GAAP EPS of -C$0.04",
-     "link": "https://seekingalpha.com/news/4673554-northern-dynasty-minerals-gaap-eps-of-c004?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 06:25:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northern Dynasty Minerals GAAP EPS of -C$0.04"
     },
     {
      "title": "35万亿银行理财“围城”：资金在涌入，投资者在“失眠”",

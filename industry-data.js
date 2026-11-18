@@ -1850,12 +1850,28 @@ window.INDUSTRY_DATA = {
      "zh": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车"
     },
     {
+     "title": "国产户外品牌，吃到凯乐石让出的平价生态了吗？",
+     "link": "https://www.tmtpost.com/8208700.html",
+     "pubDate": "Wed, 18 Nov 2026 10:13:00 +0800",
+     "summary": "平价户外看着是甜点区，吃着是薄利区。",
+     "source": "钛媒体",
+     "zh": "国产户外品牌，吃到凯乐石让出的平价生态了吗？"
+    },
+    {
      "title": "巴西独立站接入Pix后回款周期拖到12天，是通道问题还是清算环节卡住？",
      "link": "https://www.baijing.cn/question/638795",
      "pubDate": "Wed, 18 Nov 2026 02:10:45 +0000",
      "summary": "我们做拉美独立站，主卖3C配件，巴西站刚起量，月订单约4000单，客单价120雷亚尔左右。上个月接了Pix做主支付方式，支付成功率从信用卡的62%拉到81%，但回款周期从宣传的T+1变成实际平均12天才到账，部分订单甚至超过15天。已经换过两家本地收单通道，也核对了对账单，发现延迟主要出在清算到本地账户这一段，物流端用Correios发货后妥投率约78%，妥投数据回传又慢，导致部分款项被压。现在卡在不知道是该换通道商还是补物流签收凭证来加速清算，想直接问：巴西Pix回款的实际时限到底该按什么标准判断，通道商宣传的T+1在什么条件下才成立？",
      "source": "白鲸出海",
      "zh": "巴西独立站接入Pix后回款周期拖到12天，是通道问题还是清算环节卡住？"
+    },
+    {
+     "title": "大洋彼岸的数据中心成了洪水猛兽",
+     "link": "https://www.tmtpost.com/8208735.html",
+     "pubDate": "Wed, 18 Nov 2026 10:09:00 +0800",
+     "summary": "AI算力需求激增，数据中心却因噪声、用水、电价及土地占用引发海外居民抵制。美国多地收紧审批，并要求开发商承担扩网风险。中国则以机房上架率约束新增建设，探索绿电直连和算力跨区域调度。数据中心扩张正从争抢投资转向衡量资源成本与实际需求。",
+     "source": "钛媒体",
+     "zh": "大洋彼岸的数据中心成了洪水猛兽"
     },
     {
      "title": "299 元小米对讲机 2S 新增橙色版：4W 发射功率、120 小时超长待机",
@@ -1880,6 +1896,30 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 18 日消息，Anthropic 昨日（11 月 17 日）更新 Claude 平台文档，宣布引入名为“关联计费”（Linked Billing）的 OAuth 测试版功能。 用户未来使用某个第三方 AI 应用时，可以直接使用自己的 Claude 账户支付背后真实的 AI 调用费用。 以往企业或开发者若在编码助手、工作流自动化等第三方工具中调用 Claude，往往需要共享 API 密钥。密钥一旦泄露，可能被他人用于调用并产生费用。 而“关联计费”不再由开发者统一承担模型使用成本，开发者可将自家应用与客户的 Claude Platform 组织关联，让客户直接为其在应用中产生",
      "source": "IT之家",
      "zh": "Claude 关联计费测试上线，第三方应用 AI 消费能“按需结算”"
+    },
+    {
+     "title": "顺为资本押注的天才，被告到英国司法机构",
+     "link": "https://www.tmtpost.com/8208723.html",
+     "pubDate": "Wed, 18 Nov 2026 10:02:00 +0800",
+     "summary": "融资10亿元，知名PE追责明星创业者陈曦。",
+     "source": "钛媒体",
+     "zh": "顺为资本押注的天才，被告到英国司法机构"
+    },
+    {
+     "title": "GPT-6.2 Astra终于上线，从PPT做到发动机",
+     "link": "https://www.tmtpost.com/8209040.html",
+     "pubDate": "Wed, 18 Nov 2026 09:58:00 +0800",
+     "summary": "新模型什么活都想干，但很难伺候。",
+     "source": "钛媒体",
+     "zh": "GPT-6.2 Astra终于上线，从PPT做到发动机"
+    },
+    {
+     "title": "芯片供不应求，台积电却开始给客户“验资”？",
+     "link": "https://www.tmtpost.com/8208977.html",
+     "pubDate": "Wed, 18 Nov 2026 09:51:00 +0800",
+     "summary": "芯片不愁卖，谁在替买家垫钱？",
+     "source": "钛媒体",
+     "zh": "芯片供不应求，台积电却开始给客户“验资”？"
     },
     {
      "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic&apos;s IPO midpoint, the average employee&apos;s equity is valued at $72M (Bloomberg)",

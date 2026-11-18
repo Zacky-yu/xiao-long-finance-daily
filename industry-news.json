@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 16:52:12",
+ "generated_at": "2026/11/18 16:56:53",
  "recent_days": 7,
  "industries": [
   {
@@ -8,22 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "GPT-6.2难产！OpenAI怕了",
-     "link": "https://www.qbitai.com/2026/11/510914.html",
-     "pubDate": "Wed, 18 Nov 2026 07:53:29 +0000",
-     "summary": "OpenAI也终于活成了2022年谷歌的样子",
-     "source": "量子位",
-     "zh": "GPT-6.2难产！OpenAI怕了"
-    },
-    {
-     "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-     "link": "https://www.qbitai.com/2026/11/510916.html",
-     "pubDate": "Wed, 18 Nov 2026 07:24:50 +0000",
-     "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
-     "source": "量子位",
-     "zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
-    },
     {
      "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
      "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
@@ -153,6 +137,14 @@
      "zh": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑"
     },
     {
+     "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+     "link": "https://www.qbitai.com/2026/11/510707.html",
+     "pubDate": "Wed, 18 Nov 2026 00:49:14 +0000",
+     "summary": "Sol逼近旗舰性能",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra和Sol王炸双发！3D又危了"
+    },
+    {
      "title": "OpenAI掏出GPT‑6.2 Astra：“史上最会做PPT的大模型”！",
      "link": "https://zhidx.com/p/611628.html",
      "pubDate": "Wed, 18 Nov 2026 08:43:58 +0800",
@@ -247,6 +239,14 @@
      "summary": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
      "source": "KDnuggets",
      "zh": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn"
+    },
+    {
+     "title": "Research Reports",
+     "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+     "pubDate": "Tue, 17 Nov 2026 14:39:46 +0000",
+     "summary": "To access a report, click on the corresponding image below.",
+     "source": "MIT Tech Review AI",
+     "zh": "Research Reports"
     }
    ]
   },
@@ -873,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "EU reaches provisional deal to accelerate renewable energy permitting",
+     "link": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/",
+     "pubDate": "Wed, 18 Nov 2026 08:54:04 +0000",
+     "summary": "The Council of the European Union and the European Parliament have reached a provisional agreement on new rules designed to accelerate permitting and grid connections for renewable energy projects across the bloc. EU member states will have 18 months to transpose the directive into national law foll",
+     "source": "pv magazine",
+     "zh": "EU reaches provisional deal to accelerate renewable energy permitting"
+    },
+    {
      "title": "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Fast-Track-Renewables-as-Oil-Import-Costs-Soar.html",
      "pubDate": "Wed, 18 Nov 2026 02:45:00 -0600",
@@ -935,14 +943,6 @@
      "summary": "Western Australia, home to facilities producing 66% of the country’s LNG for export, will not be included in a federal government scheme mandating gas companies to set aside certain volumes for the domestic market to avoid shortages. The state, where Woodside Energy operates the North West Shelf sit",
      "source": "OilPrice",
      "zh": "Western Australia Wins Battle Over Federal Gas Reservation Scheme"
-    },
-    {
-     "title": "Poland pushes for cybersecurity requirements for renewables grid connections",
-     "link": "https://www.pv-magazine.com/2026/11/18/poland-pushes-for-cybersecurity-requirements-for-renewables-grid-connections/",
-     "pubDate": "Wed, 18 Nov 2026 07:18:38 +0000",
-     "summary": "The proposed measures include stricter protection of operational technology, secure remote access, incident reporting and compliance audits. The recommendations follow a December 2025 cyberattack on Polish renewable energy facilities and could allow grid operators to refuse connections or terminate ",
-     "source": "pv magazine",
-     "zh": "Poland pushes for cybersecurity requirements for renewables grid connections"
     },
     {
      "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Oracle Patches 640 Vulnerabilities With November 2026 CSPU",
+     "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+     "pubDate": "Wed, 18 Nov 2026 08:47:18 +0000",
+     "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 640 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Oracle Patches 640 Vulnerabilities With November 2026 CSPU"
+    },
+    {
      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
      "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500",
@@ -1735,14 +1743,6 @@
      "summary": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Fandango Warns Ticket Buyers of Payment Card Data Exposure"
-    },
-    {
-     "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-     "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-     "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool"
     },
     {
      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
@@ -2033,6 +2033,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Hokkaido is a Switch 2 emulator for Android that now also offers native ports",
+     "link": "https://www.androidauthority.com/switch-2-emulator-native-ports-banana-native-3736425/",
+     "pubDate": "Wed, 18 Nov 2026 08:49:06 +0000",
+     "summary": "Emulation or native port? This updated emulator doesn't force you to choose.",
+     "source": "Android Authority",
+     "zh": "Hokkaido is a Switch 2 emulator for Android that now also offers native ports"
+    },
+    {
      "title": "Google Voice on Android gets redesign, hints at future RCS support",
      "link": "https://www.androidauthority.com/google-voice-android-redesign-rcs-support-3736431/",
      "pubDate": "Wed, 18 Nov 2026 08:45:10 +0000",
@@ -2103,14 +2111,6 @@
      "summary": "Keep an eye on your Samsung Members app.",
      "source": "Android Authority",
      "zh": "Galaxy S26 owners could get their first taste of One UI 9.5 today"
-    },
-    {
-     "title": "YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once",
-     "link": "https://www.androidauthority.com/youtube-co-views-on-tv-3736335/",
-     "pubDate": "Wed, 18 Nov 2026 05:14:42 +0000",
-     "summary": "By guessing the total number of viewers in front of the TV.",
-     "source": "Android Authority",
-     "zh": "YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once"
     },
     {
      "title": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed",
@@ -2281,6 +2281,22 @@
    "total": 13,
    "items": [
     {
+     "title": "黄金什么时候对实际利率脱敏？",
+     "link": "https://wallstreetcn.com/articles/3786181",
+     "pubDate": "Wed, 18 Nov 2026 16:51:58 +0800",
+     "summary": "2026年，黄金与实际利率的传统负相关关系重新显现。自3月以来，随着10年期美债实际利率持续走高，金价明显回落。而在2024—2025年，这一关系曾一度失效，黄金甚至在实际利率上行期间持续走强。黄金为何会阶段性摆脱实际利率的约束？又在什么条件下，实际利率不再是主导金价的核心因素？ 财通证券在11月15日发布的报告中，复盘了2003年以来黄金与10年期美债实际利率的关系。报告认为， 央行购金和黄金ETF资金流向是影响这种关系的重要变量，通胀预期、地缘风险及主权信用担忧也可能在特定时期改变黄金的定价权重。 历史经验显示，黄金与实际利率的关系并非固定不变。2024—2025年，尽管实际利率波动，黄金",
+     "source": "华尔街见闻",
+     "zh": "黄金什么时候对实际利率脱敏？"
+    },
+    {
+     "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 08:50:00 GMT",
+     "summary": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now."
+    },
+    {
      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
      "pubDate": "Wed, 18 Nov 2026 08:29:35 GMT",
@@ -2409,14 +2425,6 @@
      "zh": "TrendForce预测：HBM4明年将涨价超100%，但NAND二季度起转跌"
     },
     {
-     "title": "抖音生活服务换帅，莫少君接棒浦燕子",
-     "link": "https://wallstreetcn.com/articles/3786179",
-     "pubDate": "Wed, 18 Nov 2026 15:30:52 +0800",
-     "summary": "执掌抖音生活服务三年后，浦燕子将这一业务交给了红果短剧负责人莫少君。 11月17日消息，浦燕子因个人及家庭生活安排卸任抖音生活服务总裁，转任公司顾问，后续将参与公益等工作。抖音集团回应称，此次调整属于正常的管理岗位轮换与交接，公司将继续投入生活服务业务。 两任负责人的履历各有侧重。浦燕子是抖音集团早期员工，长期从事商业化和销售工作。2023年11月，她在担任集团商业化负责人的同时，开始兼任生活服务总裁。任内，餐饮、酒旅、休闲娱乐等线下商家陆续扩大在抖音的生意。 按平台披露的数据，2025年抖音生活服务总交易额同比增长59%，全年新增入驻商家399万，产生过交易的门店累计达到约1520万家。 接",
-     "source": "华尔街见闻",
-     "zh": "抖音生活服务换帅，莫少君接棒浦燕子"
-    },
-    {
      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
      "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
      "pubDate": "Wed, 18 Nov 2026 07:24:06 GMT",
@@ -2511,14 +2519,6 @@
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 23:15:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     }
    ]
   },

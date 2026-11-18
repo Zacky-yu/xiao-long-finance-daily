@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 14:12:01",
+ "generated_at": "2026/11/18 14:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -1028,7 +1028,7 @@
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1092,7 +1092,7 @@
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1337,6 +1337,14 @@
      "zh": "Sierra Snow Season Spins Up"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "NASA Launches Nuclear Power Systems Student Contest",
      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
      "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
@@ -1473,6 +1481,14 @@
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1521,6 +1537,14 @@
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1544,6 +1568,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+     "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+     "pubDate": "Wed, 18 Nov 2026 11:28:04 +0530",
+     "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
+     "source": "The Hacker News",
+     "zh": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
+    },
     {
      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
@@ -1721,14 +1753,6 @@
      "zh": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
     },
     {
-     "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-     "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-     "pubDate": "Tue, 17 Nov 2026 17:44:36 +0530",
-     "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in",
-     "source": "The Hacker News",
-     "zh": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1760,6 +1784,78 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "沙特 COD 投放 CPA 涨到 42 美元，回款周期拖到 21 天还扛得住吗？",
+     "link": "https://www.baijing.cn/question/638810",
+     "pubDate": "Wed, 18 Nov 2026 06:22:42 +0000",
+     "summary": "我们做中东沙特站的时尚配饰独立站，团队 6 个人，刚起量两个月，日均 80 单左右，全部走 COD。最近投 Snapchat 和 TikTok，CPA 从 28 美元涨到 42 美元，签收率只有 61%，物流商回款周期从承诺的 14 天拖到 21 天，现金流压得很紧。已经试过换本地物流商、加签收前电话确认，但回款节点还是卡在物流商对账那一步。现在纠结是继续加大投放冲量摊薄固定成本，还是先压预算等回款提速，这个取舍该怎么判断？",
+     "source": "白鲸出海",
+     "zh": "沙特 COD 投放 CPA 涨到 42 美元，回款周期拖到 21 天还扛得住吗？"
+    },
+    {
+     "title": "全国首个昇腾 950DT 词元出海算力集群在汕头启用：华为、中国电信、天亿马三方合作",
+     "link": "https://www.ithome.com/1/028/811.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:22:06 GMT",
+     "summary": "IT之家 11 月 18 日消息，汕头市人民政府门户网站 11 月 16 日宣布全国首个基于华为昇腾 950DT 芯片的词元出海算力集群 11 月 13 日在广东汕头正式启用。 据介绍，该算力集群由中国电信汕头分公司、广东天亿马信息产业股份有限公司和华为技术有限公司联合建设，依托中国电信汕头国际海缆登陆站提供跨境网络连接，面向全球提供智能算力服务。 该集群是全国首个采用昇腾 950DT 自主创新芯片、面向「词元出海」的智能算力集群，标志着汕头打通了从国产算力部署到跨境智能服务交付的完整链路。 该项目采用三方协同模式：中国电信提供网络通信资源和机房基础设施，华为提供国产高性能算力设备，广东天亿马",
+     "source": "IT之家",
+     "zh": "全国首个昇腾 950DT 词元出海算力集群在汕头启用：华为、中国电信、天亿马三方合作"
+    },
+    {
+     "title": "部分 Win11 用户反馈安装微软 11 月更新后打印机“失联”、财务软件 Sage 50 崩溃等",
+     "link": "https://www.ithome.com/1/028/810.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:20:27 GMT",
+     "summary": "IT之家 11 月 18 日消息，科技媒体 NeoWin 昨日（11 月 17 日）发布博文，报道称部分 Windows 11 用户反馈安装 11 月累积更新 KB5132043 与 KB5132061 后，出现打印连接故障。 根据微软社区帖子，一位管理员说安装 KB5132043 会导致连接的打印机显示为“未连接”，即使尝试排查打印机问题，问题依旧存在，唯一恢复打印功能的方法是卸载热补丁更新。 另一份报告描述了 11 月安装 CU 后出现的类似问题。该用户表示，Excel、Word、Adobe Acrobat 及其他应用程序的打印功能停止工作，甚至连 Microsoft 内置的“打印成 PD",
+     "source": "IT之家",
+     "zh": "部分 Win11 用户反馈安装微软 11 月更新后打印机“失联”、财务软件 Sage 50 崩溃等"
+    },
+    {
+     "title": "Keychron × GDK Lab 联名全铝磁轴键盘 Z2 60 HE 8K 上市，791 元",
+     "link": "https://www.ithome.com/1/028/809.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:18:10 GMT",
+     "summary": "IT之家 11 月 18 日消息，Keychron 昨日开始销售其与 GDK Lab 合作打造的磁轴键盘 Z2 60 HE 8K。该产品拥有全铝机身， 支持 8kHz 回报率单模有线连接 ，可选流羽银 / 流光黑 2 种配色，到手价 791 元。 Z2 60 HE 8K 机身采用铝合金材质， 结合 CNC 机加工、220 目喷砂氧化、激光雕刻、喷粉、数控刀纹工艺 。 其内部采用 TOP 固定结构，包含 4 层填充和铝合金定位板，PCB 集成下灯位背光；配备透光的环诺星瞳 RGB 磁轴（初始压力 33±8gf、总行程 3.55±0.3mm）；键帽为雾透效果 PC 材质电镀工艺；支持 0.005m",
+     "source": "IT之家",
+     "zh": "Keychron × GDK Lab 联名全铝磁轴键盘 Z2 60 HE 8K 上市，791 元"
+    },
+    {
+     "title": "沙特COD签收率上不去，是素材本地化没做对吗？",
+     "link": "https://www.baijing.cn/question/638809",
+     "pubDate": "Wed, 18 Nov 2026 06:12:35 +0000",
+     "summary": "我们做中东COD美妆个护，沙特和阿联酋两条线，团队12人，月单量约8000单，用的是极兔和iMile派送。同一个产品，阿联酋签收率能到72%，沙特只有51%，回款周期从阿联酋的18天拉到沙特的35天，现金流压得很难受。素材上我们试过把阿联酋跑的爆款视频直接翻译成阿语投沙特，也找本地演员重拍过两版，签收率只涨了3个点。现在卡在判断不了到底是素材里的人设和场景不符合沙特用户，还是COD本身货到付款的信任门槛问题。想直接问：沙特市场做COD，素材本地化要改到哪个程度才值得继续投，还是说这个签收率差距本质不在素材？",
+     "source": "白鲸出海",
+     "zh": "沙特COD签收率上不去，是素材本地化没做对吗？"
+    },
+    {
+     "title": "一加 Turbo7 Pro 手机疑似入网：支持 100W 闪充，电池不低于 9000mAh",
+     "link": "https://www.ithome.com/1/028/799.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:11:24 GMT",
+     "summary": "IT之家 11 月 18 日消息，一款型号为 PYP110 的 OPPO 新机近日通过工信部 3C 认证，微博博主 @数码闲聊站 称该机疑似一加 Turbo 7 Pro，支持 100W 闪充。 结合博主后续在评论区的发文，这款手机预计 12 月发布，电池不会低于 9000mAh，处理器是高通 SM8845 Pro。 IT之家了解到，一加 Turbo 系列的最新机型目前是 Turbo 6Vs 。该机搭载第四代高通骁龙 7s 处理器，配备 12GB 内存和 256GB 存储空间，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度",
+     "source": "IT之家",
+     "zh": "一加 Turbo7 Pro 手机疑似入网：支持 100W 闪充，电池不低于 9000mAh"
+    },
+    {
+     "title": "33年来第一份没有黄仁勋的财报：漂亮得像一封分手信？",
+     "link": "https://www.huxiu.com/article/4906531.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 14:09:25 +0800",
+     "summary": "本文来自微信公众号： 未来图灵 ，作者：张凤静 当地时间11月17日，黄仁勋发了一篇很长的声明。道歉，忏悔，感谢，最后一句是：如果董事会觉得我对股东、员工、公司和美国还有用，我很荣幸回来。 几个小时后，英伟达董事长哈维·琼斯在财报电话会开场第一句话，把门焊死了：董事会一致接受了他的辞呈，无意让他回归。 这中间发生了什么？一份人类商业史上最诡异的财报之一：英伟达2027财年第三季度营收1158亿美元，同比增长103%；数据中心营收1076亿美元，同比增长110%，占公司总营收的93%。单季数据中心销售额，超过了英特尔和AMD两家公司全年营收的总和。 一个创始人，因为私德问题辞职，发长文求归，被董",
+     "source": "虎嗅",
+     "zh": "33年来第一份没有黄仁勋的财报：漂亮得像一封分手信？"
+    },
+    {
+     "title": "微软拟升级 Copilot，要给你的 Win11 电脑“看病”",
+     "link": "https://www.ithome.com/1/028/796.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:07:59 GMT",
+     "summary": "IT之家 11 月 18 日消息，昨日（11 月 17 日）召开的 Ignite 2026 活动中， 微软宣布拓展 Windows 11 系统的 Copilot 技能，将其升级为“能看懂电脑状况的 AI 诊断助手”。 根据微软官方描述的场景方案，用户未来使用 Windows 11 系统过程中，如果遇到蓝牙耳机没有声音、外接硬盘无法识别或系统性能异常等故障之后，可以直接在 Windows 搜索框输入自然语言描述，例如“我的蓝牙耳机没有声音，能帮我诊断吗？”，系统会将相关问题直接发送给 Copilot。 在获得用户授权后，Copilot 可读取系统信息，并针对具体设备执行检查。以蓝牙音频故障为例，",
+     "source": "IT之家",
+     "zh": "微软拟升级 Copilot，要给你的 Win11 电脑“看病”"
+    },
+    {
+     "title": "微软 Windows Server 2028 开放测试：默认启用 NVMe 并支持 ReFS 启动，新增本地 AI 推理支持",
+     "link": "https://www.ithome.com/1/028/794.htm",
+     "pubDate": "Wed, 18 Nov 2026 06:04:24 GMT",
+     "summary": "IT之家 11 月 18 日消息，微软今天宣布推出 Windows Server 2028 公开预览版。开发者和 IT 管理员可以通过 Windows Server Insider 预览计划获取测试镜像。 微软表示，Windows Server 2028 将重点升级存储性能、安全架构、虚拟化和集中管理能力，同时开始将本地 AI 推理纳入服务器平台的发展方向，为企业在自有数据中心部署 AI 模型提供基础设施支持。 微软 Windows Server 团队在官方博客中表示，企业对于 AI 推理部署位置的需求正在发生变化，部分业务需要在靠近数据和实际运营环境的位置运行模型。因此，新系统将围绕硬件加速",
+     "source": "IT之家",
+     "zh": "微软 Windows Server 2028 开放测试：默认启用 NVMe 并支持 ReFS 启动，新增本地 AI 推理支持"
+    },
     {
      "title": "34岁的沪上金融精英，困在AI的恋爱中",
      "link": "https://www.huxiu.com/article/4906530.html?f=rss",
@@ -1897,22 +1993,6 @@
      "zh": "啤酒巨头卖不动了，千万年薪总裁提前退场"
     },
     {
-     "title": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥",
-     "link": "https://www.ithome.com/1/028/764.htm",
-     "pubDate": "Wed, 18 Nov 2026 05:41:42 GMT",
-     "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 昨日（11 月 17 日）发布博文，报道称微软正在测试一项 Windows 11 新功能： 当用户从微软账户切换为本地账户后，系统会提醒其备份 BitLocker 恢复密钥，以避免日后因密钥丢失而无法访问加密硬盘。 在 Windows 11 Build 26340.10013 预览版中，微软正在测试“从微软账户安全切换至本地账户”的新提示。微软为降低数据丢失风险，用户在“设置”中切换账户类型时，系统将提示备份 BitLocker 恢复密钥，并更新相关说明。 IT之家注：BitLocker 是 Windows 内置的磁盘加",
-     "source": "IT之家",
-     "zh": "微软 Win11 测试新提醒：切换本地账号前，先备份 BitLocker 密钥"
-    },
-    {
-     "title": "晋江“鉴AI”比“用AI”还难搞？",
-     "link": "https://www.huxiu.com/article/4906508.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 13:40:36 +0800",
-     "summary": "本文来自微信公众号： 娱乐资本论 ，作者：文刀雨日青，原文标题：《晋江&ldquo;鉴AI&rdquo;比&ldquo;用AI&rdquo;还难搞？我们自测30篇结果&hellip;》，题图来自：视觉中国 最近，晋江文学城也陷入了AI创作的争议。 本月伊始，陆续有读者在社交平台晒出晋江小说的AI检测结果。部分作品的多个章节被标出80%以上的AI可疑度，涉及作品从普通网文延伸到金榜作者，甚至包括部分已经出售版权的小说。 随着越来越多的作品被网友集中&ldquo;鉴AI&rdquo;，争议也从作者是否使用AI，转向晋江平台如何认定和处理违规创作。一些读者认为平台处理力度不足，但朱雀等AI检测工具本",
-     "source": "虎嗅",
-     "zh": "晋江“鉴AI”比“用AI”还难搞？"
-    },
-    {
      "title": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which CEO Satya Nadella calls \"the new OS for work\" (Nick Indge/Ars Technica)",
      "link": "https://www.techmeme.com/261118/p1#a261118p1",
      "pubDate": "Wed, 18 Nov 2026 00:40:01 -0500",
@@ -1943,62 +2023,6 @@
      "summary": "押注差异化视网膜疗法。",
      "source": "钛媒体",
      "zh": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶"
-    },
-    {
-     "title": "Why Fibonacci?",
-     "link": "https://www.evilgeniuslabs.org/why-fibonacci",
-     "pubDate": "Wed, 18 Nov 2026 05:35:02 +0000",
-     "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Why Fibonacci?"
-    },
-    {
-     "title": "苹果订阅版 Final Cut Pro 加入 MotionVFX，视频特效更省事",
-     "link": "https://www.ithome.com/1/028/749.htm",
-     "pubDate": "Wed, 18 Nov 2026 05:29:34 GMT",
-     "summary": "IT之家 11 月 18 日消息，科技媒体 MacRumors 昨日（11 月 17 日）发布博文， 报道称苹果面向 Apple 创作坊（Apple Creator Studio）用户，升级视频剪辑软件 Final Cut Pro，新增集成 MotionVFX 功能。 IT之家曾于今年 3 月报道， 苹果收购 Final Cut Pro 插件公司 MotionVFX ，在本次更新后，该公司的素材库被直接纳入 FCP，涵盖模板、标题、主题、特效、版式和转场等创作者常用资源。 功能方面，用户可将 MotionVFX 图形和特效直接拖入视频时间轴，也能在场景中添加 3D 标题和图形。新功能支持将 3",
-     "source": "IT之家",
-     "zh": "苹果订阅版 Final Cut Pro 加入 MotionVFX，视频特效更省事"
-    },
-    {
-     "title": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
-     "link": "https://www.tmtpost.com/8209481.html",
-     "pubDate": "Wed, 18 Nov 2026 13:29:04 +0800",
-     "summary": "英伟达史上首位董事会主席，最沉默的亿万富翁，开口了。",
-     "source": "钛媒体",
-     "zh": "哈维・琼斯：成就黄仁勋，赶走黄仁勋"
-    },
-    {
-     "title": "尼日利亚站投放 CPA 涨到 12 美元，是支付转化拖累还是素材问题？",
-     "link": "https://www.baijing.cn/question/638805",
-     "pubDate": "Wed, 18 Nov 2026 05:27:15 +0000",
-     "summary": "尼日利亚站最近投放数据有点看不懂。我们做的是 3C 配件独立站，团队 8 人，刚起量阶段，月投放预算大概 1.5 万美元。用 Meta 和 Google 跑拉各斯和阿布贾，前两周 CPA 还在 6-7 美元，这两周直接涨到 12 美元左右，落地页加购率还有 5%，但到支付成功这一步掉得厉害，银行卡和 USSD 两条通道的失败率加起来接近 40%，Paystack 后台看到不少 pending 订单最后没转成成功。素材我们换过三版，受众也收窄了，CPA 没降下来。现在卡在不知道该先压投放还是先修支付链路。像这种情况，判断是支付本地化没做好还是投放素材疲劳，你们一般看哪个指标？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站投放 CPA 涨到 12 美元，是支付转化拖累还是素材问题？"
-    },
-    {
-     "title": "I had AI read my field",
-     "link": "https://science.caseyhandmer.com/physics/",
-     "pubDate": "Wed, 18 Nov 2026 05:26:41 +0000",
-     "summary": "Article URL: https://science.caseyhandmer.com/physics/ Comments URL: https://news.ycombinator.com/item?id=50542217 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "I had AI read my field"
-    },
-    {
-     "title": "人类历史上首次：旅行者 1 号抵达 1 光日位置，飞行 49 年仍未真正飞出太阳系",
-     "link": "https://www.ithome.com/1/028/745.htm",
-     "pubDate": "Wed, 18 Nov 2026 05:26:32 GMT",
-     "summary": "IT之家 11 月 18 日消息，NASA 于 1977 年发射的旅行者 1 号探测器于 2026 年 11 月 18 日正式抵达距离地球 1 光日的位置，成为人类历史上首个达到这一距离的人造物体。 所谓 1 光日，是指光在真空中传播 24 小时所经过的距离，并非时间单位。以光速计算，地球向旅行者 1 号发送一条无线电指令，单程就需要约 24 小时，往返通信时间则约为 48 小时。 旅行者 1 号于 1977 年 9 月 5 日发射升空，借助了百年难得一遇的行星大连珠（或称“行星大巡游”）实现“引力弹弓”连续加速（下一次要等到 2152 年前后），从而最大程度地节省燃料。 NASA 官方数据显",
-     "source": "IT之家",
-     "zh": "人类历史上首次：旅行者 1 号抵达 1 光日位置，飞行 49 年仍未真正飞出太阳系"
-    },
-    {
-     "title": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券",
-     "link": "https://www.ithome.com/1/028/744.htm",
-     "pubDate": "Wed, 18 Nov 2026 05:26:30 GMT",
-     "summary": "IT之家 11 月 18 日消息，录音学院（NARAS）于 11 月 16 日公布第 69 届格莱美奖提名名单， 苹果 Apple TV 旗下《音乐魔法镇！》（Schmigadoon!）和《寡妇湾》（Widow's Bay）获得 2027 年格莱美提名。 IT之家注：《音乐魔法镇！》是 Apple TV 的音乐喜剧剧集，第一季于 2021 年播出，第二季于 2023 年播出，苹果 Apple TV 在 2024 年 1 月宣布不再续订。而本次获得提名的是百老汇舞台音乐剧改编版的原声专辑。 该剧舞台版于 2026 年在百老汇上演，并在今年托尼奖中获得包括“最佳音乐剧”在内的四项大奖；其原声专辑由",
-     "source": "IT之家",
-     "zh": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券"
     }
    ]
   },
@@ -2008,6 +2032,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "YouTube will start boosting public view counts when you watch on a TV",
+     "link": "https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/",
+     "pubDate": "Wed, 18 Nov 2026 06:08:00 +0000",
+     "summary": "YouTube view counts are about to go up (again) thanks to a new metric.",
+     "source": "Engadget",
+     "zh": "YouTube will start boosting public view counts when you watch on a TV"
+    },
     {
      "title": "Galaxy S26 owners could get their first taste of One UI 9.5 today",
      "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-launch-date-leak-3736355/",
@@ -2185,14 +2217,6 @@
      "zh": "Material 3 Expressive adds scrolling time picker, AI Studio upgrades Android app creation"
     },
     {
-     "title": "CFTC tells Kalshi to stop letting people bet on Trump's speeches",
-     "link": "https://www.engadget.com/2320023/kalshi-ordered-to-stop-letting-people-bet-on-trump-speeches/",
-     "pubDate": "Tue, 17 Nov 2026 23:00:06 +0000",
-     "summary": "The prediction market platform's CEO has complied but opposed the move.",
-     "source": "Engadget",
-     "zh": "CFTC tells Kalshi to stop letting people bet on Trump's speeches"
-    },
-    {
      "title": "WhatsApp’s first-party chat history backup service moves ahead",
      "link": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
      "pubDate": "Tue, 17 Nov 2026 22:57:08 +0000",
@@ -2257,12 +2281,52 @@
    "total": 13,
    "items": [
     {
+     "title": "APi Group prices €500M of 5.25% senior notes due 2032",
+     "link": "https://seekingalpha.com/news/4674007-api-group-prices-500m-of-525-senior-notes-due-2032?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 01:23:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "APi Group prices €500M of 5.25% senior notes due 2032"
+    },
+    {
+     "title": "报道：苹果拟与三星达成多年DRAM协议，2027年上半年开启交付",
+     "link": "https://wallstreetcn.com/articles/3786167",
+     "pubDate": "Wed, 18 Nov 2026 14:21:41 +0800",
+     "summary": "苹果与三星正就长期DRAM芯片供应协议展开谈判，此举将填补苹果在内存采购战略上的一大空白。 据韩国《每日经济新闻》援引不具名业内人士消息， 双方拟议中的协议期限为四至五年，交付工作预计于2027年上半年启动。协议条款将设定最低供应量承诺，定价则与市场价格挂钩而非锁定固价。 消息公布后，三星电子股价上涨1.10%，苹果股价小幅下跌0.78%。 报道指出， 苹果目前是少数几家尚未与三星签订长期DRAM供应协议的大型科技公司之一。 若协议最终落地，将标志着苹果与三星在内存采购关系上的一次实质性转变，有助于苹果在关键零部件供应方面建立更稳定的保障。 苹果寻求内存供应稳定性 DRAM是智能手机、电脑及其",
+     "source": "华尔街见闻",
+     "zh": "报道：苹果拟与三星达成多年DRAM协议，2027年上半年开启交付"
+    },
+    {
+     "title": "Foremost Clean Energy discovers uranium at Turkey Lake, shares rise",
+     "link": "https://seekingalpha.com/news/4674003-foremost-clean-energy-discovers-uranium-at-turkey-lake-shares-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 01:17:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Foremost Clean Energy discovers uranium at Turkey Lake, shares rise"
+    },
+    {
+     "title": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
+     "link": "https://seekingalpha.com/news/4673998-asian-markets-trade-mixed-as-nvidia-earnings-lift-kospi-and-nikkei-hong-kong-slips-on-us-chip-curbs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 01:09:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs"
+    },
+    {
      "title": "Putin pitches Eurasian order ahead of Xi, Trump, CEO meets",
      "link": "https://seekingalpha.com/news/4674001-putin-pitches-eurasian-order-ahead-of-xi-trump-ceo-meets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 01:04:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Putin pitches Eurasian order ahead of Xi, Trump, CEO meets"
+    },
+    {
+     "title": "Deutsche Bank hired a Qatari royal. Why?",
+     "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 06:00:08 GMT",
+     "summary": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
+     "source": "Financial Times",
+     "zh": "Deutsche Bank hired a Qatari royal. Why?"
     },
     {
      "title": "Xi calls for greater Asia-Pacific trade openness ahead of Trump’s China visit",
@@ -2281,12 +2345,12 @@
      "zh": "Japan posts smaller-than-expected JPY 476.5B trade deficit in October as exports hit record high"
     },
     {
-     "title": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
-     "link": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 00:39:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Microsoft Foundry adds Baseten, DeepSeek AI inference"
+     "title": "AI抛售潮里，SpaceX凭什么扛住了？",
+     "link": "https://wallstreetcn.com/articles/3786164",
+     "pubDate": "Wed, 18 Nov 2026 13:43:36 +0800",
+     "summary": "在近期剧烈波动的AI抛售潮中，SpaceX展现出了惊人的抗跌韧性。摩根士丹利认为，SpaceX正在与传统的“AI交易”脱钩 （Decorrelate） ，成为投资者投资组合中更具持久性的避风港，维持其“增持”评级，目标价高达300美元。 据追风交易台消息，摩根士丹利在11月17日的研报中称，SpaceX的核心吸引力在于三大催化剂： 星链（Starlink）业务展现出的“类债券”稳定收益特征、旗下Terafab在重塑美国半导体供应链中的巨额资本开支计划（至2035年达4900亿美元），以及当前极具吸引力的估值水平（2028年预期市盈率远低于标普500指数） 。 不过，报告还指出，SpaceX与特",
+     "source": "华尔街见闻",
+     "zh": "AI抛售潮里，SpaceX凭什么扛住了？"
     },
     {
      "title": "现货黄金失守3800美元，为去年9月以来首次",
@@ -2305,28 +2369,12 @@
      "zh": "A股双创指数午后快速拉升，科创50涨超3%，算力租赁大涨，恒指跌1%，京东大跌8%"
     },
     {
-     "title": "Medline prices 60M share secondary offering at $35.50/share alongside $200M concurrent repurchase",
-     "link": "https://seekingalpha.com/news/4673992-medline-prices-60m-share-secondary-offering-at-3550share-alongside-200m-concurrent-repurchase?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 00:27:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Medline prices 60M share secondary offering at $35.50/share alongside $200M concurrent repurchase"
-    },
-    {
      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
      "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
      "pubDate": "Wed, 18 Nov 2026 05:24:54 GMT",
      "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
      "source": "CNBC",
      "zh": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount"
-    },
-    {
-     "title": "Venture Global, China Gas upsize long-term LNG deal",
-     "link": "https://seekingalpha.com/news/4673996-venture-global-china-gas-upsize-long-term-lng-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 00:24:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Venture Global, China Gas upsize long-term LNG deal"
     },
     {
      "title": "微博三季度广告行业分化，AI和视频还填不上收入缺口",
@@ -2409,6 +2457,14 @@
      "zh": "直击英伟达财报电话会，Token降价、旧芯片涨租"
     },
     {
+     "title": "涨价超100% 这一战略金属大爆发 A股公司稀缺（名单）",
+     "link": "http://finance.eastmoney.com/news/1344,202611183933861765.html",
+     "pubDate": "Wed, 18 Nov 2026 12:25:45 +0800",
+     "summary": "锗金属迎来多重利好。 涨价超100% 我的 钢铁 网数据显示，截至2026年11月17日，规格为99.999%的锗锭中间价为29500元/千克，较去年底的13600元/千克，上涨幅度接近117%；规格为99.999%的二氧化锗中间价为20500元/千克，较去年底的9200元/千克，上涨幅度接近123%。 从近期表现来看，在市场普遍弱势的情况下，锗金属价格表现较为强势。数据显示，锗锭2702价格近期突破30000元/千克，创出新高。从月线来看，锗锭2702已经五连阳，价格从25000元下方升至最新的29500元。 缺口或持续扩大 锗是兼具稀缺性与战略属性的关键矿产，产业逻辑从“资源输出”转向“战",
+     "source": "东方财富资讯",
+     "zh": "涨价超100% 这一战略金属大爆发 A股公司稀缺（名单）"
+    },
+    {
      "title": "Democrat Mary Peltola wins Alaska Senate election",
      "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
      "pubDate": "Wed, 18 Nov 2026 04:18:13 GMT",
@@ -2433,12 +2489,12 @@
      "zh": "只剩央行一个买家！时隔11天，高盛再度下调黄金目标价至4650美元"
     },
     {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 18 Nov 2026 11:51:00 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
+     "title": "7100亿巨头又新高！家用电器多股涨停 融资客最新抢筹这些股",
+     "link": "http://finance.eastmoney.com/news/11139,202611183933858696.html",
+     "pubDate": "Wed, 18 Nov 2026 12:03:10 +0800",
+     "summary": "家用电器 板块11月18日早盘逆势走强，板块中 四川长虹 、 澳柯玛 、 春光科技 、 爱仕达 、 长虹美菱 涨停 ； TCL智家 、 九阳股份 、 德尔玛 、 海信家电 、 小熊电器 等跟涨。 美的再创 历史新高 在市场人士看来，近期 家用电器 板块的走强，受到 美的集团 历史新高 的提振。11月18日早盘， 美的集团 继续震荡走强， 最高触及94.37元，股价再创 历史新高 。 继11月16日首次超过2021年2月10日盘中的91.53元前历史新高价后， 美的集团 已连续 3天 刷新历史新高。 今年以来， 美的集团 上涨超过26%。年K线来看，已是4连阳，期间累计上涨超过140%。目前公司",
+     "source": "东方财富资讯",
+     "zh": "7100亿巨头又新高！家用电器多股涨停 融资客最新抢筹这些股"
     },
     {
      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
@@ -2449,52 +2505,20 @@
      "zh": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin"
     },
     {
-     "title": "Nvidia has a chance to trade drama for durability",
-     "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 02:56:15 GMT",
-     "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
-     "source": "Financial Times",
-     "zh": "Nvidia has a chance to trade drama for durability"
+     "title": "科创50指数上涨0.48% 家电、通信服务走强 影视院线连续回调",
+     "link": "http://finance.eastmoney.com/news/1345,202611183933853360.html",
+     "pubDate": "Wed, 18 Nov 2026 11:30:43 +0800",
+     "summary": "A股三大指数集体下跌，科创50指数小幅上涨。盘面上， 白色家电 、 通信服务 、 算力 租赁 、 东数西算 、 F5 G概念、 元件 、 黑色家电 走强， 影视院线 、 贵金属 、电视广播、 CRO 、航空装备、 航天航空 表现不佳，位于跌幅榜前列。 截至午间收盘，沪指下跌0.40%，报3570.21点；深成指下跌0.75%，报10558.59点；创业板指下跌0.58%，报2278.82点；科创50指数上涨0.48%，报1227.00点；北证50指数下跌1.90%，报825.52点。全市场上涨个股有877家，下跌个股有4578家，33只股涨停。两市半日合计成交7928亿。 今日要闻 盘后股价大",
+     "source": "东方财富资讯",
+     "zh": "科创50指数上涨0.48% 家电、通信服务走强 影视院线连续回调"
     },
     {
-     "title": "Zelenskyy says Starshield speed curbs still in place over &apos;occupied territories&apos; of Ukraine",
-     "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-     "pubDate": "Wed, 18 Nov 2026 02:50:16 GMT",
-     "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
-     "source": "CNBC",
-     "zh": "Zelenskyy says Starshield speed curbs still in place over &apos;occupied territories&apos; of Ukraine"
-    },
-    {
-     "title": "京东外卖减亏过半，获客回报仍待检验",
-     "link": "https://wallstreetcn.com/articles/3786158",
-     "pubDate": "Wed, 18 Nov 2026 10:44:59 +0800",
-     "summary": "外卖亏损大幅收窄，推动京东三季度利润回升。但在补贴投入下降之后，此前吸引来的用户能够留下多少，又能为核心零售贡献多少增量，仍有待验证。 11月17日晚，京东发布2026年第三季度财报，营收3095.93亿元，同比增长3.5%；归属于普通股股东的净利润65.03亿元，同比增长约23.3%；经调整净利润83.27亿元，同比增长43.7%。 利润改善的主要来源是新业务减亏。 三季度，京东集团经营利润由上年同期亏损10.51亿元转为盈利51.54亿元，同比改善62.05亿元。其中，新业务经营亏损从157.36亿元降至96.42亿元，减少60.94亿元，相当于集团经营利润同比改善规模的98.2%。 相比",
-     "source": "华尔街见闻",
-     "zh": "京东外卖减亏过半，获客回报仍待检验"
-    },
-    {
-     "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
-     "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 02:17:18 GMT",
-     "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
-     "source": "Financial Times",
-     "zh": "‘Witness the Wonders’: China touts miracle city for Trump summit"
-    },
-    {
-     "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 01:59:00 GMT",
-     "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing"
-    },
-    {
-     "title": "Medicare Part B premiums rise due higher healthcare spending",
-     "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 01:45:00 GMT",
-     "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-     "source": "MarketWatch",
-     "zh": "Medicare Part B premiums rise due higher healthcare spending"
+     "title": "海外算力新规落地！国资云产业链建设持续提速(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611183933851772.html",
+     "pubDate": "Wed, 18 Nov 2026 11:26:18 +0800",
+     "summary": "美国将海外远程算力访问纳入许可管制，自主算力需求再受关注。国内算力网建设同步提速，国资云产业链迎来新催化。 美国将云端算力访问纳入许可管制 当地时间11月16日，美国商务部工业与安全局（BIS）发布临时最终规则，将先进 AI芯片 管制从实物出口延伸至海外 数据中心 的远程算力服务。若 数据中心 向总部或最终母公司设在中国（含中国澳门）等地的企业提供超过 1200万TPP算力 ，知情芯片出口商须先申请许可证，并逐案审查。 摩根士丹利 测算，该门槛大致相当于700至800块H100芯片；存量服务如需继续，也须在规则生效后90日内补办许可。 中国商务部11月17日回应称，美方泛化国家安全概念、滥用出",
+     "source": "东方财富资讯",
+     "zh": "海外算力新规落地！国资云产业链建设持续提速(名单)"
     }
    ]
   },

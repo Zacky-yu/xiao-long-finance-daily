@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 07:32:05",
+ "generated_at": "2026/11/19 07:52:13",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
+     "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
+     "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
+     "summary": "Charles Beyrouthy warns quantum stocks face a correction as investors ignore revenue and tech differences; watch where he sees opportunity next. The post Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says"
+    },
+    {
      "title": "Semiconductor Market Doubling in 2026 – Last Issue",
      "link": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/",
      "pubDate": "Wed, 18 Nov 2026 22:00:39 +0000",
@@ -456,14 +464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Korea Advanced Institute of Science and Technology (KAIST) published “Clock Distribution Network with Backside Clock Mesh in BSPDN Architecture.” Abstract Excerpt “We propose a clock distribution network (CDN) in which the clock mesh is located on backside metal (BM) layers, while the",
      "source": "Semiconductor Engineering",
      "zh": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)"
-    },
-    {
-     "title": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard",
-     "link": "https://www.eetimes.com/everspin-looks-to-broaden-mram-adoption-with-lpddr-standard/",
-     "pubDate": "Tue, 17 Nov 2026 17:26:57 +0000",
-     "summary": "An exploratory JEDEC task group is weighing how controller vendors could support MRAM with hard IP to work with newer LPDDR implementations. The post Everspin Looks to Broaden MRAM Adoption with LPDDR Standard appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Everspin Looks to Broaden MRAM Adoption with LPDDR Standard"
     },
     {
      "title": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board",
@@ -962,6 +962,14 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
+     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
+     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
+     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
+     "source": "Utility Dive",
+     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
+    },
+    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1016,6 +1024,14 @@ window.INDUSTRY_DATA = {
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
+    },
+    {
+     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
+     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
+     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
+     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
+     "source": "Utility Dive",
+     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1088,22 +1104,6 @@ window.INDUSTRY_DATA = {
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
-    },
-    {
-     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
-     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
-     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
-     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
-     "source": "pv magazine",
-     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
-    },
-    {
-     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
-     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
-     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
-     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
-     "source": "Energy Storage News",
-     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1570,12 +1570,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
     },
     {
-     "title": "Cold Relic Turns One Cloud Breach Into Another",
+     "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
      "pubDate": "Wed, 18 Nov 2026 21:59:46 GMT",
      "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
      "source": "Dark Reading",
-     "zh": "Cold Relic Turns One Cloud Breach Into Another"
+     "zh": "Russia's Cold Relic APT Turns One Cloud Breach Into Another"
     },
     {
      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
@@ -1770,12 +1770,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+     "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+     "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
+     "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+     "source": "TechCrunch",
+     "zh": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’"
+    },
+    {
+     "title": "中国大厂的海外3A梦，醒了",
+     "link": "https://www.huxiu.com/article/4906697.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 07:41:45 +0800",
+     "summary": "本文来自微信公众号： 刺猬公社 ，编辑：Yuki，作者：刺猬公社编辑部 互联网游戏大厂，为何放弃海外游戏工作室？ 又一家由业界大咖带队的新秀工作室倒下了。 11月初，日本官报号外第240号刊登了一则解散公告。公告显示，由“如龙之父”名越稔洋创立、网易全资持股的名越工作室，已于10月31日经股东大会决议正式解散，进入清算流程。 此时，距离名越工作室在全球玩家面前高调官宣新项目，只过去了不到一年时间。 去年12月，名越稔洋团队在TGA 2025颁奖典礼上正式揭晓了工作室成立后的首部作品——《GANG OF DRAGON》。据官方介绍，这是一款以东京新宿为舞台的动作冒险游戏，主人公Shin Ji-s",
+     "source": "虎嗅",
+     "zh": "中国大厂的海外3A梦，醒了"
+    },
+    {
+     "title": "建议你尽快养成“确实型人格”",
+     "link": "https://www.huxiu.com/article/4906685.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 07:32:36 +0800",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 前段时间，网上很流行一个说法，叫&ldquo;确实型人格&rdquo;。 起因是有人听孙宇晨的播客，发现他跟人聊天的时候，出现频率最高的一个词，就是&ldquo;确实&rdquo;。对方说什么，他都先接一句&ldquo;确实&rdquo;。于是有人把这种人总结成一类：不争辩，不纠正，谁说什么先肯定，再接话。 孙宇晨的为人我们不做评价。就这个&ldquo;确实&rdquo;本身，我的第一反应是，这不就是敷衍吗？ 但后来我改了主意。因为我试着复盘了自己最近的几次对话，结果有点尴尬。 朋友说，他觉得做某",
+     "source": "虎嗅",
+     "zh": "建议你尽快养成“确实型人格”"
+    },
+    {
+     "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)",
+     "link": "https://www.techmeme.com/261118/p47#a261118p47",
+     "pubDate": "Wed, 18 Nov 2026 18:30:04 -0500",
+     "summary": "Reuters : Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours &nbsp; &mdash;&nbsp; Cybersecurity firm Palo Alto Networks (PANW.O) raised its annual revenue forecast and signed a deal to acquire AI startup ",
+     "source": "Techmeme",
+     "zh": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)"
+    },
+    {
+     "title": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA",
+     "link": "https://www.ithome.com/1/029/140.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:30:03 GMT",
+     "summary": "IT之家 11 月 19 日消息，11 月 18 日，地平线机器人实验室发布原生视频几何基础模型 LoFT（Looped Foundation Transformer for Video Geometry）。据介绍，该模型能够从 RGB 视频中联合预测相机位姿、内参及逐帧深度，恢复场景三维结构，为机器人空间感知、环境理解与具身学习提供几何基础。 官方称，LoFT 原生面向连续视频建模，采用 双循环 Transformer 架构 ，将跨帧视觉信息聚合与相机状态迭代优化相结合，用于挖掘视频中的时序关联与多视角几何信息。 IT之家从官方公布信息获悉，第一循环通过局部与全局时序注意力聚合跨帧信息，逐步",
+     "source": "IT之家",
+     "zh": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA"
+    },
+    {
      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
      "pubDate": "Wed, 18 Nov 2026 23:25:04 +0000",
      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
      "source": "Ars Technica",
      "zh": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
+    },
+    {
+     "title": "Nginx 曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限",
+     "link": "https://www.ithome.com/1/029/139.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:20:56 GMT",
+     "summary": "IT之家 11 月 19 日消息，安全研究团队 Xint Security Research 于当地时间 11 月 18 日公开披露了一串名为 NGINX2Root 的漏洞攻击链，涉及 5 个 Nginx 远程代码执行（RCE）漏洞，以及 1 个 Linux 内核 SCTP 子系统权限提升漏洞。 攻击者无需身份认证，即可利用特定配置下的 Nginx 漏洞执行任意命令；如果进一步结合 Linux 内核漏洞，还可能实现 Docker 容器逃逸并获取宿主机 root 权限。 据 Xint 技术报告，5 个 Nginx 漏洞分别对应不同的功能和配置场景，涉及 HTTP/2、HTTP/3、反向代理及邮件",
+     "source": "IT之家",
+     "zh": "Nginx 曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限"
     },
     {
      "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
@@ -1794,6 +1842,30 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋绝无回归可能，因为相关方都害怕被民主党清算"
     },
     {
+     "title": "我国成功发射实践二十四号卫星，长征系列运载火箭第 678 次飞行",
+     "link": "https://www.ithome.com/1/029/138.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:15:54 GMT",
+     "summary": "IT之家 11 月 19 日消息，据央视新闻报道，北京时间 2026 年 11 月 19 日 6 时 51 分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 此次任务是长征系列运载火箭的第 678 次飞行。 延伸阅读 实践二十四号卫星属于我国的实践系列卫星。该系列卫星主要用于科学探测与技术实验，是我国卫星家族中诞生最早、成员最为庞大的系列之一。1971 年 3 月 3 日，我国发射了第一颗科学实验卫星实践一号，它是中国发射的第二颗卫星，基于东方红一号备份星研制，设计寿命为一年，但实际在太空中工作了 8 年之久。 执行",
+     "source": "IT之家",
+     "zh": "我国成功发射实践二十四号卫星，长征系列运载火箭第 678 次飞行"
+    },
+    {
+     "title": "谷歌推出 Stitch Loop：定位永远不下班的“产品进化器”，替你盯着产品改 Bug",
+     "link": "https://www.ithome.com/1/029/137.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:15:18 GMT",
+     "summary": "IT之家 11 月 19 日消息，谷歌旗下 Google Labs 昨日（11 月 18 日）推出实验性产品智能体 Stitch Loop，可连接代码库与线上实时数据，在软件发布后持续发现问题、提出改进方案并编写代码。 与完成单次任务便结束的工具不同，该智能体围绕团队设定的目标全天候运行，目标达成后仍会监测，防止相关指标再次下滑。IT之家附上相关演示视频如下： Stitch Loop 支持 180 多种集成，也可通过自定义 MCP 服务器或本地命令行上传资料。其工作流程包括发现改进机会、提供备选方案、编写代码和跟踪效果，形成持续优化循环。 在默认情况下，Stitch Loop 会执行网络安全、",
+     "source": "IT之家",
+     "zh": "谷歌推出 Stitch Loop：定位永远不下班的“产品进化器”，替你盯着产品改 Bug"
+    },
+    {
+     "title": "Omdia：2026 年 Q3 中东智能手机出货量同比下降 29%，创两年来最大跌幅，入门机型加速萎缩",
+     "link": "https://www.ithome.com/1/029/136.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:12:12 GMT",
+     "summary": "IT之家 11 月 19 日消息，11 月 18 日，根据 Omdia 最新研究，2026 年第三季度，中东地区（不包括土耳其）智能手机出货量同比下降 29%，至 1,070 万部，创两年来最大跌幅。 IT之家从报告获悉， 零部件成本上涨、入门级设备供应有限以及零售需求疲软 是导致市场下滑的主要因素。此外，夏季旅游带来的季节性需求放缓、地缘政治不确定性以及渠道补货趋于谨慎，也进一步加剧了市场压力。随着手机价格持续上涨，各厂商更加注重库存管理，并有选择性地提供市场支持，尤其是在低价智能手机细分市场。 报告提到，中东地区各市场的下滑幅度并不一致。沙特阿拉伯智能手机出货量同比下降 29%，阿联酋下降",
+     "source": "IT之家",
+     "zh": "Omdia：2026 年 Q3 中东智能手机出货量同比下降 29%，创两年来最大跌幅，入门机型加速萎缩"
+    },
+    {
      "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
      "link": "https://www.huxiu.com/article/4896154.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 07:10:43 +0800",
@@ -1810,6 +1882,14 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits"
     },
     {
+     "title": "OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%",
+     "link": "https://www.ithome.com/1/029/135.htm",
+     "pubDate": "Wed, 18 Nov 2026 23:07:38 GMT",
+     "summary": "IT之家 11 月 19 日消息，OpenAI 于当地时间 11 月 18 日发布最新技术报告《Advancing chip design with OpenAI models》，披露了利用 AI 模型辅助芯片设计的最新进展。 据介绍，OpenAI 已将相关技术应用于自研推理芯片 Jalapeño，以及 AMD 下一代 GPU 和 CPU 的设计优化，并通过开源 RISC-V 处理器测试评估不同代际模型的芯片设计能力。 OpenAI 表示，早在 2025 年初，工程师就开始使用 GPT-4o 辅助设计 Jalapeño。即使是当时的模型，也已经能够在芯片性能、功耗和面积（PPA）方面提出实质性",
+     "source": "IT之家",
+     "zh": "OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%"
+    },
+    {
      "title": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)",
      "link": "https://www.techmeme.com/261118/p46#a261118p46",
      "pubDate": "Wed, 18 Nov 2026 17:50:00 -0500",
@@ -1818,50 +1898,26 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)"
     },
     {
-     "title": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满",
-     "link": "https://www.ithome.com/1/029/133.htm",
-     "pubDate": "Wed, 18 Nov 2026 22:47:05 GMT",
-     "summary": "IT之家 11 月 19 日消息，据《The Information》今日报道，字节跳动正与微软进行深入谈判，计划额外采购约 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） 的 Azure 云服务，其中大部分支出将用于调用 OpenAI 的 AI 模型。知情人士称，这笔潜在交易引发了 OpenAI 对微软的不满。 此次谈判将进一步扩大字节跳动与微软现有的云服务合作规模。今年 6 月，彭博社曾报道称，字节跳动当时预计每年在微软 AI 和云服务上的支出将超过 10 亿美元 （现汇率约合 66.8 亿元人民币） 。 其争议主要集中在 OpenAI 模型的使用权限上。虽然 OpenAI ",
-     "source": "IT之家",
-     "zh": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满"
-    },
-    {
-     "title": "AMD 发布 26.11.2 肾上腺素驱动：新增 ROCm 10.2 支持，适配《影之刃零》游戏",
-     "link": "https://www.ithome.com/1/029/131.htm",
-     "pubDate": "Wed, 18 Nov 2026 22:42:57 GMT",
-     "summary": "IT之家 11 月 19 日消息，AMD 发布 Software: Adrenalin Edition 26.11.2 版显卡驱动，重点提升稳定性与可靠性，新增 ROCm 10.2 支持，并适配近期多款游戏。 新游戏支持与性能优化 新增 ROCm 10.2 支持。 新增适配《红色沙漠：增强版 - 未知征途》 DLC 游戏。 新增适配《影之刃零》游戏。 整体提升驱动稳定性与运行可靠性。 问题修复 修复 Windows 10 系统下安装驱动后 AMD Smart Access Memory 可能被禁用的问题。 修复 Radeon RX 7000 及以上系列显卡在重置着色器缓存后，首次启动《生化危机",
-     "source": "IT之家",
-     "zh": "AMD 发布 26.11.2 肾上腺素驱动：新增 ROCm 10.2 支持，适配《影之刃零》游戏"
-    },
-    {
      "title": "Why educational system is broken",
      "link": "https://keycybermonk.com/edu",
      "pubDate": "Wed, 18 Nov 2026 22:42:53 +0000",
-     "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 8",
      "source": "Hacker News",
      "zh": "Why educational system is broken"
     },
     {
-     "title": "史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动",
-     "link": "https://www.ithome.com/1/029/129.htm",
-     "pubDate": "Wed, 18 Nov 2026 22:39:07 GMT",
-     "summary": "IT之家 11 月 19 日消息， 今年早些时候，谷歌推出了实验性研究原型 Project Genie，可让用户生成并探索交互式虚拟世界。 早期测试用户反馈，希望能对世界内发生的内容有更强控制力，同时拥有更便捷的建造、分享方式。 如今，谷歌面向符合资格的 Google AI Ultra 订阅用户推出全新 Project Genie 体验，让这些虚拟世界的响应速度、创意性与社交属性大幅提升。 本次更新首次开放 Genie 4 访问权限，带来 Genie 3 的全新升级、可帮助用户实现创意的 Project Genie 智能体，以及用于发现、探索、二次创作世界的社区画廊。 Project Geni",
-     "source": "IT之家",
-     "zh": "史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动"
-    },
-    {
-     "title": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX",
-     "link": "https://www.ithome.com/1/029/132.htm",
-     "pubDate": "Wed, 18 Nov 2026 22:36:01 GMT",
-     "summary": "IT之家 11 月 19 日消息，据彭博社今日报道，Anthropic PBC 已将首次公开募股（IPO）发行价定为每股 83 美元，高于此前公布的 70 至 78 美元发行区间。 以此计算，Anthropic 完全稀释估值约 1.5 万亿美元，仅次于 SpaceX（1.77 万亿美元），但融资规模超越 SpaceX 成为全球史上最大 IPO。 根据 Anthropic 此前向美国证券交易委员会（SEC）提交的文件，公司原计划发行 8.0135 亿股，另外由 7 名联合创始人出售 2364.86 万股，合计约 8.25 亿股。按照每股 83 美元计算，此次公开发行预计募集资金约 684 亿美元",
-     "source": "IT之家",
-     "zh": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX"
+     "title": "LLM Assisted Reverse Engineering",
+     "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+     "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
+     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "LLM Assisted Reverse Engineering"
     },
     {
      "title": "GTA6-like as a 942Kb UEFI bootable image",
      "link": "https://github.com/eklavya-raj/gta6-uefi",
      "pubDate": "Wed, 18 Nov 2026 22:26:48 +0000",
-     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 9 # Comments: 2",
+     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 17 # Comments: 16",
      "source": "Hacker News",
      "zh": "GTA6-like as a 942Kb UEFI bootable image"
     },
@@ -1933,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Gemini 4 Neon",
      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
      "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 294 # Comments: 283",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 329 # Comments: 314",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon"
     },
@@ -1946,68 +2002,12 @@ window.INDUSTRY_DATA = {
      "zh": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t"
     },
     {
-     "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261118/p41#a261118p41",
-     "pubDate": "Wed, 18 Nov 2026 16:15:05 -0500",
-     "summary": "Kate Clark / Wall Street Journal : Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month &nbsp; &mdash;&nbsp; Startup was founded last year by former OpenAI researchers and specializes in custom",
-     "source": "Techmeme",
-     "zh": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)"
-    },
-    {
      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
      "pubDate": "Wed, 18 Nov 2026 21:15:00 +0000",
      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
      "source": "WIRED",
      "zh": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways"
-    },
-    {
-     "title": "AMD 发布 26.17 Linux 版 Radeon 软件升级：新增支持高带宽 HDMI 等",
-     "link": "https://www.ithome.com/1/029/130.htm",
-     "pubDate": "Wed, 18 Nov 2026 21:00:30 GMT",
-     "summary": "IT之家 11 月 19 日消息，AMD 发布了 Radeon Software for Linux 26.17 显卡驱动，这是 AMD 面向 Linux 平台的统一显卡驱动软件包，支持多款 Radeon 系列产品。 IT之家附官方公告链接（ https://www.amd.com/en/resources/support-articles/release-notes/RN-AMDGPU-UNIFIED-LINUX-26-17.html ）。 亮点 引入对 RHEL 10.3 和 RHEL 9.9 的支持。 新增支持高带宽 HDMI，包括这些连接上的音频，FreeSync 和可变刷新率，显示器",
-     "source": "IT之家",
-     "zh": "AMD 发布 26.17 Linux 版 Radeon 软件升级：新增支持高带宽 HDMI 等"
-    },
-    {
-     "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-     "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-     "pubDate": "Wed, 18 Nov 2026 20:41:12 +0000",
-     "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-     "source": "Ars Technica",
-     "zh": "Windows Server 2028 trades compatibility for out-of-the-box security"
-    },
-    {
-     "title": "Horizon Labs Report",
-     "link": "https://horizon-labs.ai/",
-     "pubDate": "Wed, 18 Nov 2026 20:12:34 +0000",
-     "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 16 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Horizon Labs Report"
-    },
-    {
-     "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
-     "link": "https://searchbrowser.app/",
-     "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 46 # Comments: 28",
-     "source": "Hacker News",
-     "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
-    },
-    {
-     "title": "Sexp Matrix",
-     "link": "https://lisper.cc/ideas/entangle.html",
-     "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 26 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Sexp Matrix"
-    },
-    {
-     "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
-     "link": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
-     "pubDate": "Wed, 18 Nov 2026 19:59:15 +0000",
-     "summary": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
-     "source": "WIRED",
-     "zh": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’"
     }
    ]
   },
@@ -2017,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google AI Ultra upgrade adds YouTube Premium Family",
+     "link": "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/",
+     "pubDate": "Wed, 18 Nov 2026 23:42:00 +0000",
+     "summary": "Google today updated its flagship AI Ultra tier to include YouTube Premium Family after previously limiting subscribers to the Individual plan. more…",
+     "source": "9to5Google",
+     "zh": "Google AI Ultra upgrade adds YouTube Premium Family"
+    },
+    {
+     "title": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+     "link": "https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/",
+     "pubDate": "Wed, 18 Nov 2026 23:23:57 +0000",
+     "summary": "Waymo temporarily paused service in San Francisco after several robotaxis caused traffic jams as they were unable to navigate flooded streets during a storm.",
+     "source": "Engadget",
+     "zh": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets"
+    },
     {
      "title": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer",
      "link": "https://9to5mac.com/2026/11/18/apple-card-doubles-daily-cash-rewards-for-new-customers-in-limited-time-offer/",
@@ -2218,22 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "You can't use GTA 6 cheats until you beat the game"
     },
     {
-     "title": "GTA 6 launch day: Live updates on the biggest game of the year",
-     "link": "https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/",
-     "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
-     "summary": "We're playing, you're playing, everyone's playing. Come join us as we share everything we find out about Rockstar's biggest game.",
-     "source": "Engadget",
-     "zh": "GTA 6 launch day: Live updates on the biggest game of the year"
-    },
-    {
-     "title": "Google Play wants Android apps to nail foldable basics by April 2027",
-     "link": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
-     "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
-     "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
-     "source": "9to5Google",
-     "zh": "Google Play wants Android apps to nail foldable basics by April 2027"
-    },
-    {
      "title": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around",
      "link": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
      "pubDate": "Wed, 18 Nov 2026 18:02:02 +0100",
@@ -2266,12 +2266,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+     "pubDate": "Wed, 18 Nov 2026 23:45:50 GMT",
+     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+     "source": "CNBC",
+     "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
+    },
+    {
+     "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "pubDate": "Wed, 18 Nov 2026 23:25:56 GMT",
+     "pubDate": "Wed, 18 Nov 2026 23:44:11 GMT",
      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
      "source": "CNBC",
-     "zh": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC"
+     "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
+    },
+    {
+     "title": "穆迪：下调英伟达评级展望，治理隐患盖过财务实力",
+     "link": "https://wallstreetcn.com/articles/3786235",
+     "pubDate": "Thu, 19 Nov 2026 07:42:49 +0800",
+     "summary": "英伟达因CEO黄仁勋离职引发的治理不确定性，已开始在资本市场层面产生实质影响。 11月18日周三，穆迪评级将英伟达的信用评级展望由\"正面\"下调至\"稳定\"，维持Aa1高级无担保债务评级不变。 这意味着在未来12至18个月内，英伟达的信用评级几乎不存在上调空间。 穆迪分析师Raj Joshi在声明中指出， 黄仁勋的离职\"已对公司业务战略和财务政策带来不确定性\"，尽管英伟达的市场领导地位和财务状况依然\"极为强劲\"。 与此同时，债券市场的反应相对温和，英伟达五年期信用违约互换（CDS）周三报121个基点，较一周前下降约20个基点， 交易员认为黄仁勋离职或将限制公司举债规模，从而在一定程度上缓解信用层面",
+     "source": "华尔街见闻",
+     "zh": "穆迪：下调英伟达评级展望，治理隐患盖过财务实力"
+    },
+    {
+     "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+     "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+     "pubDate": "Wed, 18 Nov 2026 23:38:55 GMT",
+     "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+     "source": "CNBC",
+     "zh": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market"
+    },
+    {
+     "title": "史上最大IPO周四上市！Anthropic定价83美元，募资940亿美元、估值1.5万亿",
+     "link": "https://wallstreetcn.com/articles/3786222",
+     "pubDate": "Thu, 19 Nov 2026 07:37:22 +0800",
+     "summary": "Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。 周三据彭博援引知情人士透露，此次发行规模同步扩大。结合同步进行的260亿美元私募配售，本次整体融资总额预计超过940亿美元，超越SpaceX今年6月创下的862亿美元纪录。 此次IPO认购倍数接近七倍。 按完全摊薄基础计算，此次发行预计将使该公司的估值达到约1.5万亿美元。 该股票预计将于 当地时间11月19日周四午间在纳斯达克上市，股票代码为“ANT”。 当日稍早时候，据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资940亿美元、估值1.5万亿"
+    },
+    {
+     "title": "Wheat leads losses in U.S. grain futures, falling to lowest since January",
+     "link": "https://seekingalpha.com/news/4674488-wheat-leads-u-s-grain-futures-lower-falling-to-lowest-since-january?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 18:30:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wheat leads losses in U.S. grain futures, falling to lowest since January"
     },
     {
      "title": "半年最大降幅！海外美债持仓9月锐减，中日英三大“债主”齐减持，中国持债再创08年来新低",
@@ -2309,7 +2349,7 @@ window.INDUSTRY_DATA = {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月19日",
      "link": "https://wallstreetcn.com/articles/3786236",
      "pubDate": "Thu, 19 Nov 2026 07:08:18 +0800",
-     "summary": "华见早安之声 要闻精选 中国 习近平会见俄罗斯总统普京。习近平迎接美国总统特朗普。 “监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”，均系谣言。 腾讯Q3营收同比增8%，资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值。电话会：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟。 雷军：明年小米汽车正式出海。 海外 美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧。美联储分歧加剧：沃勒称12月应考虑加息50个基点，威廉姆斯认为无需激进收",
+     "summary": "华见早安之声 要闻精选 中国 习近平会见俄罗斯总统普京。习近平迎接美国总统特朗普。 “监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”， 均系谣言。 腾讯 Q3营收同比增8%， 资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值 。 电话会 ：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟。 雷军 ： 明年小米汽车正式出海。 海外 美联储纪要 鹰声大作： 几乎全体认为还需加息 ，更多人支持10月就行动，“不透明”AI债务风险引担忧。美联储分歧加剧： 沃勒 称 12月应考虑加息50个",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月19日"
     },
@@ -2336,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Here are the major earnings before the open Thursday"
-    },
-    {
-     "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
-     "link": "https://wallstreetcn.com/articles/3786169",
-     "pubDate": "Thu, 19 Nov 2026 06:59:14 +0800",
-     "summary": "英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。 道指 收跌1.1%， 标普500指数 下跌0.2%、未能重新站上200日均线， 纳指 逆势收涨0.4%。 英伟达股价单日下跌约3%，抹去了财报公布后的盘中涨幅。 尽管公司季度业绩超出分析师预期，并上调了营收指引，但联合创始人黄仁勋离职引发的不确定性持续压制投资者情绪。 加息预期叠加AI基建需求疑虑，金银铜同步暴跌。 黄金 跌破3800美元创14个月新低， 伦铜 跌5.7%创七个月新低。 美元指数 升至19个月高位， 美债长端收益率",
-     "source": "华尔街见闻",
-     "zh": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低"
     },
     {
      "title": "Saipem SpA reports Q3 results",
@@ -2386,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Gold and silver sink to 14-month lows as hawkish Fed commentary boosts dollar"
     },
     {
-     "title": "Northrop Grumman declares $2.47 dividend",
-     "link": "https://seekingalpha.com/news/4674485-northrop-grumman-declares-2_47-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:49:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northrop Grumman declares $2.47 dividend"
-    },
-    {
      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
      "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 22:31:00 GMT",
@@ -2416,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "美股市场： 美股三大指数11月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌561.25点，收于50198.17点，跌幅为1.11%； 标准普尔 500种股票指数下跌16.9点，收于7323.63点，跌幅为0.23%； 纳斯达克 综合 指数上涨101.5点，收于24429.88点，涨幅为0.42%。 “科技七巨头”整体小幅走高，内部走势进一步分化， 亚马逊 涨3.82%， 特斯拉 涨0.95%， 谷歌-A 涨0.80%， 微软 涨0.40%， 苹果 涨0.15%；Meta跌0.40%， 英伟达 跌2.89%。消息面上， 英伟达 第三季度财报及第四季度营收指引均超出预期，但瑞银",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫"
-    },
-    {
-     "title": "美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求",
-     "link": "https://wallstreetcn.com/articles/3786220",
-     "pubDate": "Thu, 19 Nov 2026 06:13:35 +0800",
-     "summary": "美国房地产市场持续承压。10月成屋签约销售指数创下2001年有记录以来最低水平，高抵押贷款利率对住房需求的抑制效应进一步显现。 据全美房地产经纪人协会（NAR）周三发布的数据， 10月成屋签约销售指数环比下滑4.7%至63，较去年同期暴跌约17%。 这一指标追踪合同签署情况，通常领先于成屋成交数据一至两个月，是观察楼市走向的重要前瞻性指标。 受此拖累， 以合同成交为口径的成屋销售量已跌至2010年以来最低水平，市场短期内缺乏明显改善迹象。 NAR首席经济学家Lawrence Yun在声明中表示， \"抵押贷款利率似乎已经见顶，10月或将成为本轮楼市周期中合同签署量的低点。\" 高利率成最大拖累，各",
-     "source": "华尔街见闻",
-     "zh": "美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求"
     },
     {
      "title": "Anthropic prices blockbuster IPO at $83 a share",
@@ -2458,52 +2474,36 @@ window.INDUSTRY_DATA = {
      "zh": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk."
     },
     {
-     "title": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11837,202611193934396342.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:14 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
-     "title": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11836,202611193934396283.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:07 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
      "title": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务",
      "link": "http://finance.eastmoney.com/news/1354,202611183934326212.html",
      "pubDate": "Thu, 19 Nov 2026 05:53:29 +0800",
      "summary": "今年4月，天风国际证券分析师郭明錤曾发布产业调查称， 立讯精密 为Open AI手机 项目的独家系统协同设计及制造合作伙伴，相关手机预计于2028年量产。此后，OpenAI进军智能手机市场的消息备受关注。 不过，11月18日晚间，《每日经济新闻》记者从供应链人士处获悉， 立讯精密 目前与OpenAI有多个产品的全面合作，或因资源配置的统筹考量未承接手机组装业务。 继眼镜、耳机之后，为什么&nbsp;OpenAI还要自己做手机硬件？郭明錤在分析中给出了三方面理由：首先，只有充分掌控操作系统与硬件，才能提供全面的 AI智能体 服务；其次，手机能够持续获取用户所处的实时状态，为 AI智能体 提供重要",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务"
     },
     {
-     "title": "沙特阿拉伯：警告艾卜哈地区存在潜在危险",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934396150.html",
-     "pubDate": "Thu, 19 Nov 2026 05:53:07 +0800",
-     "summary": "沙特阿拉伯：警告艾卜哈地区存在潜在危险。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特阿拉伯：警告艾卜哈地区存在潜在危险"
+     "title": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？",
+     "link": "http://forex.eastmoney.com/news/1131,202611183934203717.html",
+     "pubDate": "Thu, 19 Nov 2026 05:38:54 +0800",
+     "summary": "国际金价周三再度大幅下挫。 11月18日，国际现货 黄金 （伦敦金现）价格失守3800美元/盎司，盘中一度跌至3720.06美元/盎司，再度刷新14个月新低。截至发稿，报3726.70美元/盎司，跌3.18%。 今年以来，国际现货 黄金 价格已下跌13.55%，如果自1月29日5598.75美元/盎司的历史高点算起，国际金价累计回撤已超过1800美元，最大跌幅约34%。 加息预期升温 国际现货 黄金 价格跌破3800美元/盎司之际，国内市场同步承压。上海黄金交易所Au99.99日间盘收报810.80元/克，下跌2.61%，盘中最低触及810元/克。沪金 期货 主力合约收报811.98元/克，下",
+     "source": "东方财富资讯",
+     "zh": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？"
     },
     {
-     "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934396012.html",
-     "pubDate": "Thu, 19 Nov 2026 05:52:09 +0800",
-     "summary": "以色列国防军和国家安全总局（辛贝特）18日发表联合声明说，以安全部队当天在加沙地带“黄线”以西开展针对性军事行动，拆除一条据称对以军构成直接且紧迫威胁的地道。 声明说，行动开始前，以方已向当地平民发出警告，要求他们远离相关区域，并通知关闭附近道路。 声明称，以军南方司令部所属部队目前按照停火协议部署在相关地区，将继续采取行动消除直接威胁，并阻止巴勒斯坦伊斯兰抵抗运动（哈马斯）袭击以色列平民或士兵，以及违反停火协议。 “黄线”是以军根据加沙停火第一阶段协议所划设。“黄线”以东为以军控制区，约占加沙地带面积的53%；“黄线”以西由哈马斯控制，以军不再驻扎或开展行动。 哈马斯18日发表声明，谴责以色",
-     "source": "东方财富股票",
-     "zh": "以军称在加沙地带“黄线”以西开展地道拆除行动"
+     "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+     "link": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+     "pubDate": "Wed, 18 Nov 2026 21:07:14 GMT",
+     "summary": "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+     "source": "CNBC",
+     "zh": "CEO turned informant: How the FDA built a case against executives promising cheap medications"
     },
     {
-     "title": "SpaceX：龙飞船发射时间不早于11月20日",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934395331.html",
-     "pubDate": "Thu, 19 Nov 2026 05:50:04 +0800",
-     "summary": "SpaceX ：龙飞船发射时间不早于11月20日。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "SpaceX：龙飞船发射时间不早于11月20日"
+     "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
+     "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 20:15:44 GMT",
+     "summary": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
+     "source": "Financial Times",
+     "zh": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback"
     }
    ]
   },

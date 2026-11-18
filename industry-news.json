@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 05:12:18",
+ "generated_at": "2026/11/19 05:32:14",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,30 @@
    "total": 5,
    "items": [
     {
+     "title": "Kawasaki Robotics launches F Series S-type controller with integrated safety and cybersecurity",
+     "link": "https://roboticsandautomationnews.com/2026/11/18/kawasaki-robotics-launches-f-series-s-type-controller-with-integrated-safety-and-cybersecurity/107319/",
+     "pubDate": "Wed, 18 Nov 2026 21:24:01 +0000",
+     "summary": "Kawasaki Robotics has introduced its F Series Controller S-type, a new industrial robot controller combining integrated safety software and cybersecurity functions with compatibility across its established F Series platform. Available from November 2026, the controller is designed to help machine bu",
+     "source": "Robotics & Automation",
+     "zh": "Kawasaki Robotics launches F Series S-type controller with integrated safety and cybersecurity"
+    },
+    {
+     "title": "Factories already using robots more optimistic about automation, finds RobCo study",
+     "link": "https://roboticsandautomationnews.com/2026/11/18/factories-already-using-robots-more-optimistic-about-automation-finds-robco-study/107316/",
+     "pubDate": "Wed, 18 Nov 2026 21:17:26 +0000",
+     "summary": "Businesses at the forefront of automation are far more confident that they can automate their remaining manual processes, according to new research from RobCo surveying 400 US automation decision makers. It also reveals that they are more aware of recent advances in robotics and more optimistic abou",
+     "source": "Robotics & Automation",
+     "zh": "Factories already using robots more optimistic about automation, finds RobCo study"
+    },
+    {
+     "title": "Hidonix launches Hido II autonomous rover for indoor mapping",
+     "link": "https://roboticsandautomationnews.com/2026/11/18/hidonix-launches-hido-ii-autonomous-rover-for-indoor-mapping/107313/",
+     "pubDate": "Wed, 18 Nov 2026 21:10:03 +0000",
+     "summary": "Hidonix Industries, a US-based developer of spatial intelligence and robotic systems, has launched its Hido II autonomous rover, designed to automate indoor mapping and geospatial data collection in complex environments. First introduced as a prototype at CES 2026, Hido II is now being offered throu",
+     "source": "Robotics & Automation",
+     "zh": "Hidonix launches Hido II autonomous rover for indoor mapping"
+    },
+    {
      "title": "Einride reports 76 percent growth in contracted revenue as autonomous freight operations expand",
      "link": "https://roboticsandautomationnews.com/2026/11/18/einride-reports-76-percent-growth-in-contracted-revenue-as-autonomous-freight-operations-expand/107308/",
      "pubDate": "Wed, 18 Nov 2026 19:35:38 +0000",
@@ -537,36 +561,12 @@
      "zh": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics"
     },
     {
-     "title": "What to Look for in an AI-Powered Corporate Security Platform",
-     "link": "https://roboticsandautomationnews.com/2026/11/18/what-to-look-for-in-an-ai-powered-corporate-security-platform/107295/",
-     "pubDate": "Wed, 18 Nov 2026 17:51:21 +0000",
-     "summary": "For corporate security teams overseeing semiconductor plants and robotics facilities, employee safety and production continuity are central considerations when evaluating new technology. Choosing an artificial intelligence (AI)-powered corporate security platform calls for scrutiny of threat detecti",
-     "source": "Robotics & Automation",
-     "zh": "What to Look for in an AI-Powered Corporate Security Platform"
-    },
-    {
-     "title": "Pudu Robotics rides the tidal wave of China’s AI revolution",
-     "link": "https://roboticsandautomationnews.com/2026/11/18/pudu-robotics-rides-the-tidal-wave-of-chinas-ai-revolution/107193/",
-     "pubDate": "Wed, 18 Nov 2026 17:06:39 +0000",
-     "summary": "An unexpectedly large event in Amsterdam offered a glimpse of how one Chinese robotics manufacturer has grown into a billion-dollar business – and how competition among Chinese companies is reshaping the global industry. Abdul Montaqim reports I had no idea Pudu Robotics was so big. It was a complet",
-     "source": "Robotics & Automation",
-     "zh": "Pudu Robotics rides the tidal wave of China’s AI revolution"
-    },
-    {
      "title": "Rockwell Automation acquiring mobile robot maker AGILOX",
      "link": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
      "pubDate": "Wed, 18 Nov 2026 16:44:18 +0000",
      "summary": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Rockwell Automation acquiring mobile robot maker AGILOX"
-    },
-    {
-     "title": "Choosing the Right Site Builder When You Need Security, Speed, and Room to Grow",
-     "link": "https://roboticsandautomationnews.com/2026/11/18/choosing-the-right-site-builder-when-you-need-security-speed-and-room-to-grow/107279/",
-     "pubDate": "Wed, 18 Nov 2026 13:56:05 +0000",
-     "summary": "If you’re planning a new site, you’re not just picking colors and fonts. You’re making decisions that affect security, performance, search visibility, and how much control you’ll have six months from now. That matters even more if your site supports a business, a portfolio, or any kind of public-fac",
-     "source": "Robotics & Automation",
-     "zh": "Choosing the Right Site Builder When You Need Security, Speed, and Room to Grow"
     },
     {
      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
@@ -1113,6 +1113,38 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Influential preventive services panel to meet for first time in over a year",
+     "link": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+     "pubDate": "Wed, 18 Nov 2026 21:21:26 +0000",
+     "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+     "source": "STAT News",
+     "zh": "STAT+: Influential preventive services panel to meet for first time in over a year"
+    },
+    {
+     "title": "nChroma Bio stops its only clinical study early, lays off 50%",
+     "link": "https://endpoints.news/nchroma-bio-stops-its-only-clinical-study-early-lays-off-50/",
+     "pubDate": "Wed, 18 Nov 2026 21:19:50 +0000",
+     "summary": "A couple of years ago, two Boston-area biotech CEOs decided to merge their startups, hoping to survive a down market for genetic medicine companies. Jeff Walsh, the CEO of that combined company, nChroma Bio,",
+     "source": "Endpoints News",
+     "zh": "nChroma Bio stops its only clinical study early, lays off 50%"
+    },
+    {
+     "title": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice",
+     "link": "https://www.genengnews.com/topics/cancer/targeting-folate-receptor-reverses-colorectal-cancers-resistance-to-immunotherapy-in-mice/",
+     "pubDate": "Wed, 18 Nov 2026 21:16:04 +0000",
+     "summary": "Targeting FOLR1 with an approved antibody-drug conjugate restored anti-tumor immunity and enhanced anti-PD-1 effectiveness in colorectal cancer, overcoming immune evasion in mouse models. The post Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice appeared fir",
+     "source": "GEN",
+     "zh": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice"
+    },
+    {
+     "title": "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies",
+     "link": "https://www.genengnews.com/topics/artificial-intelligence/london-calling-flagship-expands-in-u-k-to-build-ai-native-platform-companies/",
+     "pubDate": "Wed, 18 Nov 2026 21:10:58 +0000",
+     "summary": "Flagship expects to recruit and train an initial team of approximately 50 U.K.-based scientist-entrepreneurs and operators for the new Origination Lab, U.K., which will build on three years of experience partnering and conducting R&D across the kingdom. The post London Calling: Flagship Expands in U",
+     "source": "GEN",
+     "zh": "London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies"
+    },
+    {
      "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
      "link": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
      "pubDate": "Wed, 18 Nov 2026 20:29:14 +0000",
@@ -1241,14 +1273,6 @@
      "zh": "STAT+: FDA discloses reasons for rejecting Summit drug"
     },
     {
-     "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
-     "pubDate": "Wed, 18 Nov 2026 14:26:04 +0000",
-     "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
-     "source": "STAT News",
-     "zh": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more"
-    },
-    {
      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
      "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
      "pubDate": "Wed, 18 Nov 2026 09:21:00 -0500",
@@ -1263,30 +1287,6 @@
      "summary": "Pfizer is entering the in vivo CAR-T race, paying $330 million upfront to Starna Therapeutics. The deal gives Pfizer exclusive rights outside of Greater China to three pre-IND assets in autoimmune disease. The pharma will ...",
      "source": "Endpoints News",
      "zh": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics"
-    },
-    {
-     "title": "AI bio startup Boltz raises $110M Series A",
-     "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
-     "pubDate": "Wed, 18 Nov 2026 12:00:27 +0000",
-     "summary": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News. The ...",
-     "source": "Endpoints News",
-     "zh": "AI bio startup Boltz raises $110M Series A"
-    },
-    {
-     "title": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice",
-     "link": "https://www.genengnews.com/topics/cancer/alcohol-suppresses-some-t-cells-boosts-others-blunting-anti-pd-1-response-in-mice/",
-     "pubDate": "Tue, 17 Nov 2026 23:36:40 +0000",
-     "summary": "In mice, alcohol cut the efficacy of anti-PD-1 immunotherapy by roughly 50%, suppressing tumor-infiltrating and memory T cells while boosting TIGIT-carrying ones. Blocking TIGIT restored the response. The post Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice appear",
-     "source": "GEN",
-     "zh": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice"
-    },
-    {
-     "title": "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach",
-     "link": "https://www.genengnews.com/topics/translational-medicine/beyond-amyloid-and-tau-alzheimers-drug-developer-sees-early-clinical-success-for-immunotherapy-based-approach/",
-     "pubDate": "Tue, 17 Nov 2026 21:10:25 +0000",
-     "summary": "ImmunoBrain's approach contrasts with decades of conventional thinking among researchers, which held that Alzheimer’s was a disease of toxic proteins—an outgrowth of thinking that immune activity in the brain was in itself a sign of pathology. The post Beyond Amyloid and Tau: Alzheimer’s Drug Develo",
-     "source": "GEN",
-     "zh": "Beyond Amyloid and Tau: Alzheimer’s Drug Developer Sees Early Clinical Success for Immunotherapy-Based Approach"
     },
     {
      "title": "Roche breast cancer pill cleared by FDA",
@@ -1312,6 +1312,22 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
+     "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
+     "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
+     "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines themselves, as the reason Sunday's launch fell short of orbit with 40 Amazon Leo ",
+     "source": "Spaceflight Now",
+     "zh": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines"
+    },
+    {
+     "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
+     "pubDate": "Wed, 18 Nov 2026 21:10:52 +0000",
+     "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water"
+    },
     {
      "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
      "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
@@ -1425,14 +1441,6 @@
      "zh": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026"
     },
     {
-     "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
-     "link": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
-     "pubDate": "Wed, 18 Nov 2026 14:04:28 +0000",
-     "summary": "Dammit Jim, I'm a doctor, not a Lego engineer. But this Lego Star Trek set is a wonderful bit of nostalgia that is also accessible for children.",
-     "source": "Space.com",
-     "zh": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series"
-    },
-    {
      "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
      "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
@@ -1543,14 +1551,6 @@
      "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member app",
      "source": "SpaceNews",
      "zh": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1769,6 +1769,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261118/p41#a261118p41",
+     "pubDate": "Wed, 18 Nov 2026 16:15:05 -0500",
+     "summary": "Kate Clark / Wall Street Journal : Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month &nbsp; &mdash;&nbsp; Startup was founded last year by former OpenAI researchers and specializes in custom",
+     "source": "Techmeme",
+     "zh": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)"
+    },
+    {
+     "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+     "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+     "pubDate": "Wed, 18 Nov 2026 21:15:00 +0000",
+     "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+     "source": "WIRED",
+     "zh": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways"
+    },
+    {
+     "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+     "link": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
+     "pubDate": "Wed, 18 Nov 2026 21:11:10 +0000",
+     "summary": "Article URL: https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/ Comments URL: https://news.ycombinator.com/item?id=50552169 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights"
+    },
+    {
      "title": "Sources: Bret Taylor&apos;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
      "link": "https://www.techmeme.com/261118/p40#a261118p40",
      "pubDate": "Wed, 18 Nov 2026 16:01:02 -0500",
@@ -1788,7 +1812,7 @@
      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
      "pubDate": "Wed, 18 Nov 2026 20:20:17 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 5 # Comments: 2",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 19 # Comments: 6",
      "source": "Hacker News",
      "zh": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free"
     },
@@ -1804,7 +1828,7 @@
      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
      "link": "https://searchbrowser.app/",
      "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 18 # Comments: 6",
+     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 24 # Comments: 16",
      "source": "Hacker News",
      "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
     },
@@ -1812,7 +1836,7 @@
      "title": "Sexp Matrix",
      "link": "https://lisper.cc/ideas/entangle.html",
      "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 17 # Comments: 2",
      "source": "Hacker News",
      "zh": "Sexp Matrix"
     },
@@ -1828,7 +1852,7 @@
      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
      "link": "https://www.radixark.com/blog/daisyrose-27b",
      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 30 # Comments: 4",
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 47 # Comments: 6",
      "source": "Hacker News",
      "zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
     },
@@ -1889,20 +1913,20 @@
      "zh": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings"
     },
     {
+     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+     "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+     "pubDate": "Wed, 18 Nov 2026 18:53:17 +0000",
+     "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners Comments URL: https://news.ycombinator.com/item?id=50550461 Points: 15 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
+    },
+    {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
      "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
      "source": "Ars Technica",
      "zh": "Trump admin orders Kalshi to halt wagers on what words Trump will say"
-    },
-    {
-     "title": "When Free Software Isn't Free Enough",
-     "link": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
-     "pubDate": "Wed, 18 Nov 2026 18:39:28 +0000",
-     "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 20 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "When Free Software Isn't Free Enough"
     },
     {
      "title": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
@@ -1945,22 +1969,6 @@
      "zh": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back"
     },
     {
-     "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
-     "link": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
-     "pubDate": "Wed, 18 Nov 2026 17:47:23 +0000",
-     "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
-     "source": "WIRED",
-     "zh": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday"
-    },
-    {
-     "title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
-     "link": "https://www.techmeme.com/261118/p35#a261118p35",
-     "pubDate": "Wed, 18 Nov 2026 12:40:02 -0500",
-     "summary": "Lucinda Shen / Axios : Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark &nbsp; &mdash;&nbsp; Remanence, a startup helping companies train their own AI models using open-weight players, raised $30 million in s",
-     "source": "Techmeme",
-     "zh": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)"
-    },
-    {
      "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
      "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
      "pubDate": "Wed, 18 Nov 2026 17:30:56 +0000",
@@ -1999,14 +2007,6 @@
      "summary": "IT之家 11 月 19 日消息，华为 Mate 90 系列手机已率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据博主 @怪咖学徒_ &nbsp;反馈，在升级 HarmonyOS 7.0.0.115 版本后，华为 Mate 90 系列手机“悄悄”上线了完全体 3D 空间壁纸功能， 支持重力感应特性 。从视频演示效果来看，该功能可将壁纸 3D 空间化，手机晃动，壁纸内容也会跟随晃动。 参考IT之家此前报道， 今年 9 月发布的 HarmonyOS 7 操作系统主打全新空间美学设计语言 ，锁屏界面新增 3D 空",
      "source": "IT之家",
      "zh": "华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能"
-    },
-    {
-     "title": "中国车企在印度，工厂、股权与供应链",
-     "link": "https://www.huxiu.com/article/4906688.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 00:51:52 +0800",
-     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月13日，比亚迪在印度孟买推出了两款腾势汽车。D9豪华MPV售价900万卢比，Z9 GT高性能电动车售价1570万卢比，后者折合人民币超过百万元。 腾势D9在印度孟买发布。摄影：Indranil Mukherjee/AFP。 比亚迪计划在孟买、古尔冈、班加罗尔、金奈、海得拉巴和艾哈迈达巴德六座城市，为腾势建立独立展厅和售后设施。不过，公司对初期销量的预期相当克制。印度电动乘用车业务负责人Rajeev Chauhan表示，最初两个月预计能将80至100辆预订意向转化为销售。 即使100辆车全部按照D9的售价成交，销售额也只有9亿卢比，约",
-     "source": "虎嗅",
-     "zh": "中国车企在印度，工厂、股权与供应链"
     }
    ]
   },
@@ -2016,6 +2016,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Galaxy Z Fold 8 series just got a special edition that celebrates GTA VI",
+     "link": "https://www.androidauthority.com/galaxy-z-fold-8-gta-vi-edition-3736869/",
+     "pubDate": "Wed, 18 Nov 2026 21:17:06 +0000",
+     "summary": "The Galaxy Z Fold 8 just got a GTA VI makeover.",
+     "source": "Android Authority",
+     "zh": "The Galaxy Z Fold 8 series just got a special edition that celebrates GTA VI"
+    },
+    {
+     "title": "Rockstar just settled a major question about GTA 6's controversial FPS decision",
+     "link": "https://www.engadget.com/2321134/rockstar-just-settled-a-major-question-about-gta-6s-controversial-fps-decision/",
+     "pubDate": "Wed, 18 Nov 2026 21:03:40 +0000",
+     "summary": "You can forget about a 60 fps mode on current-gen consoles, even in future patches.",
+     "source": "Engadget",
+     "zh": "Rockstar just settled a major question about GTA 6's controversial FPS decision"
+    },
     {
      "title": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?",
      "link": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
@@ -2137,14 +2153,6 @@
      "zh": "Apple releases new HomeView 27.2.1 software update"
     },
     {
-     "title": "Samsung is preparing to use Now Nudge to make Audio Eraser more convenient",
-     "link": "https://www.androidauthority.com/samsung-now-nudge-audio-eraser-integration-3736780/",
-     "pubDate": "Wed, 18 Nov 2026 18:51:26 +0000",
-     "summary": "Accessing Audio Eraser could soon be much easier.",
-     "source": "Android Authority",
-     "zh": "Samsung is preparing to use Now Nudge to make Audio Eraser more convenient"
-    },
-    {
      "title": "Here's what will decide which chipset powers the vivo X Fold7",
      "link": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php",
      "pubDate": "Wed, 18 Nov 2026 19:31:02 +0100",
@@ -2183,14 +2191,6 @@
      "summary": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience. more…",
      "source": "9to5Google",
      "zh": "Google Play wants Android apps to nail foldable basics by April 2027"
-    },
-    {
-     "title": "AI found a hole in Java, and it starts with 'AAAAAAAA...'",
-     "link": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
-     "pubDate": "Wed, 18 Nov 2026 17:59:47 +0000",
-     "summary": "The bug could let hackers take over systems at banks, hospitals and most Fortune 500 companies.",
-     "source": "Engadget",
-     "zh": "AI found a hole in Java, and it starts with 'AAAAAAAA...'"
     },
     {
      "title": "Apple Creator Studio adds MotionVFX for Final Cut Pro, new Pixelmator Pro features, more",
@@ -2265,44 +2265,140 @@
    "total": 13,
    "items": [
     {
-     "title": "Palo Alto Networks Non-GAAP EPS of $1.05 beats by $0.08, revenue of $3.45B beats by $140M",
-     "link": "https://seekingalpha.com/news/4674393-palo-alto-networks-non-gaap-eps-of-1_05-beats-by-0_08-revenue-of-3_45b-beats-by-140m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 16:07:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palo Alto Networks Non-GAAP EPS of $1.05 beats by $0.08, revenue of $3.45B beats by $140M"
+     "title": "One of AI&apos;s most notorious &apos;doomers&apos; stands to make billions in Anthropic&apos;s IPO",
+     "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+     "pubDate": "Wed, 18 Nov 2026 21:28:04 GMT",
+     "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+     "source": "CNBC",
+     "zh": "One of AI&apos;s most notorious &apos;doomers&apos; stands to make billions in Anthropic&apos;s IPO"
     },
     {
-     "title": "Nasdaq survives, ending higher as U.S. stocks tumble after Nvidia earnings",
-     "link": "https://seekingalpha.com/news/4674386-nasdaq-survives-ends-higher-as-us-stocks-tumble-after-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 16:06:47 -0500",
+     "title": "Palo Alto Networks in charts: Product revenue declines sequentially",
+     "link": "https://seekingalpha.com/news/4674413-palo-alto-networks-in-charts-product-revenue-declines-sequentially?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:24:37 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nasdaq survives, ending higher as U.S. stocks tumble after Nvidia earnings"
+     "zh": "Palo Alto Networks in charts: Product revenue declines sequentially"
     },
     {
-     "title": "Rithm Capital shares fell for seven consecutive sessions",
-     "link": "https://seekingalpha.com/news/4674366-rithm-capital-shares-fall-for-seven-consecutive-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 16:05:16 -0500",
+     "title": "SS&C declares $0.30 dividend",
+     "link": "https://seekingalpha.com/news/4674418-ss-and-c-declares-0_30-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:24:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Rithm Capital shares fell for seven consecutive sessions"
+     "zh": "SS&C declares $0.30 dividend"
     },
     {
-     "title": "Pure Cycle GAAP EPS of $0.59, revenue of $35.7M",
-     "link": "https://seekingalpha.com/news/4674391-pure-cycle-gaap-eps-of-0_59-revenue-of-35_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 16:04:49 -0500",
+     "title": "Tjx expects Q4 sales of $18.3B-$18.5B while planning 2%-3% comps amid higher fuel costs",
+     "link": "https://seekingalpha.com/news/4674416-tjx-expects-q4-sales-of-18_3b-18_5b-while-planning-2-percentminus-3-percent-comps-amid-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:24:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Pure Cycle GAAP EPS of $0.59, revenue of $35.7M"
+     "zh": "Tjx expects Q4 sales of $18.3B-$18.5B while planning 2%-3% comps amid higher fuel costs"
     },
     {
-     "title": "Woodward Non-GAAP EPS of $2.83 beats by $0.31, revenue of $1.2B beats by $60M",
-     "link": "https://seekingalpha.com/news/4674389-woodward-non-gaap-eps-of-2_83-beats-by-0_31-revenue-of-1_2b-beats-by-60m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 16:02:29 -0500",
+     "title": "Brown-Forman raises dividend by 2.2% to $0.236",
+     "link": "https://seekingalpha.com/news/4674415-brown-forman-raises-dividend-by-22-to-0236?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:23:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Woodward Non-GAAP EPS of $2.83 beats by $0.31, revenue of $1.2B beats by $60M"
+     "zh": "Brown-Forman raises dividend by 2.2% to $0.236"
+    },
+    {
+     "title": "Anthropic据悉IPO发行定价在每股83美元",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934391569.html",
+     "pubDate": "Thu, 19 Nov 2026 05:23:02 +0800",
+     "summary": "知情人士称，Anthropic将IPO发行价定为每股83美元。Anthropic的IPO预计当地时间周三定价，并于周四在 纳斯达克 开始交易，股票代码为ANT。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Anthropic据悉IPO发行定价在每股83美元"
+    },
+    {
+     "title": "Palo Alto surges after Q1 results; increases full-year guidance",
+     "link": "https://seekingalpha.com/news/4674388-palo-alto-surges-after-q1-results-increases-full-year-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:22:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Palo Alto surges after Q1 results; increases full-year guidance"
+    },
+    {
+     "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+     "pubDate": "Wed, 18 Nov 2026 21:22:04 GMT",
+     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+     "source": "CNBC",
+     "zh": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC"
+    },
+    {
+     "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+     "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:19:00 GMT",
+     "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+     "source": "MarketWatch",
+     "zh": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug"
+    },
+    {
+     "title": "网络安全概念盘后走强",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934391415.html",
+     "pubDate": "Thu, 19 Nov 2026 05:18:03 +0800",
+     "summary": "网络安全 概念盘后走强，Palo Alto Networks涨幅扩大至9%，CrowdStrike涨超4%，Cloudflare、Okta涨超3%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "网络安全概念盘后走强"
+    },
+    {
+     "title": "报道：欧洲央行拟讨论将最低准备金率由1%上调至2%",
+     "link": "https://wallstreetcn.com/articles/3786229",
+     "pubDate": "Thu, 19 Nov 2026 05:13:09 +0800",
+     "summary": "欧洲央行（ECB）正考虑提高商业银行的最低准备金率，此举将直接削减央行体系的利息支出，同时回收部分系统内过剩流动性。 据路透援引四位知情人士透露， 欧洲央行管理委员会计划于11月25日召开的会议上讨论这一方案，拟将最低准备金率由现行1%上调至2%。 按当前利率水平测算， 该举措每年可为欧洲央行及21家欧元区国家央行节省至少44亿欧元（约48亿美元）。 知情人士表示，最终决定或将推迟至12月17日的货币政策会议上作出。 此次讨论的背景是，欧洲央行持续加息导致央行体系利息支出大幅攀升，德国联邦银行等机构因早年大规模购债、持有大量低收益乃至负收益债券，如今面临日益沉重的财务压力。 上调准备金率将为央",
+     "source": "华尔街见闻",
+     "zh": "报道：欧洲央行拟讨论将最低准备金率由1%上调至2%"
+    },
+    {
+     "title": "美国参议员沃伦：Anthropic未就潜在威胁作出回应",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934391017.html",
+     "pubDate": "Thu, 19 Nov 2026 05:13:08 +0800",
+     "summary": "美国参议员沃伦：Anthropic未就潜在威胁作出回应。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国参议员沃伦：Anthropic未就潜在威胁作出回应"
+    },
+    {
+     "title": "微软与英特尔扩大Azure及芯片合作，自研芯片首度引入EMIB封装",
+     "link": "https://wallstreetcn.com/articles/3786230",
+     "pubDate": "Thu, 19 Nov 2026 05:12:58 +0800",
+     "summary": "11月18日，微软与英特尔宣布扩大合作，签署长期协议共同推进Azure云与AI基础设施建设， 微软由此成为首家宣布采用英特尔代工厂EMIB先进封装技术用于自研芯片的企业。 此次协议涵盖多个层面 ： 英特尔确认向微软提供多年期Xeon处理器供货保障，包括下一代服务器CPU\"Diamond Rapids\"； 微软将把EMIB技术应用于Azure自研硅片的封装生产，其中包括下一代Maia AI加速器和Cobalt CPU。 双方还将在CXL内存扩展、英特尔QuickAssist加速技术及机密计算领域展开深度协作。 根据双方披露的技术数据，合作成果已初步显现。 Azure M系列v4虚拟机借助CXL内",
+     "source": "华尔街见闻",
+     "zh": "微软与英特尔扩大Azure及芯片合作，自研芯片首度引入EMIB封装"
+    },
+    {
+     "title": "Palo Alto Networks盘后延续涨势",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934390915.html",
+     "pubDate": "Thu, 19 Nov 2026 05:12:00 +0800",
+     "summary": "Palo Alto Networks盘后延续涨势，最新上涨5%，上一交易日收涨近10%。公司第一财季业绩超预期并上调全年指引。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Palo Alto Networks盘后延续涨势"
+    },
+    {
+     "title": "墨西哥比索兑主要货币汇率下跌2.7% 创2026年以来最低水平 受新兴市场整体低迷拖累",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934391178.html",
+     "pubDate": "Thu, 19 Nov 2026 05:10:17 +0800",
+     "summary": "墨西哥比索兑主要货币汇率下跌2.7%，创下2026年以来的最低水平，受新兴市场整体低迷拖累。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "墨西哥比索兑主要货币汇率下跌2.7% 创2026年以来最低水平 受新兴市场整体低迷拖累"
+    },
+    {
+     "title": "Palo Alto Networks第一财季业绩超预期并上调全年指引",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934390886.html",
+     "pubDate": "Thu, 19 Nov 2026 05:08:14 +0800",
+     "summary": "Palo Alto Networks第一财季营收34.4亿美元，预期33.1亿；调整后每股收益1.05美元预期0.97美元。公司全年营收指引上调至145.2亿至145.7亿美元，此前为141.0亿至142.0亿。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Palo Alto Networks第一财季业绩超预期并上调全年指引"
+    },
+    {
+     "title": "US tech outages blamed on rush to fix bugs found by AI",
+     "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 21:03:53 GMT",
+     "summary": "Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others",
+     "source": "Financial Times",
+     "zh": "US tech outages blamed on rush to fix bugs found by AI"
     },
     {
      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
@@ -2321,12 +2417,12 @@
      "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
     },
     {
-     "title": "Micron expects even tighter supply in 2027-28 than 2026; continues to work with Nvidia",
-     "link": "https://seekingalpha.com/news/4674383-micron-expects-even-tighter-supply-in-2027-28-than-2026-continues-to-work-with-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:56:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Micron expects even tighter supply in 2027-28 than 2026; continues to work with Nvidia"
+     "title": "美股三大股指收盘涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平",
+     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
+     "pubDate": "Thu, 19 Nov 2026 05:00:00 +0800",
+     "summary": "美东时间周三，美股三大股指收盘涨跌不一，截至收盘，道琼斯指数跌1.11%，标普500指数跌0.23%， 纳斯达克 综合 指数涨0.42%。 芯片股表现分化， 英伟达 跌近3%， 美光科技 跌1%， 英特尔 跌近1%；AMD涨超5%， 博通 涨超3%。 权重科技股多数走高， 亚马逊 涨近4%， SpaceX 涨超1%， 特斯拉 涨近1%， 苹果 、 微软 小幅跟涨。 其他个股方面，CoreWeave跌超4%， 礼来 跌超2%， 派拓网络 涨近10%。 纳斯达克 中国金龙指数收跌1.35%。 虎虎科技 跌17.86%， 爱奇艺 跌17.44%，AIFU跌14.42%， 世纪互联 跌11.52%，J",
+     "source": "东方财富资讯",
+     "zh": "美股三大股指收盘涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平"
     },
     {
      "title": "Fed minutes show growing unease about the outlook for inflation",
@@ -2351,14 +2447,6 @@
      "summary": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
      "source": "MarketWatch",
      "zh": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday"
-    },
-    {
-     "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "pubDate": "Wed, 18 Nov 2026 20:20:35 GMT",
-     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
     },
     {
      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
@@ -2409,100 +2497,12 @@
      "zh": "Washington is scrambling to get to the bottom of the growing number of tech outages across America"
     },
     {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 19:30:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "美股三大指数涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平",
-     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
-     "pubDate": "Thu, 19 Nov 2026 03:25:13 +0800",
-     "summary": "美东时间周三，美股三大指数涨跌不一，道琼斯指数跌1.04%，标普500指数跌0.24%， 纳斯达克 综合 指数涨0.31%。 英伟达 高开低走，截至发稿，股价下跌2.32%，报151.910美元。消息面上， 英伟达 预计第四季度营收高于市场预期。 截至发稿，美元指数涨0.27%，报103.84，指数盘中创2025年4月以来最高水平。 消息面上，美联储理事沃勒表示，美联储若不释放次年1月加息的信号，就应在今年12月加息50个基点。 商品市场方面，国际金银价格下挫。截至发稿，现货 白银 价格跌4.9%，报45.07美元/盎司；现货 黄金 价格跌3.14%，报3728.35美元/盎司。 全球要闻 美",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平"
-    },
-    {
      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
      "pubDate": "Wed, 18 Nov 2026 19:21:59 GMT",
      "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
      "source": "CNBC",
      "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
-    },
-    {
-     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked",
-     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-     "pubDate": "Wed, 18 Nov 2026 19:17:27 GMT",
-     "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-     "source": "CNBC",
-     "zh": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked"
-    },
-    {
-     "title": "纳斯达克100指数涨幅收窄至0.2%",
-     "link": "http://global.eastmoney.com/news/11798,202611193934381474.html",
-     "pubDate": "Thu, 19 Nov 2026 03:09:26 +0800",
-     "summary": "纳斯达克 100指数涨幅收窄至0.2%；标普500指数下跌0.2%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "纳斯达克100指数涨幅收窄至0.2%"
-    },
-    {
-     "title": "微软扩大与Factory在AI软件工程领域的合作协议",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934381364.html",
-     "pubDate": "Thu, 19 Nov 2026 03:08:41 +0800",
-     "summary": "微软 扩大与Factory在AI软件工程领域的合作协议。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "微软扩大与Factory在AI软件工程领域的合作协议"
-    },
-    {
-     "title": "恒生指数主连夜盘收跌0.54%",
-     "link": "http://hk.eastmoney.com/news/1556,202611193934381037.html",
-     "pubDate": "Thu, 19 Nov 2026 03:04:00 +0800",
-     "summary": "恒生指数主连夜盘收跌0.54%，报23100点；恒生科技指数主连夜盘收跌0.86%，报3691点。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "恒生指数主连夜盘收跌0.54%"
-    },
-    {
-     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-     "pubDate": "Wed, 18 Nov 2026 19:00:00 GMT",
-     "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-     "source": "Federal Reserve",
-     "zh": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
-    },
-    {
-     "title": "多肽产品在美迎来监管松绑 医疗美容巨头竞相布局",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934380796.html",
-     "pubDate": "Thu, 19 Nov 2026 02:58:43 +0800",
-     "summary": "上月底，美国卫生与公共服务部（HHS）宣布，放宽对六种缺乏充分验证的肽类物质的管控，即不再对销售这些药物的药房采取执法行动。 在此之后，远程 医疗服务 提供商和美容企业纷纷开始布局这些尚未获得正式监管批准的注射类产品，推动这些颇具争议的物质进一步进入美国主流市场。 美国监管松绑，350亿美元市场迎来新机遇 这些产品宣称具有抗衰老、改善性功能等多种功效。先前，由于缺乏明确的监管政策，许多医疗健康企业一直不愿大举投资或销售多肽类产品。 如今，随着监管路径逐渐清晰，投资 银行 Needham预计，未来五年多肽市场规模可能增长至350亿美元。 多肽是由氨基酸组成的短链分子，对人体健康具有重要作用。在特",
-     "source": "东方财富股票",
-     "zh": "多肽产品在美迎来监管松绑 医疗美容巨头竞相布局"
-    },
-    {
-     "title": "One of AI&apos;s most notorious &apos;doomers&apos; stands to make billions in Anthropic&apos;s IPO",
-     "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-     "pubDate": "Wed, 18 Nov 2026 18:43:26 GMT",
-     "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
-     "source": "CNBC",
-     "zh": "One of AI&apos;s most notorious &apos;doomers&apos; stands to make billions in Anthropic&apos;s IPO"
-    },
-    {
-     "title": "据报道 英伟达董事会在物色CEO过程中已接触Arm首席执行官Rene Haas",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934380483.html",
-     "pubDate": "Thu, 19 Nov 2026 02:36:05 +0800",
-     "summary": "据报道， 英伟达 董事会在物色CEO过程中已接触Arm首席执行官Rene Haas。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "据报道 英伟达董事会在物色CEO过程中已接触Arm首席执行官Rene Haas"
-    },
-    {
-     "title": "14只基金扛住市场震荡 押注半导体国产替代主线",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934379298.html",
-     "pubDate": "Thu, 19 Nov 2026 02:31:50 +0800",
-     "summary": "11月18日，算力与 半导体 链条再度走强， 华胜天成 收获4天3板， 盛合晶微 、 中芯国际 、 华虹宏力 等个股连续两日上涨，多只算力ETF单日涨超5%。与之形成反差的是，7月以来市场震荡加剧，截至11月17日，上半年曾实现收益翻倍的199只主动权益基金中，已有42.21%产品年内收益转负，翻倍基数量清零。 证券时报记者以基金经理任职日期在2024年以前的近2600只主动权益基金为样本，按2024年度、2025年度及2026年以来三期回报分位均位列前15%筛选，仅14只产品三期表现均稳居前排；翻查历史持仓，多只基金长期押注 半导体 国产替代主线。 14只入围基金中，华夏基金旗下产品占据两席",
-     "source": "东方财富股票",
-     "zh": "14只基金扛住市场震荡 押注半导体国产替代主线"
     }
    ]
   },
@@ -2512,6 +2512,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Neanderthal genes linked to lower risk of schizophrenia in modern humans",
+     "link": "https://www.livescience.com/archaeology/neanderthals/neanderthal-genes-linked-to-lower-risk-of-schizophrenia-in-modern-humans",
+     "pubDate": "Wed, 18 Nov 2026 21:21:48 +0000",
+     "summary": "Researchers have zeroed in on a genetic variant in the human brain that came from Neanderthals, and it might protect us from schizophrenia.",
+     "source": "Live Science",
+     "zh": "Neanderthal genes linked to lower risk of schizophrenia in modern humans"
+    },
     {
      "title": "This featherweight, flying robot carries its own sensors and computers",
      "link": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
@@ -2599,14 +2607,6 @@
      "summary": "We need to understand how motherhood changes the brain, says neuroscientist Susana Carmona .",
      "source": "Live Science",
      "zh": "For centuries, we drew the pregnant body without a head. Now we need to fill in what we left blank."
-    },
-    {
-     "title": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans",
-     "link": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans",
-     "pubDate": "Wed, 18 Nov 2026 09:00:00 +0000",
-     "summary": "Eagles appear to be hunting and killing adult baboons, study finds. Does that mean they could have hunted ancient human relatives?",
-     "source": "Live Science",
-     "zh": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans"
     },
     {
      "title": "Helping AI text detectors keep up with changing conditions",

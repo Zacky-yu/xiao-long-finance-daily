@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 11:12:03",
+ "generated_at": "2026/11/18 11:16:53",
  "recent_days": 7,
  "industries": [
   {
@@ -306,14 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "US House China committee opens bipartisan probe into Mercedes-Benz's Chinese shareholders and partners"
     },
     {
-     "title": "Top Ten (less 5) Vendors Of Server CPUs",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 01:01:38 +0000",
-     "summary": "Thanks to TrendForce for this one – the top five suppliers of CPUs for servers: The post Top Ten (less 5) Vendors Of Server CPUs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Top Ten (less 5) Vendors Of Server CPUs"
-    },
-    {
      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
      "pubDate": "Tue, 17 Nov 2026 22:37:22 +0000",
@@ -378,22 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
-     "title": "Make sure to take your seat at the Elektra Awards 2026",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
-     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Make sure to take your seat at the Elektra Awards 2026"
-    },
-    {
-     "title": "Government investments of $71.8bn speed militarisation of space",
-     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
-     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Government investments of $71.8bn speed militarisation of space"
-    },
-    {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
      "link": "https://www.eetimes.com/ltcc-solutions-for-next-generation-uwb-ble-devices/",
      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
@@ -408,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
-    },
-    {
-     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
-     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
-     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
-     "source": "Electronics Weekly",
-     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -442,14 +410,6 @@ window.INDUSTRY_DATA = {
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
     },
     {
-     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
-     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-     "source": "Electronics Weekly",
-     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
-    },
-    {
      "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
      "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
      "pubDate": "Tue, 17 Nov 2026 09:16:07 +0000",
@@ -474,14 +434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
-     "title": "Decline And Fall",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
-     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Decline And Fall"
-    },
-    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Ba",
      "source": "Semiconductor Engineering",
      "zh": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)"
+    },
+    {
+     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
+     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
+     "source": "Semiconductor Today",
+     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
+    },
+    {
+     "title": "Lumentum ranked among Forbes America’s Best Companies",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum ranked among Forbes America’s Best Companies"
+    },
+    {
+     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
+     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
+     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
+     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
+    },
+    {
+     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
+     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
+     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
+     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
+     "source": "SemiWiki",
+     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
+    },
+    {
+     "title": "Taking a Tour of Canada’s Particle Accelerator",
+     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
+     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
+     "source": "EE Times",
+     "zh": "Taking a Tour of Canada’s Particle Accelerator"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1029,7 +1029,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1794,6 +1794,14 @@ window.INDUSTRY_DATA = {
      "zh": "日本市场日语客服外包后，退款率和物流时效怎么反而变差了？"
     },
     {
+     "title": "每月两万五的养老院，为什么依然孤独",
+     "link": "https://www.huxiu.com/article/4906475.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 11:04:35 +0800",
+     "summary": "本文来自微信公众号： 显微故事 ，编辑：方园婧，作者：显微故事编辑部 一场关乎两亿人的“独一代”硬仗，正在无声打响。 出生于1978至1989年的第一代独生子女，正陆续抵达人生最沉重的关卡。 对外经贸大学荆涛团队测算，2023到2032年，将迎来第一代独生子女父母的失能高峰。这些大多生于四五十年代的老人，集中迈入75–84岁；失能老人数量，会从2020年的144万，飙升至2030年的697万。 无数“421”家庭被推到同一条压力线上：一对夫妻，托着四位年迈的长辈，还要兼顾孩子与职场。 没有手足分担，没有人轮班陪护，遇事少一个可以商量的亲人。这种折磨不是一场突发的劫难，是漫无止境、一点点抽干人的",
+     "source": "虎嗅",
+     "zh": "每月两万五的养老院，为什么依然孤独"
+    },
+    {
      "title": "难修：iFixit 拆解苹果首款智能家居中枢 HomeView，壁挂 / 桌面版内部差异曝光",
      "link": "https://www.ithome.com/1/028/678.htm",
      "pubDate": "Wed, 18 Nov 2026 02:56:14 GMT",
@@ -1970,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "县城小火锅：一边狂飙，一边批量倒闭"
     },
     {
-     "title": "黄仁勋想回归？英伟达董事会说不，连他名字都不想提",
-     "link": "https://www.huxiu.com/article/4906444.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 09:46:25 +0800",
-     "summary": "本文来自微信公众号： 猫叔在硅谷 ，作者：猫叔在硅谷 整场电话会议，英伟达董事会都不想提到黄仁勋这个名字。 11月17日美股收盘后，英伟达交出了黄仁勋离职之后的第一份财报。当季营收1158亿美元，同比增103%，环比增20%，超出官方指引中值7.2%。数据中心业务1076亿美元，同比增110%。下季度指引1300亿美元，高于市场预期的1248亿美元。 这是一份足以让任何管理层松一口气的出色成绩单。此外，英伟达还将2028财年的营收增速展望从70%上调到75%，其中不包括中国市场。受此利好推动，英伟达盘后股价一度涨超4%。 但是，外界关注焦点却并不是这份财报，而是刚刚辞职的前CEO黄仁勋。 营收",
-     "source": "虎嗅",
-     "zh": "黄仁勋想回归？英伟达董事会说不，连他名字都不想提"
-    },
-    {
      "title": "尼日利亚短剧本地化，3人团队如何排期才不拖更？",
      "link": "https://www.baijing.cn/question/638794",
      "pubDate": "Wed, 18 Nov 2026 01:42:31 +0000",
@@ -2013,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "Cerebras Disaggregated Inference",
      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
      "pubDate": "Wed, 18 Nov 2026 00:56:23 +0000",
-     "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 25 # Comments: 8",
+     "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 29 # Comments: 9",
      "source": "Hacker News",
      "zh": "Cerebras Disaggregated Inference"
     },
@@ -2290,6 +2290,14 @@ window.INDUSTRY_DATA = {
      "zh": "Gladstone Capital NII of $0.49 beats by $0.01"
     },
     {
+     "title": "Nvidia has a chance to trade drama for durability",
+     "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 02:56:15 GMT",
+     "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+     "source": "Financial Times",
+     "zh": "Nvidia has a chance to trade drama for durability"
+    },
+    {
      "title": "全国油菜冬前管理暨大面积单产提升现场会在江西召开",
      "link": "http://www.eeo.com.cn/2026/1118/1095774.shtml",
      "pubDate": "Wed, 18 Nov 2026 10:56:00 +0800",
@@ -2498,28 +2506,20 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears"
     },
     {
+     "title": "11月18日集合竞价：华东重机4连板 长虹美菱3连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611183933780311.html",
+     "pubDate": "Wed, 18 Nov 2026 09:27:05 +0800",
+     "summary": "11月18日，三大指数集体高开，上证指数高开0.33%，深证成指高开0.37%，创业板指高开0.61%。板块方面，其他 数字媒体 领涨， 凡拓数创 涨2.53%， 冰洗 、 印制电路板 等开盘涨幅居前。 个股方面，7股竞价涨停，其中 华东重机 4连板、 长虹美菱 3连板、 摩恩电气 2连板、 西陇科学 2连板、 全筑股份 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富资讯",
+     "zh": "11月18日集合竞价：华东重机4连板 长虹美菱3连板"
+    },
+    {
      "title": "Russian crude exports reach four-month high as Ukrainian drones slam refineries",
      "link": "https://seekingalpha.com/news/4673970-russian-crude-exports-reach-four-month-high-as-ukrainian-drones-slam-refineries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 20:25:06 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Russian crude exports reach four-month high as Ukrainian drones slam refineries"
-    },
-    {
-     "title": "NVIDIA projects ~75% fiscal 2028 revenue growth amid leadership transition",
-     "link": "https://seekingalpha.com/news/4673972-nvidia-projects-75-percent-fiscal-2028-revenue-growth-amid-leadership-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 20:24:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NVIDIA projects ~75% fiscal 2028 revenue growth amid leadership transition"
-    },
-    {
-     "title": "Three things to watch as Trump, Xi and Putin meet in China",
-     "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-     "pubDate": "Wed, 18 Nov 2026 01:23:29 GMT",
-     "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-     "source": "CNBC",
-     "zh": "Three things to watch as Trump, Xi and Putin meet in China"
     }
    ]
   },

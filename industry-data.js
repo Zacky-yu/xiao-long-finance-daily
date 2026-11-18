@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 04:32:19",
+ "generated_at": "2026/11/19 04:52:20",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
-     "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+     "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+     "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
      "pubDate": "Wed, 18 Nov 2026 20:07:01 +0000",
      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
      "source": "TechCrunch AI",
-     "zh": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie"
+     "zh": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie"
     },
     {
      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
@@ -66,6 +66,14 @@ window.INDUSTRY_DATA = {
      "zh": "More banks say customers using AI agents are on their own — even if they get hacked"
     },
     {
+     "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
+     "link": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
+     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
+     "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
+     "source": "KDnuggets",
+     "zh": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them"
+    },
+    {
      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
      "pubDate": "Wed, 18 Nov 2026 16:59:00 +0000",
@@ -98,6 +106,14 @@ window.INDUSTRY_DATA = {
      "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
+     "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
+     "link": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
+     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
+     "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
+     "source": "KDnuggets",
+     "zh": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next"
+    },
+    {
      "title": "The AI Hype Index: AI is everywhere",
      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
@@ -112,6 +128,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月18日报道，近日，英伟达（NVIDIA）在上海举办了一场RTX Spark分享会，解读了RTX Spark最新桌面主机产品背后的技术特性，并展示了办公、游戏、创作、机器人等各领域基于RTX Spark产品实现的AI应用案例。 比如在本地训练具身模型并用其操作机械臂抓取、机器人自然语言编程与强化学习训练、本地AI Agent远程办公、UE5超大场景实时渲染、Broadcast视频处理以及老视频AI修复等等，一切都是基于本地RTX Spark。 你甚至可以来点“邪修”，把RTX Spark笔记本架在机器人头上，造出属于你的“机器人伴侣”。 RT",
      "source": "智东西",
      "zh": "英伟达RTX Spark桌面主机首次亮相：最新Demo现场体验，本地AI玩出花"
+    },
+    {
+     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
+     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
+     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
+     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
+     "source": "KDnuggets",
+     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "资本开支暴涨528%！腾讯继续加码AI，WorkBuddy登顶国内AI用量第一",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accu",
      "source": "arXiv cs.AI",
      "zh": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models"
-    },
-    {
-     "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-     "link": "https://arxiv.org/abs/2611.21799",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this ri",
-     "source": "arXiv cs.AI",
-     "zh": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability"
-    },
-    {
-     "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-     "link": "https://arxiv.org/abs/2611.21827",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce t",
-     "source": "arXiv cs.AI",
-     "zh": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
-    },
-    {
-     "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-     "link": "https://arxiv.org/abs/2611.21832",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety res",
-     "source": "arXiv cs.AI",
-     "zh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
     }
    ]
   },
@@ -962,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1024,14 +1016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1104,6 +1088,22 @@ window.INDUSTRY_DATA = {
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
+    },
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
+     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
+     "source": "SpaceNews",
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
+    },
+    {
      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why",
      "link": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
      "pubDate": "Wed, 18 Nov 2026 20:00:00 +0000",
@@ -1450,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1490,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1528,14 +1552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
      "source": "Spaceflight Now",
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
-    },
-    {
-     "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
-     "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
-     "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
-     "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a C",
-     "source": "SpaceNews",
-     "zh": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology"
     }
    ]
   },
@@ -1545,6 +1561,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+     "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+     "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500",
+     "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+     "source": "BleepingComputer",
+     "zh": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam"
+    },
+    {
+     "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+     "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+     "pubDate": "Wed, 18 Nov 2026 20:38:42 GMT",
+     "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+     "source": "Dark Reading",
+     "zh": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks"
+    },
     {
      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
@@ -1698,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apache warns of Roller RCE vulnerability exploited in attacks"
     },
     {
-     "title": "Microsoft announces Windows Server 2028 with hardened security",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-     "pubDate": "Wed, 18 Nov 2026 04:24:31 -0500",
-     "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft announces Windows Server 2028 with hardened security"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1736,14 +1760,6 @@ window.INDUSTRY_DATA = {
      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
      "source": "Dark Reading",
      "zh": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach"
-    },
-    {
-     "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-     "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-     "pubDate": "Tue, 17 Nov 2026 13:12:56 GMT",
-     "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
-     "source": "Dark Reading",
-     "zh": "Grok Bots Attempt to Access Corporate Data Without User Approval"
     }
    ]
   },
@@ -1753,6 +1769,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Windows Server 2028 public preview bets on a security-first approach",
+     "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+     "pubDate": "Wed, 18 Nov 2026 20:41:12 +0000",
+     "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+     "source": "Ars Technica",
+     "zh": "Windows Server 2028 public preview bets on a security-first approach"
+    },
     {
      "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
      "link": "https://www.techmeme.com/261118/p39#a261118p39",
@@ -1765,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
      "link": "https://searchbrowser.app/",
      "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 6 # Comments: 2",
+     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 13 # Comments: 3",
      "source": "Hacker News",
      "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
     },
@@ -1773,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Sexp Matrix",
      "link": "https://lisper.cc/ideas/entangle.html",
      "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 4 # Comments: 1",
      "source": "Hacker News",
      "zh": "Sexp Matrix"
     },
@@ -1789,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
      "link": "https://www.radixark.com/blog/daisyrose-27b",
      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 17 # Comments: 3",
      "source": "Hacker News",
      "zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
     },
@@ -1850,6 +1874,14 @@ window.INDUSTRY_DATA = {
      "zh": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings"
     },
     {
+     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+     "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+     "pubDate": "Wed, 18 Nov 2026 18:53:17 +0000",
+     "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners Comments URL: https://news.ycombinator.com/item?id=50550461 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
+    },
+    {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
      "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
@@ -1861,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "When Free Software Isn't Free Enough",
      "link": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
      "pubDate": "Wed, 18 Nov 2026 18:39:28 +0000",
-     "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "When Free Software Isn't Free Enough"
     },
@@ -1882,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "The \"shameful\" measles data that lost the US its elimination status"
     },
     {
-     "title": "The Magic of Partial Evaluation",
-     "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-     "pubDate": "Wed, 18 Nov 2026 18:29:03 +0000",
-     "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 43 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "The Magic of Partial Evaluation"
-    },
-    {
      "title": "Will Wright's next simulation will use AI to mine content from your memories",
      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
      "pubDate": "Wed, 18 Nov 2026 18:10:33 +0000",
@@ -1904,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Politico : Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches &nbsp; &mdash;&nbsp; Gavin Newsom unveiled a sweeping proposal Wednesday to give California broad powers to regulate the AI industry a",
      "source": "Techmeme",
      "zh": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)"
-    },
-    {
-     "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-     "link": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-     "pubDate": "Wed, 18 Nov 2026 17:53:59 +0000",
-     "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-     "source": "Ars Technica",
-     "zh": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo"
     },
     {
      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
@@ -2001,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
+     "link": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
+     "pubDate": "Wed, 18 Nov 2026 20:48:35 +0000",
+     "summary": "Every once in a while, Instagram rolls out an update that addresses one of its users’ most longstanding requests. Today is one of those days. more…",
+     "source": "9to5Mac",
+     "zh": "Instagram finally lets users edit Stories after publishing, but there’s a catch"
+    },
     {
      "title": "Motorola Razr Fold receives its first major OS upgrade with Android 17",
      "link": "https://www.androidauthority.com/motorola-razr-fold-android-17-update-rollout-3736847/",
@@ -2210,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "YouTube Music rolling out corner Gemini icon to launch Ask Music"
     },
     {
-     "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
-     "link": "https://9to5mac.com/2026/11/18/ios-27-3-adds-siri-ai-usage-limits-heres-what-counts-toward-your-limit/",
-     "pubDate": "Wed, 18 Nov 2026 16:40:26 +0000",
-     "summary": "Earlier this week, Apple revealed that Siri AI usage limits will be implemented in iOS 27.3 and explained how iCloud+ increases those limits . Now we have a real-world example of what it looks like when limits are hit, and details on what counts toward those limits. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit"
-    },
-    {
      "title": "Whose photo inspired you most in 2026?",
      "link": "https://www.dpreview.com/articles/whose-photo-inspired-you-most-in-2026/",
      "pubDate": "Wed, 18 Nov 2026 16:20:45 +0000",
@@ -2249,6 +2265,38 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3786228",
+     "pubDate": "Thu, 19 Nov 2026 04:48:54 +0800",
+     "summary": "塔吉特（Target Corp.）的复苏势头正在加速，今年股价已经累涨近80%。 11月18日周三美股盘前，大型零售商塔吉特公布截至10月31日的第三财季业绩， 同店可比销售额增长5.6%，营收和每股收益均超出分析师预期，并第三次上调全年业绩指引。 TD Cowen分析师Max Rakhlenko在周三的报告中写道， 塔吉特整体业绩\"相当稳健，各部门表现持续改善，为后续进一步调整奠定了基础\"。 财报公布后，塔吉特股价盘前下跌，但随后反转，一度大涨超7.7%。今年迄今，该股累计上涨约78%，大幅跑赢标普500指数同期约7.2%的涨幅。 然而，业绩改善并非全面。服饰及配件部门销售额在本季度下滑3.",
+     "source": "华尔街见闻",
+     "zh": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻"
+    },
+    {
+     "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+     "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 20:39:00 GMT",
+     "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+     "source": "MarketWatch",
+     "zh": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI"
+    },
+    {
+     "title": "MP Materials moves higher as Needham resumes coverage with Buy rating",
+     "link": "https://seekingalpha.com/news/4674381-mp-materials-moves-higher-as-needham-resumes-coverage-with-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 15:34:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MP Materials moves higher as Needham resumes coverage with Buy rating"
+    },
+    {
+     "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
+     "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 20:29:00 GMT",
+     "summary": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
+     "source": "MarketWatch",
+     "zh": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday"
+    },
     {
      "title": "Nvidia slides as interim CEO Kress speaks to employees, says, 'Let's move forward'",
      "link": "https://seekingalpha.com/news/4674380-nvidia-slides-as-interim-ceo-kress-speaks-to-employees-says-lets-move-forward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2304,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Riot Platforms, Flowserve gain after Starboard pitches at C4K Investors Conference"
-    },
-    {
-     "title": "Binance gets court order in effort to recover frozen assets after $6.3B hack",
-     "link": "https://seekingalpha.com/news/4674363-binance-gets-court-order-in-effort-to-recover-frozen-assets-after-63b-hack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:09:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Binance gets court order in effort to recover frozen assets after $6.3B hack"
     },
     {
      "title": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
@@ -2464,30 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
-     "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:28:00 GMT",
-     "summary": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
-     "source": "MarketWatch",
-     "zh": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock."
-    },
-    {
-     "title": "Investigators make progress in hunt for cause of FAA ground stop",
-     "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-     "pubDate": "Wed, 18 Nov 2026 18:13:25 GMT",
-     "summary": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
-     "source": "CNBC",
-     "zh": "Investigators make progress in hunt for cause of FAA ground stop"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:00:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
     }
    ]
   },

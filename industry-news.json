@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 04:52:20",
+ "generated_at": "2026/11/19 05:12:18",
  "recent_days": 7,
  "industries": [
   {
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Thames Water's Rescue Deal Comes With a Dirty Catch",
+     "link": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html",
+     "pubDate": "Wed, 18 Nov 2026 15:00:00 -0600",
+     "summary": "The saga of financially distressed Thames Water may have reached a new low. The Financial Times and others reported that the latest US bidder for the utility planned to up its bid by £ 1 billion if the government would lay off pollution mitigation requirements until 2030. Sort of, “We’ll pay you if ",
+     "source": "OilPrice",
+     "zh": "Thames Water's Rescue Deal Comes With a Dirty Catch"
+    },
+    {
      "title": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
      "link": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html",
      "pubDate": "Wed, 18 Nov 2026 14:00:00 -0600",
@@ -919,14 +927,6 @@
      "summary": "Community solar in the United States has endured several big changes in the past year, not least the termination of the Solar for All program, the introduction of domestic content requirements, the removal of tax credits, and the enactment of the One Big Beautiful Bill Act (OBBBA). The termination o",
      "source": "pv magazine",
      "zh": "States of uncertainty"
-    },
-    {
-     "title": "Democrats Could Slow Venezuela’s Push Toward 3 Million Bpd",
-     "link": "https://oilprice.com/Energy/Energy-General/Democrats-Could-Slow-Venezuelas-Push-Toward-3-Million-Bpd.html",
-     "pubDate": "Wed, 18 Nov 2026 11:00:00 -0600",
-     "summary": "The Democratic Party’s sweep of the US midterm elections is unlikely to derail Venezuela’s near-term oil recovery, but greater congressional scrutiny could slow the next wave of investment. Growth from existing fields should continue to support production of around 1.5 million barrels per day (bpd) ",
-     "source": "OilPrice",
-     "zh": "Democrats Could Slow Venezuela’s Push Toward 3 Million Bpd"
     },
     {
      "title": "Creepage distance defects have increased significantly since M10R cell introduction – Kiwa PI Berlin",
@@ -1569,6 +1569,14 @@
      "zh": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam"
     },
     {
+     "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+     "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+     "pubDate": "Wed, 18 Nov 2026 20:45:49 GMT",
+     "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+     "source": "Dark Reading",
+     "zh": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool"
+    },
+    {
      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
      "pubDate": "Wed, 18 Nov 2026 20:38:42 GMT",
@@ -1751,14 +1759,6 @@
      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
      "source": "Dark Reading",
      "zh": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat"
-    },
-    {
-     "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-     "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-     "pubDate": "Tue, 17 Nov 2026 18:38:37 GMT",
-     "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-     "source": "Dark Reading",
-     "zh": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach"
     }
    ]
   },
@@ -1769,12 +1769,28 @@
    "total": 18,
    "items": [
     {
-     "title": "Windows Server 2028 public preview bets on a security-first approach",
+     "title": "Sources: Bret Taylor&apos;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+     "link": "https://www.techmeme.com/261118/p40#a261118p40",
+     "pubDate": "Wed, 18 Nov 2026 16:01:02 -0500",
+     "summary": "The Information : Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue &nbsp; &mdash;&nbsp; Sierra, the AI customer support startup founded by former Salesforce co-CEO Bret Taylor, has been in ta",
+     "source": "Techmeme",
+     "zh": "Sources: Bret Taylor&apos;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)"
+    },
+    {
+     "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
      "pubDate": "Wed, 18 Nov 2026 20:41:12 +0000",
      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
      "source": "Ars Technica",
-     "zh": "Windows Server 2028 public preview bets on a security-first approach"
+     "zh": "Windows Server 2028 trades compatibility for out-of-the-box security"
+    },
+    {
+     "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+     "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+     "pubDate": "Wed, 18 Nov 2026 20:20:17 +0000",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 5 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free"
     },
     {
      "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
@@ -1788,7 +1804,7 @@
      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
      "link": "https://searchbrowser.app/",
      "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 18 # Comments: 6",
      "source": "Hacker News",
      "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
     },
@@ -1796,7 +1812,7 @@
      "title": "Sexp Matrix",
      "link": "https://lisper.cc/ideas/entangle.html",
      "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 5 # Comments: 1",
      "source": "Hacker News",
      "zh": "Sexp Matrix"
     },
@@ -1812,7 +1828,7 @@
      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
      "link": "https://www.radixark.com/blog/daisyrose-27b",
      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 30 # Comments: 4",
      "source": "Hacker News",
      "zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
     },
@@ -1873,14 +1889,6 @@
      "zh": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings"
     },
     {
-     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-     "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-     "pubDate": "Wed, 18 Nov 2026 18:53:17 +0000",
-     "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners Comments URL: https://news.ycombinator.com/item?id=50550461 Points: 8 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
-    },
-    {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
      "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
@@ -1892,7 +1900,7 @@
      "title": "When Free Software Isn't Free Enough",
      "link": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
      "pubDate": "Wed, 18 Nov 2026 18:39:28 +0000",
-     "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 15 # Comments: 0",
+     "summary": "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 20 # Comments: 0",
      "source": "Hacker News",
      "zh": "When Free Software Isn't Free Enough"
     },
@@ -1977,14 +1985,6 @@
      "zh": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天"
     },
     {
-     "title": "Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges (CNBC)",
-     "link": "https://www.techmeme.com/261118/p34#a261118p34",
-     "pubDate": "Wed, 18 Nov 2026 12:15:00 -0500",
-     "summary": "CNBC : Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges &nbsp; &mdash;&nbsp; Anthropic is considering upsizing its initial public offering, people familiar with the details told CNBC, as the art",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges (CNBC)"
-    },
-    {
      "title": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能",
      "link": "https://www.ithome.com/1/029/126.htm",
      "pubDate": "Wed, 18 Nov 2026 17:10:42 GMT",
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?",
+     "link": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
+     "pubDate": "Wed, 18 Nov 2026 21:00:00 +0000",
+     "summary": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the biggest shortcoming of its older Fire Tablets. For Black Friday 2026, the Alexa Tablet 8 is a mere $150 and, with Google Play on board, this feels like a Fire Tablet that",
+     "source": "9to5Google",
+     "zh": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?"
+    },
     {
      "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
      "link": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
@@ -2225,14 +2233,6 @@
      "zh": "Deals: Pixel Watch 5 hits Black Friday price at $100 off, Galaxy Watch 9 $110 off, Galaxy Tabs $300 off, more"
     },
     {
-     "title": "YouTube Music rolling out corner Gemini icon to launch Ask Music",
-     "link": "https://9to5google.com/2026/11/18/youtube-music-ask-gemini-2/",
-     "pubDate": "Wed, 18 Nov 2026 16:49:55 +0000",
-     "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
-     "source": "9to5Google",
-     "zh": "YouTube Music rolling out corner Gemini icon to launch Ask Music"
-    },
-    {
      "title": "Whose photo inspired you most in 2026?",
      "link": "https://www.dpreview.com/articles/whose-photo-inspired-you-most-in-2026/",
      "pubDate": "Wed, 18 Nov 2026 16:20:45 +0000",
@@ -2265,28 +2265,84 @@
    "total": 13,
    "items": [
     {
+     "title": "Palo Alto Networks Non-GAAP EPS of $1.05 beats by $0.08, revenue of $3.45B beats by $140M",
+     "link": "https://seekingalpha.com/news/4674393-palo-alto-networks-non-gaap-eps-of-1_05-beats-by-0_08-revenue-of-3_45b-beats-by-140m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:07:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Palo Alto Networks Non-GAAP EPS of $1.05 beats by $0.08, revenue of $3.45B beats by $140M"
+    },
+    {
+     "title": "Nasdaq survives, ending higher as U.S. stocks tumble after Nvidia earnings",
+     "link": "https://seekingalpha.com/news/4674386-nasdaq-survives-ends-higher-as-us-stocks-tumble-after-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:06:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nasdaq survives, ending higher as U.S. stocks tumble after Nvidia earnings"
+    },
+    {
+     "title": "Rithm Capital shares fell for seven consecutive sessions",
+     "link": "https://seekingalpha.com/news/4674366-rithm-capital-shares-fall-for-seven-consecutive-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:05:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rithm Capital shares fell for seven consecutive sessions"
+    },
+    {
+     "title": "Pure Cycle GAAP EPS of $0.59, revenue of $35.7M",
+     "link": "https://seekingalpha.com/news/4674391-pure-cycle-gaap-eps-of-0_59-revenue-of-35_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:04:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pure Cycle GAAP EPS of $0.59, revenue of $35.7M"
+    },
+    {
+     "title": "Woodward Non-GAAP EPS of $2.83 beats by $0.31, revenue of $1.2B beats by $60M",
+     "link": "https://seekingalpha.com/news/4674389-woodward-non-gaap-eps-of-2_83-beats-by-0_31-revenue-of-1_2b-beats-by-60m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 16:02:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Woodward Non-GAAP EPS of $2.83 beats by $0.31, revenue of $1.2B beats by $60M"
+    },
+    {
+     "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+     "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:01:00 GMT",
+     "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+     "source": "MarketWatch",
+     "zh": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:00:00 GMT",
+     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
+    },
+    {
+     "title": "Micron expects even tighter supply in 2027-28 than 2026; continues to work with Nvidia",
+     "link": "https://seekingalpha.com/news/4674383-micron-expects-even-tighter-supply-in-2027-28-than-2026-continues-to-work-with-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 15:56:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Micron expects even tighter supply in 2027-28 than 2026; continues to work with Nvidia"
+    },
+    {
+     "title": "Fed minutes show growing unease about the outlook for inflation",
+     "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 20:51:00 GMT",
+     "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+     "source": "MarketWatch",
+     "zh": "Fed minutes show growing unease about the outlook for inflation"
+    },
+    {
      "title": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻",
      "link": "https://wallstreetcn.com/articles/3786228",
      "pubDate": "Thu, 19 Nov 2026 04:48:54 +0800",
      "summary": "塔吉特（Target Corp.）的复苏势头正在加速，今年股价已经累涨近80%。 11月18日周三美股盘前，大型零售商塔吉特公布截至10月31日的第三财季业绩， 同店可比销售额增长5.6%，营收和每股收益均超出分析师预期，并第三次上调全年业绩指引。 TD Cowen分析师Max Rakhlenko在周三的报告中写道， 塔吉特整体业绩\"相当稳健，各部门表现持续改善，为后续进一步调整奠定了基础\"。 财报公布后，塔吉特股价盘前下跌，但随后反转，一度大涨超7.7%。今年迄今，该股累计上涨约78%，大幅跑赢标普500指数同期约7.2%的涨幅。 然而，业绩改善并非全面。服饰及配件部门销售额在本季度下滑3.",
      "source": "华尔街见闻",
      "zh": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻"
-    },
-    {
-     "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-     "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 20:39:00 GMT",
-     "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
-     "source": "MarketWatch",
-     "zh": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI"
-    },
-    {
-     "title": "MP Materials moves higher as Needham resumes coverage with Buy rating",
-     "link": "https://seekingalpha.com/news/4674381-mp-materials-moves-higher-as-needham-resumes-coverage-with-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:34:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MP Materials moves higher as Needham resumes coverage with Buy rating"
     },
     {
      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
@@ -2297,22 +2353,6 @@
      "zh": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday"
     },
     {
-     "title": "Nvidia slides as interim CEO Kress speaks to employees, says, 'Let's move forward'",
-     "link": "https://seekingalpha.com/news/4674380-nvidia-slides-as-interim-ceo-kress-speaks-to-employees-says-lets-move-forward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:26:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia slides as interim CEO Kress speaks to employees, says, 'Let's move forward'"
-    },
-    {
-     "title": "Global-e outlines 2026 revenue $1.329B-$1.353B and adjusted EBITDA $290M-$300M, driven by Managed Markets V2 and Passport integration",
-     "link": "https://seekingalpha.com/news/4674384-global-e-outlines-2026-revenue-1_329b-1_353b-and-adjusted-ebitda-290m-300m-driven-by-managed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:25:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global-e outlines 2026 revenue $1.329B-$1.353B and adjusted EBITDA $290M-$300M, driven by Managed Markets V2 and Passport integration"
-    },
-    {
      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "pubDate": "Wed, 18 Nov 2026 20:20:35 GMT",
@@ -2321,36 +2361,12 @@
      "zh": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
     },
     {
-     "title": "U.S. aircraft carrier leaves Middle East after reinforcements arrive",
-     "link": "https://seekingalpha.com/news/4674382-u-s-aircraft-carrier-leaves-middle-east-after-reinforcements-arrive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:19:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. aircraft carrier leaves Middle East after reinforcements arrive"
-    },
-    {
      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 20:15:44 GMT",
      "summary": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
      "source": "Financial Times",
      "zh": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback"
-    },
-    {
-     "title": "Nissan focuses on lower costs as Chinese automakers gain ground in Mexico",
-     "link": "https://seekingalpha.com/news/4674379-nissan-focuses-on-lower-costs-as-chinese-automakers-gain-ground-in-mexico?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:14:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nissan focuses on lower costs as Chinese automakers gain ground in Mexico"
-    },
-    {
-     "title": "Riot Platforms, Flowserve gain after Starboard pitches at C4K Investors Conference",
-     "link": "https://seekingalpha.com/news/4674376-riot-platforms-flowserve-gain-after-starboard-pitches-at-c4k-investors-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 15:12:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Riot Platforms, Flowserve gain after Starboard pitches at C4K Investors Conference"
     },
     {
      "title": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
@@ -2391,14 +2407,6 @@
      "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
      "source": "MarketWatch",
      "zh": "Washington is scrambling to get to the bottom of the growing number of tech outages across America"
-    },
-    {
-     "title": "Fed minutes show growing unease about the outlook for inflation",
-     "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 19:38:00 GMT",
-     "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-     "source": "MarketWatch",
-     "zh": "Fed minutes show growing unease about the outlook for inflation"
     },
     {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
@@ -2495,14 +2503,6 @@
      "summary": "11月18日，算力与 半导体 链条再度走强， 华胜天成 收获4天3板， 盛合晶微 、 中芯国际 、 华虹宏力 等个股连续两日上涨，多只算力ETF单日涨超5%。与之形成反差的是，7月以来市场震荡加剧，截至11月17日，上半年曾实现收益翻倍的199只主动权益基金中，已有42.21%产品年内收益转负，翻倍基数量清零。 证券时报记者以基金经理任职日期在2024年以前的近2600只主动权益基金为样本，按2024年度、2025年度及2026年以来三期回报分位均位列前15%筛选，仅14只产品三期表现均稳居前排；翻查历史持仓，多只基金长期押注 半导体 国产替代主线。 14只入围基金中，华夏基金旗下产品占据两席",
      "source": "东方财富股票",
      "zh": "14只基金扛住市场震荡 押注半导体国产替代主线"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:30:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
     }
    ]
   },

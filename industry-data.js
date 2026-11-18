@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 15:31:50",
+ "generated_at": "2026/11/18 15:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Financing secured for 100 MW of solar in Ghana",
+     "link": "https://www.pv-magazine.com/2026/11/18/financing-secured-for-100-mw-of-solar-in-ghana/",
+     "pubDate": "Wed, 18 Nov 2026 07:47:41 +0000",
+     "summary": "The $88.6 million financing package supports the first phase of a planned 200 MW solar project that will supply more than 95 industrial customers. The post Financing secured for 100 MW of solar in Ghana appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Financing secured for 100 MW of solar in Ghana"
+    },
+    {
+     "title": "Pipelife unveils 3.2 kW indoor propane heat pump",
+     "link": "https://www.pv-magazine.com/2026/11/18/pipelife-unveils-3-2-kw-indoor-propane-heat-pump/",
+     "pubDate": "Wed, 18 Nov 2026 07:37:43 +0000",
+     "summary": "The Irish manufacturer has introduced a compact monobloc heat pump designed for apartment buildings, eliminating the need for an outdoor unit. The propane-based system delivers a heating capacity of 3.2 kW, a seasonal coefficient of performance (SCOP) of up to 4.7, and water temperatures of up to 75",
+     "source": "pv magazine",
+     "zh": "Pipelife unveils 3.2 kW indoor propane heat pump"
+    },
+    {
+     "title": "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Western-Australia-Wins-Battle-Over-Federal-Gas-Reservation-Scheme.html",
+     "pubDate": "Wed, 18 Nov 2026 01:30:00 -0600",
+     "summary": "Western Australia, home to facilities producing 66% of the country’s LNG for export, will not be included in a federal government scheme mandating gas companies to set aside certain volumes for the domestic market to avoid shortages. The state, where Woodside Energy operates the North West Shelf sit",
+     "source": "OilPrice",
+     "zh": "Western Australia Wins Battle Over Federal Gas Reservation Scheme"
+    },
+    {
      "title": "Poland pushes for cybersecurity requirements for renewables grid connections",
      "link": "https://www.pv-magazine.com/2026/11/18/poland-pushes-for-cybersecurity-requirements-for-renewables-grid-connections/",
      "pubDate": "Wed, 18 Nov 2026 07:18:38 +0000",
@@ -994,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Rising Tide Of Distributed Energy Resources"
     },
     {
-     "title": "UK Carbon Capture Keeps Advancing Despite Critics",
-     "link": "https://oilprice.com/Energy/Energy-General/UK-Carbon-Capture-Keeps-Advancing-Despite-Critics.html",
-     "pubDate": "Tue, 17 Nov 2026 16:00:00 -0600",
-     "summary": "The United Kingdom just took a major step forward toward building one of the world’s biggest carbon capture and storage projects under the North Sea. Last week the Northern Endurance Partnership (NEP) finished installing the first of its monitoring systems off the shore of Teesside, bringing the fac",
-     "source": "OilPrice",
-     "zh": "UK Carbon Capture Keeps Advancing Despite Critics"
-    },
-    {
      "title": "Power sector emissions set to fall in US amid lower coal use",
      "link": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
      "pubDate": "Tue, 17 Nov 2026 15:00:00 -0500",
@@ -1024,14 +1040,6 @@ window.INDUSTRY_DATA = {
      "summary": "An estimated 191 GW of planned data center capacity faces new risk after the midterm elections, with exposure concentrated in Texas, Ohio and Georgia, according to a report from energy analytics firm Orennia.",
      "source": "Utility Dive",
      "zh": "Data center slowdown would raise risks for utility investments"
-    },
-    {
-     "title": "The US solar manufacturing landscape in 2026",
-     "link": "https://www.pv-magazine.com/2026/11/17/the-us-solar-manufacturing-landscape-in-2026/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow its demand for solar to be met by domestically made components. Finlay Colville ",
-     "source": "pv magazine",
-     "zh": "The US solar manufacturing landscape in 2026"
     },
     {
      "title": "Most states fail ‘community power’ test, advocacy group says",
@@ -1061,7 +1069,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The latest edition of PV Tech Power is available to download, full of exclusive content for the downstream solar PV and BESS industries.",
      "source": "Energy Storage News",
      "zh": "US solar’s new makers, batteries for data centres and electrostates vs petrostates: PV Tech Power 46 out now!"
-    },
-    {
-     "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
-     "link": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
-     "pubDate": "Tue, 17 Nov 2026 14:58:46 +0000",
-     "summary": "Winning solar bids ranged from PLN 180 ($49)/MWh to PLN 377.77/MWh, depending on project size. The post Poland awards 1.81 GW of solar in latest renewables auctions appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Poland awards 1.81 GW of solar in latest renewables auctions"
     },
     {
      "title": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say",
@@ -1338,6 +1338,14 @@ window.INDUSTRY_DATA = {
      "zh": "Sierra Snow Season Spins Up"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "NASA Launches Nuclear Power Systems Student Contest",
      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
      "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
@@ -1474,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1522,6 +1538,14 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+    },
+    {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -1545,6 +1569,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+     "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+     "pubDate": "Wed, 18 Nov 2026 07:43:34 +0000",
+     "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover"
+    },
     {
      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
@@ -1714,14 +1746,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool"
     },
     {
-     "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-     "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-     "pubDate": "Tue, 17 Nov 2026 13:24:43 +0000",
-     "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "MSP ScreenConnect Servers Targeted in Month-Long Campaign"
-    },
-    {
      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
      "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
      "pubDate": "Tue, 17 Nov 2026 13:12:56 GMT",
@@ -1762,52 +1786,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "“纯血鸿蒙智行”再进化！智界获道路机动车辆独立生产资质",
-     "link": "https://www.ithome.com/1/028/833.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:20:38 GMT",
-     "summary": "IT之家 11 月 18 日消息，据蓝鲸汽车报道，奇瑞集团获同意增加成员企业安徽智界新能源汽车有限公司，注册地址为安徽省芜湖市经济技术开发区龙山街道华山路与千岛湖路交叉口芜湖经济技术开发区管理委员会 15 楼 1507 室，生产地址为安徽省芜湖市经济技术开发区皖江大道 8 号。 这意味着智界拿下道路机动车辆独立生产资质 。后续新车的尾标预计会变成“智界汽车”。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。 IT之家注：智界汽车（LUXEED）是由华为与奇瑞汽车合作推出的高端智能汽车品牌，属鸿蒙智行体系，融合华为智能技术与奇瑞整车制造优势，产品搭载 HarmonyOS 鸿蒙座舱及华为 ADS 智",
-     "source": "IT之家",
-     "zh": "“纯血鸿蒙智行”再进化！智界获道路机动车辆独立生产资质"
+     "title": "山姆恶补“信任课”",
+     "link": "https://www.huxiu.com/article/4906548.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 15:43:25 +0800",
+     "summary": "本文来自微信公众号： 斑马消费 ，作者：徐霁 最近半个月，山姆的货架接连出圈。 一款羽绒服先刷屏，价格399元、充绒300g，多家门店卖断货，被赞戳破了羽绒服行业的泡沫。 始祖鸟、加拿大鹅等国际大牌，随后在山姆APP上架，保税仓直发，比品牌官方旗舰店同款便宜几百到数千元。 近期，山姆上线国航3970元国内机票四次卡，除了少数几个热门时段，国内任意飞。 社交平台上，会员忙着算克重、比差价、抢配额。而对于山姆来说，正是在用这些显而易见的实惠，来恶补“信任课”。 狂奔之后 1996年，山姆会员店首次落地中国在深圳开出首店，至今已整整30年。 进入中国之初，山姆的扩张速度极为缓慢，甚至几年才新开一家门",
+     "source": "虎嗅",
+     "zh": "山姆恶补“信任课”"
     },
     {
-     "title": "特斯拉欧洲版 FSD 再加安全限制：时速超过 130 公里必须手握方向盘",
-     "link": "https://www.ithome.com/1/028/832.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:20:16 GMT",
-     "summary": "IT之家 11 月 18 日消息，特斯拉面向欧洲市场推出的辅助驾驶系统 Tesla Assisted Driving（TAD，特斯拉辅助驾驶）即将迎来更加严格的使用要求。荷兰车辆管理局（RDW）宣布，已批准针对搭载 HW4 硬件车辆的一系列新调整，其中包括一项规定：当车辆行驶速度超过 130 公里 / 小时时，驾驶员必须将双手放在方向盘上。 此次更新将通过 OTA 升级方式推送，但 RDW 表示，具体推送时间由特斯拉自行决定。 根据 RDW 公布的信息，此次更新涉及 TAD 对驾驶员状态的监测方式，以及系统的速度控制机制，主要包括以下内容： 驾驶员如果没有集中注意力，系统将更早发出警告；如果系",
+     "title": "零跑 D 系车型获推 OTA 升级：D19、D99 启用苹果数字钥匙系统，可用 iPhone、Apple Watch 解锁并启动",
+     "link": "https://www.ithome.com/1/028/843.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:42:14 GMT",
+     "summary": "IT之家 11 月 18 日消息，零跑汽车今日宣布，D 系 OTA 即日起全国陆续推送。 据介绍，零跑 DI9、D99 正式 启用苹果数字钥匙系统 ，使用 iPhone 或 Apple Watch 即可解锁并启动车辆。 开通路径：零跑 App → 爱车 → 数字钥匙 → 开通手机钥匙，按手机提示操作即可； 支持 D19 智尊版及三电机性能版、D99 全系车型。 IT之家附本次升级主要内容如下： 语音交互 数字钥匙 导航出行 辅助驾驶 智能座舱 舒适便利、安全与隐私",
      "source": "IT之家",
-     "zh": "特斯拉欧洲版 FSD 再加安全限制：时速超过 130 公里必须手握方向盘"
+     "zh": "零跑 D 系车型获推 OTA 升级：D19、D99 启用苹果数字钥匙系统，可用 iPhone、Apple Watch 解锁并启动"
     },
     {
-     "title": "微软推出 Copilot Today：打工人的“全自动 AI 助理”，替你排好一天工作",
-     "link": "https://www.ithome.com/1/028/831.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:13:53 GMT",
-     "summary": "IT之家 11 月 18 日消息，在昨日（11 月 17 日）召开的 Ignite 2026 大会上，微软推出全新 Copilot Today 功能， 目标把 AI 助手从“你问、它答”推进到“它先看、再帮你准备”的工作模式。 该功能整合在 Microsoft Copilot 应用和 Outlook 中，可将邮件、日历、Teams 聊天、会议和任务等信息汇总为统一的工作中心。 Today 由两部分组成：Today Brief 提供个性化晨间简报，列出当天最重要的任务；Today Feed 则会随新邮件、新消息和新日程不断刷新，让用户不必在多个应用之间来回查找。IT之家附上相关截图如下： 在实际",
+     "title": "特斯拉推出 Powercore：集成变压器、逆变器和断路器，明年投入使用",
+     "link": "https://www.ithome.com/1/028/841.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:38:05 GMT",
+     "summary": "IT之家 11 月 18 日消息，特斯拉推出了 Powercore，这是一种新型固态电气系统，将中压变压器、逆变器和断路器整合到一个设备中。 简单来说，Powercore 将与特斯拉 Megapack 储能电池配套使用，负责管理电能的输入和输出。 这款产品的持续输出功率最高可达 7.4 MW，预计将于 2027 年开始投入使用。Powercore 主要面向大型能源项目，包括电池储能设施、太阳能发电项目和数据中心等。 传统的大型能源设施通常需要分别安装逆变器、变压器和断路器，用于电力转换以及设备与电网之间的连接。Powercore 将这些组件整合到一个机柜中，从而减少项目所需的独立电气设备数量。",
      "source": "IT之家",
-     "zh": "微软推出 Copilot Today：打工人的“全自动 AI 助理”，替你排好一天工作"
+     "zh": "特斯拉推出 Powercore：集成变压器、逆变器和断路器，明年投入使用"
     },
     {
-     "title": "特斯拉在纽约时代广场投放 FSD 广告，Grok Bot 点亮拉斯维加斯 Sphere",
-     "link": "https://www.ithome.com/1/028/830.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:12:21 GMT",
-     "summary": "IT之家 11 月 18 日消息，特斯拉正在全球人流最密集的区域之一宣传其 FSD（监督版）。长期关注特斯拉动态的索耶 · 梅里特（Sawyer Merritt）分享了一段视频，展示了特斯拉首次在纽约时代广场投放的 FSD 广告，这则广告将在 11 月剩余时间内持续播放。 广告出现在大通银行（Chase）的弧形巨型广告屏上，画面不断切换，展示 FSD（监督版）在实际驾驶场景中的表现。广告重点突出两组数据：“启用状态下，安全性比人类驾驶员高出 7 倍”以及“全球累计行驶里程超过 150 亿英里 （IT之家注：约 241.4 亿公里） ”。 整个广告还多次出现 Chase 的品牌标识，并宣传特斯拉",
+     "title": "宝马 i3 完成“跨越欧洲”壮举：全程充电不到 3 小时，跑完 5886.7 公里路程",
+     "link": "https://www.ithome.com/1/028/840.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:34:56 GMT",
+     "summary": "IT之家 11 月 18 日消息，当地时间 17 日，据外媒 Carscoops 报道，宝马用全新纯电 i3 完成了一次跨越欧洲的长途旅行，新车跑出了 5886.7km，相当于普通纯电车主四个月的行驶里程，而全程接入充电桩的时间加起来 只有 2 小时 46 分钟 。 车辆从挪威马格尔岛的北角出发。北角伸入北冰洋，是欧洲大陆驾车能够抵达的最北端。随后，i3 50 xDrive 一路向南，穿越丹麦、德国、法国等 8 个国家，最终抵达西班牙南部光之海岸的塔里法， 全程 5886.7km 。 这趟旅程的成绩相当亮眼。累计驾驶时间为 3 天 2 小时 41 分钟，i3 的平均时速达到 79.7km/h，",
      "source": "IT之家",
-     "zh": "特斯拉在纽约时代广场投放 FSD 广告，Grok Bot 点亮拉斯维加斯 Sphere"
+     "zh": "宝马 i3 完成“跨越欧洲”壮举：全程充电不到 3 小时，跑完 5886.7 公里路程"
     },
     {
-     "title": "华为智选车产品总监彭磊：享界 G9 截止到昨天，11 月用户端交付量达 3316 辆",
-     "link": "https://www.ithome.com/1/028/828.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:09:15 GMT",
-     "summary": "IT之家 11 月 18 日消息，华为智选车产品总监（享界系列）彭磊今日发文，分享了鸿蒙智行享界 G9 的最新交付动态。 享界 G9 交付持续上量，截止到昨天 11.17， 在 11 月用户端的交付量达到了 3316 辆 ，现在每天用户侧销量接近 200 辆，感谢大家的喜欢， 本月目标不变，突破 5000 辆 ！ 据IT之家此前报道， 鸿蒙智行首款科技豪华硬派 SUV 享界 G9 已于今年 8 月上市发布 。该车首发搭载鸿蒙智行智能全地形系统、800V 全主动可断开稳定杆、自适应牙嵌式差速锁等硬核配置，去露营还能升起电动顶帐、打开尾门厨房，售价 42.98 万元起。 本月早些时候，彭磊表示，随",
+     "title": "微软推出 Win11 新安全检查机制：未达标情况下应用可设置拒绝运行",
+     "link": "https://www.ithome.com/1/028/839.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:30:39 GMT",
+     "summary": "IT之家 11 月 18 日消息，科技媒体 Windows Latest 今天（11 月 18 日）发布博文，报道称微软计划为 Windows 11 引入名为“基线保护”（Baseline protection）的全新安全机制，整合 TPM 2.0、安全启动等多项防护，成为一个应用可直接读取的“通过 / 未通过”安全状态。 Windows 11 安全设置页面中的新基线保护。 在部署方面，微软目前已邀请 Windows Insider 项目成员测试，计划 2027 年推出上线。在厂商方面，Adobe、暴雪 Battle.net 、1Password 及考试平台 Schoolyear 已开始测试该",
      "source": "IT之家",
-     "zh": "华为智选车产品总监彭磊：享界 G9 截止到昨天，11 月用户端交付量达 3316 辆"
+     "zh": "微软推出 Win11 新安全检查机制：未达标情况下应用可设置拒绝运行"
     },
     {
-     "title": "哈佛大学研究：学校严格禁手机，学生成绩提升相当于每年多上 1-2 周课",
-     "link": "https://www.ithome.com/1/028/827.htm",
-     "pubDate": "Wed, 18 Nov 2026 07:09:15 GMT",
-     "summary": "IT之家 11 月 18 日消息，《纽约时报》昨日援引一项哈佛大学的研究报告，称学校禁止学生使用手机，有助于提升学习成绩。 据介绍，这项研究由哈佛大学教育政策研究中心发起，调查 2021 年-2026 年美国 4600 所学校的 330 万名学生，涵盖三年级至十年级。 该研究发现，在手机管理规定最严格的学校，学生上学时必须将手机锁在收纳袋里，上课期间不准拿出。这些学生在数学和阅读方面均取得了进步， 提升幅度相当于每年额外接受 1-2 周课堂教学 。 IT之家从原报道获悉，研究员使用 MAP 测试衡量学生秋季到春季的进步程度，并将严格执行手机禁令和没有执行相关规定的学校做比较。结果显示学生每年获",
+     "title": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users (Jason Parham/Wired)",
+     "link": "https://www.techmeme.com/261118/p4#a261118p4",
+     "pubDate": "Wed, 18 Nov 2026 02:30:02 -0500",
+     "summary": "Jason Parham / Wired : A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users &nbsp; &mdash;&nbsp; Young people who have online-only friends or use AI as a social companion face higher odds of lonel",
+     "source": "Techmeme",
+     "zh": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users (Jason Parham/Wired)"
+    },
+    {
+     "title": "微软 CEO 纳德拉就全球服务宕机致歉：吸取教训改进可靠性",
+     "link": "https://www.ithome.com/1/028/838.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:29:31 GMT",
+     "summary": "IT之家 11 月 18 日消息，微软上周发生的全球性服务中断事件波及多项业务，不仅影响范围广，持续时间也远超以往。 据西雅图时报报道，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）在当地时间 11 月 17 日举行的微软 Ignite 大会的发表主旨演讲谈及此事。 从某种意义上说，上周的事件提醒了我们，数字基础设施是何等关键，它就像是整个世界的“拨号音”。 我们知道你们对我们的服务寄予信任，并且极其认真地对待这份责任。 我知道我们还有很多工作要做 ，才能提供你们以及全世界能够信赖的韧性。 我们承诺从中吸取教训，并持续改进 。 他随后向员工表达感谢，“除此之外，我还想感谢你们（",
      "source": "IT之家",
-     "zh": "哈佛大学研究：学校严格禁手机，学生成绩提升相当于每年多上 1-2 周课"
+     "zh": "微软 CEO 纳德拉就全球服务宕机致歉：吸取教训改进可靠性"
+    },
+    {
+     "title": "同档位首款：荣耀 700 系列支持长焦增距镜 G200",
+     "link": "https://www.ithome.com/1/028/837.htm",
+     "pubDate": "Wed, 18 Nov 2026 07:24:35 GMT",
+     "summary": "IT之家 11 月 18 日消息，荣耀官方今天宣布，荣耀 700 系列手机将支持荣耀长焦增距镜 G200，号称同档位首款。 据介绍，荣耀 700 系列搭配增距镜使用时，可使用 15 倍舞台 Live 模式拍摄，号称“看台也能出神图”。 荣耀官网显示，荣耀 700 系列手机此次有“三杯”，分别是荣耀 700 Pro、荣耀 700、荣耀 700S，全系采用背屏设计。该机将搭载 9000mAh 青海湖电池，背屏支持后置自拍、AI 互动、多样主题，以及心率、血氧检测以及航班提醒等功能。 结合IT之家此前援引 @数码闲聊站 爆料， 荣耀 700 系列手机采用同档唯一双 8 芯片 ，拥有更强性能 + 更大",
+     "source": "IT之家",
+     "zh": "同档位首款：荣耀 700 系列支持长焦增距镜 G200"
     },
     {
      "title": "坐拥8500家酒店，温德姆为何还要“借房”？",
@@ -1864,6 +1904,14 @@ window.INDUSTRY_DATA = {
      "summary": "软件和视频市场被卷到雷声大雨点小，谁都能进，赚不到钱。医药行业却有深厚护城河，而且刚需永远存在。科技巨头不是冲着做长生药，而是把药企当成万亿估值的承重墙。",
      "source": "虎嗅",
      "zh": "放下大模型卷制药，AI巨头打的什么算盘？"
+    },
+    {
+     "title": "AI is killing All About Berlin",
+     "link": "https://nicolasbouliane.com/blog/death-by-ai",
+     "pubDate": "Wed, 18 Nov 2026 06:47:26 +0000",
+     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 25 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "AI is killing All About Berlin"
     },
     {
      "title": "李宁还能反超安踏吗？",
@@ -1976,30 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
      "source": "WIRED",
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
-    },
-    {
-     "title": "Walmart Promo Codes: 20% Off for November 2026",
-     "link": "https://www.wired.com/story/top-walmart-promo-codes/",
-     "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000",
-     "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-     "source": "WIRED",
-     "zh": "Walmart Promo Codes: 20% Off for November 2026"
-    },
-    {
-     "title": "Birdfy Discount Codes: 15% Off Sitewide",
-     "link": "https://www.wired.com/story/birdfy-discount-code/",
-     "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000",
-     "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-     "source": "WIRED",
-     "zh": "Birdfy Discount Codes: 15% Off Sitewide"
-    },
-    {
-     "title": "Priceline Promo Codes & Coupons: 10% Off November 2026",
-     "link": "https://www.wired.com/story/priceline-promo-code/",
-     "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000",
-     "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-     "source": "WIRED",
-     "zh": "Priceline Promo Codes & Coupons: 10% Off November 2026"
     }
    ]
   },
@@ -2258,6 +2282,110 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "5450亿美元！高盛大幅上调AI项目融资预测，但关键担保人英伟达正在退场",
+     "link": "https://wallstreetcn.com/articles/3786146",
+     "pubDate": "Wed, 18 Nov 2026 15:38:54 +0800",
+     "summary": "高盛将2027年全球AI项目融资规模预测从3000亿美元大幅上调至5450亿美元，但这一雄心勃勃的预测面临一个核心矛盾： 支撑其中最大增长部分的关键担保人——英伟达——正在收缩其金融承诺。 根据高盛信贷团队11月17日发布的报告，5450亿美元 预测中有3200亿美元来自芯片融资，这一规模较今年迄今完成的480亿美元增长近七倍。 然而，据《华尔街日报》报道，英伟达临时CEO Colette Kress 预计将收紧该公司此前为客户提供的担保、回购及投资承诺 ，而英伟达联合创始人黄仁勋早在10月便已告知一众新兴云服务商CEO，要求其客户提前付款。 这一转变直接冲击市场信心。 华尔街见闻文章 此前写",
+     "source": "华尔街见闻",
+     "zh": "5450亿美元！高盛大幅上调AI项目融资预测，但关键担保人英伟达正在退场"
+    },
+    {
+     "title": "大宗交易：朱老六成交1687.49万元，折价27.72%（11-18）",
+     "link": "http://stock.eastmoney.com/news/11264,202611183933953834.html",
+     "pubDate": "Wed, 18 Nov 2026 15:37:54 +0800",
+     "summary": "2026年11月18日， 朱老六 发生1笔大宗交易，共成交159.05万股，成交金额1687.49万元 ，占其流通市值比例为2.06% 。 该笔大宗交易成交均价10.61元， 较该股当日收盘价14.68元折价27.72%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：朱老六成交1687.49万元，折价27.72%（11-18）"
+    },
+    {
+     "title": "源杰科技：公司增长动能充沛，重大订单加快落地",
+     "link": "http://stock.eastmoney.com/news/11134,202611183933952995.html",
+     "pubDate": "Wed, 18 Nov 2026 15:36:40 +0800",
+     "summary": "新华财经上海11月18日电（记者杜康）18日， 源杰科技 在接受记者采访时表示，公司重大订单加快落地，增长动能充沛。前不久， 源杰科技 收到客户大功率激光器芯片采购订单，订单总金额为17.44亿元人民币（不含税）。 源杰科技 表示，若订单顺利实施，预计将对经营业绩产生积极影响。 为满足市场需求及客户订单交付需要，源杰科技正推进产能建设。目前，公司光电通讯 半导体 芯片和器件研发生产基地二期项目的土建工程、部分洁净室及相关配套设施已完成建设，首批生产设备预计近期开始进厂，随后进行设备调试。该项目预计于2026年底至2027年初开始形成产能。 业绩方面，2026年前三季度，源杰科技实现营业收入16",
+     "source": "东方财富股票",
+     "zh": "源杰科技：公司增长动能充沛，重大订单加快落地"
+    },
+    {
+     "title": "长鑫科技业绩会回应：今年第四季度DRAM产品供给紧缺格局将延续",
+     "link": "http://stock.eastmoney.com/news/11134,202611183933952660.html",
+     "pubDate": "Wed, 18 Nov 2026 15:35:47 +0800",
+     "summary": "11月17日，国产存储龙头 长鑫科技 （688825.SH）召开2026年第三季度业绩说明会，对于营收快速增长的原因， 长鑫科技 高级副总裁、财务负责人黄丹阳表示，主要增长 驱动力 来自：一是产能扩建与迅速爬坡带来产销增长；二是通过技术投入与自主创新，不断推出高附加值产品，产品结构得以优化；三是自2025年以来DRAM市场供不应求带来的产品价格持续上涨。 在盈利能力方面， 长鑫科技 今年前三季度 综合 毛利率达86.85%，同比大幅提升。对此，长鑫管理层表示主要得益于DRAM价格持续上涨、高端产品如DDR5、LPDDR5/5X收入占比的提升，晶圆厂产能利用率提升带来的规模效应，以及制造工艺成熟",
+     "source": "东方财富股票",
+     "zh": "长鑫科技业绩会回应：今年第四季度DRAM产品供给紧缺格局将延续"
+    },
+    {
+     "title": "TrendForce预测：HBM4明年将涨价超100%，但NAND二季度起转跌",
+     "link": "https://wallstreetcn.com/articles/3786178",
+     "pubDate": "Wed, 18 Nov 2026 15:34:34 +0800",
+     "summary": "全球存储芯片市场正出现价格分化：AI需求持续推高HBM和DRAM价格，NAND闪存却预计明年第二季度开始进入下行周期。 据市场研究机构集邦咨询（TrendForce）11月18日发布的最新预测， HBM4每Gb价格将从今年的2.05美元以上升至明年的3至5.5美元，涨幅超过100%。 与此同时，HBM4E每Gb报价目前已超过5美元，相关定价预计将在明年上半年进一步明确。 集邦咨询高级研究员Eli Wang在首尔举行的“2026路演韩国”活动上表示， 受AI基础设施需求旺盛及供给端结构性约束支撑，DRAM价格明年全年预计不会转跌。相比之下，NAND价格预计从明年第二季度开始下行。 DRAM涨势延",
+     "source": "华尔街见闻",
+     "zh": "TrendForce预测：HBM4明年将涨价超100%，但NAND二季度起转跌"
+    },
+    {
+     "title": "摩根士丹利：英伟达Q3业绩“基本符合预期”",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933952289.html",
+     "pubDate": "Wed, 18 Nov 2026 15:34:27 +0800",
+     "summary": "摩根士丹利 首席投资官兼美股首席策略师Michael Wilson表示， 英伟达 Q3业绩“基本符合预期”，业绩指引仍“相当积极”， 人工智能 仍是“值得投资的领域”。目前尚未看到超大规模 云计算 企业及部分新兴 云计算 服务商支出放缓，预计未来也不会出现放缓。不过他补充说，相关投资可能无法继续保持市场六个月前预期的增长速度。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "摩根士丹利：英伟达Q3业绩“基本符合预期”"
+    },
+    {
+     "title": "LME伦铜跌幅扩大 现跌3%",
+     "link": "http://finance.eastmoney.com/news/1351,202611183933952051.html",
+     "pubDate": "Wed, 18 Nov 2026 15:33:15 +0800",
+     "summary": "LME伦 铜 跌幅扩大，现跌3%，最新报12826美元/吨。",
+     "source": "东方财富股票",
+     "zh": "LME伦铜跌幅扩大 现跌3%"
+    },
+    {
+     "title": "【概念速递】长飞光纤新增“智算中心（AIDC）”概念",
+     "link": "http://stock.eastmoney.com/news/11669,202611183933951750.html",
+     "pubDate": "Wed, 18 Nov 2026 15:32:55 +0800",
+     "summary": "2026年11月18日， 长飞光纤 新增“智算中心（AIDC） ”概念。 入选理由：2026年半年报显示，在Scale-up场景中，公司高端多模光纤系列产品在报告期内销量提升，份额持续领先。而在共封装光学相关前沿应用中，公司保偏光纤产品已率先进入智算中心供应链，实现正式认证及量产，产品份额连续五年国内领先。 公司涉及的其他概念： 光纤概念 、 通信 技术、 碳化硅 、 第三代半导体 、 光通信模块 、 海工装备 、 超清视频 、 工业互联网 、 5G概念 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 ",
+     "source": "东方财富股票",
+     "zh": "【概念速递】长飞光纤新增“智算中心（AIDC）”概念"
+    },
+    {
+     "title": "纠结的华尔街：有黄仁勋的财报 看涨！没有黄仁勋的电话会 看跌",
+     "link": "http://finance.eastmoney.com/news/1345,202611183933951887.html",
+     "pubDate": "Wed, 18 Nov 2026 15:31:40 +0800",
+     "summary": "11月17日美股盘后， 英伟达 公布了一份超预期财报，股价却上演了一场多空拉锯。 财报发布后， 英伟达 股价一度上涨约3.8%，但随着电话会结束、投资者重新评估公司前景，涨幅逐步回吐。 英伟达 的业绩并不令人失望。2027财年第三季度，其营收1158亿美元，同比增长103.1%；净利润652.87亿美元，同比增长105%。新一代Vera Rubin平台首个量产季度贡献近200亿美元收入，公司预计第四季度营收达到1300亿美元，并将2028财年营收增长预期由70%上调至75%。 然而，这份黄仁勋离任后的首份财报，非但没有平息争论，反而让华尔街围绕英伟达未来价值的分歧更加清晰。 上证报记者梳理华尔",
+     "source": "东方财富资讯",
+     "zh": "纠结的华尔街：有黄仁勋的财报 看涨！没有黄仁勋的电话会 看跌"
+    },
+    {
+     "title": "抖音生活服务换帅，莫少君接棒浦燕子",
+     "link": "https://wallstreetcn.com/articles/3786179",
+     "pubDate": "Wed, 18 Nov 2026 15:30:52 +0800",
+     "summary": "执掌抖音生活服务三年后，浦燕子将这一业务交给了红果短剧负责人莫少君。 11月17日消息，浦燕子因个人及家庭生活安排卸任抖音生活服务总裁，转任公司顾问，后续将参与公益等工作。抖音集团回应称，此次调整属于正常的管理岗位轮换与交接，公司将继续投入生活服务业务。 两任负责人的履历各有侧重。浦燕子是抖音集团早期员工，长期从事商业化和销售工作。2023年11月，她在担任集团商业化负责人的同时，开始兼任生活服务总裁。任内，餐饮、酒旅、休闲娱乐等线下商家陆续扩大在抖音的生意。 按平台披露的数据，2025年抖音生活服务总交易额同比增长59%，全年新增入驻商家399万，产生过交易的门店累计达到约1520万家。 接",
+     "source": "华尔街见闻",
+     "zh": "抖音生活服务换帅，莫少君接棒浦燕子"
+    },
+    {
+     "title": "Nyxoah obtains default judgment in patent infringement case against Inspire Medical Systems",
+     "link": "https://seekingalpha.com/news/4674016-nyxoah-obtains-default-judgment-in-patent-infringement-case-against-inspire-medical-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 02:30:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nyxoah obtains default judgment in patent infringement case against Inspire Medical Systems"
+    },
+    {
+     "title": "Dolby Laboratories boost dividend by 8.3% to $0.39 a share",
+     "link": "https://seekingalpha.com/news/4674017-dolby-laboratories-boost-dividend-by-83-to-039-a-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 02:30:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dolby Laboratories boost dividend by 8.3% to $0.39 a share"
+    },
+    {
+     "title": "13:11分科技股集体拉升 大盘翻红！三大原因找到了",
+     "link": "http://stock.eastmoney.com/news/1407,202611183933949034.html",
+     "pubDate": "Wed, 18 Nov 2026 15:26:39 +0800",
+     "summary": "11月18日，市场午后探底回升，三大指数集体收红，创业板指一度跌超1%。截至收盘，沪指涨0.09%，深成指涨0.2%，创业板指涨0.85%。 盘面上，华为算力、算力 租赁 、算力 芯片概念 走强， PCB 午后拉升。下跌方面，AI漫剧概念走弱。 全市场超4100只个股下跌。沪深两市成交额1.37万亿元，刷新年内新低，较上一个交易日缩量880亿。 今天，A股市场整体再度探底回升，全A在创出阶段新低后收长下影线。 科技资产表现强于大势，双创指数（尤其科创50）涨幅领先，但从分时图上可以明显看出，这主要源于13:11后的一波急速拉升。 这段时间里，发生了什么？ 综合 盘面和公开报道来看，主要有如下影",
+     "source": "东方财富资讯",
+     "zh": "13:11分科技股集体拉升 大盘翻红！三大原因找到了"
+    },
+    {
      "title": "Visa expands Agentic Ready program to merchants and PSPs with 140+ launch participants",
      "link": "https://seekingalpha.com/news/4673991-visa-expands-agentic-ready-program-to-merchants-and-psps-with-140-launch-participants?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 02:25:42 -0500",
@@ -2282,52 +2410,20 @@ window.INDUSTRY_DATA = {
      "zh": "Workday to acquire Honeydew to improve AI accuracy across business data"
     },
     {
-     "title": "中兵红箭：截至11月10日最新股东户数18.20万户，较上期减少1.62%",
-     "link": "http://stock.eastmoney.com/news/11111,202611183933944916.html",
-     "pubDate": "Wed, 18 Nov 2026 15:22:52 +0800",
-     "summary": "中兵红箭 最新披露数据显示，截至11月10日公司股东户数为18.20万户，较上期(2026年10月30日) 减少3000户，降幅为1.62% 。户均持有流通股数量 由上期的7527股上升至7651股， 户均持股金额 由上期的10.06万元增加至10.60万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "中兵红箭：截至11月10日最新股东户数18.20万户，较上期减少1.62%"
+     "title": "英伟达临时CEO称将不再向中国出货H200芯片 外交部回应",
+     "link": "http://finance.eastmoney.com/news/1345,202611183933945486.html",
+     "pubDate": "Wed, 18 Nov 2026 15:23:36 +0800",
+     "summary": "11月18日，外交部发言人郭嘉昆主持例行记者会。 法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片，中方对此有何评论？ 郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 （文章来源：北京青年报）",
+     "source": "东方财富资讯",
+     "zh": "英伟达临时CEO称将不再向中国出货H200芯片 外交部回应"
     },
     {
-     "title": "华锦股份：截至11月10日最新股东户数4.69万户，较上期减少0.23%",
-     "link": "http://stock.eastmoney.com/news/11111,202611183933944850.html",
-     "pubDate": "Wed, 18 Nov 2026 15:21:54 +0800",
-     "summary": "华锦股份 最新披露数据显示，截至11月10日公司股东户数为4.69万户，较上期(2026年10月30日) 减少106户，降幅为0.23% 。户均持有流通股数量 由上期的3.40万股上升至3.41万股， 户均持股金额 由上期的14.77万元增加至15.25万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "华锦股份：截至11月10日最新股东户数4.69万户，较上期减少0.23%"
-    },
-    {
-     "title": "印尼央行关键利率上调25基点至6%",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933944622.html",
-     "pubDate": "Wed, 18 Nov 2026 15:20:35 +0800",
-     "summary": "印尼央行关键利率上调25基点至6%，市场预估为5.75%。印尼央行会后宣布贷款工具利率为6.75%，原为6.50%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "印尼央行关键利率上调25基点至6%"
-    },
-    {
-     "title": "印尼央行将存款便利利率上调25个基点至5.25%",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933945183.html",
-     "pubDate": "Wed, 18 Nov 2026 15:20:04 +0800",
-     "summary": "印尼央行将存款便利利率上调25个基点至5.25%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印尼央行将存款便利利率上调25个基点至5.25%"
-    },
-    {
-     "title": "印尼央行意外加息25个基点",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933945051.html",
-     "pubDate": "Wed, 18 Nov 2026 15:19:33 +0800",
-     "summary": "印尼央行意外将7天逆回购利率上调25个基点至6.00%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印尼央行意外加息25个基点"
-    },
-    {
-     "title": "美国暂停安装与航空停摆相关的路由器",
-     "link": "http://finance.eastmoney.com/news/1351,202611183933942866.html",
-     "pubDate": "Wed, 18 Nov 2026 15:17:55 +0800",
-     "summary": "美国联邦航空局17日宣布，暂停安装与上周大范围航班停飞相关的路由器。 联邦航空局发言人伊恩·格雷戈尔说，该机构13日发布全美地面停飞令当天，在技术人员发现停飞事件与阿肯色州埃尔多拉多一处 通信 设施新安装的一台路由器有关后，该机构关闭了全部相关路由器，并暂停安装新路由器。 负责安装路由器的L3哈里斯公司眼下正在总部实验室对“问题”路由器进行测试。美国交通部长肖恩·达菲说，已在测试中“复现”埃尔多拉多路由器那天发生的情况，“但还不清楚事故根源是什么”。他同时表示，此前68次涉及同款路由器的安装作业都没有出现问题。 达菲14日说，事发时，施工方在一次常规维护作业中将一处空管 通信 系统所用的老旧 ",
-     "source": "东方财富股票",
-     "zh": "美国暂停安装与航空停摆相关的路由器"
+     "title": "重金悬赏！至少奖励1亿韩元！围剿高考AI作弊 韩国重磅出手",
+     "link": "http://finance.eastmoney.com/news/1360,202611183933946589.html",
+     "pubDate": "Wed, 18 Nov 2026 15:17:37 +0800",
+     "summary": "韩国开出重金悬赏打击AI作弊！ 韩国高考在即，韩国总统李在明17日以视频连线方式主持大学修学能力考试（俗称“韩国高考”）紧急检查会议，下令政府对举报使用高科技设备作弊者给予每起至少1亿韩元（约合50万元人民币）的奖励，并考虑建立对举报同谋的作弊者减轻处罚的制度。 会议结束后，李在明在X平台发文确认上述措施，称考试作弊无异于偷窃数十万考生的分数，将动员全部国家能力根除作弊。 与此同时，韩国政府当日发布一系列旨在防范使用 人工智能 (AI)工具作弊的措施。据悉，2026学年韩国大学修学能力考试（即“韩国高考”）定于2026年11月19日举行。 据韩国交易所宣布，19日，KOSPI、KOSDAQ等市",
+     "source": "东方财富资讯",
+     "zh": "重金悬赏！至少奖励1亿韩元！围剿高考AI作弊 韩国重磅出手"
     },
     {
      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
@@ -2338,12 +2434,28 @@ window.INDUSTRY_DATA = {
      "zh": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi"
     },
     {
+     "title": "高盛点评英伟达财报：增长前景依然强劲，但要平衡生态输血与股东回报",
+     "link": "https://wallstreetcn.com/articles/3786176",
+     "pubDate": "Wed, 18 Nov 2026 15:16:15 +0800",
+     "summary": "英伟达交出一份超预期季报，并上调全年增长指引，高盛维持买入评级，认为当前股价风险回报比具有吸引力，并指出尽管面临管理层过渡与出口管制等不确定性，该公司 底层业务的增长前景依然强劲 。英伟达正试图在为庞大的AI生态系统提供资金支持与向股东返还资本之间， 寻找精准的平衡点 。 据追风交易台消息，高盛在11月18日研报中称，英伟达第三季度业绩及第四季度指引均超出华尔街预期，强劲的财务表现主要得益于市场对其新一代架构产品的旺盛需求。 基于未受限需求持续远超供应的现状，英伟达将2027自然年（CY27）的营收增长预测从70%上调至75%，进一步巩固了市场对其基本面的信心。 在维持高增长的同时，英伟达对客",
+     "source": "华尔街见闻",
+     "zh": "高盛点评英伟达财报：增长前景依然强劲，但要平衡生态输血与股东回报"
+    },
+    {
      "title": "外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见",
      "link": "http://finance.eastmoney.com/news/1345,202611183933941252.html",
      "pubDate": "Wed, 18 Nov 2026 15:16:15 +0800",
      "summary": "11月18日，外交部发言人郭嘉昆主持例行记者会。有记者就中俄美元首会晤提问。 郭嘉昆表示，中方此前已经介绍了中俄美元首深圳会晤的有关安排，三国元首将就事关全球和平的重要问题深入交换意见，我们会及时发布会晤的相关消息，请大家保持关注。 （文章来源：央视新闻客户端）",
      "source": "东方财富资讯",
      "zh": "外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见"
+    },
+    {
+     "title": "腾讯Q3业绩前瞻：利润或结束16连增，AI开支与现金流成重估焦点",
+     "link": "https://wallstreetcn.com/articles/3786177",
+     "pubDate": "Wed, 18 Nov 2026 15:13:54 +0800",
+     "summary": "腾讯今日下午将公布三季度业绩。若利润落在市场预期附近，连续16个季度的盈利增长将告一段落——这已经是共识。 卖方盯住的是， 二季度逾500亿元的芯片预付款，三季度是否还在延续。 这个答案会决定现金流什么时候见底，以及市场要不要重新给腾讯定价。 今晚要验证的节奏 9月，管理层把节奏说得更具体。汇丰记录的投资者交流里， 腾讯称二季度预付逾500亿元锁定内存芯片， 并把当时的资本开支强度视为新的常态；预付款或延续到三季度，四季度起趋于正常。美银当时判断， 季度现金压力可能在二到三季度见顶，11月16日仍维持这一判断， 并认为自由现金流可能从四季度起环比改善，且会在每股盈利见底前见底。今晚就是验证这一",
+     "source": "华尔街见闻",
+     "zh": "腾讯Q3业绩前瞻：利润或结束16连增，AI开支与现金流成重估焦点"
     },
     {
      "title": "黄仁勋接班人有眉目了？CUDA之父首次亮相英伟达电话会",
@@ -2386,68 +2498,12 @@ window.INDUSTRY_DATA = {
      "zh": "APEC时间｜向亚太进发：深圳金融解锁多元合作新范式"
     },
     {
-     "title": "仅1.37万亿！两市成交额创16个月以来地量",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933937069.html",
-     "pubDate": "Wed, 18 Nov 2026 15:05:21 +0800",
-     "summary": "截至收盘，沪深两市全天成交额13695.63亿元，较上一日缩量880亿元，刷新此前在2026年9月29日创下的14092亿元的年内地量纪录，创出2025年7月7日以来新低，较2026年1月14日创出的历史天量39414.84亿元萎缩超65%。",
-     "source": "东方财富资讯",
-     "zh": "仅1.37万亿！两市成交额创16个月以来地量"
-    },
-    {
-     "title": "科创50指数涨超2% 三市成交额不足1.4万亿 算力租赁概念掀涨停潮",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933933885.html",
-     "pubDate": "Wed, 18 Nov 2026 15:00:03 +0800",
-     "summary": "A股主要指数今日集体上涨，截止收盘，沪指涨0.09%，收报3587.83点；深证成指涨0.20%，收报10659.41点；创业板指涨0.85%，收报2311.62点；科创50指数涨2.19%，收报1247.99点。沪深京三市成交额仅有1.38万亿，较昨日缩量875亿。 行业板块涨少跌多，通信服务、元件、航运港口板块涨幅居前， 稀土、 影视院线、医疗美容、贵金属、游戏、航空装备、医疗服务、一般零售、传媒板块跌幅居前。 个股方面，上涨股票数量超过1300只，逾40只股票涨停。算力租赁概念股掀涨停潮，广脉科技30cm涨停，青云科技-U、宏景科技20cm涨停，证通电子、华升股份、莲花控股等十余只股票涨",
-     "source": "东方财富资讯",
-     "zh": "科创50指数涨超2% 三市成交额不足1.4万亿 算力租赁概念掀涨停潮"
-    },
-    {
      "title": "La-Z-Boy boosts dividend by 12% to $0.27 a share",
      "link": "https://seekingalpha.com/news/4674011-la-z-boy-boosts-dividend-by-12-to-027-a-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 01:58:55 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "La-Z-Boy boosts dividend by 12% to $0.27 a share"
-    },
-    {
-     "title": "部分宽基ETF尾盘放量",
-     "link": "http://finance.eastmoney.com/news/11440,202611183933932343.html",
-     "pubDate": "Wed, 18 Nov 2026 14:52:20 +0800",
-     "summary": "部分宽基ETF尾盘放量，创业板ETF易方达（159915）、沪深300ETF华泰柏瑞（510300）、沪深300ETF华夏（510330）、沪深300ETF易方达（510310）等均明显放量。",
-     "source": "东方财富资讯",
-     "zh": "部分宽基ETF尾盘放量"
-    },
-    {
-     "title": "Bank executives, NSA flag AI-related vulnerabilities as Trump shrugs off tech outages",
-     "link": "https://seekingalpha.com/news/4674002-bank-executives-nsa-flag-ai-related-vulnerabilities-as-trump-shrugs-off-tech-outages?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 01:49:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bank executives, NSA flag AI-related vulnerabilities as Trump shrugs off tech outages"
-    },
-    {
-     "title": "Nvidia declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4674010-nvidia-declares-025-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 01:48:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia declares $0.25 dividend"
-    },
-    {
-     "title": "谷歌系AI制药公司融资50亿美元，较上轮翻倍",
-     "link": "https://wallstreetcn.com/articles/3786168",
-     "pubDate": "Wed, 18 Nov 2026 14:44:05 +0800",
-     "summary": "谷歌母公司Alphabet旗下AI制药初创企业Isomorphic Labs完成50亿美元C轮融资，刷新AI药物研发领域单轮融资纪录，凸显资本市场对AI驱动新药研发赛道的高度押注。 据CNBC报道， Isomorphic Labs于周二（11月17日）宣布完成50亿美元C轮融资 ，本轮由Greenoaks与红杉资本（Sequoia Capital）联合领投，Andreessen Horowitz跟投，Alphabet亦参与其中。所募资金将用于推进AI驱动的新药设计与研发。 此次融资距Isomorphic Labs上一轮融资仅约六个月。该公司于今年5月完成21亿美元B轮融资，C轮规模较上轮增长逾",
-     "source": "华尔街见闻",
-     "zh": "谷歌系AI制药公司融资50亿美元，较上轮翻倍"
-    },
-    {
-     "title": "小米如何直面MiMo人才激励的新考题",
-     "link": "https://wallstreetcn.com/articles/3786174",
-     "pubDate": "Wed, 18 Nov 2026 14:40:46 +0800",
-     "summary": "随着AI逐渐深入手机、汽车和智能家居等终端，小米自研大模型MiMo的重要性正在进一步提升。 对于这家拥有庞大硬件生态的科技公司而言，MiMo的意义已经不局限于模型本身的技术竞争力，更在于它正成为支撑小米“人车家全生态”智能化的重要基础能力。 这一变化已经体现在小米内部的业务调整中。 今年7月，小米对小爱同学进行新一轮组织架构调整，明确由罗福莉领导的MiMo团队负责基础模型能力；8月发布的超级小爱2.0也接入MiMo大模型，进一步强化跨应用、跨设备的任务执行能力。 11月17日，在深圳举行的2026年亚太经合组织（APEC）工商领导人峰会上，小米集团创始人、董事长兼CEO雷军谈到了MiMo。 雷",
-     "source": "华尔街见闻",
-     "zh": "小米如何直面MiMo人才激励的新考题"
     },
     {
      "title": "翁振杰“失联” 无法履职重庆路桥董事长",
@@ -2458,44 +2514,12 @@ window.INDUSTRY_DATA = {
      "zh": "翁振杰“失联” 无法履职重庆路桥董事长"
     },
     {
-     "title": "标普500第五次测试支撑，BTIG警告：这次恐怕撑不住了",
-     "link": "https://wallstreetcn.com/articles/3786166",
-     "pubDate": "Wed, 18 Nov 2026 14:30:31 +0800",
-     "summary": "标普500指数正面临一场关键技术考验，而市场给出的答案可能令多头失望。 BTIG首席技术策略师Jonathan Krinsky周三发布最新研报中警告，标普500正在第五次测试7250至7350点支撑区间， 依据技术分析的基本逻辑，同一支撑位被反复测试的次数越多，最终破位的概率就越高。他将目标位下调至7000至7100点区间，意味着指数距当前水平仍有约300至400点的下行空间。 Krinsky当日发布研报时，标普500已跌破200日均线，报约7320点，低于10月高点7844点逾500点。他报告中写道：\"我们很难得出其他结论，标普500正走向跌破200日均线，并至少下探至7000至7100区间",
-     "source": "华尔街见闻",
-     "zh": "标普500第五次测试支撑，BTIG警告：这次恐怕撑不住了"
-    },
-    {
-     "title": "报道：苹果拟与三星达成多年DRAM协议，2027年上半年开启交付",
-     "link": "https://wallstreetcn.com/articles/3786167",
-     "pubDate": "Wed, 18 Nov 2026 14:21:41 +0800",
-     "summary": "苹果与三星正就长期DRAM芯片供应协议展开谈判，此举将填补苹果在内存采购战略上的一大空白。 据韩国《每日经济新闻》援引不具名业内人士消息， 双方拟议中的协议期限为四至五年，交付工作预计于2027年上半年启动。协议条款将设定最低供应量承诺，定价则与市场价格挂钩而非锁定固价。 消息公布后，三星电子股价上涨1.10%，苹果股价小幅下跌0.78%。 报道指出， 苹果目前是少数几家尚未与三星签订长期DRAM供应协议的大型科技公司之一。 若协议最终落地，将标志着苹果与三星在内存采购关系上的一次实质性转变，有助于苹果在关键零部件供应方面建立更稳定的保障。 苹果寻求内存供应稳定性 DRAM是智能手机、电脑及其",
-     "source": "华尔街见闻",
-     "zh": "报道：苹果拟与三星达成多年DRAM协议，2027年上半年开启交付"
-    },
-    {
-     "title": "九阳股份走出“天地板”行情 换手率超20%",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933900277.html",
-     "pubDate": "Wed, 18 Nov 2026 14:03:08 +0800",
-     "summary": "九阳股份 走出“天地板”行情，成交额超51亿，换手率超20%。 相关报道 331倍滚动市盈率背后 九阳股份提示风险：与华为战略合作传闻不实 前三季度净利下滑41.75% 11月16日、11月17日， 九阳股份 （SZ002242，股价31.52元，市值241亿元）股票交易价格连续两个交易日异动，收盘涨幅偏离值累计达21.13%。 11月17日晚间， 九阳股份 发布股票交易异常波动暨风险提示公告，就市场热议事项进行核查说明。九阳股份表示，公司与华为不存在市场传闻所称的战略合作关系，双方关联仅因共同参股 人工智能 初创企业。 针对二级市场的持续炒作，九阳股份同步提示了估值显著偏高、前三季度净利润大",
-     "source": "东方财富资讯",
-     "zh": "九阳股份走出“天地板”行情 换手率超20%"
-    },
-    {
      "title": "Deutsche Bank hired a Qatari royal. Why?",
      "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 06:00:08 GMT",
      "summary": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
      "source": "Financial Times",
      "zh": "Deutsche Bank hired a Qatari royal. Why?"
-    },
-    {
-     "title": "AI抛售潮里，SpaceX凭什么扛住了？",
-     "link": "https://wallstreetcn.com/articles/3786164",
-     "pubDate": "Wed, 18 Nov 2026 13:43:36 +0800",
-     "summary": "在近期剧烈波动的AI抛售潮中，SpaceX展现出了惊人的抗跌韧性。摩根士丹利认为，SpaceX正在与传统的“AI交易”脱钩 （Decorrelate） ，成为投资者投资组合中更具持久性的避风港，维持其“增持”评级，目标价高达300美元。 据追风交易台消息，摩根士丹利在11月17日的研报中称，SpaceX的核心吸引力在于三大催化剂： 星链（Starlink）业务展现出的“类债券”稳定收益特征、旗下Terafab在重塑美国半导体供应链中的巨额资本开支计划（至2035年达4900亿美元），以及当前极具吸引力的估值水平（2028年预期市盈率远低于标普500指数） 。 不过，报告还指出，SpaceX与特",
-     "source": "华尔街见闻",
-     "zh": "AI抛售潮里，SpaceX凭什么扛住了？"
     }
    ]
   },

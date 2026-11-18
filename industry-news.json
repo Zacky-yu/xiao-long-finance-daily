@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 06:32:16",
+ "generated_at": "2026/11/19 06:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "US battery storage just topped 200 GWh – here’s where it is",
+     "link": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/",
+     "pubDate": "Wed, 18 Nov 2026 22:36:48 +0000",
+     "summary": "The US has installed more than 200 gigawatt-hours (GWh) of battery storage, with nearly 50 GWh coming online in the first nine months of 2026 alone. more…",
+     "source": "Electrek",
+     "zh": "US battery storage just topped 200 GWh – here’s where it is"
+    },
+    {
      "title": "Toyota expands C-HR EV recall to 19,000 globally",
      "link": "https://electrek.co/2026/11/18/toyota-expands-c-hr-ev-recall-to-19000-globally/",
      "pubDate": "Wed, 18 Nov 2026 21:53:43 +0000",
@@ -727,14 +735,6 @@
      "summary": "The Kia Besta EV hit the roads in 1986 as the brand’s first fully electric vehicle. 40 years later, Kia continues to “lead the pack” with a full lineup of EVs ranging from entry-level cars and SUVs to three-row models, and just about everything in between. more…",
      "source": "Electrek",
      "zh": "Kia went from this one quirky EV 40 years ago to an entire electric lineup"
-    },
-    {
-     "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
-     "link": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
-     "pubDate": "Wed, 18 Nov 2026 18:33:41 +0000",
-     "summary": "Tesla is rolling out stricter driver monitoring for its “Full Self-Driving” system in Europe, with earlier warnings, a full strike for drivers who look away during a manoeuvre, and a hands-on-wheel requirement above 130 km/h (81 mph). In the US, Tesla has spent the last year going the other way. Its",
-     "source": "Electrek",
-     "zh": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US"
     },
     {
      "title": "Ford Just Started Fathom LFP Battery Production In Michigan. It's A Big Deal",
@@ -961,6 +961,14 @@
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
+     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
+     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
+     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
+     "source": "Utility Dive",
+     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
+    },
+    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1015,6 +1023,14 @@
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
+    },
+    {
+     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
+     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
+     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
+     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
+     "source": "Utility Dive",
+     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1087,22 +1103,6 @@
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
-    },
-    {
-     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
-     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
-     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
-     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
-     "source": "pv magazine",
-     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
-    },
-    {
-     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
-     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
-     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
-     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
-     "source": "Energy Storage News",
-     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1116,7 +1116,7 @@
      "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
      "link": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
      "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
-     "summary": "It was less than 24 hours before the Trump administration’s FDA nominee, Heidi Overton, was to face a crucial vote by the Senate HELP committee. It was going to be close. But Overton’s team had ...",
+     "summary": "It was less than 24 hours before the Trump administration’s FDA nominee Heidi Overton would face a crucial vote by the Senate HELP Committee. It was going to be close. But Overton’s team had reason ...",
      "source": "Endpoints News",
      "zh": "How Trump FDA nominee Heidi Overton's confirmation failed"
     },
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+     "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+     "pubDate": "Wed, 18 Nov 2026 22:19:17 +0000",
+     "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled w",
+     "source": "NASA",
+     "zh": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch"
+    },
+    {
      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
      "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
      "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
@@ -1327,6 +1335,14 @@
      "summary": "Astronomers may have, for the first time ever, directly witnessed a star engulfing its stellar companion.",
      "source": "Space.com",
      "zh": "Astronomers witness a star eating its companion in 1st-of-its-kind observation"
+    },
+    {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1441,14 +1457,6 @@
      "zh": "'Project Hail Mary' is heading back to theaters this December"
     },
     {
-     "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-     "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-     "pubDate": "Wed, 18 Nov 2026 16:00:00 +0000",
-     "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery ",
-     "source": "NASA",
-     "zh": "NASA Data Clinches First-of-Its-Kind Stellar Merger"
-    },
-    {
      "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
      "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
@@ -1471,6 +1479,14 @@
      "summary": "German satellite-components manufacturer Dcubed announced the closing of a €27.2M ($30M) Series A extension round today, which comes in addition to an earlier €4.4M ($4.9M) Series A round, which closed in August 2024. The new capital will fund an expansion of the company’s production facilities in t",
      "source": "Payload",
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
+    },
+    {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     },
     {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
@@ -1513,6 +1529,14 @@
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1527,22 +1551,6 @@
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1828,7 +1836,7 @@
      "title": "Gemini 4 Neon",
      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
      "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 178 # Comments: 143",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 236 # Comments: 229",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon"
     },
@@ -1873,18 +1881,10 @@
      "zh": "Windows Server 2028 trades compatibility for out-of-the-box security"
     },
     {
-     "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
-     "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-     "pubDate": "Wed, 18 Nov 2026 20:20:17 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 39 # Comments: 32",
-     "source": "Hacker News",
-     "zh": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free"
-    },
-    {
      "title": "Horizon Labs Report",
      "link": "https://horizon-labs.ai/",
      "pubDate": "Wed, 18 Nov 2026 20:12:34 +0000",
-     "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 13 # Comments: 3",
      "source": "Hacker News",
      "zh": "Horizon Labs Report"
     },
@@ -1892,7 +1892,7 @@
      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
      "link": "https://searchbrowser.app/",
      "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 34 # Comments: 22",
+     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 40 # Comments: 27",
      "source": "Hacker News",
      "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
     },
@@ -1900,7 +1900,7 @@
      "title": "Sexp Matrix",
      "link": "https://lisper.cc/ideas/entangle.html",
      "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 21 # Comments: 5",
      "source": "Hacker News",
      "zh": "Sexp Matrix"
     },
@@ -1916,7 +1916,7 @@
      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
      "link": "https://www.radixark.com/blog/daisyrose-27b",
      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 81 # Comments: 18",
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 91 # Comments: 22",
      "source": "Hacker News",
      "zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
     },
@@ -1951,6 +1951,14 @@
      "summary": "As the holidays creep closer, I’m already seeing some tempting early Black Friday phone deals.",
      "source": "WIRED",
      "zh": "Best Early Black Friday Phone Deals (2026)"
+    },
+    {
+     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+     "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+     "pubDate": "Wed, 18 Nov 2026 18:53:17 +0000",
+     "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners Comments URL: https://news.ycombinator.com/item?id=50550461 Points: 21 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
     },
     {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
@@ -2257,20 +2265,68 @@
    "total": 13,
    "items": [
     {
-     "title": "Clear Blue Technologies International Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674474-clear-blue-technologies-international-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:27:16 -0500",
+     "title": "Innovation Beverage Group GAAP EPS of -$0.91, revenue of $1.8M",
+     "link": "https://seekingalpha.com/news/4674482-innovation-beverage-group-gaap-eps-of-0_91-revenue-of-1_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:44:11 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Clear Blue Technologies International Inc. reports Q3 results"
+     "zh": "Innovation Beverage Group GAAP EPS of -$0.91, revenue of $1.8M"
     },
     {
-     "title": "Lockheed Martin wins five-year $316.6M deal for C-5 aircraft support",
-     "link": "https://seekingalpha.com/news/4674470-lockheed-martin-wins-five-year-3166m-deal-for-c-5-aircraft-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:27:10 -0500",
+     "title": "Sanofi wins approval of venglustat for Gaucher disease",
+     "link": "https://seekingalpha.com/news/4674476-sanofi-wins-approval-venglustat-gaucher-disease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:43:50 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Lockheed Martin wins five-year $316.6M deal for C-5 aircraft support"
+     "zh": "Sanofi wins approval of venglustat for Gaucher disease"
+    },
+    {
+     "title": "Eddy Smart Home Solutions reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674481-eddy-smart-home-solutions-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:42:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eddy Smart Home Solutions reports Q3 results"
+    },
+    {
+     "title": "XTL Biopharmaceuticals GAAP EPS of $0.00",
+     "link": "https://seekingalpha.com/news/4674480-xtl-biopharmaceuticals-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:39:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "XTL Biopharmaceuticals GAAP EPS of $0.00"
+    },
+    {
+     "title": "Montfort Capital Corp. NON CUM PFD A GAAP EPS of C$0.00, revenue of C$2.16M",
+     "link": "https://seekingalpha.com/news/4674479-montfort-capital-corp-non-cum-pfd-a-gaap-eps-of-c000-revenue-of-c216m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:36:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Montfort Capital Corp. NON CUM PFD A GAAP EPS of C$0.00, revenue of C$2.16M"
+    },
+    {
+     "title": "Clearsign Technologies Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4674268-clearsign-technologies-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:35:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clearsign Technologies Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低",
+     "link": "https://wallstreetcn.com/articles/3786169",
+     "pubDate": "Thu, 19 Nov 2026 06:31:37 +0800",
+     "summary": "英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。与此同时，AI初创公司Anthropic的IPO以高于发行区间的价格定价，为低迷的科技股市场提供了一丝结构性支撑。 道指 收跌1.1%， 标普500指数 下跌0.2%、未能重新站上200日均线， 纳指 逆势收涨0.4%。 欧元兑美元 跌至1.0976， 美元兑日元 基本持平于159.30。 比特币 下跌2.8%， 黄金 重挫逾3%， 铜价 亦在伦敦、纽约和上海市场同步走低。 英伟达股价单日下跌约3%，抹去了财报公布后的全部涨幅。 尽管公司季度业绩超出分析师预期，并上调了营收指引，但联",
+     "source": "华尔街见闻",
+     "zh": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低"
+    },
+    {
+     "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+     "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 22:31:00 GMT",
+     "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock"
     },
     {
      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
@@ -2281,44 +2337,12 @@
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
     },
     {
-     "title": "CAAP outlines $7.3B Argentina investment program as domestic passenger use fee moves to $9 on December 10",
-     "link": "https://seekingalpha.com/news/4674473-caap-outlines-7_3b-argentina-investment-program-as-domestic-passenger-use-fee-moves-to-9-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:25:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CAAP outlines $7.3B Argentina investment program as domestic passenger use fee moves to $9 on December 10"
-    },
-    {
-     "title": "Tuktu Resources GAAP EPS of C$0.00, revenue of C$1.51M",
-     "link": "https://seekingalpha.com/news/4674472-tuktu-resources-gaap-eps-of-c000-revenue-of-c151m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:24:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuktu Resources GAAP EPS of C$0.00, revenue of C$1.51M"
-    },
-    {
-     "title": "Primior Holdings reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674471-primior-holdings-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:23:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Primior Holdings reports Q3 results"
-    },
-    {
-     "title": "General Dynamics wins $332.5M Army contract for Stryker support",
-     "link": "https://seekingalpha.com/news/4674466-general-dynamics-wins-3325m-army-contract-for-stryker-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:22:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "General Dynamics wins $332.5M Army contract for Stryker support"
-    },
-    {
-     "title": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫",
-     "link": "http://stock.eastmoney.com/news/11784,202611193934391280.html",
-     "pubDate": "Thu, 19 Nov 2026 06:15:07 +0800",
-     "summary": "美股市场： 美股三大指数11月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌561.25点，收于50198.17点，跌幅为1.11%； 标准普尔 500种股票指数下跌16.9点，收于7323.63点，跌幅为0.23%； 纳斯达克 综合 指数上涨101.5点，收于24429.88点，涨幅为0.42%。 “科技七巨头”整体小幅走高，内部走势进一步分化， 亚马逊 涨3.82%， 特斯拉 涨0.95%， 谷歌-A 涨0.80%， 微软 涨0.40%， 苹果 涨0.15%；Meta跌0.40%， 英伟达 跌2.89%。消息面上， 英伟达 第三季度财报及第四季度营收指引均超出预期，但瑞银",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫"
+     "title": "美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求",
+     "link": "https://wallstreetcn.com/articles/3786220",
+     "pubDate": "Thu, 19 Nov 2026 06:13:35 +0800",
+     "summary": "美国房地产市场持续承压。10月成屋签约销售指数创下2001年有记录以来最低水平，高抵押贷款利率对住房需求的抑制效应进一步显现。 据全美房地产经纪人协会（NAR）周三发布的数据， 10月成屋签约销售指数环比下滑4.7%至63，较去年同期暴跌约17%。 这一指标追踪合同签署情况，通常领先于成屋成交数据一至两个月，是观察楼市走向的重要前瞻性指标。 受此拖累， 以合同成交为口径的成屋销售量已跌至2010年以来最低水平，市场短期内缺乏明显改善迹象。 NAR首席经济学家Lawrence Yun在声明中表示， \"抵押贷款利率似乎已经见顶，10月或将成为本轮楼市周期中合同签署量的低点。\" 高利率成最大拖累，各",
+     "source": "华尔街见闻",
+     "zh": "美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求"
     },
     {
      "title": "Anthropic prices blockbuster IPO at $83 a share",
@@ -2329,20 +2353,28 @@
      "zh": "Anthropic prices blockbuster IPO at $83 a share"
     },
     {
-     "title": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202611183934327446.html",
-     "pubDate": "Thu, 19 Nov 2026 06:03:29 +0800",
-     "summary": "11月19日(星期四)，今日报刊头条主要内容精华如下： 上海证券报 各地各央企均已完成工作台账编制 新一轮国资国企改革进入全面实施阶段 记者从国务院国资委11月18日举办的进一步深化国资国企改革专题研讨班上获悉，新一轮国资国企改革谋篇布局已经完成，目前各地、各中央企业均已完成工作台账编制。各地共提出3300余项改革任务、9800余项落实举措，各中央企业共提出1.1万余项改革任务、1.8万余项落实举措。下一步，改革工作将重点转向全面实施。 有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态 11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信",
-     "source": "东方财富资讯",
-     "zh": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+     "title": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元",
+     "link": "https://wallstreetcn.com/articles/3786222",
+     "pubDate": "Thu, 19 Nov 2026 06:03:26 +0800",
+     "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 当地时周三早间，据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 随后，据彭博援引知情人士透露， Anthropic将",
+     "source": "华尔街见闻",
+     "zh": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元"
     },
     {
-     "title": "东方财富财经早餐 11月19日周四",
-     "link": "http://finance.eastmoney.com/news/1344,202611183934326351.html",
-     "pubDate": "Thu, 19 Nov 2026 06:00:07 +0800",
-     "summary": "每日精选 习近平迎接美国总统特朗普： 11月18日下午，国家主席习近平在深圳宝安国际 机场 迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。习近平表示，中国是礼仪之邦，有礼尚往来的传统。我欢迎你再次访华， 期待同你就事关中美关系、亚太合作和世界格局的重大问题深入交换意见，推动基于尊重、公平、对等的中美建设性战略稳定关系向前发展 。 英伟达 称将不再向中国出货H200芯片： 外交部发言人郭嘉昆主持例行记者会。法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片 。中方对此有何评论？郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 中际旭创 要开启第二波",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月19日周四"
+     "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 22:00:00 GMT",
+     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+     "source": "MarketWatch",
+     "zh": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk."
+    },
+    {
+     "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+     "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:58:00 GMT",
+     "summary": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+     "source": "MarketWatch",
+     "zh": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say."
     },
     {
      "title": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%",
@@ -2359,6 +2391,22 @@
      "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
      "source": "东方财富股票",
      "zh": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%"
+    },
+    {
+     "title": "Copper’s plunge could make the AI data-center buildout more painful",
+     "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
+     "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+     "source": "MarketWatch",
+     "zh": "Copper’s plunge could make the AI data-center buildout more painful"
+    },
+    {
+     "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
+     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
+     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+     "source": "MarketWatch",
+     "zh": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity"
     },
     {
      "title": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务",
@@ -2393,14 +2441,6 @@
      "zh": "SpaceX：龙飞船发射时间不早于11月20日"
     },
     {
-     "title": "Russian accused of spying on Palantir over assistance to Ukraine",
-     "link": "https://www.ft.com/content/4972f4c7-fe8d-4fdd-b0fd-0db2360cda2a?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 21:44:59 GMT",
-     "summary": "Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group",
-     "source": "Financial Times",
-     "zh": "Russian accused of spying on Palantir over assistance to Ukraine"
-    },
-    {
      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "pubDate": "Wed, 18 Nov 2026 21:42:35 GMT",
@@ -2417,20 +2457,12 @@
      "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
     },
     {
-     "title": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？",
-     "link": "http://forex.eastmoney.com/news/1131,202611183934203717.html",
-     "pubDate": "Thu, 19 Nov 2026 05:38:54 +0800",
-     "summary": "国际金价周三再度大幅下挫。 11月18日，国际现货 黄金 （伦敦金现）价格失守3800美元/盎司，盘中一度跌至3720.06美元/盎司，再度刷新14个月新低。截至发稿，报3726.70美元/盎司，跌3.18%。 今年以来，国际现货 黄金 价格已下跌13.55%，如果自1月29日5598.75美元/盎司的历史高点算起，国际金价累计回撤已超过1800美元，最大跌幅约34%。 加息预期升温 国际现货 黄金 价格跌破3800美元/盎司之际，国内市场同步承压。上海黄金交易所Au99.99日间盘收报810.80元/克，下跌2.61%，盘中最低触及810元/克。沪金 期货 主力合约收报811.98元/克，下",
-     "source": "东方财富资讯",
-     "zh": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？"
-    },
-    {
-     "title": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元",
-     "link": "https://wallstreetcn.com/articles/3786222",
-     "pubDate": "Thu, 19 Nov 2026 05:27:48 +0800",
-     "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 当地时周三早间，据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 随后，据彭博援引知情人士透露， Anthropic将",
-     "source": "华尔街见闻",
-     "zh": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元"
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 21:30:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
      "title": "报道：欧洲央行拟讨论将最低准备金率由1%上调至2%",
@@ -2465,36 +2497,12 @@
      "zh": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻"
     },
     {
-     "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
-     "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 20:40:19 GMT",
-     "summary": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
-     "source": "Financial Times",
-     "zh": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale"
-    },
-    {
      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 20:15:44 GMT",
      "summary": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
      "source": "Financial Times",
      "zh": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback"
-    },
-    {
-     "title": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性",
-     "link": "http://forex.eastmoney.com/news/1131,202611193934387631.html",
-     "pubDate": "Thu, 19 Nov 2026 04:05:20 +0800",
-     "summary": "旧金山联储主席玛丽·戴利（Mary Daly）表示，美联储仍有必要进一步加息，但在评估美国经济形势变化的过程中，应采取审慎、渐进的货币政策紧缩方式。 戴利周三（11月18日）在圣路易斯联储举办的一场会议上通过视频连线表示：“我们必须进一步提高利率，以确保能够充分确信，通胀正沿着逐步回落至2%的轨道运行。” 她指出，美国经济仍面临高度不确定性，关税政策、伊朗战争以及 人工智能 （AI）基础设施建设投资的未来走向均不明朗。 戴利补充称，在这样的环境下，美联储必须审慎行事，密切评估经济数据，并认真倾听企业和消费者的反馈。 “我们一直以来采取的这种渐进、审慎的方式，我支持继续保持下去。这才是正确的方向",
-     "source": "东方财富资讯",
-     "zh": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性"
-    },
-    {
-     "title": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
-     "link": "https://wallstreetcn.com/articles/3786226",
-     "pubDate": "Thu, 19 Nov 2026 03:53:14 +0800",
-     "summary": "英伟达创始人黄仁勋离任引发外界对AI云计算公司融资支持能否持续的担忧，CoreWeave高管出面回应，强调双方合作关系稳固。 CoreWeave战略副总裁Ben Richardson周三在彭博伦敦全球信贷论坛上表示， 公司将继续与英伟达保持合作，并淡化黄仁勋离任带来的潜在风险。 Richardson指出， 双方之间存在数百乃至数千个层面的业务往来，英伟达是一家庞大的机构，而非依赖单一个人运转。 黄仁勋上周因婚外情丑闻离任令CoreWeave等新兴云计算公司（neocloud）面临审视——这类公司大量购入芯片并向AI模型开发商及科技企业租用算力，部分公司依赖英伟达的背书来获取更低成本的融资。 然",
-     "source": "华尔街见闻",
-     "zh": "CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴"
     }
    ]
   },

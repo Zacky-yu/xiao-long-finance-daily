@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 09:15:06",
+ "generated_at": "2026/11/18 09:24:20",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+     "link": "https://www.qbitai.com/2026/11/510707.html",
+     "pubDate": "Wed, 18 Nov 2026 00:49:14 +0000",
+     "summary": "Sol逼近旗舰性能",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra和Sol王炸双发！3D又危了"
+    },
     {
      "title": "Nvidia promises that revenue will keep soaring — for now",
      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "能搜索资料、运行代码，还能完成多步科学研究任务——训练这样的智能体，究竟需要多少道工序？",
      "source": "机器之心",
      "zh": "训练一个强大的智能体，究竟有多简单？字节跳动等推出Axion 1.0"
-    },
-    {
-     "title": "估值一年翻倍！美国AI独角兽拿下20亿新融资",
-     "link": "https://zhidx.com/p/610801.html",
-     "pubDate": "Tue, 17 Nov 2026 11:00:55 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月17日报道，11月14日，美国AI智能体管理独角兽LangChain宣布完成 3亿美元（约合人民币20.01亿元） C轮融资，投后估值达到 30亿美元（约合人民币200亿元） 。 本轮融资由老股东谷歌旗下资本CapitalG领投，新投资者GIC、DFJ Growth大额参与，IVP和Sapphire Ventures等老股东跟投。 ▲LangChain宣布完成3亿美元C轮融资（图源：X） 2025年10月，LangChain完成 1.25亿美元（约合人民币8.34亿元） 融资，估值达到 12.5亿美元（约合人民币83.37亿元） 。本轮融",
-     "source": "智东西",
-     "zh": "估值一年翻倍！美国AI独角兽拿下20亿新融资"
     }
    ]
   },
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "NASA Launches Nuclear Power Systems Student Contest",
      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
      "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
@@ -1474,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1520,6 +1536,14 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
      "source": "Spaceflight Now",
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
+    },
+    {
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
     },
     {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -1754,12 +1778,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Wall Street execs and the NSA told Congress this week&apos;s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)",
+     "link": "https://www.techmeme.com/261117/p66#a261117p66",
+     "pubDate": "Tue, 17 Nov 2026 20:15:01 -0500",
+     "summary": "Jeff Stein / The Washington Sun : Sources: Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models &nbsp; &mdash;&nbsp; Artificial intelligence is not causing the disruptions but identifying gaps that are ",
+     "source": "Techmeme",
+     "zh": "Sources: Wall Street execs and the NSA told Congress this week&apos;s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)"
+    },
+    {
+     "title": "拖更两个月的GPT-6.2，居然是一个“汇报狂魔”？",
+     "link": "https://www.huxiu.com/article/4906426.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 09:09:07 +0800",
+     "summary": "本文来自微信公众号： 腾讯科技 ，作者：晓静，编辑：徐青阳，题图来自：视觉中国 美国当地时间11月17日，OpenAI正式推出GPT-6.2 Astra和GPT-6.2 Sol。 这场发布来得比外界预期更晚。早在10月底，就有网友从ChatGPT用量记录中扒出疑似GPT-6.2的灰测痕迹，此后模型标识和测试截图不断流出。此前媒体曾预测新模型最快于11月6日发布，最终发布日期比这一预期晚了11天。 OpenAI这次重点强调了AI接手专业工作的能力。 从一张PPT截图复刻完整的演示文稿，到提取财务数据、建立估值模型，再到操作Blender生成汽车三维模型、模拟车辆悬架的物理运动，甚至利用CAD设计",
+     "source": "虎嗅",
+     "zh": "拖更两个月的GPT-6.2，居然是一个“汇报狂魔”？"
+    },
+    {
+     "title": "谷歌钱包登陆苹果 iOS 系统，暂不支持非接触支付",
+     "link": "https://www.ithome.com/1/028/613.htm",
+     "pubDate": "Wed, 18 Nov 2026 01:08:40 GMT",
+     "summary": "IT之家 11 月 18 日消息，谷歌公司今天宣布，Google 钱包应用程序已在美国登陆苹果 iOS 系统， 用户可在此一站式管理购物记录 、 门票和登机牌等 。 IT之家了解到，iOS 版 Google 钱包支持与 Gmail 等谷歌应用自动同步，获取物流信息、电子登机牌、演唱会门票等数据。用户还可用手机摄像头扫描实体会员卡、健身房会员卡等，将其电子化。 同时，该应用还支持线上结账等功能，用户可在一个安全的平台上轻松查看和管理订单确认信息、收据及配送更新。 不过需要注意的是， iOS 版 Google 钱包暂时不支持非接触支付功能 。",
+     "source": "IT之家",
+     "zh": "谷歌钱包登陆苹果 iOS 系统，暂不支持非接触支付"
+    },
+    {
+     "title": "程建辉：AI是否在消解人力资本的价值？",
+     "link": "https://www.huxiu.com/article/4906431.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 09:08:07 +0800",
+     "summary": "本文来自微信公众号： 北大汇丰PFR ，作者：程建辉 最早被智能体接手的，大多是知识型任务，软件开发、文案撰写、财务核对与信息统计均属此类。到2026年，人工智能已能完整执行一条工作链，无需人工逐环节介入，机构预测可以印证这一趋势。Gartner预计2026年末将有40%的企业应用面向特定任务部署智能体；IDC预计到2026年，50%的中国500强企业将部署数据分析Agent来自动化日常任务，使员工转向创新与高级分析。 深圳进门财经科技股份有限公司创始人、CEO程建辉在《北大金融评论》发文指出，分析AI对人力资本的重构，首先要弄清人力资本的价值由什么构成。依据人力资本理论，教育与技能都被视为能",
+     "source": "虎嗅",
+     "zh": "程建辉：AI是否在消解人力资本的价值？"
+    },
+    {
+     "title": "英伟达史上首场没有黄仁勋的财报会，当众拒绝老黄回归",
+     "link": "https://www.huxiu.com/article/4906430.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 09:07:32 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的 三十三年里，英伟达迎来了第一次黄仁勋不在的电话会。要知道，在过去，英伟达的财报电话会几乎是黄仁勋的个人布道场。 英伟达刚刚发布了2027财年第三季度财报。单看账面，这家公司的运转速度没有放缓：季度总营收达到1158亿美元，同比增长103%，高于公司此前给出的1080亿美元指引；核心的数据中心业务录得1076亿美元营收，同比增长110%，环比增长21%。 放在过去三年里的任何一个季度，这都是一份足以直接决定股价方向的成绩单。但在这一次的重点显然在随后召开的季度财报电话会——这是创始人黄仁勋辞职之后，英伟达历史上，第一场没有黄仁勋的财报电话",
+     "source": "虎嗅",
+     "zh": "英伟达史上首场没有黄仁勋的财报会，当众拒绝老黄回归"
+    },
+    {
+     "title": "10年期美债，今年已有27天收于5%上方",
+     "link": "https://www.huxiu.com/article/4906429.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 09:03:41 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 在通胀粘性与美联储升息预期的双重夹击下，美国10年期国债收益率站在5%关口之上的时间，正逼近近二十年来的最长纪录。 根据一项业内统计，作为全球融资成本的风向标，10年期美债收益率今年迄今已有多达27个交易日收于5%上方，距2007年创下的29天历史纪录仅有一步之遥。 过去一周，美债收益率的上行主要受到超预期的美国10月通胀数据驱动，这迫使美联储决策层重新评估紧缩力度，并考虑采取较此前预期更为激进的收紧步伐。周二，尽管股市下跌促使投资者转向避险资产，但该基准收益率依然位于5.10%附近高位震荡交投。 目前，利率期货市场已完全消化了央行在12月9日议息会",
+     "source": "虎嗅",
+     "zh": "10年期美债，今年已有27天收于5%上方"
+    },
+    {
+     "title": "AMD CES 2027 发布活动定档当地时间 1 月 5 日 10:00",
+     "link": "https://www.ithome.com/1/028/612.htm",
+     "pubDate": "Wed, 18 Nov 2026 01:02:04 GMT",
+     "summary": "IT之家 11 月 18 日消息，AMD 计算与图形事业部总经理 Jack Huynh 北京时间今日发布预告：该企业将于当地时间明年 1 月 5 日 10:00 在美国内华达州拉斯维加斯举行 CES 2027 发布活动。 Jack Huynh 表示： 下一代计算时代将非同寻常。 我们正在重新构想可能性的边界，突破当今的限制，创造一个充满无限可能的未来 —— 这些可能性曾是我们梦寐以求的。 我迫不及待想在 CES 上向大家展示未来的一瞥。 从时间点上来看， AMD 预计将在 CES 上发布其基于 \"Zen 6\" CPU 微架构的客户端处理器 ，如移动端的 \"Medusa Point\"、桌面端的 ",
+     "source": "IT之家",
+     "zh": "AMD CES 2027 发布活动定档当地时间 1 月 5 日 10:00"
+    },
+    {
+     "title": "博世考虑出售印度技术业务，塔塔 TCS 有望接手其近 3000 名员工",
+     "link": "https://www.ithome.com/1/028/611.htm",
+     "pubDate": "Wed, 18 Nov 2026 01:00:46 GMT",
+     "summary": "IT之家 11 月 18 日消息，德国汽车零部件制造商博世（Robert Bosch GmbH）正在初步讨论出售其部分印度技术业务，印度最大 IT 服务提供商塔塔咨询服务公司（TCS）已成为潜在买家之一。 据印度媒体《Mint》今日报道，博世正在评估剥离部分技术和产品开发业务的方案，以控制成本。目前相关谈判仍处于早期阶段，交易尚未敲定，预计下个月将进一步提交董事会层面讨论，之后才会作出决定。 博世于 1997 年在印度班加罗尔设立技术部门，最初名为博世全球软件技术公司（Bosch Global Software Technologies，BGSW），此后又在海得拉巴、浦那和哥印拜陀设立业务部门",
+     "source": "IT之家",
+     "zh": "博世考虑出售印度技术业务，塔塔 TCS 有望接手其近 3000 名员工"
+    },
+    {
      "title": "沙特买量 CPI 涨到 3.2 美元，是素材本地化不够还是大盘就这样？",
      "link": "https://www.baijing.cn/question/638792",
      "pubDate": "Wed, 18 Nov 2026 00:58:10 +0000",
      "summary": "我们一支 8 人小团队，做中轻度 SLG 手游，去年底上线中东，主投沙特和阿联酋，目前月买量预算 6 万美元左右，主要跑 Meta 和 Google UAC，TikTok 刚开量。最近两周沙特 CPI 从 1.8 美元涨到 3.2 美元，阿联酋也从 1.5 涨到 2.4，付费率没掉但首日 ROAS 从 32% 掉到 19%。素材上我们试过阿拉伯语配音加本地服饰人物，也做过纯玩法录屏，结果阿拉伯语真人素材 CTR 反而比英文玩法素材低一截，评论区还有人说不像本地游戏。我们已经把素材拆成沙特方言版和标准阿语版各跑一组，卡在不知道该继续加本地化真人拍摄的预算，还是回到玩法素材压 CPI。想直接问：沙",
      "source": "白鲸出海",
      "zh": "沙特买量 CPI 涨到 3.2 美元，是素材本地化不够还是大盘就这样？"
+    },
+    {
+     "title": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉",
+     "link": "https://www.ithome.com/1/028/610.htm",
+     "pubDate": "Wed, 18 Nov 2026 00:56:59 GMT",
+     "summary": "IT之家 11 月 18 日消息，SpaceX 首次用发射塔“筷子”机械臂接住从太空返回的“星舰”后，马斯克表示，未来将把与机械臂接触时被刮掉的烧蚀隔热材料， 换成更耐摩擦、可重复使用的不锈钢棉，从而减少返修时间，推进星舰快速复用。 根据此前 SpaceX 公布的回收画面，在“筷子夹火箭”过程中，飞船侧面的黑色烧蚀隔热层在与机械臂接触时出现明显刮擦、脱落。IT之家附上相关图片如下： 马斯克随后在社交平台回应称，未来飞行中，这部分材料将被“不锈钢棉”取代。这里的“不锈钢棉”是一种经过工程设计的金属纤维隔热材料，它既能像纤维层一样将空气困在纤维间隙中，从而降低热传导。 与会在再入大气层时逐渐烧蚀、",
+     "source": "IT之家",
+     "zh": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉"
     },
     {
      "title": "Tech outages disrupting everything from air travel to banking transactions over the past week have fueled public distrust and paranoia about tech infrastructure (Bloomberg)",
@@ -1794,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "ID.me terms required for IRS sign-in"
     },
     {
-     "title": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔",
-     "link": "https://www.ithome.com/1/028/606.htm",
-     "pubDate": "Wed, 18 Nov 2026 00:45:31 GMT",
-     "summary": "IT之家 11 月 18 日消息，亚马逊创始人杰夫・贝索斯于当地时间 11 月 17 日在 Semafor「硅谷与世界」（Silicon Valley &amp; The World）大会上接受采访时谈到了英伟达的情况。 贝索斯建议英伟达董事会，在寻找黄仁勋的正式继任者时，优先考虑公司内部人选。他表示，如果英伟达不让黄仁勋回归，就不应该从外部聘请新 CEO，因为英伟达的业务过于复杂，外部高管接手后成功的机会非常小。 贝索斯表示，如果英伟达不重新聘请黄仁勋，他不会建议董事会从外部寻找继任者。他认为，复杂企业的外部 CEO 成功概率微乎其微，因此从外部引进高管应该是最后的选择。 在此之前，贝索斯曾",
-     "source": "IT之家",
-     "zh": "贝索斯谈英伟达 CEO 人选：公司业务太复杂，若黄仁勋不回归应优先内部选拔"
-    },
-    {
      "title": "FAA pauses installations of Juniper routers like the one officials believe contributed to Friday&apos;s nationwide ground stop; HPE says its device wasn&apos;t defective (Neil Vigdor/New York Times)",
      "link": "https://www.techmeme.com/261117/p64#a261117p64",
      "pubDate": "Tue, 17 Nov 2026 19:45:01 -0500",
@@ -1810,36 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "FAA pauses installations of Juniper routers like the one officials believe contributed to Friday&apos;s nationwide ground stop; HPE says its device wasn&apos;t defective (Neil Vigdor/New York Times)"
     },
     {
-     "title": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
-     "link": "https://www.ithome.com/1/028/605.htm",
-     "pubDate": "Wed, 18 Nov 2026 00:44:11 GMT",
-     "summary": "IT之家 11 月 18 日消息，据路透社报道，法国通用机器人公司 Genesis AI 现已完成 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） A 轮融资， 估值达 35 亿美元 （现汇率约合 233.8 亿元人民币） 。这是欧洲机器人行业规模最大的融资项目之一。 据报道，参与融资的机构和个人有谷歌前 CEO 施密特、硅谷风投公司 Khosla Ventures、法国科技企业家泽维尔 · 尼尔，以及英伟达和法国政府支持的投资机构 Bpifrance。Khosla Ventures、Premji Invest 和 Eclipse。 Genesis 首席执行官 Zhou Xian",
-     "source": "IT之家",
-     "zh": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元"
-    },
-    {
-     "title": "35 颗宝石、60 小时动储：徕卡推出 ZM 11 Green Spirit 腕表，双层表盘玩转绿色光影",
-     "link": "https://www.ithome.com/1/028/604.htm",
-     "pubDate": "Wed, 18 Nov 2026 00:42:21 GMT",
-     "summary": "IT之家 11 月 18 日消息，徕卡（Leica）昨日（11 月 17 日）推出 ZM 11 系列新款腕表 ——ZM 11 Green Spirit。 这款腕表以“绿色”为视觉核心，通过双层表盘结构，让颜色随光线和观察角度在绿色与灰色之间变化。 新款采用 41 毫米不锈钢表壳，厚度 13 毫米，防水深度达 100 米。表盘上的时标采用拉丝与抛光结合的工艺，指针则经过钻石切割处理，在不同角度下呈现更丰富的反光层次；3 点位设有日期显示窗，指针与时标均填充瑞士 Grade A Super-LumiNova 夜光材料，便于弱光环境读取时间。 动力方面，ZM 11 Green Spirit 搭载徕卡",
-     "source": "IT之家",
-     "zh": "35 颗宝石、60 小时动储：徕卡推出 ZM 11 Green Spirit 腕表，双层表盘玩转绿色光影"
-    },
-    {
      "title": "火遍全球的“徒步28年回家”男人：我承认对儿子很自私",
      "link": "https://www.huxiu.com/article/4906424.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 08:42:19 +0800",
      "summary": "本文来自微信公众号： 新周刊 ，作者：洛卡来，编辑：贾小凡 徒步探险家卡尔·布什比花了28年从智利走回家乡英国，完成了一件不可思议的人类壮举，引发全球关注。被他的传奇故事吸引的人们，跟着卡尔走过高原、海峡与沙漠，见证无限的惊险与精彩。前妻安吉拉记得的，却是另外一些琐碎的事情：她的儿子有多么挂念远方的爸爸。 11月初，一件罕见的人类壮举引发了全世界媒体的关注。 历时28年，英国冒险家卡尔·布什比（Karl Bushby）终于完成了从南美洲智利徒步返回英国故乡赫尔的壮举，累计行程约3.1万英里（约5万公里）。 卡尔这趟远征从智利南端出发，穿越冰封的白令海峡，跋涉于茂密丛林，横渡里海，最终回到了人生",
      "source": "虎嗅",
      "zh": "火遍全球的“徒步28年回家”男人：我承认对儿子很自私"
-    },
-    {
-     "title": "微软联合埃森哲、Adobe、万事达卡、沃尔沃等 40 多家组织推进 AI 标准：强调观察、验证和控制，覆盖闭源和开放权重模型",
-     "link": "https://www.ithome.com/1/028/603.htm",
-     "pubDate": "Wed, 18 Nov 2026 00:37:36 GMT",
-     "summary": "IT之家 11 月 18 日消息，微软今日在 Ignite 大会上宣布启动 AI 透明度计划（AI Transparency Initiative），与埃森哲、Adobe、毕马威、万事达卡、沃尔沃汽车等 40 多家组织合作，共同推动制定适用于不同 AI 模型和服务提供商的开放标准，以加强 AI 系统的透明度、安全性和治理能力。 微软董事长兼 CEO 萨提亚・纳德拉宣布，公司将与客户及合作伙伴展开合作，推动建立一套开放、通用的 AI 安全与治理框架。 微软表示，随着企业将 AI 模型接入内部数据、工具、凭据和基础设施，AI 智能体（Agent）已经能够在不需要人类逐步审批的情况下自主执行任务。但",
-     "source": "IT之家",
-     "zh": "微软联合埃森哲、Adobe、万事达卡、沃尔沃等 40 多家组织推进 AI 标准：强调观察、验证和控制，覆盖闭源和开放权重模型"
     },
     {
      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
@@ -1858,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI行业里，被高薪叙事平均掉的人"
     },
     {
-     "title": "黄仁勋缺席后的第一份财报，和重返英伟达的“技术路线图”",
-     "link": "https://www.huxiu.com/article/4906421.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 08:29:40 +0800",
-     "summary": "本文来自微信公众号： 锦缎 ，作者：穆阳 北京时间11月18日凌晨，圣克拉拉的财报电话会开场。主位上坐的人不再是黄仁勋。 营收1158.4亿美元，市场预期1091亿，同比增103%，单季首破千亿。数据中心1076亿，预期1018.7亿。非公认会计准则每股收益2.68美元，预期2.48美元。四季度指引中值1300亿，预期1251亿。 四个关键数字，全部高于预期。营收从上年同期的570亿、上季的962亿增至本季的1158亿，指引1300亿对应约增90%。盘后股价涨约3%。 英伟达单季第一次站上千亿美元，发生在它的创始人离场之后。 华尔街此刻看这份财报，只关心一件事：离了创始人，这家公司还转不转。答",
-     "source": "虎嗅",
-     "zh": "黄仁勋缺席后的第一份财报，和重返英伟达的“技术路线图”"
-    },
-    {
      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
      "pubDate": "Wed, 18 Nov 2026 00:27:29 +0000",
@@ -1874,36 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Copilot is \"the new OS for work,\" and now Office runs inside of it"
     },
     {
-     "title": "摩根士丹利：中国正在变成全球制造业的\"操作系统\"",
-     "link": "https://www.huxiu.com/article/4906419.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 08:21:24 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：创新区研究组 我们先讲个场景： 贵州贵安，一家轮胎厂。 这厂子以前排生产计划，一周的单子怎么排，计划员对着电脑要算24小时。去年AI进场，一小时，排完。 省下的23小时只是账面上的收益，真正变了的是这家厂的流程： 在\"人做决定\"和\"机器动手\"之间，多插进来一层会思考的东西。 这一层如果只长在贵安，是一条新闻。 如果它长进中国几十万家工厂，那是另一件事。 摩根士丹利最近的一份重头报告，名字叫《China's Next Industrial Revolution》，讲的就是这另一件事。报告说，全球制造业相关的总盘子，将从12万亿美元走向50万亿美元",
-     "source": "虎嗅",
-     "zh": "摩根士丹利：中国正在变成全球制造业的\"操作系统\""
-    },
-    {
-     "title": "6G开始发入场券了，唯独没点设备商的名",
-     "link": "https://www.huxiu.com/article/4906418.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 08:19:26 +0800",
-     "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 11月17日，工信部办公厅一份复函，把6G的大动作摆上了台面。 北京、河北、上海、江苏、浙江、安徽、湖北、广东，8个省市获批开展6G创新发展部省协同试点。 很多人的第一反应，是拿这事对标2016年的5G试点通知。当年搞5G技术试验，是把华为、中兴、诺基亚、爱立信这些设备商叫到怀柔，样机拉过去，大规模天线、新型多址一轮一轮地测。 这回不一样。名单给的是省市，没点任何一家设备商的名。 于是有人嘀咕：是不是6G还太早期，设备商连能测的东西都拿不出来？ 这个直觉是错的。6G不是起点低，是组织方式整个换了。 当年5G是怎么走过来的 2016",
-     "source": "虎嗅",
-     "zh": "6G开始发入场券了，唯独没点设备商的名"
-    },
-    {
      "title": "Google's AI answers reducing search traffic by 40%",
      "link": "https://revscope.co/blog/search-seo-geo-2026/",
      "pubDate": "Wed, 18 Nov 2026 00:17:58 +0000",
      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 20 # Comments: 9",
      "source": "Hacker News",
      "zh": "Google's AI answers reducing search traffic by 40%"
-    },
-    {
-     "title": "芯片供不应求，台积电却开始给客户“验资”？",
-     "link": "https://www.huxiu.com/article/4906417.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 08:14:51 +0800",
-     "summary": "本文来自微信公众号： 反熵 ，作者：一笑 全球最不愁卖芯片的企业，开始更加关心客户有多少钱了。 11月16日，台湾《工商时报》援引业内人士消息，台积电依据客户财务状况核定信用额度。如果订单超过额度，客户就需要额外拿出现金，部分客户还得提前付款，才能锁定产能。 台积电董事长魏哲家在10月的财报电话会上还透露，已派团队赴美国查看数据中心建设和供电情况。他同时表示，AI芯片需求仍然超过供应。 芯片供不应求，制造商却开始仔细调查客户的资金实力。当整个AI产业都在争抢芯片时，台积电为什么反而要确认，客户究竟付不付得起钱？ 01订单背后的钱 467.2亿美元，是台积电今年第三季度的营收，同比增长41.2%",
-     "source": "虎嗅",
-     "zh": "芯片供不应求，台积电却开始给客户“验资”？"
     },
     {
      "title": "Stripe backer Atomico calls for Europe to own its success stories",
@@ -1976,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
      "source": "WIRED",
      "zh": "Best Early Amazon Black Friday Deals (2026)"
-    },
-    {
-     "title": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)",
-     "link": "https://www.techmeme.com/261117/p60#a261117p60",
-     "pubDate": "Tue, 17 Nov 2026 17:50:01 -0500",
-     "summary": "Tom Warren / The Verge : Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive &nbsp; &mdash;&nbsp; A bug took down Microsoft's email services for millions around the world. &hellip; At 9AM last ",
-     "source": "Techmeme",
-     "zh": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)"
     },
     {
      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
@@ -2250,52 +2274,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "柘中股份：融资净买入26.31万元，融资余额2.62亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933672481.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:18 +0800",
-     "summary": "交易所最新数据显示，柘中股份于2026年11月17日获融资买入270.27万元，融资偿还243.95万元， 当日融资净买入26.31万元。 目前，该股融资余额2.62亿，占流通市值比例为4.31%。 该股当日融券卖出1900股，融券偿还100股， 融券净卖出1800股。 目前，该股融券余量1.49万股，融券余额20.53万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任",
-     "source": "东方财富股票",
-     "zh": "柘中股份：融资净买入26.31万元，融资余额2.62亿元"
+     "title": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应",
+     "link": "https://wallstreetcn.com/articles/3786144",
+     "pubDate": "Wed, 18 Nov 2026 09:13:20 +0800",
+     "summary": "德意志银行周二在法兰克福股价一度重挫逾6% ，导火索是一批多达1500万份的泄露文件，揭示这家德国最大银行处理了与爱泼斯坦（Jeffrey Epstein）相关的逾5.82亿美元可疑交款，在2017年将特朗普的税务文件意外泄露给外部人士。 这批文件由两名举报人从银行内部复制后，交给印度记者Josy Joseph和南非记者Khadija Sharife，由南非非营利机构Barracuda Media统筹协调，联合《金融时报》、《明镜》周刊、《世界报》和《纽约时报》等逾200名记者历时数月完成调查。 举报人的律师表示，相关材料已同步移交美国司法部、财政部金融犯罪执法网络（FinCEN）以及英国税务",
+     "source": "华尔街见闻",
+     "zh": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应"
     },
     {
-     "title": "盛龙股份：融资净偿还7.15万元，融资余额1.77亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933671463.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:11 +0800",
-     "summary": "交易所最新数据显示，盛龙股份于2026年11月17日获融资买入576.09万元，融资偿还583.23万元， 当日融资净偿还7.15万元。 目前，该股融资余额1.77亿，占流通市值比例为6.84%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "盛龙股份：融资净偿还7.15万元，融资余额1.77亿元"
-    },
-    {
-     "title": "汇隆新材：融资净买入6.58万元，融资余额1.22亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933671232.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:11 +0800",
-     "summary": "交易所最新数据显示，汇隆新材于2026年11月17日获融资买入323.77万元，融资偿还317.19万元， 当日融资净买入6.58万元。 目前，该股融资余额1.22亿，占流通市值比例为8.35%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "汇隆新材：融资净买入6.58万元，融资余额1.22亿元"
-    },
-    {
-     "title": "迪普科技：融资净偿还88.56万元，融资余额2.7亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933670865.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:11 +0800",
-     "summary": "交易所最新数据显示，迪普科技于2026年11月17日获融资买入280.81万元，融资偿还369.36万元， 当日融资净偿还88.56万元。 目前，该股融资余额2.70亿，占流通市值比例为4.96%。 该股当日融券卖出0股，融券偿还1.55万股， 融券净偿还1.55万股。 目前，该股融券余量13.96万股，融券余额180.91万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承",
-     "source": "东方财富股票",
-     "zh": "迪普科技：融资净偿还88.56万元，融资余额2.7亿元"
-    },
-    {
-     "title": "爱尔眼科：融资净偿还1896.79万元，融资余额15.75亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933670556.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:11 +0800",
-     "summary": "交易所最新数据显示，爱尔眼科于2026年11月17日获融资买入3185.43万元，融资偿还5082.22万元， 当日融资净偿还1896.79万元。 目前，该股融资余额15.75亿，占流通市值比例为2.17%。 该股当日融券卖出5500股，融券偿还6700股， 融券净偿还1200股。 目前，该股融券余量57.59万股，融券余额526.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "爱尔眼科：融资净偿还1896.79万元，融资余额15.75亿元"
-    },
-    {
-     "title": "英特科技：融资净买入44.11万元，融资余额3645.55万元",
-     "link": "http://stock.eastmoney.com/news/1697,202611183933669949.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:00 +0800",
-     "summary": "交易所最新数据显示， 英特科技 于2026年11月17日获融资买入409.58万元，融资偿还365.47万元， 当日融资净买入44.11万元。 目前，该股融资余额3645.55万，占流通市值比例为4.57%。 该股当日融券卖出0股，融券偿还200股， 融券净偿还200股。 目前，该股融券余量1.64万股，融券余额23.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "英特科技：融资净买入44.11万元，融资余额3645.55万元"
+     "title": "德鲁肯米勒：\"远离股市\"大幅削减持仓，看空铜价，当前市场能见度为记忆中最低",
+     "link": "https://wallstreetcn.com/articles/3786129",
+     "pubDate": "Wed, 18 Nov 2026 09:11:48 +0800",
+     "summary": "亿万富翁投资者德鲁肯米勒（Stan Druckenmiller）表示， 面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 Druckenmiller认为，2027年下半年的经济形势可能会令人失望。目前他持有少量美元多头仓位，同时做空铜 。他说： 我们不做多股票，也不做空股票。我绝不敢做空我们基本上在回避市场，目标是不亏钱。 Druckenmiller随后补充称： 我只是休息一下，可能是两天，",
+     "source": "华尔街见闻",
+     "zh": "德鲁肯米勒：\"远离股市\"大幅削减持仓，看空铜价，当前市场能见度为记忆中最低"
     },
     {
      "title": "Iridex anticipates $46M-$48M 2026 revenue as it targets 2027 profitability through San Jose move and portfolio review",
@@ -2306,12 +2298,52 @@ window.INDUSTRY_DATA = {
      "zh": "Iridex anticipates $46M-$48M 2026 revenue as it targets 2027 profitability through San Jose move and portfolio review"
     },
     {
+     "title": "AI回调扰动全球 A股科技行情该如何看待？",
+     "link": "http://finance.eastmoney.com/news/1344,202611183933608266.html",
+     "pubDate": "Wed, 18 Nov 2026 08:55:30 +0800",
+     "summary": "近期，美股等海外市场科技板块出现较大波动，A股科技板块随之被置于“跟跌还是脱钩”的追问之下。这轮波动的性质是什么，又将如何传导至A股？ 综合 财联社调研、多家券商研究观点以及深市公司业绩情况来看，影响主要来自情绪面，不能简单等同于我国科技产业基本面也发生了变化。 就波动本身而言，海外调整更多是对监管环境、融资成本与资本开支回报的再定价；落到国内科技板块，更应关注全球市场背后的需求变化，而非简单将其定性为对海外市场的强依附关系。需把“北美资本开支映射”与“国产算力、自主制造”两条线索分开梳理，后者的走向更多取决于国内需求、技术进展与供应链建设水平。 目前来看，中国科技产业正依托本土需求、国产供给",
+     "source": "东方财富资讯",
+     "zh": "AI回调扰动全球 A股科技行情该如何看待？"
+    },
+    {
+     "title": "回归英伟达，黄仁勋要先“干掉董事会”",
+     "link": "https://wallstreetcn.com/articles/3786145",
+     "pubDate": "Wed, 18 Nov 2026 08:52:06 +0800",
+     "summary": "离职第五天，黄仁勋打破沉默。 11月17日周二，黄仁勋发布声明称： “自我离开以来，我看到英伟达的员工、投资者、商业伙伴和客户纷纷呼吁我回归担任CEO。如果董事会认为我的回归符合股东、员工、公司和美国的最大利益，我将荣幸地回应这些呼声，重返CEO职位。” 他同时承认了个人过失：“我没有达到英伟达对每个人的要求标准，我在个人生活中犯了严重的错误。我给董事会造成了麻烦，我对此深感遗憾。我完全承担自己的错误，并承诺配合董事会的独立调查。” 黄仁勋个人声明截图 话音刚落， 英伟达董事会主席Harvey Jones随即表态：董事会不打算恢复黄仁勋的职务。 11月17日，据路透社报道，Jones的表态措辞",
+     "source": "华尔街见闻",
+     "zh": "回归英伟达，黄仁勋要先“干掉董事会”"
+    },
+    {
+     "title": "即将打破2007年纪录！5%的10年期美债已“高烧”27天",
+     "link": "http://finance.eastmoney.com/news/1344,202611183933578756.html",
+     "pubDate": "Wed, 18 Nov 2026 08:49:44 +0800",
+     "summary": "在通胀粘性与美联储升息预期的双重夹击下，美国10年期国债收益率站在5%关口之上的时间，正逼近近二十年来的最长纪录。 根据一项业内统计，作为全球融资成本的风向标，10年期美债收益率今年迄今已有多达27个交易日收于5%上方，距2007年创下的29天历史纪录仅有一步之遥。 过去一周，美债收益率的上行主要受到超预期的美国10月通胀数据驱动，这迫使美联储决策层重新评估紧缩力度，并考虑采取较此前预期更为激进的收紧步伐。 周二，尽管股市下跌促使投资者转向避险资产，但该基准收益率依然位于5.10%附近高位震荡交投。 目前，利率 期货 市场已完全消化了央行在12月9日议息会议上加息25个基点的预期，并定价到20",
+     "source": "东方财富资讯",
+     "zh": "即将打破2007年纪录！5%的10年期美债已“高烧”27天"
+    },
+    {
+     "title": "A股热点前瞻丨英伟达单季营收首破千亿美元；台积电等晶圆代工厂将涨价",
+     "link": "http://finance.eastmoney.com/news/11874,202611183933577866.html",
+     "pubDate": "Wed, 18 Nov 2026 08:47:42 +0800",
+     "summary": "① 英伟达 营收指引均超预期，AI算力产业链需求获验证； ② 台积电 等晶圆代工厂将涨价， 半导体 成本压力进一步传导； ③神舟二十四号将择机发射，我国全年航天发射次数或创新高； ④数字广东建设“十五五”规划发布， 数据要素 市场迎扩容； ⑤工信部同意8省市开展6G协同试点，6G产业化进程提速； ⑥九部门推进再生资源回收体系建设，循环经济再进阶。 盘面回顾 11月17日，A股三大指数集体回调，沪指跌0.50%报3584.58点，创业板指冲高回落跌1.20%，沪深京三市成交1.47万亿元，全市场超4100股下跌。芯片产业链、华为算力、家电板块逆势活跃， 影视院线 、 物理AI 、 机器人 方向调",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨英伟达单季营收首破千亿美元；台积电等晶圆代工厂将涨价"
+    },
+    {
      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
      "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 00:45:45 GMT",
      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
      "source": "Financial Times",
      "zh": "Nvidia insists Huang will not return as CEO as it reports strong sales"
+    },
+    {
+     "title": "英伟达：上调2028年营收增长预期至75%",
+     "link": "http://finance.eastmoney.com/news/1344,202611183933577492.html",
+     "pubDate": "Wed, 18 Nov 2026 08:43:17 +0800",
+     "summary": "美东时间周二盘后， 英伟达 临时CEO科莱特·克雷斯在财报会上回应“公司业绩增长放缓相关担忧”时表示：“就我们目前所处的位置，需求非常庞大，最大的公司都在持续推进大量智能体解决方案和陆续推出的新模型。就在上周，他们仍在不断询问，如何能拿到更多供给来满足面前的需求……我认为，无论从2027年还是延伸到2028年，智能体带来的需求都将继续，我们会把面前的需求量延续下去。” 英伟达 2027财年Q3财报会：上调2028年营收增长预期至75% 云产业未交付订单较Q2增加5000亿美元至25000亿美元 美东时间周二盘后， 英伟达 披露2027财年第三季度财报，公司营收、盈利双双超出市场预期，同时给出强",
+     "source": "东方财富资讯",
+     "zh": "英伟达：上调2028年营收增长预期至75%"
     },
     {
      "title": "今日看点｜APEC第三十三次领导人非正式会议将举行",
@@ -2338,6 +2370,22 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”"
     },
     {
+     "title": "英伟达上财季营收翻番首超千亿美元 董事会称未考虑黄仁勋“回归”",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933571248.html",
+     "pubDate": "Wed, 18 Nov 2026 08:22:04 +0800",
+     "summary": "处于管理层剧变风波中的AI（ 人工智能 ）芯片龙头 英伟达 公布了强劲的季度业绩。 当地时间11月17日美股盘后， 英伟达 （Nasdaq：NVDA）发布了截至10月25日的2027财年第三财季财报，期内实现营收1158.4亿美元，同比增长103%，高于市场预期的1091亿美元；美国通用会计准则（GAAP）下净利润653亿美元，同比大增105%；Non-GAAP下每股摊薄收益为2.68美元，同比大增111%，超出市场预期的2.48美元。公司第三财季毛利率为74.9%。 同时， 英伟达 对下一财季的业绩作出指引，预计2027财年第四财季的销售额将达到1300亿美元，上下浮动3%，高于市场平均预期",
+     "source": "东方财富资讯",
+     "zh": "英伟达上财季营收翻番首超千亿美元 董事会称未考虑黄仁勋“回归”"
+    },
+    {
+     "title": "打消50基点预期？美联储“三把手”：当前无需激进举措 加息节奏看AI！",
+     "link": "http://finance.eastmoney.com/news/1344,202611183933571721.html",
+     "pubDate": "Wed, 18 Nov 2026 08:21:40 +0800",
+     "summary": "美东时间周二（17日），纽约联储主席 威廉姆斯 （John Williams）表示，对美联储下个月大幅加息50个基点的市场预期泼了一盆冷水，但他同时指出，美联储确实需要降低通胀。 威廉姆斯 在接受最新采访时表示： “我认为目前的情况不需要采取激烈的行动。” 但与此同时， 威廉姆斯 也承认，最新通胀数据传递出了一个“非常明确的信号”。 “我们仍需努力确保及时、持续地将通货膨胀率降至 2% 左右。”他补充说。 作为纽约联储主席，威廉姆斯在联邦公开市场委员会（FOMC）兼任负责制定利率政策的副主席，与美联储理事一样拥有永久的投票权，被视作联储的“三号人物”。 威廉姆斯发表上述评论之际，最新公布的通胀",
+     "source": "东方财富资讯",
+     "zh": "打消50基点预期？美联储“三把手”：当前无需激进举措 加息节奏看AI！"
+    },
+    {
      "title": "上海国资与石药系基金出手，耀速科技加码AI器官芯片",
      "link": "https://wallstreetcn.com/articles/3786143",
      "pubDate": "Wed, 18 Nov 2026 08:12:50 +0800",
@@ -2354,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic IPO需求火爆：多笔“百亿级别天量订单”现身，还有巨亏的币圈资金"
     },
     {
-     "title": "投资者需求强劲，Anthropic计划上调IPO价格，估值将达1.5-1.6万亿美元",
-     "link": "https://wallstreetcn.com/articles/3786141",
-     "pubDate": "Wed, 18 Nov 2026 08:06:46 +0800",
-     "summary": "AI明星公司Anthropic的首次公开募股正吸引超预期的市场热情，公司计划将发行价上调至既定区间上限以上，潜在估值有望突破1.5万亿美元。 据华尔街日报11月17日报道，知情人士透露，Anthropic的每股发行价可能超过80美元，高于此前70至78美元的定价区间。其顾问已就约 1.5万亿至1.6万亿美元 的估值展开讨论，较原定区间对应的约1.33万亿美元估值显著提升。与此同时，据彭博报道，Anthropic已向潜在投资者表示， 预计将以区间上限或更高价格完成定价。 此次IPO的强劲需求表明，过去一个月AI相关股票经历的剧烈波动，以及英伟达前首席执行官黄仁勋（Jensen Huang）的离职",
-     "source": "华尔街见闻",
-     "zh": "投资者需求强劲，Anthropic计划上调IPO价格，估值将达1.5-1.6万亿美元"
-    },
-    {
-     "title": "老旧软件面临“AI威胁”！微软故障、全美停飞之后，美国国家安全局系统瘫痪，苹果多项服务受扰",
-     "link": "https://wallstreetcn.com/articles/3786139",
-     "pubDate": "Wed, 18 Nov 2026 07:58:33 +0800",
-     "summary": "短短一周之内，美国多个关键系统接连发生故障，从微软生产力软件、全美航班停飞、摩根大通交易中断，到美国国家安全局机密网络瘫痪、苹果服务大面积受扰，这一连串技术失灵正在动摇公众对核心数字基础设施的信心，并将\"老旧系统能否承受AI时代快速迭代压力\"的问题推至风口浪尖。 周二， 美国国家安全局（NSA） 证实，其用于内部机密通信的NSANet网络因例行软件维护而短暂中断，部分员工无法访问工作系统，该机构随即对人员实行错峰到岗安排。 与此同时， 苹果公司 因内部更新操作引发大范围服务故障，员工门户、内部登录系统、远程办公VPN通道均受波及，零售门店的销售、维修及客服业务也被迫中断。苹果表示，问题并非源于",
-     "source": "华尔街见闻",
-     "zh": "老旧软件面临“AI威胁”！微软故障、全美停飞之后，美国国家安全局系统瘫痪，苹果多项服务受扰"
-    },
-    {
      "title": "Equinor hit with cyberattack against some IT systems",
      "link": "https://seekingalpha.com/news/4673968-equinor-hit-with-cyberattack-against-some-it-systems?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 18:32:34 -0500",
@@ -2384,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "FAA pauses router installations as ground-stop investigation puts oversight in focus"
-    },
-    {
-     "title": "华尔街见闻早餐FM-Radio | 2026年11月18日",
-     "link": "https://wallstreetcn.com/articles/3786137",
-     "pubDate": "Wed, 18 Nov 2026 07:17:21 +0800",
-     "summary": "华见早安之声 要闻精选 俄罗斯总统普京 抵达深圳。 中国商务部 ： 中加两国 同意将初步联合安排的相关豁免措施延长2年 。第二次中加经济财金战略对话：中方欢迎加拿大养老金等长线资金投资中国资本市场。 美国 发布限制远程获取先进半导体相关措施， 中国商务部 回应。 英伟达 担忧暂缓， 上季营收首破千亿，本季指引再超预期创新高 ，Vera Rubin爆发式开局。 电话会 ：董事会主席称公司实力超群， 不打算恢复黄仁勋的CEO职务 。 黄仁勋 离任后首次发声， 愿意重返英伟达担任CEO ；将于12月1日出席美国国会听证。报道： 美SEC 调查英伟达， 包括是否通过信息披露误导投资者。 美国10月零售",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年11月18日"
     },
     {
      "title": "U.S. crude stockpiles rose 5.3M barrels last week, API says",
@@ -2416,38 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Campbell’s Company declares $0.25 dividend"
-    },
-    {
-     "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-     "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 22:46:00 GMT",
-     "summary": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
-     "source": "MarketWatch",
-     "zh": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 22:30:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 22:15:00 GMT",
-     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?"
-    },
-    {
-     "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-     "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 22:08:00 GMT",
-     "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
-     "source": "MarketWatch",
-     "zh": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift."
     },
     {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
@@ -2520,54 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
      "source": "Financial Times",
      "zh": "Leak of 15mn Deutsche Bank files exposes systemic failures"
-    },
-    {
-     "title": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
-     "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 05:00:25 GMT",
-     "summary": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
-     "source": "Financial Times",
-     "zh": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump"
-    },
-    {
-     "title": "Agencies extend comment period for proposed third-party risk management guidance",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-     "pubDate": "Fri, 13 Nov 2026 21:15:00 GMT",
-     "summary": "Agencies extend comment period for proposed third-party risk management guidance",
-     "source": "Federal Reserve",
-     "zh": "Agencies extend comment period for proposed third-party risk management guidance"
-    },
-    {
-     "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-     "pubDate": "Fri, 13 Nov 2026 11:57:00 -0500",
-     "summary": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
-     "source": "SEC",
-     "zh": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
-    },
-    {
-     "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-     "pubDate": "Thu, 12 Nov 2026 18:30:00 GMT",
-     "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
-    },
-    {
-     "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-     "pubDate": "Thu, 12 Nov 2026 17:45:00 GMT",
-     "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
-    },
-    {
-     "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-     "pubDate": "Thu, 12 Nov 2026 16:00:00 GMT",
-     "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 13:31:58",
+ "generated_at": "2026/11/18 13:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -56,6 +56,22 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
      "source": "arXiv cs.AI",
      "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
+    },
+    {
+     "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+     "link": "https://www.qbitai.com/2026/11/510811.html",
+     "pubDate": "Wed, 18 Nov 2026 04:49:51 +0000",
+     "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+     "source": "量子位",
+     "zh": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路"
+    },
+    {
+     "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+     "link": "https://www.qbitai.com/2026/11/510821.html",
+     "pubDate": "Wed, 18 Nov 2026 04:28:57 +0000",
+     "summary": "具身全栈玩家",
+     "source": "量子位",
+     "zh": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿"
     },
     {
      "title": "6倍超额认购，Anthropic IPO发行价或再上调！",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Compare affordable AI coding agents, AI-powered IDEs, open-source tools, and multi-model subscriptions from OpenCode, Cursor, GitHub Copilot, Cline, Zed, and Xiaomi MiMo.",
      "source": "KDnuggets",
      "zh": "7 Best AI Coding Plans for $10 or Less in 2026"
-    },
-    {
-     "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-     "link": "https://www.qbitai.com/2026/11/510688.html",
-     "pubDate": "Tue, 17 Nov 2026 11:40:37 +0000",
-     "summary": "瞄准「产业级世界模型」",
-     "source": "量子位",
-     "zh": "李沐加盟的Aimotion，是一家什么AI公司？"
-    },
-    {
-     "title": "科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛",
-     "link": "https://zhidx.com/p/611480.html",
-     "pubDate": "Tue, 17 Nov 2026 18:53:27 +0800",
-     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月17日消息，今天，OpenAI发布一项研究报告，关于科学家使用ChatGPT的情况以及对AI加速科研发现的看法。据受访科学家估计，在完成同等质量工作的前提下，使用AI的工作效率可达未使用时的 约1.9倍 。 OpenAI经济研究团队以ChatGPT学术研究人员计划的夏季试点参与者为研究对象，分析了1819名科学家的逾58万条科研消息，并对251名参与者进行调查访问。这些消息来自ChatGPT的聊天与工作模式，以及Codex。 该报告主要围绕 以下三个问题 展开：科学家将ChatGPT用于哪些科研任务、如何与这两款工具分工，以及他们认为AI带",
-     "source": "智东西",
-     "zh": "科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛"
     }
    ]
   },
@@ -1029,7 +1029,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1786,6 +1786,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "啤酒巨头卖不动了，千万年薪总裁提前退场",
+     "link": "https://www.huxiu.com/article/4906520.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 13:41:59 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：米娜，作者：张文静 今年以来，重庆啤酒全线失守，销量下降、吨价持平、高中低三档全线下滑。 执掌重庆啤酒近六年的人辞职了。 近日，重庆啤酒发布公告称，公司总裁兼董事李志刚因个人原因辞去董事、董事会战略与发展委员会主任委员、总裁的职务，由财务副总裁陈伟豪代行总裁职责，直至董事会聘任新的总裁并就任之日。 李志刚是嘉士伯集团（重庆啤酒控股大股东）在华重要管理者之一，任重庆啤酒总裁近六年。据公告，李志刚原定任期到期日为2028年5月。此次离职，距任期期满还有一年半时间。关于新任总裁选聘计划及战略是否调整等问题，《中国企业家》致电重庆啤酒，截至发稿，暂未获得回",
+     "source": "虎嗅",
+     "zh": "啤酒巨头卖不动了，千万年薪总裁提前退场"
+    },
+    {
+     "title": "晋江“鉴AI”比“用AI”还难搞？",
+     "link": "https://www.huxiu.com/article/4906508.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 13:40:36 +0800",
+     "summary": "本文来自微信公众号： 娱乐资本论 ，作者：文刀雨日青，原文标题：《晋江&ldquo;鉴AI&rdquo;比&ldquo;用AI&rdquo;还难搞？我们自测30篇结果&hellip;》，题图来自：视觉中国 最近，晋江文学城也陷入了AI创作的争议。 本月伊始，陆续有读者在社交平台晒出晋江小说的AI检测结果。部分作品的多个章节被标出80%以上的AI可疑度，涉及作品从普通网文延伸到金榜作者，甚至包括部分已经出售版权的小说。 随着越来越多的作品被网友集中&ldquo;鉴AI&rdquo;，争议也从作者是否使用AI，转向晋江平台如何认定和处理违规创作。一些读者认为平台处理力度不足，但朱雀等AI检测工具本",
+     "source": "虎嗅",
+     "zh": "晋江“鉴AI”比“用AI”还难搞？"
+    },
+    {
+     "title": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which CEO Satya Nadella calls \"the new OS for work\" (Nick Indge/Ars Technica)",
+     "link": "https://www.techmeme.com/261118/p1#a261118p1",
+     "pubDate": "Wed, 18 Nov 2026 00:40:01 -0500",
+     "summary": "Nick Indge / Ars Technica : Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which CEO Satya Nadella calls &ldquo;the new OS for work&rdquo; &nbsp; &mdash;&nbsp; Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company's vision for its ",
+     "source": "Techmeme",
+     "zh": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which CEO Satya Nadella calls \"the new OS for work\" (Nick Indge/Ars Technica)"
+    },
+    {
+     "title": "大厂跑步入局AI互动影游会是下一个“AI短剧”吗？",
+     "link": "https://www.huxiu.com/article/4906519.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 13:39:41 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：王耐，原文标题：《大厂跑步入局 AI互动影游会是下一个“AI短剧”吗？》 AI短剧的热潮尚未退去，AI互动影游又开始进入市场视野。 这并非一次简单的概念升温。过去几年，从《黑镜：潘达斯奈基》到《隐形守护者》，再到《完蛋！我被美女包围了！》、《盛世天下》，互动影游并不缺少爆款，但始终未能形成稳定、持续的内容供给，爆款作品的出现往往相隔数年。 今年，AI互动赛道不再只是零零星星，而是跑出了一批爆款作品。 比如芒果TV推出的AI互动剧《马上来财》上线数日播放量便突破1500万。主打电商的拼多多也曾试水AI互动剧情，上线《重生归来，我把后宫嫔妃踩脚下》等作品。",
+     "source": "虎嗅",
+     "zh": "大厂跑步入局AI互动影游会是下一个“AI短剧”吗？"
+    },
+    {
+     "title": "TikTok Shop 美区达人带货，为什么同一款产品换成美国本地达人拍素材后转化反而掉了？",
+     "link": "https://www.baijing.cn/question/638806",
+     "pubDate": "Wed, 18 Nov 2026 05:39:19 +0000",
+     "summary": "我们做美区 TikTok Shop 家居清洁类目，起量阶段，团队 6 人，月佣金预算 1.5 万美元左右。上个月同一款可折叠收纳架，先用国内团队拍的英文口播素材投达人分销，CTR 2.8%、转化 1.9%；后来换成美国本地达人实拍开箱，佣金从 15% 提到 20%，结果 CTR 掉到 1.3%、转化只有 0.8%，退货率还涨了 4 个点。已经试过换钩子前 3 秒、加字幕、缩短时长到 21 秒，也对比了 5 个达人，卡在判断不了到底是本地素材的节奏问题，还是我们对美国用户接受的产品卖点讲错了。想直接问：本地化素材在美区到底该优先保真实感还是保转化钩子，判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 美区达人带货，为什么同一款产品换成美国本地达人拍素材后转化反而掉了？"
+    },
+    {
+     "title": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大",
+     "link": "https://www.tmtpost.com/8209571.html",
+     "pubDate": "Wed, 18 Nov 2026 13:39:01 +0800",
+     "summary": "利润翻倍的石药，九成是阿斯利康的首付款。",
+     "source": "钛媒体",
+     "zh": "石药集团刚刚发布了三季报，市场对它的分歧仍然较大"
+    },
+    {
+     "title": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶",
+     "link": "https://www.tmtpost.com/8209456.html",
+     "pubDate": "Wed, 18 Nov 2026 13:38:54 +0800",
+     "summary": "押注差异化视网膜疗法。",
+     "source": "钛媒体",
+     "zh": "强生拟33亿美元收购Ollin背后：一款中国原研药的价值进阶"
+    },
+    {
+     "title": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
+     "link": "https://www.tmtpost.com/8209481.html",
+     "pubDate": "Wed, 18 Nov 2026 13:29:04 +0800",
+     "summary": "英伟达史上首位董事会主席，最沉默的亿万富翁，开口了。",
+     "source": "钛媒体",
+     "zh": "哈维・琼斯：成就黄仁勋，赶走黄仁勋"
+    },
+    {
+     "title": "Anthropic的万亿定价",
+     "link": "https://www.tmtpost.com/8209454.html",
+     "pubDate": "Wed, 18 Nov 2026 13:28:56 +0800",
+     "summary": "8.25亿股与1股。",
+     "source": "钛媒体",
+     "zh": "Anthropic的万亿定价"
+    },
+    {
+     "title": "接下来，压力给到澳大利亚铁矿石巨头",
+     "link": "https://www.tmtpost.com/8209421.html",
+     "pubDate": "Wed, 18 Nov 2026 13:28:50 +0800",
+     "summary": "每吨1美元，FMG为什么如此在意？",
+     "source": "钛媒体",
+     "zh": "接下来，压力给到澳大利亚铁矿石巨头"
+    },
+    {
      "title": "尼日利亚站投放 CPA 涨到 12 美元，是支付转化拖累还是素材问题？",
      "link": "https://www.baijing.cn/question/638805",
      "pubDate": "Wed, 18 Nov 2026 05:27:15 +0000",
@@ -1810,6 +1890,14 @@ window.INDUSTRY_DATA = {
      "zh": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券"
     },
     {
+     "title": "140万吨锂精矿或被困非洲，碳酸锂市场低估了什么？",
+     "link": "https://www.tmtpost.com/8209200.html",
+     "pubDate": "Wed, 18 Nov 2026 13:23:47 +0800",
+     "summary": "140万吨潜在积压背后，一场影响中国锂供应的政策风险正在逼近。",
+     "source": "钛媒体",
+     "zh": "140万吨锂精矿或被困非洲，碳酸锂市场低估了什么？"
+    },
+    {
      "title": "GPT-6.2“拉”了，一个神鬼二象性的模型",
      "link": "https://www.huxiu.com/article/4906516.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 13:19:52 +0800",
@@ -1826,12 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊欧洲站KYC审核卡了21天，两个人怎么排期才不耽误德国站补货？"
     },
     {
-     "title": "AI陪伴，硬件的账该怎么算？",
-     "link": "https://www.tmtpost.com/8208289.html",
-     "pubDate": "Wed, 18 Nov 2026 13:16:13 +0800",
-     "summary": "AI陪伴核心是算清楚：硬件的增量体验，能否覆盖它带来的全部成本。",
-     "source": "钛媒体",
-     "zh": "AI陪伴，硬件的账该怎么算？"
+     "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+     "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+     "pubDate": "Wed, 18 Nov 2026 05:11:30 +0000",
+     "summary": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Interviewed at a YC startup, found out they used my LinkedIn without permission"
     },
     {
      "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
@@ -1906,44 +1994,12 @@ window.INDUSTRY_DATA = {
      "zh": "YouTube is rolling out an update to include \"co-views\", or the estimated number of people watching together on TV, in the public view counts for videos (Emma Roth/The Verge)"
     },
     {
-     "title": "崩不住了，慌啥子嘛",
-     "link": "https://www.huxiu.com/article/4906509.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 12:47:39 +0800",
-     "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 这世界没什么是绝对安全的，一劳永逸的安全幻觉存在极大风险。 11月以来，科技股持续暴跌，主打安全的固收、固收+产品也不安稳。11月6日，据界面新闻等媒体报道，不少持有R1、R2理财产品的投资者反映，最近一个月时间产品表现异常惊悚，跌幅几乎吃掉了全年收益。 根据《公开募集证券投资基金销售机构监督管理办法》等条例，理财产品根据风险等级，可划分为R1、R2、R3、R4、R5，R值越低，风险越低。 R1、R2是市售理财产品中，风险最低的两类。购买R1和R2的人群，多数是图个安稳。 可安稳那么好图吗？ 当人们心中默念，风险（收益）这么低总不至于出幺蛾子之时",
-     "source": "虎嗅",
-     "zh": "崩不住了，慌啥子嘛"
-    },
-    {
      "title": "消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有",
      "link": "https://www.ithome.com/1/028/703.htm",
      "pubDate": "Wed, 18 Nov 2026 04:47:17 GMT",
      "summary": "IT之家 11 月 18 日消息，微博博主 @数码闲聊站 今日透露，除了 Mate X8、星芒 OSTA O1 Pro 外，华为年底前还有 Mate 90 Air、Nova 17 系列新机发布，覆盖大折叠、阔直板、轻薄大屏、轻薄拍照全品类机型。 该博主还表示， 华为平板产品线还有大家期待的“mini2 5A 通信小平板” ，预计是 MatePad Mini 2。 后续有用户在评论区询问：“绿厂阔直板春节前能发吗？”，博主回复称：“不能嗷”；另一名用户则询问道：“16:9 和 16:9.5 的阔直板有啥区别啊战哥”，博主回复道：“16:9 更窄一点。” 据IT之家此前援引博主消息 ，华为 Mat",
      "source": "IT之家",
      "zh": "消息称华为 Mate 90 Air、Nova 17 系列新机年底前发布，MatePad Mini 2 小平板预计也有"
-    },
-    {
-     "title": "AI 创新加速落地CES 2027，中国企业如何应答？｜钛媒体TMTPOST CES系列活动开启",
-     "link": "https://www.tmtpost.com/8205750.html",
-     "pubDate": "Wed, 18 Nov 2026 12:47:11 +0800",
-     "summary": "钛媒体TMTPOST CES 2027「Talk to the World」系列活动启动招募。",
-     "source": "钛媒体",
-     "zh": "AI 创新加速落地CES 2027，中国企业如何应答？｜钛媒体TMTPOST CES系列活动开启"
-    },
-    {
-     "title": "AI伴侣的孤独陷阱",
-     "link": "https://www.tmtpost.com/8209348.html",
-     "pubDate": "Wed, 18 Nov 2026 12:36:33 +0800",
-     "summary": "AI伴侣的核心卖点是随叫随到的陪伴，但这种陪伴是否真正有效？斯坦福大学一项基于46万条真实聊天记录的研究发现，对于社交网络薄弱的人，这种陪伴不仅没有缓解孤独，反而让孤独加剧。",
-     "source": "钛媒体",
-     "zh": "AI伴侣的孤独陷阱"
-    },
-    {
-     "title": "抖音生服换帅：字节为什么派“红果掌门”去打美团？",
-     "link": "https://www.tmtpost.com/8209254.html",
-     "pubDate": "Wed, 18 Nov 2026 12:36:27 +0800",
-     "summary": "与其说是换人，不如说是换方法论。",
-     "source": "钛媒体",
-     "zh": "抖音生服换帅：字节为什么派“红果掌门”去打美团？"
     },
     {
      "title": "美国手游买量CPA从18美元涨到34美元，素材迭代节奏该怎么调？",
@@ -1954,12 +2010,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国手游买量CPA从18美元涨到34美元，素材迭代节奏该怎么调？"
     },
     {
-     "title": "清华父子用一块玻璃，押中英伟达下一代万亿赌局",
-     "link": "https://www.huxiu.com/article/4906499.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 12:30:53 +0800",
-     "summary": "头图｜视觉中国 作者｜陈伊凡 播客整理｜刘煊琦 编辑｜苗正卿 &ldquo;AI原生100&rdquo;是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「71」篇文章。点击这段文字收听&ldquo;虎嗅AI 100&rdquo;完整播客内容。 站在光里的人已经在寻找下一个&ldquo;光的故事&rdquo;。 玻璃基板，直指下一个风口。 四年前，互联网上这四个字。&ldquo;玻璃基板&rdquo;是什么？投资人都不知道。 玻璃厂商不知道自己可以做基板，基板厂商也不知道自己能切入半导体的赛道。 巽霖科技创始人兼CEO甄真和他的父亲甄洪滨，正站在这个即将起飞的浪尖。 巽霖科技CEO甄真 图片",
-     "source": "虎嗅",
-     "zh": "清华父子用一块玻璃，押中英伟达下一代万亿赌局"
+     "title": "Hex: Voice Dictation",
+     "link": "https://anoma.ly/hex/",
+     "pubDate": "Wed, 18 Nov 2026 04:30:22 +0000",
+     "summary": "Article URL: https://anoma.ly/hex/ Comments URL: https://news.ycombinator.com/item?id=50541897 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Hex: Voice Dictation"
     },
     {
      "title": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors (Kyt Dotson/SiliconANGLE)",
@@ -1968,62 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kyt Dotson / SiliconANGLE : LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors &nbsp; &mdash;&nbsp; LanceDB Inc., the developer of database technology designed to speed up artificial intellige",
      "source": "Techmeme",
      "zh": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors (Kyt Dotson/SiliconANGLE)"
-    },
-    {
-     "title": "降价的没换来客人，涨价的守住了。",
-     "link": "https://www.huxiu.com/article/4906507.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 12:25:02 +0800",
-     "summary": "本文来自微信公众号： ST商业研究社 ，作者：林深 11月16日晚上翻华住的季报，我先看的是同店那一栏。中国区综合房价涨1.8%，开业满18个月的店均价跌1.3%。同一批房，两个价格，差得还挺远。 01 先看这一栏。 据华住集团11月16日的第三季度业绩公告，中国区日均房价309元，比去年同期的304元涨了1.8%，可入住率没跟上，82.6%比去年同期少了1.4个百分点，综合RevPAR 256元几乎是原地踏步。 表格往下两页，同一个季度换了另一套算法。据同一份季报，在营满18个月的酒店同店RevPAR 248元，比去年的259元降4.4%，同店房价降1.3%，同店入住率掉了2.7个百分点。 ",
-     "source": "虎嗅",
-     "zh": "降价的没换来客人，涨价的守住了。"
-    },
-    {
-     "title": "Sources: former Nvidia exec Jay Puri, who oversaw chip clients like Alice Huang, controlled chip sales to Super Micro; Puri is married to an ex-Super Micro exec (The Information)",
-     "link": "https://www.techmeme.com/261117/p71#a261117p71",
-     "pubDate": "Tue, 17 Nov 2026 23:15:00 -0500",
-     "summary": "The Information : Sources: former Nvidia exec Jay Puri, who oversaw chip clients like Alice Huang, controlled chip sales to Super Micro; Puri is married to an ex-Super Micro exec &nbsp; &mdash;&nbsp; For years, anytime a major Nvidia customer wanted to buy chips or otherwise needed attention, they c",
-     "source": "Techmeme",
-     "zh": "Sources: former Nvidia exec Jay Puri, who oversaw chip clients like Alice Huang, controlled chip sales to Super Micro; Puri is married to an ex-Super Micro exec (The Information)"
-    },
-    {
-     "title": "Why is Gemini 4 Carbon taking so long?",
-     "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-     "pubDate": "Wed, 18 Nov 2026 04:14:04 +0000",
-     "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 12 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Why is Gemini 4 Carbon taking so long?"
-    },
-    {
-     "title": "韩国短剧平台分账回款周期普遍60天以上，是行业惯例还是我们合同没谈好？",
-     "link": "https://www.baijing.cn/question/638800",
-     "pubDate": "Wed, 18 Nov 2026 04:10:10 +0000",
-     "summary": "我们做竖屏短剧出海，团队12人，韩国市场刚起量，月流水大概80万人民币，主要走当地两个短剧平台的分账。现在最头疼的是回款：合同写的是结算后45天付款，实际到账普遍60到75天，最长一笔拖了90天，现金流压得很紧。已经试过在签约时要求预付30%保底、也试过把分账比例让出3个点换月结，平台方都不松口，说韩国本地内容方都是这个账期。目前卡在不知道这是平台对海外CP的统一政策，还是我们体量太小没有议价空间。想直接问：在韩国做短剧分账，60天以上回款是普遍现象吗，判断一家平台账期是否合理的标准到底是什么？",
-     "source": "白鲸出海",
-     "zh": "韩国短剧平台分账回款周期普遍60天以上，是行业惯例还是我们合同没谈好？"
-    },
-    {
-     "title": "H-1B Executive Actions in 2026 [pdf]",
-     "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
-     "pubDate": "Wed, 18 Nov 2026 03:37:35 +0000",
-     "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 12 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "H-1B Executive Actions in 2026 [pdf]"
-    },
-    {
-     "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
-     "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
-     "pubDate": "Wed, 18 Nov 2026 03:35:47 +0000",
-     "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer"
-    },
-    {
-     "title": "Marco Rubio says there&apos;s \"zero evidence\" linking the recent FAA ground stop, Microsoft outage, and bank service issues, and the US isn&apos;t \"under systemic attack\" (Kiki Intarasuwan/CBS News)",
-     "link": "https://www.techmeme.com/261117/p70#a261117p70",
-     "pubDate": "Tue, 17 Nov 2026 22:15:00 -0500",
-     "summary": "Kiki Intarasuwan / CBS News : Marco Rubio says there's &ldquo;zero evidence&rdquo; linking the recent FAA ground stop, Microsoft outage, and bank service issues, and the US isn't &ldquo;under systemic attack&rdquo; &nbsp; &mdash;&nbsp; Secretary of State Marco Rubio said there's &ldquo;zero evidence",
-     "source": "Techmeme",
-     "zh": "Marco Rubio says there&apos;s \"zero evidence\" linking the recent FAA ground stop, Microsoft outage, and bank service issues, and the US isn&apos;t \"under systemic attack\" (Kiki Intarasuwan/CBS News)"
     }
    ]
   },
@@ -2282,6 +2282,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
+     "link": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 00:39:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Microsoft Foundry adds Baseten, DeepSeek AI inference"
+    },
+    {
+     "title": "A股双创指数午后快速拉升，科创50涨超3%，算力租赁大涨，恒指跌1%，京东大跌8%",
+     "link": "https://wallstreetcn.com/articles/3786152",
+     "pubDate": "Wed, 18 Nov 2026 13:32:48 +0800",
+     "summary": "英伟达披露第三季度业绩，大幅超出市场预期，盘后股价涨超4%，提振市场信心。亚太股市周三开盘上涨，韩国KOSPI指数涨幅扩大至3%，SK海力士涨超6%，三星电子涨超4%。A股部分AI硬件股跟随反弹走高。算力租赁、华为算力概念逆势大涨，PCB概念股中生益电子涨超15%；半导体盘中冲高回落、午间分化。 11月18日，A股午后一度延续跌势，深成指、创业板均跌超1%，随后快速拉升翻红，创业板涨1%，科创50指数亦急速上冲涨超3%，英伟达最新公布的业绩强于预期，AI硬件测反弹，算力租赁、光模块、电路板、覆铜板等概念股集体回暖，工业富联、沪电股份、天孚通信等早盘拉升。白色家电、油气、煤炭、海运、电力等板块走",
+     "source": "华尔街见闻",
+     "zh": "A股双创指数午后快速拉升，科创50涨超3%，算力租赁大涨，恒指跌1%，京东大跌8%"
+    },
+    {
+     "title": "Medline prices 60M share secondary offering at $35.50/share alongside $200M concurrent repurchase",
+     "link": "https://seekingalpha.com/news/4673992-medline-prices-60m-share-secondary-offering-at-3550share-alongside-200m-concurrent-repurchase?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 00:27:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Medline prices 60M share secondary offering at $35.50/share alongside $200M concurrent repurchase"
+    },
+    {
      "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
      "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
      "pubDate": "Wed, 18 Nov 2026 05:24:54 GMT",
@@ -2346,20 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "Wednesday’s Economic Calendar"
     },
     {
-     "title": "Apple updates app store pricing across multiple countries, introduces new California tax rules",
-     "link": "https://seekingalpha.com/news/4673987-apple-updates-app-store-pricing-across-multiple-countries-introduces-new-california-tax-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 23:47:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple updates app store pricing across multiple countries, introduces new California tax rules"
+     "title": "“反内卷”下市场竞争趋于理性 中通快递Q3单票收入同比上涨13.7%｜财报解读",
+     "link": "http://hk.eastmoney.com/news/11223,202611183933862224.html",
+     "pubDate": "Wed, 18 Nov 2026 12:36:39 +0800",
+     "summary": "快递 “反内卷”持续推动， 中通快递 Q3单票收入出现较明显增长。 今日， 中通快递 （02057.HK）公布2026年第三季度未经审计业绩。期内，公司实现营业收入143.62亿元，同比增长21.0%；净利润同比增长1.4%，调整后净利润同比增长2.6%。完成包裹量102.41亿件，同比增长7.0%，核心 快递 业务单票收入同比上涨13.7%。 对于核心 快递 业务单票收入的同比增长， 中通快递 首席财务官颜惠萍表示，“这得益于高价值客户（含快速增长的平台逆向业务）占比提升带来的收入结构改善。” 中通快递创始人、董事长兼首席执行官赖梅松称，中国快递业持续受益于建设性的监管环境，“反内卷”已成为",
+     "source": "东方财富股票",
+     "zh": "“反内卷”下市场竞争趋于理性 中通快递Q3单票收入同比上涨13.7%｜财报解读"
     },
     {
-     "title": "W.T.B. Financial Corporation declares $1.85 dividend",
-     "link": "https://seekingalpha.com/news/4673990-w-t-b-financial-corporation-declares-1_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 23:37:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "W.T.B. Financial Corporation declares $1.85 dividend"
+     "title": "沙特联军称对胡塞武装目标实施精确打击",
+     "link": "http://finance.eastmoney.com/news/11790,202611183933863578.html",
+     "pubDate": "Wed, 18 Nov 2026 12:30:10 +0800",
+     "summary": "当地时间11月18日，沙特阿拉伯主导的多国联军发言人图尔基·马利基在社交媒体上发文称，联军对也门胡塞武装的60个军事目标实施了精确打击。行动重点是削弱胡塞武装的弹道导弹与 无人机 能力、消除海上威胁，并摧毁相关地下设施和 无人机 装配储存场所。（央视新闻） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "沙特联军称对胡塞武装目标实施精确打击"
     },
     {
      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
@@ -2370,20 +2394,36 @@ window.INDUSTRY_DATA = {
      "zh": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi"
     },
     {
+     "title": "美联储鹰声一片，12月加息几乎板上钉钉！金价还要跌？关注今夜会议纪要",
+     "link": "http://hk.eastmoney.com/news/11617,202611183933861931.html",
+     "pubDate": "Wed, 18 Nov 2026 12:27:23 +0800",
+     "summary": "现货 黄金 /美元在周二（11月17日）的交易中始终难以摆脱低位震荡的格局，全天在3837至3890美元的狭窄区间内反复拉锯，始终无法形成有效反弹，最终仅微跌0.18%，收报每盎司3849.17美元。2月交割的纽约期金同样表现平淡，收涨0.2%，结算价报3864.2美元。表面看，金价似乎止住了继续下探的脚步；但深入看，美元处于19个月高位附近、10年期美债收益率牢牢守在5%以上、美联储12月加息概率高达100%，这三股力量正把不孳息的 黄金 压得难以抬头。周三（11月18日）亚市早盘，现货 黄金 继续下挫，目前交投于3800美元/盎司附近。 无风险收益率高企，黄金的“性价比”被彻底碾压 支撑金",
+     "source": "东方财富股票",
+     "zh": "美联储鹰声一片，12月加息几乎板上钉钉！金价还要跌？关注今夜会议纪要"
+    },
+    {
+     "title": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+     "link": "http://stock.eastmoney.com/news/1426,202611183933862952.html",
+     "pubDate": "Wed, 18 Nov 2026 12:27:19 +0800",
+     "summary": "中国证监会新闻发言人答记者问。问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "监管要求基金公司上报全部产品AI敞口？证监会：不属实"
+    },
+    {
      "title": "网传“监管要求基金公司上报全部产品AI敞口” 证监会新闻发言人回应",
      "link": "http://finance.eastmoney.com/news/1345,202611183933861858.html",
      "pubDate": "Wed, 18 Nov 2026 12:27:02 +0800",
      "summary": "问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "网传“监管要求基金公司上报全部产品AI敞口” 证监会新闻发言人回应"
     },
     {
-     "title": "涨价超100% 这一战略金属大爆发 A股公司稀缺（名单）",
-     "link": "http://finance.eastmoney.com/news/1344,202611183933861765.html",
-     "pubDate": "Wed, 18 Nov 2026 12:25:45 +0800",
-     "summary": "锗金属迎来多重利好。 涨价超100% 我的 钢铁 网数据显示，截至2026年11月17日，规格为99.999%的锗锭中间价为29500元/千克，较去年底的13600元/千克，上涨幅度接近117%；规格为99.999%的二氧化锗中间价为20500元/千克，较去年底的9200元/千克，上涨幅度接近123%。 从近期表现来看，在市场普遍弱势的情况下，锗金属价格表现较为强势。数据显示，锗锭2702价格近期突破30000元/千克，创出新高。从月线来看，锗锭2702已经五连阳，价格从25000元下方升至最新的29500元。 缺口或持续扩大 锗是兼具稀缺性与战略属性的关键矿产，产业逻辑从“资源输出”转向“战",
-     "source": "东方财富资讯",
-     "zh": "涨价超100% 这一战略金属大爆发 A股公司稀缺（名单）"
+     "title": "直击英伟达财报电话会，Token降价、旧芯片涨租",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933864078.html",
+     "pubDate": "Wed, 18 Nov 2026 12:26:40 +0800",
+     "summary": "当地时间11月17日，在 英伟达 2027财年第三季度业绩电话会上，公司临时首席执行官兼首席财务官科莱特·克雷斯谈起了旧芯片的租金。新一代计算平台Vera Rubin已经批量出货，客户却仍在为推出多年的Hopper芯片续签长期租约，续租价格最高达到原价的两倍。与此同时，用户调用AI模型支付的单价还在下降。 当分析师追问紧俏的芯片该怎样分配时，克雷斯提到了“土地、 电力 和机房建筑”。 英伟达 关心的是，“在设备运抵的那个季度，客户能不能接上电，让机器跑起来”。按克雷斯给出的测算，大型 数据中心 若能早一个季度开机，运营商多出来的收入可能以百亿美元计算。 模型调用降价，旧芯片为何还能涨租 据克雷",
+     "source": "东方财富股票",
+     "zh": "直击英伟达财报电话会，Token降价、旧芯片涨租"
     },
     {
      "title": "Democrat Mary Peltola wins Alaska Senate election",
@@ -2394,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Democrat Mary Peltola wins Alaska Senate election"
     },
     {
-     "title": "A股三大股指早盘集体下跌，算力租赁逆势大涨，恒指、恒科指齐跌超1%，京东大跌8%",
-     "link": "https://wallstreetcn.com/articles/3786152",
-     "pubDate": "Wed, 18 Nov 2026 12:05:53 +0800",
-     "summary": "英伟达披露第三季度业绩，大幅超出市场预期，盘后股价涨超4%，提振市场信心。亚太股市周三开盘上涨，韩国KOSPI指数涨幅扩大至3%，SK海力士涨超6%，三星电子涨超4%。A股部分AI硬件股跟随反弹走高。算力租赁、华为算力概念逆势大涨，PCB概念股中生益电子涨超15%；半导体盘中冲高回落、午间分化。 11月18日，A股集体高开后震荡回落，三大股指集体下跌。科创50指数冲高回落，此前一度涨超2%，英伟达最新公布的业绩强于预期，AI硬件测局部反弹，算力租赁、光模块、电路板、覆铜板等概念股集体回暖，工业富联、沪电股份、天孚通信等早盘拉升。白色家电、油气、煤炭、海运、电力等板块走强。贵金属、生物科技、AI",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指早盘集体下跌，算力租赁逆势大涨，恒指、恒科指齐跌超1%，京东大跌8%"
+     "title": "台海观澜 | 倒计时10天，谁掌台北",
+     "link": "http://www.eeo.com.cn/2026/1118/1095900.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:07:00 +0800",
+     "summary": "日本文化对台湾的影响，被沈伯洋精准捕捉并充分利用了。",
+     "source": "经济观察网",
+     "zh": "台海观澜 | 倒计时10天，谁掌台北"
     },
     {
      "title": "只剩央行一个买家！时隔11天，高盛再度下调黄金目标价至4650美元",
@@ -2410,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "只剩央行一个买家！时隔11天，高盛再度下调黄金目标价至4650美元"
     },
     {
-     "title": "7100亿巨头又新高！家用电器多股涨停 融资客最新抢筹这些股",
-     "link": "http://finance.eastmoney.com/news/11139,202611183933858696.html",
-     "pubDate": "Wed, 18 Nov 2026 12:03:10 +0800",
-     "summary": "家用电器 板块11月18日早盘逆势走强，板块中 四川长虹 、 澳柯玛 、 春光科技 、 爱仕达 、 长虹美菱 涨停 ； TCL智家 、 九阳股份 、 德尔玛 、 海信家电 、 小熊电器 等跟涨。 美的再创 历史新高 在市场人士看来，近期 家用电器 板块的走强，受到 美的集团 历史新高 的提振。11月18日早盘， 美的集团 继续震荡走强， 最高触及94.37元，股价再创 历史新高 。 继11月16日首次超过2021年2月10日盘中的91.53元前历史新高价后， 美的集团 已连续 3天 刷新历史新高。 今年以来， 美的集团 上涨超过26%。年K线来看，已是4连阳，期间累计上涨超过140%。目前公司",
-     "source": "东方财富资讯",
-     "zh": "7100亿巨头又新高！家用电器多股涨停 融资客最新抢筹这些股"
-    },
-    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Wed, 18 Nov 2026 11:51:00 +0800",
@@ -2426,36 +2458,28 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
+     "title": "三丰智能董事吴建军被立案调查并实施留置",
+     "link": "http://www.eeo.com.cn/2026/1118/1095862.shtml",
+     "pubDate": "Wed, 18 Nov 2026 11:48:24 +0800",
+     "summary": "公司董事吴建军被立案调查并实施留置措施。",
+     "source": "经济观察网",
+     "zh": "三丰智能董事吴建军被立案调查并实施留置"
+    },
+    {
+     "title": "两部门联合发布十大计量重点攻关项目",
+     "link": "http://www.eeo.com.cn/2026/1118/1095843.shtml",
+     "pubDate": "Wed, 18 Nov 2026 11:35:53 +0800",
+     "summary": "市场监管总局、工业和信息化部联合发布十大计量重点攻关项目，覆盖新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大领域。",
+     "source": "经济观察网",
+     "zh": "两部门联合发布十大计量重点攻关项目"
+    },
+    {
      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
      "pubDate": "Wed, 18 Nov 2026 03:30:51 GMT",
      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
      "source": "CNBC",
      "zh": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin"
-    },
-    {
-     "title": "科创50指数上涨0.48% 家电、通信服务走强 影视院线连续回调",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933853360.html",
-     "pubDate": "Wed, 18 Nov 2026 11:30:43 +0800",
-     "summary": "A股三大指数集体下跌，科创50指数小幅上涨。盘面上， 白色家电 、 通信服务 、 算力 租赁 、 东数西算 、 F5 G概念、 元件 、 黑色家电 走强， 影视院线 、 贵金属 、电视广播、 CRO 、航空装备、 航天航空 表现不佳，位于跌幅榜前列。 截至午间收盘，沪指下跌0.40%，报3570.21点；深成指下跌0.75%，报10558.59点；创业板指下跌0.58%，报2278.82点；科创50指数上涨0.48%，报1227.00点；北证50指数下跌1.90%，报825.52点。全市场上涨个股有877家，下跌个股有4578家，33只股涨停。两市半日合计成交7928亿。 今日要闻 盘后股价大",
-     "source": "东方财富资讯",
-     "zh": "科创50指数上涨0.48% 家电、通信服务走强 影视院线连续回调"
-    },
-    {
-     "title": "海外算力新规落地！国资云产业链建设持续提速(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611183933851772.html",
-     "pubDate": "Wed, 18 Nov 2026 11:26:18 +0800",
-     "summary": "美国将海外远程算力访问纳入许可管制，自主算力需求再受关注。国内算力网建设同步提速，国资云产业链迎来新催化。 美国将云端算力访问纳入许可管制 当地时间11月16日，美国商务部工业与安全局（BIS）发布临时最终规则，将先进 AI芯片 管制从实物出口延伸至海外 数据中心 的远程算力服务。若 数据中心 向总部或最终母公司设在中国（含中国澳门）等地的企业提供超过 1200万TPP算力 ，知情芯片出口商须先申请许可证，并逐案审查。 摩根士丹利 测算，该门槛大致相当于700至800块H100芯片；存量服务如需继续，也须在规则生效后90日内补办许可。 中国商务部11月17日回应称，美方泛化国家安全概念、滥用出",
-     "source": "东方财富资讯",
-     "zh": "海外算力新规落地！国资云产业链建设持续提速(名单)"
-    },
-    {
-     "title": "大厂跑步入局 AI互动影游会是下一个“AI短剧”吗？",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933847281.html",
-     "pubDate": "Wed, 18 Nov 2026 11:16:38 +0800",
-     "summary": "AI短剧的热潮尚未退去，AI互动影游又开始进入市场视野。 这并非一次简单的概念升温。过去几年，从《黑镜：潘达斯奈基》到《隐形守护者》，再到《完蛋！我被美女包围了！》、《盛世天下》，互动影游并不缺少爆款，但始终未能形成稳定、持续的内容供给，爆款作品的出现往往相隔数年。 今年，AI互动赛道不再只是零零星星，而是跑出了一批爆款作品。 比如芒果TV推出的 AI 互动剧《马上来财》上线数日播放量便突破 1500 万。主打电商的 拼多多 也曾试水 AI 互动剧情，上线《重生归来，我把后宫嫔妃踩脚下》等作品。字节旗下《不问凡尘》上线三周销量约 29.2 万份，对应流水 700 万至 800 万元。 中泰证券",
-     "source": "东方财富资讯",
-     "zh": "大厂跑步入局 AI互动影游会是下一个“AI短剧”吗？"
     },
     {
      "title": "Nvidia has a chance to trade drama for durability",
@@ -2496,30 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
      "source": "Financial Times",
      "zh": "‘Witness the Wonders’: China touts miracle city for Trump summit"
-    },
-    {
-     "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 01:59:00 GMT",
-     "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing"
-    },
-    {
-     "title": "Medicare Part B premiums rise due higher healthcare spending",
-     "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 01:45:00 GMT",
-     "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-     "source": "MarketWatch",
-     "zh": "Medicare Part B premiums rise due higher healthcare spending"
-    },
-    {
-     "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 01:28:00 GMT",
-     "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears"
     }
    ]
   },

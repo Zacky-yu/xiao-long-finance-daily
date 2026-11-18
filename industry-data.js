@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 00:32:15",
+ "generated_at": "2026/11/19 00:52:16",
  "recent_days": 7,
  "industries": [
   {
@@ -58,12 +58,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达RTX Spark桌面主机首次亮相：最新Demo现场体验，本地AI玩出花"
     },
     {
-     "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+     "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
      "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
      "source": "TechCrunch AI",
-     "zh": "Nvidia clarifies when it will — and won’t —keep financing neoclouds"
+     "zh": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
     },
     {
      "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Meet Nobi, your Raspberry Pi-based “Local Intelligent Friend”",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/meet-nobi-your-raspberry-pi-based-local-intelligent-friend-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 16:39:46 +0000",
+     "summary": "Check out Nobi, the Raspberry Pi 4-based desk-companion AI robot created by Gadget Master Devin Roberts. Nobi? It stands for Network Optional Bot Intelligence. “He listens, talks back, and remembers […] The post Meet Nobi, your Raspberry Pi-based “Local Intelligent Friend” appeared first on Electron",
+     "source": "Electronics Weekly",
+     "zh": "Meet Nobi, your Raspberry Pi-based “Local Intelligent Friend”"
+    },
+    {
+     "title": "Gadget Watch: LG and Philips 5K gaming monitors",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-lg-and-philips-5k-gaming-monitors-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 16:10:33 +0000",
+     "summary": "Blimey, it's taken me so long to write about the LG UltraGear evo GM9 5K - from back in April - that another display - the Philips Evnia 27M2D5901A - finally prompts me into action! The post Gadget Watch: LG and Philips 5K gaming monitors appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Gadget Watch: LG and Philips 5K gaming monitors"
+    },
+    {
      "title": "Is AI Ready to Help Chip Teams Get the Architecture Right?",
      "link": "https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/",
      "pubDate": "Wed, 18 Nov 2026 16:00:33 +0000",
@@ -354,14 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Infineon introduces HybridPACK HD power module for electric commercial vehicle drivetrain inverters"
     },
     {
-     "title": "Announcing the host for the Elektra Awards 2026…",
-     "link": "https://www.electronicsweekly.com/news/elektra-awards-news/announcing-the-host-for-the-elektra-awards-2026-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 10:16:25 +0000",
-     "summary": "We are very pleased to announce that our host for the evening for the Elektra Awards 2026 is… Jess Robinson, the multi award-winning comedy impressionist and classically trained singer. Known […] The post Announcing the host for the Elektra Awards 2026… appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Announcing the host for the Elektra Awards 2026…"
-    },
-    {
      "title": "Nvidia's fiscal 2028 supply commitments more than double to US$203 billion",
      "link": "https://www.digitimes.com/news/a20261118VL226/nvidia-hbm-memory-2028.html",
      "pubDate": "Wed, 18 Nov 2026 10:10:42 GMT",
@@ -432,14 +440,6 @@ window.INDUSTRY_DATA = {
      "summary": "NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous. The post Edge AI Moves Agricultural Intelligence from the Cloud to the Field appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field"
-    },
-    {
-     "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
-     "link": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 06:16:17 +0000",
-     "summary": "Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of […] The post Nvidia Q3 sparkles. Chairman says no return for Jensen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia Q3 sparkles. Chairman says no return for Jensen"
     },
     {
      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
@@ -866,6 +866,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Creepage distance defects have increased significantly since M10R cell introduction – Kiwa PI Berlin",
+     "link": "https://www.pv-tech.org/creepage-distance-defects-increased-m10r-cells-kiwa-pi-berlin/",
+     "pubDate": "Wed, 18 Nov 2026 16:41:31 +0000",
+     "summary": "The number of defects related to so-called creepage distance has increased significantly in recent years following the introduction of M10R solar cells, according to Kiwa PI Berlin.",
+     "source": "PV Tech",
+     "zh": "Creepage distance defects have increased significantly since M10R cell introduction – Kiwa PI Berlin"
+    },
+    {
+     "title": "How module buyers can de-risk sourcing from new solar factories",
+     "link": "https://www.pv-tech.org/kiwa-pi-berlin-white-paper-new-solar-factories-quality-risk/",
+     "pubDate": "Wed, 18 Nov 2026 16:40:22 +0000",
+     "summary": "Kiwa PI Berlin's white paper reveals new solar factories carry higher quality risks than mature plants — and how buyers can manage it.",
+     "source": "PV Tech",
+     "zh": "How module buyers can de-risk sourcing from new solar factories"
+    },
+    {
+     "title": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Set-to-Hike-2027-UK-Energy-Bills-to-Four-Year-High.html",
+     "pubDate": "Wed, 18 Nov 2026 10:30:00 -0600",
+     "summary": "The UK’s household energy bills are set to jump by another 26% from January 2027, to the highest since 2023, as the Iran war keeps pushing up wholesale gas and electricity prices, energy consultancy Cornwall Insight said on Wednesday. Currently, the UK energy bills are at their three-year high, as h",
+     "source": "OilPrice",
+     "zh": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High"
+    },
+    {
      "title": "EBRD ROUND-UP: Bank invests in Central and Eastern Europe, Türkiye and Egypt",
      "link": "https://www.pv-tech.org/ebrd-roundup-invests-central-eastern-europe-turkiye-egypt/",
      "pubDate": "Wed, 18 Nov 2026 16:18:47 +0000",
@@ -1032,30 +1056,6 @@ window.INDUSTRY_DATA = {
      "summary": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just sold its core software platform Athena.",
      "source": "Energy Storage News",
      "zh": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale"
-    },
-    {
-     "title": "ADB targets US$1 billion investment in Bangladesh’s 1GW solar-plus-storage programme",
-     "link": "https://www.pv-tech.org/adb-targets-us1-billion-investment-in-bangladeshs-1gw-solar-plus-storage-programme/",
-     "pubDate": "Wed, 18 Nov 2026 11:50:02 +0000",
-     "summary": "The Asian Development Bank will provide transaction advisory services for five additional solar and battery storage projects in Bangladesh, expanding a programme that now covers six projects with more than 1GW of combined capacity.",
-     "source": "PV Tech",
-     "zh": "ADB targets US$1 billion investment in Bangladesh’s 1GW solar-plus-storage programme"
-    },
-    {
-     "title": "RE+ product launches: SolarEdge, Terabase and Voltage unveil optimisers, software and eBOS hardware",
-     "link": "https://www.pv-tech.org/re-product-launches-2026-solaredge-terabase-voltage/",
-     "pubDate": "Wed, 18 Nov 2026 11:35:21 +0000",
-     "summary": "At this year's RE+ trade show, companies including SolarEdge, Voltage, Terabase and FTC Solar unveiled new products.",
-     "source": "PV Tech",
-     "zh": "RE+ product launches: SolarEdge, Terabase and Voltage unveil optimisers, software and eBOS hardware"
-    },
-    {
-     "title": "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Small-Vessel-Trade-Thrives-in-Hormuz-as-Iran-Targets-Supertankers.html",
-     "pubDate": "Wed, 18 Nov 2026 05:30:00 -0600",
-     "summary": "Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projectiles hit a wartime high. The smaller tankers, which can carry less than half the volumes of a supertanker",
-     "source": "OilPrice",
-     "zh": "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers"
     },
     {
      "title": "Sungrow aims to replicate utility-scale success in residential and C&I segments",
@@ -1314,6 +1314,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "'Project Hail Mary' is heading back to theaters this December",
+     "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
+     "pubDate": "Wed, 18 Nov 2026 16:24:34 +0000",
+     "summary": "Fist my bump, everyone, because box office smash hit \"Project Hail Mary\" is heading back to theaters.",
+     "source": "Space.com",
+     "zh": "'Project Hail Mary' is heading back to theaters this December"
+    },
+    {
+     "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+     "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+     "pubDate": "Wed, 18 Nov 2026 16:00:00 +0000",
+     "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery ",
+     "source": "NASA",
+     "zh": "NASA Data Clinches First-of-Its-Kind Stellar Merger"
+    },
+    {
      "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
      "link": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
@@ -1370,12 +1386,12 @@ window.INDUSTRY_DATA = {
      "zh": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space"
     },
     {
-     "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+     "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
      "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
      "pubDate": "Wed, 18 Nov 2026 05:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+     "summary": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
      "source": "NASA",
-     "zh": "APOD: 2026 November 18 – An M-class Solar Flare"
+     "zh": "APOD: 2026 November 18 – A Medium-Sized Solar Flare"
     },
     {
      "title": "Sierra Snow Season Spins Up",
@@ -1418,28 +1434,12 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Space Apps Challenge Breaks Global Hackathon Records"
     },
     {
-     "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
-     "link": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
-     "pubDate": "Tue, 17 Nov 2026 21:00:00 +0000",
-     "summary": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
-     "source": "Space.com",
-     "zh": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?"
-    },
-    {
      "title": "BPS Digital AVATAR Challenge",
      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
      "pubDate": "Tue, 17 Nov 2026 20:39:38 +0000",
      "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgra",
      "source": "NASA",
      "zh": "BPS Digital AVATAR Challenge"
-    },
-    {
-     "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-     "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
-     "pubDate": "Tue, 17 Nov 2026 20:26:17 +0000",
-     "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes. By studying places in the universe w",
-     "source": "NASA",
-     "zh": "New Album of Baby Star Sounds Shared by NASA’s Chandra"
     },
     {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+     "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+     "pubDate": "Wed, 18 Nov 2026 16:35:24 +0000",
+     "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+     "source": "WIRED",
+     "zh": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool"
+    },
+    {
      "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
      "link": "https://www.techmeme.com/261118/p32#a261118p32",
      "pubDate": "Wed, 18 Nov 2026 11:25:01 -0500",
@@ -1786,12 +1794,12 @@ window.INDUSTRY_DATA = {
      "zh": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)"
     },
     {
-     "title": "Waymo suspends freeway driving after California construction zone complaint",
+     "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
      "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
      "pubDate": "Wed, 18 Nov 2026 16:24:34 +0000",
      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
      "source": "Ars Technica",
-     "zh": "Waymo suspends freeway driving after California construction zone complaint"
+     "zh": "Waymo has stopped its robotaxis from driving on the freeway—here’s why"
     },
     {
      "title": "Variational, which offers blockchain-based derivatives tied to cryptocurrencies and traditional assets, raised a $110M Series B at a $1.5B valuation (Jason Shubnell/The Block)",
@@ -1816,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 前段时间，网上很流行一个说法，叫“确实型人格”。 起因是有人听孙宇晨的播客，发现他跟人聊天的时候，出现频率最高的一个词，就是“确实”。对方说什么，他都先接一句“确实”。于是有人把这种人总结成一类：不争辩，不纠正，谁说什么先肯定，再接话。 孙宇晨的为人我们不做评价。就这个“确实”本身，我的第一反应是，这不就是敷衍吗？ 但后来我改了主意。因为我试着复盘了自己最近的几次对话，结果有点尴尬。 朋友说，他觉得做某个方向是有机会的，我开口就是：“但是太多人做了，竞争很激烈”。同事说某个功能点用户应该会喜欢，我的第一反应是“不一定",
      "source": "虎嗅",
      "zh": "建议你尽快养成“确实型人格”"
+    },
+    {
+     "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+     "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+     "pubDate": "Wed, 18 Nov 2026 16:08:24 +0000",
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 14 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Microsoft AI: Seven new world-class models at scalable price-performance"
     },
     {
      "title": "云Agent 的战争，是执行权之争",
@@ -1845,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Deutsche Bank",
      "link": "https://www.inside-db.com/",
      "pubDate": "Wed, 18 Nov 2026 15:38:33 +0000",
-     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 60 # Comments: 10",
+     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 106 # Comments: 31",
      "source": "Hacker News",
      "zh": "Deutsche Bank"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
      "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
      "pubDate": "Wed, 18 Nov 2026 15:35:44 +0000",
-     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 33 # Comments: 5",
+     "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 43 # Comments: 11",
      "source": "Hacker News",
      "zh": "U.S. AirForce is looking for old storage Media (CF or PC cards)"
     },
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
      "link": "https://nginx2root.com/",
      "pubDate": "Wed, 18 Nov 2026 15:24:17 +0000",
-     "summary": "Article URL: https://nginx2root.com/ Comments URL: https://news.ycombinator.com/item?id=50547423 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://nginx2root.com/ Comments URL: https://news.ycombinator.com/item?id=50547423 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "NGINX2Root by Xint – From Nginx visitor to root of the server host"
     },
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
      "pubDate": "Wed, 18 Nov 2026 15:19:55 +0000",
-     "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 125 # Comments: 36",
+     "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 166 # Comments: 41",
      "source": "Hacker News",
      "zh": "Pre-auth RCE in Nginx HTTP/2 handling"
     },
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
      "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
      "pubDate": "Wed, 18 Nov 2026 15:18:30 +0000",
-     "summary": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 52 # Comments: 7",
+     "summary": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 65 # Comments: 10",
      "source": "Hacker News",
      "zh": "Poland says it thwarted false flag operation near border with Kaliningrad"
     },
@@ -1994,28 +2010,12 @@ window.INDUSTRY_DATA = {
      "zh": "British hackers face prison for GTA 6 data breach and crypto thefts"
     },
     {
-     "title": "The x86 CPU: From 4004 to 486",
-     "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-     "pubDate": "Wed, 18 Nov 2026 14:47:53 +0000",
-     "summary": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 21 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "The x86 CPU: From 4004 to 486"
-    },
-    {
      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
      "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
      "pubDate": "Wed, 18 Nov 2026 14:01:45 +0000",
      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
      "source": "Ars Technica",
      "zh": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch"
-    },
-    {
-     "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
-     "link": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Whether the coffee nerd in your life is a budding brewer or an experienced extractor, these gifts will advance their technique.",
-     "source": "WIRED",
-     "zh": "14 Elite Coffee Gifts for Caffeinated Connoisseurs"
     }
    ]
   },
@@ -2025,6 +2025,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Score $50 off the cellular Apple Watch SE 3 on Amazon",
+     "link": "https://www.androidauthority.com/apple-watch-se-3-cellular-deal-3736748/",
+     "pubDate": "Wed, 18 Nov 2026 16:40:42 +0000",
+     "summary": "The 44mm Apple Watch SE 3 with cellular is back to $279 on Amazon, the easiest way to leave your iPhone at home.",
+     "source": "Android Authority",
+     "zh": "Score $50 off the cellular Apple Watch SE 3 on Amazon"
+    },
+    {
+     "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
+     "link": "https://9to5mac.com/2026/11/18/ios-27-3-adds-siri-ai-usage-limits-heres-what-counts-toward-your-limit/",
+     "pubDate": "Wed, 18 Nov 2026 16:40:26 +0000",
+     "summary": "Earlier this week, Apple revealed that Siri AI usage limits will be implemented in iOS 27.3 and explained how iCloud+ increases those limits . Now we have a real-world example of what it looks like when limits are hit, and details on what counts toward those limits. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit"
+    },
+    {
+     "title": "EcoFlow’s 170W RAPID power bank is 48% off at a record low",
+     "link": "https://www.androidauthority.com/ecoflow-rapid-power-bank-25000mah-deal-3736747/",
+     "pubDate": "Wed, 18 Nov 2026 16:35:39 +0000",
+     "summary": "Save $42 on EcoFlow's 25,000mAh RAPID power bank, with two 140W USB-C ports that can fast charge a laptop.",
+     "source": "Android Authority",
+     "zh": "EcoFlow’s 170W RAPID power bank is 48% off at a record low"
+    },
+    {
+     "title": "One UI 9.5 Beta is out now for these Galaxy devices – how to install it",
+     "link": "https://9to5google.com/2026/11/18/how-to-install-samsung-one-ui-9-5-beta/",
+     "pubDate": "Wed, 18 Nov 2026 16:33:14 +0000",
+     "summary": "Samsung’s beta train has officially left the station, so to speak. One UI 9.5 is starting to roll out to these devices, and with it, some major changes to its Galaxy phones. more…",
+     "source": "9to5Google",
+     "zh": "One UI 9.5 Beta is out now for these Galaxy devices – how to install it"
+    },
+    {
+     "title": "Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more",
+     "link": "https://9to5mac.com/2026/11/18/deals-macbook-neo-airtag-2-apple-watch-alpine-loop/",
+     "pubDate": "Wed, 18 Nov 2026 16:29:59 +0000",
+     "summary": "Amazon’s launch discount Apple Series 12 configuration – you can also score Apple Watch SE 3 down at $199 right now. However, the particularly rare price drops on MacBook Neo have now expanded to all colors and storage configurations to get one under the tree starting from $649 and we have a host of",
+     "source": "9to5Mac",
+     "zh": "Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more"
+    },
     {
      "title": "Whose photo inspired you most in 2026?",
      "link": "https://www.dpreview.com/articles/whose-photo-inspired-you-most-in-2026/",
@@ -2114,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "JBL Boombox 4 drops $150 in early Black Friday deal"
     },
     {
-     "title": "One UI 9.5 beta turns still photos into dynamic 3D wallpapers",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-live-effect-wallpaper-3736668/",
-     "pubDate": "Wed, 18 Nov 2026 15:14:02 +0000",
-     "summary": "The beta also includes a brand-new lock screen-to-home screen transition animation.",
-     "source": "Android Authority",
-     "zh": "One UI 9.5 beta turns still photos into dynamic 3D wallpapers"
-    },
-    {
      "title": "iPhone 18, iPhone Air 2 get new release timing updates",
      "link": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
      "pubDate": "Wed, 18 Nov 2026 15:09:06 +0000",
@@ -2136,14 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has released a firmware update for the new Siri Remote for Apple TV 4K, according to AppleDB . Here’s what you should know. more…",
      "source": "9to5Mac",
      "zh": "New Siri Remote for Apple TV 4K just got a firmware update"
-    },
-    {
-     "title": "Tested: Googlebooks are actually great for playing Switch games",
-     "link": "https://www.androidauthority.com/psa-googlebooks-great-switch-emulation-3736645/",
-     "pubDate": "Wed, 18 Nov 2026 14:33:12 +0000",
-     "summary": "Intel-powered Googlebooks can run Switch games thanks to a version of the Eden emulator that's gone under the radar.",
-     "source": "Android Authority",
-     "zh": "Tested: Googlebooks are actually great for playing Switch games"
     },
     {
      "title": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak",
@@ -2162,36 +2186,12 @@ window.INDUSTRY_DATA = {
      "zh": "Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers"
     },
     {
-     "title": "Apple announces 2026 App Store Award finalists",
-     "link": "https://9to5mac.com/2026/11/18/apple-announces-2026-app-store-award-finalists/",
-     "pubDate": "Wed, 18 Nov 2026 14:09:45 +0000",
-     "summary": "Apple will announce the winners of its 2026 App Store Awards in the weeks ahead. But ahead of those announcements, today the company has recognized 45 apps and games as finalists. more…",
-     "source": "9to5Mac",
-     "zh": "Apple announces 2026 App Store Award finalists"
-    },
-    {
      "title": "AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters",
      "link": "https://9to5google.com/2026/11/18/aawireless-nexus-nano-adapters-release/",
      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
      "summary": "AAWireless, the original wireless Android Auto adapter brand, is introducing new hardware this week with its compact Nexus and Nano adapters. more…",
      "source": "9to5Google",
      "zh": "AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters"
-    },
-    {
-     "title": "Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new",
-     "link": "https://9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release/",
-     "pubDate": "Wed, 18 Nov 2026 13:45:00 +0000",
-     "summary": "Samsung is officially launching its One UI 9.5 beta program today on Galaxy S26 series devices, and it’s packing some features we didn’t expect. more…",
-     "source": "9to5Google",
-     "zh": "Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new"
-    },
-    {
-     "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
-     "link": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
-     "pubDate": "Wed, 18 Nov 2026 13:30:06 +0000",
-     "summary": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20 . We’re expecting next year’s flagship models to be a radical new design with an all-glass appearance. Why four models rather than two is unclear, but it s",
-     "source": "9to5Mac",
-     "zh": "Leaker claims Apple developing four models of 20th anniversary iPhone"
     },
     {
      "title": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review",
@@ -2274,6 +2274,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Microsoft, Intel expand ties with long-term Azure infrastructure deal",
+     "link": "https://seekingalpha.com/news/4674275-microsoft-intel-expand-ties-with-long-term-azure-infrastructure-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:42:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Microsoft, Intel expand ties with long-term Azure infrastructure deal"
+    },
+    {
+     "title": "AngloGold plans to spend ~$2.5B on Quebradona copper project in Colombia",
+     "link": "https://seekingalpha.com/news/4674269-anglogold-plans-to-spend-2_5b-on-quebradona-copper-project-in-colombia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:41:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AngloGold plans to spend ~$2.5B on Quebradona copper project in Colombia"
+    },
+    {
+     "title": "Turtle Beach gains as investors eye potential GTA 6 boost",
+     "link": "https://seekingalpha.com/news/4674264-turtle-beach-gains-as-investors-eye-potential-gta-6-boost?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:38:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Turtle Beach gains as investors eye potential GTA 6 boost"
+    },
+    {
+     "title": "Builders FirstSource targets $21B in sales by 2031; UBS keeps Buy rating",
+     "link": "https://seekingalpha.com/news/4674274-builders-firstsource-targets-21b-in-sales-by-2031-ubs-keeps-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:37:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Builders FirstSource targets $21B in sales by 2031; UBS keeps Buy rating"
+    },
+    {
+     "title": "ZIM outlines $3.3B-$3.5B 2026 adjusted EBITDA outlook while launching ZX3 expedited Transpacific service",
+     "link": "https://seekingalpha.com/news/4674277-zim-outlines-3_3b-3_5b-2026-adjusted-ebitda-outlook-while-launching-zx3-expedited?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:37:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ZIM outlines $3.3B-$3.5B 2026 adjusted EBITDA outlook while launching ZX3 expedited Transpacific service"
+    },
+    {
+     "title": "U.S. indexes are mixed after Nvidia earnings; gold declines",
+     "link": "https://seekingalpha.com/news/4674212-us-indexes-are-mixed-after-nvidia-earnings-gold-declines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 11:36:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. indexes are mixed after Nvidia earnings; gold declines"
+    },
+    {
+     "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+     "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+     "pubDate": "Wed, 18 Nov 2026 16:33:14 GMT",
+     "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+     "source": "CNBC",
+     "zh": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says"
+    },
+    {
+     "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
+     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 16:30:00 GMT",
+     "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing"
+    },
+    {
      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked",
      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
      "pubDate": "Wed, 18 Nov 2026 16:28:18 GMT",
@@ -2282,52 +2346,28 @@ window.INDUSTRY_DATA = {
      "zh": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked"
     },
     {
-     "title": "Palo Alto leads cyber stocks higher after DHS secretary warns of AI-powered attacks",
-     "link": "https://seekingalpha.com/news/4674237-palo-alto-leads-cyber-stocks-higher-after-dhs-secretary-warns-of-ai-powered-attacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:24:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palo Alto leads cyber stocks higher after DHS secretary warns of AI-powered attacks"
+     "title": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
+     "pubDate": "Thu, 19 Nov 2026 00:27:29 +0800",
+     "summary": "美东时间周三，美股三大指数集体下跌，道琼斯指数跌1.30%，标普500指数跌0.54%， 纳斯达克 综合 指数跌0.25%。 英伟达 高开低走，截至发稿，股价下跌2.28%，报151.915美元。消息面上， 英伟达 预计第四季度营收高于市场预期。 截至发稿，美元指数涨0.28%，报103.85，指数盘中创2025年4月以来最高水平。 消息面上，美联储理事沃勒表示，美联储若不释放次年1月加息的信号，就应在今年12月加息50个基点。 商品市场方面，国际金银价格下挫。截至发稿，现货 白银 价格跌5.21%，报44.92美元/盎司；现货 黄金 价格跌2.70%，报3745.15美元/盎司。 全球要闻 ",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫"
     },
     {
-     "title": "Beta Technologies falls on Gotham City Research short pitch at Sohn London conference",
-     "link": "https://seekingalpha.com/news/4674251-beta-technologies-falls-on-gotham-city-research-short-pitch-at-sohn-london-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:20:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Beta Technologies falls on Gotham City Research short pitch at Sohn London conference"
+     "title": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期",
+     "link": "http://www.eeo.com.cn/2026/1119/1096540.shtml",
+     "pubDate": "Thu, 19 Nov 2026 00:27:07 +0800",
+     "summary": "菱势品牌累计销量突破10万辆以及菱势V8同步上市，成为五菱新能源进入新发展周期的起点。",
+     "source": "经济观察网",
+     "zh": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期"
     },
     {
-     "title": "Where’s the floor for U.S. housing as builder sentiment hits 2012 lows?",
-     "link": "https://seekingalpha.com/news/4674249-where-s-the-floor-for-u-s-housing-as-builder-sentiment-hits-2012-lows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:19:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Where’s the floor for U.S. housing as builder sentiment hits 2012 lows?"
-    },
-    {
-     "title": "New Commerce Split Fund PFD SHS CL II declares CAD 0.0313 dividend",
-     "link": "https://seekingalpha.com/news/4674260-new-commerce-split-fund-pfd-shs-cl-ii-declares-cad-0_0313-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:17:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "New Commerce Split Fund PFD SHS CL II declares CAD 0.0313 dividend"
-    },
-    {
-     "title": "New Commerce Split Fund declares CAD 0.075 dividend",
-     "link": "https://seekingalpha.com/news/4674258-new-commerce-split-fund-declares-cad-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:16:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "New Commerce Split Fund declares CAD 0.075 dividend"
-    },
-    {
-     "title": "New Commerce Split Fund PFD SHS CL I declares CAD 0.025 dividend",
-     "link": "https://seekingalpha.com/news/4674257-new-commerce-split-fund-pfd-shs-cl-i-declares-cad-0_025-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 11:16:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "New Commerce Split Fund PFD SHS CL I declares CAD 0.025 dividend"
+     "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+     "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 18 Nov 2026 16:07:00 GMT",
+     "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
+     "source": "Finextra",
+     "zh": "World Bank partners Citi and Circle to test stablecoins for development payments"
     },
     {
      "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
@@ -2346,12 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利"
     },
     {
-     "title": "Worried investors are paying up for these stocks — some with up to 49% upside, analysts say",
+     "title": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say",
      "link": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 16:04:00 GMT",
      "summary": "Defensive sectors have beaten the S&P 500 by a wide margin in recent months, even though they are priced much higher relative to earnings estimates than the index.",
      "source": "MarketWatch",
-     "zh": "Worried investors are paying up for these stocks — some with up to 49% upside, analysts say"
+     "zh": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say"
     },
     {
      "title": "沙特阿拉伯就沙鲁拉地区潜在危险发出警告",
@@ -2362,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "沙特阿拉伯就沙鲁拉地区潜在危险发出警告"
     },
     {
-     "title": "Oracle’s stock is ridiculously cheap even under the most gloomy scenarios, analyst says",
+     "title": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
      "link": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 15:57:00 GMT",
      "summary": "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein.",
      "source": "MarketWatch",
-     "zh": "Oracle’s stock is ridiculously cheap even under the most gloomy scenarios, analyst says"
+     "zh": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says"
     },
     {
      "title": "据报道 美国与菲律宾寻求达成超过20亿美元的外国军事融资贷款协议以用于国防",
@@ -2410,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "五新智能：拟设立上海分公司"
     },
     {
-     "title": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
-     "pubDate": "Wed, 18 Nov 2026 23:52:32 +0800",
-     "summary": "美东时间周三，美股三大指数集体下跌，道琼斯指数跌1.26%，标普500指数跌0.52%， 纳斯达克 综合 指数跌0.11%。 英伟达 高开低走，截至发稿，股价下跌1.85%，报152.585美元。消息面上， 英伟达 预计第四季度营收高于市场预期。 截至发稿，美元指数涨0.26%，报103.83，盘中创2025年4月以来最高水平。 消息面上，美联储理事沃勒表示，美联储若不释放次年1月加息的信号，就应在今年12月加息50个基点。 商品市场方面，国际金银价格下挫。截至发稿，现货 白银 价格跌5.02%，报45.01美元/盎司；现货 黄金 价格跌2.56%，报3750.84美元/盎司。 全球要闻 美联",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫"
-    },
-    {
      "title": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模",
      "link": "https://wallstreetcn.com/articles/3786222",
      "pubDate": "Wed, 18 Nov 2026 23:48:17 +0800",
@@ -2450,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "New Zealand banks form fraud intelligence sharing network"
     },
     {
-     "title": "Tech outages are causing people to panic buy. Costco is benefitting",
-     "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-     "pubDate": "Wed, 18 Nov 2026 15:22:24 GMT",
-     "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods",
-     "source": "CNBC",
-     "zh": "Tech outages are causing people to panic buy. Costco is benefitting"
-    },
-    {
      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "pubDate": "Wed, 18 Nov 2026 15:19:53 GMT",
@@ -2488,30 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "问： 中韩自贸协定第二阶段谈判经历了怎样的历程？ 答： 双方以两国元首重要共识为指引，推进中韩自贸协定第二阶段谈判，历经8年多时间，于近日实质性完成。2017年12月，习近平主席与时任韩国总统文在寅共同宣布启动第二阶段谈判，双方以负面清单模式开展投资和服务贸易谈判。2018年3月首轮谈判以来，双方共举行17轮正式谈判，深入推动有关规则和市场准入磋商，积累谈判成果。 2025年11月和2026年1月，习近平主席与韩国总统李在明两次会晤，双方同意加快推进中韩自贸协定第二阶段谈判，争取早日达成一致。为落实两国元首重要共识，2025年11月以来，双方举行多次部级会谈、首席谈判代表会议及工作组会议，努力",
      "source": "东方财富资讯",
      "zh": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问"
-    },
-    {
-     "title": "Two new housing reports point to bleak winter ahead, with record low sales",
-     "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-     "pubDate": "Wed, 18 Nov 2026 15:09:45 GMT",
-     "summary": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
-     "source": "CNBC",
-     "zh": "Two new housing reports point to bleak winter ahead, with record low sales"
-    },
-    {
-     "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-     "pubDate": "Wed, 18 Nov 2026 15:05:29 GMT",
-     "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-     "source": "CNBC",
-     "zh": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return"
-    },
-    {
-     "title": "US bank outages caused by software bug at JPMorgan Chase",
-     "link": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 18 Nov 2026 15:02:00 GMT",
-     "summary": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Meanwhile, experts have claimed that the rash of such outages in recent days - including at Microsoft - may have been caused by firms rushing to patch issues identified by AI.",
-     "source": "Finextra",
-     "zh": "US bank outages caused by software bug at JPMorgan Chase"
     }
    ]
   },

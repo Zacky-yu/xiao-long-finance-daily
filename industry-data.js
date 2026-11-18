@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 19:52:04",
+ "generated_at": "2026/11/18 19:59:35",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Avantus signs 800MW/3.2GWh offtake agreement in California",
+     "link": "https://www.pv-tech.org/avantus-800mw-3-2gwh-offtake-agreement-california/",
+     "pubDate": "Wed, 18 Nov 2026 11:51:44 +0000",
+     "summary": "Avantus has signed 20-year PPAs with utility Pacific Gas and Electric Company for a 800MW solar-plus-storage project in California.",
+     "source": "PV Tech",
+     "zh": "Avantus signs 800MW/3.2GWh offtake agreement in California"
+    },
+    {
+     "title": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale",
+     "link": "https://www.energy-storage.news/ess-inc-files-for-chapter-7-bankruptcy-stem-inc-flags-going-concern-doubts-amidst-athena-optimisation-platform-sale/",
+     "pubDate": "Wed, 18 Nov 2026 11:50:23 +0000",
+     "summary": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just sold its core software platform Athena sale.",
+     "source": "Energy Storage News",
+     "zh": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale"
+    },
+    {
+     "title": "ADB targets US$1 billion investment in Bangladesh’s 1GW solar-plus-storage programme",
+     "link": "https://www.pv-tech.org/adb-targets-us1-billion-investment-in-bangladeshs-1gw-solar-plus-storage-programme/",
+     "pubDate": "Wed, 18 Nov 2026 11:50:02 +0000",
+     "summary": "The Asian Development Bank will provide transaction advisory services for five additional solar and battery storage projects in Bangladesh, expanding a programme that now covers six projects with more than 1GW of combined capacity.",
+     "source": "PV Tech",
+     "zh": "ADB targets US$1 billion investment in Bangladesh’s 1GW solar-plus-storage programme"
+    },
+    {
      "title": "RE+ product launches: SolarEdge, Terabase and Voltage unveil optimisers, software and eBOS hardware",
      "link": "https://www.pv-tech.org/re-product-launches-2026-solaredge-terabase-voltage/",
      "pubDate": "Wed, 18 Nov 2026 11:35:21 +0000",
@@ -1056,30 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon. On Tuesday, the Houston-based firm announced that Google has agreed to buy 50 megawatts of carbon-free power from Quaise’s first commercial project, called Project Obsidian, near",
      "source": "Canary Media",
      "zh": "Google bets on superhot geothermal to power Oregon data centers"
-    },
-    {
-     "title": "Data center slowdown would raise risks for utility investments",
-     "link": "https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/",
-     "pubDate": "Tue, 17 Nov 2026 13:10:00 -0500",
-     "summary": "An estimated 191 GW of planned data center capacity faces new risk after the midterm elections, with exposure concentrated in Texas, Ohio and Georgia, according to a report from energy analytics firm Orennia.",
-     "source": "Utility Dive",
-     "zh": "Data center slowdown would raise risks for utility investments"
-    },
-    {
-     "title": "Most states fail ‘community power’ test, advocacy group says",
-     "link": "https://www.utilitydive.com/news/most-states-fail-community-power-test-advocacy-group-says/874915/",
-     "pubDate": "Tue, 17 Nov 2026 11:43:41 -0500",
-     "summary": "The Institute for Local Self-Reliance issued letter grades based on the presence or absence of policies it sees as supportive of&nbsp;virtual power plants and&nbsp;local control over energy systems.",
-     "source": "Utility Dive",
-     "zh": "Most states fail ‘community power’ test, advocacy group says"
-    },
-    {
-     "title": "Solar quality problems resurfacing as manufacturing shifts, warns RETC CEO",
-     "link": "https://www.pv-tech.org/solar-quality-problems-resurfacing-warns-retc-ceo/",
-     "pubDate": "Tue, 17 Nov 2026 16:33:28 +0000",
-     "summary": "Quality defects the solar industry resolved more than a decade ago are resurfacing as PV manufacturing geographies shift, according to Cherif Kedir, CEO of the Renewable Energy Test Center (RETC).",
-     "source": "PV Tech",
-     "zh": "Solar quality problems resurfacing as manufacturing shifts, warns RETC CEO"
     }
    ]
   },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Merck ends the sorry saga of BTK inhibitor it got from ArQule",
      "link": "https://endpoints.news/merck-ends-the-sorry-saga-of-btk-inhibitor-it-got-from-arqule/",
      "pubDate": "Wed, 18 Nov 2026 11:43:38 +0000",
-     "summary": "Merck has ended development of a BTK inhibitor that was the main reason it bought ArQule for $2.7 billion in 2019. Nemtabrutinib, aka MK-1026, was being investigated in a slew of trials in blood cancers ...",
+     "summary": "Merck has ended development of a BTK inhibitor that was the main reason it bought ArQule for $2.7 billion in 2019. Nemtabrutinib, or MK-1026, was being investigated in a slew of trials in blood cancers ...",
      "source": "Endpoints News",
      "zh": "Merck ends the sorry saga of BTK inhibitor it got from ArQule"
     },
@@ -1538,6 +1538,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+     "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+     "pubDate": "Wed, 18 Nov 2026 06:50:25 -0500",
+     "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+     "source": "BleepingComputer",
+     "zh": "Dizigom illegal streaming service with 21M monthly visits shuts down"
+    },
+    {
+     "title": "Chrome 158 Patches 204 Vulnerabilities",
+     "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+     "pubDate": "Wed, 18 Nov 2026 11:43:22 +0000",
+     "summary": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Chrome 158 Patches 204 Vulnerabilities"
+    },
+    {
      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
      "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
      "pubDate": "Wed, 18 Nov 2026 11:05:39 +0000",
@@ -1682,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat"
     },
     {
-     "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-     "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-     "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500",
-     "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-     "source": "BleepingComputer",
-     "zh": "Japan takes Fugaku supercomputer offlline after cyberattack"
-    },
-    {
      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
      "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530",
@@ -1704,14 +1712,6 @@ window.INDUSTRY_DATA = {
      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
      "source": "Dark Reading",
      "zh": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach"
-    },
-    {
-     "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
-     "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-     "pubDate": "Tue, 17 Nov 2026 18:16:17 +0000",
-     "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says"
     },
     {
      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
@@ -1753,6 +1753,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Masayoshi Son says passing on investing in Anthropic in 2023 was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\" (Financial Times)",
+     "link": "https://www.techmeme.com/261118/p15#a261118p15",
+     "pubDate": "Wed, 18 Nov 2026 06:50:49 -0500",
+     "summary": "Financial Times : Masayoshi Son says passing on investing in Anthropic in 2023 was a &ldquo;mistake&rdquo;, noting that &ldquo;by that point, we had already decided to invest in OpenAI&rdquo; &nbsp; &mdash;&nbsp; Japanese tech group had already started to put money into arch-rival OpenAI&nbsp; &mdas",
+     "source": "Techmeme",
+     "zh": "Masayoshi Son says passing on investing in Anthropic in 2023 was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\" (Financial Times)"
+    },
     {
      "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
      "link": "https://www.wired.com/review/nubia-redmagic-12-pro/",
@@ -1898,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "四位外媒编辑《GTA 6》主线通关时长一览：最快 42 小时，最慢 115 小时"
     },
     {
-     "title": "GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design (Jason Schreier/Bloomberg)",
-     "link": "https://www.techmeme.com/261118/p9#a261118p9",
-     "pubDate": "Wed, 18 Nov 2026 06:11:14 -0500",
-     "summary": "Jason Schreier / Bloomberg : GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design &nbsp; &mdash;&nbsp; It turns out that the secret ingredients to a great game are a lot of money, time and talen",
-     "source": "Techmeme",
-     "zh": "GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design (Jason Schreier/Bloomberg)"
-    },
-    {
      "title": "腾讯也做不到“不可能三角”：传统业务增长，AI业务突破，现金净流入",
      "link": "https://www.huxiu.com/article/4906618.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 19:11:08 +0800",
@@ -2002,6 +2002,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Bring Wi-Fi 7 to your backyard with $90 off the eero Outdoor 7",
+     "link": "https://www.androidauthority.com/eero-outdoor-7-deal-3736225/",
+     "pubDate": "Wed, 18 Nov 2026 11:50:41 +0000",
+     "summary": "The eero Outdoor 7 is $309.99 on Amazon, its lowest price yet, for weatherproof Wi-Fi 7 coverage outdoors.",
+     "source": "Android Authority",
+     "zh": "Bring Wi-Fi 7 to your backyard with $90 off the eero Outdoor 7"
+    },
+    {
+     "title": "NASA's Voyager 1 space probe is now one light-day away from Earth",
+     "link": "https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/",
+     "pubDate": "Wed, 18 Nov 2026 11:49:59 +0000",
+     "summary": "It now takes 24 hours to send a message to Voyager 1, as it reaches a distance that's one light-day away from our planet.",
+     "source": "Engadget",
+     "zh": "NASA's Voyager 1 space probe is now one light-day away from Earth"
+    },
+    {
+     "title": "Samsung’s Galaxy Tab S11 is $300 off on Amazon",
+     "link": "https://www.androidauthority.com/galaxy-tab-s11-300-off-deal-3736226/",
+     "pubDate": "Wed, 18 Nov 2026 11:46:00 +0000",
+     "summary": "The Samsung Galaxy Tab S11 is $699.99 on Amazon, 30% off and its lowest price in 90 days.",
+     "source": "Android Authority",
+     "zh": "Samsung’s Galaxy Tab S11 is $300 off on Amazon"
+    },
+    {
      "title": "Can’t decide what to wear? Google Photos could soon do it for you",
      "link": "https://www.androidauthority.com/google-photos-ai-wardrobe-outfit-suggestions-apk-teardown-3736554/",
      "pubDate": "Wed, 18 Nov 2026 11:27:12 +0000",
@@ -2048,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone. more…",
      "source": "9to5Google",
      "zh": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone"
-    },
-    {
-     "title": "Samsung One UI 10 banner leak hints at Liquid Glass design",
-     "link": "https://www.androidauthority.com/samsung-one-ui-10-banner-leak-liquid-glass-3736542/",
-     "pubDate": "Wed, 18 Nov 2026 10:47:27 +0000",
-     "summary": "The graphic features a frosted \"10\" with translucent edges, and you can see the Apple inspiration from a mile away.",
-     "source": "Android Authority",
-     "zh": "Samsung One UI 10 banner leak hints at Liquid Glass design"
-    },
-    {
-     "title": "Here’s everything new in Samsung One UI 9.5 beta",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-changelog-3736494/",
-     "pubDate": "Wed, 18 Nov 2026 10:33:33 +0000",
-     "summary": "Expect app lock, more customizable pro camera modes, a journal option, and lock screen improvements.",
-     "source": "Android Authority",
-     "zh": "Here’s everything new in Samsung One UI 9.5 beta"
     },
     {
      "title": "Samsung announces One UI 9.5 beta program for the Galaxy S26 series in these countries",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "How to set up EV routing on CarPlay and Android Auto"
     },
     {
-     "title": "You can now see and edit what Google Gemini remembers about you",
-     "link": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 +0000",
-     "summary": "Editing the AI's memory is one way you can shape its responses.",
-     "source": "Engadget",
-     "zh": "You can now see and edit what Google Gemini remembers about you"
-    },
-    {
      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
      "link": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
      "pubDate": "Tue, 17 Nov 2026 23:36:09 +0000",
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Golar LNG reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674080-golar-lng-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 06:56:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Golar LNG reports Q3 results"
+    },
+    {
+     "title": "GTA 6 day: Take-Two Interactive rallies as preorders soar and reviews rave",
+     "link": "https://seekingalpha.com/news/4674067-gta-6-day-take-two-interactive-rallies-as-preorders-soar-and-reviews-rave?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 06:54:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GTA 6 day: Take-Two Interactive rallies as preorders soar and reviews rave"
+    },
+    {
+     "title": "Jumia Technologies AG reports Q3 results; updates FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4674079-jumia-technologies-ag-reports-q3-results-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 06:53:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jumia Technologies AG reports Q3 results; updates FY2026 outlook"
+    },
+    {
+     "title": "Bullish beats top-line and bottom-line estimates; updates FY26 outlook",
+     "link": "https://seekingalpha.com/news/4674078-bullish-beats-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 06:50:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bullish beats top-line and bottom-line estimates; updates FY26 outlook"
+    },
+    {
+     "title": "Target posts best sales growth in five years, raises guidance",
+     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+     "pubDate": "Wed, 18 Nov 2026 11:50:08 GMT",
+     "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+     "source": "CNBC",
+     "zh": "Target posts best sales growth in five years, raises guidance"
+    },
+    {
+     "title": "Lowe&apos;s posts strong online sales, raises outlook despite slow housing market",
+     "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+     "pubDate": "Wed, 18 Nov 2026 11:47:59 GMT",
+     "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
+     "source": "CNBC",
+     "zh": "Lowe&apos;s posts strong online sales, raises outlook despite slow housing market"
+    },
+    {
      "title": "Earnings Snapshot: Target beats Q3 revenue and earnings expectations, upgrades FY2026 guidance",
      "link": "https://seekingalpha.com/news/4674019-earnings-snapshot-target-beats-q3-revenue-and-earnings-expectations-upgrades-fy2026-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 06:46:39 -0500",
@@ -2266,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Target in Charts: Comps sustain recovery for a third straight quarter as digital growth leads in Q3"
     },
     {
-     "title": "Lowe's lifts full-year sales outlook as the improvement sector perks up",
-     "link": "https://seekingalpha.com/news/4674073-lowes-lifts-full-year-sales-outlook-as-the-improvement-sector-perks-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:40:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lowe's lifts full-year sales outlook as the improvement sector perks up"
-    },
-    {
      "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
      "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 11:38:00 GMT",
@@ -2282,52 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues"
     },
     {
-     "title": "TNL Mediagene regains Nasdaq equity compliance after subsidiary sale",
-     "link": "https://seekingalpha.com/news/4674070-tnl-mediagene-regains-nasdaq-equity-compliance-after-subsidiary-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:36:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TNL Mediagene regains Nasdaq equity compliance after subsidiary sale"
-    },
-    {
-     "title": "Einride AB reports Q3 results; reaffirms FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4674072-einride-ab-reports-q3-results-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:36:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Einride AB reports Q3 results; reaffirms FY2026 outlook"
-    },
-    {
-     "title": "Hyperscale Data Series E Cumulative Redeemable Perpetual Preferred Stock declares $0.2083 dividend",
-     "link": "https://seekingalpha.com/news/4674071-hyperscale-data-series-e-cumulative-redeemable-perpetual-preferred-stock-declares-02083-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:35:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyperscale Data Series E Cumulative Redeemable Perpetual Preferred Stock declares $0.2083 dividend"
-    },
-    {
      "title": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
      "link": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 11:33:00 GMT",
      "summary": "Some analysts have seen an overhaul of Target’s apparel and home segments as crucial to its turnaround.",
      "source": "MarketWatch",
      "zh": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing"
-    },
-    {
-     "title": "APEC时间｜AI产业链的“深圳朋友圈”",
-     "link": "http://www.eeo.com.cn/2026/1118/1096464.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:32:59 +0800",
-     "summary": "深圳企业与亚太伙伴的合作，已经从买卖商品延伸到联合研发、共建算力和合作生产。",
-     "source": "经济观察网",
-     "zh": "APEC时间｜AI产业链的“深圳朋友圈”"
-    },
-    {
-     "title": "Target posts best sales growth in five years, raises guidance",
-     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-     "pubDate": "Wed, 18 Nov 2026 11:30:28 GMT",
-     "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-     "source": "CNBC",
-     "zh": "Target posts best sales growth in five years, raises guidance"
     },
     {
      "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
@@ -2402,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit"
     },
     {
-     "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-     "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-     "pubDate": "Wed, 18 Nov 2026 10:41:05 GMT",
-     "summary": "The senior serviceman was arrested in the U.K. last week on suspicion of espionage and national security offenses.",
-     "source": "CNBC",
-     "zh": "U.S. soldier taken into military custody over suspected spying for Russia"
-    },
-    {
-     "title": "持仓亮相！首批主动ETF的业绩已拉开差距",
-     "link": "http://www.eeo.com.cn/2026/1118/1096419.shtml",
-     "pubDate": "Wed, 18 Nov 2026 18:41:01 +0800",
-     "summary": "这18只产品不仅向市场交出了成立以来的建仓成绩，也首次将持仓风格、资金结构置于公众面前。",
-     "source": "经济观察网",
-     "zh": "持仓亮相！首批主动ETF的业绩已拉开差距"
-    },
-    {
      "title": "腾讯Q3营收同比增8%，资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值｜财报见闻",
      "link": "https://wallstreetcn.com/articles/3786186",
      "pubDate": "Wed, 18 Nov 2026 18:40:17 +0800",
@@ -2488,6 +2472,22 @@ window.INDUSTRY_DATA = {
      "summary": "DJ and producer Zedd has offloaded his Hollywood Hills pad for $4.25 million to a couple who plan to carry out a complete overhaul of one of the rooms.",
      "source": "MarketWatch",
      "zh": "DJ Zedd sells his Hollywood Hills home for $4 million"
+    },
+    {
+     "title": "11月18日龙虎榜复盘：生益电子净买额居首",
+     "link": "http://stock.eastmoney.com/news/11783,202611183934071170.html",
+     "pubDate": "Wed, 18 Nov 2026 18:00:08 +0800",
+     "summary": "11月18日共有83只个股上榜龙虎榜，总上榜成交额205.83亿元。上榜个股中净买入额最高的是 生益电子 ，金额为3.68亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "11月18日龙虎榜复盘：生益电子净买额居首"
+    },
+    {
+     "title": "【调研快报】苏州银行接待国盛证券等5家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611183934068750.html",
+     "pubDate": "Wed, 18 Nov 2026 17:57:03 +0800",
+     "summary": "苏州银行 11月18日公告称， 11月18日 接待 国盛证券 等5家机构 调研。 接待人员包括风险管理部副总经理 崔宗怡,风险管理部副总经理 朱爱林,计划财务部总经理助理 沈若弢,董事会办公室相关人员。 公司就以下问题进行了回复： 主要就 苏州银行 相关经营情况进行了交流,以下为投资者问询及简要回复情况记录: 1、贵行在服务科创企业方面有哪些经验分享? 答:本行紧扣江苏“1650”和苏州“1030”产业体系,深耕本地科创客群,持续打造“苏心科创,伴飞成长”科创金融品牌。一是依托“伴飞—展翅—领航”全周期产品和“苏心科创... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何",
+     "source": "东方财富股票",
+     "zh": "【调研快报】苏州银行接待国盛证券等5家机构调研"
     }
    ]
   },

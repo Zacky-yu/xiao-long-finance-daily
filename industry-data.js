@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 22:12:07",
+ "generated_at": "2026/11/18 22:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -24,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
      "source": "TechCrunch AI",
      "zh": "Nvidia clarifies when it will — and won’t —keep financing neoclouds"
-    },
-    {
-     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
-     "source": "KDnuggets",
-     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
      "source": "TechCrunch AI",
      "zh": "Nvidia promises that revenue will keep soaring — for now"
+    },
+    {
+     "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+     "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+     "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+     "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+     "source": "OpenAI",
+     "zh": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
     }
    ]
   },
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
+     "pubDate": "Wed, 18 Nov 2026 14:26:04 +0000",
+     "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+     "source": "STAT News",
+     "zh": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more"
+    },
+    {
      "title": "What redesigning medical school might look like",
      "link": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
      "pubDate": "Wed, 18 Nov 2026 13:03:55 +0000",
@@ -1200,14 +1208,6 @@ window.INDUSTRY_DATA = {
      "summary": "The FDA signaled new interest in the safety of Summit Therapeutics and Akeso’s cancer drug ivonescimab, saying that it turned down the treatment’s use in a form of lung cancer in part ...",
      "source": "Endpoints News",
      "zh": "FDA letter rejecting Summit cancer drug cites ‘modest’ benefit in data compared with toxicity risk"
-    },
-    {
-     "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
-     "link": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
-     "pubDate": "Tue, 17 Nov 2026 19:44:14 +0000",
-     "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
-     "source": "STAT News",
-     "zh": "STAT+: Updated health data privacy rule sets standards for sharing records with apps"
     },
     {
      "title": "Roche breast cancer pill cleared by FDA",
@@ -1754,6 +1754,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas (Alex Weprin/The Hollywood Reporter)",
+     "link": "https://www.techmeme.com/261118/p22#a261118p22",
+     "pubDate": "Wed, 18 Nov 2026 09:21:09 -0500",
+     "summary": "Alex Weprin / The Hollywood Reporter : Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas &nbsp; &mdash;&nbsp; The new creations, the Anzellans, will react to guests and each other in real-time, s",
+     "source": "Techmeme",
+     "zh": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas (Alex Weprin/The Hollywood Reporter)"
+    },
+    {
+     "title": "一个很绝的心态：我不要了。",
+     "link": "https://www.huxiu.com/article/4906670.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 22:13:59 +0800",
+     "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 执念深知的人，多半都相信奇迹。 不仅如此，他们还相信自己是最幸运的那个人——如果奇迹真要降临人间的话，一定会发生在自己头上。 正因如此，他们不断逼自己受苦，并相信每一次受苦都会距离奇迹更近一步，结果却是白白浪费自己的生命。 再看那些从执念中走出来的人，他们曾追求过，争取过，付出过，饱尝求而不得的痛苦，也经历过无数次的挣扎与自我怀疑，但最终，他们表现出来的却是平和，圆融，波澜不惊。 而这种前后的反差巨大，皆因一个心态的出现：我不要了。 为什么“差一点”最磨人？ 心理学家蔡格尼克曾做过一个实验。 她让被试者做一系列简单任务，有些让他们做完，有些中途打断，结",
+     "source": "虎嗅",
+     "zh": "一个很绝的心态：我不要了。"
+    },
+    {
+     "title": "半夜举着手机等鬼显灵：百万老外正在为AI 抓鬼充会员",
+     "link": "https://www.huxiu.com/article/4906669.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 22:11:18 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室，原文标题：《半夜举着手机等鬼显灵：百万老外正在为 AI 抓鬼充会员》 有一个所有人都知道的铁律： 人类拿到任何一项新技术，第一时间就会去搞颜色。 但还有一拨人，追求新技术的脚步一点不比他们慢，那就是探灵圈。 新东西一出来，用不了多久，一定会有人背着它去抓鬼。 古人有钟馗和黄符，那还是手艺活，后来都是技术活。 收音机普及以后，有人举着收音机在频道之间来回扫，非说杂音里有鬼叫，点播阴间电台；照相机一发明，照片上冒出一个半透明的影子，大家就指着它说，肯定是那个“东西”。 到了今天，给这门老手艺上科技的，轮到了AI。 最近国外探灵圈有一款App突然",
+     "source": "虎嗅",
+     "zh": "半夜举着手机等鬼显灵：百万老外正在为AI 抓鬼充会员"
+    },
+    {
      "title": "Sources: ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI (The Information)",
      "link": "https://www.techmeme.com/261118/p21#a261118p21",
      "pubDate": "Wed, 18 Nov 2026 09:07:15 -0500",
@@ -1762,12 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI (The Information)"
     },
     {
-     "title": "Tesla will sell you a Cybercab for $30,000. Then charge $299 a month to use it",
+     "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
      "link": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
      "pubDate": "Wed, 18 Nov 2026 14:01:45 +0000",
      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
      "source": "Ars Technica",
-     "zh": "Tesla will sell you a Cybercab for $30,000. Then charge $299 a month to use it"
+     "zh": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch"
     },
     {
      "title": "Sources: Netflix will join Apple TV, YouTube, Fox, ESPN, and others in a bid for the US rights of FIFA&apos;s 2030 World Cup; the auction is set to fetch $1.5B-$2B (Matt Hughes/The Guardian)",
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
      "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
      "pubDate": "Wed, 18 Nov 2026 13:51:03 +0000",
-     "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf Comments URL: https://news.ycombinator.com/item?id=50546312 Points: 18 # Comments: 9",
      "source": "Hacker News",
      "zh": "Can Peer Review Survive AI-Generated Text? [pdf]"
     },
@@ -1874,26 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "产品攻势大年，大众安徽没有爆款"
     },
     {
-     "title": "黄仁勋会不会回归，如奥特曼故事？",
-     "link": "https://www.huxiu.com/article/4906658.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 21:31:49 +0800",
-     "summary": "本文来自微信公众号： 扯氮集 ，作者：魏武挥二世，原文标题：《黄仁勋会不会回归 如奥特曼故事？》 先放结论：今年是不会的，明年大概率不会，不排除永远不会。 纯属我个人判断，可能被打脸。 我本来想在p站下一个赌他无法重返CEO的注，让朋友帮忙去押（我没有交易货币），结果是：几乎找不到这样的注。唯一一个接近的是11月前他重返英伟达（正式顾问也算），结果一看，几乎没有对手盘，区区8%说yes的而已。我怀疑我连手续费都赚不回来。 算求。 一 黄仁勋离任后，要求其重返英伟达的呼声迅速高涨——唉，就是说说的，压根没人下注支持嘛。 由支持者发起的“与黄仁勋站在一起”联署活动，截至11月16日已获得超过18万",
-     "source": "虎嗅",
-     "zh": "黄仁勋会不会回归，如奥特曼故事？"
-    },
-    {
-     "title": "Mac收紧权限，苹果开始防着AI了",
-     "link": "https://www.huxiu.com/article/4906282.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 21:21:06 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：郑廷旭，编辑：肖钦鹏，题图来自：AI生成 11月17日凌晨，苹果向开发者推送了 macOS 27.3 Beta 2。不少开发者在升级后发现，当应用申请&ldquo;完整磁盘访问权限&rdquo;时，系统会弹出一个带有红色感叹号的警告窗口： 弹窗煞有介事地逐一列出了可能暴露的邮件、消息、照片和浏览历史，还要求你逐项确认风险，才能最终点击&ldquo;允许&rdquo;放行。 俨然一副国产 Android 手机上打开敏感权限时，系统跳出的全屏警告。只不过，苹果暂时还没用 10s 倒计时&ldquo;硬控&rdquo;用户。 警告之外，macOS 27.3 Be",
-     "source": "虎嗅",
-     "zh": "Mac收紧权限，苹果开始防着AI了"
-    },
-    {
      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
      "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
      "pubDate": "Wed, 18 Nov 2026 13:18:02 +0000",
-     "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 85 # Comments: 10",
+     "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 111 # Comments: 13",
      "source": "Hacker News",
      "zh": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy"
     },
@@ -1962,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地"
     },
     {
-     "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas&apos;s award-winning novel as 99% AI-generated (Brunella Tipismana Urbano/The Point ...)",
-     "link": "https://www.techmeme.com/261118/p16#a261118p16",
-     "pubDate": "Wed, 18 Nov 2026 07:00:58 -0500",
-     "summary": "Brunella Tipismana Urbano / The Point Magazine : A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated &nbsp; &mdash;&nbsp; The news has already traveled the world, but for those who haven't yet hear",
-     "source": "Techmeme",
-     "zh": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas&apos;s award-winning novel as 99% AI-generated (Brunella Tipismana Urbano/The Point ...)"
-    },
-    {
      "title": "Evidence (YC S21) Is Hiring",
      "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
      "pubDate": "Wed, 18 Nov 2026 12:00:16 +0000",
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak",
+     "link": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php",
+     "pubDate": "Wed, 18 Nov 2026 15:17:02 +0100",
+     "summary": "OnePlus launched the Turbo 6 in China back in January, and the Turbo 7's key specs leaked earlier this month. Now, a Pro model has passed through China's 3C certification, according to Digital Chat Station on Weibo. The listing is for a OnePlus phone with the model number PYP110, which the tipster s",
+     "source": "GSMArena",
+     "zh": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak"
+    },
+    {
+     "title": "Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers",
+     "link": "https://9to5google.com/2026/11/18/pebblebee-alert-dispatch-emergency/",
+     "pubDate": "Wed, 18 Nov 2026 14:10:00 +0000",
+     "summary": "While many services are turning to AI in place of an actual human being, Pebblebee’s new Alert Dispatch brings the help of a real person into an emergency situation, and it all starts with your Find Hub tracker. more…",
+     "source": "9to5Google",
+     "zh": "Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers"
+    },
+    {
+     "title": "Apple announces 2026 App Store Award finalists",
+     "link": "https://9to5mac.com/2026/11/18/apple-announces-2026-app-store-award-finalists/",
+     "pubDate": "Wed, 18 Nov 2026 14:09:45 +0000",
+     "summary": "Apple will announce the winners of its 2026 App Store Awards in the weeks ahead. But ahead of those announcements, today the company has recognized 45 apps and games as finalists. more…",
+     "source": "9to5Mac",
+     "zh": "Apple announces 2026 App Store Award finalists"
+    },
     {
      "title": "AAWireless unveils two new wireless Android Auto adapters with a big connectivity upgrade",
      "link": "https://www.androidauthority.com/aawireless-nexus-nano-android-auto-adapters-3735860/",
@@ -2130,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung brings the native App Lock feature to Galaxy phones with One UI 9.5"
     },
     {
-     "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
-     "link": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
-     "pubDate": "Wed, 18 Nov 2026 12:00:06 +0000",
-     "summary": "Apple this week revealed the additional Siri AI usage you’ll get if you have an iCloud+ subscription. This ranges from doubled limits for a 200GB plan to 20 times for a 12TB plan. However, the company’s support document reveals that some countries will not get access to these increased usage allowan",
-     "source": "9to5Mac",
-     "zh": "The UK and some other countries don’t get more Siri AI usage with iCloud+"
-    },
-    {
      "title": "Google Home speakers get a major Gemini upgrade ‘soon,’ but only for paid subscribers",
      "link": "https://9to5google.com/2026/11/18/google-home-gemini-live-update-coming/",
      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
@@ -2210,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑"
     },
     {
-     "title": "Samsung Galaxy A24 gets One UI 9 based on Android 17",
-     "link": "https://www.gsmarena.com/samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517.php",
-     "pubDate": "Wed, 18 Nov 2026 07:30:02 +0100",
-     "summary": "Samsung has started rolling out the Android 17-based One UI 9 update for the Galaxy A24. As usual, the phone's South Korean variant is first in line - it carries model number SM-A245N, and the new software arrives as firmware version A245NKSUBGZJA, bundled with the October 2026 security patch. The G",
-     "source": "GSMArena",
-     "zh": "Samsung Galaxy A24 gets One UI 9 based on Android 17"
-    },
-    {
      "title": "YouTube will start boosting public view counts when you watch on a TV",
      "link": "https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/",
      "pubDate": "Wed, 18 Nov 2026 06:08:00 +0000",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是…… 查看全文",
      "source": "少数派",
      "zh": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾"
-    },
-    {
-     "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
-     "link": "https://sspai.com/post/118975",
-     "pubDate": "Wed, 18 Nov 2026 10:30:00 +0800",
-     "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。 查看全文",
-     "source": "少数派",
-     "zh": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派"
     }
    ]
   },
@@ -2250,6 +2250,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "高鑫零售上半财年营收降9.9%，大润发持续扩大生鲜联采",
+     "link": "https://wallstreetcn.com/articles/3786219",
+     "pubDate": "Wed, 18 Nov 2026 22:35:07 +0800",
+     "summary": "高鑫零售的经营调整仍在持续，但传统大卖场的销售压力尚未缓解。 11月18日，大润发母公司高鑫零售（06808.HK）公布2027财年中期业绩。截至2026年9月30日的六个月内，公司实现营收274.87亿元，同比下降9.9%；期内净亏损5.17亿元，较上年同期的1.27亿元进一步扩大。 其中，集团货品销售同店同比下降9.5%，较去年同期降幅收窄，但仍面临压力。 报告期内，集团毛利69.12亿元，同比下降10.5%，毛利率由25.3%小幅降至25.1%；经营层面由上年同期盈利2.71亿元转为亏损2.77亿元。 高鑫零售在此前的盈利预警中指出，尽管客单价下滑趋势有所收窄，但市场竞争持续分流客流，导",
+     "source": "华尔街见闻",
+     "zh": "高鑫零售上半财年营收降9.9%，大润发持续扩大生鲜联采"
+    },
+    {
+     "title": "Options traders repositioned for an Nvidia recovery as volatility rose more than 50%",
+     "link": "https://seekingalpha.com/news/4674195-options-traders-repositioned-for-an-nvidia-recovery-as-volatility-rose-more-than-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:28:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Options traders repositioned for an Nvidia recovery as volatility rose more than 50%"
+    },
+    {
+     "title": "Supermicro ships first all-flash storage servers based on AMD EPYC 9006",
+     "link": "https://seekingalpha.com/news/4674190-supermicro-ships-first-all-flash-storage-servers-based-on-amd-epyc-9006?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:27:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Supermicro ships first all-flash storage servers based on AMD EPYC 9006"
+    },
+    {
+     "title": "North American Financial 15 Split Corp. 5.25% PFD SHS declares CAD 0.0625 dividend",
+     "link": "https://seekingalpha.com/news/4674198-north-american-financial-15-split-corp-5_25-percent-pfd-shs-declares-cad-0_0625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:27:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "North American Financial 15 Split Corp. 5.25% PFD SHS declares CAD 0.0625 dividend"
+    },
+    {
+     "title": "North American Financial 15 Split declares CAD 0.1134 dividend",
+     "link": "https://seekingalpha.com/news/4674197-north-american-financial-15-split-declares-cad-0_1134-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:27:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "North American Financial 15 Split declares CAD 0.1134 dividend"
+    },
+    {
+     "title": "Trump admin insists recent closely timed tech outages aren&apos;t connected",
+     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+     "pubDate": "Wed, 18 Nov 2026 14:26:56 GMT",
+     "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+     "source": "CNBC",
+     "zh": "Trump admin insists recent closely timed tech outages aren&apos;t connected"
+    },
+    {
+     "title": "PPG survey finds national differences in European paint-buying habits",
+     "link": "https://seekingalpha.com/news/4674189-ppg-survey-finds-national-differences-in-european-paint-buying-habits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:26:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PPG survey finds national differences in European paint-buying habits"
+    },
+    {
+     "title": "Forget 25 Bps? Fed's Waller says 'shock people' with 50-bp December hike",
+     "link": "https://seekingalpha.com/news/4674166-forget-25-bps-feds-waller-says-shock-people-with-50-bp-december-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 09:25:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Forget 25 Bps? Fed's Waller says 'shock people' with 50-bp December hike"
+    },
+    {
+     "title": "3000亿元注资特别国债完成招标，二期票面利率1.40%",
+     "link": "https://wallstreetcn.com/articles/3786218",
+     "pubDate": "Wed, 18 Nov 2026 22:24:53 +0800",
+     "summary": "11月18日，财政部完成1500亿元中央金融机构注资特别国债（二期）招标，期限7年，票面利率1.40%。 加上10月8日招标发行的5年期、票面利率1.37%的一期，全年3000亿元中央金融机构注资特别国债完成招标。 本期国债将于11月19日起计息，11月23日起上市交易，2033年11月19日偿还本金并支付最后一次利息。 招标结果显示，本期债券加权中标收益率为1.40%，边际中标收益率为1.43%，全场认购倍数2.58倍，边际倍数8.2倍。 全场认购倍数意味着投标量达到发行量的2.58倍。两期债券票面利率均在1.4%左右，明确了这笔财政注资的发债融资成本。 募集资金将通过股权投资转化为金融机构",
+     "source": "华尔街见闻",
+     "zh": "3000亿元注资特别国债完成招标，二期票面利率1.40%"
+    },
+    {
+     "title": "小马智行营收创季度新高，规模扩张能否加快减亏？",
+     "link": "https://wallstreetcn.com/articles/3786217",
+     "pubDate": "Wed, 18 Nov 2026 22:24:36 +0800",
+     "summary": "作者 | 周智宇 小马智行三季度近一半的收入增量，来自产品销售。共建车队模式下的车辆交付，正在成为它扩大Robotaxi生意的重要来源。 11月18日，小马智行公布2026年第三季度财报，营收同比增长75.2%至2.99亿元，创季度新高。Robotaxi业务收入增长165.4%至1.19亿元，营收占比接近四成；Robotruck业务收入增长76.3%至1.20亿元，两项业务共同带动增长。 截至9月底，小马拥有2768辆Robotaxi，比6月底增加793辆，年底车队目标为3500辆。第七代车型商业运营扩大，乘客车费收入同比增长近400%。 三季度经营亏损为4.61亿元，按美元口径同比收窄约1.",
+     "source": "华尔街见闻",
+     "zh": "小马智行营收创季度新高，规模扩张能否加快减亏？"
+    },
+    {
+     "title": "大圆柱电池加码120毫米，争夺大电量车型",
+     "link": "https://wallstreetcn.com/articles/3786216",
+     "pubDate": "Wed, 18 Nov 2026 22:24:12 +0800",
+     "summary": "作者 | 周智宇 远景动力11月18日官宣其46120电芯累计交付突破1000万颗。相较于最早推出的4680大圆柱电池，电池厂正在通过增加电芯高度、提高单颗电量，加码大电量车型市场竞争。 远景这款直径46毫米、高120毫米的电芯，将率先配套宝马纯电SUV iX5。中大型纯电SUV需要更大电量支撑长续航，车企又不希望电芯数量、连接部件和装配负担随之大幅增加。相比95毫米，120毫米用更高的单颗电量，为这道难题提供了一个量产选项。 宝马的车型选择，是这一变化的直接体现。根据宝马公开资料，iX3采用95毫米高的电芯，iX5则采用120毫米。两者直径同为46毫米，化学体系相同，加高后单颗可用电量增加近",
+     "source": "华尔街见闻",
+     "zh": "大圆柱电池加码120毫米，争夺大电量车型"
+    },
+    {
+     "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+     "pubDate": "Wed, 18 Nov 2026 14:20:58 GMT",
+     "summary": "Anthropic is gearing up for a blockbuster initial public offering this week, and excitement among retail investors looks to be off the charts.",
+     "source": "CNBC",
+     "zh": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut"
+    },
+    {
+     "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+     "pubDate": "Wed, 18 Nov 2026 14:15:20 GMT",
+     "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
+     "source": "CNBC",
+     "zh": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return"
+    },
+    {
+     "title": "武汉长江新区“十五五”规划发布：建设国际物流枢纽，构建现代化产业体系",
+     "link": "http://www.eeo.com.cn/2026/1118/1096506.shtml",
+     "pubDate": "Wed, 18 Nov 2026 22:11:01 +0800",
+     "summary": "根据武汉长江新区发展“十五五”规划，到2030年，将基本形成以长江新区副城为核心的武汉东北区域发展引擎，成为湖北省高质量发展增长极。",
+     "source": "经济观察网",
+     "zh": "武汉长江新区“十五五”规划发布：建设国际物流枢纽，构建现代化产业体系"
+    },
+    {
+     "title": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+     "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 14:09:00 GMT",
+     "summary": "“It’s total hype and kind of inflated expectations.”",
+     "source": "MarketWatch",
+     "zh": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts."
+    },
+    {
+     "title": "APEC时间｜深圳涉外税收服务持续推进",
+     "link": "http://www.eeo.com.cn/2026/1118/1096503.shtml",
+     "pubDate": "Wed, 18 Nov 2026 22:07:49 +0800",
+     "summary": "深圳税务部门依托税务总局“税路通”跨境税收服务品牌和六大知识产品，结合深圳实际情况，打造并深化“税路通·圳行动”品牌建设，不断完善市局、区局、税务所三级联动税收服务矩阵，向“走出去”和“引进来”企业提供全链条跨境涉税服务。希望以此护航企业跨境经营，服务高水平对外开放。",
+     "source": "经济观察网",
+     "zh": "APEC时间｜深圳涉外税收服务持续推进"
+    },
+    {
      "title": "The AI power scramble is in full force. Which companies really stand to profit?",
      "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 14:06:00 GMT",
@@ -2258,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "The AI power scramble is in full force. Which companies really stand to profit?"
     },
     {
-     "title": "Uni-Fuels regains Nasdaq minimum bid price compliance",
-     "link": "https://seekingalpha.com/news/4674169-uni-fuels-regains-nasdaq-minimum-bid-price-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 09:02:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Uni-Fuels regains Nasdaq minimum bid price compliance"
-    },
-    {
-     "title": "SOS postpones 1-for-20 reverse share split to November 20",
-     "link": "https://seekingalpha.com/news/4674147-sos-postpones-1-forminus-20-reverse-share-split-to-november-20?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 09:02:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SOS postpones 1-for-20 reverse share split to November 20"
-    },
-    {
-     "title": "Grounded Lithium reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674175-grounded-lithium-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 09:01:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Grounded Lithium reports Q3 results"
-    },
-    {
-     "title": "Goldgroup Mining Inc. reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674170-goldgroup-mining-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:59:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goldgroup Mining Inc. reports Q3 results"
+     "title": "Hims & Hers launches new peptide treatments — while admitting there&apos;s more to learn about efficacy",
+     "link": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+     "pubDate": "Wed, 18 Nov 2026 14:02:52 GMT",
+     "summary": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+, vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
+     "source": "CNBC",
+     "zh": "Hims & Hers launches new peptide treatments — while admitting there&apos;s more to learn about efficacy"
     },
     {
      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
@@ -2298,44 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say"
     },
     {
-     "title": "Bridger Aerospace downgraded at Stifel, warning about restructuring",
-     "link": "https://seekingalpha.com/news/4674168-bridger-aerospace-downgraded-at-stifel-warning-about-restructuring?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:58:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bridger Aerospace downgraded at Stifel, warning about restructuring"
-    },
-    {
-     "title": "U.S. consumer spending set to slow as inflation and higher rates bite",
-     "link": "https://seekingalpha.com/news/4674155-us-consumer-spending-set-to-slow-as-inflation-and-higher-rates-bite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:58:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. consumer spending set to slow as inflation and higher rates bite"
-    },
-    {
-     "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-     "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-     "pubDate": "Wed, 18 Nov 2026 13:50:03 GMT",
-     "summary": "Former Nvidia CEO Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
-     "source": "CNBC",
-     "zh": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says"
-    },
-    {
      "title": "美联储分歧加剧：沃勒称12月应考虑加息50个基点，威廉姆斯认为无需激进收紧",
      "link": "https://wallstreetcn.com/articles/3786207",
      "pubDate": "Wed, 18 Nov 2026 21:49:35 +0800",
      "summary": "美联储内部对后续加息力度出现明显分歧，理事克里斯托弗·沃勒主张进一步加大加息幅度，而纽约联储主席约翰·威廉姆斯认为当前没有必要采取激进行动。 11月18日，据彭博报道，沃勒周三接受CNBC采访时表示， 通胀走势仍在朝错误方向发展，美联储需要在加息方面更加积极主动。如果通胀继续加速，他将支持12月一次性加息50个基点，以维护央行的抗通胀信誉。 威廉姆斯则持不同看法。 他周二在纽约出席Axios主办的活动时表示，当前形势并不需要采取激烈行动，并强调美联储循序渐进、根据经济数据调整政策的方式一直奏效。 两人的分歧反映出美联储内部对通胀风险及政策收紧节奏的不同判断。尽管市场目前仍倾向于常规加息路径，但",
      "source": "华尔街见闻",
      "zh": "美联储分歧加剧：沃勒称12月应考虑加息50个基点，威廉姆斯认为无需激进收紧"
-    },
-    {
-     "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-     "pubDate": "Wed, 18 Nov 2026 13:48:38 GMT",
-     "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-     "source": "CNBC",
-     "zh": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return"
     },
     {
      "title": "Medicare Part B premiums rise due to higher healthcare spending",
@@ -2368,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
      "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "Target posts best sales growth in five years, raises guidance",
-     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-     "pubDate": "Wed, 18 Nov 2026 13:29:33 GMT",
-     "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-     "source": "CNBC",
-     "zh": "Target posts best sales growth in five years, raises guidance"
     },
     {
      "title": "惠升基金“换帅” 孙庆任总经理",
@@ -2424,70 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
      "source": "MarketWatch",
      "zh": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift."
-    },
-    {
-     "title": "科伦药业董事长变更：刘革新卸任，其子刘思川接班",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934220421.html",
-     "pubDate": "Wed, 18 Nov 2026 21:23:51 +0800",
-     "summary": "11月18日， 科伦药业 发布公告宣布董事长变更。公司表示，董事长刘革新为更好地支持公司持续发展，向公司董事会申请辞去公司董事长职务。辞任董事长职务后，刘革新将继续作为公司董事、董事会战略委员会主任委员履职，并继续担任公司部分子公司董事长或董事职务。 刘革新之子将接任董事长一职。 科伦药业 于同日召开董事会，选举董事刘思川为公司第八届董事会董事长。 科伦药业 表示，根据《公司章程》的相关规定，董事长刘思川将成为公司法定代表人，并继续担任公司总经理。 公开简历显示，刘思川，1984年出生，公司董事、总经理，目前兼任四川科伦实业集团有限公司董事。刘思川直接持有公司股票8346286股，并通过上海通",
-     "source": "东方财富股票",
-     "zh": "科伦药业董事长变更：刘革新卸任，其子刘思川接班"
-    },
-    {
-     "title": "利好来了！“易中天胜”集体公告，光模块、PCB龙头齐护盘",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934219945.html",
-     "pubDate": "Wed, 18 Nov 2026 21:23:40 +0800",
-     "summary": "【导读】 中际旭创 、 新易盛 、 天孚通信 、 胜宏科技 集体发布公告，释放利好信号 “易中天”，利好来了！ 11月18日晚间，光模块龙头股 中际旭创 、 新易盛 、 天孚通信 陆续发布公告，释放利好信号。其中， 中际旭创 董事长提议回购20亿至40亿元股份。 新易盛 宣布已回购421.63万股， 天孚通信 宣布已回购88万股，并对近期经营发展情况作出详细说明。 此外， PCB 龙头股 胜宏科技 也于当晚发布公告称，公司取得金融机构股票回购专项贷款承诺函，贷款额度不超过2.7亿元。 胜宏科技 表示，目前公司下游需求保持高景气，在手订单能见度处于历史高位，部分高多层、高阶HDI等高端产品排单已",
-     "source": "东方财富股票",
-     "zh": "利好来了！“易中天胜”集体公告，光模块、PCB龙头齐护盘"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 13:15:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
-    },
-    {
-     "title": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟",
-     "link": "https://wallstreetcn.com/articles/3786214",
-     "pubDate": "Wed, 18 Nov 2026 21:14:04 +0800",
-     "summary": "腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，Workbuddy日活突破1000万、年化收入超5亿美元，管理层定调——\"AI让现有业务用更少的人，多出来的人去建新业务。\" 周二晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米切尔（James Mitchell）以及CFO罗硕瀚参与本次电话会。 总体而言，管理层在本次电话会上定调：AI投入正在产生可见回报，但算力限制对下一代模型训练带来真实压力。 腾讯表示，WorkBuddy的日活跃用户（DAU）超过1000万，每天消耗100万亿token， 最近七天的收",
-     "source": "华尔街见闻",
-     "zh": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟"
-    },
-    {
-     "title": "Xi greets Trump with hug ahead of historic summit with Putin",
-     "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 13:09:53 GMT",
-     "summary": "US and Chinese leaders to meet Russia’s Vladimir Putin to cap week of high-profile diplomacy",
-     "source": "Financial Times",
-     "zh": "Xi greets Trump with hug ahead of historic summit with Putin"
-    },
-    {
-     "title": "The only way out of populism is through it",
-     "link": "https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 13:04:25 GMT",
-     "summary": "The lesson of Britain and America is that bad ideas have to be tested to destruction",
-     "source": "Financial Times",
-     "zh": "The only way out of populism is through it"
-    },
-    {
-     "title": "博理科技获超5亿元融资，3D打印机器人零部件批量供货",
-     "link": "https://wallstreetcn.com/articles/3786210",
-     "pubDate": "Wed, 18 Nov 2026 21:01:41 +0800",
-     "summary": "11月18日，苏州博理新材料科技有限公司（以下简称“博理科技”）宣布连续完成B2轮与B+轮股权融资，合计金额超5亿元。 公司披露，B2轮由基石资本与金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+轮由经纬创投领投，安耐德资本、天堂硅谷跟投，上市公司长盈精密参投，估值未披露。 募资将用于高分子材料研发、装备扩产、具身智能应用开发、全球化交付网络建设与总部基地建设。 博理科技成立于2017年，主业为高分子弹性体材料与超高速3D打印批量制造。公司称，截至2026年已累计交付终端零部件超1000万件，累计服务客户超400家。 具身智能方向，公司称仿生柔体结构、壳体防干",
-     "source": "华尔街见闻",
-     "zh": "博理科技获超5亿元融资，3D打印机器人零部件批量供货"
-    },
-    {
-     "title": "中行仍在坚守的村镇生意",
-     "link": "https://wallstreetcn.com/articles/3786209",
-     "pubDate": "Wed, 18 Nov 2026 20:50:02 +0800",
-     "summary": "国有大行的村镇银行改革接近尾声，中国银行成了一个特殊的存在。 11月11日，河北金融监管局发布批复，同意中行旗下中银富登村镇银行股份有限公司募集20亿股股份。这家投管行，持有并管理着国内规模最大的村行体系。 其他大行正陆续退出村镇银行独立法人经营。 建行早在2018年便签约转让所持27家村行股权，农行、交行已完成旗下村行改制，工行最后一家村行也已获批收购改制。 中行则一面将京沪部分村行业务收归自身分支网络，一面推动县域村行内部合并，为投管行筹备新的资本补充。 值得注意的是，建行当年转让的那批村行，正是由中行与富登金控接手。多年积累下来，中银富登已成为中行深入县域服务农户与小微经营者的一条渠道。",
-     "source": "华尔街见闻",
-     "zh": "中行仍在坚守的村镇生意"
     }
    ]
   },

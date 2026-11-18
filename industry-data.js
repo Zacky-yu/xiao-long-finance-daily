@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 21:12:09",
+ "generated_at": "2026/11/18 21:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -1538,6 +1538,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+     "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+     "pubDate": "Wed, 18 Nov 2026 13:19:32 +0000",
+     "summary": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
+    },
+    {
+     "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+     "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+     "pubDate": "Wed, 18 Nov 2026 17:58:30 +0530",
+     "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD l",
+     "source": "The Hacker News",
+     "zh": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
+    },
+    {
      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
      "pubDate": "Wed, 18 Nov 2026 17:45:00 +0530",
@@ -1626,14 +1642,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft announces Windows Server 2028 with hardened security"
     },
     {
-     "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-     "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-     "pubDate": "Wed, 18 Nov 2026 08:47:18 +0000",
-     "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU"
-    },
-    {
      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
      "pubDate": "Wed, 18 Nov 2026 13:54:31 +0530",
@@ -1656,14 +1664,6 @@ window.INDUSTRY_DATA = {
      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
      "source": "BleepingComputer",
      "zh": "British Scattered Spider hacker sentenced to 6 years in prison"
-    },
-    {
-     "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-     "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-     "pubDate": "Wed, 18 Nov 2026 12:15:26 +0530",
-     "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N",
-     "source": "The Hacker News",
-     "zh": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials"
     },
     {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -1754,20 +1754,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AOC 推出 CU36U4Z 显示器：36\" 1500R Fast VA，WQHD 260Hz",
+     "link": "https://www.ithome.com/1/029/076.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:23:49 GMT",
+     "summary": "IT之家 11 月 18 日消息，AOC 今日在官网上线了 CU36G4Z 显示器。该型号与其姊妹品牌飞利浦的 Evnia 36M4C5500P/69 采用同一块 Fast VA 面板，因此也是 全球首批 36\" 游戏显示器 。 CU36G4Z 分辨率为 WQHD (3440×1440)；原生刷新率 240Hz、超频刷新率 260Hz； 获得 VESA DisplayHDR 400 认证 ，SDR 亮度 350nits、HDR 亮度 450nits，静态对比度 4000:1；MPRT 响应时间 0.3ms、GtG 响应时间 1ms；色深 8-bit， 色域 95% DCI-P3 / 99% s",
+     "source": "IT之家",
+     "zh": "AOC 推出 CU36U4Z 显示器：36\" 1500R Fast VA，WQHD 260Hz"
+    },
+    {
+     "title": "防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi",
+     "link": "https://www.ithome.com/1/029/075.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:23:33 GMT",
+     "summary": "IT之家 11 月 18 日消息，据韩联社报道，韩国 2027 学年度大学修学能力考试（高考）开考在即，为防范考生利用人工智能技术作弊，自当地时间 18 日下午 6 时起，全国高考考点及周边地区临时屏蔽公共 WiFi 信号。 据韩国政府和通信业界消息，应政府要求，韩国三大移动运营商（SK 电信、KT、LG U+）从 18 日下午 6 时至高考当日的 19 日下午 6 时， 暂停全国各考场和周边 100 米内的公共 WiFi 和移动运营商提供的 WiFi 服务 。此举旨在最大限度降低考生利用智能眼镜、微型摄像头等搭载 AI 技术的设备实施作弊的风险。 不过，原报道称个人自行设置的路由器或手机网络",
+     "source": "IT之家",
+     "zh": "防止考生利用 AI 作弊，韩国临时屏蔽高考考场及周边 100 米内公共 WiFi"
+    },
+    {
+     "title": "Mac收紧权限，苹果开始防着AI了",
+     "link": "https://www.huxiu.com/article/4906282.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 21:21:06 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：郑廷旭，编辑：肖钦鹏，题图来自：AI生成 11月17日凌晨，苹果向开发者推送了 macOS 27.3 Beta 2。不少开发者在升级后发现，当应用申请&ldquo;完整磁盘访问权限&rdquo;时，系统会弹出一个带有红色感叹号的警告窗口： 弹窗煞有介事地逐一列出了可能暴露的邮件、消息、照片和浏览历史，还要求你逐项确认风险，才能最终点击&ldquo;允许&rdquo;放行。 俨然一副国产 Android 手机上打开敏感权限时，系统跳出的全屏警告。只不过，苹果暂时还没用 10s 倒计时&ldquo;硬控&rdquo;用户。 警告之外，macOS 27.3 Be",
+     "source": "虎嗅",
+     "zh": "Mac收紧权限，苹果开始防着AI了"
+    },
+    {
+     "title": "哈苏发布 X2D II 100C 相机 1.4.15.7 新版固件，全面支持 Capture One 与像素蛋糕有线联机拍摄生态",
+     "link": "https://www.ithome.com/1/029/074.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:17:18 GMT",
+     "summary": "IT之家 11 月 18 日消息，哈苏（Hasselblad）今日正式发布旗舰无反中画幅数码相机 X2D II 100C 全新固件（ 固件版本：1.4.15.7 ）。 据介绍，本次升级正式推出与专业图像处理软件 Capture One 的有线联机拍摄功能，同时完善与专业智能图像创作软件像素蛋糕的有线联机交互，进一步打通前期拍摄与专业后期软件的协同链路。 通过 USB 连接 X2D II 100C，每一次快门触发，画面会快速传输至 Capture One。拍摄时可直接评估对焦、曝光和色彩。 用户可以一边拍摄，一边应用色彩分级、蒙版和参数调整 。 即日起，桌面端 Capture One 16.9.",
+     "source": "IT之家",
+     "zh": "哈苏发布 X2D II 100C 相机 1.4.15.7 新版固件，全面支持 Capture One 与像素蛋糕有线联机拍摄生态"
+    },
+    {
+     "title": "A US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto (Sergiu Gatlan/BleepingComputer)",
+     "link": "https://www.techmeme.com/261118/p19#a261118p19",
+     "pubDate": "Wed, 18 Nov 2026 08:15:01 -0500",
+     "summary": "Sergiu Gatlan / BleepingComputer : A US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto &nbsp; &mdash;&nbsp; A leader of the Scattered Spider cybercrime collective has been sentenced to six yea",
+     "source": "Techmeme",
+     "zh": "A US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto (Sergiu Gatlan/BleepingComputer)"
+    },
+    {
+     "title": "34999 元起，华硕 RTX Spark 迷你主机 ProArt GR1X 发售",
+     "link": "https://www.ithome.com/1/029/073.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:11:55 GMT",
+     "summary": "IT之家 11 月 18 日消息，华硕 (ASUS) 即将于今晚 22:00 开始销售基于 NVIDIA（英伟达）RTX Spark 超级芯片的 ProArt GR1X 迷你主机。 该设备提供两档配置， 64GB + 2TB 售价 34999 元 、 128GB + 4TB 售价 54999 元 。 ProArt GR1X 三维 150×150×51 (mm)；搭载 2 风扇 4 热管 57 鳍片的散热系统， 支持 140W 性能释放 ；配备 Wi-Fi 7 &amp; 蓝牙 5.4 无线网卡；提供 4 个 USB-C 20Gbps（其中 1 个支持 USB PD-in、另外 3 个支持 Di",
+     "source": "IT之家",
+     "zh": "34999 元起，华硕 RTX Spark 迷你主机 ProArt GR1X 发售"
+    },
+    {
+     "title": "AI产业链上的“深圳朋友圈”：本地造、亚太供、全球卖",
+     "link": "https://www.huxiu.com/article/4906649.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 21:09:53 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨，原文标题：《AI产业链上的“深圳朋友圈”：本地造、亚太供、全球卖｜APEC时间》 在人工智能带动的新一轮产业变革中，深圳既是智能硬件研发与制造的集聚地，也日益成为连接亚太各经济体的产业枢纽。 深圳，从昔日的小渔村到今天的大都会，几十年来，一直都是一个颇具象征意义的“节点”——贸易的节点、科技的节点、全球产业分工的节点。 随着本次APEC深圳会议的召开，深圳再一次走到了全球聚光灯下：从“三来一补”到电子制造，再到具身智能，深圳持续不断的进取、蝶变正在被全世界更加清晰地看见。 据深圳海关统计，2026年前10个月，深圳进出口总额达5.25万亿元，同",
+     "source": "虎嗅",
+     "zh": "AI产业链上的“深圳朋友圈”：本地造、亚太供、全球卖"
+    },
+    {
+     "title": "高盛：2027年AI项目融资预期从3000亿美元上调至5450亿美元",
+     "link": "https://www.huxiu.com/article/4906648.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 21:09:08 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：李莹 高盛近日把明年AI项目融资预期上调逾八成，其中芯片融资占比最大。不过，部分芯片融资依赖厂商担保，而英伟达在财报电话会上表示将严格评估未来的担保。市场关注高盛这一预期能否落地。 据媒体当地时间周三报道，高盛信用策略团队于周二发布报告，把2027年全球AI项目融资规模预期从3000亿美元上调至5450亿美元。其中2250亿美元用于数据中心建筑，3200亿美元用于GPU等芯片的算力融资。 注：全球AI相关项目融资规模，深色为数据中心建筑融资，浅色为芯片/算力融资；图中为高盛更宽口径的全球统计。 按高盛统计，今年以来AI项目融资合计约1500亿美元，其中芯片",
+     "source": "虎嗅",
+     "zh": "高盛：2027年AI项目融资预期从3000亿美元上调至5450亿美元"
+    },
+    {
+     "title": "意大利拟限制未成年人使用社交媒体：13 岁以下禁注册，16 岁才能独立使用",
+     "link": "https://www.ithome.com/1/029/072.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:06:06 GMT",
+     "summary": "IT之家 11 月 18 日消息，据路透社报道，继澳大利亚、巴西和希腊等国家之后，意大利也准备成为最新一个限制未成年人使用社交媒体的国家。意大利议会预计将在今年年底前批准一项政府法令，进一步收紧未成年人的社交媒体使用规定。 根据目前披露的修正案内容，相关措施主要包括： 13 岁以下儿童将被禁止注册和使用社交媒体账号。 13 至 15 岁的未成年人只有在账号与父母其中一方的账号关联后，才能使用社交媒体。 年满 16 岁后，未成年人才能独立注册和使用社交媒体账号。 这些措施被纳入一项正在议会讨论的安全法令修正案，预计最迟将在 12 月底获得批准。 路透社已经看到这份修正案的文本，但该修正案尚未正式",
+     "source": "IT之家",
+     "zh": "意大利拟限制未成年人使用社交媒体：13 岁以下禁注册，16 岁才能独立使用"
+    },
+    {
+     "title": "安谋科技发布基于 Arm Cortex-M42 CPU 的“星辰 100e”AIoT 原型平台",
+     "link": "https://www.ithome.com/1/029/071.htm",
+     "pubDate": "Wed, 18 Nov 2026 13:02:57 GMT",
+     "summary": "IT之家 11 月 18 日消息，安谋科技（中国）有限公司今日举办 Arm Cortex-M CPU 新品说明会，解析 Arm Cortex-M42 CPU，并正式 推出基于该产品的“星辰 100e”AIoT 原型平台 。 其中，Cortex-M42 处理器面向对成本和面积敏感的智能端点设备打造，基于 Armv8.1-M 架构，兼具三大核心能力： Arm Helium 技术：加速向量处理，带来更强的机器学习（ML）和数字信号处理（DSP）性能。 Arm 自定义指令（ACI）：支持芯片合作伙伴实现专用指令，针对特定工作负载优化处理性能。 基于 AHB 的紧凑设计：沿用成熟的微控制器（MCU）系统",
+     "source": "IT之家",
+     "zh": "安谋科技发布基于 Arm Cortex-M42 CPU 的“星辰 100e”AIoT 原型平台"
+    },
+    {
      "title": "英伟达是一家“傻子都能做CEO”的公司吗？",
      "link": "https://www.huxiu.com/article/4906645.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 20:51:15 +0800",
      "summary": "本文来自微信公众号： 略大参考 ，作者：林玖，编辑：杨知潮 经营者不必是伟人，也不可能总是伟人。 谁能成为英伟达的新CEO？ 是临时接替CEO的财务总监科莱特克雷斯？还是技术出身的雷内哈斯？还是发明CUDA的伊恩巴克？如果他们上台，他们会是库克、纳德拉这样优秀的接班人，还是一个糟糕的CEO？ 这些问题，恐怕连这些候选人自己也回答不了，可能需要等他们上任几年后才能得到答案。 而现在我们能回答的是：英伟达这个公司，对CEO的能力要求有没有那么高？ 巴菲特曾说：“如果你拥有足够好的生意，就算你的傻侄子来经营也行。”别说傻侄子，他还说“火腿三明治当CEO，也能经营好可口可乐。” 只要可口可乐的经典口味",
      "source": "虎嗅",
      "zh": "英伟达是一家“傻子都能做CEO”的公司吗？"
-    },
-    {
-     "title": "旅行者 1 号抵达距地球一光日位置，NASA 金唱片尘封细节被揭开",
-     "link": "https://www.ithome.com/1/029/062.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:46:44 GMT",
-     "summary": "IT之家 11 月 18 日消息，从人类发射的最远航天器旅行者 1 号（Voyager 1）到达距地球一光日的位置来看，它已经在太空中飞行了漫长岁月。与此同时，关于这艘探测器如何诞生，以及它携带的物品背后的故事，也有了新的发现。 据IT之家了解，旅行者 1 号于 1977 年离开地球，最初的任务是飞越木星、土星及其卫星土卫六。2012 年，它进入星际空间。与姊妹探测器旅行者 2 号（Voyager 2）一样，旅行者 1 号携带了一张具有纪念意义的留声机唱片，也就是后来广为人知的“旅行者金唱片”。 这张唱片一方面是为了纪念留声机唱片诞生 100 周年，另一方面也承载着人类向外星文明传递信息的愿望",
-     "source": "IT之家",
-     "zh": "旅行者 1 号抵达距地球一光日位置，NASA 金唱片尘封细节被揭开"
     },
     {
      "title": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
@@ -1786,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "呼吁海外华人回国工作，顶尖学者在WSJ上最新访谈"
     },
     {
-     "title": "Face ID 存疑：消息称苹果 iPhone Duo 2 工程机沿用侧边指纹设计",
-     "link": "https://www.ithome.com/1/029/061.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:45:11 GMT",
-     "summary": "IT之家 11 月 18 日消息，博主 @数码闲聊站 今日超前曝光了 iPhone Duo 2 的部分配置信息。据称新机 7.6 英寸内屏 +5.4 英寸外屏不变， 工程机有侧边指纹 。 博主提到，Face ID 这一配置存疑，因为影响机身堆叠，而且交互逻辑很奇怪。 值得一提的是，苹果 iOS / iPadOS 27.3 开发者预览版 Beta 2 已于昨日发布。在新系统中， 苹果为 iPhone Duo 折叠屏手机新增「使用前置摄像头解锁」选项 。开启后用户可以在使用外屏的情况下，仅依靠 2D 面部识别、不依赖触控 ID 解锁设备。 参考IT之家昨日报道，苹果 2027 年可能推出至少 18",
-     "source": "IT之家",
-     "zh": "Face ID 存疑：消息称苹果 iPhone Duo 2 工程机沿用侧边指纹设计"
-    },
-    {
      "title": "华裔最懂如何捅刀子",
      "link": "https://www.huxiu.com/article/4906642.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 20:40:27 +0800",
@@ -1802,52 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "华裔最懂如何捅刀子"
     },
     {
-     "title": "苹果地图在印度全面升级：针对当地道路特点专门优化，新增超 300 处 3D 地标",
-     "link": "https://www.ithome.com/1/029/059.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:40:16 GMT",
-     "summary": "IT之家 11 月 18 日消息，当地时间 18 日，苹果宣布在印度推出全面升级的苹果地图，首次将重新设计的地图服务带入印度市场。 新版地图不仅导航速度更快、准确性更高，还能展示更加详细的道路、建筑、公园和购物中心信息，并新增超过 300 处 3D 地标。 新版地图还针对印度的道路特点进行了专门优化。例如，自然语言引导功能可以用“在下一个红绿灯左转”等更口语化的方式提供导航。针对印度部分道路没有名称的情况，苹果还 加入了柱子等实际地标作为参照 ，让导航能够提示用户“经过加油站后右转”。 双语地名标注也是一项专门针对印度推出的功能。与当地路牌一样，苹果地图可以 同时显示英语和当地语言的地名 。除",
-     "source": "IT之家",
-     "zh": "苹果地图在印度全面升级：针对当地道路特点专门优化，新增超 300 处 3D 地标"
-    },
-    {
-     "title": "明星双抗药为何上市被否？康方与美方说法不一",
-     "link": "https://www.huxiu.com/article/4906641.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 20:37:06 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：黄华 近日，国产明星创新药依沃西单抗的首个美国上市申请遭拒绝。随着此产品被拒的信息披露逐渐深入，康方生物陷入的争议也越来越大。 11月18日，界面新闻记者在美国食品药品监督管理局官网看到，该局已挂出针对此项申请的完整回复函（CRL）全文，拒绝依沃西单抗在美上市的理由，得到完整公开。 依据此份文书，依沃西单抗被拒的理由主要有四项。 首先是，该试验预先指定的主要终点，也就是无进展生存期（PFS），在美国人群中的适用性无法确立，因为93%的事件——275例PFS事件中的257例，发生在中国入组的患者中。 一个背景信息是，药品若是期望在海外国家，如美国获批上市，",
-     "source": "虎嗅",
-     "zh": "明星双抗药为何上市被否？康方与美方说法不一"
-    },
-    {
-     "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
-     "link": "https://www.ithome.com/1/029/058.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:33:53 GMT",
-     "summary": "IT之家 11 月 18 日消息，DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起， 调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费 。 使用以下接口时会触发服务端搜索：联网工具、Anthropic API 的 web_search 工具、Responses API 的 web_search 工具。 据IT之家此前报道，10 月 17 日，DeepSeek 官方宣布 Search / Fetch API 正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容，按请求次数计费",
-     "source": "IT之家",
-     "zh": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费"
-    },
-    {
-     "title": "披着外卖服的“卖惨”，终点都是卖货",
-     "link": "https://www.huxiu.com/article/4906639.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 20:30:16 +0800",
-     "summary": "本文来自微信公众号： 花儿街参考 ，作者：林默 1 一个外卖员的人生，能有多少苦难？ 只要你坚持在短视频刷，要多少苦难就能看到多少苦难。 如果今天的你，对着一条单亲妈妈送外卖的短视频，眼角一酸，还点到主页里关注并留下你的小爱心。 那么明天的你，可能将会刷到“单身父亲带娃送外卖”“失散28年女儿怀孕送外卖”“丈夫见义勇为牺牲，妻子怀孕送外卖”“老板收留外卖女孩”。 短视频界最新的研究表明：人类所有的苦情戏，都能塞进外卖服里。 外卖服，可真是一身好戏服啊。颜色醒目，场景日常，自带“勤奋劳动者”滤镜，再配上一个娃，编一段故事，设计一场“被欺负”，就能演一出充满代入感的苦情戏，让你流泪又掏钱。 光是一",
-     "source": "虎嗅",
-     "zh": "披着外卖服的“卖惨”，终点都是卖货"
-    },
-    {
      "title": "Swiss nonprofit Quad9 withdraws its DNS resolver from France after a court ruling imposed large fines, an understandable decision that harms the open internet (Cloudflare)",
      "link": "https://www.techmeme.com/261118/p18#a261118p18",
      "pubDate": "Wed, 18 Nov 2026 07:30:01 -0500",
      "summary": "Cloudflare : Swiss nonprofit Quad9 withdraws its DNS resolver from France after a court ruling imposed large fines, an understandable decision that harms the open internet &nbsp; &mdash;&nbsp; Last month, the Swiss non-profit foundation Quad9 announced that it will withdraw its free public DNS resol",
      "source": "Techmeme",
      "zh": "Swiss nonprofit Quad9 withdraws its DNS resolver from France after a court ruling imposed large fines, an understandable decision that harms the open internet (Cloudflare)"
-    },
-    {
-     "title": "张雪有了新目标，立志培养中国冠军车手",
-     "link": "https://www.ithome.com/1/029/056.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:25:42 GMT",
-     "summary": "IT之家 11 月 18 日消息，据央视财经今日报道，今天，张雪接受总台记者专访时，又立下一个新目标， 立志培养中国冠军车手 。 张雪表示，如果有中国车手拿下赛车项目世界冠军， 家长和社会对赛车这个运动的看法 ，就会得到优化和改善，这对行业是一个好事。 据IT之家此前报道，在第 83 届米兰国际摩托车博览会（EICMA）现场，张雪机车创始人张雪在接受采访时表示，与欧洲及国际老牌厂商相比，中国摩托车企业最核心的竞争力在于效率和成本，欠缺的是品牌沉淀和市场认同。 张雪认为，从现在这个状态去超越对手，甚至超越全球顶级的对手和品牌，需要时间。 我们要耐得住寂寞，这个过程一定是痛并快乐着的 。 公开信息",
-     "source": "IT之家",
-     "zh": "张雪有了新目标，立志培养中国冠军车手"
     },
     {
      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
@@ -1866,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt (Jagmeet Singh/TechCrunch)"
     },
     {
-     "title": "奢侈品开始担心AI泡沫",
-     "link": "https://www.huxiu.com/article/4906636.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 20:13:18 +0800",
-     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 奢侈品开始担心AI泡沫》 AI创造了新一批富豪，也可能让奢侈品失去这批消费者。 欧洲奢侈品行业正在密切关注人工智能市场的变化，据路透社报道，由于市场担忧新一轮AI相关股票抛售可能侵蚀美国财富增长，欧洲奢侈品股票昨日整体下跌约2%，爱马仕股价一度下跌超过4%，Moncler下跌4.3%，LVMH、开云集团和Burberry也出现不同程度的下跌。 过去两年，AI热潮为美国资本市场创造了大量财富，也为奢侈品行业带来了新的增长机会，但当投资者开始怀疑这轮繁荣能持续多久，奢侈品牌也不得不担心，那些刚刚变得更富有的消费者，",
-     "source": "虎嗅",
-     "zh": "奢侈品开始担心AI泡沫"
-    },
-    {
      "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
      "link": "https://www.tmtpost.com/8210345.html",
      "pubDate": "Wed, 18 Nov 2026 20:11:01 +0800",
      "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。",
      "source": "钛媒体",
      "zh": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地"
-    },
-    {
-     "title": "三星推出 One UI 9.5 测试版：升级相机控制、无障碍、隐私保护等",
-     "link": "https://www.ithome.com/1/029/051.htm",
-     "pubDate": "Wed, 18 Nov 2026 12:01:39 GMT",
-     "summary": "IT之家 11 月 18 日消息，三星推出 One UI 9.5 测试版 ，用户可在正式版发布前提前体验新功能。 One UI 9.5 测试版主要升级了相机控制、个性化健康管理、无障碍功能和隐私保护。 专业拍照和专业视频模式 新增更精细的参数调整功能，方便用户自由创作。三星健康则加入 正念笔记 和 用药管理 功能，支持记录心情、设置服药提醒及追踪用药情况，提供更个性化的健康管理体验。 悬浮快捷按钮 方便用户快速调用常用功能，通知面板中的 助听器控制功能 也得到改进，进一步提升 Galaxy 设备的无障碍体验。此外，新增的 应用锁 支持单独锁定应用，加强日常隐私保护。 One UI 9.5 测试",
-     "source": "IT之家",
-     "zh": "三星推出 One UI 9.5 测试版：升级相机控制、无障碍、隐私保护等"
     },
     {
      "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas&apos;s award-winning novel as 99% AI-generated (Brunella Tipismana Urbano/The Point ...)",
@@ -1914,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "GTA 6 Review: It Is a Masterpiece",
-     "link": "https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece",
-     "pubDate": "Wed, 18 Nov 2026 11:59:57 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece Comments URL: https://news.ycombinator.com/item?id=50545232 Points: 26 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "GTA 6 Review: It Is a Masterpiece"
-    },
-    {
      "title": "Masayoshi Son says passing on investing in Anthropic in 2023 was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\" (Financial Times)",
      "link": "https://www.techmeme.com/261118/p15#a261118p15",
      "pubDate": "Wed, 18 Nov 2026 06:50:49 -0500",
@@ -1944,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sam Kriss / New Yorker : A growing religious and quasi-religious revival is permeating the AI industry, featuring apocalyptic warnings, secret prophecy lectures, and fringe movements &nbsp; &mdash;&nbsp; We are living through the End of Days.&nbsp; A terrible Beast is rising out of the sea to conque",
      "source": "Techmeme",
      "zh": "A growing religious and quasi-religious revival is permeating the AI industry, featuring apocalyptic warnings, secret prophecy lectures, and fringe movements (Sam Kriss/New Yorker)"
-    },
-    {
-     "title": "Rockstar says GTA VI targets 30fps across all current-gen consoles; PS5 and Xbox Series X upscale the game from 1440p to 4K and Xbox Series S from 720p to 1080p (Alessio Palumbo/Wccftech)",
-     "link": "https://www.techmeme.com/261118/p13#a261118p13",
-     "pubDate": "Wed, 18 Nov 2026 06:35:47 -0500",
-     "summary": "Alessio Palumbo / Wccftech : Rockstar says GTA VI targets 30fps across all current-gen consoles; PS5 and Xbox Series X upscale the game from 1440p to 4K and Xbox Series S from 720p to 1080p &nbsp; &mdash;&nbsp; During Grand Theft Auto VI's review period, Rockstar Games offered us the chance to send ",
-     "source": "Techmeme",
-     "zh": "Rockstar says GTA VI targets 30fps across all current-gen consoles; PS5 and Xbox Series X upscale the game from 1440p to 4K and Xbox Series S from 720p to 1080p (Alessio Palumbo/Wccftech)"
     },
     {
      "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
@@ -1978,6 +1970,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth"
     },
     {
+     "title": "Show HN: Type Fighter 2",
+     "link": "https://typefighter2.com/",
+     "pubDate": "Wed, 18 Nov 2026 11:11:53 +0000",
+     "summary": "Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 8 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Show HN: Type Fighter 2"
+    },
+    {
      "title": "Grand Theft Auto VI: The Ars Technica review",
      "link": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
      "pubDate": "Wed, 18 Nov 2026 11:00:27 +0000",
@@ -2002,12 +2002,44 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review",
+     "link": "https://www.gsmarena.com/xiaomi_smart_band_11_unibody_edition_in_for_review-news-75523.php",
+     "pubDate": "Wed, 18 Nov 2026 14:14:02 +0100",
+     "summary": "Xiaomi's latest smart wearable is now global and on sale for €60 (€90 for the NFC-enabled Ceramic Edition). We have the Unibody Edition in for review, and it's a bit more expensive than the regular model at €85. The Smart Band 11 ships with a fluororubber strap and a two-pin magnetic charger, ending",
+     "source": "GSMArena",
+     "zh": "Xiaomi Smart Band 11 Unibody Edition unboxing and hands-on review"
+    },
+    {
+     "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
+     "link": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
+     "pubDate": "Wed, 18 Nov 2026 13:10:02 +0000",
+     "summary": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone. more…",
+     "source": "9to5Mac",
+     "zh": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone"
+    },
+    {
+     "title": "Save $40 on the Fire TV Stick 4K Plus with Dolby Vision and Wi-Fi 6",
+     "link": "https://www.androidauthority.com/fire-tv-stick-4k-plus-deal-amazon-3736255/",
+     "pubDate": "Wed, 18 Nov 2026 13:08:36 +0000",
+     "summary": "The Fire TV Stick 4K Plus is 57% off on Amazon, back to its lowest price in 90 days.",
+     "source": "Android Authority",
+     "zh": "Save $40 on the Fire TV Stick 4K Plus with Dolby Vision and Wi-Fi 6"
+    },
+    {
      "title": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’",
      "link": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
      "pubDate": "Wed, 18 Nov 2026 13:06:32 +0000",
      "summary": "Aqara has announced the global launch of six new smart lighting products with full Apple Home support and what the company describes as “spatial intelligence.” The new lineup includes a vertical floor lamp with 18 individually addressable lighting zones, and a new LED strip offering seamless color g",
      "source": "9to5Mac",
      "zh": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’"
+    },
+    {
+     "title": "You'll need the latest PS5 firmware update to play GTA VI",
+     "link": "https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/",
+     "pubDate": "Wed, 18 Nov 2026 13:01:42 +0000",
+     "summary": "Double-check your PS5's firmware is up to date, or you may not be able to play GTA VI.",
+     "source": "Engadget",
+     "zh": "You'll need the latest PS5 firmware update to play GTA VI"
     },
     {
      "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
@@ -2098,28 +2130,12 @@ window.INDUSTRY_DATA = {
      "zh": "NASA's Voyager 1 space probe is now one light-day away from Earth"
     },
     {
-     "title": "Samsung’s Galaxy Tab S11 is $300 off on Amazon",
-     "link": "https://www.androidauthority.com/galaxy-tab-s11-300-off-deal-3736226/",
-     "pubDate": "Wed, 18 Nov 2026 11:46:00 +0000",
-     "summary": "The Samsung Galaxy Tab S11 is $699.99 on Amazon, 30% off and its lowest price in 90 days.",
-     "source": "Android Authority",
-     "zh": "Samsung’s Galaxy Tab S11 is $300 off on Amazon"
-    },
-    {
      "title": "The Apple HomeView is a repairability nightmare",
      "link": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php",
      "pubDate": "Wed, 18 Nov 2026 12:14:02 +0100",
      "summary": "The Apple HomeView made its debut over a month ago, and the folks over at iFixit have now performed their signature teardown test. The teardown revealed a surprisingly difficult-to-repair design, even for Apple standards. Right from the jump, the HomeView’s aluminum chassis made the display disassem",
      "source": "GSMArena",
      "zh": "The Apple HomeView is a repairability nightmare"
-    },
-    {
-     "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
-     "link": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
-     "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-     "summary": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone. more…",
-     "source": "9to5Google",
-     "zh": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone"
     },
     {
      "title": "Samsung announces One UI 9.5 beta program for the Galaxy S26 series in these countries",
@@ -2186,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "YouTube will start boosting public view counts when you watch on a TV"
     },
     {
-     "title": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed",
-     "link": "https://www.gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php",
-     "pubDate": "Wed, 18 Nov 2026 06:01:02 +0100",
-     "summary": "iQOO's next budget phone has just shown up in the Google Play Console database, which usually means a launch isn't too far off. The iQOO Z12 Lite listing (model number I2510) reveals a front design with a waterdrop notch, along with a few key specs. According to the listing, the phone is powered by ",
-     "source": "GSMArena",
-     "zh": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed"
-    },
-    {
      "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
      "link": "https://sspai.com/post/119193",
      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0800",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
      "source": "少数派",
      "zh": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等"
-    },
-    {
-     "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
-     "link": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
-     "pubDate": "Wed, 18 Nov 2026 00:35:25 +0000",
-     "summary": "Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18"
     }
    ]
   },
@@ -2252,50 +2252,154 @@ window.INDUSTRY_DATA = {
     {
      "title": "Target posts best sales growth in five years, raises guidance",
      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-     "pubDate": "Wed, 18 Nov 2026 13:08:43 GMT",
+     "pubDate": "Wed, 18 Nov 2026 13:28:32 GMT",
      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
      "source": "CNBC",
      "zh": "Target posts best sales growth in five years, raises guidance"
     },
     {
-     "title": "Nvidia’s beat and raise point to strong AI chip demand, analysts say",
-     "link": "https://seekingalpha.com/news/4674077-nvidias-beat-and-raise-point-to-strong-ai-chip-demand-analysts-say?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:04:54 -0500",
+     "title": "Salesforce undergoing more layoffs: report",
+     "link": "https://seekingalpha.com/news/4674130-salesforce-undergoing-more-layoffs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:27:20 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nvidia’s beat and raise point to strong AI chip demand, analysts say"
+     "zh": "Salesforce undergoing more layoffs: report"
     },
     {
-     "title": "BellRing shares climb as revenue beats estimates, FY27 outlook issued",
-     "link": "https://seekingalpha.com/news/4674083-bellring-shares-climb-as-revenue-beats-estimates-fy27-outlook-issued?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:04:38 -0500",
+     "title": "高利率持续施压，全球信用市场迎来压力测试：违约潮或进一步扩大",
+     "link": "https://wallstreetcn.com/articles/3786213",
+     "pubDate": "Wed, 18 Nov 2026 21:26:09 +0800",
+     "summary": "全球信用市场正经历全面重新定价，违约与债务重组风险持续上升。高利率进一步加重低评级借款人的偿债压力，信用市场紧张局势仍在加剧。 11月18日，据彭博报道，在彭博伦敦全球信用论坛上， 多家大型资产管理机构的高管警告，市场正在进入新一轮信用风险释放阶段。 从最低评级公司债利差走阔、对冲基金遭受重创，到CoreWeave债券跌至通常预示信用困境的价位，再到法国借贷成本升至逾二十年高位，市场紧张信号不断增加。 利率预期进一步加剧了市场压力。目前市场已定价美联储下月至少加息25个基点，欧洲央行也被预期采取相近幅度的行动。 若两大央行如期加息，政策利率都将升至逾一年来最高水平，持有浮动利率债务的杠杆企业将",
+     "source": "华尔街见闻",
+     "zh": "高利率持续施压，全球信用市场迎来压力测试：违约潮或进一步扩大"
+    },
+    {
+     "title": "Retension Pharmaceuticals GAAP EPS of -$7.33",
+     "link": "https://seekingalpha.com/news/4674137-retension-pharmaceuticals-gaap-eps-of-733?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:26:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BellRing shares climb as revenue beats estimates, FY27 outlook issued"
+     "zh": "Retension Pharmaceuticals GAAP EPS of -$7.33"
     },
     {
-     "title": "CVR Energy announces $1.25B senior secured notes offering to fund refinery acquisition",
-     "link": "https://seekingalpha.com/news/4674122-cvr-energy-announces-1_25b-senior-secured-notes-offering-to-fund-refinery-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:03:58 -0500",
+     "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+     "pubDate": "Wed, 18 Nov 2026 13:25:15 GMT",
+     "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+     "source": "CNBC",
+     "zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
+    },
+    {
+     "title": "Metro Non-GAAP EPS of $0.97, revenue of $5.18B beats by $1.57B",
+     "link": "https://seekingalpha.com/news/4674135-metro-non-gaap-eps-of-097-revenue-of-518b-beats-by-157b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:24:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "CVR Energy announces $1.25B senior secured notes offering to fund refinery acquisition"
+     "zh": "Metro Non-GAAP EPS of $0.97, revenue of $5.18B beats by $1.57B"
     },
     {
-     "title": "Yesway launches secondary public offering of 5M shares",
-     "link": "https://seekingalpha.com/news/4674121-yesway-launches-secondary-public-offering-of-5m-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 08:02:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Yesway launches secondary public offering of 5M shares"
+     "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+     "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 13:24:00 GMT",
+     "summary": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
+     "source": "MarketWatch",
+     "zh": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift."
     },
     {
-     "title": "腾讯高管谈最新收紧限制对AI影响：短期算力与训练承压 长期将加速国产供应链建设",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934207830.html",
-     "pubDate": "Wed, 18 Nov 2026 21:00:32 +0800",
-     "summary": "针对最新收紧限制对AI业务的影响，腾讯高管表示，这是现实问题，但有几个方面需要说明。第一，这确实让所有人都受到影响，当前实际可用的算力减少，无论是 租赁 还是自建算力都受到影响。第二，训练会受到影响，腾讯现在使用混元Hy4精度训练的效率其实很高；但混元版本下一代可能需要更长时间才能推出。 同时，其强调，长期来看，国内供应链会加入进来，更多中国企业将依赖国内供应链和国产芯片，行业发展很快，最新限制预计会加速这一进程，研发力量将集中加快国内供应链建设。 （文章来源：科创板日报）",
+     "title": "利好来了！“易中天胜”集体公告，光模块、PCB龙头齐护盘",
+     "link": "http://finance.eastmoney.com/news/1354,202611183934219945.html",
+     "pubDate": "Wed, 18 Nov 2026 21:23:40 +0800",
+     "summary": "【导读】 中际旭创 、 新易盛 、 天孚通信 、 胜宏科技 集体发布公告，释放利好信号 “易中天”，利好来了！ 11月18日晚间，光模块龙头股 中际旭创 、 新易盛 、 天孚通信 陆续发布公告，释放利好信号。其中， 中际旭创 董事长提议回购20亿至40亿元股份。 新易盛 宣布已回购421.63万股， 天孚通信 宣布已回购88万股，并对近期经营发展情况作出详细说明。 此外， PCB 龙头股 胜宏科技 也于当晚发布公告称，公司取得金融机构股票回购专项贷款承诺函，贷款额度不超过2.7亿元。 胜宏科技 表示，目前公司下游需求保持高景气，在手订单能见度处于历史高位，部分高多层、高阶HDI等高端产品排单已",
      "source": "东方财富股票",
-     "zh": "腾讯高管谈最新收紧限制对AI影响：短期算力与训练承压 长期将加速国产供应链建设"
+     "zh": "利好来了！“易中天胜”集体公告，光模块、PCB龙头齐护盘"
+    },
+    {
+     "title": "筹划重大事项，山鹰国际11月19日起停牌",
+     "link": "http://stock.eastmoney.com/news/11215,202611183934217115.html",
+     "pubDate": "Wed, 18 Nov 2026 21:20:20 +0800",
+     "summary": "11月18日晚间， 山鹰国际 （600567）披露公告称，因公司接到相关方通知，获悉相关方正在筹划涉及公司的重大事项，公司股票将于11月19日起停牌，预计停牌时间不超过2个交易日。 山鹰国际 表示，目前本次重大事项仍处于筹划阶段，具体重大事项方案仍在商讨论证中，尚存在不确定性。本次重大事项能否实施尚存在较大不确定性，有关信息均以公司指定信息披露媒体发布的公告为准。 值得一提的是， 山鹰国际 目前存在可能因股价低于1元而终止上市的风险。公司于11月16日晚间披露公告称，公司股票当日收盘价为0.94元/股，公司股票收盘价首次低于1元，公司股票存在可能因股价低于1元而终止上市。随后，公司于11月17",
+     "source": "东方财富股票",
+     "zh": "筹划重大事项，山鹰国际11月19日起停牌"
+    },
+    {
+     "title": "【答疑室】胜宏科技：在手订单饱满，订单能见度处于历史高位",
+     "link": "http://finance.eastmoney.com/news/1354,202611183934218791.html",
+     "pubDate": "Wed, 18 Nov 2026 21:19:54 +0800",
+     "summary": "近日，有投资者在互动平台向 胜宏科技 提问：公司是否收到客户订单延期或需求下修通知？11月18日， 胜宏科技 回复称，公司关注到相关行业动态，将持续跟踪政策变化并与客户保持密切沟通。目前公司在手订单饱满，订单能见度处于历史高位，北美客户及ASIC客户需求强劲，订单生产及交付正常推进。 对于投资者关于“ PCB 产品量产良率和交付情况”的提问， 胜宏科技 回复称，目前公司生产经营正常，多款高端产品已实现大规模量产，良率处于行业第一梯队。 胜宏科技 专业从事高密度印制线路板的研发、生产和销售，主要产品覆盖刚性电路板（多层板和HDI为核心）、柔性电路板（单双 面板 、多层板、刚挠结合板）全系列，广泛",
+     "source": "东方财富股票",
+     "zh": "【答疑室】胜宏科技：在手订单饱满，订单能见度处于历史高位"
+    },
+    {
+     "title": "上期所举办热轧卷板期货国际应用专题培训 推动“上海价格”服务境内外钢铁产业",
+     "link": "http://finance.eastmoney.com/news/1354,202611183934218698.html",
+     "pubDate": "Wed, 18 Nov 2026 21:19:54 +0800",
+     "summary": "11月18日，上海 期货 交易所在上海举办热轧卷板 期货 国际应用专题培训，本次培训是上期所和伦敦金属交易所（LME）深化市场培育、推动产业应用的重要举措，旨在促进中国钢材 期货 价格与国际贸易需求有效衔接，推动结算价授权合作成果加快转化为服务全球 钢铁 产业风险管理的实际成效。 LME行政总裁张柏廉表示，中国在全球 钢铁 产业中具有重要地位，上期所热轧卷板期货已成为全球规模最大的 板材 期货合约，其价格日益成为国际 钢铁 贸易的重要参考。此次合作充分发挥双方在价格基准和国际市场网络方面的互补优势，为全球钢铁产业链提供了新的风险管理工具。他强调，合约上市只是起点，满足产业实际需求、促进市场广泛",
+     "source": "东方财富股票",
+     "zh": "上期所举办热轧卷板期货国际应用专题培训 推动“上海价格”服务境内外钢铁产业"
+    },
+    {
+     "title": "Target's turnaround gains traction, but tariff refunds and soft spending mutes Q3 beat",
+     "link": "https://seekingalpha.com/news/4674106-targets-turnaround-gains-traction-but-tariff-refunds-and-soft-spending-mutes-q3-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:19:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Target's turnaround gains traction, but tariff refunds and soft spending mutes Q3 beat"
+    },
+    {
+     "title": "最高20亿元！行云科技，再签AI词元跨境“大订单”！股价年内涨超300%",
+     "link": "http://finance.eastmoney.com/news/1354,202611183934217540.html",
+     "pubDate": "Wed, 18 Nov 2026 21:19:19 +0800",
+     "summary": "A股算力服务商 行云科技 （SZ300209，股价22.15元，市值205.69亿元）再度斩获长期算力大单，业务触角进一步延伸至海外市场。 11月18日，公司宣布与港股上市公司 新丝路控股集团 有限公司签署《AI词元跨境销售服务合同》及首期《销售订单》，合同累计结算金额上限达20亿元，服务期限为60个月。 根据协议约定，本次合作以首期2亿元采购订单启动，由 行云科技 提供AI词元（Token）服务，全面赋能 新丝路控股集团 在海外的食品研发、AI育种、数字内容生成以及全球贸易等多个前沿场景。 随着2026年三季报业绩全面爆发， 行云科技 正从早期的硬件贸易与机柜 租赁 ，加速向高附加值的词元出",
+     "source": "东方财富股票",
+     "zh": "最高20亿元！行云科技，再签AI词元跨境“大订单”！股价年内涨超300%"
+    },
+    {
+     "title": "美国共和党参议员蒂姆·斯科特：美国商务部长卢特尼克和黄仁勋应在公开场合作证",
+     "link": "http://hk.eastmoney.com/news/1533,202611183934216758.html",
+     "pubDate": "Wed, 18 Nov 2026 21:18:58 +0800",
+     "summary": "美国共和党参议员蒂姆·斯科特：美国商务部长卢特尼克和黄仁勋应在公开场合作证。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国共和党参议员蒂姆·斯科特：美国商务部长卢特尼克和黄仁勋应在公开场合作证"
+    },
+    {
+     "title": "McGraw Hill sets multi-year growth targets, banks on AI monetization",
+     "link": "https://seekingalpha.com/news/4674102-mcgraw-hill-sets-multi-year-growth-targets-banks-on-ai-monetization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:17:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "McGraw Hill sets multi-year growth targets, banks on AI monetization"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 13:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
+    },
+    {
+     "title": "Enovix downgraded by Bank of America as smartphone battery push stalls",
+     "link": "https://seekingalpha.com/news/4674128-enovix-downgraded-by-bank-of-america-as-smartphone-battery-push-stalls?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 08:14:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Enovix downgraded by Bank of America as smartphone battery push stalls"
+    },
+    {
+     "title": "Xi greets Trump with hug ahead of historic summit with Putin",
+     "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 13:09:53 GMT",
+     "summary": "US and Chinese leaders to meet Russia’s Vladimir Putin to cap week of high-profile diplomacy",
+     "source": "Financial Times",
+     "zh": "Xi greets Trump with hug ahead of historic summit with Putin"
+    },
+    {
+     "title": "The only way out of populism is through it",
+     "link": "https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 13:04:25 GMT",
+     "summary": "The lesson of Britain and America is that bad ideas have to be tested to destruction",
+     "source": "Financial Times",
+     "zh": "The only way out of populism is through it"
     },
     {
      "title": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.",
@@ -2318,7 +2422,7 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1353,202611183934171580.html",
      "pubDate": "Wed, 18 Nov 2026 21:00:00 +0800",
      "summary": "热点聚焦 习近平迎接美国总统特朗普： 11月18日下午，国家主席习近平在深圳宝安国际 机场 迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。习近平表示，中国是礼仪之邦，有礼尚往来的传统。我欢迎你再次访华， 期待同你就事关中美关系、亚太合作和世界格局的重大问题深入交换意见，推动基于尊重、公平、对等的中美建设性战略稳定关系向前发展 。 英伟达 称将不再向中国出货H200芯片： 外交部发言人郭嘉昆主持例行记者会。法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片 。中方对此有何评论？郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 中际旭创 要开启第二波",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "11月18日东方财富财经晚报（附新闻联播）"
     },
     {
@@ -2328,70 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
      "source": "CNBC",
      "zh": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return"
-    },
-    {
-     "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-     "pubDate": "Wed, 18 Nov 2026 12:58:59 GMT",
-     "summary": "Continued inflation above the Fed's 2% target might push officials into a more aggressive stance.",
-     "source": "CNBC",
-     "zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
-    },
-    {
-     "title": "据美国财经媒体Semafor：SpaceX正筹备一笔由阿波罗全球管理公司安排的400亿美元融资交易",
-     "link": "http://hk.eastmoney.com/news/1533,202611183934206648.html",
-     "pubDate": "Wed, 18 Nov 2026 20:58:14 +0800",
-     "summary": "据美国财经媒体Semafor： SpaceX (SPCX.O)正筹备一笔由 阿波罗全球管理 公司安排的400亿美元融资交易，旨在为 人工智能 芯片项目提供资金，同时避免将债务直接计入其资产负债表。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "据美国财经媒体Semafor：SpaceX正筹备一笔由阿波罗全球管理公司安排的400亿美元融资交易"
-    },
-    {
-     "title": "SpaceX 400亿美元芯片融资将不体现在资产负债表上",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934207058.html",
-     "pubDate": "Wed, 18 Nov 2026 20:57:15 +0800",
-     "summary": "SpaceX 400亿美元芯片融资将不体现在资产负债表上。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SpaceX 400亿美元芯片融资将不体现在资产负债表上"
-    },
-    {
-     "title": "吉贝尔：氢溴酸特吉西汀原料药上市申请获受理",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934207161.html",
-     "pubDate": "Wed, 18 Nov 2026 20:56:15 +0800",
-     "summary": "吉贝尔 (688566.SH)公告称，公司近日收到国家药品监督管理局核准签发的《受理通知书》，在研抗抑郁新药氢溴酸特吉西汀 原料药 上市申请已获受理。该药是公司研发的具有新型多受体作用机制的抗抑郁一类新药，可明显延长药物半衰期，安全性和耐受性良好，有望成为新型抗抑郁症药物。相关制剂上市申请正在进行中，后续工作仍可能受不确定性因素影响。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "吉贝尔：氢溴酸特吉西汀原料药上市申请获受理"
-    },
-    {
-     "title": "现货铂金跌幅一度扩大至5%",
-     "link": "http://finance.eastmoney.com/news/1361,202611183934206931.html",
-     "pubDate": "Wed, 18 Nov 2026 20:56:09 +0800",
-     "summary": "现货铂金跌幅一度扩大至5%，至每盎司1357.75美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "现货铂金跌幅一度扩大至5%"
-    },
-    {
-     "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
-     "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
-     "pubDate": "Wed, 18 Nov 2026 12:55:01 GMT",
-     "summary": "The future for online travel agencies increasingly relies on scaling business-to-business travel platforms.",
-     "source": "CNBC",
-     "zh": "Booking Holdings creates new enterprise division as AI reshapes travel planning"
-    },
-    {
-     "title": "3 E Network Technology regains Nasdaq listing compliance",
-     "link": "https://seekingalpha.com/news/4674120-3-e-network-technology-regains-nasdaq-listing-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 07:54:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "3 E Network Technology regains Nasdaq listing compliance"
-    },
-    {
-     "title": "Intel conducting another round of layoffs: report",
-     "link": "https://seekingalpha.com/news/4674112-intel-conducting-another-round-of-layoffs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 07:53:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intel conducting another round of layoffs: report"
     },
     {
      "title": "Anthropic上市前遭质疑 美国五州民主党官员要求提高透明度",
@@ -2408,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "美联储理事沃勒表示，若不释放1月加息的信号，应在12月加息50个基点；美联储将需要动用其他手段来释放对通胀采取更激进应对措施的信号；为降低通胀，美联储可能不得不采取比逆转去年降息更多的措施。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "美联储理事沃勒：若不释放1月加息的信号 应在12月加息50个基点"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 12:32:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
     },
     {
      "title": "商汤营收增长23%，算力服务与智能体应用双线推进",
@@ -2456,38 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic即将上市之际，重仓其竞争对手OpenAI的软银创始人孙正义，公开谈及错失投资Anthropic的遗憾。不过，面对科技股震荡及 人工智能 泡沫的担忧，这位亲历互联网泡沫的投资人依然坚信，AI的发展才刚刚开始，现在正是为未来布局的时候。 孙正义周三在东京举行的活动上表示， 软银曾讨论过投资Anthropic的可能性，但最终没有出手 ，他将这一决定称为 自己犯下的“错误”之一 。 遗憾错失Anthropic “当我与达里奥见面时，就觉得他是一个非凡的人。”孙正义谈及Anthropic联合创始人达里奥·阿莫代伊时说，“ 真希望我当时就投了。 ” 这次错失机会，与软银此前已经选择支持O",
      "source": "东方财富资讯",
      "zh": "孙正义后悔当年没投Anthropic 坚称现在正是押注AI的好时机"
-    },
-    {
-     "title": "三星电子淡化新云服务商风险 称其不足以撼动AI行业增长前景",
-     "link": "http://finance.eastmoney.com/news/1360,202611183934150230.html",
-     "pubDate": "Wed, 18 Nov 2026 20:00:33 +0800",
-     "summary": "当地时间周三，全球最大 存储芯片 制造商三星 电子 表示，高负债新云服务商(Neocloud)在整体市场中所占份额仍然较小，相关融资风险不足以对AI行业的整体增长构成重大威胁 三星 电子 零部件业务部门负责企业管理、战略及运营的总裁金勇宽在新加坡举行的 摩根士丹利 亚太峰会上表示：“新云服务商在整体市场中的占比较低且相对有限，约为8%。” 他表示：“我们认为，这些担忧不会对AI行业整体增长势头构成重大威胁。” 金勇宽的表态正值市场重新评估AI基础设施投资风险之际。近期，包括向科技企业出租算力的CoreWeave和Nebius在内的新云服务商遭遇股债双杀。市场担忧，如果AI需求增长放缓，这些企业",
-     "source": "东方财富资讯",
-     "zh": "三星电子淡化新云服务商风险 称其不足以撼动AI行业增长前景"
-    },
-    {
-     "title": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会",
-     "link": "https://wallstreetcn.com/articles/3786205",
-     "pubDate": "Wed, 18 Nov 2026 19:57:24 +0800",
-     "summary": "欧洲央行即将迎来成立逾25年来最大规模的一次高层人事调整。德国已确定支持西班牙前央行行长巴勃罗·埃尔南德斯·德科斯竞逐欧洲央行行长，同时提名普林斯顿大学经济学教授马库斯·布伦纳迈尔进入执行委员会，为新一轮权力交接提供关键支持。 11月18日，据彭博报道，德国总理弗里德里希·默茨领导的执政联盟周三就欧洲央行人事安排达成一致。 根据协议，布伦纳迈尔将接替即将离任的伊莎贝尔·施纳贝尔，进入欧洲央行执行委员会；德国则支持德科斯接替克里斯蒂娜·拉加德，出任下一任欧洲央行行长。 这项安排涉及欧洲央行最高决策层多个关键职位，正值欧元区通胀仍明显高于2%的政策目标、法国财政压力持续受到市场关注之际，新一届领导",
-     "source": "华尔街见闻",
-     "zh": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会"
-    },
-    {
-     "title": "谷歌押注超高温地热 与初创公司Quaise签下50兆瓦购电协议",
-     "link": "http://finance.eastmoney.com/news/1345,202611183934132058.html",
-     "pubDate": "Wed, 18 Nov 2026 19:45:10 +0800",
-     "summary": "AI 数据中心 用电需求激增之际，谷歌把目光投向尚处早期的超高温地热技术，与地热公司Quaise签订50兆瓦 电力 的协议。这笔交易为这项技术带来了首个商业客户，但谷歌也坦言，超高温地热的成本目前仍然较高。 据媒体当地时间周二报道， 美国地热初创公司Quaise当日宣布，谷歌已与其签署购电协议，将从其位于俄勒冈州中部的旗舰项目Project Obsidian购买50兆瓦超高温地热 电力 ，最早于2030年开始供电。 作为参考，50兆瓦 电力 足以满足约5万户普通家庭的用电需求。这些电力将供应谷歌在俄勒冈州The Dalles的 数据中心 及周边社区。 据媒体报道，这是全球首笔商业化超高温岩石地",
-     "source": "东方财富资讯",
-     "zh": "谷歌押注超高温地热 与初创公司Quaise签下50兆瓦购电协议"
-    },
-    {
-     "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-     "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 11:38:00 GMT",
-     "summary": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
-     "source": "MarketWatch",
-     "zh": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues"
     }
    ]
   },

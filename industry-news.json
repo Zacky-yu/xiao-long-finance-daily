@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 03:32:19",
+ "generated_at": "2026/11/19 03:36:22",
  "recent_days": 7,
  "industries": [
   {
@@ -41,6 +41,14 @@
      "zh": "More banks say customers using AI agents are on their own — even if they get hacked"
     },
     {
+     "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
+     "link": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
+     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
+     "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
+     "source": "KDnuggets",
+     "zh": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them"
+    },
+    {
      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
      "pubDate": "Wed, 18 Nov 2026 16:59:00 +0000",
@@ -73,6 +81,14 @@
      "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
+     "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
+     "link": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
+     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
+     "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
+     "source": "KDnuggets",
+     "zh": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next"
+    },
+    {
      "title": "The AI Hype Index: AI is everywhere",
      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
@@ -95,6 +111,14 @@
      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
      "source": "TechCrunch AI",
      "zh": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
+    },
+    {
+     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
+     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
+     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
+     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
+     "source": "KDnuggets",
+     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
@@ -223,30 +247,6 @@
      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce t",
      "source": "arXiv cs.AI",
      "zh": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
-    },
-    {
-     "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-     "link": "https://arxiv.org/abs/2611.21832",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety res",
-     "source": "arXiv cs.AI",
-     "zh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
-    },
-    {
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "link": "https://arxiv.org/abs/2611.21885",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much ",
-     "source": "arXiv cs.AI",
-     "zh": "Language Models Can Rewrite Their Own Weights"
-    },
-    {
-     "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-     "link": "https://arxiv.org/abs/2611.21925",
-     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
-     "source": "arXiv cs.AI",
-     "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
     }
    ]
   },
@@ -961,14 +961,6 @@
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1023,14 +1015,6 @@
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1103,6 +1087,22 @@
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
+    },
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1449,14 +1449,6 @@
      "zh": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1495,14 +1487,6 @@
      "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
-    },
-    {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     },
     {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -1545,12 +1529,12 @@
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
+     "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+     "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+     "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
+     "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a C",
+     "source": "SpaceNews",
+     "zh": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology"
     }
    ]
   },
@@ -1768,6 +1752,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+     "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+     "pubDate": "Wed, 18 Nov 2026 19:29:41 +0000",
+     "summary": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+     "source": "TechCrunch",
+     "zh": "Spend management platform Payhawk announces $280M raise, 2B valuation"
+    },
     {
      "title": "At Nvidia&apos;s first all-hands since Huang&apos;s ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
      "link": "https://www.techmeme.com/261118/p38#a261118p38",
@@ -1999,14 +1991,6 @@
      "summary": "IT之家 11 月 19 日消息，腾讯昨日发布第三季度财报。财报显示，其第三季度实现营收 2073.36 亿元，同比增长 8%；毛利 1159.11 亿元，同比增长 7%；归母净利润为 636.12 亿元，同比增长 0.8%。 据《科创板日报》报道，对于持续增加的 AI 投入，腾讯管理层在业绩会上表示，公司当前资本开支主要用于 AI 基础设施建设。这类投入并非一次性消耗，建成后的基础设施可以持续用于模型训练和 Token 生成。随着 2026 年、2027 年建设的基础设施在后续年份发挥作用， 预计到 2028 年相关投入带来的经营压力有望逐步缓解 。 管理层同时提到，AI 基础设施的投入成本",
      "source": "IT之家",
      "zh": "腾讯：更多企业转向国产芯片，将助推国内供应链建设提速"
-    },
-    {
-     "title": "非洲加速向 5G-A 网络演进：华为 × Vodacom 联合发布 U6GHz“黄金频段”创新成果",
-     "link": "https://www.ithome.com/1/029/123.htm",
-     "pubDate": "Wed, 18 Nov 2026 16:35:06 GMT",
-     "summary": "IT之家 11 月 19 日消息，据“华为无线网络”公众号分享，在南非开普敦通信网络展览会（Africa Tech Festival 2026）期间，华为联合南非领先运营商 Vodacom 发布了 U6GHz 创新成果，为非洲市场 U6GHz 商用落地奠定了技术与场景基础。 据介绍，U6GHz（6425–7125MHz）是继 C-band 之后又一备受关注的大带宽频段，也是 Sub-10GHz 范围内最后一块 700MHz 级连续大带宽频谱资源， 被业界视为“黄金频段” 。WRC-23 已将其正式标识为 IMT 频谱，覆盖全球 80% 人口所在市场， 全球已有超 20 个国家和地区完成频谱标识",
-     "source": "IT之家",
-     "zh": "非洲加速向 5G-A 网络演进：华为 × Vodacom 联合发布 U6GHz“黄金频段”创新成果"
     }
    ]
   },
@@ -2016,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "PlayStation outage hits right before GTA VI launch",
+     "link": "https://www.androidauthority.com/playstation-outage-nov-2026-3736853/",
+     "pubDate": "Wed, 18 Nov 2026 19:28:18 +0000",
+     "summary": "You're not the only one having issues with PlayStation.",
+     "source": "Android Authority",
+     "zh": "PlayStation outage hits right before GTA VI launch"
+    },
     {
      "title": "Samsung is building a secure way for Galaxy users to erase their phones in One UI 9.5",
      "link": "https://www.androidauthority.com/samsung-secure-erase-3736783/",
@@ -2095,14 +2087,6 @@
      "summary": "Google is getting serious about app optimization for foldables.",
      "source": "Android Authority",
      "zh": "Google’s mandatory foldable app guidelines are here, and optimized apps are coming in 2027"
-    },
-    {
-     "title": "Google Play Points members can score F1-themed rewards during Las Vegas race week",
-     "link": "https://www.androidauthority.com/google-play-the-auction-las-vegas-f1-grand-prix-3736404/",
-     "pubDate": "Wed, 18 Nov 2026 18:00:49 +0000",
-     "summary": "You can get your hands on some cool McLaren F1-themed collectibles.",
-     "source": "Android Authority",
-     "zh": "Google Play Points members can score F1-themed rewards during Las Vegas race week"
     },
     {
      "title": "GTA 6 launch day: Live updates on the biggest game of the year",
@@ -2289,6 +2273,14 @@
      "zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
     },
     {
+     "title": "美股三大指数涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平",
+     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
+     "pubDate": "Thu, 19 Nov 2026 03:25:13 +0800",
+     "summary": "美东时间周三，美股三大指数涨跌不一，道琼斯指数跌1.13%，标普500指数跌0.17%， 纳斯达克 综合 指数涨0.52%。 英伟达 高开低走，截至发稿，股价下跌2.32%，报151.910美元。消息面上， 英伟达 预计第四季度营收高于市场预期。 截至发稿，美元指数涨0.27%，报103.84，指数盘中创2025年4月以来最高水平。 消息面上，美联储理事沃勒表示，美联储若不释放次年1月加息的信号，就应在今年12月加息50个基点。 商品市场方面，国际金银价格下挫。截至发稿，现货 白银 价格跌4.9%，报45.07美元/盎司；现货 黄金 价格跌3.14%，报3728.35美元/盎司。 全球要闻 美",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平"
+    },
+    {
      "title": "Leopold Aschenbrenner plots 'Situational Awareness 2.0' comeback - report",
      "link": "https://seekingalpha.com/news/4674367-leopold-aschenbrenner-plots-situational-awareness-20-comeback---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 14:24:37 -0500",
@@ -2327,14 +2319,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "KFC franchisee declares bankruptcy"
-    },
-    {
-     "title": "Fed minutes show growing unease about the outlook for inflation",
-     "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 19:12:00 GMT",
-     "summary": "At the October meeting, there was some discussion of an aggressive rate hike at the Federal Reserve’s December meeting.",
-     "source": "MarketWatch",
-     "zh": "Fed minutes show growing unease about the outlook for inflation"
     },
     {
      "title": "纳斯达克100指数涨幅收窄至0.2%",
@@ -2401,22 +2385,6 @@
      "zh": "14只基金扛住市场震荡 押注半导体国产替代主线"
     },
     {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:30:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
-     "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:28:00 GMT",
-     "summary": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
-     "source": "MarketWatch",
-     "zh": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride."
-    },
-    {
      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 18:27:54 GMT",
@@ -2433,30 +2401,6 @@
      "zh": "Investigators make progress in hunt for cause of FAA ground stop"
     },
     {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 18:00:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
-    },
-    {
-     "title": "Social Security should be shut down, this Republican senator says",
-     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 17:46:00 GMT",
-     "summary": "The program’s trust funds are expected to run out of money in the next six years.",
-     "source": "MarketWatch",
-     "zh": "Social Security should be shut down, this Republican senator says"
-    },
-    {
-     "title": "Rising healthcare costs push Medicare Part B premiums higher",
-     "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 17:28:00 GMT",
-     "summary": "The premiums will increase by $6.50, to $209.40 a month.",
-     "source": "MarketWatch",
-     "zh": "Rising healthcare costs push Medicare Part B premiums higher"
-    },
-    {
      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "pubDate": "Wed, 18 Nov 2026 17:17:44 GMT",
@@ -2471,14 +2415,6 @@
      "summary": "英国10月通胀连续第四个月上升，达到近一年来最高水平，但服务业通胀低于预期，显示国内价格压力尚未明显扩大，市场对英国央行12月加息的押注随之降温。 英国国家统计局（ONS）周三公布的数据显示， 10月消费者价格指数（CPI）同比上涨3.6%，高于9月的3.5%，为近一年来最高水平，与路透社调查的经济学家预期一致。油价上涨是推动整体通胀回升的主要因素。 不过，英国央行货币政策委员会（MPC）重点关注的服务业通胀维持在3.7%，低于市场预期的3.8%；食品通胀也从9月的1.3%降至0.9%。两项数据缓和了市场对国内通胀压力进一步扩散的担忧。 互换市场数据显示，交易员预计英国央行12月加息25个基点",
      "source": "华尔街见闻",
      "zh": "英国10月CPI同比升至3.6%创近一年新高，服务通胀低于预期"
-    },
-    {
-     "title": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611183934303415.html",
-     "pubDate": "Thu, 19 Nov 2026 00:27:29 +0800",
-     "summary": "美东时间周三，美股三大指数涨跌不一，道琼斯指数跌0.97%，标普500指数跌0.19%， 纳斯达克 综合 指数涨0.37%。 英伟达 高开低走，截至发稿，股价下跌2.35%，报151.805美元。消息面上， 英伟达 预计第四季度营收高于市场预期。 截至发稿，美元指数涨0.20%，报103.77，指数盘中创2025年4月以来最高水平。 消息面上，美联储理事沃勒表示，美联储若不释放次年1月加息的信号，就应在今年12月加息50个基点。 商品市场方面，国际金银价格下挫。截至发稿，现货 白银 价格跌5.02%，报45.01美元/盎司；现货 黄金 价格跌2.95%，报3735.52美元/盎司。 全球要闻 ",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫"
     },
     {
      "title": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期",
@@ -2503,6 +2439,54 @@
      "summary": "AI热潮推动华尔街投行今年迎来丰收年，但这场资本盛宴可能难以延续。 11月18日，彭博专栏作家保罗·J·戴维斯撰文指出， 高盛和摩根士丹利等大型投行已与AI驱动的市场繁荣深度绑定，其股价走势与纳斯达克100指数高度同步。一旦科技股出现调整，投行的交易收入和奖金池都可能受到冲击。即便AI股票没有大幅下跌，华尔街也很难在2027年复制今年近乎完美的市场环境。 今年的IPO热潮尤为突出。据彭博数据，Anthropic计划本周完成规模最高达1000亿美元的IPO，有望将2026年全球IPO募资总额推高至约2700亿美元，远超2021年创下的1600亿美元纪录。 不过，科技行业融资热情已显露降温迹象，股",
      "source": "华尔街见闻",
      "zh": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？"
+    },
+    {
+     "title": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利",
+     "link": "https://wallstreetcn.com/articles/3786221",
+     "pubDate": "Thu, 19 Nov 2026 00:04:16 +0800",
+     "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值状态不太可能长期持续。 “市场最终仍将面临修正。”拉加德表示， 最终决定估值能否站稳脚跟的，将是企业预期盈利，以及这些未来收益折现后所对应的价值。 欧洲央行警告AI投资热潮背后的融资风险 拉加德的表态",
+     "source": "华尔街见闻",
+     "zh": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利"
+    },
+    {
+     "title": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模",
+     "link": "https://wallstreetcn.com/articles/3786222",
+     "pubDate": "Wed, 18 Nov 2026 23:48:17 +0800",
+     "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 投资者认购需求或超越SpaceX 此次Anthropic IPO的投",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模"
+    },
+    {
+     "title": "New Zealand banks form fraud intelligence sharing network",
+     "link": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 18 Nov 2026 15:29:00 GMT",
+     "summary": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
+     "source": "Finextra",
+     "zh": "New Zealand banks form fraud intelligence sharing network"
+    },
+    {
+     "title": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟",
+     "link": "https://wallstreetcn.com/articles/3786214",
+     "pubDate": "Wed, 18 Nov 2026 23:15:36 +0800",
+     "summary": "腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，WorkBuddy日活突破1000万、年化收入超5亿美元，管理层定调——\"AI让现有业务用更少的人，多出来的人去建新业务。\" 周三晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米歇尔（James Mitchell）以及CFO罗硕瀚参与本次电话会。 总体而言，管理层在本次电话会上定调：AI投入正在产生可见回报，但算力限制对下一代模型训练带来真实压力。 腾讯表示，WorkBuddy的日活跃用户（DAU）超过1000万，每天消耗100万亿token， 最近七天的收",
+     "source": "华尔街见闻",
+     "zh": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟"
+    },
+    {
+     "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+     "pubDate": "Wed, 18 Nov 2026 15:13:39 GMT",
+     "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+     "source": "CNBC",
+     "zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
+    },
+    {
+     "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
+     "link": "http://finance.eastmoney.com/news/1351,202611183934332462.html",
+     "pubDate": "Wed, 18 Nov 2026 23:11:35 +0800",
+     "summary": "问： 中韩自贸协定第二阶段谈判经历了怎样的历程？ 答： 双方以两国元首重要共识为指引，推进中韩自贸协定第二阶段谈判，历经8年多时间，于近日实质性完成。2017年12月，习近平主席与时任韩国总统文在寅共同宣布启动第二阶段谈判，双方以负面清单模式开展投资和服务贸易谈判。2018年3月首轮谈判以来，双方共举行17轮正式谈判，深入推动有关规则和市场准入磋商，积累谈判成果。 2025年11月和2026年1月，习近平主席与韩国总统李在明两次会晤，双方同意加快推进中韩自贸协定第二阶段谈判，争取早日达成一致。为落实两国元首重要共识，2025年11月以来，双方举行多次部级会谈、首席谈判代表会议及工作组会议，努力",
+     "source": "东方财富资讯",
+     "zh": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问"
     }
    ]
   },

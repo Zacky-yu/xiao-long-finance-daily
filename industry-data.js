@@ -2418,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫"
     },
     {
-     "title": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期",
-     "link": "http://www.eeo.com.cn/2026/1119/1096540.shtml",
-     "pubDate": "Thu, 19 Nov 2026 00:27:07 +0800",
-     "summary": "菱势品牌累计销量突破10万辆以及菱势V8同步上市，成为五菱新能源进入新发展周期的起点。",
-     "source": "经济观察网",
-     "zh": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期"
-    },
-    {
      "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
      "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Wed, 18 Nov 2026 16:07:00 GMT",

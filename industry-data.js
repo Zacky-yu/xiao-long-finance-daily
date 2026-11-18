@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 09:24:20",
+ "generated_at": "2026/11/18 09:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -674,6 +674,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]",
+     "link": "https://electrek.co/2026/11/17/e-quipment-highlight-110-hp-greenworks-optimus-electric-utv-video/",
+     "pubDate": "Wed, 18 Nov 2026 01:28:03 +0000",
+     "summary": "Electric power tool brand Greenworks is expanding its battery-forward lineup in a huge way with the launch of OPTIMUS, an all-new, go-anywhere electric side-by-side utility vehicle that packs over 100 equivalent hp and a 40 mph top speed. more…",
+     "source": "Electrek",
+     "zh": "E-quipment highlight: 110 hp Greenworks OPTIMUS electric UTV [video]"
+    },
+    {
+     "title": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
+     "link": "https://cnevpost.com/2026/11/18/voyah-gains-independent-production-qualification/",
+     "pubDate": "Wed, 18 Nov 2026 01:23:17 +0000",
+     "summary": "Voyah has been added to China's latest list of approved vehicle manufacturers, a move it said will help improve its R&D, manufacturing and quality management systems. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy"
+    },
+    {
      "title": "Solarcycle, PedalPoint Recycling merge to feed a $7.4B US metals refinery",
      "link": "https://electrek.co/2026/11/17/solarcycle-pedalpoint-recycling-merge-to-feed-a-7-4b-us-metals-refinery/",
      "pubDate": "Tue, 17 Nov 2026 23:04:02 +0000",
@@ -720,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "Volkswagen’s revived Scout brand finally has vehicles coming off the line in South Carolina, but they’re validation units, not customer cars. Scout confirms the first deliveries of the Traveler SUV and Terra pickup won’t happen until 2028. That’s two years later than the 2026 production start the co",
      "source": "Electrek",
      "zh": "Scout Motors starts validation builds at $2B SC plant, deliveries in 2028"
-    },
-    {
-     "title": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV",
-     "link": "https://electrek.co/2026/11/17/toyota-adds-1000-off-0-apr-to-bigger-electric-suv/",
-     "pubDate": "Tue, 17 Nov 2026 20:19:21 +0000",
-     "summary": "The Woodland version is bigger and more powerful than the standard Toyota bZ , and it may be a better deal right now. more…",
-     "source": "Electrek",
-     "zh": "Toyota adds $1,000 off and 0% APR to its bigger, more powerful electric SUV"
     },
     {
      "title": "Waymo suspends freeway rides nationwide after California DMV order",
@@ -824,14 +832,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nio cited cash reserves of 56.7 billion yuan at the end of the second quarter and delivery growth in the first 10 months to address concerns. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Nio reports financial rumors to police as Hong Kong shares hover near record low"
-    },
-    {
-     "title": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV",
-     "link": "https://cnevpost.com/2026/11/17/geely-galaxy-m8-more-images/",
-     "pubDate": "Tue, 17 Nov 2026 04:49:36 +0000",
-     "summary": "The plug-in hybrid SUV features a 5-seat layout and shares the same dimensions as the 6-seat M9. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV"
     },
     {
      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "印尼越南信用卡拒付率突然翻倍，是当地发卡行新规还是我们订阅流程有问题？",
+     "link": "https://www.baijing.cn/question/638793",
+     "pubDate": "Wed, 18 Nov 2026 01:20:26 +0000",
+     "summary": "我们做 AI 写作订阅工具，印尼和越南刚起量，月流水约 8 万美元，订阅走 Stripe 加本地钱包。上个月印尼信用卡拒付率从 0.6% 涨到 1.8%，越南从 0.9% 涨到 2.1%，同期印尼发卡行对跨境订阅的 3DS 验证触发明显变严，很多老用户续费被拦。已经试过在支付页加本地语言说明、把试用转付费的扣款提醒提前 3 天发邮件，也在 Stripe 后台开了智能重试，但拒付率只降了 0.2 个百分点。现在卡在分不清是发卡行风控规则变化还是我们订阅描述在账单上不够清晰导致用户不认账。这种情况该先改账单描述和取消入口，还是先换本地收单通道？",
+     "source": "白鲸出海",
+     "zh": "印尼越南信用卡拒付率突然翻倍，是当地发卡行新规还是我们订阅流程有问题？"
+    },
+    {
      "title": "Sources: Wall Street execs and the NSA told Congress this week&apos;s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)",
      "link": "https://www.techmeme.com/261117/p66#a261117p66",
      "pubDate": "Tue, 17 Nov 2026 20:15:01 -0500",
@@ -1885,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "ID.me terms required for IRS sign-in",
      "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
      "pubDate": "Wed, 18 Nov 2026 00:51:45 +0000",
-     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 14 # Comments: 1",
+     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 27 # Comments: 2",
      "source": "Hacker News",
      "zh": "ID.me terms required for IRS sign-in"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Google's AI answers reducing search traffic by 40%",
      "link": "https://revscope.co/blog/search-seo-geo-2026/",
      "pubDate": "Wed, 18 Nov 2026 00:17:58 +0000",
-     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 20 # Comments: 9",
+     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 37 # Comments: 19",
      "source": "Hacker News",
      "zh": "Google's AI answers reducing search traffic by 40%"
     },
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
      "pubDate": "Tue, 17 Nov 2026 23:32:58 +0000",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 53 # Comments: 12",
+     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 61 # Comments: 17",
      "source": "Hacker News",
      "zh": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)"
     },
@@ -1981,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "link": "https://github.com/microsoft/onnxruntime",
      "pubDate": "Tue, 17 Nov 2026 23:18:49 +0000",
-     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 91 # Comments: 20",
+     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 105 # Comments: 23",
      "source": "Hacker News",
      "zh": "Microsoft's ONNX Runtime has disappeared from GitHub"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
      "source": "WIRED",
      "zh": "Best Early Amazon Black Friday Deals (2026)"
-    },
-    {
-     "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-     "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-     "pubDate": "Tue, 17 Nov 2026 22:44:46 +0000",
-     "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-     "source": "Ars Technica",
-     "zh": "Yet another satellite company is jockeying for a rocket—but this one makes sense"
     }
    ]
   },
@@ -2274,6 +2274,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 01:28:00 GMT",
+     "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears"
+    },
+    {
+     "title": "震荡市寻“攻守之道”，中银稳进广利3个月持有乘势而发",
+     "link": "http://www.eeo.com.cn/2026/1118/1094239.shtml",
+     "pubDate": "Wed, 18 Nov 2026 09:27:02 +0800",
+     "summary": "2026年四季度，投资者面对的市场，一方面权益端波动加大、板块轮动加快；另一方面债券端收益率持续下台阶。在多变的市场环境中，单一资产或很难同时兼顾“稳”与“进”。&nbsp; 在此背景下，二级债基采取股债搭配的策略，凭借“债打底、股增强”的属性，正成为震荡市中资产配置的重要选择之一。中银基金顺势推出中银稳进广利3个月持有期债券型证券投资基金，力争在有...",
+     "source": "经济观察网",
+     "zh": "震荡市寻“攻守之道”，中银稳进广利3个月持有乘势而发"
+    },
+    {
+     "title": "Russian crude exports reach four-month high as Ukrainian drones slam refineries",
+     "link": "https://seekingalpha.com/news/4673970-russian-crude-exports-reach-four-month-high-as-ukrainian-drones-slam-refineries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 20:25:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Russian crude exports reach four-month high as Ukrainian drones slam refineries"
+    },
+    {
+     "title": "NVIDIA projects ~75% fiscal 2028 revenue growth amid leadership transition",
+     "link": "https://seekingalpha.com/news/4673972-nvidia-projects-75-percent-fiscal-2028-revenue-growth-amid-leadership-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 17 Nov 2026 20:24:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NVIDIA projects ~75% fiscal 2028 revenue growth amid leadership transition"
+    },
+    {
+     "title": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
+     "link": "https://wallstreetcn.com/articles/3786129",
+     "pubDate": "Wed, 18 Nov 2026 09:22:24 +0800",
+     "summary": "亿万富翁投资者德鲁肯米勒（Stan Druckenmiller）表示， 面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 Druckenmiller认为，2027年下半年的经济形势可能会令人失望。目前他持有少量美元多头仓位，同时做空铜 。他说： 我们不做多股票，也不做空股票。我绝不敢做空。我们基本上在回避市场，目标是不亏钱。 Druckenmiller随后补充称： 我只是休息一下，可能是两天",
+     "source": "华尔街见闻",
+     "zh": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本"
+    },
+    {
      "title": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应",
      "link": "https://wallstreetcn.com/articles/3786144",
      "pubDate": "Wed, 18 Nov 2026 09:13:20 +0800",
@@ -2282,12 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应"
     },
     {
-     "title": "德鲁肯米勒：\"远离股市\"大幅削减持仓，看空铜价，当前市场能见度为记忆中最低",
-     "link": "https://wallstreetcn.com/articles/3786129",
-     "pubDate": "Wed, 18 Nov 2026 09:11:48 +0800",
-     "summary": "亿万富翁投资者德鲁肯米勒（Stan Druckenmiller）表示， 面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 Druckenmiller认为，2027年下半年的经济形势可能会令人失望。目前他持有少量美元多头仓位，同时做空铜 。他说： 我们不做多股票，也不做空股票。我绝不敢做空我们基本上在回避市场，目标是不亏钱。 Druckenmiller随后补充称： 我只是休息一下，可能是两天，",
-     "source": "华尔街见闻",
-     "zh": "德鲁肯米勒：\"远离股市\"大幅削减持仓，看空铜价，当前市场能见度为记忆中最低"
+     "title": "英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作",
+     "link": "http://stock.eastmoney.com/news/11228,202611183933697861.html",
+     "pubDate": "Wed, 18 Nov 2026 09:06:32 +0800",
+     "summary": "美东时间周二盘后， 英伟达 交出了“后黄仁勋时期”的首份财报。财报显示，2027 财年第三季度公司营收、盈利双双大幅跑赢分析师预期，同时上调新财年增长指引；但人事动荡、美国出口管制新规、毛利率阶段性承压等多重不确定性仍悬于头顶。 在财报电话会上，董事会明确表态无意让黄仁勋复职，临时CEO 科莱特·克雷斯则向强调业务一切照常，公司全球员工每天照常工作，“无缝衔接地完成了我们需要完成的事情”，并且“我们已与客户、供应商和合作伙伴沟通，他们百分之百支持我们。” 展望未来，尽管美国在经历中期选举“蓝色浪潮”之后，算力需求可能受到美国政策监管的潜在打压，但克雷斯强调：“无论从2027年还是延伸到2028",
+     "source": "东方财富资讯",
+     "zh": "英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作"
     },
     {
      "title": "Iridex anticipates $46M-$48M 2026 revenue as it targets 2027 profitability through San Jose move and portfolio review",
@@ -2378,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达上财季营收翻番首超千亿美元 董事会称未考虑黄仁勋“回归”"
     },
     {
-     "title": "打消50基点预期？美联储“三把手”：当前无需激进举措 加息节奏看AI！",
-     "link": "http://finance.eastmoney.com/news/1344,202611183933571721.html",
-     "pubDate": "Wed, 18 Nov 2026 08:21:40 +0800",
-     "summary": "美东时间周二（17日），纽约联储主席 威廉姆斯 （John Williams）表示，对美联储下个月大幅加息50个基点的市场预期泼了一盆冷水，但他同时指出，美联储确实需要降低通胀。 威廉姆斯 在接受最新采访时表示： “我认为目前的情况不需要采取激烈的行动。” 但与此同时， 威廉姆斯 也承认，最新通胀数据传递出了一个“非常明确的信号”。 “我们仍需努力确保及时、持续地将通货膨胀率降至 2% 左右。”他补充说。 作为纽约联储主席，威廉姆斯在联邦公开市场委员会（FOMC）兼任负责制定利率政策的副主席，与美联储理事一样拥有永久的投票权，被视作联储的“三号人物”。 威廉姆斯发表上述评论之际，最新公布的通胀",
-     "source": "东方财富资讯",
-     "zh": "打消50基点预期？美联储“三把手”：当前无需激进举措 加息节奏看AI！"
-    },
-    {
      "title": "上海国资与石药系基金出手，耀速科技加码AI器官芯片",
      "link": "https://wallstreetcn.com/articles/3786143",
      "pubDate": "Wed, 18 Nov 2026 08:12:50 +0800",
@@ -2418,6 +2450,22 @@ window.INDUSTRY_DATA = {
      "zh": "FAA pauses router installations as ground-stop investigation puts oversight in focus"
     },
     {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 23:30:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 23:15:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
      "title": "U.S. crude stockpiles rose 5.3M barrels last week, API says",
      "link": "https://seekingalpha.com/news/4673965-u-s-crude-stockpiles-rose-5_3m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 18:11:54 -0500",
@@ -2426,20 +2474,28 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. crude stockpiles rose 5.3M barrels last week, API says"
     },
     {
-     "title": "BioSyent declares CAD 0.055 dividend",
-     "link": "https://seekingalpha.com/news/4673967-biosyent-declares-cad-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 18:04:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BioSyent declares CAD 0.055 dividend"
+     "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+     "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 22:46:00 GMT",
+     "summary": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+     "source": "MarketWatch",
+     "zh": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say"
     },
     {
-     "title": "Campbell’s Company declares $0.25 dividend",
-     "link": "https://seekingalpha.com/news/4673966-campbell-s-company-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 18:02:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Campbell’s Company declares $0.25 dividend"
+     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 22:30:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Tue, 17 Nov 2026 22:15:00 GMT",
+     "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?"
     },
     {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
@@ -2456,62 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
      "source": "CNBC",
      "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
-    },
-    {
-     "title": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters",
-     "link": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
-     "pubDate": "Tue, 17 Nov 2026 20:28:07 GMT",
-     "summary": "VIX up four days in a row as options traders show fear unseen since April",
-     "source": "CNBC",
-     "zh": "Wall Street&apos;s fear gauge is surging again and this time it&apos;s not just about AI jitters"
-    },
-    {
-     "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-     "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 17:06:32 GMT",
-     "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
-     "source": "Financial Times",
-     "zh": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn"
-    },
-    {
-     "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-     "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
-     "pubDate": "Tue, 17 Nov 2026 15:36:43 GMT",
-     "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
-     "source": "CNBC",
-     "zh": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices"
-    },
-    {
-     "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
-     "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 15:33:25 GMT",
-     "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
-     "source": "Financial Times",
-     "zh": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings"
-    },
-    {
-     "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-     "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-     "pubDate": "Tue, 17 Nov 2026 14:34:48 GMT",
-     "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
-     "source": "CNBC",
-     "zh": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC"
-    },
-    {
-     "title": "AI grapples with the return of the ‘Antichrist’",
-     "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 12:20:22 GMT",
-     "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
-     "source": "Financial Times",
-     "zh": "AI grapples with the return of the ‘Antichrist’"
-    },
-    {
-     "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
-     "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
-     "pubDate": "Tue, 17 Nov 2026 08:09:20 GMT",
-     "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
-     "source": "Financial Times",
-     "zh": "Leak of 15mn Deutsche Bank files exposes systemic failures"
     }
    ]
   },

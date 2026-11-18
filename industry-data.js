@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 13:11:54",
+ "generated_at": "2026/11/18 13:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -306,14 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "TCL Zhonghuan seeks 98.5% of wafer unit to capture rising demand for 300mm AI chip wafers"
     },
     {
-     "title": "Top Ten (less 5) Vendors Of Server CPUs",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 01:01:38 +0000",
-     "summary": "Thanks to TrendForce for this one – the top five suppliers of CPUs for servers: The post Top Ten (less 5) Vendors Of Server CPUs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Top Ten (less 5) Vendors Of Server CPUs"
-    },
-    {
      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
      "pubDate": "Tue, 17 Nov 2026 22:37:22 +0000",
@@ -378,22 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
-     "title": "Make sure to take your seat at the Elektra Awards 2026",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
-     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Make sure to take your seat at the Elektra Awards 2026"
-    },
-    {
-     "title": "Government investments of $71.8bn speed militarisation of space",
-     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
-     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Government investments of $71.8bn speed militarisation of space"
-    },
-    {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
      "link": "https://www.eetimes.com/ltcc-solutions-for-next-generation-uwb-ble-devices/",
      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
@@ -408,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
-    },
-    {
-     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
-     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
-     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
-     "source": "Electronics Weekly",
-     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -442,14 +410,6 @@ window.INDUSTRY_DATA = {
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
     },
     {
-     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
-     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
-     "source": "Electronics Weekly",
-     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
-    },
-    {
      "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
      "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
      "pubDate": "Tue, 17 Nov 2026 09:16:07 +0000",
@@ -474,14 +434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
-     "title": "Decline And Fall",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
-     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
-     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Decline And Fall"
-    },
-    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Ba",
      "source": "Semiconductor Engineering",
      "zh": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)"
+    },
+    {
+     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
+     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
+     "source": "Semiconductor Today",
+     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
+    },
+    {
+     "title": "Lumentum ranked among Forbes America’s Best Companies",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
+     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum ranked among Forbes America’s Best Companies"
+    },
+    {
+     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
+     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
+     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
+     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
+     "source": "SemiWiki",
+     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
+    },
+    {
+     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
+     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
+     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
+     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
+     "source": "SemiWiki",
+     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
+    },
+    {
+     "title": "Taking a Tour of Canada’s Particle Accelerator",
+     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
+     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
+     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
+     "source": "EE Times",
+     "zh": "Taking a Tour of Canada’s Particle Accelerator"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1029,7 +1029,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+     "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+     "pubDate": "Wed, 18 Nov 2026 09:57:41 +0530",
+     "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o",
+     "source": "The Hacker News",
+     "zh": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers"
+    },
+    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1746,14 +1754,6 @@ window.INDUSTRY_DATA = {
      "zh": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
     },
     {
-     "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-     "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-     "pubDate": "Tue, 17 Nov 2026 16:50:18 +0530",
-     "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud",
-     "source": "The Hacker News",
-     "zh": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
-    },
-    {
      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
      "pubDate": "Mon, 16 Nov 2026 22:08:20 GMT",
@@ -1785,6 +1785,70 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "尼日利亚站投放 CPA 涨到 12 美元，是支付转化拖累还是素材问题？",
+     "link": "https://www.baijing.cn/question/638805",
+     "pubDate": "Wed, 18 Nov 2026 05:27:15 +0000",
+     "summary": "尼日利亚站最近投放数据有点看不懂。我们做的是 3C 配件独立站，团队 8 人，刚起量阶段，月投放预算大概 1.5 万美元。用 Meta 和 Google 跑拉各斯和阿布贾，前两周 CPA 还在 6-7 美元，这两周直接涨到 12 美元左右，落地页加购率还有 5%，但到支付成功这一步掉得厉害，银行卡和 USSD 两条通道的失败率加起来接近 40%，Paystack 后台看到不少 pending 订单最后没转成成功。素材我们换过三版，受众也收窄了，CPA 没降下来。现在卡在不知道该先压投放还是先修支付链路。像这种情况，判断是支付本地化没做好还是投放素材疲劳，你们一般看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚站投放 CPA 涨到 12 美元，是支付转化拖累还是素材问题？"
+    },
+    {
+     "title": "人类历史上首次：旅行者 1 号抵达 1 光日位置，飞行 49 年仍未真正飞出太阳系",
+     "link": "https://www.ithome.com/1/028/745.htm",
+     "pubDate": "Wed, 18 Nov 2026 05:26:32 GMT",
+     "summary": "IT之家 11 月 18 日消息，NASA 于 1977 年发射的旅行者 1 号探测器于 2026 年 11 月 18 日正式抵达距离地球 1 光日的位置，成为人类历史上首个达到这一距离的人造物体。 所谓 1 光日，是指光在真空中传播 24 小时所经过的距离，并非时间单位。以光速计算，地球向旅行者 1 号发送一条无线电指令，单程就需要约 24 小时，往返通信时间则约为 48 小时。 旅行者 1 号于 1977 年 9 月 5 日发射升空，至今已经飞行 49 年 2 个月有余。NASA 官方数据显示，旅行者 1 号此时距离地球约 259.02 亿公里。 NASA 表示，它仍然是距离地球最远的人造",
+     "source": "IT之家",
+     "zh": "人类历史上首次：旅行者 1 号抵达 1 光日位置，飞行 49 年仍未真正飞出太阳系"
+    },
+    {
+     "title": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券",
+     "link": "https://www.ithome.com/1/028/744.htm",
+     "pubDate": "Wed, 18 Nov 2026 05:26:30 GMT",
+     "summary": "IT之家 11 月 18 日消息，录音学院（NARAS）于 11 月 16 日公布第 69 届格莱美奖提名名单， 苹果 Apple TV 旗下《音乐魔法镇！》（Schmigadoon!）和《寡妇湾》（Widow's Bay）获得 2027 年格莱美提名。 IT之家注：《音乐魔法镇！》是 Apple TV 的音乐喜剧剧集，第一季于 2021 年播出，第二季于 2023 年播出，苹果 Apple TV 在 2024 年 1 月宣布不再续订。而本次获得提名的是百老汇舞台音乐剧改编版的原声专辑。 该剧舞台版于 2026 年在百老汇上演，并在今年托尼奖中获得包括“最佳音乐剧”在内的四项大奖；其原声专辑由",
+     "source": "IT之家",
+     "zh": "第 69 届格莱美奖提名名单公布：苹果《寡妇湾》《音乐魔法镇！》拿下入场券"
+    },
+    {
+     "title": "GPT-6.2“拉”了，一个神鬼二象性的模型",
+     "link": "https://www.huxiu.com/article/4906516.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 13:19:52 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜视觉中国 今日凌晨，灰测了半个月的GPT-6.2终于正式发布。 这次OpenAI带来的是GPT-6.2 Astra和Sol，一个旗舰，一个日常主力。 顶着Anthropic、Google压力端上桌的新模型，刚一发布，就在X上被骂成了筛子，超多人批评6.2干活不好用。 开发者Theo甚至写了个长文解释自己为什么讨厌GPT-6.2 Astra。总结一下他的观点： 阅读性真的很差。 Astra和人沟通的解释过于复杂，一大段字，而且常常让人看不懂，有很多防御性文案和莫名的口语表达。 长任务能力不行。干半天也不知道跑完了没，也不知道有没有成果。 遇到问",
+     "source": "虎嗅",
+     "zh": "GPT-6.2“拉”了，一个神鬼二象性的模型"
+    },
+    {
+     "title": "亚马逊欧洲站KYC审核卡了21天，两个人怎么排期才不耽误德国站补货？",
+     "link": "https://www.baijing.cn/question/638804",
+     "pubDate": "Wed, 18 Nov 2026 05:17:09 +0000",
+     "summary": "我们做户外露营配件，德国和法国站刚起量，月销大概8万欧，团队就4个人，其中2个运营兼着管账号。上个月德国站后台突然弹出KYC审核通知，要求补充受益人地址证明和公司对公账户流水，我们按要求传了两轮，第一轮说地址证明上的日期超过90天，第二轮补了新的又卡在“文件正在审核中”，到现在21天没动静。法国站同步被触发，西班牙和英国暂时正常。现在的问题是：德国站有3个ASIN库存只够卖两周，补货不敢发，怕审核不过压货；但运营每天还要盯广告和客服，实在抽不出人天天开case催。已经试过开case、联系卖家支持中文客服，都说让等。想请教有类似经历的同行，这种两人兼岗的情况下，KYC期间补货和催审的节奏到底怎么",
+     "source": "白鲸出海",
+     "zh": "亚马逊欧洲站KYC审核卡了21天，两个人怎么排期才不耽误德国站补货？"
+    },
+    {
+     "title": "AI陪伴，硬件的账该怎么算？",
+     "link": "https://www.tmtpost.com/8208289.html",
+     "pubDate": "Wed, 18 Nov 2026 13:16:13 +0800",
+     "summary": "AI陪伴核心是算清楚：硬件的增量体验，能否覆盖它带来的全部成本。",
+     "source": "钛媒体",
+     "zh": "AI陪伴，硬件的账该怎么算？"
+    },
+    {
+     "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
+     "link": "https://www.ithome.com/1/028/713.htm",
+     "pubDate": "Wed, 18 Nov 2026 05:11:00 GMT",
+     "summary": "IT之家 11 月 18 日消息，据看看新闻报道，11 月 17 日，2026 年 APEC 工商领导人峰会举行，格力电器董事长董明珠在现场主动寻找 机器人领域的合作机会 。 董明珠表示，具身智能机器人需要减速机、驱动器、伺服电机等核心零部件， 而格力已经研发机器人十几年 ，目前格力电器自动化生产线上的机器人全部由格力自主完成。 谈及合作，她更是主动向现场嘉宾发出邀请：“我相信我们会成为你很好的合作伙伴，你要什么部件，提供什么部件。” 格力电器 CMO 朱磊今年 4 月接受采访时表示 ， 目前公司已具备做出“人形机器人”的能力 ，所有机器人零部件都可以实现自研自产。格力累计投入使用的自主研制的",
+     "source": "IT之家",
+     "zh": "董明珠 APEC 现场求合作，称格力研发机器人十几年了"
+    },
+    {
+     "title": "黄仁勋开口想回来，英伟达反手就是三记耳光",
+     "link": "https://www.huxiu.com/article/4906512.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 13:06:43 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 视觉中国 宣布离职五天之后，黄仁勋开口了。 北京时间11月18日零点刚过，他在社交媒体发出辞职后的第一份公开声明。姿态放得很低。他承认在个人生活中犯了&ldquo;严重错误&rdquo;，&ldquo;给董事会带来了麻烦，对此深感懊悔&rdquo;，并把去留交回董事会，若认定回归符合最大利益，他将&ldquo;无比荣幸地响应这些呼声&rdquo;。 但真正该被关注的是夹在中间的那句话，&ldquo;在公司应对复杂的技术、市场、竞争和地缘政治形势的过程中，许多人仍在直接与我联系&rdquo;。 这句话不动声色地把底牌亮了出来，潜",
+     "source": "虎嗅",
+     "zh": "黄仁勋开口想回来，英伟达反手就是三记耳光"
+    },
     {
      "title": "美国手游 ATT 后买量归因窗口和回款周期怎么对齐？",
      "link": "https://www.baijing.cn/question/638803",
@@ -1882,36 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "抖音生服换帅：字节为什么派“红果掌门”去打美团？"
     },
     {
-     "title": "腾讯混元 Hy4 flash 模型官宣开源",
-     "link": "https://www.ithome.com/1/028/701.htm",
-     "pubDate": "Wed, 18 Nov 2026 04:36:17 GMT",
-     "summary": "IT之家 11 月 18 日消息， 腾讯混元今日宣布开源 Hy4 flash 模型 ，包含 Hy4 flash、Hy4 flash-FP8 和 Hy4 flash Base，开发者可在 GitHub、 Hugging Face、ModelScope 和 GitCode 下载部署。 腾讯混元官方预告， 正在加速开源 Hy4 模型 ，敬请期待。 Hy4 flash 定位迄今性价比最高的 Hy 模型 ，总参数量 224B，其中包含 64B Engram 参数，每个 token 激活 12B 参数，支持多模态输入与 100 万 token 上下文长度，API 价格较 Hy4 大幅降低。 Hy4 fla",
-     "source": "IT之家",
-     "zh": "腾讯混元 Hy4 flash 模型官宣开源"
-    },
-    {
-     "title": "波士顿动力人形机器人首次进入半导体制造领域，Atlas 明年在格罗方德工厂测试",
-     "link": "https://www.ithome.com/1/028/700.htm",
-     "pubDate": "Wed, 18 Nov 2026 04:32:15 GMT",
-     "summary": "IT之家 11 月 18 日消息，据外媒 Interesting Engineering 昨天报道，波士顿动力 Atlas 人形机器人即将首次进入半导体制造领域，格罗方德（GlobalFoundries）正准备从 2027 年初开始在旗下工厂测试 Atlas。 IT之家从原报道获悉，波士顿动力的四足机器人 Spot 此前已在格罗方德工厂投入运营。双方将在此合作中评估人形机器人“进厂打工”的潜在应用场景，并计划对特定任务展开早期测试。 对波士顿动力而言，此次合作意味着 Atlas 测试范围将从汽车行业进一步扩展，未来人形机器人真的有可能“进厂打工”。目前两家公司尚未透露 Atlas 将执行哪些具",
-     "source": "IT之家",
-     "zh": "波士顿动力人形机器人首次进入半导体制造领域，Atlas 明年在格罗方德工厂测试"
-    },
-    {
      "title": "美国手游买量CPA从18美元涨到34美元，素材迭代节奏该怎么调？",
      "link": "https://www.baijing.cn/question/638801",
      "pubDate": "Wed, 18 Nov 2026 04:31:30 +0000",
      "summary": "我们做休闲益智手游，北美（美国/加拿大）起量中，投放团队4人，月买量预算约25万美元。最近两个月Meta和AppLovin的CPA从18美元涨到34美元，同一批素材首周CTR还有1.8%，第二周就掉到0.9%。目前每周产出12条新素材，主要是换皮和换开头3秒，但跑量素材的生命周期从原来的10天缩到4天。试过加大达人二创和UGC混剪比例，成本没降下来。卡在素材产能跟不上衰减速度，想问问在北美市场这个预算量级下，素材迭代频率和单条素材的测试预算该怎么分配才合理？",
      "source": "白鲸出海",
      "zh": "美国手游买量CPA从18美元涨到34美元，素材迭代节奏该怎么调？"
-    },
-    {
-     "title": "盖世小鸡 × 地下城与勇士 DNF 官宣合作，将推多款联名键盘、手柄外设",
-     "link": "https://www.ithome.com/1/028/699.htm",
-     "pubDate": "Wed, 18 Nov 2026 04:31:26 GMT",
-     "summary": "IT之家 11 月 18 日消息，盖世小鸡今日宣布与《地下城与勇士》达成 深度联名合作 ，成为 DNF 端游、DNF 手游、DNF 卡赞三大产品线的独家外设合作伙伴，将推联名键盘、拉伸手柄与游戏手柄产品。 IT之家从联名公告获悉，盖世小鸡 ×DNF 端游独家联名键盘，采用铝坨坨质感机身，搭配鬼剑士专属键帽，还有磁轴架构， 将于 12 月发售 。 针对 DNF 手游，盖世小鸡选择以 X5 系列拉伸手柄作为联名载体。内置震动马达，适配手机、小平板，还有全新 DNF 定制外观， 产品正在筹备中 。 DNF 卡赞作为 DNF 宇宙中硬核动作的代表，对操控精度的要求也更高。 盖世小鸡打造了天王星、启明星",
-     "source": "IT之家",
-     "zh": "盖世小鸡 × 地下城与勇士 DNF 官宣合作，将推多款联名键盘、手柄外设"
     },
     {
      "title": "清华父子用一块玻璃，押中英伟达下一代万亿赌局",
@@ -1949,17 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Why is Gemini 4 Carbon taking so long?",
      "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
      "pubDate": "Wed, 18 Nov 2026 04:14:04 +0000",
-     "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "Why is Gemini 4 Carbon taking so long?"
-    },
-    {
-     "title": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
-     "link": "https://www.huxiu.com/article/4906505.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 12:12:38 +0800",
-     "summary": "本文来自微信公众号： 版面之外 ，作者：画画 前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说“不”的人，他叫哈维・琼斯，是一个在英伟达待了33年、却很少出现在公众视野里的人。 1993年，英伟达刚刚创立，他就进入了董事会。33年后，他成为英伟达历史上第一位董事会主席，负责主持新CEO遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了黄仁勋的对面。 一、一个硅谷老派经营者 如果只看履历，哈维・琼斯并不陌生于硅谷的创业与资本圈。 他毕业于乔治城大学数学与计算机科学专业，后来进入MIT斯隆管理学院。197",
-     "source": "虎嗅",
-     "zh": "哈维・琼斯：成就黄仁勋，赶走黄仁勋"
     },
     {
      "title": "韩国短剧平台分账回款周期普遍60天以上，是行业惯例还是我们合同没谈好？",
@@ -1970,34 +2002,10 @@ window.INDUSTRY_DATA = {
      "zh": "韩国短剧平台分账回款周期普遍60天以上，是行业惯例还是我们合同没谈好？"
     },
     {
-     "title": "手术机器人IPO火了，术锐一年只卖11台",
-     "link": "https://www.huxiu.com/article/4906494.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 12:06:18 +0800",
-     "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | 视觉中国 2026年，手术机器人企业迎来一轮IPO热潮。 精锋医疗、真健康相继登陆港股，华科精准、睿触接连冲刺资本市场，术锐也站到了科创板门口。 但在这轮IPO热潮中，术锐的商业化反差格外明显。 （图片来源：AI制图） 作为国产首款获批上市的单孔腔镜手术机器人企业 ，术锐已经完成了从技术研发到临床应用的跨越：累计完成3500多例手术，产品进入国内多家三甲医院，海外市场也开始出现项目进展。 但临床认可还没有充分转化为销售规模。 2025年，术锐全年仅售出11台设备 ，营业收入约8131万元，整机及配套设备收入占比78.03%，工具",
-     "source": "虎嗅",
-     "zh": "手术机器人IPO火了，术锐一年只卖11台"
-    },
-    {
-     "title": "How Warp Speed Works (2023)",
-     "link": "https://science.howstuffworks.com/warp-speed.htm",
-     "pubDate": "Wed, 18 Nov 2026 03:54:17 +0000",
-     "summary": "Article URL: https://science.howstuffworks.com/warp-speed.htm Comments URL: https://news.ycombinator.com/item?id=50541665 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "How Warp Speed Works (2023)"
-    },
-    {
-     "title": "南非清关时效波动这么大，5人小团队该怎么排补货节奏？",
-     "link": "https://www.baijing.cn/question/638799",
-     "pubDate": "Wed, 18 Nov 2026 03:50:12 +0000",
-     "summary": "我们做南非市场的3C配件独立站，起量中，月订单大概1200单，走约堡OR Tambo清关，主要用DHL和顺丰国际两条线。最近两个月同样申报资料，清关时长从平均4天拉到9天，最长一票卡了13天，导致两次断货，广告还在烧但落地页没货可卖。团队就5个人，我一个人兼采购和物流，没有专职关务，现在是按14天安全库存排补货，明显不够用了。试过提前备货到海外仓，但资金压得紧；也试过换清关行，报价涨了但时效没稳。卡在不知道该怎么定安全库存和补货周期——是按清关时效的哪个分位数来排，还是干脆把南非线拆成空运快线和海运慢线分开算？",
-     "source": "白鲸出海",
-     "zh": "南非清关时效波动这么大，5人小团队该怎么排补货节奏？"
-    },
-    {
      "title": "H-1B Executive Actions in 2026 [pdf]",
      "link": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
      "pubDate": "Wed, 18 Nov 2026 03:37:35 +0000",
-     "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "H-1B Executive Actions in 2026 [pdf]"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comments: 0",
      "source": "Hacker News",
      "zh": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer"
-    },
-    {
-     "title": "北美独立站 Shopify 转化率从 2.1% 掉到 1.3%，只有 3 个人该怎么排优化优先级？",
-     "link": "https://www.baijing.cn/question/638798",
-     "pubDate": "Wed, 18 Nov 2026 03:25:07 +0000",
-     "summary": "我们做户外露营配件独立站，Shopify 建站，主投 Meta 和 Google，主要市场是美国和加拿大，现在月销大概 8 万美元、刚过起量阶段，团队一共 3 个人，我兼运营和投放，另外两个分别管客服和发货。上个月开始加元区转化率从 2.1% 掉到 1.3%，美国区基本没动，同一套主题和结账流程，加元定价、运费门槛和税显示都按加拿大单独配过。已经试过重做 PDP 首屏、把评论组件前移、跑了两轮 A/B 测试，只有首屏改动有微弱正向，加元区还是没回来；现在卡在不知道先查结账漏斗、税运展示还是投放落地页一致性，三个人一周只能排一个方向。想请教按你们的经验，这种单市场下滑该用什么判断标准定优先级？",
-     "source": "白鲸出海",
-     "zh": "北美独立站 Shopify 转化率从 2.1% 掉到 1.3%，只有 3 个人该怎么排优化优先级？"
     },
     {
      "title": "Marco Rubio says there&apos;s \"zero evidence\" linking the recent FAA ground stop, Microsoft outage, and bank service issues, and the US isn&apos;t \"under systemic attack\" (Kiki Intarasuwan/CBS News)",
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once",
+     "link": "https://www.androidauthority.com/youtube-co-views-on-tv-3736335/",
+     "pubDate": "Wed, 18 Nov 2026 05:14:42 +0000",
+     "summary": "By guessing the total number of viewers in front of the TV.",
+     "source": "Android Authority",
+     "zh": "YouTube’s new ‘co-view’ count for TV estimates the number of people watching TV at once"
+    },
     {
      "title": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed",
      "link": "https://www.gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google now lets Gemini users opt out of AI training while keeping their chat history"
     },
     {
-     "title": "Google Home app will show estimated Nest Thermostat energy savings next month",
-     "link": "https://www.androidauthority.com/nest-thermostat-energy-savings-3736271/",
-     "pubDate": "Tue, 17 Nov 2026 21:46:24 +0000",
-     "summary": "Expanded sensor support and a a Dynamic Farsight update are also on the way in December.",
-     "source": "Android Authority",
-     "zh": "Google Home app will show estimated Nest Thermostat energy savings next month"
-    },
-    {
      "title": "YouTube ‘Co-Views’ try to guess how many people are watching your TV, rolling out now",
      "link": "https://9to5google.com/2026/11/17/youtube-co-views-tv/",
      "pubDate": "Tue, 17 Nov 2026 21:40:00 +0000",
@@ -2282,12 +2282,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+     "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+     "pubDate": "Wed, 18 Nov 2026 05:24:54 GMT",
+     "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+     "source": "CNBC",
+     "zh": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount"
+    },
+    {
+     "title": "Venture Global, China Gas upsize long-term LNG deal",
+     "link": "https://seekingalpha.com/news/4673996-venture-global-china-gas-upsize-long-term-lng-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 00:24:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Venture Global, China Gas upsize long-term LNG deal"
+    },
+    {
+     "title": "Bezos reveals Robert Pattinson was picked as James Bond on Friday",
+     "link": "https://seekingalpha.com/news/4673995-bezos-reveals-robert-pattinson-was-picked-as-james-bond-on-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 00:21:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bezos reveals Robert Pattinson was picked as James Bond on Friday"
+    },
+    {
+     "title": "Dolby forecasts FY 2027 revenue of about $1.42B amid flattish operating margins",
+     "link": "https://seekingalpha.com/news/4673994-dolby-forecasts-fy-2027-revenue-of-about-1_42b-amid-flattish-operating-margins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 00:12:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dolby forecasts FY 2027 revenue of about $1.42B amid flattish operating margins"
+    },
+    {
      "title": "微博三季度广告行业分化，AI和视频还填不上收入缺口",
      "link": "https://wallstreetcn.com/articles/3786162",
      "pubDate": "Wed, 18 Nov 2026 13:01:15 +0800",
      "summary": "今年前三季度，微博的营收几乎原地踏步，净利润却少了七成多。 11月17日，微博披露截至9月30日的三季度业绩：总营收4.102亿美元，同比下降7%。 按去年同期汇率计算，降幅为13%。归属微博的净利润2450万美元，同比降88.9%。 拉长到前三季度，累计营收12.854亿美元，与去年同期12.840亿几乎持平。 按财报数据计算，前两个季度收入同比增长约4%，下滑集中出现在三季度。 前三季度归属净利1.266亿美元，同比下降72%。 更贴近经营层面的经调整EBITDA，前三季度为3.351亿美元，同比下降27%。 广告及营销收入3.441亿美元，同比下降8%，固定汇率降幅14%。 据公告，下滑",
      "source": "华尔街见闻",
      "zh": "微博三季度广告行业分化，AI和视频还填不上收入缺口"
+    },
+    {
+     "title": "Anthropic IPO set to redraw venture capital’s power rankings",
+     "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 05:00:26 GMT",
+     "summary": "Small group of lesser-known firms primed for returns at multiples that would surpass larger, blue-chip rivals",
+     "source": "Financial Times",
+     "zh": "Anthropic IPO set to redraw venture capital’s power rankings"
+    },
+    {
+     "title": "The good and the bad of climate policy",
+     "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 05:00:16 GMT",
+     "summary": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
+     "source": "Financial Times",
+     "zh": "The good and the bad of climate policy"
     },
     {
      "title": "Wednesday’s Economic Calendar",
@@ -2314,46 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "W.T.B. Financial Corporation declares $1.85 dividend"
     },
     {
-     "title": "W.T.B. Financial declares $1.85 dividend",
-     "link": "https://seekingalpha.com/news/4673989-w-t-b-financial-declares-1_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 23:37:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "W.T.B. Financial declares $1.85 dividend"
-    },
-    {
-     "title": "“反内卷”下市场竞争趋于理性 中通快递Q3单票收入同比上涨13.7%｜财报解读",
-     "link": "http://hk.eastmoney.com/news/11223,202611183933862224.html",
-     "pubDate": "Wed, 18 Nov 2026 12:36:39 +0800",
-     "summary": "快递 “反内卷”持续推动， 中通快递 Q3单票收入出现较明显增长。 今日， 中通快递 （02057.HK）公布2026年第三季度未经审计业绩。期内，公司实现营业收入143.62亿元，同比增长21.0%；净利润同比增长1.4%，调整后净利润同比增长2.6%。完成包裹量102.41亿件，同比增长7.0%，核心 快递 业务单票收入同比上涨13.7%。 对于核心 快递 业务单票收入的同比增长， 中通快递 首席财务官颜惠萍表示，“这得益于高价值客户（含快速增长的平台逆向业务）占比提升带来的收入结构改善。” 中通快递创始人、董事长兼首席执行官赖梅松称，中国快递业持续受益于建设性的监管环境，“反内卷”已成为",
-     "source": "东方财富股票",
-     "zh": "“反内卷”下市场竞争趋于理性 中通快递Q3单票收入同比上涨13.7%｜财报解读"
-    },
-    {
-     "title": "Clorox declares $1.25 dividend",
-     "link": "https://seekingalpha.com/news/4673988-clorox-declares-1_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 23:35:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clorox declares $1.25 dividend"
-    },
-    {
-     "title": "Jensen Huang agrees to testify in Senate, Politico reports",
-     "link": "https://seekingalpha.com/news/4673986-jensen-huang-agrees-to-testify-in-senate-politico-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 17 Nov 2026 23:31:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jensen Huang agrees to testify in Senate, Politico reports"
-    },
-    {
-     "title": "沙特联军称对胡塞武装目标实施精确打击",
-     "link": "http://finance.eastmoney.com/news/11790,202611183933863578.html",
-     "pubDate": "Wed, 18 Nov 2026 12:30:10 +0800",
-     "summary": "当地时间11月18日，沙特阿拉伯主导的多国联军发言人图尔基·马利基在社交媒体上发文称，联军对也门胡塞武装的60个军事目标实施了精确打击。行动重点是削弱胡塞武装的弹道导弹与 无人机 能力、消除海上威胁，并摧毁相关地下设施和 无人机 装配储存场所。（央视新闻） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "沙特联军称对胡塞武装目标实施精确打击"
-    },
-    {
      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
      "pubDate": "Wed, 18 Nov 2026 04:27:45 GMT",
@@ -2362,36 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi"
     },
     {
-     "title": "美联储鹰声一片，12月加息几乎板上钉钉！金价还要跌？关注今夜会议纪要",
-     "link": "http://hk.eastmoney.com/news/11617,202611183933861931.html",
-     "pubDate": "Wed, 18 Nov 2026 12:27:23 +0800",
-     "summary": "现货 黄金 /美元在周二（11月17日）的交易中始终难以摆脱低位震荡的格局，全天在3837至3890美元的狭窄区间内反复拉锯，始终无法形成有效反弹，最终仅微跌0.18%，收报每盎司3849.17美元。2月交割的纽约期金同样表现平淡，收涨0.2%，结算价报3864.2美元。表面看，金价似乎止住了继续下探的脚步；但深入看，美元处于19个月高位附近、10年期美债收益率牢牢守在5%以上、美联储12月加息概率高达100%，这三股力量正把不孳息的 黄金 压得难以抬头。周三（11月18日）亚市早盘，现货 黄金 继续下挫，目前交投于3800美元/盎司附近。 无风险收益率高企，黄金的“性价比”被彻底碾压 支撑金",
-     "source": "东方财富股票",
-     "zh": "美联储鹰声一片，12月加息几乎板上钉钉！金价还要跌？关注今夜会议纪要"
-    },
-    {
-     "title": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
-     "link": "http://stock.eastmoney.com/news/1426,202611183933862952.html",
-     "pubDate": "Wed, 18 Nov 2026 12:27:19 +0800",
-     "summary": "中国证监会新闻发言人答记者问。问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "监管要求基金公司上报全部产品AI敞口？证监会：不属实"
-    },
-    {
      "title": "网传“监管要求基金公司上报全部产品AI敞口” 证监会新闻发言人回应",
      "link": "http://finance.eastmoney.com/news/1345,202611183933861858.html",
      "pubDate": "Wed, 18 Nov 2026 12:27:02 +0800",
      "summary": "问：近日，发现互联网上传播“监管要求基金公司上报全部产品AI敞口”相关信息，请问这一情况是否属实？ 答：该信息不属实。公募基金投资运作依照《证券投资基金法》等法律法规和基金合同约定进行，投资标的、投资比例由基金管理人按照基金合同和内部投资决策程序自主确定。中国证监会依法履行监管职责，未向基金管理人提出相关数据报送要求。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "网传“监管要求基金公司上报全部产品AI敞口” 证监会新闻发言人回应"
-    },
-    {
-     "title": "直击英伟达财报电话会，Token降价、旧芯片涨租",
-     "link": "http://finance.eastmoney.com/news/1354,202611183933864078.html",
-     "pubDate": "Wed, 18 Nov 2026 12:26:40 +0800",
-     "summary": "当地时间11月17日，在 英伟达 2027财年第三季度业绩电话会上，公司临时首席执行官兼首席财务官科莱特·克雷斯谈起了旧芯片的租金。新一代计算平台Vera Rubin已经批量出货，客户却仍在为推出多年的Hopper芯片续签长期租约，续租价格最高达到原价的两倍。与此同时，用户调用AI模型支付的单价还在下降。 当分析师追问紧俏的芯片该怎样分配时，克雷斯提到了“土地、 电力 和机房建筑”。 英伟达 关心的是，“在设备运抵的那个季度，客户能不能接上电，让机器跑起来”。按克雷斯给出的测算，大型 数据中心 若能早一个季度开机，运营商多出来的收入可能以百亿美元计算。 模型调用降价，旧芯片为何还能涨租 据克雷",
-     "source": "东方财富股票",
-     "zh": "直击英伟达财报电话会，Token降价、旧芯片涨租"
     },
     {
      "title": "涨价超100% 这一战略金属大爆发 A股公司稀缺（名单）",
@@ -2408,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
      "source": "CNBC",
      "zh": "Democrat Mary Peltola wins Alaska Senate election"
-    },
-    {
-     "title": "台海观澜 | 倒计时10天，谁掌台北",
-     "link": "http://www.eeo.com.cn/2026/1118/1095900.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:07:00 +0800",
-     "summary": "日本文化对台湾的影响，被沈伯洋精准捕捉并充分利用了。",
-     "source": "经济观察网",
-     "zh": "台海观澜 | 倒计时10天，谁掌台北"
     },
     {
      "title": "A股三大股指早盘集体下跌，算力租赁逆势大涨，恒指、恒科指齐跌超1%，京东大跌8%",
@@ -2450,22 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "三丰智能董事吴建军被立案调查并实施留置",
-     "link": "http://www.eeo.com.cn/2026/1118/1095862.shtml",
-     "pubDate": "Wed, 18 Nov 2026 11:48:24 +0800",
-     "summary": "公司董事吴建军被立案调查并实施留置措施。",
-     "source": "经济观察网",
-     "zh": "三丰智能董事吴建军被立案调查并实施留置"
-    },
-    {
-     "title": "两部门联合发布十大计量重点攻关项目",
-     "link": "http://www.eeo.com.cn/2026/1118/1095843.shtml",
-     "pubDate": "Wed, 18 Nov 2026 11:35:53 +0800",
-     "summary": "市场监管总局、工业和信息化部联合发布十大计量重点攻关项目，覆盖新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大领域。",
-     "source": "经济观察网",
-     "zh": "两部门联合发布十大计量重点攻关项目"
-    },
-    {
      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
      "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
      "pubDate": "Wed, 18 Nov 2026 03:30:51 GMT",
@@ -2490,22 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "海外算力新规落地！国资云产业链建设持续提速(名单)"
     },
     {
-     "title": "Three things to watch as Trump, Xi and Putin meet in China",
-     "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-     "pubDate": "Wed, 18 Nov 2026 03:25:32 GMT",
-     "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-     "source": "CNBC",
-     "zh": "Three things to watch as Trump, Xi and Putin meet in China"
-    },
-    {
-     "title": "Russia’s Putin addresses global CEOs in China",
-     "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 03:23:17 GMT",
-     "summary": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump",
-     "source": "Financial Times",
-     "zh": "Russia’s Putin addresses global CEOs in China"
-    },
-    {
      "title": "大厂跑步入局 AI互动影游会是下一个“AI短剧”吗？",
      "link": "http://finance.eastmoney.com/news/1354,202611183933847281.html",
      "pubDate": "Wed, 18 Nov 2026 11:16:38 +0800",
@@ -2520,6 +2464,62 @@ window.INDUSTRY_DATA = {
      "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
      "source": "Financial Times",
      "zh": "Nvidia has a chance to trade drama for durability"
+    },
+    {
+     "title": "Zelenskyy says Starshield speed curbs still in place over &apos;occupied territories&apos; of Ukraine",
+     "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+     "pubDate": "Wed, 18 Nov 2026 02:50:16 GMT",
+     "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+     "source": "CNBC",
+     "zh": "Zelenskyy says Starshield speed curbs still in place over &apos;occupied territories&apos; of Ukraine"
+    },
+    {
+     "title": "京东外卖减亏过半，获客回报仍待检验",
+     "link": "https://wallstreetcn.com/articles/3786158",
+     "pubDate": "Wed, 18 Nov 2026 10:44:59 +0800",
+     "summary": "外卖亏损大幅收窄，推动京东三季度利润回升。但在补贴投入下降之后，此前吸引来的用户能够留下多少，又能为核心零售贡献多少增量，仍有待验证。 11月17日晚，京东发布2026年第三季度财报，营收3095.93亿元，同比增长3.5%；归属于普通股股东的净利润65.03亿元，同比增长约23.3%；经调整净利润83.27亿元，同比增长43.7%。 利润改善的主要来源是新业务减亏。 三季度，京东集团经营利润由上年同期亏损10.51亿元转为盈利51.54亿元，同比改善62.05亿元。其中，新业务经营亏损从157.36亿元降至96.42亿元，减少60.94亿元，相当于集团经营利润同比改善规模的98.2%。 相比",
+     "source": "华尔街见闻",
+     "zh": "京东外卖减亏过半，获客回报仍待检验"
+    },
+    {
+     "title": "京东港股盘中跌超8%，摩根士丹利维持低配评级",
+     "link": "https://wallstreetcn.com/articles/3786154",
+     "pubDate": "Wed, 18 Nov 2026 10:39:14 +0800",
+     "summary": "京东三季度营收重回增长，但每股盈利不及预期，叠加摩根士丹利对消费前景发出警示，导致公司股价周三遭遇大幅抛售。 华尔街见闻提及 ，京东周二发布的财报显示，三季度净营收同比增长3.5%至3096亿元人民币，经营利润扭亏为盈， 但每股盈利0.88美元，较分析师一致预期的0.98美元低约10%，终结了此前连续八个季度超预期的纪录。 摩根士丹利随即发布报告， 消费市场仍然疲软，预计京东第四季度零售收入同比将基本持平，并维持低配评级。 周三盘初京东港股股价一度下跌8.7%，创下三个多月来最大日内跌幅。 此前周二京东美股ADR收盘下跌7.7%，报25.43美元。 零售与物流分化，消费复苏为核心变量 摩根士丹",
+     "source": "华尔街见闻",
+     "zh": "京东港股盘中跌超8%，摩根士丹利维持低配评级"
+    },
+    {
+     "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+     "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 02:17:18 GMT",
+     "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+     "source": "Financial Times",
+     "zh": "‘Witness the Wonders’: China touts miracle city for Trump summit"
+    },
+    {
+     "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 01:59:00 GMT",
+     "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing"
+    },
+    {
+     "title": "Medicare Part B premiums rise due higher healthcare spending",
+     "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 01:45:00 GMT",
+     "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+     "source": "MarketWatch",
+     "zh": "Medicare Part B premiums rise due higher healthcare spending"
+    },
+    {
+     "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 01:28:00 GMT",
+     "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 08:11:55",
+ "generated_at": "2026/11/18 08:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nvidia promises that revenue will keep soaring — for now",
+     "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+     "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+     "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+     "source": "TechCrunch AI",
+     "zh": "Nvidia promises that revenue will keep soaring — for now"
+    },
     {
      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
@@ -63,14 +71,6 @@
      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
      "source": "TechCrunch AI",
      "zh": "SEC reportedly investigating Nvidia amid Huang exit"
-    },
-    {
-     "title": "Google joins the tech outage trend by announcing it’s not having one",
-     "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-     "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
-     "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-     "source": "TechCrunch AI",
-     "zh": "Google joins the tech outage trend by announcing it’s not having one"
     },
     {
      "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
@@ -361,12 +361,28 @@
      "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
     },
     {
+     "title": "Make sure to take your seat at the Elektra Awards 2026",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/make-sure-to-take-your-seat-at-the-elektra-awards-2026-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 16:07:50 +0000",
+     "summary": "There's only three weeks to go until the long awaited Elektra Awards! Make sure you have your seat at the table. The post Make sure to take your seat at the Elektra Awards 2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Make sure to take your seat at the Elektra Awards 2026"
+    },
+    {
      "title": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures",
      "link": "https://www.digitimes.com/news/a20261117VL220/tesla-nvidia-tsmc-jensen-huang-bytedance.html",
      "pubDate": "Tue, 17 Nov 2026 16:05:00 GMT",
      "summary": "TSMC is the most-named employer after Nvidia, and ByteDance is the only Chinese company in the top 10.",
      "source": "DIGITIMES",
      "zh": "Musk backs Jensen Huang, but Tesla trails Big Tech peers in petition signatures"
+    },
+    {
+     "title": "Government investments of $71.8bn speed militarisation of space",
+     "link": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 15:30:34 +0000",
+     "summary": "Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace – the space consulting and market intelligence firm – […] The post Government investments of $71.8bn speed militarisation of space appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Government investments of $71.8bn speed militarisation of space"
     },
     {
      "title": "LTCC Solutions for Next Generation UWB/BLE Devices",
@@ -383,6 +399,14 @@
      "summary": "Design engineers and technical decision-makers working on medical and life science equipment must balance competing demands: high power density, thermal performance, compact dimensions, and low acoustic noise. This whitepaper provides practical insight into the causes of noise in space-constrained p",
      "source": "EE Times",
      "zh": "Minimizing Acoustic Noise in Space-Constrained Medical and Life Science Applications"
+    },
+    {
+     "title": "IC design challenges balance safety, longevity and portability in battery management systems",
+     "link": "https://www.electronicsweekly.com/news/business/ic-design-challenges-balance-safety-longevity-and-portability-in-battery-management-systems-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 14:00:31 +0000",
+     "summary": "Battery Management Systems (BMS) as a core power component has evolved into an intelligent and sophisticated system, writes Samudrapom Dam. The BMS plays a key role in battery pack longevity, […] The post IC design challenges balance safety, longevity and portability in battery management systems ap",
+     "source": "Electronics Weekly",
+     "zh": "IC design challenges balance safety, longevity and portability in battery management systems"
     },
     {
      "title": "The Anatomy of a Convergence Delta: Closing the Correlation Gap Between P&R and Sign-Off",
@@ -409,6 +433,14 @@
      "zh": "IQE raises 2026 revenue guidance further, to more than 40% growth"
     },
     {
+     "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 10:55:04 +0000",
+     "summary": "Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address space-constrained systems. The […] The post OptiMOS 7 switching-optimised 40 V power mosfets address AI ",
+     "source": "Electronics Weekly",
+     "zh": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers"
+    },
+    {
      "title": "Intesa Sanpaolo Finds Value Before Quantum Computers Are Ready",
      "link": "https://www.eetimes.com/intesa-sanpaolo-finds-value-before-quantum-computers-are-ready/",
      "pubDate": "Tue, 17 Nov 2026 09:16:07 +0000",
@@ -433,6 +465,22 @@
      "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
     },
     {
+     "title": "Decline And Fall",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 06:20:11 +0000",
+     "summary": "Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time […] The post Decline And Fall appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Decline And Fall"
+    },
+    {
+     "title": "Now’s the time to rethink the GPU/datacentre model says Penn",
+     "link": "https://www.electronicsweekly.com/news/business/nows-the-chance-to-rethink-the-gpu-datacentre-model-says-penn-2026-11/",
+     "pubDate": "Tue, 17 Nov 2026 06:15:06 +0000",
+     "summary": "“Jensen Huang’s spectacular demise could not have come at a worse time for the growing divide between investor optimism about AI’s long-term potential and concern over the timing and scale […] The post Now’s the time to rethink the GPU/datacentre model says Penn appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "Now’s the time to rethink the GPU/datacentre model says Penn"
+    },
+    {
      "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
      "link": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/",
      "pubDate": "Tue, 17 Nov 2026 00:56:29 +0000",
@@ -447,54 +495,6 @@
      "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt “Large language model (LLM) inference demands ever more memory capacity for larger models and batch sizes. High-Ba",
      "source": "Semiconductor Engineering",
      "zh": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)"
-    },
-    {
-     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
-     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
-    },
-    {
-     "title": "Lumentum ranked among Forbes America’s Best Companies",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum ranked among Forbes America’s Best Companies"
-    },
-    {
-     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
-     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
-     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
-     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
-     "source": "SemiWiki",
-     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
-    },
-    {
-     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
-     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
-     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
-     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
-     "source": "SemiWiki",
-     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
-    },
-    {
-     "title": "Taking a Tour of Canada’s Particle Accelerator",
-     "link": "https://www.eetimes.com/taking-a-tour-of-canadas-particle-accelerator/",
-     "pubDate": "Mon, 16 Nov 2026 17:52:31 +0000",
-     "summary": "Located on Canada’s west coast, TRIUMF’s normal-conducting cyclotron, unique materials probes, and irradiation facilities serve everything from quantum materials and radiation-hardened electronics to medical isotopes. The post Taking a Tour of Canada’s Particle Accelerator appeared first on EE Times",
-     "source": "EE Times",
-     "zh": "Taking a Tour of Canada’s Particle Accelerator"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1321,14 +1321,6 @@
    "total": 6,
    "items": [
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "NASA Launches Nuclear Power Systems Student Contest",
      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
      "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
@@ -1481,14 +1473,6 @@
      "zh": "SEOPS Signs Rideshare Deal With Stoke"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1535,14 +1519,6 @@
      "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
      "source": "Spaceflight Now",
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
-    },
-    {
-     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
     },
     {
      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -1777,6 +1753,86 @@
    "total": 18,
    "items": [
     {
+     "title": "美国科技服务接连出现故障：微软、苹果、AWS、航空管理系统之后，国家安全局机密通信网络也受影响",
+     "link": "https://www.ithome.com/1/028/601.htm",
+     "pubDate": "Wed, 18 Nov 2026 00:21:34 GMT",
+     "summary": "IT之家 11 月 18 日消息，美国多家科技企业近日接连遭遇技术故障，受影响范围从苹果消费者服务延伸至美国国家安全局（NSA）的机密通信网络。 从航空出行和银行交易，到美国国家安全局的机密工作，一连串技术故障正在扰乱美国社会的日常运转，令公众对老化技术基础设施愈发不信任。 今日凌晨，苹果因内部软件更新引发大范围服务中断，导致部分用户无法正常使用 iCloud、App Store、Apple Pay 等服务。与此同时，美国国家安全局内部用于传输机密信息的网络 NSANet 也出现故障。 据美国有线电视新闻网（CNN）和 CBS 新闻报道，美国国家安全局用于内部传输和共享机密信息的网络 NSAN",
+     "source": "IT之家",
+     "zh": "美国科技服务接连出现故障：微软、苹果、AWS、航空管理系统之后，国家安全局机密通信网络也受影响"
+    },
+    {
+     "title": "摩根士丹利：中国正在变成全球制造业的\"操作系统\"",
+     "link": "https://www.huxiu.com/article/4906419.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:21:24 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：创新区研究组 我们先讲个场景： 贵州贵安，一家轮胎厂。 这厂子以前排生产计划，一周的单子怎么排，计划员对着电脑要算24小时。去年AI进场，一小时，排完。 省下的23小时只是账面上的收益，真正变了的是这家厂的流程： 在\"人做决定\"和\"机器动手\"之间，多插进来一层会思考的东西。 这一层如果只长在贵安，是一条新闻。 如果它长进中国几十万家工厂，那是另一件事。 摩根士丹利最近的一份重头报告，名字叫《China's Next Industrial Revolution》，讲的就是这另一件事。报告说，全球制造业相关的总盘子，将从12万亿美元走向50万亿美元",
+     "source": "虎嗅",
+     "zh": "摩根士丹利：中国正在变成全球制造业的\"操作系统\""
+    },
+    {
+     "title": "6G开始发入场券了，唯独没点设备商的名",
+     "link": "https://www.huxiu.com/article/4906418.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:19:26 +0800",
+     "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 11月17日，工信部办公厅一份复函，把6G的大动作摆上了台面。 北京、河北、上海、江苏、浙江、安徽、湖北、广东，8个省市获批开展6G创新发展部省协同试点。 很多人的第一反应，是拿这事对标2016年的5G试点通知。当年搞5G技术试验，是把华为、中兴、诺基亚、爱立信这些设备商叫到怀柔，样机拉过去，大规模天线、新型多址一轮一轮地测。 这回不一样。名单给的是省市，没点任何一家设备商的名。 于是有人嘀咕：是不是6G还太早期，设备商连能测的东西都拿不出来？ 这个直觉是错的。6G不是起点低，是组织方式整个换了。 当年5G是怎么走过来的 2016",
+     "source": "虎嗅",
+     "zh": "6G开始发入场券了，唯独没点设备商的名"
+    },
+    {
+     "title": "美国加州叫停 Waymo 高速公路运营：无人驾驶出租车曾试图超越公路巡警",
+     "link": "https://www.ithome.com/1/028/600.htm",
+     "pubDate": "Wed, 18 Nov 2026 00:15:22 GMT",
+     "summary": "IT之家 11 月 18 日消息，据科技媒体 Engadget 今天报道，美国加利福尼亚州 DMV（车辆管理局）已禁止 Waymo 无人驾驶出租车在加州高速公路运营。该机构认为， Waymo 的无人驾驶运营对公共安全构成迫在眉睫的威胁 。 IT之家从原报道获悉，加州 DMV 列出了 Waymo 近期的违规事件：在伯灵格姆附近，三辆 Waymo 驶入受限制施工区域； 还有一辆 Waymo 曾试图超越一辆疏导交通的公路巡警车辆 。 同时，Waymo 旗下无人驾驶出租车曾多次试图穿过高速施工区域。该公司自今年 5 月起主动暂停高速公路服务，并于 6 月召回 3800 辆汽车。今年 7 月，Waymo",
+     "source": "IT之家",
+     "zh": "美国加州叫停 Waymo 高速公路运营：无人驾驶出租车曾试图超越公路巡警"
+    },
+    {
+     "title": "芯片供不应求，台积电却开始给客户“验资”？",
+     "link": "https://www.huxiu.com/article/4906417.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:14:51 +0800",
+     "summary": "本文来自微信公众号： 反熵 ，作者：一笑 全球最不愁卖芯片的企业，开始更加关心客户有多少钱了。 11月16日，台湾《工商时报》援引业内人士消息，台积电依据客户财务状况核定信用额度。如果订单超过额度，客户就需要额外拿出现金，部分客户还得提前付款，才能锁定产能。 台积电董事长魏哲家在10月的财报电话会上还透露，已派团队赴美国查看数据中心建设和供电情况。他同时表示，AI芯片需求仍然超过供应。 芯片供不应求，制造商却开始仔细调查客户的资金实力。当整个AI产业都在争抢芯片时，台积电为什么反而要确认，客户究竟付不付得起钱？ 01订单背后的钱 467.2亿美元，是台积电今年第三季度的营收，同比增长41.2%",
+     "source": "虎嗅",
+     "zh": "芯片供不应求，台积电却开始给客户“验资”？"
+    },
+    {
+     "title": "冲击人类史上最大 IPO、发行价每股 70~78 美元：Anthropic 已获准上市，代码为“ANT”",
+     "link": "https://www.ithome.com/1/028/599.htm",
+     "pubDate": "Wed, 18 Nov 2026 00:12:10 GMT",
+     "summary": "IT之家 11 月 18 日消息，根据美国证券交易委员会（SEC）昨日（11 月 17 日）公示的上市注册文件，Anthropic 的 A 类普通股已获准在纳斯达克全球精选市场上市， 股票代码为“ANT”，IPO 发行价区间维持每股 70 至 78 美元 （现汇率约合 467.5 至 521 元人民币） 不变。 Form 8-A12B：公司申请证券在纳斯达克等交易所挂牌的登记表，通常会写明交易所、证券类别和拟用股票代码。Form S-1 / S-1/A：IPO 招股说明书及修订稿，包含发行股数、价格区间、募资用途、风险因素和财务资料。 IT之家注：纳斯达克全球精选市场（Nasdaq Globa",
+     "source": "IT之家",
+     "zh": "冲击人类史上最大 IPO、发行价每股 70~78 美元：Anthropic 已获准上市，代码为“ANT”"
+    },
+    {
+     "title": "香港麦理浩径野猪成群，10分钟帐篷被扫荡一空",
+     "link": "https://www.huxiu.com/article/4906416.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:09:30 +0800",
+     "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《香港麦理浩径野猪成群，10分钟帐篷被扫荡一空！》 今年8月，一队驴友在香港麦理浩径咸田湾刚扎好帐篷，野猪便循着食物气味过来，叼走背包，当场咬烂，里面的食物也没保住。帐篷同样被拱烂，好在人没受伤。 十天后，又有一队驴友在同一个营地遭了殃。帐篷刚搭好，野猪就钻进来撕咬背包，不到十分钟，食物被扫荡一空。隔壁帐篷里的女生不敢出去，只能把吃的往外扔，等它吃完离开。 后来有人听劝，把背包挂到树上，保住了行李；另有人把包往地上一放就休息，包被拱破。入夜后，野猪还冲撞过帐篷。 麦理浩径很公平，走累的人有地方吃饭，走累的猪也有。 隔着手机看，哥们儿实惨。",
+     "source": "虎嗅",
+     "zh": "香港麦理浩径野猪成群，10分钟帐篷被扫荡一空"
+    },
+    {
+     "title": "AI 时代，ERP 实施大洗牌，已经开始了",
+     "link": "https://www.huxiu.com/article/4906415.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:09:06 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《AI 时代，ERP 实施大洗牌，已经开始了！》 最近，麦肯锡发布了报告《我们所熟知的ERP系统即将终结？》 麦肯锡声称：在AI的介入下，ERP实施工作量将【至少】减少50%，而实施周期则将降低一半。 以方案设计与系统配置为例，假设原本需要6～9个月的周期，现在有了AI参与，只需要2～3个月。缩减2/3。 更重要的是，麦肯锡直言：大部分ERP实施服务商都还没有用AI重构实施流程，而ERP厂商则正在加大对AI交付工具的投入，从而提升对实施的影响力。 这就带来了2个问题： 1、如果客户发现，过去需要一大群实施顾问完成的工作，现在可以借助",
+     "source": "虎嗅",
+     "zh": "AI 时代，ERP 实施大洗牌，已经开始了"
+    },
+    {
+     "title": "黄仁勋真的能回归吗？",
+     "link": "https://www.huxiu.com/article/4906414.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 08:06:20 +0800",
+     "summary": "本文来自微信公众号： TechSugar ，作者：谈芯 11月12日，黄仁勋对外宣布卸下英伟达总裁、CEO以及董事会成员的身份。谁也没料到，短短几天之后，希望他回来的声音就铺天盖地传开，硅谷、华尔街，还有不少政坛人士都卷进了这场请愿里。到11月17日，这份线上联合署名已经积累了大约18万个签名，马斯克、Y Combinator的陈嘉兴、Epic的蒂姆・斯威尼这些科技圈熟面孔都公开站出来支持。签名的人里有股东，也有不少自称英伟达内部员工的人。发起请愿的人并没有逼着董事会立刻把他放回原位，他们想要的，是在独立调查把事情查清楚之前，先给黄仁勋一个正常申辩的机会，不该在结论出来之前，就先被舆论定了性。",
+     "source": "虎嗅",
+     "zh": "黄仁勋真的能回归吗？"
+    },
+    {
+     "title": "数毛社称《GTA6》游戏 CPU 需求过高，PS5 Pro 难以实现 40 帧",
+     "link": "https://www.ithome.com/1/028/598.htm",
+     "pubDate": "Wed, 18 Nov 2026 00:04:07 GMT",
+     "summary": "IT之家 11 月 18 日消息，Digital Foundry（数毛社）在最新一期 DF Direct Weekly 节目中表示，《GTA6》这款开放世界大作对 CPU 要求十分高，导致 PS5 Pro 在内的本世代主机只能以最高 30 帧运行。 IT之家注意到，Rockstar 直到游戏发售前不到一周才确认《GTA5》在所有主机最高 30 帧，此前该问题备受玩家关注。 数毛社表示，当游戏处于 30 帧模式时，主机在每帧拥有 33.3 毫秒运算时间算出整个世界、NPC 和物理效果。如果将帧率提升至 60 帧，每帧可用运算时间将缩短至 16.7 毫秒，因此 60 FPS 实在是不太现实。 至于",
+     "source": "IT之家",
+     "zh": "数毛社称《GTA6》游戏 CPU 需求过高，PS5 Pro 难以实现 40 帧"
+    },
+    {
      "title": "Stripe backer Atomico calls for Europe to own its success stories",
      "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
      "pubDate": "Wed, 18 Nov 2026 00:01:00 +0000",
@@ -1791,22 +1847,6 @@
      "summary": "Tim Fernholz / TechCrunch : Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff &nbsp; &mdash;&nbsp; Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, en",
      "source": "Techmeme",
      "zh": "Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)"
-    },
-    {
-     "title": "美国中期选举，选的是啥？",
-     "link": "https://www.huxiu.com/article/4905380.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 08:00:00 +0800",
-     "summary": "美国中期选举到底选的是啥？中期选举就是两院议员大换血，直接影响总统后两年做事顺不顺。总统政党要是能两院都占多数，政策推得飞快。",
-     "source": "虎嗅",
-     "zh": "美国中期选举，选的是啥？"
-    },
-    {
-     "title": "人生不止一座山：从三次珠峰攀登到耶鲁课堂",
-     "link": "https://www.huxiu.com/article/4906408.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 07:56:52 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：吴皓（汉世纪投资的管理合伙人，复旦大学物理学学士，美国南加大电气工程博士。拥有超过二十年的全球资本市场、企业领导和科技投资经验。曾担任过纳斯达克上市公司Sky Solar的董事长兼首席执行官，曾任全美华人金融协会TCFA会长。著有《心向顶峰：登顶七大洲最高峰的故事》一书。），题图来自：秦朔朋友圈&nbsp; 前不久，在耶鲁大学管理学院参加&ldquo;耶鲁创新学者项目&rdquo;期间，碰到了老朋友秦朔。聊天时谈起这些年的登山经历，从珠峰到南极，不知不觉讲了不少故事。 秦朔听完说，你应该把这些经历写一篇文章。 想想也是。从2005年第一次攀登乞力马扎罗",
-     "source": "虎嗅",
-     "zh": "人生不止一座山：从三次珠峰攀登到耶鲁课堂"
     },
     {
      "title": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
@@ -1825,54 +1865,6 @@
      "zh": "TGA 2026 各奖项入围游戏完整名单公布，《GTA 6》8 项提名领跑"
     },
     {
-     "title": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
-     "link": "https://www.ithome.com/1/028/595.htm",
-     "pubDate": "Tue, 17 Nov 2026 23:43:51 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 18 日星期三，今天的重要科技资讯有： 1. 英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO 英伟达新任董事长哈维・琼斯在财报电话会议上表示，黄仁勋因个人行为违反公司准则辞任，董事会一致接受辞呈且无意让其回归。此前黄仁勋曾表态愿意重返公司出任 CEO。>> 查看详情 国家广播电视总局、民政部 11 月 17 日发布《关于进一步加强老年人广电视听公共文化服务工作的通知》，要求聚焦老年人美好精神文化生活新需求，着力推进广电视听相关基础设施和技术建设，着力增加内容特别是精品内容的生产供给。>> 查看详情 2. 2026 年 11 ",
-     "source": "IT之家",
-     "zh": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断..."
-    },
-    {
-     "title": "老黄那根针",
-     "link": "https://www.huxiu.com/article/4906407.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 07:43:01 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 迟早会戳破什么东西 要么是一层什么东西，要么是一个什么泡泡。 先普及一个常识，这点在中国人心目中到今天都未必达成了共识，所以一定要反复强调强调再强调：消灭有钱人不会只消灭有钱人而留下财富，只会连创造财富的能力一起消灭。 饭不是从锅里长出来的，商品也不是从货架上面直接刷新出来的，企业也不是像玩游戏一下点个鼠标“建造”，就自动能够拥有组织能力和生产能力。 娃哈哈大小姐已经用自己的亲身经历说明了，就算是一个成熟的不能再成熟的摊子，只要把最上面那个人换掉，哪怕是换成自己的亲闺女，只要接班人善于折腾勇于折腾，就一定能在最短时间内把这个成熟摊子折腾垮。更",
-     "source": "虎嗅",
-     "zh": "老黄那根针"
-    },
-    {
-     "title": "英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者",
-     "link": "https://www.ithome.com/1/028/594.htm",
-     "pubDate": "Tue, 17 Nov 2026 23:42:46 GMT",
-     "summary": "北京时间 11 月 18 日，AI 芯片巨头英伟达公司今天发布了 2027 财年第三季度财报。财报发布后，英伟达临时 CEO 科莱特 · 克雷斯 (Colette Kress)、新任董事会主席哈维 · 琼斯 (Harvey Jones) 出席了电话会议，回答分析师提问。 这是黄仁勋辞去 CEO 后，英伟达首次举行财报电话会议，许多问题正等待解答。 以下是第三财季财报和电话会议要点： —— 英伟达第三财季营收为 1158.44 亿美元，较上年同期的 570.06 亿美元增长 103%；净利润为 652.87 亿美元，较上年同期的 319.10 亿美元增长 105%。 —— 琼斯发表了开场讲话。他",
-     "source": "IT之家",
-     "zh": "英伟达 Q3 电话会议：公司业务一切照常，不会急于寻找黄仁勋继任者"
-    },
-    {
-     "title": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini",
-     "link": "https://www.ithome.com/1/028/593.htm",
-     "pubDate": "Tue, 17 Nov 2026 23:40:07 GMT",
-     "summary": "IT之家 11 月 18 日消息， 微软昨日（11 月 17 日）宣布正式推出 Microsoft-Decision-1.1 决策 AI 模型， 目前已在 Microsoft Foundry、OpenRouter 和 Vercel 平台上线。 该模型面向企业级软件中的高频决策场景，可帮助应用在路由、分类、优先级排序、内容核验和工作流控制等任务中快速做出结构化判断。 价格方面，Microsoft Foundry 的全球标准版输入 token 定价为每百万 token 0.042 美元 （IT之家注：现汇率约合 0.28 元人民币） ，输出 token 免费；美国数据区、欧盟及亚太数据区价格分别为",
-     "source": "IT之家",
-     "zh": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini"
-    },
-    {
-     "title": "出国住民宿的中产，不想免费刷碗了",
-     "link": "https://www.huxiu.com/article/4906406.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 07:38:17 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：需要铂金包的妈咪 高价订下海外民宿，还得给房东免费做家务。 01 上周，闺蜜Cici从意大利佛罗伦萨度假归来，国贸喝咖啡时，我看她有些憔悴，以为是时差没倒过来。 她却摆摆手，开始诉苦，说自己花钱去欧洲当了回免费保洁员。 之前为了体验托斯卡纳的复古风情，她在爱彼迎订下阿诺河畔的百年老宅公寓，每晚房费折合人民币2000多元，结账时还额外付了800元清洁费。 可入住当天，她和老公推开门还没来得及欣赏老宅的复古花砖，餐桌上摆放的塑封房屋守则便给了他们下马威。 文件里冷冰冰地规定次日上午10点前必须离开，出门前还得把用过的锅碗瓢盆全部洗净擦干并归位到橱柜里。 更离谱的",
-     "source": "虎嗅",
-     "zh": "出国住民宿的中产，不想免费刷碗了"
-    },
-    {
-     "title": "私家车接入特斯拉Robotaxi，下个月能自己挣钱？马斯克又画了一个饼",
-     "link": "https://www.huxiu.com/article/4906404.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 07:37:57 +0800",
-     "summary": "本文来自微信公众号： 赛博汽车 ，作者：章涟漪，编辑：姜田双 马斯克又来“剧透式”回复网友了。 北京时间11月17日凌晨，一位奥斯汀的Uber司机在社交平台X上抱怨称，他全程用FSD跑网约车，但平台抽成后只能拿到乘客车费的49%到63%。他不想再亲自开车了，希望让自己的Model Y直接加入特斯拉的Robotaxi网络，自己出去接单挣钱。 他期待，摘下Uber帽子，成为一名小型Robotaxi车队经理。 对此，马斯克回复：“即将推出。如果一切顺利，下个月可能开始试运行。”他还补了一句：“管理一支车队，远比自己开一辆车要好得多。” 而就在几天前，特斯拉刚刚向部分受邀用户开放了Cybercab的个",
-     "source": "虎嗅",
-     "zh": "私家车接入特斯拉Robotaxi，下个月能自己挣钱？马斯克又画了一个饼"
-    },
-    {
      "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)",
      "link": "https://www.techmeme.com/261117/p62#a261117p62",
      "pubDate": "Tue, 17 Nov 2026 18:35:04 -0500",
@@ -1889,34 +1881,18 @@
      "zh": "Review: Nubia Redmagic 12 Pro | Camera"
     },
     {
-     "title": "Steam 突发大规模服务故障：游戏下载、好友列表、云存档均受影响",
-     "link": "https://www.ithome.com/1/028/592.htm",
-     "pubDate": "Tue, 17 Nov 2026 23:33:00 GMT",
-     "summary": "IT之家 11 月 18 日消息，Valve 旗下游戏平台 Steam 当地时间 11 月 17 日突发服务故障，商店、游戏下载、好友列表及云存档等多项在线功能受到影响，部分用户即使网络连接正常，也会遇到“No Connection”（无连接）错误。 据多个外媒报道，此次故障导致 Steam 多项依赖网络的功能无法正常使用。用户反馈称，Steam 客户端无法下载游戏，好友列表无法加载，Steam Cloud 云存档无法获取，商店页面也只能显示部分内容。 同时，故障监测平台 Downdetector 的报障数量迅速飙升，刚刚一度收到接近 4.8 万条 Steam 故障报告。 IT之家注：该平台主",
-     "source": "IT之家",
-     "zh": "Steam 突发大规模服务故障：游戏下载、好友列表、云存档均受影响"
-    },
-    {
      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
      "pubDate": "Tue, 17 Nov 2026 23:32:58 +0000",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 29 # Comments: 3",
      "source": "Hacker News",
      "zh": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)"
-    },
-    {
-     "title": "耐克惨遭阶级滑落",
-     "link": "https://www.huxiu.com/article/4906401.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 07:31:36 +0800",
-     "summary": "本文来自微信公众号： 远川消费评论 ，作者：白子靖，题图来自：视觉中国 今年9月底，金&middot;卡戴珊闪现上海，为的是给自家塑身衣品牌SKIMS和耐克共同打造的NikeSKIMS站台。 这家店落地于上海南京西路商圈的兴业太古汇，品类和价格都对标着lululemon，开业当天门口的队伍排了3个小时，国庆假期，试衣间还得扫码取号。 NikeSKIMS门口排队情况 不知道的还以为是卡戴珊又显化成功了，毕竟这样的人气，对耐克来说已经恍如隔世，上一段高光期还是2020年左右，鞋迷和黄牛熬夜蹲守等着抢它的倒钩AJ1。 遥想当年，只是鞋身上的对勾掉了个头，溢价一度超500%，175美元的鞋，转手能卖到",
-     "source": "虎嗅",
-     "zh": "耐克惨遭阶级滑落"
     },
     {
      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
      "link": "https://github.com/microsoft/onnxruntime",
      "pubDate": "Tue, 17 Nov 2026 23:18:49 +0000",
-     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 46 # Comments: 7",
+     "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 54 # Comments: 11",
      "source": "Hacker News",
      "zh": "Microsoft's ONNX Runtime has disappeared from GitHub"
     },
@@ -1980,7 +1956,7 @@
      "title": "Latent Lattice Language Models",
      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
      "pubDate": "Tue, 17 Nov 2026 22:17:18 +0000",
-     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 10 # Comments: 3",
+     "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 11 # Comments: 3",
      "source": "Hacker News",
      "zh": "Latent Lattice Language Models"
     },
@@ -1996,7 +1972,7 @@
      "title": "Quad9's withdrawal from France: A canary in the coal mine",
      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
      "pubDate": "Tue, 17 Nov 2026 22:13:34 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 173 # Comments: 38",
+     "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 187 # Comments: 46",
      "source": "Hacker News",
      "zh": "Quad9's withdrawal from France: A canary in the coal mine"
     },
@@ -2012,7 +1988,7 @@
      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
      "link": "https://calif.io/java4shell/",
      "pubDate": "Tue, 17 Nov 2026 21:11:28 +0000",
-     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 399 # Comments: 106",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 428 # Comments: 110",
      "source": "Hacker News",
      "zh": "Java4Shell: RCE in OpenJDK when processing Base64"
     }
@@ -2273,12 +2249,44 @@
    "total": 13,
    "items": [
     {
+     "title": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”",
+     "link": "https://wallstreetcn.com/articles/3786136",
+     "pubDate": "Wed, 18 Nov 2026 08:27:34 +0800",
+     "summary": "华尔街见闻提及 ，美东时间17日周二美股盘后，英伟达公布，截至2026年10月25日的公司2027财年第三财季，营收同比增长103.1%至1158亿美元，不但公司史上首次单季营收突破1000亿美元，而且较分析师预期高约5.9%，也明显高于该司自身指引中值1080亿美元。 随后英伟达举行了2027财年第三季度财报电话会议，这也是公司经历高层巨震后的首场业绩沟通会。针对市场最关注的换帅问题，英伟达董事长Harvey Jones在开场给出了明确且强硬的定调： 英伟达董事会一致接受了他的辞呈，并且不打算恢复黄仁勋的CEO职务。 他强调，董事会已成立美国国家安全和出口控制监督委员会，并在积极寻找正式CE",
+     "source": "华尔街见闻",
+     "zh": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”"
+    },
+    {
+     "title": "上海国资与石药系基金出手，耀速科技加码AI器官芯片",
+     "link": "https://wallstreetcn.com/articles/3786143",
+     "pubDate": "Wed, 18 Nov 2026 08:12:50 +0800",
+     "summary": "AI与生物医药融合的赛道，再次迎来资本加注。 近日，华尔街见闻·全天候科技获悉，AI器官芯片企业耀速科技（Xellar）完成新一轮数千万元战略融资，获得上海国投先导、石药国方基金等相关投资主体支持。 这是耀速科技今年以来完成的第三轮融资。 今年4月2日，耀速科技宣布完成超2亿元A轮融资，由国寿股权独家领投，晶泰控股、雅亿资本、君联资本等老股东跟投。6月30日，公司又宣布完成近2亿元A+轮融资，吸引国方创投、清松资本、广发信德、东方富海、沄柏资本等机构参与。 加上此次融资，耀速科技年内累计融资规模约4亿元。 此次入场的两家投资方分别具有上海国资和医药产业资本背景。 上海国投先导成立于2024年5",
+     "source": "华尔街见闻",
+     "zh": "上海国资与石药系基金出手，耀速科技加码AI器官芯片"
+    },
+    {
+     "title": "Anthropic IPO需求火爆：多笔“百亿级别天量订单”现身，还有巨亏的币圈资金",
+     "link": "https://wallstreetcn.com/articles/3786142",
+     "pubDate": "Wed, 18 Nov 2026 08:09:35 +0800",
+     "summary": "Anthropic即将上市正在成为市场最炙手可热的交易主题。11月17日，据彭博报道，据知情人士透露， Anthropic的IPO已收到多份金额超过100亿美元的认购订单 。他们表示，预计银行于美东时间17日下午4点停止接受认购订单。 与此同时，加密货币市场资金持续外流，部分资金被认为已转道押注这家AI公司的IPO。 在Hyperliquid平台上，与Anthropic估值挂钩的两份合约未平仓头寸已累计超过3.34亿美元。参与这些加密挂钩Anthropic押注的交易者中，此前有大量人曾活跃于主流加密期货市场。 币安联合创始人赵长鹏（CZ）11月15日在X平台发文，将比特币近期下跌的潜在原因之一",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO需求火爆：多笔“百亿级别天量订单”现身，还有巨亏的币圈资金"
+    },
+    {
      "title": "投资者需求强劲，Anthropic计划上调IPO价格，估值将达1.5-1.6万亿美元",
      "link": "https://wallstreetcn.com/articles/3786141",
      "pubDate": "Wed, 18 Nov 2026 08:06:46 +0800",
      "summary": "AI明星公司Anthropic的首次公开募股正吸引超预期的市场热情，公司计划将发行价上调至既定区间上限以上，潜在估值有望突破1.5万亿美元。 据华尔街日报11月17日报道，知情人士透露，Anthropic的每股发行价可能超过80美元，高于此前70至78美元的定价区间。其顾问已就约 1.5万亿至1.6万亿美元 的估值展开讨论，较原定区间对应的约1.33万亿美元估值显著提升。与此同时，据彭博报道，Anthropic已向潜在投资者表示， 预计将以区间上限或更高价格完成定价。 此次IPO的强劲需求表明，过去一个月AI相关股票经历的剧烈波动，以及英伟达前首席执行官黄仁勋（Jensen Huang）的离职",
      "source": "华尔街见闻",
      "zh": "投资者需求强劲，Anthropic计划上调IPO价格，估值将达1.5-1.6万亿美元"
+    },
+    {
+     "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+     "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+     "pubDate": "Wed, 18 Nov 2026 00:06:25 GMT",
+     "summary": "Semiconductor shipments spiked almost 50% year on year.",
+     "source": "CNBC",
+     "zh": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments"
     },
     {
      "title": "老旧软件面临“AI威胁”！微软故障、全美停飞之后，美国国家安全局系统瘫痪，苹果多项服务受扰",
@@ -2337,14 +2345,6 @@
      "zh": "U.S. crude stockpiles rose 5.3M barrels last week, API says"
     },
     {
-     "title": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”",
-     "link": "https://wallstreetcn.com/articles/3786136",
-     "pubDate": "Wed, 18 Nov 2026 07:04:29 +0800",
-     "summary": "面对市场的重重疑虑与高管震荡的阴霾，英伟达临时CEO兼首席财务官Colette Kress交出了一份稳健的答卷。 财报数据显示，英伟达第三季度营收达到1158亿美元（市场预期1093.3亿美元），第四季度营收指引区间落在1261亿至1339亿美元之间（市场预期1252.5亿美元），核心财务指标均超出华尔街预期。盘后交易中，英伟达股价一度上涨超4%。 这是英伟达成立30多年来，首次在没有联合创始人黄仁勋参与的情况下召开业绩会。面对外界的担忧，Kress试图稳住军心，她强调从商业角度来看，“一切如常”，并表示：“我们的创新热情不会改变，我们对客户、合作伙伴和股东的承诺不会改变。” 需求远超供给，2",
-     "source": "华尔街见闻",
-     "zh": "英伟达电话会：“不打算请回黄仁勋”，2028年增速预期上调至75%，AI投资将更加“克制与挑剔”"
-    },
-    {
      "title": "BioSyent declares CAD 0.055 dividend",
      "link": "https://seekingalpha.com/news/4673967-biosyent-declares-cad-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 18:04:02 -0500",
@@ -2367,22 +2367,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "McCormick raises dividend by 6.3% to $0.51"
-    },
-    {
-     "title": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”",
-     "link": "https://wallstreetcn.com/articles/3786138",
-     "pubDate": "Wed, 18 Nov 2026 06:54:16 +0800",
-     "summary": "美联储理事Lisa Cook（丽莎·库克）的代理律师发出迄今最强硬的信号，表示 其当事人将不会出席白宫\"调查委员会\"听证 ，双方围绕这一程序的分歧已公开激化。 律师Abbe Lowell在一封日期为本周一、周二对外公开的信函中写道， 特朗普总统\"开除Cook理事的决定早已作出\"，白宫设立的委员会不过是掩盖这一预定结论的\"幌子\"。 Lowell指出， 该委员会程序存在根本性的不公正，Cook\"对美联储负有职责\"，有义务拒绝参与任何可能损害该机构独立性的程序。 此番表态将使美联储独立性问题再度成为市场焦点。Cook是拜登任命的美联储理事，特朗普长期寻求将其解职。围绕美联储人事的政治博弈若进一步升温",
-     "source": "华尔街见闻",
-     "zh": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”"
-    },
-    {
-     "title": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨",
-     "link": "https://wallstreetcn.com/articles/3786084",
-     "pubDate": "Wed, 18 Nov 2026 06:53:28 +0800",
-     "summary": "继上周微软办公软件大规模宕机、周五全美航班停飞逾四小时之后，美国国家安全（NSA）通信网络宕机，把原本就紧绷的AI交易推向全面避险。美股周二全线下挫，标普与道指双双跌破200日均线，资金转向美债和日元。 英伟达周二盘后公布财报，结果超出分析师预期，股价在盘后交易中一度上涨逾3% 。期权市场此前已对本次财报定价约8%的双向波动幅度，为2025年2月以来最大预期波动，英伟达1个月隐含波动率亦为今年3月以来最高。 UBS指出，标普500期权市场将周三定价为今年余下时间内单日波动最大的一天。 标普500指数收跌1.03%，报7340.53点，道琼斯工业平均指数重挫1.64%，纳斯达克综合指数跌0.74",
-     "source": "华尔街见闻",
-     "zh": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨"
     },
     {
      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
@@ -2503,14 +2487,6 @@
      "summary": "11月18日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 “新三样”固废回收利用体系初具规模 “当前，我 国新能源 汽车 动力 电池 正在进入规模化退役阶段，光伏组件和风机叶片也将相继迎来退役高峰期。近年来，‘新三样’固废回收利用体系已初具规模，政策框架基本形成，工作体系逐步完善。”商务部部长助理袁晓明在11月17日国务院新闻办举行的新闻发布会上表示。 多项财政政策工具年末持续用力 通过精准施策、工具创新，放大财政资金撬动效应 临近年末，多项财政政策工具持续发力，为稳增长注入强劲动能。专家认为，从财政政策实施的脉络来看，今年更加注重财政资金使用方式创新和财政金融协同，通过精准施策、工",
      "source": "东方财富资讯",
      "zh": "11月18日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-     "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-     "pubDate": "Tue, 17 Nov 2026 22:02:05 GMT",
-     "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
-     "source": "CNBC",
-     "zh": "U.S. officially loses measles elimination status amid ongoing outbreaks"
     }
    ]
   },

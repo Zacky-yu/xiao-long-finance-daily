@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 20:12:05",
+ "generated_at": "2026/11/18 20:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -32,6 +32,14 @@ window.INDUSTRY_DATA = {
      "summary": "氖人寻味！",
      "source": "量子位",
      "zh": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？"
+    },
+    {
+     "title": "不到一年！华人“思维链之父”跳槽，Meta的钞能力失效了？",
+     "link": "https://zhidx.com/p/611835.html",
+     "pubDate": "Wed, 18 Nov 2026 16:21:31 +0800",
+     "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西11月18日报道，今日， 华人思维链之父、前谷歌、OpenAI及Meta研究员Jason Wei宣布离开Meta旗下TBD实验室 ，并正式加盟美国超级独角兽Mercor。此前，他已在Meta工作约1年，主要从事AI推理与Agent领域的研究。 同日，Mercor联合创始人兼CEO Brendan Foody在X上发文欢迎Jason Wei加入，称他曾在谷歌Brain、OpenAI和Meta开展推理与Agent领域的开创性研究。 Foody还提到，Jason Wei创建了多个已被业内采用的评测基准，包括 SimpleQA、BrowseComp和Hea",
+     "source": "智东西",
+     "zh": "不到一年！华人“思维链之父”跳槽，Meta的钞能力失效了？"
     },
     {
      "title": "苹果开源两大视频生成模型！单卡延迟36毫秒，技术秘籍还能给别家模型提速",
@@ -208,14 +216,6 @@ window.INDUSTRY_DATA = {
      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
      "source": "TechCrunch AI",
      "zh": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt"
-    },
-    {
-     "title": "一文看尽微软Ignite大会：模型7连发，狙击Jev，Copilot成5000万智能体管家",
-     "link": "https://zhidx.com/p/611688.html",
-     "pubDate": "Wed, 18 Nov 2026 09:14:24 +0800",
-     "summary": "智东西 编译 | 孙小雯 编辑 | 程茜 智东西11月18日消息，今日凌晨，微软在Ignite 2026大会上一口气扔出五款新模型及两款模型新进展，其编程模型MAI Code 2在四项编程基准测试中，综合成绩达到GPT-6.1 Sol约 98% 的水平，测试成本约为其 40% 。 5款本次发布的新模型及升级版本：面向编程的 MAI Code 2 和 MAI Code 2 Flash 、面向网络安全的 MAI Cyber 2 Flash 、实时语音对话模型 MAI Realtime 1 ，以及决策模型 Microsoft-Decision-1.1 。 2款此前已发布模型的新进展：今年10月27日",
-     "source": "智东西",
-     "zh": "一文看尽微软Ignite大会：模型7连发，狙击Jev，Copilot成5000万智能体管家"
     },
     {
      "title": "Nvidia promises that revenue will keep soaring — for now",
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
+     "link": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
+     "pubDate": "Wed, 18 Nov 2026 12:23:46 +0000",
+     "summary": "Pfizer is set to pay $330 million upfront to Starna Therapeutics to take exclusive rights to three pre-IND in vivo CAR-T assets in autoimmune disease outside of Greater China. Plus, the pharma will also get ...",
+     "source": "Endpoints News",
+     "zh": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics"
+    },
+    {
      "title": "AI bio startup Boltz raises $110M Series A",
      "link": "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/",
      "pubDate": "Wed, 18 Nov 2026 12:00:27 +0000",
@@ -1160,14 +1168,6 @@ window.INDUSTRY_DATA = {
      "summary": "The FDA flagged a safety issue in its review of Summit Therapeutics and Akeso's now-rejected cancer drug ivonescimab, raising questions about the viability of the whole class of new bispecifics, though the ...",
      "source": "Endpoints News",
      "zh": "FDA flags potential VEGF-related safety concern in Summit rejection letter"
-    },
-    {
-     "title": "Beren wins FDA approval for long-studied rare disease drug",
-     "link": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
-     "pubDate": "Tue, 17 Nov 2026 20:25:23 +0000",
-     "summary": "A molecule designed by government scientists more than a decade ago has won FDA approval to treat infantile-onset Niemann-Pick disease type C, capping a winding and rocky development path. Beren Therapeutics, developer of Lembaz (adrabetadex) ...",
-     "source": "Endpoints News",
-     "zh": "Beren wins FDA approval for long-studied rare disease drug"
     },
     {
      "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
@@ -1538,12 +1538,36 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+     "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+     "pubDate": "Wed, 18 Nov 2026 17:45:00 +0530",
+     "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't interchangeable. Most look convincing in a demo.",
+     "source": "The Hacker News",
+     "zh": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
+    },
+    {
+     "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+     "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+     "pubDate": "Wed, 18 Nov 2026 12:14:23 +0000",
+     "summary": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
+    },
+    {
      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
      "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
      "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do"
+    },
+    {
+     "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+     "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+     "pubDate": "Wed, 18 Nov 2026 17:25:49 +0530",
+     "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o",
+     "source": "The Hacker News",
+     "zh": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
     },
     {
      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
@@ -1568,6 +1592,14 @@ window.INDUSTRY_DATA = {
      "summary": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Microsoft Agent Framework Releases Poisoned With Credential Stealer"
+    },
+    {
+     "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+     "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+     "pubDate": "Wed, 18 Nov 2026 16:33:57 +0530",
+     "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting ha",
+     "source": "The Hacker News",
+     "zh": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are"
     },
     {
      "title": "Critical Perforce Puppet RCE Exploited in Attacks",
@@ -1626,36 +1658,12 @@ window.INDUSTRY_DATA = {
      "zh": "British Scattered Spider hacker sentenced to 6 years in prison"
     },
     {
-     "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
-     "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-     "pubDate": "Wed, 18 Nov 2026 07:43:34 +0000",
-     "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover"
-    },
-    {
      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
      "pubDate": "Wed, 18 Nov 2026 12:15:26 +0530",
      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on N",
      "source": "The Hacker News",
      "zh": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials"
-    },
-    {
-     "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-     "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-     "pubDate": "Wed, 18 Nov 2026 11:28:04 +0530",
-     "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it ",
-     "source": "The Hacker News",
-     "zh": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
-    },
-    {
-     "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-     "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-     "pubDate": "Wed, 18 Nov 2026 09:57:41 +0530",
-     "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o",
-     "source": "The Hacker News",
-     "zh": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
     },
     {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -1696,14 +1704,6 @@ window.INDUSTRY_DATA = {
      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
      "source": "Dark Reading",
      "zh": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat"
-    },
-    {
-     "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-     "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-     "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530",
-     "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researche",
-     "source": "The Hacker News",
-     "zh": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses"
     },
     {
      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
@@ -1753,6 +1753,70 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+     "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+     "pubDate": "Wed, 18 Nov 2026 12:15:44 +0000",
+     "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+     "source": "Ars Technica",
+     "zh": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details"
+    },
+    {
+     "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt (Jagmeet Singh/TechCrunch)",
+     "link": "https://www.techmeme.com/261118/p17#a261118p17",
+     "pubDate": "Wed, 18 Nov 2026 07:15:02 -0500",
+     "summary": "Jagmeet Singh / TechCrunch : Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt &nbsp; &mdash;&nbsp; As demand grows for real-world data to train robots, India's Humyn Labs has raised $47 million ",
+     "source": "Techmeme",
+     "zh": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt (Jagmeet Singh/TechCrunch)"
+    },
+    {
+     "title": "奢侈品开始担心AI泡沫",
+     "link": "https://www.huxiu.com/article/4906636.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 20:13:18 +0800",
+     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 奢侈品开始担心AI泡沫》 AI创造了新一批富豪，也可能让奢侈品失去这批消费者。 欧洲奢侈品行业正在密切关注人工智能市场的变化，据路透社报道，由于市场担忧新一轮AI相关股票抛售可能侵蚀美国财富增长，欧洲奢侈品股票昨日整体下跌约2%，爱马仕股价一度下跌超过4%，Moncler下跌4.3%，LVMH、开云集团和Burberry也出现不同程度的下跌。 过去两年，AI热潮为美国资本市场创造了大量财富，也为奢侈品行业带来了新的增长机会，但当投资者开始怀疑这轮繁荣能持续多久，奢侈品牌也不得不担心，那些刚刚变得更富有的消费者，",
+     "source": "虎嗅",
+     "zh": "奢侈品开始担心AI泡沫"
+    },
+    {
+     "title": "《GTA 6》车辆续航实测：皮卡 29 分钟，跑车 18 分钟",
+     "link": "https://www.ithome.com/1/029/052.htm",
+     "pubDate": "Wed, 18 Nov 2026 12:13:06 GMT",
+     "summary": "IT之家 11 月 18 日消息，《GTA 6》的游戏世界相当庞大，玩家全程冲刺横穿地图大约需要一个半小时。不过，大多数玩家在罪恶城（Vice City）及莱奥尼达州（Leonida）的街道和高速公路上，主要还是以驾车出行为主。而这一次，《GTA 6》加入了更加真实的燃油管理机制：玩家开车时必须留意油箱余量。 那么，在《GTA 6》中，车辆开多久就需要加油？这套机制会不会让人觉得烦琐？ IT之家注意到，为了测试这一点，Kotaku 编辑 Zack Zwiezen 先后驾驶了三种不同的车辆进行测试。 首先，Zack 选择了一辆比较普通、车龄也比较大的皮卡。在罪恶城南部附近找到一段环形高速公路后，",
+     "source": "IT之家",
+     "zh": "《GTA 6》车辆续航实测：皮卡 29 分钟，跑车 18 分钟"
+    },
+    {
+     "title": "林妹妹配孙悟空，网友到底在嗑什么？",
+     "link": "https://www.huxiu.com/article/4906635.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 20:11:04 +0800",
+     "summary": "本文来自微信公众号： 家姻心理 ，责编：杨涛屹，编辑：张嘉仪，作者：家姻心理 最近，社交平台上流行起一对“邪门”CP：《西游记》里的孙悟空和《红楼梦》中的林黛玉，网友称之为“圣黛CP”。 这对组合其实前几年就有人剪辑过，今年借着AI视频再度走红，热度居高不下。 原著里，黛玉对着落花，只能荷锄葬花；到了视频里，悟空一棒挥去，落花便纷纷回到了枝头。这还不算，他还带着林妹妹逛街、逛游乐场、一起吃桃子，硬是把整日伤春悲秋的林姑娘，拽进了热热闹闹的人间烟火。 评论区里，有人直呼“邪典”，但更多的人在说“支持这门亲事”“希望林妹妹过上开心日子”。还有网友拿两人的出身打趣，一个是石头里蹦出来的，一个前世是绛",
+     "source": "虎嗅",
+     "zh": "林妹妹配孙悟空，网友到底在嗑什么？"
+    },
+    {
+     "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
+     "link": "https://www.tmtpost.com/8210345.html",
+     "pubDate": "Wed, 18 Nov 2026 20:11:01 +0800",
+     "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产业集聚”全链条，是百年京张AI创新带上的重要节点。",
+     "source": "钛媒体",
+     "zh": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地"
+    },
+    {
+     "title": "战魔田默｜微信帮腾讯赢了上一场战争，下一场胜利靠什么赢？",
+     "link": "https://www.huxiu.com/article/4906633.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 20:10:02 +0800",
+     "summary": "本文来自微信公众号： 商战最优解 ，作者：战魔田默，原文标题：《战魔田默｜微信帮腾讯赢了上一场战争，下一场胜利靠什么赢？》 2026年6月，第一财经记者测试微信AI助手“小微”，要求购买指定品牌的奶茶。 第一次，小微将用户引向美团外卖小程序，具体饮品、温度和糖度还需要记者自己选择；第二次，记者提前说清商品和规格，小微完成了这些选择，用户只需结算。 两次测试都没有证明智能体已经接管交易，却显示出服务路径正在发生变化。用户从微信提出需求，AI安排下一步进入哪个服务，实际供货的商家和承接订单的平台，却可能与用户最初想象的路径不同。 11月9日，虎嗅刊载的另一项实测也呈现了类似情况。测试者要求购买Ma",
+     "source": "虎嗅",
+     "zh": "战魔田默｜微信帮腾讯赢了上一场战争，下一场胜利靠什么赢？"
+    },
+    {
+     "title": "战魔田默｜腾讯半年净赚1141亿，为什么喊出“生死存亡”？",
+     "link": "https://www.huxiu.com/article/4906631.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 20:06:10 +0800",
+     "summary": "本文来自微信公众号： 商战最优解 ，作者：战魔田默，原文标题：《战魔田默｜腾讯半年净赚1141亿，为什么喊出“生死存亡”？》 一家半年净赚1141亿元的企业，为什么在28岁生日时谈起“生死存亡”？ 11月11日，腾讯总办在LinkTime活动中讨论人工智能引发的竞争变化。 11月16日，腾讯官方公众号“腾讯文化”公布现场笔记。“浪已经杀过来了”的警告，与腾讯2026年上半年1141.15亿元的归母盈利放在一起，形成了强烈反差。 腾讯没有经营意义上的生存危机。难题在于，原有业务依然赚钱，决定下一轮竞争的技术、产品和资源配置方式却可能已经发生变化。 过去一年，腾讯在AI上的动作远不止增加预算。姚顺",
+     "source": "虎嗅",
+     "zh": "战魔田默｜腾讯半年净赚1141亿，为什么喊出“生死存亡”？"
+    },
     {
      "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas&apos;s award-winning novel as 99% AI-generated (Brunella Tipismana Urbano/The Point ...)",
      "link": "https://www.techmeme.com/261118/p16#a261118p16",
@@ -1866,22 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "A growing religious and quasi-religious revival is permeating the AI industry, featuring apocalyptic warnings, secret prophecy lectures, and fringe movements (Sam Kriss/New Yorker)"
     },
     {
-     "title": "月下载720万，“巴西版GTA”新登总榜第一：竞速+送外卖玩法的零买量爆发",
-     "link": "https://www.huxiu.com/article/4906627.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 19:38:15 +0800",
-     "summary": "本文来自微信公众号： 扬帆出海 ，作者：弹痕，编辑：火狐狸 明天，11月19日，万众瞩目的《GTA6》终于即将登录PS5和Xbox主机平台。而在此之前的几个月，伴随《GTA6》的持续升温，移动端市场也涌现出一批开放都市、载具自由玩法的产品，借用大众对《GTA》开放世界模式的认知，瞄准了手游用户的流量窗口。 11月13日，《Projeto Grau 2》上升到巴西游戏总榜第一（图源：点点数据） 最近，巴西免费游戏榜就被这样一款产品霸榜多日。不少巴西游戏博主、实机UP主会将《Projeto Grau 2》称作“本土版《GTA》”用于吸引点击，而这类实测视频在YouTube上的确传播甚广。 百万粉丝",
-     "source": "虎嗅",
-     "zh": "月下载720万，“巴西版GTA”新登总榜第一：竞速+送外卖玩法的零买量爆发"
-    },
-    {
-     "title": "奔驰 2026 广州车展阵容：VLE MPV、智混 CLA 等领衔，全新 G 400 首发上市",
-     "link": "https://www.ithome.com/1/029/044.htm",
-     "pubDate": "Wed, 18 Nov 2026 11:36:09 GMT",
-     "summary": "IT之家 11 月 18 日消息，据梅赛德斯-奔驰“奔驰星闻”公众号，2026 广州车展期间，奔驰将带来 26 款“星徽座驾” 和前沿智能科技。具体来看， 全新奔驰 VLE MPV 将迎来中国首秀， 全新纯电 GLC SUV 晖银版和星铂版、全新智混 CLA、全新 G 400 共 4 款新车上市，全新升级的辅助驾驶和智能座舱也将一并亮相。 IT之家从官方介绍获悉，VLE 是奔驰全新 MPV 架构的“首款力作”，兼具豪华轿车级舒适和 MPV 的多功能实用性；GLC 新增的晖银版和星铂版，前者兼顾强劲动力和操控乐趣，后者则拥有 4+2 座椅布局和舒适配置。 全新奔驰智混 CLA 将采用全新的电气化",
-     "source": "IT之家",
-     "zh": "奔驰 2026 广州车展阵容：VLE MPV、智混 CLA 等领衔，全新 G 400 首发上市"
-    },
-    {
      "title": "Rockstar says GTA VI targets 30fps across all current-gen consoles; PS5 and Xbox Series X upscale the game from 1440p to 4K and Xbox Series S from 720p to 1080p (Alessio Palumbo/Wccftech)",
      "link": "https://www.techmeme.com/261118/p13#a261118p13",
      "pubDate": "Wed, 18 Nov 2026 06:35:47 -0500",
@@ -1906,22 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "An interview with Rockstar North&apos;s Rob Nelson on the \"risk\" of a romantic story, switching from GTA V&apos;s split storyline to co-dependent partnership, and more (Andrew Webster/The Verge)"
     },
     {
-     "title": "三家知名房企，拉响面值退市警报",
-     "link": "https://www.huxiu.com/article/4906621.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 19:24:58 +0800",
-     "summary": "本文来自微信公众号： 每经房产 ，作者：陈利 一场“1元保卫战”正在A股上市房企打响。 11月16日至17日，两个交易日内三家A股上市房企接连跌破1元面值。其中，金科股份16日收于0.97元/股；17日，荣盛发展、华夏幸福分别收于0.90元和0.92元，当日双双跌停。三家公司均在跌破面值的当晚披露了风险提示公告，提示股票“存在可能因股价低于面值被终止上市的风险”。 这是继2023年那轮房企退市潮之后，地产板块再次在“1元线”上失守。 壹 三家房企齐拉退市警报 *ST华幸（华夏幸福）11月17日开盘后跌停，收报0.92元/股，跌幅9.80%，成交8691.77万元，总市值缩至35.82亿元；同日",
-     "source": "虎嗅",
-     "zh": "三家知名房企，拉响面值退市警报"
-    },
-    {
-     "title": "GTA VI&apos;s main campaign completion time ranged from 42 hours for a \"rushed\" playthrough to 115 hours for an exploration-heavy playthrough across four reviewers (IGN)",
-     "link": "https://www.techmeme.com/261118/p11#a261118p11",
-     "pubDate": "Wed, 18 Nov 2026 06:20:46 -0500",
-     "summary": "IGN : GTA VI's main campaign completion time ranged from 42 hours for a &ldquo;rushed&rdquo; playthrough to 115 hours for an exploration-heavy playthrough across four reviewers &nbsp; &mdash;&nbsp; How many hours does it take to play Grand Theft Auto 6?&nbsp; We have completion times from four diffe",
-     "source": "Techmeme",
-     "zh": "GTA VI&apos;s main campaign completion time ranged from 42 hours for a \"rushed\" playthrough to 115 hours for an exploration-heavy playthrough across four reviewers (IGN)"
-    },
-    {
      "title": "Early Black Friday Deals Under $100 (2026)",
      "link": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/",
      "pubDate": "Wed, 18 Nov 2026 11:19:00 +0000",
@@ -1930,28 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Early Black Friday Deals Under $100 (2026)"
     },
     {
-     "title": "大疆扛不住了，罕见涨价10%，又悄悄造起电池？",
-     "link": "https://www.huxiu.com/article/4906619.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 19:15:06 +0800",
-     "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《大疆扛不住了！罕见涨价10%，又悄悄造起电池？》 摘要： 存储芯片的价格，大疆很难控制，Pocket 4P Vlog套装一次涨了560元。但在另一个核心部件电池上，大疆不想被动。 →这是《环球零碳》的第2211篇原创 一家注册资本才100万的新电池制造公司，把大疆藏了多年的野心摆上台面。不少人猜：大疆这是要自己造电池了？ 可100万在锂电行业真不算钱，连一条量产线的门槛都够不着。那大疆这一波，到底是想干什么？ 答案或许要从最近的一场涨价说起。这几年价格都没怎么动过的大疆，官宣11月18日开始正式涨价。 Pocke",
-     "source": "虎嗅",
-     "zh": "大疆扛不住了，罕见涨价10%，又悄悄造起电池？"
-    },
-    {
      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
      "link": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/",
      "pubDate": "Wed, 18 Nov 2026 11:15:00 +0000",
      "summary": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
      "source": "WIRED",
      "zh": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth"
-    },
-    {
-     "title": "腾讯也做不到“不可能三角”：传统业务增长，AI业务突破，现金净流入",
-     "link": "https://www.huxiu.com/article/4906618.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 19:11:08 +0800",
-     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 腾讯刚刚发布了2026年第三季度财报：营业收入同比增长8%，低于预期；Non-GAAP净利润同比下滑6%，基本符合预期；资本开支651亿元，大幅高于预期；自由现金流为负691亿元，是腾讯上市以来的最差纪录。 腾讯的主营业务收入情况其实不算差：国内游戏收入同比增长11%，只是被国际游戏收入下滑9%抵消了一部分；广告收入大涨19%，充分体现了视频号生态的强大商业化能力。但是，市场本来希望腾讯能获得10%左右的收入增速，它只做到了8%。差在哪里了呢？ 一部分是源于竞争：AI短剧、AI音乐的崛起，给腾讯视频、腾讯音乐持续制造着压力，腾讯非游戏",
-     "source": "虎嗅",
-     "zh": "腾讯也做不到“不可能三角”：传统业务增长，AI业务突破，现金净流入"
     },
     {
      "title": "Grand Theft Auto VI: The Ars Technica review",
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
      "source": "WIRED",
      "zh": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android"
-    },
-    {
-     "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
-     "link": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
-     "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-     "summary": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
-     "source": "Stratechery",
-     "zh": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition"
-    },
-    {
-     "title": "黄仁勋一直在权力游戏里裸奔",
-     "link": "https://www.tmtpost.com/8209729.html",
-     "pubDate": "Wed, 18 Nov 2026 18:26:47 +0800",
-     "summary": "如果他在公司拥有控制权，也不至于在政治暗箭袭来时，这么快地出局。",
-     "source": "钛媒体",
-     "zh": "黄仁勋一直在权力游戏里裸奔"
     }
    ]
   },
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Galaxy S26 Ultra’s Privacy Display just got a lot more useful with One UI 9.5",
+     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-privacy-display-improvements-3736569/",
+     "pubDate": "Wed, 18 Nov 2026 12:28:53 +0000",
+     "summary": "More privacy without unnecessarily shielding entire apps.",
+     "source": "Android Authority",
+     "zh": "The Galaxy S26 Ultra’s Privacy Display just got a lot more useful with One UI 9.5"
+    },
+    {
+     "title": "Amazon’s newest Fire TV Stick HD hits a record low at 60% off",
+     "link": "https://www.androidauthority.com/fire-tv-stick-hd-2026-deal-3736254/",
+     "pubDate": "Wed, 18 Nov 2026 12:20:10 +0000",
+     "summary": "Save $24 on the newest Fire TV Stick HD on Amazon, a slimmer streamer that can run on your TV's USB power.",
+     "source": "Android Authority",
+     "zh": "Amazon’s newest Fire TV Stick HD hits a record low at 60% off"
+    },
+    {
+     "title": "Samsung brings the native App Lock feature to Galaxy phones with One UI 9.5",
+     "link": "https://www.gsmarena.com/samsung_one_ui_9_5_app_lock_feature-news-75522.php",
+     "pubDate": "Wed, 18 Nov 2026 13:13:02 +0100",
+     "summary": "Samsung has announced the One UI 9.5 beta program for the Galaxy S26 series in select markets. One UI 9.5 includes a few new features, including native App Lock. As the name suggests, App Lock lets users lock individual apps, which can only be accessed with the registered PIN, pattern, password, or ",
+     "source": "GSMArena",
+     "zh": "Samsung brings the native App Lock feature to Galaxy phones with One UI 9.5"
+    },
     {
      "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
      "link": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
@@ -2058,28 +2082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Google Photos is testing an easier way to set up home screen widgets"
     },
     {
-     "title": "Google Wallet is preparing digital Social Security cards that show your benefits",
-     "link": "https://www.androidauthority.com/google-wallet-social-security-number-credential-apk-teardown-3736528/",
-     "pubDate": "Wed, 18 Nov 2026 11:22:12 +0000",
-     "summary": "We've spotted support for masked SSNs, Medicare details, and benefit amounts.",
-     "source": "Android Authority",
-     "zh": "Google Wallet is preparing digital Social Security cards that show your benefits"
-    },
-    {
      "title": "The Apple HomeView is a repairability nightmare",
      "link": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php",
      "pubDate": "Wed, 18 Nov 2026 12:14:02 +0100",
      "summary": "The Apple HomeView made its debut over a month ago, and the folks over at iFixit have now performed their signature teardown test. The teardown revealed a surprisingly difficult-to-repair design, even for Apple standards. Right from the jump, the HomeView’s aluminum chassis made the display disassem",
      "source": "GSMArena",
      "zh": "The Apple HomeView is a repairability nightmare"
-    },
-    {
-     "title": "From interview to outline: How Vocci Desktop and the Vocci ring work together",
-     "link": "https://www.androidauthority.com/vocci-desktop-black-friday-3735988/",
-     "pubDate": "Wed, 18 Nov 2026 11:08:03 +0000",
-     "summary": "Go from conversation to first draft, using just one app.",
-     "source": "Android Authority",
-     "zh": "From interview to outline: How Vocci Desktop and the Vocci ring work together"
     },
     {
      "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed"
     },
     {
-     "title": "Huawei Osta O1 Pro design and color options officially revealed",
-     "link": "https://www.gsmarena.com/huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512.php",
-     "pubDate": "Wed, 18 Nov 2026 04:03:02 +0100",
-     "summary": "Last week, Huawei revealed that it will launch a new sub-brand called Osta on November 20 and that one of its first devices would be called the Osta O1 Pro. Now, the company has officially revealed the phone's design and color options, while also opening pre-orders in China. The Osta O1 Pro is avail",
-     "source": "GSMArena",
-     "zh": "Huawei Osta O1 Pro design and color options officially revealed"
-    },
-    {
      "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
      "link": "https://sspai.com/post/119193",
      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0800",
@@ -2250,36 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "SanDisk leads tech stocks with biggest Q3 earnings surprise",
-     "link": "https://seekingalpha.com/news/4674076-sandisk-leads-tech-stocks-with-biggest-q3-earnings-surprise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 07:04:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SanDisk leads tech stocks with biggest Q3 earnings surprise"
+     "title": "Trump arrives in China for historic meeting with Xi, Putin",
+     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+     "pubDate": "Wed, 18 Nov 2026 12:24:24 GMT",
+     "summary": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+     "source": "CNBC",
+     "zh": "Trump arrives in China for historic meeting with Xi, Putin"
     },
     {
-     "title": "J&amp;J Snack Foods Non-GAAP EPS of $1.39 beats by $0.16, revenue of $406M beats by $7.18M",
-     "link": "https://seekingalpha.com/news/4674085-jandj-snack-foods-non-gaap-eps-of-1_39-beats-by-0_16-revenue-of-406m-beats-by-7_18m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 07:03:02 -0500",
+     "title": "BellRing Brands announces CFO transition",
+     "link": "https://seekingalpha.com/news/4674095-bellring-brands-announces-cfo-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:23:49 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "J&amp;J Snack Foods Non-GAAP EPS of $1.39 beats by $0.16, revenue of $406M beats by $7.18M"
+     "zh": "BellRing Brands announces CFO transition"
     },
     {
-     "title": "ZIM Integrated GAAP EPS of $6.88 beats by $1.71, revenue of $2.71B beats by $160M",
-     "link": "https://seekingalpha.com/news/4674086-zim-integrated-gaap-eps-of-6_88-beats-by-1_71-revenue-of-2_71b-beats-by-160m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 07:03:01 -0500",
+     "title": "Mortgage demand ebbs as interest rates rise to the highest level in three weeks",
+     "link": "https://seekingalpha.com/news/4674082-mortgage-demand-ebbs-as-interest-rates-rise-to-highest-level-in-three-weeks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:22:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "ZIM Integrated GAAP EPS of $6.88 beats by $1.71, revenue of $2.71B beats by $160M"
+     "zh": "Mortgage demand ebbs as interest rates rise to the highest level in three weeks"
     },
     {
-     "title": "Global-e shares climb as Q3 results top estimates, outlook lifted",
-     "link": "https://seekingalpha.com/news/4674062-global-e-shares-climb-as-q3-results-top-estimates-outlook-lifted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:58:42 -0500",
+     "title": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
+     "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 12:22:00 GMT",
+     "summary": "Three takeaways from Colette Kress’s first earnings call as Nvidia’s interim CEO. Plus, what Medicare Part B will cost in 2027 and why one investor is eyeing Florida real estate as a stock-market alternative.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO"
+    },
+    {
+     "title": "Atmus Filtration declares $0.06 dividend",
+     "link": "https://seekingalpha.com/news/4674097-atmus-filtration-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:20:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global-e shares climb as Q3 results top estimates, outlook lifted"
+     "zh": "Atmus Filtration declares $0.06 dividend"
+    },
+    {
+     "title": "Golar LNG declares $0.25 dividend",
+     "link": "https://seekingalpha.com/news/4674096-golar-lng-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:19:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Golar LNG declares $0.25 dividend"
+    },
+    {
+     "title": "Hyster-Yale proposes $125M convertible notes offering",
+     "link": "https://seekingalpha.com/news/4674094-hyster-yale-proposes-125m-convertible-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:18:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hyster-Yale proposes $125M convertible notes offering"
+    },
+    {
+     "title": "Target posts best sales growth in five years, raises guidance",
+     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+     "pubDate": "Wed, 18 Nov 2026 12:17:33 GMT",
+     "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+     "source": "CNBC",
+     "zh": "Target posts best sales growth in five years, raises guidance"
+    },
+    {
+     "title": "Pfizer, Starna ink cell therapy licensing deal worth up to $2.6B",
+     "link": "https://seekingalpha.com/news/4674093-pfizer-inks-cell-therapy-licensing-deal-worth-up-to-26b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 07:16:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pfizer, Starna ink cell therapy licensing deal worth up to $2.6B"
     },
     {
      "title": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会",
@@ -2288,30 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "欧洲央行即将迎来成立逾25年来最大规模的一次高层人事调整。德国已确定支持西班牙前央行行长巴勃罗·埃尔南德斯·德科斯竞逐欧洲央行行长，同时提名普林斯顿大学经济学教授马库斯·布伦纳迈尔进入执行委员会，为新一轮权力交接提供关键支持。 11月18日，据彭博报道，德国总理弗里德里希·默茨领导的执政联盟周三就欧洲央行人事安排达成一致。 根据协议，布伦纳迈尔将接替即将离任的伊莎贝尔·施纳贝尔，进入欧洲央行执行委员会；德国则支持德科斯接替克里斯蒂娜·拉加德，出任下一任欧洲央行行长。 这项安排涉及欧洲央行最高决策层多个关键职位，正值欧元区通胀仍明显高于2%的政策目标、法国财政压力持续受到市场关注之际，新一届领导",
      "source": "华尔街见闻",
      "zh": "欧央行高层人事洗牌：德国支持德科斯竞逐行长，提名布伦纳迈尔进入执委会"
-    },
-    {
-     "title": "Golar LNG reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674080-golar-lng-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:56:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Golar LNG reports Q3 results"
-    },
-    {
-     "title": "GTA 6 day: Take-Two Interactive rallies as preorders soar and reviews rave",
-     "link": "https://seekingalpha.com/news/4674067-gta-6-day-take-two-interactive-rallies-as-preorders-soar-and-reviews-rave?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 06:54:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GTA 6 day: Take-Two Interactive rallies as preorders soar and reviews rave"
-    },
-    {
-     "title": "Target posts best sales growth in five years, raises guidance",
-     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-     "pubDate": "Wed, 18 Nov 2026 11:50:08 GMT",
-     "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-     "source": "CNBC",
-     "zh": "Target posts best sales growth in five years, raises guidance"
     },
     {
      "title": "Lowe&apos;s posts strong online sales, raises outlook despite slow housing market",
@@ -2336,6 +2352,14 @@ window.INDUSTRY_DATA = {
      "summary": "Some analysts have seen an overhaul of Target’s apparel and home segments as crucial to its turnaround.",
      "source": "MarketWatch",
      "zh": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing"
+    },
+    {
+     "title": "APEC时间｜AI产业链的“深圳朋友圈”",
+     "link": "http://www.eeo.com.cn/2026/1118/1096464.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:32:59 +0800",
+     "summary": "深圳企业与亚太伙伴的合作，已经从买卖商品延伸到联合研发、共建算力和合作生产。",
+     "source": "经济观察网",
+     "zh": "APEC时间｜AI产业链的“深圳朋友圈”"
     },
     {
      "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
@@ -2378,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "柏川数据完成5000万元Pre-A轮融资，星海图为投资方兼客户"
     },
     {
-     "title": "Trump lands in China for historic meeting with Xi, Putin",
-     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-     "pubDate": "Wed, 18 Nov 2026 11:12:47 GMT",
-     "summary": "President Donald Trump has landed in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
-     "source": "CNBC",
-     "zh": "Trump lands in China for historic meeting with Xi, Putin"
-    },
-    {
      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
      "pubDate": "Wed, 18 Nov 2026 11:04:16 GMT",
@@ -2402,12 +2418,20 @@ window.INDUSTRY_DATA = {
      "zh": "红旗谋划在欧洲“借厂造车”"
     },
     {
-     "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-     "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-     "pubDate": "Wed, 18 Nov 2026 10:49:37 GMT",
-     "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+     "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+     "pubDate": "Wed, 18 Nov 2026 10:45:01 GMT",
+     "summary": "A congressional commission issued its findings as Nvidia has been rocked by its CEO's resignation after reports he had an affair with a suspected Chinese spy.",
      "source": "CNBC",
-     "zh": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit"
+     "zh": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says"
+    },
+    {
+     "title": "持仓亮相！首批主动ETF的业绩已拉开差距",
+     "link": "http://www.eeo.com.cn/2026/1118/1096419.shtml",
+     "pubDate": "Wed, 18 Nov 2026 18:41:01 +0800",
+     "summary": "这18只产品不仅向市场交出了成立以来的建仓成绩，也首次将持仓风格、资金结构置于公众面前。",
+     "source": "经济观察网",
+     "zh": "持仓亮相！首批主动ETF的业绩已拉开差距"
     },
     {
      "title": "腾讯Q3营收同比增8%，资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值｜财报见闻",
@@ -2464,30 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "中际旭创 今日晚间公告称，董事长兼总裁刘圣提议公司使用自有或自筹资金以集中竞价交易方式回购公司A股股份， 回购资金总额不低于20亿元且不超过40亿元， 回购价格不高于董事会审议通过回购方案前30个交易日股票交易均价的150%，回购股份用于 股权激励 或员工持股计划及维护公司价值及股东权益。 值得一提的是，不久前 中际旭创 刚完成了50亿的回购。9月24日晚间， 中际旭创 公告称，截至9月23日，公司累计回购565.31万股，占总股本0.48%， 最高成交价为944.68元/股，最低成交价为806.93元/股，成交总额49.97亿元。 10月29日， 中际旭创 公告称，公司董事会审议通过议案，拟",
      "source": "东方财富资讯",
      "zh": "中际旭创：董事长提议回购20亿元至40亿元公司股份"
-    },
-    {
-     "title": "DJ Zedd sells his Hollywood Hills home for $4 million",
-     "link": "https://www.marketwatch.com/story/dj-zedd-sells-his-hollywood-hills-home-for-4-million-92a04353?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 10:05:00 GMT",
-     "summary": "DJ and producer Zedd has offloaded his Hollywood Hills pad for $4.25 million to a couple who plan to carry out a complete overhaul of one of the rooms.",
-     "source": "MarketWatch",
-     "zh": "DJ Zedd sells his Hollywood Hills home for $4 million"
-    },
-    {
-     "title": "11月18日龙虎榜复盘：生益电子净买额居首",
-     "link": "http://stock.eastmoney.com/news/11783,202611183934071170.html",
-     "pubDate": "Wed, 18 Nov 2026 18:00:08 +0800",
-     "summary": "11月18日共有83只个股上榜龙虎榜，总上榜成交额205.83亿元。上榜个股中净买入额最高的是 生益电子 ，金额为3.68亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "11月18日龙虎榜复盘：生益电子净买额居首"
-    },
-    {
-     "title": "Cantor Fitzgerald&apos;s Nvidia business interests targeted in Democrats&apos; Lutnick probe",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
-     "pubDate": "Wed, 18 Nov 2026 09:45:01 GMT",
-     "summary": "The congressional probe is among the first to be announced since the blue-wave midterm that will deliver Democrats control of the House and Senate come January.",
-     "source": "CNBC",
-     "zh": "Cantor Fitzgerald&apos;s Nvidia business interests targeted in Democrats&apos; Lutnick probe"
     }
    ]
   },

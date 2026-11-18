@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 10:32:04",
+ "generated_at": "2026/11/18 10:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -56,6 +56,14 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
      "source": "TechCrunch AI",
      "zh": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit"
+    },
+    {
+     "title": "没有黄仁勋的首个英伟达财报会：微妙紧张、几次说错、董事长拒绝CEO复职",
+     "link": "https://zhidx.com/p/610862.html",
+     "pubDate": "Wed, 18 Nov 2026 07:00:45 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西11月18日报道，刚刚，英伟达举行了黄仁勋辞职后的首场财报电话会议。英伟达首任董事会主席哈维·琼斯（Harvey Jones）在开场明确强调，董事会 “不打算让黄仁勋重新担任CEO”（does not intend to reinstate Jensen as CEO） 。 以往的英伟达财报电话会，通常由黄仁勋回答战略和业务问题，克雷斯负责财务数据与业绩指引。今天，黄仁勋缺席，克雷斯以临时CEO兼CFO的身份主讲；与她一同出席的，是董事会主席琼斯和英伟达超大规模计算与高性能计算副总裁、“CUDA之父”伊恩·巴克（Ian Buck）。 整场财报电话",
+     "source": "智东西",
+     "zh": "没有黄仁勋的首个英伟达财报会：微妙紧张、几次说错、董事长拒绝CEO复职"
     },
     {
      "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "途深智合完成Pre-A及Pre-A+轮数亿元融资",
      "source": "机器之心",
      "zh": "AI蛋白质设计开始比谁的分子能用：这家AI制药公司拿到数亿元融资"
-    },
-    {
-     "title": "千万token下，比DeepSeek式稀疏注意力再快22倍",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074900&idx=2&sn=9e3dc407e5451c7ff8aef36fd598f6ce",
-     "pubDate": "Tue, 17 Nov 2026 11:38:00 +0800",
-     "summary": "稀疏注意力新解法：千万token下注意力层最高提速72倍",
-     "source": "机器之心",
-     "zh": "千万token下，比DeepSeek式稀疏注意力再快22倍"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Third Pillar Constructing Largest Floating Solar Complex in New York",
+     "link": "https://cleantechnica.com/2026/11/17/third-pillar-constructing-largest-floating-solar-complex-in-new-york/",
+     "pubDate": "Wed, 18 Nov 2026 02:28:59 +0000",
+     "summary": "Crown City Solar will be North America’s first floating community solar project. Phases 1 and 2 are under construction, and the three-phase, 22.5 MW DC complex is expected to be fully operational in 2027. CORTLANDVILLE, N.Y. — Third Pillar Power today announced it is constructing Crown City Solar, N",
+     "source": "CleanTechnica",
+     "zh": "Third Pillar Constructing Largest Floating Solar Complex in New York"
+    },
+    {
      "title": "REPORT: U.S. Exceeds 200 GWh of Energy Storage Capacity Installed to Date",
      "link": "https://cleantechnica.com/2026/11/17/report-u-s-exceeds-200-gwh-of-energy-storage-capacity-installed-to-date/",
      "pubDate": "Wed, 18 Nov 2026 02:19:25 +0000",
@@ -986,14 +994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Data center slowdown would raise risks for utility investments"
     },
     {
-     "title": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG",
-     "link": "https://cleantechnica.com/2026/11/17/china-electric-heavy-trucks-diesel-lng-freight-economics/",
-     "pubDate": "Tue, 17 Nov 2026 17:22:37 +0000",
-     "summary": "September battery-electric heavy trucks reached 49.8% of new domestic registrations, while actual freight case studies explain why charging and route design matter. The post China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG"
-    },
-    {
      "title": "The US solar manufacturing landscape in 2026",
      "link": "https://www.pv-magazine.com/2026/11/17/the-us-solar-manufacturing-landscape-in-2026/",
      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
@@ -1029,7 +1029,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "Elevated demand for gas turbines could persist through 2035: Siemens Energy",
      "link": "https://www.utilitydive.com/news/elevated-demand-for-gas-turbines-could-persist-through-2035-siemens-energy/874839/",
      "pubDate": "Tue, 17 Nov 2026 08:00:00 -0500",
-     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand also is coming from diverse industries with long-term growth trajectories.",
+     "summary": "The U.S. midterms are not likely to slow turbine orders by data centers, company executives said, noting that turbine demand is also coming from diverse industries with long-term growth trajectories.",
      "source": "Utility Dive",
      "zh": "Elevated demand for gas turbines could persist through 2035: Siemens Energy"
     },
@@ -1778,6 +1778,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday (Karen Freifeld/Reuters)",
+     "link": "https://www.techmeme.com/261117/p68#a261117p68",
+     "pubDate": "Tue, 17 Nov 2026 21:45:01 -0500",
+     "summary": "Karen Freifeld / Reuters : After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday &nbsp; &mdash;&nbsp; A defense lawyer for Huawei argued on Tuesday that US prosecutors had put a &ldquo;sinister ",
+     "source": "Techmeme",
+     "zh": "After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday (Karen Freifeld/Reuters)"
+    },
+    {
+     "title": "浦江科技评论｜AI如何改变生物制造",
+     "link": "https://www.huxiu.com/article/4906463.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 10:42:36 +0800",
+     "summary": "本文来自微信公众号： 猫头鹰科技社 ，作者：浦江科技评论，原文标题：《浦江科技评论｜AI如何改变生物制造》 ｜浦江科技评论·PUJIANG TECHNOLOGY REVIEW｜ AI进入生物制造，改变的不只是实验速度。从产品选择和研发目标的确立，到模型算法与自动化实验的持续迭代，再到中试、生产和市场反馈，AI正在把原本分散的研发环节连接成一个持续学习的过程。更值得关注的是，AI如何将一次实验结果转化为可重复、可放大的产业能力。 - 人工智能、自动化与合成生物学的融合，正在拓展生物制造的研发空间，为产业绿色转型提供新的技术路径。把市场需求、研发设计、生产运行与准入要求连成能够持续反馈的过程，让每",
+     "source": "虎嗅",
+     "zh": "浦江科技评论｜AI如何改变生物制造"
+    },
+    {
+     "title": "韩国红人种草内容挂独立站链接，最近平台标注规则收紧后转化掉了三成怎么办？",
+     "link": "https://www.baijing.cn/question/638796",
+     "pubDate": "Wed, 18 Nov 2026 02:36:51 +0000",
+     "summary": "我们做韩妆独立站，团队6人，月投放预算约800万韩元，主攻韩国市场。上月起在Instagram和YouTube合作的中小红人种草贴里挂独立站链接，发现带广告标识的内容点击率从4.2%掉到2.8%，加购转化也少了近三成。已经试过换成红人主页简介放链接、评论区置顶引导，效果都一般。现在卡在不确定是平台对商业内容标注审核变严导致曝光被压，还是韩国公平交易委员会对经济利益披露的要求让红人不敢硬推。想确认在这种合规收紧下，链接到底该放在哪一层才既合规又不掉转化？",
+     "source": "白鲸出海",
+     "zh": "韩国红人种草内容挂独立站链接，最近平台标注规则收紧后转化掉了三成怎么办？"
+    },
+    {
+     "title": "Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年",
+     "link": "https://www.tmtpost.com/8209258.html",
+     "pubDate": "Wed, 18 Nov 2026 10:30:43 +0800",
+     "summary": "到2028年，25%的企业安全漏洞事件可追溯至AI智能体滥用。",
+     "source": "钛媒体",
+     "zh": "Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年"
+    },
+    {
+     "title": "美股“七巨头”，去年初以来只剩2家能跑赢大盘",
+     "link": "https://www.huxiu.com/article/4906461.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 10:28:39 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 最新行情对比显示，随着投资者对科技板块的选股标准日益严格，大多数美股“七巨头”股票自去年年初算起都已难以跑赢大盘。 在这批超大市值科技领头羊中，谷歌母公司Alphabet与苹果目前是仅有的两家涨幅超越标普500指数的公司。分析人士将其归功于这两家公司在推进AI融合时所采取的差异化战略路径。 如下图所示，自2025年初至本周一收盘，Alphabet涨幅达50.8%，苹果涨幅为42%。而该“七巨头”组合中的其余成员——亚马逊、Meta、微软、英伟达和特斯拉的表现均逊于标普500指数，后者同期涨幅为29%。 财富规划机构Creative Planning首",
+     "source": "虎嗅",
+     "zh": "美股“七巨头”，去年初以来只剩2家能跑赢大盘"
+    },
+    {
      "title": "三星、SK 海力士、美光罕见联手，要给芯片工厂的机器人统一充电标准",
      "link": "https://www.ithome.com/1/028/663.htm",
      "pubDate": "Wed, 18 Nov 2026 02:23:56 GMT",
@@ -1789,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "老黄那根针",
      "link": "https://www.huxiu.com/article/4906407.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 10:20:00 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 迟早会戳破什么东西 要么是一层什么东西，要么是一个什么泡泡。 先普及一个常识，这点在中国人心目中到今天都未必达成了共识，所以一定要反复强调强调再强调：消灭有钱人不会只消灭有钱人而留下财富，只会连创造财富的能力一起消灭。 饭不是从锅里长出来的，商品也不是从货架上面直接刷新出来的，企业也不是像玩游戏一下点个鼠标“建造”，就自动能够拥有组织能力和生产能力。 娃哈哈大小姐已经用自己的亲身经历说明了，就算是一个成熟的不能再成熟的摊子，只要把最上面那个人换掉，哪怕是换成自己的亲闺女，只要接班人善于折腾勇于折腾，就一定能在最短时间内把这个成熟摊子折腾垮。更",
+     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，头图来自：AI生成 老黄那根针，迟早会戳破什么东西&mdash;&mdash;要么是一层什么东西，要么是一个什么泡泡。 先普及一个常识，这点在中国人心目中到今天都未必达成了共识，所以一定要反复强调强调再强调：消灭有钱人不会只消灭有钱人而留下财富，只会连创造财富的能力一起消灭。 饭不是从锅里长出来的，商品也不是从货架上面直接刷新出来的，企业也不是像玩游戏一下点个鼠标&ldquo;建造&rdquo;，就自动能够拥有组织能力和生产能力。 娃哈哈大小姐已经用自己的亲身经历说明了，就算是一个成熟的不能再成熟的摊子，只要把最上面那个人换掉，哪怕是换成自己",
      "source": "虎嗅",
      "zh": "老黄那根针"
     },
@@ -1810,12 +1850,28 @@ window.INDUSTRY_DATA = {
      "zh": "消息称英伟达安抚机器人生态伙伴，“物理 AI”投资不会急刹车"
     },
     {
+     "title": "国产户外品牌，吃到凯乐石让出的平价生态了吗？",
+     "link": "https://www.tmtpost.com/8208700.html",
+     "pubDate": "Wed, 18 Nov 2026 10:13:00 +0800",
+     "summary": "平价户外看着是甜点区，吃着是薄利区。",
+     "source": "钛媒体",
+     "zh": "国产户外品牌，吃到凯乐石让出的平价生态了吗？"
+    },
+    {
      "title": "巴西独立站接入Pix后回款周期拖到12天，是通道问题还是清算环节卡住？",
      "link": "https://www.baijing.cn/question/638795",
      "pubDate": "Wed, 18 Nov 2026 02:10:45 +0000",
      "summary": "我们做拉美独立站，主卖3C配件，巴西站刚起量，月订单约4000单，客单价120雷亚尔左右。上个月接了Pix做主支付方式，支付成功率从信用卡的62%拉到81%，但回款周期从宣传的T+1变成实际平均12天才到账，部分订单甚至超过15天。已经换过两家本地收单通道，也核对了对账单，发现延迟主要出在清算到本地账户这一段，物流端用Correios发货后妥投率约78%，妥投数据回传又慢，导致部分款项被压。现在卡在不知道是该换通道商还是补物流签收凭证来加速清算，想直接问：巴西Pix回款的实际时限到底该按什么标准判断，通道商宣传的T+1在什么条件下才成立？",
      "source": "白鲸出海",
      "zh": "巴西独立站接入Pix后回款周期拖到12天，是通道问题还是清算环节卡住？"
+    },
+    {
+     "title": "大洋彼岸的数据中心成了洪水猛兽",
+     "link": "https://www.tmtpost.com/8208735.html",
+     "pubDate": "Wed, 18 Nov 2026 10:09:00 +0800",
+     "summary": "AI算力需求激增，数据中心却因噪声、用水、电价及土地占用引发海外居民抵制。美国多地收紧审批，并要求开发商承担扩网风险。中国则以机房上架率约束新增建设，探索绿电直连和算力跨区域调度。数据中心扩张正从争抢投资转向衡量资源成本与实际需求。",
+     "source": "钛媒体",
+     "zh": "大洋彼岸的数据中心成了洪水猛兽"
     },
     {
      "title": "299 元小米对讲机 2S 新增橙色版：4W 发射功率、120 小时超长待机",
@@ -1840,6 +1896,30 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 18 日消息，Anthropic 昨日（11 月 17 日）更新 Claude 平台文档，宣布引入名为“关联计费”（Linked Billing）的 OAuth 测试版功能。 用户未来使用某个第三方 AI 应用时，可以直接使用自己的 Claude 账户支付背后真实的 AI 调用费用。 以往企业或开发者若在编码助手、工作流自动化等第三方工具中调用 Claude，往往需要共享 API 密钥。密钥一旦泄露，可能被他人用于调用并产生费用。 而“关联计费”不再由开发者统一承担模型使用成本，开发者可将自家应用与客户的 Claude Platform 组织关联，让客户直接为其在应用中产生",
      "source": "IT之家",
      "zh": "Claude 关联计费测试上线，第三方应用 AI 消费能“按需结算”"
+    },
+    {
+     "title": "顺为资本押注的天才，被告到英国司法机构",
+     "link": "https://www.tmtpost.com/8208723.html",
+     "pubDate": "Wed, 18 Nov 2026 10:02:00 +0800",
+     "summary": "融资10亿元，知名PE追责明星创业者陈曦。",
+     "source": "钛媒体",
+     "zh": "顺为资本押注的天才，被告到英国司法机构"
+    },
+    {
+     "title": "GPT-6.2 Astra终于上线，从PPT做到发动机",
+     "link": "https://www.tmtpost.com/8209040.html",
+     "pubDate": "Wed, 18 Nov 2026 09:58:00 +0800",
+     "summary": "新模型什么活都想干，但很难伺候。",
+     "source": "钛媒体",
+     "zh": "GPT-6.2 Astra终于上线，从PPT做到发动机"
+    },
+    {
+     "title": "芯片供不应求，台积电却开始给客户“验资”？",
+     "link": "https://www.tmtpost.com/8208977.html",
+     "pubDate": "Wed, 18 Nov 2026 09:51:00 +0800",
+     "summary": "芯片不愁卖，谁在替买家垫钱？",
+     "source": "钛媒体",
+     "zh": "芯片供不应求，台积电却开始给客户“验资”？"
     },
     {
      "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic&apos;s IPO midpoint, the average employee&apos;s equity is valued at $72M (Bloomberg)",
@@ -1882,22 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "尼日利亚短剧本地化，3人团队如何排期才不拖更？"
     },
     {
-     "title": "卡住比亚迪，却让特斯拉翻红，韩国汽车荣光不复",
-     "link": "https://www.huxiu.com/article/4906437.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 09:29:33 +0800",
-     "summary": "本文来自微信公众号： BusinessCars ，作者：袁英杰 新能源难以回流，韩国汽车制造荣光不复。 韩国汽车市场虽然没有贸易保护主义，但在长期以来的国民意识潜移默化下，长久以来都被本土制造所垄断。 走在首尔的街头，能看到的几乎都是现代和起亚，外国品牌寥寥无几，但伴随着国际油价大涨，新能源汽车特别是纯电车型在韩国市场终于是走出谷底，迎来了强势复苏。 但是，纯电车型热销的同时，本土品牌却在被海外车型超车，长期以来形成的封闭垄断市场正在被打破。 更重要的是，当韩国政府千方百计地想要守住自主制造，却无法阻止来自中国制造的冲击。 在高油价的影响下，韩国汽车市场正在加速洗牌。 新能源过半，韩国汽车却只",
-     "source": "虎嗅",
-     "zh": "卡住比亚迪，却让特斯拉翻红，韩国汽车荣光不复"
-    },
-    {
-     "title": "禾赛科技的第二曲线，兄弟公司买单",
-     "link": "https://www.huxiu.com/article/4906435.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 09:26:11 +0800",
-     "summary": "本文来自微信公众号： 数读社 ，作者：后雨，编辑：金晓 当车企的压力持续传递，禾赛需要具身智能带来新增长曲线，Sharpa是敲开市场的过渡策略。但禾赛最终还是要在机器人大市场验证成色，也只有这样才能真正打开第二增长曲线。 第三季度，禾赛科技收入10.68亿元，同比增长34.3%，净利润8079万元，同比下降68.5%。 财报对“增收不增利”的解释可以分成两层：净利润大降的主因是2025年同期有一次性高基数收益，经营利润下降则主要来自毛利率下滑和SGI战略增长业务投入加大。 看起来禾赛的第二曲线在报表上已经起跑，还没有迁移到利润上。现实真是如此吗？ Part. 01 SGI翻倍的三张面孔 禾赛科",
-     "source": "虎嗅",
-     "zh": "禾赛科技的第二曲线，兄弟公司买单"
-    },
-    {
      "title": "印尼越南信用卡拒付率突然翻倍，是当地发卡行新规还是我们订阅流程有问题？",
      "link": "https://www.baijing.cn/question/638793",
      "pubDate": "Wed, 18 Nov 2026 01:20:26 +0000",
@@ -1925,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Cerebras Disaggregated Inference",
      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
      "pubDate": "Wed, 18 Nov 2026 00:56:23 +0000",
-     "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 22 # Comments: 5",
+     "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 23 # Comments: 8",
      "source": "Hacker News",
      "zh": "Cerebras Disaggregated Inference"
     },
@@ -1941,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "ID.me terms required for IRS sign-in",
      "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
      "pubDate": "Wed, 18 Nov 2026 00:51:45 +0000",
-     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 99 # Comments: 22",
+     "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 116 # Comments: 32",
      "source": "Hacker News",
      "zh": "ID.me terms required for IRS sign-in"
     },
@@ -1952,70 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Neil Vigdor / New York Times : FAA pauses installations of Juniper routers like the one officials believe contributed to Friday's nationwide ground stop; HPE says its device wasn't defective &nbsp; &mdash;&nbsp; Federal officials said they believed that a router made by Juniper Networks caused a dat",
      "source": "Techmeme",
      "zh": "FAA pauses installations of Juniper routers like the one officials believe contributed to Friday&apos;s nationwide ground stop; HPE says its device wasn&apos;t defective (Neil Vigdor/New York Times)"
-    },
-    {
-     "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
-     "link": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
-     "pubDate": "Wed, 18 Nov 2026 00:32:39 +0000",
-     "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
-     "source": "WIRED",
-     "zh": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse"
-    },
-    {
-     "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-     "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-     "pubDate": "Wed, 18 Nov 2026 00:27:29 +0000",
-     "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-     "source": "Ars Technica",
-     "zh": "Copilot is \"the new OS for work,\" and now Office runs inside of it"
-    },
-    {
-     "title": "Google's AI answers reducing search traffic by 40%",
-     "link": "https://revscope.co/blog/search-seo-geo-2026/",
-     "pubDate": "Wed, 18 Nov 2026 00:17:58 +0000",
-     "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 94 # Comments: 53",
-     "source": "Hacker News",
-     "zh": "Google's AI answers reducing search traffic by 40%"
-    },
-    {
-     "title": "Stripe backer Atomico calls for Europe to own its success stories",
-     "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-     "pubDate": "Wed, 18 Nov 2026 00:01:00 +0000",
-     "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-     "source": "TechCrunch",
-     "zh": "Stripe backer Atomico calls for Europe to own its success stories"
-    },
-    {
-     "title": "Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)",
-     "link": "https://www.techmeme.com/261117/p63#a261117p63",
-     "pubDate": "Tue, 17 Nov 2026 19:00:14 -0500",
-     "summary": "Tim Fernholz / TechCrunch : Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff &nbsp; &mdash;&nbsp; Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, en",
-     "source": "Techmeme",
-     "zh": "Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)"
-    },
-    {
-     "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)",
-     "link": "https://www.techmeme.com/261117/p62#a261117p62",
-     "pubDate": "Tue, 17 Nov 2026 18:35:04 -0500",
-     "summary": "Ina Fried / Axios : Nvidia interim CEO Colette Kress says the company will stay &ldquo;disciplined and selective&rdquo; in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours &nbsp; &mdash;&nbsp; Nvidia's interim CEO said Tuesday that the company will be &ldquo;disciplined&rdquo; as it d",
-     "source": "Techmeme",
-     "zh": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)"
-    },
-    {
-     "title": "Review: Nubia Redmagic 12 Pro | Camera",
-     "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
-     "pubDate": "Tue, 17 Nov 2026 23:34:44 +0000",
-     "summary": "Review: Nubia Redmagic 12 Pro | Camera",
-     "source": "WIRED",
-     "zh": "Review: Nubia Redmagic 12 Pro | Camera"
-    },
-    {
-     "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-     "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-     "pubDate": "Tue, 17 Nov 2026 23:32:58 +0000",
-     "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 84 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)"
     }
    ]
   },
@@ -2274,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "京东港股盘中跌超8%，摩根士丹利警示消费疲软压力",
+     "link": "https://wallstreetcn.com/articles/3786154",
+     "pubDate": "Wed, 18 Nov 2026 10:39:14 +0800",
+     "summary": "京东三季度营收重回增长，但每股盈利不及预期，叠加摩根士丹利对消费前景发出警示，导致公司股价周三遭遇大幅抛售。 华尔街见闻提及 ，京东周二发布的财报显示，三季度净营收同比增长3.5%至3096亿元人民币，经营利润扭亏为盈， 但每股盈利0.88美元，较分析师一致预期的0.98美元低约10%，终结了此前连续八个季度超预期的纪录。 摩根士丹利随即发布报告， 消费市场仍然疲软，预计京东第四季度零售收入同比将基本持平，并维持低配评级。 周三盘初京东港股股价一度下跌8.7%，创下三个多月来最大日内跌幅。 此前周二京东美股ADR收盘下跌7.7%，报25.43美元。 零售与物流分化，消费复苏为核心变量 摩根士丹",
+     "source": "华尔街见闻",
+     "zh": "京东港股盘中跌超8%，摩根士丹利警示消费疲软压力"
+    },
+    {
+     "title": "英伟达代理CEO Kress安抚市场：客户没有流失，员工也不会出走",
+     "link": "https://wallstreetcn.com/articles/3786150",
+     "pubDate": "Wed, 18 Nov 2026 10:29:50 +0800",
+     "summary": "英伟达交出一份超预期的季度成绩单，代理CEO Colette Kress随即出面稳定军心。 在黄仁勋因丑闻突然辞职后的首份财报发布当晚，Kress接受CNBC《Mad Money》节目专访， 明确表示客户需求未受影响，员工队伍同样稳固。盘后英伟达股价上涨逾3%。 这份财报在一定程度上缓解了市场对英伟达领导层更迭后前景的担忧。但公司股价本月已累计下跌24%，并在上周五结束了自2012年以来最长的六连跌，当前股价处于2025年7月以来的最低水平。 代理CEO Colette Kress Kress：大客户仍在，需求只增不减 黄仁勋的离职引发了市场的一个核心疑问：大型云计算客户是否会借机转向自研芯片",
+     "source": "华尔街见闻",
+     "zh": "英伟达代理CEO Kress安抚市场：客户没有流失，员工也不会出走"
+    },
+    {
+     "title": "美银调查：基金经理以二十年来最大幅度砍科技股，但现金太少，“恐慌还不够”",
+     "link": "https://wallstreetcn.com/articles/3786133",
+     "pubDate": "Wed, 18 Nov 2026 10:28:12 +0800",
+     "summary": "美国银行（Bank of America）最新月度调查显示，全球基金经理正在以2006年以来最快速度撤出科技股。 调查显示，科技股超配比例从10月的净37%骤降至净12%，单月降幅创近20年之最。 美银策略师Michael Hartnett在报告中直言\"AI繁荣与亢奋情绪已经终结\"，并建议投资者在未来数月维持防御性仓位。 市场表现印证了这一情绪转变。纳斯达克100指数本月已下跌逾4%，料创2008年以来最差11月表现；半导体相关股票指数自10月初以来累计下跌27%。 这一调查于11月6日至12日进行，全球部分共覆盖169名参与者，管理资产规模合计4610亿美元；欧洲区域性问题由94名参与者作答",
+     "source": "华尔街见闻",
+     "zh": "美银调查：基金经理以二十年来最大幅度砍科技股，但现金太少，“恐慌还不够”"
+    },
+    {
      "title": "Huya expects gross margin and non-GAAP operating profit to keep improving as non-live streaming revenues grow",
      "link": "https://seekingalpha.com/news/4673975-huya-expects-gross-margin-and-non-gaap-operating-profit-to-keep-improving-as-non-live?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 21:24:00 -0500",
@@ -2296,6 +2320,14 @@ window.INDUSTRY_DATA = {
      "summary": "会议强调，各级减负部门要聚焦高质量实施好“十五五”规划，以改革创新的精神研究谋划减轻企业负担新思路、新举措。",
      "source": "经济观察网",
      "zh": "第十五届全国减轻企业负担政策宣传周正式启动"
+    },
+    {
+     "title": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+     "link": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 02:17:18 GMT",
+     "summary": "Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up",
+     "source": "Financial Times",
+     "zh": "‘Witness the Wonders’: China touts miracle city for Trump summit"
     },
     {
      "title": "A股三大股指早盘集体转跌，AI硬件侧局部回暖，创新药、贵金属调整，恒指、恒科指齐跌，京东大跌8%",
@@ -2346,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing"
     },
     {
-     "title": "兰合铁路全线铺轨正式启动 预计2027年底通车",
-     "link": "http://www.eeo.com.cn/2026/1118/1095666.shtml",
-     "pubDate": "Wed, 18 Nov 2026 09:54:09 +0800",
-     "summary": "11月17日，新建兰州至合作铁路在甘肃省临夏州永靖县刘家峡站启动全线铺轨。",
-     "source": "经济观察网",
-     "zh": "兰合铁路全线铺轨正式启动 预计2027年底通车"
-    },
-    {
      "title": "5E Advanced Materials targets ~100,000 short tons V-BOR output while planning $8M-$9M annual OpEx reduction",
      "link": "https://seekingalpha.com/news/4673973-5e-advanced-materials-targets-100000-short-tons-v-bor-output-while-planning-8m-9m-annual-opex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 20:53:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "5E Advanced Materials targets ~100,000 short tons V-BOR output while planning $8M-$9M annual OpEx reduction"
-    },
-    {
-     "title": "绝味食品转让亏损参股公司塞飞亚24.1661%股权交易“流产”",
-     "link": "http://www.eeo.com.cn/2026/1118/1095658.shtml",
-     "pubDate": "Wed, 18 Nov 2026 09:50:52 +0800",
-     "summary": "因交易对方未按时支付股权转让款，公司决定终止内蒙古塞飞亚农业科技发展股份有限公司24.1661%股权转让交易。",
-     "source": "经济观察网",
-     "zh": "绝味食品转让亏损参股公司塞飞亚24.1661%股权交易“流产”"
     },
     {
      "title": "英伟达业绩超预期提振亚太股市，韩股一度涨超3%，SK海力士涨逾5%，黄金下挫1%",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达业绩超预期提振亚太股市，韩股一度涨超3%，SK海力士涨逾5%，黄金下挫1%"
     },
     {
-     "title": "IPO火爆！Anthropic的早期VC们回报超过10倍",
-     "link": "https://wallstreetcn.com/articles/3786149",
-     "pubDate": "Wed, 18 Nov 2026 09:45:58 +0800",
-     "summary": "Anthropic或将以1.4万亿美元估值完成IPO定价，这场AI独角兽的上市盛宴，让一批押注早、押注重的风险投资机构收获颇丰。 11月17日，据知情人士向The Information透露，美国Spark Capital、Factorial Funds、Sound Ventures和Menlo Ventures等早期VC机构，将在本次IPO中实现超过10倍的理论回报。其中Menlo Ventures以10亿美元投资换来约210亿美元持仓，理论回报倍数高达21倍。 稍晚入场的Bessemer Venture Partners和Lightspeed Venture Partners，则预计将分别",
-     "source": "华尔街见闻",
-     "zh": "IPO火爆！Anthropic的早期VC们回报超过10倍"
-    },
-    {
      "title": "Medicare Part B premiums rise due higher healthcare spending",
      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 01:45:00 GMT",
@@ -2394,12 +2402,52 @@ window.INDUSTRY_DATA = {
      "zh": "Medicare Part B premiums rise due higher healthcare spending"
     },
     {
-     "title": "APEC时间｜工商领导人峰会首日，中外企业家共话长期合作：“我赢你输”不可长久",
-     "link": "http://www.eeo.com.cn/2026/1118/1095649.shtml",
-     "pubDate": "Wed, 18 Nov 2026 09:41:23 +0800",
-     "summary": "各经济体彼此差异大、互补性强，合作需要相互认识、相互了解、相互信任，其中信任可能是最关键的一点，APEC这样的平台能让各经济体的企业加强了解。",
-     "source": "经济观察网",
-     "zh": "APEC时间｜工商领导人峰会首日，中外企业家共话长期合作：“我赢你输”不可长久"
+     "title": "固德电材：截至11月10日最新股东户数1.06万户，较上期减少3.53%",
+     "link": "http://stock.eastmoney.com/news/11111,202611183933789976.html",
+     "pubDate": "Wed, 18 Nov 2026 09:40:56 +0800",
+     "summary": "固德电材 最新披露数据显示，截至11月10日公司股东户数为1.06万户，较上期(2026年10月30日) 减少388户，降幅为3.53% 。户均持有流通股数量 由上期的1613股上升至1672股， 户均持股金额 由上期的13.43万元增加至14.74万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "固德电材：截至11月10日最新股东户数1.06万户，较上期减少3.53%"
+    },
+    {
+     "title": "熙菱信息：截至11月10日最新股东户数1.29万户，较上期减少0.24%",
+     "link": "http://stock.eastmoney.com/news/11111,202611183933789830.html",
+     "pubDate": "Wed, 18 Nov 2026 09:40:49 +0800",
+     "summary": "熙菱信息 最新披露数据显示，截至11月10日公司股东户数为1.29万户，较上期(2026年10月20日) 减少31户，降幅为0.24% 。户均持有流通股数量 为1.37万股， 与上期基本持平， 户均持股金额 由上期的26.56万元减少至24.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "熙菱信息：截至11月10日最新股东户数1.29万户，较上期减少0.24%"
+    },
+    {
+     "title": "西部牧业：截至11月10日最新股东户数1.83万户，较上期增加6.40%",
+     "link": "http://stock.eastmoney.com/news/11111,202611183933789340.html",
+     "pubDate": "Wed, 18 Nov 2026 09:39:54 +0800",
+     "summary": "西部牧业 最新披露数据显示，截至11月10日公司股东户数为1.83万户，较上期(2026年10月30日) 增加1100户，增幅为6.40% 。户均持有流通股数量 由上期的1.23万股下降至1.15万股， 户均持股金额 由上期的10.79万元增加至10.91万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
+     "source": "东方财富股票",
+     "zh": "西部牧业：截至11月10日最新股东户数1.83万户，较上期增加6.40%"
+    },
+    {
+     "title": "扬杰科技：截至10月9日最新股东户数7.90万户，较上期增加0.86%",
+     "link": "http://stock.eastmoney.com/news/11111,202611183933788580.html",
+     "pubDate": "Wed, 18 Nov 2026 09:38:51 +0800",
+     "summary": "扬杰科技 最新披露数据显示，截至10月9日公司股东户数为7.90万户，较上期(2026年9月30日) 增加677户，增幅为0.86% 。户均持有流通股数量 由上期的6921股下降至6862股， 户均持股金额 由上期的58.46万元减少至57.29万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "扬杰科技：截至10月9日最新股东户数7.90万户，较上期增加0.86%"
+    },
+    {
+     "title": "黄仁勋“落马”，谁受伤？华尔街警告声迭起：新云企业面临生存危机！",
+     "link": "http://finance.eastmoney.com/news/1354,202611183933789789.html",
+     "pubDate": "Wed, 18 Nov 2026 09:38:34 +0800",
+     "summary": "近期，本就面临多重压力的新云企业（Neocloud）——即专用于 人工智能 的算力提供商——又受到 英伟达 前CEO黄仁勋事件的波及，雪上加霜。华尔街也纷纷警告称，新云恐陷入“大麻烦”。 阿波罗全球管理 公司首席执行官Marc Rowan周二表示，如果 英伟达 停止资助其 人工智能 项目，新云公司可能会陷入困境。大空头史蒂夫·艾斯曼（Steve Eisman）也警告称，所谓的AI新云股票将是 英伟达 事件中损失最大的股票。 由于新云厂商自身信用评级偏弱，许多业主坚持要求其引入财力雄厚的合作伙伴为租金兜底。而英伟达的担保则是最重要的一环，这家芯片制造商也因此被誉为“AI界央行”。与此同时，面对消",
+     "source": "东方财富股票",
+     "zh": "黄仁勋“落马”，谁受伤？华尔街警告声迭起：新云企业面临生存危机！"
+    },
+    {
+     "title": "日经225指数盘中转跌 此前一度涨1.3%",
+     "link": "http://stock.eastmoney.com/news/1439,202611183933789645.html",
+     "pubDate": "Wed, 18 Nov 2026 09:38:18 +0800",
+     "summary": "日经225指数盘中转跌，此前一度涨1.3%。",
+     "source": "东方财富股票",
+     "zh": "日经225指数盘中转跌 此前一度涨1.3%"
     },
     {
      "title": "OpenAI bugging case defendant Alfozan set for trial in January",
@@ -2416,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia’s revenue growth and $130 billion quarterly forecast showed that demand for chips is still sky-high.",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears"
-    },
-    {
-     "title": "11月18日集合竞价：华东重机4连板 长虹美菱3连板",
-     "link": "http://stock.eastmoney.com/news/11752,202611183933780311.html",
-     "pubDate": "Wed, 18 Nov 2026 09:27:05 +0800",
-     "summary": "11月18日，三大指数集体高开，上证指数高开0.33%，深证成指高开0.37%，创业板指高开0.61%。板块方面，其他 数字媒体 领涨， 凡拓数创 涨2.53%， 冰洗 、 印制电路板 等开盘涨幅居前。 个股方面，7股竞价涨停，其中 华东重机 4连板、 长虹美菱 3连板、 摩恩电气 2连板、 西陇科学 2连板、 全筑股份 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
-     "source": "东方财富资讯",
-     "zh": "11月18日集合竞价：华东重机4连板 长虹美菱3连板"
     },
     {
      "title": "Russian crude exports reach four-month high as Ukrainian drones slam refineries",
@@ -2450,30 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "Three things to watch as Trump, Xi and Putin meet in China"
     },
     {
-     "title": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
-     "link": "https://wallstreetcn.com/articles/3786129",
-     "pubDate": "Wed, 18 Nov 2026 09:22:24 +0800",
-     "summary": "亿万富翁投资者德鲁肯米勒（Stan Druckenmiller）表示， 面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示， 他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 Druckenmiller认为，2027年下半年的经济形势可能会令人失望。目前他持有少量美元多头仓位，同时做空铜 。他说： 我们不做多股票，也不做空股票。我绝不敢做空。我们基本上在回避市场，目标是不亏钱。 Druckenmiller随后补充称： 我只是休息一下，可能是两天",
-     "source": "华尔街见闻",
-     "zh": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本"
-    },
-    {
-     "title": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应",
-     "link": "https://wallstreetcn.com/articles/3786144",
-     "pubDate": "Wed, 18 Nov 2026 09:13:20 +0800",
-     "summary": "德意志银行周二在法兰克福股价一度重挫逾6% ，导火索是一批多达1500万份的泄露文件，揭示这家德国最大银行处理了与爱泼斯坦（Jeffrey Epstein）相关的逾5.82亿美元可疑交款，在2017年将特朗普的税务文件意外泄露给外部人士。 这批文件由两名举报人从银行内部复制后，交给印度记者Josy Joseph和南非记者Khadija Sharife，由南非非营利机构Barracuda Media统筹协调，联合《金融时报》、《明镜》周刊、《世界报》和《纽约时报》等逾200名记者历时数月完成调查。 举报人的律师表示，相关材料已同步移交美国司法部、财政部金融犯罪执法网络（FinCEN）以及英国税务",
-     "source": "华尔街见闻",
-     "zh": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应"
-    },
-    {
-     "title": "英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作",
-     "link": "http://stock.eastmoney.com/news/11228,202611183933697861.html",
-     "pubDate": "Wed, 18 Nov 2026 09:06:32 +0800",
-     "summary": "美东时间周二盘后， 英伟达 交出了“后黄仁勋时期”的首份财报。财报显示，2027 财年第三季度公司营收、盈利双双大幅跑赢分析师预期，同时上调新财年增长指引；但人事动荡、美国出口管制新规、毛利率阶段性承压等多重不确定性仍悬于头顶。 在财报电话会上，董事会明确表态无意让黄仁勋复职，临时CEO 科莱特·克雷斯则向强调业务一切照常，公司全球员工每天照常工作，“无缝衔接地完成了我们需要完成的事情”，并且“我们已与客户、供应商和合作伙伴沟通，他们百分之百支持我们。” 展望未来，尽管美国在经历中期选举“蓝色浪潮”之后，算力需求可能受到美国政策监管的潜在打压，但克雷斯强调：“无论从2027年还是延伸到2028",
-     "source": "东方财富资讯",
-     "zh": "英伟达财报电话会：算力需求料持续强劲 已启动CEO遴选工作"
-    },
-    {
      "title": "Iridex anticipates $46M-$48M 2026 revenue as it targets 2027 profitability through San Jose move and portfolio review",
      "link": "https://seekingalpha.com/news/4673971-iridex-anticipates-46m-48m-2026-revenue-as-it-targets-2027-profitability-through-san-jose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 17 Nov 2026 20:03:48 -0500",
@@ -2482,36 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Iridex anticipates $46M-$48M 2026 revenue as it targets 2027 profitability through San Jose move and portfolio review"
     },
     {
-     "title": "AI回调扰动全球 A股科技行情该如何看待？",
-     "link": "http://finance.eastmoney.com/news/1344,202611183933608266.html",
-     "pubDate": "Wed, 18 Nov 2026 08:55:30 +0800",
-     "summary": "近期，美股等海外市场科技板块出现较大波动，A股科技板块随之被置于“跟跌还是脱钩”的追问之下。这轮波动的性质是什么，又将如何传导至A股？ 综合 财联社调研、多家券商研究观点以及深市公司业绩情况来看，影响主要来自情绪面，不能简单等同于我国科技产业基本面也发生了变化。 就波动本身而言，海外调整更多是对监管环境、融资成本与资本开支回报的再定价；落到国内科技板块，更应关注全球市场背后的需求变化，而非简单将其定性为对海外市场的强依附关系。需把“北美资本开支映射”与“国产算力、自主制造”两条线索分开梳理，后者的走向更多取决于国内需求、技术进展与供应链建设水平。 目前来看，中国科技产业正依托本土需求、国产供给",
-     "source": "东方财富资讯",
-     "zh": "AI回调扰动全球 A股科技行情该如何看待？"
-    },
-    {
-     "title": "即将打破2007年纪录！5%的10年期美债已“高烧”27天",
-     "link": "http://finance.eastmoney.com/news/1344,202611183933578756.html",
-     "pubDate": "Wed, 18 Nov 2026 08:49:44 +0800",
-     "summary": "在通胀粘性与美联储升息预期的双重夹击下，美国10年期国债收益率站在5%关口之上的时间，正逼近近二十年来的最长纪录。 根据一项业内统计，作为全球融资成本的风向标，10年期美债收益率今年迄今已有多达27个交易日收于5%上方，距2007年创下的29天历史纪录仅有一步之遥。 过去一周，美债收益率的上行主要受到超预期的美国10月通胀数据驱动，这迫使美联储决策层重新评估紧缩力度，并考虑采取较此前预期更为激进的收紧步伐。 周二，尽管股市下跌促使投资者转向避险资产，但该基准收益率依然位于5.10%附近高位震荡交投。 目前，利率 期货 市场已完全消化了央行在12月9日议息会议上加息25个基点的预期，并定价到20",
-     "source": "东方财富资讯",
-     "zh": "即将打破2007年纪录！5%的10年期美债已“高烧”27天"
-    },
-    {
-     "title": "A股热点前瞻丨英伟达单季营收首破千亿美元；台积电等晶圆代工厂将涨价",
-     "link": "http://finance.eastmoney.com/news/11874,202611183933577866.html",
-     "pubDate": "Wed, 18 Nov 2026 08:47:42 +0800",
-     "summary": "① 英伟达 营收指引均超预期，AI算力产业链需求获验证； ② 台积电 等晶圆代工厂将涨价， 半导体 成本压力进一步传导； ③神舟二十四号将择机发射，我国全年航天发射次数或创新高； ④数字广东建设“十五五”规划发布， 数据要素 市场迎扩容； ⑤工信部同意8省市开展6G协同试点，6G产业化进程提速； ⑥九部门推进再生资源回收体系建设，循环经济再进阶。 盘面回顾 11月17日，A股三大指数集体回调，沪指跌0.50%报3584.58点，创业板指冲高回落跌1.20%，沪深京三市成交1.47万亿元，全市场超4100股下跌。芯片产业链、华为算力、家电板块逆势活跃， 影视院线 、 物理AI 、 机器人 方向调",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨英伟达单季营收首破千亿美元；台积电等晶圆代工厂将涨价"
-    },
-    {
      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
      "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 00:45:45 GMT",
      "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
      "source": "Financial Times",
      "zh": "Nvidia insists Huang will not return as CEO as it reports strong sales"
+    },
+    {
+     "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+     "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+     "pubDate": "Tue, 17 Nov 2026 23:30:13 GMT",
+     "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+     "source": "CNBC",
+     "zh": "JPMorgan is working on AI agent transactions that don’t involve humans"
     }
    ]
   },

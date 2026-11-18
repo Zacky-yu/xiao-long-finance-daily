@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 02:52:18",
+ "generated_at": "2026/11/19 03:12:27",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Why your fine-tuning job takes longer than the FLOPs say",
+     "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+     "pubDate": "Wed, 18 Nov 2026 18:53:43 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Why your fine-tuning job takes longer than the FLOPs say"
+    },
     {
      "title": "Genie 4 is now available",
      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
@@ -32,14 +40,6 @@ window.INDUSTRY_DATA = {
      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
      "source": "TechCrunch AI",
      "zh": "More banks say customers using AI agents are on their own — even if they get hacked"
-    },
-    {
-     "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
-     "link": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-     "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
-     "source": "KDnuggets",
-     "zh": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them"
     },
     {
      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
@@ -74,14 +74,6 @@ window.INDUSTRY_DATA = {
      "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
-     "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
-     "link": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
-     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
-     "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
-     "source": "KDnuggets",
-     "zh": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next"
-    },
-    {
      "title": "The AI Hype Index: AI is everywhere",
      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
@@ -104,14 +96,6 @@ window.INDUSTRY_DATA = {
      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
      "source": "TechCrunch AI",
      "zh": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
-    },
-    {
-     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
-     "source": "KDnuggets",
-     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety res",
      "source": "arXiv cs.AI",
      "zh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
+    },
+    {
+     "title": "Language Models Can Rewrite Their Own Weights",
+     "link": "https://arxiv.org/abs/2611.21885",
+     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much ",
+     "source": "arXiv cs.AI",
+     "zh": "Language Models Can Rewrite Their Own Weights"
+    },
+    {
+     "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+     "link": "https://arxiv.org/abs/2611.21925",
+     "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
+     "source": "arXiv cs.AI",
+     "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
     }
    ]
   },
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
+     "link": "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/",
+     "pubDate": "Wed, 18 Nov 2026 18:00:09 +0000",
+     "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics"
+    },
+    {
      "title": "What to Look for in an AI-Powered Corporate Security Platform",
      "link": "https://roboticsandautomationnews.com/2026/11/18/what-to-look-for-in-an-ai-powered-corporate-security-platform/107295/",
      "pubDate": "Wed, 18 Nov 2026 17:51:21 +0000",
@@ -602,14 +610,6 @@ window.INDUSTRY_DATA = {
      "zh": "The hidden reason most robots fail on the factory floor"
     },
     {
-     "title": "Agile Robots raises $500M to increase production capacity",
-     "link": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
-     "pubDate": "Mon, 16 Nov 2026 17:47:48 +0000",
-     "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Agile Robots raises $500M to increase production capacity"
-    },
-    {
      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
      "link": "https://spectrum.ieee.org/telesurgery-stroke",
      "pubDate": "Mon, 16 Nov 2026 14:00:02 +0000",
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more",
+     "link": "https://electrek.co/2026/11/18/engwe-eagle-electric-dirt-bike-m20-3-0-e-bike-anker-eufy-wall-light-cam-s4-more/",
+     "pubDate": "Wed, 18 Nov 2026 19:00:00 +0000",
+     "summary": "Leading today’s Green Deals pack is the ENGWE Black Friday/Cyber Monday deals on the Eagle Electric Dirt Bike with a $276 bundle at a new $799 low , as well as the M20 3.0 Moped-Style e-bike with a $347 bundle starting from $1,399 . We also spotted Anker’s eufy Wall Light Cam S4 and its 2-pack at ne",
+     "source": "Electrek",
+     "zh": "ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more"
+    },
+    {
      "title": "Kia went from this one quirky EV 40 years ago to an entire electric lineup",
      "link": "https://electrek.co/2026/11/18/kia-one-quirky-ev-40-years-ago-to-entire-ev-lineup/",
      "pubDate": "Wed, 18 Nov 2026 18:34:27 +0000",
@@ -712,14 +720,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ford’s BlueOval Battery Park Michigan is now shipping production-grade batteries for testing in Fathom prototypes.",
      "source": "InsideEVs",
      "zh": "Ford Just Started Fathom LFP Battery Production In Michigan. It's A Big Deal"
-    },
-    {
-     "title": "Amflow launches its first city e-bikes, packing huge torque and serious smart tech",
-     "link": "https://electrek.co/2026/11/18/amflow-launches-its-first-city-e-bikes-packing-huge-torque-and-serious-smart-tech/",
-     "pubDate": "Wed, 18 Nov 2026 15:55:42 +0000",
-     "summary": "Amflow has made a name for itself in the electric mountain bike world with its high-performance Avinox-powered machines , but now the company is bringing that same technology to a decidedly more urban environment. The newly unveiled Amflow UE Carbon series marks the brand’s first move into the commu",
-     "source": "Electrek",
-     "zh": "Amflow launches its first city e-bikes, packing huge torque and serious smart tech"
     },
     {
      "title": "This GM EV1 Lives After A Painstaking Restoration",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
+     "link": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html",
+     "pubDate": "Wed, 18 Nov 2026 13:00:00 -0600",
+     "summary": "QazaqGaz, Kazakhstan’s vertically integrated national gas company, has signed a contract with a Chinese consortium to build a gas processing plant with an annual capacity of 2.5 billion cubic meters (bcm) pumped from the Kashagan field. Under the turnkey arrangement, the consortium will manage every",
+     "source": "OilPrice",
+     "zh": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia"
+    },
+    {
      "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
      "link": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/",
      "pubDate": "Wed, 18 Nov 2026 18:09:18 +0000",
@@ -954,22 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
-     "title": "US Oil Inventories On the Rise",
-     "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-On-the-Rise.html",
-     "pubDate": "Wed, 18 Nov 2026 09:39:53 -0600",
-     "summary": "Crude oil inventories in the United States saw an increase of 3.4 million barrels during the week ending November 13, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The increase brings commercial stockpiles to 417.8 million barrels, according to go",
-     "source": "OilPrice",
-     "zh": "US Oil Inventories On the Rise"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1024,14 +1016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1104,6 +1088,22 @@ window.INDUSTRY_DATA = {
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
+    },
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1113,6 +1113,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
+     "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+     "pubDate": "Wed, 18 Nov 2026 13:51:00 -0500",
+     "summary": "Proponents of compounding argue&nbsp;it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH conference.",
+     "source": "BioPharma Dive",
+     "zh": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s"
+    },
     {
      "title": "Novo’s consumer push gains momentum with Wegovy pill, CagriSema on deck",
      "link": "https://endpoints.news/novos-consumer-push-gains-momentum-with-wegovy-pill-cagrisema-on-deck/",
@@ -1296,14 +1304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year.",
      "source": "BioPharma Dive",
      "zh": "AI drugmaker Isomorphic restocks with $5B fundraise"
-    },
-    {
-     "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-     "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
-     "pubDate": "Tue, 17 Nov 2026 07:00:00 -0500",
-     "summary": "Armed with $173 million in venture funding, the startup is developing what it&rsquo;s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
-     "source": "BioPharma Dive",
-     "zh": "Marrow sets out to challenge genetic medicines for severe blood diseases"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+     "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+     "pubDate": "Wed, 18 Nov 2026 19:00:00 +0000",
+     "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
+     "source": "WIRED",
+     "zh": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings"
+    },
+    {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
      "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
@@ -1778,12 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "The \"shameful\" measles data that lost the US its elimination status"
     },
     {
-     "title": "Nvidia Hit with a Ransomware",
-     "link": "https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg",
-     "pubDate": "Wed, 18 Nov 2026 18:19:42 +0000",
-     "summary": "Article URL: https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg Comments URL: https://news.ycombinator.com/item?id=50549967 Points: 8 # Comments: 2",
+     "title": "The Magic of Partial Evaluation",
+     "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+     "pubDate": "Wed, 18 Nov 2026 18:29:03 +0000",
+     "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Nvidia Hit with a Ransomware"
+     "zh": "The Magic of Partial Evaluation"
     },
     {
      "title": "Will Wright's next simulation will use AI to mine content from your memories",
@@ -1794,12 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will Wright's next simulation will use AI to mine content from your memories"
     },
     {
-     "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
-     "link": "https://supercite.ai/blog/ai-answers-change-every-day",
-     "pubDate": "Wed, 18 Nov 2026 17:58:00 +0000",
-     "summary": "Article URL: https://supercite.ai/blog/ai-answers-change-every-day Comments URL: https://news.ycombinator.com/item?id=50549677 Points: 19 # Comments: 15",
+     "title": "Show HN: BPM – Baby Plus Music Visualizer",
+     "link": "https://hberg.com/bpm/",
+     "pubDate": "Wed, 18 Nov 2026 18:00:55 +0000",
+     "summary": "While reminiscing about the dancing baby meme from the mid 90s, I decided to vibe-code this music visualizer for fun. Enjoy! Comments URL: https://news.ycombinator.com/item?id=50549718 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed"
+     "zh": "Show HN: BPM – Baby Plus Music Visualizer"
     },
     {
      "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Forking TuxGuitar into a 17-EDO tab editor",
      "link": "https://frogwizard.bearblog.dev/tuxguitar-17edo/",
      "pubDate": "Wed, 18 Nov 2026 17:41:57 +0000",
-     "summary": "Article URL: https://frogwizard.bearblog.dev/tuxguitar-17edo/ Comments URL: https://news.ycombinator.com/item?id=50549441 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://frogwizard.bearblog.dev/tuxguitar-17edo/ Comments URL: https://news.ycombinator.com/item?id=50549441 Points: 5 # Comments: 1",
      "source": "Hacker News",
      "zh": "Forking TuxGuitar into a 17-EDO tab editor"
     },
@@ -1845,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
      "link": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
      "pubDate": "Wed, 18 Nov 2026 17:41:48 +0000",
-     "summary": "Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats Comments URL: https://news.ycombinator.com/item?id=50549438 Points: 16 # Comments: 5",
+     "summary": "Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats Comments URL: https://news.ycombinator.com/item?id=50549438 Points: 20 # Comments: 5",
      "source": "Hacker News",
      "zh": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Thomas Brewster / Forbes : Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws &nbsp; &mdash;&nbsp; Darpa-backed cyber company tells Forbes its AI is finding all kinds of vulnerabilities, including on",
      "source": "Techmeme",
      "zh": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)"
-    },
-    {
-     "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-     "link": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-     "pubDate": "Wed, 18 Nov 2026 16:24:34 +0000",
-     "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-     "source": "Ars Technica",
-     "zh": "Waymo has stopped its robotaxis from driving on the freeway—here’s why"
     }
    ]
   },
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple releases new HomeView 27.2.1 software update",
+     "link": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
+     "pubDate": "Wed, 18 Nov 2026 18:53:35 +0000",
+     "summary": "Apple has just released its first post-launch software update for the HomeView, version 27.2.1. Here’s how to install it. more…",
+     "source": "9to5Mac",
+     "zh": "Apple releases new HomeView 27.2.1 software update"
+    },
+    {
+     "title": "Samsung is preparing to use Now Nudge to make Audio Eraser more convenient",
+     "link": "https://www.androidauthority.com/samsung-now-nudge-audio-eraser-integration-3736780/",
+     "pubDate": "Wed, 18 Nov 2026 18:51:26 +0000",
+     "summary": "Accessing Audio Eraser could soon be much easier.",
+     "source": "Android Authority",
+     "zh": "Samsung is preparing to use Now Nudge to make Audio Eraser more convenient"
+    },
+    {
+     "title": "YouTube Music is making Ask Music easier to access with a dedicated Gemini button",
+     "link": "https://www.androidauthority.com/youtube-music-ask-music-gemini-shortcut-3736815/",
+     "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
+     "summary": "Ask Music is no longer tucked away in the Home feed.",
+     "source": "Android Authority",
+     "zh": "YouTube Music is making Ask Music easier to access with a dedicated Gemini button"
+    },
     {
      "title": "Here's what will decide which chipset powers the vivo X Fold7",
      "link": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php",
@@ -2098,28 +2122,12 @@ window.INDUSTRY_DATA = {
      "zh": "SoundPEATS Air 6 Pro earbuds hit a record low at 45% off"
     },
     {
-     "title": "Textra SMS takes the top spot among these five Google Messages alternatives",
-     "link": "https://www.androidauthority.com/textra-sms-google-messages-alternatives-poll-3736700/",
-     "pubDate": "Wed, 18 Nov 2026 17:17:05 +0000",
-     "summary": "Readers seem to prefer Textra over the likes of WhatsApp and Signal.",
-     "source": "Android Authority",
-     "zh": "Textra SMS takes the top spot among these five Google Messages alternatives"
-    },
-    {
      "title": "Why GTA 6 doesn't have a 60 fps performance mode",
      "link": "https://www.engadget.com/2320281/why-gta-6-no-60-fps-performance-mode/",
      "pubDate": "Wed, 18 Nov 2026 17:15:15 +0000",
      "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles. That's still the case with GTA 6.",
      "source": "Engadget",
      "zh": "Why GTA 6 doesn't have a 60 fps performance mode"
-    },
-    {
-     "title": "Save $90 on Samsung’s blazing-fast 9100 PRO 1TB SSD",
-     "link": "https://www.androidauthority.com/samsung-9100-pro-1tb-deal-3736776/",
-     "pubDate": "Wed, 18 Nov 2026 17:11:53 +0000",
-     "summary": "Samsung's PCIe 5.0 9100 PRO 1TB is 26% off on Amazon, with read speeds of up to 14,700MB/s.",
-     "source": "Android Authority",
-     "zh": "Save $90 on Samsung’s blazing-fast 9100 PRO 1TB SSD"
     },
     {
      "title": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo"
     },
     {
-     "title": "iPhone Duo is getting three new features in iOS 27.3",
-     "link": "https://9to5mac.com/2026/11/18/iphone-duo-is-getting-three-new-features-in-ios-27-3/",
-     "pubDate": "Wed, 18 Nov 2026 15:55:33 +0000",
-     "summary": "iOS 27.3 launches next month and includes several exciting changes for iPhone Duo, here’s what’s new for Apple’s foldable model. more…",
-     "source": "9to5Mac",
-     "zh": "iPhone Duo is getting three new features in iOS 27.3"
-    },
-    {
      "title": "More details about Apple's 20th-anniversary iPhone emerge",
      "link": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
      "pubDate": "Wed, 18 Nov 2026 16:21:02 +0100",
@@ -2250,6 +2250,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "pubDate": "Wed, 18 Nov 2026 19:08:44 GMT",
+     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+     "source": "CNBC",
+     "zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
+    },
+    {
+     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked",
+     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+     "pubDate": "Wed, 18 Nov 2026 19:07:35 GMT",
+     "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+     "source": "CNBC",
+     "zh": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked"
+    },
+    {
+     "title": "Rithm Capital shares fall for seven consecutive sessions",
+     "link": "https://seekingalpha.com/news/4674366-rithm-capital-shares-fall-for-seven-consecutive-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 14:05:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rithm Capital shares fall for seven consecutive sessions"
+    },
+    {
+     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+     "pubDate": "Wed, 18 Nov 2026 19:00:00 GMT",
+     "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+     "source": "Federal Reserve",
+     "zh": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
+    },
+    {
+     "title": "Quant rating on Soros Fund Management's top holdings: INTC, AMZN, TSM, GOOGL",
+     "link": "https://seekingalpha.com/news/4674331-quant-rating-on-soros-fund-managements-top-holdings-intc-amzn-tsm-googl?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 13:54:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Quant rating on Soros Fund Management's top holdings: INTC, AMZN, TSM, GOOGL"
+    },
+    {
+     "title": "Google expands Project Genie with real-time editing of AI-generated worlds",
+     "link": "https://seekingalpha.com/news/4674355-google-expands-project-genie-with-real-time-editing-of-ai-generated-worlds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 13:48:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Google expands Project Genie with real-time editing of AI-generated worlds"
+    },
+    {
+     "title": "Starboard Value's top holding assigned Buy rating by Seeking Alpha's quant rating",
+     "link": "https://seekingalpha.com/news/4674361-starboard-values-top-holding-assigned-buy-rating-by-seeking-alphas-quant-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 13:47:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Starboard Value's top holding assigned Buy rating by Seeking Alpha's quant rating"
+    },
+    {
      "title": "U.S. indexes are mixed after Nvidia earnings; gold declines",
      "link": "https://seekingalpha.com/news/4674212-us-indexes-are-mixed-after-nvidia-earnings-gold-declines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 13:44:12 -0500",
@@ -2274,36 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Skydance is combining the Warner Bros. and Paramount TV studios"
     },
     {
-     "title": "Europe’s clean-energy push deepens dependence on Chinese technology",
-     "link": "https://seekingalpha.com/news/4674359-europe-s-clean-energy-push-deepens-dependence-on-chinese-technology?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 13:39:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Europe’s clean-energy push deepens dependence on Chinese technology"
-    },
-    {
-     "title": "Lyft adds 9% following CEO's appearance at RBC conference",
-     "link": "https://seekingalpha.com/news/4674354-lyft-adds-9-following-ceos-appearance-at-rbc-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 13:35:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lyft adds 9% following CEO's appearance at RBC conference"
-    },
-    {
-     "title": "Eldorado Gold pitched as long idea by XIB at C4K Investors Conference",
-     "link": "https://seekingalpha.com/news/4674349-eldorado-gold-pitched-as-long-idea-by-xib-at-c4k-investors-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 13:32:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eldorado Gold pitched as long idea by XIB at C4K Investors Conference"
-    },
-    {
-     "title": "Tandem upgraded, Insulet downgraded at Stifel on market for tubeless insulin pumps",
-     "link": "https://seekingalpha.com/news/4674328-tandem-stock-upgraded-insulet-downgraded-stifel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 13:32:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tandem upgraded, Insulet downgraded at Stifel on market for tubeless insulin pumps"
+     "title": "据报道 英伟达董事会在物色CEO过程中已接触Arm的Rene Haas",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934380483.html",
+     "pubDate": "Thu, 19 Nov 2026 02:36:05 +0800",
+     "summary": "据报道， 英伟达 董事会在物色CEO过程中已接触Arm的Rene Haas。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据报道 英伟达董事会在物色CEO过程中已接触Arm的Rene Haas"
     },
     {
      "title": "14只基金扛住市场震荡 押注半导体国产替代主线",
@@ -2378,22 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "APEC会议周，深圳处处都是“投资会客厅”"
     },
     {
-     "title": "从“探路者”到“连接者” APEC“中国年”见证证券业国际化角色进阶",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934379479.html",
-     "pubDate": "Thu, 19 Nov 2026 02:11:51 +0800",
-     "summary": "从上海到北京再到深圳，亚太经济合作组织（APEC）领导人非正式会议先后三次落地中国，见证了中国开放格局的深刻变化。当前，资本市场双向开放持续推进，亚太产业链加速重构，中国证券业的国际化角色也随之跃升——从学习规则、搭建通道，转向陪伴企业出海、连接全球资本。 有业内人士向证券时报记者表示，中资券商国际化已走过早期通道业务和香港平台建设阶段，正进入能力深耕与双向服务并重的新阶段。当然，与国际一流投行相比，资本实力、客户网络、产品体系和人才储备等仍是中资券商急需提升的短板。展望未来，中资券商面对的不再只是“如何走出去”，而是如何在“投资中国”与“中国投资”的双向循环中，提升资产定价话语权和全球资源配",
-     "source": "东方财富股票",
-     "zh": "从“探路者”到“连接者” APEC“中国年”见证证券业国际化角色进阶"
-    },
-    {
-     "title": "Is Apple the safe haven investors think it is? Here&apos;s a way to trade it with less risk",
-     "link": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
-     "pubDate": "Wed, 18 Nov 2026 18:10:21 GMT",
-     "summary": "Traders have flocked to Apple's perceived safety in the wake of Nvidia's scandal. It may not be so safe, says Mike Khouw",
-     "source": "CNBC",
-     "zh": "Is Apple the safe haven investors think it is? Here&apos;s a way to trade it with less risk"
-    },
-    {
      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 18:00:00 GMT",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
     },
     {
-     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked",
-     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-     "pubDate": "Wed, 18 Nov 2026 17:11:11 GMT",
-     "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-     "source": "CNBC",
-     "zh": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked"
-    },
-    {
      "title": "英国10月CPI同比升至3.6%创近一年新高，服务通胀低于预期",
      "link": "https://wallstreetcn.com/articles/3786223",
      "pubDate": "Thu, 19 Nov 2026 01:06:40 +0800",
@@ -2458,12 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "美股三大指数集体下跌 道指跌超1% 国际金银价格下挫"
     },
     {
-     "title": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期",
-     "link": "http://www.eeo.com.cn/2026/1119/1096540.shtml",
-     "pubDate": "Thu, 19 Nov 2026 00:27:07 +0800",
-     "summary": "菱势品牌累计销量突破10万辆以及菱势V8同步上市，成为五菱新能源进入新发展周期的起点。",
-     "source": "经济观察网",
-     "zh": "菱势累计销量突破10万辆\n五菱新能源走完第一个五年周期"
+     "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+     "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 18 Nov 2026 16:07:00 GMT",
+     "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
+     "source": "Finextra",
+     "zh": "World Bank partners Citi and Circle to test stablecoins for development payments"
     },
     {
      "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值状态不太可能长期持续。 “市场最终仍将面临修正。”拉加德表示， 最终决定估值能否站稳脚跟的，将是企业预期盈利，以及这些未来收益折现后所对应的价值。 欧洲央行警告AI投资热潮背后的融资风险 拉加德的表态",
      "source": "华尔街见闻",
      "zh": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利"
-    },
-    {
-     "title": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模",
-     "link": "https://wallstreetcn.com/articles/3786222",
-     "pubDate": "Wed, 18 Nov 2026 23:48:17 +0800",
-     "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 投资者认购需求或超越SpaceX 此次Anthropic IPO的投",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模"
     }
    ]
   },

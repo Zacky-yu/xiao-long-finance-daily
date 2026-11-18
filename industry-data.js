@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 03:36:22",
+ "generated_at": "2026/11/19 03:52:16",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Einride reports 76 percent growth in contracted revenue as autonomous freight operations expand",
+     "link": "https://roboticsandautomationnews.com/2026/11/18/einride-reports-76-percent-growth-in-contracted-revenue-as-autonomous-freight-operations-expand/107308/",
+     "pubDate": "Wed, 18 Nov 2026 19:35:38 +0000",
+     "summary": "Einride, the Swedish autonomous and electric freight technology company, has reported a 76 percent increase in contracted annual recurring revenue (CARR), reaching $167 million in November 2026, compared with $95 million at the end of June. In its third-quarter business update, the Nasdaq-listed com",
+     "source": "Robotics & Automation",
+     "zh": "Einride reports 76 percent growth in contracted revenue as autonomous freight operations expand"
+    },
+    {
      "title": "Imagry and Endera partner to bring American-made autonomous buses to US transit",
      "link": "https://roboticsandautomationnews.com/2026/11/18/imagry-and-endera-partner-to-bring-american-made-autonomous-buses-to-us-transit/107304/",
      "pubDate": "Wed, 18 Nov 2026 19:27:17 +0000",
@@ -560,14 +568,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you’re planning a new site, you’re not just picking colors and fonts. You’re making decisions that affect security, performance, search visibility, and how much control you’ll have six months from now. That matters even more if your site supports a business, a portfolio, or any kind of public-fac",
      "source": "Robotics & Automation",
      "zh": "Choosing the Right Site Builder When You Need Security, Speed, and Room to Grow"
-    },
-    {
-     "title": "How the Right LMS Tools Support Training at Every Company Level",
-     "link": "https://roboticsandautomationnews.com/2026/11/18/how-the-right-lms-tools-support-training-at-every-company-level/107275/",
-     "pubDate": "Wed, 18 Nov 2026 13:42:50 +0000",
-     "summary": "Training works best when each employee receives instruction matched to current responsibilities and future demands. A learning management system (LMS) gives companies one place to assign courses, track completion, assess knowledge, and document compliance. Its value depends on how well it serves exe",
-     "source": "Robotics & Automation",
-     "zh": "How the Right LMS Tools Support Training at Every Company Level"
     },
     {
      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA",
+     "link": "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/",
+     "pubDate": "Wed, 18 Nov 2026 19:34:52 +0000",
+     "summary": "IONNA, the DC charging operator backed by several major OEMs , has opened its largest DC charging site yet, with 22 bays of 400kW charging in Westminster, California. Alongside the opening, IONNA is also enabling Plug & Charge operation for Tesla EVs, with Stellantis EVs “coming soon.” more…",
+     "source": "Electrek",
+     "zh": "IONNA enables Plug & Charge for Tesla, opens 22 bay site in Westminster, CA"
+    },
+    {
      "title": "ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more",
      "link": "https://electrek.co/2026/11/18/engwe-eagle-electric-dirt-bike-m20-3-0-e-bike-anker-eufy-wall-light-cam-s4-more/",
      "pubDate": "Wed, 18 Nov 2026 19:00:00 +0000",
@@ -704,14 +712,6 @@ window.INDUSTRY_DATA = {
      "summary": "West Coast Customs has finished its first electric Chevy Bel Air, and there’s not much Chevy left under the paint. The Burbank shop cut the body off a Tesla Model 3, kept the entire rolling platform, and set a 1955 Bel Air shell on top of it. The result, called Project B-Zero, looks like a ’55 Chevy",
      "source": "Electrek",
      "zh": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air"
-    },
-    {
-     "title": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
-     "link": "https://electrek.co/2026/11/18/fords-first-lfp-batteries-en-route-30k-fathom-ev-pickup/",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-     "summary": "Ford has entered the battery business. The first LFP battery cells are now rolling off the assembly line at Ford’s BlueOval Battery Park plant in Michigan and are headed to power Fathom prototypes in Kentucky. more…",
-     "source": "Electrek",
-     "zh": "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first"
     },
     {
      "title": "Ford Just Started Fathom LFP Battery Production In Michigan. It's A Big Deal",
@@ -1114,6 +1114,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Seven burning questions about the FDA’s post-Overton future",
+     "link": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+     "pubDate": "Wed, 18 Nov 2026 19:33:57 +0000",
+     "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+     "source": "STAT News",
+     "zh": "STAT+: Seven burning questions about the FDA’s post-Overton future"
+    },
+    {
      "title": "STAT+: The emerging winners and losers in the AI scribe market",
      "link": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
      "pubDate": "Wed, 18 Nov 2026 19:25:59 +0000",
@@ -1264,14 +1272,6 @@ window.INDUSTRY_DATA = {
      "summary": "LONDON — Less than a year after launching from stealth with $28 million, the AI bio startup Boltz has raised a $110 million Series A round, its leaders exclusively told Endpoints News. The ...",
      "source": "Endpoints News",
      "zh": "AI bio startup Boltz raises $110M Series A"
-    },
-    {
-     "title": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?",
-     "link": "https://www.statnews.com/2026/11/18/susan-collins-election-loss-impact-science-funding/?utm_campaign=rss",
-     "pubDate": "Wed, 18 Nov 2026 09:30:00 +0000",
-     "summary": "Some science advocates worry that Maine GOP Sen. Susan Collins’ defeat could hamper their ability to push back on Trump administration research policies.",
-     "source": "STAT News",
-     "zh": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?"
     },
     {
      "title": "Alcohol Suppresses Some T Cells, Boosts Others, Blunting Anti-PD-1 Response in Mice",
@@ -1450,6 +1450,14 @@ window.INDUSTRY_DATA = {
      "zh": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1488,6 +1496,14 @@ window.INDUSTRY_DATA = {
      "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
+    },
+    {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     },
     {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -1530,12 +1546,12 @@ window.INDUSTRY_DATA = {
      "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     },
     {
-     "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
-     "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
-     "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
-     "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […] The post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a C",
-     "source": "SpaceNews",
-     "zh": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology"
+     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
+     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history"
     }
    ]
   },
@@ -1545,6 +1561,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+     "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+     "pubDate": "Wed, 18 Nov 2026 14:39:33 -0500",
+     "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+     "source": "BleepingComputer",
+     "zh": "Data breach impacts 40 Irish credit unions in reported IT provider hack"
+    },
     {
      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
@@ -1698,14 +1722,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft announces Windows Server 2028 with hardened security"
     },
     {
-     "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-     "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-     "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500",
-     "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-     "source": "BleepingComputer",
-     "zh": "British Scattered Spider hacker sentenced to 6 years in prison"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1754,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The ‘GTA 6’ Work Blackout Is Here",
+     "link": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+     "pubDate": "Wed, 18 Nov 2026 19:34:55 +0000",
+     "summary": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
+     "source": "WIRED",
+     "zh": "The ‘GTA 6’ Work Blackout Is Here"
+    },
+    {
+     "title": "Best Buy sells Blu-rays online and in-store again",
+     "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+     "pubDate": "Wed, 18 Nov 2026 19:31:17 +0000",
+     "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+     "source": "Ars Technica",
+     "zh": "Best Buy sells Blu-rays online and in-store again"
+    },
+    {
      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
      "pubDate": "Wed, 18 Nov 2026 19:29:41 +0000",
@@ -1773,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
      "pubDate": "Wed, 18 Nov 2026 19:19:33 +0000",
-     "summary": "Erratic Muse outputs sharing random bank, Bitcoin balances aren’t real, Meta says.",
+     "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
      "source": "Ars Technica",
      "zh": "Muse privacy invasions are freaking out Meta staffers, internal chats show"
     },
@@ -1821,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "The Magic of Partial Evaluation",
      "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
      "pubDate": "Wed, 18 Nov 2026 18:29:03 +0000",
-     "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 21 # Comments: 1",
+     "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 24 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Magic of Partial Evaluation"
     },
@@ -1829,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Scottish HTTP Codes",
      "link": "https://underwood.network/http/scots.html",
      "pubDate": "Wed, 18 Nov 2026 18:26:19 +0000",
-     "summary": "Article URL: https://underwood.network/http/scots.html Comments URL: https://news.ycombinator.com/item?id=50550062 Points: 31 # Comments: 3",
+     "summary": "Article URL: https://underwood.network/http/scots.html Comments URL: https://news.ycombinator.com/item?id=50550062 Points: 63 # Comments: 7",
      "source": "Hacker News",
      "zh": "Scottish HTTP Codes"
     },
@@ -1906,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance"
     },
     {
-     "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
-     "link": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
-     "pubDate": "Wed, 18 Nov 2026 17:30:54 +0000",
-     "summary": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
-     "source": "WIRED",
-     "zh": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab"
-    },
-    {
      "title": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能",
      "link": "https://www.ithome.com/1/029/128.htm",
      "pubDate": "Wed, 18 Nov 2026 17:28:32 GMT",
@@ -1952,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 19 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法。其中，让各式各样的设备刷入苹果 iOS 系统，是当下最受欢迎的探索方向之一。 参考IT之家此前报道，已有 小米 8 刷入 iOS 16.5 系统并伪装成 iPhone X 、 REDMI K20 Pro 刷入苹果 iOS 16 测试固件包 变身真“全面屏 iPhone”等先例。不过刷入 iOS 后的设备常常伴随着功能缺失和运行不稳定，最典型的就是 Wi-Fi 下线、Face ID / Touch ID 失效等。 博主 @BugOS技术组 昨晚分享的视频显示，已有刷入 iOS 系统的安卓设备成功“复",
      "source": "IT之家",
      "zh": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能"
-    },
-    {
-     "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-     "link": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-     "pubDate": "Wed, 18 Nov 2026 16:58:32 +0000",
-     "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-     "source": "Ars Technica",
-     "zh": "Vulcan failure caused by inadequate fuel supply to engines, ULA says"
     },
     {
      "title": "华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能",
@@ -2001,6 +2017,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
+     "link": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+     "pubDate": "Wed, 18 Nov 2026 19:47:06 +0000",
+     "summary": "Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. more…",
+     "source": "9to5Mac",
+     "zh": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2"
+    },
+    {
+     "title": "One UI 9.5 could give lost phones a better chance of finding their way home with lock screen IMEI",
+     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/",
+     "pubDate": "Wed, 18 Nov 2026 19:37:41 +0000",
+     "summary": "Here's how that works.",
+     "source": "Android Authority",
+     "zh": "One UI 9.5 could give lost phones a better chance of finding their way home with lock screen IMEI"
+    },
+    {
+     "title": "GTA 6's cops will remember you thanks to the 'Heat' system",
+     "link": "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/",
+     "pubDate": "Wed, 18 Nov 2026 19:34:34 +0000",
+     "summary": "It's a fun evolution of the iconic Wanted mechanic.",
+     "source": "Engadget",
+     "zh": "GTA 6's cops will remember you thanks to the 'Heat' system"
+    },
+    {
+     "title": "Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR",
+     "link": "https://www.engadget.com/2320945/xreal-aura-review/",
+     "pubDate": "Wed, 18 Nov 2026 19:30:00 +0000",
+     "summary": "For $1,099, we should expect more.",
+     "source": "Engadget",
+     "zh": "Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR"
+    },
     {
      "title": "PlayStation outage hits right before GTA VI launch",
      "link": "https://www.androidauthority.com/playstation-outage-nov-2026-3736853/",
@@ -2082,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel Watch owners keep running into trouble activating service on Verizon"
     },
     {
-     "title": "Google’s mandatory foldable app guidelines are here, and optimized apps are coming in 2027",
-     "link": "https://www.androidauthority.com/google-foldable-app-optimization-guidelines-3736653/",
-     "pubDate": "Wed, 18 Nov 2026 18:00:54 +0000",
-     "summary": "Google is getting serious about app optimization for foldables.",
-     "source": "Android Authority",
-     "zh": "Google’s mandatory foldable app guidelines are here, and optimized apps are coming in 2027"
-    },
-    {
      "title": "GTA 6 launch day: Live updates on the biggest game of the year",
      "link": "https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/",
      "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
@@ -2130,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Vivo X500 Pro camera review: Battle of the small(er) phones vs Pixel 11 Pro"
     },
     {
-     "title": "Why GTA 6 doesn't have a 60 fps performance mode",
-     "link": "https://www.engadget.com/2320281/why-gta-6-no-60-fps-performance-mode/",
-     "pubDate": "Wed, 18 Nov 2026 17:15:15 +0000",
-     "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles. That's still the case with GTA 6.",
-     "source": "Engadget",
-     "zh": "Why GTA 6 doesn't have a 60 fps performance mode"
-    },
-    {
      "title": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around",
      "link": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
      "pubDate": "Wed, 18 Nov 2026 18:02:02 +0100",
@@ -2168,14 +2200,6 @@ window.INDUSTRY_DATA = {
      "summary": "Besides removing the Samples tab , YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner. more…",
      "source": "9to5Google",
      "zh": "YouTube Music rolling out corner Gemini icon to launch Ask Music"
-    },
-    {
-     "title": "SiriusXM and Pandora will provide podcast transcripts for the deaf and hard-of-hearing community",
-     "link": "https://www.engadget.com/2320646/siriusxm-and-pandora-will-provide-podcast-transcripts-for-the-deaf-and-hard-of-hearing-community/",
-     "pubDate": "Wed, 18 Nov 2026 16:48:02 +0000",
-     "summary": "This settles a lawsuit that goes all the way back to 2021.",
-     "source": "Engadget",
-     "zh": "SiriusXM and Pandora will provide podcast transcripts for the deaf and hard-of-hearing community"
     },
     {
      "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
@@ -2210,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Whose photo inspired you most in 2026?"
     },
     {
-     "title": "9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo",
-     "link": "https://9to5mac.com/2026/11/18/daily-november-18-2026/",
-     "pubDate": "Wed, 18 Nov 2026 15:58:33 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo"
-    },
-    {
      "title": "More details about Apple's 20th-anniversary iPhone emerge",
      "link": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
      "pubDate": "Wed, 18 Nov 2026 16:21:02 +0100",
@@ -2250,6 +2266,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "pubDate": "Wed, 18 Nov 2026 19:41:59 GMT",
+     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+     "source": "CNBC",
+     "zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
+    },
+    {
+     "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+     "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 19:39:00 GMT",
+     "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+     "source": "MarketWatch",
+     "zh": "Washington is scrambling to get to the bottom of the growing number of tech outages across America"
+    },
+    {
+     "title": "Fed minutes show growing unease about the outlook for inflation",
+     "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 19:38:00 GMT",
+     "summary": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+     "source": "MarketWatch",
+     "zh": "Fed minutes show growing unease about the outlook for inflation"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 19:30:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
      "title": "Comstock Resources cut to Sell equivalent, CNX Resources raised at Morgan Stanley",
      "link": "https://seekingalpha.com/news/4674369-comstock-resources-cut-to-sell-equivalent-cnx-resources-raised-at-morgan-stanley?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 14:27:29 -0500",
@@ -2264,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "UniFirst/Cintas deal spread narrows on report companies optimistic for FTC approval"
-    },
-    {
-     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-     "pubDate": "Wed, 18 Nov 2026 19:26:32 GMT",
-     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-     "source": "CNBC",
-     "zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
     },
     {
      "title": "美股三大指数涨跌不一 国际金银价格下挫 美元指数创2025年4月以来最高水平",
@@ -2312,6 +2352,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. indexes are mixed after Nvidia earnings; gold declines"
+    },
+    {
+     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked",
+     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+     "pubDate": "Wed, 18 Nov 2026 19:17:27 GMT",
+     "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+     "source": "CNBC",
+     "zh": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren&apos;t linked"
     },
     {
      "title": "KFC franchisee declares bankruptcy",
@@ -2386,6 +2434,22 @@ window.INDUSTRY_DATA = {
      "zh": "14只基金扛住市场震荡 押注半导体国产替代主线"
     },
     {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 18:30:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
+     "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 18:28:00 GMT",
+     "summary": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
+     "source": "MarketWatch",
+     "zh": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride."
+    },
+    {
      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 18:27:54 GMT",
@@ -2400,6 +2464,14 @@ window.INDUSTRY_DATA = {
      "summary": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
      "source": "CNBC",
      "zh": "Investigators make progress in hunt for cause of FAA ground stop"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 18:00:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
     },
     {
      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
@@ -2432,62 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
      "source": "Finextra",
      "zh": "World Bank partners Citi and Circle to test stablecoins for development payments"
-    },
-    {
-     "title": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？",
-     "link": "https://wallstreetcn.com/articles/3786215",
-     "pubDate": "Thu, 19 Nov 2026 00:04:32 +0800",
-     "summary": "AI热潮推动华尔街投行今年迎来丰收年，但这场资本盛宴可能难以延续。 11月18日，彭博专栏作家保罗·J·戴维斯撰文指出， 高盛和摩根士丹利等大型投行已与AI驱动的市场繁荣深度绑定，其股价走势与纳斯达克100指数高度同步。一旦科技股出现调整，投行的交易收入和奖金池都可能受到冲击。即便AI股票没有大幅下跌，华尔街也很难在2027年复制今年近乎完美的市场环境。 今年的IPO热潮尤为突出。据彭博数据，Anthropic计划本周完成规模最高达1000亿美元的IPO，有望将2026年全球IPO募资总额推高至约2700亿美元，远超2021年创下的1600亿美元纪录。 不过，科技行业融资热情已显露降温迹象，股",
-     "source": "华尔街见闻",
-     "zh": "高盛、摩根士丹利与AI行情深度绑定，华尔街投行的好日子还能持续多久？"
-    },
-    {
-     "title": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利",
-     "link": "https://wallstreetcn.com/articles/3786221",
-     "pubDate": "Thu, 19 Nov 2026 00:04:16 +0800",
-     "summary": "欧洲央行行长拉加德警告，人工智能（AI）相关股票的高估值最终可能面临市场修正。尽管近期科技股已经出现明显回调，但她认为，当前AI企业的估值水平仍然过于激进，能否维持取决于未来盈利能否兑现。 当地时间11月18日，拉加德在纽约时报DealBook峰会上表示， 即使经历了过去几周的“显著价格修正”，AI相关股票的估值水平依然“非常激进”。 她强调， 欧洲央行并未将当前市场状况直接定义为泡沫，但这种估值状态不太可能长期持续。 “市场最终仍将面临修正。”拉加德表示， 最终决定估值能否站稳脚跟的，将是企业预期盈利，以及这些未来收益折现后所对应的价值。 欧洲央行警告AI投资热潮背后的融资风险 拉加德的表态",
-     "source": "华尔街见闻",
-     "zh": "欧央行行长：AI相关股票估值仍“非常激进”，市场终将面临修正，关键在于企业盈利"
-    },
-    {
-     "title": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模",
-     "link": "https://wallstreetcn.com/articles/3786222",
-     "pubDate": "Wed, 18 Nov 2026 23:48:17 +0800",
-     "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 投资者认购需求或超越SpaceX 此次Anthropic IPO的投",
-     "source": "华尔街见闻",
-     "zh": "Anthropic IPO需求爆棚！报道：认购逼近5000亿美元，考虑扩大募资规模"
-    },
-    {
-     "title": "New Zealand banks form fraud intelligence sharing network",
-     "link": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 18 Nov 2026 15:29:00 GMT",
-     "summary": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
-     "source": "Finextra",
-     "zh": "New Zealand banks form fraud intelligence sharing network"
-    },
-    {
-     "title": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟",
-     "link": "https://wallstreetcn.com/articles/3786214",
-     "pubDate": "Wed, 18 Nov 2026 23:15:36 +0800",
-     "summary": "腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，WorkBuddy日活突破1000万、年化收入超5亿美元，管理层定调——\"AI让现有业务用更少的人，多出来的人去建新业务。\" 周三晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米歇尔（James Mitchell）以及CFO罗硕瀚参与本次电话会。 总体而言，管理层在本次电话会上定调：AI投入正在产生可见回报，但算力限制对下一代模型训练带来真实压力。 腾讯表示，WorkBuddy的日活跃用户（DAU）超过1000万，每天消耗100万亿token， 最近七天的收",
-     "source": "华尔街见闻",
-     "zh": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟"
-    },
-    {
-     "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-     "pubDate": "Wed, 18 Nov 2026 15:13:39 GMT",
-     "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-     "source": "CNBC",
-     "zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
-    },
-    {
-     "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问",
-     "link": "http://finance.eastmoney.com/news/1351,202611183934332462.html",
-     "pubDate": "Wed, 18 Nov 2026 23:11:35 +0800",
-     "summary": "问： 中韩自贸协定第二阶段谈判经历了怎样的历程？ 答： 双方以两国元首重要共识为指引，推进中韩自贸协定第二阶段谈判，历经8年多时间，于近日实质性完成。2017年12月，习近平主席与时任韩国总统文在寅共同宣布启动第二阶段谈判，双方以负面清单模式开展投资和服务贸易谈判。2018年3月首轮谈判以来，双方共举行17轮正式谈判，深入推动有关规则和市场准入磋商，积累谈判成果。 2025年11月和2026年1月，习近平主席与韩国总统李在明两次会晤，双方同意加快推进中韩自贸协定第二阶段谈判，争取早日达成一致。为落实两国元首重要共识，2025年11月以来，双方举行多次部级会谈、首席谈判代表会议及工作组会议，努力",
-     "source": "东方财富资讯",
-     "zh": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 17:11:58",
+ "generated_at": "2026/11/18 17:17:11",
  "recent_days": 7,
  "industries": [
   {
@@ -330,6 +330,54 @@ window.INDUSTRY_DATA = {
      "zh": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field"
     },
     {
+     "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
+     "link": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 06:16:17 +0000",
+     "summary": "Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of […] The post Nvidia Q3 sparkles. Chairman says no return for Jensen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Nvidia Q3 sparkles. Chairman says no return for Jensen"
+    },
+    {
+     "title": "Siemens buys Breker Verification Systems",
+     "link": "https://www.electronicsweekly.com/news/business/siemens-buys-breker-verification-systems-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 06:12:21 +0000",
+     "summary": "Siemens is to buy Breker Verification Systems acquiring SoC-level technologies that accelerate the verification of increasingly complex SoC architectures. Upon closing, the acquisition will strengthen Siemens’ SoC verification portfolio, building […] The post Siemens buys Breker Verification Systems",
+     "source": "Electronics Weekly",
+     "zh": "Siemens buys Breker Verification Systems"
+    },
+    {
+     "title": "Imec sets up photonics R&D centre in Hokkaido",
+     "link": "https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 06:10:52 +0000",
+     "summary": "Imec is expanding its activities in Hokkaido, Japan, with the backing of Japan’s Ministry of Economy, Trade and Industry (METI) and in collaboration with Leading-edge Semiconductor Technology Center (LSTC), to […] The post Imec sets up photonics R&D centre in Hokkaido appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "Imec sets up photonics R&D centre in Hokkaido"
+    },
+    {
+     "title": "SkyeChip and SiPearl hook up to design Arm-based CPU",
+     "link": "https://www.electronicsweekly.com/news/business/skyechip-and-sipearl-hook-up-to-design-arm-based-cpu-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 06:08:12 +0000",
+     "summary": "SkyeChip, the Malaysian IC design company, and SiPearl, the French CPU designer, have signed a non-binding MoU to define, develop and commercialise a next-generation compute platform based on Arm Neoverse […] The post SkyeChip and SiPearl hook up to design Arm-based CPU appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "SkyeChip and SiPearl hook up to design Arm-based CPU"
+    },
+    {
+     "title": "Farnell selling Panasonic ERJPC series resistors",
+     "link": "https://www.electronicsweekly.com/news/business/farnell-selling-panasonic-erjpc-series-resistors-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 06:01:15 +0000",
+     "summary": "Farnell is now selling the ERJPC series of super high-precision thick-film resistors from Panasonic. The series delivers precision levels previously only achievable with thin-film technology, offering engineers a new tool […] The post Farnell selling Panasonic ERJPC series resistors appeared first o",
+     "source": "Electronics Weekly",
+     "zh": "Farnell selling Panasonic ERJPC series resistors"
+    },
+    {
+     "title": "Top Ten (less 5) Vendors Of Server CPUs",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-vendors-of-cpus-for-servers-2026-11/",
+     "pubDate": "Wed, 18 Nov 2026 01:01:38 +0000",
+     "summary": "Thanks to TrendForce for this one – the top five suppliers of CPUs for servers: The post Top Ten (less 5) Vendors Of Server CPUs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten (less 5) Vendors Of Server CPUs"
+    },
+    {
      "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
      "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
      "pubDate": "Tue, 17 Nov 2026 22:37:22 +0000",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Why both approaches are needed at angstrom-level dimensions. The post Physics Vs. Data appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Physics Vs. Data"
-    },
-    {
-     "title": "Chip Industry Technical Paper Roundup: Nov. 17",
-     "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
-     "pubDate": "Tue, 17 Nov 2026 08:01:08 +0000",
-     "summary": "HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embedded ECC for AI weight protection; optimized e-beam evaporation for metal-semiconductor contacts; sub-volt HZO ferroelectric capacitors; randomized-cache HW sec",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
-    },
-    {
-     "title": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/wolfspeed-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 21:05:00 GMT",
-     "summary": "For its fiscal first-quarter 2027 (to 27 September 2026), Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has reported revenue of $155m, down 21% on $196.8m a year ago but recovering by 3.6% from $149.6m last quarter, and exceeding the",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed’s revenue rebounds by 3.6% in September quarter to $155m"
-    },
-    {
-     "title": "Lumentum ranked among Forbes America’s Best Companies",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-161126.shtml",
-     "pubDate": "Mon, 16 Nov 2026 20:21:26 GMT",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been recognized on two Forbes company rankings: America’s Best Companies 2027 and America’s Most Innovative Large Companies 2026. Founded in 2015, Lumentum employs 1",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum ranked among Forbes America’s Best Companies"
-    },
-    {
-     "title": "CXO Interview with Vishal Moondhra of Perforce IPLM",
-     "link": "https://semiwiki.com/eda/perforce/375968-cxo-interview-with-vishal-moondhra-of-perforce-iplm/",
-     "pubDate": "Mon, 16 Nov 2026 20:00:27 +0000",
-     "summary": "Vishal Moondhra is the VP of Solutions Engineering for Perforce IPLM. He has over 20 years of experience in Digital Design and Verification. Vishal has an impressive resume of engineering and senior management positions including innovative startups like LGT and Montalvo, and large multinationals su",
-     "source": "SemiWiki",
-     "zh": "CXO Interview with Vishal Moondhra of Perforce IPLM"
-    },
-    {
-     "title": "The AI-First Platform the Disaggregated Semiconductor Industry Needs",
-     "link": "https://semiwiki.com/eda/pdf-solutions/376330-the-ai-first-platform-the-disaggregated-semiconductor-industry-needs/",
-     "pubDate": "Mon, 16 Nov 2026 18:00:06 +0000",
-     "summary": "On October 13, 2026, the opening day of SEMICON West, the ESD Alliance hosted a full-day program of presentations and in-depth discussions on the theme “Bridging Design and Manufacturing with AI.” Among the speakers was Kimon Michaels, co-founder and Executive VP of Products and Solutions at PDF Sol",
-     "source": "SemiWiki",
-     "zh": "The AI-First Platform the Disaggregated Semiconductor Industry Needs"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1085,7 +1085,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1786,36 +1786,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "来自世界模型的风，吹到AI互动剧了",
+     "link": "https://www.huxiu.com/article/4906576.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:13:46 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：王耐 近期，券商对AI互动影游的关注明显升温。 多家券商在近两个月密集发布相关研报，讨论世界模型迭代为互动影游带来的新机会。从“世界模型加速迭代，望成文娱内容新引擎”，到“互动内容兴起、市场有望快速扩张”，世界模型与互动影游的组合，正成为传媒板块研报中的一个新话题。 这股关注并非没有产业背景。从爱诗科技将世界模型能力引入互动影游，到谷歌、Runway等海外厂商持续探索实时生成式虚拟环境，再到字节跳动被曝布局相关技术，世界模型的技术探索正从具身智能向内容创作和互动娱乐延伸。 不过，技术热度与产业落地之间仍有距离。采访中，多位从业者对世界模型给互动影游带来",
+     "source": "虎嗅",
+     "zh": "来自世界模型的风，吹到AI互动剧了"
+    },
+    {
+     "title": "宗馥莉再掀人事风暴：173名管理人员被免职",
+     "link": "https://www.huxiu.com/article/4906573.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:11:16 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 宏胜饮料集团的员工还没等来年度大会，却等来了人事震动。 11月18日，界面新闻获得的两份宏胜饮料集团人事任免文件显示，集团管理层和各地生产基地岗位出现大范围调整。 其中，11月16日的文件涉及36项任命；而11月17日发布的《关于李文军等职务任免的通知》任命4名人员，免去173人的现任职务。 目前娃哈哈及宏胜集团暂无媒体联络渠道，界面新闻试图联系该公司市场部人员，但截止发稿未能接通。 这不是宏胜今年第一次调整人员。今年5月，宏胜已有过一次重要人员变动，界面新闻获得的一份宏胜饮料集团发布的组织架构调整及人员任免通知显示，营销中心总监兼销售公司总经理",
+     "source": "虎嗅",
+     "zh": "宗馥莉再掀人事风暴：173名管理人员被免职"
+    },
+    {
+     "title": "100亿美元建设热潮，重塑布拉格",
+     "link": "https://www.huxiu.com/article/4906571.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:09:51 +0800",
+     "summary": "本文来自微信公众号： CITY来不 ，作者：CITYLAB，原文标题：《100亿美元建设热潮 重塑布拉格》 布拉格的历史中心遍布巴洛克式教堂、哥特式尖塔和红瓦屋顶，外围环绕着现代主义风格的混凝土公寓楼。在这两者之间，新的城区在逐步成形，长长的林荫大道、公园和现代化综合用途建筑相继出现——主要得益于捷克和斯洛伐克的亿万富豪投资者的推动。 这场历时二十年、耗资超过100亿美元的工程，将对废弃的铁路货场、工厂和货运站进行改造，尤其是在北部的布布尼-扎托里和西南部的斯米霍夫地区，这是自近40年以来，重塑捷克首都最具影响力的行动。 布拉格北部的布布尼项目效果图。图片来源：Penta Real Estat",
+     "source": "虎嗅",
+     "zh": "100亿美元建设热潮，重塑布拉格"
+    },
+    {
+     "title": "四年间从资本宠儿到破产重组，自行车生意怎么了",
+     "link": "https://www.huxiu.com/article/4906570.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:09:23 +0800",
+     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：月半，原文标题：《四年间从资本宠儿到破产重组，自行车生意怎么了｜行业观察》 欧洲自行车行业进入“寒冬”，国内市场呈现出更为复杂的冷暖交织。 2026年即将进入尾声，全球自行车行业似乎还没有走出周期底部。从2022年的“一车难求”到如今“去库存大考”，期间不过短短四年。在自行车行业穿越周期的过程中，已经有部分企业倒下了。 在今年8月，欧洲自行车龙头企业Accell集团宣布启动破产程序。在巅峰时期，Accell旗下有Batavus、Sparta、Haibike、Ghost、Lapierre、Raleigh等十多个知名品牌。 日前，Ghost品牌有了最新消",
+     "source": "虎嗅",
+     "zh": "四年间从资本宠儿到破产重组，自行车生意怎么了"
+    },
+    {
+     "title": "方便面卖不动了，康师傅和统一反而赚更多？",
+     "link": "https://www.huxiu.com/article/4906569.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:08:34 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《方便面卖不动了，康师傅和统一反而赚更多？| 声动早咖啡》 欢迎来到今天的轻解读。不知道你有多久没吃过方便面了？当我们想要快速解决一顿饭的时候，外卖，可能是现在很多人的首选；当我们想要简单吃一点的时候，从冰箱里拿出速冻饺子煮一煮也挺省事；再加上这几年大家越来越推崇低卡、高蛋白的饮食，所以方便面这个品类，似乎也渐渐淡出了不少人的日常选择。 世界方便面协会的数据显示，2013年，中国的方便面需求超过462亿份，创下了历史高位。按那一年的人口计算，这个数字相当于每人每年消费了34包方便面。但从那以后，整个行业就进入了漫长的下行周期",
+     "source": "虎嗅",
+     "zh": "方便面卖不动了，康师傅和统一反而赚更多？"
+    },
+    {
+     "title": "新跑鞋成了耐克“全村的希望”",
+     "link": "https://www.huxiu.com/article/4906566.html?f=rss",
+     "pubDate": "Wed, 18 Nov 2026 17:05:17 +0800",
+     "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜视觉中国 全球裁员上千人、清退中国数千家线上经销商、撤销大中华区市场的独立地位，再将全球四大区域整合为三个&hellip;&hellip;今年是耐克的多事之秋，这家巨头公司密集宣布了一系列堪称&ldquo;雷霆&rdquo;的调整动作。 大动作之后，耐克终于拿出了新的复苏时间表。美国当地时间11月17日，耐克时隔9年再次召开投资者日，公布了名为&ldquo;全速前进&rdquo;（Full Stride Ahead）的五年战略，发展规划分三部分，分别为创新突破（Epic）、深度连接（Connected）和快速行动（Fast）。按照规划，以",
+     "source": "虎嗅",
+     "zh": "新跑鞋成了耐克“全村的希望”"
+    },
+    {
      "title": "London-based Payhawk, which offers enterprise expense and procurement management tools, raised a $280M Series C led by Goldman Sachs at a $2B valuation (Yazhou Sun/Bloomberg)",
      "link": "https://www.techmeme.com/261118/p5#a261118p5",
      "pubDate": "Wed, 18 Nov 2026 04:00:13 -0500",
      "summary": "Yazhou Sun / Bloomberg : London-based Payhawk, which offers enterprise expense and procurement management tools, raised a $280M Series C led by Goldman Sachs at a $2B valuation &nbsp; &mdash;&nbsp; Payhawk, a fintech startup that helps businesses manage expenses, has raised fresh financing led by th",
      "source": "Techmeme",
      "zh": "London-based Payhawk, which offers enterprise expense and procurement management tools, raised a $280M Series C led by Goldman Sachs at a $2B valuation (Yazhou Sun/Bloomberg)"
-    },
-    {
-     "title": "方圆3公里开20家，近年爆火的网吧，真的赚钱吗？",
-     "link": "https://www.huxiu.com/article/4904071.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0800",
-     "summary": "在手机人人一台、家家千兆宽带的今天，网吧却在方圆3公里内开出了20家，生意反而越来越火。网吧复兴的动力是什么？它真的是一门好生意吗？",
-     "source": "虎嗅",
-     "zh": "方圆3公里开20家，近年爆火的网吧，真的赚钱吗？"
-    },
-    {
-     "title": "腾讯音乐的增长，开始靠买了",
-     "link": "https://www.huxiu.com/article/4906564.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 16:58:41 +0800",
-     "summary": "本文来自微信公众号： 奇点湃 ，作者：李燕 11月17日，腾讯音乐发布2026年第三季度财报。总收入89.4亿元，同比增长5.6%；调整后净利润25.3亿元，同比增长2.1%；经调整EBITDA为30.2亿元，同比增长2.7%。公司口径里，这是一份「健康增长」的季报。 把增速拉成一条线，能看到另一组事实。2025年三季度，腾讯音乐收入增速还有20.6%，此后连续四个季度回落，2026年一季度7.3%，二季度5.8%，三季度5.6%。收入盘子还在变大，动力却在一个季度一个季度地减弱。 这一季度有个特殊背景：这是收购喜马拉雅之后，第一份完整并表的季报。2026年5月18日，腾讯音乐以12.6亿美元",
-     "source": "虎嗅",
-     "zh": "腾讯音乐的增长，开始靠买了"
-    },
-    {
-     "title": "“筷子夹飞船”，国内走到哪一步了？",
-     "link": "https://www.huxiu.com/article/4906565.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 16:57:32 +0800",
-     "summary": "本文来自微信公众号： 科创板日报 ，作者：李明明 火箭二级回收，正成为全球商业航天界面临的最新一道必答题。 星舰第二级飞船结束约22.5小时的轨道飞行后返回地球，被发射塔机械臂捕获。这是人类航天史上第一次有轨道级飞行器从太空返回后被地面设施接住，也意味着火箭二级回收第一次有了成功案例。几日过去，这一接在国内外航天界引发的讨论仍在升温。 一级回收和二级回收不是同一个命题。一级分离时速度约2公里/秒，返回全程6到7分钟；二级要从约7.8公里/秒的轨道速度再入大气层，闯过热防护、通信黑障、气动减速和精准着陆，返回过程约1小时。 如何定性这次二级回收的行业意义？北京穿越者载人航天科技有限公司相关负责人",
-     "source": "虎嗅",
-     "zh": "“筷子夹飞船”，国内走到哪一步了？"
     },
     {
      "title": "贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题",
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%"
     },
     {
-     "title": "谷歌反垄断案背后：当国家安全开始介入美国科技监管",
-     "link": "https://www.huxiu.com/article/4906560.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 16:30:59 +0800",
-     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 今年9月，联邦地区法院在司法部诉谷歌广告技术业务一案中，认定谷歌存在非法垄断行为，却驳回了强制拆分其广告技术业务的请求，转而采取信息共享、保障互操作性等行为性救济。这一裁定再次引出一个问题：面对科技巨头，反垄断执法究竟应该考量哪些因素？ 11月5日，美国战略与国际研究中心（CSIS）战略技术项目主任马特·珀尔撰文指出，当反垄断行动触及人工智能、半导体、数据中心等基础技术市场，其影响就不再局限于消费者利益和市场竞争，还可能关系到企业的技术投资、全球市场地位乃至国家长期竞争力。文章主张，国家安全不应成为反垄断的豁免理由。在涉及",
-     "source": "虎嗅",
-     "zh": "谷歌反垄断案背后：当国家安全开始介入美国科技监管"
-    },
-    {
      "title": "CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务",
      "link": "https://www.ithome.com/1/028/909.htm",
      "pubDate": "Wed, 18 Nov 2026 08:28:54 GMT",
@@ -1877,17 +1893,9 @@ window.INDUSTRY_DATA = {
      "title": "Talos Linux",
      "link": "https://www.siderolabs.com/talos-linux",
      "pubDate": "Wed, 18 Nov 2026 08:17:44 +0000",
-     "summary": "Article URL: https://www.siderolabs.com/talos-linux Comments URL: https://news.ycombinator.com/item?id=50543343 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.siderolabs.com/talos-linux Comments URL: https://news.ycombinator.com/item?id=50543343 Points: 8 # Comments: 9",
      "source": "Hacker News",
      "zh": "Talos Linux"
-    },
-    {
-     "title": "“童年的消逝”，带火了哪些生意？",
-     "link": "https://www.huxiu.com/article/4906557.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 16:13:33 +0800",
-     "summary": "本文来自微信公众号： 亿邦动力 ，编辑：黄俊峰，作者：张从容 10月下旬，“小天才封闭社交被质疑”登上微博热搜。多位家长称，小天才电话手表只能和同品牌产品“碰一碰”加好友，其他品牌加不了好友、不能微聊、看不到好友在小天才上发的好友圈（微聊、好友圈功能类似微信聊天、朋友圈）。班里大多用小天才，有家长担心孩子被孤立，只能也换成小天才。 传播学家尼尔·波兹曼在《童年的消逝》中，提出了这样的理论：印刷术普及后，读写能力成为门槛，成人因此拥有儿童尚未了解的知识、规则与秘密；儿童应在成人保护下，循序渐进跨越这道门槛。一旦媒介过早抹平信息差，儿童提前获取了“成人专属信息”，童年就会“消逝”。 电话手表本应是",
-     "source": "虎嗅",
-     "zh": "“童年的消逝”，带火了哪些生意？"
     },
     {
      "title": "Humanoid Robots Are Failing Basic Store Trials in China",
@@ -1938,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "每月两万五的养老院，为什么依然孤独"
     },
     {
-     "title": "火龙果被中国干成新能源的了？",
-     "link": "https://www.huxiu.com/article/4905961.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 16:00:00 +0800",
-     "summary": "火龙果老家在中南美，混得不咋地，属于雨林里鸡贼的小众水果。亚洲人一听&ldquo;龙&rdquo;，立马玩出花，火龙果变阳光少年，全年高产。南美老乡看傻眼：&ldquo;你还是火龙果吗？&rdquo;火龙果微微一笑：不相干不相干。",
-     "source": "虎嗅",
-     "zh": "火龙果被中国干成新能源的了？"
-    },
-    {
      "title": "文明系列游戏开发商裁员三分之一",
      "link": "https://www.solidot.org/story?sid=85919",
      "pubDate": "Wed, 18 Nov 2026 15:45:31 +0800",
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Australia's full national topographic library at your fingertips",
      "link": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
      "pubDate": "Wed, 18 Nov 2026 07:10:46 +0000",
-     "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 12 # Comments: 7",
      "source": "Hacker News",
      "zh": "Australia's full national topographic library at your fingertips"
     },
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "AI is killing All About Berlin",
      "link": "https://nicolasbouliane.com/blog/death-by-ai",
      "pubDate": "Wed, 18 Nov 2026 06:47:26 +0000",
-     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 244 # Comments: 202",
+     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 266 # Comments: 227",
      "source": "Hacker News",
      "zh": "AI is killing All About Berlin"
     },
@@ -2033,6 +2033,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OpenAI launches GPT-6.2 Astra and Sol, but not everyone is sold on the cheaper upgrade",
+     "link": "https://www.androidauthority.com/openai-gpt-6-2-astra-sol-3736420/",
+     "pubDate": "Wed, 18 Nov 2026 09:11:04 +0000",
+     "summary": "Last-minute GPT-6.2 changes may explain the negative early reviews.",
+     "source": "Android Authority",
+     "zh": "OpenAI launches GPT-6.2 Astra and Sol, but not everyone is sold on the cheaper upgrade"
+    },
+    {
+     "title": "Breaking: One UI 9.5 beta is rolling out to Galaxy S26 series right now",
+     "link": "https://www.androidauthority.com/one-ui-9-5-beta-galaxy-s26-rollout-3736464/",
+     "pubDate": "Wed, 18 Nov 2026 09:05:47 +0000",
+     "summary": "The beta update is now available in Korea, India, and several European markets.",
+     "source": "Android Authority",
+     "zh": "Breaking: One UI 9.5 beta is rolling out to Galaxy S26 series right now"
+    },
     {
      "title": "FAA suspends installation of router that led to a ground stop of flights across the US",
      "link": "https://www.engadget.com/2320202/faa-suspends-installation-router-ground-stop-flights-across-us/",
@@ -2082,14 +2098,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Keep could soon get filters to help you quickly find your notes"
     },
     {
-     "title": "Samsung’s upcoming Daily Briefing feature could take the hassle out of setting reminders",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-now-brief-daily-briefing-leak-3736393/",
-     "pubDate": "Wed, 18 Nov 2026 07:16:03 +0000",
-     "summary": "Think Gemini Daily Brief, but built into Now Brief.",
-     "source": "Android Authority",
-     "zh": "Samsung’s upcoming Daily Briefing feature could take the hassle out of setting reminders"
-    },
-    {
      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
      "link": "https://sspai.com/post/118732",
      "pubDate": "Wed, 18 Nov 2026 14:54:30 +0800",
@@ -2112,14 +2120,6 @@ window.INDUSTRY_DATA = {
      "summary": "YouTube view counts are about to go up (again) thanks to a new metric.",
      "source": "Engadget",
      "zh": "YouTube will start boosting public view counts when you watch on a TV"
-    },
-    {
-     "title": "Galaxy S26 owners could get their first taste of One UI 9.5 today",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-launch-date-leak-3736355/",
-     "pubDate": "Wed, 18 Nov 2026 06:00:50 +0000",
-     "summary": "Keep an eye on your Samsung Members app.",
-     "source": "Android Authority",
-     "zh": "Galaxy S26 owners could get their first taste of One UI 9.5 today"
     },
     {
      "title": "iQOO Z12 Lite shows up in the Google Play Console, has key specs revealed",
@@ -2282,20 +2282,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump lands in China for historic meeting with Xi, Putin",
+     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+     "pubDate": "Wed, 18 Nov 2026 09:11:50 GMT",
+     "summary": "President Donald Trump has landed in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+     "source": "CNBC",
+     "zh": "Trump lands in China for historic meeting with Xi, Putin"
+    },
+    {
      "title": "Europe markets hover near flatline as Nvidia-driven optimism fades",
      "link": "https://seekingalpha.com/news/4674024-europe-marlets-hover-near-flatline-as-nvidia-driven-optimism-fades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 04:08:30 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Europe markets hover near flatline as Nvidia-driven optimism fades"
-    },
-    {
-     "title": "Trump lands in China for historic meeting with Xi, Putin",
-     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-     "pubDate": "Wed, 18 Nov 2026 09:05:45 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "Trump lands in China for historic meeting with Xi, Putin"
     },
     {
      "title": "Hesai Group sets $100M stock buyback plan",

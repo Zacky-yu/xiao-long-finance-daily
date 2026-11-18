@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-11-18T22:49:15.445Z",
+  "generatedAt": "2026-11-18T23:09:15.559Z",
   "count": 40,
   "items": [
+    {
+      "title": "How copper’s plunge could hurt the AI buildout",
+      "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "pubDate": "Wed, 18 Nov 2026 23:02:00 GMT",
+      "content": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+      "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
+      "content": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
+      "content": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+      "source": "US",
+      "category": "美股市场"
+    },
     {
       "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
       "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
@@ -23,22 +47,6 @@
       "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
       "pubDate": "Wed, 18 Nov 2026 21:58:00 GMT",
       "content": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Copper’s plunge could make the AI data-center buildout more painful",
-      "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-      "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
-      "content": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
-      "content": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
       "source": "US",
       "category": "美股市场"
     },
@@ -73,14 +81,6 @@
       "content": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
       "source": "US",
       "category": "半导体"
-    },
-    {
-      "title": "Fed minutes show growing unease about the outlook for inflation",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-      "pubDate": "Wed, 18 Nov 2026 20:51:00 GMT",
-      "content": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-      "source": "FED",
-      "category": "美联储"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

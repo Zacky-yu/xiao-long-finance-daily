@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 06:52:06",
+ "generated_at": "2026/11/19 07:12:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,10 +9,18 @@
    "total": 16,
    "items": [
     {
+     "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+     "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+     "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000",
+     "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+     "source": "TechCrunch AI",
+     "zh": "Satya Nadella predicts AI agents will reshuffle the economics of the web"
+    },
+    {
      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
      "pubDate": "Wed, 18 Nov 2026 22:11:15 +0000",
-     "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
+     "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
      "source": "TechCrunch AI",
      "zh": "Anthropic reportedly prices IPO at $83 a share, above projected range"
     },
@@ -55,14 +63,6 @@
      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
      "source": "TechCrunch AI",
      "zh": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie"
-    },
-    {
-     "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-     "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-     "pubDate": "Wed, 18 Nov 2026 19:56:39 +0000",
-     "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-     "source": "TechCrunch AI",
-     "zh": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor"
     },
     {
      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+     "link": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+     "pubDate": "Wed, 18 Nov 2026 22:43:06 +0000",
+     "summary": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers. The post Humyn Labs raises $47M to collect real-world data for robotics appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Humyn Labs raises $47M to collect real-world data for robotics"
+    },
+    {
      "title": "How to prove the fault in a serious commercial truck accident",
      "link": "https://roboticsandautomationnews.com/2026/11/18/how-to-prove-the-fault-in-a-serious-commercial-truck-accident/107322/",
      "pubDate": "Wed, 18 Nov 2026 21:32:38 +0000",
@@ -599,14 +607,6 @@
      "summary": "Reinforcement learning lets robots learn behaviors on their own, through trial and error, usually inside a computer simulation. Moving what they learn onto physical robots is another matter. Simulated and real robots never behave quite the same way, a mismatch known as the “reality gap,” and reinfor",
      "source": "Robohub",
      "zh": "Robot swarms trained by trial and error in simulation keep working on real robots"
-    },
-    {
-     "title": "The hidden reason most robots fail on the factory floor",
-     "link": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
-     "pubDate": "Mon, 16 Nov 2026 23:49:56 +0000",
-     "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "The hidden reason most robots fail on the factory floor"
     },
     {
      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
+     "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
+     "pubDate": "Wed, 18 Nov 2026 17:00:00 -0600",
+     "summary": "Equinor, the largest supplier of pipeline gas to Europe, is fighting an ongoing cyberattack on its IT systems while the Hormuz crisis keeps European gas prices nearly triple last year’s level. The FBI warned last week that state-aligned hackers and criminals are using an AI-powered tool to break int",
+     "source": "OilPrice",
+     "zh": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
+    },
+    {
      "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
      "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
      "pubDate": "Wed, 18 Nov 2026 16:00:00 -0600",
@@ -911,14 +919,6 @@
      "summary": "Nvidia (Nasdaq: NVDA) beat Wall Street’s revenue forecast by about $6.7 billion on Tuesday night, and copper fell for a fifth straight session on Wednesday. Three-month copper on the London Metal Exchange was down 3.6% at $12,763 a metric ton in early London trading, according to Investing.com. Bloo",
      "source": "OilPrice",
      "zh": "Copper Heads for Longest Weekly Losing Streak in Two Years"
-    },
-    {
-     "title": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Thiel-Doubles-Down-on-Vaca-Muerta-as-Trump-Calls-Venezuela-an-Acquisition.html",
-     "pubDate": "Wed, 18 Nov 2026 11:30:00 -0600",
-     "summary": "Billionaire investor Peter Thiel has raised his stake in Vista Energy (NYSE:VIST), the Vaca Muerta shale producer run by Miguel Galuccio, former chief executive of Argentina’s state-controlled oil company YPF, as Argentina’s crude output closes in on 1 million barrels per day (bpd) for the first tim",
-     "source": "OilPrice",
-     "zh": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”"
     },
     {
      "title": "States of uncertainty",
@@ -1113,6 +1113,22 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+     "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+     "pubDate": "Wed, 18 Nov 2026 23:07:55 +0000",
+     "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+     "source": "STAT News",
+     "zh": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records"
+    },
+    {
+     "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
+     "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
+     "pubDate": "Wed, 18 Nov 2026 22:50:25 +0000",
+     "summary": "Researchers combined measurements from brain images and single cell transcriptome maps to build a resource, HypoAD, as an atlas of the human hypothalamus in aging and AD, which they have made available to the research community. The post Alzheimer’s Disease and Aging Linked to Changes in the Hypotha",
+     "source": "GEN",
+     "zh": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus"
+    },
+    {
      "title": "How Trump FDA nominee Heidi Overton's confirmation failed",
      "link": "https://endpoints.news/how-trump-fda-nominee-heidi-overtons-confirmation-failed/",
      "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
@@ -1225,14 +1241,6 @@
      "zh": "Tuning Extracellular Vesicle Production and Analytics for Compliance"
     },
     {
-     "title": "One Record, From Factory Floor to Patient",
-     "link": "https://www.genengnews.com/topics/bioprocessing/one-record-from-factory-floor-to-patient/",
-     "pubDate": "Wed, 18 Nov 2026 17:00:19 +0000",
-     "summary": "ParkourSC acquired manufacturing-AI company Quartic to track a drug’s quality across its whole lifecycle. CEO Mahesh Veerina explains how linking factory and shipping data could flag at-risk batches before problems reach patients. The post One Record, From Factory Floor to Patient appeared first on ",
-     "source": "GEN",
-     "zh": "One Record, From Factory Floor to Patient"
-    },
-    {
      "title": "White House pulls nomination for FDA nominee Overton",
      "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
      "pubDate": "Wed, 18 Nov 2026 12:00:00 -0500",
@@ -1271,14 +1279,6 @@
      "summary": "LONDON — Long queues snaked outside the iconic Waldorf Hilton on Monday morning at the 17th Jefferies Global Healthcare Conference as attendees jostled to pick up registration badges — only to be ushered into the main hall ...",
      "source": "Endpoints News",
      "zh": "Dispatches from Jefferies: Latent Labs on AI, Relay’s PI3Kα ambitions and Biohaven’s protein degrader approach"
-    },
-    {
-     "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
-     "link": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
-     "pubDate": "Wed, 18 Nov 2026 14:37:13 +0000",
-     "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
-     "source": "STAT News",
-     "zh": "STAT+: FDA discloses reasons for rejecting Summit drug"
     },
     {
      "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
@@ -1561,6 +1561,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+     "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+     "pubDate": "Wed, 18 Nov 2026 18:08:33 -0500",
+     "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+     "source": "BleepingComputer",
+     "zh": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
+    },
+    {
      "title": "Cold Relic Turns One Cloud Breach Into Another",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
      "pubDate": "Wed, 18 Nov 2026 21:59:46 GMT",
@@ -1737,14 +1745,6 @@
      "zh": "Chrome 158 Patches 204 Vulnerabilities"
     },
     {
-     "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-     "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-     "pubDate": "Wed, 18 Nov 2026 05:35:05 -0500",
-     "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-     "source": "BleepingComputer",
-     "zh": "Apache warns of Roller RCE vulnerability exploited in attacks"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1768,6 +1768,54 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)",
+     "link": "https://www.techmeme.com/261118/p46#a261118p46",
+     "pubDate": "Wed, 18 Nov 2026 17:50:00 -0500",
+     "summary": "Financial Times : Sources: Leopold Aschenbrenner discussed &ldquo;Situational Awareness 2.0&rdquo;, a reboot using leverage and outside capital, four months after Citadel rescued his fund &nbsp; &mdash;&nbsp; The 25-year-old AI trader has held talks about employing leverage again and raising funds a",
+     "source": "Techmeme",
+     "zh": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)"
+    },
+    {
+     "title": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满",
+     "link": "https://www.ithome.com/1/029/133.htm",
+     "pubDate": "Wed, 18 Nov 2026 22:47:05 GMT",
+     "summary": "IT之家 11 月 19 日消息，据《The Information》今日报道，字节跳动正与微软进行深入谈判，计划额外采购约 5 亿美元 （IT之家注：现汇率约合 33.4 亿元人民币） 的 Azure 云服务，其中大部分支出将用于调用 OpenAI 的 AI 模型。知情人士称，这笔潜在交易引发了 OpenAI 对微软的不满。 此次谈判将进一步扩大字节跳动与微软现有的云服务合作规模。今年 6 月，彭博社曾报道称，字节跳动当时预计每年在微软 AI 和云服务上的支出将超过 10 亿美元 （现汇率约合 66.8 亿元人民币） 。 其争议主要集中在 OpenAI 模型的使用权限上。虽然 OpenAI ",
+     "source": "IT之家",
+     "zh": "字节跳动被曝与微软洽谈 5 亿美元 Azure 合同，惹 OpenAI 强烈不满"
+    },
+    {
+     "title": "AMD 发布 26.11.2 肾上腺素驱动：新增 ROCm 10.2 支持，适配《影之刃零》游戏",
+     "link": "https://www.ithome.com/1/029/131.htm",
+     "pubDate": "Wed, 18 Nov 2026 22:42:57 GMT",
+     "summary": "IT之家 11 月 19 日消息，AMD 发布 Software: Adrenalin Edition 26.11.2 版显卡驱动，重点提升稳定性与可靠性，新增 ROCm 10.2 支持，并适配近期多款游戏。 新游戏支持与性能优化 新增 ROCm 10.2 支持。 新增适配《红色沙漠：增强版 - 未知征途》 DLC 游戏。 新增适配《影之刃零》游戏。 整体提升驱动稳定性与运行可靠性。 问题修复 修复 Windows 10 系统下安装驱动后 AMD Smart Access Memory 可能被禁用的问题。 修复 Radeon RX 7000 及以上系列显卡在重置着色器缓存后，首次启动《生化危机",
+     "source": "IT之家",
+     "zh": "AMD 发布 26.11.2 肾上腺素驱动：新增 ROCm 10.2 支持，适配《影之刃零》游戏"
+    },
+    {
+     "title": "史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动",
+     "link": "https://www.ithome.com/1/029/129.htm",
+     "pubDate": "Wed, 18 Nov 2026 22:39:07 GMT",
+     "summary": "IT之家 11 月 19 日消息， 今年早些时候，谷歌推出了实验性研究原型 Project Genie，可让用户生成并探索交互式虚拟世界。 早期测试用户反馈，希望能对世界内发生的内容有更强控制力，同时拥有更便捷的建造、分享方式。 如今，谷歌面向符合资格的 Google AI Ultra 订阅用户推出全新 Project Genie 体验，让这些虚拟世界的响应速度、创意性与社交属性大幅提升。 本次更新首次开放 Genie 4 访问权限，带来 Genie 3 的全新升级、可帮助用户实现创意的 Project Genie 智能体，以及用于发现、探索、二次创作世界的社区画廊。 Project Geni",
+     "source": "IT之家",
+     "zh": "史诗级进化！谷歌 Genie 4 世界模型开放体验：支持边玩边改天气、召唤角色，所见皆可互动"
+    },
+    {
+     "title": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX",
+     "link": "https://www.ithome.com/1/029/132.htm",
+     "pubDate": "Wed, 18 Nov 2026 22:36:01 GMT",
+     "summary": "IT之家 11 月 19 日消息，据彭博社今日报道，Anthropic PBC 已将首次公开募股（IPO）发行价定为每股 83 美元，高于此前公布的 70 至 78 美元发行区间。 以此计算，Anthropic 完全稀释估值约 1.5 万亿美元，仅次于 SpaceX（1.77 万亿美元），但融资规模超越 SpaceX 成为全球史上最大 IPO。 根据 Anthropic 此前向美国证券交易委员会（SEC）提交的文件，公司原计划发行 8.0135 亿股，另外由 7 名联合创始人出售 2364.86 万股，合计约 8.25 亿股。按照每股 83 美元计算，此次公开发行预计募集资金约 684 亿美元",
+     "source": "IT之家",
+     "zh": "史上最大 IPO：Anthropic 每股定价 83 美元，预计募资 944 亿美元超 SpaceX"
+    },
+    {
+     "title": "GTA6-like as a 942Kb UEFI bootable image",
+     "link": "https://github.com/eklavya-raj/gta6-uefi",
+     "pubDate": "Wed, 18 Nov 2026 22:26:48 +0000",
+     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GTA6-like as a 942Kb UEFI bootable image"
+    },
     {
      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
      "link": "https://www.wired.com/story/guys-really-we-got-this/",
@@ -1796,7 +1844,7 @@
      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
      "pubDate": "Wed, 18 Nov 2026 22:04:03 +0000",
-     "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water and medicine — just in case.",
+     "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
      "source": "TechCrunch",
      "zh": "Palmer Luckey doesn’t deny that he’s a prepper"
     },
@@ -1836,7 +1884,7 @@
      "title": "Gemini 4 Neon",
      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
      "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 236 # Comments: 229",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 273 # Comments: 263",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon"
     },
@@ -1865,12 +1913,12 @@
      "zh": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways"
     },
     {
-     "title": "Sources: Bret Taylor&apos;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
-     "link": "https://www.techmeme.com/261118/p40#a261118p40",
-     "pubDate": "Wed, 18 Nov 2026 16:01:02 -0500",
-     "summary": "The Information : Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue &nbsp; &mdash;&nbsp; Sierra, the AI customer support startup founded by former Salesforce co-CEO Bret Taylor, has been in ta",
-     "source": "Techmeme",
-     "zh": "Sources: Bret Taylor&apos;s Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)"
+     "title": "AMD 发布 26.17 Linux 版 Radeon 软件升级：新增支持高带宽 HDMI 等",
+     "link": "https://www.ithome.com/1/029/130.htm",
+     "pubDate": "Wed, 18 Nov 2026 21:00:30 GMT",
+     "summary": "IT之家 11 月 19 日消息，AMD 发布了 Radeon Software for Linux 26.17 显卡驱动，这是 AMD 面向 Linux 平台的统一显卡驱动软件包，支持多款 Radeon 系列产品。 IT之家附官方公告链接（ https://www.amd.com/en/resources/support-articles/release-notes/RN-AMDGPU-UNIFIED-LINUX-26-17.html ）。 亮点 引入对 RHEL 10.3 和 RHEL 9.9 的支持。 新增支持高带宽 HDMI，包括这些连接上的音频，FreeSync 和可变刷新率，显示器",
+     "source": "IT之家",
+     "zh": "AMD 发布 26.17 Linux 版 Radeon 软件升级：新增支持高带宽 HDMI 等"
     },
     {
      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
@@ -1884,7 +1932,7 @@
      "title": "Horizon Labs Report",
      "link": "https://horizon-labs.ai/",
      "pubDate": "Wed, 18 Nov 2026 20:12:34 +0000",
-     "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://horizon-labs.ai/ Comments URL: https://news.ycombinator.com/item?id=50551509 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "Horizon Labs Report"
     },
@@ -1892,7 +1940,7 @@
      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
      "link": "https://searchbrowser.app/",
      "pubDate": "Wed, 18 Nov 2026 20:04:31 +0000",
-     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 40 # Comments: 27",
+     "summary": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 42 # Comments: 27",
      "source": "Hacker News",
      "zh": "Search Browser – Minimalist WebKit browser with Chrome extension support"
     },
@@ -1900,7 +1948,7 @@
      "title": "Sexp Matrix",
      "link": "https://lisper.cc/ideas/entangle.html",
      "pubDate": "Wed, 18 Nov 2026 20:01:50 +0000",
-     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 21 # Comments: 5",
+     "summary": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 24 # Comments: 5",
      "source": "Hacker News",
      "zh": "Sexp Matrix"
     },
@@ -1916,7 +1964,7 @@
      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
      "link": "https://www.radixark.com/blog/daisyrose-27b",
      "pubDate": "Wed, 18 Nov 2026 19:39:16 +0000",
-     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 91 # Comments: 22",
+     "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 95 # Comments: 23",
      "source": "Hacker News",
      "zh": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1"
     },
@@ -1953,60 +2001,12 @@
      "zh": "Best Early Black Friday Phone Deals (2026)"
     },
     {
-     "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-     "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-     "pubDate": "Wed, 18 Nov 2026 18:53:17 +0000",
-     "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners Comments URL: https://news.ycombinator.com/item?id=50550461 Points: 21 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys"
-    },
-    {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
      "pubDate": "Wed, 18 Nov 2026 18:46:08 +0000",
      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
      "source": "Ars Technica",
      "zh": "Trump admin orders Kalshi to halt wagers on what words Trump will say"
-    },
-    {
-     "title": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能",
-     "link": "https://www.ithome.com/1/029/128.htm",
-     "pubDate": "Wed, 18 Nov 2026 17:28:32 GMT",
-     "summary": "IT之家 11 月 19 日消息，今年 10 月底，华为 WATCH 5 系列、ULTIMATE DESIGN 星钻绽放等手表开启 HarmonyOS 7 花粉 Beta 版招募。随后 7.0.0.107 SP18 版本开启推送。但据用户反馈，部分设备更新后出现 BUG，因此升级活动暂缓。 IT之家注意到，华为官方最新宣布， HarmonyOS 7.0.0.107SP41 版本开始分批推送给花粉 Beta 版升级尝鲜报名入选成功的 WATCH 5 系列用户。 适配机型 HUAWEI WATCH 5 42mm（含十周年款）（SOC-AL00） HUAWEI WATCH 5 46mm（含十周年款）",
-     "source": "IT之家",
-     "zh": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能"
-    },
-    {
-     "title": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天",
-     "link": "https://www.ithome.com/1/029/127.htm",
-     "pubDate": "Wed, 18 Nov 2026 17:20:46 GMT",
-     "summary": "IT之家 11 月 19 日消息，华为 WATCH Air 真机谍照已在各大平台曝光。画面显示，新表至少提供两种表带款式可选，包括运动硅胶表带和金属米兰尼斯表带。 据博主 @搞机王腾霄 透露，华为 WATCH Air 主打轻薄，采用方形设计，配备有钛金属表体。 新表还有望内置高硅叠片异形电池，续航可达 5 天 。 已曝光的海报显示，华为 WATCH Air 采用超轻薄设计，拥有圆润的弧面机身，侧边配有一枚旋转表冠按钮和一枚多功能按键。此外，这款手表还预装了鸿蒙 HarmonyOS 系统。 目前，华为官方暂未公布这款手表的具体配置信息，但爆料提到，这款手表将采用高亮钛一体化设计，提供黑、银、金三",
-     "source": "IT之家",
-     "zh": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天"
-    },
-    {
-     "title": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能",
-     "link": "https://www.ithome.com/1/029/126.htm",
-     "pubDate": "Wed, 18 Nov 2026 17:10:42 GMT",
-     "summary": "IT之家 11 月 19 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法。其中，让各式各样的设备刷入苹果 iOS 系统，是当下最受欢迎的探索方向之一。 参考IT之家此前报道，已有 小米 8 刷入 iOS 16.5 系统并伪装成 iPhone X 、 REDMI K20 Pro 刷入苹果 iOS 16 测试固件包 变身真“全面屏 iPhone”等先例。不过刷入 iOS 后的设备常常伴随着功能缺失和运行不稳定，最典型的就是 Wi-Fi 下线、Face ID / Touch ID 失效等。 博主 @BugOS技术组 昨晚分享的视频显示，已有刷入 iOS 系统的安卓设备成功“复",
-     "source": "IT之家",
-     "zh": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能"
-    },
-    {
-     "title": "华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能",
-     "link": "https://www.ithome.com/1/029/125.htm",
-     "pubDate": "Wed, 18 Nov 2026 16:55:39 GMT",
-     "summary": "IT之家 11 月 19 日消息，华为 Mate 90 系列手机已率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据博主 @怪咖学徒_ &nbsp;反馈，在升级 HarmonyOS 7.0.0.115 版本后，华为 Mate 90 系列手机“悄悄”上线了完全体 3D 空间壁纸功能， 支持重力感应特性 。从视频演示效果来看，该功能可将壁纸 3D 空间化，手机晃动，壁纸内容也会跟随晃动。 参考IT之家此前报道， 今年 9 月发布的 HarmonyOS 7 操作系统主打全新空间美学设计语言 ，锁屏界面新增 3D 空",
-     "source": "IT之家",
-     "zh": "华为 Mate 90 系列手机推 HarmonyOS 7.0.0.115 升级，“悄悄”上线完全体 3D 空间壁纸功能"
-    },
-    {
-     "title": "中国车企在印度，工厂、股权与供应链",
-     "link": "https://www.huxiu.com/article/4906688.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 00:51:52 +0800",
-     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月13日，比亚迪在印度孟买推出了两款腾势汽车。D9豪华MPV售价900万卢比，Z9 GT高性能电动车售价1570万卢比，后者折合人民币超过百万元。 腾势D9在印度孟买发布。摄影：Indranil Mukherjee/AFP。 比亚迪计划在孟买、古尔冈、班加罗尔、金奈、海得拉巴和艾哈迈达巴德六座城市，为腾势建立独立展厅和售后设施。不过，公司对初期销量的预期相当克制。印度电动乘用车业务负责人Rajeev Chauhan表示，最初两个月预计能将80至100辆预订意向转化为销售。 即使100辆车全部按照D9的售价成交，销售额也只有9亿卢比，约",
-     "source": "虎嗅",
-     "zh": "中国车企在印度，工厂、股权与供应链"
     }
    ]
   },
@@ -2016,6 +2016,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Gemini 4 Neon is ready to get some work done for AI Pro power users",
+     "link": "https://www.androidauthority.com/gemini-4-neon-3736931/",
+     "pubDate": "Wed, 18 Nov 2026 23:00:31 +0000",
+     "summary": "What a noble addition to Gemini's model lineup!",
+     "source": "Android Authority",
+     "zh": "Gemini 4 Neon is ready to get some work done for AI Pro power users"
+    },
+    {
+     "title": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start",
+     "link": "https://www.gsmarena.com/heres_when_iphone_18_and_iphone_air_2_display_production_will_reportedly_start-news-75525.php",
+     "pubDate": "Wed, 18 Nov 2026 23:58:02 +0100",
+     "summary": "Apple unveiled the iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo in September, while the standard iPhone 18 and the iPhone Air 2 are expected to follow next spring. Now, a new report out of South Korea tells us when the displays for those two will enter the mass production phase. According to som",
+     "source": "GSMArena",
+     "zh": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start"
+    },
     {
      "title": "YouTube Music’s new web interface is slowly hitting more users, but not everyone’s a fan",
      "link": "https://www.androidauthority.com/youtube-music-web-interface-3736889/",
@@ -2153,14 +2169,6 @@
      "zh": "Bose SoundLink Micro (2nd Gen) drops to $79, its lowest price"
     },
     {
-     "title": "One UI 9.5 could give lost phones a better chance of finding their way home with lock screen IMEI",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/",
-     "pubDate": "Wed, 18 Nov 2026 19:37:41 +0000",
-     "summary": "Here's how that works.",
-     "source": "Android Authority",
-     "zh": "One UI 9.5 could give lost phones a better chance of finding their way home with lock screen IMEI"
-    },
-    {
      "title": "GTA 6's cops will remember you thanks to the 'Heat' system",
      "link": "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/",
      "pubDate": "Wed, 18 Nov 2026 19:34:34 +0000",
@@ -2247,14 +2255,6 @@
      "summary": "Apple is reportedly planning a major redesign for its 20th-anniversary iPhone 20 Pro lineup next year, with quad-curved displays and several other improvements. A new leak has now revealed more details about the upcoming models. Tipster Ice Universe shared the latest details about the 20th-anniversa",
      "source": "GSMArena",
      "zh": "More details about Apple's 20th-anniversary iPhone emerge"
-    },
-    {
-     "title": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak",
-     "link": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php",
-     "pubDate": "Wed, 18 Nov 2026 15:17:02 +0100",
-     "summary": "OnePlus launched the Turbo 6 in China back in January, and the Turbo 7's key specs leaked earlier this month. Now, a Pro model has passed through China's 3C certification, according to Digital Chat Station on Weibo. The listing is for a OnePlus phone with the model number PYP110, which the tipster s",
-     "source": "GSMArena",
-     "zh": "OnePlus Turbo 7 Pro gets certified ahead of launch, more specs leak"
     }
    ]
   },
@@ -2265,60 +2265,84 @@
    "total": 13,
    "items": [
     {
-     "title": "Innovation Beverage Group GAAP EPS of -$0.91, revenue of $1.8M",
-     "link": "https://seekingalpha.com/news/4674482-innovation-beverage-group-gaap-eps-of-0_91-revenue-of-1_8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:44:11 -0500",
+     "title": "UGI Non-GAAP EPS of $3.00 beats by $0.21, revenue of $7.3B misses by $50M",
+     "link": "https://seekingalpha.com/news/4674489-ugi-non-gaap-eps-of-3_00-beats-by-0_21-revenue-of-7_3b-misses-by-50m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 18:02:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Innovation Beverage Group GAAP EPS of -$0.91, revenue of $1.8M"
+     "zh": "UGI Non-GAAP EPS of $3.00 beats by $0.21, revenue of $7.3B misses by $50M"
     },
     {
-     "title": "Sanofi wins approval of venglustat for Gaucher disease",
-     "link": "https://seekingalpha.com/news/4674476-sanofi-wins-approval-venglustat-gaucher-disease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:43:50 -0500",
+     "title": "How copper’s plunge could hurt the AI buildout",
+     "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 23:02:00 GMT",
+     "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+     "source": "MarketWatch",
+     "zh": "How copper’s plunge could hurt the AI buildout"
+    },
+    {
+     "title": "Here are the major earnings before the open Thursday",
+     "link": "https://seekingalpha.com/news/4674240-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 18:00:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Sanofi wins approval of venglustat for Gaucher disease"
+     "zh": "Here are the major earnings before the open Thursday"
     },
     {
-     "title": "Eddy Smart Home Solutions reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674481-eddy-smart-home-solutions-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:42:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eddy Smart Home Solutions reports Q3 results"
-    },
-    {
-     "title": "XTL Biopharmaceuticals GAAP EPS of $0.00",
-     "link": "https://seekingalpha.com/news/4674480-xtl-biopharmaceuticals-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:39:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "XTL Biopharmaceuticals GAAP EPS of $0.00"
-    },
-    {
-     "title": "Montfort Capital Corp. NON CUM PFD A GAAP EPS of C$0.00, revenue of C$2.16M",
-     "link": "https://seekingalpha.com/news/4674479-montfort-capital-corp-non-cum-pfd-a-gaap-eps-of-c000-revenue-of-c216m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:36:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Montfort Capital Corp. NON CUM PFD A GAAP EPS of C$0.00, revenue of C$2.16M"
-    },
-    {
-     "title": "Clearsign Technologies Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4674268-clearsign-technologies-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:35:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clearsign Technologies Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低",
+     "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
      "link": "https://wallstreetcn.com/articles/3786169",
-     "pubDate": "Thu, 19 Nov 2026 06:31:37 +0800",
-     "summary": "英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。与此同时，AI初创公司Anthropic的IPO以高于发行区间的价格定价，为低迷的科技股市场提供了一丝结构性支撑。 道指 收跌1.1%， 标普500指数 下跌0.2%、未能重新站上200日均线， 纳指 逆势收涨0.4%。 欧元兑美元 跌至1.0976， 美元兑日元 基本持平于159.30。 比特币 下跌2.8%， 黄金 重挫逾3%， 铜价 亦在伦敦、纽约和上海市场同步走低。 英伟达股价单日下跌约3%，抹去了财报公布后的全部涨幅。 尽管公司季度业绩超出分析师预期，并上调了营收指引，但联",
+     "pubDate": "Thu, 19 Nov 2026 06:59:14 +0800",
+     "summary": "英伟达财报后涨势骤然逆转，叠加美联储会议纪要释放鹰派信号，美股周三承压走低，标普500指数连续第五个交易日下跌。能源、医疗板块跌幅居前，纳指靠亚马逊等少数权重收涨。 道指 收跌1.1%， 标普500指数 下跌0.2%、未能重新站上200日均线， 纳指 逆势收涨0.4%。 英伟达股价单日下跌约3%，抹去了财报公布后的盘中涨幅。 尽管公司季度业绩超出分析师预期，并上调了营收指引，但联合创始人黄仁勋离职引发的不确定性持续压制投资者情绪。 加息预期叠加AI基建需求疑虑，金银铜同步暴跌。 黄金 跌破3800美元创14个月新低， 伦铜 跌5.7%创七个月新低。 美元指数 升至19个月高位， 美债长端收益率",
      "source": "华尔街见闻",
-     "zh": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金创十四个月新低"
+     "zh": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低"
+    },
+    {
+     "title": "Saipem SpA reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674487-saipem-spa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:59:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Saipem SpA reports Q3 results"
+    },
+    {
+     "title": "Harmonic Drive Systems Inc. GAAP EPS of ¥31.54, revenue of ¥36.12B",
+     "link": "https://seekingalpha.com/news/4674486-harmonic-drive-systems-inc-gaap-eps-of-3154-revenue-of-3612b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:55:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Harmonic Drive Systems Inc. GAAP EPS of ¥31.54, revenue of ¥36.12B"
+    },
+    {
+     "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+     "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
+     "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+     "source": "MarketWatch",
+     "zh": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind"
+    },
+    {
+     "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+     "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
+     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+     "source": "MarketWatch",
+     "zh": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
+    },
+    {
+     "title": "Gold and silver sink to 14-month lows as hawkish Fed commentary boosts dollar",
+     "link": "https://seekingalpha.com/news/4674454-gold-and-silver-sink-to-14-month-lows-as-hawkish-fed-commentary-boosts-dollar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:50:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold and silver sink to 14-month lows as hawkish Fed commentary boosts dollar"
+    },
+    {
+     "title": "Northrop Grumman declares $2.47 dividend",
+     "link": "https://seekingalpha.com/news/4674485-northrop-grumman-declares-2_47-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 17:49:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Northrop Grumman declares $2.47 dividend"
     },
     {
      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
@@ -2337,6 +2361,14 @@
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
     },
     {
+     "title": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫",
+     "link": "http://stock.eastmoney.com/news/11784,202611193934391280.html",
+     "pubDate": "Thu, 19 Nov 2026 06:15:07 +0800",
+     "summary": "美股市场： 美股三大指数11月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌561.25点，收于50198.17点，跌幅为1.11%； 标准普尔 500种股票指数下跌16.9点，收于7323.63点，跌幅为0.23%； 纳斯达克 综合 指数上涨101.5点，收于24429.88点，涨幅为0.42%。 “科技七巨头”整体小幅走高，内部走势进一步分化， 亚马逊 涨3.82%， 特斯拉 涨0.95%， 谷歌-A 涨0.80%， 微软 涨0.40%， 苹果 涨0.15%；Meta跌0.40%， 英伟达 跌2.89%。消息面上， 英伟达 第三季度财报及第四季度营收指引均超出预期，但瑞银",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫"
+    },
+    {
      "title": "美国10月成屋签约销售跌至历史新低，高利率持续压制楼市需求",
      "link": "https://wallstreetcn.com/articles/3786220",
      "pubDate": "Thu, 19 Nov 2026 06:13:35 +0800",
@@ -2353,12 +2385,28 @@
      "zh": "Anthropic prices blockbuster IPO at $83 a share"
     },
     {
+     "title": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202611183934327446.html",
+     "pubDate": "Thu, 19 Nov 2026 06:03:29 +0800",
+     "summary": "11月19日(星期四)，今日报刊头条主要内容精华如下： 上海证券报 各地各央企均已完成工作台账编制 新一轮国资国企改革进入全面实施阶段 记者从国务院国资委11月18日举办的进一步深化国资国企改革专题研讨班上获悉，新一轮国资国企改革谋篇布局已经完成，目前各地、各中央企业均已完成工作台账编制。各地共提出3300余项改革任务、9800余项落实举措，各中央企业共提出1.1万余项改革任务、1.8万余项落实举措。下一步，改革工作将重点转向全面实施。 有关部门同日辟谣两则“小作文” 多方合力构建资本市场清朗信息生态 11月18日，有关部门就两则资本市场“小作文”集中辟谣，明确相关信息均不属实，提醒投资者勿信",
+     "source": "东方财富资讯",
+     "zh": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
      "title": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元",
      "link": "https://wallstreetcn.com/articles/3786222",
      "pubDate": "Thu, 19 Nov 2026 06:03:26 +0800",
      "summary": "Anthropic正在考虑扩大其首次公开募股规模，机构与散户投资者的合计需求已远超此前预期，这是人工智能行业迄今最受瞩目的上市事件之一。 当地时周三早间，据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美元，散户需求也接近1000亿美元。 公司已于周二关闭订单簿并锁定总需求，定价区间在每股70至78美元之间，预计将于周三收盘后确定最终发行价。 消息人士表示， 受需求规模远超预期推动，Anthropic正评估将定价显著上调至80美元以上，并扩大发行股数。 股票将于周四在纳斯达克以\"ANT\"为代码正式开始交易。 随后，据彭博援引知情人士透露， Anthropic将",
      "source": "华尔街见闻",
      "zh": "报道：Anthropic IPO定价上调至83美元，认购逼近5000亿美元"
+    },
+    {
+     "title": "东方财富财经早餐 11月19日周四",
+     "link": "http://finance.eastmoney.com/news/1344,202611183934326351.html",
+     "pubDate": "Thu, 19 Nov 2026 06:00:07 +0800",
+     "summary": "每日精选 习近平迎接美国总统特朗普： 据新华社，11月18日下午，国家主席习近平在深圳宝安国际 机场 迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。习近平表示，中国是礼仪之邦，有礼尚往来的传统。我欢迎你再次访华， 期待同你就事关中美关系、亚太合作和世界格局的重大问题深入交换意见，推动基于尊重、公平、对等的中美建设性战略稳定关系向前发展 。 英伟达 称将不再向中国出货H200芯片： 外交部发言人郭嘉昆主持例行记者会。法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片 。中方对此有何评论？郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 中际旭创 要",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月19日周四"
     },
     {
      "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
@@ -2377,68 +2425,12 @@
      "zh": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say."
     },
     {
-     "title": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11837,202611193934396342.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:14 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
-     "title": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11836,202611193934396283.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:07 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
-     "title": "Copper’s plunge could make the AI data-center buildout more painful",
-     "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
-     "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
-     "source": "MarketWatch",
-     "zh": "Copper’s plunge could make the AI data-center buildout more painful"
-    },
-    {
-     "title": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity",
-     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 21:55:00 GMT",
-     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-     "source": "MarketWatch",
-     "zh": "Palo Alto Networks’ stock soars as earnings show AI has upped the stakes for cybersecurity"
-    },
-    {
      "title": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务",
      "link": "http://finance.eastmoney.com/news/1354,202611183934326212.html",
      "pubDate": "Thu, 19 Nov 2026 05:53:29 +0800",
      "summary": "今年4月，天风国际证券分析师郭明錤曾发布产业调查称， 立讯精密 为Open AI手机 项目的独家系统协同设计及制造合作伙伴，相关手机预计于2028年量产。此后，OpenAI进军智能手机市场的消息备受关注。 不过，11月18日晚间，《每日经济新闻》记者从供应链人士处获悉， 立讯精密 目前与OpenAI有多个产品的全面合作，或因资源配置的统筹考量未承接手机组装业务。 继眼镜、耳机之后，为什么&nbsp;OpenAI还要自己做手机硬件？郭明錤在分析中给出了三方面理由：首先，只有充分掌控操作系统与硬件，才能提供全面的 AI智能体 服务；其次，手机能够持续获取用户所处的实时状态，为 AI智能体 提供重要",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务"
-    },
-    {
-     "title": "沙特阿拉伯：警告艾卜哈地区存在潜在危险",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934396150.html",
-     "pubDate": "Thu, 19 Nov 2026 05:53:07 +0800",
-     "summary": "沙特阿拉伯：警告艾卜哈地区存在潜在危险。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特阿拉伯：警告艾卜哈地区存在潜在危险"
-    },
-    {
-     "title": "以军称在加沙地带“黄线”以西开展地道拆除行动",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934396012.html",
-     "pubDate": "Thu, 19 Nov 2026 05:52:09 +0800",
-     "summary": "以色列国防军和国家安全总局（辛贝特）18日发表联合声明说，以安全部队当天在加沙地带“黄线”以西开展针对性军事行动，拆除一条据称对以军构成直接且紧迫威胁的地道。 声明说，行动开始前，以方已向当地平民发出警告，要求他们远离相关区域，并通知关闭附近道路。 声明称，以军南方司令部所属部队目前按照停火协议部署在相关地区，将继续采取行动消除直接威胁，并阻止巴勒斯坦伊斯兰抵抗运动（哈马斯）袭击以色列平民或士兵，以及违反停火协议。 “黄线”是以军根据加沙停火第一阶段协议所划设。“黄线”以东为以军控制区，约占加沙地带面积的53%；“黄线”以西由哈马斯控制，以军不再驻扎或开展行动。 哈马斯18日发表声明，谴责以色",
-     "source": "东方财富股票",
-     "zh": "以军称在加沙地带“黄线”以西开展地道拆除行动"
-    },
-    {
-     "title": "SpaceX：龙飞船发射时间不早于11月20日",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934395331.html",
-     "pubDate": "Thu, 19 Nov 2026 05:50:04 +0800",
-     "summary": "SpaceX ：龙飞船发射时间不早于11月20日。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "SpaceX：龙飞船发射时间不早于11月20日"
     },
     {
      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
@@ -2457,12 +2449,12 @@
      "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
     },
     {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 21:30:00 GMT",
-     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-     "source": "MarketWatch",
-     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+     "title": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？",
+     "link": "http://forex.eastmoney.com/news/1131,202611183934203717.html",
+     "pubDate": "Thu, 19 Nov 2026 05:38:54 +0800",
+     "summary": "国际金价周三再度大幅下挫。 11月18日，国际现货 黄金 （伦敦金现）价格失守3800美元/盎司，盘中一度跌至3720.06美元/盎司，再度刷新14个月新低。截至发稿，报3726.70美元/盎司，跌3.18%。 今年以来，国际现货 黄金 价格已下跌13.55%，如果自1月29日5598.75美元/盎司的历史高点算起，国际金价累计回撤已超过1800美元，最大跌幅约34%。 加息预期升温 国际现货 黄金 价格跌破3800美元/盎司之际，国内市场同步承压。上海黄金交易所Au99.99日间盘收报810.80元/克，下跌2.61%，盘中最低触及810元/克。沪金 期货 主力合约收报811.98元/克，下",
+     "source": "东方财富资讯",
+     "zh": "创14个月新低！现货黄金价格失守3800美元 金价寻底何时休？"
     },
     {
      "title": "报道：欧洲央行拟讨论将最低准备金率由1%上调至2%",
@@ -2503,6 +2495,14 @@
      "summary": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
      "source": "Financial Times",
      "zh": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback"
+    },
+    {
+     "title": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性",
+     "link": "http://forex.eastmoney.com/news/1131,202611193934387631.html",
+     "pubDate": "Thu, 19 Nov 2026 04:05:20 +0800",
+     "summary": "旧金山联储主席玛丽·戴利（Mary Daly）表示，美联储仍有必要进一步加息，但在评估美国经济形势变化的过程中，应采取审慎、渐进的货币政策紧缩方式。 戴利周三（11月18日）在圣路易斯联储举办的一场会议上通过视频连线表示：“我们必须进一步提高利率，以确保能够充分确信，通胀正沿着逐步回落至2%的轨道运行。” 她指出，美国经济仍面临高度不确定性，关税政策、伊朗战争以及 人工智能 （AI）基础设施建设投资的未来走向均不明朗。 戴利补充称，在这样的环境下，美联储必须审慎行事，密切评估经济数据，并认真倾听企业和消费者的反馈。 “我们一直以来采取的这种渐进、审慎的方式，我支持继续保持下去。这才是正确的方向",
+     "source": "东方财富资讯",
+     "zh": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性"
     }
    ]
   },

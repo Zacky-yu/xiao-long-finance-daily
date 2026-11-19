@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 05:12:17",
+ "generated_at": "2026/11/20 05:32:30",
  "recent_days": 7,
  "industries": [
   {
@@ -153,44 +153,12 @@
      "zh": "千亿融资落地！梁文锋隔离个人份额，31家机构入局DeepSeek"
     },
     {
-     "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-     "link": "https://www.qbitai.com/2026/11/511258.html",
-     "pubDate": "Thu, 19 Nov 2026 08:43:10 +0000",
-     "summary": "「Revaluation 价值，另有答案」",
-     "source": "量子位",
-     "zh": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！"
-    },
-    {
-     "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-     "link": "https://www.qbitai.com/2026/11/511180.html",
-     "pubDate": "Thu, 19 Nov 2026 08:18:30 +0000",
-     "summary": "媒体均分登顶历史第一，细节多到爆炸",
-     "source": "量子位",
-     "zh": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了"
-    },
-    {
-     "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
-     "link": "https://www.qbitai.com/2026/11/511179.html",
-     "pubDate": "Thu, 19 Nov 2026 08:10:19 +0000",
-     "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
-     "source": "量子位",
-     "zh": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六"
-    },
-    {
      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
      "source": "OpenAI",
      "zh": "How OpenAI’s Performance Factory keeps ChatGPT fast"
-    },
-    {
-     "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
-     "link": "https://www.qbitai.com/2026/11/511092.html",
-     "pubDate": "Thu, 19 Nov 2026 07:01:05 +0000",
-     "summary": "Kling Image 4.0",
-     "source": "量子位",
-     "zh": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！"
     },
     {
      "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
@@ -247,6 +215,38 @@
      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
      "source": "arXiv cs.AI",
      "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
+    },
+    {
+     "title": "全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=1&sn=aab686340230ccb08a8df9e309841968",
+     "pubDate": "Thu, 19 Nov 2026 12:46:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对"
+    },
+    {
+     "title": "奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=2&sn=91b8b13ac2d77bfa324c229958c22b23",
+     "pubDate": "Thu, 19 Nov 2026 12:46:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中"
+    },
+    {
+     "title": "Fable 5.2开卷80%，闭卷仅47%！最强编程智能体遇上机器人难题",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=3&sn=281581d8045dcf2a69ab7a550d1c1f47",
+     "pubDate": "Thu, 19 Nov 2026 12:46:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Fable 5.2开卷80%，闭卷仅47%！最强编程智能体遇上机器人难题"
+    },
+    {
+     "title": "语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=1&sn=1badc9c3cd5176dcd98e705345707a2d",
+     "pubDate": "Thu, 19 Nov 2026 12:09:00 +0800",
+     "summary": "SimpleX 开放Tetra-1 Preview 试用，迈向微观世界的生物推理。",
+     "source": "机器之心",
+     "zh": "语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus"
     }
    ]
   },
@@ -897,12 +897,12 @@
      "zh": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat"
     },
     {
-     "title": "How would Becerra’s solar Power Hour actually work",
+     "title": "How would Becerra’s solar Power Hour actually work?",
      "link": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
      "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Hello, everyone! California Gov.-elect Xavier Becerra’s Power Hour plan is getting a ton of attention right now, so let’s dive into it. During his campaig",
      "source": "Canary Media",
-     "zh": "How would Becerra’s solar Power Hour actually work"
+     "zh": "How would Becerra’s solar Power Hour actually work?"
     },
     {
      "title": "Trafigura Not Rushing to Alternative Marine Fuels",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+     "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+     "pubDate": "Thu, 19 Nov 2026 16:15:59 -0500",
+     "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+     "source": "BleepingComputer",
+     "zh": "ASUS warns of critical hard-coded key flaw in Control Center Express"
+    },
+    {
      "title": "Navigating Vulnerability Hysteria in the AI Era",
      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
      "pubDate": "Thu, 19 Nov 2026 19:46:44 GMT",
@@ -1721,14 +1729,6 @@
      "zh": "Everything Is a Web Application, Including Your Firewall"
     },
     {
-     "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-     "pubDate": "Thu, 19 Nov 2026 06:46:00 -0500",
-     "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
-    },
-    {
      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
@@ -1777,12 +1777,36 @@
    "total": 18,
    "items": [
     {
+     "title": "Intuit agrees to sell marketing subsidiary Mailchimp to Bending Spoons for $3.68B in cash and stock; Intuit paid $12B to buy Mailchimp in 2021 (Jordan Novet/CNBC)",
+     "link": "https://www.techmeme.com/261119/p51#a261119p51",
+     "pubDate": "Thu, 19 Nov 2026 16:25:01 -0500",
+     "summary": "Jordan Novet / CNBC : Intuit agrees to sell marketing subsidiary Mailchimp to Bending Spoons for $3.68B in cash and stock; Intuit paid $12B to buy Mailchimp in 2021 &nbsp; &mdash;&nbsp; Tax software maker Intuit said Thursday that it has agreed to sell marketing subsidiary Mailchimp to Italian techn",
+     "source": "Techmeme",
+     "zh": "Intuit agrees to sell marketing subsidiary Mailchimp to Bending Spoons for $3.68B in cash and stock; Intuit paid $12B to buy Mailchimp in 2021 (Jordan Novet/CNBC)"
+    },
+    {
+     "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+     "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+     "pubDate": "Thu, 19 Nov 2026 21:19:12 +0000",
+     "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+     "source": "Ars Technica",
+     "zh": "MAHA PAC spent more on steak, luxury club than candidates, report shows"
+    },
+    {
      "title": "At a Senate hearing, Trump&apos;s CISA director nominee Michael LoSapio dodged questions about the agency&apos;s priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)",
      "link": "https://www.techmeme.com/261119/p50#a261119p50",
      "pubDate": "Thu, 19 Nov 2026 16:01:29 -0500",
      "summary": "Eric Geller / Cybersecurity Dive : At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more &nbsp; &mdash;&nbsp; Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on",
      "source": "Techmeme",
      "zh": "At a Senate hearing, Trump&apos;s CISA director nominee Michael LoSapio dodged questions about the agency&apos;s priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)"
+    },
+    {
+     "title": "Rebuilding my local voice assistant pipeline",
+     "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+     "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
+     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Rebuilding my local voice assistant pipeline"
     },
     {
      "title": "The Best Hatch Black Friday Deals (2026)",
@@ -1852,7 +1876,7 @@
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 27 # Comments: 36",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 32 # Comments: 53",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1868,7 +1892,7 @@
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 79 # Comments: 39",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 97 # Comments: 47",
      "source": "Hacker News",
      "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
     },
@@ -1905,14 +1929,6 @@
      "zh": "CTF_IMG_TEST_1795112415_video"
     },
     {
-     "title": "Kalshi partners with smaller rival Novig to ask 35 states for access to \"self-exclusion lists\", which identify gambling addicts, to restrict problem gamblers (Bobby Allyn/Bloomberg)",
-     "link": "https://www.techmeme.com/261119/p45#a261119p45",
-     "pubDate": "Thu, 19 Nov 2026 13:01:45 -0500",
-     "summary": "Bobby Allyn / Bloomberg : Kalshi partners with smaller rival Novig to ask 35 states for access to &ldquo;self-exclusion lists&rdquo;, which identify gambling addicts, to restrict problem gamblers &nbsp; &mdash;&nbsp; Even as Kalshi Inc. is fighting dozens of states in court, the prediction market pl",
-     "source": "Techmeme",
-     "zh": "Kalshi partners with smaller rival Novig to ask 35 states for access to \"self-exclusion lists\", which identify gambling addicts, to restrict problem gamblers (Bobby Allyn/Bloomberg)"
-    },
-    {
      "title": "Google will launch Android app verification requirement globally in January 2027",
      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
      "pubDate": "Thu, 19 Nov 2026 18:00:33 +0000",
@@ -1940,7 +1956,7 @@
      "title": "Claude solves two open problems in the physics of black holes",
      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 254 # Comments: 98",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 281 # Comments: 110",
      "source": "Hacker News",
      "zh": "Claude solves two open problems in the physics of black holes"
     },
@@ -1948,7 +1964,7 @@
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
-     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 211 # Comments: 19",
+     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 267 # Comments: 25",
      "source": "Hacker News",
      "zh": "Pancreatic cancer halted by virus injection in three patients"
     },
@@ -1956,7 +1972,7 @@
      "title": "Anthropic hits $2T in Nasdaq debut",
      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 574 # Comments: 918",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 621 # Comments: 1048",
      "source": "Hacker News",
      "zh": "Anthropic hits $2T in Nasdaq debut"
     },
@@ -1967,14 +1983,6 @@
      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
      "source": "WIRED",
      "zh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents"
-    },
-    {
-     "title": "Chrome AI features wasting much bandwidth",
-     "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-     "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
-     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 94 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "Chrome AI features wasting much bandwidth"
     },
     {
      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
@@ -2007,14 +2015,6 @@
      "summary": "IT之家 11 月 20 日消息，Epic 本周送出的游戏是《深渊之印》，下周送出的游戏是《火之石 – 放置点击英雄 RPG》，《Bread and Fred》。 领取链接： 《Mark of the Deep》 IT之家附游戏简介： 深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。 深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！ 踏上这场史诗般的海盗冒险！ 一艘海盗船在一个神秘岛屿失事，直到那时只有神话故",
      "source": "IT之家",
      "zh": "Epic 喜加一：《深渊之印》免费领取"
-    },
-    {
-     "title": "The best things in open source are built together",
-     "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-     "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
-     "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "The best things in open source are built together"
     }
    ]
   },
@@ -2024,6 +2024,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal",
+     "link": "https://9to5google.com/2026/11/19/just-161-reclaims-all-that-space-gta-vi-stole-on-your-ps5-with-this-m2-ssd-deal/",
+     "pubDate": "Thu, 19 Nov 2026 21:17:24 +0000",
+     "summary": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…",
+     "source": "9to5Google",
+     "zh": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal"
+    },
+    {
+     "title": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes",
+     "link": "https://9to5mac.com/2026/11/19/daily-november-19-2026/",
+     "pubDate": "Thu, 19 Nov 2026 21:11:02 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes"
+    },
+    {
+     "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
+     "link": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
+     "pubDate": "Thu, 19 Nov 2026 21:06:58 +0000",
+     "summary": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
+     "source": "Engadget",
+     "zh": "Meta Quest adds 3D movie purchases and rentals to its TV app"
+    },
     {
      "title": "The disappointment factory: fear and loathing in the camera rumor mill",
      "link": "https://www.dpreview.com/opinion/the-disappointment-factory-fear-and-loathing-in-the-camera-rumor-mill/",
@@ -2195,9 +2219,9 @@
     {
      "title": "Gemini app for Mac adds computer use to control desktop apps",
      "link": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-     "pubDate": "Thu, 19 Nov 2026 18:55:42 +0000",
+     "pubDate": "Thu, 19 Nov 2026 18:55:13 +0000",
      "summary": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
-     "source": "9to5Mac",
+     "source": "9to5Google",
      "zh": "Gemini app for Mac adds computer use to control desktop apps"
     },
     {
@@ -2207,14 +2231,6 @@
      "summary": "The company was briefly valued at more than $2 trillion.",
      "source": "Engadget",
      "zh": "Anthropic is now a public company worth more than $1 trillion"
-    },
-    {
-     "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
-     "link": "https://9to5google.com/2026/11/19/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
-     "pubDate": "Thu, 19 Nov 2026 18:24:03 +0000",
-     "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one that leaves enough room in the budget for t",
-     "source": "9to5Google",
-     "zh": "Which Waterdrop water filters are actually worth buying this Black Friday?"
     },
     {
      "title": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more",
@@ -2233,14 +2249,6 @@
      "zh": "Google Meet is making it easy to download a local copy of the file your host’s presenting"
     },
     {
-     "title": "How to game share GTA 6 and split the cost with a friend",
-     "link": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/",
-     "pubDate": "Thu, 19 Nov 2026 18:00:48 +0000",
-     "summary": "You can do this on Xbox Series X and PlayStation 5.",
-     "source": "Engadget",
-     "zh": "How to game share GTA 6 and split the cost with a friend"
-    },
-    {
      "title": "Nothing AI device gets teased in a new image",
      "link": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
      "pubDate": "Thu, 19 Nov 2026 18:18:02 +0100",
@@ -2255,14 +2263,6 @@
      "summary": "No, it’s not Prime Day – but Amazon UK still has an interesting Prime-only deal. The Xiaomi 18 Pro and Xiaomi 18 Pro Max started their global rollout just a couple of days ago and the retailer is already offering discounts of £100 and £150, respectively. Xiaomi 18 Pro Max and Xiaomi 18 Pro The catch",
      "source": "GSMArena",
      "zh": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers"
-    },
-    {
-     "title": "Why this Tokyo photographer sold everything and started over with manual-focus lenses",
-     "link": "https://www.dpreview.com/articles/why-this-tokyo-photographer-sold-everything-and-started-over-with-manual-focus-lenses/",
-     "pubDate": "Thu, 19 Nov 2026 15:56:07 +0000",
-     "summary": "Marcel shares the Sony a7R V and manual-focus Voigtländer and Zeiss primes he built after selling everything, plus the lessons his grandfather taught him.",
-     "source": "DPReview",
-     "zh": "Why this Tokyo photographer sold everything and started over with manual-focus lenses"
     }
    ]
   },
@@ -2275,26 +2275,130 @@
     {
      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-     "pubDate": "Thu, 19 Nov 2026 21:08:45 GMT",
+     "pubDate": "Thu, 19 Nov 2026 21:27:33 GMT",
      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
      "source": "CNBC",
      "zh": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
     },
     {
-     "title": "U.S. consortium wins Kenya mining deal valued at more than $60B",
-     "link": "https://seekingalpha.com/news/4674880-u-s-consortium-wins-kenya-mining-deal-valued-at-more-than-60b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:06:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. consortium wins Kenya mining deal valued at more than $60B"
+     "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+     "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 21:27:00 GMT",
+     "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+     "source": "MarketWatch",
+     "zh": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday"
     },
     {
-     "title": "Ross Stores GAAP EPS of $1.91 beats by $0.04, revenue of $6.26B in-line",
-     "link": "https://seekingalpha.com/news/4674887-ross-stores-gaap-eps-of-1_91-beats-by-0_04-revenue-of-6_26b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:06:23 -0500",
+     "title": "Home Depot declares $2.33 dividend",
+     "link": "https://seekingalpha.com/news/4674921-home-depot-declares-233-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:24:39 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Ross Stores GAAP EPS of $1.91 beats by $0.04, revenue of $6.26B in-line"
+     "zh": "Home Depot declares $2.33 dividend"
+    },
+    {
+     "title": "Liquidity Services tumbles 25% on initial fiscal 2027 outlook",
+     "link": "https://seekingalpha.com/news/4674895-liquidity-services-tumbles-25-percent-on-initial-fiscal-2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:24:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Liquidity Services tumbles 25% on initial fiscal 2027 outlook"
+    },
+    {
+     "title": "Element Solutions declares $0.08 dividend",
+     "link": "https://seekingalpha.com/news/4674920-element-solutions-declares-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:24:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Element Solutions declares $0.08 dividend"
+    },
+    {
+     "title": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50",
+     "link": "https://seekingalpha.com/news/4674744-anthropic-ascends-into-history-with-ipo-shares-hit-nasdaq-at-11150?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:24:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50"
+    },
+    {
+     "title": "Carter's declares $0.25 dividend",
+     "link": "https://seekingalpha.com/news/4674919-carters-declares-0_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:23:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Carter's declares $0.25 dividend"
+    },
+    {
+     "title": "Anthropic上市首日收涨17% 开盘涨34% 市值一度达到1.5万亿美元",
+     "link": "http://finance.eastmoney.com/news/1345,202611203935424713.html",
+     "pubDate": "Fri, 20 Nov 2026 05:22:48 +0800",
+     "summary": "人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。 截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。 此外， Anthropic 还将通过同步私募配售募集260亿美元，涉及谷歌、 英伟达 、 微软 、AMD、 博通 、美光及 台积电 等战略投资者。IPO与同步私募配售合计交易规模约1073.4亿美元。 招股书显示，202",
+     "source": "东方财富资讯",
+     "zh": "Anthropic上市首日收涨17% 开盘涨34% 市值一度达到1.5万亿美元"
+    },
+    {
+     "title": "Natural Grocers by Vitamin Cottage Q4 GAAP EPS of $0.48 misses by $0.06, revenue of $347.53M misses by $5.12M",
+     "link": "https://seekingalpha.com/news/4674915-natural-grocers-by-vitamin-cottage-q4-gaap-eps-of-048-misses-by-006-revenue-of-34753m-misses-by-512m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 16:22:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Natural Grocers by Vitamin Cottage Q4 GAAP EPS of $0.48 misses by $0.06, revenue of $347.53M misses by $5.12M"
+    },
+    {
+     "title": "UnitedHealth’s stock plunged after government signals crackdown on Medicare Advantage fraud",
+     "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 21:22:00 GMT",
+     "summary": "The shares have tumbled 19% over the past five days over worries about stricter auditing of ‘upcoding’ and new Medicare for All proposals. Other health insurance stocks also slide.",
+     "source": "MarketWatch",
+     "zh": "UnitedHealth’s stock plunged after government signals crackdown on Medicare Advantage fraud"
+    },
+    {
+     "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+     "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+     "pubDate": "Thu, 19 Nov 2026 21:18:11 GMT",
+     "summary": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+     "source": "CNBC",
+     "zh": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion"
+    },
+    {
+     "title": "AMD dives on short-seller report of alleged China exposure",
+     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "pubDate": "Thu, 19 Nov 2026 21:14:46 GMT",
+     "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+     "source": "CNBC",
+     "zh": "AMD dives on short-seller report of alleged China exposure"
+    },
+    {
+     "title": "Why Walmart is making a bigger bet on fast-food delivery",
+     "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 21:13:00 GMT",
+     "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+     "source": "MarketWatch",
+     "zh": "Why Walmart is making a bigger bet on fast-food delivery"
+    },
+    {
+     "title": "SpaceX周四拟发债60亿美元，完成全部320亿美元债券融资，用于购买英伟达芯片",
+     "link": "https://wallstreetcn.com/articles/3786315",
+     "pubDate": "Fri, 20 Nov 2026 05:10:19 +0800",
+     "summary": "SpaceX正寻求在周四完成至少320亿美元的债务发售，为英伟达AI芯片采购提供资金。 据彭博援引知情人士透露， 本次发售包括约60亿美元债券，规模已从此前的40亿美元上调，于周四向投资者开放认购；其余约260亿美元票据此前已完成配售。 全部320亿美元债务定于周四定价，债务由三部分组成。高盛与Apollo主导此次交易。 这笔融资的特殊之处在于结构。 资金将通过名为Saturn Funding Trust的特殊目的载体购买英伟达AI芯片，该载体由Apollo支持的一家实体管理，SpaceX初期以约五年期租约使用这些芯片。 债务偿付与租金挂钩，而融资安排使借款不进入SpaceX资产负债表，公司预",
+     "source": "华尔街见闻",
+     "zh": "SpaceX周四拟发债60亿美元，完成全部320亿美元债券融资，用于购买英伟达芯片"
+    },
+    {
+     "title": "苹果赢下英国用户数据诉讼首回合，政府秘密令状被迫公开",
+     "link": "https://wallstreetcn.com/articles/3786314",
+     "pubDate": "Fri, 20 Nov 2026 05:10:09 +0800",
+     "summary": "苹果在与英国政府的隐私拉锯战中赢下了关键一局。 11月19日，据彭博报道， 英国调查权力法庭作出最新裁决，认定英国内政部“未能证明”公开秘密命令会损害国家安全 。这意味着，与以往绝大多数全程保密的监控案件不同， 苹果及两家非营利组织发起的这场法律挑战，接下来大部分程序将首次在公开法庭上进行。 此前，英国政府依据法律秘密向苹果发出一份“技术能力通知”（TCN），要求苹果交出用户的加密数据。 按照英国法律，这类命令附带严格的“封口令”，收到通知的公司甚至不能对外承认命令的存在，政府也一直以“国家安全”为由拒绝公开。苹果随后向专门审查秘密监控的英国调查权力法庭提起诉讼。 苹果发言人对此表示欢迎，称这",
+     "source": "华尔街见闻",
+     "zh": "苹果赢下英国用户数据诉讼首回合，政府秘密令状被迫公开"
+    },
+    {
+     "title": "Hunterbrook做空报告重挫AMD！称存在循环交易，承诺规模远超英伟达，AMD否认",
+     "link": "https://wallstreetcn.com/articles/3786312",
+     "pubDate": "Fri, 20 Nov 2026 05:09:56 +0800",
+     "summary": "对冲基金Hunterbrook Capital发布做空报告，重挫AMD股价。该报告指出AMD在客户融资安排上存在循环交易隐患，且对AI支出放缓高度敏感，AMD方面否认相关指控。 周四，AMD股价盘中最大跌幅达11%，低至470.56美元，为当日纳斯达克100指数成分股中跌幅最大的个股。该股此前年内涨幅已逾一倍。截至发稿，AMD下跌8.9%。 Hunterbrook Capital表示，目前持有AMD空头仓位，同时做多一篮子可比标的。AMD则回应称，Hunterbrook的\"相关指控歪曲了AMD的业务实践与合作关系\"。 循环交易隐患：AMD承诺过多、现金偏少 Hunterbrook在报告中指出，",
+     "source": "华尔街见闻",
+     "zh": "Hunterbrook做空报告重挫AMD！称存在循环交易，承诺规模远超英伟达，AMD否认"
     },
     {
      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
@@ -2305,14 +2409,6 @@
      "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
     },
     {
-     "title": "Wall Street ends 2% lower on Anthropic's IPO date",
-     "link": "https://seekingalpha.com/news/4674877-wall-street-ends-2-lower-on-anthropics-ipo-date?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:05:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wall Street ends 2% lower on Anthropic's IPO date"
-    },
-    {
      "title": "Rising healthcare costs push Medicare Part B premiums higher",
      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 21:05:00 GMT",
@@ -2321,76 +2417,20 @@
      "zh": "Rising healthcare costs push Medicare Part B premiums higher"
     },
     {
-     "title": "Intuit Non-GAAP EPS of $2.91 beats by $0.27, revenue of $4.35B beats by $40M",
-     "link": "https://seekingalpha.com/news/4674885-intuit-non-gaap-eps-of-2_91-beats-by-0_27-revenue-of-4_35b-beats-by-40m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:04:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intuit Non-GAAP EPS of $2.91 beats by $0.27, revenue of $4.35B beats by $40M"
+     "title": "Anthropic shares jump 17% after record Wall Street listing",
+     "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+     "pubDate": "Thu, 19 Nov 2026 21:02:09 GMT",
+     "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
+     "source": "Financial Times",
+     "zh": "Anthropic shares jump 17% after record Wall Street listing"
     },
     {
-     "title": "Intuit meets FQ1 earnings estimates, Credit Karma hits guidance, Mailchimp sale disclosed",
-     "link": "https://seekingalpha.com/news/4674847-intuit-meets-fq1-earnings-estimates-credit-karma-hits-guidance-mailchimp-sale-disclosed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:04:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intuit meets FQ1 earnings estimates, Credit Karma hits guidance, Mailchimp sale disclosed"
-    },
-    {
-     "title": "SA analyst warns AI buildout may be nearing a profitability peak",
-     "link": "https://seekingalpha.com/news/4674881-sa-analyst-warns-ai-buildout-may-be-nearing-a-profitability-peak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 16:04:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA analyst warns AI buildout may be nearing a profitability peak"
-    },
-    {
-     "title": "Bending Spoons将以36.8亿美元的企业价值收购Mailchimp",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453926.html",
-     "pubDate": "Fri, 20 Nov 2026 05:03:40 +0800",
-     "summary": "Bending Spoons将以36.8亿美元的企业价值收购Mailchimp。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Bending Spoons将以36.8亿美元的企业价值收购Mailchimp"
-    },
-    {
-     "title": "AMD股价收盘下跌7.7% 英伟达股价收跌3.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453847.html",
-     "pubDate": "Fri, 20 Nov 2026 05:03:37 +0800",
-     "summary": "AMD股价收盘下跌7.7%，盘中一度下跌11%。 英伟达 股价收跌3.3%，连续第六天下跌。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "AMD股价收盘下跌7.7% 英伟达股价收跌3.3%"
-    },
-    {
-     "title": "财捷Intuit第一财季净营收43.5亿美元，分析师预期43.1亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453749.html",
-     "pubDate": "Fri, 20 Nov 2026 05:02:31 +0800",
-     "summary": "财捷 Intuit第一财季净营收43.5亿美元，分析师预期43.1亿美元。公司达成出售Mailchimp给Bendings Spoons的协议。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "财捷Intuit第一财季净营收43.5亿美元，分析师预期43.1亿美元"
-    },
-    {
-     "title": "纽约期金失守3660美元/盎司，日内跌2.19%",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453563.html",
-     "pubDate": "Fri, 20 Nov 2026 05:01:18 +0800",
-     "summary": "纽约期金失守3660美元/盎司，日内跌2.19%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "纽约期金失守3660美元/盎司，日内跌2.19%"
-    },
-    {
-     "title": "韩国10月PPI月率 -0.1%，前值由0.2%修正为0.1%",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453415.html",
-     "pubDate": "Fri, 20 Nov 2026 05:01:17 +0800",
-     "summary": "韩国10月PPI月率 -0.1%，前值由0.2%修正为0.1%。韩国10月PPI年率 7.2%，前值由7.70%修正为7.6%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "韩国10月PPI月率 -0.1%，前值由0.2%修正为0.1%"
-    },
-    {
-     "title": "纳斯达克中国金龙指数收跌1.80%",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935453340.html",
-     "pubDate": "Fri, 20 Nov 2026 05:01:17 +0800",
-     "summary": "网易 跌11.31%， 文远知行 跌11.04%， 名创优品 跌9.62%，亿航跌9.42%， 宝尊电商 跌6.99%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "纳斯达克中国金龙指数收跌1.80%"
+     "title": "美股三大股指集体收跌 跌幅均超2% Anthropic上市首日股价大涨超17%",
+     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
+     "pubDate": "Fri, 20 Nov 2026 05:00:32 +0800",
+     "summary": "美东时间周四，美股三大股指集体收跌。截止收盘，道琼斯指数跌2.19%，标普500指数跌2.02%， 纳斯达克 综合 指数跌2.25%。 Anthropic 纳斯达克 首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。 芯片股高开低走， 英伟达 跌超3%，连续第六天下跌， 美光科技 、 博通 跌超2%。其他权重科技股也多数下挫， 亚马逊 跌近4%，Meta、 SpaceX 跌超3%，谷歌跌近3%； 英特尔 涨近2%。 AMD重挫近8%，做空机构Hunterbrook警告称其采用了与 英伟达 类似的“循环交易”。 纳斯达克 中国金龙指数收跌1.86%，热门中概股多数下跌，",
+     "source": "东方财富资讯",
+     "zh": "美股三大股指集体收跌 跌幅均超2% Anthropic上市首日股价大涨超17%"
     },
     {
      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
@@ -2409,52 +2449,12 @@
      "zh": "Congress passes bill to protect older investors from financial fraud"
     },
     {
-     "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 20:33:00 GMT",
-     "summary": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock falls further. It has lost $611 billion in six trading days."
-    },
-    {
-     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 20:28:00 GMT",
-     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-     "source": "MarketWatch",
-     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
-    },
-    {
-     "title": "Why Walmart is making a bigger bet on fast-food delivery",
-     "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 20:24:00 GMT",
-     "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
-     "source": "MarketWatch",
-     "zh": "Why Walmart is making a bigger bet on fast-food delivery"
-    },
-    {
      "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
      "link": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 19 Nov 2026 20:17:00 GMT",
      "summary": "JPMorgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, were exposed in cyberattacks on third-party vendors.",
      "source": "Finextra",
      "zh": "JPMorgan, Visa and Mastercard say hackers leaked customer emails"
-    },
-    {
-     "title": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超10%",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
-     "pubDate": "Fri, 20 Nov 2026 04:00:32 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.08%，标普500指数跌1.96%， 纳斯达克 综合 指数跌2.09%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超10%"
-    },
-    {
-     "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-     "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-     "pubDate": "Thu, 19 Nov 2026 19:58:30 GMT",
-     "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-     "source": "CNBC",
-     "zh": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs"
     },
     {
      "title": "彭博经济学家：Anthropic的IPO或标志AI行情终结",
@@ -2489,14 +2489,6 @@
      "zh": "UK pensions dashboard set for summer 2027 launch"
     },
     {
-     "title": "AMD dives on short-seller report of alleged China exposure",
-     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "pubDate": "Thu, 19 Nov 2026 18:24:54 GMT",
-     "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
-     "source": "CNBC",
-     "zh": "AMD dives on short-seller report of alleged China exposure"
-    },
-    {
      "title": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜",
      "link": "https://wallstreetcn.com/articles/3786309",
      "pubDate": "Fri, 20 Nov 2026 02:03:18 +0800",
@@ -2505,12 +2497,20 @@
      "zh": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜"
     },
     {
-     "title": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿",
-     "link": "https://wallstreetcn.com/articles/3786269",
-     "pubDate": "Fri, 20 Nov 2026 01:53:23 +0800",
-     "summary": "AI独角兽又一次创造历史。Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，正式登陆美股，开盘大涨幅度超过此前暗盘预计的最高涨幅，一度将公司市值推升至2万亿美元以上、超过SpaceX首秀时，不过随着股价盘中回吐涨幅，市值回落到1.5万亿美元以内。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后回吐过半涨幅，一度回到92.80美元下方、涨幅收窄至不足12%。 此次Anthropic IPO公开募资约813亿美元，刷新全球IPO募资",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿"
+     "title": "US stocks end more than 2% lower in wake of Anthropic debut",
+     "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+     "pubDate": "Thu, 19 Nov 2026 16:19:06 GMT",
+     "summary": "AI giant begins trading after raising $81bn in record IPO",
+     "source": "Financial Times",
+     "zh": "US stocks end more than 2% lower in wake of Anthropic debut"
+    },
+    {
+     "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
+     "link": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 16:07:00 GMT",
+     "summary": "Circle has joined forces with Southeast Asia's largest bank, DBS, to expand institutional access to its USDC stablecoin in the region.",
+     "source": "Finextra",
+     "zh": "DBS and Circle partner to expand institutional access to USDC in Asia"
     }
    ]
   },
@@ -2607,6 +2607,14 @@
      "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
      "source": "MIT News",
      "zh": "If tiny “primordial” black holes exist, here’s how we might find them"
+    },
+    {
+     "title": "Mouse fight club might explain why we like to watch violent things",
+     "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+     "pubDate": "Thu, 19 Nov 2026 14:04:38 +0000",
+     "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+     "source": "Ars Technica Science",
+     "zh": "Mouse fight club might explain why we like to watch violent things"
     },
     {
      "title": "Study reveals data centers’ long-distance damage to air quality",
@@ -2751,14 +2759,6 @@
      "summary": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology. The post What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing."
-    },
-    {
-     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-     "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-     "pubDate": "Sun, 15 Nov 2026 23:11:54 +0000",
-     "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
-     "source": "Ars Technica Science",
-     "zh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
     }
    ]
   }

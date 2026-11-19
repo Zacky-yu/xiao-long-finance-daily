@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 09:29:33",
+ "generated_at": "2026/11/19 09:35:31",
  "recent_days": 7,
  "industries": [
   {
@@ -16,14 +16,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
      "source": "TechCrunch AI",
      "zh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
-    },
-    {
-     "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-     "link": "https://www.qbitai.com/2026/11/510947.html",
-     "pubDate": "Thu, 19 Nov 2026 00:26:40 +0000",
-     "summary": "国产AI工具实现「一个人就是一个剧组」",
-     "source": "量子位",
-     "zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！"
     },
     {
      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -98,14 +90,6 @@ window.INDUSTRY_DATA = {
      "zh": "Genie 4 is now available"
     },
     {
-     "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
-     "link": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-     "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
-     "source": "KDnuggets",
-     "zh": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them"
-    },
-    {
      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
      "pubDate": "Wed, 18 Nov 2026 16:07:50 +0000",
@@ -122,14 +106,6 @@ window.INDUSTRY_DATA = {
      "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
-     "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
-     "link": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
-     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
-     "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
-     "source": "KDnuggets",
-     "zh": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next"
-    },
-    {
      "title": "The AI Hype Index: AI is everywhere",
      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
@@ -144,14 +120,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月18日报道，近日，英伟达（NVIDIA）在上海举办了一场RTX Spark分享会，解读了RTX Spark最新桌面主机产品背后的技术特性，并展示了办公、游戏、创作、机器人等各领域基于RTX Spark产品实现的AI应用案例。 比如在本地训练具身模型并用其操作机械臂抓取、机器人自然语言编程与强化学习训练、本地AI Agent远程办公、UE5超大场景实时渲染、Broadcast视频处理以及老视频AI修复等等，一切都是基于本地RTX Spark。 你甚至可以来点“邪修”，把RTX Spark笔记本架在机器人头上，造出属于你的“机器人伴侣”。 RT",
      "source": "智东西",
      "zh": "英伟达RTX Spark桌面主机首次亮相：最新Demo现场体验，本地AI玩出花"
-    },
-    {
-     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
-     "source": "KDnuggets",
-     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "资本开支暴涨528%！腾讯继续加码AI，WorkBuddy登顶国内AI用量第一",
@@ -248,6 +216,38 @@ window.INDUSTRY_DATA = {
      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
      "source": "量子位",
      "zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
+    },
+    {
+     "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+     "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+     "pubDate": "Wed, 18 Nov 2026 07:10:53 +0000",
+     "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode ap",
+     "source": "MarkTechPost",
+     "zh": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode"
+    },
+    {
+     "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+     "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+     "pubDate": "Wed, 18 Nov 2026 06:53:28 +0000",
+     "summary": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeare",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript"
+    },
+    {
+     "title": "Managing frontier AI risk: From training to deployment",
+     "link": "https://openai.com/index/managing-frontier-ai-risk",
+     "pubDate": "Wed, 18 Nov 2026 06:00:00 GMT",
+     "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+     "source": "OpenAI",
+     "zh": "Managing frontier AI risk: From training to deployment"
+    },
+    {
+     "title": "兄弟联手创业，做金融AI Agent，融资17亿",
+     "link": "https://zhidx.com/p/611750.html",
+     "pubDate": "Wed, 18 Nov 2026 13:35:21 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月18日消息，昨日，英国金融AI公司Model ML宣布完成 2.5亿美元（约合人民币16.7亿元） B轮融资，估值达到 15亿美元（约合人民币100亿元） 。 ▲Model ML宣布完成2.5亿美元B轮融资（图源：X） 本轮融资由泛大西洋投资集团和金融科技投资机构QED Investors联合领投，Evolution Equity Partners、Airtree、Forestay Capital、Y Combinator、FT Partners、Latitude、Inception Fund及13Books Capital等机构参投。 ",
+     "source": "智东西",
+     "zh": "兄弟联手创业，做金融AI Agent，融资17亿"
     }
    ]
   },
@@ -1770,6 +1770,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)",
+     "link": "https://www.techmeme.com/261118/p53#a261118p53",
+     "pubDate": "Wed, 18 Nov 2026 20:30:01 -0500",
+     "summary": "Mark Stenberg / Adweek : Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue &nbsp; &mdash;&nbsp; The theatrical subscription company is pitching potential buyers on bundling movie tickets in",
+     "source": "Techmeme",
+     "zh": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)"
+    },
+    {
+     "title": "暴雪《魔兽世界：无限》游戏上线两周，周活跃玩家刷新 15 年纪录",
+     "link": "https://www.ithome.com/1/029/166.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:28:45 GMT",
+     "summary": "IT之家 11 月 19 日消息，暴雪娱乐昨日（11 月 18 日）发布公告，称《魔兽世界：无限》（World of Warcraft: Forever）上线 2 周时间， 周活跃玩家刷新《魔兽世界》游戏 15 年纪录。 魔兽世界副总裁霍莉 · 朗代尔（Holly Longdale）在社交平台表示，玩家正“每天都在打破纪录”，并感谢社区重返艾泽拉斯。IT之家附上相关截图如下： 官方公布的部分数据显示，玩家已创建超过 1,516 万个角色，完成任务超过 14.8 亿次，击败敌人超过 97.8 亿次；此外还创建了超过 14 万个公会，组成超过 7,131 万个队伍。",
+     "source": "IT之家",
+     "zh": "暴雪《魔兽世界：无限》游戏上线两周，周活跃玩家刷新 15 年纪录"
+    },
+    {
+     "title": "国家能源局：截至 2026 年 6 月底全国已建成并投运虚拟电厂项目数量达 592 个，同比增长 78.9%",
+     "link": "https://www.ithome.com/1/029/165.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:27:41 GMT",
+     "summary": "IT之家 11 月 19 日消息，今日，国家能源局发布《中国虚拟电厂发展报告（2026）》显示，全国虚拟电厂规模快速增长。 IT之家从报告获悉，截至 2026 年 6 月底，全国已建成并投运的虚拟电厂项目数量达到 592 个， 同比增长 78.9% ；最大调节能力达到 2042.8 万千瓦，同比增长 62.7%，提前完成《关于加快推进虚拟电厂发展的指导意见》提出的 2027 年全国虚拟电厂调节能力达到 2000 万千瓦以上的发展目标。与 2025 年底相比，2026 年上半年虚拟电厂项目数量增加 122 个，最大调节能力增长 357.2 万千瓦、增速 21.2%。 分区域来看，华东、南方、华北",
+     "source": "IT之家",
+     "zh": "国家能源局：截至 2026 年 6 月底全国已建成并投运虚拟电厂项目数量达 592 个，同比增长 78.9%"
+    },
+    {
+     "title": "皖北全面振兴，为何特别强调高端要素导入？",
+     "link": "https://www.huxiu.com/article/4906720.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:20:56 +0800",
+     "summary": "本文来自微信公众号： 决策杂志 ，作者：决策杂志媒体智库 在阜阳颍东经开区，来自南宁的皇氏乳业公司中央工厂里，智能化生产线高速运转，阜阳第一次有了高端乳品制造的名片；几公里外，来自青岛的澳柯玛控股盈田空调公司，散热器、制冷铜管配套企业在周边落脚，产品发往70多个国家……阜阳的实践，是皖北承接产业转移的一个生动缩影。 深刻剖析区域经济发展会发现，产业场景是一个由各类要素相互耦合的有机体：工厂进来了、配套跟来了，研发、品牌、高端人才等决定高附加值的高端要素，也要嵌入产业链。放到整个皖北来看，在加快经济发展的要素中，为何特别强调高端要素导入，又该怎样导入？ 我们先从一个后发区域加快经济发展，需要哪些",
+     "source": "虎嗅",
+     "zh": "皖北全面振兴，为何特别强调高端要素导入？"
+    },
+    {
+     "title": "资本为什么还在加码这门亏钱的生意？",
+     "link": "https://www.huxiu.com/article/4906706.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:20:00 +0800",
+     "summary": "本文来自微信公众号： 方先森的吹牛草稿 ，作者：方先森 2026赛季中超最后阶段，成都蓉城经历了一场堪称史诗级的崩盘，在赛季中一度领先第二名18分的巨大优势下，把几乎到手的冠军拱手让出。 球迷们的失望和愤怒溢于言表。赛季结束后，俱乐部董事长、总经理和主教练相继离任。 我曾就职于与成都蓉城俱乐部同集团下的一家国企。在那几年里，集团内部还有赠票，后来冲超成功，原本无人问津的球票变成需要限额、排队申请的福利。在我离开那家企业前，整个集团员工甚至要轮流去现场做志愿者，协助维持比赛秩序。 当时，俱乐部历任管理层也都是发挥体制内自给自足的“光荣传统”，从集团内部轮岗过去任职的。相比于成都火爆的球市，球队更",
+     "source": "虎嗅",
+     "zh": "资本为什么还在加码这门亏钱的生意？"
+    },
+    {
      "title": "阿联酋独立站COD回款要45天，物流时效和签收率怎么平衡？",
      "link": "https://www.baijing.cn/question/638815",
      "pubDate": "Thu, 19 Nov 2026 01:18:21 +0000",
@@ -1789,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”",
      "link": "https://www.huxiu.com/article/4906709.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 09:14:38 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：Fleming，编辑：|陆一鸣 “十元快剪暴打全国设计总监”的热搜一出，人们发现，年轻人又悄悄捧红了路边的快剪店。实际上，理发店这门生意很难简单分为“十元”和“百元”，这中间还有不少需求没挤进这场擂台赛。大多数人希望找到一家离家近价格在可接受范围内的理发店，“设计”不必成为加价理由，“便民”也不至于让我不好意思提要求。 “没有人能笑着从理发店里出来。”以前我总以为这是顾客的心声。最近才发现，这句话对于理发师也适用。 最近，“十元快剪暴打全国设计总监”的话题一出，老师傅终于等来属于自己的短剧逆袭剧本。超市角落、路边野摊的无名高手，手持一把电推子，就能让全城的",
+     "summary": "&ldquo;十元快剪暴打全国设计总监&rdquo;的热搜一出，人们发现，年轻人又悄悄捧红了路边的快剪店。实际上，理发店这门生意很难简单分为&ldquo;十元&rdquo;和&ldquo;百元&rdquo;，这中间还有不少需求没挤进这场擂台赛。大多数人希望找到一家离家近价格在可接受范围内的理发店，&ldquo;设计&rdquo;不必成为加价理由，&ldquo;便民&rdquo;也不至于让我不好意思提要求。 本文来自微信公众号： 新周刊 ，作者：Fleming，编辑：陆一鸣，题图来自：视觉中国 &ldquo;没有人能笑着从理发店里出来。&rdquo;以前我总以为这是顾客的心声。最近才发现，这句话",
      "source": "虎嗅",
      "zh": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”"
     },
@@ -1826,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "Edge AI Daily 早报（11月19日）"
     },
     {
-     "title": "从“S 级客户”到全系自研：曝理想 i6 押宝宁德时代电池惨遭断供后决心自研",
-     "link": "https://www.ithome.com/1/029/159.htm",
-     "pubDate": "Thu, 19 Nov 2026 01:05:32 GMT",
-     "summary": "IT之家 11 月 19 日消息，《21 汽车 · 一见 Auto》昨日报道称，理想汽车与宁德时代之间维持多年的供应关系，在 2026 年秋季走到了一个微妙的临界点。 今年 9 月初，理想先是以 26.5 亿元增资欣旺达动力，随后宣布全系车型切换自研电池。官宣次日，宁德时代 A 股股价下跌 3.65%，市值缩水 540 亿元。外界将此视为双方“切割”的信号，但两家公司对外口径始终一致：仍是战略合作伙伴。 《一见 Auto》指出，双方真正的裂痕始于 2025 年第四季度的 i6 电池供应。当时理想向用户承诺年底提车可配备宁德时代电池，意味着宁德是 i6 该季度的电池独供方。理想 10 月下发的产",
-     "source": "IT之家",
-     "zh": "从“S 级客户”到全系自研：曝理想 i6 押宝宁德时代电池惨遭断供后决心自研"
-    },
-    {
      "title": "仇某某团队的论文啥时候能被“自然”撤稿？",
      "link": "https://www.huxiu.com/article/4906718.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 09:05:19 +0800",
@@ -1858,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "华勤273亿新生意只换回2亿"
     },
     {
-     "title": "奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展",
-     "link": "https://www.ithome.com/1/029/158.htm",
-     "pubDate": "Thu, 19 Nov 2026 01:00:15 GMT",
-     "summary": "IT之家 11 月 19 日消息，美国当地时间 11 月 18 日周三召开的 DealBook 峰会上， OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，其公司正在“安全”与“发展”寻找 AI 平衡点。 奥尔特曼和 OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）共同参与本次活动，他们表示在推进 AI 发展的进程中不可避免地会遇到风险，因此公司必须在优先保障安全和持续创新之间做出取舍。 奥尔特曼在访谈中坦言，OpenAI 不可能“让所有人都满意”。他称，如果公司只顾“踩满油门”追求技术突破，公众会担心人工智能失控；但若过度强调安全，也可能延缓产品和技",
-     "source": "IT之家",
-     "zh": "奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展"
-    },
-    {
      "title": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？",
      "link": "https://www.baijing.cn/question/638814",
      "pubDate": "Thu, 19 Nov 2026 00:58:11 +0000",
@@ -1880,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 返朴 ，作者：李娟 前额叶，一个科学名词，生生被玩成了网络“热梗”，以至于“富养前额叶”成了当代养生时尚。但它在科学上足够站得住脚吗？ 在科学期刊上，“没发现”历来最难发表。这一次，32个国际团队汇集40套脑成像数据、2175名参与者，按预先注册的方案寻找情绪调节能力的大脑印记，结果几乎处处扑空，Nature却发表了它。这项阴性结果的分量在于：它不是没测出来，而是有把握地说“确实没有”。 本文收录于合集前沿追踪 “我不是摆烂，只是前额叶下线了。” “一点就炸？你的理智刹车——前额叶失灵了。” “择偶新标准：找一个前额叶友好的人。” 最近，前额叶成了网络热词。拖延、易怒、专",
      "source": "虎嗅",
      "zh": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature"
-    },
-    {
-     "title": "别再扯什么AI组织了，这事儿等到下辈子也看不见",
-     "link": "https://www.huxiu.com/article/4906713.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:52:48 +0800",
-     "summary": "本文来自微信公众号： ToBeSaaS ，作者：戴珂 最近常被拉去参加一些会议，各路专家一本正经地大讲特讲AI组织。这事太扯了，让人听不下去，也懒得去辩论。 他们讲的都是同一件事：管理层砍光，流程重画，治理省掉，公司交给AI，它自己就能跑得很好。 这话听着像未来学。它其实是许愿。 判断一个愿望能不能兑现，有个省事的办法：别讨论它多美好，去看它要成立得先满足哪些条件，那些条件今天有没有。 把它当四件事，一件一件查。 01 层级不是信息管道，是签字的地方 这一整套说法的地基，是一个等式：组织的层级，等于信息传递的通道。 这个等式对，但只对了一半。 层级确实在传信息。信息不全就往上跑，活要跨部门就排",
-     "source": "虎嗅",
-     "zh": "别再扯什么AI组织了，这事儿等到下辈子也看不见"
-    },
-    {
-     "title": "电子榨菜，也得把人当人",
-     "link": "https://www.huxiu.com/article/4906711.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:50:31 +0800",
-     "summary": "本文来自微信公众号： 携隐Melody ，作者：携隐，题图来自：视觉中国 我发现很多人跟综艺和影视剧的关系，是人和工具的关系 （I-It） ，它们纯粹就是用来消遣娱乐的&ldquo;东西&rdquo;。 既然是这样的主客体关系，那么剧里的角色也好，为剧营业的演员也罢，甚至综艺中的真人，都不再是活生生的人，而是&ldquo;被我买单的情绪价值&rdquo;，和&ldquo;供我投射的像素块&rdquo;。 所以攻击起来毫无心理负担。因为人们不会对一台榨汁机讲共情。既然你是供我消遣的客体，那我顺着剪辑的引导，凭着30秒的切片，给你贴标签，用最恶毒的字眼审判你的人格，做出各种毫无根据的猜测，不过就是",
-     "source": "虎嗅",
-     "zh": "电子榨菜，也得把人当人"
     },
     {
      "title": "Elon Musk says: ‘I’m not MAGA’",
@@ -1994,14 +2002,6 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks to Acquire Applied Compute for $4.5B"
     },
     {
-     "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)",
-     "link": "https://www.techmeme.com/261118/p47#a261118p47",
-     "pubDate": "Wed, 18 Nov 2026 18:30:04 -0500",
-     "summary": "Reuters : Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours &nbsp; &mdash;&nbsp; Cybersecurity firm Palo Alto Networks (PANW.O) raised its annual revenue forecast and signed a deal to acquire AI startup ",
-     "source": "Techmeme",
-     "zh": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)"
-    },
-    {
      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
      "pubDate": "Wed, 18 Nov 2026 23:25:04 +0000",
@@ -2040,6 +2040,14 @@ window.INDUSTRY_DATA = {
      "summary": "Apple switched from titanium to aluminum for the frame of the iPhone 17 Pro and 17 Pro Max, and stuck with that material for the iPhone 18 Pro and 18 Pro Max this year. However, it looks like aluminum might not live much longer in its top-end lineup. Today, tipster Fixed Focus Digital took to Weibo ",
      "source": "GSMArena",
      "zh": "iPhone 20 Pro may bring back titanium"
+    },
+    {
+     "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+     "link": "https://sspai.com/post/119239",
+     "pubDate": "Thu, 19 Nov 2026 08:29:30 +0800",
+     "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文",
+     "source": "少数派",
+     "zh": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等"
     },
     {
      "title": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some even require players to complete specific challenges.",
      "source": "Engadget",
      "zh": "You can't use GTA 6 cheats until you beat the game"
-    },
-    {
-     "title": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around",
-     "link": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
-     "pubDate": "Wed, 18 Nov 2026 18:02:02 +0100",
-     "summary": "Apple has announced an updated Maps experience for users across India, bringing faster navigation, new 3D landmarks, Natural Language Guidance for more conversational directions, and several other improvements. In a blog post, Apple detailed the new features coming to Maps in India. Natural Language",
-     "source": "GSMArena",
-     "zh": "Apple Maps gets major upgrade in India with 3D landmarks and improved Look Around"
     }
    ]
   },
@@ -2265,6 +2265,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor",
+     "link": "https://seekingalpha.com/news/4674492-cintas-chairman-met-with-trump-in-effort-to-save-5_5b-unifirst-deal-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 20:22:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor"
+    },
     {
      "title": "今日看点｜商务部将召开新闻发布会，介绍近期商务领域重点工作有关情况",
      "link": "http://www.eeo.com.cn/2026/1119/1096634.shtml",
@@ -2402,6 +2410,22 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
+     "title": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934700382.html",
+     "pubDate": "Thu, 19 Nov 2026 08:57:56 +0800",
+     "summary": "周三公布的美联储10月会议纪要显示，与激进的AI投资及资产价格高企相关的金融稳定风险，已颇为罕见地引起美联储的关注。 在10月27日至28日的政策会议上，美联储决策者和央行工作人员在对金融风险进行广泛审查时提出了这一担忧。 尽管市场对高企且持续的通胀水平仍存忧虑，但官员们在此次会议上仍决定维持利率不变。不过，会议纪要显示，几乎所有决策者都认为，如果经济走势符合预期，则需要进一步加息。 会议纪要称，当前的脆弱性对外部冲击的放大效应可能稍甚于以往。其中，居高不下的资产估值与对冲基金的高杠杆率是最突出的隐患 ；不过， 银行 系统及家庭坚实的资产负债表，为抵御更剧烈的负面冲击提供了关键屏障。 美联储决",
+     "source": "东方财富资讯",
+     "zh": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报"
+    },
+    {
+     "title": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放",
+     "link": "http://finance.eastmoney.com/news/11874,202611193934690519.html",
+     "pubDate": "Thu, 19 Nov 2026 08:55:02 +0800",
+     "summary": "①光模块龙头拟开启第二轮回购，真金 白银 护盘提振信心； ②算力 租赁 需求持续高增，行业步入量价齐升 黄金 期； ③美国接连大规模宕机， 网络安全 防护需求凸显； ④国家能源局部署流域水风光一体化，绿电供给扩容提质； ⑤充电设施2030年要达4000万个，建设增量空间打开； ⑥权志龙母公司拟推 机器人 女团，人形 机器人 +AI娱乐融合提速。 盘面回顾 11月18日，A股三大指数集体收涨，沪指涨0.09%报3587.83点，创业板指涨0.85%。不过，沪深两市全天成交1.37万亿元、刷新年内新低，全市场超4100股下跌。算力 租赁 、国产算力、 PCB 方向领涨，AI漫剧、 贵金属 、医药板",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放"
+    },
+    {
      "title": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks",
      "link": "https://seekingalpha.com/news/4674491-us-oil-price-slides-as-data-shows-larger-than-expected-increases-in-crude-gasoline-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 19:47:27 -0500",
@@ -2416,6 +2440,14 @@ window.INDUSTRY_DATA = {
      "summary": "人工智能公司Anthropic完成史上规模最大IPO，以高于发行区间的价格定价，募资总额远超此前所有纪录，标志着资本市场对AI领域的押注正式从芯片基础设施延伸至前沿模型平台。 周三， Anthropic将其A类普通股IPO定价为每股83美元，高出发行区间上限78美元约6.4%，同时将发行规模从8.25亿股扩大至9.8亿股，扩大约19% 。 分析认为，定价策略是为了让股价像往常一样在IPO后上涨20%，从而突破100美元。 如果未能达到预期，或者收盘下跌，投资者就需要警惕了。 公司及创始人此次合计募资约813亿美元，叠加来自谷歌、英伟达等七家科技巨头的260亿美元私募配售， 总募资规模突破107",
      "source": "华尔街见闻",
      "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
+    },
+    {
+     "title": "利好突袭！刚刚全线拉升！史上最大IPO定了",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934716375.html",
+     "pubDate": "Thu, 19 Nov 2026 08:43:38 +0800",
+     "summary": "AI巨头Anthropic的IPO定价高于区间并扩大发行规模，显示需求旺盛，提振市场情绪。 今日早间，美股 期货 大幅拉升，截至发稿，纳指 期货 涨1.03%，标普500指数 期货 涨0.55%，道指期货涨0.32%。美股盘后交易时段，AI硬件股集体反弹， 英伟达 涨0.80%， 博通 、 高通 、ARM、 英特尔 、 美光科技 、 希捷科技 、 康宁 、Lumentum等涨超1%。 消息面上，AI巨头Anthropic将其IPO发行价定为每股83美元，高于此前70—78美元的发行指导区间。由于投资者需求强劲，发行规模由原计划约8.25亿股扩大至9.8亿股。按此计算，本次IPO募资额约813亿",
+     "source": "东方财富资讯",
+     "zh": "利好突袭！刚刚全线拉升！史上最大IPO定了"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2434,6 +2466,30 @@ window.INDUSTRY_DATA = {
      "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
     },
     {
+     "title": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934645436.html",
+     "pubDate": "Thu, 19 Nov 2026 08:22:14 +0800",
+     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的 纳斯达克 上市铺平了道路，也标志着 人工智能 行业的一个历史性时刻。 此次IPO的发行规模也有所扩大。Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 Anthropic此前表示将发行8.25亿股。 这将使Anthropic估值达到1.5万亿美元，超过该公司此前1.",
+     "source": "东方财富资讯",
+     "zh": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿"
+    },
+    {
+     "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？",
+     "link": "http://stock.eastmoney.com/news/11228,202611193934644890.html",
+     "pubDate": "Thu, 19 Nov 2026 08:17:49 +0800",
+     "summary": "Anthropic的超级IPO即将登陆市场。据最新报道，该公司已将IPO发行价定为每股83美元，高于此前公布的70至78美元发行区间。其股票预计将于周四开始交易。 以此计算，Anthropic完全稀释估值约1.5万亿美元，仅次于 SpaceX （1.77万亿美元），但据媒体此前报道，Anthropic及其部分投资方计划通过本次IPO外加一轮独立私募配售，合计募资额最高可达904亿美元。两项融资合计规模将超过 SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值 人工智能 行业动荡之际： 数据中心 的抵制助长了民主党的蓝色浪潮，再叠加“黄仁勋风波”，市场",
+     "source": "东方财富资讯",
+     "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
+    },
+    {
+     "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
+     "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
+     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 （文章来源：界面新闻）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
+    },
+    {
      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
      "pubDate": "Thu, 19 Nov 2026 00:08:14 GMT",
@@ -2448,62 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
      "source": "CNBC",
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
-    },
-    {
-     "title": "Singapore sets national AI missions for financial services",
-     "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
-     "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
-     "source": "Finextra",
-     "zh": "Singapore sets national AI missions for financial services"
-    },
-    {
-     "title": "Venture Global CEO sees final investment decisions on two key projects in next year's H1",
-     "link": "https://seekingalpha.com/news/4674490-venture-global-ceo-sees-final-investment-decisions-on-two-key-projects-in-next-years-h1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 18:53:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Venture Global CEO sees final investment decisions on two key projects in next year's H1"
-    },
-    {
-     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-     "pubDate": "Wed, 18 Nov 2026 23:45:50 GMT",
-     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
-     "source": "CNBC",
-     "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
-    },
-    {
-     "title": "Wheat leads losses in U.S. grain futures, falling to lowest since January",
-     "link": "https://seekingalpha.com/news/4674488-wheat-leads-u-s-grain-futures-lower-falling-to-lowest-since-january?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 18:30:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wheat leads losses in U.S. grain futures, falling to lowest since January"
-    },
-    {
-     "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-     "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 23:12:00 GMT",
-     "summary": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
-     "source": "MarketWatch",
-     "zh": "What the ‘death cross’ in small-cap stocks means for the rest of the market"
-    },
-    {
-     "title": "UGI Non-GAAP EPS of $3.00 beats by $0.21, revenue of $7.3B misses by $50M",
-     "link": "https://seekingalpha.com/news/4674489-ugi-non-gaap-eps-of-3_00-beats-by-0_21-revenue-of-7_3b-misses-by-50m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 18:02:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UGI Non-GAAP EPS of $3.00 beats by $0.21, revenue of $7.3B misses by $50M"
-    },
-    {
-     "title": "How copper’s plunge could hurt the AI buildout",
-     "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 23:02:00 GMT",
-     "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
-     "source": "MarketWatch",
-     "zh": "How copper’s plunge could hurt the AI buildout"
     }
    ]
   },

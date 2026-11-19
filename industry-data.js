@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 22:32:00",
+ "generated_at": "2026/11/19 22:52:11",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Shaping the Form, Function, and Future of Humanoid Robotics",
+     "link": "https://www.eetimes.com/shaping-the-form-function-and-future-of-humanoid-robotics/",
+     "pubDate": "Thu, 19 Nov 2026 14:32:48 +0000",
+     "summary": "Humanoid robotics is moving rapidly from concept toward real-world applications, creating new engineering challenges across sensing, movement, assembly, reliability and long-term serviceability. As robots become more sophisticated, materials play an increasingly important role in enabling lighter an",
+     "source": "EE Times",
+     "zh": "Shaping the Form, Function, and Future of Humanoid Robotics"
+    },
+    {
+     "title": "Fable: The Delusional CEO",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-delusional-ceo-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 14:22:32 +0000",
+     "summary": "There was once a tech CEO who went to have dinner with another tech CEO who had adopted the idea that he should only eat meat which he had personally […] The post Fable: The Delusional CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The Delusional CEO"
+    },
+    {
      "title": "PSS 3.1 Opens New Possibilities for Hardware and Software Verification",
      "link": "https://semiwiki.com/semiconductor-services/accellera/376235-pss-3-1-opens-new-possibilities-for-hardware-and-software-verification/",
      "pubDate": "Thu, 19 Nov 2026 14:00:02 +0000",
@@ -426,14 +442,6 @@ window.INDUSTRY_DATA = {
      "zh": "ST set to double MCU revenues"
     },
     {
-     "title": "SI expects 60-80% semi growth in 2026",
-     "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 06:14:05 +0000",
-     "summary": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "SI expects 60-80% semi growth in 2026"
-    },
-    {
      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
      "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
      "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
      "source": "EE Times",
      "zh": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design"
-    },
-    {
-     "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
-     "link": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Qnity CTO Randy King on year one as an independent company, shrink-and-stack chips and the materials challenges of advanced packaging for AI. The post Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI"
     }
    ]
   },
@@ -874,6 +874,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The Return Of Project Hail Mary … And Next Steps For Artemis, Too",
+     "link": "https://cleantechnica.com/2026/11/19/the-return-of-project-hail-mary-and-next-steps-for-artemis-too/",
+     "pubDate": "Thu, 19 Nov 2026 14:34:06 +0000",
+     "summary": "Word has just dropped that the mega-hit sci-fi film “Project Hail Mary” has returned to the big screen for the holiday season with its nail-biting tale of science, adventure and friendship. Catch a brand new Hail Mary trailer on YouTube while the action heats up here on Earth, including solicitation",
+     "source": "CleanTechnica",
+     "zh": "The Return Of Project Hail Mary … And Next Steps For Artemis, Too"
+    },
+    {
+     "title": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
+     "link": "https://oilprice.com/Geopolitics/Europe/Russia-Faces-a-Logistics-Nightmare-After-Crimea-Bridge-Collapse.html",
+     "pubDate": "Thu, 19 Nov 2026 08:30:00 -0600",
+     "summary": "It’s a $4 billion engineering showpiece, bridging 19 kilometers of Black Sea waterway and cementing Moscow’s grip on Crimea, the Ukrainian peninsula Russia occupied in 2014. Now, more than 200 meters of the Crimea Bridge lie wrecked in 9 meters of water, leaving an asphalt-and-steel debris field clu",
+     "source": "OilPrice",
+     "zh": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse"
+    },
+    {
+     "title": "Australia Explores Gas Phase-Out Deal in Talks on Reservation Scheme",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Explores-Gas-Phase-Out-Deal-in-Talks-on-Reservation-Scheme.html",
+     "pubDate": "Thu, 19 Nov 2026 08:30:00 -0600",
+     "summary": "Australia’s federal Labor government is considering a deal with the Greens to include a clause of gas phase-out in the new gas reservation scheme, amid deadlocked talks with the Liberal–National Coalition, sources familiar with the talks told Australian Financial Review on Thursday. Following the co",
+     "source": "OilPrice",
+     "zh": "Australia Explores Gas Phase-Out Deal in Talks on Reservation Scheme"
+    },
+    {
      "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
      "link": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
      "pubDate": "Thu, 19 Nov 2026 13:31:19 +0000",
@@ -1026,14 +1050,6 @@ window.INDUSTRY_DATA = {
      "zh": "EU sets three-month deadline for solar approvals, lowers benefit-sharing threshold to 7MW"
     },
     {
-     "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
-     "pubDate": "Thu, 19 Nov 2026 03:00:00 -0600",
-     "summary": "The war in the Middle East has caused global oil supply losses of a total of 2.8 billion barrels plus 60 billion cubic meters of natural gas, the International Energy Agency estimated in its latest World Energy Outlook, released today. This disruption is going to affect oil demand, the IEA predicted",
-     "source": "OilPrice",
-     "zh": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply"
-    },
-    {
      "title": "Wisconsin’s new Dem trifecta could be a boon for clean energy",
      "link": "https://www.canarymedia.com/articles/politics/wisconsin-dem-trifecta-clean-energy",
      "pubDate": "Thu, 19 Nov 2026 03:30:00 -0500",
@@ -1056,14 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "In the early 2020s, U. S. Steel launched a nationwide search to find the best location for a new factory. The company had recently completed its acquisition of the Big River Steel mill in Osceola, Arkansas. The goal of the expansion: Replicate the success of Big River Steel, which supplies the autom",
      "source": "Canary Media",
      "zh": "How solar and storage are powering a new era of American manufacturing"
-    },
-    {
-     "title": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-by-Two-Years-Amid-Energy-Supply-Fears.html",
-     "pubDate": "Thu, 19 Nov 2026 01:30:00 -0600",
-     "summary": "The European Parliament and EU member states agreed today to delay the so-called methane regulation by two years under pressure from the top oil and gas supplier, the United States, and the continued disruption of normal supply resulting from the war in the Middle East. The European Parliament cited",
-     "source": "OilPrice",
-     "zh": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears"
     },
     {
      "title": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Phoenix – Yesterday, the Arizona Corporation Commission voted to approve Salt River Project’s (SRP) proposed Marigold gas plant in Pinal County, and also approved Tucson Electric Power’s (TEP) proposed rate increase, as well as its proposed Annual Rate Adjustment Mechanism (ARAM) that would allow th",
      "source": "CleanTechnica",
      "zh": "ACC Approves Gas Plants, Rate Hike, and Allows Annual Rate Increase"
-    },
-    {
-     "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
-     "link": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/",
-     "pubDate": "Wed, 18 Nov 2026 18:09:18 +0000",
-     "summary": "Coal throughput at Rotterdam rose 15.3% in the first nine months of 2026. Crude oil and petroleum-product volumes also increased. An inland vessel operator looking only at this year’s cargo market could see decades of work ahead. But an engine, battery conversion or replacement vessel bought now may",
-     "source": "CleanTechnica",
-     "zh": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan"
     }
    ]
   },
@@ -1322,6 +1322,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+     "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+     "pubDate": "Thu, 19 Nov 2026 14:44:39 +0000",
+     "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be use",
+     "source": "NASA",
+     "zh": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions"
+    },
+    {
+     "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+     "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+     "pubDate": "Thu, 19 Nov 2026 14:31:15 +0000",
+     "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone ",
+     "source": "NASA",
+     "zh": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth"
+    },
+    {
      "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
      "link": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
      "pubDate": "Thu, 19 Nov 2026 13:58:47 +0000",
@@ -1357,7 +1373,7 @@ window.INDUSTRY_DATA = {
      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
      "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
      "pubDate": "Thu, 19 Nov 2026 05:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
+     "summary": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a p",
      "source": "NASA",
      "zh": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas"
     },
@@ -1448,22 +1464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
      "source": "NASA",
      "zh": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in"
-    },
-    {
-     "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
-     "pubDate": "Wed, 18 Nov 2026 18:12:32 +0000",
-     "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producin",
-     "source": "NASA",
-     "zh": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies"
-    },
-    {
-     "title": "Empire State Building Goes Gold for Voyager",
-     "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-     "pubDate": "Wed, 18 Nov 2026 17:50:26 +0000",
-     "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on ",
-     "source": "NASA",
-     "zh": "Empire State Building Goes Gold for Voyager"
     },
     {
      "title": "NASA’s Voyager 1 is one light-day from Earth",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX (Gerardo Fortuna/Politico)",
+     "link": "https://www.techmeme.com/261119/p32#a261119p32",
+     "pubDate": "Thu, 19 Nov 2026 09:35:01 -0500",
+     "summary": "Gerardo Fortuna / Politico : The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX &nbsp; &mdash;&nbsp; Presented by European Commission's Directorate-General for Education, Youth, Sport and Cultu",
+     "source": "Techmeme",
+     "zh": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX (Gerardo Fortuna/Politico)"
+    },
+    {
+     "title": "基金市场概况与资产配置观点（11.09—11.15）",
+     "link": "https://www.tmtpost.com/8211721.html",
+     "pubDate": "Thu, 19 Nov 2026 22:34:30 +0800",
+     "summary": "腾讯济安指数上周下跌2.71%。",
+     "source": "钛媒体",
+     "zh": "基金市场概况与资产配置观点（11.09—11.15）"
+    },
+    {
+     "title": "小马智行：Robotaxi放量，能否持续增长？",
+     "link": "https://www.huxiu.com/article/4907000.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 22:32:03 +0800",
+     "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 2022年大规模组织调整前一天，小马智行CEO彭军在一封全员邮件中写道，公司的首要目标是“活下去”。 当时，自动驾驶行业正经历资本退潮。 小马智行随后调整中美团队，技术团队转向地域化管理，并设立公司级技术指导委员会，开始直面生存、收入和组织效率。 四年后，小马智行刚交出2026年Q3财报：总营收2.99亿元，同比增长75.2%，创新高；截至9月30日，Robotaxi车队2768辆，Robotaxi收入同比增长165.4%，乘客车费收入增长近400%。盈利端仍未转正，但Non-GAAP经营亏损3.91亿元、同比收窄7.6%，Non-GAA",
+     "source": "虎嗅",
+     "zh": "小马智行：Robotaxi放量，能否持续增长？"
+    },
+    {
      "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
      "link": "https://www.tmtpost.com/8211669.html",
      "pubDate": "Thu, 19 Nov 2026 22:17:37 +0800",
@@ -1824,6 +1848,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 精练GymSquare ，作者：Jting，原文标题：《厌倦外卖的打工人， 开始预制「冷冻健康餐」》 不用每天下厨做饭，却可以天天带饭上班，越来越多打工人成为「冻门」信徒，实现了伙食自由。 所谓「冻门」，简单理解就是自制预制菜。周末花一天时间大量采购食材、简单烹饪后用饭盒分装密封，囤进冰箱冷冻室。 到周中食用时，取出一盒冷冻菜放进微波炉或空气炸锅里快速加热，便可以享用自己烹制的饭菜。 「做一次吃十顿，还不用担心个别外卖的科技与狠活，主打一个安全放心。」 图源小红书@风风火火花天酒地，已授权 「冻门永存」，让打工人走进厨房的底气之一是对冰箱功能的充分利用。 在冻门信徒眼中，",
      "source": "虎嗅",
      "zh": "厌倦外卖的打工人， 开始预制“冷冻健康餐”"
+    },
+    {
+     "title": "PHP 8.5.13",
+     "link": "https://www.php.net/ChangeLog-8.php",
+     "pubDate": "Thu, 19 Nov 2026 14:09:50 +0000",
+     "summary": "Article URL: https://www.php.net/ChangeLog-8.php Comments URL: https://news.ycombinator.com/item?id=50560334 Points: 25 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "PHP 8.5.13"
     },
     {
      "title": "尘封 21 年的宝马 E65 世代 L7 概念车重见天日：5.5 米车身，全球仅此一台",
@@ -1938,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "饱受争议的《GTA6》，预售额已超《黑猴》全部"
     },
     {
-     "title": "请不要过临时的生活",
-     "link": "https://www.huxiu.com/article/4906988.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 21:41:15 +0800",
-     "summary": "本文来自微信公众号： L先生说 ，作者：李睿秋Lachel 很多人可能都有类似的感受： 读书的时候，我们总是被教导：现在要好好学习，天天向上，等考上大学、毕业工作了就好了。 上班的时候，我们又会经常被老板画饼：现在要好好工作，咬紧牙关加班，等项目成功就好了。 久而久之，我们好像都默认了这样的生活方式。 住在租来的房子里，不愿意花心思去布置、打理、维护，也懒得去探索周围有什么好吃好玩的地方，而是想着「等将来买房了就好了」。 每天忙于工作，吃饭只能随便点点外卖应付，懒得考虑搭配和营养均衡，而是想着「等以后生活稳定了就好了」。 有很多想做的事情和想学的东西，比如去旅行，学一门乐器，钻研自己一直感兴趣",
-     "source": "虎嗅",
-     "zh": "请不要过临时的生活"
-    },
-    {
      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
      "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
      "pubDate": "Thu, 19 Nov 2026 13:40:02 +0000",
@@ -1965,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
      "link": "https://foolscap.works/",
      "pubDate": "Thu, 19 Nov 2026 13:21:20 +0000",
-     "summary": "Article URL: https://foolscap.works/ Comments URL: https://news.ycombinator.com/item?id=50559749 Points: 16 # Comments: 7",
+     "summary": "Article URL: https://foolscap.works/ Comments URL: https://news.ycombinator.com/item?id=50559749 Points: 36 # Comments: 14",
      "source": "Hacker News",
      "zh": "Show HN: Foolscap – a writing app that reads your book and never writes for you"
     },
@@ -1981,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
      "pubDate": "Thu, 19 Nov 2026 13:18:11 +0000",
-     "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 32 # Comments: 8",
+     "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 49 # Comments: 12",
      "source": "Hacker News",
      "zh": "Making 8-page foldable zines from a single A4 sheet in the browser"
     },
@@ -1992,30 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tracy Qu / Wall Street Journal : Temu owner PDD reports Q3 revenue flat YoY at ~$16.2B, below ~$17.3B est., and net profit up 0.7% to ~$4.43B, above ~$3.7B est., as Temu's user base shrinks &nbsp; &mdash;&nbsp; Citi analysts pointed to Temu's shrinking user base, with Europe leading the decline as i",
      "source": "Techmeme",
      "zh": "Temu owner PDD reports Q3 revenue flat YoY at ~$16.2B, below ~$17.3B est., and net profit up 0.7% to ~$4.43B, above ~$3.7B est., as Temu&apos;s user base shrinks (Tracy Qu/Wall Street Journal)"
-    },
-    {
-     "title": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform&apos;s AI push (Emma Roth/The Verge)",
-     "link": "https://www.techmeme.com/261119/p26#a261119p26",
-     "pubDate": "Thu, 19 Nov 2026 07:55:01 -0500",
-     "summary": "Emma Roth / The Verge : Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform's AI push &nbsp; &mdash;&nbsp; You can also select an option to see less AI-generated content in Canva's library. &hellip; Canva will ",
-     "source": "Techmeme",
-     "zh": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform&apos;s AI push (Emma Roth/The Verge)"
-    },
-    {
-     "title": "全球专利申请量创新高",
-     "link": "https://www.solidot.org/story?sid=85933",
-     "pubDate": "Thu, 19 Nov 2026 20:28:18 +0800",
-     "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权组织称，部分知识产权局报告了来自个别案例的证据，表明 AI 起草工具可能影响了 ",
-     "source": "Solidot",
-     "zh": "全球专利申请量创新高"
-    },
-    {
-     "title": "Unblockable communication with gravity – Science Advances",
-     "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-     "pubDate": "Thu, 19 Nov 2026 12:22:00 +0000",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 23 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Unblockable communication with gravity – Science Advances"
     }
    ]
   },
@@ -2025,6 +2025,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The slender Oura Ring 5 is $100 off for the first time",
+     "link": "https://www.androidauthority.com/oura-ring-5-deal-black-friday-3737242/",
+     "pubDate": "Thu, 19 Nov 2026 14:45:29 +0000",
+     "summary": "Oura's latest smart ring drops to $299 on Amazon, its lowest price yet.",
+     "source": "Android Authority",
+     "zh": "The slender Oura Ring 5 is $100 off for the first time"
+    },
+    {
+     "title": "Are the Galaxy Buds 4 Pro the best earbuds for you?",
+     "link": "https://9to5google.com/2026/11/19/are-the-galaxy-buds-4-pro-the-best-earbuds-for-you/",
+     "pubDate": "Thu, 19 Nov 2026 14:39:47 +0000",
+     "summary": "Picking the right earbuds is a tough task, but Samsung’s Galaxy Buds 4 Pro are among the best on the market, and in this guide, we’ll be looking at whether or not they’re the best earbuds for you this holiday season. more…",
+     "source": "9to5Google",
+     "zh": "Are the Galaxy Buds 4 Pro the best earbuds for you?"
+    },
+    {
+     "title": "Samsung Galaxy S26 FE 256GB hits a record low for Black Friday",
+     "link": "https://www.androidauthority.com/galaxy-s26-fe-black-friday-deal-3737241/",
+     "pubDate": "Thu, 19 Nov 2026 14:32:29 +0000",
+     "summary": "Save $200 on Samsung's newest Fan Edition phone with double the base storage.",
+     "source": "Android Authority",
+     "zh": "Samsung Galaxy S26 FE 256GB hits a record low for Black Friday"
+    },
+    {
+     "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+     "link": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
+     "pubDate": "Thu, 19 Nov 2026 14:30:00 +0000",
+     "summary": "Pebble's AI ring has a single purpose, is cheap and low-tech - but it's very useful.",
+     "source": "Engadget",
+     "zh": "Pebble Index 01 AI ring review: When a single feature becomes the product"
+    },
+    {
+     "title": "First Googlebook discount takes $300 off HP flagship for Black Friday",
+     "link": "https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/",
+     "pubDate": "Thu, 19 Nov 2026 14:30:00 +0000",
+     "summary": "The first discount on Googlebooks following the October 4 launch is here. Best Buy is taking $300 off the HP Googlebook 14 for Black Friday. more…",
+     "source": "9to5Google",
+     "zh": "First Googlebook discount takes $300 off HP flagship for Black Friday"
+    },
     {
      "title": "Best Black Friday deals now live: Google Pixel, Samsung, Amazon Echo, TVs, Anker, much more",
      "link": "https://9to5google.com/2026/11/19/best-black-friday-deals-live-google-pixel-samsung/",
@@ -2082,28 +2122,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI’s first smartphone could launch in 2027 with help from iPhone manufacturer"
     },
     {
-     "title": "Best Black Friday deals: Big discounts on phones, smartwatches, and more",
-     "link": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
-     "pubDate": "Thu, 19 Nov 2026 13:50:00 +0000",
-     "summary": "The biggest sale of the year is underway, and prices are plunging already. Here are the best tech deals you can grab now.",
-     "source": "Android Authority",
-     "zh": "Best Black Friday deals: Big discounts on phones, smartwatches, and more"
-    },
-    {
      "title": "Rockstar says that GTA 6's map has room to expand for future storylines",
      "link": "https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/",
      "pubDate": "Thu, 19 Nov 2026 13:30:02 +0000",
      "summary": "Rockstar's VP of design Stephen Donkin told 'Kotaku' that GTA VI's map 'has been built for the long term.'",
      "source": "Engadget",
      "zh": "Rockstar says that GTA 6's map has room to expand for future storylines"
-    },
-    {
-     "title": "Anker’s 50W Zolo charger drops to a record low under $16",
-     "link": "https://www.androidauthority.com/anker-zolo-50w-charger-deal-3736809/",
-     "pubDate": "Thu, 19 Nov 2026 13:20:11 +0000",
-     "summary": "Save 20% on Anker's four-port Zolo charger, now at its lowest price on Amazon.",
-     "source": "Android Authority",
-     "zh": "Anker’s 50W Zolo charger drops to a record low under $16"
     },
     {
      "title": "This portable monitor is great for DroidDeck, and now it’s down to $85",
@@ -2240,30 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Honor Watch 5 Pro never got the wide release that it deserved – oh well, all eyes are on its successor now. Initially announced at the end of September for China, this watch is launching in Europe now. The Honor Watch 6 Pro is going on pre-sale today – Honor is offering it at promotional prices ",
      "source": "GSMArena",
      "zh": "The Honor Watch 6 Pro launches in Europe with an early bird price, free strap and clip-on buds"
-    },
-    {
-     "title": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions",
-     "link": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/",
-     "pubDate": "Thu, 19 Nov 2026 08:36:56 +0000",
-     "summary": "Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.",
-     "source": "Engadget",
-     "zh": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions"
-    },
-    {
-     "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-     "link": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
-     "pubDate": "Thu, 19 Nov 2026 15:34:11 +0800",
-     "summary": "[......] 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-     "source": "少数派",
-     "zh": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制"
-    },
-    {
-     "title": "New gradient icons roll out to Google Messages & Contacts",
-     "link": "https://9to5google.com/2026/11/18/google-messages-contacts-gradient/",
-     "pubDate": "Thu, 19 Nov 2026 05:14:27 +0000",
-     "summary": "Google this week completed the rollout of its new gradient icons with updates for Messages and Contacts. more…",
-     "source": "9to5Google",
-     "zh": "New gradient icons roll out to Google Messages & Contacts"
     }
    ]
   },
@@ -2273,6 +2273,70 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+     "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
+     "summary": "A number of public pension plans already have a stake in Anthropic.",
+     "source": "MarketWatch",
+     "zh": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan."
+    },
+    {
+     "title": "Anthropic set to dethrone SpaceX in historic IPO and rewrite largest IPO list",
+     "link": "https://seekingalpha.com/news/4674738-anthropic-set-to-dethrone-spacex-in-historic-ipo-and-rewrites-largest-ipo-list?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 09:46:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic set to dethrone SpaceX in historic IPO and rewrite largest IPO list"
+    },
+    {
+     "title": "The Fed's Jefferson discusses how different shocks affect monetary policy",
+     "link": "https://seekingalpha.com/news/4674706-feds-jefferson-discusses-how-different-shocks-affect-monetary-policy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 09:44:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Fed's Jefferson discusses how different shocks affect monetary policy"
+    },
+    {
+     "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
+     "link": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 14:42:00 GMT",
+     "summary": "Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.",
+     "source": "MarketWatch",
+     "zh": "Sandisk’s stock split is almost here. This is what investors need to know."
+    },
+    {
+     "title": "Wall Street climbs as investors await Anthropic debut",
+     "link": "https://seekingalpha.com/news/4674586-us-futures-climb-as-investors-turn-attention-to-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 09:39:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wall Street climbs as investors await Anthropic debut"
+    },
+    {
+     "title": "Investors are rushing back into cybersecurity stocks after a string of outages. Here’s what to know before buying.",
+     "link": "https://www.marketwatch.com/story/investors-are-rushing-back-into-cybersecurity-stocks-after-a-string-of-outages-heres-what-to-know-before-buying-09e41107?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 14:31:00 GMT",
+     "summary": "The theme is increasingly attractive to investors, and Wall Street has taken notice .",
+     "source": "MarketWatch",
+     "zh": "Investors are rushing back into cybersecurity stocks after a string of outages. Here’s what to know before buying."
+    },
+    {
+     "title": "Ron Johnson’s Social Security gaffe buried important news",
+     "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 14:29:00 GMT",
+     "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+     "source": "MarketWatch",
+     "zh": "Ron Johnson’s Social Security gaffe buried important news"
+    },
+    {
+     "title": "BMO reaches quantum utility",
+     "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 14:27:00 GMT",
+     "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
+     "source": "Finextra",
+     "zh": "BMO reaches quantum utility"
+    },
     {
      "title": "Newegg Commerce reports Q3 results",
      "link": "https://seekingalpha.com/news/4674735-newegg-commerce-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2296,30 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Pay growth loses ground as inflation turns up the heat"
-    },
-    {
-     "title": "Stocks to watch on Thursday: WMT, AMBA, WSM & more",
-     "link": "https://seekingalpha.com/news/4674727-stocks-to-watch-on-thursday-wmt-amba-wsm-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 09:22:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stocks to watch on Thursday: WMT, AMBA, WSM & more"
-    },
-    {
-     "title": "Bitcoin, crypto get a modest boost amid Anthropic bullishness",
-     "link": "https://seekingalpha.com/news/4674681-bitcoin-crypto-get-a-modest-boost-amid-anthropic-bullishness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 09:20:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bitcoin, crypto get a modest boost amid Anthropic bullishness"
-    },
-    {
-     "title": "Russell 2000 forms death cross; stocks could see double-digit declines over the coming weeks",
-     "link": "https://seekingalpha.com/news/4674730-russell-2000-forms-death-cross-stocks-could-see-double-digit-declines-over-the-next-weeks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 09:18:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Russell 2000 forms death cross; stocks could see double-digit declines over the coming weeks"
     },
     {
      "title": "Gold&apos;s bad year is getting worse. Why its price keeps falling",
@@ -2354,12 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI"
     },
     {
-     "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-     "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 13:55:00 GMT",
-     "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
-     "source": "MarketWatch",
-     "zh": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs."
+     "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+     "pubDate": "Thu, 19 Nov 2026 14:05:23 GMT",
+     "summary": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
+     "source": "CNBC",
+     "zh": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting"
     },
     {
      "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
@@ -2384,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "The AI company needs to become a full enterprise technology platform after IPO",
      "source": "Financial Times",
      "zh": "The key to Anthropic’s value"
-    },
-    {
-     "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 13:46:00 GMT",
-     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-     "source": "MarketWatch",
-     "zh": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk."
     },
     {
      "title": "Anthropic IPO could create thousands of multimillionaire employees",
@@ -2480,38 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年11月19日， 鼎智科技 新增“ 机器人 执行器 ”概念。 入选理由：2026年11月11日投资者关系活动记录表显示，公司持有中科灵犀5%股权，目前中科灵犀已推出连杆式、绳驱式、直驱式三种技术路线的灵巧手产品，正在一些工业场景中开展试点应用。目前灵巧手整体处于百花齐放阶段，公司可为各类技术路线的客户提供相应的运动控制组件产品。灵巧手、人形关节作为人形 机器人 核心部件，出货节奏受行业整体发展节奏影响，当前 机器人 行业中，不同客户商业化进度存在分化，多种推进状态并存，现阶段该类产品订单小批量验证迭代、规模化出货并存。 公司涉及的其他概念： 先进封装 、 减速器 、 人形机器人 、 机",
      "source": "东方财富股票",
      "zh": "【概念速递】鼎智科技新增“机器人执行器”概念"
-    },
-    {
-     "title": "荣丰控股：截至11月10日最新股东户数8541户，较上期增加3.06%",
-     "link": "http://stock.eastmoney.com/news/11111,202611193935236076.html",
-     "pubDate": "Thu, 19 Nov 2026 20:51:51 +0800",
-     "summary": "荣丰控股 最新披露数据显示，截至11月10日公司股东户数为8541户，较上期(2026年10月30日) 增加254户，增幅为3.06% 。户均持有流通股数量 由上期的1.77万股下降至1.72万股， 户均持股金额 由上期的25.89万元减少至25.79万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "荣丰控股：截至11月10日最新股东户数8541户，较上期增加3.06%"
-    },
-    {
-     "title": "俄罗斯总统普京：如果一些欧洲国家的政治精英不发生更替，就不可能全面恢复关系",
-     "link": "http://hk.eastmoney.com/news/1533,202611193935236170.html",
-     "pubDate": "Thu, 19 Nov 2026 20:51:46 +0800",
-     "summary": "俄罗斯总统普京：如果一些欧洲国家的政治精英不发生更替，就不可能全面恢复关系。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯总统普京：如果一些欧洲国家的政治精英不发生更替，就不可能全面恢复关系"
-    },
-    {
-     "title": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
-     "link": "https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 12:45:00 GMT",
-     "summary": "The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.",
-     "source": "MarketWatch",
-     "zh": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays"
-    },
-    {
-     "title": "11月19日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202611193935228922.html",
-     "pubDate": "Thu, 19 Nov 2026 20:36:58 +0800",
-     "summary": "沪深两市多家上市公司11月19日晚间发布重要公告，以下为利好的消息汇总： 燧原科技：在手订单充沛 目前按计划正常开展生产经营 燧原科技(688801)11月19日发布股票交易异常波动公告称，公司股票交易连续三个交易日内收盘价格跌幅偏离值累计达到30%以上。公司注意到近期相关产业新闻引发了大量关注和讨论。公司在手订单充沛，并正在与多家国内 半导体 产业伙伴进行合作，打造基于国产供应链的云端 AI芯片 产品，构建稳定的供应链体系，支撑公司业务发展。公司目前按计划正常开展生产经营。 淮河能源 ：控股股东剩余 电力 资产将在建成且满足条件后3年内注入上市公司 淮河能源 (600575)近日接待机构调研",
-     "source": "东方财富资讯",
-     "zh": "11月19日晚间上市公司利好消息一览(附名单)"
     }
    ]
   },

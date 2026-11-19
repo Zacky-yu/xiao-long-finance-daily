@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 12:31:55",
+ "generated_at": "2026/11/19 12:51:52",
  "recent_days": 7,
  "industries": [
   {
@@ -961,14 +961,6 @@
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1023,14 +1015,6 @@
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1103,6 +1087,22 @@
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
+    },
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1769,6 +1769,54 @@
    "total": 18,
    "items": [
     {
+     "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)",
+     "link": "https://www.techmeme.com/261118/p63#a261118p63",
+     "pubDate": "Wed, 18 Nov 2026 23:45:01 -0500",
+     "summary": "Bloomberg : Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 &nbsp; &mdash;&nbsp; Chinese biotech upstart MegaRobo Technologies has raised nearly $200 million from investors including Oman's s",
+     "source": "Techmeme",
+     "zh": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)"
+    },
+    {
+     "title": "北美站新品牌备案后二审被卡，广告CPA从18美元涨到41美元还要继续投吗？",
+     "link": "https://www.baijing.cn/question/638823",
+     "pubDate": "Thu, 19 Nov 2026 04:38:15 +0000",
+     "summary": "美国站新店，品牌备案刚通过就触发二审，账户资金冻结但广告还能跑。做的是宠物饮水机配件，客单价32美元，团队3人，月广告预算1.2万美元。之前自动广告CPA稳定在18美元左右，二审通知下来后同一个campaign七天CPA涨到41美元，转化率从6.2%掉到3.1%，ACOS冲到68%。已经试过降竞价、砍掉高花费词、把预算挪到品牌词，都没压下来；也提交了营业执照和采购发票，二审还在审核中。现在纠结的是：这种账户状态下继续烧广告等于给不确定的账号喂钱，但停投又怕权重掉光。到底该按什么标准判断先停投止损还是硬扛到二审结果出来？",
+     "source": "白鲸出海",
+     "zh": "北美站新品牌备案后二审被卡，广告CPA从18美元涨到41美元还要继续投吗？"
+    },
+    {
+     "title": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？",
+     "link": "https://www.tmtpost.com/8210838.html",
+     "pubDate": "Thu, 19 Nov 2026 12:36:48 +0800",
+     "summary": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
+     "source": "钛媒体",
+     "zh": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？"
+    },
+    {
+     "title": "作为通信老司机，我来深入聊聊这次全美停飞事件",
+     "link": "https://www.huxiu.com/article/4906806.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 12:35:24 +0800",
+     "summary": "本文来自微信公众号： 鲜枣课堂 ，作者：小枣君 前几天，美国全境航班停飞的事，闹得比较大。 一次例行的通信线路升级，直接导致全美航班停了4个多小时，上万架次航班取消或延误，大批旅客滞留在机场，影响确实非常恶劣。 作为一个通信老司机，小枣君觉得，虽然这次事件已经结束了，但事件的背后，还是有很多值得复盘的地方。 除了看热闹，我们也需要认真思考，事件给整个通信行业带来哪些教训和启示。 █事件回顾 我们先简要回顾一下事件经过。 美国当地时间11月13日15点36分，全美各区域管制中心和终端雷达进近管制设施的雷达、通信数据开始出现不稳定。 15点53分，也就是17分钟后，FAA（美国联邦航空管理局）空中",
+     "source": "虎嗅",
+     "zh": "作为通信老司机，我来深入聊聊这次全美停飞事件"
+    },
+    {
+     "title": "退役飞机发动机，被马斯克“返聘”了",
+     "link": "https://www.huxiu.com/article/4906805.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 12:30:51 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 给AI数据中心供电的设备里，居然有从退役客机上拆下来的航空发动机。 经过翻新和改造，这些发动机被重新组装成燃气轮机发电设备，重新投入工作。它们曾经在万米高空为飞机提供动力，如今摇身一变，成了地面数据中心的电力希望。 马斯克的SpaceXSI（原xAI）已经安装了8台这样的发电机组。 这批设备由美国能源设备公司ProEnergy提供，使用的是通用电气为波音747等大型客机生产的航空发动机核心。美国数据中心开发商Crusoe也跟着下了订单，一次订购13台，总容量达到65万千瓦。中国烟台的杰瑞股份也参与了这门生意，和美国FTAI合作，把波音737、空客",
+     "source": "虎嗅",
+     "zh": "退役飞机发动机，被马斯克“返聘”了"
+    },
+    {
+     "title": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)",
+     "link": "https://www.techmeme.com/261118/p62#a261118p62",
+     "pubDate": "Wed, 18 Nov 2026 23:30:00 -0500",
+     "summary": "CoinDesk : Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets &nbsp; &mdash;&nbsp; Payward, the parent company of cryptocurrency exchange giant Kraken, agreed to buy Tribe Capital Management, the venture",
+     "source": "Techmeme",
+     "zh": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)"
+    },
+    {
      "title": "Arizona&apos;s AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\" (David Thomas/Reuters)",
      "link": "https://www.techmeme.com/261118/p61#a261118p61",
      "pubDate": "Wed, 18 Nov 2026 23:20:01 -0500",
@@ -1817,12 +1865,36 @@
      "zh": "6.6%的中国人BMI不超标，却已经胖得要死（真死亡风险升高）"
     },
     {
+     "title": "机械革命企业桌面 AI 主机大师之路 X10 发售，32999 元起",
+     "link": "https://www.ithome.com/1/029/262.htm",
+     "pubDate": "Thu, 19 Nov 2026 04:08:39 GMT",
+     "summary": "IT之家 11 月 19 日消息，机械革命 (Mechrevo) 现已启动企业桌面 AI 主机大师之路 X10 的销售。该型号 基于 NVIDIA（英伟达）RTX Spark 超级芯片 ，64GB + 1TB 款 32,999 元、128GB + 2TB 款 49,999 元。 大师之路 X10 三维 155×158×51 (mm)，体积 1.25L、质量 1.42kg；机身为全金属 CNC，搭配金色铝框六边形蜂窝前网；内置双涡轮风扇 + 70 鳍片散热系统， 支持 140W TDP 性能释放 。 其拥有 300GB/s 的内存带宽、1 Pflops 的 FP4 稀疏 AI 算力， 享受 AI",
+     "source": "IT之家",
+     "zh": "机械革命企业桌面 AI 主机大师之路 X10 发售，32999 元起"
+    },
+    {
+     "title": "网易《逆水寒：新世界》首个“赛事月”官宣，12 月 7 日【万仞争锋】与【寒棋杯】同步开启",
+     "link": "https://www.ithome.com/1/029/260.htm",
+     "pubDate": "Thu, 19 Nov 2026 04:08:04 GMT",
+     "summary": "IT之家 11 月 19 日消息，网易《逆水寒：新世界》官宣，逆水寒首个“赛事月”将于 4.2.2 新版本正式开启。 12 月 7 日，【万仞争锋】与【寒棋杯】同步开启 ，渠道服正式加入赛场，【万仞争锋】首度开放直邀名额。 【万仞争锋】与【寒棋杯】将正式支持 渠道服参赛 ，成为逆水寒迄今为止参赛范围最大、含金量最高的顶尖赛事。 除了规模，含金量最高还体现在赛制方面： 【万仞争锋】将首度开放直邀机制 ，帮会联赛积分榜与俱乐部积分榜共产生 16 个名额。各大帮会在联赛中流的汗、俱乐部曾经拼出来的荣耀，都能换成小组赛的门票。同时，从海选真刀真枪杀出重围的黑马，也多了一分凭本事逆天改命的机会，避免了“",
+     "source": "IT之家",
+     "zh": "网易《逆水寒：新世界》首个“赛事月”官宣，12 月 7 日【万仞争锋】与【寒棋杯】同步开启"
+    },
+    {
      "title": "梅西与C罗的商业模式为什么差距这么大？",
      "link": "https://www.huxiu.com/article/4906796.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 12:05:47 +0800",
      "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年3月，迈阿密国际老板豪尔赫·马斯接受彭博社采访时透露，俱乐部每年为梅西支付7000万至8000万美元的综合报酬。 两个月后，美国职业足球大联盟球员工会公布薪酬数据，梅西的年度保证报酬为2833万美元。马斯给出的数字还包含股权相关权益。 这样的薪酬安排，放在欧洲顶级足球俱乐部也算昂贵。但迈阿密国际已经从梅西身上获得了可观的商业回报。 2022年，球队年收入5600万美元；2025年增至约2亿美元。《福布斯》今年给出的俱乐部估值达到13.5亿美元，排名美国职业足球大联盟第一。 C罗走上了另一条道路。 《福布斯》10月公布的2026",
      "source": "虎嗅",
      "zh": "梅西与C罗的商业模式为什么差距这么大？"
+    },
+    {
+     "title": "联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏",
+     "link": "https://www.ithome.com/1/029/258.htm",
+     "pubDate": "Thu, 19 Nov 2026 04:03:56 GMT",
+     "summary": "IT之家 11 月 19 日消息，联想集团今日发布 2026 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）上半年（2026 年 4 月 1 日～2026 年 9 月 30 日）及第二财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 2026 财年上半年 营业总收入 ：571.8 亿美元，同比增长 46% 毛利润 ：92.93 亿美元，同比增长 57% 毛利率 ：16.3% 归母净利润 ：-12.48 亿美元，同比由盈转亏 经营现金流 ：19.9 亿美元，同比下降 27.95% 基本每股收益 ：-0.1021 美元 稀释每股收益 ：-0.1021",
+     "source": "IT之家",
+     "zh": "联想集团 2026 财年上半年归母亏损 12.48 亿美元，同比由盈转亏"
     },
     {
      "title": "消息称某厂新机搭载 6.89 英寸 2K 京东方新屏、评估 240Hz 超高刷，预计为一加 17",
@@ -1841,36 +1913,12 @@
      "zh": "8GB 变 80GB 显存：英伟达 CMP 170HX 矿卡被解锁，单项测试超越 A100"
     },
     {
-     "title": "美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧",
-     "link": "https://www.huxiu.com/article/4906795.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:00:52 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李丹 美联储公布的上月货币政策会议纪要释放显著鹰派信号：几乎所有与会官员都认为，美联储未来仍需进一步加息，以确保通胀及时回归目标2%；虽然10月会议以10票支持、2票反对决定维持利率不变，但支持当时就加息的官员人数可能超过投票结果显示的两人。 有“新美联储通讯社”之称的记者Nick Timiraos指出，会议纪要显示，少数支持10月按兵不动的官员也认为，10月利率决议是一次“艰难抉择”（close call）；从人数看，认为有必要加息的阵营可能比最终两票反对票体现的更庞大，因为其中可能包括没有10月会议投票权的官员。 同时，通过披露与会官员对AI投资热",
-     "source": "虎嗅",
-     "zh": "美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧"
-    },
-    {
-     "title": "而立之惑的中年城市，与我们这一代人",
-     "link": "https://www.huxiu.com/article/4906794.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:00:52 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：吕鹏 我们这一代70后、80后，是和这些城市的市场化同龄的一代人。小时候，看着城市崛起、茁壮成长；人到中年，正好陪着城市经历转型的阵痛；不敢躺平，也躺平不了，心里又实实在在地有一种惑。 2026年11月8日，大连下了一场大雪。中超最后一轮，梭鱼湾足球场坐了6万多人。大连英博——一支打上中超才两年的球队，从最多落后18分的深渊里一路追回来，把冠军留在了这座足球城。 上一次，还是整整21年前。也是在这一年，大连的经济总量突破万亿，成了东北第一座万亿城市。 一位大连朋友赛后发来他写的一段话，大意是：这个冠军不只是一支球队的胜利，更是一座城市等了21年、终于顺",
-     "source": "虎嗅",
-     "zh": "而立之惑的中年城市，与我们这一代人"
-    },
-    {
      "title": "马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量",
      "link": "https://www.ithome.com/1/029/247.htm",
      "pubDate": "Thu, 19 Nov 2026 04:00:33 GMT",
      "summary": "IT之家 11 月 19 日消息，今日，中国贸促会会长任鸿斌在深圳会见特斯拉 CEO 埃隆 · 马斯克。马斯克表示，自己是中国“超级粉丝”，每次到访都感到震撼。他还承诺特斯拉将继续在中国提高产量。 这是马斯克首次公开到访深圳，他于 11 月 18 日随美国代表团抵达，出席在深圳举行的 2026 年 APEC 领导人会议周相关活动。 马斯克在远程参与美国节目访谈时进一步阐述了对中国的印象。他表示深圳是“中国先进技术最大的中心”，并称“每当来这里，都被中国的规模和壮丽所震撼”。 公开资料显示，2026 年上半年，特斯拉上海超级工厂交付近 46.8 万辆，同比增长 28.4%，占特斯拉全球同期产量的",
      "source": "IT之家",
      "zh": "马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量"
-    },
-    {
-     "title": "泰坦军团推出 G3280W 显示器：31.5\" UHD 240Hz QD-OLED",
-     "link": "https://www.ithome.com/1/029/245.htm",
-     "pubDate": "Thu, 19 Nov 2026 03:57:24 GMT",
-     "summary": "IT之家 11 月 19 日消息，泰坦军团 (TitanArmy) 近期推出了 G3280W 显示器。 这一型号基于三星显示 Penta Tandem QD-OLED 显示面板，在 31.5\" 的屏幕尺寸上实现了 UHD 分辨率、240Hz 刷新率，表层为 防眩镜面 效果。 G3280W 满足 VESA DisplayHDR True Black 500 规范要求 ，峰值亮度 1000nits；灰阶 (GtG) 响应时间 0.03ms；色域 99% DCI-P3 / 96% Adobe RGB，色偏（平均值）ΔE＜1。 其提供 1 个 DisplayPort 2.1 (UHBR13.5)、2 ",
-     "source": "IT之家",
-     "zh": "泰坦军团推出 G3280W 显示器：31.5\" UHD 240Hz QD-OLED"
     },
     {
      "title": "Tencent’s Softer Profit Shows How AI Is Rewriting Big Tech’s Cost Structure",
@@ -1889,28 +1937,12 @@
      "zh": "Intel says it signed its first outside customer for its 18A-P chips, which went into risk production in June, a milestone in a five-year effort to take on TSMC (Katie Tarasov/CNBC)"
     },
     {
-     "title": "奇瑞星途 EX6 将于 11 月 27 日广州车展亮相：最新设计语言，搭载插混系统",
-     "link": "https://www.ithome.com/1/029/244.htm",
-     "pubDate": "Thu, 19 Nov 2026 03:53:28 GMT",
-     "summary": "IT之家 11 月 19 日消息，据易车报道，奇瑞旗下星途 EX6 将于 11 月 27 日开幕的广州车展上正式亮相。星途 EX6 采用最新设计语言，定位一款中型 SUV，动力方面搭载插电混动系统。 IT之家注意到，官方 6 月曾公布星途 EX6 的外观信息。其全车有 776 颗星钻 LED 灯语矩阵，灵感来自浩瀚星河，结合高透光学材质可呈现高级动态光影。新车还配有 6 颗星际领航小蓝灯，兼顾智能驾驶辅助安全和通勤仪式感；采用星轨尾灯设计，主打“流光星轨”美学。 车身尺寸方面，新车长宽高分别为 4830/1920/1680mm， 轴距 2800mm。 根据此前工信部的申报信息，星途 EX6 将",
-     "source": "IT之家",
-     "zh": "奇瑞星途 EX6 将于 11 月 27 日广州车展亮相：最新设计语言，搭载插混系统"
-    },
-    {
      "title": "持械入宋的商汤迷局",
      "link": "https://www.tmtpost.com/8210314.html",
      "pubDate": "Thu, 19 Nov 2026 11:50:52 +0800",
      "summary": "Seko生态到底为短剧爆款出了几分力？",
      "source": "钛媒体",
      "zh": "持械入宋的商汤迷局"
-    },
-    {
-     "title": "优步联合创始人卡兰尼克呼吁黄仁勋回归，还扬言要去英伟达总部抗议",
-     "link": "https://www.ithome.com/1/029/243.htm",
-     "pubDate": "Thu, 19 Nov 2026 03:49:57 GMT",
-     "summary": "IT之家 11 月 19 日消息，据《华尔街日报》今日报道，优步（Uber）联合创始人特拉维斯 · 卡兰尼克（Travis Kalanick）公开表示，希望英伟达联合创始人黄仁勋重新担任公司 CEO，并扬言将带领支持者前往英伟达总部抗议，甚至组织员工罢工。 卡兰尼克在美国得克萨斯州奥斯汀举行的 TomorrowX 峰会（IT之家注：当地时间 11 月 17 日至 18 日）上，与长期投资人安东尼奥 · 格拉西亚斯（Antonio Gracias）同台交流。两人均穿着黑色皮夹克，格拉西亚斯打趣称卡兰尼克的外套与黄仁勋的标志性皮夹克十分相似。 卡兰尼克随即表示，必须让黄仁勋回来。他还以开玩笑的语气",
-     "source": "IT之家",
-     "zh": "优步联合创始人卡兰尼克呼吁黄仁勋回归，还扬言要去英伟达总部抗议"
     },
     {
      "title": "墨西哥清关RFC卡了两个月，两个人手怎么排得过来？",
@@ -1937,28 +1969,12 @@
      "zh": "南非独立站物流时效被新规拖慢，该换本地仓还是改承诺时效？"
     },
     {
-     "title": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)",
-     "link": "https://www.techmeme.com/261118/p57#a261118p57",
-     "pubDate": "Wed, 18 Nov 2026 22:15:02 -0500",
-     "summary": "New York Times : How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab &nbsp; &mdash;&nbsp; Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I",
-     "source": "Techmeme",
-     "zh": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)"
-    },
-    {
      "title": "巴基斯坦COD订单签收率从78%掉到61%，是物流商换了分拨还是平台规则变了？",
      "link": "https://www.baijing.cn/question/638819",
      "pubDate": "Thu, 19 Nov 2026 03:04:46 +0000",
      "summary": "最近拉合尔和卡拉奇的COD订单签收率从78%掉到61%，退回件里有一半标注“地址无法联系”，但同一批用户在WhatsApp上明明能回消息。我们做3C配件，巴基斯坦站起量中，日均400单左右，用PostEx和TCS两家派送，上个月开始把部分单量切到本地一家小物流商压成本。已经试过在订单确认页加乌尔都语地址二次确认、派送前发短信提醒，签收率只回来3个点。现在卡在分不清是物流商末端派送能力问题，还是平台对COD订单的确认时效规则收紧导致我们发货节奏乱了。想直接问：巴基斯坦COD签收率下滑，先查物流商分拨时效还是先核对平台订单确认规则？",
      "source": "白鲸出海",
      "zh": "巴基斯坦COD订单签收率从78%掉到61%，是物流商换了分拨还是平台规则变了？"
-    },
-    {
-     "title": "Hackers compromised Microsoft&apos;s Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information (Bill Toulas/BleepingComputer)",
-     "link": "https://www.techmeme.com/261118/p56#a261118p56",
-     "pubDate": "Wed, 18 Nov 2026 21:50:01 -0500",
-     "summary": "Bill Toulas / BleepingComputer : Hackers compromised Microsoft's Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information &nbsp; &mdash;&nbsp; Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing ",
-     "source": "Techmeme",
-     "zh": "Hackers compromised Microsoft&apos;s Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information (Bill Toulas/BleepingComputer)"
     },
     {
      "title": "南亚三国素材接受度差这么多，本地化到底该按哪国做？",
@@ -1991,22 +2007,6 @@
      "summary": "周畅离职，曾妍上位：字节这场路线之争，嫡系赢了空降兵",
      "source": "钛媒体",
      "zh": "曾妍的新论文，就是字节“10万亿”路线图"
-    },
-    {
-     "title": "印度支付聚合通道月失败率12%，两个人怎么排期接入备用通道？",
-     "link": "https://www.baijing.cn/question/638817",
-     "pubDate": "Thu, 19 Nov 2026 02:05:58 +0000",
-     "summary": "印度市场刚起量，UPI 收款占比七成，但最近聚合支付的成功率从 93% 掉到 88%，Paytm 和 PhonePe 的失败回调里超时占一半。团队只有 4 个人，其中 1 个后端还要兼顾巴基斯坦和孟加拉的本地钱包对接，本月排期已经排满。已试过调大重试次数和换支付 SDK 版本，失败率只降了 1 个点。现在纠结是先接第二家聚合商做分流，还是先把回调超时链路重写。按你们经验，这种人手和排期下该先动哪一步？",
-     "source": "白鲸出海",
-     "zh": "印度支付聚合通道月失败率12%，两个人怎么排期接入备用通道？"
-    },
-    {
-     "title": "浙能迈领：一边大额分红一边拟募资引争议，第一大客户收入占比逼近70%",
-     "link": "https://www.tmtpost.com/8209770.html",
-     "pubDate": "Thu, 19 Nov 2026 09:53:12 +0800",
-     "summary": "公司持续实施大额现金分红，报告期累计分红11.53亿元，分红占净利润比例达43.66%。",
-     "source": "钛媒体",
-     "zh": "浙能迈领：一边大额分红一边拟募资引争议，第一大客户收入占比逼近70%"
     }
    ]
   },
@@ -2265,12 +2265,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Lenovo Group ADR GAAP EPS of -$0.05, revenue of $30.24B beats by $2.8B",
+     "link": "https://seekingalpha.com/news/4674497-lenovo-group-adr-gaap-eps-of--005-revenue-of-3024b-beats-by-28b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 23:43:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lenovo Group ADR GAAP EPS of -$0.05, revenue of $30.24B beats by $2.8B"
+    },
+    {
      "title": "“医药行业任正非”交班下一代",
      "link": "http://www.eeo.com.cn/2026/1119/1096907.shtml",
      "pubDate": "Thu, 19 Nov 2026 12:24:05 +0800",
      "summary": "这家由“输液大王”刘革新一手创办的四川龙头药企，在成立30周年之际进行了代际交接。",
      "source": "经济观察网",
      "zh": "“医药行业任正非”交班下一代"
+    },
+    {
+     "title": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934926738.html",
+     "pubDate": "Thu, 19 Nov 2026 12:08:30 +0800",
+     "summary": "中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出重要指示指出，党的十八大以来，我国老龄工作取得新进展新成效，养老事业和养老产业快速发展，广大老年人获得感、幸福感、安全感持续增强。 习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，深入实施积极应对人口老龄化国家战略，坚持政府、市场、社会、家庭协同发力，进一步加强老年人社会保障、养老服务、健康服务、社会参与，大力发展银发经济，营造孝老敬老良好环境，建设老年友好社会，努力让老年人的生活更加幸福美满。 全国老龄工作会议18日至19日在京召开。会上传达了习近平重要指示。中共中央政治局常委、国务院总理李强出席会议并讲话。 李强在讲",
+     "source": "东方财富资讯",
+     "zh": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满"
     },
     {
      "title": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌2%，腾讯大跌近7%",
@@ -2385,12 +2401,44 @@
      "zh": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功"
     },
     {
+     "title": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934917571.html",
+     "pubDate": "Thu, 19 Nov 2026 11:30:01 +0800",
+     "summary": "A股三大指数小幅下跌，科创50指数涨近1%。盘面上， IGBT概念 、 电子 化学品、 光刻胶 、 光刻机 、 先进封装 、 高带宽内存 走强， 厨卫电器 、 影视院线 、 快手概念 、 广告营销 、 数字媒体 、 短剧互动游戏 跌幅居前。 截至午间收盘，沪指下跌0.44%，报3571.99点；深成指下跌0.51%，报10604.52点；创业板指下跌0.63%，报2297.02点；科创50指数上涨0.98%，报1260.28点；北证50指数下跌2.29%，报812.82点。全市场上涨个股有890家，下跌个股有4592家，23只股涨停。两市半日合计成交7859亿。 今日要闻 凌晨！黄仁勋传出大消",
+     "source": "东方财富资讯",
+     "zh": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌"
+    },
+    {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 03:30:00 GMT",
      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
      "source": "MarketWatch",
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "7分钟 3股直线涨停！外围变数引爆光刻胶赛道",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934917162.html",
+     "pubDate": "Thu, 19 Nov 2026 11:27:36 +0800",
+     "summary": "国产替代逻辑强化的时候， 光刻胶 都会有异动！ 今早开盘后7分钟之内， 光刻胶 概念 格林达 、 盛剑科技 、 红宝丽 皆以直线拉升姿态封死涨停板，其中 格林达 和 红宝丽 皆在两分钟内封板。 宝丽迪 、 怡达股份 、 江化微 、 捷众科技 等大涨。 那么， 光刻胶 缘何异动？ 分析人士认为，从昨晚开始，“三星流片”一事开始在市场发酵，并迅速改变市场预期，国产替代逻辑亦因此走顺。而每当这个逻辑得到强化时，光刻胶板块都会有一定反应。 事实上，最近， 光刻机 相关板块频有行情。前天，盘面最大的热点也是 光刻机 概念，当日 国林科技 和 联合化学 20%涨停， 茂莱光学 、 海立股份 、 波长光电 ",
+     "source": "东方财富资讯",
+     "zh": "7分钟 3股直线涨停！外围变数引爆光刻胶赛道"
+    },
+    {
+     "title": "GPU赛道全线崩跌 发生了什么？",
+     "link": "http://finance.eastmoney.com/news/11822,202611193934914944.html",
+     "pubDate": "Thu, 19 Nov 2026 11:24:50 +0800",
+     "summary": "11月19日早盘， GPU概念股集体走低 ，千亿巨头们遭遇“滑铁卢”。其中，燧原科技20cm跌停， 海光信息 大跌超16%，沐曦股份跌14%，摩尔线程跌10%， 寒武纪 跌3%；港股 天数智芯 暴跌26%， 壁仞科技 跌超9%。 与此同时，主营晶圆代工的 中芯国际 、 华虹宏力 A+H股均逆势大涨。 就在上周，国产GPU还是市场最强主线，本周为何风云突变？ 综合 市场观点，导火索或来自海外新规以及一则产业传闻，国产GPU正遭遇“ 供给端 ”重新定价。 新规、断供与传闻持续发酵 首要冲击来自美国BIS的新规落地。美国商务部工业与安全局（BIS）于当地时间11月16日发布临时最终规则，拟于19日刊",
+     "source": "东方财富资讯",
+     "zh": "GPU赛道全线崩跌 发生了什么？"
+    },
+    {
+     "title": "临近午盘部分宽基ETF显著放量 科创50ETF易方达成交近40亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934914855.html",
+     "pubDate": "Thu, 19 Nov 2026 11:24:36 +0800",
+     "summary": "临近午盘，多只宽基ETF显著放量，科创50ETF易方达（588080）放量拉升翻红，成交近40亿， 中证500 ETF南方（510500）成交超30亿元，均超上一日全天成交额，沪深300ETF华泰柏瑞（510300）15分钟内成交超10亿元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "临近午盘部分宽基ETF显著放量 科创50ETF易方达成交近40亿"
     },
     {
      "title": "Woodward forecasts 6%-10% 2027 sales growth while targeting $400M-$450M free cash flow",
@@ -2401,28 +2449,12 @@
      "zh": "Woodward forecasts 6%-10% 2027 sales growth while targeting $400M-$450M free cash flow"
     },
     {
-     "title": "国家能源局主要负责同志赴甘肃省调研定点帮扶工作",
-     "link": "http://www.eeo.com.cn/2026/1119/1096781.shtml",
-     "pubDate": "Thu, 19 Nov 2026 10:58:48 +0800",
-     "summary": "王宏志一行深入通渭县平襄镇孟河村，进村入户实地调研“天光地热”零碳供能示范项目，了解当地特色产业发展、农村用能保障和清洁低碳转型等情况。",
-     "source": "经济观察网",
-     "zh": "国家能源局主要负责同志赴甘肃省调研定点帮扶工作"
-    },
-    {
      "title": "就在今晚，“最大IPO”，“最火爆游戏”一起发行！",
      "link": "https://wallstreetcn.com/articles/3786251",
      "pubDate": "Thu, 19 Nov 2026 10:57:00 +0800",
      "summary": "Anthropic以史上最大规模IPO登陆纳斯达克，GTA 6发售预购收入已超16.5亿美元，两大事件叠加， 令11月19日成为近年来资本市场与娱乐产业罕见的“超级星期四”。 周四（11月19日），AI公司Anthropic将以每股83美元的定价在纳斯达克挂牌交易，股票代码“ANT”，完全稀释后估值约1.5万亿美元，总募资规模突破1070亿美元，刷新全球IPO纪录。与此同时，Rockstar Games旗下《侠盗猎车手6》（GTA 6）于同日正式解锁，预购销售额已达16.5亿美元，Metacritic评分高达99分，分析师预计首周全球销售额最高可达50亿美元。 两大事件同日引爆，市场影响已提前",
      "source": "华尔街见闻",
      "zh": "就在今晚，“最大IPO”，“最火爆游戏”一起发行！"
-    },
-    {
-     "title": "APEC时间｜一艘大船里的经贸之变",
-     "link": "http://www.eeo.com.cn/2026/1119/1096773.shtml",
-     "pubDate": "Thu, 19 Nov 2026 10:53:41 +0800",
-     "summary": "谈及国际竞争，中国船舶工作人员表示，地缘政治冲突、贸易政策壁垒企业难以预测，“瞬息万变、只能应对”。",
-     "source": "经济观察网",
-     "zh": "APEC时间｜一艘大船里的经贸之变"
     },
     {
      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
@@ -2433,12 +2465,12 @@
      "zh": "Musk says Jensen Huang is irreplaceable, regrets midterm spending"
     },
     {
-     "title": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读",
-     "link": "http://www.eeo.com.cn/2026/1119/1096747.shtml",
-     "pubDate": "Thu, 19 Nov 2026 10:35:43 +0800",
-     "summary": "《报告》系统总结2025年以来我国虚拟电厂建设成效，梳理政策、运行、市场、技术等领域进展，明确“十五五”期间行业发展方向，对后续制度机制完善、凝聚行业共识、厘清发展路径、推动虚拟电厂规范高质量发展具有重要意义。",
-     "source": "经济观察网",
-     "zh": "虚拟电厂迈入规模化发展新阶段——《中国虚拟电厂发展报告（2026）》解读"
+     "title": "油价回落叠加票价修复 7只航空机场股明年业绩有望翻倍(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611193934900283.html",
+     "pubDate": "Thu, 19 Nov 2026 10:47:15 +0800",
+     "summary": "国际油价高位回落，国内机票价格同比修复， 航空机场 板块利好积聚。 东方财富 Choice数据显示， 7只A股 2027年 归母净利润有望翻倍增长 。 布伦特原油回落至93美元附近 财联社11月18日报道，国际油价单日重挫逾3%后小幅反弹， 布伦特原油回落至93美元附近 ，国际能源署预计四季度全球原油供应过剩170万桶/日。国内方面，11月17日燃料油 期货 跌逾6%，原油 期货 主力合约跌约6%，报581元/桶附近。 油价回落之际，航空票价也在修复。飞常准、 携程 数据显示，10月民航旅客运输量0.65亿人次，同比下降3%，环比增长2%，较2019年同期增长15%； 平均单程机票价格875元",
+     "source": "东方财富资讯",
+     "zh": "油价回落叠加票价修复 7只航空机场股明年业绩有望翻倍(名单)"
     },
     {
      "title": "Beam Global targets positive cash flow around $11.5M quarterly revenue while expanding BeamHeat push",
@@ -2447,6 +2479,14 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Beam Global targets positive cash flow around $11.5M quarterly revenue while expanding BeamHeat push"
+    },
+    {
+     "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
+     "link": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
+     "pubDate": "Thu, 19 Nov 2026 02:19:32 GMT",
+     "summary": "SpaceX CEO backs away from Maga after monetary support for Donald Trump’s party in midterm elections fails to sway voters",
+     "source": "Financial Times",
+     "zh": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans"
     },
     {
      "title": "Everpure anticipates Q4 revenue of $1.505B to $1.515B as it raises FY27 revenue outlook to $5.200B to $5.210B",
@@ -2463,46 +2503,6 @@
      "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
      "source": "Financial Times",
      "zh": "Trump, Xi and Putin to hold high-stakes trilateral summit"
-    },
-    {
-     "title": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor",
-     "link": "https://seekingalpha.com/news/4674492-cintas-chairman-met-with-trump-in-effort-to-save-5_5b-unifirst-deal-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 20:22:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor"
-    },
-    {
-     "title": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts",
-     "link": "https://seekingalpha.com/news/4674493-uti-expects-925m-945m-fiscal-2027-revenue-while-targeting-34000minus-35500-starts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 20:13:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts"
-    },
-    {
-     "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "pubDate": "Thu, 19 Nov 2026 01:13:20 GMT",
-     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
-    },
-    {
-     "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 01:02:00 GMT",
-     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-     "source": "MarketWatch",
-     "zh": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
-    },
-    {
-     "title": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks",
-     "link": "https://seekingalpha.com/news/4674491-us-oil-price-slides-as-data-shows-larger-than-expected-increases-in-crude-gasoline-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 19:47:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks"
     }
    ]
   },

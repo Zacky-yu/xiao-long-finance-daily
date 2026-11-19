@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 06:32:24",
+ "generated_at": "2026/11/20 06:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Alpitronic’s new SC plant to build 400 kW and 1 MW fast chargers",
+     "link": "https://electrek.co/2026/11/19/alpitronics-new-sc-plant-to-build-400-kw-and-1-mw-fast-chargers/",
+     "pubDate": "Thu, 19 Nov 2026 22:34:09 +0000",
+     "summary": "Alpitronic , the company behind IONNA’s fast chargers, is investing nearly $34 million in a new South Carolina factory. It’ll build 400 kW DC fast chargers, plus a 1 megawatt (MW) system that can charge cars and heavy-duty trucks. more…",
+     "source": "Electrek",
+     "zh": "Alpitronic’s new SC plant to build 400 kW and 1 MW fast chargers"
+    },
+    {
      "title": "BYD’s new Han EV spotted without camo, showing off its sleek fastback design",
      "link": "https://electrek.co/2026/11/19/byds-new-han-ev-spotted-without-camo-showing-off-fastback-design/",
      "pubDate": "Thu, 19 Nov 2026 22:21:09 +0000",
@@ -752,14 +760,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hyundai and Kia have been selling an absurd number of hybrids. Now, Genesis is finally getting in on the action.",
      "source": "InsideEVs",
      "zh": "Genesis Is Finally Getting Into The U.S. Hybrid Market"
-    },
-    {
-     "title": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap",
-     "link": "https://electrek.co/2026/11/19/vw-reveals-id-buzz-beach-ev-camper-van-not-cheap/",
-     "pubDate": "Thu, 19 Nov 2026 15:51:28 +0000",
-     "summary": "Volkswagen introduced the ID. Buzz Beach, a fun spin on its electric van that’s built for camping and overnight stays. However, it won’t be cheap, starting at over $70,000. more…",
-     "source": "Electrek",
-     "zh": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap"
     },
     {
      "title": "This Hedley Studios Porsche 550 J Is A Shrunken Electric Replica Track Toy",
@@ -965,7 +965,7 @@ window.INDUSTRY_DATA = {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
+     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1194,12 +1194,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1321,6 +1321,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
     {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1514,6 +1530,14 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1530,28 +1554,12 @@ window.INDUSTRY_DATA = {
      "zh": "How AI is pushing satellites to evolve"
     },
     {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     }
    ]
   },
@@ -1770,18 +1778,58 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Amazon takes its fight against NYC delivery bill to shoppers with in-app pop-up",
+     "title": "Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January (Axios)",
+     "link": "https://www.techmeme.com/261119/p53#a261119p53",
+     "pubDate": "Thu, 19 Nov 2026 17:45:01 -0500",
+     "summary": "Axios : Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January &nbsp; &mdash;&nbsp; White House national cyber director Sean Cairncross is leaving his post, Axios has learned. &hellip; - Cairncross'",
+     "source": "Techmeme",
+     "zh": "Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January (Axios)"
+    },
+    {
+     "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+     "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+     "pubDate": "Thu, 19 Nov 2026 22:33:26 +0000",
+     "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+     "source": "TechCrunch",
+     "zh": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you."
+    },
+    {
+     "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
+     "link": "https://www.techmeme.com/261119/p52#a261119p52",
+     "pubDate": "Thu, 19 Nov 2026 17:30:01 -0500",
+     "summary": "Mark Gurman / Bloomberg : A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users &nbsp; &mdash;&nbsp; Apple Inc. is developing its own autonomous artificial intelligence agent that can get things don",
+     "source": "Techmeme",
+     "zh": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)"
+    },
+    {
+     "title": "RegExr: Temporarily Offline",
+     "link": "https://regexr.com/",
+     "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
+     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "RegExr: Temporarily Offline"
+    },
+    {
+     "title": "Gemini 4 Neon是好车，奈何Antigravity跑不起来",
+     "link": "https://www.huxiu.com/article/4906922.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 06:26:00 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜黄天媛 编辑｜苗正卿 头图｜视觉中国 Neon来了。(虎嗅注：Neon本意是氖，元素周期表第10位，稀有气体；高电压和低压氖气发光，也就是霓虹) 北京时间凌晨谷歌发布了Gemini 4家族新成员Gemini 4 Neon，既氩、碳、氢之后的又一个&ldquo;元素&rdquo;模型&mdash;&mdash;一个兼具能力、速度与成本的性价比之作。 短短五周，谷歌接连向公众推出四款Gemini 4模型，密集上新引发了大家对AI自进化升级模型可能性的联想。以及，另一个讨论是，照这个速度下去，马上就要发到铀和钚了。 不敢想，这会是一个什么震惊瘫坐级别的模型。当然，模型还是不建",
+     "source": "虎嗅",
+     "zh": "Gemini 4 Neon是好车，奈何Antigravity跑不起来"
+    },
+    {
+     "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
      "pubDate": "Thu, 19 Nov 2026 22:16:37 +0000",
      "summary": "Amazon now uses its shopping platform for political purposes.",
      "source": "Ars Technica",
-     "zh": "Amazon takes its fight against NYC delivery bill to shoppers with in-app pop-up"
+     "zh": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
     },
     {
      "title": "Synology Security Advisory",
      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
      "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 28 # Comments: 8",
      "source": "Hacker News",
      "zh": "Synology Security Advisory"
     },
@@ -1829,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Rebuilding my local voice assistant pipeline",
      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
      "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
-     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 23 # Comments: 2",
      "source": "Hacker News",
      "zh": "Rebuilding my local voice assistant pipeline"
     },
@@ -1890,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)"
     },
     {
-     "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
-     "link": "https://www.techmeme.com/261119/p47#a261119p47",
-     "pubDate": "Thu, 19 Nov 2026 13:50:09 -0500",
-     "summary": "Sarah Perez / TechCrunch : Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users &nbsp; &mdash;&nbsp; Google on Thursday announced that it is bringing computer use to its Gemini desktop applicati",
-     "source": "Techmeme",
-     "zh": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)"
-    },
-    {
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 49 # Comments: 80",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 51 # Comments: 86",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1917,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 129 # Comments: 67",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 138 # Comments: 69",
      "source": "Hacker News",
      "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
-    },
-    {
-     "title": "Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A (Kate Park/TechCrunch)",
-     "link": "https://www.techmeme.com/261119/p46#a261119p46",
-     "pubDate": "Thu, 19 Nov 2026 13:25:02 -0500",
-     "summary": "Kate Park / TechCrunch : Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A &nbsp; &mdash;&nbsp; Everful, a San Francisco- and Singapore-based startup that connects smaller retailers and brands with Chi",
-     "source": "Techmeme",
-     "zh": "Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A (Kate Park/TechCrunch)"
     },
     {
      "title": "CTF_TYPE_1795112585_video",
@@ -1965,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
      "pubDate": "Thu, 19 Nov 2026 17:43:38 +0000",
-     "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 20 # Comments: 14",
+     "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 24 # Comments: 15",
      "source": "Hacker News",
      "zh": "AI Came for the Coders. Understanding Why Tells Us Who's Next"
     },
@@ -1978,36 +2010,12 @@ window.INDUSTRY_DATA = {
      "zh": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低"
     },
     {
-     "title": "Claude solves two open problems in the physics of black holes",
-     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-     "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 308 # Comments: 133",
-     "source": "Hacker News",
-     "zh": "Claude solves two open problems in the physics of black holes"
-    },
-    {
      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
      "source": "WIRED",
      "zh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents"
-    },
-    {
-     "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
-     "link": "https://www.solidot.org/story?sid=85937",
-     "pubDate": "Fri, 20 Nov 2026 00:34:10 +0800",
-     "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量",
-     "source": "Solidot",
-     "zh": "IEA 警告称到 2030 年数据中心碳排放量将增加七成"
-    },
-    {
-     "title": "Claude自写推理引擎，等AI回第一个字，12秒砍到半秒",
-     "link": "https://www.huxiu.com/article/4907017.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 00:25:45 +0800",
-     "summary": "本文来自微信公众号： 新智元 ，编辑：元宇，作者：ASI启示录，原文标题：《Claude自写推理引擎！等AI回第一个字，12秒砍到半秒》 你让AI帮忙修一个登录报错。 照着它的建议改完代码，你重新跑了一遍登录测试。终端又弹出一行红字，报的还是同一个错。 你把新日志贴进对话框，再按下回车，等AI告诉你下一步查哪儿。 修一个bug，往往要这样来回折腾几轮。 每次提交问题后，你要等多久，才能看到AI回的第一个字？ 最近，有人拿真实编程会话做了个测试，Claude直接把这段干等的时间从约12秒缩短到了半秒。 11月12日，卡内基梅隆大学、NVIDIA等机构的研究者提交了《奇点基准测试：智能体能构建智能",
-     "source": "虎嗅",
-     "zh": "Claude自写推理引擎，等AI回第一个字，12秒砍到半秒"
     }
    ]
   },
@@ -2017,6 +2025,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "ChatGPT Health feature now works with Mac app, Dots, more",
+     "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
+     "pubDate": "Thu, 19 Nov 2026 22:43:20 +0000",
+     "summary": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…",
+     "source": "9to5Mac",
+     "zh": "ChatGPT Health feature now works with Mac app, Dots, more"
+    },
+    {
+     "title": "Gemini could soon make it easy to find chats where you left unfinished draft text",
+     "link": "https://www.androidauthority.com/gemini-chat-drafts-3737466/",
+     "pubDate": "Thu, 19 Nov 2026 22:40:04 +0000",
+     "summary": "We could also be getting Markdown export on the mobile app.",
+     "source": "Android Authority",
+     "zh": "Gemini could soon make it easy to find chats where you left unfinished draft text"
+    },
+    {
+     "title": "Amazon Black Friday Week: best tablet deals",
+     "link": "https://www.gsmarena.com/amazon_black_friday_week_best_tablet_deals-news-75552.php",
+     "pubDate": "Thu, 19 Nov 2026 23:31:02 +0100",
+     "summary": "This year’s Black Friday deals are already underway for Amazon Prime subscribers and we’re now bringing you some hand-picked tablet deals. As usual with these offers, you’ll need an active Prime membership, and there’s limited stock. The deals will be live until November 30, aka Cyber Monday. We kic",
+     "source": "GSMArena",
+     "zh": "Amazon Black Friday Week: best tablet deals"
+    },
+    {
+     "title": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
+     "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
+     "pubDate": "Thu, 19 Nov 2026 22:25:00 +0000",
+     "summary": "The Google Search homepage is embracing Gemini in a big way, with a new sidebar redesign that puts your chat history just a click away. more…",
+     "source": "9to5Google",
+     "zh": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]"
+    },
     {
      "title": "Report: Apple job listings detail plans for autonomous AI agents",
      "link": "https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/",
@@ -2072,14 +2112,6 @@ window.INDUSTRY_DATA = {
      "summary": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…",
      "source": "9to5Google",
      "zh": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal"
-    },
-    {
-     "title": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes",
-     "link": "https://9to5mac.com/2026/11/19/daily-november-19-2026/",
-     "pubDate": "Thu, 19 Nov 2026 21:11:02 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes"
     },
     {
      "title": "Meta Quest adds 3D movie purchases and rentals to its TV app",
@@ -2194,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google launches Gemini 4 Neon, its new mid-tier AI model"
     },
     {
-     "title": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal",
-     "link": "https://9to5google.com/2026/11/19/at-600-the-pixel-10-is-this-years-no-brainer-black-friday-smartphone-deal/",
-     "pubDate": "Thu, 19 Nov 2026 19:18:00 +0000",
-     "summary": "Phones have gotten a lot more expensive over the last year or so, and it’s a trend we’re expecting to get worse before it can get better. If you’re in the market for an upgrade, this year’s Black Friday might be one of the final truly good times to buy a new device, and for just $600, last year’s Pi",
-     "source": "9to5Google",
-     "zh": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal"
-    },
-    {
      "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
      "link": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
      "pubDate": "Thu, 19 Nov 2026 19:16:42 +0000",
@@ -2234,28 +2258,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more"
     },
     {
-     "title": "Google Meet is making it easy to download a local copy of the file your host’s presenting",
-     "link": "https://www.androidauthority.com/google-meet-file-sharing-3737375/",
-     "pubDate": "Thu, 19 Nov 2026 18:16:29 +0000",
-     "summary": "Meet adds direct sharing for Docs, Sheets, and Slides in calls.",
-     "source": "Android Authority",
-     "zh": "Google Meet is making it easy to download a local copy of the file your host’s presenting"
-    },
-    {
      "title": "Nothing AI device gets teased in a new image",
      "link": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
      "pubDate": "Thu, 19 Nov 2026 18:18:02 +0100",
      "summary": "Nothing has been teasing its upcoming AI device for a while now. Today, Swedish House Mafia member Sebastian Ingrosso posted another image of the device, giving us a better look at the hardware. @nothing https://t.co/WgcWNI2dIc— Sebastian Ingrosso (@Ingrosso) November 19, 2026 In the image, the devi",
      "source": "GSMArena",
      "zh": "Nothing AI device gets teased in a new image"
-    },
-    {
-     "title": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers",
-     "link": "https://www.gsmarena.com/amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546.php",
-     "pubDate": "Thu, 19 Nov 2026 17:14:02 +0100",
-     "summary": "No, it’s not Prime Day – but Amazon UK still has an interesting Prime-only deal. The Xiaomi 18 Pro and Xiaomi 18 Pro Max started their global rollout just a couple of days ago and the retailer is already offering discounts of £100 and £150, respectively. Xiaomi 18 Pro Max and Xiaomi 18 Pro The catch",
-     "source": "GSMArena",
-     "zh": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers"
     }
    ]
   },
@@ -2266,28 +2274,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Golconda Gold reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674976-golconda-gold-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:27:55 -0500",
+     "title": "Gold extends losses below $3,700, pressured by rate-hike bets",
+     "link": "https://seekingalpha.com/news/4674964-gold-extends-losses-below-3700-pressured-by-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:45:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Golconda Gold reports Q3 results"
+     "zh": "Gold extends losses below $3,700, pressured by rate-hike bets"
     },
     {
-     "title": "Cerrado Gold reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674975-cerrado-gold-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:25:16 -0500",
+     "title": "EQ reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674984-eq-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:44:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cerrado Gold reports Q3 results"
+     "zh": "EQ reports Q3 results"
     },
     {
-     "title": "Bausch + Lomb post-surgical ocular pain asset fails phase 2 main goal",
-     "link": "https://seekingalpha.com/news/4674973-bausch-lomb-post-surgical-ocular-pain-asset-fails-phase-2-main-goal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:25:12 -0500",
+     "title": "Butterfield prices $600M notes to help fund CIBC Caribbean acquisition",
+     "link": "https://seekingalpha.com/news/4674983-butterfield-prices-600m-notes-to-help-fund-cibc-caribbean-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:42:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Bausch + Lomb post-surgical ocular pain asset fails phase 2 main goal"
+     "zh": "Butterfield prices $600M notes to help fund CIBC Caribbean acquisition"
+    },
+    {
+     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 22:41:00 GMT",
+     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+     "source": "MarketWatch",
+     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
+    },
+    {
+     "title": "Turnium Technology sets November 24 date for 1-for-10 reverse split",
+     "link": "https://seekingalpha.com/news/4674981-turnium-technology-sets-november-24-date-for-1-for-10-reverse-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:37:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Turnium Technology sets November 24 date for 1-for-10 reverse split"
+    },
+    {
+     "title": "Nike declares $0.41 dividend",
+     "link": "https://seekingalpha.com/news/4674980-nike-declares-0_41-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:35:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nike declares $0.41 dividend"
+    },
+    {
+     "title": "Starlight U.S. Residential Fund reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674978-starlight-u-s-residential-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:34:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Starlight U.S. Residential Fund reports Q3 results"
     },
     {
      "title": "Congress passes bill to protect older investors from financial fraud",
@@ -2298,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "Congress passes bill to protect older investors from financial fraud"
     },
     {
-     "title": "Co-Diagnostics sets 1-for-25 reverse stock split for Nov. 24",
-     "link": "https://seekingalpha.com/news/4674972-co-diagnostics-sets-1-forminus-25-reverse-stock-split-for-nov-24?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:20:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Co-Diagnostics sets 1-for-25 reverse stock split for Nov. 24"
-    },
-    {
      "title": "美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能",
      "link": "https://wallstreetcn.com/articles/3786318",
      "pubDate": "Fri, 20 Nov 2026 06:19:07 +0800",
@@ -2314,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能"
     },
     {
-     "title": "Ellington Credit Company reports Q2 results",
-     "link": "https://seekingalpha.com/news/4674974-ellington-credit-company-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:18:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ellington Credit Company reports Q2 results"
-    },
-    {
      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 22:15:00 GMT",
      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "Tenet Fintech Group reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674971-tenet-fintech-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:12:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tenet Fintech Group reports Q3 results"
     },
     {
      "title": "Meta拟推出AI设备Muse Charm，售价300美元，智能手表推迟至2027年",
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果正研发自有AI智能体，以与OpenAI和Anthropic展开竞争"
     },
     {
-     "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-     "link": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
-     "pubDate": "Thu, 19 Nov 2026 21:40:31 GMT",
-     "summary": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
-     "source": "CNBC",
-     "zh": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion"
-    },
-    {
      "title": "国际金银持续走低 现货黄金失守3630美元",
      "link": "http://hk.eastmoney.com/news/11487,202611203935459019.html",
      "pubDate": "Fri, 20 Nov 2026 05:40:22 +0800",
@@ -2482,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元"
     },
     {
-     "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-     "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 21:22:00 GMT",
-     "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
-     "source": "MarketWatch",
-     "zh": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud"
-    },
-    {
      "title": "AMD dives on short-seller report of alleged China exposure",
      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
      "pubDate": "Thu, 19 Nov 2026 21:14:46 GMT",
@@ -2504,6 +2504,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
      "source": "Financial Times",
      "zh": "Anthropic shares jump 17% after record Wall Street listing"
+    },
+    {
+     "title": "美股三大股指集体收跌 跌幅均超2% 英伟达跌超3%",
+     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
+     "pubDate": "Fri, 20 Nov 2026 05:00:32 +0800",
+     "summary": "美东时间周四，美股三大股指集体收跌。截止收盘，道琼斯指数跌2.19%，标普500指数跌2.02%， 纳斯达克 综合 指数跌2.25%。 Anthropic 纳斯达克 首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。 芯片股高开低走， 英伟达 跌超3%，连续第六天下跌， 美光科技 、 博通 跌超2%。其他权重科技股也多数下挫， 亚马逊 跌近4%，Meta、 SpaceX 跌超3%，谷歌跌近3%； 英特尔 涨近2%。 AMD重挫近8%，做空机构Hunterbrook警告称其采用了与 英伟达 类似的“循环交易”。 纳斯达克 中国金龙指数收跌1.86%，热门中概股多数下跌，",
+     "source": "东方财富资讯",
+     "zh": "美股三大股指集体收跌 跌幅均超2% 英伟达跌超3%"
     }
    ]
   },

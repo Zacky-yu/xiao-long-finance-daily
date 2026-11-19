@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 00:52:08",
+ "generated_at": "2026/11/20 01:12:11",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+     "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+     "source": "TechCrunch AI",
+     "zh": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories"
+    },
+    {
+     "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+     "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+     "pubDate": "Thu, 19 Nov 2026 16:59:23 +0000",
+     "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price"
+    },
     {
      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "SimpleX 开放Tetra-1 Preview 试用，迈向微观世界的生物推理。",
      "source": "机器之心",
      "zh": "语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus"
-    },
-    {
-     "title": "Anthropic IPO定价83美元/股，投资者疯抢",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=2&sn=8da8a7badbf656bb807e1e4aa135ae98",
-     "pubDate": "Thu, 19 Nov 2026 12:09:00 +0800",
-     "summary": "冲刺史上最大IPO",
-     "source": "机器之心",
-     "zh": "Anthropic IPO定价83美元/股，投资者疯抢"
-    },
-    {
-     "title": "写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=3&sn=3638e59c38cbc04d5ff6d800abd49c51",
-     "pubDate": "Thu, 19 Nov 2026 12:09:00 +0800",
-     "summary": "NVIDIA 拆解混合模型的\"读写不对称性\"。",
-     "source": "机器之心",
-     "zh": "写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "How Energy Security Is Reshaping Global Investment Decisions",
+     "link": "https://oilprice.com/Energy/Energy-General/How-Energy-Security-Is-Reshaping-Global-Investment-Decisions.html",
+     "pubDate": "Thu, 19 Nov 2026 11:00:00 -0600",
+     "summary": "Energy security has traditionally been viewed as a policy issue, but we're seeing a fundamental shift. It's increasingly becoming a capital allocation decision, with significant implications for the banks, investors, and companies financing the energy sector. Over the past five years, global energy ",
+     "source": "OilPrice",
+     "zh": "How Energy Security Is Reshaping Global Investment Decisions"
+    },
+    {
      "title": "Korean and French firms to pursue solar tech for space-based AI data centres",
      "link": "https://www.pv-tech.org/flexell-alatyr-solar-tech-space-based-ai-data-centres/",
      "pubDate": "Thu, 19 Nov 2026 16:38:11 +0000",
@@ -960,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "The result was certified by the National PV Industry Measurement and Testing Center (NPVM) of China’s Fujian Metrology Institute. The post MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module"
-    },
-    {
-     "title": "Traders Seek Long-Term Crude Supply Deals with Qatar",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Traders-Seek-Long-Term-Crude-Supply-Deals-with-Qatar.html",
-     "pubDate": "Thu, 19 Nov 2026 07:30:00 -0600",
-     "summary": "The biggest international oil trading houses are in talks with state-owned QatarEnergy to receive supply of Qatari crude oil for 2027 amid recovering flows through the Strait of Hormuz and traders’ experience of shuttling crude through the chokepoint in wartime conditions. Some of the largest commod",
-     "source": "OilPrice",
-     "zh": "Traders Seek Long-Term Crude Supply Deals with Qatar"
     },
     {
      "title": "Solar PV to lead global electricity generation ‘across all scenarios’ by mid-2030s, says IEA",
@@ -1122,6 +1122,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
+     "link": "https://endpoints.news/lilly-starts-work-on-pennsylvania-obesity-plant-itm-atomvie-strike-supply-deal/",
+     "pubDate": "Thu, 19 Nov 2026 17:07:27 +0000",
+     "summary": "Lilly breaks ground in Pennsylvania: Eli Lilly has started construction on its $3.5 billion factory in Lehigh Valley, PA, which will manufacture obesity drugs including Lilly’s retatrutide. The site is expected ...",
+     "source": "Endpoints News",
+     "zh": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal"
+    },
+    {
+     "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+     "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
+     "pubDate": "Thu, 19 Nov 2026 17:04:46 +0000",
+     "summary": "Lawmakers leading the congressional BIOTech Caucus say Washington needs to act in the sector — and fast:",
+     "source": "STAT News",
+     "zh": "STAT+: Lawmakers want U.S. biotech to outcompete China"
+    },
+    {
+     "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+     "link": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+     "pubDate": "Thu, 19 Nov 2026 16:59:47 +0000",
+     "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
+     "source": "STAT News",
+     "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
+    },
+    {
      "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
@@ -1202,36 +1226,12 @@ window.INDUSTRY_DATA = {
      "zh": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis"
     },
     {
-     "title": "Lilly adds General Medicine for Alzheimer's disease diagnosis",
-     "link": "https://endpoints.news/lillydirect-adds-general-medicine-for-alzheimers-disease-diagnosis/",
-     "pubDate": "Thu, 19 Nov 2026 14:00:25 +0000",
-     "summary": "Eli Lilly is experimenting with a quicker way to get diagnoses and care for people with Alzheimer's disease. People experiencing memory loss or other signs of Alzheimer's can now see a virtual clinician through health ...",
-     "source": "Endpoints News",
-     "zh": "Lilly adds General Medicine for Alzheimer's disease diagnosis"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
      "pubDate": "Thu, 19 Nov 2026 13:36:33 +0000",
      "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
      "source": "STAT News",
      "zh": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more"
-    },
-    {
-     "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-     "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:59:54 +0000",
-     "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-     "source": "STAT News",
-     "zh": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress"
-    },
-    {
-     "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
-     "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
-     "pubDate": "Thu, 19 Nov 2026 11:45:00 +0000",
-     "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
-     "source": "STAT News",
-     "zh": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates"
     },
     {
      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
@@ -1321,6 +1321,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Don't miss Saturn shine close to the moon on Nov. 20",
+     "link": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
+     "source": "Space.com",
+     "zh": "Don't miss Saturn shine close to the moon on Nov. 20"
+    },
     {
      "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
      "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
@@ -1432,14 +1440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
      "source": "NASA",
      "zh": "El Niño Rains Paint the Atacama"
-    },
-    {
-     "title": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both",
-     "link": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
-     "pubDate": "Thu, 19 Nov 2026 00:00:00 +0000",
-     "summary": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
-     "source": "Space.com",
-     "zh": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both"
     },
     {
      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
@@ -1778,6 +1778,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
+     "link": "https://www.techmeme.com/261119/p41#a261119p41",
+     "pubDate": "Thu, 19 Nov 2026 12:05:16 -0500",
+     "summary": "John Reynolds / Tech.eu : London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 &nbsp; &mdash;&nbsp; Boltz was spun out of MIT but is now located in London.&nbsp; &mdash;&nbsp; London-based AI drug dis",
+     "source": "Techmeme",
+     "zh": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)"
+    },
+    {
+     "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+     "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
+     "source": "WIRED",
+     "zh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents"
+    },
+    {
+     "title": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)",
+     "link": "https://www.techmeme.com/261119/p40#a261119p40",
+     "pubDate": "Thu, 19 Nov 2026 11:56:35 -0500",
+     "summary": "Reuters : Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &nbsp; &mdash;&nbsp; Anthropic's (ANT.O) market value hit $2 trillion in its Nasdaq debut on Thursday, soaring past SpaceX's (SPCX.O) massi",
+     "source": "Techmeme",
+     "zh": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)"
+    },
+    {
+     "title": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+     "link": "https://www.techmeme.com/261119/p39#a261119p39",
+     "pubDate": "Thu, 19 Nov 2026 11:52:44 -0500",
+     "summary": "CNBC : Anthropic opens at $111.50 per share in record IPO: Live updates &hellip; Anthropic opened at $111.50 per share in the artificial intelligence lab's Nasdaq debut on Thursday after the company completed the biggest initial public offering on record.&nbsp; &mdash;&nbsp; The stock will trade und",
+     "source": "Techmeme",
+     "zh": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)"
+    },
+    {
      "title": "AMD&apos;s shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in \"circular deals\" and \"has made way more promises\" than Nvidia (Lynn Doan/Bloomberg)",
      "link": "https://www.techmeme.com/261119/p38#a261119p38",
      "pubDate": "Thu, 19 Nov 2026 11:40:00 -0500",
@@ -1802,10 +1834,18 @@ window.INDUSTRY_DATA = {
      "zh": "Claude自写推理引擎，等AI回第一个字，12秒砍到半秒"
     },
     {
+     "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+     "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+     "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
+     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 33 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order"
+    },
+    {
      "title": "Google Chrome dev team declares bug report bankruptcy",
      "link": "https://blog.plover.com/tech/bug-reports.html",
      "pubDate": "Thu, 19 Nov 2026 16:20:12 +0000",
-     "summary": "Article URL: https://blog.plover.com/tech/bug-reports.html Comments URL: https://news.ycombinator.com/item?id=50562101 Points: 19 # Comments: 5",
+     "summary": "Article URL: https://blog.plover.com/tech/bug-reports.html Comments URL: https://news.ycombinator.com/item?id=50562101 Points: 58 # Comments: 11",
      "source": "Hacker News",
      "zh": "Google Chrome dev team declares bug report bankruptcy"
     },
@@ -1885,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
      "link": "https://cornholenews.news",
      "pubDate": "Thu, 19 Nov 2026 15:38:32 +0000",
-     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 20 # Comments: 17",
+     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 31 # Comments: 25",
      "source": "Hacker News",
      "zh": "I built Cornhole News. A Hacker News inspired site for news across the Midwest"
     },
@@ -1893,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
      "link": "https://thedataexchange.media/pete-warden-moonshine/",
      "pubDate": "Thu, 19 Nov 2026 15:38:12 +0000",
-     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 42 # Comments: 24",
+     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 78 # Comments: 53",
      "source": "Hacker News",
      "zh": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)"
     },
@@ -1930,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字"
     },
     {
-     "title": "Seattle-based StepSecurity, which offers a software supply chain security platform, raised a $20M Series A led by Elephant, bringing its total funding to $23M (Chris Metinko/Axios)",
-     "link": "https://www.techmeme.com/261119/p35#a261119p35",
-     "pubDate": "Thu, 19 Nov 2026 10:20:00 -0500",
-     "summary": "Chris Metinko / Axios : Seattle-based StepSecurity, which offers a software supply chain security platform, raised a $20M Series A led by Elephant, bringing its total funding to $23M &nbsp; &mdash;&nbsp; Cybersecurity startup StepSecurity raised a $20 million Series A led by Elephant, co-founders Va",
-     "source": "Techmeme",
-     "zh": "Seattle-based StepSecurity, which offers a software supply chain security platform, raised a $20M Series A led by Elephant, bringing its total funding to $23M (Chris Metinko/Axios)"
-    },
-    {
      "title": "小米米家扫振电动牙刷 2 Pro 开售：动态彩屏交互、190 天长续航，199.75 元",
      "link": "https://www.ithome.com/1/029/706.htm",
      "pubDate": "Thu, 19 Nov 2026 15:19:09 GMT",
@@ -1962,36 +1994,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔"
     },
     {
-     "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-     "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-     "pubDate": "Thu, 19 Nov 2026 15:13:23 +0000",
-     "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/ Comments URL: https://news.ycombinator.com/item?id=50561170 Points: 18 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence"
-    },
-    {
      "title": "《GTA 6》藏有两个“简单模式”开关：降低敌人血量、减少车辆受损",
      "link": "https://www.ithome.com/1/029/704.htm",
      "pubDate": "Thu, 19 Nov 2026 15:11:10 GMT",
      "summary": "IT之家 11 月 19 日消息，此前有消息称，《GTA 6》在玩家通关主线剧情之前无法使用作弊码。不仅如此，启用作弊码还会锁定剧情进度，并关闭游戏存档功能。这意味着，玩家只能通过作弊码短暂体验一番疯狂犯罪的乐趣，随后就必须回归正常游戏流程。这一改动让部分玩家颇有微词。 不过，对于希望降低游戏难度、又不想偏离开发团队原本设计体验的玩家来说，还有一个好消息：《GTA 6》实际上提供了两个设置，可以让游戏变得更加容易。 据IT之家了解，玩家只需打开游戏设置菜单，进入“Gameplay”（游戏玩法）选项，就能找到“Accessible Combat”（无障碍战斗）和“Reduced Vehicle ",
      "source": "IT之家",
      "zh": "《GTA 6》藏有两个“简单模式”开关：降低敌人血量、减少车辆受损"
-    },
-    {
-     "title": "Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk&apos;s top X news sources and raise tech funding (James Jackson/Wired)",
-     "link": "https://www.techmeme.com/261119/p34#a261119p34",
-     "pubDate": "Thu, 19 Nov 2026 10:00:38 -0500",
-     "summary": "James Jackson / Wired : Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk's top X news sources and raise tech funding &nbsp; &mdash;&nbsp; Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation th",
-     "source": "Techmeme",
-     "zh": "Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk&apos;s top X news sources and raise tech funding (James Jackson/Wired)"
-    },
-    {
-     "title": "Sources: Anthropic&apos;s IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders (Bloomberg)",
-     "link": "https://www.techmeme.com/261119/p33#a261119p33",
-     "pubDate": "Thu, 19 Nov 2026 09:50:03 -0500",
-     "summary": "Bloomberg : Sources: Anthropic's IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders &nbsp; &mdash;&nbsp; Anthropic PBC's initial public offering left more than half of the institutional investors bidding for stock ",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic&apos;s IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders (Bloomberg)"
     },
     {
      "title": "基金市场概况与资产配置观点（11.09—11.15）",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角，因此卫星集中在中纬度地区上空。赤道附近的夜空较为干净，平均有 490 颗。不是所有卫星都能被肉眼看见，人造卫星只有在被太阳照亮同时地面处黑暗中时才会被看见。根",
      "source": "Solidot",
      "zh": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量"
-    },
-    {
-     "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
-     "link": "https://www.tmtpost.com/8211669.html",
-     "pubDate": "Thu, 19 Nov 2026 22:17:37 +0800",
-     "summary": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。",
-     "source": "钛媒体",
-     "zh": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？"
     }
    ]
   },
@@ -2025,6 +2025,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Halide camera app just got even better for iPhone Duo",
+     "link": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use the outer screen on iPhone Duo as a live preview or a fill flash. It brings back a few camera tools",
+     "source": "9to5Mac",
+     "zh": "Halide camera app just got even better for iPhone Duo"
+    },
+    {
+     "title": "Roborock’s Black Friday deals save over $1650 on select robot vacuums",
+     "link": "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "Roborock has launched its Black Friday 2026 deals with some killer discounts including up to half off select models, and over $1650 off its flagship offering. more…",
+     "source": "9to5Google",
+     "zh": "Roborock’s Black Friday deals save over $1650 on select robot vacuums"
+    },
+    {
+     "title": "Change these Xbox Series X/S settings before playing GTA 6",
+     "link": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6/",
+     "pubDate": "Thu, 19 Nov 2026 16:55:20 +0000",
+     "summary": "For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.",
+     "source": "Engadget",
+     "zh": "Change these Xbox Series X/S settings before playing GTA 6"
+    },
     {
      "title": "Motorola’s iPhone Duo competitor, Razr Flex, leaks in detailed images [Gallery]",
      "link": "https://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
@@ -2178,22 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "Black Friday streaming deals start going live: Paramount+ for $2.99, Apple TV+ for $6.99, more"
     },
     {
-     "title": "UK court rules Apple can share the top secret order everyone already knew",
-     "link": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
-     "pubDate": "Thu, 19 Nov 2026 15:01:45 +0000",
-     "summary": "The Investigatory Powers Tribunal – essentially a British court that deals with complaints about state surveillance – has ruled that Apple is allowed to reveal a secret order it received from the UK government. Apple had already found a clever way to alert British customers to the classified order w",
-     "source": "9to5Mac",
-     "zh": "UK court rules Apple can share the top secret order everyone already knew"
-    },
-    {
-     "title": "Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more",
-     "link": "https://9to5google.com/2026/11/19/google-store-black-friday-2026-start/",
-     "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
-     "summary": "Black Friday 2026 deals on Pixel devices are now live on the US Google Store. The phone deals are available until December 5 at 11:59 p.m. PT, while watch discounts end December 1. more…",
-     "source": "9to5Google",
-     "zh": "Google Store Black Friday 2026: Refurb Pixel discounts, Fitbit Edge trade-in, more"
-    },
-    {
      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
      "link": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
      "pubDate": "Thu, 19 Nov 2026 14:30:00 +0000",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.",
      "source": "Engadget",
      "zh": "DOJ accuses Russian national of spying on and harassing Palantir employees"
-    },
-    {
-     "title": "给 Apple 的 2026 年打分，请你一起参与",
-     "link": "https://sspai.com/post/119191",
-     "pubDate": "Thu, 19 Nov 2026 18:25:05 +0800",
-     "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
-     "source": "少数派",
-     "zh": "给 Apple 的 2026 年打分，请你一起参与"
     }
    ]
   },
@@ -2274,52 +2274,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "F-35C tests advance integration with Navy’s new carrier class",
-     "link": "https://seekingalpha.com/news/4674799-fminus-35c-tests-advance-integration-with-navy-s-new-carrier-class?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:44:56 -0500",
+     "title": "U.S. equities trade lower on Anthropic's debut",
+     "link": "https://seekingalpha.com/news/4674768-us-equities-trade-mixed-ahead-of-anthropic-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:01:47 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "F-35C tests advance integration with Navy’s new carrier class"
+     "zh": "U.S. equities trade lower on Anthropic's debut"
     },
     {
-     "title": "Chip stocks pare gains as initial enthusiasm over Anthropic fades",
-     "link": "https://seekingalpha.com/news/4674787-chip-stocks-pare-gains-as-initial-enthusiasm-over-anthropic-fades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:43:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chip stocks pare gains as initial enthusiasm over Anthropic fades"
+     "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+     "pubDate": "Thu, 19 Nov 2026 17:01:41 GMT",
+     "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
+     "source": "CNBC",
+     "zh": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks"
     },
     {
-     "title": "Institutional holdings of Bitcoin exchange-traded products reach all-time high",
-     "link": "https://seekingalpha.com/news/4674797-institutional-holdings-of-bitcoin-exchange-traded-products-reach-all-time-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:34:25 -0500",
+     "title": "Palantir workers target of Russian spy; DOJ indicts suspect",
+     "link": "https://seekingalpha.com/news/4674794-palantir-workers-target-of-russian-spy-doj-indicts-suspect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:00:56 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Institutional holdings of Bitcoin exchange-traded products reach all-time high"
+     "zh": "Palantir workers target of Russian spy; DOJ indicts suspect"
     },
     {
-     "title": "UGI targets Global LPG separation in 2H 2027 as New UGI outlines 6%-8% EPS growth and $5B+ investment plan",
-     "link": "https://seekingalpha.com/news/4674798-ugi-targets-global-lpg-separation-in-2h-2027-as-new-ugi-outlines-6-percentminus-8-percent-eps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:33:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UGI targets Global LPG separation in 2H 2027 as New UGI outlines 6%-8% EPS growth and $5B+ investment plan"
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
-     "title": "Mixed activity by hedge funds on SpaceX in Q3",
-     "link": "https://seekingalpha.com/news/4674352-mixed-activity-by-hedge-funds-on-spacex-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:30:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mixed activity by hedge funds on SpaceX in Q3"
+     "title": "AMD falls on short-seller report of alleged China exposure",
+     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "pubDate": "Thu, 19 Nov 2026 16:53:47 GMT",
+     "summary": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company",
+     "source": "CNBC",
+     "zh": "AMD falls on short-seller report of alleged China exposure"
     },
     {
-     "title": "Aptera finishes its first solar electric vehicle for a customer",
-     "link": "https://seekingalpha.com/news/4674712-aptera-finishes-its-first-solar-electric-vehicle-for-a-customer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:28:43 -0500",
+     "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+     "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 16:53:00 GMT",
+     "summary": "A number of public pension plans already have a stake in Anthropic.",
+     "source": "MarketWatch",
+     "zh": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan."
+    },
+    {
+     "title": "Ivanhoe Electric strikes high-grade copper at Arizona project",
+     "link": "https://seekingalpha.com/news/4674795-ivanhoe-electric-strikes-high-grade-copper-in-arizona?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 11:52:41 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Aptera finishes its first solar electric vehicle for a customer"
+     "zh": "Ivanhoe Electric strikes high-grade copper at Arizona project"
+    },
+    {
+     "title": "Household misery remains elevated despite strong consumers, says Wells Fargo",
+     "link": "https://seekingalpha.com/news/4674802-household-misery-remains-elevated-despite-strong-consumers-says-wells-fargo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 11:52:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Household misery remains elevated despite strong consumers, says Wells Fargo"
+    },
+    {
+     "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+     "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 16:52:00 GMT",
+     "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+     "source": "MarketWatch",
+     "zh": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs."
+    },
+    {
+     "title": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50",
+     "link": "https://seekingalpha.com/news/4674744-anthropic-ascends-into-history-with-ipo-shares-hit-nasdaq-at-11150?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 11:51:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50"
+    },
+    {
+     "title": "Volkswagen seeks two-year pay freeze as union showdown looms",
+     "link": "https://seekingalpha.com/news/4674791-volkswagen-seeks-two-year-pay-freeze-as-union-showdown-looms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 11:51:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Volkswagen seeks two-year pay freeze as union showdown looms"
+    },
+    {
+     "title": "Anthropic’s IPO poses this big risk to an already shaky stock market",
+     "link": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 16:49:00 GMT",
+     "summary": "Investors are worried that a flood of equity issuance could overwhelm demand.",
+     "source": "MarketWatch",
+     "zh": "Anthropic’s IPO poses this big risk to an already shaky stock market"
     },
     {
      "title": "Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models",
@@ -2346,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "普京：感谢中方和习主席组织今天的俄中美元首会晤"
     },
     {
-     "title": "AMD falls on short-seller report of alleged China exposure",
-     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "pubDate": "Thu, 19 Nov 2026 16:24:53 GMT",
-     "summary": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company",
-     "source": "CNBC",
-     "zh": "AMD falls on short-seller report of alleged China exposure"
-    },
-    {
      "title": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
      "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 16:21:00 GMT",
@@ -2362,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge."
     },
     {
-     "title": "Anthropic shares indicated to open 33% higher at $110",
+     "title": "Anthropic pops 34% in Wall Street debut",
      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
      "pubDate": "Thu, 19 Nov 2026 16:19:06 GMT",
-     "summary": "AI giant to begin trading after raising $81bn in record IPO",
+     "summary": "AI giant begins trading after raising $81bn in record IPO",
      "source": "Financial Times",
-     "zh": "Anthropic shares indicated to open 33% higher at $110"
+     "zh": "Anthropic pops 34% in Wall Street debut"
     },
     {
      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
@@ -2376,22 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
      "source": "CNBC",
      "zh": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City"
-    },
-    {
-     "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 16:15:00 GMT",
-     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-     "source": "MarketWatch",
-     "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 16:14:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
     },
     {
      "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
@@ -2410,84 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp"
     },
     {
-     "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-     "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 15:57:00 GMT",
-     "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-     "source": "MarketWatch",
-     "zh": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies"
-    },
-    {
      "title": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！",
      "link": "https://wallstreetcn.com/articles/3786306",
      "pubDate": "Thu, 19 Nov 2026 23:56:18 +0800",
      "summary": "SpaceX的星舰正在重塑卫星互联网的商业模式：通过大幅提升卫星部署效率、压低单位发射成本，将火箭运载能力转化为Starlink更快的收入增长和资本回报。 摩根士丹利最新报告指出， 单次星舰满载发射可为Starlink带来约4亿美元年化收入，收入回收期约13周，EBIT回收期约19周，盈利效率甚至超过新兴云计算（neocloud）业务。 这一测算基于每枚星舰搭载50颗Starlink V3卫星、每颗卫星贡献约800万美元年化增量收入。按照2030年单次发射约1亿美元的可变成本计算，其中包括6000万美元发射成本和4000万美元载荷成本，星舰的投入回收速度相当可观。 星舰带来的盈利潜力也推动了分",
      "source": "华尔街见闻",
      "zh": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！"
-    },
-    {
-     "title": "Anthropic IPO could create thousands of multimillionaire employees",
-     "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-     "pubDate": "Thu, 19 Nov 2026 15:51:53 GMT",
-     "summary": "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO could create thousands of multimillionaire employees"
-    },
-    {
-     "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
-     "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 15:51:00 GMT",
-     "summary": "Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.",
-     "source": "MarketWatch",
-     "zh": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?"
-    },
-    {
-     "title": "惠誉：拟议改革未获实施不会导致西班牙评级下调",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413869.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:51 +0800",
-     "summary": "惠誉：拟议改革未获实施不会导致西班牙评级下调。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：拟议改革未获实施不会导致西班牙评级下调"
-    },
-    {
-     "title": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413759.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
-     "summary": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%"
-    },
-    {
-     "title": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413649.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
-     "summary": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发"
-    },
-    {
-     "title": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413572.html",
-     "pubDate": "Thu, 19 Nov 2026 23:45:43 +0800",
-     "summary": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号"
-    },
-    {
-     "title": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413446.html",
-     "pubDate": "Thu, 19 Nov 2026 23:45:05 +0800",
-     "summary": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求"
-    },
-    {
-     "title": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413195.html",
-     "pubDate": "Thu, 19 Nov 2026 23:43:54 +0800",
-     "summary": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进"
     },
     {
      "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
@@ -2512,6 +2464,54 @@ window.INDUSTRY_DATA = {
      "summary": "Around 110,000 UK retailers bought shares in Anthropic's record initial public offering, which saw the AI giant raise over $81 billion.",
      "source": "Finextra",
      "zh": "100,000+ UK retail investors score Anthropic shares"
+    },
+    {
+     "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+     "link": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
+     "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
+     "source": "Finextra",
+     "zh": "With attacks on the rise, UK regulators clarify cyber expectations"
+    },
+    {
+     "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+     "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+     "pubDate": "Thu, 19 Nov 2026 09:39:02 -0500",
+     "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
+     "source": "SEC",
+     "zh": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors"
+    },
+    {
+     "title": "BMO reaches quantum utility",
+     "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 14:27:00 GMT",
+     "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
+     "source": "Finextra",
+     "zh": "BMO reaches quantum utility"
+    },
+    {
+     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+     "pubDate": "Thu, 19 Nov 2026 14:15:18 GMT",
+     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+     "source": "CNBC",
+     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
+    },
+    {
+     "title": "时装厂来了机器人裁缝",
+     "link": "http://www.eeo.com.cn/2026/1119/1097586.shtml",
+     "pubDate": "Thu, 19 Nov 2026 22:14:00 +0800",
+     "summary": "在服装加工场景中研发可以干活的机器人并不容易。张瀚文表示，第一个难点是服装面料、款式、工艺多变，尤其是太平鸟所身处的时装领域，上述变化更加复杂；第二个难点是面料属于柔性材料，抓取难度远高于刚性材料。",
+     "source": "经济观察网",
+     "zh": "时装厂来了机器人裁缝"
+    },
+    {
+     "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
+     "link": "https://wallstreetcn.com/articles/3786303",
+     "pubDate": "Thu, 19 Nov 2026 21:52:34 +0800",
+     "summary": "对冲基金对科技股的极端低配，正在为市场反弹埋下伏笔，而Anthropic创纪录IPO的落地，可能成为触发资金回流、推动空头回补的关键催化剂。 高盛交易台主管Rich Privorotsky在周四晨报中指出， 对冲基金科技股净敞口较基准指数低配约11个百分点，接近五年来最低水平。与此同时，市场庄家的伽马敞口极度偏空，而波动率趋于稳定，这些因素都可能为反弹创造条件。 纳斯达克期货周四早盘上涨近2%。 这一潜在转折恰逢Anthropic登陆华尔街。该公司周四以每股83美元定价上市，高于此前发行区间上限，IPO融资约813亿美元，连同股东配售合计募资1073亿美元，刷新全球IPO纪录。创纪录的认购需求",
+     "source": "华尔街见闻",
+     "zh": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点"
     }
    ]
   },
@@ -2521,6 +2521,22 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper",
+     "link": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+     "summary": "Space and time seem like the bedrock of reality. But startling clues are leading physicists toward the possibility that something stranger lies beneath.",
+     "source": "Live Science",
+     "zh": "What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper"
+    },
+    {
+     "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
+     "link": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
+     "pubDate": "Thu, 19 Nov 2026 12:00:00 -0500",
+     "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
+     "source": "MIT News",
+     "zh": "Scientists create the first whole-body single-cell atlas of an adult vertebrate"
+    },
     {
      "title": "U.S. demand for menopause hormone therapy has more than doubled recently",
      "link": "https://www.sciencenews.org/article/menopause-hormone-therapy-demand-up",
@@ -2698,14 +2714,6 @@ window.INDUSTRY_DATA = {
      "zh": "2,000-year-old tomb of an elite nomad in Mongolia contained a Roman glass cup and Han-dynasty-inspired jade decorations"
     },
     {
-     "title": "Man's 'silly experiment' at work led to a fatal 'rectal explosion'",
-     "link": "https://www.livescience.com/health/mans-silly-experiment-at-work-led-to-a-fatal-rectal-explosion-diagnostic-dilemma",
-     "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-     "summary": "A factory worker experimented with a pressurized air system while on the job, and it resulted in a fatal injury.",
-     "source": "Live Science",
-     "zh": "Man's 'silly experiment' at work led to a fatal 'rectal explosion'"
-    },
-    {
      "title": "Helping AI text detectors keep up with changing conditions",
      "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Data collected since January 2025 show that the measles virus has been circulating for more than a year, a sign that the virus is now endemic.",
      "source": "Science News",
      "zh": "The U.S. just lost its measles elimination status. What now?"
-    },
-    {
-     "title": "Learning the language of machine learning",
-     "link": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
-     "pubDate": "Tue, 17 Nov 2026 00:00:00 -0500",
-     "summary": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
-     "source": "MIT News",
-     "zh": "Learning the language of machine learning"
     },
     {
      "title": "Hyperscale data centers use 2% of US electricity",

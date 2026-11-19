@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 17:36:02",
+ "generated_at": "2026/11/19 17:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -24,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月19日报道，昨日，DeepSeek调整了API计费规则，自北京时间11月18日12时起， 模型调用时触发的服务端搜索、网页抓取不再单独收费 ，仅按照模型Token用量计费。 简单来说，开发者通过DeepSeek模型执行联网搜索任务，不再需要为搜索和网页抓取额外支付按次调用费用，但模型本身消耗的Token仍然正常计费。 需要注意的是，此次DeepSeek 并不是把所有搜索和抓取接口免费开放 。根据官方价格页面，开发者如果 直接调用独立的Search API和Fetch API ，仍需按成功请求次数计费， 两项服",
      "source": "智东西",
      "zh": "DeepSeek刚限完流，就去给开发者免单了"
-    },
-    {
-     "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-     "link": "https://www.qbitai.com/2026/11/511258.html",
-     "pubDate": "Thu, 19 Nov 2026 08:43:10 +0000",
-     "summary": "「Revaluation 价值，另有答案」",
-     "source": "量子位",
-     "zh": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！"
     },
     {
      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
@@ -136,6 +128,14 @@ window.INDUSTRY_DATA = {
      "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confiden",
      "source": "MarkTechPost",
      "zh": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence"
+    },
+    {
+     "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+     "link": "https://www.qbitai.com/2026/11/511071.html",
+     "pubDate": "Thu, 19 Nov 2026 03:01:45 +0000",
+     "summary": "语言模型单张3090卡即可运行",
+     "source": "量子位",
+     "zh": "范式下场做基模了！国产算力全链路训练，双模型同步亮相"
     },
     {
      "title": "本地跑2500亿参数模型！机械革命首发英伟达RTX Spark桌面AI主机，顶配49999元",
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "TME. Your UK partner.",
+     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/tme-your-uk-partner-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 09:00:11 +0000",
+     "summary": "When you’re sourcing electronic and industrial components, stock and price matter – TME combines a broad component portfolio with direct support from our dedicated UK team. The post TME. Your UK partner. appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TME. Your UK partner."
+    },
+    {
+     "title": "Sponsored Content: TME. Your UK partner.",
+     "link": "https://www.electronicsweekly.com/news/business/sponsored-content-tme-your-uk-partner-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 09:00:02 +0000",
+     "summary": "When you’re sourcing electronic and industrial components, stock and price matter – but so does knowing what’s happening with your order. That’s why TME combines a broad component portfolio with […] The post Sponsored Content: TME. Your UK partner. appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Sponsored Content: TME. Your UK partner."
+    },
+    {
      "title": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity",
      "link": "https://www.digitimes.com/news/a20261119PD229/nvidia-capacity-substrate-osat-taiwan.html",
      "pubDate": "Thu, 19 Nov 2026 08:45:00 GMT",
@@ -354,52 +370,36 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft reaffirms Nvidia partnership after CEO departure"
     },
     {
-     "title": "Anthropic raises $107bn at $1.5trn valuation",
+     "title": "Anthropic raises $107bn at $1.5tn valuation",
      "link": "https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/",
      "pubDate": "Thu, 19 Nov 2026 06:16:05 +0000",
-     "summary": "Anthropic raised $107.3 billion in its IPO and private placement. The offering included a $26 billion private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO […] The post Anthropic raises $107bn at $1.5trn valuation appeared first on Electronics Weekly .",
+     "summary": "Anthropic raised $107.3bn in its IPO and private placement. The offering included a $26bn private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO raised about […] The post Anthropic raises $107bn at $1.5tn valuation appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "Anthropic raises $107bn at $1.5trn valuation"
+     "zh": "Anthropic raises $107bn at $1.5tn valuation"
     },
     {
      "title": "ST set to double MCU revenues",
      "link": "https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/",
      "pubDate": "Thu, 19 Nov 2026 06:15:21 +0000",
-     "summary": "ST expects to double its MCU revenues between 2005 and 2028 says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
+     "summary": "ST expects to double its MCU revenues between 2005 and 2028, says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "ST set to double MCU revenues"
     },
     {
-     "title": "SI expecting 60-80% semi growth in 2026",
+     "title": "SI expects 60-80% semi growth in 2026",
      "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
      "pubDate": "Thu, 19 Nov 2026 06:14:05 +0000",
-     "summary": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expecting 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
+     "summary": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expects 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "SI expecting 60-80% semi growth in 2026"
+     "zh": "SI expects 60-80% semi growth in 2026"
     },
     {
      "title": "Pulsiv signs Easby",
      "link": "https://www.electronicsweekly.com/news/business/pulsiv-signs-easby-2026-11/",
      "pubDate": "Thu, 19 Nov 2026 06:09:59 +0000",
-     "summary": "Pulsiv, the Cambridge power electronics speciakist, has signed a distribution agreement with Easby Electronics. Easby’s technical sales team will focus on demand creation activities for the Pulsiv range of high-power […] The post Pulsiv signs Easby appeared first on Electronics Weekly .",
+     "summary": "Pulsiv, the Cambridge power electronics specialist, has signed a distribution agreement with Easby Electronics. Easby’s technical sales team will focus on demand creation activities for the Pulsiv range of high-power […] The post Pulsiv signs Easby appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Pulsiv signs Easby"
-    },
-    {
-     "title": "Nvidia launches Vera CPU for scientific discovery",
-     "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 06:07:37 +0000",
-     "summary": "Nvidia has announced the Nvidia Vera CPU rack-scale platform for high-performance computing – combining Nvidia’s first fully custom datacentre CPU with HPC networking to drive efficiency and throughput for scientific […] The post Nvidia launches Vera CPU for scientific discovery appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia launches Vera CPU for scientific discovery"
-    },
-    {
-     "title": "Souring Datacentre Sentiment",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/souring-datacentre-sentiment-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 01:01:29 +0000",
-     "summary": "lRecent projections suggest that the AI buildout could become the biggest infrastructure investment cycle in modern history, totaling $10.3 trillion from 2025 to 2032 and accounting for an average of […] The post Souring Datacentre Sentiment appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Souring Datacentre Sentiment"
     },
     {
      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site",
+     "link": "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
+     "pubDate": "Thu, 19 Nov 2026 09:34:01 +0000",
+     "summary": "Statkraft has signed a 10-year deal with Ampyr Solar Europe covering the Snelle Loop co-located solar PV and BESS project in the Netherlands.",
+     "source": "Energy Storage News",
+     "zh": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site"
+    },
+    {
      "title": "France’s first canal-top PV project goes online",
      "link": "https://www.pv-magazine.com/2026/11/19/frances-first-canal-top-pv-project-goes-online/",
      "pubDate": "Thu, 19 Nov 2026 09:33:01 +0000",
@@ -1090,20 +1098,12 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "How National Grid, Eversource are using VPPs to solve local-level constraints",
-     "link": "https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/",
-     "pubDate": "Wed, 18 Nov 2026 10:31:06 -0500",
-     "summary": "The Northeast&rsquo;s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
+     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
+     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
+     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
      "source": "Utility Dive",
-     "zh": "How National Grid, Eversource are using VPPs to solve local-level constraints"
-    },
-    {
-     "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
-     "link": "https://www.energy-storage.news/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus/",
-     "pubDate": "Wed, 18 Nov 2026 14:53:34 +0000",
-     "summary": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada.",
-     "source": "Energy Storage News",
-     "zh": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place"
+     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
     }
    ]
   },
@@ -1770,6 +1770,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "LG 公布 Smart Monitor Swing AI 可移动智能显示器，升级 AI 处理器",
+     "link": "https://www.ithome.com/1/029/562.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:47:56 GMT",
+     "summary": "IT之家 11 月 19 日消息，LG 电子当地时间今日面向日本市场公布了新款可移动智能显示器 Smart Monitor Swing AI。这一型号搭载 Alpha 8 AI Processor 4K Gen3 处理器， 支持 AI 驱动音视频优化 。 Smart Monitor Swing AI 基于 31.5\" UHD IPS 显示面板 ，色域 95% DCI-P3，支持 HDR10 规范，允许触控；提供 3 个 USB-C、2 个 HDMI，支持蓝牙连接；运行 webOS 操作系统，提供由 Google Gemini 驱动的 AI 智能体功能。 LG 计划在日本众筹平台 Makuake",
+     "source": "IT之家",
+     "zh": "LG 公布 Smart Monitor Swing AI 可移动智能显示器，升级 AI 处理器"
+    },
+    {
+     "title": "LG Display 取消 3 万亿韩元 OLED 生产设施投资计划，电视市场增长放缓成主因",
+     "link": "https://www.ithome.com/1/029/550.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:38:05 GMT",
+     "summary": "IT之家 11 月 19 日消息，据韩媒 ChosunBiz 今天报道，LG Display（乐金显示）决定撤销 2019 年制定的 10.5 代大型 OLED 生产设施投资计划， 原定投资规模为 3 万亿韩元 （IT之家注：现汇率约合 150.33 亿元人民币） 。 据报道，LGD 的 10.5 代大型 OLED 玻璃基板尺寸为 2940×3370 mm，大于此前的 8.5 代（2200 × 2500 毫米）。这种规格能够让单块基板生产出更多 65 英寸以上电视面板。LGD 原本计划在韩国京畿道坡州的 P10 工厂扩建生产设施，提高超大尺寸 OLED 面板生产效率。 同时，LGD 于 201",
+     "source": "IT之家",
+     "zh": "LG Display 取消 3 万亿韩元 OLED 生产设施投资计划，电视市场增长放缓成主因"
+    },
+    {
+     "title": "“企业用AI 面试我，我能用AI 回答吗？”",
+     "link": "https://www.huxiu.com/article/4906907.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 17:37:32 +0800",
+     "summary": "本文来自微信公众号： 瞎说职场 ，作者：Sean Ye，原文标题：《企业用 AI 面试我，我能用 AI 回答吗？》 在面试时，使用AI来回答问题，是对企业和个人来说，都已经是一个已经无法回避的问题。 有HR对此深恶痛绝，认为是诚信问题。一个面试官和我说过一个真事，当时线上面试的时候，他们希望候选人分享自己做过的一个项目，结果候选人一不小心投屏的时候把AI辅助回答给亮了出来。 本来他们对于候选人的资质非常认可，但是看到屏幕发现对方在用AI回答问题后，立即停止了面试，后续也果断放弃了这个求职者。 但站到另一个角度，我们也得承认，在很多公司的面试，都带着「面试造火箭，入职拧螺丝」的特点。 作为候选人",
+     "source": "虎嗅",
+     "zh": "“企业用AI 面试我，我能用AI 回答吗？”"
+    },
+    {
+     "title": "荣耀 MagicOS 11 第三批内测机型今启全网升级尝鲜，含 Robot Phone、Magic5 系列等",
+     "link": "https://www.ithome.com/1/029/549.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:34:41 GMT",
+     "summary": "IT之家 11 月 19 日消息，荣耀产品维护与升级工作人员 @荣耀小芳哥 刚刚宣布，今天 20 点开始，MagicOS 11 第三批内测机型将开启全网升级尝鲜， 无需报名即可升级 。 ▲ IT之家图赏： 荣耀 Robot Phone 机器人手机实拍 IT之家附推送机型如下（升级路径：设置 > 系统和更新 > 软件更新 > 右上角三个点 > 升级尝鲜）： 手机： 荣耀 Robot Phone、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5 至臻版、Magic5 Pro、Magic5、GT、300 Ultra、300 Pro、3",
+     "source": "IT之家",
+     "zh": "荣耀 MagicOS 11 第三批内测机型今启全网升级尝鲜，含 Robot Phone、Magic5 系列等"
+    },
+    {
+     "title": "华尔街狂热，华盛顿划线：Anthropic的上市前夜",
+     "link": "https://www.huxiu.com/article/4906905.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 17:32:36 +0800",
+     "summary": "本文来自微信公众号： 霞光AI实验室 ，作者：Vinco，编辑：李小天 当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，公司估值逼近1.5万亿美元，超过此前1.4万亿美元的目标。北京时间今晚，股票将在纳斯达克开始交易，代码“ANT”。 两天前，11月16日，美国商务部工业与安全局（BIS）发布新规，限制海外数据中心向中国相关实体提供算力，并将先进芯片出口管制扩展至东南亚四国及巴西。 一边是近5000亿美元认购意向把Anthropic的发行价从70-78美元的区间推高至83美元，一边是华盛顿正在重新划定先进算力的许可边界。两件事没有公开证据证明存在直接因果，",
+     "source": "虎嗅",
+     "zh": "华尔街狂热，华盛顿划线：Anthropic的上市前夜"
+    },
+    {
+     "title": "微软 XBOX 为蹭《GTA 6》热度煞费苦心，却始终不敢直接提游戏名字",
+     "link": "https://www.ithome.com/1/029/548.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:30:37 GMT",
+     "summary": "IT之家 11 月 19 日消息，据 EuroGamer 报道，随着年度最受期待的游戏《侠盗猎车手 6》（GTA 6）正式发售，各大品牌都在想方设法借助这款游戏的热度进行营销，XBOX 也不例外。不过，XBOX 推出了一系列围绕《GTA 6》展开的营销活动，却始终避免直接提及游戏名称。 多位社交媒体用户指出，XBOX Wire 于 11 月 17 日发布了一篇名为《如何为 11 月 19 日做好准备》的文章，内容实际上是在为《GTA 6》的发售日造势，同时向玩家介绍如何充分利用 XBOX 主机上的时间。然而，整篇文章竟然一次都没有提到《GTA 6》的名字。 文章写道：“生日、纪念日和节假日都已",
+     "source": "IT之家",
+     "zh": "微软 XBOX 为蹭《GTA 6》热度煞费苦心，却始终不敢直接提游戏名字"
+    },
+    {
      "title": "手机越来越贵，凭什么让消费者替天价专利费买单？",
      "link": "https://www.huxiu.com/article/4906903.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 17:28:08 +0800",
@@ -1778,20 +1826,28 @@ window.INDUSTRY_DATA = {
      "zh": "手机越来越贵，凭什么让消费者替天价专利费买单？"
     },
     {
+     "title": "大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右",
+     "link": "https://www.ithome.com/1/029/547.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:26:21 GMT",
+     "summary": "IT之家 11 月 19 日消息，大众集团旗下重生的美国汽车制造商 Scout 对即将推出的硬派越野新车 Traveler SUV 寄予厚望。新车计划推出最大功率达 800 马力的增程版，纯电基础版起售价也将低于 6 万美元 （IT之家注：现汇率约合 40.1 万元人民币） ，未来甚至有望为奥迪打造豪华越野 SUV 提供平台。 Scout Motors CEO 斯科特 · 基奥近日接受外媒 The Drive 采访时，介绍了新车的定价、性能，以及与大众集团其他品牌共享非承载式车身平台的可能性。 Scout 此前的目标是，Traveler 起售价将接近 6 万美元。尽管面临成本上涨、关税和通胀压",
+     "source": "IT之家",
+     "zh": "大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右"
+    },
+    {
+     "title": "Gartner 预测：2027 年全球人工智能支出将突破 4 万亿美元",
+     "link": "https://www.ithome.com/1/029/546.htm",
+     "pubDate": "Thu, 19 Nov 2026 09:26:02 GMT",
+     "summary": "IT之家 11 月 19 日消息，机构 Gartner（高德纳）当地时间本月 12 日发布预测： 全 球人工智能支出将在 2027 年突破四万亿美元关口 ，达到 4.05 万亿美元 （IT之家注：现汇率约合 27.06 万亿元人民币） ，同比增长 47.5%。 这四万亿美元中， 份额最大的是人工智能基础设施支出 ，接近 2.4 万亿美元，增幅 53%；而人工智能基础设施支出中最主要的是人工智能优化服务器的支出，2027 年的水平为 9572 亿美元，对应 81% 同比提升。 与此同时，全球人工智能服务支出将同比增长 29.5%，而人工智能软件支出也将扩大 42%；生成式人工智能模型支出整体将提",
+     "source": "IT之家",
+     "zh": "Gartner 预测：2027 年全球人工智能支出将突破 4 万亿美元"
+    },
+    {
      "title": "Banks Are Turning AI Compute Bills Into Working Capital",
      "link": "https://www.tmtpost.com/8211189.html",
      "pubDate": "Thu, 19 Nov 2026 17:18:06 +0800",
      "summary": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution.",
      "source": "钛媒体",
      "zh": "Banks Are Turning AI Compute Bills Into Working Capital"
-    },
-    {
-     "title": "超前瞻：消息称某厂无边四曲屏和阔屏同步开发中，新机预计归属小米旗下",
-     "link": "https://www.ithome.com/1/029/543.htm",
-     "pubDate": "Thu, 19 Nov 2026 09:17:09 GMT",
-     "summary": "IT之家 11 月 19 日消息，博主 @数码闲聊站 今日发布了一则超前瞻爆料，称某厂无边四曲屏和阔屏同步开发中。从博主过往爆料习惯及评论区讨论来看， 预计新机归属小米旗下 。 有网友询问“无边”是“视觉无边”还是“物理无边”，博主表示：“ 视觉，苹果也是视觉无边框。 ”还有网友询问各厂商的无边四曲屏是否都在开发，博主回复称：“ 是啊，苹果做了，其它家都在研究，大概率明年会上。 ” 据IT之家此前报道， 小米阔直板手机此前被曝已开屏 ，目前早期方案是 6.3-6.4 英寸 ±，屏幕比例 16:9，采用 1mm± 极窄四等边设计，支持 BT.2020 色域并配备高规格阔屏。不过产品形态最终命名存",
-     "source": "IT之家",
-     "zh": "超前瞻：消息称某厂无边四曲屏和阔屏同步开发中，新机预计归属小米旗下"
     },
     {
      "title": "刚刚，蒙古国一把手下台了",
@@ -1818,76 +1874,20 @@ window.INDUSTRY_DATA = {
      "zh": "中国市场还容得下第二个始祖鸟吗"
     },
     {
-     "title": "大寰机器人启动IPO辅导：电动夹爪之后，灵巧手要学会算生产力的账",
-     "link": "https://www.huxiu.com/article/4906891.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 17:09:43 +0800",
-     "summary": "本文来自微信公众号： 科技C位 ，作者：东木褚 11月13日，大寰机器人办理上市辅导备案，辅导机构为国泰海通证券。 成立十年后，这家字节跳动、IDG资本、启明创投、君联资本等机构曾投资的公司，走到了公开资本市场的门口。 需要先把概念说清。启动辅导不等于上市申请已经受理，更不意味着发行成功。 但对大寰而言，这一步仍有标志性意义：在灵巧手公司密集融资、产品参数不断刷新的阶段，它试图带着已经运行多年的工业业务接受检验。 大寰站在两条曲线的交点： 一条是电动夹爪、伺服电缸、音圈执行器等工业产品构成的基本盘；另一条是具身智能带来的灵巧手增量。 前者要回答收入、交付与盈利，后者要回答复杂操作能否成为客户愿",
-     "source": "虎嗅",
-     "zh": "大寰机器人启动IPO辅导：电动夹爪之后，灵巧手要学会算生产力的账"
-    },
-    {
-     "title": "本体到手价 9899 元：GPD 公布 WIN Mini Ultra 掌机国行预售计划",
-     "link": "https://www.ithome.com/1/029/541.htm",
-     "pubDate": "Thu, 19 Nov 2026 09:04:07 GMT",
-     "summary": "IT之家 11 月 19 日消息，GPD（中软赢科）今日正式公布了 WIN Mini Ultra 掌机的国行预售计划。该产品 基于英特尔锐炫 G3 Extreme 处理器 ， 预售版本配备 32GB 内存、1TB 存储 ，本体 到手价 9,899 元 。 GPD 计划 2026 年 12 月中旬启动 WIN Mini Ultra 的量产，预售时间表和价格情况如下： 定金支付时间：2026 年 12 月 1 日 10:00 ~ 2027 年 1 月 4 日 10:00 尾款支付时间：2027 年 1 月 4 日 10:30 ~ 2027 年 1 月 7 日 10:30 最晚发货时间：2027 年",
-     "source": "IT之家",
-     "zh": "本体到手价 9899 元：GPD 公布 WIN Mini Ultra 掌机国行预售计划"
-    },
-    {
-     "title": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案",
-     "link": "https://www.ithome.com/1/029/540.htm",
-     "pubDate": "Thu, 19 Nov 2026 09:02:41 GMT",
-     "summary": "IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《 下一代核心网演进白皮书 》， 提出下一代核心网目标架构与演进路径 。 ▲ 华为云核心网产品线总裁高治国发表主题演讲 高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。 移动网络联接对象从人和物拓展至智能体，推动网络服务从基础联接走向智能联接、超越联接 。核心网向下联接终端、向上使能业务，打造先进的下一代核心网，是移动网络把握智能体时代机遇的关键抓手。 华为提出 NGC（Next-",
-     "source": "IT之家",
-     "zh": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案"
-    },
-    {
-     "title": "遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪",
-     "link": "https://www.ithome.com/1/029/539.htm",
-     "pubDate": "Thu, 19 Nov 2026 09:01:42 GMT",
-     "summary": "IT之家 11 月 19 日消息，据韩媒 Etnews 今天报道，随着 AI 智能眼镜作弊逐渐成为社会问题，韩国安防企业开始研发相关探测设备。 据业内消息，韩国两家安防领域企业 K&amp;Us、Gison 正在开发用于查处智能眼镜作弊行为的无线电探测设备。其中，K&amp;Us 计划明年年初完成原型机开发。该设备能够分析蓝牙和 Wi-Fi 信号，识别疑似佩戴智能眼镜的人员。当监考人员打开探测仪并捕捉到可疑信号时，设备便会发出警报。 Gison 则计划在现有无线电检测仪的基础上，开发出分析蓝牙、Wi-Fi 和移动数据的软件。该软件将通过增强现实（AR）技术对可疑无线电信号的位置进行可视化处理，",
-     "source": "IT之家",
-     "zh": "遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪"
-    },
-    {
-     "title": "英伟达，必有一劫",
-     "link": "https://www.huxiu.com/article/4906882.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 17:00:44 +0800",
-     "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | AI制图 近日，英伟达交出了一份超预期的季度财报。尽管新任管理层高调亮相给出明确的业绩指引，却依然未能挽回二级市场的颓势。 自创始人黄仁勋辞任CEO的消息曝光以来，英伟达股价已累计下挫约13%，相较52周高点的回撤幅度更达37%。 妙投认为，黄仁勋的辞职仅仅是表层诱因，真正的灰犀牛在于，资本市场已开始重新审视英伟达底层护城河的稳固性与长期的投资价值。 一、护城河变窄 英伟达之所以无敌，不仅因为芯片强，更因为CUDA生态锁死了开发者。 英伟达通过&ldquo;卖硬件、送软件&rdquo;的策略，把底层的数学库 （如cuDNN） 做",
-     "source": "虎嗅",
-     "zh": "英伟达，必有一劫"
-    },
-    {
-     "title": "红魔 12 Pro+ 手机成功启动《影之刃零》，全低画质叠智能插帧等游戏帧数来到 50-60 帧",
-     "link": "https://www.ithome.com/1/029/537.htm",
-     "pubDate": "Thu, 19 Nov 2026 08:53:00 GMT",
-     "summary": "IT之家 11 月 19 日消息，红魔游戏手机官方今日宣布，旗下红魔 12 Pro+ 手机通过内置的全新 PC 模拟器，成功启动了当下热门 PC 游戏《影之刃零》。 据介绍，红魔 PC 模拟器支持 Steam 游戏库直连、云存档多端同步，可以随时随地畅玩 PC 游戏。IT之家附红魔 12 Pro+ 模拟器启动《影之刃零》的参数如下： 分辨率：1280×720 性能档位：觉醒 智能插帧：2 倍 游戏画质：低 红魔游戏手机官方表示，红魔 12 Pro+ 最终成功启动《影之刃零》， 游戏内帧数来到了 50-60 帧 。 红魔官方表示，目前画质“还差点意思”，但毕竟是模拟器，能启动这类 3A 大作已经",
-     "source": "IT之家",
-     "zh": "红魔 12 Pro+ 手机成功启动《影之刃零》，全低画质叠智能插帧等游戏帧数来到 50-60 帧"
-    },
-    {
-     "title": "《GTA 6》通关后仍能继续探索：游戏会让杰森和露西亚“回到过去”",
-     "link": "https://www.ithome.com/1/029/536.htm",
-     "pubDate": "Thu, 19 Nov 2026 08:47:58 GMT",
-     "summary": "IT之家 11 月 19 日消息，《GTA 6》是一款规模极其庞大的游戏，包含大量主线任务、支线任务、活动、随机事件和竞速赛事等内容。面对如此丰富的玩法，玩家可能会忍不住想在迎来大结局之前，先清空地图上的所有任务和活动。不过，实际上没有必要这么做。 在此前的 Rockstar 作品中，例如《GTA V》和《荒野大镖客：救赎 2》，玩家都可以在完成主线剧情后重新进入开放世界。不过，不同游戏处理通关后内容的方式有所区别。 在《荒野大镖客：救赎 2》中，制作组会让玩家转而操控另一名角色，在片尾字幕结束后继续完成各种活动和支线任务。而在《GTA IV》中，玩家则可以在通关后继续扮演尼科（Niko）探索",
-     "source": "IT之家",
-     "zh": "《GTA 6》通关后仍能继续探索：游戏会让杰森和露西亚“回到过去”"
+     "title": "SSD prices will start going down the second half of next year",
+     "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+     "pubDate": "Thu, 19 Nov 2026 09:05:34 +0000",
+     "summary": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 12 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "SSD prices will start going down the second half of next year"
     },
     {
      "title": "Distributed, high-performance blob storage on SQLite",
      "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
      "pubDate": "Thu, 19 Nov 2026 08:39:45 +0000",
-     "summary": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "Distributed, high-performance blob storage on SQLite"
-    },
-    {
-     "title": "Coupang 火箭配送入驻后，广告 CPA 从 8000 韩元涨到 21000 韩元，该继续投还是先转自然流量？",
-     "link": "https://www.baijing.cn/question/638835",
-     "pubDate": "Thu, 19 Nov 2026 08:39:18 +0000",
-     "summary": "我们在韩国站做厨房小家电，团队 6 个人，今年 3 月刚通过 Coupang 火箭配送入驻审核，主推一款便携榨汁杯。入驻后第一周开了 Coupang Ads 的关键词广告，当时 CPA 大概 8000 韩元，日预算 15 万韩元还能稳定出单。但最近两周 CPA 一路涨到 21000 韩元，同样预算下订单量掉了近四成，广告后台显示竞争关键词的竞价明显变高。已经试过收窄关键词、把日预算压到 10 万韩元、也调整过主图和详情页卖点，效果都不明显。现在卡在要不要继续用广告冲销量冲排名，还是先停一停靠火箭配送的自然曝光养一养。想直接问结论：这个 CPA 水平在韩国站厨房小家电类目算正常吗，判断该投还是该",
-     "source": "白鲸出海",
-     "zh": "Coupang 火箭配送入驻后，广告 CPA 从 8000 韩元涨到 21000 韩元，该继续投还是先转自然流量？"
     },
     {
      "title": "国内首款Gen6 SSD量产，AI存储重算经济帐",
@@ -1898,44 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "国内首款Gen6 SSD量产，AI存储重算经济帐"
     },
     {
-     "title": "日本预约期素材用国内二次元画风，CTR只有0.8%是画风问题吗？",
-     "link": "https://www.baijing.cn/question/638834",
-     "pubDate": "Thu, 19 Nov 2026 08:27:07 +0000",
-     "summary": "我们一款卡牌RPG刚进日本预约期，团队18人，月投放预算约300万日元，主要在X（原Twitter）和YouTube投预注册素材。同一套角色立绘，国内版本CTR能到2.3%，换成日本本地化版本后反而掉到0.8%，CPI从预估的180日元涨到420日元。已经试过换标题文案、加日语配音、请本地画师重绘主视觉，但预约转化率还是停在6%左右上不去。卡在判断不了到底是画风接受度问题，还是素材节奏和日本用户预约习惯不匹配。想问下做过日本预约期的同行，你们判断素材要不要推翻重做的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "日本预约期素材用国内二次元画风，CTR只有0.8%是画风问题吗？"
-    },
-    {
      "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
      "link": "https://www.solidot.org/story?sid=85931",
      "pubDate": "Thu, 19 Nov 2026 16:24:44 +0800",
      "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。",
      "source": "Solidot",
      "zh": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序"
-    },
-    {
-     "title": "巴西游戏接入Pix后回款周期反而拉长，这正常吗？",
-     "link": "https://www.baijing.cn/question/638833",
-     "pubDate": "Thu, 19 Nov 2026 08:16:59 +0000",
-     "summary": "巴西休闲手游，刚上线两个月，日活约3万，团队6人。接入了Pix和Boleto，Pix付款成功率比信用卡高不少，但本地支付服务商结算回款从T+7变成T+14，Boleto还要等3个工作日才确认到账，现金流压得比较紧。已经对比过两家巴西本地收单渠道，费率差不多，卡在清算周期和拒付处理上，不知道是该换服务商还是调整定价把Boleto关掉。想直接问结论：巴西游戏支付回款周期普遍是多少，T+14算正常水平吗？",
-     "source": "白鲸出海",
-     "zh": "巴西游戏接入Pix后回款周期反而拉长，这正常吗？"
-    },
-    {
-     "title": "TikTok Shop 英国本土店回款周期和VAT申报对不上，该按哪个口径做账？",
-     "link": "https://www.baijing.cn/question/638832",
-     "pubDate": "Thu, 19 Nov 2026 08:05:39 +0000",
-     "summary": "英国本土店起量两个月，月GMV大概8万英镑，团队5个人。现在卡在资金和税务对不上：TikTok Shop后台显示订单结算周期是T+14到T+21，但实际到Payoneer账户经常拖到T+30左右，而VAT申报是按平台结算单的日期算还是按实际到账日期算，问了两个会计给的答案不一样。已经试过导出平台Transaction报表和银行流水逐笔核对，发现退款和平台佣金扣减的时间点跟结算单差好几天，导致月度申报金额和回款金额对不上。想直接问：英国本土店做VAT申报，收入确认到底以平台结算单生成日为准，还是以资金实际到账日为准？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 英国本土店回款周期和VAT申报对不上，该按哪个口径做账？"
-    },
-    {
-     "title": "肯尼亚 M-Pesa 收款对接，只有 1 个后端，排期该怎么排？",
-     "link": "https://www.baijing.cn/question/638831",
-     "pubDate": "Thu, 19 Nov 2026 07:56:26 +0000",
-     "summary": "团队一共 6 个人，2 个前端、1 个后端、1 个运营，主产品是面向肯尼亚小商户的记账 SaaS，刚起量，付费用户 800 多，月流水折合约 4 万美元。现在收款走的是第三方聚合支付，M-Pesa 到账要 T+2，客诉里三成是“付了没开通”。想自己直连 M-Pesa 的 Daraja API，但后端只有 1 个人，手上还压着南非市场的多币种账单改造，运营又催着下个月做续费提醒。已经试过让聚合支付方开回调通知，只给了日终对账文件，做不到实时开通。卡在人力排期上：是先停南非的活，集中两周做 Daraja 的 STK Push 和回调验签，还是先加一个半自动对账脚本顶一阵？这个取舍按什么标准判断？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚 M-Pesa 收款对接，只有 1 个后端，排期该怎么排？"
     },
     {
      "title": "蚊子在喜马拉雅冰川地区日益常见",
@@ -1978,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash (Elena Eisenstadt/Bloomberg)"
     },
     {
-     "title": "印度买量CPI涨到0.18美元、巴基斯坦0.09，这波南亚还能继续加预算吗？",
-     "link": "https://www.baijing.cn/question/638830",
-     "pubDate": "Thu, 19 Nov 2026 07:33:11 +0000",
-     "summary": "我们做超休闲手游，南亚起量中，投放团队4人，月预算约12万美元，主要跑Google UAC和Meta，印度CPI从年初0.11美元涨到0.18美元，巴基斯坦0.09美元但留存差一截，孟加拉量太小CPA反而到0.22美元。变现靠AdMob激励视频，印度eCPM只有3.5美元左右，算下来D7回本还差两成。已经试过砍巴基斯坦低留存渠道、把预算往印度倾斜，但印度CPI还在往上走，卡在不知道该按CPA上限硬扛还是转去孟加拉赌量。南亚这波投放成本下，你们判断加预算的临界点看哪个数？",
-     "source": "白鲸出海",
-     "zh": "印度买量CPI涨到0.18美元、巴基斯坦0.09，这波南亚还能继续加预算吗？"
-    },
-    {
      "title": "Sources expect Anthropic&apos;s IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs (Financial Times)",
      "link": "https://www.techmeme.com/261119/p6#a261119p6",
      "pubDate": "Thu, 19 Nov 2026 02:25:29 -0500",
@@ -2016,6 +1976,38 @@ window.INDUSTRY_DATA = {
      "summary": "要是真想完全“去黄化”，只靠舆论也是有些难度的。",
      "source": "钛媒体",
      "zh": "拒绝黄仁勋回归还不够，英伟达开始围剿他女儿了"
+    },
+    {
+     "title": "AI公司烧Token，烧出了一门“贷款生意”",
+     "link": "https://www.tmtpost.com/8210309.html",
+     "pubDate": "Thu, 19 Nov 2026 14:57:32 +0800",
+     "summary": "一张Token账单，换来500万",
+     "source": "钛媒体",
+     "zh": "AI公司烧Token，烧出了一门“贷款生意”"
+    },
+    {
+     "title": "刚刚！从黄仁勋走后首份财报发布及说明会，我们看到了什么",
+     "link": "https://www.tmtpost.com/8210397.html",
+     "pubDate": "Thu, 19 Nov 2026 14:57:28 +0800",
+     "summary": "英伟达进入“后黄仁勋时代”。",
+     "source": "钛媒体",
+     "zh": "刚刚！从黄仁勋走后首份财报发布及说明会，我们看到了什么"
+    },
+    {
+     "title": "退役飞机发动机，被马斯克“返聘”了",
+     "link": "https://www.tmtpost.com/8210876.html",
+     "pubDate": "Thu, 19 Nov 2026 14:57:20 +0800",
+     "summary": "退役航空发动机成了AI行业的抢手货",
+     "source": "钛媒体",
+     "zh": "退役飞机发动机，被马斯克“返聘”了"
+    },
+    {
+     "title": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据",
+     "link": "https://www.solidot.org/story?sid=85928",
+     "pubDate": "Thu, 19 Nov 2026 14:46:48 +0800",
+     "summary": "美国联邦破产法庭法官 Sean Lane 批准了 Google 以 1000 万美元收购破产航空公司 Spirit Airlines 内部数据的交易。廉航 Spirit Airlines 于今年五月停止运营，作为资产清算程序的一部分，Google 在八月拍下了其内部数据，这些数据包括了员工数据如电子邮件、电子表格和日历信息，以及市场营销、生产力和运营方面的数据。Google 表示它计划将这些数据用于产品开发和 AI 训练。在工会以及国会议员对该交易表达关注之后，Google 上周同意对相关数据采取额外的隐私保护措施。",
+     "source": "Solidot",
+     "zh": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据"
     }
    ]
   },
@@ -2025,6 +2017,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Anker Nano II 65W charger is 39% off at its lowest price",
+     "link": "https://www.androidauthority.com/anker-nano-ii-65w-charger-deal-3736811/",
+     "pubDate": "Thu, 19 Nov 2026 09:43:59 +0000",
+     "summary": "Get Anker's compact 65W laptop charger for $19.99 on Amazon, matching its all-time low.",
+     "source": "Android Authority",
+     "zh": "Anker Nano II 65W charger is 39% off at its lowest price"
+    },
+    {
+     "title": "Moto G Stylus 2026 drops to a new low with $150 off",
+     "link": "https://www.androidauthority.com/moto-g-stylus-2026-amazon-deal-3736913/",
+     "pubDate": "Thu, 19 Nov 2026 09:41:10 +0000",
+     "summary": "Motorola's latest stylus phone is 30% off on Amazon, $50 below its Prime Day price.",
+     "source": "Android Authority",
+     "zh": "Moto G Stylus 2026 drops to a new low with $150 off"
+    },
+    {
+     "title": "Samsung HW-Q600F Dolby Atmos soundbar gets a $120 discount",
+     "link": "https://www.androidauthority.com/deal-samsung-hw-q600f-soundbar-3736808/",
+     "pubDate": "Thu, 19 Nov 2026 09:37:27 +0000",
+     "summary": "Samsung's 3.1.2-channel soundbar with a wireless subwoofer is down to $379.99 on Amazon.",
+     "source": "Android Authority",
+     "zh": "Samsung HW-Q600F Dolby Atmos soundbar gets a $120 discount"
+    },
     {
      "title": "Save $400 on the Google Pixel 11 Pro XL in this record-low deal",
      "link": "https://www.androidauthority.com/google-pixel-11-pro-xl-deal-amazon-3736285/",
@@ -2056,30 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Honor Watch 5 Pro never got the wide release that it deserved – oh well, all eyes are on its successor now. Initially announced at the end of September for China, this watch is launching in Europe now. The Honor Watch 6 Pro is going on pre-sale today – Honor is offering it at promotional prices ",
      "source": "GSMArena",
      "zh": "The Honor Watch 6 Pro launches in Europe with an early bird price, free strap and clip-on buds"
-    },
-    {
-     "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
-     "link": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/",
-     "pubDate": "Thu, 19 Nov 2026 08:56:08 +0000",
-     "summary": "No Snapdragon? No problem, as the latest update brings major fixes.",
-     "source": "Android Authority",
-     "zh": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones"
-    },
-    {
-     "title": "Vertical vs. horizontal video recording? Samsung’s Frame guides could stop making you choose",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-frame-guides-camera-3737040/",
-     "pubDate": "Thu, 19 Nov 2026 08:53:55 +0000",
-     "summary": "With virtual guides that let you adjust composition for multiple aspect ratios.",
-     "source": "Android Authority",
-     "zh": "Vertical vs. horizontal video recording? Samsung’s Frame guides could stop making you choose"
-    },
-    {
-     "title": "Roborock Black Friday 2026 deals: Save up to $1,650 on robot vacuums and wet-dry handhelds",
-     "link": "https://www.androidauthority.com/roborock-black-friday-2026-deals-3736129/",
-     "pubDate": "Thu, 19 Nov 2026 08:51:23 +0000",
-     "summary": "From flagship robot vacuums that take care of themselves to powerful wet-and-dry handhelds, everything gets big discounts.",
-     "source": "Android Authority",
-     "zh": "Roborock Black Friday 2026 deals: Save up to $1,650 on robot vacuums and wet-dry handhelds"
     },
     {
      "title": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions",
@@ -2274,108 +2266,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【调研快报】天正电气接待投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611193935097695.html",
-     "pubDate": "Thu, 19 Nov 2026 17:25:49 +0800",
-     "summary": "天正电气 11月20日公告称， 11月19日 接待投资者 调研。 接待人员包括公司董事长、总裁 高天乐,董事、副总裁、董事会秘书 周光辉,副总裁、财务总监 黄渊,独立董事 董雅姝,独立董事 沈福俊。 公司就以下问题进行了回复： 1.公司已有市值管理机制,请问具体执行体现在哪里?公司上市十年不到所有付出包括努力经营也近十年,为何目前市值连发行时的市值都不如?在此,请高管们认真分析、积极应对,尽快扭转这难堪被动的局面,树立优质品牌产品、优质上市公司典范。 答:尊敬的投资者,您好!公司高度重视投资者回报,始终致力于稳健经营... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投",
-     "source": "东方财富股票",
-     "zh": "【调研快报】天正电气接待投资者调研"
+     "title": "NetEase declares $0.585/ADS dividend",
+     "link": "https://seekingalpha.com/news/4674589-netease-declares-0585ads-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 04:46:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NetEase declares $0.585/ADS dividend"
     },
     {
-     "title": "中国贸促会会长邀马斯克赴链博会 马斯克回应受邀参加链博会",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935095612.html",
-     "pubDate": "Thu, 19 Nov 2026 17:23:41 +0800",
-     "summary": "11月19日，中国国际贸易促进委员会会长任鸿斌在深圳与美国 特斯拉 公司首席执行官埃隆·马斯克会面。2027年是链博会五周年，任鸿斌邀请马斯克前往参加开幕式，希望马斯克明年能带来最新的技术参展，不仅展示给中国，也展示给全世界。马斯克回应：“当然，听起来非常好。” （文章来源：央视财经）",
-     "source": "东方财富股票",
-     "zh": "中国贸促会会长邀马斯克赴链博会 马斯克回应受邀参加链博会"
+     "title": "Wall Street $500B financing pledge for Nvidia fails to materialize- report",
+     "link": "https://seekingalpha.com/news/4674588-wall-street-500b-financing-pledge-for-nvidia-fails-to-materialize-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 04:41:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wall Street $500B financing pledge for Nvidia fails to materialize- report"
     },
     {
-     "title": "大宗交易：中稀有色成交3315.91万元，折价4.55%（11-19）",
-     "link": "http://stock.eastmoney.com/news/11264,202611193935094695.html",
-     "pubDate": "Thu, 19 Nov 2026 17:22:20 +0800",
-     "summary": "2026年11月19日， 中稀有色 发生1笔大宗交易，共成交67.52万股，成交金额3315.91万元 ，占其流通市值比例为0.19% 。 该笔大宗交易成交均价49.11元， 较该股当日收盘价51.45元折价4.55%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "大宗交易：中稀有色成交3315.91万元，折价4.55%（11-19）"
+     "title": "网易Q3营收同比下降1.8%，毛利率升至68.3%，游戏业务盈利能力改善｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3786281",
+     "pubDate": "Thu, 19 Nov 2026 17:40:30 +0800",
+     "summary": "网易第三季度业绩呈现出收入小幅回落、盈利能力改善的特点。尽管游戏业务受到产品周期波动影响，整体收入略有承压，但公司通过优化成本结构、控制经营费用，推动毛利率进一步提升，利润端展现出较强韧性。 周四公布的财报显示， 网易第三季度实现净收入279亿元，同比下降1.8%；毛利润190亿元，同比增长4.8%，毛利率由去年同期的约64.1%提升至68.3%。 归属于公司股东的净利润为84亿元，非GAAP净利润为92亿元，较上季度的77亿元明显回升。 分业务来看，游戏及相关增值服务仍是收入和利润的核心支柱，经典产品保持运营韧性，新品也在为后续增长积蓄动能。 有道和云音乐收入继续下滑，创新及其他业务则实现了",
+     "source": "华尔街见闻",
+     "zh": "网易Q3营收同比下降1.8%，毛利率升至68.3%，游戏业务盈利能力改善｜财报见闻"
     },
     {
-     "title": "大宗交易：永杰新材成交754.25万元，折价1.21%（11-19）",
-     "link": "http://stock.eastmoney.com/news/11264,202611193935094394.html",
-     "pubDate": "Thu, 19 Nov 2026 17:22:12 +0800",
-     "summary": "2026年11月19日， 永杰新材 发生1笔大宗交易，共成交25.00万股，成交金额754.25万元 ，占其流通市值比例为0.26% 。 该笔大宗交易成交均价30.17元， 较该股当日收盘价30.54元折价1.21%。 其中，机构席位买入25.00万股，成交额754.25万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，",
+     "title": "沙特方面称，艾卜哈和海米斯穆谢特的危险已经过去",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935108929.html",
+     "pubDate": "Thu, 19 Nov 2026 17:40:26 +0800",
+     "summary": "沙特方面称，艾卜哈和海米斯穆谢特的危险已经过去。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "大宗交易：永杰新材成交754.25万元，折价1.21%（11-19）"
+     "zh": "沙特方面称，艾卜哈和海米斯穆谢特的危险已经过去"
     },
     {
-     "title": "大宗交易：晶合集成成交2277.88万元（11-19）",
-     "link": "http://stock.eastmoney.com/news/11264,202611193935094213.html",
-     "pubDate": "Thu, 19 Nov 2026 17:22:12 +0800",
-     "summary": "2026年11月19日， 晶合集成 发生2笔大宗交易，共成交75.98万股，成交金额2277.88万元 ，占其流通市值比例为0.04% 。 2笔大宗交易成交均价29.98元， 较该股当日收盘价29.98元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "【调研快报】松井股份接待广发基金等11家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611193935106888.html",
+     "pubDate": "Thu, 19 Nov 2026 17:39:47 +0800",
+     "summary": "松井股份 11月19日公告称， 11月18日至11月19日 接待广发基金 等11家机构 调研。 接待人员包括副总经理、董事会秘书、财务总监 熊开阔,证券事务代表 司新宇,投资者关系主管 吴丹婷。 公司就以下问题进行了回复： 主要交流问题及答复: 1、请介绍一下公司2026年前三季度的整体经营情况、当前所处的发展阶段及未来增长逻辑? 答:2026年前三季度,公司继续发挥在材料研发、工艺开发、应用验证、质量控制及规模化交付等方面形成的 综合 能力,围绕高端功能涂层材料核心主业,稳步推动业务向 乘用车 领域、 新能源 电池 及其他先进应... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考",
      "source": "东方财富股票",
-     "zh": "大宗交易：晶合集成成交2277.88万元（11-19）"
+     "zh": "【调研快报】松井股份接待广发基金等11家机构调研"
     },
     {
-     "title": "大宗交易：北汽蓝谷成交350.03万元（11-19）",
-     "link": "http://stock.eastmoney.com/news/11264,202611193935094194.html",
-     "pubDate": "Thu, 19 Nov 2026 17:22:12 +0800",
-     "summary": "2026年11月19日， 北汽蓝谷 发生1笔大宗交易，共成交89.75万股，成交金额350.03万元 ，占其流通市值比例为0.01% 。 该笔大宗交易成交均价3.90元， 较该股当日收盘价3.90元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "【调研快报】苏州银行接待中信建投等4家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611193935105651.html",
+     "pubDate": "Thu, 19 Nov 2026 17:38:51 +0800",
+     "summary": "苏州银行 11月19日公告称， 11月19日 接待 中信建投 等4家机构 调研。 接待人员包括董事会秘书 朱敏军,董事会办公室主任 潘奕君,计划财务部总经理助理 沈若弢,风险管理部总经理助理 陆亚文,董事会办公室相关人员。 公司就以下问题进行了回复： 主要就 苏州银行 相关经营情况进行了交流,以下为投资者问询及简要回复情况记录: 1、请介绍下目前全省业务布局情况。 答:本行坚守“立足苏州,深耕江苏,全面融入长三角”的区域定位,目前已实现省内经营机构全覆盖,异地分行发展态势良好,贡献度稳步提升。后续,本行将继续深融属地市场,更好服务城乡居民... 点击查看PDF原文 免责声明：本文基于AI生产，",
      "source": "东方财富股票",
-     "zh": "大宗交易：北汽蓝谷成交350.03万元（11-19）"
+     "zh": "【调研快报】苏州银行接待中信建投等4家机构调研"
+    },
+    {
+     "title": "特朗普将迎来好消息？美国汽油价格逐渐接近3.5美元关口",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935107689.html",
+     "pubDate": "Thu, 19 Nov 2026 17:37:53 +0800",
+     "summary": "据外媒报道，根据美国 汽车 协会（AAA）的数据，美国汽油零售均价目前为每加仑3.72美元左右，已跌至八个月低点，较9月最近一次高点下跌15%。预计感恩节假期前，汽油价格还将进一步下跌。汽油价格走低，一方面是中东原油流量已大幅回升、以及在生产柴油的过程中附带产出了大量汽油，令汽油供应增加，另一方面是北半球夏季旅游旺季结束，汽油需求进入季节性淡季，以及电动 汽车 销量快速增长。对特朗普来说，还有一个利好消息：汽油价格正接近3.50美元这一关键关口，研究人员发现，当汽油价格低于这一门槛时，该商品在新闻报道中的曝光度会大幅下降，进而逐渐淡出公众讨论。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普将迎来好消息？美国汽油价格逐渐接近3.5美元关口"
+    },
+    {
+     "title": "11月19日南向资金净买近40亿港元，逾38亿抢筹腾讯控股",
+     "link": "http://stock.eastmoney.com/news/11761,202611193935104910.html",
+     "pubDate": "Thu, 19 Nov 2026 17:37:52 +0800",
+     "summary": "恒生指数11月19日 跌1.95%， 收报22841.62点。南向资金今日 净买入港股39.59亿港元。 南向资金今日成交额902.44亿港元，港股大市成交2295.49亿港元。 南向十大成交股中， 腾讯控股 、 中芯国际 、 美团-W 分别获净买入38.40亿港元、12.22亿港元、6.50亿港元。 阿里巴巴-W 、 长飞光纤 光缆、 中际旭创 分别遭净卖出4.56亿港元、1.12亿港元、3335.50万港元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏",
+     "source": "东方财富股票",
+     "zh": "11月19日南向资金净买近40亿港元，逾38亿抢筹腾讯控股"
+    },
+    {
+     "title": "南向资金净买近40亿港元，逾38亿抢筹腾讯控股",
+     "link": "http://stock.eastmoney.com/news/11762,202611193935104850.html",
+     "pubDate": "Thu, 19 Nov 2026 17:37:52 +0800",
+     "summary": "恒生指数11月19日跌1.95%，收报22841.62点。南向资金今日净买入港股39.59亿港元。南向资金今日成交额902.44亿港元，港股大市成交2295.49亿港元。 南向十大成交股中， 腾讯控股 、 中芯国际 、 美团-W 分别获净买入38.40亿港元、12.22亿港元、6.50亿港元。 阿里巴巴 -W、 长飞光纤光缆 、 中际旭创 分别遭净卖出4.56亿港元、1.12亿港元、3335.50万港元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国",
+     "source": "东方财富股票",
+     "zh": "南向资金净买近40亿港元，逾38亿抢筹腾讯控股"
     },
     {
      "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-     "pubDate": "Thu, 19 Nov 2026 09:33:01 GMT",
+     "pubDate": "Thu, 19 Nov 2026 09:34:17 GMT",
      "summary": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
      "source": "CNBC",
      "zh": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting"
     },
     {
-     "title": "【调研快报】泰凯英接待北京市捷博特能源技术有限公司等9家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611193935098041.html",
-     "pubDate": "Thu, 19 Nov 2026 17:28:51 +0800",
-     "summary": "泰凯英 11月19日公告称， 11月10日至11月18日 接待北京市捷博特能源技术有限公司 等9家机构 调研。 接待人员包括公司董事、副总经理、董事会秘书 宋星,公司投资者关系负责人 王晗。 公司就以下问题进行了回复： 投资者的主要问题及公司对问题的回复情况如下: 问题1:公司2026年三季度业绩情况如何? 回答:2026年前三季度公司实现营业收入24.66亿元,同比增长27.17%;实现归属于上市公司股东的净利润1.49亿元,同比增长15.01%;实现归属于上市公司股东的扣除非经常性损益后的净利润1.46亿元,同... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资",
-     "source": "东方财富股票",
-     "zh": "【调研快报】泰凯英接待北京市捷博特能源技术有限公司等9家机构调研"
+     "title": "股价下跌近70% “葛卫东”一股没卖",
+     "link": "http://finance.eastmoney.com/news/1354,202611193935090042.html",
+     "pubDate": "Thu, 19 Nov 2026 17:15:21 +0800",
+     "summary": "知名投资人葛卫东，面对股价暴跌，展现了出惊人的“钝感力”。 中材科技 最新公告显示，今年三季度以来，公司股价下跌近70%，葛卫东妻子王萍一股没卖，还在三季度逆势加仓。葛卫东则在10月豪掷7亿元参与该公司增发，当前浮亏40%以上。 葛卫东家族坚守 在剧烈的震荡调整中，葛卫东家族坚守 中材科技 。 中材科技 最新公告显示，截至11月13日，葛卫东妻子王萍位列第三大流通股股东，持有股数为802.2万股，同三季度末保持一致。从股价表现来看，进入四季度以来，截至11月13日，中材科技股价下跌40.57%。 梳理发现，今年二季度，王萍新进为中材科技前十大流通股股东，截至二季度末，王萍持有746.39万股。",
+     "source": "东方财富资讯",
+     "zh": "股价下跌近70% “葛卫东”一股没卖"
     },
     {
-     "title": "【调研快报】宝武镁业接待华夏久盈等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611193935097985.html",
-     "pubDate": "Thu, 19 Nov 2026 17:27:49 +0800",
-     "summary": "宝武镁业 11月19日公告称， 11月17日 接待华夏久盈 等2家机构 调研。 接待人员包括 宝武镁业 董事会秘书 吴剑飞。 公司就以下问题进行了回复： 问:请介绍一下 宝武镁业 ? 答:宝武镁业科技股份有限公司前身为南京云海特种金属股份有限公司,成立于1993年,2007年在深交所上市,公司经过三十多年的发展,成为了集矿业开采、 有色金属 冶炼和回收加工为一体的高新技术企业,主营业务为镁、 铝 合金材料的生产及深加工、销售业务,主要产品包括镁合金、镁合金... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信",
-     "source": "东方财富股票",
-     "zh": "【调研快报】宝武镁业接待华夏久盈等2家机构调研"
-    },
-    {
-     "title": "【调研快报】恒林股份接待投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611193935097724.html",
-     "pubDate": "Thu, 19 Nov 2026 17:26:01 +0800",
-     "summary": "恒林股份 11月20日公告称， 11月19日 接待投资者 调研。 接待人员包括公司董事长、总经理 王江林,独立董事 徐笑波,财务总监 王学明,董事会秘书 汤鸿雁。 公司就以下问题进行了回复： 问题一:前三季度归母净利润同比下降,利润下滑主要受哪些因素影响?2026年前三季度,公司实现营业收入99.83亿元,同比增长17.62%;实现利润总额2.50亿元,同比下降27.06%;实现归属于上市公司股东的净利润1.59亿元,同比下降42.94%;实现归属于上市公司股东的扣除非经常性损益的净利润... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东",
-     "source": "东方财富股票",
-     "zh": "【调研快报】恒林股份接待投资者调研"
-    },
-    {
-     "title": "【调研快报】天正电气接待投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611193935097695.html",
-     "pubDate": "Thu, 19 Nov 2026 17:25:49 +0800",
-     "summary": "天正电气 11月20日公告称， 11月19日 接待投资者 调研。 接待人员包括公司董事长、总裁 高天乐,董事、副总裁、董事会秘书 周光辉,副总裁、财务总监 黄渊,独立董事 董雅姝,独立董事 沈福俊。 公司就以下问题进行了回复： 1.公司已有市值管理机制,请问具体执行体现在哪里?公司上市十年不到所有付出包括努力经营也近十年,为何目前市值连发行时的市值都不如?在此,请高管们认真分析、积极应对,尽快扭转这难堪被动的局面,树立优质品牌产品、优质上市公司典范。 答:尊敬的投资者,您好!公司高度重视投资者回报,始终致力于稳健经营... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投",
-     "source": "东方财富股票",
-     "zh": "【调研快报】天正电气接待投资者调研"
-    },
-    {
-     "title": "比亚迪申请注册“海鲸”及图形商标",
-     "link": "http://finance.eastmoney.com/news/1354,202611193935097485.html",
-     "pubDate": "Thu, 19 Nov 2026 17:24:10 +0800",
-     "summary": "企查查APP显示，近日， 比亚迪 申请注册“海鲸”及图形商标，国际分类均为运输工具。据悉，“海鲸”为 比亚迪 海洋网全新MPV。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "比亚迪申请注册“海鲸”及图形商标"
-    },
-    {
-     "title": "中国贸促会会长邀马斯克赴链博会 马斯克回应受邀参加链博会",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935095612.html",
-     "pubDate": "Thu, 19 Nov 2026 17:23:41 +0800",
-     "summary": "11月19日，中国国际贸易促进委员会会长任鸿斌在深圳与美国 特斯拉 公司首席执行官埃隆·马斯克会面。2027年是链博会五周年，任鸿斌邀请马斯克前往参加开幕式，希望马斯克明年能带来最新的技术参展，不仅展示给中国，也展示给全世界。马斯克回应：“当然，听起来非常好。” （文章来源：央视财经）",
-     "source": "东方财富股票",
-     "zh": "中国贸促会会长邀马斯克赴链博会 马斯克回应受邀参加链博会"
+     "title": "“华尔街最疯狂的赚钱机器”加仓中国资产！多家中国互联网龙头获加仓",
+     "link": "http://finance.eastmoney.com/news/1354,202611193935090224.html",
+     "pubDate": "Thu, 19 Nov 2026 17:15:20 +0800",
+     "summary": "在全球市场剧烈波动的背景下，中国资产持续受到华尔街顶尖对冲基金关注。最新数据显示，素有“华尔街最疯狂赚钱机器”之称的Point72在今年三季度新建 阿里巴巴 仓位，并大手笔增持 京东 、 拼多多 等中国互联 网龙 头。此外， 巴克莱 银行 、安本集团、花旗、维京全球投资等多家海外知名资管机构也在三季度对多只中概股进行积极买入。 Point72建仓 阿里巴巴 由华尔街传奇投资人史蒂夫·科恩创立的Point72，是全球顶尖的多策略对冲基金之一，被称为“华尔街最疯狂的赚钱机器”。科恩早年执掌SAC Capital时，便以年均超30%的回报率震惊华尔街，这一战绩为他赢得了“对冲基金界乔丹”的称号。科恩",
+     "source": "东方财富资讯",
+     "zh": "“华尔街最疯狂的赚钱机器”加仓中国资产！多家中国互联网龙头获加仓"
     },
     {
      "title": "Here’s the precise moment when cyberattacks started increasing exponentially",
@@ -2442,22 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kuaishou Technology reports Q3 results"
     },
     {
-     "title": "'We gotta bring Jensen back' – Uber co-founder Kalanick weighs in on Nvidia saga",
-     "link": "https://seekingalpha.com/news/4674534-uber-co-founder-kalanick-weighs-in-on-nvidia-huang-saga?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 03:55:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "'We gotta bring Jensen back' – Uber co-founder Kalanick weighs in on Nvidia saga"
-    },
-    {
-     "title": "NetEase Non-GAAP EPADS of $2.13 misses by $0.28, revenue of $4.2B misses by $340M",
-     "link": "https://seekingalpha.com/news/4674567-netease-non-gaap-epads-of-213-misses-by-028-revenue-of-42b-misses-by-340m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 03:52:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NetEase Non-GAAP EPADS of $2.13 misses by $0.28, revenue of $4.2B misses by $340M"
-    },
-    {
      "title": "机构调研丨光刻胶+半导体概念 这家公司战略配套沐曦 TMAH产品已开始量供海外先进封装客户",
      "link": "http://finance.eastmoney.com/news/11822,202611193935066132.html",
      "pubDate": "Thu, 19 Nov 2026 16:41:50 +0800",
@@ -2498,44 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "网络安全：不容忽视的企业风险，迅速上升的“AI投资”"
     },
     {
-     "title": "落差达4.4倍 储能招标与装机加速背离",
-     "link": "http://www.eeo.com.cn/2026/1119/1097227.shtml",
-     "pubDate": "Thu, 19 Nov 2026 16:20:14 +0800",
-     "summary": "比时滞更核心的原因，是项目收益模型发生了变化。强制配储要求弱化后，储能收益从“政策托底”转向市场化交易，而容量补偿覆盖水平、现货价格波动区间、辅助服务调用频次与结算规则在多数区域尚未稳定成型。",
-     "source": "经济观察网",
-     "zh": "落差达4.4倍 储能招标与装机加速背离"
-    },
-    {
-     "title": "芯聚能股改落定 吉利托举的碳化硅模块商或将IPO",
-     "link": "http://www.eeo.com.cn/2026/1119/1097225.shtml",
-     "pubDate": "Thu, 19 Nov 2026 16:19:53 +0800",
-     "summary": "在芯聚能和芯粤能这两家企业背后，吉利是贯穿产业链布局的隐形推手。吉利既是芯聚能的股东，也是芯粤能的合资方。",
-     "source": "经济观察网",
-     "zh": "芯聚能股改落定 吉利托举的碳化硅模块商或将IPO"
-    },
-    {
      "title": "现货黄金跌破3700美元！金饰克价高点下调近600元",
      "link": "http://forex.eastmoney.com/news/1131,202611193935049216.html",
      "pubDate": "Thu, 19 Nov 2026 16:14:12 +0800",
      "summary": "贵金属 市场的跌势仍在持续，资金持续撤出。 11月19日，国际 黄金 价格跳水，伦敦现货 黄金 盘中跌破3700美元/盎司。上海 黄金 交易所现货黄金（Au99.99）一度跌破800元/克，触及793元/克。 当日，国内多家品牌下调了足金 饰品 报价。国内部分品牌金饰每克报价较年内高点已下跌近600元，回落超过三成，最低跌破1130元/克，如老庙黄金19日报1125元/克，一日下跌25元/克。 贵金属 市场正在经历一轮剧烈的重新定价。国际市场上，彭博 贵金属 指数已较今年1月的高点下跌超37%。国内市场上，文华财经贵金属指数则从今年1月份高点，累计下跌近50%。其中，国内黄金 期货 主力合约累",
      "source": "东方财富资讯",
      "zh": "现货黄金跌破3700美元！金饰克价高点下调近600元"
-    },
-    {
-     "title": "尾盘A股异动！大资金进场！多只ETF放量",
-     "link": "http://stock.eastmoney.com/news/11622,202611193935059938.html",
-     "pubDate": "Thu, 19 Nov 2026 16:14:06 +0800",
-     "summary": "尾盘时分，资金涌入！ 今日尾盘，在资金的推动下，A股各大指数均出现拉升。其中，科创50指数直线拉升，最终收涨1.83%；沪指跌幅收窄至0.28%，拉升前跌近1%；深证成指跌幅收窄至0.71%，拉升前跌近1.30%；创业板指跌幅收窄至0.79%，拉升前跌近1.50%。 个股方面， 中芯国际 、 百利天恒 、 源杰科技 、 中微公司 、 生益电子 、 拓荆科技 、 大全能源 、 盛美上海 等个股尾盘均大幅拉升。 临近尾盘，多只宽基ETF大幅放量，资金加仓迹象明显。截至收盘时，6只宽基ETF成交额突破100亿元。其中，科创50ETF易方达（588080）成交额超127亿元，是昨日的5倍； 中证500",
-     "source": "东方财富资讯",
-     "zh": "尾盘A股异动！大资金进场！多只ETF放量"
-    },
-    {
-     "title": "习近平会见美国总统特朗普",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935046942.html",
-     "pubDate": "Thu, 19 Nov 2026 16:13:01 +0800",
-     "summary": "11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。 习近平指出，过去几个月，从北京到华盛顿，我和特朗普总统共同探索中美两个大国正确相处之道，确立了“中美建设性战略稳定关系”的新定位，并赋予其“基于尊重、公平、对等”的新内涵，受到中美两国人民认可和国际社会欢迎。中美关系总体稳定向好，给两国人民带来实实在在的利益，也给世界注入稳定性和确定性。我期待同特朗普总统一道，继续为中美关系领航掌舵，确保这艘大船始终沿着正确航线扬帆远航。 习近平强调，构建中美建设性战略稳定关系是前无古人的开创性事业，需要敢闯敢试、脚踏实地、善作善成。中美元首外交的引领作用不可替代",
-     "source": "东方财富资讯",
-     "zh": "习近平会见美国总统特朗普"
     },
     {
      "title": "2027“超级美元”？",
@@ -2554,12 +2490,20 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic今夜首秀：暗盘最高暴涨26%，估值冲击1.5万亿美元！"
     },
     {
-     "title": "版权、流量与AI：在线音乐平台迎来新战事",
-     "link": "https://wallstreetcn.com/articles/3786271",
-     "pubDate": "Thu, 19 Nov 2026 15:45:04 +0800",
-     "summary": "音乐平台从未像今天这样不缺新歌，但下一个能够持续创造商业价值的音乐明星，依然难寻。 11月17日，腾讯音乐公布2026年第三季度财报，营收89.41亿元，同比增长5.6%，低于市场一致预期。 依靠高阶会员、演唱会和艺人周边，这家在线音乐巨头正进一步挖掘成熟IP的商业价值，但主力产品的用户活跃度仍然承压。 存量IP的生意越做越深，新音乐的竞争规则也在发生变化。 今年8月，腾讯音乐曲库版权高级总监李玲玲披露，平台日均入库歌曲已经达到约16万首，其中AI歌曲占比约45%。相比之下，去年同期每日入库歌曲还不足10万首。 AI大幅降低了歌曲生产门槛，也为新音乐人和虚拟艺人的形成创造了更多可能。 当海量作",
-     "source": "华尔街见闻",
-     "zh": "版权、流量与AI：在线音乐平台迎来新战事"
+     "title": "Trump, Putin and Xi begin historic trilateral meeting",
+     "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+     "pubDate": "Thu, 19 Nov 2026 07:43:13 GMT",
+     "summary": "Summit with three leaders begins in southern Chinese city of Shenzhen during week of high-stakes diplomacy",
+     "source": "Financial Times",
+     "zh": "Trump, Putin and Xi begin historic trilateral meeting"
+    },
+    {
+     "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+     "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+     "pubDate": "Thu, 19 Nov 2026 07:38:29 GMT",
+     "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+     "source": "CNBC",
+     "zh": "Takaichi gets chilly reception in China on first Japan leader visit since 2019"
     }
    ]
   },

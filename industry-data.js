@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 06:52:08",
+ "generated_at": "2026/11/20 07:15:09",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 -0600",
+     "summary": "Analysts are touting the remarkable recovery in crude oil exports from the Persian Gulf, which have jumped close to pre-war levels in recent months. The oil market reflects the bearish sentiment, with Brent Crude prices sliding in the past weeks to around $92 per barrel, down from a recent peak of o",
+     "source": "OilPrice",
+     "zh": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage"
+    },
+    {
      "title": "$1199 – Anyland Rev Pro: An Electric Dirt Bike With a Wheelie Assist Built for Beginners",
      "link": "https://cleantechnica.com/2026/11/19/1199-anyland-rev-pro-an-electric-dirt-bike-with-a-wheelie-assist-built-for-beginners/",
      "pubDate": "Thu, 19 Nov 2026 22:04:46 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Shipowners have been ordering vessels capable of burning alternative fuels, but Trafigura’s marine fuel business isn't seeing enough demand for those fuels to justify major new investments. The ships may have different engines, but much of the fuel going into them hasn't changed. “We will not make a",
      "source": "OilPrice",
      "zh": "Trafigura Not Rushing to Alternative Marine Fuels"
-    },
-    {
-     "title": "7,000 Egyptian Factories Will Soon Be Solar-powered",
-     "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/7000-Egyptian-Factories-Will-Soon-Be-Solar-powered.html",
-     "pubDate": "Thu, 19 Nov 2026 12:00:00 -0600",
-     "summary": "Egypt is rapidly expanding its solar power capacity as part of its goal to source 42% of its electricity from renewables by 2030 and 65% by 2040. The country currently gets most of its energy from fossil fuels, primarily natural gas and petroleum, which account for roughly 87% of Egypt's electricity",
-     "source": "OilPrice",
-     "zh": "7,000 Egyptian Factories Will Soon Be Solar-powered"
     },
     {
      "title": "Google signs 50-MW superhot geothermal PPA with Quaise Energy",
@@ -1122,6 +1122,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+     "link": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+     "pubDate": "Thu, 19 Nov 2026 22:55:19 +0000",
+     "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+     "source": "STAT News",
+     "zh": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it"
+    },
+    {
      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
      "link": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
      "pubDate": "Thu, 19 Nov 2026 22:20:00 +0000",
@@ -1250,14 +1258,6 @@ window.INDUSTRY_DATA = {
      "zh": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease"
     },
     {
-     "title": "STAT+: Epic defends competitive practices; promises AI access to records",
-     "link": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
-     "pubDate": "Thu, 19 Nov 2026 14:21:08 +0000",
-     "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
-     "source": "STAT News",
-     "zh": "STAT+: Epic defends competitive practices; promises AI access to records"
-    },
-    {
      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
      "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
      "pubDate": "Wed, 18 Nov 2026 22:50:25 +0000",
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+     "pubDate": "Thu, 19 Nov 2026 22:53:16 +0000",
+     "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
+    },
+    {
      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
      "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
      "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
@@ -1384,14 +1392,6 @@ window.INDUSTRY_DATA = {
      "summary": "The moon shines with Saturn in the constellation Pisces after sunset on Nov. 20",
      "source": "Space.com",
      "zh": "Don't miss Saturn shine close to the moon on Nov. 20"
-    },
-    {
-     "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
-     "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
-     "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
-     "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
-     "source": "Space.com",
-     "zh": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'"
     },
     {
      "title": "Making the case for optical",
@@ -1569,6 +1569,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+     "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+     "pubDate": "Thu, 19 Nov 2026 22:40:03 GMT",
+     "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+     "source": "Dark Reading",
+     "zh": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering"
+    },
     {
      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
@@ -1754,14 +1762,6 @@ window.INDUSTRY_DATA = {
      "zh": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
     },
     {
-     "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-     "pubDate": "Wed, 18 Nov 2026 21:59:46 GMT",
-     "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-     "source": "Dark Reading",
-     "zh": "Russia's Cold Relic APT Turns One Cloud Breach Into Another"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1778,6 +1778,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果、Uber开始限制Token：公司让你大力用AI，为什么又要管账单？",
+     "link": "https://www.huxiu.com/article/4907025.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 07:11:22 +0800",
+     "summary": "本文来自微信公众号： 快刀青衣 ，作者：快刀青衣 Token预算真正要管的，不是用量。 现在已经是11月了。如果回忆一下年初，就在今年3月，时任英伟达CEO的黄仁勋说过一句话，马上传遍了各个媒体。 大意是，一个年薪50万美元的工程师，如果一年在Token上花不到25万美元，他会「非常担心」。 你看，他是因为员工花Token不够多而担心。 差不多同一时期，Visa把员工的月Token消耗量从1万亿涨到了将近2万亿，这件事还被当作喜报发布。腾讯也给每个员工配了年均22万元的Token资源。 那阵子，企业用Token的氛围就是五个字：大力出奇迹。 现在呢？就在这个月，全球SaaS软件巨头Salesf",
+     "source": "虎嗅",
+     "zh": "苹果、Uber开始限制Token：公司让你大力用AI，为什么又要管账单？"
+    },
+    {
+     "title": "微软携手英伟达升级云 PC 体验：两路 4K 60 帧画面，2027 年预览上线",
+     "link": "https://www.ithome.com/1/029/747.htm",
+     "pubDate": "Thu, 19 Nov 2026 23:09:25 GMT",
+     "summary": "IT之家 11 月 20 日消息，本月召开的 Ignite 2026 活动中，微软宣布携手英伟达加速本地 AI 体验落地，让 AI 从“必须联网才能用”的云端服务，逐步走向“能在自己电脑上运行”的本地体验。 根据双方公布的合作愿景，搭载英伟达 RTX Spark 的 Windows PC 能运行本地大语言模型能力，让用户不必完全依赖网络，就能在电脑上直接使用 AI 助手、生成内容或处理文档。 本次双方合作为 GPU 加速的 Windows 365 云 PC，引入低延迟图形传输能力 Direct Stream，最多支持两路 60 帧 4K 画面，公开预览预计于 2027 年初推出。该功能可以把云",
+     "source": "IT之家",
+     "zh": "微软携手英伟达升级云 PC 体验：两路 4K 60 帧画面，2027 年预览上线"
+    },
+    {
+     "title": "苹果发布 iOS 27.3 Beta 2 修订版：修复 HomeView 配对问题，Siri AI 可读取 Safari 完整网页内容",
+     "link": "https://www.ithome.com/1/029/751.htm",
+     "pubDate": "Thu, 19 Nov 2026 23:04:03 GMT",
+     "summary": "IT之家 11 月 20 日消息，苹果于当地时间 11 月 19 日发布了 iOS 27.3 Beta 2 和 iPadOS 27.3 Beta 2 的 v2 修订版，版本号均为 24C5049f，同时面向公测版用户开放更新。 IT之家注意到，根据苹果开发者官方网站的更新记录，此次重新发布主要修复了 Siri AI 与苹果智能家居设备 HomeView 配对时可能出现的设置问题。 苹果在更新说明中表示，此前版本存在一项已知问题：当 HomeView 与运行 iOS 27.3 或 iPadOS 27.3 测试版的 iPhone 或 iPad 配对时，设备上的 Siri AI 可能无法正确完成设置",
+     "source": "IT之家",
+     "zh": "苹果发布 iOS 27.3 Beta 2 修订版：修复 HomeView 配对问题，Siri AI 可读取 Safari 完整网页内容"
+    },
+    {
+     "title": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&apos;s resignation (The Information)",
+     "link": "https://www.techmeme.com/261119/p54#a261119p54",
+     "pubDate": "Thu, 19 Nov 2026 18:00:01 -0500",
+     "summary": "The Information : Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation &nbsp; &mdash;&nbsp; Nvidia is in advanced talks to acquire Inception, a two-year-old startup that develops a type of AI that ai",
+     "source": "Techmeme",
+     "zh": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&apos;s resignation (The Information)"
+    },
+    {
+     "title": "CTF_TYPE_1795112585_text",
+     "link": "https://www.huxiu.com/article/4907022.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 06:59:45 +0800",
+     "summary": "type test",
+     "source": "虎嗅",
+     "zh": "CTF_TYPE_1795112585_text"
+    },
+    {
+     "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+     "link": "https://www.ithome.com/1/029/750.htm",
+     "pubDate": "Thu, 19 Nov 2026 22:56:00 GMT",
+     "summary": "IT之家 11 月 20 日消息，彭博社马克 · 古尔曼（Mark Gurman）今日报道称，苹果正在开发自主 AI 智能体，计划让 AI 代替用户执行设备操控、应用操作、网页浏览和软件编程等任务，进一步进入由 OpenAI、Anthropic、Meta 等公司参与竞争的 AI 智能体市场。 古尔曼发现，苹果已经在官网发布招聘信息，其中一份职位招聘面向高级工程经理，岗位名称为“主动式智能体 AI”（Agentic AI - Proactive）。招聘信息称，苹果正在组建团队开发能够代表用户执行任务的 AI 助手，相关系统将具备编写代码、浏览网页、控制应用程序以及操作设备等能力。 苹果在招聘信息",
+     "source": "IT之家",
+     "zh": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争"
+    },
+    {
+     "title": "谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单",
+     "link": "https://www.ithome.com/1/029/749.htm",
+     "pubDate": "Thu, 19 Nov 2026 22:48:06 GMT",
+     "summary": "IT之家 11 月 20 日消息，当地时间 11 月 19 日，谷歌宣布为 macOS 版 Gemini 应用推出全新的“电脑操控”（Computer Use）功能，允许 AI 直接操作 Mac 上的桌面应用、访问本地文件及浏览网页，独立完成多步骤任务（IT之家注：该功能目前面向美国地区的英语用户逐步开放）。 根据谷歌官方介绍，用户只需通过自然语言描述任务，Gemini 就能在不同应用之间切换，执行点击、输入文字、填写表单及操作菜单等任务。 谷歌列举的应用场景包括批量处理照片、从本地 PDF 文件提取信息并填写在线表单、根据实时数据制作演示文稿，以及整理商品信息并在二手交易平台上架销售等。 在",
+     "source": "IT之家",
+     "zh": "谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单"
+    },
+    {
      "title": "Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January (Axios)",
      "link": "https://www.techmeme.com/261119/p53#a261119p53",
      "pubDate": "Thu, 19 Nov 2026 17:45:01 -0500",
@@ -1786,12 +1842,20 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January (Axios)"
     },
     {
-     "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+     "title": "“史上最大 IPO”：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元",
+     "link": "https://www.ithome.com/1/029/748.htm",
+     "pubDate": "Thu, 19 Nov 2026 22:41:40 GMT",
+     "summary": "IT之家 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市， 首日股价以 97.17 美元 （IT之家注：现汇率约合 649.2 元人民币） 收盘，较 83 美元 （现汇率约合 554.5 元人民币） 的发行价上涨 17.07%。 该股开盘即报 111.5 美元 （现汇率约合 744.9 元人民币） ，较发行价高出约 34.3%；盘中一度突破 115 美元 （现汇率约合 768.3 元人民币） ，随后回落至 100 美元 （现汇率约合 668.1 元人民币） 下方。 按收盘价计算，Anthropic 市值约为 1.27 万亿美元 （现汇率",
+     "source": "IT之家",
+     "zh": "“史上最大 IPO”：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元"
+    },
+    {
+     "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
      "pubDate": "Thu, 19 Nov 2026 22:33:26 +0000",
      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
      "source": "TechCrunch",
-     "zh": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you."
+     "zh": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you"
     },
     {
      "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
@@ -1805,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "RegExr: Temporarily Offline",
      "link": "https://regexr.com/",
      "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
-     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 7 # Comments: 7",
      "source": "Hacker News",
      "zh": "RegExr: Temporarily Offline"
     },
@@ -1829,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Synology Security Advisory",
      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
      "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 28 # Comments: 8",
+     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 36 # Comments: 9",
      "source": "Hacker News",
      "zh": "Synology Security Advisory"
     },
@@ -1877,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Rebuilding my local voice assistant pipeline",
      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
      "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
-     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 23 # Comments: 2",
+     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 24 # Comments: 2",
      "source": "Hacker News",
      "zh": "Rebuilding my local voice assistant pipeline"
     },
@@ -1930,18 +1994,18 @@ window.INDUSTRY_DATA = {
      "zh": "Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months (Jyoti Mann/The Information)"
     },
     {
-     "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
-     "link": "https://www.techmeme.com/261119/p48#a261119p48",
-     "pubDate": "Thu, 19 Nov 2026 14:01:15 -0500",
-     "summary": "Owen Dahlkamp / Politico : A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI &nbsp; &mdash;&nbsp; A bipartisan coalition of over two dozen House lawmakers is forming a new artificial intell",
-     "source": "Techmeme",
-     "zh": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)"
+     "title": "512GB 版 Steam Machine 开放直接购买：2TB 版关闭等待名单，1 月公布新供应详情",
+     "link": "https://www.ithome.com/1/029/745.htm",
+     "pubDate": "Thu, 19 Nov 2026 19:00:25 GMT",
+     "summary": "IT之家 11 月 20 日消息，Valve 今日发布 Steam Machine 硬件预订进展公告， 宣布 512GB 型号已完成全部现有预订履约，等待名单清空 ，并已向所有剩余的 2TB 型号预订持有者发出购买邀请邮件。 IT之家附 Steam 官方公告链接（ https://store.steampowered.com/hardware/steammachine ）。 图源：Valve 不过 Valve 同时表示，目前仍持续面临硬件组件供应紧张问题，零部件采购受到明显影响，其中 2TB 型号受冲击最为严重， 等待名单上的用户数量已超过当前产能，即便后续能增产，规模也将远低于原定计划。 S",
+     "source": "IT之家",
+     "zh": "512GB 版 Steam Machine 开放直接购买：2TB 版关闭等待名单，1 月公布新供应详情"
     },
     {
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 51 # Comments: 86",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 53 # Comments: 92",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1952,70 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some models fare better, but all fail in similar ways.",
      "source": "Ars Technica",
      "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
-    },
-    {
-     "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-     "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-     "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 138 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
-    },
-    {
-     "title": "CTF_TYPE_1795112585_video",
-     "link": "https://www.huxiu.com/article/4907023.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 02:23:11 +0800",
-     "summary": "type test",
-     "source": "虎嗅",
-     "zh": "CTF_TYPE_1795112585_video"
-    },
-    {
-     "title": "CTF_TYPE_1795112585_text",
-     "link": "https://www.huxiu.com/article/4907022.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 02:23:07 +0800",
-     "summary": "type test",
-     "source": "虎嗅",
-     "zh": "CTF_TYPE_1795112585_text"
-    },
-    {
-     "title": "CTF_IMG_TEST_1795112415_video",
-     "link": "https://www.huxiu.com/article/4907021.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 02:20:21 +0800",
-     "summary": "test",
-     "source": "虎嗅",
-     "zh": "CTF_IMG_TEST_1795112415_video"
-    },
-    {
-     "title": "Anthropic 跌破开盘价，Claude 上市当天突发性能降级，靠失业焦虑撑起的万亿估值，该踩刹车了",
-     "link": "https://www.huxiu.com/article/4907020.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 01:55:57 +0800",
-     "summary": "本文来自微信公众号： InfoQ ，作者：褚杏娟，原文标题：《Anthropic 跌破开盘价，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了》 Anthropic于当地时间2026年11月19日正式在纳斯达克挂牌上市。其发行价为83美元，实际开盘价为111.50美元，较发行价高约34.3%。 “还没开始交易，暗盘的人已经先赚走两成了。”有网友感慨道。但在开盘后，股价一度快速冲高，随后有所回落。盘中最高触及115.1美元，最低一度跌破开盘价，来到95.05美元。 上市后的一段时间里，纳指、道指、标普500指数都出现了不同幅度的下跌，知名科技公司股价也反复震荡。 巧的是，",
-     "source": "虎嗅",
-     "zh": "Anthropic 跌破开盘价，Claude 上市当天突发性能降级，靠失业焦虑撑起的万亿估值，该踩刹车了"
-    },
-    {
-     "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
-     "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-     "pubDate": "Thu, 19 Nov 2026 17:43:38 +0000",
-     "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html Comments URL: https://news.ycombinator.com/item?id=50563328 Points: 24 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "AI Came for the Coders. Understanding Why Tells Us Who's Next"
-    },
-    {
-     "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
-     "link": "https://www.ithome.com/1/029/744.htm",
-     "pubDate": "Thu, 19 Nov 2026 17:43:34 GMT",
-     "summary": "IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。 报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。 IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。 三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但",
-     "source": "IT之家",
-     "zh": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低"
-    },
-    {
-     "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-     "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-     "source": "WIRED",
-     "zh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents"
     }
    ]
   },
@@ -2025,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "macOS 27.3 public beta 2 now available, here’s everything new",
+     "link": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
+     "pubDate": "Thu, 19 Nov 2026 23:01:25 +0000",
+     "summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release. Here’s what’s coming. more…",
+     "source": "9to5Mac",
+     "zh": "macOS 27.3 public beta 2 now available, here’s everything new"
+    },
+    {
+     "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+     "link": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+     "pubDate": "Thu, 19 Nov 2026 22:56:42 +0000",
+     "summary": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
+     "source": "Engadget",
+     "zh": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G"
+    },
     {
      "title": "ChatGPT Health feature now works with Mac app, Dots, more",
      "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
@@ -2096,14 +2112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates. Here’s what’s new. more…",
      "source": "9to5Mac",
      "zh": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new"
-    },
-    {
-     "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
-     "link": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
-     "pubDate": "Thu, 19 Nov 2026 21:37:58 +0000",
-     "summary": "Apple has released iOS 27.3 public beta 2 for iPhone. Today’s release also includes a new build for iOS 27.3 beta 2 for developers. The update brings new Calendar controls, more Siri AI capabilities, and new features for iPhone Duo. It also includes the redesigned Health app and other changes introd",
-     "source": "9to5Mac",
-     "zh": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build"
     },
     {
      "title": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ubisoft lays off 166 more workers, opens a generative AI studio"
     },
     {
-     "title": "Anthropic is now a public company worth more than $1 trillion",
-     "link": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
-     "pubDate": "Thu, 19 Nov 2026 18:41:26 +0000",
-     "summary": "The company was briefly valued at more than $2 trillion.",
-     "source": "Engadget",
-     "zh": "Anthropic is now a public company worth more than $1 trillion"
-    },
-    {
      "title": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more",
      "link": "https://www.gsmarena.com/amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545.php",
      "pubDate": "Thu, 19 Nov 2026 19:21:02 +0100",
@@ -2274,6 +2274,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月20日",
+     "link": "https://wallstreetcn.com/articles/3786319",
+     "pubDate": "Fri, 20 Nov 2026 07:10:02 +0800",
+     "summary": "华见早安之声 要闻精选 中国 习近平主持中俄美元首会晤。中俄美元首和平宣言。习近平就大国如何正确相处提出4点看法。 阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大。电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正。 拼多多Q3营收1083亿元不及预期，经营利润同比增长25%，股价收涨11%。电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设。 海外 史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿。 美联储副主席杰斐逊：目前A",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月20日"
+    },
+    {
+     "title": "TPG, Corpay to take BILL private in $6B acquisition",
+     "link": "https://seekingalpha.com/news/4674988-tpg-corpay-to-take-bill-private-in-6b-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 18:08:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TPG, Corpay to take BILL private in $6B acquisition"
+    },
+    {
+     "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+     "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+     "pubDate": "Thu, 19 Nov 2026 23:08:02 GMT",
+     "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+     "source": "CNBC",
+     "zh": "California attorney general issues Nvidia subpoena in probe of China chip diversion"
+    },
+    {
+     "title": "Foremost Clean Energy names Chang as new President/CEO",
+     "link": "https://seekingalpha.com/news/4674986-foremost-clean-energy-names-chang-as-new-presidentceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 18:02:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Foremost Clean Energy names Chang as new President/CEO"
+    },
+    {
+     "title": "Here are the major earnings before the open Friday",
+     "link": "https://seekingalpha.com/news/4674723-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 18:00:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Friday"
+    },
+    {
+     "title": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%",
+     "link": "https://wallstreetcn.com/articles/3786267",
+     "pubDate": "Fri, 20 Nov 2026 06:55:31 +0800",
+     "summary": "Anthropic破纪录IPO未能提振市场信心，美股三大指数高开低走，道指自6月以来首次收在5万点下方，标普500与纳指跌幅均超2%。 Anthropic以1073亿美元的估值完成IPO，刷新SpaceX纪录，股价盘中一度较发行价83美元大涨34%，收报97.17美元，涨幅收窄至约17%。 然而上市未能阻止更大范围的抛售，纳斯达克100指数当日振幅逾4个百分点，从盘前上涨2.3%逆转至收跌2.2%。 标普500指数盘中市值蒸发约1.3万亿美元，与Anthropic IPO融资规模大体相当。 市场情绪的急剧逆转令投资者猝不及防。盈透证券首席策略师Steve Sosnick表示，标普500指数起初",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO首日冲高回落，标普、英伟达六连跌，道指跌破5万点，黄金再跌3%"
+    },
+    {
+     "title": "Calif. AG serves Nvidia investigative subpoena over China issues",
+     "link": "https://seekingalpha.com/news/4674985-calif-ag-serves-nvidia-investigative-subpoena-over-china-issues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:54:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Calif. AG serves Nvidia investigative subpoena over China issues"
+    },
+    {
+     "title": "New Zealand Energy launches C$3M private placement, targets oil growth",
+     "link": "https://seekingalpha.com/news/4674987-new-zealand-energy-launches-c3m-private-placement-targets-oil-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 17:54:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "New Zealand Energy launches C$3M private placement, targets oil growth"
+    },
+    {
+     "title": "宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元",
+     "link": "https://wallstreetcn.com/articles/3786320",
+     "pubDate": "Fri, 20 Nov 2026 06:53:14 +0800",
+     "summary": "宝洁公司正推进其历史上规模最大的供应链重组之一。面对大宗商品成本高企与消费需求疲软的双重压力， 这家日用消费品巨头计划在本十年末前将制造及物流员工规模削减20%至30%。 宝洁首席产品供应官Luc Reynaert周四在一场投资者说明会上宣布了上述计划， 削减范围将涵盖合同工。该公司设定的目标是到2030年实现累计生产效率节约100亿美元。 宝洁上月已披露，大宗商品成本上升预计将在本财年带来14亿美元的额外支出。 此次裁员公告对市场而言是一个明确信号：宝洁将以自动化与精简人力作为应对利润承压的核心手段。该公司上一财年（截至去年6月）每股盈利仅增长1%，为2016年以来最低增速。 周四，宝洁收跌",
+     "source": "华尔街见闻",
+     "zh": "宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元"
+    },
+    {
+     "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+     "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 22:53:00 GMT",
+     "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+     "source": "MarketWatch",
+     "zh": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies"
+    },
+    {
      "title": "Gold extends losses below $3,700, pressured by rate-hike bets",
      "link": "https://seekingalpha.com/news/4674964-gold-extends-losses-below-3700-pressured-by-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 17:45:23 -0500",
@@ -2282,52 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Gold extends losses below $3,700, pressured by rate-hike bets"
     },
     {
-     "title": "EQ reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674984-eq-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:44:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EQ reports Q3 results"
-    },
-    {
-     "title": "Butterfield prices $600M notes to help fund CIBC Caribbean acquisition",
-     "link": "https://seekingalpha.com/news/4674983-butterfield-prices-600m-notes-to-help-fund-cibc-caribbean-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:42:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Butterfield prices $600M notes to help fund CIBC Caribbean acquisition"
-    },
-    {
      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 22:41:00 GMT",
      "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
      "source": "MarketWatch",
      "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
-    },
-    {
-     "title": "Turnium Technology sets November 24 date for 1-for-10 reverse split",
-     "link": "https://seekingalpha.com/news/4674981-turnium-technology-sets-november-24-date-for-1-for-10-reverse-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:37:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Turnium Technology sets November 24 date for 1-for-10 reverse split"
-    },
-    {
-     "title": "Nike declares $0.41 dividend",
-     "link": "https://seekingalpha.com/news/4674980-nike-declares-0_41-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:35:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nike declares $0.41 dividend"
-    },
-    {
-     "title": "Starlight U.S. Residential Fund reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674978-starlight-u-s-residential-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:34:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Starlight U.S. Residential Fund reports Q3 results"
     },
     {
      "title": "Congress passes bill to protect older investors from financial fraud",
@@ -2354,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
     },
     {
+     "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
+     "link": "https://wallstreetcn.com/articles/3786269",
+     "pubDate": "Fri, 20 Nov 2026 06:14:13 +0800",
+     "summary": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计最高水平、将公司市值推升至2万亿美元以上，但狂热很快“退烧”。股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅，盘后还较收盘",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿"
+    },
+    {
      "title": "Meta拟推出AI设备Muse Charm，售价300美元，智能手表推迟至2027年",
      "link": "https://wallstreetcn.com/articles/3786316",
      "pubDate": "Fri, 20 Nov 2026 06:12:22 +0800",
@@ -2370,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway"
     },
     {
-     "title": "拼多多大涨！Q3营收1083亿元不及预期，经营利润同比增长25%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3786292",
-     "pubDate": "Fri, 20 Nov 2026 06:05:47 +0800",
-     "summary": "拼多多第三季度营收基本持平且低于市场预期，但调整后每ADS收益超预期。尽管收入增长放缓，费用支出收缩仍推动公司经营利润实现两位数增长，但净利润基本持平。 11月19日，拼多多公布截至2026年9月30日的第三季度未经审计财务业绩。 公司当季实现营收1083.41亿元人民币，同比增长约0.1%，低于市场预估的1152.1亿元；Non-GAAP摊薄每ADS收益为21.04元，高于市场预估的18.54元。 业务方面，公司两大收入板块表现分化。在线营销服务及其他收入同比增长12%，至598.19亿元；交易服务收入同比下降12%，至485.22亿元，后者下滑抵消了在线营销业务的部分增长。 盈利方面，销售",
-     "source": "华尔街见闻",
-     "zh": "拼多多大涨！Q3营收1083亿元不及预期，经营利润同比增长25%｜财报见闻"
-    },
-    {
      "title": "Markets are sending troubling signals about the state of the economy",
      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 21:57:00 GMT",
      "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
      "source": "MarketWatch",
      "zh": "Markets are sending troubling signals about the state of the economy"
-    },
-    {
-     "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
-     "link": "https://wallstreetcn.com/articles/3786269",
-     "pubDate": "Fri, 20 Nov 2026 05:56:44 +0800",
-     "summary": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计的最高涨幅、将公司市值推升至2万亿美元以上，但狂热很快“退烧”，股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅，盘后还较收",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿"
     },
     {
      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
@@ -2408,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
      "source": "CNBC",
      "zh": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
-    },
-    {
-     "title": "Anthropic首日股价冲高回落，彭博称其IPO或标志AI行情终结",
-     "link": "https://wallstreetcn.com/articles/3786313",
-     "pubDate": "Fri, 20 Nov 2026 05:40:53 +0800",
-     "summary": "Anthropic的大规模IPO看上去是对AI交易的信心投票，但彭博经济学家给出了相反的解读。 11月19日，据彭博经济学经济学家Anna Wong的分析，自9月以来，也就是Anthropic招股书所载财务数据的截止期（9月30日），其每百万token的实际价格已大幅下滑。 同期token使用量激增，但市场份额并未随之上升，甚至小幅走低。公司在让渡了相当一部分价格溢价之后，并未换来更强的竞争地位。 简单来说，技 术领先和旺盛的AI需求，并没有转化为持久的定价能力。对投资者而言，这意味着AI交易赖以支撑的估值逻辑，正面临一次来自基本面的检验。 周四Anthropic以ANT为代码正式挂牌，上市首",
-     "source": "华尔街见闻",
-     "zh": "Anthropic首日股价冲高回落，彭博称其IPO或标志AI行情终结"
     },
     {
      "title": "六家公募上报 新的ETF产品有何来头?",
@@ -2466,22 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "11月13日，全球投资者（通过基金）对泰国股市的净买入创一个月新高"
     },
     {
-     "title": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“六连跌”",
-     "link": "https://wallstreetcn.com/articles/3786239",
-     "pubDate": "Fri, 20 Nov 2026 05:32:41 +0800",
-     "summary": "英伟达交出超预期财报，新任管理层高调亮相、承诺薪酬激励，却依然未能止住股价颓势。 周四，公司股价再度下跌超3.3%，早盘股价一度反弹近5%，但最终逐步回吐涨幅转跌，创下连续六日下跌纪录。 英伟达临时CEO科莱特·克雷斯（Colette Kress）在周二的分析师电话会议上首次以CEO身份主持财报发布，上调公司销售预期，并就旗下新兴云客户支持政策作出表态。周三盘前英伟达股价一度大涨约4%。 然而，这轮涨势在会后全部回吐，股价终以下跌约2%至3%收盘。道琼斯援引华尔街人士反应称， 市场并不买账管理层\"一切如常\"的定调。 自创始人黄仁勋辞去CEO职务的消息曝光以来，英伟达股价已累计下跌约13%，距5",
-     "source": "华尔街见闻",
-     "zh": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“六连跌”"
-    },
-    {
-     "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-     "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 21:27:00 GMT",
-     "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
-     "source": "MarketWatch",
-     "zh": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday"
-    },
-    {
      "title": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元",
      "link": "http://finance.eastmoney.com/news/1345,202611203935424713.html",
      "pubDate": "Fri, 20 Nov 2026 05:22:48 +0800",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
      "source": "Financial Times",
      "zh": "Anthropic shares jump 17% after record Wall Street listing"
-    },
-    {
-     "title": "美股三大股指集体收跌 跌幅均超2% 英伟达跌超3%",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
-     "pubDate": "Fri, 20 Nov 2026 05:00:32 +0800",
-     "summary": "美东时间周四，美股三大股指集体收跌。截止收盘，道琼斯指数跌2.19%，标普500指数跌2.02%， 纳斯达克 综合 指数跌2.25%。 Anthropic 纳斯达克 首秀，较发行价上涨17.1%，报97.17美元/股，市值达1.27万亿美元。 芯片股高开低走， 英伟达 跌超3%，连续第六天下跌， 美光科技 、 博通 跌超2%。其他权重科技股也多数下挫， 亚马逊 跌近4%，Meta、 SpaceX 跌超3%，谷歌跌近3%； 英特尔 涨近2%。 AMD重挫近8%，做空机构Hunterbrook警告称其采用了与 英伟达 类似的“循环交易”。 纳斯达克 中国金龙指数收跌1.86%，热门中概股多数下跌，",
-     "source": "东方财富资讯",
-     "zh": "美股三大股指集体收跌 跌幅均超2% 英伟达跌超3%"
     }
    ]
   },
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Solo meerkats can find their way back home",
+     "link": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
+     "pubDate": "Thu, 19 Nov 2026 23:00:45 +0000",
+     "summary": "Meerkats wearing GPS trackers found their way home from more than a kilometer away, all by themselves.",
+     "source": "Science News",
+     "zh": "Solo meerkats can find their way back home"
+    },
     {
      "title": "AI helps researchers investigate how thousands of medical studies share code",
      "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "The artist had no formal math education, yet as a new exhibition shows, the insights revealed in his artwork became an enduring inspiration to mathematicians. The post How M.C. Escher’s Art Creates Bizarre Mathematical Worlds first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds"
-    },
-    {
-     "title": "Cracks in public health grew in 2026",
-     "link": "https://www.sciencenews.org/article/public-health-2026-outbreaks-measles",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Outbreaks of measles, cyclosporiasis, Ebola and hantavirus exposed a weakened U.S. public health response.",
-     "source": "Science News",
-     "zh": "Cracks in public health grew in 2026"
     },
     {
      "title": "Why do farts smell so bad? The secret is brewing in your gut",

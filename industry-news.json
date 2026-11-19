@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 08:52:01",
+ "generated_at": "2026/11/19 09:11:57",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
      "source": "TechCrunch AI",
      "zh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
-    },
-    {
-     "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-     "link": "https://www.qbitai.com/2026/11/510947.html",
-     "pubDate": "Thu, 19 Nov 2026 00:26:40 +0000",
-     "summary": "国产AI工具实现「一个人就是一个剧组」",
-     "source": "量子位",
-     "zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！"
     },
     {
      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -247,6 +239,14 @@
      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
      "source": "量子位",
      "zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
+    },
+    {
+     "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+     "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+     "pubDate": "Wed, 18 Nov 2026 07:10:53 +0000",
+     "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode ap",
+     "source": "MarkTechPost",
+     "zh": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Microsoft&rsquo;s chip packaging deal hands Intel credibility more than revenue",
+     "link": "https://www.digitimes.com/news/a20261119VL209/microsoft-intel-azure-packaging-intel-foundry.html",
+     "pubDate": "Thu, 19 Nov 2026 00:53:54 GMT",
+     "summary": "Microsoft has become the first company to publicly commit to Intel Foundry's EMIB advanced packaging for its own Azure chips. This deal matters less for the revenue it brings Intel today than for what it signals: advanced packaging, a step long dominated by TSMC, is becoming a service hyperscalers a",
+     "source": "DIGITIMES",
+     "zh": "Microsoft&rsquo;s chip packaging deal hands Intel credibility more than revenue"
+    },
     {
      "title": "Nvidia's interim CEO tells staff \"let's move forward\" at first all-hands since Huang's exit",
      "link": "https://www.digitimes.com/news/a20261119VL200/nvidia-ceo-staff-earnings-jensen-huang.html",
@@ -295,14 +303,6 @@
      "summary": "Netronix says its order visibility extends through the second quarter of 2027, when a major customer is due to launch a next-generation full-color e-reader. Netronix will be the sole supplier for the global debut. In the near term, higher retail prices have slowed e-reader sales, and the company exp",
      "source": "DIGITIMES",
      "zh": "Netronix, Kobo aim for a second breakout with full-color e-reader"
-    },
-    {
-     "title": "US tightens AI chip controls, freezing ByteDance's US$480 million loan",
-     "link": "https://www.digitimes.com/news/a20261118PD251/loan-bytedance-ai-chip-chips-financing.html",
-     "pubDate": "Wed, 18 Nov 2026 23:48:23 GMT",
-     "summary": "Banks have frozen a US$480 million loan intended to purchase advanced Nvidia chips for remote use by ByteDance, the parent company of TikTok, after the US tightened AI chip export controls on November 16.",
-     "source": "DIGITIMES",
-     "zh": "US tightens AI chip controls, freezing ByteDance's US$480 million loan"
     },
     {
      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Permian Growth Turns Moderate Despite War",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Permian-Growth-Turns-Moderate-Despite-War.html",
+     "pubDate": "Wed, 18 Nov 2026 19:00:00 -0600",
+     "summary": "Crude oil production in the most prolific basin in the United States has remained moderate despite the war premium that pushed prices to over $100 a barrel. For some, however, the very fact of production growth in the Permian is a surprise. The Permian has been the engine driving U.S. crude oil outp",
+     "source": "OilPrice",
+     "zh": "Permian Growth Turns Moderate Despite War"
+    },
+    {
      "title": "Google Signs Landmark Superhot Geothermal Deal",
      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Google-Signs-Landmark-Superhot-Geothermal-Deal.html",
      "pubDate": "Wed, 18 Nov 2026 18:00:00 -0600",
@@ -903,14 +911,6 @@
      "summary": "Iraq’s closure of the Al-Sheeb crossing with Iran is less an economic rupture than a test of whether Baghdad can secure its borders without damaging its economy. The immediate costs are concentrated in Maysan Province and are manageable, at least for now. A wider, prolonged shutdown would be differe",
      "source": "OilPrice",
      "zh": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis"
-    },
-    {
-     "title": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
-     "link": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 -0600",
-     "summary": "QazaqGaz, Kazakhstan’s vertically integrated national gas company, has signed a contract with a Chinese consortium to build a gas processing plant with an annual capacity of 2.5 billion cubic meters (bcm) pumped from the Kashagan field. Under the turnkey arrangement, the consortium will manage every",
-     "source": "OilPrice",
-     "zh": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia"
     },
     {
      "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
@@ -1769,6 +1769,102 @@
    "total": 18,
    "items": [
     {
+     "title": "Edge AI Daily 早报（11月19日）",
+     "link": "https://www.tmtpost.com/8210615.html",
+     "pubDate": "Thu, 19 Nov 2026 09:05:50 +0800",
+     "summary": "英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开验证。微软Ignite将Office/Copilot升级为智能体工作系统，推跨供应商AI透明度治理；OpenAI加码销售入口。Claude三日适配AMD、OVHcloud开源Olala，冲击CUDA与云模型入口。速卖通联合CJ、阿里参与系统战，中国出海升温。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（11月19日）"
+    },
+    {
+     "title": "仇某某团队的论文啥时候能被“自然”撤稿？",
+     "link": "https://www.huxiu.com/article/4906718.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:05:19 +0800",
+     "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园，原文标题：《仇某某团队的论文啥时候能被《自然》撤稿？》 11月13日，上海市就2025年3月一名女童在上海交大附属新华医院接受交大仇子龙团队研发的基因编辑治疗后死亡事件发布了调查报告： 调查的方向包括两个，一个是新华医院承担的临床研究——6岁幼童在接受试验性的基因编辑治疗后因严重不良反应死亡；另一个是临床研究的基础——相关基因治疗的临床前研究以论文形式在2026年2月发表在著名学术期刊《自然》上，该论文自从受试者死亡被曝光后一直备受质疑。 而根据调查组的结论，这篇论文确实有问题： “发表论文时未及时披露于2025年2月完成的非人",
+     "source": "虎嗅",
+     "zh": "仇某某团队的论文啥时候能被“自然”撤稿？"
+    },
+    {
+     "title": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)",
+     "link": "https://www.techmeme.com/261118/p52#a261118p52",
+     "pubDate": "Wed, 18 Nov 2026 20:05:00 -0500",
+     "summary": "New York Times : NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features &nbsp; &mdash;&nbsp; Google's refusal to unbundle A.I. features from search for students prompted a backlash.&nbsp; Now sch",
+     "source": "Techmeme",
+     "zh": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)"
+    },
+    {
+     "title": "华勤273亿新生意只换回2亿",
+     "link": "https://www.huxiu.com/article/4906716.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:01:54 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 这两年，AI服务器订单越来越多，产业链上的公司都忙起来了。订单多了，收入涨了，利润总该跟着涨吧？ 华勤技术的三季报却有点别扭： 今年第三季度，它比去年同期多做了273亿元生意，扣掉那些偶尔发生的收益和损失，利润只多了2.17亿元。 生意确实大了，赚的钱也多了，可两边差得实在有点远；华勤接下这么多算力订单，到底能留下多少？它赚的钱里，还有三分之一跟接多少单没关系。 …… 那273亿元新增收入，带来的毛利只有13.04亿元。 相当于每多卖100元东西，只多带来4.77元毛利，华勤当季整体毛利率还有6.89%呢。 当然，这算的是公司全部业务的增量，不能直",
+     "source": "虎嗅",
+     "zh": "华勤273亿新生意只换回2亿"
+    },
+    {
+     "title": "奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展",
+     "link": "https://www.ithome.com/1/029/158.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:00:15 GMT",
+     "summary": "IT之家 11 月 19 日消息，美国当地时间 11 月 18 日周三召开的 DealBook 峰会上， OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，其公司正在“安全”与“发展”寻找 AI 平衡点。 奥尔特曼和 OpenAI 总裁格雷格 · 布罗克曼（Greg Brockman）共同参与本次活动，他们表示在推进 AI 发展的进程中不可避免地会遇到风险，因此公司必须在优先保障安全和持续创新之间做出取舍。 奥尔特曼在访谈中坦言，OpenAI 不可能“让所有人都满意”。他称，如果公司只顾“踩满油门”追求技术突破，公众会担心人工智能失控；但若过度强调安全，也可能延缓产品和技",
+     "source": "IT之家",
+     "zh": "奥尔特曼称 OpenAI 没法让所有人满意，必须平衡 AI 安全与发展"
+    },
+    {
+     "title": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？",
+     "link": "https://www.baijing.cn/question/638814",
+     "pubDate": "Thu, 19 Nov 2026 00:58:11 +0000",
+     "summary": "我们做葡语短剧出海，主攻巴西，团队 12 人，月投放预算约 8 万美元，主要在 Meta 和 TikTok 上跑，剧集用葡语配音加本地演员补拍。上个月起量后单日消耗冲到 3000 美元，付费转化率 1.8%，看起来 ROI 能打正。但卡在钱上：巴西本地支付走 Pix 和信用卡分期，Pix 到账快，信用卡分期回款要 30 到 45 天，加上本地收单方结算 T+15，现金流被压得很紧。试过换两家本地收单通道、把分期期数从 12 期压到 6 期，回款周期只缩短了 5 天左右，分期转化率反而掉了两成。现在不敢继续放量，卡在回款周期和放量节奏怎么匹配这一步。想直接问：在巴西做短剧投放，回款周期压到多少天",
+     "source": "白鲸出海",
+     "zh": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？"
+    },
+    {
+     "title": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature",
+     "link": "https://www.huxiu.com/article/4906715.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:57:01 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：李娟 前额叶，一个科学名词，生生被玩成了网络“热梗”，以至于“富养前额叶”成了当代养生时尚。但它在科学上足够站得住脚吗？ 在科学期刊上，“没发现”历来最难发表。这一次，32个国际团队汇集40套脑成像数据、2175名参与者，按预先注册的方案寻找情绪调节能力的大脑印记，结果几乎处处扑空，Nature却发表了它。这项阴性结果的分量在于：它不是没测出来，而是有把握地说“确实没有”。 本文收录于合集前沿追踪 “我不是摆烂，只是前额叶下线了。” “一点就炸？你的理智刹车——前额叶失灵了。” “择偶新标准：找一个前额叶友好的人。” 最近，前额叶成了网络热词。拖延、易怒、专",
+     "source": "虎嗅",
+     "zh": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature"
+    },
+    {
+     "title": "特斯拉第二代 Roadster 将亮相洛杉矶车展：计划 2028 年量产，顶配 Rocket 版能飞",
+     "link": "https://www.ithome.com/1/029/157.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:54:38 GMT",
+     "summary": "IT之家 11 月 19 日消息，特斯拉第二代 Roadster 将于当地时间 11 月 20 日起在美国洛杉矶车展展出。 这款电动跑车已于 2026 年 10 月 15 日首发亮相，采用冷气体推进器等技术，顶配 Rocket 版本被特斯拉称为具备飞行能力，量产计划则定于 2028 年启动。 洛杉矶车展官方信息显示，2026 年车展将于 11 月 20 日至 29 日在洛杉矶会议中心举行，为期 10 天，参展品牌接近 24 个，包括特斯拉、Rivian、Lucid 和保时捷等。 这款新车配备冷气体推进器和吸附系统，现场演示包括沿弧形坡道行驶、倒挂以及腾空翻转等动作。特斯拉还展示了车辆在空中进行",
+     "source": "IT之家",
+     "zh": "特斯拉第二代 Roadster 将亮相洛杉矶车展：计划 2028 年量产，顶配 Rocket 版能飞"
+    },
+    {
+     "title": "华为最薄手表 WATCH Air 更多规格曝光：6.9mm 机身厚度、86% 屏占比",
+     "link": "https://www.ithome.com/1/029/156.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:53:52 GMT",
+     "summary": "IT之家 11 月 19 日消息，数码博主 @数码闲聊站 今日发文透露华为 WATCH Air 的屏幕、材质与机身参数，华为史上最薄机身、最窄黑边、最大屏占比，集齐三个“华为之最”。 据博主介绍，华为 WATCH Air 配备 1.92 英寸 AMOLED 方屏，边框为 1.4mm 极窄四等边，屏占比达到 86% ，峰值亮度 3500nits，并采用 LTPO 2.0。博主称，该手表拥有华为智能手表史上最窄黑边与最大屏占比。 材质方面，博主称华为 WATCH Air 首次采用高亮钛合金一体化工艺 ，强度高于普通铝合金，并搭配轻薄机身。 机身结构上，博主称该手表采用全新结构设计，厚度压至 6.9",
+     "source": "IT之家",
+     "zh": "华为最薄手表 WATCH Air 更多规格曝光：6.9mm 机身厚度、86% 屏占比"
+    },
+    {
+     "title": "别再扯什么AI组织了，这事儿等到下辈子也看不见",
+     "link": "https://www.huxiu.com/article/4906713.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:52:48 +0800",
+     "summary": "本文来自微信公众号： ToBeSaaS ，作者：戴珂 最近常被拉去参加一些会议，各路专家一本正经地大讲特讲AI组织。这事太扯了，让人听不下去，也懒得去辩论。 他们讲的都是同一件事：管理层砍光，流程重画，治理省掉，公司交给AI，它自己就能跑得很好。 这话听着像未来学。它其实是许愿。 判断一个愿望能不能兑现，有个省事的办法：别讨论它多美好，去看它要成立得先满足哪些条件，那些条件今天有没有。 把它当四件事，一件一件查。 01 层级不是信息管道，是签字的地方 这一整套说法的地基，是一个等式：组织的层级，等于信息传递的通道。 这个等式对，但只对了一半。 层级确实在传信息。信息不全就往上跑，活要跨部门就排",
+     "source": "虎嗅",
+     "zh": "别再扯什么AI组织了，这事儿等到下辈子也看不见"
+    },
+    {
+     "title": "电子榨菜，也得把人当人",
+     "link": "https://www.huxiu.com/article/4906711.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:50:31 +0800",
+     "summary": "本文来自微信公众号： 携隐Melody ，作者：携隐，题图来自：视觉中国 我发现很多人跟综艺和影视剧的关系，是人和工具的关系 （I-It） ，它们纯粹就是用来消遣娱乐的&ldquo;东西&rdquo;。 既然是这样的主客体关系，那么剧里的角色也好，为剧营业的演员也罢，甚至综艺中的真人，都不再是活生生的人，而是&ldquo;被我买单的情绪价值&rdquo;，和&ldquo;供我投射的像素块&rdquo;。 所以攻击起来毫无心理负担。因为人们不会对一台榨汁机讲共情。既然你是供我消遣的客体，那我顺着剪辑的引导，凭着30秒的切片，给你贴标签，用最恶毒的字眼审判你的人格，做出各种毫无根据的猜测，不过就是",
+     "source": "虎嗅",
+     "zh": "电子榨菜，也得把人当人"
+    },
+    {
+     "title": "微软纳德拉示警：比“千年虫”更棘手，AI 正让网络变得越来越脆弱",
+     "link": "https://www.ithome.com/1/029/154.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:41:27 GMT",
+     "summary": "IT之家 11 月 19 日消息，美国当地时间 11 月 18 日在《纽约时报》DealBook 峰会上，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）表示， 近期频发的网络中断可能并非偶发事件，随着人工智能系统能力增强，全球数字基础设施的稳定性正面临更复杂的考验。 针对近期接连出现的网络中断究竟是“反常现象”还是“新常态”，纳德拉表示目前尚难判断。 他将当前形势与“千年虫”（Y2K）问题作类比：当年人们担心进入 2000 年后计算机系统会大面积瘫痪，但那本质上是一个已知漏洞，且只持续一天；而如今，若 AI 模型能力持续增强，其带来的系统性风险和连锁反应可能更难预测。 IT之家",
+     "source": "IT之家",
+     "zh": "微软纳德拉示警：比“千年虫”更棘手，AI 正让网络变得越来越脆弱"
+    },
+    {
      "title": "平台在慌，人也在慌",
      "link": "https://www.huxiu.com/article/4906710.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 08:40:56 +0800",
@@ -1780,17 +1876,9 @@
      "title": "Elon Musk says: ‘I’m not MAGA’",
      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
      "pubDate": "Thu, 19 Nov 2026 00:40:49 +0000",
-     "summary": "During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+     "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
      "source": "TechCrunch",
      "zh": "Elon Musk says: ‘I’m not MAGA’"
-    },
-    {
-     "title": "腾讯新AI产品单季拖累152亿",
-     "link": "https://www.huxiu.com/article/4906707.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:40:19 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清 大家终于知道了，什么叫“生死存亡的时刻”。 2026年第三季度，腾讯控股实现总收入2073亿元，按报表百万元原值复算同比增长7.5%（公告四舍五入口径为8%）。 顶层营收盘子还在稳步扩大，简明综合损益表中间的营业利润却掉头向下。 当季腾讯录得经营盈利591亿元，同比下滑6.9%，整体经营利润率比去年同期收窄了四个百分点。 主业多收进来的营收增量没能留存为利润，反而倒扣走了一截原有的经营盈利。 2026年11月18日披露的第三季度业绩文件，将这组增收不增利的同表温差摆上了台面。 多收进来的主业营收增量究竟被哪一块支出吃掉了？ 顺着业绩公告附注与中英文",
-     "source": "虎嗅",
-     "zh": "腾讯新AI产品单季拖累152亿"
     },
     {
      "title": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)",
@@ -1801,36 +1889,28 @@
      "zh": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)"
     },
     {
-     "title": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”",
-     "link": "https://www.huxiu.com/article/4906709.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:38:13 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：Fleming，编辑：|陆一鸣 “十元快剪暴打全国设计总监”的热搜一出，人们发现，年轻人又悄悄捧红了路边的快剪店。实际上，理发店这门生意很难简单分为“十元”和“百元”，这中间还有不少需求没挤进这场擂台赛。大多数人希望找到一家离家近价格在可接受范围内的理发店，“设计”不必成为加价理由，“便民”也不至于让我不好意思提要求。 “没有人能笑着从理发店里出来。”以前我总以为这是顾客的心声。最近才发现，这句话对于理发师也适用。 最近，“十元快剪暴打全国设计总监”的话题一出，老师傅终于等来属于自己的短剧逆袭剧本。超市角落、路边野摊的无名高手，手持一把电推子，就能让全城的",
-     "source": "虎嗅",
-     "zh": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”"
-    },
-    {
-     "title": "平台为什么管不住黑心的师傅们",
-     "link": "https://www.huxiu.com/article/4906708.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:37:51 +0800",
-     "summary": "本文来自微信公众号： 匹夫老六说财税 ，作者：匹夫老六 前两天看新闻，又看到一个维修刺客的事，修燃气灶，记者找了一台完全正常的燃气灶，把里面电池换成没电的废电池。弄好之后，在维修平台下单找师傅维修。 找了好几个测试，都说这坏了那坏了，得好几百。 后来他们又换了一种方式测，关闭了燃气管道的自闭阀，然后燃气灶就打不着火了。 还是找平台下单，结果一样，还是说这坏了那坏了，好几百。 实际上他们什么也没修，只是趁人不被注意，偷偷打开了自闭阀。 真是无比的熟悉啊，去年我就遇到个类似的事，当时我本来想写个文章吐槽一下，后来工作太忙，也就没写。 这种事最可气的就是被人当傻子一样戏耍。 其实大部分人，对这类事容",
-     "source": "虎嗅",
-     "zh": "平台为什么管不住黑心的师傅们"
-    },
-    {
-     "title": "美军把《GTA 6》变成留人福利：可 4 天畅玩游戏，43 名士兵已续签兵役合同",
-     "link": "https://www.ithome.com/1/029/150.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:28:29 GMT",
-     "summary": "IT之家 11 月 19 日消息，华盛顿邮报今天（11 月 19 日）发布博文，报道称美国陆军佐治亚州斯图尔特堡第 9 旅工兵营推出特殊留队激励：士兵若在规定期限内重新入伍、续签兵役合同，即可获得 4 天特别假期，让其畅玩《侠盗猎车手 6》（GTA6）游戏。 最终，该营 130 名符合条件的士兵中，有 43 人选择签约，续期从 2 年到 6 年不等。 这项政策由该营指挥官于 7 月底签署备忘录提出，适用于 8 月 1 日至 11 月 14 日期间重新入伍的士兵。军方强调，4 天假期并非续签的唯一原因，此外叠加现金奖励、岗位选择等常规留队激励之上的“额外福利”。 这项“游戏假”定于 11 月 1",
+     "title": "微信鸿蒙版 App 获 8.0.23.46 邀测升级",
+     "link": "https://www.ithome.com/1/029/153.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:39:31 GMT",
+     "summary": "IT之家 11 月 19 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.46 (8394542) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/18-2026/12/18。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 以及 MeoW 反馈，8.0.23 版微信中发现的新特性包括但不限于（IT之家注：不局限于 8.0.23.46）： 0.部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 1.更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化",
      "source": "IT之家",
-     "zh": "美军把《GTA 6》变成留人福利：可 4 天畅玩游戏，43 名士兵已续签兵役合同"
+     "zh": "微信鸿蒙版 App 获 8.0.23.46 邀测升级"
     },
     {
-     "title": "Rockstar 解释《GTA 6》为何删减经典玩法：主线围绕 Jason 和 Lucia 情侣展开，仅保留符合人物情感与动机的设计",
-     "link": "https://www.ithome.com/1/029/149.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:27:16 GMT",
-     "summary": "IT之家 11 月 19 日消息，《侠盗猎车手 Ⅵ》（GTA 6）解禁后，有玩家发现 R 星取消了该系列延续多年的一项玩法：玩家无法再在街头招揽性工作者并付费购买相关服务。 为此，Rockstar Games 向游戏媒体 Shacknews 解释称，这一调整主要是为了配合游戏的核心故事和人物关系，并非出于外界猜测的其他原因。 Rockstar 表示：“《GTA 6》讲述的是一对陷入困境、亡命天涯的情侣的故事。虽然我们继承了此前《GTA》系列作品中的许多内容，但在《GTA 6》中加入的所有元素，都服务于我们希望讲述的故事，以及希望进一步扩展的游戏系统，例如通缉系统、广播电台、抢劫和汽车盗窃。” ",
+     "title": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与",
+     "link": "https://www.ithome.com/1/029/152.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:36:12 GMT",
+     "summary": "IT之家 11 月 19 日消息，每日经济新闻今日援引供应链消息，OpenAI 首款 AI 硬件产品计划于 2026 年底启动出货，多家中国厂商参与该项目，其中立讯精密独家承担整机制造，并同时供应核心零部件。关于这款硬件的具体形态，OpenAI 官方尚未正式公布。 此前有报道称，该设备由 OpenAI 与前苹果首席设计官 Jony Ive 的 LoveFrom 工作室合作开发，可能是一款外形类似“甜甜圈”、尺寸接近冰球的无屏设备，集成麦克风、扬声器、摄像头及多种环境传感器，主要依靠语音交互并具备感知周围环境的能力。传闻中该产品定价可能在 300 至 400 美元 （现汇率约合 2,004 至 ",
      "source": "IT之家",
-     "zh": "Rockstar 解释《GTA 6》为何删减经典玩法：主线围绕 Jason 和 Lucia 情侣展开，仅保留符合人物情感与动机的设计"
+     "zh": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与"
+    },
+    {
+     "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+     "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+     "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
+     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 17 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Gemini 4 Neon looks like an Opus 5.5 competitor"
     },
     {
      "title": "At DealBook, Elon Musk says he feels \"pretty foolish\" after spending nearly $500M backing Republicans in midterms won by Democrats and claims \"I&apos;m not MAGA\" (Todd Spangler/Variety)",
@@ -1849,22 +1929,6 @@
      "zh": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)"
     },
     {
-     "title": "三星 Galaxy Buds Active 耳挂式耳机曝光，支持 IP68 防水和主动降噪",
-     "link": "https://www.ithome.com/1/029/148.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:22:57 GMT",
-     "summary": "IT之家 11 月 19 日消息，据 SammyGuru 今日报道，该媒体在三星最新 One UI 9.5 测试版固件中发现了 Galaxy Buds Active 的大量信息，这款耳机采用耳挂式入耳设计，支持 IP68 防水与主动降噪。 IT之家从报道获悉，Galaxy Buds Active 的耳挂会环绕耳廓上方，但它并不是开放式耳机。三星在教程中提示用户先将耳塞放入耳道，再向上旋转耳机，直到佩戴稳固。该耳机随附两种不同类型的耳塞，用户可以混搭组合，以改善音质并形成防水密封。 防水方面，三星固件将该耳机标注为 IP68 等级 ，并描述其可在出汗或接触水时受到保护。三星提示，耳机沾水后应甩掉",
-     "source": "IT之家",
-     "zh": "三星 Galaxy Buds Active 耳挂式耳机曝光，支持 IP68 防水和主动降噪"
-    },
-    {
-     "title": "为什么最好的孵化器，都越来越不像孵化器",
-     "link": "https://www.huxiu.com/article/4906703.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:20:45 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 你能随口说出几家孵化器的名字吗？ 大多数人一家也说不上来。可中国孵化器的数量，2014年就已经是全世界第一了。 据统计，现在全国大约有1.6万家孵化载体，遍布95%的县级以上地区。 但奇怪的是，这么庞大的一个行业，存在感却非常弱。 所以咱们今天聊聊这个事儿，以及我们认为： 最好的孵化器，越来越不像孵化器了。 故事得从1987年说起。 那年6月，武汉东湖新技术创业者中心挂牌，这是中国第一家科技企业孵化器。它没有自己的房子，后来的行业史管这叫“借巢孵化”。 39年后，工信部从1.6万家孵化器里挑出了第一批14家卓越级孵化器。 这14家里",
-     "source": "虎嗅",
-     "zh": "为什么最好的孵化器，都越来越不像孵化器"
-    },
-    {
      "title": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)",
      "link": "https://www.techmeme.com/261118/p49#a261118p49",
      "pubDate": "Wed, 18 Nov 2026 19:20:01 -0500",
@@ -1873,36 +1937,12 @@
      "zh": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)"
     },
     {
-     "title": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位",
-     "link": "https://www.ithome.com/1/029/147.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:19:17 GMT",
-     "summary": "IT之家 11 月 19 日消息，当地时间 11 月 16 日，微软 CEO 萨提亚 · 纳德拉在接受《The Pragmatic Engineer》播客节目采访时谈到了一些大家关心的问题。 当被问及公司面向约 6 万名员工推出自愿离职计划，是否意味着微软将借助 AI 提高效率并进一步裁员。 对此，纳德拉没有直接给出肯定或否定的答复，而是坦言，随着 AI 改变软件开发方式，微软员工的工作模式和团队组织结构都将发生变化。 纳德拉表示，微软希望旗下超过 20 万名员工都能继续成长，但公司需要以不同方式重新配置员工队伍。他指出，未来仍然存在大量职业发展机会，不过这些机会的具体形态可能有所不同，包括团",
-     "source": "IT之家",
-     "zh": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位"
-    },
-    {
-     "title": "吉利银河首款旗舰大五座 SUV，银河 M8 五款车色首发亮相",
-     "link": "https://www.ithome.com/1/029/146.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:15:28 GMT",
-     "summary": "IT之家 11 月 19 日消息，吉利银河近日公布旗下首款旗舰大五座 SUV—— 银河 M8 更多车型信息，新车将提供五款全新车色，将于 2026 年第四季度正式上市。 IT之家注意到，银河 M8 提供沧海银蓝、月瓷白、云绒米、玄夜黑以及鎏金棕五款车色。新车整体造型与吉利银河 M9 保持一致，车头配备带星光点缀的贯穿式灯带，下包围设有主动进气格栅。 尺寸方面，该车长宽高为 5205mm*1999mm*1800mm ，轴距 3030mm，采用大五座布局。车尾造型同样与银河 M9 基本保持一致。 根据选装信息，该车可选金色车标，预计推出黑金智曜高定版；轮圈提供 20 英寸、21 英寸两种规格，共四",
-     "source": "IT之家",
-     "zh": "吉利银河首款旗舰大五座 SUV，银河 M8 五款车色首发亮相"
-    },
-    {
-     "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-     "link": "https://www.ithome.com/1/029/145.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:09:16 GMT",
-     "summary": "IT之家 11 月 19 日消息，OpenAI 今天（11 月 18 日）发布题为《管理前沿 AI 风险：从训练到部署》的安全政策说明， 首次系统披露研发、内部使用到公开发布阶段，如何在高能力模型的全生命周期中管控风险。 IT之家援引博文介绍，OpenAI 称由于前沿模型的能力正快速增强，因此理解、对齐和保障模型的能力必须“始终领先一步”。公司维持引入“安全案例”流程，要求在训练全程提供更有力的行为对齐证据；这些措施虽会拖慢发布节奏，但会增强安全推进的信心。 OpenAI 强调其保护措施围绕四层展开： 模型对齐：对齐就是让 AI 系统能够可靠地按照我们预期的方式行动。模型必须在尊重政策和更广泛",
-     "source": "IT之家",
-     "zh": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天"
-    },
-    {
-     "title": "R星如何制造《GTA6》：10亿美金，5000人的苦行，一代人的梦",
-     "link": "https://www.huxiu.com/article/4906701.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:08:37 +0800",
-     "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 享受现在吧，哥们。 01 是商业奇观，也是时代落幕 我一直觉得，中国游戏人对GTA有一种特殊的情结。 作为一个商业游戏项目，它足够大，足够难，足够成功，是那种最能展现一家公司如何构建集中力量办大事组织能力的大工程。 对于创作者来说，它又意味着近乎奢侈的资源调度。你可以在一个项目上肆意挥洒青春才情，穿越时间周期，无视竞品和市场的喧闹，去挑战那些在寻常团队不被会允许的方向，去到许多前人从未踏足的领域。 某种程度上说，GTA就是那种能够真正实现「名利双收」的终极项目——不管是影响力、市场口碑，还是商业成绩和艺术成就，它全都要，也全都有。 昨晚《GT",
-     "source": "虎嗅",
-     "zh": "R星如何制造《GTA6》：10亿美金，5000人的苦行，一代人的梦"
+     "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+     "link": "https://claudia.gallery/fable/",
+     "pubDate": "Thu, 19 Nov 2026 00:18:18 +0000",
+     "summary": "Article URL: https://claudia.gallery/fable/ Comments URL: https://news.ycombinator.com/item?id=50554269 Points: 11 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Fable: Written, painted and directed by Claude Fable 5.2"
     },
     {
      "title": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs&apos; AI platform via a ~$95M no-bid deal (Bloomberg)",
@@ -1916,7 +1956,7 @@
      "title": "We need smart people who give a shit",
      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
      "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 138 # Comments: 55",
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 176 # Comments: 85",
      "source": "Hacker News",
      "zh": "We need smart people who give a shit"
     },
@@ -1924,17 +1964,25 @@
      "title": "Multiple vulnerabilities in Regexp and String case conversion",
      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
      "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
-     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 38 # Comments: 2",
      "source": "Hacker News",
      "zh": "Multiple vulnerabilities in Regexp and String case conversion"
     },
     {
-     "title": "Software companies are trying to kill home computing",
+     "title": "Software companies are trying to kill home computing?",
      "link": "https://lateblt.livejournal.com/526188.html",
      "pubDate": "Wed, 18 Nov 2026 23:49:18 +0000",
-     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 40 # Comments: 9",
+     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 79 # Comments: 39",
      "source": "Hacker News",
-     "zh": "Software companies are trying to kill home computing"
+     "zh": "Software companies are trying to kill home computing?"
+    },
+    {
+     "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+     "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+     "pubDate": "Wed, 18 Nov 2026 23:49:13 +0000",
+     "summary": "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Palo Alto Networks to Acquire Applied Compute for $4.5B"
     },
     {
      "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)",
@@ -1959,54 +2007,6 @@
      "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
      "source": "钛媒体",
      "zh": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点"
-    },
-    {
-     "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-     "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-     "pubDate": "Wed, 18 Nov 2026 23:10:39 +0000",
-     "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-     "source": "Ars Technica",
-     "zh": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits"
-    },
-    {
-     "title": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)",
-     "link": "https://www.techmeme.com/261118/p46#a261118p46",
-     "pubDate": "Wed, 18 Nov 2026 17:50:00 -0500",
-     "summary": "Financial Times : Sources: Leopold Aschenbrenner discussed &ldquo;Situational Awareness 2.0&rdquo;, a reboot using leverage and outside capital, four months after Citadel rescued his fund &nbsp; &mdash;&nbsp; The 25-year-old AI trader has held talks about employing leverage again and raising funds a",
-     "source": "Techmeme",
-     "zh": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)"
-    },
-    {
-     "title": "LLM assisted reverse engineering",
-     "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-     "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
-     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 27 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "LLM assisted reverse engineering"
-    },
-    {
-     "title": "GTA6-like as a 942Kb UEFI bootable image",
-     "link": "https://github.com/eklavya-raj/gta6-uefi",
-     "pubDate": "Wed, 18 Nov 2026 22:26:48 +0000",
-     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 27 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "GTA6-like as a 942Kb UEFI bootable image"
-    },
-    {
-     "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-     "link": "https://www.wired.com/story/guys-really-we-got-this/",
-     "pubDate": "Wed, 18 Nov 2026 22:16:23 +0000",
-     "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-     "source": "WIRED",
-     "zh": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This"
-    },
-    {
-     "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-     "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-     "pubDate": "Wed, 18 Nov 2026 22:08:57 +0000",
-     "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-     "source": "Ars Technica",
-     "zh": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick"
     }
    ]
   },
@@ -2265,6 +2265,94 @@
    "total": 13,
    "items": [
     {
+     "title": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“五连跌”",
+     "link": "https://wallstreetcn.com/articles/3786239",
+     "pubDate": "Thu, 19 Nov 2026 09:06:22 +0800",
+     "summary": "英伟达交出超预期财报，新任管理层高调亮相、承诺薪酬激励，却依然未能止住股价颓势。 周三，公司股价再度下跌近3%，创下连续五日下跌纪录，盘中股价一度上涨，随后回吐全部涨幅。折射出市场对领导层动荡的持续担忧。 英伟达临时CEO科莱特·克雷斯（Colette Kress）在周二的分析师电话会议上首次以CEO身份主持财报发布，上调公司销售预期，并就旗下新兴云客户支持政策作出表态。周三盘前英伟达股价一度大涨约4%。 然而，这轮涨势在会后全部回吐，股价终以下跌约2%至3%收盘。道琼斯援引华尔街人士反应称， 市场并不买账管理层\"一切如常\"的定调。 自创始人黄仁勋辞去CEO职务的消息曝光以来，英伟达股价已累计",
+     "source": "华尔街见闻",
+     "zh": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“五连跌”"
+    },
+    {
+     "title": "康弘药业：融资净偿还1893.31万元，融资余额5.4亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934738652.html",
+     "pubDate": "Thu, 19 Nov 2026 09:04:41 +0800",
+     "summary": "交易所最新数据显示， 康弘药业 于2026年11月18日获融资买入1466.55万元，融资偿还3359.85万元， 当日融资净偿还1893.31万元。 目前，该股融资余额5.40亿，占流通市值比例为3.57%。 该股当日融券卖出4400股，融券偿还1.43万股， 融券净偿还9900股。 目前，该股融券余量21.25万股，融券余额467.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "康弘药业：融资净偿还1893.31万元，融资余额5.4亿元"
+    },
+    {
+     "title": "豪迈科技：融资净买入167.63万元，融资余额7.08亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934737887.html",
+     "pubDate": "Thu, 19 Nov 2026 09:04:32 +0800",
+     "summary": "交易所最新数据显示， 豪迈科技 于2026年11月18日获融资买入633.87万元，融资偿还466.25万元， 当日融资净买入167.63万元。 目前，该股融资余额7.08亿，占流通市值比例为1.46%。 该股当日融券卖出300股，融券偿还400股， 融券净偿还100股。 目前，该股融券余量16.44万股，融券余额690.17万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "豪迈科技：融资净买入167.63万元，融资余额7.08亿元"
+    },
+    {
+     "title": "卡倍亿：融资净偿还98.79万元，融资余额3.23亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934737283.html",
+     "pubDate": "Thu, 19 Nov 2026 09:04:29 +0800",
+     "summary": "交易所最新数据显示， 卡倍亿 于2026年11月18日获融资买入356.84万元，融资偿还455.64万元， 当日融资净偿还98.79万元。 目前，该股融资余额3.23亿，占流通市值比例为4.17%。 该股当日融券卖出300股，融券偿还0股， 融券净卖出300股。 目前，该股融券余量8640股，融券余额26.67万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承",
+     "source": "东方财富股票",
+     "zh": "卡倍亿：融资净偿还98.79万元，融资余额3.23亿元"
+    },
+    {
+     "title": "中南文化：融资净偿还257.68万元，融资余额3.54亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934736771.html",
+     "pubDate": "Thu, 19 Nov 2026 09:04:27 +0800",
+     "summary": "交易所最新数据显示， 中南文化 于2026年11月18日获融资买入1028.33万元，融资偿还1286.01万元， 当日融资净偿还257.68万元。 目前，该股融资余额3.54亿，占流通市值比例为4.75%。 该股当日融券卖出100股，融券偿还100股， 融券净卖出0股。 目前，该股融券余量10.52万股，融券余额33.14万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "中南文化：融资净偿还257.68万元，融资余额3.54亿元"
+    },
+    {
+     "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 01:02:00 GMT",
+     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+     "source": "MarketWatch",
+     "zh": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
+    },
+    {
+     "title": "Anthropic还未上市，20只杠杆ETF已经“抢跑”",
+     "link": "https://wallstreetcn.com/articles/3786242",
+     "pubDate": "Thu, 19 Nov 2026 09:00:27 +0800",
+     "summary": "Anthropic的IPO尚未落地，围绕它的杠杆ETF军备竞赛已经开打。 11月19日，据彭博报道， 包括Direxion、ProShares和GraniteShares在内的多家发行商，已就Anthropic上市后的杠杆敞口产品提交超过20份备案申请，涵盖做多与做空两个方向。 这一切发生在IPO定价之前。与此同时，报道援引知情人士称，Anthropic正在引导潜在投资者预期其发行价将高于指导区间，有望成为有史以来规模最大的IPO。 市场热情越高，先发优势的价值就越大。SpaceX上市后的经历已经说明问题：14只相关杠杆产品中，只有1只资产规模突破1亿美元。这一\"赢家通吃\"的结局，正是当前发行",
+     "source": "华尔街见闻",
+     "zh": "Anthropic还未上市，20只杠杆ETF已经“抢跑”"
+    },
+    {
+     "title": "金属崩了！金银铜齐跌",
+     "link": "https://wallstreetcn.com/articles/3786224",
+     "pubDate": "Thu, 19 Nov 2026 09:00:01 +0800",
+     "summary": "11月18日周三，全球金属市场遭遇猛烈抛售，铜等工业金属与贵金属金银集体大跌。盘中纽约期铜和伦铜跌近6%、纽约期金跌超3%、期银跌超5%。 这轮下跌既受到美联储加息预期升温的冲击，也反映出市场对AI基础设施投资前景和全球工业需求的担忧。此前支撑金属价格上涨的多头交易正在松动，美元走强、资金获利了结和技术性抛售则进一步放大跌势。 与此同时， 市场传言此轮抛售还与Anthropic（ANT）IPO的资金腾挪密切相关——投资者正在抛售风险资产以为这一可能创历史纪录的IPO筹集资金。 伦铜收创七个月新低 AI交易降温成为关键导火索 工业金属方面，铜价周三遭遇猛烈抛售。 伦敦金属交易所（LME）三个月期",
+     "source": "华尔街见闻",
+     "zh": "金属崩了！金银铜齐跌"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 01:00:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934700382.html",
+     "pubDate": "Thu, 19 Nov 2026 08:57:56 +0800",
+     "summary": "周三公布的美联储10月会议纪要显示，与激进的AI投资及资产价格高企相关的金融稳定风险，已颇为罕见地引起美联储的关注。 在10月27日至28日的政策会议上，美联储决策者和央行工作人员在对金融风险进行广泛审查时提出了这一担忧。 尽管市场对高企且持续的通胀水平仍存忧虑，但官员们在此次会议上仍决定维持利率不变。不过，会议纪要显示，几乎所有决策者都认为，如果经济走势符合预期，则需要进一步加息。 会议纪要称，当前的脆弱性对外部冲击的放大效应可能稍甚于以往。其中，居高不下的资产估值与对冲基金的高杠杆率是最突出的隐患 ；不过， 银行 系统及家庭坚实的资产负债表，为抵御更剧烈的负面冲击提供了关键屏障。 美联储决",
+     "source": "东方财富资讯",
+     "zh": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报"
+    },
+    {
+     "title": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放",
+     "link": "http://finance.eastmoney.com/news/11874,202611193934690519.html",
+     "pubDate": "Thu, 19 Nov 2026 08:55:02 +0800",
+     "summary": "①光模块龙头拟开启第二轮回购，真金 白银 护盘提振信心； ②算力 租赁 需求持续高增，行业步入量价齐升 黄金 期； ③美国接连大规模宕机， 网络安全 防护需求凸显； ④国家能源局部署流域水风光一体化，绿电供给扩容提质； ⑤充电设施2030年要达4000万个，建设增量空间打开； ⑥权志龙母公司拟推 机器人 女团，人形 机器人 +AI娱乐融合提速。 盘面回顾 11月18日，A股三大指数集体收涨，沪指涨0.09%报3587.83点，创业板指涨0.85%。不过，沪深两市全天成交1.37万亿元、刷新年内新低，全市场超4100股下跌。算力 租赁 、国产算力、 PCB 方向领涨，AI漫剧、 贵金属 、医药板",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放"
+    },
+    {
      "title": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks",
      "link": "https://seekingalpha.com/news/4674491-us-oil-price-slides-as-data-shows-larger-than-expected-increases-in-crude-gasoline-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 19:47:27 -0500",
@@ -2273,12 +2361,20 @@
      "zh": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks"
     },
     {
-     "title": "11月19日投资避雷针：全球金属市场遭遇猛烈抛售 铜等工业金属与贵金属金银集体大跌",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934645393.html",
-     "pubDate": "Thu, 19 Nov 2026 08:42:59 +0800",
-     "summary": "近日A股及海外市场潜在风险事件如下。国内经济信息方面包括：1）生猪市场仍处磨底阶段，业内人士称趋势性反转尚待时日；2）乘联分会数据显示，11月1-15日全国 乘用车 市场零售61.1万辆，同比去年11月同期下降25%；公司方面重点关注包括：1） 奥精医疗 公告，股票交易严重异常波动，无法按期披露三季报；2） *ST东珠 股票收盘价首次低于1元，可能被终止上市；海外市场重点关注包括：1）美股三大股指收盘涨跌不一， 英伟达 跌近3%；2）全球金属市场遭遇猛烈抛售， 铜 等 工业金属 与 贵金属 金银集体大跌。 经济信息 1、11月初以来，生猪 期货 市场迎来阶段性反弹，主力2701合约价格一度重返",
-     "source": "东方财富股票",
-     "zh": "11月19日投资避雷针：全球金属市场遭遇猛烈抛售 铜等工业金属与贵金属金银集体大跌"
+     "title": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿",
+     "link": "https://wallstreetcn.com/articles/3786222",
+     "pubDate": "Thu, 19 Nov 2026 08:43:41 +0800",
+     "summary": "人工智能公司Anthropic完成史上规模最大IPO，以高于发行区间的价格定价，募资总额远超此前所有纪录，标志着资本市场对AI领域的押注正式从芯片基础设施延伸至前沿模型平台。 周三， Anthropic将其A类普通股IPO定价为每股83美元，高出发行区间上限78美元约6.4%，同时将发行规模从8.25亿股扩大至9.8亿股，扩大约19% 。 分析认为，定价策略是为了让股价像往常一样在IPO后上涨20%，从而突破100美元。 如果未能达到预期，或者收盘下跌，投资者就需要警惕了。 公司及创始人此次合计募资约813亿美元，叠加来自谷歌、英伟达等七家科技巨头的260亿美元私募配售， 总募资规模突破107",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
+    },
+    {
+     "title": "利好突袭！刚刚全线拉升！史上最大IPO定了",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934716375.html",
+     "pubDate": "Thu, 19 Nov 2026 08:43:38 +0800",
+     "summary": "AI巨头Anthropic的IPO定价高于区间并扩大发行规模，显示需求旺盛，提振市场情绪。 今日早间，美股 期货 大幅拉升，截至发稿，纳指 期货 涨1.03%，标普500指数 期货 涨0.55%，道指期货涨0.32%。美股盘后交易时段，AI硬件股集体反弹， 英伟达 涨0.80%， 博通 、 高通 、ARM、 英特尔 、 美光科技 、 希捷科技 、 康宁 、Lumentum等涨超1%。 消息面上，AI巨头Anthropic将其IPO发行价定为每股83美元，高于此前70—78美元的发行指导区间。由于投资者需求强劲，发行规模由原计划约8.25亿股扩大至9.8亿股。按此计算，本次IPO募资额约813亿",
+     "source": "东方财富资讯",
+     "zh": "利好突袭！刚刚全线拉升！史上最大IPO定了"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2287,46 +2383,6 @@
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "美国总统特朗普：不会在乌克兰缺席的情况下达成任何协议",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934650446.html",
-     "pubDate": "Thu, 19 Nov 2026 08:41:27 +0800",
-     "summary": "美国总统特朗普：不会在乌克兰缺席的情况下达成任何协议。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：不会在乌克兰缺席的情况下达成任何协议"
-    },
-    {
-     "title": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基之间存在极大的敌意",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934650398.html",
-     "pubDate": "Thu, 19 Nov 2026 08:41:27 +0800",
-     "summary": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基之间存在极大的敌意。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基之间存在极大的敌意"
-    },
-    {
-     "title": "美国总统特朗普：我非常希望能够解决俄乌冲突",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934650139.html",
-     "pubDate": "Thu, 19 Nov 2026 08:41:27 +0800",
-     "summary": "美国总统特朗普：我非常希望能够解决俄乌冲突。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：我非常希望能够解决俄乌冲突"
-    },
-    {
-     "title": "汇绿生态：截至11月10日最新股东户数7.62万户，较上期减少5.03%",
-     "link": "http://stock.eastmoney.com/news/11111,202611193934649765.html",
-     "pubDate": "Thu, 19 Nov 2026 08:39:21 +0800",
-     "summary": "汇绿生态 最新披露数据显示，截至11月10日公司股东户数为7.62万户，较上期(2026年10月20日) 减少4031户，降幅为5.03% 。户均持有流通股数量 由上期的7592股上升至7994股， 户均持股金额 由上期的20.60万元减少至18.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "汇绿生态：截至11月10日最新股东户数7.62万户，较上期减少5.03%"
-    },
-    {
-     "title": "智界获独立造车资质 奇瑞高管：智界不做“大一号”的传统车企 要做新势力",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934133391.html",
-     "pubDate": "Thu, 19 Nov 2026 08:38:43 +0800",
-     "summary": "日前，工业和信息化部公示的《道路机动车辆生产企业及产品》（第412批）已获许可的新准入车辆生产企业及已准入企业变更信息清单显示，奇瑞集团获同意增加成员企业安徽智界 新能源 汽车 有限公司，这意味着智界正式获得独立整车生产资质。11月18日，《每日经济新闻》记者向智界方面求证，工作人员回应称：“（智界）还在奇瑞体系，也还是依托奇瑞继续加速发展。” 图片来源：工业和信息化部官网 一位智界内部人士此前向记者表示，获批整车生产准入资质对于实际工作暂无影响。因为这场“换牌”只是一次存量平移：奇瑞将皖江大道8号厂区连同生产主体身份整体划转给智界，物理产线不发生任何变化。这位内部人士认为：“智界拿到生产资质",
-     "source": "东方财富股票",
-     "zh": "智界获独立造车资质 奇瑞高管：智界不做“大一号”的传统车企 要做新势力"
     },
     {
      "title": "GTA 6--“史上最火爆游戏”来了？",
@@ -2361,36 +2417,12 @@
      "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
     },
     {
-     "title": "“重大软件崩溃”密集发生，只是因为怕AI？",
-     "link": "https://wallstreetcn.com/articles/3786241",
-     "pubDate": "Thu, 19 Nov 2026 08:14:09 +0800",
-     "summary": "过去一周，美国多个关键机构和企业相继发生系统中断，从微软、摩根大通到美国联邦航空管理局（FAA）乃至国家安全局（NSA），无一幸免。美国官员和网络安全专家正将矛头指向同一个根源： AI驱动的漏洞发现能力急剧提升，迫使各机构以前所未有的速度和规模密集打补丁，由此引发系统性崩溃风险 。 据英国《金融时报》11月18日报道，参议院情报特别委员会副主席Mark Warner明确表示，目前没有任何迹象显示上述事件源于网络攻击、外国干预或协调行动，“真正发生的，是人工智能正在以多快的速度改变网络安全格局所带来的后果”。他警告称， AI工具正对企业和政府机构施加“巨大压力” ，迫使它们“往往同时、立即”修补",
-     "source": "华尔街见闻",
-     "zh": "“重大软件崩溃”密集发生，只是因为怕AI？"
-    },
-    {
      "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
      "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
      "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
      "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 （文章来源：界面新闻）",
      "source": "东方财富资讯",
      "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
-    },
-    {
-     "title": "11月19日投资日历 | 中俄美元首会晤举行",
-     "link": "http://finance.eastmoney.com/news/11848,202611193934637722.html",
-     "pubDate": "Thu, 19 Nov 2026 08:11:51 +0800",
-     "summary": "（1）11月19日，国家主席 习近平 将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美 元首会晤 。 （2）商务部于11月19日下午3时举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。 （3）国家中医药管理局于11月19日下午3时召开健康中国中医药健康促进主题发布会之“冬季的中医药保健”专题发布会，介绍中医养生保健方法的基本知识和练习注意事项。 （4）2026世界计算大会于11月19日至21日在长沙国际会议中心举办，主题为“计算万物湘约未来——打造智能经济新形态”。 （5）2026 脑机接口 大会于11月19日至22日在北京昌平石油科技交流中心举办，主题为“脑智芯联机",
-     "source": "东方财富资讯",
-     "zh": "11月19日投资日历 | 中俄美元首会晤举行"
-    },
-    {
-     "title": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿",
-     "link": "https://wallstreetcn.com/articles/3786222",
-     "pubDate": "Thu, 19 Nov 2026 08:10:39 +0800",
-     "summary": "Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。 周三据彭博援引知情人士透露， 此次IPO定价高出发行区间上限5美元，同时扩大发行规模，将发行股份数从8.25亿股上调至9.8亿股，增幅达19%。 这意味着此次IPO至少筹集了813亿美元，加上260亿美元的配售， 总筹资额将超过1070亿美元 ， 比SpaceX 6月份750亿美元的基础交易额，也超越包含超额配售权后的862亿美元。 按完全摊薄基础计算，此次发行预计将使该公司的估值达到约1.5万亿美元。 该股票预计将于 当地时间11月19日周四午间在纳斯",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
     },
     {
      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
@@ -2409,28 +2441,12 @@
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
     },
     {
-     "title": "飞了49年后 “旅行者1号”探测器抵达距地球一光日里程碑",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934604757.html",
-     "pubDate": "Thu, 19 Nov 2026 08:02:05 +0800",
-     "summary": "北京时间11月18日18时16分，人类迄今飞得最远的探测器“旅行者1号”跨过一个新的距离里程碑：距离地球约259亿公里，相当于光在真空中传播一整天的路程。 从1977年出发到今天，这颗探测器用了49年，才走到光只需一天就能跨越的远方。 （来源：NASA） 一光日有多远？ “一光日”中的“日”，容易让人误以为它是时间单位。实际上，它与光年一样，都是用光的传播时间来表示距离。 光在真空中的速度约为每秒30万公里，一天有86400秒，两者相乘，就是约259亿公里。 这大约相当于地球与太阳平均距离的173倍。 把几个熟悉的天体放在一起，这种差距就更容易理解：月球距离地球平均约1.3光秒，太阳距离地球约",
-     "source": "东方财富资讯",
-     "zh": "飞了49年后 “旅行者1号”探测器抵达距地球一光日里程碑"
-    },
-    {
      "title": "Singapore sets national AI missions for financial services",
      "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
      "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
      "source": "Finextra",
      "zh": "Singapore sets national AI missions for financial services"
-    },
-    {
-     "title": "ETF追踪丨11月18日股票型ETF净申购119亿元 资金加仓沪深300ETF华泰柏瑞",
-     "link": "http://stock.eastmoney.com/news/11868,202611193934603497.html",
-     "pubDate": "Thu, 19 Nov 2026 08:00:08 +0800",
-     "summary": "东方财富 Choice数据显示，11月18日，ETF资金整体净流入157.94亿元，其中，股票型净流入118.60亿元。 股票型ETF中，当日净申购前3依次为：沪深300ETF华泰柏瑞，净申购54.36亿元；创业板ETF易方达，净申购50.08亿元；沪深300ETF华夏，净申购33.10亿元。 股票型ETF当日净赎回前3为： 银行 ETF华宝，净赎回5.26亿元；科创50ETF华夏，净赎回4.76亿元；中证1000ETF广发，净赎回4.34亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力",
-     "source": "东方财富资讯",
-     "zh": "ETF追踪丨11月18日股票型ETF净申购119亿元 资金加仓沪深300ETF华泰柏瑞"
     },
     {
      "title": "Venture Global CEO sees final investment decisions on two key projects in next year's H1",
@@ -2457,28 +2473,12 @@
      "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
     },
     {
-     "title": "穆迪：下调英伟达评级展望，治理隐患盖过财务实力",
-     "link": "https://wallstreetcn.com/articles/3786235",
-     "pubDate": "Thu, 19 Nov 2026 07:42:49 +0800",
-     "summary": "英伟达因CEO黄仁勋离职引发的治理不确定性，已开始在资本市场层面产生实质影响。 11月18日周三，穆迪评级将英伟达的信用评级展望由\"正面\"下调至\"稳定\"，维持Aa1高级无担保债务评级不变。 这意味着在未来12至18个月内，英伟达的信用评级几乎不存在上调空间。 穆迪分析师Raj Joshi在声明中指出， 黄仁勋的离职\"已对公司业务战略和财务政策带来不确定性\"，尽管英伟达的市场领导地位和财务状况依然\"极为强劲\"。 与此同时，债券市场的反应相对温和，英伟达五年期信用违约互换（CDS）周三报121个基点，较一周前下降约20个基点， 交易员认为黄仁勋离职或将限制公司举债规模，从而在一定程度上缓解信用层面",
-     "source": "华尔街见闻",
-     "zh": "穆迪：下调英伟达评级展望，治理隐患盖过财务实力"
-    },
-    {
      "title": "Wheat leads losses in U.S. grain futures, falling to lowest since January",
      "link": "https://seekingalpha.com/news/4674488-wheat-leads-u-s-grain-futures-lower-falling-to-lowest-since-january?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 18:30:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Wheat leads losses in U.S. grain futures, falling to lowest since January"
-    },
-    {
-     "title": "半年最大降幅！海外美债持仓9月锐减，中日英三大“债主”齐减持，中国持债再创08年来新低",
-     "link": "https://wallstreetcn.com/articles/3786234",
-     "pubDate": "Thu, 19 Nov 2026 07:14:57 +0800",
-     "summary": "海外投资者9月持有的美国国债规模出现今年3月以来最大单月降幅，日本、中国大陆和英国三大海外“债主”罕见同步减持，其中中国大陆减持规模最大，持仓进一步跌至十八年来低谷。 美东时间11月18日周三，美国财政部公布的国际资本流动报告（TIC）显示，9月海外投资者持有的美国国债总规模环比减少755亿美元，降至9.2412万亿美元，创3月以来最大单月降幅。9月美国长期资本净流入1553亿美元，较8月缩水超45%。 海外美债持仓9月的变动中，主要持有国的减持成为市场关注焦点。其中头号“债主”日本9月持仓创21个月来新低，英国持仓跌落纪录高位，中国大陆的持仓降幅在十大“债主”中仅次于法国。 不过，持仓余额下",
-     "source": "华尔街见闻",
-     "zh": "半年最大降幅！海外美债持仓9月锐减，中日英三大“债主”齐减持，中国持债再创08年来新低"
     },
     {
      "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
@@ -2512,6 +2512,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Voyager 1 reaches a historic milestone: one light-day from Earth",
+     "link": "https://www.sciencenews.org/article/voyager-1-light-day-earth-distance",
+     "pubDate": "Thu, 19 Nov 2026 00:50:00 +0000",
+     "summary": "Launched in 1977, Voyager 1 has traveled farther than any other human-made object.",
+     "source": "Science News",
+     "zh": "Voyager 1 reaches a historic milestone: one light-day from Earth"
+    },
     {
      "title": "Voyager 1's light-day milestone: See the photos behind the discoveries",
      "link": "https://www.livescience.com/space/space-exploration/voyager-1s-light-day-milestone-50-years-of-amazing-solar-system-discoveries-in-photos",
@@ -2703,14 +2711,6 @@
      "summary": "Research on AI and quantum science has been favored under Trump, but some scientists are concerned about what it has displaced.",
      "source": "Science News",
      "zh": "What the Trump administration’s focus on AI and quantum means for science"
-    },
-    {
-     "title": "We know how to stop computer worms. But what if AI helps them persist?",
-     "link": "https://www.sciencenews.org/article/ai-computer-worm-cyberattack-octopus",
-     "pubDate": "Mon, 16 Nov 2026 16:00:00 +0000",
-     "summary": "AI worms aren't real-world threats yet. But tests show they can adapt and spread like octopuses or slime molds, exploiting each device's weaknesses.",
-     "source": "Science News",
-     "zh": "We know how to stop computer worms. But what if AI helps them persist?"
     },
     {
      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",

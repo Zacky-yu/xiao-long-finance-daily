@@ -1202,12 +1202,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -2386,12 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能"
     },
     {
-     "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 22:15:00 GMT",
-     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-     "source": "MarketWatch",
-     "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
+     "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
+     "link": "https://wallstreetcn.com/articles/3786269",
+     "pubDate": "Fri, 20 Nov 2026 06:14:13 +0800",
+     "summary": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计最高水平、将公司市值推升至2万亿美元以上，但狂热很快“退烧”。股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅，盘后还较收盘",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿"
     },
     {
      "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",

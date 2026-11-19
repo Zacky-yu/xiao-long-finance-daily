@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 14:12:02",
+ "generated_at": "2026/11/19 14:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -969,6 +969,14 @@
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
+     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
+     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
+     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
+     "source": "Utility Dive",
+     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
+    },
+    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1023,6 +1031,14 @@
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
+    },
+    {
+     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
+     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
+     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
+     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
+     "source": "Utility Dive",
+     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1087,22 +1103,6 @@
      "summary": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
      "source": "Energy Storage News",
      "zh": "Sungrow aims to replicate utility-scale success in residential and C&I segments"
-    },
-    {
-     "title": "Why AI data centers need storage beyond conventional backup power",
-     "link": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
-     "pubDate": "Wed, 18 Nov 2026 10:30:00 +0000",
-     "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
-     "source": "pv magazine",
-     "zh": "Why AI data centers need storage beyond conventional backup power"
-    },
-    {
-     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
-     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
-     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
-     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
-     "source": "pv magazine",
-     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
     }
    ]
   },
@@ -1769,6 +1769,14 @@
    "total": 18,
    "items": [
     {
+     "title": "中东短剧阿语本地化后，沙特用户付费转化卡在支付和结算周期上，该怎么破？",
+     "link": "https://www.baijing.cn/question/638827",
+     "pubDate": "Thu, 19 Nov 2026 06:13:04 +0000",
+     "summary": "我们做阿语短剧出海，主攻沙特和阿联酋，团队12人，内容已上线3个月，起量阶段月投放预算约8万美元。阿语配音和字幕外包给黎巴嫩团队做本地化，剧集完播率还行，但沙特用户付费转化率只有0.6%，远低于我们预期的2%。排查后发现两个卡点：一是沙特用户习惯本地钱包和运营商计费，我们目前只接了信用卡和PayPal，很多用户到支付页就流失；二是回款周期太长，通过现有收单行结算要T+15到T+20，现金流压力大。已经试过加STC Pay入口，但接入流程走了两个月还没跑通。想直接问：中东短剧这类小额高频付费，支付通道和结算周期到底该怎么组合才不影响起量节奏？",
+     "source": "白鲸出海",
+     "zh": "中东短剧阿语本地化后，沙特用户付费转化卡在支付和结算周期上，该怎么破？"
+    },
+    {
      "title": "富士胶片 X Summit 巴黎 2026 活动定档 12 月 2 日",
      "link": "https://www.ithome.com/1/029/282.htm",
      "pubDate": "Thu, 19 Nov 2026 06:00:36 GMT",
@@ -1999,14 +2007,6 @@
      "summary": "CoinDesk : Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets &nbsp; &mdash;&nbsp; Payward, the parent company of cryptocurrency exchange giant Kraken, agreed to buy Tribe Capital Management, the venture",
      "source": "Techmeme",
      "zh": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)"
-    },
-    {
-     "title": "Arizona&apos;s AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\" (David Thomas/Reuters)",
-     "link": "https://www.techmeme.com/261118/p61#a261118p61",
-     "pubDate": "Wed, 18 Nov 2026 23:20:01 -0500",
-     "summary": "David Thomas / Reuters : Arizona's AG opens a criminal investigation into OpenAI and other AI companies relating to the &ldquo;apparent infiltration of banks by rogue AI agents&rdquo; &nbsp; &mdash;&nbsp; The state of Arizona has opened a criminal investigation into OpenAI and other AI companies rel",
-     "source": "Techmeme",
-     "zh": "Arizona&apos;s AG opens a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents\" (David Thomas/Reuters)"
     }
    ]
   },
@@ -2265,6 +2265,94 @@
    "total": 13,
    "items": [
     {
+     "title": "Hyster-Yale rises 4% after pricing $135M convertible notes offering",
+     "link": "https://seekingalpha.com/news/4674512-hyster-yale-rises-4-after-pricing-135m-convertible-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:26:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hyster-Yale rises 4% after pricing $135M convertible notes offering"
+    },
+    {
+     "title": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼",
+     "link": "http://stock.eastmoney.com/news/1611,202611193934979666.html",
+     "pubDate": "Thu, 19 Nov 2026 14:22:32 +0800",
+     "summary": "11 月 19 日消息，据《金融时报》报道，Meta 在当地时间本周三向美国特拉华州法院提交的文件中表示，在了结投资者提起的法律诉讼之前， 不会执行此前宣布的拆股计划 。 Meta 今年 10 月宣布拟进行一项 1:2 的拆股，股东在现有股票之外将得到等量的无投票权 C 类股票。这意味着股东可出售新股并保持股权控制。 Meta 本计划通过这一财务手段 在不影响控制权的情况下为其 人工智能 业务投资筹集额外资金 。此外，这也为 Meta 创始人 Mark Zuckerberg（马克 · 扎克伯格）应对美国加利福尼亚州曾考虑的亿万富翁财富税（IT之家注：该税收提案当前已被公投否决）提供了更灵活的财",
+     "source": "东方财富股票",
+     "zh": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼"
+    },
+    {
+     "title": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系",
+     "link": "http://stock.eastmoney.com/news/1611,202611193934979556.html",
+     "pubDate": "Thu, 19 Nov 2026 14:21:10 +0800",
+     "summary": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系"
+    },
+    {
+     "title": "波士顿动力Atlas拟进入半导体工厂测试，机器人ETF华夏（562500）午后震荡回调",
+     "link": "http://stock.eastmoney.com/news/11622,202611193934980444.html",
+     "pubDate": "Thu, 19 Nov 2026 14:20:28 +0800",
+     "summary": "截至14:09，A股三大指数集体下跌，上证指数跌0.73%，深证成指跌0.90%，创业板指跌1.05%。 机器人 板块午后震荡调整，中证 机器人 指数下跌0.80%。 机器人 ETF华夏（562500）盘中震荡走低，成交额约3.21亿元。 消息面上，11月19日，据媒体报道，波士顿动力与 半导体 制造商格罗方德近日宣布扩大 机器人 领域合作，计划于2027年初在格罗方德工厂启动Atlas 人形机器人 现场测试。这将是Atlas首次进入 汽车 制造以外的工业应用场景。此外，波士顿动力旗下四足 机器人 Spot也将进一步扩大在格罗方德全球制造网络中的部署，推动 机器人 技术向高精密工业场景延伸。 ",
+     "source": "东方财富股票",
+     "zh": "波士顿动力Atlas拟进入半导体工厂测试，机器人ETF华夏（562500）午后震荡回调"
+    },
+    {
+     "title": "家电ETF华安（159025）跟踪指数上涨0.67%，科沃斯“双11”销售额破45亿元",
+     "link": "http://stock.eastmoney.com/news/11622,202611193934981156.html",
+     "pubDate": "Thu, 19 Nov 2026 14:20:27 +0800",
+     "summary": "截至14时04分，家电板块表现活跃，家电ETF华安（159025）跟踪指数上涨0.67%。相关个股中， 海立股份 涨停， 科沃斯 上涨7.12%， 海信家电 上涨5.16%。 消息面上，此前， 科沃斯 发布2026年“双11”收官战报。10月1日至11月11日大促周期内，集团全渠道销售额突破45亿元，持续领跑智能清洁赛道。 科沃斯 已连续11年稳居中国扫地 机器人 市场销量第一，核心赛道优势持续夯实，本次大促中，滚筒式扫地 机器人 市占率突破50%，国民爆款T90S系列销量超34万台，技术革新直接转化为用户体验升级。多品类布局迎来集中爆发，清洁场景向全屋多维延伸。擦窗 机器人 销量突破28万台",
+     "source": "东方财富股票",
+     "zh": "家电ETF华安（159025）跟踪指数上涨0.67%，科沃斯“双11”销售额破45亿元"
+    },
+    {
+     "title": "以官员鼓吹“单干”之际 美中央司令部司令到访",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934979138.html",
+     "pubDate": "Thu, 19 Nov 2026 14:20:08 +0800",
+     "summary": "美军中央司令部司令布拉德·库珀18日访问以色列，与以国防军总参谋长扎米尔、情报和特勤局（摩萨德）局长戈夫曼会面。 据以色列“新消息”电视台报道，当前，以色列国防军就可能对伊朗重启战事进入“最高戒备状态”，以色列看守政府正等待美方就是否恢复对伊作战作出决定，因此库珀此次到访并同扎米尔会谈具有风向标意义。 报道说，当天，扎米尔在以国防军总部所在的特拉维夫市基里亚军事基地，与库珀举行联合战略评估会议，两人还与戈夫曼一同会谈。消息人士透露，戈夫曼“强烈主张”恢复对伊空袭，以遏制伊朗“不断增长的能力”。但也有部分以方高级官员认为，当下没有“紧急必要”恢复对伊作战。 尽管一些以方政治和安全高级官员近期称以",
+     "source": "东方财富股票",
+     "zh": "以官员鼓吹“单干”之际 美中央司令部司令到访"
+    },
+    {
+     "title": "半导体板块逆势飘红，半导体设备ETF国泰（159516）连涨3天获资金涌入",
+     "link": "http://stock.eastmoney.com/news/11622,202611193934980762.html",
+     "pubDate": "Thu, 19 Nov 2026 14:19:52 +0800",
+     "summary": "11月19日，A股三大指数集体飘绿，上证指数跌幅0.77%，深证成指跌幅0.97%，创业板指跌幅1.10%。在市场整体回调的背景下， 半导体 板块表现亮眼， 半导体 设备ETF国泰（159516）标的指数逆势上涨1.79%，已连续3天上涨。 资金面上， 半导体 设备ETF国泰持续获资金青睐。最新数据显示，该ETF近10日资金净流入达28.54亿元，展现出较强的吸金能力。 半导体设备 ETF国泰跟踪中证 半导体材料 设备主题指数，该指数选取40只业务涉及 半导体材料 和 半导体设备 等领域的上市公司证券作为指数样本，反映 半导体材料 和设备上市公司证券的整体表现。指数前十大成分股为 中微公司 、",
+     "source": "东方财富股票",
+     "zh": "半导体板块逆势飘红，半导体设备ETF国泰（159516）连涨3天获资金涌入"
+    },
+    {
+     "title": "Asian stocks diverge on soft Australian employment and Anthropic IPO focus",
+     "link": "https://seekingalpha.com/news/4674511-asian-stocks-diverge-on-soft-australian-employment-and-anthropic-ipo-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:19:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian stocks diverge on soft Australian employment and Anthropic IPO focus"
+    },
+    {
+     "title": "Citigroup CEO Fraser warns of more tech outages as firms patch tech",
+     "link": "https://seekingalpha.com/news/4674518-citigroup-ceo-fraser-warns-of-more-tech-outages-as-firms-patch-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:10:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Citigroup CEO Fraser warns of more tech outages as firms patch tech"
+    },
+    {
+     "title": "BCE explores potential Telus deal as Quebecor's C$31B proposal faces scrutiny - report",
+     "link": "https://seekingalpha.com/news/4674516-bce-explores-potential-telus-deal-as-quebecors-c31b-proposal-faces-scrutiny---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:09:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BCE explores potential Telus deal as Quebecor's C$31B proposal faces scrutiny - report"
+    },
+    {
+     "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+     "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+     "pubDate": "Thu, 19 Nov 2026 06:07:29 GMT",
+     "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+     "source": "CNBC",
+     "zh": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine"
+    },
+    {
      "title": "Australia’s October unemployment rate jumps to 4.9% as employment unexpectedly drops by 43.5K",
      "link": "https://seekingalpha.com/news/4674510-australias-october-unemployment-rate-jumps-to-49-as-employment-unexpectedly-drops-by-435k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 01:03:26 -0500",
@@ -2289,6 +2377,14 @@
      "zh": "马斯克“深圳连线”：详谈星舰、模型、算力、芯片、机器人、脑机，大赞黄仁勋“科技界乔丹”"
     },
     {
+     "title": "午后直线跳水！2000亿巨头联想集团下跌超12%！发生了什么？",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934965479.html",
+     "pubDate": "Thu, 19 Nov 2026 13:45:46 +0800",
+     "summary": "浓眉大眼的 联想集团 午后遭“空袭”！ 港股市场，市值达2000亿港元的 联想集团 午后开盘直线跳水，跌幅一度超12%。 那么，究竟发生了什么？分析人士认为，或与其刚刚发布的业绩有关。 联想集团 第二季度净亏损6.40亿美元，预估亏损3,800万美元。联想集团上半年净亏损12.5亿美元，上年同期收益8.456亿美元。亏损幅度超出预期可能是股价杀跌主因。 不过，其营收超出市场预期。财报显示，截至2026年9月30日，联想集团实现营收302.38亿美元（约合2029亿元人民币），同比增长47.8%，首次突破2000亿元大关，创 历史新高 。 联想集团营收增长正呈现持续加速态势。2025/26财年第",
+     "source": "东方财富资讯",
+     "zh": "午后直线跳水！2000亿巨头联想集团下跌超12%！发生了什么？"
+    },
+    {
      "title": "Yorkton Equity Group reports Q3 results",
      "link": "https://seekingalpha.com/news/4674515-yorkton-equity-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 00:40:56 -0500",
@@ -2297,20 +2393,20 @@
      "zh": "Yorkton Equity Group reports Q3 results"
     },
     {
-     "title": "Intel lands first external customer for 18A-P chips",
-     "link": "https://seekingalpha.com/news/4674509-intel-lands-first-external-customer-for-18a-p-chips?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:40:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intel lands first external customer for 18A-P chips"
+     "title": "华尔街多家投行唱多美元：AI热潮还将持续 强劲支撑美元走高",
+     "link": "http://forex.eastmoney.com/news/1129,202611193934958754.html",
+     "pubDate": "Thu, 19 Nov 2026 13:40:03 +0800",
+     "summary": "尽管在美国中期选举后，市场愈发担忧美国科技巨头的AI开支可能放缓，且有可能拖累美元，但华尔街至少三家 银行 认为，AI支出前景仍然强劲，美元涨势有望延续至2027年。 巴克莱 ：看多美元明年走势 此前，受AI热潮带动，全球资金持续涌入美股，成为美元走强的重要推动力之一：海外投资者兑换本币买入美国AI科技企业股票，为美元带来买盘支撑。 巴克莱 指出，在美国经济稳健、高利率维持更久的环境下，美国私营部门已开启长达四年的AI投资周期，构成美元的利好基本面。 巴克莱 策略师Themistoklis Fiotakis团队在本周二研报中写道： “AI资本开支在2027年仍将是增长顺风，我们继续看多美元。”",
+     "source": "东方财富资讯",
+     "zh": "华尔街多家投行唱多美元：AI热潮还将持续 强劲支撑美元走高"
     },
     {
-     "title": "Nufarm reports FY results",
-     "link": "https://seekingalpha.com/news/4674514-nufarm-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:38:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nufarm reports FY results"
+     "title": "习近平会见美国总统特朗普",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934957344.html",
+     "pubDate": "Thu, 19 Nov 2026 13:30:37 +0800",
+     "summary": "11月19日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "习近平会见美国总统特朗普"
     },
     {
      "title": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌超2%，腾讯跌6%，富智康涨6%",
@@ -2345,20 +2441,12 @@
      "zh": "主导产品聚明胶肽注射液抽检不合规，武汉华龙生物遭国家药监局通报"
     },
     {
-     "title": "Vow ASA reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674508-vow-asa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:21:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vow ASA reports Q3 results"
-    },
-    {
-     "title": "Indorama Ventures Public Company GAAP EPS of THB 0.39, revenue of THB 133.34B",
-     "link": "https://seekingalpha.com/news/4674507-indorama-ventures-public-company-gaap-eps-of-thb-039-revenue-of-thb-13334b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:19:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Indorama Ventures Public Company GAAP EPS of THB 0.39, revenue of THB 133.34B"
+     "title": "国产算力板块暴跌 业界称“三星开始穿透严查代工”的市场传闻不准确",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934935630.html",
+     "pubDate": "Thu, 19 Nov 2026 13:05:32 +0800",
+     "summary": "11月19日，A股市场AI 芯片概念 股纷纷下跌，燧原科技、沐曦股份、摩尔线程等公司股价大幅下挫。 消息面上，11月18日晚有传闻称，三星开始穿透严查代工；19日一则相关概念股受影响的“小作文”开始流传。 上证报记者向晶圆代工、芯片设计公司等多方求证获悉，三星开始穿透严查代工的市场传闻不准确。 事实上，当前三星尚无严查代工的相关文件等规定，该市场传闻源于美国BIS的11月16日规定更新，新规要求14nm及以上先进工艺的晶圆代工业务需要得到BIS审批。按照该项规定，晶圆代工厂必须做客户合规性自查，芯片设计公司则需要向BIS申请获得审批，晶圆代工厂才能接单。 谈及BIS新规对国产 AI芯片 设计公",
+     "source": "东方财富资讯",
+     "zh": "国产算力板块暴跌 业界称“三星开始穿透严查代工”的市场传闻不准确"
     },
     {
      "title": "欢聚三季度收入增15.6%，直播之外找到第二增长曲线",
@@ -2401,108 +2489,20 @@
      "zh": "Adani: the billionaire at the heart of Modi’s India"
     },
     {
+     "title": "DeepSeek千亿融资落地：31家出资主体现身 产业资本大集结",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934933066.html",
+     "pubDate": "Thu, 19 Nov 2026 12:47:59 +0800",
+     "summary": "备受瞩目的DeepSeek第二轮千亿融资落地了。 工商信息显示，DeepSeek工商主体杭州深度求索 人工智能 基础技术研究有限公司，近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）（下称“杭州程砚”），公司注册资本变更为1991.8707万元，增幅约21.1%。 进一步向上穿透，杭州程砚同期完成工商变更，新增31家合伙人，登记出资额由0.6万元增至343897.9万元。变更后，杭州程砚共有32名合伙人，杭州程策商务咨询有限公司仍担任执行事务合伙人。 《科创板日报》记者注意到，这些新增合伙人即为参与到DeepSeek第二轮融资的各外部股东，囊括了腾讯、 中国移动 、 中国电信",
+     "source": "东方财富资讯",
+     "zh": "DeepSeek千亿融资落地：31家出资主体现身 产业资本大集结"
+    },
+    {
      "title": "萨洛蒙单季营收首超始祖鸟，丁少翔进入亚玛芬董事会",
      "link": "http://www.eeo.com.cn/2026/1119/1096941.shtml",
      "pubDate": "Thu, 19 Nov 2026 12:44:54 +0800",
      "summary": "放在全球运动品牌中看，亚玛芬的增速处于领先位置",
      "source": "经济观察网",
      "zh": "萨洛蒙单季营收首超始祖鸟，丁少翔进入亚玛芬董事会"
-    },
-    {
-     "title": "“医药行业任正非”交班下一代",
-     "link": "http://www.eeo.com.cn/2026/1119/1096907.shtml",
-     "pubDate": "Thu, 19 Nov 2026 12:24:05 +0800",
-     "summary": "这家由“输液大王”刘革新一手创办的四川龙头药企，在成立30周年之际进行了代际交接。",
-     "source": "经济观察网",
-     "zh": "“医药行业任正非”交班下一代"
-    },
-    {
-     "title": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满",
-     "link": "http://finance.eastmoney.com/news/1345,202611193934926738.html",
-     "pubDate": "Thu, 19 Nov 2026 12:08:30 +0800",
-     "summary": "中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出重要指示指出，党的十八大以来，我国老龄工作取得新进展新成效，养老事业和养老产业快速发展，广大老年人获得感、幸福感、安全感持续增强。 习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，深入实施积极应对人口老龄化国家战略，坚持政府、市场、社会、家庭协同发力，进一步加强老年人社会保障、养老服务、健康服务、社会参与，大力发展银发经济，营造孝老敬老良好环境，建设老年友好社会，努力让老年人的生活更加幸福美满。 全国老龄工作会议18日至19日在京召开。会上传达了习近平重要指示。中共中央政治局常委、国务院总理李强出席会议并讲话。 李强在讲",
-     "source": "东方财富资讯",
-     "zh": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满"
-    },
-    {
-     "title": "高盛谈圣诞行情：12月15日前先跌后涨，散户成最后买盘",
-     "link": "https://wallstreetcn.com/articles/3786253",
-     "pubDate": "Thu, 19 Nov 2026 12:02:23 +0800",
-     "summary": "美股正进入年度最强季节性窗口，但高盛警告，历史规律显示这段行情并非一帆风顺——真正的涨幅大多集中在12月15日之后，届时才是所谓\"圣诞行情\"的主战场。 据高盛Gail Hafif团队的最新报告《GS Flow of Funds: Chopsgiving》， 目前市场已进入11至12月的传统强势期，但机构投资者持续减仓科技股、系统性策略大幅抛售，当前市场的主要支撑力量来自散户。 报告指出， 标普500在此窗口期的历史中位最大回撤达3%，大部分涨幅集中于12月15日至年末，均值约为+1.22%。 高盛团队将此轮行情定性为\"颠簸式上行\"，并以\"Chopsgiving\"（ 震荡感恩节 ）命名这份报告，",
-     "source": "华尔街见闻",
-     "zh": "高盛谈圣诞行情：12月15日前先跌后涨，散户成最后买盘"
-    },
-    {
-     "title": "马斯克：特斯拉会继续在中国提高产量",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934923858.html",
-     "pubDate": "Thu, 19 Nov 2026 11:57:14 +0800",
-     "summary": "中国贸促会会长任鸿斌11月19日会见 特斯拉 公司首席执行官埃隆·马斯克。马斯克表示，他是中国的超级粉丝，中国有太多宏伟壮观的建筑与自然景观，他尤其点赞了中国的铁路系统。他还表示， 特斯拉 会继续在中国提高产量。据悉，这是马斯克首次公开到访深圳。抵达深圳后，马斯克还在社交平台上发文表示所谓“修昔底德陷阱”能够被避免。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "马斯克：特斯拉会继续在中国提高产量"
-    },
-    {
-     "title": "报告称非洲数字化进程有进展 互联网使用鸿沟仍突出",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934923660.html",
-     "pubDate": "Thu, 19 Nov 2026 11:55:55 +0800",
-     "summary": "全球移动 通信 系统协会18日在南非立法首都开普敦发布《2026数字非洲指数》报告。报告显示，非洲在数字化发展及其政策环境方面取得可观进展，但在缩小互联网使用鸿沟方面仍面临严峻挑战。 报告在当天由全球移动 通信 系统协会主办的数字非洲峰会上发布。报告说，移动宽带网络已覆盖非洲92%的人口，但仅有28%的人口通过个人设备使用移动互联网。这意味着非洲仍有64%的人口生活在移动宽带网络覆盖范围内，却尚未使用移动互联网。想要弥合这一使用鸿沟，须破除持续阻碍民众上网的各类壁垒。互联网设备价格较高、数字技能不足以及相关本土内容和服务匮乏是主要阻碍因素。 报告评估了非洲54个国家的数字化发展水平及相关政策和",
-     "source": "东方财富股票",
-     "zh": "报告称非洲数字化进程有进展 互联网使用鸿沟仍突出"
-    },
-    {
-     "title": "头部厂商积极扩产！先进封装多股涨停 2026业绩预测高增股来了",
-     "link": "http://finance.eastmoney.com/news/11139,202611193934923769.html",
-     "pubDate": "Thu, 19 Nov 2026 11:55:46 +0800",
-     "summary": "先进封装 板块11月19日早盘相对强势，板块中 灿芯股份 、 蓝箭电子 20CM涨停， 中京电子 、 三佳科技 亦是涨停， 华润微 、 芯碁微装 、 中科飞测 、 甬矽电子 等跟涨。 摩尔极限 下的优先解 过去很长一段时间，芯片性能提升主要依靠摩尔定律，依托制程微缩，在同样面积硅片上集成更多晶体管，工艺节点从7nm一路推进到5nm、3nm。但这条路线的难度越来越高，物理极限、制造成本的约束越来越明显， 先进封装 的价值也随之凸显。 壁仞科技 联合创始人、首席运营官张凌岚对此打了一个比方。目前AI大芯片的裸片尺寸已经接近单颗晶圆的物理上限，如果继续做大裸片，良率和成本都会难以承受。与其在单块硅片",
-     "source": "东方财富股票",
-     "zh": "头部厂商积极扩产！先进封装多股涨停 2026业绩预测高增股来了"
-    },
-    {
-     "title": "零点有数：公司当前不存在AI短剧内容制作等相关业务",
-     "link": "http://stock.eastmoney.com/news/11219,202611193934923372.html",
-     "pubDate": "Thu, 19 Nov 2026 11:51:35 +0800",
-     "summary": "零点有数 11月19日在互动平台表示，公司当前不存在AI短剧内容制作，海外短剧出海等相关业务，暂无该方向布局计划。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "零点有数：公司当前不存在AI短剧内容制作等相关业务"
-    },
-    {
-     "title": "3700美元也破了！现货黄金创去年9月以来新低，国内金饰价格连跌8天，多家品牌回撤超三成丨金银价格",
-     "link": "http://finance.eastmoney.com/news/1361,202611193934923976.html",
-     "pubDate": "Thu, 19 Nov 2026 11:50:25 +0800",
-     "summary": "11月19日，现货 黄金 盘中跌破3700美元关口，为去年9月以来新低，昨日现货 黄金 大跌2.82%，跌破3800美元关口。 截至发稿，现货 黄金 跌0.96%，报3704.28美元/盎司；现货 白银 日内跌1%。 受国际金价传导，国内品牌金饰价格连续8个交易日下跌。 11月19日，国内黄金 饰品 价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老庙黄金报价1125元/克，较昨日跌25元； 周大福 报价1132元/克，较昨日跌19元； 老凤祥 报价1132元/克，较昨日跌18元。 目前多家品牌金饰克价较年内高点回撤幅度均在三成以上，其中老庙跌幅已接近35%。 （文章来源：",
-     "source": "东方财富股票",
-     "zh": "3700美元也破了！现货黄金创去年9月以来新低，国内金饰价格连跌8天，多家品牌回撤超三成丨金银价格"
-    },
-    {
-     "title": "现货黄金大跌，金饰克价年内跌近600元",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934923236.html",
-     "pubDate": "Thu, 19 Nov 2026 11:50:19 +0800",
-     "summary": "11月19日，现货 黄金 跌破3700美元关口，为去年9月以来新低，跌幅1.1%。 受国际金价传导，国内品牌金饰价格连续8个交易日下跌。11月19日，行情数据显示，老庙 黄金 足金 饰品 报1125元/克，8日跌去108元，较年内高点1722元/克暴跌597元； 老凤祥 报1132元/克，8日跌去104元，较高点跌去581元； 周大福 报1132元/克，8日跌去107元，较高点跌去574元。目前多家品牌金饰克价较年内高点回撤幅度均在三成以上，其中老庙跌幅已接近35%。 来源：第一财经、界面新闻 （文章来源：证券时报）",
-     "source": "东方财富股票",
-     "zh": "现货黄金大跌，金饰克价年内跌近600元"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 03:45:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 03:45:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?"
-    },
-    {
-     "title": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌",
-     "link": "http://finance.eastmoney.com/news/1345,202611193934917571.html",
-     "pubDate": "Thu, 19 Nov 2026 11:30:01 +0800",
-     "summary": "A股三大指数小幅下跌，科创50指数涨近1%。盘面上， IGBT概念 、 电子 化学品、 光刻胶 、 光刻机 、 先进封装 、 高带宽内存 走强， 厨卫电器 、 影视院线 、 快手概念 、 广告营销 、 数字媒体 、 短剧互动游戏 跌幅居前。 截至午间收盘，沪指下跌0.44%，报3571.99点；深成指下跌0.51%，报10604.52点；创业板指下跌0.63%，报2297.02点；科创50指数上涨0.98%，报1260.28点；北证50指数下跌2.29%，报812.82点。全市场上涨个股有890家，下跌个股有4592家，23只股涨停。两市半日合计成交7859亿。 今日要闻 凌晨！黄仁勋传出大消",
-     "source": "东方财富资讯",
-     "zh": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌"
     }
    ]
   },

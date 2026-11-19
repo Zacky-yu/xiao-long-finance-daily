@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 15:32:00",
+ "generated_at": "2026/11/19 15:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36%",
+     "link": "https://cnevpost.com/2026/11/19/top-battery-makers-share-china-oct-2026/",
+     "pubDate": "Thu, 19 Nov 2026 07:46:06 +0000",
+     "summary": "CATL continued to lead China's power battery market, though its share gap with BYD narrowed for the fifth consecutive month. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Top battery makers' share in China in October 2026: CATL 40.00%, BYD 21.36%"
+    },
+    {
      "title": "The EV Charging Company That’s Quietly Conquering America Is Building A New U.S. Factory",
      "link": "https://insideevs.com/news/816009/alpitronic-new-us-factory/",
      "pubDate": "Thu, 19 Nov 2026 07:27:37 +0000",
@@ -809,14 +817,6 @@
      "zh": "This GM EV1 Lives After A Painstaking Restoration"
     },
     {
-     "title": "Momenta, Uber launch supervised robotaxi pilot in Germany",
-     "link": "https://cnevpost.com/2026/11/18/momenta-uber-launch-robotaxi-pilot-germany/",
-     "pubDate": "Wed, 18 Nov 2026 10:05:19 +0000",
-     "summary": "This marks the first time riders in Germany can experience a supervised autonomous ride through the Uber app. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Momenta, Uber launch supervised robotaxi pilot in Germany"
-    },
-    {
      "title": "Waymo suspends freeway rides nationwide after California DMV order",
      "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
      "pubDate": "Tue, 17 Nov 2026 19:49:41 +0000",
@@ -864,6 +864,30 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Longi presents 25.2%-efficient solar module with triple-protection design, larger light-receiving area",
+     "link": "https://www.pv-magazine.com/2026/11/19/longi-presents-25-2-efficient-solar-module-with-triple-protection-design-larger-light-receiving-area/",
+     "pubDate": "Thu, 19 Nov 2026 07:46:28 +0000",
+     "summary": "Longi's new Hi-MO X10 module features a triple-protection design to mitigate hotspots, electrical arcing, and microcracks in commercial and industrial rooftop installations. The company said it combined cell-level hotspot suppression, laser-welded junction boxes, and low-temperature welding to impro",
+     "source": "pv magazine",
+     "zh": "Longi presents 25.2%-efficient solar module with triple-protection design, larger light-receiving area"
+    },
+    {
+     "title": "Solar panel cleaner combines electrostatic force with ionic wind",
+     "link": "https://www.pv-magazine.com/2026/11/19/solar-panel-cleaner-combines-electrostatic-force-with-ionic-wind/",
+     "pubDate": "Thu, 19 Nov 2026 07:33:15 +0000",
+     "summary": "Researchers in Algeria have developed a prototype that removed more than 95% of deposited dust from PV glass in laboratory tests. The system uses a two-stage, water-free cleaning process and could support automated PV maintenance. The post Solar panel cleaner combines electrostatic force with ionic ",
+     "source": "pv magazine",
+     "zh": "Solar panel cleaner combines electrostatic force with ionic wind"
+    },
+    {
+     "title": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-by-Two-Years-Amid-Energy-Supply-Fears.html",
+     "pubDate": "Thu, 19 Nov 2026 01:30:00 -0600",
+     "summary": "The European Parliament and EU member states agreed today to delay the so-called methane regulation by two years under pressure from the top oil and gas supplier, the United States, and the continued disruption of normal supply resulting from the war in the Middle East. The European Parliament cited",
+     "source": "OilPrice",
+     "zh": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears"
+    },
     {
      "title": "Inox Solar Americas advances 3 GW U.S. solar cell facility to equipment installation phase",
      "link": "https://www.pv-magazine.com/2026/11/19/inox-solar-americas-advances-3-gw-north-carolina-cell-facility-to-equipment-installation-phase-2/",
@@ -937,28 +961,12 @@
      "zh": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies"
     },
     {
-     "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-     "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
-     "pubDate": "Wed, 18 Nov 2026 16:00:00 -0600",
-     "summary": "The war in Iran is causing an enduring upset in global oil and gas markets with long-ranging consequences for the economy, the energy sector, and the climate. For many countries, this has resulted in skyrocketing energy prices and a rapid shift toward renewable energies in order to fill the import g",
-     "source": "OilPrice",
-     "zh": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix"
-    },
-    {
      "title": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
      "link": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/",
      "pubDate": "Wed, 18 Nov 2026 18:09:18 +0000",
      "summary": "Coal throughput at Rotterdam rose 15.3% in the first nine months of 2026. Crude oil and petroleum-product volumes also increased. An inland vessel operator looking only at this year’s cargo market could see decades of work ahead. But an engine, battery conversion or replacement vessel bought now may",
      "source": "CleanTechnica",
      "zh": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan"
-    },
-    {
-     "title": "States of uncertainty",
-     "link": "https://www.pv-magazine.com/2026/11/18/states-of-uncertainty/",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-     "summary": "Community solar in the United States has endured several big changes in the past year, not least the termination of the Solar for All program, the introduction of domestic content requirements, the removal of tax credits, and the enactment of the One Big Beautiful Bill Act (OBBBA). The termination o",
-     "source": "pv magazine",
-     "zh": "States of uncertainty"
     },
     {
      "title": "Creepage distance defects have increased significantly since M10R cell introduction – Kiwa PI Berlin",
@@ -1007,14 +1015,6 @@
      "summary": "The Northeast&rsquo;s virtual power plant foundations are far stronger today than a decade ago, but utilities still need more visibility into distribution-system loads and energy resources, executives said.",
      "source": "Utility Dive",
      "zh": "How National Grid, Eversource are using VPPs to solve local-level constraints"
-    },
-    {
-     "title": "Perovskite solar manufacturing could generate $7.92 billion in domestic value addition over 15 years in India",
-     "link": "https://www.pv-magazine.com/2026/11/18/perovskite-solar-technology-could-unlock-inr-74000-crore-in-domestic-value-addition-for-india-over-15-years-isma-p3c-study/",
-     "pubDate": "Wed, 18 Nov 2026 15:04:13 +0000",
-     "summary": "A new study highlights the potential of perovskite technology to reduce India's dependence on imported solar manufacturing materials and equipment. It also points to higher energy yields, lower electricity generation costs and opportunities for domestic innovation. The post Perovskite solar manufact",
-     "source": "pv magazine",
-     "zh": "Perovskite solar manufacturing could generate $7.92 billion in domestic value addition over 15 years in India"
     },
     {
      "title": "US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
@@ -1369,6 +1369,14 @@
      "zh": "Astronomers witness a star eating its companion in 1st-of-its-kind observation"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1481,6 +1489,14 @@
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1513,6 +1529,14 @@
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1527,22 +1551,6 @@
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1761,6 +1769,70 @@
    "total": 18,
    "items": [
     {
+     "title": "三位00后，公司卖了300亿",
+     "link": "https://www.huxiu.com/article/4906860.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 15:47:48 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：刘博 创业18个月。 报道/投资界PEdaily 创业一年，卖出300亿——AI的造富速度，比任何时代都来得惊人。 投资界获悉，美国网络安全巨头派拓网络宣布，已与AI初创公司Applied Compute签署最终收购协议，拟以价值45亿美元（约合人民币300亿元）的全股票交易收购后者。 作为这笔交易的主角，Applied Compute成立至今不过仅仅一年半时间。身后站着三位00后创始人最小的23岁，最大的25岁，其中还有一张华人面孔。 这一幕并非偶然。它只是AI造富潮中新翻起的一朵浪花，浪花之下，则是奔涌不息的深海。 1年前，三位00后创业 现在卖300",
+     "source": "虎嗅",
+     "zh": "三位00后，公司卖了300亿"
+    },
+    {
+     "title": "College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses (Dana Goldstein/New York Times)",
+     "link": "https://www.techmeme.com/261119/p9#a261119p9",
+     "pubDate": "Thu, 19 Nov 2026 02:45:02 -0500",
+     "summary": "Dana Goldstein / New York Times : College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses &nbsp; &mdash;&nbsp; Some students are refusing to use A.I., and others are starting petitions to limit it ac",
+     "source": "Techmeme",
+     "zh": "College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses (Dana Goldstein/New York Times)"
+    },
+    {
+     "title": "闻泰不愿向荷兰认输，但时间不多了",
+     "link": "https://www.huxiu.com/article/4906859.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 15:44:43 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：田羽 闻泰正在和荷兰打一场越来越难打的官司。 股份仍在自己名下，经营权却受到限制；想接触潜在投资者，要先取得管理人同意；在中国法院争取到的保全措施，又遭到荷兰法院反制。 11月15日晚，闻泰科技公告，荷兰法院作出新的临时裁定，进一步限制其参与安世境外业务的未来安排，并要求撤回在中国诉讼中的部分请求。若违反相关要求，闻泰及相关主体可能面临累计最高3亿欧元、约合人民币22.23亿元的罚金。 自2025年10月起，闻泰对安世境外业务的控制权受到限制，通过子公司持有的安世控股几乎全部股份，继续由法院指定人员管理。原本同属一个集团的境内外业务，如今各自经营，官司越",
+     "source": "虎嗅",
+     "zh": "闻泰不愿向荷兰认输，但时间不多了"
+    },
+    {
+     "title": "Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing (Christian Davies/Financial Times)",
+     "link": "https://www.techmeme.com/261119/p8#a261119p8",
+     "pubDate": "Thu, 19 Nov 2026 02:40:31 -0500",
+     "summary": "Christian Davies / Financial Times : Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing &nbsp; &mdash;&nbsp; Some say speed of automation is still not fast enough to make country internation",
+     "source": "Techmeme",
+     "zh": "Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing (Christian Davies/Financial Times)"
+    },
+    {
+     "title": "Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash (Elena Eisenstadt/Bloomberg)",
+     "link": "https://www.techmeme.com/261119/p7#a261119p7",
+     "pubDate": "Thu, 19 Nov 2026 02:35:03 -0500",
+     "summary": "Elena Eisenstadt / Bloomberg : Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash &nbsp; &mdash;&nbsp; Alphabet Inc. Chief Investment Officer Ruth Porat said the company and its peers need to i",
+     "source": "Techmeme",
+     "zh": "Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash (Elena Eisenstadt/Bloomberg)"
+    },
+    {
+     "title": "印度买量CPI涨到0.18美元、巴基斯坦0.09，这波南亚还能继续加预算吗？",
+     "link": "https://www.baijing.cn/question/638830",
+     "pubDate": "Thu, 19 Nov 2026 07:33:11 +0000",
+     "summary": "我们做超休闲手游，南亚起量中，投放团队4人，月预算约12万美元，主要跑Google UAC和Meta，印度CPI从年初0.11美元涨到0.18美元，巴基斯坦0.09美元但留存差一截，孟加拉量太小CPA反而到0.22美元。变现靠AdMob激励视频，印度eCPM只有3.5美元左右，算下来D7回本还差两成。已经试过砍巴基斯坦低留存渠道、把预算往印度倾斜，但印度CPI还在往上走，卡在不知道该按CPA上限硬扛还是转去孟加拉赌量。南亚这波投放成本下，你们判断加预算的临界点看哪个数？",
+     "source": "白鲸出海",
+     "zh": "印度买量CPI涨到0.18美元、巴基斯坦0.09，这波南亚还能继续加预算吗？"
+    },
+    {
+     "title": "韩国成为全球第四个出口额破万亿美元国家，AI 芯片旺盛需求助力",
+     "link": "https://www.ithome.com/1/029/495.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:31:24 GMT",
+     "summary": "IT之家 11 月 19 日消息，据路透社报道，受全球 AI 芯片需求旺盛推动，韩国今年累计出口额突破 1 万亿美元 （IT之家注：现汇率约合 6.68 万亿元人民币） ，成为继德国、美国和中国之后，全球第四个出口额达到这一规模的国家。 韩国贸易主管部门今天（19 日）宣布，截至格林尼治时间 5 时 09 分，韩国出口额突破 1 万亿美元。相比之下，去年全年出口额创下的最高纪录为 7,090 亿美元 （现汇率约合 4.74 万亿元人民币） 。 韩国是亚洲第四大经济体，也是 三星电子和 SK 海力士等全球领先芯片制造商的所在地 。全球 AI 投资热潮，带动了韩国的出口和投资。 不过， 韩国国内消",
+     "source": "IT之家",
+     "zh": "韩国成为全球第四个出口额破万亿美元国家，AI 芯片旺盛需求助力"
+    },
+    {
+     "title": "Alphabet 董事长轩尼诗：英伟达找到黄仁勋接班人很有挑战性，但并非不可能",
+     "link": "https://www.ithome.com/1/029/494.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:30:51 GMT",
+     "summary": "IT之家 11 月 19 日消息，谷歌母公司 Alphabet 董事长约翰 · 轩尼诗（John Hennessy）表示，寻找英伟达前首席执行官黄仁勋的继任者将是一项艰巨任务，但合适的人选最终会出现。 当地时间 17 日，轩尼诗在美国加利福尼亚州帕洛阿尔托的斯坦福大学接受《首尔经济日报》采访时表示：“我能给董事会的建议，就是再找一位优秀的 CEO。”他补充说：“找一个像黄仁勋一样出色的人就够了。” 轩尼诗表示：“从公司公布的财报来看，目前经营状况非常好。公司只需要继续保持这样的表现。” 当被问及是否已经有特别合适的候选人时，轩尼诗表示目前没有具体人选。不过，他指出：“问题在于，能否从公司外部找",
+     "source": "IT之家",
+     "zh": "Alphabet 董事长轩尼诗：英伟达找到黄仁勋接班人很有挑战性，但并非不可能"
+    },
+    {
      "title": "Sources expect Anthropic&apos;s IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs (Financial Times)",
      "link": "https://www.techmeme.com/261119/p6#a261119p6",
      "pubDate": "Thu, 19 Nov 2026 02:25:29 -0500",
@@ -1769,12 +1841,52 @@
      "zh": "Sources expect Anthropic&apos;s IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs (Financial Times)"
     },
     {
+     "title": "消息称某厂 Pocket 云台工程机搭载骁龙 8 Gen5 芯片 + 2 亿主摄，预计 vivo 旗下",
+     "link": "https://www.ithome.com/1/029/488.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:23:09 GMT",
+     "summary": "IT之家 11 月 19 日消息，据博主 @数码闲聊站 今日爆料，某厂 Pocket 云台工程机搭载骁龙 8 Gen 5（SM8845）芯片与 200Mp 1/1.12\" 云台超级主摄，目前规划明年 3-4 月与 Ultra 一同登场。 该博主未在爆料中说明该机所属厂商，结合该博主此前的爆料习惯，预计该机为 vivo 旗下。据 IT 之家 6 月 3 日报道，OPPO 与 vivo 的手持 Pocket 云台相机曾被指采用 200Mp 1/1.12\" 超级大底主摄，有望与哈苏、蔡司联名，内置“旗舰级”芯片并支持生态互联。 影像方面， 200Mp、1/1.12\" 的规格与索尼 LYT901 接近",
+     "source": "IT之家",
+     "zh": "消息称某厂 Pocket 云台工程机搭载骁龙 8 Gen5 芯片 + 2 亿主摄，预计 vivo 旗下"
+    },
+    {
+     "title": "新一代华为鸿蒙智家无界交互官宣 11 月 24 日发布，号称“住进未来家”",
+     "link": "https://www.ithome.com/1/029/487.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:20:57 GMT",
+     "summary": "IT之家 11 月 19 日消息，华为官方今日宣布，新一代华为鸿蒙智家无界交互将在 11 月 24 日发布，号称“住进未来家”。 华为官方暂未公布新一代鸿蒙智家无界交互的具体功能，不过预热海报中展示了人车家生态场景。图中的女主人公手持平板似乎正在控制窗帘开关等，而男主人公和小朋友正在看电视。预计无界交互将进一步优化智能家居的交互体验。 据IT之家此前报道， 华为在 11 月 16 日公布了鸿蒙智家 11 月升级内容 ，包括新增 HarmonyOS 7 手机音乐流转到全屋音乐；App 上线“常用常新”板块与“安装进度”功能；优化窗帘语音控制及无主机灯光批量控制等。 相关阅读： 《 华为鸿蒙智家 ",
+     "source": "IT之家",
+     "zh": "新一代华为鸿蒙智家无界交互官宣 11 月 24 日发布，号称“住进未来家”"
+    },
+    {
      "title": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/261119/p5#a261119p5",
      "pubDate": "Thu, 19 Nov 2026 02:20:02 -0500",
      "summary": "Saritha Rai / Bloomberg : Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service &nbsp; &mdash;&nbsp; Indian startup Sarvam has begun selling access to DeepSeek and other Chinese AI models, trigg",
      "source": "Techmeme",
      "zh": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service (Saritha Rai/Bloomberg)"
+    },
+    {
+     "title": "岚图梦想家 9 右舵版车型曝光，预计 12 月中旬在香港上市",
+     "link": "https://www.ithome.com/1/029/485.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:20:01 GMT",
+     "summary": "IT之家 11 月 19 日消息，岚图汽车 CBO、销售公司总经理邵明峰今日在微博发文，晒出岚图梦想家 9 右舵版。 作为参考，岚图梦想家 9 上市于今年 9 月 22 日，售价区间为 41.99 万元至 51.99 万元。邵明峰曾在此前透露，该车已在香港特别行政区完成路试，当地销售和售后服务体系正在同步搭建，新车预计 12 月中旬在香港上市。 据IT之家此前报道 ，岚图梦想家 9 定位“新时代旗舰 MPV”，提供 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式。该车二排座椅拥有旋转、横滑、零重力及机械按摩等功能，基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 A",
+     "source": "IT之家",
+     "zh": "岚图梦想家 9 右舵版车型曝光，预计 12 月中旬在香港上市"
+    },
+    {
+     "title": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”",
+     "link": "https://www.ithome.com/1/029/484.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:19:43 GMT",
+     "summary": "IT之家 11 月 19 日消息，科技媒体 Windows Central 今天（11 月 19 日）发布博文，报道称《侠盗猎车手 VI》（GTA 6）游戏上线首日，玩家没有急着执行任务、抢车或与警方周旋， 反而将大量时间花在了各种离谱又治愈的“生活玩法”上。 社交平台上，最火的一段视频来自被困公海的玩家：等待片刻后，一只戴着墨镜的救援犬会驾驶水上摩托赶来，把玩家送往“狗岛”，还能获取现金和食物等补给。这段“酷狗救援”视频迅速走红，成为游戏发售首日最具传播力的片段之一。 另一些玩家则选择“居家过日子”。游戏中，玩家可以挑选涂料颜色、亲手给卧室刷墙，以提升与角色露西亚的关系。有主播为了“她会不会",
+     "source": "IT之家",
+     "zh": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”"
+    },
+    {
+     "title": "中国发现新直立人化石",
+     "link": "https://www.solidot.org/story?sid=85929",
+     "pubDate": "Thu, 19 Nov 2026 15:14:46 +0800",
+     "summary": "直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚直立人化石生活在约 40 万年前。传统观点认为，直立人偏好开阔的疏林或稀树草原环境，很难在雨林环境中生存，本次在广西崇左的新发现则颠覆了这一认识，直立人完全可以",
+     "source": "Solidot",
+     "zh": "中国发现新直立人化石"
     },
     {
      "title": "Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development (Jasmine Sun/New York Times)",
@@ -1841,54 +1953,6 @@
      "zh": "“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数"
     },
     {
-     "title": "印度安得拉邦为硅晶圆厂开出最高 80% 政府补贴",
-     "link": "https://www.ithome.com/1/029/407.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:56:44 GMT",
-     "summary": "IT之家 11 月 19 日消息，根据印度安得拉邦政府当地时间 16 日完成修订的半导体和显示器制造政策 4.0， 在该邦建设硅晶圆厂的企业可至多获得资本支出额 80% 的补贴 。 图源：Pexels 这 80% 的补贴中 40% 来自印度中央政府，另外 40% 则来自邦级政府。 安得拉邦在其它一些半导体芯片与显示投资上也采取了类似的“加倍补贴”策略 ，化合物、光子、传感、分立、显示项目的补贴上限是 70%，传统封装项目则可拿到 50% 补贴。 根据印度当地媒体的统计，安得拉邦对硅晶圆厂的支持力度高于 65% 的奥里萨邦和泰米尔纳德邦、60% 的北方邦和中央邦、56% 的古吉拉特邦。 此外，安",
-     "source": "IT之家",
-     "zh": "印度安得拉邦为硅晶圆厂开出最高 80% 政府补贴"
-    },
-    {
-     "title": "豆包实时音视频通话模型 1.0 API 全量上线，可实现边看边听边说全模态实时交互",
-     "link": "https://www.ithome.com/1/029/406.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:55:41 GMT",
-     "summary": "IT之家 11 月 19 日消息，今天，火山引擎正式上线豆包实时音视频通话模型（SeedRealtime 1.0） API 服务，带来全模态交互的新体验。 据介绍，SeedRealtime 将声音、画面、时序与表达统一到同一个端到端模型中， 能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。 这大大降低了传统语音级联系统依赖 ASR、VLM、TTS 等多个模块串联带来的延迟叠加和信息损耗。模型不再只是等待用户提问，而能持续理解场景变化，在合适的时机主动开口，把看、听、说纳入同一套实时决策体系，让“听到的”和“看到的”共同参与每一次实时判断与表达。 IT之家注意到，SeedR",
-     "source": "IT之家",
-     "zh": "豆包实时音视频通话模型 1.0 API 全量上线，可实现边看边听边说全模态实时交互"
-    },
-    {
-     "title": "摩托罗拉 Edge 70 Neo 手机配置公开：高通骁龙 7s Gen 3、6.8 寸 1.5K 144Hz 屏幕",
-     "link": "https://www.ithome.com/1/029/405.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:55:11 GMT",
-     "summary": "IT之家 11 月 19 日消息，摩托罗拉现已在 Flipkart 电商平台公布 Edge 70 Neo 手机的主要配置，该机将于 11 月 24 日发布。 IT之家里了解到，这款手机将配备一块 6.8 英寸的 Extreme AMOLED Super HD 面板，分辨率为 1.5K，支持 144Hz 高刷，峰值亮度可达 5200nits，表面覆盖康宁大猩猩玻璃 7i。 同时，这款手机搭载高通骁龙 7s Gen 3 处理器，内存最高可选 8GB，电池容量 7000mAh，续航最长可达 53 小时。 此外，该机将搭载 5000 万像素索尼 LYTIA 710 传感器，支持 45W 有线充电和 7",
-     "source": "IT之家",
-     "zh": "摩托罗拉 Edge 70 Neo 手机配置公开：高通骁龙 7s Gen 3、6.8 寸 1.5K 144Hz 屏幕"
-    },
-    {
-     "title": "微软 Win11 酝酿“新兴风险”功能：提醒第三方软件 / 驱动漏洞",
-     "link": "https://www.ithome.com/1/029/403.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:54:55 GMT",
-     "summary": "IT之家 11 月 19 日消息，科技媒体 Windows Latest 今天（11 月 19 日）发布博文，报道称微软正酝酿名为“新兴风险”（Emerging Risks）的 Windows 11 安全功能，用于追踪电脑上应用、驱动程序和固件中的严重漏洞，并提醒用户可采取的措施。 该媒体指出微软已在 Windows 11 预览版（原文并未提及具体版本号）中测试上线相关页面，目前暂未公开推送，且相关功能有待进一步完善。 根据该媒体晒出的截图，在 Windows 11 安全中心中新增“新兴风险”页面，根据描述系统检测到某个第三方应用、驱动或固件组件存在已知漏洞后，会提醒用户相关风险并展示建议处理",
-     "source": "IT之家",
-     "zh": "微软 Win11 酝酿“新兴风险”功能：提醒第三方软件 / 驱动漏洞"
-    },
-    {
-     "title": "马斯克称每次来中国都感到惊叹，透露此行还将到访特斯拉上海工厂",
-     "link": "https://www.ithome.com/1/029/399.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:53:45 GMT",
-     "summary": "IT之家 11 月 19 日消息，据澎湃新闻报道，马斯克 11 月 18 日在深圳连线出席 TomorrowX 峰会。他表示，自己是中国的粉丝，每次来都感到惊叹，鼓励大家亲自看看， 此行还将到访特斯拉上海工厂 。 据IT之家今日早些时候报道，这是马斯克首次公开到访深圳，他于 11 月 18 日随美国代表团抵达，出席在深圳举行的 2026 年 APEC 领导人会议周相关活动。 他还承诺特斯拉将继续在中国提高产量 。 公开资料显示，2026 年上半年，特斯拉上海超级工厂交付近 46.8 万辆，同比增长 28.4%，占特斯拉全球同期产量的 54% 以上。上海工厂同时是特斯拉全球最大的出口中心，10 ",
-     "source": "IT之家",
-     "zh": "马斯克称每次来中国都感到惊叹，透露此行还将到访特斯拉上海工厂"
-    },
-    {
-     "title": "10 月我国动力和储能电池合计产量 245.1GWh，同比增长 43.6%",
-     "link": "https://www.ithome.com/1/029/390.htm",
-     "pubDate": "Thu, 19 Nov 2026 06:52:34 GMT",
-     "summary": "IT之家 11 月 19 日消息，今日，中国汽车动力电池产业创新联盟发布 2026 年 10 月动力电池月度信息，IT之家整理主要内容如下： 产量方面： 10 月，我国动力和储能电池合计产量为 245.1GWh，环比增长 3.0%，同比增长 43.6%。 1-10 月，我国动力和储能电池累计产量为 2078.1GWh，累计同比增长 60.8%。 销量方面： 10 月，我国动力和储能电池销量为 230.4GWh，环比增长 3.4%，同比增长 38.8%。其中，动力电池销量为 159.3GWh，占总销量 69.1%，环比增长 6.7%，同比增长 28.1%；储能电池销量为 71.1GWh，占总销量",
-     "source": "IT之家",
-     "zh": "10 月我国动力和储能电池合计产量 245.1GWh，同比增长 43.6%"
-    },
-    {
      "title": "木头姐最新访谈：推理成本每年降99%，AI革命推动美国GDP增速升至7%",
      "link": "https://www.huxiu.com/article/4906834.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 14:51:40 +0800",
@@ -1897,20 +1961,20 @@
      "zh": "木头姐最新访谈：推理成本每年降99%，AI革命推动美国GDP增速升至7%"
     },
     {
-     "title": "Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 (Yuan Gao/Bloomberg)",
-     "link": "https://www.techmeme.com/261119/p3#a261119p3",
-     "pubDate": "Thu, 19 Nov 2026 01:50:02 -0500",
-     "summary": "Yuan Gao / Bloomberg : Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 &nbsp; &mdash;&nbsp; Lenovo Group Ltd. reported a far larger-than-anticipated loss for the September quarter, reflec",
-     "source": "Techmeme",
-     "zh": "Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 (Yuan Gao/Bloomberg)"
-    },
-    {
      "title": "哈尔滨买了“迪士尼”",
      "link": "https://www.huxiu.com/article/4906841.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 14:49:41 +0800",
      "summary": "本文来自微信公众号： 新氪度 ，作者：新氪度° 11月10日那场发布会，哈尔滨把\"新IP\"三个字摆在了最前面。园区要12月中旬才开门，平台上的搜索量先涨了10倍。我翻完通稿才发现，冰这一块他们早就不缺了。 01 12月中旬，第28届哈尔滨冰雪大世界要开门，主题叫\"冰雪逐梦浪漫之约\"。 据哈尔滨市政府新闻办11月10日的发布会，园区从上一届的120万平方米扩到125万平方米，这个规模是历届最大的一次。 可这多出来的5万平方米并不是今年真正的变量。 发布会讲得最细的是一块近2万平方米的主题区，哈尔滨与华特迪士尼（中国）达成战略合作，第一次把《冰雪奇缘》的冰雪雕塑搬进了园区。 艾莎与安娜及雪宝都以冰",
      "source": "虎嗅",
      "zh": "哈尔滨买了“迪士尼”"
+    },
+    {
+     "title": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据",
+     "link": "https://www.solidot.org/story?sid=85928",
+     "pubDate": "Thu, 19 Nov 2026 14:46:48 +0800",
+     "summary": "美国联邦破产法庭法官 Sean Lane 批准了 Google 以 1000 万美元收购破产航空公司 Spirit Airlines 内部数据的交易。廉航 Spirit Airlines 于今年五月停止运营，作为资产清算程序的一部分，Google 在八月拍下了其内部数据，这些数据包括了员工数据如电子邮件、电子表格和日历信息，以及市场营销、生产力和运营方面的数据。Google 表示它计划将这些数据用于产品开发和 AI 训练。在工会以及国会议员对该交易表达关注之后，Google 上周同意对相关数据采取额外的隐私保护措施。",
+     "source": "Solidot",
+     "zh": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据"
     },
     {
      "title": "Temu 美国全托管核价连降三轮，3人小团队还要不要继续跟？",
@@ -1943,62 +2007,6 @@
      "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
      "source": "WIRED",
      "zh": "Reebok Discount Code: 15% Off: November 2026"
-    },
-    {
-     "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-     "link": "https://www.wired.com/story/we-vibe-discount-code/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
-     "source": "WIRED",
-     "zh": "We-Vibe Discount Codes and Deals: Up to 60% Off"
-    },
-    {
-     "title": "TurboTax Full Service Coupons This November 2026",
-     "link": "https://www.wired.com/story/turbotax-coupon/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-     "source": "WIRED",
-     "zh": "TurboTax Full Service Coupons This November 2026"
-    },
-    {
-     "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
-     "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
-     "source": "WIRED",
-     "zh": "Sportsman's Warehouse Promo Code: Save in November 2026"
-    },
-    {
-     "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-     "link": "https://www.wired.com/story/lowes-promo-code/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-     "source": "WIRED",
-     "zh": "Lowe's 促销代码和优惠：电器最高立减 300 美元"
-    },
-    {
-     "title": "油价电费牵动选票，拆解美国大选背后的民生逻辑",
-     "link": "https://www.huxiu.com/article/4905028.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 14:00:00 +0800",
-     "summary": "油价和电费飞涨，让美国选民火冒三丈。明明美国经济账面光鲜，普通人却买单，油企暴利变成了老百姓加不起的汽油，AI数据中心让居民一年多掏几百美元电费。",
-     "source": "虎嗅",
-     "zh": "油价电费牵动选票，拆解美国大选背后的民生逻辑"
-    },
-    {
-     "title": "清理了100个死亡现场我才明白，孤独死和钱没关系",
-     "link": "https://www.huxiu.com/article/4906827.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 13:59:55 +0800",
-     "summary": "本文来自微信公众号： 看客inSight ，作者：看客 老话说得好，天上不会掉馅饼。当你在互联网上刷到一套特别漂亮又特别便宜的房子，仔细研究，背后多半有故事：可能产权有问题，可能房子位置偏远、叫外卖都要一两个小时，也可能——这栋房子“出过事”。 最近，杭州有一套房子被法拍了，法拍公告里专门有一行红字提示：“根据相关当事人称，该房屋发生过非正常死亡事件。”结果竞拍当天，11人出价，57轮竞价，最终成交价264万，差不多是市场价的7折。 有网友说，这笔买卖挺划算，省下来小100万，够给房子里里外外“打扫”干净了。 一套“出过事”的房子，到底要怎么打扫，会怎样再次流入市场？ 常先生做了两年的“特殊现",
-     "source": "虎嗅",
-     "zh": "清理了100个死亡现场我才明白，孤独死和钱没关系"
-    },
-    {
-     "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-     "link": "https://kapteko.com/15-million-webservers/",
-     "pubDate": "Thu, 19 Nov 2026 05:56:36 +0000",
-     "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 28 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
     }
    ]
   },
@@ -2257,20 +2265,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+     "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+     "pubDate": "Thu, 19 Nov 2026 07:38:29 GMT",
+     "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+     "source": "CNBC",
+     "zh": "Takaichi gets chilly reception in China on first Japan leader visit since 2019"
+    },
+    {
+     "title": "AbbVie inks up to $2.54B bispecific cancer drug deal with DISCO Pharma",
+     "link": "https://seekingalpha.com/news/4674531-abbvie-inks-up-to-254b-bispecific-cancer-drug-deal-with-disco-pharma?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 02:30:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AbbVie inks up to $2.54B bispecific cancer drug deal with DISCO Pharma"
+    },
+    {
      "title": "银行债收益率回升，7家银行推迟或取消发债",
      "link": "https://wallstreetcn.com/articles/3786268",
      "pubDate": "Thu, 19 Nov 2026 15:22:23 +0800",
      "summary": "11月18日，湖北银行公告，推迟原定次日簿记发行的20亿元绿色金融债，后续将根据市场情况重新安排。 华尔街见闻注意到，自10月30日以来，已有6家银行推迟发债、1家银行取消发行，按各期披露的基本发行规模或发行上限汇总，涉及800亿元，计入超额增发安排后最高可达900亿元。 这轮调整涉及不同用途的债券。 其中，工行、浦发银行各推迟了基本规模200亿元的永续债，浦发银行在原定簿记当天宣布延期。张家港农商行、郑州银行、兴业银行推迟发行普通金融债，东莞农商行则在综合考虑市场情况和自身负债规划后，取消发行不超过20亿元的金融债。 多家银行在公告中提到发行计划调整，同期，二级市场收益率回升，为理解银行为何",
      "source": "华尔街见闻",
      "zh": "银行债收益率回升，7家银行推迟或取消发债"
-    },
-    {
-     "title": "国家协调劳动关系三方印发《全国和谐劳动关系创建工作先进集体和先进个人表彰办法》",
-     "link": "http://www.eeo.com.cn/2026/1119/1097131.shtml",
-     "pubDate": "Thu, 19 Nov 2026 15:11:17 +0800",
-     "summary": "按照《表彰办法》规定，国家协调劳动关系三方将定期对在和谐劳动关系工作中作出突出贡献的企业和工业园区授予 “全国和谐劳动关系创建工作先进集体”称号；对作出突出贡献的个人授予“全国和谐劳动关系创建工作先进个人”称号。",
-     "source": "经济观察网",
-     "zh": "国家协调劳动关系三方印发《全国和谐劳动关系创建工作先进集体和先进个人表彰办法》"
     },
     {
      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
@@ -2409,22 +2425,6 @@
      "zh": "闹掰了？有理想员工称“一天收宁德时代三封催债邮件” 8月从宁德前五大客户中消失"
     },
     {
-     "title": "Lenovo Group declares 9.00 Hong Kong cents interim dividend",
-     "link": "https://seekingalpha.com/news/4674524-lenovo-group-declares-900-hong-kong-cents-interim-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 01:48:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lenovo Group declares 9.00 Hong Kong cents interim dividend"
-    },
-    {
-     "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-     "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-     "pubDate": "Thu, 19 Nov 2026 06:39:53 GMT",
-     "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
-     "source": "CNBC",
-     "zh": "Takaichi gets chilly reception in China on first Japan leader visit since 2019"
-    },
-    {
      "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
      "pubDate": "Thu, 19 Nov 2026 06:29:34 GMT",
@@ -2495,6 +2495,14 @@
      "summary": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
      "source": "Financial Times",
      "zh": "Angry America and its housing market"
+    },
+    {
+     "title": "Adani: the billionaire at the heart of Modi’s India",
+     "link": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
+     "pubDate": "Thu, 19 Nov 2026 05:00:11 GMT",
+     "summary": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
+     "source": "Financial Times",
+     "zh": "Adani: the billionaire at the heart of Modi’s India"
     }
    ]
   },

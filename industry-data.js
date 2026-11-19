@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 01:28:48",
+ "generated_at": "2026/11/20 01:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -61,7 +61,7 @@ window.INDUSTRY_DATA = {
      "title": "Superhuman pushes its Go assistant everywhere",
      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-     "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+     "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
      "source": "TechCrunch AI",
      "zh": "Superhuman pushes its Go assistant everywhere"
     },
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "The sweet spot for constellation size",
+     "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+     "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "The sweet spot for constellation size"
+    },
+    {
      "title": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock",
      "link": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
      "pubDate": "Thu, 19 Nov 2026 17:08:25 +0000",
@@ -1344,6 +1352,14 @@ window.INDUSTRY_DATA = {
      "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
      "source": "Space.com",
      "zh": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'"
+    },
+    {
+     "title": "Making the case for optical",
+     "link": "https://spacenews.com/making-the-case-for-optical/",
+     "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Making the case for optical"
     },
     {
      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
@@ -1434,6 +1450,22 @@ window.INDUSTRY_DATA = {
      "zh": "El Niño Rains Paint the Atacama"
     },
     {
+     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
+     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
+     "source": "SpaceNews",
+     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1442,12 +1474,28 @@ window.INDUSTRY_DATA = {
      "zh": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines"
     },
     {
+     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
+     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
+     "source": "SpaceNews",
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
+    },
+    {
      "title": "NASA’s Voyager 1 is one light-day from Earth",
      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
      "pubDate": "Wed, 18 Nov 2026 17:46:40 +0000",
      "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
      "source": "Spaceflight Now",
      "zh": "NASA’s Voyager 1 is one light-day from Earth"
+    },
+    {
+     "title": "Origami and solar arrays",
+     "link": "https://spacenews.com/origami-and-solar-arrays/",
+     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
+     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Origami and solar arrays"
     },
     {
      "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
@@ -1474,6 +1522,14 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1482,28 +1538,28 @@ window.INDUSTRY_DATA = {
      "zh": "ULA Vulcan Anomaly Has Pentagon Implications"
     },
     {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
      "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -2218,6 +2274,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Vizsla delays Panuco silver production target by a year to H2 2028",
+     "link": "https://seekingalpha.com/news/4674806-vizsla-delays-panuco-silver-production-target-by-a-year-to-h2-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:27:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vizsla delays Panuco silver production target by a year to H2 2028"
+    },
+    {
+     "title": "IMAX strikes deal with Showcase Cinemas for 13 European cinemas",
+     "link": "https://seekingalpha.com/news/4674805-imax-strikes-deal-with-showcase-cinemas-for-13-european-cinemas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:27:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IMAX strikes deal with Showcase Cinemas for 13 European cinemas"
+    },
+    {
+     "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+     "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 17:26:00 GMT",
+     "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+     "source": "MarketWatch",
+     "zh": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud"
+    },
+    {
+     "title": "Valvoline expects 5%-7% same-store sales growth in fiscal 2027 as it resumes buybacks",
+     "link": "https://seekingalpha.com/news/4674815-valvoline-expects-5-percentminus-7-percent-same-store-sales-growth-in-fiscal-2027-as-it?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:24:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Valvoline expects 5%-7% same-store sales growth in fiscal 2027 as it resumes buybacks"
+    },
+    {
      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 17:21:00 GMT",
@@ -2248,30 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tri-Continental declares $0.3117 dividend"
-    },
-    {
-     "title": "PulteGroup raises dividend by 3.8% to $0.27",
-     "link": "https://seekingalpha.com/news/4674810-pultegroup-raises-dividend-by-38-to-027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 12:12:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PulteGroup raises dividend by 3.8% to $0.27"
-    },
-    {
-     "title": "Dream Unlimited Corp. declares CAD 0.175 dividend",
-     "link": "https://seekingalpha.com/news/4674809-dream-unlimited-corp-declares-cad-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 12:11:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dream Unlimited Corp. declares CAD 0.175 dividend"
-    },
-    {
-     "title": "Hedge funds turn bullish on Nvidia in Q3, but Soros Fund cuts exposure",
-     "link": "https://seekingalpha.com/news/4674131-hedge-funds-turn-bullish-on-nvidia-in-q3-but-soros-fund-cut-exposure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 12:10:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hedge funds turn bullish on Nvidia in Q3, but Soros Fund cuts exposure"
     },
     {
      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
@@ -2338,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "普京：感谢中方和习主席组织今天的俄中美元首会晤"
     },
     {
-     "title": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
-     "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 16:21:00 GMT",
-     "summary": "The combined company would be better able to challenge corporate juggernauts like Amazon, Walmart and Uber.",
-     "source": "MarketWatch",
-     "zh": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge."
-    },
-    {
      "title": "Anthropic pops 34% in Wall Street debut",
      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
      "pubDate": "Thu, 19 Nov 2026 16:19:06 GMT",
@@ -2386,62 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！"
     },
     {
-     "title": "美股三大指数涨跌不一 道指跌近1% 拼多多涨超11%",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
-     "pubDate": "Thu, 19 Nov 2026 23:51:18 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.03%，标普500指数跌1.49%， 纳斯达克 综合 指数跌1.45%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。截至发稿，公司股价报100.95美元，较发行价上涨21.63%，市值约1.32万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达到169.56亿美元",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数涨跌不一 道指跌近1% 拼多多涨超11%"
-    },
-    {
-     "title": "惠誉：拟议改革未获实施不会导致西班牙评级下调",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413869.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:51 +0800",
-     "summary": "惠誉：拟议改革未获实施不会导致西班牙评级下调。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：拟议改革未获实施不会导致西班牙评级下调"
-    },
-    {
-     "title": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413759.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
-     "summary": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%"
-    },
-    {
-     "title": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413649.html",
-     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
-     "summary": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发"
-    },
-    {
-     "title": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413572.html",
-     "pubDate": "Thu, 19 Nov 2026 23:45:43 +0800",
-     "summary": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号"
-    },
-    {
-     "title": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413446.html",
-     "pubDate": "Thu, 19 Nov 2026 23:45:05 +0800",
-     "summary": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求"
-    },
-    {
-     "title": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进",
-     "link": "http://finance.eastmoney.com/news/1351,202611193935413195.html",
-     "pubDate": "Thu, 19 Nov 2026 23:43:54 +0800",
-     "summary": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进"
-    },
-    {
      "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
      "link": "https://wallstreetcn.com/articles/3786305",
      "pubDate": "Thu, 19 Nov 2026 23:32:24 +0800",
@@ -2456,6 +2456,62 @@ window.INDUSTRY_DATA = {
      "summary": "拼多多正将供应链建设推向更核心的战略位置。在国内，公司从农业产区、农村物流向制造业产业带延伸，试图通过基础设施投入和商家扶持，推动商品品质升级与产业带品牌化；在海外，面对贸易规则变化，公司则将本地仓储、物流及履约网络建设作为下一阶段业务发展的重点，帮助中小商家降低跨境经营成本。 这一战略背后，是拼多多对电商竞争逻辑的重新布局。随着国内平台竞争持续加剧，单纯依靠价格和营销已难以形成长期优势，而海外市场也正从流量扩张转向供应链和本地运营能力的比拼。公司表示，将继续推进1000亿元商家扶持计划，把资源投入到能够改善消费者购物体验、提升商家经营能力的基础设施和服务中。 管理层在财报电话会议上强调， 公",
      "source": "华尔街见闻",
      "zh": "拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设"
+    },
+    {
+     "title": "100,000+ UK retail investors score Anthropic shares",
+     "link": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 15:27:00 GMT",
+     "summary": "Around 110,000 UK retailers bought shares in Anthropic's record initial public offering, which saw the AI giant raise over $81 billion.",
+     "source": "Finextra",
+     "zh": "100,000+ UK retail investors score Anthropic shares"
+    },
+    {
+     "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+     "link": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
+     "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
+     "source": "Finextra",
+     "zh": "With attacks on the rise, UK regulators clarify cyber expectations"
+    },
+    {
+     "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+     "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+     "pubDate": "Thu, 19 Nov 2026 09:39:02 -0500",
+     "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
+     "source": "SEC",
+     "zh": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors"
+    },
+    {
+     "title": "BMO reaches quantum utility",
+     "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 14:27:00 GMT",
+     "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
+     "source": "Finextra",
+     "zh": "BMO reaches quantum utility"
+    },
+    {
+     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+     "pubDate": "Thu, 19 Nov 2026 14:15:18 GMT",
+     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+     "source": "CNBC",
+     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
+    },
+    {
+     "title": "时装厂来了机器人裁缝",
+     "link": "http://www.eeo.com.cn/2026/1119/1097586.shtml",
+     "pubDate": "Thu, 19 Nov 2026 22:14:00 +0800",
+     "summary": "在服装加工场景中研发可以干活的机器人并不容易。张瀚文表示，第一个难点是服装面料、款式、工艺多变，尤其是太平鸟所身处的时装领域，上述变化更加复杂；第二个难点是面料属于柔性材料，抓取难度远高于刚性材料。",
+     "source": "经济观察网",
+     "zh": "时装厂来了机器人裁缝"
+    },
+    {
+     "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
+     "link": "https://wallstreetcn.com/articles/3786303",
+     "pubDate": "Thu, 19 Nov 2026 21:52:34 +0800",
+     "summary": "对冲基金对科技股的极端低配，正在为市场反弹埋下伏笔，而Anthropic创纪录IPO的落地，可能成为触发资金回流、推动空头回补的关键催化剂。 高盛交易台主管Rich Privorotsky在周四晨报中指出， 对冲基金科技股净敞口较基准指数低配约11个百分点，接近五年来最低水平。与此同时，市场庄家的伽马敞口极度偏空，而波动率趋于稳定，这些因素都可能为反弹创造条件。 纳斯达克期货周四早盘上涨近2%。 这一潜在转折恰逢Anthropic登陆华尔街。该公司周四以每股83美元定价上市，高于此前发行区间上限，IPO融资约813亿美元，连同股东配售合计募资1073亿美元，刷新全球IPO纪录。创纪录的认购需求",
+     "source": "华尔街见闻",
+     "zh": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点"
     }
    ]
   },

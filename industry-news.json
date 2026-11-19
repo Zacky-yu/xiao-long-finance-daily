@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 15:52:01",
+ "generated_at": "2026/11/19 16:02:22",
  "recent_days": 7,
  "industries": [
   {
@@ -929,6 +929,22 @@
      "zh": "What recycling certificates can’t guarantee"
     },
     {
+     "title": "Musk Not MAGA! Claims To Be Moderate!",
+     "link": "https://cleantechnica.com/2026/11/18/musk-not-maga-claims-to-be-moderate/",
+     "pubDate": "Thu, 19 Nov 2026 04:00:27 +0000",
+     "summary": "Holy cow. Frankly, I would have to assume this is news from The Onion if it wasn’t also so predictable. Here’s the news: Elon Musk is now claiming that he’s “not MAGA,” and that he doesn’t even know what that means. “I’m not sure what MAGA means, but if that ... [continued] The post Musk Not MAGA! C",
+     "source": "CleanTechnica",
+     "zh": "Musk Not MAGA! Claims To Be Moderate!"
+    },
+    {
+     "title": "ACC Approves Gas Plants, Rate Hike, and Allows Annual Rate Increase",
+     "link": "https://cleantechnica.com/2026/11/18/acc-approves-gas-plants-rate-hike-and-allows-annual-rate-increase/",
+     "pubDate": "Thu, 19 Nov 2026 03:50:31 +0000",
+     "summary": "Phoenix – Yesterday, the Arizona Corporation Commission voted to approve Salt River Project’s (SRP) proposed Marigold gas plant in Pinal County, and also approved Tucson Electric Power’s (TEP) proposed rate increase, as well as its proposed Annual Rate Adjustment Mechanism (ARAM) that would allow th",
+     "source": "CleanTechnica",
+     "zh": "ACC Approves Gas Plants, Rate Hike, and Allows Annual Rate Increase"
+    },
+    {
      "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html",
      "pubDate": "Wed, 18 Nov 2026 20:00:00 -0600",
@@ -1057,14 +1073,6 @@
      "zh": "China seeks to strengthen PV recycling system by 2030"
     },
     {
-     "title": "The Harm From Plastic Is Happening In Plain Sight",
-     "link": "https://cleantechnica.com/2026/11/18/plastics-harm-is-happening-in-plain-sight/",
-     "pubDate": "Wed, 18 Nov 2026 12:52:22 +0000",
-     "summary": "It is known. Plastic is a major cause of the climate crisis, yet governments continue to ignore it. The Environmental Justice Foundation (EJF) has issued a new briefing published to coincide with the UN Climate Change Conference, COP31, in Antalya, Türkiye. The briefing, “Reducing plastic production",
-     "source": "CleanTechnica",
-     "zh": "The Harm From Plastic Is Happening In Plain Sight"
-    },
-    {
      "title": "‘Using every ounce of value from the assets’: LG Energy Solution Vertech CPO talks data centres, BESS and software integration at RE+ 2026",
      "link": "https://www.energy-storage.news/using-every-ounce-of-value-from-the-assets-lg-energy-solution-vertech-cpo-talks-data-centres-bess-and-software-integration-at-re-2026/",
      "pubDate": "Wed, 18 Nov 2026 12:06:14 +0000",
@@ -1095,14 +1103,6 @@
      "summary": "US-headquartered energy storage technology firm ESS Inc has ceased operations and filed for Chapter 7 bankruptcy, while system integrator Stem Inc doubts its near-term ‘ability to continue as a going concern’ and just sold its core software platform Athena.",
      "source": "Energy Storage News",
      "zh": "ESS Inc files for Chapter 7 bankruptcy; Stem Inc flags ‘going concern’ doubts amidst Athena optimisation platform sale"
-    },
-    {
-     "title": "Sungrow aims to replicate utility-scale success in residential and C&I segments",
-     "link": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
-     "pubDate": "Wed, 18 Nov 2026 11:08:17 +0000",
-     "summary": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
-     "source": "Energy Storage News",
-     "zh": "Sungrow aims to replicate utility-scale success in residential and C&I segments"
     }
    ]
   },
@@ -1561,6 +1561,14 @@
    "total": 5,
    "items": [
     {
+     "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+     "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+     "pubDate": "Thu, 19 Nov 2026 07:45:17 +0000",
+     "summary": "Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "PHP Readies Critical Security Updates to Patch Another RCE Flaw"
+    },
+    {
      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
      "pubDate": "Thu, 19 Nov 2026 10:03:46 +0530",
@@ -1665,12 +1673,12 @@
      "zh": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem"
     },
     {
-     "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+     "title": "Vero Security Raises $11 Million for AI Security Engineering Platform",
      "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
      "pubDate": "Wed, 18 Nov 2026 15:30:42 +0000",
-     "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
+     "summary": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post Vero Security Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "VeroSecurity Raises $11 Million for AI Security Engineering Platform"
+     "zh": "Vero Security Raises $11 Million for AI Security Engineering Platform"
     },
     {
      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
@@ -1729,14 +1737,6 @@
      "zh": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
     },
     {
-     "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-     "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-     "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
-     "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do"
-    },
-    {
      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
      "pubDate": "Wed, 18 Nov 2026 06:50:25 -0500",
@@ -1769,6 +1769,46 @@
    "total": 18,
    "items": [
     {
+     "title": "肯尼亚 M-Pesa 收款对接，只有 1 个后端，排期该怎么排？",
+     "link": "https://www.baijing.cn/question/638831",
+     "pubDate": "Thu, 19 Nov 2026 07:56:26 +0000",
+     "summary": "团队一共 6 个人，2 个前端、1 个后端、1 个运营，主产品是面向肯尼亚小商户的记账 SaaS，刚起量，付费用户 800 多，月流水折合约 4 万美元。现在收款走的是第三方聚合支付，M-Pesa 到账要 T+2，客诉里三成是“付了没开通”。想自己直连 M-Pesa 的 Daraja API，但后端只有 1 个人，手上还压着南非市场的多币种账单改造，运营又催着下个月做续费提醒。已经试过让聚合支付方开回调通知，只给了日终对账文件，做不到实时开通。卡在人力排期上：是先停南非的活，集中两周做 Daraja 的 STK Push 和回调验签，还是先加一个半自动对账脚本顶一阵？这个取舍按什么标准判断？",
+     "source": "白鲸出海",
+     "zh": "肯尼亚 M-Pesa 收款对接，只有 1 个后端，排期该怎么排？"
+    },
+    {
+     "title": "新鲜感的鲜货零食，凭啥这么火",
+     "link": "https://www.huxiu.com/article/4905981.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 15:55:50 +0800",
+     "summary": "新鲜感零食店火到要排队抢，月营收动辄千万，连老牌巨头都抢着换门头下场。炒板栗的小摊摇身一变，升级200种零食现做现卖，短保质期吸引消费者追新鲜。货架深处却长保为主，利润都靠这些老货撑场，演的是新鲜，赚的是新鲜感。资本观望：风口过去还能不能飞，心里其实早有答案。",
+     "source": "虎嗅",
+     "zh": "新鲜感的鲜货零食，凭啥这么火"
+    },
+    {
+     "title": "《GTA6》预购收入超16亿美元",
+     "link": "https://www.huxiu.com/article/4906863.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 15:54:21 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：李姝瑶 时隔28年，又一款游戏在Metacritic上获得了99分的媒体综合评分。 11月18日，《侠盗猎车手6》（Grand Theft Auto VI，下称《GTA6》）的媒体评测正式解禁。在游戏评分汇总网站Metacritic上，其PS5版本首批媒体综合评分达到99分，追平了1998年《塞尔达传说：时之笛》创下的纪录。此前，《GTA4》和《GTA5》分别获得98分和97分。 11月19日，由Rockstar Games开发的《GTA6》正式登陆PlayStation 5和Xbox Series X|S平台。距离上一部正统续作《GTA5》于2013年",
+     "source": "虎嗅",
+     "zh": "《GTA6》预购收入超16亿美元"
+    },
+    {
+     "title": "她，专砍“药王”，一封拒绝信吞掉170亿港元",
+     "link": "https://www.huxiu.com/article/4906861.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 15:51:16 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：苗诗雨 康方还没那么健壮，这样的暴击，还能承受几次呢？ “这个紧急沟通会议，真不如不开。” 11月15日晚间9点半左右，康方生物董事长夏瑜刚发言完，就有股民在雪球等股票平台上开骂。一个多小时前，康方生物合作方美国公司Summit刚在官网上作出说明——公司最核心的产品依沃西在美国的首次上市申请未获得批准。 “这个结果我们所有人都很沮丧，这也是公司成立14年以来，让我个人最为沮丧的一次。”夏瑜也坦陈，这次试验的设计“其实有些取巧”。 既然在总生存期（OS）上，未能达到统计学显著性，那为什么要硬闯审批呢？股民的不理解，到了攻击夏瑜信誉问题的程度。有人还提",
+     "source": "虎嗅",
+     "zh": "她，专砍“药王”，一封拒绝信吞掉170亿港元"
+    },
+    {
+     "title": "A profile of Netflix&apos;s new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy (Alex Weprin/The Hollywood Reporter)",
+     "link": "https://www.techmeme.com/261119/p10#a261119p10",
+     "pubDate": "Thu, 19 Nov 2026 02:50:02 -0500",
+     "summary": "Alex Weprin / The Hollywood Reporter : A profile of Netflix's new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy &nbsp; &mdash;&nbsp; Ted Sarandos' handpicked consigliere is tasked with reinventing the streamer &mdash; ",
+     "source": "Techmeme",
+     "zh": "A profile of Netflix&apos;s new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy (Alex Weprin/The Hollywood Reporter)"
+    },
+    {
      "title": "三位00后，公司卖了300亿",
      "link": "https://www.huxiu.com/article/4906860.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 15:47:48 +0800",
@@ -1793,12 +1833,44 @@
      "zh": "闻泰不愿向荷兰认输，但时间不多了"
     },
     {
+     "title": "史上最大 IPO 带来新一轮造富神话：Anthropic 上市或催生数千名百万富翁",
+     "link": "https://www.ithome.com/1/029/509.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:43:22 GMT",
+     "summary": "IT之家 11 月 19 日消息，据路透社今天（19 日）上午报道，随着 AI 初创企业 Anthropic 的上市，数千名现任和前员工有望 凭借手中的公司股票成为百万美元富翁 ，就算这些财富暂时还停留在账面上也无妨。此次 IPO 有望成为硅谷历史上规模最大的员工造富事件之一。 Anthropic 的员工有望迎来巨额财富增长，受益者不仅包括早期研究人员和工程师，还包括获得股权激励的行政人员。 Anthropic 招股书披露了员工股权奖励的整体价值，却没有说明这些财富具体如何分配，因此外界对于员工能够获得多少财富，估算结果差异很大。 旧金山非上市公司股权交易平台 Hill 预计，Anthropi",
+     "source": "IT之家",
+     "zh": "史上最大 IPO 带来新一轮造富神话：Anthropic 上市或催生数千名百万富翁"
+    },
+    {
      "title": "Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing (Christian Davies/Financial Times)",
      "link": "https://www.techmeme.com/261119/p8#a261119p8",
      "pubDate": "Thu, 19 Nov 2026 02:40:31 -0500",
      "summary": "Christian Davies / Financial Times : Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing &nbsp; &mdash;&nbsp; Some say speed of automation is still not fast enough to make country internation",
      "source": "Techmeme",
      "zh": "Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing (Christian Davies/Financial Times)"
+    },
+    {
+     "title": "3.4 万日元：哈曼卡顿发布 Allure 2 音箱，经典透明设计、60W 功率",
+     "link": "https://www.ithome.com/1/029/498.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:39:42 GMT",
+     "summary": "IT之家 11 月 19 日消息，哈曼卡顿现已在日本市场推出 Allure 2 家用音箱。新品延续 SoundSticks 经典透明设计， 建议零售价 34,100 日元 （IT之家注：现汇率约合 1,429 元人民币） ，11 月 26 日起出货。 据介绍，这款音箱配备 3 个 1.5 英寸扬声器单元，以及 3.5 英寸低音单元，总功率可达 60W，频响范围为 40Hz 至 20kHz (-6dB)，信噪比 80dB(A)。 同时这款音箱支持 AI Sound Boost 技术，可进一步优化声音输出，让音效更加饱满。该机兼容蓝牙 5.4 技术，最多可同时连接 2 台手机。用户可以将两台 Al",
+     "source": "IT之家",
+     "zh": "3.4 万日元：哈曼卡顿发布 Allure 2 音箱，经典透明设计、60W 功率"
+    },
+    {
+     "title": "微软纳德拉：AI 代劳网购将重塑互联网生意，拒绝接入的平台恐失去机会",
+     "link": "https://www.ithome.com/1/029/497.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:39:09 GMT",
+     "summary": "IT之家 11 月 19 日消息，科技媒体 TechCrunch 昨日（11 月 18 日）发布博文，报道称在《纽约时报》DealBook 峰会上，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）表示， 能够替用户浏览商品、完成购买的 AI 智能体，可能重塑互联网的商业格局，让依赖用户访问和广告收入的平台面临重新洗牌。 IT之家援引博文介绍，纳德拉认为，今天许多平台的赚钱方式，建立在人们亲自上网浏览、点击的基础上。当 AI 开始代替用户执行任务，流量如何分配、平台之间由谁向谁付费，都可能发生变化。 他将这一转变比作当年互联网入口从雅虎等门户网站转向谷歌等搜索引擎。 报道称，亚马逊",
+     "source": "IT之家",
+     "zh": "微软纳德拉：AI 代劳网购将重塑互联网生意，拒绝接入的平台恐失去机会"
+    },
+    {
+     "title": "西门子达成收购 Breker 协议，增强 SoC 验证能力",
+     "link": "https://www.ithome.com/1/029/496.htm",
+     "pubDate": "Thu, 19 Nov 2026 07:37:00 GMT",
+     "summary": "IT之家 11 月 19 日消息，Siemens（西门子）当地时间本月 17 日宣布，已就收购 Breker Verification Systems 签署协议。 这笔交易预计将于今年 12 月完成。 Breker 的加入将为西门子 EDA 产品组合增强 SoC 验证能力 。 IT之家了解到，Breker 于 2003 年创立，总部位于美国加利福尼亚州圣何塞，致力于开发面向先进 SoC 的自动化验证解决方案。其技术被业界领先企业用于 Arm / RISC-V 微架构 SoC 平台的设计验证。 西门子近期还宣布了另一笔 EDA 领域的交易，即 收购 Lauterbach 。",
+     "source": "IT之家",
+     "zh": "西门子达成收购 Breker 协议，增强 SoC 验证能力"
     },
     {
      "title": "Alphabet Chief Investment Officer Ruth Porat says the company and its peers need to invest in jobs in places where data centers are being built amid backlash (Elena Eisenstadt/Bloomberg)",
@@ -1841,22 +1913,6 @@
      "zh": "Sources expect Anthropic&apos;s IPO allocation for retail investors to fall below 20%; retail buyers have historically received 5% to 10% of shares in large IPOs (Financial Times)"
     },
     {
-     "title": "消息称某厂 Pocket 云台工程机搭载骁龙 8 Gen5 芯片 + 2 亿主摄，预计 vivo 旗下",
-     "link": "https://www.ithome.com/1/029/488.htm",
-     "pubDate": "Thu, 19 Nov 2026 07:23:09 GMT",
-     "summary": "IT之家 11 月 19 日消息，据博主 @数码闲聊站 今日爆料，某厂 Pocket 云台工程机搭载骁龙 8 Gen 5（SM8845）芯片与 200Mp 1/1.12\" 云台超级主摄，目前规划明年 3-4 月与 Ultra 一同登场。 该博主未在爆料中说明该机所属厂商，结合该博主此前的爆料习惯，预计该机为 vivo 旗下。据 IT 之家 6 月 3 日报道，OPPO 与 vivo 的手持 Pocket 云台相机曾被指采用 200Mp 1/1.12\" 超级大底主摄，有望与哈苏、蔡司联名，内置“旗舰级”芯片并支持生态互联。 影像方面， 200Mp、1/1.12\" 的规格与索尼 LYT901 接近",
-     "source": "IT之家",
-     "zh": "消息称某厂 Pocket 云台工程机搭载骁龙 8 Gen5 芯片 + 2 亿主摄，预计 vivo 旗下"
-    },
-    {
-     "title": "新一代华为鸿蒙智家无界交互官宣 11 月 24 日发布，号称“住进未来家”",
-     "link": "https://www.ithome.com/1/029/487.htm",
-     "pubDate": "Thu, 19 Nov 2026 07:20:57 GMT",
-     "summary": "IT之家 11 月 19 日消息，华为官方今日宣布，新一代华为鸿蒙智家无界交互将在 11 月 24 日发布，号称“住进未来家”。 华为官方暂未公布新一代鸿蒙智家无界交互的具体功能，不过预热海报中展示了人车家生态场景。图中的女主人公手持平板似乎正在控制窗帘开关等，而男主人公和小朋友正在看电视。预计无界交互将进一步优化智能家居的交互体验。 据IT之家此前报道， 华为在 11 月 16 日公布了鸿蒙智家 11 月升级内容 ，包括新增 HarmonyOS 7 手机音乐流转到全屋音乐；App 上线“常用常新”板块与“安装进度”功能；优化窗帘语音控制及无主机灯光批量控制等。 相关阅读： 《 华为鸿蒙智家 ",
-     "source": "IT之家",
-     "zh": "新一代华为鸿蒙智家无界交互官宣 11 月 24 日发布，号称“住进未来家”"
-    },
-    {
      "title": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/261119/p5#a261119p5",
      "pubDate": "Thu, 19 Nov 2026 02:20:02 -0500",
@@ -1865,36 +1921,12 @@
      "zh": "Indian startup Sarvam, which is pursuing sovereign AI, is facing online backlash for offering Chinese open-weight models on its Token Factory inference service (Saritha Rai/Bloomberg)"
     },
     {
-     "title": "岚图梦想家 9 右舵版车型曝光，预计 12 月中旬在香港上市",
-     "link": "https://www.ithome.com/1/029/485.htm",
-     "pubDate": "Thu, 19 Nov 2026 07:20:01 GMT",
-     "summary": "IT之家 11 月 19 日消息，岚图汽车 CBO、销售公司总经理邵明峰今日在微博发文，晒出岚图梦想家 9 右舵版。 作为参考，岚图梦想家 9 上市于今年 9 月 22 日，售价区间为 41.99 万元至 51.99 万元。邵明峰曾在此前透露，该车已在香港特别行政区完成路试，当地销售和售后服务体系正在同步搭建，新车预计 12 月中旬在香港上市。 据IT之家此前报道 ，岚图梦想家 9 定位“新时代旗舰 MPV”，提供 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式。该车二排座椅拥有旋转、横滑、零重力及机械按摩等功能，基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 A",
-     "source": "IT之家",
-     "zh": "岚图梦想家 9 右舵版车型曝光，预计 12 月中旬在香港上市"
-    },
-    {
-     "title": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”",
-     "link": "https://www.ithome.com/1/029/484.htm",
-     "pubDate": "Thu, 19 Nov 2026 07:19:43 GMT",
-     "summary": "IT之家 11 月 19 日消息，科技媒体 Windows Central 今天（11 月 19 日）发布博文，报道称《侠盗猎车手 VI》（GTA 6）游戏上线首日，玩家没有急着执行任务、抢车或与警方周旋， 反而将大量时间花在了各种离谱又治愈的“生活玩法”上。 社交平台上，最火的一段视频来自被困公海的玩家：等待片刻后，一只戴着墨镜的救援犬会驾驶水上摩托赶来，把玩家送往“狗岛”，还能获取现金和食物等补给。这段“酷狗救援”视频迅速走红，成为游戏发售首日最具传播力的片段之一。 另一些玩家则选择“居家过日子”。游戏中，玩家可以挑选涂料颜色、亲手给卧室刷墙，以提升与角色露西亚的关系。有主播为了“她会不会",
-     "source": "IT之家",
-     "zh": "《GTA 6》游戏发行首日：玩家热衷于刷墙、刷手机等“生活玩法”"
-    },
-    {
      "title": "中国发现新直立人化石",
      "link": "https://www.solidot.org/story?sid=85929",
      "pubDate": "Thu, 19 Nov 2026 15:14:46 +0800",
      "summary": "直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚直立人化石生活在约 40 万年前。传统观点认为，直立人偏好开阔的疏林或稀树草原环境，很难在雨林环境中生存，本次在广西崇左的新发现则颠覆了这一认识，直立人完全可以",
      "source": "Solidot",
      "zh": "中国发现新直立人化石"
-    },
-    {
-     "title": "Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development (Jasmine Sun/New York Times)",
-     "link": "https://www.techmeme.com/261119/p4#a261119p4",
-     "pubDate": "Thu, 19 Nov 2026 02:10:33 -0500",
-     "summary": "Jasmine Sun / New York Times : Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development &nbsp; &mdash;&nbsp; Imagine an artificial intelligence company that is about to launch the biggest I.P.O. in history.&nbs",
-     "source": "Techmeme",
-     "zh": "Interviews with Anthropic employees reveal muted enthusiasm ahead of the largest IPO on record, as they debate the pace of frontier AI development (Jasmine Sun/New York Times)"
     },
     {
      "title": "TikTok 美区短视频挂车出单后，物流时效拖到 9 天导致退款率涨到 18%，该换履约方案还是压短视频投放？",
@@ -1961,14 +1993,6 @@
      "zh": "木头姐最新访谈：推理成本每年降99%，AI革命推动美国GDP增速升至7%"
     },
     {
-     "title": "哈尔滨买了“迪士尼”",
-     "link": "https://www.huxiu.com/article/4906841.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 14:49:41 +0800",
-     "summary": "本文来自微信公众号： 新氪度 ，作者：新氪度° 11月10日那场发布会，哈尔滨把\"新IP\"三个字摆在了最前面。园区要12月中旬才开门，平台上的搜索量先涨了10倍。我翻完通稿才发现，冰这一块他们早就不缺了。 01 12月中旬，第28届哈尔滨冰雪大世界要开门，主题叫\"冰雪逐梦浪漫之约\"。 据哈尔滨市政府新闻办11月10日的发布会，园区从上一届的120万平方米扩到125万平方米，这个规模是历届最大的一次。 可这多出来的5万平方米并不是今年真正的变量。 发布会讲得最细的是一块近2万平方米的主题区，哈尔滨与华特迪士尼（中国）达成战略合作，第一次把《冰雪奇缘》的冰雪雕塑搬进了园区。 艾莎与安娜及雪宝都以冰",
-     "source": "虎嗅",
-     "zh": "哈尔滨买了“迪士尼”"
-    },
-    {
      "title": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据",
      "link": "https://www.solidot.org/story?sid=85928",
      "pubDate": "Thu, 19 Nov 2026 14:46:48 +0800",
@@ -1983,30 +2007,6 @@
      "summary": "上周收到 Temu 美国站全托管后台的核价通知，同款厨房收纳架被要求从 6.9 美元降到 5.6 美元，这已经是这个季度第三轮了。我们团队一共 3 个人，一个盯选品一个盯供应链，我自己兼着核价和备货排期。现在的情况是：跟价吧，毛利从 18% 压到不足 8%，还要垫资压 45 天库存；不跟吧，链接直接掉出流量池，之前备的 2000 件货就砸手里。试过换包装降克重、跟工厂谈阶梯价，最多再挤出 4 个点，核价窗口只给 48 小时，根本来不及重新比价。人手就这么多，同时还在跑另外两个类目，排期已经排到月底。这种连续核价的情况下，你们是设一条毛利红线直接放弃，还是先跟两轮保住坑位再说？",
      "source": "白鲸出海",
      "zh": "Temu 美国全托管核价连降三轮，3人小团队还要不要继续跟？"
-    },
-    {
-     "title": "中东短剧阿语本地化后，沙特用户付费转化卡在支付和结算周期上，该怎么破？",
-     "link": "https://www.baijing.cn/question/638827",
-     "pubDate": "Thu, 19 Nov 2026 06:13:04 +0000",
-     "summary": "我们做阿语短剧出海，主攻沙特和阿联酋，团队12人，内容已上线3个月，起量阶段月投放预算约8万美元。阿语配音和字幕外包给黎巴嫩团队做本地化，剧集完播率还行，但沙特用户付费转化率只有0.6%，远低于我们预期的2%。排查后发现两个卡点：一是沙特用户习惯本地钱包和运营商计费，我们目前只接了信用卡和PayPal，很多用户到支付页就流失；二是回款周期太长，通过现有收单行结算要T+15到T+20，现金流压力大。已经试过加STC Pay入口，但接入流程走了两个月还没跑通。想直接问：中东短剧这类小额高频付费，支付通道和结算周期到底该怎么组合才不影响起量节奏？",
-     "source": "白鲸出海",
-     "zh": "中东短剧阿语本地化后，沙特用户付费转化卡在支付和结算周期上，该怎么破？"
-    },
-    {
-     "title": "Lego Promo Code | 20% Off November 2026",
-     "link": "https://www.wired.com/story/lego-promo-code/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
-     "source": "WIRED",
-     "zh": "Lego Promo Code | 20% Off November 2026"
-    },
-    {
-     "title": "Reebok Discount Code: 15% Off: November 2026",
-     "link": "https://www.wired.com/story/reebok-discount-code/",
-     "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-     "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
-     "source": "WIRED",
-     "zh": "Reebok Discount Code: 15% Off: November 2026"
     }
    ]
   },
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola Razr Fold finally receives Android 17 stable update",
+     "link": "https://www.gsmarena.com/motorola_razr_fold_android_17_stable_update-news-75536.php",
+     "pubDate": "Thu, 19 Nov 2026 08:51:02 +0100",
+     "summary": "Motorola rolled out the stable Android 17 update to some of its folding and non-folding smartphones, but it left users of its most expensive folding smartphone, the Razr Fold, waiting. Well, the wait is finally over, as Motorola has released the stable Android 17 update for the Razr Fold. [#InlinePr",
+     "source": "GSMArena",
+     "zh": "Motorola Razr Fold finally receives Android 17 stable update"
+    },
     {
      "title": "Major Galaxy Studio leak reveals battery size, headphone jack, and plenty more",
      "link": "https://www.androidauthority.com/samsung-galaxy-studio-leak-specs-3737013/",
@@ -2177,14 +2185,6 @@
      "zh": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer"
     },
     {
-     "title": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start",
-     "link": "https://www.gsmarena.com/heres_when_iphone_18_and_iphone_air_2_display_production_will_reportedly_start-news-75525.php",
-     "pubDate": "Wed, 18 Nov 2026 23:58:02 +0100",
-     "summary": "Apple unveiled the iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo in September, while the standard iPhone 18 and the iPhone Air 2 are expected to follow next spring. Now, a new report out of South Korea tells us when the displays for those two will enter the mass production phase. According to som",
-     "source": "GSMArena",
-     "zh": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start"
-    },
-    {
      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
      "link": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
      "pubDate": "Wed, 18 Nov 2026 21:58:36 +0000",
@@ -2265,6 +2265,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Anthropic首秀在即，暗盘最高暴涨26%，估值冲击1.5万亿美元！",
+     "link": "https://wallstreetcn.com/articles/3786269",
+     "pubDate": "Thu, 19 Nov 2026 15:55:08 +0800",
+     "summary": "Anthropic完成史上最大规模IPO，暗盘交易已释放出强烈的看涨信号，但上市后的股价表现能否延续这一热度，仍有待市场检验。 11月19日周四，这家人工智能实验室将在纽约证券交易所正式挂牌，IPO发行价定为每股83美元。 多个暗盘渠道显示，Anthropic股价开盘溢价料在20%至26%之间，对应估值最高约1.5万亿美元。 与此同时，Anthropic确定发行价后，纳斯达克100指数期货随即上涨，亚洲交易时段午后涨幅进一步扩大。 此次上市正值科技股承压之际。英伟达本月股价累计下跌26%，市场对科技支出放缓的担忧持续升温，纳斯达克100指数过去一周下跌4.4%。作为AI行业备受瞩目的新股，An",
+     "source": "华尔街见闻",
+     "zh": "Anthropic首秀在即，暗盘最高暴涨26%，估值冲击1.5万亿美元！"
+    },
+    {
+     "title": "Trump greets ‘my friend’ Putin ahead of historic trilateral with Xi",
+     "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+     "pubDate": "Thu, 19 Nov 2026 07:43:13 GMT",
+     "summary": "Meeting of three leaders looms in southern Chinese city of Shenzhen during week of high-stakes diplomacy",
+     "source": "Financial Times",
+     "zh": "Trump greets ‘my friend’ Putin ahead of historic trilateral with Xi"
+    },
+    {
      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
      "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
      "pubDate": "Thu, 19 Nov 2026 07:38:29 GMT",
@@ -2287,6 +2303,14 @@
      "summary": "11月18日，湖北银行公告，推迟原定次日簿记发行的20亿元绿色金融债，后续将根据市场情况重新安排。 华尔街见闻注意到，自10月30日以来，已有6家银行推迟发债、1家银行取消发行，按各期披露的基本发行规模或发行上限汇总，涉及800亿元，计入超额增发安排后最高可达900亿元。 这轮调整涉及不同用途的债券。 其中，工行、浦发银行各推迟了基本规模200亿元的永续债，浦发银行在原定簿记当天宣布延期。张家港农商行、郑州银行、兴业银行推迟发行普通金融债，东莞农商行则在综合考虑市场情况和自身负债规划后，取消发行不超过20亿元的金融债。 多家银行在公告中提到发行计划调整，同期，二级市场收益率回升，为理解银行为何",
      "source": "华尔街见闻",
      "zh": "银行债收益率回升，7家银行推迟或取消发债"
+    },
+    {
+     "title": "国家协调劳动关系三方印发《全国和谐劳动关系创建工作先进集体和先进个人表彰办法》",
+     "link": "http://www.eeo.com.cn/2026/1119/1097131.shtml",
+     "pubDate": "Thu, 19 Nov 2026 15:11:17 +0800",
+     "summary": "按照《表彰办法》规定，国家协调劳动关系三方将定期对在和谐劳动关系工作中作出突出贡献的企业和工业园区授予 “全国和谐劳动关系创建工作先进集体”称号；对作出突出贡献的个人授予“全国和谐劳动关系创建工作先进个人”称号。",
+     "source": "经济观察网",
+     "zh": "国家协调劳动关系三方印发《全国和谐劳动关系创建工作先进集体和先进个人表彰办法》"
     },
     {
      "title": "商务部：中美贸易理事会农业工作组将于近期召开首次会议",
@@ -2465,14 +2489,6 @@
      "zh": "虎牙运营利润四年来首度转正，游戏发行接棒增长"
     },
     {
-     "title": "欢聚三季度收入增15.6%，直播之外找到第二增长曲线",
-     "link": "https://wallstreetcn.com/articles/3786257",
-     "pubDate": "Thu, 19 Nov 2026 13:00:31 +0800",
-     "summary": "欢聚集团的转型，走到了收入与利润反向的一个季度。 11月19日，欢聚集团（ JOYY.US ）发布2026年第三季度未经审计业绩：总收入6.246亿美元，同比增长15.6%，环比增长5.7%，高于市场预期；三大业务线全部正增长。 分业务看，社交娱乐收入4.41亿美元，同比增长8.8%；BIGO Ads收入1.457亿美元，同比增长39.6%；SHOPLINE收入3780万美元，同比增长24.7%。 非直播收入合计2.047亿美元，同比增长34.9%，占总收入的比例升至32.8%。 广告是降低直播依赖度的主力，BIGO Audience Network收入同比增长52.3%，SDK接入流量增长5",
-     "source": "华尔街见闻",
-     "zh": "欢聚三季度收入增15.6%，直播之外找到第二增长曲线"
-    },
-    {
      "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
      "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
      "pubDate": "Thu, 19 Nov 2026 05:00:17 GMT",
@@ -2487,22 +2503,6 @@
      "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
      "source": "Financial Times",
      "zh": "Retail investors face squeeze in blockbuster Anthropic IPO"
-    },
-    {
-     "title": "Angry America and its housing market",
-     "link": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-     "pubDate": "Thu, 19 Nov 2026 05:00:17 GMT",
-     "summary": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
-     "source": "Financial Times",
-     "zh": "Angry America and its housing market"
-    },
-    {
-     "title": "Adani: the billionaire at the heart of Modi’s India",
-     "link": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-     "pubDate": "Thu, 19 Nov 2026 05:00:11 GMT",
-     "summary": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
-     "source": "Financial Times",
-     "zh": "Adani: the billionaire at the heart of Modi’s India"
     }
    ]
   },

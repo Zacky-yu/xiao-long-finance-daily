@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 00:12:29",
+ "generated_at": "2026/11/20 00:23:44",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+     "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+     "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
+     "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+     "source": "TechCrunch AI",
+     "zh": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
+    },
+    {
+     "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
+     "link": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
+     "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
+     "summary": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
+     "source": "KDnuggets",
+     "zh": "What I Learned From Kaggle + Google’s Free Agentic AI Course"
+    },
     {
      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
@@ -24,6 +40,14 @@ window.INDUSTRY_DATA = {
      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
      "source": "TechCrunch AI",
      "zh": "Superhuman pushes its Go assistant everywhere"
+    },
+    {
+     "title": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy",
+     "link": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
+     "pubDate": "Thu, 19 Nov 2026 13:00:00 +0000",
+     "summary": "Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see how Iceberg handles concurrent commits between engines.",
+     "source": "KDnuggets",
+     "zh": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy"
     },
     {
      "title": "阿里净利润大涨213%！吴泳铭交底AI战略，相关年化收入突破700亿",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "NVIDIA 拆解混合模型的\"读写不对称性\"。",
      "source": "机器之心",
      "zh": "写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%"
-    },
-    {
-     "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-     "link": "https://www.qbitai.com/2026/11/511079.html",
-     "pubDate": "Thu, 19 Nov 2026 04:02:39 +0000",
-     "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
-     "source": "量子位",
-     "zh": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计"
-    },
-    {
-     "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
-     "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
-     "pubDate": "Thu, 19 Nov 2026 03:23:50 +0000",
-     "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confiden",
-     "source": "MarkTechPost",
-     "zh": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence"
-    },
-    {
-     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-     "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-     "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000",
-     "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-     "source": "TechCrunch AI",
-     "zh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe",
+     "link": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/",
+     "pubDate": "Thu, 19 Nov 2026 16:14:12 +0000",
+     "summary": "We hear from the head of market strategy & public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today.",
+     "source": "Energy Storage News",
+     "zh": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe"
+    },
+    {
      "title": "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
      "link": "https://oilprice.com/Energy/Energy-General/AI-Jitters-Havent-Slowed-the-Bet-on-US-Power-Demand.html",
      "pubDate": "Thu, 19 Nov 2026 10:00:00 -0600",
@@ -1040,14 +1048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google-owned renewable energy developer Intersect has signed an agreement with Heron Power to reserve 1.5GW of the US-based startup’s Heron Link medium-voltage power electronics units, with deliveries scheduled to begin in 2028.",
      "source": "PV Tech",
      "zh": "Heron Power inks 1.5GW power electronics deal with Google-owned Intersect"
-    },
-    {
-     "title": "BW ESS and Wattmen to develop 500MW of battery energy storage in France",
-     "link": "https://www.energy-storage.news/bw-ess-wattmen-500mw-battery-storage-france/",
-     "pubDate": "Thu, 19 Nov 2026 09:50:44 +0000",
-     "summary": "BW ESS has partnered with Lyon-based developer Wattmen to develop around 500MW of BESS projects in France over the next three years.",
-     "source": "Energy Storage News",
-     "zh": "BW ESS and Wattmen to develop 500MW of battery energy storage in France"
     },
     {
      "title": "EU sets three-month deadline for solar approvals, lowers benefit-sharing threshold to 7MW",
@@ -1778,6 +1778,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Shein为什么要花5亿欧元在波兰建仓？",
+     "link": "https://www.huxiu.com/article/4907016.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 00:17:04 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月4日，Shein邀请来自波兰、法国、意大利、西班牙和德国的记者，参观位于波兰弗罗茨瓦夫附近的欧洲物流中心。 一座长达750米的仓库里，数百排货架延伸到视线尽头。黄色货箱用于商品入库和存储，蓝色货箱用于处理即将发出的订单。来自中国立镖机器人的自动化设备在货架间穿行，配合工人完成商品拣选、检查和包装。 这座仓库每天24小时运行。 当天，Shein宣布，2026年将在波兰投资5亿欧元，扩建欧洲物流网络。整个网络覆盖20座仓库，总面积约100万平方米，配备超过6500台自动化机器人，工作人员预计在年底达到1万人。自2022年进入波兰",
+     "source": "虎嗅",
+     "zh": "Shein为什么要花5亿欧元在波兰建仓？"
+    },
+    {
+     "title": "从知识经过，到能力沉淀",
+     "link": "https://www.huxiu.com/article/4907015.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 00:13:04 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 当AI让知识变得越来越容易获得，我们是否还在经历将知识转化为能力的过程？ -- 上一篇文章知识经过之后，我讨论了一个问题： 当我们借助AI快速获得知识、构建理论、形成观点，甚至完成一篇看起来相当成熟的文章时，这些东西究竟有多少真正成为了自己的认知？ 我发现，自己有时能够很快理解一个复杂的问题，也能够用相当完整的语言把它解释出来。但当我试图回到最初，重新推导其中的逻辑，或者解释某个判断究竟是如何形成的时候，却不一定能够做到。 这让我产生了一种微妙的不安，随着时间的推移，这种不安越来越强烈！ 我们似乎正在获得越来越多的知识，却不一定因此变得越",
+     "source": "虎嗅",
+     "zh": "从知识经过，到能力沉淀"
+    },
+    {
+     "title": "《可能的爱》：阶层的伤痛、凝视与向往",
+     "link": "https://www.huxiu.com/article/4907014.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 00:10:24 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：过蝈8433 影片开场字幕，来自《十诫》：“不可贪恋他人所有”。一如既往，韩国导演李沧东的电影里带着某种宗教的悲悯。同样是记录劳工失业、中年危机，《可能的爱》没有朴赞郁《无可奈何》里的黑色幽默，它克制、日常，甚至有些粗粝，像一台架在生活废墟旁的摄像机，记录着一场漫长而沉重的现实。 在Dispatch专访里，李沧东对片名是这样说的：一般爱情故事，大多写“不可能的爱”（无法成真、被阻碍的爱）。那反过来，什么才是可能的爱？什么关系可以存续、什么爱在今天是有可能的？它不只是男女情爱。它包含着夫妻之间长期相伴、已经习以为常的爱；不同阶层陌生人之间能不能建立真诚的",
+     "source": "虎嗅",
+     "zh": "《可能的爱》：阶层的伤痛、凝视与向往"
+    },
+    {
+     "title": "我最近听到最有水平的两句话",
+     "link": "https://www.huxiu.com/article/4907013.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 00:06:42 +0800",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。 第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。 第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。 我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实： 我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。 情绪本来是向外的，我们却拿它对内审判自己。 想法本来是向内的，我",
+     "source": "虎嗅",
+     "zh": "我最近听到最有水平的两句话"
+    },
+    {
+     "title": "苏伊士运河恢复通航，全球航运公司为什么反而紧张了？",
+     "link": "https://www.huxiu.com/article/4907011.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 00:05:51 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月11日，全球最大的集装箱航运公司地中海航运（MSC），向客户公布了12月上半月亚洲至欧洲的运价。 从远东港口运往北欧，一个40英尺集装箱的FAK公开报价为4600美元，与11月下半月保持一致。 一天后，马士基宣布，从12月1日起，对远东至北欧航线征收新的旺季附加费，每个40英尺集装箱1000美元。 两家公司公布的是不同收费项目。MSC的FAK报价包含部分燃油等附加费，马士基的1000美元则是单独列出的旺季附加费。最终成交价格还要看货主合同、附加费和具体舱位安排。 船公司已经开始为12月安排价格。 11月16日，马士基与赫伯罗",
+     "source": "虎嗅",
+     "zh": "苏伊士运河恢复通航，全球航运公司为什么反而紧张了？"
+    },
+    {
      "title": "Amazon warns NYC customers that they could be charged up to $5 more per order if the City Council passes a bill requiring it to directly hire delivery workers (Lisa Fickenscher/New York Post)",
      "link": "https://www.techmeme.com/261119/p37#a261119p37",
      "pubDate": "Thu, 19 Nov 2026 11:05:06 -0500",
@@ -1976,46 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
      "source": "Ars Technica",
      "zh": "Mouse fight club might explain why we like to watch violent things"
-    },
-    {
-     "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-     "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-     "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-     "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
-     "source": "TechCrunch",
-     "zh": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains"
-    },
-    {
-     "title": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8211631.html",
-     "pubDate": "Thu, 19 Nov 2026 21:56:01 +0800",
-     "summary": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察"
-    },
-    {
-     "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
-     "link": "https://www.tmtpost.com/8211622.html",
-     "pubDate": "Thu, 19 Nov 2026 21:48:30 +0800",
-     "summary": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。这里讨论的是作用机制，不意味着某一种行为逻辑必然对应某一种财富结果。",
-     "source": "钛媒体",
-     "zh": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？"
-    },
-    {
-     "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-     "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-     "pubDate": "Thu, 19 Nov 2026 13:40:02 +0000",
-     "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-     "source": "Ars Technica",
-     "zh": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way"
-    },
-    {
-     "title": "过度运动紊乱多巴胺",
-     "link": "https://www.solidot.org/story?sid=85934",
-     "pubDate": "Thu, 19 Nov 2026 21:31:27 +0800",
-     "summary": "高强度运动后如果没有充足的恢复时间，带来的影响可能不只是肌肉和耐力受损。一项研究表明，过度训练还会扰乱大脑的化学环境，有可能阻碍大脑回归正常静息状态。巴西圣保罗大学的科研人员发现，长时间高强度运动会改变海马体内多巴胺的调节机制。海马体是负责记忆与情绪调控的重要脑区。研究团队观察到，按照高强度方案训练的小鼠，本该进入恢复期时，多巴胺水平却持续偏高。多巴胺在动机、警觉性方面发挥重要作用。他们认为，人类体内如果出现类似的紊乱，或许可以解释为什么过度训练有时会伴随失眠、焦虑和持续性疲劳。如果这一推论得到证实，将进一步证明充足休息对体能与心理健康都至关重要。",
-     "source": "Solidot",
-     "zh": "过度运动紊乱多巴胺"
     }
    ]
   },
@@ -2025,6 +2025,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers",
+     "link": "https://www.gsmarena.com/amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546.php",
+     "pubDate": "Thu, 19 Nov 2026 17:14:02 +0100",
+     "summary": "No, it’s not Prime Day – but Amazon UK still has an interesting Prime-only deal. The Xiaomi 18 Pro and Xiaomi 18 Pro Max started their global rollout just a couple of days ago and the retailer is already offering discounts of £100 and £150, respectively. Xiaomi 18 Pro Max and Xiaomi 18 Pro The catch",
+     "source": "GSMArena",
+     "zh": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers"
+    },
+    {
+     "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
+     "link": "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
+     "pubDate": "Thu, 19 Nov 2026 16:10:21 +0000",
+     "summary": "Apple is coming up to the end of its first year as the exclusive broadcaster of Formula 1 in the United States, with the deal set to continue through 2031. So far, it seems to be going well for all parties involved. In a sign of that relationship strengthening, the company announced it is expanding ",
+     "source": "9to5Mac",
+     "zh": "Apple TV will stream all-female racing series F1 Academy starting next year"
+    },
+    {
+     "title": "iPadOS 27.3: Three new features coming to your iPad",
+     "link": "https://9to5mac.com/2026/11/19/ipados-27-3-three-new-features-coming-to-your-ipad/",
+     "pubDate": "Thu, 19 Nov 2026 16:09:55 +0000",
+     "summary": "iPadOS 27.3 is now in beta and will launch to all users next month , here are three new features it introduces for iPad. more…",
+     "source": "9to5Mac",
+     "zh": "iPadOS 27.3: Three new features coming to your iPad"
+    },
+    {
+     "title": "UGREEN’s DXP2800 GT NAS drops $160 to a record low for Black Friday",
+     "link": "https://www.androidauthority.com/ugreen-dxp2800-gt-deal-3737324/",
+     "pubDate": "Thu, 19 Nov 2026 16:07:09 +0000",
+     "summary": "UGREEN's 10GbE two-bay NAS is 31% off, its lowest price so far.",
+     "source": "Android Authority",
+     "zh": "UGREEN’s DXP2800 GT NAS drops $160 to a record low for Black Friday"
+    },
     {
      "title": "Samsung prepares Galaxy AI on Snapdragon X Elite for its upcoming Android laptops",
      "link": "https://www.androidauthority.com/samsung-galaxy-ai-snapdragon-x-elite-android-laptops-apk-teardown-3737313/",
@@ -2096,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save $24 on a three-port 100W charger with a screen that shows live charging stats.",
      "source": "Android Authority",
      "zh": "Charge your laptop and phone at once with this $45.99 Anker deal"
-    },
-    {
-     "title": "Duolingo will let you opt out of event screens and start lessons faster",
-     "link": "https://www.androidauthority.com/duolingo-event-screen-opt-out-3737299/",
-     "pubDate": "Thu, 19 Nov 2026 15:31:12 +0000",
-     "summary": "Testing begins next week, with a larger rollout in December.",
-     "source": "Android Authority",
-     "zh": "Duolingo will let you opt out of event screens and start lessons faster"
     },
     {
      "title": "Google Fi app redesign brings floating toolbar & Ask Fi",
@@ -2186,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Black Friday deals from Amazon Germany: deals ranging from flagship to mid-range"
     },
     {
-     "title": "MacBook Pro PROLED, MacBook Neo, more: The best Amazon Black Friday deals on Macs",
-     "link": "https://9to5mac.com/2026/11/19/macbook-pro-proled-macbook-neo-more-the-best-amazon-black-friday-deals-on-macs/",
-     "pubDate": "Thu, 19 Nov 2026 13:56:07 +0000",
-     "summary": "The official 2026 Amazon Black Friday sale is now live with a solid $70 off AirPods Pro 3 and the lowest prices ever on Apple Watch Series 12 , among many other Apple deals, but we are now tracking some of the very best MacBook deals of the year. We are catching a surprising and super rare $50 price",
-     "source": "9to5Mac",
-     "zh": "MacBook Pro PROLED, MacBook Neo, more: The best Amazon Black Friday deals on Macs"
-    },
-    {
      "title": "Rockstar says that GTA 6's map has room to expand for future storylines",
      "link": "https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/",
      "pubDate": "Thu, 19 Nov 2026 13:30:02 +0000",
@@ -2208,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung announced the One UI 9.5 beta program for the Galaxy S26 series yesterday. One UI 9.5 brings several new features, including App Lock and Floating shortcuts. With future One UI 9.5 updates, Samsung could bring more features to Galaxy smartphones, including native Open Gate video recording an",
      "source": "GSMArena",
      "zh": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5"
-    },
-    {
-     "title": "Save 20% on Twelve South’s tiny Airfly Drive wireless CarPlay dongle",
-     "link": "https://9to5mac.com/2026/11/19/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-     "pubDate": "Thu, 19 Nov 2026 12:55:10 +0000",
-     "summary": "Update November 19: Twelve South’s Airfly Drive dongle is now 20% off as part of Amazon’s early Black Friday festivities . That drops the price from $39.99 to $31.99 Buy Twelve South Airfly Drive in white Buy Twelve South Airfly Drive in black Original launch coverage below. Twelve South, the compan",
-     "source": "9to5Mac",
-     "zh": "Save 20% on Twelve South’s tiny Airfly Drive wireless CarPlay dongle"
     },
     {
      "title": "Canva will let users switch off most generative AI",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Huawei Mate 90 Air listed ahead of launch"
     },
     {
-     "title": "Xiaomi 18 Pro (Global) review",
-     "link": "https://www.gsmarena.com/xiaomi_18_pro-review-3015.php",
-     "pubDate": "Thu, 19 Nov 2026 11:35:53 +0100",
-     "summary": "",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Pro (Global) review"
-    },
-    {
      "title": "DOJ accuses Russian national of spying on and harassing Palantir employees",
      "link": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
      "pubDate": "Thu, 19 Nov 2026 10:33:59 +0000",
@@ -2273,6 +2273,38 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+     "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+     "pubDate": "Thu, 19 Nov 2026 16:15:40 GMT",
+     "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
+     "source": "CNBC",
+     "zh": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City"
+    },
+    {
+     "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 16:15:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 16:14:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+    },
+    {
+     "title": "Kansas City Fed Manufacturing Index unexpectedly rises in November",
+     "link": "https://seekingalpha.com/news/4674754-kansas-city-fed-manufacturing-index-unexpectedly-rises-in-november?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 11:11:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kansas City Fed Manufacturing Index unexpectedly rises in November"
+    },
     {
      "title": "What analysts are saying about Walmart after earnings",
      "link": "https://seekingalpha.com/news/4674786-what-analysts-are-saying-about-walmart-after-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2336,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BrilliA Inc GAAP EPS of -$0.01, revenue of $48.99M misses by $11.4M"
-    },
-    {
-     "title": "Hedge funds take contrasting calls on Meta Platforms",
-     "link": "https://seekingalpha.com/news/4674307-hedge-funds-take-contrasting-calls-on-meta-platforms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 10:55:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hedge funds take contrasting calls on Meta Platforms"
     },
     {
      "title": "Anthropic IPO could create thousands of multimillionaire employees",
@@ -2418,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进"
     },
     {
-     "title": "‘Buyers are out for blood’ as housing market finally hits rock bottom",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 15:38:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’ as housing market finally hits rock bottom"
-    },
-    {
      "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
      "link": "https://wallstreetcn.com/articles/3786305",
      "pubDate": "Thu, 19 Nov 2026 23:32:24 +0800",
@@ -2466,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why Micron, Intel and other AI stocks are getting a lift on Thursday"
     },
     {
-     "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-     "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
-     "summary": "A number of public pension plans already have a stake in Anthropic.",
-     "source": "MarketWatch",
-     "zh": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan."
-    },
-    {
      "title": "With attacks on the rise, UK regulators clarify cyber expectations",
      "link": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
      "source": "CNBC",
      "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
-    },
-    {
-     "title": "马斯克从深圳飞到了上海",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935348216.html",
-     "pubDate": "Thu, 19 Nov 2026 22:07:59 +0800",
-     "summary": "11月19日晚， 特斯拉 副总裁陶琳发了一条 微博 ： 马斯克短短24小时的中国行，专门从深圳飞到上海。他说：“我想来上海，感谢亚太以及中国团队。” 辅助驾驶技术进展一日千里，人形 机器人 正在快速提升各项技能……在跟同事们面对面的交流中，他分享的很多好消息都让大家兴奋不已。 对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准，他都赞赏有加。 特斯拉 上海工厂不仅是 特斯拉 全球制造体系的重要一环，更是创新与效率的最佳实践。 谈到如何规划人生，他分享了最重要的一点：一切时间资源都应该用来让自己成为真正有用的人，研发制造真正对人类有用的产品。摈弃所有的短期投机思维，做真正重要的事。 （文",
-     "source": "东方财富资讯",
-     "zh": "马斯克从深圳飞到了上海"
     }
    ]
   },

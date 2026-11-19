@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 07:15:09",
+ "generated_at": "2026/11/20 07:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -965,7 +965,7 @@ window.INDUSTRY_DATA = {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1778,20 +1778,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+     "link": "https://www.tmtpost.com/8211593.html",
+     "pubDate": "Fri, 20 Nov 2026 07:20:00 +0800",
+     "summary": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披露多项业务时间表，Optimus拟18个月内胜任家务。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份"
+    },
+    {
+     "title": "Anthropic上市，一半多员工成千万美元富豪",
+     "link": "https://www.huxiu.com/article/4907028.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 07:17:18 +0800",
+     "summary": "本文来自微信公众号： 涌流商业 ，作者：林耕 如果你在2024年加入Anthropic，即使只是行政助理，现在大概率至少是百万美元富豪了。 那年5月，这家公司发布过一份招聘公告，职位是行政业务伙伴。工作内容是为高管安排日程、处理报销，年薪14-19万美元，算是一份还不错的薪水。招聘特别强调，股权是整体薪酬的重要组成部分。 这句话现在有了不同的分量。11月19日上午11点48分（美东时间），Anthropic股票开始交易，开盘价达到111.50美元，较发行价上涨34%，完全摊薄估值（Fully Diluted Valuation）一度突破2万亿美元。 随后股价随后回落，最终收于97.17美元，较",
+     "source": "虎嗅",
+     "zh": "Anthropic上市，一半多员工成千万美元富豪"
+    },
+    {
+     "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+     "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+     "pubDate": "Thu, 19 Nov 2026 23:12:17 +0000",
+     "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+     "source": "WIRED",
+     "zh": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women"
+    },
+    {
+     "title": "中国车企为何迟迟不去德国建厂",
+     "link": "https://www.huxiu.com/article/4907026.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 07:11:37 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 \"如果你曾好奇，我们会拿柏林超级工厂这么多土地来做什么？\" 2026年11月16日，特斯拉德国格伦海德工厂厂长安德烈·蒂里希（AndréThierig）在社交平台X上写下这句话。 答案随即揭晓：特斯拉将投资30亿欧元，在柏林东南郊格伦海德（Grünheide）现有工厂北侧新建一座厂房，专门生产无人驾驶出租车Cybercab，计划2029年投产，远期设计年产能最高100万辆。 同一时期，正在欧洲加快本土化生产的中国车企几乎都绕开了德国。 比亚迪选择匈牙利，奇瑞汽车选择西班牙，小鹏汽车交给奥地利麦格纳斯太尔（加拿大麦格纳国际",
+     "source": "虎嗅",
+     "zh": "中国车企为何迟迟不去德国建厂"
+    },
+    {
      "title": "苹果、Uber开始限制Token：公司让你大力用AI，为什么又要管账单？",
      "link": "https://www.huxiu.com/article/4907025.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 07:11:22 +0800",
      "summary": "本文来自微信公众号： 快刀青衣 ，作者：快刀青衣 Token预算真正要管的，不是用量。 现在已经是11月了。如果回忆一下年初，就在今年3月，时任英伟达CEO的黄仁勋说过一句话，马上传遍了各个媒体。 大意是，一个年薪50万美元的工程师，如果一年在Token上花不到25万美元，他会「非常担心」。 你看，他是因为员工花Token不够多而担心。 差不多同一时期，Visa把员工的月Token消耗量从1万亿涨到了将近2万亿，这件事还被当作喜报发布。腾讯也给每个员工配了年均22万元的Token资源。 那阵子，企业用Token的氛围就是五个字：大力出奇迹。 现在呢？就在这个月，全球SaaS软件巨头Salesf",
      "source": "虎嗅",
      "zh": "苹果、Uber开始限制Token：公司让你大力用AI，为什么又要管账单？"
-    },
-    {
-     "title": "微软携手英伟达升级云 PC 体验：两路 4K 60 帧画面，2027 年预览上线",
-     "link": "https://www.ithome.com/1/029/747.htm",
-     "pubDate": "Thu, 19 Nov 2026 23:09:25 GMT",
-     "summary": "IT之家 11 月 20 日消息，本月召开的 Ignite 2026 活动中，微软宣布携手英伟达加速本地 AI 体验落地，让 AI 从“必须联网才能用”的云端服务，逐步走向“能在自己电脑上运行”的本地体验。 根据双方公布的合作愿景，搭载英伟达 RTX Spark 的 Windows PC 能运行本地大语言模型能力，让用户不必完全依赖网络，就能在电脑上直接使用 AI 助手、生成内容或处理文档。 本次双方合作为 GPU 加速的 Windows 365 云 PC，引入低延迟图形传输能力 Direct Stream，最多支持两路 60 帧 4K 画面，公开预览预计于 2027 年初推出。该功能可以把云",
-     "source": "IT之家",
-     "zh": "微软携手英伟达升级云 PC 体验：两路 4K 60 帧画面，2027 年预览上线"
     },
     {
      "title": "苹果发布 iOS 27.3 Beta 2 修订版：修复 HomeView 配对问题，Siri AI 可读取 Safari 完整网页内容",
@@ -1816,6 +1840,14 @@ window.INDUSTRY_DATA = {
      "summary": "type test",
      "source": "虎嗅",
      "zh": "CTF_TYPE_1795112585_text"
+    },
+    {
+     "title": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
+     "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+     "pubDate": "Thu, 19 Nov 2026 22:56:59 +0000",
+     "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'"
     },
     {
      "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
@@ -1869,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "RegExr: Temporarily Offline",
      "link": "https://regexr.com/",
      "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
-     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 7 # Comments: 7",
+     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 14 # Comments: 8",
      "source": "Hacker News",
      "zh": "RegExr: Temporarily Offline"
     },
@@ -1893,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Synology Security Advisory",
      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
      "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 36 # Comments: 9",
+     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 50 # Comments: 12",
      "source": "Hacker News",
      "zh": "Synology Security Advisory"
     },
@@ -1941,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Rebuilding my local voice assistant pipeline",
      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
      "pubDate": "Thu, 19 Nov 2026 20:57:14 +0000",
-     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 24 # Comments: 2",
+     "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 29 # Comments: 2",
      "source": "Hacker News",
      "zh": "Rebuilding my local voice assistant pipeline"
     },
@@ -1984,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
      "source": "Ars Technica",
      "zh": "Google turns to Blue Origin for a rocket, but its long-term problem remains"
-    },
-    {
-     "title": "Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months (Jyoti Mann/The Information)",
-     "link": "https://www.techmeme.com/261119/p49#a261119p49",
-     "pubDate": "Thu, 19 Nov 2026 14:50:28 -0500",
-     "summary": "Jyoti Mann / The Information : Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months &nbsp; &mdash;&nbsp; Meta Platforms plans to charge $300 for its forthcoming Muse Charm device and offer user subsidies, according t",
-     "source": "Techmeme",
-     "zh": "Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months (Jyoti Mann/The Information)"
-    },
-    {
-     "title": "512GB 版 Steam Machine 开放直接购买：2TB 版关闭等待名单，1 月公布新供应详情",
-     "link": "https://www.ithome.com/1/029/745.htm",
-     "pubDate": "Thu, 19 Nov 2026 19:00:25 GMT",
-     "summary": "IT之家 11 月 20 日消息，Valve 今日发布 Steam Machine 硬件预订进展公告， 宣布 512GB 型号已完成全部现有预订履约，等待名单清空 ，并已向所有剩余的 2TB 型号预订持有者发出购买邀请邮件。 IT之家附 Steam 官方公告链接（ https://store.steampowered.com/hardware/steammachine ）。 图源：Valve 不过 Valve 同时表示，目前仍持续面临硬件组件供应紧张问题，零部件采购受到明显影响，其中 2TB 型号受冲击最为严重， 等待名单上的用户数量已超过当前产能，即便后续能增产，规模也将远低于原定计划。 S",
-     "source": "IT之家",
-     "zh": "512GB 版 Steam Machine 开放直接购买：2TB 版关闭等待名单，1 月公布新供应详情"
-    },
-    {
-     "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-     "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-     "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 53 # Comments: 92",
-     "source": "Hacker News",
-     "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
-    },
-    {
-     "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-     "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-     "pubDate": "Thu, 19 Nov 2026 18:44:39 +0000",
-     "summary": "Some models fare better, but all fail in similar ways.",
-     "source": "Ars Technica",
-     "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Leaked images may show Motorola's answer to the iPhone Duo",
+     "link": "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/",
+     "pubDate": "Thu, 19 Nov 2026 23:13:40 +0000",
+     "summary": "We may have our best look yet at Motorola's upcoming foldable.",
+     "source": "Engadget",
+     "zh": "Leaked images may show Motorola's answer to the iPhone Duo"
+    },
     {
      "title": "macOS 27.3 public beta 2 now available, here’s everything new",
      "link": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
@@ -2090,12 +2098,12 @@ window.INDUSTRY_DATA = {
      "zh": "Quit worrying about storage and get a UGREEN NAS for up to $160 off right now"
     },
     {
-     "title": "Apple TV launches 50% off Black Friday deal: $6.99/month for 6 months",
+     "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here",
      "link": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
      "pubDate": "Thu, 19 Nov 2026 21:55:07 +0000",
      "summary": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "Apple TV launches 50% off Black Friday deal: $6.99/month for 6 months"
+     "zh": "Apple TV is now $6.99/month (50% off) for Black Friday, details here"
     },
     {
      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple TV expands its racing coverage with the all-female F1 Academy"
     },
     {
-     "title": "Ubisoft lays off 166 more workers, opens a generative AI studio",
-     "link": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/",
-     "pubDate": "Thu, 19 Nov 2026 19:06:04 +0000",
-     "summary": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
-     "source": "Engadget",
-     "zh": "Ubisoft lays off 166 more workers, opens a generative AI studio"
-    },
-    {
      "title": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more",
      "link": "https://www.gsmarena.com/amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545.php",
      "pubDate": "Thu, 19 Nov 2026 19:21:02 +0100",
@@ -2274,6 +2274,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+     "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+     "pubDate": "Thu, 19 Nov 2026 23:21:23 GMT",
+     "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+     "source": "CNBC",
+     "zh": "California attorney general issues Nvidia subpoena in probe of China chip diversion"
+    },
+    {
+     "title": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争",
+     "link": "https://wallstreetcn.com/articles/3786317",
+     "pubDate": "Fri, 20 Nov 2026 07:18:00 +0800",
+     "summary": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争。 11月19日，据彭博报道， 苹果公司正在开发一款能够代替用户完成任务的自主人工智能智能体，正式进军由OpenAI、Anthropic、Meta等公司激烈角逐的赛道。 此前11月18日苹果官网新增一条招聘信息， 透露公司正在寻找一名高级工程经理，负责一款主动式、智能体化的AI助手。 该系统能够编写代码、浏览网页、控制应用，并在设备上代替用户操作。 这一动向出现在AI智能体加速渗透消费端的时点。 Meta的Muse近月来凭借代订餐厅、预订行程和生成新闻简报等能力赢得消费者关注，其应用长期占据苹果App Store免费榜第二",
+     "source": "华尔街见闻",
+     "zh": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争"
+    },
+    {
+     "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+     "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+     "pubDate": "Thu, 19 Nov 2026 23:15:58 GMT",
+     "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+     "source": "CNBC",
+     "zh": "Anthropic was supposed to save the AI trade. What went wrong?"
+    },
+    {
+     "title": "黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断",
+     "link": "https://wallstreetcn.com/articles/3786322",
+     "pubDate": "Fri, 20 Nov 2026 07:14:43 +0800",
+     "summary": "Visa、万事达和摩根大通相继证实，一家或多家第三方服务商遭黑客攻击，导致部分客户信息外泄。三家机构均强调，自身支付网络和核心系统未受波及，但这一事件仍加剧了市场对大型金融机构网络安全的担忧。 据摩根大通周四声明，黑客入侵了其一家外部合作方，获取了部分营销数据，可能涉及客户姓名和电子邮件地址，并重申该事件与本周早些时候的服务中断无关。 Visa表示，事件源于亚洲一家第三方公司，其自身系统未受影响，支付数据（如卡号）未被波及。 万事达则称泄露内容为\"特定福利项目部分持卡人的有限非支付信息\"，主要为电子邮件地址，网络运营未受任何冲击。 三家公司股价当日均有不同程度下跌。周四Visa股价收跌3.1%",
+     "source": "华尔街见闻",
+     "zh": "黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断"
+    },
+    {
+     "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+     "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 23:11:00 GMT",
+     "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+     "source": "MarketWatch",
+     "zh": "These were the only stocks that rose amid the stock market’s wipeout Thursday"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月20日",
      "link": "https://wallstreetcn.com/articles/3786319",
      "pubDate": "Fri, 20 Nov 2026 07:10:02 +0800",
@@ -2288,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "TPG, Corpay to take BILL private in $6B acquisition"
-    },
-    {
-     "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-     "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-     "pubDate": "Thu, 19 Nov 2026 23:08:02 GMT",
-     "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
-     "source": "CNBC",
-     "zh": "California attorney general issues Nvidia subpoena in probe of China chip diversion"
     },
     {
      "title": "Foremost Clean Energy names Chang as new President/CEO",
@@ -2386,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能"
     },
     {
-     "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
-     "link": "https://wallstreetcn.com/articles/3786269",
-     "pubDate": "Fri, 20 Nov 2026 06:14:13 +0800",
-     "summary": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计最高水平、将公司市值推升至2万亿美元以上，但狂热很快“退烧”。股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅，盘后还较收盘",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿"
-    },
-    {
-     "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
-     "link": "https://wallstreetcn.com/articles/3786269",
-     "pubDate": "Fri, 20 Nov 2026 06:14:13 +0800",
-     "summary": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计最高水平、将公司市值推升至2万亿美元以上，但狂热很快“退烧”。股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后持续回吐涨幅，刷新日低时回到至92.80美元下方、涨幅收窄至不足12%，到收盘，较发行价涨约17.1%，相当于回吐开盘时的半数涨幅，盘后还较收盘",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿"
-    },
-    {
-     "title": "Meta拟推出AI设备Muse Charm，售价300美元，智能手表推迟至2027年",
-     "link": "https://wallstreetcn.com/articles/3786316",
-     "pubDate": "Fri, 20 Nov 2026 06:12:22 +0800",
-     "summary": "Meta正加快布局AI可穿戴硬件，计划以价格和通信服务补贴吸引消费者购买其新款AI设备Muse Charm，同时推迟智能手表上市，以便集中资源推进这款产品。 据The Information周四援引知情人士报道， Meta计划将Muse Charm定价为300美元，并为用户提供最长12个月的Verizon免费5G网络服务。 Muse Charm是一款配备屏幕的小巧设备，该设备内置5G连接功能，用户无需依赖Wi-Fi或随身携带手机，即可随时使用Meta旗下AI助手Muse。 Meta还计划通过用户补贴降低购买门槛，以推动产品普及。 为优先推进Muse Charm，Meta已将智能手表的大规模上市",
-     "source": "华尔街见闻",
-     "zh": "Meta拟推出AI设备Muse Charm，售价300美元，智能手表推迟至2027年"
+     "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 22:15:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
     },
     {
      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
@@ -2424,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
      "source": "MarketWatch",
      "zh": "Markets are sending troubling signals about the state of the economy"
-    },
-    {
-     "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 21:45:00 GMT",
-     "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock falls further. It has lost $669 billion in six trading days."
     },
     {
      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月13日，全球投资者（通过基金）对泰国股市的净买入创一个月新高。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "11月13日，全球投资者（通过基金）对泰国股市的净买入创一个月新高"
-    },
-    {
-     "title": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元",
-     "link": "http://finance.eastmoney.com/news/1345,202611203935424713.html",
-     "pubDate": "Fri, 20 Nov 2026 05:22:48 +0800",
-     "summary": "人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。 截至收盘，公司报97.17美元/股，较发行价上涨17.1%，市值达1.27万亿美元。 此外， Anthropic 还将通过同步私募配售募集260亿美元，涉及谷歌、 英伟达 、 微软 、AMD、 博通 、美光及 台积电 等战略投资者。IPO与同步私募配售合计交易规模约1073.4亿美元。 招股书显示，202",
-     "source": "东方财富资讯",
-     "zh": "Anthropic上市首日收涨17% 市值一度达到1.5万亿美元"
     },
     {
      "title": "AMD dives on short-seller report of alleged China exposure",

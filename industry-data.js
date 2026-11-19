@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 01:12:11",
+ "generated_at": "2026/11/20 01:28:48",
  "recent_days": 7,
  "industries": [
   {
@@ -18,12 +18,12 @@ window.INDUSTRY_DATA = {
      "zh": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories"
     },
     {
-     "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+     "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
      "pubDate": "Thu, 19 Nov 2026 16:59:23 +0000",
      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
      "source": "TechCrunch AI",
-     "zh": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price"
+     "zh": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price"
     },
     {
      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -506,6 +506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Saturn Dynamics develops physics-based world model to improve robot training",
+     "link": "https://roboticsandautomationnews.com/2026/11/19/saturn-dynamics-develops-physics-based-world-model-to-improve-robot-training/107351/",
+     "pubDate": "Thu, 19 Nov 2026 17:23:38 +0000",
+     "summary": "Physical AI startup Saturn Dynamics is developing a world model designed to help robots learn how the physical world behaves through interactive simulations, potentially reducing the time and computing resources required for training. Founded in 2025 and based in London, UK, the company has develope",
+     "source": "Robotics & Automation",
+     "zh": "Saturn Dynamics develops physics-based world model to improve robot training"
+    },
+    {
+     "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+     "link": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+     "pubDate": "Thu, 19 Nov 2026 17:01:55 +0000",
+     "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "What industrial drone deployments reveal about real-world autonomy challenges"
+    },
+    {
      "title": "Bolt and Stellantis plan autonomous vehicle trials in Greater Paris from 2028",
      "link": "https://roboticsandautomationnews.com/2026/11/19/bolt-and-stellantis-plan-autonomous-vehicle-trials-in-greater-paris-from-2028/107348/",
      "pubDate": "Thu, 19 Nov 2026 15:39:00 +0000",
@@ -544,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Here’s your quick checklist on how to hire automated manufacturing employees with skills assessments. Read on for more details. Map the job first: List what a new hire does in the first weeks and mark each skill as required on entry or trainable after hiring. Test only entry requirements: Leave plan",
      "source": "Robotics & Automation",
      "zh": "Hire Automated Manufacturing Employees Fast with Skills Assessments"
-    },
-    {
-     "title": "Beyond Chatbots: What Multimodal Game Agents Reveal About AI Automation",
-     "link": "https://roboticsandautomationnews.com/2026/11/19/beyond-chatbots-what-multimodal-game-agents-reveal-about-ai-automation/107327/",
-     "pubDate": "Thu, 19 Nov 2026 10:54:07 +0000",
-     "summary": "Automation is often measured by the number of individual tasks a system can complete. A more useful measure is whether the system can carry a goal across several tools and representations. Games offer a clear test because a playable experience combines language, code, 3D geometry, sound, rules and u",
-     "source": "Robotics & Automation",
-     "zh": "Beyond Chatbots: What Multimodal Game Agents Reveal About AI Automation"
     },
     {
      "title": "Soft exosuit makes it easier to stand up",
@@ -600,14 +608,6 @@ window.INDUSTRY_DATA = {
      "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Learn how AI is changing supply chain robotics"
-    },
-    {
-     "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
-     "link": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
-     "pubDate": "Tue, 17 Nov 2026 14:49:05 +0000",
-     "summary": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027. The post Boston Dynamics’ Atlas humanoid lands first non-automotive trial appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial"
     },
     {
      "title": "Robot swarms trained by trial and error in simulation keep working on real robots",
@@ -1122,6 +1122,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sanofi gains FDA clearance for Gaucher disease pill",
+     "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
+     "pubDate": "Thu, 19 Nov 2026 12:17:00 -0500",
+     "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
+     "source": "BioPharma Dive",
+     "zh": "Sanofi gains FDA clearance for Gaucher disease pill"
+    },
+    {
      "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
      "link": "https://endpoints.news/lilly-starts-work-on-pennsylvania-obesity-plant-itm-atomvie-strike-supply-deal/",
      "pubDate": "Thu, 19 Nov 2026 17:07:27 +0000",
@@ -1146,12 +1154,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1304,14 +1312,6 @@ window.INDUSTRY_DATA = {
      "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
      "source": "BioPharma Dive",
      "zh": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal"
-    },
-    {
-     "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-     "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
-     "pubDate": "Wed, 18 Nov 2026 09:21:00 -0500",
-     "summary": "The FDA had several issues with ivonescimab, according to the letter. Elsewhere, Sellas shares rocketed on results for a leukemia vaccine and&nbsp;Biogen and Lilly struck up new R&amp;D pacts.",
-     "source": "BioPharma Dive",
-     "zh": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK"
     }
    ]
   },
@@ -1321,6 +1321,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock",
+     "link": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
+     "pubDate": "Thu, 19 Nov 2026 17:08:25 +0000",
+     "summary": "Amazon is selling the Vaonis Vespera Pro for $2,549, ahead of Black Friday on Nov. 27. It's a great model for professional astrophotography with high-quality imagery of deep space objects.",
+     "source": "Space.com",
+     "zh": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock"
+    },
     {
      "title": "Don't miss Saturn shine close to the moon on Nov. 20",
      "link": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
@@ -1336,14 +1344,6 @@ window.INDUSTRY_DATA = {
      "summary": "'They haven’t traveled 24 trillion miles to negotiate. They are coming to exterminate us.'",
      "source": "Space.com",
      "zh": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'"
-    },
-    {
-     "title": "Making the case for optical",
-     "link": "https://spacenews.com/making-the-case-for-optical/",
-     "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
-     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Making the case for optical"
     },
     {
      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
@@ -1410,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "HEO Unveils Insights Next SDA Tool"
     },
     {
-     "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
-     "link": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-     "pubDate": "Thu, 19 Nov 2026 11:02:37 +0000",
-     "summary": "The Voyager 1 probe continues to fly out into interstellar space after its historic distance milestone. NASA expects it to keep working until at least 2027.",
-     "source": "Space.com",
-     "zh": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?"
-    },
-    {
      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
      "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
      "pubDate": "Thu, 19 Nov 2026 05:05:00 +0000",
@@ -1442,22 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "El Niño Rains Paint the Atacama"
     },
     {
-     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
-     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
-     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
-     "source": "SpaceNews",
-     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1466,28 +1442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines"
     },
     {
-     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
-     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
-     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
-     "source": "SpaceNews",
-     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
-    },
-    {
      "title": "NASA’s Voyager 1 is one light-day from Earth",
      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
      "pubDate": "Wed, 18 Nov 2026 17:46:40 +0000",
      "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
      "source": "Spaceflight Now",
      "zh": "NASA’s Voyager 1 is one light-day from Earth"
-    },
-    {
-     "title": "Origami and solar arrays",
-     "link": "https://spacenews.com/origami-and-solar-arrays/",
-     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
-     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Origami and solar arrays"
     },
     {
      "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
@@ -1514,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1530,36 +1482,28 @@ window.INDUSTRY_DATA = {
      "zh": "ULA Vulcan Anomaly Has Pentagon Implications"
     },
     {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-     "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
-     "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
-     "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […] The post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
-    },
-    {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
      "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1778,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)",
+     "link": "https://www.techmeme.com/261119/p43#a261119p43",
+     "pubDate": "Thu, 19 Nov 2026 12:25:02 -0500",
+     "summary": "Lily Hay Newman / Wired : Google built a &ldquo;Mirror Dimension&rdquo;, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents &nbsp; &mdash;&nbsp; The company's alternate-universe internet serves as a massive sandbox that allowed the C",
+     "source": "Techmeme",
+     "zh": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)"
+    },
+    {
+     "title": "Sources: Alphabet plans to raise at least CA$5B in a five-part Canadian bond sale, after raising CA$8.5B in its debut Canadian offering in May (Bloomberg)",
+     "link": "https://www.techmeme.com/261119/p42#a261119p42",
+     "pubDate": "Thu, 19 Nov 2026 12:15:02 -0500",
+     "summary": "Bloomberg : Sources: Alphabet plans to raise at least CA$5B in a five-part Canadian bond sale, after raising CA$8.5B in its debut Canadian offering in May &nbsp; &mdash;&nbsp; Alphabet Inc. is returning to the Canadian market with a five-part bond sale, just six months after issuing its first notes ",
+     "source": "Techmeme",
+     "zh": "Sources: Alphabet plans to raise at least CA$5B in a five-part Canadian bond sale, after raising CA$8.5B in its debut Canadian offering in May (Bloomberg)"
+    },
+    {
      "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
      "link": "https://www.techmeme.com/261119/p41#a261119p41",
      "pubDate": "Thu, 19 Nov 2026 12:05:16 -0500",
@@ -1789,17 +1749,25 @@ window.INDUSTRY_DATA = {
      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
+     "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
      "source": "WIRED",
      "zh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents"
     },
     {
-     "title": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)",
+     "title": "Anthropic makes its Nasdaq debut, opening at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)",
      "link": "https://www.techmeme.com/261119/p40#a261119p40",
      "pubDate": "Thu, 19 Nov 2026 11:56:35 -0500",
-     "summary": "Reuters : Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &nbsp; &mdash;&nbsp; Anthropic's (ANT.O) market value hit $2 trillion in its Nasdaq debut on Thursday, soaring past SpaceX's (SPCX.O) massi",
+     "summary": "Reuters : Anthropic makes its Nasdaq debut, opening at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry &nbsp; &mdash;&nbsp; Anthropic's (ANT.O) market value hit $2 trillion in its Nasdaq debut on Thursday, soaring past SpaceX's (SPCX",
      "source": "Techmeme",
-     "zh": "Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)"
+     "zh": "Anthropic makes its Nasdaq debut, opening at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry (Reuters)"
+    },
+    {
+     "title": "Chrome AI Features Wasting Much Bandwidth",
+     "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+     "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
+     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 14 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Chrome AI Features Wasting Much Bandwidth"
     },
     {
      "title": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
@@ -1837,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
      "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
      "pubDate": "Thu, 19 Nov 2026 16:21:03 +0000",
-     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 33 # Comments: 2",
+     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 57 # Comments: 18",
      "source": "Hacker News",
      "zh": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order"
     },
@@ -1845,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Google Chrome dev team declares bug report bankruptcy",
      "link": "https://blog.plover.com/tech/bug-reports.html",
      "pubDate": "Thu, 19 Nov 2026 16:20:12 +0000",
-     "summary": "Article URL: https://blog.plover.com/tech/bug-reports.html Comments URL: https://news.ycombinator.com/item?id=50562101 Points: 58 # Comments: 11",
+     "summary": "Article URL: https://blog.plover.com/tech/bug-reports.html Comments URL: https://news.ycombinator.com/item?id=50562101 Points: 68 # Comments: 20",
      "source": "Hacker News",
      "zh": "Google Chrome dev team declares bug report bankruptcy"
     },
@@ -1898,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "Epic 喜加一：《深渊之印》免费领取"
     },
     {
-     "title": "Amazon warns NYC customers that they could be charged up to $5 more per order if the City Council passes a bill requiring it to directly hire delivery workers (Lisa Fickenscher/New York Post)",
-     "link": "https://www.techmeme.com/261119/p37#a261119p37",
-     "pubDate": "Thu, 19 Nov 2026 11:05:06 -0500",
-     "summary": "Lisa Fickenscher / New York Post : Amazon warns NYC customers that they could be charged up to $5 more per order if the City Council passes a bill requiring it to directly hire delivery workers &nbsp; &mdash;&nbsp; Amazon customers in New York City will be charged up to $5 more per order if the loca",
-     "source": "Techmeme",
-     "zh": "Amazon warns NYC customers that they could be charged up to $5 more per order if the City Council passes a bill requiring it to directly hire delivery workers (Lisa Fickenscher/New York Post)"
-    },
-    {
      "title": "The best things in open source are built together",
      "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
      "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
@@ -1925,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
      "link": "https://cornholenews.news",
      "pubDate": "Thu, 19 Nov 2026 15:38:32 +0000",
-     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 31 # Comments: 25",
+     "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 37 # Comments: 27",
      "source": "Hacker News",
      "zh": "I built Cornhole News. A Hacker News inspired site for news across the Midwest"
     },
@@ -1933,25 +1893,9 @@ window.INDUSTRY_DATA = {
      "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
      "link": "https://thedataexchange.media/pete-warden-moonshine/",
      "pubDate": "Thu, 19 Nov 2026 15:38:12 +0000",
-     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 78 # Comments: 53",
+     "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 95 # Comments: 67",
      "source": "Hacker News",
      "zh": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)"
-    },
-    {
-     "title": "Binance says it obtained a $6.5B freezing order from an Abu Dhabi court, targeting unidentified perpetrators of the October 29 attack on the exchange (Teresa Xie/Bloomberg)",
-     "link": "https://www.techmeme.com/261119/p36#a261119p36",
-     "pubDate": "Thu, 19 Nov 2026 10:35:05 -0500",
-     "summary": "Teresa Xie / Bloomberg : Binance says it obtained a $6.5B freezing order from an Abu Dhabi court, targeting unidentified perpetrators of the October 29 attack on the exchange &nbsp; &mdash;&nbsp; Binance said it obtained a $6.5 billion freezing order from an Abu Dhabi court as the cryptocurrency exc",
-     "source": "Techmeme",
-     "zh": "Binance says it obtained a $6.5B freezing order from an Abu Dhabi court, targeting unidentified perpetrators of the October 29 attack on the exchange (Teresa Xie/Bloomberg)"
-    },
-    {
-     "title": "Show HN: Watch weight-space programming in action with WebGPU",
-     "link": "https://tabbyml.github.io/weight-space-playground/",
-     "pubDate": "Thu, 19 Nov 2026 15:32:47 +0000",
-     "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat. the full loop needed too much VRAM. so I turned it into an interactive walkthrough of a concrete example: editing 0.016% of a model's w",
-     "source": "Hacker News",
-     "zh": "Show HN: Watch weight-space programming in action with WebGPU"
     },
     {
      "title": "UK government forced to disclose secret Apple backdoor order",
@@ -2025,6 +1969,62 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola Edge 2026 gets a record $200 Black Friday price cut",
+     "link": "https://www.androidauthority.com/motorola-edge-2026-deal-3737378/",
+     "pubDate": "Thu, 19 Nov 2026 17:24:49 +0000",
+     "summary": "Motorola's compact 6.3-inch Edge is 33% off on Amazon, its lowest price yet.",
+     "source": "Android Authority",
+     "zh": "Motorola Edge 2026 gets a record $200 Black Friday price cut"
+    },
+    {
+     "title": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords",
+     "link": "https://9to5google.com/2026/11/19/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
+     "pubDate": "Thu, 19 Nov 2026 17:18:51 +0000",
+     "summary": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again? Proton Pass is designed to take that ",
+     "source": "9to5Google",
+     "zh": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords"
+    },
+    {
+     "title": "Nothing AI device gets teased in a new image",
+     "link": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
+     "pubDate": "Thu, 19 Nov 2026 18:18:02 +0100",
+     "summary": "Nothing has been teasing its upcoming AI device for a while now. Today, Swedish House Mafia member Sebastian Ingrosso posted another image of the device, giving us a better look at the hardware. @nothing https://t.co/WgcWNI2dIc— Sebastian Ingrosso (@Ingrosso) November 19, 2026 In the image, the devi",
+     "source": "GSMArena",
+     "zh": "Nothing AI device gets teased in a new image"
+    },
+    {
+     "title": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it",
+     "link": "https://9to5mac.com/2026/11/19/ios-27-gave-airpods-pro-convenient-new-setting-heres-how-to-use-it/",
+     "pubDate": "Thu, 19 Nov 2026 17:10:46 +0000",
+     "summary": "iOS 27 gave AirPods Pro a variety of new features , but there’s another addition that’s easy to miss: a convenient new setting in Control Center for Adaptive Audio. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it"
+    },
+    {
+     "title": "AI features could be turned off with a simple toggle, Canva proves",
+     "link": "https://9to5google.com/2026/11/19/canva-ai-features-toggle/",
+     "pubDate": "Thu, 19 Nov 2026 17:10:00 +0000",
+     "summary": "AI has taken over everything in the past few years, with AI features bombarding virtually every app or service available. If you’ve ever wanted to just turn off AI features, Canva proves that it could be a simple toggle, if companies actually wanted to give you a choice. more…",
+     "source": "9to5Google",
+     "zh": "AI features could be turned off with a simple toggle, Canva proves"
+    },
+    {
+     "title": "How to adjust and turn off motion blur in GTA 6 if it makes you feel sick",
+     "link": "https://www.engadget.com/2321944/gta-6-how-to-adjust-turn-off-blur-motion/",
+     "pubDate": "Thu, 19 Nov 2026 17:09:54 +0000",
+     "summary": "GTA 6's motion blur effect is thankfully easy to adjust.",
+     "source": "Engadget",
+     "zh": "How to adjust and turn off motion blur in GTA 6 if it makes you feel sick"
+    },
+    {
+     "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
+     "link": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga/",
+     "pubDate": "Thu, 19 Nov 2026 17:01:15 +0000",
+     "summary": "He's not even sure what that means, guys.",
+     "source": "Engadget",
+     "zh": "Here are some photos of Elon Musk, who is 'not MAGA'"
+    },
     {
      "title": "Halide camera app just got even better for iPhone Duo",
      "link": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
@@ -2162,44 +2162,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon’s Echo Show 11 is $95 off for Black Friday"
     },
     {
-     "title": "Score $70 off the Logitech G733 Lightspeed gaming headset",
-     "link": "https://www.androidauthority.com/logitech-g733-lightspeed-black-friday-deal-3737321/",
-     "pubDate": "Thu, 19 Nov 2026 15:48:09 +0000",
-     "summary": "Logitech's colorful wireless headset is 47% off, $20 less than last week.",
-     "source": "Android Authority",
-     "zh": "Score $70 off the Logitech G733 Lightspeed gaming headset"
-    },
-    {
-     "title": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
-     "link": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
-     "pubDate": "Thu, 19 Nov 2026 15:46:03 +0000",
-     "summary": "Apple’s new HomeView just launched last Friday, but some early adopters reported issues with Siri AI in their first days of use. Apple shipped fixes in HomeView 27.2.1 yesterday, but it also confirmed the iOS 27.3 beta is responsible for some of the problems. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 beta can cause HomeView issues, Apple confirms"
-    },
-    {
-     "title": "Google Fi app redesign brings floating toolbar & Ask Fi",
-     "link": "https://9to5google.com/2026/11/19/google-fi-floating-toolbar/",
-     "pubDate": "Thu, 19 Nov 2026 15:30:00 +0000",
-     "summary": "Google Fi Wireless is the latest first-party app to adopt a floating toolbar as part of a small navigation redesign. more…",
-     "source": "9to5Google",
-     "zh": "Google Fi app redesign brings floating toolbar & Ask Fi"
-    },
-    {
      "title": "GSMArena Awards 2026: The winners",
      "link": "https://www.gsmarena.com/best_phones_2026_gsmarena_awards-news-75526.php",
      "pubDate": "Thu, 19 Nov 2026 16:26:01 +0100",
      "summary": "The deliberations are complete and our editors' panel has made its decision – here are the winners of the GSMArena 2026 Awards. These are the best devices out of the 100+ models that we reviewed over the past twelve months. We have twelve awards to hand out, so let's get started. Table of Contents: ",
      "source": "GSMArena",
      "zh": "GSMArena Awards 2026: The winners"
-    },
-    {
-     "title": "Black Friday streaming deals start going live: Paramount+ for $2.99, Apple TV+ for $6.99, more",
-     "link": "https://9to5google.com/2026/11/19/black-friday-2026-streaming-deals-amazon/",
-     "pubDate": "Thu, 19 Nov 2026 15:25:00 +0000",
-     "summary": "Streaming has gotten more expensive, and Black Friday is the one time of year where you can often get a really good deal and, as of today, those streaming deals are starting to go live. more…",
-     "source": "9to5Google",
-     "zh": "Black Friday streaming deals start going live: Paramount+ for $2.99, Apple TV+ for $6.99, more"
     },
     {
      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
@@ -2240,30 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "Canva is rolling out new settings to purge most generative AI from its app.",
      "source": "Engadget",
      "zh": "Canva will let users switch off most generative AI"
-    },
-    {
-     "title": "Amazon US Black Friday deals: here are the best smartphone offers",
-     "link": "https://www.gsmarena.com/amazon_us_black_friday_deals_here_are_the_best_smartphone_offers-news-75539.php",
-     "pubDate": "Thu, 19 Nov 2026 13:03:02 +0100",
-     "summary": "Black Friday will last more than 24 hours this year – for Amazon US, it will last a whole week starting today. Here are the best smartphone offers that we found. Table of Contents: Flagships Foldables Flip foldables Premium & mid-range Misc Flagships The Samsung Galaxy S26, S26+ and S26 Ultra are no",
-     "source": "GSMArena",
-     "zh": "Amazon US Black Friday deals: here are the best smartphone offers"
-    },
-    {
-     "title": "Huawei Mate 90 Air listed ahead of launch",
-     "link": "https://www.gsmarena.com/huawei_mate_90_air_listed_ahead_of_launch-news-75537.php",
-     "pubDate": "Thu, 19 Nov 2026 12:02:02 +0100",
-     "summary": "Last year, Huawei announced its Mate 70 Air with its thin 6.6mm profile, making it the lightest entry in the series. A report from earlier this month suggested we’d see the Mate 80 Air launch as early as next month but we now have a listing on Huawei’s official online store for the Mate 90 Air. It s",
-     "source": "GSMArena",
-     "zh": "Huawei Mate 90 Air listed ahead of launch"
-    },
-    {
-     "title": "DOJ accuses Russian national of spying on and harassing Palantir employees",
-     "link": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
-     "pubDate": "Thu, 19 Nov 2026 10:33:59 +0000",
-     "summary": "The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.",
-     "source": "Engadget",
-     "zh": "DOJ accuses Russian national of spying on and harassing Palantir employees"
     }
    ]
   },
@@ -2274,12 +2218,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "U.S. equities trade lower on Anthropic's debut",
-     "link": "https://seekingalpha.com/news/4674768-us-equities-trade-mixed-ahead-of-anthropic-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 12:01:47 -0500",
+     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 17:21:00 GMT",
+     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+     "source": "MarketWatch",
+     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
+    },
+    {
+     "title": "Ask India: Deutsche Bank says AI adoption outweighs model race",
+     "link": "https://seekingalpha.com/news/4674800-ask-india-deutsche-bank-says-ai-adoption-outweighs-model-race?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:17:39 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "U.S. equities trade lower on Anthropic's debut"
+     "zh": "Ask India: Deutsche Bank says AI adoption outweighs model race"
+    },
+    {
+     "title": "Warner Music targets roughly 100 bps margin expansion in fiscal '27 as AI licensing ramps",
+     "link": "https://seekingalpha.com/news/4674812-warner-music-targets-roughly-100-bps-margin-expansion-in-fiscal-27-as-ai-licensing-ramps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:13:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Warner Music targets roughly 100 bps margin expansion in fiscal '27 as AI licensing ramps"
+    },
+    {
+     "title": "Tri-Continental declares $0.3117 dividend",
+     "link": "https://seekingalpha.com/news/4674811-tri-continental-declares-0_3117-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:13:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tri-Continental declares $0.3117 dividend"
+    },
+    {
+     "title": "PulteGroup raises dividend by 3.8% to $0.27",
+     "link": "https://seekingalpha.com/news/4674810-pultegroup-raises-dividend-by-38-to-027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:12:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PulteGroup raises dividend by 3.8% to $0.27"
+    },
+    {
+     "title": "Dream Unlimited Corp. declares CAD 0.175 dividend",
+     "link": "https://seekingalpha.com/news/4674809-dream-unlimited-corp-declares-cad-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:11:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dream Unlimited Corp. declares CAD 0.175 dividend"
+    },
+    {
+     "title": "Hedge funds turn bullish on Nvidia in Q3, but Soros Fund cuts exposure",
+     "link": "https://seekingalpha.com/news/4674131-hedge-funds-turn-bullish-on-nvidia-in-q3-but-soros-fund-cut-exposure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 12:10:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hedge funds turn bullish on Nvidia in Q3, but Soros Fund cuts exposure"
     },
     {
      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
@@ -2288,14 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
      "source": "CNBC",
      "zh": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks"
-    },
-    {
-     "title": "Palantir workers target of Russian spy; DOJ indicts suspect",
-     "link": "https://seekingalpha.com/news/4674794-palantir-workers-target-of-russian-spy-doj-indicts-suspect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 12:00:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palantir workers target of Russian spy; DOJ indicts suspect"
     },
     {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -2322,44 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan."
     },
     {
-     "title": "Ivanhoe Electric strikes high-grade copper at Arizona project",
-     "link": "https://seekingalpha.com/news/4674795-ivanhoe-electric-strikes-high-grade-copper-in-arizona?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:52:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ivanhoe Electric strikes high-grade copper at Arizona project"
-    },
-    {
-     "title": "Household misery remains elevated despite strong consumers, says Wells Fargo",
-     "link": "https://seekingalpha.com/news/4674802-household-misery-remains-elevated-despite-strong-consumers-says-wells-fargo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:52:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Household misery remains elevated despite strong consumers, says Wells Fargo"
-    },
-    {
      "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
      "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 16:52:00 GMT",
      "summary": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
      "source": "MarketWatch",
      "zh": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs."
-    },
-    {
-     "title": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50",
-     "link": "https://seekingalpha.com/news/4674744-anthropic-ascends-into-history-with-ipo-shares-hit-nasdaq-at-11150?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:51:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic ascends into history with IPO; shares hit Nasdaq at $111.50"
-    },
-    {
-     "title": "Volkswagen seeks two-year pay freeze as union showdown looms",
-     "link": "https://seekingalpha.com/news/4674791-volkswagen-seeks-two-year-pay-freeze-as-union-showdown-looms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 11:51:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Volkswagen seeks two-year pay freeze as union showdown looms"
     },
     {
      "title": "Anthropic’s IPO poses this big risk to an already shaky stock market",
@@ -2376,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
      "source": "CNBC",
      "zh": "Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models"
-    },
-    {
-     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 16:27:00 GMT",
-     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-     "source": "MarketWatch",
-     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
     },
     {
      "title": "普京：感谢中方和习主席组织今天的俄中美元首会晤",
@@ -2442,6 +2386,62 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！"
     },
     {
+     "title": "美股三大指数涨跌不一 道指跌近1% 拼多多涨超11%",
+     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
+     "pubDate": "Thu, 19 Nov 2026 23:51:18 +0800",
+     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.03%，标普500指数跌1.49%， 纳斯达克 综合 指数跌1.45%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。截至发稿，公司股价报100.95美元，较发行价上涨21.63%，市值约1.32万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达到169.56亿美元",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数涨跌不一 道指跌近1% 拼多多涨超11%"
+    },
+    {
+     "title": "惠誉：拟议改革未获实施不会导致西班牙评级下调",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413869.html",
+     "pubDate": "Thu, 19 Nov 2026 23:46:51 +0800",
+     "summary": "惠誉：拟议改革未获实施不会导致西班牙评级下调。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉：拟议改革未获实施不会导致西班牙评级下调"
+    },
+    {
+     "title": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413759.html",
+     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
+     "summary": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "受全球风险抛售影响，哥伦比亚比索兑美元下跌2.1%"
+    },
+    {
+     "title": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413649.html",
+     "pubDate": "Thu, 19 Nov 2026 23:46:50 +0800",
+     "summary": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic CFO拉奥：我们75%的计算能力已分配给研发"
+    },
+    {
+     "title": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413572.html",
+     "pubDate": "Thu, 19 Nov 2026 23:45:43 +0800",
+     "summary": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉：西班牙左翼现任者胜选虽不能保证改革落地，但或为改革前景提供更清晰信号"
+    },
+    {
+     "title": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413446.html",
+     "pubDate": "Thu, 19 Nov 2026 23:45:05 +0800",
+     "summary": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉：西班牙经济持续表现优异，应能支撑各地区的财政表现，从而可能限制其融资需求"
+    },
+    {
+     "title": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进",
+     "link": "http://finance.eastmoney.com/news/1351,202611193935413195.html",
+     "pubDate": "Thu, 19 Nov 2026 23:43:54 +0800",
+     "summary": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉表示，西班牙即将举行的议会选举可能决定有关地方财政和债务承接的拟议改革能否推进"
+    },
+    {
      "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
      "link": "https://wallstreetcn.com/articles/3786305",
      "pubDate": "Thu, 19 Nov 2026 23:32:24 +0800",
@@ -2456,62 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "拼多多正将供应链建设推向更核心的战略位置。在国内，公司从农业产区、农村物流向制造业产业带延伸，试图通过基础设施投入和商家扶持，推动商品品质升级与产业带品牌化；在海外，面对贸易规则变化，公司则将本地仓储、物流及履约网络建设作为下一阶段业务发展的重点，帮助中小商家降低跨境经营成本。 这一战略背后，是拼多多对电商竞争逻辑的重新布局。随着国内平台竞争持续加剧，单纯依靠价格和营销已难以形成长期优势，而海外市场也正从流量扩张转向供应链和本地运营能力的比拼。公司表示，将继续推进1000亿元商家扶持计划，把资源投入到能够改善消费者购物体验、提升商家经营能力的基础设施和服务中。 管理层在财报电话会议上强调， 公",
      "source": "华尔街见闻",
      "zh": "拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设"
-    },
-    {
-     "title": "100,000+ UK retail investors score Anthropic shares",
-     "link": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 15:27:00 GMT",
-     "summary": "Around 110,000 UK retailers bought shares in Anthropic's record initial public offering, which saw the AI giant raise over $81 billion.",
-     "source": "Finextra",
-     "zh": "100,000+ UK retail investors score Anthropic shares"
-    },
-    {
-     "title": "With attacks on the rise, UK regulators clarify cyber expectations",
-     "link": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
-     "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
-     "source": "Finextra",
-     "zh": "With attacks on the rise, UK regulators clarify cyber expectations"
-    },
-    {
-     "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-     "pubDate": "Thu, 19 Nov 2026 09:39:02 -0500",
-     "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
-     "source": "SEC",
-     "zh": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors"
-    },
-    {
-     "title": "BMO reaches quantum utility",
-     "link": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 14:27:00 GMT",
-     "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
-     "source": "Finextra",
-     "zh": "BMO reaches quantum utility"
-    },
-    {
-     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-     "pubDate": "Thu, 19 Nov 2026 14:15:18 GMT",
-     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
-     "source": "CNBC",
-     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
-    },
-    {
-     "title": "时装厂来了机器人裁缝",
-     "link": "http://www.eeo.com.cn/2026/1119/1097586.shtml",
-     "pubDate": "Thu, 19 Nov 2026 22:14:00 +0800",
-     "summary": "在服装加工场景中研发可以干活的机器人并不容易。张瀚文表示，第一个难点是服装面料、款式、工艺多变，尤其是太平鸟所身处的时装领域，上述变化更加复杂；第二个难点是面料属于柔性材料，抓取难度远高于刚性材料。",
-     "source": "经济观察网",
-     "zh": "时装厂来了机器人裁缝"
-    },
-    {
-     "title": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点",
-     "link": "https://wallstreetcn.com/articles/3786303",
-     "pubDate": "Thu, 19 Nov 2026 21:52:34 +0800",
-     "summary": "对冲基金对科技股的极端低配，正在为市场反弹埋下伏笔，而Anthropic创纪录IPO的落地，可能成为触发资金回流、推动空头回补的关键催化剂。 高盛交易台主管Rich Privorotsky在周四晨报中指出， 对冲基金科技股净敞口较基准指数低配约11个百分点，接近五年来最低水平。与此同时，市场庄家的伽马敞口极度偏空，而波动率趋于稳定，这些因素都可能为反弹创造条件。 纳斯达克期货周四早盘上涨近2%。 这一潜在转折恰逢Anthropic登陆华尔街。该公司周四以每股83美元定价上市，高于此前发行区间上限，IPO融资约813亿美元，连同股东配售合计募资1073亿美元，刷新全球IPO纪录。创纪录的认购需求",
-     "source": "华尔街见闻",
-     "zh": "对冲基金大幅低配科技股，高盛嗅到逼空机会：Anthropic上市日或成转折点"
     }
    ]
   },

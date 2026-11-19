@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 08:12:03",
+ "generated_at": "2026/11/19 08:35:11",
  "recent_days": 7,
  "industries": [
   {
@@ -962,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1024,14 +1016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1104,6 +1088,22 @@ window.INDUSTRY_DATA = {
      "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
      "source": "pv magazine",
      "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
+    },
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
     }
    ]
   },
@@ -1762,6 +1762,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "At DealBook, Elon Musk says he feels \"pretty foolish\" after spending nearly $500M backing Republicans in midterms won by Democrats and claims \"I&apos;m not MAGA\" (Todd Spangler/Variety)",
+     "link": "https://www.techmeme.com/261118/p50#a261118p50",
+     "pubDate": "Wed, 18 Nov 2026 19:25:01 -0500",
+     "summary": "Todd Spangler / Variety : At DealBook, Elon Musk says he feels &ldquo;pretty foolish&rdquo; after spending nearly $500M backing Republicans in midterms won by Democrats and claims &ldquo;I'm not MAGA&rdquo; &nbsp; &mdash;&nbsp; Elon Musk spent big backing Republicans in the 2026 midterm elections &m",
+     "source": "Techmeme",
+     "zh": "At DealBook, Elon Musk says he feels \"pretty foolish\" after spending nearly $500M backing Republicans in midterms won by Democrats and claims \"I&apos;m not MAGA\" (Todd Spangler/Variety)"
+    },
+    {
+     "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
+     "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
+     "pubDate": "Thu, 19 Nov 2026 00:23:15 +0000",
+     "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+     "source": "WIRED",
+     "zh": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)"
+    },
+    {
+     "title": "为什么最好的孵化器，都越来越不像孵化器",
+     "link": "https://www.huxiu.com/article/4906703.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:20:45 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 你能随口说出几家孵化器的名字吗？ 大多数人一家也说不上来。可中国孵化器的数量，2014年就已经是全世界第一了。 据统计，现在全国大约有1.6万家孵化载体，遍布95%的县级以上地区。 但奇怪的是，这么庞大的一个行业，存在感却非常弱。 所以咱们今天聊聊这个事儿，以及我们认为： 最好的孵化器，越来越不像孵化器了。 故事得从1987年说起。 那年6月，武汉东湖新技术创业者中心挂牌，这是中国第一家科技企业孵化器。它没有自己的房子，后来的行业史管这叫“借巢孵化”。 39年后，工信部从1.6万家孵化器里挑出了第一批14家卓越级孵化器。 这14家里",
+     "source": "虎嗅",
+     "zh": "为什么最好的孵化器，都越来越不像孵化器"
+    },
+    {
+     "title": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)",
+     "link": "https://www.techmeme.com/261118/p49#a261118p49",
+     "pubDate": "Wed, 18 Nov 2026 19:20:01 -0500",
+     "summary": "Abner Li / 9to5Google : Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app &nbsp; &mdash;&nbsp; Following last week's release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon.&nbsp; The mod",
+     "source": "Techmeme",
+     "zh": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)"
+    },
+    {
+     "title": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位",
+     "link": "https://www.ithome.com/1/029/147.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:19:17 GMT",
+     "summary": "IT之家 11 月 19 日消息，当地时间 11 月 16 日，微软 CEO 萨提亚 · 纳德拉在接受《The Pragmatic Engineer》播客节目采访时谈到了一些大家关心的问题。 当被问及公司面向约 6 万名员工推出自愿离职计划，是否意味着微软将借助 AI 提高效率并进一步裁员。 对此，纳德拉没有直接给出肯定或否定的答复，而是坦言，随着 AI 改变软件开发方式，微软员工的工作模式和团队组织结构都将发生变化。 纳德拉表示，微软希望旗下超过 20 万名员工都能继续成长，但公司需要以不同方式重新配置员工队伍。他指出，未来仍然存在大量职业发展机会，不过这些机会的具体形态可能有所不同，包括团",
+     "source": "IT之家",
+     "zh": "微软 CEO 纳德拉谈 6 万人自愿离职计划：部分团队尚未适应 AI 转型，公司希望给予员工更多自主权、让合适的人才进入合适的岗位"
+    },
+    {
+     "title": "吉利银河首款旗舰大五座 SUV，银河 M8 五款车色首发亮相",
+     "link": "https://www.ithome.com/1/029/146.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:15:28 GMT",
+     "summary": "IT之家 11 月 19 日消息，吉利银河近日公布旗下首款旗舰大五座 SUV—— 银河 M8 更多车型信息，新车将提供五款全新车色，将于 2026 年第四季度正式上市。 IT之家注意到，银河 M8 提供沧海银蓝、月瓷白、云绒米、玄夜黑以及鎏金棕五款车色。新车整体造型与吉利银河 M9 保持一致，车头配备带星光点缀的贯穿式灯带，下包围设有主动进气格栅。 尺寸方面，该车长宽高为 5205mm*1999mm*1800mm ，轴距 3030mm，采用大五座布局。车尾造型同样与银河 M9 基本保持一致。 根据选装信息，该车可选金色车标，预计推出黑金智曜高定版；轮圈提供 20 英寸、21 英寸两种规格，共四",
+     "source": "IT之家",
+     "zh": "吉利银河首款旗舰大五座 SUV，银河 M8 五款车色首发亮相"
+    },
+    {
+     "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
+     "link": "https://www.ithome.com/1/029/145.htm",
+     "pubDate": "Thu, 19 Nov 2026 00:09:16 GMT",
+     "summary": "IT之家 11 月 19 日消息，OpenAI 今天（11 月 18 日）发布题为《管理前沿 AI 风险：从训练到部署》的安全政策说明， 首次系统披露研发、内部使用到公开发布阶段，如何在高能力模型的全生命周期中管控风险。 IT之家援引博文介绍，OpenAI 称由于前沿模型的能力正快速增强，因此理解、对齐和保障模型的能力必须“始终领先一步”。公司维持引入“安全案例”流程，要求在训练全程提供更有力的行为对齐证据；这些措施虽会拖慢发布节奏，但会增强安全推进的信心。 OpenAI 强调其保护措施围绕四层展开： 模型对齐：对齐就是让 AI 系统能够可靠地按照我们预期的方式行动。模型必须在尊重政策和更广泛",
+     "source": "IT之家",
+     "zh": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天"
+    },
+    {
+     "title": "R星如何制造《GTA6》：10亿美金，5000人的苦行，一代人的梦",
+     "link": "https://www.huxiu.com/article/4906701.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:08:37 +0800",
+     "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 享受现在吧，哥们。 01 是商业奇观，也是时代落幕 我一直觉得，中国游戏人对GTA有一种特殊的情结。 作为一个商业游戏项目，它足够大，足够难，足够成功，是那种最能展现一家公司如何构建集中力量办大事组织能力的大工程。 对于创作者来说，它又意味着近乎奢侈的资源调度。你可以在一个项目上肆意挥洒青春才情，穿越时间周期，无视竞品和市场的喧闹，去挑战那些在寻常团队不被会允许的方向，去到许多前人从未踏足的领域。 某种程度上说，GTA就是那种能够真正实现「名利双收」的终极项目——不管是影响力、市场口碑，还是商业成绩和艺术成就，它全都要，也全都有。 昨晚《GT",
+     "source": "虎嗅",
+     "zh": "R星如何制造《GTA6》：10亿美金，5000人的苦行，一代人的梦"
+    },
+    {
      "title": "分析师的嘴，骗人的鬼？涨了喊买入，跌了喊增持？分析师到底靠不靠谱？",
      "link": "https://www.huxiu.com/article/4903543.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 08:00:00 +0800",
@@ -1786,20 +1850,36 @@ window.INDUSTRY_DATA = {
      "zh": "努力成为人文主义的家长"
     },
     {
-     "title": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+     "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
      "link": "https://www.ithome.com/1/029/144.htm",
      "pubDate": "Wed, 18 Nov 2026 23:53:51 GMT",
      "summary": "IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本 ，目前已开始向开发者、企业及部分付费订阅用户开放。 费用方面，Gemini 4 Neon 在 API 调用方面，每 100 万词元输入费用为 3 美元 （IT之家注：现汇率约合 20 元人民币） ，每 100 万词元输出费用为 15 美元 （现汇率约合 100.2 元人民币） ，缓存输入每百万 token 为 0.15 美元 （现汇率约合 1 元人民币） ，并提供 Low、medium、high 以及 x",
      "source": "IT之家",
-     "zh": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一"
+     "zh": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一"
     },
     {
      "title": "We Need Smart People Who Give a Shit",
      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
      "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 5 # Comments: 2",
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 84 # Comments: 23",
      "source": "Hacker News",
      "zh": "We Need Smart People Who Give a Shit"
+    },
+    {
+     "title": "Multiple vulnerabilities in Regexp and String case conversion",
+     "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+     "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Multiple vulnerabilities in Regexp and String case conversion"
+    },
+    {
+     "title": "Software companies are trying to kill home computing",
+     "link": "https://lateblt.livejournal.com/526188.html",
+     "pubDate": "Wed, 18 Nov 2026 23:49:18 +0000",
+     "summary": "Article URL: https://lateblt.livejournal.com/526188.html Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 16 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Software companies are trying to kill home computing"
     },
     {
      "title": "14年深圳老酒店，凭啥接下特朗普？",
@@ -1834,36 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "IT早报 1119：智界获车辆独立生产资质；董明珠回应格力利润下降仍不用铝代铜；苹果 iPhoneDuo 铰链风波升级；华为 HarmonyOS 7 设备占比突破 82%..."
     },
     {
-     "title": "建议你尽快养成“确实型人格”",
-     "link": "https://www.huxiu.com/article/4906685.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 07:32:36 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 前段时间，网上很流行一个说法，叫&ldquo;确实型人格&rdquo;。 起因是有人听孙宇晨的播客，发现他跟人聊天的时候，出现频率最高的一个词，就是&ldquo;确实&rdquo;。对方说什么，他都先接一句&ldquo;确实&rdquo;。于是有人把这种人总结成一类：不争辩，不纠正，谁说什么先肯定，再接话。 孙宇晨的为人我们不做评价。就这个&ldquo;确实&rdquo;本身，我的第一反应是，这不就是敷衍吗？ 但后来我改了主意。因为我试着复盘了自己最近的几次对话，结果有点尴尬。 朋友说，他觉得做某",
-     "source": "虎嗅",
-     "zh": "建议你尽快养成“确实型人格”"
-    },
-    {
-     "title": "2GB 内存的手机也能流畅用 AI，谷歌降低安卓 Gemini App 使用门槛",
-     "link": "https://www.ithome.com/1/029/141.htm",
-     "pubDate": "Wed, 18 Nov 2026 23:32:27 GMT",
-     "summary": "IT之家 11 月 19 日消息，谷歌昨日（11 月 18 日）发布博文， 宣布面向 Android Go 设备开放 Gemini 应用，让内存较小的安卓手机（英文原文中并未提及具体内存容量）也能使用其个人 AI 助手。 谷歌表示通过重新设计应用架构，可以在内存较小的手机上流畅运行 Gemini 的核心体验，从而扩大其个人 AI 助手的用户群体，潜在覆盖人群达数亿人。 此次适配不仅提供基础文字问答，还涵盖语音交流、相机辅助理解和图像创作。用户可以通过 Gemini Live，以超过 45 种语言讨论问题、练习面试；也可以将相机对准笔记或表格，获取学习与翻译帮助，或使用 Nano Banana ",
-     "source": "IT之家",
-     "zh": "2GB 内存的手机也能流畅用 AI，谷歌降低安卓 Gemini App 使用门槛"
-    },
-    {
      "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)",
      "link": "https://www.techmeme.com/261118/p47#a261118p47",
      "pubDate": "Wed, 18 Nov 2026 18:30:04 -0500",
      "summary": "Reuters : Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours &nbsp; &mdash;&nbsp; Cybersecurity firm Palo Alto Networks (PANW.O) raised its annual revenue forecast and signed a deal to acquire AI startup ",
      "source": "Techmeme",
      "zh": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)"
-    },
-    {
-     "title": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA",
-     "link": "https://www.ithome.com/1/029/140.htm",
-     "pubDate": "Wed, 18 Nov 2026 23:30:03 GMT",
-     "summary": "IT之家 11 月 19 日消息，11 月 18 日，地平线机器人实验室发布原生视频几何基础模型 LoFT（Looped Foundation Transformer for Video Geometry）。据介绍，该模型能够从 RGB 视频中联合预测相机位姿、内参及逐帧深度，恢复场景三维结构，为机器人空间感知、环境理解与具身学习提供几何基础。 官方称，LoFT 原生面向连续视频建模，采用 双循环 Transformer 架构 ，将跨帧视觉信息聚合与相机状态迭代优化相结合，用于挖掘视频中的时序关联与多视角几何信息。 IT之家从官方公布信息获悉，第一循环通过局部与全局时序注意力聚合跨帧信息，逐步",
-     "source": "IT之家",
-     "zh": "地平线发布 LoFT 原生视频几何基础模型，多项指标达到 SoTA"
     },
     {
      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
@@ -1874,28 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
     },
     {
-     "title": "Nginx 曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限",
-     "link": "https://www.ithome.com/1/029/139.htm",
-     "pubDate": "Wed, 18 Nov 2026 23:20:56 GMT",
-     "summary": "IT之家 11 月 19 日消息，安全研究团队 Xint Security Research 于当地时间 11 月 18 日公开披露了一串名为 NGINX2Root 的漏洞攻击链，涉及 5 个 Nginx 远程代码执行（RCE）漏洞，以及 1 个 Linux 内核 SCTP 子系统权限提升漏洞。 攻击者无需身份认证，即可利用特定配置下的 Nginx 漏洞执行任意命令；如果进一步结合 Linux 内核漏洞，还可能实现 Docker 容器逃逸并获取宿主机 root 权限。 据 Xint 技术报告，5 个 Nginx 漏洞分别对应不同的功能和配置场景，涉及 HTTP/2、HTTP/3、反向代理及邮件",
-     "source": "IT之家",
-     "zh": "Nginx 曝出 NGINX2Root 漏洞链：攻击者无需认证即可远程执行命令，结合 Linux 内核漏洞可获取宿主机 root 权限"
-    },
-    {
      "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
      "link": "https://www.tmtpost.com/8210449.html",
      "pubDate": "Thu, 19 Nov 2026 07:20:00 +0800",
      "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
      "source": "钛媒体",
      "zh": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点"
-    },
-    {
-     "title": "黄仁勋绝无回归可能，因为相关方都害怕被民主党清算",
-     "link": "https://www.huxiu.com/article/4906695.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 07:18:34 +0800",
-     "summary": "本文来自微信公众号： 牌桌 Poker Table ，作者：森林好小子，题图来自：视觉中国 黄仁勋17日发表声明，表示&ldquo;如果董事会认为让我回归符合股东、员工、公司以及美国的最佳利益，我将重新担任CEO。&rdquo; 一时间，要求黄仁勋回归的呼声再成焦点。不过当天的英伟达财报会，董事长Harvey Jones和临时CEO Colette Kress都明确表示不会邀请黄仁勋回归。 黄仁勋是否还有回归可能？ 牌桌编辑部分析， 黄仁勋被逼下台的本质，是中期选举特朗普失势，共和党各方为了保住自己的政治生命，必须斩断黄仁勋和特朗普的利益联系，严厉管控芯片出口，防止明年国会正式易手后，被安上&",
-     "source": "虎嗅",
-     "zh": "黄仁勋绝无回归可能，因为相关方都害怕被民主党清算"
     },
     {
      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
@@ -1914,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)"
     },
     {
-     "title": "Why educational system is broken",
-     "link": "https://keycybermonk.com/edu",
-     "pubDate": "Wed, 18 Nov 2026 22:42:53 +0000",
-     "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Why educational system is broken"
-    },
-    {
      "title": "LLM Assisted Reverse Engineering",
      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
      "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
-     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 15 # Comments: 0",
+     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 22 # Comments: 2",
      "source": "Hacker News",
      "zh": "LLM Assisted Reverse Engineering"
     },
@@ -1933,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "GTA6-like as a 942Kb UEFI bootable image",
      "link": "https://github.com/eklavya-raj/gta6-uefi",
      "pubDate": "Wed, 18 Nov 2026 22:26:48 +0000",
-     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 19 # Comments: 20",
+     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 22 # Comments: 21",
      "source": "Hacker News",
      "zh": "GTA6-like as a 942Kb UEFI bootable image"
     },
@@ -1968,38 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
      "source": "TechCrunch",
      "zh": "Palmer Luckey doesn’t deny that he’s a prepper"
-    },
-    {
-     "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-     "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-     "pubDate": "Wed, 18 Nov 2026 22:00:00 +0000",
-     "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-     "source": "WIRED",
-     "zh": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI"
-    },
-    {
-     "title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
-     "link": "https://www.techmeme.com/261118/p44#a261118p44",
-     "pubDate": "Wed, 18 Nov 2026 16:47:59 -0500",
-     "summary": "Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Neon, with &ldquo;fast end-to-end task completion&rdquo; across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app &nbsp; &mdash;&nbsp; Bringing frontier-level intelligence with fast end-to-end task completion acros",
-     "source": "Techmeme",
-     "zh": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)"
-    },
-    {
-     "title": "DNI, DHS, and FBI officials tell Congress they have found no evidence that recent US tech outages were connected to each other or caused by cyberattacks (Nicole Sganga/CBS News)",
-     "link": "https://www.techmeme.com/261118/p43#a261118p43",
-     "pubDate": "Wed, 18 Nov 2026 16:45:01 -0500",
-     "summary": "Nicole Sganga / CBS News : DNI, DHS, and FBI officials tell Congress they have found no evidence that recent US tech outages were connected to each other or caused by cyberattacks &nbsp; &mdash;&nbsp; Nicole Sganga is CBS News' homeland security and justice correspondent.&nbsp; She is based in Washi",
-     "source": "Techmeme",
-     "zh": "DNI, DHS, and FBI officials tell Congress they have found no evidence that recent US tech outages were connected to each other or caused by cyberattacks (Nicole Sganga/CBS News)"
-    },
-    {
-     "title": "Gemini 4 Neon",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 336 # Comments: 328",
-     "source": "Hacker News",
-     "zh": "Gemini 4 Neon"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Capture One adds wired tethering for the Hasselblad X2D II 100C",
+     "link": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
+     "pubDate": "Thu, 19 Nov 2026 00:31:56 +0000",
+     "summary": "The feature follows July’s native Raw support and requires X2D II 100C firmware 1.4.15.7 and Capture One 16.9.1.",
+     "source": "DPReview",
+     "zh": "Capture One adds wired tethering for the Hasselblad X2D II 100C"
+    },
     {
      "title": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades",
      "link": "https://9to5mac.com/2026/11/18/smartwings-black-friday-sale-save-15-custom-motorized-shades/",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some photos from others we remember for decades. Share one that inspired you this year, credit the photographer and tell us why it made an impression.",
      "source": "DPReview",
      "zh": "Whose photo inspired you most in 2026?"
-    },
-    {
-     "title": "More details about Apple's 20th-anniversary iPhone emerge",
-     "link": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
-     "pubDate": "Wed, 18 Nov 2026 16:21:02 +0100",
-     "summary": "Apple is reportedly planning a major redesign for its 20th-anniversary iPhone 20 Pro lineup next year, with quad-curved displays and several other improvements. A new leak has now revealed more details about the upcoming models. Tipster Ice Universe shared the latest details about the 20th-anniversa",
-     "source": "GSMArena",
-     "zh": "More details about Apple's 20th-anniversary iPhone emerge"
     }
    ]
   },
@@ -2258,12 +2258,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 00:30:00 GMT",
+     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
+    },
+    {
+     "title": "美媒：“华盛顿”号航空母舰离开中东地区",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934645591.html",
+     "pubDate": "Thu, 19 Nov 2026 08:24:10 +0800",
+     "summary": "据美国媒体18日报道，美国海军“华盛顿”号航空母舰已离开中东地区，美军在中东地区继续保持两艘航母的规模。 美国海军学会新闻网援引美军 太平洋 舰队发言人的话报道，“华盛顿”号航母在完成为期三个月的驻防任务后离开中东地区，该航母已归入美海军第七舰队序列。 目前，美军在中东地区部署的航母有4月抵达的“布什”号和日前刚刚抵达的“罗斯福”号。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "美媒：“华盛顿”号航空母舰离开中东地区"
+    },
+    {
+     "title": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934645436.html",
+     "pubDate": "Thu, 19 Nov 2026 08:22:14 +0800",
+     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的 纳斯达克 上市铺平了道路，也标志着 人工智能 行业的一个历史性时刻。 此次IPO的发行规模也有所扩大。Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 Anthropic此前表示将发行8.25亿股。 这将使Anthropic估值达到1.5万亿美元，超过该公司此前1.",
+     "source": "东方财富股票",
+     "zh": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿"
+    },
+    {
+     "title": "奥特曼：必须平衡AI安全与发展 没法让所有人满意",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934645176.html",
+     "pubDate": "Thu, 19 Nov 2026 08:21:37 +0800",
+     "summary": "北京时间11月19日，据《 纽约时报 》报道，OpenAI CEO萨姆·奥特曼(Sam Altman)周三表示， 推动AI安全发展本身就存在取舍，公司必须在优先保障安全与继续推进AI技术发展之间取得平衡 。 “我们不可能让所有人都满意。”奥特曼在DealBook峰会上表示。 他补充说，如果OpenAI只是一味地“全速踩下油门”，人们就会说：“好吧，求求你们别把我们全都害死。” 作为ChatGPT开发商，OpenAI近几个月来受到越来越严格的审视。此前，该公司的 AI智能体 曾失控并入侵多家公司，包括开源AI平台Hugging Face以及政府系统。 奥特曼表示，这些事件都是学习过程中的经验教训",
+     "source": "东方财富股票",
+     "zh": "奥特曼：必须平衡AI安全与发展 没法让所有人满意"
+    },
+    {
+     "title": "欧盟拟向乌克兰追加450亿欧元贷款",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934644689.html",
+     "pubDate": "Thu, 19 Nov 2026 08:20:58 +0800",
+     "summary": "当地时间18日，欧盟委员会通过一揽子立法提案，拟通过联合举债的方式向乌克兰追加450亿欧元贷款。根据欧盟委员会公布的方案，贷款中250亿欧元用于采购武器，另外200亿欧元用于一般预算支持，计划在2027年分阶段发放。 不过，欧盟内部在向乌克兰追加贷款问题上存在分歧。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "欧盟拟向乌克兰追加450亿欧元贷款"
+    },
+    {
+     "title": "早报丨美联储鹰声嘹亮，沃勒主张12月加息50基点；Anthropic定价每股83美元，今夜登陆纳斯达克；腾讯回应先进算力减少：短期训练承压，长期加速国产建设",
+     "link": "http://stock.eastmoney.com/news/1768,202611193934644546.html",
+     "pubDate": "Thu, 19 Nov 2026 08:20:54 +0800",
+     "summary": "摘要： 美联储鹰声嘹亮，沃勒主张12月加息50基点；Anthropic定价每股83美元，今夜登陆 纳斯达克 ；腾讯回应先进算力减少：短期训练承压，长期加速国产建设。 全球市场： 美股市场：美股三大指数11月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌561.25点，收于50198.17点，跌幅为1.11%； 标准普尔 500种股票指数下跌16.9点，收于7323.63点，跌幅为0.23%； 纳斯达克 综合 指数上涨101.5点，收于24429.88点，涨幅为0.42%。 “科技七巨头”整体小幅走高，内部走势进一步分化， 亚马逊 涨3.82%， 特斯拉 涨0.95%， 谷歌-",
+     "source": "东方财富股票",
+     "zh": "早报丨美联储鹰声嘹亮，沃勒主张12月加息50基点；Anthropic定价每股83美元，今夜登陆纳斯达克；腾讯回应先进算力减少：短期训练承压，长期加速国产建设"
+    },
+    {
+     "title": "英伟达将把加薪和新股权奖励提前至12月发放",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934645695.html",
+     "pubDate": "Thu, 19 Nov 2026 08:20:39 +0800",
+     "summary": "财联社11月19日消息，在周三举行的内部全员大会上， 英伟达 临时CEO科莱特·克雷斯（Colette Kress）向员工承诺，将在12月发放加薪和额外的股权福利。这打破了公司通常在春季对员工进行年度评估的常规时间表。 （文章来源：蓝鲸新闻）",
+     "source": "东方财富股票",
+     "zh": "英伟达将把加薪和新股权奖励提前至12月发放"
+    },
+    {
+     "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？",
+     "link": "http://stock.eastmoney.com/news/11228,202611193934644890.html",
+     "pubDate": "Thu, 19 Nov 2026 08:17:49 +0800",
+     "summary": "Anthropic的超级IPO即将登陆市场。据最新报道，该公司已将IPO发行价定为每股83美元，高于此前公布的70至78美元发行区间。其股票预计将于周四开始交易。 以此计算，Anthropic完全稀释估值约1.5万亿美元，仅次于 SpaceX （1.77万亿美元），但据媒体此前报道，Anthropic及其部分投资方计划通过本次IPO外加一轮独立私募配售，合计募资额最高可达904亿美元。两项融资合计规模将超过 SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值 人工智能 行业动荡之际： 数据中心 的抵制助长了民主党的蓝色浪潮，再叠加“黄仁勋风波”，市场",
+     "source": "东方财富资讯",
+     "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
+    },
+    {
+     "title": "“重大软件崩溃”密集发生，只是因为怕AI？",
+     "link": "https://wallstreetcn.com/articles/3786241",
+     "pubDate": "Thu, 19 Nov 2026 08:14:09 +0800",
+     "summary": "过去一周，美国多个关键机构和企业相继发生系统中断，从微软、摩根大通到美国联邦航空管理局（FAA）乃至国家安全局（NSA），无一幸免。美国官员和网络安全专家正将矛头指向同一个根源： AI驱动的漏洞发现能力急剧提升，迫使各机构以前所未有的速度和规模密集打补丁，由此引发系统性崩溃风险 。 据英国《金融时报》11月18日报道，参议院情报特别委员会副主席Mark Warner明确表示，目前没有任何迹象显示上述事件源于网络攻击、外国干预或协调行动，“真正发生的，是人工智能正在以多快的速度改变网络安全格局所带来的后果”。他警告称， AI工具正对企业和政府机构施加“巨大压力” ，迫使它们“往往同时、立即”修补",
+     "source": "华尔街见闻",
+     "zh": "“重大软件崩溃”密集发生，只是因为怕AI？"
+    },
+    {
+     "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
+     "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
+     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 （文章来源：界面新闻）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
+    },
+    {
+     "title": "11月19日投资日历 | 中俄美元首会晤举行",
+     "link": "http://finance.eastmoney.com/news/11848,202611193934637722.html",
+     "pubDate": "Thu, 19 Nov 2026 08:11:51 +0800",
+     "summary": "（1）11月19日，国家主席 习近平 将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美 元首会晤 。 （2）商务部于11月19日下午3时举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。 （3）国家中医药管理局于11月19日下午3时召开健康中国中医药健康促进主题发布会之“冬季的中医药保健”专题发布会，介绍中医养生保健方法的基本知识和练习注意事项。 （4）2026世界计算大会于11月19日至21日在长沙国际会议中心举办，主题为“计算万物湘约未来——打造智能经济新形态”。 （5）2026 脑机接口 大会于11月19日至22日在北京昌平石油科技交流中心举办，主题为“脑智芯联机",
+     "source": "东方财富资讯",
+     "zh": "11月19日投资日历 | 中俄美元首会晤举行"
+    },
+    {
+     "title": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿",
+     "link": "https://wallstreetcn.com/articles/3786222",
+     "pubDate": "Thu, 19 Nov 2026 08:10:39 +0800",
+     "summary": "Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。 周三据彭博援引知情人士透露， 此次IPO定价高出发行区间上限5美元，同时扩大发行规模，将发行股份数从8.25亿股上调至9.8亿股，增幅达19%。 这意味着此次IPO至少筹集了813亿美元，加上260亿美元的配售， 总筹资额将超过1070亿美元 ， 比SpaceX 6月份750亿美元的基础交易额，也超越包含超额配售权后的862亿美元。 按完全摊薄基础计算，此次发行预计将使该公司的估值达到约1.5万亿美元。 该股票预计将于 当地时间11月19日周四午间在纳斯",
+     "source": "华尔街见闻",
+     "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
+    },
+    {
+     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+     "pubDate": "Thu, 19 Nov 2026 00:08:14 GMT",
+     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+     "source": "CNBC",
+     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
+    },
+    {
      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
      "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
      "pubDate": "Thu, 19 Nov 2026 00:07:06 GMT",
      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
      "source": "CNBC",
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+    },
+    {
+     "title": "飞了49年后 “旅行者1号”探测器抵达距地球一光日里程碑",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934604757.html",
+     "pubDate": "Thu, 19 Nov 2026 08:02:05 +0800",
+     "summary": "北京时间11月18日18时16分，人类迄今飞得最远的探测器“旅行者1号”跨过一个新的距离里程碑：距离地球约259亿公里，相当于光在真空中传播一整天的路程。 从1977年出发到今天，这颗探测器用了49年，才走到光只需一天就能跨越的远方。 （来源：NASA） 一光日有多远？ “一光日”中的“日”，容易让人误以为它是时间单位。实际上，它与光年一样，都是用光的传播时间来表示距离。 光在真空中的速度约为每秒30万公里，一天有86400秒，两者相乘，就是约259亿公里。 这大约相当于地球与太阳平均距离的173倍。 把几个熟悉的天体放在一起，这种差距就更容易理解：月球距离地球平均约1.3光秒，太阳距离地球约",
+     "source": "东方财富资讯",
+     "zh": "飞了49年后 “旅行者1号”探测器抵达距地球一光日里程碑"
+    },
+    {
+     "title": "Singapore sets national AI missions for financial services",
+     "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
+     "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
+     "source": "Finextra",
+     "zh": "Singapore sets national AI missions for financial services"
+    },
+    {
+     "title": "ETF追踪丨11月18日股票型ETF净申购119亿元 资金加仓沪深300ETF华泰柏瑞",
+     "link": "http://stock.eastmoney.com/news/11868,202611193934603497.html",
+     "pubDate": "Thu, 19 Nov 2026 08:00:08 +0800",
+     "summary": "东方财富 Choice数据显示，11月18日，ETF资金整体净流入157.94亿元，其中，股票型净流入118.60亿元。 股票型ETF中，当日净申购前3依次为：沪深300ETF华泰柏瑞，净申购54.36亿元；创业板ETF易方达，净申购50.08亿元；沪深300ETF华夏，净申购33.10亿元。 股票型ETF当日净赎回前3为： 银行 ETF华宝，净赎回5.26亿元；科创50ETF华夏，净赎回4.76亿元；中证1000ETF广发，净赎回4.34亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力",
+     "source": "东方财富资讯",
+     "zh": "ETF追踪丨11月18日股票型ETF净申购119亿元 资金加仓沪深300ETF华泰柏瑞"
     },
     {
      "title": "Venture Global CEO sees final investment decisions on two key projects in next year's H1",
@@ -2296,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达因CEO黄仁勋离职引发的治理不确定性，已开始在资本市场层面产生实质影响。 11月18日周三，穆迪评级将英伟达的信用评级展望由\"正面\"下调至\"稳定\"，维持Aa1高级无担保债务评级不变。 这意味着在未来12至18个月内，英伟达的信用评级几乎不存在上调空间。 穆迪分析师Raj Joshi在声明中指出， 黄仁勋的离职\"已对公司业务战略和财务政策带来不确定性\"，尽管英伟达的市场领导地位和财务状况依然\"极为强劲\"。 与此同时，债券市场的反应相对温和，英伟达五年期信用违约互换（CDS）周三报121个基点，较一周前下降约20个基点， 交易员认为黄仁勋离职或将限制公司举债规模，从而在一定程度上缓解信用层面",
      "source": "华尔街见闻",
      "zh": "穆迪：下调英伟达评级展望，治理隐患盖过财务实力"
-    },
-    {
-     "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-     "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-     "pubDate": "Wed, 18 Nov 2026 23:38:55 GMT",
-     "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
-     "source": "CNBC",
-     "zh": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market"
-    },
-    {
-     "title": "史上最大IPO周四上市！Anthropic定价83美元，募资940亿美元、估值1.5万亿",
-     "link": "https://wallstreetcn.com/articles/3786222",
-     "pubDate": "Thu, 19 Nov 2026 07:37:22 +0800",
-     "summary": "Anthropic以每股83美元的价格完成IPO定价，超出此前70至78美元的发行区间，融资规模突破历史纪录，成为迄今全球最大首次公开募股。 周三据彭博援引知情人士透露，此次发行规模同步扩大。结合同步进行的260亿美元私募配售，本次整体融资总额预计超过940亿美元，超越SpaceX今年6月创下的862亿美元纪录。 此次IPO认购倍数接近七倍。 按完全摊薄基础计算，此次发行预计将使该公司的估值达到约1.5万亿美元。 该股票预计将于 当地时间11月19日周四午间在纳斯达克上市，股票代码为“ANT”。 当日稍早时候，据CNBC援引知情人士透露， Anthropic机构投资者的认购需求约达4000亿美",
-     "source": "华尔街见闻",
-     "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资940亿美元、估值1.5万亿"
     },
     {
      "title": "Wheat leads losses in U.S. grain futures, falling to lowest since January",
@@ -2354,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "What the ‘death cross’ in small-cap stocks means for the rest of the market"
     },
     {
-     "title": "华尔街见闻早餐FM-Radio | 2026年11月19日",
-     "link": "https://wallstreetcn.com/articles/3786236",
-     "pubDate": "Thu, 19 Nov 2026 07:08:18 +0800",
-     "summary": "华见早安之声 要闻精选 中国 习近平会见俄罗斯总统普京。习近平迎接美国总统特朗普。 “监管要求基金公司上报全部产品AI敞口”，“国常会上有人表态不会再频繁救市了”， 均系谣言。 腾讯 Q3营收同比增8%， 资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值 。 电话会 ：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟。 雷军 ： 明年小米汽车正式出海。 海外 美联储纪要 鹰声大作： 几乎全体认为还需加息 ，更多人支持10月就行动，“不透明”AI债务风险引担忧。美联储分歧加剧： 沃勒 称 12月应考虑加息50个",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年11月19日"
-    },
-    {
      "title": "UGI Non-GAAP EPS of $3.00 beats by $0.21, revenue of $7.3B misses by $50M",
      "link": "https://seekingalpha.com/news/4674489-ugi-non-gaap-eps-of-3_00-beats-by-0_21-revenue-of-7_3b-misses-by-50m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 18:02:19 -0500",
@@ -2392,110 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Saipem SpA reports Q3 results"
-    },
-    {
-     "title": "Harmonic Drive Systems Inc. GAAP EPS of ¥31.54, revenue of ¥36.12B",
-     "link": "https://seekingalpha.com/news/4674486-harmonic-drive-systems-inc-gaap-eps-of-3154-revenue-of-3612b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 17:55:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Harmonic Drive Systems Inc. GAAP EPS of ¥31.54, revenue of ¥36.12B"
-    },
-    {
-     "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-     "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
-     "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
-     "source": "MarketWatch",
-     "zh": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind"
-    },
-    {
-     "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 22:53:00 GMT",
-     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-     "source": "MarketWatch",
-     "zh": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
-    },
-    {
-     "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-     "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 22:31:00 GMT",
-     "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock"
-    },
-    {
-     "title": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫",
-     "link": "http://stock.eastmoney.com/news/11784,202611193934391280.html",
-     "pubDate": "Thu, 19 Nov 2026 06:15:07 +0800",
-     "summary": "美股市场： 美股三大指数11月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌561.25点，收于50198.17点，跌幅为1.11%； 标准普尔 500种股票指数下跌16.9点，收于7323.63点，跌幅为0.23%； 纳斯达克 综合 指数上涨101.5点，收于24429.88点，涨幅为0.42%。 “科技七巨头”整体小幅走高，内部走势进一步分化， 亚马逊 涨3.82%， 特斯拉 涨0.95%， 谷歌-A 涨0.80%， 微软 涨0.40%， 苹果 涨0.15%；Meta跌0.40%， 英伟达 跌2.89%。消息面上， 英伟达 第三季度财报及第四季度营收指引均超出预期，但瑞银",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫"
-    },
-    {
-     "title": "Anthropic raises $81bn in record IPO",
-     "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-     "pubDate": "Wed, 18 Nov 2026 22:04:50 GMT",
-     "summary": "AI giant prices offering above targeted range and upsizes deal after drawing bumper demand from investors",
-     "source": "Financial Times",
-     "zh": "Anthropic raises $81bn in record IPO"
-    },
-    {
-     "title": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202611183934327446.html",
-     "pubDate": "Thu, 19 Nov 2026 06:03:29 +0800",
-     "summary": "11月19日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 “东方证券+上海证券”进入实施阶段 11月18日盘后， 东方证券 公告称，已收到中国证监会出具的批复，同意公司发行股份及支付现金购买资产暨关联交易的注册申请。这意味着这起251.2亿元的上海国资体系内券商合并重组，已完成全部监管审批程序，进入正式实施阶段。 聚焦“六张网”等重点领域 稳投资节奏加快 进入四季度，稳投资节奏明显加快。11月以来，央地密集召开投资调度会、推进会，统筹做好今明两年政策衔接、要素保障和项目储备。伴随8000亿元新型政策性金融工具、专项债结存限额等增量资金逐步投放到位，多地聚焦“六张网”等重点领域，把投融",
-     "source": "东方财富资讯",
-     "zh": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "东方财富财经早餐 11月19日周四",
-     "link": "http://finance.eastmoney.com/news/1344,202611183934326351.html",
-     "pubDate": "Thu, 19 Nov 2026 06:00:07 +0800",
-     "summary": "每日精选 习近平迎接美国总统特朗普： 据新华社，11月18日下午，国家主席习近平在深圳宝安国际 机场 迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。习近平表示，中国是礼仪之邦，有礼尚往来的传统。我欢迎你再次访华， 期待同你就事关中美关系、亚太合作和世界格局的重大问题深入交换意见，推动基于尊重、公平、对等的中美建设性战略稳定关系向前发展 。 英伟达 称将不再向中国出货H200芯片： 外交部发言人郭嘉昆主持例行记者会。法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片 。中方对此有何评论？郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 中际旭创 要",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月19日周四"
-    },
-    {
-     "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 18 Nov 2026 22:00:00 GMT",
-     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-     "source": "MarketWatch",
-     "zh": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk."
-    },
-    {
-     "title": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11837,202611193934396342.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:14 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "【图解财报】派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
-     "title": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%",
-     "link": "http://stock.eastmoney.com/news/11836,202611193934396283.html",
-     "pubDate": "Thu, 19 Nov 2026 05:57:07 +0800",
-     "summary": "派拓网络 11月18日发布 一季报 业绩，截至2026年10月31日的 3 个月内，该公司营业收入34.45亿美元，同比 增长39.25%； 公司权益持有人应占溢利（归母净利润）4.82亿美元， 同比增长44.31% 。 派拓网络 一季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服",
-     "source": "东方财富股票",
-     "zh": "图解财报：派拓网络一季报盈利4.82亿美元，同比增加44.31%"
-    },
-    {
-     "title": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611183934326212.html",
-     "pubDate": "Thu, 19 Nov 2026 05:53:29 +0800",
-     "summary": "今年4月，天风国际证券分析师郭明錤曾发布产业调查称， 立讯精密 为Open AI手机 项目的独家系统协同设计及制造合作伙伴，相关手机预计于2028年量产。此后，OpenAI进军智能手机市场的消息备受关注。 不过，11月18日晚间，《每日经济新闻》记者从供应链人士处获悉， 立讯精密 目前与OpenAI有多个产品的全面合作，或因资源配置的统筹考量未承接手机组装业务。 继眼镜、耳机之后，为什么&nbsp;OpenAI还要自己做手机硬件？郭明錤在分析中给出了三方面理由：首先，只有充分掌控操作系统与硬件，才能提供全面的 AI智能体 服务；其次，手机能够持续获取用户所处的实时状态，为 AI智能体 提供重要",
-     "source": "东方财富股票",
-     "zh": "OpenAI将进军手机市场 供应链人士：立讯精密或因资源配置考量 未承接其手机组装业务"
-    },
-    {
-     "title": "沙特阿拉伯：警告艾卜哈地区存在潜在危险",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934396150.html",
-     "pubDate": "Thu, 19 Nov 2026 05:53:07 +0800",
-     "summary": "沙特阿拉伯：警告艾卜哈地区存在潜在危险。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特阿拉伯：警告艾卜哈地区存在潜在危险"
     }
    ]
   },

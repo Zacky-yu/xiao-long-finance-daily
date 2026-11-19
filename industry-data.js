@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 14:38:00",
+ "generated_at": "2026/11/19 14:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,46 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Anthropic raises $107bn at $1.5trn valuation",
+     "link": "https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 06:16:05 +0000",
+     "summary": "Anthropic raised $107.3 billion in its IPO and private placement. The offering included a $26 billion private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO […] The post Anthropic raises $107bn at $1.5trn valuation appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Anthropic raises $107bn at $1.5trn valuation"
+    },
+    {
+     "title": "ST set to double MCU revenues",
+     "link": "https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 06:15:21 +0000",
+     "summary": "ST expects to double its MCU revenues between 2005 and 2028 says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ST set to double MCU revenues"
+    },
+    {
+     "title": "SI expecting 60-80% semi growth in 2026",
+     "link": "https://www.electronicsweekly.com/news/business/si-expecting-60-80-semi-growth-in-2026-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 06:14:05 +0000",
+     "summary": "This is Bill Jewell’s last Semiconductor Intelligence newsletter before retirement. We wish him well and thank him for his insights and knowledge shared over many decades. The global semiconductor market […] The post SI expecting 60-80% semi growth in 2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "SI expecting 60-80% semi growth in 2026"
+    },
+    {
+     "title": "Pulsiv signs Easby",
+     "link": "https://www.electronicsweekly.com/news/business/pulsiv-signs-easby-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 06:09:59 +0000",
+     "summary": "Pulsiv, the Cambridge power electronics speciakist, has signed a distribution agreement with Easby Electronics. Easby’s technical sales team will focus on demand creation activities for the Pulsiv range of high-power […] The post Pulsiv signs Easby appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Pulsiv signs Easby"
+    },
+    {
+     "title": "Nvidia launches Vera CPU for scientific discovery",
+     "link": "https://www.electronicsweekly.com/news/business/nvidia-launches-vera-cpu-for-scientific-discovery-2026-11/",
+     "pubDate": "Thu, 19 Nov 2026 06:07:37 +0000",
+     "summary": "Nvidia has announced the Nvidia Vera CPU rack-scale platform for high-performance computing – combining Nvidia’s first fully custom datacentre CPU with HPC networking to drive efficiency and throughput for scientific […] The post Nvidia launches Vera CPU for scientific discovery appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Nvidia launches Vera CPU for scientific discovery"
+    },
+    {
      "title": "Xi outlines four APEC cooperation pillars as trilateral talks with Trump, Putin draw focus",
      "link": "https://www.digitimes.com/news/a20261119PD220/apec-shenzhen-data-industrial-digital-economy.html",
      "pubDate": "Thu, 19 Nov 2026 05:58:11 GMT",
@@ -354,22 +394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Physics Over Probability: How Agentic AI Solves Electronic Systems Verification"
     },
     {
-     "title": "Meet Nobi, your Raspberry Pi-based AI companion",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/meet-nobi-your-raspberry-pi-based-local-intelligent-friend-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 16:39:46 +0000",
-     "summary": "Check out Nobi, the Raspberry Pi 4-based desk-companion AI robot created by Gadget Master Devin Roberts. Nobi? It stands for Network Optional Bot Intelligence. “He listens, talks back, and remembers […] The post Meet Nobi, your Raspberry Pi-based AI companion appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Meet Nobi, your Raspberry Pi-based AI companion"
-    },
-    {
-     "title": "Gadget Watch: LG and Philips 5K gaming monitors",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-lg-and-philips-5k-gaming-monitors-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 16:10:33 +0000",
-     "summary": "Blimey, it's taken me so long to write about the LG UltraGear evo GM9 5K - from back in April - that another display - the Philips Evnia 27M2D5901A - finally prompts me into action! The post Gadget Watch: LG and Philips 5K gaming monitors appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Gadget Watch: LG and Philips 5K gaming monitors"
-    },
-    {
      "title": "Is AI Ready to Help Chip Teams Get the Architecture Right?",
      "link": "https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/",
      "pubDate": "Wed, 18 Nov 2026 16:00:33 +0000",
@@ -378,28 +402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Is AI Ready to Help Chip Teams Get the Architecture Right?"
     },
     {
-     "title": "Picture of the Day: Space Selfie – A view from you of me!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-space-selfie-looking-at-you-looking-at-me-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 15:29:55 +0000",
-     "summary": "Thanks to Nasa for this one. There are some amazing images being taken from space and I do like this recent astronaut selfie! The post Picture of the Day: Space Selfie – A view from you of me! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Space Selfie – A view from you of me!"
-    },
-    {
      "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
      "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
      "summary": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
      "source": "EE Times",
      "zh": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design"
-    },
-    {
-     "title": "Dissing Datacentres",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 14:20:37 +0000",
-     "summary": "The backlash against datacentres isn’t limited to the US. According to a survey by Statista Consumer Insights concerns are equally widespread in the UK and only slightly less common in […] The post Dissing Datacentres appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Dissing Datacentres"
     },
     {
      "title": "PDF Solutions: Has the Puck Finally Arrived?",
@@ -440,14 +448,6 @@ window.INDUSTRY_DATA = {
      "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
      "source": "Semiconductor Today",
      "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Micron backs space computing startup in Series B funding round",
-     "link": "https://www.electronicsweekly.com/news/business/finance/micron-backs-space-computing-startup-in-series-b-funding-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 12:01:18 +0000",
-     "summary": "Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm […] The post Micron backs space computing startup in Series B funding round appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Micron backs space computing startup in Series B funding round"
     },
     {
      "title": "Infineon introduces HybridPACK HD power module for electric commercial vehicle drivetrain inverters",
@@ -970,6 +970,14 @@ window.INDUSTRY_DATA = {
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
+     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
+     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
+     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
+     "source": "Utility Dive",
+     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
+    },
+    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1024,6 +1032,14 @@ window.INDUSTRY_DATA = {
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
+    },
+    {
+     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
+     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
+     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
+     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
+     "source": "Utility Dive",
+     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1088,22 +1104,6 @@ window.INDUSTRY_DATA = {
      "summary": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
      "source": "Energy Storage News",
      "zh": "Sungrow aims to replicate utility-scale success in residential and C&I segments"
-    },
-    {
-     "title": "Why AI data centers need storage beyond conventional backup power",
-     "link": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
-     "pubDate": "Wed, 18 Nov 2026 10:30:00 +0000",
-     "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
-     "source": "pv magazine",
-     "zh": "Why AI data centers need storage beyond conventional backup power"
-    },
-    {
-     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
-     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
-     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
-     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
-     "source": "pv magazine",
-     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
     }
    ]
   },
@@ -1370,6 +1370,14 @@ window.INDUSTRY_DATA = {
      "zh": "Astronomers witness a star eating its companion in 1st-of-its-kind observation"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1482,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1514,6 +1530,14 @@ window.INDUSTRY_DATA = {
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+    },
+    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1528,22 +1552,6 @@ window.INDUSTRY_DATA = {
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1762,6 +1770,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Temu 美国全托管核价连降三轮，3人小团队还要不要继续跟？",
+     "link": "https://www.baijing.cn/question/638828",
+     "pubDate": "Thu, 19 Nov 2026 06:39:30 +0000",
+     "summary": "上周收到 Temu 美国站全托管后台的核价通知，同款厨房收纳架被要求从 6.9 美元降到 5.6 美元，这已经是这个季度第三轮了。我们团队一共 3 个人，一个盯选品一个盯供应链，我自己兼着核价和备货排期。现在的情况是：跟价吧，毛利从 18% 压到不足 8%，还要垫资压 45 天库存；不跟吧，链接直接掉出流量池，之前备的 2000 件货就砸手里。试过换包装降克重、跟工厂谈阶梯价，最多再挤出 4 个点，核价窗口只给 48 小时，根本来不及重新比价。人手就这么多，同时还在跑另外两个类目，排期已经排到月底。这种连续核价的情况下，你们是设一条毛利红线直接放弃，还是先跟两轮保住坑位再说？",
+     "source": "白鲸出海",
+     "zh": "Temu 美国全托管核价连降三轮，3人小团队还要不要继续跟？"
+    },
+    {
+     "title": "Echo 创始人邹皓：硬件负责收集声音，AI负责创造价值",
+     "link": "https://www.tmtpost.com/8210472.html",
+     "pubDate": "Thu, 19 Nov 2026 14:34:17 +0800",
+     "summary": "真正让用户留下来的，是他们各自为 Echo 做出的差异化定义",
+     "source": "钛媒体",
+     "zh": "Echo 创始人邹皓：硬件负责收集声音，AI负责创造价值"
+    },
+    {
+     "title": "思特威推出 3200 万像素图像传感器 SC303HS，主打手机前摄与超广角",
+     "link": "https://www.ithome.com/1/029/289.htm",
+     "pubDate": "Thu, 19 Nov 2026 06:32:09 GMT",
+     "summary": "IT之家 11 月 19 日消息，思特威今日宣布推出一款面向智能手机前摄与超广角摄像头的 CMOS 图像传感器新品 SC303HS。 据介绍，该产品具备 3200 万像素分辨率与 0.56μm 的小像素尺寸，目前已开始接受送样，预计将于 2027 年第一季度实现量产。 SC303HS 基于思特威 SmartClarity-3 技术平台打造，光学尺寸为 1/4 英寸，像素阵列为 6560×4928，封装尺寸 4422μm×3803μm。该传感器支持最高 1.5Gbps / Lane 的图像传输速率，输出接口为 D-PHY，输出格式为 RAW RGB。 在暗光成像表现上，该传感器搭载了思特威 SF",
+     "source": "IT之家",
+     "zh": "思特威推出 3200 万像素图像传感器 SC303HS，主打手机前摄与超广角"
+    },
+    {
+     "title": "消息称 TCL 华星将推出无损防窥 OLED 平板屏，支持 360° 全角度主动防窥",
+     "link": "https://www.ithome.com/1/029/288.htm",
+     "pubDate": "Thu, 19 Nov 2026 06:27:01 GMT",
+     "summary": "IT之家 11 月 19 日消息，博主 @数码闲聊站 今日发文询问：“10.95 英寸 OLED 防窥平板想要吗？”。据其透露，TCL 华星将推出无损防窥 OLED 平板屏，支持 360° 全角度主动防窥，采用超窄边设计，技术更进一步。 IT之家查询获悉， 2026 年 TCL 华星全球显示生态大会（DTC2026）于 2026 年 11 月 13 日在 武汉光谷希尔顿酒店 举行，其中就展示了隐私保护技术。据其介绍，TCL 华星将技术研发进一步延伸至光学调控、发光材料与新型器件等方向，推动显示技术在隐私保护、能效优化及多元终端体验方面实现突破。 在隐私显示领域，全球首款全角度无损防窥 OLED",
+     "source": "IT之家",
+     "zh": "消息称 TCL 华星将推出无损防窥 OLED 平板屏，支持 360° 全角度主动防窥"
+    },
+    {
      "title": "SiliconForest 亮相：不装苹果 macOS 系统也能用 Mac 软件",
      "link": "https://www.ithome.com/1/029/287.htm",
      "pubDate": "Thu, 19 Nov 2026 06:21:45 GMT",
@@ -1866,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "清理了100个死亡现场我才明白，孤独死和钱没关系"
     },
     {
-     "title": "“紧急灾难通知”立功，韩国教育部查获 22 名高考生未提交智能手机",
-     "link": "https://www.ithome.com/1/029/280.htm",
-     "pubDate": "Thu, 19 Nov 2026 05:59:17 GMT",
-     "summary": "IT之家 11 月 19 日消息，据韩联社报道，韩国教育部 11 月 19 日表示，在 2027 学年度大学修学能力考试（韩国高考）中，通过发送紧急灾难通知短信， 共查获 22 名未上交手机的作弊考生 。 据韩国教育部次官在政府世宗办公大楼的简报会上介绍，当天上午 8 时 30 分发送紧急灾难通知短信后，全国 9 个市・道共查获 22 部手机。 该官员表示，相关人员将在第一节课结束后移交考试本部，逐一核查是否携带超小型摄像头等尖端设备；若确认存在利用尖端设备作弊的行为，将以“以欺诈手段妨碍公务执行”为由告发并严肃处理。截至目前，22 人中尚未报告手机以外的尖端设备使用情况。 该官员同时称，在查",
-     "source": "IT之家",
-     "zh": "“紧急灾难通知”立功，韩国教育部查获 22 名高考生未提交智能手机"
-    },
-    {
      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
      "link": "https://kapteko.com/15-million-webservers/",
      "pubDate": "Thu, 19 Nov 2026 05:56:36 +0000",
@@ -1896,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 11月19日，中南大学公布了三篇医学论文的调查结果。两篇研究鼻咽癌，一篇研究卵巢癌。把三篇论文翻到文末，都能找到同一个项目编号，QH20230202。它对应的是湘雅二医院为新进员工设立的一项科研启动项目。 三篇论文均被查实存在伪造、篡改实验研究数据和图表的行为。两篇鼻咽癌论文还存在不当署名。其中，因肿瘤照片被网友形容为“虾滑”而引起关注的微塑料论文，还违反了科研伦理规范。校方通报没有就图片是否由AI生成作出认定。 邓某某、赵某被降低专业技术岗位等级，十年内不得承担财政性资金支持的科技活动。对蔡某、谭某某，后一项限制为五年。四人五年内均被取消职",
      "source": "虎嗅",
      "zh": "湘雅“虾滑”论文通报后，还有哪些账要查？"
-    },
-    {
-     "title": "小米推出米家扫振电动牙刷 2：4 区漏刷识别 +180 天续航，国补后 148.75 元",
-     "link": "https://www.ithome.com/1/029/277.htm",
-     "pubDate": "Thu, 19 Nov 2026 05:52:20 GMT",
-     "summary": "IT之家 11 月 19 日消息，小米新推出了一款米家扫振电动牙刷 2（Pro 版此前已经发售），建议零售价 199 元，首发 175 元，叠加国补后 149 元，下单享 2 年质保、评价晒单返 10 元京豆。 京东 米家声波扫振电动牙刷 2 白色 148.75 元 直达链接 这款产品搭载升级 声波扫振马达 2.0 ，驱动刷头做大摆角扫振运动，模拟巴氏刷牙法的清洁轨迹，振动频率约 24000 次 / 分钟，可边扫边振清除牙菌斑，相比上代产品马达性能有所提升。 其机身内置三轴高精度传感器，支持 4 区漏刷识别 功能，配合机身 LED 分区灯环实时追踪刷牙轨迹：白灯提示已清洁区域，橙灯提示漏刷及未",
-     "source": "IT之家",
-     "zh": "小米推出米家扫振电动牙刷 2：4 区漏刷识别 +180 天续航，国补后 148.75 元"
     },
     {
      "title": "Sources: technical staff at several Chinese humanoid robot makers have been denied US visas ahead of CES, hampering their efforts to showcase their hardware (Nikkei Asia)",
@@ -1984,22 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 &nbsp; &mdash;&nbsp; Chinese biotech upstart MegaRobo Technologies has raised nearly $200 million from investors including Oman's s",
      "source": "Techmeme",
      "zh": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)"
-    },
-    {
-     "title": "北美站新品牌备案后二审被卡，广告CPA从18美元涨到41美元还要继续投吗？",
-     "link": "https://www.baijing.cn/question/638823",
-     "pubDate": "Thu, 19 Nov 2026 04:38:15 +0000",
-     "summary": "美国站新店，品牌备案刚通过就触发二审，账户资金冻结但广告还能跑。做的是宠物饮水机配件，客单价32美元，团队3人，月广告预算1.2万美元。之前自动广告CPA稳定在18美元左右，二审通知下来后同一个campaign七天CPA涨到41美元，转化率从6.2%掉到3.1%，ACOS冲到68%。已经试过降竞价、砍掉高花费词、把预算挪到品牌词，都没压下来；也提交了营业执照和采购发票，二审还在审核中。现在纠结的是：这种账户状态下继续烧广告等于给不确定的账号喂钱，但停投又怕权重掉光。到底该按什么标准判断先停投止损还是硬扛到二审结果出来？",
-     "source": "白鲸出海",
-     "zh": "北美站新品牌备案后二审被卡，广告CPA从18美元涨到41美元还要继续投吗？"
-    },
-    {
-     "title": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？",
-     "link": "https://www.tmtpost.com/8210838.html",
-     "pubDate": "Thu, 19 Nov 2026 12:36:48 +0800",
-     "summary": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
-     "source": "钛媒体",
-     "zh": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？"
     }
    ]
   },
@@ -2009,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola confirms key specs for the Edge 70 Neo now",
+     "link": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php",
+     "pubDate": "Thu, 19 Nov 2026 07:31:02 +0100",
+     "summary": "Yesterday, Motorola started teasing the upcoming Edge 70 Neo, revealing its official launch date for the phone, which will be November 24. Later, Motorola also confirmed that its main camera uses a 50MP Sony Lytia 710 sensor. The screen is a 6.8-inch Extreme AMOLED Super HD panel with 1.5K resolutio",
+     "source": "GSMArena",
+     "zh": "Motorola confirms key specs for the Edge 70 Neo now"
+    },
     {
      "title": "Galaxy Buds Active leak shows workout earbuds with ANC, ear hooks, IP68, and one odd omission",
      "link": "https://www.androidauthority.com/samsung-galaxy-buds-active-features-design-leak-3736998/",
@@ -2194,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Motorola Razr Fold finally gets its Android 17 update – hopefully the next 7 years go faster"
     },
     {
-     "title": "Nvidia halts its H200 chip sales to China",
-     "link": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php",
-     "pubDate": "Wed, 18 Nov 2026 22:31:01 +0100",
-     "summary": "Back in December, Nvidia received government approval to sell its H200 AI chips to specially approved customers in China. That deal had some attached strings, like a 25% export tariff charged by the US, but Nvidia is now completely abandoning its H200 chip exports to China. During the latest Q3 earn",
-     "source": "GSMArena",
-     "zh": "Nvidia halts its H200 chip sales to China"
-    },
-    {
      "title": "Google Pixel officially re-releases App Lock in beta, Samsung Galaxy gets it too",
      "link": "https://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
      "pubDate": "Wed, 18 Nov 2026 21:20:00 +0000",
@@ -2258,6 +2266,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "【调研快报】中集环科接待中信建投证券股份有限公司调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611193934991982.html",
+     "pubDate": "Thu, 19 Nov 2026 14:43:44 +0800",
+     "summary": "中集环科 11月19日公告称， 11月18日 接待 中信建投 证券股份有限公司 调研。 接待人员包括公司副总裁、首席财务官、董事会秘书 张毅,公司董事会办公室主任 王延民。 公司就以下问题进行了回复： 问题 1:请介绍公司新签订单和在手订单的具体情况。 答:2026 年前三季度,公司新签订单 23.43 亿元,同比增长 45.29%。截至 2026 年 9 月底,公司在手订单 12.95 亿元,同比增长 50.82%。订单增长,为后续业务发展奠定了坚实基础。 问题 2:请介绍一下钢材价... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中集环科接待中信建投证券股份有限公司调研"
+    },
+    {
+     "title": "上海社保科创股权投资基金登记成立，出资额200亿",
+     "link": "http://fund.eastmoney.com/news/1623,202611193934991618.html",
+     "pubDate": "Thu, 19 Nov 2026 14:42:57 +0800",
+     "summary": "天眼查App显示，11月18日，上海社保科创股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为工银资本管理有限公司、 国泰海通 开元投资有限公司，出资额200亿元人民币，经营范围为以私募基金从事股权投资、投资管理、 资产管理 等活动。合伙人信息显示，该基金由全国社会保障基金理事会、工银金融资产投资有限公司、上海国际集团 资产管理 有限公司、上海浦东引领区投资中心（有限合伙）、上海汇资投资有限公司、上海静安资本投资运营有限公司、工银资本管理有限公司、 国泰海通 开元投资有限公司共同出资。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "上海社保科创股权投资基金登记成立，出资额200亿"
+    },
+    {
+     "title": "一只暴跌的债基刷屏了 今年亏损37% 公司这回应打几分？",
+     "link": "http://bond.eastmoney.com/news/1325,202611193934972225.html",
+     "pubDate": "Thu, 19 Nov 2026 14:41:00 +0800",
+     "summary": "近日，一只二级债基的净值表现引发市场热议：民生加银增强收益债券A今年以来亏损幅度达36.92%，近一年亏损幅度达34.50%。 为何债基的净值波动也会这么大？对此，业内人士指出，净值大幅波动主要由于该产品采取高弹性运作策略，对股票、可转债资产的配置比例较高。三季度末，该产品的股票仓位达18.40%，可转债仓位达65.91%，且持仓较为集中。 业内人士强调，该产品虽然是债基，但采取的投资策略与普通债基不同，因而净值波动会比较大。2025年时，该产品的高弹性策略也一度展现出优异业绩表现，产品A类份额的全年收益达35.89%。 公司回应中，除了说明涨跌具有同源性、对称性外，表明要加强风险提示，是公司",
+     "source": "东方财富资讯",
+     "zh": "一只暴跌的债基刷屏了 今年亏损37% 公司这回应打几分？"
+    },
+    {
+     "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+     "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+     "pubDate": "Thu, 19 Nov 2026 06:39:53 GMT",
+     "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+     "source": "CNBC",
+     "zh": "Takaichi gets chilly reception in China on first Japan leader visit since 2019"
+    },
+    {
+     "title": "受芯片需求强劲推动，韩国出口额首次突破1万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934990543.html",
+     "pubDate": "Thu, 19 Nov 2026 14:39:44 +0800",
+     "summary": "韩国产业通商资源部周四表示，得益于全球对 半导体 产品的强劲需求，韩国今年的出口总额首次突破1万亿美元。韩国产业通商资源部宣布，截至当地时间周四下午2点09分，韩国今年的累计出口额已超过1万亿美元。韩国成为全球第四个达到这一里程碑的国家。韩国去年的出口总额已超过7000亿美元。韩国产业通商资源部在新闻稿中指出：“随着全球科技公司加大对 人工智能 （AI）基础设施的投资， 半导体 和 计算机 已成为今年出口增长的主要 驱动力 。”该部门表示， 存储芯片 价格的上涨也推高了出口总值，进一步巩固了韩国在全球 人工智能 （AI）供应链中作为关键供应方的地位。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "受芯片需求强劲推动，韩国出口额首次突破1万亿美元"
+    },
+    {
+     "title": "日本首相高市早苗：与俄罗斯总统普京交谈超过30分钟，进行了深入对话",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934990384.html",
+     "pubDate": "Thu, 19 Nov 2026 14:39:44 +0800",
+     "summary": "日本首相高市早苗：与俄罗斯总统普京交谈超过30分钟，进行了深入对话。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本首相高市早苗：与俄罗斯总统普京交谈超过30分钟，进行了深入对话"
+    },
+    {
+     "title": "星动纪元机器人落地广东邮政8市11地，机器人ETF华夏（562500）午后震荡回调",
+     "link": "http://stock.eastmoney.com/news/11622,202611193934990932.html",
+     "pubDate": "Thu, 19 Nov 2026 14:39:42 +0800",
+     "summary": "截至14:26，A股三大指数集体下跌，上证指数跌0.82%，深证成指跌1.03%，创业板指跌1.17%。 机器人 板块午后震荡调整，中证 机器人 指数下跌0.92%。 机器人 ETF华夏（562500）盘中震荡走低，成交额约3.32亿元。 消息面上，11月17日，据媒体报道，具身智能企业星动纪元旗下 物流 机器人 星动M7已在中国邮政广东省分公司规模化落地。星动M7目前常态化运营中的平均供件效率已超过1500件/小时，主要承担 物流 分拣环节中高强度、重复性作业。此外，星动纪元已在中国邮政杭州邮区中心完成45台 机器人 批量部署。 国金证券 11月15日发布的 机器人 行业周报认为，机器人行业",
+     "source": "东方财富股票",
+     "zh": "星动纪元机器人落地广东邮政8市11地，机器人ETF华夏（562500）午后震荡回调"
+    },
+    {
+     "title": "SELLAS Life Sciences prices $150M public offering of common stock",
+     "link": "https://seekingalpha.com/news/4674513-sellas-life-sciences-prices-150m-public-offering-of-common-stock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:39:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SELLAS Life Sciences prices $150M public offering of common stock"
+    },
+    {
+     "title": "小红书、Vivo等间接入股DeepSeek",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934990228.html",
+     "pubDate": "Thu, 19 Nov 2026 14:39:10 +0800",
+     "summary": "21财经11月19日电，天眼查App显示，近日，杭州程砚企业管理咨询合伙企业（有限合伙）发生工商变更，原合伙人梁文锋退出，新增小红书关联公司行吟信息科技（上海）有限公司、Vivo关联公司维沃移动 通信 有限公司、 中信证券 投资有限公司等为合伙人，同时，注册资本由0.6万人民币增至约34.4亿元人民币。该合伙企业成立于今年8月，执行事务合伙人为梁文锋名下杭州程策商务咨询有限公司，经营范围包括企业管理咨询、信息咨询服务、企业管理等，现由杭州程策商务咨询有限公司及上述新增合伙人共同出资。对外投资信息显示，该合伙企业为DeepSeek关联公司杭州深度求索 人工智能 基础技术研究有限公司的第三大股东，",
+     "source": "东方财富股票",
+     "zh": "小红书、Vivo等间接入股DeepSeek"
+    },
+    {
+     "title": "JOYY declares $1.59/ADS dividend",
+     "link": "https://seekingalpha.com/news/4674522-joyy-declares-159ads-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:37:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JOYY declares $1.59/ADS dividend"
+    },
+    {
+     "title": "中美元首会见结束",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934986866.html",
+     "pubDate": "Thu, 19 Nov 2026 14:35:17 +0800",
+     "summary": "11月19日下午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的美国总统特朗普。活动结束后，特朗普来到休息室。 （文章来源：央视新闻）",
+     "source": "东方财富资讯",
+     "zh": "中美元首会见结束"
+    },
+    {
      "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
      "pubDate": "Thu, 19 Nov 2026 06:29:34 GMT",
@@ -2282,54 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyster-Yale rises 4% after pricing $135M convertible notes offering"
     },
     {
-     "title": "*ST步森控股子公司部分银行账户被冻结",
-     "link": "http://stock.eastmoney.com/news/11215,202611193934982264.html",
-     "pubDate": "Thu, 19 Nov 2026 14:26:02 +0800",
-     "summary": "11月18日， *ST步森 （002569.SZ）披露公告，公司控股子公司杭州步信云科技有限公司（简称“步信云”）部分 银行 账户被冻结。本次冻结系职员离职与步信云产生劳动争议仲裁案件并向法院申请执行所致。 公告显示，本次 银行 账户资金新增冻结情况包括，步信云中国 工商银行 杭州南星桥支行开立的基本户，冻结金额约5.35万元；步信云在中国 建设银行 股份有限公司杭州半山支行开立的一般户，冻结金额约5.28万元。两账户合计冻结资金约10.62万元。 从累计冻结规模看，截至目前，公司（含子公司）合计 银行 账户被冻结额度为279.29万元，实际冻结金额176.09万元。被冻结额度占公司2025年",
-     "source": "东方财富股票",
-     "zh": "*ST步森控股子公司部分银行账户被冻结"
-    },
-    {
-     "title": "印度证券交易委员会官员：近几日已看到外资流出开始逆转",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934981697.html",
-     "pubDate": "Thu, 19 Nov 2026 14:25:11 +0800",
-     "summary": "印度证券交易委员会官员：近几日已看到外资流出开始逆转。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印度证券交易委员会官员：近几日已看到外资流出开始逆转"
-    },
-    {
-     "title": "Meta拟在印度招聘新任政策主管，旨在修复受损关系",
-     "link": "http://stock.eastmoney.com/news/1611,202611193934982176.html",
-     "pubDate": "Thu, 19 Nov 2026 14:25:11 +0800",
-     "summary": "Meta Platforms(META.O)正在印度物色一位高级公共政策高管，试图修复其与该国政府之间破裂的关系。印度是Meta增长最快的市场之一。目前，Meta在印度的政府关系事务由高级总监Aman Jain负责。据知情人士称，该职位未来将向新任公共政策副总裁汇报。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Meta拟在印度招聘新任政策主管，旨在修复受损关系"
-    },
-    {
-     "title": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934982426.html",
-     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
-     "summary": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争"
-    },
-    {
-     "title": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934981910.html",
-     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
-     "summary": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系"
-    },
-    {
-     "title": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934981827.html",
-     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
-     "summary": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性"
-    },
-    {
      "title": "Asian stocks diverge on soft Australian employment and Anthropic IPO focus",
      "link": "https://seekingalpha.com/news/4674511-asian-stocks-diverge-on-soft-australian-employment-and-anthropic-ipo-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 01:19:43 -0500",
@@ -2346,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Citigroup CEO Fraser warns of more tech outages as firms patch tech"
     },
     {
-     "title": "BCE explores potential Telus deal as Quebecor's C$31B proposal faces scrutiny - report",
-     "link": "https://seekingalpha.com/news/4674516-bce-explores-potential-telus-deal-as-quebecors-c31b-proposal-faces-scrutiny---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 01:09:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BCE explores potential Telus deal as Quebecor's C$31B proposal faces scrutiny - report"
-    },
-    {
      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
      "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
      "pubDate": "Thu, 19 Nov 2026 06:07:29 GMT",
      "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
      "source": "CNBC",
      "zh": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine"
-    },
-    {
-     "title": "Australia’s October unemployment rate jumps to 4.9% as employment unexpectedly drops by 43.5K",
-     "link": "https://seekingalpha.com/news/4674510-australias-october-unemployment-rate-jumps-to-49-as-employment-unexpectedly-drops-by-435k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 01:03:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Australia’s October unemployment rate jumps to 4.9% as employment unexpectedly drops by 43.5K"
     },
     {
      "title": "10月美联储FOMC会议纪要：为10月未加息“找一堆理由”，又强烈指引12月“至少加息25基点”",
@@ -2472,30 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
      "source": "Financial Times",
      "zh": "Anthropic retail investors face squeeze in blockbuster IPO"
-    },
-    {
-     "title": "Angry America and its housing market",
-     "link": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-     "pubDate": "Thu, 19 Nov 2026 05:00:17 GMT",
-     "summary": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
-     "source": "Financial Times",
-     "zh": "Angry America and its housing market"
-    },
-    {
-     "title": "Adani: the billionaire at the heart of Modi’s India",
-     "link": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-     "pubDate": "Thu, 19 Nov 2026 05:00:11 GMT",
-     "summary": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
-     "source": "Financial Times",
-     "zh": "Adani: the billionaire at the heart of Modi’s India"
-    },
-    {
-     "title": "DeepSeek千亿融资落地：31家出资主体现身 产业资本大集结",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934933066.html",
-     "pubDate": "Thu, 19 Nov 2026 12:47:59 +0800",
-     "summary": "备受瞩目的DeepSeek第二轮千亿融资落地了。 工商信息显示，DeepSeek工商主体杭州深度求索 人工智能 基础技术研究有限公司，近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）（下称“杭州程砚”），公司注册资本变更为1991.8707万元，增幅约21.1%。 进一步向上穿透，杭州程砚同期完成工商变更，新增31家合伙人，登记出资额由0.6万元增至343897.9万元。变更后，杭州程砚共有32名合伙人，杭州程策商务咨询有限公司仍担任执行事务合伙人。 《科创板日报》记者注意到，这些新增合伙人即为参与到DeepSeek第二轮融资的各外部股东，囊括了腾讯、 中国移动 、 中国电信",
-     "source": "东方财富资讯",
-     "zh": "DeepSeek千亿融资落地：31家出资主体现身 产业资本大集结"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 14:32:12",
+ "generated_at": "2026/11/19 14:38:00",
  "recent_days": 7,
  "industries": [
   {
@@ -969,14 +969,6 @@
      "zh": "The grid will fall short of AI’s power needs. These 6 resources can close the gap."
     },
     {
-     "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-     "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/",
-     "pubDate": "Wed, 18 Nov 2026 10:50:14 -0500",
-     "summary": "The case is &ldquo;simply not the one to litigate the cost of service [or]&nbsp;who's paying their fair share ... including the data centers,&rdquo; said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-     "source": "Utility Dive",
-     "zh": "NextEra-Dominion merger hearings kick off with focus on scope"
-    },
-    {
      "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
      "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
      "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
@@ -1031,14 +1023,6 @@
      "summary": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million “low-cost electric vehicles” (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to place at the h",
      "source": "CleanTechnica",
      "zh": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars"
-    },
-    {
-     "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
-     "link": "https://www.utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021/",
-     "pubDate": "Wed, 18 Nov 2026 09:23:48 -0500",
-     "summary": "The latest funding announcement is for a 1.8-GW, high-voltage, direct current transmission line in Wyoming,&nbsp;an area rich in wind resources and slated for major grid expansion projects.",
-     "source": "Utility Dive",
-     "zh": "DOE-funded transmission projects could boost East-West transfer capacity 440%"
     },
     {
      "title": "China seeks to strengthen PV recycling system by 2030",
@@ -1103,6 +1087,22 @@
      "summary": "Earlier this month in Hefei, China, Sungrow held its inaugural Global Energy Pioneer Summit, bringing together installers and distributors from around the globe.",
      "source": "Energy Storage News",
      "zh": "Sungrow aims to replicate utility-scale success in residential and C&I segments"
+    },
+    {
+     "title": "Why AI data centers need storage beyond conventional backup power",
+     "link": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+     "pubDate": "Wed, 18 Nov 2026 10:30:00 +0000",
+     "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and rack-level batteries address different operating demands. The post Why AI data centers ne",
+     "source": "pv magazine",
+     "zh": "Why AI data centers need storage beyond conventional backup power"
+    },
+    {
+     "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+     "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+     "pubDate": "Wed, 18 Nov 2026 10:00:36 +0000",
+     "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces bidding framework for storage deployment at existing PV plants appeared first on",
+     "source": "pv magazine",
+     "zh": "Taiwan introduces bidding framework for storage deployment at existing PV plants"
     }
    ]
   },
@@ -1369,14 +1369,6 @@
      "zh": "Astronomers witness a star eating its companion in 1st-of-its-kind observation"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1489,14 +1481,6 @@
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1529,14 +1513,6 @@
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1551,6 +1527,22 @@
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1769,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "SiliconForest 亮相：不装苹果 macOS 系统也能用 Mac 软件",
+     "link": "https://www.ithome.com/1/029/287.htm",
+     "pubDate": "Thu, 19 Nov 2026 06:21:45 GMT",
+     "summary": "IT之家 11 月 19 日消息，科技媒体 AppleInsider 昨日（11 月 18 日）发布博文，介绍名为 SiliconForest 的新开源操作系统，基于苹果开源的 Darwin 与 XNU， 可以在不依赖 macOS 系统的前提下运行 Mac 应用。 该项目由开发者 Chris Kearney 推出， 定位为“免费、可自由修改、能运行原生 Mac 应用”的操作系统。 该项目以 PureDarwin 的分支为基础，同时采用 Asahi Linux 的 GPU 与硬件驱动、Finch 框架及 Oom Mesa 等组件，并额外编译实现苹果未公开的部分。 该项目尝试绕开 macOS 本身",
+     "source": "IT之家",
+     "zh": "SiliconForest 亮相：不装苹果 macOS 系统也能用 Mac 软件"
+    },
+    {
+     "title": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼",
+     "link": "https://www.ithome.com/1/029/286.htm",
+     "pubDate": "Thu, 19 Nov 2026 06:18:37 GMT",
+     "summary": "IT之家 11 月 19 日消息，据《金融时报》报道，Meta 在当地时间本周三向美国特拉华州法院提交的文件中表示，在了结投资者提起的法律诉讼之前， 不会执行此前宣布的拆股计划 。 Meta 今年 10 月宣布拟进行一项 1:2 的拆股，股东在现有股票之外将得到等量的无投票权 C 类股票。这意味着股东可出售新股并保持股权控制。 Meta 本计划通过这一财务手段 在不影响控制权的情况下为其人工智能业务投资筹集额外资金 。此外，这也为 Meta 创始人 Mark Zuckerberg（马克 · 扎克伯格）应对美国加利福尼亚州曾考虑的亿万富翁财富税（IT之家注：该税收提案当前已被公投否决）提供了更灵",
+     "source": "IT之家",
+     "zh": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼"
+    },
+    {
      "title": "中东短剧阿语本地化后，沙特用户付费转化卡在支付和结算周期上，该怎么破？",
      "link": "https://www.baijing.cn/question/638827",
      "pubDate": "Thu, 19 Nov 2026 06:13:04 +0000",
@@ -1865,6 +1873,14 @@
      "zh": "“紧急灾难通知”立功，韩国教育部查获 22 名高考生未提交智能手机"
     },
     {
+     "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+     "link": "https://kapteko.com/15-million-webservers/",
+     "pubDate": "Thu, 19 Nov 2026 05:56:36 +0000",
+     "summary": "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "15M web servers on one VM – smoltcp, DPDK, AF_XDP"
+    },
+    {
      "title": "A US congressional commission report says China&apos;s PLA is seeking advanced Nvidia chips for AI-enabled weapons, as domestic chips continue to lag US rivals (Jaspreet Singh/Reuters)",
      "link": "https://www.techmeme.com/261119/p2#a261119p2",
      "pubDate": "Thu, 19 Nov 2026 00:55:31 -0500",
@@ -1903,22 +1919,6 @@
      "summary": "爱奇艺减少自制投入，押注分账模式，试图重新分配爆款背后的风险与收益。",
      "source": "钛媒体",
      "zh": "爱奇艺不想再赌爆款了"
-    },
-    {
-     "title": "华为 Mate X8 折叠屏手机支持虚拟触控板，号称“单手也能轻松操作大屏”",
-     "link": "https://www.ithome.com/1/029/276.htm",
-     "pubDate": "Thu, 19 Nov 2026 05:48:45 GMT",
-     "summary": "IT之家 11 月 19 日消息，华为今日预告 Mate X8 折叠屏手机支持虚拟触控板，号称“单手也能轻松操作大屏”。 从官方宣传视频看，华为 Mate X8 在屏幕右下方添加一块 虚拟光标操控区 ，在这块区域滑动、轻点，就能控制屏幕上的光标，点屏幕任意位置，包括顶部、左侧、右上角等单手不容易点击区域，单手就能实现操控。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦 配置 12GB+256GB 12GB+512GB 1",
-     "source": "IT之家",
-     "zh": "华为 Mate X8 折叠屏手机支持虚拟触控板，号称“单手也能轻松操作大屏”"
-    },
-    {
-     "title": "消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产",
-     "link": "https://www.ithome.com/1/029/274.htm",
-     "pubDate": "Thu, 19 Nov 2026 05:44:51 GMT",
-     "summary": "IT之家 11 月 19 日消息，韩媒 ET News 援引供应链消息，苹果 iPhone 18、iPhone 18e 及 iPhone Air 2 的 OLED 显示屏预估 2026 年 12 月或 2027 年 1 月进入大规模生产阶段， 上市预估要等到 2027 年 3 月。 IT之家援引博文介绍，供应链消息称面板厂商目前的重心依然放在高端屏幕上，聚焦服务于 iPhone 18 Pro、iPhone 18 Pro Max 及 iPhone Duo 三款机型，而适用于标准版 iPhone 18 和 iPhone Air 2 的屏幕生产规模和制造复杂度相对较低， 因此被安排在今年年末或明年 ",
-     "source": "IT之家",
-     "zh": "消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产"
     },
     {
      "title": "腾讯Q3：814亿资本开支创纪录，马化腾在赌什么",
@@ -1999,14 +1999,6 @@
      "summary": "京东正在电商行业整体步入存量博弈、新业务烧钱换增长模式普遍退潮的背景下，收缩非核心投入，将资源聚焦于供应链效率与服务生态的挖掘。",
      "source": "钛媒体",
      "zh": "Q3营收重返正增长，不卷外卖的京东将“拐”向何方？"
-    },
-    {
-     "title": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)",
-     "link": "https://www.techmeme.com/261118/p62#a261118p62",
-     "pubDate": "Wed, 18 Nov 2026 23:30:00 -0500",
-     "summary": "CoinDesk : Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets &nbsp; &mdash;&nbsp; Payward, the parent company of cryptocurrency exchange giant Kraken, agreed to buy Tribe Capital Management, the venture",
-     "source": "Techmeme",
-     "zh": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)"
     }
    ]
   },
@@ -2016,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Galaxy Buds Active leak shows workout earbuds with ANC, ear hooks, IP68, and one odd omission",
+     "link": "https://www.androidauthority.com/samsung-galaxy-buds-active-features-design-leak-3736998/",
+     "pubDate": "Thu, 19 Nov 2026 06:29:58 +0000",
+     "summary": "Samsung's next earbuds are built to stay put during workouts.",
+     "source": "Android Authority",
+     "zh": "Galaxy Buds Active leak shows workout earbuds with ANC, ear hooks, IP68, and one odd omission"
+    },
     {
      "title": "Honor confirms which Magic9 models will be available in the UK",
      "link": "https://www.gsmarena.com/honor_confirms_which_magic9_models_will_be_available_in_the_uk-news-75531.php",
@@ -2169,14 +2169,6 @@
      "zh": "Here's when iPhone 18 and iPhone Air 2 display production will reportedly start"
     },
     {
-     "title": "YouTube Music’s new web interface is slowly hitting more users, but not everyone’s a fan",
-     "link": "https://www.androidauthority.com/youtube-music-web-interface-3736889/",
-     "pubDate": "Wed, 18 Nov 2026 22:08:36 +0000",
-     "summary": "Have you gotten it yet? We want to hear what you think.",
-     "source": "Android Authority",
-     "zh": "YouTube Music’s new web interface is slowly hitting more users, but not everyone’s a fan"
-    },
-    {
      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
      "link": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
      "pubDate": "Wed, 18 Nov 2026 21:58:36 +0000",
@@ -2265,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+     "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+     "pubDate": "Thu, 19 Nov 2026 06:29:34 GMT",
+     "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+     "source": "CNBC",
+     "zh": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting"
+    },
+    {
+     "title": "Venezuela's Machado questions Trump's $100B oil deal while committing to U.S. ties, Bloomberg reports",
+     "link": "https://seekingalpha.com/news/4674519-venezuelas-machado-questions-trumps-100b-oil-deal-while-committing-to-us-ties-bloomberg-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 01:28:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Venezuela's Machado questions Trump's $100B oil deal while committing to U.S. ties, Bloomberg reports"
+    },
+    {
      "title": "Hyster-Yale rises 4% after pricing $135M convertible notes offering",
      "link": "https://seekingalpha.com/news/4674512-hyster-yale-rises-4-after-pricing-135m-convertible-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 01:26:45 -0500",
@@ -2273,52 +2281,52 @@
      "zh": "Hyster-Yale rises 4% after pricing $135M convertible notes offering"
     },
     {
-     "title": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼",
-     "link": "http://stock.eastmoney.com/news/1611,202611193934979666.html",
-     "pubDate": "Thu, 19 Nov 2026 14:22:32 +0800",
-     "summary": "11 月 19 日消息，据《金融时报》报道，Meta 在当地时间本周三向美国特拉华州法院提交的文件中表示，在了结投资者提起的法律诉讼之前， 不会执行此前宣布的拆股计划 。 Meta 今年 10 月宣布拟进行一项 1:2 的拆股，股东在现有股票之外将得到等量的无投票权 C 类股票。这意味着股东可出售新股并保持股权控制。 Meta 本计划通过这一财务手段 在不影响控制权的情况下为其 人工智能 业务投资筹集额外资金 。此外，这也为 Meta 创始人 Mark Zuckerberg（马克 · 扎克伯格）应对美国加利福尼亚州曾考虑的亿万富翁财富税（IT之家注：该税收提案当前已被公投否决）提供了更灵活的财",
+     "title": "*ST步森控股子公司部分银行账户被冻结",
+     "link": "http://stock.eastmoney.com/news/11215,202611193934982264.html",
+     "pubDate": "Thu, 19 Nov 2026 14:26:02 +0800",
+     "summary": "11月18日， *ST步森 （002569.SZ）披露公告，公司控股子公司杭州步信云科技有限公司（简称“步信云”）部分 银行 账户被冻结。本次冻结系职员离职与步信云产生劳动争议仲裁案件并向法院申请执行所致。 公告显示，本次 银行 账户资金新增冻结情况包括，步信云中国 工商银行 杭州南星桥支行开立的基本户，冻结金额约5.35万元；步信云在中国 建设银行 股份有限公司杭州半山支行开立的一般户，冻结金额约5.28万元。两账户合计冻结资金约10.62万元。 从累计冻结规模看，截至目前，公司（含子公司）合计 银行 账户被冻结额度为279.29万元，实际冻结金额176.09万元。被冻结额度占公司2025年",
      "source": "东方财富股票",
-     "zh": "Meta 暂停 1:2 拆股计划，优先应对相关法律诉讼"
+     "zh": "*ST步森控股子公司部分银行账户被冻结"
     },
     {
-     "title": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系",
-     "link": "http://stock.eastmoney.com/news/1611,202611193934979556.html",
-     "pubDate": "Thu, 19 Nov 2026 14:21:10 +0800",
-     "summary": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系。 （文章来源：金十数据快讯）",
+     "title": "印度证券交易委员会官员：近几日已看到外资流出开始逆转",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934981697.html",
+     "pubDate": "Thu, 19 Nov 2026 14:25:11 +0800",
+     "summary": "印度证券交易委员会官员：近几日已看到外资流出开始逆转。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "市场消息：Meta公司寻求聘请新的印度政策主管，以修复受损关系"
+     "zh": "印度证券交易委员会官员：近几日已看到外资流出开始逆转"
     },
     {
-     "title": "波士顿动力Atlas拟进入半导体工厂测试，机器人ETF华夏（562500）午后震荡回调",
-     "link": "http://stock.eastmoney.com/news/11622,202611193934980444.html",
-     "pubDate": "Thu, 19 Nov 2026 14:20:28 +0800",
-     "summary": "截至14:09，A股三大指数集体下跌，上证指数跌0.73%，深证成指跌0.90%，创业板指跌1.05%。 机器人 板块午后震荡调整，中证 机器人 指数下跌0.80%。 机器人 ETF华夏（562500）盘中震荡走低，成交额约3.21亿元。 消息面上，11月19日，据媒体报道，波士顿动力与 半导体 制造商格罗方德近日宣布扩大 机器人 领域合作，计划于2027年初在格罗方德工厂启动Atlas 人形机器人 现场测试。这将是Atlas首次进入 汽车 制造以外的工业应用场景。此外，波士顿动力旗下四足 机器人 Spot也将进一步扩大在格罗方德全球制造网络中的部署，推动 机器人 技术向高精密工业场景延伸。 ",
+     "title": "Meta拟在印度招聘新任政策主管，旨在修复受损关系",
+     "link": "http://stock.eastmoney.com/news/1611,202611193934982176.html",
+     "pubDate": "Thu, 19 Nov 2026 14:25:11 +0800",
+     "summary": "Meta Platforms(META.O)正在印度物色一位高级公共政策高管，试图修复其与该国政府之间破裂的关系。印度是Meta增长最快的市场之一。目前，Meta在印度的政府关系事务由高级总监Aman Jain负责。据知情人士称，该职位未来将向新任公共政策副总裁汇报。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "波士顿动力Atlas拟进入半导体工厂测试，机器人ETF华夏（562500）午后震荡回调"
+     "zh": "Meta拟在印度招聘新任政策主管，旨在修复受损关系"
     },
     {
-     "title": "家电ETF华安（159025）跟踪指数上涨0.67%，科沃斯“双11”销售额破45亿元",
-     "link": "http://stock.eastmoney.com/news/11622,202611193934981156.html",
-     "pubDate": "Thu, 19 Nov 2026 14:20:27 +0800",
-     "summary": "截至14时04分，家电板块表现活跃，家电ETF华安（159025）跟踪指数上涨0.67%。相关个股中， 海立股份 涨停， 科沃斯 上涨7.12%， 海信家电 上涨5.16%。 消息面上，此前， 科沃斯 发布2026年“双11”收官战报。10月1日至11月11日大促周期内，集团全渠道销售额突破45亿元，持续领跑智能清洁赛道。 科沃斯 已连续11年稳居中国扫地 机器人 市场销量第一，核心赛道优势持续夯实，本次大促中，滚筒式扫地 机器人 市占率突破50%，国民爆款T90S系列销量超34万台，技术革新直接转化为用户体验升级。多品类布局迎来集中爆发，清洁场景向全屋多维延伸。擦窗 机器人 销量突破28万台",
+     "title": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934982426.html",
+     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
+     "summary": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "家电ETF华安（159025）跟踪指数上涨0.67%，科沃斯“双11”销售额破45亿元"
+     "zh": "印度总理莫迪：印度产业不能想当然地依赖国内市场，必须参与国际竞争"
     },
     {
-     "title": "以官员鼓吹“单干”之际 美中央司令部司令到访",
-     "link": "http://finance.eastmoney.com/news/1351,202611193934979138.html",
-     "pubDate": "Thu, 19 Nov 2026 14:20:08 +0800",
-     "summary": "美军中央司令部司令布拉德·库珀18日访问以色列，与以国防军总参谋长扎米尔、情报和特勤局（摩萨德）局长戈夫曼会面。 据以色列“新消息”电视台报道，当前，以色列国防军就可能对伊朗重启战事进入“最高戒备状态”，以色列看守政府正等待美方就是否恢复对伊作战作出决定，因此库珀此次到访并同扎米尔会谈具有风向标意义。 报道说，当天，扎米尔在以国防军总部所在的特拉维夫市基里亚军事基地，与库珀举行联合战略评估会议，两人还与戈夫曼一同会谈。消息人士透露，戈夫曼“强烈主张”恢复对伊空袭，以遏制伊朗“不断增长的能力”。但也有部分以方高级官员认为，当下没有“紧急必要”恢复对伊作战。 尽管一些以方政治和安全高级官员近期称以",
+     "title": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934981910.html",
+     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
+     "summary": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "以官员鼓吹“单干”之际 美中央司令部司令到访"
+     "zh": "日本首相高市早苗：将支持在东盟国家间建立石油储备体系"
     },
     {
-     "title": "半导体板块逆势飘红，半导体设备ETF国泰（159516）连涨3天获资金涌入",
-     "link": "http://stock.eastmoney.com/news/11622,202611193934980762.html",
-     "pubDate": "Thu, 19 Nov 2026 14:19:52 +0800",
-     "summary": "11月19日，A股三大指数集体飘绿，上证指数跌幅0.77%，深证成指跌幅0.97%，创业板指跌幅1.10%。在市场整体回调的背景下， 半导体 板块表现亮眼， 半导体 设备ETF国泰（159516）标的指数逆势上涨1.79%，已连续3天上涨。 资金面上， 半导体 设备ETF国泰持续获资金青睐。最新数据显示，该ETF近10日资金净流入达28.54亿元，展现出较强的吸金能力。 半导体设备 ETF国泰跟踪中证 半导体材料 设备主题指数，该指数选取40只业务涉及 半导体材料 和 半导体设备 等领域的上市公司证券作为指数样本，反映 半导体材料 和设备上市公司证券的整体表现。指数前十大成分股为 中微公司 、",
+     "title": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性",
+     "link": "http://finance.eastmoney.com/news/1351,202611193934981827.html",
+     "pubDate": "Thu, 19 Nov 2026 14:25:10 +0800",
+     "summary": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "半导体板块逆势飘红，半导体设备ETF国泰（159516）连涨3天获资金涌入"
+     "zh": "日本首相高市早苗：将继续助力增强海湾国家的经济和能源韧性"
     },
     {
      "title": "Asian stocks diverge on soft Australian employment and Anthropic IPO focus",
@@ -2383,14 +2391,6 @@
      "summary": "浓眉大眼的 联想集团 午后遭“空袭”！ 港股市场，市值达2000亿港元的 联想集团 午后开盘直线跳水，跌幅一度超12%。 那么，究竟发生了什么？分析人士认为，或与其刚刚发布的业绩有关。 联想集团 第二季度净亏损6.40亿美元，预估亏损3,800万美元。联想集团上半年净亏损12.5亿美元，上年同期收益8.456亿美元。亏损幅度超出预期可能是股价杀跌主因。 不过，其营收超出市场预期。财报显示，截至2026年9月30日，联想集团实现营收302.38亿美元（约合2029亿元人民币），同比增长47.8%，首次突破2000亿元大关，创 历史新高 。 联想集团营收增长正呈现持续加速态势。2025/26财年第",
      "source": "东方财富资讯",
      "zh": "午后直线跳水！2000亿巨头联想集团下跌超12%！发生了什么？"
-    },
-    {
-     "title": "Yorkton Equity Group reports Q3 results",
-     "link": "https://seekingalpha.com/news/4674515-yorkton-equity-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:40:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Yorkton Equity Group reports Q3 results"
     },
     {
      "title": "华尔街多家投行唱多美元：AI热潮还将持续 强劲支撑美元走高",
@@ -2495,14 +2495,6 @@
      "summary": "备受瞩目的DeepSeek第二轮千亿融资落地了。 工商信息显示，DeepSeek工商主体杭州深度求索 人工智能 基础技术研究有限公司，近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）（下称“杭州程砚”），公司注册资本变更为1991.8707万元，增幅约21.1%。 进一步向上穿透，杭州程砚同期完成工商变更，新增31家合伙人，登记出资额由0.6万元增至343897.9万元。变更后，杭州程砚共有32名合伙人，杭州程策商务咨询有限公司仍担任执行事务合伙人。 《科创板日报》记者注意到，这些新增合伙人即为参与到DeepSeek第二轮融资的各外部股东，囊括了腾讯、 中国移动 、 中国电信",
      "source": "东方财富资讯",
      "zh": "DeepSeek千亿融资落地：31家出资主体现身 产业资本大集结"
-    },
-    {
-     "title": "萨洛蒙单季营收首超始祖鸟，丁少翔进入亚玛芬董事会",
-     "link": "http://www.eeo.com.cn/2026/1119/1096941.shtml",
-     "pubDate": "Thu, 19 Nov 2026 12:44:54 +0800",
-     "summary": "放在全球运动品牌中看，亚玛芬的增速处于领先位置",
-     "source": "经济观察网",
-     "zh": "萨洛蒙单季营收首超始祖鸟，丁少翔进入亚玛芬董事会"
     }
    ]
   },

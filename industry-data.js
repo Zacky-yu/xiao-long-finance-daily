@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 07:52:10",
+ "generated_at": "2026/11/20 07:57:26",
  "recent_days": 7,
  "industries": [
   {
@@ -882,12 +882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage"
     },
     {
-     "title": "$1199 – Anyland Rev Pro: An Electric Dirt Bike With a Wheelie Assist Built for Beginners",
+     "title": "$1199 — Anyland Rev Pro: An Electric Dirt Bike With a Wheelie Assist Built for Beginners",
      "link": "https://cleantechnica.com/2026/11/19/1199-anyland-rev-pro-an-electric-dirt-bike-with-a-wheelie-assist-built-for-beginners/",
      "pubDate": "Thu, 19 Nov 2026 22:04:46 +0000",
      "summary": "When I was a kid, I loved to ride. Riding a bike, for me, is synonymous with childhood, in fact. We used them to get ourselves places, but we also just used them to entertain ourselves. Inevitably, this led to popping wheelies, building ramps and trying jumps, and doing all ... [continued] The post ",
      "source": "CleanTechnica",
-     "zh": "$1199 – Anyland Rev Pro: An Electric Dirt Bike With a Wheelie Assist Built for Beginners"
+     "zh": "$1199 — Anyland Rev Pro: An Electric Dirt Bike With a Wheelie Assist Built for Beginners"
     },
     {
      "title": "5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut",
@@ -965,7 +965,7 @@ window.INDUSTRY_DATA = {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1093,7 +1093,7 @@ window.INDUSTRY_DATA = {
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+     "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+     "pubDate": "Thu, 19 Nov 2026 23:51:47 +0000",
+     "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
+    },
+    {
      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
      "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
      "pubDate": "Thu, 19 Nov 2026 23:42:03 +0000",
@@ -1336,14 +1344,6 @@ window.INDUSTRY_DATA = {
      "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
-    },
-    {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
@@ -1466,14 +1466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1530,14 +1522,6 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1554,12 +1538,28 @@ window.INDUSTRY_DATA = {
      "zh": "How AI is pushing satellites to evolve"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -2274,60 +2274,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "天马科技：融资净偿还425.19万元，融资余额6.17亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935597413.html",
+     "pubDate": "Fri, 20 Nov 2026 07:51:16 +0800",
+     "summary": "交易所最新数据显示， 天马科技 于2026年11月19日获融资买入305.88万元，融资偿还731.07万元， 当日融资净偿还425.19万元。 目前，该股融资余额6.17亿，占流通市值比例为21.34%。 该股当日融券卖出300股，融券偿还600股， 融券净偿还300股。 目前，该股融券余量1.68万股，融券余额9.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
+     "source": "东方财富股票",
+     "zh": "天马科技：融资净偿还425.19万元，融资余额6.17亿元"
+    },
+    {
+     "title": "杭叉集团：融资净偿还157.99万元，融资余额1.44亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935596753.html",
+     "pubDate": "Fri, 20 Nov 2026 07:51:09 +0800",
+     "summary": "交易所最新数据显示，杭叉集团于2026年11月19日获融资买入299.20万元，融资偿还457.19万元， 当日融资净偿还157.99万元。 目前，该股融资余额1.44亿，占流通市值比例为0.47%。 该股当日融券卖出2300股，融券偿还2.84万股， 融券净偿还2.61万股。 目前，该股融券余量28.2万股，融券余额665.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富股票",
+     "zh": "杭叉集团：融资净偿还157.99万元，融资余额1.44亿元"
+    },
+    {
+     "title": "欧莱新材：融资净偿还291.05万元，融资余额1.9亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935596634.html",
+     "pubDate": "Fri, 20 Nov 2026 07:51:09 +0800",
+     "summary": "交易所最新数据显示， 欧莱新材 于2026年11月19日获融资买入1989.72万元，融资偿还2280.77万元， 当日融资净偿还291.05万元。 目前，该股融资余额1.90亿，占流通市值比例为6.59%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "欧莱新材：融资净偿还291.05万元，融资余额1.9亿元"
+    },
+    {
+     "title": "百克生物：融资净买入115.14万元，融资余额1.47亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935594951.html",
+     "pubDate": "Fri, 20 Nov 2026 07:51:00 +0800",
+     "summary": "交易所最新数据显示， 百克生物 于2026年11月19日获融资买入1247.97万元，融资偿还1132.83万元， 当日融资净买入115.14万元。 目前，该股融资余额1.47亿，占流通市值比例为2.26%。 该股当日无融券交易。目前，该股融券余量4.39万股，融券余额68.83万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承",
+     "source": "东方财富股票",
+     "zh": "百克生物：融资净买入115.14万元，融资余额1.47亿元"
+    },
+    {
+     "title": "华能国际：融资净偿还196.57万元，融资余额5.94亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935595560.html",
+     "pubDate": "Fri, 20 Nov 2026 07:50:59 +0800",
+     "summary": "交易所最新数据显示， 华能国际 于2026年11月19日获融资买入2528.10万元，融资偿还2724.67万元， 当日融资净偿还196.57万元。 目前，该股融资余额5.94亿，占流通市值比例为0.69%。 该股当日融券卖出4.14万股，融券偿还3.76万股， 融券净卖出3800股。 目前，该股融券余量124.72万股，融券余额976.56万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
+     "source": "东方财富股票",
+     "zh": "华能国际：融资净偿还196.57万元，融资余额5.94亿元"
+    },
+    {
+     "title": "永泰能源：融资净偿还309.22万元，融资余额12.24亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611203935595421.html",
+     "pubDate": "Fri, 20 Nov 2026 07:50:59 +0800",
+     "summary": "交易所最新数据显示， 永泰能源 于2026年11月19日获融资买入6092.95万元，融资偿还6402.17万元， 当日融资净偿还309.22万元。 目前，该股融资余额12.24亿，占流通市值比例为4.25%。 该股当日融券卖出25.34万股，融券偿还28.39万股， 融券净偿还3.05万股。 目前，该股融券余量727.73万股，融券余额960.6万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对",
+     "source": "东方财富股票",
+     "zh": "永泰能源：融资净偿还309.22万元，融资余额12.24亿元"
+    },
+    {
      "title": "Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far",
      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
      "pubDate": "Thu, 19 Nov 2026 23:45:23 GMT",
      "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
      "source": "CNBC",
      "zh": "Japan reports cooler-than-expected core inflation in October of 2.2% — but highest this year so far"
-    },
-    {
-     "title": "洪城环境：融资净偿还432.16万元，融资余额9798.27万元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935552749.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:38 +0800",
-     "summary": "交易所最新数据显示，洪城环境于2026年11月19日获融资买入839.18万元，融资偿还1271.35万元， 当日融资净偿还432.16万元。 目前，该股融资余额9798.27万，占流通市值比例为0.80%。 该股当日融券卖出58.35万股，融券偿还14.76万股， 融券净卖出43.59万股。 目前，该股融券余量114.41万股，融券余额997.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全",
-     "source": "东方财富股票",
-     "zh": "洪城环境：融资净偿还432.16万元，融资余额9798.27万元"
-    },
-    {
-     "title": "宁夏建材：融资净偿还7.94万元，融资余额3.96亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935552595.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:38 +0800",
-     "summary": "交易所最新数据显示，宁夏建材于2026年11月19日获融资买入419.04万元，融资偿还426.99万元， 当日融资净偿还7.94万元。 目前，该股融资余额3.96亿，占流通市值比例为7.77%。 该股当日融券卖出1800股，融券偿还100股， 融券净卖出1700股。 目前，该股融券余量4.8万股，融券余额51.22万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富股票",
-     "zh": "宁夏建材：融资净偿还7.94万元，融资余额3.96亿元"
-    },
-    {
-     "title": "国电南瑞：融资净偿还5764.38万元，融资余额20.25亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935552245.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:36 +0800",
-     "summary": "交易所最新数据显示，国电南瑞于2026年11月19日获融资买入3427.33万元，融资偿还9191.70万元， 当日融资净偿还5764.38万元。 目前，该股融资余额20.25亿，占流通市值比例为1.02%。 该股当日融券卖出2.09万股，融券偿还9.21万股， 融券净偿还7.12万股。 目前，该股融券余量75.87万股，融券余额1884.55万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部",
-     "source": "东方财富股票",
-     "zh": "国电南瑞：融资净偿还5764.38万元，融资余额20.25亿元"
-    },
-    {
-     "title": "华润双鹤：融资净偿还304.59万元，融资余额4.38亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935552145.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:35 +0800",
-     "summary": "交易所最新数据显示，华润双鹤于2026年11月19日获融资买入479.73万元，融资偿还784.32万元， 当日融资净偿还304.59万元。 目前，该股融资余额4.38亿，占流通市值比例为2.79%。 该股当日融券卖出2800股，融券偿还300股， 融券净卖出2500股。 目前，该股融券余量25.3万股，融券余额383.11万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承",
-     "source": "东方财富股票",
-     "zh": "华润双鹤：融资净偿还304.59万元，融资余额4.38亿元"
-    },
-    {
-     "title": "台华新材：融资净买入47.89万元，融资余额9854.4万元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935551871.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:35 +0800",
-     "summary": "交易所最新数据显示，台华新材于2026年11月19日获融资买入302.64万元，融资偿还254.75万元， 当日融资净买入47.89万元。 目前，该股融资余额9854.40万，占流通市值比例为1.40%。 该股当日融券卖出4500股，融券偿还3700股， 融券净卖出800股。 目前，该股融券余量10.25万股，融券余额81.28万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "台华新材：融资净买入47.89万元，融资余额9854.4万元"
-    },
-    {
-     "title": "博拓生物：融资净偿还3.3万元，融资余额2.57亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611203935551798.html",
-     "pubDate": "Fri, 20 Nov 2026 07:44:35 +0800",
-     "summary": "交易所最新数据显示，博拓生物于2026年11月19日获融资买入1314.24万元，融资偿还1317.55万元， 当日融资净偿还3.3万元。 目前，该股融资余额2.57亿，占流通市值比例为4.51%。 该股当日融券卖出200股，融券偿还200股， 融券净卖出0股。 目前，该股融券余量7218股，融券余额27.48万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用",
-     "source": "东方财富股票",
-     "zh": "博拓生物：融资净偿还3.3万元，融资余额2.57亿元"
     },
     {
      "title": "TechnipFMC secures up to $1.25B in Exxon Guyana contracts",

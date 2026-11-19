@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 02:32:10",
+ "generated_at": "2026/11/20 02:40:04",
  "recent_days": 7,
  "industries": [
   {
@@ -297,28 +297,12 @@
      "zh": "Shaping the Form, Function, and Future of Humanoid Robotics"
     },
     {
-     "title": "Fable: The Delusional CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-delusional-ceo-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 14:22:32 +0000",
-     "summary": "There was once a tech CEO who went to have dinner with another tech CEO who had adopted the idea that he should only eat meat which he had personally […] The post Fable: The Delusional CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Delusional CEO"
-    },
-    {
      "title": "PSS 3.1 Opens New Possibilities for Hardware and Software Verification",
      "link": "https://semiwiki.com/semiconductor-services/accellera/376235-pss-3-1-opens-new-possibilities-for-hardware-and-software-verification/",
      "pubDate": "Thu, 19 Nov 2026 14:00:02 +0000",
      "summary": "Accellera’s approval of the Portable Test and Stimulus Standard (PSS) 3.1 marks an encouraging step toward a more connected, reusable approach to verification. Announced on November 11, the release is the first update since PSS 3.0 in August 2024 and addresses a challenge familiar to engineering tea",
      "source": "SemiWiki",
      "zh": "PSS 3.1 Opens New Possibilities for Hardware and Software Verification"
-    },
-    {
-     "title": "Thermal and EMI challenges in high-density GaN power converters",
-     "link": "https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 12:00:02 +0000",
-     "summary": "To get the full benefits of GaN design, engineers must treat switching behaviour, EMI, PCB design and thermal management as interconnected design problems rather than isolated issues, writes Muhammad Asim […] The post Thermal and EMI challenges in high-density GaN power converters appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Thermal and EMI challenges in high-density GaN power converters"
     },
     {
      "title": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures",
@@ -351,22 +335,6 @@
      "summary": "China is accelerating its 6G industrial rollout, moving from communications equipment prototypes and experimental spectrum access to field trials, as the domestic supply chain advances into system-level validation. On November 17, China's Ministry of Industry and Information Technology (MIIT) approv",
      "source": "DIGITIMES",
      "zh": "China expands 6G pilot program to eight provinces and cities"
-    },
-    {
-     "title": "TME. Your UK partner.",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/tme-your-uk-partner-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 09:00:11 +0000",
-     "summary": "When you’re sourcing electronic and industrial components, stock and price matter – TME combines a broad component portfolio with direct support from our dedicated UK team. The post TME. Your UK partner. appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "TME. Your UK partner."
-    },
-    {
-     "title": "Sponsored Content: TME. Your UK partner.",
-     "link": "https://www.electronicsweekly.com/news/business/sponsored-content-tme-your-uk-partner-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 09:00:02 +0000",
-     "summary": "When you’re sourcing electronic and industrial components, stock and price matter – but so does knowing what’s happening with your order. That’s why TME combines a broad component portfolio with […] The post Sponsored Content: TME. Your UK partner. appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Sponsored Content: TME. Your UK partner."
     },
     {
      "title": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity",
@@ -457,22 +425,6 @@
      "zh": "US AI curbs disrupt Southeast Asia shipments; MSI sees worst-case impact of one month"
     },
     {
-     "title": "Anthropic raises $107bn at $1.5tn valuation",
-     "link": "https://www.electronicsweekly.com/news/business/anthropic-raises-107bn-at-1-5trn-valuation-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 06:16:05 +0000",
-     "summary": "Anthropic raised $107.3bn in its IPO and private placement. The offering included a $26bn private placement backed by firms including Google, Nvidia, AMD and Microsoft. The base IPO raised about […] The post Anthropic raises $107bn at $1.5tn valuation appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Anthropic raises $107bn at $1.5tn valuation"
-    },
-    {
-     "title": "ST set to double MCU revenues",
-     "link": "https://www.electronicsweekly.com/news/business/st-to-double-stm32-revenues-2026-11/",
-     "pubDate": "Thu, 19 Nov 2026 06:15:21 +0000",
-     "summary": "ST expects to double its MCU revenues between 2005 and 2028, says Remi El-Ouazzane (pictured), president of ‌its Microcontrollers, Digital ICs and RF Products Group. ST reckons that, in the […] The post ST set to double MCU revenues appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ST set to double MCU revenues"
-    },
-    {
      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
      "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
      "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
@@ -495,6 +447,54 @@
      "summary": "Dr. Valerio Tenace is CTO and Co-Founder of ChipNexus, developer of agentic AI software for semiconductor and hardware design, and an expert in hardware design automation and machine learning applications for electronic systems. In his role at ChipNexus, Valerio drives the technical vision and archi",
      "source": "SemiWiki",
      "zh": "CTO Interview with Dr. Valerio Tenace of ChipNexus"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
+     "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
+     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
+     "summary": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
+     "source": "EE Times",
+     "zh": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design"
+    },
+    {
+     "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+     "link": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/",
+     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
+     "summary": "Qnity CTO Randy King on year one as an independent company, shrink-and-stack chips and the materials challenges of advanced packaging for AI. The post Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -873,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Trafigura Not Rushing to Alternative Marine Fuels",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Not-Rushing-to-Alternative-Marine-Fuels.html",
+     "pubDate": "Thu, 19 Nov 2026 12:30:00 -0600",
+     "summary": "Shipowners have been ordering vessels capable of burning alternative fuels, but Trafigura’s marine fuel business isn't seeing enough demand for those fuels to justify major new investments. The ships may have different engines, but much of the fuel going into them hasn't changed. “We will not make a",
+     "source": "OilPrice",
+     "zh": "Trafigura Not Rushing to Alternative Marine Fuels"
+    },
+    {
      "title": "7,000 Egyptian Factories Will Soon Be Solar-powered",
      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/7000-Egyptian-Factories-Will-Soon-Be-Solar-powered.html",
      "pubDate": "Thu, 19 Nov 2026 12:00:00 -0600",
@@ -983,14 +991,6 @@
      "summary": "Word has just dropped that the mega-hit sci-fi film “Project Hail Mary” has returned to the big screen for the holiday season with its nail-biting tale of science, adventure and friendship. Catch a brand new Hail Mary trailer on YouTube while the action heats up here on Earth, including solicitation",
      "source": "CleanTechnica",
      "zh": "The Return Of Project Hail Mary … And Next Steps For Artemis, Too"
-    },
-    {
-     "title": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
-     "link": "https://oilprice.com/Geopolitics/Europe/Russia-Faces-a-Logistics-Nightmare-After-Crimea-Bridge-Collapse.html",
-     "pubDate": "Thu, 19 Nov 2026 08:30:00 -0600",
-     "summary": "It’s a $4 billion engineering showpiece, bridging 19 kilometers of Black Sea waterway and cementing Moscow’s grip on Crimea, the Ukrainian peninsula Russia occupied in 2014. Now, more than 200 meters of the Crimea Bridge lie wrecked in 9 meters of water, leaving an asphalt-and-steel debris field clu",
-     "source": "OilPrice",
-     "zh": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse"
     },
     {
      "title": "PJM urged to delay base capacity auction until data centers cut from forecast",
@@ -1785,6 +1785,22 @@
      "zh": "Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A (Kate Park/TechCrunch)"
     },
     {
+     "title": "CTF_TYPE_1795112585_video",
+     "link": "https://www.huxiu.com/article/4907023.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 02:23:11 +0800",
+     "summary": "type test",
+     "source": "虎嗅",
+     "zh": "CTF_TYPE_1795112585_video"
+    },
+    {
+     "title": "CTF_TYPE_1795112585_text",
+     "link": "https://www.huxiu.com/article/4907022.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 02:23:07 +0800",
+     "summary": "type test",
+     "source": "虎嗅",
+     "zh": "CTF_TYPE_1795112585_text"
+    },
+    {
      "title": "CTF_IMG_TEST_1795112415_video",
      "link": "https://www.huxiu.com/article/4907021.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 02:20:21 +0800",
@@ -1937,22 +1953,6 @@
      "zh": "Shein为什么要花5亿欧元在波兰建仓？"
     },
     {
-     "title": "从知识经过，到能力沉淀",
-     "link": "https://www.huxiu.com/article/4907015.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 00:13:04 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 当AI让知识变得越来越容易获得，我们是否还在经历将知识转化为能力的过程？ -- 上一篇文章知识经过之后，我讨论了一个问题： 当我们借助AI快速获得知识、构建理论、形成观点，甚至完成一篇看起来相当成熟的文章时，这些东西究竟有多少真正成为了自己的认知？ 我发现，自己有时能够很快理解一个复杂的问题，也能够用相当完整的语言把它解释出来。但当我试图回到最初，重新推导其中的逻辑，或者解释某个判断究竟是如何形成的时候，却不一定能够做到。 这让我产生了一种微妙的不安，随着时间的推移，这种不安越来越强烈！ 我们似乎正在获得越来越多的知识，却不一定因此变得越",
-     "source": "虎嗅",
-     "zh": "从知识经过，到能力沉淀"
-    },
-    {
-     "title": "《可能的爱》：阶层的伤痛、凝视与向往",
-     "link": "https://www.huxiu.com/article/4907014.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 00:10:24 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：过蝈8433 影片开场字幕，来自《十诫》：“不可贪恋他人所有”。一如既往，韩国导演李沧东的电影里带着某种宗教的悲悯。同样是记录劳工失业、中年危机，《可能的爱》没有朴赞郁《无可奈何》里的黑色幽默，它克制、日常，甚至有些粗粝，像一台架在生活废墟旁的摄像机，记录着一场漫长而沉重的现实。 在Dispatch专访里，李沧东对片名是这样说的：一般爱情故事，大多写“不可能的爱”（无法成真、被阻碍的爱）。那反过来，什么才是可能的爱？什么关系可以存续、什么爱在今天是有可能的？它不只是男女情爱。它包含着夫妻之间长期相伴、已经习以为常的爱；不同阶层陌生人之间能不能建立真诚的",
-     "source": "虎嗅",
-     "zh": "《可能的爱》：阶层的伤痛、凝视与向往"
-    },
-    {
      "title": "Epic 喜加一：《深渊之印》免费领取",
      "link": "https://www.ithome.com/1/029/710.htm",
      "pubDate": "Thu, 19 Nov 2026 16:05:21 GMT",
@@ -2025,12 +2025,12 @@
    "total": 7,
    "items": [
     {
-     "title": "Which Waterdrop water filters are actually worth buying this Black Friday? [Sponsored]",
+     "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
      "link": "https://9to5google.com/2026/11/19/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
      "pubDate": "Thu, 19 Nov 2026 18:24:03 +0000",
      "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one that leaves enough room in the budget for t",
      "source": "9to5Google",
-     "zh": "Which Waterdrop water filters are actually worth buying this Black Friday? [Sponsored]"
+     "zh": "Which Waterdrop water filters are actually worth buying this Black Friday?"
     },
     {
      "title": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more",
@@ -2273,6 +2273,30 @@
    "total": 13,
    "items": [
     {
+     "title": "AMD falls amid short report from Hunterbrook (update)",
+     "link": "https://seekingalpha.com/news/4674779-amd-falls-amid-short-report-from-hunterbrook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 13:29:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AMD falls amid short report from Hunterbrook (update)"
+    },
+    {
+     "title": "Exxon’s revised $30B Rovuma LNG plan approved by Mozambique's government",
+     "link": "https://seekingalpha.com/news/4674840-exxon-s-revised-30b-rovuma-lng-plan-approved-by-mozambiques-government?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 13:28:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon’s revised $30B Rovuma LNG plan approved by Mozambique's government"
+    },
+    {
+     "title": "Stagflation could be seen as the Fed's failure, says Chicago Fed's Goolsbee",
+     "link": "https://seekingalpha.com/news/4674793-stagflation-could-be-seen-as-the-feds-failure-says-chicago-feds-goolsbee?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 13:27:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stagflation could be seen as the Fed's failure, says Chicago Fed's Goolsbee"
+    },
+    {
      "title": "AMD dives on short-seller report of alleged China exposure",
      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
      "pubDate": "Thu, 19 Nov 2026 18:24:54 GMT",
@@ -2305,28 +2329,20 @@
      "zh": "Teva falls as R&D head exits amid shift to innovative medicines"
     },
     {
-     "title": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A.",
-     "link": "https://seekingalpha.com/news/4674822-loreal-and-essilorluxottica-in-talks-to-buy-15-stake-in-giorgio-armani-spa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 13:14:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A."
+     "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 18:15:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?"
     },
     {
-     "title": "Anthropic must generate more revenue than Apple to match tech-peer returns",
-     "link": "https://seekingalpha.com/news/4674841-anthropic-must-generate-more-revenue-than-apple-to-match-tech-peer-returns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 13:14:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic must generate more revenue than Apple to match tech-peer returns"
-    },
-    {
-     "title": "The return of Roaring Kitty sends Nintendo and GameStop higher",
-     "link": "https://seekingalpha.com/news/4674838-the-return-of-roaring-kitty-sends-nintendo-and-gamestop-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 13:06:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The return of Roaring Kitty sends Nintendo and GameStop higher"
+     "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+     "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 18:07:00 GMT",
+     "summary": "This year’s bruising selloff in AST SpaceMobile shares may have gone too far, according to a new bull.",
+     "source": "MarketWatch",
+     "zh": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound"
     },
     {
      "title": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜",
@@ -2345,6 +2361,22 @@
      "zh": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City"
     },
     {
+     "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+     "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 18:03:00 GMT",
+     "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
+     "source": "MarketWatch",
+     "zh": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud"
+    },
+    {
+     "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+     "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 18:00:00 GMT",
+     "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
+     "source": "MarketWatch",
+     "zh": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors."
+    },
+    {
      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
      "pubDate": "Thu, 19 Nov 2026 17:59:04 GMT",
@@ -2356,7 +2388,7 @@
      "title": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿",
      "link": "https://wallstreetcn.com/articles/3786269",
      "pubDate": "Fri, 20 Nov 2026 01:53:23 +0800",
-     "summary": "AI独角兽又一次创造历史。Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，正式登陆美股，开盘大涨幅度超过此前暗盘预计的最高涨幅，一度将公司市值推升至2万亿美元以上、超过SpaceX首秀时，不过随着股价盘中回吐涨幅，市值回落到1.5万亿美元以内。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价83美元涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后回吐过半涨幅，一度回到92.80美元下方、涨幅收窄至不足12%。 此次Anthropic IPO公开募资约813亿美元，刷新全球I",
+     "summary": "AI独角兽又一次创造历史。Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，正式登陆美股，开盘大涨幅度超过此前暗盘预计的最高涨幅，一度将公司市值推升至2万亿美元以上、超过SpaceX首秀时，不过随着股价盘中回吐涨幅，市值回落到1.5万亿美元以内。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后回吐过半涨幅，一度回到92.80美元下方、涨幅收窄至不足12%。 此次Anthropic IPO公开募资约813亿美元，刷新全球IPO募资",
      "source": "华尔街见闻",
      "zh": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿"
     },
@@ -2409,20 +2441,20 @@
      "zh": "Bessemer合伙人称Anthropic IPO是其“谷歌时刻”"
     },
     {
-     "title": "美股三大指数集体下跌 道指跌超2% Anthropic上市首日股价大涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
-     "pubDate": "Fri, 20 Nov 2026 01:15:32 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌1.62%，标普500指数跌1.31%， 纳斯达克 综合 指数跌1.42%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体下跌 道指跌超2% Anthropic上市首日股价大涨"
+     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 17:21:00 GMT",
+     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+     "source": "MarketWatch",
+     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
     },
     {
-     "title": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元",
-     "link": "http://finance.eastmoney.com/news/1345,202611203935424713.html",
-     "pubDate": "Fri, 20 Nov 2026 00:50:34 +0800",
-     "summary": "人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。 此外， Anthropic 还将通过同步私募配售募集260亿美元，涉及谷歌、 英伟达 、 微软 、AMD、 博通 、美光及 台积电 等战略投资者。IPO与同步私募配售合计交易规模约1073.4亿美元。 招股书显示，2026年第三季度， Anthropic 收入达到169.56亿美元，同比增长超过11倍。截",
-     "source": "东方财富资讯",
-     "zh": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元"
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 17:00:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
      "title": "Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models",
@@ -2457,14 +2489,6 @@
      "zh": "DBS and Circle partner to expand institutional access to USDC in Asia"
     },
     {
-     "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-     "pubDate": "Thu, 19 Nov 2026 16:00:00 GMT",
-     "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp"
-    },
-    {
      "title": "SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！",
      "link": "https://wallstreetcn.com/articles/3786306",
      "pubDate": "Thu, 19 Nov 2026 23:56:18 +0800",
@@ -2487,30 +2511,6 @@
      "summary": "拼多多正将供应链建设推向更核心的战略位置。在国内，公司从农业产区、农村物流向制造业产业带延伸，试图通过基础设施投入和商家扶持，推动商品品质升级与产业带品牌化；在海外，面对贸易规则变化，公司则将本地仓储、物流及履约网络建设作为下一阶段业务发展的重点，帮助中小商家降低跨境经营成本。 这一战略背后，是拼多多对电商竞争逻辑的重新布局。随着国内平台竞争持续加剧，单纯依靠价格和营销已难以形成长期优势，而海外市场也正从流量扩张转向供应链和本地运营能力的比拼。公司表示，将继续推进1000亿元商家扶持计划，把资源投入到能够改善消费者购物体验、提升商家经营能力的基础设施和服务中。 管理层在财报电话会议上强调， 公",
      "source": "华尔街见闻",
      "zh": "拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设"
-    },
-    {
-     "title": "100,000+ UK retail investors score Anthropic shares",
-     "link": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 15:27:00 GMT",
-     "summary": "Around 110,000 UK retailers bought shares in Anthropic's record initial public offering, which saw the AI giant raise over $81 billion.",
-     "source": "Finextra",
-     "zh": "100,000+ UK retail investors score Anthropic shares"
-    },
-    {
-     "title": "With attacks on the rise, UK regulators clarify cyber expectations",
-     "link": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 14:48:00 GMT",
-     "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
-     "source": "Finextra",
-     "zh": "With attacks on the rise, UK regulators clarify cyber expectations"
-    },
-    {
-     "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-     "pubDate": "Thu, 19 Nov 2026 09:39:02 -0500",
-     "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
-     "source": "SEC",
-     "zh": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors"
     }
    ]
   },

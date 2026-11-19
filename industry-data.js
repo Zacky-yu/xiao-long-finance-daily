@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 10:11:57",
+ "generated_at": "2026/11/19 10:32:18",
  "recent_days": 7,
  "industries": [
   {
@@ -106,14 +106,6 @@ window.INDUSTRY_DATA = {
      "zh": "Genie 4 is now available"
     },
     {
-     "title": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them",
-     "link": "https://www.kdnuggets.com/introducing-gemini-decision-1-a-model-that-picks-answers-instead-of-writing-them",
-     "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-     "summary": "Google's newest model has one job, and it never writes a word doing it. Decision 1 reads text, images, video, audio and PDFs in a single forward pass, up to 262,144 input tokens per request.",
-     "source": "KDnuggets",
-     "zh": "Introducing Gemini Decision 1: A Model That Picks Answers Instead of Writing Them"
-    },
-    {
      "title": "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
      "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
      "pubDate": "Wed, 18 Nov 2026 16:07:50 +0000",
@@ -138,14 +130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
-     "title": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next",
-     "link": "https://www.kdnuggets.com/jagged-intelligence-why-ai-is-brilliant-one-minute-and-clueless-the-next",
-     "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
-     "summary": "Why models ace Olympiad math and still fumble simple everyday tasks.",
-     "source": "KDnuggets",
-     "zh": "Jagged Intelligence: Why AI Is Brilliant One Minute and Clueless the Next"
-    },
-    {
      "title": "The AI Hype Index: AI is everywhere",
      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
      "pubDate": "Wed, 18 Nov 2026 14:42:44 +0000",
@@ -160,14 +144,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月18日报道，近日，英伟达（NVIDIA）在上海举办了一场RTX Spark分享会，解读了RTX Spark最新桌面主机产品背后的技术特性，并展示了办公、游戏、创作、机器人等各领域基于RTX Spark产品实现的AI应用案例。 比如在本地训练具身模型并用其操作机械臂抓取、机器人自然语言编程与强化学习训练、本地AI Agent远程办公、UE5超大场景实时渲染、Broadcast视频处理以及老视频AI修复等等，一切都是基于本地RTX Spark。 你甚至可以来点“邪修”，把RTX Spark笔记本架在机器人头上，造出属于你的“机器人伴侣”。 RT",
      "source": "智东西",
      "zh": "英伟达RTX Spark桌面主机首次亮相：最新Demo现场体验，本地AI玩出花"
-    },
-    {
-     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
-     "source": "KDnuggets",
-     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     },
     {
      "title": "资本开支暴涨528%！腾讯继续加码AI，WorkBuddy登顶国内AI用量第一",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI也终于活成了2022年谷歌的样子",
      "source": "量子位",
      "zh": "GPT-6.2难产！OpenAI怕了"
+    },
+    {
+     "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+     "link": "https://www.qbitai.com/2026/11/510916.html",
+     "pubDate": "Wed, 18 Nov 2026 07:24:50 +0000",
+     "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+     "source": "量子位",
+     "zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
+    },
+    {
+     "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+     "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+     "pubDate": "Wed, 18 Nov 2026 07:10:53 +0000",
+     "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode ap",
+     "source": "MarkTechPost",
+     "zh": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode"
+    },
+    {
+     "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+     "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+     "pubDate": "Wed, 18 Nov 2026 06:53:28 +0000",
+     "summary": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run. The post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeare",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript"
     }
    ]
   },
@@ -666,6 +666,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Ford ships first in-house LFP battery cells using CATL tech in push for affordable EVs",
+     "link": "https://cnevpost.com/2026/11/19/ford-ships-lfp-battery-cells-using-catl-tech/",
+     "pubDate": "Thu, 19 Nov 2026 02:10:42 +0000",
+     "summary": "The plant's assembly lines can produce 40 cells per minute, making them among the fastest prismatic LFP battery lines outside China. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Ford ships first in-house LFP battery cells using CATL tech in push for affordable EVs"
+    },
+    {
+     "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
+     "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
+     "pubDate": "Thu, 19 Nov 2026 02:08:25 +0000",
+     "summary": "The Cybercab is Musk's solution for most rides. But he thinks a six- or seven-seat autonomous Model Y is important, too.",
+     "source": "InsideEVs",
+     "zh": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk"
+    },
+    {
      "title": "Tesla crashes make headlines, Lidar makes sense, IONNA makes it easy",
      "link": "https://electrek.co/2026/11/18/tesla-crashes-make-headlines-lidar-makes-sense-ionna-makes-it-easy/",
      "pubDate": "Thu, 19 Nov 2026 01:50:06 +0000",
@@ -762,14 +778,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘We’re Moving Really Fast’: Ionna CEO On 500 kW EV Chargers And Flagship New Location"
     },
     {
-     "title": "BMW's First U.S.-Made EV Is Now Rolling Off The Assembly Line",
-     "link": "https://insideevs.com/news/815854/bmw-ix5-us-production/",
-     "pubDate": "Wed, 18 Nov 2026 10:40:12 +0000",
-     "summary": "The German automaker is building about 70 iX5 electric SUVs every day, but it’s just getting started.",
-     "source": "InsideEVs",
-     "zh": "BMW's First U.S.-Made EV Is Now Rolling Off The Assembly Line"
-    },
-    {
      "title": "Momenta, Uber launch supervised robotaxi pilot in Germany",
      "link": "https://cnevpost.com/2026/11/18/momenta-uber-launch-robotaxi-pilot-germany/",
      "pubDate": "Wed, 18 Nov 2026 10:05:19 +0000",
@@ -808,14 +816,6 @@ window.INDUSTRY_DATA = {
      "summary": "BYD started in a rented factory in Shenzhen and entered the auto industry through an acquisition in 2003. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD marks its 32nd anniversary, from making batteries in Shenzhen to building cars overseas"
-    },
-    {
-     "title": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy",
-     "link": "https://cnevpost.com/2026/11/18/voyah-gains-independent-production-qualification/",
-     "pubDate": "Wed, 18 Nov 2026 01:23:17 +0000",
-     "summary": "Voyah has been added to China's latest list of approved vehicle manufacturers, a move it said will help improve its R&D, manufacturing and quality management systems. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Dongfeng's Voyah gains independent production qualification, strengthening operational autonomy"
     },
     {
      "title": "Waymo suspends freeway rides nationwide after California DMV order",
@@ -1770,6 +1770,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“烘焙第一股”破产退市近两年后，创始人之子带着新品牌回来了，但烘焙的天已经变了",
+     "link": "https://www.huxiu.com/article/4906751.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 10:22:28 +0800",
+     "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的 阔别上海四年多、公司破产退市近两年后，昔日的“烘焙第一股”克莉丝汀创始人家族选择重新入场。然而，今日的烘焙行业与当初支撑克莉丝汀千店生意的境遇，早已大不同了。 复刻而非复活 近日，“克莉丝汀要回来了”的消息在小红书上海同城笔记里传开，随后向长三角区域扩散，引来不少关注。 根据部分IP地址为上海的网友们分享的照片，上海威海路，一家名叫Chrisbaum的烘焙店正在打围装修，围挡上只放了两款产品图——年轮蛋糕与蛋挞，这正是当年克莉丝汀最具辨识度的单品。再加上克莉丝汀的英文名为Christine，与Chrisbaum有几分相似。 这两个信息放",
+     "source": "虎嗅",
+     "zh": "“烘焙第一股”破产退市近两年后，创始人之子带着新品牌回来了，但烘焙的天已经变了"
+    },
+    {
+     "title": "小马智行三季报：Robotaxi撑起四成营收，商业化进程提速",
+     "link": "https://www.tmtpost.com/8210512.html",
+     "pubDate": "Thu, 19 Nov 2026 10:16:10 +0800",
+     "summary": "小马智行三季度营收创新高，Robotaxi领涨，车队扩张带动经营效率持续改善。",
+     "source": "钛媒体",
+     "zh": "小马智行三季报：Robotaxi撑起四成营收，商业化进程提速"
+    },
+    {
+     "title": "小微日活3000万：腾讯Q3财报电话会的12条观察与思考",
+     "link": "https://www.huxiu.com/article/4906747.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 10:15:22 +0800",
+     "summary": "本文来自微信公众号： 卫夕指北 ，作者：卫夕，原文标题：《小微日活3000万——腾讯Q3财报电话会的12条观察与思考》 11月18日，腾讯发布2026年Q3财报，晚8点照例开了业绩电话会。 这次的大数谈不上好看：收入2073亿，增长8%，低于市场预期的2102亿，Non-IFRS经营利润681亿，下降6%。 但电话会的信息量比前两个季度都大： WorkBuddy第一次披露了收入，小微也首次公布了日活，腾讯账上从净现金变成了净负债，美国两天前刚落地的算力新规也被管理层正面回应了。 我把电话会实录和财报全文盘了一遍，结合个人体会，照例写几点我的观察与思考，希望能提供一些增量信息—— 一、WorkB",
+     "source": "虎嗅",
+     "zh": "小微日活3000万：腾讯Q3财报电话会的12条观察与思考"
+    },
+    {
+     "title": "名创优品三季报把TOP TOY底裤扒光了",
+     "link": "https://www.tmtpost.com/8210308.html",
+     "pubDate": "Thu, 19 Nov 2026 10:15:16 +0800",
+     "summary": "专门做潮玩的熄了火，没被当成正经潮玩做的，反而烧了起来。",
+     "source": "钛媒体",
+     "zh": "名创优品三季报把TOP TOY底裤扒光了"
+    },
+    {
+     "title": "曾妍的新论文，就是字节“10万亿”路线图",
+     "link": "https://www.tmtpost.com/8210148.html",
+     "pubDate": "Thu, 19 Nov 2026 10:15:12 +0800",
+     "summary": "周畅离职，曾妍上位：字节这场路线之争，嫡系赢了空降兵",
+     "source": "钛媒体",
+     "zh": "曾妍的新论文，就是字节“10万亿”路线图"
+    },
+    {
+     "title": "The US DOJ indicts a Russian national for allegedly working for Moscow to stalk staff of a tech and defense firm aiding Ukraine, which a source says is Palantir (Bloomberg)",
+     "link": "https://www.techmeme.com/261118/p55#a261118p55",
+     "pubDate": "Wed, 18 Nov 2026 21:15:02 -0500",
+     "summary": "Bloomberg : The US DOJ indicts a Russian national for allegedly working for Moscow to stalk staff of a tech and defense firm aiding Ukraine, which a source says is Palantir &nbsp; &mdash;&nbsp; US prosecutors charged a Russian national with acting as a foreign agent who allegedly sought information ",
+     "source": "Techmeme",
+     "zh": "The US DOJ indicts a Russian national for allegedly working for Moscow to stalk staff of a tech and defense firm aiding Ukraine, which a source says is Palantir (Bloomberg)"
+    },
+    {
+     "title": "我从未见过如此离谱的航班",
+     "link": "https://www.huxiu.com/article/4906746.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 10:15:00 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 170名旅客，只托运了10件行李——刷到这个视频： 一个航班在登机阶段出现随身行李集中的情况，现场工作人员不得不动员旅客，把拉杆箱拿去托运。地服小伙子广播无奈道： 自己从来没有遇到过这么离谱的航班。 太懂了。 我记得之前聊过——民航“四超行李”正在变成失控的常识——意思是除了民航局要求的三超“超大、超重、超件”之外，还有一个长期被忽视的问题——行李总量超出了客舱可以安全存放的能力。 每一只箱子单独拿出来，可能都符合随身行李的尺寸要求，可当这些箱子一起上了飞机，行李架必然装不下。 每个人都觉得自己没多带，最后却总得有人替整架飞机想办法。 于是，",
+     "source": "虎嗅",
+     "zh": "我从未见过如此离谱的航班"
+    },
+    {
+     "title": "二手房价格连涨8个月，一线城市率先企稳",
+     "link": "https://www.huxiu.com/article/4906744.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 10:08:49 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：徐阳 二手房市场的活跃是积极信号，但反映的是存量市场的自我调节能力，新房市场的调整、价格体系的再平衡、置换链条的修复，还需要更长时间来完成。 11月16日，国家统计局发布了2026年10月份商品住宅销售价格变动情况统计数据。数据显示，10月份一线城市二手住宅销售价格环比上涨0.2%，涨幅与上月相同。自今年3月以来，该指标已连续8个月保持环比上涨态势。其中，上海、广州和深圳分别上涨0.5%、0.2%和0.1%，北京持平。 从同比数据来看，10月份一线城市二手住宅销售价格同比下降0.4%，降幅比上月大幅收窄1.1个百分点。其中上海二手房价格同比上涨2.2%",
+     "source": "虎嗅",
+     "zh": "二手房价格连涨8个月，一线城市率先企稳"
+    },
+    {
      "title": "印度支付聚合通道月失败率12%，两个人怎么排期接入备用通道？",
      "link": "https://www.baijing.cn/question/638817",
      "pubDate": "Thu, 19 Nov 2026 02:05:58 +0000",
@@ -1794,20 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "买算力烧穿现金流，腾讯这次真急了"
     },
     {
-     "title": "这款ED药，能不能顺利变身阿尔茨海默新药？",
-     "link": "https://www.huxiu.com/article/4906589.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 10:00:00 +0800",
-     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo;九叶刀研究&rdquo;首发，全文约2600字。封面图来自Unsplash。 都说阿尔茨海默病新药难做，但今年有点不一样。 最近，韩国AriBio公司公布了在研阿尔茨海默新药三期临床试验数据 [1] ，有趣的是，它原本只是一款治疗男性勃起功能障碍的药物，而且背后站着一家中国公司：复星医药。 [2] 那么问题来了：它是怎么变成阿尔茨海默病潜力药物的？试验到底有没有成功，能不能获批？为它押下重金的中国公司，到底能不能如愿以偿？ 从ED，到阿尔茨海默病 AriBio公司在研的药物代号AR1001，其实是老药新用，它原名米罗那非 （Mirodenafil） ",
-     "source": "虎嗅",
-     "zh": "这款ED药，能不能顺利变身阿尔茨海默新药？"
-    },
-    {
-     "title": "足力健创始人成老赖，老人鞋霸主为何一败再败？",
-     "link": "https://www.huxiu.com/article/4904943.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:58:23 +0800",
-     "summary": "十年前踩中老人鞋市场空白，靠宽鞋楦、软底防滑，搭配电视广告一举爆红。可惜品牌信任被消耗，防滑性能多次被通报不达标。足力健的跌落神坛，提醒品牌风口过后，唯有靠谱产品和稳健经营才能走远。",
-     "source": "虎嗅",
-     "zh": "足力健创始人成老赖，老人鞋霸主为何一败再败？"
+     "title": "Anduril 创始人拉奇谈 AI 网络安全：美国 AI 攻防失衡，长期来看善用 AI 防御的一方将占据优势",
+     "link": "https://www.ithome.com/1/029/176.htm",
+     "pubDate": "Thu, 19 Nov 2026 02:02:55 GMT",
+     "summary": "IT之家 11 月 19 日消息，Anduril 联合创始人帕尔默 · 拉奇（Palmer Luckey）今日在《纽约时报》DealBook 峰会上警告称，美国正面临 AI 网络攻防体系的严重失衡。 拉奇表示，AI 已经能够帮助攻击者开发各种漏洞利用程序，针对美国企业和基础设施发动攻击。“攻击者快速采用新技术，而老旧系统却无法像技术发展那样迅速完成升级，这两者之间存在不匹配。” 他认为，美国需要加快数字基础设施的更新和安全防护建设。“我认为大家必须加快步伐，是时候开始加速了。” 此次发言正值美国多家机构近期接连出现技术故障之际。拉奇将这些事件与 AI 技术推动的网络攻击能力提升联系起来（但目前",
+     "source": "IT之家",
+     "zh": "Anduril 创始人拉奇谈 AI 网络安全：美国 AI 攻防失衡，长期来看善用 AI 防御的一方将占据优势"
     },
     {
      "title": "OpenAI says agents now complete 46% of its researchers&apos; 2-to-4-hour tasks on their own, vs. 23% in March, median researcher&apos;s agent use hit $2,400/day, and more (OpenAI)",
@@ -1845,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "AI Will Not Make You Rich (2025)",
      "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
      "pubDate": "Thu, 19 Nov 2026 01:51:28 +0000",
-     "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 25 # Comments: 9",
      "source": "Hacker News",
      "zh": "AI Will Not Make You Rich (2025)"
     },
@@ -1856,22 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 19 日消息，OpenAI CEO 萨姆 · 奥尔特曼、Anduril 创始人帕尔默 · 拉奇、微软 CEO 萨提亚 · 纳德拉和特斯拉 CEO 埃隆 · 马斯克等科技行业高管今日在《纽约时报》DealBook 峰会上谈及英伟达前 CEO 黄仁勋近期离职事件。 几位科技行业人士表达了对黄仁勋的支持或同情，但对于英伟达未来的管理层安排，各方态度并不完全一致。 黄仁勋于 11 月 12 日正式辞去英伟达 CEO、总裁及董事会成员职务，英伟达首席财务官科莱特 · 克雷斯（Colette Kress）出任临时 CEO。英伟达董事会此前宣布启动独立调查，黄仁勋则公开承认对妻子不忠，并",
      "source": "IT之家",
      "zh": "黄仁勋离职引发科技圈讨论：马斯克称没有人能真正取代他，微软纳德拉建议不要神化创始人"
-    },
-    {
-     "title": "史上最大IPO定了，周四上市",
-     "link": "https://www.huxiu.com/article/4906737.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:48:03 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：杨宸 鲍奕龙，原文标题：《史上最大IPO定了！周四上市》 人工智能公司Anthropic完成史上规模最大IPO，以高于发行区间的价格定价，募资总额远超此前所有纪录，标志着资本市场对AI领域的押注正式从芯片基础设施延伸至前沿模型平台。 周三，Anthropic将其A类普通股IPO定价为每股83美元，高出发行区间上限78美元约6.4%，同时将发行规模从8.25亿股扩大至9.8亿股，扩大约19%。 分析认为，定价策略是为了让股价像往常一样在IPO后上涨20%，从而突破100美元。如果未能达到预期，或者收盘下跌，投资者就需要警惕了。 公司及创始人此次合计募资约",
-     "source": "虎嗅",
-     "zh": "史上最大IPO定了，周四上市"
-    },
-    {
-     "title": "金属崩了，金银铜齐跌",
-     "link": "https://www.huxiu.com/article/4906736.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:47:16 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李丹 董静，原文标题：《金属崩了！金银铜齐跌》 11月18日周三，全球金属市场遭遇猛烈抛售，铜等工业金属与贵金属金银集体大跌。盘中纽约期铜和伦铜跌近6%、纽约期金跌超3%、期银跌超5%。 这轮下跌既受到美联储加息预期升温的冲击，也反映出市场对AI基础设施投资前景和全球工业需求的担忧。此前支撑金属价格上涨的多头交易正在松动，美元走强、资金获利了结和技术性抛售则进一步放大跌势。 与此同时，市场传言此轮抛售还与Anthropic（ANT）IPO的资金腾挪密切相关——投资者正在抛售风险资产以为这一可能创历史纪录的IPO筹集资金。 伦铜收创七个月新低AI交易降温",
-     "source": "虎嗅",
-     "zh": "金属崩了，金银铜齐跌"
     },
     {
      "title": "韩国首次将“紧急灾难通知”应用于高考防作弊，全国手机响铃 10.5 秒",
@@ -1906,18 +1946,10 @@ window.INDUSTRY_DATA = {
      "zh": "联想 Legion Go Beam 掌机曝光：无触控板，握把应不可拆卸"
     },
     {
-     "title": "最高每小时狂写 30GB：英伟达 621.24 驱动反馈加速消耗 SSD 寿命",
-     "link": "https://www.ithome.com/1/029/169.htm",
-     "pubDate": "Thu, 19 Nov 2026 01:42:01 GMT",
-     "summary": "IT之家 11 月 19 日消息，科技媒体 Tom's Hardware 今天（11 月 19 日）发布博文，报道称英伟达 GeForce 驱动 621.14 和 621.24 两个版本存在异常后台写入问题， 即使电脑处于闲置状态，系统仍持续向 SSD 写入数据。 报道称最早的用户反馈可以追溯到 11 月 4 日，有用户反馈在升级 621.14 版本驱动后，电脑闲置时出现异常后台写入，实测约每小时 3GB。IT之家附上相关截图如下： 该用户通过 Windows 资源监视器、性能计数器及 CrystalDiskInfo 等工具检测发现，5 分钟内系统对 C 盘的写入量约为 270MB，折算约每小",
-     "source": "IT之家",
-     "zh": "最高每小时狂写 30GB：英伟达 621.24 驱动反馈加速消耗 SSD 寿命"
-    },
-    {
      "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
      "link": "https://adeindex.com",
      "pubDate": "Thu, 19 Nov 2026 01:33:52 +0000",
-     "summary": "Article URL: https://adeindex.com Comments URL: https://news.ycombinator.com/item?id=50554973 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://adeindex.com Comments URL: https://news.ycombinator.com/item?id=50554973 Points: 5 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools"
     },
@@ -1925,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
      "link": "https://github.com/Ri4dH/failtrace",
      "pubDate": "Thu, 19 Nov 2026 01:30:43 +0000",
-     "summary": "Article URL: https://github.com/Ri4dH/failtrace Comments URL: https://news.ycombinator.com/item?id=50554941 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://github.com/Ri4dH/failtrace Comments URL: https://news.ycombinator.com/item?id=50554941 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL"
     },
@@ -1938,18 +1970,10 @@ window.INDUSTRY_DATA = {
      "zh": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)"
     },
     {
-     "title": "Unreal Tournament 2004 in the Browser",
-     "link": "https://ut2004.dev/",
-     "pubDate": "Thu, 19 Nov 2026 01:29:29 +0000",
-     "summary": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 10 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Unreal Tournament 2004 in the Browser"
-    },
-    {
      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
      "link": "https://arxiv.org/abs/2607.29378",
      "pubDate": "Thu, 19 Nov 2026 01:27:02 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 6 # Comments: 3",
+     "summary": "Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 8 # Comments: 3",
      "source": "Hacker News",
      "zh": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction"
     },
@@ -1984,30 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做葡语短剧出海，主攻巴西，团队 12 人，月投放预算约 8 万美元，主要在 Meta 和 TikTok 上跑，剧集用葡语配音加本地演员补拍。上个月起量后单日消耗冲到 3000 美元，付费转化率 1.8%，看起来 ROI 能打正。但卡在钱上：巴西本地支付走 Pix 和信用卡分期，Pix 到账快，信用卡分期回款要 30 到 45 天，加上本地收单方结算 T+15，现金流被压得很紧。试过换两家本地收单通道、把分期期数从 12 期压到 6 期，回款周期只缩短了 5 天左右，分期转化率反而掉了两成。现在不敢继续放量，卡在回款周期和放量节奏怎么匹配这一步。想直接问：在巴西做短剧投放，回款周期压到多少天",
      "source": "白鲸出海",
      "zh": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？"
-    },
-    {
-     "title": "Elon Musk says: ‘I’m not MAGA’",
-     "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-     "pubDate": "Thu, 19 Nov 2026 00:40:49 +0000",
-     "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-     "source": "TechCrunch",
-     "zh": "Elon Musk says: ‘I’m not MAGA’"
-    },
-    {
-     "title": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)",
-     "link": "https://www.techmeme.com/261118/p51#a261118p51",
-     "pubDate": "Wed, 18 Nov 2026 19:40:03 -0500",
-     "summary": "Yasutaka Tamura / Bloomberg : Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B &nbsp; &mdash;&nbsp; Anthropic PBC raised about $3 billion from Japanese investors as part of its initial public offering, the lower end of its p",
-     "source": "Techmeme",
-     "zh": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)"
-    },
-    {
-     "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-     "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-     "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
-     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 76 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "Gemini 4 Neon looks like an Opus 5.5 competitor"
     }
    ]
   },
@@ -2017,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "PlayStation outage hits right before GTA VI launch",
+     "link": "https://www.androidauthority.com/playstation-outage-nov-2026-3736853/",
+     "pubDate": "Thu, 19 Nov 2026 02:18:18 +0000",
+     "summary": "You're not the only one having issues with PlayStation.",
+     "source": "Android Authority",
+     "zh": "PlayStation outage hits right before GTA VI launch"
+    },
+    {
+     "title": "Honor Magic V7 will reportedly be a wide foldable",
+     "link": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php",
+     "pubDate": "Thu, 19 Nov 2026 03:11:02 +0100",
+     "summary": "Honor has reportedly been working on a wide foldable of its own for a while now, to take on the likes of the Samsung Galaxy Z Fold8 and the iPhone Duo. Back in early October, a rumor claimed that it's launching in January, but its name wasn't mentioned. Today, a tipster on X has shed some light on t",
+     "source": "GSMArena",
+     "zh": "Honor Magic V7 will reportedly be a wide foldable"
+    },
     {
      "title": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
      "link": "https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/",
@@ -2210,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple reveals its 2026 App Store Award finalists"
     },
     {
-     "title": "Bose SoundLink Micro (2nd Gen) drops to $79, its lowest price",
-     "link": "https://www.androidauthority.com/bose-soundlink-micro-2nd-gen-amazon-deal-3736856/",
-     "pubDate": "Wed, 18 Nov 2026 19:45:10 +0000",
-     "summary": "Save $50 on Bose's pocket-sized Bluetooth speaker, now 39% off on Amazon.",
-     "source": "Android Authority",
-     "zh": "Bose SoundLink Micro (2nd Gen) drops to $79, its lowest price"
-    },
-    {
      "title": "GTA 6's cops will remember you thanks to the 'Heat' system",
      "link": "https://www.engadget.com/2320983/gta-6s-cops-will-remember-you-thanks-to-the-heat-system/",
      "pubDate": "Wed, 18 Nov 2026 19:34:34 +0000",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "vivo launched the X Fold6 back in late June, and it was the first model in the series to switch from Qualcomm to MediaTek, with the Dimensity 9500 Super at the helm instead of the Snapdragon 8 Gen 3 that powered the X Fold5. Now, its successor is apparently already in the works, and it might not sti",
      "source": "GSMArena",
      "zh": "Here's what will decide which chipset powers the vivo X Fold7"
-    },
-    {
-     "title": "You can't use GTA 6 cheats until you beat the game",
-     "link": "https://www.engadget.com/2320852/you-cant-use-gta-6-cheats-until-you-beat-the-game/",
-     "pubDate": "Wed, 18 Nov 2026 18:25:40 +0000",
-     "summary": "Some even require players to complete specific challenges.",
-     "source": "Engadget",
-     "zh": "You can't use GTA 6 cheats until you beat the game"
     }
    ]
   },
@@ -2282,22 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "A股双创指数均跌超1%，AI算力调整，电力股逆势活跃，恒科指跌超2%，腾讯、阿里双双大跌超5%"
     },
     {
-     "title": "AI让内容成本下降90%，联合利华却发现营销越来越难做",
-     "link": "http://www.eeo.com.cn/2026/1119/1096690.shtml",
-     "pubDate": "Thu, 19 Nov 2026 09:56:52 +0800",
-     "summary": "作者 戴莉娟 今年6月，联合利华首席营销官Leandro Barreto在戛纳国际创意节提出，未来推动品牌增长的关键，是让更多消费者愿意主动分享品牌内容。 从覆盖（Reach）到分享（Share），联合利华开始将社交优先（Social-first）作为品牌营销的重要方向。 五个月后，这一战略有了新的进展。 11月初，联合利...",
-     "source": "经济观察网",
-     "zh": "AI让内容成本下降90%，联合利华却发现营销越来越难做"
-    },
-    {
-     "title": "二手房价格连涨8个月，一线城市率先企稳",
-     "link": "http://www.eeo.com.cn/2026/1119/1096672.shtml",
-     "pubDate": "Thu, 19 Nov 2026 09:47:50 +0800",
-     "summary": "二手房市场的活跃是积极信号，但反映的是存量市场的自我调节能力，新房市场的调整、价格体系的再平衡、置换链条的修复，还需要更长时间来完成。",
-     "source": "经济观察网",
-     "zh": "二手房价格连涨8个月，一线城市率先企稳"
-    },
-    {
      "title": "Everpure anticipates Q4 revenue of $1.505B to $1.515B as it raises FY27 revenue outlook to $5.200B to $5.210B",
      "link": "https://seekingalpha.com/news/4674494-everpure-anticipates-q4-revenue-of-1_505b-to-1_515b-as-it-raises-fy27-revenue-outlook-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 20:44:42 -0500",
@@ -2320,30 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor"
-    },
-    {
-     "title": "今日看点｜商务部将召开新闻发布会，介绍近期商务领域重点工作有关情况",
-     "link": "http://www.eeo.com.cn/2026/1119/1096634.shtml",
-     "pubDate": "Thu, 19 Nov 2026 09:20:20 +0800",
-     "summary": "11月19日下午3时，商务部将举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。",
-     "source": "经济观察网",
-     "zh": "今日看点｜商务部将召开新闻发布会，介绍近期商务领域重点工作有关情况"
-    },
-    {
-     "title": "绕远的好望角航线 改变了舟山的加油生意",
-     "link": "http://www.eeo.com.cn/2026/1119/1096599.shtml",
-     "pubDate": "Thu, 19 Nov 2026 09:20:01 +0800",
-     "summary": "经济观察报记者采访多家供油商、船公司，以及舟山港综合保税区管委会获悉，舟山船供油企业提前锁定远期货源、囤足库存等待接单的传统，正在被更加谨慎的小批量采购取代。",
-     "source": "经济观察网",
-     "zh": "绕远的好望角航线 改变了舟山的加油生意"
-    },
-    {
-     "title": "辽宁370元容量补偿落地，搁置储能项目\"苏醒\"",
-     "link": "http://www.eeo.com.cn/2026/1119/1096600.shtml",
-     "pubDate": "Thu, 19 Nov 2026 09:14:02 +0800",
-     "summary": "可靠容量补偿，是指纳入补偿范围的机组，现阶段包括公用煤电机组、电网侧独立新型储能电站和省间外购电，在系统用电最紧张的顶峰时段能够稳定供电，就可以按其可靠容量获得一笔年度补偿。",
-     "source": "经济观察网",
-     "zh": "辽宁370元容量补偿落地，搁置储能项目\"苏醒\""
     },
     {
      "title": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts",
@@ -2504,6 +2464,46 @@ window.INDUSTRY_DATA = {
      "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的 纳斯达克 上市铺平了道路，也标志着 人工智能 行业的一个历史性时刻。 此次IPO的发行规模也有所扩大。Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 Anthropic此前表示将发行8.25亿股。 这将使Anthropic估值达到1.5万亿美元，超过该公司此前1.",
      "source": "东方财富资讯",
      "zh": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿"
+    },
+    {
+     "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？",
+     "link": "http://stock.eastmoney.com/news/11228,202611193934644890.html",
+     "pubDate": "Thu, 19 Nov 2026 08:17:49 +0800",
+     "summary": "Anthropic的超级IPO即将登陆市场。据最新报道，该公司已将IPO发行价定为每股83美元，高于此前公布的70至78美元发行区间。其股票预计将于周四开始交易。 以此计算，Anthropic完全稀释估值约1.5万亿美元，仅次于 SpaceX （1.77万亿美元），但据媒体此前报道，Anthropic及其部分投资方计划通过本次IPO外加一轮独立私募配售，合计募资额最高可达904亿美元。两项融资合计规模将超过 SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值 人工智能 行业动荡之际： 数据中心 的抵制助长了民主党的蓝色浪潮，再叠加“黄仁勋风波”，市场",
+     "source": "东方财富资讯",
+     "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
+    },
+    {
+     "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
+     "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
+     "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
+     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 东财图解·加点干货 （文章来源：界面新闻）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
+    },
+    {
+     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+     "pubDate": "Thu, 19 Nov 2026 00:08:14 GMT",
+     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+     "source": "CNBC",
+     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
+    },
+    {
+     "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+     "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+     "pubDate": "Thu, 19 Nov 2026 00:07:06 GMT",
+     "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+     "source": "CNBC",
+     "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+    },
+    {
+     "title": "Singapore sets national AI missions for financial services",
+     "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
+     "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
+     "source": "Finextra",
+     "zh": "Singapore sets national AI missions for financial services"
     }
    ]
   },

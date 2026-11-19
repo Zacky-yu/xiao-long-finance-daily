@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 04:12:14",
+ "generated_at": "2026/11/20 04:32:23",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The unfolding Jensen Huang scandal: a timeline",
+     "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "source": "TechCrunch AI",
+     "zh": "The unfolding Jensen Huang scandal: a timeline"
+    },
     {
      "title": "A game you cannot win unless you have a quantum computer",
      "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
@@ -82,12 +90,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
     },
     {
-     "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-     "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-     "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
-     "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-     "source": "TechCrunch AI",
-     "zh": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
+     "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
+     "link": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
+     "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
+     "summary": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
+     "source": "KDnuggets",
+     "zh": "What I Learned From Kaggle + Google’s Free Agentic AI Course"
     },
     {
      "title": "嘉实多推出Castrol CORE一体化方案，加速AI数据中心液冷规模化部署",
@@ -96,6 +104,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月19日报道，在今天举行的数据中心标准大会（CDCC）上，全球知名润滑油品牌嘉实多正式宣布在中国市场推出 Castrol CORE一体化数据中心热管理解决方案 。这标志着嘉实多数据中心热管理业务，将从以产品驱动的冷却方案，向更加一体化、以服务为导向的模式转型升级。 Castrol CORE是一套将设计支持、冷却技术及全生命周期服务整合为一体的解决方案，覆盖早期设计及规格制定，以及部署、启动、运营、维护和持续支持等全生命周期各个阶段。在该方案加持下，客户能更从容地应对日益复杂的数据中心冷却需求，液冷的规模化部署也将更可靠和高效。 大会期间，嘉",
      "source": "智东西",
      "zh": "嘉实多推出Castrol CORE一体化方案，加速AI数据中心液冷规模化部署"
+    },
+    {
+     "title": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy",
+     "link": "https://www.kdnuggets.com/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy",
+     "pubDate": "Thu, 19 Nov 2026 13:00:00 +0000",
+     "summary": "Run BigQuery, Apache Spark, and Trino on one Apache Iceberg table in Google Cloud's Lakehouse runtime catalog, with no copies or sync jobs, and see how Iceberg handles concurrent commits between engines.",
+     "source": "KDnuggets",
+     "zh": "One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy"
     },
     {
      "title": "阿里净利润大涨213%！吴泳铭交底AI战略，相关年化收入突破700亿",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
      "source": "arXiv cs.AI",
      "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
-    },
-    {
-     "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
-     "link": "https://www.qbitai.com/2026/11/511088.html",
-     "pubDate": "Thu, 19 Nov 2026 04:51:31 +0000",
-     "summary": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩",
-     "source": "量子位",
-     "zh": "AI基建大潮方兴未艾，联想集团最佳财季诞生！"
-    },
-    {
-     "title": "全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744025&idx=1&sn=aab686340230ccb08a8df9e309841968",
-     "pubDate": "Thu, 19 Nov 2026 12:46:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "全球史上最大IPO今晚敲钟！诺奖图灵奖得主联名反对"
     }
    ]
   },
@@ -890,6 +890,14 @@ window.INDUSTRY_DATA = {
      "zh": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat"
     },
     {
+     "title": "How would Becerra’s solar Power Hour actually work",
+     "link": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+     "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
+     "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Hello, everyone! California Gov.-elect Xavier Becerra’s Power Hour plan is getting a ton of attention right now, so let’s dive into it. During his campaig",
+     "source": "Canary Media",
+     "zh": "How would Becerra’s solar Power Hour actually work"
+    },
+    {
      "title": "Trafigura Not Rushing to Alternative Marine Fuels",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trafigura-Not-Rushing-to-Alternative-Marine-Fuels.html",
      "pubDate": "Thu, 19 Nov 2026 12:30:00 -0600",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Floria Wang, Head of Global Branding at LONGi, delivered a keynote speech at a side event on implementation and highlighted the company’s practical achievements in advancing the global energy transition. The post At COP31, Longi details its pathways to advance global green development appeared first",
      "source": "pv magazine",
      "zh": "At COP31, Longi details its pathways to advance global green development"
-    },
-    {
-     "title": "Heron Power inks 1.5GW power electronics deal with Google-owned Intersect",
-     "link": "https://www.pv-tech.org/heron-power-1-5gw-power-electronics-deal-google-owned-intersect/",
-     "pubDate": "Thu, 19 Nov 2026 10:23:24 +0000",
-     "summary": "Google-owned renewable energy developer Intersect has signed an agreement with Heron Power to reserve 1.5GW of the US-based startup’s Heron Link medium-voltage power electronics units, with deliveries scheduled to begin in 2028.",
-     "source": "PV Tech",
-     "zh": "Heron Power inks 1.5GW power electronics deal with Google-owned Intersect"
     }
    ]
   },
@@ -1141,7 +1141,7 @@ window.INDUSTRY_DATA = {
      "title": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher",
      "link": "https://endpoints.news/sanofis-infilbray-wins-first-approval-for-neurological-symptoms-of-gaucher/",
      "pubDate": "Thu, 19 Nov 2026 19:18:12 +0000",
-     "summary": "Sanofi won approval Wednesday for Infilbray, the first drug in the US to treat the neurological symptoms of a rare genetic disorder called Gaucher disease. Infilbray, also known as venglustat, crosses the blood-brain barrier to ...",
+     "summary": "Sanofi won FDA approval Wednesday for Infilbray, the first drug in the US to treat the neurological symptoms of a rare genetic disorder called Gaucher disease. Infilbray, also known as venglustat, crosses the blood-brain barrier ...",
      "source": "Endpoints News",
      "zh": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher"
     },
@@ -1586,6 +1586,14 @@ window.INDUSTRY_DATA = {
      "zh": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT"
     },
     {
+     "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+     "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+     "pubDate": "Fri, 20 Nov 2026 00:17:58 +0530",
+     "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get peo",
+     "source": "The Hacker News",
+     "zh": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories"
+    },
+    {
      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
      "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
      "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
     },
     {
-     "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-     "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-     "pubDate": "Thu, 19 Nov 2026 15:01:26 +0530",
-     "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to r",
-     "source": "The Hacker News",
-     "zh": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
-    },
-    {
      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+     "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+     "pubDate": "Thu, 19 Nov 2026 20:19:28 +0000",
+     "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+     "source": "Ars Technica",
+     "zh": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert"
+    },
+    {
      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
      "pubDate": "Thu, 19 Nov 2026 19:52:54 +0000",
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 12 # Comments: 13",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 22 # Comments: 23",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 26 # Comments: 9",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 48 # Comments: 25",
      "source": "Hacker News",
      "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Claude solves two open problems in the physics of black holes",
      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 184 # Comments: 50",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 226 # Comments: 80",
      "source": "Hacker News",
      "zh": "Claude solves two open problems in the physics of black holes"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "link": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
-     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 92 # Comments: 8",
+     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 153 # Comments: 15",
      "source": "Hacker News",
      "zh": "Pancreatic cancer halted by virus injection in three patients"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic hits $2T in Nasdaq debut",
      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 445 # Comments: 669",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 519 # Comments: 807",
      "source": "Hacker News",
      "zh": "Anthropic hits $2T in Nasdaq debut"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Chrome AI features wasting much bandwidth",
      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
      "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
-     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 83 # Comments: 25",
+     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 91 # Comments: 31",
      "source": "Hacker News",
      "zh": "Chrome AI features wasting much bandwidth"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 19 日消息，此前在小米有品众筹的米家扫振电动牙刷 2 Pro，现已在京东平台开启预约，将于明日 0 点开售，价格为 199.75 元。 IT之家从商品页面获悉，这款电动牙刷支持声波扫振马达 2.0，可高效清洁牙菌斑；支持智能分面扫振，可匹配不同清洁方案；配备全效缓震刷头，软胶升级不打牙，弹性结构更贴合。 此外，它还配备 动态交互彩屏 ，实现可视化洁牙；支持双向过压提醒，力大力小亮灯提醒，用力过度自动降频；配备 Type-C 接口，支持 190 天长续航；支持 IPX8 级防水。 京东 小米米家扫振电动牙刷 2 Pro 199.75 元 直达链接",
      "source": "IT之家",
      "zh": "小米米家扫振电动牙刷 2 Pro 开售：动态彩屏交互、190 天长续航，199.75 元"
-    },
-    {
-     "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
-     "link": "https://www.solidot.org/story?sid=85936",
-     "pubDate": "Thu, 19 Nov 2026 23:19:01 +0800",
-     "summary": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行运营，服务着逾 4 万名用户。开发 Element 的公司发表博客介绍了欧盟委员会的经验。",
-     "source": "Solidot",
-     "zh": "欧盟委员会如何向逾 4 万工作人员部署 Matrix"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more",
+     "link": "https://9to5toys.com/2026/11/19/todays-highlight-google-play-deals-52/",
+     "pubDate": "Thu, 19 Nov 2026 20:21:27 +0000",
+     "summary": "With the Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , but for now we are checking out the day’s best Android game and app deals. We have collected all of the this week’s for you today down below, just beside to scope $100 off all Pixel Watch 5 models, the ongoing all-time low Google Home S",
+     "source": "9to5Google",
+     "zh": "Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more"
+    },
     {
      "title": "Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen",
      "link": "https://www.androidauthority.com/gemini-mac-computer-use-3737396/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Motorola Edge 2026 gets a record $200 Black Friday price cut"
     },
     {
-     "title": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords",
-     "link": "https://9to5google.com/2026/11/19/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
-     "pubDate": "Thu, 19 Nov 2026 17:18:51 +0000",
-     "summary": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again? Proton Pass is designed to take that ",
-     "source": "9to5Google",
-     "zh": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords"
-    },
-    {
      "title": "Nothing AI device gets teased in a new image",
      "link": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
      "pubDate": "Thu, 19 Nov 2026 18:18:02 +0100",
@@ -2274,6 +2274,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Convicted FTX swindler Bankman-Fried misses out on $37B Anthropic IPO windfall",
+     "link": "https://seekingalpha.com/news/4674873-convicted-ftx-swindler-bankman-fried-misses-out-on-37b-anthropic-ipo-windfall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:27:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Convicted FTX swindler Bankman-Fried misses out on $37B Anthropic IPO windfall"
+    },
+    {
+     "title": "Dow drops below 50K for the first time in 5 months",
+     "link": "https://seekingalpha.com/news/4674871-dow-drops-below-50k-for-the-first-time-in-5-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:24:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dow drops below 50K for the first time in 5 months"
+    },
+    {
+     "title": "Why Walmart is making a bigger bet on fast-food delivery",
+     "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 20:24:00 GMT",
+     "summary": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+     "source": "MarketWatch",
+     "zh": "Why Walmart is making a bigger bet on fast-food delivery"
+    },
+    {
+     "title": "It’s a ‘dark period for tech’ as Anthropic debuts IPO – Dan Ives",
+     "link": "https://seekingalpha.com/news/4674868-it-s-a-dark-period-for-tech-as-anthropic-debuts-ipo-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:08:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "It’s a ‘dark period for tech’ as Anthropic debuts IPO – Dan Ives"
+    },
+    {
      "title": "Maximus forecasts $700M-$800M fiscal 2027 free cash flow while integrating Agile Defense",
      "link": "https://seekingalpha.com/news/4674865-maximus-forecasts-700m-800m-fiscal-2027-free-cash-flow-while-integrating-agile-defense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 15:03:56 -0500",
@@ -2330,30 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why Micron, Broadcom and other AI stocks have given up their gains"
     },
     {
-     "title": "ServiceNow created AI tool to go after Salesforce customers: report",
-     "link": "https://seekingalpha.com/news/4674860-servicenow-created-ai-tool-to-go-after-salesforce-customers-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:38:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ServiceNow created AI tool to go after Salesforce customers: report"
-    },
-    {
-     "title": "Hedge funds trim AMD stakes in Q3 as two exit entirely",
-     "link": "https://seekingalpha.com/news/4674360-hedge-funds-trim-amd-stakes-in-q3-as-two-exit-entirely?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:35:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hedge funds trim AMD stakes in Q3 as two exit entirely"
-    },
-    {
-     "title": "Bloom Energy upgraded at BMO as order momentum builds",
-     "link": "https://seekingalpha.com/news/4674855-bloom-energy-upgraded-at-bmo-as-order-momentum-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:32:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bloom Energy upgraded at BMO as order momentum builds"
-    },
-    {
      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
      "pubDate": "Thu, 19 Nov 2026 19:29:31 GMT",
@@ -2400,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
      "source": "MarketWatch",
      "zh": "Social Security should be shut down, this Republican senator says"
-    },
-    {
-     "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
-     "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 18:43:00 GMT",
-     "summary": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
-     "source": "MarketWatch",
-     "zh": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms"
     },
     {
      "title": "UK pensions dashboard set for summer 2027 launch",
@@ -2477,7 +2477,7 @@ window.INDUSTRY_DATA = {
      "title": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超11%",
      "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
      "pubDate": "Fri, 20 Nov 2026 02:15:32 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌1.62%，标普500指数跌1.31%， 纳斯达克 综合 指数跌1.42%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
+     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.08%，标普500指数跌1.96%， 纳斯达克 综合 指数跌2.09%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
      "source": "东方财富资讯",
      "zh": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超11%"
     },
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "New study rewrites the role of a major speech hub in the brain",
+     "link": "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain",
+     "pubDate": "Thu, 19 Nov 2026 20:24:33 +0000",
+     "summary": "Wernicke's area was thought to be mostly linked to understanding speech. A landmark new study has something more to say.",
+     "source": "Live Science",
+     "zh": "New study rewrites the role of a major speech hub in the brain"
+    },
     {
      "title": "The immune system 'remembers' germs by tweaking its epigenetics, study shows",
      "link": "https://www.livescience.com/health/immune-system/the-immune-system-remembers-germs-by-tweaking-its-epigenetics-study-shows",
@@ -2672,14 +2680,6 @@ window.INDUSTRY_DATA = {
      "summary": "Launched in 1977, Voyager 1 has traveled farther than any other human-made object.",
      "source": "Science News",
      "zh": "Voyager 1 reaches a historic milestone: one light-day from Earth"
-    },
-    {
-     "title": "Voyager 1's light-day milestone: See the photos behind the discoveries",
-     "link": "https://www.livescience.com/space/space-exploration/voyager-1s-light-day-milestone-50-years-of-amazing-solar-system-discoveries-in-photos",
-     "pubDate": "Wed, 18 Nov 2026 21:31:24 +0000",
-     "summary": "On Wednesday (Nov. 18), NASA's Voyager 1 spacecraft became the first human-made object to reach one light-day from Earth. Here, we look back at its most important discoveries, seen through groundbreaking space photos.",
-     "source": "Live Science",
-     "zh": "Voyager 1's light-day milestone: See the photos behind the discoveries"
     },
     {
      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",

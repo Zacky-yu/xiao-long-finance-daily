@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 13:12:08",
+ "generated_at": "2026/11/19 13:32:15",
  "recent_days": 7,
  "industries": [
   {
@@ -55,6 +55,14 @@
      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass veri",
      "source": "arXiv cs.AI",
      "zh": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding"
+    },
+    {
+     "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+     "link": "https://www.qbitai.com/2026/11/511079.html",
+     "pubDate": "Thu, 19 Nov 2026 04:02:39 +0000",
+     "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+     "source": "量子位",
+     "zh": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计"
     },
     {
      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月18日报道，近日，英伟达（NVIDIA）在上海举办了一场RTX Spark分享会，解读了RTX Spark最新桌面主机产品背后的技术特性，并展示了办公、游戏、创作、机器人等各领域基于RTX Spark产品实现的AI应用案例。 比如在本地训练具身模型并用其操作机械臂抓取、机器人自然语言编程与强化学习训练、本地AI Agent远程办公、UE5超大场景实时渲染、Broadcast视频处理以及老视频AI修复等等，一切都是基于本地RTX Spark。 你甚至可以来点“邪修”，把RTX Spark笔记本架在机器人头上，造出属于你的“机器人伴侣”。 RT",
      "source": "智东西",
      "zh": "英伟达RTX Spark桌面主机首次亮相：最新Demo现场体验，本地AI玩出花"
-    },
-    {
-     "title": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning",
-     "link": "https://www.kdnuggets.com/ai-and-data-science-salaries-in-2026-what-practitioners-are-actually-earning",
-     "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-     "summary": "A data-backed breakdown of compensation across roles, experience levels, industries, and geographies, so you know where you stand and where the premium opportunities are.",
-     "source": "KDnuggets",
-     "zh": "AI and Data Science Salaries in 2026: What Practitioners Are Actually Earning"
     }
    ]
   },
@@ -1769,6 +1769,30 @@
    "total": 18,
    "items": [
     {
+     "title": "大润发顶着压力继续猛推调改",
+     "link": "https://www.huxiu.com/article/4906822.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 13:25:51 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：李烨 大润发的门店调改推进一年多，正从样板门店探索走向更大范围的复制。 11月18日，大润发母公司高鑫零售公布2027财年中期业绩。财报显示，公司已形成25个标准化调改模块，首批“二改一”门店落地，本财年还将推进4个商店街重构项目。 随着调改铺向更多门店，持续投入需要资金支撑；而收入和同店销售的变化，也让这些投入能否带来回报变得更为关键。 界面新闻在其财报中看到，截至2026年9月30日，该公司净现金为105.2亿元；报告期内，经营活动现金净流入17.86亿元，自由现金流为16.3亿元。对仍在推进门店改造的大润发来说，这些资金为后续投入提供了支撑。 不过",
+     "source": "虎嗅",
+     "zh": "大润发顶着压力继续猛推调改"
+    },
+    {
+     "title": "腾讯不佛了：每天砸7亿，全力搞AI",
+     "link": "https://www.huxiu.com/article/4906821.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 13:17:45 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 腾讯28年来最猛的一次出手。 定焦One（dingjiaoone）原创 11月16日，腾讯内部沟通会上，腾讯管理层抛出一系列判断：“浪已经杀过来了”；“现在进行的智能革命如果不投入拥抱，就是被颠覆，这是一个生死存亡的问题”。这些话听起来有很强的紧迫感，但资本市场最终得看你钱花到哪儿了，花得值不值。 两天后的11月18日，腾讯公布的2026年Q3财报给出了答案。 先看整体业绩。腾讯Q3营收2073亿元，同比增长8%。这个增速中规中矩，反映了宏观环境的压力。拆开来看，三大业务分化明显：增值服务收入983亿元，同比微增3%，本土游",
+     "source": "虎嗅",
+     "zh": "腾讯不佛了：每天砸7亿，全力搞AI"
+    },
+    {
+     "title": "网红茶饮Yee3三号椰加速撤店",
+     "link": "https://www.huxiu.com/article/4906818.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 13:15:10 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：马越，原文标题：《网红茶饮Yee 3三号椰加速撤店》 “长沙三号椰是全部倒闭了吗？”有消费者打开外卖软件发现，当地多家“Yee 3三号椰”门店在团购平台上显示“歇业关闭”，于是在社交媒体发出这样的疑问。 界面新闻注意到，此前长沙的Yee 3三号椰门店数量在5家左右，分别位于万家丽国际MALL、万象城、国金街等核心商圈。在大众点评平台均已显示“歇业关闭”。 界面新闻拨通Yee 3三号椰品牌方的联系电话，一位工作人员表示，长沙所有门店确实已经关闭，目前还没有计划要在原址重新开，“有些门店可能是因为商场合约选择不续租了。”对方表示。同时也确认长沙关闭的门店并非",
+     "source": "虎嗅",
+     "zh": "网红茶饮Yee3三号椰加速撤店"
+    },
+    {
      "title": "高学历精英男性侵案频发，到底怎么了？",
      "link": "https://www.huxiu.com/article/4906816.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 13:06:11 +0800",
@@ -1809,14 +1833,6 @@
      "zh": "AI味，AI到底背不背锅？"
     },
     {
-     "title": "民生加银，亲生无疑了",
-     "link": "https://www.huxiu.com/article/4906782.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:55:31 +0800",
-     "summary": "出品 | 妙投APP 作者 | 刘国辉 编辑 | 丁萍 头图 | AI制图 一只债券基金，竟然亏出了科技基金的幅度 。 11月16日，民生加银增强收益A单日净值下跌 6.42%，跟重仓科技的主动权益基金没有什么区别。 这几个月里，股市调整明显，基金净值下滑并不新鲜。但让投资者难以接受的是，民生加银增强收益作为一只以债券配置为主、权益仓位20%的&ldquo;固收+&rdquo;产品，今年业绩截至11月中旬年内亏损约36%，在同类&ldquo;固收+&rdquo;基金中排名倒数。 &zwnj;这只基金由谢志华管理、名称含债券的基金，因科技股下跌而出现堪比权益类基金的巨亏回撤，使投资者对稳健理财定",
-     "source": "虎嗅",
-     "zh": "民生加银，亲生无疑了"
-    },
-    {
      "title": "Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&apos; private data (Katie Paul/Reuters)",
      "link": "https://www.techmeme.com/261118/p64#a261118p64",
      "pubDate": "Wed, 18 Nov 2026 23:55:28 -0500",
@@ -1825,28 +1841,12 @@
      "zh": "Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&apos; private data (Katie Paul/Reuters)"
     },
     {
-     "title": "奥特曼给“AI造AI”踩刹车，方向盘必须握在人类手中",
-     "link": "https://www.huxiu.com/article/4906813.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:54:16 +0800",
-     "summary": "本文来自微信公众号： 新智元 ，编辑：元宇，作者：ASI启示录，原文标题：《奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中》 AI已经在帮OpenAI造下一代GPT了。 可真要把研发方向盘彻底交给AI，奥特曼还是亲自踩了一脚刹车。 11月16日，在Semafor的活动现场，谈及「递归自我改进」（RSI），奥特曼当场划下一道红线： 我们本可以进一步向递归自我改进推进，但我不认为现在能安全地这么做。 潜台词很明显：不是现在技术上推不动，而是真不敢撒手。 奥特曼表示，OpenAI可以进一步推进递归自我改进，但目前还无法安全地这么做。 毕竟，一旦模型开始自己迭代自己，谁来盯住它有没有悄悄跑偏？ ",
-     "source": "虎嗅",
-     "zh": "奥特曼给“AI造AI”踩刹车，方向盘必须握在人类手中"
-    },
-    {
      "title": "通威集团刘汉元：乐观预计光伏行业半年左右见底，多晶硅环节最有条件反内卷成功",
      "link": "https://www.tmtpost.com/8210893.html",
      "pubDate": "Thu, 19 Nov 2026 12:51:15 +0800",
      "summary": "行业需求量足够大，先进产能应该保留下来。",
      "source": "钛媒体",
      "zh": "通威集团刘汉元：乐观预计光伏行业半年左右见底，多晶硅环节最有条件反内卷成功"
-    },
-    {
-     "title": "这种神秘消失的器官，是否暗藏长寿密码？",
-     "link": "https://www.huxiu.com/article/4906812.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 12:51:01 +0800",
-     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 本篇《自然》长文共4049字，干货满满，预计阅读时间13分钟，时间不够建议可以先“浮窗”或者收藏哦。 原文作者：Edward Chen 研究者竞相尝试再生胸腺——一种短暂存在的免疫器官，希望借之延缓衰老。 1996年，低温生物学家Gregory Fahy走进自己医生的办公室，说服对方开出了一个月的生长激素。他想通过注射让自己胸腺重新生长（依据仅仅来源于一项大鼠研究[1]），胸腺是一个特殊的免疫器官，会随着年龄增长而萎缩直至近乎消失。Fahy认为，重生胸腺将有助于他过上更长寿、更健康的生活。 Fahy说变化很明显，至少从磁",
-     "source": "虎嗅",
-     "zh": "这种神秘消失的器官，是否暗藏长寿密码？"
     },
     {
      "title": "彭博社：黄仁勋离任英伟达 CEO 后，日本 AI 股首当其冲",
@@ -2017,6 +2017,22 @@
    "total": 7,
    "items": [
     {
+     "title": "One UI 9.5 could bring native full-sensor video recording to Galaxy phones",
+     "link": "https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/",
+     "pubDate": "Thu, 19 Nov 2026 05:20:36 +0000",
+     "summary": "It can give you more framing options when you're editing your videos later.",
+     "source": "Android Authority",
+     "zh": "One UI 9.5 could bring native full-sensor video recording to Galaxy phones"
+    },
+    {
+     "title": "New gradient icons roll out to Google Messages & Contacts",
+     "link": "https://9to5google.com/2026/11/18/google-messages-contacts-gradient/",
+     "pubDate": "Thu, 19 Nov 2026 05:14:27 +0000",
+     "summary": "Google this week completed the rollout of its new gradient icons with updates for Messages and Contacts. more…",
+     "source": "9to5Google",
+     "zh": "New gradient icons roll out to Google Messages & Contacts"
+    },
+    {
      "title": "Google AI Ultra now includes YouTube Premium Family at no extra cost",
      "link": "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
      "pubDate": "Thu, 19 Nov 2026 04:58:33 +0000",
@@ -2161,14 +2177,6 @@
      "zh": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro"
     },
     {
-     "title": "Check your inbox: Google Store’s Black Friday coupons are in the mail",
-     "link": "https://www.androidauthority.com/google-store-black-friday-coupons-3736896/",
-     "pubDate": "Wed, 18 Nov 2026 21:54:36 +0000",
-     "summary": "The sale runs until December 5.",
-     "source": "Android Authority",
-     "zh": "Check your inbox: Google Store’s Black Friday coupons are in the mail"
-    },
-    {
      "title": "Zane Lowe shares Apple Music Radio audience numbers, recalls ‘crickets’ in the early days",
      "link": "https://9to5mac.com/2026/11/18/zane-lowe-shares-apple-music-radio-audience-numbers-recalls-crickets-in-the-early-days/",
      "pubDate": "Wed, 18 Nov 2026 21:50:04 +0000",
@@ -2225,14 +2233,6 @@
      "zh": "Instagram finally lets users edit Stories after publishing, but there’s a catch"
     },
     {
-     "title": "Mid-week Android app deals and freebies: Dungeon Merge!, ISLANDERS, LEGO Bricktales, more",
-     "link": "https://9to5toys.com/2026/11/18/todays-highlight-google-play-deals-51/",
-     "pubDate": "Wed, 18 Nov 2026 20:07:39 +0000",
-     "summary": "Joining the updated Amazon early Black Friday sale, ongoing all-time low on Google Home Speaker , lowest prices ever on Android Alexa tablets , and the $350 price drop on Galaxy Z Fold , today’s Android game and app deals are now ready to roll. We have Dungeon Merge!, ISLANDERS: Mobile, LEGO Brickta",
-     "source": "9to5Google",
-     "zh": "Mid-week Android app deals and freebies: Dungeon Merge!, ISLANDERS, LEGO Bricktales, more"
-    },
-    {
      "title": "Apple reveals its 2026 App Store Award finalists",
      "link": "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php",
      "pubDate": "Wed, 18 Nov 2026 21:01:02 +0100",
@@ -2265,12 +2265,84 @@
    "total": 13,
    "items": [
     {
+     "title": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌超2%，腾讯跌6%，富智康涨6%",
+     "link": "https://wallstreetcn.com/articles/3786248",
+     "pubDate": "Thu, 19 Nov 2026 13:28:06 +0800",
+     "summary": "腾讯周四股价跌至2025年2月以来新低，此前 最新财报 显示，WorkBuddy日活突破1000万，最近七天年化收入超5亿美元，三季度收入是二季度的5倍以上；云业务收入增速从21%加快至35%，模型即服务收入环比增长超三倍。与此同时，算力约束正影响混元下一代模型训练进度。与此同时，Q3自由现金流为负691亿元。 11月19日，A股午后小幅回升，三大股指跌幅收窄，创业板一度翻红，科创50逆势涨1%，盘初一度跌超2%，晶圆产业、先进封装、半导体硅片、光刻机等拉升，中芯国际、华虹宏力强势走强，白色家电、电力、券商等少数板块逆势活跃。服务器、AI短剧、贵金属等板块显著调整。 港股早盘低开低走，恒指、恒",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌超2%，腾讯跌6%，富智康涨6%"
+    },
+    {
+     "title": "虎牙运营利润四年来首度转正，游戏发行接棒增长",
+     "link": "https://wallstreetcn.com/articles/3786260",
+     "pubDate": "Thu, 19 Nov 2026 13:27:37 +0800",
+     "summary": "虎牙跨过了经营盈亏线，新的收入来源也在扩大。 北京时间11月17日，虎牙发布2026年三季报，营收同比增长3.8%至17.53亿元，归属于公司的净利润同比增长205.2%至2930万元。更值得关注的是，按美国通用会计准则计算的运营利润达到1520万元，为2022年第三季度以来首次转正，上年同期则亏损1430万元。 这次扭亏，来自收入结构变化与成本控制的共同作用。 当季，直播收入同比下降约4.2%至11.08亿元；游戏相关服务、广告及其他收入增长21.3%至6.45亿元，占总收入的36.8%。后者新增约1.13亿元收入，覆盖了直播业务约4850万元的降幅，也承担了公司整体增长的主要任务。财报将增",
+     "source": "华尔街见闻",
+     "zh": "虎牙运营利润四年来首度转正，游戏发行接棒增长"
+    },
+    {
+     "title": "主导产品聚明胶肽注射液抽检不合规，武汉华龙生物遭国家药监局通报",
+     "link": "http://www.eeo.com.cn/2026/1119/1096993.shtml",
+     "pubDate": "Thu, 19 Nov 2026 13:21:46 +0800",
+     "summary": "作为主导产品的聚明胶肽注射液因抽检不合规遭国家药监局通报，对武汉华龙生物的影响不容小视。",
+     "source": "经济观察网",
+     "zh": "主导产品聚明胶肽注射液抽检不合规，武汉华龙生物遭国家药监局通报"
+    },
+    {
+     "title": "Vow ASA reports Q3 results",
+     "link": "https://seekingalpha.com/news/4674508-vow-asa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 00:21:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vow ASA reports Q3 results"
+    },
+    {
+     "title": "Indorama Ventures Public Company GAAP EPS of THB 0.39, revenue of THB 133.34B",
+     "link": "https://seekingalpha.com/news/4674507-indorama-ventures-public-company-gaap-eps-of-thb-039-revenue-of-thb-13334b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 00:19:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Indorama Ventures Public Company GAAP EPS of THB 0.39, revenue of THB 133.34B"
+    },
+    {
+     "title": "Musk: Jensen Huang irreplaceable, regrets midterm spend",
+     "link": "https://seekingalpha.com/news/4674500-musk-jensen-huang-irreplaceable-regrets-midterm-spend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 00:15:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk: Jensen Huang irreplaceable, regrets midterm spend"
+    },
+    {
+     "title": "Panoro Energy ASA GAAP EPS of $0.05, revenue of $114.28M",
+     "link": "https://seekingalpha.com/news/4674506-panoro-energy-asa-gaap-eps-of-005-revenue-of-11428m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 00:15:02 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Panoro Energy ASA GAAP EPS of $0.05, revenue of $114.28M"
+    },
+    {
+     "title": "British Land Company Non-GAAP EPS of 16.10p, net rental income of £264M; upgrades FY27 underlying EPS guidance",
+     "link": "https://seekingalpha.com/news/4674505-british-land-company-non-gaap-eps-of-1610p-net-rental-income-of-264m-upgrades-fy27-underlying-eps-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 00:12:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "British Land Company Non-GAAP EPS of 16.10p, net rental income of £264M; upgrades FY27 underlying EPS guidance"
+    },
+    {
      "title": "Banco Santander (Brasil) S.A. reports Q3 results",
      "link": "https://seekingalpha.com/news/4674504-banco-santander-brasil-sa-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 00:03:28 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Banco Santander (Brasil) S.A. reports Q3 results"
+    },
+    {
+     "title": "欢聚三季度收入增15.6%，直播之外找到第二增长曲线",
+     "link": "https://wallstreetcn.com/articles/3786257",
+     "pubDate": "Thu, 19 Nov 2026 13:00:31 +0800",
+     "summary": "欢聚集团的转型，走到了收入与利润反向的一个季度。 11月19日，欢聚集团（ JOYY.US ）发布2026年第三季度未经审计业绩：总收入6.246亿美元，同比增长15.6%，环比增长5.7%，高于市场预期；三大业务线全部正增长。 分业务看，社交娱乐收入4.41亿美元，同比增长8.8%；BIGO Ads收入1.457亿美元，同比增长39.6%；SHOPLINE收入3780万美元，同比增长24.7%。 非直播收入合计2.047亿美元，同比增长34.9%，占总收入的比例升至32.8%。 广告是降低直播依赖度的主力，BIGO Audience Network收入同比增长52.3%，SDK接入流量增长5",
+     "source": "华尔街见闻",
+     "zh": "欢聚三季度收入增15.6%，直播之外找到第二增长曲线"
     },
     {
      "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
@@ -2305,46 +2377,6 @@
      "zh": "Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses"
     },
     {
-     "title": "Thursday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4674231-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Thursday’s Economic Calendar"
-    },
-    {
-     "title": "Soitec SA GAAP EPS of -€1.25, revenue of €317M; updates FY2026 outlook",
-     "link": "https://seekingalpha.com/news/4674503-soitec-sa-gaap-eps-of-125-revenue-of-317m-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 23:59:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Soitec SA GAAP EPS of -€1.25, revenue of €317M; updates FY2026 outlook"
-    },
-    {
-     "title": "Emmaus Life Sciences GAAP EPS of -$0.07, revenue of $1.9M",
-     "link": "https://seekingalpha.com/news/4674502-emmaus-life-sciences-gaap-eps-of--007-revenue-of-19m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 23:56:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Emmaus Life Sciences GAAP EPS of -$0.07, revenue of $1.9M"
-    },
-    {
-     "title": "JOYY beats top-line and bottom-line estimates; gives Q4 outlook",
-     "link": "https://seekingalpha.com/news/4674501-joyy-beats-top-line-and-bottom-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 23:54:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "JOYY beats top-line and bottom-line estimates; gives Q4 outlook"
-    },
-    {
-     "title": "Vodafone Group GAAP EPS of -€0.21, revenue of €21.9B",
-     "link": "https://seekingalpha.com/news/4674499-vodafone-group-gaap-eps-of-021-revenue-of-219b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 23:50:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vodafone Group GAAP EPS of -€0.21, revenue of €21.9B"
-    },
-    {
      "title": "萨洛蒙单季营收首超始祖鸟，丁少翔进入亚玛芬董事会",
      "link": "http://www.eeo.com.cn/2026/1119/1096941.shtml",
      "pubDate": "Thu, 19 Nov 2026 12:44:54 +0800",
@@ -2361,12 +2393,12 @@
      "zh": "“医药行业任正非”交班下一代"
     },
     {
-     "title": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌2%，腾讯大跌近7%",
-     "link": "https://wallstreetcn.com/articles/3786248",
-     "pubDate": "Thu, 19 Nov 2026 12:07:22 +0800",
-     "summary": "腾讯周四股价跌至2025年2月以来新低，此前 最新财报 显示，WorkBuddy日活突破1000万，最近七天年化收入超5亿美元，三季度收入是二季度的5倍以上；云业务收入增速从21%加快至35%，模型即服务收入环比增长超三倍。与此同时，算力约束正影响混元下一代模型训练进度。与此同时，Q3自由现金流为负691亿元。 11月19日，A股低开低走后小幅回升，三大股指午盘均小幅下跌，科创50逆势翻红，盘初一度跌超2%，晶圆产业、先进封装、半导体硅片、光刻机等拉升，中芯国际、华虹宏力强势走强，白色家电、电力、券商等少数板块逆势活跃。服务器、AI短剧、贵金属等板块显著调整。 港股早盘低开低走，恒指、恒科指双",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指齐跌，科创50逆势涨1%，华虹、中芯国际大涨，恒科指跌2%，腾讯大跌近7%"
+     "title": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934926738.html",
+     "pubDate": "Thu, 19 Nov 2026 12:08:30 +0800",
+     "summary": "中共中央总书记、国家主席、中央军委主席习近平近日对老龄工作作出重要指示指出，党的十八大以来，我国老龄工作取得新进展新成效，养老事业和养老产业快速发展，广大老年人获得感、幸福感、安全感持续增强。 习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，深入实施积极应对人口老龄化国家战略，坚持政府、市场、社会、家庭协同发力，进一步加强老年人社会保障、养老服务、健康服务、社会参与，大力发展银发经济，营造孝老敬老良好环境，建设老年友好社会，努力让老年人的生活更加幸福美满。 全国老龄工作会议18日至19日在京召开。会上传达了习近平重要指示。中共中央政治局常委、国务院总理李强出席会议并讲话。 李强在讲",
+     "source": "东方财富资讯",
+     "zh": "习近平：深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满"
     },
     {
      "title": "高盛谈圣诞行情：12月15日前先跌后涨，散户成最后买盘",
@@ -2417,12 +2449,12 @@
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
-     "link": "https://wallstreetcn.com/articles/3786214",
-     "pubDate": "Thu, 19 Nov 2026 11:34:04 +0800",
-     "summary": "腾讯交出一份被AI重塑的季度成绩单：云业务增速从21%跳升至35%，WorkBuddy日活突破1000万、年化收入超5亿美元，管理层定调——\"AI让现有业务用更少的人，多出来的人去建新业务。\" 周三晚间，腾讯2026年第三季度财报电话会召开，公司创始人兼CEO马化腾、总裁刘炽平、高级执行副总裁兼首席战略官詹姆斯·米歇尔（James Mitchell）以及CFO罗硕瀚参与本次电话会。 腾讯总裁刘炽平在电话会上坦承， 旗下AI助手产品元宝未能达到预期成功，公司已大幅削减对该产品的投入，战略重心转向企业AI应用WorkBuddy与微信内置助手小微。 腾讯财报称，按大语言模型 词元（token）消耗量",
-     "source": "华尔街见闻",
-     "zh": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功"
+     "title": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934917571.html",
+     "pubDate": "Thu, 19 Nov 2026 11:30:01 +0800",
+     "summary": "A股三大指数小幅下跌，科创50指数涨近1%。盘面上， IGBT概念 、 电子 化学品、 光刻胶 、 光刻机 、 先进封装 、 高带宽内存 走强， 厨卫电器 、 影视院线 、 快手概念 、 广告营销 、 数字媒体 、 短剧互动游戏 跌幅居前。 截至午间收盘，沪指下跌0.44%，报3571.99点；深成指下跌0.51%，报10604.52点；创业板指下跌0.63%，报2297.02点；科创50指数上涨0.98%，报1260.28点；北证50指数下跌2.29%，报812.82点。全市场上涨个股有890家，下跌个股有4592家，23只股涨停。两市半日合计成交7859亿。 今日要闻 凌晨！黄仁勋传出大消",
+     "source": "东方财富资讯",
+     "zh": "科创50指数上涨0.98% 半导体产业链活跃 影视院线连续大跌"
     },
     {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -2433,12 +2465,28 @@
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
-     "title": "就在今晚，“最大IPO”，“最火爆游戏”一起发行！",
-     "link": "https://wallstreetcn.com/articles/3786251",
-     "pubDate": "Thu, 19 Nov 2026 10:57:00 +0800",
-     "summary": "Anthropic以史上最大规模IPO登陆纳斯达克，GTA 6发售预购收入已超16.5亿美元，两大事件叠加， 令11月19日成为近年来资本市场与娱乐产业罕见的“超级星期四”。 周四（11月19日），AI公司Anthropic将以每股83美元的定价在纳斯达克挂牌交易，股票代码“ANT”，完全稀释后估值约1.5万亿美元，总募资规模突破1070亿美元，刷新全球IPO纪录。与此同时，Rockstar Games旗下《侠盗猎车手6》（GTA 6）于同日正式解锁，预购销售额已达16.5亿美元，Metacritic评分高达99分，分析师预计首周全球销售额最高可达50亿美元。 两大事件同日引爆，市场影响已提前",
-     "source": "华尔街见闻",
-     "zh": "就在今晚，“最大IPO”，“最火爆游戏”一起发行！"
+     "title": "7分钟 3股直线涨停！外围变数引爆光刻胶赛道",
+     "link": "http://finance.eastmoney.com/news/1354,202611193934917162.html",
+     "pubDate": "Thu, 19 Nov 2026 11:27:36 +0800",
+     "summary": "国产替代逻辑强化的时候， 光刻胶 都会有异动！ 今早开盘后7分钟之内， 光刻胶 概念 格林达 、 盛剑科技 、 红宝丽 皆以直线拉升姿态封死涨停板，其中 格林达 和 红宝丽 皆在两分钟内封板。 宝丽迪 、 怡达股份 、 江化微 、 捷众科技 等大涨。 那么， 光刻胶 缘何异动？ 分析人士认为，从昨晚开始，“三星流片”一事开始在市场发酵，并迅速改变市场预期，国产替代逻辑亦因此走顺。而每当这个逻辑得到强化时，光刻胶板块都会有一定反应。 事实上，最近， 光刻机 相关板块频有行情。前天，盘面最大的热点也是 光刻机 概念，当日 国林科技 和 联合化学 20%涨停， 茂莱光学 、 海立股份 、 波长光电 ",
+     "source": "东方财富资讯",
+     "zh": "7分钟 3股直线涨停！外围变数引爆光刻胶赛道"
+    },
+    {
+     "title": "GPU赛道全线崩跌 发生了什么？",
+     "link": "http://finance.eastmoney.com/news/11822,202611193934914944.html",
+     "pubDate": "Thu, 19 Nov 2026 11:24:50 +0800",
+     "summary": "11月19日早盘， GPU概念股集体走低 ，千亿巨头们遭遇“滑铁卢”。其中，燧原科技20cm跌停， 海光信息 大跌超16%，沐曦股份跌14%，摩尔线程跌10%， 寒武纪 跌3%；港股 天数智芯 暴跌26%， 壁仞科技 跌超9%。 与此同时，主营晶圆代工的 中芯国际 、 华虹宏力 A+H股均逆势大涨。 就在上周，国产GPU还是市场最强主线，本周为何风云突变？ 综合 市场观点，导火索或来自海外新规以及一则产业传闻，国产GPU正遭遇“ 供给端 ”重新定价。 新规、断供与传闻持续发酵 首要冲击来自美国BIS的新规落地。美国商务部工业与安全局（BIS）于当地时间11月16日发布临时最终规则，拟于19日刊",
+     "source": "东方财富资讯",
+     "zh": "GPU赛道全线崩跌 发生了什么？"
+    },
+    {
+     "title": "临近午盘部分宽基ETF显著放量 科创50ETF易方达成交近40亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611193934914855.html",
+     "pubDate": "Thu, 19 Nov 2026 11:24:36 +0800",
+     "summary": "临近午盘，多只宽基ETF显著放量，科创50ETF易方达（588080）放量拉升翻红，成交近40亿， 中证500 ETF南方（510500）成交超30亿元，均超上一日全天成交额，沪深300ETF华泰柏瑞（510300）15分钟内成交超10亿元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "临近午盘部分宽基ETF显著放量 科创50ETF易方达成交近40亿"
     },
     {
      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
@@ -2449,60 +2497,12 @@
      "zh": "Musk says Jensen Huang is irreplaceable, regrets midterm spending"
     },
     {
-     "title": "Trump meets ‘my friend’ Putin ahead of trilateral with Xi",
-     "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
-     "pubDate": "Thu, 19 Nov 2026 01:31:05 GMT",
-     "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
-     "source": "Financial Times",
-     "zh": "Trump meets ‘my friend’ Putin ahead of trilateral with Xi"
-    },
-    {
-     "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "pubDate": "Thu, 19 Nov 2026 01:13:20 GMT",
-     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
-    },
-    {
-     "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 01:02:00 GMT",
-     "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-     "source": "MarketWatch",
-     "zh": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 00:30:00 GMT",
-     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
-    },
-    {
-     "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-     "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-     "pubDate": "Thu, 19 Nov 2026 00:08:14 GMT",
-     "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
-     "source": "CNBC",
-     "zh": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access"
-    },
-    {
-     "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-     "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-     "pubDate": "Thu, 19 Nov 2026 00:07:06 GMT",
-     "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
-     "source": "CNBC",
-     "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
-    },
-    {
-     "title": "Singapore sets national AI missions for financial services",
-     "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
-     "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
-     "source": "Finextra",
-     "zh": "Singapore sets national AI missions for financial services"
+     "title": "油价回落叠加票价修复 7只航空机场股明年业绩有望翻倍(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611193934900283.html",
+     "pubDate": "Thu, 19 Nov 2026 10:47:15 +0800",
+     "summary": "国际油价高位回落，国内机票价格同比修复， 航空机场 板块利好积聚。 东方财富 Choice数据显示， 7只A股 2027年 归母净利润有望翻倍增长 。 布伦特原油回落至93美元附近 财联社11月18日报道，国际油价单日重挫逾3%后小幅反弹， 布伦特原油回落至93美元附近 ，国际能源署预计四季度全球原油供应过剩170万桶/日。国内方面，11月17日燃料油 期货 跌逾6%，原油 期货 主力合约跌约6%，报581元/桶附近。 油价回落之际，航空票价也在修复。飞常准、 携程 数据显示，10月民航旅客运输量0.65亿人次，同比下降3%，环比增长2%，较2019年同期增长15%； 平均单程机票价格875元",
+     "source": "东方财富资讯",
+     "zh": "油价回落叠加票价修复 7只航空机场股明年业绩有望翻倍(名单)"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 03:32:15",
+ "generated_at": "2026/11/20 03:52:09",
  "recent_days": 7,
  "industries": [
   {
@@ -873,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "EU Moves to Overhaul Emergency Oil Stockpiles",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
+     "pubDate": "Thu, 19 Nov 2026 13:30:00 -0600",
+     "summary": "The European Union wants countries to stockpile the fuels they actually use, following a nine-month Middle East conflict that has exposed a problem with Europe's emergency oil reserves: having enough oil in storage doesn't necessarily mean having enough diesel or jet fuel. The European Commission is",
+     "source": "OilPrice",
+     "zh": "EU Moves to Overhaul Emergency Oil Stockpiles"
+    },
+    {
      "title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Faces-a-Looming-Water-Crisis-as-Glaciers-Retreat.html",
      "pubDate": "Thu, 19 Nov 2026 13:00:00 -0600",
@@ -924,7 +932,7 @@
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -959,14 +967,6 @@
      "summary": "We hear from the head of market strategy & public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today.",
      "source": "Energy Storage News",
      "zh": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe"
-    },
-    {
-     "title": "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
-     "link": "https://oilprice.com/Energy/Energy-General/AI-Jitters-Havent-Slowed-the-Bet-on-US-Power-Demand.html",
-     "pubDate": "Thu, 19 Nov 2026 10:00:00 -0600",
-     "summary": "We finally have hard data to show us exactly how much energy data centers are using in the United States, and the results are staggering. Driven by the artificial intelligence boom, energy-hungry data centers are popping up in record numbers around the country and driving up domestic energy demand a",
-     "source": "OilPrice",
-     "zh": "AI Jitters Haven't Slowed the Bet on U.S. Power Demand"
     },
     {
      "title": "SolarEdge debuts dual-module power optimizer",
@@ -1076,7 +1076,7 @@
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1121,6 +1121,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Congressional biotech commission warns of China deal flow",
+     "link": "https://endpoints.news/congressional-biotech-commission-warns-of-china-deal-flow/",
+     "pubDate": "Thu, 19 Nov 2026 19:40:07 +0000",
+     "summary": "A bipartisan congressional panel that has steered much of the discourse on US biotech competitiveness is using its final weeks to highlight, and warn about, licensing deals with Chinese peers. The National Security Commission on ...",
+     "source": "Endpoints News",
+     "zh": "Congressional biotech commission warns of China deal flow"
+    },
+    {
      "title": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher",
      "link": "https://endpoints.news/sanofis-infilbray-wins-first-approval-for-neurological-symptoms-of-gaucher/",
      "pubDate": "Thu, 19 Nov 2026 19:18:12 +0000",
@@ -1161,12 +1169,12 @@
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1207,14 +1215,6 @@
      "summary": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research",
      "source": "STAT News",
      "zh": "National Academies report calls for faster decisions on publication retractions and corrections"
-    },
-    {
-     "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
-     "link": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
-     "pubDate": "Thu, 19 Nov 2026 15:34:02 +0000",
-     "summary": "Novartis touted a mid-stage win for its eczema drug, revealed it is working toward restarting trials of its autoimmune CAR-T cell therapy and slightly trimmed the top of its sales-growth guidance through 2031. CEO Vas ...",
-     "source": "Endpoints News",
-     "zh": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter"
     },
     {
      "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
@@ -1457,14 +1457,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1521,14 +1513,6 @@
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1545,20 +1529,28 @@
      "zh": "How AI is pushing satellites to evolve"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
      "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
      "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1796,7 +1788,7 @@
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 8 # Comments: 3",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 11 # Comments: 8",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1812,7 +1804,7 @@
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 2 # Comments: 1",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 11 # Comments: 3",
      "source": "Hacker News",
      "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
     },
@@ -1884,7 +1876,7 @@
      "title": "Claude solves two open problems in the physics of black holes",
      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 161 # Comments: 42",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 170 # Comments: 44",
      "source": "Hacker News",
      "zh": "Claude solves two open problems in the physics of black holes"
     },
@@ -1900,7 +1892,7 @@
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "link": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
-     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 30 # Comments: 3",
+     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 63 # Comments: 7",
      "source": "Hacker News",
      "zh": "Pancreatic cancer halted by virus injection in three patients"
     },
@@ -1916,7 +1908,7 @@
      "title": "Anthropic hits $2T in Nasdaq debut",
      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 362 # Comments: 530",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 405 # Comments: 594",
      "source": "Hacker News",
      "zh": "Anthropic hits $2T in Nasdaq debut"
     },
@@ -1932,7 +1924,7 @@
      "title": "Chrome AI features wasting much bandwidth",
      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
      "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
-     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 76 # Comments: 22",
+     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 81 # Comments: 25",
      "source": "Hacker News",
      "zh": "Chrome AI features wasting much bandwidth"
     },
@@ -2025,12 +2017,44 @@
    "total": 7,
    "items": [
     {
+     "title": "Honor just supercharged its smartwatch lineup with a new Pro model",
+     "link": "https://9to5google.com/2026/11/19/honor-just-supercharged-its-smartwatch-lineup-with-a-new-pro-model/",
+     "pubDate": "Thu, 19 Nov 2026 19:41:23 +0000",
+     "summary": "The Honor Watch 6 Pro has a 5,500-nit OLED display, ceramic bezel, 18-day battery life, and costs less than it looks. more…",
+     "source": "9to5Google",
+     "zh": "Honor just supercharged its smartwatch lineup with a new Pro model"
+    },
+    {
+     "title": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes",
+     "link": "https://9to5mac.com/2026/11/19/happy-hour-617/",
+     "pubDate": "Thu, 19 Nov 2026 19:35:11 +0000",
+     "summary": "Benjamin and Chance discuss their HomeView experiences and Siri reliability issues after a week of the product being in the world. Benjamin also tests the new Apple TV surround sound feature. And the latest 27.3 betas bring a bunch of changes including face unlock on iPhone Duo and redesigned Full D",
+     "source": "9to5Mac",
+     "zh": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes"
+    },
+    {
+     "title": "Google launches Gemini 4 Neon, its new mid-tier AI model",
+     "link": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php",
+     "pubDate": "Thu, 19 Nov 2026 20:33:02 +0100",
+     "summary": "Google has just announced Gemini 4 Neon, the latest member of its Gemini 4 family of AI models. According to the company, it brings frontier-level intelligence with fast end-to-end task completion across software engineering, knowledge work, and science workflows. Google pits Neon against Claude Opu",
+     "source": "GSMArena",
+     "zh": "Google launches Gemini 4 Neon, its new mid-tier AI model"
+    },
+    {
      "title": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal",
      "link": "https://9to5google.com/2026/11/19/at-600-the-pixel-10-is-this-years-no-brainer-black-friday-smartphone-deal/",
      "pubDate": "Thu, 19 Nov 2026 19:18:00 +0000",
      "summary": "Phones have gotten a lot more expensive over the last year or so, and it’s a trend we’re expecting to get worse before it can get better. If you’re in the market for an upgrade, this year’s Black Friday might be one of the final truly good times to buy a new device, and for just $600, last year’s Pi",
      "source": "9to5Google",
      "zh": "At $600, the Pixel 10 is this year’s no-brainer Black Friday smartphone deal"
+    },
+    {
+     "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+     "link": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+     "pubDate": "Thu, 19 Nov 2026 19:16:42 +0000",
+     "summary": "The platform will air \"every qualifying session and race throughout the season.\"",
+     "source": "Engadget",
+     "zh": "Apple TV expands its racing coverage with the all-female F1 Academy"
     },
     {
      "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
@@ -2153,14 +2177,6 @@
      "zh": "Motorola Edge 2026 gets a record $200 Black Friday price cut"
     },
     {
-     "title": "You won't find this fan favorite feature in GTA 6",
-     "link": "https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6/",
-     "pubDate": "Thu, 19 Nov 2026 17:23:58 +0000",
-     "summary": "Replaying missions is possible, but not easy.",
-     "source": "Engadget",
-     "zh": "You won't find this fan favorite feature in GTA 6"
-    },
-    {
      "title": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords",
      "link": "https://9to5google.com/2026/11/19/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
      "pubDate": "Thu, 19 Nov 2026 17:18:51 +0000",
@@ -2183,22 +2199,6 @@
      "summary": "iOS 27 gave AirPods Pro a variety of new features , but there’s another addition that’s easy to miss: a convenient new setting in Control Center for Adaptive Audio. more…",
      "source": "9to5Mac",
      "zh": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it"
-    },
-    {
-     "title": "AI features could be turned off with a simple toggle, Canva proves",
-     "link": "https://9to5google.com/2026/11/19/canva-ai-features-toggle/",
-     "pubDate": "Thu, 19 Nov 2026 17:10:00 +0000",
-     "summary": "AI has taken over everything in the past few years, with AI features bombarding virtually every app or service available. If you’ve ever wanted to just turn off AI features, Canva proves that it could be a simple toggle, if companies actually wanted to give you a choice. more…",
-     "source": "9to5Google",
-     "zh": "AI features could be turned off with a simple toggle, Canva proves"
-    },
-    {
-     "title": "Halide camera app just got even better for iPhone Duo",
-     "link": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
-     "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-     "summary": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use the outer screen on iPhone Duo as a live preview or a fill flash. It brings back a few camera tools",
-     "source": "9to5Mac",
-     "zh": "Halide camera app just got even better for iPhone Duo"
     },
     {
      "title": "Fitbit Edge owners are complaining about the lack of hourly movement reminders",
@@ -2255,14 +2255,6 @@
      "summary": "Amazon Germany has too many deals to fit in one day, so it did the sensible thing – it extended the sales campaign to a full week. Here are the best offers that we found. Note that we weren’t kidding when we said that there are too many deals, so we’ve tried to organize the offers in categories – us",
      "source": "GSMArena",
      "zh": "Black Friday deals from Amazon Germany: deals ranging from flagship to mid-range"
-    },
-    {
-     "title": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5",
-     "link": "https://www.gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php",
-     "pubDate": "Thu, 19 Nov 2026 14:07:03 +0100",
-     "summary": "Samsung announced the One UI 9.5 beta program for the Galaxy S26 series yesterday. One UI 9.5 brings several new features, including App Lock and Floating shortcuts. With future One UI 9.5 updates, Samsung could bring more features to Galaxy smartphones, including native Open Gate video recording an",
-     "source": "GSMArena",
-     "zh": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5"
     }
    ]
   },
@@ -2273,9 +2265,57 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+     "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+     "pubDate": "Thu, 19 Nov 2026 19:43:08 GMT",
+     "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+     "source": "CNBC",
+     "zh": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew"
+    },
+    {
+     "title": "Why Micron, Broadcom and other AI stocks have given up their gains",
+     "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 19:43:00 GMT",
+     "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+     "source": "MarketWatch",
+     "zh": "Why Micron, Broadcom and other AI stocks have given up their gains"
+    },
+    {
+     "title": "ServiceNow created AI tool to go after Salesforce customers: report",
+     "link": "https://seekingalpha.com/news/4674860-servicenow-created-ai-tool-to-go-after-salesforce-customers-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 14:38:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ServiceNow created AI tool to go after Salesforce customers: report"
+    },
+    {
+     "title": "Hedge funds trim AMD stakes in Q3 as two exit entirely",
+     "link": "https://seekingalpha.com/news/4674360-hedge-funds-trim-amd-stakes-in-q3-as-two-exit-entirely?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 14:35:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hedge funds trim AMD stakes in Q3 as two exit entirely"
+    },
+    {
+     "title": "Bloom Energy upgraded at BMO as order momentum builds",
+     "link": "https://seekingalpha.com/news/4674855-bloom-energy-upgraded-at-bmo-as-order-momentum-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 14:32:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bloom Energy upgraded at BMO as order momentum builds"
+    },
+    {
+     "title": "Gemini gains ability to navigate Mac apps for users",
+     "link": "https://seekingalpha.com/news/4674857-gemini-gains-ability-to-navigate-mac-apps-for-users?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 14:31:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gemini gains ability to navigate Mac apps for users"
+    },
+    {
      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-     "pubDate": "Thu, 19 Nov 2026 19:27:34 GMT",
+     "pubDate": "Thu, 19 Nov 2026 19:29:31 GMT",
      "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
      "source": "CNBC",
      "zh": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City"
@@ -2297,14 +2337,6 @@
      "zh": "Williams-Sonoma reiterates FY2026 outlook of 4% to 6.5% comp growth as it flags Q4 shrink lap and oil-driven freight pressure"
     },
     {
-     "title": "Judge rejects New York Times' bid to block Trump's $15B defamation lawsuit",
-     "link": "https://seekingalpha.com/news/4674856-judge-rejects-new-york-times-bid-to-block-trumps-15b-defamation-lawsuit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:20:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Judge rejects New York Times' bid to block Trump's $15B defamation lawsuit"
-    },
-    {
      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
      "pubDate": "Thu, 19 Nov 2026 19:19:25 GMT",
@@ -2321,22 +2353,6 @@
      "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
     },
     {
-     "title": "Biohaven rises after early-stage trial data for cancer therapy",
-     "link": "https://seekingalpha.com/news/4674854-biohaven-stock-rises-cancer-therapy-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:14:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Biohaven rises after early-stage trial data for cancer therapy"
-    },
-    {
-     "title": "Most of 2026’s 15 biggest tech IPOs now trade below day 1 close - DataTrek",
-     "link": "https://seekingalpha.com/news/4674853-most-of-2026-s-15-biggest-tech-ipos-now-trade-below-day-1-close-datatrek?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:13:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Most of 2026’s 15 biggest tech IPOs now trade below day 1 close - DataTrek"
-    },
-    {
      "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
      "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 19:13:00 GMT",
@@ -2351,14 +2367,6 @@
      "summary": "特朗普9月在英伟达股票上的买卖操作，因政策利益冲突问题再度引发外界关注。 据周四公开的最新财务披露文件， 美国总统特朗普9月买入总价最高达26.5万美元的英伟达股票，同期卖出最高1.5万美元 。联邦官员在财务披露表格中以区间形式申报资产价值。这份披露由特朗普于11月1日签署，由美国政府伦理办公室对外发布。 与此同时，特朗普政府正就英伟达先进芯片出口政策展开讨论，相关决定将直接影响这家芯片巨头的业务前景。 这一买入动作发生在黄仁勋婚外情丑闻曝光前，9月英伟达股价运行在210至230区间，目前已经跌至150。 特朗普本人表示，对于有关黄仁勋的相关指控，他感到\"震惊\"。 美国国会议员已就特朗普对黄仁",
      "source": "华尔街见闻",
      "zh": "特朗普9月高位买入英伟达站岗，SpaceX也加仓了"
-    },
-    {
-     "title": "Insmed may be worth $170 to $210 a share in takeover, analyst",
-     "link": "https://seekingalpha.com/news/4674846-insmed-may-be-worth-170-to-210-a-share-in-takeover-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:01:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insmed may be worth $170 to $210 a share in takeover, analyst"
     },
     {
      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
@@ -2383,14 +2391,6 @@
      "summary": "‘So probably if I could rewind the clock, I would have spent less money,’ Tesla CEO says of his outlays for Republican candidates",
      "source": "MarketWatch",
      "zh": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms"
-    },
-    {
-     "title": "UK pensions dashboard set for summer 2027 launch",
-     "link": "https://www.finextra.com/newsarticle/48788/uk-pensions-dashboard-set-for-summer-2027-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 19 Nov 2026 18:41:00 GMT",
-     "summary": "The UK's first pensions dashboard is slated to finally launch next summer, providing millions of Brits with access to their information in one single, online location.",
-     "source": "Finextra",
-     "zh": "UK pensions dashboard set for summer 2027 launch"
     },
     {
      "title": "也门胡塞武装称：袭击了沙特利雅得的哈立德国王机场和哈米斯穆谢特的IR基地",
@@ -2457,28 +2457,12 @@
      "zh": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超11%"
     },
     {
-     "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 18:15:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?"
-    },
-    {
      "title": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜",
      "link": "https://wallstreetcn.com/articles/3786309",
      "pubDate": "Fri, 20 Nov 2026 02:03:18 +0800",
      "summary": "Anthropic的首次公开募股创下历史新高，但极度火爆的需求也意味着绝大多数竞购机构最终空手而归。 据彭博援引知情人士透露， 此次IPO的股份分配向美国本土投资者高度倾斜，超过半数参与认购的机构投资者未获得任何配售。来自美国境外的大量订单几乎被全部忽略，欧洲投资者尤为如此。约1200家机构投资者参与了此次认购。 Anthropic本次IPO连同七位联合创始人合计募资1073亿美元，从SpaceX手中夺得史上最大规模首次公开发行的桂冠。公司的完全摊薄市值定格于1.5万亿美元。 作为美股首家以开发顶尖AI模型为核心业务的公司，Anthropic此次上市具有重要的市场标志性意义。 配售严重向美国本",
      "source": "华尔街见闻",
      "zh": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜"
-    },
-    {
-     "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-     "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-     "pubDate": "Thu, 19 Nov 2026 17:59:04 GMT",
-     "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-     "source": "CNBC",
-     "zh": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew"
     },
     {
      "title": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿",
@@ -2511,6 +2495,14 @@
      "summary": "11月19日下午，国家 主席习 近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 普京说：“我要感谢中方和习主席组织今天的俄中美元首会晤。我坚信，俄罗斯、中国和美国以及我们三国人民，如果能够在相互尊重、平等和遵守利益平衡的基础上开展建设性、伙伴式合作，便能为加强世界安全与稳定作出重要贡献。” 本文来源： 央视新闻 ，原文标题：《普京：感谢中方和习主席组织今天的俄中美元首会晤》。 本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "普京：感谢中方和习主席组织今天的俄中美元首会晤"
+    },
+    {
+     "title": "Anthropic soars in Wall Street debut",
+     "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+     "pubDate": "Thu, 19 Nov 2026 16:19:06 GMT",
+     "summary": "AI giant begins trading after raising $81bn in record IPO",
+     "source": "Financial Times",
+     "zh": "Anthropic soars in Wall Street debut"
     }
    ]
   },

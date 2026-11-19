@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 07:59:04",
+ "generated_at": "2026/11/19 08:12:03",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+     "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
      "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
      "source": "TechCrunch AI",
-     "zh": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’"
+     "zh": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’"
     },
     {
      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
@@ -258,6 +258,54 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Nvidia's interim CEO tells staff \"let's move forward\" at first all-hands since Huang's exit",
+     "link": "https://www.digitimes.com/news/a20261119VL200/nvidia-ceo-staff-earnings-jensen-huang.html",
+     "pubDate": "Wed, 18 Nov 2026 23:55:48 GMT",
+     "summary": "Nvidia put a lineup of long-serving executives on stage at its first company-wide meeting since Jensen Huang's resignation, in what The Information described as a show of solidarity, even as a vocal part of the workforce pushes for the founder's return and the board searches for his permanent succes",
+     "source": "DIGITIMES",
+     "zh": "Nvidia's interim CEO tells staff \"let's move forward\" at first all-hands since Huang's exit"
+    },
+    {
+     "title": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
+     "link": "https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html",
+     "pubDate": "Wed, 18 Nov 2026 23:54:47 GMT",
+     "summary": "Tencent's third-quarter results showed the cost of turning its artificial-intelligence push into products and infrastructure: demand remained broad across advertising, cloud and domestic games, but reported operating profit contracted as the company scaled AI development and compute procurement. The",
+     "source": "DIGITIMES",
+     "zh": "Tencent's revenue rises 8% as AI spending weighs on operating profit"
+    },
+    {
+     "title": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
+     "link": "https://www.digitimes.com/news/a20261118VL216/sk-hynix-hbm4-packaging-equipment-2027.html",
+     "pubDate": "Wed, 18 Nov 2026 23:50:14 GMT",
+     "summary": "SK Hynix is seeking deliveries of additional HBM4 packaging and testing equipment by early 2027 as the South Korean memory chipmaker prepares to expand production capacity to meet growing demand for AI memory.",
+     "source": "DIGITIMES",
+     "zh": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery"
+    },
+    {
+     "title": "Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution",
+     "link": "https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html",
+     "pubDate": "Wed, 18 Nov 2026 23:49:35 GMT",
+     "summary": "Arivor Technologies, a subsidiary of Aewin Technologies under Qisda Group, is showcasing its rack-level two-phase direct liquid cooling (2P DLC) solution at SuperComputing 2026 (SC26). Tailored for high-performance computing (HPC) and AI data centers, the system supports a total rack cooling capacit",
+     "source": "DIGITIMES",
+     "zh": "Qisda's Arivor unveils 200kW-per-rack two-phase direct liquid cooling solution"
+    },
+    {
+     "title": "Netronix, Kobo aim for a second breakout with full-color e-reader",
+     "link": "https://www.digitimes.com/news/a20261118PD246/netronix-e-paper-e-reader-production-shipments.html",
+     "pubDate": "Wed, 18 Nov 2026 23:48:54 GMT",
+     "summary": "Netronix says its order visibility extends through the second quarter of 2027, when a major customer is due to launch a next-generation full-color e-reader. Netronix will be the sole supplier for the global debut. In the near term, higher retail prices have slowed e-reader sales, and the company exp",
+     "source": "DIGITIMES",
+     "zh": "Netronix, Kobo aim for a second breakout with full-color e-reader"
+    },
+    {
+     "title": "US tightens AI chip controls, freezing ByteDance's US$480 million loan",
+     "link": "https://www.digitimes.com/news/a20261118PD251/loan-bytedance-ai-chip-chips-financing.html",
+     "pubDate": "Wed, 18 Nov 2026 23:48:23 GMT",
+     "summary": "Banks have frozen a US$480 million loan intended to purchase advanced Nvidia chips for remote use by ByteDance, the parent company of TikTok, after the US tightened AI chip export controls on November 16.",
+     "source": "DIGITIMES",
+     "zh": "US tightens AI chip controls, freezing ByteDance's US$480 million loan"
+    },
+    {
      "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
      "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
      "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
@@ -408,54 +456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Demand for electric commercial vehicles continues to grow, driven by sustainability goals, regulatory requirements and government incentives. At the same time, vehicle manufacturers are facing increasingly stringent performance and reliability demands, including harsh vibration environments, intense",
      "source": "Semiconductor Today",
      "zh": "Infineon introduces HybridPACK HD power module for electric commercial vehicle drivetrain inverters"
-    },
-    {
-     "title": "Nvidia's fiscal 2028 supply commitments more than double to US$203 billion",
-     "link": "https://www.digitimes.com/news/a20261118VL226/nvidia-hbm-memory-2028.html",
-     "pubDate": "Wed, 18 Nov 2026 10:10:42 GMT",
-     "summary": "Nvidia's supply and capacity commitments for fiscal 2028 more than doubled to US$203 billion over the past quarter, as multi-year memory procurement agreements drove a sharp increase in the AI chipmaker's future purchasing obligations.",
-     "source": "DIGITIMES",
-     "zh": "Nvidia's fiscal 2028 supply commitments more than double to US$203 billion"
-    },
-    {
-     "title": "GlobalFoundries' US-Japan fabs target chips that AI investment risks leaving behind",
-     "link": "https://www.digitimes.com/news/a20261118VL221/globalfoundries-usa-japan-fab-investment-chips-manufacturing.html",
-     "pubDate": "Wed, 18 Nov 2026 09:16:27 GMT",
-     "summary": "The US semiconductor landscape is being reshaped by mounting AI investment, as infrastructure-scale projects continue to pull capital and manufacturing attention toward advanced compute at unprecedented scale.",
-     "source": "DIGITIMES",
-     "zh": "GlobalFoundries' US-Japan fabs target chips that AI investment risks leaving behind"
-    },
-    {
-     "title": "Taiwan completes Asia's largest single offshore wind project off central coast, connecting 1 GW of capacity to supply TSMC in 2027",
-     "link": "https://www.digitimes.com/news/a20261118PD227/taiwan-offshore-wind-capacity-tsmc-2027.html",
-     "pubDate": "Wed, 18 Nov 2026 09:07:26 GMT",
-     "summary": "Taiwan's Hai Long Offshore Wind Project has completed construction and connected all 73 turbines to the power grid, marking a major milestone for the island's offshore wind industry. With total installed capacity exceeding 1 gigawatt (GW), the project is expected to enter full commercial operation i",
-     "source": "DIGITIMES",
-     "zh": "Taiwan completes Asia's largest single offshore wind project off central coast, connecting 1 GW of capacity to supply TSMC in 2027"
-    },
-    {
-     "title": "Foxconn deepens Nvidia ties across next-gen GPU, networking platforms",
-     "link": "https://www.digitimes.com/news/a20261118PD249/foxconn-nvidia-gpu-manufacturing-shipments.html",
-     "pubDate": "Wed, 18 Nov 2026 08:58:00 GMT",
-     "summary": "To support the continued build-out of AI infrastructure, Nvidia announced on November 17 that it is expanding cooperation with supply-chain partners including Foxconn, TSMC, Kinsus, Samsung Electro-Mechanics, Amkor, and Siliconware. The collaboration covers package substrates, advanced packaging, wa",
-     "source": "DIGITIMES",
-     "zh": "Foxconn deepens Nvidia ties across next-gen GPU, networking platforms"
-    },
-    {
-     "title": "Nvidia leadership change could open doors for rival AI chipmakers",
-     "link": "https://www.digitimes.com/news/a20261118VL225/nvidia-amd-chips-ceo-google.html",
-     "pubDate": "Wed, 18 Nov 2026 08:58:00 GMT",
-     "summary": "Nvidia's leadership shakeup could provide an opening for its chip rivals, according to several reports. The shakeup could allow competitors, including AMD and Google, to gain a greater share of the AI chip market, but Nvidia's dominance will be difficult to dislodge.",
-     "source": "DIGITIMES",
-     "zh": "Nvidia leadership change could open doors for rival AI chipmakers"
-    },
-    {
-     "title": "AI to lead 2027 smartphone upgrades as market slows",
-     "link": "https://www.digitimes.com/news/a20261118PD204/2027-hardware-2026-price-market.html",
-     "pubDate": "Wed, 18 Nov 2026 08:55:00 GMT",
-     "summary": "Rising memory prices and resulting smartphone price increases are slowing overall shipments in 2026, with industry observers expecting an annual decline of around 17%. As the mature smartphone market faces greater product homogeneity and higher average selling prices in 2027, vendors will increasing",
-     "source": "DIGITIMES",
-     "zh": "AI to lead 2027 smartphone upgrades as market slows"
     },
     {
      "title": "Can AI Agents Really Shift Chip Design Left?",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Google Signs Landmark Superhot Geothermal Deal",
+     "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Google-Signs-Landmark-Superhot-Geothermal-Deal.html",
+     "pubDate": "Wed, 18 Nov 2026 18:00:00 -0600",
+     "summary": "The AI boom and the hyperscalers’ need for round-the-clock clean energy for their data centers meet the next-generation geothermal energy technologies developed by a number of start-ups. In a world first, Google this week signed an agreement with Quaise Energy to use power from the superhot rocks in",
+     "source": "OilPrice",
+     "zh": "Google Signs Landmark Superhot Geothermal Deal"
+    },
+    {
      "title": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies",
      "link": "https://oilprice.com/Energy/Energy-General/Equinor-Hack-Adds-to-Wave-of-Cyberattacks-on-Energy-Companies.html",
      "pubDate": "Wed, 18 Nov 2026 17:00:00 -0600",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Coal throughput at Rotterdam rose 15.3% in the first nine months of 2026. Crude oil and petroleum-product volumes also increased. An inland vessel operator looking only at this year’s cargo market could see decades of work ahead. But an engine, battery conversion or replacement vessel bought now may",
      "source": "CleanTechnica",
      "zh": "Europe’s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan"
-    },
-    {
-     "title": "Copper Heads for Longest Weekly Losing Streak in Two Years",
-     "link": "https://oilprice.com/Metals/Commodities/Copper-Heads-for-Longest-Weekly-Losing-Streak-in-Two-Years.html",
-     "pubDate": "Wed, 18 Nov 2026 12:00:00 -0600",
-     "summary": "Nvidia (Nasdaq: NVDA) beat Wall Street’s revenue forecast by about $6.7 billion on Tuesday night, and copper fell for a fifth straight session on Wednesday. Three-month copper on the London Metal Exchange was down 3.6% at $12,763 a metric ton in early London trading, according to Investing.com. Bloo",
-     "source": "OilPrice",
-     "zh": "Copper Heads for Longest Weekly Losing Streak in Two Years"
     },
     {
      "title": "States of uncertainty",
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both",
+     "link": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
+     "pubDate": "Thu, 19 Nov 2026 00:00:00 +0000",
+     "summary": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
+     "source": "Space.com",
+     "zh": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both"
+    },
+    {
      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
      "pubDate": "Wed, 18 Nov 2026 22:19:17 +0000",
@@ -1336,14 +1344,6 @@ window.INDUSTRY_DATA = {
      "summary": "Astronomers may have, for the first time ever, directly witnessed a star engulfing its stellar companion.",
      "source": "Space.com",
      "zh": "Astronomers witness a star eating its companion in 1st-of-its-kind observation"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1450,14 +1450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Origami and solar arrays"
     },
     {
-     "title": "'Project Hail Mary' is heading back to theaters this December",
-     "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
-     "pubDate": "Wed, 18 Nov 2026 16:24:34 +0000",
-     "summary": "Fist my bump, everyone, because box office smash hit \"Project Hail Mary\" is heading back to theaters.",
-     "source": "Space.com",
-     "zh": "'Project Hail Mary' is heading back to theaters this December"
-    },
-    {
      "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
      "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
@@ -1480,14 +1472,6 @@ window.INDUSTRY_DATA = {
      "summary": "German satellite-components manufacturer Dcubed announced the closing of a €27.2M ($30M) Series A extension round today, which comes in addition to an earlier €4.4M ($4.9M) Series A round, which closed in August 2024. The new capital will fund an expansion of the company’s production facilities in t",
      "source": "Payload",
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
-    },
-    {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     },
     {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
@@ -1530,14 +1514,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027"
     },
     {
-     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
-     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1552,6 +1528,22 @@ window.INDUSTRY_DATA = {
      "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
      "source": "Spaceflight Now",
      "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1770,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "分析师的嘴，骗人的鬼？涨了喊买入，跌了喊增持？分析师到底靠不靠谱？",
+     "link": "https://www.huxiu.com/article/4903543.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 08:00:00 +0800",
+     "summary": "分析师的嘴，真的骗人吗？网上遇到的分析师99%都是李鬼，吹得天花乱坠其实是骗钱，真正持牌的券商分析师全国只有五千多个，主要服务机构投资者，靠研究报告赚机构的钱。市面上那些圈钱拉人炒股的小群绝大多数是骗局，别把自己当猪杀。想用分析师预测搞量化策略？下期继续聊。",
+     "source": "虎嗅",
+     "zh": "分析师的嘴，骗人的鬼？涨了喊买入，跌了喊增持？分析师到底靠不靠谱？"
+    },
+    {
      "title": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs&apos; AI platform via a ~$95M no-bid deal (Bloomberg)",
      "link": "https://www.techmeme.com/261118/p48#a261118p48",
      "pubDate": "Wed, 18 Nov 2026 18:55:01 -0500",
@@ -1778,12 +1778,36 @@ window.INDUSTRY_DATA = {
      "zh": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs&apos; AI platform via a ~$95M no-bid deal (Bloomberg)"
     },
     {
+     "title": "努力成为人文主义的家长",
+     "link": "https://www.huxiu.com/article/4906700.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 07:55:01 +0800",
+     "summary": "本文来自微信公众号： 余晟以为 ，作者：余晟 前段时间与朋友聊天，谈到“希望成为什么样的家长”，我不禁脱口而出“人文主义的家长”。虽然谈起“人文主义”的缘由，直接来自最近在阅读的关于李欧梵的回忆录，但它确实准确命中了我长久以来的思考。所以，今天让我把这个话题展开，细细说说。 人文主义的家长，首先认清“人文主义”这个概念。 许多人一看到“人文主义”，就联想到“文化”、“文艺”、“艺术气息”，乃至“书呆子”和“孤芳自赏”。这当然是刻板印象，但也其来有自，因为“文”总让人联想到很多。轻一点的，类似“舞文弄墨”和“文采飞扬”，重一点的，类似“文以载道”和“言而无文，行之不远”。既然如此，“人文主义”，",
+     "source": "虎嗅",
+     "zh": "努力成为人文主义的家长"
+    },
+    {
      "title": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一",
      "link": "https://www.ithome.com/1/029/144.htm",
      "pubDate": "Wed, 18 Nov 2026 23:53:51 GMT",
      "summary": "IT之家 11 月 19 日消息，谷歌今天（11 月 18 日）宣布推出 AI 模型 Gemini 4 Neon， 主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本 ，目前已开始向开发者、企业及部分付费订阅用户开放。 费用方面，Gemini 4 Neon 在 API 调用方面，每 100 万词元输入费用为 3 美元 （IT之家注：现汇率约合 20 元人民币） ，每 100 万词元输出费用为 15 美元 （现汇率约合 100.2 元人民币） ，缓存输入每百万 token 为 0.15 美元 （现汇率约合 1 元人民币） ，并提供 Low、medium、high 以及 x",
      "source": "IT之家",
      "zh": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一"
+    },
+    {
+     "title": "We Need Smart People Who Give a Shit",
+     "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+     "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 5 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "We Need Smart People Who Give a Shit"
+    },
+    {
+     "title": "14年深圳老酒店，凭啥接下特朗普？",
+     "link": "https://www.huxiu.com/article/4906698.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 07:48:58 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 没选柏悦瑞吉，特朗普住进千元港资酒店。 01 昨天，特朗普抵达深圳，车队随后驶入福田区深圳东海朗廷酒店。 深南大道旁很快聚拢了不少举手机拍摄的市民，多家媒体相继确认这座欧式古典风格建筑正是美国总统此行下榻之地。 消息传开后，酒旅圈难免生出几分好奇。 深圳历来是国内高端酒店的肉搏修罗场，名下拥有多处豪华度假村的特朗普，为何偏偏挑中了一家开业14年的老牌五星酒店？ 事实上，放在当下的深圳奢华酒店版图里，东海朗廷早已处于第二梯队。 打开携程检索12月平日房价，同城酒店身价差距清晰可见。 深圳东海朗廷酒店仅1144元起，页面还提示12月13日入",
+     "source": "虎嗅",
+     "zh": "14年深圳老酒店，凭啥接下特朗普？"
     },
     {
      "title": "中国大厂的海外3A梦，醒了",
@@ -1797,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "马斯克、奥尔特曼、纳德拉等人出席 DealBook 峰会，回应热点问题",
      "link": "https://www.ithome.com/1/029/143.htm",
      "pubDate": "Wed, 18 Nov 2026 23:39:54 GMT",
-     "summary": "IT之家 11 月 19 日消息，当地时间 11 月 18 日，2026 年度 DealBook 峰会在美国纽约举行。《纽约时报》财经专栏作家、DealBook 创始人安德鲁・罗斯・索尔金主持了此次活动。 OpenAI CEO 萨姆・奥尔特曼、总裁格雷格・布罗克曼、SpaceX CEO 埃隆・马斯克、微软 CEO 萨提亚・纳德拉等科技行业人士出席，围绕 AI 发展、行业竞争、企业上市及技术安全等话题展开讨论。 马斯克透露，SpaceX 计划于 2027 年开始发射新一代 Starlink Direct-to-Cell（手机直连卫星）V2 卫星，进一步提升卫星对普通智能手机的通信能力。据介绍，新",
+     "summary": "IT之家 11 月 19 日消息，当地时间 11 月 18 日，2026 年度 DealBook 峰会在美国纽约举行。《纽约时报》财经专栏作家、DealBook 创始人安德鲁・罗斯・索尔金主持了此次活动。 OpenAI CEO 萨姆・奥尔特曼、总裁格雷格・布罗克曼、SpaceX CEO 埃隆・马斯克、微软 CEO 萨提亚・纳德拉等科技行业人士出席，围绕 AI 发展、行业竞争、企业上市及技术安全等话题展开讨论。 马斯克目前人在深圳，他通过视频连线出席此次峰会。据其透露，SpaceX 计划于 2027 年开始发射新一代 Starlink Direct-to-Cell（手机直连卫星）V2 卫星，进一",
      "source": "IT之家",
      "zh": "马斯克、奥尔特曼、纳德拉等人出席 DealBook 峰会，回应热点问题"
     },
@@ -1874,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋绝无回归可能，因为相关方都害怕被民主党清算"
     },
     {
-     "title": "十家车企压了近万亿账款，中国车圈背着连环债的雷",
-     "link": "https://www.huxiu.com/article/4896154.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 07:10:43 +0800",
-     "summary": "出品｜虎嗅ESG组 作者｜陈玉立 头图｜视觉中国 本文是#ESG进步观察#系列第178篇文章 本次观察关键词：车企账期 &ldquo;我有一个梦想：有一天，供应商货品送达甲方仓库，经必要检验后即可对账、开票、结算，开票后一个月内回款到账，且电汇是回款的唯一方式。&rdquo; 2025年6月1日，新修订《保障中小企业款项支付条例》施行当天，空气悬架供应商龙头孔辉科技董事长郭川发表了一封公开信，写出了一家供应商内心最朴素的愿望。 6月10日起，一汽、东风、广汽等17家重点车企相继承诺对供应商\"支付账期不超过60天\"。 一年后，中汽协调研显示：对中小供应商的货款，绝大多数车企已压至60天内，平均约",
-     "source": "虎嗅",
-     "zh": "十家车企压了近万亿账款，中国车圈背着连环债的雷"
-    },
-    {
      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
      "pubDate": "Wed, 18 Nov 2026 23:10:39 +0000",
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Why educational system is broken",
      "link": "https://keycybermonk.com/edu",
      "pubDate": "Wed, 18 Nov 2026 22:42:53 +0000",
-     "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 8",
+     "summary": "Article URL: https://keycybermonk.com/edu Comments URL: https://news.ycombinator.com/item?id=50553402 Points: 11 # Comments: 10",
      "source": "Hacker News",
      "zh": "Why educational system is broken"
     },
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "LLM Assisted Reverse Engineering",
      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
      "pubDate": "Wed, 18 Nov 2026 22:29:13 +0000",
-     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "LLM Assisted Reverse Engineering"
     },
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "GTA6-like as a 942Kb UEFI bootable image",
      "link": "https://github.com/eklavya-raj/gta6-uefi",
      "pubDate": "Wed, 18 Nov 2026 22:26:48 +0000",
-     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 17 # Comments: 16",
+     "summary": "Article URL: https://github.com/eklavya-raj/gta6-uefi Comments URL: https://news.ycombinator.com/item?id=50553192 Points: 19 # Comments: 20",
      "source": "Hacker News",
      "zh": "GTA6-like as a 942Kb UEFI bootable image"
     },
@@ -1981,33 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Gemini 4 Neon",
      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
      "pubDate": "Wed, 18 Nov 2026 21:34:07 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 329 # Comments: 314",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 336 # Comments: 328",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon"
-    },
-    {
-     "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-     "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-     "pubDate": "Wed, 18 Nov 2026 21:29:24 +0000",
-     "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-     "source": "Ars Technica",
-     "zh": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t"
-    },
-    {
-     "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-     "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-     "pubDate": "Wed, 18 Nov 2026 21:15:00 +0000",
-     "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-     "source": "WIRED",
-     "zh": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways"
-    },
-    {
-     "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-     "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-     "pubDate": "Wed, 18 Nov 2026 20:41:12 +0000",
-     "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-     "source": "Ars Technica",
-     "zh": "Windows Server 2028 trades compatibility for out-of-the-box security"
     }
    ]
   },
@@ -2017,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades",
+     "link": "https://9to5mac.com/2026/11/18/smartwings-black-friday-sale-save-15-custom-motorized-shades/",
+     "pubDate": "Thu, 19 Nov 2026 00:08:37 +0000",
+     "summary": "SmartWings’ Black Friday and Cyber Monday sale starts November 15, 2026, with 10% off sitewide or 15% off orders over $1,500 . The featured custom motorized shades on sale are available in a variety of styles, including roller, cellular, and linen Roman, to suit different rooms and design preference",
+     "source": "9to5Mac",
+     "zh": "SmartWings Black Friday sale: Save up to 15% on custom motorized shades"
+    },
     {
      "title": "Google AI Ultra upgrade adds YouTube Premium Family",
      "link": "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/",
@@ -2178,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple reveals its 2026 App Store Award finalists"
     },
     {
-     "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
-     "link": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
-     "pubDate": "Wed, 18 Nov 2026 19:47:06 +0000",
-     "summary": "Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. more…",
-     "source": "9to5Mac",
-     "zh": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2"
-    },
-    {
      "title": "Bose SoundLink Micro (2nd Gen) drops to $79, its lowest price",
      "link": "https://www.androidauthority.com/bose-soundlink-micro-2nd-gen-amazon-deal-3736856/",
      "pubDate": "Wed, 18 Nov 2026 19:45:10 +0000",
@@ -2265,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+     "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+     "pubDate": "Thu, 19 Nov 2026 00:07:06 GMT",
+     "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+     "source": "CNBC",
+     "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+    },
     {
      "title": "Venture Global CEO sees final investment decisions on two key projects in next year's H1",
      "link": "https://seekingalpha.com/news/4674490-venture-global-ceo-sees-final-investment-decisions-on-two-key-projects-in-next-years-h1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2426,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock"
     },
     {
-     "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-     "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-     "pubDate": "Wed, 18 Nov 2026 22:25:32 GMT",
-     "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
-     "source": "CNBC",
-     "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
-    },
-    {
      "title": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫",
      "link": "http://stock.eastmoney.com/news/11784,202611193934391280.html",
      "pubDate": "Thu, 19 Nov 2026 06:15:07 +0800",
@@ -2442,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "全球市场：美股三大指数涨跌不一 道指跌超1% 国际原油、金银价格同步下挫"
     },
     {
-     "title": "Anthropic prices blockbuster IPO at $83 a share",
+     "title": "Anthropic raises $81bn in record IPO",
      "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
      "pubDate": "Wed, 18 Nov 2026 22:04:50 GMT",
-     "summary": "AI group draws strong demand from investors despite jitters in tech stocks",
+     "summary": "AI giant prices offering above targeted range and upsizes deal after drawing bumper demand from investors",
      "source": "Financial Times",
-     "zh": "Anthropic prices blockbuster IPO at $83 a share"
+     "zh": "Anthropic raises $81bn in record IPO"
     },
     {
      "title": "11月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",

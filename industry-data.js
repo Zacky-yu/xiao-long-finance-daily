@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 04:32:23",
+ "generated_at": "2026/11/20 04:52:20",
  "recent_days": 7,
  "industries": [
   {
@@ -1178,12 +1178,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The Best Hatch Black Friday Deals (2026)",
+     "link": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+     "pubDate": "Thu, 19 Nov 2026 20:44:44 +0000",
+     "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
+     "source": "WIRED",
+     "zh": "The Best Hatch Black Friday Deals (2026)"
+    },
+    {
+     "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+     "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+     "pubDate": "Thu, 19 Nov 2026 20:34:17 +0000",
+     "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+     "source": "WIRED",
+     "zh": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants"
+    },
+    {
+     "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+     "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+     "pubDate": "Thu, 19 Nov 2026 20:29:46 +0000",
+     "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+     "source": "Ars Technica",
+     "zh": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say"
+    },
+    {
      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
      "pubDate": "Thu, 19 Nov 2026 20:19:28 +0000",
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
      "pubDate": "Thu, 19 Nov 2026 18:47:16 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 22 # Comments: 23",
+     "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 24 # Comments: 31",
      "source": "Hacker News",
      "zh": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
     },
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
      "pubDate": "Thu, 19 Nov 2026 18:35:17 +0000",
-     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 48 # Comments: 25",
+     "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 65 # Comments: 34",
      "source": "Hacker News",
      "zh": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
     },
@@ -1909,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Claude solves two open problems in the physics of black holes",
      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
      "pubDate": "Thu, 19 Nov 2026 17:30:44 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 226 # Comments: 80",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 241 # Comments: 90",
      "source": "Hacker News",
      "zh": "Claude solves two open problems in the physics of black holes"
     },
@@ -1925,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Pancreatic cancer halted by virus injection in three patients",
      "link": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
      "pubDate": "Thu, 19 Nov 2026 17:25:33 +0000",
-     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 153 # Comments: 15",
+     "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 173 # Comments: 15",
      "source": "Hacker News",
      "zh": "Pancreatic cancer halted by virus injection in three patients"
     },
@@ -1933,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic hits $2T in Nasdaq debut",
      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "pubDate": "Thu, 19 Nov 2026 17:02:40 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 519 # Comments: 807",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 547 # Comments: 874",
      "source": "Hacker News",
      "zh": "Anthropic hits $2T in Nasdaq debut"
     },
@@ -1949,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Chrome AI features wasting much bandwidth",
      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
      "pubDate": "Thu, 19 Nov 2026 16:54:25 +0000",
-     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 91 # Comments: 31",
+     "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 91 # Comments: 32",
      "source": "Hacker News",
      "zh": "Chrome AI features wasting much bandwidth"
     },
@@ -1992,30 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "The best things in open source are built together"
-    },
-    {
-     "title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
-     "link": "https://www.ithome.com/1/029/708.htm",
-     "pubDate": "Thu, 19 Nov 2026 15:50:53 GMT",
-     "summary": "IT之家 11 月 19 日消息，北京时间今天（19 日）深夜，AI 初创企业 Anthropic 正式登陆美股，以 813 亿美元 （IT之家注：现汇率约合 5,431.47 亿元人民币） 的募资额创下 IPO 历史纪录。 公司 CEO 达里奥 · 阿莫代伊在纳斯达克敲响开市钟。“今天的上市让公司的财务基础更加稳固，也让我们更加坚定了 做正确事情 的决心。” Anthropic 的发行价定为 每股 83 美元 （现汇率约合 554.5 元人民币） ，高于上周公布的预期区间，完全稀释后市值达到 1.5 万亿美元 （现汇率约合 10.02 万亿元人民币） 。 彭博社和路透社报道称，预计正式开盘后",
-     "source": "IT之家",
-     "zh": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元"
-    },
-    {
-     "title": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字",
-     "link": "https://www.ithome.com/1/029/707.htm",
-     "pubDate": "Thu, 19 Nov 2026 15:28:10 GMT",
-     "summary": "IT之家 11 月 19 日消息，ChatGPT 今天宣布新增“实时听写”功能，用户对着麦克风说话时，语音就能同步转换成文字，不必等录音结束后再转写，让 ChatGPT 更快接收到语音指令 。 该功能将陆续向全球所有 ChatGPT 用户开放，覆盖网页版、桌面客户端及 iOS 和 Android 应用。使用时， 用户只需点击音频波形，就能查看实时转写的文字 ，录音结束后还可以直接在输入框中编辑。 OpenAI 还宣布，取消 ChatGPT 语音听写原有的 10 分钟时长限制，并进一步提高转写的可靠性。今年早些时候，ChatGPT 的双向语音对话模式曾迎来全面改版。 OpenAI 去年还推出了用",
-     "source": "IT之家",
-     "zh": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字"
-    },
-    {
-     "title": "小米米家扫振电动牙刷 2 Pro 开售：动态彩屏交互、190 天长续航，199.75 元",
-     "link": "https://www.ithome.com/1/029/706.htm",
-     "pubDate": "Thu, 19 Nov 2026 15:19:09 GMT",
-     "summary": "IT之家 11 月 19 日消息，此前在小米有品众筹的米家扫振电动牙刷 2 Pro，现已在京东平台开启预约，将于明日 0 点开售，价格为 199.75 元。 IT之家从商品页面获悉，这款电动牙刷支持声波扫振马达 2.0，可高效清洁牙菌斑；支持智能分面扫振，可匹配不同清洁方案；配备全效缓震刷头，软胶升级不打牙，弹性结构更贴合。 此外，它还配备 动态交互彩屏 ，实现可视化洁牙；支持双向过压提醒，力大力小亮灯提醒，用力过度自动降频；配备 Type-C 接口，支持 190 天长续航；支持 IPX8 级防水。 京东 小米米家扫振电动牙刷 2 Pro 199.75 元 直达链接",
-     "source": "IT之家",
-     "zh": "小米米家扫振电动牙刷 2 Pro 开售：动态彩屏交互、190 天长续航，199.75 元"
     }
    ]
   },
@@ -2025,6 +2025,70 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
+     "link": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
+     "pubDate": "Thu, 19 Nov 2026 20:49:24 +0000",
+     "summary": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models. more…",
+     "source": "9to5Mac",
+     "zh": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting"
+    },
+    {
+     "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
+     "link": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/",
+     "pubDate": "Thu, 19 Nov 2026 20:43:53 +0000",
+     "summary": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple fires back at Epic over claims it withheld 122,000 documents"
+    },
+    {
+     "title": "Google Docs adds 3 new caption and cross-reference features to simplify complex documents",
+     "link": "https://www.androidauthority.com/google-docs-captions-cross-references-3737416/",
+     "pubDate": "Thu, 19 Nov 2026 20:43:43 +0000",
+     "summary": "The updates are rolling out today to all users.",
+     "source": "Android Authority",
+     "zh": "Google Docs adds 3 new caption and cross-reference features to simplify complex documents"
+    },
+    {
+     "title": "Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals",
+     "link": "https://9to5google.com/2026/11/19/give-your-eyes-and-wallet-the-break-they-need-with-these-tcl-nxtpaper-black-friday-deals/",
+     "pubDate": "Thu, 19 Nov 2026 20:43:37 +0000",
+     "summary": "TCL NXTPAPER phones and tablets are all on sale well more than a week ahead of Black Friday, and many models are down to their lowest prices ever. more…",
+     "source": "9to5Google",
+     "zh": "Give your eyes (and wallet) the break they need with these TCL NXTPAPER Black Friday deals"
+    },
+    {
+     "title": "Amazon US Black Friday deal: the Galaxy S26 Ultra and Z Fold8 Ultra are both $350 off",
+     "link": "https://www.gsmarena.com/amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548.php",
+     "pubDate": "Thu, 19 Nov 2026 21:43:02 +0100",
+     "summary": "Two Ultra phones, both $350 off their MSRP – which one is right for you? In case you missed it, Amazon US is running a full week of Black Friday sales with many great offers. We wanted to highlight this pairing in particular, though. The Samsung Galaxy S26 Ultra starts at $1,050 for the base 12/256G",
+     "source": "GSMArena",
+     "zh": "Amazon US Black Friday deal: the Galaxy S26 Ultra and Z Fold8 Ultra are both $350 off"
+    },
+    {
+     "title": "You can now purchase the 512GB Steam Machine like a normal console",
+     "link": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
+     "pubDate": "Thu, 19 Nov 2026 20:42:38 +0000",
+     "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
+     "source": "Engadget",
+     "zh": "You can now purchase the 512GB Steam Machine like a normal console"
+    },
+    {
+     "title": "Bose’s clip-on Ultra Open Earbuds (2nd Gen) are $50 off",
+     "link": "https://www.androidauthority.com/bose-ultra-open-earbuds-2nd-gen-deal-3737453/",
+     "pubDate": "Thu, 19 Nov 2026 20:39:27 +0000",
+     "summary": "Bose's newest open earbuds drop to $249 on Amazon, their lowest price yet.",
+     "source": "Android Authority",
+     "zh": "Bose’s clip-on Ultra Open Earbuds (2nd Gen) are $50 off"
+    },
+    {
+     "title": "Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals",
+     "link": "https://www.androidauthority.com/amazon-black-friday-livestream-2026-3737417/",
+     "pubDate": "Thu, 19 Nov 2026 20:29:17 +0000",
+     "summary": "See the products of the best tech deals for Black Friday in action.",
+     "source": "Android Authority",
+     "zh": "Join us on Amazon for our Black Friday livestream and see live demos of the best tech deals"
+    },
     {
      "title": "Today’s Android app deals and freebies: FINAL FANTASY VII, Skul, Beastie Bay DX, ISLANDERS, more",
      "link": "https://9to5toys.com/2026/11/19/todays-highlight-google-play-deals-52/",
@@ -2162,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Meet is making it easy to download a local copy of the file your host’s presenting"
     },
     {
-     "title": "Android’s controversial sideloading rules go global in January",
-     "link": "https://www.androidauthority.com/android-sideloading-rules-developer-verification-global-3737188/",
-     "pubDate": "Thu, 19 Nov 2026 18:00:50 +0000",
-     "summary": "You won't be able to escape Google's contentious sideloading changes come January.",
-     "source": "Android Authority",
-     "zh": "Android’s controversial sideloading rules go global in January"
-    },
-    {
      "title": "How to game share GTA 6 and split the cost with a friend",
      "link": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost/",
      "pubDate": "Thu, 19 Nov 2026 18:00:48 +0000",
@@ -2178,60 +2234,12 @@ window.INDUSTRY_DATA = {
      "zh": "How to game share GTA 6 and split the cost with a friend"
     },
     {
-     "title": "Apple’s head of camera and Photos software has retired, per report",
-     "link": "https://9to5mac.com/2026/11/19/apple-head-of-camera-software-retires/",
-     "pubDate": "Thu, 19 Nov 2026 17:52:01 +0000",
-     "summary": "According to a new report from Bloomberg , Apple’s head of camera and photo software retired last month. Jon McCormack spent eight years at Apple and “oversaw the Camera and Photos apps and the underlying technology that determines how users capture, view, and edit their pictures and video.” more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s head of camera and Photos software has retired, per report"
-    },
-    {
-     "title": "Keychron’s keyboards and dock are perfect desk accessories, and they’re up to $48 off",
-     "link": "https://9to5google.com/2026/11/19/keychrons-keyboards-and-dock-deals-black-friday/",
-     "pubDate": "Thu, 19 Nov 2026 17:44:09 +0000",
-     "summary": "A good keyboard is essential to a good desk setup, and a Thunderbolt 5 dock makes that setup feel much cleaner. Keychron’s keyboards and new dock are on sale with up to $48 off during the deal season. more…",
-     "source": "9to5Google",
-     "zh": "Keychron’s keyboards and dock are perfect desk accessories, and they’re up to $48 off"
-    },
-    {
-     "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
-     "link": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
-     "pubDate": "Thu, 19 Nov 2026 17:38:44 +0000",
-     "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
-     "source": "Engadget",
-     "zh": "Google signs deal with Blue Origin to send satellite data centers into orbit"
-    },
-    {
-     "title": "Motorola Edge 2026 gets a record $200 Black Friday price cut",
-     "link": "https://www.androidauthority.com/motorola-edge-2026-deal-3737378/",
-     "pubDate": "Thu, 19 Nov 2026 17:24:49 +0000",
-     "summary": "Motorola's compact 6.3-inch Edge is 33% off on Amazon, its lowest price yet.",
-     "source": "Android Authority",
-     "zh": "Motorola Edge 2026 gets a record $200 Black Friday price cut"
-    },
-    {
      "title": "Nothing AI device gets teased in a new image",
      "link": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
      "pubDate": "Thu, 19 Nov 2026 18:18:02 +0100",
      "summary": "Nothing has been teasing its upcoming AI device for a while now. Today, Swedish House Mafia member Sebastian Ingrosso posted another image of the device, giving us a better look at the hardware. @nothing https://t.co/WgcWNI2dIc— Sebastian Ingrosso (@Ingrosso) November 19, 2026 In the image, the devi",
      "source": "GSMArena",
      "zh": "Nothing AI device gets teased in a new image"
-    },
-    {
-     "title": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it",
-     "link": "https://9to5mac.com/2026/11/19/ios-27-gave-airpods-pro-convenient-new-setting-heres-how-to-use-it/",
-     "pubDate": "Thu, 19 Nov 2026 17:10:46 +0000",
-     "summary": "iOS 27 gave AirPods Pro a variety of new features , but there’s another addition that’s easy to miss: a convenient new setting in Control Center for Adaptive Audio. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it"
-    },
-    {
-     "title": "Fitbit Edge owners are complaining about the lack of hourly movement reminders",
-     "link": "https://www.androidauthority.com/fitbit-edge-reminders-to-move-3737316/",
-     "pubDate": "Thu, 19 Nov 2026 16:32:00 +0000",
-     "summary": "Fitbit Edge tracks your hourly steps, but it won't remind you to take them.",
-     "source": "Android Authority",
-     "zh": "Fitbit Edge owners are complaining about the lack of hourly movement reminders"
     },
     {
      "title": "Amazon UK drops the prices of the new Xiaomi 18 Pro and Xiaomi 18 Pro Max for Prime subscribers",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "The deliberations are complete and our editors' panel has made its decision – here are the winners of the GSMArena 2026 Awards. These are the best devices out of the 100+ models that we reviewed over the past twelve months. We have twelve awards to hand out, so let's get started. Table of Contents: ",
      "source": "GSMArena",
      "zh": "GSMArena Awards 2026: The winners"
-    },
-    {
-     "title": "Black Friday deals from Amazon Germany: deals ranging from flagship to mid-range",
-     "link": "https://www.gsmarena.com/black_friday_deals_from_amazon_germany_deals_ranging_from_flagship_to_midrange-news-75542.php",
-     "pubDate": "Thu, 19 Nov 2026 15:09:02 +0100",
-     "summary": "Amazon Germany has too many deals to fit in one day, so it did the sensible thing – it extended the sales campaign to a full week. Here are the best offers that we found. Note that we weren’t kidding when we said that there are too many deals, so we’ve tried to organize the offers in categories – us",
-     "source": "GSMArena",
-     "zh": "Black Friday deals from Amazon Germany: deals ranging from flagship to mid-range"
     }
    ]
   },
@@ -2273,6 +2273,126 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+     "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+     "pubDate": "Thu, 19 Nov 2026 20:45:13 GMT",
+     "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+     "source": "CNBC",
+     "zh": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 20:45:00 GMT",
+     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
+    },
+    {
+     "title": "美能源部长：波斯湾成品油、俄柴油供给增加 美国柴油价料持续下行",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935452471.html",
+     "pubDate": "Fri, 20 Nov 2026 04:41:37 +0800",
+     "summary": "美国能源部长克里斯·赖特表示，随着波斯湾成品油重返市场、未受制裁的俄罗斯柴油进一步增加供给压力，美国柴油价格有望从历史高点持续回落。 赖特在华沙出席跨 大西洋 能源合作伙伴关系会议间隙接受采访时称：“短期来看，价格走势将持续下行。”但他同时提醒，这一预判前提是不发生任何重大负面突发事件。 今年早些时候，美国临时解除对俄罗斯柴油的制裁，为极度紧张的燃油市场增加供应。截至目前，还没有俄罗斯柴油运抵美国；多艘原定驶向美国的燃油油轮，因难以找到愿意接货的买家，已经更改航线。 赖特称，无论俄罗斯柴油最终能否进入美国本土，这批燃油重回全球市场，都会压低美国消费者在加油站的柴油零售价。 赖特认为，如果欧洲盟",
+     "source": "东方财富股票",
+     "zh": "美能源部长：波斯湾成品油、俄柴油供给增加 美国柴油价料持续下行"
+    },
+    {
+     "title": "法国巴黎银行：上调对美联储加息前景的预期，现在认为3月份也将收紧货币政策",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935452365.html",
+     "pubDate": "Fri, 20 Nov 2026 04:41:08 +0800",
+     "summary": "法国巴黎 银行 ：上调对美联储加息前景的预期，现在认为3月份也将收紧货币政策，即12月、1月、3月将先后实施每次25个基点的加息。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "法国巴黎银行：上调对美联储加息前景的预期，现在认为3月份也将收紧货币政策"
+    },
+    {
+     "title": "比特币跌至四个月来最低点，最新下跌0.6%，报61,876.23美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935452283.html",
+     "pubDate": "Fri, 20 Nov 2026 04:41:07 +0800",
+     "summary": "比特币跌至四个月来最低点，最新下跌0.6%，报61,876.23美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "比特币跌至四个月来最低点，最新下跌0.6%，报61,876.23美元"
+    },
+    {
+     "title": "奈飞等流媒体巨头竞标2030世界杯美国转播权 迪士尼退出竞争",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935452158.html",
+     "pubDate": "Fri, 20 Nov 2026 04:40:02 +0800",
+     "summary": "据知情人士透露， 奈飞 、 亚马逊 、YouTube以及福克斯均计划在今日截止日前提交报价，角逐2030年男足世界杯美国地区转播权，而 迪士尼 不会参与竞标。 福克斯以及NBC环球旗下的西班牙语频道Telemundo是当前的持权转播方。2030世界杯由西班牙、葡萄牙、摩洛哥联合承办，国际足联（FIFA）更希望将该赛事的英语与西班牙语转播权打包出售给同一家买家。媒体机构也可同步竞标2034年沙特世界杯的转播权。 此前有报道称， 传媒 行业高管预计中标报价约15亿美元，甚至更高；最终金额存在浮动空间，取决于竞标方是否同时拿下2030和2034两届世界杯版权。 知情人士（因相关谈判属于保密环节而要求",
+     "source": "东方财富股票",
+     "zh": "奈飞等流媒体巨头竞标2030世界杯美国转播权 迪士尼退出竞争"
+    },
+    {
+     "title": "伊朗外交部发言人：美国关于德黑兰正在开发生物武器的指控旨在制造恐慌",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935452072.html",
+     "pubDate": "Fri, 20 Nov 2026 04:40:02 +0800",
+     "summary": "伊朗外交部发言人表示，美国关于德黑兰正在开发化学和生物武器的指控旨在制造恐慌并为军事行动提供正当理由。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗外交部发言人：美国关于德黑兰正在开发生物武器的指控旨在制造恐慌"
+    },
+    {
+     "title": "比特币跌至四个月来新低",
+     "link": "http://finance.eastmoney.com/news/1351,202611203935451985.html",
+     "pubDate": "Fri, 20 Nov 2026 04:39:51 +0800",
+     "summary": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "比特币跌至四个月来新低"
+    },
+    {
+     "title": "UBS mulls shifting some job roles from Europe to India in next couple of years - report",
+     "link": "https://seekingalpha.com/news/4674872-ubs-mulls-shifting-some-job-roles-from-europe-to-india-in-next-couple-of-years---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:37:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "UBS mulls shifting some job roles from Europe to India in next couple of years - report"
+    },
+    {
+     "title": "Congress passes bill to protect older investors from financial fraud",
+     "link": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+     "pubDate": "Thu, 19 Nov 2026 20:36:48 GMT",
+     "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+     "source": "CNBC",
+     "zh": "Congress passes bill to protect older investors from financial fraud"
+    },
+    {
+     "title": "FERC approves Cheniere's Sabine Pass LNG expansion project",
+     "link": "https://seekingalpha.com/news/4674870-ferc-approves-chenieres-sabine-pass-lng-expansion-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:36:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FERC approves Cheniere's Sabine Pass LNG expansion project"
+    },
+    {
+     "title": "Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25%",
+     "link": "https://seekingalpha.com/news/4674814-nvidia-emerges-as-biggest-intel-holder-in-q3-despite-cutting-stake-by-25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:35:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia emerges as biggest Intel holder in Q3 despite cutting stake by 25%"
+    },
+    {
+     "title": "U.S. data center count dwarfs the rest of the world combined",
+     "link": "https://seekingalpha.com/news/4674874-us-data-center-count-dwarfs-the-rest-of-the-world-combined?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 15:33:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. data center count dwarfs the rest of the world combined"
+    },
+    {
+     "title": "Nvidia’s stock falls further. It has lost $611 billion in six trading days.",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 20:33:00 GMT",
+     "summary": "There are only 23 companies in the world with a market capitalization of $611 billion or higher",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock falls further. It has lost $611 billion in six trading days."
+    },
+    {
+     "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+     "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 20:28:00 GMT",
+     "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+     "source": "MarketWatch",
+     "zh": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds"
+    },
     {
      "title": "Convicted FTX swindler Bankman-Fried misses out on $37B Anthropic IPO windfall",
      "link": "https://seekingalpha.com/news/4674873-convicted-ftx-swindler-bankman-fried-misses-out-on-37b-anthropic-ipo-windfall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2298,28 +2418,20 @@ window.INDUSTRY_DATA = {
      "zh": "Why Walmart is making a bigger bet on fast-food delivery"
     },
     {
-     "title": "It’s a ‘dark period for tech’ as Anthropic debuts IPO – Dan Ives",
-     "link": "https://seekingalpha.com/news/4674868-it-s-a-dark-period-for-tech-as-anthropic-debuts-ipo-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 15:08:26 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "It’s a ‘dark period for tech’ as Anthropic debuts IPO – Dan Ives"
+     "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
+     "link": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 20:17:00 GMT",
+     "summary": "JPMorgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, were exposed in cyberattacks on third-party vendors.",
+     "source": "Finextra",
+     "zh": "JPMorgan, Visa and Mastercard say hackers leaked customer emails"
     },
     {
-     "title": "Maximus forecasts $700M-$800M fiscal 2027 free cash flow while integrating Agile Defense",
-     "link": "https://seekingalpha.com/news/4674865-maximus-forecasts-700m-800m-fiscal-2027-free-cash-flow-while-integrating-agile-defense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 15:03:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Maximus forecasts $700M-$800M fiscal 2027 free cash flow while integrating Agile Defense"
-    },
-    {
-     "title": "Spire downgraded at Jefferies ahead of rate case outcomes",
-     "link": "https://seekingalpha.com/news/4674862-spire-downgraded-at-jefferies-ahead-of-rate-case-outcomes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:59:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Spire downgraded at Jefferies ahead of rate case outcomes"
+     "title": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超10%",
+     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
+     "pubDate": "Fri, 20 Nov 2026 04:00:32 +0800",
+     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.08%，标普500指数跌1.96%， 纳斯达克 综合 指数跌2.09%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超10%"
     },
     {
      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
@@ -2338,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "彭博经济学家：Anthropic的IPO或标志AI行情终结"
     },
     {
-     "title": "Meta sets $300 price on pocket-sized Muse Charm AI device: report",
-     "link": "https://seekingalpha.com/news/4674861-meta-sets-300-price-on-pocket-sized-muse-charm-ai-device-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 14:51:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Meta sets $300 price on pocket-sized Muse Charm AI device: report"
-    },
-    {
      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
      "pubDate": "Thu, 19 Nov 2026 19:43:08 GMT",
@@ -2362,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why Micron, Broadcom and other AI stocks have given up their gains"
     },
     {
-     "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-     "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-     "pubDate": "Thu, 19 Nov 2026 19:29:31 GMT",
-     "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
-     "source": "CNBC",
-     "zh": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City"
-    },
-    {
      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 19:15:00 GMT",
      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
-     "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 19:13:00 GMT",
-     "summary": "The main engine of U.S. growth is in overdrive.",
-     "source": "MarketWatch",
-     "zh": "The surprising reason the U.S. economy is speeding up — and might have more room to run"
     },
     {
      "title": "特朗普9月高位买入英伟达站岗，SpaceX也加仓了",
@@ -2394,22 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普9月高位买入英伟达站岗，SpaceX也加仓了"
     },
     {
-     "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-     "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 18:54:00 GMT",
-     "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
-     "source": "MarketWatch",
-     "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
-    },
-    {
-     "title": "Social Security should be shut down, this Republican senator says",
-     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 18:53:00 GMT",
-     "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
-     "source": "MarketWatch",
-     "zh": "Social Security should be shut down, this Republican senator says"
-    },
-    {
      "title": "UK pensions dashboard set for summer 2027 launch",
      "link": "https://www.finextra.com/newsarticle/48788/uk-pensions-dashboard-set-for-summer-2027-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 19 Nov 2026 18:41:00 GMT",
@@ -2418,68 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "UK pensions dashboard set for summer 2027 launch"
     },
     {
-     "title": "也门胡塞武装称：袭击了沙特利雅得的哈立德国王机场和哈米斯穆谢特的IR基地",
-     "link": "http://finance.eastmoney.com/news/11790,202611203935442464.html",
-     "pubDate": "Fri, 20 Nov 2026 02:37:45 +0800",
-     "summary": "也门胡塞武装称，袭击了沙特利雅得的哈立德国王 机场 和哈米斯穆谢特的IR基地。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装称：袭击了沙特利雅得的哈立德国王机场和哈米斯穆谢特的IR基地"
-    },
-    {
-     "title": "奈飞、亚马逊和福克斯将竞标2030年男足世界杯转播权",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935443113.html",
-     "pubDate": "Fri, 20 Nov 2026 02:33:12 +0800",
-     "summary": "奈飞 、 亚马逊 、福克斯和谷歌旗下YouTube将竞标2030年男足世界杯转播权，而 迪士尼 决定不竞标。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "奈飞、亚马逊和福克斯将竞标2030年男足世界杯转播权"
-    },
-    {
-     "title": "特朗普表示：不急着在伊朗问题上做决定 新年后再看情况",
-     "link": "http://finance.eastmoney.com/news/1351,202611203935442930.html",
-     "pubDate": "Fri, 20 Nov 2026 02:30:50 +0800",
-     "summary": "特朗普表示，不急着在伊朗问题上做决定，新年后再看情况。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普表示：不急着在伊朗问题上做决定 新年后再看情况"
-    },
-    {
      "title": "AMD dives on short-seller report of alleged China exposure",
      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
      "pubDate": "Thu, 19 Nov 2026 18:24:54 GMT",
      "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
      "source": "CNBC",
      "zh": "AMD dives on short-seller report of alleged China exposure"
-    },
-    {
-     "title": "Jefferies下调阿里巴巴ADR目标价至161美元 维持对其的“买入”评级",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935440692.html",
-     "pubDate": "Fri, 20 Nov 2026 02:22:47 +0800",
-     "summary": "Jefferies下调 阿里巴巴 ADR目标价至161美元，维持对其的“买入”评级。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "Jefferies下调阿里巴巴ADR目标价至161美元 维持对其的“买入”评级"
-    },
-    {
-     "title": "香港家族办公室大举解除39亿美元AI押注 清仓美光、西部数据等股票",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935440586.html",
-     "pubDate": "Fri, 20 Nov 2026 02:21:08 +0800",
-     "summary": "由对冲基金老将Larry Chen创立的香港家族办公室上季度削减股票持仓，正值投资者更广泛撤离AI相关资产之际。根据在美国提交的13F文件，截至第三季度末，Anther Capital Ltd.已不再持有此前价值约39亿美元的股份，主要集中在与AI相关的硬件和芯片制造商。包括 西部数据 和 美光科技 在内的这些投资，曾出现在Anther前一季度提交的13F文件中。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "香港家族办公室大举解除39亿美元AI押注 清仓美光、西部数据等股票"
-    },
-    {
-     "title": "工业互联网跃迁 算网电协同支撑智能化升级",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935443067.html",
-     "pubDate": "Fri, 20 Nov 2026 02:18:47 +0800",
-     "summary": "11月19日，2026中国5G+ 工业互联网 大会在武汉开幕。工业和信息化部有关负责人在会上介绍，我国已建成工业5G专网2.7万个，培育各行业智能工厂750余家、领航级智能工厂49家，建成5G工厂1260家。 5G+ 工业互联网 正展现良好的发展前景和广阔的市场空间。多名业内人士在大会上表示，5G+ 工业互联网 的重心正从“连接”转向“协同”，信息 通信 行业从数据传输的连接管道，进一步向集连接、算力、感知、智能于一体的新型基础设施转变。 工业网络向生产核心环节延伸 过去几年，5G+工业互联网从试点探索走向规模化应用。随着连接设备增多、应用场景拓展，工业企业对网络的要求也发生了巨大变化。 “面",
-     "source": "东方财富股票",
-     "zh": "工业互联网跃迁 算网电协同支撑智能化升级"
-    },
-    {
-     "title": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超11%",
-     "link": "http://finance.eastmoney.com/news/1345,202611193935363283.html",
-     "pubDate": "Fri, 20 Nov 2026 02:15:32 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌， 截至发稿， 道琼斯指数跌2.08%，标普500指数跌1.96%， 纳斯达克 综合 指数跌2.09%。 人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%；按开盘价计算，公司市值约1.46万亿美元。日内最高114.99美元，截至发稿，股价报95.64美元，较发行价上涨15.23%，市值约1.25万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。招股书显示，2026年第三季度， Anthropic 收入达",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数均跌超1% Anthropic上市首日股价大涨 拼多多涨超11%"
     },
     {
      "title": "Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜",
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI独角兽又一次创造历史。Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，正式登陆美股，开盘大涨幅度超过此前暗盘预计的最高涨幅，一度将公司市值推升至2万亿美元以上、超过SpaceX首秀时，不过随着股价盘中回吐涨幅，市值回落到1.5万亿美元以内。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元，涨幅扩大到约38.7%，此后回吐过半涨幅，一度回到92.80美元下方、涨幅收窄至不足12%。 此次Anthropic IPO公开募资约813亿美元，刷新全球IPO募资",
      "source": "华尔街见闻",
      "zh": "史上最大IPO落地！Anthropic首秀开盘涨34%、市值突破2万亿"
-    },
-    {
-     "title": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元",
-     "link": "http://finance.eastmoney.com/news/1345,202611203935424713.html",
-     "pubDate": "Fri, 20 Nov 2026 00:50:34 +0800",
-     "summary": "人工智能 公司 Anthropic （ANT）今日正式登陆 纳斯达克 ，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。按开盘价计算，公司市值约为1.5万亿美元。本次IPO发行9.8亿股，发行总额约813.4亿美元，其中公司发行9.5635亿股，老股东出售2364.86万股。 此外， Anthropic 还将通过同步私募配售募集260亿美元，涉及谷歌、 英伟达 、 微软 、AMD、 博通 、美光及 台积电 等战略投资者。IPO与同步私募配售合计交易规模约1073.4亿美元。 招股书显示，2026年第三季度， Anthropic 收入达到169.56亿美元，同比增长超过11倍。截",
-     "source": "东方财富资讯",
-     "zh": "Anthropic上市首日开盘涨34% 市值达到1.5万亿美元"
-    },
-    {
-     "title": "Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models",
-     "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-     "pubDate": "Thu, 19 Nov 2026 16:28:06 GMT",
-     "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
-     "source": "CNBC",
-     "zh": "Palo Alto stock jumps on earnings beat and company&apos;s big bet on securing open-weight models"
     }
    ]
   },

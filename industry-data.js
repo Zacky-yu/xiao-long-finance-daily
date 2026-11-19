@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/19 09:11:57",
+ "generated_at": "2026/11/19 09:29:33",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
      "source": "TechCrunch AI",
      "zh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
+    },
+    {
+     "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+     "link": "https://www.qbitai.com/2026/11/510947.html",
+     "pubDate": "Thu, 19 Nov 2026 00:26:40 +0000",
+     "summary": "国产AI工具实现「一个人就是一个剧组」",
+     "source": "量子位",
+     "zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！"
     },
     {
      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
      "source": "量子位",
      "zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
-    },
-    {
-     "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-     "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-     "pubDate": "Wed, 18 Nov 2026 07:10:53 +0000",
-     "summary": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark. The post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode ap",
-     "source": "MarkTechPost",
-     "zh": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode"
     }
    ]
   },
@@ -1770,12 +1770,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "阿联酋独立站COD回款要45天，物流时效和签收率怎么平衡？",
+     "link": "https://www.baijing.cn/question/638815",
+     "pubDate": "Thu, 19 Nov 2026 01:18:21 +0000",
+     "summary": "阿联酋独立站做家居收纳，团队6人，月单量800单左右，COD占比九成。用的一家本地派送商，迪拜市区签收时效3-5天，偏远酋长国要7天以上，签收率只有68%，货款回款周期从发货算起要45天，现金流压得很紧。试过在落地页加WhatsApp预确认、把偏远地区改成预付折扣，签收率提到74%但单量掉了15%。现在卡在要不要换派送商还是先收紧覆盖区域，想直接问：阿联酋COD场景下，签收率和回款周期这两个指标，你们优先保哪个、判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "阿联酋独立站COD回款要45天，物流时效和签收率怎么平衡？"
+    },
+    {
+     "title": "格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试",
+     "link": "https://www.ithome.com/1/029/164.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:18:15 GMT",
+     "summary": "IT之家 11 月 19 日消息，Boston Dynamics（波士顿动力）与 GlobalFoundries（格罗方德，GF）双方当地时间本月 17 日宣布扩大合作范围， 将波士顿动力 Spot 机器人的部署范围扩展至格罗方德全球生产网络 。 ▲ Spot 格罗方德已在其位于美国佛蒙特州伯灵顿的生产基地部署 Spot 机器人超过四年，近期则将该项目扩展至新加坡。根据该企业提供的数据，两台 Spot 机器人在约半年的工作期内实现了 99% 的任务成功率。 ▲ Atlas 而从 2027 年初开始， 两家公司将在格罗方德厂区内对波士顿动力的 Atlas 机器人进行现场测试 。该项目的目标是评估",
+     "source": "IT之家",
+     "zh": "格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试"
+    },
+    {
+     "title": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”",
+     "link": "https://www.huxiu.com/article/4906709.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:14:38 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：Fleming，编辑：|陆一鸣 “十元快剪暴打全国设计总监”的热搜一出，人们发现，年轻人又悄悄捧红了路边的快剪店。实际上，理发店这门生意很难简单分为“十元”和“百元”，这中间还有不少需求没挤进这场擂台赛。大多数人希望找到一家离家近价格在可接受范围内的理发店，“设计”不必成为加价理由，“便民”也不至于让我不好意思提要求。 “没有人能笑着从理发店里出来。”以前我总以为这是顾客的心声。最近才发现，这句话对于理发师也适用。 最近，“十元快剪暴打全国设计总监”的话题一出，老师傅终于等来属于自己的短剧逆袭剧本。超市角落、路边野摊的无名高手，手持一把电推子，就能让全城的",
+     "source": "虎嗅",
+     "zh": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”"
+    },
+    {
+     "title": "JEDEC 预览 DDR6 内存规范：数据总线宽度提升 50%，模组长度大减 44%",
+     "link": "https://www.ithome.com/1/029/162.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:11:20 GMT",
+     "summary": "IT之家 11 月 19 日消息，JEDEC 固态技术协会当地时间 18 日发布了 DDR6 DRAM 内存规范的预览版。新一代 DDR 数据总线宽度从此前的 64bit 扩展至 96bit ，匹配 LPDDR6 的变化。 根据 JEDEC 的透露，DDR6 将支持 128Gb DRAM Die，同时支持更紧密的芯片封装；DDR6 预计将包含 RDIMM、UDIMM、CAMM 等外形规格，其中 RDIMM 起始数据速率为 12.8 GT/s 并可扩展至 14.4 GT/s 乃至更高，模组长度仅 74mm，显著低于 DDR5 的 133mm。 IT之家注： JEDEC 同时透露 DDR5 RDI",
+     "source": "IT之家",
+     "zh": "JEDEC 预览 DDR6 内存规范：数据总线宽度提升 50%，模组长度大减 44%"
+    },
+    {
+     "title": "马斯克预警称 AI 或于 2031 年超越全人类智慧总和",
+     "link": "https://www.ithome.com/1/029/161.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:11:17 GMT",
+     "summary": "IT之家 11 月 19 日消息，在接受《经济学人》采访时，全球首富埃隆 · 马斯克（Elon Musk）大胆预测， 称未来约 5 年内，即约 2031 年，人工智能（AI）超过全人类智慧的总和 。到那时，除“作为人类”之外，几乎没有什么是 AI 不能比人类做得更好的。 IT之家附上相关视频如下： 马斯克同时描绘了一个乐观图景：若不发生全球热核战争等重大灾难，AI 与机器人将带来“惊人的富足时代”，商品和服务供给大幅增加，任何人都能获得自己所能想象的东西。他甚至预计，到 2036 年前后，金钱的重要性可能显著下降。 但这位长期推动 AI 发展的企业家也承认风险并非为零。他警告，如果 AI 与人",
+     "source": "IT之家",
+     "zh": "马斯克预警称 AI 或于 2031 年超越全人类智慧总和"
+    },
+    {
+     "title": "权志龙母公司 Galaxy 将推机器人女团，与宇树合作的 K-pop 演唱会 12 月首演",
+     "link": "https://www.ithome.com/1/029/160.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:09:13 GMT",
+     "summary": "IT之家 11 月 19 日消息，据每日经济新闻 11 月 17 日报道，韩国娱乐科技公司 Galaxy Corporation 计划于明年 1 月在全球推出 实体机器人女团 ，今年 12 月将率先在中国澳门举办一场小型机器人 K-pop 演唱会作为预热，随后将表演扩展至阿联酋迪拜和日本东京。 Galaxy 公司的艺人包括权志龙、宋康昊、金钟国、李泰民等，目标推动“明星 IP＋机器人”在实体场景落地。 Galaxy 创始人兼 CEO 崔龙湖表示，该项目的主要合作伙伴是中国大陆的宇树科技和在中国香港上市的 Star Plus Legend（巨星传奇），双方正在探索一种分工模式，即“ 中国公司提供",
+     "source": "IT之家",
+     "zh": "权志龙母公司 Galaxy 将推机器人女团，与宇树合作的 K-pop 演唱会 12 月首演"
+    },
+    {
      "title": "Edge AI Daily 早报（11月19日）",
      "link": "https://www.tmtpost.com/8210615.html",
      "pubDate": "Thu, 19 Nov 2026 09:05:50 +0800",
      "summary": "英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开验证。微软Ignite将Office/Copilot升级为智能体工作系统，推跨供应商AI透明度治理；OpenAI加码销售入口。Claude三日适配AMD、OVHcloud开源Olala，冲击CUDA与云模型入口。速卖通联合CJ、阿里参与系统战，中国出海升温。",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（11月19日）"
+    },
+    {
+     "title": "从“S 级客户”到全系自研：曝理想 i6 押宝宁德时代电池惨遭断供后决心自研",
+     "link": "https://www.ithome.com/1/029/159.htm",
+     "pubDate": "Thu, 19 Nov 2026 01:05:32 GMT",
+     "summary": "IT之家 11 月 19 日消息，《21 汽车 · 一见 Auto》昨日报道称，理想汽车与宁德时代之间维持多年的供应关系，在 2026 年秋季走到了一个微妙的临界点。 今年 9 月初，理想先是以 26.5 亿元增资欣旺达动力，随后宣布全系车型切换自研电池。官宣次日，宁德时代 A 股股价下跌 3.65%，市值缩水 540 亿元。外界将此视为双方“切割”的信号，但两家公司对外口径始终一致：仍是战略合作伙伴。 《一见 Auto》指出，双方真正的裂痕始于 2025 年第四季度的 i6 电池供应。当时理想向用户承诺年底提车可配备宁德时代电池，意味着宁德是 i6 该季度的电池独供方。理想 10 月下发的产",
+     "source": "IT之家",
+     "zh": "从“S 级客户”到全系自研：曝理想 i6 押宝宁德时代电池惨遭断供后决心自研"
     },
     {
      "title": "仇某某团队的论文啥时候能被“自然”撤稿？",
@@ -1826,22 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature"
     },
     {
-     "title": "特斯拉第二代 Roadster 将亮相洛杉矶车展：计划 2028 年量产，顶配 Rocket 版能飞",
-     "link": "https://www.ithome.com/1/029/157.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:54:38 GMT",
-     "summary": "IT之家 11 月 19 日消息，特斯拉第二代 Roadster 将于当地时间 11 月 20 日起在美国洛杉矶车展展出。 这款电动跑车已于 2026 年 10 月 15 日首发亮相，采用冷气体推进器等技术，顶配 Rocket 版本被特斯拉称为具备飞行能力，量产计划则定于 2028 年启动。 洛杉矶车展官方信息显示，2026 年车展将于 11 月 20 日至 29 日在洛杉矶会议中心举行，为期 10 天，参展品牌接近 24 个，包括特斯拉、Rivian、Lucid 和保时捷等。 这款新车配备冷气体推进器和吸附系统，现场演示包括沿弧形坡道行驶、倒挂以及腾空翻转等动作。特斯拉还展示了车辆在空中进行",
-     "source": "IT之家",
-     "zh": "特斯拉第二代 Roadster 将亮相洛杉矶车展：计划 2028 年量产，顶配 Rocket 版能飞"
-    },
-    {
-     "title": "华为最薄手表 WATCH Air 更多规格曝光：6.9mm 机身厚度、86% 屏占比",
-     "link": "https://www.ithome.com/1/029/156.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:53:52 GMT",
-     "summary": "IT之家 11 月 19 日消息，数码博主 @数码闲聊站 今日发文透露华为 WATCH Air 的屏幕、材质与机身参数，华为史上最薄机身、最窄黑边、最大屏占比，集齐三个“华为之最”。 据博主介绍，华为 WATCH Air 配备 1.92 英寸 AMOLED 方屏，边框为 1.4mm 极窄四等边，屏占比达到 86% ，峰值亮度 3500nits，并采用 LTPO 2.0。博主称，该手表拥有华为智能手表史上最窄黑边与最大屏占比。 材质方面，博主称华为 WATCH Air 首次采用高亮钛合金一体化工艺 ，强度高于普通铝合金，并搭配轻薄机身。 机身结构上，博主称该手表采用全新结构设计，厚度压至 6.9",
-     "source": "IT之家",
-     "zh": "华为最薄手表 WATCH Air 更多规格曝光：6.9mm 机身厚度、86% 屏占比"
-    },
-    {
      "title": "别再扯什么AI组织了，这事儿等到下辈子也看不见",
      "link": "https://www.huxiu.com/article/4906713.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 08:52:48 +0800",
@@ -1856,22 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 携隐Melody ，作者：携隐，题图来自：视觉中国 我发现很多人跟综艺和影视剧的关系，是人和工具的关系 （I-It） ，它们纯粹就是用来消遣娱乐的&ldquo;东西&rdquo;。 既然是这样的主客体关系，那么剧里的角色也好，为剧营业的演员也罢，甚至综艺中的真人，都不再是活生生的人，而是&ldquo;被我买单的情绪价值&rdquo;，和&ldquo;供我投射的像素块&rdquo;。 所以攻击起来毫无心理负担。因为人们不会对一台榨汁机讲共情。既然你是供我消遣的客体，那我顺着剪辑的引导，凭着30秒的切片，给你贴标签，用最恶毒的字眼审判你的人格，做出各种毫无根据的猜测，不过就是",
      "source": "虎嗅",
      "zh": "电子榨菜，也得把人当人"
-    },
-    {
-     "title": "微软纳德拉示警：比“千年虫”更棘手，AI 正让网络变得越来越脆弱",
-     "link": "https://www.ithome.com/1/029/154.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:41:27 GMT",
-     "summary": "IT之家 11 月 19 日消息，美国当地时间 11 月 18 日在《纽约时报》DealBook 峰会上，微软首席执行官萨提亚 · 纳德拉（Satya Nadella）表示， 近期频发的网络中断可能并非偶发事件，随着人工智能系统能力增强，全球数字基础设施的稳定性正面临更复杂的考验。 针对近期接连出现的网络中断究竟是“反常现象”还是“新常态”，纳德拉表示目前尚难判断。 他将当前形势与“千年虫”（Y2K）问题作类比：当年人们担心进入 2000 年后计算机系统会大面积瘫痪，但那本质上是一个已知漏洞，且只持续一天；而如今，若 AI 模型能力持续增强，其带来的系统性风险和连锁反应可能更难预测。 IT之家",
-     "source": "IT之家",
-     "zh": "微软纳德拉示警：比“千年虫”更棘手，AI 正让网络变得越来越脆弱"
-    },
-    {
-     "title": "平台在慌，人也在慌",
-     "link": "https://www.huxiu.com/article/4906710.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:40:56 +0800",
-     "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳建雄，原文标题：《慌啥子麻：平台在慌，人也在慌》 离2027年只剩四十来天。赵本山那句\"慌啥子麻\"，又火了。 听着像句劝人的话，放在今天，却更像一句反问：都慌成这样了，还能不慌吗？ 01平台在慌，慌的不是产品，是方法论危机 先慌的是平台，腾讯一定不是最后一个恐慌的。 这两天和朋友吃饭，聊到一个判断：腾讯的危机，本质上不是产品危机，是方法论危机。 过去二十年，它靠一套打法走到今天：等别人把模式验证了，再用流量和资金收割市场。QQ堂、微信红包、王者荣耀都是这条路。前提是被模仿的东西得看得见：商业模式、可复制的流程、看得懂的产品形态。 可到了AI战场，被模",
-     "source": "虎嗅",
-     "zh": "平台在慌，人也在慌"
     },
     {
      "title": "Elon Musk says: ‘I’m not MAGA’",
@@ -1890,26 +1914,10 @@ window.INDUSTRY_DATA = {
      "zh": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)"
     },
     {
-     "title": "微信鸿蒙版 App 获 8.0.23.46 邀测升级",
-     "link": "https://www.ithome.com/1/029/153.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:39:31 GMT",
-     "summary": "IT之家 11 月 19 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.23.46 (8394542) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/18-2026/12/18。 和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶Ciuciu 以及 MeoW 反馈，8.0.23 版微信中发现的新特性包括但不限于（IT之家注：不局限于 8.0.23.46）： 0.部分 Flutter 跨端页面（如朋友圈、听一听等页面）响应系统字体粗细； 1.更换铃声选择界面右上角新增铃声设置入口，支持启用或停用个性化",
-     "source": "IT之家",
-     "zh": "微信鸿蒙版 App 获 8.0.23.46 邀测升级"
-    },
-    {
-     "title": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与",
-     "link": "https://www.ithome.com/1/029/152.htm",
-     "pubDate": "Thu, 19 Nov 2026 00:36:12 GMT",
-     "summary": "IT之家 11 月 19 日消息，每日经济新闻今日援引供应链消息，OpenAI 首款 AI 硬件产品计划于 2026 年底启动出货，多家中国厂商参与该项目，其中立讯精密独家承担整机制造，并同时供应核心零部件。关于这款硬件的具体形态，OpenAI 官方尚未正式公布。 此前有报道称，该设备由 OpenAI 与前苹果首席设计官 Jony Ive 的 LoveFrom 工作室合作开发，可能是一款外形类似“甜甜圈”、尺寸接近冰球的无屏设备，集成麦克风、扬声器、摄像头及多种环境传感器，主要依靠语音交互并具备感知周围环境的能力。传闻中该产品定价可能在 300 至 400 美元 （现汇率约合 2,004 至 ",
-     "source": "IT之家",
-     "zh": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与"
-    },
-    {
      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
      "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
-     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 17 # Comments: 0",
+     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 33 # Comments: 5",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon looks like an Opus 5.5 competitor"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
      "link": "https://claudia.gallery/fable/",
      "pubDate": "Thu, 19 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://claudia.gallery/fable/ Comments URL: https://news.ycombinator.com/item?id=50554269 Points: 11 # Comments: 4",
+     "summary": "Article URL: https://claudia.gallery/fable/ Comments URL: https://news.ycombinator.com/item?id=50554269 Points: 16 # Comments: 12",
      "source": "Hacker News",
      "zh": "Fable: Written, painted and directed by Claude Fable 5.2"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "We need smart people who give a shit",
      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
      "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 176 # Comments: 85",
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 186 # Comments: 96",
      "source": "Hacker News",
      "zh": "We need smart people who give a shit"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Multiple vulnerabilities in Regexp and String case conversion",
      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
      "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
-     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 38 # Comments: 2",
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 48 # Comments: 7",
      "source": "Hacker News",
      "zh": "Multiple vulnerabilities in Regexp and String case conversion"
     },
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Software companies are trying to kill home computing?",
      "link": "https://lateblt.livejournal.com/526188.html",
      "pubDate": "Wed, 18 Nov 2026 23:49:18 +0000",
-     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 79 # Comments: 39",
+     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 90 # Comments: 58",
      "source": "Hacker News",
      "zh": "Software companies are trying to kill home computing?"
     },
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
      "source": "Ars Technica",
      "zh": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
-    },
-    {
-     "title": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点",
-     "link": "https://www.tmtpost.com/8210449.html",
-     "pubDate": "Thu, 19 Nov 2026 07:20:00 +0800",
-     "summary": "英特尔再传裁员；SpaceX的400亿美元芯片融资或不计入资产负债表；三年打造超100家新质出海先锋企业，北京经开区“出海方案”正式印发；国家能源局印发《关于加快推动流域水风光一体化发展的指导意见》；腾讯第三季度财报：WorkBuddy日活超1000万，日均Token消耗量超100万亿；豆包工作日活突破800万，企业客户ARR突破20亿元",
-     "source": "钛媒体",
-     "zh": "【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点"
     }
    ]
   },
@@ -2266,44 +2266,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "今日看点｜商务部将召开新闻发布会，介绍近期商务领域重点工作有关情况",
+     "link": "http://www.eeo.com.cn/2026/1119/1096634.shtml",
+     "pubDate": "Thu, 19 Nov 2026 09:20:20 +0800",
+     "summary": "11月19日下午3时，商务部将举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。",
+     "source": "经济观察网",
+     "zh": "今日看点｜商务部将召开新闻发布会，介绍近期商务领域重点工作有关情况"
+    },
+    {
+     "title": "绕远的好望角航线 改变了舟山的加油生意",
+     "link": "http://www.eeo.com.cn/2026/1119/1096599.shtml",
+     "pubDate": "Thu, 19 Nov 2026 09:20:01 +0800",
+     "summary": "经济观察报记者采访多家供油商、船公司，以及舟山港综合保税区管委会获悉，舟山船供油企业提前锁定远期货源、囤足库存等待接单的传统，正在被更加谨慎的小批量采购取代。",
+     "source": "经济观察网",
+     "zh": "绕远的好望角航线 改变了舟山的加油生意"
+    },
+    {
+     "title": "辽宁370元容量补偿落地，搁置储能项目\"苏醒\"",
+     "link": "http://www.eeo.com.cn/2026/1119/1096600.shtml",
+     "pubDate": "Thu, 19 Nov 2026 09:14:02 +0800",
+     "summary": "可靠容量补偿，是指纳入补偿范围的机组，现阶段包括公用煤电机组、电网侧独立新型储能电站和省间外购电，在系统用电最紧张的顶峰时段能够稳定供电，就可以按其可靠容量获得一笔年度补偿。",
+     "source": "经济观察网",
+     "zh": "辽宁370元容量补偿落地，搁置储能项目\"苏醒\""
+    },
+    {
+     "title": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts",
+     "link": "https://seekingalpha.com/news/4674493-uti-expects-925m-945m-fiscal-2027-revenue-while-targeting-34000minus-35500-starts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 20:13:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts"
+    },
+    {
+     "title": "斯莱克：融资净偿还1802.12万元，融资余额5.09亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934800070.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:21 +0800",
+     "summary": "交易所最新数据显示， 斯莱克 于2026年11月18日获融资买入1046.89万元，融资偿还2849.01万元， 当日融资净偿还1802.12万元。 目前，该股融资余额5.09亿，占流通市值比例为8.02%。 该股当日融券卖出3800股，融券偿还2500股， 融券净卖出1300股。 目前，该股融券余量3.95万股，融券余额38.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "斯莱克：融资净偿还1802.12万元，融资余额5.09亿元"
+    },
+    {
+     "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+     "pubDate": "Thu, 19 Nov 2026 01:13:20 GMT",
+     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+     "source": "CNBC",
+     "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
+    },
+    {
+     "title": "成都路桥：融资净买入131.35万元，融资余额1.96亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799968.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:20 +0800",
+     "summary": "交易所最新数据显示， 成都路桥 于2026年11月18日获融资买入329.03万元，融资偿还197.68万元， 当日融资净买入131.35万元。 目前，该股融资余额1.96亿，占流通市值比例为6.04%。 该股当日无融券交易。目前，该股融券余量7.15万股，融券余额30.67万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "成都路桥：融资净买入131.35万元，融资余额1.96亿元"
+    },
+    {
+     "title": "圣农发展：融资净偿还2395.32万元，融资余额2.78亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799864.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:20 +0800",
+     "summary": "交易所最新数据显示， 圣农发展 于2026年11月18日获融资买入1009.08万元，融资偿还3404.40万元， 当日融资净偿还2395.32万元。 目前，该股融资余额2.78亿，占流通市值比例为1.35%。 该股当日融券卖出9100股，融券偿还3600股， 融券净卖出5500股。 目前，该股融券余量18.52万股，融券余额312.06万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全",
+     "source": "东方财富股票",
+     "zh": "圣农发展：融资净偿还2395.32万元，融资余额2.78亿元"
+    },
+    {
+     "title": "瑞丰新材：融资净偿还802.97万元，融资余额2.33亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799764.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:19 +0800",
+     "summary": "交易所最新数据显示， 瑞丰新材 于2026年11月18日获融资买入1595.23万元，融资偿还2398.19万元， 当日融资净偿还802.97万元。 目前，该股融资余额2.33亿，占流通市值比例为3.66%。 该股当日融券卖出4200股，融券偿还1.57万股， 融券净偿还1.15万股。 目前，该股融券余量10.33万股，融券余额245.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "瑞丰新材：融资净偿还802.97万元，融资余额2.33亿元"
+    },
+    {
+     "title": "金春股份：融资净偿还138.47万元，融资余额1.15亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799680.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:19 +0800",
+     "summary": "交易所最新数据显示， 金春股份 于2026年11月18日获融资买入352.67万元，融资偿还491.13万元， 当日融资净偿还138.47万元。 目前，该股融资余额1.15亿，占流通市值比例为3.67%。 该股当日无融券交易。目前，该股融券余量1.16万股，融券余额30.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "金春股份：融资净偿还138.47万元，融资余额1.15亿元"
+    },
+    {
+     "title": "百洋制药：融资净买入371.89万元，融资余额5.16亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799467.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:12 +0800",
+     "summary": "交易所最新数据显示， 百洋制药 于2026年11月18日获融资买入1542.47万元，融资偿还1170.58万元， 当日融资净买入371.89万元。 目前，该股融资余额5.16亿，占流通市值比例为4.23%。 该股当日融券卖出700股，融券偿还1600股， 融券净偿还900股。 目前，该股融券余量9.96万股，融券余额231.27万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "百洋制药：融资净买入371.89万元，融资余额5.16亿元"
+    },
+    {
+     "title": "两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌",
+     "link": "https://wallstreetcn.com/articles/3786240",
+     "pubDate": "Thu, 19 Nov 2026 09:08:34 +0800",
+     "summary": "今年夏天，Leopold Aschenbrenner管理的对冲基金Situational Awareness在短短数天内从管理逾200亿美元资产跌落至需要Ken Griffin旗下Citadel出手救援。 如今，这位25岁的\"AI股神\"又一次开始筹划重启。 11月18日，据知情人士向英国《金融时报》透露，Aschenbrenner近几周与多家主经纪商及投资者讨论了新一轮计划，内容包括重新引入杠杆交易、向外部投资者募集新资金。这一重建计划在相关对话中被称为\"Situational Awareness 2.0\"。 恰逢其持有约50亿美元股份的Anthropic本周启动IPO，为重建计划提供重要支撑",
+     "source": "华尔街见闻",
+     "zh": "两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌"
+    },
+    {
      "title": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“五连跌”",
      "link": "https://wallstreetcn.com/articles/3786239",
      "pubDate": "Thu, 19 Nov 2026 09:06:22 +0800",
      "summary": "英伟达交出超预期财报，新任管理层高调亮相、承诺薪酬激励，却依然未能止住股价颓势。 周三，公司股价再度下跌近3%，创下连续五日下跌纪录，盘中股价一度上涨，随后回吐全部涨幅。折射出市场对领导层动荡的持续担忧。 英伟达临时CEO科莱特·克雷斯（Colette Kress）在周二的分析师电话会议上首次以CEO身份主持财报发布，上调公司销售预期，并就旗下新兴云客户支持政策作出表态。周三盘前英伟达股价一度大涨约4%。 然而，这轮涨势在会后全部回吐，股价终以下跌约2%至3%收盘。道琼斯援引华尔街人士反应称， 市场并不买账管理层\"一切如常\"的定调。 自创始人黄仁勋辞去CEO职务的消息曝光以来，英伟达股价已累计",
      "source": "华尔街见闻",
      "zh": "尽管财报超预期、尽管新管理层称“一切如常”，英伟达依旧“五连跌”"
-    },
-    {
-     "title": "康弘药业：融资净偿还1893.31万元，融资余额5.4亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611193934738652.html",
-     "pubDate": "Thu, 19 Nov 2026 09:04:41 +0800",
-     "summary": "交易所最新数据显示， 康弘药业 于2026年11月18日获融资买入1466.55万元，融资偿还3359.85万元， 当日融资净偿还1893.31万元。 目前，该股融资余额5.40亿，占流通市值比例为3.57%。 该股当日融券卖出4400股，融券偿还1.43万股， 融券净偿还9900股。 目前，该股融券余量21.25万股，融券余额467.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
-     "source": "东方财富股票",
-     "zh": "康弘药业：融资净偿还1893.31万元，融资余额5.4亿元"
-    },
-    {
-     "title": "豪迈科技：融资净买入167.63万元，融资余额7.08亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611193934737887.html",
-     "pubDate": "Thu, 19 Nov 2026 09:04:32 +0800",
-     "summary": "交易所最新数据显示， 豪迈科技 于2026年11月18日获融资买入633.87万元，融资偿还466.25万元， 当日融资净买入167.63万元。 目前，该股融资余额7.08亿，占流通市值比例为1.46%。 该股当日融券卖出300股，融券偿还400股， 融券净偿还100股。 目前，该股融券余量16.44万股，融券余额690.17万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
-     "source": "东方财富股票",
-     "zh": "豪迈科技：融资净买入167.63万元，融资余额7.08亿元"
-    },
-    {
-     "title": "卡倍亿：融资净偿还98.79万元，融资余额3.23亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611193934737283.html",
-     "pubDate": "Thu, 19 Nov 2026 09:04:29 +0800",
-     "summary": "交易所最新数据显示， 卡倍亿 于2026年11月18日获融资买入356.84万元，融资偿还455.64万元， 当日融资净偿还98.79万元。 目前，该股融资余额3.23亿，占流通市值比例为4.17%。 该股当日融券卖出300股，融券偿还0股， 融券净卖出300股。 目前，该股融券余量8640股，融券余额26.67万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承",
-     "source": "东方财富股票",
-     "zh": "卡倍亿：融资净偿还98.79万元，融资余额3.23亿元"
-    },
-    {
-     "title": "中南文化：融资净偿还257.68万元，融资余额3.54亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611193934736771.html",
-     "pubDate": "Thu, 19 Nov 2026 09:04:27 +0800",
-     "summary": "交易所最新数据显示， 中南文化 于2026年11月18日获融资买入1028.33万元，融资偿还1286.01万元， 当日融资净偿还257.68万元。 目前，该股融资余额3.54亿，占流通市值比例为4.75%。 该股当日融券卖出100股，融券偿还100股， 融券净卖出0股。 目前，该股融券余量10.52万股，融券余额33.14万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "中南文化：融资净偿还257.68万元，融资余额3.54亿元"
     },
     {
      "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
@@ -2338,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
-     "title": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934700382.html",
-     "pubDate": "Thu, 19 Nov 2026 08:57:56 +0800",
-     "summary": "周三公布的美联储10月会议纪要显示，与激进的AI投资及资产价格高企相关的金融稳定风险，已颇为罕见地引起美联储的关注。 在10月27日至28日的政策会议上，美联储决策者和央行工作人员在对金融风险进行广泛审查时提出了这一担忧。 尽管市场对高企且持续的通胀水平仍存忧虑，但官员们在此次会议上仍决定维持利率不变。不过，会议纪要显示，几乎所有决策者都认为，如果经济走势符合预期，则需要进一步加息。 会议纪要称，当前的脆弱性对外部冲击的放大效应可能稍甚于以往。其中，居高不下的资产估值与对冲基金的高杠杆率是最突出的隐患 ；不过， 银行 系统及家庭坚实的资产负债表，为抵御更剧烈的负面冲击提供了关键屏障。 美联储决",
-     "source": "东方财富资讯",
-     "zh": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报"
-    },
-    {
-     "title": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放",
-     "link": "http://finance.eastmoney.com/news/11874,202611193934690519.html",
-     "pubDate": "Thu, 19 Nov 2026 08:55:02 +0800",
-     "summary": "①光模块龙头拟开启第二轮回购，真金 白银 护盘提振信心； ②算力 租赁 需求持续高增，行业步入量价齐升 黄金 期； ③美国接连大规模宕机， 网络安全 防护需求凸显； ④国家能源局部署流域水风光一体化，绿电供给扩容提质； ⑤充电设施2030年要达4000万个，建设增量空间打开； ⑥权志龙母公司拟推 机器人 女团，人形 机器人 +AI娱乐融合提速。 盘面回顾 11月18日，A股三大指数集体收涨，沪指涨0.09%报3587.83点，创业板指涨0.85%。不过，沪深两市全天成交1.37万亿元、刷新年内新低，全市场超4100股下跌。算力 租赁 、国产算力、 PCB 方向领涨，AI漫剧、 贵金属 、医药板",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放"
-    },
-    {
      "title": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks",
      "link": "https://seekingalpha.com/news/4674491-us-oil-price-slides-as-data-shows-larger-than-expected-increases-in-crude-gasoline-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 19:47:27 -0500",
@@ -2370,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
     },
     {
-     "title": "利好突袭！刚刚全线拉升！史上最大IPO定了",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934716375.html",
-     "pubDate": "Thu, 19 Nov 2026 08:43:38 +0800",
-     "summary": "AI巨头Anthropic的IPO定价高于区间并扩大发行规模，显示需求旺盛，提振市场情绪。 今日早间，美股 期货 大幅拉升，截至发稿，纳指 期货 涨1.03%，标普500指数 期货 涨0.55%，道指期货涨0.32%。美股盘后交易时段，AI硬件股集体反弹， 英伟达 涨0.80%， 博通 、 高通 、ARM、 英特尔 、 美光科技 、 希捷科技 、 康宁 、Lumentum等涨超1%。 消息面上，AI巨头Anthropic将其IPO发行价定为每股83美元，高于此前70—78美元的发行指导区间。由于投资者需求强劲，发行规模由原计划约8.25亿股扩大至9.8亿股。按此计算，本次IPO募资额约813亿",
-     "source": "东方财富资讯",
-     "zh": "利好突袭！刚刚全线拉升！史上最大IPO定了"
-    },
-    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Thu, 19 Nov 2026 08:42:26 +0800",
@@ -2386,44 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "GTA 6--“史上最火爆游戏”来了？",
-     "link": "https://wallstreetcn.com/articles/3786243",
-     "pubDate": "Thu, 19 Nov 2026 08:38:15 +0800",
-     "summary": "《侠盗猎车手6》（GTA 6）将于 11月19日 正式发布， 预购销售额已突破16.5亿美元，有望成为史上最大规模娱乐产品发布事件，其母公司Take-Two Interactive股价随之大涨。 据市场情报机构Sensor Tower数据，GTA 6预购销售额已超过16.5亿美元，预购数量逾1700万份，创下游戏史上最高预购纪录。游戏在评分聚合平台Metacritic上获得99分，与1998年任天堂经典《塞尔达传说：时之笛》并列史上最高分。Baird分析师Colin Sebastian在研报中写道： “GTA 4获得98分，GTA 5获得97分，显然，这13年的等待没有白费。” 分析师预计，游",
-     "source": "华尔街见闻",
-     "zh": "GTA 6--“史上最火爆游戏”来了？"
-    },
-    {
      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 00:30:00 GMT",
      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
      "source": "MarketWatch",
      "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
-    },
-    {
-     "title": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934645436.html",
-     "pubDate": "Thu, 19 Nov 2026 08:22:14 +0800",
-     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的 纳斯达克 上市铺平了道路，也标志着 人工智能 行业的一个历史性时刻。 此次IPO的发行规模也有所扩大。Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 Anthropic此前表示将发行8.25亿股。 这将使Anthropic估值达到1.5万亿美元，超过该公司此前1.",
-     "source": "东方财富资讯",
-     "zh": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿"
-    },
-    {
-     "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？",
-     "link": "http://stock.eastmoney.com/news/11228,202611193934644890.html",
-     "pubDate": "Thu, 19 Nov 2026 08:17:49 +0800",
-     "summary": "Anthropic的超级IPO即将登陆市场。据最新报道，该公司已将IPO发行价定为每股83美元，高于此前公布的70至78美元发行区间。其股票预计将于周四开始交易。 以此计算，Anthropic完全稀释估值约1.5万亿美元，仅次于 SpaceX （1.77万亿美元），但据媒体此前报道，Anthropic及其部分投资方计划通过本次IPO外加一轮独立私募配售，合计募资额最高可达904亿美元。两项融资合计规模将超过 SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值 人工智能 行业动荡之际： 数据中心 的抵制助长了民主党的蓝色浪潮，再叠加“黄仁勋风波”，市场",
-     "source": "东方财富资讯",
-     "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
-    },
-    {
-     "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
-     "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
-     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
     },
     {
      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
      "source": "CNBC",
      "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
-    },
-    {
-     "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "pubDate": "Wed, 18 Nov 2026 23:44:11 GMT",
-     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
     },
     {
      "title": "Wheat leads losses in U.S. grain futures, falling to lowest since January",

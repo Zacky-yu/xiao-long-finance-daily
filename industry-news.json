@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 09:35:31",
+ "generated_at": "2026/11/19 09:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
      "source": "TechCrunch AI",
      "zh": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
+    },
+    {
+     "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+     "link": "https://www.qbitai.com/2026/11/510947.html",
+     "pubDate": "Thu, 19 Nov 2026 00:26:40 +0000",
+     "summary": "国产AI工具实现「一个人就是一个剧组」",
+     "source": "量子位",
+     "zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！"
     },
     {
      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -239,14 +247,6 @@
      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
      "source": "OpenAI",
      "zh": "Managing frontier AI risk: From training to deployment"
-    },
-    {
-     "title": "兄弟联手创业，做金融AI Agent，融资17亿",
-     "link": "https://zhidx.com/p/611750.html",
-     "pubDate": "Wed, 18 Nov 2026 13:35:21 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月18日消息，昨日，英国金融AI公司Model ML宣布完成 2.5亿美元（约合人民币16.7亿元） B轮融资，估值达到 15亿美元（约合人民币100亿元） 。 ▲Model ML宣布完成2.5亿美元B轮融资（图源：X） 本轮融资由泛大西洋投资集团和金融科技投资机构QED Investors联合领投，Evolution Equity Partners、Airtree、Forestay Capital、Y Combinator、FT Partners、Latitude、Inception Fund及13Books Capital等机构参投。 ",
-     "source": "智东西",
-     "zh": "兄弟联手创业，做金融AI Agent，融资17亿"
     }
    ]
   },
@@ -345,22 +345,6 @@
      "zh": "Physics Over Probability: How Agentic AI Solves Electronic Systems Verification"
     },
     {
-     "title": "Meet Nobi, your Raspberry Pi-based AI companion",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/meet-nobi-your-raspberry-pi-based-local-intelligent-friend-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 16:39:46 +0000",
-     "summary": "Check out Nobi, the Raspberry Pi 4-based desk-companion AI robot created by Gadget Master Devin Roberts. Nobi? It stands for Network Optional Bot Intelligence. “He listens, talks back, and remembers […] The post Meet Nobi, your Raspberry Pi-based AI companion appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Meet Nobi, your Raspberry Pi-based AI companion"
-    },
-    {
-     "title": "Gadget Watch: LG and Philips 5K gaming monitors",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/gadget-watch/gadget-watch-lg-and-philips-5k-gaming-monitors-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 16:10:33 +0000",
-     "summary": "Blimey, it's taken me so long to write about the LG UltraGear evo GM9 5K - from back in April - that another display - the Philips Evnia 27M2D5901A - finally prompts me into action! The post Gadget Watch: LG and Philips 5K gaming monitors appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Gadget Watch: LG and Philips 5K gaming monitors"
-    },
-    {
      "title": "Is AI Ready to Help Chip Teams Get the Architecture Right?",
      "link": "https://semiwiki.com/eda/undo/376342-is-ai-ready-to-help-chip-teams-get-the-architecture-right/",
      "pubDate": "Wed, 18 Nov 2026 16:00:33 +0000",
@@ -369,28 +353,12 @@
      "zh": "Is AI Ready to Help Chip Teams Get the Architecture Right?"
     },
     {
-     "title": "Picture of the Day: Space Selfie – A view from you of me!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-space-selfie-looking-at-you-looking-at-me-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 15:29:55 +0000",
-     "summary": "Thanks to Nasa for this one. There are some amazing images being taken from space and I do like this recent astronaut selfie! The post Picture of the Day: Space Selfie – A view from you of me! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Space Selfie – A view from you of me!"
-    },
-    {
      "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
      "link": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
      "summary": "Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology enables accurate, reliable tracking of rotational movement even when power is removed. From robotics and linea",
      "source": "EE Times",
      "zh": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design"
-    },
-    {
-     "title": "Dissing Datacentres",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/datacentre-dislike-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 14:20:37 +0000",
-     "summary": "The backlash against datacentres isn’t limited to the US. According to a survey by Statista Consumer Insights concerns are equally widespread in the UK and only slightly less common in […] The post Dissing Datacentres appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Dissing Datacentres"
     },
     {
      "title": "PDF Solutions: Has the Puck Finally Arrived?",
@@ -431,22 +399,6 @@
      "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
      "source": "Semiconductor Today",
      "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Micron backs space computing startup in Series B funding round",
-     "link": "https://www.electronicsweekly.com/news/business/finance/micron-backs-space-computing-startup-in-series-b-funding-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 12:01:18 +0000",
-     "summary": "Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm […] The post Micron backs space computing startup in Series B funding round appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Micron backs space computing startup in Series B funding round"
-    },
-    {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 18 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
     },
     {
      "title": "Infineon introduces HybridPACK HD power module for electric commercial vehicle drivetrain inverters",
@@ -495,6 +447,54 @@
      "summary": "Artificial intelligence (AI) interconnect technology company Palomino Laboratories Inc of Goleta, CA, USA has appointed John E. Bowers, Distinguished Professor Emeritus of Materials, Electrical and Computer Engineering, and Technology Management at the University of California, Santa Barbara (UCSB),",
      "source": "Semiconductor Today",
      "zh": "Palomino appoints John Bowers to Scientific Advisory Board"
+    },
+    {
+     "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+     "link": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/",
+     "pubDate": "Tue, 17 Nov 2026 17:44:39 +0000",
+     "summary": "Researchers at Arizona State University and Ampere Computing published “DT-MATCH: Defect- and Topology-Aware Chiplet Matching for Yield Optimization in Heterogeneous Integration.” Abstract “Heterogeneous integration (HI) and advanced packaging enable chiplet-based system-on-chip (SoC) designs; howev",
+     "source": "Semiconductor Engineering",
+     "zh": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)"
+    },
+    {
+     "title": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
+     "link": "https://semiengineering.com/backside-clock-mesh-reduces-skew-and-power-in-backside-power-delivery-kaist/",
+     "pubDate": "Tue, 17 Nov 2026 17:35:37 +0000",
+     "summary": "Researchers at Korea Advanced Institute of Science and Technology (KAIST) published “Clock Distribution Network with Backside Clock Mesh in BSPDN Architecture.” Abstract Excerpt “We propose a clock distribution network (CDN) in which the clock mesh is located on backside metal (BM) layers, while the",
+     "source": "Semiconductor Engineering",
+     "zh": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)"
+    },
+    {
+     "title": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/palamino-171126.shtml",
+     "pubDate": "Tue, 17 Nov 2026 16:22:22 GMT",
+     "summary": "Artificial intelligence (AI) interconnect technology company Palomino Laboratories Inc of Goleta, CA, USA has appointed NBA Champion Tristan Thompson to its strategic advisory board...",
+     "source": "Semiconductor Today",
+     "zh": "Palomino appoints NBA Champion Tristan Thompson to Strategic Advisory Board"
+    },
+    {
+     "title": "Physics Vs. Data",
+     "link": "https://semiengineering.com/physics-vs-data/",
+     "pubDate": "Tue, 17 Nov 2026 08:15:58 +0000",
+     "summary": "Why both approaches are needed at angstrom-level dimensions. The post Physics Vs. Data appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Physics Vs. Data"
+    },
+    {
+     "title": "Chip Industry Technical Paper Roundup: Nov. 17",
+     "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+     "pubDate": "Tue, 17 Nov 2026 08:01:08 +0000",
+     "summary": "HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embedded ECC for AI weight protection; optimized e-beam evaporation for metal-semiconductor contacts; sub-volt HZO ferroelectric capacitors; randomized-cache HW sec",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Industry Technical Paper Roundup: Nov. 17"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1769,6 +1769,46 @@
    "total": 18,
    "items": [
     {
+     "title": "金属崩了，金银铜齐跌",
+     "link": "https://www.huxiu.com/article/4906736.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:47:16 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李丹 董静，原文标题：《金属崩了！金银铜齐跌》 11月18日周三，全球金属市场遭遇猛烈抛售，铜等工业金属与贵金属金银集体大跌。盘中纽约期铜和伦铜跌近6%、纽约期金跌超3%、期银跌超5%。 这轮下跌既受到美联储加息预期升温的冲击，也反映出市场对AI基础设施投资前景和全球工业需求的担忧。此前支撑金属价格上涨的多头交易正在松动，美元走强、资金获利了结和技术性抛售则进一步放大跌势。 与此同时，市场传言此轮抛售还与Anthropic（ANT）IPO的资金腾挪密切相关——投资者正在抛售风险资产以为这一可能创历史纪录的IPO筹集资金。 伦铜收创七个月新低AI交易降温",
+     "source": "虎嗅",
+     "zh": "金属崩了，金银铜齐跌"
+    },
+    {
+     "title": "这下真的要文化输出了",
+     "link": "https://www.huxiu.com/article/4906723.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:44:45 +0800",
+     "summary": "本文来自微信公众号： 九边 ，作者：九边 最近有个新闻，说浙江横店影视城那边出了个挺有意思的事。今年前五个月，去横店的外国游客数量一下子涨了455%，差不多翻了四倍半。 以前老外也去横店，基本就是逛逛景点，看仿造的紫禁城，还有老上海街景。但现在他们去横店，主要是为了花钱演戏。因为横店在八月份的时候，专门搞了个微短剧拍摄体验项目。服装、化妆、道具一条龙，拍完还给剪出一条完整的成片。 这项目上线没多久，就已经有两千多人去拍过了。现场的导演经常从早拍到晚，根本停不下来。 看到这事儿的时候，我就在想，以前咱们老聊怎么把自己的文化推广出去。但过去的做法，大多停留在让别人“看到”的阶段。比如拍个宣传片，或",
+     "source": "虎嗅",
+     "zh": "这下真的要文化输出了"
+    },
+    {
+     "title": "巴西短剧App素材投放CPA涨到12美元，是素材问题还是竞价环境变了？",
+     "link": "https://www.baijing.cn/question/638816",
+     "pubDate": "Thu, 19 Nov 2026 01:43:50 +0000",
+     "summary": "上个月巴西站投放短剧App，Meta和TikTok一起跑，素材团队5个人日产40条竖版切片，月初CPA还能压在6-7美元，这两周直接飙到12美元左右，预算月耗大概8万美元，转化率没掉但展示成本涨了快一倍。已经试过换前3秒钩子、加葡语字幕、把付费点提前到第8集，效果都不明显。现在卡在判断不了到底是素材疲劳还是巴西Q4竞价整体抬升，想直接问：这个CPA水平在巴西短剧赛道算正常区间吗，还是该先砍量保ROI？",
+     "source": "白鲸出海",
+     "zh": "巴西短剧App素材投放CPA涨到12美元，是素材问题还是竞价环境变了？"
+    },
+    {
+     "title": "AI医疗诊断正在上海加速落地",
+     "link": "https://www.huxiu.com/article/4906735.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:43:29 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：黄华 11月初，上海市卫生健康委、上海市医保局等共同启动“医疗健康数据融合开发利用工作专班”，专班将响应国家数据局医疗健康行业数据资源开发利用攻坚行动，承担推进全市卫生健康数据的制度建设、融合开发、场景创新、市场运营等任务，更好释放医疗数据要素价值。 此前在今年7月，《上海市卫生健康发展\"十五五\"规划》提出，到2030年，\"人工智能+卫生健康\"应用场景要在全市医疗机构实现100%覆盖。 这是上海对于人工智能在医疗领域的最新规划，在一系列政策加持下，人工智能技术在上海医院的应用速度正在加速。 界面新闻梳理发现，包括国家人工智能应用中试基地携手联影智能研发出",
+     "source": "虎嗅",
+     "zh": "AI医疗诊断正在上海加速落地"
+    },
+    {
+     "title": "郭海：中美谁也取代不了谁，亚太秩序将进入新阶段",
+     "link": "https://www.huxiu.com/article/4906729.html?f=rss",
+     "pubDate": "Thu, 19 Nov 2026 09:38:14 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：郭海，原文标题：《APEC时间｜郭海：中美谁也取代不了谁，亚太秩序将进入新阶段》 导语：11月18日下午，美国总统特朗普抵达深圳，出席将于18日至19日举行的亚太经合组织（APEC）第三十三次领导人非正式会议。根据白宫公布的行程安排，19日上午，特朗普将出席APEC领导人非正式会议。中午时段，中国国家主席习近平将与特朗普举行双边会晤，就重大国际问题深入交换意见。而在此之前，中国外交部宣布，中国国家主席习近平将在19日同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。 在启程赴亚洲前，特朗普曾在白宫接受采访时表示，当前美中关系“非常好”，但也承认其团队",
+     "source": "虎嗅",
+     "zh": "郭海：中美谁也取代不了谁，亚太秩序将进入新阶段"
+    },
+    {
      "title": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)",
      "link": "https://www.techmeme.com/261118/p53#a261118p53",
      "pubDate": "Wed, 18 Nov 2026 20:30:01 -0500",
@@ -1825,14 +1865,6 @@
      "zh": "格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试"
     },
     {
-     "title": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”",
-     "link": "https://www.huxiu.com/article/4906709.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:14:38 +0800",
-     "summary": "&ldquo;十元快剪暴打全国设计总监&rdquo;的热搜一出，人们发现，年轻人又悄悄捧红了路边的快剪店。实际上，理发店这门生意很难简单分为&ldquo;十元&rdquo;和&ldquo;百元&rdquo;，这中间还有不少需求没挤进这场擂台赛。大多数人希望找到一家离家近价格在可接受范围内的理发店，&ldquo;设计&rdquo;不必成为加价理由，&ldquo;便民&rdquo;也不至于让我不好意思提要求。 本文来自微信公众号： 新周刊 ，作者：Fleming，编辑：陆一鸣，题图来自：视觉中国 &ldquo;没有人能笑着从理发店里出来。&rdquo;以前我总以为这是顾客的心声。最近才发现，这句话",
-     "source": "虎嗅",
-     "zh": "十元快剪的老Tony上热搜，忽然就成了互联网“爽文男主”"
-    },
-    {
      "title": "JEDEC 预览 DDR6 内存规范：数据总线宽度提升 50%，模组长度大减 44%",
      "link": "https://www.ithome.com/1/029/162.htm",
      "pubDate": "Thu, 19 Nov 2026 01:11:20 GMT",
@@ -1865,14 +1897,6 @@
      "zh": "Edge AI Daily 早报（11月19日）"
     },
     {
-     "title": "仇某某团队的论文啥时候能被“自然”撤稿？",
-     "link": "https://www.huxiu.com/article/4906718.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:05:19 +0800",
-     "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园，原文标题：《仇某某团队的论文啥时候能被《自然》撤稿？》 11月13日，上海市就2025年3月一名女童在上海交大附属新华医院接受交大仇子龙团队研发的基因编辑治疗后死亡事件发布了调查报告： 调查的方向包括两个，一个是新华医院承担的临床研究——6岁幼童在接受试验性的基因编辑治疗后因严重不良反应死亡；另一个是临床研究的基础——相关基因治疗的临床前研究以论文形式在2026年2月发表在著名学术期刊《自然》上，该论文自从受试者死亡被曝光后一直备受质疑。 而根据调查组的结论，这篇论文确实有问题： “发表论文时未及时披露于2025年2月完成的非人",
-     "source": "虎嗅",
-     "zh": "仇某某团队的论文啥时候能被“自然”撤稿？"
-    },
-    {
      "title": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)",
      "link": "https://www.techmeme.com/261118/p52#a261118p52",
      "pubDate": "Wed, 18 Nov 2026 20:05:00 -0500",
@@ -1881,28 +1905,12 @@
      "zh": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)"
     },
     {
-     "title": "华勤273亿新生意只换回2亿",
-     "link": "https://www.huxiu.com/article/4906716.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 09:01:54 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 这两年，AI服务器订单越来越多，产业链上的公司都忙起来了。订单多了，收入涨了，利润总该跟着涨吧？ 华勤技术的三季报却有点别扭： 今年第三季度，它比去年同期多做了273亿元生意，扣掉那些偶尔发生的收益和损失，利润只多了2.17亿元。 生意确实大了，赚的钱也多了，可两边差得实在有点远；华勤接下这么多算力订单，到底能留下多少？它赚的钱里，还有三分之一跟接多少单没关系。 …… 那273亿元新增收入，带来的毛利只有13.04亿元。 相当于每多卖100元东西，只多带来4.77元毛利，华勤当季整体毛利率还有6.89%呢。 当然，这算的是公司全部业务的增量，不能直",
-     "source": "虎嗅",
-     "zh": "华勤273亿新生意只换回2亿"
-    },
-    {
      "title": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？",
      "link": "https://www.baijing.cn/question/638814",
      "pubDate": "Thu, 19 Nov 2026 00:58:11 +0000",
      "summary": "我们做葡语短剧出海，主攻巴西，团队 12 人，月投放预算约 8 万美元，主要在 Meta 和 TikTok 上跑，剧集用葡语配音加本地演员补拍。上个月起量后单日消耗冲到 3000 美元，付费转化率 1.8%，看起来 ROI 能打正。但卡在钱上：巴西本地支付走 Pix 和信用卡分期，Pix 到账快，信用卡分期回款要 30 到 45 天，加上本地收单方结算 T+15，现金流被压得很紧。试过换两家本地收单通道、把分期期数从 12 期压到 6 期，回款周期只缩短了 5 天左右，分期转化率反而掉了两成。现在不敢继续放量，卡在回款周期和放量节奏怎么匹配这一步。想直接问：在巴西做短剧投放，回款周期压到多少天",
      "source": "白鲸出海",
      "zh": "巴西短剧投放 ROI 打正了，但回款周期拖到 45 天，这生意还能继续放量吗？"
-    },
-    {
-     "title": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature",
-     "link": "https://www.huxiu.com/article/4906715.html?f=rss",
-     "pubDate": "Thu, 19 Nov 2026 08:57:01 +0800",
-     "summary": "本文来自微信公众号： 返朴 ，作者：李娟 前额叶，一个科学名词，生生被玩成了网络“热梗”，以至于“富养前额叶”成了当代养生时尚。但它在科学上足够站得住脚吗？ 在科学期刊上，“没发现”历来最难发表。这一次，32个国际团队汇集40套脑成像数据、2175名参与者，按预先注册的方案寻找情绪调节能力的大脑印记，结果几乎处处扑空，Nature却发表了它。这项阴性结果的分量在于：它不是没测出来，而是有把握地说“确实没有”。 本文收录于合集前沿追踪 “我不是摆烂，只是前额叶下线了。” “一点就炸？你的理智刹车——前额叶失灵了。” “择偶新标准：找一个前额叶友好的人。” 最近，前额叶成了网络热词。拖延、易怒、专",
-     "source": "虎嗅",
-     "zh": "被玩成网络热梗的科学现象究竟成立吗？一项几乎处处扑空的研究，登上Nature"
     },
     {
      "title": "Elon Musk says: ‘I’m not MAGA’",
@@ -1924,7 +1932,7 @@
      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
      "pubDate": "Thu, 19 Nov 2026 00:29:45 +0000",
-     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 33 # Comments: 5",
+     "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 46 # Comments: 13",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon looks like an Opus 5.5 competitor"
     },
@@ -1956,7 +1964,7 @@
      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
      "link": "https://claudia.gallery/fable/",
      "pubDate": "Thu, 19 Nov 2026 00:18:18 +0000",
-     "summary": "Article URL: https://claudia.gallery/fable/ Comments URL: https://news.ycombinator.com/item?id=50554269 Points: 16 # Comments: 12",
+     "summary": "Article URL: https://claudia.gallery/fable/ Comments URL: https://news.ycombinator.com/item?id=50554269 Points: 23 # Comments: 18",
      "source": "Hacker News",
      "zh": "Fable: Written, painted and directed by Claude Fable 5.2"
     },
@@ -1972,7 +1980,7 @@
      "title": "We need smart people who give a shit",
      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
      "pubDate": "Wed, 18 Nov 2026 23:53:49 +0000",
-     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 186 # Comments: 96",
+     "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 197 # Comments: 107",
      "source": "Hacker News",
      "zh": "We need smart people who give a shit"
     },
@@ -1980,7 +1988,7 @@
      "title": "Multiple vulnerabilities in Regexp and String case conversion",
      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
      "pubDate": "Wed, 18 Nov 2026 23:52:50 +0000",
-     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 48 # Comments: 7",
+     "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 59 # Comments: 10",
      "source": "Hacker News",
      "zh": "Multiple vulnerabilities in Regexp and String case conversion"
     },
@@ -1988,7 +1996,7 @@
      "title": "Software companies are trying to kill home computing?",
      "link": "https://lateblt.livejournal.com/526188.html",
      "pubDate": "Wed, 18 Nov 2026 23:49:18 +0000",
-     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 90 # Comments: 58",
+     "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l... Comments URL: https://news.ycombinator.com/item?id=50554010 Points: 99 # Comments: 72",
      "source": "Hacker News",
      "zh": "Software companies are trying to kill home computing?"
     },
@@ -1996,17 +2004,9 @@
      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
      "pubDate": "Wed, 18 Nov 2026 23:49:13 +0000",
-     "summary": "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "Palo Alto Networks to Acquire Applied Compute for $4.5B"
-    },
-    {
-     "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-     "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-     "pubDate": "Wed, 18 Nov 2026 23:25:04 +0000",
-     "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-     "source": "Ars Technica",
-     "zh": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
     }
    ]
   },
@@ -2265,6 +2265,30 @@
    "total": 13,
    "items": [
     {
+     "title": "二手房价格连涨8个月，一线城市率先企稳",
+     "link": "http://www.eeo.com.cn/2026/1119/1096672.shtml",
+     "pubDate": "Thu, 19 Nov 2026 09:47:50 +0800",
+     "summary": "二手房市场的活跃是积极信号，但反映的是存量市场的自我调节能力，新房市场的调整、价格体系的再平衡、置换链条的修复，还需要更长时间来完成。",
+     "source": "经济观察网",
+     "zh": "二手房价格连涨8个月，一线城市率先企稳"
+    },
+    {
+     "title": "Everpure anticipates Q4 revenue of $1.505B to $1.515B as it raises FY27 revenue outlook to $5.200B to $5.210B",
+     "link": "https://seekingalpha.com/news/4674494-everpure-anticipates-q4-revenue-of-1_505b-to-1_515b-as-it-raises-fy27-revenue-outlook-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 20:44:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Everpure anticipates Q4 revenue of $1.505B to $1.515B as it raises FY27 revenue outlook to $5.200B to $5.210B"
+    },
+    {
+     "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+     "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+     "pubDate": "Thu, 19 Nov 2026 01:31:05 GMT",
+     "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+     "source": "Financial Times",
+     "zh": "Trump, Xi and Putin to hold high-stakes trilateral summit"
+    },
+    {
      "title": "Cintas Chairman met with Trump to save the $5.5B UniFirst deal - Semafor",
      "link": "https://seekingalpha.com/news/4674492-cintas-chairman-met-with-trump-in-effort-to-save-5_5b-unifirst-deal-semafor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 20:22:31 -0500",
@@ -2305,12 +2329,60 @@
      "zh": "Uti expects $925M-$945M fiscal 2027 revenue while targeting 34,000-35,500 starts"
     },
     {
+     "title": "斯莱克：融资净偿还1802.12万元，融资余额5.09亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934800070.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:21 +0800",
+     "summary": "交易所最新数据显示， 斯莱克 于2026年11月18日获融资买入1046.89万元，融资偿还2849.01万元， 当日融资净偿还1802.12万元。 目前，该股融资余额5.09亿，占流通市值比例为8.02%。 该股当日融券卖出3800股，融券偿还2500股， 融券净卖出1300股。 目前，该股融券余量3.95万股，融券余额38.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "斯莱克：融资净偿还1802.12万元，融资余额5.09亿元"
+    },
+    {
      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "pubDate": "Thu, 19 Nov 2026 01:13:20 GMT",
      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
      "source": "CNBC",
      "zh": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX"
+    },
+    {
+     "title": "成都路桥：融资净买入131.35万元，融资余额1.96亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799968.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:20 +0800",
+     "summary": "交易所最新数据显示， 成都路桥 于2026年11月18日获融资买入329.03万元，融资偿还197.68万元， 当日融资净买入131.35万元。 目前，该股融资余额1.96亿，占流通市值比例为6.04%。 该股当日无融券交易。目前，该股融券余量7.15万股，融券余额30.67万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "成都路桥：融资净买入131.35万元，融资余额1.96亿元"
+    },
+    {
+     "title": "圣农发展：融资净偿还2395.32万元，融资余额2.78亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799864.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:20 +0800",
+     "summary": "交易所最新数据显示， 圣农发展 于2026年11月18日获融资买入1009.08万元，融资偿还3404.40万元， 当日融资净偿还2395.32万元。 目前，该股融资余额2.78亿，占流通市值比例为1.35%。 该股当日融券卖出9100股，融券偿还3600股， 融券净卖出5500股。 目前，该股融券余量18.52万股，融券余额312.06万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全",
+     "source": "东方财富股票",
+     "zh": "圣农发展：融资净偿还2395.32万元，融资余额2.78亿元"
+    },
+    {
+     "title": "瑞丰新材：融资净偿还802.97万元，融资余额2.33亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799764.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:19 +0800",
+     "summary": "交易所最新数据显示， 瑞丰新材 于2026年11月18日获融资买入1595.23万元，融资偿还2398.19万元， 当日融资净偿还802.97万元。 目前，该股融资余额2.33亿，占流通市值比例为3.66%。 该股当日融券卖出4200股，融券偿还1.57万股， 融券净偿还1.15万股。 目前，该股融券余量10.33万股，融券余额245.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "瑞丰新材：融资净偿还802.97万元，融资余额2.33亿元"
+    },
+    {
+     "title": "金春股份：融资净偿还138.47万元，融资余额1.15亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799680.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:19 +0800",
+     "summary": "交易所最新数据显示， 金春股份 于2026年11月18日获融资买入352.67万元，融资偿还491.13万元， 当日融资净偿还138.47万元。 目前，该股融资余额1.15亿，占流通市值比例为3.67%。 该股当日无融券交易。目前，该股融券余量1.16万股，融券余额30.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "金春股份：融资净偿还138.47万元，融资余额1.15亿元"
+    },
+    {
+     "title": "百洋制药：融资净买入371.89万元，融资余额5.16亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611193934799467.html",
+     "pubDate": "Thu, 19 Nov 2026 09:13:12 +0800",
+     "summary": "交易所最新数据显示， 百洋制药 于2026年11月18日获融资买入1542.47万元，融资偿还1170.58万元， 当日融资净买入371.89万元。 目前，该股融资余额5.16亿，占流通市值比例为4.23%。 该股当日融券卖出700股，融券偿还1600股， 融券净偿还900股。 目前，该股融券余量9.96万股，融券余额231.27万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "百洋制药：融资净买入371.89万元，融资余额5.16亿元"
     },
     {
      "title": "两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌",
@@ -2361,22 +2433,6 @@
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
-     "title": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934700382.html",
-     "pubDate": "Thu, 19 Nov 2026 08:57:56 +0800",
-     "summary": "周三公布的美联储10月会议纪要显示，与激进的AI投资及资产价格高企相关的金融稳定风险，已颇为罕见地引起美联储的关注。 在10月27日至28日的政策会议上，美联储决策者和央行工作人员在对金融风险进行广泛审查时提出了这一担忧。 尽管市场对高企且持续的通胀水平仍存忧虑，但官员们在此次会议上仍决定维持利率不变。不过，会议纪要显示，几乎所有决策者都认为，如果经济走势符合预期，则需要进一步加息。 会议纪要称，当前的脆弱性对外部冲击的放大效应可能稍甚于以往。其中，居高不下的资产估值与对冲基金的高杠杆率是最突出的隐患 ；不过， 银行 系统及家庭坚实的资产负债表，为抵御更剧烈的负面冲击提供了关键屏障。 美联储决",
-     "source": "东方财富资讯",
-     "zh": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报"
-    },
-    {
-     "title": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放",
-     "link": "http://finance.eastmoney.com/news/11874,202611193934690519.html",
-     "pubDate": "Thu, 19 Nov 2026 08:55:02 +0800",
-     "summary": "①光模块龙头拟开启第二轮回购，真金 白银 护盘提振信心； ②算力 租赁 需求持续高增，行业步入量价齐升 黄金 期； ③美国接连大规模宕机， 网络安全 防护需求凸显； ④国家能源局部署流域水风光一体化，绿电供给扩容提质； ⑤充电设施2030年要达4000万个，建设增量空间打开； ⑥权志龙母公司拟推 机器人 女团，人形 机器人 +AI娱乐融合提速。 盘面回顾 11月18日，A股三大指数集体收涨，沪指涨0.09%报3587.83点，创业板指涨0.85%。不过，沪深两市全天成交1.37万亿元、刷新年内新低，全市场超4100股下跌。算力 租赁 、国产算力、 PCB 方向领涨，AI漫剧、 贵金属 、医药板",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨“易中天”再度集体发声；算力租赁需求持续高增；充电设施千万增量待释放"
-    },
-    {
      "title": "U.S. oil price slides as data shows larger-than-expected increases in crude, gasoline stocks",
      "link": "https://seekingalpha.com/news/4674491-us-oil-price-slides-as-data-shows-larger-than-expected-increases-in-crude-gasoline-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 18 Nov 2026 19:47:27 -0500",
@@ -2391,14 +2447,6 @@
      "summary": "人工智能公司Anthropic完成史上规模最大IPO，以高于发行区间的价格定价，募资总额远超此前所有纪录，标志着资本市场对AI领域的押注正式从芯片基础设施延伸至前沿模型平台。 周三， Anthropic将其A类普通股IPO定价为每股83美元，高出发行区间上限78美元约6.4%，同时将发行规模从8.25亿股扩大至9.8亿股，扩大约19% 。 分析认为，定价策略是为了让股价像往常一样在IPO后上涨20%，从而突破100美元。 如果未能达到预期，或者收盘下跌，投资者就需要警惕了。 公司及创始人此次合计募资约813亿美元，叠加来自谷歌、英伟达等七家科技巨头的260亿美元私募配售， 总募资规模突破107",
      "source": "华尔街见闻",
      "zh": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿"
-    },
-    {
-     "title": "利好突袭！刚刚全线拉升！史上最大IPO定了",
-     "link": "http://finance.eastmoney.com/news/1354,202611193934716375.html",
-     "pubDate": "Thu, 19 Nov 2026 08:43:38 +0800",
-     "summary": "AI巨头Anthropic的IPO定价高于区间并扩大发行规模，显示需求旺盛，提振市场情绪。 今日早间，美股 期货 大幅拉升，截至发稿，纳指 期货 涨1.03%，标普500指数 期货 涨0.55%，道指期货涨0.32%。美股盘后交易时段，AI硬件股集体反弹， 英伟达 涨0.80%， 博通 、 高通 、ARM、 英特尔 、 美光科技 、 希捷科技 、 康宁 、Lumentum等涨超1%。 消息面上，AI巨头Anthropic将其IPO发行价定为每股83美元，高于此前70—78美元的发行指导区间。由于投资者需求强劲，发行规模由原计划约8.25亿股扩大至9.8亿股。按此计算，本次IPO募资额约813亿",
-     "source": "东方财富资讯",
-     "zh": "利好突袭！刚刚全线拉升！史上最大IPO定了"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2417,30 +2465,6 @@
      "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
     },
     {
-     "title": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934645436.html",
-     "pubDate": "Thu, 19 Nov 2026 08:22:14 +0800",
-     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83美元，这一定价高于该公司此前的预估。这为这家Claude开发商备受期待的 纳斯达克 上市铺平了道路，也标志着 人工智能 行业的一个历史性时刻。 此次IPO的发行规模也有所扩大。Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 Anthropic此前表示将发行8.25亿股。 这将使Anthropic估值达到1.5万亿美元，超过该公司此前1.",
-     "source": "东方财富资讯",
-     "zh": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿"
-    },
-    {
-     "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？",
-     "link": "http://stock.eastmoney.com/news/11228,202611193934644890.html",
-     "pubDate": "Thu, 19 Nov 2026 08:17:49 +0800",
-     "summary": "Anthropic的超级IPO即将登陆市场。据最新报道，该公司已将IPO发行价定为每股83美元，高于此前公布的70至78美元发行区间。其股票预计将于周四开始交易。 以此计算，Anthropic完全稀释估值约1.5万亿美元，仅次于 SpaceX （1.77万亿美元），但据媒体此前报道，Anthropic及其部分投资方计划通过本次IPO外加一轮独立私募配售，合计募资额最高可达904亿美元。两项融资合计规模将超过 SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值 人工智能 行业动荡之际： 数据中心 的抵制助长了民主党的蓝色浪潮，再叠加“黄仁勋风波”，市场",
-     "source": "东方财富资讯",
-     "zh": "华尔街专家热议“Anthropic超级IPO”：是时代红利 还是高风险豪赌？"
-    },
-    {
-     "title": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易",
-     "link": "http://finance.eastmoney.com/news/1344,202611193934643556.html",
-     "pubDate": "Thu, 19 Nov 2026 08:13:48 +0800",
-     "summary": "当地时间11月18日，Anthropic宣布将其IPO的A类普通股定价为每股83.00美元，这一定价高于该公司此前的预估。 Anthropic表示，此次发行包括980,000,000股A类普通股，其中956,351,354股由Anthropic出售，23,648,646股由某些售股股东出售。Anthropic将不会从售股股东出售的股份中获得任何收益。 该公司将于周四（19日）在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "Anthropic IPO发行价定了 将于11月19日在纳斯达克开始交易"
-    },
-    {
      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
      "pubDate": "Thu, 19 Nov 2026 00:08:14 GMT",
@@ -2455,6 +2479,30 @@
      "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
      "source": "CNBC",
      "zh": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+    },
+    {
+     "title": "Singapore sets national AI missions for financial services",
+     "link": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
+     "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
+     "source": "Finextra",
+     "zh": "Singapore sets national AI missions for financial services"
+    },
+    {
+     "title": "Venture Global CEO sees final investment decisions on two key projects in next year's H1",
+     "link": "https://seekingalpha.com/news/4674490-venture-global-ceo-sees-final-investment-decisions-on-two-key-projects-in-next-years-h1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 18:53:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Venture Global CEO sees final investment decisions on two key projects in next year's H1"
+    },
+    {
+     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+     "pubDate": "Wed, 18 Nov 2026 23:45:50 GMT",
+     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+     "source": "CNBC",
+     "zh": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit"
     }
    ]
   },

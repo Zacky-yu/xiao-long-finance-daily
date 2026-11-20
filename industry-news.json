@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 16:28:56",
+ "generated_at": "2026/11/20 16:31:59",
  "recent_days": 7,
  "industries": [
   {
@@ -313,6 +313,54 @@
      "zh": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution"
     },
     {
+     "title": "Google’s opportunity to rejig TPU supply chain",
+     "link": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:16:49 +0000",
+     "summary": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Google’s opportunity to rejig TPU supply chain"
+    },
+    {
+     "title": "NAND price to fall",
+     "link": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:13:30 +0000",
+     "summary": "NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin […] The post NAND price to fall appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "NAND price to fall"
+    },
+    {
+     "title": "PMICs to be $68bn market in 2031",
+     "link": "https://www.electronicsweekly.com/news/business/pmics-to-be-68bn-market-in-2031-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:11:09 +0000",
+     "summary": "AI, electrification and robotics will grow the PMIC market at 10% CAGR 2025-32 to $68 billion by 2031, says Yole, while other PMIC applications face a BCD capacity squeeze. The […] The post PMICs to be $68bn market in 2031 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "PMICs to be $68bn market in 2031"
+    },
+    {
+     "title": "Datacentre high density power market to top $42bn by 2030",
+     "link": "https://www.electronicsweekly.com/news/business/datacentre-high-density-power-market-to-top-42bn-by-2030-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:04:45 +0000",
+     "summary": "The datacentre high-density power market is expected to exceed $42 billion by 2030, says Dell’Oro. Growth reflects the move of AI datacentres from 50 V racks to higher-voltage DC power […] The post Datacentre high density power market to top $42bn by 2030 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Datacentre high density power market to top $42bn by 2030"
+    },
+    {
+     "title": "IC enhances battery efficiency",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/ic-enhances-battery-efficiency-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:04:35 +0000",
+     "summary": "Infineon has expanded its XENSIV magnetic sensor portfolio with the TLV55624-1O TMR-based magnetic switch. The device combines ultra-low current consumption with direct load switching in a single component. This reduces […] The post IC enhances battery efficiency appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "IC enhances battery efficiency"
+    },
+    {
+     "title": "Nvidia Leaderless But Sparkling",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-leaderless-but-sparkling-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 01:01:32 +0000",
+     "summary": "As in Q2, Nvidia’s Q3 saw a YoYvdoubling of revenues and profits. In the three months ended October 25, Nvidia’s revenue grew by 103% from the same period last year, […] The post Nvidia Leaderless But Sparkling appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Nvidia Leaderless But Sparkling"
+    },
+    {
      "title": "Memory R&D Is a High-Stakes Game",
      "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
      "pubDate": "Thu, 19 Nov 2026 22:21:15 +0000",
@@ -447,54 +495,6 @@
      "summary": "Linking plasma chamber simulation with feature-scale process modeling to predict etch profiles, evaluate wafer uniformity, and optimize plasma etching processes. The post Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufacturing appeared first on Semiconductor Engineerin",
      "source": "Semiconductor Engineering",
      "zh": "Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufacturing"
-    },
-    {
-     "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
-     "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
-     "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
-     "summary": "Charles Beyrouthy warns quantum stocks face a correction as investors ignore revenue and tech differences; watch where he sees opportunity next. The post Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says"
-    },
-    {
-     "title": "Semiconductor Market Doubling in 2026 – Last Issue",
-     "link": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/",
-     "pubDate": "Wed, 18 Nov 2026 22:00:39 +0000",
-     "summary": "The global semiconductor market was $481 billion in 3rd quarter 2026, according to WSTS. 3Q 2026 was up 27% from 2Q 2026 and up 129% from 3Q 2025. The 3Q 2026 year-to-year growth was the highest in WSTS history, exceeding 110% growth in 2Q 2026 versus 2Q 2025. AI continued to dominate semiconductor ",
-     "source": "SemiWiki",
-     "zh": "Semiconductor Market Doubling in 2026 – Last Issue"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1369,14 +1369,6 @@
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
      "pubDate": "Thu, 19 Nov 2026 22:00:00 +0000",
@@ -1481,14 +1473,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1545,20 +1529,36 @@
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1777,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "AI视频，进入DeepSeek时刻？",
+     "link": "https://www.tmtpost.com/8212441.html",
+     "pubDate": "Fri, 20 Nov 2026 16:29:11 +0800",
+     "summary": "模型差距在缩小，大厂差距在拉大。",
+     "source": "钛媒体",
+     "zh": "AI视频，进入DeepSeek时刻？"
+    },
+    {
+     "title": "Anthropic上市  亚马逊是最大赢家？",
+     "link": "https://www.tmtpost.com/8212595.html",
+     "pubDate": "Fri, 20 Nov 2026 16:24:35 +0800",
+     "summary": "亚马逊不仅通过AWS和Trainium，成为Anthropic最大的算力供应商；它还通过Bedrock，做Claude模型的转售渠道；同时在自研模型上，又与Claude在同一个企业市场上竞争。",
+     "source": "钛媒体",
+     "zh": "Anthropic上市  亚马逊是最大赢家？"
+    },
+    {
      "title": "智驾淘汰赛，烧向芯片",
      "link": "https://www.tmtpost.com/8212619.html",
      "pubDate": "Fri, 20 Nov 2026 16:22:30 +0800",
@@ -1985,14 +2001,6 @@
      "zh": "Lazada 泰国本土店注册下来后，投广告 CPA 一直 300 泰铢以上正常吗？"
     },
     {
-     "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-     "link": "https://www.wired.com/story/adorama-promo-code/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-     "source": "WIRED",
-     "zh": "Adorama Camera Coupon Codes & Promo Codes: November 2026"
-    },
-    {
      "title": "Vimeo Promo Codes: 40% Off This November 2026",
      "link": "https://www.wired.com/story/vimeo-promo-code/",
      "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
@@ -2007,14 +2015,6 @@
      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
      "source": "WIRED",
      "zh": "Expedia Coupons: 50% Off"
-    },
-    {
-     "title": "Skechers Coupon Codes 20% Off",
-     "link": "https://www.wired.com/story/skechers-coupon-codes/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
-     "source": "WIRED",
-     "zh": "Skechers Coupon Codes 20% Off"
     }
    ]
   },
@@ -2417,6 +2417,54 @@
      "zh": "AI is changing software engineering — and some developers miss the struggle"
     },
     {
+     "title": "20cm速递丨A股三大指数集体回调，科创芯片设计ETF国泰（589260）近30日资金净流入1.66亿元",
+     "link": "http://stock.eastmoney.com/news/11622,202611203936024051.html",
+     "pubDate": "Fri, 20 Nov 2026 13:54:53 +0800",
+     "summary": "11月20日，A股三大指数集体下跌，其中上证指数下跌1.93%，深证成指下跌2.47%，创业板指下跌2.52%。在市场震荡调整的背景下，芯片设计作为科技领域的核心赛道，长期成长逻辑依然稳固，可关注相关ETF：科创芯片设计ETF国泰（589260）。 资金流向方面，科创芯片设计ETF国泰展现出较强的资金吸引力。最新数据显示，拉长周期看，近30日资金净流入达1.66亿元，显示出资金在板块调整阶段逆势布局的意愿。 从行业投资价值来看，随着 人工智能 、 大数据 等新一代信息技术的快速发展，算力需求持续攀升，芯片设计作为产业链上游的关键环节，受益于国产替代与技术创新的双重驱动。上证科创板芯片设计主题指",
+     "source": "东方财富股票",
+     "zh": "20cm速递丨A股三大指数集体回调，科创芯片设计ETF国泰（589260）近30日资金净流入1.66亿元"
+    },
+    {
+     "title": "四川长虹：10亿短融成功发行 债券票面利率1.44%折射信用成色",
+     "link": "http://finance.eastmoney.com/news/1354,202611203936022693.html",
+     "pubDate": "Fri, 20 Nov 2026 13:54:25 +0800",
+     "summary": "据悉，近日 四川长虹 （600839.SH）在 银行 间债券市场成功完成10亿元短期融资券发行，债券票面利率低至1.44%，全场认购倍数达2.5倍，创下了中西部地区制造企业同品种债券最低利率。而值得关注的是，这也是 四川长虹 取得AAA主体信用评级后首次在 银行 间债券市场发债，具有里程碑式意义。 在制造业面临多重考验的当下，这一发行不仅是公司拓宽直接融资渠道、优化融资结构的关键一步，也向市场传递出资本对 四川长虹 资产质量、经营韧性、信用资质的高度认可，并在一定程度上为公司后续低成本融资并构建多元融资体系筑牢了坚实基础。 低利率与高认购 融资效率与信用溢价的双重兑现 有市场人士分析指出，四川",
+     "source": "东方财富股票",
+     "zh": "四川长虹：10亿短融成功发行 债券票面利率1.44%折射信用成色"
+    },
+    {
+     "title": "利好来了！事关海洋产业投融资，五部门最新发文",
+     "link": "http://finance.eastmoney.com/news/1352,202611203936022041.html",
+     "pubDate": "Fri, 20 Nov 2026 13:51:53 +0800",
+     "summary": "记者辛圆 据自然资源部官网11月20日发布消息，自然资源部会同国家发展改革委、中国人民 银行 、金融监管总局和中国证监会日前联合印发《海洋产业投融资指导目录（2026版）》。《目录》共11个大类、42个小类，总计185条，明确了今后一个时期我国海洋产业转型升级的重点。 《目录》一方面突出实用性，充分考虑企业生产经营和产业链上下游实际，对具有较强关联性的条目进行合并。另一方面突出前瞻性，单独设置“前沿方向”二级类别，将海底仓库、海水制氢、涉海智能隐身材料等纳入支持范畴，为新兴产业发展壮大铺路搭桥，也为 海洋经济 的长远发展预留政策空间。 自然资源部海洋战略规划与经济司司长沈君在周五的新闻发布会上",
+     "source": "东方财富股票",
+     "zh": "利好来了！事关海洋产业投融资，五部门最新发文"
+    },
+    {
+     "title": "贾国龙又“上新”了！这次改卖火锅 人均消费102元",
+     "link": "http://finance.eastmoney.com/news/1344,202611203936017590.html",
+     "pubDate": "Fri, 20 Nov 2026 13:51:36 +0800",
+     "summary": "11月19日，西贝旗下“天边冰煮鲜羊”呼和浩特首店正式开业，这是贾国龙围绕“天边”系列品牌进行的又一全新探索。 据了解，这家新店并未另行选址，而是落地在原“天边砂锅焖面”呼和浩特首店的旧址。该焖面门店今年3月开门迎客，经营约半年后于9月15日闭店休整，如今换上了新的门店招牌。 界面新闻在大众点评上查询该店铺了解到，目前该店的人均消费价格为102元。 事实上，这已经不是“天边”品牌的第一次业态变化。据蓝鲸新闻今年8月报道，“天边砂锅焖面”官方账号曾发布“天边羊多”宣传片，而“天边羊多”首店同样由“天边砂锅焖面”门店改造而来。当时西贝方面回应称，“天边羊多定位鲜羊料理，属于西北菜，是西贝在西北菜基",
+     "source": "东方财富股票",
+     "zh": "贾国龙又“上新”了！这次改卖火锅 人均消费102元"
+    },
+    {
+     "title": "英伟达三季报落地 A股入链企业影响多大？券商观点落地",
+     "link": "http://finance.eastmoney.com/news/1354,202611203936017690.html",
+     "pubDate": "Fri, 20 Nov 2026 13:51:28 +0800",
+     "summary": "近日， 英伟达 披露2027财年第三季度财报，这份“业绩与指引双超预期”的成绩单引发市场对于A股的影响。 综合 市场机构初步调研情况来看，A股参与 英伟达 供应链的真实体量比市场想象的要小。 调研数据显示，沪深两市只有36家公司较多参与 英伟达 供应链，A股公司在英伟达采购链中的占比不足10%，多数公司涉及英伟达的业务占比仅为个位数。 综合 卖方研究观点，对A股而言，英伟达这份财报的意义在于两个关键方面，一是全球算力资本开支仍在上修，2028财年增速指引由70%提至75%，二是对华供给持续收窄，份额降至约34%、许可Hopper停售、远程获取新规落地。其中，前者决定已进入供应链公司的订单能见度",
+     "source": "东方财富股票",
+     "zh": "英伟达三季报落地 A股入链企业影响多大？券商观点落地"
+    },
+    {
+     "title": "超480亿元，大举净流入！",
+     "link": "http://stock.eastmoney.com/news/11215,202611203936020329.html",
+     "pubDate": "Fri, 20 Nov 2026 13:51:11 +0800",
+     "summary": "【导读】11月19日股票ETF净流入超480亿元 中国基金报记者张玲 11月19日，A股三大指数集体收跌。行业表现上， 半导体 板块活跃， 先进封装 、 光刻胶 等概念股上涨； 传媒 板块持续下挫，冰雪 旅游概念 股跌幅居前。 ETF市场上，当日全市场资金净流入511.6亿元。其中，净流入前五的板块分别为沪深300指数（净流入270.4亿元）、科创50指数（净流入88.0亿元）、 中证500 指数（净流入76.8亿元）、货币（净流入70.1亿元）、中证1000指数（净流入45.3亿元）。 从大类型来看，11月19日，宽基ETF与港股市场ETF净流入居前，分别达478.32亿元与18.18亿元；",
+     "source": "东方财富股票",
+     "zh": "超480亿元，大举净流入！"
+    },
+    {
      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 05:45:11 GMT",
@@ -2463,54 +2511,6 @@
      "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
      "source": "CNBC",
      "zh": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 03:31:00 GMT",
-     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
-    },
-    {
-     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 01:30:00 GMT",
-     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-     "source": "MarketWatch",
-     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 01:22:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-    },
-    {
-     "title": "AMD dives on short seller report of alleged China exposure",
-     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "pubDate": "Fri, 20 Nov 2026 00:08:34 GMT",
-     "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
-     "source": "CNBC",
-     "zh": "AMD dives on short seller report of alleged China exposure"
-    },
-    {
-     "title": "FCA opens AI Spotlight Observatory",
-     "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 20 Nov 2026 00:01:00 GMT",
-     "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
-     "source": "Finextra",
-     "zh": "FCA opens AI Spotlight Observatory"
-    },
-    {
-     "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-     "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 23:56:00 GMT",
-     "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-     "source": "MarketWatch",
-     "zh": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead"
     }
    ]
   },

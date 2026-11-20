@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 22:12:04",
+ "generated_at": "2026/11/20 22:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -265,14 +265,6 @@
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
     },
     {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
      "title": "Where did the margin go? The hidden errors in PCB assembly",
      "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
      "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
@@ -383,6 +375,14 @@
      "summary": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Google’s opportunity to rejig TPU supply chain"
+    },
+    {
+     "title": "NAND price to fall",
+     "link": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 06:13:30 +0000",
+     "summary": "NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin […] The post NAND price to fall appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "NAND price to fall"
     },
     {
      "title": "Memory R&D Is a High-Stakes Game",
@@ -1121,6 +1121,14 @@
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+     "pubDate": "Fri, 20 Nov 2026 14:16:35 +0000",
+     "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+     "source": "STAT News",
+     "zh": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more"
+    },
+    {
      "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
      "link": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
      "pubDate": "Fri, 20 Nov 2026 14:01:41 +0000",
@@ -1199,14 +1207,6 @@
      "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both.",
      "source": "STAT News",
      "zh": "Opinion: More doctors should prescribe exercise after a concussion"
-    },
-    {
-     "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
-     "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
-     "pubDate": "Fri, 20 Nov 2026 09:30:00 +0000",
-     "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons.",
-     "source": "STAT News",
-     "zh": "Opinion: More surgeons in Africa isn’t enough when only 10% are women"
     },
     {
      "title": "Former Verily Leaders Build AI Platform to Get More from Proteomics Data",
@@ -1417,14 +1417,6 @@
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "Challenge: Public Input on Life and the World in 2075",
      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
      "pubDate": "Thu, 19 Nov 2026 19:34:20 +0000",
@@ -1497,14 +1489,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1545,20 +1529,28 @@
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
     }
    ]
   },
@@ -1777,6 +1769,38 @@
    "total": 18,
    "items": [
     {
+     "title": "CTF_TYPE_1795112585_text",
+     "link": "https://www.huxiu.com/article/4907022.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 22:20:29 +0800",
+     "summary": "type test",
+     "source": "虎嗅",
+     "zh": "CTF_TYPE_1795112585_text"
+    },
+    {
+     "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+     "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:21 +0000",
+     "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+     "source": "Ars Technica",
+     "zh": "SpaceX lenders don’t want Elon Musk launching their collateral into space"
+    },
+    {
+     "title": "当别人嫉恨你时，只需记住“海格力斯效应”",
+     "link": "https://www.huxiu.com/article/4907311.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 22:09:07 +0800",
+     "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹 01 “与恶龙缠斗过久，自身亦成为恶龙。” 海格力斯效应，也叫仇恨袋效应，讲的是古希腊神话里的大力神海格力利斯被一个袋子绊了脚，于是他踢了一下，结果袋子长大一倍。 接着他又捡起木棒打了一下，结果这个袋子疯狂膨胀，这下将海格力斯的去路彻底堵死了。 后来智者告诉他，这个东西叫“仇恨袋”，你不理它，它会自动缩小；你越攻击它，它就会膨胀起来和你敌对到底。 这个故事的道理，在人际关系中也说得通。 我们一直以为，一个人位置越高，名气越大，受到的嫉恨与敌意就越少，甚至许多人非常任何出这样一句话：等你强大了，会发现身边都是好人。 其实这话不全对。 当你变强时，原本那些",
+     "source": "虎嗅",
+     "zh": "当别人嫉恨你时，只需记住“海格力斯效应”"
+    },
+    {
+     "title": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜",
+     "link": "https://www.ithome.com/1/030/246.htm",
+     "pubDate": "Fri, 20 Nov 2026 14:05:13 GMT",
+     "summary": "IT之家 11 月 20 日消息，据路透社报道，当地时间 20 日，Anthropic 上市次日股价下跌，令低迷的 AI 板块雪上加霜。这场备受期待的 IPO，也没能重新点燃投资者的热情。 作为 AI 投资热潮的重要风向标，Anthropic 上市曾被寄予厚望，市场期待借此提振经历一段动荡时期后持续疲软的 AI 板块。 然而，Anthropic 股价报 88.25 美元 （IT之家注：现汇率约合 590.6 元人民币） ， 较上市首日的收盘价下跌约 9% 。公司完全稀释后的估值约为 1.6 万亿美元 （现汇率约合 10.71 万亿元人民币） ，按已发行股份计算的市值则约为 1.2 万亿美元 （",
+     "source": "IT之家",
+     "zh": "Anthropic 上市次日股价下跌 9%，AI 板块雪上加霜"
+    },
+    {
      "title": "中国开源模型的“最大甲方”有了",
      "link": "https://www.huxiu.com/article/4907309.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 22:03:19 +0800",
@@ -1817,20 +1841,28 @@
      "zh": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)"
     },
     {
-     "title": "人人都在躯体化？致我们“疾痛缠身的灵魂”",
-     "link": "https://www.huxiu.com/article/4907305.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 21:42:01 +0800",
-     "summary": "本文来自微信公众号： 知著网 ，作者：阁楼 「我们渴望拥有同蜥蜴般“断尾求生”的能力，将身体的苦难留于身后，让坚韧、自由的灵魂继续前行——然而，真的存在一个身体之外的“我”吗？」 >>> 2025年年初，随着一位女星患病经历的披露，“躯体化”这个医学概念以极高的话题热度迅速占据大众视野。 经过严肃科普与“玩梗”式传播的反复演绎，这个词逐渐成为青年人互联网自我表达的一部分。 从日常调侃抱怨，到严重的患病自述，“躯体化”表现出了惊人的解释力，也同其他从严肃术语中脱胎而来的大众表达一样，成为“严肃性被消解”的反思对象。 （网友真实的“躯体化”体验自述） （“躯体化”网络梗图） 然而，我们能否跳出单纯",
-     "source": "虎嗅",
-     "zh": "人人都在躯体化？致我们“疾痛缠身的灵魂”"
+     "title": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上",
+     "link": "https://www.ithome.com/1/030/244.htm",
+     "pubDate": "Fri, 20 Nov 2026 13:48:56 GMT",
+     "summary": "IT之家 11 月 20 日消息，博主 @向北不断电 今日发文，称腾势 N8 的优势依然明显，也是市面上为数不多闭眼买的车型，并提到易三方 Evo 独一档强大。 腾势汽车总经理李慧随后转发，并表示 易三方 Evo 是全球独一无二的硬核技术平台，目前任何一个汽车品牌都没有，友商追赶了易三方超过三年也没有追赶上 。 易三方 Evo 让腾势 N8 更安全、更灵活、更澎湃、更高效！ 据IT之家此前报道， 腾势 N8 于 11 月 12 日正式上市 ，共推出 6 款配置车型，提供后置单电机两驱与易三方三电机四驱两种动力形式，官方指导价区间为 26.99 万-32.99 万元。 延伸阅读 易三方（e³）是",
+     "source": "IT之家",
+     "zh": "比亚迪腾势汽车李慧：易三方 Evo 是全球独一无二的硬核技术平台，友商追赶了易三方超过三年也没追上"
     },
     {
-     "title": "“活下来”的民营房企，开始挑地块加价",
-     "link": "https://www.huxiu.com/article/4907304.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 21:41:52 +0800",
-     "summary": "本文来自微信公众号： 每经房产 ，作者：陈利 ｜什么信号？ 全文约2400字▼ 11月20日，苏州7宗涉宅用地全部成交，总出让面积34.78万平方米，最终收金约29亿元。但这29亿元里几乎没有竞价的水花，其中6宗底价成交，唯一一宗溢价地块位于相城区元和街道，被江苏本地民营房企太仓万盛以2.79亿元拿下，溢价率0.72%。 类似的场面，近两个月在杭州、郑州、义乌、太原、武汉等城市反复出现。 据普睿数智监测的32个重点一二线城市中，“8·28”新政后9～10月累计成交283宗涉宅用地，其中45宗溢价地块，民营房企及联合体拿下21宗，占比近半；溢价率前十的地块民企占7席，央国企仅3席；溢价地块的成交",
-     "source": "虎嗅",
-     "zh": "“活下来”的民营房企，开始挑地块加价"
+     "title": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%",
+     "link": "https://www.ithome.com/1/030/243.htm",
+     "pubDate": "Fri, 20 Nov 2026 13:47:56 GMT",
+     "summary": "IT之家 11 月 20 日消息，据韩联社当地时间 18 日报道，根据三星电子同日发布的详细三季报，该企业负责非半导体板块的 DX（设备体验）部门 今年 1~9 月的内存平均采购价格同比暴涨 263% 。 而在相同时间内，DX 部门的移动应用处理器平均采购价格上涨了 8%， 旗下 MX（移动体验）业务的 Galaxy 智能手机平均销售价格仅上涨了 13% 。 另一组数据显示，DX 部门 1~9 月原材料采购额达 62.4307 万亿韩元 （IT之家注：现汇率约合 3,132.77 亿元人民币） ，同比增长 8.9%；移动设备内存采购总额达 7.6993 万亿韩元 （现汇率约合 386.35 亿",
+     "source": "IT之家",
+     "zh": "三星电子非半导体板块内存平均采购价今年前九个月同比暴涨 263%"
+    },
+    {
+     "title": "我国成功发射卫星互联网低轨 30 组卫星",
+     "link": "https://www.ithome.com/1/030/242.htm",
+     "pubDate": "Fri, 20 Nov 2026 13:46:45 GMT",
+     "summary": "IT之家 11 月 20 日消息，今天（20 日）19 时 59 分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨 30 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 据IT之家了解，11 月 9 日 4 时 24 分，长征十二号运载火箭在海南商业航天发射场点火起飞，随后成功将卫星互联网低轨 29 组卫星送入预定轨道。 延伸阅读 卫星互联网低轨卫星组网属于中国星网 GW 星座，这是我国首个巨型卫星互联网计划，也是我国首个空天一体化 6G 卫星互联网计划。整个星座规划部署 12992 颗卫星，分为 GW-A59 与 GW-A2 两个子星座：前者计划部署 6",
+     "source": "IT之家",
+     "zh": "我国成功发射卫星互联网低轨 30 组卫星"
     },
     {
      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
@@ -1865,6 +1897,14 @@
      "zh": "The Best Pura Deals for Cyber Week (2026)"
     },
     {
+     "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "pubDate": "Fri, 20 Nov 2026 13:29:59 +0000",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 19 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off"
+    },
+    {
      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
      "pubDate": "Fri, 20 Nov 2026 13:25:00 +0000",
@@ -1897,22 +1937,6 @@
      "zh": "Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17 (Kirsten Korosec/TechCrunch)"
     },
     {
-     "title": "吉利银河首款旗舰大五座 SUV 银河 M8 将于 11 月 24 日预售",
-     "link": "https://www.ithome.com/1/030/239.htm",
-     "pubDate": "Fri, 20 Nov 2026 13:05:32 GMT",
-     "summary": "IT之家 11 月 20 日消息，吉利汽车宣布旗下银河 M8 车型将于 11 月 24 日开启预售，该车是品牌首款旗舰大五座 SUV，整体造型与吉利银河 M9 保持一致，动力方面搭载 1.5T 发动机与电机组成的插混系统。 据IT之家了解，该车整体造型与银河 M9 保持一致，长宽高为 5205/1999/1800mm，轴距 3030mm，采用大五座布局。 预告图及此前的信息显示，新车提供 20 英寸、21 英寸两种轮圈（包含一种“大饼”样式），并可选配双拼色车身。此次公布的内饰布局，同样与 M9 一脉相承，配有大尺寸悬浮式中控屏。 作为对比，吉利银河 M9 于去年 10 月上市，售价 18.3",
-     "source": "IT之家",
-     "zh": "吉利银河首款旗舰大五座 SUV 银河 M8 将于 11 月 24 日预售"
-    },
-    {
-     "title": "Take-Two 前 CEO 费德：《GTA 6》将是 AI 时代前夜最后的“传统”3A 大作",
-     "link": "https://www.ithome.com/1/030/238.htm",
-     "pubDate": "Fri, 20 Nov 2026 13:01:44 GMT",
-     "summary": "IT之家 11 月 20 日消息，Take-Two 前 CEO 本 · 费德认为，《GTA 6》将成为 AI 时代全面到来前 最后一部采用传统开发模式打造的 3A 大作 ，游戏行业也将由此告别一个时代。 费德在《财富》杂志撰文称：“《GTA 6》的发布将成为一场文化盛事，带来史诗般的游戏体验。我相信它会是一部杰作，但也会是同类作品中的最后一部。” IT之家获悉，他认为，原因并非 R 星的质量把控能力下降，也不是 AI 能让游戏开发更快、更省钱，而是《GTA 6》代表着一种即将 被 AI 颠覆的创作模式的巅峰 。 费德指出，游戏开发过程中，改变方向甚至放弃原有创意，都可能耗费大量时间和技术资源，",
-     "source": "IT之家",
-     "zh": "Take-Two 前 CEO 费德：《GTA 6》将是 AI 时代前夜最后的“传统”3A 大作"
-    },
-    {
      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
      "link": "https://www.wired.com/story/best-birdfy-gifts-2026/",
      "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
@@ -1929,14 +1953,6 @@
      "zh": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites"
     },
     {
-     "title": "长城欧拉 ORA 7 官宣 11 月 23 日上市，提供轿跑版和旅行版两种形态",
-     "link": "https://www.ithome.com/1/030/237.htm",
-     "pubDate": "Fri, 20 Nov 2026 12:54:12 GMT",
-     "summary": "IT之家 11 月 20 日消息，长城旗下欧拉汽车今日宣布，长城 ORA7 &amp; 长城 ORA7 旅行版将于 11 月 23 日在保定上市。 欧拉 7 提供旅行版、轿跑版两种车身形态。尺寸参数方面，欧拉 7 旅行版长宽高为 4820mm×1862mm×1520mm，轿跑版长宽高为 4890mm×1850mm×1503mm， 两款车型轴距均为 2870mm 。 对比来看，轿跑版车长增加 70mm、车高降低 17mm，视觉上更低趴修长；旅行版依靠平缓的车顶线条，保障车内头部空间与装载能力。 IT之家获悉，长城欧拉 7 基于长城汽车“ONE GWM”全球战略打造，采用“长城欧拉＋数字”的全球统",
-     "source": "IT之家",
-     "zh": "长城欧拉 ORA 7 官宣 11 月 23 日上市，提供轿跑版和旅行版两种形态"
-    },
-    {
      "title": "阿里巴巴警告未来两年算力紧缺",
      "link": "https://www.solidot.org/story?sid=85947",
      "pubDate": "Fri, 20 Nov 2026 20:48:17 +0800",
@@ -1945,12 +1961,12 @@
      "zh": "阿里巴巴警告未来两年算力紧缺"
     },
     {
-     "title": "39.5 亿年！河北发现亚洲已知最古老岩石",
-     "link": "https://www.ithome.com/1/030/236.htm",
-     "pubDate": "Fri, 20 Nov 2026 12:40:39 GMT",
-     "summary": "IT之家 11 月 20 日消息，自然资源部中国地质调查局今日宣布，近日，中国地质科学院地质研究所万渝生研究员团队在《自然》期刊发表研究成果。该团队在河北冀东地区发现距今 39.5 亿年的古老岩石， 这是目前我国乃至亚洲已知最古老的岩石，也是全球第二古老的岩石 。 研究表明，地球在 39.5 亿年前可能已出现某种形式的俯冲构造活动，为冥古宙时期地幔已经发生亏损提供了直接证据。 地球诞生于约 45 亿年前，但最早几亿年的地质记录极难保存，能够追溯到地球童年时期的样本十分稀缺。此次发现的岩石为奥长花岗质片麻岩，产自冀东地区新建立的石门杂岩中。 研究人员利用锆石铀 — 铅定年方法测定其形成年龄为 3",
-     "source": "IT之家",
-     "zh": "39.5 亿年！河北发现亚洲已知最古老岩石"
+     "title": "If you stop writing code, you also get worse at reviewing it",
+     "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+     "pubDate": "Fri, 20 Nov 2026 12:41:38 +0000",
+     "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 27 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "If you stop writing code, you also get worse at reviewing it"
     },
     {
      "title": "How Jensen Huang used humiliation in his management style for decades; Huang&apos;s behavior once led to a settlement with an exec who said he \"terrorized\" staff (New York Times)",
@@ -1972,7 +1988,7 @@
      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
      "pubDate": "Fri, 20 Nov 2026 12:16:36 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai Comments URL: https://news.ycombinator.com/item?id=50573681 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "Epic Games Turns to AI Coding for the Unreal Engine"
     },
@@ -1991,30 +2007,6 @@
      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
      "source": "WIRED",
      "zh": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)"
-    },
-    {
-     "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-     "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:43 +0000",
-     "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-     "source": "Ars Technica",
-     "zh": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US"
-    },
-    {
-     "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
-     "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
-     "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
-     "source": "WIRED",
-     "zh": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You"
-    },
-    {
-     "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-     "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
-     "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-     "source": "WIRED",
-     "zh": "Muse Is Unleashing a World of Pettiness on Instagram"
     }
    ]
   },
@@ -2024,6 +2016,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Huawei Osta 1 Pro debuts",
+     "link": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php",
+     "pubDate": "Fri, 20 Nov 2026 15:23:02 +0100",
+     "summary": "Following several reports from earlier this month, Huawei went ahead and announced its new Osta sub-brand in China. As revealed by Huawei exec Richard Yu, Osta stands for Original Smart Technology Accessible. The Osta 1 Pro is the first device in its ranks and it’s a wide-screen phone featuring a 6.",
+     "source": "GSMArena",
+     "zh": "Huawei Osta 1 Pro debuts"
+    },
+    {
+     "title": "This Android player smartly trims disruptions from podcasts using AI",
+     "link": "https://www.androidauthority.com/new-ai-apps-services-trimplayer-3737704/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:39 +0000",
+     "summary": "Also, we feature Pocket Relay and Buddy in this week's new AI apps and services roundup.",
+     "source": "Android Authority",
+     "zh": "This Android player smartly trims disruptions from podcasts using AI"
+    },
+    {
+     "title": "The water upgrade you’ve been waiting for: Waterdrop Filter’s Black Friday deals",
+     "link": "https://9to5mac.com/2026/11/20/waterdrop-filter-black-friday-deals-2026/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:00 +0000",
+     "summary": "The kitchen tap gets a workout over the holidays. There’s coffee to brew before everyone’s up, a pot of soup on the stove, and a pitcher that always seems to need refilling right as dinner hits the table. Whether you’re paying closer attention to family health or simply want better-tasting water for",
+     "source": "9to5Mac",
+     "zh": "The water upgrade you’ve been waiting for: Waterdrop Filter’s Black Friday deals"
+    },
     {
      "title": "The Galaxy Watch 8 is a steal at just $200 right now on Amazon",
      "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
@@ -2113,12 +2129,12 @@
      "zh": "Razer Orochi V2 wireless gaming mouse is 60% off for Black Friday"
     },
     {
-     "title": "Bose’s QuietComfort Ultra Headphones (2nd Gen) drop to $369",
-     "link": "https://www.androidauthority.com/bose-qc-ultra-headphones-2nd-gen-deal-3737401/",
-     "pubDate": "Fri, 20 Nov 2026 12:39:04 +0000",
-     "summary": "Save $80 on Bose's flagship noise canceling headphones with lossless USB-C audio.",
+     "title": "Best Black Friday deals: Big discounts on phones, smartwatches, and more",
+     "link": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
+     "pubDate": "Fri, 20 Nov 2026 12:50:00 +0000",
+     "summary": "The biggest sale of the year is underway, and prices are plunging already. Here are the best tech deals you can grab now.",
      "source": "Android Authority",
-     "zh": "Bose’s QuietComfort Ultra Headphones (2nd Gen) drop to $369"
+     "zh": "Best Black Friday deals: Big discounts on phones, smartwatches, and more"
     },
     {
      "title": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
@@ -2127,14 +2143,6 @@
      "summary": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.",
      "source": "Engadget",
      "zh": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app"
-    },
-    {
-     "title": "Signal is blocking screenshots to prevent Gemini and Siri AI from scanning your chats",
-     "link": "https://www.androidauthority.com/signal-blocks-gemini-siri-ai-private-messages-3737647/",
-     "pubDate": "Fri, 20 Nov 2026 12:35:10 +0000",
-     "summary": "Signal wants AI assistants to stay out of your private conversations.",
-     "source": "Android Authority",
-     "zh": "Signal is blocking screenshots to prevent Gemini and Siri AI from scanning your chats"
     },
     {
      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
@@ -2209,14 +2217,6 @@
      "zh": "本周看什么 | 最近值得一看的 10 部作品"
     },
     {
-     "title": "Apple tightens its grip on a shrinking US smartphone market",
-     "link": "https://www.gsmarena.com/apple_tightens_its_grip_on_a_shrinking_us_smartphone_market-news-75556.php",
-     "pubDate": "Fri, 20 Nov 2026 10:08:02 +0100",
-     "summary": "Counterpoint Research has published its latest US smartphone market data, and the third quarter of this year (July to September) wasn't a great one. Overall shipments dropped 9% year-over-year, and the research firm blames global memory constraints, which hit Android the hardest, especially lower-en",
-     "source": "GSMArena",
-     "zh": "Apple tightens its grip on a shrinking US smartphone market"
-    },
-    {
      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
      "link": "https://sspai.com/post/119327",
      "pubDate": "Fri, 20 Nov 2026 15:34:26 +0800",
@@ -2255,14 +2255,6 @@
      "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。 查看全文",
      "source": "少数派",
      "zh": "浮屏：截图即可「上岛」，还能帮你记录生活"
-    },
-    {
-     "title": "WhatsApp is raising group chat limit to 1,500 participants",
-     "link": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
-     "pubDate": "Fri, 20 Nov 2026 01:54:39 +0000",
-     "summary": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "WhatsApp is raising group chat limit to 1,500 participants"
     }
    ]
   },
@@ -2273,28 +2265,164 @@
    "total": 13,
    "items": [
     {
-     "title": "Flowers Foods declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4675160-flowers-foods-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 09:03:58 -0500",
+     "title": "FICO expands partnership with Xactus, broadening FICO Preferred's reach",
+     "link": "https://seekingalpha.com/news/4675162-fico-expands-partnership-with-xactus-broadening-fico-preferreds-reach?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:22:16 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Flowers Foods declares $0.03 dividend"
+     "zh": "FICO expands partnership with Xactus, broadening FICO Preferred's reach"
     },
     {
-     "title": "S&P 500 is on track for the worst week since the April 2025 'Liberation Day' sell-off",
-     "link": "https://seekingalpha.com/news/4675159-sp-500-is-on-track-for-the-worst-week-since-the-april-2025-liberation-day-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 09:00:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500 is on track for the worst week since the April 2025 'Liberation Day' sell-off"
+     "title": "沙特阿拉伯称奈季兰的危险已经过去",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936450464.html",
+     "pubDate": "Fri, 20 Nov 2026 22:21:24 +0800",
+     "summary": "沙特阿拉伯称奈季兰的危险已经过去。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沙特阿拉伯称奈季兰的危险已经过去"
     },
     {
-     "title": "J&J touts spinal pain, stiffness improvements with Tremfya",
-     "link": "https://seekingalpha.com/news/4675157-jj-touts-spinal-pain-stiffness-improvements-tremfya?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 09:00:27 -0500",
+     "title": "沙特阿拉伯称吉赞的危险已经过去",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936450276.html",
+     "pubDate": "Fri, 20 Nov 2026 22:21:23 +0800",
+     "summary": "沙特阿拉伯称吉赞的危险已经过去。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沙特阿拉伯称吉赞的危险已经过去"
+    },
+    {
+     "title": "梅拉尼娅·特朗普：我与乌克兰和俄罗斯都建立了良好关系",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936449977.html",
+     "pubDate": "Fri, 20 Nov 2026 22:20:55 +0800",
+     "summary": "梅拉尼娅·特朗普：我与乌克兰和俄罗斯都建立了良好关系。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "梅拉尼娅·特朗普：我与乌克兰和俄罗斯都建立了良好关系"
+    },
+    {
+     "title": "印度工业信贷投资银行美股盘前涨超6%",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936449830.html",
+     "pubDate": "Fri, 20 Nov 2026 22:20:55 +0800",
+     "summary": "印度工业信贷投资银行 美股盘前涨超6%，现报37.0美元。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "印度工业信贷投资银行美股盘前涨超6%"
+    },
+    {
+     "title": "法国加强2027年总统选举网络监管",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936449618.html",
+     "pubDate": "Fri, 20 Nov 2026 22:20:12 +0800",
+     "summary": "法国音像和数字 通信 监管局19日发布监管新规，就在2027年总统选举前夕“大流量”视频博主给予不同候选人的曝光度作出明确规定。 法国将于明年4月18日举行总统选举首轮投票，若无候选人得票过半，则于5月2日进行第二轮投票。监管新规要求，明年3月中旬开始，各候选人在相关网络视频节目中的曝光度须“匹配其预测得票率”；从4月5日起至4月30日，各博主须给予所有候选人“同等的曝光度和曝光形式”；各博主不得发布竞选广告。 新规适用于在优兔（YouTube）等视频网站拥有大量粉丝、定期发布政治和社会议题视频的博主，体育或 电子 游戏内容博主和仅制作音频节目的播客主播无须遵守。 音像和数字 通信 监管局说，",
+     "source": "东方财富股票",
+     "zh": "法国加强2027年总统选举网络监管"
+    },
+    {
+     "title": "币安：截至2026年11月12日，储备金证明显示198种代币均有100%储备支持",
+     "link": "http://finance.eastmoney.com/news/1351,202611203936448053.html",
+     "pubDate": "Fri, 20 Nov 2026 22:19:19 +0800",
+     "summary": "币安：截至2026年11月12日，储备金证明显示198种代币均有100%储备支持。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "币安：截至2026年11月12日，储备金证明显示198种代币均有100%储备支持"
+    },
+    {
+     "title": "Keysight: Analysts highlight strong orders, upbeat outlook",
+     "link": "https://seekingalpha.com/news/4675161-keysight-analysts-highlight-strong-orders-upbeat-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:18:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "J&J touts spinal pain, stiffness improvements with Tremfya"
+     "zh": "Keysight: Analysts highlight strong orders, upbeat outlook"
+    },
+    {
+     "title": "中国开源模型的「最大甲方」有了",
+     "link": "https://wallstreetcn.com/articles/3786396",
+     "pubDate": "Fri, 20 Nov 2026 22:17:10 +0800",
+     "summary": "互联网大厂们正在成为开源大模型的新甲方。 腾讯总裁刘炽平在三季度业绩电话会上透露，WorkBuddy已成为中国几乎所有开放权重模型的最大客户。 这可能只是一个开始。 近期，国内头部办公Agent密集调整产品策略。继腾讯WorkBuddy率先采用多模型路线后，字节跳动旗下豆包工作接连扩大第三方模型接入范围，阿里千问办公也重新向外部模型敞开大门。 从腾讯到字节、阿里，几家互联网大厂的办公Agent正在走向相似的产品路线。 随着这一趋势逐渐明朗，拥有庞大用户规模、能够持续承接工作任务的办公Agent有望成为上游模型厂商新的超级客户。 但当路线趋于一致后，大厂既要通过办公Agent争夺用户和工作入口，",
+     "source": "华尔街见闻",
+     "zh": "中国开源模型的「最大甲方」有了"
+    },
+    {
+     "title": "华为星芒发车：一路踏AI，一路铺鸿蒙",
+     "link": "https://wallstreetcn.com/articles/3786395",
+     "pubDate": "Fri, 20 Nov 2026 22:16:48 +0800",
+     "summary": "2016年10月14日，华为当年第1亿部智能手机正式下线，比2015年达成这一节点提前了两个月。 坐稳1亿部手机的出货量之际，华为推出了一条全新的产品线nova，希望进一步打开年轻消费市场。 十年后，华为再次迎来一个与“1亿”有关的节点。 11月16日，第三方数据显示，华为HarmonyOS 5及以上版本累计装机量已突破1亿台。 就在鸿蒙装机规模迈过亿级门槛之际，华为再次推出了全新的手机品牌。 11月20日，华为全新子品牌OSTA星芒正式亮相，首款手机OSTA O1 Pro以鸿蒙AI和阔直板设计作为重要卖点，搭载麒麟9030S芯片，起售价达到5699元，首发优惠价为5499元。 这次，华为将星",
+     "source": "华尔街见闻",
+     "zh": "华为星芒发车：一路踏AI，一路铺鸿蒙"
+    },
+    {
+     "title": "三季度热销31万辆，零跑为何只赚4000万元？",
+     "link": "https://wallstreetcn.com/articles/3786393",
+     "pubDate": "Fri, 20 Nov 2026 22:16:21 +0800",
+     "summary": "作者 | 周智宇 11月20日晚，零跑汽车交出了季度销量超过31万辆的成绩单，归母净利润却只有约4000万元。去年同期，这个数字是1.5亿元，刚刚过去的二季度则是6亿元。 三季度零跑交付量同比增长78.3%，营收增长63%至317亿元，毛利率却从二季度的12.6%降至10.9%。按财报披露的收入和销售成本计算，零跑一个季度多做了44.1亿元收入，毛利只增加约3000万元，至34.6亿元。 当晚的业绩会上，多位分析师追问毛利率下降的原因。零跑汽车首席财务官李腾飞提到了产品组合变化、原材料涨价和海运费上涨。 零跑三季度卖出的车中，A系列占比提高，B、C、D系列占比相应下降。按李腾飞的解释，A系列每",
+     "source": "华尔街见闻",
+     "zh": "三季度热销31万辆，零跑为何只赚4000万元？"
+    },
+    {
+     "title": "FT Vest PLTR & Target Income ETF declares $0.3204 dividend",
+     "link": "https://seekingalpha.com/news/4675174-ft-vest-pltr-and-target-income-etf-declares-0_3204-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:15:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FT Vest PLTR & Target Income ETF declares $0.3204 dividend"
+    },
+    {
+     "title": "The bull market has a new problem. The &apos;smart money&apos; is selling",
+     "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+     "pubDate": "Fri, 20 Nov 2026 14:15:29 GMT",
+     "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+     "source": "CNBC",
+     "zh": "The bull market has a new problem. The &apos;smart money&apos; is selling"
+    },
+    {
+     "title": "FT Vest TSLA & Target Income ETF declares $0.4214 dividend",
+     "link": "https://seekingalpha.com/news/4675173-ft-vest-tsla-and-target-income-etf-declares-0_4214-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:15:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FT Vest TSLA & Target Income ETF declares $0.4214 dividend"
+    },
+    {
+     "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+     "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 14:15:00 GMT",
+     "summary": "Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”",
+     "source": "MarketWatch",
+     "zh": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say"
+    },
+    {
+     "title": "FT Vest NVDA & Target Income ETF declares $0.2677 dividend",
+     "link": "https://seekingalpha.com/news/4675172-ft-vest-nvda-and-target-income-etf-declares-0_2677-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:14:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FT Vest NVDA & Target Income ETF declares $0.2677 dividend"
+    },
+    {
+     "title": "FT Vest SPCX & Target Income ETF declares $0.3856 dividend",
+     "link": "https://seekingalpha.com/news/4675171-ft-vest-spcx-and-target-income-etf-declares-0_3856-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 09:14:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FT Vest SPCX & Target Income ETF declares $0.3856 dividend"
+    },
+    {
+     "title": "SpaceX’s subsidiary Cursor tells lawmakers it&apos;s considering phasing out Chinese AI models",
+     "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+     "pubDate": "Fri, 20 Nov 2026 14:07:24 GMT",
+     "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+     "source": "CNBC",
+     "zh": "SpaceX’s subsidiary Cursor tells lawmakers it&apos;s considering phasing out Chinese AI models"
+    },
+    {
+     "title": "UK SME lender OakNorth secures US banking licence",
+     "link": "https://www.finextra.com/newsarticle/48790/uk-sme-lender-oaknorth-secures-us-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 20 Nov 2026 14:07:00 GMT",
+     "summary": "OakNorth, the UK digital bank for SMEs, has secured a US national banking charter, paving the way for it to expand beyond lending in the country.",
+     "source": "Finextra",
+     "zh": "UK SME lender OakNorth secures US banking licence"
+    },
+    {
+     "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
+     "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 14:01:58 GMT",
+     "summary": "Shares of Claude developer under pressure in pre-market trading a day after blockbuster initial public offering",
+     "source": "Financial Times",
+     "zh": "Anthropic shares tumble as AI giant swept up in tech sell-off"
     },
     {
      "title": "These little-known investments could be among the best bargains in a crash",
@@ -2305,14 +2433,6 @@
      "zh": "These little-known investments could be among the best bargains in a crash"
     },
     {
-     "title": "Alphabet expands Canadian dollar borrowing with $4.2B deal",
-     "link": "https://seekingalpha.com/news/4675118-alphabet-expands-canadian-dollar-borrowing-with-42b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 08:57:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alphabet expands Canadian dollar borrowing with $4.2B deal"
-    },
-    {
      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
      "pubDate": "Fri, 20 Nov 2026 13:56:23 GMT",
@@ -2321,28 +2441,20 @@
      "zh": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment"
     },
     {
-     "title": "Dividend Roundup: Nvidia, Disney, Merck, Johnson & Johnson and more",
-     "link": "https://seekingalpha.com/news/4675149-dividend-roundup-nvidia-disney-merck-johnson-johnson-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 08:51:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dividend Roundup: Nvidia, Disney, Merck, Johnson & Johnson and more"
-    },
-    {
-     "title": "Anthropic's aggregate gross proceeds reach $93.5B from landmark IPO",
-     "link": "https://seekingalpha.com/news/4675145-anthropics-aggregate-gross-proceeds-reach-93_5b-from-landmark-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 08:48:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic's aggregate gross proceeds reach $93.5B from landmark IPO"
-    },
-    {
      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
      "pubDate": "Fri, 20 Nov 2026 13:48:00 GMT",
      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
      "source": "MarketWatch",
      "zh": "Anthropic’s stock slides closer to IPO price and drags down the AI trade"
+    },
+    {
+     "title": "金融条件骤然收紧，高盛主管：市场轮动正演变为全面抛售",
+     "link": "https://wallstreetcn.com/articles/3786390",
+     "pubDate": "Fri, 20 Nov 2026 21:47:31 +0800",
+     "summary": "金融条件急剧收紧、算力管制升级与美联储鹰派立场三重压力叠加，正将美股从结构性轮动推向全面清仓式抛售。 周四， 标普500指数盘中一度上涨逾1%，随后急转直下收跌2%，创下自2024年4月以来最长的六连跌纪录，收盘再度跌破200日均线，当日仅38只成分股收涨，464只下跌。 高盛EMEA Delta One交易主管Rich Privorotsky在周五晨间客户报告中坦承，此次下跌令他本人也措手不及，并直言：\"你不可能在如此多的图表、如此多的资产上同时破位，还假装我们仍处于牛市行情之中。\" 金融条件的收紧速度尤为触目惊心。 高盛美国金融条件指数（FCI）宏观篮子周四收于124.48，创过去一年最高",
+     "source": "华尔街见闻",
+     "zh": "金融条件骤然收紧，高盛主管：市场轮动正演变为全面抛售"
     },
     {
      "title": "黑色星期五！全球股市创三年最长连跌，SpaceX盘前跌7%、Anthropic跌超13％，黄金跌破3600，美债上涨",
@@ -2361,20 +2473,20 @@
      "zh": "上海打开绿色金融新窗口 仓储企业先补碳数据课"
     },
     {
+     "title": "范式智能Token业务放量，前三季度毛利率止跌回升",
+     "link": "https://wallstreetcn.com/articles/3786391",
+     "pubDate": "Fri, 20 Nov 2026 21:32:17 +0800",
+     "summary": "范式智能技术集团股份有限公司（ 06682.HK ，以下简称“范式智能”）前三季度的收入增速与毛利率同步改善。 11月20日，范式智能发布截至2026年9月30日止前三季度业务表现，实现总收入67.47亿元，同比增长53.3%，增速高于上半年的43.4%。综合毛利率33.5%，较上半年的32.8%回升0.7个百分点，扭转了此前的下行走势。 本次公告为自愿披露的前三季度业务表现公告，非完整财务报告。前三季度公司实现毛利润22.60亿元，同比增长39.4%。公司称，第三季度经营性现金流较上半年有较大改善。 按量计费的API业务增长最快，前三季度收入10.14亿元，同比增长1,556%。AI Pla",
+     "source": "华尔街见闻",
+     "zh": "范式智能Token业务放量，前三季度毛利率止跌回升"
+    },
+    {
      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
      "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
      "pubDate": "Fri, 20 Nov 2026 13:29:50 GMT",
      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
      "source": "CNBC",
      "zh": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia"
-    },
-    {
-     "title": "苹果悄然布局AI Agent，Meta Muse迎来新对手",
-     "link": "https://wallstreetcn.com/articles/3786389",
-     "pubDate": "Fri, 20 Nov 2026 21:29:41 +0800",
-     "summary": "苹果正悄然加码AI Agent布局，招聘工程人才开发自主智能体系统，加入科技巨头争夺下一代AI入口的竞争。 11月20日，据报道， 苹果近日在官网密集发布多个招聘职位，寻求工程人才协助构建自主AI智能体系统。相关职位涉及多智能体协调、长周期推理、工具调用和任务规划等核心技术，显示苹果正加快推进智能体领域的技术布局。 与此同时，Meta旗下AI助手Muse自9月8日上线以来迅速走红，在苹果应用商店免费榜单连续霸榜近两周，目前仍位居第二，仅次于TikTok。其快速增长也让AI智能体的商业化潜力受到市场关注。 对投资者而言，苹果的入局意味着这一新兴赛道的竞争格局可能生变。摩根士丹利此前将Muse视为",
-     "source": "华尔街见闻",
-     "zh": "苹果悄然布局AI Agent，Meta Muse迎来新对手"
     },
     {
      "title": "韩束失守“双十一”榜首",
@@ -2385,132 +2497,12 @@
      "zh": "韩束失守“双十一”榜首"
     },
     {
-     "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-     "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-     "pubDate": "Fri, 20 Nov 2026 13:25:56 GMT",
-     "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-     "source": "CNBC",
-     "zh": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market"
-    },
-    {
-     "title": "2000年历史重演，反弹之后才是真正的崩跌？",
-     "link": "https://wallstreetcn.com/articles/3786388",
-     "pubDate": "Fri, 20 Nov 2026 21:22:58 +0800",
-     "summary": "此轮科技股抛售正在向更广泛市场蔓延，令部分分析师想起了互联网泡沫破裂前夕的市场形态。 伦敦经济研究机构TS Lombard的分析显示， 当前市场走势与2000年互联网泡沫崩溃前的路径存在令人不安的相似之处——科技股率先下跌，大盘随后跟进，而历史上真正的崩跌恰恰发生在一轮显著反弹之后。 该机构宏观策略师Dario Perkins警告称，\" 与2000年夏天、崩盘前夕存在一些令人忧虑的相似之处。\" 目前，标普500指数正面临2025年4月以来最差单周表现，此前数周抛售主要集中于科技板块，如今已明显向更广泛市场扩散。与此同时，科技板块在标普500指数中的权重已超过40%，较2000年峰值的35%更高",
-     "source": "华尔街见闻",
-     "zh": "2000年历史重演，反弹之后才是真正的崩跌？"
-    },
-    {
-     "title": "Cathie Wood&apos;s ARK Invest was a big buyer of Anthropic, tells CNBC she&apos;s &apos;quite optimistic&apos;",
-     "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-     "pubDate": "Fri, 20 Nov 2026 13:11:25 GMT",
-     "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
-     "source": "CNBC",
-     "zh": "Cathie Wood&apos;s ARK Invest was a big buyer of Anthropic, tells CNBC she&apos;s &apos;quite optimistic&apos;"
-    },
-    {
-     "title": "Anthropic世纪IPO，创始人套现了130亿！",
-     "link": "https://wallstreetcn.com/articles/3786385",
-     "pubDate": "Fri, 20 Nov 2026 21:02:13 +0800",
-     "summary": "Anthropic以一场史无前例的IPO正式登陆公开市场，刷新科技公司上市融资纪录，同时也揭示出这家AI巨头未来面临的天文数字级资本需求。 本次IPO定价每股83美元，高于此前74美元的区间中值，Anthropic通过发行A类普通股及特殊N类股合计募资约1048亿美元，若承销商行使全部超额配售权，总额可达约1170亿美元。这一规模远超Facebook 2012年IPO时创下的160亿美元纪录。 七位联合创始人在此次IPO中各自出售约340万股，按83美元定价计算，每人税前套现约2.8亿美元，七人合计套现近20亿美元（约合人民币133.6亿元） 。这一数字超出创始人此前按74美元中值价格预设的约",
-     "source": "华尔街见闻",
-     "zh": "Anthropic世纪IPO，创始人套现了130亿！"
-    },
-    {
-     "title": "AI繁荣背后，美国经济正埋下一颗“资本撤离”炸弹",
-     "link": "https://wallstreetcn.com/articles/3786387",
-     "pubDate": "Fri, 20 Nov 2026 21:00:31 +0800",
-     "summary": "美国经济正站在一个脆弱的平衡点上。AI投资热潮驱动着经济增长，但为这场盛宴买单的，越来越多是随时可能撤离的外国股权资本——一旦市场情绪逆转，这一融资结构将成为触发衰退的引线。 据彭博宏观策略师Simon White分析，美国经常账户赤字目前几乎完全依赖对回报敏感的外国股权资金流入来填补，这一依赖程度已创历史纪录。股权资本不同于债务融资或直接投资，其流动性强、波动性高，是最容易\"说走就走\"的资本形式。一旦股价走弱、市场情绪转向，今日的资金流入便可能迅速变为明日的资金外逃。 当前，AI直接相关投资单独支撑着近十分之一的GDP水平，约四分之一的名义年增长率（5.9%）来自AI领域。然而，黄仁勋突然离",
-     "source": "华尔街见闻",
-     "zh": "AI繁荣背后，美国经济正埋下一颗“资本撤离”炸弹"
-    },
-    {
-     "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 13:00:00 GMT",
-     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-     "source": "MarketWatch",
-     "zh": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom."
-    },
-    {
-     "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-     "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 12:59:00 GMT",
-     "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-     "source": "MarketWatch",
-     "zh": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies"
-    },
-    {
-     "title": "Burnham’s EU deal in brief",
-     "link": "https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 12:45:08 GMT",
-     "summary": "UK prime minister hopes Friday’s agreement is first step in a much closer post-Brexit relationship",
-     "source": "Financial Times",
-     "zh": "Burnham’s EU deal in brief"
-    },
-    {
-     "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-     "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 12:45:00 GMT",
-     "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
-     "source": "MarketWatch",
-     "zh": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027"
-    },
-    {
-     "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-     "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 12:43:00 GMT",
-     "summary": "The S&P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
-     "source": "MarketWatch",
-     "zh": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks"
-    },
-    {
-     "title": "不降噪、不智能，一款1979年的耳机为何被抢空",
-     "link": "http://www.eeo.com.cn/2026/1120/1098559.shtml",
-     "pubDate": "Fri, 20 Nov 2026 20:41:00 +0800",
-     "summary": "与时下“卷”降噪、“卷”智能的耳机不同，这是一款1979年发售产品的复刻款耳机——头戴式、有线、没有降噪功能，无法连接蓝牙。不少海外已经收到货的买家甚至吐槽其开放式结构容易漏音，塑料外壳质感一般。 但这并没有阻挡买家的购买热情。此前，这款耳机在英国、美国上市，同样被迅速抢空。",
-     "source": "经济观察网",
-     "zh": "不降噪、不智能，一款1979年的耳机为何被抢空"
-    },
-    {
-     "title": "高端车，不再迷信三元锂",
-     "link": "https://wallstreetcn.com/articles/3786384",
-     "pubDate": "Fri, 20 Nov 2026 20:21:49 +0800",
-     "summary": "作者 | 周智宇 高端电动车的卖点里，三元锂路线已变得没那么显眼。 中国汽车动力电池产业创新联盟11月19日公布数据显示，10月国内动力电池装车量同比增长18.2%，三元锂却同比降22.8%，份额降至12.9%。磷酸铁锂拿走了86.9%的市场。新能源车还在增长，三元锂却没跟上这班车。 从可查询到的数据看，在30万元以上的热销车型中，三元锂虽占据不少畅销高端车型装车，但“高端必须用三元锂”的边界正在松动，尤其是在30万-40万元的市场。 关于三元锂和磷酸铁锂的应用，比亚迪和宁德时代两家电池巨头在半年前还为这件事吵过一轮。宁德时代首席技术官高焕认为，25万元以上纯电车型使用铁锂属于“变相的减配”；",
-     "source": "华尔街见闻",
-     "zh": "高端车，不再迷信三元锂"
-    },
-    {
-     "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
-     "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 12:02:46 GMT",
-     "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
-     "source": "Financial Times",
-     "zh": "‘A necessary evil’: how Anthropic pulled off its IPO"
-    },
-    {
-     "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-     "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-     "pubDate": "Fri, 20 Nov 2026 12:00:02 GMT",
-     "summary": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
-     "source": "CNBC",
-     "zh": "A24 is having a great year at the box office. That could give HBO Max a streaming edge"
-    },
-    {
-     "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-     "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-     "pubDate": "Fri, 20 Nov 2026 12:00:02 GMT",
-     "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-     "source": "CNBC",
-     "zh": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes"
-    },
-    {
-     "title": "余承东纠正其发布会讲话：L3还没开放 现在还是L2时代 开车不能睡觉",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936276271.html",
-     "pubDate": "Fri, 20 Nov 2026 19:35:34 +0800",
-     "summary": "11月20日，华为常务董事、终端BG董事长余承东在其社交媒体发文称，“今天发布会上，有几句话讲得不准确，要纠正一下。享界V8现在给大家用的是L2辅助驾驶，L3的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是L2时代，大家一定要注意安全，开车不能睡觉。” 据澎湃新闻，11月20日，余承东在鸿蒙智行享界V8及星芒品牌发布会上表示，L3自动驾驶来临以后，手就不用摸方向盘了，“开车是可以睡觉的，别睡‘死’过去就行了”。 （文章来源：财联社）",
+     "title": "纳斯达克100指数期货跌超2%",
+     "link": "http://finance.eastmoney.com/news/1345,202611203936371063.html",
+     "pubDate": "Fri, 20 Nov 2026 21:24:09 +0800",
+     "summary": "美国股指 期货 跌幅扩大， 纳斯达克 100指数 期货 跌超2%。截至目前，道琼斯指数 期货 跌0.45%，标普500指数期货跌1.06%， 纳斯达克 100指数期货跌2.01%。",
      "source": "东方财富资讯",
-     "zh": "余承东纠正其发布会讲话：L3还没开放 现在还是L2时代 开车不能睡觉"
+     "zh": "纳斯达克100指数期货跌超2%"
     }
    ]
   },

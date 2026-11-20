@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 08:59:52",
+ "generated_at": "2026/11/20 09:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Canada Builds an Energy Exit From the U.S.",
+     "link": "https://oilprice.com/Energy/Energy-General/Canada-Builds-an-Energy-Exit-From-the-US.html",
+     "pubDate": "Thu, 19 Nov 2026 19:00:00 -0600",
+     "summary": "Canada is building an energy export industry for a world beyond the tariff-chasing United States. In 2024, the U.S. bought all but 0.01% of Canada’s natural gas exports. Ottawa now wants 55% of those exports to go to other countries by the mid-2030s, and Germany’s state-owned Uniper has signed a 20-",
+     "source": "OilPrice",
+     "zh": "Canada Builds an Energy Exit From the U.S."
+    },
+    {
+     "title": "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Deal-Boom-Lures-BMO-Back-Into-the-Market.html",
+     "pubDate": "Thu, 19 Nov 2026 19:00:00 -0600",
+     "summary": "Bank of Montreal (BMO) is jumping back into U.S. oil and gas investment banking six years after abandoning the business, apparently finding the American energy sector considerably more attractive now that companies are spending billions buying up each other. BMO Capital Markets is hiring Ali Akbar f",
+     "source": "OilPrice",
+     "zh": "US Oil and Gas Deal Boom Lures BMO Back Into the Market"
+    },
+    {
      "title": "Pacific Power Begins New Customer Protections Against Data Centers",
      "link": "https://cleantechnica.com/2026/11/19/pacific-power-begins-new-customer-protections-against-data-centers/",
      "pubDate": "Fri, 20 Nov 2026 00:34:18 +0000",
@@ -930,22 +946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe"
     },
     {
-     "title": "EU Moves to Overhaul Emergency Oil Stockpiles",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
-     "pubDate": "Thu, 19 Nov 2026 13:30:00 -0600",
-     "summary": "The European Union wants countries to stockpile the fuels they actually use, following a nine-month Middle East conflict that has exposed a problem with Europe's emergency oil reserves: having enough oil in storage doesn't necessarily mean having enough diesel or jet fuel. The European Commission is",
-     "source": "OilPrice",
-     "zh": "EU Moves to Overhaul Emergency Oil Stockpiles"
-    },
-    {
-     "title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
-     "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Faces-a-Looming-Water-Crisis-as-Glaciers-Retreat.html",
-     "pubDate": "Thu, 19 Nov 2026 13:00:00 -0600",
-     "summary": "An Asian Development Bank analysis of four decades of weather patterns raises an alarm about the accelerating pace of receding glaciers in Central Asia and the Caucasus. The ADB assessment, titled Glaciers to Farms Climate Risk and Capacity Assessment, evaluated glaciers and water-usage patterns ass",
-     "source": "OilPrice",
-     "zh": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat"
-    },
-    {
      "title": "How would Becerra’s solar Power Hour actually work?",
      "link": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
      "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1101,7 +1101,7 @@ window.INDUSTRY_DATA = {
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1346,14 +1346,6 @@ window.INDUSTRY_DATA = {
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
      "pubDate": "Thu, 19 Nov 2026 22:00:00 +0000",
@@ -1474,14 +1466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1538,14 +1522,6 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
      "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
      "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
@@ -1560,6 +1536,30 @@ window.INDUSTRY_DATA = {
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+    },
+    {
+     "title": "Starship returns to Starbase and a successful tower catch",
+     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
+     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
+     "source": "Spaceflight Now",
+     "zh": "Starship returns to Starbase and a successful tower catch"
+    },
+    {
+     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
+     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
+     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+     "source": "Spaceflight Now",
+     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1778,6 +1778,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "一篇12年前的硕士论文，怎么就成了Steam串流的神器？",
+     "link": "https://www.huxiu.com/article/4904995.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
+     "summary": "Steam悄悄更新了一个串流新功能&mdash;&mdash;Pyrowave，解码延迟竟然低至0.08毫秒！它是怎么做到的？更低延迟的背后，又有什么代价？",
+     "source": "虎嗅",
+     "zh": "一篇12年前的硕士论文，怎么就成了Steam串流的神器？"
+    },
+    {
+     "title": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？",
+     "link": "https://www.huxiu.com/article/4904427.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
+     "summary": "全球数据中心数量最多的美国，在AI时代却越来越难建成新的项目，就连这两年大力扶持数据中心建设的懂王，也在中期选举里因为这个事儿被反噬，甚至直接把美股干崩了&hellip;&hellip;美国的AI基建，到底出了什么问题？",
+     "source": "虎嗅",
+     "zh": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？"
+    },
+    {
+     "title": "从Anthropic敲钟，看中国大模型怎么定价？",
+     "link": "https://www.huxiu.com/article/4907042.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:59:28 +0800",
+     "summary": "本文来自微信公众号： 光锥智能 ，作者：关注前沿科技的 Anthropic上市，更像是一次针对整个AI行业的压力测试。 美东时间11月19日上午11点48分，顶着“人类史上最大IPO”的光环，Anthropic（股票代码：ANT）正式在纳斯达克开盘交易。 相比Anthropic敲定的83美元发行价，开盘价直接高开至111.50美元，暴涨34.3%，盘中一度冲高至115.10美元。按完全稀释口径计算，Anthropic的估值最高达到2.02万亿美元，一举超越今年6月上市的SpaceX。 然而，开盘后的狂欢只持续了不到半个小时，截至收盘，Anthropic市值像是坐上了过山车。 午后开始，Anth",
+     "source": "虎嗅",
+     "zh": "从Anthropic敲钟，看中国大模型怎么定价？"
+    },
+    {
+     "title": "北美独立站Shopify转化率1.1%，广告CPA 68美元还能撑多久？",
+     "link": "https://www.baijing.cn/question/638836",
+     "pubDate": "Fri, 20 Nov 2026 00:58:08 +0000",
+     "summary": "北美独立站，Shopify建站，做户外露营配件，团队4人，月投放预算约1.2万美元，主要跑Meta和Google Shopping。近30天加购率2.8%、结账转化率只有1.1%，广告端CPA已经到68美元，客单价才75美元，等于每单毛利全被吃掉。已经试过改落地页首屏、加信任徽章、把运费门槛从99降到59，转化率只从0.9%抬到1.1%，CPA没降。现在卡在不知道是该先砍预算保现金，还是继续烧钱测新素材把CPA压到40以内——按这个品类在北美，CPA压到多少才算有得做？",
+     "source": "白鲸出海",
+     "zh": "北美独立站Shopify转化率1.1%，广告CPA 68美元还能撑多久？"
+    },
+    {
+     "title": "Anthropic上市，AI从理想主义进入现实主义",
+     "link": "https://www.huxiu.com/article/4907040.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:55:19 +0800",
+     "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 Anthropic创造了资本市场的历史，在上市当天，公开及非公开一把融资超过千亿美元，成为史上最大的IPO。 IPO定价时约1.5万亿美元、开盘约2万亿美元、收盘约1.77万亿美元，按已发行在外股份计算，收盘市值约1.3万亿美元。这足以证明AI时代正在迅速诞生一批新型的超级科技巨头，足以撼动传统的科技巨头。 但是，上市当天的行情，走出了一条典型的“科技炒作曲线”（hype curve）的轨迹。以83美元发行价获得股票的投资者，到收盘时账面获利17.1%。但如果有人在股票开始交易时，以111.50美元的首笔成交价买入，到收盘时反而亏损了12.9%",
+     "source": "虎嗅",
+     "zh": "Anthropic上市，AI从理想主义进入现实主义"
+    },
+    {
+     "title": "精准做空英伟达的那位空头，又盯上了一个新目标",
+     "link": "https://www.tmtpost.com/8211858.html",
+     "pubDate": "Fri, 20 Nov 2026 08:53:10 +0800",
+     "summary": "Culper Research 表示，Cerebras 的产品寿命并没有该公司宣称的那么长。Cerebras 则称该机构的观点是“一系列持续的虚假说法”。",
+     "source": "钛媒体",
+     "zh": "精准做空英伟达的那位空头，又盯上了一个新目标"
+    },
+    {
+     "title": "从看多到做空：华尔街为何重估铜价？",
+     "link": "https://www.tmtpost.com/8211570.html",
+     "pubDate": "Fri, 20 Nov 2026 08:53:00 +0800",
+     "summary": "华尔街正在重新评估，未来铜供应短缺究竟值得支付多高的溢价。",
+     "source": "钛媒体",
+     "zh": "从看多到做空：华尔街为何重估铜价？"
+    },
+    {
      "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&apos;s close, a 430%+ return on investment (Richard Nieva/Forbes)",
      "link": "https://www.techmeme.com/261119/p56#a261119p56",
      "pubDate": "Thu, 19 Nov 2026 19:50:59 -0500",
@@ -1845,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
      "pubDate": "Fri, 20 Nov 2026 00:26:03 +0000",
-     "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+     "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
      "source": "TechCrunch",
      "zh": "Anthropic rival says companies can (mostly) skip the pricey models"
     },
@@ -1890,44 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "只改一处代码，谷歌 AI 智能体优化 Harness 后任务成功率提升 8 倍"
     },
     {
-     "title": "驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万",
-     "link": "https://www.huxiu.com/article/4907036.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 08:17:50 +0800",
-     "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万！》 11月18日，西安市长安区人民法院沣峪人民法庭对秦岭“4·21”驴友遇难案作出一审判决。陈某和崔某在这次穿越中遇难，陈某家属提起诉讼。法院认定，陈某明知路线禁入仍进山，对自身死亡承担主要责任。 活动组织者廖某承担10%的赔偿责任，同行者刘某承担5%，两人合计赔偿18万余元。被起诉的民间救援人员、公益救援中心和当地秦岭保护执法部门均无过错，不承担赔偿责任。 四个人进山两个人遇难 2025年4月，廖某在微信群里约人走秦岭“光鹿跑兵冰”。名字取自沿途的光头山、鹿角梁、跑马",
-     "source": "虎嗅",
-     "zh": "驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万"
-    },
-    {
-     "title": "全球最大规模IPO、10大药企9家买单，Anthropic刚刚上市",
-     "link": "https://www.huxiu.com/article/4907035.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 08:10:41 +0800",
-     "summary": "本文来自微信公众号： 动脉网 ，作者：姚敬 美东时间11月19日，Anthropic正式登陆纳斯达克，发行价定在每股83美元，高于之前70~78美元的询价区间。该公司发行9.8亿股A类普通股，此次公开发行募得约813亿美元，加上260亿美元私募配售，总募资突破千亿美元。超过SpaceX6月含超额配售的862亿美元，一举成为全球史上规模最大的IPO，也是首家登陆美股的前沿AI实验室。首个交易日，开盘111.5美元（+34.3%），盘中最高115.1美元（+38.7%），收盘97.17美元，首日收涨17.07%，总市值约1.27万亿美元。 Anthropic正式登陆纳斯达克，图源Nasdaq 这家",
-     "source": "虎嗅",
-     "zh": "全球最大规模IPO、10大药企9家买单，Anthropic刚刚上市"
-    },
-    {
-     "title": "“腾讯到了生死存亡”，马化腾亮牌",
-     "link": "https://www.huxiu.com/article/4907034.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 08:06:03 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：李原，作者：闫俊文 自由现金流转负，“字节时间”压顶，腾讯组织变革箭在弦上。 11月11日，在本应轻松的“腾讯周年庆”上，马化腾向11.9万名腾讯员工抛出了尖锐警示。他开场就定下基调：“今天我和Martin（腾讯集团总裁刘炽平）穿的一黑一白，难听的话我来说。” 马化腾措辞前所未有地严厉：“远处浪潮已经吞没一个个山丘，你不能还坐着欣赏。”并直指组织顽疾，“不要让中间传话的不想动还霸占地盘的干部成为阻碍，山头主义、地盘意识都要完全打破”，“选择适应新打法的人，要干脆”。 11月16日，“腾讯文化”公众号刊发讲话纪要，把寒意坐实：“这场智能革命，不主动投",
-     "source": "虎嗅",
-     "zh": "“腾讯到了生死存亡”，马化腾亮牌"
-    },
-    {
      "title": "OpenAI印证了梁文锋的“预言”",
      "link": "https://www.tmtpost.com/8211368.html",
      "pubDate": "Fri, 20 Nov 2026 08:05:00 +0800",
      "summary": "OpenAI裁撤机器人团队，通用模型“杀死”垂直模型？",
      "source": "钛媒体",
      "zh": "OpenAI印证了梁文锋的“预言”"
-    },
-    {
-     "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
-     "link": "https://www.huxiu.com/article/4907033.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 08:00:28 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，题图来自：视觉中国 清醒地认识到自己在见证历史，是挺刺激的一件事。 Anthropic上市，就是这样。 当地时间11月19日，做出Claude的Anthropic在纳斯达克挂牌，股票代码ANT。第一笔交易以每股111.50美元成交，较83美元的发行价上涨34.34%。 按完全稀释口径算，Anthropic的估值从发行时的约1.5万亿美元涨到了约2万亿美元。之后股价有所回落，截至发稿，ANT 股价为 94.62 美元，市值约 1.24 万亿。 一出道就已经是很多公司此生难以企及的高度。 今年6月，马斯克的SpaceX上市时，我们才用过一回&ldqu",
-     "source": "虎嗅",
-     "zh": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元"
     },
     {
      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
@@ -1941,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
      "link": "https://git-aarvin.github.io/mei/",
      "pubDate": "Thu, 19 Nov 2026 23:35:35 +0000",
-     "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 36 # Comments: 14",
+     "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 51 # Comments: 22",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon is the new #1 on the Models Engineering Index"
     },
@@ -1949,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
      "pubDate": "Thu, 19 Nov 2026 23:32:11 +0000",
-     "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 51 # Comments: 9",
+     "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 61 # Comments: 15",
      "source": "Hacker News",
      "zh": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers"
-    },
-    {
-     "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
-     "link": "https://www.tmtpost.com/8211593.html",
-     "pubDate": "Fri, 20 Nov 2026 07:20:00 +0800",
-     "summary": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披露多项业务时间表，Optimus拟18个月内胜任家务。",
-     "source": "钛媒体",
-     "zh": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份"
     },
     {
      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mark Gurman / Bloomberg : A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users &nbsp; &mdash;&nbsp; Apple Inc. is developing its own autonomous artificial intelligence agent that can get things don",
      "source": "Techmeme",
      "zh": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)"
-    },
-    {
-     "title": "RegExr: Temporarily Offline",
-     "link": "https://regexr.com/",
-     "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
-     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 34 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "RegExr: Temporarily Offline"
-    },
-    {
-     "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-     "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-     "pubDate": "Thu, 19 Nov 2026 22:16:37 +0000",
-     "summary": "Amazon now uses its shopping platform for political purposes.",
-     "source": "Ars Technica",
-     "zh": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "About time: You can now edit your Instagram Stories after posting them",
+     "link": "https://www.gsmarena.com/instagram_story_edit-news-75541.php",
+     "pubDate": "Fri, 20 Nov 2026 02:02:02 +0100",
+     "summary": "Until now, if you posted a Story on Instagram and later found something was wrong with it - such as a typo or the wrong music - you'd have to delete it and post a new Story with the correct content. You won't have to do that anymore, as Instagram has announced that users can now edit Stories after p",
+     "source": "GSMArena",
+     "zh": "About time: You can now edit your Instagram Stories after posting them"
+    },
     {
      "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
      "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google has just announced Gemini 4 Neon, the latest member of its Gemini 4 family of AI models. According to the company, it brings frontier-level intelligence with fast end-to-end task completion across software engineering, knowledge work, and science workflows. Google pits Neon against Claude Opu",
      "source": "GSMArena",
      "zh": "Google launches Gemini 4 Neon, its new mid-tier AI model"
-    },
-    {
-     "title": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more",
-     "link": "https://www.gsmarena.com/amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545.php",
-     "pubDate": "Thu, 19 Nov 2026 19:21:02 +0100",
-     "summary": "Smartphone prices have gone wild this year, but there is a cure – a week of Black Friday sales. Here are the best offers that we found on Amazon UK. Note that there are quite a few phones to get through, so we’ve organized things into categories. You can use the links below to explore. Table of Cont",
-     "source": "GSMArena",
-     "zh": "Amazon UK's top Black Friday deals: camera flagships, foldables, mid-rangers and more"
     }
    ]
   },
@@ -2273,6 +2273,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "SunPower forecasts $61.8M Q4 revenue as it targets positive operating cash flow within next 2 quarters",
+     "link": "https://seekingalpha.com/news/4674995-sunpower-forecasts-61_8m-q4-revenue-as-it-targets-positive-operating-cash-flow-within-next-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 20:04:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SunPower forecasts $61.8M Q4 revenue as it targets positive operating cash flow within next 2 quarters"
+    },
+    {
+     "title": "Intuit expects FY2027 revenue growth of 8%-9% as it plans Mailchimp sale and outlines Q2 EPS of $3.17-$3.22",
+     "link": "https://seekingalpha.com/news/4674994-intuit-expects-fy2027-revenue-growth-of-8-percentminus-9-percent-as-it-plans-mailchimp-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 20:04:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intuit expects FY2027 revenue growth of 8%-9% as it plans Mailchimp sale and outlines Q2 EPS of $3.17-$3.22"
+    },
+    {
+     "title": "Decline in U.S. diesel prices likely to continue, Energy Secretary says",
+     "link": "https://seekingalpha.com/news/4674991-decline-in-us-diesel-prices-likely-to-continue-energy-secretary-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 19:57:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Decline in U.S. diesel prices likely to continue, Energy Secretary says"
+    },
+    {
+     "title": "首度突破1万亿美元！AI加持，韩国出口创下新纪录",
+     "link": "https://wallstreetcn.com/articles/3786327",
+     "pubDate": "Fri, 20 Nov 2026 08:56:22 +0800",
+     "summary": "韩国年度商品出口额首次突破万亿美元，AI驱动的半导体出口热潮是这一历史性突破的核心引擎。 11月19日周四，据韩国产业通商资源部公布的初步数据， 韩国年度货物出口累计额正式越过万亿美元关口。 这一成就距韩国年出口额首次突破7000亿美元仅一年之隔，使韩国成为继美国、中国和德国之后，全球第四个实现这一目标的经济体。 出口激增也为韩国宏观经济提供了支撑。 韩国三季度GDP环比增长1%，超出市场预期。 然而，私人消费意外收缩，表明芯片热潮的红利尚未广泛传导至居民端，经济复苏的结构性隐忧依然存在。 科技资本开支浪潮带动出口全面走强，可持续性隐忧不容忽视 今年韩国出口增长的核心驱动力来自半导体与计算机类",
+     "source": "华尔街见闻",
+     "zh": "首度突破1万亿美元！AI加持，韩国出口创下新纪录"
+    },
+    {
+     "title": "担心毁灭人类的AI巨头，上市先圈了一千亿美金",
+     "link": "http://www.eeo.com.cn/2026/1120/1097646.shtml",
+     "pubDate": "Fri, 20 Nov 2026 08:54:00 +0800",
+     "summary": "在Anthropic身上，有一种较为罕见的分裂感：一边是ARR（年化收入）冲到810亿美元、年消费至少10万美元的客户数量一年增至原来约12.5倍的商业奇迹；另一边是用90多页篇幅写下的警告，它自己做出的模型，可能“抵抗关机”，可能“操纵信息”，在极端情况下会对人类构成“灾难性或生存级风险”。",
+     "source": "经济观察网",
+     "zh": "担心毁灭人类的AI巨头，上市先圈了一千亿美金"
+    },
     {
      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
@@ -2442,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "11月20日投资日历 | 英国-欧盟峰会将于今日在布鲁塞尔举行"
     },
     {
-     "title": "FCA opens AI Spotlight Observatory",
-     "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 20 Nov 2026 00:01:00 GMT",
-     "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
-     "source": "Finextra",
-     "zh": "FCA opens AI Spotlight Observatory"
-    },
-    {
      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
      "pubDate": "Fri, 20 Nov 2026 00:00:38 GMT",
@@ -2480,38 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普19日表示，在新年到来之前，他不会就伊朗问题的下一步行动“仓促”作出决定。 特朗普当天接受美国阿克西奥斯新闻网站电话采访时说，他不会就伊朗问题“仓促”作出任何决定，“我们要看看新年之后局势如何发展”。 据阿克西奥斯新闻网站分析，特朗普所提及的时间节点可能意味着，他希望为美国对伊朗实施的海上封锁和经济施压行动留出更多时间以发挥作用。这也可能表明，如果伊朗今年年底前不让步，特朗普希望在由民主党掌控的新一届国会正式履职前，为自己留出足够的时间来采取军事行动。 报道还说，特朗普当前面临来自以色列看守政府总理内塔尼亚胡的巨大压力，后者敦促他尽快对伊朗发动一场决定性的轰炸行动。据知情人士透露",
      "source": "东方财富资讯",
      "zh": "中东突发大消息！美国总统特朗普最新发声"
-    },
-    {
-     "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-     "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 23:56:00 GMT",
-     "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-     "source": "MarketWatch",
-     "zh": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead"
-    },
-    {
-     "title": "TechnipFMC secures up to $1.25B in Exxon Guyana contracts",
-     "link": "https://seekingalpha.com/news/4674989-technipfmc-secures-up-to-1_25b-in-exxon-guyana-contracts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 18:42:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TechnipFMC secures up to $1.25B in Exxon Guyana contracts"
-    },
-    {
-     "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-     "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-     "pubDate": "Thu, 19 Nov 2026 23:21:23 GMT",
-     "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
-     "source": "CNBC",
-     "zh": "California attorney general issues Nvidia subpoena in probe of China chip diversion"
-    },
-    {
-     "title": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争",
-     "link": "https://wallstreetcn.com/articles/3786317",
-     "pubDate": "Fri, 20 Nov 2026 07:18:00 +0800",
-     "summary": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争。 11月19日，据彭博报道， 苹果公司正在开发一款能够代替用户完成任务的自主人工智能智能体，正式进军由OpenAI、Anthropic、Meta等公司激烈角逐的赛道。 此前11月18日苹果官网新增一条招聘信息， 透露公司正在寻找一名高级工程经理，负责一款主动式、智能体化的AI助手。 该系统能够编写代码、浏览网页、控制应用，并在设备上代替用户操作。 这一动向出现在AI智能体加速渗透消费端的时点。 Meta的Muse近月来凭借代订餐厅、预订行程和生成新闻简报等能力赢得消费者关注，其应用长期占据苹果App Store免费榜第二",
-     "source": "华尔街见闻",
-     "zh": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争"
     }
    ]
   },

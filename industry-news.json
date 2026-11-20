@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 12:14:49",
+ "generated_at": "2026/11/20 12:31:49",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,30 @@
    "total": 9,
    "items": [
     {
+     "title": "AI power demand stays resilient as US grid upgrades, SSTs gain focus",
+     "link": "https://www.digitimes.com/news/a20261120PD231/demand-jensen-huang-nvidia-solar-market.html",
+     "pubDate": "Fri, 20 Nov 2026 04:06:14 GMT",
+     "summary": "With Democrats winning the US midterm elections and Jensen Huang removed from Nvidia's leadership, the market is closely watching the future of US AI infrastructure. Supply-chain companies said Huang's personnel move will have limited short-term impact on the construction of US AI data centers. The ",
+     "source": "DIGITIMES",
+     "zh": "AI power demand stays resilient as US grid upgrades, SSTs gain focus"
+    },
+    {
+     "title": "AI power demand revives global solar PV momentum, while policy bottlenecks leave Taiwan facing a green energy crunch",
+     "link": "https://www.digitimes.com/news/a20261120PD227/solar-taiwan-pv-demand-policy.html",
+     "pubDate": "Fri, 20 Nov 2026 04:02:24 GMT",
+     "summary": "Shifting political dynamics in the US are poised to put solar photovoltaics (PV) with its relatively low installation barriers back in the global clean energy spotlight. In Taiwan, however, where semiconductor and other pillar tech industries face mounting urgency for green electricity, the domestic",
+     "source": "DIGITIMES",
+     "zh": "AI power demand revives global solar PV momentum, while policy bottlenecks leave Taiwan facing a green energy crunch"
+    },
+    {
+     "title": "Huawei targets medical-grade health tech to unlock smartwatch growth wave",
+     "link": "https://www.digitimes.com/news/a20261120PD217/huawei-smartwatch-medical-shipments-growth-2026.html",
+     "pubDate": "Fri, 20 Nov 2026 04:01:25 GMT",
+     "summary": "Although rising memory prices are expected to weigh on shipments across several mobile device categories in 2026, global smartwatch demand is holding steady, buoyed by advanced sports tracking and increasingly precise health-monitoring capabilities. Total smartwatch shipments are forecast to reach r",
+     "source": "DIGITIMES",
+     "zh": "Huawei targets medical-grade health tech to unlock smartwatch growth wave"
+    },
+    {
      "title": "SK Hynix pitches memory-centric AI rack system at SC26 as rivals close in",
      "link": "https://www.digitimes.com/news/a20261120VL211/sk-hynix-hbm-2026-dram-samsung.html",
      "pubDate": "Fri, 20 Nov 2026 04:00:01 GMT",
@@ -279,38 +303,6 @@
      "summary": "Nvidia and Microsoft are expanding their partnership across Microsoft's cloud, on-premises, and PC products, the companies said at Microsoft's Ignite conference on Wednesday. The announcements include broader access to Azure virtual machines built on Nvidia's newest Vera Rubin NVL72 systems.",
      "source": "DIGITIMES",
      "zh": "Nvidia, Microsoft bring Vera Rubin systems to Azure, widen AI options from cloud to Windows PCs"
-    },
-    {
-     "title": "Samsung and SK Hynix align on north-south split for new chip park",
-     "link": "https://www.digitimes.com/news/a20261120PD208/samsung-sk-hynix-government-military-relocation.html",
-     "pubDate": "Fri, 20 Nov 2026 03:45:00 GMT",
-     "summary": "Samsung Electronics and SK Hynix have broadly agreed to divide a proposed semiconductor park at South Korea's Gwangju military airport site into southern and northern sections, respectively, according to South Korean media reports. The arrangement is intended to support site planning and tenant agre",
-     "source": "DIGITIMES",
-     "zh": "Samsung and SK Hynix align on north-south split for new chip park"
-    },
-    {
-     "title": "LG Display scraps US$2.24 billion Gen 10.5 OLED project after seven years as market priorities shift",
-     "link": "https://www.digitimes.com/news/a20261120PD232/lg-display-oled-panel-investment-market-production.html",
-     "pubDate": "Fri, 20 Nov 2026 03:40:41 GMT",
-     "summary": "LG Display (LGD) has cancelled its KRW3 trillion (approx. US$2.24 billion) investment in a Gen 10.5 OLED production line, opting to use existing facilities rather than build new capacity as OLED TV growth slows and demand rises for premium small- and medium-sized panels, particularly gaming monitors",
-     "source": "DIGITIMES",
-     "zh": "LG Display scraps US$2.24 billion Gen 10.5 OLED project after seven years as market priorities shift"
-    },
-    {
-     "title": "Kian Shen sees electric bus shipments hitting 1,000 in 2027",
-     "link": "https://www.digitimes.com/news/a20261120PD222/electric-bus-chassis-2027-shipments-yulon.html",
-     "pubDate": "Fri, 20 Nov 2026 03:33:56 GMT",
-     "summary": "Kian Shen, Yulon Motor's chassis manufacturer, said electric bus shipments will enter a mature phase in 2027, rising to about 1,000 units from an estimated 800 units in 2026. The company's consolidated revenue grew 8.3% year-over-year in the first three quarters of 2026, driven by stronger chassis a",
-     "source": "DIGITIMES",
-     "zh": "Kian Shen sees electric bus shipments hitting 1,000 in 2027"
-    },
-    {
-     "title": "Nvidia Leaderless But Sparkling",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-leaderless-but-sparkling-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 01:01:32 +0000",
-     "summary": "As in Q2, Nvidia’s Q3 saw a YoYvdoubling of revenues and profits. In the three months ended October 25, Nvidia’s revenue grew by 103% from the same period last year, […] The post Nvidia Leaderless But Sparkling appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia Leaderless But Sparkling"
     },
     {
      "title": "Memory R&D Is a High-Stakes Game",
@@ -881,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Inspiring Hearts & Minds on Solar",
+     "link": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/",
+     "pubDate": "Fri, 20 Nov 2026 04:19:09 +0000",
+     "summary": "Since the invention of the solar cell seven decades ago, the story of American solar has seen its fair share of twists and turns on its journey to becoming the country’s most affordable and fastest-growing energy source. While the market continues demanding more solar and energy storage at a rapid .",
+     "source": "CleanTechnica",
+     "zh": "Inspiring Hearts & Minds on Solar"
+    },
+    {
      "title": "Leapmotor Produces Its 2 Millionth EV",
      "link": "https://cleantechnica.com/2026/11/19/leapmotor-produces-its-2-millionth-ev/",
      "pubDate": "Fri, 20 Nov 2026 03:20:15 +0000",
@@ -985,18 +985,10 @@
      "zh": "Google signs 50-MW superhot geothermal PPA with Quaise Energy"
     },
     {
-     "title": "Europe Spent €16.5 Million Proving Again That Hydrogen Burns in a Turbine",
-     "link": "https://cleantechnica.com/2026/11/19/hydrogen-turbine-hycoflex-public-grants-industrial-steam/",
-     "pubDate": "Thu, 19 Nov 2026 17:40:22 +0000",
-     "summary": "Hydrogen burns. Turbines spin. Their exhaust can make steam. Kawasaki demonstrated hydrogen-fired electricity and heat production at Kobe Port Island in 2018, before Europe funded the first HYFLEXPOWER programme. Six years later, Siemens Energy is still issuing announcements about hydrogen combustio",
-     "source": "CleanTechnica",
-     "zh": "Europe Spent €16.5 Million Proving Again That Hydrogen Burns in a Turbine"
-    },
-    {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
+     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1108,7 +1100,7 @@
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1785,6 +1777,62 @@
    "total": 18,
    "items": [
     {
+     "title": "硅谷最昂贵的一场分手",
+     "link": "https://www.tmtpost.com/8211899.html",
+     "pubDate": "Fri, 20 Nov 2026 12:24:12 +0800",
+     "summary": "它不但改变了很多人的命运，也是改变了整个科技行业乃至全球的世界线。",
+     "source": "钛媒体",
+     "zh": "硅谷最昂贵的一场分手"
+    },
+    {
+     "title": "汪明荃“吃席式演唱会”火了，银发经济还有多少想象力？",
+     "link": "https://www.tmtpost.com/8212159.html",
+     "pubDate": "Fri, 20 Nov 2026 12:24:07 +0800",
+     "summary": "老模式找到了新市场。",
+     "source": "钛媒体",
+     "zh": "汪明荃“吃席式演唱会”火了，银发经济还有多少想象力？"
+    },
+    {
+     "title": "从悦榕庄到安纳塔拉，一家温泉酒店的换牌实验",
+     "link": "https://www.tmtpost.com/8212241.html",
+     "pubDate": "Fri, 20 Nov 2026 12:24:03 +0800",
+     "summary": "安纳塔拉重回重庆，本土高端为何难以挣脱国际品牌怀抱？",
+     "source": "钛媒体",
+     "zh": "从悦榕庄到安纳塔拉，一家温泉酒店的换牌实验"
+    },
+    {
+     "title": "TikTok Shop 美国站达人寄样，样品成本摊到 CPA 上已经 22 美元，还要继续寄吗？",
+     "link": "https://www.baijing.cn/question/638845",
+     "pubDate": "Fri, 20 Nov 2026 04:22:33 +0000",
+     "summary": "做 TikTok Shop 美国站，宠物用品类目，团队 6 人，起量阶段，月寄样预算 6000 美元左右。近两个月寄出 280 多份样品，实际出单的达人不到 40 个，按已结算订单算，样品成本摊到每单 CPA 已经 22 美元，还不算达人佣金和平台佣金。试过只寄粉丝 1 万到 5 万的腰部达人、也试过先发私信确认带货意愿再寄，转化率都没明显变化，卡在不知道该怎么筛人：是继续用 GMV 和近 30 天带货数据卡门槛，还是干脆砍掉免费寄样改成佣金前置？想直接问：在样品成本已经压到 CPA 22 美元的情况下，你们判断一个达人值不值得寄样的硬标准是什么？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 美国站达人寄样，样品成本摊到 CPA 上已经 22 美元，还要继续寄吗？"
+    },
+    {
+     "title": "估值410亿美元，贝佐斯打造“物理世界的OpenAI”",
+     "link": "https://www.huxiu.com/article/4907132.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 12:19:46 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」》 AI吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊CEO五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间2026年11月17日，加州门洛帕克的Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是AI初创公司Prometheus的联合创始人兼联席CEO。这是自2021年交出亚马逊帅印后，这位商业巨头首次重回一线担任CEO。 早在2024年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴",
+     "source": "虎嗅",
+     "zh": "估值410亿美元，贝佐斯打造“物理世界的OpenAI”"
+    },
+    {
+     "title": "TikTok Shop 沙特直播，女性主播投流 CPA 涨到 38 里亚尔还值得继续投吗？",
+     "link": "https://www.baijing.cn/question/638844",
+     "pubDate": "Fri, 20 Nov 2026 04:15:30 +0000",
+     "summary": "我们做中东美妆个护，TikTok Shop 沙特站刚起量两个月，团队 8 人，其中主播 3 位是本地女性（持工作签、着 abaya 出镜），主推香水和护发油。近三周用 Promote 加热直播间，单场投 600 里亚尔左右，CPA 从最初 19 里亚尔一路涨到 38 里亚尔，直播间观看停留从 2 分 10 秒掉到 50 秒，成交转化率 1.4%。试过换开播时段（从晚 9 点改到下午 4 点）、把主播话术从纯阿拉伯语改成阿语夹英语、也试过把预算挪到短视频挂车，CPA 只降到 33 就下不去了。现在卡在不确定是女性主播素材在沙特投流本身成本就高，还是我们的出价和人群包没调对。想问：沙特站女性主播直",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 沙特直播，女性主播投流 CPA 涨到 38 里亚尔还值得继续投吗？"
+    },
+    {
+     "title": "Anthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO (Bloomberg)",
+     "link": "https://www.techmeme.com/261119/p61#a261119p61",
+     "pubDate": "Thu, 19 Nov 2026 23:15:00 -0500",
+     "summary": "Bloomberg : Anthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO &nbsp; &mdash;&nbsp; Anthropic PBC shares were down about 5% in post-market trading as the artificial intelligence developer wrapped up its first day as a publi",
+     "source": "Techmeme",
+     "zh": "Anthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO (Bloomberg)"
+    },
+    {
      "title": "北美独立站转化率卡在1.1%，两个人轮班改版排期该怎么排？",
      "link": "https://www.baijing.cn/question/638843",
      "pubDate": "Fri, 20 Nov 2026 03:59:13 +0000",
@@ -1865,14 +1913,6 @@
      "zh": "腾讯 Hy4 正式开源，混元 LLM 系列实现全量开放"
     },
     {
-     "title": "阿里云加速增长，平头哥走向台前 | 看财报",
-     "link": "https://www.tmtpost.com/8211922.html",
-     "pubDate": "Fri, 20 Nov 2026 11:40:58 +0800",
-     "summary": "2027年之后，阿里绝大部分新增AI芯片供给将以平头哥芯片为主。",
-     "source": "钛媒体",
-     "zh": "阿里云加速增长，平头哥走向台前 | 看财报"
-    },
-    {
      "title": "字节回应“原抖音 CEO 张楠、原飞书 CEO 谢欣将离职”：信息不准确",
      "link": "https://www.ithome.com/1/029/839.htm",
      "pubDate": "Fri, 20 Nov 2026 03:40:24 GMT",
@@ -1897,36 +1937,12 @@
      "zh": "三星手机换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权"
     },
     {
-     "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
-     "link": "https://www.tmtpost.com/8212022.html",
-     "pubDate": "Fri, 20 Nov 2026 11:39:27 +0800",
-     "summary": "从抢用户到“赶”用户，AI行业变天了。",
-     "source": "钛媒体",
-     "zh": "DeepSeek限额：免费用户成了AGI的“拦路虎”？"
-    },
-    {
-     "title": "阿里被迫“收手”",
-     "link": "https://www.tmtpost.com/8211980.html",
-     "pubDate": "Fri, 20 Nov 2026 11:39:23 +0800",
-     "summary": "阿里云调低指引、千问停烧月活、外卖停战，都在等平头哥放量。",
-     "source": "钛媒体",
-     "zh": "阿里被迫“收手”"
-    },
-    {
      "title": "两天跌掉2800亿，腾讯冤么？",
      "link": "https://www.huxiu.com/article/4907097.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 11:38:01 +0800",
      "summary": "出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | 视觉中国 腾讯AI有突破，市场为啥更慌了？ 11月19日，腾讯控股 （0700.HK） 开盘持续走弱，收跌6.55%，单日市值蒸发约2200亿港元；20日盘中，股价再跌约2%，两日累计市值跌掉约2800亿港元。 直接触发因素来自前一天盘后的三季报。 从业务表现看，腾讯有点委屈，因为AI商业化确有新突破。 WorkBuddy当季日活跃用户超过1000万，每日Token消耗超过100万亿，最近7天收入按年化折算超过5亿美元；还有腾讯云收入同比增长35%，较二季度的21%明显提速。 但从财务表现看，市值蒸发不算完全冤枉。 三季度，它的",
      "source": "虎嗅",
      "zh": "两天跌掉2800亿，腾讯冤么？"
-    },
-    {
-     "title": "没有客户成功，企业AI这门生意，根本做不成",
-     "link": "https://www.huxiu.com/article/4907114.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 11:37:06 +0800",
-     "summary": "本文来自微信公众号： ToBeSaaS ，作者：戴珂 前段时间去美国出差，顺便拜访了几家公司的CS部门，有做SaaS的，也有做AI的。 本来我以为两边干的事差不多。但聊过之后，才发现完全不是一回事。 SaaS公司的人张口就是续约、扩展、QBR。 AI那边的人，讲的是另外一套业务逻辑：缩短TTV、找新场景、发现新用例。 对了，还有更重要的一点，就是盯“用量”。 我把CSM招聘数据翻了一遍，发现这个差别不是几家公司的做法，而是整个行业的结构已经分离了。 一家做客户成功软件的公司，自己倒裁了270个CSM。同一时间，OpenAI在东京招CSM，只管1到3家财富500强客户，要求8年经验，除了做过CS",
-     "source": "虎嗅",
-     "zh": "没有客户成功，企业AI这门生意，根本做不成"
     },
     {
      "title": "California&apos;s AG subpoenas Nvidia to investigate whether Jensen Huang&apos;s actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
@@ -1964,7 +1980,7 @@
      "title": "What Comes After AGI?",
      "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
      "pubDate": "Fri, 20 Nov 2026 02:44:13 +0000",
-     "summary": "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 19 # Comments: 15",
+     "summary": "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 21 # Comments: 30",
      "source": "Hacker News",
      "zh": "What Comes After AGI?"
     },
@@ -1972,7 +1988,7 @@
      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
      "pubDate": "Fri, 20 Nov 2026 02:43:49 +0000",
-     "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup"
     },
@@ -1999,30 +2015,6 @@
      "summary": "Courtney Rozen / Reuters : Source: National Cyber Director Sean Cairncross was &ldquo;fired&rdquo; from his role; the president &ldquo;fully supported&rdquo; the firing days after a wave of tech-related outages &nbsp; &mdash;&nbsp; White House national cyber director Sean Cairncross was &ldquo;fired",
      "source": "Techmeme",
      "zh": "Source: National Cyber Director Sean Cairncross was \"fired\" from his role; the president \"fully supported\" the firing days after a wave of tech-related outages (Courtney Rozen/Reuters)"
-    },
-    {
-     "title": "北美 AI 应用订阅定价：CPA 涨到 38 美元后该不该上调年费档？",
-     "link": "https://www.baijing.cn/question/638839",
-     "pubDate": "Fri, 20 Nov 2026 02:09:47 +0000",
-     "summary": "我们做一款面向北美（美国 / 加拿大）的 AI 写作助手，iOS 和 Web 双端，目前团队 8 人，处于起量阶段，月投放预算约 4 万美元，主要跑 Meta 和 Google UAC。最近两周美国区订阅转化 CPA 从 26 美元涨到 38 美元，加拿大也涨了约 30%，付费率没明显变化，但首月留存只有 21%。现在的定价是月费 12.99 美元、年费 79.99 美元，试过把年费降到 59.99 美元做促销，结果 CPA 没降、ARPU 反而掉了。卡在不知道该先调价还是先优化素材和落地页，想直接问：在这种 CPA 水平下，年费档位应该往上调还是先维持、把预算转去留存？",
-     "source": "白鲸出海",
-     "zh": "北美 AI 应用订阅定价：CPA 涨到 38 美元后该不该上调年费档？"
-    },
-    {
-     "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-     "link": "https://github.com/openssl/openssl/pull/33652",
-     "pubDate": "Fri, 20 Nov 2026 02:01:09 +0000",
-     "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 54 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)"
-    },
-    {
-     "title": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
-     "link": "https://www.techmeme.com/261119/p57#a261119p57",
-     "pubDate": "Thu, 19 Nov 2026 20:50:51 -0500",
-     "summary": "Tim Genewein / DeepMind Institute : Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts &nbsp; &mdash;&nbsp; As multiple technological routes toward artificial general superintelligence take shape, ",
-     "source": "Techmeme",
-     "zh": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)"
     }
    ]
   },
@@ -2281,6 +2273,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Webull outlines $90T perps opportunity as crypto perpetuals go live",
+     "link": "https://seekingalpha.com/news/4675007-webull-outlines-90t-perps-opportunity-as-crypto-perpetuals-go-live?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 23:14:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Webull outlines $90T perps opportunity as crypto perpetuals go live"
+    },
+    {
+     "title": "A股三大股指齐跌，创业板跌2%，PCB逆势走强，恒科指跌超3%，快手大跌10%",
+     "link": "https://wallstreetcn.com/articles/3786333",
+     "pubDate": "Fri, 20 Nov 2026 12:08:01 +0800",
+     "summary": "11月20日，A股早盘集体低开，三大指数大幅低开后低位震荡，沪指盘中跌超2%逼近3500点，临近午盘小幅回升，深成指、创业板跌2%。算力硬件再度调整，光模块、光通信、光电路交换机等领跌，覆铜板、电路板等逆势活跃。农业、AI短剧反弹，贵金属、生物医药、航天军工等板块下跌。资金涌入红利资产，银行活跃。 港股大幅低开低走，恒指、恒科指双双下挫，恒指一度跌超2%，自1月29日高点以来的累计跌幅达到20%。恒科指早盘一度跌超4%。权重科网股多数下跌， 网易 与 快手 科技在三季度业绩不及市场预期后，快手大跌10%，网易暴跌18%，光模块、芯片等科技股同样走低，AI大模型股智谱、MINIMAX均下挫。生物",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指齐跌，创业板跌2%，PCB逆势走强，恒科指跌超3%，快手大跌10%"
+    },
+    {
      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
      "pubDate": "Fri, 20 Nov 2026 03:56:17 GMT",
@@ -2433,6 +2441,22 @@
      "zh": "我国海洋药物和功能制品业发展提速 规模近千亿"
     },
     {
+     "title": "摩根大通遭黑客袭击泄露客户资料 称与周一故障并无关联",
+     "link": "http://finance.eastmoney.com/news/1354,202611203935934040.html",
+     "pubDate": "Fri, 20 Nov 2026 10:51:08 +0800",
+     "summary": "摩根大通 周四上午表示，为其提供服务的第三方遭到网络攻击，导致其一些客户的资料被泄露。 被窃数据包括部分 摩根大通 客户的姓名、 电子 邮件地址和电话号码。此外， 万事达 卡（Mastercard）和Visa也被黑客窃取了资料，泄露了信用卡持卡人的相关信息。 据知情人士透露，此次数据泄露事件非常严重，以至于 摩根大通 连夜通知了白宫官员。但摩根大通在一份声明中指出，其服务不会受到任何影响。 万事达 卡也表示，受影响的仅为一小部分持卡人。 而即便只是获取了这些 银行 或信用卡机构非敏感客户的信息，也可能造成严重的影响。黑客可以利用这些数据实施网络诈骗，冒充 银行 等可信机构的代表，诱骗受害者转账",
+     "source": "东方财富资讯",
+     "zh": "摩根大通遭黑客袭击泄露客户资料 称与周一故障并无关联"
+    },
+    {
+     "title": "日本10月核心通胀飙升至年内最高 12月加息已经板上钉钉？",
+     "link": "http://finance.eastmoney.com/news/1352,202611203935948592.html",
+     "pubDate": "Fri, 20 Nov 2026 10:50:25 +0800",
+     "summary": "日本政府本周五公布的数据显示，受能源成本上涨及其连锁效应带动，日本广泛领域物价抬升，日本10月核心CPI创2026年新高，同比增幅上升至2.2%。 能源涨价推动日本核心通胀升温 数据显示，日本10月整体CPI同比增长2.3%，9月为同比增长2.1%。 日本10月核心通胀（剔除生鲜食品）同比增长2.2%，虽低于经济学家预期的2.3%，但高于前值2.1%，创下去年12月以来最高。 而日本核心核心通胀（剔除生鲜食品与能源价格） 小幅回落，由上月增幅2.4%降至增幅2.2%。 具体来看，推高日本核心通胀的 最主要原因在于能源价格上涨 。由于日本政府面向家庭的能源补贴已于9月到期，伊朗局势推高能源成本的",
+     "source": "东方财富资讯",
+     "zh": "日本10月核心通胀飙升至年内最高 12月加息已经板上钉钉？"
+    },
+    {
      "title": "2026年中国内地与香港企业会计准则保持持续趋同",
      "link": "http://www.eeo.com.cn/2026/1120/1097804.shtml",
      "pubDate": "Fri, 20 Nov 2026 10:47:00 +0800",
@@ -2457,14 +2481,6 @@
      "zh": "Bending Spoons stock jumps 5% after Q3 beat, lifts FY2026 revenue outlook"
     },
     {
-     "title": "A股三大股指早盘下跌，创业板跌近3%，银行、煤炭逆势走强，恒科指跌超4%，权重科网股普遍下跌",
-     "link": "https://wallstreetcn.com/articles/3786333",
-     "pubDate": "Fri, 20 Nov 2026 10:26:15 +0800",
-     "summary": "11月20日，A股早盘集体低开，三大股指盘初延续跌势，深成指、创业板均跌超2%，算力硬件再度调整，光模块、光通信、光电路交换机等领跌，“易中天”均跌5%。覆铜板、电路板等逆势活跃。AI短剧、贵金属等板块大幅下挫，生物医药、航天军工等板块亦下跌。资金涌入红利资产，银行、煤炭等走强。 港股大幅低开低走，恒指、恒科指双双下挫，恒科指早盘跌超3%，权重科网股多数下跌，快手大跌超10%，网易暴跌18%，光模块、芯片等科技股同样走低，AI大模型股大幅走低，智谱、MINIMAX均跌超10%。生物医保重挫，恒生生物科技指数暴跌超4.5%。债市方面，国债期货全线反弹。商品方面，国内商品期货多数下跌，贵金属期货跌",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指早盘下跌，创业板跌近3%，银行、煤炭逆势走强，恒科指跌超4%，权重科网股普遍下跌"
-    },
-    {
      "title": "首发24小时销量或达到季度预测！GTA 6让大摩惊叹",
      "link": "https://wallstreetcn.com/articles/3786337",
      "pubDate": "Fri, 20 Nov 2026 10:23:00 +0800",
@@ -2479,14 +2495,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Hamilton Beach Brands declares $0.125 dividend"
-    },
-    {
-     "title": "Avnet declares $0.37 dividend",
-     "link": "https://seekingalpha.com/news/4674999-avnet-declares-0_37-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 21:18:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Avnet declares $0.37 dividend"
     },
     {
      "title": "海外金融巨头供应链遭攻击！网络安全加速转向主动防御(附股)",

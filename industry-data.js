@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 15:51:56",
+ "generated_at": "2026/11/20 16:00:41",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trinidad and Tobago issues solar tender",
+     "link": "https://www.pv-magazine.com/2026/11/20/trinidad-and-tobago-issues-solar-tender/",
+     "pubDate": "Fri, 20 Nov 2026 07:54:23 +0000",
+     "summary": "A tender is open in Trinidad and Tobago for the design, supply, installation, commissioning and maintenance of a solar project in Port of Brighton. The deadline to submit applications is December 21. The post Trinidad and Tobago issues solar tender appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Trinidad and Tobago issues solar tender"
+    },
+    {
+     "title": "$64 solar-powered robot cleans PV modules without water",
+     "link": "https://www.pv-magazine.com/2026/11/20/64-solar-powered-robot-cleans-pv-modules-without-water/",
+     "pubDate": "Fri, 20 Nov 2026 07:53:55 +0000",
+     "summary": "Researchers in Pakistan and China have developed an autonomous PV cleaning system that uses voltage differences between reference panels to detect soiling. Three months of field testing showed an 86.7% increase in power output after cleaning, with cleaning intervals ranging from four to 14 days. The",
+     "source": "pv magazine",
+     "zh": "$64 solar-powered robot cleans PV modules without water"
+    },
+    {
      "title": "Swegon unveils CO2 rooftop heat pump",
      "link": "https://www.pv-magazine.com/2026/11/20/swegon-unveils-co2-rooftop-heat-pump/",
      "pubDate": "Fri, 20 Nov 2026 07:40:04 +0000",
@@ -920,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Crude oil prices earlier today reversed a decline that began earlier in the week, gaining on reports of fresh Houthi attacks on Saudi targets and continued tanker trouble in the Strait of Hormuz. At the time of writing, Brent crude was trading at $92.67 per barrel, and West Texas Intermediate was ch",
      "source": "OilPrice",
      "zh": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears"
-    },
-    {
-     "title": "Powering the space economy",
-     "link": "https://www.pv-magazine.com/2026/11/20/powering-the-space-economy/",
-     "pubDate": "Fri, 20 Nov 2026 05:00:00 +0000",
-     "summary": "As launch costs fall and the US tech sector eyes expansion into space, powering operations in low-Earth orbit and beyond will require technology that is reliable and cost effective. mPower President and CEO Kevin Hell tells pv magazine why he thinks his company’s ultra-lightweight, flexible solution",
-     "source": "pv magazine",
-     "zh": "Powering the space economy"
     },
     {
      "title": "AGCO Celebrates Construction Milestone at Olmedo Solar Project in Spain",
@@ -1048,14 +1056,6 @@ window.INDUSTRY_DATA = {
      "summary": "We hear from the head of market strategy & public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today.",
      "source": "Energy Storage News",
      "zh": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe"
-    },
-    {
-     "title": "SolarEdge debuts dual-module power optimizer",
-     "link": "https://www.pv-magazine.com/2026/11/19/solaredge-debuts-duo-power-optimizer-at-re/",
-     "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
-     "summary": "Duo cuts the number of optimizers needed in half, works with dual-tilt racking and with Arc Fault Detection, every optimizer becomes an arc sensor. The post SolarEdge debuts dual-module power optimizer appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "SolarEdge debuts dual-module power optimizer"
     },
     {
      "title": "PJM urged to delay base capacity auction until data centers cut from forecast",
@@ -1778,6 +1778,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "自由意志只是幻觉？脑科学给出意外答案",
+     "link": "https://www.huxiu.com/article/4907180.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 15:48:48 +0800",
+     "summary": "本文来自微信公众号： PsyCulture&Science ，作者：The Conversation 想象一下，你正在最喜欢的面包店排队，纠结着是买甜甜圈还是买蛋挞。你权衡了一番，甜甜圈胜出，于是就决定买它了。然而等你排到队伍最前面时，店里只剩下挞了。于是，你买了一个蛋挞。 这两个决定给人的感觉完全不同。前一个需要根据我们独特的个人偏好进行深思熟虑，后一个只需认出并拿走唯一可选的东西。但最近发表在Imaging Neuroscience上的一项研究表明，大脑做出这两种决定的方式其实出奇地相似（Lauren et al.,2026）。 到底什么是自由意志？ 做自由决定时，我们意识到存在多个选项，",
+     "source": "虎嗅",
+     "zh": "自由意志只是幻觉？脑科学给出意外答案"
+    },
+    {
+     "title": "五巨头现金流首次转负背后，卖芯片的人开始替客户付账单。",
+     "link": "https://www.huxiu.com/article/4907177.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 15:44:13 +0800",
+     "summary": "本文来自微信公众号： 宁明亮Seerning ，作者：宁明亮Seerning 11月1日，《华尔街日报》给「循环融资」下了一句定义：最典型的循环融资，就是投资一家为购买你的产品，而进行筹资的公司。 路透社随后把它写进AI泡沫的报道里：美国芯片制造商和大型云计算企业，正用自身现金储备和良好信用，为实力较弱的算力供应商提供贷款与担保。 这些钱转一圈回来，又被用来采购芯片和算力服务。 不妨把这套绕口令翻译成一张日常的生意账单：假设你是一家高端设备厂的老板，发现下游客户手头紧、进不起货了。 于是你主动借钱给他，或者替他向房东担保厂房租金，条件是他必须拿这笔钱回头买你的设备。 在旁人眼里，你的出货单和客",
+     "source": "虎嗅",
+     "zh": "五巨头现金流首次转负背后，卖芯片的人开始替客户付账单。"
+    },
+    {
+     "title": "《模型一代》一文爆火，为什么年轻人是受AI冲击影响最大的人群",
+     "link": "https://www.huxiu.com/article/4907178.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 15:43:02 +0800",
+     "summary": "本文来自微信公众号： 严肃的人口学八卦 ，作者：严肃的人口学八卦组 这几天一篇清华文科学生写作的文章《模型一代》在朋友圈广为传播。这篇推文的爆火，在于它触及了当下年轻人，特别是最优秀的那一批年轻人的普遍焦虑。虽然不乏评论者在批判年轻人的思维路径，但我们也都知道不应该责怪他们，因为AI对当下工作的冲击不仅已是房间里的大象了，更是一种社会结构性的产物了。 美国的Pew研究中心分别在2025年和2026年开展了两次全球性的AI态度调查，前一次调查覆盖25个国家，后一次覆盖37个国家。有意思的是，前一次调查显示年长者对AI的一般性焦虑要高于年轻人，而后一次调查，年长者的焦虑情绪变化不大，但几乎所有调查",
+     "source": "虎嗅",
+     "zh": "《模型一代》一文爆火，为什么年轻人是受AI冲击影响最大的人群"
+    },
+    {
+     "title": "重力星球推出飞雀 S1 PRO 镁合金鼠标：延续家族美学，PAW3955 + nRF54LM20",
+     "link": "https://www.ithome.com/1/030/020.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:41:13 GMT",
+     "summary": "IT之家 11 月 20 日消息，重力星球 (GravaStar) 即将于今晚开始销售飞雀 S1 PRO 鼠标。 这一型号延续了该品牌标志性的镂空骨骼设计，拥有镁合金外壳，搭载原相 PAW3955 光学传感器、Nordic nRF54LM20 主控， 新品首发价 699 元 。 飞雀 S1 PRO 采用面向中小手型的对称式高背收腰模具 ，适配三种握姿；三维 119.3 × 65.5 × 38.5 (mm)，内置 400mAh 电池， 质量 49±2g 。 其配备定制 1.5M 红外光学按键微动、TTC 金轮滚轮编码器、PTFE 脚垫，PCB 覆盖防水涂层，支持三模连接，具备 20K fps 高",
+     "source": "IT之家",
+     "zh": "重力星球推出飞雀 S1 PRO 镁合金鼠标：延续家族美学，PAW3955 + nRF54LM20"
+    },
+    {
+     "title": "目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖",
+     "link": "https://www.ithome.com/1/030/006.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:38:51 GMT",
+     "summary": "IT之家 11 月 20 日消息，阿里巴巴昨晚公布 2027 财年第二季度（2026 年 7 月 1 日～2026 年 9 月 30 日）业绩，其中 AI 云与算力服务收入为 609.73 亿元，同比增长 53%。 阿里云官方宣布， 明年一季度，新一代 AI 芯片真武 V900 将量产售卖 ， 是目前算力性能最强的中国自研 AI 芯片 。搭载真武 V900 的新一代阿里云 AI 超节点，采用阿里云全新设计的智算中心网络架构， 单一集群可扩展至 50 万卡规模 。 IT之家注：真武 V900 是一款训推一体 AI 芯片，算力提升至真武 M890 的 3 倍，支持 216GB 显存、1200GB/",
+     "source": "IT之家",
+     "zh": "目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖"
+    },
+    {
      "title": "卖惨、引战、造恐慌，虚假摆拍正在透支什么？",
      "link": "https://www.huxiu.com/article/4907173.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 15:34:31 +0800",
@@ -1826,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "玩家为 PC 串流游玩《GTA6》开发实验方案：利用电脑显卡帧生成技术将 30 帧游戏补帧至 60 帧"
     },
     {
-     "title": "网易丁磊谈游戏业务罕见下滑：短剧今年呈现爆炸式发展，短期内确实会对游戏产生影响",
-     "link": "https://www.ithome.com/1/029/977.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:14:26 GMT",
-     "summary": "IT之家 11 月 20 日消息，据每日经济新闻报道，11 月 19 日晚，在网易 2026 年第三季度业绩电话会上，网易创始人、董事局主席兼 CEO 丁磊被问及短剧对游戏行业的影响时表示， 短剧今年呈现爆炸式发展，对用户注意力的吸引力巨大，短期内确实会对游戏产生影响 。 网易 2026 年第三季度净收入 279 亿元 ，同比下降 1.8%；归属于公司股东的净利润 84 亿元，同比下降约 2.5%。 IT之家注意到，作为网易最重要的收入来源， 游戏业务罕见出现同比下滑 ，成为拖累整体营收的主要因素。 网易三季度游戏及相关增值服务收入 229 亿元，同比下降 1.7%，自 2024 年三季度以来",
-     "source": "IT之家",
-     "zh": "网易丁磊谈游戏业务罕见下滑：短剧今年呈现爆炸式发展，短期内确实会对游戏产生影响"
-    },
-    {
-     "title": "中国企业出海的另一面，钱如何跨越国界",
-     "link": "https://www.tmtpost.com/8212574.html",
-     "pubDate": "Fri, 20 Nov 2026 15:11:57 +0800",
-     "summary": "在近期巴伦中文网对粤港澳大湾区企业的一次调研中，收款和汇率是受访企业反复提及的话题。同时，随着业务向海外延伸，一些企业开始自建品牌和渠道、布局海外仓，资金的收付和周转也变得更加复杂。",
-     "source": "钛媒体",
-     "zh": "中国企业出海的另一面，钱如何跨越国界"
-    },
-    {
-     "title": "鸿蒙智行享界 V8 搭载全新立体精雕 LOGO，5 款车身配色、4 款个性内饰亮相",
-     "link": "https://www.ithome.com/1/029/968.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:11:27 GMT",
-     "summary": "IT之家 11 月 20 日现场消息，鸿蒙智行享界 V8 及星芒品牌发布会正在进行，率先亮相的是享界 V8 车型。 据官方介绍，享界 V8 拥有量产 MPV 超低风阻，120km/h 标准工况下，风阻系数低至 0.226。优雅造型搭配 全新立体精雕 LOGO 、1.85 米寰宇星环一体贯穿大灯与全新星云尾灯。5 款车身配色、4 款个性内饰，搭配 5 款星系轮毂。尺寸方面，该车长宽高为 5335mm*2005mm*1805mm， 轴距达到 3250mm。 IT之家附车身配色如下： 云雾白 旷野金 浩宇蓝 寰宇红 曜石黑 内饰配色： 凝光紫 港湾蓝 摩卡棕 白沙杏",
-     "source": "IT之家",
-     "zh": "鸿蒙智行享界 V8 搭载全新立体精雕 LOGO，5 款车身配色、4 款个性内饰亮相"
+     "title": "\"I can tell you wrote this yourself\"",
+     "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+     "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
+     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 5 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "\"I can tell you wrote this yourself\""
     },
     {
      "title": "学费25800，年轻人的上岸焦虑，成了教培机构的又一门新生意",
@@ -1890,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’"
     },
     {
-     "title": "好丽友在县城零食店拿到“大结果”",
-     "link": "https://www.huxiu.com/article/4907160.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 14:49:14 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：马越 好丽友在中国市场的数万家零食量贩店里找到新增长点。 界面新闻查阅好丽友近期公布的2026年三季度财报发现，其中国市场中国区营收达到3840亿韩元（约合19.20亿元），同比增长13.8%，占集团当季营收的40.9%，营业利润为732亿韩元（约合3.66亿元），同比增长9.3%。 财报中强调，中国作为好丽友的最大单一市场，拉动集团增长。对比来看，2025年中国业务增长乏力，好丽友在中国区营收达到13207亿韩元（约合62.47亿元人民币），同比增长4.0%，营业利润为2417亿韩元（约合11.43亿元人民币），同比下滑0.9%。 实际上好丽友在中国能",
-     "source": "虎嗅",
-     "zh": "好丽友在县城零食店拿到“大结果”"
-    },
-    {
      "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
      "link": "https://www.solidot.org/story?sid=85940",
      "pubDate": "Fri, 20 Nov 2026 14:49:01 +0800",
@@ -1906,28 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证"
     },
     {
-     "title": "AI开始给人“看相”，还能预卜生死",
-     "link": "https://www.huxiu.com/article/4907159.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 14:45:38 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也 AI开始抢相面先生的生意了。 11月19日，《自然·通讯》发表了一项研究。丹麦研究人员把27660张急诊患者的面部照片交给AI，发现仅凭一张脸，就能对患者的死亡风险进行分层。 模型预测3天内死亡风险的AUC达到0.80，预测30天死亡风险的AUC为0.77。在这批患者中，它的风险区分能力超过了部分传统急诊分诊指标和临床风险评分。 更有意思的是，一些传统预警评分较低的患者，也被AI识别出了较高的死亡风险。 一个月前，哈佛医学院等机构在《柳叶刀·数字健康》发表了另一项研究。研究团队用超过4000万张人脸照片训练AI，随后利用癌症患者数据训练生存预",
-     "source": "虎嗅",
-     "zh": "AI开始给人“看相”，还能预卜生死"
-    },
-    {
-     "title": "受“全民医保”推进影响，联合健康股价继续下挫",
-     "link": "https://www.tmtpost.com/8212547.html",
-     "pubDate": "Fri, 20 Nov 2026 14:45:03 +0800",
-     "summary": "联合健康集团及其他保险公司股票周四下跌。民主党横扫国会，让推动“全民医保”（Medicare for All）的呼声重新燃起。保险公司接下来将何去何从。",
-     "source": "钛媒体",
-     "zh": "受“全民医保”推进影响，联合健康股价继续下挫"
-    },
-    {
-     "title": "加州对L4自动驾驶公司下禁令，给中国企业提醒了什么？",
-     "link": "https://www.huxiu.com/article/4907158.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 14:42:00 +0800",
-     "summary": "本文来自微信公众号： 科工力量 ，作者：王润莲 在高速公路上接送乘客还不到一年，Waymo就因为接连闯入施工禁区，被加州监管部门踩下了刹车。 近日，加州机动车管理局证实，已于11日禁止Waymo在全州高速公路上开展无安全员运营和测试。禁令原本只针对加州，但Waymo随即把高速载客服务的暂停范围扩大到旧金山湾区、洛杉矶、凤凰城、迈阿密和奥斯汀五个市场。 让加州出手的，是接连两天发生在旧金山湾区的险情。11月5日，101号公路一段道路封闭施工，工人和设备都在场，三辆Waymo开了进去。第二天，280号州际公路上，巡警车正引导后方车流减速，一辆Waymo试图从旁边绕过去，被警车挡了下来。虽然Waym",
-     "source": "虎嗅",
-     "zh": "加州对L4自动驾驶公司下禁令，给中国企业提醒了什么？"
+     "title": "Former YC President: \"Stop!”",
+     "link": "https://geoffralston.substack.com/p/stop",
+     "pubDate": "Fri, 20 Nov 2026 06:43:08 +0000",
+     "summary": "Article URL: https://geoffralston.substack.com/p/stop Comments URL: https://news.ycombinator.com/item?id=50570984 Points: 17 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Former YC President: \"Stop!”"
     },
     {
      "title": "巴西葡语短剧投了三个月 ROI 一直 0.6 上下，是选剧问题还是投放结构问题？",
@@ -2274,6 +2274,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "当前市场的焦点问题：AI资本开支是“见顶”还是“中期调整”",
+     "link": "https://wallstreetcn.com/articles/3786358",
+     "pubDate": "Fri, 20 Nov 2026 15:48:05 +0800",
+     "summary": "金融市场的行为模式正越来越像AI资本开支周期已经见顶，尽管目前尚无令人信服的“ 实体层面的证据 ”支撑这一判断。杰富瑞（Jefferies）认为，当前市场的核心分歧在于：这究竟是AI资本开支周期的真正顶点，还是上升周期中的一次中期调整。 据追风交易台消息，杰富瑞在11月19日发布的最新研报中称，围绕这一核心判断，多重风险信号正在同步发酵。 英伟达在AI生态中扮演的“央行”角色面临治理转向压力 ，其庞大的表外财务敞口一旦收缩，将对整个AI融资链条产生系统性收紧效应； 与此同时， 超大规模云厂商（hyperscaler）的盈利质量正受到市场更严格的审视 ——剔除AI相关投资的非现金账面收益后，其核",
+     "source": "华尔街见闻",
+     "zh": "当前市场的焦点问题：AI资本开支是“见顶”还是“中期调整”"
+    },
+    {
      "title": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide",
      "link": "https://seekingalpha.com/news/4675025-asia-tech-stocks-reel-from-anthropic-ipo-as-softbank-samsung-and-tsmc-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 02:40:38 -0500",
@@ -2408,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月19日，前DeepSeek-VL项目负责人张博在X宣布开源个人Agent Linger，开发主体是张博创办的SIMPLEX AI TECHNOLOGIES PTE. LTD.（以下简称“Simplex AI”），代码已上传GitHub。 按项目文档，Linger读取本地邮件、日历和文件，操作用户已登录的浏览器；连接外部应用的读取直接执行，发邮件等写入操作才弹出确认卡，用户可随时接管。 权限边界也写进了官方文档。Agent以用户授权的运行环境执行任务，可访问该电脑的文件、已登录应用和命令行。Linger用确认卡和服务端校验限制Agent动作，没有采用沙箱隔离。 按Simplex AI公布的",
      "source": "华尔街见闻",
      "zh": "DeepSeek前成员张博开源Linger项目，主打零token费"
-    },
-    {
-     "title": "报道：数据中心运营商DayOne暂停美国IPO计划，因数据中心和市场担忧",
-     "link": "https://wallstreetcn.com/articles/3786350",
-     "pubDate": "Fri, 20 Nov 2026 13:56:05 +0800",
-     "summary": "数据中心运营商DayOne搁置了原定规模达数十亿美元的美国IPO计划，市场对支撑人工智能热潮的数字基础设施估值能否持续的疑虑，正给该行业的资本运作带来切实压力。 据彭博11月20日报道，知情人士透露，DayOne此前计划最快于今年第四季度赴美募资最多50亿美元，但随着数据中心及AI股票波动加剧，公司已开始重新评估方案，包括推迟上市或缩减融资规模。上述知情人士称，若市场形势和情绪改善，DayOne可能于2027年重启IPO。 此次暂停直接冲击了此前已启动的承销安排。DayOne去年10月提交了IPO申请，并已聘请摩根士丹利、摩根大通、美国银行、花旗集团和法国巴黎银行承办上市事宜。上述知情人士表示",
-     "source": "华尔街见闻",
-     "zh": "报道：数据中心运营商DayOne暂停美国IPO计划，因数据中心和市场担忧"
     },
     {
      "title": "20cm速递丨A股三大指数集体回调，科创芯片设计ETF国泰（589260）近30日资金净流入1.66亿元",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 13:12:03",
+ "generated_at": "2026/11/20 13:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -1210,12 +1210,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "印度短剧 App 广告变现回款慢，该换支付通道还是改结算周期？",
+     "link": "https://www.baijing.cn/question/638850",
+     "pubDate": "Fri, 20 Nov 2026 05:13:02 +0000",
+     "summary": "去年 11 月上线的短剧 App，印度市场 DAU 已到 12 万，团队 8 人，主要靠 Meta 和 Google 投放起量，现在月投放预算约 6 万美元。广告变现走 AdMob 加 Unity Ads 聚合，eCPM 稳定在 0.4 美元左右，但回款周期太长：AdMob 月结到账要 45 天以上，本地支付网关结算又要 T+7 到 T+10，现金流压力很大。已经试过换聚合平台和压缩投放，卡在回款时效和汇率损耗上。想请教同做印度市场的团队，是优先换支付通道还是直接改结算周期？判断标准是什么？",
+     "source": "白鲸出海",
+     "zh": "印度短剧 App 广告变现回款慢，该换支付通道还是改结算周期？"
+    },
+    {
+     "title": "不做Agent 等死，做Agent 找死：SaaS 公司为何别无选择？",
+     "link": "https://www.huxiu.com/article/4907143.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 13:06:25 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《不做 Agent 等死，做 Agent 找死：SaaS 公司为何别无选择？》 一位CEO告诉我，他不计划研发任何Agent产品（注：Agent不包含纯问答AI）。 一是找不到高价值的落地场景，二是Agent链路太长，很难做到100%准确，客户也不会买单。 他并不是反对AI，恰恰相反，他的问答类AI使用频率很高。 他给我看了后台统计：自从AI功能发布以来，客户的token消耗呈现一条陡峭的增长曲线。 只不过，这些AI功能的核心逻辑是“大模型+提示词”，比如把客户、订单数据发给大模型，让大模型帮助分析并给出建议，帮助业务人员改善拜访行",
+     "source": "虎嗅",
+     "zh": "不做Agent 等死，做Agent 找死：SaaS 公司为何别无选择？"
+    },
+    {
+     "title": "“收手吧，人类大于利润，”现场直击AnthropicIPO，大量人群抗议“停止科技寡头”",
+     "link": "https://www.huxiu.com/article/4907142.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 13:03:45 +0800",
+     "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《「收手吧，人类大于利润！」现场直击AnthropicIPO，大量人群抗议「停止科技寡头」》 当地时间2026年11月19日，纽约时代广场的三块大屏幕上轮番滚动前沿AI实验室Anthropic的巨幅广告。这家2021年在旧金山成立的人工智能公司称，“我们如何把握眼下这个AI时刻，将决定这一刻的意义”。纳斯达克交易所外的广场上，主要聚集着两类人，一类是Anthropic的粉丝，一类是抗议人群。 新浪财经《北美前哨》在纽约现场看到，就在纳斯达克的正门外10米处人头攒动，他们拉着的横幅上写着“停止科技寡头”和“人工智能退出我们的医疗保",
+     "source": "虎嗅",
+     "zh": "“收手吧，人类大于利润，”现场直击AnthropicIPO，大量人群抗议“停止科技寡头”"
+    },
+    {
      "title": "孟加拉市场投放CPA涨到4.2美元，物流覆盖只到达卡市区，该继续投还是先补履约？",
      "link": "https://www.baijing.cn/question/638849",
      "pubDate": "Fri, 20 Nov 2026 05:00:56 +0000",
@@ -1946,26 +1970,10 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 美国站达人寄样，样品成本摊到 CPA 上已经 22 美元，还要继续寄吗？"
     },
     {
-     "title": "估值410亿美元，贝佐斯打造“物理世界的OpenAI”",
-     "link": "https://www.huxiu.com/article/4907132.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 12:19:46 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」》 AI吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊CEO五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间2026年11月17日，加州门洛帕克的Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是AI初创公司Prometheus的联合创始人兼联席CEO。这是自2021年交出亚马逊帅印后，这位商业巨头首次重回一线担任CEO。 早在2024年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴",
-     "source": "虎嗅",
-     "zh": "估值410亿美元，贝佐斯打造“物理世界的OpenAI”"
-    },
-    {
-     "title": "TikTok Shop 沙特直播，女性主播投流 CPA 涨到 38 里亚尔还值得继续投吗？",
-     "link": "https://www.baijing.cn/question/638844",
-     "pubDate": "Fri, 20 Nov 2026 04:15:30 +0000",
-     "summary": "我们做中东美妆个护，TikTok Shop 沙特站刚起量两个月，团队 8 人，其中主播 3 位是本地女性（持工作签、着 abaya 出镜），主推香水和护发油。近三周用 Promote 加热直播间，单场投 600 里亚尔左右，CPA 从最初 19 里亚尔一路涨到 38 里亚尔，直播间观看停留从 2 分 10 秒掉到 50 秒，成交转化率 1.4%。试过换开播时段（从晚 9 点改到下午 4 点）、把主播话术从纯阿拉伯语改成阿语夹英语、也试过把预算挪到短视频挂车，CPA 只降到 33 就下不去了。现在卡在不确定是女性主播素材在沙特投流本身成本就高，还是我们的出价和人群包没调对。想问：沙特站女性主播直",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 沙特直播，女性主播投流 CPA 涨到 38 里亚尔还值得继续投吗？"
-    },
-    {
      "title": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
      "link": "https://www.techmeme.com/261119/p61#a261119p61",
      "pubDate": "Thu, 19 Nov 2026 23:15:00 -0500",
-     "summary": "Bloomberg : Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO &nbsp; &mdash;&nbsp; Anthropic PBC shares were down about 5% in post-market trading as the artificial intelligence developer wrapped up its first day as a public company after a record-setting $107",
+     "summary": "Bloomberg : Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO &nbsp; &mdash;&nbsp; Anthropic PBC shares are headed for a weak open on their second day of trading, swept up in a broad market selloff as fears over the outlook for the artificial intelligence tra",
      "source": "Techmeme",
      "zh": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)"
     },
@@ -1973,23 +1981,15 @@ window.INDUSTRY_DATA = {
      "title": "GIMP now has UI tests",
      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
      "pubDate": "Fri, 20 Nov 2026 04:00:24 +0000",
-     "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 22 # Comments: 5",
      "source": "Hacker News",
      "zh": "GIMP now has UI tests"
-    },
-    {
-     "title": "AI4S之后，AI盯上制造业",
-     "link": "https://www.huxiu.com/article/4907129.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 11:57:17 +0800",
-     "summary": "本文来自微信公众号： 五源资本 5Y Capital ，作者：孟醒、刘一鸣，原文标题：《AI4S之后，AI盯上制造业 | 5Y Research》 F1赛场上的较量，早在车手踩下油门之前就开始了。 就像一套新前翼上车之前，工程师要反复修改设计，用仿真和风洞测试筛选方案，计算气流怎样流过赛车、能产生多少下压力和阻力、什么材料最合适…… 现在，一家名叫Apex Ultra的AI公司，也想加入这场研发竞赛，帮工程师寻找下一处提速的机会。 今年10月，Apex Ultra与F1大赛里法国雷诺旗下的Alpine车队宣布合作，AI将学习设计历史、风洞和试验结果，以及赛道数据，把仿真中的预测与赛车的实际表现",
-     "source": "虎嗅",
-     "zh": "AI4S之后，AI盯上制造业"
     },
     {
      "title": "PostgreSQL 19",
      "link": "https://www.postgresql.org/docs/release/19.0/",
      "pubDate": "Fri, 20 Nov 2026 03:45:45 +0000",
-     "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 24 # Comments: 0",
+     "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 35 # Comments: 1",
      "source": "Hacker News",
      "zh": "PostgreSQL 19"
     },
@@ -2013,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
      "pubDate": "Fri, 20 Nov 2026 02:43:49 +0000",
-     "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 24 # Comments: 1",
+     "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup"
     }
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola details its Android 17 rollout plans for 29 phones",
+     "link": "https://www.androidauthority.com/motorola-android-17-update-rollout-status-3737510/",
+     "pubDate": "Fri, 20 Nov 2026 05:24:18 +0000",
+     "summary": "Nine phones are getting Android 17, with 20 more in line.",
+     "source": "Android Authority",
+     "zh": "Motorola details its Android 17 rollout plans for 29 phones"
+    },
     {
      "title": "Xiaomi 19 series might have both flat and curved screens",
      "link": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two Ultra phones, both $350 off their MSRP – which one is right for you? In case you missed it, Amazon US is running a full week of Black Friday sales with many great offers. We wanted to highlight this pairing in particular, though. The Samsung Galaxy S26 Ultra starts at $1,050 for the base 12/256G",
      "source": "GSMArena",
      "zh": "Amazon US Black Friday deal: the Galaxy S26 Ultra and Z Fold8 Ultra are both $350 off"
-    },
-    {
-     "title": "You can now purchase the 512GB Steam Machine like a normal console",
-     "link": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
-     "pubDate": "Thu, 19 Nov 2026 20:42:38 +0000",
-     "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
-     "source": "Engadget",
-     "zh": "You can now purchase the 512GB Steam Machine like a normal console"
     }
    ]
   },
@@ -2274,6 +2274,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Jensen Huang’s charity pledges $350M to CoreWeave",
+     "link": "https://seekingalpha.com/news/4675021-jensen-huangs-charity-pledges-350m-to-coreweave?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 00:25:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jensen Huang’s charity pledges $350M to CoreWeave"
+    },
+    {
+     "title": "China holds key lending rates steady at record lows for 18th straight month",
+     "link": "https://seekingalpha.com/news/4675018-china-holds-key-lending-rates-steady-at-record-lows-for-18th-straight-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 00:18:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China holds key lending rates steady at record lows for 18th straight month"
+    },
+    {
+     "title": "Gorilla targets $450M-$500M 2027 revenue while expecting Yotta 2 full deployment by February",
+     "link": "https://seekingalpha.com/news/4675022-gorilla-targets-450m-500m-2027-revenue-while-expecting-yotta-2-full-deployment-by-february?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 00:14:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gorilla targets $450M-$500M 2027 revenue while expecting Yotta 2 full deployment by February"
+    },
+    {
+     "title": "Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high",
+     "link": "https://seekingalpha.com/news/4675019-japan-october-core-cpi-rises-to-22-misses-estimates-headline-inflation-hits-11-month-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 00:11:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Japan's October core CPI rises to 2.2%, misses estimates, and headline inflation hits 11-month high"
+    },
+    {
+     "title": "Alibaba reportedly sued over Megaspeed ties amid Nvidia spy scandal",
+     "link": "https://seekingalpha.com/news/4675008-alibaba-reportedly-sued-over-megaspeed-ties-amid-nvidia-spy-scandal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 00:11:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alibaba reportedly sued over Megaspeed ties amid Nvidia spy scandal"
+    },
+    {
+     "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+     "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+     "pubDate": "Fri, 20 Nov 2026 05:09:52 GMT",
+     "summary": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.",
+     "source": "CNBC",
+     "zh": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes"
+    },
+    {
+     "title": "Anthropic’s Wall Street stimulus fades",
+     "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 05:00:26 GMT",
+     "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+     "source": "Financial Times",
+     "zh": "Anthropic’s Wall Street stimulus fades"
+    },
+    {
+     "title": "Can Nvidia learn from AIG’s mistakes?",
+     "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 05:00:17 GMT",
+     "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
+     "source": "Financial Times",
+     "zh": "Can Nvidia learn from AIG’s mistakes?"
+    },
+    {
+     "title": "How pensions ate the state",
+     "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 05:00:08 GMT",
+     "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+     "source": "Financial Times",
+     "zh": "How pensions ate the state"
+    },
+    {
      "title": "Friday’s Economic Calendar",
      "link": "https://seekingalpha.com/news/4674623-fridays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 00:00:00 -0500",
@@ -2282,52 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Friday’s Economic Calendar"
     },
     {
-     "title": "Highland Copper Company reports Q1 results",
-     "link": "https://seekingalpha.com/news/4675015-highland-copper-company-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 23:59:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Highland Copper Company reports Q1 results"
-    },
-    {
-     "title": "TDH Holdings GAAP EPS of -$0.81, revenue of $0.74M",
-     "link": "https://seekingalpha.com/news/4675014-tdh-holdings-gaap-eps-of--081-revenue-of-074m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 23:58:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TDH Holdings GAAP EPS of -$0.81, revenue of $0.74M"
-    },
-    {
-     "title": "Jewett-Cameron Trading GAAP EPS of -$1.81, revenue of $36.7M",
-     "link": "https://seekingalpha.com/news/4675013-jewett-cameron-trading-gaap-eps-of--181-revenue-of-367m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 23:56:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jewett-Cameron Trading GAAP EPS of -$1.81, revenue of $36.7M"
-    },
-    {
      "title": "Anthropic IPO &apos;exactly what the markets need,&apos; but analysts warn of volatility",
      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
      "pubDate": "Fri, 20 Nov 2026 04:51:28 GMT",
      "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
      "source": "CNBC",
      "zh": "Anthropic IPO &apos;exactly what the markets need,&apos; but analysts warn of volatility"
-    },
-    {
-     "title": "Ellington Credit Company slashes monthly dividend by 37.5% to $0.05 a share",
-     "link": "https://seekingalpha.com/news/4675012-ellington-credit-company-slashes-monthly-dividend-by-375-to-005-a-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 23:46:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ellington Credit Company slashes monthly dividend by 37.5% to $0.05 a share"
-    },
-    {
-     "title": "Elastic outlines FY 2027 revenue of $2.0B-$2.008B while raising non-GAAP operating margin guide to ~19.5%",
-     "link": "https://seekingalpha.com/news/4675011-elastic-outlines-fy-2027-revenue-of-2_0b-2_008b-while-raising-non-gaap-operating-margin-guide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 23:44:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Elastic outlines FY 2027 revenue of $2.0B-$2.008B while raising non-GAAP operating margin guide to ~19.5%"
     },
     {
      "title": "A股三大股指齐跌，创业板跌2%，PCB逆势走强，恒科指跌超3%，快手大跌10%",
@@ -2354,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "美元，迎来第四周上涨"
     },
     {
+     "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+     "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 03:51:30 GMT",
+     "summary": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
+     "source": "Financial Times",
+     "zh": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off"
+    },
+    {
      "title": "跌破3600，黄金势创3月来最惨一周",
      "link": "https://wallstreetcn.com/articles/3786342",
      "pubDate": "Fri, 20 Nov 2026 11:46:59 +0800",
@@ -2362,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "跌破3600，黄金势创3月来最惨一周"
     },
     {
-     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 03:31:00 GMT",
-     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
+     "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+     "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+     "pubDate": "Fri, 20 Nov 2026 03:30:34 GMT",
+     "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+     "source": "CNBC",
+     "zh": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
     },
     {
      "title": "创业板指下跌2.08% 元件板块逆势走强 贵金属重挫",
@@ -2426,46 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "阿里把增长押给全栈AI，平头哥是底牌，也是赌注"
     },
     {
-     "title": "国家邮政局：1—10月邮政行业业务收入15485.7亿元，同比增长5.3%",
-     "link": "http://www.eeo.com.cn/2026/1120/1097856.shtml",
-     "pubDate": "Fri, 20 Nov 2026 11:21:42 +0800",
-     "summary": "1-10月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成15485.7亿元，同比增长5.3%。其中，快递业务收入累计完成12981.5亿元，同比增长6.6%。",
-     "source": "经济观察网",
-     "zh": "国家邮政局：1—10月邮政行业业务收入15485.7亿元，同比增长5.3%"
-    },
-    {
-     "title": "过程的意义：让协同在变化中共同演化",
-     "link": "http://www.eeo.com.cn/2026/1120/1097830.shtml",
-     "pubDate": "Fri, 20 Nov 2026 11:05:44 +0800",
-     "summary": "如果说场景是地图，意愿是引擎，能力是车轮，那么过程就是让这辆车持续前进的驾驶系统。它不是一条固定的路线，而是根据路况持续调整方向、速度、方式的能力。 这篇文章，我们谈谈“过程”在协同共生中的意义。",
-     "source": "经济观察网",
-     "zh": "过程的意义：让协同在变化中共同演化"
-    },
-    {
-     "title": "学不动的孩子 ｜11 复学后半程家长的\"最后一关\"",
-     "link": "http://www.eeo.com.cn/2026/1120/1097827.shtml",
-     "pubDate": "Fri, 20 Nov 2026 11:04:32 +0800",
-     "summary": "复学这件事，不是孩子坐进教室那天就结束了。它是一段很长的路。前半程是\"让他愿意去\"，后半程是\"让他待得住\"。",
-     "source": "经济观察网",
-     "zh": "学不动的孩子 ｜11 复学后半程家长的\"最后一关\""
-    },
-    {
-     "title": "五部门印发2026版海洋产业投融资指导目录",
-     "link": "http://www.eeo.com.cn/2026/1120/1097825.shtml",
-     "pubDate": "Fri, 20 Nov 2026 11:03:59 +0800",
-     "summary": "11月20日，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录（2026版）》。",
-     "source": "经济观察网",
-     "zh": "五部门印发2026版海洋产业投融资指导目录"
-    },
-    {
-     "title": "我国海洋药物和功能制品业发展提速 规模近千亿",
-     "link": "http://www.eeo.com.cn/2026/1120/1097819.shtml",
-     "pubDate": "Fri, 20 Nov 2026 10:57:32 +0800",
-     "summary": "《报告》显示，全国海洋药物和功能制品业产业增加值从2012年的300多亿元增长至2025年的996亿元。",
-     "source": "经济观察网",
-     "zh": "我国海洋药物和功能制品业发展提速 规模近千亿"
-    },
-    {
      "title": "摩根大通遭黑客袭击泄露客户资料 称与周一故障并无关联",
      "link": "http://finance.eastmoney.com/news/1354,202611203935934040.html",
      "pubDate": "Fri, 20 Nov 2026 10:51:08 +0800",
@@ -2480,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "日本政府本周五公布的数据显示，受能源成本上涨及其连锁效应带动，日本广泛领域物价抬升，日本10月核心CPI创2026年新高，同比增幅上升至2.2%。 能源涨价推动日本核心通胀升温 数据显示，日本10月整体CPI同比增长2.3%，9月为同比增长2.1%。 日本10月核心通胀（剔除生鲜食品）同比增长2.2%，虽低于经济学家预期的2.3%，但高于前值2.1%，创下去年12月以来最高。 而日本核心核心通胀（剔除生鲜食品与能源价格） 小幅回落，由上月增幅2.4%降至增幅2.2%。 具体来看，推高日本核心通胀的 最主要原因在于能源价格上涨 。由于日本政府面向家庭的能源补贴已于9月到期，伊朗局势推高能源成本的",
      "source": "东方财富资讯",
      "zh": "日本10月核心通胀飙升至年内最高 12月加息已经板上钉钉？"
-    },
-    {
-     "title": "2026年中国内地与香港企业会计准则保持持续趋同",
-     "link": "http://www.eeo.com.cn/2026/1120/1097804.shtml",
-     "pubDate": "Fri, 20 Nov 2026 10:47:00 +0800",
-     "summary": "下一步，财政部将继续加强与香港会计师公会的沟通合作，为确保两地会计准则持续趋同积极开展工作，更好服务两地资本市场和经济社会高质量发展，实现互利共赢。",
-     "source": "经济观察网",
-     "zh": "2026年中国内地与香港企业会计准则保持持续趋同"
     },
     {
      "title": "首发24小时销量或达到季度预测！GTA 6让大摩惊叹",
@@ -2512,6 +2504,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历，财经人的桌面必备“神历”"
+    },
+    {
+     "title": "抛售持续！黄金失守3600美元 大摩：仍是2027年首选大宗商品",
+     "link": "http://finance.eastmoney.com/news/1361,202611203935915587.html",
+     "pubDate": "Fri, 20 Nov 2026 09:35:47 +0800",
+     "summary": "摩根士丹利 日前发布了《2027年全球投资展望》。该行在报告中表示， 尽管大宗商品整体或表现欠佳，但 黄金 仍是2027年首选大宗商品 。 其他资产方面， 摩根士丹利 认为，明年美元或小幅走强，油价到明年第四季度可能会回落至每桶75美元左右。 而对于风险资产， 摩根士丹利 认为，其吸引力已大幅提升，并建议对股票进行最大限度的超配。 该行首席跨资产策略师Serena Tang表示，尽管对 人工智能 投资的预期有所上升，但股票和公司债券的估值却变得更加低廉。随着迈向2027年，两个重大不确定因素也已经逐渐明朗——美国中期选举已经结束，市场对美联储的反应机制也有了更深入的理解。 不过，摩根士丹利也警",
+     "source": "东方财富资讯",
+     "zh": "抛售持续！黄金失守3600美元 大摩：仍是2027年首选大宗商品"
     }
    ]
   },

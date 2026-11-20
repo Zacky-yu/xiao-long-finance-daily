@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 17:11:53",
+ "generated_at": "2026/11/20 17:31:48",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+     "link": "https://www.qbitai.com/2026/11/511610.html",
+     "pubDate": "Fri, 20 Nov 2026 08:04:58 +0000",
+     "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+     "source": "量子位",
+     "zh": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来"
+    },
     {
      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
      "link": "https://www.qbitai.com/2026/11/511603.html",
@@ -239,14 +247,6 @@
      "summary": "「Revaluation 价值，另有答案」",
      "source": "量子位",
      "zh": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！"
-    },
-    {
-     "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-     "link": "https://www.qbitai.com/2026/11/511180.html",
-     "pubDate": "Thu, 19 Nov 2026 08:18:30 +0000",
-     "summary": "媒体均分登顶历史第一，细节多到爆炸",
-     "source": "量子位",
-     "zh": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了"
     }
    ]
   },
@@ -256,6 +256,22 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit",
+     "link": "https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html",
+     "pubDate": "Fri, 20 Nov 2026 09:18:25 GMT",
+     "summary": "Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electro",
+     "source": "DIGITIMES",
+     "zh": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit"
+    },
+    {
+     "title": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption",
+     "link": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html",
+     "pubDate": "Fri, 20 Nov 2026 09:00:04 GMT",
+     "summary": "Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors.",
+     "source": "DIGITIMES",
+     "zh": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption"
+    },
     {
      "title": "South Korea surpasses US$1 trillion in annual exports, powered by AI",
      "link": "https://www.digitimes.com/news/a20261120VL219/exports-demand-performance-germany-semiconductors.html",
@@ -295,22 +311,6 @@
      "summary": "Details have emerged about the personnel employed at Prometheus, a physical AI company co-run by Amazon founder Jeff Bezos that seeks to create a tool with the capabilities of an \"artificial general engineer.\" The startup is seeking to transform industries as varied as manufacturing and drug discove",
      "source": "DIGITIMES",
      "zh": "Staff list shows the scope of Prometheus' push to create an 'artificial general engineer'"
-    },
-    {
-     "title": "Apple weighs delaying or canceling OLED iMac development",
-     "link": "https://www.digitimes.com/news/a20261120PD239/apple-imac-development-sdc-lg-display.html",
-     "pubDate": "Fri, 20 Nov 2026 07:55:00 GMT",
-     "summary": "Apple was discussing a delay to its OLED iMac development schedule with Samsung Display and was also considering canceling the project, according to South Korean media reports. The review was driven by high OLED panel costs, weak sales of existing OLED products, and uncertainty over whether an OLED ",
-     "source": "DIGITIMES",
-     "zh": "Apple weighs delaying or canceling OLED iMac development"
-    },
-    {
-     "title": "India seeks back taxes from Xiaomi over undisclosed royalty payments",
-     "link": "https://www.digitimes.com/news/a20261120PD215/xiaomi-government-royalty-flex-licensing.html",
-     "pubDate": "Fri, 20 Nov 2026 07:54:47 GMT",
-     "summary": "India's government asked a court to reject appeals by Xiaomi and contract manufacturer Flextronics in a dispute over import duties and patent licensing payments. The case centers on whether Xiaomi understated the customs value of components imported from China for smartphone assembly in India, poten",
-     "source": "DIGITIMES",
-     "zh": "India seeks back taxes from Xiaomi over undisclosed royalty payments"
     },
     {
      "title": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution",
@@ -873,6 +873,30 @@
    "total": 9,
    "items": [
     {
+     "title": "Beyond the PLI scheme: what’s next for India’s solar manufacturing ambitions?",
+     "link": "https://www.pv-tech.org/beyond-the-pli-scheme-whats-next-indias-solar-manufacturing-ambitions/",
+     "pubDate": "Fri, 20 Nov 2026 09:24:10 +0000",
+     "summary": "IEEFA tells PV Tech Premium how India’s PLI scheme can address upstream manufacturing gaps and strengthen domestic solar supply chains.",
+     "source": "PV Tech",
+     "zh": "Beyond the PLI scheme: what’s next for India’s solar manufacturing ambitions?"
+    },
+    {
+     "title": "European Commission to allocate €36 million to advance solar PV manufacturing",
+     "link": "https://www.pv-tech.org/european-commission-allocate-36-million-advance-solar-pv-manufacturing/",
+     "pubDate": "Fri, 20 Nov 2026 09:18:22 +0000",
+     "summary": "The European Commission plans a €36 million funding call to advance solar PV manufacturing and industrial-scale production across Europe.",
+     "source": "PV Tech",
+     "zh": "European Commission to allocate €36 million to advance solar PV manufacturing"
+    },
+    {
+     "title": "High pressure drives irradiance gains across South East Asia as Sichuan misses out",
+     "link": "https://www.pv-magazine.com/2026/11/20/high-pressure-drives-irradiance-gains-across-south-east-asia-as-sichuan-misses-out/",
+     "pubDate": "Fri, 20 Nov 2026 09:14:20 +0000",
+     "summary": "In a new weekly update for pv magazine, Solcast , a DNV company, reports that October 2026 saw solar irradiance exceed average levels by over 20% across southern China and Southeast Asia, driven by strong El Niño conditions, persistent high pressure, and reduced cloud cover. However, cloudiness in S",
+     "source": "pv magazine",
+     "zh": "High pressure drives irradiance gains across South East Asia as Sichuan misses out"
+    },
+    {
      "title": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html",
      "pubDate": "Fri, 20 Nov 2026 03:00:00 -0600",
@@ -887,6 +911,22 @@
      "summary": "The result was confirmed by the Shanghai Institute of Microsystem and Information Technology of the Chinese Academy of Sciences. The post JinkoSolar claims 35.24% efficiency for perovskite-silicon tandem solar cell appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "JinkoSolar claims 35.24% efficiency for perovskite-silicon tandem solar cell"
+    },
+    {
+     "title": "It’s official: 2026 is the year of lost solar in North Carolina",
+     "link": "https://www.canarymedia.com/articles/solar/2026-year-of-lost-solar-north-carolina",
+     "pubDate": "Fri, 20 Nov 2026 03:30:00 -0500",
+     "summary": "This spring, when North Carolina’s top utility regulator abruptly canceled bidding for new Duke Energy large solar contracts for 2026, critics filed an array of legal motions in protest , calling the unilateral order from the chair of the Utilities Commission “arbitrary and capricious” — and likely ",
+     "source": "Canary Media",
+     "zh": "It’s official: 2026 is the year of lost solar in North Carolina"
+    },
+    {
+     "title": "It’s another banner year for batteries in the US",
+     "link": "https://www.canarymedia.com/articles/batteries/another-banner-year-us-energy-storage-installations",
+     "pubDate": "Fri, 20 Nov 2026 03:30:00 -0500",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Batteries are booming in America. Over the first nine months of this year, the U.S. installed 20% more battery storage capacity than it did in the same period last year, according to a new report by the Solar Energy Industries Association an",
+     "source": "Canary Media",
+     "zh": "It’s another banner year for batteries in the US"
     },
     {
      "title": "Mexico’s solar capacity could reach 43.8 GW by 2035",
@@ -919,14 +959,6 @@
      "summary": "Researchers in Pakistan and China have developed an autonomous PV cleaning system that uses voltage differences between reference panels to detect soiling. Three months of field testing showed an 86.7% increase in power output after cleaning, with cleaning intervals ranging from four to 14 days. The",
      "source": "pv magazine",
      "zh": "$64 solar-powered robot cleans PV modules without water"
-    },
-    {
-     "title": "Swegon unveils CO2 rooftop heat pump",
-     "link": "https://www.pv-magazine.com/2026/11/20/swegon-unveils-co2-rooftop-heat-pump/",
-     "pubDate": "Fri, 20 Nov 2026 07:40:04 +0000",
-     "summary": "The Lambda Zero combines inverter-driven compressors, variable airflow and machine learning-based controls to improve energy efficiency. The manufacturer said the system has a seasonal energy efficiency ratio (SEER) of up to 5.24 and a seasonal coefficient of performance (SCOP) of up to 3.91. The po",
-     "source": "pv magazine",
-     "zh": "Swegon unveils CO2 rooftop heat pump"
     },
     {
      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
@@ -1036,7 +1068,7 @@
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1079,38 +1111,6 @@
      "summary": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage.",
      "source": "Energy Storage News",
      "zh": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots"
-    },
-    {
-     "title": "‘Good well past 30 years of operation’: Avery Dennison and Argent on PSA tape ageing tests for battery storage",
-     "link": "https://www.energy-storage.news/avery-dennison-argent-psa-tape-dielectric-performance-bess-30-year-lifetimes/",
-     "pubDate": "Thu, 19 Nov 2026 11:53:02 +0000",
-     "summary": "Pressure-sensitive adhesive (PSA) tape suppliers are testing dielectric materials for BESS lifetimes of 30 years or more, as rising pack voltages push tracking performance requirements higher.",
-     "source": "Energy Storage News",
-     "zh": "‘Good well past 30 years of operation’: Avery Dennison and Argent on PSA tape ageing tests for battery storage"
-    },
-    {
-     "title": "Fuel constraints could challenge grid this winter, despite resource improvements: NERC",
-     "link": "https://www.utilitydive.com/news/el-nino-challenge-grid-operators-winter-nerc/875156/",
-     "pubDate": "Thu, 19 Nov 2026 06:38:50 -0500",
-     "summary": "Areas of the Midwest, Southeast and New England must be wary of transmission and pipeline constraints that could cause resource shortfalls during periods of extreme weather, the reliability watchdog said.",
-     "source": "Utility Dive",
-     "zh": "Fuel constraints could challenge grid this winter, despite resource improvements: NERC"
-    },
-    {
-     "title": "What US BESS industry experts are saying about BAAJA at RE+ 2026",
-     "link": "https://www.energy-storage.news/what-us-bess-industry-experts-are-saying-about-baaja-at-re-2026/",
-     "pubDate": "Thu, 19 Nov 2026 11:37:48 +0000",
-     "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) has been a popular topic of discussion at RE+ 2026 in Las Vegas, Nevada, US.",
-     "source": "Energy Storage News",
-     "zh": "What US BESS industry experts are saying about BAAJA at RE+ 2026"
-    },
-    {
-     "title": "Italy: MACSE 2.0 to see higher clearing prices, lower capex impact, but Enel ‘will still bid hard again’, developer says",
-     "link": "https://www.energy-storage.news/italy-macse-2-0-to-see-higher-clearing-prices-lower-capex-impact-but-enel-will-still-bid-hard-again-developer-says/",
-     "pubDate": "Thu, 19 Nov 2026 10:59:48 +0000",
-     "summary": "The second MACSE auction for energy storage in Italy is right around the corner and the dynamics are different this time around to last year’s inaugural event, a developer said.",
-     "source": "Energy Storage News",
-     "zh": "Italy: MACSE 2.0 to see higher clearing prices, lower capex impact, but Enel ‘will still bid hard again’, developer says"
     }
    ]
   },
@@ -1369,6 +1369,14 @@
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
      "pubDate": "Thu, 19 Nov 2026 22:00:00 +0000",
@@ -1473,6 +1481,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1529,36 +1545,20 @@
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1568,6 +1568,22 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+     "pubDate": "Fri, 20 Nov 2026 04:25:35 -0500",
+     "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+     "source": "BleepingComputer",
+     "zh": "Windows 11 KB5132057 update released with 28 changes and fixes"
+    },
+    {
+     "title": "N-able Blames Service Disruption on Cyberattack",
+     "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+     "pubDate": "Fri, 20 Nov 2026 09:08:35 +0000",
+     "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "N-able Blames Service Disruption on Cyberattack"
+    },
     {
      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
@@ -1713,14 +1729,6 @@
      "zh": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
     },
     {
-     "title": "Five warning signs of ransomware breach before encryption or data theft",
-     "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-     "pubDate": "Thu, 19 Nov 2026 10:00:10 -0500",
-     "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [",
-     "source": "BleepingComputer",
-     "zh": "Five warning signs of ransomware breach before encryption or data theft"
-    },
-    {
      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
      "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
      "pubDate": "Thu, 19 Nov 2026 14:17:32 +0000",
@@ -1743,14 +1751,6 @@
      "summary": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release"
-    },
-    {
-     "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-     "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-     "pubDate": "Thu, 19 Nov 2026 12:23:34 +0000",
-     "summary": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "StepSecurity Secures $20 Million to Expand Supply Chain Protection"
     },
     {
      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
@@ -1777,12 +1777,68 @@
    "total": 18,
    "items": [
     {
-     "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
-     "link": "https://www.ithome.com/1/030/127.htm",
-     "pubDate": "Fri, 20 Nov 2026 09:06:53 GMT",
-     "summary": "IT之家 11 月 20 日消息，据《商业内幕》报道，今年 9 月，Anthropic 前研究员雅各布 · 考克森 因担忧 AI 发展而离职 ，并在美国引发了对 AI 技术的广泛恐慌。时间来到当地时间 19 日，随着 Anthropic 股票首次上市交易，考克森再次呼吁公众关注 AI 安全问题。 这次，他在接受采访时强调：“ 他们买不买股票根本不重要。我们必须阻止递归自我改进 。” IT之家注：“递归自我改进”指 让先进 AI 系统参与训练下一代 AI ，从而推动 AI 能力不断提升。 当天，考克森与数十名抗议者聚集在 Anthropic 旧金山总部外，要求禁止有关技术。 抗议者举着标语、高喊",
-     "source": "IT之家",
-     "zh": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进"
+     "title": "抖音生活悄悄上万亿",
+     "link": "https://www.tmtpost.com/8211611.html",
+     "pubDate": "Fri, 20 Nov 2026 17:23:08 +0800",
+     "summary": "字节跳动抖音生活服务换帅，莫少君接任总裁，推动其向万亿级交易规模迈进，强化内容与线下商业的结合。",
+     "source": "钛媒体",
+     "zh": "抖音生活悄悄上万亿"
+    },
+    {
+     "title": "Waymo被迫退出高速公路，无人驾驶的商业化开始碰到监管天花板",
+     "link": "https://www.tmtpost.com/8211917.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:50 +0800",
+     "summary": "自动驾驶行业一直在回答一个问题：机器能不能像人一样开车？但当Robotaxi真正走向商业化，问题开始变得复杂。",
+     "source": "钛媒体",
+     "zh": "Waymo被迫退出高速公路，无人驾驶的商业化开始碰到监管天花板"
+    },
+    {
+     "title": "Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？",
+     "link": "https://www.tmtpost.com/8212716.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:47 +0800",
+     "summary": "这场上市真正的赢家不在敲钟的那几个人里，在那七家收着算力钱又拿着股票的公司身上，它们把未来十五年的订单提前折成了今天的股权。",
+     "source": "钛媒体",
+     "zh": "Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？"
+    },
+    {
+     "title": "AI这一年，倒下的APP们",
+     "link": "https://www.tmtpost.com/8212771.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:43 +0800",
+     "summary": "一年之内，上千个AI应用为何接连退场？",
+     "source": "钛媒体",
+     "zh": "AI这一年，倒下的APP们"
+    },
+    {
+     "title": "50天推出4款模型，谷歌想当“造物主”了？",
+     "link": "https://www.tmtpost.com/8212777.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:37 +0800",
+     "summary": "OpenAI却有点拉了。",
+     "source": "钛媒体",
+     "zh": "50天推出4款模型，谷歌想当“造物主”了？"
+    },
+    {
+     "title": "The U.S. national cyber director is stepping down",
+     "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+     "pubDate": "Fri, 20 Nov 2026 09:14:19 +0000",
+     "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+     "source": "TechCrunch",
+     "zh": "The U.S. national cyber director is stepping down"
+    },
+    {
+     "title": "卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？",
+     "link": "https://www.huxiu.com/article/4907209.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 17:13:55 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？| 声动早咖啡》 欢迎来到每周五咖啡豆回复时间，我们的听友「Miranda」发现，现在越来越多的餐饮品牌，开始在自己的招牌产品之外，卖起了汉堡。比如DQ，2024年就在上海开了一家餐厅，除了招牌的冰淇淋，店里也卖汉堡和薯条。卖披萨的必胜客去年底还开出了专门的汉堡店，叫「必胜汉堡」。就连做焖锅的黄记煌，也在店里单独设了个档口，挂的是「锅气汉堡」的招牌。此外，魏家凉皮、海底捞和M Stand等等餐饮品牌都在汉堡领域试水。 为什么这些餐饮品牌都在跨界做汉堡呢？ 本文整理自播客「声动早咖啡",
+     "source": "虎嗅",
+     "zh": "卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？"
+    },
+    {
+     "title": "赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面",
+     "link": "https://www.huxiu.com/article/4907208.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 17:13:44 +0800",
+     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目》 本期节目是声东击西「十周年」特别系列的第六期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 本期的嘉宾赵玉顺和袁贞贞，是村镇纪录片频道「遇真纪事」的两位创作者。2016年前后，赵玉顺和袁贞贞带着对新闻和纪录片的憧憬走入职场。几年辗转后，他们选择离开大城市、辞掉工作，把镜头对准那些很少进入公众视野的村镇和普通农民，并给自己定下",
+     "source": "虎嗅",
+     "zh": "赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面"
     },
     {
      "title": "满街持枪保安，遍地要钱小孩，菲律宾到底多穷？有多乱？",
@@ -1833,38 +1889,6 @@
      "zh": "腾讯的AI账本摊开了：WorkBuddy开始收钱，小微瞄准微信变现"
     },
     {
-     "title": "国家能源集团“交出”上市公司控股权，民企来“接盘”",
-     "link": "https://www.tmtpost.com/8211945.html",
-     "pubDate": "Fri, 20 Nov 2026 16:47:09 +0800",
-     "summary": "截至目前，《股份转让协议》仍在协商谈判，宝丰光伏的审计评估尚未完成，英力特已于11月13日停牌，并承诺不晚于11月20日复牌。",
-     "source": "钛媒体",
-     "zh": "国家能源集团“交出”上市公司控股权，民企来“接盘”"
-    },
-    {
-     "title": "Anthropic创纪录IPO：一边高开，一边“厌恶”",
-     "link": "https://www.tmtpost.com/8211970.html",
-     "pubDate": "Fri, 20 Nov 2026 16:47:05 +0800",
-     "summary": "Anthropic CEO达里奥.阿莫代伊表示，公司对此保持冷静，仍将注意力集中在业务基本面上。",
-     "source": "钛媒体",
-     "zh": "Anthropic创纪录IPO：一边高开，一边“厌恶”"
-    },
-    {
-     "title": "想靠AI音乐赚点钱，比做短剧难多了",
-     "link": "https://www.tmtpost.com/8212652.html",
-     "pubDate": "Fri, 20 Nov 2026 16:47:01 +0800",
-     "summary": "有用户，没听众。",
-     "source": "钛媒体",
-     "zh": "想靠AI音乐赚点钱，比做短剧难多了"
-    },
-    {
-     "title": "给机器人喂数据的人",
-     "link": "https://www.tmtpost.com/8212688.html",
-     "pubDate": "Fri, 20 Nov 2026 16:46:56 +0800",
-     "summary": "具身智能合规数据缺口催生一门新生意，家政师、宝妈、护工甚至大学生等群体涌入，家庭成为主要的集采场景之一，相关劳动规则、隐私制度、行业标准等亟待规范",
-     "source": "钛媒体",
-     "zh": "给机器人喂数据的人"
-    },
-    {
      "title": "天价捏捏，资本都不敢入局的暴利小生意",
      "link": "https://www.huxiu.com/article/4907202.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 16:46:14 +0800",
@@ -1889,12 +1913,12 @@
      "zh": "“新型研究型大学”，好像也没那么新了"
     },
     {
-     "title": "同人救不了官方？性转马尔福翻红，但哈利波特手游真的要关服了",
-     "link": "https://www.tmtpost.com/8212474.html",
-     "pubDate": "Fri, 20 Nov 2026 16:37:12 +0800",
-     "summary": "为什么同人救不了官方？",
-     "source": "钛媒体",
-     "zh": "同人救不了官方？性转马尔福翻红，但哈利波特手游真的要关服了"
+     "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+     "link": "https://www.ithome.com/1/030/120.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:43:27 GMT",
+     "summary": "IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该机采用了具有辨识度的阔直板设计，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首发价 7299 元 16GB RAM+1TB &nbsp;存储空间：8999 元，首发价 8799 元 该机厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。配",
+     "source": "IT之家",
+     "zh": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布"
     },
     {
      "title": "AI帮我干完了20年的活儿，我却感觉像坐牢",
@@ -1911,22 +1935,6 @@
      "summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1起）、使用微型摄像头和无线耳机（1起）、利用智能手机拍摄考卷（1起），以及在洗手间使用智能手机（2起）。韩国教育部称共发现 111 起涉电子设备作弊案。韩国如此高度关注考试作弊的",
      "source": "Solidot",
      "zh": "韩国利用紧急短信等方法抓住了 111 起高考作弊"
-    },
-    {
-     "title": "英伟达把投资当武器，但今年它的钱依然投不进中国大陆",
-     "link": "https://www.huxiu.com/article/4907192.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 16:23:13 +0800",
-     "summary": "本文来自微信公众号： IT桔子 ，作者：吴梅梅 英伟达是全球市值最高的公司之一，但它不只做GPU生意，还是一台高速运转的投资机器。过去十几年，正是这种生态式的绑定投资给它带来了客户和收入，是它壮大的利器。 截至2026年11月18日，IT桔子共收录英伟达投资并购事件239条，其中股权投资220笔、并购19笔。把时间轴锁定在2026年：这一年它投了71笔，比2023年的30笔翻了一倍还多，平均每个月投出六七笔，投资节奏比大多数的一线VC机构都密集。 数字跳升之下，是三个结构性的变化。 投资对象更宽泛了：从美元生态里的AI明星公司，扩展到电力、光互连、数据中心这些算力的物理底座，比如据报道拟至多出",
-     "source": "虎嗅",
-     "zh": "英伟达把投资当武器，但今年它的钱依然投不进中国大陆"
-    },
-    {
-     "title": "阿里三季报：云业务发展强劲，既涨收入，又涨利润",
-     "link": "https://www.huxiu.com/article/4907188.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 16:13:09 +0800",
-     "summary": "本文来自微信公众号： 昆仑侠 ，作者：昆仑侠 阿里昨天盘后发布今年自然年三季度财报（27财年二季度），这份财报整体看下来还是比较超预期的。 今天港股走势也说明了一切，在整体悲观的大环境下，阿里逆势上涨，成了为数不多的几个靓仔之一。 究其原因，一方面电商集团的基本盘基本稳住了，另一方面核心的AI业务表现较为亮眼。我主要谈一下自己比较关注的几处。 一、几个核心数据 集团收入2715.19亿元，同比增长10%，市场此前的一致预期大致在2700亿上下，略超一点，谈不上惊喜。 但经调整EBITA 326.36亿元，同比增长260%，这个幅度是明显好于预期的。同期经营利润291.16亿元，同比增长443%",
-     "source": "虎嗅",
-     "zh": "阿里三季报：云业务发展强劲，既涨收入，又涨利润"
     },
     {
      "title": "微软测试对被盗或丢失设备远程锁定",
@@ -1948,7 +1956,7 @@
      "title": "\"I can tell you wrote this yourself\"",
      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
      "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
-     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 73 # Comments: 73",
+     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 99 # Comments: 104",
      "source": "Hacker News",
      "zh": "\"I can tell you wrote this yourself\""
     },
@@ -2007,14 +2015,6 @@
      "summary": "Ben Schoon / 9to5Google : Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business &nbsp; &mdash;&nbsp; After the better part of 7 years, Samsung's mobile division has a new chief and it's Choi Won-Joon, w",
      "source": "Techmeme",
      "zh": "Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business (Ben Schoon/9to5Google)"
-    },
-    {
-     "title": "中东COD回款要60天，5人小团队现金流怎么排期？",
-     "link": "https://www.baijing.cn/question/638856",
-     "pubDate": "Fri, 20 Nov 2026 06:23:56 +0000",
-     "summary": "我们做沙特和阿联酋的COD独立站，饰品品类，月订单大概4000单，团队5个人，其中2个兼做客服和催收。现在用的是中东本地一家COD物流商，签收后回款周期报的是T+45到T+60，实际10月有一批单拖到第68天才到账，导致我们备货付款差点断档。已经试过换第二家物流分散风险、也试过让客服提前电话确认地址降拒收，但回款慢的问题没解决。现在卡在不知道该按哪个账期做现金流排期，也不知道要不要为了加快回款去谈预付或缩短账期。像我们这种人力的团队，回款周期到底该按什么标准来定备货和投放节奏？",
-     "source": "白鲸出海",
-     "zh": "中东COD回款要60天，5人小团队现金流怎么排期？"
     }
    ]
   },
@@ -2024,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy phones won’t get Google’s 3D emoji, Google confirms",
+     "link": "https://www.androidauthority.com/google-noto-3d-emoji-samsung-3737580/",
+     "pubDate": "Fri, 20 Nov 2026 09:16:21 +0000",
+     "summary": "There's also bad news if you have a phone with less than 6GB of RAM.",
+     "source": "Android Authority",
+     "zh": "Samsung Galaxy phones won’t get Google’s 3D emoji, Google confirms"
+    },
+    {
+     "title": "Apple tightens its grip on a shrinking US smartphone market",
+     "link": "https://www.gsmarena.com/apple_tightens_its_grip_on_a_shrinking_us_smartphone_market-news-75556.php",
+     "pubDate": "Fri, 20 Nov 2026 10:08:02 +0100",
+     "summary": "Counterpoint Research has published its latest US smartphone market data, and the third quarter of this year (July to September) wasn't a great one. Overall shipments dropped 9% year-over-year, and the research firm blames global memory constraints, which hit Android the hardest, especially lower-en",
+     "source": "GSMArena",
+     "zh": "Apple tightens its grip on a shrinking US smartphone market"
+    },
     {
      "title": "Samsung just made the Galaxy S26 camera better with these One UI 9.5 upgrades",
      "link": "https://www.androidauthority.com/one-ui-9-5-pro-presets-3736710/",
@@ -2105,14 +2121,6 @@
      "zh": "Uber Kids will let parents book trips for their children aged 10 to 12 years old"
     },
     {
-     "title": "Google confirms native app lock won’t come to older Android versions",
-     "link": "https://www.androidauthority.com/android-native-app-lock-older-versions-3737530/",
-     "pubDate": "Fri, 20 Nov 2026 06:17:10 +0000",
-     "summary": "App lock needs more than a Play system update.",
-     "source": "Android Authority",
-     "zh": "Google confirms native app lock won’t come to older Android versions"
-    },
-    {
      "title": "Samsung's mobile repair vans have fixed over 50,000 Galaxy devices in Europe",
      "link": "https://www.gsmarena.com/samsungs_mobile_repair_vans_have_fixed_over_50000_galaxy_devices_in_europe-news-75550.php",
      "pubDate": "Fri, 20 Nov 2026 07:03:02 +0100",
@@ -2167,14 +2175,6 @@
      "summary": "After the better part of 7 years, Samsung’s mobile division has a new chief and it’s Choi Won-Joon, who is already off to a great start with the successful launch of Galaxy Z Fold 8. more…",
      "source": "9to5Google",
      "zh": "Samsung’s mobile division has someone new in charge for the first time in years"
-    },
-    {
-     "title": "About time: You can now edit your Instagram Stories after posting them",
-     "link": "https://www.gsmarena.com/instagram_story_edit-news-75541.php",
-     "pubDate": "Fri, 20 Nov 2026 02:02:02 +0100",
-     "summary": "Until now, if you posted a Story on Instagram and later found something was wrong with it - such as a typo or the wrong music - you'd have to delete it and post a new Story with the correct content. You won't have to do that anymore, as Instagram has announced that users can now edit Stories after p",
-     "source": "GSMArena",
-     "zh": "About time: You can now edit your Instagram Stories after posting them"
     },
     {
      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
@@ -2273,6 +2273,94 @@
    "total": 13,
    "items": [
     {
+     "title": "Clearsign outlines path to breakeven at 160 burners per year as texas 26-burner startup nears completion",
+     "link": "https://seekingalpha.com/news/4675060-clearsign-outlines-path-to-breakeven-at-160-burners-per-year-as-texas-26-burner-startup-nears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 04:23:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clearsign outlines path to breakeven at 160 burners per year as texas 26-burner startup nears completion"
+    },
+    {
+     "title": "大宗交易：华峰铝业成交332.31万元（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167839.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:12 +0800",
+     "summary": "2026年11月20日， 华峰铝业 发生1笔大宗交易，共成交29.33万股，成交金额332.31万元 ，占其流通市值比例为0.03% 。 该笔大宗交易成交均价11.33元， 较该股当日收盘价11.33元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：华峰铝业成交332.31万元（11-20）"
+    },
+    {
+     "title": "大宗交易：西安奕材成交1987.44万元，折价1.02%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167136.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日，西安奕材发生1笔大宗交易，共成交147.00万股，成交金额1987.44万元 ，占其流通市值比例为0.05% 。 该笔大宗交易成交均价13.52元， 较该股当日收盘价13.66元折价1.02%。 其中，机构席位买入147.00万股，成交额1987.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "大宗交易：西安奕材成交1987.44万元，折价1.02%（11-20）"
+    },
+    {
+     "title": "大宗交易：禾元生物成交1502.05万元，折价1.99%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936166934.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日，禾元生物发生2笔大宗交易，共成交59.70万股，成交金额1502.05万元 ，占其流通市值比例为0.21% 。 2笔大宗交易成交均价25.16元， 较该股当日收盘价25.67元折价1.99%。 其中，机构席位买入17.20万股，成交额432.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东",
+     "source": "东方财富股票",
+     "zh": "大宗交易：禾元生物成交1502.05万元，折价1.99%（11-20）"
+    },
+    {
+     "title": "大宗交易：海尔智家成交409.07万元（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936166854.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 海尔智家 发生1笔大宗交易，共成交17.77万股，成交金额409.07万元 。 该笔大宗交易成交均价23.02元， 较该股当日收盘价23.02元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：海尔智家成交409.07万元（11-20）"
+    },
+    {
+     "title": "大宗交易：康美药业成交93.47万元，折价7.26%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167295.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 康美药业 发生1笔大宗交易，共成交81.28万股，成交金额93.47万元 。 该笔大宗交易成交均价1.15元， 较该股当日收盘价1.24元折价7.26%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：康美药业成交93.47万元，折价7.26%（11-20）"
+    },
+    {
+     "title": "大宗交易：汇金通成交200.08万元，折价0.55%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167068.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 汇金通 发生1笔大宗交易，共成交27.67万股，成交金额200.08万元 ，占其流通市值比例为0.08% 。 该笔大宗交易成交均价7.23元， 较该股当日收盘价7.27元折价0.55%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：汇金通成交200.08万元，折价0.55%（11-20）"
+    },
+    {
+     "title": "Anthropic shares slip after rallying in record-breaking IPO debut",
+     "link": "https://seekingalpha.com/news/4675057-anthropic-shares-slip-after-rallying-in-record-breaking-ipo-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 04:20:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic shares slip after rallying in record-breaking IPO debut"
+    },
+    {
+     "title": "U.S. stock futures move lower as Anthropic debut fails to revive AI trade",
+     "link": "https://seekingalpha.com/news/4675058-us-stock-futures-mixed-as-anthropic-debut-fails-to-revive-ai-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 04:16:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. stock futures move lower as Anthropic debut fails to revive AI trade"
+    },
+    {
+     "title": "2027见闻历，财经人的桌面必备“神历”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Fri, 20 Nov 2026 17:11:04 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027见闻历，财经人的桌面必备“神历”"
+    },
+    {
+     "title": "11月20日涨停复盘：30只股涨停 真视通4连板",
+     "link": "http://stock.eastmoney.com/news/11055,202611203936154958.html",
+     "pubDate": "Fri, 20 Nov 2026 17:09:42 +0800",
+     "summary": "今天沪指跌1.23%，深成指跌3.09%，创业板指跌3.54%，今日大盘成交额1.42万亿，较上个交易日放量1170.53亿。 涨停个股数量方面，今日共计30股涨停，另有14只个股盘中一度触及涨停，封板率68.18%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "11月20日涨停复盘：30只股涨停 真视通4连板"
+    },
+    {
      "title": "European indexes in red as AI worries fuel tech sell-off",
      "link": "https://seekingalpha.com/news/4675054-european-indexes-in-red-as-ai-worries-fuel-tech-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 04:05:25 -0500",
@@ -2289,68 +2377,12 @@
      "zh": "Citi underestimated risky assets by $35B after trade errors: Reuters"
     },
     {
-     "title": "泸州老窖：控股股东拟增持公司股份5000万元至1亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936150337.html",
-     "pubDate": "Fri, 20 Nov 2026 16:58:58 +0800",
-     "summary": "泸州老窖 (000568.SZ)公告称，公司收到控股股东 泸州老窖 集团拟增持公司股份的函，基于对公司未来发展的信心和长期投资价值的认可，老窖集团拟自正式决策之日起6个月内，通过集中竞价交易方式择机增持公司股票，拟增持资金总额为5000万元至1亿元。目前，老窖集团正在履行内部决策程序，公司将在收到正式 增持计划 函后及时履行信息披露义务。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "泸州老窖：控股股东拟增持公司股份5000万元至1亿元"
-    },
-    {
      "title": "NYC delivery bill: Amazon warns shoppers of higher prices; Mamdani says it's greed",
      "link": "https://seekingalpha.com/news/4675053-nyc-delivery-bill-amazon-warning-shoppers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 03:58:49 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "NYC delivery bill: Amazon warns shoppers of higher prices; Mamdani says it's greed"
-    },
-    {
-     "title": "韩国寻求对每辆本土产电动汽车提供250万韩元税收抵免",
-     "link": "http://finance.eastmoney.com/news/1358,202611203936150238.html",
-     "pubDate": "Fri, 20 Nov 2026 16:57:17 +0800",
-     "summary": "韩国寻求对每辆本土产电动 汽车 提供250万韩元税收抵免。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "韩国寻求对每辆本土产电动汽车提供250万韩元税收抵免"
-    },
-    {
-     "title": "长华集团(605018)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936148655.html",
-     "pubDate": "Fri, 20 Nov 2026 16:57:08 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 长华集团 因成为 有价格涨跌幅限制的日价格振幅达到15%的前五只证券 上榜。 长华集团 当日收报 10.26元，涨跌幅9.97%， 偏离值20.71%， 换手率2.47%，成交额1.14亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "长华集团(605018)龙虎榜数据(11-20)"
-    },
-    {
-     "title": "阳光照明(600261)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936148555.html",
-     "pubDate": "Fri, 20 Nov 2026 16:57:08 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 阳光照明 因成为 非S证券连续三个交易日内收盘价格跌幅偏离值累计达到20%的证券 上榜。 阳光照明 当日收报 4.16元，涨跌幅-9.96%，换手率18.42%，成交额10.31亿。 异常期间11月18日至11月20日，期间涨幅-27.02%， 累计偏离值-25.60%， 区间成交额34.94亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
-     "source": "东方财富股票",
-     "zh": "阳光照明(600261)龙虎榜数据(11-20)"
-    },
-    {
-     "title": "浙文影业(601599)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936148498.html",
-     "pubDate": "Fri, 20 Nov 2026 16:57:08 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 浙文影业 因成为 有价格涨跌幅限制的日换手率达到20%的前五只证券、 有价格涨跌幅限制的日收盘价格跌幅偏离值达到7%的前五只证券 上榜。 浙文影业 当日收报 3.32元，涨跌幅-10.03%， 偏离值27.02%， 换手率27.02%，成交额10.70亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任",
-     "source": "东方财富股票",
-     "zh": "浙文影业(601599)龙虎榜数据(11-20)"
-    },
-    {
-     "title": "大东方(600327)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936148056.html",
-     "pubDate": "Fri, 20 Nov 2026 16:56:52 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 大东方 因成为 有价格涨跌幅限制的日收盘价格涨幅偏离值达到7%的前五只证券、 有价格涨跌幅限制的日换手率达到20%的前五只证券 上榜。 大东方 当日收报 4.83元，涨跌幅10.02%， 偏离值11.25%， 换手率27.77%，成交额11.44亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户",
-     "source": "东方财富股票",
-     "zh": "大东方(600327)龙虎榜数据(11-20)"
-    },
-    {
-     "title": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut",
-     "link": "https://seekingalpha.com/news/4675056-anthropic-to-join-msci-large-cap-ftse-global-indexes-after-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 03:51:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut"
     },
     {
      "title": "财政部：1-10月证券交易印花税2511亿元 同比增长54.1%",
@@ -2457,44 +2489,12 @@
      "zh": "事关AI交易！得州候任州长发声：不讨厌数据中心 期待与马斯克合作"
     },
     {
-     "title": "中信证券、中金公司等出手！投资入股DeepSeek",
-     "link": "http://stock.eastmoney.com/news/11215,202611203936116772.html",
-     "pubDate": "Fri, 20 Nov 2026 16:14:24 +0800",
-     "summary": "近日，企查查信息显示，DeepSeek出现了注册资本变动。 杭州程砚企业管理咨询合伙企业（有限合伙）（下称“杭州程砚”）在11月17日首次持股DeepSeek，位居第三大股东。 券商中国记者了解到，杭州程砚的背后，有多家券商参与出资，包括 中信证券 、 中金公司 、 中信建投 、 申万宏源 等。随着新股东的加入，梁文峰的直接持股比例有所下降，不过仍为第二大直接股东。 东方证券 非银分析师张凯烽认为，具备优质产业项目储备的券商资产端弹性更值得重视。券商传统业务受市场成交、投行发行节奏及权益市场波动影响较大，优质未上市股权项目上市有助于提升另类投资、私募股权基金和产业基金业务的价值显性度。 中信、",
-     "source": "东方财富资讯",
-     "zh": "中信证券、中金公司等出手！投资入股DeepSeek"
-    },
-    {
-     "title": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.05688 dividend",
-     "link": "https://seekingalpha.com/news/4675052-pimco-global-income-opportunities-fund-unit-class-a-declares-cad-005688-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 02:58:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.05688 dividend"
-    },
-    {
      "title": "被OpenAI伤透了心的数学家们，现在正从零开始构建自己的AI模型",
      "link": "https://wallstreetcn.com/articles/3786359",
      "pubDate": "Fri, 20 Nov 2026 15:58:03 +0800",
      "summary": "数学学术界与大型AI公司的矛盾正在升级。OpenAI宣布利用AI攻克多道数学难题后，非但没有获得学界广泛认可，反而引发关于研究成果归属、数据使用权限和AI解题价值的激烈争论。 部分数学家认为，商业公司正在将数学研究成果转化为产品和营销素材，却没有充分尊重学术界的贡献与权益。 在此背景下，越来越多数学家开始尝试绕开商业AI公司，自主开发开源模型和研究工具。据报道，加州理工学院教授Sergei Gukov正带领团队构建专门用于数学研究的AI模型；Fields奖得主、加州大学洛杉矶分校教授陶哲轩则推动建立由数学家自主控制数据的AI协作平台。 这场争论的焦点已经超出AI能否解出数学难题本身，进一步延伸",
      "source": "华尔街见闻",
      "zh": "被OpenAI伤透了心的数学家们，现在正从零开始构建自己的AI模型"
-    },
-    {
-     "title": "IT Tech Packaging receives going concern warning",
-     "link": "https://seekingalpha.com/news/4675048-it-tech-packaging-receives-going-concern-warning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 02:57:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IT Tech Packaging receives going concern warning"
-    },
-    {
-     "title": "当前市场的焦点问题：AI资本开支是“见顶”还是“中期调整”",
-     "link": "https://wallstreetcn.com/articles/3786358",
-     "pubDate": "Fri, 20 Nov 2026 15:48:05 +0800",
-     "summary": "金融市场的行为模式正越来越像AI资本开支周期已经见顶，尽管目前尚无令人信服的“ 实体层面的证据 ”支撑这一判断。杰富瑞（Jefferies）认为，当前市场的核心分歧在于：这究竟是AI资本开支周期的真正顶点，还是上升周期中的一次中期调整。 据追风交易台消息，杰富瑞在11月19日发布的最新研报中称，围绕这一核心判断，多重风险信号正在同步发酵。 英伟达在AI生态中扮演的“央行”角色面临治理转向压力 ，其庞大的表外财务敞口一旦收缩，将对整个AI融资链条产生系统性收紧效应； 与此同时， 超大规模云厂商（hyperscaler）的盈利质量正受到市场更严格的审视 ——剔除AI相关投资的非现金账面收益后，其核",
-     "source": "华尔街见闻",
-     "zh": "当前市场的焦点问题：AI资本开支是“见顶”还是“中期调整”"
     },
     {
      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 06:53:12",
+ "generated_at": "2026/11/21 07:14:34",
  "recent_days": 7,
  "industries": [
   {
@@ -18,12 +18,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
     },
     {
-     "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
      "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
      "source": "TechCrunch AI",
-     "zh": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too"
+     "zh": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
     },
     {
      "title": "The most misunderstood graph in AI just got a major update",
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Curiosity Spots Drifting Twilight Clouds",
+     "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+     "pubDate": "Fri, 20 Nov 2026 22:27:05 +0000",
+     "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which ",
+     "source": "NASA",
+     "zh": "Curiosity Spots Drifting Twilight Clouds"
+    },
+    {
      "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
      "pubDate": "Fri, 20 Nov 2026 21:19:33 +0000",
@@ -1360,6 +1368,14 @@ window.INDUSTRY_DATA = {
      "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
      "source": "Space.com",
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
+    },
+    {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
@@ -1442,12 +1458,12 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday"
     },
     {
-     "title": "Challenge: Public Input on Life and the World in 2075",
-     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
-     "pubDate": "Thu, 19 Nov 2026 19:34:20 +0000",
-     "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ide",
-     "source": "NASA",
-     "zh": "Challenge: Public Input on Life and the World in 2075"
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1490,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1530,20 +1554,12 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     }
    ]
   },
@@ -1762,6 +1778,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261120/p40#a261120p40",
+     "pubDate": "Fri, 20 Nov 2026 18:05:04 -0500",
+     "summary": "Wall Street Journal : Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &nbsp; &mdash;&nbsp; The new financing would represent a nearly 20% increase from its August valuation&nbsp; &mdash;&nbsp; Data",
+     "source": "Techmeme",
+     "zh": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)"
+    },
+    {
+     "title": "做道士，才是2026年令人心动的“offer”？",
+     "link": "https://www.huxiu.com/article/4905940.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 07:00:02 +0800",
+     "summary": "出品 | 虎嗅青年文化组 作者 | 阿珂可 编辑 | 渣渣郡 前段时间，一些道士招聘信息的合集文章，成了我朋友圈里大学生们的热门转发内容。 截止目前，这个系列中最受欢迎的文章已经逼近10万阅读量，转发量超过1万次。由此可见，大家对这一跨界不对口岗位的高度热情。 他们纷纷夸下海口，要遵守不能浪费应届身份的社会默认法则，在最美好的年纪进观修炼，掌握道家秘宝。 这些文章可理解为&ldquo;道长直聘&ldquo;。在里面，你可以看到来自全国各地的道观信息和岗位需求。 字里行间的语气真诚朴素，面试方式更是透出了一丝古朴的气息：大多数求职不需要简历，只是打个电话的事。有的地方甚至连电话都没有，需要改日登",
+     "source": "虎嗅",
+     "zh": "做道士，才是2026年令人心动的“offer”？"
+    },
+    {
+     "title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor&apos;s Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+     "link": "https://www.techmeme.com/261120/p39#a261120p39",
+     "pubDate": "Fri, 20 Nov 2026 18:00:01 -0500",
+     "summary": "Kai Nicol-Schwarz / CNBC : Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to &ldquo;geopolitical risk&rdquo;; Cursor's Composer 2 was built on Kimi K2.5 &nbsp; &mdash;&nbsp; SpaceX's artificial-intelligence coding platform, Cursor, is considering moving away f",
+     "source": "Techmeme",
+     "zh": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor&apos;s Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)"
+    },
+    {
+     "title": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
+     "link": "https://www.ithome.com/1/030/287.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:53:45 GMT",
+     "summary": "IT之家 11 月 21 日消息，谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整， 面向全球桌面端逐步推出可折叠侧边栏，让用户直接从首页查找和继续此前的 AI 搜索对话。 根据演示，用户点击页面左侧的灰色条，即可展开侧边栏，查看通过“AI 模式”（AI Mode）进行的搜索记录。面板还提供新建对话、搜索历史对话以及连接 Gemini 笔记本等入口。选择已有记录后，用户可以回到相应话题继续提问，不必重新从头搜索。 斯坦指出本次改进的重点是让搜索具备更强的连续性，根据内部调查数据显示，",
+     "source": "IT之家",
+     "zh": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题"
+    },
+    {
+     "title": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露",
+     "link": "https://www.ithome.com/1/030/286.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:51:39 GMT",
+     "summary": "IT之家 11 月 21 日消息，据央视新闻及新华社报道，日本数字厅于当地时间 11 月 20 日发布公告称，日本政府共用的文件共享系统“政府解决方案服务”（GSS）发生非授权访问事件，政府部门通过该系统共享的部分文件可能已经外泄，其中不排除包含个人信息。 调查确认，至少在 2026 年 7 月 30 日至 11 月 12 日期间，存在非授权访问行为，相关文件可能已经泄露。 IT之家注：GSS 是面向日本政府机关等机构提供的共用业务环境，其中的文件共享服务用于政府部门之间，以及政府部门与外部企业等相关人员之间传输会议资料、大容量文件等。此次事件涉及该服务中此前上传的部分文件。 发现问题后，日本",
+     "source": "IT之家",
+     "zh": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露"
+    },
+    {
+     "title": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)",
+     "link": "https://www.techmeme.com/261120/p38#a261120p38",
+     "pubDate": "Fri, 20 Nov 2026 17:50:01 -0500",
+     "summary": "Julia Ainsley / NBC News : Sources: hackers breached the US Department of Agriculture's system that facilitates payments to farmers this week &nbsp; &mdash;&nbsp; Hackers accessed the Agriculture Department's system that facilitates payments to farmers, the agency told employees on Thursday, accordi",
+     "source": "Techmeme",
+     "zh": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)"
+    },
+    {
+     "title": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制",
+     "link": "https://www.ithome.com/1/030/285.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:44:01 GMT",
+     "summary": "IT之家 11 月 21 日消息，当地时间 11 月 19 日，开源关系型数据库 PostgreSQL 19 正式发布。这一最新主版本带来在线表维护、查询计划稳定性、逻辑复制、异步 I/O 和 SQL 功能等多方面更新。官方同时提供适用于 Windows、Linux、macOS 等平台的安装程序、工具和源代码。 PostgreSQL 19 新增 REPACK 命令，可回收数据表中的无效空间，并根据索引重新组织表数据。其中， REPACK (CONCURRENTLY) 支持在不阻塞表读取和写入操作的情况下完成整理，减少传统 VACUUM FULL 和 CLUSTER 命令执行期间对业务的影响。上",
+     "source": "IT之家",
+     "zh": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制"
+    },
+    {
+     "title": "NINLIVE: The Nine Inch Nails live archive",
+     "link": "https://ninlive.com/",
+     "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "NINLIVE: The Nine Inch Nails live archive"
+    },
+    {
      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
      "pubDate": "Fri, 20 Nov 2026 22:28:24 +0000",
@@ -1773,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
      "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
-     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 3 # Comments: 1",
      "source": "Hacker News",
      "zh": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
     },
@@ -1813,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "A few hours ago Google DeepMind created a math horizon repo",
      "link": "https://github.com/google-deepmind/math-horizon",
      "pubDate": "Fri, 20 Nov 2026 21:42:21 +0000",
-     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 24 # Comments: 4",
+     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 27 # Comments: 9",
      "source": "Hacker News",
      "zh": "A few hours ago Google DeepMind created a math horizon repo"
     },
@@ -1832,22 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reggie Ugwu / New York Times : Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training &nbsp; &mdash;&nbsp; Numerous longtime users of the online marketplace have left the platform because they do ",
      "source": "Techmeme",
      "zh": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers&apos; content for AI training (Reggie Ugwu/New York Times)"
-    },
-    {
-     "title": "Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours (Bloomberg)",
-     "link": "https://www.techmeme.com/261120/p34#a261120p34",
-     "pubDate": "Fri, 20 Nov 2026 16:20:00 -0500",
-     "summary": "Bloomberg : Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours &nbsp; &mdash;&nbsp; CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter",
-     "source": "Techmeme",
-     "zh": "Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours (Bloomberg)"
-    },
-    {
-     "title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)",
-     "link": "https://www.techmeme.com/261120/p33#a261120p33",
-     "pubDate": "Fri, 20 Nov 2026 16:15:02 -0500",
-     "summary": "Thinking Machines Lab : TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens &nbsp; &mdash;&nbsp; Today we are releasing Inkling 2 Mini, a fast, powerful model that's small enough to run on your",
-     "source": "Techmeme",
-     "zh": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)"
     },
     {
      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -1874,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "Watching as a giant star swallowed its neighbor and exploded"
     },
     {
-     "title": "Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)",
-     "link": "https://www.techmeme.com/261120/p32#a261120p32",
-     "pubDate": "Fri, 20 Nov 2026 15:30:01 -0500",
-     "summary": "Bloomberg : Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 &nbsp; &mdash;&nbsp; Bitcoin fell to the lowest level in over two years, extending its reversal from market darling after the re-electio",
-     "source": "Techmeme",
-     "zh": "Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)"
-    },
-    {
      "title": "Nvidia accounting under SEC investigation, sources say",
      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
      "pubDate": "Fri, 20 Nov 2026 20:22:41 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 146 # Comments: 57",
+     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 157 # Comments: 67",
      "source": "Hacker News",
      "zh": "Nvidia accounting under SEC investigation, sources say"
     },
@@ -1901,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "Inkling 2 Mini",
      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
      "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 437 # Comments: 65",
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 460 # Comments: 69",
      "source": "Hacker News",
      "zh": "Inkling 2 Mini"
-    },
-    {
-     "title": "And Yet, It Moves",
-     "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-     "pubDate": "Fri, 20 Nov 2026 20:07:55 +0000",
-     "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 44 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "And Yet, It Moves"
     },
     {
      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
@@ -1968,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "A supermajority of eligible workers at the nonprofit digital library voted in favor of joining the Communications Workers of America.",
      "source": "WIRED",
      "zh": "Internet Archive Staffers Are Unionizing"
-    },
-    {
-     "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-     "link": "https://www.huxiu.com/article/4907330.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 01:02:18 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 今夜，就在Anthropic股价暴跌的背景下。 Anthropic的数学家Levent Alpöge，在他自己的个人网站上，直接一纸官宣，说，自己和Claude一起，证明了黎曼猜想。 一石激起千层浪。 Levent Alpöge，2020年在普林斯顿拿的博士，导师是菲尔兹奖得主曼朱尔·巴尔加瓦，博士论文研究的就是数论。毕业后去了哈佛，当了哈佛学者学会的青年研究员，这是一个出了名难进的地方，后来，他加入了Anthropic。 他已经火过一次了，今年7月，他和Claude一起推翻了一个悬了87年的难题“雅可比猜想”，发在推特上的那个反例",
-     "source": "虎嗅",
-     "zh": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。"
-    },
-    {
-     "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
-     "pubDate": "Fri, 20 Nov 2026 17:01:45 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)"
-    },
-    {
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
-     "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-     "source": "TechCrunch",
-     "zh": "Bending Spoons buys Mailchimp for $3.68B"
-    },
-    {
-     "title": "全球制药巨头，披露AI成果",
-     "link": "https://www.huxiu.com/article/4907327.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 00:15:08 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：夏军雄 全球多家大型制药公司的高级科研人员表示，今年以来，人工智能（AI）显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。 葛兰素史克、百时美施贵宝、诺华、礼来、诺和诺德、阿斯利康和赛诺菲均表示，它们已不再局限于利用AI处理监管申报文件等基础工作，而是开始将这项技术应用于分子设计、候选药物筛选及安全风险识别等关键研发环节。 阿斯利康高管莎伦·巴尔（Sharon Barr）表示：“从药物发现到开发的整个流程中，没有任何一个环节不使用AI。” 多家制药巨头披露AI研发成果 诺和诺德表示，AI已将新分子设计、生产和测试",
-     "source": "虎嗅",
-     "zh": "全球制药巨头，披露AI成果"
     }
    ]
   },
@@ -2009,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27 lets you use two iPhones with the same phone number",
+     "link": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/",
+     "pubDate": "Fri, 20 Nov 2026 23:06:00 +0000",
+     "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Among iOS 27’s many new features is a gr",
+     "source": "9to5Mac",
+     "zh": "iOS 27 lets you use two iPhones with the same phone number"
+    },
     {
      "title": "iPhone Duo shipping times are finally getting shorter",
      "link": "https://www.gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php",
@@ -2218,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home"
     },
     {
-     "title": "iOS 27 has clever new Messages feature I’ve been using a lot",
-     "link": "https://9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot/",
-     "pubDate": "Fri, 20 Nov 2026 18:50:59 +0000",
-     "summary": "iOS 27 gives the Messages app a variety of welcome upgrades , including one I’ve found myself using a lot: a Smart Reply feature that’s now personalized to the user’s writing style. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27 has clever new Messages feature I’ve been using a lot"
-    },
-    {
      "title": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday",
      "link": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
      "pubDate": "Fri, 20 Nov 2026 19:02:03 +0100",
@@ -2257,6 +2273,86 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "秘鲁与世界银行讨论了供水和卫生领域的投资",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936599012.html",
+     "pubDate": "Sat, 21 Nov 2026 07:07:33 +0800",
+     "summary": "秘鲁与世界 银行 讨论了供水和卫生领域的投资。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "秘鲁与世界银行讨论了供水和卫生领域的投资"
+    },
+    {
+     "title": "联合健康暗盘跌超3%，现报334.6美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936598660.html",
+     "pubDate": "Sat, 21 Nov 2026 07:06:45 +0800",
+     "summary": "联合健康 暗盘跌超3%，现报334.6美元。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "联合健康暗盘跌超3%，现报334.6美元"
+    },
+    {
+     "title": "沙特阿拉伯表示，利雅得的危险已经过去",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936597466.html",
+     "pubDate": "Sat, 21 Nov 2026 07:04:27 +0800",
+     "summary": "沙特阿拉伯表示，利雅得的危险已经过去。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沙特阿拉伯表示，利雅得的危险已经过去"
+    },
+    {
+     "title": "机构：美国政府债务上限“X日”若在8月到来将“问题重重”",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936597259.html",
+     "pubDate": "Sat, 21 Nov 2026 07:03:59 +0800",
+     "summary": "加拿大帝国商业银行 （CIBC）策略师Michael Cloherty、Ian Pollick和Arjun Ananth在一份报告中表示，债务上限可能在8月中下旬触及所谓的“最后期限”（drop-dead date，即X日）。这将是一个棘手的问题，因为它不仅会对约850亿美元的息票支付构成理论上的违约风险，还会迫使投资者必须持有更多现金或抵押品作为缓冲。他们写道：“我们认为，美国财政部有很大概率能撑过9月15日的纳税日，而不会触及最后期限。”他们指出，财政部通常会采用最坏情况假设来倒逼国会采取行动。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "机构：美国政府债务上限“X日”若在8月到来将“问题重重”"
+    },
+    {
+     "title": "AI产业催化密集 硬件与应用双线配置价值凸显",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936597386.html",
+     "pubDate": "Sat, 21 Nov 2026 07:01:57 +0800",
+     "summary": "● 本报记者刘英杰 全球 人工智能 产业近期迎来密集催化，硬件端与应用端均有重要事件落地。 英伟达 最新财报继续验证全球AI算力需求的旺盛程度，大模型企业 Anthropic 亦正式登陆 纳斯达克 ，为投资者观察前沿AI企业的商业模式和估值水平提供了新的参照。 分析人士认为，当前AI产业仍处于快速发展阶段，算力基础设施建设和大模型技术迭代为产业发展提供支撑。同时，随着资本开支规模不断扩大，市场更加关注AI投资的投入产出效率，算力订单能否转化为企业业绩、 AI应用 能否形成稳定的商业化收入，成为影响产业链后续表现的重要因素。 全球AI产业迎密集催化 硬件端， 英伟达 最新财报继续验证全球AI算力",
+     "source": "东方财富股票",
+     "zh": "AI产业催化密集 硬件与应用双线配置价值凸显"
+    },
+    {
+     "title": "2026世界计算大会： 智算规模占比2030年将超九成",
+     "link": "http://finance.eastmoney.com/news/1355,202611213936597650.html",
+     "pubDate": "Sat, 21 Nov 2026 07:01:48 +0800",
+     "summary": "● 新华社长沙11月20日电 20日，2026世界计算大会在湖南长沙开幕。开幕式暨主旨论坛上，中国 电子 信息产业发展研究院党委书记、副院长刘文强表示，到2030年，我国智能算力规模有望冲击10000EFLOPS（每秒进行百亿亿次浮点运算），占总算力规模比重将超90%，智能算力结构中推理需求占比将达85%，国家八大算力枢纽和三个算电协同发展区承载的智能算力规模将接近90%。 会上，中国 电子 信息产业发展研究院发布“中国算力发展十大趋势（2026）”，指出中国算力发展的成效主要体现为持续提升总体规模、持续优化区域布局和持续增强自主能力，呈现单体集群跨越十万卡门槛，智能算力占比将持续扩大；推理算",
+     "source": "东方财富股票",
+     "zh": "2026世界计算大会： 智算规模占比2030年将超九成"
+    },
+    {
+     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "pubDate": "Fri, 20 Nov 2026 22:59:33 GMT",
+     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+     "source": "CNBC",
+     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
+    },
+    {
+     "title": "黑色星期五！美股和商品全线重挫，英伟达暴跌14%，VIX涨破35，美债大涨",
+     "link": "https://wallstreetcn.com/articles/3786330",
+     "pubDate": "Sat, 21 Nov 2026 06:58:33 +0800",
+     "summary": "投资者对AI浪潮的担忧在周五最终演变成一场全面的抛售，美股指数大跌，投资者纷纷涌向债券和避险货币寻求安全保障。 科技巨头层面的负面催化剂成为市场暴跌的核心驱动力。据路透报道，美国监管机构正对英伟达的会计操作展开调查，该股周五大跌14%，创下2008年10月以来的最差单周表现。 同时，创纪录的Anthropic首次公开募股（IPO）在周五下挫，此前周四上市导致庞大的吸金效应加剧了市场的流动性压力。 恐慌情绪迅速向其他资产类别蔓延。避险资金涌入债券市场，推动美国国债收益率显著走低，日元等避险货币走强。然而，黄金、原油、铜等大宗商品以及比特币则遭遇无差别抛售，投资者被迫在流动性较高的资产上套现，以满",
+     "source": "华尔街见闻",
+     "zh": "黑色星期五！美股和商品全线重挫，英伟达暴跌14%，VIX涨破35，美债大涨"
+    },
+    {
+     "title": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调",
+     "link": "https://wallstreetcn.com/articles/3786417",
+     "pubDate": "Sat, 21 Nov 2026 06:56:01 +0800",
+     "summary": "美联储理事Lisa Cook（莉萨·库克）为其在10月议息会议上的异见投票公开作出解释，称当前利率水平不足以有效遏制通胀蔓延，落后于曲线的风险正在上升。与此同时，Cook还面临特朗普政府试图将其解雇的政治压力。 Cook周五在智利圣地亚哥出席一场政策会议时表示， 美联储10月决定暂停加息的举措有可能使央行在抗通胀斗争中落入被动。 她指出，当前3.75%至4%的联邦基金利率目标区间对于抑制通胀仍显不足，尤其是人工智能领域的投资热潮已成为今年通胀的重要推手，现有利率水平尚不足以对其产生明显抑制作用。 Cook的表态进一步强化了市场对12月再度加息的预期。交易员的金融市场押注显示，市场目前更倾向于美",
+     "source": "华尔街见闻",
+     "zh": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调"
+    },
+    {
+     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
+    },
     {
      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
@@ -2338,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "网络安全行业或迎史上最大并购：CrowdStrike洽购Zscaler，合并后市值或达2650亿美元"
     },
     {
-     "title": "United Bankshares declares $0.38 dividend",
-     "link": "https://seekingalpha.com/news/4675375-united-bankshares-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:31:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "United Bankshares declares $0.38 dividend"
+     "title": "全球市场：美股全线下挫 纳指跌超5% 费城半导体指数重挫近11% 英伟达跌逾14%",
+     "link": "http://stock.eastmoney.com/news/11784,202611213936579149.html",
+     "pubDate": "Sat, 21 Nov 2026 06:15:42 +0800",
+     "summary": "美股市场： 美股三大指数11月20日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌949.73点，收于48147.33点，跌幅为1.93%； 标准普尔 500种股票指数下跌265.44点，收于6910.39点，跌幅为3.70%，指数连续第七个交易日下跌，创2020年以来最长连跌纪录； 纳斯达克 综合 指数下跌1261.47点，收于22617.73点，跌幅为5.28%。本周标普500指数重挫8.61%，道指下跌8.02%， 纳斯达克 指数暴跌10.02%。标普500指数和道指均创2025年4月以来最大单周跌幅。 “AI交易”遭遇大幅抛售，费城 半导体 指数重挫近11%。个股方面， A",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股全线下挫 纳指跌超5% 费城半导体指数重挫近11% 英伟达跌逾14%"
     },
     {
      "title": "Nvidia faces US regulator’s probe into its accounting",
@@ -2416,86 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达正面临来自美国监管机构的多路围剿。 美国证券交易委员会（SEC）已就英伟达的会计实践展开调查，这是这家深陷丑闻的芯片巨头所遭遇的最新法律危机。 据路透社报道，两名知情人士透露，SEC执法人员正在审查英伟达潜在的会计问题。此前已报道SEC正在调查英伟达，但称无法确认调查重点。 此次调查进一步加剧英伟达投资者的担忧情绪。公司此前因黄仁勋离任而元气大伤。 英伟达股价单周重挫23%，创2008年10月份以来最大单周跌幅。周五收跌14%，报125.5美元，较10月高点243.4美元接近腰斩，市值跌至3.03万亿美元，被谷歌超越，位列美股第四。 与此同时，司法部也在就英伟达129亿美元收购开源平台H",
      "source": "华尔街见闻",
      "zh": "英伟达再遭SEC调查，会计问题是审查重点，股价已较10月高点腰斩"
-    },
-    {
-     "title": "甲骨文公司：预计2028财年下半年自由现金流将继续保持正值",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576424.html",
-     "pubDate": "Sat, 21 Nov 2026 05:05:54 +0800",
-     "summary": "甲骨文 公司：预计2028财年下半年自由现金流将继续保持正值。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "甲骨文公司：预计2028财年下半年自由现金流将继续保持正值"
-    },
-    {
-     "title": "CrowdStrike正洽谈收购网络安全公司Zscaler",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576332.html",
-     "pubDate": "Sat, 21 Nov 2026 05:05:54 +0800",
-     "summary": "CrowdStrike正洽谈收购 网络安全 公司Zscaler。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "CrowdStrike正洽谈收购网络安全公司Zscaler"
-    },
-    {
-     "title": "标普：赞比亚评级上调至“B-/B”；展望稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576245.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:35 +0800",
-     "summary": "标普：赞比亚评级上调至“B-/B”；展望稳定。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普：赞比亚评级上调至“B-/B”；展望稳定"
-    },
-    {
-     "title": "甲骨文公司：已获得履行与OpenAI合同所需的全部资金",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576125.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:34 +0800",
-     "summary": "甲骨文 公司：已获得履行与OpenAI合同所需的全部资金。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "甲骨文公司：已获得履行与OpenAI合同所需的全部资金"
-    },
-    {
-     "title": "标普将SNAP评级上调至“BB”；展望稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936575962.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:33 +0800",
-     "summary": "标普将SNAP评级上调至“BB”；展望稳定。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普将SNAP评级上调至“BB”；展望稳定"
-    },
-    {
-     "title": "多伦多股票指数<.GSPTSE>周跌幅达8.1%，为2020年3月以来最大跌幅",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936575829.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:33 +0800",
-     "summary": "多伦多股票指数 周跌幅达8.1%，为2020年3月以来最大跌幅。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "多伦多股票指数<.GSPTSE>周跌幅达8.1%，为2020年3月以来最大跌幅"
-    },
-    {
-     "title": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO",
-     "link": "https://wallstreetcn.com/articles/3786408",
-     "pubDate": "Sat, 21 Nov 2026 05:04:26 +0800",
-     "summary": "美国总统特朗普公开呼吁此前深陷丑闻的英伟达前任CEO黄仁勋进行“重大道歉”并重返原职，这一表态引发了市场对这家全球芯片巨头领导层前景的重新关注。 11月20日周五， 特朗普在美国白宫新闻发布会上明确表示，希望看到黄仁勋获得第二次机会。他称赞后者是“世界上真正最聪明的头脑之一”。 他强调，正是黄仁勋的领导使美国在技术领域领先其他公司长达十年之久。 尽管面临总统的公开施压，英伟达董事会此前已表明无意让这位饱受争议的前任高管回归。 此外，特朗普在讲话中淡化了该风波可能危及美国国家安全的担忧。政府高层对安全风险的轻描淡写，以及内阁部门在出口管制执行上的分歧，意味着围绕英伟达供应链的政策标准依然错综复杂",
-     "source": "华尔街见闻",
-     "zh": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO"
-    },
-    {
-     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-     "pubDate": "Fri, 20 Nov 2026 21:03:41 GMT",
-     "summary": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
-     "source": "CNBC",
-     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
-    },
-    {
-     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;",
-     "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-     "pubDate": "Fri, 20 Nov 2026 20:47:58 GMT",
-     "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-     "source": "CNBC",
-     "zh": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;"
-    },
-    {
-     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-     "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-     "pubDate": "Fri, 20 Nov 2026 20:19:49 GMT",
-     "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-     "source": "Financial Times",
-     "zh": "Trump considering new Iran strikes as US military warns of strain on forces"
     }
    ]
   },

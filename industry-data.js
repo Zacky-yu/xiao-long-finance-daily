@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 01:05:06",
+ "generated_at": "2026/11/21 01:16:18",
  "recent_days": 7,
  "industries": [
   {
@@ -50,14 +50,6 @@ window.INDUSTRY_DATA = {
      "zh": "Decision AI Explained in 5 Minutes"
     },
     {
-     "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
-     "link": "https://www.qbitai.com/2026/11/511722.html",
-     "pubDate": "Fri, 20 Nov 2026 12:18:01 +0000",
-     "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
-     "source": "量子位",
-     "zh": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax"
-    },
-    {
      "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
      "link": "https://zhidx.com/p/612799.html",
      "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
@@ -80,14 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西11月20日报道，昨夜，前DeepSeek研究员、Simplex AI创始人张博（Tony Zhang）宣布开源个人Agent Linger，号称要让Agent摆脱对云端数据中心的依赖，直接运行在用户自己的电脑上。项目发布后迅速引发关注，GitHub星标数已突破2k。 ▲Linger项目GitHub主页，来源：GitHub 开源地址： GitHub：https://github.com/simplexai-labs/linger 张博在推文中将这一变化比作个人电脑的诞生。上世纪60年代，计算能力集中在大型计算中心，直到个人电脑出现，计算能力才逐渐走",
      "source": "智东西",
      "zh": "前DeepSeek研究员，开源本地版Muse，实现token自由"
-    },
-    {
-     "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
-     "link": "https://www.qbitai.com/2026/11/511679.html",
-     "pubDate": "Fri, 20 Nov 2026 08:59:15 +0000",
-     "summary": "联合华为昇腾，五年冲刺十万卡",
-     "source": "量子位",
-     "zh": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂"
     },
     {
      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
      "source": "TechCrunch AI",
      "zh": "These tech outages are giving Y2K, AI agent style"
+    },
+    {
+     "title": "A game you cannot win unless you have a quantum computer",
+     "link": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+     "pubDate": "Thu, 19 Nov 2026 20:03:00 +0000",
+     "summary": "Quantum",
+     "source": "Google Research",
+     "zh": "A game you cannot win unless you have a quantum computer"
+    },
+    {
+     "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+     "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+     "pubDate": "Thu, 19 Nov 2026 18:13:21 +0000",
+     "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore,",
+     "source": "MarkTechPost",
+     "zh": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade"
     }
    ]
   },
@@ -266,14 +266,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -282,52 +274,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
+     "pubDate": "Fri, 20 Nov 2026 11:11:05 -0600",
+     "summary": "Brent tumbled 5% to $91 this week, as recovering Gulf oil flows outweigh tanker attacks, Houthi threats and escalating geopolitical tensions. Friday, November 20, 2026 Oil prices are set to post a 5% weekly drop as sentiment is still swayed by ample Middle Eastern barrels flowing to Asian customers.",
+     "source": "OilPrice",
+     "zh": "Tankers Are Being Hit Daily. So Why Is Oil Falling?"
+    },
+    {
      "title": "The 2026 Midterms Have Changed the Battle for American Energy",
      "link": "https://oilprice.com/Energy/Energy-General/The-2026-Midterms-Have-Changed-the-Battle-for-American-Energy.html",
      "pubDate": "Fri, 20 Nov 2026 11:00:00 -0600",
@@ -896,6 +904,14 @@ window.INDUSTRY_DATA = {
      "summary": "TMC’s seabed-mining pilot demonstrated collection, but the commercial case still depends on unproven annual output, uptime and operating costs. The post The Metals Company Has a Seabed Mining Production Gap That Its Pilot Has Not Closed appeared first on CleanTechnica .",
      "source": "CleanTechnica",
      "zh": "The Metals Company Has a Seabed Mining Production Gap That Its Pilot Has Not Closed"
+    },
+    {
+     "title": "New York awards ports $230M in repurposed offshore wind grants",
+     "link": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
+     "pubDate": "Fri, 20 Nov 2026 11:15:00 -0500",
+     "summary": "New York state is upgrading its ports for what it hopes will be a return to U.S. offshore wind development in the years after President Donald Trump leaves office. On Friday, Gov. Kathy Hochul (D) announced over $228 million in state funding for five projects to bolster maritime infrastructure along",
+     "source": "Canary Media",
+     "zh": "New York awards ports $230M in repurposed offshore wind grants"
     },
     {
      "title": "Is AI A Public Or A Private Asset?",
@@ -984,14 +1000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Enphase is rolling out residential and commercial storage, meter-collared vehicle-to-grid charging, and a medium-voltage solid-state transformer. The post Enphase highlights new batteries, bidirectional charging appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Enphase highlights new batteries, bidirectional charging"
-    },
-    {
-     "title": "India’s LPG Consumption Hits 8-Month High as Supply Rebounds",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-LPG-Consumption-Hits-8-Month-High-as-Supply-Rebounds.html",
-     "pubDate": "Fri, 20 Nov 2026 07:30:00 -0600",
-     "summary": "India’s consumption of liquefied petroleum gas (LPG) jumped to the highest level in eight months in October as supply has gradually recovered after the shock loss of shipments from the Middle East earlier this year. India’s demand for LPG, its primary cooking fuel, rose to 2.6 million tons in Octobe",
-     "source": "OilPrice",
-     "zh": "India’s LPG Consumption Hits 8-Month High as Supply Rebounds"
     },
     {
      "title": "‘Sodium is a chance for us to lean forward and win’: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Australia committed a record 2.4GW of renewable energy projects to construction in the third quarter of 2026, while battery energy storage systems (BESS) committed in the quarter covered 13% of the new storage capacity needed by 2030.",
      "source": "Energy Storage News",
      "zh": "Australia’s remaining BESS gap to 2030 could be in construction within 18 months, IEEFA scorecard finds"
-    },
-    {
-     "title": "Tesla plans US$3.1 billion polysilicon facility in Texas by 2030",
-     "link": "https://www.pv-tech.org/tesla-3-1-billion-polysilicon-facility-texas-2030/",
-     "pubDate": "Fri, 20 Nov 2026 09:39:56 +0000",
-     "summary": "US automotive and clean energy company Tesla has filed an application to build a US$3.1 billion polysilicon facility in Nueces County, Texas, US.",
-     "source": "PV Tech",
-     "zh": "Tesla plans US$3.1 billion polysilicon facility in Texas by 2030"
     }
    ]
   },
@@ -1434,6 +1434,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "Challenge: Public Input on Life and the World in 2075",
      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
      "pubDate": "Thu, 19 Nov 2026 19:34:20 +0000",
@@ -1490,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1530,28 +1546,20 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
     }
    ]
   },
@@ -1770,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
+     "link": "https://www.huxiu.com/article/4907330.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 01:02:18 +0800",
+     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 今夜，就在Anthropic股价暴跌的背景下。 Anthropic的数学家Levent Alpöge，在他自己的个人网站上，直接一纸官宣，说，自己和Claude一起，证明了黎曼猜想。 一石激起千层浪。 Levent Alpöge，2020年在普林斯顿拿的博士，导师是菲尔兹奖得主曼朱尔·巴尔加瓦，博士论文研究的就是数论。毕业后去了哈佛，当了哈佛学者学会的青年研究员，这是一个出了名难进的地方，后来，他加入了Anthropic。 他已经火过一次了，今年7月，他和Claude一起推翻了一个悬了87年的难题“雅可比猜想”，发在推特上的那个反例",
+     "source": "虎嗅",
+     "zh": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。"
+    },
+    {
+     "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
+     "pubDate": "Fri, 20 Nov 2026 17:01:45 +0000",
+     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+     "source": "WIRED",
+     "zh": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)"
+    },
+    {
      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
      "link": "https://news.ycombinator.com/item?id=50577613",
      "pubDate": "Fri, 20 Nov 2026 16:45:25 +0000",
@@ -1781,17 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "Language Models Can Rewrite Their Own Weights",
      "link": "https://arxiv.org/abs/2611.21885",
      "pubDate": "Fri, 20 Nov 2026 16:29:06 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 16 # Comments: 1",
+     "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 35 # Comments: 8",
      "source": "Hacker News",
      "zh": "Language Models Can Rewrite Their Own Weights"
     },
     {
-     "title": "Bending Spoons buys Mailchimp for $3.68 billion",
+     "title": "Bending Spoons buys Mailchimp for $3.68B",
      "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
      "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
      "source": "TechCrunch",
-     "zh": "Bending Spoons buys Mailchimp for $3.68 billion"
+     "zh": "Bending Spoons buys Mailchimp for $3.68B"
     },
     {
      "title": "全球制药巨头，披露AI成果",
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "I'll never buy Framework hardware again",
      "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
      "pubDate": "Fri, 20 Nov 2026 16:06:30 +0000",
-     "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 197 # Comments: 96",
+     "summary": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 273 # Comments: 169",
      "source": "Hacker News",
      "zh": "I'll never buy Framework hardware again"
     },
@@ -1885,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Finite-time blow-up for the Navier–Stokes equations",
      "link": "https://github.com/tristanbuckmaster/navier-stokes/",
      "pubDate": "Fri, 20 Nov 2026 15:34:31 +0000",
-     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 20 # Comments: 8",
+     "summary": "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 34 # Comments: 9",
      "source": "Hacker News",
      "zh": "Finite-time blow-up for the Navier–Stokes equations"
     },
@@ -1949,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Why there are still no non-WebKit browsers on iOS",
      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
      "pubDate": "Fri, 20 Nov 2026 15:03:31 +0000",
-     "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 117 # Comments: 51",
+     "summary": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 137 # Comments: 64",
      "source": "Hacker News",
      "zh": "Why there are still no non-WebKit browsers on iOS"
     },
@@ -1981,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
      "link": "https://alpo.ge/remark.pdf",
      "pubDate": "Fri, 20 Nov 2026 14:16:21 +0000",
-     "summary": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 1155 # Comments: 746",
+     "summary": "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 1239 # Comments: 823",
      "source": "Hacker News",
      "zh": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]"
     },
@@ -1992,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
      "source": "Ars Technica",
      "zh": "SpaceX lenders don’t want Elon Musk launching their collateral into space"
-    },
-    {
-     "title": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)",
-     "link": "https://www.techmeme.com/261120/p14#a261120p14",
-     "pubDate": "Fri, 20 Nov 2026 08:50:01 -0500",
-     "summary": "Ashley Capoot / CNBC : Anthropic raises an additional $12.2B as underwriters exercise their &ldquo;greenshoe&rdquo; overallotment of shares, bringing the total raised in its IPO to $93.5B &nbsp; &mdash;&nbsp; Anthropic underwriters have officially exercised their overallotment of shares in the histo",
-     "source": "Techmeme",
-     "zh": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)"
-    },
-    {
-     "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-     "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-     "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
-     "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
-     "source": "Ars Technica",
-     "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
     }
    ]
   },
@@ -2017,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Expect Samsung’s good-value Galaxy devices to get more expensive, report says",
+     "link": "https://9to5google.com/2026/11/20/samsungs-value-galaxy-devices-to-get-more-expensive/",
+     "pubDate": "Fri, 20 Nov 2026 17:07:16 +0000",
+     "summary": "Rising memory costs are hitting mid-range devices the hardest. The latest report suggests Samsung will increase the price of its Galaxy A device series by 19% next year. more…",
+     "source": "9to5Google",
+     "zh": "Expect Samsung’s good-value Galaxy devices to get more expensive, report says"
+    },
     {
      "title": "Black Friday Week deals: Moto Tag 2 $19, NXTPAPER Tab $190, Pixel Watch, Galaxy Watch, Amazon Echo Time, more",
      "link": "https://9to5google.com/2026/11/20/black-friday-deals-moto-tag-2-pixel-watch-galaxy-watch/",
@@ -2170,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple’s ‘just works’ approach is great, but goes a little too far"
     },
     {
-     "title": "Motorola confirms list of devices getting Android 17 updates",
-     "link": "https://9to5google.com/2026/11/20/motorola-confirms-list-of-devices-getting-android-17-updates/",
-     "pubDate": "Fri, 20 Nov 2026 14:40:00 +0000",
-     "summary": "Motorola has posted an updated list of devices getting its Android 17 update, with a few updates already available and many more left to go. more…",
-     "source": "9to5Google",
-     "zh": "Motorola confirms list of devices getting Android 17 updates"
-    },
-    {
      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
      "link": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review/",
      "pubDate": "Fri, 20 Nov 2026 14:30:00 +0000",
@@ -2266,52 +2274,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Noisy quarter, louder rally: Buy-side optimism trumps sell-side caution at Gap",
-     "link": "https://seekingalpha.com/news/4675207-noisy-quarter-louder-rally-buy-side-optimism-trumps-sell-side-caution-at-gap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:48:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Noisy quarter, louder rally: Buy-side optimism trumps sell-side caution at Gap"
+     "title": "Jensen Huang wasn&apos;t mentioned in latest talks with China, Bessent says",
+     "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+     "pubDate": "Fri, 20 Nov 2026 17:11:54 GMT",
+     "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
+     "source": "CNBC",
+     "zh": "Jensen Huang wasn&apos;t mentioned in latest talks with China, Bessent says"
     },
     {
-     "title": "Markets were overdue for a tech correction, but trade will bounce – JPMorgan’s David Kelly",
-     "link": "https://seekingalpha.com/news/4675239-markets-were-overdue-for-a-tech-correction-but-trade-will-bounce-jpmorgan-s-david-kelly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:45:10 -0500",
+     "title": "Hewlett Packard Q4 preview: What to expect",
+     "link": "https://seekingalpha.com/news/4675243-hewlett-packard-q4-preview-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:09:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Markets were overdue for a tech correction, but trade will bounce – JPMorgan’s David Kelly"
+     "zh": "Hewlett Packard Q4 preview: What to expect"
     },
     {
-     "title": "RLX signals “transitional working capital absorption” from U.K. excise duty while maintaining “minimum payout ratio of 100%”",
-     "link": "https://seekingalpha.com/news/4675238-rlx-signals-transitional-working-capital-absorption-from-u-k-excise-duty-while-maintaining?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:43:55 -0500",
+     "title": "Belite Bio drops on FDA review extension for tinlarebant NDA",
+     "link": "https://seekingalpha.com/news/4675237-belite-bio-drops-fda-review-extension-tinlarebant-nda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:06:34 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "RLX signals “transitional working capital absorption” from U.K. excise duty while maintaining “minimum payout ratio of 100%”"
+     "zh": "Belite Bio drops on FDA review extension for tinlarebant NDA"
     },
     {
-     "title": "Midday Need to Know: Anthropic shares fall, consumer sentiment revised up & more",
-     "link": "https://seekingalpha.com/news/4675233-midday-need-to-know-anthropic-shares-fall-consumer-sentiment-revised-up-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:43:54 -0500",
+     "title": "Post outlines fiscal 2027 back-half weighting while targeting debt allocation above 50%",
+     "link": "https://seekingalpha.com/news/4675245-post-outlines-fiscal-2027-back-half-weighting-while-targeting-debt-allocation-above-50?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:05:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Midday Need to Know: Anthropic shares fall, consumer sentiment revised up & more"
+     "zh": "Post outlines fiscal 2027 back-half weighting while targeting debt allocation above 50%"
     },
     {
-     "title": "Microsoft draws mixed signals as hedge funds reshuffle positions in Q3",
-     "link": "https://seekingalpha.com/news/4674866-microsoft-draws-mixed-signals-as-hedge-funds-reshuffle-positions-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:40:02 -0500",
+     "title": "BJ's raises FY2026 adjusted EPS outlook to $5.10-$5.30 while planning nearly 30 new clubs in 2027-2028",
+     "link": "https://seekingalpha.com/news/4675246-bjs-raises-fy2026-adjusted-eps-outlook-to-5_10-5_30-while-planning-nearly-30-new-clubs-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:05:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Microsoft draws mixed signals as hedge funds reshuffle positions in Q3"
+     "zh": "BJ's raises FY2026 adjusted EPS outlook to $5.10-$5.30 while planning nearly 30 new clubs in 2027-2028"
     },
     {
-     "title": "Apple in spotlight as UBS weighs in on iPhone Duo wait times",
-     "link": "https://seekingalpha.com/news/4675232-apple-in-spotlight-as-ubs-weighs-in-on-iphone-duo-wait-times?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 11:38:59 -0500",
+     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 17:05:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
+    },
+    {
+     "title": "Cable One, Inseego, among telecommunications names set to leave Russell 3000 Index",
+     "link": "https://seekingalpha.com/news/4675158-cable-one-inseego-among-telecommunications-names-set-to-leave-russell-3000-index?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:00:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Apple in spotlight as UBS weighs in on iPhone Duo wait times"
+     "zh": "Cable One, Inseego, among telecommunications names set to leave Russell 3000 Index"
+    },
+    {
+     "title": "Cable One, Gogo among telecommunications stocks to join Russell Microcap 3000; Elauwit Connection, IDT to exit",
+     "link": "https://seekingalpha.com/news/4675163-cable-one-gogo-among-telecommunications-stocks-to-join-russell-microcap-3000-elauwit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 12:00:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cable One, Gogo among telecommunications stocks to join Russell Microcap 3000; Elauwit Connection, IDT to exit"
     },
     {
      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
@@ -2320,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
      "source": "MarketWatch",
      "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
-    },
-    {
-     "title": "Jensen Huang wasn&apos;t mentioned in latest talks with China, Bessent says",
-     "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-     "pubDate": "Fri, 20 Nov 2026 16:34:16 GMT",
-     "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
-     "source": "CNBC",
-     "zh": "Jensen Huang wasn&apos;t mentioned in latest talks with China, Bessent says"
     },
     {
      "title": "花旗低估欧洲交易部门风险资产约350亿美元，称已完成整改",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "The AI fever in markets is breaking"
     },
     {
-     "title": "This closely watched investing guru just sold all of his stocks",
-     "link": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 15:23:00 GMT",
-     "summary": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim Klement has effectively had his personal retirement portfolio 100% invested in stocks for many years.",
-     "source": "MarketWatch",
-     "zh": "This closely watched investing guru just sold all of his stocks"
-    },
-    {
      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
      "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
      "pubDate": "Fri, 20 Nov 2026 15:20:54 GMT",
@@ -2458,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive"
     },
     {
-     "title": "美股三大指数涨跌不一 道指涨近1% 科技股集体下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611203936459528.html",
-     "pubDate": "Fri, 20 Nov 2026 23:11:38 +0800",
-     "summary": "美东时间周五，美股三大指数全线下跌，截至发稿，道琼斯指数跌0.45%，标普500指数跌1.86%， 纳斯达克 综合 指数跌3.16%。 科技股多数下跌， 截至发稿， 费城 半导体 指数跌超8%。个股方面， Anthropic 跌11.08%，报86.405美元，发行价为83美元； 闪迪 跌14.91%， 西部数据 跌12.66%，AMD跌11.29%， 台积电 跌8.28%， SpaceX 跌6.84%， 英特尔 跌3.80%。 零售股逆势上涨，截至发稿， 沃尔玛 涨2.65%， 劳氏 涨1.70%， 家得宝 涨1.68%。 国际金银价格延续下跌，截至发稿，现货 白银 跌3.66%，报41.3",
-     "source": "东方财富股票",
-     "zh": "美股三大指数涨跌不一 道指涨近1% 科技股集体下挫"
-    },
-    {
      "title": "美股三大指数走势分化 道指涨近1% 科技股集体下挫",
      "link": "http://finance.eastmoney.com/news/1345,202611203936459528.html",
      "pubDate": "Fri, 20 Nov 2026 23:11:38 +0800",
@@ -2474,36 +2474,44 @@ window.INDUSTRY_DATA = {
      "zh": "美股三大指数走势分化 道指涨近1% 科技股集体下挫"
     },
     {
-     "title": "白酒流通商跨界，拟斥资近8.5亿元买计算机部件！华致酒行布局新业务，自述面临多项风险",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936501058.html",
-     "pubDate": "Fri, 20 Nov 2026 23:11:00 +0800",
-     "summary": "华致酒行 （300755.SZ，股价9.07元，市值38亿元）将迈出跨界拓展新业务的关键一步。 公司11月20日晚间发布公告，全资子公司深圳华致科技有限公司（以下简称华致科技）拟与供应商A签署销售合同。华致科技计划采购一批 计算机 部件，含增值税总金额约为84844.00万元。 这笔近8.5亿元的采购被列为固定资产，属于公司布局新业务的首期设备投入。 华致酒行 在公告中坦言，跨界经营与外部供应链制约可能带来履约及管理风险。 华致科技拟斥资近8.5亿元采购 计算机设备 华致酒行 于2026年11月20日召开第六届董事会第八次会议，审议通过了全资子公司购买资产并签署合同的议案。本次交易无需提交股东",
-     "source": "东方财富股票",
-     "zh": "白酒流通商跨界，拟斥资近8.5亿元买计算机部件！华致酒行布局新业务，自述面临多项风险"
+     "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+     "pubDate": "Fri, 20 Nov 2026 15:00:00 GMT",
+     "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+     "source": "Federal Reserve",
+     "zh": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances"
     },
     {
-     "title": "英国对中国割草机器人启动反倾销调查 ，国内割草机龙头大叶股份将如何应对？",
-     "link": "http://stock.eastmoney.com/news/11216,202611203936500951.html",
-     "pubDate": "Fri, 20 Nov 2026 23:08:59 +0800",
-     "summary": "11月20日晚间，国内割草机龙头之一的 大叶股份 （300879.SZ，股价11.53元，市值23.34亿元）发布公告称，英国贸易救济局于2026年11月18日应企业申请，对原产于中国的割草 机器人 正式发起反倾销调查。 面对外部贸易环境变化，颇具此类经验的 大叶股份 表示，将调整境外生产基地的生产结构，并通过此前全资收购的德国子公司及奥地利生产基地承接欧洲当地的研发与生产制造。 英国发起割草 机器人 反倾销调查 公告显示，英国贸易救济局此次调查是应Husqvarna UK Limited的申请发起的，涉案产品为原产于中国的割草 机器人 。 \"\"“Husqvarna ”官网图片来源：网页截图 ",
-     "source": "东方财富股票",
-     "zh": "英国对中国割草机器人启动反倾销调查 ，国内割草机龙头大叶股份将如何应对？"
+     "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+     "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+     "pubDate": "Fri, 20 Nov 2026 14:59:38 GMT",
+     "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
+     "source": "CNBC",
+     "zh": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment"
     },
     {
-     "title": "美国司法部：工作人员不会被国会议员威吓",
-     "link": "http://finance.eastmoney.com/news/1351,202611203936500445.html",
-     "pubDate": "Fri, 20 Nov 2026 23:08:11 +0800",
-     "summary": "美国司法部：工作人员不会被国会议员威吓。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国司法部：工作人员不会被国会议员威吓"
+     "title": "美国科技人才开始逃离？H-1B签证持续收紧，高技能员工开始另寻出路",
+     "link": "https://wallstreetcn.com/articles/3786397",
+     "pubDate": "Fri, 20 Nov 2026 22:46:22 +0800",
+     "summary": "特朗普政府对移民政策的持续收紧，正将美国科技行业推向一场人才危机。 11月20日，据彭博报道， H-1B签证审批延误加剧、新规频出且充满不确定性，正迫使大批高技能外籍科技工作者放弃在美发展的计划，转而寻求他国机会。 在企业层面，IBM已宣布停止为其最大业务部门的多数职位提供签证担保，微软、Adobe等科技巨头则被禁止参与关键绿卡担保项目。 与此同时，本月中期选举结果虽对特朗普移民政策构成政治压力，但分析人士指出，新一届国会要逆转相关规则变化并非易事。 移民律师及行业团体警告，这场\"静悄悄的拆解\"已开始在数据层面显现： 美国2025财年发放的临时非移民签证较上年减少约26万份，今秋新增外国留学生",
+     "source": "华尔街见闻",
+     "zh": "美国科技人才开始逃离？H-1B签证持续收紧，高技能员工开始另寻出路"
     },
     {
-     "title": "日本政府关键网络业务系统遭非法访问",
-     "link": "http://finance.eastmoney.com/news/1351,202611203936494833.html",
-     "pubDate": "Fri, 20 Nov 2026 23:03:04 +0800",
-     "summary": "日本数字厅20日说，该厅运营的日本政府关键网络业务系统遭遇非法访问，政府内部资料可能已经外泄。 数字厅20日发布新闻公报说，该厅运营的政府关键网络业务系统“政府解决方案服务”遭遇非法访问，经由该服务处理过的部分文件可能泄露。 公报说，“政府解决方案服务”是面向政府机关的文件共享服务，用以在政府部门内部以及和外部相关人士之间共享会议资料等大容量文件。然而，数字厅于11月12日检测到可能有正规共享对象以外的非授权者访问了文件，随后展开调查。 根据现阶段调查，已确认至少在今年7月30日至11月12日期间发生了非授权者访问，可能导致上传至“政府解决方案服务”的部分文件泄露。数字厅表示，不排除这些文件中",
-     "source": "东方财富股票",
-     "zh": "日本政府关键网络业务系统遭非法访问"
+     "title": "英伟达股价创2025年6月以来新低 总市值降至3.36万亿美元被谷歌超越",
+     "link": "http://finance.eastmoney.com/news/1354,202611203936473670.html",
+     "pubDate": "Fri, 20 Nov 2026 22:40:56 +0800",
+     "summary": "英伟达 股价跌幅扩大至4.5%，报139.430美元/股，股价创2025年6月以来新低。 英伟达 11月累计下跌32%，总市值降至3.36万亿美元，被谷歌超越，位列美股第四。截至发稿，谷歌股价上涨2.27%，报278.850美元/股，总市值报3.43万亿美元。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "英伟达股价创2025年6月以来新低 总市值降至3.36万亿美元被谷歌超越"
+    },
+    {
+     "title": "Worldline shares plummet on FT report on cash advances",
+     "link": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 20 Nov 2026 14:39:00 GMT",
+     "summary": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial results in the years leading up to a 2023 profit warning.",
+     "source": "Finextra",
+     "zh": "Worldline shares plummet on FT report on cash advances"
     }
    ]
   },
@@ -2515,7 +2523,7 @@ window.INDUSTRY_DATA = {
    "items": [
     {
      "title": "An Anthropic mathematician claims to have proven the Riemann hypothesis. We have to rethink how we reward expertise.",
-     "link": "https://www.livescience.com/archaeology/human-evolution/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
+     "link": "https://www.livescience.com/physics-mathematics/mathematics/ai-is-forcing-us-to-rethink-what-mathematical-expertise-means-opinion",
      "pubDate": "Fri, 20 Nov 2026 16:52:18 +0000",
      "summary": "AI has upended the math community with a flood of results. We have to rethink how we assess which questions and answers matter — putting humans back at the center.",
      "source": "Live Science",

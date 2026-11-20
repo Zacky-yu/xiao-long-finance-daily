@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 08:52:00",
+ "generated_at": "2026/11/20 08:59:52",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Apple may be developing its own AI agent that runs your Mac",
+     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+     "pubDate": "Fri, 20 Nov 2026 00:56:01 +0000",
+     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+     "source": "TechCrunch AI",
+     "zh": "Apple may be developing its own AI agent that runs your Mac"
+    },
     {
      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -72,14 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore,",
      "source": "MarkTechPost",
      "zh": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade"
-    },
-    {
-     "title": "Google gives Gemini the ability to use your Mac for you",
-     "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-     "pubDate": "Thu, 19 Nov 2026 18:09:11 +0000",
-     "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-     "source": "TechCrunch AI",
-     "zh": "Google gives Gemini the ability to use your Mac for you"
     },
     {
      "title": "2万亿美元市值！超级富豪兄妹刚刚敲钟，创下史上最大IPO",
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&apos;s close, a 430%+ return on investment (Richard Nieva/Forbes)",
+     "link": "https://www.techmeme.com/261119/p56#a261119p56",
+     "pubDate": "Thu, 19 Nov 2026 19:50:59 -0500",
+     "summary": "Richard Nieva / Forbes : Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment &nbsp; &mdash;&nbsp; As the AI giant goes public in a historic IPO, these venture firms are reaping massive windfalls. &hellip; In",
+     "source": "Techmeme",
+     "zh": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&apos;s close, a 430%+ return on investment (Richard Nieva/Forbes)"
+    },
+    {
+     "title": "资本圈离婚图鉴：上亿天价分手费背后，A股大佬各有算盘",
+     "link": "https://www.tmtpost.com/8211528.html",
+     "pubDate": "Fri, 20 Nov 2026 08:42:00 +0800",
+     "summary": "一年多起离婚，大佬们都被分走了多少钱？",
+     "source": "钛媒体",
+     "zh": "资本圈离婚图鉴：上亿天价分手费背后，A股大佬各有算盘"
+    },
+    {
      "title": "马斯克真正的超能力，是让全世界替他付学费",
      "link": "https://www.huxiu.com/article/4907037.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 08:38:40 +0800",
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon now uses its shopping platform for political purposes.",
      "source": "Ars Technica",
      "zh": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
-    },
-    {
-     "title": "Synology Security Advisory",
-     "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-     "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 88 # Comments: 55",
-     "source": "Hacker News",
-     "zh": "Synology Security Advisory"
-    },
-    {
-     "title": "Best Amazon Black Friday Deals (2026)",
-     "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-     "pubDate": "Thu, 19 Nov 2026 22:02:12 +0000",
-     "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
-     "source": "WIRED",
-     "zh": "Best Amazon Black Friday Deals (2026)"
     }
    ]
   },
@@ -2274,6 +2274,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+     "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+     "pubDate": "Fri, 20 Nov 2026 00:53:55 GMT",
+     "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+     "source": "CNBC",
+     "zh": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
+    },
+    {
+     "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+     "pubDate": "Fri, 20 Nov 2026 00:52:17 GMT",
+     "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+     "source": "CNBC",
+     "zh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices"
+    },
+    {
+     "title": "罕见！CoreWeave联合创始人3000万美元买入自己债券",
+     "link": "https://wallstreetcn.com/articles/3786328",
+     "pubDate": "Fri, 20 Nov 2026 08:48:23 +0800",
+     "summary": "CoreWeave联合创始人以一笔罕见的债券自购行动，向市场传递信心信号。 CoreWeave联合创始人兼首席战略官Brian Venturo周三（11月18日）在LinkedIn发文披露，他已买入该公司面值3000万美元的无担保债券，并计划持有至2031年10月1日到期。 “我对CoreWeave的信心从未如此之强，”他写道。 CoreWeave随后在社交平台X上转发了这一表态。 消息公布后，CoreWeave股价周四盘中一度涨逾10.5%，但随后受科技板块整体走弱拖累转跌，最终收跌6%。该股自10月初以来已累计下跌近50%。 值得注意的是，与高管买入股票须在两个工作日内向美国证券交易委员会",
+     "source": "华尔街见闻",
+     "zh": "罕见！CoreWeave联合创始人3000万美元买入自己债券"
+    },
+    {
+     "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+     "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 00:42:44 GMT",
+     "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+     "source": "Financial Times",
+     "zh": "US approved sale of Nvidia and AMD chips to Chinese companies"
+    },
+    {
      "title": "Trendforce看跌2027年NAND闪存价格，因中国云厂砍单影响超过北美需求增长",
      "link": "https://wallstreetcn.com/articles/3786329",
      "pubDate": "Fri, 20 Nov 2026 08:40:17 +0800",
@@ -2320,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月20日亚洲交易时段，国际现货 黄金 价格一度跌破3600美元/盎司，短短8个交易日接连失守4000、3900、3800、3700、3600整数关口。 伴随着持续下跌的金价，深圳水贝又火热了起来。 11月19日下午，澎湃新闻记者在国内最大 黄金 珠宝交易集散地深圳水贝走访看到，尽管是工作日，市场内依旧有不少前来选购的消费者，不少柜台前人头攒动。人群中以年轻情侣、结伴挑选的年轻女性为主，也有不少带着孩子一同前来的夫妇。 深圳水贝商场入口。图片来源：澎湃新闻记者孙铭蔚 “最近金价加速下行，成交量比之前提高了两三成。今天还不算人最多的时候，周末才是人挤人。”一名柜台商家告诉记者，近期询价、下单的",
      "source": "东方财富资讯",
      "zh": "现货黄金跌破3600美元！实探深圳水贝：买家等到了心理价位 商家却喊“补早了”"
-    },
-    {
-     "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-     "pubDate": "Fri, 20 Nov 2026 00:29:24 GMT",
-     "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-     "source": "CNBC",
-     "zh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices"
     },
     {
      "title": "英国消费者信心回暖，黑五购物季前夕零售商暂获喘息",
@@ -2410,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "AMD dives on short seller report of alleged China exposure"
     },
     {
-     "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-     "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-     "pubDate": "Fri, 20 Nov 2026 00:02:36 GMT",
-     "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-     "source": "CNBC",
-     "zh": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
-    },
-    {
      "title": "11月20日投资日历 | 英国-欧盟峰会将于今日在布鲁塞尔举行",
      "link": "http://finance.eastmoney.com/news/11848,202611203935660423.html",
      "pubDate": "Fri, 20 Nov 2026 08:01:41 +0800",
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争。 11月19日，据彭博报道， 苹果公司正在开发一款能够代替用户完成任务的自主人工智能智能体，正式进军由OpenAI、Anthropic、Meta等公司激烈角逐的赛道。 此前11月18日苹果官网新增一条招聘信息， 透露公司正在寻找一名高级工程经理，负责一款主动式、智能体化的AI助手。 该系统能够编写代码、浏览网页、控制应用，并在设备上代替用户操作。 这一动向出现在AI智能体加速渗透消费端的时点。 Meta的Muse近月来凭借代订餐厅、预订行程和生成新闻简报等能力赢得消费者关注，其应用长期占据苹果App Store免费榜第二",
      "source": "华尔街见闻",
      "zh": "苹果公司正开发自家AI智能体，以期与OpenAI、Anthropic竞争"
-    },
-    {
-     "title": "黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断",
-     "link": "https://wallstreetcn.com/articles/3786322",
-     "pubDate": "Fri, 20 Nov 2026 07:14:43 +0800",
-     "summary": "Visa、万事达和摩根大通相继证实，一家或多家第三方服务商遭黑客攻击，导致部分客户信息外泄。三家机构均强调，自身支付网络和核心系统未受波及，但这一事件仍加剧了市场对大型金融机构网络安全的担忧。 据摩根大通周四声明，黑客入侵了其一家外部合作方，获取了部分营销数据，可能涉及客户姓名和电子邮件地址，并重申该事件与本周早些时候的服务中断无关。 Visa表示，事件源于亚洲一家第三方公司，其自身系统未受影响，支付数据（如卡号）未被波及。 万事达则称泄露内容为\"特定福利项目部分持卡人的有限非支付信息\"，主要为电子邮件地址，网络运营未受任何冲击。 三家公司股价当日均有不同程度下跌。周四Visa股价收跌3.1%",
-     "source": "华尔街见闻",
-     "zh": "黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断"
-    },
-    {
-     "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-     "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 23:11:00 GMT",
-     "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
-     "source": "MarketWatch",
-     "zh": "These were the only stocks that rose amid the stock market’s wipeout Thursday"
     }
    ]
   },

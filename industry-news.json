@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/20 10:12:06",
+ "generated_at": "2026/11/20 10:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+     "link": "https://www.qbitai.com/2026/11/511426.html",
+     "pubDate": "Fri, 20 Nov 2026 01:07:38 +0000",
+     "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+     "source": "量子位",
+     "zh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了"
+    },
     {
      "title": "Apple may be developing its own AI agent that runs your Mac",
      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -239,14 +247,6 @@
      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safety res",
      "source": "arXiv cs.AI",
      "zh": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research"
-    },
-    {
-     "title": "Language Models Can Rewrite Their Own Weights",
-     "link": "https://arxiv.org/abs/2611.21885",
-     "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language mod",
-     "source": "arXiv cs.AI",
-     "zh": "Language Models Can Rewrite Their Own Weights"
     }
    ]
   },
@@ -873,6 +873,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Volkswagen ID Buzz Made For Sleeping In",
+     "link": "https://cleantechnica.com/2026/11/19/volkswagen-id-buzz-made-for-sleeping-in/",
+     "pubDate": "Fri, 20 Nov 2026 02:15:12 +0000",
+     "summary": "The Volkswagen ID Buzz has not been a big hit in the US (where it’s just too expensive and doesn’t even provide a lot of range), but it’s still one of my favorite vehicles. I would certainly have one in my driveway if I had enough money for one. Part ... [continued] The post Volkswagen ID Buzz Made ",
+     "source": "CleanTechnica",
+     "zh": "Volkswagen ID Buzz Made For Sleeping In"
+    },
+    {
      "title": "Canada Builds an Energy Exit From the U.S.",
      "link": "https://oilprice.com/Energy/Energy-General/Canada-Builds-an-Energy-Exit-From-the-US.html",
      "pubDate": "Thu, 19 Nov 2026 19:00:00 -0600",
@@ -980,7 +988,7 @@
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
+     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1007,14 +1015,6 @@
      "summary": "Duo cuts the number of optimizers needed in half, works with dual-tilt racking and with Arc Fault Detection, every optimizer becomes an arc sensor. The post SolarEdge debuts dual-module power optimizer appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "SolarEdge debuts dual-module power optimizer"
-    },
-    {
-     "title": "Last Chance to Get It Right: The Industrial Accelerator Act Will Make or Break Europe’s Battery Industry",
-     "link": "https://cleantechnica.com/2026/11/19/last-chance-to-get-it-right-the-industrial-accelerator-act-will-make-or-break-europes-battery-industry/",
-     "pubDate": "Thu, 19 Nov 2026 14:53:38 +0000",
-     "summary": "How the Franco-German auto deal, a wide Made-with-EU scope, and carmakers abandon Europe’s battery value chain to foreign competitors. Getting the Industrial Accelerator Act right There is a growing consensus that Europe must reduce its reliance on Chinese cleantech, especially batteries The IAA mar",
-     "source": "CleanTechnica",
-     "zh": "Last Chance to Get It Right: The Industrial Accelerator Act Will Make or Break Europe’s Battery Industry"
     },
     {
      "title": "PJM urged to delay base capacity auction until data centers cut from forecast",
@@ -1100,7 +1100,7 @@
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1209,12 +1209,12 @@
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1777,12 +1777,84 @@
    "total": 18,
    "items": [
     {
+     "title": "Source: National Cyber Director Sean Cairncross was \"fired\" from his role; the president \"fully supported\" the firing days after a wave of tech-related outages (Courtney Rozen/Reuters)",
+     "link": "https://www.techmeme.com/261119/p58#a261119p58",
+     "pubDate": "Thu, 19 Nov 2026 21:20:55 -0500",
+     "summary": "Courtney Rozen / Reuters : Source: National Cyber Director Sean Cairncross was &ldquo;fired&rdquo; from his role; the president &ldquo;fully supported&rdquo; the firing days after a wave of tech-related outages &nbsp; &mdash;&nbsp; White House national cyber director Sean Cairncross was &ldquo;fired",
+     "source": "Techmeme",
+     "zh": "Source: National Cyber Director Sean Cairncross was \"fired\" from his role; the president \"fully supported\" the firing days after a wave of tech-related outages (Courtney Rozen/Reuters)"
+    },
+    {
+     "title": "高市早苗在深圳大谈“经济韧性”, 却绕不开一颗“大卸八块”的白菜",
+     "link": "https://www.huxiu.com/article/4907076.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 10:19:43 +0800",
+     "summary": "本文来自微信公众号： 文化纵横 ，编辑：魏嘉怡，作者：钟淑如 【导读】近日，日本首相高市早苗飞抵深圳，引发公众关注。日本政府此前表示，她将在APEC期间就贸易与投资、区域经济整合、经济与能源韧性、数字经济等议题阐明立场。然而日本媒体报道，当前日本通胀情况严重，在民生环节，继日本大米被炒至天价之后，叶类蔬菜的价格持续走高。一棵白菜零售价普遍超过1000日元，约合42.3元人民币；生菜价格约为往年的2.5倍，圆白菜和白菜约为往年的2倍。日本农林水产省的统计显示，东京都中央批发市场监控的15种蔬菜中，有11种高于过去五年平均值。超市把白菜切成四分之一或八分之一出售，豆芽作为平价替代常被抢购一空。 反",
+     "source": "虎嗅",
+     "zh": "高市早苗在深圳大谈“经济韧性”, 却绕不开一颗“大卸八块”的白菜"
+    },
+    {
+     "title": "黄仁勋的最后一季财报",
+     "link": "https://www.tmtpost.com/8212036.html",
+     "pubDate": "Fri, 20 Nov 2026 10:19:05 +0800",
+     "summary": "克雷斯在电话会上只回了一句，“我们能搞定”。",
+     "source": "钛媒体",
+     "zh": "黄仁勋的最后一季财报"
+    },
+    {
+     "title": "北美 AI 应用订阅定价：CPA 涨到 38 美元后该不该上调年费档？",
+     "link": "https://www.baijing.cn/question/638839",
+     "pubDate": "Fri, 20 Nov 2026 02:09:47 +0000",
+     "summary": "我们做一款面向北美（美国 / 加拿大）的 AI 写作助手，iOS 和 Web 双端，目前团队 8 人，处于起量阶段，月投放预算约 4 万美元，主要跑 Meta 和 Google UAC。最近两周美国区订阅转化 CPA 从 26 美元涨到 38 美元，加拿大也涨了约 30%，付费率没明显变化，但首月留存只有 21%。现在的定价是月费 12.99 美元、年费 79.99 美元，试过把年费降到 59.99 美元做促销，结果 CPA 没降、ARPU 反而掉了。卡在不知道该先调价还是先优化素材和落地页，想直接问：在这种 CPA 水平下，年费档位应该往上调还是先维持、把预算转去留存？",
+     "source": "白鲸出海",
+     "zh": "北美 AI 应用订阅定价：CPA 涨到 38 美元后该不该上调年费档？"
+    },
+    {
+     "title": "李书福：吉利将协同旗下大学面向全球招收本硕博学生，培养新型全球化人才，上学即上岗",
+     "link": "https://www.ithome.com/1/029/798.htm",
+     "pubDate": "Fri, 20 Nov 2026 02:08:44 GMT",
+     "summary": "IT之家 11 月 20 日消息，据新浪科技报道，吉利控股集团董事长李书福今日（11 月 20 日）在 2026 芯位教育论坛上表示，当前世界正面临新型全球化与地缘政治的双重挑战，变化剧烈、冲突频发。在这样的背景下，吉利控股集团将继续协同旗下教育与人才板块的几所学校联合培养人才，并把这一培养规模扩大到全球， 招收本硕博学生，培养新型全球化人才 。 李书福认为，新型全球化的本质，就是新型的本土化；而新型本土化的前提，是就业本土化、人力资源本土化。为此，吉利控股集团将协同旗下大学面向全球招生， 因地制宜地为吉利培养世界各国的本土化人才，并根据吉利在全球不同国家、不同项目的需要，规划招生规模、生源质",
+     "source": "IT之家",
+     "zh": "李书福：吉利将协同旗下大学面向全球招收本硕博学生，培养新型全球化人才，上学即上岗"
+    },
+    {
      "title": "55亿山东富豪尽显豪气，“白送”上市公司超2亿“大礼”",
      "link": "https://www.tmtpost.com/8211578.html",
      "pubDate": "Fri, 20 Nov 2026 10:08:00 +0800",
      "summary": "无论是从股权价值还是财务数据来看，亚振家居实控人给公司免费送上的这份“大礼”都可谓“诚意十足”。",
      "source": "钛媒体",
      "zh": "55亿山东富豪尽显豪气，“白送”上市公司超2亿“大礼”"
+    },
+    {
+     "title": "五菱缤果 Pro 新增宁德时代电芯版，将于 11 月 24 日正式上市",
+     "link": "https://www.ithome.com/1/029/797.htm",
+     "pubDate": "Fri, 20 Nov 2026 02:07:01 GMT",
+     "summary": "IT之家 11 月 20 日消息，五菱汽车今日宣布为缤果 Pro 增推新的宁德时代电芯版，将于 11 月 24 日正式上市。 新车在外观、尺寸与动力上均与现款保持一致，核心变化在于电芯供应商的扩展。这也是五菱旗下 A0 级纯电代步车首次引入宁德时代电芯。 缤果 Pro 目前在售车型共 4 款配置，指导价区间为 5.68 万至 7.08 万元。车身长宽高为 4050/1758/1580mm，轴距 2560mm，采用五门五座布局。全系搭载最大功率 65kW 的前置单电机，最高车速 130km/h。 续航方面，现款缤果 Pro 提供 31.9kWh 与 37.9kWh 两种磷酸铁锂电池包，对应 CL",
+     "source": "IT之家",
+     "zh": "五菱缤果 Pro 新增宁德时代电芯版，将于 11 月 24 日正式上市"
+    },
+    {
+     "title": "诺奖得主，融了330亿",
+     "link": "https://www.huxiu.com/article/4907071.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 10:03:25 +0800",
+     "summary": "本文来自微信公众号： 东四十条资本 ，作者：刘燕秋 这会是AI泡沫里催生的又一个“大故事”吗？ 早在剑桥求学时，有一位生物学家朋友跟哈萨比斯聊起蛋白质结构的奥秘。朋友说，如果能精准描绘出蛋白质的结构，就能实现重大的医学突破。这只是一次短暂的交谈，但哈萨比斯深深记在脑海里。 11月17日，哈萨比斯担任总裁的Isomorphic Labs宣布完成50亿美元（约合330亿元）的C轮融资，估值已经超过500亿美元（约合3300亿元）。 本轮融资由Greenoaks和红杉资本共同领投，还有Andreessen Horowitz（a16z）和其他几家新投资者，Alphabet继续进行重大投资。所有老股东都",
+     "source": "虎嗅",
+     "zh": "诺奖得主，融了330亿"
+    },
+    {
+     "title": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人",
+     "link": "https://www.ithome.com/1/029/795.htm",
+     "pubDate": "Fri, 20 Nov 2026 02:03:05 GMT",
+     "summary": "IT之家 11 月 20 日消息，VideoGamesChronicle 今日报道称，育碧成立了一家专注于游戏 AI 技术的新子公司 Motherbrain，负责研发用于游戏玩法创新的 AI 技术，并为旗下游戏开发团队提供支持。 根据育碧 11 月 19 日公布的 2026-2027 财年上半年财报，公司确认 Motherbrain 已正式成为独立子公司，主要负责开发游戏领域的生成式 AI 技术，支持旗下各个游戏创作团队探索新的玩法体验。 育碧联合创始人兼首席执行官 Yves Guillemot 表示，Motherbrain 是公司首个可实际体验的生成式 AI 项目 Teammates 背后的",
+     "source": "IT之家",
+     "zh": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人"
+    },
+    {
+     "title": "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世",
+     "link": "https://www.ithome.com/1/029/794.htm",
+     "pubDate": "Fri, 20 Nov 2026 02:01:34 GMT",
+     "summary": "IT之家 11 月 20 日消息，Chiphell 消息人士 @zhangzhonghao 本月 16 日表示，AMD 的 \"Zen 6\" 微架构主流桌面级处理器 \"Olympic Ridge\" 要到“ COMPUTEX (2027) 以后才能看到了 ”，同时配套的主板芯片组也有一定程度的升级。 IT之家注意到，COMPUTEX 2027 将于明年 6 月 1~4 日举行。另一位消息人士 @High Yield 肯定 \"Olympic Ridge\" 计算芯粒使用台积电 N2X 工艺 的说法，但表示并未发生制程切换。 根据台积电的官方声明，N2X 由两个组成部分构成：超高性能标准单元和高速器件，",
+     "source": "IT之家",
+     "zh": "消息称 AMD \"Zen 6\" 主流桌面处理器要到 COMPUTEX 2027 后方能面世"
     },
     {
      "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
@@ -1865,52 +1937,12 @@
      "zh": "Anthropic上市，10个值得关注的真相"
     },
     {
-     "title": "爆料者 Cyberleek 公布疑似《GTA 6》Xbox 版文件，一周内有望实现 PC 模拟运行",
-     "link": "https://www.ithome.com/1/029/791.htm",
-     "pubDate": "Fri, 20 Nov 2026 01:45:19 GMT",
-     "summary": "IT之家 11 月 20 日消息，知名《GTA 6》爆料者 Cyberleek（昵称“大葱哥”）再度现身，声称已经掌握《侠盗猎车手 6》（GTA 6）的完整 Xbox 游戏文件，并开始通过 BT 网络进行分发。 与此同时，Cyberleek 网站上出现了名为“XBOX BUILD 1.0.2.1 (NOV 2026)”的下载项目，文件总量约为 209GB。不过，他所放出的文件中暂时缺少启动游戏所必需的主程序文件（.exe）。 Cyberleek 声称，此次泄露的是 Xbox 版本，而非此前外界关注的 PC 版本，文件体积约为 209GB。不过，压缩包中缺少主程序文件，因此即使获得其他游戏文件也",
-     "source": "IT之家",
-     "zh": "爆料者 Cyberleek 公布疑似《GTA 6》Xbox 版文件，一周内有望实现 PC 模拟运行"
-    },
-    {
-     "title": "大众海外发布电动露营车 ID. Buzz Beach，配备 2m × 1.2m 折叠床垫",
-     "link": "https://www.ithome.com/1/029/790.htm",
-     "pubDate": "Fri, 20 Nov 2026 01:44:32 GMT",
-     "summary": "IT之家 11 月 20 日消息，Volkswagen（大众）商用车部门当地时间 19 日发布电动露营车 ID. Buzz Beach。这一车型配备可拆卸床架和展开后 2×1.2 (m) 的定制折叠床垫， 可供两人舒适睡眠 。 ID. Buzz Beach 还提供了隐藏式折叠桌椅、遮光窗帘、前窗通风格栅。其新增“过夜”模式， 可提供最长 48hr 的内部温度控制 ，保障整个周末的舒适体验；此外其 支持 V2L 电力输出 ，标配 230V 插座。 IT之家了解到，ID. Buzz Beach 提供 5 / 6 / 7 座版本；在英国市场的本体起售价为 53,955 英镑，最终到手价为 65,83",
-     "source": "IT之家",
-     "zh": "大众海外发布电动露营车 ID. Buzz Beach，配备 2m × 1.2m 折叠床垫"
-    },
-    {
-     "title": "6 位 PIN 码破解从 19 年缩至 20 天：部分微软 Win11 设备 TPM 防暴力破解机制被绕过",
-     "link": "https://www.ithome.com/1/029/789.htm",
-     "pubDate": "Fri, 20 Nov 2026 01:43:17 GMT",
-     "summary": "IT之家 11 月 20 日消息，柏林工业大学研究团队公布 Hello Again 硬件安全研究， 指出攻击者若能拆开电脑并接触主板闪存与处理器之间的通信链路，能绕过 TPM 的错误尝试锁定机制，从而暴力反复猜测 Windows 11 系统的锁屏 PIN 密码。 在技术原理方面，部分电脑会将固件 TPM 的状态数据（包括 PIN 错误次数）保存在主板闪存中。系统原本借助一种名为重放保护单调计数器（RPMC）的单调计数机制，防止旧状态被恢复。但研究人员发现，部分闪存芯片或处理器固件的实现存在缺陷，可能让攻击者回滚这份状态，让错误计数无法按预期累积。 论文报告了两条可行路径，其一是部分 Winbo",
-     "source": "IT之家",
-     "zh": "6 位 PIN 码破解从 19 年缩至 20 天：部分微软 Win11 设备 TPM 防暴力破解机制被绕过"
-    },
-    {
-     "title": "消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰",
-     "link": "https://www.ithome.com/1/029/787.htm",
-     "pubDate": "Fri, 20 Nov 2026 01:40:32 GMT",
-     "summary": "IT之家 11 月 20 日消息，博主 @数码闲聊站 今日爆料，vivo 春节前还有 vivo S70 系列、 iQOO 16 R 等机型登场，并曝光新机部分配置。 vivo S70 系列 ：64Mp 旗舰级长焦 + 全新影像外设 iQOO 16R ：中屏轻旗舰 + 骁龙 8 系新平台 作为参考，今年 5 月发布的 vivo S60 系列手机定价为 2899 元起。规格方面，vivo S60 手机搭载骁龙 8s Gen 3 处理器，元气版机型搭载天玑 7500 处理器，两款手机标配 3D 超声波指纹，同时均搭载 7200mAh 超薄蓝海电池，支持 90W 有线充电，还提供了 IP68&amp;",
-     "source": "IT之家",
-     "zh": "消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰"
-    },
-    {
      "title": "估值1300亿，三个辍学00后做AI，英伟达、阿里抢着买单",
      "link": "https://www.tmtpost.com/8211639.html",
      "pubDate": "Fri, 20 Nov 2026 09:38:29 +0800",
      "summary": "Mercor估值突破200亿美元。",
      "source": "钛媒体",
      "zh": "估值1300亿，三个辍学00后做AI，英伟达、阿里抢着买单"
-    },
-    {
-     "title": "元宝退？WorkBuddy进",
-     "link": "https://www.tmtpost.com/8211510.html",
-     "pubDate": "Fri, 20 Nov 2026 09:38:24 +0800",
-     "summary": "元宝收缩投入，腾讯重新计算AI的商业价值。",
-     "source": "钛媒体",
-     "zh": "元宝退？WorkBuddy进"
     },
     {
      "title": "四点健身，九点上班，韩国人真的把睡眠进化掉了吗？",
@@ -1921,14 +1953,6 @@
      "zh": "四点健身，九点上班，韩国人真的把睡眠进化掉了吗？"
     },
     {
-     "title": "人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑",
-     "link": "https://www.huxiu.com/article/4907053.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 09:29:51 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟。它们不能像宇树那样，在春晚上表演个后空翻就能轻易获得认可，反而需要更费力的商业化验证，才能获得谨慎市场的更多买单。 在这些大佬之外，是更多散落在产业末梢、如星点般入局的普通人。比如人形机器人租赁商，他们很多都是创业者，本想赶上一波风口，赚",
-     "source": "虎嗅",
-     "zh": "人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑"
-    },
-    {
      "title": "沙特展会新规要求预注册后，我们现场扫码获客量掉了四成，中东B2B展会还能怎么合规抓线索？",
      "link": "https://www.baijing.cn/question/638837",
      "pubDate": "Fri, 20 Nov 2026 01:24:32 +0000",
@@ -1937,12 +1961,12 @@
      "zh": "沙特展会新规要求预注册后，我们现场扫码获客量掉了四成，中东B2B展会还能怎么合规抓线索？"
     },
     {
-     "title": "史上最大IPO诞生",
-     "link": "https://www.huxiu.com/article/4907048.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 09:12:42 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：付静 受资本市场及科技产业瞩目的AI巨头Anthropic正式登陆纳斯达克。 19日美股开盘，Anthropic IPO短暂提振了美股市场情绪。直至盘中，Anthropic开始交易，一度涨约39%报115.10美元，之后快速回落，收涨17.07%，同时带动美三大股指集体收跌。更有投资者称，这家成立不满6年就创下史上最大IPO纪录的AI企业“凭一己之力，带崩了整个美股”。 据悉，Anthropic IPO定价每股83美元，发行规模9.8亿股，合计募资约813亿美元，叠加来自谷歌、英伟达、AMD、博通、美光、微软及台积电“七巨头”的260亿美元私募配售，总募资",
-     "source": "虎嗅",
-     "zh": "史上最大IPO诞生"
+     "title": "Vint Cerf on why TCP/IP was never patented",
+     "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+     "pubDate": "Fri, 20 Nov 2026 01:06:12 +0000",
+     "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 6 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Vint Cerf on why TCP/IP was never patented"
     },
     {
      "title": "北美独立站Shopify转化率1.1%，广告CPA 68美元还能撑多久？",
@@ -1988,33 +2012,9 @@
      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
      "link": "https://git-aarvin.github.io/mei/",
      "pubDate": "Thu, 19 Nov 2026 23:35:35 +0000",
-     "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 110 # Comments: 59",
+     "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 125 # Comments: 72",
      "source": "Hacker News",
      "zh": "Gemini 4 Neon is the new #1 on the Models Engineering Index"
-    },
-    {
-     "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-     "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-     "pubDate": "Thu, 19 Nov 2026 23:32:11 +0000",
-     "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 92 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers"
-    },
-    {
-     "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
-     "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
-     "pubDate": "Thu, 19 Nov 2026 23:12:17 +0000",
-     "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
-     "source": "WIRED",
-     "zh": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women"
-    },
-    {
-     "title": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&apos;s resignation (The Information)",
-     "link": "https://www.techmeme.com/261119/p54#a261119p54",
-     "pubDate": "Thu, 19 Nov 2026 18:00:01 -0500",
-     "summary": "The Information : Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation &nbsp; &mdash;&nbsp; Nvidia is in advanced talks to acquire Inception, a two-year-old startup that develops a type of AI that ai",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&apos;s resignation (The Information)"
     }
    ]
   },
@@ -2273,12 +2273,68 @@
    "total": 13,
    "items": [
     {
+     "title": "Hamilton Beach Brands declares $0.125 dividend",
+     "link": "https://seekingalpha.com/news/4675002-hamilton-beach-brands-declares-0_125-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 21:18:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hamilton Beach Brands declares $0.125 dividend"
+    },
+    {
+     "title": "Avnet declares $0.37 dividend",
+     "link": "https://seekingalpha.com/news/4674999-avnet-declares-0_37-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 21:18:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Avnet declares $0.37 dividend"
+    },
+    {
+     "title": "Molson Coors declares $0.48 dividend",
+     "link": "https://seekingalpha.com/news/4675000-molson-coors-declares-0_48-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 21:17:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Molson Coors declares $0.48 dividend"
+    },
+    {
+     "title": "Vallant Financial, Inc. declares $0.16 dividend",
+     "link": "https://seekingalpha.com/news/4675001-vallant-financial-inc-declares-0_16-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 21:17:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vallant Financial, Inc. declares $0.16 dividend"
+    },
+    {
+     "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+     "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+     "pubDate": "Fri, 20 Nov 2026 02:14:50 GMT",
+     "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
+     "source": "CNBC",
+     "zh": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
+    },
+    {
+     "title": "2027保险“开门红”：分红险站上C位",
+     "link": "http://www.eeo.com.cn/2026/1120/1097735.shtml",
+     "pubDate": "Fri, 20 Nov 2026 10:06:45 +0800",
+     "summary": "相比去年，今年保险公司在分红险产品的开发上更为坚定，已经将其从“补充品类”变成了“主力品类”。",
+     "source": "经济观察网",
+     "zh": "2027保险“开门红”：分红险站上C位"
+    },
+    {
      "title": "Natural Grocers outlines 2%-3% comp growth and $2.03-$2.10 EPS for fiscal 2027 while expanding to 7-9 new stores",
      "link": "https://seekingalpha.com/news/4674998-natural-grocers-outlines-2-percentminus-3-percent-comp-growth-and-2_03-2_10-eps-for-fiscal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 19 Nov 2026 21:04:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Natural Grocers outlines 2%-3% comp growth and $2.03-$2.10 EPS for fiscal 2027 while expanding to 7-9 new stores"
+    },
+    {
+     "title": "牵涉侵害技术秘密案 达利凯普状告元瓷聚光",
+     "link": "http://www.eeo.com.cn/2026/1120/1097730.shtml",
+     "pubDate": "Fri, 20 Nov 2026 09:56:00 +0800",
+     "summary": "《声明》指出，就元瓷聚光及相关自然人侵害达利凯普技术秘密一事，达利凯普向北京知识产权法院提起诉讼并获立案，诉讼标的额数千万元。",
+     "source": "经济观察网",
+     "zh": "牵涉侵害技术秘密案 达利凯普状告元瓷聚光"
     },
     {
      "title": "Tsakos Energy Navigation plans Singapore dual listing in Q1 while earmarking $150M for preferred and common repurchases",
@@ -2297,6 +2353,14 @@
      "zh": "A股三大股指早盘下跌，创业板跌近3%，银行、煤炭逆势走强，恒科指跌超3%，权重科网股普遍下跌"
     },
     {
+     "title": "11月LPR报价出炉：1年期报3%、5年期以上3.5%，连续18个月保持不变",
+     "link": "http://www.eeo.com.cn/2026/1120/1097712.shtml",
+     "pubDate": "Fri, 20 Nov 2026 09:49:34 +0800",
+     "summary": "11月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%，连续18个月保持不变。",
+     "source": "经济观察网",
+     "zh": "11月LPR报价出炉：1年期报3%、5年期以上3.5%，连续18个月保持不变"
+    },
+    {
      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
      "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
      "pubDate": "Fri, 20 Nov 2026 01:49:03 GMT",
@@ -2305,20 +2369,12 @@
      "zh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices"
     },
     {
-     "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-     "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-     "pubDate": "Fri, 20 Nov 2026 01:34:19 GMT",
-     "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
-     "source": "CNBC",
-     "zh": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
-    },
-    {
-     "title": "Keysight projects 20% fiscal 2027 revenue growth as it guides Q1 revenue to $2.040B-$2.060B",
-     "link": "https://seekingalpha.com/news/4674996-keysight-projects-20-percent-fiscal-2027-revenue-growth-as-it-guides-q1-revenue-to-2_040b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 20:34:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Keysight projects 20% fiscal 2027 revenue growth as it guides Q1 revenue to $2.040B-$2.060B"
+     "title": "底层家庭最大的悲哀：不是没钱，而是一天到晚都在怄气",
+     "link": "http://www.eeo.com.cn/2026/1120/1088461.shtml",
+     "pubDate": "Fri, 20 Nov 2026 09:32:01 +0800",
+     "summary": "内耗家庭的孩子，成年后出现抑郁症状的概率显著高于和谐家庭的孩子。",
+     "source": "经济观察网",
+     "zh": "底层家庭最大的悲哀：不是没钱，而是一天到晚都在怄气"
     },
     {
      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
@@ -2353,36 +2409,12 @@
      "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
     },
     {
-     "title": "SunPower forecasts $61.8M Q4 revenue as it targets positive operating cash flow within next 2 quarters",
-     "link": "https://seekingalpha.com/news/4674995-sunpower-forecasts-61_8m-q4-revenue-as-it-targets-positive-operating-cash-flow-within-next-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 20:04:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SunPower forecasts $61.8M Q4 revenue as it targets positive operating cash flow within next 2 quarters"
-    },
-    {
-     "title": "Intuit expects FY2027 revenue growth of 8%-9% as it plans Mailchimp sale and outlines Q2 EPS of $3.17-$3.22",
-     "link": "https://seekingalpha.com/news/4674994-intuit-expects-fy2027-revenue-growth-of-8-percentminus-9-percent-as-it-plans-mailchimp-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 20:04:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intuit expects FY2027 revenue growth of 8%-9% as it plans Mailchimp sale and outlines Q2 EPS of $3.17-$3.22"
-    },
-    {
      "title": "连续第18个月维持不变！11月LPR报价出炉：5年期以上3.5%，1年期3%",
      "link": "https://wallstreetcn.com/articles/3786332",
      "pubDate": "Fri, 20 Nov 2026 09:01:03 +0800",
      "summary": "中国11月贷款市场报价利率（LPR）11月20日出炉，1年期和5年期以上LPR均未调整。 中国人民银行授权全国银行间同业拆借中心公布显示，2026年11月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。 作为主要政策利率的7天期逆回购利率自2025年5月下调后已经连续17个月保持不变，因此，LPR报价的定价基础本月未发生改变。LPR上一次调整是在2025年5月，1年期和5年期以上LPR均下调10个基点。 最新数据显示，10月企业新发放贷款加权平均利率约为2.9%，比上年同期低约0.2个百分点；个人住房新发放贷款加权平",
      "source": "华尔街见闻",
      "zh": "连续第18个月维持不变！11月LPR报价出炉：5年期以上3.5%，1年期3%"
-    },
-    {
-     "title": "Decline in U.S. diesel prices likely to continue, Energy Secretary says",
-     "link": "https://seekingalpha.com/news/4674991-decline-in-us-diesel-prices-likely-to-continue-energy-secretary-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 19:57:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Decline in U.S. diesel prices likely to continue, Energy Secretary says"
     },
     {
      "title": "首度突破1万亿美元！AI加持，韩国出口创下新纪录",
@@ -2425,14 +2457,6 @@
      "zh": "北京商报侃股：加快回购节奏利于提振市场信心"
     },
     {
-     "title": "现货黄金跌破3600美元！实探深圳水贝：买家等到了心理价位 商家却喊“补早了”",
-     "link": "http://finance.eastmoney.com/news/1344,202611203935704342.html",
-     "pubDate": "Fri, 20 Nov 2026 08:31:40 +0800",
-     "summary": "11月20日亚洲交易时段，国际现货 黄金 价格一度跌破3600美元/盎司，短短8个交易日接连失守4000、3900、3800、3700、3600整数关口。 伴随着持续下跌的金价，深圳水贝又火热了起来。 11月19日下午，澎湃新闻记者在国内最大 黄金 珠宝交易集散地深圳水贝走访看到，尽管是工作日，市场内依旧有不少前来选购的消费者，不少柜台前人头攒动。人群中以年轻情侣、结伴挑选的年轻女性为主，也有不少带着孩子一同前来的夫妇。 深圳水贝商场入口。图片来源：澎湃新闻记者孙铭蔚 “最近金价加速下行，成交量比之前提高了两三成。今天还不算人最多的时候，周末才是人挤人。”一名柜台商家告诉记者，近期询价、下单的",
-     "source": "东方财富资讯",
-     "zh": "现货黄金跌破3600美元！实探深圳水贝：买家等到了心理价位 商家却喊“补早了”"
-    },
-    {
      "title": "英国消费者信心回暖，黑五购物季前夕零售商暂获喘息",
      "link": "http://finance.eastmoney.com/news/1351,202611203935703711.html",
      "pubDate": "Fri, 20 Nov 2026 08:28:41 +0800",
@@ -2473,36 +2497,12 @@
      "zh": "国际金价，创年内新低！Anthropic首日收盘回吐一半涨幅"
     },
     {
-     "title": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年更紧张！",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935699328.html",
-     "pubDate": "Fri, 20 Nov 2026 08:25:25 +0800",
-     "summary": "人工智能 （AI）需求持续扩张，但 存储芯片 供给跟不上增长节奏。 美光科技 高管近期接连表示，供给短缺短期内难以缓解，2027年、2028年的供需失衡局面或将比2026年更为严峻。 美光科技 总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，内存芯片的供需在很长一段时间内都无法达到平衡。他指出，在可预见的未来，供需找不到明确的平衡点，预计2027年供需形势会“比 2026 年更加紧张”。 当地时间18日， 美光科技 首席执行官Sanjay Mehrotra 在得克萨斯州奥斯汀举办的 TomorrowX Summit投资者大会上也表示， 公司2027年预期产能的75%已经完成预售",
-     "source": "东方财富资讯",
-     "zh": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年更紧张！"
-    },
-    {
-     "title": "A股热点前瞻丨苹果组建系统级AI智能体团队；DeepSeek千亿融资落地",
-     "link": "http://finance.eastmoney.com/news/11874,202611203935701420.html",
-     "pubDate": "Fri, 20 Nov 2026 08:23:37 +0800",
-     "summary": "① 苹果 自研智能体+OpenAI布局手机，端侧AI入口竞赛升温； ②谷歌携手蓝色起源布局太空算力，卫星算力验证提速； ③全国老龄工作会议部署银发经济，养老产业迎新机遇； ④ 特斯拉 Optimus将推真实演示，人形 机器人 产业化提速； ⑤DeepSeek千亿融资落地，国产大模型算力需求扩容； ⑥ 光刻胶 与 半导体 设备国产化加速，自主可控逻辑强化。 盘面回顾 11月19日，A股三大指数集体收跌，沪指跌0.28%报3577.62点，创业板指跌0.79%，沪深两市 成交1.31万亿元、再创地量 ，全市场超4800股下跌。 光刻胶 、 先进封装 、 稀土 板块逆势活跃，算力芯片、AI漫剧、 冰",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨苹果组建系统级AI智能体团队；DeepSeek千亿融资落地"
-    },
-    {
      "title": "AMD dives on short seller report of alleged China exposure",
      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
      "pubDate": "Fri, 20 Nov 2026 00:08:34 GMT",
      "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
      "source": "CNBC",
      "zh": "AMD dives on short seller report of alleged China exposure"
-    },
-    {
-     "title": "11月20日投资日历 | 英国-欧盟峰会将于今日在布鲁塞尔举行",
-     "link": "http://finance.eastmoney.com/news/11848,202611203935660423.html",
-     "pubDate": "Fri, 20 Nov 2026 08:01:41 +0800",
-     "summary": "（1）北京时间11月20日9时，中国人民 银行 公布11月一年期、五年期贷款市场报价利率（LPR）。 （2）第二次欧盟-英国峰会于11月20日在布鲁塞尔举行，英国首相与欧盟委员会主席、欧洲理事会主席会面。 （3）2026虹桥国际科技周于11月20日至22日在上海国家会展中心举办。 （4）博鳌乐城第二届全球 创新药 械博览会暨第二届海南博鳌乐城国际 创新药 械技术大会于11月20日至21日在海南博鳌乐城国际医疗旅游先行区举办。 （5）2026北京国际 消费电子 技术博览会（CET2026）于11月20日至22日在北京国家会议中心二期举办。 （6）恒生指数公司于11月20日宣布2026年第三季度恒",
-     "source": "东方财富资讯",
-     "zh": "11月20日投资日历 | 英国-欧盟峰会将于今日在布鲁塞尔举行"
     },
     {
      "title": "FCA opens AI Spotlight Observatory",

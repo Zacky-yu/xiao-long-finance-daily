@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 18:12:03",
+ "generated_at": "2026/11/20 18:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Lucid Is Slashing $15,000 Off The Gravity, But The Deal Won’t Last Long",
+     "link": "https://insideevs.com/news/816205/lucid-15000-usd-discount-black-friday/",
+     "pubDate": "Fri, 20 Nov 2026 10:16:59 +0000",
+     "summary": "For those who prefer to go down the sedan route, the Lucid Air is also getting a huge discount.",
+     "source": "InsideEVs",
+     "zh": "Lucid Is Slashing $15,000 Off The Gravity, But The Deal Won’t Last Long"
+    },
+    {
      "title": "Stelato launches V8 as Huawei-backed brand enters premium MPV market",
      "link": "https://cnevpost.com/2026/11/20/stelato-launches-v8-mpv/",
      "pubDate": "Fri, 20 Nov 2026 08:35:14 +0000",
@@ -818,14 +826,6 @@ window.INDUSTRY_DATA = {
      "zh": "BYD Fang Cheng Bao launches its largest SUV Tai 9 with foldable steering wheel on top trim"
     },
     {
-     "title": "Americans Bought More Used EVs In October. Fewer Of Them Were Teslas",
-     "link": "https://insideevs.com/news/816103/october-us-used-ev-sales/",
-     "pubDate": "Thu, 19 Nov 2026 12:56:32 +0000",
-     "summary": "Tesla still led the U.S. used EV market, but the Chevy Equinox EV, Kia EV6 and Nissan Leaf all gained ground from September.",
-     "source": "InsideEVs",
-     "zh": "Americans Bought More Used EVs In October. Fewer Of Them Were Teslas"
-    },
-    {
      "title": "How Toyota is betting on a future beyond cars",
      "link": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
      "pubDate": "Wed, 18 Nov 2026 21:36:40 +0000",
@@ -873,6 +873,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Exports-Surge-21-as-US-Tariff-Deadline-Looms.html",
+     "pubDate": "Fri, 20 Nov 2026 04:15:00 -0600",
+     "summary": "Chinese exports of solar cells jumped in October for the second consecutive month as importers are stocking up ahead of new U.S. tariffs on polysilicon coming into effect on December 4. China’s solar cell exports soared by 21% year-over-year to 1.55 billion units in October, Bloomberg reported on Fr",
+     "source": "OilPrice",
+     "zh": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms"
+    },
+    {
+     "title": "Vietnam sets rooftop solar monitoring and control acceptance procedure",
+     "link": "https://www.pv-magazine.com/2026/11/20/vietnam-sets-rooftop-solar-monitoring-and-control-acceptance-procedure/",
+     "pubDate": "Fri, 20 Nov 2026 10:10:21 +0000",
+     "summary": "Vietnam's state-owned utility has introduced a formal acceptance testing procedure for rooftop solar systems connected to its monitoring and control systems. The post Vietnam sets rooftop solar monitoring and control acceptance procedure appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Vietnam sets rooftop solar monitoring and control acceptance procedure"
+    },
     {
      "title": "‘Close proximity to key grid infrastructure’: EDF buys 1GWh battery storage system in Australia",
      "link": "https://www.energy-storage.news/edf-acquires-250mw-holloway-battery-storage-project-new-south-wales-australia/",
@@ -1002,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trinidad and Tobago issues solar tender"
     },
     {
-     "title": "$64 solar-powered robot cleans PV modules without water",
-     "link": "https://www.pv-magazine.com/2026/11/20/64-solar-powered-robot-cleans-pv-modules-without-water/",
-     "pubDate": "Fri, 20 Nov 2026 07:53:55 +0000",
-     "summary": "Researchers in Pakistan and China have developed an autonomous PV cleaning system that uses voltage differences between reference panels to detect soiling. Three months of field testing showed an 86.7% increase in power output after cleaning, with cleaning intervals ranging from four to 14 days. The",
-     "source": "pv magazine",
-     "zh": "$64 solar-powered robot cleans PV modules without water"
-    },
-    {
      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Senate-Passes-Sweeping-Energy-Permitting-Reform-Bill-in-62-33-Vote.html",
      "pubDate": "Fri, 20 Nov 2026 01:30:00 -0600",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "WASHINGTON, D.C. — On Thursday, Sierra Club submitted two comment letters opposing the Securities and Exchange Commission’s (SEC) proposal to rescind Rule 14a-8, which allows shareholders to put proposals addressing climate risks and other corporate issues before fellow investors for a vote, and ame",
      "source": "CleanTechnica",
      "zh": "Sierra Club Submits Comments Urging SEC to Preserve Shareholder Rights & Climate Accountability"
-    },
-    {
-     "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Boom-Rekindles-Frontier-Drilling-Appetite.html",
-     "pubDate": "Thu, 19 Nov 2026 18:00:00 -0600",
-     "summary": "Exxon announced this week that total oil production in Guyana had topped 1 million barrels. Guyana’s transformation into a formidable oil power is now motivating other oil majors to seek opportunities to replicate Exxon’s story. It is quite easy to see why. Exxon, along with its partners Hess Corp. ",
-     "source": "OilPrice",
-     "zh": "Guyana Oil Boom Rekindles Frontier Drilling Appetite"
     },
     {
      "title": "How would Becerra’s solar Power Hour actually work?",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+     "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+     "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530",
+     "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authe",
+     "source": "The Hacker News",
+     "zh": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
+    },
+    {
      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
      "pubDate": "Fri, 20 Nov 2026 04:25:35 -0500",
@@ -1600,14 +1608,6 @@ window.INDUSTRY_DATA = {
      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through sepa",
      "source": "The Hacker News",
      "zh": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs"
-    },
-    {
-     "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-     "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-     "pubDate": "Fri, 20 Nov 2026 12:03:31 +0530",
-     "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authe",
-     "source": "The Hacker News",
-     "zh": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
     },
     {
      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
@@ -1778,6 +1778,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“DeepSeek们”都在退场：限额并非免费AI的终结？",
+     "link": "https://www.tmtpost.com/8212818.html",
+     "pubDate": "Fri, 20 Nov 2026 18:23:37 +0800",
+     "summary": "无限量免费AI撑不住了。",
+     "source": "钛媒体",
+     "zh": "“DeepSeek们”都在退场：限额并非免费AI的终结？"
+    },
+    {
+     "title": "保险业“已经离不开AI”",
+     "link": "https://www.huxiu.com/article/4907237.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:20:12 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：冯丽君 近日，一起因AI辅助办公引发的劳动争议案件引起保险业内的广泛关注。 据《法治日报》报道，吴女士在某保险公司担任法务，2024年7月，吴女士在公司领导的推荐下，将自行整理加工后的公司稽核问题数据表上传至第三方AI平台用于辅助办公。2024年8月，公司突然向吴女士出具《解除劳动合同告知书》，以“严重违反规章制度”为由，与其单方解除了劳动关系。 吴女士称，公司从未出台有关“禁止员工使用第三方AI办公”的制度规定，也未开展AI工具合规应用培训。 最终，北京市朝阳区人民法院审理判令，某保险公司与吴女士继续履行劳动合同，同时该公司向吴女士支付因违法解约产生的",
+     "source": "虎嗅",
+     "zh": "保险业“已经离不开AI”"
+    },
+    {
+     "title": "比亚迪在日本都做了些什么？",
+     "link": "https://www.huxiu.com/article/4907236.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:15:20 +0800",
+     "summary": "本文来自微信公众号： 电厂 ，编辑：高宇雷，作者：翟芳雪，原文标题：《比亚迪在日本都做了些什么？ | 电厂》 曾经在日本掀起预订热潮的比亚迪海獭（RACCO），也许迎来了它上市以来的最大竞争对手，铃木在10月推出了同级纯电轻型车e-Sky。 《日本经济新闻》以《铃木e-Sky上市首月订单破4000，超比亚迪RACCO》为题，比较两款车型的预订量。日本综合新闻网站《迈纳维新闻》将海獭称为轻型EV市场的“黑船”，并以“RACCO与e SKY直接对决”为题讨论铃木的应对。 2023年进入日本乘用车市场后，比亚迪用了近四年，在当地累计交付突破1万辆。今年前10个月，比亚迪在日本共售出4693辆车，市场",
+     "source": "虎嗅",
+     "zh": "比亚迪在日本都做了些什么？"
+    },
+    {
+     "title": "‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake",
+     "link": "https://www.wired.com/story/gta-vi-is-finally-out-dont-rush-it/",
+     "pubDate": "Fri, 20 Nov 2026 10:15:00 +0000",
+     "summary": "While strip clubs and shootouts are a big draw, the hyper-detailed world of Leonida rewards patience over chaos.",
+     "source": "WIRED",
+     "zh": "‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake"
+    },
+    {
+     "title": "买不到先进制程，就绕道先进封装：国产算力芯片的一条暗线",
+     "link": "https://www.huxiu.com/article/4907234.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:13:15 +0800",
+     "summary": "本文来自微信公众号： 芯师爷 ，作者：Grace 7nm、5nm、3nm，这些纳米数字被当作衡量芯片先进程度的标尺，也被视为出口管制卡住的那道关口。但一条不那么显眼却正在加速成形的路径，正在改变这个叙事框架，当单颗芯片的制程微缩走到物理和经济双重极限时，把多颗芯片用先进封装技术高密度地“拼”在一起，同样能换来系统级算力的跃升。 这条路径不是退而求其次的权宜之计。从华为披露的昇腾路线图，到寒武纪募资建设先进封装平台，再到封测厂百亿级别的扩产节奏，产业链上的关键角色都在用真金白银押注同一个判断：在制程受限的约束下，先进封装是国产算力芯片从“设计得出来”到“交付得出去“之间，那条必须走通的路。 1 ",
+     "source": "虎嗅",
+     "zh": "买不到先进制程，就绕道先进封装：国产算力芯片的一条暗线"
+    },
+    {
+     "title": "美国疫情暴发：超5700例确诊，10人死亡",
+     "link": "https://www.huxiu.com/article/4907233.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:12:50 +0800",
+     "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 美国今年麻疹确诊超5700例，失去了维持26年的麻疹消除状态，且疫情已波及孕妇和新生儿。 美国麻疹疫情仍在持续，确诊病例已创35年来新高。 11月17日，泛美卫生组织宣布，美国失去维持了26年的麻疹消除状态。这意味着麻疹病毒已在美国境内持续传播已达12个月。 约翰斯·霍普金斯大学11月18日发布的信息显示，美国今年报告的麻疹确诊病例已超过5700例，为1991年以来单年最高。各州卫生部门已报告10例麻疹相关死亡，其中5例为儿童。 疫情也波及了还没出生的孩子。在病例较为集中的宾夕法尼亚州，卫生部门10月发布临床指导指出，随着孕期",
+     "source": "虎嗅",
+     "zh": "美国疫情暴发：超5700例确诊，10人死亡"
+    },
+    {
+     "title": "美国新国会AI政策动向：强监管主张遇上白宫否决权",
+     "link": "https://www.huxiu.com/article/4907228.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:09:50 +0800",
+     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 美国中期选举落幕，民主党大胜，新一届国会即将就任，AI监管也成为新国会政策议程中的焦点。部分议员主张加强监管，甚至提出暂停模型开发；白宫则坚持对AI采取轻触式监管，并握有总统否决权。国会监管意愿升温与白宫政策立场之间的分歧，将如何影响美国下一阶段的AI立法？ 卡托研究所政策分析师胡安·隆多尼奥撰文指出，在当前权力格局下，重手监管难以获得通过，轻触式、窄口径立法反而更可能落地。文章分析了新国会可能采取的AI治理路径，包括为政府关停AI模型设定明确门槛、厘清智能体失控的责任边界、通过信息披露回应数据中心建设争议，以及协调联邦与",
+     "source": "虎嗅",
+     "zh": "美国新国会AI政策动向：强监管主张遇上白宫否决权"
+    },
+    {
+     "title": "“奶茶第一股”的翻红账本",
+     "link": "https://www.huxiu.com/article/4907224.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 18:07:30 +0800",
+     "summary": "本文来自微信公众号： 铁骥ViewPoint ，作者：铁骥ViewPoint 最近在抖音上有这样一个话题叫做#奶茶千金打工记#，播放量突破了2500万次。香飘飘作为一家老字号国产品牌，也再次走进了人们的视线当中。 视频里，蒋一侨以求职者身份进入香飘飘公司进行面试、新员工培训以及实习等环节，并最终成为该公司的一名实习生，月薪3000元，过上了普通的打工人的生活。 她的身份不简单，一边为创始人家族的年轻人，另一边则是公司签约的品牌体验官。两种身份叠加起来，反差感拉满，评论区也是热闹得很。有人怀念起学生时代喝过的香芋味奶茶，也有人在讨论她淘汰之后就要回家继承家族产业的事情。 #奶茶千金打工记#系列，",
+     "source": "虎嗅",
+     "zh": "“奶茶第一股”的翻红账本"
+    },
+    {
      "title": "银昕推出 ITX 机箱 MILO 13：搭载整合安装支架，配备 COM 开孔",
      "link": "https://www.ithome.com/1/030/192.htm",
      "pubDate": "Fri, 20 Nov 2026 10:06:22 GMT",
@@ -1802,12 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "零跑汽车 2026 财年第三财季归母净利润 4000 万元，同比下降 73.33%"
     },
     {
-     "title": "傅剑锋漫谈世纪初珠三角“砍手党”调查往事",
-     "link": "https://www.huxiu.com/article/4907223.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 18:01:53 +0800",
-     "summary": "本文来自微信公众号： 忽左忽右Leftright ，编辑：思钊，作者：忽友功德箱，原文标题：《播客｜傅剑锋漫谈世纪初珠三角「砍手党」调查往事》 曾几何时，流窜在珠三角的砍手党群体令人闻风丧胆，而其中的主力犯罪者竟大多来自同一个村庄——广西天等县上映乡温江村。2005年初，时任《南方都市报》记者傅剑锋来到温江村，此后多年，傅剑锋持续追踪这些年轻人的经历，并走进监狱采访当年的「砍手党」成员。打矿、打工与打劫，温江村的年轻人为何一步步走向犯罪？在深圳相互照应的老乡，为什么又会形成犯罪团伙？多年以后，当年的「砍手党」成员和温江村发生了哪些变化？请听本期嘉宾傅剑锋带来的分享。 内容节选 本文为基于节目录",
-     "source": "虎嗅",
-     "zh": "傅剑锋漫谈世纪初珠三角“砍手党”调查往事"
+     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+     "link": "https://architectlabs.com/blog/frostbite",
+     "pubDate": "Fri, 20 Nov 2026 10:01:41 +0000",
+     "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Frostbite: A new CPU architecture discovered, designed and verified by AI"
     },
     {
      "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
@@ -1816,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Because “as many reps as possible” is their love language.",
      "source": "WIRED",
      "zh": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)"
-    },
-    {
-     "title": "什么叫买不到10米长的USB线？我拿延长线硬接过去不行吗？",
-     "link": "https://www.huxiu.com/article/4904780.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 18:00:00 +0800",
-     "summary": "很多朋友可能都遇到过这个问题：想要连接的设备太远，手里的线不够长，就只能接延长线。然后，你很快就会发现，即便是延长线，最长往往也只有5米&hellip;&hellip;距离更远的话，可能就要一根串一根。但这就可能有问题了&mdash;&mdash;USB线一根串一根后，还能正常工作吗？为什么没有超长的USB线？",
-     "source": "虎嗅",
-     "zh": "什么叫买不到10米长的USB线？我拿延长线硬接过去不行吗？"
     },
     {
      "title": "消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元",
@@ -1850,12 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "Falling Prices Push AI Video Toward Platform Economics"
     },
     {
-     "title": "从“刷分”打到“补缝”，机器人新竞赛升温",
-     "link": "https://www.huxiu.com/article/4907220.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 17:49:53 +0800",
-     "summary": "本文来自微信公众号： 机器最前线 ，作者：关注具身智能的 2026年末，具身智能的商业化似乎终于等来了它的“破局点”。 过去，这个行业一直受困于“大脑”不够聪明，无法应对复杂环境；“手”不够灵活，且学习成本高昂。 但最近，两个技术突破为它们带来了新的进展。 一方面是“大脑”的外溢。 Anthropic的通用模型Fable 5.2，原本的主业是编程与推理，现在却在双臂机器人仿真基准RoboDojo上，将任务成功率从前代的27.6%直接拉到了64.9%。更令人意外的是，在未经专门训练的情况下，它在演示视频里直接控制机械臂，完成了拧瓶盖、解魔方等需要高精度的动作。 另一方面是“手”的下沉。 英伟达的",
-     "source": "虎嗅",
-     "zh": "从“刷分”打到“补缝”，机器人新竞赛升温"
+     "title": "UK fridges secured from hackers in secret nationwide operation",
+     "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+     "pubDate": "Fri, 20 Nov 2026 09:52:20 +0000",
+     "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o Comments URL: https://news.ycombinator.com/item?id=50572430 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "UK fridges secured from hackers in secret nationwide operation"
     },
     {
      "title": "An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)",
@@ -1872,22 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 20 日消息，2026 开放原子开发者大会今日在郑州举办，在大会开幕式上， 开放原子龙架构社区正式成立 。 该社区由龙芯中科与开放原子开源基金会联合共建， 是我国在自主指令集领域发起的首个综合性开源社区 。 开放原子龙架构社区由开放原子开源基金会筹建、孵化、运营，将重点布局 IP 核、二进制翻译、基础操作系统三大开源专项，从芯片设计到终端应用全链条打造国内自主 CPU 架构领域首次生态共建实践。 据介绍，社区现已汇聚首批成员单位 22 家，覆盖芯片、操作系统、整机终端、科研机构等多元主体，打通从核心 IP、底层软件到场景落地的创新链路，以 OpenLA132 为核心的龙架构",
      "source": "IT之家",
      "zh": "我国首个自主指令集综合开源社区，开放原子龙架构社区正式成立"
-    },
-    {
-     "title": "Infinite scroll and autoplay are fuelling a global problem",
-     "link": "https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue",
-     "pubDate": "Fri, 20 Nov 2026 09:24:53 +0000",
-     "summary": "Article URL: https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue Comments URL: https://news.ycombinator.com/item?id=50572217 Points: 6 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Infinite scroll and autoplay are fuelling a global problem"
-    },
-    {
-     "title": "华盛顿的巷弄变身“可持续住宅”试验场",
-     "link": "https://www.huxiu.com/article/4907214.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 17:24:42 +0800",
-     "summary": "本文来自微信公众号： CITY来不 ，作者：CITYLAB 乍看之下，巴尼环岛附近巷子里的这栋建筑，与华盛顿特区常见的车库、棚屋或是马车房并无二致。建筑外墙上的木板，在国会山以东这片街区整齐的砖砌联排住宅和简约的公寓楼之间，透出几分质朴的气息。除此之外，几乎没有迹象表明，这栋房子是一座活生生的可持续建筑实验室。 阿德莱德巷这栋住宅的建材，几乎都来自自然生长的材料。墙体采用独特的竹制预制板系统，外墙覆以软木，再铺上鹅掌楸树皮；保温层用的是羊毛，黑刺槐木制成的屋檐为建筑遮风挡雨。 安德鲁·林恩和杰克·贝克尔设计的巷弄住宅，外观低调朴素。摄影：Alex Kent/Bloomberg 走进这栋面积约2",
-     "source": "虎嗅",
-     "zh": "华盛顿的巷弄变身“可持续住宅”试验场"
     },
     {
      "title": "抖音生活悄悄上万亿",
@@ -1922,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI这一年，倒下的APP们"
     },
     {
-     "title": "50天推出4款模型，谷歌想当“造物主”了？",
-     "link": "https://www.tmtpost.com/8212777.html",
-     "pubDate": "Fri, 20 Nov 2026 17:22:37 +0800",
-     "summary": "OpenAI却有点拉了。",
-     "source": "钛媒体",
-     "zh": "50天推出4款模型，谷歌想当“造物主”了？"
-    },
-    {
      "title": "The U.S. national cyber director is stepping down",
      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
      "pubDate": "Fri, 20 Nov 2026 09:14:19 +0000",
      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
      "source": "TechCrunch",
      "zh": "The U.S. national cyber director is stepping down"
-    },
-    {
-     "title": "卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？",
-     "link": "https://www.huxiu.com/article/4907209.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 17:13:55 +0800",
-     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？| 声动早咖啡》 欢迎来到每周五咖啡豆回复时间，我们的听友「Miranda」发现，现在越来越多的餐饮品牌，开始在自己的招牌产品之外，卖起了汉堡。比如DQ，2024年就在上海开了一家餐厅，除了招牌的冰淇淋，店里也卖汉堡和薯条。卖披萨的必胜客去年底还开出了专门的汉堡店，叫「必胜汉堡」。就连做焖锅的黄记煌，也在店里单独设了个档口，挂的是「锅气汉堡」的招牌。此外，魏家凉皮、海底捞和M Stand等等餐饮品牌都在汉堡领域试水。 为什么这些餐饮品牌都在跨界做汉堡呢？ 本文整理自播客「声动早咖啡",
-     "source": "虎嗅",
-     "zh": "卖冰淇淋的、卖焖锅的，怎么都开始卖汉堡了？"
-    },
-    {
-     "title": "赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面",
-     "link": "https://www.huxiu.com/article/4907208.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 17:13:44 +0800",
-     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目》 本期节目是声东击西「十周年」特别系列的第六期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 本期的嘉宾赵玉顺和袁贞贞，是村镇纪录片频道「遇真纪事」的两位创作者。2016年前后，赵玉顺和袁贞贞带着对新闻和纪录片的憧憬走入职场。几年辗转后，他们选择离开大城市、辞掉工作，把镜头对准那些很少进入公众视野的村镇和普通农民，并给自己定下",
-     "source": "虎嗅",
-     "zh": "赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面"
     },
     {
      "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "\"I can tell you wrote this yourself\"",
      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
      "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
-     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 135 # Comments: 135",
+     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 160 # Comments: 158",
      "source": "Hacker News",
      "zh": "\"I can tell you wrote this yourself\""
     },
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure &nbsp; &mdash;&nbsp; DayOne Data Centers Ltd. has put plans for its multibillion-dollar US initial public offering on hold, peop",
      "source": "Techmeme",
      "zh": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)"
-    },
-    {
-     "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-     "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-     "pubDate": "Fri, 20 Nov 2026 07:00:00 +0000",
-     "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-     "source": "WIRED",
-     "zh": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’"
-    },
-    {
-     "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
-     "link": "https://www.solidot.org/story?sid=85940",
-     "pubDate": "Fri, 20 Nov 2026 14:49:01 +0800",
-     "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（sideloading）安装未经开发者身份验证的应用。Google 坚称此举是为了安全，将增加恶意攻击者散播恶意软件或欺诈应用的难度。应用开发者在进行验证身份时需提",
-     "source": "Solidot",
-     "zh": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Lava Smart 4 Pro announced with a 7,000 mAh battery",
+     "link": "https://www.gsmarena.com/lava_smart_4_pro_features_price_sale_date-news-75559.php",
+     "pubDate": "Fri, 20 Nov 2026 11:11:02 +0100",
+     "summary": "Lava unveiled the Smart 4 Plus in June and introduced the Smart 4 in August. Today, the Indian handset maker announced the Lava Smart 4 Pro as the newest member of the Smart series. The headline feature of the Lava Smart 4 Pro is its massive 7,000 mAh battery. It supports 18W charging, which is slow",
+     "source": "GSMArena",
+     "zh": "Lava Smart 4 Pro announced with a 7,000 mAh battery"
+    },
     {
      "title": "I ditched my Pixel Watch 5’s uncomfortable band for this, and I’m never going back",
      "link": "https://www.androidauthority.com/best-pixel-watch-5-leather-band-alternative-3732741/",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "浮屏：截图即可「上岛」，还能帮你记录生活"
     },
     {
-     "title": "Samsung's Googlebooks are codenamed Origin, here's what we know",
-     "link": "https://www.gsmarena.com/samsungs_android_laptops_are_codenamed_origin_heres_what_we_know-news-75549.php",
-     "pubDate": "Fri, 20 Nov 2026 03:31:02 +0100",
-     "summary": "We were initially surprised not to see Samsung's logo when Google announced its hardware partners for the new Googlebook product lineup, powered by the Android-based Googlebook OS. Shortly after, a Samsung Googlebook appeared on Geekbench, suggesting it has been planning a Googlebook of its own all ",
-     "source": "GSMArena",
-     "zh": "Samsung's Googlebooks are codenamed Origin, here's what we know"
-    },
-    {
      "title": "WhatsApp is raising group chat limit to 1,500 participants",
      "link": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
      "pubDate": "Fri, 20 Nov 2026 01:54:39 +0000",
@@ -2274,12 +2274,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+     "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 10:15:00 GMT",
+     "summary": "“We have $2.9 million in retirement accounts and a paid-off house worth $900,000.”",
+     "source": "MarketWatch",
+     "zh": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
+    },
+    {
      "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
      "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
      "pubDate": "Fri, 20 Nov 2026 10:08:47 GMT",
      "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
      "source": "CNBC",
      "zh": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop"
+    },
+    {
+     "title": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions",
+     "link": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 10:08:00 GMT",
+     "summary": "For markets, it’s been a week from hell — or, more accurately, the worst stretch for the S&P 500 since the “Liberation Day” tariffs of 2025 — but the history of six-session losing streaks actually points to some better news ahead.",
+     "source": "MarketWatch",
+     "zh": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions"
     },
     {
      "title": "Trump administration signed off nearly 900,000 Nvidia, AMD AI chips for China in six months",
@@ -2320,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "Bear Grylls made an unusual choice with his wife, Shara Grylls decades ago—buying a starter home on an abandoned island instead of a London flat.",
      "source": "MarketWatch",
      "zh": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’"
+    },
+    {
+     "title": "Kushner says Russia &apos;comfortable&apos; with idea of NATO-like security guarantees for Ukraine",
+     "link": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
+     "pubDate": "Fri, 20 Nov 2026 09:56:03 GMT",
+     "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+     "source": "CNBC",
+     "zh": "Kushner says Russia &apos;comfortable&apos; with idea of NATO-like security guarantees for Ukraine"
     },
     {
      "title": "RLX Technology Non-GAAP EPADS of $0.03 in-line, revenue of $285.9M beats by $23.94M",
@@ -2378,6 +2402,54 @@ window.INDUSTRY_DATA = {
      "zh": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on"
     },
     {
+     "title": "大宗交易：华峰铝业成交332.31万元（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167839.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:12 +0800",
+     "summary": "2026年11月20日， 华峰铝业 发生1笔大宗交易，共成交29.33万股，成交金额332.31万元 ，占其流通市值比例为0.03% 。 该笔大宗交易成交均价11.33元， 较该股当日收盘价11.33元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：华峰铝业成交332.31万元（11-20）"
+    },
+    {
+     "title": "大宗交易：西安奕材成交1987.44万元，折价1.02%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167136.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日，西安奕材发生1笔大宗交易，共成交147.00万股，成交金额1987.44万元 ，占其流通市值比例为0.05% 。 该笔大宗交易成交均价13.52元， 较该股当日收盘价13.66元折价1.02%。 其中，机构席位买入147.00万股，成交额1987.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "大宗交易：西安奕材成交1987.44万元，折价1.02%（11-20）"
+    },
+    {
+     "title": "大宗交易：禾元生物成交1502.05万元，折价1.99%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936166934.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日，禾元生物发生2笔大宗交易，共成交59.70万股，成交金额1502.05万元 ，占其流通市值比例为0.21% 。 2笔大宗交易成交均价25.16元， 较该股当日收盘价25.67元折价1.99%。 其中，机构席位买入17.20万股，成交额432.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东",
+     "source": "东方财富股票",
+     "zh": "大宗交易：禾元生物成交1502.05万元，折价1.99%（11-20）"
+    },
+    {
+     "title": "大宗交易：海尔智家成交409.07万元（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936166854.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 海尔智家 发生1笔大宗交易，共成交17.77万股，成交金额409.07万元 。 该笔大宗交易成交均价23.02元， 较该股当日收盘价23.02元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：海尔智家成交409.07万元（11-20）"
+    },
+    {
+     "title": "大宗交易：康美药业成交93.47万元，折价7.26%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167295.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 康美药业 发生1笔大宗交易，共成交81.28万股，成交金额93.47万元 。 该笔大宗交易成交均价1.15元， 较该股当日收盘价1.24元折价7.26%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：康美药业成交93.47万元，折价7.26%（11-20）"
+    },
+    {
+     "title": "大宗交易：汇金通成交200.08万元，折价0.55%（11-20）",
+     "link": "http://stock.eastmoney.com/news/11264,202611203936167068.html",
+     "pubDate": "Fri, 20 Nov 2026 17:22:00 +0800",
+     "summary": "2026年11月20日， 汇金通 发生1笔大宗交易，共成交27.67万股，成交金额200.08万元 ，占其流通市值比例为0.08% 。 该笔大宗交易成交均价7.23元， 较该股当日收盘价7.27元折价0.55%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：汇金通成交200.08万元，折价0.55%（11-20）"
+    },
+    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Fri, 20 Nov 2026 17:11:04 +0800",
@@ -2410,22 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tech stocks fall as Anthropic IPO fails to reignite AI trade"
     },
     {
-     "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
-     "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-     "pubDate": "Fri, 20 Nov 2026 07:23:06 GMT",
-     "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
-     "source": "CNBC",
-     "zh": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks"
-    },
-    {
-     "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-     "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-     "pubDate": "Fri, 20 Nov 2026 06:00:01 GMT",
-     "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
-     "source": "CNBC",
-     "zh": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon"
-    },
-    {
      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 05:45:11 GMT",
@@ -2456,62 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The chip giant’s position is reminiscent of the insurance company AIG’s before the subprime mortgage bubble",
      "source": "Financial Times",
      "zh": "The dangers of Nvidia’s role as AI’s quasi-central bank"
-    },
-    {
-     "title": "Pensions are eating everything",
-     "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 05:00:08 GMT",
-     "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
-     "source": "Financial Times",
-     "zh": "Pensions are eating everything"
-    },
-    {
-     "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-     "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-     "pubDate": "Fri, 20 Nov 2026 03:56:17 GMT",
-     "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
-     "source": "CNBC",
-     "zh": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 03:31:00 GMT",
-     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
-    },
-    {
-     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 01:30:00 GMT",
-     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-     "source": "MarketWatch",
-     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 01:22:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-    },
-    {
-     "title": "FCA opens AI Spotlight Observatory",
-     "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 20 Nov 2026 00:01:00 GMT",
-     "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
-     "source": "Finextra",
-     "zh": "FCA opens AI Spotlight Observatory"
-    },
-    {
-     "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-     "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-     "pubDate": "Thu, 19 Nov 2026 23:56:00 GMT",
-     "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-     "source": "MarketWatch",
-     "zh": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead"
     }
    ]
   },

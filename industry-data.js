@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 16:12:00",
+ "generated_at": "2026/11/20 16:28:56",
  "recent_days": 7,
  "industries": [
   {
@@ -314,54 +314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution"
     },
     {
-     "title": "Google’s opportunity to rejig TPU supply chain",
-     "link": "https://www.electronicsweekly.com/news/business/google-rejigging-tpu-supply-chain-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 06:16:49 +0000",
-     "summary": "Google is rejigging the supply chain for its TPUs as Jensen Huang’s exit impacts a capacity-constrained AI chip rmarket. SemiAnalysis founder Dylan Patel told CNBC that Google is already going […] The post Google’s opportunity to rejig TPU supply chain appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Google’s opportunity to rejig TPU supply chain"
-    },
-    {
-     "title": "NAND price to fall",
-     "link": "https://www.electronicsweekly.com/news/business/nand-price-to-fall-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 06:13:30 +0000",
-     "summary": "NAND could be in over-supply next year as production increases rapidly, China CSPs cut SSD demand and consumer orders fall, says TrendForce. TrendForce reckons that NAND contract prices will begin […] The post NAND price to fall appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "NAND price to fall"
-    },
-    {
-     "title": "PMICs to be $68bn market in 2031",
-     "link": "https://www.electronicsweekly.com/news/business/pmics-to-be-68bn-market-in-2031-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 06:11:09 +0000",
-     "summary": "AI, electrification and robotics will grow the PMIC market at 10% CAGR 2025-32 to $68 billion by 2031, says Yole, while other PMIC applications face a BCD capacity squeeze. The […] The post PMICs to be $68bn market in 2031 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "PMICs to be $68bn market in 2031"
-    },
-    {
-     "title": "Datacentre high density power market to top $42bn by 2030",
-     "link": "https://www.electronicsweekly.com/news/business/datacentre-high-density-power-market-to-top-42bn-by-2030-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 06:04:45 +0000",
-     "summary": "The datacentre high-density power market is expected to exceed $42 billion by 2030, says Dell’Oro. Growth reflects the move of AI datacentres from 50 V racks to higher-voltage DC power […] The post Datacentre high density power market to top $42bn by 2030 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Datacentre high density power market to top $42bn by 2030"
-    },
-    {
-     "title": "IC enhances battery efficiency",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/ic-enhances-battery-efficiency-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 06:04:35 +0000",
-     "summary": "Infineon has expanded its XENSIV magnetic sensor portfolio with the TLV55624-1O TMR-based magnetic switch. The device combines ultra-low current consumption with direct load switching in a single component. This reduces […] The post IC enhances battery efficiency appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "IC enhances battery efficiency"
-    },
-    {
-     "title": "Nvidia Leaderless But Sparkling",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/nvidia-leaderless-but-sparkling-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 01:01:32 +0000",
-     "summary": "As in Q2, Nvidia’s Q3 saw a YoYvdoubling of revenues and profits. In the three months ended October 25, Nvidia’s revenue grew by 103% from the same period last year, […] The post Nvidia Leaderless But Sparkling appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia Leaderless But Sparkling"
-    },
-    {
      "title": "Memory R&D Is a High-Stakes Game",
      "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
      "pubDate": "Thu, 19 Nov 2026 22:21:15 +0000",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Linking plasma chamber simulation with feature-scale process modeling to predict etch profiles, evaluate wafer uniformity, and optimize plasma etching processes. The post Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufacturing appeared first on Semiconductor Engineerin",
      "source": "Semiconductor Engineering",
      "zh": "Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufacturing"
+    },
+    {
+     "title": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says",
+     "link": "https://www.eetimes.com/quantum-stocks-are-headed-for-a-correction-investor-charles-beyrouthy-says/",
+     "pubDate": "Wed, 18 Nov 2026 23:39:34 +0000",
+     "summary": "Charles Beyrouthy warns quantum stocks face a correction as investors ignore revenue and tech differences; watch where he sees opportunity next. The post Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Quantum Stocks Are Headed for a Correction, Investor Charles Beyrouthy Says"
+    },
+    {
+     "title": "Semiconductor Market Doubling in 2026 – Last Issue",
+     "link": "https://semiwiki.com/semiconductor-services/semiconductor-intelligence/376566-semiconductor-market-doubling-in-2026-last-issue/",
+     "pubDate": "Wed, 18 Nov 2026 22:00:39 +0000",
+     "summary": "The global semiconductor market was $481 billion in 3rd quarter 2026, according to WSTS. 3Q 2026 was up 27% from 2Q 2026 and up 129% from 3Q 2025. The 3Q 2026 year-to-year growth was the highest in WSTS history, exceeding 110% growth in 2Q 2026 versus 2Q 2025. AI continued to dominate semiconductor ",
+     "source": "SemiWiki",
+     "zh": "Semiconductor Market Doubling in 2026 – Last Issue"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Mexico’s solar capacity could reach 43.8 GW by 2035",
+     "link": "https://www.pv-magazine.com/2026/11/20/mexicos-solar-capacity-could-reach-43-8-gw-by-2035/",
+     "pubDate": "Fri, 20 Nov 2026 08:24:09 +0000",
+     "summary": "GlobalData has raised its solar growth forecast for Mexico by 6 GW, citing a growing pipeline of renewable energy projects. However, grid congestion, transmission constraints and regulatory uncertainty could slow deployment. The post Mexico’s solar capacity could reach 43.8 GW by 2035 appeared first",
+     "source": "pv magazine",
+     "zh": "Mexico’s solar capacity could reach 43.8 GW by 2035"
+    },
+    {
      "title": "China’s TOPCon solar module export prices slip as makers clear low-efficiency stock ahead of new standard",
      "link": "https://www.pv-magazine.com/2026/11/20/chinas-topcon-solar-module-export-prices-slip-as-makers-clear-low-efficiency-stock-ahead-of-new-standard/",
      "pubDate": "Fri, 20 Nov 2026 08:04:00 +0000",
@@ -920,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers in Belgium have found that adding a 5 kWh battery to a residential heat pump and rooftop PV system can reduce grid electricity imports by 17% compared with solar alone. The findings also highlight diminishing returns from larger batteries and the importance of storage operating strategie",
      "source": "pv magazine",
      "zh": "Heat pump, solar-plus-storage retrofit cuts grid electricity purchases by 17%"
-    },
-    {
-     "title": "South Australia cuts rooftop solar after storm sparks power outages",
-     "link": "https://www.pv-magazine.com/2026/11/20/south-australia-orders-rooftop-solar-switch-off-after-storm-sparks-power-outages/",
-     "pubDate": "Fri, 20 Nov 2026 06:59:00 +0000",
-     "summary": "Owners of rooftop solar systems on South Australia’s Eyre Peninsular have been asked to switch off their inverters after a storm brought down transmission towers in the region, triggering widespread power outages and prompting the state government to declare a state of emergency. The post South Aust",
-     "source": "pv magazine",
-     "zh": "South Australia cuts rooftop solar after storm sparks power outages"
     },
     {
      "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
@@ -1370,6 +1370,14 @@ window.INDUSTRY_DATA = {
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
      "pubDate": "Thu, 19 Nov 2026 22:00:00 +0000",
@@ -1474,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1530,36 +1546,20 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1778,6 +1778,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "智驾淘汰赛，烧向芯片",
+     "link": "https://www.tmtpost.com/8212619.html",
+     "pubDate": "Fri, 20 Nov 2026 16:22:30 +0800",
+     "summary": "话语权的重新分配。",
+     "source": "钛媒体",
+     "zh": "智驾淘汰赛，烧向芯片"
+    },
+    {
+     "title": "基金暴跌67%后，00后“AI股神”重返华尔街",
+     "link": "https://www.tmtpost.com/8212556.html",
+     "pubDate": "Fri, 20 Nov 2026 16:22:26 +0800",
+     "summary": "经历67%暴跌后，“AI股神”将重启基金。",
+     "source": "钛媒体",
+     "zh": "基金暴跌67%后，00后“AI股神”重返华尔街"
+    },
+    {
+     "title": "阿里三季报：云业务发展强劲，既涨收入，又涨利润",
+     "link": "https://www.huxiu.com/article/4907188.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 16:13:09 +0800",
+     "summary": "本文来自微信公众号： 昆仑侠 ，作者：昆仑侠 阿里昨天盘后发布今年自然年三季度财报（27财年二季度），这份财报整体看下来还是比较超预期的。 今天港股走势也说明了一切，在整体悲观的大环境下，阿里逆势上涨，成了为数不多的几个靓仔之一。 究其原因，一方面电商集团的基本盘基本稳住了，另一方面核心的AI业务表现较为亮眼。我主要谈一下自己比较关注的几处。 一、几个核心数据 集团收入2715.19亿元，同比增长10%，市场此前的一致预期大致在2700亿上下，略超一点，谈不上惊喜。 但经调整EBITA 326.36亿元，同比增长260%，这个幅度是明显好于预期的。同期经营利润291.16亿元，同比增长443%",
+     "source": "虎嗅",
+     "zh": "阿里三季报：云业务发展强劲，既涨收入，又涨利润"
+    },
+    {
+     "title": "“抵制AI，断更一天”，4.3万人点赞了这个声明",
+     "link": "https://www.huxiu.com/article/4907187.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 16:09:29 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：梨雪森，编辑：Luna 网文界今年发生了多场“AI斩杀”。2月和5月，番茄进行了针对AI低质内容的专项治理；起点7月全面禁止AI文，8月一口气处理了上百本AI小说，其中有多部万订作品；10月30日，起点和QQ阅读发布公告，称将进一步打击签约作品滥用AI的行为，取消对作品的福利发放。 起点新发布的公告 然而，多轮治理后，读者仍然会抱怨榜单上的作品“AI写的”。 相比于短剧对AI的一片追捧，为什么网文界一定要对AI说“不”？ 网文平台拒绝AI 仅仅是因为“不好看”吗？ 曾经，“写得多”是网文竞争的一道门槛。 多年前我曾经研究过能否转去写网文，谁知有两个大问题难住",
+     "source": "虎嗅",
+     "zh": "“抵制AI，断更一天”，4.3万人点赞了这个声明"
+    },
+    {
+     "title": "鸿蒙智行享界 V8 MPV 正式上市，31.98 万-42.98 万元起",
+     "link": "https://www.ithome.com/1/030/051.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:06:46 GMT",
+     "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，享界 V8 正式上市。 IT之家从发布会现场获悉，新车主要的配置信息如下： 享界 V8 Ultra+ 增程版 39.98 万元起 | 纯电版 42.98 万元起 四驱 + 双腔空簧 + 双阀连续可变阻尼减振器 四激光雷达 | L3 级自动驾驶架构设计 | 二排旋转零重力座椅 享界 V8 Ultra 增程版 35.98 万元起 | 纯电版 38.98 万元起 21.4 英寸华为云晰柔光吸顶屏 四激光雷达 | L3 级自动驾驶架构设计 享界 V8 Max+ 增程版 34.98 万元起 四驱 + 双腔空簧 + ",
+     "source": "IT之家",
+     "zh": "鸿蒙智行享界 V8 MPV 正式上市，31.98 万-42.98 万元起"
+    },
+    {
+     "title": "大疆涨价后，消息称影石 Luna 系列云台相机或将涨价",
+     "link": "https://www.ithome.com/1/030/050.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:04:29 GMT",
+     "summary": "IT之家 11 月 20 日消息，据界面新闻从影石创新北京多家门店工作人员处获悉，尽管目前官方暂未下发涨价通知，但内部培训师已向他们同步了 Luna 系列即将涨价的消息。 其中一家门店工作人员称：“因为供应商的原因， 近期确实有可能要涨价 ，但是具体时间和涨价幅度不清楚。” 另据科创板日报报道，上海市内多家影石 Insta360 门店店员同样称 Luna 系列或将提价。有门店店员透露，近期已收到通知，受存储成本影响， Luna 将于 12 月 15 日涨价约 300 元 ，其他系列暂未收到涨价通知。 据IT之家此前报道，今年 6 月， 影石发布旗下首款手持云台相机 Luna Ultra ，定价",
+     "source": "IT之家",
+     "zh": "大疆涨价后，消息称影石 Luna 系列云台相机或将涨价"
+    },
+    {
      "title": "Lomography 推出复古半格胶片相机 Lomo72，搭载多层镀膜玻璃镜头",
      "link": "https://www.ithome.com/1/030/049.htm",
      "pubDate": "Fri, 20 Nov 2026 07:55:42 GMT",
@@ -1842,60 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Steam / 蒸汽平台开启“2027 农历新年特卖”游戏厂商报名，1 月 17 日结束"
     },
     {
-     "title": "重力星球推出飞雀 S1 PRO 镁合金鼠标：延续家族美学，PAW3955 + nRF54LM20",
-     "link": "https://www.ithome.com/1/030/020.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:41:13 GMT",
-     "summary": "IT之家 11 月 20 日消息，重力星球 (GravaStar) 即将于今晚开始销售飞雀 S1 PRO 鼠标。 这一型号延续了该品牌标志性的镂空骨骼设计，拥有镁合金外壳，搭载原相 PAW3955 光学传感器、Nordic nRF54LM20 主控， 新品首发价 699 元 。 飞雀 S1 PRO 采用面向中小手型的对称式高背收腰模具 ，适配三种握姿；三维 119.3 × 65.5 × 38.5 (mm)，内置 400mAh 电池， 质量 49±2g 。 其配备定制 1.5M 红外光学按键微动、TTC 金轮滚轮编码器、PTFE 脚垫，PCB 覆盖防水涂层，支持三模连接，具备 20K fps 高",
-     "source": "IT之家",
-     "zh": "重力星球推出飞雀 S1 PRO 镁合金鼠标：延续家族美学，PAW3955 + nRF54LM20"
-    },
-    {
-     "title": "目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖",
-     "link": "https://www.ithome.com/1/030/006.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:38:51 GMT",
-     "summary": "IT之家 11 月 20 日消息，阿里巴巴昨晚公布 2027 财年第二季度（2026 年 7 月 1 日～2026 年 9 月 30 日）业绩，其中 AI 云与算力服务收入为 609.73 亿元，同比增长 53%。 阿里云官方宣布， 明年一季度，新一代 AI 芯片真武 V900 将量产售卖 ， 是目前算力性能最强的中国自研 AI 芯片 。搭载真武 V900 的新一代阿里云 AI 超节点，采用阿里云全新设计的智算中心网络架构， 单一集群可扩展至 50 万卡规模 。 IT之家注：真武 V900 是一款训推一体 AI 芯片，算力提升至真武 M890 的 3 倍，支持 216GB 显存、1200GB/",
-     "source": "IT之家",
-     "zh": "目前算力性能最强中国自研 AI 芯片，阿里真武 V900 明年一季度将量产售卖"
-    },
-    {
-     "title": "卖惨、引战、造恐慌，虚假摆拍正在透支什么？",
-     "link": "https://www.huxiu.com/article/4907173.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 15:34:31 +0800",
-     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年7月的四川宜宾，一家牛肉面馆门口，在两位店员的“押送”下，头套黑塑料袋的面馆老板蹲在地上，手指向一条横幅上的字： “取消外卖、关闭直播，恢复实体繁荣。” 相关的视频，很快就出现在短视频平台的同城页面，短短数日，吸引了两万多条评论。 如果只刷到一个这样的视频，会让人感觉是餐饮商家的情绪化表达，然而，紧随其后，另一家同在宜宾的酒楼也发布了相同模版的短视频；再接下来，又是一家档口餐馆、一家服装店…… 当雷同的情节、相似的文案批量出现，情形就没那样简单了。 11月10日到13日，央视新闻推出连续调查报道，记者循线找到那家宜宾面馆，发现外卖业务",
-     "source": "虎嗅",
-     "zh": "卖惨、引战、造恐慌，虚假摆拍正在透支什么？"
-    },
-    {
      "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
      "link": "https://www.techmeme.com/261120/p6#a261120p6",
      "pubDate": "Fri, 20 Nov 2026 02:25:00 -0500",
      "summary": "Barry Schwartz / Search Engine Roundtable : Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches &nbsp; &mdash;&nbsp; Google is now officially rolling out what it calls the &ldquo;collapsible sidebar&rdquo; within Google ",
      "source": "Techmeme",
      "zh": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)"
-    },
-    {
-     "title": "\"I can tell you wrote this yourself\"",
-     "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-     "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
-     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 5 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "\"I can tell you wrote this yourself\""
-    },
-    {
-     "title": "中国企业出海的另一面，钱如何跨越国界",
-     "link": "https://www.tmtpost.com/8212574.html",
-     "pubDate": "Fri, 20 Nov 2026 15:11:57 +0800",
-     "summary": "在近期巴伦中文网对粤港澳大湾区企业的一次调研中，收款和汇率是受访企业反复提及的话题。同时，随着业务向海外延伸，一些企业开始自建品牌和渠道、布局海外仓，资金的收付和周转也变得更加复杂。",
-     "source": "钛媒体",
-     "zh": "中国企业出海的另一面，钱如何跨越国界"
-    },
-    {
-     "title": "学费25800，年轻人的上岸焦虑，成了教培机构的又一门新生意",
-     "link": "https://www.huxiu.com/article/4905820.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 15:08:52 +0800",
-     "summary": "考公报名人数连年下降，培训机构存量市场吃得差不多，转向AI就业寻求增长。考公的岸变窄，AI的岸也在晃，年轻人挤来挤去只为找个落脚地。终究，掌握生活能力才是根本，该想清楚喜欢什么、擅长什么、社会需要什么。",
-     "source": "虎嗅",
-     "zh": "学费25800，年轻人的上岸焦虑，成了教培机构的又一门新生意"
     },
     {
      "title": "大脑的言语感知中枢也能生成口语词汇",
@@ -1930,18 +1930,10 @@ window.INDUSTRY_DATA = {
      "zh": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证"
     },
     {
-     "title": "受“全民医保”推进影响，联合健康股价继续下挫",
-     "link": "https://www.tmtpost.com/8212547.html",
-     "pubDate": "Fri, 20 Nov 2026 14:45:03 +0800",
-     "summary": "联合健康集团及其他保险公司股票周四下跌。民主党横扫国会，让推动“全民医保”（Medicare for All）的呼声重新燃起。保险公司接下来将何去何从。",
-     "source": "钛媒体",
-     "zh": "受“全民医保”推进影响，联合健康股价继续下挫"
-    },
-    {
      "title": "Former YC President: \"Stop!”",
      "link": "https://geoffralston.substack.com/p/stop",
      "pubDate": "Fri, 20 Nov 2026 06:43:08 +0000",
-     "summary": "Article URL: https://geoffralston.substack.com/p/stop Comments URL: https://news.ycombinator.com/item?id=50570984 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://geoffralston.substack.com/p/stop Comments URL: https://news.ycombinator.com/item?id=50570984 Points: 24 # Comments: 11",
      "source": "Hacker News",
      "zh": "Former YC President: \"Stop!”"
     },
@@ -1994,6 +1986,14 @@ window.INDUSTRY_DATA = {
      "zh": "Lazada 泰国本土店注册下来后，投广告 CPA 一直 300 泰铢以上正常吗？"
     },
     {
+     "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
+     "link": "https://www.wired.com/story/adorama-promo-code/",
+     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
+     "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+     "source": "WIRED",
+     "zh": "Adorama Camera Coupon Codes & Promo Codes: November 2026"
+    },
+    {
      "title": "Vimeo Promo Codes: 40% Off This November 2026",
      "link": "https://www.wired.com/story/vimeo-promo-code/",
      "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung's Galaxy Buds Active sport earbuds leak with high-end features",
+     "link": "https://www.gsmarena.com/samsungs_galaxy_buds_active_sport_earbuds_leak_with_highend_features-news-75554.php",
+     "pubDate": "Fri, 20 Nov 2026 09:07:02 +0100",
+     "summary": "Samsung recently unveiled its first clip-on earbuds, the Galaxy Buds On, and it looks like another new pair is on the way. SammyGuru has dug through the latest One UI 9.5 beta and found plenty of references to the Galaxy Buds Active, which are aimed at more sporty users. Despite the similar concept,",
+     "source": "GSMArena",
+     "zh": "Samsung's Galaxy Buds Active sport earbuds leak with high-end features"
+    },
     {
      "title": "Google Fi gives its Android app a fresh look and smarter customer support",
      "link": "https://www.androidauthority.com/google-fi-app-redesign-3737549/",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access"
     },
     {
-     "title": "Whoop becomes Formula 1's official wearable, will put drivers' heart rate on TV",
-     "link": "https://www.gsmarena.com/whoop_becomes_formula_1s_official_wearable_will_put_drivers_heart_rate_on_tv-news-75543.php",
-     "pubDate": "Fri, 20 Nov 2026 00:33:02 +0100",
-     "summary": "Whoop has just announced a four-year global partnership with Formula 1 that makes it the sport's Official Health & Fitness Wearable Partner. The company's tracker is also the first consumer wearable approved by the FIA for in-race use, and drivers will be allowed to wear it during a race for the fir",
-     "source": "GSMArena",
-     "zh": "Whoop becomes Formula 1's official wearable, will put drivers' heart rate on TV"
-    },
-    {
      "title": "Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM",
      "link": "https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/",
      "pubDate": "Thu, 19 Nov 2026 23:30:09 +0000",
@@ -2273,6 +2273,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "那些通过Anthropic IPO暴富的联合创始人、高管和公司",
+     "link": "https://wallstreetcn.com/articles/3786360",
+     "pubDate": "Fri, 20 Nov 2026 16:24:09 +0800",
+     "summary": "Anthropic的上市，一次性地为硅谷制造了一批新的亿万富翁，也让一批早期押注者获得了远超常规的风险投资回报。 Anthropic周三将IPO发行价定在每股83美元，高于70至78美元的指导区间。按此计算，该公司股权价值约1.5万亿美元。周四该股在纳斯达克以111.50美元开盘，收于97.17美元，较发行价上涨约17%，全额稀释市值约1.75万亿美元。 上市带来的财富效应集中而清晰：七位联合创始人合计持股约16.7亿股，每人身家约200亿美元；亚马逊与谷歌两大战略股东账面价值分别约2250亿和2000亿美元；十余家风险投资与芯片、云计算厂商同在这场财富分配之中。 需要指出的是，创始人的财富目",
+     "source": "华尔街见闻",
+     "zh": "那些通过Anthropic IPO暴富的联合创始人、高管和公司"
+    },
+    {
+     "title": "英伟达拟5亿美元收购扩散模型初创公司Inception，押注AI提速技术",
+     "link": "https://wallstreetcn.com/articles/3786353",
+     "pubDate": "Fri, 20 Nov 2026 16:17:56 +0800",
+     "summary": "英伟达正就收购AI初创公司Inception展开深度洽谈，交易估值 至少5亿美元 ，另附基于业绩目标的额外奖励安排。此举旨在为英伟达旗下开源模型项目Nemotron引入扩散模型技术与核心人才。 据科技媒体The Information 11月19日报道，三名知情人士透露，上述谈判已进入高级阶段。 Inception的扩散大语言模型技术及其背后的研究团队，预计将直接服务于英伟达Nemotron开源模型的研发 。谈判在英伟达CEO黄仁勋离任之前已经启动，目前尚无迹象显示英伟达将因领导层变动而退出。 值得关注的是， 微软此前也曾就类似交易与Inception接触 ，但最终未能推进。 扩散模型：比自回",
+     "source": "华尔街见闻",
+     "zh": "英伟达拟5亿美元收购扩散模型初创公司Inception，押注AI提速技术"
+    },
     {
      "title": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.05688 dividend",
      "link": "https://seekingalpha.com/news/4675052-pimco-global-income-opportunities-fund-unit-class-a-declares-cad-005688-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2373,25 +2389,9 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic上市首日散户成交额创纪录，但近半交易都在卖！",
      "link": "https://wallstreetcn.com/articles/3786351",
      "pubDate": "Fri, 20 Nov 2026 15:04:51 +0800",
-     "summary": "Anthropic上周四登陆纳斯达克，散户交易额打破历史纪录，却难掩内里的疲态——近半数成交来自卖出方向，净买入规模远低于市场预期，显示这场史上最大IPO的散户热情远比表面数字所呈现的更为脆弱。 据零售资金研究机构Vanda Research统计，Anthropic首日散户总成交额达7.72亿美元，超越今年6月SpaceX上市首日的6.69亿美元，创下Vanda自2012年有数据以来IPO首日散户交易量的最高纪录。 然而，这一纪录背后暗藏隐忧： Vanda分析师Viraj Patel指出，买入占比仅为53.9%，低于SpaceX首日的58.8%，折算后散户净买入仅约6000万美元，不及此前预测",
+     "summary": "Anthropic周四登陆纳斯达克，散户交易额打破历史纪录，却难掩内里的疲态——近半数成交来自卖出方向，净买入规模远低于Vanda此前的预估，显示这场史上最大IPO的散户热情远比表面数字所呈现的更为脆弱。 据零售资金研究机构Vanda Research统计，Anthropic首日散户总成交额达7.72亿美元，超越今年6月SpaceX上市首日的6.69亿美元，创下Vanda自2012年有数据以来IPO首日散户交易量的最高纪录。 然而，这一纪录背后暗藏隐忧： Vanda分析师Viraj Patel指出，买入占比仅为53.9%，低于SpaceX首日的58.8%，折算后散户净买入仅约6000万美元，不",
      "source": "华尔街见闻",
      "zh": "Anthropic上市首日散户成交额创纪录，但近半交易都在卖！"
-    },
-    {
-     "title": "空头杀疯了，黄金急需一个打破紧缩叙事的催化剂！",
-     "link": "https://wallstreetcn.com/articles/3786355",
-     "pubDate": "Fri, 20 Nov 2026 15:02:50 +0800",
-     "summary": "黄金市场正经历一场由空头主导、基本面逻辑全面失效的极端行情。德意志银行最新报告显示，宏观基金与离散型交易者正源源不断涌入黄金空头，美联储过度紧缩的恐惧已完全主导定价机制，将黄金价格与实物需求现实彻底割裂。 自9月22日以来，黄金已累计下跌16.7%，11月20日盘中一度跌破3520美元，续创2025年9月以来最低水平， 本周势将创三月以来最惨一周 。 美联储官员密集发声鹰派、美元指数连续第六个交易日创19个月新高，是此轮下跌的直接导火索。 据分析，过去40个交易日，美国金融条件收紧速度已超过2009年以来96%以上的可比时期，仅次于2020年新冠疫情冲击和2025年4月所谓\"对等关税日\"冲击等",
-     "source": "华尔街见闻",
-     "zh": "空头杀疯了，黄金急需一个打破紧缩叙事的催化剂！"
-    },
-    {
-     "title": "蚂蚁上半年利润约152亿元，接近去年全年估算水平",
-     "link": "https://wallstreetcn.com/articles/3786356",
-     "pubDate": "Fri, 20 Nov 2026 14:39:29 +0800",
-     "summary": "11月19日，阿里巴巴集团控股有限公司（以下简称“阿里”）发布中期业绩。 截至今年9月30日止六个月，阿里确认来自蚂蚁科技集团股份有限公司（以下简称“蚂蚁集团”）的权益法投资收益50.23亿元，同比增长17.4%。 按阿里在全面摊薄基础上的33%持股比例推算，蚂蚁集团今年上半年利润约152亿元，接近按同一方法估算的2025年全年利润153亿元。 阿里滞后一个季度确认相关损益，因此今年4月至9月确认的收益，对应蚂蚁集团今年1月至6月。 由于权益法核算涉及会计调整，按持股比例倒推的数字主要用于观察盈利规模和变化趋势。 按同一方法测算，蚂蚁集团2024年利润约383亿元，2025年降至约153亿元；",
-     "source": "华尔街见闻",
-     "zh": "蚂蚁上半年利润约152亿元，接近去年全年估算水平"
     },
     {
      "title": "现货黄金跌破3600美元，年内跌幅超三成",
@@ -2418,54 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI is changing software engineering — and some developers miss the struggle"
     },
     {
-     "title": "20cm速递丨A股三大指数集体回调，科创芯片设计ETF国泰（589260）近30日资金净流入1.66亿元",
-     "link": "http://stock.eastmoney.com/news/11622,202611203936024051.html",
-     "pubDate": "Fri, 20 Nov 2026 13:54:53 +0800",
-     "summary": "11月20日，A股三大指数集体下跌，其中上证指数下跌1.93%，深证成指下跌2.47%，创业板指下跌2.52%。在市场震荡调整的背景下，芯片设计作为科技领域的核心赛道，长期成长逻辑依然稳固，可关注相关ETF：科创芯片设计ETF国泰（589260）。 资金流向方面，科创芯片设计ETF国泰展现出较强的资金吸引力。最新数据显示，拉长周期看，近30日资金净流入达1.66亿元，显示出资金在板块调整阶段逆势布局的意愿。 从行业投资价值来看，随着 人工智能 、 大数据 等新一代信息技术的快速发展，算力需求持续攀升，芯片设计作为产业链上游的关键环节，受益于国产替代与技术创新的双重驱动。上证科创板芯片设计主题指",
-     "source": "东方财富股票",
-     "zh": "20cm速递丨A股三大指数集体回调，科创芯片设计ETF国泰（589260）近30日资金净流入1.66亿元"
-    },
-    {
-     "title": "四川长虹：10亿短融成功发行 债券票面利率1.44%折射信用成色",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936022693.html",
-     "pubDate": "Fri, 20 Nov 2026 13:54:25 +0800",
-     "summary": "据悉，近日 四川长虹 （600839.SH）在 银行 间债券市场成功完成10亿元短期融资券发行，债券票面利率低至1.44%，全场认购倍数达2.5倍，创下了中西部地区制造企业同品种债券最低利率。而值得关注的是，这也是 四川长虹 取得AAA主体信用评级后首次在 银行 间债券市场发债，具有里程碑式意义。 在制造业面临多重考验的当下，这一发行不仅是公司拓宽直接融资渠道、优化融资结构的关键一步，也向市场传递出资本对 四川长虹 资产质量、经营韧性、信用资质的高度认可，并在一定程度上为公司后续低成本融资并构建多元融资体系筑牢了坚实基础。 低利率与高认购 融资效率与信用溢价的双重兑现 有市场人士分析指出，四川",
-     "source": "东方财富股票",
-     "zh": "四川长虹：10亿短融成功发行 债券票面利率1.44%折射信用成色"
-    },
-    {
-     "title": "利好来了！事关海洋产业投融资，五部门最新发文",
-     "link": "http://finance.eastmoney.com/news/1352,202611203936022041.html",
-     "pubDate": "Fri, 20 Nov 2026 13:51:53 +0800",
-     "summary": "记者辛圆 据自然资源部官网11月20日发布消息，自然资源部会同国家发展改革委、中国人民 银行 、金融监管总局和中国证监会日前联合印发《海洋产业投融资指导目录（2026版）》。《目录》共11个大类、42个小类，总计185条，明确了今后一个时期我国海洋产业转型升级的重点。 《目录》一方面突出实用性，充分考虑企业生产经营和产业链上下游实际，对具有较强关联性的条目进行合并。另一方面突出前瞻性，单独设置“前沿方向”二级类别，将海底仓库、海水制氢、涉海智能隐身材料等纳入支持范畴，为新兴产业发展壮大铺路搭桥，也为 海洋经济 的长远发展预留政策空间。 自然资源部海洋战略规划与经济司司长沈君在周五的新闻发布会上",
-     "source": "东方财富股票",
-     "zh": "利好来了！事关海洋产业投融资，五部门最新发文"
-    },
-    {
-     "title": "贾国龙又“上新”了！这次改卖火锅 人均消费102元",
-     "link": "http://finance.eastmoney.com/news/1344,202611203936017590.html",
-     "pubDate": "Fri, 20 Nov 2026 13:51:36 +0800",
-     "summary": "11月19日，西贝旗下“天边冰煮鲜羊”呼和浩特首店正式开业，这是贾国龙围绕“天边”系列品牌进行的又一全新探索。 据了解，这家新店并未另行选址，而是落地在原“天边砂锅焖面”呼和浩特首店的旧址。该焖面门店今年3月开门迎客，经营约半年后于9月15日闭店休整，如今换上了新的门店招牌。 界面新闻在大众点评上查询该店铺了解到，目前该店的人均消费价格为102元。 事实上，这已经不是“天边”品牌的第一次业态变化。据蓝鲸新闻今年8月报道，“天边砂锅焖面”官方账号曾发布“天边羊多”宣传片，而“天边羊多”首店同样由“天边砂锅焖面”门店改造而来。当时西贝方面回应称，“天边羊多定位鲜羊料理，属于西北菜，是西贝在西北菜基",
-     "source": "东方财富股票",
-     "zh": "贾国龙又“上新”了！这次改卖火锅 人均消费102元"
-    },
-    {
-     "title": "英伟达三季报落地 A股入链企业影响多大？券商观点落地",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936017690.html",
-     "pubDate": "Fri, 20 Nov 2026 13:51:28 +0800",
-     "summary": "近日， 英伟达 披露2027财年第三季度财报，这份“业绩与指引双超预期”的成绩单引发市场对于A股的影响。 综合 市场机构初步调研情况来看，A股参与 英伟达 供应链的真实体量比市场想象的要小。 调研数据显示，沪深两市只有36家公司较多参与 英伟达 供应链，A股公司在英伟达采购链中的占比不足10%，多数公司涉及英伟达的业务占比仅为个位数。 综合 卖方研究观点，对A股而言，英伟达这份财报的意义在于两个关键方面，一是全球算力资本开支仍在上修，2028财年增速指引由70%提至75%，二是对华供给持续收窄，份额降至约34%、许可Hopper停售、远程获取新规落地。其中，前者决定已进入供应链公司的订单能见度",
-     "source": "东方财富股票",
-     "zh": "英伟达三季报落地 A股入链企业影响多大？券商观点落地"
-    },
-    {
-     "title": "超480亿元，大举净流入！",
-     "link": "http://stock.eastmoney.com/news/11215,202611203936020329.html",
-     "pubDate": "Fri, 20 Nov 2026 13:51:11 +0800",
-     "summary": "【导读】11月19日股票ETF净流入超480亿元 中国基金报记者张玲 11月19日，A股三大指数集体收跌。行业表现上， 半导体 板块活跃， 先进封装 、 光刻胶 等概念股上涨； 传媒 板块持续下挫，冰雪 旅游概念 股跌幅居前。 ETF市场上，当日全市场资金净流入511.6亿元。其中，净流入前五的板块分别为沪深300指数（净流入270.4亿元）、科创50指数（净流入88.0亿元）、 中证500 指数（净流入76.8亿元）、货币（净流入70.1亿元）、中证1000指数（净流入45.3亿元）。 从大类型来看，11月19日，宽基ETF与港股市场ETF净流入居前，分别达478.32亿元与18.18亿元；",
-     "source": "东方财富股票",
-     "zh": "超480亿元，大举净流入！"
-    },
-    {
      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 05:45:11 GMT",
@@ -2482,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "So, Anthropic is finally a public company. What now?"
     },
     {
-     "title": "1分钟，扫货近10亿！刚刚，集体放量！",
-     "link": "http://stock.eastmoney.com/news/11622,202611203935988558.html",
-     "pubDate": "Fri, 20 Nov 2026 13:10:30 +0800",
-     "summary": "又是临近午盘的一次扫货！ 11月20日临近午盘，多只宽基ETF成交放量，创业板ETF易方达（159915）上午成交超102亿元，其中11时21分，成交9.77亿元，中证1000ETF南方（512100）上午成交超45亿元，均较昨日同期增超1倍，沪深300ETF华泰柏瑞（510300）上午成交超69亿元，上午最后15分钟内成交达33亿元。 上午，市场整体探底回升，沪指最低探到3500.88点，形成一个所谓的“对子底”。大市半日成交0.86万亿元，较上日同期略放量。结构上，电路板、 物理AI 、 农林牧渔 、 传媒 板块十分活跃， 超声电子 、 澳弘电子 、 金新农 、 风语筑 等涨停。AI硬件侧",
-     "source": "东方财富资讯",
-     "zh": "1分钟，扫货近10亿！刚刚，集体放量！"
-    },
-    {
      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
      "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
      "pubDate": "Fri, 20 Nov 2026 05:09:52 GMT",
@@ -2498,20 +2442,76 @@ window.INDUSTRY_DATA = {
      "zh": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes"
     },
     {
-     "title": "“秒”涨停，002771斩获4连板，高股息超跌标的来了",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935983694.html",
-     "pubDate": "Fri, 20 Nov 2026 13:05:26 +0800",
-     "summary": "多只 银行 股股价持续创新高。 今日（11月20日）市场震荡调整，早盘指数走弱， 有色金属 、算力、光 通信 、 军工 等方向跌幅居前。 高股息板块持续活跃， 中信银行 、 建设银行 、 工商银行 、 中国银行 等多只 银行 股早盘股价持续创新高。 消息面上，首批18只主动ETF将于11月23日集中上市，从日前披露的前十大重仓股来看底仓配置，18只主动ETF呈现红利资产防御+硬科技增强收益的特征。 银行 是最受偏爱的板块之一，12只主动ETF前十大重仓股中均有银行股身影，除国有六大行之外，还有 招商银行 、 中信银行 、 兴业银行 、 江苏银行 、 青岛银行 、 宁波银行 等。 早盘 煤炭 板",
-     "source": "东方财富资讯",
-     "zh": "“秒”涨停，002771斩获4连板，高股息超跌标的来了"
-    },
-    {
      "title": "Can Nvidia learn from AIG’s mistakes?",
      "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 05:00:17 GMT",
      "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
      "source": "Financial Times",
      "zh": "Can Nvidia learn from AIG’s mistakes?"
+    },
+    {
+     "title": "Pensions are eating everything",
+     "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 05:00:08 GMT",
+     "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+     "source": "Financial Times",
+     "zh": "Pensions are eating everything"
+    },
+    {
+     "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+     "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+     "pubDate": "Fri, 20 Nov 2026 03:56:17 GMT",
+     "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+     "source": "CNBC",
+     "zh": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+    },
+    {
+     "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 03:31:00 GMT",
+     "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?"
+    },
+    {
+     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 01:30:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
+    },
+    {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 01:22:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "AMD dives on short seller report of alleged China exposure",
+     "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "pubDate": "Fri, 20 Nov 2026 00:08:34 GMT",
+     "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+     "source": "CNBC",
+     "zh": "AMD dives on short seller report of alleged China exposure"
+    },
+    {
+     "title": "FCA opens AI Spotlight Observatory",
+     "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 20 Nov 2026 00:01:00 GMT",
+     "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
+     "source": "Finextra",
+     "zh": "FCA opens AI Spotlight Observatory"
+    },
+    {
+     "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+     "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+     "pubDate": "Thu, 19 Nov 2026 23:56:00 GMT",
+     "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+     "source": "MarketWatch",
+     "zh": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead"
     }
    ]
   },

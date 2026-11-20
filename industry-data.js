@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 08:12:08",
+ "generated_at": "2026/11/20 08:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Sierra Club Submits Comments Urging SEC to Preserve Shareholder Rights & Climate Accountability",
+     "link": "https://cleantechnica.com/2026/11/19/sierra-club-submits-comments-urging-sec-to-preserve-shareholder-rights-climate-accountability/",
+     "pubDate": "Fri, 20 Nov 2026 00:14:02 +0000",
+     "summary": "WASHINGTON, D.C. — On Thursday, Sierra Club submitted two comment letters opposing the Securities and Exchange Commission’s (SEC) proposal to rescind Rule 14a-8, which allows shareholders to put proposals addressing climate risks and other corporate issues before fellow investors for a vote, and ame",
+     "source": "CleanTechnica",
+     "zh": "Sierra Club Submits Comments Urging SEC to Preserve Shareholder Rights & Climate Accountability"
+    },
+    {
      "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
      "link": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Boom-Rekindles-Frontier-Drilling-Appetite.html",
      "pubDate": "Thu, 19 Nov 2026 18:00:00 -0600",
@@ -965,7 +973,7 @@ window.INDUSTRY_DATA = {
      "title": "Grid operators need data center ride-through rules that protect reliability",
      "link": "https://www.utilitydive.com/news/grid-operators-data-center-ride-through-rules-ercot-nerc/873466/",
      "pubDate": "Thu, 19 Nov 2026 12:13:16 -0500",
-     "summary": "Large load ride-through concerns can be addressed, but the power sector must adopt rules that protect grid reliability while providing certainty to the data center industry, writes ON.energy CEO Alan Cooper.",
+     "summary": "The first facilities built to Texas&rsquo; new standard are about to come online, proving that firm, predictable regulation can protect reliability without slowing market development, writes ON.energy CEO Alan Cooper.",
      "source": "Utility Dive",
      "zh": "Grid operators need data center ride-through rules that protect reliability"
     },
@@ -1093,7 +1101,7 @@ window.INDUSTRY_DATA = {
      "title": "New York state is short electric resources beginning 2033: ISO",
      "link": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
      "pubDate": "Thu, 19 Nov 2026 05:55:14 -0500",
-     "summary": "New York will face an approximately 225 MW statewide resource deficiency beginning 2033, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
+     "summary": "New York will face an approximately 225 MW statewide resource deficiency, with the need&nbsp;for power resources growing to 1,850 MW by 2036, the state&rsquo;s grid operator said Wednesday.",
      "source": "Utility Dive",
      "zh": "New York state is short electric resources beginning 2033: ISO"
     },
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla says it will build a polysilicon plant in Texas only if the state cuts its property tax bill, as it seeks to produce solar’s most China-dominated material at home. The post Tesla seeks Texas tax break for $3.1 billion polysilicon plant appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Tesla seeks Texas tax break for $3.1 billion polysilicon plant"
-    },
-    {
-     "title": "Most of BESS supply industry is not ready for EU’s 2027 Battery Regulations, report says",
-     "link": "https://www.energy-storage.news/most-bess-supply-industry-not-ready-for-eu-2027-battery-regulations-report/",
-     "pubDate": "Thu, 19 Nov 2026 10:45:43 +0000",
-     "summary": "The EU is introducing several major regulations for batteries next year, including the Battery Passport and supply chain due diligence and traceability requirements, but the BESS industry is far from prepared.",
-     "source": "Energy Storage News",
-     "zh": "Most of BESS supply industry is not ready for EU’s 2027 Battery Regulations, report says"
     }
    ]
   },
@@ -1210,12 +1210,12 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Peptide market poised to explode with new Hims and Noom launches"
     },
     {
-     "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
      "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
      "pubDate": "Thu, 19 Nov 2026 11:42:00 -0500",
      "summary": "A commission called on U.S. lawmakers to act quickly to prevent an &ldquo;overdependence&rdquo; on China that could leave American patients &ldquo;vulnerable to supply chain weaponization.&rdquo;",
      "source": "BioPharma Dive",
-     "zh": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns"
+     "zh": "China could ‘corner’ biopharma sector with new plan, US panel warns"
     },
     {
      "title": "Chinese AI lab MegaRobo raises nearly $200M; Isomorphic partners with Merck",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "VMware patches vCenter zero-day exploited in attacks since September",
+     "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+     "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500",
+     "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+     "source": "BleepingComputer",
+     "zh": "VMware patches vCenter zero-day exploited in attacks since September"
+    },
+    {
      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
      "pubDate": "Thu, 19 Nov 2026 22:40:03 GMT",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "Five warning signs of ransomware breach before encryption or data theft"
     },
     {
-     "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-     "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-     "pubDate": "Thu, 19 Nov 2026 09:57:24 -0500",
-     "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-     "source": "BleepingComputer",
-     "zh": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers"
-    },
-    {
      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
      "pubDate": "Thu, 19 Nov 2026 20:03:06 +0530",
@@ -1778,6 +1778,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+     "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+     "pubDate": "Fri, 20 Nov 2026 00:26:03 +0000",
+     "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+     "source": "TechCrunch",
+     "zh": "Anthropic rival says companies can (mostly) skip the pricey models"
+    },
+    {
+     "title": "马斯克真正的超能力，是让全世界替他付学费",
+     "link": "https://www.huxiu.com/article/4907037.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:18:07 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：政策研究组 最近有一部关于Elon Musk的纪录片非常火，片名就叫《Musk》，将近四个小时，中间要放十分钟中场休息。 《Musk》海报 导演亚历克斯·吉布尼拿过奥斯卡，拍过安然，拍过血检骗局的伊丽莎白·霍姆斯，拍过山达基教会。 威尼斯首映时全场起立鼓掌好几分钟。Variety的记者半开玩笑地补了一句：掌声没持续更久，是因为大家坐太久了，急着出去活动腿脚。 这部片子最出圈的设定，是主角一秒钟都没有真正出场。 马斯克拒绝受访。 吉布尼干脆用AI造了一个\"数字马斯克\"，喂进去他这些年公开说过的每一句话，让它对着镜头回答问题。 导演亚历克斯·吉布尼",
+     "source": "虎嗅",
+     "zh": "马斯克真正的超能力，是让全世界替他付学费"
+    },
+    {
+     "title": "驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万",
+     "link": "https://www.huxiu.com/article/4907036.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:17:50 +0800",
+     "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万！》 11月18日，西安市长安区人民法院沣峪人民法庭对秦岭“4·21”驴友遇难案作出一审判决。陈某和崔某在这次穿越中遇难，陈某家属提起诉讼。法院认定，陈某明知路线禁入仍进山，对自身死亡承担主要责任。 活动组织者廖某承担10%的赔偿责任，同行者刘某承担5%，两人合计赔偿18万余元。被起诉的民间救援人员、公益救援中心和当地秦岭保护执法部门均无过错，不承担赔偿责任。 四个人进山两个人遇难 2025年4月，廖某在微信群里约人走秦岭“光鹿跑兵冰”。名字取自沿途的光头山、鹿角梁、跑马",
+     "source": "虎嗅",
+     "zh": "驴友违规穿越秦岭遇难，家属起诉救援队败诉，组织者和同行者赔偿18万"
+    },
+    {
+     "title": "全球最大规模IPO、10大药企9家买单，Anthropic刚刚上市",
+     "link": "https://www.huxiu.com/article/4907035.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:10:41 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：姚敬 美东时间11月19日，Anthropic正式登陆纳斯达克，发行价定在每股83美元，高于之前70~78美元的询价区间。该公司发行9.8亿股A类普通股，此次公开发行募得约813亿美元，加上260亿美元私募配售，总募资突破千亿美元。超过SpaceX6月含超额配售的862亿美元，一举成为全球史上规模最大的IPO，也是首家登陆美股的前沿AI实验室。首个交易日，开盘111.5美元（+34.3%），盘中最高115.1美元（+38.7%），收盘97.17美元，首日收涨17.07%，总市值约1.27万亿美元。 Anthropic正式登陆纳斯达克，图源Nasdaq 这家",
+     "source": "虎嗅",
+     "zh": "全球最大规模IPO、10大药企9家买单，Anthropic刚刚上市"
+    },
+    {
+     "title": "铁路 12306 App 信息通知服务今日起优化：新增候补兑现情况和列车运行调整等",
+     "link": "https://www.ithome.com/1/029/763.htm",
+     "pubDate": "Fri, 20 Nov 2026 00:09:05 GMT",
+     "summary": "IT之家 11 月 20 日消息，据国铁集团官方，11 月 20 日起，铁路部门将在 12306App 系统通知中 新增候补兑现情况和列车运行调整 等业务场景的信息通知服务，进一步完善旅客信息服务能力，保障广大旅客出行顺畅。 本次通知服务优化后，旅客在铁路 12306（IT之家注：网站和 App）办理购票、改签、退票、候补、预约等业务时，铁路部门将通过 12306App 系统通知、旅客选择的通知渠道（微信或支付宝）以及预留的电子邮箱等方式向旅客发送相关服务信息。 如遇列车运行调整，停运、折返、恢复开行、席位调整等情况，铁路部门将及时通过 12306 App 系统通知、短信等方式向旅客发送相关服",
+     "source": "IT之家",
+     "zh": "铁路 12306 App 信息通知服务今日起优化：新增候补兑现情况和列车运行调整等"
+    },
+    {
+     "title": "“腾讯到了生死存亡”，马化腾亮牌",
+     "link": "https://www.huxiu.com/article/4907034.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 08:06:03 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：李原，作者：闫俊文 自由现金流转负，“字节时间”压顶，腾讯组织变革箭在弦上。 11月11日，在本应轻松的“腾讯周年庆”上，马化腾向11.9万名腾讯员工抛出了尖锐警示。他开场就定下基调：“今天我和Martin（腾讯集团总裁刘炽平）穿的一黑一白，难听的话我来说。” 马化腾措辞前所未有地严厉：“远处浪潮已经吞没一个个山丘，你不能还坐着欣赏。”并直指组织顽疾，“不要让中间传话的不想动还霸占地盘的干部成为阻碍，山头主义、地盘意识都要完全打破”，“选择适应新打法的人，要干脆”。 11月16日，“腾讯文化”公众号刊发讲话纪要，把寒意坐实：“这场智能革命，不主动投",
+     "source": "虎嗅",
+     "zh": "“腾讯到了生死存亡”，马化腾亮牌"
+    },
+    {
      "title": "OpenAI印证了梁文锋的“预言”",
      "link": "https://www.tmtpost.com/8211368.html",
      "pubDate": "Fri, 20 Nov 2026 08:05:00 +0800",
@@ -1792,6 +1840,30 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，题图来自：视觉中国 清醒地认识到自己在见证历史，是挺刺激的一件事。 Anthropic上市，就是这样。 当地时间11月19日，做出Claude的Anthropic在纳斯达克挂牌，股票代码ANT。第一笔交易以每股111.50美元成交，较83美元的发行价上涨34.34%。 按完全稀释口径算，Anthropic的估值从发行时的约1.5万亿美元涨到了约2万亿美元。之后股价有所回落，截至发稿，ANT 股价为 94.62 美元，市值约 1.24 万亿。 一出道就已经是很多公司此生难以企及的高度。 今年6月，马斯克的SpaceX上市时，我们才用过一回&ldqu",
      "source": "虎嗅",
      "zh": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元"
+    },
+    {
+     "title": "商务部：1-10 月重点平台智能眼镜销售额增长 1 倍，具身智能机器人销售额增长 25.2%",
+     "link": "https://www.ithome.com/1/029/762.htm",
+     "pubDate": "Fri, 20 Nov 2026 00:00:26 GMT",
+     "summary": "IT之家 11 月 20 日消息，11 月 19 日， 商务部消费促进司负责人谈 2026 年 1-10 月我国消费市场情况。今年以来，我国消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点。1-10 月，社会消费商品和服务零售总额同比（下同）增长 2.5%。 IT之家从公告获悉，在消费品以旧换新政策强有力的带动下，绿色、智能消费持续增长。1-10 月，限额以上单位通讯器材（含手机）、文化办公用品（含电脑、平板）零售额分别增长 16.5%、6.0%。商务部商务大数据显示， 重点平台智能眼镜销售额增长 1 倍 ，外骨骼助力器销售额增长 44.4%，具身智能机器人销售额增长 25.",
+     "source": "IT之家",
+     "zh": "商务部：1-10 月重点平台智能眼镜销售额增长 1 倍，具身智能机器人销售额增长 25.2%"
+    },
+    {
+     "title": "绿联首款 60W AVS 屏显充电器发售：可智能识别苹果 iPhone 18 Pro Max、iPhone Duo 等机型",
+     "link": "https://www.ithome.com/1/029/761.htm",
+     "pubDate": "Thu, 19 Nov 2026 23:53:35 GMT",
+     "summary": "IT之家 11 月 20 日消息，绿联新推出了一款“60W 速显充”氮化镓充电器产品，属于原先 45W 型号的升级版，型号 X740，京东自营店显示为 109 元，天猫旗舰店显示 99 元。 京东 绿联【苹果 AVS 协议】60W 速显充 适用苹果 18pro max 充电器头氮化镓屏显 iPhone17/Duo 手机 TypeC 线快充插头 109 元 直达链接 据商品页面介绍，该产品为绿联首款 60W AVS 屏显充电器，采用第七代氮化镓（GaN）方案，支持苹果 AVS 可调电压电源协议与 PD 3.2 快充，可智能识别 iPhone 18 Pro / Pro Max、iPhone Duo",
+     "source": "IT之家",
+     "zh": "绿联首款 60W AVS 屏显充电器发售：可智能识别苹果 iPhone 18 Pro Max、iPhone Duo 等机型"
+    },
+    {
+     "title": "在 Apple TV 看女车手飙车：苹果将直播 F1 Academy，上海站明年 4 月开启",
+     "link": "https://www.ithome.com/1/029/760.htm",
+     "pubDate": "Thu, 19 Nov 2026 23:49:31 GMT",
+     "summary": "IT之家 11 月 20 日消息，苹果宣布扩大旗下 Apple TV 平台的赛车内容布局， 将于 2027 年引入全女性赛车系列赛 F1 Academy。 IT之家查询公开资料，F1 Academy 是一级方程式（F1）旗下的全女性单座赛车系列赛，于 2022 年创立、2023 年正式开赛，属于 Formula 4 级别。该赛事是一条面向年轻女性车手的职业发展通道，帮助她们积累比赛经验、提升体能与技术，进而向 F3、F2 乃至 F1 晋级。 赛车运动长期由男性主导，女性车手从卡丁车、初级方程式进入更高级别赛事时，往往缺少足够的比赛里程、训练资源和职业曝光。F1 Academy 的目标希望填补这",
+     "source": "IT之家",
+     "zh": "在 Apple TV 看女车手飙车：苹果将直播 F1 Academy，上海站明年 4 月开启"
     },
     {
      "title": "宁波瑰丽变福朋？豪门业主不装了",
@@ -1826,60 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Visa、万事达卡接连通报网络攻击事件：部分用户数据泄露，支付网络未受影响"
     },
     {
-     "title": "摩根大通陷入数据泄露风波：黑客宣称已掌握 1.6 万个客户邮箱",
-     "link": "https://www.ithome.com/1/029/757.htm",
-     "pubDate": "Thu, 19 Nov 2026 23:34:11 GMT",
-     "summary": "IT之家注：IT之家 11 月 20 日消息，摩根大通（JPMorgan Chase）昨日（11 月 19 日）发布公告， 确认为其提供服务的第三方供应商遭到网络攻击，部分客户姓名和电子邮箱可能已被攻击者获取。 摩根大通表示目前已直接联系受影响客户，并称 该事件与本周早些时候部分客户遇到的交易处理故障无关 。 据路透社报道，摩根大通发言人称，初步调查显示，攻击者访问了供应商保存的部分营销数据，其中可能包含客户姓名及电子邮箱地址。银行尚未披露受影响客户的具体数量，也未说明是否涉及账户密码、银行卡号或交易信息等更敏感资料。 自称名为“n0n”的网络勒索组织宣称获取了相关营销记录， 其中包括超过 1",
-     "source": "IT之家",
-     "zh": "摩根大通陷入数据泄露风波：黑客宣称已掌握 1.6 万个客户邮箱"
-    },
-    {
      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
      "pubDate": "Thu, 19 Nov 2026 23:32:11 +0000",
-     "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 20 # Comments: 2",
+     "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycombinator.com/item?id=50568082 Points: 30 # Comments: 2",
      "source": "Hacker News",
      "zh": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers"
-    },
-    {
-     "title": "《可能的爱》：在无力改变的世界里，我们如何相爱？",
-     "link": "https://www.huxiu.com/article/4907027.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 07:31:50 +0800",
-     "summary": "本文来自微信公众号： 界面文化 ，作者：席梦茹，编辑：李欣媛，题图来自：视觉中国 2026年9月，李沧东 （Lee Chang-dong） 携新片《可能的爱》 （Possible Love） 亮相第83届威尼斯国际电影节主竞赛单元，并凭借此片获得评审团大奖银狮奖。电影脱胎于2009年韩国发生的一场真实冲突，当时韩国汽车制造商双龙汽车宣布，将在位于首尔以南的平泽工厂裁减三分之一的员工，涉及人数约为2600人。公司辩解称，裁员是金融危机之时维持企业生存的必要措施。然而，李沧东对这场劳资冲突有着不同的理解。 在接受Deadline采访时，李沧东表示，自己当年就意识到，韩国劳动市场可能正经历一场深刻转",
-     "source": "虎嗅",
-     "zh": "《可能的爱》：在无力改变的世界里，我们如何相爱？"
-    },
-    {
-     "title": "吉利星越 L PLUS 预计 12 月上市，搭 2.0T 混动、Flyme Auto 座舱，预售 15.77 万元起",
-     "link": "https://www.ithome.com/1/029/756.htm",
-     "pubDate": "Thu, 19 Nov 2026 23:30:32 GMT",
-     "summary": "IT之家 11 月 20 日消息，据易车援引相关渠道消息，吉利星越 L PLUS 预计将于 12 月正式上市。该车已在 11 月 12 日开启预售，共推出 5 款车型，预售价区间 16.77-20.97 万元，预售先享价 15.77-19.97 万元。 据IT之家了解，星越 L PLUS 的车身长度达到 4955mm， 轴距增至 2900mm ，整体规格相比现款星越 L 有明显提升。外观方面，新车采用吉利最新的家族化设计语言，提供乌金黑、甜釉白、青韵灰、郎窑绿、霜釉银等在内的六款车色。 智能化配置上，新车按车型梯度有所区分。次顶配揽晖至尊版与顶配大师典藏版搭载激光雷达，配备英伟达 Orin-Y",
-     "source": "IT之家",
-     "zh": "吉利星越 L PLUS 预计 12 月上市，搭 2.0T 混动、Flyme Auto 座舱，预售 15.77 万元起"
-    },
-    {
-     "title": "1280000000000美元，Anthropic一夜杀疯",
-     "link": "https://www.huxiu.com/article/4907024.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 07:22:33 +0800",
-     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 视觉中国 美东时间11月19日，Anthropic上市首日正式收盘报97.17 美元/股，较发行价上涨17.07%，收盘市值约1.28 万亿美元，盘中一度曾冲到2 万亿美元。（ 虎嗅注：按最终招股书列示的发行及同步私募后总股数计算，不计超额配售 ） 终于，创立不到六年的人工智能巨头Anthropic，通过有史以来规模最大的IPO募集了约813亿美元，成为一家上市公司。其股票在纳斯达克上市交易，股票代码为&ldquo;ANT&rdquo;。 北京时间11月19日晚22点30分，常规交易时段开始后，在延迟开盘撮合期间，指示性开盘价",
-     "source": "虎嗅",
-     "zh": "1280000000000美元，Anthropic一夜杀疯"
-    },
-    {
-     "title": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动...",
-     "link": "https://www.ithome.com/1/029/755.htm",
-     "pubDate": "Thu, 19 Nov 2026 23:21:22 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 20 日星期五，今天的重要科技资讯有： 1. Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元 Anthropic 的发行价定为每股 83 美元（现汇率约合 554.5 元人民币），高于上周公布的预期区间，完全稀释后市值达到 1.5 万亿美元（现汇率约合 10.02 万亿元人民币）。>> 查看详情 2. 1 厘米标尺竟有 12 个刻度，中南大学通报附属医院 AI 论文争议、确认存在学术不端行为 中南大学表示，学校始终坚持对学术不端行为“零容忍”，将进一步加强科研作风建设，完善监督核查体系，坚决维护风清气正的学术",
-     "source": "IT之家",
-     "zh": "IT早报 1120：Anthropic 完成 813 亿美元史上最大规模 IPO；中南大学通报附属医院 AI 论文争议；腾讯大幅削减元宝投入；比亚迪发布 DMS 超级混动..."
-    },
-    {
-     "title": "苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理",
-     "link": "https://www.ithome.com/1/029/754.htm",
-     "pubDate": "Thu, 19 Nov 2026 23:20:17 GMT",
-     "summary": "IT之家 11 月 20 日消息，苹果于当地时间 11 月 19 日向公测版用户推送了 iOS / iPadOS 27.3 和 macOS 27.3 Beta 2，以及 tvOS 27.3 和 watchOS 27.3 的 Beta 2。 据 9to5Mac 和 MacRumors 报道，此次更新延续了苹果在新一代操作系统中对 Siri AI、Safari 浏览器及系统隐私权限管理的调整。 macOS 27.3 Beta 2 公测版的版本号为 26C5047e ，与此前发布的开发者预览版 Beta 2 一致。此次更新的重点之一是新增针对完全磁盘访问权限（Full Disk Access）和自动",
-     "source": "IT之家",
-     "zh": "苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理"
     },
     {
      "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
@@ -1890,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份"
     },
     {
-     "title": "Anthropic上市，一半多员工成千万美元富豪",
-     "link": "https://www.huxiu.com/article/4907028.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 07:17:18 +0800",
-     "summary": "本文来自微信公众号： 涌流商业 ，作者：林耕 如果你在2024年加入Anthropic，即使只是行政助理，现在大概率至少是百万美元富豪了。 那年5月，这家公司发布过一份招聘公告，职位是行政业务伙伴。工作内容是为高管安排日程、处理报销，年薪14-19万美元，算是一份还不错的薪水。招聘特别强调，股权是整体薪酬的重要组成部分。 这句话现在有了不同的分量。11月19日上午11点48分（美东时间），Anthropic股票开始交易，开盘价达到111.50美元，较发行价上涨34%，完全摊薄估值（Fully Diluted Valuation）一度突破2万亿美元。 随后股价随后回落，最终收于97.17美元，较",
-     "source": "虎嗅",
-     "zh": "Anthropic上市，一半多员工成千万美元富豪"
-    },
-    {
      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
      "pubDate": "Thu, 19 Nov 2026 23:12:17 +0000",
      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
      "source": "WIRED",
      "zh": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women"
-    },
-    {
-     "title": "中国车企为何迟迟不去德国建厂",
-     "link": "https://www.huxiu.com/article/4907026.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 07:11:37 +0800",
-     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 \"如果你曾好奇，我们会拿柏林超级工厂这么多土地来做什么？\" 2026年11月16日，特斯拉德国格伦海德工厂厂长安德烈·蒂里希（AndréThierig）在社交平台X上写下这句话。 答案随即揭晓：特斯拉将投资30亿欧元，在柏林东南郊格伦海德（Grünheide）现有工厂北侧新建一座厂房，专门生产无人驾驶出租车Cybercab，计划2029年投产，远期设计年产能最高100万辆。 同一时期，正在欧洲加快本土化生产的中国车企几乎都绕开了德国。 比亚迪选择匈牙利，奇瑞汽车选择西班牙，小鹏汽车交给奥地利麦格纳斯太尔（加拿大麦格纳国际",
-     "source": "虎嗅",
-     "zh": "中国车企为何迟迟不去德国建厂"
     },
     {
      "title": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&apos;s resignation (The Information)",
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
      "pubDate": "Thu, 19 Nov 2026 22:56:59 +0000",
-     "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 26 # Comments: 9",
+     "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/ Comments URL: https://news.ycombinator.com/item?id=50567735 Points: 32 # Comments: 10",
      "source": "Hacker News",
      "zh": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "RegExr: Temporarily Offline",
      "link": "https://regexr.com/",
      "pubDate": "Thu, 19 Nov 2026 22:27:07 +0000",
-     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 24 # Comments: 16",
+     "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 26 # Comments: 16",
      "source": "Hacker News",
      "zh": "RegExr: Temporarily Offline"
     },
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Synology Security Advisory",
      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
      "pubDate": "Thu, 19 Nov 2026 22:13:40 +0000",
-     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 69 # Comments: 33",
+     "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 75 # Comments: 36",
      "source": "Hacker News",
      "zh": "Synology Security Advisory"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
      "source": "Ars Technica",
      "zh": "MAHA PAC spent more on steak, luxury club than candidates, report shows"
-    },
-    {
-     "title": "At a Senate hearing, Trump&apos;s CISA director nominee Michael LoSapio dodged questions about the agency&apos;s priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)",
-     "link": "https://www.techmeme.com/261119/p50#a261119p50",
-     "pubDate": "Thu, 19 Nov 2026 16:01:29 -0500",
-     "summary": "Eric Geller / Cybersecurity Dive : At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more &nbsp; &mdash;&nbsp; Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on",
-     "source": "Techmeme",
-     "zh": "At a Senate hearing, Trump&apos;s CISA director nominee Michael LoSapio dodged questions about the agency&apos;s priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+     "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+     "pubDate": "Fri, 20 Nov 2026 00:03:22 +0000",
+     "summary": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+     "source": "Engadget",
+     "zh": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks"
+    },
     {
      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
      "link": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
@@ -2234,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google brings computer use to Mac, letting Gemini handle chores without hijacking your screen"
     },
     {
-     "title": "Employees call out Google over AI Search in schools",
-     "link": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
-     "pubDate": "Thu, 19 Nov 2026 20:00:12 +0000",
-     "summary": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
-     "source": "Engadget",
-     "zh": "Employees call out Google over AI Search in schools"
-    },
-    {
      "title": "New Motorola Razr Flex renders offer best look yet at wide-body foldable",
      "link": "https://www.androidauthority.com/razr-flex-renders-3737393/",
      "pubDate": "Thu, 19 Nov 2026 19:56:03 +0000",
@@ -2274,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+     "pubDate": "Fri, 20 Nov 2026 00:29:04 GMT",
+     "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+     "source": "CNBC",
+     "zh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices"
+    },
+    {
+     "title": "Nextech3D.ai outlines 30% take rate on dynamic booth pricing as KATE targets Q1 2027 launch",
+     "link": "https://seekingalpha.com/news/4674992-nextech3d-ai-outlines-30-percent-take-rate-on-dynamic-booth-pricing-as-kate-targets-q1-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 19 Nov 2026 19:15:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nextech3D.ai outlines 30% take rate on dynamic booth pricing as KATE targets Q1 2027 launch"
+    },
+    {
+     "title": "Anthropic“超级IPO”：过半机构投资者“一股未得”，散户“凶猛买卖”",
+     "link": "https://wallstreetcn.com/articles/3786325",
+     "pubDate": "Fri, 20 Nov 2026 08:15:17 +0800",
+     "summary": "Anthropic史上最大规模IPO在机构与散户之间制造了截然不同的两个世界：超过半数机构投资者颗粒无收，而散户则以创纪录的交易量同时扮演买家与卖家。 据彭博最新报道， 约1200家机构投资者参与了此次认购，但超过半数未能获得任何配股 。Anthropic此次IPO连同七位联合创始人共募资1073亿美元，其中包括来自英伟达、谷歌及超微半导体（AMD）等投资者的260亿美元私募配售，从SpaceX手中夺得史上最大规模首次公开募股的桂冠。按发行价计算，Anthropic完全摊薄市值达1.5万亿美元。 与此同时，散户投资者的总交易额（含买入与卖出）预计将达到7亿至8亿美元，超越SpaceX上市首日的",
+     "source": "华尔街见闻",
+     "zh": "Anthropic“超级IPO”：过半机构投资者“一股未得”，散户“凶猛买卖”"
+    },
+    {
      "title": "AMD dives on short seller report of alleged China exposure",
      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
      "pubDate": "Fri, 20 Nov 2026 00:08:34 GMT",
@@ -2304,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
      "source": "CNBC",
      "zh": "Anthropic was supposed to save the AI trade. What went wrong?"
-    },
-    {
-     "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-     "pubDate": "Thu, 19 Nov 2026 23:59:29 GMT",
-     "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-     "source": "CNBC",
-     "zh": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices"
     },
     {
      "title": "唯赛勃：融资净偿还16.52万元，融资余额4448.21万元",
@@ -2360,6 +2376,14 @@ window.INDUSTRY_DATA = {
      "summary": "交易所最新数据显示， 艾为电子 于2026年11月19日获融资买入0元，融资偿还161.54万元， 当日融资净偿还161.54万元。 目前，该股融资余额5.05亿，占流通市值比例为6.11%。 该股当日无融券交易。目前，该股融券余量5.50万股，融券余额334.68万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财",
      "source": "东方财富股票",
      "zh": "艾为电子：融资净偿还161.54万元，融资余额5.05亿元"
+    },
+    {
+     "title": "美国财政部发行“9天期票据”，上一次是在2008年7月",
+     "link": "https://wallstreetcn.com/articles/3786324",
+     "pubDate": "Fri, 20 Nov 2026 07:58:46 +0800",
+     "summary": "美国财政部正以越来越短的时间窗口管理其现金需求，一个尘封近17年的融资工具悄然重出江湖，令市场对美联储储备充裕程度的判断再添疑虑。 11月19日， 美国财政部以3.910%的利率售出150亿美元、期限仅9天的现金管理短期国库券（CMB），这是自2008年7月以来首次发行此类超短期工具，彼时IndyMac刚刚被接管，雷曼兄弟距离破产仅剩两个月。 此次“9天期票据”发行日期为11月24日，到期日为12月3日。拍卖需求尚算稳健，间接投标人获配比例达45.8%，高于10月同类标售时的18.3%，主要交易商获配比例则由77.6%降至52.0%。 自1980年有完整拍卖记录以来，同类工具总计仅发行过11次",
+     "source": "华尔街见闻",
+     "zh": "美国财政部发行“9天期票据”，上一次是在2008年7月"
     },
     {
      "title": "中东突发大消息！美国总统特朗普最新发声",
@@ -2482,36 +2506,12 @@ window.INDUSTRY_DATA = {
      "zh": "Calif. AG serves Nvidia investigative subpoena over China issues"
     },
     {
-     "title": "New Zealand Energy launches C$3M private placement, targets oil growth",
-     "link": "https://seekingalpha.com/news/4674987-new-zealand-energy-launches-c3m-private-placement-targets-oil-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 19 Nov 2026 17:54:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "New Zealand Energy launches C$3M private placement, targets oil growth"
-    },
-    {
-     "title": "宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元",
-     "link": "https://wallstreetcn.com/articles/3786320",
-     "pubDate": "Fri, 20 Nov 2026 06:53:14 +0800",
-     "summary": "宝洁公司正推进其历史上规模最大的供应链重组之一。面对大宗商品成本高企与消费需求疲软的双重压力， 这家日用消费品巨头计划在本十年末前将制造及物流员工规模削减20%至30%。 宝洁首席产品供应官Luc Reynaert周四在一场投资者说明会上宣布了上述计划， 削减范围将涵盖合同工。该公司设定的目标是到2030年实现累计生产效率节约100亿美元。 宝洁上月已披露，大宗商品成本上升预计将在本财年带来14亿美元的额外支出。 此次裁员公告对市场而言是一个明确信号：宝洁将以自动化与精简人力作为应对利润承压的核心手段。该公司上一财年（截至去年6月）每股盈利仅增长1%，为2016年以来最低增速。 周四，宝洁收跌",
-     "source": "华尔街见闻",
-     "zh": "宝洁押注自动化降本：计划到2030年削减最多30%制造业员工，降本百亿美元"
-    },
-    {
      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
      "pubDate": "Thu, 19 Nov 2026 22:53:00 GMT",
      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
      "source": "MarketWatch",
      "zh": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies"
-    },
-    {
-     "title": "史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%",
-     "link": "http://finance.eastmoney.com/news/1354,202611203935472952.html",
-     "pubDate": "Fri, 20 Nov 2026 06:45:51 +0800",
-     "summary": "北京时间周五（11月20日）凌晨00:48， Anthropic 在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”，发行价为83美元，超过了70至78美元的推介区间。 开盘后5分钟， Anthropic 一度涨至日内高点115.10美元，涨幅最大时接近39%，市值短暂突破2万亿美元关口，一度成为全球第六大上市公司。 之后， Anthropic 股价快速回落，涨幅一度收窄至12%报92.72美元；截至收盘，该股涨17.07%报97.17美元，市值为1.271万亿美元，在全球上市公司中排第12名，介于 特斯拉 和伯克希尔之间。盘后，Anthropic跌约1%。 Anthropic首席财务官",
-     "source": "东方财富资讯",
-     "zh": "史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%"
     }
    ]
   },
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Experimental compound burns fat without sacrificing muscle",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+     "pubDate": "Thu, 19 Nov 2026 19:19:49 EST",
+     "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fa",
+     "source": "ScienceDaily",
+     "zh": "Experimental compound burns fat without sacrificing muscle"
+    },
     {
      "title": "Solo meerkats can find their way back home",
      "link": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home",
@@ -2664,14 +2672,6 @@ window.INDUSTRY_DATA = {
      "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distort",
      "source": "ScienceDaily",
      "zh": "This 6-million-year-old whale may have had the most crooked face in mammal history"
-    },
-    {
-     "title": "Something strange is living beneath the skin of deep-sea pigs",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-     "pubDate": "Thu, 19 Nov 2026 05:33:03 EST",
-     "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptional",
-     "source": "ScienceDaily",
-     "zh": "Something strange is living beneath the skin of deep-sea pigs"
     },
     {
      "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",

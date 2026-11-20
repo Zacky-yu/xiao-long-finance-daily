@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 15:33:55",
+ "generated_at": "2026/11/20 15:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Swegon unveils CO2 rooftop heat pump",
+     "link": "https://www.pv-magazine.com/2026/11/20/swegon-unveils-co2-rooftop-heat-pump/",
+     "pubDate": "Fri, 20 Nov 2026 07:40:04 +0000",
+     "summary": "The Lambda Zero combines inverter-driven compressors, variable airflow and machine learning-based controls to improve energy efficiency. The manufacturer said the system has a seasonal energy efficiency ratio (SEER) of up to 5.24 and a seasonal coefficient of performance (SCOP) of up to 3.91. The po",
+     "source": "pv magazine",
+     "zh": "Swegon unveils CO2 rooftop heat pump"
+    },
+    {
      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Senate-Passes-Sweeping-Energy-Permitting-Reform-Bill-in-62-33-Vote.html",
      "pubDate": "Fri, 20 Nov 2026 01:30:00 -0600",
@@ -1056,14 +1064,6 @@ window.INDUSTRY_DATA = {
      "summary": "State ratepayer advocates and the grid operator&rsquo;s market monitor say holding the auction in December as planned threatens grid reliability and could hit consumers with billions in unnecessary costs.",
      "source": "Utility Dive",
      "zh": "PJM urged to delay base capacity auction until data centers cut from forecast"
-    },
-    {
-     "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
-     "link": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
-     "pubDate": "Thu, 19 Nov 2026 13:31:19 +0000",
-     "summary": "The result was certified by the National PV Industry Measurement and Testing Center (NPVM) of China’s Fujian Metrology Institute. The post MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module"
     },
     {
      "title": "Solar PV to lead global electricity generation ‘across all scenarios’ by mid-2030s, says IEA",
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "European Hardware Takes Center Stage at Space Tech Expo",
+     "link": "https://payloadspace.com/european-hardware-takes-center-stage-at-space-tech-expo/",
+     "pubDate": "Fri, 20 Nov 2026 07:45:00 +0000",
+     "summary": "Europe is a region chock full of builders. At least, that’s the vibe we got this week watching the news wire from Space Tech Expo in Bremen, Germany. The post European Hardware Takes Center Stage at Space Tech Expo appeared first on Payload .",
+     "source": "Payload",
+     "zh": "European Hardware Takes Center Stage at Space Tech Expo"
+    },
+    {
      "title": "APOD: 2026 November 20 – V-G-R",
      "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
      "pubDate": "Fri, 20 Nov 2026 05:05:00 +0000",
@@ -1360,6 +1368,14 @@ window.INDUSTRY_DATA = {
      "summary": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid"
+    },
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
@@ -1466,6 +1482,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1522,12 +1546,12 @@ window.INDUSTRY_DATA = {
      "zh": "Dcubed Raises €27.2M to Quadruple Its Production Capacity"
     },
     {
-     "title": "ULA Vulcan Anomaly Has Pentagon Implications",
-     "link": "https://payloadspace.com/ula-vulcan-anomaly-has-pentagon-implications/",
-     "pubDate": "Tue, 17 Nov 2026 18:30:00 +0000",
-     "summary": "The company announced Tuesday morning that the mission was lost 10 minutes into the flight, but that the problems started just after liftoff. The post ULA Vulcan Anomaly Has Pentagon Implications appeared first on Payload .",
-     "source": "Payload",
-     "zh": "ULA Vulcan Anomaly Has Pentagon Implications"
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     },
     {
      "title": "How AI is pushing satellites to evolve",
@@ -1536,30 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
-    },
-    {
-     "title": "Starship returns to Starbase and a successful tower catch",
-     "link": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-     "pubDate": "Fri, 13 Nov 2026 19:15:11 +0000",
-     "summary": "The catch occurred at 3:20 p.m. CST (2120 UTC) after Ship 42 reentered the atmosphere over the Pacific Ocean and made a supersonic flight across Mexico and the South West United States.",
-     "source": "Spaceflight Now",
-     "zh": "Starship returns to Starbase and a successful tower catch"
-    },
-    {
-     "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-     "link": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
-     "pubDate": "Fri, 13 Nov 2026 12:25:06 +0000",
-     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
-     "source": "Spaceflight Now",
-     "zh": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon"
     }
    ]
   },
@@ -1569,6 +1569,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+     "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+     "pubDate": "Fri, 20 Nov 2026 07:35:46 +0000",
+     "summary": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak"
+    },
+    {
+     "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+     "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+     "pubDate": "Fri, 20 Nov 2026 12:41:39 +0530",
+     "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through sepa",
+     "source": "The Hacker News",
+     "zh": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs"
+    },
     {
      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
@@ -1698,14 +1714,6 @@ window.INDUSTRY_DATA = {
      "zh": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
     },
     {
-     "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-     "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-     "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530",
-     "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter i",
-     "source": "The Hacker News",
-     "zh": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication"
-    },
-    {
      "title": "Five warning signs of ransomware breach before encryption or data theft",
      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
      "pubDate": "Thu, 19 Nov 2026 10:00:10 -0500",
@@ -1746,14 +1754,6 @@ window.INDUSTRY_DATA = {
      "zh": "StepSecurity Secures $20 Million to Expand Supply Chain Protection"
     },
     {
-     "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-     "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-     "pubDate": "Thu, 19 Nov 2026 12:13:24 +0000",
-     "summary": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks"
-    },
-    {
      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
@@ -1778,12 +1778,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "卖惨、引战、造恐慌，虚假摆拍正在透支什么？",
+     "link": "https://www.huxiu.com/article/4907173.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 15:34:31 +0800",
+     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年7月的四川宜宾，一家牛肉面馆门口，在两位店员的“押送”下，头套黑塑料袋的面馆老板蹲在地上，手指向一条横幅上的字： “取消外卖、关闭直播，恢复实体繁荣。” 相关的视频，很快就出现在短视频平台的同城页面，短短数日，吸引了两万多条评论。 如果只刷到一个这样的视频，会让人感觉是餐饮商家的情绪化表达，然而，紧随其后，另一家同在宜宾的酒楼也发布了相同模版的短视频；再接下来，又是一家档口餐馆、一家服装店…… 当雷同的情节、相似的文案批量出现，情形就没那样简单了。 11月10日到13日，央视新闻推出连续调查报道，记者循线找到那家宜宾面馆，发现外卖业务",
+     "source": "虎嗅",
+     "zh": "卖惨、引战、造恐慌，虚假摆拍正在透支什么？"
+    },
+    {
+     "title": "谷歌确认原生“应用锁”功能无法通过 Google Play 推送至旧版安卓设备，需升级至安卓 17 QPR3",
+     "link": "https://www.ithome.com/1/030/004.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:32:59 GMT",
+     "summary": "IT之家 11 月 20 日消息，随着谷歌近年来逐渐通过独立更新向用户推送 Android 新功能，部分用户希望无需升级至最新版 Android，也能通过更新 Google Play 获得最新“应用锁”功能。 不过谷歌员工 Mishaal Rahman 在 Reddit 确认，Android 原生应用锁功能不会通过 Google Play 系统更新推送至旧版 Android 设备，相应功能依赖操作系统底层 API 支持，将于 2027 年第一季度随 Android 17 QPR3 正式版推出，安卓原生用户必须为自己的设备更新最新系统才能获得相应功能。 不过这并不意味着旧版 Android 手机",
+     "source": "IT之家",
+     "zh": "谷歌确认原生“应用锁”功能无法通过 Google Play 推送至旧版安卓设备，需升级至安卓 17 QPR3"
+    },
+    {
+     "title": "为提高效率，日本车企将推进零部件与材料标准化",
+     "link": "https://www.ithome.com/1/030/003.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:26:35 GMT",
+     "summary": "IT之家 11 月 20 日消息，据日经亚洲报道，当地时间 11 月 19 日，日本汽车工业协会（JAMA）联合日本汽车零部件工业协会（JAPIA）发布联合倡议，将就汽车制造使用的部分材料和零部件制定统一标准， 首先从铁、树脂 和线束 三项开始 ，再逐步扩大对象。 计划统一各车企目前采用的差异化钢铁评估标准，整合削减少量使用的钢材品种 将统一再生树脂的标准与评估方法，以提升资源循环领域的竞争力 减少各公司之间不同型号的线束数量，并统一评估标准 IT之家从报道获悉，长期以来，由于各家车企各自制定质量标准，零部件厂商的生产效率一直受到制约。在向软件定义汽车（SDV）转型以及海外竞争对手的崛起的背景",
+     "source": "IT之家",
+     "zh": "为提高效率，日本车企将推进零部件与材料标准化"
+    },
+    {
      "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
      "link": "https://www.techmeme.com/261120/p6#a261120p6",
      "pubDate": "Fri, 20 Nov 2026 02:25:00 -0500",
      "summary": "Barry Schwartz / Search Engine Roundtable : Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches &nbsp; &mdash;&nbsp; Google is now officially rolling out what it calls the &ldquo;collapsible sidebar&rdquo; within Google ",
      "source": "Techmeme",
      "zh": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)"
+    },
+    {
+     "title": "复古游戏机 Analogue 3D 迎来固件更新：可通过 Wi-Fi 升级操作系统",
+     "link": "https://www.ithome.com/1/030/000.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:21:05 GMT",
+     "summary": "IT之家 11 月 20 日消息，Analogue 3D 是一款通过 FPGA 复刻任天堂 N64 的复古游戏机。该设备于当地时间 18 日迎来 1.6.0 固件更新，升级后 未来可直接通过 Wi-Fi 升级操作系统 ，无需再借助存储卡去刷写。 IT之家了解到，新固件 支持通过 Wi-Fi 自动设置日期和时间 ，还修复了偶发的游戏画面只有在打开游戏内菜单后才会显示的问题。此外，用户可选择通过 Wi-Fi 匿名共享设备使用情况和分析数据。",
+     "source": "IT之家",
+     "zh": "复古游戏机 Analogue 3D 迎来固件更新：可通过 Wi-Fi 升级操作系统"
+    },
+    {
+     "title": "玩家为 PC 串流游玩《GTA6》开发实验方案：利用电脑显卡帧生成技术将 30 帧游戏补帧至 60 帧",
+     "link": "https://www.ithome.com/1/029/978.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:16:50 GMT",
+     "summary": "IT之家 11 月 20 日消息，开发者 Phosphen 宣布为《GTA6》开发了一套特殊串流方案，玩家在 PC 平台通过串流游玩 PS5 版《GTA6》时，可以调用显卡对游戏串流画面进行二次处理，将游戏画面提升至 60 FPS，还能改善视觉效果。不过，由于 PS5 原本仍以 30 FPS 运行游戏，这套方案并不能降低实际操作延迟。 据介绍，相应串流方案基本原理是强制将 30FPS 的游戏画面以 1080P60 Hz 的规格传输至 Windows PC，之后利用开源软件 Veyra 识别剔除重复画面，并通过帧生成技术补充中间帧，最终让 PC 显示器以 60 FPS 呈现游戏画面。 在画质增强",
+     "source": "IT之家",
+     "zh": "玩家为 PC 串流游玩《GTA6》开发实验方案：利用电脑显卡帧生成技术将 30 帧游戏补帧至 60 帧"
+    },
+    {
+     "title": "网易丁磊谈游戏业务罕见下滑：短剧今年呈现爆炸式发展，短期内确实会对游戏产生影响",
+     "link": "https://www.ithome.com/1/029/977.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:14:26 GMT",
+     "summary": "IT之家 11 月 20 日消息，据每日经济新闻报道，11 月 19 日晚，在网易 2026 年第三季度业绩电话会上，网易创始人、董事局主席兼 CEO 丁磊被问及短剧对游戏行业的影响时表示， 短剧今年呈现爆炸式发展，对用户注意力的吸引力巨大，短期内确实会对游戏产生影响 。 网易 2026 年第三季度净收入 279 亿元 ，同比下降 1.8%；归属于公司股东的净利润 84 亿元，同比下降约 2.5%。 IT之家注意到，作为网易最重要的收入来源， 游戏业务罕见出现同比下滑 ，成为拖累整体营收的主要因素。 网易三季度游戏及相关增值服务收入 229 亿元，同比下降 1.7%，自 2024 年三季度以来",
+     "source": "IT之家",
+     "zh": "网易丁磊谈游戏业务罕见下滑：短剧今年呈现爆炸式发展，短期内确实会对游戏产生影响"
     },
     {
      "title": "中国企业出海的另一面，钱如何跨越国界",
@@ -1794,6 +1842,14 @@ window.INDUSTRY_DATA = {
      "zh": "中国企业出海的另一面，钱如何跨越国界"
     },
     {
+     "title": "鸿蒙智行享界 V8 搭载全新立体精雕 LOGO，5 款车身配色、4 款个性内饰亮相",
+     "link": "https://www.ithome.com/1/029/968.htm",
+     "pubDate": "Fri, 20 Nov 2026 07:11:27 GMT",
+     "summary": "IT之家 11 月 20 日现场消息，鸿蒙智行享界 V8 及星芒品牌发布会正在进行，率先亮相的是享界 V8 车型。 据官方介绍，享界 V8 拥有量产 MPV 超低风阻，120km/h 标准工况下，风阻系数低至 0.226。优雅造型搭配 全新立体精雕 LOGO 、1.85 米寰宇星环一体贯穿大灯与全新星云尾灯。5 款车身配色、4 款个性内饰，搭配 5 款星系轮毂。尺寸方面，该车长宽高为 5335mm*2005mm*1805mm， 轴距达到 3250mm。 IT之家附车身配色如下： 云雾白 旷野金 浩宇蓝 寰宇红 曜石黑 内饰配色： 凝光紫 港湾蓝 摩卡棕 白沙杏",
+     "source": "IT之家",
+     "zh": "鸿蒙智行享界 V8 搭载全新立体精雕 LOGO，5 款车身配色、4 款个性内饰亮相"
+    },
+    {
      "title": "学费25800，年轻人的上岸焦虑，成了教培机构的又一门新生意",
      "link": "https://www.huxiu.com/article/4905820.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 15:08:52 +0800",
@@ -1802,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "学费25800，年轻人的上岸焦虑，成了教培机构的又一门新生意"
     },
     {
-     "title": "游戏《维修物语》与 Commodore 达成合作，多款经典复古机型明年第一季度加入作品",
-     "link": "https://www.ithome.com/1/029/954.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:07:21 GMT",
-     "summary": "电子产品维修模拟游戏《维修物语（ReStory）》宣布与 Commodore 达成合作，将 Commodore 旗下多款经典机型带入游戏中， 相应 DLC 将于 2027 年第一季度发售 ，具体机型包含： Commodore 64 家用电脑 Commodore TAC-2 摇杆 Commodore 1541 软盘驱动器 Commodore CBM 2001 Commodore 1530 Datasette 磁带机 Commodore 1702 复合视频显示器 官方表示，为了让所有玩家都能轻松上手，开发者对部分操作进行了适当简化，因此游戏中的设备并非完全复刻。 Commodore 64 于 19",
-     "source": "IT之家",
-     "zh": "游戏《维修物语》与 Commodore 达成合作，多款经典复古机型明年第一季度加入作品"
+     "title": "大脑的言语感知中枢也能生成口语词汇",
+     "link": "https://www.solidot.org/story?sid=85941",
+     "pubDate": "Fri, 20 Nov 2026 15:05:32 +0800",
+     "summary": "大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。利用高分辨率皮层脑电图，研究人员记录了 28 名参与者在执行说话和聆听任务时大脑皮层中单个神经元的活动。这些研究揭示了韦尼克区中的一个独立的神经元亚群，后者在参与者说话之前便被激活。随后该团队在因手术治疗而切除韦尼克区者的组织样本中对这一神经元区域进行了探究。他们观察到，这些神",
+     "source": "Solidot",
+     "zh": "大脑的言语感知中枢也能生成口语词汇"
     },
     {
      "title": "向风暴而行",
@@ -1816,30 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 零度往上 ，编辑：马江芃，作者：刘自艰 气候正变得越来越难以捉摸。苏镝坷这样的追风者站到离风暴最近的地方，试图让大家看见真正的风暴，以及暗藏的危险。 超强台风登陆时，所有人都朝着避风的方向撤退，苏镝坷却把车往风暴最核心的位置开去。 在华南地区追击台风“摩羯”的那个夜晚，车轮狠狠陷进软泥里，引擎空转，泥浆四下飞溅。倒下的桉树横亘在村道，前路堵死，退路也被封死。桉树质地脆，大风一刮便成片倒伏，本是险境里的隐患，那一晚，它们恰好替这辆困在风雨里的小车，扛住了一波最狂暴的阵风。风速还在持续抬升，继续挪车只会撞上断木，苏镝坷和搭档对视一眼，决定就地驻扎。 他们就在风暴的眼皮底下，蜷",
      "source": "虎嗅",
      "zh": "向风暴而行"
-    },
-    {
-     "title": "约 14MB 内存运行 2.7 亿参数模型：谷歌工程师把 AI 装进打印机，每词元耗时约 60 秒",
-     "link": "https://www.ithome.com/1/029/953.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:02:07 GMT",
-     "summary": "IT之家 11 月 20 日消息，谷歌 DeepMind 技术团队成员奥马尔 · 圣塞维耶罗（Omar Sanseviero）于 11 月 17 日在 X 平台发布推文，在只占用 14.1MB 内存的情况下， 成功让办公激光打印机运行 2.7 亿参数的 Gemma 3 270M 模型，每输出一个词元（Token）消耗约 60 秒。 圣塞维耶罗借助谷歌的 Gemini 4 Carbon 模型，探索展示了一个特别实验，将小型 Transformer 推理引擎与量化后的模型编译成一个 PostScript 打印任务。 本次实验没有修改理光打印机固件，也未加装外部计算板，而是利用打印机内置的 Post",
-     "source": "IT之家",
-     "zh": "约 14MB 内存运行 2.7 亿参数模型：谷歌工程师把 AI 装进打印机，每词元耗时约 60 秒"
-    },
-    {
-     "title": "索尼在 Steam 平台开启 PlayStation Studios 第一方 PC 游戏促销：《死亡搁浅 2》199.66 元等",
-     "link": "https://www.ithome.com/1/029/952.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:00:24 GMT",
-     "summary": "IT之家 11 月 20 日消息，索尼联合 Valve，在 Steam 平台开启了 PlayStation Studios 游戏促销，本次促销将于 12 月 1 日结束，玩家可以选购多款索尼第一方登陆 PC 平台的作品。 其中，《死亡搁浅 2：冥滩之上》在此次活动中首次获得 33% 优惠，《漫威斗魂：格斗之魂》7 折。《地平线：零之曙光重制版和《对马岛之魂》导演剪辑版均为 5 折，后者包含境井仁的本篇故事及《壹岐之章》扩展内容。 折扣力度较高的作品包括《神秘海域：盗贼传奇合辑》、《往日不再》、《死亡回归》和《失落之魂》，四款游戏均为 3.3 折。《漫威蜘蛛侠》重制版、《漫威蜘蛛侠：迈尔斯 · ",
-     "source": "IT之家",
-     "zh": "索尼在 Steam 平台开启 PlayStation Studios 第一方 PC 游戏促销：《死亡搁浅 2》199.66 元等"
-    },
-    {
-     "title": "捷豹路虎召回 18 辆进口汽车，后副车架可能存在裂纹、动力总成控制模块 PCB 可能变形",
-     "link": "https://www.ithome.com/1/029/943.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:00:07 GMT",
-     "summary": "IT之家 11 月 20 日消息，IT之家从国家市场监督管理总局获悉，日前，捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。 一、捷豹路虎（中国）投资有限公司 召回编号 S2026M0151V：自即日起，召回 2023 年 12 月 21 日至 2024 年 9 月 20 日生产的 部分进口路虎揽胜运动版汽车，共计 17 辆 。 本次召回范围内的部分车辆， 后副车架可能存在裂纹 ，裂纹可能影响车辆的结构完整性，导致后副车架强度降低。极端情况下，可能影响车辆行驶稳定性，增加",
-     "source": "IT之家",
-     "zh": "捷豹路虎召回 18 辆进口汽车，后副车架可能存在裂纹、动力总成控制模块 PCB 可能变形"
     },
     {
      "title": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
@@ -1858,28 +1890,20 @@ window.INDUSTRY_DATA = {
      "zh": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’"
     },
     {
-     "title": "仪表后雾灯标识或不符国标有关规定，奔驰在华召回近 18 万辆汽车",
-     "link": "https://www.ithome.com/1/029/944.htm",
-     "pubDate": "Fri, 20 Nov 2026 06:56:22 GMT",
-     "summary": "IT之家 11 月 20 日消息，IT之家从国家市场监督管理总局获悉，日前，梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。 一、梅赛德斯-奔驰（中国）汽车销售有限公司 召回编号 S2026M0149V：自即日起，召回生产日期为 2018 年 4 月 21 日至 2021 年 7 月 15 日的进口 A 级、B 级、CLA、GLA、GLB、GLE 和 GLS 汽车，共计 21639 辆。 二、北京奔驰汽车有限公司 召回编号 S2026M0150V：自即日起，召回生产日期",
-     "source": "IT之家",
-     "zh": "仪表后雾灯标识或不符国标有关规定，奔驰在华召回近 18 万辆汽车"
-    },
-    {
-     "title": "燃油箱可能松脱甚至在行驶中脱落，福特中国召回 54 辆进口福特 F-150 汽车",
-     "link": "https://www.ithome.com/1/029/942.htm",
-     "pubDate": "Fri, 20 Nov 2026 06:56:18 GMT",
-     "summary": "IT之家 11 月 20 日消息，IT之家从国家市场监督管理总局获悉，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。 召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部分 2023-2025 年款福特 F-150 汽车， 共计 54 辆 。 本次召回范围内的部分车辆，燃油箱前、后固定带可能未正确固定至车架纵梁。在车辆使用过程中， 燃油箱可能松脱甚至在行驶中脱落，造成燃油泄漏，发动机熄火 ，并可能对",
-     "source": "IT之家",
-     "zh": "燃油箱可能松脱甚至在行驶中脱落，福特中国召回 54 辆进口福特 F-150 汽车"
-    },
-    {
      "title": "好丽友在县城零食店拿到“大结果”",
      "link": "https://www.huxiu.com/article/4907160.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 14:49:14 +0800",
      "summary": "本文来自微信公众号： 界面新闻 ，作者：马越 好丽友在中国市场的数万家零食量贩店里找到新增长点。 界面新闻查阅好丽友近期公布的2026年三季度财报发现，其中国市场中国区营收达到3840亿韩元（约合19.20亿元），同比增长13.8%，占集团当季营收的40.9%，营业利润为732亿韩元（约合3.66亿元），同比增长9.3%。 财报中强调，中国作为好丽友的最大单一市场，拉动集团增长。对比来看，2025年中国业务增长乏力，好丽友在中国区营收达到13207亿韩元（约合62.47亿元人民币），同比增长4.0%，营业利润为2417亿韩元（约合11.43亿元人民币），同比下滑0.9%。 实际上好丽友在中国能",
      "source": "虎嗅",
      "zh": "好丽友在县城零食店拿到“大结果”"
+    },
+    {
+     "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
+     "link": "https://www.solidot.org/story?sid=85940",
+     "pubDate": "Fri, 20 Nov 2026 14:49:01 +0800",
+     "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（sideloading）安装未经开发者身份验证的应用。Google 坚称此举是为了安全，将增加恶意攻击者散播恶意软件或欺诈应用的难度。应用开发者在进行验证身份时需提",
+     "source": "Solidot",
+     "zh": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证"
     },
     {
      "title": "AI开始给人“看相”，还能预卜生死",
@@ -1914,12 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴西葡语短剧投了三个月 ROI 一直 0.6 上下，是选剧问题还是投放结构问题？"
     },
     {
-     "title": "2026年，如果禁韩令解除...",
-     "link": "https://www.huxiu.com/article/4907156.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 14:33:53 +0800",
-     "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功 这两天，关于禁韩令松动的消息又热闹起来。 2026年11月18日，中韩两国在深圳举行元首会谈，并宣布实质性完成自贸协定第二阶段服务与投资谈判。按照韩方公布的信息，中国将在电影、游戏等领域给予韩国最惠国待遇，相关内容审查适用非歧视原则。双方还将电影合拍合作扩大到电视剧、动画、综艺和纪录片。 消息一出，韩国文娱产业迅速作出反应。资本市场先动了起来，韩国娱乐公司股价上涨，电影行业也开始讨论重返中国市场的可能性。 这当然是一个积极信号。 但我对禁韩令全面解除这件事，依然不太乐观。 原因很简单。我们似乎一直在讨论一个错误的问题：中韩关系是不是回暖了？",
-     "source": "虎嗅",
-     "zh": "2026年，如果禁韩令解除..."
+     "title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+     "link": "https://www.solidot.org/story?sid=85939",
+     "pubDate": "Fri, 20 Nov 2026 14:33:52 +0800",
+     "summary": "Visa、Mastercard 和摩根大通（JPMorgan）披露客户数据泄露，但数据是通过第三方服务提供商泄漏的，它们自身的核心系统或支付网络都未受影响。泄漏的数据包括姓名、电邮地址，部分还包含电话号码和邮编。网络勒索组织 n0n 于 11 月 16 日声称获取了三家银行/支付公司的持卡人记录，其中包括数万持卡人电邮地址所对应的数十万次营销互动。对公布数据的核查发现，除了客户还有银行员工的电邮地址泄漏。",
+     "source": "Solidot",
+     "zh": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露"
     },
     {
      "title": "Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business (Ben Schoon/9to5Google)",
@@ -1992,30 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
      "source": "WIRED",
      "zh": "Adorama Camera Coupon Codes & Promo Codes: November 2026"
-    },
-    {
-     "title": "美国站广告 ACOS 压到 18% 了，可备货和退货一算反而亏，该先砍广告还是先换供应商？",
-     "link": "https://www.baijing.cn/question/638854",
-     "pubDate": "Fri, 20 Nov 2026 05:56:39 +0000",
-     "summary": "北美美国站，宠物用品类目，团队 5 人，月广告预算 1.2 万美元，起量中。上季度把 ACOS 从 34% 压到 18%，单量翻了一倍，但财务一算总账反而更差：供应商交期从 30 天拖到 45 天，为不断货多备了 1.5 倍库存，海外仓仓储费每月多出 4000 美元；退货率从 6% 涨到 11%，主要是尺寸和材质与详情页不符，退回来的货大部分不可二次销售。试过缩广告组、加否定词、改主图，ACOS 稳住了但退货没降。现在卡在是先砍广告保利润，还是先换供应商和改包装规格。这种情况下你们判断的取舍标准是什么？",
-     "source": "白鲸出海",
-     "zh": "美国站广告 ACOS 压到 18% 了，可备货和退货一算反而亏，该先砍广告还是先换供应商？"
-    },
-    {
-     "title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
-     "link": "https://www.techmeme.com/261120/p2#a261120p2",
-     "pubDate": "Fri, 20 Nov 2026 00:55:02 -0500",
-     "summary": "Maria Deutscher / SiliconANGLE : BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M &nbsp; &mdash;&nbsp; BrightAI Inc., a startup that helps industrial companies detect malfunctioning equipment, ha",
-     "source": "Techmeme",
-     "zh": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)"
-    },
-    {
-     "title": "小鼠拳击俱乐部或能解释为什么人类爱观赏暴力事件",
-     "link": "https://www.solidot.org/story?sid=85938",
-     "pubDate": "Fri, 20 Nov 2026 13:54:52 +0800",
-     "summary": "人类爱围观暴力事件，无论是电影、游戏还是格斗比赛。科学家一直在争论观看暴力事件是否会让我们变得更具攻击性，但这也可能是一种适应性生存策略。根据发表在《自然》期刊上的一项研究，相比不围观打架的小鼠，观看其它小鼠打架的雄鼠学会了足够的战斗技巧，在面对更强壮、更具有攻击性的对手时能更好的保护自己。研究团队将雄鼠随机分为三组——战斗组、观众组和新手组，对每组小鼠进行为期八天的训练，每天三次，每次十分钟。新手组在单独的房间里玩鼠玩具，观众组则在一个透明屏障后观看不同战斗组小鼠打斗。第九天是搏斗之夜，所有小鼠都要与一个强大的对手进行三轮、每轮四分钟的搏斗。结果显示，观众组和战斗组比新手组表现都好，攻击速度",
-     "source": "Solidot",
-     "zh": "小鼠拳击俱乐部或能解释为什么人类爱观赏暴力事件"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+     "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+     "pubDate": "Fri, 20 Nov 2026 07:31:25 +0000",
+     "summary": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance.",
+     "source": "Engadget",
+     "zh": "OpenAI is testing Dots personal agents on its $20 per month Plus tier"
+    },
     {
      "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootloader",
      "link": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "macOS 27.3 public beta 2 now available, here’s everything new"
     },
     {
-     "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
-     "link": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
-     "pubDate": "Thu, 19 Nov 2026 22:56:42 +0000",
-     "summary": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
-     "source": "Engadget",
-     "zh": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G"
-    },
-    {
      "title": "ChatGPT Health feature now works with Mac app, Dots, more",
      "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
      "pubDate": "Thu, 19 Nov 2026 22:43:20 +0000",
@@ -2274,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide",
+     "link": "https://seekingalpha.com/news/4675025-asia-tech-stocks-reel-from-anthropic-ipo-as-softbank-samsung-and-tsmc-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 02:40:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide"
+    },
+    {
+     "title": "长飞公司副总裁郑昕：以AI重塑生产范式，用光底座承载海量数据",
+     "link": "http://www.eeo.com.cn/2026/1120/1098195.shtml",
+     "pubDate": "Fri, 20 Nov 2026 15:30:39 +0800",
+     "summary": "郑昕表示，5G+工业互联网是新质生产力的重要载体，工业场景的数据爆发、大模型的普及，对光网络提出了更高标准。",
+     "source": "经济观察网",
+     "zh": "长飞公司副总裁郑昕：以AI重塑生产范式，用光底座承载海量数据"
+    },
+    {
+     "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+     "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 07:29:48 GMT",
+     "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+     "source": "Financial Times",
+     "zh": "Tech stocks fall as Anthropic IPO fails to reignite AI trade"
+    },
+    {
      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
      "pubDate": "Fri, 20 Nov 2026 07:23:06 GMT",
@@ -2288,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "KBR prices $500M of 7.25% senior notes for planned Trinzic spin-off"
-    },
-    {
-     "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
-     "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 07:17:10 GMT",
-     "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
-     "source": "Financial Times",
-     "zh": "Tech stocks fall as Anthropic IPO fails to reignite AI trade"
     },
     {
      "title": "UK retail sales increase 2.3% Y/Y in October, topping estimates",
@@ -2344,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Gaming and Leisure Properties prices $600M senior notes offering at 6.25%"
-    },
-    {
-     "title": "Frontline Non-GAAP EPS of $2.38 beats by $0.12, revenue of $921.26M beats by $203.84M",
-     "link": "https://seekingalpha.com/news/4675042-frontline-non-gaap-eps-of-238-beats-by-012-revenue-of-92126m-beats-by-20384m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 01:57:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Frontline Non-GAAP EPS of $2.38 beats by $0.12, revenue of $921.26M beats by $203.84M"
     },
     {
      "title": "蚂蚁上半年利润约152亿元，接近去年全年估算水平",
@@ -2458,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "超480亿元，大举净流入！"
     },
     {
-     "title": "腾讯“建工厂”，资本开支再上台阶",
-     "link": "http://www.eeo.com.cn/2026/1120/1098052.shtml",
-     "pubDate": "Fri, 20 Nov 2026 13:45:24 +0800",
-     "summary": "电话会上，腾讯首席战略官兼高级执行副总裁詹姆斯·米歇尔说，按现金口径计算，腾讯的资本开支已经处在峰值，2026年余下时间和2027年，现金资本开支可能会在这一峰值附近波动，之后预计下降。",
-     "source": "经济观察网",
-     "zh": "腾讯“建工厂”，资本开支再上台阶"
-    },
-    {
      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 05:45:11 GMT",
@@ -2490,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "1分钟，扫货近10亿！刚刚，集体放量！"
     },
     {
-     "title": "英伟达换帅，中东的AI雄心还会持续吗？",
-     "link": "http://www.eeo.com.cn/2026/1120/1098006.shtml",
-     "pubDate": "Fri, 20 Nov 2026 13:09:53 +0800",
-     "summary": "在中东，黄仁勋离场牵动着两种不同的利益。以色列关心研发团队和规划中的万人园区；海湾国家关心芯片能否如期交付、机房可以服务哪些客户，以及投向美国AI产业的钱还能获得多大回报。",
-     "source": "经济观察网",
-     "zh": "英伟达换帅，中东的AI雄心还会持续吗？"
-    },
-    {
      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
      "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
      "pubDate": "Fri, 20 Nov 2026 05:09:52 GMT",
@@ -2506,12 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes"
     },
     {
-     "title": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态",
-     "link": "http://www.eeo.com.cn/2026/1120/1098000.shtml",
-     "pubDate": "Fri, 20 Nov 2026 13:05:28 +0800",
-     "summary": "将北汽动力总成的换电站出售，或将有助于集团将换电站业务集中于北汽蓝谷。",
-     "source": "经济观察网",
-     "zh": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态"
+     "title": "“秒”涨停，002771斩获4连板，高股息超跌标的来了",
+     "link": "http://finance.eastmoney.com/news/1354,202611203935983694.html",
+     "pubDate": "Fri, 20 Nov 2026 13:05:26 +0800",
+     "summary": "多只 银行 股股价持续创新高。 今日（11月20日）市场震荡调整，早盘指数走弱， 有色金属 、算力、光 通信 、 军工 等方向跌幅居前。 高股息板块持续活跃， 中信银行 、 建设银行 、 工商银行 、 中国银行 等多只 银行 股早盘股价持续创新高。 消息面上，首批18只主动ETF将于11月23日集中上市，从日前披露的前十大重仓股来看底仓配置，18只主动ETF呈现红利资产防御+硬科技增强收益的特征。 银行 是最受偏爱的板块之一，12只主动ETF前十大重仓股中均有银行股身影，除国有六大行之外，还有 招商银行 、 中信银行 、 兴业银行 、 江苏银行 、 青岛银行 、 宁波银行 等。 早盘 煤炭 板",
+     "source": "东方财富资讯",
+     "zh": "“秒”涨停，002771斩获4连板，高股息超跌标的来了"
+    },
+    {
+     "title": "Can Nvidia learn from AIG’s mistakes?",
+     "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 05:00:17 GMT",
+     "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
+     "source": "Financial Times",
+     "zh": "Can Nvidia learn from AIG’s mistakes?"
     }
    ]
   },

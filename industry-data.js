@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 20:52:06",
+ "generated_at": "2026/11/21 21:00:07",
  "recent_days": 7,
  "industries": [
   {
@@ -1394,6 +1394,14 @@ window.INDUSTRY_DATA = {
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1450,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1488,6 +1504,14 @@ window.INDUSTRY_DATA = {
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1530,20 +1554,12 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     }
    ]
   },
@@ -1948,8 +1964,8 @@ window.INDUSTRY_DATA = {
     {
      "title": "这届大学生，狂卷黑客松",
      "link": "https://www.huxiu.com/article/4907404.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 19:05:37 +0800",
-     "summary": "本文来自微信公众号： 定焦One ，编辑：雷晶，作者：定焦One团队 还没毕业，大学生已经忙着搞AI项目了。 定焦One（dingjiaoone）原创 黑客松越来越火了。 据AI赛事社区“AI赛事通”统计，今年上半年，全国举办了近500场黑客松，平均每天有两三场，主办方包括高校、科技公司和创业社区。 黑客松（Hackathon）是一种限时开发比赛。参赛者通常需要在24小时、48小时或72小时内组队，从提出创意、设计方案到开发产品，最终交出一个能够运行的Demo。为了赶在截止时间前完成作品，熬夜写代码、临时修改方案、踩着点提交项目，都是常事。 过去，这类比赛主要面向程序员和技术开发者。如今，随着",
+     "pubDate": "Sat, 21 Nov 2026 19:05:38 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：雷晶、陈丹、王璐、王汉星、李梦冉，编辑：雷晶，题图来自：AI生成 黑客松越来越火了。 据AI赛事社区&ldquo;AI赛事通&rdquo;统计，今年上半年，全国举办了近500场黑客松，平均每天有两三场，主办方包括高校、科技公司和创业社区。 黑客松 （Hackathon） 是一种限时开发比赛。参赛者通常需要在24小时、48小时或72小时内组队，从提出创意、设计方案到开发产品，最终交出一个能够运行的Demo。为了赶在截止时间前完成作品，熬夜写代码、临时修改方案、踩着点提交项目，都是常事。 过去，这类比赛主要面向程序员和技术开发者。如今，随着AI Codin",
      "source": "虎嗅",
      "zh": "这届大学生，狂卷黑客松"
     },
@@ -2378,38 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "S&P 500 correction: Five forces behind the market sell-off"
     },
     {
-     "title": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936831113.html",
-     "pubDate": "Sat, 21 Nov 2026 18:20:00 +0800",
-     "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
-     "source": "东方财富资讯",
-     "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
-    },
-    {
-     "title": "来得早 爬得快！流感季来袭 药店货架有哪些变化？",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936830785.html",
-     "pubDate": "Sat, 21 Nov 2026 18:09:56 +0800",
-     "summary": "财联社11月21日讯（记者卢阿峰于淼） 一次进货10箱的抗病毒口服液很快售罄，奥司他韦货架上多个国产品牌同台比价，两百余元的单次口服国产新药也摆上了零售柜台——随着今冬 流感 活动提前步入中流行水平，一线药店的货架变化，正直观映射出抗 流感 药市场的格局变化。 财联社记者近日实地走访上海多家药店发现，本轮 流感 季的终端需求正明显向“家庭预防备药”与“多元处方选择”两端分散。而在货架背后，抗流感药物的产业竞争已悄然换挡：传统主力奥司他韦在经历第十一批国采洗礼后，院内院外格局正在发生变化；罗氏玛巴洛沙韦独占单次口服市场的局面则被打破，三款国产PA亚基抑制剂密集登场，但受制于医保目录执行时间差，各",
-     "source": "东方财富资讯",
-     "zh": "来得早 爬得快！流感季来袭 药店货架有哪些变化？"
-    },
-    {
-     "title": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936829368.html",
-     "pubDate": "Sat, 21 Nov 2026 17:47:26 +0800",
-     "summary": "Anthropic 的上市，成硅谷新造富故事！ 当地时间11月19日，美国 人工智能 企业 Anthropic 在美国 纳斯达克 交易所挂牌上市，首次公开募股融资金额813亿美元，超过太空探索技术公司在今年6月创下的750亿美元的历史最高纪录。 Anthropic 公司本次公开募股发行量为9.8亿股，每股定价83美元，总融资金额达到813.4亿美元。上市首日较发行价收涨17.1%，报97.17美元/股，市值达1.28万亿美元。MSCI将于12月1日把其纳入 大盘股 指数， 富时罗素 也将其快速纳入富时全球股票指数系列。 上市首日的惊艳表现，进一步放大了AI批量造富神话，一大批富豪也随之诞生。有",
-     "source": "东方财富资讯",
-     "zh": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了"
-    },
-    {
-     "title": "4连板牛股！603324又紧急公告：有快速下跌风险！",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936828268.html",
-     "pubDate": "Sat, 21 Nov 2026 17:11:47 +0800",
-     "summary": "在11月17日至20日连续涨停、累计上涨46.38%后， 盛剑科技 （603324）于11月21日再度披露股票交易异常波动公告，明确 电子 化学品材料业务不含 光刻胶 ，此类业务的主要产品剥离液属于 光刻胶 配套的清洗试剂。 公司强调，其2025年度 电子 化学品材料业务实现收入4949.44 万元，占主营业务收入比例为4.41%。 按前复权价， 盛剑科技 收盘价由11月16日的18.93元升至11月20日的27.71元，期间11月17日至20日连续涨停；11月19日、20日换手率分别为7.04%和17.14%。公告提示短期涨幅较大后快速下跌的风险，并称公司生产经营活动正常，市场环境和行业政策",
-     "source": "东方财富资讯",
-     "zh": "4连板牛股！603324又紧急公告：有快速下跌风险！"
-    },
-    {
      "title": "特朗普想要“1月初之前”结束俄乌战争",
      "link": "https://wallstreetcn.com/articles/3786435",
      "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
@@ -2426,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "“脱欧”十年之后，英国又要“入欧”？"
     },
     {
-     "title": "最新曝光！特朗普买入英伟达、SpaceX",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936820226.html",
-     "pubDate": "Sat, 21 Nov 2026 15:25:43 +0800",
-     "summary": "特朗普9月751笔证券交易曝光：买入 英伟达 、Palantir、 SpaceX 。 据CNBC、路透社等媒体报道，美国政府道德办公室11月19日公布的一份25页财务申报文件显示，特朗普名下账户今年9月共进行了751笔证券交易。据CNBC分析，按申报的金额区间计算，交易总额约在4090万美元至1.481亿美元之间，其中买入至少2920万美元，卖出至少1170万美元。申报文件仅列出交易金额区间，未披露成交价格、实际持仓和投资收益。 文件显示，特朗普账户9月买入名单包括 英伟达 、Palantir、 SpaceX 、 特斯拉 、CoreWeave等。金额最大的一笔为买入先锋股息增长ETF（Vang",
-     "source": "东方财富资讯",
-     "zh": "最新曝光！特朗普买入英伟达、SpaceX"
-    },
-    {
      "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
      "link": "https://wallstreetcn.com/articles/3786432",
      "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
      "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
      "source": "华尔街见闻",
      "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
-    },
-    {
-     "title": "英伟达单日暴跌14% 但斌回应“清盘线”：部分基金只能被动减仓",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936819553.html",
-     "pubDate": "Sat, 21 Nov 2026 15:13:49 +0800",
-     "summary": "当地时间11月20日，美股三大指数全线收跌， 纳斯达克 综合 指数下跌5.28%，费城 半导体 指数重挫近11%， 英伟达 单日暴跌14.01%。 这让重仓AI硬件的私募机构承压明显。11月21日，但斌发文称“一觉醒来，血雨腥风”，并回应投资者称，部分基金到清盘线只能被动减仓，但他仍坚持 人工智能 十年牛市的判断。 值得注意的是，根据近期数据，高毅资产已经清仓 英伟达 ，段永平减持了六成仓位的 英伟达 ，但斌死守英伟达，甚至在三季度还增持了英伟达，东方港湾在三季度增持近15万股，将其列为第二大重仓股。 英伟达跌逾14% 但斌：部分基金到清盘线，只能被动减仓 当地时间11月20日，美股三大指数全",
-     "source": "东方财富资讯",
-     "zh": "英伟达单日暴跌14% 但斌回应“清盘线”：部分基金只能被动减仓"
     },
     {
      "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
@@ -2504,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
      "source": "MarketWatch",
      "zh": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies"
+    },
+    {
+     "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
+     "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 19:10:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook"
+    },
+    {
+     "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
+     "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 18:16:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says"
+    },
+    {
+     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "pubDate": "Fri, 20 Nov 2026 22:59:33 GMT",
+     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+     "source": "CNBC",
+     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
+    },
+    {
+     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
+    },
+    {
+     "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+     "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 22:46:00 GMT",
+     "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+     "source": "MarketWatch",
+     "zh": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
+    },
+    {
+     "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+     "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
+     "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+     "source": "MarketWatch",
+     "zh": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade"
     }
    ]
   },

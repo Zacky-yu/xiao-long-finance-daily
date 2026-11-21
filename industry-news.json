@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 00:32:11",
+ "generated_at": "2026/11/22 00:52:11",
  "recent_days": 7,
  "industries": [
   {
@@ -1804,7 +1804,7 @@
      "title": "Show HN: Zero C#, Power of C# without any GC",
      "link": "https://onurgumus.github.io/zero-csharp/index.html",
      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 9 # Comments: 3",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 21 # Comments: 8",
      "source": "Hacker News",
      "zh": "Show HN: Zero C#, Power of C# without any GC"
     },
@@ -1852,7 +1852,7 @@
      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 191 # Comments: 154",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 237 # Comments: 182",
      "source": "Hacker News",
      "zh": "Lean Verification of the Riemann Hypothesis - Joint statement by..."
     },
@@ -1892,7 +1892,7 @@
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 210 # Comments: 119",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 232 # Comments: 129",
      "source": "Hacker News",
      "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
     },
@@ -1900,7 +1900,7 @@
      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
      "link": "https://simple-bench.com/",
      "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
-     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 85 # Comments: 67",
+     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 87 # Comments: 78",
      "source": "Hacker News",
      "zh": "Astra 6.2 and Sol 6.2 flop at Simple Bench"
     },
@@ -2012,7 +2012,7 @@
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 206 # Comments: 86",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 215 # Comments: 91",
      "source": "Hacker News",
      "zh": "My Monitor Was Cutting My Download Speed by 75%"
     },
@@ -2020,7 +2020,7 @@
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
      "pubDate": "Sat, 21 Nov 2026 10:33:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 119 # Comments: 52",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 123 # Comments: 59",
      "source": "Hacker News",
      "zh": "FBI reportedly investigating apparent hack of its criminal database"
     }
@@ -2032,6 +2032,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
+     "link": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
+     "pubDate": "Sat, 21 Nov 2026 16:30:00 +0000",
+     "summary": "If you've cut back your streaming subscriptions recently, you're not alone.",
+     "source": "Engadget",
+     "zh": "36 percent of households have ditched a streaming service subscription recently: Here's why"
+    },
     {
      "title": "Common reasons why your iPhone keeps randomly turning off",
      "link": "https://www.engadget.com/2318247/common-reasons-why-iphone-turning-off/",
@@ -2071,14 +2079,6 @@
      "summary": "Explore the perks and drawbacks of choosing a VPN over encrypted DNS, from privacy and security to speed, costs, and control over your browsing habits.",
      "source": "Engadget",
      "zh": "The pros and cons of using a VPN over encrypted DNS"
-    },
-    {
-     "title": "Why your ping is terrible (even though you have fast internet)",
-     "link": "https://www.engadget.com/2318153/fast-internet-but-terrible-ping-why/",
-     "pubDate": "Sat, 21 Nov 2026 15:15:00 +0000",
-     "summary": "Having a fast internet speed helps with online performance, but ping is the value that matters much more for games and video calls.",
-     "source": "Engadget",
-     "zh": "Why your ping is terrible (even though you have fast internet)"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2281,6 +2281,22 @@
    "total": 13,
    "items": [
     {
+     "title": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936857611.html",
+     "pubDate": "Sun, 22 Nov 2026 00:40:25 +0800",
+     "summary": "当地时间21日，伊朗副外长加里巴巴迪表示，一个卡塔尔代表团于20日晚抵达伊朗首都德黑兰，双方进行了两个小时的磋商。 此前，据两位知情人士透露，美国总统特使威特科夫和总统特朗普的女婿库什纳19日在柏林与卡塔尔高级官员举行会晤，就美国与伊朗之间的斡旋工作进行讨论。卡塔尔首相兼外交大臣穆罕默德及其特使出席。 作为美伊之间的关键斡旋方，卡塔尔数周来一直致力于促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商"
+    },
+    {
+     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
+     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+     "source": "CNBC",
+     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
+    },
+    {
      "title": "Treasury secretary rules out further restrictions on Nvidia chip sales to China",
      "link": "https://seekingalpha.com/news/4675394-bessent-says-no-new-rules-to-bar-nvidia-chip-sales-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 11:21:08 -0500",
@@ -2289,12 +2305,52 @@
      "zh": "Treasury secretary rules out further restrictions on Nvidia chip sales to China"
     },
     {
+     "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
+     "link": "http://finance.eastmoney.com/news/1360,202611213936856371.html",
+     "pubDate": "Sun, 22 Nov 2026 00:20:42 +0800",
+     "summary": "人工智能 （AI）向探索科研级数学问题深处不断迈进。 美国时间2026年11月20日， Anthropic 数学家莱文特·阿尔波格（Levent Alpge）宣称与AI合作证明了167年未解的黎曼猜想，但超25万页证明仅以代码公开，引发学界震动与争议。 黎曼猜想是数论领域的经典难题，被公认为是数学界最难解决的难题。为了证明黎曼猜想，一代代数学家前赴后继，但都没有成功。1859年，德国数学家黎曼在题为《论小于给定数值的素数个数》的论文中提出了“黎曼猜想”。这篇论文虽然只有8页，却给后世留下了数学史上最著名的未决问题。 该论文讨论的是素数（也叫质数）分布规律的问题。素数的定义在中小学数学课本上便可",
+     "source": "东方财富股票",
+     "zh": "167年数学难题被攻克？90后数学家联手AI 最新公布"
+    },
+    {
      "title": "Insider trades: Apple, Meta, Coca-Cola among notable names",
      "link": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 11:03:59 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Insider trades: Apple, Meta, Coca-Cola among notable names"
+    },
+    {
+     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
+     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
+     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
+     "source": "东方财富股票",
+     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
+    },
+    {
+     "title": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936857346.html",
+     "pubDate": "Sat, 21 Nov 2026 23:56:25 +0800",
+     "summary": "11月20日， *ST英飞 （002528）发布公告，近日公司获悉其全资子公司英飞拓系统的100%股权被冻结，冻结期限为2026年11月2日至2029年11月2日。 该股权冻结源于公司、英飞拓系统及其子公司杭州科技与浙江海滨建设集团（以下简称“海滨建设” ）的建设工程施工合同纠纷，应海滨建设申请，杭州市西湖区人民法院冻结公司持有的英飞拓系统100%股权，目前该案件一审已开庭进行证据交换，暂未作出判决。 公告指出，虽然英飞拓系统股权被冻结，但在未有法院判决生效之前，该股权暂无被司法拍卖的风险。上述子公司股权司法冻结事项暂时不会影响公司及子公司的日常经营活动，也不会导致公司对上述子公司股权的所有权",
+     "source": "东方财富股票",
+     "zh": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户"
+    },
+    {
+     "title": "大富科技子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936857268.html",
+     "pubDate": "Sat, 21 Nov 2026 23:53:58 +0800",
+     "summary": "大富科技 （300134）日前披露公告，公司子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉。 公告显示， 大富科技 于2025年8月4日披露了《关于购买无形资产暨关联交易的进展公告》，公司的全资子公司深圳市大富 智慧健康科技 有限公司（以下简称“智慧健康”）向广东省深圳市光明区人民法院提起诉讼，诉请北京新天梓 教育 科技发展有限公司及得道健康管理有限公司按照协议约定履行回购义务。 近日，公司收到广东省深圳市光明区人民法院作出的一审判决，驳回原告智慧健康的诉讼请求。智慧健康将依法向广东省深圳市中级人民法院提起上诉。 大富科技 表示，预计上述事项不会对公司本期或者期后利润产生重大影响。",
+     "source": "东方财富股票",
+     "zh": "大富科技子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉"
+    },
+    {
+     "title": "特朗普：将与伊朗达成永久性协议",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936857449.html",
+     "pubDate": "Sat, 21 Nov 2026 23:52:47 +0800",
+     "summary": "央视新闻最新消息，美国总统特朗普在当地时间21日播出的采访节目中说，将与伊朗达成一项永久性协议。 另据参考消息早前援引路透社11月20日报道，伊朗外交部长阿拉格齐称，德黑兰仍希望能通过外交手段结束其与美国的战争，而特朗普则表示伊朗想要的协议对他来说是无法接受的。 阿拉格齐对伊朗官方媒体表示，德黑兰正在寻求一项“将确保不再有战争的协议”，并且希望在进一步进行谈判前得到华盛顿对谈判态度认真的保证。他补充说，伊朗已同调解方讨论了建立信任措施的形式和性质。 上述表态是在结束伊朗战争的外交努力仍在持续进行之际作出的。伊朗外长称，伊方的红线包括把浓缩铀留在国内，不过他补充说自己相信可以达成“一个公平的解决",
+     "source": "东方财富股票",
+     "zh": "特朗普：将与伊朗达成永久性协议"
     },
     {
      "title": "FBI crime database hacked: CNN",
@@ -2409,22 +2465,6 @@
      "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
-     "title": "11月21日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611213936842018.html",
-     "pubDate": "Sat, 21 Nov 2026 20:27:37 +0800",
-     "summary": "今日摘要 1、习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在总书记的引领推动下，我国老龄工作取得显著成效，养老事业和养老产业协同发展，托举起亿万老年人的幸福“夕阳红”。 2、李强同澳大利亚总理共同出席第九届中澳工商界首席执行官圆桌会。 3、《新闻联播》推出系列报道《权威访谈》，深入解读党的二十届五中全会精神。 4、10月份，我国规模以上高技术制造业增加值同比增长超17%，创近五年来最高增速。 5、国际人士高度评价习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话。 6、国际人士表示，中俄美",
-     "source": "东方财富资讯",
-     "zh": "11月21日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936841431.html",
-     "pubDate": "Sat, 21 Nov 2026 20:18:22 +0800",
-     "summary": "时隔一年多，生物类似药集采再次迎来重要进展！ 11月21日，安徽省医药集中采购平台发布《全国药品联盟集中带量采购（单克隆抗体类）公告（第1号）》。各省、自治区、直辖市及新疆生产建设兵团组成全国单抗类制剂联盟采购办公室，代表各地区公立、军队医疗机构，以及社会办医药机构等，开展全国药品联盟集中带量采购（单克隆抗体类），由安徽省医疗保障局承担日常工作并具体实施。 公告显示，此次采购的品种7个单抗品种的15个规格，包括阿达木单抗、贝伐珠单抗、地舒单抗、利妥昔单抗、曲妥珠单抗、托珠单抗、英夫利昔单抗。申报企业须在“国家医保服务平台”完成“企业信息申报”“产品信息申报”“产能申报”，申报时间是11月24日",
-     "source": "东方财富资讯",
-     "zh": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格"
-    },
-    {
      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
      "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
@@ -2439,46 +2479,6 @@
      "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
      "source": "华尔街见闻",
      "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
-    },
-    {
-     "title": "S&P 500 correction: Five forces behind the market sell-off",
-     "link": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
-     "pubDate": "Sat, 21 Nov 2026 11:29:25 GMT",
-     "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
-     "source": "CNBC",
-     "zh": "S&P 500 correction: Five forces behind the market sell-off"
-    },
-    {
-     "title": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936831113.html",
-     "pubDate": "Sat, 21 Nov 2026 18:20:00 +0800",
-     "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
-     "source": "东方财富资讯",
-     "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
-    },
-    {
-     "title": "来得早 爬得快！流感季来袭 药店货架有哪些变化？",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936830785.html",
-     "pubDate": "Sat, 21 Nov 2026 18:09:56 +0800",
-     "summary": "一次进货10箱的抗病毒口服液很快售罄，奥司他韦货架上多个国产品牌同台比价，两百余元的单次口服国产新药也摆上了零售柜台——随着今冬 流感 活动提前步入中流行水平，一线药店的货架变化，正直观映射出抗 流感 药市场的格局变化。 财联社记者近日实地走访上海多家药店发现，本轮 流感 季的终端需求正明显向“家庭预防备药”与“多元处方选择”两端分散。而在货架背后，抗流感药物的产业竞争已悄然换挡：传统主力奥司他韦在经历第十一批国采洗礼后，院内院外格局正在发生变化；罗氏玛巴洛沙韦独占单次口服市场的局面则被打破，三款国产PA亚基抑制剂密集登场，但受制于医保目录执行时间差，各家商业化放量节奏仍存分化。 当流感季“来",
-     "source": "东方财富资讯",
-     "zh": "来得早 爬得快！流感季来袭 药店货架有哪些变化？"
-    },
-    {
-     "title": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936829368.html",
-     "pubDate": "Sat, 21 Nov 2026 17:47:26 +0800",
-     "summary": "Anthropic 的上市，成硅谷新造富故事！ 当地时间11月19日，美国 人工智能 企业 Anthropic 在美国 纳斯达克 交易所挂牌上市，首次公开募股融资金额813亿美元，超过太空探索技术公司在今年6月创下的750亿美元的历史最高纪录。 Anthropic 公司本次公开募股发行量为9.8亿股，每股定价83美元，总融资金额达到813.4亿美元。上市首日较发行价收涨17.1%，报97.17美元/股，市值达1.28万亿美元。MSCI将于12月1日把其纳入 大盘股 指数， 富时罗素 也将其快速纳入富时全球股票指数系列。 上市首日的惊艳表现，进一步放大了AI批量造富神话，一大批富豪也随之诞生。有",
-     "source": "东方财富资讯",
-     "zh": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了"
-    },
-    {
-     "title": "4连板牛股！603324又紧急公告：有快速下跌风险！",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936828268.html",
-     "pubDate": "Sat, 21 Nov 2026 17:11:47 +0800",
-     "summary": "在11月17日至20日连续涨停、累计上涨46.38%后， 盛剑科技 （603324）于11月21日再度披露股票交易异常波动公告，明确 电子 化学品材料业务不含 光刻胶 ，此类业务的主要产品剥离液属于 光刻胶 配套的清洗试剂。 公司强调，其2025年度 电子 化学品材料业务实现收入4949.44 万元，占主营业务收入比例为4.41%。 按前复权价， 盛剑科技 收盘价由11月16日的18.93元升至11月20日的27.71元，期间11月17日至20日连续涨停；11月19日、20日换手率分别为7.04%和17.14%。公告提示短期涨幅较大后快速下跌的风险，并称公司生产经营活动正常，市场环境和行业政策",
-     "source": "东方财富资讯",
-     "zh": "4连板牛股！603324又紧急公告：有快速下跌风险！"
     },
     {
      "title": "特朗普想要“1月初之前”结束俄乌战争",

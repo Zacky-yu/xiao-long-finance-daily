@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 12:07:06",
+ "generated_at": "2026/11/21 12:12:05",
  "recent_days": 7,
  "industries": [
   {
@@ -1370,6 +1370,14 @@ window.INDUSTRY_DATA = {
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
      "pubDate": "Fri, 20 Nov 2026 19:00:00 +0000",
@@ -1450,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1488,6 +1504,14 @@ window.INDUSTRY_DATA = {
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1530,20 +1554,12 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     }
    ]
   },
@@ -1770,6 +1786,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？",
+     "link": "https://www.baijing.cn/question/638866",
+     "pubDate": "Sat, 21 Nov 2026 04:07:39 +0000",
+     "summary": "我们做拉美短剧出海，主攻巴西和墨西哥，团队12人，内容加投放各占一半。同一部剧做了葡语和西语两版，投放都在Meta和TikTok，测试预算每月大约8万美元。结果巴西葡语素材的3秒完播率比西语版低了将近18个百分点，前5秒流失特别明显，但墨西哥西语版同一素材跑得还算稳。我们试过换本地配音演员、把字幕从葡语字幕改成硬字幕、前3秒加冲突钩子，葡语版完播只回升了4个点左右，还是追不上西语版。现在卡在判断不了到底是配音口音不够本地、还是剧情节奏对巴西观众本来就偏慢。想直接问：巴西葡语短剧素材前5秒该按什么标准做本地化取舍，配音和节奏哪个优先级更高？",
+     "source": "白鲸出海",
+     "zh": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？"
+    },
+    {
+     "title": "黄仁勋回不去了",
+     "link": "https://www.tmtpost.com/8213432.html",
+     "pubDate": "Sat, 21 Nov 2026 12:07:35 +0800",
+     "summary": "他到底差在哪儿了？",
+     "source": "钛媒体",
+     "zh": "黄仁勋回不去了"
+    },
+    {
+     "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
+     "link": "https://www.huxiu.com/article/4907366.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 12:02:10 +0800",
+     "summary": "本文来自微信公众号： 新智元 ，编辑：元宇，作者：ASI启示录 AI刚学会替你干活，亚马逊、摩根大通、嘉信理财就开始堵门了！ 10月18日，@trikcode在X上列出了一份「AI碰壁清单」，点名达美航空、摩根大通、嘉信理财、Yelp和亚马逊。 他吐槽： 那些本该替我们搞定一切的AI智能体，开始被互联网挡在门外。 人愿意买，AI愿意跑腿，但最后一公里却卡在了平台不肯放行上！ 而亚马逊拦下Grok Bot的消息，几天前就引来了马斯克的回应。 10月15日，X用户nick发帖称，亚马逊正在阻止Grok Bot下单。他自己就有一个专门处理亚马逊退货的Bot，因此格外关注这件事。 他还抛出了一个问题：",
+     "source": "虎嗅",
+     "zh": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了"
+    },
+    {
      "title": "Startup sues Apple in India over tap-to-share contacts feature",
      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
      "pubDate": "Sat, 21 Nov 2026 04:00:00 +0000",
@@ -1866,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "小米从小鹏挖来了欧洲汽车业务负责人"
     },
     {
-     "title": "曝黎曼猜想被证明，Claude 立大功",
-     "link": "https://www.huxiu.com/article/4907358.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 11:39:29 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，曝黎曼猜想被证明，Claude 立大功》 困扰人类数学界167年的世界级难题，可能真的要被AI解决了。 就在刚刚，Anthropic数学家Levent Alpöge在个人网站发布声明，宣布自己与Claude合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。 更夸张的是，Alpöge声称，他们甚至进一步证明了适用范围更广的广义黎曼猜想（Generalized Riemann Hypothesis）。 图｜Levent Alpöge 有意思的是，Alpöge此次没有发布传统意义上的完整数学论文，而是",
-     "source": "虎嗅",
-     "zh": "曝黎曼猜想被证明，Claude 立大功"
-    },
-    {
      "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
      "link": "https://www.ithome.com/1/030/340.htm",
      "pubDate": "Sat, 21 Nov 2026 03:34:28 GMT",
@@ -1922,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备"
     },
     {
-     "title": "外卖翻篇，阿里把钱砸向AI",
-     "link": "https://www.tmtpost.com/8213142.html",
-     "pubDate": "Sat, 21 Nov 2026 11:01:42 +0800",
-     "summary": "电商利润修复，AI投入加速。",
-     "source": "钛媒体",
-     "zh": "外卖翻篇，阿里把钱砸向AI"
-    },
-    {
      "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
      "link": "https://www.ithome.com/1/030/334.htm",
      "pubDate": "Sat, 21 Nov 2026 03:01:36 GMT",
@@ -1952,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Information : Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &ldquo;no longer under active consideration&rdquo; &nbsp; &mdash;&nbsp; SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-",
      "source": "Techmeme",
      "zh": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)"
-    },
-    {
-     "title": "Clojure will affect the way you think about programming (2017)",
-     "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Clojure will affect the way you think about programming (2017)"
     },
     {
      "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
@@ -1986,28 +2002,28 @@ window.INDUSTRY_DATA = {
      "zh": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？"
     },
     {
-     "title": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？",
-     "link": "https://www.baijing.cn/question/638860",
-     "pubDate": "Sat, 21 Nov 2026 01:44:19 +0000",
-     "summary": "独立站做户外露营配件，澳洲市场刚起量，3人小团队。上季度找墨尔本和奥克兰的户外垂类红人做联盟分销，佣金设15%，另付样品和一次性推广费约合4200澳元。结果红人带来的订单CPA冲到38澳元，而站内Google Shopping的CPA只有19澳元，联盟渠道整体ROI不到1.3。我试过把佣金降到10%、只保留带货视频挂链的红人，转化率从1.8%掉到1.1%，量也腰斩。现在卡在：澳新红人报价普遍比东南亚高，但粉丝体量小、复购弱，不知道是继续按CPA筛选红人，还是干脆把预算挪回付费搜索。想问问做澳新市场的同行，你们判断红人联盟值不值得留的具体标准是什么？",
-     "source": "白鲸出海",
-     "zh": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？"
+     "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+     "link": "https://www.techmeme.com/261120/p43#a261120p43",
+     "pubDate": "Fri, 20 Nov 2026 19:25:00 -0500",
+     "summary": "@oracle : Oracle says it has secured funding for its infrastructure contract with OpenAI and &ldquo;any further private discussions with vendors are just additional options&rdquo; &nbsp; &mdash;&nbsp; Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capi",
+     "source": "Techmeme",
+     "zh": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)"
     },
     {
-     "title": "Integrals of Polynomials with Galois Group S_p",
-     "link": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
-     "pubDate": "Sat, 21 Nov 2026 01:17:05 +0000",
-     "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials Comments URL: https://news.ycombinator.com/item?id=50584776 Points: 6 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Integrals of Polynomials with Galois Group S_p"
+     "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
+     "link": "https://www.techmeme.com/261120/p42#a261120p42",
+     "pubDate": "Fri, 20 Nov 2026 18:50:00 -0500",
+     "summary": "George Steer / Financial Times : Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom &nbsp; &mdash;&nbsp; Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Str",
+     "source": "Techmeme",
+     "zh": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)"
     },
     {
-     "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-     "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-     "pubDate": "Sat, 21 Nov 2026 00:33:40 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 10 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again"
+     "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+     "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+     "pubDate": "Fri, 20 Nov 2026 23:24:02 +0000",
+     "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+     "source": "WIRED",
+     "zh": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop"
     }
    ]
   },
@@ -2290,52 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "融资收购SK海力士？孙正义一度考虑“万亿豪赌”，已接洽华尔街"
     },
     {
-     "title": "美媒：美防长限制美加防务合作",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936792898.html",
-     "pubDate": "Sat, 21 Nov 2026 10:47:05 +0800",
-     "summary": "据美国《华盛顿邮报》20日援引部分不具名官员的话报道，美国国防部长赫格塞思已对美国同加拿大的防务关系施加了新的限制。 报道称，赫格塞思在上周下发的一份机密备忘录中提出了这些指导方针。其中一名官员指出，这些新限制无疑会被加拿大方面视为“当众打脸”，同时也引发了外界对于两国军队间互动将受到何种程度削减的疑问。《华盛顿邮报》尚未看到这份机密备忘录。 美国国防部发言人肖恩·帕内尔在回应相关询问时表示，国防部正采取措施确保其与加方的互动能够推进美国的防务目标，并最终支持建立一种“重振后的防务关系”，同时“优先考虑那些能够加强我们本土及共同所在半球防务的双边合作机会，支持加拿大（达到）履行其北约义务的能力",
-     "source": "东方财富股票",
-     "zh": "美媒：美防长限制美加防务合作"
-    },
-    {
-     "title": "美货运“龙”飞船脱离空间站启程返回地球",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936792782.html",
-     "pubDate": "Sat, 21 Nov 2026 10:43:13 +0800",
-     "summary": "美国太空探索技术公司货运“龙”飞船11月20日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据 美国航空 航天局介绍，“龙”飞船于美国东部时间20日12时05分许（北京时间21日1时05分许）脱离国际空间站，预计于美国西部时间21日13时55分许（北京时间22日5时55分许）在加利福尼亚州附近海域溅落。 美国航空 航天局表示，“龙”飞船带回一批科研样本，包括3D生物打印的血管结构模型，以及在空间站经过处理的用于肿瘤研究的冷冻样本等。这些样本有助于科研人员研究血管衰老和心血管疾病，以及探索改进癌症治疗的新方法。（新华社） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "美货运“龙”飞船脱离空间站启程返回地球"
-    },
-    {
      "title": "人民日报：唱空中国经济者终会落空",
      "link": "http://finance.eastmoney.com/news/1350,202611213936792690.html",
      "pubDate": "Sat, 21 Nov 2026 10:42:18 +0800",
      "summary": "嘴上唱空中国经济的美西方人士，心里究竟打的什么算盘？ 今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。 这些论调背后，算的是他们自己的利益账和政治账：借“中国崩溃”动摇信心，拿“中国威胁”设限围堵。 可惜，中国经济的发展，从来不由这些唱空者说了算。 一 唱空中国经济，早已不是什么新鲜事。 2001年，有美西方人士提出“中国崩溃论”，预言加入世贸组织等因素将导致中国在2011年“崩溃”。结果到了2011年，预言不出意料地落空了。 2",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "人民日报：唱空中国经济者终会落空"
-    },
-    {
-     "title": "开普云签约新疆喀什政务大模型项目",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936792546.html",
-     "pubDate": "Sat, 21 Nov 2026 10:37:54 +0800",
-     "summary": "据 开普云 消息，近日， 开普云 签约新疆喀什地区数字政府“一网通办·政务大模型”建设项目。项目围绕数字政府智能化建设需求，依托大模型、智能体及数据智能分析等技术，建设政务AI助手、经济数据分析预警、援疆项目管理三大 AI应用 平台，为政务办公、经济运行分析及援疆项目管理等业务提供智能化支撑。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "开普云签约新疆喀什政务大模型项目"
-    },
-    {
-     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
-     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
-     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
-     "summary": "财联社11月21日讯（记者林溪） 11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股",
-     "source": "东方财富股票",
-     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
-    },
-    {
-     "title": "承接长三角优质资源落地，连云港推动数字文化产业创新突破",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936792454.html",
-     "pubDate": "Sat, 21 Nov 2026 10:33:57 +0800",
-     "summary": "11月19日至22日，第七届长三角国际文化产业博览会在上海举行，传统文化活化升级、数字科技赋能产业成为本届盛会核心议题。11月20日下午，依托文博会高端平台， 连云港 组团参展、专场招商双线发力，在沪举办“大圣故里·数智港城”数字文化产业招商对接会，以“西游文化+新质生产力”为赋能核心，对接长三角优质产业、科创、资本资源，探索 连云港 传统文化现代化转化的全新路径。 一部西游，连着一座城；一只猴宝，牵起众人心；两项共创，汇聚万钧力。活动现场最受瞩目的，是“西游AIGC共创计划、猴宝IP共创计划”的正式发布——依托长三角文博会，搭建西游、猴宝主题共创平台，深化打造西游文化品牌，助力山海文旅名城建",
-     "source": "东方财富股票",
-     "zh": "承接长三角优质资源落地，连云港推动数字文化产业创新突破"
     },
     {
      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
@@ -2504,6 +2480,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
+    },
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
+     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+     "source": "Financial Times",
+     "zh": "Nvidia faces US regulator’s probe into its accounting"
+    },
+    {
+     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
+     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
+    },
+    {
+     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+     "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:52:25 GMT",
+     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+     "source": "Financial Times",
+     "zh": "US tech stocks plunge into bear market in worst week since Covid-19 crisis"
+    },
+    {
+     "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+     "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
+     "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+     "source": "MarketWatch",
+     "zh": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock"
+    },
+    {
+     "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+     "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+     "pubDate": "Fri, 20 Nov 2026 21:35:24 GMT",
+     "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+     "source": "CNBC",
+     "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
     }
    ]
   },

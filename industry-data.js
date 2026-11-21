@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 11:31:56",
+ "generated_at": "2026/11/21 11:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元",
+     "link": "https://zhidx.com/p/613052.html",
+     "pubDate": "Sat, 21 Nov 2026 11:03:40 +0800",
+     "summary": "智东西 编译 | ZeR0 编辑 | 漠影 智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%， Anthropic 暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，Meta暴跌6%，亚马逊暴跌4%。 芯片股也愁容惨淡。美国芯片股费城半导体指数周五下跌10.7%，自6月份峰值以来累计跌幅达43%。闪迪暴跌16%，美光暴跌14%，AMD暴跌13%，西部数据、博通、Marvell暴跌12%，应用材料暴跌11%，泛林集团暴跌10%，台积电暴跌9%，英特尔、德州仪器暴跌8%，阿斯麦暴",
+     "source": "智东西",
+     "zh": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元"
+    },
     {
      "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
      "link": "https://zhidx.com/p/613053.html",
@@ -144,14 +152,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
      "source": "OpenAI",
      "zh": "Combatting adversarial distillation"
-    },
-    {
-     "title": "前DeepSeek研究员，开源本地版Muse，实现token自由",
-     "link": "https://zhidx.com/p/612775.html",
-     "pubDate": "Fri, 20 Nov 2026 17:42:40 +0800",
-     "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西11月20日报道，昨夜，前DeepSeek研究员、Simplex AI创始人张博（Tony Zhang）宣布开源个人Agent Linger，号称要让Agent摆脱对云端数据中心的依赖，直接运行在用户自己的电脑上。项目发布后迅速引发关注，GitHub星标数已突破2k。 ▲Linger项目GitHub主页，来源：GitHub 开源地址： GitHub：https://github.com/simplexai-labs/linger 张博在推文中将这一变化比作个人电脑的诞生。上世纪60年代，计算能力集中在大型计算中心，直到个人电脑出现，计算能力才逐渐走",
-     "source": "智东西",
-     "zh": "前DeepSeek研究员，开源本地版Muse，实现token自由"
     },
     {
      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -1786,6 +1786,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？",
+     "link": "https://www.baijing.cn/question/638865",
+     "pubDate": "Sat, 21 Nov 2026 03:43:17 +0000",
+     "summary": "我们做面向北美中小企业的项目管理 SaaS，5 人团队里只有 1 个市场、1 个设计能分给获客，目前刚过 PMF、月经常性收入约 4 万美元。产品内注册到付费转化率 3.2%，但自助流量见顶，上月试了 LinkedIn 付费推广和两个垂直 newsletter 投放，两周花了 6000 美元，试用注册只涨 40 个、付费 2 个，获客成本远高于自助渠道。现在纠结的是：人手只够每周固定 6 小时做渠道测试，是先把预算压到单一渠道跑满 8 周看留存，还是并行小预算铺 3 个渠道抢曝光？想听有 PLG 北美经验的人讲讲，这种人力约束下判断渠道该继续还是砍掉的临界标准是什么？",
+     "source": "白鲸出海",
+     "zh": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？"
+    },
+    {
+     "title": "史上最大IPO，焐不热AI行情",
+     "link": "https://www.huxiu.com/article/4907361.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:42:52 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：李莹 史上最大IPO圆满收官，却没能给AI行情带来暖意。敲钟上市仅仅一天，Anthropic股价便随全球科技股一同走弱。华尔街正以更冷静的目光重新审视AI叙事。 Claude大模型开发商Anthropic当地时间11月20日宣布完成IPO交割。承销商全额行使了1.47亿股的超额配售权（俗称“绿鞋”），公司最终以每股83美元发行11.27亿股A类普通股，募资总额约935亿美元。 “绿鞋”机制允许承销商在IPO后30天内按发行价额外认购最多15%的股份，通常在新股认购需求旺盛时行使。 在约935亿美元募资中，约916亿美元归公司所有，其余归出售股份的股东。若计",
+     "source": "虎嗅",
+     "zh": "史上最大IPO，焐不热AI行情"
+    },
+    {
+     "title": "黄仁勋，这一年",
+     "link": "https://www.huxiu.com/article/4907360.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:42:52 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 如果有人在2025年秋天写下一份剧本，说一家刚刚跨越5万亿美元门槛、被全球资本奉为“AI央行”的科技帝国，会在短短13个月后亲手把它的缔造者关在门外，甚至连他放低身段写下的求归长信都以“十比零”当众退回，大概没有哪家好莱坞制片厂敢投一分钱。 然而，2025年10月至2026年11月这13个月的真实商业史，却像坐上一架失控的过山车，把登顶的狂喜、不可替代的远见、硅谷草莽英雄的结盟与碰撞、地缘的暗刺与制度的冷酷，一寸一寸地演给了全世界看。 硅谷的“底盘牧羊人” 要理解这场风暴为何会震动整个硅谷，必须先看清黄仁勋在当代科技版图里独一无二的生态位。 过去",
+     "source": "虎嗅",
+     "zh": "黄仁勋，这一年"
+    },
+    {
+     "title": "小米从小鹏挖来了欧洲汽车业务负责人",
+     "link": "https://www.huxiu.com/article/4907359.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:42:51 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：葛成 周姝祺 小米汽车在欧洲搭建的本地团队，又补上一名关键负责人。 界面新闻从知情人士处获悉，前小鹏汽车西欧及南欧董事总经理强顺强已于今年9月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe），常驻德国。 截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应界面新闻置评请求。 距离计划中的欧洲销售启动还有约一年，小米汽车正把此前停留在时间表的欧洲出海规划，逐步落实到组织、研发、渠道和区域经营层面。 公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步",
+     "source": "虎嗅",
+     "zh": "小米从小鹏挖来了欧洲汽车业务负责人"
+    },
+    {
+     "title": "曝黎曼猜想被证明，Claude 立大功",
+     "link": "https://www.huxiu.com/article/4907358.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:39:29 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《刚刚，曝黎曼猜想被证明，Claude 立大功》 困扰人类数学界167年的世界级难题，可能真的要被AI解决了。 就在刚刚，Anthropic数学家Levent Alpöge在个人网站发布声明，宣布自己与Claude合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。 更夸张的是，Alpöge声称，他们甚至进一步证明了适用范围更广的广义黎曼猜想（Generalized Riemann Hypothesis）。 图｜Levent Alpöge 有意思的是，Alpöge此次没有发布传统意义上的完整数学论文，而是",
+     "source": "虎嗅",
+     "zh": "曝黎曼猜想被证明，Claude 立大功"
+    },
+    {
+     "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
+     "link": "https://www.ithome.com/1/030/340.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:34:28 GMT",
+     "summary": "IT之家 11 月 21 日消息，CNBC 记者亚历克斯 · 谢尔曼（Alex Sherman）于 11 月 19 日爆料称， 苹果和迪士尼将不参与 2030 年及 2034 年男足世界杯美国市场转播权竞标。 报道指出价格是迪士尼止步的重要原因，这批版权预期价格超过 15 亿美元 （IT之家注：现汇率约合 100.38 亿元人民币） ，而迪士尼还需为现有体育内容续约预留资金。迪士尼持有的美国职业橄榄球大联盟（NFL）、国家冰球联盟（NHL）和美国职业棒球大联盟（MLB）版权，都将在 2030 年前面临续约。 IT之家援引博文介绍，苹果经常被视为热门体育版权的潜在买家，但实际出手一直较为谨慎。苹",
+     "source": "IT之家",
+     "zh": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权"
+    },
+    {
+     "title": "孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑",
+     "link": "https://www.ithome.com/1/030/339.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:31:43 GMT",
+     "summary": "IT之家 11 月 21 日消息，据《The Information》今日报道，软银集团董事长兼 CEO 孙正义近期曾接洽华尔街金融机构，探讨为收购韩国 SK 海力士筹集资金，潜在交易规模高达 1 万亿美元 （IT之家注：现汇率约合 6.69 万亿元人民币） 。 不过，软银发言人随后表示，该交易目前已不再处于积极考虑阶段。“软银会探索许多机会，而这笔交易目前已不再纳入积极考虑范围。” 知情人士称，孙正义此前曾考虑通过收购 SK 海力士，进一步扩大软银在人工智能产业链中的布局。SK 海力士是全球主要存储芯片制造商之一，其生产的 HBM 是英伟达等厂商先进 AI 芯片的重要配套产品。 报道指出，S",
+     "source": "IT之家",
+     "zh": "孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑"
+    },
+    {
+     "title": "旧面板厂不愁卖，芯片巨头为什么排队接盘",
+     "link": "https://www.huxiu.com/article/4907355.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:29:01 +0800",
+     "summary": "本文来自微信公众号： 半导体产业纵横 ，作者：子皓 过去两年，显示产业最忙的一件事不是盖厂，而是卖厂，而买家名单里出现得最频繁的面孔，就是晶圆代工厂和存储厂。那些被贴上“落后产能”标签的5代线、5.5代线、7.5代线，忽然成了半导体扩产链条上最短的一条路径，备受青睐，甚至被哄抢。 01 买家名单越来越长 早在2024年8月15日，台积电以约34.7亿元买下群创南科四厂，一座已经停产的5.5代LCD厂，群创认列处分利益约29.8亿元。此后不到一年，这座厂变成台积电的AP8先进封装基地，据了解，2025年4月2日进机，无尘室面积接近10万平方米，约为此前AP5厂的四倍，首阶段整修只用了8个月。值得",
+     "source": "虎嗅",
+     "zh": "旧面板厂不愁卖，芯片巨头为什么排队接盘"
+    },
+    {
+     "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+     "link": "https://www.ithome.com/1/030/338.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:24:35 GMT",
+     "summary": "IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。 问答环节，有人询问：字节跳动、Kimi 等似乎都在往 3 万亿、甚至 5 万亿参数的超大模型推进，而你们还在 7000 亿。为什么？你们怎么看参数量对模型能力的实际影响？这方面有什么计划？ 混元团队回应：“Hy3 和 Hy4 已经表明， 做得扎实的小模型也能超过更大的模型。 它们的成本也更低，而且在这个过程中，你能学到更多、收获更多。” 不过，混元团队也表示，Hy4 仍有很大的改进空",
+     "source": "IT之家",
+     "zh": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型"
+    },
+    {
+     "title": "Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验",
+     "link": "https://www.ithome.com/1/030/337.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:23:49 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 今天（11 月 21 日）发布博文，报道称 在 11 月可选更新 KB5132057 中 ， 微软邀请部分 Windows 11 用户体验原生重构的 Windows Search 搜索体验。 Windows 11 26H2 中基于 WinUI 的全新搜索功能。 底层架构方面，新版 Windows Search 搜索摆脱旧版对 WebView2 网页组件的依赖，采用 WinUI 3 原生 UI 框架打造。WinUI 3 属于 Windows App SDK，使用基于 XAML 的界面模型，支持 C++ 和 C# 开发。该框",
+     "source": "IT之家",
+     "zh": "Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验"
+    },
+    {
      "title": "Shopee巴西站物流时效从12天掉到21天，是换仓还是换承运商？",
      "link": "https://www.baijing.cn/question/638864",
      "pubDate": "Sat, 21 Nov 2026 03:15:59 +0000",
@@ -1834,44 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "从《超级女声》到《后会友期》，芒果台30年资本发家史"
     },
     {
-     "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
-     "link": "https://www.ithome.com/1/030/333.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:59:20 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移动或重命名本地文件。 IT之家附上相关视频如下： 微软表示该功能可以减少手动翻找和归类的麻烦，用户主动启用并授权后，即可用日常语言要求 AI 查找、移动文件、创建文件和文件夹，还能根据文件内容批量重命名。 在本次演示中，微软为了便于和团队成员分享内容，要求将“下载”文件夹里的分析师报告整理到 OneDrive。微软 Copilot 请求权限后，扫描相关目录，在 O",
-     "source": "IT之家",
-     "zh": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件"
-    },
-    {
-     "title": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题",
-     "link": "https://www.ithome.com/1/030/332.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:55:52 GMT",
-     "summary": "IT之家 11 月 21 日消息，英伟达于当地时间 11 月 20 日发布了 GeForce Hotfix 621.35 显卡驱动，修复此前部分 Game Ready 驱动可能在后台向固态硬盘（SSD）过度写入数据的问题。 这一热修复驱动基于最新的 GeForce Game Ready Driver 621.24 版本，仅包含一项修复： 解决后台可能向 nvlog.nvlgstg 文件过度写入数据的问题，对应 Bug 编号为 7116722。 此前，有用户反馈，安装 GeForce 621.14 和 621.24 驱动后，即使电脑处于空闲状态，系统仍会持续产生大量 SSD 写入操作。相关问题涉",
-     "source": "IT之家",
-     "zh": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题"
-    },
-    {
      "title": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？",
      "link": "https://www.baijing.cn/question/638863",
      "pubDate": "Sat, 21 Nov 2026 02:55:07 +0000",
      "summary": "上个月Shopee菲律宾站COD订单拒收率从9%爬到18%，我们做的是手机配件，客单价350比索左右，起量阶段每天大概400单，团队就两个运营加一个兼职客服。已经试过在订单确认页加Tagalog提醒、发货前用Shopee聊聊批量发确认消息，拒收率只降到15%；也试过把部分SKU改成预付，但转化率掉了近三成，不敢全切。现在卡在人力上：每天手动筛高风险订单做二次确认要花三个多小时，平台拒收申诉又要逐单提交物流凭证，两个人根本排不开，周末积压的申诉经常超时。想问在这种人手约束下，是该优先保申诉时效还是优先做发货前回访，判断标准怎么定？",
      "source": "白鲸出海",
      "zh": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？"
-    },
-    {
-     "title": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态",
-     "link": "https://www.huxiu.com/article/4907354.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:54:01 +0800",
-     "summary": "本文来自微信公众号： 经济观察网 ，作者：周菊 将北汽动力总成的换电站出售，或将有助于集团将换电站业务集中于北汽蓝谷。 11月17日，北京汽车（01958.HK）公告称，全资附属公司北京汽车动力总成有限公司（下称“北汽动力总成”）拟在北京产权交易所以公开挂牌竞价方式，转让与112座换电站相关的资产组，包括存货、固定资产、在建工程及无形资产。以2026年9月30日为估值基准日，采用成本法评估，评估值约2.779亿元（不含税），较2.7369亿元的账面价值增值1.54%。 公告称，目标资产主要由无法独立运营或单独产生收益的设备及配套资产组成，2024年及2025年并无应占的独立税前或税后损益，因此",
-     "source": "虎嗅",
-     "zh": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态"
-    },
-    {
-     "title": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布",
-     "link": "https://www.ithome.com/1/030/331.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:53:17 GMT",
-     "summary": "IT之家 11 月 21 日消息，荣耀 700/700 Pro 手机将于 11 月 23 日 14:30 发布，博主 @数码闲聊站 今日对新机的核心配置进行了曝光汇总。 IT之家整理如下： 6.57\"1.5K+120Hz LTPS 直屏，0.98mm 四等边，1.59\" 原生背屏 骁龙 8s Gen4 / 骁龙 8 Gen5 处理器 9000mAh 电池 +80W 有线充，Pro 支持 50W 无线充 200Mp 1/1.56\" 主摄 +12Mp 超广角 +50Mp 3.5X 潜望长焦，200mm 迷你增距镜 IP68/IP69/IP69K，光学指纹，机身厚 7.96mm / 重 211g I",
-     "source": "IT之家",
-     "zh": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布"
     },
     {
      "title": "姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考",
@@ -1890,20 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)"
     },
     {
-     "title": "25万页证明，黎曼猜想被AI“解决”了吗？",
-     "link": "https://www.huxiu.com/article/4907351.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:38:32 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：Steed，编辑：吴欧 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己借助AI模型Claude，找到了黎曼猜想的证明。 消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成的机器代码。代码规模极其吓人：如果要打印成人类能读懂的数学文本，足足超过25万页；转化成计算机能严密校验的代码，长达1700万行，压缩后还要分成14个分卷。 宣称与Claude合作找到黎曼猜想证明的数学家阿尔珀格丨阿尔珀格个人",
-     "source": "虎嗅",
-     "zh": "25万页证明，黎曼猜想被AI“解决”了吗？"
-    },
-    {
-     "title": "安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光",
-     "link": "https://www.ithome.com/1/030/330.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:37:42 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称微软正酝酿升级安卓版“连接至 Windows”（Link to Windows）应用，开发“扩展显示”（Extend display）功能， 有望让安卓手机变身电脑副屏。 该媒体指出和当前将手机投屏到电脑显示器上相反，“扩展显示”将部分电脑桌面传送到手机上，为用户额外增加一块显示区域。例如手机可用于放置聊天窗口；如果平板获得支持，更大的屏幕则适合显示参考文档，让闲置设备有机会重新派上用场。 该媒体通过挖掘最新安卓版“连接至 Windows”应用程序，在界面文字、图标及代码中发现相",
-     "source": "IT之家",
-     "zh": "安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光"
+     "title": "Clojure will affect the way you think about programming (2017)",
+     "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+     "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
+     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Clojure will affect the way you think about programming (2017)"
     },
     {
      "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
@@ -1930,36 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”"
     },
     {
-     "title": "美股崩了，英伟达暴跌超14%",
-     "link": "https://www.huxiu.com/article/4907350.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:25:11 +0800",
-     "summary": "本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯-浪客剑，原文标题：《美股崩了，英伟达暴跌超14%！》 当地时间11月20日，美股三大股指集体大幅下跌，其中纳斯达克指数暴跌5.28%，标普500指数下跌3.7%，道琼斯工业平均指数下跌1.93%。随着连续下跌，标普500指数和道琼斯指数均跌入技术性回调区间，纳斯达克指数则彻底抹去了2026年以来的全部涨幅。 此次抛售潮中，人工智能（AI）及半导体板块首当其冲。整个费城半导体指数更是暴跌约10.7%。 从个股表现来看，AI芯片大厂英伟达股价单日暴跌14.1%，处理器大厂AMD暴跌13.25%、英特尔大跌7.97%、高通大跌7.4",
-     "source": "虎嗅",
-     "zh": "美股崩了，英伟达暴跌超14%"
-    },
-    {
-     "title": "寻找新的解，后AI时代的",
-     "link": "https://www.huxiu.com/article/4907343.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:24:09 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹（920.org.cn（AI Research Institute）创始人，港大AIBT研究生，前上市公司 CMO），题图来自：AI生成 一、理所应当 &ldquo;黎曼猜想已被 Claude 证明&rdquo;的消息传来的时候，我还在埋头加班。 我没有从椅子上跳起来。说实话，我的第一反应是：哦，来了。 理所应当。 这件事我想象过很多次。AI 有一天会破解黎曼猜想，或者哥德巴赫猜想。我并不是凭空幻想，我的理由很朴素：人的智商不会在几个月里翻倍，AI 可以。人类最聪明的头脑，几百年磨一个问题，靠的是一代代人的接力。而它不需要接力。它只需要更多",
-     "source": "虎嗅",
-     "zh": "寻找新的解，后AI时代的"
-    },
-    {
      "title": "GTA 6 可以慢慢来，独立游戏等不起",
      "link": "https://www.tmtpost.com/8213018.html",
      "pubDate": "Sat, 21 Nov 2026 10:20:07 +0800",
      "summary": "制作一款游戏可能越来越容易，但让一款原创游戏率先获得市场认可，并将这种认可转化为长期的商业优势，正在成为更加重要的竞争能力。",
      "source": "钛媒体",
      "zh": "GTA 6 可以慢慢来，独立游戏等不起"
-    },
-    {
-     "title": "袁记食品IPO：总部利润翻倍，加盟店的账算平了吗",
-     "link": "https://www.huxiu.com/article/4907347.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:11:43 +0800",
-     "summary": "本文来自微信公众号： 奇点湃 ，作者：王雪然 11月19日，袁记云饺母公司袁记食品披露聆讯后资料集，通过港交所主板上市聆讯，华泰国际和广发证券担任联席保荐人。 发售价、募资额和挂牌日期尚未公布，公司走到发行前最后一道门口。 袁记食品带着一份看上去很漂亮的成绩单。2025年，公司营收27.95亿元，经调整净利润2.62亿元；2026年前五个月，营收同比增长39.8%至13.06亿元，经调整净利润同比增长164%至1.85亿元，经调整净利率升至14.1%。 门店规模更为醒目。从2023年初到2026年5月末，袁记门店总数从1990家增至4773家，覆盖全国33个省级行政区、超过250个城市。按20",
-     "source": "虎嗅",
-     "zh": "袁记食品IPO：总部利润翻倍，加盟店的账算平了吗"
     },
     {
      "title": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？",
@@ -1978,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？"
     },
     {
-     "title": "韩国短剧平台分账周期拉到90天，我们这种小体量内容方还要不要继续备新剧？",
-     "link": "https://www.baijing.cn/question/638859",
-     "pubDate": "Sat, 21 Nov 2026 01:21:12 +0000",
-     "summary": "去年Q4给韩国一个短剧平台供了12部竖屏剧，单部制作成本压到8万人民币左右，签的是分账+保底混合。结果平台侧结算从最初承诺的月结拖到90天，最近一笔2月账单到5月才打款，扣完渠道费和税实际到账只有保底的六成。我们3人小团队，月产能就2-3部，现在备货节奏全乱了：新剧不敢开机，已拍完的3部卡在后期不敢交付，怕交出去又是压三个月账期。试过要求预付30%被拒，也谈过按点击阶梯提高分成比例，平台只肯给头部厂牌。想请教做过韩国短剧分账的同行，这种账期和实际分账比例下，你们判断还值不值得继续备新剧，还是转做一次性买断？",
-     "source": "白鲸出海",
-     "zh": "韩国短剧平台分账周期拉到90天，我们这种小体量内容方还要不要继续备新剧？"
-    },
-    {
      "title": "Edge AI Daily 早报（11月21日）",
      "link": "https://www.tmtpost.com/8213305.html",
      "pubDate": "Sat, 21 Nov 2026 09:19:52 +0800",
@@ -2002,28 +2010,20 @@ window.INDUSTRY_DATA = {
      "zh": "Integrals of Polynomials with Galois Group S_p"
     },
     {
+     "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+     "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+     "pubDate": "Sat, 21 Nov 2026 00:33:40 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again"
+    },
+    {
      "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
      "link": "https://www.techmeme.com/261120/p43#a261120p43",
      "pubDate": "Fri, 20 Nov 2026 19:25:00 -0500",
      "summary": "@oracle : Oracle says it has secured funding for its infrastructure contract with OpenAI and &ldquo;any further private discussions with vendors are just additional options&rdquo; &nbsp; &mdash;&nbsp; Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capi",
      "source": "Techmeme",
      "zh": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)"
-    },
-    {
-     "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
-     "link": "https://www.techmeme.com/261120/p42#a261120p42",
-     "pubDate": "Fri, 20 Nov 2026 18:50:00 -0500",
-     "summary": "George Steer / Financial Times : Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom &nbsp; &mdash;&nbsp; Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Str",
-     "source": "Techmeme",
-     "zh": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)"
-    },
-    {
-     "title": "Re: Riemann",
-     "link": "https://borretti.me/article/re-riemann",
-     "pubDate": "Fri, 20 Nov 2026 23:42:44 +0000",
-     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 153 # Comments: 141",
-     "source": "Hacker News",
-     "zh": "Re: Riemann"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "HMD could bring Nokia's PureView branding back with a new phone",
+     "link": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php",
+     "pubDate": "Sat, 21 Nov 2026 04:32:02 +0100",
+     "summary": "It's been a while since we last heard the PureView name, but a new report suggests it could be making a comeback. HMD Global is reportedly considering reviving the branding that Nokia once used for its camera-focused flagship phones. According to Finnish website SuomiMobiili, an HMD employee shared ",
+     "source": "GSMArena",
+     "zh": "HMD could bring Nokia's PureView branding back with a new phone"
+    },
     {
      "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
      "link": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Back in April, Samsung's Exynos 2700 emerged in early Geekbench listings, but that engineering sample had its fastest core running at just 2.88GHz. Last month, insiders claimed the chip beat the Snapdragon in the Xiaomi 18 Pro Max in internal tests, by about 15% in Geekbench 7's multi-core test. Now",
      "source": "GSMArena",
      "zh": "Galaxy S27 Pro's Exynos 2700 runs Geekbench, here's how it stacks up against Snapdragon"
-    },
-    {
-     "title": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?",
-     "link": "https://9to5google.com/2026/11/20/is-the-galaxy-s26-ultra-still-a-good-buy-at-the-end-of-2026/",
-     "pubDate": "Fri, 20 Nov 2026 19:12:42 +0000",
-     "summary": "Yes, the Samsung Galaxy S26 Ultra remains a good buy in late 2026 if you want a large-screen Android phone with versatile cameras, an integrated S Pen, and long-term software support. The Galaxy S26 Ultra has aged very well, benefiting from Samsung’s mature hardware and software, along with a host o",
-     "source": "9to5Google",
-     "zh": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?"
     }
    ]
   },
@@ -2281,6 +2281,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
+     "link": "https://wallstreetcn.com/articles/3786426",
+     "pubDate": "Sat, 21 Nov 2026 11:44:58 +0800",
+     "summary": "美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。 高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当 前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。 Garrett回忆起2018年12月24日的市场崩跌。 当时，一位客户问他：“为什么今天跌了这么多？”Garrett坦言：“完全不知道。” 即便是经验丰富的交易员，面对突如其来的剧烈抛售，也难以判断市场究竟为何失控。 不过，历史相似并不意味着行情必然重复。此次市场调整中，信用市场尚未出现",
+     "source": "华尔街见闻",
+     "zh": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”"
+    },
     {
      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
@@ -2370,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！"
     },
     {
-     "title": "DeepSeek限额，底气来自聊天框外",
-     "link": "http://www.eeo.com.cn/2026/1121/1098763.shtml",
-     "pubDate": "Sat, 21 Nov 2026 10:08:34 +0800",
-     "summary": "一边给免费聊天限额，一边把API开放给别人复刻自己，DeepSeek到底在做什么生意？",
-     "source": "经济观察网",
-     "zh": "DeepSeek限额，底气来自聊天框外"
-    },
-    {
      "title": "10月证券交易印花税120亿触底 下滑34%逼近两年低点 这个数据如何看？",
      "link": "http://stock.eastmoney.com/news/1405,202611213936789285.html",
      "pubDate": "Sat, 21 Nov 2026 10:07:00 +0800",
@@ -2424,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。 11月20日， Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。 由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的讨论。 Alpöge将证明以Lean语言写成，分为14个压缩文件发布。与此同时， 他与Claude生成的文字版证明超过25万页，但因篇幅过长、难以阅读而没有公开。 目前，尚无数学家正式确认这一证明成立",
      "source": "华尔街见闻",
      "zh": "“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 21 Nov 2026 09:02:55 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "为什么越来越多的人喜欢养宠物？",
-     "link": "http://www.eeo.com.cn/2026/1121/1097713.shtml",
-     "pubDate": "Sat, 21 Nov 2026 08:55:01 +0800",
-     "summary": "很多人喜欢和动物待在一块儿，这份喜欢，甚至是超过和人相处时的感觉。 其实，人对猫狗的喜爱，都是有道理的。 根据神经科学的研究发现，当我们看到猫和狗时，大脑的奖赏中枢会被激活，催产素水平飙升。这也是很多人看到宠物时，父爱感和母爱感爆棚的原因。 换句话说，我们不是“选择”喜欢猫狗，而是...",
-     "source": "经济观察网",
-     "zh": "为什么越来越多的人喜欢养宠物？"
     },
     {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -2520,6 +2504,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
+    },
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
+     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+     "source": "Financial Times",
+     "zh": "Nvidia faces US regulator’s probe into its accounting"
+    },
+    {
+     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
+     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
     }
    ]
   },

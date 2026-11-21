@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 03:55:38",
+ "generated_at": "2026/11/22 04:04:51",
  "recent_days": 7,
  "industries": [
   {
@@ -40,6 +40,30 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+     "link": "https://www.qbitai.com/2026/11/511779.html",
+     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
+     "summary": "还实现可变形物体操控全球首通",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+    },
+    {
+     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+     "link": "https://www.qbitai.com/2026/11/511570.html",
+     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+     "summary": "专为本地部署而生",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511757.html",
+     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -178,6 +202,22 @@ window.INDUSTRY_DATA = {
      "zh": "Chips can survive the space environment — can their financing?"
     },
     {
+     "title": "米哈游发了个VLA论文",
+     "link": "https://www.qbitai.com/2026/11/511740.html",
+     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
+     "summary": "8B参数，50小时自主运行",
+     "source": "量子位",
+     "zh": "米哈游发了个VLA论文"
+    },
+    {
+     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+     "link": "https://www.qbitai.com/2026/11/511727.html",
+     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
+    },
+    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
      "source": "KDnuggets",
      "zh": "Decision AI Explained in 5 Minutes"
-    },
-    {
-     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
-     "link": "https://zhidx.com/p/612799.html",
-     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
-     "source": "智东西",
-     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
-    },
-    {
-     "title": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了",
-     "link": "https://zhidx.com/p/612756.html",
-     "pubDate": "Fri, 20 Nov 2026 18:23:51 +0800",
-     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月20日报道，刚刚，华为正式发布了全新的子品牌 OSTA 星芒， 以及星芒首款新机 OSTA O1 Pro， 一款阔直板手机，也是 华为首款“鸿蒙AI手机”， 硬件方面其搭载了 韬定律芯片麒麟9030S。 2020年11月，华为官宣卖掉了子品牌荣耀，6年后，华为新子品牌星芒登场，这也是 荣耀独立出去后，华为新推出的第一个手机子品牌。 对于“OSTA”的含义，华为常务董事、终端BG董事长余承东给出解释： Original—原创、Smart—智能、Technology—科技、Accesible—触手可及。 OSTA O1 Pro首发了 鸿蒙7 A",
-     "source": "智东西",
-     "zh": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了"
-    },
-    {
-     "title": "Combatting adversarial distillation",
-     "link": "https://openai.com/index/combatting-adversarial-distillation",
-     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-     "source": "OpenAI",
-     "zh": "Combatting adversarial distillation"
-    },
-    {
-     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
-     "source": "机器之心",
-     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
-    },
-    {
-     "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "通往超级智能的四条路径",
-     "source": "机器之心",
-     "zh": "AGI还不是终点，DeepMind开始思考ASI的未来"
     }
    ]
   },
@@ -674,6 +674,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+     "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+     "pubDate": "Sat, 21 Nov 2026 19:56:56 +0000",
+     "summary": "Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed handling in school zones. Tesla also claims “25x better handling of safety critical cases” and is adding a new live visualiza",
+     "source": "Electrek",
+     "zh": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes"
+    },
+    {
+     "title": "How much does charging an EV really cost? This Redditor says $7 per month",
+     "link": "https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/",
+     "pubDate": "Sat, 21 Nov 2026 19:53:32 +0000",
+     "summary": "One of the most common questions asked by first-time EV buyers is about the cost of electricity. Whether they plan to charge at home or find charging in the wild, everyone wants to know what to expect when it comes time to top off their batteries. One EV owner did the math after two months of EV own",
+     "source": "Electrek",
+     "zh": "How much does charging an EV really cost? This Redditor says $7 per month"
+    },
+    {
      "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
      "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
      "pubDate": "Sat, 21 Nov 2026 19:14:57 +0000",
@@ -712,22 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes i",
      "source": "Electrek",
      "zh": "I ride e-bikes for a living. This is the real gear I actually use"
-    },
-    {
-     "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
-     "link": "https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/",
-     "pubDate": "Sat, 21 Nov 2026 16:21:57 +0000",
-     "summary": "Electric vehicles have finally gone mainstream in Grand Theft Auto. In GTA 6, EVs are just part of everyday traffic in Vice City, from Tesla and Porsche lookalikes to a parody of Electrify America’s charging network. It’s a big change for a series that spent over a decade treating EVs as a Tesla jok",
-     "source": "Electrek",
-     "zh": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them"
-    },
-    {
-     "title": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
-     "link": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
-     "pubDate": "Sat, 21 Nov 2026 15:11:17 +0000",
-     "summary": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest market. It didn’t go well. Musk got through one line about Tesla before stalling out: “Sorry, I don’t really know what I w",
-     "source": "Electrek",
-     "zh": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’"
     },
     {
      "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
+     "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
+     "pubDate": "Sat, 21 Nov 2026 14:00:00 -0600",
+     "summary": "United States President Trump has doubled down on his support for fossil fuels since coming into office almost two years ago, including the most polluting of them all – coal. Just as many coal plants were on their way to retirement, Trump stepped in and stopped them from closing, backing his decisio",
+     "source": "OilPrice",
+     "zh": "Trump’s Coal Revival Is Costing Americans More Than Expected"
+    },
+    {
      "title": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October",
      "link": "https://cleantechnica.com/2026/11/21/ev-share-jumps-to-68-and-small-bevs-rise-to-power-china-ev-sales-report-for-october/",
      "pubDate": "Sat, 21 Nov 2026 19:38:50 +0000",
@@ -1016,14 +1024,6 @@ window.INDUSTRY_DATA = {
      "summary": "For months, the climate world and the broader Democratic coalition have argued over whether the sweeping bipartisan permitting reform bill will be good or bad for the energy transition. But inside the Senate, which just passed the legislation by a 62–33 vote, concerns about tribal sovereignty oversh",
      "source": "Canary Media",
      "zh": "Why tribal rights have become key to the energy permitting debate"
-    },
-    {
-     "title": "US Data Center Boom Faces a New Political Reality",
-     "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
-     "pubDate": "Fri, 20 Nov 2026 13:00:00 -0600",
-     "summary": "Starting in January, Democratic governors will lead US states that together hold 77% of the 300 gigawatts (GW) of data center capacity announced for 2027-2030, including the five largest markets: Texas, Virginia, Pennsylvania, Ohio and Georgia. Most of the winning candidates campaigned on making dat",
-     "source": "OilPrice",
-     "zh": "US Data Center Boom Faces a New Political Reality"
     },
     {
      "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
@@ -1802,12 +1802,44 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says reported FBI database hack is ‘not good’"
     },
     {
+     "title": "Upload2Shell · CVE-2026-125396",
+     "link": "https://pwn.ai/upload2shell",
+     "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
+     "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 9 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Upload2Shell · CVE-2026-125396"
+    },
+    {
+     "title": "Inkling-2-Mini in 5.4 GB Memory",
+     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+     "pubDate": "Sat, 21 Nov 2026 18:02:19 +0000",
+     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 152 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "Inkling-2-Mini in 5.4 GB Memory"
+    },
+    {
+     "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+     "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+     "pubDate": "Sat, 21 Nov 2026 17:59:59 +0000",
+     "summary": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 120 # Comments: 202",
+     "source": "Hacker News",
+     "zh": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists"
+    },
+    {
      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
      "link": "https://www.techmeme.com/261121/p8#a261121p8",
      "pubDate": "Sat, 21 Nov 2026 12:55:01 -0500",
      "summary": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week &nbsp; &mdash;&nbsp; Acquisition would help AWS compete with Nvidia in race for computing power&nbsp; &mdash;&nbsp; Amazon is nearing",
      "source": "Techmeme",
      "zh": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)"
+    },
+    {
+     "title": "PostgreSQL Extensions in Go",
+     "link": "https://jespino.github.io/gopgext/",
+     "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
+     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 66 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "PostgreSQL Extensions in Go"
     },
     {
      "title": "美国发审计牌照，中国改会计准则：AI 验收的两种活法",
@@ -1826,12 +1858,28 @@ window.INDUSTRY_DATA = {
      "zh": "今日小雪：雨凝为雪，地气冻结"
     },
     {
+     "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+     "link": "https://math.mit.edu/~drew/grh/",
+     "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
+     "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 47 # Comments: 14",
+     "source": "Hacker News",
+     "zh": "Verification files for the Lean proof of the Riemann Hypothesis"
+    },
+    {
      "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
      "link": "https://www.ithome.com/1/030/510.htm",
      "pubDate": "Sat, 21 Nov 2026 15:43:31 GMT",
      "summary": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现。外媒 insideevs 今天（21 日）介绍了一辆“复活”的 1967 款保时捷 912，该车由改装厂商 Inverted 经手，改装团队为它装上了电池组和电动机。 改装完成后，车辆外观与原厂 912 毫无二致，经典的复古造型得以完整保留，开起来却已经是一辆当代的电动汽车。 这套改装最巧妙的地方在于电池布局。由于车身本就轻巧，62kWh 的电池组因此足以让车辆拥有相当可观的续航。然而，电池重量如果全部集中在后轴上方，却会让车尾负担过重。 老款风冷保时捷本来就容易在收油时出现转向过度，再增加后部重量，",
      "source": "IT之家",
      "zh": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里"
+    },
+    {
+     "title": "Show HN: Zero C# – C# without a runtime or GC",
+     "link": "https://onurgumus.github.io/zero-csharp/index.html",
+     "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 68 # Comments: 50",
+     "source": "Hacker News",
+     "zh": "Show HN: Zero C# – C# without a runtime or GC"
     },
     {
      "title": "比亚迪腾势 B5 海外“秀肌肉”，两轮成功拉动 180 吨客机",
@@ -1976,54 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "腾讯音乐越来越像个消费品公司。",
      "source": "钛媒体",
      "zh": "并表和IP，不是腾讯音乐的长效药"
-    },
-    {
-     "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
-     "link": "https://www.tmtpost.com/8213535.html",
-     "pubDate": "Sat, 21 Nov 2026 19:19:38 +0800",
-     "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
-     "source": "钛媒体",
-     "zh": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地"
-    },
-    {
-     "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
-     "link": "https://www.solidot.org/story?sid=85952",
-     "pubDate": "Sat, 21 Nov 2026 19:09:59 +0800",
-     "summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人类数学家不得不匆忙提前发布证明手稿。该证明手稿没有使用任何 AI 工具，完全由人类自己完成。",
-     "source": "Solidot",
-     "zh": "人类数学家匆忙发布广义黎曼猜想的证明手稿"
-    },
-    {
-     "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-     "link": "https://www.wired.com/story/best-laptops-for-travel/",
-     "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
-     "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-     "source": "WIRED",
-     "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
-    },
-    {
-     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
-     "link": "https://www.solidot.org/story?sid=85951",
-     "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
-     "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
-     "source": "Solidot",
-     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
-    },
-    {
-     "title": "“奶茶第一股”的翻红账本",
-     "link": "https://www.tmtpost.com/8212602.html",
-     "pubDate": "Sat, 21 Nov 2026 18:32:15 +0800",
-     "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
-     "source": "钛媒体",
-     "zh": "“奶茶第一股”的翻红账本"
-    },
-    {
-     "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
-     "link": "https://www.solidot.org/story?sid=85950",
-     "pubDate": "Sat, 21 Nov 2026 18:11:05 +0800",
-     "summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、服务器和系统 100% 恢复到原始状态，受害者不需要向勒索软件组织屈服。RansomwareHelp.com 称其密码学专家利用独有工具和算法，能实现 100% 的数据恢复，成功率超过 99%。这家成立六年的公司声称有逾 28 年的行业经验，拥有一支由 80 名密码学、网络安全、取证分析和逆向工程专家组成的团队。它表示不会代表客户去促成、充当中间人，或向勒索者支付赎金。然而根据本周递交到罗德岛州 的诉讼，该公司联合创始人兼 CTO Juan",
-     "source": "Solidot",
-     "zh": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织"
     }
    ]
   },

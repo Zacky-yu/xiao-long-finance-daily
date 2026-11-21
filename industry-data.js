@@ -42,30 +42,6 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
     },
     {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
-     "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
-    },
-    {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=3&sn=d08693456bc97db18084229852b76739",
      "pubDate": "Sat, 21 Nov 2026 12:11:00 +0800",
@@ -202,22 +178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chips can survive the space environment — can their financing?"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -248,6 +208,46 @@ window.INDUSTRY_DATA = {
      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
      "source": "KDnuggets",
      "zh": "Decision AI Explained in 5 Minutes"
+    },
+    {
+     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+     "link": "https://zhidx.com/p/612799.html",
+     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
+     "source": "智东西",
+     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
+    },
+    {
+     "title": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了",
+     "link": "https://zhidx.com/p/612756.html",
+     "pubDate": "Fri, 20 Nov 2026 18:23:51 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月20日报道，刚刚，华为正式发布了全新的子品牌 OSTA 星芒， 以及星芒首款新机 OSTA O1 Pro， 一款阔直板手机，也是 华为首款“鸿蒙AI手机”， 硬件方面其搭载了 韬定律芯片麒麟9030S。 2020年11月，华为官宣卖掉了子品牌荣耀，6年后，华为新子品牌星芒登场，这也是 荣耀独立出去后，华为新推出的第一个手机子品牌。 对于“OSTA”的含义，华为常务董事、终端BG董事长余承东给出解释： Original—原创、Smart—智能、Technology—科技、Accesible—触手可及。 OSTA O1 Pro首发了 鸿蒙7 A",
+     "source": "智东西",
+     "zh": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "source": "OpenAI",
+     "zh": "Combatting adversarial distillation"
+    },
+    {
+     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
+     "source": "机器之心",
+     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
+    },
+    {
+     "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "通往超级智能的四条路径",
+     "source": "机器之心",
+     "zh": "AGI还不是终点，DeepMind开始思考ASI的未来"
     }
    ]
   },

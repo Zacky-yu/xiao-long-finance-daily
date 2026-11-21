@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 12:31:57",
+ "generated_at": "2026/11/21 12:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "卫星业务撑起近八成收入，Rocket Lab 为何还要押注中型火箭？",
+     "link": "https://www.huxiu.com/article/4907369.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 12:43:19 +0800",
+     "summary": "本文来自微信公众号： 太空可达 ，作者：SpaceCodex 全文约7000字｜阅读约15分钟 2026年11月14日傍晚，新西兰北岛东岸的马希亚半岛。火箭实验室（Rocket Lab，纳斯达克代码：RKLB）的“电子”号（Electron）立在1号发射场上，准备执行第100次发射。官方直播里，主持人说： “我们很快就要迈进三位数了。站在第一次任务用过的同一个发射台上，感觉再合适不过。” 6点30分，倒计时结束，电子号点火升空。大约50分钟后，日本iQPS公司的雷达卫星QPS-SAR-19在预定轨道上与火箭分离。这是电子号为iQPS执行的第11次发射。 ▲2026年11月14日，电子号第100",
+     "source": "虎嗅",
+     "zh": "卫星业务撑起近八成收入，Rocket Lab 为何还要押注中型火箭？"
+    },
+    {
+     "title": "阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？",
+     "link": "https://www.baijing.cn/question/638867",
+     "pubDate": "Sat, 21 Nov 2026 04:27:58 +0000",
+     "summary": "我们做中东阿语短剧，市场是沙特和阿联酋，现在起量阶段，内容团队6个人：2个阿语翻译、1个本地化审校、2个剪辑、1个运营。现在周更4集，每集25分钟，从中文剧本到阿语配音、字幕、审校、上线，单集要5天。试过用AI配音加人工校，但沙特观众在评论区说口音偏埃及，完播率掉了18%；也试过把审校外包给迪拜的自由译者，返稿要3天，节奏对不上。现在排期已经排到两周后，运营还要盯TikTok和Shahid的投放素材。卡在人力就这么多，周更量降下来怕算法权重掉，不降又交付不了。这种情况该先砍集数保质量，还是把审校环节前置到剧本阶段？",
+     "source": "白鲸出海",
+     "zh": "阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？"
+    },
+    {
      "title": "AI硬件离开手机以后，先遇到了人的限制",
      "link": "https://www.tmtpost.com/8213070.html",
      "pubDate": "Sat, 21 Nov 2026 12:14:36 +0800",
@@ -1816,6 +1832,14 @@ window.INDUSTRY_DATA = {
      "summary": "他到底差在哪儿了？",
      "source": "钛媒体",
      "zh": "黄仁勋回不去了"
+    },
+    {
+     "title": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘",
+     "link": "https://www.ithome.com/1/030/343.htm",
+     "pubDate": "Sat, 21 Nov 2026 04:02:14 GMT",
+     "summary": "IT之家 11 月 21 日消息，据央视新闻今日报道，北京通州警方 11 月 13 日抓获一名帮信罪嫌疑人，其 5 天内为老年住户安装 4 台 VOIP 虚拟语音转接设备。 11 月 13 日，北京市公安局通州公安分局刑侦支队接到线索，在张家湾辖区太玉园东区一居民家中发现有人疑似为境外诈骗分子提供语音转接设备。 民警在该居民张女士家中座机附近发现 两个可疑小盒子 ，经核实为境外犯罪团伙常用的 VOIP 虚拟语音转接设备。张女士夫妇年事已高，为方便与家人联系，家中仍保留着传统座机。 张女士称，11 月 12 日上午，家中座机接到一通电话，对方自称通信公司工作人员，表示近期通信设备升级，将安排人员",
+     "source": "IT之家",
+     "zh": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘"
     },
     {
      "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
@@ -1906,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋，这一年"
     },
     {
-     "title": "史上最大IPO，焐不热AI行情",
-     "link": "https://www.huxiu.com/article/4907361.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 11:42:52 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：李莹 史上最大IPO圆满收官，却没能给AI行情带来暖意。敲钟上市仅仅一天，Anthropic股价便随全球科技股一同走弱。华尔街正以更冷静的目光重新审视AI叙事。 Claude大模型开发商Anthropic当地时间11月20日宣布完成IPO交割。承销商全额行使了1.47亿股的超额配售权（俗称“绿鞋”），公司最终以每股83美元发行11.27亿股A类普通股，募资总额约935亿美元。 “绿鞋”机制允许承销商在IPO后30天内按发行价额外认购最多15%的股份，通常在新股认购需求旺盛时行使。 在约935亿美元募资中，约916亿美元归公司所有，其余归出售股份的股东。若计",
-     "source": "虎嗅",
-     "zh": "史上最大IPO，焐不热AI行情"
-    },
-    {
      "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
      "link": "https://www.ithome.com/1/030/340.htm",
      "pubDate": "Sat, 21 Nov 2026 03:34:28 GMT",
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "BlackBlaze now explicitly states selling your data for advertisement",
      "link": "https://www.backblaze.com/company/policy/privacy",
      "pubDate": "Sat, 21 Nov 2026 03:23:16 +0000",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 20 # Comments: 1",
+     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 31 # Comments: 3",
      "source": "Hacker News",
      "zh": "BlackBlaze now explicitly states selling your data for advertisement"
     },
@@ -1960,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做巴西站女装，团队6个人，日均单量从年初80单涨到现在的340单，起量阶段。之前用Shopee官方SLS从圣保罗州发货，买家下单到签收平均12天，最近一个月滑到21天，里约热内卢州的订单差评率从3.1%涨到8.7%，店铺评分掉到4.3。已经试过把热销款提前备到平台推荐仓、也换过一家本地尾程承运商，但揽收后轨迹停滞超过5天的包裹仍占两成。现在卡在不知道是继续加钱换更贵的承运商保时效，还是接受时效换低运费。想直接问：在巴西站日单300单这个量级，物流时效和单均履约成本怎么取舍，有没有可参考的时效红线？",
      "source": "白鲸出海",
      "zh": "Shopee巴西站物流时效从12天掉到21天，是换仓还是换承运商？"
-    },
-    {
-     "title": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备",
-     "link": "https://www.ithome.com/1/030/335.htm",
-     "pubDate": "Sat, 21 Nov 2026 03:02:01 GMT",
-     "summary": "IT之家 11 月 21 日消息，美国太空探索技术公司（SpaceX）货运“龙”飞船 20 日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据美国航空航天局介绍，“龙”飞船于美国东部时间 20 日 12 时 05 分许（北京时间 21 日 1 时 05 分许）脱离国际空间站，预计于美国西部时间 21 日 13 时 55 分许（北京时间 22 日 5 时 55 分许）在加利福尼亚州附近海域溅落。其重返大气层和溅落时将不会有直播。 IT之家查询获悉，该飞船于 10 月 13 日发射，10 月 15 日抵达国际空间站，为航天员送去超过 6300 磅（2860 公斤）的 食品、科研设备与补给 ",
-     "source": "IT之家",
-     "zh": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备"
     },
     {
      "title": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？",
@@ -1989,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Clojure will affect the way you think about programming (2017)",
      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
      "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 18 # Comments: 5",
      "source": "Hacker News",
      "zh": "Clojure will affect the way you think about programming (2017)"
     },
@@ -2010,18 +2018,10 @@ window.INDUSTRY_DATA = {
      "zh": "日本独立站日语客服外包月花18万日元，这笔钱该算进CPA还是单独扛？"
     },
     {
-     "title": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？",
-     "link": "https://www.baijing.cn/question/638861",
-     "pubDate": "Sat, 21 Nov 2026 02:06:35 +0000",
-     "summary": "我们做智能穿戴配件，去年在墨西哥站起量，月GMV大概8万美元，团队6个人。最近发现我们主推的手环型号名在墨西哥已被当地一家公司注册成商标，而我们在墨西哥工业产权局（IMPI）的申请还卡在形式审查阶段。更麻烦的是，平台品牌备案要求提交商标受理或注册证明，我们上传IMPI受理号后被驳回，说权利人与店铺主体不一致。已经试过让律师发函给对方谈转让，对方报价3万美元，我们没接；也试过改包装上的型号名重新上架，但老listing的评论和流量全断了。现在卡在要么花钱买回商标、要么换品牌重新积累，想直接问：在拉美这种先申请先得的市场，品牌备案被驳回后有没有其他合规路径能先把listing保住？",
-     "source": "白鲸出海",
-     "zh": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？"
-    },
-    {
      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
      "pubDate": "Sat, 21 Nov 2026 00:33:40 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 19 # Comments: 1",
      "source": "Hacker News",
      "zh": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again"
     }
@@ -2282,14 +2282,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "家门口的养老院正在消失",
-     "link": "http://www.eeo.com.cn/2026/1121/1098926.shtml",
-     "pubDate": "Sat, 21 Nov 2026 11:59:00 +0800",
-     "summary": "曾经热情引进这些项目的地方政府工作人员，开始劝秦新关停建筑条件不符合监管要求的机构，也对之前的努力付诸东流表示遗憾。一年内，秦新关停了当地一批设施不达标的社区嵌入型养老机构，数量约占集团在当地机构总量的一半。",
-     "source": "经济观察网",
-     "zh": "家门口的养老院正在消失"
-    },
-    {
      "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
      "link": "https://wallstreetcn.com/articles/3786426",
      "pubDate": "Sat, 21 Nov 2026 11:44:58 +0800",
@@ -2386,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！"
     },
     {
-     "title": "DeepSeek限额，底气来自聊天框外",
-     "link": "http://www.eeo.com.cn/2026/1121/1098763.shtml",
-     "pubDate": "Sat, 21 Nov 2026 10:08:34 +0800",
-     "summary": "一边给免费聊天限额，一边把API开放给别人复刻自己，DeepSeek到底在做什么生意？",
-     "source": "经济观察网",
-     "zh": "DeepSeek限额，底气来自聊天框外"
-    },
-    {
      "title": "10月证券交易印花税120亿触底 下滑34%逼近两年低点 这个数据如何看？",
      "link": "http://stock.eastmoney.com/news/1405,202611213936789285.html",
      "pubDate": "Sat, 21 Nov 2026 10:07:00 +0800",
@@ -2440,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。 11月20日， Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。 由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的讨论。 Alpöge将证明以Lean语言写成，分为14个压缩文件发布。与此同时， 他与Claude生成的文字版证明超过25万页，但因篇幅过长、难以阅读而没有公开。 目前，尚无数学家正式确认这一证明成立",
      "source": "华尔街见闻",
      "zh": "“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页"
-    },
-    {
-     "title": "为什么越来越多的人喜欢养宠物？",
-     "link": "http://www.eeo.com.cn/2026/1121/1097713.shtml",
-     "pubDate": "Sat, 21 Nov 2026 08:55:01 +0800",
-     "summary": "很多人喜欢和动物待在一块儿，这份喜欢，甚至是超过和人相处时的感觉。 其实，人对猫狗的喜爱，都是有道理的。 根据神经科学的研究发现，当我们看到猫和狗时，大脑的奖赏中枢会被激活，催产素水平飙升。这也是很多人看到宠物时，父爱感和母爱感爆棚的原因。 换句话说，我们不是“选择”喜欢猫狗，而是...",
-     "source": "经济观察网",
-     "zh": "为什么越来越多的人喜欢养宠物？"
     },
     {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -2520,6 +2496,30 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "United Fire declares $0.20 dividend"
+    },
+    {
+     "title": "Bentley Systems raises dividend by 14.3% to $0.08",
+     "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:37:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
+    },
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
+     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+     "source": "Financial Times",
+     "zh": "Nvidia faces US regulator’s probe into its accounting"
+    },
+    {
+     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
+     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
     }
    ]
   },

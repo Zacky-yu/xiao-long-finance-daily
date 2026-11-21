@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 01:12:14",
+ "generated_at": "2026/11/22 01:32:09",
  "recent_days": 7,
  "industries": [
   {
@@ -1402,14 +1402,6 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1466,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1514,14 +1498,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1560,6 +1536,22 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1786,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "PostgreSQL Extensions in Go",
+     "link": "https://jespino.github.io/gopgext/",
+     "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
+     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "PostgreSQL Extensions in Go"
+    },
+    {
+     "title": "美国发审计牌照，中国改会计准则：AI 验收的两种活法",
+     "link": "https://www.huxiu.com/article/4907433.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 01:07:49 +0800",
+     "summary": "本文来自微信公众号： 爱中 谭 AI干完活之后，谁来签字？ Anthropic的IPO、加州的AI审计法、中国的33号文，看起来是三件事。它们其实在回答同一个问题。 但“签字”不是一个生意。技术验收、合同验收、制度验收，三种签字，三种价格。 2026年11月，Anthropic登陆纳斯达克，IPO募资813亿美元，加同步私募共1073亿美元，成为美股历史上规模最大的IPO。 同一份招股书里，还有两个数字： ·三季度营收170亿美元，前三季度约332亿美元； ·企业客户净收入留存率约900%。 上市、估值、算力欠条，过去一周已经被写透了。但这些数字真正说明的，不是“AI很赚钱”，而是另一件事： ",
+     "source": "虎嗅",
+     "zh": "美国发审计牌照，中国改会计准则：AI 验收的两种活法"
+    },
+    {
      "title": "Here are the top AI agents that can live in your text messages",
      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Zero C#, Power of C# without any GC",
      "link": "https://onurgumus.github.io/zero-csharp/index.html",
      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 27 # Comments: 18",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 39 # Comments: 25",
      "source": "Hacker News",
      "zh": "Show HN: Zero C#, Power of C# without any GC"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 271 # Comments: 200",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 337 # Comments: 250",
      "source": "Hacker News",
      "zh": "Lean Verification of the Riemann Hypothesis - Joint statement by..."
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 261 # Comments: 143",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 289 # Comments: 175",
      "source": "Hacker News",
      "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
      "link": "https://simple-bench.com/",
      "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
-     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 94 # Comments: 85",
+     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 111 # Comments: 97",
      "source": "Hacker News",
      "zh": "Astra 6.2 and Sol 6.2 flop at Simple Bench"
     },
@@ -2008,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
      "source": "WIRED",
      "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
-    },
-    {
-     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
-     "link": "https://www.solidot.org/story?sid=85951",
-     "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
-     "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
-     "source": "Solidot",
-     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
-    },
-    {
-     "title": "My Monitor Was Cutting My Download Speed by 75%",
-     "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-     "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 226 # Comments: 97",
-     "source": "Hacker News",
-     "zh": "My Monitor Was Cutting My Download Speed by 75%"
     }
    ]
   },
@@ -2034,12 +2026,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "How to set up surround sound with Apple TV 4K and HomePods",
+     "link": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
+     "pubDate": "Sat, 21 Nov 2026 17:15:00 +0000",
+     "summary": "Surround yourself with Apple's premium home theater experience - for a price.",
+     "source": "Engadget",
+     "zh": "How to set up surround sound with Apple TV 4K and HomePods"
+    },
+    {
      "title": "5 clever things you can still do with an old DVD or CD player",
      "link": "https://www.engadget.com/2318405/clever-uses-old-dvd-cd-players/",
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
      "summary": "If you don't have discs to play, they can make for clever fodder for DIY projects.",
      "source": "Engadget",
      "zh": "5 clever things you can still do with an old DVD or CD player"
+    },
+    {
+     "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+     "link": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
+     "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be ",
+     "source": "9to5Google",
+     "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
     },
     {
      "title": "One of Apple HomeView's best features will have you cooking like a pro",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
      "source": "Engadget",
      "zh": "Waymo recalls robotaxis after they drove into closed freeway lanes"
-    },
-    {
-     "title": "Where you can find which GPU you have in your Windows PC",
-     "link": "https://www.engadget.com/2315158/where-find-which-graphics-card-gpu-in-windows-pc/",
-     "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
-     "summary": "Your laptop may be running two graphics processors without you knowing it. Here are the built-in Windows tools that reveal what is powering your games.",
-     "source": "Engadget",
-     "zh": "Where you can find which GPU you have in your Windows PC"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2264,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Viture’s smart display glasses offer official Switch 2 compatibility with the Mobile Dock Mini, and these Black Friday deals even come with free bonus controllers and other accessories. more…",
      "source": "9to5Google",
      "zh": "Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)"
-    },
-    {
-     "title": "Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]",
-     "link": "https://9to5google.com/2026/11/20/best-buy-brings-back-4k-blu-ray-discs-with-a-slowly-expanding-collection/",
-     "pubDate": "Fri, 20 Nov 2026 20:39:35 +0000",
-     "summary": "It’s been nearly three years since Best Buy decided to ditch selling physical copies of movies, stripping its inventory from both its brick-and-mortar stores and its online catalog. But with the growing rise of 4K Blu-ray collections as a vinyl-esque collector’s item, the electronics giant has slowl",
-     "source": "9to5Google",
-     "zh": "Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]"
     }
    ]
   },
@@ -2281,6 +2273,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Tesla to launch FSD 15 next month, Elon Musk says",
+     "link": "https://seekingalpha.com/news/4675395-tesla-launch-fsd-15-next-month-elon-musk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 12:23:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
+    },
+    {
+     "title": "也门荷台达传出爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936857732.html",
+     "pubDate": "Sun, 22 Nov 2026 01:20:40 +0800",
+     "summary": "当地时间21日晚， 总台报道员 在也门荷台达市听到爆炸声，该地区疑似遭沙特主导的多国联军空袭，但具体遭袭地点尚不明确。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "也门荷台达传出爆炸声"
+    },
     {
      "title": "华为推出星芒 AI手机的故事怎么落地？",
      "link": "http://finance.eastmoney.com/news/1354,202611213936855553.html",
@@ -2394,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户"
     },
     {
-     "title": "大富科技子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936857268.html",
-     "pubDate": "Sat, 21 Nov 2026 23:53:58 +0800",
-     "summary": "大富科技 （300134）日前披露公告，公司子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉。 公告显示， 大富科技 于2025年8月4日披露了《关于购买无形资产暨关联交易的进展公告》，公司的全资子公司深圳市大富 智慧健康科技 有限公司（以下简称“智慧健康”）向广东省深圳市光明区人民法院提起诉讼，诉请北京新天梓 教育 科技发展有限公司及得道健康管理有限公司按照协议约定履行回购义务。 近日，公司收到广东省深圳市光明区人民法院作出的一审判决，驳回原告智慧健康的诉讼请求。智慧健康将依法向广东省深圳市中级人民法院提起上诉。 大富科技 表示，预计上述事项不会对公司本期或者期后利润产生重大影响。",
-     "source": "东方财富股票",
-     "zh": "大富科技子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉"
-    },
-    {
      "title": "FBI crime database hacked: CNN",
      "link": "https://seekingalpha.com/news/4675393-fbi-crime-database-hacked?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 10:48:24 -0500",
@@ -2448,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
      "source": "MarketWatch",
      "zh": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug"
-    },
-    {
-     "title": "SA Asks: Should Nvidia bring back Jensen Huang?",
-     "link": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 10:00:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: Should Nvidia bring back Jensen Huang?"
     },
     {
      "title": "State and federal battle over prediction markets regulation heats up after midterms",

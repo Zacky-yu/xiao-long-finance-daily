@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 01:32:09",
+ "generated_at": "2026/11/22 01:52:19",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Here are the top AI agents that can live in your text messages",
+     "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "source": "TechCrunch AI",
+     "zh": "Here are the top AI agents that can live in your text messages"
+    },
     {
      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
@@ -32,30 +40,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
-     "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -194,22 +178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chips can survive the space environment — can their financing?"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -234,20 +202,52 @@ window.INDUSTRY_DATA = {
      "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
     },
     {
-     "title": "Six AI-powered gadgets that could make your home office smarter",
-     "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-     "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
-     "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-     "source": "TechCrunch AI",
-     "zh": "Six AI-powered gadgets that could make your home office smarter"
-    },
-    {
      "title": "Decision AI Explained in 5 Minutes",
      "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
      "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
      "source": "KDnuggets",
      "zh": "Decision AI Explained in 5 Minutes"
+    },
+    {
+     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+     "link": "https://zhidx.com/p/612799.html",
+     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
+     "source": "智东西",
+     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
+    },
+    {
+     "title": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了",
+     "link": "https://zhidx.com/p/612756.html",
+     "pubDate": "Fri, 20 Nov 2026 18:23:51 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月20日报道，刚刚，华为正式发布了全新的子品牌 OSTA 星芒， 以及星芒首款新机 OSTA O1 Pro， 一款阔直板手机，也是 华为首款“鸿蒙AI手机”， 硬件方面其搭载了 韬定律芯片麒麟9030S。 2020年11月，华为官宣卖掉了子品牌荣耀，6年后，华为新子品牌星芒登场，这也是 荣耀独立出去后，华为新推出的第一个手机子品牌。 对于“OSTA”的含义，华为常务董事、终端BG董事长余承东给出解释： Original—原创、Smart—智能、Technology—科技、Accesible—触手可及。 OSTA O1 Pro首发了 鸿蒙7 A",
+     "source": "智东西",
+     "zh": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "source": "OpenAI",
+     "zh": "Combatting adversarial distillation"
+    },
+    {
+     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
+     "source": "机器之心",
+     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
+    },
+    {
+     "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "通往超级智能的四条路径",
+     "source": "机器之心",
+     "zh": "AGI还不是终点，DeepMind开始思考ASI的未来"
     }
    ]
   },
@@ -1402,6 +1402,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "PostgreSQL Extensions in Go",
      "link": "https://jespino.github.io/gopgext/",
      "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
-     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "PostgreSQL Extensions in Go"
     },
@@ -1792,14 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 爱中 谭 AI干完活之后，谁来签字？ Anthropic的IPO、加州的AI审计法、中国的33号文，看起来是三件事。它们其实在回答同一个问题。 但“签字”不是一个生意。技术验收、合同验收、制度验收，三种签字，三种价格。 2026年11月，Anthropic登陆纳斯达克，IPO募资813亿美元，加同步私募共1073亿美元，成为美股历史上规模最大的IPO。 同一份招股书里，还有两个数字： ·三季度营收170亿美元，前三季度约332亿美元； ·企业客户净收入留存率约900%。 上市、估值、算力欠条，过去一周已经被写透了。但这些数字真正说明的，不是“AI很赚钱”，而是另一件事： ",
      "source": "虎嗅",
      "zh": "美国发审计牌照，中国改会计准则：AI 验收的两种活法"
-    },
-    {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
-     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-     "source": "TechCrunch",
-     "zh": "Here are the top AI agents that can live in your text messages"
     },
     {
      "title": "今日小雪：雨凝为雪，地气冻结",
@@ -1821,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Zero C#, Power of C# without any GC",
      "link": "https://onurgumus.github.io/zero-csharp/index.html",
      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 39 # Comments: 25",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 45 # Comments: 33",
      "source": "Hacker News",
      "zh": "Show HN: Zero C#, Power of C# without any GC"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 337 # Comments: 250",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 375 # Comments: 289",
      "source": "Hacker News",
      "zh": "Lean Verification of the Riemann Hypothesis - Joint statement by..."
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 289 # Comments: 175",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 305 # Comments: 190",
      "source": "Hacker News",
      "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
      "link": "https://simple-bench.com/",
      "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
-     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 111 # Comments: 97",
+     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 113 # Comments: 100",
      "source": "Hacker News",
      "zh": "Astra 6.2 and Sol 6.2 flop at Simple Bench"
     },
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
      "source": "WIRED",
      "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
+    },
+    {
+     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+     "link": "https://www.solidot.org/story?sid=85951",
+     "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
+     "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
+     "source": "Solidot",
+     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
     }
    ]
   },
@@ -2025,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "This retro classic is the most re-released game of all time — here's why",
+     "link": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
+     "pubDate": "Sat, 21 Nov 2026 17:30:00 +0000",
+     "summary": "Surpassing any other game, this recognizable retro title has been released on virtually every gaming platform, from the earliest retro machines to smartphones.",
+     "source": "Engadget",
+     "zh": "This retro classic is the most re-released game of all time — here's why"
+    },
     {
      "title": "How to set up surround sound with Apple TV 4K and HomePods",
      "link": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
@@ -2040,6 +2056,14 @@ window.INDUSTRY_DATA = {
      "summary": "If you don't have discs to play, they can make for clever fodder for DIY projects.",
      "source": "Engadget",
      "zh": "5 clever things you can still do with an old DVD or CD player"
+    },
+    {
+     "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
+     "link": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
+     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
+     "summary": "Google Workspace now includes a complete set of AI features to help small and micro businesses save time, effort, and money. For a limited time, 9to5Mac readers can get 20% off any of the Business Starter, Standard, and Plus plans for the first six months … more…",
+     "source": "9to5Mac",
+     "zh": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months"
     },
     {
      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
@@ -2072,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "If your iPhone's battery can't keep up with what you're doing or you overwhelm its hardware, it might shut down to protect itself.",
      "source": "Engadget",
      "zh": "Common reasons why your iPhone keeps randomly turning off"
-    },
-    {
-     "title": "Waymo recalls robotaxis after they drove into closed freeway lanes",
-     "link": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/",
-     "pubDate": "Sat, 21 Nov 2026 16:01:32 +0000",
-     "summary": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
-     "source": "Engadget",
-     "zh": "Waymo recalls robotaxis after they drove into closed freeway lanes"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2242,14 +2258,6 @@ window.INDUSTRY_DATA = {
      "zh": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses"
     },
     {
-     "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
-     "link": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works/",
-     "pubDate": "Fri, 20 Nov 2026 21:58:47 +0000",
-     "summary": "Fernando and Jeff are back to talk about the iPhone Duo after a month of use, including the new face unlock and close-to-lock toggle in iOS 27.3 beta 2. They also dig into Siri AI’s Health app access and its quirks, the HomePod mini stereo pair on Mac, the M6 Mac mini, the new iPad mini, and Apple’s",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Overtime 091: Kicking the tires and seeing what works"
-    },
-    {
      "title": "Pixelated 126: Schrödinger’s DoorDash notification",
      "link": "https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/",
      "pubDate": "Fri, 20 Nov 2026 21:30:00 +0000",
@@ -2309,7 +2317,7 @@ window.INDUSTRY_DATA = {
      "title": "Alice Huang’s links to the chip underworld",
      "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
      "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
-     "summary": "Chinese executive romantically linked to former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
      "source": "Financial Times",
      "zh": "Alice Huang’s links to the chip underworld"
     },
@@ -2362,12 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
     },
     {
-     "title": "Treasury secretary rules out further restrictions on Nvidia chip sales to China",
+     "title": "Treasury secretary rules out further curbs on Nvidia chip sales to China",
      "link": "https://seekingalpha.com/news/4675394-bessent-says-no-new-rules-to-bar-nvidia-chip-sales-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 11:21:08 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Treasury secretary rules out further restrictions on Nvidia chip sales to China"
+     "zh": "Treasury secretary rules out further curbs on Nvidia chip sales to China"
     },
     {
      "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",

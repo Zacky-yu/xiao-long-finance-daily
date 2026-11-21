@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 13:51:51",
+ "generated_at": "2026/11/21 14:11:52",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,6 +1786,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "孟加拉COD回款要45天，自建车队还是换第三方物流能压到30天内？",
+     "link": "https://www.baijing.cn/question/638871",
+     "pubDate": "Sat, 21 Nov 2026 06:07:14 +0000",
+     "summary": "在孟加拉做3C配件，起量阶段，日均出单600单左右，达卡市区能覆盖，但吉大港和锡尔赫特这两个区县的妥投率只有61%，COD回款从发货到到账平均45天，现金流压得很难受。现在用的是本地一家第三方物流，达卡次日达还行，出了市区就3到5天，退货还经常卡在分拨中心。已经试过把偏远地区改成预付款，但转化率直接掉了18%，又试过加钱升级配送时效，单均物流成本从82塔卡涨到110塔卡，回款周期只缩短了3天。卡在自建小车队只跑达卡不划算、换物流商又怕覆盖更差，想请教在南亚做孟加拉的同行，是继续用第三方物流谈账期，还是自建区域配送把回款压到30天内？",
+     "source": "白鲸出海",
+     "zh": "孟加拉COD回款要45天，自建车队还是换第三方物流能压到30天内？"
+    },
+    {
+     "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
+     "link": "https://www.techmeme.com/261121/p2#a261121p2",
+     "pubDate": "Sat, 21 Nov 2026 01:00:55 -0500",
+     "summary": "Cheng Ting-Fang / Nikkei Asia : Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips &nbsp; &mdash;&nbsp; TAIPEI &mdash; Tighter U.S. export controls introduced Thursday are having a far broader imp",
+     "source": "Techmeme",
+     "zh": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)"
+    },
+    {
+     "title": "Therabody Promo Codes: 15% Off November 2026",
+     "link": "https://www.wired.com/story/therabody-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+     "source": "WIRED",
+     "zh": "Therabody Promo Codes: 15% Off November 2026"
+    },
+    {
+     "title": "20% Off Brooks Promo Code | November 2026",
+     "link": "https://www.wired.com/story/brooks-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+     "source": "WIRED",
+     "zh": "20% Off Brooks Promo Code | November 2026"
+    },
+    {
+     "title": "Mint Mobile Discounts for November 2026",
+     "link": "https://www.wired.com/story/mint-mobile-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+     "source": "WIRED",
+     "zh": "Mint Mobile Discounts for November 2026"
+    },
+    {
+     "title": "Mountain Hardwear Coupon Code 15% Off November",
+     "link": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
+     "source": "WIRED",
+     "zh": "Mountain Hardwear Coupon Code 15% Off November"
+    },
+    {
+     "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+     "link": "https://www.wired.com/story/google-workspace-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+     "source": "WIRED",
+     "zh": "Google Workspace Promo Codes: 14% Off for November 2026"
+    },
+    {
+     "title": "Motorola Coupon Code for November 2026",
+     "link": "https://www.wired.com/story/motorola-coupon-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+     "source": "WIRED",
+     "zh": "Motorola Coupon Code for November 2026"
+    },
+    {
      "title": "谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆",
      "link": "https://www.huxiu.com/article/4907380.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 13:45:23 +0800",
@@ -1960,70 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 21 日消息，Steam 黑五促销期间，多款游戏价格创下新低。例如，Electronic Arts 与 Battlefield Studios 已为《战地风云 6》开启限时优惠，标准版由 198 元降至 65.34 元，优惠 67%，创该作发售以来最低价。 《战地风云 6：年度游戏版》优惠 45%，购买者除剧情战役和传统多人模式外，还可游玩第五赛季内容，其中包括以“赌场劫案”为主题的阶段。所有玩家均可免费体验《战地风云 REDSEC》模式。《战地风云 REDSEC》整合了大逃杀、“挑战”及 Portal 编辑器，玩家可借助编辑器创建自定义场景。 《对马岛之魂：导演剪辑版》在",
      "source": "IT之家",
      "zh": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元"
-    },
-    {
-     "title": "阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？",
-     "link": "https://www.baijing.cn/question/638867",
-     "pubDate": "Sat, 21 Nov 2026 04:27:58 +0000",
-     "summary": "我们做中东阿语短剧，市场是沙特和阿联酋，现在起量阶段，内容团队6个人：2个阿语翻译、1个本地化审校、2个剪辑、1个运营。现在周更4集，每集25分钟，从中文剧本到阿语配音、字幕、审校、上线，单集要5天。试过用AI配音加人工校，但沙特观众在评论区说口音偏埃及，完播率掉了18%；也试过把审校外包给迪拜的自由译者，返稿要3天，节奏对不上。现在排期已经排到两周后，运营还要盯TikTok和Shahid的投放素材。卡在人力就这么多，周更量降下来怕算法权重掉，不降又交付不了。这种情况该先砍集数保质量，还是把审校环节前置到剧本阶段？",
-     "source": "白鲸出海",
-     "zh": "阿语短剧每集都要重配音加审校，6人团队撑不住周更，该砍量还是改流程？"
-    },
-    {
-     "title": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？",
-     "link": "https://www.baijing.cn/question/638866",
-     "pubDate": "Sat, 21 Nov 2026 04:07:39 +0000",
-     "summary": "我们做拉美短剧出海，主攻巴西和墨西哥，团队12人，内容加投放各占一半。同一部剧做了葡语和西语两版，投放都在Meta和TikTok，测试预算每月大约8万美元。结果巴西葡语素材的3秒完播率比西语版低了将近18个百分点，前5秒流失特别明显，但墨西哥西语版同一素材跑得还算稳。我们试过换本地配音演员、把字幕从葡语字幕改成硬字幕、前3秒加冲突钩子，葡语版完播只回升了4个点左右，还是追不上西语版。现在卡在判断不了到底是配音口音不够本地、还是剧情节奏对巴西观众本来就偏慢。想直接问：巴西葡语短剧素材前5秒该按什么标准做本地化取舍，配音和节奏哪个优先级更高？",
-     "source": "白鲸出海",
-     "zh": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？"
-    },
-    {
-     "title": "Startup sues Apple in India over tap-to-share contacts feature",
-     "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-     "pubDate": "Sat, 21 Nov 2026 04:00:00 +0000",
-     "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-     "source": "TechCrunch",
-     "zh": "Startup sues Apple in India over tap-to-share contacts feature"
-    },
-    {
-     "title": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？",
-     "link": "https://www.baijing.cn/question/638865",
-     "pubDate": "Sat, 21 Nov 2026 03:43:17 +0000",
-     "summary": "我们做面向北美中小企业的项目管理 SaaS，5 人团队里只有 1 个市场、1 个设计能分给获客，目前刚过 PMF、月经常性收入约 4 万美元。产品内注册到付费转化率 3.2%，但自助流量见顶，上月试了 LinkedIn 付费推广和两个垂直 newsletter 投放，两周花了 6000 美元，试用注册只涨 40 个、付费 2 个，获客成本远高于自助渠道。现在纠结的是：人手只够每周固定 6 小时做渠道测试，是先把预算压到单一渠道跑满 8 周看留存，还是并行小预算铺 3 个渠道抢曝光？想听有 PLG 北美经验的人讲讲，这种人力约束下判断渠道该继续还是砍掉的临界标准是什么？",
-     "source": "白鲸出海",
-     "zh": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？"
-    },
-    {
-     "title": "BlackBlaze now explicitly states selling your data for advertisement",
-     "link": "https://www.backblaze.com/company/policy/privacy",
-     "pubDate": "Sat, 21 Nov 2026 03:23:16 +0000",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 84 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "BlackBlaze now explicitly states selling your data for advertisement"
-    },
-    {
-     "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
-     "link": "https://www.techmeme.com/261120/p45#a261120p45",
-     "pubDate": "Fri, 20 Nov 2026 21:45:01 -0500",
-     "summary": "The Information : Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &ldquo;no longer under active consideration&rdquo; &nbsp; &mdash;&nbsp; SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-",
-     "source": "Techmeme",
-     "zh": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)"
-    },
-    {
-     "title": "Clojure will affect the way you think about programming (2017)",
-     "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-     "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 28 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Clojure will affect the way you think about programming (2017)"
-    },
-    {
-     "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
-     "link": "https://www.techmeme.com/261120/p44#a261120p44",
-     "pubDate": "Fri, 20 Nov 2026 21:35:02 -0500",
-     "summary": "Evan Perez / CNN : Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks &nbsp; &mdash;&nbsp; The FBI is investigating an apparent breach of its nationwide criminal information database that serves ",
-     "source": "Techmeme",
-     "zh": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)"
     }
    ]
   },
@@ -2282,44 +2282,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "余承东喊出“未来开车可以睡觉”，鸿蒙智行借享界新车卡位L3赛道",
+     "link": "http://www.eeo.com.cn/2026/1121/1099058.shtml",
+     "pubDate": "Sat, 21 Nov 2026 14:00:10 +0800",
+     "summary": "从市场效果看，享界V8的L3标签短期内有望帮助鸿蒙智行建立技术领先的用户认知。更值得关注的是，在L3相关法规全面落地后，享界V8的L3功能能否在首批开放的个人用户场景中稳定交付，以及北汽作为准入经验积累主体，能否把极狐项目上积累的试点运营经验，有效平移到享界的用户服务体系里。",
+     "source": "经济观察网",
+     "zh": "余承东喊出“未来开车可以睡觉”，鸿蒙智行借享界新车卡位L3赛道"
+    },
+    {
+     "title": "千台岚图梦想家9右舵版发运海外 搅局东南亚高端MPV市场",
+     "link": "http://www.eeo.com.cn/2026/1121/1099057.shtml",
+     "pubDate": "Sat, 21 Nov 2026 13:59:52 +0800",
+     "summary": "岚图梦想家9千台发运是其规模化交付的起点，但右舵市场的可持续份额最终取决于其本地化生产的节奏和深度。",
+     "source": "经济观察网",
+     "zh": "千台岚图梦想家9右舵版发运海外 搅局东南亚高端MPV市场"
+    },
+    {
+     "title": "方程豹钛9首搭两项新技术上市 比亚迪手里还有哪些“牌”？",
+     "link": "http://www.eeo.com.cn/2026/1121/1099056.shtml",
+     "pubDate": "Sat, 21 Nov 2026 13:59:34 +0800",
+     "summary": "比亚迪储备中仍有若干技术处于“已上膛”的状态。它们的共同特征是技术验证已推进至中试或量产准备阶段，但受制于成本、产能或法规节点，尚未进入主流市场的规模化释放，主要包括半固态电池和全固态电池、自研智驾硬件璇玑A3芯片、下一代混动技术平台DM 6.0等。",
+     "source": "经济观察网",
+     "zh": "方程豹钛9首搭两项新技术上市 比亚迪手里还有哪些“牌”？"
+    },
+    {
+     "title": "动力电池10月考：三元产量年内首降，宁德时代份额减少",
+     "link": "http://www.eeo.com.cn/2026/1121/1099055.shtml",
+     "pubDate": "Sat, 21 Nov 2026 13:59:10 +0800",
+     "summary": "2025至2026年，新能源车企与二线动力电池企业的“绑定”模式明显深化，双方从单纯的采购关系转向合资建厂、战略入股、专属产线与全链路协同，其中零跑、理想、小米三家的动作最密集。",
+     "source": "经济观察网",
+     "zh": "动力电池10月考：三元产量年内首降，宁德时代份额减少"
+    },
+    {
+     "title": "安纳智芯获新一轮亿元级融资 首颗芯片AX100完成流片",
+     "link": "http://www.eeo.com.cn/2026/1121/1099052.shtml",
+     "pubDate": "Sat, 21 Nov 2026 13:58:42 +0800",
+     "summary": "对于资本来说，安纳智芯的吸引力不在于一颗芯片的纳秒级指标，而在于它所选择的技术路径绕开了先进制程的卡点，并在矩阵方程这一AI与通信共同的底层计算任务上，展示了数量级效率提升的理论可能性。一年四轮融资的注入，为这一路径提供了从实验室走向产线提供了必要的筹码。不过，安纳智芯目前只是过了产品制造这道坎，但距离其实现产品交付、获得客户认可还有很长的一段路要走。",
+     "source": "经济观察网",
+     "zh": "安纳智芯获新一轮亿元级融资 首颗芯片AX100完成流片"
+    },
+    {
+     "title": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936812021.html",
+     "pubDate": "Sat, 21 Nov 2026 13:50:02 +0800",
+     "summary": "据 高盛 集团交易员称，随着美国股市周五暴跌， 高盛 集团的“恐慌指数”攀升至接近最高水平， 这表明未来一周将出现另一波大规模抛售。 高盛 交易部门表示， 抛售潮已蔓延至所谓的系统性投资者，该行“恐慌指数”已升至9，最大值为10。 据高盛估计，过去一个月，包括商品交易顾问（CTA）在内的动量交易员过去一个月卖出了570亿美元股票，其在美股的头寸已转为净空头190亿美元。 该行的模型预测， 在市场平稳的情况下，CTA可能会再抛售658亿美元股票；如果股市上涨，则可能抛售286亿美元股票；如果股市继续下跌，则可能再抛售高达806亿美元股票。 市场最新一轮下跌反映出投资者越来越不愿意逢低买入科技股，",
+     "source": "东方财富股票",
+     "zh": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售"
+    },
+    {
+     "title": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936811662.html",
+     "pubDate": "Sat, 21 Nov 2026 13:48:20 +0800",
+     "summary": "11月19日，香雪制药（＊ST香雪，300147.SZ）公告，法院裁定受理债权人对公司的重整申请；11月20日，瑞和股份（ *ST瑞和 ，002620.SZ）、西安旅游（ *ST西旅 ，000610.SZ）双双公告，法院裁定受理公司重整。至此，2026年年内，共有6家公司重整获受理。 相关公告显示，在3家公司重整申请人（债权人）看来，香雪制药、瑞和股份、西安旅游，均不能清偿到期债务且明显缺乏清偿能力，但具有重整价值。 3家公司公告还均显示，因2025年年末经审计的归属于上市公司股东的净资产为负值，公司股票已被实施退市风险警示。目前法院已裁定公司进入重整程序，但仍存在因重整失败而被宣告破产的风险",
+     "source": "东方财富股票",
+     "zh": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理"
+    },
+    {
+     "title": "人形机器人出货增长 稳定性与回本周期影响规模化",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936812154.html",
+     "pubDate": "Sat, 21 Nov 2026 13:47:13 +0800",
+     "summary": "据市场研究机构Counterpoint Research统计，2026年上半年，全球人形 机器人 出货量超过2.2万台，同比增长近300%。文娱商演、科研 教育 和数据采集合计仍占出货量的六成以上，智能制造和仓储 物流 的占比均有所提高，分别达到13%和5%。 11月19日，在北京举行的新浪新闻·2026探索大会上，灵心巧手创始人兼CTO 周永在接受《中国经营报》记者采访时表示，任务的完成度和准确性跟泛化性一样重要。谈及跨本体能力，他认为，判断一套模型能否适配不同 机器人 ，要看同一项任务换一款 机器人 后，完成率能否保持。 进入多种场景 人形机器人 进入客户现场后，工业和零售项目交付的内容各",
+     "source": "东方财富股票",
+     "zh": "人形机器人出货增长 稳定性与回本周期影响规模化"
+    },
+    {
+     "title": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936811990.html",
+     "pubDate": "Sat, 21 Nov 2026 13:44:00 +0800",
+     "summary": "据合肥日报，11月20日下午，合肥市委书记覃卫国与 迈瑞医疗 董事长李西廷一行举行工作会谈。 覃卫国表示， 迈瑞医疗 是全球 医疗器械 行业领军企业，此次合作签约，务实高效、前景可期。希望以此为新起点，进一步深化在高端 医疗器械 研发制造、智慧医疗等领域合作，助力合肥医疗卫生事业高质量发展。我们将竭诚做好服务，全力支持 迈瑞医疗 在肥发展。 李西廷表示，合肥产业生态好、营商环境优，对在肥发展充满信心。愿进一步深化战略合作，加快推动项目建设，持续拓展业务布局，为合肥高质量发展贡献力量。 会谈后，迈瑞医疗分别与省卫健委、合肥市政府签约。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约"
+    },
+    {
+     "title": "民间智慧丨加速赶底，价值渐显",
+     "link": "http://finance.eastmoney.com/news/1378,202611213936811771.html",
+     "pubDate": "Sat, 21 Nov 2026 13:40:59 +0800",
+     "summary": "市场性价比开始体现 主持人 ：上周泛舟说就连主题投资都别冒进，果然， 传媒 、 机器人 等本周宽幅震荡。 泛舟 ：正常，毕竟是主题投资。震荡趋势中的主题投资，如果不在指数的趋势性上涨阶段，周期就会很短。差不多一个月左右。这次时间也到了，而且部分公司股价在高位出现连号的现象。 主持人 ：现在的量化也够仗义的，高位都给提示。 泛舟 ：那也未必，要看啥板块了。比如红利价值类， 银行 在几周前也出现过连号，最近不就创新高了？但再往前的科技股至今都没涨回去。所以这事还得分开看。反正偏主题投资的出现连号未必好，价值类不能草率的下定论。 主持人 ：也是，如果规律那么清晰，那还能套住谁？下周指数怎么看？还谨慎",
+     "source": "东方财富股票",
+     "zh": "民间智慧丨加速赶底，价值渐显"
+    },
+    {
      "title": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic",
      "link": "http://stock.eastmoney.com/news/1611,202611213936810927.html",
      "pubDate": "Sat, 21 Nov 2026 13:38:12 +0800",
      "summary": "11 月 21 日消息，据《华尔街日报》今日报道， Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。 据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。 达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。 这次与马斯克的接触，是他从学术研究转向科技行业过程中的",
      "source": "东方财富股票",
      "zh": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic"
-    },
-    {
-     "title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936810316.html",
-     "pubDate": "Sat, 21 Nov 2026 13:35:17 +0800",
-     "summary": "11月20日， 美新科技 在接待机构调研时表示，子公司四川星曜宇航 航天科技 有限公司成立于2026年2月，是一家专注于 商业航天 运载火箭全箭结构件的专业化企业。公司构建了火箭结构件集产品研发、工艺设计、精密加工、特种焊接、试验验证及批量交付于一体的全链条研制体系，可形成从设计输入、工艺实现到批产交付的闭环能力，力争成为是国内 商业航天 产业链的重要配套制造商。公司团队人员拥有航天制造、 高端装备 生产、项目管理等行业经验。核心管理与技术团队均来自航天系统与 商业航天 企业的优秀工程师、技术专家组成。目前项目进展顺利，各类设备陆续进场安装中，10月底已启动了4米级舱段生产。 （文章来源：界面",
-     "source": "东方财富股票",
-     "zh": "美新科技：子公司星曜宇航已启动4米级舱段生产"
-    },
-    {
-     "title": "涉嫌违规！顺丰速运、八马茶业被暂停全军采购参与资格",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936807957.html",
-     "pubDate": "Sat, 21 Nov 2026 13:34:25 +0800",
-     "summary": "11月21日，军队采购网发布军队采购暂停名单，顺丰速运有限公司、 八马茶业 股份有限公司因涉嫌违规，被暂停参加全军物资、工程和服务采购活动，处理部门为军委后勤保障部采购服务中心，处理日期为11月19日。公告未披露具体违规事由与暂停期限。 顺丰速运为 顺丰控股 间接全资子公司，主营国内外 快递 、国际货运代理。 八马茶业 实控人吴小宁被列为关联处理人员，其控股或管理的其他企业同步受限。 （文章来源：时代财经）",
-     "source": "东方财富股票",
-     "zh": "涉嫌违规！顺丰速运、八马茶业被暂停全军采购参与资格"
-    },
-    {
-     "title": "银轮股份：大型板换产线预计12月正式投产",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936809377.html",
-     "pubDate": "Sat, 21 Nov 2026 13:31:17 +0800",
-     "summary": "银轮股份 11月21日在互动平台表示，公司大型板换产线预计12月份正式投产。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "银轮股份：大型板换产线预计12月正式投产"
-    },
-    {
-     "title": "中信重工与汇川技术发布国产工业操作系统与中大型PLC深度适配联合行动",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936809078.html",
-     "pubDate": "Sat, 21 Nov 2026 13:29:00 +0800",
-     "summary": "据 中信重工 消息，近日，在上海举办的2026年工业操作系统大会召开期间有色矿山行业工业操作系统创新应用论坛成功举办，在论坛上 中信重工 与 汇川技术 共同发布国产工业操作系统与中大型PLC深度适配联合行动。 聚焦有色矿山工业操作系统与控制系统安全可控，双方依托 中信重工 工业操作系统，搭配汇川EVO800中大型PLC控制器及iFA全集成开发平台，向下适配 瑞芯微 、飞腾等系列国产SoC芯片，向上覆盖磨机、提升机、破碎机、矿卡、特种 机器人 等有色矿山全流程装备，搭建起“芯片层-系统层-控制层-平台层-应用层”五层打通的全国产技术底座。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "中信重工与汇川技术发布国产工业操作系统与中大型PLC深度适配联合行动"
     },
     {
      "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
@@ -2410,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "人民日报：唱空中国经济者终会落空"
     },
     {
+     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
+     "summary": "11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股东追问，他给出的答复是：股东大会已",
+     "source": "东方财富资讯",
+     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
+    },
+    {
      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
      "link": "https://wallstreetcn.com/articles/3786423",
      "pubDate": "Sat, 21 Nov 2026 10:27:20 +0800",
@@ -2424,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "当地时间11月20日，特朗普在白宫记者会上再次公开支持 英伟达 前首席执行官黄仁勋回归。 据《华尔街日报》发布的一段视频，特朗普在记者会上说：“他是个好人。他做过一些错误决定，但他确实是个非常有才华的人。” 特朗普随后提到了马斯克称，“在我的第一个任期里，我曾非常坚定地为埃隆辩护。我不确定如果没有我，他现在是否还能和我们在一起。我当时说，我们必须保护那些杰出的人才，任何国家都不嫌人才多，黄仁勋就是其中之一。” 特朗普表示，之前他还推荐过蒂姆库克接替黄仁勋，认为他会是合适的人选。“但比起其他人，我更希望看到黄仁勋郑重道歉，然后返回岗位。” 特朗普认为，如果 英伟达 足够明智，就应该接纳这位天才，",
      "source": "东方财富资讯",
      "zh": "特朗普公开场合再次力挺黄仁勋：英伟达应该接受道歉 让他回来工作"
-    },
-    {
-     "title": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936788339.html",
-     "pubDate": "Sat, 21 Nov 2026 10:10:09 +0800",
-     "summary": "美国总统唐纳德·特朗普周五表示， 将“极力阻止”美国公司在其他国家建设 数据中心 ，如果违反规定，将面临“巨额税收”处罚。 总统没有提供这项税收将如何实施或政府将依据何种法律依据的细节。 “我们将全力争夺 数据中心 ，”特朗普在白宫新闻发布会上宣布这项新政策之前说道，似乎连他自己的幕僚都对此毫不知情。 “我不知道这算不算爆炸性新闻，”他补充说，“我甚至还没跟我的团队说过。但我现在告诉他们，他们来了。” 尽管美国民众一再表示们不喜欢 数据中心 ，中期选举的结果也反映了这一点，但特朗普仍然推动在美国建设更多数据中心。CNBC的全美经济调查发现，64%的注册选民反对在距离家10英里范围内建设 人工智",
-     "source": "东方财富资讯",
-     "zh": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！"
-    },
-    {
-     "title": "DeepSeek限额，底气来自聊天框外",
-     "link": "http://www.eeo.com.cn/2026/1121/1098763.shtml",
-     "pubDate": "Sat, 21 Nov 2026 10:08:34 +0800",
-     "summary": "一边给免费聊天限额，一边把API开放给别人复刻自己，DeepSeek到底在做什么生意？",
-     "source": "经济观察网",
-     "zh": "DeepSeek限额，底气来自聊天框外"
     },
     {
      "title": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
@@ -2480,46 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
      "source": "CNBC",
      "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
-    },
-    {
-     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
-     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
-    },
-    {
-     "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-     "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:46:00 GMT",
-     "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-     "source": "MarketWatch",
-     "zh": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
-    },
-    {
-     "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-     "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
-     "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-     "source": "MarketWatch",
-     "zh": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade"
-    },
-    {
-     "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-     "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
-     "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-     "source": "MarketWatch",
-     "zh": "These stocks were crushed the most this week as the tech wreck accelerated"
-    },
-    {
-     "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
-     "link": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:40:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orange County Bancorp raises dividend by 27.85 to $0.23"
     }
    ]
   },

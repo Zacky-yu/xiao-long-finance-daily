@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/21 09:32:14",
+ "generated_at": "2026/11/21 09:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -508,7 +508,7 @@
      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
      "link": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
      "pubDate": "Sat, 21 Nov 2026 00:55:45 +0000",
-     "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 procedures by the end of the Medtronic fiscal year. The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
+     "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Medtronic’s Hugo surgical robot ready for bigger operation"
     },
@@ -1785,6 +1785,38 @@
    "total": 18,
    "items": [
     {
+     "title": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？",
+     "link": "https://www.baijing.cn/question/638860",
+     "pubDate": "Sat, 21 Nov 2026 01:44:19 +0000",
+     "summary": "独立站做户外露营配件，澳洲市场刚起量，3人小团队。上季度找墨尔本和奥克兰的户外垂类红人做联盟分销，佣金设15%，另付样品和一次性推广费约合4200澳元。结果红人带来的订单CPA冲到38澳元，而站内Google Shopping的CPA只有19澳元，联盟渠道整体ROI不到1.3。我试过把佣金降到10%、只保留带货视频挂链的红人，转化率从1.8%掉到1.1%，量也腰斩。现在卡在：澳新红人报价普遍比东南亚高，但粉丝体量小、复购弱，不知道是继续按CPA筛选红人，还是干脆把预算挪回付费搜索。想问问做澳新市场的同行，你们判断红人联盟值不值得留的具体标准是什么？",
+     "source": "白鲸出海",
+     "zh": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？"
+    },
+    {
+     "title": "紫光展锐推出多维智存引擎技术：灵活扩展 UFS 闪存空间，支持多档位扩容",
+     "link": "https://www.ithome.com/1/030/317.htm",
+     "pubDate": "Sat, 21 Nov 2026 01:40:39 GMT",
+     "summary": "IT之家 11 月 21 日消息，紫光展锐昨晚宣布推出 UNISOC UniSwap Ultra Engine 多维智存引擎，通过芯片级深度优化与软硬件深度协同设计，在有限的物理内存基础上，灵活扩展 UFS 闪存空间，支持多档位灵活扩容，显著提升多应用体验流畅度。 据官方介绍，依托紫光展锐 UNISOC UniSwap Ultra Engine 多维智存引擎，打破物理内存容量束缚， 智能调用部分存储空间拓展可用内存 ，搭配精细调度算法，带来接近原生物理内存的流畅表现。官方称，搭载该技术的 4GB 内存手机在日常使用中，流畅度可媲美传统 6GB 内存机型。（IT之家注：文中数据来源于紫光展锐实验",
+     "source": "IT之家",
+     "zh": "紫光展锐推出多维智存引擎技术：灵活扩展 UFS 闪存空间，支持多档位扩容"
+    },
+    {
+     "title": "黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论",
+     "link": "https://www.ithome.com/1/030/316.htm",
+     "pubDate": "Sat, 21 Nov 2026 01:33:53 GMT",
+     "summary": "IT之家 11 月 21 日消息，彭博社今日报道称，一份 2007 年提交的加州诉讼文件显示，英伟达两名前员工曾对时任 CEO 黄仁勋的管理方式提出投诉，指控其存在辱骂、威胁员工以及发表色情言论等行为。 这些指控涉及大约二十年前的职场事件，近期随着黄仁勋寻求重返英伟达管理层而重新受到关注。 根据这份加州高等法院的诉讼文件，英伟达首任内部法律顾问斯蒂芬・佩蒂格鲁（Stephen Pettigrew）称，他曾亲眼目睹黄仁勋经常辱骂和恐吓员工。佩蒂格鲁还指控，自己因对公司高管的不当行为提出异议而遭到解雇。英伟达则表示，解雇他的原因是工作表现不达标。 佩蒂格鲁代理律师在一份涉及年龄歧视和不当解雇的诉讼",
+     "source": "IT之家",
+     "zh": "黄仁勋下台后有人挖出英伟达 20 年前员工投诉记录，指控其威胁下属、发表色情言论"
+    },
+    {
+     "title": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片",
+     "link": "https://www.ithome.com/1/030/315.htm",
+     "pubDate": "Sat, 21 Nov 2026 01:30:20 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 GSMArena 昨日（11 月 20 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 有望配备高通尚未发布的 SM8845 Pro 芯片 ，而此前有消息称该芯片由一加 Turbo 7 系列首发搭载。 根据 TrustCB 安全认证文件显示信息，摩托罗拉首款宽折叠手机 Razr Flex 内部代号为 Parker，型号为 XT2761，其芯片型号为 SM8845 Pro，并非高通第五代骁龙 8 芯片（SM8845）。 SM8845 是高通公司开发的移动处理器，正式命名为骁龙 8 Gen5（第五代骁龙 8）。与第五代骁龙 8 至尊版（",
+     "source": "IT之家",
+     "zh": "摩托罗拉首款宽折叠 Razr Flex 手机爆料，配高通未发布的 SM8845 Pro 芯片"
+    },
+    {
      "title": "消息称某厂骁龙 8E6 大屏旗舰机“打磨中”，预计为小米 18 Max",
      "link": "https://www.ithome.com/1/030/313.htm",
      "pubDate": "Sat, 21 Nov 2026 01:24:47 GMT",
@@ -1857,36 +1889,12 @@
      "zh": "尼日利亚站接入本地支付后，CPA 从 3.2 美元涨到 5.8 美元，是渠道问题还是投放问题？"
     },
     {
-     "title": "长城猛龙混动版 11 月 27 日广州车展上市，搭载 1.5T 油电混动系统",
-     "link": "https://www.ithome.com/1/030/309.htm",
-     "pubDate": "Sat, 21 Nov 2026 00:53:40 GMT",
-     "summary": "IT之家 11 月 21 日消息，据易车 11 月 20 日报道，长城猛龙混动版将于 11 月 27 日开幕的 2026 广州车展上市，搭载 1.5T 油电混动系统 。 外观方面，新车延续哈弗猛龙的 方盒子造型 ，采用方正平直的车身线条与横向格栅；车侧配有黑色防刮轮拱包围与车顶行李架，车尾采用外挂式备胎罩、竖向尾灯与后护板。 截至发稿，官方尚未公布该车的车身尺寸与轴距。作为参照，现款哈弗猛龙 Hi4 长宽高分别为 4800/1950/1843mm，轴距为 2738mm。 动力方面，新车搭载 1.5T 油电混动系统。官方尚未公布该系统的发动机功率、电机数量与变速箱形式。 2026 广州车展于 1",
-     "source": "IT之家",
-     "zh": "长城猛龙混动版 11 月 27 日广州车展上市，搭载 1.5T 油电混动系统"
-    },
-    {
-     "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
-     "link": "https://www.ithome.com/1/030/308.htm",
-     "pubDate": "Sat, 21 Nov 2026 00:53:29 GMT",
-     "summary": "IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影制作等几乎所有领域， 人工智能（AI）在发展大约还有 1.3 年后，可以媲美或超过世界顶尖人类专家的水平。 IT之家查询公开资料，Tao Lin 在 Anthropic 担任技术团队成员（MTS）岗位，目前已在该公司工作了约一年半，涉及自动化对齐研究（Automated Alignment Research）、AI 控制（AI Control）以及安全防护（Safeguards）三个方面，主要保障 C",
-     "source": "IT之家",
-     "zh": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家"
-    },
-    {
      "title": "供应汽车零部件，到底赚不赚钱？",
      "link": "https://www.huxiu.com/article/4907337.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 08:52:45 +0800",
      "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月10日，日本汽车零部件企业武藏精密发布半年报。今年7—9月，武藏中国业务收入约56.07亿日元，比4—6月多出1.74亿日元，营业亏损却从0.77亿日元扩大到3.03亿日元。 上半年合计，中国业务收入110.40亿日元，同比下滑约22%，亏损3.80亿日元，去年同期还盈利2.17亿日元。 同一天，武藏宣布中山工厂开始为比亚迪大唐、海狮08两款纯电车型供应转向横拉杆外端和齿条端球头，6月起已经交付。武藏集团上半年营收1759.92亿日元，增长4.4%，中国是它少数亏损的地区。 和武藏一样，不少零部件企业的老客户订单在减少，正在争取比亚",
      "source": "虎嗅",
      "zh": "供应汽车零部件，到底赚不赚钱？"
-    },
-    {
-     "title": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元",
-     "link": "https://www.ithome.com/1/030/307.htm",
-     "pubDate": "Sat, 21 Nov 2026 00:44:56 GMT",
-     "summary": "IT之家 11 月 21 日消息，Reddit 用户 @xw1y 昨日发帖称，自己送修的一张 NVIDIA GeForce RTX 5090 Founders Edition 显卡，疑似在欧洲零售商 Proshop 的维修合作方手中被销毁或丢弃。 据该用户披露，这张 RTX 5090 Founders Edition 32GB 于 2025 年 2 月以为 2,369 欧元 （IT之家注：现汇率约合 17,394 元人民币） 的价格购入。 2026 年 9 月，这张显卡开始出现频率下降、功耗读数异常等问题，但送修前仍然能够正常使用。当月，他将这张 RTX 5090 FE 送到了 Proshop",
-     "source": "IT之家",
-     "zh": "现价近 7000 欧元的英伟达 RTX 5090 FE 显卡送修后被销毁，平台只愿退原价 2369 欧元"
     },
     {
      "title": "爱奇艺濒临退市，还在狂建乐园？",
@@ -1921,6 +1929,14 @@
      "zh": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)"
     },
     {
+     "title": "Re: Riemann",
+     "link": "https://borretti.me/article/re-riemann",
+     "pubDate": "Fri, 20 Nov 2026 23:42:44 +0000",
+     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 102 # Comments: 87",
+     "source": "Hacker News",
+     "zh": "Re: Riemann"
+    },
+    {
      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
      "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
      "pubDate": "Fri, 20 Nov 2026 23:24:02 +0000",
@@ -1935,6 +1951,14 @@
      "summary": "Wall Street Journal : Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &nbsp; &mdash;&nbsp; Bankers have been in contact with Walmart, Target, Kroger and other retailers about a potential ",
      "source": "Techmeme",
      "zh": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)"
+    },
+    {
+     "title": "Sir Brian May adds new dimension to Hera asteroid",
+     "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+     "pubDate": "Fri, 20 Nov 2026 23:19:44 +0000",
+     "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 33 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Sir Brian May adds new dimension to Hera asteroid"
     },
     {
      "title": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)",
@@ -1961,6 +1985,22 @@
      "zh": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)"
     },
     {
+     "title": "AI may have solved the most important problem in mathematics",
+     "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+     "pubDate": "Fri, 20 Nov 2026 22:46:59 +0000",
+     "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 30 # Comments: 25",
+     "source": "Hacker News",
+     "zh": "AI may have solved the most important problem in mathematics"
+    },
+    {
+     "title": "NINLIVE: The Nine Inch Nails live archive",
+     "link": "https://ninlive.com/",
+     "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 110 # Comments: 25",
+     "source": "Hacker News",
+     "zh": "NINLIVE: The Nine Inch Nails live archive"
+    },
+    {
      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
      "pubDate": "Fri, 20 Nov 2026 22:28:24 +0000",
@@ -1969,60 +2009,20 @@
      "zh": "Trump FCC declares California isn't allowed to enforce phone service rules"
     },
     {
-     "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-     "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-     "pubDate": "Fri, 20 Nov 2026 22:16:51 +0000",
-     "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-     "source": "Ars Technica",
-     "zh": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business"
+     "title": "Merkle Tree Certificates",
+     "link": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+     "pubDate": "Fri, 20 Nov 2026 22:19:23 +0000",
+     "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/ Comments URL: https://news.ycombinator.com/item?id=50583134 Points: 11 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Merkle Tree Certificates"
     },
     {
-     "title": "Google rolls out new search homepage with AI chat history and no search button",
-     "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-     "pubDate": "Fri, 20 Nov 2026 21:58:29 +0000",
-     "summary": "Google search is making it even easier to access AI tools on the search page.",
-     "source": "Ars Technica",
-     "zh": "Google rolls out new search homepage with AI chat history and no search button"
-    },
-    {
-     "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-     "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-     "pubDate": "Fri, 20 Nov 2026 21:47:10 +0000",
-     "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-     "source": "Ars Technica",
-     "zh": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
-    },
-    {
-     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-     "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-     "pubDate": "Fri, 20 Nov 2026 20:59:08 +0000",
-     "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-     "source": "Ars Technica",
-     "zh": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
-    },
-    {
-     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-     "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-     "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
-     "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-     "source": "TechCrunch",
-     "zh": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now"
-    },
-    {
-     "title": "Watching as a giant star swallowed its neighbor and exploded",
-     "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-     "pubDate": "Fri, 20 Nov 2026 20:41:17 +0000",
-     "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-     "source": "Ars Technica",
-     "zh": "Watching as a giant star swallowed its neighbor and exploded"
-    },
-    {
-     "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-     "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-     "pubDate": "Fri, 20 Nov 2026 19:52:21 +0000",
-     "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-     "source": "WIRED",
-     "zh": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation"
+     "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+     "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+     "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
+     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 14 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
     }
    ]
   },
@@ -2032,6 +2032,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles",
+     "link": "https://www.gsmarena.com/motorolas_wide_razr_flex_now_leaks_in_two_colors_showing_off_a_lot_of_angles-news-75578.php",
+     "pubDate": "Sat, 21 Nov 2026 02:33:02 +0100",
+     "summary": "Motorola's first wide foldable, the Razr Flex, has been leaking a lot lately. Yesterday, an alleged live image of its back surfaced alongside a certification, and now we have a couple of new renders of the device portraying it in both of its colors, giving us the best look at its design yet. The Pan",
+     "source": "GSMArena",
+     "zh": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles"
+    },
     {
      "title": "WhatsApp increases the group chat limit to 1,500 members",
      "link": "https://www.gsmarena.com/whatsapp_group_chat_member_limit_increased-news-75560.php",
@@ -2263,14 +2271,6 @@
      "summary": "Are “flagship killers” still a thing? They definitely should be, considering that some flagships have an MSRP of £1,400 or higher now. That’s how much Xiaomi is asking for a 12/256GB Xiaomi 18 Pro Max and it’s not alone – this is also the price of the Oppo Find X10 Pro Max. Those are awesome phones ",
      "source": "GSMArena",
      "zh": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday"
-    },
-    {
-     "title": "Apple reportedly developing an AI agent that can code and use apps",
-     "link": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
-     "pubDate": "Fri, 20 Nov 2026 17:41:02 +0100",
-     "summary": "According to a new report by Bloomberg's Mark Gurman, based on an official job listing by Apple, the company is developing an AI agent that can perform various tasks on behalf of users. The report claims that a now-removed job listing was seeking a senior engineering manager to lead the development ",
-     "source": "GSMArena",
-     "zh": "Apple reportedly developing an AI agent that can code and use apps"
     }
    ]
   },

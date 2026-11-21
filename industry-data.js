@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 15:12:02",
+ "generated_at": "2026/11/21 15:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,6 +1786,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "巴西独立站接了Pix，素材本地化后转化反降怎么办？",
+     "link": "https://www.baijing.cn/question/638876",
+     "pubDate": "Sat, 21 Nov 2026 07:25:59 +0000",
+     "summary": "我们做拉美独立站美妆个护，巴西站刚起量，月订单3000单左右，团队6人。上个月接了Pix支付，支付成功率从信用卡的62%提到81%，但同期把首页和投放素材全换成葡语本地模特后，加购率反而从7.4%掉到5.1%。素材是找本地自由职业者拍的，风格偏巴西街头感，投放走Meta和Kwai。现在不确定是素材调性跟产品不搭，还是Pix结账页跳转说明没讲清楚。已经A/B测过两版首图，差异不明显。想确认判断标准：该先拆素材维度还是先优化Pix引导链路？",
+     "source": "白鲸出海",
+     "zh": "巴西独立站接了Pix，素材本地化后转化反降怎么办？"
+    },
+    {
+     "title": "TikTok Shop巴西站达人佣金开到18%，哪些品类备货和退货能扛住？",
+     "link": "https://www.baijing.cn/question/638875",
+     "pubDate": "Sat, 21 Nov 2026 07:13:58 +0000",
+     "summary": "巴西站起量三个月，达人佣金普遍要到15%-18%，我们做美妆工具和厨房小件，客单价35雷亚尔左右。现在卡在备货节奏：达人视频爆一条，单量两天冲到日均800单，但本地仓备货周期要35天，空运补货把毛利压到不足8%。退货率更头疼，美妆工具退货率12%，厨房小件退货率7%，退回来的货在圣保罗仓积压，二次销售折价30%才出得掉。试过把佣金降到12%换纯佣达人，出单量直接掉六成。想问的是：在巴西站达人高佣金前提下，选品该优先看退货率还是备货周转天数，这两个指标怎么取舍？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop巴西站达人佣金开到18%，哪些品类备货和退货能扛住？"
+    },
+    {
+     "title": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版",
+     "link": "https://www.ithome.com/1/030/371.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:05:24 GMT",
+     "summary": "IT之家 11 月 21 日消息，据 BBC 报道，尽管 Take-Two Interactive 已确认《GTA6》创下惊人的销售纪录，不过部分实体游戏经销商透露，本作实体版游戏购买者较少，大多数玩家更倾向于通过 Xbox 和 PlayStation 数字商店购买游戏。 Take-Two Interactive 此前公布的数据显示，GTA 6 发售当天全球销售额便达到创纪录的 37.9 亿美元 （IT之家注：现汇率约合 253.63 亿元人民币） 。按理来说，如此惊人的销售成绩应该也能让实体游戏零售商从中获益，但实际情况并非如此。 Super Game Shack 游戏商店负责人 Richa",
+     "source": "IT之家",
+     "zh": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版"
+    },
+    {
      "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
      "link": "https://www.huxiu.com/article/4907386.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 15:02:04 +0800",
@@ -1802,36 +1826,52 @@ window.INDUSTRY_DATA = {
      "zh": "菲律宾 COD 拒收率 28%，每单投放成本被吃掉多少？"
     },
     {
+     "title": "新疆最大热电联产项目建成投产，补足南疆供热短板",
+     "link": "https://www.ithome.com/1/030/370.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:55:59 GMT",
+     "summary": "IT之家 11 月 21 日消息，11 月 20 日 20 时 50 分，中国能建华东院设计、建筑集团承建的喀什华电 2×66 万千瓦热电联产项目 7 号机组，通过 168 小时满负荷试运行，标志着新疆最大热电联产项目全面建成投产。 IT之家从官方介绍获悉，该项目位于新疆喀什市，是国家“两个联营”一体化重点项目、新疆电力发展规划重点工程，在原址扩建 2 台 66 万千瓦高效超超临界一次再热间接空冷机组，同步建设烟气脱硫、脱硝、除尘设施，机组纯凝期具备 20% THA 深度调峰能力， 烟气污染物排放浓度达到超净排放标准 。 采用“两机一塔”和“烟塔合一”方案，主厂房以“天山飞雪”为设计灵感，工业",
+     "source": "IT之家",
+     "zh": "新疆最大热电联产项目建成投产，补足南疆供热短板"
+    },
+    {
+     "title": "“佛罗里达小丑”劳伦斯 · 沙利文与 R 星私下达成和解，最终在《GTA6》中作为“当地居民”亮相",
+     "link": "https://www.ithome.com/1/030/369.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:54:25 GMT",
+     "summary": "IT之家 11 月 21 日消息，R 星新作《GTA 6》首部预告片中有一个满脸纹身的“小丑”角色，这一角色在现实中具有对应人物 —— 劳伦斯 · 沙利文（Lawrence Sullivan），也就是“佛罗里达小丑”。 IT之家此前曾报道，劳伦斯 · 沙利文声称 R 星在《GTA 6》中使用了基于他的形象角色，侵犯了肖像权，要求索赔 200 万美元 （IT之家注：现汇率约合 1,338.4 万元人民币） ，后来涨价到 500 万美元 （现汇率约合 3,346 万元人民币） ，最后涨价到 1,000 万美元 （现汇率约合 6,692 万元人民币） ，但 R 星一直没有理会相关索赔“通牒”。后续沙",
+     "source": "IT之家",
+     "zh": "“佛罗里达小丑”劳伦斯 · 沙利文与 R 星私下达成和解，最终在《GTA6》中作为“当地居民”亮相"
+    },
+    {
+     "title": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份",
+     "link": "https://www.ithome.com/1/030/368.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:51:20 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Central 昨日（11 月 20 日）发布博文，尽管《侠盗猎车手 6》（GTA 6）游戏在预售阶段已突破 2,400 万份， 但实体游戏零售商几乎无法分享这场“史上最大规模娱乐产品发布”的红利。 IT之家援引博文介绍，在接受 BBC 采访时，英国莱斯特独立游戏店 Super Game Shack 店主理查德 · 特克斯伯里（Richard Tewksbury）表示，其店铺总共只卖出 5 份《GTA 6》实体版，其中 4 份为 PS5 版、1 份为 Xbox 版。 特克斯伯里表示玩家并不愿意购买“盒子里只装着下载码”的产品，加上游戏",
+     "source": "IT之家",
+     "zh": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份"
+    },
+    {
+     "title": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场",
+     "link": "https://www.ithome.com/1/030/366.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:47:13 GMT",
+     "summary": "IT之家 11 月 21 日消息，据财联社报道，在今日进行的第十一届动力电池应用国际峰会上，亿纬锂能董事长刘金成表示，锂电消费税落地后，会有相当一部分企业将退出市场。 刘金成援引统计数据称，在铅酸电池增收 10% 消费税后，行业内 90% 的铅酸企业退出。 以此类推，三年之内，锂电池行业中相当一部分企业也将不得不退出市场 ，这也会给行业发展带来不确定性，2027 年一季度将是行业的过渡期。 刘金成提出建议，锂电企业不要轻易做跟随者，很难找到缝隙；要去找创新的细分市场、创新的技术，创新领域机会无限。 据IT之家此前报道，7 月 17 日， 财政部、海关总署、税务总局发布公告 ： 自 2026 年",
+     "source": "IT之家",
+     "zh": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场"
+    },
+    {
+     "title": "九州风神推出 CH170 白色版机箱：支持风冷 / 水冷两种装机方案、配数显模块，269 元",
+     "link": "https://www.ithome.com/1/030/365.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:47:04 GMT",
+     "summary": "IT之家 11 月 21 日消息，九州风神现已在京东上架 CH170 白色版机箱，该机箱支持风冷与水冷两种装机方案，同时配有实时数显模块， 定价为 269 元 。 京东 九州风神 CH170 机箱 269 元 直达链接 该机箱整体呈白色立式方柱造型，尺寸为 250×200×380mm。机身多面覆盖 MESH 网孔面板，侧面网孔板可更换为另购的钢化玻璃面板。前侧边缘竖向排布按键与接口，提供两个 USB-A 3.0、一个 USB-C 和一个音频接口。 该机底座配备多功能数显屏，搭配官方软件实时显示四组数据，支持在 CPU 与 GPU 模式间切换，展示温度、功耗、使用率及频率，前者还可切换查看风扇转",
+     "source": "IT之家",
+     "zh": "九州风神推出 CH170 白色版机箱：支持风冷 / 水冷两种装机方案、配数显模块，269 元"
+    },
+    {
      "title": "GPSR 责任人信息补齐后，德国站广告 CPA 涨了 40%，是合规成本转嫁还是投放逻辑变了？",
      "link": "https://www.baijing.cn/question/638873",
      "pubDate": "Sat, 21 Nov 2026 06:44:42 +0000",
      "summary": "欧洲市场做智能家居配件，德国、法国、西班牙三站同步在跑，团队 12 人，月广告预算约 3 万欧元。GPSR 生效后给所有 listing 补了欧盟责任人信息和德法西三语安全警示，产品页改版上线两周，德国站 Meta 和 Google 的 CPA 从 18 欧涨到 25 欧左右，转化率从 3.1% 掉到 2.4%，法国站基本没动。已经排查过落地页加载、受众重叠和出价策略，也把责任人信息从图片挪到了 A+ 文案区，还是没回到原来的成本。现在卡在判断不了这是合规信息前置导致点击意愿下降，还是改版后素材和人群匹配错位。想直接问：这种改版后的 CPA 抬升，你们是先回滚页面结构验证，还是先拆素材和人群做",
      "source": "白鲸出海",
      "zh": "GPSR 责任人信息补齐后，德国站广告 CPA 涨了 40%，是合规成本转嫁还是投放逻辑变了？"
-    },
-    {
-     "title": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作",
-     "link": "https://www.ithome.com/1/030/364.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:39:35 GMT",
-     "summary": "IT之家 11 月 21 日消息，智元创新（AGIBOT）与蓝思科技达成战略合作， 于手机测试产线部署智元精灵 G2 机器人 ，数十台机器人同时进行测试工位自动上下料、测试设备交互等工作。 据介绍，精灵 G2 可实现手机产品全自动转运、智能分拨与高效上下料。对比传统自动化设备，精灵 G2 通用本体可兼容多条作业产线，大幅降低产线改造成本。同时，精灵 G2 支持全天候不间断作业，可承接重复性工序，有效缓解用工压力，为 3C 精密制造带来降本、提效、提质的综合价值。 官方表示，本次工业部署态落地聚焦手机 MMI、ANT、CAM、CAMCV 等测试，这类岗位具备操作重复性高、机型迭代快等特征，完整跑",
-     "source": "IT之家",
-     "zh": "手机测试产线部署智元精灵 G2 机器人，智元与蓝思科技达成战略合作"
-    },
-    {
-     "title": "Win11 预览版 26320.10022 设置迎导航页，集中呈现微软账户权益",
-     "link": "https://www.ithome.com/1/030/363.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:37:29 GMT",
-     "summary": "IT之家 11 月 21 日消息， 今天面向 Beta 频道发布的 Windows 11 26H2 Build 26320.10022 预览版更新中 ，微软在“设置”中新增了“了解你的账户权益”（Discover your account benefits）页面， 帮助用户更直观地查看微软账户可用的功能、服务及相关权益。 该页面把原本分散在系统不同位置的账户相关功能，整合到一个更容易被发现的入口。用户登录微软账户后，可在“设置”首页看到相关权益提示，并进入专门的欢迎页面，了解当前账户可使用的服务。IT之家附上相关图片如下： Windows 设置中提供的微软帐户权益和服务 微软希望把账户价值前置",
-     "source": "IT之家",
-     "zh": "Win11 预览版 26320.10022 设置迎导航页，集中呈现微软账户权益"
-    },
-    {
-     "title": "岚图梦想家 9 右舵版在泰国市场上市，12 月 15 日还将登陆中国香港",
-     "link": "https://www.ithome.com/1/030/362.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:30:54 GMT",
-     "summary": "IT之家 11 月 21 日消息，岚图汽车宣布，岚图梦想家 9 右舵版现已在泰国市场正式上市，相应右舵版本还将于 12 月 15 日登陆香港市场，后续还会择机进入新加坡、印度尼西亚和马来西亚等市场。 作为参考，岚图梦想家 9（左舵版本）于今年 9 月 22 日在内地市场上市，售价区间为 41.99 万元至 51.99 万元。 据IT之家此前报道 ，岚图梦想家 9 定位“新时代旗舰 MPV”，提供 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式。该车二排座椅拥有旋转、横滑、零重力及机械按摩等功能，基于全域 L3 级电子电气架构打造，搭载华为乾崑智驾 ADS 5 系统。",
-     "source": "IT之家",
-     "zh": "岚图梦想家 9 右舵版在泰国市场上市，12 月 15 日还将登陆中国香港"
     },
     {
      "title": "法国手游法语配音外包后，玩家留存反跌12%，该继续加配音还是转做文本本地化？",
@@ -1866,36 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "中国造船业，爆单了"
     },
     {
-     "title": "22.98 万元起鸿蒙智行问界 M6 现车权益：1 万元补贴、3 年 0 息、贷 5 免 3 三选一",
-     "link": "https://www.ithome.com/1/030/361.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:26:09 GMT",
-     "summary": "IT之家 11 月 21 日消息，赛力斯执行董事、副总裁康波今日宣布，赛力斯汽车与华为联合设计的 AITO 问界 M6 推出限时现车购车权益。 在 11 月 21 日 0 点至 11 月 30 日 24 点期间下定的用户，可在 10000 元现车补贴、3 年 0 息金融方案和“贷 5 免 3”金融方案三种权益方案中任选其一，官方宣称最快 1 周可提车。官方海报提示，现车数量有限，先到先得。 问界 M6 官方指导价区间为 22.98 万-29.98 万元，共推出 8 款配置，纯电版 22.98 万元起，增程版 23.98 万元起。该车定位中大型大五座新能源 SUV，于 2026 年 4 月 22",
-     "source": "IT之家",
-     "zh": "22.98 万元起鸿蒙智行问界 M6 现车权益：1 万元补贴、3 年 0 息、贷 5 免 3 三选一"
-    },
-    {
-     "title": "Edge 浏览器最强防护：微软酝酿锁定模式，可拦截近 60% 权限提升攻击",
-     "link": "https://www.ithome.com/1/030/360.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:24:49 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 NeoWin 昨日（11 月 20 日）发布博文，报道称微软计划为 Microsoft Edge 浏览器测试“锁定模式”（Lockdown Mode）， 通过禁用 WebGL、WebGPU 等高风险浏览器能力，阻断常见漏洞利用链条。 该模式建立在 Edge“增强安全模式”（Enhanced Security Mode，ESM）基础上，为了降低攻击者利用漏洞链入侵设备的可能性，不仅限制部分网页能力，还会进一步收紧浏览器进程边界。 “增强安全模式”主要禁用 JavaScript 即时编译（JIT），而“锁定模式”在此基础上将防护范围扩展到 GPU 相关能",
-     "source": "IT之家",
-     "zh": "Edge 浏览器最强防护：微软酝酿锁定模式，可拦截近 60% 权限提升攻击"
-    },
-    {
      "title": "家门口的养老院正在消失",
      "link": "https://www.huxiu.com/article/4907382.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 14:19:35 +0800",
      "summary": "本文来自微信公众号： 经济观察报 ，作者：田进 曾经热情引进这些项目的地方政府工作人员，开始劝秦新关停建筑条件不符合监管要求的机构，也对之前的努力付诸东流表示遗憾。一年内，秦新关停了当地一批设施不达标的社区嵌入型养老机构，数量约占集团在当地机构总量的一半。 今年上半年，秦新将养老院关停的通知发给老人和家属后，就迎来了“让他难以招架”的情绪反馈。 这是一家位于一线城市的社区养老院，约有40张护理床位，已运营近十年时间，常年处于满住状态，入住的大部分是周围厂区的失能、半失能老人。 秦新很能理解家属们的情绪。对老人和家属来说，搬离住了多年的养老院，几乎是一场煎熬：家属要花时间重新挑选养老院，新选的养",
      "source": "虎嗅",
      "zh": "家门口的养老院正在消失"
-    },
-    {
-     "title": "网络下载“破解禁飞”外挂后转手售卖牟利，上海警方抓获嫌疑人",
-     "link": "https://www.ithome.com/1/030/358.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:18:10 GMT",
-     "summary": "IT之家 11 月 21 日消息，据“警民直通车上海”公众号，一款号称能“遮掩无人机识别信息、破解禁飞监管”的新款外挂软件，被王某从网络上下载后加价挂上社交平台出售，还附赠安装教程与远程支持。近日，上海杨浦警方快侦快破一起提供 非法控制计算机信息系统程序案 ，成功抓获嫌疑人王某，现场查获涉案手机、电脑及无人机相关设备，及时消除了无人机“黑飞”安全隐患。 文章称，今年 10 月下旬，上海市公安局警航总队和杨浦公安分局发现一网民在某社交平台售卖一款可以破解无人机禁飞限制的外挂软件。警方循线追踪，很快确认了卖家王某的身份信息，并在杨浦区黎平路某小区将其成功抓获。现场查获其用于售卖软件的手机、电脑和相",
-     "source": "IT之家",
-     "zh": "网络下载“破解禁飞”外挂后转手售卖牟利，上海警方抓获嫌疑人"
     },
     {
      "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
@@ -1989,17 +2005,9 @@ window.INDUSTRY_DATA = {
      "title": "ClawDOS – An AI coding agent for DOS",
      "link": "http://ricapar.net/ClawDOS/",
      "pubDate": "Sat, 21 Nov 2026 05:38:01 +0000",
-     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 12 # Comments: 2",
+     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 23 # Comments: 2",
      "source": "Hacker News",
      "zh": "ClawDOS – An AI coding agent for DOS"
-    },
-    {
-     "title": "Shopee菲律宾站COD拒收率涨到18%，投流CPA还在往上走，该不该关COD？",
-     "link": "https://www.baijing.cn/question/638870",
-     "pubDate": "Sat, 21 Nov 2026 05:35:57 +0000",
-     "summary": "最近两周Shopee菲律宾站后台的COD拒收率从9%爬到18%，同期我们投的联盟和站内关键词CPA从₱95涨到₱160，预算一天₱8000左右，等于每两单就有一单在派送环节被拒。团队6个人，3C配件类目，起量阶段，日单量400上下。已经试过在商品页加拒收提示、把货到付款门槛提到₱1500以上、对高拒收地区改走预付，拒收率只降到15%，CPA没回落。现在纠结的是继续投流冲单量还是先把COD关掉保利润——你们判断这个节点是看拒收率绝对值还是看COD订单的边际毛利？",
-     "source": "白鲸出海",
-     "zh": "Shopee菲律宾站COD拒收率涨到18%，投流CPA还在往上走，该不该关COD？"
     },
     {
      "title": "中国车企在印度，工厂、股权与供应链",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "马恒达的电动车，装着比亚迪电芯",
      "source": "钛媒体",
      "zh": "中国车企在印度，工厂、股权与供应链"
-    },
-    {
-     "title": "肯尼亚手游买量，M-Pesa 充值和回款周期拖成这样还能投吗？",
-     "link": "https://www.baijing.cn/question/638869",
-     "pubDate": "Sat, 21 Nov 2026 05:15:43 +0000",
-     "summary": "我们在内罗毕做一款轻中度 SLG 手游，刚上线 3 个月进入起量阶段，团队 6 人，月买量预算约 8000 美元，主要跑 Google Ads 和 Meta，素材本地化为英语和斯瓦希里语。内罗毕和蒙巴萨两地的网络环境差异明显，4G 覆盖好的区域 CPI 约 0.35 美元，但转化到付费这一步卡住了：M-Pesa 小额充值成功率只有六成左右，用户从点击到完成支付平均要跳 4 步，单笔 1 美元以下的内购流失最严重。已试过接入本地聚合支付、缩短支付页面加载、给首充加赠礼包，付费率仍停在 1.2% 上下。更头疼的是渠道回款，M-Pesa 通道结算周期约 T+7 到 T+10，现金流压得很紧。想请教：",
-     "source": "白鲸出海",
-     "zh": "肯尼亚手游买量，M-Pesa 充值和回款周期拖成这样还能投吗？"
     },
     {
      "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
+     "link": "https://wallstreetcn.com/articles/3786432",
+     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
+     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
+     "source": "华尔街见闻",
+     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
+    },
+    {
      "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
      "link": "https://wallstreetcn.com/articles/3786431",
      "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
@@ -2330,6 +2338,14 @@ window.INDUSTRY_DATA = {
      "zh": "An early breakdown in the polar vortex is threatening already depleted gas stocks"
     },
     {
+     "title": "Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect",
+     "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+     "pubDate": "Sat, 21 Nov 2026 06:00:02 GMT",
+     "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+     "source": "CNBC",
+     "zh": "Europe&apos;s cyber weak spot is the everyday businesses nobody thought to protect"
+    },
+    {
      "title": "千台岚图梦想家9右舵版发运海外 搅局东南亚高端MPV市场",
      "link": "http://www.eeo.com.cn/2026/1121/1099057.shtml",
      "pubDate": "Sat, 21 Nov 2026 13:59:52 +0800",
@@ -2362,12 +2378,68 @@ window.INDUSTRY_DATA = {
      "zh": "安纳智芯获新一轮亿元级融资 首颗芯片AX100完成流片"
     },
     {
+     "title": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936812021.html",
+     "pubDate": "Sat, 21 Nov 2026 13:50:02 +0800",
+     "summary": "据 高盛 集团交易员称，随着美国股市周五暴跌， 高盛 集团的“恐慌指数”攀升至接近最高水平， 这表明未来一周将出现另一波大规模抛售。 高盛 交易部门表示， 抛售潮已蔓延至所谓的系统性投资者，该行“恐慌指数”已升至9，最大值为10。 据高盛估计，过去一个月，包括商品交易顾问（CTA）在内的动量交易员过去一个月卖出了570亿美元股票，其在美股的头寸已转为净空头190亿美元。 该行的模型预测， 在市场平稳的情况下，CTA可能会再抛售658亿美元股票；如果股市上涨，则可能抛售286亿美元股票；如果股市继续下跌，则可能再抛售高达806亿美元股票。 市场最新一轮下跌反映出投资者越来越不愿意逢低买入科技股，",
+     "source": "东方财富股票",
+     "zh": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售"
+    },
+    {
+     "title": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936811662.html",
+     "pubDate": "Sat, 21 Nov 2026 13:48:20 +0800",
+     "summary": "11月19日，香雪制药（＊ST香雪，300147.SZ）公告，法院裁定受理债权人对公司的重整申请；11月20日，瑞和股份（ *ST瑞和 ，002620.SZ）、西安旅游（ *ST西旅 ，000610.SZ）双双公告，法院裁定受理公司重整。至此，2026年年内，共有6家公司重整获受理。 相关公告显示，在3家公司重整申请人（债权人）看来，香雪制药、瑞和股份、西安旅游，均不能清偿到期债务且明显缺乏清偿能力，但具有重整价值。 3家公司公告还均显示，因2025年年末经审计的归属于上市公司股东的净资产为负值，公司股票已被实施退市风险警示。目前法院已裁定公司进入重整程序，但仍存在因重整失败而被宣告破产的风险",
+     "source": "东方财富股票",
+     "zh": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理"
+    },
+    {
+     "title": "人形机器人出货增长 稳定性与回本周期影响规模化",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936812154.html",
+     "pubDate": "Sat, 21 Nov 2026 13:47:13 +0800",
+     "summary": "据市场研究机构Counterpoint Research统计，2026年上半年，全球人形 机器人 出货量超过2.2万台，同比增长近300%。文娱商演、科研 教育 和数据采集合计仍占出货量的六成以上，智能制造和仓储 物流 的占比均有所提高，分别达到13%和5%。 11月19日，在北京举行的新浪新闻·2026探索大会上，灵心巧手创始人兼CTO 周永在接受《中国经营报》记者采访时表示，任务的完成度和准确性跟泛化性一样重要。谈及跨本体能力，他认为，判断一套模型能否适配不同 机器人 ，要看同一项任务换一款 机器人 后，完成率能否保持。 进入多种场景 人形机器人 进入客户现场后，工业和零售项目交付的内容各",
+     "source": "东方财富股票",
+     "zh": "人形机器人出货增长 稳定性与回本周期影响规模化"
+    },
+    {
+     "title": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936811990.html",
+     "pubDate": "Sat, 21 Nov 2026 13:44:00 +0800",
+     "summary": "据合肥日报，11月20日下午，合肥市委书记覃卫国与 迈瑞医疗 董事长李西廷一行举行工作会谈。 覃卫国表示， 迈瑞医疗 是全球 医疗器械 行业领军企业，此次合作签约，务实高效、前景可期。希望以此为新起点，进一步深化在高端 医疗器械 研发制造、智慧医疗等领域合作，助力合肥医疗卫生事业高质量发展。我们将竭诚做好服务，全力支持 迈瑞医疗 在肥发展。 李西廷表示，合肥产业生态好、营商环境优，对在肥发展充满信心。愿进一步深化战略合作，加快推动项目建设，持续拓展业务布局，为合肥高质量发展贡献力量。 会谈后，迈瑞医疗分别与省卫健委、合肥市政府签约。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约"
+    },
+    {
+     "title": "民间智慧丨加速赶底，价值渐显",
+     "link": "http://finance.eastmoney.com/news/1378,202611213936811771.html",
+     "pubDate": "Sat, 21 Nov 2026 13:40:59 +0800",
+     "summary": "市场性价比开始体现 主持人 ：上周泛舟说就连主题投资都别冒进，果然， 传媒 、 机器人 等本周宽幅震荡。 泛舟 ：正常，毕竟是主题投资。震荡趋势中的主题投资，如果不在指数的趋势性上涨阶段，周期就会很短。差不多一个月左右。这次时间也到了，而且部分公司股价在高位出现连号的现象。 主持人 ：现在的量化也够仗义的，高位都给提示。 泛舟 ：那也未必，要看啥板块了。比如红利价值类， 银行 在几周前也出现过连号，最近不就创新高了？但再往前的科技股至今都没涨回去。所以这事还得分开看。反正偏主题投资的出现连号未必好，价值类不能草率的下定论。 主持人 ：也是，如果规律那么清晰，那还能套住谁？下周指数怎么看？还谨慎",
+     "source": "东方财富股票",
+     "zh": "民间智慧丨加速赶底，价值渐显"
+    },
+    {
+     "title": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic",
+     "link": "http://stock.eastmoney.com/news/1611,202611213936810927.html",
+     "pubDate": "Sat, 21 Nov 2026 13:38:12 +0800",
+     "summary": "11 月 21 日消息，据《华尔街日报》今日报道， Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。 据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。 达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。 这次与马斯克的接触，是他从学术研究转向科技行业过程中的",
+     "source": "东方财富股票",
+     "zh": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic"
+    },
+    {
      "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
      "link": "https://wallstreetcn.com/articles/3786429",
      "pubDate": "Sat, 21 Nov 2026 13:22:07 +0800",
      "summary": "美股持续下跌，金融条件急剧收紧，市场正显现出与2018年末相似的危险信号：美联储在市场压力不断累积之际，仍面临继续加息的政策预期，投资者开始担忧货币政策是否会再次加剧市场动荡。 据高盛交易主管Rich Privorotsky周五报告，当前市场与2018年末存在惊人的相似之处。他将近期抛售定性为“全面清仓式变现”，而非普通的板块轮动，并警告市场可能正在从风险偏好下降转向更深层次的流动性收缩。 彼时，美联储在2018年连续加息，标普500指数从9月高点至12月24日低点累计下跌19.8%，逼近技术性熊市。随着市场压力持续加剧，美联储最终在2019年1月释放暂停加息的信号，政策立场发生转变。 如今，",
      "source": "华尔街见闻",
      "zh": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”"
+    },
+    {
+     "title": "黄仁勋的三条回归路！离职一周多英伟达市值蒸发7.8万亿元 20万人请愿 特朗普与马斯克再喊话",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936806414.html",
+     "pubDate": "Sat, 21 Nov 2026 13:04:19 +0800",
+     "summary": "没有了黄仁勋， 英伟达 股价在7个交易日内连续下跌，周五一天跌超14%， 7天累计跌幅达27.7%，市值蒸发11616亿美元（约合人民币7.8万亿元） ，投资者叫苦不迭。 当地时间11月20日，特朗普在白宫记者会上再次公开支持黄仁勋回归。他认为，如果 英伟达 足够明智，就应该接纳这位天才，接受他的道歉，让他回去继续工作。 前一日，马斯克也再度公开声援，称黄仁勋对 英伟达 的重要性堪比乔丹对芝加哥公牛队。 另外，还有超20万人也在请愿让黄仁勋回归，签名者有英伟达在职员工、股东、客户以及AI产业链人士。 尽管董事会已经明确拒绝黄仁勋复职，但手握英伟达3.58%的股份，黄仁勋想要回归或许还有三条路：",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋的三条回归路！离职一周多英伟达市值蒸发7.8万亿元 20万人请愿 特朗普与马斯克再喊话"
     },
     {
      "title": "The manufacturing of novelty",
@@ -2386,6 +2458,22 @@ window.INDUSTRY_DATA = {
      "zh": "The AI cyber threat is already here"
     },
     {
+     "title": "继2023年房企退市潮后 多家房企拉响退市警报 护盘之下有企业股价暂回1元上方",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936805679.html",
+     "pubDate": "Sat, 21 Nov 2026 12:44:42 +0800",
+     "summary": "近期，房企退市话题再起。港股层面，恒盛地产、西王置业已因长期停牌被取消上市地位；A股层面， 金科股份 、 荣盛发展 、 *ST华幸 相继跌破1元面值，一度触发交易类强制退市倒计时。 面对“1元生死线”，A股几家房企护盘动作各不相同。其中，金科推出回购方案，荣盛高管紧急增持， *ST华幸 则暂未推出回购或 增持计划 ，重整程序能否落地仍存在不确定性。护盘动作下，部分房企股价暂时回到1元上方。 对于行业出清正由经营端延伸至资本端的情况，业内分析人士向《华夏时报》记者表示，上市平台减少意味着行业可用资本工具同步收缩，对仍处于风险化解阶段的房企而言，失去上市地位将显著抬高后续引入战投与资产处置的难度。",
+     "source": "东方财富资讯",
+     "zh": "继2023年房企退市潮后 多家房企拉响退市警报 护盘之下有企业股价暂回1元上方"
+    },
+    {
+     "title": "6G将迎重磅大会 这些公司抢先布局！机构资金潜伏10只概念股",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936805292.html",
+     "pubDate": "Sat, 21 Nov 2026 12:31:08 +0800",
+     "summary": "正如5G是 数字经济 时代的重要底座，6G也将成为决定未来产业发展速度、广度、深度的基础性产业。 2026年6G发展大会即将举办 据央视新闻报道，2026年6G发展大会将于11月24日至25日在上海市松江区举行，大会以“智启星程，携手全球协同创新”为主题，聚焦6G全球统一标准制定与产业生态建设。本届大会由中国信息 通信 研究院、IMT-2030（6G）推进组主办。 作为国内6G领域技术覆盖最全面、专业水平最高、影响力最大的国际盛会，6G发展大会已成功举办五届。本届大会采用“1+2+X+1”结构，即1场开幕式、2场主论坛、多场分论坛，同期举办6G产业研发成果展览。开幕式上将邀请ITU、3GPP、",
+     "source": "东方财富资讯",
+     "zh": "6G将迎重磅大会 这些公司抢先布局！机构资金潜伏10只概念股"
+    },
+    {
      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 03:20:00 GMT",
@@ -2402,12 +2490,28 @@ window.INDUSTRY_DATA = {
      "zh": "融资收购SK海力士？孙正义一度考虑“万亿豪赌”，已接洽华尔街"
     },
     {
-     "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
-     "link": "https://wallstreetcn.com/articles/3786423",
-     "pubDate": "Sat, 21 Nov 2026 10:27:20 +0800",
-     "summary": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。 本周， 费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。 抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，单周跌幅超过9%，创近年来最大单周跌幅；纳斯达克100指数单周下跌逾10%，年内涨幅悉数回吐。VIX一度突破40，市场恐慌情绪急剧升温。 值得注意的是，英伟达财报表现亮眼、Anthropic创纪录IP",
-     "source": "华尔街见闻",
-     "zh": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”"
+     "title": "人民日报：唱空中国经济者终会落空",
+     "link": "http://finance.eastmoney.com/news/1350,202611213936792690.html",
+     "pubDate": "Sat, 21 Nov 2026 10:42:18 +0800",
+     "summary": "嘴上唱空中国经济的美西方人士，心里究竟打的什么算盘？ 今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。 这些论调背后，算的是他们自己的利益账和政治账：借“中国崩溃”动摇信心，拿“中国威胁”设限围堵。 可惜，中国经济的发展，从来不由这些唱空者说了算。 一 唱空中国经济，早已不是什么新鲜事。 2001年，有美西方人士提出“中国崩溃论”，预言加入世贸组织等因素将导致中国在2011年“崩溃”。结果到了2011年，预言不出意料地落空了。 2",
+     "source": "东方财富资讯",
+     "zh": "人民日报：唱空中国经济者终会落空"
+    },
+    {
+     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
+     "summary": "11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股东追问，他给出的答复是：股东大会已",
+     "source": "东方财富资讯",
+     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
+    },
+    {
+     "title": "特朗普公开场合再次力挺黄仁勋：英伟达应该接受道歉 让他回来工作",
+     "link": "http://stock.eastmoney.com/news/1611,202611213936790462.html",
+     "pubDate": "Sat, 21 Nov 2026 10:27:06 +0800",
+     "summary": "当地时间11月20日，特朗普在白宫记者会上再次公开支持 英伟达 前首席执行官黄仁勋回归。 据《华尔街日报》发布的一段视频，特朗普在记者会上说：“他是个好人。他做过一些错误决定，但他确实是个非常有才华的人。” 特朗普随后提到了马斯克称，“在我的第一个任期里，我曾非常坚定地为埃隆辩护。我不确定如果没有我，他现在是否还能和我们在一起。我当时说，我们必须保护那些杰出的人才，任何国家都不嫌人才多，黄仁勋就是其中之一。” 特朗普表示，之前他还推荐过蒂姆库克接替黄仁勋，认为他会是合适的人选。“但比起其他人，我更希望看到黄仁勋郑重道歉，然后返回岗位。” 特朗普认为，如果 英伟达 足够明智，就应该接纳这位天才，",
+     "source": "东方财富资讯",
+     "zh": "特朗普公开场合再次力挺黄仁勋：英伟达应该接受道歉 让他回来工作"
     },
     {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -2416,110 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook"
-    },
-    {
-     "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
-     "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 18:16:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says"
-    },
-    {
-     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-     "pubDate": "Fri, 20 Nov 2026 22:59:33 GMT",
-     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
-     "source": "CNBC",
-     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
-    },
-    {
-     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
-     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
-    },
-    {
-     "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-     "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:46:00 GMT",
-     "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-     "source": "MarketWatch",
-     "zh": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
-    },
-    {
-     "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-     "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
-     "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-     "source": "MarketWatch",
-     "zh": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade"
-    },
-    {
-     "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-     "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
-     "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-     "source": "MarketWatch",
-     "zh": "These stocks were crushed the most this week as the tech wreck accelerated"
-    },
-    {
-     "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
-     "link": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:40:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orange County Bancorp raises dividend by 27.85 to $0.23"
-    },
-    {
-     "title": "United Fire declares $0.20 dividend",
-     "link": "https://seekingalpha.com/news/4675379-united-fire-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:38:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "United Fire declares $0.20 dividend"
-    },
-    {
-     "title": "Bentley Systems raises dividend by 14.3% to $0.08",
-     "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:37:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
-    },
-    {
-     "title": "Nvidia faces US regulator’s probe into its accounting",
-     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
-     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-     "source": "Financial Times",
-     "zh": "Nvidia faces US regulator’s probe into its accounting"
-    },
-    {
-     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
-     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
-    },
-    {
-     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-     "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:52:25 GMT",
-     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-     "source": "Financial Times",
-     "zh": "US tech stocks plunge into bear market in worst week since Covid-19 crisis"
-    },
-    {
-     "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-     "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
-     "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-     "source": "MarketWatch",
-     "zh": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock"
     }
    ]
   },

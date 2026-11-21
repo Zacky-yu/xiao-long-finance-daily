@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 14:52:01",
+ "generated_at": "2026/11/21 15:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+     "link": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
+     "pubDate": "Sat, 21 Nov 2026 07:00:00 +0000",
+     "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward ",
+     "source": "pv magazine",
+     "zh": "Battery patents: Solid-state filings surpass lithium-ion to hit record high"
+    },
+    {
      "title": "Waymo Pulls Robotaxis from Highways",
      "link": "https://cleantechnica.com/2026/11/21/waymo-pulls-robotaxis-from-highways/",
      "pubDate": "Sat, 21 Nov 2026 05:21:09 +0000",
@@ -887,7 +895,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 05:00:00 +0000",
      "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post Tariffs, taxes and a BESS price rise appeared first on pv magazine Global .",
      "source": "pv magazine",
-     "zh": "关税、税收和 BESS 价格上涨"
+     "zh": "Tariffs, taxes and a BESS price rise"
     },
     {
      "title": "NIO Launches Special Edition Firefly “Pianke Liujin”",
@@ -927,7 +935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 01:47:30 +0000",
      "summary": "Global tracking of energy access should expand beyond connections to include affordability, reliability, adequacy, and development outcomes. Access to energy is a cornerstone of development—it can improve health, education, incomes, and overall quality of life. But access is only the first step. A h",
      "source": "CleanTechnica",
-     "zh": "能源如何改善生活？为什么仅计算连接数还不够"
+     "zh": "How Can Energy Improve Lives? Why Counting Connections Isn’t Enough"
     },
     {
      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
@@ -943,7 +951,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 16:00:00 -0600",
      "summary": "Argentina’s energy sector is having a banner year. The first half of 2026 saw the South American nation’s best energy trade balance in half a decade as exports boomed thanks to a drop in exports out of the Middle East and strong production numbers out of the Vaca Muerta shale play. And Argentina’s e",
      "source": "OilPrice",
-     "zh": "阿根廷能源公司在 2027 年大选前急于出售债券"
+     "zh": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election"
     },
     {
      "title": "Why tribal rights have become key to the energy permitting debate",
@@ -999,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 11:15:00 -0500",
      "summary": "New York state is upgrading its ports for what it hopes will be a return to U.S. offshore wind development in the years after President Donald Trump leaves office. On Friday, Gov. Kathy Hochul (D) announced over $228 million in state funding for five projects to bolster maritime infrastructure along",
      "source": "Canary Media",
-     "zh": "纽约向港口授予 2.3 亿美元的重新利用海上风电补助金"
+     "zh": "New York awards ports $230M in repurposed offshore wind grants"
     },
     {
      "title": "Permitting reform bill heads to House as Democratic divisions persist",
@@ -1079,7 +1087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 12:24:57 +0000",
      "summary": "A roundup of solar project construction news in Spain, where work was completed on projects in Valladolid and Seville, and construction began on another project in the Northwest.",
      "source": "PV Tech",
-     "zh": "西班牙项目综述：Lightsource、Green Arrow 宣布塞维利亚巴利亚多利德光伏投资组合的建设更新"
+     "zh": "SPAIN PROJECT ROUNDUP: Lightsource, Green Arrow announce construction updates for PV portfolios in Valladolid, Seville"
     },
     {
      "title": "US module prices surge ahead of Section 232 initiation – Anza",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "In other news, ACME Group has approved a $3.6 billion green ammonia project in India, while researchers in Chile have assessed hydrogen production from curtailed renewable power. Qair has inaugurated a hydrogen plant in France, Plug Power has launched a utility-scale electrolyzer offering, and Proti",
      "source": "pv magazine",
      "zh": "The Hydrogen Stream: China starts operating 195 km hydrogen pipeline"
-    },
-    {
-     "title": "Germany: operators progress over 4GWh of BESS towards construction ahead of year-end FID deadline",
-     "link": "https://www.energy-storage.news/germany-operators-4gwh-large-scale-bess-construction-fid-deadline/",
-     "pubDate": "Fri, 20 Nov 2026 11:55:25 +0000",
-     "summary": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity.",
-     "source": "Energy Storage News",
-     "zh": "Germany: operators progress over 4GWh of BESS towards construction ahead of year-end FID deadline"
     }
    ]
   },
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:19:27 +0000",
      "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
      "source": "STAT News",
-     "zh": "ICE 拘留普林斯顿大学科学家震惊学术界"
+     "zh": "ICE detention of Princeton scientist rattles academia"
     },
     {
      "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
@@ -1159,7 +1159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
      "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
      "source": "BioPharma Dive",
-     "zh": "第一个获批的迷幻药会成为一鸣惊人吗？"
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     },
     {
      "title": "More lawmakers stake out stances on China biotech investment",
@@ -1383,7 +1383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:50:15 +0000",
      "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
      "source": "Space.com",
-     "zh": "火星上的麻烦：美国宇航局的毅力号火星车、奥德赛号轨道飞行器因故障而停止了科学研究工作"
+     "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
      "title": "Following Ship 42’s catch, SpaceX looks to the future",
@@ -1415,7 +1415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 15:53:24 +0000",
      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that",
      "source": "NASA",
-     "zh": "美国宇航局好奇号火星探测器收集样本"
+     "zh": "NASA’s Curiosity Mars Rover Collects Samples"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1479,7 +1479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "为光学提供案例"
+     "zh": "Making the case for optical"
     },
     {
      "title": "HEO Unveils Insights Next SDA Tool",
@@ -1599,7 +1599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 18:35:40 GMT",
      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
      "source": "Dark Reading",
-     "zh": "在安全领域，言语与工具一样重要，甚至更重要"
+     "zh": "In Security, Words Matter as Much as Tools, Maybe More"
     },
     {
      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 23:27:20 +0530",
      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs",
      "source": "The Hacker News",
-     "zh": "WhatsApp 修补了 3 个安全漏洞，其中包括疑似用于诈骗的 Android 漏洞"
+     "zh": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams"
     },
     {
      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
@@ -1785,6 +1785,22 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
+     "link": "https://www.huxiu.com/article/4907386.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 15:02:04 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李佳 美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。 高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。 Garrett回忆起2018年12月24日的市场崩跌。当时，一位客户问他：“为什么今天跌了这么多？”Garrett坦言：“完全不知道。”即便是经验丰富的交易员，面对突如其来的剧烈抛售，也难以判断市场究竟为何失控。 不过，历史相似并不意味着行情",
+     "source": "虎嗅",
+     "zh": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”"
+    },
+    {
+     "title": "菲律宾 COD 拒收率 28%，每单投放成本被吃掉多少？",
+     "link": "https://www.baijing.cn/question/638874",
+     "pubDate": "Sat, 21 Nov 2026 06:59:52 +0000",
+     "summary": "菲律宾市场，货到付款订单拒收率一直在 28% 上下，投放侧开始扛不住了。我们做的是快消日化，客单价 350 比索左右，Meta 和 TikTok 都在跑，现在前端下单 CPA 约 210 比索，本来算得过来，但拒收订单一退，实际成交成本直接飙到 290 比索以上，等于每 10 单里有 3 单的运费和投放费全打水漂。已经试过下单页加确认弹窗、发货前短信二次确认，拒收率只从 31% 降到 28%，再往下压不动。想请教在菲律宾做 COD 的同行，你们把拒收率压到 20% 以内时，单均投放成本实际能控制在什么水平，是靠前端筛人还是靠履约环节拦截？",
+     "source": "白鲸出海",
+     "zh": "菲律宾 COD 拒收率 28%，每单投放成本被吃掉多少？"
+    },
     {
      "title": "GPSR 责任人信息补齐后，德国站广告 CPA 涨了 40%，是合规成本转嫁还是投放逻辑变了？",
      "link": "https://www.baijing.cn/question/638873",
@@ -1973,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "ClawDOS – An AI coding agent for DOS",
      "link": "http://ricapar.net/ClawDOS/",
      "pubDate": "Sat, 21 Nov 2026 05:38:01 +0000",
-     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 5 # Comments: 1",
+     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "ClawDOS – An AI coding agent for DOS"
     },
@@ -1984,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "最近两周Shopee菲律宾站后台的COD拒收率从9%爬到18%，同期我们投的联盟和站内关键词CPA从₱95涨到₱160，预算一天₱8000左右，等于每两单就有一单在派送环节被拒。团队6个人，3C配件类目，起量阶段，日单量400上下。已经试过在商品页加拒收提示、把货到付款门槛提到₱1500以上、对高拒收地区改走预付，拒收率只降到15%，CPA没回落。现在纠结的是继续投流冲单量还是先把COD关掉保利润——你们判断这个节点是看拒收率绝对值还是看COD订单的边际毛利？",
      "source": "白鲸出海",
      "zh": "Shopee菲律宾站COD拒收率涨到18%，投流CPA还在往上走，该不该关COD？"
-    },
-    {
-     "title": "外国游客来华付款卡在哪？专访国家金融与发展实验室理事杨涛：还要闯“规则关”",
-     "link": "https://www.huxiu.com/article/4907378.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 13:34:04 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：宋珂欣 人民币支付便利化，正在入境消费场景中集中落地。 11月，进博会、APEC深圳会议期间，多个离境退税专区设立，“现金+银行卡+电子钱包+数字人民币”多元退税矩阵加速搭建。与此同时，财付通“外包内用”已支持60个境外主流电子钱包，用户无需更换App即可在境内扫码消费，“外卡内绑”覆盖Visa、Mastercard等7大国际卡组织。 这并非孤立的场景优化。央行行长潘功胜此前明确表示，将继续完善境内外金融市场互联互通、支付系统跨境互联，提升跨境贸易和投融资活动的便利性。有序推进人民币国际化，发展离岸人民币市场。 不难看出，支付系统跨境互联已被",
-     "source": "虎嗅",
-     "zh": "外国游客来华付款卡在哪？专访国家金融与发展实验室理事杨涛：还要闯“规则关”"
     },
     {
      "title": "中国车企在印度，工厂、股权与供应链",
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sophie McEvoy / GamesIndustry.biz : Ubisoft launches Motherbrain, a subsidiary focused on developing &ldquo;smart NPCs with memory and AI game masters that manage large-scale systemic worlds&rdquo; &nbsp; &mdash;&nbsp; Studio is currently developing &ldquo;smart NPCs with memory and AI game masters ",
      "source": "Techmeme",
      "zh": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)"
-    },
-    {
-     "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
-     "link": "https://www.tmtpost.com/8213177.html",
-     "pubDate": "Sat, 21 Nov 2026 13:05:42 +0800",
-     "summary": "网红小家电的逻辑要变了？",
-     "source": "钛媒体",
-     "zh": "泡泡玛特和瑞幸，要分同一块蛋糕？"
     }
    ]
   },
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
+     "link": "https://wallstreetcn.com/articles/3786431",
+     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
+     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
+     "source": "华尔街见闻",
+     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
+    },
+    {
      "title": "The dead hand of history weighs on Deutsche Bank",
      "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
      "pubDate": "Sat, 21 Nov 2026 06:32:26 GMT",
@@ -2304,6 +2312,22 @@ window.INDUSTRY_DATA = {
      "summary": "从市场效果看，享界V8的L3标签短期内有望帮助鸿蒙智行建立技术领先的用户认知。更值得关注的是，在L3相关法规全面落地后，享界V8的L3功能能否在首批开放的个人用户场景中稳定交付，以及北汽作为准入经验积累主体，能否把极狐项目上积累的试点运营经验，有效平移到享界的用户服务体系里。",
      "source": "经济观察网",
      "zh": "余承东喊出“未来开车可以睡觉”，鸿蒙智行借享界新车卡位L3赛道"
+    },
+    {
+     "title": "How China is using summits to expand its global influence",
+     "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+     "pubDate": "Sat, 21 Nov 2026 06:00:02 GMT",
+     "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+     "source": "CNBC",
+     "zh": "How China is using summits to expand its global influence"
+    },
+    {
+     "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+     "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+     "pubDate": "Sat, 21 Nov 2026 06:00:02 GMT",
+     "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+     "source": "CNBC",
+     "zh": "An early breakdown in the polar vortex is threatening already depleted gas stocks"
     },
     {
      "title": "千台岚图梦想家9右舵版发运海外 搅局东南亚高端MPV市场",
@@ -2338,54 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "安纳智芯获新一轮亿元级融资 首颗芯片AX100完成流片"
     },
     {
-     "title": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936812021.html",
-     "pubDate": "Sat, 21 Nov 2026 13:50:02 +0800",
-     "summary": "据 高盛 集团交易员称，随着美国股市周五暴跌， 高盛 集团的“恐慌指数”攀升至接近最高水平， 这表明未来一周将出现另一波大规模抛售。 高盛 交易部门表示， 抛售潮已蔓延至所谓的系统性投资者，该行“恐慌指数”已升至9，最大值为10。 据高盛估计，过去一个月，包括商品交易顾问（CTA）在内的动量交易员过去一个月卖出了570亿美元股票，其在美股的头寸已转为净空头190亿美元。 该行的模型预测， 在市场平稳的情况下，CTA可能会再抛售658亿美元股票；如果股市上涨，则可能抛售286亿美元股票；如果股市继续下跌，则可能再抛售高达806亿美元股票。 市场最新一轮下跌反映出投资者越来越不愿意逢低买入科技股，",
-     "source": "东方财富股票",
-     "zh": "重磅预警！高盛“恐慌指数”逼近最大值：美股下周恐还有一波大规模抛售"
-    },
-    {
-     "title": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理",
-     "link": "http://stock.eastmoney.com/news/11215,202611213936811662.html",
-     "pubDate": "Sat, 21 Nov 2026 13:48:20 +0800",
-     "summary": "11月19日，香雪制药（＊ST香雪，300147.SZ）公告，法院裁定受理债权人对公司的重整申请；11月20日，瑞和股份（ *ST瑞和 ，002620.SZ）、西安旅游（ *ST西旅 ，000610.SZ）双双公告，法院裁定受理公司重整。至此，2026年年内，共有6家公司重整获受理。 相关公告显示，在3家公司重整申请人（债权人）看来，香雪制药、瑞和股份、西安旅游，均不能清偿到期债务且明显缺乏清偿能力，但具有重整价值。 3家公司公告还均显示，因2025年年末经审计的归属于上市公司股东的净资产为负值，公司股票已被实施退市风险警示。目前法院已裁定公司进入重整程序，但仍存在因重整失败而被宣告破产的风险",
-     "source": "东方财富股票",
-     "zh": "受理加速两日三家！香雪制药、瑞和股份、西安旅游启动重整 年内总计6单获受理"
-    },
-    {
-     "title": "人形机器人出货增长 稳定性与回本周期影响规模化",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936812154.html",
-     "pubDate": "Sat, 21 Nov 2026 13:47:13 +0800",
-     "summary": "据市场研究机构Counterpoint Research统计，2026年上半年，全球人形 机器人 出货量超过2.2万台，同比增长近300%。文娱商演、科研 教育 和数据采集合计仍占出货量的六成以上，智能制造和仓储 物流 的占比均有所提高，分别达到13%和5%。 11月19日，在北京举行的新浪新闻·2026探索大会上，灵心巧手创始人兼CTO 周永在接受《中国经营报》记者采访时表示，任务的完成度和准确性跟泛化性一样重要。谈及跨本体能力，他认为，判断一套模型能否适配不同 机器人 ，要看同一项任务换一款 机器人 后，完成率能否保持。 进入多种场景 人形机器人 进入客户现场后，工业和零售项目交付的内容各",
-     "source": "东方财富股票",
-     "zh": "人形机器人出货增长 稳定性与回本周期影响规模化"
-    },
-    {
-     "title": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936811990.html",
-     "pubDate": "Sat, 21 Nov 2026 13:44:00 +0800",
-     "summary": "据合肥日报，11月20日下午，合肥市委书记覃卫国与 迈瑞医疗 董事长李西廷一行举行工作会谈。 覃卫国表示， 迈瑞医疗 是全球 医疗器械 行业领军企业，此次合作签约，务实高效、前景可期。希望以此为新起点，进一步深化在高端 医疗器械 研发制造、智慧医疗等领域合作，助力合肥医疗卫生事业高质量发展。我们将竭诚做好服务，全力支持 迈瑞医疗 在肥发展。 李西廷表示，合肥产业生态好、营商环境优，对在肥发展充满信心。愿进一步深化战略合作，加快推动项目建设，持续拓展业务布局，为合肥高质量发展贡献力量。 会谈后，迈瑞医疗分别与省卫健委、合肥市政府签约。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "合肥市委书记覃卫国与迈瑞医疗董事长李西廷举行工作会谈并见证签约"
-    },
-    {
-     "title": "民间智慧丨加速赶底，价值渐显",
-     "link": "http://finance.eastmoney.com/news/1378,202611213936811771.html",
-     "pubDate": "Sat, 21 Nov 2026 13:40:59 +0800",
-     "summary": "市场性价比开始体现 主持人 ：上周泛舟说就连主题投资都别冒进，果然， 传媒 、 机器人 等本周宽幅震荡。 泛舟 ：正常，毕竟是主题投资。震荡趋势中的主题投资，如果不在指数的趋势性上涨阶段，周期就会很短。差不多一个月左右。这次时间也到了，而且部分公司股价在高位出现连号的现象。 主持人 ：现在的量化也够仗义的，高位都给提示。 泛舟 ：那也未必，要看啥板块了。比如红利价值类， 银行 在几周前也出现过连号，最近不就创新高了？但再往前的科技股至今都没涨回去。所以这事还得分开看。反正偏主题投资的出现连号未必好，价值类不能草率的下定论。 主持人 ：也是，如果规律那么清晰，那还能套住谁？下周指数怎么看？还谨慎",
-     "source": "东方财富股票",
-     "zh": "民间智慧丨加速赶底，价值渐显"
-    },
-    {
-     "title": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic",
-     "link": "http://stock.eastmoney.com/news/1611,202611213936810927.html",
-     "pubDate": "Sat, 21 Nov 2026 13:38:12 +0800",
-     "summary": "11 月 21 日消息，据《华尔街日报》今日报道， Anthropic CEO 达里奥 · 阿莫代伊（Dario Amodei）早在 2010 年就曾通过熟人结识埃隆 · 马斯克并受邀参观 SpaceX 办公室。 据称，马斯克当时还向他发出了工作邀请，但达里奥最终选择拒绝。他认为自己的专业能力更适合计算生物学，而不是火箭工程。 达里奥当时正处于职业方向选择阶段。他曾就读于加州理工学院，随后转入斯坦福大学，并在普林斯顿大学攻读物理学博士学位，之后将研究方向转向生物学。与直接进入科技行业相比，他最初更倾向于利用科学研究推动医疗和生物技术进步。 这次与马斯克的接触，是他从学术研究转向科技行业过程中的",
-     "source": "东方财富股票",
-     "zh": "达里奥2010年曾拒绝马斯克招揽 2016年加入OpenAI后又出走创立Anthropic"
-    },
-    {
      "title": "2018年末的剧本：美联储持续加息，美股从9月高点暴跌20%，迫使美联储1月“转向”",
      "link": "https://wallstreetcn.com/articles/3786429",
      "pubDate": "Sat, 21 Nov 2026 13:22:07 +0800",
@@ -2410,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "The AI cyber threat is already here"
     },
     {
-     "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
-     "link": "https://wallstreetcn.com/articles/3786426",
-     "pubDate": "Sat, 21 Nov 2026 11:44:58 +0800",
-     "summary": "美股连续七日下跌，高盛衍生品交易员警告，当前市场正显现2018年四季度暴跌行情的相似特征，本轮调整可能尚未结束。 高盛衍生品策略师Brian Garrett在周五发布的报告中指出，当 前市场走势、技术面和交易结构均与2018年有明显相似之处。他通过对比两轮行情的指数跌幅，评估主要股指可能面临的进一步调整空间。 Garrett回忆起2018年12月24日的市场崩跌。 当时，一位客户问他：“为什么今天跌了这么多？”Garrett坦言：“完全不知道。” 即便是经验丰富的交易员，面对突如其来的剧烈抛售，也难以判断市场究竟为何失控。 不过，历史相似并不意味着行情必然重复。此次市场调整中，信用市场尚未出现",
-     "source": "华尔街见闻",
-     "zh": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”"
-    },
-    {
      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 03:20:00 GMT",
@@ -2440,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。 本周， 费城半导体指数（SOX）重挫逾10%，创2001年以来最惨烈的单周表现，芯片板块整体市值蒸发约2.3万亿美元。英伟达股价连续第七周下跌，创2008年以来最长连跌纪录，自历史高点以来市值缩水约2.7万亿美元，相当于跌掉一个亚马逊。 抛售潮迅速蔓延至整个美股市场。标普500指数连续七个交易日下跌，单周跌幅超过9%，创近年来最大单周跌幅；纳斯达克100指数单周下跌逾10%，年内涨幅悉数回吐。VIX一度突破40，市场恐慌情绪急剧升温。 值得注意的是，英伟达财报表现亮眼、Anthropic创纪录IP",
      "source": "华尔街见闻",
      "zh": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”"
-    },
-    {
-     "title": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
-     "link": "https://wallstreetcn.com/articles/3786422",
-     "pubDate": "Sat, 21 Nov 2026 09:35:48 +0800",
-     "summary": "美股新一轮剧烈抛售正在蔓延，高盛警告，市场可能陷入“抛售引发更多抛售”的恶性循环，未来一周仍有大规模卖盘等待释放。 11月21日，据彭博报道，高盛交易员周五发布研报称， 该行“恐慌指数”已升至10分满分中的9分，系统性投资者的抛售压力全面扩散。根据高盛模型，即使市场保持平稳，趋势追踪基金未来一周仍可能抛售数百亿美元股票；若市场进一步下跌，卖盘规模还将显著扩大。 本轮跌势已对科技股造成沉重打击。纳斯达克100指数周五单日重挫5.6%，创2020年3月以来最大单周跌幅；费城半导体指数大跌11%，英伟达自10月6日高点以来累计下挫近50%。与此同时，抛售开始波及散户偏好股票及加密货币相关资产，市场压",
-     "source": "华尔街见闻",
-     "zh": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”"
     },
     {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -2520,6 +2480,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "United Fire declares $0.20 dividend"
+    },
+    {
+     "title": "Bentley Systems raises dividend by 14.3% to $0.08",
+     "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:37:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
+    },
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
+     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+     "source": "Financial Times",
+     "zh": "Nvidia faces US regulator’s probe into its accounting"
+    },
+    {
+     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
+     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
+    },
+    {
+     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+     "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:52:25 GMT",
+     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+     "source": "Financial Times",
+     "zh": "US tech stocks plunge into bear market in worst week since Covid-19 crisis"
+    },
+    {
+     "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+     "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
+     "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+     "source": "MarketWatch",
+     "zh": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock"
     }
    ]
   },
@@ -2591,7 +2591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:33 +0000",
      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
      "source": "Ars Technica Science",
-     "zh": "美国宇航局的新月球计划正在成形，但仍然存在一些大问题"
+     "zh": "NASA’s new Moon plan is taking shape, but some big questions remain"
     },
     {
      "title": "New approach enables physically consistent AI models of chaotic systems",
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
      "source": "Ars Technica Science",
-     "zh": "火箭报道：跌宕起伏的周末；斯托克庆祝发动机里程碑"
+     "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
     },
     {
      "title": "A fast-growing heart is good for the Grinch. People are another story",
@@ -2687,7 +2687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
      "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
      "source": "Live Science",
-     "zh": "萨顿胡出土幽灵“沙体”双重墓葬"
+     "zh": "Ghostly 'sand body' double burial unearthed at Sutton Hoo"
     },
     {
      "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 04:12:16",
+ "generated_at": "2026/11/22 04:32:17",
  "recent_days": 7,
  "industries": [
   {
@@ -26,6 +26,22 @@ window.INDUSTRY_DATA = {
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
+     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+     "link": "https://www.qbitai.com/2026/11/511855.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
+    },
+    {
+     "title": "中国计算，走出新的登峰之路",
+     "link": "https://www.qbitai.com/2026/11/511849.html",
+     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "中国计算，走出新的登峰之路"
+    },
+    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -42,28 +58,36 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
     },
     {
+     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+     "link": "https://www.qbitai.com/2026/11/511841.html",
+     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
+    },
+    {
+     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+     "link": "https://www.qbitai.com/2026/11/511830.html",
+     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
+    },
+    {
+     "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+     "link": "https://www.qbitai.com/2026/11/511791.html",
+     "pubDate": "Sat, 21 Nov 2026 11:24:29 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢"
+    },
+    {
      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
      "link": "https://www.qbitai.com/2026/11/511779.html",
      "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
      "summary": "还实现可变形物体操控全球首通",
      "source": "量子位",
      "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -202,22 +226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chips can survive the space environment — can their financing?"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
      "source": "MarkTechPost",
      "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
-    },
-    {
-     "title": "Decision AI Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-     "source": "KDnuggets",
-     "zh": "Decision AI Explained in 5 Minutes"
     }
    ]
   },
@@ -1786,6 +1786,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+     "link": "https://www.techmeme.com/261121/p10#a261121p10",
+     "pubDate": "Sat, 21 Nov 2026 15:10:02 -0500",
+     "summary": "Dan Goodin / Ars Technica : Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &ldquo;ZDR&rdquo; policies, and saw &ldquo;privacy&rdquo; often broken, keys stolen &nbsp; &mdash;&nbsp; Researchers planted 2 million digital tripwires in requests sent t",
+     "source": "Techmeme",
+     "zh": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)"
+    },
+    {
      "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
      "link": "https://www.techmeme.com/261121/p9#a261121p9",
      "pubDate": "Sat, 21 Nov 2026 13:55:01 -0500",
@@ -1802,12 +1810,44 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says reported FBI database hack is ‘not good’"
     },
     {
+     "title": "Upload2Shell · CVE-2026-125396",
+     "link": "https://pwn.ai/upload2shell",
+     "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
+     "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 16 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Upload2Shell · CVE-2026-125396"
+    },
+    {
+     "title": "Inkling-2-Mini in 5.4 GB Memory",
+     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+     "pubDate": "Sat, 21 Nov 2026 18:02:19 +0000",
+     "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 172 # Comments: 28",
+     "source": "Hacker News",
+     "zh": "Inkling-2-Mini in 5.4 GB Memory"
+    },
+    {
+     "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+     "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+     "pubDate": "Sat, 21 Nov 2026 17:59:59 +0000",
+     "summary": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 125 # Comments: 214",
+     "source": "Hacker News",
+     "zh": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists"
+    },
+    {
      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
      "link": "https://www.techmeme.com/261121/p8#a261121p8",
      "pubDate": "Sat, 21 Nov 2026 12:55:01 -0500",
      "summary": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week &nbsp; &mdash;&nbsp; Acquisition would help AWS compete with Nvidia in race for computing power&nbsp; &mdash;&nbsp; Amazon is nearing",
      "source": "Techmeme",
      "zh": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)"
+    },
+    {
+     "title": "PostgreSQL Extensions in Go",
+     "link": "https://jespino.github.io/gopgext/",
+     "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
+     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 70 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "PostgreSQL Extensions in Go"
     },
     {
      "title": "美国发审计牌照，中国改会计准则：AI 验收的两种活法",
@@ -1826,12 +1866,28 @@ window.INDUSTRY_DATA = {
      "zh": "今日小雪：雨凝为雪，地气冻结"
     },
     {
+     "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+     "link": "https://math.mit.edu/~drew/grh/",
+     "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
+     "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 51 # Comments: 16",
+     "source": "Hacker News",
+     "zh": "Verification files for the Lean proof of the Riemann Hypothesis"
+    },
+    {
      "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
      "link": "https://www.ithome.com/1/030/510.htm",
      "pubDate": "Sat, 21 Nov 2026 15:43:31 GMT",
      "summary": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现。外媒 insideevs 今天（21 日）介绍了一辆“复活”的 1967 款保时捷 912，该车由改装厂商 Inverted 经手，改装团队为它装上了电池组和电动机。 改装完成后，车辆外观与原厂 912 毫无二致，经典的复古造型得以完整保留，开起来却已经是一辆当代的电动汽车。 这套改装最巧妙的地方在于电池布局。由于车身本就轻巧，62kWh 的电池组因此足以让车辆拥有相当可观的续航。然而，电池重量如果全部集中在后轴上方，却会让车尾负担过重。 老款风冷保时捷本来就容易在收油时出现转向过度，再增加后部重量，",
      "source": "IT之家",
      "zh": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里"
+    },
+    {
+     "title": "Show HN: Zero C# – C# without a runtime or GC",
+     "link": "https://onurgumus.github.io/zero-csharp/index.html",
+     "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 75 # Comments: 53",
+     "source": "Hacker News",
+     "zh": "Show HN: Zero C# – C# without a runtime or GC"
     },
     {
      "title": "比亚迪腾势 B5 海外“秀肌肉”，两轮成功拉动 180 吨客机",
@@ -1968,62 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI能批量生成，不等于能出彩",
      "source": "钛媒体",
      "zh": "2026年了，AI能有什么用？"
-    },
-    {
-     "title": "并表和IP，不是腾讯音乐的长效药",
-     "link": "https://www.tmtpost.com/8213524.html",
-     "pubDate": "Sat, 21 Nov 2026 19:20:46 +0800",
-     "summary": "腾讯音乐越来越像个消费品公司。",
-     "source": "钛媒体",
-     "zh": "并表和IP，不是腾讯音乐的长效药"
-    },
-    {
-     "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
-     "link": "https://www.tmtpost.com/8213535.html",
-     "pubDate": "Sat, 21 Nov 2026 19:19:38 +0800",
-     "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
-     "source": "钛媒体",
-     "zh": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地"
-    },
-    {
-     "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
-     "link": "https://www.solidot.org/story?sid=85952",
-     "pubDate": "Sat, 21 Nov 2026 19:09:59 +0800",
-     "summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人类数学家不得不匆忙提前发布证明手稿。该证明手稿没有使用任何 AI 工具，完全由人类自己完成。",
-     "source": "Solidot",
-     "zh": "人类数学家匆忙发布广义黎曼猜想的证明手稿"
-    },
-    {
-     "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-     "link": "https://www.wired.com/story/best-laptops-for-travel/",
-     "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
-     "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-     "source": "WIRED",
-     "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
-    },
-    {
-     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
-     "link": "https://www.solidot.org/story?sid=85951",
-     "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
-     "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
-     "source": "Solidot",
-     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
-    },
-    {
-     "title": "“奶茶第一股”的翻红账本",
-     "link": "https://www.tmtpost.com/8212602.html",
-     "pubDate": "Sat, 21 Nov 2026 18:32:15 +0800",
-     "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
-     "source": "钛媒体",
-     "zh": "“奶茶第一股”的翻红账本"
-    },
-    {
-     "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
-     "link": "https://www.solidot.org/story?sid=85950",
-     "pubDate": "Sat, 21 Nov 2026 18:11:05 +0800",
-     "summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、服务器和系统 100% 恢复到原始状态，受害者不需要向勒索软件组织屈服。RansomwareHelp.com 称其密码学专家利用独有工具和算法，能实现 100% 的数据恢复，成功率超过 99%。这家成立六年的公司声称有逾 28 年的行业经验，拥有一支由 80 名密码学、网络安全、取证分析和逆向工程专家组成的团队。它表示不会代表客户去促成、充当中间人，或向勒索者支付赎金。然而根据本周递交到罗德岛州 的诉讼，该公司联合创始人兼 CTO Juan",
-     "source": "Solidot",
-     "zh": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why Apple Vision Pro never took off like Meta's VR headsets",
+     "link": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 +0000",
+     "summary": "The Apple Vision Pro debuted to massive hype in 2024, but the years since then have not been kind to Apple's megabucks mixed-reality headset.",
+     "source": "Engadget",
+     "zh": "Why Apple Vision Pro never took off like Meta's VR headsets"
+    },
     {
      "title": "How to block a device from your home network",
      "link": "https://www.engadget.com/2318874/how-to-block-device-home-network/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung’s strategy for the mid-range segment in the US left us scratching our heads – the Galaxy A57 launched at $550 for an 8/128GB unit, which later grew to $600 after a round of price hikes. That’s too much, why wouldn’t you just buy a Galaxy S25 FE instead? One reason is that availability was st",
      "source": "GSMArena",
      "zh": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale"
-    },
-    {
-     "title": "Which car has the largest infotainment touchscreen?",
-     "link": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
-     "pubDate": "Sat, 21 Nov 2026 19:00:00 +0000",
-     "summary": "Most modern cars will have some kind of infotainment touchscreen, though not all are created equal. One car, in particular, rules the roost for sheer size.",
-     "source": "Engadget",
-     "zh": "Which car has the largest infotainment touchscreen?"
     },
     {
      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
@@ -2282,6 +2282,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
      "title": "沙特主导的多国联军称拦截并摧毁一架来袭无人机",
      "link": "http://finance.eastmoney.com/news/1351,202611223936858262.html",
      "pubDate": "Sun, 22 Nov 2026 03:55:54 +0800",
@@ -2418,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Alice Huang’s links to the chip underworld"
     },
     {
-     "title": "Real estate stocks dip alongside broader markets even as long-term yields go down",
-     "link": "https://seekingalpha.com/news/4675287-real-estate-stocks-dip-alongside-broader-markets-even-as-long-term-yields-go-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 12:00:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Real estate stocks dip alongside broader markets even as long-term yields go down"
-    },
-    {
      "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
      "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
      "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
      "summary": "This would make the second recent intrusion into the FBI system.",
      "source": "CNBC",
      "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
-    },
-    {
-     "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 16:50:00 GMT",
-     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-     "source": "MarketWatch",
-     "zh": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom."
     },
     {
      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",

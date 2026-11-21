@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 21:11:54",
+ "generated_at": "2026/11/21 21:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,6 +1786,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”",
+     "link": "https://www.ithome.com/1/030/478.htm",
+     "pubDate": "Sat, 21 Nov 2026 13:16:27 GMT",
+     "summary": "IT之家 11 月 21 日消息，当地时间 19 日，据 BBC 报道，英国开展了一项保密的网络安全行动，保护各大超市、仓库、餐厅、加油站及体育场馆内 数万台冰箱和冷冻柜 ，防止黑客入侵。 据IT之家了解，欧洲近期接连发生多轮网络攻击，数百家门店的数吨食品因此变质，损失达数百万英镑。 此前，外界认为英国基本避开了此类黑客攻击，原因是英国制冷行业 采用了不同类型的设备 。实际上，英国制冷行业 也存在一个潜在漏洞 ，业界一直在加紧修补。 10 月下旬，安全研究人员发现一处重大漏洞。一旦被黑客发现，这一漏洞可能给英国 造成更加严重的损害 。此后，研究人员、IT 团队和英国国家网络安全中心（NCSC）",
+     "source": "IT之家",
+     "zh": "为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”"
+    },
+    {
+     "title": "中创新航通过大众汽车电池测试中心认证，已具备为奥迪、保时捷、兰博基尼等品牌电池包开展测试的能力",
+     "link": "https://www.ithome.com/1/030/477.htm",
+     "pubDate": "Sat, 21 Nov 2026 13:14:21 GMT",
+     "summary": "IT之家 11 月 21 日消息，11 月 19 日，中创新航研究院实验室正式通过大众汽车集团电池测试中心认证，获得大众官方认可证书， 具备为大众集团电芯、电池包产品开展合规检测、验证的专业能力 。 官方表示，该资质落地后， 中创新航可在研究院实验室内部完成大众电芯、电池包相关验证试验 ，减少样品外送和跨机构对接环节，实现测试与研发同步联动，加快电池方案迭代速度，同时保障测试数据可控、可追溯，稳定输出符合大众高标准的动力电池产品。 IT之家从官方新闻稿获悉，中创新航已搭建覆盖电芯、模组、电池包全层级，涵盖环境箱、冲击、挤压、热失控、电性能等项目的测试平台，建立标准化测试流程和数据闭环管理体系。",
+     "source": "IT之家",
+     "zh": "中创新航通过大众汽车电池测试中心认证，已具备为奥迪、保时捷、兰博基尼等品牌电池包开展测试的能力"
+    },
+    {
+     "title": "江苏，为什么没有新型研究型大学？",
+     "link": "https://www.huxiu.com/article/4907418.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 21:11:37 +0800",
+     "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 最近，我看到这样一张图： 这是软科最新整理的全国新型研究型大学版图，可以看到，沿海省份几乎连成了一条完整的科创带：济南落子空天信息大学，青岛布局了康复大学，上海有上海科技大学，浙江坐拥西湖大学、钱塘大学与宁波东方理工大学，福建有福耀科技大学，广东更是一口气拿出了南方科技大学、深圳理工大学、深圳海洋大学、大湾区大学四所院校。 从北到南，“新型研究型大学”几乎成了沿海省份重点城市科创实力的标配，不少新晋强市都借着这股东风，拿到了高教升级的新门票。 可唯独夹在上海与浙江之间、高教家底素来厚实的江苏，在这幅红火的版图上留下的，是一块完整又扎眼的空",
+     "source": "虎嗅",
+     "zh": "江苏，为什么没有新型研究型大学？"
+    },
+    {
      "title": "全国首条超百公里纯氢长输管道在内蒙古启运，核准年输氢量 10 万吨",
      "link": "https://www.ithome.com/1/030/476.htm",
      "pubDate": "Sat, 21 Nov 2026 13:03:18 GMT",
@@ -1850,26 +1874,10 @@ window.INDUSTRY_DATA = {
      "zh": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失"
     },
     {
-     "title": "vivo S60t 手机上架：第四代骁龙 7s 处理器、12GB RAM，3199 元起",
-     "link": "https://www.ithome.com/1/030/471.htm",
-     "pubDate": "Sat, 21 Nov 2026 12:24:50 GMT",
-     "summary": "IT之家 11 月 21 日消息，vivo 现已在京东上架 S60t 手机，该机可以看作是 S60 手机的换芯版，主要将 SoC 从第三代骁龙 8s 换成第四代骁龙 7s，匹配 12GB RAM，定价为 3599 元起，首发价 3199 元起（国补后 2448.86 元起）。 京东 vivo S60t 券后 3199 元起 领 400 元券 12GB RAM + 256GB 存储空间：3599 元，首发价 3199 元 12GB RAM + 512GB 存储空间：3999 元 该机厚度 7.92mm，重量轻至 199g，提供星星海、初夏绿、仲夏夜三种颜色可选。正面配备一块 6.59 英寸 12",
-     "source": "IT之家",
-     "zh": "vivo S60t 手机上架：第四代骁龙 7s 处理器、12GB RAM，3199 元起"
-    },
-    {
-     "title": "荣耀林林展示超级快充双口充电器 GaN Max 120W，11 月 23 日发布",
-     "link": "https://www.ithome.com/1/030/470.htm",
-     "pubDate": "Sat, 21 Nov 2026 12:21:27 GMT",
-     "summary": "IT之家 11 月 21 日消息，荣耀中国区智慧生活业务部部长林林昨天下午展示了一款荣耀品牌的新款充电器，重约 103.9g。 林林今日表示，这款新品将于 11 月 23 日与荣耀 700 系列手机一同发布。 商品包装显示，这款新品名称为荣耀超级快充双口充电器 GaN（Max 120W），采用可收纳折叠插脚，附赠 1 米 C 口数据线，支持苹果 AVS 动态快充 60W Max，支持 65W 充电脑，单口快充随意插 120W Max。 IT之家附产品规格： 输入：200-240V～50/60Hz，2.5A 单口 C1/C2 输出： PDO：5V 3A 或 9V 3A 或 12V 3A 或 15",
-     "source": "IT之家",
-     "zh": "荣耀林林展示超级快充双口充电器 GaN Max 120W，11 月 23 日发布"
-    },
-    {
      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
      "pubDate": "Sat, 21 Nov 2026 12:15:41 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 20 # Comments: 14",
      "source": "Hacker News",
      "zh": "Adult-only households accounted for 55% of toy sales in the first half of 2026"
     },
@@ -1970,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "人类数学家匆忙发布广义黎曼猜想的证明手稿"
     },
     {
-     "title": "头部餐饮，扎堆“折腾”新店型",
-     "link": "https://www.huxiu.com/article/4907405.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 19:08:32 +0800",
-     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 近一个月内， 超10家头部餐饮开出非标新店 今年，餐饮行业出现了一个明显变化：头部品牌的店型创新正在提速。单是近一个月的品牌案例就两个手都数不过来，涉及正餐、快餐、茶饮、火锅等多个赛道。 越来越多品牌不再惯于复制原有的标准化门店，而是开始尝试不同的空间形态、消费场景和经营模型。有的“店中店”试水，有的围绕特定场景做文章，也有的从经营模式上寻找突破。 西贝就是一个典型案例。 10月底，西贝在其北京旗舰店内内嵌50㎡火锅专区，打造“腾格里草原鲜肉火锅”全新模型。主打一人一锅、草原鲜羊涮品，锅底低至13元/位，整体人均110元。门店整体分为两大用餐",
-     "source": "虎嗅",
-     "zh": "头部餐饮，扎堆“折腾”新店型"
-    },
-    {
      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
      "link": "https://www.wired.com/story/best-laptops-for-travel/",
      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 27 # Comments: 6",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 39 # Comments: 10",
      "source": "Hacker News",
      "zh": "My Monitor Was Cutting My Download Speed by 75%"
     },
@@ -2005,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
      "pubDate": "Sat, 21 Nov 2026 10:33:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 58 # Comments: 25",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 62 # Comments: 28",
      "source": "Hacker News",
      "zh": "FBI reportedly investigating apparent hack of its criminal database"
     },
@@ -2034,12 +2034,36 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "What are the actual differences between cheap and expensive sound systems?",
+     "link": "https://www.engadget.com/2317772/cheap-vs-expensive-sound-system-difference-explained/",
+     "pubDate": "Sat, 21 Nov 2026 13:15:00 +0000",
+     "summary": "Cheap soundbars are a good upgrade for basic TV watching, but what does spending more get you and how much is worth it?",
+     "source": "Engadget",
+     "zh": "What are the actual differences between cheap and expensive sound systems?"
+    },
+    {
+     "title": "Why Sony's new digital Walkmans cost thousands of dollars",
+     "link": "https://www.engadget.com/2322505/why-sony-digital-walkmans-cost-thousands/",
+     "pubDate": "Sat, 21 Nov 2026 13:15:00 +0000",
+     "summary": "Sony just opened pre-orders for three new Walkmans with jaw-dropping price tags. Here is what the money buys and why the numbers may not add up.",
+     "source": "Engadget",
+     "zh": "Why Sony's new digital Walkmans cost thousands of dollars"
+    },
+    {
      "title": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday",
      "link": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
      "pubDate": "Sat, 21 Nov 2026 13:07:21 +0000",
      "summary": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
      "source": "Android Authority",
      "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
+    },
+    {
+     "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+     "link": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
+     "pubDate": "Sat, 21 Nov 2026 12:59:00 +0000",
+     "summary": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config , the Mac deals are wild this week with as much as $250 off the brand new M6 MacBook Pro and PROL",
+     "source": "9to5Mac",
+     "zh": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more"
     },
     {
      "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
@@ -2210,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "9to5Mac Overtime 091: Kicking the tires and seeing what works"
     },
     {
-     "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
-     "link": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac/",
-     "pubDate": "Fri, 20 Nov 2026 21:50:12 +0000",
-     "summary": "If you're excited about GTA 6, chances are you'll want to keep playing it when you're away from your console.",
-     "source": "Engadget",
-     "zh": "How to stream GTA 6 on your iPhone, iPad or Mac"
-    },
-    {
      "title": "Pixelated 126: Schrödinger’s DoorDash notification",
      "link": "https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/",
      "pubDate": "Fri, 20 Nov 2026 21:30:00 +0000",
@@ -2232,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "There's some good news for iPhone users too.",
      "source": "Android Authority",
      "zh": "Google Health 5.13 update makes tracking workouts and meals easier"
-    },
-    {
-     "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
-     "link": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/",
-     "pubDate": "Fri, 20 Nov 2026 21:02:54 +0000",
-     "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
-     "source": "Engadget",
-     "zh": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security"
     },
     {
      "title": "Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
      "source": "9to5Mac",
      "zh": "Apple Watch Series 12: Four standout features make me glad I upgraded"
-    },
-    {
-     "title": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
-     "link": "https://9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next/",
-     "pubDate": "Fri, 20 Nov 2026 19:52:21 +0000",
-     "summary": "Apple TV ( now $6.99/month for limited time ) is primarily home to original shows and movies, but Apple recently started adding fan-favorite classic films too. Here’s what’s new and coming next. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next"
     }
    ]
   },
@@ -2281,6 +2281,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "State and federal battle over prediction markets regulation heats up after midterms",
+     "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+     "pubDate": "Sat, 21 Nov 2026 13:12:41 GMT",
+     "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+     "source": "CNBC",
+     "zh": "State and federal battle over prediction markets regulation heats up after midterms"
+    },
     {
      "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away",
      "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
@@ -2328,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "From ChatGPT to Claude deals: Walmart looks like an agentic AI winner"
-    },
-    {
-     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
-     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-     "source": "CNBC",
-     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
     },
     {
      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",

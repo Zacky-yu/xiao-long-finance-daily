@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 14:11:52",
+ "generated_at": "2026/11/21 14:31:52",
  "recent_days": 7,
  "industries": [
   {
@@ -1386,14 +1386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
      "pubDate": "Fri, 20 Nov 2026 19:00:00 +0000",
@@ -1458,14 +1450,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1504,14 +1488,6 @@ window.INDUSTRY_DATA = {
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1554,12 +1530,20 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1786,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "家门口的养老院正在消失",
+     "link": "https://www.huxiu.com/article/4907382.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 14:19:35 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：田进 曾经热情引进这些项目的地方政府工作人员，开始劝秦新关停建筑条件不符合监管要求的机构，也对之前的努力付诸东流表示遗憾。一年内，秦新关停了当地一批设施不达标的社区嵌入型养老机构，数量约占集团在当地机构总量的一半。 今年上半年，秦新将养老院关停的通知发给老人和家属后，就迎来了“让他难以招架”的情绪反馈。 这是一家位于一线城市的社区养老院，约有40张护理床位，已运营近十年时间，常年处于满住状态，入住的大部分是周围厂区的失能、半失能老人。 秦新很能理解家属们的情绪。对老人和家属来说，搬离住了多年的养老院，几乎是一场煎熬：家属要花时间重新挑选养老院，新选的养",
+     "source": "虎嗅",
+     "zh": "家门口的养老院正在消失"
+    },
+    {
+     "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
+     "link": "https://www.techmeme.com/261121/p3#a261121p3",
+     "pubDate": "Sat, 21 Nov 2026 01:10:02 -0500",
+     "summary": "Todd Bishop / GeekWire : Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts &nbsp; &mdash;&nbsp; Microsoft acquired the popular Wunderlist app in 2015, shut it down in 2020 and told its loyal ",
+     "source": "Techmeme",
+     "zh": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)"
+    },
+    {
      "title": "孟加拉COD回款要45天，自建车队还是换第三方物流能压到30天内？",
      "link": "https://www.baijing.cn/question/638871",
      "pubDate": "Sat, 21 Nov 2026 06:07:14 +0000",
@@ -1794,28 +1794,28 @@ window.INDUSTRY_DATA = {
      "zh": "孟加拉COD回款要45天，自建车队还是换第三方物流能压到30天内？"
     },
     {
+     "title": "入门手机恐无缘：谷歌 3D Emoji“吃配置”，需安卓 17、内存 6GB、总存储 128GB",
+     "link": "https://www.ithome.com/1/030/356.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:03:18 GMT",
+     "summary": "IT之家 11 月 21 日消息，根据谷歌最新更新的支持文档，谷歌为安卓 Noto 3D Emoji 表情符号设置了硬件门槛要求： 安卓 17 及更高版本、至少 6GB 内存，并拥有 128GB 总存储及 10GB 可用空间。 IT之家曾于今年 5 月报道，在 2026 年 Android Show I/O Edition 活动中，谷歌宣布重绘安卓系统全部约 4000 个 Emoji 标签， 升级现有的扁平风格为 3D 设计，官方名称为 Noto 3D 。 谷歌强调，新版 3D 表情采用高分辨率位图字体（并非常见的矢量图形），表情能呈现更明显的立体层次、材质细节和更丰富的角色姿态会显得“更鲜活",
+     "source": "IT之家",
+     "zh": "入门手机恐无缘：谷歌 3D Emoji“吃配置”，需安卓 17、内存 6GB、总存储 128GB"
+    },
+    {
+     "title": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频",
+     "link": "https://www.ithome.com/1/030/355.htm",
+     "pubDate": "Sat, 21 Nov 2026 06:02:21 GMT",
+     "summary": "IT之家 11 月 21 日消息，华擎 X870E Taichi 太极 OCF 主板现已在京东上架开售，定价显示为 4299 元。 京东 华擎（ASRock）X870E TaiChi 太极 OCF 主板 DDR5 支持 AMD CPU 9800X3D/9850X3D（AMD X870E/Socket AM5) 4299 元 直达链接 该主板采用 22+2+1 相供电设计，核心与 SOC 均采用 110A SPS 智能功率级，可独立监控每一相电源；搭配新一代 Dr. MOS，在增强超频能力的同时有效控制温度表现，可支持 R9 级处理器。 在内存方面，该主板支持 10400 MHz 以上频率的 D",
+     "source": "IT之家",
+     "zh": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频"
+    },
+    {
      "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
      "link": "https://www.techmeme.com/261121/p2#a261121p2",
      "pubDate": "Sat, 21 Nov 2026 01:00:55 -0500",
      "summary": "Cheng Ting-Fang / Nikkei Asia : Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips &nbsp; &mdash;&nbsp; TAIPEI &mdash; Tighter U.S. export controls introduced Thursday are having a far broader imp",
      "source": "Techmeme",
      "zh": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)"
-    },
-    {
-     "title": "Therabody Promo Codes: 15% Off November 2026",
-     "link": "https://www.wired.com/story/therabody-promo-code/",
-     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
-     "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-     "source": "WIRED",
-     "zh": "Therabody Promo Codes: 15% Off November 2026"
-    },
-    {
-     "title": "20% Off Brooks Promo Code | November 2026",
-     "link": "https://www.wired.com/story/brooks-promo-code/",
-     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
-     "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-     "source": "WIRED",
-     "zh": "20% Off Brooks Promo Code | November 2026"
     },
     {
      "title": "Mint Mobile Discounts for November 2026",
@@ -1850,12 +1850,52 @@ window.INDUSTRY_DATA = {
      "zh": "Motorola Coupon Code for November 2026"
     },
     {
+     "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+     "link": "https://www.wired.com/story/total-wireless-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+     "source": "WIRED",
+     "zh": "Total Wireless Promo Codes & Deals: 50% Off Select Plans"
+    },
+    {
+     "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+     "link": "https://www.wired.com/story/nike-promo-code/",
+     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+     "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+     "source": "WIRED",
+     "zh": "Nike Promo Codes and Discounts: 30% for November 2026"
+    },
+    {
+     "title": "韦布望远镜拍到却没看见：科学家从旧数据中发现遗漏巨行星，新算法将探测灵敏度提升 15 倍",
+     "link": "https://www.ithome.com/1/030/354.htm",
+     "pubDate": "Sat, 21 Nov 2026 05:52:48 GMT",
+     "summary": "IT之家 11 月 21 日消息，美国西北大学（Northwestern University）研究团队开发了一种新的系外行星成像处理技术，从詹姆斯 · 韦布空间望远镜（JWST）此前拍摄的数据中，成功识别出一颗此前未能通过常规图像处理方法观测到的巨行星。 研究人员表示，这项技术可将望远镜对暗弱行星的探测灵敏度提升 2 至 15 倍。研究成果于 11 月 4 日发表于《自然》。 这颗行星名为 51 Eridani b，此前已经由地面望远镜发现，但由于宿主恒星的强烈光芒干扰，天文学家一直无法从韦布望远镜的一组红外观测数据中辨认出它。 系外行星直接成像面临的一大难题，是恒星与行星之间巨大的亮度差异",
+     "source": "IT之家",
+     "zh": "韦布望远镜拍到却没看见：科学家从旧数据中发现遗漏巨行星，新算法将探测灵敏度提升 15 倍"
+    },
+    {
+     "title": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务",
+     "link": "https://www.ithome.com/1/030/353.htm",
+     "pubDate": "Sat, 21 Nov 2026 05:48:08 GMT",
+     "summary": "IT之家 11 月 21 日消息，据《每日经济新闻》报道，近日，华为星芒相关负责人在接受媒体采访时透露，星芒品牌已在内部酝酿约三年， 未来一两年，公司不会对其提出过高的销量及经营目标要求 。现阶段，星芒更重要的任务是建立品牌认知、培育目标用户，并验证新的 AI 技术与产品体验。 一个酝酿了约三年的新品牌，为何直到现在才正式推出？华为相关负责人解释称，荣耀独立之后，华为曾经历一段较长时间的供应链和技术体系重建，随后又投入大量资源建设鸿蒙操作系统及应用生态。直到相关基础能力逐步成熟，才具备推出新品牌的条件。 谈及新品牌的销量预期时，华为相关负责人表示：“这一两年新品牌首先是要建立心智，把品牌真正树",
+     "source": "IT之家",
+     "zh": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务"
+    },
+    {
      "title": "谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆",
      "link": "https://www.huxiu.com/article/4907380.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 13:45:23 +0800",
      "summary": "本文来自微信公众号： 新智元 ，编辑：Aeneas大卫，作者：ASI启示录，原文标题：《谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆》 谷歌内部，或许真正实现了RSI！ 从此，Gemini已能「继承经验」持续自我进化，Gemini新模型不再从零开始！ 或许也正是这个原因，谷歌最近跟疯了似的不停发模型。 Gemini 4 Hydrogen才发布不到一周，更强的Gemini 4 Neon就来了。 答案，或许藏在谷歌与宾夕法尼亚州立大学深夜联合发布的一篇最新论文里。 谷歌的顶级研究员们，搞出了一个「自我改进记忆」（Self-Improvement Memory，简称",
      "source": "虎嗅",
      "zh": "谷歌重磅论文：内部已实现RSI，Opus经验喂给Gemini，AI拥有进化记忆"
+    },
+    {
+     "title": "约 320 亿美元债券落地：马斯克 SpaceX 为英伟达芯片“加杠杆”，收益率超 8%",
+     "link": "https://www.ithome.com/1/030/351.htm",
+     "pubDate": "Sat, 21 Nov 2026 05:42:19 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 The Information 最新博文报道称， 全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 昨日（11 月 20 日）完成约 320 亿美元 （IT之家注：现汇率约合 2,141.43 亿元人民币） 的债券融资，用于采购英伟达等 AI 芯片。 报道称本次 AI 芯片债券融资由高盛、以及 Apollo 管理的 Saturn Funding Trust 发行，主要用于购置英伟达芯片。 这笔债券本身是总额超过 400 亿美元 （现汇率约合 2,676.79 亿元人民币） 融资方案的一部分 ，剩余方案还包括银行贷款等。 IT之家援引博",
+     "source": "IT之家",
+     "zh": "约 320 亿美元债券落地：马斯克 SpaceX 为英伟达芯片“加杠杆”，收益率超 8%"
     },
     {
      "title": "60万本金浮亏400元，中低风险理财“变脸”了，36万亿银行理财陷净值震荡",
@@ -1898,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "达里奥 2010 年曾拒绝马斯克招揽，2016 年加入 OpenAI 后又出走创立 Anthropic"
     },
     {
-     "title": "冲刺 2027 年出海，消息称前小鹏汽车西欧及南欧董事总经理强顺强加入小米汽车",
-     "link": "https://www.ithome.com/1/030/349.htm",
-     "pubDate": "Sat, 21 Nov 2026 05:30:50 GMT",
-     "summary": "IT之家 11 月 21 日消息，据界面新闻今日报道，知情人士透露，前小鹏汽车西欧及南欧董事总经理强顺强已于今年 9 月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe）， 常驻德国 。截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应置评请求。 公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步于丰田、奔驰中国等传统企业的品牌营销体系；加入小鹏汽车之前，他担任兰博基尼大中华区销售与网络负责人。 2019 年，强顺强加入小鹏汽车，先参与国内网络渠道建设，2020 年起转向海外业务。小鹏",
-     "source": "IT之家",
-     "zh": "冲刺 2027 年出海，消息称前小鹏汽车西欧及南欧董事总经理强顺强加入小米汽车"
-    },
-    {
      "title": "中国车企在印度，工厂、股权与供应链",
      "link": "https://www.tmtpost.com/8210571.html",
      "pubDate": "Sat, 21 Nov 2026 13:28:15 +0800",
@@ -1936,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sophie McEvoy / GamesIndustry.biz : Ubisoft launches Motherbrain, a subsidiary focused on developing &ldquo;smart NPCs with memory and AI game masters that manage large-scale systemic worlds&rdquo; &nbsp; &mdash;&nbsp; Studio is currently developing &ldquo;smart NPCs with memory and AI game masters ",
      "source": "Techmeme",
      "zh": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)"
-    },
-    {
-     "title": "黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制",
-     "link": "https://www.ithome.com/1/030/348.htm",
-     "pubDate": "Sat, 21 Nov 2026 05:14:19 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 Business Insider 昨日（11 月 20 日）报道，AI 公司 Anthropic 在上市后通过特殊股权设计， 让包括 CEO 达里奥 · 阿莫代伊（Dario Amodei）在内的 7 位联合创始人共同掌握 50.1% 的股东投票权。 报道指出该安排的核心是特殊的 F 类股，即使 Anthropic 公司未来继续发行普通股，创始团队的投票权比例也不会被稀释。普通投资者持有的是常规股份，而创始团队则通过 F 类股保留对公司重大决策的最终控制权。该媒体解读认为， 即便外部资本大量进入，创始人仍能决定董事会构成、战略方向和关键人事安排。 A",
-     "source": "IT之家",
-     "zh": "黄仁勋没有的“护身符”：Anthropic 创始人手握 50.1% 投票权建立“反夺权”机制"
     },
     {
      "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
@@ -1984,46 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "算力中间商的淘金时代，结束了。",
      "source": "钛媒体",
      "zh": "东南亚AI中间商之死"
-    },
-    {
-     "title": "GrapheneOS 公开指责谷歌施压，阻挠与摩托罗拉建立第三方系统合作",
-     "link": "https://www.ithome.com/1/030/347.htm",
-     "pubDate": "Sat, 21 Nov 2026 05:05:02 GMT",
-     "summary": "IT之家 11 月 21 日消息，GrapheneOS 官方账号在 Mastodon 平台发文，公开指责谷歌试图阻止 OEM 手机厂商与其合作，甚至施压手机制造商不要支持解锁 Bootloader（引导加载程序）。 GrapheneOS 称谷歌曾多次主动联系 Android 设备制造商，询问对方是否正在与 GrapheneOS 合作，并声称谷歌随后会利用 Google Mobile Services（GMS）授权条款向手机厂商施压。 GrapheneOS 指出，相关 GMS 授权条款此前已受到多个司法机构的反垄断审查，并认为谷歌正试图阻止其获得 Pixel 手机以外的硬件支持。 Graphen",
-     "source": "IT之家",
-     "zh": "GrapheneOS 公开指责谷歌施压，阻挠与摩托罗拉建立第三方系统合作"
-    },
-    {
-     "title": "12 张二手英伟达 V100：律师自建 AI 集群跑 DeepSeek，最高每秒 184 个词元",
-     "link": "https://www.ithome.com/1/030/346.htm",
-     "pubDate": "Sat, 21 Nov 2026 05:00:14 GMT",
-     "summary": "IT之家 11 月 21 日消息，律师 u/TumbleweedNew6515 昨日（11 月 20 日）在 Reddit 社区发帖，斥资 9,450 美元 （IT之家注：现汇率约合 63,239 元人民币） 使用 12 张二手英伟达 V100 显卡搭建私人 AI 服务器，本地运行 DeepSeek-V4.1-Flash，集群最高吞吐量达到每秒 184 个词元。 在硬件部分，该律师使用 12 张英伟达 NVIDIA Tesla V100 SXM2 32GB 搭建，通过 NVLink 与 PCIe 组成可协同推理的本地 AI 集群，整套硬件采购价约 9,450 美元 （现汇率约合 63,239 ",
-     "source": "IT之家",
-     "zh": "12 张二手英伟达 V100：律师自建 AI 集群跑 DeepSeek，最高每秒 184 个词元"
-    },
-    {
-     "title": "“纯过日子”消解了崇高，或是可以构成崇高？孕育了妥协，还是孕育了抵抗？",
-     "link": "https://www.huxiu.com/article/4907372.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 12:55:08 +0800",
-     "summary": "本文来自微信公众号： 沙丘研究所 ，作者：沙丘词典编辑团队，原文标题：《「纯过日子」消解了崇高，或是可以构成崇高？孕育了妥协，还是孕育了抵抗？》 简要释义 退却宏大叙事、专注微观日常与生计维系的生活实践者 详细释义 下班后推开菜市场的门帘，在摊位前仔细比对哪把青菜更新鲜，盘算着今晚做什么汤、明天备什么小菜。回到家，洗菜、擦地、给盆栽浇水。手机不断推送关于宏大议题的争论，你耸耸肩，并不打算多看一眼。 “纯过日子人”一词于2026年在中文社交平台上流行开来，指代一批逐渐厌倦消费攀比与过度自我审视的年轻人。他们不再为了维持社交平台上光鲜的生活形象而勉强自己支付额外的品牌溢价，也不再执着于剖析原生家庭",
-     "source": "虎嗅",
-     "zh": "“纯过日子”消解了崇高，或是可以构成崇高？孕育了妥协，还是孕育了抵抗？"
-    },
-    {
-     "title": "日本独立站客服响应超 24 小时，COD 回款周期被拖长该怎么压？",
-     "link": "https://www.baijing.cn/question/638868",
-     "pubDate": "Sat, 21 Nov 2026 04:52:26 +0000",
-     "summary": "日本站独立站做宠物智能饮水机，团队 6 人，刚起量阶段月订单约 420 单，支付走信用卡加便利店付款，物流用ヤマト運輸。日本用户对客服时效极敏感：我们邮件首次响应平均 26 小时，导致货到付款确认慢，回款周期从 14 天拖到 23 天，拒收率升到 8%。已试过外包日语客服夜班、加 FAQ 和自动回复，卡在夜间和周末没人盯、自动回复解决不了改地址和延迟发货问题。想请教从支付与履约角度，客服时效该按什么标准配人力，才能把回款周期压回 15 天以内？",
-     "source": "白鲸出海",
-     "zh": "日本独立站客服响应超 24 小时，COD 回款周期被拖长该怎么压？"
-    },
-    {
-     "title": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元",
-     "link": "https://www.ithome.com/1/030/344.htm",
-     "pubDate": "Sat, 21 Nov 2026 04:35:25 GMT",
-     "summary": "IT之家 11 月 21 日消息，Steam 黑五促销期间，多款游戏价格创下新低。例如，Electronic Arts 与 Battlefield Studios 已为《战地风云 6》开启限时优惠，标准版由 198 元降至 65.34 元，优惠 67%，创该作发售以来最低价。 《战地风云 6：年度游戏版》优惠 45%，购买者除剧情战役和传统多人模式外，还可游玩第五赛季内容，其中包括以“赌场劫案”为主题的阶段。所有玩家均可免费体验《战地风云 REDSEC》模式。《战地风云 REDSEC》整合了大逃杀、“挑战”及 Portal 编辑器，玩家可借助编辑器创建自定义场景。 《对马岛之魂：导演剪辑版》在",
-     "source": "IT之家",
-     "zh": "Steam 黑五多款游戏新史低：《战地 6》65.34 元、《对马岛之魂：导剪版》199 元、《最终幻想 7：重制版》35.64 元"
     }
    ]
   },
@@ -2282,6 +2266,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵",
+     "link": "https://wallstreetcn.com/articles/3786430",
+     "pubDate": "Sat, 21 Nov 2026 14:13:49 +0800",
+     "summary": "GPU租金持续飙升，背后可能不是AI算力需求有多强，而是融资渠道收紧造成的供给收缩。 Liquid Compute首席产品官Stanley Lee近期在Odd Lots播客中指出， 当前GPU现货和短期租金更多反映资金成本，而非底层需求变化。贷款机构收紧对中型新型云服务商（neocloud）的融资条件，迫使无法获得长期贷款的买家转向短期现货市场，反而推高了可见租金。 融资条件的变化已经相当明显。贷款机构对neocloud的贷款价值比（LTV）已从今年夏季的80%降至目前的50%至60%。与此同时，CoreWeave信用违约互换（CDS）利差扩大至约1300个基点，其2031年到期债券收益率升至",
+     "source": "华尔街见闻",
+     "zh": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵"
+    },
+    {
      "title": "余承东喊出“未来开车可以睡觉”，鸿蒙智行借享界新车卡位L3赛道",
      "link": "http://www.eeo.com.cn/2026/1121/1099058.shtml",
      "pubDate": "Sat, 21 Nov 2026 14:00:10 +0800",
@@ -2418,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "6G将迎重磅大会 这些公司抢先布局！机构资金潜伏10只概念股"
     },
     {
-     "title": "家门口的养老院正在消失",
-     "link": "http://www.eeo.com.cn/2026/1121/1098926.shtml",
-     "pubDate": "Sat, 21 Nov 2026 11:59:00 +0800",
-     "summary": "曾经热情引进这些项目的地方政府工作人员，开始劝秦新关停建筑条件不符合监管要求的机构，也对之前的努力付诸东流表示遗憾。一年内，秦新关停了当地一批设施不达标的社区嵌入型养老机构，数量约占集团在当地机构总量的一半。",
-     "source": "经济观察网",
-     "zh": "家门口的养老院正在消失"
-    },
-    {
      "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
      "link": "https://wallstreetcn.com/articles/3786426",
      "pubDate": "Sat, 21 Nov 2026 11:44:58 +0800",
@@ -2490,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”"
     },
     {
-     "title": "4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市",
-     "link": "https://wallstreetcn.com/articles/3786414",
-     "pubDate": "Sat, 21 Nov 2026 09:16:15 +0800",
-     "summary": "美国科技股遭遇新冠疫情暴发以来最惨烈的一周，AI投资热潮降温引发的恐慌情绪席卷华尔街。 周五， 纳斯达克100指数 单日重挫5.6%，当周累计下跌10.4%，创逾六年来最大单周跌幅，较10月6日盘中高点累计下跌已逾20%，正式步入熊市区间。 本周科技股市值蒸发逾4万亿美元。 到周五收盘，纳指抹平今年内累计涨幅转跌 标普500指数 同期下跌3.7%，较10月高点回调超过10%，进入技术性调整区域。 无论是业绩和指引超预期强劲的英伟达财报，还是Anthropic创纪录的IPO募资，本周都未能拯救美股 与此同时，Anthropic上市首日大涨17%的喜悦昙花一现，次日即告回落，这家AI明星公司的IP",
-     "source": "华尔街见闻",
-     "zh": "4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市"
-    },
-    {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
      "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 19:10:24 -0500",
@@ -2520,6 +2496,14 @@ window.INDUSTRY_DATA = {
      "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
      "source": "CNBC",
      "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
+    },
+    {
+     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
     }
    ]
   },

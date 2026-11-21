@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 01:52:19",
+ "generated_at": "2026/11/22 01:55:39",
  "recent_days": 7,
  "industries": [
   {
@@ -40,6 +40,30 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+     "link": "https://www.qbitai.com/2026/11/511779.html",
+     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
+     "summary": "还实现可变形物体操控全球首通",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+    },
+    {
+     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+     "link": "https://www.qbitai.com/2026/11/511570.html",
+     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+     "summary": "专为本地部署而生",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511757.html",
+     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -178,6 +202,22 @@ window.INDUSTRY_DATA = {
      "zh": "Chips can survive the space environment — can their financing?"
     },
     {
+     "title": "米哈游发了个VLA论文",
+     "link": "https://www.qbitai.com/2026/11/511740.html",
+     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
+     "summary": "8B参数，50小时自主运行",
+     "source": "量子位",
+     "zh": "米哈游发了个VLA论文"
+    },
+    {
+     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+     "link": "https://www.qbitai.com/2026/11/511727.html",
+     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
+    },
+    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
      "source": "KDnuggets",
      "zh": "Decision AI Explained in 5 Minutes"
-    },
-    {
-     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
-     "link": "https://zhidx.com/p/612799.html",
-     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
-     "source": "智东西",
-     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
-    },
-    {
-     "title": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了",
-     "link": "https://zhidx.com/p/612756.html",
-     "pubDate": "Fri, 20 Nov 2026 18:23:51 +0800",
-     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月20日报道，刚刚，华为正式发布了全新的子品牌 OSTA 星芒， 以及星芒首款新机 OSTA O1 Pro， 一款阔直板手机，也是 华为首款“鸿蒙AI手机”， 硬件方面其搭载了 韬定律芯片麒麟9030S。 2020年11月，华为官宣卖掉了子品牌荣耀，6年后，华为新子品牌星芒登场，这也是 荣耀独立出去后，华为新推出的第一个手机子品牌。 对于“OSTA”的含义，华为常务董事、终端BG董事长余承东给出解释： Original—原创、Smart—智能、Technology—科技、Accesible—触手可及。 OSTA O1 Pro首发了 鸿蒙7 A",
-     "source": "智东西",
-     "zh": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了"
-    },
-    {
-     "title": "Combatting adversarial distillation",
-     "link": "https://openai.com/index/combatting-adversarial-distillation",
-     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-     "source": "OpenAI",
-     "zh": "Combatting adversarial distillation"
-    },
-    {
-     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
-     "source": "机器之心",
-     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
-    },
-    {
-     "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "通往超级智能的四条路径",
-     "source": "机器之心",
-     "zh": "AGI还不是终点，DeepMind开始思考ASI的未来"
     }
    ]
   },
@@ -2034,6 +2034,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+     "link": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
+     "pubDate": "Sat, 21 Nov 2026 17:45:00 +0000",
+     "summary": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
+     "source": "Engadget",
+     "zh": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?"
+    },
+    {
      "title": "This retro classic is the most re-released game of all time — here's why",
      "link": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
      "pubDate": "Sat, 21 Nov 2026 17:30:00 +0000",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you've cut back your streaming subscriptions recently, you're not alone.",
      "source": "Engadget",
      "zh": "36 percent of households have ditched a streaming service subscription recently: Here's why"
-    },
-    {
-     "title": "Common reasons why your iPhone keeps randomly turning off",
-     "link": "https://www.engadget.com/2318247/common-reasons-why-iphone-turning-off/",
-     "pubDate": "Sat, 21 Nov 2026 16:15:00 +0000",
-     "summary": "If your iPhone's battery can't keep up with what you're doing or you overwhelm its hardware, it might shut down to protect itself.",
-     "source": "Engadget",
-     "zh": "Common reasons why your iPhone keeps randomly turning off"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2290,22 +2290,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
     },
     {
-     "title": "也门荷台达传出爆炸声",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936857732.html",
-     "pubDate": "Sun, 22 Nov 2026 01:20:40 +0800",
-     "summary": "当地时间21日晚， 总台报道员 在也门荷台达市听到爆炸声，该地区疑似遭沙特主导的多国联军空袭，但具体遭袭地点尚不明确。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "也门荷台达传出爆炸声"
-    },
-    {
-     "title": "华为推出星芒 AI手机的故事怎么落地？",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936855553.html",
-     "pubDate": "Sun, 22 Nov 2026 01:00:53 +0800",
-     "summary": "11月20日，华为子品牌星芒手机发布。此时行业环境并不轻松： 存储芯片 已占手机BOM的49%，厂商一边涨价、一边收缩产品线；华为却逆势新开一条子品牌线，试水 AI手机 。 蓝鲸科技记者从华为方面获悉，星芒共享麒麟芯片、鸿蒙操作系统等核心技术底座，聚焦原创设计、前沿技术与全新AI交互，并承担技术试验田角色。这意味着，星芒并非简单加入走量竞争，而是以差异化定位承接华为的前沿探索。 但定位清晰只是第一步， AI手机 故事要真正落地，星芒还需算清token成本、生态授权和用户买单三笔账。在成本高压与AI换机动力不足的夹缝中，这场逆周期押注能否为华为打开AI新增量？ 华为用星芒押注AI新增量 2026",
-     "source": "东方财富股票",
-     "zh": "华为推出星芒 AI手机的故事怎么落地？"
-    },
-    {
      "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
      "link": "https://seekingalpha.com/news/4675381-sa-asks-whos-the-best-positioned-cybersecurity-provider-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 12:00:22 -0500",
@@ -2354,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
-     "title": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936857611.html",
-     "pubDate": "Sun, 22 Nov 2026 00:40:25 +0800",
-     "summary": "当地时间21日，伊朗副外长加里巴巴迪表示，一个卡塔尔代表团于20日晚抵达伊朗首都德黑兰，双方进行了两个小时的磋商。 此前，据两位知情人士透露，美国总统特使威特科夫和总统特朗普的女婿库什纳19日在柏林与卡塔尔高级官员举行会晤，就美国与伊朗之间的斡旋工作进行讨论。卡塔尔首相兼外交大臣穆罕默德及其特使出席。 作为美伊之间的关键斡旋方，卡塔尔数周来一直致力于促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商"
-    },
-    {
      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
      "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
@@ -2378,36 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury secretary rules out further curbs on Nvidia chip sales to China"
     },
     {
-     "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
-     "link": "http://finance.eastmoney.com/news/1360,202611213936856371.html",
-     "pubDate": "Sun, 22 Nov 2026 00:20:42 +0800",
-     "summary": "人工智能 （AI）向探索科研级数学问题深处不断迈进。 美国时间2026年11月20日， Anthropic 数学家莱文特·阿尔波格（Levent Alpge）宣称与AI合作证明了167年未解的黎曼猜想，但超25万页证明仅以代码公开，引发学界震动与争议。 黎曼猜想是数论领域的经典难题，被公认为是数学界最难解决的难题。为了证明黎曼猜想，一代代数学家前赴后继，但都没有成功。1859年，德国数学家黎曼在题为《论小于给定数值的素数个数》的论文中提出了“黎曼猜想”。这篇论文虽然只有8页，却给后世留下了数学史上最著名的未决问题。 该论文讨论的是素数（也叫质数）分布规律的问题。素数的定义在中小学数学课本上便可",
-     "source": "东方财富股票",
-     "zh": "167年数学难题被攻克？90后数学家联手AI 最新公布"
-    },
-    {
      "title": "Insider trades: Apple, Meta, Coca-Cola among notable names",
      "link": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 11:03:59 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Insider trades: Apple, Meta, Coca-Cola among notable names"
-    },
-    {
-     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
-     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
-     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
-     "source": "东方财富股票",
-     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
-    },
-    {
-     "title": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936857346.html",
-     "pubDate": "Sat, 21 Nov 2026 23:56:25 +0800",
-     "summary": "11月20日， *ST英飞 （002528）发布公告，近日公司获悉其全资子公司英飞拓系统的100%股权被冻结，冻结期限为2026年11月2日至2029年11月2日。 该股权冻结源于公司、英飞拓系统及其子公司杭州科技与浙江海滨建设集团（以下简称“海滨建设” ）的建设工程施工合同纠纷，应海滨建设申请，杭州市西湖区人民法院冻结公司持有的英飞拓系统100%股权，目前该案件一审已开庭进行证据交换，暂未作出判决。 公告指出，虽然英飞拓系统股权被冻结，但在未有法院判决生效之前，该股权暂无被司法拍卖的风险。上述子公司股权司法冻结事项暂时不会影响公司及子公司的日常经营活动，也不会导致公司对上述子公司股权的所有权",
-     "source": "东方财富股票",
-     "zh": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户"
     },
     {
      "title": "FBI crime database hacked: CNN",
@@ -2520,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
      "source": "东方财富资讯",
      "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
+    },
+    {
+     "title": "来得早 爬得快！流感季来袭 药店货架有哪些变化？",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936830785.html",
+     "pubDate": "Sat, 21 Nov 2026 18:09:56 +0800",
+     "summary": "一次进货10箱的抗病毒口服液很快售罄，奥司他韦货架上多个国产品牌同台比价，两百余元的单次口服国产新药也摆上了零售柜台——随着今冬 流感 活动提前步入中流行水平，一线药店的货架变化，正直观映射出抗 流感 药市场的格局变化。 财联社记者近日实地走访上海多家药店发现，本轮 流感 季的终端需求正明显向“家庭预防备药”与“多元处方选择”两端分散。而在货架背后，抗流感药物的产业竞争已悄然换挡：传统主力奥司他韦在经历第十一批国采洗礼后，院内院外格局正在发生变化；罗氏玛巴洛沙韦独占单次口服市场的局面则被打破，三款国产PA亚基抑制剂密集登场，但受制于医保目录执行时间差，各家商业化放量节奏仍存分化。 当流感季“来",
+     "source": "东方财富资讯",
+     "zh": "来得早 爬得快！流感季来袭 药店货架有哪些变化？"
+    },
+    {
+     "title": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936829368.html",
+     "pubDate": "Sat, 21 Nov 2026 17:47:26 +0800",
+     "summary": "Anthropic 的上市，成硅谷新造富故事！ 当地时间11月19日，美国 人工智能 企业 Anthropic 在美国 纳斯达克 交易所挂牌上市，首次公开募股融资金额813亿美元，超过太空探索技术公司在今年6月创下的750亿美元的历史最高纪录。 Anthropic 公司本次公开募股发行量为9.8亿股，每股定价83美元，总融资金额达到813.4亿美元。上市首日较发行价收涨17.1%，报97.17美元/股，市值达1.28万亿美元。MSCI将于12月1日把其纳入 大盘股 指数， 富时罗素 也将其快速纳入富时全球股票指数系列。 上市首日的惊艳表现，进一步放大了AI批量造富神话，一大批富豪也随之诞生。有",
+     "source": "东方财富资讯",
+     "zh": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了"
+    },
+    {
+     "title": "特朗普想要“1月初之前”结束俄乌战争",
+     "link": "https://wallstreetcn.com/articles/3786435",
+     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
+     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
+     "source": "华尔街见闻",
+     "zh": "特朗普想要“1月初之前”结束俄乌战争"
+    },
+    {
+     "title": "“脱欧”十年之后，英国又要“入欧”？",
+     "link": "https://wallstreetcn.com/articles/3786433",
+     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
+     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
+     "source": "华尔街见闻",
+     "zh": "“脱欧”十年之后，英国又要“入欧”？"
+    },
+    {
+     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
+     "link": "https://wallstreetcn.com/articles/3786432",
+     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
+     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
+     "source": "华尔街见闻",
+     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
+    },
+    {
+     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
+     "link": "https://wallstreetcn.com/articles/3786431",
+     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
+     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
+     "source": "华尔街见闻",
+     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
     }
    ]
   },

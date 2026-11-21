@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 18:31:49",
+ "generated_at": "2026/11/21 18:44:05",
  "recent_days": 7,
  "industries": [
   {
@@ -1386,14 +1386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
      "pubDate": "Fri, 20 Nov 2026 19:00:00 +0000",
@@ -1458,14 +1450,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1504,14 +1488,6 @@ window.INDUSTRY_DATA = {
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1554,12 +1530,20 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1786,6 +1770,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“奶茶第一股”的翻红账本",
+     "link": "https://www.tmtpost.com/8212602.html",
+     "pubDate": "Sat, 21 Nov 2026 18:32:15 +0800",
+     "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
+     "source": "钛媒体",
+     "zh": "“奶茶第一股”的翻红账本"
+    },
+    {
+     "title": "初创企业 GG Technologies 在印度起诉苹果，指控 NameDrop 功能侵权",
+     "link": "https://www.ithome.com/1/030/456.htm",
+     "pubDate": "Sat, 21 Nov 2026 10:30:05 GMT",
+     "summary": "IT之家 11 月 21 日消息，据 TechCrunch 报道，一家总部位于美国的初创公司正在印度起诉苹果，指控苹果 NameDrop 功能侵犯其专利，该功能允许用户将两台设备靠近即可分享联系信息。 法庭文件显示，GG Technologies 正在寻求 150 亿印度卢比 （IT之家注：现汇率约合 10.7 亿元人民币） 的损害赔偿并申请法院对苹果颁布禁令；该公司是联系人交换应用 StayTouch 背后的开发商，用户只需将手机靠近即可通过该应用互换联系信息。 这家初创公司透露，双方于 4 月启动的调解程序在 9 月宣告破裂，随后该公司于 10 月在印度正式提起诉讼。在印度提起商业诉讼之前",
+     "source": "IT之家",
+     "zh": "初创企业 GG Technologies 在印度起诉苹果，指控 NameDrop 功能侵权"
+    },
+    {
+     "title": "鸿蒙智行享界 V8 车型开启全国规模交付，售价 31.98 万元起",
+     "link": "https://www.ithome.com/1/030/454.htm",
+     "pubDate": "Sat, 21 Nov 2026 10:21:38 GMT",
+     "summary": "IT之家 11 月 21 日消息，余承东发文，宣布鸿蒙智行享界 V8 正式开启全国规模交付，该车于昨日正式上市，包含七款车型，售价区间 31.98-42.98 万元，上市 2 小时大定便突破 2216 台。 据IT之家此前报道，享界 V8 车身尺寸为 5335/2005/1805mm，轴距 3250mm，采用 2+2+3 七座布局；除 Max+ 外，享界 V8 其余版本均可选 800V 增程或 800V 纯电动力。 享界 V8 Ultra+ 增程版 39.98 万元起 | 纯电版 42.98 万元起 四驱 + 双腔空簧 + 双阀连续可变阻尼减振器 四激光雷达 | L3 级自动驾驶架构设计 | ",
+     "source": "IT之家",
+     "zh": "鸿蒙智行享界 V8 车型开启全国规模交付，售价 31.98 万元起"
+    },
+    {
+     "title": "国产 120kV 冷冻透射电子显微镜发布，关键核心部件全部实现自主研制",
+     "link": "https://www.ithome.com/1/030/453.htm",
+     "pubDate": "Sat, 21 Nov 2026 10:20:37 GMT",
+     "summary": "IT之家 11 月 21 日消息，据新华社报道，国产 120kV 冷冻透射电子显微镜 TH-F120C 今日在广州发布，这是我国推进高端科学仪器自主可控的一项突破，将为科研人员提供解析生物大分子结构、研究先进材料微观特性的重要工具。 该成果源自广东省重点领域研发计划精密仪器设备专项，在广东省科技厅支持下，由生物岛实验室牵头，联合广州实验室、广州生物医药与健康研究院等科研单位历经五年攻坚克难实现整机突破。2025 年 10 月，团队与中国钢研集团所属上市企业开展产学研协同。 据研发团队介绍，冷冻电镜是生命科学研究、药物开发、病毒研究等的重要科研仪器。长期以来，我国冷冻电镜整机依赖进口。此次发布的",
+     "source": "IT之家",
+     "zh": "国产 120kV 冷冻透射电子显微镜发布，关键核心部件全部实现自主研制"
+    },
+    {
      "title": "许思敏辞职，娃哈哈再陷人事风波，宗馥莉的难题还没完",
      "link": "https://www.huxiu.com/article/4907401.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 18:13:24 +0800",
@@ -1842,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "气候变化下，儿童正面临日益严峻的风险"
     },
     {
-     "title": "世界首套：国家电网自研静止全功率发生器投运，供区年新增电量可满足 2 万户家庭一年需求",
-     "link": "https://www.ithome.com/1/030/422.htm",
-     "pubDate": "Sat, 21 Nov 2026 09:32:14 GMT",
-     "summary": "IT之家 11 月 21 日消息，11 月 20 日，国家电网有限公司自主研制的 世界首套 35 千伏 / 30 兆伏安 IGBT 串联型静止全功率发生器（SPG），经过短路试验后 168 小时试运行，在陕西延安 330 千伏方河变电站正式投运。这标志着 我国在大电网稳定支撑技术与高端电力电子装备自主研制领域取得重要突破 。 此次投运的静止全功率发生器，正常运行时参与电网电压调节，故障时迅速响应，提供动态无功和短路容量支撑，增强电网抵御扰动的能力，提升大电网安全稳定运行水平，保障新能源富集地区风光发电安全稳定送出，促进清洁能源消纳。 IT之家获悉，装备投运后，延安北部地区新能源功率可提升 5 ",
-     "source": "IT之家",
-     "zh": "世界首套：国家电网自研静止全功率发生器投运，供区年新增电量可满足 2 万户家庭一年需求"
-    },
-    {
-     "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
-     "link": "https://www.ithome.com/1/030/421.htm",
-     "pubDate": "Sat, 21 Nov 2026 09:22:39 GMT",
-     "summary": "IT之家 11 月 21 日消息，据英国《卫报》报道，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。 三人还指出，Meta 仍在从这些所谓的 AI 脱衣应用广告中获利。 当地时间 18 日，三人向苹果、谷歌和 Meta 的 CEO 致函，指出各公司现有的防护措施 不足以阻止 AI 脱衣应用出现在各自的应用商店或平台上 。 研究发现，苹果、谷歌和 Meta 的政策均禁止此类应用，它们却仍然出现在苹果和谷歌应用商店中，或通过 Meta 平台上的广告推广。研究还发现，儿童依然能够轻易接触到这些应用。 来自俄勒冈州",
-     "source": "IT之家",
-     "zh": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”"
-    },
-    {
      "title": "觉得网购女装质量差还贵，年轻人把缝纫机踩冒烟了",
      "link": "https://www.huxiu.com/article/4907263.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 17:16:40 +0800",
@@ -1866,12 +1866,20 @@ window.INDUSTRY_DATA = {
      "zh": "觉得网购女装质量差还贵，年轻人把缝纫机踩冒烟了"
     },
     {
-     "title": "银联国际与传音达成全球手机 Pay 合作，首站落地巴基斯坦",
-     "link": "https://www.ithome.com/1/030/420.htm",
-     "pubDate": "Sat, 21 Nov 2026 09:10:48 GMT",
-     "summary": "IT之家 11 月 21 日消息，银联国际宣布与传音达成全球合作，双方基于银联“卡码合一”手机 Pay 方案，在传音旗下钱包产品 T Wallet 中推出银联支付服务。 境外用户在传音智能终端上绑定银联卡，即可率先体验线下非接 NFC 支付，后续还将支持二维码及线上 In-App 支付。 IT之家获悉， 本次合作首站落地巴基斯坦 ，巴基斯坦联合银行有限公司（Allied Bank Limited，ABL）成为首家发卡合作机构。 据介绍，在巴基斯坦， 银联已经成为第二大银行卡品牌，几乎所有商户都可受理银联卡 。 目前，ABL 已全面支持银联卡绑定 T Wallet 支付功能，用户在线下消费时，只",
-     "source": "IT之家",
-     "zh": "银联国际与传音达成全球手机 Pay 合作，首站落地巴基斯坦"
+     "title": "RCE in Gnupg",
+     "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+     "pubDate": "Sat, 21 Nov 2026 08:32:58 +0000",
+     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "RCE in Gnupg"
+    },
+    {
+     "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+     "link": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+     "pubDate": "Sat, 21 Nov 2026 08:32:34 +0000",
+     "summary": "Article URL: https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize Comments URL: https://news.ycombinator.com/item?id=50587205 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize"
     },
     {
      "title": "Temu 美国全托管核价压到成本线，我该不该继续加投广告？",
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Surprisingly Adorable Insect Portraits",
      "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
      "pubDate": "Sat, 21 Nov 2026 06:44:14 +0000",
-     "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 39 # Comments: 9",
+     "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 44 # Comments: 10",
      "source": "Hacker News",
      "zh": "Surprisingly Adorable Insect Portraits"
     },
@@ -2000,30 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
      "source": "WIRED",
      "zh": "Therabody Promo Codes: 15% Off November 2026"
-    },
-    {
-     "title": "Mountain Hardwear Coupon Code 15% Off November",
-     "link": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
-     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
-     "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
-     "source": "WIRED",
-     "zh": "Mountain Hardwear Coupon Code 15% Off November"
-    },
-    {
-     "title": "Google Workspace Promo Codes: 14% Off for November 2026",
-     "link": "https://www.wired.com/story/google-workspace-promo-code/",
-     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
-     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-     "source": "WIRED",
-     "zh": "Google Workspace Promo Codes: 14% Off for November 2026"
-    },
-    {
-     "title": "Motorola Coupon Code for November 2026",
-     "link": "https://www.wired.com/story/motorola-coupon-code/",
-     "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
-     "source": "WIRED",
-     "zh": "Motorola Coupon Code for November 2026"
     }
    ]
   },

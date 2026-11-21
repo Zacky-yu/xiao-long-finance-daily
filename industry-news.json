@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/21 10:52:01",
+ "generated_at": "2026/11/21 11:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
+     "link": "https://zhidx.com/p/613053.html",
+     "pubDate": "Sat, 21 Nov 2026 09:56:30 +0800",
+     "summary": "智东西 编译 | 李水青 编辑 | 心缘 智东西11月21日消息，今日，由前OpenAI CTO 米拉·穆拉蒂（Mira Murati） 联合创办的AI独角兽Thinking Machines Lab（简称：TML）推出一个新混合专家模型—— Inkling 2 Mini 。该模型总参数达 27B ，激活参数达 3.4B ，每个token有 5.4B 权重激活值以应对 循环 ，兼顾小体积、快速度和较强性能，可在 笔记本 电脑上运行。 穆拉蒂在社交平台X上称：“Inkling 2 Mini是一款可在笔记本上运行的 循环Transformer 。循环机制让模型 思考更多、输出更少 。在当前这个规模",
+     "source": "智东西",
+     "zh": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！"
+    },
     {
      "title": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考",
      "link": "https://zhidx.com/p/612973.html",
@@ -167,14 +175,6 @@
      "summary": "已开源Agnes Harness",
      "source": "量子位",
      "zh": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！"
-    },
-    {
-     "title": "苹果急了！Apple Intelligence将迎Agent升级，最快明年推出",
-     "link": "https://zhidx.com/p/612703.html",
-     "pubDate": "Fri, 20 Nov 2026 13:21:02 +0800",
-     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西11月20日消息，今日，据彭博社报道，苹果正自研Agent，并于11月17日至19日陆续发布3个相关招聘岗位，进一步披露其研发计划。 苹果希望借此进入快速增长的Agent市场，与早已占据先发优势的OpenAI、Anthropic和Meta等科技公司展开竞争。11月19日美股盘后交易中，苹果股价报350.16美元，上涨0.84美元，涨幅0.24%。 ▲苹果股价走势，来源：Yahoo Finance 此次发布的3个招聘岗位分别是高级Agent AI工程经理(Senior Engineering Manager, Agentic AI)、 主动式AI高级",
-     "source": "智东西",
-     "zh": "苹果急了！Apple Intelligence将迎Agent升级，最快明年推出"
     },
     {
      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
@@ -905,12 +905,12 @@
      "zh": "How Can Energy Improve Lives? Why Counting Connections Isn’t Enough"
     },
     {
-     "title": "Yozma IN 11 review – offroad dirt biking with 4800w peak power",
+     "title": "Yozma IN 11 Review — Offroad Dirt Biking with 4800W Peak Power",
      "link": "https://cleantechnica.com/2026/11/20/yozma-in-11-review-offroad-dirt-biking-with-4800w-peak-power/",
      "pubDate": "Sat, 21 Nov 2026 01:14:03 +0000",
-     "summary": "As a teen, I loved riding – anything, my skateboard, my bike, whatever had wheels and I could get moving on, I was there for it. Then I spent a few years racing mountain bikes in the NORBA circuit when I was in my mid-20’s. I was never very good ... [continued] The post Yozma IN 11 review – offroad ",
+     "summary": "As a teen, I loved riding — anything, my skateboard, my bike, whatever had wheels and I could get moving on, I was there for it. Then I spent a few years racing mountain bikes in the NORBA circuit when I was in my mid-20’s. I was never very good ... [continued] The post Yozma IN 11 Review — Offroad ",
      "source": "CleanTechnica",
-     "zh": "Yozma IN 11 review – offroad dirt biking with 4800w peak power"
+     "zh": "Yozma IN 11 Review — Offroad Dirt Biking with 4800W Peak Power"
     },
     {
      "title": "Is the Energy Crisis Accelerating the Clean Energy Transition? 4 Takeaways from the IEA’s World Energy Outlook 2026",
@@ -1785,6 +1785,54 @@
    "total": 18,
    "items": [
     {
+     "title": "从《超级女声》到《后会友期》，芒果台30年资本发家史",
+     "link": "https://www.huxiu.com/article/4905915.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:00:00 +0800",
+     "summary": "芒果TV的能力，是抓住细微的情绪和社会关切，转化为稳定赚钱的内容产品，把低预期小体量不确定的项目，做成全民热播的超级爆款。",
+     "source": "虎嗅",
+     "zh": "从《超级女声》到《后会友期》，芒果台30年资本发家史"
+    },
+    {
+     "title": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题",
+     "link": "https://www.ithome.com/1/030/332.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:55:52 GMT",
+     "summary": "IT之家 11 月 21 日消息，英伟达于当地时间 11 月 20 日发布了 GeForce Hotfix 621.35 显卡驱动，修复此前部分 Game Ready 驱动可能在后台向固态硬盘（SSD）过度写入数据的问题。 这一热修复驱动基于最新的 GeForce Game Ready Driver 621.24 版本，仅包含一项修复： 解决后台可能向 nvlog.nvlgstg 文件过度写入数据的问题，对应 Bug 编号为 7116722。 此前，有用户反馈，安装 GeForce 621.14 和 621.24 驱动后，即使电脑处于空闲状态，系统仍会持续产生大量 SSD 写入操作。相关问题涉",
+     "source": "IT之家",
+     "zh": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题"
+    },
+    {
+     "title": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？",
+     "link": "https://www.baijing.cn/question/638863",
+     "pubDate": "Sat, 21 Nov 2026 02:55:07 +0000",
+     "summary": "上个月Shopee菲律宾站COD订单拒收率从9%爬到18%，我们做的是手机配件，客单价350比索左右，起量阶段每天大概400单，团队就两个运营加一个兼职客服。已经试过在订单确认页加Tagalog提醒、发货前用Shopee聊聊批量发确认消息，拒收率只降到15%；也试过把部分SKU改成预付，但转化率掉了近三成，不敢全切。现在卡在人力上：每天手动筛高风险订单做二次确认要花三个多小时，平台拒收申诉又要逐单提交物流凭证，两个人根本排不开，周末积压的申诉经常超时。想问在这种人手约束下，是该优先保申诉时效还是优先做发货前回访，判断标准怎么定？",
+     "source": "白鲸出海",
+     "zh": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？"
+    },
+    {
+     "title": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态",
+     "link": "https://www.huxiu.com/article/4907354.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 10:54:01 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：周菊 将北汽动力总成的换电站出售，或将有助于集团将换电站业务集中于北汽蓝谷。 11月17日，北京汽车（01958.HK）公告称，全资附属公司北京汽车动力总成有限公司（下称“北汽动力总成”）拟在北京产权交易所以公开挂牌竞价方式，转让与112座换电站相关的资产组，包括存货、固定资产、在建工程及无形资产。以2026年9月30日为估值基准日，采用成本法评估，评估值约2.779亿元（不含税），较2.7369亿元的账面价值增值1.54%。 公告称，目标资产主要由无法独立运营或单独产生收益的设备及配套资产组成，2024年及2025年并无应占的独立税前或税后损益，因此",
+     "source": "虎嗅",
+     "zh": "北京汽车拟2.78亿元挂牌出售112座换电站，换电押注宁德时代生态"
+    },
+    {
+     "title": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布",
+     "link": "https://www.ithome.com/1/030/331.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:53:17 GMT",
+     "summary": "IT之家 11 月 21 日消息，荣耀 700/700 Pro 手机将于 11 月 23 日 14:30 发布，博主 @数码闲聊站 今日对新机的核心配置进行了曝光汇总。 IT之家整理如下： 6.57\"1.5K+120Hz LTPS 直屏，0.98mm 四等边，1.59\" 原生背屏 骁龙 8s Gen4 / 骁龙 8 Gen5 处理器 9000mAh 电池 +80W 有线充，Pro 支持 50W 无线充 200Mp 1/1.56\" 主摄 +12Mp 超广角 +50Mp 3.5X 潜望长焦，200mm 迷你增距镜 IP68/IP69/IP69K，光学指纹，机身厚 7.96mm / 重 211g I",
+     "source": "IT之家",
+     "zh": "荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布"
+    },
+    {
+     "title": "姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考",
+     "link": "https://www.tmtpost.com/8213389.html",
+     "pubDate": "Sat, 21 Nov 2026 10:53:12 +0800",
+     "summary": "Hy4追求智能上限，思维链过长是已知问题。",
+     "source": "钛媒体",
+     "zh": "姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考"
+    },
+    {
      "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
      "link": "https://www.techmeme.com/261120/p45#a261120p45",
      "pubDate": "Fri, 20 Nov 2026 21:45:01 -0500",
@@ -1881,14 +1929,6 @@
      "zh": "GTA 6 可以慢慢来，独立游戏等不起"
     },
     {
-     "title": "《饥饿游戏：收获日出》电影 4K 铁盒版开启预售，有亚马逊 / 沃尔玛 2 款封面设计",
-     "link": "https://www.ithome.com/1/030/326.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:16:16 GMT",
-     "summary": "IT之家 11 月 21 日消息，《饥饿游戏》前传电影《饥饿游戏：收获日出》昨日（11 月 20 日）在中国内地上映（同步北美）之际，该电影在海外同步开启实体光盘预售，提供 4K 铁盒版、标准 4K 版及蓝光版。 IT之家援引 IGN 报道，附上相关售价信息如下： 4K 铁盒版 亚马逊售价：34.99 美元 （现汇率约合 234.2 元人民币） 沃尔玛售价：42.99 美元 （现汇率约合 287.7 元人民币） 4K 版本： 亚马逊售价：49.99 美元 （现汇率约合 334.5 元人民币） 沃尔玛售价：42.99 美元 （现汇率约合 287.7 元人民币） 蓝光版本： 亚马逊售价：39.99",
-     "source": "IT之家",
-     "zh": "《饥饿游戏：收获日出》电影 4K 铁盒版开启预售，有亚马逊 / 沃尔玛 2 款封面设计"
-    },
-    {
      "title": "袁记食品IPO：总部利润翻倍，加盟店的账算平了吗",
      "link": "https://www.huxiu.com/article/4907347.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 10:11:43 +0800",
@@ -1897,36 +1937,12 @@
      "zh": "袁记食品IPO：总部利润翻倍，加盟店的账算平了吗"
     },
     {
-     "title": "英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信",
-     "link": "https://www.ithome.com/1/030/325.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:10:48 GMT",
-     "summary": "IT之家 11 月 21 日消息，据《连线》（WIRED）今日报道，英伟达董事会最终决定接受黄仁勋的辞职，主要原因并不在于婚外情，而是董事会认为他在相关事件中多次存在撒谎行为，导致董事会对其诚信和信任产生严重质疑。 两名知情人士向《连线》透露，黄仁勋于 11 月 8 日承认存在婚外情，但当时董事会仍无法确定相关事件涉及的其他问题。同一天，英伟达董事会宣布启动独立调查。然而，接下来几天，随着更多婚外情指控浮出水面，其中包括一段据称涉及黄仁勋直接下属的关系，董事会的态度发生了变化。 一名接近董事会的知情人士表示，能够确定的是，黄仁勋存在撒谎行为，而且这一情况持续约一年，从 2025 年 10 月一",
-     "source": "IT之家",
-     "zh": "英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信"
-    },
-    {
      "title": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？",
      "link": "https://www.baijing.cn/question/638861",
      "pubDate": "Sat, 21 Nov 2026 02:06:35 +0000",
      "summary": "我们做智能穿戴配件，去年在墨西哥站起量，月GMV大概8万美元，团队6个人。最近发现我们主推的手环型号名在墨西哥已被当地一家公司注册成商标，而我们在墨西哥工业产权局（IMPI）的申请还卡在形式审查阶段。更麻烦的是，平台品牌备案要求提交商标受理或注册证明，我们上传IMPI受理号后被驳回，说权利人与店铺主体不一致。已经试过让律师发函给对方谈转让，对方报价3万美元，我们没接；也试过改包装上的型号名重新上架，但老listing的评论和流量全断了。现在卡在要么花钱买回商标、要么换品牌重新积累，想直接问：在拉美这种先申请先得的市场，品牌备案被驳回后有没有其他合规路径能先把listing保住？",
      "source": "白鲸出海",
      "zh": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？"
-    },
-    {
-     "title": "广深地位为何易位？",
-     "link": "https://www.huxiu.com/article/4907344.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 10:04:08 +0800",
-     "summary": "本文来自微信公众号： 元淦恭说 ，作者：元淦恭，题图来自：AI生成 深圳APEC，使其收获了世界级的媒体关注。从某种程度上说，这是深圳成为真正意义上的&ldquo;中国第三城&rdquo;的加冕礼。 根据第四次经济普查以来的回溯数据，深圳的GDP实际上在2012年已经超越广州，自那时起，深圳就已经成为了&ldquo;中国经济第三城&rdquo;。但一直以来，仍有很多人认为，不能单单以经济总量来看城市的地位。深圳虽然经济总量超过了广州，但广州仍然是华南地区的中心。 持这种观点的人可以找出很多例证，譬如广州的交通枢纽地位、广州的科教医疗实力、广州的三位数区号，乃至于广州的《国土空间总体规划》中有&",
-     "source": "虎嗅",
-     "zh": "广深地位为何易位？"
-    },
-    {
-     "title": "战魔田默｜国企并购变天？国资委提出摒弃“大吃小”，大鱼吃小鱼的规矩要变了吗？",
-     "link": "https://www.huxiu.com/article/4907346.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 09:46:50 +0800",
-     "summary": "本文来自微信公众号： 商战最优解 ，作者：战魔田默，原文标题：《战魔田默｜国企并购变天？国资委提出摒弃“大吃小”，大鱼吃小鱼的规矩要变了吗？》 11月18日，国务院国资委副主任李镇提出，国企专业化整合要摒弃过去常用的“大吃小”做法。 在进一步深化国资国企改革专题研讨班上，李镇提出，专业化整合要聚焦产业链短板、创新资源分散和同质化竞争，以创新能力强的企业为主体，同时防止“救助型”并购拖累整合企业。 这不是宣布大企业不能收购小企业，也不意味着所有国企并购规则已经改变。国资委今年1月就已提出支持创新能力强的企业作为专业化整合主体。 此次表态值得关注，是因为它直接反思了惯常整合方式，并进一步警示并购风",
-     "source": "虎嗅",
-     "zh": "战魔田默｜国企并购变天？国资委提出摒弃“大吃小”，大鱼吃小鱼的规矩要变了吗？"
     },
     {
      "title": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？",
@@ -1956,7 +1972,7 @@
      "title": "Integrals of Polynomials with Galois Group S_p",
      "link": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
      "pubDate": "Sat, 21 Nov 2026 01:17:05 +0000",
-     "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials Comments URL: https://news.ycombinator.com/item?id=50584776 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials Comments URL: https://news.ycombinator.com/item?id=50584776 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "Integrals of Polynomials with Galois Group S_p"
     },
@@ -1988,7 +2004,7 @@
      "title": "Re: Riemann",
      "link": "https://borretti.me/article/re-riemann",
      "pubDate": "Fri, 20 Nov 2026 23:42:44 +0000",
-     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 140 # Comments: 119",
+     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 151 # Comments: 136",
      "source": "Hacker News",
      "zh": "Re: Riemann"
     },
@@ -1996,7 +2012,7 @@
      "title": "Serious cyberattack thought backed by wealthy operators",
      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
      "pubDate": "Fri, 20 Nov 2026 23:29:30 +0000",
-     "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 20 # Comments: 4",
+     "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 25 # Comments: 10",
      "source": "Hacker News",
      "zh": "Serious cyberattack thought backed by wealthy operators"
     },
@@ -2007,22 +2023,6 @@
      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
      "source": "WIRED",
      "zh": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop"
-    },
-    {
-     "title": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261120/p41#a261120p41",
-     "pubDate": "Fri, 20 Nov 2026 18:20:00 -0500",
-     "summary": "Wall Street Journal : Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &nbsp; &mdash;&nbsp; Bankers have been in contact with Walmart, Target, Kroger and other retailers about a potential ",
-     "source": "Techmeme",
-     "zh": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)"
-    },
-    {
-     "title": "Sir Brian May adds new dimension to Hera asteroid",
-     "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-     "pubDate": "Fri, 20 Nov 2026 23:19:44 +0000",
-     "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 42 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Sir Brian May adds new dimension to Hera asteroid"
     }
    ]
   },
@@ -2033,12 +2033,12 @@
    "total": 7,
    "items": [
     {
-     "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
-     "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
-     "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
-     "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
-     "source": "9to5Google",
-     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
+     "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
+     "link": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+     "pubDate": "Sat, 21 Nov 2026 02:53:17 +0000",
+     "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
+     "source": "DPReview",
+     "zh": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired"
     },
     {
      "title": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles",
@@ -2265,12 +2265,12 @@
      "zh": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?"
     },
     {
-     "title": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday",
-     "link": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
-     "pubDate": "Fri, 20 Nov 2026 19:02:03 +0100",
-     "summary": "Are “flagship killers” still a thing? They definitely should be, considering that some flagships have an MSRP of £1,400 or higher now. That’s how much Xiaomi is asking for a 12/256GB Xiaomi 18 Pro Max and it’s not alone – this is also the price of the Oppo Find X10 Pro Max. Those are awesome phones ",
-     "source": "GSMArena",
-     "zh": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday"
+     "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
+     "link": "https://9to5google.com/2026/11/20/google-health-5-13-release-notes/",
+     "pubDate": "Fri, 20 Nov 2026 19:00:55 +0000",
+     "summary": "Version 5.13 of Google Health is rolling out to Android and iOS with updates across five areas. It’s a modest release that reiterates recent launches. more…",
+     "source": "9to5Google",
+     "zh": "Google Health 5.13 rolling out: Improved food search, more swimming controls"
     }
    ]
   },
@@ -2281,52 +2281,12 @@
    "total": 13,
    "items": [
     {
-     "title": "开普云签约新疆喀什政务大模型项目",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936792546.html",
-     "pubDate": "Sat, 21 Nov 2026 10:37:54 +0800",
-     "summary": "据 开普云 消息，近日， 开普云 签约新疆喀什地区数字政府“一网通办·政务大模型”建设项目。项目围绕数字政府智能化建设需求，依托大模型、智能体及数据智能分析等技术，建设政务AI助手、经济数据分析预警、援疆项目管理三大 AI应用 平台，为政务办公、经济运行分析及援疆项目管理等业务提供智能化支撑。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "开普云签约新疆喀什政务大模型项目"
-    },
-    {
-     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
-     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
-     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
-     "summary": "财联社11月21日讯（记者林溪） 11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股",
-     "source": "东方财富股票",
-     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
-    },
-    {
-     "title": "承接长三角优质资源落地，连云港推动数字文化产业创新突破",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936792454.html",
-     "pubDate": "Sat, 21 Nov 2026 10:33:57 +0800",
-     "summary": "11月19日至22日，第七届长三角国际文化产业博览会在上海举行，传统文化活化升级、数字科技赋能产业成为本届盛会核心议题。11月20日下午，依托文博会高端平台， 连云港 组团参展、专场招商双线发力，在沪举办“大圣故里·数智港城”数字文化产业招商对接会，以“西游文化+新质生产力”为赋能核心，对接长三角优质产业、科创、资本资源，探索 连云港 传统文化现代化转化的全新路径。 一部西游，连着一座城；一只猴宝，牵起众人心；两项共创，汇聚万钧力。活动现场最受瞩目的，是“西游AIGC共创计划、猴宝IP共创计划”的正式发布——依托长三角文博会，搭建西游、猴宝主题共创平台，深化打造西游文化品牌，助力山海文旅名城建",
-     "source": "东方财富股票",
-     "zh": "承接长三角优质资源落地，连云港推动数字文化产业创新突破"
-    },
-    {
-     "title": "软银孙正义曾探讨以1万亿美元收购SK海力士",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936792075.html",
-     "pubDate": "Sat, 21 Nov 2026 10:33:41 +0800",
-     "summary": "据知情人士透露，软银董事长孙正义近期接洽华尔街机构，商议融资推进一笔规模达万亿级美元的收购，目标是 存储芯片 巨头 SK海力士 ，但软银发言人表示，孙正义现已不再积极推进该交易。软银发言人称：“软银会考察大量机会，这笔交易目前已不再纳入积极评估范围。” SK海力士 暂未回应置评请求。软银此前重仓OpenAI，资产负债表已经承压，目前尚不清楚其该如何筹措这笔收购资金。也没有迹象表明华尔街机构愿意为软银提供这笔融资。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "软银孙正义曾探讨以1万亿美元收购SK海力士"
-    },
-    {
-     "title": "汽车产业竞争：正从整车性能比拼转向软件与生态较量",
-     "link": "http://stock.eastmoney.com/news/11219,202611213936791427.html",
-     "pubDate": "Sat, 21 Nov 2026 10:32:33 +0800",
-     "summary": "新华财经上海11月21日电（记者李荣）记者20日从在上海嘉定召开的2026中国 汽车 软件大会上获悉，目前 汽车 产业竞争正从整车性能比拼，转向软件与生态较量。上海国际 汽车 城软件园首批企业入驻，软件园新载体加速成势。 工业和信息化部信息技术发展司相关人士表示，汽车软件是软件产业与汽车产业融合发展的重要结合点，覆盖车载操作系统、应用软件和云端服务等关键环节。推动汽车软件产业高质量发展，关键在于创新驱动、应用牵引，提高关键技术产品供给能力；标准引领、质量为先，夯实软硬件协同和安全可信根基；开放合作、生态共育，共同营造开放包容、互利共赢的产业生态。 上海市经济和信息化委员会人士认为，汽车产业竞争",
-     "source": "东方财富股票",
-     "zh": "汽车产业竞争：正从整车性能比拼转向软件与生态较量"
-    },
-    {
-     "title": "美国FBI正在调查刑事信息数据库遭入侵事件",
-     "link": "http://finance.eastmoney.com/news/11790,202611213936791229.html",
-     "pubDate": "Sat, 21 Nov 2026 10:29:37 +0800",
-     "summary": "据报道，美国FBI正在调查刑事信息数据库遭入侵事件。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国FBI正在调查刑事信息数据库遭入侵事件"
+     "title": "孙正义的万亿美元豪赌：曾考虑收购SK海力士",
+     "link": "https://wallstreetcn.com/articles/3786425",
+     "pubDate": "Sat, 21 Nov 2026 11:04:16 +0800",
+     "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。 据The Information近日报道援引知情人士， 孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。 软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。” 若这项收购计划最终落地，软银原本有望直接切入全球存储芯片市场，进一步扩大在AI供应链中的影响力。但近万亿美元的交易规模，加上融资和监管障碍，使这一构想难以推进。 尽管收购计划已暂时搁置，孙正义对AI基础设施的布局野心仍值得关注。随着存储芯片成为AI算力扩张",
+     "source": "华尔街见闻",
+     "zh": "孙正义的万亿美元豪赌：曾考虑收购SK海力士"
     },
     {
      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
@@ -2383,14 +2343,6 @@
      "summary": "很多人喜欢和动物待在一块儿，这份喜欢，甚至是超过和人相处时的感觉。 其实，人对猫狗的喜爱，都是有道理的。 根据神经科学的研究发现，当我们看到猫和狗时，大脑的奖赏中枢会被激活，催产素水平飙升。这也是很多人看到宠物时，父爱感和母爱感爆棚的原因。 换句话说，我们不是“选择”喜欢猫狗，而是...",
      "source": "经济观察网",
      "zh": "为什么越来越多的人喜欢养宠物？"
-    },
-    {
-     "title": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”",
-     "link": "https://wallstreetcn.com/articles/3786418",
-     "pubDate": "Sat, 21 Nov 2026 08:52:24 +0800",
-     "summary": "费城联储主席Anna Paulson表示，愿意考虑在即将举行的政策会议上连续加息以遏制通胀，但强调美联储应以\"审慎\"步伐推进，给家庭、企业和银行留出调整时间。 11月20日周五，Paulson在接受彭博新闻采访时明确表态， 利率走向\"非常清晰\"，\"需要继续走高\"。 她表示对连续加息\"持开放态度\"，认为这是\"完全合理的选项\"，但同时拒绝承诺具体节奏，称\"我既不承诺隔次会议加息，也不承诺每次会议加息\"。 这一表态进一步强化了市场对美联储12月加息的预期。目前，多位官员已公开支持在12月8日至9日的华盛顿会议上再度收紧政策。 投资者亦普遍预期12月及1月将相继加息，尽管科技股大幅下挫已令后者的概率有",
-     "source": "华尔街见闻",
-     "zh": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”"
     },
     {
      "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -2519,6 +2471,54 @@
      "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
      "source": "CNBC",
      "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
+    },
+    {
+     "title": "Inside Anthropic’s historic IPO",
+     "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+     "pubDate": "Fri, 20 Nov 2026 21:21:29 GMT",
+     "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+     "source": "Financial Times",
+     "zh": "Inside Anthropic’s historic IPO"
+    },
+    {
+     "title": "Federal Reserve announces College Fed Challenge winners",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+     "pubDate": "Fri, 20 Nov 2026 21:15:00 GMT",
+     "summary": "Federal Reserve announces College Fed Challenge winners",
+     "source": "Federal Reserve",
+     "zh": "Federal Reserve announces College Fed Challenge winners"
+    },
+    {
+     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;",
+     "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+     "pubDate": "Fri, 20 Nov 2026 20:47:58 GMT",
+     "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+     "source": "CNBC",
+     "zh": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;"
+    },
+    {
+     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
+     "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
+     "pubDate": "Fri, 20 Nov 2026 20:19:49 GMT",
+     "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
+     "source": "Financial Times",
+     "zh": "Trump considering new Iran strikes as US military warns of strain on forces"
+    },
+    {
+     "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+     "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+     "pubDate": "Fri, 20 Nov 2026 19:59:03 GMT",
+     "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+     "source": "CNBC",
+     "zh": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off"
+    },
+    {
+     "title": "A massive bearish trade just happened in the chip stocks",
+     "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+     "pubDate": "Fri, 20 Nov 2026 19:33:31 GMT",
+     "summary": "Options traders place big bets that semiconductor stocks have further to fall",
+     "source": "CNBC",
+     "zh": "A massive bearish trade just happened in the chip stocks"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 07:31:49",
+ "generated_at": "2026/11/22 07:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -967,7 +967,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 08:30:00 +0000",
      "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global .",
      "source": "pv magazine",
-     "zh": "Unigrid 希望通过有效的钠离子替代品来填补锂离子存储领域的空白"
+     "zh": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives"
     },
     {
      "title": "Spain approves new data center rules requiring 80% renewable electricity",
@@ -1303,7 +1303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 12:17:00 -0500",
      "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
      "source": "BioPharma Dive",
-     "zh": "赛诺菲戈谢病药物获得 FDA 批准"
+     "zh": "Sanofi gains FDA clearance for Gaucher disease pill"
     },
     {
      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
@@ -1327,7 +1327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
      "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 4:16 a.m. PST (7:16 a.m. EST / 1216 UTC).",
      "source": "Spaceflight Now",
-     "zh": "现场报道：SpaceX 将为国家侦察办公室发射情报收集卫星"
+     "zh": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
     },
     {
      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -1343,7 +1343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 15:15:26 +0000",
      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
      "source": "Space.com",
-     "zh": "本周太空播客：第 237 集 — 深情告别"
+     "zh": "This Week In Space podcast: Episode 237 — A Fond Farewell"
     },
     {
      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
@@ -1359,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
      "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
      "source": "Space.com",
-     "zh": "埃隆·马斯克表示，SpaceX 将退役第一艘被“筷子”夹住的星际飞船上层"
+     "zh": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says"
     },
     {
      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
@@ -1407,7 +1407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
      "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "继 42 号船被捕获后，SpaceX 展望未来"
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
@@ -1423,7 +1423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 15:53:24 +0000",
      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that",
      "source": "NASA",
-     "zh": "美国宇航局好奇号火星探测器收集样本"
+     "zh": "NASA’s Curiosity Mars Rover Collects Samples"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1463,7 +1463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 23:51:47 +0000",
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 为美国太空部队发射机密有效载荷"
+     "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
@@ -1479,7 +1479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "星座大小的最佳点"
+     "zh": "The sweet spot for constellation size"
     },
     {
      "title": "Making the case for optical",
@@ -1495,7 +1495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 11:53:58 +0000",
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
-     "zh": "HEO 推出 Insights Next SDA 工具"
+     "zh": "HEO Unveils Insights Next SDA Tool"
     },
     {
      "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
@@ -1519,7 +1519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
      "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "航行者一号在发射近 50 年后达到一光日"
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1527,7 +1527,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
      "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines themselves, as the reason Sunday's launch fell short of orbit with 40 Amazon Leo ",
      "source": "Spaceflight Now",
-     "zh": "Vulcan 故障调查的重点是增压发动机的“燃油供应不足”"
+     "zh": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines"
     },
     {
      "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
@@ -1535,7 +1535,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
      "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
      "source": "SpaceNews",
-     "zh": "All Points Logistics 宣布与 Expeditors 合作建设肯尼迪航天中心的太空准备物流中心"
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
     },
     {
      "title": "NASA’s Voyager 1 is one light-day from Earth",
@@ -1543,7 +1543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 17:46:40 +0000",
      "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
      "source": "Spaceflight Now",
-     "zh": "NASA 的航行者 1 号距离地球一光日"
+     "zh": "NASA’s Voyager 1 is one light-day from Earth"
     },
     {
      "title": "Origami and solar arrays",
@@ -1583,7 +1583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:01:58 -0500",
      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
      "source": "BleepingComputer",
-     "zh": "Microsoft Entra Connect Health 漏洞被利用窃取租户数据"
+     "zh": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
     },
     {
      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:08:50 +0000",
      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "亚马逊：与中国有关的黑客的人工智能代理利用医疗软件零日漏洞"
+     "zh": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day"
     },
     {
      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -1623,7 +1623,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 16:35:53 +0530",
      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The b",
      "source": "The Hacker News",
-     "zh": "GnuPG 警告严重的 GPGME 缺陷可能通过恶意 OpenPGP 密钥泄露应用程序数据"
+     "zh": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
     },
     {
      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
@@ -1631,7 +1631,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530",
      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside",
      "source": "The Hacker News",
-     "zh": "攻击者的人工智能代理在医学成像软件中发现了零日漏洞并获得了根访问权限"
+     "zh": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
     },
     {
      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
@@ -1663,7 +1663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:03:27 GMT",
      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
      "source": "Dark Reading",
-     "zh": "中国的“军械库城堡”围攻VMware vCenter零日漏洞"
+     "zh": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
     },
     {
      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
@@ -1679,7 +1679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 18:35:40 GMT",
      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
      "source": "Dark Reading",
-     "zh": "在安全领域，言语与工具一样重要，甚至更重要"
+     "zh": "In Security, Words Matter as Much as Tools, Maybe More"
     },
     {
      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
@@ -1719,7 +1719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:56:23 +0000",
      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit a",
      "source": "SecurityWeek",
-     "zh": "其他新闻：挪威能源公司网络攻击、超级计算机黑客攻击、新的噩梦 Eclipse 漏洞利用"
+     "zh": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit"
     },
     {
      "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
@@ -1727,7 +1727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 12:38:55 +0000",
      "summary": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "行业对重大中断和人工智能补丁辩论的反应：周五反馈"
+     "zh": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday"
     },
     {
      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
@@ -1751,7 +1751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 22:40:03 GMT",
      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
      "source": "Dark Reading",
-     "zh": "Qwen 事件表明自托管人工智能模型需要更强的指导"
+     "zh": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering"
     },
     {
      "title": "Second Norwegian Energy Company Breached in 2 Days",
@@ -1786,36 +1786,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home",
-     "link": "https://www.ithome.com/1/030/515.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:08:37 GMT",
-     "summary": "IT之家 11 月 22 日消息，谷歌近日在官网支持页面公布了智能家居应用程序 Nest 的最新动态。官方宣称， 独立版 Nest（App、网页端）将于 2027 年 1 月 15 日停止服务 ，相关功能将整合进 Google Home 应用。 IT之家注意到，谷歌还将在 2027 年 8 月 2 日停止智能音箱等设备的 Google 助理服务，届时 Google Home 和 Google Gemini 将全面接管智能音箱等设备。 谷歌表示，用户此前于 Nest 设置的恒温器、摄像头、门铃、智能门锁和烟雾报警器等智能家居，都将自动迁移至 Google Home，原有的日程设置不会消失。第一代",
+     "title": "三星 One UI 9.5 系统测试“灵动岛”风格实时通知",
+     "link": "https://www.ithome.com/1/030/521.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:43:46 GMT",
+     "summary": "IT之家 11 月 22 日消息，据科技媒体 GSMArena 昨天报道，三星正在 One UI 9.5 系统中测试新版实时通知， 其外观类似苹果 iOS 的“灵动岛” ，可显示手电筒、计时器等应用的实时状态。 据介绍，三星于 One UI 7.0 推出了实时通知功能，目前显示形态是屏幕左上角的一个小型胶囊状窗口，用于展示计时器、录音机等 App 的状态信息。如果多个应用需要展示信息，用户可以在胶囊窗口上下滑动，在不同通知之间切换。 IT之家从原报道获悉，三星正在开发的新版本实时通知将改为在屏幕中央显示，并将原本的上下滑动改为左右滑动。用户无需展开胶囊窗口，就能左右滑动切换不同应用。",
      "source": "IT之家",
-     "zh": "谷歌智能家居应用 Nest 明年停服，功能全面整合进 Google Home"
+     "zh": "三星 One UI 9.5 系统测试“灵动岛”风格实时通知"
     },
     {
-     "title": "消息称美国证券交易委员会对英伟达潜在会计问题展开调查，股价较 10 月高点腰斩",
-     "link": "https://www.ithome.com/1/030/514.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:07:13 GMT",
-     "summary": "IT之家 11 月 22 日消息，据路透社 11 月 20 日报道，两位知情人士透露，美国证券交易委员会（SEC）正在对英伟达潜在会计问题展开调查，这家芯片巨头面临的法律困境进一步加剧。 在此之前，《华尔街日报》周二报道称，SEC 正在对英伟达展开调查，但表示无法确定调查的具体重点。上述人士以匿名方式向路透社谈及这些机密问题，他们表示， SEC 执法部门的工作人员正在审查英伟达可能存在的会计问题 。 IT之家注意到，美国证券交易委员会与英伟达方面均拒绝置评。 这一消息进一步加剧英伟达投资者的担忧情绪，英伟达股价当天跌超 14%，报 125.5 美元， 较 10 月高点 243.4 美元跌超 4",
+     "title": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起",
+     "link": "https://www.ithome.com/1/030/520.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:37:16 GMT",
+     "summary": "IT之家 11 月 22 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。随着新机上市，华为官网也公布了该机维修备件价格。 ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro ▲ IT之家开箱：华为星芒首款手机 OSTA O1 Pro 先来看屏幕方面，OSTA O1 Pro 全新屏幕主体（不含中框和电池）的价格为 899 元，更换下来的原装旧件，官方将无偿回收。 屏幕组件（含屏幕单体、中框、电池）的正常价为 1499 元，使用全新屏幕并现场更换； 优惠价 ",
      "source": "IT之家",
-     "zh": "消息称美国证券交易委员会对英伟达潜在会计问题展开调查，股价较 10 月高点腰斩"
+     "zh": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起"
     },
     {
-     "title": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一",
-     "link": "https://www.ithome.com/1/030/513.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:01:52 GMT",
-     "summary": "IT之家 11 月 22 日消息，博主 @数码闲聊站 昨晚发文分享第三方渠道消息，OPPO Reno 17 销量超预期，发布当日预订量达前代产品 2.7 倍， 开售后销量超过同期所有安卓手机，拿下安卓单品第一 。 博主还补充数据： Reno 系列全球激活量已超 1.4 亿台 ，长期稳居同档位销量前列。 据IT之家此前报道， OPPO Reno 17 系列手机已于 11 月 20 日正式开售 ，Pro 版机型搭载天玑 8550 处理器，标准版搭载骁龙 7 Gen4 处理器，主打“全焦段 4K 超清长实况”拍摄，售价 3599 元起、国补价 3099 元起。 京东 OPPO Reno 17 国补 ",
+     "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
+     "link": "https://www.ithome.com/1/030/519.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:35:28 GMT",
+     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主动智能和长期陪伴成长；该机还拥有业界首个系统级 AI 屏， 内含个性化 AI 形象（专属小星芒） 、场景化 AI 推荐和 AI 快捷对话栏等。 刘赫曾透露",
      "source": "IT之家",
-     "zh": "消息称 OPPO Reno 17 系列新机销量超预期，开售后超同期安卓手机拿下单品第一"
+     "zh": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色"
     },
     {
-     "title": "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI",
-     "link": "https://www.ithome.com/1/030/512.htm",
-     "pubDate": "Sat, 21 Nov 2026 22:53:43 GMT",
-     "summary": "IT之家 11 月 22 日消息，特斯拉今日宣布在美国市场推出 FSD v15，目前已向早期体验计划（EAP）成员推送首批版本。官方宣称， 本次更新对安全关键场景的处理能力提升了 25 倍 。 IT之家了解到，本次更新还带来了“Tesla Reality View”全新可视化界面，车机屏幕上可显示摄像头画面叠加 FSD 行驶规划，支持全屏显示、地图或分屏视图，也可以选择使用安静模式。导航可以将转弯等信息叠加在可视化界面中，转向灯提示音将变得更轻柔，并在闪烁数次后逐渐减弱直至消失。 此外，本次更新还提升了坑洼、碎片、坑洞等恶劣路况的行驶体验，车辆在学校和恶劣天气下的速度控制也将更加自然。特斯拉还",
+     "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
+     "link": "https://www.ithome.com/1/030/518.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:31:46 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影",
      "source": "IT之家",
-     "zh": "特斯拉海外推出 FSD v15：安全关键场景处理能力提升 25 倍，全新可视化 UI"
+     "zh": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议..."
+    },
+    {
+     "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
+     "link": "https://www.ithome.com/1/030/517.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:28:10 GMT",
+     "summary": "IT之家 11 月 22 日消息，开源端到端加密聊天应用 Signal 近日推出 iOS / Android 版更新，默认关闭应用程序内截图功能，以阻止 Siri AI 和 Gemini 等 AI 智能体读取用户私人消息。 Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体的影响力正不断扩大，这对 Signal 长期建立的隐私机制构成威胁，因为这些智能体可能在用户毫不知情的情况下访问私人对话。 在 Signal 8.37（IT之家注：iOS 27 系统）中， 应用默认启用了“阻止 Siri AI”设置 ，用户无法在 Signal 内截图或录屏。用户可选择关闭该",
+     "source": "IT之家",
+     "zh": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息"
+    },
+    {
+     "title": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航",
+     "link": "https://www.ithome.com/1/030/516.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:22:56 GMT",
+     "summary": "IT之家 11 月 22 日消息，据央视新闻报道，今天（22 日），第二艘国产大型邮轮“爱达 · 花城号”将开启 6 天 5 晚的商业首航，从广州南沙国际邮轮母港驶向中国香港与越南顺化。 “爱达 · 花城号”进度： 2024 年 10 月 25 日，第二艘国产大型邮轮在广州举行命名仪式，正式命名为“爱达 · 花城号”。 2026 年 3 月 20 日，“爱达 · 花城号”完成出坞，转入码头调试。 2026 年 11 月 6 日，在上海正式交付。 其建造周期比首制船缩短了 8 个月，国产化配套率也提高了 5 个百分点。 2026 年 11 月 12 日，顺利完成首个试运营航次，抵达广州南沙国际邮",
+     "source": "IT之家",
+     "zh": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航"
     },
     {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -1823,21 +1839,21 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 22:12:41 +0000",
      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
      "source": "Ars Technica",
-     "zh": "评论：《哥斯拉减零》加入真正出色的续集名单"
+     "zh": "Review: Godzilla Minus Zero joins the list of truly stellar sequels"
     },
     {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 24 # Comments: 2",
      "source": "Hacker News",
-     "zh": "PcapAnalyzer – 自托管 pcap 分析器，具有 27 个问题检测器"
+     "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
     {
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 22 # Comments: 1",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -1847,13 +1863,13 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 21:11:08 +0000",
      "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Tasklet (YC P26) 正在招聘产品和代理基础设施工程师"
+     "zh": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers"
     },
     {
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 12 # Comments: 8",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 13 # Comments: 9",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Pandex – Official European Law for AI Agents, over MCP",
      "link": "https://www.pandex.io",
      "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "Pandex – Official European Law for AI Agents, over MCP"
     },
@@ -1893,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Upload2Shell (CVE-2026-125396)",
      "link": "https://pwn.ai/upload2shell",
      "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
-     "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 60 # Comments: 19",
+     "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 64 # Comments: 22",
      "source": "Hacker News",
      "zh": "Upload2Shell (CVE-2026-125396)"
     },
@@ -1912,22 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 爱中 谭 AI干完活之后，谁来签字？ Anthropic的IPO、加州的AI审计法、中国的33号文，看起来是三件事。它们其实在回答同一个问题。 但“签字”不是一个生意。技术验收、合同验收、制度验收，三种签字，三种价格。 2026年11月，Anthropic登陆纳斯达克，IPO募资813亿美元，加同步私募共1073亿美元，成为美股历史上规模最大的IPO。 同一份招股书里，还有两个数字： ·三季度营收170亿美元，前三季度约332亿美元； ·企业客户净收入留存率约900%。 上市、估值、算力欠条，过去一周已经被写透了。但这些数字真正说明的，不是“AI很赚钱”，而是另一件事： ",
      "source": "虎嗅",
      "zh": "美国发审计牌照，中国改会计准则：AI 验收的两种活法"
-    },
-    {
-     "title": "今日小雪：雨凝为雪，地气冻结",
-     "link": "https://www.ithome.com/1/030/511.htm",
-     "pubDate": "Sat, 21 Nov 2026 16:00:08 GMT",
-     "summary": "IT之家 11 月 22 日消息，今天是 11 月 22 日，同时也是节气中的小雪，真正的寒冬即将到来。小雪为二十四节气中的第 20 个。具体的时间为 11 月 22 或 23 日，此时太阳到达黄经 240°。 小雪时节① 天气寒冷，降水状态由雨变雪，但“地寒未甚”，雪量不大，故称小雪 ；②北方供暖季，长期在暖气房会出现口干舌燥、咳嗽、头晕等，需预防“暖气病”；③小雪节气过后气温将更低，要注意防寒保暖，谨防感冒。小雪到，冬始俏。 进入该节气，中国广大地区西北风开始成为常客，气温下降，虽开始降雪，但雪量不大，故称小雪。据说，在北方，小雪时节要吃涮羊肉，在南方有吃糍粑的习俗。 小雪节气的降临就意味",
-     "source": "IT之家",
-     "zh": "今日小雪：雨凝为雪，地气冻结"
-    },
-    {
-     "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
-     "link": "https://www.ithome.com/1/030/510.htm",
-     "pubDate": "Sat, 21 Nov 2026 15:43:31 GMT",
-     "summary": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现。外媒 insideevs 今天（21 日）介绍了一辆“复活”的 1967 款保时捷 912，该车由改装厂商 Inverted 经手，改装团队为它装上了电池组和电动机。 改装完成后，车辆外观与原厂 912 毫无二致，经典的复古造型得以完整保留，开起来却已经是一辆当代的电动汽车。 这套改装最巧妙的地方在于电池布局。由于车身本就轻巧，62kWh 的电池组因此足以让车辆拥有相当可观的续航。然而，电池重量如果全部集中在后轴上方，却会让车尾负担过重。 老款风冷保时捷本来就容易在收油时出现转向过度，再增加后部重量，",
-     "source": "IT之家",
-     "zh": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里"
     },
     {
      "title": "Alaska, your next governor is a Wikipedia nerd",
@@ -2034,6 +2034,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Building your own mini PC is harder than you would think",
+     "link": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+     "pubDate": "Sat, 21 Nov 2026 23:30:00 +0000",
+     "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
+     "source": "Engadget",
+     "zh": "Building your own mini PC is harder than you would think"
+    },
+    {
      "title": "Six products and services Google discontinued in 2026",
      "link": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
      "pubDate": "Sat, 21 Nov 2026 23:00:00 +0000",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "It's still unclear who is responsible for the two incidents.",
      "source": "Engadget",
      "zh": "FBI and USDA were reportedly targeted in back-to-back cyberattacks"
-    },
-    {
-     "title": "The free Raspberry Pi tool you should be using to access it remotely",
-     "link": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
-     "pubDate": "Sat, 21 Nov 2026 21:45:00 +0000",
-     "summary": "Avoid forwarding ports by using this handy tool.",
-     "source": "Engadget",
-     "zh": "The free Raspberry Pi tool you should be using to access it remotely"
     },
     {
      "title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5",
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "多家华尔街机构认为市场或处于牛市回调阶段",
+     "link": "http://stock.eastmoney.com/news/1407,202611223936865989.html",
+     "pubDate": "Sun, 22 Nov 2026 07:25:49 +0800",
+     "summary": "尽管近日市场遭遇猛烈抛售，但多家华尔街机构认为，当前下跌可能只是牛市中的一次调整，尚未构成基本面持续恶化的明确信号。 摩根士丹利 旗下E*Trade交易主管克里斯·拉金（Chris Larkin）表示：“考虑到经济和基本面背景依然稳健，这轮行情似乎主要由市场情绪驱动。” 拉金指出，按照截至本轮回调的统计，自1983年以来，标普500指数从历史高点跌入回调区间的15次行情中，只有5次最终演变为熊市。 德意志银行 分析师宾基·查达（Binky Chadha）认为，市场已经“严重超卖”，而经济增 长和 企业盈利依然强劲。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "多家华尔街机构认为市场或处于牛市回调阶段"
+    },
+    {
      "title": "上观时评 | 多地为何鼓励“一周休2.5天”？",
      "link": "http://finance.eastmoney.com/news/1346,202611223936865620.html",
      "pubDate": "Sun, 22 Nov 2026 07:08:02 +0800",
@@ -2295,7 +2303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
-     "zh": "我40多岁了。我是否应该接受较低的养老金以换取将我的丈夫或孩子指定为受益人？"
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     },
     {
      "title": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参",
@@ -2330,12 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴林称一处民用工业设施遭伊朗袭击"
     },
     {
-     "title": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936865236.html",
-     "pubDate": "Sun, 22 Nov 2026 06:49:08 +0800",
-     "summary": "阿尔及尔消息：阿尔及利亚国防部21日表示，阿尔及利亚边防人员20日在该国西部边境附近击毙两名涉嫌参与毒品走私的摩洛哥公民。 阿国防部在一份声明中表示，两名嫌疑人无视边防人员警告，试图向阿尔及利亚走私超过50公斤的大麻制品。 阿国防部还通报称，在另一次行动中，阿军方捣毁一个涉嫌从摩洛哥走私大麻制品的犯罪网络，一周内查获近1.9吨毒品并逮捕17名嫌疑人，还查获数十辆车和大笔现金。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "阿尔及利亚国防部称击毙两名涉嫌贩毒的摩洛哥公民"
+     "title": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心",
+     "link": "http://stock.eastmoney.com/news/1768,202611223936859395.html",
+     "pubDate": "Sun, 22 Nov 2026 05:09:06 +0800",
+     "summary": "本周，美股市场遭遇重挫。道指累计下跌8.02%，标普500指数下跌8.61%，纳指下跌10.02%。 截至周五收盘，三大股指均进入技术性回调区间，纳指抹去2026年以来全部涨幅。标普500指数较10月6日历史高点回落11.6%，同期科技板块跌幅接近24.7%。 经历剧烈抛售后，美股下周将迎来受感恩节假期影响的缩短交易周。 美国10月个人消费支出（PCE）物价指数、第三季度GDP修正值等重磅数据将集中公布，美国也将迎来“黑色星期五”购物高峰。 投资者将重点关注通胀前景，以及美国消费能否为遭受AI板块抛售冲击的股市提供支撑。 AI抛售加剧，市场底部仍难确认 尽管 英伟达 本周交出强劲季报、 Ant",
+     "source": "东方财富资讯",
+     "zh": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2407,7 +2415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "亚马逊接近以 7.5 亿美元收购人工智能初创公司 Decart：FT"
+     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
     },
     {
      "title": "Tesla to launch FSD 15 next month, Elon Musk says",
@@ -2423,7 +2431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:00:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "SA 询问：目前谁是处于最佳位置的网络安全提供商？"
+     "zh": "SA Asks: Who's the best-positioned cybersecurity provider right now?"
     },
     {
      "title": "Alice Huang’s links to the chip underworld",
@@ -2458,12 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "Navy budget pick has family investments in Trump Jr-linked contractor"
     },
     {
+     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
+     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
+     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
+     "source": "东方财富资讯",
+     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
+    },
+    {
      "title": "Tech outages are fueling a new doomsday economy",
      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
      "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
      "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
      "source": "CNBC",
-     "zh": "技术中断正在推动新的世界末日经济"
+     "zh": "Tech outages are fueling a new doomsday economy"
     },
     {
      "title": "State and federal battle over prediction markets regulation heats up after midterms",
@@ -2479,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:01:44 GMT",
      "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
      "source": "CNBC",
-     "zh": "沃伦·巴菲特将感恩节礼物增加了四倍：他捐赠的财富明细"
+     "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
      "title": "11月21日晚间央视新闻联播要闻集锦",
@@ -2504,22 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。 （文章来源：深圳商报）",
      "source": "东方财富资讯",
      "zh": "台湾金管会宣布稳定股市措施"
-    },
-    {
-     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
-     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-     "source": "CNBC",
-     "zh": "美国航空公司的国际头等舱已经结束。进入大型商务舱"
-    },
-    {
-     "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
-     "link": "https://wallstreetcn.com/articles/3786438",
-     "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
-     "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
-     "source": "华尔街见闻",
-     "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
     }
    ]
   },
@@ -2575,7 +2575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
      "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
      "source": "Live Science",
-     "zh": "认识一下 Netflix 热门剧集《Below》背后的科学顾问"
+     "zh": "Meet the science adviser behind Netflix's hit series 'Below'"
     },
     {
      "title": "Scientists put 78,000 letters of human DNA into a mouse — and unraveled how a rare disease worked",
@@ -2615,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
      "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
      "source": "Science News",
-     "zh": "科学家如何从失败中学习？这位研究人员有线索"
+     "zh": "How do scientists learn from failure? This researcher has clues"
     },
     {
      "title": "How do tumors talk to nerves? This scientist is finding out",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 16:00:00 -0500",
      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
      "source": "MIT News",
-     "zh": "问答：在多模式基础模型中实现更多类人交互和理解"
+     "zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
     },
     {
      "title": "This year’s El Niño is unlike any other on record",
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:00:00 +0000",
      "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
      "source": "Science News",
-     "zh": "今年的厄尔尼诺现象与有记录以来的任何其他现象都不一样"
+     "zh": "This year’s El Niño is unlike any other on record"
     },
     {
      "title": "Watching as a giant star swallowed its neighbor and exploded",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:33 +0000",
      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
      "source": "Ars Technica Science",
-     "zh": "美国宇航局的新月球计划正在成形，但仍然存在一些大问题"
+     "zh": "NASA’s new Moon plan is taking shape, but some big questions remain"
     },
     {
      "title": "New approach enables physically consistent AI models of chaotic systems",
@@ -2703,7 +2703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:50:41 +0000",
      "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "网络研究人员确定了“完美弹性”理论"
+     "zh": "Network Researchers Nail Down Theory of ‘Perfect Resilience’"
     },
     {
      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
@@ -2711,7 +2711,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
      "source": "Ars Technica Science",
-     "zh": "火箭报道：跌宕起伏的周末；斯托克庆祝发动机里程碑"
+     "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
     },
     {
      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
@@ -2719,7 +2719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 07:55:54 EST",
      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
      "source": "ScienceDaily",
-     "zh": "NASA 的 Voyager 1 号距离我们太远了，光需要 24 小时才能到达"
+     "zh": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it"
     },
     {
      "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
@@ -2751,7 +2751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 18:44:39 +0000",
      "summary": "Some models fare better, but all fail in similar ways.",
      "source": "Ars Technica Science",
-     "zh": "“你是对的”——如果你问的话，法学硕士会得到错误的气候信息"
+     "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
     },
     {
      "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
@@ -2767,7 +2767,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 10:00:00 -0500",
      "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
      "source": "MIT News",
-     "zh": "如果存在微小的“原始”黑洞，我们可能会通过以下方式找到它们"
+     "zh": "If tiny “primordial” black holes exist, here’s how we might find them"
     }
    ]
   }

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 20:31:55",
+ "generated_at": "2026/11/21 20:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -1279,7 +1279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 21:45:24 +0000",
      "summary": "Tesorai’s AI platform reanalyzes massive proteomics repositories, letting researchers mine raw mass spectrometry data instead of condensed forms. In an Alzheimer’s project, it found phosphorylated tau 217 in four datasets where the original authors did not report it. The post Former Verily Leaders B",
      "source": "GEN",
-     "zh": "Verily 前领导者构建 AI 平台以从蛋白质组数据中获取更多信息"
+     "zh": "Former Verily Leaders Build AI Platform to Get More from Proteomics Data"
     },
     {
      "title": "Type 1 Diabetes Delayed in Mice by Stem Cell-Derived Vesicles That Calm Immune Response",
@@ -1759,7 +1759,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 20:14:15 GMT",
      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
      "source": "Dark Reading",
-     "zh": "挪威第二家能源公司两天内遭到破坏"
+     "zh": "Second Norwegian Energy Company Breached in 2 Days"
     },
     {
      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
@@ -1786,6 +1786,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "我国“5G + 工业互联网”项目达 2.7 万个，已覆盖全部 41 个工业大类",
+     "link": "https://www.ithome.com/1/030/473.htm",
+     "pubDate": "Sat, 21 Nov 2026 12:44:31 GMT",
+     "summary": "IT之家 11 月 21 日消息，据央视新闻从工业和信息化部了解到，目前我国 5G 应用已融入全部 97 个国民经济大类， 工业互联网已覆盖全部 41 个工业大类 。 目前，我国已经建成分类分级、特色鲜明的 5G 工厂 1260 家，培育超过 360 家具有一定影响力的工业互联网平台， 重点平台工业设备联接数超 1 亿台（套） 。 中国信息通信研究院技术与标准研究所副所长汤立波表示， 全国“5G + 工业互联网”项目已超 2.7 万个 ，有力推动各类工业场景提质降本增效，通过规模化融合应用带动产业升级。 工业和信息化部从 2024 年开始实施“5G + 工业互联网”融合应用城市试点 ，试点城市",
+     "source": "IT之家",
+     "zh": "我国“5G + 工业互联网”项目达 2.7 万个，已覆盖全部 41 个工业大类"
+    },
+    {
+     "title": "区富祝：数字人民币，如何成为亚太跨境支付新基座？",
+     "link": "https://www.huxiu.com/article/4907416.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 20:42:20 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：区富祝，原文标题：《APEC时间｜区富祝：数字人民币，如何成为亚太跨境支付新基座？》 内容提要：习近平总书记在2025年APEC庆州峰会上明确提出，深化财金领域合作、充分发挥数字技术对跨境贸易的促进作用，为数字人民币跨境支付提供了根本遵循。2026年APEC深圳峰会，是数字人民币从技术验证走向制度推广的重要窗口期。 IPP副研究员区富祝指出，当前，这一工作的推进面临安全资产不足、出口同质化、回流机制滞后、国际化长期代价四方面约束。应锚定中国产业链优势，打造开放兼容的补充性支付安全网，形成“防波堤”，进而为亚太提供制度化的区域公共产品。窗口期应推动标准对",
+     "source": "虎嗅",
+     "zh": "区富祝：数字人民币，如何成为亚太跨境支付新基座？"
+    },
+    {
+     "title": "家门口的养老院正在消失",
+     "link": "https://www.huxiu.com/article/4907382.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 20:38:08 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：田进，题图来自：视觉中国 今年上半年，秦新将养老院关停的通知发给老人和家属后，就迎来了&ldquo;让他难以招架&rdquo;的情绪反馈。 这是一家位于一线城市的社区养老院，约有40张护理床位，已运营近十年时间，常年处于满住状态，入住的大部分是周围厂区的失能、半失能老人。 秦新很能理解家属们的情绪。对老人和家属来说，搬离住了多年的养老院，几乎是一场煎熬：家属要花时间重新挑选养老院，新选的养老院可能离家更远、收费更高；老人也需要重新适应，承受更大的心理压力。考虑到投资和运营成本，秦新还是决定关停这家养老机构。 今年7月，《养老机构基本规范》《养老机构重大",
+     "source": "虎嗅",
+     "zh": "家门口的养老院正在消失"
+    },
+    {
+     "title": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失",
+     "link": "https://www.ithome.com/1/030/472.htm",
+     "pubDate": "Sat, 21 Nov 2026 12:36:00 GMT",
+     "summary": "IT之家 11 月 21 日消息，据美国 CNBC 报道，当地时间 11 月 20 日，欧洲央行行长克里斯蒂娜 · 拉加德在法兰克福欧洲银行业大会发表卸任前最后一次演讲时呼吁， 欧盟应利用公共资金，在大型芯片制造厂和数据中心项目中率先承担首轮损失，以此吸引私人资本 。 她指出：“如果某项挑战需要欧洲层面的解决方案，我们就应该加强有能力提供这种方案的欧洲机构。在技术领域，芯片制造厂和数据中心项目需要 在整个欧洲范围内达到一定规模 。因此，欧洲应建立跨区域的公私合作伙伴关系，由公共资金，包括欧盟预算资金，先行承担项目的首轮损失，吸引私人资本参与。” 拉加德此前曾警告，欧洲现有的数据中心容量无法满足",
+     "source": "IT之家",
+     "zh": "欧洲央行行长拉加德：欧盟应利用公共资金，率先承担大型芯片厂、数据中心等项目首轮损失"
+    },
+    {
+     "title": "vivo S60t 手机上架：第四代骁龙 7s 处理器、12GB RAM，3199 元起",
+     "link": "https://www.ithome.com/1/030/471.htm",
+     "pubDate": "Sat, 21 Nov 2026 12:24:50 GMT",
+     "summary": "IT之家 11 月 21 日消息，vivo 现已在京东上架 S60t 手机，该机可以看作是 S60 手机的换芯版，主要将 SoC 从第三代骁龙 8s 换成第四代骁龙 7s，匹配 12GB RAM，定价为 3599 元起，首发价 3199 元起（国补后 2448.86 元起）。 京东 vivo S60t 券后 3199 元起 领 400 元券 12GB RAM + 256GB 存储空间：3599 元，首发价 3199 元 12GB RAM + 512GB 存储空间：3999 元 该机厚度 7.92mm，重量轻至 199g，提供星星海、初夏绿、仲夏夜三种颜色可选。正面配备一块 6.59 英寸 12",
+     "source": "IT之家",
+     "zh": "vivo S60t 手机上架：第四代骁龙 7s 处理器、12GB RAM，3199 元起"
+    },
+    {
      "title": "荣耀林林展示超级快充双口充电器 GaN Max 120W，11 月 23 日发布",
      "link": "https://www.ithome.com/1/030/470.htm",
      "pubDate": "Sat, 21 Nov 2026 12:21:27 GMT",
@@ -1800,6 +1840,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 21 日消息，极摩客 GMK M10 迷你主机现已在电商平台上架，24G+512GB 版本京东售价 3899 元，活动到手价 3399 元，11 月 26 日早上 10 点开售。 京东 极摩客 GMK M10 24G+512GB 3899 元 直达链接 极摩客 M10 搭载 AMD 锐龙 5 6600H 处理器，6 核 12 线程满规格，加速频率可达 4.5GHz（实测最高睿频 4541.8MHz），配备 3MB L2 + 16MB L3 缓存。不同于轻薄本为屏幕与续航压缩功耗，M10 以性能模式稳定输出 40W，峰值可达 45W，让同一颗处理器跑出满血状态。整机实测鲁大师",
      "source": "IT之家",
      "zh": "极摩客 GMK M10 迷你主机上架：锐龙 5 6600H、24+512GB 到手 3399 元"
+    },
+    {
+     "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+     "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+     "pubDate": "Sat, 21 Nov 2026 12:15:41 +0000",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 6 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Adult-only households accounted for 55% of toy sales in the first half of 2026"
     },
     {
      "title": "JBL SOUNDGEAR SENSE 开放式蓝牙耳机发售：16.2mm 动圈单元、24 小时续航，1299 元",
@@ -1839,7 +1887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:01:00 +0000",
      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
      "source": "WIRED",
-     "zh": "最佳移动电源 (2026)：经过 100 多次测试后我的选择"
+     "zh": "Best Power Banks (2026): My Picks After Testing Over 100"
     },
     {
      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
@@ -1850,36 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems"
     },
     {
-     "title": "奥迪首款大型豪华全尺寸 SUV，一汽奥迪官宣 Q9 将在广州车展完成中国首秀",
-     "link": "https://www.ithome.com/1/030/466.htm",
-     "pubDate": "Sat, 21 Nov 2026 11:57:01 GMT",
-     "summary": "IT之家 11 月 21 日消息，一汽奥迪今日宣布，11 月 27 日，一汽奥迪将携首款大型豪华全尺寸 SUV 奥迪 Q9 及豪华产品矩阵亮相 2026 广州国际汽车展览会。 作为奥迪首款大型豪华全尺寸 SUV， 奥迪 Q9 将迎来中国首秀 。 据IT之家此前报道， 奥迪 Q9 在今年 7 月正式亮相 ，填补了奥迪长期缺少全尺寸豪华 SUV 的空白。 Q9 长 5.31 米，宽 2.21 米，高 1.81 米，轴距达到 3.14 米 。 奥迪 Q9 搭载 14.5 英寸中控屏，两侧分别为 12.3 英寸仪表屏和同尺寸副驾屏。 官方表示，奥迪 F1 展车 R26、奥迪 SQ8、全新奥迪 S5 A",
-     "source": "IT之家",
-     "zh": "奥迪首款大型豪华全尺寸 SUV，一汽奥迪官宣 Q9 将在广州车展完成中国首秀"
-    },
-    {
-     "title": "天钡 G-FLIP 带屏迷你主机新增 AMD R7 H 255 + 24G + 1T 版本，4599 元",
-     "link": "https://www.ithome.com/1/030/465.htm",
-     "pubDate": "Sat, 21 Nov 2026 11:44:33 GMT",
-     "summary": "IT之家 11 月 21 日消息，天钡 AOOSTAR 宣布为旗下 G-FLIP 迷你主机新增 AMD 锐龙 7 H255 版本，该机最大的特点是机顶配备 5 英寸可触控翻转副屏，匹配 24GB DDR5 RAM 和 1TB PCIe 4.0 SSD，定价为 4599 元。 京东 天钡 G-FLIP 迷你主机 4599 元 直达链接 该机采用铝合金机身，三维 130×130×67 (mm)、体积约 1.1L，配备均热板 + 风扇的散热系统， 顶部屏幕规格为 1920×1080 60Hz 。 其存储扩展能力为双 DDR5 SODIMM 内存插槽 + 双 M.2 PCIe 4.0×4 盘位，还搭载",
-     "source": "IT之家",
-     "zh": "天钡 G-FLIP 带屏迷你主机新增 AMD R7 H 255 + 24G + 1T 版本，4599 元"
-    },
-    {
-     "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-     "link": "https://www.ithome.com/1/030/464.htm",
-     "pubDate": "Sat, 21 Nov 2026 11:43:07 GMT",
-     "summary": "IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“ 10,000 倍的效率飞跃 ”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定律已走向终结。 在 2026 年 COSM 科技峰会上，帕特 · 基辛格出席了一场题为“现实检验：超越芯片（Reality Check: Beyond Chips）”的炉边谈话。 基辛格在谈话中反驳了半导体微缩已触及物理极限的观点， 他认为 AI 需要的不是常规的代际升级，而是计算效率实现激进的 10,000 倍跃升 。他还指出，摩尔定律（Moore’s Law）",
-     "source": "IT之家",
-     "zh": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足"
-    },
-    {
      "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
      "link": "https://www.techmeme.com/261121/p6#a261121p6",
      "pubDate": "Sat, 21 Nov 2026 06:30:01 -0500",
      "summary": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness &nbsp; &mdash;&nbsp; The in-house philosopher on the problem of consciousness and what it might feel li",
      "source": "Techmeme",
-     "zh": "谷歌 DeepMind 内部哲学家亨利·谢夫林 (Henry Shevlin) 就受聘从事机器意识、人类与人工智能关系和 AGI 准备工作的采访（Cristina Criddle/金融时报）"
+     "zh": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)"
     },
     {
      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
@@ -1951,21 +1975,21 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
      "source": "WIRED",
-     "zh": "最适合旅行的笔记本电脑（2026 年）：旅途中随身携带的笔记本电脑"
+     "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
     },
     {
-     "title": "GTA 6 首日销售额达到创纪录的了 37.9 亿美元",
+     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
      "link": "https://www.solidot.org/story?sid=85951",
      "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
      "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
      "source": "Solidot",
-     "zh": "GTA 6 首日销售额达到创纪录的了 37.9 亿美元"
+     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
     },
     {
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "My Monitor Was Cutting My Download Speed by 75%"
     },
@@ -1973,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
      "pubDate": "Sat, 21 Nov 2026 10:33:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 44 # Comments: 14",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 57 # Comments: 20",
      "source": "Hacker News",
      "zh": "FBI reportedly investigating apparent hack of its criminal database"
     },
@@ -1984,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
      "source": "钛媒体",
      "zh": "“奶茶第一股”的翻红账本"
-    },
-    {
-     "title": "许思敏辞职，娃哈哈再陷人事风波，宗馥莉的难题还没完",
-     "link": "https://www.huxiu.com/article/4907401.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 18:13:24 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：新经销 多年以前，坐在办公室的宗庆后不会想到，自己一手创办的娃哈哈，会在多年以后接连处于风波之中。 最近，据多家媒体援引知情人士消息，娃哈哈集团董事长许思敏已正式辞职。这位接替宗馥莉的年轻高管，任职约一年便传出离任消息。 同一时间，宗馥莉实际控制的宏胜饮料集团连续下发两份任免文件。11月16日、17日，两份文件合计涉及40人获任命、207人被免去现任职务，覆盖五大片区、60多家分子公司和生产基地。 四个片区的总经理调整，30名财务科长集中免职。至于被免职人员的后续岗位安排，宏胜方面尚未公开说明。 不论是员工转签、经销商调整，还是生产业务外包、商标纠纷，宗馥",
-     "source": "虎嗅",
-     "zh": "许思敏辞职，娃哈哈再陷人事风波，宗馥莉的难题还没完"
     },
     {
      "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
@@ -2007,23 +2023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 10:02:00 +0000",
      "summary": "The least you can do is buy her something nice.",
      "source": "WIRED",
-     "zh": "17 件给恩什托世女性的最佳礼物 (2026)"
-    },
-    {
-     "title": "气候变化下，儿童正面临日益严峻的风险",
-     "link": "https://www.huxiu.com/article/4907399.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 17:45:35 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：蔡星卓 2026年11月20日的北京，世界儿童日“携手向光前行，点亮儿童未来”主题活动如期举行。 同一时刻，地中海沿岸的土耳其安塔利亚，一场关乎人类未来的全球气候盛会——2026年联合国气候变化大会（COP31），也进入尾声。 这两场跨越万里的会议，共同勾勒出当今国际社会对脆弱群体与地球未来的关切。从保障儿童的生存与发展权利，到应对迫在眉睫的全球气候危机，界面新闻汇聚多方视角，试图聚焦：气候变化之下，儿童正面临怎样的挑战？ 气候变化下的儿童 “每年仍有近500万5岁以下儿童离世，其中绝大多数本可避免。”2026年11月20日，北京世界儿童日主题活动现场，",
-     "source": "虎嗅",
-     "zh": "气候变化下，儿童正面临日益严峻的风险"
-    },
-    {
-     "title": "RCE in Gnupg",
-     "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-     "pubDate": "Sat, 21 Nov 2026 08:32:58 +0000",
-     "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 52 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "RCE in Gnupg"
+     "zh": "17 Best Gifts for Women in the Enshittocene (2026)"
     }
    ]
   },
@@ -2034,12 +2034,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
+     "link": "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/",
+     "pubDate": "Sat, 21 Nov 2026 12:38:15 +0000",
+     "summary": "Save $160 on Sonos's compact Dolby Atmos soundbar, now $10 below its previous best price on Amazon.",
+     "source": "Android Authority",
+     "zh": "Sonos Beam (Gen 2) soundbar drops to a record-low $339"
+    },
+    {
+     "title": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more",
+     "link": "https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/",
+     "pubDate": "Sat, 21 Nov 2026 12:30:00 +0000",
+     "summary": "A roundup of recent reviews from Engadget.",
+     "source": "Engadget",
+     "zh": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more"
+    },
+    {
      "title": "Heads up! Galaxy Watch 7 is 40% off for Black Friday",
      "link": "https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/",
      "pubDate": "Sat, 21 Nov 2026 11:57:20 +0000",
      "summary": "Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.",
      "source": "Android Authority",
-     "zh": "小心！ Galaxy Watch 7 黑色星期五 40% 折扣"
+     "zh": "Heads up! Galaxy Watch 7 is 40% off for Black Friday"
     },
     {
      "title": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale",
@@ -2071,7 +2087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 06:41:02 +0100",
      "summary": "Oppo brought the Find X10 and the Find X10 Pro Max to the global stage earlier than its main rivals – Oppo’s rollout started on October 21, vivo launched its X500 series on October 27 and Xiaomi expanded the availability of its 18 Pro models earlier this week. This means that the X10 models are also",
      "source": "GSMArena",
-     "zh": "优惠：Oppo Find X10 和 Find X10 Pro Max 现在黑色星期五有更大折扣"
+     "zh": "Deal: the Oppo Find X10 and Find X10 Pro Max now have an even bigger discount for Black Friday"
     },
     {
      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
@@ -2111,7 +2127,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 02:33:02 +0100",
      "summary": "Motorola's first wide foldable, the Razr Flex, has been leaking a lot lately. Yesterday, an alleged live image of its back surfaced alongside a certification, and now we have a couple of new renders of the device portraying it in both of its colors, giving us the best look at its design yet. The Pan",
      "source": "GSMArena",
-     "zh": "摩托罗拉宽屏 Razr Flex 现在有两种颜色可供选择，展示多种角度"
+     "zh": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles"
     },
     {
      "title": "WhatsApp increases the group chat limit to 1,500 members",
@@ -2135,7 +2151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 23:48:00 +0000",
      "summary": "We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.",
      "source": "Engadget",
-     "zh": "为什么你不应该依赖 GTA 6 来自动保存"
+     "zh": "Why you shouldn't depend on GTA 6 to auto-save"
     },
     {
      "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
@@ -2151,7 +2167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 23:40:10 +0000",
      "summary": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
      "source": "Engadget",
-     "zh": "YouTube 可能支付 30 亿美元与学区和解社交媒体成瘾诉讼"
+     "zh": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts"
     },
     {
      "title": "iOS 27 lets you use two iPhones with the same phone number",
@@ -2159,7 +2175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 23:06:00 +0000",
      "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Among iOS 27’s many new features is a gr",
      "source": "9to5Mac",
-     "zh": "iOS 27 让你可以使用同一电话号码的两部 iPhone"
+     "zh": "iOS 27 lets you use two iPhones with the same phone number"
     },
     {
      "title": "The Internet Archive's workers are unionizing",
@@ -2175,7 +2191,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:59:26 +0000",
      "summary": "The Titan 2 Elite will get a new shade later this month.",
      "source": "Android Authority",
-     "zh": "Titan 2 Elite键盘手机即将换上新配色，粉丝们已经有了猜测"
+     "zh": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses"
     },
     {
      "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
@@ -2183,7 +2199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:58:47 +0000",
      "summary": "Fernando and Jeff are back to talk about the iPhone Duo after a month of use, including the new face unlock and close-to-lock toggle in iOS 27.3 beta 2. They also dig into Siri AI’s Health app access and its quirks, the HomePod mini stereo pair on Mac, the M6 Mac mini, the new iPad mini, and Apple’s",
      "source": "9to5Mac",
-     "zh": "9to5Mac 加班 091：尝试一下，看看效果如何"
+     "zh": "9to5Mac Overtime 091: Kicking the tires and seeing what works"
     },
     {
      "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
@@ -2223,7 +2239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:02:54 +0000",
      "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
      "source": "Engadget",
-     "zh": "GTA 6首日收入37.9亿美元，但Rockstar员工仍缺乏工作保障"
+     "zh": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security"
     },
     {
      "title": "Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)",
@@ -2231,15 +2247,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:57:27 +0000",
      "summary": "Viture’s smart display glasses offer official Switch 2 compatibility with the Mobile Dock Mini, and these Black Friday deals even come with free bonus controllers and other accessories. more…",
      "source": "9to5Google",
-     "zh": "Viture 的 Nintendo Switch 2 智能眼镜处于有史以来最低价格（最高折扣 160 美元）"
-    },
-    {
-     "title": "Survey finds Pixel 11 Pro owners are mostly happy with their purchase",
-     "link": "https://www.androidauthority.com/pixel-11-pro-three-months-later-poll-results-3737834/",
-     "pubDate": "Fri, 20 Nov 2026 20:39:41 +0000",
-     "summary": "Over 40% love their phone.",
-     "source": "Android Authority",
-     "zh": "Survey finds Pixel 11 Pro owners are mostly happy with their purchase"
+     "zh": "Nintendo Switch 2-ready smart glasses from Viture are at their lowest price ever (up to $160 off)"
     },
     {
      "title": "Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]",
@@ -2250,20 +2258,12 @@ window.INDUSTRY_DATA = {
      "zh": "Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]"
     },
     {
-     "title": "Germany seems to be serious about a TikTok Europe takeover",
-     "link": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/",
-     "pubDate": "Fri, 20 Nov 2026 20:35:35 +0000",
-     "summary": "The company has called the idea \"nonsense.\"",
-     "source": "Engadget",
-     "zh": "Germany seems to be serious about a TikTok Europe takeover"
-    },
-    {
      "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
      "link": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/",
      "pubDate": "Fri, 20 Nov 2026 20:25:35 +0000",
      "summary": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
      "source": "9to5Mac",
-     "zh": "Apple Watch Series 12：四个突出功能让我很高兴我升级了"
+     "zh": "Apple Watch Series 12: Four standout features make me glad I upgraded"
     },
     {
      "title": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
@@ -2271,7 +2271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:52:21 +0000",
      "summary": "Apple TV ( now $6.99/month for limited time ) is primarily home to original shows and movies, but Apple recently started adding fan-favorite classic films too. Here’s what’s new and coming next. more…",
      "source": "9to5Mac",
-     "zh": "Apple TV 不断添加粉丝喜爱的电影，以下是接下来的新内容"
+     "zh": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next"
     }
    ]
   },
@@ -2282,12 +2282,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+     "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+     "pubDate": "Sat, 21 Nov 2026 12:47:25 GMT",
+     "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+     "source": "CNBC",
+     "zh": "An early breakdown in the polar vortex is threatening already depleted gas stocks"
+    },
+    {
+     "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+     "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 12:31:00 GMT",
+     "summary": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&P 500 index funds and why he favors hard assets",
+     "source": "MarketWatch",
+     "zh": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks."
+    },
+    {
      "title": "Capricor reviewing operations as FDA rejects cell therapy",
      "link": "https://seekingalpha.com/news/4675389-capricor-stock-down-fda-rejects-cell-therapy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 07:25:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FDA 拒绝细胞疗法后，Capricor 正在审查运营情况"
+     "zh": "Capricor reviewing operations as FDA rejects cell therapy"
     },
     {
      "title": "From ChatGPT to Claude deals: Walmart looks like an agentic AI winner",
@@ -2306,12 +2322,68 @@ window.INDUSTRY_DATA = {
      "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
     },
     {
+     "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+     "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 12:00:00 GMT",
+     "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
+     "source": "MarketWatch",
+     "zh": "How a brutal week for stocks almost wiped out their gains for the entire year"
+    },
+    {
      "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
      "link": "https://wallstreetcn.com/articles/3786438",
      "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
      "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
      "source": "华尔街见闻",
      "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
+    },
+    {
+     "title": "再走长征路｜多元业态协同布局 台江岗党略村拓宽增收路径",
+     "link": "http://finance.eastmoney.com/news/1355,202611213936837959.html",
+     "pubDate": "Sat, 21 Nov 2026 19:41:19 +0800",
+     "summary": "清水江奔流不息，岗党略村静立江畔。偏寨现为岗党略村下辖的自然寨，1934年12月，军委纵队在此驻扎，留下军委纵队驻地旧址、红军清水江渡口等红色遗存。 如今，在贵州省黔东南州台江县施洞镇岗党略村，红色资源不再局限于陈列在旧址里的历史记忆，而是转化为可运营的产业载体。依托台江县委党校施洞校区阵地，村里打造后勤服务、红色研学、乡村旅游联动模式，同步探索直播带货、特色 农产品 开发、灰鹅养殖等新业态，构建多元支撑的村集体经济格局。 “我们一边守住研学、后勤这些稳当的收入板块，一边发展种养、电商带货，多条路子一起闯，壮大村集体经济。”贵州省委组织部派驻岗党略村驻村第一书记唐林海表示，多条增收渠道同步发力",
+     "source": "东方财富股票",
+     "zh": "再走长征路｜多元业态协同布局 台江岗党略村拓宽增收路径"
+    },
+    {
+     "title": "深耕花生产业优势 莒南三大粮油龙头聚力提质赋能产业升级",
+     "link": "http://finance.eastmoney.com/news/1348,202611213936837864.html",
+     "pubDate": "Sat, 21 Nov 2026 19:41:17 +0800",
+     "summary": "11月19日，《中国经营报》记者赴临沂市莒南县实地走访当地三大食用油龙头企业，在莒南县相关负责人陪同下，先后走进山东金胜粮油食品有限公司（以下简称“金胜粮油”）、山东玉皇粮油食品有限公司（以下简称“玉皇粮油”）、山东兴泉油脂有限公司（以下简称“兴泉油脂”），深入生产车间、检验检测中心、仓储基地，调研企业生产运营、原料采购、技术改造、品牌建设以及产业链延伸情况，聚焦“中国花生之乡”粮油产业集群当下的发展机遇与现实压力。 莒南是国内知名花生主产区，“莒南花生”为国家地理标志产品，依托本地花生资源，当地培育起金胜粮油、玉皇粮油、兴泉油脂三大头部花生油加工企业，共同构成莒南精品粮油产业链核心主体，也是",
+     "source": "东方财富股票",
+     "zh": "深耕花生产业优势 莒南三大粮油龙头聚力提质赋能产业升级"
+    },
+    {
+     "title": "机器人上岗手机产线 智元与蓝思科技达成合作",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936837427.html",
+     "pubDate": "Sat, 21 Nov 2026 19:41:14 +0800",
+     "summary": "机器人 已进入手机产线工作。 《中国经营报》记者从智元创新（AGIBOT）方面获悉，近日，智元创新与国内智能终端全产业链精密制造龙头 蓝思科技 （300433.SZ）达成战略合作，于手机测试产线部署精灵G2 机器人 ，数十台 机器人 同时进行测试工位自动上下料、测试设备交互等工作，打造3C手机测试场景标准化样板。 记者注意到，本次工业部署态落地，聚焦手机MMI、ANT、CAM、CAMCV等测试环节，这类岗位有操作重复性高、机型迭代快等要求。在业内人士看来，若双方完整跑通工艺适配、产线联调、交付落地全链路，可沉淀出标准化交付流程与项目实施体系，将具备极强的1-N规模化复制潜力。 据介绍，依托智元",
+     "source": "东方财富股票",
+     "zh": "机器人上岗手机产线 智元与蓝思科技达成合作"
+    },
+    {
+     "title": "青海德令哈发生5.6级地震 初步排查未发现人员伤亡和房屋倒塌事件",
+     "link": "http://finance.eastmoney.com/news/11790,202611213936836510.html",
+     "pubDate": "Sat, 21 Nov 2026 19:40:04 +0800",
+     "summary": "11月21日，德令哈市融媒体中心发布情况通报：11月21日18时45分在青海海西州德令哈市发生5.6级地震，震源深度10公里，震中位于北纬37.14度，东经96.62度。经初步排查未发现人员伤亡和房屋倒塌事件，目前一切正常。后续排查正在进行中。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "青海德令哈发生5.6级地震 初步排查未发现人员伤亡和房屋倒塌事件"
+    },
+    {
+     "title": "快手的AI换挡阵痛：利润下滑，可灵AI持续加码",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936836193.html",
+     "pubDate": "Sat, 21 Nov 2026 19:37:14 +0800",
+     "summary": "快手正在经历一次并不轻松的业务换挡。 一边是广告、电商和直播等传统业务承压，收入和利润出现明显下滑；另一边是可灵AI等 人工智能 业务持续加码，研发投入快速增长。 11月19日，快手发布2026年第三季度业绩。财报显示，报告期内快手实现营收315.92亿元，同比下降11.1%；期内亏损9.59亿元，上年同期为盈利44.89亿元；经调整净利润为7.9亿元，同比下降84.2%；毛利率则从去年同期的54.7%降至48.2%。 在财报电话会上，快手创始人、董事长兼首席执行官程一笑表示：“动态变化的消费环境和日益激烈的外部竞争给业务带来短期压力。尽管增加了 人工智能 投入，特别是可灵AI方面的投入，公司",
+     "source": "东方财富股票",
+     "zh": "快手的AI换挡阵痛：利润下滑，可灵AI持续加码"
+    },
+    {
+     "title": "“国潮文创”首个京外外拓专区落地秦始皇兵马俑博物馆",
+     "link": "http://finance.eastmoney.com/news/1373,202611213936836317.html",
+     "pubDate": "Sat, 21 Nov 2026 19:37:01 +0800",
+     "summary": "近日，国家文化产业创新实验区·国潮文创首个京外外拓专区落地西安秦始皇兵马俑博物馆。此次，是国家文化产业创新实验区·国潮文创品牌走出北京、向外拓局的重要一步。依托秦俑世界级文化 IP，推动首都文 创力 量与陕西历史文化资源深度联动，拓宽品牌落地场景，探索国潮文创跨地域文旅融合发展新路径。 据了解，自2025年承接 “国潮文创” 项目以来，潘家园文创稳步推进品牌建设，于潘家园旧货市场落地品牌首店，搭建起涵盖千余款产品的国潮文创产品矩阵，并持续亮相服贸会、文旅产业博览会等重点展会平台。 国家文创实验区管委会负责人表示，本次“国潮文创”走出北京、落地西安，不是简单地把首店模式复制到另一个空间，而是引导",
+     "source": "东方财富股票",
+     "zh": "“国潮文创”首个京外外拓专区落地秦始皇兵马俑博物馆"
     },
     {
      "title": "S&P 500 correction: Five forces behind the market sell-off",
@@ -2407,7 +2479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 06:32:26 GMT",
      "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
      "source": "Financial Times",
-     "zh": "历史的死手给德意志银行带来压力"
+     "zh": "The dead hand of history weighs on Deutsche Bank"
     },
     {
      "title": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵",
@@ -2426,14 +2498,6 @@ window.INDUSTRY_DATA = {
      "zh": "How China is using summits to expand its global influence"
     },
     {
-     "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-     "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-     "pubDate": "Sat, 21 Nov 2026 06:00:02 GMT",
-     "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-     "source": "CNBC",
-     "zh": "极地涡旋的早期崩溃正威胁着已经耗尽的天然气库存"
-    },
-    {
      "title": "The manufacturing of novelty",
      "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
      "pubDate": "Sat, 21 Nov 2026 05:00:36 GMT",
@@ -2447,79 +2511,15 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 05:00:16 GMT",
      "summary": "The freezer war is just a start",
      "source": "Financial Times",
-     "zh": "人工智能网络威胁已经来临"
+     "zh": "The AI cyber threat is already here"
     },
     {
-     "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
-     "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 19:10:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook"
-    },
-    {
-     "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
-     "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 18:16:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ANPG表示，埃克森美孚凭借新发现批准了安哥拉4B美元油田开发"
-    },
-    {
-     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-     "pubDate": "Fri, 20 Nov 2026 22:59:33 GMT",
-     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
-     "source": "CNBC",
-     "zh": "英伟达股价暴跌14%，结束自2008年金融危机以来最长的单周下跌"
-    },
-    {
-     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
-     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
-    },
-    {
-     "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
-     "link": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:40:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orange County Bancorp raises dividend by 27.85 to $0.23"
-    },
-    {
-     "title": "Nvidia faces US regulator’s probe into its accounting",
-     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
-     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-     "source": "Financial Times",
-     "zh": "Nvidia faces US regulator’s probe into its accounting"
-    },
-    {
-     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-     "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:52:25 GMT",
-     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-     "source": "Financial Times",
-     "zh": "US tech stocks plunge into bear market in worst week since Covid-19 crisis"
-    },
-    {
-     "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-     "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-     "pubDate": "Fri, 20 Nov 2026 21:35:24 GMT",
-     "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-     "source": "CNBC",
-     "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
-    },
-    {
-     "title": "Federal Reserve announces College Fed Challenge winners",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-     "pubDate": "Fri, 20 Nov 2026 21:15:00 GMT",
-     "summary": "Federal Reserve announces College Fed Challenge winners",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve announces College Fed Challenge winners"
+     "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+     "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 03:20:00 GMT",
+     "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+     "source": "MarketWatch",
+     "zh": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies"
     }
    ]
   },
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
      "summary": "A new positioning technology could make autonomous vehicles and robotaxis more reliable at recharging themselves.",
      "source": "Live Science",
-     "zh": "“电动汽车只需停车即可充电的未来”：新的定位系统可以使无线电动汽车充电更加高效"
+     "zh": "'A future where EVs charge simply by parking': New positioning system could make wireless EV charging much more efficient"
     },
     {
      "title": "Why do wolves howl?",
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:24:22 EST",
      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
      "source": "ScienceDaily",
-     "zh": "NASA 的 Voyager 1 号现在离我们太远了，光需要 24 小时才能到达"
+     "zh": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it"
     },
     {
      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
@@ -2575,7 +2575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:11:14 EST",
      "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understand",
      "source": "ScienceDaily",
-     "zh": "在太空呆了 8 年之后，突破性的 X 射线望远镜终于睁开了眼睛"
+     "zh": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes"
     },
     {
      "title": "Brains of people with PTSD have unique epigenetic marks, study finds",
@@ -2591,7 +2591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 16:00:00 -0500",
      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
      "source": "MIT News",
-     "zh": "问答：在多模式基础模型中实现更多类人交互和理解"
+     "zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
     },
     {
      "title": "This year’s El Niño is unlike any other on record",
@@ -2727,7 +2727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 23:00:45 +0000",
      "summary": "Meerkats wearing GPS trackers found their way home from more than a kilometer away, all by themselves.",
      "source": "Science News",
-     "zh": "独行的猫鼬可以找到回家的路"
+     "zh": "Solo meerkats can find their way back home"
     },
     {
      "title": "AI helps researchers investigate how thousands of medical studies share code",

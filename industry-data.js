@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 10:44:15",
+ "generated_at": "2026/11/21 10:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -274,6 +274,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -282,12 +290,52 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -874,6 +874,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+     "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
+     "pubDate": "Sat, 21 Nov 2026 02:34:38 +0000",
+     "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company’s own cloud environment, giving the team direct responsibility for data policies, access permissions, ",
+     "source": "CleanTechnica",
+     "zh": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards"
+    },
+    {
+     "title": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc",
+     "link": "https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/",
+     "pubDate": "Sat, 21 Nov 2026 02:32:49 +0000",
+     "summary": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company’s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-scale so",
+     "source": "CleanTechnica",
+     "zh": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc"
+    },
+    {
      "title": "New ID. Polo GTI Clubsport Concept: This Electric GTI Is Ready For The Racetrack",
      "link": "https://cleantechnica.com/2026/11/20/new-id-polo-gti-clubsport-concept-this-electric-gti-is-ready-for-the-racetrack/",
      "pubDate": "Sat, 21 Nov 2026 02:20:22 +0000",
@@ -904,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Energy expert Nick Wayth unpacks findings from this year’s report—and what needs to happen next. The International Energy Agency has published its World Energy Outlook 2026 amid an unprecedented global energy crisis that is reshaping how countries think about energy security. The report finds that t",
      "source": "CleanTechnica",
      "zh": "Is the Energy Crisis Accelerating the Clean Energy Transition? 4 Takeaways from the IEA’s World Energy Outlook 2026"
-    },
-    {
-     "title": "RISE St. James, Sierra Club Sue LDEQ to Vacate Hyundai Steel Air Permit",
-     "link": "https://cleantechnica.com/2026/11/20/rise-st-james-sierra-club-sue-ldeq-to-vacate-hyundai-steel-air-permit/",
-     "pubDate": "Sat, 21 Nov 2026 00:45:43 +0000",
-     "summary": "LDEQ issued air permit to the facility despite serious flaws in permit. Donaldsonville, Louisiana — Today, RISE St. James Louisiana and Sierra Club filed a lawsuit challenging Louisiana Department of Environmental Quality’s decision to issue an air permit to Hyundai-POSCO for its proposed steelmakin",
-     "source": "CleanTechnica",
-     "zh": "RISE St. James, Sierra Club Sue LDEQ to Vacate Hyundai Steel Air Permit"
     },
     {
      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
@@ -968,14 +976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Europe’s biggest airline group, Lufthansa, plans to eliminate as many as 1,000 jobs and reduce capacity on short and medium-haul destinations, Bloomberg reported on Friday, citing a letter to employees it had seen. Lufthansa and all other airlines have struggled this year with increasing pressure on",
      "source": "OilPrice",
      "zh": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs"
-    },
-    {
-     "title": "Electric Vans — Are They The Final EV Frontier? Kia PV5.",
-     "link": "https://cleantechnica.com/2026/11/20/electric-vans-are-they-the-final-ev-frontier-kia-pv5/",
-     "pubDate": "Fri, 20 Nov 2026 17:27:03 +0000",
-     "summary": "We took a trip to see the Kia PV5 electric van. Our brief takeaway: “Kool like a Kia.” Should keep the bean counters happy. Inspired by a comment in the Electric Vehicle Council report about electric vans, Majella and I decided to have a short visit to a group of ... [continued] The post Electric Va",
-     "source": "CleanTechnica",
-     "zh": "Electric Vans — Are They The Final EV Frontier? Kia PV5."
     },
     {
      "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
@@ -1786,6 +1786,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
+     "link": "https://www.techmeme.com/261120/p45#a261120p45",
+     "pubDate": "Fri, 20 Nov 2026 21:45:01 -0500",
+     "summary": "The Information : Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &ldquo;no longer under active consideration&rdquo; &nbsp; &mdash;&nbsp; SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-",
+     "source": "Techmeme",
+     "zh": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)"
+    },
+    {
+     "title": "25万页证明，黎曼猜想被AI“解决”了吗？",
+     "link": "https://www.huxiu.com/article/4907351.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 10:38:32 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：Steed，编辑：吴欧 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己借助AI模型Claude，找到了黎曼猜想的证明。 消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由AI生成的机器代码。代码规模极其吓人：如果要打印成人类能读懂的数学文本，足足超过25万页；转化成计算机能严密校验的代码，长达1700万行，压缩后还要分成14个分卷。 宣称与Claude合作找到黎曼猜想证明的数学家阿尔珀格丨阿尔珀格个人",
+     "source": "虎嗅",
+     "zh": "25万页证明，黎曼猜想被AI“解决”了吗？"
+    },
+    {
+     "title": "安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光",
+     "link": "https://www.ithome.com/1/030/330.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:37:42 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称微软正酝酿升级安卓版“连接至 Windows”（Link to Windows）应用，开发“扩展显示”（Extend display）功能， 有望让安卓手机变身电脑副屏。 该媒体指出和当前将手机投屏到电脑显示器上相反，“扩展显示”将部分电脑桌面传送到手机上，为用户额外增加一块显示区域。例如手机可用于放置聊天窗口；如果平板获得支持，更大的屏幕则适合显示参考文档，让闲置设备有机会重新派上用场。 该媒体通过挖掘最新安卓版“连接至 Windows”应用程序，在界面文字、图标及代码中发现相",
+     "source": "IT之家",
+     "zh": "安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光"
+    },
+    {
      "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
      "link": "https://www.techmeme.com/261120/p44#a261120p44",
      "pubDate": "Fri, 20 Nov 2026 21:35:02 -0500",
@@ -1800,6 +1824,22 @@ window.INDUSTRY_DATA = {
      "summary": "日本站独立站刚起量，主推中高客单家居杂货，团队5个人，月广告预算约120万日元，Meta和Google购物双开。日语客服外包给大阪一家BPO，按坐席包月18万日元，含邮件和LINE官方账号应答，响应时效压到4小时内。现在投放端CPA约6800日元，加上客服成本摊到每单差不多多出900日元，ROI从2.1掉到1.7。试过把FAQ和自动回复做厚，邮件量降了三成，但LINE上的售前咨询还是压不下来，外包坐席不敢减。卡在不知道该把客服成本并进CPA考核，还是单独按复购和客单价来算账。你们做日本站时，客服外包这笔固定支出是按什么口径摊进投放模型的？",
      "source": "白鲸出海",
      "zh": "日本独立站日语客服外包月花18万日元，这笔钱该算进CPA还是单独扛？"
+    },
+    {
+     "title": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起",
+     "link": "https://www.ithome.com/1/030/329.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:32:24 GMT",
+     "summary": "IT之家 11 月 21 日消息，在蔚来品牌及品牌标识发布十周年之际，蔚来 ES9 地平线鎏金特别版正式上市，售价 63.8 万元起；采用 BaaS 电池租用方式购买，售价 53 万元起。 据官方介绍，该车提供 鎏金拂晓、鎏金晨曦、鎏金朗照 配色，搭载鎏金双叠地平线腰线。历经 8 次喷涂、5 次烘烤，多重色漆与清漆层层叠加，再经 12 道工序、109 小时精细打磨。此外，该车还提供 24K 鎏金银色车标、24K 鎏金玄金车标，搭配 24K 鎏金悬浮轮标及 22 英寸锻造揽月轮圈。 座舱方面，该车带来全新双色内饰主题「苏木红」搭配「云贝米」，以及「可可棕」搭配「帕米尔棕」，行业首次引入「金属绣线",
+     "source": "IT之家",
+     "zh": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起"
+    },
+    {
+     "title": "微软发布 Win11 26340.10032 等预览版：新增 People 小组件、优化蓝牙 LE Audio 立体声输出",
+     "link": "https://www.ithome.com/1/030/281.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:28:15 GMT",
+     "summary": "IT之家 11 月 21 日消息，微软昨天（11 月 20 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新。 本次推送的版本分别为： Beta 通道（26H2）：最新预览版 Build 26320.10022 Beta 通道（26H1）：最新预览版 Build 28020.3562 Experimental 通道（26H2）：最新预览版 Build 26340.10032 Experimental 通道（26H1）：最新预览版 Build 28120.3571 Experimental",
+     "source": "IT之家",
+     "zh": "微软发布 Win11 26340.10032 等预览版：新增 People 小组件、优化蓝牙 LE Audio 立体声输出"
     },
     {
      "title": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”",
@@ -1866,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达董事会为何对黄仁勋态度转变？婚外情无关紧要，核心问题在于诚信"
     },
     {
-     "title": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布",
-     "link": "https://www.ithome.com/1/030/324.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:09:38 GMT",
-     "summary": "IT之家 11 月 21 日消息，华为今日公布 Mate X8 大折叠手机黑白双色官图，新机将于 11 月 24 日 14:30 发布。 IT之家注意到，华为 Mate X8 及全场景新品发布会将于 11 月 24 日 14:30 举行，目前这款折叠屏新机已现身华为官网，并公开了部分配置信息及所有配色的外观图。 颜色 紫金锦 苍穹黑 雪域白 青云锦 丹霞锦 配置 12GB+256GB 12GB+512GB 16GB+512GB 典藏版 16GB+1TB 典藏版 除了常规功能外，预告显示华为 Mate X8 在屏幕右下方添加一块虚拟光标操控区，在这块区域滑动、轻点，就能控制屏幕上的光标，点屏幕任",
-     "source": "IT之家",
-     "zh": "华为 Mate X8 大折叠手机黑白双色亮相，11 月 24 日发布"
-    },
-    {
      "title": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？",
      "link": "https://www.baijing.cn/question/638861",
      "pubDate": "Sat, 21 Nov 2026 02:06:35 +0000",
@@ -1890,22 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "广深地位为何易位？"
     },
     {
-     "title": "比亚迪闪充枪突破 3.1 万个：覆盖全国 345 城，用户超 357 万人",
-     "link": "https://www.ithome.com/1/030/323.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:03:39 GMT",
-     "summary": "IT之家 11 月 21 日消息，比亚迪今日公布闪充网络最新运营数据：截至 11 月 20 日，全国累计上线闪充枪 31014 个，覆盖 345 座城市，闪充总用户数超过 357 万人。 截至 9 月 30 日，比亚迪闪充网络累计上线 9009 座闪充站、21214 把枪，覆盖 342 座城市，用户数约 183 万。不到两个月，枪数增加近万把，用户规模接近翻倍。截至 10 月 7 日，闪充站数量为 12165 座，其中高速站 2111 座。 比亚迪闪充技术于 2026 年 3 月 5 日发布，配套单枪峰值功率 1500kW 的闪充桩，配合第二代刀片电池，常温下电量从 10% 充至 97% 用时",
-     "source": "IT之家",
-     "zh": "比亚迪闪充枪突破 3.1 万个：覆盖全国 345 城，用户超 357 万人"
-    },
-    {
-     "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-     "link": "https://www.ithome.com/1/030/322.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:03:24 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 Ars Technica 今天（11 月 21 日）发布博文，报道称安全公司 Dragos 首席研究官 HD Moore 向多家 AI 服务商发送近 200 万条带有可追踪“诱饵”的请求， 发现 AI 服务链存在黑客窃取提示词、转售商泄露数据及未遵守隐私设置等问题。 研究人员故意把一批可追踪的“测试秘密”（并非从真实用户渠道收集）发给 AI，观察之后有没有其他程序或人拿它们去访问系统，从而判断数据是否流出、可能从哪条服务链流出。 调查发现，至少三家服务商出现遭入侵迹象，攻击者利用窃取的诱饵密钥发起数万次云服务接口调用，尝试寻找更多凭证、开通服务并维持",
-     "source": "IT之家",
-     "zh": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密"
-    },
-    {
      "title": "战魔田默｜国企并购变天？国资委提出摒弃“大吃小”，大鱼吃小鱼的规矩要变了吗？",
      "link": "https://www.huxiu.com/article/4907346.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 09:46:50 +0800",
@@ -1920,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "独立站做户外露营配件，澳洲市场刚起量，3人小团队。上季度找墨尔本和奥克兰的户外垂类红人做联盟分销，佣金设15%，另付样品和一次性推广费约合4200澳元。结果红人带来的订单CPA冲到38澳元，而站内Google Shopping的CPA只有19澳元，联盟渠道整体ROI不到1.3。我试过把佣金降到10%、只保留带货视频挂链的红人，转化率从1.8%掉到1.1%，量也腰斩。现在卡在：澳新红人报价普遍比东南亚高，但粉丝体量小、复购弱，不知道是继续按CPA筛选红人，还是干脆把预算挪回付费搜索。想问问做澳新市场的同行，你们判断红人联盟值不值得留的具体标准是什么？",
      "source": "白鲸出海",
      "zh": "澳新红人联盟佣金给到15%还倒亏，独立站该不该砍掉这块预算？"
-    },
-    {
-     "title": "利润率1.4%，金九银十变“金九银亏”",
-     "link": "https://www.huxiu.com/article/4907342.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 09:21:49 +0800",
-     "summary": "本文来自微信公众号： BusinessCars ，作者：匹诺，原文标题：《一周股评｜利润率1.4%，金九银十变“金九银亏”》 评一周车股，察百态车市。 近日，乘联分会发布的前三季度行业运营数据，以及多家A股汽车上市公司披露的三季度财报，全行业在销量微幅波动的背景下，营收保持低速增长，成本增速却悄然跑赢营收，最终将行业整体销售利润率压至3.3%，9月单月更是跌至1.4%，创下近四年来的最低水平。 这组数据的分量，远不止于几个冰冷的数字。 2026年1至9月，国内汽车累计生产2337万辆，同比小幅下降4%；对应全行业营收总额80435亿元，同比增长2.6%；但同期营业总成本达到71627亿元，同比",
-     "source": "虎嗅",
-     "zh": "利润率1.4%，金九银十变“金九银亏”"
     },
     {
      "title": "韩国短剧平台分账周期拉到90天，我们这种小体量内容方还要不要继续备新剧？",
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 42 # Comments: 8",
      "source": "Hacker News",
      "zh": "Sir Brian May adds new dimension to Hera asteroid"
-    },
-    {
-     "title": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261120/p40#a261120p40",
-     "pubDate": "Fri, 20 Nov 2026 18:05:04 -0500",
-     "summary": "Wall Street Journal : Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &nbsp; &mdash;&nbsp; The new financing would represent a nearly 20% increase from its August valuation&nbsp; &mdash;&nbsp; Data",
-     "source": "Techmeme",
-     "zh": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
+     "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+     "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
+     "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
+     "source": "9to5Google",
+     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
+    },
     {
      "title": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles",
      "link": "https://www.gsmarena.com/motorolas_wide_razr_flex_now_leaks_in_two_colors_showing_off_a_lot_of_angles-news-75578.php",
@@ -2258,14 +2266,6 @@ window.INDUSTRY_DATA = {
      "zh": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?"
     },
     {
-     "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
-     "link": "https://9to5google.com/2026/11/20/google-health-5-13-release-notes/",
-     "pubDate": "Fri, 20 Nov 2026 19:00:55 +0000",
-     "summary": "Version 5.13 of Google Health is rolling out to Android and iOS with updates across five areas. It’s a modest release that reiterates recent launches. more…",
-     "source": "9to5Google",
-     "zh": "Google Health 5.13 rolling out: Improved food search, more swimming controls"
-    },
-    {
      "title": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday",
      "link": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
      "pubDate": "Fri, 20 Nov 2026 19:02:03 +0100",
@@ -2282,12 +2282,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "孙正义近期曾与华尔街机构探讨为收购SK海力士融资",
+     "title": "开普云签约新疆喀什政务大模型项目",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936792546.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:54 +0800",
+     "summary": "据 开普云 消息，近日， 开普云 签约新疆喀什地区数字政府“一网通办·政务大模型”建设项目。项目围绕数字政府智能化建设需求，依托大模型、智能体及数据智能分析等技术，建设政务AI助手、经济数据分析预警、援疆项目管理三大 AI应用 平台，为政务办公、经济运行分析及援疆项目管理等业务提供智能化支撑。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "开普云签约新疆喀什政务大模型项目"
+    },
+    {
+     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
+     "summary": "财联社11月21日讯（记者林溪） 11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股",
+     "source": "东方财富股票",
+     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
+    },
+    {
+     "title": "承接长三角优质资源落地，连云港推动数字文化产业创新突破",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936792454.html",
+     "pubDate": "Sat, 21 Nov 2026 10:33:57 +0800",
+     "summary": "11月19日至22日，第七届长三角国际文化产业博览会在上海举行，传统文化活化升级、数字科技赋能产业成为本届盛会核心议题。11月20日下午，依托文博会高端平台， 连云港 组团参展、专场招商双线发力，在沪举办“大圣故里·数智港城”数字文化产业招商对接会，以“西游文化+新质生产力”为赋能核心，对接长三角优质产业、科创、资本资源，探索 连云港 传统文化现代化转化的全新路径。 一部西游，连着一座城；一只猴宝，牵起众人心；两项共创，汇聚万钧力。活动现场最受瞩目的，是“西游AIGC共创计划、猴宝IP共创计划”的正式发布——依托长三角文博会，搭建西游、猴宝主题共创平台，深化打造西游文化品牌，助力山海文旅名城建",
+     "source": "东方财富股票",
+     "zh": "承接长三角优质资源落地，连云港推动数字文化产业创新突破"
+    },
+    {
+     "title": "软银孙正义曾探讨以1万亿美元收购SK海力士",
      "link": "http://finance.eastmoney.com/news/1354,202611213936792075.html",
      "pubDate": "Sat, 21 Nov 2026 10:33:41 +0800",
      "summary": "据知情人士透露，软银董事长孙正义近期接洽华尔街机构，商议融资推进一笔规模达万亿级美元的收购，目标是 存储芯片 巨头 SK海力士 ，但软银发言人表示，孙正义现已不再积极推进该交易。软银发言人称：“软银会考察大量机会，这笔交易目前已不再纳入积极评估范围。” SK海力士 暂未回应置评请求。软银此前重仓OpenAI，资产负债表已经承压，目前尚不清楚其该如何筹措这笔收购资金。也没有迹象表明华尔街机构愿意为软银提供这笔融资。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "孙正义近期曾与华尔街机构探讨为收购SK海力士融资"
+     "zh": "软银孙正义曾探讨以1万亿美元收购SK海力士"
     },
     {
      "title": "汽车产业竞争：正从整车性能比拼转向软件与生态较量",
@@ -2304,30 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "据报道，美国FBI正在调查刑事信息数据库遭入侵事件。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "美国FBI正在调查刑事信息数据库遭入侵事件"
-    },
-    {
-     "title": "净利率只有2.5%，二手交易市场只能赚辛苦钱？转转、爱回收肉搏升级",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936790877.html",
-     "pubDate": "Sat, 21 Nov 2026 10:28:16 +0800",
-     "summary": "二手交易市场的寡头竞争或将升级。 日前媒体报道称，二手交易平台转转已秘密递表港交所，拟募资最高5亿美元，最快2027年完成上市。时代周报记者就此向转转核实，对方表示不予置评。 今年二手市场火热，这态势也反映在另一家 行业龙头 的财务报表上。 11月19日，爱回收母公司 万物新生 （RERE.NYSE）发布三季度业绩报，当季实现总收入64.5亿元，同比增长25.3%。其中，1P（自营）产品销售收入60亿元，3P（平台）服务收入4.5亿元。Non-GAAP经营利润2.1亿元，同比增长50.7%；Non-GAAP净利润1.6亿元，同比增长45.3%。 目前国内二手交易市场呈双寡头格局， 万物新生 旗",
-     "source": "东方财富股票",
-     "zh": "净利率只有2.5%，二手交易市场只能赚辛苦钱？转转、爱回收肉搏升级"
-    },
-    {
-     "title": "雾芯科技Q3海外收入占比超八成，欧洲分销业务正式并表",
-     "link": "http://stock.eastmoney.com/news/11228,202611213936791548.html",
-     "pubDate": "Sat, 21 Nov 2026 10:27:52 +0800",
-     "summary": "11月20日， 雾芯科技 公布2026年第三季度未经审计财报显示，第三季度净营收为人民币19.166亿元（2.859亿美元），同比增长69.7%；非美国通用会计准则下，第三季度净利润为人民币2.356亿元（3,514万美元），去年同期为2.954亿元。 雾芯科技 创始人、董事长兼CEO汪莹表示，第三季度 雾芯科技 完成了对新收购的欧洲分销平台的整合，进一步拓宽全球业务布局。通过将这些核心优势可定制契合当地消费偏好的产品，规模化拓展多品类产品矩阵，并在不断变化的全球监管中持续扩大市场份额。 雾芯科技CFO陆超表示，随着新收购业务并表，净营收大幅增至人民币19.2亿元，同比增长69.7%，其中海外",
-     "source": "东方财富股票",
-     "zh": "雾芯科技Q3海外收入占比超八成，欧洲分销业务正式并表"
-    },
-    {
-     "title": "白银价格走低，海天股份期货套期保值业务已确认损益及浮亏1816万元",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936791769.html",
-     "pubDate": "Sat, 21 Nov 2026 10:27:47 +0800",
-     "summary": "11月20日晚间， 海天股份 (603759)发布公告称，根据财务部门统计，自8月26日至11月18日， 公司开展 期货 套期保值业务产生的投资收益与公允价值变动损益及浮动损益合计为-1816万元 ，其中期末公司尚未完成平仓的套期保值业务产生的浮动损益为-1526.23万元。 公告显示，公司于2026年8月分别召开第五届董事会审计委员会第四次会议、第五届董事会第十次会议，审议通过了《关于开展金融衍生品交易业务的议案》，同意公司及子公司根据实际经营需要开展包括 白银 期货 、期权交易在内的金融衍生品交易业务。 各类金融衍生品交易预计动用的交易保证金和权利金合计上限不超过人民币5000万元，预计任",
-     "source": "东方财富股票",
-     "zh": "白银价格走低，海天股份期货套期保值业务已确认损益及浮亏1816万元"
     },
     {
      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",

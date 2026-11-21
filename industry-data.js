@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 15:31:54",
+ "generated_at": "2026/11/21 15:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The U.S. solar manufacturing landscape in 2026",
+     "link": "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2/",
+     "pubDate": "Sat, 21 Nov 2026 07:30:00 +0000",
+     "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow its demand for solar to be met by domestically made components. Finlay Colville ",
+     "source": "pv magazine",
+     "zh": "The U.S. solar manufacturing landscape in 2026"
+    },
+    {
      "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
      "link": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
      "pubDate": "Sat, 21 Nov 2026 07:00:00 +0000",
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy.",
      "source": "Energy Storage News",
      "zh": "Who’s gaining geopolitical advantage in the energy transition?"
-    },
-    {
-     "title": "The Hydrogen Stream: China starts operating 195 km hydrogen pipeline",
-     "link": "https://www.pv-magazine.com/2026/11/20/the-hydrogen-stream-china-starts-operating-195-km-hydrogen-pipeline/",
-     "pubDate": "Fri, 20 Nov 2026 11:55:51 +0000",
-     "summary": "In other news, ACME Group has approved a $3.6 billion green ammonia project in India, while researchers in Chile have assessed hydrogen production from curtailed renewable power. Qair has inaugurated a hydrogen plant in France, Plug Power has launched a utility-scale electrolyzer offering, and Proti",
-     "source": "pv magazine",
-     "zh": "The Hydrogen Stream: China starts operating 195 km hydrogen pipeline"
     }
    ]
   },
@@ -1786,6 +1786,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动",
+     "link": "https://www.ithome.com/1/030/381.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:41:30 GMT",
+     "summary": "IT之家 11 月 21 日消息，谷歌宣布为 Gemini 上线 GIF 生成功能，相应功能由视频模型 Gemini Omni 1.2 Flash 驱动，可生成循环动态图效和搞笑表情包。 该功能面向所有 Google AI 订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费。用户可在主聊天输入提示词，或在图像与视频工具中选择 GIF 并描述需求，等待片刻即可生成图片。 IT之家注意到，谷歌还于 11 月 18 日推出了 AI 模型 Gemini 4 Neon，主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本，目前已开始向开发者、企业及部分付费订",
+     "source": "IT之家",
+     "zh": "谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动"
+    },
+    {
+     "title": "零跑汽车回应网传“A10 后备厢被几箱啤酒压穿”：受损部件为独立储物盒、最大承重为 40KG",
+     "link": "https://www.ithome.com/1/030/380.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:35:37 GMT",
+     "summary": "IT之家 11 月 21 日消息，“零跑汽车”官方微博于昨晚发布《关于零跑 A10 后备厢储物盒的情况说明》称，关注到网络上流传的零跑 A10 后备厢下层储物盒受损的相关视频。公司高度重视，第一时间联系用户并对车辆进行了检测。 零跑汽车表示，经核实，本次受损部件为后备厢盖板下方的独立储物盒，系装载物品超过其设计承重上限所致，并非后备厢底板或整车承载结构受损。 零跑汽车表示，已与用户充分沟通并获得了用户的理解。零跑方面解释：“零跑 A10 采用双层后备厢布局：上层为主载物空间，满足日常大件及重物装载需求；盖板下方配备下沉式储物盒，定位干湿分离与轻量收纳。根据《用户手册》，该储物盒最大承重为 40",
+     "source": "IT之家",
+     "zh": "零跑汽车回应网传“A10 后备厢被几箱啤酒压穿”：受损部件为独立储物盒、最大承重为 40KG"
+    },
+    {
+     "title": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
+     "link": "https://www.techmeme.com/261121/p5#a261121p5",
+     "pubDate": "Sat, 21 Nov 2026 02:30:00 -0500",
+     "summary": "Cade Metz / New York Times : How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine &nbsp; &mdash;&nbsp; Optical tools in a quantum computer at Harvard University.Lucy Lu for The New York Times&nbsp; &md",
+     "source": "Techmeme",
+     "zh": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)"
+    },
+    {
+     "title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
+     "link": "https://www.ithome.com/1/030/379.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:28:50 GMT",
+     "summary": "IT之家 11 月 21 日消息，Nothing 发文，预热旗下首款 AI 原生硬件设备将于 12 月 8 日正式亮相。这款产品将采用无屏幕设计，定位为面向日常办公与生产力场景的 AI 工具。 从 此前公布的预热图片 来看，这款设备采用小巧的矩形机身，表面使用拉丝金属材质，并配有实体按键。其中一个面积较大的按键标有“Talk”字样，另一个按键则带有录音标识，机身上还提供红色与绿色 LED 状态指示灯，可以看出该产品预计主打会议记录用途。 Nothing 首席执行官裴宇此前曾表示，当前 AI 技术面临的一大问题是缺乏对用户日常生活的理解。尽管大模型已经具备较强的处理能力，但用户在会议、交谈等场景",
+     "source": "IT之家",
+     "zh": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途"
+    },
+    {
+     "title": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了",
+     "link": "https://www.ithome.com/1/030/378.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:28:24 GMT",
+     "summary": "IT之家 11 月 21 日消息，“大空头”迈克尔 · 伯里在 X 平台发文称：“CoreWeave、Nebius、英伟达，还有半导体股，我都试着提醒过大家。我没让你们做空，但我提供的信息 足以让你们决定卖出股票 。” 当地时间 20 日开盘，英伟达股价下跌约 4%，CoreWeave 和 Nebius 的跌幅均在 7% 左右。 据《商业内幕》报道，自 10 月 6 日触及盘中高点以来，英伟达、CoreWeave 和 Nebius 的股价分别下跌约 42%、55% 和 65%。本轮 AI 股回调始于 10 月 7 日，同期纽约证券交易所半导体指数累计下跌约 30%。 11 月 11 日，黄仁勋",
+     "source": "IT之家",
+     "zh": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了"
+    },
+    {
      "title": "巴西独立站接了Pix，素材本地化后转化反降怎么办？",
      "link": "https://www.baijing.cn/question/638876",
      "pubDate": "Sat, 21 Nov 2026 07:25:59 +0000",
@@ -1794,20 +1834,28 @@ window.INDUSTRY_DATA = {
      "zh": "巴西独立站接了Pix，素材本地化后转化反降怎么办？"
     },
     {
+     "title": "长城大狗 PLUS HEV 版 11 月 27 日广州车展上市，1.5T 油电混动系统",
+     "link": "https://www.ithome.com/1/030/377.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:22:08 GMT",
+     "summary": "IT之家 11 月 21 日消息，据易车今日报道，长城大狗 PLUS HEV 版将于 11 月 27 日开幕的广州车展上正式上市，新车最大的亮点是搭载了 1.5T 发动机 + 双电机组成的油电混动系统。 ▲ 在售大狗 PLUS 作为参考，在售大狗 PLUS 外观基于大狗升级而来，前脸延续了硬朗的设计元素，前脸两侧依旧是圆形灯组，中央镶嵌 HAVAL 字母标识。车辆长宽高分别为 4705/1908/1780mm， 轴距为 2810mm 。 ▲ 在售大狗 PLUS 内饰方面，在售大狗 PLUS 搭配 12.3 英寸的全液晶仪表 +14.6 英寸中控悬浮屏的设计，悬浮屏的下方还保留了一排物理按键，采",
+     "source": "IT之家",
+     "zh": "长城大狗 PLUS HEV 版 11 月 27 日广州车展上市，1.5T 油电混动系统"
+    },
+    {
+     "title": "荣耀 3D 打印机曝光，主打“快速”“智能”两大特性",
+     "link": "https://www.ithome.com/1/030/376.htm",
+     "pubDate": "Sat, 21 Nov 2026 07:21:03 GMT",
+     "summary": "IT之家 11 月 21 日消息，荣耀全场景产品线总裁 @荣耀潇哥 在微博发布视频，展示一款主打“快速”和“智能”的 3D 打印机，对此博主 @旺仔百事通 透露这是荣耀自家的 3D 打印机产品，但目前尚不知悉具体发布时间。 此前消息还显示，荣耀新年前将推出 X 系列新机， 搭载 13500mAh± 巨容量电池 ，配备 6.96/7 英寸大屏，主打长续航；Power3 也在加速中，搭载一块 7 英寸新大屏 + 巨容量电池方案，处理器更强；阔折叠大概率在春节后，阔直板暂定 27 上半年。",
+     "source": "IT之家",
+     "zh": "荣耀 3D 打印机曝光，主打“快速”“智能”两大特性"
+    },
+    {
      "title": "TikTok Shop巴西站达人佣金开到18%，哪些品类备货和退货能扛住？",
      "link": "https://www.baijing.cn/question/638875",
      "pubDate": "Sat, 21 Nov 2026 07:13:58 +0000",
      "summary": "巴西站起量三个月，达人佣金普遍要到15%-18%，我们做美妆工具和厨房小件，客单价35雷亚尔左右。现在卡在备货节奏：达人视频爆一条，单量两天冲到日均800单，但本地仓备货周期要35天，空运补货把毛利压到不足8%。退货率更头疼，美妆工具退货率12%，厨房小件退货率7%，退回来的货在圣保罗仓积压，二次销售折价30%才出得掉。试过把佣金降到12%换纯佣达人，出单量直接掉六成。想问的是：在巴西站达人高佣金前提下，选品该优先看退货率还是备货周转天数，这两个指标怎么取舍？",
      "source": "白鲸出海",
      "zh": "TikTok Shop巴西站达人佣金开到18%，哪些品类备货和退货能扛住？"
-    },
-    {
-     "title": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版",
-     "link": "https://www.ithome.com/1/030/371.htm",
-     "pubDate": "Sat, 21 Nov 2026 07:05:24 GMT",
-     "summary": "IT之家 11 月 21 日消息，据 BBC 报道，尽管 Take-Two Interactive 已确认《GTA6》创下惊人的销售纪录，不过部分实体游戏经销商透露，本作实体版游戏购买者较少，大多数玩家更倾向于通过 Xbox 和 PlayStation 数字商店购买游戏。 Take-Two Interactive 此前公布的数据显示，GTA 6 发售当天全球销售额便达到创纪录的 37.9 亿美元 （IT之家注：现汇率约合 253.63 亿元人民币） 。按理来说，如此惊人的销售成绩应该也能让实体游戏零售商从中获益，但实际情况并非如此。 Super Game Shack 游戏商店负责人 Richa",
-     "source": "IT之家",
-     "zh": "消息称《GTA6》实体版游戏销量惨淡，玩家倾向于直接购买数字版"
     },
     {
      "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
@@ -1824,46 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "菲律宾市场，货到付款订单拒收率一直在 28% 上下，投放侧开始扛不住了。我们做的是快消日化，客单价 350 比索左右，Meta 和 TikTok 都在跑，现在前端下单 CPA 约 210 比索，本来算得过来，但拒收订单一退，实际成交成本直接飙到 290 比索以上，等于每 10 单里有 3 单的运费和投放费全打水漂。已经试过下单页加确认弹窗、发货前短信二次确认，拒收率只从 31% 降到 28%，再往下压不动。想请教在菲律宾做 COD 的同行，你们把拒收率压到 20% 以内时，单均投放成本实际能控制在什么水平，是靠前端筛人还是靠履约环节拦截？",
      "source": "白鲸出海",
      "zh": "菲律宾 COD 拒收率 28%，每单投放成本被吃掉多少？"
-    },
-    {
-     "title": "新疆最大热电联产项目建成投产，补足南疆供热短板",
-     "link": "https://www.ithome.com/1/030/370.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:55:59 GMT",
-     "summary": "IT之家 11 月 21 日消息，11 月 20 日 20 时 50 分，中国能建华东院设计、建筑集团承建的喀什华电 2×66 万千瓦热电联产项目 7 号机组，通过 168 小时满负荷试运行，标志着新疆最大热电联产项目全面建成投产。 IT之家从官方介绍获悉，该项目位于新疆喀什市，是国家“两个联营”一体化重点项目、新疆电力发展规划重点工程，在原址扩建 2 台 66 万千瓦高效超超临界一次再热间接空冷机组，同步建设烟气脱硫、脱硝、除尘设施，机组纯凝期具备 20% THA 深度调峰能力， 烟气污染物排放浓度达到超净排放标准 。 采用“两机一塔”和“烟塔合一”方案，主厂房以“天山飞雪”为设计灵感，工业",
-     "source": "IT之家",
-     "zh": "新疆最大热电联产项目建成投产，补足南疆供热短板"
-    },
-    {
-     "title": "“佛罗里达小丑”劳伦斯 · 沙利文与 R 星私下达成和解，最终在《GTA6》中作为“当地居民”亮相",
-     "link": "https://www.ithome.com/1/030/369.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:54:25 GMT",
-     "summary": "IT之家 11 月 21 日消息，R 星新作《GTA 6》首部预告片中有一个满脸纹身的“小丑”角色，这一角色在现实中具有对应人物 —— 劳伦斯 · 沙利文（Lawrence Sullivan），也就是“佛罗里达小丑”。 IT之家此前曾报道，劳伦斯 · 沙利文声称 R 星在《GTA 6》中使用了基于他的形象角色，侵犯了肖像权，要求索赔 200 万美元 （IT之家注：现汇率约合 1,338.4 万元人民币） ，后来涨价到 500 万美元 （现汇率约合 3,346 万元人民币） ，最后涨价到 1,000 万美元 （现汇率约合 6,692 万元人民币） ，但 R 星一直没有理会相关索赔“通牒”。后续沙",
-     "source": "IT之家",
-     "zh": "“佛罗里达小丑”劳伦斯 · 沙利文与 R 星私下达成和解，最终在《GTA6》中作为“当地居民”亮相"
-    },
-    {
-     "title": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份",
-     "link": "https://www.ithome.com/1/030/368.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:51:20 GMT",
-     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Central 昨日（11 月 20 日）发布博文，尽管《侠盗猎车手 6》（GTA 6）游戏在预售阶段已突破 2,400 万份， 但实体游戏零售商几乎无法分享这场“史上最大规模娱乐产品发布”的红利。 IT之家援引博文介绍，在接受 BBC 采访时，英国莱斯特独立游戏店 Super Game Shack 店主理查德 · 特克斯伯里（Richard Tewksbury）表示，其店铺总共只卖出 5 份《GTA 6》实体版，其中 4 份为 PS5 版、1 份为 Xbox 版。 特克斯伯里表示玩家并不愿意购买“盒子里只装着下载码”的产品，加上游戏",
-     "source": "IT之家",
-     "zh": "《GTA 6》卖爆了：预售超 2400 万份，实体游戏店却只卖出 5 份"
-    },
-    {
-     "title": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场",
-     "link": "https://www.ithome.com/1/030/366.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:47:13 GMT",
-     "summary": "IT之家 11 月 21 日消息，据财联社报道，在今日进行的第十一届动力电池应用国际峰会上，亿纬锂能董事长刘金成表示，锂电消费税落地后，会有相当一部分企业将退出市场。 刘金成援引统计数据称，在铅酸电池增收 10% 消费税后，行业内 90% 的铅酸企业退出。 以此类推，三年之内，锂电池行业中相当一部分企业也将不得不退出市场 ，这也会给行业发展带来不确定性，2027 年一季度将是行业的过渡期。 刘金成提出建议，锂电企业不要轻易做跟随者，很难找到缝隙；要去找创新的细分市场、创新的技术，创新领域机会无限。 据IT之家此前报道，7 月 17 日， 财政部、海关总署、税务总局发布公告 ： 自 2026 年",
-     "source": "IT之家",
-     "zh": "亿纬锂能刘金成：锂电池消费税落地后，会有相当一部分企业退出市场"
-    },
-    {
-     "title": "九州风神推出 CH170 白色版机箱：支持风冷 / 水冷两种装机方案、配数显模块，269 元",
-     "link": "https://www.ithome.com/1/030/365.htm",
-     "pubDate": "Sat, 21 Nov 2026 06:47:04 GMT",
-     "summary": "IT之家 11 月 21 日消息，九州风神现已在京东上架 CH170 白色版机箱，该机箱支持风冷与水冷两种装机方案，同时配有实时数显模块， 定价为 269 元 。 京东 九州风神 CH170 机箱 269 元 直达链接 该机箱整体呈白色立式方柱造型，尺寸为 250×200×380mm。机身多面覆盖 MESH 网孔面板，侧面网孔板可更换为另购的钢化玻璃面板。前侧边缘竖向排布按键与接口，提供两个 USB-A 3.0、一个 USB-C 和一个音频接口。 该机底座配备多功能数显屏，搭配官方软件实时显示四组数据，支持在 CPU 与 GPU 模式间切换，展示温度、功耗、使用率及频率，前者还可切换查看风扇转",
-     "source": "IT之家",
-     "zh": "九州风神推出 CH170 白色版机箱：支持风冷 / 水冷两种装机方案、配数显模块，269 元"
     },
     {
      "title": "GPSR 责任人信息补齐后，德国站广告 CPA 涨了 40%，是合规成本转嫁还是投放逻辑变了？",
@@ -2005,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "ClawDOS – An AI coding agent for DOS",
      "link": "http://ricapar.net/ClawDOS/",
      "pubDate": "Sat, 21 Nov 2026 05:38:01 +0000",
-     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 23 # Comments: 2",
+     "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 26 # Comments: 3",
      "source": "Hacker News",
      "zh": "ClawDOS – An AI coding agent for DOS"
     },
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "马恒达的电动车，装着比亚迪电芯",
      "source": "钛媒体",
      "zh": "中国车企在印度，工厂、股权与供应链"
-    },
-    {
-     "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-     "link": "https://www.techmeme.com/261121/p1#a261121p1",
-     "pubDate": "Sat, 21 Nov 2026 00:15:00 -0500",
-     "summary": "Sophie McEvoy / GamesIndustry.biz : Ubisoft launches Motherbrain, a subsidiary focused on developing &ldquo;smart NPCs with memory and AI game masters that manage large-scale systemic worlds&rdquo; &nbsp; &mdash;&nbsp; Studio is currently developing &ldquo;smart NPCs with memory and AI game masters ",
-     "source": "Techmeme",
-     "zh": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)"
     }
    ]
   },

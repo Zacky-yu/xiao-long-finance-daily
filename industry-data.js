@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 22:12:01",
+ "generated_at": "2026/11/21 22:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+     "link": "https://www.digitimes.com/news/a20261120PD247/tesla-shanghai-elon-musk-manufacturing-ceo.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:51 GMT",
+     "summary": "Tesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen. He visited Tesla's Shanghai Gigafactory to meet with the Asia-Pacific and China teams, praising their manufacturing and execution ca",
+     "source": "DIGITIMES",
+     "zh": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing"
+    },
+    {
+     "title": "Trump says Jensen Huang should apologize and return to Nvidia",
+     "link": "https://www.digitimes.com/news/a20261121VL200/nvidia-donald-trump-jensen-huang-taiwan-taipei.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:02 GMT",
+     "summary": "U.S. President Donald Trump said Friday that Jensen Huang should apologize and be allowed to return as Nvidia's chief executive. It was the second time this week Trump backed Huang publicly, and it came three days after Nvidia's board said it would not reinstate him.",
+     "source": "DIGITIMES",
+     "zh": "Trump says Jensen Huang should apologize and return to Nvidia"
+    },
+    {
      "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
      "link": "https://spectrum.ieee.org/sram-memory-z2ram",
      "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
@@ -296,22 +312,6 @@ window.INDUSTRY_DATA = {
      "summary": "Industrial PC (IPC) maker Axiomtek sustained growth in Q3 2026, reporting quarterly revenue of NT$2.779 billion (US$84.6 million), up 11.5% quarter-over-quarter and 59.32% year-over-year, while its operating margin rose to 13.09%. The company attributed the growth to demand for edge computing, indus",
      "source": "DIGITIMES",
      "zh": "Axiomtek restructures for physical AI, expands global customer reach"
-    },
-    {
-     "title": "Rapidtek Technologies raises NT$300 million to expand RF, LEO satellite business",
-     "link": "https://www.digitimes.com/news/a20261118PD242/leo-business-growth-testing-fubon.html",
-     "pubDate": "Sat, 21 Nov 2026 04:04:06 GMT",
-     "summary": "Rapidtek Technologies has completed an NT$300 million (US$9.13 million) cash capital increase to strengthen its radio-frequency (RF) and low-Earth orbit (LEO) satellite businesses. The company said it will use the funds for capacity expansion, international operations, and working capital.",
-     "source": "DIGITIMES",
-     "zh": "Rapidtek Technologies raises NT$300 million to expand RF, LEO satellite business"
-    },
-    {
-     "title": "Micron labor dispute in Taiwan heats up as premier calls for worker protection",
-     "link": "https://www.digitimes.com/news/a20261118PD247/micron-taiwan-labor-investment-government.html",
-     "pubDate": "Sat, 21 Nov 2026 04:03:39 GMT",
-     "summary": "Micron Technology's labor dispute in Taiwan has intensified over its incentive-pay system, raising concerns that the standoff could undermine foreign investment confidence as Idaho Governor Brad Little visits the island. Premier Jung-tai Cho called for a settlement that protects workers while ensuri",
-     "source": "DIGITIMES",
-     "zh": "Micron labor dispute in Taiwan heats up as premier calls for worker protection"
     },
     {
      "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
@@ -1570,6 +1570,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+     "pubDate": "Sat, 21 Nov 2026 09:26:04 -0500",
+     "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+     "source": "BleepingComputer",
+     "zh": "FBI reportedly hacked again, this time targeting nationwide police database"
+    },
+    {
      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
      "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
      "pubDate": "Sat, 21 Nov 2026 12:08:50 +0000",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday"
     },
     {
-     "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-     "pubDate": "Fri, 20 Nov 2026 07:14:28 -0500",
-     "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices"
-    },
-    {
      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
      "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
      "pubDate": "Fri, 20 Nov 2026 11:36:51 +0000",
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "越惊悚越火爆，日本の凶宅经济学",
+     "link": "https://www.huxiu.com/article/4907425.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 22:16:12 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：凶宅消费热 如今最非主流的地下偶像，在日本住凶宅却显得有些主流了...... 原因很简单，凶宅正在成为日本人，尤其年轻人当中，最热门的租房与购房选择。 这位名叫琉亚（Ryua）的地下偶像，在第一次去位于东京世田谷，一间约25平方米的小公寓看房后。 选择立刻拿下。 根据琉亚的说法，在看房时，她发现屋里站着一个男人，直勾勾地瞪着她，可陪同的中介表示什么也没看见，她这才意识到那是鬼。 换成大多数人，这时候已经转身往外跑了。 可她的反应却是：“自己有点逆反心理，既然他一直瞪我，那就干脆和他做朋友，然后签了约。” 在采访中，这位八字过硬的奇女子",
+     "source": "虎嗅",
+     "zh": "越惊悚越火爆，日本の凶宅经济学"
+    },
+    {
+     "title": "贬值世代",
+     "link": "https://www.huxiu.com/article/4907424.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 22:08:33 +0800",
+     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：“奇点已至”、“AI又破解了哪道数学难题？”、“AI又取代了哪个学科？” 人文社科类媒体会写：“只属于理工科天才的时代正抛下我们向前狂奔”、“AI公司实习生日薪顶我一个月工资，应届生年薪千万”、“丈母娘看好AI行业的女婿”、“被投资机构关",
+     "source": "虎嗅",
+     "zh": "贬值世代"
+    },
+    {
      "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓",
      "link": "https://www.huxiu.com/article/4907094.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 22:00:01 +0800",
@@ -1800,14 +1816,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 21 日消息，11 月 20 日，广汽夸克电驱非晶-碳纤维电驱第 10 万套正式量产下线。 官方表示，这一里程碑标志着 广汽成为全球唯一实现非晶合金车用电驱规模化量产的企业 。 据介绍，广汽动力总成自主研发团队围绕材料、工艺、结构和控制开展全链路攻关， 首创非晶合金定子量产工艺 ，突破碳纤维高速转子关键技术，让非晶-碳纤维电驱从科研成果转化为可批量交付的车规级产品。 夸克电驱 2.0 非晶-碳纤维电驱的核心突破，始于定子与转子两端： 定子 采用厚度 0.025mm 的非晶合金带材，厚度约为常规超薄硅钢片的五分之一；非晶合金磁导率可达普通硅钢片的 20 至 100 倍，单位铁",
      "source": "IT之家",
      "zh": "全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶-碳纤维电驱第 10 万套下线"
-    },
-    {
-     "title": "黑客利用 Windows 旧漏洞入侵 700 余台 POS 终端，窃取百万份信用卡数据",
-     "link": "https://www.ithome.com/1/030/501.htm",
-     "pubDate": "Sat, 21 Nov 2026 13:50:33 GMT",
-     "summary": "IT之家 11 月 21 日消息，当地时间 20 日，据外媒 TechSpot 报道，身份不明的网络犯罪分子长期窃取 POS 系统处理的信用卡交易数据，行动持续了数月甚至数年。 这场攻击之所以败露，是因为犯罪团伙将一台服务器暴露给公众访问。研究人员入侵服务器后， 发现其中存有包含了恶意软件源代码的海量数据 ，以及这场攻击的起因和实施细节。 攻击者主要利用的漏洞编号为 CVE-2024-49138，影响多个 Windows 10、Windows 11 和 Windows Server 版本。 IT之家从报道中获悉，这是一项 Windows 通用日志文件系统驱动程序权限提升漏洞，攻击者可借此在受影",
-     "source": "IT之家",
-     "zh": "黑客利用 Windows 旧漏洞入侵 700 余台 POS 终端，窃取百万份信用卡数据"
     },
     {
      "title": "“乡土中国要结束了”：故乡渐远，归处何寻？",
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 28 # Comments: 5",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 54 # Comments: 14",
      "source": "Hacker News",
      "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
     },
@@ -1882,26 +1890,18 @@ window.INDUSTRY_DATA = {
      "zh": "The Outages Are Just Getting Started"
     },
     {
-     "title": "Anthropic：躲不开“脑力通缩”，终局是“AI 版” 谷歌还是AT&T?",
-     "link": "https://www.huxiu.com/article/4907417.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 20:58:26 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《Anthropic：躲不开 “脑力通缩”，终局是 “AI 版” 谷歌还是 AT&T?》 在上篇《Anthropic：甩掉吞金兽，转身成房奴》，海豚君算了的账：近1万亿美元的算力合同压上资产负债表，收入要再涨4-5倍才扛得住。账算完了，两个更根本的问题浮了上来： 一是，这门生意凭什么守住“智能溢价”？token价格一年跌去七成，开源模型在身后猛追，Anthropic的\"智能溢价\"能持续吗？ 二是，收入的天花板在哪？一级市场5月给了9650亿美元估值，IPO预期一度喊到1.5万亿——这个价钱，买的是什么样的2028年？ 海豚君这篇以解答A",
-     "source": "虎嗅",
-     "zh": "Anthropic：躲不开“脑力通缩”，终局是“AI 版” 谷歌还是AT&T?"
-    },
-    {
-     "title": "区富祝：数字人民币，如何成为亚太跨境支付新基座？",
-     "link": "https://www.huxiu.com/article/4907416.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 20:42:20 +0800",
-     "summary": "本文来自微信公众号： IPP评论 ，作者：区富祝，原文标题：《APEC时间｜区富祝：数字人民币，如何成为亚太跨境支付新基座？》 内容提要：习近平总书记在2025年APEC庆州峰会上明确提出，深化财金领域合作、充分发挥数字技术对跨境贸易的促进作用，为数字人民币跨境支付提供了根本遵循。2026年APEC深圳峰会，是数字人民币从技术验证走向制度推广的重要窗口期。 IPP副研究员区富祝指出，当前，这一工作的推进面临安全资产不足、出口同质化、回流机制滞后、国际化长期代价四方面约束。应锚定中国产业链优势，打造开放兼容的补充性支付安全网，形成“防波堤”，进而为亚太提供制度化的区域公共产品。窗口期应推动标准对",
-     "source": "虎嗅",
-     "zh": "区富祝：数字人民币，如何成为亚太跨境支付新基座？"
+     "title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年",
+     "link": "https://www.ithome.com/1/030/475.htm",
+     "pubDate": "Sat, 21 Nov 2026 12:47:11 GMT",
+     "summary": "IT之家 11 月 21 日消息，韩媒 Economy Tribune 今天（21 日）下午爆料称，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同预订 。随着 AI 数据中心投资持续扩大，存储芯片供应短缺长期难以缓解，部分客户开始要求签订长期供货协议（LTA）， 希望将供货保障期限延长至 2031 年 。 供应紧张的局面不仅出现在高带宽内存（HBM）领域，通用 DRAM 和企业级 NAND 闪存同样面临短缺。主要存储芯片制造商的议价能力预计将因此进一步增强。 据知情人士 21 日透露，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同锁定 。 客户不",
+     "source": "IT之家",
+     "zh": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年"
     },
     {
      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
      "pubDate": "Sat, 21 Nov 2026 12:15:41 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 46 # Comments: 37",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic Comments URL: https://news.ycombinator.com/item?id=50588436 Points: 49 # Comments: 50",
      "source": "Hacker News",
      "zh": "Adult-only households accounted for 55% of toy sales in the first half of 2026"
     },
@@ -2005,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 83 # Comments: 23",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 97 # Comments: 26",
      "source": "Hacker News",
      "zh": "My Monitor Was Cutting My Download Speed by 75%"
     },
@@ -2013,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "FBI reportedly investigating apparent hack of its criminal database",
      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
      "pubDate": "Sat, 21 Nov 2026 10:33:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 70 # Comments: 32",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 72 # Comments: 33",
      "source": "Hacker News",
      "zh": "FBI reportedly investigating apparent hack of its criminal database"
     },
@@ -2034,6 +2034,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "What data storage looked like in the early 2000s vs. today",
+     "link": "https://www.engadget.com/2318027/what-data-storage-looked-like-early-2000s-vs-today/",
+     "pubDate": "Sat, 21 Nov 2026 14:15:00 +0000",
+     "summary": "We've come a long way in storage technology in just 25 years, from floppies and tiny USB drives to massive SSDs and cloud storage.",
+     "source": "Engadget",
+     "zh": "What data storage looked like in the early 2000s vs. today"
+    },
+    {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
      "link": "https://www.gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php",
      "pubDate": "Sat, 21 Nov 2026 15:04:03 +0100",
@@ -2048,6 +2056,14 @@ window.INDUSTRY_DATA = {
      "summary": "Before you click buy on used AirPods, learn about the risks most sellers never mention and the smarter ways to save on a brand new pair of earbuds.",
      "source": "Engadget",
      "zh": "Why deep discounts on used Apple AirPods just aren't worth it"
+    },
+    {
+     "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+     "link": "https://9to5mac.com/2026/11/21/apple-work/",
+     "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
+     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
+     "source": "9to5Mac",
+     "zh": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking"
     },
     {
      "title": "The pros and cons of using a dumb phone over a smartphone in 2026",
@@ -2112,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save $160 on Sonos's compact Dolby Atmos soundbar, now $10 below its previous best price on Amazon.",
      "source": "Android Authority",
      "zh": "Sonos Beam (Gen 2) soundbar drops to a record-low $339"
-    },
-    {
-     "title": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more",
-     "link": "https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/",
-     "pubDate": "Sat, 21 Nov 2026 12:30:00 +0000",
-     "summary": "A roundup of recent reviews from Engadget.",
-     "source": "Engadget",
-     "zh": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more"
     },
     {
      "title": "Heads up! Galaxy Watch 7 is 40% off for Black Friday",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s been nearly three years since Best Buy decided to ditch selling physical copies of movies, stripping its inventory from both its brick-and-mortar stores and its online catalog. But with the growing rise of 4K Blu-ray collections as a vinyl-esque collector’s item, the electronics giant has slowl",
      "source": "9to5Google",
      "zh": "Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U]"
-    },
-    {
-     "title": "Apple Watch Series 12: Four standout features make me glad I upgraded",
-     "link": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/",
-     "pubDate": "Fri, 20 Nov 2026 20:25:35 +0000",
-     "summary": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Watch Series 12: Four standout features make me glad I upgraded"
     }
    ]
   },
@@ -2281,6 +2281,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+     "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 14:17:00 GMT",
+     "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
+     "source": "MarketWatch",
+     "zh": "How a brutal week for stocks almost wiped out their gains for the entire year"
+    },
     {
      "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
      "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
@@ -2442,12 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "From ChatGPT to Claude deals: Walmart looks like an agentic AI winner"
     },
     {
-     "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
-     "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 12:00:00 GMT",
-     "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
-     "source": "MarketWatch",
-     "zh": "How a brutal week for stocks almost wiped out their gains for the entire year"
+     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
+     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+     "source": "CNBC",
+     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
     },
     {
      "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
@@ -2512,14 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
      "source": "华尔街见闻",
      "zh": "“脱欧”十年之后，英国又要“入欧”？"
-    },
-    {
-     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
-     "link": "https://wallstreetcn.com/articles/3786432",
-     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
-     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
-     "source": "华尔街见闻",
-     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
     }
    ]
   },

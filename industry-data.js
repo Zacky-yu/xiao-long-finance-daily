@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 12:16:58",
+ "generated_at": "2026/11/21 12:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -274,6 +274,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -282,12 +290,52 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1453,7 +1453,7 @@ window.INDUSTRY_DATA = {
      "title": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
      "pubDate": "Thu, 19 Nov 2026 23:51:47 +0000",
-     "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EDT (0420 UTC on Saturday, Nov. 21).",
+     "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force"
     },
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AI硬件离开手机以后，先遇到了人的限制",
+     "link": "https://www.tmtpost.com/8213070.html",
+     "pubDate": "Sat, 21 Nov 2026 12:14:36 +0800",
+     "summary": "能力边界的变化，让硬件公司开始重新估算人的时间价值。过去产品争夺用户停留，新的设备反而需要证明自己在减少停留。",
+     "source": "钛媒体",
+     "zh": "AI硬件离开手机以后，先遇到了人的限制"
+    },
+    {
+     "title": "让AI清理我的8490条浏览器书签，删了5484条",
+     "link": "https://www.huxiu.com/article/4907368.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 12:13:23 +0800",
+     "summary": "本文来自微信公众号： EarlMind ，作者：张翼轸Earl 让AI帮忙，我对浏览器的8490条书签做了一次大清理，去重删除5484条，清空空文件夹558个，陈年旧账终于清爽了。 从IE到Firefox，再到Chrome和Edge，我的浏览器收藏夹跟着搬了十几年家。每次换浏览器都是导出、导入，旧的不舍得删，新的继续塞，日积月累成了个谁也不敢动的老阁楼。 今天让AI扫了一眼底层的书签文件，才第一次知道确切数字：8490条。其中收藏夹栏1982条，平时还用得着；大头是其他收藏夹，足足躺了6507条链接、224个顶层文件夹。我一直以为里面都是十几年攒下的家底，直到今天让AI做了一次彻底的大扫除。 ",
+     "source": "虎嗅",
+     "zh": "让AI清理我的8490条浏览器书签，删了5484条"
+    },
+    {
      "title": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？",
      "link": "https://www.baijing.cn/question/638866",
      "pubDate": "Sat, 21 Nov 2026 04:07:39 +0000",
@@ -1794,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴西葡语短剧素材完播率只有西语版一半，是配音还是剧情节奏的问题？"
     },
     {
-     "title": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘",
-     "link": "https://www.ithome.com/1/030/343.htm",
-     "pubDate": "Sat, 21 Nov 2026 04:02:14 GMT",
-     "summary": "IT之家 11 月 21 日消息，据央视新闻今日报道，北京通州警方 11 月 13 日抓获一名帮信罪嫌疑人，其 5 天内为老年住户安装 4 台 VOIP 虚拟语音转接设备。 11 月 13 日，北京市公安局通州公安分局刑侦支队接到线索，在张家湾辖区太玉园东区一居民家中发现有人疑似为境外诈骗分子提供语音转接设备。 民警在该居民张女士家中座机附近发现 两个可疑小盒子 ，经核实为境外犯罪团伙常用的 VOIP 虚拟语音转接设备。张女士夫妇年事已高，为方便与家人联系，家中仍保留着传统座机。 张女士称，11 月 12 日上午，家中座机接到一通电话，对方自称通信公司工作人员，表示近期通信设备升级，将安排人员",
-     "source": "IT之家",
-     "zh": "男子专盯老年住户安装虚拟拨号设备，涉帮信罪被刑拘"
+     "title": "黄仁勋回不去了",
+     "link": "https://www.tmtpost.com/8213432.html",
+     "pubDate": "Sat, 21 Nov 2026 12:07:35 +0800",
+     "summary": "他到底差在哪儿了？",
+     "source": "钛媒体",
+     "zh": "黄仁勋回不去了"
     },
     {
      "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
@@ -1874,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "跑不通“快餐模式”，陪伴机器人得熬出“人情味”"
     },
     {
-     "title": "现金流为王的周期来了？",
-     "link": "https://www.tmtpost.com/8213356.html",
-     "pubDate": "Sat, 21 Nov 2026 11:43:17 +0800",
-     "summary": "宏观利率维持高位、新技术商业化步入深水区后，定价的尺子又会重新量回自由现金流收益率。",
-     "source": "钛媒体",
-     "zh": "现金流为王的周期来了？"
-    },
-    {
      "title": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？",
      "link": "https://www.baijing.cn/question/638865",
      "pubDate": "Sat, 21 Nov 2026 03:43:17 +0000",
@@ -1890,28 +1898,20 @@ window.INDUSTRY_DATA = {
      "zh": "北美 SaaS 只靠 PLG 自助转化，5 人团队排期怎么兼顾渠道投放？"
     },
     {
+     "title": "黄仁勋，这一年",
+     "link": "https://www.huxiu.com/article/4907360.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 11:42:53 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐，题图来自：视觉中国 如果有人在2025年秋天写下一份剧本，说一家刚刚跨越5万亿美元门槛、被全球资本奉为&ldquo;AI央行&rdquo;的科技帝国，会在短短13个月后亲手把它的缔造者关在门外，甚至连他放低身段写下的求归长信都以&ldquo;十比零&rdquo;当众退回，大概没有哪家好莱坞制片厂敢投一分钱。 然而，2025年10月至2026年11月这13个月的真实商业史，却像坐上一架失控的过山车，把登顶的狂喜、不可替代的远见、硅谷草莽英雄的结盟与碰撞、地缘的暗刺与制度的冷酷，一寸一寸地演给了全世界看。 一、硅谷的&ldquo;底盘牧羊人&rdqu",
+     "source": "虎嗅",
+     "zh": "黄仁勋，这一年"
+    },
+    {
      "title": "史上最大IPO，焐不热AI行情",
      "link": "https://www.huxiu.com/article/4907361.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 11:42:52 +0800",
      "summary": "本文来自微信公众号： 财联社 ，作者：李莹 史上最大IPO圆满收官，却没能给AI行情带来暖意。敲钟上市仅仅一天，Anthropic股价便随全球科技股一同走弱。华尔街正以更冷静的目光重新审视AI叙事。 Claude大模型开发商Anthropic当地时间11月20日宣布完成IPO交割。承销商全额行使了1.47亿股的超额配售权（俗称“绿鞋”），公司最终以每股83美元发行11.27亿股A类普通股，募资总额约935亿美元。 “绿鞋”机制允许承销商在IPO后30天内按发行价额外认购最多15%的股份，通常在新股认购需求旺盛时行使。 在约935亿美元募资中，约916亿美元归公司所有，其余归出售股份的股东。若计",
      "source": "虎嗅",
      "zh": "史上最大IPO，焐不热AI行情"
-    },
-    {
-     "title": "黄仁勋，这一年",
-     "link": "https://www.huxiu.com/article/4907360.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 11:42:52 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 如果有人在2025年秋天写下一份剧本，说一家刚刚跨越5万亿美元门槛、被全球资本奉为“AI央行”的科技帝国，会在短短13个月后亲手把它的缔造者关在门外，甚至连他放低身段写下的求归长信都以“十比零”当众退回，大概没有哪家好莱坞制片厂敢投一分钱。 然而，2025年10月至2026年11月这13个月的真实商业史，却像坐上一架失控的过山车，把登顶的狂喜、不可替代的远见、硅谷草莽英雄的结盟与碰撞、地缘的暗刺与制度的冷酷，一寸一寸地演给了全世界看。 硅谷的“底盘牧羊人” 要理解这场风暴为何会震动整个硅谷，必须先看清黄仁勋在当代科技版图里独一无二的生态位。 过去",
-     "source": "虎嗅",
-     "zh": "黄仁勋，这一年"
-    },
-    {
-     "title": "小米从小鹏挖来了欧洲汽车业务负责人",
-     "link": "https://www.huxiu.com/article/4907359.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 11:42:51 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：葛成 周姝祺 小米汽车在欧洲搭建的本地团队，又补上一名关键负责人。 界面新闻从知情人士处获悉，前小鹏汽车西欧及南欧董事总经理强顺强已于今年9月加入小米汽车，出任国际业务部欧洲区董事总经理（Managing Director of Europe），常驻德国。 截至目前，小米方面尚未对外官宣这一任命。小米公司暂未回应界面新闻置评请求。 距离计划中的欧洲销售启动还有约一年，小米汽车正把此前停留在时间表的欧洲出海规划，逐步落实到组织、研发、渠道和区域经营层面。 公开履历显示，强顺强是小鹏海外营销服务体系的早期负责人之一。他毕业于清华大学汽车工程专业，职业生涯起步",
-     "source": "虎嗅",
-     "zh": "小米从小鹏挖来了欧洲汽车业务负责人"
     },
     {
      "title": "15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "BlackBlaze now explicitly states selling your data for advertisement",
      "link": "https://www.backblaze.com/company/policy/privacy",
      "pubDate": "Sat, 21 Nov 2026 03:23:16 +0000",
-     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 20 # Comments: 1",
      "source": "Hacker News",
      "zh": "BlackBlaze now explicitly states selling your data for advertisement"
     },
@@ -1962,12 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Shopee巴西站物流时效从12天掉到21天，是换仓还是换承运商？"
     },
     {
-     "title": "外卖翻篇，阿里把钱砸向AI",
-     "link": "https://www.tmtpost.com/8213142.html",
-     "pubDate": "Sat, 21 Nov 2026 11:01:42 +0800",
-     "summary": "电商利润修复，AI投入加速。",
-     "source": "钛媒体",
-     "zh": "外卖翻篇，阿里把钱砸向AI"
+     "title": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备",
+     "link": "https://www.ithome.com/1/030/335.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:02:01 GMT",
+     "summary": "IT之家 11 月 21 日消息，美国太空探索技术公司（SpaceX）货运“龙”飞船 20 日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据美国航空航天局介绍，“龙”飞船于美国东部时间 20 日 12 时 05 分许（北京时间 21 日 1 时 05 分许）脱离国际空间站，预计于美国西部时间 21 日 13 时 55 分许（北京时间 22 日 5 时 55 分许）在加利福尼亚州附近海域溅落。其重返大气层和溅落时将不会有直播。 IT之家查询获悉，该飞船于 10 月 13 日发射，10 月 15 日抵达国际空间站，为航天员送去超过 6300 磅（2860 公斤）的 食品、科研设备与补给 ",
+     "source": "IT之家",
+     "zh": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备"
     },
     {
      "title": "Shopee菲律宾COD拒收率涨到18%，只有两个运营怎么扛住回访和申诉排期？",
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Clojure will affect the way you think about programming (2017)",
      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
      "pubDate": "Sat, 21 Nov 2026 02:40:39 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 12 # Comments: 0",
      "source": "Hacker News",
      "zh": "Clojure will affect the way you think about programming (2017)"
     },
@@ -2018,12 +2018,12 @@ window.INDUSTRY_DATA = {
      "zh": "墨西哥商标被第三方抢注后，品牌备案还能走通吗？"
     },
     {
-     "title": "Integrals of Polynomials with Galois Group S_p",
-     "link": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
-     "pubDate": "Sat, 21 Nov 2026 01:17:05 +0000",
-     "summary": "Article URL: https://m-slee.netlify.app/posts/integrals-galois-polynomials Comments URL: https://news.ycombinator.com/item?id=50584776 Points: 7 # Comments: 1",
+     "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+     "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+     "pubDate": "Sat, 21 Nov 2026 00:33:40 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 13 # Comments: 1",
      "source": "Hacker News",
-     "zh": "Integrals of Polynomials with Galois Group S_p"
+     "zh": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again"
     }
    ]
   },
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "家门口的养老院正在消失",
+     "link": "http://www.eeo.com.cn/2026/1121/1098926.shtml",
+     "pubDate": "Sat, 21 Nov 2026 11:59:00 +0800",
+     "summary": "曾经热情引进这些项目的地方政府工作人员，开始劝秦新关停建筑条件不符合监管要求的机构，也对之前的努力付诸东流表示遗憾。一年内，秦新关停了当地一批设施不达标的社区嵌入型养老机构，数量约占集团在当地机构总量的一半。",
+     "source": "经济观察网",
+     "zh": "家门口的养老院正在消失"
+    },
+    {
      "title": "高盛交易员“重拾2018年剧本”：至今清晰记得“12月24日那天，客户问为什么跌这么多？我完全不知道”",
      "link": "https://wallstreetcn.com/articles/3786426",
      "pubDate": "Sat, 21 Nov 2026 11:44:58 +0800",
@@ -2512,14 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "United Fire declares $0.20 dividend"
-    },
-    {
-     "title": "Bentley Systems raises dividend by 14.3% to $0.08",
-     "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:37:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
     }
    ]
   },

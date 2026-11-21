@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 00:52:11",
+ "generated_at": "2026/11/22 01:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -874,6 +874,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
+     "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
+     "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
+     "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
+    },
+    {
      "title": "UK Races to Rewrite Nuclear Rules by 2027",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
      "pubDate": "Sat, 21 Nov 2026 10:00:00 -0600",
@@ -968,14 +976,6 @@ window.INDUSTRY_DATA = {
      "summary": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company’s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-scale so",
      "source": "CleanTechnica",
      "zh": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc"
-    },
-    {
-     "title": "New ID. Polo GTI Clubsport Concept: This Electric GTI Is Ready For The Racetrack",
-     "link": "https://cleantechnica.com/2026/11/20/new-id-polo-gti-clubsport-concept-this-electric-gti-is-ready-for-the-racetrack/",
-     "pubDate": "Sat, 21 Nov 2026 02:20:22 +0000",
-     "summary": "100% electric, 100% GTI Clubsport — the new ID. Polo GTI Clubsport Concept transfers the Clubsport concept designed for maximum performance to the world of electric mobility for the first time Clubsport is motorsport — with 270 kW (367 PS), 4.7 seconds for the 0-100 km/h sprint, a top speed ... [con",
-     "source": "CleanTechnica",
-     "zh": "New ID. Polo GTI Clubsport Concept: This Electric GTI Is Ready For The Racetrack"
     },
     {
      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
@@ -1322,6 +1322,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 4:16 a.m. PST (7:16 a.m. EST / 1216 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
+    },
+    {
      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
      "pubDate": "Sat, 21 Nov 2026 16:20:37 +0000",
@@ -1552,14 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
     }
    ]
   },
@@ -1786,6 +1786,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Here are the top AI agents that can live in your text messages",
+     "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
+     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+     "source": "TechCrunch",
+     "zh": "Here are the top AI agents that can live in your text messages"
+    },
+    {
      "title": "今日小雪：雨凝为雪，地气冻结",
      "link": "https://www.ithome.com/1/030/511.htm",
      "pubDate": "Sat, 21 Nov 2026 16:00:08 GMT",
@@ -1805,17 +1813,17 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Zero C#, Power of C# without any GC",
      "link": "https://onurgumus.github.io/zero-csharp/index.html",
      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 21 # Comments: 8",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 27 # Comments: 18",
      "source": "Hacker News",
      "zh": "Show HN: Zero C#, Power of C# without any GC"
     },
     {
-     "title": "比亚迪腾势 B5“致敬”大众途锐经典广告，两轮成功拉动 180 吨客机",
+     "title": "比亚迪腾势 B5 海外“秀肌肉”，两轮成功拉动 180 吨客机",
      "link": "https://www.ithome.com/1/030/509.htm",
      "pubDate": "Sat, 21 Nov 2026 15:25:36 GMT",
      "summary": "IT之家 11 月 21 日消息，比亚迪腾势汽车在海外重现了大众 20 年前的一则经典广告：一辆柴油 SUV 拖着一架大型喷气式客机。不过，这一次腾势还准备了一项相当惊人的绝活。 20 年前，一辆蓝色大众途锐 V10 柴油版（下图）曾在英国邓斯福机场的跑道上拖动一架重达 155 吨的喷气式客机。 时间来到当下，一辆 腾势 B5 （即方程豹豹 5）也来到同一地点，准备重演当年的特技。该车采用双电机布局，31.8kWh 电池满电时可提供最高 90km 的纯电续航，还配有两把机械式差速锁。 大众当年的挑战中，途锐始终保留着四个车轮；比亚迪却决定 逐步拆下部分车轮 ，借此考验车辆的表现。 第一轮测试保",
      "source": "IT之家",
-     "zh": "比亚迪腾势 B5“致敬”大众途锐经典广告，两轮成功拉动 180 吨客机"
+     "zh": "比亚迪腾势 B5 海外“秀肌肉”，两轮成功拉动 180 吨客机"
     },
     {
      "title": "Alaska, your next governor is a Wikipedia nerd",
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 237 # Comments: 182",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 271 # Comments: 200",
      "source": "Hacker News",
      "zh": "Lean Verification of the Riemann Hypothesis - Joint statement by..."
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 232 # Comments: 129",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 261 # Comments: 143",
      "source": "Hacker News",
      "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
      "link": "https://simple-bench.com/",
      "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
-     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 87 # Comments: 78",
+     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 94 # Comments: 85",
      "source": "Hacker News",
      "zh": "Astra 6.2 and Sol 6.2 flop at Simple Bench"
     },
@@ -2013,17 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "My Monitor Was Cutting My Download Speed by 75%",
      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
      "pubDate": "Sat, 21 Nov 2026 10:36:32 +0000",
-     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 215 # Comments: 91",
+     "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 226 # Comments: 97",
      "source": "Hacker News",
      "zh": "My Monitor Was Cutting My Download Speed by 75%"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-     "pubDate": "Sat, 21 Nov 2026 10:33:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 123 # Comments: 59",
-     "source": "Hacker News",
-     "zh": "FBI reportedly investigating apparent hack of its criminal database"
     }
    ]
   },
@@ -2033,6 +2033,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "5 clever things you can still do with an old DVD or CD player",
+     "link": "https://www.engadget.com/2318405/clever-uses-old-dvd-cd-players/",
+     "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
+     "summary": "If you don't have discs to play, they can make for clever fodder for DIY projects.",
+     "source": "Engadget",
+     "zh": "5 clever things you can still do with an old DVD or CD player"
+    },
+    {
+     "title": "One of Apple HomeView's best features will have you cooking like a pro",
+     "link": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
+     "pubDate": "Sat, 21 Nov 2026 16:45:00 +0000",
+     "summary": "Apple makes cooking a blast with this new tool on its smart display.",
+     "source": "Engadget",
+     "zh": "One of Apple HomeView's best features will have you cooking like a pro"
+    },
     {
      "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
      "link": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
@@ -2064,22 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Your laptop may be running two graphics processors without you knowing it. Here are the built-in Windows tools that reveal what is powering your games.",
      "source": "Engadget",
      "zh": "Where you can find which GPU you have in your Windows PC"
-    },
-    {
-     "title": "Ways you can help your Fitbit's battery last longer",
-     "link": "https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer/",
-     "pubDate": "Sat, 21 Nov 2026 15:45:00 +0000",
-     "summary": "Fitbits don't last forever, but there's a couple easy ways you can get more years of step counts and heart-rate monitoring from your favorite wearable",
-     "source": "Engadget",
-     "zh": "Ways you can help your Fitbit's battery last longer"
-    },
-    {
-     "title": "The pros and cons of using a VPN over encrypted DNS",
-     "link": "https://www.engadget.com/2317883/pros-cons-using-vpn-over-encrypted-dns/",
-     "pubDate": "Sat, 21 Nov 2026 15:30:00 +0000",
-     "summary": "Explore the perks and drawbacks of choosing a VPN over encrypted DNS, from privacy and security to speed, costs, and control over your browsing habits.",
-     "source": "Engadget",
-     "zh": "The pros and cons of using a VPN over encrypted DNS"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2282,6 +2282,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "华为推出星芒 AI手机的故事怎么落地？",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855553.html",
+     "pubDate": "Sun, 22 Nov 2026 01:00:53 +0800",
+     "summary": "11月20日，华为子品牌星芒手机发布。此时行业环境并不轻松： 存储芯片 已占手机BOM的49%，厂商一边涨价、一边收缩产品线；华为却逆势新开一条子品牌线，试水 AI手机 。 蓝鲸科技记者从华为方面获悉，星芒共享麒麟芯片、鸿蒙操作系统等核心技术底座，聚焦原创设计、前沿技术与全新AI交互，并承担技术试验田角色。这意味着，星芒并非简单加入走量竞争，而是以差异化定位承接华为的前沿探索。 但定位清晰只是第一步， AI手机 故事要真正落地，星芒还需算清token成本、生态授权和用户买单三笔账。在成本高压与AI换机动力不足的夹缝中，这场逆周期押注能否为华为打开AI新增量？ 华为用星芒押注AI新增量 2026",
+     "source": "东方财富股票",
+     "zh": "华为推出星芒 AI手机的故事怎么落地？"
+    },
+    {
+     "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
+     "link": "https://seekingalpha.com/news/4675381-sa-asks-whos-the-best-positioned-cybersecurity-provider-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 12:00:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: Who's the best-positioned cybersecurity provider right now?"
+    },
+    {
+     "title": "Alice Huang’s links to the chip underworld",
+     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
+     "summary": "Chinese executive romantically linked to former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+     "source": "Financial Times",
+     "zh": "Alice Huang’s links to the chip underworld"
+    },
+    {
+     "title": "Real estate stocks dip alongside broader markets even as long-term yields go down",
+     "link": "https://seekingalpha.com/news/4675287-real-estate-stocks-dip-alongside-broader-markets-even-as-long-term-yields-go-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 12:00:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Real estate stocks dip alongside broader markets even as long-term yields go down"
+    },
+    {
+     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
+     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
+     "summary": "This would make the second recent intrusion into the FBI system.",
+     "source": "CNBC",
+     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
+    },
+    {
+     "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 16:50:00 GMT",
+     "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+     "source": "MarketWatch",
+     "zh": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom."
+    },
+    {
+     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 16:50:00 GMT",
+     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+     "source": "MarketWatch",
+     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
+    },
+    {
      "title": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商",
      "link": "http://finance.eastmoney.com/news/1351,202611223936857611.html",
      "pubDate": "Sun, 22 Nov 2026 00:40:25 +0800",
@@ -2346,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "大富科技子公司智慧健康回购义务纠纷案一审诉讼请求被驳回，将依法上诉"
     },
     {
-     "title": "特朗普：将与伊朗达成永久性协议",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936857449.html",
-     "pubDate": "Sat, 21 Nov 2026 23:52:47 +0800",
-     "summary": "央视新闻最新消息，美国总统特朗普在当地时间21日播出的采访节目中说，将与伊朗达成一项永久性协议。 另据参考消息早前援引路透社11月20日报道，伊朗外交部长阿拉格齐称，德黑兰仍希望能通过外交手段结束其与美国的战争，而特朗普则表示伊朗想要的协议对他来说是无法接受的。 阿拉格齐对伊朗官方媒体表示，德黑兰正在寻求一项“将确保不再有战争的协议”，并且希望在进一步进行谈判前得到华盛顿对谈判态度认真的保证。他补充说，伊朗已同调解方讨论了建立信任措施的形式和性质。 上述表态是在结束伊朗战争的外交努力仍在持续进行之际作出的。伊朗外长称，伊方的红线包括把浓缩铀留在国内，不过他补充说自己相信可以达成“一个公平的解决",
-     "source": "东方财富股票",
-     "zh": "特朗普：将与伊朗达成永久性协议"
-    },
-    {
      "title": "FBI crime database hacked: CNN",
      "link": "https://seekingalpha.com/news/4675393-fbi-crime-database-hacked?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 10:48:24 -0500",
@@ -2402,52 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug"
     },
     {
-     "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-     "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 15:01:00 GMT",
-     "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-     "source": "MarketWatch",
-     "zh": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak"
-    },
-    {
      "title": "SA Asks: Should Nvidia bring back Jensen Huang?",
      "link": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 10:00:28 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: Should Nvidia bring back Jensen Huang?"
-    },
-    {
-     "title": "Big banks, crypto stocks, neoclouds among losers: week's financials wrap",
-     "link": "https://seekingalpha.com/news/4675265-big-banks-crypto-stocks-neoclouds-among-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 10:00:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Big banks, crypto stocks, neoclouds among losers: week's financials wrap"
-    },
-    {
-     "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-     "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 15:00:00 GMT",
-     "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-     "source": "MarketWatch",
-     "zh": "‘Never too late to start’: Practical investing advice from some of the top women in finance"
-    },
-    {
-     "title": "Trump threatens ‘tremendous tax’ on U.S. firms building data centers abroad",
-     "link": "https://seekingalpha.com/news/4675392-trump-threatens-us-firms-building-overseas-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 09:52:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump threatens ‘tremendous tax’ on U.S. firms building data centers abroad"
-    },
-    {
-     "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
-     "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
-     "pubDate": "Sat, 21 Nov 2026 14:05:40 GMT",
-     "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
-     "source": "CNBC",
-     "zh": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions"
     },
     {
      "title": "State and federal battle over prediction markets regulation heats up after midterms",
@@ -2466,6 +2474,30 @@ window.INDUSTRY_DATA = {
      "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
+     "title": "11月21日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611213936842018.html",
+     "pubDate": "Sat, 21 Nov 2026 20:27:37 +0800",
+     "summary": "今日摘要 1、习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在总书记的引领推动下，我国老龄工作取得显著成效，养老事业和养老产业协同发展，托举起亿万老年人的幸福“夕阳红”。 2、李强同澳大利亚总理共同出席第九届中澳工商界首席执行官圆桌会。 3、《新闻联播》推出系列报道《权威访谈》，深入解读党的二十届五中全会精神。 4、10月份，我国规模以上高技术制造业增加值同比增长超17%，创近五年来最高增速。 5、国际人士高度评价习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话。 6、国际人士表示，中俄美",
+     "source": "东方财富资讯",
+     "zh": "11月21日晚间央视新闻联播要闻集锦"
+    },
+    {
+     "title": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936841431.html",
+     "pubDate": "Sat, 21 Nov 2026 20:18:22 +0800",
+     "summary": "时隔一年多，生物类似药集采再次迎来重要进展！ 11月21日，安徽省医药集中采购平台发布《全国药品联盟集中带量采购（单克隆抗体类）公告（第1号）》。各省、自治区、直辖市及新疆生产建设兵团组成全国单抗类制剂联盟采购办公室，代表各地区公立、军队医疗机构，以及社会办医药机构等，开展全国药品联盟集中带量采购（单克隆抗体类），由安徽省医疗保障局承担日常工作并具体实施。 公告显示，此次采购的品种7个单抗品种的15个规格，包括阿达木单抗、贝伐珠单抗、地舒单抗、利妥昔单抗、曲妥珠单抗、托珠单抗、英夫利昔单抗。申报企业须在“国家医保服务平台”完成“企业信息申报”“产品信息申报”“产能申报”，申报时间是11月24日",
+     "source": "东方财富资讯",
+     "zh": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格"
+    },
+    {
+     "title": "台湾金管会宣布稳定股市措施",
+     "link": "http://finance.eastmoney.com/news/11158,202611213936857159.html",
+     "pubDate": "Sat, 21 Nov 2026 20:05:44 +0800",
+     "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。 （文章来源：深圳商报）",
+     "source": "东方财富资讯",
+     "zh": "台湾金管会宣布稳定股市措施"
+    },
+    {
      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
      "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
@@ -2482,44 +2514,12 @@ window.INDUSTRY_DATA = {
      "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
     },
     {
-     "title": "特朗普想要“1月初之前”结束俄乌战争",
-     "link": "https://wallstreetcn.com/articles/3786435",
-     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
-     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
-     "source": "华尔街见闻",
-     "zh": "特朗普想要“1月初之前”结束俄乌战争"
-    },
-    {
-     "title": "“脱欧”十年之后，英国又要“入欧”？",
-     "link": "https://wallstreetcn.com/articles/3786433",
-     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
-     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
-     "source": "华尔街见闻",
-     "zh": "“脱欧”十年之后，英国又要“入欧”？"
-    },
-    {
-     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
-     "link": "https://wallstreetcn.com/articles/3786432",
-     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
-     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
-     "source": "华尔街见闻",
-     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
-    },
-    {
-     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
-     "link": "https://wallstreetcn.com/articles/3786431",
-     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
-     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
-     "source": "华尔街见闻",
-     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
-    },
-    {
-     "title": "The dead hand of history weighs on Deutsche Bank",
-     "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-     "pubDate": "Sat, 21 Nov 2026 06:32:26 GMT",
-     "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
-     "source": "Financial Times",
-     "zh": "The dead hand of history weighs on Deutsche Bank"
+     "title": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936831113.html",
+     "pubDate": "Sat, 21 Nov 2026 18:20:00 +0800",
+     "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
+     "source": "东方财富资讯",
+     "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
     }
    ]
   },

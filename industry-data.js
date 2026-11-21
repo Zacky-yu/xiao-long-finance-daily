@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 11:12:02",
+ "generated_at": "2026/11/21 11:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,12 +1786,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Shopee巴西站物流时效从12天掉到21天，是换仓还是换承运商？",
+     "link": "https://www.baijing.cn/question/638864",
+     "pubDate": "Sat, 21 Nov 2026 03:15:59 +0000",
+     "summary": "我们做巴西站女装，团队6个人，日均单量从年初80单涨到现在的340单，起量阶段。之前用Shopee官方SLS从圣保罗州发货，买家下单到签收平均12天，最近一个月滑到21天，里约热内卢州的订单差评率从3.1%涨到8.7%，店铺评分掉到4.3。已经试过把热销款提前备到平台推荐仓、也换过一家本地尾程承运商，但揽收后轨迹停滞超过5天的包裹仍占两成。现在卡在不知道是继续加钱换更贵的承运商保时效，还是接受时效换低运费。想直接问：在巴西站日单300单这个量级，物流时效和单均履约成本怎么取舍，有没有可参考的时效红线？",
+     "source": "白鲸出海",
+     "zh": "Shopee巴西站物流时效从12天掉到21天，是换仓还是换承运商？"
+    },
+    {
+     "title": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备",
+     "link": "https://www.ithome.com/1/030/335.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:02:01 GMT",
+     "summary": "IT之家 11 月 21 日消息，美国太空探索技术公司（SpaceX）货运“龙”飞船 20 日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据美国航空航天局介绍，“龙”飞船于美国东部时间 20 日 12 时 05 分许（北京时间 21 日 1 时 05 分许）脱离国际空间站，预计于美国西部时间 21 日 13 时 55 分许（北京时间 22 日 5 时 55 分许）在加利福尼亚州附近海域溅落。其重返大气层和溅落时将不会有直播。 IT之家查询获悉，该飞船于 10 月 13 日发射，10 月 15 日抵达国际空间站，为航天员送去超过 6300 磅（2860 公斤）的 食品、科研设备与补给 ",
+     "source": "IT之家",
+     "zh": "美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备"
+    },
+    {
+     "title": "外卖翻篇，阿里把钱砸向AI",
+     "link": "https://www.tmtpost.com/8213142.html",
+     "pubDate": "Sat, 21 Nov 2026 11:01:42 +0800",
+     "summary": "电商利润修复，AI投入加速。",
+     "source": "钛媒体",
+     "zh": "外卖翻篇，阿里把钱砸向AI"
+    },
+    {
+     "title": "Muse负责人首次公开对谈：七个月，从玩具到1000万下载",
+     "link": "https://www.tmtpost.com/8213062.html",
+     "pubDate": "Sat, 21 Nov 2026 11:01:40 +0800",
+     "summary": "超级AI应用概念背后的产品思考。",
+     "source": "钛媒体",
+     "zh": "Muse负责人首次公开对谈：七个月，从玩具到1000万下载"
+    },
+    {
+     "title": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图",
+     "link": "https://www.ithome.com/1/030/334.htm",
+     "pubDate": "Sat, 21 Nov 2026 03:01:36 GMT",
+     "summary": "IT之家 11 月 21 日消息，特斯拉公司副总裁陶琳昨晚在微博发文称，CEO 埃隆 · 马斯克当天到访特斯拉上海超级工厂期间，收到一份由工厂员工自行设计、手工制作的“限量手办”，全球仅此一件。 据介绍，这款作品使用特斯拉生产过程中的边角材料制成，将特斯拉车型与上海城市特色元素组合在一起。 陶琳介绍称，这件手办最初只是工厂员工利用业余时间推进的创意项目，随后被作为纪念品赠送给马斯克，马斯克对其设计表示喜欢。 IT之家注：所谓“边角料”，指车身冲压、内饰裁切等工序中产生的余料，并非可独立流通的原材料。 此次上海之行是马斯克 24 小时中国行的一部分。他此前在深圳参加 2026 年 APEC 相关",
+     "source": "IT之家",
+     "zh": "全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图"
+    },
+    {
      "title": "从《超级女声》到《后会友期》，芒果台30年资本发家史",
      "link": "https://www.huxiu.com/article/4905915.html?f=rss",
      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0800",
      "summary": "芒果TV的能力，是抓住细微的情绪和社会关切，转化为稳定赚钱的内容产品，把低预期小体量不确定的项目，做成全民热播的超级爆款。",
      "source": "虎嗅",
      "zh": "从《超级女声》到《后会友期》，芒果台30年资本发家史"
+    },
+    {
+     "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+     "link": "https://www.ithome.com/1/030/333.htm",
+     "pubDate": "Sat, 21 Nov 2026 02:59:20 GMT",
+     "summary": "IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能， 在征得用户授权后可以查找、分类、移动或重命名本地文件。 IT之家附上相关视频如下： 微软表示该功能可以减少手动翻找和归类的麻烦，用户主动启用并授权后，即可用日常语言要求 AI 查找、移动文件、创建文件和文件夹，还能根据文件内容批量重命名。 在本次演示中，微软为了便于和团队成员分享内容，要求将“下载”文件夹里的分析师报告整理到 OneDrive。微软 Copilot 请求权限后，扫描相关目录，在 O",
+     "source": "IT之家",
+     "zh": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件"
     },
     {
      "title": "英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题",
@@ -1874,36 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "日本独立站日语客服外包月花18万日元，这笔钱该算进CPA还是单独扛？"
     },
     {
-     "title": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起",
-     "link": "https://www.ithome.com/1/030/329.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:32:24 GMT",
-     "summary": "IT之家 11 月 21 日消息，在蔚来品牌及品牌标识发布十周年之际，蔚来 ES9 地平线鎏金特别版正式上市，售价 63.8 万元起；采用 BaaS 电池租用方式购买，售价 53 万元起。 据官方介绍，该车提供 鎏金拂晓、鎏金晨曦、鎏金朗照 配色，搭载鎏金双叠地平线腰线。历经 8 次喷涂、5 次烘烤，多重色漆与清漆层层叠加，再经 12 道工序、109 小时精细打磨。此外，该车还提供 24K 鎏金银色车标、24K 鎏金玄金车标，搭配 24K 鎏金悬浮轮标及 22 英寸锻造揽月轮圈。 座舱方面，该车带来全新双色内饰主题「苏木红」搭配「云贝米」，以及「可可棕」搭配「帕米尔棕」，行业首次引入「金属绣线",
-     "source": "IT之家",
-     "zh": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起"
-    },
-    {
-     "title": "微软发布 Win11 26340.10032 等预览版：新增 People 小组件、优化蓝牙 LE Audio 立体声输出",
-     "link": "https://www.ithome.com/1/030/281.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:28:15 GMT",
-     "summary": "IT之家 11 月 21 日消息，微软昨天（11 月 20 日）发布博文，邀请 Beta、Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新。 本次推送的版本分别为： Beta 通道（26H2）：最新预览版 Build 26320.10022 Beta 通道（26H1）：最新预览版 Build 28020.3562 Experimental 通道（26H2）：最新预览版 Build 26340.10032 Experimental 通道（26H1）：最新预览版 Build 28120.3571 Experimental",
-     "source": "IT之家",
-     "zh": "微软发布 Win11 26340.10032 等预览版：新增 People 小组件、优化蓝牙 LE Audio 立体声输出"
-    },
-    {
      "title": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”",
      "link": "https://www.tmtpost.com/8213381.html",
      "pubDate": "Sat, 21 Nov 2026 10:27:39 +0800",
      "summary": "“黑色星期五”。",
      "source": "钛媒体",
      "zh": "AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”"
-    },
-    {
-     "title": "小米米家扫振电动牙刷 2 开售：4 区漏刷识别 + 180 天续航，国补后 149 元",
-     "link": "https://www.ithome.com/1/030/327.htm",
-     "pubDate": "Sat, 21 Nov 2026 02:26:46 GMT",
-     "summary": "IT之家 11 月 21 日消息，小米新推出的米家扫振电动牙刷 2（Pro 版此前已开售）已于昨日正式开售，建议零售价 199 元，首发 175 元，叠加国补后 149 元，下单享 2 年质保、评价晒单返 10 元京豆。 京东 米家声波扫振电动牙刷 2 白色 148.75 元 直达链接 这款产品搭载升级 声波扫振马达 2.0 ，驱动刷头做大摆角扫振运动，模拟巴氏刷牙法的清洁轨迹，振动频率约 24000 次 / 分钟，可边扫边振清除牙菌斑，相比上代产品马达性能有所提升。 其机身内置三轴高精度传感器，支持 4 区漏刷识别 功能，配合机身 LED 分区灯环实时追踪刷牙轨迹：白灯提示已清洁区域，橙灯提",
-     "source": "IT之家",
-     "zh": "小米米家扫振电动牙刷 2 开售：4 区漏刷识别 + 180 天续航，国补后 149 元"
     },
     {
      "title": "美股崩了，英伟达暴跌超14%",
@@ -1978,14 +2002,6 @@ window.INDUSTRY_DATA = {
      "zh": "Integrals of Polynomials with Galois Group S_p"
     },
     {
-     "title": "尼日利亚站接入本地支付后，CPA 从 3.2 美元涨到 5.8 美元，是渠道问题还是投放问题？",
-     "link": "https://www.baijing.cn/question/638858",
-     "pubDate": "Sat, 21 Nov 2026 00:58:05 +0000",
-     "summary": "拉各斯做 3C 配件独立站，起量阶段，团队 6 人，月投放预算约 1.2 万美元。上个月接入 Paystack 和 Flutterwave 的本地卡与银行转账，本意是提升转化，结果 Meta 和 Google 的 CPA 从 3.2 美元涨到 5.8 美元，支付成功率倒是从 41% 升到 63%。已经排查过落地页加载和汇率展示，也把银行转账单独拆了广告组，但 CPA 还是压不下去，卡在不知道该先砍投放素材还是先调支付渠道的优先级。这种本地支付接入后的 CPA 上涨，你们一般看几个周期再判断是渠道结构问题还是投放侧问题？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站接入本地支付后，CPA 从 3.2 美元涨到 5.8 美元，是渠道问题还是投放问题？"
-    },
-    {
      "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
      "link": "https://www.techmeme.com/261120/p43#a261120p43",
      "pubDate": "Fri, 20 Nov 2026 19:25:00 -0500",
@@ -2005,25 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "Re: Riemann",
      "link": "https://borretti.me/article/re-riemann",
      "pubDate": "Fri, 20 Nov 2026 23:42:44 +0000",
-     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 151 # Comments: 136",
+     "summary": "Article URL: https://borretti.me/article/re-riemann Comments URL: https://news.ycombinator.com/item?id=50583982 Points: 153 # Comments: 141",
      "source": "Hacker News",
      "zh": "Re: Riemann"
-    },
-    {
-     "title": "Serious cyberattack thought backed by wealthy operators",
-     "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-     "pubDate": "Fri, 20 Nov 2026 23:29:30 +0000",
-     "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 25 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Serious cyberattack thought backed by wealthy operators"
-    },
-    {
-     "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-     "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-     "pubDate": "Fri, 20 Nov 2026 23:24:02 +0000",
-     "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-     "source": "WIRED",
-     "zh": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop"
     }
    ]
   },
@@ -2040,6 +2040,14 @@ window.INDUSTRY_DATA = {
      "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
      "source": "DPReview",
      "zh": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired"
+    },
+    {
+     "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
+     "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+     "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
+     "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
+     "source": "9to5Google",
+     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
     },
     {
      "title": "Motorola's wide Razr Flex now leaks in two colors showing off a lot of angles",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Yes, the Samsung Galaxy S26 Ultra remains a good buy in late 2026 if you want a large-screen Android phone with versatile cameras, an integrated S Pen, and long-term software support. The Galaxy S26 Ultra has aged very well, benefiting from Samsung’s mature hardware and software, along with a host o",
      "source": "9to5Google",
      "zh": "Is the Galaxy S26 Ultra still a good buy at the end of 2026?"
-    },
-    {
-     "title": "Google Health 5.13 rolling out: Improved food search, more swimming controls",
-     "link": "https://9to5google.com/2026/11/20/google-health-5-13-release-notes/",
-     "pubDate": "Fri, 20 Nov 2026 19:00:55 +0000",
-     "summary": "Version 5.13 of Google Health is rolling out to Android and iOS with updates across five areas. It’s a modest release that reiterates recent launches. more…",
-     "source": "9to5Google",
-     "zh": "Google Health 5.13 rolling out: Improved food search, more swimming controls"
     }
    ]
   },
@@ -2282,12 +2282,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "孙正义的万亿美元豪赌：曾考虑收购SK海力士",
+     "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+     "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 03:20:00 GMT",
+     "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+     "source": "MarketWatch",
+     "zh": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies"
+    },
+    {
+     "title": "融资收购SK海力士？孙正义一度考虑“万亿豪赌”，已接洽华尔街",
      "link": "https://wallstreetcn.com/articles/3786425",
      "pubDate": "Sat, 21 Nov 2026 11:04:16 +0800",
      "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。 据The Information近日报道援引知情人士， 孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。 软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。” 若这项收购计划最终落地，软银原本有望直接切入全球存储芯片市场，进一步扩大在AI供应链中的影响力。但近万亿美元的交易规模，加上融资和监管障碍，使这一构想难以推进。 尽管收购计划已暂时搁置，孙正义对AI基础设施的布局野心仍值得关注。随着存储芯片成为AI算力扩张",
      "source": "华尔街见闻",
-     "zh": "孙正义的万亿美元豪赌：曾考虑收购SK海力士"
+     "zh": "融资收购SK海力士？孙正义一度考虑“万亿豪赌”，已接洽华尔街"
+    },
+    {
+     "title": "美媒：美防长限制美加防务合作",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936792898.html",
+     "pubDate": "Sat, 21 Nov 2026 10:47:05 +0800",
+     "summary": "据美国《华盛顿邮报》20日援引部分不具名官员的话报道，美国国防部长赫格塞思已对美国同加拿大的防务关系施加了新的限制。 报道称，赫格塞思在上周下发的一份机密备忘录中提出了这些指导方针。其中一名官员指出，这些新限制无疑会被加拿大方面视为“当众打脸”，同时也引发了外界对于两国军队间互动将受到何种程度削减的疑问。《华盛顿邮报》尚未看到这份机密备忘录。 美国国防部发言人肖恩·帕内尔在回应相关询问时表示，国防部正采取措施确保其与加方的互动能够推进美国的防务目标，并最终支持建立一种“重振后的防务关系”，同时“优先考虑那些能够加强我们本土及共同所在半球防务的双边合作机会，支持加拿大（达到）履行其北约义务的能力",
+     "source": "东方财富股票",
+     "zh": "美媒：美防长限制美加防务合作"
+    },
+    {
+     "title": "美货运“龙”飞船脱离空间站启程返回地球",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936792782.html",
+     "pubDate": "Sat, 21 Nov 2026 10:43:13 +0800",
+     "summary": "美国太空探索技术公司货运“龙”飞船11月20日脱离国际空间站，携大量科研样本和设备等启程返回地球。 据 美国航空 航天局介绍，“龙”飞船于美国东部时间20日12时05分许（北京时间21日1时05分许）脱离国际空间站，预计于美国西部时间21日13时55分许（北京时间22日5时55分许）在加利福尼亚州附近海域溅落。 美国航空 航天局表示，“龙”飞船带回一批科研样本，包括3D生物打印的血管结构模型，以及在空间站经过处理的用于肿瘤研究的冷冻样本等。这些样本有助于科研人员研究血管衰老和心血管疾病，以及探索改进癌症治疗的新方法。（新华社） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "美货运“龙”飞船脱离空间站启程返回地球"
+    },
+    {
+     "title": "人民日报：唱空中国经济者终会落空",
+     "link": "http://finance.eastmoney.com/news/1350,202611213936792690.html",
+     "pubDate": "Sat, 21 Nov 2026 10:42:18 +0800",
+     "summary": "嘴上唱空中国经济的美西方人士，心里究竟打的什么算盘？ 今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继；一会儿炒作“中国冲击2.0”，声称中国制造威胁全球产业。说辞换了一茬又一茬，唯有悲观的结论像是提前写好了一般。 这些论调背后，算的是他们自己的利益账和政治账：借“中国崩溃”动摇信心，拿“中国威胁”设限围堵。 可惜，中国经济的发展，从来不由这些唱空者说了算。 一 唱空中国经济，早已不是什么新鲜事。 2001年，有美西方人士提出“中国崩溃论”，预言加入世贸组织等因素将导致中国在2011年“崩溃”。结果到了2011年，预言不出意料地落空了。 2",
+     "source": "东方财富股票",
+     "zh": "人民日报：唱空中国经济者终会落空"
+    },
+    {
+     "title": "开普云签约新疆喀什政务大模型项目",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936792546.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:54 +0800",
+     "summary": "据 开普云 消息，近日， 开普云 签约新疆喀什地区数字政府“一网通办·政务大模型”建设项目。项目围绕数字政府智能化建设需求，依托大模型、智能体及数据智能分析等技术，建设政务AI助手、经济数据分析预警、援疆项目管理三大 AI应用 平台，为政务办公、经济运行分析及援疆项目管理等业务提供智能化支撑。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "开普云签约新疆喀什政务大模型项目"
+    },
+    {
+     "title": "ST恒信股东大会上演闹剧 多名股东被挡会场外",
+     "link": "http://stock.eastmoney.com/news/11215,202611213936792327.html",
+     "pubDate": "Sat, 21 Nov 2026 10:37:16 +0800",
+     "summary": "财联社11月21日讯（记者林溪） 11月20日下午，一场原定于14时30分在 ST恒信 （300081.SZ）北京总部召开的临时股东大会，出现持续数小时的对峙。 记者在现场了解到，当天下午14时左右，十余名股东陆续抵达 ST恒信 指定的开会地点门口，准备参加恒信 东方文化 2026年第四次临时股东大会。然而，等待他们的并不是进入现场参加会议，而是被十余名身份不明的人员拦在门外，使得这部分股东无法进入会议室。 随着预定开会时间到来，这部分股东在现场多次要求公司董事长孙奉军或其他高管出面解释股东会是否正常召开，但始终未得到明确回应。直到15时30分以后，在警方协调下，孙奉军才从公司大门走出。面对股",
+     "source": "东方财富股票",
+     "zh": "ST恒信股东大会上演闹剧 多名股东被挡会场外"
+    },
+    {
+     "title": "承接长三角优质资源落地，连云港推动数字文化产业创新突破",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936792454.html",
+     "pubDate": "Sat, 21 Nov 2026 10:33:57 +0800",
+     "summary": "11月19日至22日，第七届长三角国际文化产业博览会在上海举行，传统文化活化升级、数字科技赋能产业成为本届盛会核心议题。11月20日下午，依托文博会高端平台， 连云港 组团参展、专场招商双线发力，在沪举办“大圣故里·数智港城”数字文化产业招商对接会，以“西游文化+新质生产力”为赋能核心，对接长三角优质产业、科创、资本资源，探索 连云港 传统文化现代化转化的全新路径。 一部西游，连着一座城；一只猴宝，牵起众人心；两项共创，汇聚万钧力。活动现场最受瞩目的，是“西游AIGC共创计划、猴宝IP共创计划”的正式发布——依托长三角文博会，搭建西游、猴宝主题共创平台，深化打造西游文化品牌，助力山海文旅名城建",
+     "source": "东方财富股票",
+     "zh": "承接长三角优质资源落地，连云港推动数字文化产业创新突破"
     },
     {
      "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
@@ -2298,6 +2354,22 @@ window.INDUSTRY_DATA = {
      "zh": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”"
     },
     {
+     "title": "特朗普公开场合再次力挺黄仁勋：英伟达应该接受道歉 让他回来工作",
+     "link": "http://stock.eastmoney.com/news/1611,202611213936790462.html",
+     "pubDate": "Sat, 21 Nov 2026 10:27:06 +0800",
+     "summary": "当地时间11月20日，特朗普在白宫记者会上再次公开支持 英伟达 前首席执行官黄仁勋回归。 据《华尔街日报》发布的一段视频，特朗普在记者会上说：“他是个好人。他做过一些错误决定，但他确实是个非常有才华的人。” 特朗普随后提到了马斯克称，“在我的第一个任期里，我曾非常坚定地为埃隆辩护。我不确定如果没有我，他现在是否还能和我们在一起。我当时说，我们必须保护那些杰出的人才，任何国家都不嫌人才多，黄仁勋就是其中之一。” 特朗普表示，之前他还推荐过蒂姆库克接替黄仁勋，认为他会是合适的人选。“但比起其他人，我更希望看到黄仁勋郑重道歉，然后返回岗位。” 特朗普认为，如果 英伟达 足够明智，就应该接纳这位天才，",
+     "source": "东方财富资讯",
+     "zh": "特朗普公开场合再次力挺黄仁勋：英伟达应该接受道歉 让他回来工作"
+    },
+    {
+     "title": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936788339.html",
+     "pubDate": "Sat, 21 Nov 2026 10:10:09 +0800",
+     "summary": "美国总统唐纳德·特朗普周五表示， 将“极力阻止”美国公司在其他国家建设 数据中心 ，如果违反规定，将面临“巨额税收”处罚。 总统没有提供这项税收将如何实施或政府将依据何种法律依据的细节。 “我们将全力争夺 数据中心 ，”特朗普在白宫新闻发布会上宣布这项新政策之前说道，似乎连他自己的幕僚都对此毫不知情。 “我不知道这算不算爆炸性新闻，”他补充说，“我甚至还没跟我的团队说过。但我现在告诉他们，他们来了。” 尽管美国民众一再表示们不喜欢 数据中心 ，中期选举的结果也反映了这一点，但特朗普仍然推动在美国建设更多数据中心。CNBC的全美经济调查发现，64%的注册选民反对在距离家10英里范围内建设 人工智",
+     "source": "东方财富资讯",
+     "zh": "算力争夺战打响？特朗普警告科技巨头：海外建数据中心 要交巨额税款！"
+    },
+    {
      "title": "DeepSeek限额，底气来自聊天框外",
      "link": "http://www.eeo.com.cn/2026/1121/1098763.shtml",
      "pubDate": "Sat, 21 Nov 2026 10:08:34 +0800",
@@ -2306,12 +2378,36 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek限额，底气来自聊天框外"
     },
     {
+     "title": "10月证券交易印花税120亿触底 下滑34%逼近两年低点 这个数据如何看？",
+     "link": "http://stock.eastmoney.com/news/1405,202611213936789285.html",
+     "pubDate": "Sat, 21 Nov 2026 10:07:00 +0800",
+     "summary": "证券交易印花税数据正在触底。11月20日，财政部披露数据，2026年1-10月，证券交易印花税2511亿元，同比增长54.1%。 上述数据看上去仍是一份高增长答卷，但拆到单月反差强烈。结合此前数据，10月份证券交易印花税仅为120亿元，同比下滑33.7%，绝对值减少61亿元；环比减少48.05%，绝对值减少111亿元。 一项全年高增的税种，为何在10月份骤然失速？这既是国庆假期交易日缩减的技术性结果，更是A股交投“量价双降”后，税基被动收缩的必然映射。 10月股指普跌、成交萎靡 至此，证券交易印花税已连续三个月呈现环比回落态势，8月、9月分别为296亿元、231亿元。若剔除受春节假期及统计口径",
+     "source": "东方财富资讯",
+     "zh": "10月证券交易印花税120亿触底 下滑34%逼近两年低点 这个数据如何看？"
+    },
+    {
+     "title": "警报！美元冲击波强势来袭！影响有多大？",
+     "link": "http://forex.eastmoney.com/news/11142,202611213936785674.html",
+     "pubDate": "Sat, 21 Nov 2026 09:53:48 +0800",
+     "summary": "美元持续走强，又成了华尔街的焦点。 11月中旬以来，美元指数持续走强。11月20日，美元指数继续高位运行，报103.84；前一日（11月19日）美元指数盘中最高触及103.97，收盘报103.94，刷新2025年4月初以来的最高水平。受强势美元压制，国际现货 黄金 同步走弱，20日盘中一度跌超3%，逼近3500美元关口，刷新阶段低点。更值得关注的是，美联储官员近期表态偏鹰，指出通胀粘性超预期，12月加息50个基点的概率不断攀升，加息预期正是本轮美元反弹的核心推手之一。 美银全球研究投资策略师Michael Hartnett在近期面向客户的评论中警告，美元若按这个节奏继续飙升，终将变成一颗“破坏",
+     "source": "东方财富资讯",
+     "zh": "警报！美元冲击波强势来袭！影响有多大？"
+    },
+    {
      "title": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”",
      "link": "https://wallstreetcn.com/articles/3786422",
      "pubDate": "Sat, 21 Nov 2026 09:35:48 +0800",
      "summary": "美股新一轮剧烈抛售正在蔓延，高盛警告，市场可能陷入“抛售引发更多抛售”的恶性循环，未来一周仍有大规模卖盘等待释放。 11月21日，据彭博报道，高盛交易员周五发布研报称， 该行“恐慌指数”已升至10分满分中的9分，系统性投资者的抛售压力全面扩散。根据高盛模型，即使市场保持平稳，趋势追踪基金未来一周仍可能抛售数百亿美元股票；若市场进一步下跌，卖盘规模还将显著扩大。 本轮跌势已对科技股造成沉重打击。纳斯达克100指数周五单日重挫5.6%，创2020年3月以来最大单周跌幅；费城半导体指数大跌11%，英伟达自10月6日高点以来累计下挫近50%。与此同时，抛售开始波及散户偏好股票及加密货币相关资产，市场压",
      "source": "华尔街见闻",
      "zh": "“抛售”带来“更多抛售”！高盛预测“未来一周美股将出现另一波大规模抛售”"
+    },
+    {
+     "title": "机构调研极端分化：43只个股获超百家调研 澜起科技457家断层领跑",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936784637.html",
+     "pubDate": "Sat, 21 Nov 2026 09:25:16 +0800",
+     "summary": "机构调研的风向，向来是观察市场热度的窗口。当上证指数在3500点附近反复拉锯、散户情绪摇摆不定之际，手握重金的机构投资者却跃跃欲试。 11月的机构调研数据显示，机构投资者正 密集调研 部分A股上市公司。从机构调研的行业偏好看，呈现出“科技龙头门庭若市、传统企业凭特色突围”的鲜明分化格局。 若以机构投资者调研家数看， 电子 、 机械设备 和 电力 设备行业上市公司最受机构投资者追捧。时代周报记者注意到， 电子 行业公司多受到AI蓬勃发展， 机械设备 、 电力 设备多与高端制造相关。 据Wind统计，11月以来共有43只A股吸引了超过100家机构扎堆调研。其中， 电子 行业公司、 机械设备 、 电",
+     "source": "东方财富资讯",
+     "zh": "机构调研极端分化：43只个股获超百家调研 澜起科技457家断层领跑"
     },
     {
      "title": "4万亿“灰飞烟灭”、疫情以来最惨烈的一周！美国科技股跌入熊市",
@@ -2424,102 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
-    },
-    {
-     "title": "Nvidia faces US regulator’s probe into its accounting",
-     "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:58:08 GMT",
-     "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-     "source": "Financial Times",
-     "zh": "Nvidia faces US regulator’s probe into its accounting"
-    },
-    {
-     "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:58:00 GMT",
-     "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008"
-    },
-    {
-     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-     "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:52:25 GMT",
-     "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-     "source": "Financial Times",
-     "zh": "US tech stocks plunge into bear market in worst week since Covid-19 crisis"
-    },
-    {
-     "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-     "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
-     "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-     "source": "MarketWatch",
-     "zh": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock"
-    },
-    {
-     "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
-     "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:39:00 GMT",
-     "summary": "A looming oversupply problem could weigh on the stock over the next year",
-     "source": "MarketWatch",
-     "zh": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings"
-    },
-    {
-     "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-     "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-     "pubDate": "Fri, 20 Nov 2026 21:35:24 GMT",
-     "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-     "source": "CNBC",
-     "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
-    },
-    {
-     "title": "Inside Anthropic’s historic IPO",
-     "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
-     "pubDate": "Fri, 20 Nov 2026 21:21:29 GMT",
-     "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
-     "source": "Financial Times",
-     "zh": "Inside Anthropic’s historic IPO"
-    },
-    {
-     "title": "Federal Reserve announces College Fed Challenge winners",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-     "pubDate": "Fri, 20 Nov 2026 21:15:00 GMT",
-     "summary": "Federal Reserve announces College Fed Challenge winners",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve announces College Fed Challenge winners"
-    },
-    {
-     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;",
-     "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-     "pubDate": "Fri, 20 Nov 2026 20:47:58 GMT",
-     "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-     "source": "CNBC",
-     "zh": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;"
-    },
-    {
-     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-     "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-     "pubDate": "Fri, 20 Nov 2026 20:19:49 GMT",
-     "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-     "source": "Financial Times",
-     "zh": "Trump considering new Iran strikes as US military warns of strain on forces"
-    },
-    {
-     "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-     "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-     "pubDate": "Fri, 20 Nov 2026 19:59:03 GMT",
-     "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-     "source": "CNBC",
-     "zh": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off"
-    },
-    {
-     "title": "A massive bearish trade just happened in the chip stocks",
-     "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-     "pubDate": "Fri, 20 Nov 2026 19:33:31 GMT",
-     "summary": "Options traders place big bets that semiconductor stocks have further to fall",
-     "source": "CNBC",
-     "zh": "A massive bearish trade just happened in the chip stocks"
     }
    ]
   },

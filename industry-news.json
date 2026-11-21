@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 01:55:39",
+ "generated_at": "2026/11/22 02:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -329,14 +329,6 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -345,52 +337,12 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -495,6 +447,54 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "I ride e-bikes for a living. This is the real gear I actually use",
+     "link": "https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/",
+     "pubDate": "Sat, 21 Nov 2026 18:08:24 +0000",
+     "summary": "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes i",
+     "source": "Electrek",
+     "zh": "I ride e-bikes for a living. This is the real gear I actually use"
+    },
+    {
      "title": "Electric cars are finally mainstream in GTA 6, and Vice City is full of them",
      "link": "https://electrek.co/2026/11/21/gta-6-electric-vehicles-mainstream-vice-city/",
      "pubDate": "Sat, 21 Nov 2026 16:21:57 +0000",
@@ -735,14 +743,6 @@
      "summary": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including Kia , Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now. more…",
      "source": "Electrek",
      "zh": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday"
-    },
-    {
-     "title": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more",
-     "link": "https://electrek.co/2026/11/20/podcast-teslas-personal-cybercab-fords-lfp-for-fathom-aptera-delivers-and-more/",
-     "pubDate": "Fri, 20 Nov 2026 19:56:11 +0000",
-     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla launching the ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivering, and more. more…",
-     "source": "Electrek",
-     "zh": "Podcast: Tesla’s ‘personal’ Cybercab, Ford’s LFP for Fathom, Aptera delivers, and more"
     },
     {
      "title": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It",
@@ -872,6 +872,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Britain's Net Zero Revolution Has a China Problem",
+     "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+     "pubDate": "Sat, 21 Nov 2026 12:00:00 -0600",
+     "summary": "The Labour government has been accused of “capitulation” in its trade relations with China as Britain’s transition to net zero faces a number of security risks. A new report, published shortly before President Trump’s momentous trilateral meeting with Xi Jinping and Vladimir Putin, has highlighted t",
+     "source": "OilPrice",
+     "zh": "Britain's Net Zero Revolution Has a China Problem"
+    },
     {
      "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
      "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
@@ -1015,14 +1023,6 @@
      "summary": "Japan plans to buy up to 8 million barrels of Saudi crude for the national petroleum reserve it drew down during the Hormuz crisis, under a deal the two countries announced on Friday that makes the purchases subject to favorable market conditions. The deal also gives Saudi Arabia temporary use of an",
      "source": "OilPrice",
      "zh": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks"
-    },
-    {
-     "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
-     "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
-     "pubDate": "Fri, 20 Nov 2026 12:09:09 -0600",
-     "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 607, up 53 from this same time last year. The number of active oil rigs rose by 6 to 469 during the ",
-     "source": "OilPrice",
-     "zh": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall"
     },
     {
      "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+     "pubDate": "Sat, 21 Nov 2026 13:01:58 -0500",
+     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+     "source": "BleepingComputer",
+     "zh": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+    },
+    {
      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
      "pubDate": "Sat, 21 Nov 2026 10:17:27 -0500",
@@ -1705,14 +1713,6 @@
      "zh": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
     },
     {
-     "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-     "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-     "pubDate": "Fri, 20 Nov 2026 10:00:10 -0500",
-     "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure",
-     "source": "BleepingComputer",
-     "zh": "Still tracking company passwords in spreadsheets? You’re flying blind."
-    },
-    {
      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
      "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
      "pubDate": "Fri, 20 Nov 2026 14:56:23 +0000",
@@ -1785,10 +1785,18 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+     "link": "https://www.techmeme.com/261121/p8#a261121p8",
+     "pubDate": "Sat, 21 Nov 2026 12:55:01 -0500",
+     "summary": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week &nbsp; &mdash;&nbsp; Acquisition would help AWS compete with Nvidia in race for computing power&nbsp; &mdash;&nbsp; Amazon is nearing",
+     "source": "Techmeme",
+     "zh": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)"
+    },
+    {
      "title": "PostgreSQL Extensions in Go",
      "link": "https://jespino.github.io/gopgext/",
      "pubDate": "Sat, 21 Nov 2026 17:08:04 +0000",
-     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 21 # Comments: 0",
      "source": "Hacker News",
      "zh": "PostgreSQL Extensions in Go"
     },
@@ -1809,6 +1817,14 @@
      "zh": "今日小雪：雨凝为雪，地气冻结"
     },
     {
+     "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+     "link": "https://math.mit.edu/~drew/grh/",
+     "pubDate": "Sat, 21 Nov 2026 15:54:34 +0000",
+     "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Verification files for the Lean proof of the Riemann Hypothesis"
+    },
+    {
      "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
      "link": "https://www.ithome.com/1/030/510.htm",
      "pubDate": "Sat, 21 Nov 2026 15:43:31 GMT",
@@ -1820,7 +1836,7 @@
      "title": "Show HN: Zero C#, Power of C# without any GC",
      "link": "https://onurgumus.github.io/zero-csharp/index.html",
      "pubDate": "Sat, 21 Nov 2026 15:39:09 +0000",
-     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 45 # Comments: 33",
+     "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 48 # Comments: 36",
      "source": "Hacker News",
      "zh": "Show HN: Zero C#, Power of C# without any GC"
     },
@@ -1865,12 +1881,12 @@
      "zh": "地球 28 光年外发现一个三星系统"
     },
     {
-     "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+     "title": "Lean verification of the Riemann Hypothesis",
      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
      "pubDate": "Sat, 21 Nov 2026 14:36:45 +0000",
-     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 375 # Comments: 289",
+     "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 406 # Comments: 316",
      "source": "Hacker News",
-     "zh": "Lean Verification of the Riemann Hypothesis - Joint statement by..."
+     "zh": "Lean verification of the Riemann Hypothesis"
     },
     {
      "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
@@ -1905,18 +1921,18 @@
      "zh": "夜空中的人造卫星轨迹"
     },
     {
-     "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+     "title": "Detonating a pile of lead azide",
      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
      "pubDate": "Sat, 21 Nov 2026 13:23:14 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 305 # Comments: 190",
+     "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 318 # Comments: 201",
      "source": "Hacker News",
-     "zh": "Derek Lowe: Detonating a Pile of Lead Azide"
+     "zh": "Detonating a pile of lead azide"
     },
     {
      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
      "link": "https://simple-bench.com/",
      "pubDate": "Sat, 21 Nov 2026 13:16:12 +0000",
-     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 113 # Comments: 100",
+     "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 115 # Comments: 103",
      "source": "Hacker News",
      "zh": "Astra 6.2 and Sol 6.2 flop at Simple Bench"
     },
@@ -2007,22 +2023,6 @@
      "summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人类数学家不得不匆忙提前发布证明手稿。该证明手稿没有使用任何 AI 工具，完全由人类自己完成。",
      "source": "Solidot",
      "zh": "人类数学家匆忙发布广义黎曼猜想的证明手稿"
-    },
-    {
-     "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-     "link": "https://www.wired.com/story/best-laptops-for-travel/",
-     "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
-     "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-     "source": "WIRED",
-     "zh": "Best Laptops for Travel (2026): Which to Take on the Road"
-    },
-    {
-     "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
-     "link": "https://www.solidot.org/story?sid=85951",
-     "pubDate": "Sat, 21 Nov 2026 18:48:33 +0800",
-     "summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。",
-     "source": "Solidot",
-     "zh": "GTA 6 首日销售额达到创纪录的 37.9 亿美元"
     }
    ]
   },
@@ -2032,6 +2032,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Setting up an Apple HomeView is ridiculously easy thanks to your iPhone",
+     "link": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
+     "pubDate": "Sat, 21 Nov 2026 18:00:00 +0000",
+     "summary": "Here's how to set up an Apple HomeView and how to add other users.",
+     "source": "Engadget",
+     "zh": "Setting up an Apple HomeView is ridiculously easy thanks to your iPhone"
+    },
+    {
+     "title": "Proton Pass is up to 60% off for Black Friday, and it does way more than just store your passwords",
+     "link": "https://9to5mac.com/2026/11/21/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
+     "pubDate": "Sat, 21 Nov 2026 18:00:00 +0000",
+     "summary": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again? Proton Pass is designed to take that ",
+     "source": "9to5Mac",
+     "zh": "Proton Pass is up to 60% off for Black Friday, and it does way more than just store your passwords"
+    },
     {
      "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
      "link": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
@@ -2087,14 +2103,6 @@
      "summary": "Apple makes cooking a blast with this new tool on its smart display.",
      "source": "Engadget",
      "zh": "One of Apple HomeView's best features will have you cooking like a pro"
-    },
-    {
-     "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
-     "link": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
-     "pubDate": "Sat, 21 Nov 2026 16:30:00 +0000",
-     "summary": "If you've cut back your streaming subscriptions recently, you're not alone.",
-     "source": "Engadget",
-     "zh": "36 percent of households have ditched a streaming service subscription recently: Here's why"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2241,14 +2249,6 @@
      "zh": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update"
     },
     {
-     "title": "iOS 27 lets you use two iPhones with the same phone number",
-     "link": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/",
-     "pubDate": "Fri, 20 Nov 2026 23:06:00 +0000",
-     "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Among iOS 27’s many new features is a gr",
-     "source": "9to5Mac",
-     "zh": "iOS 27 lets you use two iPhones with the same phone number"
-    },
-    {
      "title": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses",
      "link": "https://www.androidauthority.com/unihertz-teases-new-titan-2-elite-colorway-3737949/",
      "pubDate": "Fri, 20 Nov 2026 21:59:26 +0000",
@@ -2281,12 +2281,36 @@
    "total": 13,
    "items": [
     {
+     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
+    },
+    {
      "title": "Tesla to launch FSD 15 next month, Elon Musk says",
      "link": "https://seekingalpha.com/news/4675395-tesla-launch-fsd-15-next-month-elon-musk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 12:23:56 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
+    },
+    {
+     "title": "也门荷台达传出爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936857732.html",
+     "pubDate": "Sun, 22 Nov 2026 01:20:40 +0800",
+     "summary": "当地时间21日晚， 总台报道员 在也门荷台达市听到爆炸声，该地区疑似遭沙特主导的多国联军空袭，但具体遭袭地点尚不明确。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "也门荷台达传出爆炸声"
+    },
+    {
+     "title": "华为推出星芒 AI手机的故事怎么落地？",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855553.html",
+     "pubDate": "Sun, 22 Nov 2026 01:00:53 +0800",
+     "summary": "11月20日，华为子品牌星芒手机发布。此时行业环境并不轻松： 存储芯片 已占手机BOM的49%，厂商一边涨价、一边收缩产品线；华为却逆势新开一条子品牌线，试水 AI手机 。 蓝鲸科技记者从华为方面获悉，星芒共享麒麟芯片、鸿蒙操作系统等核心技术底座，聚焦原创设计、前沿技术与全新AI交互，并承担技术试验田角色。这意味着，星芒并非简单加入走量竞争，而是以差异化定位承接华为的前沿探索。 但定位清晰只是第一步， AI手机 故事要真正落地，星芒还需算清token成本、生态授权和用户买单三笔账。在成本高压与AI换机动力不足的夹缝中，这场逆周期押注能否为华为打开AI新增量？ 华为用星芒押注AI新增量 2026",
+     "source": "东方财富股票",
+     "zh": "华为推出星芒 AI手机的故事怎么落地？"
     },
     {
      "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
@@ -2337,6 +2361,14 @@
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
+     "title": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936857611.html",
+     "pubDate": "Sun, 22 Nov 2026 00:40:25 +0800",
+     "summary": "当地时间21日，伊朗副外长加里巴巴迪表示，一个卡塔尔代表团于20日晚抵达伊朗首都德黑兰，双方进行了两个小时的磋商。 此前，据两位知情人士透露，美国总统特使威特科夫和总统特朗普的女婿库什纳19日在柏林与卡塔尔高级官员举行会晤，就美国与伊朗之间的斡旋工作进行讨论。卡塔尔首相兼外交大臣穆罕默德及其特使出席。 作为美伊之间的关键斡旋方，卡塔尔数周来一直致力于促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗副外长称与卡塔尔代表团在德黑兰举行磋商"
+    },
+    {
      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
      "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
      "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
@@ -2353,6 +2385,14 @@
      "zh": "Treasury secretary rules out further curbs on Nvidia chip sales to China"
     },
     {
+     "title": "167年数学难题被攻克？90后数学家联手AI 最新公布",
+     "link": "http://finance.eastmoney.com/news/1360,202611213936856371.html",
+     "pubDate": "Sun, 22 Nov 2026 00:20:42 +0800",
+     "summary": "人工智能 （AI）向探索科研级数学问题深处不断迈进。 美国时间2026年11月20日， Anthropic 数学家莱文特·阿尔波格（Levent Alpge）宣称与AI合作证明了167年未解的黎曼猜想，但超25万页证明仅以代码公开，引发学界震动与争议。 黎曼猜想是数论领域的经典难题，被公认为是数学界最难解决的难题。为了证明黎曼猜想，一代代数学家前赴后继，但都没有成功。1859年，德国数学家黎曼在题为《论小于给定数值的素数个数》的论文中提出了“黎曼猜想”。这篇论文虽然只有8页，却给后世留下了数学史上最著名的未决问题。 该论文讨论的是素数（也叫质数）分布规律的问题。素数的定义在中小学数学课本上便可",
+     "source": "东方财富股票",
+     "zh": "167年数学难题被攻克？90后数学家联手AI 最新公布"
+    },
+    {
      "title": "Insider trades: Apple, Meta, Coca-Cola among notable names",
      "link": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 11:03:59 -0500",
@@ -2361,12 +2401,20 @@
      "zh": "Insider trades: Apple, Meta, Coca-Cola among notable names"
     },
     {
-     "title": "FBI crime database hacked: CNN",
-     "link": "https://seekingalpha.com/news/4675393-fbi-crime-database-hacked?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 10:48:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FBI crime database hacked: CNN"
+     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
+     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
+     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
+     "source": "东方财富股票",
+     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
+    },
+    {
+     "title": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936857346.html",
+     "pubDate": "Sat, 21 Nov 2026 23:56:25 +0800",
+     "summary": "11月20日， *ST英飞 （002528）发布公告，近日公司获悉其全资子公司英飞拓系统的100%股权被冻结，冻结期限为2026年11月2日至2029年11月2日。 该股权冻结源于公司、英飞拓系统及其子公司杭州科技与浙江海滨建设集团（以下简称“海滨建设” ）的建设工程施工合同纠纷，应海滨建设申请，杭州市西湖区人民法院冻结公司持有的英飞拓系统100%股权，目前该案件一审已开庭进行证据交换，暂未作出判决。 公告指出，虽然英飞拓系统股权被冻结，但在未有法院判决生效之前，该股权暂无被司法拍卖的风险。上述子公司股权司法冻结事项暂时不会影响公司及子公司的日常经营活动，也不会导致公司对上述子公司股权的所有权",
+     "source": "东方财富股票",
+     "zh": "*ST英飞子公司英飞拓系统全部股权被冻结，或影响资产出售过户"
     },
     {
      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
@@ -2471,54 +2519,6 @@
      "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
      "source": "东方财富资讯",
      "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
-    },
-    {
-     "title": "来得早 爬得快！流感季来袭 药店货架有哪些变化？",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936830785.html",
-     "pubDate": "Sat, 21 Nov 2026 18:09:56 +0800",
-     "summary": "一次进货10箱的抗病毒口服液很快售罄，奥司他韦货架上多个国产品牌同台比价，两百余元的单次口服国产新药也摆上了零售柜台——随着今冬 流感 活动提前步入中流行水平，一线药店的货架变化，正直观映射出抗 流感 药市场的格局变化。 财联社记者近日实地走访上海多家药店发现，本轮 流感 季的终端需求正明显向“家庭预防备药”与“多元处方选择”两端分散。而在货架背后，抗流感药物的产业竞争已悄然换挡：传统主力奥司他韦在经历第十一批国采洗礼后，院内院外格局正在发生变化；罗氏玛巴洛沙韦独占单次口服市场的局面则被打破，三款国产PA亚基抑制剂密集登场，但受制于医保目录执行时间差，各家商业化放量节奏仍存分化。 当流感季“来",
-     "source": "东方财富资讯",
-     "zh": "来得早 爬得快！流感季来袭 药店货架有哪些变化？"
-    },
-    {
-     "title": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936829368.html",
-     "pubDate": "Sat, 21 Nov 2026 17:47:26 +0800",
-     "summary": "Anthropic 的上市，成硅谷新造富故事！ 当地时间11月19日，美国 人工智能 企业 Anthropic 在美国 纳斯达克 交易所挂牌上市，首次公开募股融资金额813亿美元，超过太空探索技术公司在今年6月创下的750亿美元的历史最高纪录。 Anthropic 公司本次公开募股发行量为9.8亿股，每股定价83美元，总融资金额达到813.4亿美元。上市首日较发行价收涨17.1%，报97.17美元/股，市值达1.28万亿美元。MSCI将于12月1日把其纳入 大盘股 指数， 富时罗素 也将其快速纳入富时全球股票指数系列。 上市首日的惊艳表现，进一步放大了AI批量造富神话，一大批富豪也随之诞生。有",
-     "source": "东方财富资讯",
-     "zh": "96%员工 一夜变身百万富翁！这家美股AI公司刷屏了"
-    },
-    {
-     "title": "特朗普想要“1月初之前”结束俄乌战争",
-     "link": "https://wallstreetcn.com/articles/3786435",
-     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
-     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
-     "source": "华尔街见闻",
-     "zh": "特朗普想要“1月初之前”结束俄乌战争"
-    },
-    {
-     "title": "“脱欧”十年之后，英国又要“入欧”？",
-     "link": "https://wallstreetcn.com/articles/3786433",
-     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
-     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
-     "source": "华尔街见闻",
-     "zh": "“脱欧”十年之后，英国又要“入欧”？"
-    },
-    {
-     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
-     "link": "https://wallstreetcn.com/articles/3786432",
-     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
-     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
-     "source": "华尔街见闻",
-     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
-    },
-    {
-     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
-     "link": "https://wallstreetcn.com/articles/3786431",
-     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
-     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
-     "source": "华尔街见闻",
-     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
     }
    ]
   },

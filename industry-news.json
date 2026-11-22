@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 21:11:53",
+ "generated_at": "2026/11/22 21:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -1337,12 +1337,12 @@
      "zh": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno"
     },
     {
-     "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
      "source": "Spaceflight Now",
-     "zh": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office"
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     },
     {
      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -1409,14 +1409,6 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1465,14 +1457,6 @@
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1513,14 +1497,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1559,6 +1535,22 @@
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1785,12 +1777,36 @@
    "total": 18,
    "items": [
     {
-     "title": "《后会友期》拉起的情绪爆点，被鸭舌和云饺接住了",
-     "link": "https://www.huxiu.com/article/4907529.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 20:52:29 +0800",
-     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 看完本周四更新的《后会友期》后，骨朵的心情没有想象中激昂，马天宇的袒露孤独、白小纯的职场过往让人感叹，节目里的十几天不是全部，友情之外嘉宾都还面临着更深刻的人生课题。 唯一觉得有些“疯狂”的，是节目新晋赞助商肯德基的广告词：“多少意难平，V我50都摆平！”“下个周四，后会友‘鸡’”。继绝味鸭舌、999感冒灵毛毯、袁记云饺爆火之后，肯德基也不甘错过热点，借谐音梗实现硬植入。这富贵接没接住不知道，但如此直抒胸臆的宣发，观感很像是文青群里冒出一个不会读空气的西装猛男，目的只有薅你毛。 开播以后低开高走，《后会友期》现以极高的市占率吸干综艺大盘",
+     "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+     "link": "https://www.ithome.com/1/030/711.htm",
+     "pubDate": "Sun, 22 Nov 2026 13:23:38 GMT",
+     "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
+     "source": "IT之家",
+     "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
+    },
+    {
+     "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+     "link": "https://www.ithome.com/1/030/710.htm",
+     "pubDate": "Sun, 22 Nov 2026 13:17:56 GMT",
+     "summary": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPhone 18 Pro Max 还要大 5",
+     "source": "IT之家",
+     "zh": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起"
+    },
+    {
+     "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
+     "link": "https://www.ithome.com/1/030/708.htm",
+     "pubDate": "Sun, 22 Nov 2026 12:56:39 GMT",
+     "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。 Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的",
+     "source": "IT之家",
+     "zh": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路"
+    },
+    {
+     "title": "大模型数据的隐秘江湖",
+     "link": "https://www.huxiu.com/article/4907530.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 20:56:00 +0800",
+     "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，头图来自：AI生成 今年，一级市场最炙手可热的&ldquo;当红炸子鸡&rdquo;，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为&ldquo;外包&rdquo;的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容",
      "source": "虎嗅",
-     "zh": "《后会友期》拉起的情绪爆点，被鸭舌和云饺接住了"
+     "zh": "大模型数据的隐秘江湖"
     },
     {
      "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
@@ -1828,17 +1844,9 @@
      "title": "AI is becoming a disaster for the climate",
      "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
      "pubDate": "Sun, 22 Nov 2026 12:19:46 +0000",
-     "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 21 # Comments: 1",
      "source": "Hacker News",
      "zh": "AI is becoming a disaster for the climate"
-    },
-    {
-     "title": "大模型数据的隐秘江湖",
-     "link": "https://www.huxiu.com/article/4907530.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 20:14:33 +0800",
-     "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《深度丨大模型数据的隐秘江湖》 今年，一级市场最炙手可热的「当红炸子鸡」，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为“外包”的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容的AI应用创投圈，这些既能",
-     "source": "虎嗅",
-     "zh": "大模型数据的隐秘江湖"
     },
     {
      "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
@@ -1881,28 +1889,12 @@
      "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
     },
     {
-     "title": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元",
-     "link": "https://www.ithome.com/1/030/703.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:56:09 GMT",
-     "summary": "IT之家 11 月 22 日消息，微星现已在京东上架“PRO MP272L”27 英寸显示器，该机为 1080P 100Hz 规格，定价为 599 元。 京东 微星 PRO MP272L 显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 100Hz IPS 面板，MPRT 响应速度 1ms，显示器亮度 250 尼特。显示器支架支持俯仰，本体支持 VESA 100x100mm 壁挂，提供 HDMI 和 DP 接口。",
-     "source": "IT之家",
-     "zh": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元"
-    },
-    {
      "title": "单日蒸发超1万亿美元",
      "link": "https://www.huxiu.com/article/4907527.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 19:46:20 +0800",
      "summary": "本文来自微信公众号： 格隆 ，作者：城北徐公，原文标题：《罕见！单日蒸发超1万亿美元》 一片恐慌之中，黄金出现了历史罕见的深度回撤。 截至本周五，国际金价已跌至3539美元/盎司，一度险些跌破3500美元。 单周跌幅约9%，近9个交易日跌幅14.71%，创14个月新低。 较1月29日的高点，最大回撤幅度更是超过37%。 按《财富》11月20日对比前日基准测算，当天，黄金账面蒸发市值约1.016万亿美元。 究竟怎么回事？ 01 先看看最近到底发生了什么。 第一阶段，通胀与就业数据堵死宽松预期。 11月6日，美国劳工统计局公布10月非农就业报告：新增就业16.5万人，失业率维持在4.1%，平均时薪",
      "source": "虎嗅",
      "zh": "单日蒸发超1万亿美元"
-    },
-    {
-     "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
-     "link": "https://www.ithome.com/1/030/702.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:44:18 GMT",
-     "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注意到，AI 智能体“井喷”现象最初源自一位爱好者创建的“Claude 大小姐在运营”账号，该账号选题、视频制作及日常运营均由 AI 完成。在引起一定反响后，平台开始陆续出现“DeepSeek 鲸鱼娘在运营”",
-     "source": "IT之家",
-     "zh": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见"
     },
     {
      "title": "人均150-250元的平价台州菜，正在接管一二线商场",
@@ -1929,12 +1921,12 @@
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
     },
     {
-     "title": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价",
-     "link": "https://www.ithome.com/1/030/701.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:28:24 GMT",
-     "summary": "【 手小慎拍 ，此款适合大多数男性手掌握持。】 罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东 PLUS 会员国补后低至 323 元，大多数小伙伴点击下方卡片后，京东 App 上部会自动 弹出 51-50 元加码券 ， 手动点击“领券”后 仅需 278 元破冰新低： 京东 罗技 MX Master 3S 菁英版 大师系列 手动领券后 278 元 直达链接 本次黑号的小伙伴可能不会弹券，可以切换账号尝试自动弹券哦。 此款在办公领域，无论使用的是 微软 Windows 系统 还是 苹果 Mac 系统 ，",
-     "source": "IT之家",
-     "zh": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价"
+     "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
+     "link": "https://www.huxiu.com/article/4907523.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《“别抱侥幸心理了，还有很多人没卖！”摩根大通劝退科技股》 美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比",
+     "source": "虎嗅",
+     "zh": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -2032,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "10 rare game consoles that almost no one owns",
+     "link": "https://www.engadget.com/2321882/rare-game-console-no-one-owns/",
+     "pubDate": "Sun, 22 Nov 2026 13:15:00 +0000",
+     "summary": "Even common consoles have rare editions that are highly sought after by collectors.",
+     "source": "Engadget",
+     "zh": "10 rare game consoles that almost no one owns"
+    },
+    {
+     "title": "What does the blue snowflake icon mean for your Tesla battery?",
+     "link": "https://www.engadget.com/2319342/tesla-battery-blue-snowflake-icon-meaning/",
+     "pubDate": "Sun, 22 Nov 2026 13:15:00 +0000",
+     "summary": "No, that snowflake isn't a weather report nor is it an Easter egg. But it is something you should pay attention to if you care at all about range.",
+     "source": "Engadget",
+     "zh": "What does the blue snowflake icon mean for your Tesla battery?"
+    },
     {
      "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
      "link": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php",
@@ -2137,28 +2145,12 @@
      "zh": "Your PC's USB port can charge your phone, even when it's turned off — Here's how"
     },
     {
-     "title": "10 things you should never do on your Android phone",
-     "link": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
-     "pubDate": "Sun, 22 Nov 2026 00:15:00 +0000",
-     "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
-     "source": "Engadget",
-     "zh": "10 things you should never do on your Android phone"
-    },
-    {
      "title": "Motorola Moto Tag 3 listed on Amazon",
      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
      "pubDate": "Sun, 22 Nov 2026 01:03:02 +0100",
      "summary": "Motorola unveiled the Moto Tag in 2024 and followed up with the Moto Tag 2 in January this year. Considering the gap between the first and second-gen Moto Tags, we weren't expecting Motorola to launch Moto Tag 3 anytime soon, but it seems Motorola could launch it in a few months, or even weeks, as i",
      "source": "GSMArena",
      "zh": "Motorola Moto Tag 3 listed on Amazon"
-    },
-    {
-     "title": "This is the best type of wireless earbuds for audio output",
-     "link": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
-     "pubDate": "Sun, 22 Nov 2026 00:00:00 +0000",
-     "summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
-     "source": "Engadget",
-     "zh": "This is the best type of wireless earbuds for audio output"
     },
     {
      "title": "iOS 27: My favorite new iPhone features (other than AI)",
@@ -2281,6 +2273,62 @@
    "total": 13,
    "items": [
     {
+     "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+     "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+     "pubDate": "Sun, 22 Nov 2026 13:25:47 GMT",
+     "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+     "source": "CNBC",
+     "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
+    },
+    {
+     "title": "宁泉资产宣布恢复新投资者申购",
+     "link": "http://finance.eastmoney.com/news/1350,202611223936949273.html",
+     "pubDate": "Sun, 22 Nov 2026 21:22:34 +0800",
+     "summary": "上海宁泉 资产管理 有限公司公告称，根据公司投资管理运作需要，公司作为管理人管理的私募基金，决定自2026年11月23日起，恢复接受公司旗下所有基金的新投资者“首次”申购申请。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "宁泉资产宣布恢复新投资者申购"
+    },
+    {
+     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
+     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
+     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
+     "source": "东方财富股票",
+     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
+    },
+    {
+     "title": "三连跌停后，002187，最新回应！",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936948913.html",
+     "pubDate": "Sun, 22 Nov 2026 21:14:00 +0800",
+     "summary": "近期， 广百股份 (002187)经历了一轮暴涨暴跌。 11月22日， 广百股份 再次披露异动公告，公司提示，其股票于2026年11月18日、11月19日、11月20日连续三个交易日收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动的情形。 广百股份 称，经公司自查并书面向控股股东、实际控制人核实，截至公告披露日，确认不存在应披露而未披露的重要信息或重大事项。 近期，广百股份先是连续多个交易日涨停，后又连续多个交易日跌停。根据Wind数据，11月12日、13日、16日，广百股份连续3个交易日涨停，11月17日也大涨近6%。其间，公司发布异动公告，称不存在应披露而未披露的重要信息或重大事项。",
+     "source": "东方财富股票",
+     "zh": "三连跌停后，002187，最新回应！"
+    },
+    {
+     "title": "雾芯科技2026年第三季度净营收同比增长近70%，海外收入占比86.5%",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936949029.html",
+     "pubDate": "Sun, 22 Nov 2026 21:12:00 +0800",
+     "summary": "近日， 雾芯科技 公布2026年第三季度未经审计的财报。财报显示， 雾芯科技 2026年第三季度的净营收为19.17亿元，同比增长69.70%，其中海外市场收入占比达86.5%，主要得益于2026年7月新收购的欧洲实体并表。 雾芯科技 创始人、董事长兼CEO汪莹表示，2026年第三季度是雾芯科技发展历程中的关键转折点，完成了对新收购的欧洲分销平台的整合，进一步拓宽了全球业务布局，可信赖的品牌形象已深深植入成年消费者的心中，且已构建起全球产品创新、供应链执行及直达终端渠道的端到端 综合 能力。 雾芯科技通过将这些核心优势与本地化专业团队、开放的多品牌生态理念相结合，正在获取更敏锐的零售洞察，从而",
+     "source": "东方财富股票",
+     "zh": "雾芯科技2026年第三季度净营收同比增长近70%，海外收入占比86.5%"
+    },
+    {
+     "title": "因违规使用募集资金等 逸飞激光收湖北证监局警示函",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936948511.html",
+     "pubDate": "Sun, 22 Nov 2026 21:09:39 +0800",
+     "summary": "《科创板日报》11月22日讯（记者黄修眉） 逸飞激光 今日（11月22日）晚间公告称，因存在募集资金违规使用，定期报告披露不准确，公司成本费用核算、支付不规范，关联方及关联交易披露不及时等问题，公司收到湖北证监局警示函。 逸飞激光 及相关责任人吴轩、王树、曹卫斌被采取出具警示函的行政监管措施，公司表示已全面完成整改。 其中， 违规使用募集资金 方面， 逸飞激光 在“ 锂 电激光智造装备三期基地项目”中，违规将2800万元募投资金出借给7家公司。截至2025年7月， 违规使用的募集资金已归还至公司募集资金专户。 定期报告披露不准确 方面，2023年度，逸飞激光与5家公司开展的设备销售业务中，相关",
+     "source": "东方财富股票",
+     "zh": "因违规使用募集资金等 逸飞激光收湖北证监局警示函"
+    },
+    {
+     "title": "周末利好，机构最新研判来了",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936948619.html",
+     "pubDate": "Sun, 22 Nov 2026 21:08:00 +0800",
+     "summary": "展望A股后市，业内机构建议，紧盯微观流动性变化，同时关注政策出台情况。在具体配置上，以防御为先、重视低波红利资产成为机构的共识，建议关注估值处于低位且基本面预期改善的方向、部分内需与顺周期板块配置价值。 机构后市投资观点 东吴证券 ：寻找中长线逻辑确定性更强的资产 结构上需要寻找一些中长线逻辑确定性更强的资产，建议关注三条主线：一是AI产业链方向，关注国产芯片产业链，其中制造端优于设计端；二是估值处于低位且基本面预期改善的方向，如 军工 等；三是盈利相对稳定的高股息、高自由现金流的红利资产。 中信建投 ：防御为先，静待转机 后续建议紧盯微观流动性的变化，同时关注政策出台情况。配置上以防御为先，",
+     "source": "东方财富股票",
+     "zh": "周末利好，机构最新研判来了"
+    },
+    {
      "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
      "link": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 08:07:50 -0500",
@@ -2337,22 +2385,6 @@
      "zh": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO"
     },
     {
-     "title": "中国结算：暂免收取部分债券登记结算费用",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936928656.html",
-     "pubDate": "Sun, 22 Nov 2026 19:13:04 +0800",
-     "summary": "中国结算关于暂免收取部分债券登记结算费用的通知 各市场参与主体： 为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎回回售手续费。 二、自2027年1月1日起至2028年12月31日，继续暂免收取民营企业公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎",
-     "source": "东方财富资讯",
-     "zh": "中国结算：暂免收取部分债券登记结算费用"
-    },
-    {
-     "title": "上交所组合式推出新一批降费措施 助力激发市场主体活力",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936927660.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:34 +0800",
-     "summary": "11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。对上市公司，全面免收上市费、上证e服务、上证e投票等",
-     "source": "东方财富资讯",
-     "zh": "上交所组合式推出新一批降费措施 助力激发市场主体活力"
-    },
-    {
      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
      "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
      "pubDate": "Sun, 22 Nov 2026 11:00:05 GMT",
@@ -2361,44 +2393,12 @@
      "zh": "Did Anthropic and its bankers get a key call wrong after IPO?"
     },
     {
-     "title": "上交所正推动修订科创板做市商规则",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936927537.html",
-     "pubDate": "Sun, 22 Nov 2026 18:56:56 +0800",
-     "summary": "11月22日，证券时报记者获悉，近期上交所正结合市场运行新变化、市场主体实际诉求，推动修订科创板股票做市业务相关规则，聚焦做市商交易能力提升和做市业务规范管理，激励做市商扩大报价规模，促进做市业务形成良性生态，引导做市商更加规范、持续、稳定供给流动性，推动做市报价进一步提质增效，促进科创板市场高质量发展。 科创板做市商 机制是科创板基础交易制度改革的重要探索，是国内股票市场首次在竞价交易基础上引入竞争性做市商，对发挥科创板改革试验田功能、完善资本市场交易体系具有重要作用。做市商持续向市场提供双边报价，对科创板股票订单簿结构改善明显，有效增加了订单簿深度、收窄买卖价差、降低投资者交易成本，同时有",
-     "source": "东方财富资讯",
-     "zh": "上交所正推动修订科创板做市商规则"
-    },
-    {
      "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
      "link": "https://wallstreetcn.com/articles/3786460",
      "pubDate": "Sun, 22 Nov 2026 18:52:10 +0800",
      "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
      "source": "华尔街见闻",
      "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
-    },
-    {
-     "title": "沪深交易所、中国结算推出一揽子降费措施",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924891.html",
-     "pubDate": "Sun, 22 Nov 2026 18:41:42 +0800",
-     "summary": "记者11月22日从中国证监会了解到，沪深交易所推出新一批降费措施，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服务费及债券结算费。 相关报道 上交所组合式推出新一批降费措施 助力激发市场主体活力 11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延",
-     "source": "东方财富资讯",
-     "zh": "沪深交易所、中国结算推出一揽子降费措施"
-    },
-    {
-     "title": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924279.html",
-     "pubDate": "Sun, 22 Nov 2026 18:37:21 +0800",
-     "summary": "经证监会批准，沪深北交易所将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。据测算，此次调整理论上可带来增量资金近4000亿元。这意味着投资者用100万元的保证金最多可以向证券公司融资125万元买入证券，该笔融资交易的杠杆倍数为1.25倍，可融资买入规模提升了25%。而现有的融资交易杠杆倍数为1倍，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。 相关报道 A股融资杠杆比例提至1.25倍 业内预计将带来4000亿资金增量 融资杠杆比例将由1倍提高至1.25倍，这是A股市场第四次调整融资保证金比例。 11月22日，沪深北交易所发布《关于调整",
-     "source": "东方财富资讯",
-     "zh": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元"
-    },
-    {
-     "title": "深交所拟在创业板引入做市商制度",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924084.html",
-     "pubDate": "Sun, 22 Nov 2026 18:35:47 +0800",
-     "summary": "为进一步深化创业板改革，促进增强市场内在稳定性，在中国证监会统筹指导下，深交所积极推进在创业板引入做市商制度，起草了《 深圳证券交易所创业板股票做市交易业务细则（征求意见稿） 》（以下简称《做市业务细则》），现向社会公开征求意见。 2026年4月10日，证监会发布《关于深化创业板改革更好服务新质生产力发展的意见》，提出在创业板引入做市商制度，增强市场内在稳定性。同月，深交所修订发布《深圳证券交易所交易规则》，明确创业板股票交易可以实行做市商机制。市场实践表明，在竞价交易的基础上引入做市商机制，能够丰富市场参与主体，提升投资机构和交易策略多元化水平，有助于壮大稳市力量，提高定价效率，降低交易成本",
-     "source": "东方财富资讯",
-     "zh": "深交所拟在创业板引入做市商制度"
     },
     {
      "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
@@ -2511,14 +2511,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
     }
    ]
   },

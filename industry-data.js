@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 04:12:06",
+ "generated_at": "2026/11/23 04:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "From GTA 6 to robot fighting: Humanoid combat league prepares for Melbourne debut",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/from-gta-6-to-robot-fighting-humanoid-combat-league-prepares-for-melbourne-debut/107481/",
+     "pubDate": "Sun, 22 Nov 2026 20:22:41 +0000",
+     "summary": "The launch of Grand Theft Auto VI has once again demonstrated the enormous cultural influence of video games. But while millions of players explore Rockstar Games’ latest virtual world, another form of technologically driven entertainment is preparing to enter the real-world sporting arena: humanoid",
+     "source": "Robotics & Automation",
+     "zh": "From GTA 6 to robot fighting: Humanoid combat league prepares for Melbourne debut"
+    },
+    {
+     "title": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/robotics-investment-set-to-reach-60-7-billion-in-2026-but-funding-boom-raises-concerns/107478/",
+     "pubDate": "Sun, 22 Nov 2026 20:11:05 +0000",
+     "summary": "Global robotics investment is on course for a record year in 2026, with funding projected to reach $60.7 billion, although much of the growth is concentrated in a relatively small number of companies, according to a new report from venture capital firm F-Prime Capital. The firm’s State of Robotics 2",
+     "source": "Robotics & Automation",
+     "zh": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns"
+    },
+    {
      "title": "European automakers expand autonomous driving programs with Nvidia technology",
      "link": "https://roboticsandautomationnews.com/2026/11/22/european-automakers-expand-autonomous-driving-programs-with-nvidia-technology/107475/",
      "pubDate": "Sun, 22 Nov 2026 20:03:55 +0000",
@@ -536,22 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Schunk has renamed its humanoid robotics spin-off Tactilia Robotics, establishing a Munich-based company focused on developing modular robotic hands for industrial automation applications. Originally founded in January 2026 as Schunk Humanoid Robotics GmbH, the company is developing robotic hands de",
      "source": "Robotics & Automation",
      "zh": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands"
-    },
-    {
-     "title": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/mitsubishi-electric-expands-us-manufacturing-and-technology-investments-to-2-9-billion/107462/",
-     "pubDate": "Sun, 22 Nov 2026 16:28:33 +0000",
-     "summary": "Mitsubishi Electric has outlined more than $2.9 billion in US investments, acquisitions and announced commitments over the past two years, including manufacturing expansions, cybersecurity acquisitions and new artificial intelligence initiatives. The Japanese industrial technology company says its i",
-     "source": "Robotics & Automation",
-     "zh": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion"
-    },
-    {
-     "title": "Genesis AI raises $500 million to scale general-purpose robotics",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/genesis-ai-raises-500-million-to-scale-general-purpose-robotics/107458/",
-     "pubDate": "Sun, 22 Nov 2026 16:19:30 +0000",
-     "summary": "Genesis AI, a robotics company with operations in Paris and California, has raised $500 million in Series A funding at a post-money valuation of $3.5 billion to accelerate development and commercialization of its general-purpose robots. The funding round was co-led by Premji Invest, Khosla Ventures ",
-     "source": "Robotics & Automation",
-     "zh": "Genesis AI raises $500 million to scale general-purpose robotics"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+     "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+     "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 19 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
+    },
+    {
      "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
      "link": "https://www.techmeme.com/261122/p10#a261122p10",
      "pubDate": "Sun, 22 Nov 2026 14:50:01 -0500",
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "What Happened to Silicon Valley?",
      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
      "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 47 # Comments: 7",
      "source": "Hacker News",
      "zh": "What Happened to Silicon Valley?"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Canada recommits to federal funding for news",
      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
      "pubDate": "Sun, 22 Nov 2026 19:10:38 +0000",
-     "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 77 # Comments: 59",
+     "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 91 # Comments: 84",
      "source": "Hacker News",
      "zh": "Canada recommits to federal funding for news"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
      "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 71 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
     },
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Dirac's Theorem at a Dinner Party",
      "link": "https://prideout.net/blog/dirac-dinner-party/",
      "pubDate": "Sun, 22 Nov 2026 18:50:27 +0000",
-     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 9 # Comments: 2",
      "source": "Hacker News",
      "zh": "Dirac's Theorem at a Dinner Party"
     },
@@ -1872,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及",
      "source": "虎嗅",
      "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
-    },
-    {
-     "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-     "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-     "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 121 # Comments: 100",
-     "source": "Hacker News",
-     "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
     },
     {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
@@ -2026,6 +2026,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "You don't need a foldable phone to use split screen on Android",
+     "link": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+     "pubDate": "Sun, 22 Nov 2026 20:15:00 +0000",
+     "summary": "There are a few ways you can multitask on a traditional smartphone.",
+     "source": "Engadget",
+     "zh": "You don't need a foldable phone to use split screen on Android"
+    },
+    {
+     "title": "The advantages of using a USB-C docking station",
+     "link": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+     "pubDate": "Sun, 22 Nov 2026 20:00:00 +0000",
+     "summary": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
+     "source": "Engadget",
+     "zh": "The advantages of using a USB-C docking station"
+    },
+    {
      "title": "Want more control over your YouTube homepage? Try using custom feeds",
      "link": "https://www.engadget.com/2319492/try-using-youtube-custom-feeds-control-homepage/",
      "pubDate": "Sun, 22 Nov 2026 19:45:00 +0000",
@@ -2056,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
      "source": "Engadget",
      "zh": "5 Apple Watch settings that can help you save its battery life"
-    },
-    {
-     "title": "What the little clock icon at the top of your Samsung phone means",
-     "link": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
-     "pubDate": "Sun, 22 Nov 2026 18:45:00 +0000",
-     "summary": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
-     "source": "Engadget",
-     "zh": "What the little clock icon at the top of your Samsung phone means"
-    },
-    {
-     "title": "The drawbacks of adding solar panels to your home",
-     "link": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages/",
-     "pubDate": "Sun, 22 Nov 2026 18:30:00 +0000",
-     "summary": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
-     "source": "Engadget",
-     "zh": "The drawbacks of adding solar panels to your home"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2274,6 +2274,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Social Security should be shut down, this Republican senator says",
+     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 20:26:00 GMT",
+     "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+     "source": "MarketWatch",
+     "zh": "Social Security should be shut down, this Republican senator says"
+    },
+    {
+     "title": "'Hunger Games' helps box office rebound amid GTA 6 fever",
+     "link": "https://seekingalpha.com/news/4675413-hunger-games-helps-box-office-rebound-amid-gta-6-fever?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 15:10:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "'Hunger Games' helps box office rebound amid GTA 6 fever"
+    },
+    {
      "title": "Goldman watching for 3 conditions that could support a stock correction bottom",
      "link": "https://seekingalpha.com/news/4675412-goldman-watching-for-3-conditions-that-could-support-a-stock-correction-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 14:38:03 -0500",
@@ -2426,28 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     },
     {
-     "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-     "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 16:18:00 GMT",
-     "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-     "source": "MarketWatch",
-     "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
-    },
-    {
      "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",
      "link": "https://seekingalpha.com/news/4675408-dni-clayton-says-u-s-probing-alleged-chinese-spy-alice-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 10:53:57 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang."
-    },
-    {
-     "title": "Global equities suffer weekly losses amid AI rout, inflation worries",
-     "link": "https://seekingalpha.com/news/4675409-global-equities-suffer-weekly-losses-amid-ai-rout-inflation-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 10:49:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global equities suffer weekly losses amid AI rout, inflation worries"
     },
     {
      "title": "Sanctioned Russian vessel attacked by drones near Finland",

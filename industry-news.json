@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 05:52:08",
+ "generated_at": "2026/11/23 06:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -353,14 +353,6 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -369,52 +361,12 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -495,6 +447,54 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+     "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
+     "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+     "source": "Space.com",
+     "zh": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure"
+    },
+    {
      "title": "65 Years of Human Spaceflight at NASA Johnson",
      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
      "pubDate": "Sun, 22 Nov 2026 19:13:25 +0000",
@@ -1375,14 +1383,6 @@
      "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
-    },
-    {
-     "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
-     "pubDate": "Sat, 21 Nov 2026 16:20:37 +0000",
-     "summary": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io"
     },
     {
      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
@@ -1788,7 +1788,7 @@
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
      "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 19 # Comments: 0",
      "source": "Hacker News",
      "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
     },
@@ -1804,7 +1804,7 @@
      "title": "AWS got hit by an outage too. You didn't hear about it",
      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
      "pubDate": "Sun, 22 Nov 2026 20:50:18 +0000",
-     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 16 # Comments: 1",
      "source": "Hacker News",
      "zh": "AWS got hit by an outage too. You didn't hear about it"
     },
@@ -1820,7 +1820,7 @@
      "title": "A miniature San Francisco with live buses, planes and boats",
      "link": "https://smallsf.com/",
      "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 32 # Comments: 8",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 36 # Comments: 12",
      "source": "Hacker News",
      "zh": "A miniature San Francisco with live buses, planes and boats"
     },
@@ -1828,7 +1828,7 @@
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 32 # Comments: 4",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 40 # Comments: 4",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1836,7 +1836,7 @@
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 47 # Comments: 15",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 52 # Comments: 16",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -2025,6 +2025,22 @@
    "total": 7,
    "items": [
     {
+     "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+     "link": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+     "pubDate": "Sun, 22 Nov 2026 22:02:43 +0000",
+     "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . iOS 27 includes a really clever new feat",
+     "source": "9to5Mac",
+     "zh": "iOS 27 has a clever fix for unreliable Wi-Fi connections"
+    },
+    {
+     "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+     "link": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+     "pubDate": "Sun, 22 Nov 2026 21:45:00 +0000",
+     "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+     "source": "Engadget",
+     "zh": "Why your monitor flickers when you turn it on and can it be fixed?"
+    },
+    {
      "title": "The cool phone camera trick that can test your remote control's battery",
      "link": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
      "pubDate": "Sun, 22 Nov 2026 21:30:00 +0000",
@@ -2079,14 +2095,6 @@
      "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut. That tiny key icon is a perfect example of the latter.",
      "source": "Engadget",
      "zh": "What the tiny key icon means on your Android device"
-    },
-    {
-     "title": "You don't need a foldable phone to use split screen on Android",
-     "link": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
-     "pubDate": "Sun, 22 Nov 2026 20:15:00 +0000",
-     "summary": "There are a few ways you can multitask on a traditional smartphone.",
-     "source": "Engadget",
-     "zh": "You don't need a foldable phone to use split screen on Android"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2241,14 +2249,6 @@
      "zh": "The vibe code revolution: AI hackers are rewriting what your camera can do"
     },
     {
-     "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
-     "link": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
-     "pubDate": "Sat, 21 Nov 2026 20:30:00 +0000",
-     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . You likely have a TV on your wall that generally sits idle throughout the day. While the Apple TV does o",
-     "source": "9to5Mac",
-     "zh": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame"
-    },
-    {
      "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
      "link": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -2273,6 +2273,62 @@
    "total": 13,
    "items": [
     {
+     "title": "特朗普：早已预言民主党胜选将引发股市暴跌及伊朗袭击升级",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937016248.html",
+     "pubDate": "Mon, 23 Nov 2026 05:56:58 +0800",
+     "summary": "美国总统特朗普表示，大家应该都记得，我曾对11月3日的中期选举作出两项预测。第一，如果民主党获胜，股市将大幅下跌，而事实确实如此；第二，伊朗将加大攻击力度，而这也已经发生。过去一周，伊朗发射的 无人机 和导弹数量创下一年多以来的最高水平。别担心，它们全部被击落，没有造成任何损失。伊朗领导人认为民主党软弱无能、正在毁掉美国，但我绝不会允许这种事情发生！民主党和伊朗都拼尽全力，试图尽可能长时间地维持高油价，而自选举结束以来，油价已经出现创纪录的跌幅。可惜选民们在投票前没有看清这一点，但整场选举都非常‘奇怪’。最终，美国必将获胜。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：早已预言民主党胜选将引发股市暴跌及伊朗袭击升级"
+    },
+    {
+     "title": "马斯克：意识要么是错觉 要么以梯度形式普遍存在 难主张碳基能产生而硅基不行",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937016156.html",
+     "pubDate": "Mon, 23 Nov 2026 05:56:33 +0800",
+     "summary": "马斯克：意识要么是一种错觉，要么以梯度形式普遍存在。很难主张碳基可以产生意识，而硅基就不行。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "马斯克：意识要么是错觉 要么以梯度形式普遍存在 难主张碳基能产生而硅基不行"
+    },
+    {
+     "title": "影响市场重大事件：量子计算机“高速内存”全球首次真机实现；中国空间站多项空间科学实（试）验有序推进；我国“5G+工业互联网”项目超2.7万个",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937015376.html",
+     "pubDate": "Mon, 23 Nov 2026 05:52:52 +0800",
+     "summary": "｜2026年11月23日星期一｜ NO.1 量子 计算机 “高速内存”全球首次真机实现 11月21日，浙江大学西溪校区物理学院超导量子计算实验室内，形似巨型金属圆筒的稀释制冷机内部，一枚由浙江大学微纳加工中心制备、指甲盖大小的超导量子芯片躺在最低温区的混合室上，四周密布着 铝 线和微波同轴线缆。这枚芯片名为“天目2号”，此前在这里完成了一项重大突破——QRAM（量子随机存储器）的全球首次真机实现，这项成果相当于给量子 计算机 装上了“高速内存”。该研究由浙江大学物理学院、 计算机 学院、软件学院和宁波国际科创中心等团队完成，相关成果发表于国际期刊《自然·物理》。 NO.2 中国空间站多项空间科",
+     "source": "东方财富股票",
+     "zh": "影响市场重大事件：量子计算机“高速内存”全球首次真机实现；中国空间站多项空间科学实（试）验有序推进；我国“5G+工业互联网”项目超2.7万个"
+    },
+    {
+     "title": "特朗普发文称中期选举印证其两大预判 认为选举过程十分蹊跷",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937015993.html",
+     "pubDate": "Mon, 23 Nov 2026 05:52:38 +0800",
+     "summary": "美国总统特朗普表示，他此前针对11月3日中期选举作出两项预判。其一，若民主党赢得选举，股市将大幅下跌，该情况已经出现；其二，伊朗的袭击行动会变得更加激进，这一点也已应验。他称，伊朗上周发射的 无人机 和导弹数量创下一年多以来新高，不过这些目标均被击落，没有造成损失。特朗普提到，伊朗领导层认为民主党软弱无力、效率低下，会损害国家，但他不会允许这种局面发生。他认为民主党与伊朗此前都竭力维持油价高位，而选举结束之后油价出现创纪录下跌。特朗普感慨，遗憾选民在投票前没有看清这一点，整场选举十分“蹊跷”，他坚信美国最终会取得胜利。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普发文称中期选举印证其两大预判 认为选举过程十分蹊跷"
+    },
+    {
+     "title": "美国总统特朗普：上周伊朗无人机和导弹未造成损害",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937015832.html",
+     "pubDate": "Mon, 23 Nov 2026 05:52:07 +0800",
+     "summary": "美国总统特朗普：上周伊朗 无人机 和导弹未造成损害。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：上周伊朗无人机和导弹未造成损害"
+    },
+    {
+     "title": "美国总统特朗普：伊朗上周发射的无人机和导弹均被击落",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937015739.html",
+     "pubDate": "Mon, 23 Nov 2026 05:52:04 +0800",
+     "summary": "美国总统特朗普：伊朗上周发射的 无人机 和导弹均被击落。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：伊朗上周发射的无人机和导弹均被击落"
+    },
+    {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:51:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
      "title": "Ron Johnson’s Social Security gaffe buried important news",
      "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
@@ -2281,12 +2337,28 @@
      "zh": "Ron Johnson’s Social Security gaffe buried important news"
     },
     {
+     "title": "东方财富财经早餐 11月23日周一",
+     "link": "http://finance.eastmoney.com/news/11060,202611223936967073.html",
+     "pubDate": "Mon, 23 Nov 2026 05:02:32 +0800",
+     "summary": "每日精选 融资保证金比例下限降低： 沪深北交易所发布公告称，2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80% ，相关规则调整自2026年11月30日起施行。 一揽子降费措施： 新华社报道，记者从中国证监会了解到， 沪深交易所推出新一批降费措施 ，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月23日周一"
+    },
+    {
      "title": "Bears will be yelling fire in crowded theater - Dan Ives",
      "link": "https://seekingalpha.com/news/4675414-bears-will-be-yelling-fire-in-crowded-theater-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 15:38:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bears will be yelling fire in crowded theater - Dan Ives"
+    },
+    {
+     "title": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11060,202611233937011743.html",
+     "pubDate": "Mon, 23 Nov 2026 04:29:35 +0800",
+     "summary": "11月23日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 A股大消息 三大交易所集体发布 11月22日，为加强 融资融券 逆周期调节，促进 融资融券 业务健康平稳发展，经中国证监会批准，沪深北交易所发布《关于调整融资保证金比例等相关安排的通知》，将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。 华友钴业：拟10亿元至15亿元回购股份 中证智能财讯 华友钴业 （603799）11月22日晚间公告，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司部分股份，回购资金总额不低于10亿元且不超过15亿元，回购股份用于维护公司价值及股东权益。 “淘金",
+     "source": "东方财富资讯",
+     "zh": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "Social Security should be shut down, this Republican senator says",
@@ -2313,22 +2385,6 @@
      "zh": "Goldman watching for 3 conditions that could support a stock correction bottom"
     },
     {
-     "title": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税",
-     "link": "http://finance.eastmoney.com/news/11790,202611233937010398.html",
-     "pubDate": "Mon, 23 Nov 2026 03:29:41 +0800",
-     "summary": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税"
-    },
-    {
-     "title": "伊拉克安全部队打死极端组织“伊斯兰国”一头目",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010656.html",
-     "pubDate": "Mon, 23 Nov 2026 03:27:40 +0800",
-     "summary": "伊拉克国家安全局22日发布声明说，伊安全部队根据情报监控，在伊东部迪亚拉省对极端组织“伊斯兰国”一名头目采取行动。该头目在行动中被打死，其数名随行人员受伤并逃离现场。 声明说，该头目代号为“哈塔卜·贾齐拉”，曾任“伊斯兰国”地区军事总指挥官及分队指挥官，曾参与针对伊拉克安全部队、民兵武装“人民动员组织”营地的袭击，并杀害与伊安全机构合作的平民。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "伊拉克安全部队打死极端组织“伊斯兰国”一头目"
-    },
-    {
      "title": "Delta flight delays add to concerns about US air travel systems",
      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 19:25:06 GMT",
@@ -2345,36 +2401,12 @@
      "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     },
     {
-     "title": "胡塞武装：沙特主导的联军对也门发动81次袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010570.html",
-     "pubDate": "Mon, 23 Nov 2026 03:14:55 +0800",
-     "summary": "当地时间22日晚，也门胡塞武装发表声明称，过去24小时内，沙特主导的多国联军对也门首都萨那以及焦夫省、塔伊兹省、萨达省、马里卜省、拉赫季省、拜达省和荷台达省发动了81次空袭和导弹袭击。 声明还称，自也门新一轮军事冲突升级以来，沙特主导的联军针对胡塞武装控制区的空袭和导弹袭击总数已达5581次。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装：沙特主导的联军对也门发动81次袭击"
-    },
-    {
      "title": "Bessent refuses to rule out Huang’s return to Nvidia",
      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 19:08:31 GMT",
      "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
      "source": "Financial Times",
      "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
-    },
-    {
-     "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010440.html",
-     "pubDate": "Mon, 23 Nov 2026 03:05:03 +0800",
-     "summary": "当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。 据消息人士表示，以色列方面目前不仅在等待美国总统特朗普的决定，还在高度保密的状态下密集讨论各种可行方案。在上周举行的一场小范围闭门会议上，以军军事情报局明确发出警告，称以色列若对伊朗动武，恐将导致局势外溢至黎巴嫩、叙利亚以及加沙地带，引发黎真主党等多方同时卷入的多战线冲突。据悉，这一安全评估与内塔尼亚胡此前设想的“仅持续数天的定点打击”明显不符。 此外有消息称，“以色列是我们的家园”党领导人利伯曼上周末接受采访",
-     "source": "东方财富股票",
-     "zh": "内塔尼亚胡被曝正考虑单独对伊朗动武"
-    },
-    {
-     "title": "苏丹首都遭无人机袭击 一联合国设施受损",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010737.html",
-     "pubDate": "Mon, 23 Nov 2026 03:00:37 +0800",
-     "summary": "喀土穆消息：据苏丹民间机构、地方组织和目击者22日的消息，该国首都喀土穆及其西北恩图曼市多处目标当天遭 无人机 袭击，造成4人死亡、约10人受伤。一处联合国设施在袭击中受损。 联合国负责苏丹地区人道主义事务协调的官员丹尼斯·布朗22日发表声明说，联合国在喀土穆的一处设施在当天的袭击中受损，当时楼内有多名工作人员。她表示，袭击发生在居民区，平民绝非合法攻击目标，在苏丹开展援助工作的联合国人道主义工作者也不应受此类威胁。 苏丹一民间机构当天称，在喀土穆南部的杰贝勒 奥利 亚地区，一架 无人机 击中一处民宅，造成一名10岁儿童死亡。恩图曼市一地方组织也表示，一架 无人机 坠落于该市北部萨瓦拉区一处民",
-     "source": "东方财富股票",
-     "zh": "苏丹首都遭无人机袭击 一联合国设施受损"
     },
     {
      "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
@@ -2401,20 +2433,20 @@
      "zh": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens"
     },
     {
-     "title": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937010040.html",
-     "pubDate": "Mon, 23 Nov 2026 02:42:45 +0800",
-     "summary": "科莱恩与CD&R据悉正洽谈收购化学品公司 亚什兰 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰"
-    },
-    {
      "title": "These little-known investments could be among the best bargains in a crash",
      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 18:23:00 GMT",
      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
      "source": "MarketWatch",
      "zh": "These little-known investments could be among the best bargains in a crash"
+    },
+    {
+     "title": "首批主动ETF今上市 主动投资迈入“明牌”时代",
+     "link": "http://stock.eastmoney.com/news/11215,202611233937007379.html",
+     "pubDate": "Mon, 23 Nov 2026 02:19:09 +0800",
+     "summary": "11月23日，首批18只主动ETF正式上市交易，中国公募基金业将迎来“场内主动选股、每日持仓可见、透明化阿尔法”的历史性时刻。按照要求，这些产品需在上市之前将股票仓位提升至不低于80%。从最新净值变化看，主动ETF已呈现出稳健运作特征，为上市后的主动能力验证奠定基础。 首批主动ETF上市后，国内主动投资迈入“明牌”时代。主动ETF将与被动ETF、场外主动基金形成差异化权益产品矩阵，公募基金承接长期资金入市的工具丰富度和策略深广度将进一步扩展。 18只产品 加速完成建仓 18只主动ETF合计上市份额360亿份，截至11月16日的整体平均仓位还只有56.71%，最低仓位不足30%。从11月17日到",
+     "source": "东方财富资讯",
+     "zh": "首批主动ETF今上市 主动投资迈入“明牌”时代"
     },
     {
      "title": "Private equity has been buying up hospice centers — with striking consequences",
@@ -2433,20 +2465,36 @@
      "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
     },
     {
-     "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 17:00:00 GMT",
-     "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?"
-    },
-    {
      "title": "Delta flights delayed due to automated system issue",
      "link": "https://seekingalpha.com/news/4675410-delta-flights-delayed-due-to-automated-system-issue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 11:44:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Delta flights delayed due to automated system issue"
+    },
+    {
+     "title": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能",
+     "link": "http://stock.eastmoney.com/news/11134,202611223936950810.html",
+     "pubDate": "Mon, 23 Nov 2026 00:32:15 +0800",
+     "summary": "11月22日，科创板芯片设计企业思特威发布对外投资公告，宣布拟以现金方式向武汉楚兴技术有限公司（以下简称“武汉楚兴”）增资15.00亿元。 交易完成后，思特威将持有武汉楚兴5.5880%股权，标的公司将成为其参股公司。 本次增资对应的标的公司投前估值约为253.43亿元。 思特威计划通过本次入股深度绑定上游关键制造资源，补齐高端CMOS图像 传感器 （CIS）晶圆代工产能短板，提升供应链自主可控水平。 思特威拟借 银行 贷款出资15亿元入股晶圆代工厂 公告显示，思特威本次增资事项已经公司第二届董事会第十六次会议审议通过。 根据相关上市规则，本次交易无需提交股东会审议，不构成关联交易，也不构成重",
+     "source": "东方财富资讯",
+     "zh": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能"
+    },
+    {
+     "title": "侃股：破净股安全边际有所不同 不能盲目布局",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936956493.html",
+     "pubDate": "Mon, 23 Nov 2026 00:31:39 +0800",
+     "summary": "万得数据显示，截至11月20日收盘，在沪深北三市可交易的个股中，633只处于“破净”状态。 破净股 数量增多，与近期A股市场持续调整有关，意味着更多的投资机会。不过， 破净股 的安全边际有所不同，并非所有的 破净股 估值都合理。 在A股市场中，部分投资者认为股价跌破每股净资产，代表股票估值触底，下跌空间有限，是性价比极高的买入机会。但从市场实际表现来看，破净只是股价低估的一个指标，不同破净股的背后逻辑差异较大，安全边际更是各不相同，选择破净股也需要参考其他指标，不能盲目布局。 实际上，账面净资产并不能完全等同于上市公司的真实资产价值。部分公司的净资产值存在大量无法变现、资产质量偏低的情况，或存",
+     "source": "东方财富资讯",
+     "zh": "侃股：破净股安全边际有所不同 不能盲目布局"
+    },
+    {
+     "title": "iPhone Duo行情大跳水 第三方渠道价下探1300元",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936968851.html",
+     "pubDate": "Mon, 23 Nov 2026 00:19:18 +0800",
+     "summary": "据蓝鲸新闻报道，发售之初需要加价数千元的iPhone Duo正在面临行情大跳水。 平台价格显示，部分优惠价格已低于官方价格 1000多元。以 拼多多 为例，256G版本的iPhone Duo补贴价低至14699元，比官方价格低了1300元。得物上，256G版本的白色iPhone Duo 跌至15149元，较官方价格低了850元。 蓝鲸记者从数码商家处了解到，由于质量问题频发，风评下降，近期iPhone Duo 行情跳水严重。“我们这里全新未开封的256G版iPhone Duo只卖14700元。回收价更是跌到14500元。保值率甚至不如iPhone 18 Pro Max。”商家说道。 值得注意的",
+     "source": "东方财富资讯",
+     "zh": "iPhone Duo行情大跳水 第三方渠道价下探1300元"
     },
     {
      "title": "Sanctioned Russian vessel attacked by drones near Finland",
@@ -2463,54 +2511,6 @@
      "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
      "source": "Financial Times",
      "zh": "COP31 climate talks fail after stand-off over fossil fuels"
-    },
-    {
-     "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-     "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-     "pubDate": "Sun, 22 Nov 2026 13:25:47 GMT",
-     "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-     "source": "CNBC",
-     "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
-    },
-    {
-     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
-     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
-     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
-     "source": "东方财富资讯",
-     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
-    },
-    {
-     "title": "中国台湾地区拟下调融资保证金比例至120%以稳定股市",
-     "link": "http://hk.eastmoney.com/news/1556,202611223936948837.html",
-     "pubDate": "Sun, 22 Nov 2026 21:18:16 +0800",
-     "summary": "中国台湾地区正考虑下调融资维持保证金比例，以遏制股市抛售潮。中国台湾证券交易所表示，周日与10家券商召开紧急会议，讨论这一潜在举措。根据拟议方案，最低融资维持保证金比例将从目前的130%下调至120%。据交易所称，与会各方讨论了下调保证金比例后可能出现的不同情形，并将评估相关操作层面的问题。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "中国台湾地区拟下调融资保证金比例至120%以稳定股市"
-    },
-    {
-     "title": "11月22日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948326.html",
-     "pubDate": "Sun, 22 Nov 2026 21:00:39 +0800",
-     "summary": "今日摘要 习近平总书记指出，要持续巩固拓展脱贫攻坚成果，把常态化帮扶纳入 乡村振兴 战略统筹实施，守牢不发生规模性返贫致贫底线。进入常态化帮扶新阶段，一项项帮扶举措接续落地，让脱贫群众同全国人民一道，更稳地迈向乡村全面振兴。 系列报道【权威访谈】今天解读“增强党性是全面从严治党的根本性任务”。 今年1至10月，全国一般公共预算平稳增长，投资于人相关支出增长较快。 今年以来，文旅体育等服务消费持续火热，内需潜力不断释放。 各地各部门加强能源供应，全力保障群众温暖过冬。 国际人士表示，习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动发表的重要讲话，为共创亚太美 好未来 汇聚力量。 内",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-     "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-     "pubDate": "Sun, 22 Nov 2026 13:00:01 GMT",
-     "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
-     "source": "CNBC",
-     "zh": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
-    },
-    {
-     "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
-     "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
-     "summary": "杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。 今日晚间，沪深北三大交易所同步发布通知，宣布经中国证监会批准，将投资者融资买入证券时的融资保证金最低比例从现行的100%下调至80%，相关规则调整自11月30日起施行。截至11月19日，全市场两融余额2.2万亿元，与3.03万亿元的年内高点相比，已有逾8000亿元融资盘悄然离场。 这已经是年内第二次调整融资保证金比例。今年1月14日，沪深北交易所曾将最低比例由80%提高至100%，自1月19日起施行。十个月后，最低融资保证金比例重新回到80%。 值得关注的是，今年两次调整，政策细节颇有不同。 一是存量合约的处理不同。1月上调比例时，明",
-     "source": "东方财富资讯",
-     "zh": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确"
     }
    ]
   },

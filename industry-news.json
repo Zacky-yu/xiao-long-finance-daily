@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 08:52:00",
+ "generated_at": "2026/11/22 09:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -329,6 +329,14 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -337,12 +345,52 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -447,54 +495,6 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
-    },
-    {
-     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
-     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
-     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
-     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -673,6 +673,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
+     "link": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design/",
+     "pubDate": "Sun, 22 Nov 2026 01:07:22 +0000",
+     "summary": "The temporary injunction also bars BYD from producing the Ti7 in Hungary. It does not cover the UK market. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights"
+    },
+    {
+     "title": "Red wave: Xiaomi goes global with first overseas EV sales",
+     "link": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
+     "pubDate": "Sun, 22 Nov 2026 01:02:38 +0000",
+     "summary": "As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…",
+     "source": "Electrek",
+     "zh": "Red wave: Xiaomi goes global with first overseas EV sales"
+    },
+    {
      "title": "Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027",
      "link": "https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026/",
      "pubDate": "Sat, 21 Nov 2026 23:50:00 +0000",
@@ -719,14 +735,6 @@
      "summary": "Toyota is getting into electric bikes. Well, sort of. The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation. more…",
      "source": "Electrek",
      "zh": "Toyota just built a tiny folding electric bike to fit in your trunk"
-    },
-    {
-     "title": "E-quipment highlight: Mantsinen 200 material handler has tank treads",
-     "link": "https://electrek.co/2026/11/21/e-quipment-highlight-mantsinen-200-material-handler-has-tank-treads/",
-     "pubDate": "Sat, 21 Nov 2026 18:12:54 +0000",
-     "summary": "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads? If that’s you, the Mantsinen 200 might be just the thing. more…",
-     "source": "Electrek",
-     "zh": "E-quipment highlight: Mantsinen 200 material handler has tank treads"
     },
     {
      "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
@@ -807,14 +815,6 @@
      "summary": "The Stelato V8 starts at 319,800 yuan ($47,640), with the BEV variant offering up to 830 km (516 miles) of CLTC range. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Stelato launches V8 as Huawei-backed brand enters premium MPV market"
-    },
-    {
-     "title": "BYD teases first flagship MPV for Ocean lineup to expand minivan offerings",
-     "link": "https://cnevpost.com/2026/11/20/byd-teases-first-flagship-mpv-ocean-lineup/",
-     "pubDate": "Fri, 20 Nov 2026 03:33:02 +0000",
-     "summary": "The new model will expand BYD Group's MPV presence across 4 channels: Dynasty, Ocean, Denza, and Linghui. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD teases first flagship MPV for Ocean lineup to expand minivan offerings"
     },
     {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -1569,6 +1569,14 @@
    "total": 5,
    "items": [
     {
+     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+     "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+     "pubDate": "Sun, 22 Nov 2026 00:53:02 +0000",
+     "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says"
+    },
+    {
      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
      "pubDate": "Sat, 21 Nov 2026 17:59:58 -0500",
@@ -1737,14 +1745,6 @@
      "zh": "SBC Medical Group Data Breach Impacts Over 2 Million"
     },
     {
-     "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-     "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-     "pubDate": "Fri, 20 Nov 2026 10:51:42 +0000",
-     "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services"
-    },
-    {
      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
      "pubDate": "Thu, 19 Nov 2026 22:40:03 GMT",
@@ -1784,6 +1784,30 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "越南直播基地搭建，8人团队排班撑不住三班倒，该先扩人还是先砍时段？",
+     "link": "https://www.baijing.cn/question/638880",
+     "pubDate": "Sun, 22 Nov 2026 00:58:02 +0000",
+     "summary": "我们在越南胡志明市自建直播基地，做美妆个护，目前起量阶段，TikTok Shop 越南站单场 GMV 稳定在 8000 万越南盾左右，团队 8 人：2 个越南主播、2 个助播、1 个场控、1 个投流、1 个选品、1 个本地运营。现在最大的问题是排期，本地主播不愿上凌晨场，我们照搬国内三班倒，结果一周内两个主播请假、场控离职，日均开播时长从 12 小时掉到 7 小时，GMV 跟着掉了 30%。已经试过把凌晨场改成录播切片和加钱补贴，主播还是不接。卡在人力模型上：是先招到 15 人再恢复全天候，还是先把时段砍到本地黄金档、把单场投产比做上去？这个取舍你们怎么判断？",
+     "source": "白鲸出海",
+     "zh": "越南直播基地搭建，8人团队排班撑不住三班倒，该先扩人还是先砍时段？"
+    },
+    {
+     "title": "AI硬件火了，歌尔呢？",
+     "link": "https://www.huxiu.com/article/4907438.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 08:57:29 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 这两年，AI眼镜、VR头显、智能穿戴，一个接一个往外冒。你去看科技公司的发布会，感觉消费电子又热闹起来了。 按理说，背后那些造硬件的公司应该挺高兴。产品越多，订单越多，生意不就越好做吗？ 前几天，我翻了翻歌尔股份的三季报，发现事情没这么简单。 这家公司给苹果、Meta等科技巨头做过不少硬件。前三季度，营收682.20亿元，只比去年多了一个亿出头；归母净利润26.19亿元，也就多了三千多万。 这么大一家公司，忙活九个月，收入和利润几乎原地踏步。 另一边，歌尔还在继续花钱。前三季度，买设备、建厂房等长期资产支出65.48亿元，比去年多了五成。 赶上AI",
+     "source": "虎嗅",
+     "zh": "AI硬件火了，歌尔呢？"
+    },
+    {
+     "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
+     "link": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/",
+     "pubDate": "Sun, 22 Nov 2026 00:47:00 +0000",
+     "summary": "Article URL: https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/ Comments URL: https://news.ycombinator.com/item?id=50595122 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it"
+    },
     {
      "title": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面",
      "link": "https://www.tmtpost.com/8213639.html",
@@ -1876,7 +1900,7 @@
      "title": "International UN talks on controlling use of autonomous weapons collapse",
      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
      "pubDate": "Sat, 21 Nov 2026 23:10:21 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 27 # Comments: 3",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 29 # Comments: 3",
      "source": "Hacker News",
      "zh": "International UN talks on controlling use of autonomous weapons collapse"
     },
@@ -1892,7 +1916,7 @@
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 41 # Comments: 3",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 44 # Comments: 3",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -1900,7 +1924,7 @@
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 62 # Comments: 5",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 72 # Comments: 6",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -1916,17 +1940,9 @@
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 20 # Comments: 11",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 22 # Comments: 11",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
-    },
-    {
-     "title": "Pandex – Official European Law for AI Agents, over MCP",
-     "link": "https://www.pandex.io",
-     "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 20 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Pandex – Official European Law for AI Agents, over MCP"
     },
     {
      "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
@@ -2007,22 +2023,6 @@
      "summary": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。他在 Photoshop 中叠加了这些照片，剔除了恒星，只保留卫星运行轨迹所产生的光迹。整个过程耗时约 45 小时，每张照片中大约包含 25 颗左右的卫星。最终呈现的照片包含了约 1400 颗不同卫星留下的 14000 条运行轨迹——这些卫星用途包括了气象监测、互联网通信和导航系统等，它们都拥挤着争夺着有限的空间。",
      "source": "Solidot",
      "zh": "夜空中的人造卫星轨迹"
-    },
-    {
-     "title": "The Outages Are Just Getting Started",
-     "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-     "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
-     "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-     "source": "WIRED",
-     "zh": "The Outages Are Just Getting Started"
-    },
-    {
-     "title": "“Race realism” isn’t realistic—and it isn’t good science",
-     "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
-     "pubDate": "Sat, 21 Nov 2026 12:01:13 +0000",
-     "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
-     "source": "Ars Technica",
-     "zh": "“Race realism” isn’t realistic—and it isn’t good science"
     }
    ]
   },
@@ -2032,6 +2032,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+     "link": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+     "pubDate": "Sun, 22 Nov 2026 01:00:00 +0000",
+     "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
+     "source": "Engadget",
+     "zh": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?"
+    },
+    {
+     "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+     "link": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+     "pubDate": "Sun, 22 Nov 2026 01:00:00 +0000",
+     "summary": "It's not simple to say that one is better than the other.",
+     "source": "Engadget",
+     "zh": "Samsung vs. LG OLED TVs: What's the difference between them?"
+    },
+    {
+     "title": "This is what can happen if too many devices are sharing your home network",
+     "link": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+     "pubDate": "Sun, 22 Nov 2026 00:45:00 +0000",
+     "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
+     "source": "Engadget",
+     "zh": "This is what can happen if too many devices are sharing your home network"
+    },
     {
      "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
      "link": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
@@ -2079,14 +2103,6 @@
      "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
      "source": "Engadget",
      "zh": "Building your own mini PC is harder than you would think"
-    },
-    {
-     "title": "Six products and services Google discontinued in 2026",
-     "link": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
-     "pubDate": "Sat, 21 Nov 2026 23:00:00 +0000",
-     "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
-     "source": "Engadget",
-     "zh": "Six products and services Google discontinued in 2026"
     },
     {
      "title": "iOS 27: My favorite new iPhone features (other than AI)",
@@ -2255,22 +2271,6 @@
      "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
      "source": "DPReview",
      "zh": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired"
-    },
-    {
-     "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
-     "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
-     "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
-     "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
-     "source": "9to5Google",
-     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
-    },
-    {
-     "title": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses",
-     "link": "https://www.androidauthority.com/unihertz-teases-new-titan-2-elite-colorway-3737949/",
-     "pubDate": "Fri, 20 Nov 2026 21:59:26 +0000",
-     "summary": "The Titan 2 Elite will get a new shade later this month.",
-     "source": "Android Authority",
-     "zh": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses"
     }
    ]
   },
@@ -2280,6 +2280,14 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责",
+     "link": "https://wallstreetcn.com/articles/3786440",
+     "pubDate": "Sun, 22 Nov 2026 08:51:05 +0800",
+     "summary": "在不久后的11月24日，富国银行新版《在线访问协议》即将生效。 根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。 即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作负责。 花旗银行也在11月更新了《在线用户协议》。 若客户先将登录凭证交给第三方智能体，凭证随后被转交或泄露，他人使用这些凭证进行的操作，按协议仍将被视为客户授权。 有关智能体误操作和越权的责任条款，也保留了适用法律另有规定的情形。 几乎同",
+     "source": "华尔街见闻",
+     "zh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责"
+    },
     {
      "title": "为鸟而生，斯温侯在中国（上）",
      "link": "http://www.eeo.com.cn/2026/1122/1099527.shtml",
@@ -2351,6 +2359,14 @@
      "summary": "巴林内政部11月21日晚在社交媒体上说，该国一处民用工业设施当天遭伊朗袭击，引发火灾。初步信息显示，袭击造成财产损失，暂无人员伤亡报告。 巴林内政部说，当地民防部门正在采取措施控制火势。（新华社） （文章来源：界面新闻）",
      "source": "东方财富股票",
      "zh": "巴林称一处民用工业设施遭伊朗袭击"
+    },
+    {
+     "title": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心",
+     "link": "http://stock.eastmoney.com/news/1768,202611223936859395.html",
+     "pubDate": "Sun, 22 Nov 2026 05:09:06 +0800",
+     "summary": "本周，美股市场遭遇重挫。道指累计下跌8.02%，标普500指数下跌8.61%，纳指下跌10.02%。 截至周五收盘，三大股指均进入技术性回调区间，纳指抹去2026年以来全部涨幅。标普500指数较10月6日历史高点回落11.6%，同期科技板块跌幅接近24.7%。 经历剧烈抛售后，美股下周将迎来受感恩节假期影响的缩短交易周。 美国10月个人消费支出（PCE）物价指数、第三季度GDP修正值等重磅数据将集中公布，美国也将迎来“黑色星期五”购物高峰。 投资者将重点关注通胀前景，以及美国消费能否为遭受AI板块抛售冲击的股市提供支撑。 AI抛售加剧，市场底部仍难确认 尽管 英伟达 本周交出强劲季报、 Ant",
+     "source": "东方财富资讯",
+     "zh": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2465,6 +2481,14 @@
      "zh": "Navy budget pick has family investments in Trump Jr-linked contractor"
     },
     {
+     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
+     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
+     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
+     "source": "东方财富资讯",
+     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
+    },
+    {
      "title": "Tech outages are fueling a new doomsday economy",
      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
      "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
@@ -2489,36 +2513,12 @@
      "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
-     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
-     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-     "source": "CNBC",
-     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
-    },
-    {
-     "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
-     "link": "https://wallstreetcn.com/articles/3786438",
-     "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
-     "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
-     "source": "华尔街见闻",
-     "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
-    },
-    {
-     "title": "特朗普想要“1月初之前”结束俄乌战争",
-     "link": "https://wallstreetcn.com/articles/3786435",
-     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
-     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
-     "source": "华尔街见闻",
-     "zh": "特朗普想要“1月初之前”结束俄乌战争"
-    },
-    {
-     "title": "“脱欧”十年之后，英国又要“入欧”？",
-     "link": "https://wallstreetcn.com/articles/3786433",
-     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
-     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
-     "source": "华尔街见闻",
-     "zh": "“脱欧”十年之后，英国又要“入欧”？"
+     "title": "11月21日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611213936842018.html",
+     "pubDate": "Sat, 21 Nov 2026 20:27:37 +0800",
+     "summary": "今日摘要 1、习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在总书记的引领推动下，我国老龄工作取得显著成效，养老事业和养老产业协同发展，托举起亿万老年人的幸福“夕阳红”。 2、李强同澳大利亚总理共同出席第九届中澳工商界首席执行官圆桌会。 3、《新闻联播》推出系列报道《权威访谈》，深入解读党的二十届五中全会精神。 4、10月份，我国规模以上高技术制造业增加值同比增长超17%，创近五年来最高增速。 5、国际人士高度评价习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话。 6、国际人士表示，中俄美",
+     "source": "东方财富资讯",
+     "zh": "11月21日晚间央视新闻联播要闻集锦"
     }
    ]
   },

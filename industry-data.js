@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 15:34:33",
+ "generated_at": "2026/11/22 15:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -72,30 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
-     "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -226,28 +202,52 @@ window.INDUSTRY_DATA = {
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
      "source": "KDnuggets",
      "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
+    },
+    {
+     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+     "pubDate": "Fri, 20 Nov 2026 14:44:52 +0000",
+     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
+    },
+    {
+     "title": "Decision AI Explained in 5 Minutes",
+     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
+     "source": "KDnuggets",
+     "zh": "Decision AI Explained in 5 Minutes"
+    },
+    {
+     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+     "link": "https://zhidx.com/p/612799.html",
+     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
+     "source": "智东西",
+     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "source": "OpenAI",
+     "zh": "Combatting adversarial distillation"
+    },
+    {
+     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
+     "source": "机器之心",
+     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
     }
    ]
   },
@@ -1410,6 +1410,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1778,6 +1786,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
+     "link": "https://www.baijing.cn/question/638897",
+     "pubDate": "Sun, 22 Nov 2026 07:39:57 +0000",
+     "summary": "我们做非洲独立站，尼日利亚市场月 GMV 大概 8 万美元，团队 6 个人，去年 Q4 起接入 Paystack 收奈拉，原本 T+7 结算，最近两个月实际到账周期拉到 18-21 天，客服说跟银行清算和风控复核有关。同时拉各斯本地配送用第三方物流，妥投平均 5.5 天，COD 拒收率 22%，现金流被两头挤。试过把部分订单切到 Flutterwave 对比，费率略高但时效没稳定下来；也试过预付折扣引导，转化只涨了 3 个点。现在卡在到底是先换支付通道压回款，还是先改履约结构降拒收，这两件事预算只够动一个。按尼日利亚当前实际情况，判断优先级该看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？"
+    },
+    {
      "title": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？",
      "link": "https://www.baijing.cn/question/638896",
      "pubDate": "Sun, 22 Nov 2026 07:22:51 +0000",
@@ -1834,6 +1850,22 @@ window.INDUSTRY_DATA = {
      "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
     },
     {
+     "title": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚",
+     "link": "https://www.ithome.com/1/030/586.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:04:31 GMT",
+     "summary": "IT之家 11 月 22 日消息，Rockstar 新作《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）因暴力、粗俗语言以及部分裸露内容，被评为成人级游戏。随着游戏正式推出，玩家开始发现，分享包含成人内容的游戏截图和视频也可能带来账号处罚。 IT之家注意到，一名 Xbox 用户因上传了一段海滩场景视频，画面中出现了穿着暴露的游客，结果账号被暂停使用 48 小时。与此同时，一名 PS5 玩家因为拍摄游戏内裸体主义者营地的照片，遭到了更长时间的处罚。 海滩场景也可能触发封号 Xbox Network 默认会自动将玩家录制的游戏视频分享给好友。Reddit 用户 s",
+     "source": "IT之家",
+     "zh": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚"
+    },
+    {
+     "title": "The Engineering Manager's role is under attack (again)",
+     "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+     "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Engineering Manager's role is under attack (again)"
+    },
+    {
      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
      "link": "https://www.techmeme.com/261122/p5#a261122p5",
      "pubDate": "Sun, 22 Nov 2026 02:00:41 -0500",
@@ -1848,6 +1880,14 @@ window.INDUSTRY_DATA = {
      "summary": "我们一款中度SLG去年底在巴西上线，目前DAU约1.8万，Pix占付费笔数六成以上。团队一共4个人：1个运营、1个投放、1个后端兼支付、1个客服，墨西哥和智利版本下季度要开。现在的问题是Pix即时到账的订单和游戏内发货回调经常对不上，每天约2%的订单要人工核，财务对账靠导CSV手工比，一个人一天要花3小时。已试过接第三方聚合支付和加webhook重试，但巴西本地银行的回执延迟波动大，卡在没人手做异常订单的自动归集规则。想请教：在4人编制、每月还要分人力铺西语区新版本的前提下，Pix对账这块应该先自建规则引擎，还是换聚合商并接受更高费率？",
      "source": "白鲸出海",
      "zh": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？"
+    },
+    {
+     "title": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火",
+     "link": "https://www.ithome.com/1/030/584.htm",
+     "pubDate": "Sun, 22 Nov 2026 06:55:33 GMT",
+     "summary": "IT之家 11 月 22 日消息，综合外媒 electrek 报道，电动汽车终于在《GTA 6》中成为主流交通工具之一，游戏中的罪恶城街头随处可见电动汽车和充电站。 游戏最初将玩家带到岛礁地区（Keys），这是游戏中莱奥尼达州（Leonida）相对落后的区域。当地街道上主要是老旧汽车和廉价二手车，电动汽车并不常见。 不过，随着玩家启程前往市区，街头车辆开始发生变化。越接近城市中心，出现的电动汽车就越多，沿途也能看到越来越多的充电站。进入城市后，电动汽车已经随处可见，成为与燃油车无异的普通交通工具。 《GTA 6》也是 GTA 系列首款真正将能源补给机制纳入核心游戏体验的正统作品。燃油车需要消耗",
+     "source": "IT之家",
+     "zh": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火"
     },
     {
      "title": "美妆内卷是句号，不是问号",
@@ -1869,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -1981,25 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: The Riemann Proof Handbook",
      "link": "https://github.com/tamnd/riemann-handbook",
      "pubDate": "Sun, 22 Nov 2026 05:46:30 +0000",
-     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 11 # Comments: 3",
+     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 18 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: The Riemann Proof Handbook"
-    },
-    {
-     "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261122/p1#a261122p1",
-     "pubDate": "Sun, 22 Nov 2026 00:45:01 -0500",
-     "summary": "Stu Woo / Wall Street Journal : Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China &nbsp; &mdash;&nbsp; Defendant in case involving chip smuggling worked with Jensen Huang's romantic partner&nbs",
-     "source": "Techmeme",
-     "zh": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)"
-    },
-    {
-     "title": "巴西独立站接Pix，三个人团队排期该怎么排？",
-     "link": "https://www.baijing.cn/question/638892",
-     "pubDate": "Sun, 22 Nov 2026 05:43:18 +0000",
-     "summary": "我们做巴西独立站快消品，刚起量阶段，月GMV大概8万雷亚尔，团队一共3个人，其中1个兼职负责支付和财务。上个月接Pix时先用了第三方聚合的checkout，结果Pix付款确认平均要等40多秒，弃单率比信用卡高出一截，大概28%。现在想换成直连巴西本地收单行的Pix接口，但技术只有1个后端，手上还压着墨西哥站的上线排期。试过让聚合服务商调回调频率，对方说做不到。卡在直连需要对接银行API文档和测试环境，不知道这活一个人要排多久、值不值得为Pix单独插队。按你们经验，这种人力下该先优化现有Pix链路还是直接换直连？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接Pix，三个人团队排期该怎么排？"
     }
    ]
   },
@@ -2009,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon UK Black Friday Week: best tablet deals UK edition",
+     "link": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php",
+     "pubDate": "Sun, 22 Nov 2026 08:39:02 +0100",
+     "summary": "This year’s Black Friday deals are already underway for Amazon Prime subscribers, and we’re now bringing you some hand-picked tablet deals. As usual with these offers, you’ll need an active Prime membership, and there’s limited stock. The deals will be live until November 30, aka Cyber Monday. Samsu",
+     "source": "GSMArena",
+     "zh": "Amazon UK Black Friday Week: best tablet deals UK edition"
+    },
     {
      "title": "Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer",
      "link": "https://www.gsmarena.com/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563.php",
@@ -2162,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
     },
     {
-     "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
-     "link": "https://www.gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php",
-     "pubDate": "Sat, 21 Nov 2026 15:04:03 +0100",
-     "summary": "Earlier this month, the iPhone Air 2 and the standard iPhone 18 showed up as dummy units on Weibo. Now, another set of alleged dummies has surfaced on X, giving us a closer look at the design of both phones. The biggest change is once again the iPhone Air 2, which has two cameras side by side in its",
-     "source": "GSMArena",
-     "zh": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak"
-    },
-    {
      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
      "link": "https://9to5mac.com/2026/11/21/apple-work/",
      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
@@ -2258,52 +2282,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "【调研快报】云南能投接待万联证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611223936894966.html",
+     "pubDate": "Sun, 22 Nov 2026 15:46:03 +0800",
+     "summary": "云南能投 11月22日公告称， 11月20日 接待万联证券 调研。 接待人员包括董事会秘书 秦媛,证券事务代表 刘益汉。 公司就以下问题进行了回复： 一、参观昆明盐矿生产线、车间及展厅 二、交流问答 1.公司 新能源 板块的产业规划? 答:公司锚定绿色能源发展战略,紧抓战略机遇,聚焦风电、光伏等绿色能源的投资、开发、建设和运营管理,与此同时,积极拓展新型储能等 新能源 新赛道,坚定不移做强做优做大绿色能源核心主业。截至目前,公司已投产发... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关",
+     "source": "东方财富股票",
+     "zh": "【调研快报】云南能投接待万联证券调研"
+    },
+    {
+     "title": "内塔尼亚胡阵营提出联合组阁条件",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936894690.html",
+     "pubDate": "Sun, 22 Nov 2026 15:42:54 +0800",
+     "summary": "据《以色列时报》11月21日报道，以色列看守政府总理内塔尼亚胡领导的利库德集团发布声明，就与正直党领导人埃森科特领导的反对派阵营组建联合政府提出多项条件，包括反对建立巴勒斯坦国，维持以色列在加沙地带、黎巴嫩和叙利亚设立的所谓“安全区”，承认以色列为“犹太民族国家”等。声明还要求反对派阵营结束针对内塔尼亚胡及其领导的政府和相关阵营的人身攻击和政治抵制等。此前，获总统授权组建新政府的埃森科特指示谈判团队，邀请利库德集团代表自22日起举行组阁谈判，力争推动组建联合政府。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "内塔尼亚胡阵营提出联合组阁条件"
+    },
+    {
+     "title": "浙富控股披露2026年中期利润分配预案 拟10派0.4元",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936894861.html",
+     "pubDate": "Sun, 22 Nov 2026 15:42:13 +0800",
+     "summary": "浙富控股 11月22日公告，公司2026年中期利润分配预案为：以截至本利润分配预案披露日可参与分配的公司股本51.65亿股为基数，向全体股东每10股派发现金红利0.4元（含税），不送红股，不以资本公积金转增股本。根据公司2026年第三季度报告，2026年前三季度实现归属于上市公司股东的净利润16.62亿元。该议案已获董事会审议通过，尚需提交2026年第三次临时股东会审议。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "浙富控股披露2026年中期利润分配预案 拟10派0.4元"
+    },
+    {
+     "title": "逸飞激光：收到湖北证监局警示函",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936895792.html",
+     "pubDate": "Sun, 22 Nov 2026 15:42:08 +0800",
+     "summary": "逸飞激光 (688646.SH)公告称，公司收到湖北证监局警示函，因存在募集资金违规使用、定期报告披露不准确、关联方及关联交易披露不及时等问题。其中，公司违规将2800万元募投资金出借给7家公司，2023年度多计收入2634.51万元、多计利润431.5万元，且未及时披露与河南传众的关联关系及关联交易。公司及相关责任人吴轩、王树、曹卫斌被采取出具警示函的行政监管措施。公司表示已全面完成整改。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "逸飞激光：收到湖北证监局警示函"
+    },
+    {
+     "title": "【调研快报】唐人神接待东方财富等9家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611223936894589.html",
+     "pubDate": "Sun, 22 Nov 2026 15:42:03 +0800",
+     "summary": "唐人神 11月21日公告称， 11月19日 接待 东方财富 等9家机构 调研。 接待人员包括证券资本部总经理 徐岩,证券资本部投资者关系管理专干 董小雪。 公司就以下问题进行了回复： Q:在生猪行情持续低迷的情况下,公司有哪些应对措施? A:公司积极采取措施应对本轮猪周期底部,一是,公司三大业务保持稳定发展,充分发挥 饲料 产业周转速度快、现金流好等产业优势,公司母公司以 饲料 生产销售为主,母公司及下属 饲料 子公司具备良好的融资条件,可为公司其它产业提供现金流支持。2026 年 1-9 ... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
+     "source": "东方财富股票",
+     "zh": "【调研快报】唐人神接待东方财富等9家机构调研"
+    },
+    {
+     "title": "兰剑智能：签订2.84亿元化成分容物流线设备合同",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936895460.html",
+     "pubDate": "Sun, 22 Nov 2026 15:41:40 +0800",
+     "summary": "兰剑智能 (688557.SH)公告称，公司近日与武汉楚能 新能源 签订日常经营重大合同，合同金额为2.84亿元(含税)，标的为化成分容 物流 线设备。合同自双方签字盖章后生效，履行期限以正式邮件通知为准。本次交易属于公司日常经营活动相关合同，若顺利履行，预计将对公司2027年度业绩产生积极影响，且不影响公司经营的独立性。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "兰剑智能：签订2.84亿元化成分容物流线设备合同"
+    },
+    {
+     "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
+     "link": "https://wallstreetcn.com/articles/3786449",
+     "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
+     "summary": "国际金价单周重挫约10%，与暴跌的科技股同步遭抛售——当AI交易退潮触发跨资产追加保证金（Margin Calls），传统的避险资产正沦为市场筹集现金的“提款机”。 11月17日至20日的四个交易日内，金价急跌9%，自2025年9月以来首次失守3600美元/盎司关口；据摩根大通周五早报，现货金价报3588美元/盎司。白银跌势更为剧烈，全周重挫15%。 这场贵金属抛售与美股动荡高度重合。11月20日（周五），受Anthropic首次公开募股（IPO）后的市场余波拖累，纳斯达克100指数盘中大跌4.9%。 高盛交易台与瑞银全球研究最新报告均显示，抛压高度集中在黄金期货市场；高盛进一步指出，期权市场",
+     "source": "华尔街见闻",
+     "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
+    },
+    {
      "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
      "link": "http://finance.eastmoney.com/news/1344,202611223936892566.html",
      "pubDate": "Sun, 22 Nov 2026 15:25:34 +0800",
      "summary": "日前， 特斯拉 CEO、 SpaceX 创始人兼CEO马斯克在社交媒体上表示， 人工智能 行业明年可能面临严重的资金短缺。 据中新经纬，11月22日，知名深度学习领域开源项目Keras创始人弗朗索瓦·肖莱（Franois Chollet）在社交平台上表示，要么你认为AI基础设施建设已经结束，AI只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU现货价格仍在上涨，算力难以锁定，HBM和DRAM到2029年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到2030年。此外，AI研究并没有放缓：前沿模型的训练算力约每5个月翻一番，模型能力提升速",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺"
-    },
-    {
-     "title": "浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936891841.html",
-     "pubDate": "Sun, 22 Nov 2026 15:20:14 +0800",
-     "summary": "1.本周（2026-11-16至2026-11-20）行情概况 （1）主要指数： 本周市场明显调整，主要宽基指数多数收跌。 （2）板块观察： 金融红利显防御力，科技成长全面调整。 （3）市场情绪： 两市成交额明显下降，股指 期货 大多贴水。 （4）资金流向： 融资买入占比下降，股票型ETF规模增加。 （5）量化“黑科技”： 主要指数估值中等，创业板指估值水位较低。 2.本周行情归因 （1） 美联储公布10月货币政策会议纪要，鹰派观点压制市场风险偏好； （2） Anthropic 公司上市，对市场流动性造成冲击。 3.下周行情展望 经过本周下跌后，除上证50、科创50外的多数指数都出现不同程度的",
-     "source": "东方财富股票",
-     "zh": "浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生"
-    },
-    {
-     "title": "万辰集团拟6.6亿元收购南京万昌49%股权，交易对方承诺不低于5.94亿元买入上市公司股票",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892250.html",
-     "pubDate": "Sun, 22 Nov 2026 15:19:57 +0800",
-     "summary": "11月20日晚间， 万辰集团 （300972）公告称，公司拟斥资6.6亿元购买南京万昌商业管理有限公司（以下简称“南京万昌”或“标的公司”）49%股权。值得注意的是，根据协议，交易对方承诺，收款后将在30日内拿出不低于90%的资金（即5.94亿元）购买前者股票。 公告介绍，公司于2026年11月6日与南昌茂义企业管理合伙企业（有限合伙）（以下简称“南昌茂义”）、南昌盛景企业管理合伙企业（有限合伙）（以下简称“南昌盛景”）、毛颖辉、毛丽军签订《股权收购意向协议》，拟购买南昌茂义持有的南京万昌39%股权和南昌盛景持有的南京万昌10%股权，合计购买南京万昌49%股权（以下简称“本次交易”）。2026",
-     "source": "东方财富股票",
-     "zh": "万辰集团拟6.6亿元收购南京万昌49%股权，交易对方承诺不低于5.94亿元买入上市公司股票"
-    },
-    {
-     "title": "阿富汗首都发生枪战 警方称打死3名武装分子",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936892196.html",
-     "pubDate": "Sun, 22 Nov 2026 15:19:04 +0800",
-     "summary": "雷克萨斯中国宣布，ES纯电版正式上市，全系标配 宁德时代 三元 锂 离子电芯，ES 350e长续航版 综合 工况续航707公里，售价33.99万元起；ES 500e高性能版零百加速5.5秒，售价35.99万元起。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "阿富汗首都发生枪战 警方称打死3名武装分子"
-    },
-    {
-     "title": "菜百股份提示贵金属市场波动风险",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892359.html",
-     "pubDate": "Sun, 22 Nov 2026 15:18:05 +0800",
-     "summary": "近期受多重因素影响， 贵金属 价格波动显著加剧。 菜百股份 11月22日发布提示，请顾客树立理性稳健的配置理念，客观认知 贵金属 市场运行规律，高度重视市场价格波动风险，增强风险防范意识，理性投资，合理规划资产配置。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "菜百股份提示贵金属市场波动风险"
-    },
-    {
-     "title": "又有券商资管总经理，官宣离任",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892035.html",
-     "pubDate": "Sun, 22 Nov 2026 15:17:09 +0800",
-     "summary": "【导读】国联证券资管总经理贺巍离任，副总经理覃高代为履职 又有券商资管总经理，官宣离任！ 11月21日，国联证券资管发布高级管理人员变更公告。公告显示，国联证券资管总经理贺巍因工作职务调整离职，由副总经理覃高代为履行总经理职责。 公开信息显示，贺巍出生于1983年，从建银投资交易员起步，先后在 中信证券 资产管理 部负责固收投资、创新投资和另类投资；在 中信证券 任职期间，曾管理客户资产规模达千亿元。 2019年，贺巍加盟国联证券 资产管理 部，在任期内带领团队成功完成资管子公司的成立。2023年，贺巍担任国联证券资管总经理。今年8月，在原董事长葛小波离任后，贺巍接任国联证券资管董事长、法定代",
-     "source": "东方财富股票",
-     "zh": "又有券商资管总经理，官宣离任"
     },
     {
      "title": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为",
@@ -2464,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "吴泳铭预计，下一财年，阿里云收入增速预计落在30%至45%区间；到2028自然年，云收入增速将重回50%以上。",
      "source": "经济观察网",
      "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sun, 22 Nov 2026 09:39:45 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
      "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",

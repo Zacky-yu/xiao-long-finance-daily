@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 00:52:12",
+ "generated_at": "2026/11/23 01:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+     "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+     "pubDate": "Sun, 22 Nov 2026 17:06:00 +0000",
+     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+     "source": "TechCrunch Transport",
+     "zh": "TechCrunch Mobility: A/B testing robots vs. humans"
+    },
+    {
      "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
      "link": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
      "pubDate": "Sun, 22 Nov 2026 14:22:49 +0000",
@@ -847,14 +855,6 @@
      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
      "source": "TechCrunch Transport",
      "zh": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
-    },
-    {
-     "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-     "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-     "pubDate": "Mon, 16 Nov 2026 18:21:14 +0000",
-     "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
-     "source": "TechCrunch Transport",
-     "zh": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion"
     }
    ]
   },
@@ -864,6 +864,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
+     "link": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
+     "pubDate": "Sun, 22 Nov 2026 17:03:31 +0000",
+     "summary": "NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities. For property owners, insurance provides a critical financial safety net that protects homes, businesses, and other assets from unex",
+     "source": "CleanTechnica",
+     "zh": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions"
+    },
     {
      "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
      "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
@@ -951,14 +959,6 @@
      "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
      "source": "CleanTechnica",
      "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
-    },
-    {
-     "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
-     "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
-     "pubDate": "Sat, 21 Nov 2026 14:27:15 +0000",
-     "summary": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents. I went to the RE+ in Las Vegas to meet with leaders from Jackery",
-     "source": "CleanTechnica",
-     "zh": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP"
     },
     {
      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
@@ -1777,6 +1777,14 @@
    "total": 18,
    "items": [
     {
+     "title": "递归自我改进：AI 已经走到了哪一步？",
+     "link": "https://www.huxiu.com/article/4907560.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 00:59:12 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 从Agent自我进化、模型权重重写，到AI研发体系与软硬件协同进化 全文2万字，RSI技术版图，截至2026年11月21日 -- 引言：AI自我改进，已经推进到了什么程度？ 一类研究开始让Agent修改自己的代码、工具、记忆和执行流程，并将有效改动保留到下一轮任务中。另一类研究则进一步触及模型本身：模型不再只是提出修改建议，而是尝试直接编辑自身的权重参数。与此同时，领先AI实验室开始让模型承担更多研发工作，从代码编写、实验监控延伸到训练流程和基础设施开发。AI甚至已经进入芯片设计和物理实验环节，参与改进支撑自身运行的计算系统。 这些进展分",
+     "source": "虎嗅",
+     "zh": "递归自我改进：AI 已经走到了哪一步？"
+    },
+    {
      "title": "巴西的消费市场，有多少是靠信贷撑起来的？",
      "link": "https://www.huxiu.com/article/4907558.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 00:18:58 +0800",
@@ -1809,20 +1817,28 @@
      "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
     },
     {
-     "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
-     "link": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
-     "pubDate": "Sun, 22 Nov 2026 15:54:24 +0000",
-     "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps Comments URL: https://news.ycombinator.com/item?id=50600789 Points: 35 # Comments: 27",
+     "title": "Ask HN: Are the trades a safe career transition?",
+     "link": "https://news.ycombinator.com/item?id=50600771",
+     "pubDate": "Sun, 22 Nov 2026 15:52:33 +0000",
+     "summary": "I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged I need a few decades of at least mild security to get to retirement... Are the trades safe? Im worried about homeowners and companies en",
      "source": "Hacker News",
-     "zh": "Norway to extend proposed under-16 social media ban to games and messaging apps"
+     "zh": "Ask HN: Are the trades a safe career transition?"
     },
     {
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 29 # Comments: 8",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 54 # Comments: 15",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
+    },
+    {
+     "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+     "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+     "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
+     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "I joined the NTP Pool, but not with my Stratum 1 Pi"
     },
     {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
@@ -1836,7 +1852,7 @@
      "title": "Open Social Web Alliance",
      "link": "https://osw-alliance.net/en/",
      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 50 # Comments: 27",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 83 # Comments: 64",
      "source": "Hacker News",
      "zh": "Open Social Web Alliance"
     },
@@ -1844,7 +1860,7 @@
      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
      "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
-     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 30 # Comments: 10",
      "source": "Hacker News",
      "zh": "Backblaze customers worried of personal data sale/sharing after policy update"
     },
@@ -1948,17 +1964,9 @@
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 100 # Comments: 21",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 116 # Comments: 28",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
-    },
-    {
-     "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
-     "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-     "pubDate": "Sun, 22 Nov 2026 13:37:10 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 68 # Comments: 57",
-     "source": "Hacker News",
-     "zh": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels"
     },
     {
      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
@@ -2007,14 +2015,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
-    },
-    {
-     "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
-     "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-     "pubDate": "Sun, 22 Nov 2026 11:02:00 +0000",
-     "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-     "source": "WIRED",
-     "zh": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More"
     }
    ]
   },
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's how to properly test your USB speed",
+     "link": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
+     "pubDate": "Sun, 22 Nov 2026 16:45:00 +0000",
+     "summary": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
+     "source": "Engadget",
+     "zh": "Here's how to properly test your USB speed"
+    },
     {
      "title": "Fixing this annoying One UI feature is easy, but there's a catch",
      "link": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
@@ -2079,14 +2087,6 @@
      "summary": "Ulefone introduced the Armor 35 Pro in September at IFA without revealing its pricing and availability. We now know from a reliable source that it will go on sale on December 7 for $429.99 in Mecha Black. The Ulefone Armor 35 Pro is the successor to the Armor 34 Pro, announced last March with a buil",
      "source": "GSMArena",
      "zh": "Ulefone Armor 35 Pro with a 1.2 km laser rangefinder and 11,000 mAh battery goes on sale next month for $430"
-    },
-    {
-     "title": "4 iPad Pro alternatives for those looking to ditch Apple",
-     "link": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple/",
-     "pubDate": "Sun, 22 Nov 2026 15:15:00 +0000",
-     "summary": "There's really nothing quite like the iPad Pro out there, but these alternatives show that you can still get great tablets from companies other than Apple.",
-     "source": "Engadget",
-     "zh": "4 iPad Pro alternatives for those looking to ditch Apple"
     },
     {
      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
@@ -2273,6 +2273,22 @@
    "total": 13,
    "items": [
     {
+     "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 17:00:00 GMT",
+     "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?"
+    },
+    {
+     "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
+     "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+     "pubDate": "Sun, 22 Nov 2026 16:53:20 GMT",
+     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+     "source": "CNBC",
+     "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
+    },
+    {
      "title": "Delta flights delayed due to automated system issue",
      "link": "https://seekingalpha.com/news/4675410-delta-flights-delayed-due-to-automated-system-issue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 11:44:32 -0500",
@@ -2281,60 +2297,52 @@
      "zh": "Delta flights delayed due to automated system issue"
     },
     {
-     "title": "美国五角大楼认为加拿大国防开支偏低",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991684.html",
-     "pubDate": "Mon, 23 Nov 2026 00:43:35 +0800",
-     "summary": "美国五角大楼认为加拿大国防开支偏低。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国五角大楼认为加拿大国防开支偏低"
+     "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
+     "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 16:43:09 GMT",
+     "summary": "£43bn group set to announce intention to move as soon as Tuesday",
+     "source": "Financial Times",
+     "zh": "FTSE 100 catering giant Compass plans to move main listing to New York"
     },
     {
-     "title": "美国五角大楼发布关于加拿大国防战备情况的简报 指责加拿大未能成为可靠的合作伙伴",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991536.html",
-     "pubDate": "Mon, 23 Nov 2026 00:43:01 +0800",
-     "summary": "美国五角大楼发布关于加拿大国防战备情况的简报，指责加拿大未能成为可靠的合作伙伴。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国五角大楼发布关于加拿大国防战备情况的简报 指责加拿大未能成为可靠的合作伙伴"
+     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:32:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     },
     {
-     "title": "贝森特警告美联储过度紧缩风险 指出金融体系出现脆弱迹象",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991345.html",
-     "pubDate": "Mon, 23 Nov 2026 00:40:48 +0800",
-     "summary": "美国财政部长贝森特警告称，美联储若针对最新通胀数据而过度收紧政策，则可能危及美国经济，并指出金融体系出现脆弱迹象。“许多人认为，如果他们过度收紧政策，可能会犯下政策错误，”贝森特周日在接受采访时表示，并提到美联储理事们最近几周发表了一系列鹰派言论。“过去几个月，我们看到金融环境大幅收紧，”他说。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "贝森特警告美联储过度紧缩风险 指出金融体系出现脆弱迹象"
+     "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+     "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:18:00 GMT",
+     "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+     "source": "MarketWatch",
+     "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
     },
     {
-     "title": "微软计划将伦敦办公室迁至新大楼",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991461.html",
-     "pubDate": "Mon, 23 Nov 2026 00:39:35 +0800",
-     "summary": "微软 计划将伦敦办公室迁至新大楼。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "微软计划将伦敦办公室迁至新大楼"
+     "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+     "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:15:00 GMT",
+     "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+     "source": "MarketWatch",
+     "zh": "‘Never too late to start’: Practical investing advice from some of the top women in finance"
     },
     {
-     "title": "联合海上信息中心：过去72小时内 在美国协助下 霍尔木兹海峡完成114次通行作业",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991269.html",
-     "pubDate": "Mon, 23 Nov 2026 00:37:38 +0800",
-     "summary": "联合海上信息中心：过去72小时内，在美国协助下，霍尔木兹海峡完成114次通行作业。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "联合海上信息中心：过去72小时内 在美国协助下 霍尔木兹海峡完成114次通行作业"
+     "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+     "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:10:00 GMT",
+     "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+     "source": "MarketWatch",
+     "zh": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
     },
     {
-     "title": "也门胡塞武装：袭击了沙特阿拉伯红海西海岸的拉比格炼油厂",
-     "link": "http://finance.eastmoney.com/news/1351,202611233936991185.html",
-     "pubDate": "Mon, 23 Nov 2026 00:37:16 +0800",
-     "summary": "也门胡塞武装：袭击了沙特阿拉伯红海西海岸的拉比格炼油厂。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装：袭击了沙特阿拉伯红海西海岸的拉比格炼油厂"
-    },
-    {
-     "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
-     "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-     "pubDate": "Sun, 22 Nov 2026 16:18:09 GMT",
-     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-     "source": "CNBC",
-     "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
+     "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+     "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:04:00 GMT",
+     "summary": "This one, simple, low-pain tax solves all the problems.",
+     "source": "MarketWatch",
+     "zh": "America is definitely rich enough to fix Social Security and Medicare. Here’s how."
     },
     {
      "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",
@@ -2503,14 +2511,6 @@
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
-    },
-    {
-     "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
-     "link": "https://wallstreetcn.com/articles/3786451",
-     "pubDate": "Sun, 22 Nov 2026 14:04:47 +0800",
-     "summary": "高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。 这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。 喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生",
-     "source": "华尔街见闻",
-     "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 22:32:01",
+ "generated_at": "2026/11/22 22:51:52",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/boston-dynamics-gives-atlas-wheels-to-test-new-reinforcement-learning-capabilities/107438/",
+     "pubDate": "Sun, 22 Nov 2026 14:45:10 +0000",
+     "summary": "Boston Dynamics has released a new video showing its Atlas humanoid robot performing a series of unusual maneuvers, including rolling on wheels, sliding sideways and executing a 360-degree jump. The demonstration is part of a research project exploring how reinforcement learning can improve robot mo",
+     "source": "Robotics & Automation",
+     "zh": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities"
+    },
+    {
+     "title": "Machina Labs launches Rebellis automotive brand to bring vehicle customization to scale",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/machina-labs-launches-rebellis-automotive-brand-to-bring-vehicle-customization-to-scale/107433/",
+     "pubDate": "Sun, 22 Nov 2026 14:37:22 +0000",
+     "summary": "Machina Labs, a specialist in AI-powered robotic manufacturing, has launched Machina Rebellis, a new automotive brand designed to make customized vehicle production faster and more economical. Unveiled at the company’s manufacturing facility in Chatsworth, California, Machina Rebellis uses robotics,",
+     "source": "Robotics & Automation",
+     "zh": "Machina Labs launches Rebellis automotive brand to bring vehicle customization to scale"
+    },
+    {
      "title": "Runway releases Praxis-1 open-weight world action model for robotics",
      "link": "https://roboticsandautomationnews.com/2026/11/22/runway-releases-praxis-1-open-weight-world-action-model-for-robotics/107430/",
      "pubDate": "Sun, 22 Nov 2026 14:03:02 +0000",
@@ -551,22 +567,6 @@
      "summary": "ABB, together with its open innovation platform SynerLeap, has announced Wasome as the winner of the ABB Startup Challenge China 2026, the solution will make automation engineering faster, simpler and more accessible. Hosted for the first time in China, the challenge is now in its seventh year. ABB ",
      "source": "Robotics & Automation",
      "zh": "ABB names Wasome winner of China startup challenge for AI automation solution"
-    },
-    {
-     "title": "Watco expands Intramotev autonomous railcar operations to Texas",
-     "link": "https://roboticsandautomationnews.com/2026/11/20/watco-expands-intramotev-autonomous-railcar-operations-to-texas/107409/",
-     "pubDate": "Fri, 20 Nov 2026 20:45:00 +0000",
-     "summary": "Intramotev, the technology company building autonomous freight railcars, has announced a new agreement with Watco, one of the largest short line railroad holding companies in North America. Watco will deploy Intramotev’s TugVolt technology at a second site in Seadrift, Texas, building on the compani",
-     "source": "Robotics & Automation",
-     "zh": "Watco expands Intramotev autonomous railcar operations to Texas"
-    },
-    {
-     "title": "Algorithmic Scrutiny on Social Platforms: Evaluating TikTok Profile Expansion and Bot Detection",
-     "link": "https://roboticsandautomationnews.com/2026/11/20/algorithmic-scrutiny-on-social-platforms-evaluating-tiktok-profile-expansion-and-bot-detection/107406/",
-     "pubDate": "Fri, 20 Nov 2026 18:54:22 +0000",
-     "summary": "Social media platforms deploy incredibly sophisticated machine learning models to monitor account activity in 2026. TikTok’s moderation infrastructure relies heavily on pattern recognition to separate genuine human interaction from automated scripts. For everyday users looking to build a personal co",
-     "source": "Robotics & Automation",
-     "zh": "Algorithmic Scrutiny on Social Platforms: Evaluating TikTok Profile Expansion and Bot Detection"
     },
     {
      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+     "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+     "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+     "summary": "\"What’s not to love? It's bulletproof!\"",
+     "source": "Space.com",
+     "zh": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)"
+    },
+    {
      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
      "link": "https://www.space.com/on-this-day-in-space-november-22-2026",
      "pubDate": "Sun, 22 Nov 2026 14:18:35 +0000",
@@ -1367,14 +1375,6 @@
      "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
      "source": "Space.com",
      "zh": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure"
-    },
-    {
-     "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
-     "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
-     "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
-     "source": "Space.com",
-     "zh": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says"
     },
     {
      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
@@ -1449,12 +1449,12 @@
      "zh": "European Hardware Takes Center Stage at Space Tech Expo"
     },
     {
-     "title": "SpaceX launches classified payload for the U.S. Space Force",
+     "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
      "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
      "pubDate": "Thu, 19 Nov 2026 23:51:47 +0000",
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
-     "zh": "SpaceX launches classified payload for the U.S. Space Force"
+     "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
     },
     {
      "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
@@ -1777,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "足球之后，F1再现耐克阿迪彪马三国杀",
+     "link": "https://www.huxiu.com/article/4907545.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 22:24:27 +0800",
+     "summary": "本文来自微信公众号： 懒熊体育 ，作者：王浩颖 王闪，原文标题：《足球之后，F1再现耐克阿迪彪马三国杀 | BrandBeat》 时隔24年，耐克重新回到了F1围场。 11月20日，耐克与F1正式宣布达成长期全球合作伙伴关系。自2027赛季起，耐克将成为F1官方合作伙伴，并担任赛事官方服装与制服供应商，为全球各站赛事的F1工作人员提供官方服饰及制服。此外，双方还将陆续推出涵盖鞋履、服饰及配饰的全新运动生活方式系列。首个合作产品系列Nike x拉斯维加斯大奖赛限定胶囊系列，已于本周末的F1拉斯维加斯大奖赛期间亮相。除了产品发布，双方还将共同开发全新的大奖赛周末体验活动，为车迷提供更多参与和感受这",
+     "source": "虎嗅",
+     "zh": "足球之后，F1再现耐克阿迪彪马三国杀"
+    },
+    {
+     "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+     "link": "https://www.ithome.com/1/030/715.htm",
+     "pubDate": "Sun, 22 Nov 2026 14:24:17 GMT",
+     "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需租金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY",
+     "source": "IT之家",
+     "zh": "Oracle：已确保履行与 OpenAI 合同全部所需资金"
+    },
+    {
      "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
      "link": "https://www.ithome.com/1/030/714.htm",
      "pubDate": "Sun, 22 Nov 2026 14:19:27 GMT",
@@ -1815,6 +1831,14 @@
      "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。 此类交易通常在交付前很早就已达成协议 。 然而据知情人士透露，数月后，当设备准备交付时， 这些科技公司要求的价格远高于最初商定的金额 。 在人工智能设备供不应求的当下，大型金融服务与交易公司虽然是仅次于大型科技超大规模云服务商的计算设备采购大户，",
      "source": "IT之家",
      "zh": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%"
+    },
+    {
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "link": "https://github.com/gulivan/worker755",
+     "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN: I built a game where you are an LLM's subagent"
     },
     {
      "title": "湘雅二院的AI造假论文，正在大量涌现",
@@ -1857,14 +1881,6 @@
      "zh": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起"
     },
     {
-     "title": "Prisons get OK to jam contraband phones",
-     "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-     "pubDate": "Sun, 22 Nov 2026 13:00:52 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 20 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Prisons get OK to jam contraband phones"
-    },
-    {
      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
      "link": "https://www.ithome.com/1/030/708.htm",
      "pubDate": "Sun, 22 Nov 2026 12:56:39 GMT",
@@ -1879,22 +1895,6 @@
      "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，头图来自：AI生成 今年，一级市场最炙手可热的&ldquo;当红炸子鸡&rdquo;，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为&ldquo;外包&rdquo;的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容",
      "source": "虎嗅",
      "zh": "大模型数据的隐秘江湖"
-    },
-    {
-     "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
-     "link": "https://www.ithome.com/1/030/707.htm",
-     "pubDate": "Sun, 22 Nov 2026 12:47:05 GMT",
-     "summary": "IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn） 指出其在华销量目标不切实际 ，是自己职业生涯中最大的失误。 福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间担任雷诺集团首席执行官。 “我们进入中国市场太晚了。实际上，我们相当于挤上了末班车的最后一节车厢 —— 而且还没买票，”福兰表示。 这一表态之所以备受关注，是因为雷诺已于 2020 年退出在华合",
-     "source": "IT之家",
-     "zh": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际"
-    },
-    {
-     "title": "黎曼猜想被证明之后",
-     "link": "https://www.huxiu.com/article/4907533.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 20:38:37 +0800",
-     "summary": "本文来自微信公众号： 原理 ，作者：佐佑 11月20日，数学家Levent Alpöge在个人网站上公布了他与Claude共同找到的黎曼猜想证明。这道被誉为“数学圣杯”的难题，终于在提出167年后有了答案。同样令人意外的，还有验证的速度。证明公开后的第二天，Lean与Mathlib社区便发表联合声明，确认这份形式化证明通过了独立验证。 今年恰逢黎曼诞辰200周年。1859年，他在研究素数分布时提出，黎曼ζ函数的所有非平凡零点，都位于复平面上实部为二分之一的那条直线上。此后，数论学家证明了许多形如“如果黎曼猜想成立，那么……”的结论。凡是只差这一个前提的，如今都可以删去那个“如果”了。 黎曼认为",
-     "source": "虎嗅",
-     "zh": "黎曼猜想被证明之后"
     },
     {
      "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
@@ -2025,6 +2025,22 @@
    "total": 7,
    "items": [
     {
+     "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
+     "link": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+     "pubDate": "Sun, 22 Nov 2026 14:43:24 +0000",
+     "summary": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. For Black Friday, it’s on sale for 40% off , making it more affordable than ever. more…",
+     "source": "9to5Mac",
+     "zh": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off"
+    },
+    {
+     "title": "Can you completely remove One UI from a Samsung phone?",
+     "link": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
+     "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+     "summary": "Samsung's custom software, One UI, gives every phone a similar appearance. Discover how to limit One UI and change the look of your homepage.",
+     "source": "Engadget",
+     "zh": "Can you completely remove One UI from a Samsung phone?"
+    },
+    {
      "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
      "link": "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
      "pubDate": "Sun, 22 Nov 2026 14:26:51 +0000",
@@ -2095,14 +2111,6 @@
      "summary": "Even common consoles have rare editions that are highly sought after by collectors.",
      "source": "Engadget",
      "zh": "10 rare game consoles that almost no one owns"
-    },
-    {
-     "title": "What does the blue snowflake icon mean for your Tesla battery?",
-     "link": "https://www.engadget.com/2319342/tesla-battery-blue-snowflake-icon-meaning/",
-     "pubDate": "Sun, 22 Nov 2026 13:15:00 +0000",
-     "summary": "No, that snowflake isn't a weather report nor is it an Easter egg. But it is something you should pay attention to if you care at all about range.",
-     "source": "Engadget",
-     "zh": "What does the blue snowflake icon mean for your Tesla battery?"
     },
     {
      "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
@@ -2241,14 +2249,6 @@
      "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
     },
     {
-     "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
-     "link": "https://9to5mac.com/2026/11/21/apple-work/",
-     "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
-     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
-     "source": "9to5Mac",
-     "zh": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking"
-    },
-    {
      "title": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off",
      "link": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
      "pubDate": "Sat, 21 Nov 2026 13:39:52 +0000",
@@ -2295,14 +2295,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tech suppliers jack up AI server prices after contracts inked - FT"
-    },
-    {
-     "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-     "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 14:00:00 GMT",
-     "summary": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
-     "source": "MarketWatch",
-     "zh": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
     },
     {
      "title": "美国总统特朗普：开放边境将摧毁美国！美国曾险些成为其中之一 直到我上台才扭转局面",
@@ -2425,14 +2417,6 @@
      "zh": "Blame game emerges after Anthropic's IPO market value plunge - WSJ"
     },
     {
-     "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-     "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 12:30:00 GMT",
-     "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
-     "source": "MarketWatch",
-     "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
-    },
-    {
      "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
      "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
      "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
@@ -2511,6 +2495,22 @@
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
+    },
+    {
+     "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
+     "link": "https://wallstreetcn.com/articles/3786451",
+     "pubDate": "Sun, 22 Nov 2026 14:04:47 +0800",
+     "summary": "高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。 这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。 喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生",
+     "source": "华尔街见闻",
+     "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
+    },
+    {
+     "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+     "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+     "pubDate": "Sun, 22 Nov 2026 06:00:01 GMT",
+     "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+     "source": "CNBC",
+     "zh": "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
     }
    ]
   },

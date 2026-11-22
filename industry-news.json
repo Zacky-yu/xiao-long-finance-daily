@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 05:12:06",
+ "generated_at": "2026/11/23 05:24:55",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+     "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+     "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
+     "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+    },
     {
      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
@@ -239,14 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了"
-    },
-    {
-     "title": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=2&sn=acf4991da5cf22769949784e84cb0518",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆"
     }
    ]
   },
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
+     "link": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
+     "pubDate": "Sun, 22 Nov 2026 21:13:20 +0000",
+     "summary": "RMI's hydrogen research increasingly favors batteries and narrower demand, but its investment recommendations still promote subsidies and infrastructure. The post RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short. appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short."
+    },
+    {
      "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
      "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
      "pubDate": "Sun, 22 Nov 2026 14:00:00 -0600",
@@ -951,14 +959,6 @@
      "summary": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ..",
      "source": "CleanTechnica",
      "zh": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October"
-    },
-    {
-     "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
-     "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
-     "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
-     "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
     },
     {
      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
@@ -1409,6 +1409,14 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1447,6 +1455,14 @@
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
+    },
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1489,6 +1505,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1527,14 +1551,6 @@
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1777,10 +1793,18 @@
      "zh": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)"
     },
     {
+     "title": "A miniature San Francisco with live buses, planes and boats",
+     "link": "https://smallsf.com/",
+     "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "A miniature San Francisco with live buses, planes and boats"
+    },
+    {
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1788,7 +1812,7 @@
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 30 # Comments: 11",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 37 # Comments: 12",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -1804,7 +1828,7 @@
      "title": "What Happened to Silicon Valley?",
      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
      "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 117 # Comments: 33",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 145 # Comments: 47",
      "source": "Hacker News",
      "zh": "What Happened to Silicon Valley?"
     },
@@ -1812,17 +1836,9 @@
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
      "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 108 # Comments: 20",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 122 # Comments: 27",
      "source": "Hacker News",
      "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
-    },
-    {
-     "title": "Dirac's Theorem at a Dinner Party",
-     "link": "https://prideout.net/blog/dirac-dinner-party/",
-     "pubDate": "Sun, 22 Nov 2026 18:50:27 +0000",
-     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 12 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Dirac's Theorem at a Dinner Party"
     },
     {
      "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
@@ -1836,7 +1852,7 @@
      "title": "Was software just always too complex for humans?",
      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
      "pubDate": "Sun, 22 Nov 2026 17:32:41 +0000",
-     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 15 # Comments: 9",
+     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 19 # Comments: 11",
      "source": "Hacker News",
      "zh": "Was software just always too complex for humans?"
     },
@@ -2009,6 +2025,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+     "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+     "pubDate": "Sun, 22 Nov 2026 21:12:41 +0000",
+     "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
+     "source": "9to5Google",
+     "zh": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’"
+    },
+    {
+     "title": "How Secure Is Your Password? Here's How To Test It",
+     "link": "https://www.engadget.com/2319522/how-secure-is-password/",
+     "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
+     "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+     "source": "Engadget",
+     "zh": "How Secure Is Your Password? Here's How To Test It"
+    },
+    {
      "title": "Deal: Amazon's Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%",
      "link": "https://www.gsmarena.com/deal_amazons_black_friday_deal_discounts_the_pixel_11_pro_and_pixel_11_pro_xl_by_31-news-75570.php",
      "pubDate": "Sun, 22 Nov 2026 21:51:02 +0100",
@@ -2055,14 +2087,6 @@
      "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.",
      "source": "Engadget",
      "zh": "Want more control over your YouTube homepage? Try using custom feeds"
-    },
-    {
-     "title": "How long is a new Fitbit actually supposed to last?",
-     "link": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support/",
-     "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
-     "summary": "Fitbit longevity is threefold. You'll need to consider the fitness tracker's durability, battery life, and how long it will receive software support.",
-     "source": "Engadget",
-     "zh": "How long is a new Fitbit actually supposed to last?"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2239,14 +2263,6 @@
      "summary": "Anker's Nano Docking Station is 33% off ahead of Black Friday, matching its lowest price on Amazon.",
      "source": "Android Authority",
      "zh": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off"
-    },
-    {
-     "title": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday",
-     "link": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
-     "pubDate": "Sat, 21 Nov 2026 13:07:21 +0000",
-     "summary": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
-     "source": "Android Authority",
-     "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
     }
    ]
   },

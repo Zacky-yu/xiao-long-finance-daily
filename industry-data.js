@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 10:31:53",
+ "generated_at": "2026/11/22 10:54:34",
  "recent_days": 7,
  "industries": [
   {
@@ -935,7 +935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
      "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
      "source": "CleanTechnica",
-     "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
+     "zh": "欧洲的氢气价格为每公斤 5.70 欧元，工业买家的价格要低得多"
     },
     {
      "title": "UK Races to Rewrite Nuclear Rules by 2027",
@@ -1079,7 +1079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 09:00:00 -0500",
      "summary": "A bipartisan bill that would make it easier to build energy infrastructure — both dirty and clean — has passed the Senate by a 62 to 33 vote. The sprawling Bipartisan American Affordability and Jobs Act would streamline permitting for energy and infrastructure projects by enacting significant change",
      "source": "Canary Media",
-     "zh": "Senate OKs permitting bill that would boost clean and dirty energy"
+     "zh": "参议院批准通过法案，促进清洁和肮脏能源的发展"
     },
     {
      "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
@@ -1183,7 +1183,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:10 +0000",
      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
      "source": "STAT News",
-     "zh": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves"
+     "zh": "STAT+：MAHA的智囊团在坦克里吗？税务申报显示储备金较低"
     },
     {
      "title": "Will the first approved psychedelic become a blockbuster?",
@@ -1303,7 +1303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 12:17:00 -0500",
      "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
      "source": "BioPharma Dive",
-     "zh": "Sanofi gains FDA clearance for Gaucher disease pill"
+     "zh": "赛诺菲戈谢病药物获得 FDA 批准"
     },
     {
      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
@@ -1431,7 +1431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
      "summary": "Atomic-6 built Space Armor to shield satellites from debris too small to track. Now, it's exploring whether the same tiles could protect astronauts on spacewalks. The post Atomic-6 Wants to Shield Astronauts Against Untrackable Debris appeared first on Payload .",
      "source": "Payload",
-     "zh": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris"
+     "zh": "Atomic-6 希望保护宇航员免受无法追踪的碎片的影响"
     },
     {
      "title": "RBC Signals Raises $10M to Commercialize New Comms Tech",
@@ -1487,7 +1487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "Making the case for optical"
+     "zh": "为光学提供案例"
     },
     {
      "title": "HEO Unveils Insights Next SDA Tool",
@@ -1495,7 +1495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 11:53:58 +0000",
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
-     "zh": "HEO Unveils Insights Next SDA Tool"
+     "zh": "HEO 推出 Insights Next SDA 工具"
     },
     {
      "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
@@ -1511,7 +1511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
-     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+     "zh": "Flexell Space 与 ALATYR 签署谅解备忘录，探索轨道数据中心太阳能解决方案"
     },
     {
      "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
@@ -1655,7 +1655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530",
      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions wher",
      "source": "The Hacker News",
-     "zh": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
+     "zh": "Signal 阻止 AI 代理通过 Android 和 iOS 上的屏幕截图读取私人聊天记录"
     },
     {
      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
@@ -1786,12 +1786,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+     "link": "https://www.ithome.com/1/030/550.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:39:52 GMT",
+     "summary": "IT之家 11 月 22 日消息，长城汽车旗下坦克 SUV 官方微博今日宣布， 品牌首支单曲《百万分之一》将于 11 月 25 日“唱响” 。 据IT之家此前报道，本月初，长城汽车宣布，坦克品牌全球销量 100 万辆。公开信息显示，2020 年 7 月，长城汽车在成都车展上正式发布了“坦克 · WEY”平台，并亮相了该平台首款车型 —— WEY 坦克 300。 随后，在 11 月 20 日， 坦克品牌第 1,000,000 台量产车下线 。 延伸阅读 据官方介绍，此次下线的第 100 万辆里程碑车型为品牌旗舰坦克 700。作为品牌旗舰，坦克 700 集坦克在动力、底盘、智能科技及豪华体验等领域",
+     "source": "IT之家",
+     "zh": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”"
+    },
+    {
+     "title": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键",
+     "link": "https://www.ithome.com/1/030/548.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:33:08 GMT",
+     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 该机与华为 Pura X View 一样，搭载了麒麟 9030S 处理器。关于为何选用这枚芯片，刘赫给出了三大理由，并透露星芒和当年荣耀 Magic 的思路有异曲同工之处。 确实和 Magic 的思路有异曲同工之处！选 9030S 有原因的， 第一这个平台在 NPU ",
+     "source": "IT之家",
+     "zh": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键"
+    },
+    {
+     "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+     "link": "https://www.ithome.com/1/030/547.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:31:50 GMT",
+     "summary": "IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行 。（IT 之家注：Lean 是交互式定理证明器，可逐行机械核验数学推理是否符合逻辑公理。） 声明由 Lean 与 Mathlib 社区联合发布，并获 Lean FRO 与 Mathlib Initiative 背书。声明称，阿尔波格的库仅直接依赖 Mathlib；过去一天内，Lean 与 Mathlib 社区已参与验证。 声明列出四项核验标准，并称这几项标准均已",
+     "source": "IT之家",
+     "zh": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确"
+    },
+    {
+     "title": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？",
+     "link": "https://www.baijing.cn/question/638884",
+     "pubDate": "Sun, 22 Nov 2026 02:28:13 +0000",
+     "summary": "我们做印尼站美妆个护直播，起量中，5人小团队，月GMV大概8万美元，佣金按达人带货走。现在最头疼的是回款：平台佣金结算到账大约T+14到T+21，但物流端J&T和SiCepat的签收时效波动很大，雅加达市区2-3天、外岛能拖到7-10天，导致订单签收确认和佣金可结算时间对不上，财务每月要对两套时间轴。已经试过用后台的结算报表和物流轨迹手工比对，但订单量大时差几十单就对不齐，卡在签收异常件和退货退款的佣金冲回上。想问的是：这种签收时效和佣金回款周期错配，你们是按物流签收日还是平台结算日做收入确认和现金流预测的？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？"
+    },
+    {
      "title": "贬值世代",
      "link": "https://www.huxiu.com/article/4907424.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 10:28:00 +0800",
-     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：“奇点已至”、“AI又破解了哪道数学难题？”、“AI又取代了哪个学科？” 人文社科类媒体会写：“只属于理工科天才的时代正抛下我们向前狂奔”、“AI公司实习生日薪顶我一个月工资，应届生年薪千万”、“丈母娘看好AI行业的女婿”、“被投资机构关",
+     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干，头图来自：AI生成 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过&hellip;&hellip; 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：&ldquo;奇点已至&rdquo;、&ldquo;AI又破解了哪道数学难题？&rdquo;、&ldquo;AI又取代了哪个学科？&rdquo; 人文社科类媒体会写：&ldquo;只属于理工",
      "source": "虎嗅",
      "zh": "贬值世代"
+    },
+    {
+     "title": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球",
+     "link": "https://www.ithome.com/1/030/546.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:25:08 GMT",
+     "summary": "IT之家 11 月 22 日消息，据游戏媒体 IGN 今天报道，部分玩家近期报告称，他们在 PS5 平台游玩《GTA6》游戏时频繁遇到崩溃现象，系统只显示 CE-108255-1 错误代码。部分用户甚至无法继续推进剧情，找客服时索尼和 Rockstar 只会互相踢皮球。 IT之家从原报道了解到，目前玩家们收集到最多的错误代码是 CE-108255-1。根据索尼官方的定义，该错误仅表示“游戏或应用程序发生错误”。 尽管大多数玩家没有遇到这个问题，但受影响的用户似乎没有找到有效解决方法。更麻烦的是，有玩家还遇到了频繁崩溃现象，而且触发崩溃的原因还无法定位。PS5、PS5 Pro 玩家均报告了类似问",
+     "source": "IT之家",
+     "zh": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球"
+    },
+    {
+     "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+     "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "pubDate": "Sun, 22 Nov 2026 02:14:14 +0000",
+     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention"
     },
     {
      "title": "AI智能体为何会在相互聊天中自创语言",
@@ -1834,22 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度"
     },
     {
-     "title": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开",
-     "link": "https://www.ithome.com/1/030/543.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:54:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，奕境汽车品牌总经理曾清林昨日发文，回应了“汽车博主直播喊话车企拆车”这一话题。他表示，奕境公开拆车会落实，时间和方式定了会第一时间公开。 刚刷到这个话题，了解了一下来龙去脉、详细翻看了各平台的大量评论。非常感谢网友对奕境的关心、以及用户朋友们对奕境的信任。你们的呼声我们看到了。 事发突然，尤其奕境 X9 纯电版下周即将上市。我们担心回应会分散了新车的注意力，我们不回应又怕辜负了大家的信任。 总之，网友们期待的奕境公开拆车，我们会落实的，时间和方式定了我第一时间告诉大家 。 据IT之家此前报道，奕境 X9 纯电版旗舰 SUV 已定档 11 月 27 日上市，确认",
-     "source": "IT之家",
-     "zh": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开"
-    },
-    {
-     "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
-     "link": "https://www.ithome.com/1/030/541.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:47:42 GMT",
-     "summary": "IT之家 11 月 22 日消息，据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用市场 App Gallery 下载使用。 测试说明显示，本次测试为 UU 远程 HarmonyOS 版本的用户体验测试，面向 HarmonyOS 手机及平板用户，主要验证应用在真实设备和网络环境下的功能可用性、连接稳定性及交互体验。 IT之家附测试内容如下： 1.登录、退出登录、账号信息及基础设置； 2.首页设备列表、设备刷新、设备详情、设备管理及设备重命名； 3.对已安装 UU 远程且在线的设备发起远程控制，体验连接",
-     "source": "IT之家",
-     "zh": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配"
-    },
-    {
      "title": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？",
      "link": "https://www.baijing.cn/question/638882",
      "pubDate": "Sun, 22 Nov 2026 01:43:47 +0000",
@@ -1858,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？"
     },
     {
-     "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
-     "link": "https://www.ithome.com/1/030/540.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:42:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“官方真题”“内部题库”“原题还原”等名义提供、销售或 用于训练、测评人工智能大模型的内容 ，均非中心提供。 声明还称， 中心从未与任何人工智能大模型企业、平台或相关机构建立合作关系 ；未授权任何主体使用中心名称、简称、标识、考试数据及考试资",
-     "source": "IT之家",
-     "zh": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评"
-    },
-    {
      "title": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元",
      "link": "https://www.huxiu.com/article/4907442.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 09:40:30 +0800",
      "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟。它们不能像宇树那样，在春晚上表演个后空翻就能轻易获得认可，反而需要更费力的商业化验证，才能获得谨慎市场的更多买单。 在这些大佬之外，是更多散落在产业末梢、如星点般入局的普通人。比如人形机器人租赁商，他们很多都是创业者，本想赶上一波风口，赚",
      "source": "虎嗅",
      "zh": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元"
-    },
-    {
-     "title": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售",
-     "link": "https://www.ithome.com/1/030/539.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:37:52 GMT",
-     "summary": "IT之家 11 月 22 日消息，岚图汽车官方今日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售 。 目前，岚图汽车官方暂未公布 2027 款泰山更多配置信息，IT之家将持续关注，并在第一时间带来最新情报。作为参考，现款岚图泰山已于去年 11 月 18 日上市，共推出四个版本， 售价 37.99 万-50.99 万元 。该车主要配置信息如下： 中国首发三腔空气悬架：110mm 调节行程、100 次 / 秒道路预瞄智能调节阻尼、4 档刚度调节、5 档高度调节 华为乾崑智驾 ADS 4：华为乾崑智驾 ADS 4 四激光方案、分布式 4D 毫米",
-     "source": "IT之家",
-     "zh": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售"
     },
     {
      "title": "美元基金回来了",
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
      "link": "https://github.com/ItsNotRexed/Leonida",
      "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
-     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "Leonida – PC Recompilation of the Xbox Version of GTA 6"
     },
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 29 # Comments: 15",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 37 # Comments: 15",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
     },
@@ -1997,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 66 # Comments: 7",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 71 # Comments: 7",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -2005,25 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 99 # Comments: 16",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 102 # Comments: 18",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
-    },
-    {
-     "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-     "link": "https://tasklet.ai/careers",
-     "pubDate": "Sat, 21 Nov 2026 21:11:08 +0000",
-     "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers"
-    },
-    {
-     "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-     "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-     "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 32 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak",
+     "link": "https://www.gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php",
+     "pubDate": "Sun, 22 Nov 2026 03:33:02 +0100",
+     "summary": "Vivo will apparently be flushing out its budget lineup in India soon with at least three new devices. These are not particularly exciting in any meaningful way, but might just offer a good value proposition. There are some clear similarities between the three. All of them are built around a 6.74-inc",
+     "source": "GSMArena",
+     "zh": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak"
+    },
     {
      "title": "从深圳到上海，少数派的共创故事还在继续",
      "link": "https://sspai.com/post/119318",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming"
     },
     {
-     "title": "Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn't far behind",
-     "link": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php",
-     "pubDate": "Sat, 21 Nov 2026 09:02:02 +0100",
-     "summary": "Honor has been pushing smartphone battery capacities higher and higher, and earlier this month we heard that its 14,000 to 15,000 mAh battery has entered trial production. Now, the same tipster, Digital Chat Station, says the company has a new X-series phone coming before the Chinese New Year, which",
-     "source": "GSMArena",
-     "zh": "Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn't far behind"
-    },
-    {
      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
      "link": "https://sspai.com/post/119291",
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0800",
@@ -2281,6 +2281,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
+     "link": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 21:30:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month"
+    },
+    {
+     "title": "突然全线拉升！美伊局势传来利好消息",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936874637.html",
+     "pubDate": "Sun, 22 Nov 2026 10:14:00 +0800",
+     "summary": "美伊局势传出利好信号，风险资产迎来反弹！ 北京时间22日上午，美股AI硬科技股在暗盘市场集体走高。截至发稿， 英伟达 暗盘涨超0.70%； SK海力士 、 英特尔 、 闪迪 暗盘涨超1%； 美光科技 、 博通 、 迈威尔科技 暗盘涨超0.60%； 康宁 、 希捷科技 暗盘涨超0.40%。 加密货币市场也普遍反弹。24小时内，比特币涨超2%，价格重新站上6万美元；以太坊涨超3%；Solana、XRP、BNB等涨超2%。 市场分析人士指出，中东局势出现缓和信号，对市场构成利好，投资者风险偏好随之回升。 据新华社报道，美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永",
+     "source": "东方财富资讯",
+     "zh": "突然全线拉升！美伊局势传来利好消息"
+    },
     {
      "title": "上市公司“不爱”理财了",
      "link": "http://www.eeo.com.cn/2026/1122/1099624.shtml",
@@ -2474,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "恐慌还是机会？“China-Haul”爆火 读懂背后的投资逻辑！"
     },
     {
-     "title": "晕了晕了！近1900亿元资金进场抄底宽基ETF 行业主题ETF却遭遇资金抛售",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936867268.html",
-     "pubDate": "Sun, 22 Nov 2026 07:47:17 +0800",
-     "summary": "本周主要股指集体调整，沪深两市股票型ETF和跨境型ETF合计净流入1941.71亿元。 行业主题上看， 半导体 设备相关ETF被资金看好，而 黄金 、证券相关ETF被资金抛售。 近2000亿元资金借道ETF进场 本周沪深两市成交7.04万亿元，其中沪市成交3.39万亿元，深市成交3.65万亿元。截至最新收盘，沪指报收于3533.79点，全周下跌2.77%，深证成指报收于10256.39点，全周下跌6.49%。 数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入1941.71亿元，宽基指数ETF净流入1896亿元，行业主题ETF净流出12.85亿元。 细分来看，主要宽基指数整体资金申赎统",
-     "source": "东方财富资讯",
-     "zh": "晕了晕了！近1900亿元资金进场抄底宽基ETF 行业主题ETF却遭遇资金抛售"
-    },
-    {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
@@ -2512,14 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
-    },
-    {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-     "source": "MarketWatch",
-     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     }
    ]
   },
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:00:00 +0000",
      "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
      "source": "Science News",
-     "zh": "This year’s El Niño is unlike any other on record"
+     "zh": "今年的厄尔尼诺现象与有记录以来的任何其他现象都不一样"
     },
     {
      "title": "Watching as a giant star swallowed its neighbor and exploded",
@@ -2743,7 +2743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
      "summary": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
      "source": "MIT News",
-     "zh": "Ultrasound imaging without the gel"
+     "zh": "无需凝胶的超声成像"
     },
     {
      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
@@ -2751,7 +2751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 18:44:39 +0000",
      "summary": "Some models fare better, but all fail in similar ways.",
      "source": "Ars Technica Science",
-     "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
+     "zh": "“你是对的”——如果你问的话，法学硕士会得到错误的气候信息"
     },
     {
      "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",

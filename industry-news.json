@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 10:12:00",
+ "generated_at": "2026/11/22 10:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -673,6 +673,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
+     "link": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
+     "pubDate": "Sun, 22 Nov 2026 02:13:24 +0000",
+     "summary": "The last time Hyundai announced a new work truck was 22 years ago, and the Hyundai Porter has proven itself as a dependable workhorse throughout Korea and Southeast Asia – but only the pyramids and the Chevy Express can last forever. Hyundai is reportedly getting ready to pull the wraps off an all-n",
+     "source": "Electrek",
+     "zh": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck"
+    },
+    {
+     "title": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe",
+     "link": "https://cnevpost.com/2026/11/22/nio-firefly-debuts-haven-edition-oslo-spring-2027-launch-europe/",
+     "pubDate": "Sun, 22 Nov 2026 02:12:05 +0000",
+     "summary": "The vehicle is the first model in Firefly's design-driven Halo series, making its European debut in Oslo as Nio marks its fifth anniversary in Norway. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio Firefly debuts Haven special edition in Oslo, plans spring 2027 launch in Europe"
+    },
+    {
      "title": "Dutch court bars EU sales of BYD Ti7, citing infringement of Land Rover Defender design rights",
      "link": "https://cnevpost.com/2026/11/22/dutch-court-bars-eu-sales-byd-ti7-land-rover-defender-design/",
      "pubDate": "Sun, 22 Nov 2026 01:07:22 +0000",
@@ -727,14 +743,6 @@
      "summary": "Sometimes police need drivers to ignore normally posted laws and comply with officer instructions. That hasn't been going great for Waymo.",
      "source": "InsideEVs",
      "zh": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions"
-    },
-    {
-     "title": "Toyota just built a tiny folding electric bike to fit in your trunk",
-     "link": "https://electrek.co/2026/11/21/toyota-just-built-a-tiny-folding-electric-bike-to-fit-in-your-trunk/",
-     "pubDate": "Sat, 21 Nov 2026 18:34:13 +0000",
-     "summary": "Toyota is getting into electric bikes. Well, sort of. The Japanese automotive giant has unveiled the BKE Concept, a tiny folding electric two-wheeler designed to serve as a compact companion vehicle for short trips, outdoor adventures, and last-mile transportation. more…",
-     "source": "Electrek",
-     "zh": "Toyota just built a tiny folding electric bike to fit in your trunk"
     },
     {
      "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
@@ -807,14 +815,6 @@
      "summary": "Leapmotor's third-quarter revenue grew 63.0% year-on-year to 31.7 billion yuan. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Leapmotor Q3 net profit tumbles 73% on rising raw material costs and product mix shifts"
-    },
-    {
-     "title": "Stelato launches V8 as Huawei-backed brand enters premium MPV market",
-     "link": "https://cnevpost.com/2026/11/20/stelato-launches-v8-mpv/",
-     "pubDate": "Fri, 20 Nov 2026 08:35:14 +0000",
-     "summary": "The Stelato V8 starts at 319,800 yuan ($47,640), with the BEV variant offering up to 830 km (516 miles) of CLTC range. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Stelato launches V8 as Huawei-backed brand enters premium MPV market"
     },
     {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -1401,6 +1401,14 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1457,6 +1465,14 @@
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1497,6 +1513,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1535,22 +1559,6 @@
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1777,6 +1785,22 @@
    "total": 18,
    "items": [
     {
+     "title": "贬值世代",
+     "link": "https://www.huxiu.com/article/4907424.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 10:28:00 +0800",
+     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：“奇点已至”、“AI又破解了哪道数学难题？”、“AI又取代了哪个学科？” 人文社科类媒体会写：“只属于理工科天才的时代正抛下我们向前狂奔”、“AI公司实习生日薪顶我一个月工资，应届生年薪千万”、“丈母娘看好AI行业的女婿”、“被投资机构关",
+     "source": "虎嗅",
+     "zh": "贬值世代"
+    },
+    {
+     "title": "AI智能体为何会在相互聊天中自创语言",
+     "link": "https://www.huxiu.com/article/4907444.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 10:10:11 +0800",
+     "summary": "本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《AI智能体为何会在相互聊天中自创语言｜深度报道》 2026年7月，OpenAI的700个智能体联手秘密入侵了在线平台Hugging Face。智能体是能够自主执行任务的人工智能（AI）系统。2026年9月上旬，该公司又动用1万个智能体，解决了纳维-斯托克斯方程问题（Navier-Stokes problem）。这一问题已有90年历史，是6个千禧年大奖难题之一，这些难题跻身数学领域最艰深、最重要的挑战之列。 随着越来越多的智能体“集群”投入使用，研究人员开始关注这些群体如何互动。2026年9月中旬发布的一项研究揭示：如果任其自行发展，",
+     "source": "虎嗅",
+     "zh": "AI智能体为何会在相互聊天中自创语言"
+    },
+    {
      "title": "印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？",
      "link": "https://www.baijing.cn/question/638883",
      "pubDate": "Sun, 22 Nov 2026 02:04:56 +0000",
@@ -1791,6 +1815,30 @@
      "summary": "本文来自微信公众号： 独雕寒江雪 ，作者：独雕寒江雪，原文标题：《行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”》 具身智能的瓶颈不在世界太非标，而在训练目标从未要求模型理解物理 一、一个被误读的因果 在具身智能的圈子里，“得数据者得天下”几乎是一句公理。建数据工厂、上遥操作采集、堆合成数据，仿佛只要攒够了PB级的视频与轨迹，机器人就能像ChatGPT一样迎来涌现时刻。2026年上半年，中国具身智能数据创业公司拿到的融资超过170亿元，占整个赛道融资的四成左右；全国已建成启用的训练场超过70家，在建和规划的还有40多家。钱、人、场地，全部押在同一个假设上。 但数据的消耗远没有叙事中",
      "source": "虎嗅",
      "zh": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”"
+    },
+    {
+     "title": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家",
+     "link": "https://www.ithome.com/1/030/545.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:00:38 GMT",
+     "summary": "IT之家 11 月 22 日消息，据“北京昌平”公众号，11 月 21 日，以“脑智芯联机遇昌平”为主题的 2026 脑机接口大会 在昌平石油科技交流中心开幕。开幕式上，《2026 年脑机接口创新发展研究报告》正式发布。 报告认为，2026 年脑机接口的战略意义，正从“大脑与外部设备的直接连接”走向更为多维的产业赋能。 从产业态势看，2026 年全球脑机接口企业数量从 800 多家增至 1175 家，多数企业选择技术门槛较低、产业化落地较快的路线。中国脑机接口产业集聚于 京津冀、长三角、粤港澳 三大城市群，共集聚 190 余家企业、占全国的 77.4%。 IT之家注意到，报告以 “靶点、流向、",
+     "source": "IT之家",
+     "zh": "2026 脑机接口报告：全球企业增至 1175 家，中国三大城市群集聚 190 余家"
+    },
+    {
+     "title": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度",
+     "link": "https://www.ithome.com/1/030/544.htm",
+     "pubDate": "Sun, 22 Nov 2026 01:57:49 GMT",
+     "summary": "IT之家 11 月 22 日消息，据科技媒体 Phoronix 昨天报道，Linux 7.4-rc4 内核预计将在今天发布，本次更新将带来多项修复和性能提升，以及值得关注的 NVMe 命名空间性能优化。 IT之家从原报道获悉， Linux 7.4-rc4 内核将支持并行删除 NVMe 命名空间（NVMe Namespaces） 。作为参考，该功能可以将 NVMe 存储设备划分为多个逻辑隔离存储卷，主要适用于多租户环境、工作负载隔离和安全管理等场景。 此前，Linux 内核的 NVMe 命名空间删除代码采用串行逻辑，每次只能依次删除一个命名空间。在一些复杂的现代 Linux 服务器部署环境中， ",
+     "source": "IT之家",
+     "zh": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度"
+    },
+    {
+     "title": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开",
+     "link": "https://www.ithome.com/1/030/543.htm",
+     "pubDate": "Sun, 22 Nov 2026 01:54:14 GMT",
+     "summary": "IT之家 11 月 22 日消息，奕境汽车品牌总经理曾清林昨日发文，回应了“汽车博主直播喊话车企拆车”这一话题。他表示，奕境公开拆车会落实，时间和方式定了会第一时间公开。 刚刷到这个话题，了解了一下来龙去脉、详细翻看了各平台的大量评论。非常感谢网友对奕境的关心、以及用户朋友们对奕境的信任。你们的呼声我们看到了。 事发突然，尤其奕境 X9 纯电版下周即将上市。我们担心回应会分散了新车的注意力，我们不回应又怕辜负了大家的信任。 总之，网友们期待的奕境公开拆车，我们会落实的，时间和方式定了我第一时间告诉大家 。 据IT之家此前报道，奕境 X9 纯电版旗舰 SUV 已定档 11 月 27 日上市，确认",
+     "source": "IT之家",
+     "zh": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开"
     },
     {
      "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
@@ -1841,36 +1889,12 @@
      "zh": "美元基金回来了"
     },
     {
-     "title": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对",
-     "link": "https://www.ithome.com/1/030/538.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:28:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦通信委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则， 肆意污蔑、恶意打压中国电信企业在美运营 。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链",
-     "source": "IT之家",
-     "zh": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对"
-    },
-    {
-     "title": "小鹏辟谣：警惕冒用小鹏汽车名义的“召回领赔偿”诈骗",
-     "link": "https://www.ithome.com/1/030/537.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:23:45 GMT",
-     "summary": "IT之家 11 月 22 日消息，小鹏集团官方微博 @小鹏辟谣 昨日发文，提醒车主警惕冒用小鹏汽车名义的“召回领赔偿”诈骗。 近日，多家车企的车主收到不法分子冒用车企名义制作、传播的虚假召回通知，声称车主可领取赔偿，引导车主访问附带网站或扫描二维码，联系所谓“在线客服”登记个人及车辆信息。 为防患于未然，保护广大鹏友的合法权益，小鹏汽车在此郑重提示： 一、官方渠道说明与甄别 小鹏汽车不会通过陌生短信、陌生链接、陌生二维码推送以“召回领赔偿”为由的通知 。 任何非小鹏官方渠道发来的陌生网址、二维码，以及所谓“在线客服”，均不属于小鹏汽车官方服务渠道。 小鹏汽车的官方渠道仅为：小鹏汽车 App、小",
-     "source": "IT之家",
-     "zh": "小鹏辟谣：警惕冒用小鹏汽车名义的“召回领赔偿”诈骗"
-    },
-    {
      "title": "亚马逊美国站品牌备案后触发二审，货已备到海外仓，该怎么处理？",
      "link": "https://www.baijing.cn/question/638881",
      "pubDate": "Sun, 22 Nov 2026 01:23:32 +0000",
      "summary": "品牌备案刚通过两周，美国站账号突然收到二审通知，要求提供营业执照和法人地址证明。我们是3人小团队，做宠物饮水机，刚起量阶段，月销约2000单，FBA头程已发两批货到洛杉矶海外仓，在途还有一批。目前账号被暂停，listing全部下架，海外仓压着约80万货值，退货率约6%。已经提交过一次水电账单被驳回，说是地址与注册信息不一致。现在卡在补充材料这一步，不知道该用哪种地址证明更稳妥，还是先暂停补货避免库存继续压仓？",
      "source": "白鲸出海",
      "zh": "亚马逊美国站品牌备案后触发二审，货已备到海外仓，该怎么处理？"
-    },
-    {
-     "title": "神舟二十四号展开全系统合练，神舟二十五号作为地面应急救援备份",
-     "link": "https://www.ithome.com/1/030/536.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:21:37 GMT",
-     "summary": "IT之家 11 月 22 日消息，据中央广播电视总台中国之声报道，神舟二十四号载人飞行任务各系统昨天（21 日）在酒泉卫星发射中心进行发射场区合练。此次合练覆盖 火箭、飞船、发射场、测控通信 等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。 实际上，就在发射场内，不仅有神舟二十四号载人飞船、长征二号 F 遥二十四运载火箭在整个合练过程中表现出色，还有一艘神舟飞船和一枚长二 F 火箭也在紧张待命中。 辽宁省科学技术协会首席科学传播专家解仁江介绍，神舟二十四号执行正常载人飞行任务， 神舟二十五号作为地面应急救援备份 。一旦在轨飞船发生故障，备用飞船就可以启动应急发射，为航天员提供",
-     "source": "IT之家",
-     "zh": "神舟二十四号展开全系统合练，神舟二十五号作为地面应急救援备份"
     },
     {
      "title": "Edge AI Daily 早报（11月22日）",
@@ -1921,6 +1945,14 @@
      "zh": "AI硬件火了，歌尔呢？"
     },
     {
+     "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+     "link": "https://github.com/ItsNotRexed/Leonida",
+     "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
+     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Leonida – PC Recompilation of the Xbox Version of GTA 6"
+    },
+    {
      "title": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面",
      "link": "https://www.tmtpost.com/8213639.html",
      "pubDate": "Sun, 22 Nov 2026 08:45:35 +0800",
@@ -1945,28 +1977,12 @@
      "zh": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)"
     },
     {
-     "title": "脑机接口临床试验，在全国抢病人",
-     "link": "https://www.huxiu.com/article/4907437.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 08:09:31 +0800",
-     "summary": "本文来自微信公众号： 动脉网 ，作者：王世薇 越来越多的脑机接口企业重新认识了临床和患者的重要性。甚至在赛道最热的当下，这已经成为比资金更紧要的生存问题。 为了加快临床试验推进速度，不少脑机接口企业开始把视线从一线城市的大三甲医院移开。过去数月间，位于山东、山西、河南、江苏等地的省会城市医院，开始牵头做脑机接口的临床研究，而周口、廊坊、绵阳、江阴等城市的医院，也陆续发出临床研究的患者招募公告。 “临床试验资源已经趋于紧张。”华超神控创始人李昕博士告诉动脉网，“头部医院正在同时受理大量来自脑机接口领域的项目申请，包括不同形态、不同模态的侵入式与非侵入式产品，客观上在竞争有限的伦理档期、PI时间和",
-     "source": "虎嗅",
-     "zh": "脑机接口临床试验，在全国抢病人"
-    },
-    {
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 29 # Comments: 15",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
-    },
-    {
-     "title": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了",
-     "link": "https://www.huxiu.com/article/4907436.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 07:59:14 +0800",
-     "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 Anthropic IPO两天后，数学家、Anthropic员工Levent Alpöge宣布他与Anthropic的Claude AI“合作”证明了黎曼猜想。 黎曼猜想由德国数学家波恩哈德·黎曼于1859年提出，是克雷数学研究所悬赏百万美元的七大难题之一。百年来吸引大量数学家绞尽脑汁尚未得到证明，如今却被AI破了，进一步引发AI发展到了奇点，数学家将被取代的讨论。 但Alpöge拿出的AI“证明”，是一个约1740万行的Lean代码档案，外加一份4页的说明。他在声明的脚注里提到，试着把它改写成人能读的数学文字，篇幅很快就超过了",
-     "source": "虎嗅",
-     "zh": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了"
     },
     {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -1980,7 +1996,7 @@
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 56 # Comments: 5",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 66 # Comments: 7",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -1988,7 +2004,7 @@
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 93 # Comments: 9",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 99 # Comments: 16",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -2004,17 +2020,9 @@
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 30 # Comments: 11",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 32 # Comments: 12",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
-    },
-    {
-     "title": "Pandex – Official European Law for AI Agents, over MCP",
-     "link": "https://www.pandex.io",
-     "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 34 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Pandex – Official European Law for AI Agents, over MCP"
     }
    ]
   },
@@ -2273,6 +2281,14 @@
    "total": 13,
    "items": [
     {
+     "title": "上市公司“不爱”理财了",
+     "link": "http://www.eeo.com.cn/2026/1122/1099624.shtml",
+     "pubDate": "Sun, 22 Nov 2026 10:06:00 +0800",
+     "summary": "吴超发现，今年以来，上市公司越来越不爱理财了。过去一个月，吴超采取多项举措吸引上市公司加码理财投资，但这些上市公司财务总监明确告知他，在自筹资金与自有资金持续减少的趋势下，未来他们的理财规模大概率“不增反降”。",
+     "source": "经济观察网",
+     "zh": "上市公司“不爱”理财了"
+    },
+    {
      "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
      "link": "http://finance.eastmoney.com/news/1355,202611223936873915.html",
      "pubDate": "Sun, 22 Nov 2026 09:52:54 +0800",
@@ -2503,14 +2519,6 @@
      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
      "source": "MarketWatch",
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
-    },
-    {
-     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
     }
    ]
   },

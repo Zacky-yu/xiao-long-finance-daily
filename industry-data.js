@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 06:52:00",
+ "generated_at": "2026/11/23 07:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1730,6 +1730,14 @@ window.INDUSTRY_DATA = {
      "zh": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit"
     },
     {
+     "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+     "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+     "pubDate": "Fri, 20 Nov 2026 13:51:30 GMT",
+     "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+     "source": "Dark Reading",
+     "zh": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era"
+    },
+    {
      "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
      "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
      "pubDate": "Fri, 20 Nov 2026 12:38:55 +0000",
@@ -1754,14 +1762,6 @@ window.INDUSTRY_DATA = {
      "zh": "Second Norwegian Energy Company Breached in 2 Days"
     },
     {
-     "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
-     "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-     "pubDate": "Thu, 19 Nov 2026 19:57:31 GMT",
-     "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
-     "source": "Dark Reading",
-     "zh": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1778,10 +1778,26 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+     "link": "https://www.ithome.com/1/030/720.htm",
+     "pubDate": "Sun, 22 Nov 2026 22:50:46 GMT",
+     "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。 帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 ",
+     "source": "IT之家",
+     "zh": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限"
+    },
+    {
+     "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
+     "link": "https://www.ithome.com/1/030/719.htm",
+     "pubDate": "Sun, 22 Nov 2026 22:42:26 GMT",
+     "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。 古尔曼认为，苹果在 AI Agent 竞争中面临的主要问题并非缺乏资金或技术资源，而是传统软硬件开发模式已经难以适应 AI 行业快速迭代的节奏。 他指出，苹果过去依靠生态系统建立了竞争优势。用户在 iCloud 中存储邮件、联系人、照片和视频，同",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo"
+    },
+    {
      "title": "The Usefulness of Useless Knowledge [pdf]",
      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 12 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Usefulness of Useless Knowledge [pdf]"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Agent swarm trying to solve P vs. NP",
      "link": "https://pequalnp.com/",
      "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 25 # Comments: 13",
      "source": "Hacker News",
      "zh": "Agent swarm trying to solve P vs. NP"
     },
@@ -1802,10 +1818,18 @@ window.INDUSTRY_DATA = {
      "zh": "‘You Can See Everything’ has made more than $100M worldwide"
     },
     {
+     "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+     "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+     "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
+     "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 7 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "The struggle for freedom: How BSD escaped AT&T licensing"
+    },
+    {
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
      "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 72 # Comments: 17",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 86 # Comments: 22",
      "source": "Hacker News",
      "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
     },
@@ -1818,18 +1842,10 @@ window.INDUSTRY_DATA = {
      "zh": "The best apps to make new friends right now"
     },
     {
-     "title": "AWS got hit by an outage too. You didn't hear about it",
-     "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-     "pubDate": "Sun, 22 Nov 2026 20:50:18 +0000",
-     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 30 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "AWS got hit by an outage too. You didn't hear about it"
-    },
-    {
      "title": "I did a meditation and it sort of changed my personality?!",
      "link": "https://www.benkuhn.net/meditation/",
      "pubDate": "Sun, 22 Nov 2026 20:41:59 +0000",
-     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50603674 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50603674 Points: 17 # Comments: 6",
      "source": "Hacker News",
      "zh": "I did a meditation and it sort of changed my personality?!"
     },
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
      "source": "钛媒体",
      "zh": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？"
-    },
-    {
-     "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
-     "link": "https://www.ithome.com/1/030/713.htm",
-     "pubDate": "Sun, 22 Nov 2026 14:00:48 GMT",
-     "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。 此类交易通常在交付前很早就已达成协议 。 然而据知情人士透露，数月后，当设备准备交付时， 这些科技公司要求的价格远高于最初商定的金额 。 在人工智能设备供不应求的当下，大型金融服务与交易公司虽然是仅次于大型科技超大规模云服务商的计算设备采购大户，",
-     "source": "IT之家",
-     "zh": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%"
-    },
-    {
-     "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
-     "link": "https://www.ithome.com/1/030/711.htm",
-     "pubDate": "Sun, 22 Nov 2026 13:23:38 GMT",
-     "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
-     "source": "IT之家",
-     "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
     }
    ]
   },
@@ -2274,12 +2274,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Stock index futures rebound after AI wipeout",
+     "link": "https://seekingalpha.com/news/4675416-sp-500-dow-nasdaq-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 18:03:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock index futures rebound after AI wipeout"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月23日",
+     "link": "https://wallstreetcn.com/articles/3786450",
+     "pubDate": "Mon, 23 Nov 2026 07:00:28 +0800",
+     "summary": "华见早安之声 要闻精选 中国 特朗普 ： 中俄美元首会晤“史无前例”“意义重大”。 中国LPR报价 连续18个月维持不变 ，11月5年期以上3.5%，1年期3%。 中国财政部 ： 加强离岸信托个税征管等因素带动，10月个税同比增长89.6% 。 沪深北交易所 ： 融资买入证券保证金比例从100%调低至80% ，11月30日起施行。 人民日报 ： 唱空中国经济者终会落空 。 华为 首款鸿蒙AI手机来了 ：子品牌OSTA O1 Pro搭载麒麟9030S，起售5699元。 海外 特朗普 呼吁 黄仁勋 在“重大道歉”后重返英伟达出任CEO 。 特朗普 威胁对“海外建设数据中心”加重税 。 英伟达 再遭",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月23日"
+    },
+    {
+     "title": "周日 达美航空公司超过1600个航班因技术故障延误",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937018577.html",
+     "pubDate": "Mon, 23 Nov 2026 06:44:21 +0800",
+     "summary": "周日， 达美航空 公司超过1600个航班因技术故障延误。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "周日 达美航空公司超过1600个航班因技术故障延误"
+    },
+    {
      "title": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg",
      "link": "https://seekingalpha.com/news/4675415-iqvia-nears-1_1b-acquisition-of-uks-quotient-sciences-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 17:40:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg"
+    },
+    {
+     "title": "中国心连心化肥：新疆准东项目(一期)成功投产",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937018629.html",
+     "pubDate": "Mon, 23 Nov 2026 06:40:00 +0800",
+     "summary": "21财经11月23日电， 中国心连心化肥 （01866.HK）发布自愿公告，公司附属公司新疆心连心化学工业有限公司（准东基地）一期高效肥项目顺利投产。准东基地位于新疆昌吉州准东经济技术开发区，拥有丰富的煤电资源，原材料成本显著低于内地。同时， 铁路运输 直通河西走廊与中东部地区，并助 力拓 展中亚、欧洲市场。该项目的顺利投产进一步完善了集团在西北地区的战略布局，将充分发挥资源优势与区位优势，持续贡献增量现金流。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "中国心连心化肥：新疆准东项目(一期)成功投产"
     },
     {
      "title": "Zoom faces mounting estimate cuts ahead of Q3 earnings; outlook in focus",
@@ -2328,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "福克斯新闻记者Trey Yingst援引与美国总统特朗普的交谈称，特朗普表示，如果无法达成协议，他倾向于在新年后恢复对伊朗的打击。特朗普表示，目前仍在与伊朗进行间接对话。特朗普形容伊朗人是“专业的踢踏舞演员”，并补充说，他们所做的就只是空谈。 （文章来源：华尔街见闻）",
      "source": "东方财富股票",
      "zh": "报道：若达不成协议 特朗普倾向于新年后打击伊朗"
-    },
-    {
-     "title": "权益类产品担当主力 年内新发基金规模突破万亿元大关",
-     "link": "http://fund.eastmoney.com/news/11246,202611233937009728.html",
-     "pubDate": "Mon, 23 Nov 2026 06:18:29 +0800",
-     "summary": "权益类产品担当主力 年内新发基金规模突破万亿元大关 年内新发基金规模日前已突破万亿元大关。从产品结构看，权益类基金是发行主力军，新模式浮动管理费基金大幅扩容，资产配置工具箱持续丰富。从最新动向看，基金新品依然在加速推出，200多只基金正在或即将发行，公募逆周期布局特征明显。与此同时，多家头部公募掌门人发声，看多中国资产。 年内新发基金规模突破万亿元 11月21日，5只基金发布基金合同生效公告。Choice数据显示，截至11月22日，年内共成立了1613只新基金，发行规模合计达到10001.11亿元。 从产品端布局看，权益类基金占据半壁江山。截至11月22日，年内共成立了1069只权益类基金，发",
-     "source": "东方财富股票",
-     "zh": "权益类产品担当主力 年内新发基金规模突破万亿元大关"
-    },
-    {
-     "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937005393.html",
-     "pubDate": "Mon, 23 Nov 2026 06:16:47 +0800",
-     "summary": "从大额分红承诺到密集回购增持，上市公司以“真金 白银 ”回馈投资者的动作持续不断。权威数据显示：今年四季度以来，沪深上市公司共新增披露334单回购计划，预计回购金额上限超过700亿元，新增披露近1200单回购进展；新增控股股东、实际控制人、董事、高管 增持计划 109单，预计增持金额上限近200亿元，新增披露股东增持进展近300单。 上市公司回报投资者的实际规模也在不断提升。今年前10个月，A股上市公司分红超过5000家次、金额近2.4万亿元，已超2025年全年。受访的机构人士认为，分红回购规模显著超过同期融资规模，标志着市场投融资生态加速转变。随着回报投资者的工具箱持续丰富，A股长期投资价值",
-     "source": "东方财富股票",
-     "zh": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变"
     },
     {
      "title": "House Democrats to start new Congress with largest majority this century",
@@ -2408,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "'Hunger Games' helps box office rebound amid GTA 6 fever"
-    },
-    {
-     "title": "Goldman watching for 3 conditions that could support a stock correction bottom",
-     "link": "https://seekingalpha.com/news/4675412-goldman-watching-for-3-conditions-that-could-support-a-stock-correction-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 14:38:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goldman watching for 3 conditions that could support a stock correction bottom"
     },
     {
      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
      "source": "Financial Times",
      "zh": "COP31 climate talks fail after stand-off over fossil fuels"
-    },
-    {
-     "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-     "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-     "pubDate": "Sun, 22 Nov 2026 13:25:47 GMT",
-     "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-     "source": "CNBC",
-     "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
     }
    ]
   },

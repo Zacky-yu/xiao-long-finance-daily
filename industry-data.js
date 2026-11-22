@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 05:24:55",
+ "generated_at": "2026/11/23 05:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -1797,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "A miniature San Francisco with live buses, planes and boats",
      "link": "https://smallsf.com/",
      "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 18 # Comments: 3",
      "source": "Hacker News",
      "zh": "A miniature San Francisco with live buses, planes and boats"
     },
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 19 # Comments: 4",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 37 # Comments: 12",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 43 # Comments: 14",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "What Happened to Silicon Valley?",
      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
      "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 145 # Comments: 47",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 168 # Comments: 59",
      "source": "Hacker News",
      "zh": "What Happened to Silicon Valley?"
     },
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
      "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 122 # Comments: 27",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 148 # Comments: 38",
      "source": "Hacker News",
      "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
     },
@@ -1848,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jakub Pachocki / OpenAI : OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains &nbsp; &mdash;&nbsp; - Difficulty of comparison across labs. &hellip; - Detachment from actionable evaluations. &",
      "source": "Techmeme",
      "zh": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)"
-    },
-    {
-     "title": "Was software just always too complex for humans?",
-     "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
-     "pubDate": "Sun, 22 Nov 2026 17:32:41 +0000",
-     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 19 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Was software just always too complex for humans?"
     },
     {
      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
@@ -2016,6 +2008,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
      "source": "IT之家",
      "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
+    },
+    {
+     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+     "link": "https://www.tmtpost.com/8214070.html",
+     "pubDate": "Sun, 22 Nov 2026 20:35:09 +0800",
+     "summary": "定义权比技术本身更稀缺",
+     "source": "钛媒体",
+     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Which solar panel type is best for your home?",
+     "link": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
+     "pubDate": "Sun, 22 Nov 2026 21:15:00 +0000",
+     "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+     "source": "Engadget",
+     "zh": "Which solar panel type is best for your home?"
+    },
     {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
      "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
      "source": "Engadget",
      "zh": "The advantages of using a USB-C docking station"
-    },
-    {
-     "title": "Want more control over your YouTube homepage? Try using custom feeds",
-     "link": "https://www.engadget.com/2319492/try-using-youtube-custom-feeds-control-homepage/",
-     "pubDate": "Sun, 22 Nov 2026 19:45:00 +0000",
-     "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.",
-     "source": "Engadget",
-     "zh": "Want more control over your YouTube homepage? Try using custom feeds"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",

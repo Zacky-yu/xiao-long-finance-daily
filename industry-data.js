@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 02:17:49",
+ "generated_at": "2026/11/23 02:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 \"avalanche\" of advances (Jakub Pachocki/OpenAI)",
+     "link": "https://www.techmeme.com/261122/p9#a261122p9",
+     "pubDate": "Sun, 22 Nov 2026 13:25:01 -0500",
+     "summary": "Jakub Pachocki / OpenAI : OpenAI shares its models' perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 &ldquo;avalanche&rdquo; of advances &nbsp; &mdash;&nbsp; - Difficulty of comparison across labs. &hellip; - Detachment from actionable eva",
+     "source": "Techmeme",
+     "zh": "OpenAI shares its models&apos; perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 \"avalanche\" of advances (Jakub Pachocki/OpenAI)"
+    },
+    {
      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
      "link": "https://www.techmeme.com/261122/p8#a261122p8",
      "pubDate": "Sun, 22 Nov 2026 12:15:01 -0500",
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 81 # Comments: 58",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 88 # Comments: 66",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
      "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
-     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 35 # Comments: 7",
+     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 40 # Comments: 8",
      "source": "Hacker News",
      "zh": "I joined the NTP Pool, but not with my Stratum 1 Pi"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Open Social Web Alliance",
      "link": "https://osw-alliance.net/en/",
      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 133 # Comments: 119",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 137 # Comments: 127",
      "source": "Hacker News",
      "zh": "Open Social Web Alliance"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
      "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
-     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 53 # Comments: 26",
+     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 61 # Comments: 31",
      "source": "Hacker News",
      "zh": "Backblaze customers worried of personal data sale/sharing after policy update"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 150 # Comments: 37",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 156 # Comments: 39",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
      "source": "WIRED",
      "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
-    },
-    {
-     "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
-     "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
-     "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
-     "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-     "source": "WIRED",
-     "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
     }
    ]
   },
@@ -2025,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
+     "link": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
+     "pubDate": "Sun, 22 Nov 2026 18:15:00 +0000",
+     "summary": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
+     "source": "Engadget",
+     "zh": "11 types of smart gadgets to consider pairing with your Ring doorbell"
+    },
+    {
+     "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
+     "link": "https://www.gsmarena.com/the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586.php",
+     "pubDate": "Sun, 22 Nov 2026 19:11:03 +0100",
+     "summary": "A few days ago, we saw a BIS certification listing for the vivo I2606. Since we already know the iQOO 16 family is coming to the country, likely at an unfortunately high price, we just put two and two together. vivo I2606 on GeekBench and BIS Well, now we have a GeekBench score from the I2606, provi",
+     "source": "GSMArena",
+     "zh": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4"
+    },
     {
      "title": "Don't throw away your old Xbox — Do this instead",
      "link": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
@@ -2072,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "An old GoPro may not be of much use as an action camera, but that doesn't mean it's destined for e-waste. Here are two ways to repurpose it.",
      "source": "Engadget",
      "zh": "You can reuse your old GoPro in a couple different ways"
-    },
-    {
-     "title": "Here's how to properly test your USB speed",
-     "link": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
-     "pubDate": "Sun, 22 Nov 2026 16:45:00 +0000",
-     "summary": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
-     "source": "Engadget",
-     "zh": "Here's how to properly test your USB speed"
     },
     {
      "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer"
     },
     {
-     "title": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak",
-     "link": "https://www.gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php",
-     "pubDate": "Sun, 22 Nov 2026 03:33:02 +0100",
-     "summary": "Vivo will apparently be flushing out its budget lineup in India soon with at least three new devices. These are not particularly exciting in any meaningful way, but might just offer a good value proposition. There are some clear similarities between the three. All of them are built around a 6.74-inc",
-     "source": "GSMArena",
-     "zh": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak"
-    },
-    {
      "title": "从深圳到上海，少数派的共创故事还在继续",
      "link": "https://sspai.com/post/119318",
      "pubDate": "Sun, 22 Nov 2026 09:05:44 +0800",
@@ -2273,6 +2273,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "These little-known investments could be among the best bargains in a crash",
+     "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 18:23:00 GMT",
+     "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+     "source": "MarketWatch",
+     "zh": "These little-known investments could be among the best bargains in a crash"
+    },
+    {
+     "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+     "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 18:11:01 GMT",
+     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president and key tech leaders call for former chief’s reinstatement",
+     "source": "Financial Times",
+     "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
+    },
     {
      "title": "Private equity has been buying up hospice centers — with striking consequences",
      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
@@ -2386,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘Never too late to start’: Practical investing advice from some of the top women in finance"
     },
     {
-     "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-     "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 16:10:00 GMT",
-     "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-     "source": "MarketWatch",
-     "zh": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
-    },
-    {
      "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",
      "link": "https://seekingalpha.com/news/4675408-dni-clayton-says-u-s-probing-alleged-chinese-spy-alice-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 10:53:57 -0500",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。 本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。 万亿芯",
      "source": "华尔街见闻",
      "zh": "为马斯克融资买GPU，高盛“秀操作”"
-    },
-    {
-     "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945576.html",
-     "pubDate": "Sun, 22 Nov 2026 19:51:00 +0800",
-     "summary": "创业板做市商制度如箭在弦。 11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（简称《做市业务细则》），向社会公开征求意见。 为什么引入做市商？这是深化创业板改革的重要举措，也是促进增强市场韧性、提升市场内在稳定性的重要机制。创业板致力于服务成长型创新创业企业，汇聚了大量新兴产业、未来产业及高新科技企业，随着市场包容性、适应性不断增强，创业板股票对流动性、稳定性、定价效率的需求也进一步提高。创业板引入做市商制度，是在深化投资端改革方面，壮大稳市力量、增强市场韧性、提升运行质量的重要机制安排。 那么，做市商制度到底能带来什么？五大亮点带你快速看懂。 亮点一：带来增量",
-     "source": "东方财富资讯",
-     "zh": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低"
     }
    ]
   },

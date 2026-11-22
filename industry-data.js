@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 10:54:34",
+ "generated_at": "2026/11/22 11:11:48",
  "recent_days": 7,
  "industries": [
   {
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:19:18 +0000",
      "summary": "The Fangchengbao Tai 9 has a foldable steering wheel that can hide itself away to make the car more comfortable when parked.",
      "source": "InsideEVs",
-     "zh": "比亚迪最新SUV可以在不需要时隐藏方向盘"
+     "zh": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It"
     },
     {
      "title": "What We Both Thought After Driving The Rivian R2",
@@ -879,7 +879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 18:00:00 -0600",
      "summary": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In i",
      "source": "OilPrice",
-     "zh": "人工智能热潮迫使全球电网大规模投资"
+     "zh": "AI Boom Forces Massive Investment in Power Grids Worldwide"
     },
     {
      "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
@@ -935,7 +935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
      "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
      "source": "CleanTechnica",
-     "zh": "欧洲的氢气价格为每公斤 5.70 欧元，工业买家的价格要低得多"
+     "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
     },
     {
      "title": "UK Races to Rewrite Nuclear Rules by 2027",
@@ -1079,7 +1079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 09:00:00 -0500",
      "summary": "A bipartisan bill that would make it easier to build energy infrastructure — both dirty and clean — has passed the Senate by a 62 to 33 vote. The sprawling Bipartisan American Affordability and Jobs Act would streamline permitting for energy and infrastructure projects by enacting significant change",
      "source": "Canary Media",
-     "zh": "参议院批准通过法案，促进清洁和肮脏能源的发展"
+     "zh": "Senate OKs permitting bill that would boost clean and dirty energy"
     },
     {
      "title": "Texas finalizes ERCOT CEO contract extension, pay raise tied to performance",
@@ -1183,7 +1183,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:10 +0000",
      "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
      "source": "STAT News",
-     "zh": "STAT+：MAHA的智囊团在坦克里吗？税务申报显示储备金较低"
+     "zh": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves"
     },
     {
      "title": "Will the first approved psychedelic become a blockbuster?",
@@ -1255,7 +1255,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 15:31:58 +0000",
      "summary": "An experimental antibody-drug conjugate from Merck has succeeded in another Phase 3 cancer study, potentially helping offset Keytruda's looming patent cliff. Merck said Friday morning that a pivotal trial testing sacituzumab ...",
      "source": "Endpoints News",
-     "zh": "默克公司在 sac-TMT 的 3 期临床试验中再次获胜，这次是在胃癌领域"
+     "zh": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer"
     },
     {
      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
@@ -1303,7 +1303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 12:17:00 -0500",
      "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
      "source": "BioPharma Dive",
-     "zh": "赛诺菲戈谢病药物获得 FDA 批准"
+     "zh": "Sanofi gains FDA clearance for Gaucher disease pill"
     },
     {
      "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
@@ -1343,7 +1343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 15:15:26 +0000",
      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
      "source": "Space.com",
-     "zh": "本周太空播客：第 237 集 — 深情告别"
+     "zh": "This Week In Space podcast: Episode 237 — A Fond Farewell"
     },
     {
      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
@@ -1431,7 +1431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
      "summary": "Atomic-6 built Space Armor to shield satellites from debris too small to track. Now, it's exploring whether the same tiles could protect astronauts on spacewalks. The post Atomic-6 Wants to Shield Astronauts Against Untrackable Debris appeared first on Payload .",
      "source": "Payload",
-     "zh": "Atomic-6 希望保护宇航员免受无法追踪的碎片的影响"
+     "zh": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris"
     },
     {
      "title": "RBC Signals Raises $10M to Commercialize New Comms Tech",
@@ -1471,7 +1471,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
      "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "Relativity 测试了 Terran R 第二阶段，在首次发射前完成了结构资格认证"
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1487,7 +1487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "为光学提供案例"
+     "zh": "Making the case for optical"
     },
     {
      "title": "HEO Unveils Insights Next SDA Tool",
@@ -1495,7 +1495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 11:53:58 +0000",
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
-     "zh": "HEO 推出 Insights Next SDA 工具"
+     "zh": "HEO Unveils Insights Next SDA Tool"
     },
     {
      "title": "Sophia Space Tests Orbital-Compute Software on Kepler Constellation",
@@ -1511,7 +1511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
-     "zh": "Flexell Space 与 ALATYR 签署谅解备忘录，探索轨道数据中心太阳能解决方案"
+     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
      "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
@@ -1615,7 +1615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "特朗普总统任命克尔斯滕·戴维斯为国家网络总监"
+     "zh": "President Trump Taps Kirsten Davies as National Cyber Director"
     },
     {
      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
@@ -1655,7 +1655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530",
      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions wher",
      "source": "The Hacker News",
-     "zh": "Signal 阻止 AI 代理通过 Android 和 iOS 上的屏幕截图读取私人聊天记录"
+     "zh": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
     },
     {
      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
@@ -1786,6 +1786,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？",
+     "link": "https://www.baijing.cn/question/638885",
+     "pubDate": "Sun, 22 Nov 2026 02:52:34 +0000",
+     "summary": "我们做北美短剧 App，iOS 内购加 Stripe 网页支付双通道，团队 12 人，月投放预算 8 万美元左右，主投 Meta 和 TikTok。起量阶段 CPI 控制在 4.2 美元还行，但首周付费率只有 1.8%，回本周期从 45 天拉长到 90 天，Stripe 那边 T+7 结算、App Store 是月结，现金流压得很紧。已经试过换前 3 集钩子、把付费墙从第 8 集提前到第 5 集、加 0.99 美元首充礼包，首周付费率只涨到 2.1%，回本没明显改善。现在卡在不知道是该继续磨素材拉 CTR，还是改订阅加金币的混合付费结构。想直接问：这个阶段判断优先级，你们看的是首周付费率还是 ",
+     "source": "白鲸出海",
+     "zh": "美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？"
+    },
+    {
+     "title": "算力中间商：卖时间的已上市，卖位置的正在被调查",
+     "link": "https://www.huxiu.com/article/4907449.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 10:51:47 +0800",
+     "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 两家算力中间商，同样是把英伟达的卡租出去，一家公司上了纳斯达克，另一家上了调查名单。 2025年3月28日，CoreWeave在纳斯达克上市，2024年营收19.2亿美元，微软一家占了62%。2025年6月24日，美国BIS的调查人员走进Megaspeed在新加坡的业务现场，做最终用途核查；同一天，新加坡警方约谈了它的CEO。 很多人把这种差别归结为拿卡能力的高下，或者合规运气的好坏。这两个解释都不够：这两家公司卖的东西根本不是同一种：一家卖的是时间，一家卖的是位置。 01中间商卖的不是卡，是两种转换 算力中间商不生产芯片，也不做",
+     "source": "虎嗅",
+     "zh": "算力中间商：卖时间的已上市，卖位置的正在被调查"
+    },
+    {
      "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
      "link": "https://www.ithome.com/1/030/550.htm",
      "pubDate": "Sun, 22 Nov 2026 02:39:52 GMT",
@@ -1834,12 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球"
     },
     {
-     "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+     "title": "Data Processing Incidents on Inference Providers",
      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
      "pubDate": "Sun, 22 Nov 2026 02:14:14 +0000",
-     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 18 # Comments: 4",
      "source": "Hacker News",
-     "zh": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention"
+     "zh": "Data Processing Incidents on Inference Providers"
     },
     {
      "title": "AI智能体为何会在相互聊天中自创语言",
@@ -1954,18 +1970,10 @@ window.INDUSTRY_DATA = {
      "zh": "越南直播基地搭建，8人团队排班撑不住三班倒，该先扩人还是先砍时段？"
     },
     {
-     "title": "AI硬件火了，歌尔呢？",
-     "link": "https://www.huxiu.com/article/4907438.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 08:57:29 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 这两年，AI眼镜、VR头显、智能穿戴，一个接一个往外冒。你去看科技公司的发布会，感觉消费电子又热闹起来了。 按理说，背后那些造硬件的公司应该挺高兴。产品越多，订单越多，生意不就越好做吗？ 前几天，我翻了翻歌尔股份的三季报，发现事情没这么简单。 这家公司给苹果、Meta等科技巨头做过不少硬件。前三季度，营收682.20亿元，只比去年多了一个亿出头；归母净利润26.19亿元，也就多了三千多万。 这么大一家公司，忙活九个月，收入和利润几乎原地踏步。 另一边，歌尔还在继续花钱。前三季度，买设备、建厂房等长期资产支出65.48亿元，比去年多了五成。 赶上AI",
-     "source": "虎嗅",
-     "zh": "AI硬件火了，歌尔呢？"
-    },
-    {
      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
      "link": "https://github.com/ItsNotRexed/Leonida",
      "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
-     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 15 # Comments: 3",
+     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 22 # Comments: 7",
      "source": "Hacker News",
      "zh": "Leonida – PC Recompilation of the Xbox Version of GTA 6"
     },
@@ -1997,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 37 # Comments: 15",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 42 # Comments: 19",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
     },
@@ -2013,17 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 71 # Comments: 7",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 74 # Comments: 9",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
-    },
-    {
-     "title": "Advice for the next 100 Rust GUIs",
-     "link": "https://linebender.org/blog/next-100-guis/",
-     "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 102 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "Advice for the next 100 Rust GUIs"
     }
    ]
   },
@@ -2159,7 +2159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 20:07:02 +0100",
      "summary": "Samsung’s strategy for the mid-range segment in the US left us scratching our heads – the Galaxy A57 launched at $550 for an 8/128GB unit, which later grew to $600 after a round of price hikes. That’s too much, why wouldn’t you just buy a Galaxy S25 FE instead? One reason is that availability was st",
      "source": "GSMArena",
-     "zh": "促销：三星 Galaxy S26 FE 在亚马逊黑色星期五促销期间终于降至合适的价格"
+     "zh": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale"
     },
     {
      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
@@ -2175,7 +2175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be ",
      "source": "9to5Google",
-     "zh": "Galaxy Z Fold 8 功能：您可以在可折叠设备上做什么"
+     "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2231,7 +2231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 11:57:20 +0000",
      "summary": "Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.",
      "source": "Android Authority",
-     "zh": "小心！ Galaxy Watch 7 黑色星期五 40% 折扣"
+     "zh": "Heads up! Galaxy Watch 7 is 40% off for Black Friday"
     },
     {
      "title": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale",
@@ -2239,7 +2239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:01:02 +0100",
      "summary": "Earlier this month, the Samsung Galaxy Z Fold8 Ultra dropped to £1,600 for the base 12/256GB model. During the week of Black Friday sales on Amazon UK, that same unit will cost you £100 less – and there are more perks to consider. Samsung Galaxy Z Fold8 Ultra We’re looking at a £400 discount compare",
      "source": "GSMArena",
-     "zh": "特惠：三星 Galaxy Z Fold8 Ultra 亚马逊英国黑色星期五促销最高立减 555 英镑"
+     "zh": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale"
     },
     {
      "title": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming",
@@ -2271,7 +2271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
      "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
      "source": "9to5Google",
-     "zh": "三星可能很快会复制 iPhone 的动态岛，但实际上看起来不错 [视频]"
+     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
     }
    ]
   },
@@ -2322,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施"
     },
     {
+     "title": "阿里20吉瓦目标松动，AI投入与回报赛跑",
+     "link": "http://www.eeo.com.cn/2026/1122/1099596.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:50:19 +0800",
+     "summary": "吴泳铭预计，下一财年，阿里云收入增速预计落在30%至45%区间；到2028自然年，云收入增速将重回50%以上。",
+     "source": "经济观察网",
+     "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
+    },
+    {
      "title": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应",
      "link": "http://stock.eastmoney.com/news/11219,202611223936874120.html",
      "pubDate": "Sun, 22 Nov 2026 09:50:10 +0800",
@@ -2362,12 +2370,36 @@ window.INDUSTRY_DATA = {
      "zh": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等"
     },
     {
+     "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
+     "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
+     "summary": "当妈后，要做情绪稳定的妈妈没错，但妈妈不是没有情绪，允许自己有情绪，适当表达情绪，才不会因为一件小事爆发。",
+     "source": "经济观察网",
+     "zh": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题"
+    },
+    {
+     "title": "为鸟而生，斯温侯在中国（下）",
+     "link": "http://www.eeo.com.cn/2026/1122/1099569.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:27:05 +0800",
+     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
+     "source": "经济观察网",
+     "zh": "为鸟而生，斯温侯在中国（下）"
+    },
+    {
      "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
      "link": "https://wallstreetcn.com/articles/3786442",
      "pubDate": "Sun, 22 Nov 2026 09:25:46 +0800",
      "summary": "史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯达克市值蒸发4万亿美元。市场动荡也波及Anthropic的主要竞争对手OpenAI——后者正推进新一轮估值达1.25万亿美元的巨额融资，并急于在明年登陆公开市场。 不过，接近Anthropic及主承销商的人士坚称此次IPO依然成功，强调公司",
      "source": "华尔街见闻",
      "zh": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力"
+    },
+    {
+     "title": "美股两次暴跌，资本在重估什么",
+     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
+     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
+     "source": "经济观察网",
+     "zh": "美股两次暴跌，资本在重估什么"
     },
     {
      "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
@@ -2383,7 +2415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
-     "zh": "我丈夫 64 岁高龄退休，很高兴，他认为我应该继续工作。他公平吗？"
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
     },
     {
      "title": "云南农商银行获批筹建，123家涉改机构将归入同一法人",
@@ -2426,12 +2458,20 @@ window.INDUSTRY_DATA = {
      "zh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责"
     },
     {
+     "title": "为鸟而生，斯温侯在中国（上）",
+     "link": "http://www.eeo.com.cn/2026/1122/1099527.shtml",
+     "pubDate": "Sun, 22 Nov 2026 08:37:43 +0800",
+     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
+     "source": "经济观察网",
+     "zh": "为鸟而生，斯温侯在中国（上）"
+    },
+    {
      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
      "summary": "“Hotel rooms can cost as much as $400 per night.”",
      "source": "MarketWatch",
-     "zh": "我的妻子正在资助她的家人去纽约旅行，这耗尽了我们的积蓄。我应该叫她停下来吗？"
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
     },
     {
      "title": "微导纳米、奥比中光火了！机构关注芯片等硬科技赛道",
@@ -2455,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
-     "zh": "我40多岁了。我是否应该接受较低的养老金以换取将我的丈夫或孩子指定为受益人？"
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2471,7 +2511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
-     "zh": "“这真是太脏了”：我哥哥搬去和生病的母亲住在一起，并关闭了她的银行账户。我能做些什么？"
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
     },
     {
      "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
@@ -2511,7 +2551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 10:09:46 EST",
      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
      "source": "ScienceDaily",
-     "zh": "时间可能比我们想象的要陌生得多。科学家有办法测试一下"
+     "zh": "Time may be far stranger than we realize. Scientists have a way to test it"
     },
     {
      "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
@@ -2519,7 +2559,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
      "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
      "source": "Live Science",
-     "zh": "2026 年冬季观星：今年冬季最佳观星景点（以及如何观看）"
+     "zh": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)"
     },
     {
      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
@@ -2575,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
      "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
      "source": "Science News",
-     "zh": "科学家如何从失败中学习？这位研究人员有线索"
+     "zh": "How do scientists learn from failure? This researcher has clues"
     },
     {
      "title": "How do tumors talk to nerves? This scientist is finding out",
@@ -2599,7 +2639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 10:00:00 +0000",
      "summary": "Wolves howl for a variety of reasons. But none of them are triggered by the sight of the moon.",
      "source": "Live Science",
-     "zh": "狼为什么会嚎叫？"
+     "zh": "Why do wolves howl?"
     },
     {
      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
@@ -2607,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:35:26 EST",
      "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help exp",
      "source": "ScienceDaily",
-     "zh": "微塑料可能比我们想象的更危险。科学家刚刚发现原因"
+     "zh": "Microplastics may be more dangerous than we thought. Scientists just discovered why"
     },
     {
      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
@@ -2615,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 16:00:00 -0500",
      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
      "source": "MIT News",
-     "zh": "问答：在多模式基础模型中实现更多类人交互和理解"
+     "zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
     },
     {
      "title": "This year’s El Niño is unlike any other on record",
@@ -2623,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:00:00 +0000",
      "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
      "source": "Science News",
-     "zh": "今年的厄尔尼诺现象与有记录以来的任何其他现象都不一样"
+     "zh": "This year’s El Niño is unlike any other on record"
     },
     {
      "title": "Watching as a giant star swallowed its neighbor and exploded",
@@ -2631,7 +2671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:41:17 +0000",
      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
      "source": "Ars Technica Science",
-     "zh": "看着一颗巨大的恒星吞噬了它的邻居并爆炸"
+     "zh": "Watching as a giant star swallowed its neighbor and exploded"
     },
     {
      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
@@ -2639,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:33 +0000",
      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
      "source": "Ars Technica Science",
-     "zh": "美国宇航局的新月球计划正在成形，但仍然存在一些大问题"
+     "zh": "NASA’s new Moon plan is taking shape, but some big questions remain"
     },
     {
      "title": "New approach enables physically consistent AI models of chaotic systems",
@@ -2655,7 +2695,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:21:50 +0000",
      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
      "source": "Ars Technica Science",
-     "zh": "出于恐惧和愤怒，陆军推迟引爆“具有灾难性危险”的叠氮化铅"
+     "zh": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger"
     },
     {
      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
@@ -2663,7 +2703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:50:41 +0000",
      "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "网络研究人员确定了“完美弹性”理论"
+     "zh": "Network Researchers Nail Down Theory of ‘Perfect Resilience’"
     },
     {
      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
@@ -2671,7 +2711,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
      "source": "Ars Technica Science",
-     "zh": "火箭报道：跌宕起伏的周末；斯托克庆祝发动机里程碑"
+     "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
     },
     {
      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
@@ -2679,7 +2719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 07:55:54 EST",
      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
      "source": "ScienceDaily",
-     "zh": "NASA 的 Voyager 1 号距离我们太远了，光需要 24 小时才能到达"
+     "zh": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it"
     },
     {
      "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
@@ -2695,7 +2735,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 17:15:00 -0500",
      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
      "source": "MIT News",
-     "zh": "人工智能帮助研究人员调查数千项医学研究如何共享代码"
+     "zh": "AI helps researchers investigate how thousands of medical studies share code"
     },
     {
      "title": "Ultrasound imaging without the gel",
@@ -2703,7 +2743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
      "summary": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
      "source": "MIT News",
-     "zh": "无需凝胶的超声成像"
+     "zh": "Ultrasound imaging without the gel"
     },
     {
      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
@@ -2711,7 +2751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 18:44:39 +0000",
      "summary": "Some models fare better, but all fail in similar ways.",
      "source": "Ars Technica Science",
-     "zh": "“你是对的”——如果你问的话，法学硕士会得到错误的气候信息"
+     "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
     },
     {
      "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
@@ -2719,7 +2759,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 12:00:00 -0500",
      "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
      "source": "MIT News",
-     "zh": "科学家创建了第一个成年脊椎动物的全身单细胞图谱"
+     "zh": "Scientists create the first whole-body single-cell atlas of an adult vertebrate"
     },
     {
      "title": "If tiny “primordial” black holes exist, here’s how we might find them",
@@ -2727,7 +2767,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 10:00:00 -0500",
      "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
      "source": "MIT News",
-     "zh": "如果存在微小的“原始”黑洞，我们可能会通过以下方式找到它们"
+     "zh": "If tiny “primordial” black holes exist, here’s how we might find them"
     }
    ]
   }

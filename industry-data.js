@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 21:32:00",
+ "generated_at": "2026/11/22 21:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -330,14 +330,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -346,52 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1410,6 +1410,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1778,6 +1786,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“XX时期”文学：人生还没大结局，我们却先起好了剧名",
+     "link": "https://www.huxiu.com/article/4907536.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 21:38:08 +0800",
+     "summary": "本文来自微信公众号： 知著网 ，作者：楼玉 「故事能让零散的生活获得秩序，但生活不必因此承担成为一个好故事的义务。」 >>> 恭喜你，你正在见证一篇爆款文章的诞生。 至少在阅读量跑出来之前，我们完全可以这么说。接下来，这篇推文有可能被广泛转发，也可能悄无声息地沉进海量公众号文章的信息流里。但就在发布的此时此刻，称它正处于“爆款前期”也没问题，对吧？这比承认它只是一篇前途未卜的普通文章更让人充满期待。 最近网友们也常常采用这样的说法，用“逆袭前夜”为当下命名。 (社交平台上的“xx时期”文案) 人们说自己正处于“哈利·波特寄宿时期”“甄嬛甘露寺时期”“朱元璋要饭时期”“范进没中举时期”.....",
+     "source": "虎嗅",
+     "zh": "“XX时期”文学：人生还没大结局，我们却先起好了剧名"
+    },
+    {
      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
      "link": "https://www.ithome.com/1/030/711.htm",
      "pubDate": "Sun, 22 Nov 2026 13:23:38 GMT",
@@ -1786,12 +1802,28 @@ window.INDUSTRY_DATA = {
      "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
     },
     {
+     "title": "理想自研电池，不只是换一家供应商",
+     "link": "https://www.huxiu.com/article/4907534.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 21:21:57 +0800",
+     "summary": "本文来自微信公众号： 师天浩观察 ，作者：001 理想i6年度改款，外界先看到的是780公里续航。市场更在意的，则是那块96千瓦时电池终于有了理想自己的名字。 10月28日，2026款理想i6上市，标配连山5C电池，后驱版CLTC综合续航780公里。在此之前的Power Day上，理想已经把电池、电驱、超充设备和超充网络放进了同一个“连山”体系。 放在几年前，一块电池是不是宁德时代出品，本身就是新车卖点。如今理想把供应商的名字往后放，把自己的名字放到台前。 这不是简单换供应商。理想仍然需要电池厂制造电芯，宁德时代也没有从所有现有车型中立即消失。变化在于，谁来决定电池怎么做、数据归谁、出了问题由",
+     "source": "虎嗅",
+     "zh": "理想自研电池，不只是换一家供应商"
+    },
+    {
      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
      "link": "https://www.ithome.com/1/030/710.htm",
      "pubDate": "Sun, 22 Nov 2026 13:17:56 GMT",
      "summary": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPhone 18 Pro Max 还要大 5",
      "source": "IT之家",
      "zh": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起"
+    },
+    {
+     "title": "Prisons get OK to jam contraband phones",
+     "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+     "pubDate": "Sun, 22 Nov 2026 13:00:52 +0000",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Prisons get OK to jam contraband phones"
     },
     {
      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
@@ -1840,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实后，切断了外部 IP 访问并停止了相关服务。韩电相关人士表示：“初步判断系外部攻",
      "source": "IT之家",
      "zh": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄"
-    },
-    {
-     "title": "AI is becoming a disaster for the climate",
-     "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-     "pubDate": "Sun, 22 Nov 2026 12:19:46 +0000",
-     "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 21 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "AI is becoming a disaster for the climate"
     },
     {
      "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
@@ -1906,28 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "人均150-250元的平价台州菜，正在接管一二线商场"
     },
     {
-     "title": "上市第二天就“差点破发”，Anthropic的“豪华投行承销团”面临压力",
-     "link": "https://www.huxiu.com/article/4907524.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:30:35 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力》 史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯达克市值蒸发4万亿美元。市场动荡也波及Anthropic的主要竞争对手OpenAI——后者正推进新一轮",
-     "source": "虎嗅",
-     "zh": "上市第二天就“差点破发”，Anthropic的“豪华投行承销团”面临压力"
-    },
-    {
      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
      "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
-    },
-    {
-     "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
-     "link": "https://www.huxiu.com/article/4907523.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《“别抱侥幸心理了，还有很多人没卖！”摩根大通劝退科技股》 美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比",
-     "source": "虎嗅",
-     "zh": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -2025,6 +2033,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?",
+     "link": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
+     "pubDate": "Sun, 22 Nov 2026 13:30:00 +0000",
+     "summary": "Apple Airpods Pro 3 have more features than the cheaper Airpods 5. Discover the differences in appearance, charging, battery life and capabilities.",
+     "source": "Engadget",
+     "zh": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?"
+    },
+    {
+     "title": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday",
+     "link": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
+     "pubDate": "Sun, 22 Nov 2026 13:25:47 +0000",
+     "summary": "Save $90 on TCL's 12.2-inch paper-like tablet, now $20 below the previous best price on Amazon.",
+     "source": "Android Authority",
+     "zh": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday"
+    },
     {
      "title": "10 rare game consoles that almost no one owns",
      "link": "https://www.engadget.com/2321882/rare-game-console-no-one-owns/",
@@ -2138,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "This is what can happen if too many devices are sharing your home network"
     },
     {
-     "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
-     "link": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
-     "pubDate": "Sun, 22 Nov 2026 00:30:00 +0000",
-     "summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
-     "source": "Engadget",
-     "zh": "Your PC's USB port can charge your phone, even when it's turned off — Here's how"
-    },
-    {
      "title": "Motorola Moto Tag 3 listed on Amazon",
      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
      "pubDate": "Sun, 22 Nov 2026 01:03:02 +0100",
@@ -2242,14 +2258,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sonos Beam (Gen 2) soundbar drops to a record-low $339"
     },
     {
-     "title": "Heads up! Galaxy Watch 7 is 40% off for Black Friday",
-     "link": "https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/",
-     "pubDate": "Sat, 21 Nov 2026 11:57:20 +0000",
-     "summary": "Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.",
-     "source": "Android Authority",
-     "zh": "Heads up! Galaxy Watch 7 is 40% off for Black Friday"
-    },
-    {
      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
      "link": "https://sspai.com/post/119291",
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0800",
@@ -2274,60 +2282,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Did Claude just prove the Riemann Hypothesis?",
+     "link": "https://seekingalpha.com/news/4675406-did-claude-just-prove-the-riemann-hypothesis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 08:30:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Did Claude just prove the Riemann Hypothesis?"
+    },
+    {
      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
      "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
      "pubDate": "Sun, 22 Nov 2026 13:25:47 GMT",
      "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
      "source": "CNBC",
      "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
-    },
-    {
-     "title": "宁泉资产宣布恢复新投资者申购",
-     "link": "http://finance.eastmoney.com/news/1350,202611223936949273.html",
-     "pubDate": "Sun, 22 Nov 2026 21:22:34 +0800",
-     "summary": "上海宁泉 资产管理 有限公司公告称，根据公司投资管理运作需要，公司作为管理人管理的私募基金，决定自2026年11月23日起，恢复接受公司旗下所有基金的新投资者“首次”申购申请。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "宁泉资产宣布恢复新投资者申购"
-    },
-    {
-     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
-     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
-     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
-     "source": "东方财富股票",
-     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
-    },
-    {
-     "title": "三连跌停后，002187，最新回应！",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936948913.html",
-     "pubDate": "Sun, 22 Nov 2026 21:14:00 +0800",
-     "summary": "近期， 广百股份 (002187)经历了一轮暴涨暴跌。 11月22日， 广百股份 再次披露异动公告，公司提示，其股票于2026年11月18日、11月19日、11月20日连续三个交易日收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动的情形。 广百股份 称，经公司自查并书面向控股股东、实际控制人核实，截至公告披露日，确认不存在应披露而未披露的重要信息或重大事项。 近期，广百股份先是连续多个交易日涨停，后又连续多个交易日跌停。根据Wind数据，11月12日、13日、16日，广百股份连续3个交易日涨停，11月17日也大涨近6%。其间，公司发布异动公告，称不存在应披露而未披露的重要信息或重大事项。",
-     "source": "东方财富股票",
-     "zh": "三连跌停后，002187，最新回应！"
-    },
-    {
-     "title": "雾芯科技2026年第三季度净营收同比增长近70%，海外收入占比86.5%",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936949029.html",
-     "pubDate": "Sun, 22 Nov 2026 21:12:00 +0800",
-     "summary": "近日， 雾芯科技 公布2026年第三季度未经审计的财报。财报显示， 雾芯科技 2026年第三季度的净营收为19.17亿元，同比增长69.70%，其中海外市场收入占比达86.5%，主要得益于2026年7月新收购的欧洲实体并表。 雾芯科技 创始人、董事长兼CEO汪莹表示，2026年第三季度是雾芯科技发展历程中的关键转折点，完成了对新收购的欧洲分销平台的整合，进一步拓宽了全球业务布局，可信赖的品牌形象已深深植入成年消费者的心中，且已构建起全球产品创新、供应链执行及直达终端渠道的端到端 综合 能力。 雾芯科技通过将这些核心优势与本地化专业团队、开放的多品牌生态理念相结合，正在获取更敏锐的零售洞察，从而",
-     "source": "东方财富股票",
-     "zh": "雾芯科技2026年第三季度净营收同比增长近70%，海外收入占比86.5%"
-    },
-    {
-     "title": "因违规使用募集资金等 逸飞激光收湖北证监局警示函",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936948511.html",
-     "pubDate": "Sun, 22 Nov 2026 21:09:39 +0800",
-     "summary": "《科创板日报》11月22日讯（记者黄修眉） 逸飞激光 今日（11月22日）晚间公告称，因存在募集资金违规使用，定期报告披露不准确，公司成本费用核算、支付不规范，关联方及关联交易披露不及时等问题，公司收到湖北证监局警示函。 逸飞激光 及相关责任人吴轩、王树、曹卫斌被采取出具警示函的行政监管措施，公司表示已全面完成整改。 其中， 违规使用募集资金 方面， 逸飞激光 在“ 锂 电激光智造装备三期基地项目”中，违规将2800万元募投资金出借给7家公司。截至2025年7月， 违规使用的募集资金已归还至公司募集资金专户。 定期报告披露不准确 方面，2023年度，逸飞激光与5家公司开展的设备销售业务中，相关",
-     "source": "东方财富股票",
-     "zh": "因违规使用募集资金等 逸飞激光收湖北证监局警示函"
-    },
-    {
-     "title": "周末利好，机构最新研判来了",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936948619.html",
-     "pubDate": "Sun, 22 Nov 2026 21:08:00 +0800",
-     "summary": "展望A股后市，业内机构建议，紧盯微观流动性变化，同时关注政策出台情况。在具体配置上，以防御为先、重视低波红利资产成为机构的共识，建议关注估值处于低位且基本面预期改善的方向、部分内需与顺周期板块配置价值。 机构后市投资观点 东吴证券 ：寻找中长线逻辑确定性更强的资产 结构上需要寻找一些中长线逻辑确定性更强的资产，建议关注三条主线：一是AI产业链方向，关注国产芯片产业链，其中制造端优于设计端；二是估值处于低位且基本面预期改善的方向，如 军工 等；三是盈利相对稳定的高股息、高自由现金流的红利资产。 中信建投 ：防御为先，静待转机 后续建议紧盯微观流动性的变化，同时关注政策出台情况。配置上以防御为先，",
-     "source": "东方财富股票",
-     "zh": "周末利好，机构最新研判来了"
     },
     {
      "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
@@ -2506,12 +2474,52 @@ window.INDUSTRY_DATA = {
      "zh": "以下是周一开盘前的主要财报"
     },
     {
-     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
-     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "Alice Huang’s links to the chip underworld",
+     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
+     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+     "source": "Financial Times",
+     "zh": "Alice Huang’s links to the chip underworld"
+    },
+    {
+     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
+     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
+     "summary": "This would make the second recent intrusion into the FBI system.",
+     "source": "CNBC",
+     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
+    },
+    {
+     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
+     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+     "source": "CNBC",
+     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
+    },
+    {
+     "title": "Tech outages are fueling a new doomsday economy",
+     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+     "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
+     "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+     "source": "CNBC",
+     "zh": "Tech outages are fueling a new doomsday economy"
     }
    ]
   },

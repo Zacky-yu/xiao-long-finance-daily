@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 19:31:54",
+ "generated_at": "2026/11/22 19:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -1410,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1466,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1514,14 +1498,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1560,6 +1536,22 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1786,6 +1778,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "人均150-250元的平价台州菜，正在接管一二线商场",
+     "link": "https://www.huxiu.com/article/4907526.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:39:26 +0800",
+     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：洪君 一批人均150-250元的台州菜品牌，开始跨城扩张。 本文为红餐系列策划“地方菜的黄金时代”第3篇。 一批人均150-250元的“新荣记平替”，正在成为新的商场“流量王”。 新荣记用20年时间，把台州菜的天花板顶到人均800元、93颗米其林星的高度，现在，天花板之下的巨大空间，正在被一批新品牌以惊人的速度填满。 宁家十職、樾鲜、锦府园、条态小馆……它们卖着家烧黄鱼、沙蒜豆面、黄金脆带鱼等台州招牌菜，人均不到新荣记的一半，掀起了一股台州菜热潮。 人均150-250元，“新荣记平替”走红 周五18点，北京国贸商城，“宁家十職”门口的等位",
+     "source": "虎嗅",
+     "zh": "人均150-250元的平价台州菜，正在接管一二线商场"
+    },
+    {
+     "title": "上市第二天就“差点破发”，Anthropic的“豪华投行承销团”面临压力",
+     "link": "https://www.huxiu.com/article/4907524.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:30:35 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力》 史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯达克市值蒸发4万亿美元。市场动荡也波及Anthropic的主要竞争对手OpenAI——后者正推进新一轮",
+     "source": "虎嗅",
+     "zh": "上市第二天就“差点破发”，Anthropic的“豪华投行承销团”面临压力"
+    },
+    {
+     "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+     "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+     "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
+     "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+     "source": "WIRED",
+     "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
+    },
+    {
+     "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
+     "link": "https://www.huxiu.com/article/4907523.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《“别抱侥幸心理了，还有很多人没卖！”摩根大通劝退科技股》 美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比",
+     "source": "虎嗅",
+     "zh": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股"
+    },
+    {
+     "title": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的",
+     "link": "https://www.huxiu.com/article/4907522.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋 11月21日，开源形式化验证社区Lean与Mathlib发布联合声明，确认Anthropic数学家Levent Alpöge对黎曼猜想的证明成立。两家机构联合背书称： “完全有信心Alpöge对黎曼猜想的证明是正确的”。 11月20日，即Anthropic上市次日，Alpöge宣布与AI模型Claude合作找到了黎曼猜想及广义黎曼猜想的证明方法，并公开逾1700万行Lean源码。 因超过25万页的文字版证明难以阅读而未公开，加之宣布时点紧贴IPO，外界一度对其真伪与商业动机存疑，预测平台上的相关赔率也反映出市场分歧。 24小时后，Lean社区用",
+     "source": "虎嗅",
+     "zh": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的"
+    },
+    {
+     "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+     "link": "https://www.ithome.com/1/030/699.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:24:43 GMT",
+     "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 Transformer 模型。 在 486 电脑时代，普通 PC 格式化软盘的存储容量还不到 147.5 万字节，因此想要在如此有限的空间内运行现代 AI 软件",
+     "source": "IT之家",
+     "zh": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI"
+    },
+    {
+     "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+     "link": "https://www.ithome.com/1/030/698.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:20:07 GMT",
+     "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是在供应链紧张与资料中心供电受限下所做的调整 。 另据韩媒 Chosun Biz ",
+     "source": "IT之家",
+     "zh": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗"
+    },
+    {
+     "title": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速",
+     "link": "https://www.ithome.com/1/030/697.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:18:30 GMT",
+     "summary": "IT之家 11 月 22 日消息，开发商 Supernova Games Studios 宣布旗下《神力科莎：拉力（Assetto Corsa Rally）》迎来 0.7 版本更新，新增瑞典拉力赛：包含 2 条独具特色的特殊赛段、14 种赛段布局，以及超过 30 公里经过高精度激光扫描测绘的雪地赛道。 此外，本次更新还加入 1986 款 B 组蓝旗亚 Delta S4、由 Italtecnica 打造的 2021 款蓝旗亚 Delta S4 Evo2，以及 4 个全新赛事分组，共计 48 场全新赛事。 价格方面，以 Steam 国区为例，本作定价为 128 元，8 折后到手价低至 102.4 ",
+     "source": "IT之家",
+     "zh": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速"
+    },
+    {
      "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
      "link": "https://www.ithome.com/1/030/696.htm",
      "pubDate": "Sun, 22 Nov 2026 11:13:03 GMT",
@@ -1808,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 上海市民生活指南 ，编辑：顾筝/，作者：徐妍斐 今年以来，崇明地铁的消息隔三差五就会上一次热搜。 进博会期间，又有一批新进展披露出来。紧接着，配有黄色内饰和弧形双人座的“紫金战车”车厢内部图在网上传开，社交平台一下子热闹了。 崇明岛要结束没有地铁的历史了。 对于大多数上海人来说，这意味着去崇明玩更方便。但对于另一群人而言，这条43公里长的地下轨道，直接关系到他们每天睁开眼后的第一件事——怎么跨过长江去上班。 在地铁22号线通车前夕，我们找了几个每天在崇明和上海市区之间往返的人聊了聊。 01 每天早上5点50分，天还没亮透，80后陈女士和丈夫陈先生已经坐进自家的电动汽车，准",
      "source": "虎嗅",
      "zh": "崇明通地铁后，跨岛上班会划算吗？"
-    },
-    {
-     "title": "老黄下课余震：远程算力被卡，阿里云还撑得住高增长吗？",
-     "link": "https://www.huxiu.com/article/4907514.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:08:10 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 11月12日，黄仁勋在丑闻中辞去英伟达CEO等职务。海豚君在此前的快评中已提到，换帅只是发令枪，背后可能是为限制中国远程使用美国算力的法规扫清障碍。 随后事态果然加速：11月16日，美国商务部BIS发布远程访问新规，基本堵上中国企业经海外数据中心租用英伟达算力的口子，《远程访问安全法案》（RASA）和《AI Overwatch Act》也在推进，全面卡死中国企业获得高性能AI芯片的意图已很明显。 恰好受冲击最大的阿里今晚将发布财报，海豚君赶在财报前，以阿里为例做个定量测算：若BIS新规全面落地，对国内云计算和AI模型公司的影响到底有多大。 一、新",
-     "source": "虎嗅",
-     "zh": "老黄下课余震：远程算力被卡，阿里云还撑得住高增长吗？"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -1848,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。",
      "source": "钛媒体",
      "zh": "拆解大厂财报：谁最舍得为AI花钱？"
-    },
-    {
-     "title": "两年两起事故，香港医院为何接连切错卵巢？",
-     "link": "https://www.huxiu.com/article/4907513.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:03:18 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：医研堂堂主 11月17日，香港中文大学医院公开承认，一名45岁女性患者的双侧卵巢被误切。 患者原本接受的是子宫及双侧输卵管切除术，术前明确要求保留卵巢，手术同意书上也写得清清楚楚。 手术前，医生和护士还按规定完成了核对。 结果，卵巢还是没了。 直到护士检查取出的手术标本，才发现两个本该留在患者体内的卵巢，已经被一并切除。 翻查香港医院管理局此前的调查报告，2024年2月，屯门医院也曾为一名女性切除子宫、卵巢、输卵管及盆腔淋巴组织。 这名患者原本被诊断患有子宫内膜癌。术后病理检查却没有找到癌细胞。医院最终查明，她的活检样本混入了另一名癌症患者的组织。 两",
-     "source": "虎嗅",
-     "zh": "两年两起事故，香港医院为何接连切错卵巢？"
     },
     {
      "title": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年",
@@ -1898,30 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "深蓝汽车首家品牌中心在重庆开业，面积超 4000 平方米"
     },
     {
-     "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
-     "link": "https://www.ithome.com/1/030/692.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:54:53 GMT",
-     "summary": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、闲鱼 CEO 谌伟业透露，过去一年已有超 150 万用户在闲鱼获得持续稳定的收入，其中约四成是 00 后和大学生。随着 App 向智能体演进，闲鱼买卖双端智",
-     "source": "IT之家",
-     "zh": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力"
-    },
-    {
-     "title": "《GTA 6》里连刷手机都能玩出真实感：虚拟社交平台让玩家沉迷“无脑刷屏”",
-     "link": "https://www.ithome.com/1/030/691.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:53:30 GMT",
-     "summary": "IT之家 11 月 22 日消息，偷车、抢劫累了怎么办？不妨停下来刷会儿手机，放松一下。 Rockstar Games 于周四正式推出《GTA 6》，这是《GTA》犯罪题材系列时隔 13 年迎来的首部全面重启作品。在游戏中，玩家可以打开 iFruit 手机里类似 Instagram 的社交应用 Snapmatic，浏览一个比现实互联网更加大胆、内容也更加露骨的虚拟社交网络。 在首次直播体验游戏时，YouTube 主播兼 Twitch 主播安德烈 · 雷贝洛-苏亚雷斯（Andre Rebelo-Soares，网名 TypicalGamer）一边浏览社交平台，一边说道：“他睡觉前还得刷一会儿手机。",
-     "source": "IT之家",
-     "zh": "《GTA 6》里连刷手机都能玩出真实感：虚拟社交平台让玩家沉迷“无脑刷屏”"
-    },
-    {
-     "title": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元",
-     "link": "https://www.ithome.com/1/030/690.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:50:36 GMT",
-     "summary": "IT之家 11 月 22 日消息，开发商 Untitled Studio 宣布旗下模拟游戏《铁匠大师（Blacksmith Master）》正式发售，本作背景设置在中世纪，玩家可以在游戏中体验锻造武器、盔甲、工具和厨具等环节。 价格方面，以 Steam 国区为例， 游戏原价 59 元，首发 5 折后低至 29.5 元 ，优惠将于 12 月 4 日结束，IT之家附游戏商品页（ https://store.steampowered.com/app/2292800/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88_Blacksmith_Master/ ）。 在一座小小的中世纪",
-     "source": "IT之家",
-     "zh": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元"
-    },
-    {
      "title": "地球捕获了一颗迷你月球",
      "link": "https://www.solidot.org/story?sid=85957",
      "pubDate": "Sun, 22 Nov 2026 18:31:07 +0800",
@@ -1936,22 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
      "source": "WIRED",
      "zh": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die"
-    },
-    {
-     "title": "“Deepseek，慌啥子嘛”",
-     "link": "https://www.huxiu.com/article/4907508.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 18:30:00 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：蒲凡，头图来自：AI生成 &ldquo;慌啥子嘛&rdquo;这句话最近被赵本山唱火了，但很快就吵了起来。正方认为这是一首安抚人心的歌，劝人们放慢脚步，给自己留点容错空间，&ldquo;不必事事追求完美&rdquo;，很治愈&mdash;&mdash;尤其是赵本山这位闯了几十年江湖的老人说出这句话，更有说服力；反方认为这首歌太不接地气，不懂人间疾苦，很多人光是维持体面生活就已经拼尽全力，根本没有办法&ldquo;不慌&rdquo;&mdash;&mdash;尤其是赵本山这位早年买过私人飞机、玩过中国足球、过上富裕生活的成功人士说出这句话，更显得刺激。 乍看",
-     "source": "虎嗅",
-     "zh": "“Deepseek，慌啥子嘛”"
-    },
-    {
-     "title": "Anthropic伪人公司",
-     "link": "https://www.huxiu.com/article/4907497.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 18:20:07 +0800",
-     "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy，头图来自：AI生成 那时候有伟人在地上，后来神的儿子们和人的女子们交合生子；那就是上古英武有名的人。 /《创世记》6章4节 北京时间11月19日晚上10点半，Anthropic在纳斯达克敲钟。 镜头里站着八个人，身上别着像素螃蟹吉祥物Clawd的徽章。Dario Amodei低头念完一张讲稿，宣称公司&ldquo;不会向商业或政治压力低头&rdquo;。钟声落定，他举起双手，掌心朝上笑了起来，身旁的人一齐鼓掌。 视频传到社交媒体上，评论区反复冒出同一个词，伪人。笑不像笑，鼓掌不像鼓掌，连站在台上的姿态都透着一股说不清的别扭。 伪人",
-     "source": "虎嗅",
-     "zh": "Anthropic伪人公司"
     },
     {
      "title": "丰田尼桑本田同意标准化零部件以降低成本",
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
      "link": "https://arxiv.org/abs/2606.14068",
      "pubDate": "Sun, 22 Nov 2026 09:18:36 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 161 # Comments: 210",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 172 # Comments: 228",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     },
@@ -2016,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "做户外储能配件独立站，主攻南非，团队6人，月广告预算约8万人民币，用Shopify+PayFast收款。从深圳备货走德班港海运，头程平均38-42天，约堡本地派送用The Courier Guy，偏远地区妥投要7-9天。现在退货率18%，一半是等太久主动取消，另一半是到货后尺码/型号不符。试过把爆款提前备到约堡第三方仓，但压了30多万库存，动销慢的SKU又占仓租。卡在备货深度和时效的平衡上：是继续加海外仓SKU，还是砍长尾只做空运补货？这个取舍按什么标准定？",
      "source": "白鲸出海",
      "zh": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？"
-    },
-    {
-     "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
-     "link": "https://www.baijing.cn/question/638898",
-     "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
-     "summary": "团队 8 人，其中能投在获客上的只有 2 个半人，产品是面向北美中小企业的协作类 SaaS，刚过 PMF 进入起量阶段。目前尝试过 Product Hunt 首发、SEO 内容站和 LinkedIn 外呼三条线：PH 带来约 400 个注册但两周后留存不到 8%，SEO 三个月只排上 20 多个长尾词，外呼每周 150 封回复率 3% 左右。人手就这么多，每条线都做等于每条线都做不深，现在卡在不知道该砍掉哪条、把仅有的 2 个人压在哪个渠道上。想直接问：在这个人力约束下，你们判断渠道优先级的硬标准是什么？",
-     "source": "白鲸出海",
-     "zh": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？"
     }
    ]
   },
@@ -2282,51 +2274,27 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+     "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+     "pubDate": "Sun, 22 Nov 2026 11:32:52 GMT",
+     "summary": "UK data centre operator pauses hiring for all but critical roles",
+     "source": "Financial Times",
+     "zh": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO"
+    },
+    {
      "title": "中国结算：暂免收取部分债券登记结算费用",
      "link": "http://finance.eastmoney.com/news/1345,202611223936928656.html",
      "pubDate": "Sun, 22 Nov 2026 19:13:04 +0800",
      "summary": "中国结算关于暂免收取部分债券登记结算费用的通知 各市场参与主体： 为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎回回售手续费。 二、自2027年1月1日起至2028年12月31日，继续暂免收取民营企业公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "中国结算：暂免收取部分债券登记结算费用"
-    },
-    {
-     "title": "欧盟及成员国反对安塔利亚气候协定",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936928567.html",
-     "pubDate": "Sun, 22 Nov 2026 19:09:00 +0800",
-     "summary": "欧盟代表团发布声明表示，欧盟代表团对最终的COP31声明决定草案深感失望，我们不会支持一项甚至没有提及化石燃料的总体决定。我们不会接受一场为化石燃料进行“漂绿”的联合国气候变化大会，提交给我们的草案根本没有解决我们面临的气候紧急状况。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟及成员国反对安塔利亚气候协定"
-    },
-    {
-     "title": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制",
-     "link": "http://stock.eastmoney.com/news/1611,202611223936928278.html",
-     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
-     "summary": "知情人士称， Anthropic 曾要求对部分 银行 实施为期六个月的限制，禁止他们在此（IPO）期间为包括OpenAI和DeepSeek在内的竞争对手提供服务。 Anthropic 要求部分参与其IPO的投行将交易团队人数限制在4名资深 银行 家以内。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制"
-    },
-    {
-     "title": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响",
-     "link": "http://stock.eastmoney.com/news/1611,202611223936928147.html",
-     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
-     "summary": "知情人士称， 银行 私下抱怨， Anthropic 的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响"
-    },
-    {
-     "title": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936927970.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
-     "summary": "11月22日， 荣盛发展 （SZ002146，股价0.96元，市值41.74亿元）披露《关于公司股票存在可能因股价低于面值被终止上市的风险提示公告》，公司股票11月20日收盘价为0.96元/股，自2026年11月20日起收盘价首次低于1元，公司因此提示，股票可能因股价低于面值被终止上市。 值得注意的是，11月20日， 荣盛发展 收盘报0.96元/股，跌5.88%，为11月17日首次跌破1元（收0.90元、跌停）、11月19日短暂回升至1.02元后的再度跌破。公司再次发布面值退市风险提示，根据规则，连续低于1元的交易日自11月20日重新起算。 二级市场上， 荣盛发展 股价年内总体呈震荡下行态势，",
-     "source": "东方财富股票",
-     "zh": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成"
     },
     {
      "title": "上交所组合式推出新一批降费措施 助力激发市场主体活力",
      "link": "http://finance.eastmoney.com/news/1345,202611223936927660.html",
      "pubDate": "Sun, 22 Nov 2026 19:05:34 +0800",
      "summary": "11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。对上市公司，全面免收上市费、上证e服务、上证e投票等",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "上交所组合式推出新一批降费措施 助力激发市场主体活力"
     },
     {
@@ -2442,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tech suppliers raise AI server prices up to 45% months after deals are signed"
     },
     {
-     "title": "Amazon’s AI resistance: workers ready for battle over data centres",
-     "link": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
-     "summary": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
-     "source": "Financial Times",
-     "zh": "Amazon’s AI resistance: workers ready for battle over data centres"
-    },
-    {
      "title": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
      "link": "https://wallstreetcn.com/articles/3786447",
      "pubDate": "Sun, 22 Nov 2026 11:56:21 +0800",
@@ -2520,6 +2480,38 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+    },
+    {
+     "title": "Trump to work with Dems to cap credit card interest rates",
+     "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:34:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump to work with Dems to cap credit card interest rates"
+    },
+    {
+     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
     }
    ]
   },

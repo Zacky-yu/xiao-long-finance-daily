@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 03:12:07",
+ "generated_at": "2026/11/23 03:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -47,22 +47,6 @@
      "summary": "智东西11月22日报道，11月20日，2026年国际超级计算大会（SC26）传来喜讯：依托全国产十万卡AI超集群曙光8000开展的两项科研应用成果杀进世界级舞台，一项斩获ACM戈登·贝尔奖，另一项入围戈登·贝尔气候建模奖决赛。 从微观世界的电子运动，到宏观尺度的全球天气，两项成果指向不同的科学问题，却共同折射出一个现实：超大规模异构计算系统的价值，最终要由它支撑了什么应用、解决了什么难题来检验。 向上，追问科学前沿的计算极限；向下，回应产业与民生的现实需求——这正是中国异构计算“顶天立地”的含义，也是这份答卷的含金量所在。 一、世界级成果！从计算极限走向科学发现 今年7月，首个采用原生超智融合",
      "source": "智东西",
      "zh": "中国异构计算何以“顶天立地”？"
-    },
-    {
-     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-     "link": "https://www.qbitai.com/2026/11/511904.html",
-     "pubDate": "Sun, 22 Nov 2026 06:21:47 +0000",
-     "summary": "用葡萄糖发电控制血糖。",
-     "source": "量子位",
-     "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
-    },
-    {
-     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-     "link": "https://www.qbitai.com/2026/11/511870.html",
-     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
     },
     {
      "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
@@ -161,22 +145,6 @@
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
-     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-     "link": "https://www.qbitai.com/2026/11/511855.html",
-     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
-    },
-    {
-     "title": "中国计算，走出新的登峰之路",
-     "link": "https://www.qbitai.com/2026/11/511849.html",
-     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "中国计算，走出新的登峰之路"
-    },
-    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -191,22 +159,6 @@
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-     "link": "https://www.qbitai.com/2026/11/511841.html",
-     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
-    },
-    {
-     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
-     "link": "https://www.qbitai.com/2026/11/511830.html",
-     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -247,6 +199,54 @@
      "summary": "",
      "source": "新智元",
      "zh": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆"
+    },
+    {
+     "title": "全国产！超算「诺奖」5年再回中国队",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=1&sn=d46f87fe5c3d67fafd150d6db59c8bad",
+     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "全国产！超算「诺奖」5年再回中国队"
+    },
+    {
+     "title": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元",
+     "link": "https://zhidx.com/p/613052.html",
+     "pubDate": "Sat, 21 Nov 2026 11:03:40 +0800",
+     "summary": "智东西 编译 | ZeR0 编辑 | 漠影 智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%， Anthropic 暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，Meta暴跌6%，亚马逊暴跌4%。 芯片股也愁容惨淡。美国芯片股费城半导体指数周五下跌10.7%，自6月份峰值以来累计跌幅达43%。闪迪暴跌16%，美光暴跌14%，AMD暴跌13%，西部数据、博通、Marvell暴跌12%，应用材料暴跌11%，泛林集团暴跌10%，台积电暴跌9%，英特尔、德州仪器暴跌8%，阿斯麦暴",
+     "source": "智东西",
+     "zh": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元"
+    },
+    {
+     "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
+     "link": "https://zhidx.com/p/613053.html",
+     "pubDate": "Sat, 21 Nov 2026 09:56:30 +0800",
+     "summary": "智东西 编译 | 李水青 编辑 | 心缘 智东西11月21日消息，今日，由前OpenAI CTO 米拉·穆拉蒂（Mira Murati） 联合创办的AI独角兽Thinking Machines Lab（简称：TML）推出一个新混合专家模型—— Inkling 2 Mini 。该模型总参数达 27B ，激活参数达 3.4B ，每个token有 5.4B 权重激活值以应对 循环 ，兼顾小体积、快速度和较强性能，可在 笔记本 电脑上运行。 穆拉蒂在社交平台X上称：“Inkling 2 Mini是一款可在笔记本上运行的 循环Transformer 。循环机制让模型 思考更多、输出更少 。在当前这个规模",
+     "source": "智东西",
+     "zh": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！"
+    },
+    {
+     "title": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考",
+     "link": "https://zhidx.com/p/612973.html",
+     "pubDate": "Sat, 21 Nov 2026 08:30:07 +0800",
+     "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit AMA活动（图源：X） 此次AMA处于一个非常有趣的时间点。 就在昨天，腾讯刚刚 开放旗舰模型Hy4的权重 ，并发布了模型安全评估卡片（System Card）。此前几天，腾讯还推出了主打低成本、高效率的Hy4 flash，接连两款模型的发布，让腾讯混元的技术路线成为社区关注的焦点。 与此同时，AI行业的竞争也在发生变化",
+     "source": "智东西",
+     "zh": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考"
+    },
+    {
+     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+     "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+     "pubDate": "Fri, 20 Nov 2026 23:30:30 +0000",
+     "summary": "Generative AI",
+     "source": "Google Research",
+     "zh": "How Google Duplex evolved to also call businesses for you in Gemini"
+    },
+    {
+     "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
+     "link": "https://zhidx.com/p/612978.html",
+     "pubDate": "Sat, 21 Nov 2026 07:12:50 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 李水青 智东西11月21日报道，昨夜，Anthropic数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站上发布声明， 宣称自己与Claude合作，找到了黎曼猜想及其更强版本——广义黎曼猜想（GRH）的证明方法。 ▲阿尔珀格发布的声明（图源：其个人主页） 这项困扰数学界 167年 的难题，可能迎来重大突破。 2006年菲尔兹奖得主陶哲轩 也在个人博客发文，关注这一进展。 他称，初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果。目前，数学界正在尝试验证证明的正确性，并梳理其中的核心思路。他预计，这一过程还需要一段时间。 ▲陶",
+     "source": "智东西",
+     "zh": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！"
     }
    ]
   },
@@ -353,14 +353,6 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -369,52 +361,12 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -495,6 +447,54 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1777,6 +1777,14 @@
    "total": 18,
    "items": [
     {
+     "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
+     "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+     "pubDate": "Sun, 22 Nov 2026 19:10:38 +0000",
+     "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 12 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "\"A government that 'gets it'\": Canada recommits to federal funding for news"
+    },
+    {
      "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
      "link": "https://www.techmeme.com/261122/p9#a261122p9",
      "pubDate": "Sun, 22 Nov 2026 13:25:01 -0500",
@@ -1836,7 +1844,7 @@
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 104 # Comments: 81",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 113 # Comments: 97",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
     },
@@ -1844,7 +1852,7 @@
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
      "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
-     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 53 # Comments: 10",
+     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 59 # Comments: 17",
      "source": "Hacker News",
      "zh": "I joined the NTP Pool, but not with my Stratum 1 Pi"
     },
@@ -1857,20 +1865,20 @@
      "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
     },
     {
+     "title": "Fascism and Monopoly",
+     "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+     "pubDate": "Sun, 22 Nov 2026 15:25:29 +0000",
+     "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/ Comments URL: https://news.ycombinator.com/item?id=50600521 Points: 16 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Fascism and Monopoly"
+    },
+    {
      "title": "Open Social Web Alliance",
      "link": "https://osw-alliance.net/en/",
      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 146 # Comments: 145",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 154 # Comments: 156",
      "source": "Hacker News",
      "zh": "Open Social Web Alliance"
-    },
-    {
-     "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-     "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-     "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
-     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 71 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "Backblaze customers worried of personal data sale/sharing after policy update"
     },
     {
      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
@@ -1969,14 +1977,6 @@
      "zh": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%"
     },
     {
-     "title": "Show HN: I built a game where you are an LLM's subagent",
-     "link": "https://github.com/gulivan/worker755",
-     "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 169 # Comments: 43",
-     "source": "Hacker News",
-     "zh": "Show HN: I built a game where you are an LLM's subagent"
-    },
-    {
      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
      "link": "https://www.ithome.com/1/030/711.htm",
      "pubDate": "Sun, 22 Nov 2026 13:23:38 GMT",
@@ -2025,6 +2025,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Here's when a Raspberry Pi 5 could be considered overkill",
+     "link": "https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill/",
+     "pubDate": "Sun, 22 Nov 2026 19:15:00 +0000",
+     "summary": "From home servers to DIY gadgets, Raspberry Pi boards can handle countless tasks, though the power of the newest Pi 5 isn't always the only option.",
+     "source": "Engadget",
+     "zh": "Here's when a Raspberry Pi 5 could be considered overkill"
+    },
+    {
+     "title": "5 Apple Watch settings that can help you save its battery life",
+     "link": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
+     "pubDate": "Sun, 22 Nov 2026 19:00:00 +0000",
+     "summary": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
+     "source": "Engadget",
+     "zh": "5 Apple Watch settings that can help you save its battery life"
+    },
+    {
      "title": "What the little clock icon at the top of your Samsung phone means",
      "link": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
      "pubDate": "Sun, 22 Nov 2026 18:45:00 +0000",
@@ -2063,22 +2079,6 @@
      "summary": "Your old Xbox doesn't deserve to be dumped in a dustbin. From making a buck to making a kid's day, there are ways to give your console a new lease on life.",
      "source": "Engadget",
      "zh": "Don't throw away your old Xbox — Do this instead"
-    },
-    {
-     "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
-     "link": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-     "pubDate": "Sun, 22 Nov 2026 17:45:00 +0000",
-     "summary": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
-     "source": "Engadget",
-     "zh": "You can mass-delete all of your emails on Gmail in only a few clicks"
-    },
-    {
-     "title": "How to cancel your Nintendo Switch Online subscription",
-     "link": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
-     "pubDate": "Sun, 22 Nov 2026 17:30:00 +0000",
-     "summary": "You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.",
-     "source": "Engadget",
-     "zh": "How to cancel your Nintendo Switch Online subscription"
     },
     {
      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
@@ -2273,6 +2273,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+     "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
+     "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+     "source": "MarketWatch",
+     "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
+    },
+    {
+     "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+     "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 19:08:31 GMT",
+     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+     "source": "Financial Times",
+     "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
+    },
+    {
      "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
      "link": "https://seekingalpha.com/news/4675411-openai-calls-for-industry-wide-ai-brake-tied-to-perplexity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 14:00:17 -0500",
@@ -2361,14 +2377,6 @@
      "zh": "大举扫货首批主动ETF 15家券商自营现身十大持有人名单"
     },
     {
-     "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-     "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 18:11:01 GMT",
-     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former CEO’s reinstatement",
-     "source": "Financial Times",
-     "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
-    },
-    {
      "title": "Private equity has been buying up hospice centers — with striking consequences",
      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 17:22:00 GMT",
@@ -2415,14 +2423,6 @@
      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
      "source": "MarketWatch",
      "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
-    },
-    {
-     "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-     "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 16:15:00 GMT",
-     "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-     "source": "MarketWatch",
-     "zh": "‘Never too late to start’: Practical investing advice from some of the top women in finance"
     },
     {
      "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",

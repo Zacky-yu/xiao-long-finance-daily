@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 19:52:00",
+ "generated_at": "2026/11/22 20:11:57",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+     "link": "https://www.wired.com/gallery/best-travel-adapters/",
+     "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
+     "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+     "source": "WIRED",
+     "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
+    },
+    {
+     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+     "link": "https://www.tmtpost.com/8214070.html",
+     "pubDate": "Sun, 22 Nov 2026 19:55:10 +0800",
+     "summary": "定义权比技术本身更稀缺",
+     "source": "钛媒体",
+     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
+    },
+    {
+     "title": "单日蒸发超1万亿美元",
+     "link": "https://www.huxiu.com/article/4907527.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:46:20 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：城北徐公，原文标题：《罕见！单日蒸发超1万亿美元》 一片恐慌之中，黄金出现了历史罕见的深度回撤。 截至本周五，国际金价已跌至3539美元/盎司，一度险些跌破3500美元。 单周跌幅约9%，近9个交易日跌幅14.71%，创14个月新低。 较1月29日的高点，最大回撤幅度更是超过37%。 按《财富》11月20日对比前日基准测算，当天，黄金账面蒸发市值约1.016万亿美元。 究竟怎么回事？ 01 先看看最近到底发生了什么。 第一阶段，通胀与就业数据堵死宽松预期。 11月6日，美国劳工统计局公布10月非农就业报告：新增就业16.5万人，失业率维持在4.1%，平均时薪",
+     "source": "虎嗅",
+     "zh": "单日蒸发超1万亿美元"
+    },
+    {
+     "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+     "link": "https://www.ithome.com/1/030/702.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:44:18 GMT",
+     "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注意到，AI 智能体“井喷”现象最初源自一位爱好者创建的“Claude 大小姐在运营”账号，该账号选题、视频制作及日常运营均由 AI 完成。在引起一定反响后，平台开始陆续出现“DeepSeek 鲸鱼娘在运营”",
+     "source": "IT之家",
+     "zh": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见"
+    },
+    {
      "title": "人均150-250元的平价台州菜，正在接管一二线商场",
      "link": "https://www.huxiu.com/article/4907526.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 19:39:26 +0800",
@@ -1800,6 +1832,22 @@ window.INDUSTRY_DATA = {
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
+    },
+    {
+     "title": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价",
+     "link": "https://www.ithome.com/1/030/701.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:28:24 GMT",
+     "summary": "【 手小慎拍 ，此款适合大多数男性手掌握持。】 罗技 Logitech MX Master 3s &nbsp;Lite（国行称为菁英版）在去年 10 月上市，官方定价 699 元。 今日京东 PLUS 会员国补后低至 323 元，大多数小伙伴点击下方卡片后，京东 App 上部会自动 弹出 51-50 元加码券 ， 手动点击“领券”后 仅需 278 元破冰新低： 京东 罗技 MX Master 3S 菁英版 大师系列 手动领券后 278 元 直达链接 本次黑号的小伙伴可能不会弹券，可以切换账号尝试自动弹券哦。 此款在办公领域，无论使用的是 微软 Windows 系统 还是 苹果 Mac 系统 ，",
+     "source": "IT之家",
+     "zh": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价"
+    },
+    {
+     "title": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元",
+     "link": "https://www.ithome.com/1/030/700.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:27:34 GMT",
+     "summary": "IT之家 11 月 22 日消息，贝尔金现已在京东上架新款 40W 单 USB-C 充电头，定价为 77 元。 京东 贝尔金 40W 充电头 77 元 直达链接 该产品采用柔和沙色配色，整体造型圆润，尺寸为 34x38x33mm，重量为 57g，匹配可折叠插脚，正面提供一个 USB-C 40W 接口，支持 PD 3.2 和 PPS 协议。 IT之家附产品参数：",
+     "source": "IT之家",
+     "zh": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元"
     },
     {
      "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
@@ -1842,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速"
     },
     {
-     "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
-     "link": "https://www.ithome.com/1/030/696.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:13:03 GMT",
-     "summary": "IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。 据IT之家了解，Domino 由 Mumford &amp; Sons 乐队成员、本 · 洛维特（Ben Lovett）创立。网站原本希望通过 The Strokes 乐队、仓库派对等元素，重现威廉斯堡昔日的独立音乐文化。 但网站上的 AI 生成图片却问题频出：不仅出现了一张从未真实举办过的 The Strokes 演唱会门票，还存在文字模糊、拼写错误等问题。图片",
-     "source": "IT之家",
-     "zh": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹"
-    },
-    {
      "title": "云贵烤肉风起，加盟商的又一场豪赌开始了",
      "link": "https://www.huxiu.com/article/4907520.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 19:12:11 +0800",
      "summary": "本文来自微信公众号： 餐企老板内参 ，作者：月半 如果说2023年是淄博烤肉和东北烤肉的“流量大年”，那么这两年，伴随着餐饮行业进入“地方特色风味深化”和“质价比极致卷”的阶段，云贵烤肉作为烤肉赛道中极具冲击力的新兴力量，杀出重围。走出地域滤镜，真正成为了一门“全国生意”。 云贵烤肉其实是一个泛指，具体来看，以贵州烙锅、毕节烤肉、云南宜良烤肉、傣味烤肉、建水烧烤等为主要代表。各个分支都掀起了或多或少的浪花。 在上海、成都、深圳、北京、青岛等餐饮风向标城市，大众点评“热门烤肉榜”的前10名中，常态化出现几家贵州烙锅或云南傣味/建水烧烤品牌，这些品牌多以自助形式出现，山野季、木姜子、云贵鲜切等关键",
      "source": "虎嗅",
      "zh": "云贵烤肉风起，加盟商的又一场豪赌开始了"
-    },
-    {
-     "title": "崇明通地铁后，跨岛上班会划算吗？",
-     "link": "https://www.huxiu.com/article/4907515.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:10:56 +0800",
-     "summary": "本文来自微信公众号： 上海市民生活指南 ，编辑：顾筝/，作者：徐妍斐 今年以来，崇明地铁的消息隔三差五就会上一次热搜。 进博会期间，又有一批新进展披露出来。紧接着，配有黄色内饰和弧形双人座的“紫金战车”车厢内部图在网上传开，社交平台一下子热闹了。 崇明岛要结束没有地铁的历史了。 对于大多数上海人来说，这意味着去崇明玩更方便。但对于另一群人而言，这条43公里长的地下轨道，直接关系到他们每天睁开眼后的第一件事——怎么跨过长江去上班。 在地铁22号线通车前夕，我们找了几个每天在崇明和上海市区之间往返的人聊了聊。 01 每天早上5点50分，天还没亮透，80后陈女士和丈夫陈先生已经坐进自家的电动汽车，准",
-     "source": "虎嗅",
-     "zh": "崇明通地铁后，跨岛上班会划算吗？"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -1898,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "拆解大厂财报：谁最舍得为AI花钱？"
     },
     {
-     "title": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年",
-     "link": "https://www.ithome.com/1/030/694.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:02:37 GMT",
-     "summary": "IT之家 11 月 22 日消息，据格隆汇报道，在零跑汽车 2026 年 Q3 业绩电话会上，零跑汽车副总裁李腾飞谈及与欧宝车型合作时称， 整体的 1 亿欧元 （现汇率约合 7.34 亿元人民币） 包含项目开发费及授权使用费等 ，整体收入确认贯穿今年底、明年初至项目量产、及量产后的 2 到 3 年，项目量产后还会有相关零部件的交易， 核心零部件都会有零跑去提供 。 李腾飞指出，此次与欧宝的车型合作只是开端，标志着零跑与 Stellantis 集团迈入一个新的合作阶段，“ 类似这样的合作项目，我们还有多个项目在深入洽谈当中 ，有些项目商务谈判已到了最后的收官阶段。” 据IT之家此前报道，11 月",
-     "source": "IT之家",
-     "zh": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年"
-    },
-    {
      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
      "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
      "pubDate": "Sun, 22 Nov 2026 11:02:00 +0000",
@@ -1928,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
      "source": "WIRED",
      "zh": "Banks Have Had It Up to Here With Your AI Agent"
-    },
-    {
-     "title": "深蓝汽车首家品牌中心在重庆开业，面积超 4000 平方米",
-     "link": "https://www.ithome.com/1/030/693.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:59:07 GMT",
-     "summary": "IT之家 11 月 22 日消息，深蓝汽车宣布旗下首家品牌中心已于 11 月 19 日在重庆汽博中心正式开业，该中心面积超 4000 平方米，集“销售、交付、维保、用户体验”四大功能于一体。 深蓝汽车表示，深蓝汽车品牌中心提供更具质感的空间、更高标准的服务，打通了购车、用车、维修全链路， 中心内设置咖啡区、亲子区、休闲区等生活场景，并打造独立客休区与专属交付区。即便没有购车或维保需求，用户也可在周末携家人到店休憩 。门店还同时提供了生日、纪念日等定制化交车仪式。 此外，深蓝汽车品牌中心提供专属服务接口，实现“最快 1 小时内完成手续办理并提车”。售后服务区配备标准化维修工位与专属钣喷车间，机修",
-     "source": "IT之家",
-     "zh": "深蓝汽车首家品牌中心在重庆开业，面积超 4000 平方米"
     },
     {
      "title": "地球捕获了一颗迷你月球",
@@ -1973,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
      "link": "https://arxiv.org/abs/2606.14068",
      "pubDate": "Sun, 22 Nov 2026 09:18:36 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 32 # Comments: 8",
      "source": "Hacker News",
      "zh": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts"
     },
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 172 # Comments: 228",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 178 # Comments: 246",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     },
@@ -2000,22 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "团队 6 人，做面向欧洲中小企业的 HR SaaS，刚进入起量阶段，德国和法国各签了 10 来家客户。德国客户签约时要求签 DPA、提供数据处理记录，还要我们说明子处理者的数据传输路径。现在只有 1 个兼职法务，产品侧排期已经排到两个月后，GDPR 相关的文档和客户安全问卷全靠临时插队处理，上个月一份 DPA 来回改了 3 轮拖了 18 天，差点丢掉一个年费 1.2 万欧元的单子。已经买了一个模板库，也试过让客服按 FAQ 回复，但客户一问到具体处理活动和保留期限就卡住。这种持续性的合规文档维护，到底该配专职人手还是外包给律所，怎么判断？",
      "source": "白鲸出海",
      "zh": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？"
-    },
-    {
-     "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
-     "link": "https://www.tmtpost.com/8213773.html",
-     "pubDate": "Sun, 22 Nov 2026 16:19:16 +0800",
-     "summary": "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。",
-     "source": "钛媒体",
-     "zh": "跨境收款之后，中国公司盯上智能体支付的新生意"
-    },
-    {
-     "title": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？",
-     "link": "https://www.baijing.cn/question/638899",
-     "pubDate": "Sun, 22 Nov 2026 08:15:07 +0000",
-     "summary": "做户外储能配件独立站，主攻南非，团队6人，月广告预算约8万人民币，用Shopify+PayFast收款。从深圳备货走德班港海运，头程平均38-42天，约堡本地派送用The Courier Guy，偏远地区妥投要7-9天。现在退货率18%，一半是等太久主动取消，另一半是到货后尺码/型号不符。试过把爆款提前备到约堡第三方仓，但压了30多万库存，动销慢的SKU又占仓租。卡在备货深度和时效的平衡上：是继续加海外仓SKU，还是砍长尾只做空运补货？这个取舍按什么标准定？",
-     "source": "白鲸出海",
-     "zh": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
+     "link": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
+     "pubDate": "Sun, 22 Nov 2026 11:54:10 +0000",
+     "summary": "Samsung's 5.1.2-channel Q-Series soundbar with a wireless subwoofer is 36% off on Amazon ahead of Black Friday.",
+     "source": "Android Authority",
+     "zh": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off"
+    },
     {
      "title": "How I got Samsung’s best multitasking feature on my Pixel for free",
      "link": "https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heads up! Galaxy Watch 7 is 40% off for Black Friday"
     },
     {
-     "title": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming",
-     "link": "https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/",
-     "pubDate": "Sat, 21 Nov 2026 09:37:40 +0000",
-     "summary": "Get big discounts on some of the best weatherproof 4K TVs for patios, pools, and decks.",
-     "source": "Android Authority",
-     "zh": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming"
-    },
-    {
      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
      "link": "https://sspai.com/post/119291",
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0800",
@@ -2274,6 +2274,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ",
+     "link": "https://seekingalpha.com/news/4675404-the-associate-of-alice-huang-who-funneled-nvidia-chips-to-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 07:04:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ"
+    },
+    {
      "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
      "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
      "pubDate": "Sun, 22 Nov 2026 11:32:52 GMT",
@@ -2286,15 +2294,47 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1345,202611223936928656.html",
      "pubDate": "Sun, 22 Nov 2026 19:13:04 +0800",
      "summary": "中国结算关于暂免收取部分债券登记结算费用的通知 各市场参与主体： 为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎回回售手续费。 二、自2027年1月1日起至2028年12月31日，继续暂免收取民营企业公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "中国结算：暂免收取部分债券登记结算费用"
+    },
+    {
+     "title": "欧盟及成员国反对安塔利亚气候协定",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936928567.html",
+     "pubDate": "Sun, 22 Nov 2026 19:09:00 +0800",
+     "summary": "欧盟代表团发布声明表示，欧盟代表团对最终的COP31声明决定草案深感失望，我们不会支持一项甚至没有提及化石燃料的总体决定。我们不会接受一场为化石燃料进行“漂绿”的联合国气候变化大会，提交给我们的草案根本没有解决我们面临的气候紧急状况。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "欧盟及成员国反对安塔利亚气候协定"
+    },
+    {
+     "title": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制",
+     "link": "http://stock.eastmoney.com/news/1611,202611223936928278.html",
+     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
+     "summary": "知情人士称， Anthropic 曾要求对部分 银行 实施为期六个月的限制，禁止他们在此（IPO）期间为包括OpenAI和DeepSeek在内的竞争对手提供服务。 Anthropic 要求部分参与其IPO的投行将交易团队人数限制在4名资深 银行 家以内。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制"
+    },
+    {
+     "title": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响",
+     "link": "http://stock.eastmoney.com/news/1611,202611223936928147.html",
+     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
+     "summary": "知情人士称， 银行 私下抱怨， Anthropic 的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响"
+    },
+    {
+     "title": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936927970.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
+     "summary": "11月22日， 荣盛发展 （SZ002146，股价0.96元，市值41.74亿元）披露《关于公司股票存在可能因股价低于面值被终止上市的风险提示公告》，公司股票11月20日收盘价为0.96元/股，自2026年11月20日起收盘价首次低于1元，公司因此提示，股票可能因股价低于面值被终止上市。 值得注意的是，11月20日， 荣盛发展 收盘报0.96元/股，跌5.88%，为11月17日首次跌破1元（收0.90元、跌停）、11月19日短暂回升至1.02元后的再度跌破。公司再次发布面值退市风险提示，根据规则，连续低于1元的交易日自11月20日重新起算。 二级市场上， 荣盛发展 股价年内总体呈震荡下行态势，",
+     "source": "东方财富股票",
+     "zh": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成"
     },
     {
      "title": "上交所组合式推出新一批降费措施 助力激发市场主体活力",
      "link": "http://finance.eastmoney.com/news/1345,202611223936927660.html",
      "pubDate": "Sun, 22 Nov 2026 19:05:34 +0800",
      "summary": "11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。对上市公司，全面免收上市费、上证e服务、上证e投票等",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "上交所组合式推出新一批降费措施 助力激发市场主体活力"
     },
     {
@@ -2472,46 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
      "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
-    },
-    {
-     "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
-     "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
-    },
-    {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-     "source": "MarketWatch",
-     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
-    },
-    {
-     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
-    },
-    {
-     "title": "Trump to work with Dems to cap credit card interest rates",
-     "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 13:34:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump to work with Dems to cap credit card interest rates"
-    },
-    {
-     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
-     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
     }
    ]
   },
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Black holes can split apart 'like pants' if they spin too fast, study hints",
+     "link": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
+     "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
+     "summary": "Astrophysicists have dared to ask a cosmological question never asked before: Do black holes \"wear pants\"? New research shows how fast-spinning black holes may split apart.",
+     "source": "Live Science",
+     "zh": "Black holes can split apart 'like pants' if they spin too fast, study hints"
+    },
     {
      "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart",
      "link": "https://www.livescience.com/space/2-peculiar-spiral-galaxies-are-twisting-each-other-into-cosmic-balloon-animals-space-photo-of-the-week",
@@ -2584,14 +2592,6 @@ window.INDUSTRY_DATA = {
      "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
      "source": "Live Science",
      "zh": "Meet the science adviser behind Netflix's hit series 'Below'"
-    },
-    {
-     "title": "Scientists put 78,000 letters of human DNA into a mouse — and unraveled how a rare disease worked",
-     "link": "https://www.livescience.com/health/genetics/scientists-put-78-000-letters-of-human-dna-into-a-mouse-and-unraveled-how-a-rare-disease-worked",
-     "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
-     "summary": "By inserting human genes into lab mice, scientists were able to study the underlying mechanics of a disease that's been notoriously difficult to research.",
-     "source": "Live Science",
-     "zh": "Scientists put 78,000 letters of human DNA into a mouse — and unraveled how a rare disease worked"
     },
     {
      "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",

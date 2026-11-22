@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 02:52:06",
+ "generated_at": "2026/11/23 03:12:07",
  "recent_days": 7,
  "industries": [
   {
@@ -1114,6 +1114,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense",
+     "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-insmed-jumps-on-report-of-takeover-interest-by-sanofi-as-analysts-conclude-a-deal-would-make-sense/",
+     "pubDate": "Sun, 22 Nov 2026 18:52:58 +0000",
+     "summary": "Bloomberg News cited unnamed sources in reporting that Sanofi (Euronext Paris: SAN and Nasdaq: SNY) was weighing whether to acquire Insmed, in a potential blockbuster deal that the news outlet and others speculated could be biopharma's largest merger-and-acquisition (M&A) deal since 2023. The post S",
+     "source": "GEN",
+     "zh": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense"
+    },
+    {
      "title": "FDA again turns back Capricor Duchenne cell therapy",
      "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
      "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
@@ -1296,14 +1304,6 @@ window.INDUSTRY_DATA = {
      "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent&rsquo;s looming patent expiration.",
      "source": "BioPharma Dive",
      "zh": "Sanofi gains FDA clearance for Gaucher disease pill"
-    },
-    {
-     "title": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus",
-     "link": "https://www.genengnews.com/topics/translational-medicine/alzheimers-disease-and-aging-linked-to-changes-in-the-hypothalamus/",
-     "pubDate": "Wed, 18 Nov 2026 22:50:25 +0000",
-     "summary": "Researchers combined measurements from brain images and single cell transcriptome maps to build a resource, HypoAD, as an atlas of the human hypothalamus in aging and AD, which they have made available to the research community. The post Alzheimer’s Disease and Aging Linked to Changes in the Hypotha",
-     "source": "GEN",
-     "zh": "Alzheimer’s Disease and Aging Linked to Changes in the Hypothalamus"
     }
    ]
   },
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 97 # Comments: 75",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 104 # Comments: 81",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
      "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
-     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 45 # Comments: 10",
+     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 53 # Comments: 10",
      "source": "Hacker News",
      "zh": "I joined the NTP Pool, but not with my Stratum 1 Pi"
     },
@@ -1861,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Open Social Web Alliance",
      "link": "https://osw-alliance.net/en/",
      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 142 # Comments: 138",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 146 # Comments: 145",
      "source": "Hacker News",
      "zh": "Open Social Web Alliance"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
      "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
-     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 65 # Comments: 32",
+     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 71 # Comments: 35",
      "source": "Hacker News",
      "zh": "Backblaze customers worried of personal data sale/sharing after policy update"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 163 # Comments: 40",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 169 # Comments: 43",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
     },
@@ -2026,6 +2026,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "What the little clock icon at the top of your Samsung phone means",
+     "link": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
+     "pubDate": "Sun, 22 Nov 2026 18:45:00 +0000",
+     "summary": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
+     "source": "Engadget",
+     "zh": "What the little clock icon at the top of your Samsung phone means"
+    },
+    {
      "title": "The drawbacks of adding solar panels to your home",
      "link": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages/",
      "pubDate": "Sun, 22 Nov 2026 18:30:00 +0000",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.",
      "source": "Engadget",
      "zh": "How to cancel your Nintendo Switch Online subscription"
-    },
-    {
-     "title": "5 iOS 27.3 changes coming to your Apple devices by 2027",
-     "link": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
-     "pubDate": "Sun, 22 Nov 2026 17:15:00 +0000",
-     "summary": "iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features.",
-     "source": "Engadget",
-     "zh": "5 iOS 27.3 changes coming to your Apple devices by 2027"
     },
     {
      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
@@ -2274,6 +2274,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
+     "link": "https://seekingalpha.com/news/4675411-openai-calls-for-industry-wide-ai-brake-tied-to-perplexity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 14:00:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OpenAI calls for industry-wide AI brake tied to perplexity"
+    },
+    {
+     "title": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?",
+     "link": "https://seekingalpha.com/news/4675384-sa-asks-how-much-of-a-threat-is-anthropics-multi-chip-strategy-to-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 14:00:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?"
+    },
+    {
+     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens",
+     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+     "pubDate": "Sun, 22 Nov 2026 18:55:05 GMT",
+     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+     "source": "CNBC",
+     "zh": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens"
+    },
+    {
      "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
      "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 18:28:00 GMT",
@@ -2290,10 +2314,58 @@ window.INDUSTRY_DATA = {
      "zh": "These little-known investments could be among the best bargains in a crash"
     },
     {
+     "title": "首批主动ETF今上市 主动投资迈入“明牌”时代",
+     "link": "http://stock.eastmoney.com/news/11215,202611233937007379.html",
+     "pubDate": "Mon, 23 Nov 2026 02:19:09 +0800",
+     "summary": "11月23日，首批18只主动ETF正式上市交易，中国公募基金业将迎来“场内主动选股、每日持仓可见、透明化阿尔法”的历史性时刻。按照要求，这些产品需在上市之前将股票仓位提升至不低于80%。从最新净值变化看，主动ETF已呈现出稳健运作特征，为上市后的主动能力验证奠定基础。 首批主动ETF上市后，国内主动投资迈入“明牌”时代。主动ETF将与被动ETF、场外主动基金形成差异化权益产品矩阵，公募基金承接长期资金入市的工具丰富度和策略深广度将进一步扩展。 18只产品 加速完成建仓 18只主动ETF合计上市份额360亿份，截至11月16日的整体平均仓位还只有56.71%，最低仓位不足30%。从11月17日到",
+     "source": "东方财富股票",
+     "zh": "首批主动ETF今上市 主动投资迈入“明牌”时代"
+    },
+    {
+     "title": "房车露营火出圈 多地培育“流量经济”增长点",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937006320.html",
+     "pubDate": "Mon, 23 Nov 2026 02:11:21 +0800",
+     "summary": "“一款五天四晚、面向老年客群的房车产品，原定运营周期至今年9月底，因市场热度持续走高，运营档期顺延至10月底，累计接待游客超3000人。”近日， 上汽集团 房车生活家科技有限公司华中华北东北大区总经理吴娟接受证券时报记者采访时表示，这款以湖北宜昌为始发地、主打神农架深度游的房车产品，目前预订已排至明年春季。 吴娟的直观感受，正是当前房车露营消费升温的一个缩影。今年下半年，随着多项国家级促消费政策陆续落地，房车露营正串起房车 租赁 、营地运营、文旅内容开发、地方消费转化的完整产业链条。 多元消费场景带火房车游 今年暑期，家住武汉的刘女士带着老人与孩子，体验了一趟乌鲁木齐至喀什、历时9天的房车长线",
+     "source": "东方财富股票",
+     "zh": "房车露营火出圈 多地培育“流量经济”增长点"
+    },
+    {
+     "title": "创业板将引入做市商制度 科创板做市规则同步酝酿修订",
+     "link": "http://stock.eastmoney.com/news/11134,202611233937006766.html",
+     "pubDate": "Mon, 23 Nov 2026 02:11:14 +0800",
+     "summary": "11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（以下简称《做市业务细则》）向社会公开征求意见，创业板引入做市商制度迈出关键一步。同日，记者获悉，近期上交所正结合市场运行新变化、市场主体实际诉求，推动修订科创板股票做市业务相关规则。两大板块做市机制同步推进，A股市场基础制度进一步完善。 本次征求意见的《做市业务细则》，对创业板股票做市交易业务进行管理。一是明确做市服务申请备案要求，经中国证监会核准取得上市证券做市交易业务资格的证券公司，以备案方式向深交所申请为创业板股票提供做市服务；二是明确做市商权利与义务，做市商应通过做市专用证券账户开展做市交易业务，深交所定",
+     "source": "东方财富股票",
+     "zh": "创业板将引入做市商制度 科创板做市规则同步酝酿修订"
+    },
+    {
+     "title": "三个小故事，不断续写“深圳大故事”",
+     "link": "http://finance.eastmoney.com/news/1350,202611233937006214.html",
+     "pubDate": "Mon, 23 Nov 2026 02:11:13 +0800",
+     "summary": "一场APEC会议，让深圳这座“宝藏城市”站在了世界舞台的聚光灯下。 最近一段时间以来，深圳用硬核实力和满满诚意，让世界记住了一座充满活力与魅力的奇迹之城。“看五十年的中国就来深圳”，这句话传递出鲜明的信息：想看中国五十年的发展变化，不用翻文件、看报告，到深圳走一走、逛一逛，就能得到答案。 机器人 跳舞、 无人机 送货、便捷生活、优美生态……“希望我的祖国也能有一个深圳”在海外刷了屏。深圳，迎来了一波泼天的流量。 但流量终归是聚光灯下的热闹。随着APEC会议落幕，散场之后留下来的，才是最宝贵的东西。本次APEC会议收获颇丰：各领域形成75项成果，就亚太共同体建设提出“深圳展望”，发布《2026年",
+     "source": "东方财富股票",
+     "zh": "三个小故事，不断续写“深圳大故事”"
+    },
+    {
+     "title": "国资专业化整合逻辑生变 “强者牵头”走向前台",
+     "link": "http://finance.eastmoney.com/news/1355,202611233937007049.html",
+     "pubDate": "Mon, 23 Nov 2026 02:11:11 +0800",
+     "summary": "近期举办的进一步深化国资国企改革专题研讨班强调，新一轮改革要聚焦产业链短板、创新资源分散、同质化竞争等三个重点问题推进专业化整合，摒弃“大吃小”做法，以创新能力强的企业为主体开展整合，划清纾困边界，防止“救助型”并购。这标志着本轮专业化整合中，判断“谁主导整合”的标准，从“谁的报表更大”转向“谁在产业链关键环节上真正有竞争力”。 理解这一转变，先要理解过去的逻辑。过去的横向合并、上下游归拢，解决了同质化竞争问题，造就了若干大集团，但做大规模并不必然带来竞争力，一些整合停留在报表合并层面，管理、文化融合滞后于资产并表，“形似而神不至”。更值得警惕的是，“大吃小”容易异化为“以大救小”，困境企业被",
+     "source": "东方财富股票",
+     "zh": "国资专业化整合逻辑生变 “强者牵头”走向前台"
+    },
+    {
+     "title": "大举扫货首批主动ETF 15家券商自营现身十大持有人名单",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937006141.html",
+     "pubDate": "Mon, 23 Nov 2026 02:11:08 +0800",
+     "summary": "证券时报记者刘艺文 11月23日，沪深交易所首批18只主动ETF（交易型开放式指数基金）正式上市，券商是这批ETF持有人中的重要力量。 截至目前，从十大持有人名单（下同）上看，已有15家券商自营持有该批主动ETF。其中， 国泰海通 布局9只，在多只产品上位列第一大持有人。此外，多家券商资管产品、券商客户信用账户也现身前十持有人名单。 南开大学金融研究院院长田利辉接受记者采访时表示，券商“扫货”首批主动ETF，不是简单的财务投资，而是财富管理转型与机构化进程中的战略卡位。 国泰海通 持有份额最高 证券时报记者梳理发现，上述18只主动ETF的前十大持有人名单中，出现了15家券商自营身影。其中 国泰",
+     "source": "东方财富股票",
+     "zh": "大举扫货首批主动ETF 15家券商自营现身十大持有人名单"
+    },
+    {
      "title": "Bessent refuses to rule out Huang’s return to Nvidia",
      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 18:11:01 GMT",
-     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president and key tech leaders call for former chief’s reinstatement",
+     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former CEO’s reinstatement",
      "source": "Financial Times",
      "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
     },
@@ -2386,22 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sanctioned Russian vessel attacked by drones near Finland"
     },
     {
-     "title": "Notable healthcare headlines for the week: Health insurers, Pfizer, and J&J in focus",
-     "link": "https://seekingalpha.com/news/4675353-notable-healthcare-headlines-for-the-week-health-insurers-pfizer-and-j-and-j-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 09:05:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable healthcare headlines for the week: Health insurers, Pfizer, and J&J in focus"
-    },
-    {
-     "title": "Tech suppliers jack up AI server prices after contracts inked - FT",
-     "link": "https://seekingalpha.com/news/4675407-tech-suppliers-jack-up-ai-server-prices-after-contracts-inked---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 09:03:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tech suppliers jack up AI server prices after contracts inked - FT"
-    },
-    {
      "title": "COP31 climate talks fail after stand-off over fossil fuels",
      "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 13:50:41 GMT",
@@ -2418,44 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
     },
     {
-     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
-     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
-     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
-     "source": "东方财富资讯",
-     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
-    },
-    {
-     "title": "中国台湾地区拟下调融资保证金比例至120%以稳定股市",
-     "link": "http://hk.eastmoney.com/news/1556,202611223936948837.html",
-     "pubDate": "Sun, 22 Nov 2026 21:18:16 +0800",
-     "summary": "中国台湾地区正考虑下调融资维持保证金比例，以遏制股市抛售潮。中国台湾证券交易所表示，周日与10家券商召开紧急会议，讨论这一潜在举措。根据拟议方案，最低融资维持保证金比例将从目前的130%下调至120%。据交易所称，与会各方讨论了下调保证金比例后可能出现的不同情形，并将评估相关操作层面的问题。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "中国台湾地区拟下调融资保证金比例至120%以稳定股市"
-    },
-    {
-     "title": "11月22日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948326.html",
-     "pubDate": "Sun, 22 Nov 2026 21:00:39 +0800",
-     "summary": "今日摘要 习近平总书记指出，要持续巩固拓展脱贫攻坚成果，把常态化帮扶纳入 乡村振兴 战略统筹实施，守牢不发生规模性返贫致贫底线。进入常态化帮扶新阶段，一项项帮扶举措接续落地，让脱贫群众同全国人民一道，更稳地迈向乡村全面振兴。 系列报道【权威访谈】今天解读“增强党性是全面从严治党的根本性任务”。 今年1至10月，全国一般公共预算平稳增长，投资于人相关支出增长较快。 今年以来，文旅体育等服务消费持续火热，内需潜力不断释放。 各地各部门加强能源供应，全力保障群众温暖过冬。 国际人士表示，习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动发表的重要讲话，为共创亚太美 好未来 汇聚力量。 内",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
      "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
      "pubDate": "Sun, 22 Nov 2026 13:00:01 GMT",
      "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
      "source": "CNBC",
      "zh": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
-    },
-    {
-     "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
-     "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
-     "summary": "杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。 今日晚间，沪深北三大交易所同步发布通知，宣布经中国证监会批准，将投资者融资买入证券时的融资保证金最低比例从现行的100%下调至80%，相关规则调整自11月30日起施行。截至11月19日，全市场两融余额2.2万亿元，与3.03万亿元的年内高点相比，已有逾8000亿元融资盘悄然离场。 这已经是年内第二次调整融资保证金比例。今年1月14日，沪深北交易所曾将最低比例由80%提高至100%，自1月19日起施行。十个月后，最低融资保证金比例重新回到80%。 值得关注的是，今年两次调整，政策细节颇有不同。 一是存量合约的处理不同。1月上调比例时，明",
-     "source": "东方财富资讯",
-     "zh": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确"
     },
     {
      "title": "为马斯克融资买GPU，高盛“秀操作”",
@@ -2466,20 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "为马斯克融资买GPU，高盛“秀操作”"
     },
     {
-     "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945576.html",
-     "pubDate": "Sun, 22 Nov 2026 19:51:00 +0800",
-     "summary": "创业板做市商制度如箭在弦。 11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（简称《做市业务细则》），向社会公开征求意见。 为什么引入做市商？这是深化创业板改革的重要举措，也是促进增强市场韧性、提升市场内在稳定性的重要机制。创业板致力于服务成长型创新创业企业，汇聚了大量新兴产业、未来产业及高新科技企业，随着市场包容性、适应性不断增强，创业板股票对流动性、稳定性、定价效率的需求也进一步提高。创业板引入做市商制度，是在深化投资端改革方面，壮大稳市力量、增强市场韧性、提升运行质量的重要机制安排。 那么，做市商制度到底能带来什么？五大亮点带你快速看懂。 亮点一：带来增量",
-     "source": "东方财富资讯",
-     "zh": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低"
-    },
-    {
-     "title": "11月22日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936931124.html",
-     "pubDate": "Sun, 22 Nov 2026 19:30:36 +0800",
-     "summary": "沪深两市多家上市公司11月22日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金科股份 ：因涉嫌信息披露违法违规，控股股东及合伙人遭证监会立案 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉嫌信息披露违法违规，收到证监会立案告知书；其合伙人北京天娇绿苑 房地产开发 有限公司亦被立案。公司表示，本次立案不涉及上市公司，生产经营正常，将配合调查并履行信披义务。 启迪设计 ：股票将被实施其他风险警示，11月23日停牌一天 启迪设计 公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间沪深上市公司重大事项公告最新快递"
+     "title": "The American dream of home ownership recedes as mortgage rates surge",
+     "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 11:00:06 GMT",
+     "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+     "source": "Financial Times",
+     "zh": "The American dream of home ownership recedes as mortgage rates surge"
     },
     {
      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
      "source": "华尔街见闻",
      "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
-    },
-    {
-     "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
-     "link": "https://wallstreetcn.com/articles/3786459",
-     "pubDate": "Sun, 22 Nov 2026 17:36:56 +0800",
-     "summary": "韩国政府宣布启动股市稳定基金激活准备工作，并同步出台多项市场稳定措施，这是2008年全球金融危机以来该基金第三次面临实际动用的可能。此举背景是全球AI产业情绪持续恶化，韩国股市遭受重挫。 韩国副总理兼财政部长Lee Hyoung-il于22日主持召开金融市场紧急会议（F4会议），宣布上述措施。会议决定， 政府将立即启动股市稳定基金（증안펀드）激活机制的准备工作，视市场情况随时部署。与此同时，上市公司自股回购每日申报量上限将自24日起放宽三个月，并同步启动为期三个月的非法卖空专项监控期。 上述措施出台的直接导火索，是KOSPI指数20日单日暴跌逾5%，美国纳斯达克指数同日下挫5.28%。与会官员",
-     "source": "华尔街见闻",
-     "zh": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月"
-    },
-    {
-     "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
-     "link": "https://wallstreetcn.com/articles/3786449",
-     "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
-     "summary": "国际金价单周重挫约10%，与暴跌的科技股同步遭抛售——当AI交易退潮触发跨资产追加保证金（Margin Calls），传统的避险资产正沦为市场筹集现金的“提款机”。 11月17日至20日的四个交易日内，金价急跌9%，自2025年9月以来首次失守3600美元/盎司关口；据摩根大通周五早报，现货金价报3588美元/盎司。白银跌势更为剧烈，全周重挫15%。 这场贵金属抛售与美股动荡高度重合。11月20日（周五），受Anthropic首次公开募股（IPO）后的市场余波拖累，纳斯达克100指数盘中大跌4.9%。 高盛交易台与瑞银全球研究最新报告均显示，抛压高度集中在黄金期货市场；高盛进一步指出，期权市场",
-     "source": "华尔街见闻",
-     "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
     }
    ]
   },

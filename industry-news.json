@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 21:51:55",
+ "generated_at": "2026/11/22 22:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "CEO Interview with Dr. Sameer Pawanekar of Ramtera",
+     "link": "https://semiwiki.com/ceo-interviews/376107-ceo-interview-with-dr-sameer-pawanekar-of-ramtera/",
+     "pubDate": "Sun, 22 Nov 2026 14:00:58 +0000",
+     "summary": "Dr. Sameer Pawanekar is the founder and CEO of Ramtera Inc., an EDA company building physical design and physical verification software. He is the architect and principal developer of both Ramtera products: LVR, for DRC, LVS and ERC, and PRE, for place-and-route. Sameer holds a PhD in VLSI placement",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Dr. Sameer Pawanekar of Ramtera"
+    },
+    {
      "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
      "link": "https://www.digitimes.com/news/a20261120PD247/tesla-shanghai-elon-musk-manufacturing-ceo.html",
      "pubDate": "Sat, 21 Nov 2026 14:14:51 GMT",
@@ -329,6 +337,14 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -337,12 +353,52 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -409,14 +465,6 @@
      "zh": "Gartner Warns of Risks Behind Sovereign Tech Claims"
     },
     {
-     "title": "The AI Chip Boom’s Uncomfortable Arithmetic",
-     "link": "https://semiwiki.com/semiconductor-services/future-horizons/376470-the-ai-chip-booms-uncomfortable-arithmetic/",
-     "pubDate": "Thu, 19 Nov 2026 16:00:03 +0000",
-     "summary": "The semiconductor industry’s biggest risk may be misunderstanding its own success. When revenues rise dramatically, the natural response is to expand capacity, secure supplies and prepare for sustained growth. But those decisions become dangerous if higher sales reflect sharply rising prices rather ",
-     "source": "SemiWiki",
-     "zh": "The AI Chip Boom’s Uncomfortable Arithmetic"
-    },
-    {
      "title": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-191126.shtml",
      "pubDate": "Thu, 19 Nov 2026 11:45:05 GMT",
@@ -447,54 +495,6 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
-    },
-    {
-     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
-     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
-     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
-     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -504,6 +504,22 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Runway releases Praxis-1 open-weight world action model for robotics",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/runway-releases-praxis-1-open-weight-world-action-model-for-robotics/107430/",
+     "pubDate": "Sun, 22 Nov 2026 14:03:02 +0000",
+     "summary": "Runway, which claims to be “the world’s top rated AI video model”, has released Praxis-1, an open-weight world action model designed to enable robots to learn physical tasks using knowledge acquired from large-scale video training. The company says the model has achieved “leading results” among open",
+     "source": "Robotics & Automation",
+     "zh": "Runway releases Praxis-1 open-weight world action model for robotics"
+    },
+    {
+     "title": "Vectigo launches road-embedded safety system for autonomous vehicles in Colorado",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/vectigo-launches-road-embedded-safety-system-for-autonomous-vehicles-in-colorado/107426/",
+     "pubDate": "Sun, 22 Nov 2026 13:52:17 +0000",
+     "summary": "Vectigo, a Colorado-based company and US division of Ireland-headquartered Vectigo Group, has launched a roadway-embedded safety platform designed to improve driving conditions for conventional and autonomous vehicles. The Vectigo Platform uses solar-powered sensor units, known as PODs, installed fl",
+     "source": "Robotics & Automation",
+     "zh": "Vectigo launches road-embedded safety system for autonomous vehicles in Colorado"
+    },
     {
      "title": "The manufacturing data gap holding back physical AI",
      "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
@@ -553,14 +569,6 @@
      "zh": "Algorithmic Scrutiny on Social Platforms: Evaluating TikTok Profile Expansion and Bot Detection"
     },
     {
-     "title": "How to prototype robot control logic before committing to industrial hardware",
-     "link": "https://roboticsandautomationnews.com/2026/11/20/how-to-prototype-robot-control-logic-before-committing-to-industrial-hardware/107401/",
-     "pubDate": "Fri, 20 Nov 2026 17:30:04 +0000",
-     "summary": "Most teams start a new automation cell by ordering the controller. The PLC or the industrial robot arm shows up, the integrator schedules commissioning time, and only then does anyone sit down to work out what the machine is supposed to do, in what order, with what interlocks. The logic gets written",
-     "source": "Robotics & Automation",
-     "zh": "How to prototype robot control logic before committing to industrial hardware"
-    },
-    {
      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
      "link": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
      "pubDate": "Fri, 20 Nov 2026 17:30:03 +0000",
@@ -575,14 +583,6 @@
      "summary": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "MassRobotics launching marine robotics facility on Boston Harbor"
-    },
-    {
-     "title": "How to Choose a Reliable P2P Lending Software Development Partner",
-     "link": "https://roboticsandautomationnews.com/2026/11/20/how-to-choose-a-reliable-p2p-lending-software-development-partner/107393/",
-     "pubDate": "Fri, 20 Nov 2026 16:30:52 +0000",
-     "summary": "Building a peer-to-peer lending platform takes more than a good business idea. It requires secure technology, smooth payment processes, reliable loan management tools, and a clear understanding of financial regulations. Choosing the right P2P lending software development partner is one of the most i",
-     "source": "Robotics & Automation",
-     "zh": "How to Choose a Reliable P2P Lending Software Development Partner"
     },
     {
      "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
@@ -655,14 +655,6 @@
      "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among other",
      "source": "IEEE Spectrum 机器人",
      "zh": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?"
-    },
-    {
-     "title": "Why Skydio Built a Lopsided Drone",
-     "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-     "pubDate": "Sun, 15 Nov 2026 14:00:02 +0000",
-     "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for ",
-     "source": "IEEE Spectrum 机器人",
-     "zh": "Why Skydio Built a Lopsided Drone"
     }
    ]
   },
@@ -1785,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "湘雅二院的AI造假论文，正在大量涌现",
+     "link": "https://www.huxiu.com/article/4907539.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 21:47:42 +0800",
+     "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近湘雅二医院的一篇AI合成论文引发了广泛舆论批评，其中不仅有多处低级文字错误，示例图片还疑似是人工智能合成的。 在AI普及之后，学术造假愈发成为社会关注和担忧的焦点。但不得不说，直到今天，直到这次事件，舆论层面关于AI时代学术和科研何去何从的讨论深度仍是有所不足的。可以说，AI技术与生命科学研究间的复杂关系，正是AI时代科研领域问题的最突出展现。 首先当然要明确，直接用人工智能合成或是修改实验结果，比如说示例图片，这是百分之百违背学术道德的，是需要一棍子打死的，这次湘雅的涉事论文就是这种情况，明确属于学术造假。问题是现在的科研工作中，人工智能的",
+     "source": "虎嗅",
+     "zh": "湘雅二院的AI造假论文，正在大量涌现"
+    },
+    {
+     "title": "Blackberry releases secure browser for Windows",
+     "link": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows",
+     "pubDate": "Sun, 22 Nov 2026 13:46:12 +0000",
+     "summary": "Article URL: https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows Comments URL: https://news.ycombinator.com/item?id=50599667 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Blackberry releases secure browser for Windows"
+    },
+    {
      "title": "“XX时期”文学：人生还没大结局，我们却先起好了剧名",
      "link": "https://www.huxiu.com/article/4907536.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 21:38:08 +0800",
@@ -1820,7 +1828,7 @@
      "title": "Prisons get OK to jam contraband phones",
      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
      "pubDate": "Sun, 22 Nov 2026 13:00:52 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 13 # Comments: 5",
      "source": "Hacker News",
      "zh": "Prisons get OK to jam contraband phones"
     },
@@ -1921,14 +1929,6 @@
      "zh": "单日蒸发超1万亿美元"
     },
     {
-     "title": "人均150-250元的平价台州菜，正在接管一二线商场",
-     "link": "https://www.huxiu.com/article/4907526.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:39:26 +0800",
-     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：洪君 一批人均150-250元的台州菜品牌，开始跨城扩张。 本文为红餐系列策划“地方菜的黄金时代”第3篇。 一批人均150-250元的“新荣记平替”，正在成为新的商场“流量王”。 新荣记用20年时间，把台州菜的天花板顶到人均800元、93颗米其林星的高度，现在，天花板之下的巨大空间，正在被一批新品牌以惊人的速度填满。 宁家十職、樾鲜、锦府园、条态小馆……它们卖着家烧黄鱼、沙蒜豆面、黄金脆带鱼等台州招牌菜，人均不到新荣记的一半，掀起了一股台州菜热潮。 人均150-250元，“新荣记平替”走红 周五18点，北京国贸商城，“宁家十職”门口的等位",
-     "source": "虎嗅",
-     "zh": "人均150-250元的平价台州菜，正在接管一二线商场"
-    },
-    {
      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
      "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
@@ -2015,14 +2015,6 @@
      "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
      "source": "Solidot",
      "zh": "丰田尼桑本田同意标准化零部件以降低成本"
-    },
-    {
-     "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
-     "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-     "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
-     "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
-     "source": "WIRED",
-     "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
     }
    ]
   },
@@ -2032,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Same light, same result: iPhone 18 Pro’s sensor isn’t outplaying larger ones",
+     "link": "https://www.dpreview.com/articles/putting-equivalence-to-the-test-with-the-iphone-18-pro/",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+     "summary": "We shot the iPhone 18 Pro against a larger-sensor camera at equivalent settings to see whether the latest sensor developments allow smartphones to outperform larger sensors. It turns out the differences are in Apple's processing.",
+     "source": "DPReview",
+     "zh": "Same light, same result: iPhone 18 Pro’s sensor isn’t outplaying larger ones"
+    },
+    {
+     "title": "Does old computer hardware ever become truly useless?",
+     "link": "https://www.engadget.com/2319347/old-computer-hardware-truly-useless/",
+     "pubDate": "Sun, 22 Nov 2026 13:45:00 +0000",
+     "summary": "Find out how long old computer hardware usually lasts, what eventually makes it obsolete and when it's worth reusing or selling your PC parts.",
+     "source": "Engadget",
+     "zh": "Does old computer hardware ever become truly useless?"
+    },
     {
      "title": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?",
      "link": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
@@ -2153,14 +2161,6 @@
      "zh": "Samsung vs. LG OLED TVs: What's the difference between them?"
     },
     {
-     "title": "This is what can happen if too many devices are sharing your home network",
-     "link": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
-     "pubDate": "Sun, 22 Nov 2026 00:45:00 +0000",
-     "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
-     "source": "Engadget",
-     "zh": "This is what can happen if too many devices are sharing your home network"
-    },
-    {
      "title": "Motorola Moto Tag 3 listed on Amazon",
      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
      "pubDate": "Sun, 22 Nov 2026 01:03:02 +0100",
@@ -2263,14 +2263,6 @@
      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ... 查看全文",
      "source": "少数派",
      "zh": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的"
-    },
-    {
-     "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
-     "link": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
-     "pubDate": "Sat, 21 Nov 2026 02:53:17 +0000",
-     "summary": "Jon McCormack oversaw the Camera and Photos apps for more than eight years. Apple hasn’t named a replacement, and his teams now report to the executive leading its AI integration.",
-     "source": "DPReview",
-     "zh": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired"
     }
    ]
   },
@@ -2280,6 +2272,38 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Notable healthcare headlines for the week: Health insurers, Pfizer, and J&J in focus",
+     "link": "https://seekingalpha.com/news/4675353-notable-healthcare-headlines-for-the-week-health-insurers-pfizer-and-j-and-j-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 09:05:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Notable healthcare headlines for the week: Health insurers, Pfizer, and J&J in focus"
+    },
+    {
+     "title": "Tech suppliers jack up AI server prices after contracts inked - FT",
+     "link": "https://seekingalpha.com/news/4675407-tech-suppliers-jack-up-ai-server-prices-after-contracts-inked---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 09:03:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tech suppliers jack up AI server prices after contracts inked - FT"
+    },
+    {
+     "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+     "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 GMT",
+     "summary": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
+     "source": "MarketWatch",
+     "zh": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
+    },
+    {
+     "title": "Climate talks fail after stand-off over fossil fuels",
+     "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 13:50:41 GMT",
+     "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
+     "source": "Financial Times",
+     "zh": "Climate talks fail after stand-off over fossil fuels"
+    },
     {
      "title": "Did Claude just prove the Riemann Hypothesis?",
      "link": "https://seekingalpha.com/news/4675406-did-claude-just-prove-the-riemann-hypothesis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2329,6 +2353,14 @@
      "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
     },
     {
+     "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
+     "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 12:24:41 GMT",
+     "summary": "Finland’s prime minister attributes attack on cargo ship to Ukraine and says ‘war is spilling over into our immediate vicinity’",
+     "source": "Financial Times",
+     "zh": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack"
+    },
+    {
      "title": "为马斯克融资买GPU，高盛“秀操作”",
      "link": "https://wallstreetcn.com/articles/3786456",
      "pubDate": "Sun, 22 Nov 2026 20:11:23 +0800",
@@ -2343,14 +2375,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ"
-    },
-    {
-     "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
-     "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
-     "pubDate": "Sun, 22 Nov 2026 11:32:52 GMT",
-     "summary": "UK data centre operator pauses hiring for all but critical roles",
-     "source": "Financial Times",
-     "zh": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO"
     },
     {
      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
@@ -2425,22 +2449,6 @@
      "zh": "Napoleon’s warning to Nvidia’s Jensen Huang"
     },
     {
-     "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-     "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
-     "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
-     "source": "Financial Times",
-     "zh": "Tech suppliers raise AI server prices up to 45% months after deals are signed"
-    },
-    {
-     "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
-     "link": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 21:30:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month"
-    },
-    {
      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
@@ -2465,28 +2473,12 @@
      "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     },
     {
-     "title": "Here are the major earnings before the open Monday",
-     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周一开盘前的主要财报"
-    },
-    {
      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
      "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
-    },
-    {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-     "source": "MarketWatch",
-     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     },
     {
      "title": "Alice Huang’s links to the chip underworld",
@@ -2528,6 +2520,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve",
+     "link": "https://www.livescience.com/space/the-moon/beaver-moon-2026-when-to-see-a-full-supermoon-rise-this-week-and-another-on-christmas-eve",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+     "summary": "November's full Beaver Moon rises on Tuesday, Nov. 24, giving us a preview of the spectacular Christmas Eve supermoon coming next month.",
+     "source": "Live Science",
+     "zh": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve"
+    },
     {
      "title": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary",
      "link": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary",
@@ -2583,14 +2583,6 @@
      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
      "source": "ScienceDaily",
      "zh": "Time may be far stranger than we realize. Scientists have a way to test it"
-    },
-    {
-     "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
-     "link": "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them",
-     "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
-     "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
-     "source": "Live Science",
-     "zh": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)"
     },
     {
      "title": "A giant star swallowed another star. James Webb reveals the aftermath",

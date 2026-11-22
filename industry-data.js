@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 06:32:12",
+ "generated_at": "2026/11/23 06:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -56,6 +56,22 @@ window.INDUSTRY_DATA = {
      "summary": "智东西11月22日报道，11月20日，2026年国际超级计算大会（SC26）传来喜讯：依托全国产十万卡AI超集群曙光8000开展的两项科研应用成果杀进世界级舞台，一项斩获ACM戈登·贝尔奖，另一项入围戈登·贝尔气候建模奖决赛。 从微观世界的电子运动，到宏观尺度的全球天气，两项成果指向不同的科学问题，却共同折射出一个现实：超大规模异构计算系统的价值，最终要由它支撑了什么应用、解决了什么难题来检验。 向上，追问科学前沿的计算极限；向下，回应产业与民生的现实需求——这正是中国异构计算“顶天立地”的含义，也是这份答卷的含金量所在。 一、世界级成果！从计算极限走向科学发现 今年7月，首个采用原生超智融合",
      "source": "智东西",
      "zh": "中国异构计算何以“顶天立地”？"
+    },
+    {
+     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+     "link": "https://www.qbitai.com/2026/11/511904.html",
+     "pubDate": "Sun, 22 Nov 2026 06:21:47 +0000",
+     "summary": "用葡萄糖发电控制血糖。",
+     "source": "量子位",
+     "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
+    },
+    {
+     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+     "link": "https://www.qbitai.com/2026/11/511870.html",
+     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
     },
     {
      "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
@@ -154,6 +170,22 @@ window.INDUSTRY_DATA = {
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
+     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+     "link": "https://www.qbitai.com/2026/11/511855.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
+    },
+    {
+     "title": "中国计算，走出新的登峰之路",
+     "link": "https://www.qbitai.com/2026/11/511849.html",
+     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "中国计算，走出新的登峰之路"
+    },
+    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -168,6 +200,22 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+     "link": "https://www.qbitai.com/2026/11/511841.html",
+     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
+    },
+    {
+     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+     "link": "https://www.qbitai.com/2026/11/511830.html",
+     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了"
-    },
-    {
-     "title": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=2&sn=acf4991da5cf22769949784e84cb0518",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆"
-    },
-    {
-     "title": "全国产！超算「诺奖」5年再回中国队",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=1&sn=d46f87fe5c3d67fafd150d6db59c8bad",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "全国产！超算「诺奖」5年再回中国队"
-    },
-    {
-     "title": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元",
-     "link": "https://zhidx.com/p/613052.html",
-     "pubDate": "Sat, 21 Nov 2026 11:03:40 +0800",
-     "summary": "智东西 编译 | ZeR0 编辑 | 漠影 智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%， Anthropic 暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，Meta暴跌6%，亚马逊暴跌4%。 芯片股也愁容惨淡。美国芯片股费城半导体指数周五下跌10.7%，自6月份峰值以来累计跌幅达43%。闪迪暴跌16%，美光暴跌14%，AMD暴跌13%，西部数据、博通、Marvell暴跌12%，应用材料暴跌11%，泛林集团暴跌10%，台积电暴跌9%，英特尔、德州仪器暴跌8%，阿斯麦暴",
-     "source": "智东西",
-     "zh": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元"
-    },
-    {
-     "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
-     "link": "https://zhidx.com/p/613053.html",
-     "pubDate": "Sat, 21 Nov 2026 09:56:30 +0800",
-     "summary": "智东西 编译 | 李水青 编辑 | 心缘 智东西11月21日消息，今日，由前OpenAI CTO 米拉·穆拉蒂（Mira Murati） 联合创办的AI独角兽Thinking Machines Lab（简称：TML）推出一个新混合专家模型—— Inkling 2 Mini 。该模型总参数达 27B ，激活参数达 3.4B ，每个token有 5.4B 权重激活值以应对 循环 ，兼顾小体积、快速度和较强性能，可在 笔记本 电脑上运行。 穆拉蒂在社交平台X上称：“Inkling 2 Mini是一款可在笔记本上运行的 循环Transformer 。循环机制让模型 思考更多、输出更少 。在当前这个规模",
-     "source": "智东西",
-     "zh": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！"
-    },
-    {
-     "title": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考",
-     "link": "https://zhidx.com/p/612973.html",
-     "pubDate": "Sat, 21 Nov 2026 08:30:07 +0800",
-     "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit AMA活动（图源：X） 此次AMA处于一个非常有趣的时间点。 就在昨天，腾讯刚刚 开放旗舰模型Hy4的权重 ，并发布了模型安全评估卡片（System Card）。此前几天，腾讯还推出了主打低成本、高效率的Hy4 flash，接连两款模型的发布，让腾讯混元的技术路线成为社区关注的焦点。 与此同时，AI行业的竞争也在发生变化",
-     "source": "智东西",
-     "zh": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考"
-    },
-    {
-     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-     "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-     "pubDate": "Fri, 20 Nov 2026 23:30:30 +0000",
-     "summary": "Generative AI",
-     "source": "Google Research",
-     "zh": "How Google Duplex evolved to also call businesses for you in Gemini"
     }
    ]
   },
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
+     "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Exports-Hit-Records-as-Global-Competition-Intensifies.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:00 -0600",
+     "summary": "Rising U.S. oil and gas production and export capacity, along with a shift in global energy trade flows from the war in Iran, helped the United States hit record highs in crude, fuels, and LNG exports this year. In the decade since 2016, when LNG exports began, and crude oil shipments were allowed t",
+     "source": "OilPrice",
+     "zh": "U.S. Energy Exports Hit Records as Global Competition Intensifies"
+    },
+    {
      "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
      "link": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
      "pubDate": "Sun, 22 Nov 2026 21:13:20 +0000",
@@ -944,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Editor’s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren’t capable of driving the trip fully themselves. Fritz makes the argument here that it is easier to supervise FSD and that is why someone with a handicap can use it when ... [continued] The post Who N",
      "source": "CleanTechnica",
      "zh": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!"
-    },
-    {
-     "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
-     "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
-     "pubDate": "Sat, 21 Nov 2026 14:00:00 -0600",
-     "summary": "United States President Trump has doubled down on his support for fossil fuels since coming into office almost two years ago, including the most polluting of them all – coal. Just as many coal plants were on their way to retirement, Trump stepped in and stopped them from closing, backing his decisio",
-     "source": "OilPrice",
-     "zh": "Trump’s Coal Revival Is Costing Americans More Than Expected"
     },
     {
      "title": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October",
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
+    },
+    {
      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -1544,14 +1552,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Origami and solar arrays"
-    },
-    {
-     "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
-     "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     }
    ]
   },
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The Usefulness of Useless Knowledge [pdf]",
+     "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+     "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Usefulness of Useless Knowledge [pdf]"
+    },
+    {
+     "title": "Agent swarm trying to solve P vs. NP",
+     "link": "https://pequalnp.com/",
+     "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Agent swarm trying to solve P vs. NP"
+    },
+    {
      "title": "‘You Can See Everything’ has made more than $100M worldwide",
      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
      "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
      "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 41 # Comments: 6",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 72 # Comments: 17",
      "source": "Hacker News",
      "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
     },
@@ -1805,9 +1821,17 @@ window.INDUSTRY_DATA = {
      "title": "AWS got hit by an outage too. You didn't hear about it",
      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
      "pubDate": "Sun, 22 Nov 2026 20:50:18 +0000",
-     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 20 # Comments: 1",
+     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 30 # Comments: 2",
      "source": "Hacker News",
      "zh": "AWS got hit by an outage too. You didn't hear about it"
+    },
+    {
+     "title": "I did a meditation and it sort of changed my personality?!",
+     "link": "https://www.benkuhn.net/meditation/",
+     "pubDate": "Sun, 22 Nov 2026 20:41:59 +0000",
+     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50603674 Points: 12 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "I did a meditation and it sort of changed my personality?!"
     },
     {
      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
@@ -1816,30 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Garrett Downs / CNBC : After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &ldquo;bumps in the road&rdquo; as systems are upgraded to adapt to the AI age &nbsp; &mdash;&nbsp; Director of National Intelligence Jay Clayton warned Americans to prepare for &ldquo;bu",
      "source": "Techmeme",
      "zh": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)"
-    },
-    {
-     "title": "A miniature San Francisco with live buses, planes and boats",
-     "link": "https://smallsf.com/",
-     "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 48 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "A miniature San Francisco with live buses, planes and boats"
-    },
-    {
-     "title": "Nyx, the Oldest Internet Service Provider",
-     "link": "https://nyx.net/",
-     "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 44 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Nyx, the Oldest Internet Service Provider"
-    },
-    {
-     "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-     "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-     "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 56 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
     {
      "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
@@ -2026,6 +2026,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Can you safely use a 140w charger on an iPhone?",
+     "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+     "pubDate": "Sun, 22 Nov 2026 22:30:00 +0000",
+     "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+     "source": "Engadget",
+     "zh": "Can you safely use a 140w charger on an iPhone?"
+    },
+    {
      "title": "This free app connects your Android phone to your Windows PC wirelessly",
      "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
      "pubDate": "Sun, 22 Nov 2026 22:15:00 +0000",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
      "source": "9to5Google",
      "zh": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’"
-    },
-    {
-     "title": "How Secure Is Your Password? Here's How To Test It",
-     "link": "https://www.engadget.com/2319522/how-secure-is-password/",
-     "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
-     "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
-     "source": "Engadget",
-     "zh": "How Secure Is Your Password? Here's How To Test It"
     },
     {
      "title": "Deal: Amazon's Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%",
@@ -2274,60 +2274,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg",
+     "link": "https://seekingalpha.com/news/4675415-iqvia-nears-1_1b-acquisition-of-uks-quotient-sciences-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 17:40:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg"
+    },
+    {
+     "title": "Zoom faces mounting estimate cuts ahead of Q3 earnings; outlook in focus",
+     "link": "https://seekingalpha.com/news/4675179-zoom-faces-mounting-estimate-cuts-ahead-of-q3-earnings-outlook-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 17:35:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zoom faces mounting estimate cuts ahead of Q3 earnings; outlook in focus"
+    },
+    {
+     "title": "Zoom Communications Q3 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675228-zoom-communications-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 17:35:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zoom Communications Q3 2027 Earnings Preview"
+    },
+    {
+     "title": "古特雷斯对COP31未就政治决定达成一致表示失望",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937018370.html",
+     "pubDate": "Mon, 23 Nov 2026 06:25:58 +0800",
+     "summary": "联合国秘书长古特雷斯22日发表声明，对《联合国气候变化框架公约》第三十一次缔约方大会（COP31）未能就政治决定达成一致表示失望。 古特雷斯说，他对大会在未就总体成果达成共识的情况下闭幕深感失望，他与所有期望各国政府挺身应对气候危机的人们一样深感沮丧。 他说，此次大会未达成共识并不能改变气候变化的事实，气温升高不断刷新纪录，气候极端事件持续加剧，温室气体排放量仍居高不下。而每一次拖延都让任务更艰难、代价更高昂。他强调，将升温上限控制在1.5摄氏度的时间窗口正在迅速关闭。 古特雷斯敦促各国摆脱化石燃料、加大减排力度。他呼吁发达国家兑现气候融资承诺。他还敦促民间社会、青年、原住民、科学家和气候变化",
+     "source": "东方财富股票",
+     "zh": "古特雷斯对COP31未就政治决定达成一致表示失望"
+    },
+    {
+     "title": "微亿智造港股IPO拟发行37,275,800股H股 发行价12.07至15.69港元 12月4日交易",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937018259.html",
+     "pubDate": "Mon, 23 Nov 2026 06:25:54 +0800",
+     "summary": "微亿智造在港交所公告，在港上市拟发行37,275,800股H股（视乎超额配股权行使与否而定），发行价区间介于12.07港元/股至15.69港元/股。预期股份在12月4日开始交易。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "微亿智造港股IPO拟发行37,275,800股H股 发行价12.07至15.69港元 12月4日交易"
+    },
+    {
+     "title": "AI制药提速！研发周期最多缩短一半 多股明年业绩可期(名单)",
+     "link": "http://stock.eastmoney.com/news/11134,202611233937018117.html",
+     "pubDate": "Mon, 23 Nov 2026 06:21:04 +0800",
+     "summary": "11月20日，全球多家制药巨头披露，AI已把新分子推进至临床的时间最多缩短一半。 机构预测，24只AI制药概念股明年业绩有望改善。 诺和诺德 把迭代从八轮降到三轮 全球多家大型制药公司的高级科研人员表示，今年以来， 人工智能 显著加快了药物研发早期阶段的工作进程。 葛兰素史克 、 百时美施贵宝 、诺华、 礼来 、 诺和诺德 、 阿斯利康 和 赛诺菲 均表示，已不再局限于用AI处理监管申报文件等基础工作，而是开始将其应用于分子设计、候选药物筛选及安全风险识别等关键环节。 阿斯利康 高管莎伦·巴尔直言：\"从药物发现到开发的整个流程中，没有任何一个环节不使用AI。\" 具体成果已经可以量化。 诺和诺德",
+     "source": "东方财富股票",
+     "zh": "AI制药提速！研发周期最多缩短一半 多股明年业绩可期(名单)"
+    },
+    {
+     "title": "报道：若达不成协议 特朗普倾向于新年后打击伊朗",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937018055.html",
+     "pubDate": "Mon, 23 Nov 2026 06:18:48 +0800",
+     "summary": "福克斯新闻记者Trey Yingst援引与美国总统特朗普的交谈称，特朗普表示，如果无法达成协议，他倾向于在新年后恢复对伊朗的打击。特朗普表示，目前仍在与伊朗进行间接对话。特朗普形容伊朗人是“专业的踢踏舞演员”，并补充说，他们所做的就只是空谈。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "报道：若达不成协议 特朗普倾向于新年后打击伊朗"
+    },
+    {
+     "title": "权益类产品担当主力 年内新发基金规模突破万亿元大关",
+     "link": "http://fund.eastmoney.com/news/11246,202611233937009728.html",
+     "pubDate": "Mon, 23 Nov 2026 06:18:29 +0800",
+     "summary": "权益类产品担当主力 年内新发基金规模突破万亿元大关 年内新发基金规模日前已突破万亿元大关。从产品结构看，权益类基金是发行主力军，新模式浮动管理费基金大幅扩容，资产配置工具箱持续丰富。从最新动向看，基金新品依然在加速推出，200多只基金正在或即将发行，公募逆周期布局特征明显。与此同时，多家头部公募掌门人发声，看多中国资产。 年内新发基金规模突破万亿元 11月21日，5只基金发布基金合同生效公告。Choice数据显示，截至11月22日，年内共成立了1613只新基金，发行规模合计达到10001.11亿元。 从产品端布局看，权益类基金占据半壁江山。截至11月22日，年内共成立了1069只权益类基金，发",
+     "source": "东方财富股票",
+     "zh": "权益类产品担当主力 年内新发基金规模突破万亿元大关"
+    },
+    {
+     "title": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937005393.html",
+     "pubDate": "Mon, 23 Nov 2026 06:16:47 +0800",
+     "summary": "从大额分红承诺到密集回购增持，上市公司以“真金 白银 ”回馈投资者的动作持续不断。权威数据显示：今年四季度以来，沪深上市公司共新增披露334单回购计划，预计回购金额上限超过700亿元，新增披露近1200单回购进展；新增控股股东、实际控制人、董事、高管 增持计划 109单，预计增持金额上限近200亿元，新增披露股东增持进展近300单。 上市公司回报投资者的实际规模也在不断提升。今年前10个月，A股上市公司分红超过5000家次、金额近2.4万亿元，已超2025年全年。受访的机构人士认为，分红回购规模显著超过同期融资规模，标志着市场投融资生态加速转变。随着回报投资者的工具箱持续丰富，A股长期投资价值",
+     "source": "东方财富股票",
+     "zh": "回购增持密集落地 一年多次分红成常态 A股市场投融资生态加速转变"
+    },
+    {
      "title": "House Democrats to start new Congress with largest majority this century",
      "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 22:10:45 GMT",
-     "summary": "Lawmakers plan to use new power to investigate claims of corruption levelled at Trump administration",
+     "summary": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
      "source": "Financial Times",
      "zh": "House Democrats to start new Congress with largest majority this century"
     },
     {
-     "title": "特朗普：早已预言民主党胜选将引发股市暴跌及伊朗袭击升级",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937016248.html",
-     "pubDate": "Mon, 23 Nov 2026 05:56:58 +0800",
-     "summary": "美国总统特朗普表示，大家应该都记得，我曾对11月3日的中期选举作出两项预测。第一，如果民主党获胜，股市将大幅下跌，而事实确实如此；第二，伊朗将加大攻击力度，而这也已经发生。过去一周，伊朗发射的 无人机 和导弹数量创下一年多以来的最高水平。别担心，它们全部被击落，没有造成任何损失。伊朗领导人认为民主党软弱无能、正在毁掉美国，但我绝不会允许这种事情发生！民主党和伊朗都拼尽全力，试图尽可能长时间地维持高油价，而自选举结束以来，油价已经出现创纪录的跌幅。可惜选民们在投票前没有看清这一点，但整场选举都非常‘奇怪’。最终，美国必将获胜。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：早已预言民主党胜选将引发股市暴跌及伊朗袭击升级"
+     "title": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11060,202611233937011743.html",
+     "pubDate": "Mon, 23 Nov 2026 06:03:35 +0800",
+     "summary": "11月23日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 A股大消息 三大交易所集体发布 11月22日，为加强 融资融券 逆周期调节，促进 融资融券 业务健康平稳发展，经中国证监会批准，沪深北交易所发布《关于调整融资保证金比例等相关安排的通知》，将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。 华友钴业：拟10亿元至15亿元回购股份 中证智能财讯 华友钴业 （603799）11月22日晚间公告，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司部分股份，回购资金总额不低于10亿元且不超过15亿元，回购股份用于维护公司价值及股东权益。 “淘金",
+     "source": "东方财富资讯",
+     "zh": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
-     "title": "马斯克：意识要么是错觉 要么以梯度形式普遍存在 难主张碳基能产生而硅基不行",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937016156.html",
-     "pubDate": "Mon, 23 Nov 2026 05:56:33 +0800",
-     "summary": "马斯克：意识要么是一种错觉，要么以梯度形式普遍存在。很难主张碳基可以产生意识，而硅基就不行。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "马斯克：意识要么是错觉 要么以梯度形式普遍存在 难主张碳基能产生而硅基不行"
-    },
-    {
-     "title": "影响市场重大事件：量子计算机“高速内存”全球首次真机实现；中国空间站多项空间科学实（试）验有序推进；我国“5G+工业互联网”项目超2.7万个",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937015376.html",
-     "pubDate": "Mon, 23 Nov 2026 05:52:52 +0800",
-     "summary": "｜2026年11月23日星期一｜ NO.1 量子 计算机 “高速内存”全球首次真机实现 11月21日，浙江大学西溪校区物理学院超导量子计算实验室内，形似巨型金属圆筒的稀释制冷机内部，一枚由浙江大学微纳加工中心制备、指甲盖大小的超导量子芯片躺在最低温区的混合室上，四周密布着 铝 线和微波同轴线缆。这枚芯片名为“天目2号”，此前在这里完成了一项重大突破——QRAM（量子随机存储器）的全球首次真机实现，这项成果相当于给量子 计算机 装上了“高速内存”。该研究由浙江大学物理学院、 计算机 学院、软件学院和宁波国际科创中心等团队完成，相关成果发表于国际期刊《自然·物理》。 NO.2 中国空间站多项空间科",
-     "source": "东方财富股票",
-     "zh": "影响市场重大事件：量子计算机“高速内存”全球首次真机实现；中国空间站多项空间科学实（试）验有序推进；我国“5G+工业互联网”项目超2.7万个"
-    },
-    {
-     "title": "特朗普发文称中期选举印证其两大预判 认为选举过程十分蹊跷",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937015993.html",
-     "pubDate": "Mon, 23 Nov 2026 05:52:38 +0800",
-     "summary": "美国总统特朗普表示，他此前针对11月3日中期选举作出两项预判。其一，若民主党赢得选举，股市将大幅下跌，该情况已经出现；其二，伊朗的袭击行动会变得更加激进，这一点也已应验。他称，伊朗上周发射的 无人机 和导弹数量创下一年多以来新高，不过这些目标均被击落，没有造成损失。特朗普提到，伊朗领导层认为民主党软弱无力、效率低下，会损害国家，但他不会允许这种局面发生。他认为民主党与伊朗此前都竭力维持油价高位，而选举结束之后油价出现创纪录下跌。特朗普感慨，遗憾选民在投票前没有看清这一点，整场选举十分“蹊跷”，他坚信美国最终会取得胜利。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普发文称中期选举印证其两大预判 认为选举过程十分蹊跷"
-    },
-    {
-     "title": "美国总统特朗普：上周伊朗无人机和导弹未造成损害",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937015832.html",
-     "pubDate": "Mon, 23 Nov 2026 05:52:07 +0800",
-     "summary": "美国总统特朗普：上周伊朗 无人机 和导弹未造成损害。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：上周伊朗无人机和导弹未造成损害"
-    },
-    {
-     "title": "美国总统特朗普：伊朗上周发射的无人机和导弹均被击落",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937015739.html",
-     "pubDate": "Mon, 23 Nov 2026 05:52:04 +0800",
-     "summary": "美国总统特朗普：伊朗上周发射的 无人机 和导弹均被击落。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：伊朗上周发射的无人机和导弹均被击落"
+     "title": "东方财富财经早餐 11月23日周一",
+     "link": "http://finance.eastmoney.com/news/11060,202611223936967073.html",
+     "pubDate": "Mon, 23 Nov 2026 06:00:32 +0800",
+     "summary": "每日精选 融资保证金比例下限降低： 沪深北交易所发布公告称，2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80% ，相关规则调整自2026年11月30日起施行。 一揽子降费措施： 新华社报道，记者从中国证监会了解到， 沪深交易所推出新一批降费措施 ，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月23日周一"
     },
     {
      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
@@ -2346,28 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ron Johnson’s Social Security gaffe buried important news"
     },
     {
-     "title": "东方财富财经早餐 11月23日周一",
-     "link": "http://finance.eastmoney.com/news/11060,202611223936967073.html",
-     "pubDate": "Mon, 23 Nov 2026 05:02:32 +0800",
-     "summary": "每日精选 融资保证金比例下限降低： 沪深北交易所发布公告称，2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80% ，相关规则调整自2026年11月30日起施行。 一揽子降费措施： 新华社报道，记者从中国证监会了解到， 沪深交易所推出新一批降费措施 ，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月23日周一"
-    },
-    {
      "title": "Bears will be yelling fire in crowded theater - Dan Ives",
      "link": "https://seekingalpha.com/news/4675414-bears-will-be-yelling-fire-in-crowded-theater-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 15:38:42 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bears will be yelling fire in crowded theater - Dan Ives"
-    },
-    {
-     "title": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11060,202611233937011743.html",
-     "pubDate": "Mon, 23 Nov 2026 04:29:35 +0800",
-     "summary": "11月23日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 A股大消息 三大交易所集体发布 11月22日，为加强 融资融券 逆周期调节，促进 融资融券 业务健康平稳发展，经中国证监会批准，沪深北交易所发布《关于调整融资保证金比例等相关安排的通知》，将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。 华友钴业：拟10亿元至15亿元回购股份 中证智能财讯 华友钴业 （603799）11月22日晚间公告，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司部分股份，回购资金总额不低于10亿元且不超过15亿元，回购股份用于维护公司价值及股东权益。 “淘金",
-     "source": "东方财富资讯",
-     "zh": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "Social Security should be shut down, this Republican senator says",
@@ -2410,22 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
     },
     {
-     "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
-     "link": "https://seekingalpha.com/news/4675411-openai-calls-for-industry-wide-ai-brake-tied-to-perplexity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 14:00:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OpenAI calls for industry-wide AI brake tied to perplexity"
-    },
-    {
-     "title": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?",
-     "link": "https://seekingalpha.com/news/4675384-sa-asks-how-much-of-a-threat-is-anthropics-multi-chip-strategy-to-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 14:00:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia?"
-    },
-    {
      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens",
      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
      "pubDate": "Sun, 22 Nov 2026 18:55:05 GMT",
@@ -2466,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
     },
     {
-     "title": "Delta flights delayed due to automated system issue",
-     "link": "https://seekingalpha.com/news/4675410-delta-flights-delayed-due-to-automated-system-issue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 11:44:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Delta flights delayed due to automated system issue"
-    },
-    {
      "title": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能",
      "link": "http://stock.eastmoney.com/news/11134,202611223936950810.html",
      "pubDate": "Mon, 23 Nov 2026 00:32:15 +0800",
@@ -2490,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "侃股：破净股安全边际有所不同 不能盲目布局"
     },
     {
-     "title": "iPhone Duo行情大跳水 第三方渠道价下探1300元",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936968851.html",
-     "pubDate": "Mon, 23 Nov 2026 00:19:18 +0800",
-     "summary": "据蓝鲸新闻报道，发售之初需要加价数千元的iPhone Duo正在面临行情大跳水。 平台价格显示，部分优惠价格已低于官方价格 1000多元。以 拼多多 为例，256G版本的iPhone Duo补贴价低至14699元，比官方价格低了1300元。得物上，256G版本的白色iPhone Duo 跌至15149元，较官方价格低了850元。 蓝鲸记者从数码商家处了解到，由于质量问题频发，风评下降，近期iPhone Duo 行情跳水严重。“我们这里全新未开封的256G版iPhone Duo只卖14700元。回收价更是跌到14500元。保值率甚至不如iPhone 18 Pro Max。”商家说道。 值得注意的",
-     "source": "东方财富资讯",
-     "zh": "iPhone Duo行情大跳水 第三方渠道价下探1300元"
-    },
-    {
      "title": "Sanctioned Russian vessel attacked by drones near Finland",
      "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 14:15:40 GMT",
@@ -2512,6 +2504,14 @@ window.INDUSTRY_DATA = {
      "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
      "source": "Financial Times",
      "zh": "COP31 climate talks fail after stand-off over fossil fuels"
+    },
+    {
+     "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+     "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+     "pubDate": "Sun, 22 Nov 2026 13:25:47 GMT",
+     "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+     "source": "CNBC",
+     "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
     }
    ]
   },

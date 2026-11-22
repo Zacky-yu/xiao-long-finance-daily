@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 19:11:54",
+ "generated_at": "2026/11/22 19:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -329,6 +329,14 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -337,12 +345,52 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -447,54 +495,6 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
-    },
-    {
-     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
-     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
-     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
-     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1785,6 +1785,86 @@
    "total": 18,
    "items": [
     {
+     "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
+     "link": "https://www.ithome.com/1/030/696.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:13:03 GMT",
+     "summary": "IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。 据IT之家了解，Domino 由 Mumford &amp; Sons 乐队成员、本 · 洛维特（Ben Lovett）创立。网站原本希望通过 The Strokes 乐队、仓库派对等元素，重现威廉斯堡昔日的独立音乐文化。 但网站上的 AI 生成图片却问题频出：不仅出现了一张从未真实举办过的 The Strokes 演唱会门票，还存在文字模糊、拼写错误等问题。图片",
+     "source": "IT之家",
+     "zh": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹"
+    },
+    {
+     "title": "云贵烤肉风起，加盟商的又一场豪赌开始了",
+     "link": "https://www.huxiu.com/article/4907520.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:12:11 +0800",
+     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：月半 如果说2023年是淄博烤肉和东北烤肉的“流量大年”，那么这两年，伴随着餐饮行业进入“地方特色风味深化”和“质价比极致卷”的阶段，云贵烤肉作为烤肉赛道中极具冲击力的新兴力量，杀出重围。走出地域滤镜，真正成为了一门“全国生意”。 云贵烤肉其实是一个泛指，具体来看，以贵州烙锅、毕节烤肉、云南宜良烤肉、傣味烤肉、建水烧烤等为主要代表。各个分支都掀起了或多或少的浪花。 在上海、成都、深圳、北京、青岛等餐饮风向标城市，大众点评“热门烤肉榜”的前10名中，常态化出现几家贵州烙锅或云南傣味/建水烧烤品牌，这些品牌多以自助形式出现，山野季、木姜子、云贵鲜切等关键",
+     "source": "虎嗅",
+     "zh": "云贵烤肉风起，加盟商的又一场豪赌开始了"
+    },
+    {
+     "title": "崇明通地铁后，跨岛上班会划算吗？",
+     "link": "https://www.huxiu.com/article/4907515.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:10:56 +0800",
+     "summary": "本文来自微信公众号： 上海市民生活指南 ，编辑：顾筝/，作者：徐妍斐 今年以来，崇明地铁的消息隔三差五就会上一次热搜。 进博会期间，又有一批新进展披露出来。紧接着，配有黄色内饰和弧形双人座的“紫金战车”车厢内部图在网上传开，社交平台一下子热闹了。 崇明岛要结束没有地铁的历史了。 对于大多数上海人来说，这意味着去崇明玩更方便。但对于另一群人而言，这条43公里长的地下轨道，直接关系到他们每天睁开眼后的第一件事——怎么跨过长江去上班。 在地铁22号线通车前夕，我们找了几个每天在崇明和上海市区之间往返的人聊了聊。 01 每天早上5点50分，天还没亮透，80后陈女士和丈夫陈先生已经坐进自家的电动汽车，准",
+     "source": "虎嗅",
+     "zh": "崇明通地铁后，跨岛上班会划算吗？"
+    },
+    {
+     "title": "老黄下课余震：远程算力被卡，阿里云还撑得住高增长吗？",
+     "link": "https://www.huxiu.com/article/4907514.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:08:10 +0800",
+     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 11月12日，黄仁勋在丑闻中辞去英伟达CEO等职务。海豚君在此前的快评中已提到，换帅只是发令枪，背后可能是为限制中国远程使用美国算力的法规扫清障碍。 随后事态果然加速：11月16日，美国商务部BIS发布远程访问新规，基本堵上中国企业经海外数据中心租用英伟达算力的口子，《远程访问安全法案》（RASA）和《AI Overwatch Act》也在推进，全面卡死中国企业获得高性能AI芯片的意图已很明显。 恰好受冲击最大的阿里今晚将发布财报，海豚君赶在财报前，以阿里为例做个定量测算：若BIS新规全面落地，对国内云计算和AI模型公司的影响到底有多大。 一、新",
+     "source": "虎嗅",
+     "zh": "老黄下课余震：远程算力被卡，阿里云还撑得住高增长吗？"
+    },
+    {
+     "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
+     "link": "https://www.tmtpost.com/8213860.html",
+     "pubDate": "Sun, 22 Nov 2026 19:06:02 +0800",
+     "summary": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。",
+     "source": "钛媒体",
+     "zh": "中国和印度，在非洲瓷砖市场的第二次交锋"
+    },
+    {
+     "title": "从快手独立，可灵要回答的问题变了",
+     "link": "https://www.tmtpost.com/8213670.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
+     "summary": "估值超过快手。",
+     "source": "钛媒体",
+     "zh": "从快手独立，可灵要回答的问题变了"
+    },
+    {
+     "title": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋",
+     "link": "https://www.tmtpost.com/8213631.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:20 +0800",
+     "summary": "南网储能数币结算落地，验证资金链新基建价值。",
+     "source": "钛媒体",
+     "zh": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋"
+    },
+    {
+     "title": "拆解大厂财报：谁最舍得为AI花钱？",
+     "link": "https://www.tmtpost.com/8212870.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:18 +0800",
+     "summary": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。",
+     "source": "钛媒体",
+     "zh": "拆解大厂财报：谁最舍得为AI花钱？"
+    },
+    {
+     "title": "两年两起事故，香港医院为何接连切错卵巢？",
+     "link": "https://www.huxiu.com/article/4907513.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 19:03:18 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：医研堂堂主 11月17日，香港中文大学医院公开承认，一名45岁女性患者的双侧卵巢被误切。 患者原本接受的是子宫及双侧输卵管切除术，术前明确要求保留卵巢，手术同意书上也写得清清楚楚。 手术前，医生和护士还按规定完成了核对。 结果，卵巢还是没了。 直到护士检查取出的手术标本，才发现两个本该留在患者体内的卵巢，已经被一并切除。 翻查香港医院管理局此前的调查报告，2024年2月，屯门医院也曾为一名女性切除子宫、卵巢、输卵管及盆腔淋巴组织。 这名患者原本被诊断患有子宫内膜癌。术后病理检查却没有找到癌细胞。医院最终查明，她的活检样本混入了另一名癌症患者的组织。 两",
+     "source": "虎嗅",
+     "zh": "两年两起事故，香港医院为何接连切错卵巢？"
+    },
+    {
+     "title": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年",
+     "link": "https://www.ithome.com/1/030/694.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:02:37 GMT",
+     "summary": "IT之家 11 月 22 日消息，据格隆汇报道，在零跑汽车 2026 年 Q3 业绩电话会上，零跑汽车副总裁李腾飞谈及与欧宝车型合作时称， 整体的 1 亿欧元 （现汇率约合 7.34 亿元人民币） 包含项目开发费及授权使用费等 ，整体收入确认贯穿今年底、明年初至项目量产、及量产后的 2 到 3 年，项目量产后还会有相关零部件的交易， 核心零部件都会有零跑去提供 。 李腾飞指出，此次与欧宝的车型合作只是开端，标志着零跑与 Stellantis 集团迈入一个新的合作阶段，“ 类似这样的合作项目，我们还有多个项目在深入洽谈当中 ，有些项目商务谈判已到了最后的收官阶段。” 据IT之家此前报道，11 月",
+     "source": "IT之家",
+     "zh": "零跑李腾飞谈“与欧宝车型合作”：1 亿欧元含项目开发、授权使用费等，收入将持续多年"
+    },
+    {
      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
      "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
      "pubDate": "Sun, 22 Nov 2026 11:02:00 +0000",
@@ -1809,28 +1889,36 @@
      "zh": "Banks Have Had It Up to Here With Your AI Agent"
     },
     {
-     "title": "TCL 推出“24P1B Lite”24 英寸显示器：1080P 165Hz，699 元",
-     "link": "https://www.ithome.com/1/030/689.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:42:54 GMT",
-     "summary": "IT之家 11 月 22 日消息，TCL 现已在京东上架“24P1B Lite”24 英寸显示器，该机采用 1080P 165Hz 规格， 定价为 699 元 ，国补后 629.1 元。 京东 TCL 24P1B Lite 显示器 699 元 直达链接 该机配备一块 1920x1080 分辨率 165Hz 超频（原生 144Hz）IPS 面板，亮度 250 尼特，MPRT 响应速度 1ms，静态对比度 1000:1，支持 8-Bit 色彩（6-Bit + FRC），覆盖 99.5% sRGB 色域。 该机采用商务风格支架底座，支架带有氛围灯效，支持俯仰。显示器本体支持 VESA 75x75mm",
+     "title": "深蓝汽车首家品牌中心在重庆开业，面积超 4000 平方米",
+     "link": "https://www.ithome.com/1/030/693.htm",
+     "pubDate": "Sun, 22 Nov 2026 10:59:07 GMT",
+     "summary": "IT之家 11 月 22 日消息，深蓝汽车宣布旗下首家品牌中心已于 11 月 19 日在重庆汽博中心正式开业，该中心面积超 4000 平方米，集“销售、交付、维保、用户体验”四大功能于一体。 深蓝汽车表示，深蓝汽车品牌中心提供更具质感的空间、更高标准的服务，打通了购车、用车、维修全链路， 中心内设置咖啡区、亲子区、休闲区等生活场景，并打造独立客休区与专属交付区。即便没有购车或维保需求，用户也可在周末携家人到店休憩 。门店还同时提供了生日、纪念日等定制化交车仪式。 此外，深蓝汽车品牌中心提供专属服务接口，实现“最快 1 小时内完成手续办理并提车”。售后服务区配备标准化维修工位与专属钣喷车间，机修",
      "source": "IT之家",
-     "zh": "TCL 推出“24P1B Lite”24 英寸显示器：1080P 165Hz，699 元"
+     "zh": "深蓝汽车首家品牌中心在重庆开业，面积超 4000 平方米"
     },
     {
-     "title": "蚂蚁电竞推出“ANT275TQ”27 英寸 HMO 氧化物显示器： 2K 540Hz、内置电源，6499 元",
-     "link": "https://www.ithome.com/1/030/688.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:36:59 GMT",
-     "summary": "IT之家 11 月 22 日消息，蚂蚁电竞现已在京东上架“ANT275TQ”27 英寸 HMO 氧化物 2K 540Hz 电竞显示器，定价为 6499 元。 京东 蚂蚁电竞“ANT275TQ”显示器 6499 元 直达链接 该机配备一块 2560x1440 分辨率 540Hz 第二代 HMO 氧化物面板，支持抗反射 / 防眩光，GtG 响应速度 1.21ms，同时拥有蚂蚁电竞真像素引擎，以提升清晰度和对比度，显示器支持 600 尼特峰值亮度，支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% DCI-P3 和 99% sRGB 色域。 该机背面配有氛围灯效，支架集成了隐藏走线设计",
+     "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+     "link": "https://www.ithome.com/1/030/692.htm",
+     "pubDate": "Sun, 22 Nov 2026 10:54:53 GMT",
+     "summary": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、闲鱼 CEO 谌伟业透露，过去一年已有超 150 万用户在闲鱼获得持续稳定的收入，其中约四成是 00 后和大学生。随着 App 向智能体演进，闲鱼买卖双端智",
      "source": "IT之家",
-     "zh": "蚂蚁电竞推出“ANT275TQ”27 英寸 HMO 氧化物显示器： 2K 540Hz、内置电源，6499 元"
+     "zh": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力"
     },
     {
-     "title": "小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元",
-     "link": "https://www.ithome.com/1/030/687.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:33:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，据小鹏集团消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏 G9L，两地售价分别折合人民币约 47.15 万元和 47.6 万元。这是小鹏首次在两个东南亚核心市场同步推出同一款旗舰车型。 在智能驾驶方面，小鹏 G9L 搭载图灵 AI 芯片，并具备全栈智能驾驶技术能力，为应对雅加达城市拥堵、曼谷复杂混合交通等场景提供硬件基础，持续降低用户日常驾驶负担。 在能源补给方面，全域 800V 高压平台与 5C 超充技术兼顾高效补能与长途出行需求，缓解用户对充电效率和续航的顾虑，让跨城出行更加从容。 在空间与舒适性方面，六座大空间布局兼顾家庭多人出行、商务接待及日常",
+     "title": "《GTA 6》里连刷手机都能玩出真实感：虚拟社交平台让玩家沉迷“无脑刷屏”",
+     "link": "https://www.ithome.com/1/030/691.htm",
+     "pubDate": "Sun, 22 Nov 2026 10:53:30 GMT",
+     "summary": "IT之家 11 月 22 日消息，偷车、抢劫累了怎么办？不妨停下来刷会儿手机，放松一下。 Rockstar Games 于周四正式推出《GTA 6》，这是《GTA》犯罪题材系列时隔 13 年迎来的首部全面重启作品。在游戏中，玩家可以打开 iFruit 手机里类似 Instagram 的社交应用 Snapmatic，浏览一个比现实互联网更加大胆、内容也更加露骨的虚拟社交网络。 在首次直播体验游戏时，YouTube 主播兼 Twitch 主播安德烈 · 雷贝洛-苏亚雷斯（Andre Rebelo-Soares，网名 TypicalGamer）一边浏览社交平台，一边说道：“他睡觉前还得刷一会儿手机。",
      "source": "IT之家",
-     "zh": "小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元"
+     "zh": "《GTA 6》里连刷手机都能玩出真实感：虚拟社交平台让玩家沉迷“无脑刷屏”"
+    },
+    {
+     "title": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元",
+     "link": "https://www.ithome.com/1/030/690.htm",
+     "pubDate": "Sun, 22 Nov 2026 10:50:36 GMT",
+     "summary": "IT之家 11 月 22 日消息，开发商 Untitled Studio 宣布旗下模拟游戏《铁匠大师（Blacksmith Master）》正式发售，本作背景设置在中世纪，玩家可以在游戏中体验锻造武器、盔甲、工具和厨具等环节。 价格方面，以 Steam 国区为例， 游戏原价 59 元，首发 5 折后低至 29.5 元 ，优惠将于 12 月 4 日结束，IT之家附游戏商品页（ https://store.steampowered.com/app/2292800/%E9%93%81%E5%8C%A0%E5%A4%A7%E5%B8%88_Blacksmith_Master/ ）。 在一座小小的中世纪",
+     "source": "IT之家",
+     "zh": "中世纪模拟经营游戏《铁匠大师》发售，Steam 国区首发 5 折 29.5 元"
     },
     {
      "title": "地球捕获了一颗迷你月球",
@@ -1857,60 +1945,12 @@
      "zh": "“Deepseek，慌啥子嘛”"
     },
     {
-     "title": "飞利浦“27M1N5500Z4”27 英寸显示器发售：2K 240Hz，1199 元",
-     "link": "https://www.ithome.com/1/030/686.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:27:32 GMT",
-     "summary": "IT之家 11 月 22 日消息，飞利浦现已在京东上架“27M1N5500Z4”27 英寸显示器，该机主打 2K 240Hz，定价为 1199 元。 京东 飞利浦“27M1N5500Z4”显示器 1199 元 直达链接 该机配备一块 2560x1440 分辨率 240Hz Fast IPS 面板，亮度 250 尼特，GtG 响应速度 1ms，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 100% sRGB 色域和 95% DCI-P3 色域。显示器支架支持升降 / 倾斜 / 旋转，提供 HDMI 和 DP 接口。",
-     "source": "IT之家",
-     "zh": "飞利浦“27M1N5500Z4”27 英寸显示器发售：2K 240Hz，1199 元"
-    },
-    {
-     "title": "比亚迪腾势 N8 预计交付周期公布：纯电旗舰型 11 月优先交付",
-     "link": "https://www.ithome.com/1/030/685.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:24:32 GMT",
-     "summary": "IT之家 11 月 22 日消息，比亚迪腾势汽车今日发布了腾势 N8 快问快答第 1 期，公布了腾势 N8 预计交付周期。 纯电尊荣型：12 月中旬陆续开启交付 纯电旗舰型：11 月优先交付，深空蓝、日光橙 12 月开启交付，主驾躺平座椅在 12 月中旬开启交付，20 英寸多辐星芒轮毂 12 月下旬陆续开启交付 纯电易三方尊荣型：2027 年 1 月上旬陆续开启交付，21 英寸星驰轮毂 2027 年 1 月下旬开启交付 纯电易三方旗舰型：12 月中旬陆续开启交付，21 英寸星驰轮毂 2027 年 1 月下旬开启交付 插混易三方尊荣型和插混易三方旗舰型：2027 年 2 月下旬陆续开启交付 官方",
-     "source": "IT之家",
-     "zh": "比亚迪腾势 N8 预计交付周期公布：纯电旗舰型 11 月优先交付"
-    },
-    {
      "title": "Anthropic伪人公司",
      "link": "https://www.huxiu.com/article/4907497.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 18:20:07 +0800",
      "summary": "本文来自微信公众号： 动察Beating ，作者：Sleepy，头图来自：AI生成 那时候有伟人在地上，后来神的儿子们和人的女子们交合生子；那就是上古英武有名的人。 /《创世记》6章4节 北京时间11月19日晚上10点半，Anthropic在纳斯达克敲钟。 镜头里站着八个人，身上别着像素螃蟹吉祥物Clawd的徽章。Dario Amodei低头念完一张讲稿，宣称公司&ldquo;不会向商业或政治压力低头&rdquo;。钟声落定，他举起双手，掌心朝上笑了起来，身旁的人一齐鼓掌。 视频传到社交媒体上，评论区反复冒出同一个词，伪人。笑不像笑，鼓掌不像鼓掌，连站在台上的姿态都透着一股说不清的别扭。 伪人",
      "source": "虎嗅",
      "zh": "Anthropic伪人公司"
-    },
-    {
-     "title": "马斯克：SpaceX 首个被“筷子”机械臂捕获的星舰上面级将退役，会公开展出",
-     "link": "https://www.ithome.com/1/030/684.htm",
-     "pubDate": "Sun, 22 Nov 2026 10:20:05 GMT",
-     "summary": "IT之家 11 月 22 日消息，SpaceX 首艘成功返回并被发射塔机械臂捕获的星舰（Starship）上面级，将不会再次执行飞行任务，而是被保留下来作为公开展品。 这艘飞船名为 Ship 42，于 11 月 13 日参加了星舰第 15 次试飞。一天后，它从轨道返回地球，平稳降落在 SpaceX 位于美国得克萨斯州南部星际基地（Starbase）的发射塔上，并成功被塔架上的“筷子”机械臂捕获。 SpaceX 创始人兼首席执行官埃隆 · 马斯克（Elon Musk）表示，Ship 42 在第 15 次试飞后状态良好， 经过几周的维护和翻修，理论上就可以再次执行飞行任务 。不过，这艘飞船最终不会",
-     "source": "IT之家",
-     "zh": "马斯克：SpaceX 首个被“筷子”机械臂捕获的星舰上面级将退役，会公开展出"
-    },
-    {
-     "title": "不记事",
-     "link": "https://www.huxiu.com/article/4907507.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 18:15:46 +0800",
-     "summary": "本文来自微信公众号： 梁孝永康 ，作者：梁孝永康 长官说他经常会回忆过去的事情。他似乎有着独特的记忆力，能记住很多十多二十年前的事情，说起来的时候连细节都能描叙得很详细。像骑行长征路这种只过去五到六年的事情，他能记住路上的很多镇，很多小地方发生的事情，甚至某个镇住哪个酒店，晚上去吃了什么东西都知道。对我来说这很匪夷所思，路上天天有事发生，天天住酒店，我的记忆早就很模糊了，只知道我做过骑行长征这么个事。 这和长官的爱好有关，长官喜欢回忆，思考，整理过去发生的种种。分门别类，装进一个个抽屉里，并且有详细的目录索引，随时能找到相应的抽屉把想要的记忆找出来。所以长官的记忆力在不断强化。 而我是完全相反",
-     "source": "虎嗅",
-     "zh": "不记事"
-    },
-    {
-     "title": "误切双侧卵巢，香港知名医生道歉",
-     "link": "https://www.huxiu.com/article/4907505.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 18:09:17 +0800",
-     "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 香港中文大学医院一名患者接受子宫及输卵管切除手术后，原定保留的双侧卵巢却在术中被误切。目前，涉事医院和医生已公开致歉。 连日来，香港一名45岁患者双侧卵巢被误切事件引发业内关注。 11月17日，香港中文大学医院就这起医疗风险警示事件公开致歉。院方披露，患者因疑有子宫内膜病变，于9月12日接受腹腔镜子宫及双侧输卵管切除术，术前选择保留双侧卵巢的方案，但双侧卵巢在术中被一并切除。 次日，涉事主刀医生张德康接受香港电台采访，承认手术失误并致歉。医院官网显示，他是该院妇科肿瘤科顾问医生，也是香港中文大学医学院妇产科学系名誉临床教授。 ",
-     "source": "虎嗅",
-     "zh": "误切双侧卵巢，香港知名医生道歉"
-    },
-    {
-     "title": "厂罚商：合同里没有的罚款，都是抢钱",
-     "link": "https://www.huxiu.com/article/4907504.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 18:09:07 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：高级研究员 海游 近日，有位经销商给我发了一个表格，上面写着今年代理某品牌被厂家的罚款明细，其中有新品推广发货处罚，有重点网点开发未达目标处罚，这些都是账扣罚款。 还有部分罚款是业绩未达标，市场费用打折核销，有些罚款科目是总部规定的，有的罚款科目是战区和大区制定的，半年下来利润几乎被罚款吞完了。 现在市场压力这么大，如果这样持续下去，这个品牌就无法合作了，虽然不舍，但也不得不放弃。 究竟品牌商该不该对经销商进行罚款？有没有权力进行罚款，今天就聊聊这个话题。 罚款的合理与不合理 罚款，作为一种管理手段，本意在于规范渠道行为、维护市场秩序。合同中明确约定的串货",
-     "source": "虎嗅",
-     "zh": "厂罚商：合同里没有的罚款，都是抢钱"
     },
     {
      "title": "丰田尼桑本田同意标准化零部件以降低成本",
@@ -1929,18 +1969,18 @@
      "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
     },
     {
-     "title": "和DreamZero 一作聊聊WAM 这一年",
-     "link": "https://www.huxiu.com/article/4907502.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 17:52:29 +0800",
-     "summary": "本文来自微信公众号： 42号电波 ，作者：小波，编辑：大吉，原文标题：《和 DreamZero 一作聊聊 WAM 这一年》 11月9日，英伟达在奥斯汀的机器人学习大会CoRL发布GR00T 2。在它公布的一组测试中，双手机器人面对50项没有提供过目标机器人示范的任务，仅凭预训练能力，平均成功率达到40%；每项任务补充五次示范，再做微调，成功率提高到95%。这些任务此前出现在人类视频或其他机器人的数据里，如今开始能够被迁移到一副新的身体上。 GR00T 2延续了今年2月DreamZero探索的世界动作模型（World Action Model，WAM）路线：让模型同时预测未来画面和机器人动作，把",
-     "source": "虎嗅",
-     "zh": "和DreamZero 一作聊聊WAM 这一年"
+     "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+     "link": "https://arxiv.org/abs/2606.14068",
+     "pubDate": "Sun, 22 Nov 2026 09:18:36 +0000",
+     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts"
     },
     {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 139 # Comments: 158",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 161 # Comments: 210",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     },
@@ -1983,46 +2023,6 @@
      "summary": "团队 8 人，其中能投在获客上的只有 2 个半人，产品是面向北美中小企业的协作类 SaaS，刚过 PMF 进入起量阶段。目前尝试过 Product Hunt 首发、SEO 内容站和 LinkedIn 外呼三条线：PH 带来约 400 个注册但两周后留存不到 8%，SEO 三个月只排上 20 多个长尾词，外呼每周 150 封回复率 3% 左右。人手就这么多，每条线都做等于每条线都做不深，现在卡在不知道该砍掉哪条、把仅有的 2 个人压在哪个渠道上。想直接问：在这个人力约束下，你们判断渠道优先级的硬标准是什么？",
      "source": "白鲸出海",
      "zh": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？"
-    },
-    {
-     "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
-     "link": "https://www.baijing.cn/question/638897",
-     "pubDate": "Sun, 22 Nov 2026 07:39:57 +0000",
-     "summary": "我们做非洲独立站，尼日利亚市场月 GMV 大概 8 万美元，团队 6 个人，去年 Q4 起接入 Paystack 收奈拉，原本 T+7 结算，最近两个月实际到账周期拉到 18-21 天，客服说跟银行清算和风控复核有关。同时拉各斯本地配送用第三方物流，妥投平均 5.5 天，COD 拒收率 22%，现金流被两头挤。试过把部分订单切到 Flutterwave 对比，费率略高但时效没稳定下来；也试过预付折扣引导，转化只涨了 3 个点。现在卡在到底是先换支付通道压回款，还是先改履约结构降拒收，这两件事预算只够动一个。按尼日利亚当前实际情况，判断优先级该看哪个指标？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？"
-    },
-    {
-     "title": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？",
-     "link": "https://www.baijing.cn/question/638896",
-     "pubDate": "Sun, 22 Nov 2026 07:22:51 +0000",
-     "summary": "我们做中东阿语短剧，沙特和阿联酋两个市场，团队一共9个人，其中阿语内容只有2个本地编辑，一个负责翻译一个负责配音对接。第一季20集上周刚上线，投放跑的是TikTok和Snapchat，首日激活成本还行，但次留只有18%，第7集之后流失特别明显，后台评论里不少人说台词像翻译腔、配音和口型对不上。现在排期很紧，第二季剧本已经定了要开拍，本地编辑一周最多审5集，配音棚在迪拜要提前两周约。已经试过把前3集重新配音、加了沙特本地俚语字幕，留存只涨了2个点。卡在人力不够、到底是先停下来改剧本还是先补配音，想问问做过阿语短剧的同行，这个阶段该先动哪一头？",
-     "source": "白鲸出海",
-     "zh": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？"
-    },
-    {
-     "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
-     "link": "https://www.techmeme.com/261122/p5#a261122p5",
-     "pubDate": "Sun, 22 Nov 2026 02:00:41 -0500",
-     "summary": "New York Times : Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips &nbsp; &mdash;&nbsp; China's espionage agency has been running a secret campaign to help the country's companies acquire adv",
-     "source": "Techmeme",
-     "zh": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)"
-    },
-    {
-     "title": "Notes on the discrete Fourier transform (DFT)",
-     "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-     "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 31 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Notes on the discrete Fourier transform (DFT)"
-    },
-    {
-     "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
-     "link": "https://www.techmeme.com/261122/p4#a261122p4",
-     "pubDate": "Sun, 22 Nov 2026 01:40:16 -0500",
-     "summary": "Mike Pearl / Gizmodo : Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines &nbsp; &mdash;&nbsp; FSD v15 was released to some vehicles on Saturday.&nbsp; Its visualization system may be the mo",
-     "source": "Techmeme",
-     "zh": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)"
     }
    ]
   },
@@ -2281,20 +2281,68 @@
    "total": 13,
    "items": [
     {
+     "title": "中国结算：暂免收取部分债券登记结算费用",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936928656.html",
+     "pubDate": "Sun, 22 Nov 2026 19:13:04 +0800",
+     "summary": "中国结算关于暂免收取部分债券登记结算费用的通知 各市场参与主体： 为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎回回售手续费。 二、自2027年1月1日起至2028年12月31日，继续暂免收取民营企业公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎",
+     "source": "东方财富股票",
+     "zh": "中国结算：暂免收取部分债券登记结算费用"
+    },
+    {
+     "title": "欧盟及成员国反对安塔利亚气候协定",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936928567.html",
+     "pubDate": "Sun, 22 Nov 2026 19:09:00 +0800",
+     "summary": "欧盟代表团发布声明表示，欧盟代表团对最终的COP31声明决定草案深感失望，我们不会支持一项甚至没有提及化石燃料的总体决定。我们不会接受一场为化石燃料进行“漂绿”的联合国气候变化大会，提交给我们的草案根本没有解决我们面临的气候紧急状况。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "欧盟及成员国反对安塔利亚气候协定"
+    },
+    {
+     "title": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制",
+     "link": "http://stock.eastmoney.com/news/1611,202611223936928278.html",
+     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
+     "summary": "知情人士称， Anthropic 曾要求对部分 银行 实施为期六个月的限制，禁止他们在此（IPO）期间为包括OpenAI和DeepSeek在内的竞争对手提供服务。 Anthropic 要求部分参与其IPO的投行将交易团队人数限制在4名资深 银行 家以内。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制"
+    },
+    {
+     "title": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响",
+     "link": "http://stock.eastmoney.com/news/1611,202611223936928147.html",
+     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
+     "summary": "知情人士称， 银行 私下抱怨， Anthropic 的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响"
+    },
+    {
+     "title": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936927970.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
+     "summary": "11月22日， 荣盛发展 （SZ002146，股价0.96元，市值41.74亿元）披露《关于公司股票存在可能因股价低于面值被终止上市的风险提示公告》，公司股票11月20日收盘价为0.96元/股，自2026年11月20日起收盘价首次低于1元，公司因此提示，股票可能因股价低于面值被终止上市。 值得注意的是，11月20日， 荣盛发展 收盘报0.96元/股，跌5.88%，为11月17日首次跌破1元（收0.90元、跌停）、11月19日短暂回升至1.02元后的再度跌破。公司再次发布面值退市风险提示，根据规则，连续低于1元的交易日自11月20日重新起算。 二级市场上， 荣盛发展 股价年内总体呈震荡下行态势，",
+     "source": "东方财富股票",
+     "zh": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成"
+    },
+    {
+     "title": "上交所组合式推出新一批降费措施 助力激发市场主体活力",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936927660.html",
+     "pubDate": "Sun, 22 Nov 2026 19:05:34 +0800",
+     "summary": "11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。对上市公司，全面免收上市费、上证e服务、上证e投票等",
+     "source": "东方财富股票",
+     "zh": "上交所组合式推出新一批降费措施 助力激发市场主体活力"
+    },
+    {
+     "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+     "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+     "pubDate": "Sun, 22 Nov 2026 11:00:05 GMT",
+     "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+     "source": "Financial Times",
+     "zh": "Did Anthropic and its bankers get a key call wrong after IPO?"
+    },
+    {
      "title": "上交所正推动修订科创板做市商规则",
      "link": "http://finance.eastmoney.com/news/1345,202611223936927537.html",
      "pubDate": "Sun, 22 Nov 2026 18:56:56 +0800",
      "summary": "11月22日，证券时报记者获悉，近期上交所正推动修订《上海证券交易所证券交易业务指南第8号——科创板股票做市》。规则修订聚焦优化做市报价义务指标、完善做市商竞争评价机制、提升做市周转效率、强化风险防控要求等方面，兼顾做市商交易能力提升和做市业务规范管理，提高做市商履行义务要求，激励做市商扩大报价规模，促进做市业务形成良性生态，引导做市商更加规范、持续、稳定供给流动性，推动做市报价进一步提质增效。 （文章来源：证券时报）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "上交所正推动修订科创板做市商规则"
-    },
-    {
-     "title": "韩国将推出分阶段措施以稳定市场波动",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936927486.html",
-     "pubDate": "Sun, 22 Nov 2026 18:56:15 +0800",
-     "summary": "韩国高层金融官员在周日召开的紧急会议后表示，鉴于市场波动加剧，韩国宣布了分阶段措施以稳定市场，其中包括确保股票稳定基金就绪，以便在必要时采取行动。根据一份联合声明，韩国财政部长李炯日、韩国央行行长申铉松以及金融服务委员会和金融监督院的负责人于周日举行会议，讨论美国股市抛售可能带来的连锁反应，并制定应急预案。韩国政府方面表示，将立即着手筹备股市稳定基金，以确保在必要时能够启动该基金。声明称，为缓解市场波动，将放宽上市公司每日股票回购限额，为期三个月；并将针对非法卖空活动实施为期三个月的特别强化监控，一旦发现此类行为，当局将“严厉应对”。韩国官员们表示，由于 人工智能 和芯片行业存在不确定性，国内",
-     "source": "东方财富股票",
-     "zh": "韩国将推出分阶段措施以稳定市场波动"
     },
     {
      "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
@@ -2305,44 +2353,20 @@
      "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
     },
     {
-     "title": "启迪设计：将被实施其他风险警示 23日停牌一天",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936927381.html",
-     "pubDate": "Sun, 22 Nov 2026 18:46:10 +0800",
-     "summary": "上证报中国证券网讯（记者潘建樑） 启迪设计 晚间公告，公司于2026年11月19日收到中国证券监督管理委员会江苏监管局（以下简称“江苏证监局”）下发的《行政处罚事先告知书》，根据《深圳证券交易所创业板股票上市规则》第9.4条第七项规定，公司股票将被实施其他风险警示。公司股票于2026年11月 23日（星期一）开市起停牌一天，将于2026年11月24日（星期二）开市起复牌。 公司股票自2026年11月24日（星期二）开市起被实施“其他风险警示”，股票简称由“ 启迪设计 ”变更为“ST启设”；股票代码不变，仍为“300500”；实施其他风险警示后公司股票交易的日涨跌幅限制不变，仍为20%。 （文章",
-     "source": "东方财富股票",
-     "zh": "启迪设计：将被实施其他风险警示 23日停牌一天"
-    },
-    {
-     "title": "深市回购增持热潮持续升温 龙头企业大手笔引领",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936926792.html",
-     "pubDate": "Sun, 22 Nov 2026 18:43:00 +0800",
-     "summary": "据统计，深市36家次公司披露回购 增持计划 或提议，76家次公司披露回购增持进展公告，7家次公司披露获得回购增持专项贷公告，上市公司及重要股东以真金 白银 传递对未来发展的信心。 11月20日以来，深市回购增持阵营再度扩容。 据统计，深市36家次公司披露回购 增持计划 或提议，76家次公司披露回购增持进展公告，7家次公司披露获得回购增持专项贷公告，上市公司及重要股东以真金 白银 传递对未来发展的信心。 回购队伍持续壮大 11月20日， 宏桥控股 披露董事长提议回购股份方案公告。基于对长期价值的认可和对未来发展的坚定信心，公司董事长提议以不超过4亿元回购公司股份，用于注销并减少注册资本、 股权激",
-     "source": "东方财富股票",
-     "zh": "深市回购增持热潮持续升温 龙头企业大手笔引领"
-    },
-    {
-     "title": "弘信电子已斥资3.78亿元回购股份 未使用股份将注销",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936926593.html",
-     "pubDate": "Sun, 22 Nov 2026 18:42:55 +0800",
-     "summary": "近日， 弘信电子 (300657)发布系列股份回购进展公告，公司回购进展迅速。根据此前公告， 弘信电子 于2026年11月2日审议通过《关于回购公司股份方案的议案》，拟以自有或自筹资金3亿—6亿元，以集中竞价交易方式回购公司股份，回购股份将用于员工持股计划或者 股权激励 ，回购价格不超过51元/股。 11月12日晚，公司发布首份回购股份公告。当天，公司回购股份4092968股，占公司总股本的比例为0.8349%，回购成交的最高价为31.47元/股，最低价为30.54元/股；11月16日晚，公司公告已累计回购公司股份数量为9480898股，占公司总股本的比例为1.9340%，回购成交的最高价为3",
-     "source": "东方财富股票",
-     "zh": "弘信电子已斥资3.78亿元回购股份 未使用股份将注销"
-    },
-    {
      "title": "沪深交易所、中国结算推出一揽子降费措施",
      "link": "http://finance.eastmoney.com/news/1345,202611223936924891.html",
      "pubDate": "Sun, 22 Nov 2026 18:41:42 +0800",
-     "summary": "记者11月22日从中国证监会了解到，沪深交易所推出新一批降费措施，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服务费及债券结算费。 （文章来源：新华社）",
-     "source": "东方财富股票",
+     "summary": "记者11月22日从中国证监会了解到，沪深交易所推出新一批降费措施，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服务费及债券结算费。 相关报道 上交所组合式推出新一批降费措施 助力激发市场主体活力 11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延",
+     "source": "东方财富资讯",
      "zh": "沪深交易所、中国结算推出一揽子降费措施"
     },
     {
-     "title": "沪深北交易所降低融资保证金比例下限至80% 理论上可带来增量资金近4000亿元",
+     "title": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元",
      "link": "http://finance.eastmoney.com/news/1345,202611223936924279.html",
      "pubDate": "Sun, 22 Nov 2026 18:37:21 +0800",
-     "summary": "经证监会批准，沪深北交易所将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。据测算，此次调整理论上可带来增量资金近4000亿元。 （文章来源：财联社）",
+     "summary": "经证监会批准，沪深北交易所将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。据测算，此次调整理论上可带来增量资金近4000亿元。这意味着投资者用100万元的保证金最多可以向证券公司融资125万元买入证券，该笔融资交易的杠杆倍数为1.25倍，可融资买入规模提升了25%。而现有的融资交易杠杆倍数为1倍，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。 （文章来源：财联社）",
      "source": "东方财富资讯",
-     "zh": "沪深北交易所降低融资保证金比例下限至80% 理论上可带来增量资金近4000亿元"
+     "zh": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元"
     },
     {
      "title": "深交所拟在创业板引入做市商制度",
@@ -2353,20 +2377,12 @@
      "zh": "深交所拟在创业板引入做市商制度"
     },
     {
-     "title": "沪深北交易所降低融资保证金比例下限至80%",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936923898.html",
-     "pubDate": "Sun, 22 Nov 2026 18:33:04 +0800",
-     "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额，",
-     "source": "东方财富资讯",
-     "zh": "沪深北交易所降低融资保证金比例下限至80%"
-    },
-    {
-     "title": "十大机构论市：当前位置不必过度悲观 反弹总在逆境中诞生",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936922832.html",
-     "pubDate": "Sun, 22 Nov 2026 18:20:22 +0800",
-     "summary": "本周沪指下跌2.77%，深证成指下跌6.49%，创业板指下跌8.82%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生 经过本周下跌后，除上证50、科创50外的多数指数都出现不同程度的破位，而 微盘股 的补跌凸显出市场的流动性问题，以上两方面情形昭示着本轮底部构筑过程的“艰难”。但参考历史（如2015年9月、2022年4月、2024年2月）来看，反弹行情多数是在“逆境中诞生”，诸多证据昭示当前位置不必过度悲观。其一，场外大资金自10月15日以来大量申购主流ETF，截止11月19日收盘合计净买入5892亿元，这与2024年",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：当前位置不必过度悲观 反弹总在逆境中诞生"
+     "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
+     "link": "https://wallstreetcn.com/articles/3786459",
+     "pubDate": "Sun, 22 Nov 2026 17:36:56 +0800",
+     "summary": "韩国政府宣布启动股市稳定基金激活准备工作，并同步出台多项市场稳定措施，这是2008年全球金融危机以来该基金第三次面临实际动用的可能。此举背景是全球AI产业情绪持续恶化，韩国股市遭受重挫。 韩国副总理兼财政部长Lee Hyoung-il于22日主持召开金融市场紧急会议（F4会议），宣布上述措施。会议决定， 政府将立即启动股市稳定基金（증안펀드）激活机制的准备工作，视市场情况随时部署。与此同时，上市公司自股回购每日申报量上限将自24日起放宽三个月，并同步启动为期三个月的非法卖空专项监控期。 上述措施出台的直接导火索，是KOSPI指数20日单日暴跌逾5%，美国纳斯达克指数同日下挫5.28%。与会官员",
+     "source": "华尔街见闻",
+     "zh": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月"
     },
     {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
@@ -2409,14 +2425,6 @@
      "zh": "A rocky road to Irish unity"
     },
     {
-     "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
-     "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:14 GMT",
-     "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
-     "source": "Financial Times",
-     "zh": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors"
-    },
-    {
      "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
      "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
@@ -2447,14 +2455,6 @@
      "summary": "美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比特币跌14.2%，铜价跌超9%。 两家投行均警告，单靠对冲基金降仓不足以确认市场见底；摩根大通更指出，当前盘面正愈发贴近",
      "source": "华尔街见闻",
      "zh": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”"
-    },
-    {
-     "title": "阻止美联储加息的最快方式：美股“以死相逼”",
-     "link": "https://wallstreetcn.com/articles/3786446",
-     "pubDate": "Sun, 22 Nov 2026 11:38:21 +0800",
-     "summary": "美银首席投资策略师Michael Hartnett在本周最新的Flow Show指出，阻止美联储继续加息的最快方式，是让股市回吐2026年的全部涨幅。这一目标位对应标普500指数6,845点，而该指数上周五收于6,925点，距离触发仅剩80点、约1.2%的空间。在连续六周维持\"避险\"立场后，Hartnett的框架正从预测变为市场现实。 上周美股录得\"解放日\"以来最差单周表现。 标普500单周下跌8.4%，连续第七个交易日走低并跌破200日均线，进入技术性回调 ；纳斯达克100较10月纪录高点回落19.8%，逼近熊市边缘；VIX一度突破39。据Hartnett统计，标普500年内涨幅已从一周前的",
-     "source": "华尔街见闻",
-     "zh": "阻止美联储加息的最快方式：美股“以死相逼”"
     },
     {
      "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",

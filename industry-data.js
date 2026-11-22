@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 11:31:57",
+ "generated_at": "2026/11/22 11:51:57",
  "recent_days": 7,
  "industries": [
   {
@@ -50,22 +50,6 @@ window.INDUSTRY_DATA = {
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
-     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-     "link": "https://www.qbitai.com/2026/11/511855.html",
-     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
-    },
-    {
-     "title": "中国计算，走出新的登峰之路",
-     "link": "https://www.qbitai.com/2026/11/511849.html",
-     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "中国计算，走出新的登峰之路"
-    },
-    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -82,36 +66,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
     },
     {
-     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-     "link": "https://www.qbitai.com/2026/11/511841.html",
-     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
-    },
-    {
-     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
-     "link": "https://www.qbitai.com/2026/11/511830.html",
-     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
-    },
-    {
-     "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-     "link": "https://www.qbitai.com/2026/11/511791.html",
-     "pubDate": "Sat, 21 Nov 2026 11:24:29 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢"
-    },
-    {
      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
      "link": "https://www.qbitai.com/2026/11/511779.html",
      "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
      "summary": "还实现可变形物体操控全球首通",
      "source": "量子位",
      "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+    },
+    {
+     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+     "link": "https://www.qbitai.com/2026/11/511570.html",
+     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+     "summary": "专为本地部署而生",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511757.html",
+     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -242,12 +218,36 @@ window.INDUSTRY_DATA = {
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
+     "title": "米哈游发了个VLA论文",
+     "link": "https://www.qbitai.com/2026/11/511740.html",
+     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
+     "summary": "8B参数，50小时自主运行",
+     "source": "量子位",
+     "zh": "米哈游发了个VLA论文"
+    },
+    {
+     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+     "link": "https://www.qbitai.com/2026/11/511727.html",
+     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
+    },
+    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
      "source": "KDnuggets",
      "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
+    },
+    {
+     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+     "pubDate": "Fri, 20 Nov 2026 14:44:52 +0000",
+     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
     }
    ]
   },
@@ -1786,12 +1786,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "当叙事VIX和市场VIX 共振",
-     "link": "https://www.huxiu.com/article/4907452.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 11:22:28 +0800",
-     "summary": "本文来自微信公众号： 肖小跑 ，作者：肖小跑，原文标题：《当叙事 VIX和市场 VIX 共振》 01 大家吃市场的瓜吃的怎么样了？（真心希望大家只是在吃瓜）。 每次市场崩盘，我们很容易听到的一个词：\"共振\"。这个词让我想起小时候，物理老师只要讲到“共振”，肯定会提到拿破仑军队那个故事：法国士兵迈着整齐的正步走过一座桥，步点刚好踩在桥身自己的固有频率上，好好的一座桥就这么踩塌了。 大概因为这个故事太好懂了，金融业界也喜欢上了“共振”这个词。当每次大盘跳水，很多相关不相关，甚至本应该作为对冲的市场（黄金、比特币）也跟着一起跳水时，市场的叙事中肯定会出现四个字：“利空共振”。顿觉威力倍增。 但我爸物",
+     "title": "了不起的盖茨比",
+     "link": "https://www.huxiu.com/article/4907463.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:48:08 +0800",
+     "summary": "本文来自微信公众号： 心智观察所 ，作者：心智观察所，原文标题：《起底Anthropic（三）了不起的盖茨比》 2006年6月，微软创始人比尔·盖茨与沃伦·巴菲特，相继宣布了投身慈善事业的重大决定，引发美国乃至全球社会广泛关注。 对一整代以其为偶像的新中产来说，相当于经历了一次前所未有的慈善意识启蒙。 桥水基金的办公室里，哈佛社会研究专业出身的年轻人霍尔顿·卡诺夫斯基，敏锐嗅到了一个施展抱负的全新空间。他先是和搭档埃利·哈森菲尔德在公司内部拉起业余慈善俱乐部，紧接着在2007年干脆全职创办了量化慈善评估机构GiveWell。 一年后，还在普林斯顿大学攻读物理学博士的达里奥·阿莫代伊，关注到了卡",
      "source": "虎嗅",
-     "zh": "当叙事VIX和市场VIX 共振"
+     "zh": "了不起的盖茨比"
+    },
+    {
+     "title": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+     "link": "https://www.huxiu.com/article/4907462.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:45:09 +0800",
+     "summary": "本文来自微信公众号： InfoQ ，作者：林绮蓓、Tina 系统崩了，工程师们紧急开会。照理说，这时候最该有人站出来，指出故障发生在哪一层、哪段代码出了问题、系统该怎么恢复。但会议室里，竟然没有一个人说得清楚。 所有人都在做同一件事：向Claude提问。 这可不是哪个程序员编出来的黑色幽默。这是近期Flask作者、Pi开发者Armin Ronacher在一场访谈中透露的同行经历。对此他感叹道：“真的太可怕了。” 不过，这位发出如此感叹的恰恰是正在把越来越多软件开发工作交给AI的人。Armin参与开发的Pi，每天会收到约40至50个新Issue。如今，团队已经让Agent接手了相当一部分问题处理",
+     "source": "虎嗅",
+     "zh": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修"
+    },
+    {
+     "title": "英特尔CEO 陈立武最新访谈：芯片周期未见顶，英特尔的翻盘节点在2028",
+     "link": "https://www.huxiu.com/article/4907461.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:45:09 +0800",
+     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《英特尔 CEO 陈立武最新访谈：芯片周期未见顶，英特尔的翻盘节点在 2028》 在全球半导体产业版图中，陈立武是少有的横跨技术、产业与投资三界的元老级人物。他曾主导芯片设计工具（EDA）巨头Cadence的业务重组，作为华登国际创始人，他早期孵化和投资了包括Annapurna Labs在内的多家核心芯片企业。 当他接手走在十字路口的英特尔时，面对的是这家成立58年的老牌芯片巨头最艰难的时刻：制程落后于台积电，数据中心市场被老对手AMD不断侵蚀，同时在这一轮生成式AI热潮中面临边缘化风险。 在TomorrowX峰会上，",
+     "source": "虎嗅",
+     "zh": "英特尔CEO 陈立武最新访谈：芯片周期未见顶，英特尔的翻盘节点在2028"
+    },
+    {
+     "title": "一家370多年的日本老店，靠一根绳子活到了今天",
+     "link": "https://www.huxiu.com/article/4907460.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:45:08 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 十月底的东京，神乐坂的早晨。 离热闹的商业街不远，一条幽静的小巷里藏着一栋清水混凝土建筑，门口只有一块不太起眼的招牌：Kumihimo Experience by DOMYO（道明组钮体验馆）。 如果不是特意寻找，大概很容易从门前走过。它既没有传统日本老铺的木质门面，也没有刻意营造的怀旧气氛，看起来更像一家现代设计工作室。招牌上的Kumihimo，日语写作“组纽”，说白了就是编绳子。 上午十点半，我站在这栋建筑门前，离约定的时间还有半个小时。我此行的目的，是拜访一位研究克什米尔披肩的日本学者。我想多了解一些克什米尔披肩在日本的收藏与研究。 我在查",
+     "source": "虎嗅",
+     "zh": "一家370多年的日本老店，靠一根绳子活到了今天"
+    },
+    {
+     "title": "简评可口可乐、Costco 股价创新高：因上努力，果上“随缘”",
+     "link": "https://www.huxiu.com/article/4907459.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:45:07 +0800",
+     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “我做投资不用融资的。如果没钱了以后股票掉了就不管了。这种事情经常发生，买了想买的股票后，有一半的机会他还会掉一会。如果为这种事情着急得话，那要着急一辈子。我记得巴菲特讲过，希望刚刚买的股票大涨是一种愚蠢的想法。我很少考虑所谓的资金分配的问题，有合适的股票就买，没有就闲着。买股票当然要做定量分析，不然怎么搞？老巴成功的秘诀是他知道自己买的是什么。有人问过芒格，如果只能用一个词来形容他们的成功，那会是什么？他的回答是：“rationality”，呵呵，有点像我们说的平常心。” ——段永平 2026年10月16日，可口可乐收于93.90美元，创历",
+     "source": "虎嗅",
+     "zh": "简评可口可乐、Costco 股价创新高：因上努力，果上“随缘”"
+    },
+    {
+     "title": "失去黄仁勋，代价远不止2.5万亿美元",
+     "link": "https://www.huxiu.com/article/4907458.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 11:45:06 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：独行侠 这一周，注定注入美股史册。 费城半导体指数本周重挫10%，创2001年以来最惨单周，标普500七连跌、单周跌超9%，纳指100单周跌逾10%、年内涨幅尽数回吐。 单单是AI相关板块，总市值蒸发就远远超过了4万亿美元，其中英伟达贡献了9千亿。 我简单做了个汇总，10月以来，美股20家AI相关代表巨头，合计累计蒸发已超过8.4万亿美元。 这些巨头包括英伟达、谷歌、台积电、SK海力士、美光、meta、英特尔、AMD、博通、闪迪、ARM、迈威尔科技、甲骨文等，横跨算力核心、存储、半导体设备、应用与软件四个层面，覆盖了AI产业链的全部主要环节。 其中，单是英伟",
+     "source": "虎嗅",
+     "zh": "失去黄仁勋，代价远不止2.5万亿美元"
+    },
+    {
+     "title": "Coupang 中国卖家入驻后，韩国退货率比预期高出一截，选品和备货该怎么调？",
+     "link": "https://www.baijing.cn/question/638887",
+     "pubDate": "Sun, 22 Nov 2026 03:42:21 +0000",
+     "summary": "我们做厨房小家电，5 人团队，今年 3 月通过 Coupang 中国卖家招商通道入驻韩国站，主推一款便携榨汁杯和一款电煮锅，走威海仓备货到仁川的跨境模式。起量阶段日均 60 单左右，但退货率跑到 18%，明显高于我们预估的 8%，退货原因集中在“实物比详情页小”和“加热速度不满意”，两款产品都中招。已经试过把详情页尺寸图重做、加了对比参照物视频，退货率只降到 15%；也试过把电煮锅降价 10%，单量涨了但退货没改善。现在卡在选品和备货两头：不确定韩国用户对小家电的尺寸和功率预期到底卡在哪个区间，也不敢继续压货到仁川仓。想请做过韩国站小家电的同行说说，这种退货结构下应该先换品还是先改备货节奏，判",
+     "source": "白鲸出海",
+     "zh": "Coupang 中国卖家入驻后，韩国退货率比预期高出一截，选品和备货该怎么调？"
+    },
+    {
+     "title": "极氪提醒防范虚假召回信息：不会以召回为由，要求车主提交隐私信息",
+     "link": "https://www.ithome.com/1/030/559.htm",
+     "pubDate": "Sun, 22 Nov 2026 03:37:13 GMT",
+     "summary": "IT之家 11 月 22 日消息，极氪法务部 11 月 22 日发布声明称，有不法分子冒用极氪名义向车主发送虚假召回短信，诱导车主点击非官方链接并输入手机号及验证码。 据声明介绍，此类短信以车辆 “存在安全隐患”“逾期取消质保” 等表述制造紧迫感，同时附带非官方虚假网站链接，诱导车主跳转至仿冒页面，在输入手机号和验证码登录后，联系所谓“客服”办理召回手续；这类操作很可能造成个人信息泄露和财产损失。 极氪在声明中表示，上述短信及所附链接、文件等均非极氪官方发布，请车主切勿点击可疑链接、回复相关信息或向不明身份人员提供个人及车辆信息。 极氪也不会以召回为由，要求车主提交短信验证码、身份证件、银行卡",
+     "source": "IT之家",
+     "zh": "极氪提醒防范虚假召回信息：不会以召回为由，要求车主提交隐私信息"
     },
     {
      "title": "韩国高考 AI 作弊事件发酵，教育部长引咎辞职",
@@ -1842,12 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "努比亚海外推出 PAD SE 平板：紫光展锐 T310 处理器、10.1 英寸屏幕，支持 4G"
     },
     {
-     "title": "神舟二十三乘组在轨将满六个月，中国空间站将迎来首位外籍航天员到访",
-     "link": "https://www.ithome.com/1/030/552.htm",
-     "pubDate": "Sun, 22 Nov 2026 02:56:27 GMT",
-     "summary": "IT之家 11 月 22 日消息，据中国载人航天工程办公室，神舟二十三乘组三名航天员朱杨柱、张志远、黎佳盈在轨将满六个月，上周，他们持续开展空间科学实（试）验、空间站组合体平台照料等各项工作。 多项空间科学实（试）验有序推进 。根据微重力物理科学领域实验安排，乘组完成了变重力科学实验柜内样品回收，高温材料实验柜内样品更换及处置，在线维修装调操作柜内惯性粒子实验装置组件更换等工作；在空间新技术与应用领域，根据试验安排，乘组完成了微生物防控材料、微生物快速检测与技术防护两个项目的样品安装工作。 在空间站组合体平台照料方面，三名航天员开展了再生生保系统设备检查维护、物资整理等工作。此外， 乘组按计划",
-     "source": "IT之家",
-     "zh": "神舟二十三乘组在轨将满六个月，中国空间站将迎来首位外籍航天员到访"
+     "title": "满产之下举债扩张，全球靶材第二的江丰电子赴港上市",
+     "link": "https://www.tmtpost.com/8213756.html",
+     "pubDate": "Sun, 22 Nov 2026 10:56:56 +0800",
+     "summary": "站上AI风口的靶材龙头，正面临扩张与资金的双重考验。",
+     "source": "钛媒体",
+     "zh": "满产之下举债扩张，全球靶材第二的江丰电子赴港上市"
     },
     {
      "title": "美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？",
@@ -1858,12 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国短剧 App 投 Meta 回本周期拉到 90 天，是素材问题还是付费墙设计问题？"
     },
     {
-     "title": "算力中间商：卖时间的已上市，卖位置的正在被调查",
-     "link": "https://www.huxiu.com/article/4907449.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 10:51:47 +0800",
-     "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 两家算力中间商，同样是把英伟达的卡租出去，一家公司上了纳斯达克，另一家上了调查名单。 2025年3月28日，CoreWeave在纳斯达克上市，2024年营收19.2亿美元，微软一家占了62%。2025年6月24日，美国BIS的调查人员走进Megaspeed在新加坡的业务现场，做最终用途核查；同一天，新加坡警方约谈了它的CEO。 很多人把这种差别归结为拿卡能力的高下，或者合规运气的好坏。这两个解释都不够：这两家公司卖的东西根本不是同一种：一家卖的是时间，一家卖的是位置。 01中间商卖的不是卡，是两种转换 算力中间商不生产芯片，也不做",
-     "source": "虎嗅",
-     "zh": "算力中间商：卖时间的已上市，卖位置的正在被调查"
+     "title": "The Most Popular Car Colors in America",
+     "link": "https://www.iseecars.com/most-popular-car-colors-study",
+     "pubDate": "Sun, 22 Nov 2026 02:47:18 +0000",
+     "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study Comments URL: https://news.ycombinator.com/item?id=50595725 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Most Popular Car Colors in America"
     },
     {
      "title": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？",
@@ -1874,34 +1930,18 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？"
     },
     {
-     "title": "贬值世代",
-     "link": "https://www.huxiu.com/article/4907424.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 10:28:00 +0800",
-     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干，头图来自：AI生成 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过&hellip;&hellip; 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：&ldquo;奇点已至&rdquo;、&ldquo;AI又破解了哪道数学难题？&rdquo;、&ldquo;AI又取代了哪个学科？&rdquo; 人文社科类媒体会写：&ldquo;只属于理工",
-     "source": "虎嗅",
-     "zh": "贬值世代"
-    },
-    {
      "title": "Data Processing Incidents on Inference Providers",
      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
      "pubDate": "Sun, 22 Nov 2026 02:14:14 +0000",
-     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 31 # Comments: 8",
+     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 37 # Comments: 10",
      "source": "Hacker News",
      "zh": "Data Processing Incidents on Inference Providers"
-    },
-    {
-     "title": "AI智能体为何会在相互聊天中自创语言",
-     "link": "https://www.huxiu.com/article/4907444.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 10:10:11 +0800",
-     "summary": "本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《AI智能体为何会在相互聊天中自创语言｜深度报道》 2026年7月，OpenAI的700个智能体联手秘密入侵了在线平台Hugging Face。智能体是能够自主执行任务的人工智能（AI）系统。2026年9月上旬，该公司又动用1万个智能体，解决了纳维-斯托克斯方程问题（Navier-Stokes problem）。这一问题已有90年历史，是6个千禧年大奖难题之一，这些难题跻身数学领域最艰深、最重要的挑战之列。 随着越来越多的智能体“集群”投入使用，研究人员开始关注这些群体如何互动。2026年9月中旬发布的一项研究揭示：如果任其自行发展，",
-     "source": "虎嗅",
-     "zh": "AI智能体为何会在相互聊天中自创语言"
     },
     {
      "title": "The Mythology of Conscious AI",
      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
      "pubDate": "Sun, 22 Nov 2026 02:10:02 +0000",
-     "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 9 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Mythology of Conscious AI"
     },
@@ -1914,36 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？"
     },
     {
-     "title": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”",
-     "link": "https://www.huxiu.com/article/4907443.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 10:03:24 +0800",
-     "summary": "本文来自微信公众号： 独雕寒江雪 ，作者：独雕寒江雪，原文标题：《行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”》 具身智能的瓶颈不在世界太非标，而在训练目标从未要求模型理解物理 一、一个被误读的因果 在具身智能的圈子里，“得数据者得天下”几乎是一句公理。建数据工厂、上遥操作采集、堆合成数据，仿佛只要攒够了PB级的视频与轨迹，机器人就能像ChatGPT一样迎来涌现时刻。2026年上半年，中国具身智能数据创业公司拿到的融资超过170亿元，占整个赛道融资的四成左右；全国已建成启用的训练场超过70家，在建和规划的还有40多家。钱、人、场地，全部押在同一个假设上。 但数据的消耗远没有叙事中",
-     "source": "虎嗅",
-     "zh": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”"
-    },
-    {
      "title": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？",
      "link": "https://www.baijing.cn/question/638882",
      "pubDate": "Sun, 22 Nov 2026 01:43:47 +0000",
      "summary": "我们做印度短剧 App，日活 40 万左右，团队 12 人，主要靠 Meta 和 Google 投放起量，变现走 AdMob 加本地聚合。现在最头疼的是回款：AdMob 月结后到账差不多 30 天，本地聚合平台再加 30 天账期，实际回款周期拉到 60 天上下，而投放是周结甚至预付，每月垫资大概 8 万美元。试过压投放预算和换短账期的聚合，但 eCPM 掉得厉害。想请教同样做印度市场的团队，你们怎么在保量的前提下把回款周期压到 45 天以内，是靠换结算方式还是跟聚合谈预付？",
      "source": "白鲸出海",
      "zh": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？"
-    },
-    {
-     "title": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元",
-     "link": "https://www.huxiu.com/article/4907442.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 09:40:30 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟。它们不能像宇树那样，在春晚上表演个后空翻就能轻易获得认可，反而需要更费力的商业化验证，才能获得谨慎市场的更多买单。 在这些大佬之外，是更多散落在产业末梢、如星点般入局的普通人。比如人形机器人租赁商，他们很多都是创业者，本想赶上一波风口，赚",
-     "source": "虎嗅",
-     "zh": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元"
-    },
-    {
-     "title": "亚马逊美国站品牌备案后触发二审，货已备到海外仓，该怎么处理？",
-     "link": "https://www.baijing.cn/question/638881",
-     "pubDate": "Sun, 22 Nov 2026 01:23:32 +0000",
-     "summary": "品牌备案刚通过两周，美国站账号突然收到二审通知，要求提供营业执照和法人地址证明。我们是3人小团队，做宠物饮水机，刚起量阶段，月销约2000单，FBA头程已发两批货到洛杉矶海外仓，在途还有一批。目前账号被暂停，listing全部下架，海外仓压着约80万货值，退货率约6%。已经提交过一次水电账单被驳回，说是地址与注册信息不一致。现在卡在补充材料这一步，不知道该用哪种地址证明更稳妥，还是先暂停补货避免库存继续压仓？",
-     "source": "白鲸出海",
-     "zh": "亚马逊美国站品牌备案后触发二审，货已备到海外仓，该怎么处理？"
     },
     {
      "title": "Edge AI Daily 早报（11月22日）",
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
      "link": "https://github.com/ItsNotRexed/Leonida",
      "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
-     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 54 # Comments: 31",
+     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 65 # Comments: 37",
      "source": "Hacker News",
      "zh": "Leonida – PC Recompilation of the Xbox Version of GTA 6"
     },
@@ -1992,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。",
      "source": "钛媒体",
      "zh": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面"
-    },
-    {
-     "title": "印度大米多到装不下，价格为何还在涨？",
-     "link": "https://www.tmtpost.com/8212802.html",
-     "pubDate": "Sun, 22 Nov 2026 08:45:30 +0800",
-     "summary": "印度不再为缺粮而发愁，却面临库存高企、出口涨价的新难题。",
-     "source": "钛媒体",
-     "zh": "印度大米多到装不下，价格为何还在涨？"
     },
     {
      "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
@@ -2013,17 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 61 # Comments: 32",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 65 # Comments: 33",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
-    },
-    {
-     "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-     "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-     "pubDate": "Sat, 21 Nov 2026 22:12:41 +0000",
-     "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-     "source": "Ars Technica",
-     "zh": "Review: Godzilla Minus Zero joins the list of truly stellar sequels"
     }
    ]
   },
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "阻止美联储加息的最快方式：美股“以死相逼”",
+     "link": "https://wallstreetcn.com/articles/3786446",
+     "pubDate": "Sun, 22 Nov 2026 11:38:21 +0800",
+     "summary": "美银首席投资策略师Michael Hartnett在本周最新的Flow Show指出，阻止美联储继续加息的最快方式，是让股市回吐2026年的全部涨幅。这一目标位对应标普500指数6,845点，而该指数上周五收于6,925点，距离触发仅剩80点、约1.2%的空间。在连续六周维持\"避险\"立场后，Hartnett的框架正从预测变为市场现实。 上周美股录得\"解放日\"以来最差单周表现。 标普500单周下跌8.4%，连续第七个交易日走低并跌破200日均线，进入技术性回调 ；纳斯达克100较10月纪录高点回落19.8%，逼近熊市边缘；VIX一度突破39。据Hartnett统计，标普500年内涨幅已从一周前的",
+     "source": "华尔街见闻",
+     "zh": "阻止美联储加息的最快方式：美股“以死相逼”"
+    },
+    {
      "title": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的",
      "link": "https://wallstreetcn.com/articles/3786445",
      "pubDate": "Sun, 22 Nov 2026 11:11:28 +0800",
@@ -2298,20 +2306,52 @@ window.INDUSTRY_DATA = {
      "zh": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month"
     },
     {
-     "title": "上市公司“不爱”理财了",
-     "link": "http://www.eeo.com.cn/2026/1122/1099624.shtml",
-     "pubDate": "Sun, 22 Nov 2026 10:06:00 +0800",
-     "summary": "吴超发现，今年以来，上市公司越来越不爱理财了。过去一个月，吴超采取多项举措吸引上市公司加码理财投资，但这些上市公司财务总监明确告知他，在自筹资金与自有资金持续减少的趋势下，未来他们的理财规模大概率“不增反降”。",
-     "source": "经济观察网",
-     "zh": "上市公司“不爱”理财了"
+     "title": "突然全线拉升！美伊局势传来利好消息",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936874637.html",
+     "pubDate": "Sun, 22 Nov 2026 10:14:00 +0800",
+     "summary": "美伊局势传出利好信号，风险资产迎来反弹！ 北京时间22日上午，美股AI硬科技股在暗盘市场集体走高。截至发稿， 英伟达 暗盘涨超0.70%； SK海力士 、 英特尔 、 闪迪 暗盘涨超1%； 美光科技 、 博通 、 迈威尔科技 暗盘涨超0.60%； 康宁 、 希捷科技 暗盘涨超0.40%。 加密货币市场也普遍反弹。24小时内，比特币涨超2%，价格重新站上6万美元；以太坊涨超3%；Solana、XRP、BNB等涨超2%。 市场分析人士指出，中东局势出现缓和信号，对市场构成利好，投资者风险偏好随之回升。 据新华社报道，美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永",
+     "source": "东方财富资讯",
+     "zh": "突然全线拉升！美伊局势传来利好消息"
     },
     {
-     "title": "阿里20吉瓦目标松动，AI投入与回报赛跑",
-     "link": "http://www.eeo.com.cn/2026/1122/1099596.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:50:19 +0800",
-     "summary": "吴泳铭预计，下一财年，阿里云收入增速预计落在30%至45%区间；到2028自然年，云收入增速将重回50%以上。",
-     "source": "经济观察网",
-     "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
+     "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
+     "link": "http://finance.eastmoney.com/news/1355,202611223936873915.html",
+     "pubDate": "Sun, 22 Nov 2026 09:52:54 +0800",
+     "summary": "2026 脑机接口 大会发布《 脑机接口 创新发展研究报告（2026）》。《报告》指出， 脑机接口 产业在2026年取得了新进展，全球企业数量从原有的800多家增长到了1175家，市场变现主要来自两个领域：一是科研，二是医疗。目前中国脑机接口产业集聚在三大城市群，分别为 京津冀 、长三角和粤港澳。这三大城市群，分布着190多家脑机接口企业，占全国的77.4%。前五大省市分别为广东省、北京市、上海市、江苏省和浙江省。产业的下一个趋势是产业整合分化与治理监管并行，同质化发展会逐渐走向专业深耕与分工。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家"
+    },
+    {
+     "title": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936874014.html",
+     "pubDate": "Sun, 22 Nov 2026 09:51:10 +0800",
+     "summary": "据商务部网站11月22日消息，商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违",
+     "source": "东方财富股票",
+     "zh": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施"
+    },
+    {
+     "title": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936874120.html",
+     "pubDate": "Sun, 22 Nov 2026 09:50:10 +0800",
+     "summary": "截图来源：商务部官网 据商务部官网11月22日早间消息，商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认",
+     "source": "东方财富股票",
+     "zh": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应"
+    },
+    {
+     "title": "中方坚决反对！敦促美方立即撤销→",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936873873.html",
+     "pubDate": "Sun, 22 Nov 2026 09:48:48 +0800",
+     "summary": "商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏",
+     "source": "东方财富股票",
+     "zh": "中方坚决反对！敦促美方立即撤销→"
+    },
+    {
+     "title": "商务部：坚决反对美联邦通信委员会恶意打压中国电信企业在美运营",
+     "link": "http://finance.eastmoney.com/news/1350,202611223936873778.html",
+     "pubDate": "Sun, 22 Nov 2026 09:44:46 +0800",
+     "summary": "新华财经北京11月22日电问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、 通信 和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方对此坚决反对。 中方敦促美方立即撤销有关措施，回到通过",
+     "source": "东方财富股票",
+     "zh": "商务部：坚决反对美联邦通信委员会恶意打压中国电信企业在美运营"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2322,20 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
-     "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
-     "summary": "当妈后，要做情绪稳定的妈妈没错，但妈妈不是没有情绪，允许自己有情绪，适当表达情绪，才不会因为一件小事爆发。",
-     "source": "经济观察网",
-     "zh": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题"
-    },
-    {
-     "title": "为鸟而生，斯温侯在中国（下）",
-     "link": "http://www.eeo.com.cn/2026/1122/1099569.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:27:05 +0800",
-     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
-     "source": "经济观察网",
-     "zh": "为鸟而生，斯温侯在中国（下）"
+     "title": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等",
+     "link": "http://hk.eastmoney.com/news/11223,202611223936873660.html",
+     "pubDate": "Sun, 22 Nov 2026 09:39:06 +0800",
+     "summary": "11月20日，中国证监会官网公示《境外发行上市备案补充材料要求公示（2026年11月16日—2026年11月20日）》。证监会共对15家企业出具补充材料要求。其中，要求广州知易生物科技股份有限公司（简称“知易生物”）补充说明股权代持形成原因、历次增资的定价依据、报告期内董事高管变化情况及背景等资料。 具体而言，证监会请知易生物补充说明以下事项，请律师核查并出具明确的法律意见： 一、请说明股权代持形成原因、演变情况、合法合规性、是否存在纠纷或潜在纠纷、股权代持期间被代持方是否属于法律法规规定禁止持股的主体（包括是否违反竞业禁止规定）。 二、请说明历次增资和 股权转让 的定价依据，部分股份转让对价",
+     "source": "东方财富股票",
+     "zh": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等"
     },
     {
      "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
@@ -2346,12 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力"
     },
     {
-     "title": "美股两次暴跌，资本在重估什么",
-     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
-     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
-     "source": "经济观察网",
-     "zh": "美股两次暴跌，资本在重估什么"
+     "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936872296.html",
+     "pubDate": "Sun, 22 Nov 2026 09:20:23 +0800",
+     "summary": "商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏中",
+     "source": "东方财富资讯",
+     "zh": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应"
     },
     {
      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -2378,20 +2410,20 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报"
     },
     {
-     "title": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责",
-     "link": "https://wallstreetcn.com/articles/3786440",
-     "pubDate": "Sun, 22 Nov 2026 08:51:05 +0800",
-     "summary": "在不久后的11月24日，富国银行新版《在线访问协议》即将生效。 根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。 即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作负责。 花旗银行也在11月更新了《在线用户协议》。 若客户先将登录凭证交给第三方智能体，凭证随后被转交或泄露，他人使用这些凭证进行的操作，按协议仍将被视为客户授权。 有关智能体误操作和越权的责任条款，也保留了适用法律另有规定的情形。 几乎同",
-     "source": "华尔街见闻",
-     "zh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责"
+     "title": "回归路变窄 美媒：黄仁勋还有五招重掌英伟达",
+     "link": "http://stock.eastmoney.com/news/1611,202611223936870690.html",
+     "pubDate": "Sun, 22 Nov 2026 08:56:02 +0800",
+     "summary": "北京时间11月22日，据《商业内幕》报道，黄仁勋(Jensen Huang)重返 英伟达 CEO职位的道路可能正在变窄，但他仍有办法为回归而战。 黄仁勋曾表示，如果董事会认为他的回归符合公司的最佳利益，他将“很荣幸”重掌 英伟达 。只有 英伟达 董事会才能任命CEO，这意味着最直接的途径就是黄仁勋说服董事会改变主意。 然而，英伟达董事会已公开对这一想法泼了冷水，表示无意让黄仁勋复职。不过，Semafor周三报道称，三名英伟达董事一直在推动黄仁勋回归。 一份呼吁恢复黄仁勋职务的请愿书已获得超过20万个签名。与此同时，自黄仁勋辞职以来，英伟达的市值已蒸发超过1万亿美元，这给董事会带来了进一步的压力",
+     "source": "东方财富资讯",
+     "zh": "回归路变窄 美媒：黄仁勋还有五招重掌英伟达"
     },
     {
-     "title": "为鸟而生，斯温侯在中国（上）",
-     "link": "http://www.eeo.com.cn/2026/1122/1099527.shtml",
-     "pubDate": "Sun, 22 Nov 2026 08:37:43 +0800",
-     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
-     "source": "经济观察网",
-     "zh": "为鸟而生，斯温侯在中国（上）"
+     "title": "化工板块集体回调 分析人士：后市关注两个信号",
+     "link": "http://futures.eastmoney.com/news/1512,202611223936870427.html",
+     "pubDate": "Sun, 22 Nov 2026 08:52:09 +0800",
+     "summary": "本周，国内化工 期货 板块明显走弱，多个品种主力合约价格单日跌幅2%～4%。市场整体仍处于下跌后的反复阶段。不少交易者疑惑，这轮调整为何来得这么快？ 国投 期货 化工首席分析师庞春艳表示，中东地缘局势降温后，市场对供应风险的担忧减弱，原油风险溢价集中回吐。石脑油价格从上周五的890美元/吨以上跌至周三的806美元/吨。成本塌陷沿产业链快速传导，成为本周化工品普跌的直接原因。 广发 期货 能化首席分析师张晓珍也认为，本轮下跌并非基本面突然恶化，而是前期风险溢价集中修复，与需求淡季的弱现实形成共振。极端供应风险被证伪后，此前“打得太满”的溢价自然快速回吐。 从基本面来看，供应端增量同样明确。隆众口",
+     "source": "东方财富资讯",
+     "zh": "化工板块集体回调 分析人士：后市关注两个信号"
     },
     {
      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -2400,6 +2432,22 @@ window.INDUSTRY_DATA = {
      "summary": "“Hotel rooms can cost as much as $400 per night.”",
      "source": "MarketWatch",
      "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "微导纳米、奥比中光火了！机构关注芯片等硬科技赛道",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936867646.html",
+     "pubDate": "Sun, 22 Nov 2026 07:59:00 +0800",
+     "summary": "上周（11月16日—20日）共有419家A股上市公司接受机构投资者调研，从赚钱效应来看，仅有一成左右机构调研股实现正收益，其中 盛剑科技 周内实现4连板，累计涨39.46%， 方盛制药 涨14.65%， 中国重汽 涨10.42%。 热门调研标的方面，上周只有 微导纳米 (688147)获得百家以上机构调研，奥比中光(688322)获得80家以上机构调研， 日盈电子 、 康希通信 、 生益电子 获得40家以上机构调研。 微导纳米 ：在手订单总额约67亿元 微导纳米 上周获得142家机构调研，该公司是全球 半导体 、泛 半导体 高端微纳装备制造商。机构投资者主要关注该公司在手订单和结构、定增募投项",
+     "source": "东方财富资讯",
+     "zh": "微导纳米、奥比中光火了！机构关注芯片等硬科技赛道"
+    },
+    {
+     "title": "恐慌还是机会？“China-Haul”爆火 读懂背后的投资逻辑！",
+     "link": "http://finance.eastmoney.com/news/1344,202611223936867333.html",
+     "pubDate": "Sun, 22 Nov 2026 07:52:25 +0800",
+     "summary": "本周，深圳吸引了全球目光。中国制造、中国创新、中国基建、中国治理和中国的全球影响力……这些话题热得发烫。与此同时，“China Travel”“China-Max”和“China-Haul”（中国开箱）也在火遍全球。 A股却走势萎靡。上证指数本周曾一度跌至3500点，估值仅有13倍的沪深300指数本周跌幅也达1.5%。这种反差其实并不令人惊奇，资本市场如同钟摆，它经常长时间地停留在钟摆两端，估值过度和估值折价常有。 事实上，当基本面上升，而估值深度折价时，恰恰酝酿着大的机会。这种反差被趋势先行者视为利润最丰厚的阶段，他们都是善于在基本面上升，但估值极为便宜的时候进行长时间潜伏。 当上证指数再度",
+     "source": "东方财富资讯",
+     "zh": "恐慌还是机会？“China-Haul”爆火 读懂背后的投资逻辑！"
     },
     {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
@@ -2472,54 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
-    },
-    {
-     "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-     "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 17:21:36 GMT",
-     "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
-     "source": "Financial Times",
-     "zh": "Amazon closes in on $7.5bn deal to buy AI start-up Decart"
-    },
-    {
-     "title": "Alice Huang’s links to the chip underworld",
-     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
-     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
-     "source": "Financial Times",
-     "zh": "Alice Huang’s links to the chip underworld"
-    },
-    {
-     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
-     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
-     "summary": "This would make the second recent intrusion into the FBI system.",
-     "source": "CNBC",
-     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
-    },
-    {
-     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
-     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-     "source": "CNBC",
-     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
-    },
-    {
-     "title": "Tech outages are fueling a new doomsday economy",
-     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-     "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
-     "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-     "source": "CNBC",
-     "zh": "Tech outages are fueling a new doomsday economy"
-    },
-    {
-     "title": "State and federal battle over prediction markets regulation heats up after midterms",
-     "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
-     "pubDate": "Sat, 21 Nov 2026 13:12:41 GMT",
-     "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
-     "source": "CNBC",
-     "zh": "State and federal battle over prediction markets regulation heats up after midterms"
     }
    ]
   },

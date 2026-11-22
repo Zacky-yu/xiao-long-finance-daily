@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 20:31:59",
+ "generated_at": "2026/11/22 20:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1785,6 +1785,38 @@
    "total": 18,
    "items": [
     {
+     "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
+     "link": "https://www.ithome.com/1/030/707.htm",
+     "pubDate": "Sun, 22 Nov 2026 12:47:05 GMT",
+     "summary": "IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn） 指出其在华销量目标不切实际 ，是自己职业生涯中最大的失误。 福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间担任雷诺集团首席执行官。 “我们进入中国市场太晚了。实际上，我们相当于挤上了末班车的最后一节车厢 —— 而且还没买票，”福兰表示。 这一表态之所以备受关注，是因为雷诺已于 2020 年退出在华合",
+     "source": "IT之家",
+     "zh": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际"
+    },
+    {
+     "title": "黎曼猜想被证明之后",
+     "link": "https://www.huxiu.com/article/4907533.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 20:38:37 +0800",
+     "summary": "本文来自微信公众号： 原理 ，作者：佐佑 11月20日，数学家Levent Alpöge在个人网站上公布了他与Claude共同找到的黎曼猜想证明。这道被誉为“数学圣杯”的难题，终于在提出167年后有了答案。同样令人意外的，还有验证的速度。证明公开后的第二天，Lean与Mathlib社区便发表联合声明，确认这份形式化证明通过了独立验证。 今年恰逢黎曼诞辰200周年。1859年，他在研究素数分布时提出，黎曼ζ函数的所有非平凡零点，都位于复平面上实部为二分之一的那条直线上。此后，数论学家证明了许多形如“如果黎曼猜想成立，那么……”的结论。凡是只差这一个前提的，如今都可以删去那个“如果”了。 黎曼认为",
+     "source": "虎嗅",
+     "zh": "黎曼猜想被证明之后"
+    },
+    {
+     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+     "link": "https://www.tmtpost.com/8214070.html",
+     "pubDate": "Sun, 22 Nov 2026 20:35:09 +0800",
+     "summary": "定义权比技术本身更稀缺",
+     "source": "钛媒体",
+     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
+    },
+    {
+     "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
+     "link": "https://www.ithome.com/1/030/706.htm",
+     "pubDate": "Sun, 22 Nov 2026 12:24:05 GMT",
+     "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实后，切断了外部 IP 访问并停止了相关服务。韩电相关人士表示：“初步判断系外部攻",
+     "source": "IT之家",
+     "zh": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄"
+    },
+    {
      "title": "大模型数据的隐秘江湖",
      "link": "https://www.huxiu.com/article/4907530.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 20:14:33 +0800",
@@ -1817,6 +1849,14 @@
      "zh": "GLP-1 drugs could have a surprisingly large environmental payoff"
     },
     {
+     "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+     "link": "https://www.solidot.org/story?sid=85958",
+     "pubDate": "Sun, 22 Nov 2026 20:01:39 +0800",
+     "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个半小时，无人出租车遭遇积水路段先后靠边停车约 10 次。Waymo 随后暂停了当天所有服务。",
+     "source": "Solidot",
+     "zh": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境"
+    },
+    {
      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
      "link": "https://www.wired.com/gallery/best-travel-adapters/",
      "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
@@ -1831,14 +1871,6 @@
      "summary": "IT之家 11 月 22 日消息，微星现已在京东上架“PRO MP272L”27 英寸显示器，该机为 1080P 100Hz 规格，定价为 599 元。 京东 微星 PRO MP272L 显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 100Hz IPS 面板，MPRT 响应速度 1ms，显示器亮度 250 尼特。显示器支架支持俯仰，本体支持 VESA 100x100mm 壁挂，提供 HDMI 和 DP 接口。",
      "source": "IT之家",
      "zh": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元"
-    },
-    {
-     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
-     "link": "https://www.tmtpost.com/8214070.html",
-     "pubDate": "Sun, 22 Nov 2026 19:55:10 +0800",
-     "summary": "定义权比技术本身更稀缺",
-     "source": "钛媒体",
-     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
     },
     {
      "title": "单日蒸发超1万亿美元",
@@ -1889,36 +1921,12 @@
      "zh": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价"
     },
     {
-     "title": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元",
-     "link": "https://www.ithome.com/1/030/700.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:27:34 GMT",
-     "summary": "IT之家 11 月 22 日消息，贝尔金现已在京东上架新款 40W 单 USB-C 充电头，定价为 77 元。 京东 贝尔金 40W 充电头 77 元 直达链接 该产品采用柔和沙色配色，整体造型圆润，尺寸为 34x38x33mm，重量为 57g，匹配可折叠插脚，正面提供一个 USB-C 40W 接口，支持 PD 3.2 和 PPS 协议。 IT之家附产品参数：",
-     "source": "IT之家",
-     "zh": "贝尔金推出新款 40W 单 USB-C 充电头：支持 PD 3.2/PPS 协议，77 元"
-    },
-    {
      "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
      "link": "https://www.huxiu.com/article/4907523.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
      "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《“别抱侥幸心理了，还有很多人没卖！”摩根大通劝退科技股》 美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比",
      "source": "虎嗅",
      "zh": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股"
-    },
-    {
-     "title": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的",
-     "link": "https://www.huxiu.com/article/4907522.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋 11月21日，开源形式化验证社区Lean与Mathlib发布联合声明，确认Anthropic数学家Levent Alpöge对黎曼猜想的证明成立。两家机构联合背书称： “完全有信心Alpöge对黎曼猜想的证明是正确的”。 11月20日，即Anthropic上市次日，Alpöge宣布与AI模型Claude合作找到了黎曼猜想及广义黎曼猜想的证明方法，并公开逾1700万行Lean源码。 因超过25万页的文字版证明难以阅读而未公开，加之宣布时点紧贴IPO，外界一度对其真伪与商业动机存疑，预测平台上的相关赔率也反映出市场分歧。 24小时后，Lean社区用",
-     "source": "虎嗅",
-     "zh": "Lean社区通过“形式化验证”：相信Anthropic数学家对黎曼猜想的证明是正确的"
-    },
-    {
-     "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
-     "link": "https://www.ithome.com/1/030/699.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:24:43 GMT",
-     "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 Transformer 模型。 在 486 电脑时代，普通 PC 格式化软盘的存储容量还不到 147.5 万字节，因此想要在如此有限的空间内运行现代 AI 软件",
-     "source": "IT之家",
-     "zh": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -2009,18 +2017,10 @@
      "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
     },
     {
-     "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
-     "link": "https://arxiv.org/abs/2606.14068",
-     "pubDate": "Sun, 22 Nov 2026 09:18:36 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 54 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts"
-    },
-    {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 198 # Comments: 280",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 208 # Comments: 304",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     }
@@ -2281,6 +2281,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Blame game emerges after Anthropic's IPO market value plunge - WSJ",
+     "link": "https://seekingalpha.com/news/4675405-blame-game-emerges-after-anthropics-ipo-market-value-plunge---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 07:34:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Blame game emerges after Anthropic's IPO market value plunge - WSJ"
+    },
+    {
+     "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+     "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 12:30:00 GMT",
+     "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
+     "source": "MarketWatch",
+     "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
+    },
+    {
      "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
      "link": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
      "pubDate": "Sun, 22 Nov 2026 12:13:56 GMT",
@@ -2503,22 +2519,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
-    },
-    {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-     "source": "MarketWatch",
-     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
-    },
-    {
-     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
     }
    ]
   },

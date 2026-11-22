@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 03:52:20",
+ "generated_at": "2026/11/23 04:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -354,6 +354,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -362,12 +370,52 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
-    },
-    {
-     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
-     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
-     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
-     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -505,6 +505,30 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "European automakers expand autonomous driving programs with Nvidia technology",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/european-automakers-expand-autonomous-driving-programs-with-nvidia-technology/107475/",
+     "pubDate": "Sun, 22 Nov 2026 20:03:55 +0000",
+     "summary": "European automakers and mobility companies, including Mercedes-Benz, Volkswagen, Volvo Cars, Bolt and Einride, are expanding their autonomous driving programs through new technology partnerships and vehicle development initiatives. The developments, announced at GTC Berlin, involve the use of Nvidia",
+     "source": "Robotics & Automation",
+     "zh": "European automakers expand autonomous driving programs with Nvidia technology"
+    },
+    {
+     "title": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/nvidia-expands-isaac-robotics-platform-with-new-humanoid-and-ai-development-tools/107472/",
+     "pubDate": "Sun, 22 Nov 2026 19:59:30 +0000",
+     "summary": "Nvidia has announced a major expansion of its Isaac robotics development platform, introducing new simulation frameworks, AI training tools, datasets and a reference humanoid robot designed to accelerate the development of general-purpose robotic systems. The announcements, made at GTC Berlin, inclu",
+     "source": "Robotics & Automation",
+     "zh": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools"
+    },
+    {
+     "title": "European manufacturers expand use of AI and digital twins in engineering and production",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/european-manufacturers-expand-use-of-ai-and-digital-twins-in-engineering-and-production/107469/",
+     "pubDate": "Sun, 22 Nov 2026 19:54:24 +0000",
+     "summary": "European industrial companies including Siemens, Mercedes-Benz, Audi and Volkswagen are expanding their use of artificial intelligence, simulation and digital twins to improve engineering, manufacturing and factory operations. The developments were outlined by Nvidia at its recent GTC Berlin event, ",
+     "source": "Robotics & Automation",
+     "zh": "European manufacturers expand use of AI and digital twins in engineering and production"
+    },
     {
      "title": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands",
      "link": "https://roboticsandautomationnews.com/2026/11/22/schunk-spin-off-tactilia-robotics-launches-to-develop-dexterous-robot-hands/107466/",
@@ -528,30 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Genesis AI, a robotics company with operations in Paris and California, has raised $500 million in Series A funding at a post-money valuation of $3.5 billion to accelerate development and commercialization of its general-purpose robots. The funding round was co-led by Premji Invest, Khosla Ventures ",
      "source": "Robotics & Automation",
      "zh": "Genesis AI raises $500 million to scale general-purpose robotics"
-    },
-    {
-     "title": "BlueBotics unifies fleet management for manual forklifts and mobile robots",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/bluebotics-unifies-fleet-management-for-manual-forklifts-and-mobile-robots/107455/",
-     "pubDate": "Sun, 22 Nov 2026 16:11:13 +0000",
-     "summary": "BlueBotics, a Swiss developer of autonomous navigation and fleet management technology, has updated its ANT locator system to enable companies to manage manual forklifts and autonomous mobile robots through a single platform. The update introduces unified mission dispatch, allowing the company’s ANT",
-     "source": "Robotics & Automation",
-     "zh": "BlueBotics unifies fleet management for manual forklifts and mobile robots"
-    },
-    {
-     "title": "Remedy Robotics raises $62 million to advance AI-powered cardiovascular surgery robot",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/remedy-robotics-raises-62-million-to-advance-ai-powered-cardiovascular-surgery-robot/107450/",
-     "pubDate": "Sun, 22 Nov 2026 16:05:23 +0000",
-     "summary": "Remedy Robotics, a San Francisco-based medical robotics company, has raised $62 million in Series B funding to advance its AI-enabled N1 System for cardiovascular and neurovascular procedures. The funding will support clinical trials, regulatory approval efforts and further development of the roboti",
-     "source": "Robotics & Automation",
-     "zh": "Remedy Robotics raises $62 million to advance AI-powered cardiovascular surgery robot"
-    },
-    {
-     "title": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/gobano-robotics-reports-99-5-percent-success-rate-for-autonomous-laundry-robot/107447/",
-     "pubDate": "Sun, 22 Nov 2026 15:56:51 +0000",
-     "summary": "French physical AI startup Gobano Robotics says its autonomous robotic system has achieved a 99.5 percent task success rate at Henri Wartner Group, a French industrial laundry company with a history spanning 150 years. The company’s Gobano Station handles repetitive towel folding and inspection task",
-     "source": "Robotics & Automation",
-     "zh": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
+     "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 -0600",
+     "summary": "The cost of natural disasters is hitting utilities hard as they need to invest more heavily in strengthening transmission infrastructure and financially supporting recovery efforts. In California, several utilities have seen costs increase in relation to more frequent wildfires, limiting their spend",
+     "source": "OilPrice",
+     "zh": "California’s Wildfire Crisis Is Threatening Its Energy Future"
+    },
+    {
      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
      "link": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
      "pubDate": "Sun, 22 Nov 2026 12:00:00 -0600",
@@ -944,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ..",
      "source": "CleanTechnica",
      "zh": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October"
-    },
-    {
-     "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
-     "pubDate": "Sat, 21 Nov 2026 13:10:00 -0600",
-     "summary": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on Friday, according to AAA, down from approximately $4.30 a month ago. GasBuddy ex",
-     "source": "OilPrice",
-     "zh": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge"
     },
     {
      "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
@@ -1778,18 +1778,42 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+     "link": "https://www.techmeme.com/261122/p10#a261122p10",
+     "pubDate": "Sun, 22 Nov 2026 14:50:01 -0500",
+     "summary": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers &nbsp; &mdash;&nbsp; The treasury secretary said on CBS that it was too soon to say if Jensen Huang should",
+     "source": "Techmeme",
+     "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
+    },
+    {
+     "title": "What Happened to Silicon Valley?",
+     "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+     "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "What Happened to Silicon Valley?"
+    },
+    {
      "title": "Canada recommits to federal funding for news",
      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
      "pubDate": "Sun, 22 Nov 2026 19:10:38 +0000",
-     "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 62 # Comments: 28",
+     "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 77 # Comments: 59",
      "source": "Hacker News",
      "zh": "Canada recommits to federal funding for news"
+    },
+    {
+     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+     "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+     "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
     },
     {
      "title": "Dirac's Theorem at a Dinner Party",
      "link": "https://prideout.net/blog/dirac-dinner-party/",
      "pubDate": "Sun, 22 Nov 2026 18:50:27 +0000",
-     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 6 # Comments: 0",
      "source": "Hacker News",
      "zh": "Dirac's Theorem at a Dinner Party"
     },
@@ -1853,17 +1877,9 @@ window.INDUSTRY_DATA = {
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 115 # Comments: 99",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 121 # Comments: 100",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
-    },
-    {
-     "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-     "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-     "pubDate": "Sun, 22 Nov 2026 15:35:24 +0000",
-     "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 66 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "I joined the NTP Pool, but not with my Stratum 1 Pi"
     },
     {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
@@ -1872,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
      "source": "Solidot",
      "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
-    },
-    {
-     "title": "Fascism and Monopoly",
-     "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
-     "pubDate": "Sun, 22 Nov 2026 15:25:29 +0000",
-     "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/ Comments URL: https://news.ycombinator.com/item?id=50600521 Points: 31 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Fascism and Monopoly"
     },
     {
      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个半小时，无人出租车遭遇积水路段先后靠边停车约 10 次。Waymo 随后暂停了当天所有服务。",
      "source": "Solidot",
      "zh": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境"
-    },
-    {
-     "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
-     "link": "https://www.wired.com/gallery/best-travel-adapters/",
-     "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
-     "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-     "source": "WIRED",
-     "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Want more control over your YouTube homepage? Try using custom feeds",
+     "link": "https://www.engadget.com/2319492/try-using-youtube-custom-feeds-control-homepage/",
+     "pubDate": "Sun, 22 Nov 2026 19:45:00 +0000",
+     "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.",
+     "source": "Engadget",
+     "zh": "Want more control over your YouTube homepage? Try using custom feeds"
+    },
     {
      "title": "How long is a new Fitbit actually supposed to last?",
      "link": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support/",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
      "source": "Engadget",
      "zh": "The drawbacks of adding solar panels to your home"
-    },
-    {
-     "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
-     "link": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
-     "pubDate": "Sun, 22 Nov 2026 18:15:00 +0000",
-     "summary": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
-     "source": "Engadget",
-     "zh": "11 types of smart gadgets to consider pairing with your Ring doorbell"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2298,12 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "伊拉克安全部队打死极端组织“伊斯兰国”一头目"
     },
     {
-     "title": "Delta flight delays add to concerns about US air travel system",
+     "title": "Delta flight delays add to concerns about US air travel systems",
      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 19:25:06 GMT",
-     "summary": "FAA said technical problems at airline’s Atlanta hub were not related to countrywide outage this month",
+     "summary": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
      "source": "Financial Times",
-     "zh": "Delta flight delays add to concerns about US air travel system"
+     "zh": "Delta flight delays add to concerns about US air travel systems"
     },
     {
      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
@@ -2338,6 +2338,14 @@ window.INDUSTRY_DATA = {
      "zh": "内塔尼亚胡被曝正考虑单独对伊朗动武"
     },
     {
+     "title": "苏丹首都遭无人机袭击 一联合国设施受损",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937010737.html",
+     "pubDate": "Mon, 23 Nov 2026 03:00:37 +0800",
+     "summary": "喀土穆消息：据苏丹民间机构、地方组织和目击者22日的消息，该国首都喀土穆及其西北恩图曼市多处目标当天遭 无人机 袭击，造成4人死亡、约10人受伤。一处联合国设施在袭击中受损。 联合国负责苏丹地区人道主义事务协调的官员丹尼斯·布朗22日发表声明说，联合国在喀土穆的一处设施在当天的袭击中受损，当时楼内有多名工作人员。她表示，袭击发生在居民区，平民绝非合法攻击目标，在苏丹开展援助工作的联合国人道主义工作者也不应受此类威胁。 苏丹一民间机构当天称，在喀土穆南部的杰贝勒 奥利 亚地区，一架 无人机 击中一处民宅，造成一名10岁儿童死亡。恩图曼市一地方组织也表示，一架 无人机 坠落于该市北部萨瓦拉区一处民",
+     "source": "东方财富股票",
+     "zh": "苏丹首都遭无人机袭击 一联合国设施受损"
+    },
+    {
      "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
      "link": "https://seekingalpha.com/news/4675411-openai-calls-for-industry-wide-ai-brake-tied-to-perplexity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 14:00:17 -0500",
@@ -2368,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "科莱恩与CD&R据悉正洽谈收购化学品公司 亚什兰 。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰"
-    },
-    {
-     "title": "伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷",
-     "link": "http://finance.eastmoney.com/news/1356,202611233937010170.html",
-     "pubDate": "Mon, 23 Nov 2026 02:25:35 +0800",
-     "summary": "伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗称两艘超大型油轮在霍尔木兹海峡附近触雷"
     },
     {
      "title": "These little-known investments could be among the best bargains in a crash",

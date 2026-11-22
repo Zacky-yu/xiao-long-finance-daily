@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 09:52:06",
+ "generated_at": "2026/11/22 10:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+     "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+     "pubDate": "Sun, 22 Nov 2026 01:51:43 +0000",
+     "summary": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorL",
+     "source": "MarkTechPost",
+     "zh": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels"
+    },
     {
      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -55,6 +63,30 @@
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+     "link": "https://www.qbitai.com/2026/11/511779.html",
+     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
+     "summary": "还实现可变形物体操控全球首通",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+    },
+    {
+     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+     "link": "https://www.qbitai.com/2026/11/511570.html",
+     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+     "summary": "专为本地部署而生",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511757.html",
+     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -185,6 +217,22 @@
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
+     "title": "米哈游发了个VLA论文",
+     "link": "https://www.qbitai.com/2026/11/511740.html",
+     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
+     "summary": "8B参数，50小时自主运行",
+     "source": "量子位",
+     "zh": "米哈游发了个VLA论文"
+    },
+    {
+     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+     "link": "https://www.qbitai.com/2026/11/511727.html",
+     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
+    },
+    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
@@ -199,54 +247,6 @@
      "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
      "source": "MarkTechPost",
      "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
-    },
-    {
-     "title": "Decision AI Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-     "source": "KDnuggets",
-     "zh": "Decision AI Explained in 5 Minutes"
-    },
-    {
-     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
-     "link": "https://zhidx.com/p/612799.html",
-     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
-     "source": "智东西",
-     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
-    },
-    {
-     "title": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了",
-     "link": "https://zhidx.com/p/612756.html",
-     "pubDate": "Fri, 20 Nov 2026 18:23:51 +0800",
-     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西11月20日报道，刚刚，华为正式发布了全新的子品牌 OSTA 星芒， 以及星芒首款新机 OSTA O1 Pro， 一款阔直板手机，也是 华为首款“鸿蒙AI手机”， 硬件方面其搭载了 韬定律芯片麒麟9030S。 2020年11月，华为官宣卖掉了子品牌荣耀，6年后，华为新子品牌星芒登场，这也是 荣耀独立出去后，华为新推出的第一个手机子品牌。 对于“OSTA”的含义，华为常务董事、终端BG董事长余承东给出解释： Original—原创、Smart—智能、Technology—科技、Accesible—触手可及。 OSTA O1 Pro首发了 鸿蒙7 A",
-     "source": "智东西",
-     "zh": "AI时代，华为要再造一个“荣耀”！首款鸿蒙AI手机来了"
-    },
-    {
-     "title": "Combatting adversarial distillation",
-     "link": "https://openai.com/index/combatting-adversarial-distillation",
-     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-     "source": "OpenAI",
-     "zh": "Combatting adversarial distillation"
-    },
-    {
-     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
-     "source": "机器之心",
-     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
-    },
-    {
-     "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "通往超级智能的四条路径",
-     "source": "机器之心",
-     "zh": "AGI还不是终点，DeepMind开始思考ASI的未来"
     }
    ]
   },
@@ -1401,14 +1401,6 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1465,14 +1457,6 @@
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1513,14 +1497,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1559,6 +1535,22 @@
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1785,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？",
+     "link": "https://www.baijing.cn/question/638883",
+     "pubDate": "Sun, 22 Nov 2026 02:04:56 +0000",
+     "summary": "我们的短剧 App 主攻印度市场，上线 5 个月，日活约 8 万，投放主要走 Meta 和 Google UAC，团队 6 人。前两个月安装 CPA 还能压在 0.35 美元左右，这个月同一批素材在印度直接涨到 0.9 美元，ROI 从 0.6 掉到 0.4。已经试过换素材方向、拆受众、把预算往 UAC 倾斜，CPA 只降了不到 10%。现在卡在要不要继续加预算冲规模，还是先把激励视频和内购的转化链路修好再投。想请教的是，在印度这种 CPA 水平下，判断该先停投修变现还是继续买量的核心指标是什么？",
+     "source": "白鲸出海",
+     "zh": "印度短剧 App 起量后 CPA 涨到 0.9 美元，是继续加投还是先修变现？"
+    },
+    {
+     "title": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”",
+     "link": "https://www.huxiu.com/article/4907443.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 10:03:24 +0800",
+     "summary": "本文来自微信公众号： 独雕寒江雪 ，作者：独雕寒江雪，原文标题：《行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”》 具身智能的瓶颈不在世界太非标，而在训练目标从未要求模型理解物理 一、一个被误读的因果 在具身智能的圈子里，“得数据者得天下”几乎是一句公理。建数据工厂、上遥操作采集、堆合成数据，仿佛只要攒够了PB级的视频与轨迹，机器人就能像ChatGPT一样迎来涌现时刻。2026年上半年，中国具身智能数据创业公司拿到的融资超过170亿元，占整个赛道融资的四成左右；全国已建成启用的训练场超过70家，在建和规划的还有40多家。钱、人、场地，全部押在同一个假设上。 但数据的消耗远没有叙事中",
+     "source": "虎嗅",
+     "zh": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”"
+    },
+    {
      "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
      "link": "https://www.ithome.com/1/030/541.htm",
      "pubDate": "Sun, 22 Nov 2026 01:47:42 GMT",
@@ -1948,7 +1956,7 @@
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 19 # Comments: 2",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
     },
@@ -1959,14 +1967,6 @@
      "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 Anthropic IPO两天后，数学家、Anthropic员工Levent Alpöge宣布他与Anthropic的Claude AI“合作”证明了黎曼猜想。 黎曼猜想由德国数学家波恩哈德·黎曼于1859年提出，是克雷数学研究所悬赏百万美元的七大难题之一。百年来吸引大量数学家绞尽脑汁尚未得到证明，如今却被AI破了，进一步引发AI发展到了奇点，数学家将被取代的讨论。 但Alpöge拿出的AI“证明”，是一个约1740万行的Lean代码档案，外加一份4页的说明。他在声明的脚注里提到，试着把它改写成人能读的数学文字，篇幅很快就超过了",
      "source": "虎嗅",
      "zh": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了"
-    },
-    {
-     "title": "International UN talks on controlling use of autonomous weapons collapse",
-     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-     "pubDate": "Sat, 21 Nov 2026 23:10:21 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 36 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "International UN talks on controlling use of autonomous weapons collapse"
     },
     {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -1980,7 +1980,7 @@
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 54 # Comments: 5",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 56 # Comments: 5",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -1988,7 +1988,7 @@
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 88 # Comments: 8",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 93 # Comments: 9",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -2004,25 +2004,17 @@
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 28 # Comments: 11",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 30 # Comments: 11",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     },
     {
-     "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
-     "link": "https://www.techmeme.com/261121/p10#a261121p10",
-     "pubDate": "Sat, 21 Nov 2026 15:10:02 -0500",
-     "summary": "Dan Goodin / Ars Technica : Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &ldquo;ZDR&rdquo; policies, and saw &ldquo;privacy&rdquo; often broken, keys stolen &nbsp; &mdash;&nbsp; Researchers planted 2 million digital tripwires in requests sent t",
-     "source": "Techmeme",
-     "zh": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)"
-    },
-    {
-     "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
-     "link": "https://www.techmeme.com/261121/p9#a261121p9",
-     "pubDate": "Sat, 21 Nov 2026 13:55:01 -0500",
-     "summary": "Financial Times : Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China &nbsp; &mdash;&nbsp; Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the luc",
-     "source": "Techmeme",
-     "zh": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)"
+     "title": "Pandex – Official European Law for AI Agents, over MCP",
+     "link": "https://www.pandex.io",
+     "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
+     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 34 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Pandex – Official European Law for AI Agents, over MCP"
     }
    ]
   },
@@ -2032,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "从深圳到上海，少数派的共创故事还在继续",
+     "link": "https://sspai.com/post/119318",
+     "pubDate": "Sun, 22 Nov 2026 09:05:44 +0800",
+     "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
+     "source": "少数派",
+     "zh": "从深圳到上海，少数派的共创故事还在继续"
+    },
     {
      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
      "link": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
@@ -2263,14 +2263,6 @@
      "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
      "source": "9to5Google",
      "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
-    },
-    {
-     "title": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses",
-     "link": "https://www.androidauthority.com/unihertz-teases-new-titan-2-elite-colorway-3737949/",
-     "pubDate": "Fri, 20 Nov 2026 21:59:26 +0000",
-     "summary": "The Titan 2 Elite will get a new shade later this month.",
-     "source": "Android Authority",
-     "zh": "Titan 2 Elite keyboard phone is getting a fresh color, and fans already have guesses"
     }
    ]
   },
@@ -2281,6 +2273,54 @@
    "total": 13,
    "items": [
     {
+     "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
+     "link": "http://finance.eastmoney.com/news/1355,202611223936873915.html",
+     "pubDate": "Sun, 22 Nov 2026 09:52:54 +0800",
+     "summary": "2026 脑机接口 大会发布《 脑机接口 创新发展研究报告（2026）》。《报告》指出， 脑机接口 产业在2026年取得了新进展，全球企业数量从原有的800多家增长到了1175家，市场变现主要来自两个领域：一是科研，二是医疗。目前中国脑机接口产业集聚在三大城市群，分别为 京津冀 、长三角和粤港澳。这三大城市群，分布着190多家脑机接口企业，占全国的77.4%。前五大省市分别为广东省、北京市、上海市、江苏省和浙江省。产业的下一个趋势是产业整合分化与治理监管并行，同质化发展会逐渐走向专业深耕与分工。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家"
+    },
+    {
+     "title": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936874014.html",
+     "pubDate": "Sun, 22 Nov 2026 09:51:10 +0800",
+     "summary": "据商务部网站11月22日消息，商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违",
+     "source": "东方财富股票",
+     "zh": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施"
+    },
+    {
+     "title": "阿里20吉瓦目标松动，AI投入与回报赛跑",
+     "link": "http://www.eeo.com.cn/2026/1122/1099596.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:50:19 +0800",
+     "summary": "吴泳铭预计，下一财年，阿里云收入增速预计落在30%至45%区间；到2028自然年，云收入增速将重回50%以上。",
+     "source": "经济观察网",
+     "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
+    },
+    {
+     "title": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936874120.html",
+     "pubDate": "Sun, 22 Nov 2026 09:50:10 +0800",
+     "summary": "截图来源：商务部官网 据商务部官网11月22日早间消息，商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认",
+     "source": "东方财富股票",
+     "zh": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应"
+    },
+    {
+     "title": "中方坚决反对！敦促美方立即撤销→",
+     "link": "http://stock.eastmoney.com/news/11219,202611223936873873.html",
+     "pubDate": "Sun, 22 Nov 2026 09:48:48 +0800",
+     "summary": "商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏",
+     "source": "东方财富股票",
+     "zh": "中方坚决反对！敦促美方立即撤销→"
+    },
+    {
+     "title": "商务部：坚决反对美联邦通信委员会恶意打压中国电信企业在美运营",
+     "link": "http://finance.eastmoney.com/news/1350,202611223936873778.html",
+     "pubDate": "Sun, 22 Nov 2026 09:44:46 +0800",
+     "summary": "新华财经北京11月22日电问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、 通信 和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方对此坚决反对。 中方敦促美方立即撤销有关措施，回到通过",
+     "source": "东方财富股票",
+     "zh": "商务部：坚决反对美联邦通信委员会恶意打压中国电信企业在美运营"
+    },
+    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sun, 22 Nov 2026 09:39:45 +0800",
@@ -2289,28 +2329,28 @@
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "Databricks正初步洽谈融资 目标估值2250亿美元",
-     "link": "http://stock.eastmoney.com/news/1416,202611223936873533.html",
-     "pubDate": "Sun, 22 Nov 2026 09:33:03 +0800",
-     "summary": "中新经纬11月22日电据路透社援引《华尔街日报》近日报道，Databricks正处于初步谈判中，计划在新一轮融资中筹集数十亿美元，这家数据及 人工智能 公司投后估值约2250亿美元。 报道称，交易谈判仍在进行中，条款仍有可能发生变化。 报道提到，Databricks成立于2013年，提供帮助公司存储、管理和分析数据以及开发 AI应用 的软件。公司此前曾表示，其Lakebase产品每季度营收已突破1亿美元，而其Lakehouse数据存储业务的每季度营收则突破15亿美元。 据彭博社8月报道，Databricks已获得50亿美元融资，估值达1900亿美元，这是这家快速增长的软件公司今年的第二轮融资，",
+     "title": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等",
+     "link": "http://hk.eastmoney.com/news/11223,202611223936873660.html",
+     "pubDate": "Sun, 22 Nov 2026 09:39:06 +0800",
+     "summary": "11月20日，中国证监会官网公示《境外发行上市备案补充材料要求公示（2026年11月16日—2026年11月20日）》。证监会共对15家企业出具补充材料要求。其中，要求广州知易生物科技股份有限公司（简称“知易生物”）补充说明股权代持形成原因、历次增资的定价依据、报告期内董事高管变化情况及背景等资料。 具体而言，证监会请知易生物补充说明以下事项，请律师核查并出具明确的法律意见： 一、请说明股权代持形成原因、演变情况、合法合规性、是否存在纠纷或潜在纠纷、股权代持期间被代持方是否属于法律法规规定禁止持股的主体（包括是否违反竞业禁止规定）。 二、请说明历次增资和 股权转让 的定价依据，部分股份转让对价",
      "source": "东方财富股票",
-     "zh": "Databricks正初步洽谈融资 目标估值2250亿美元"
+     "zh": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等"
     },
     {
-     "title": "美国拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应：肆意污蔑、恶意打压中国电信企业在美运，中方对此坚决反对",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936873018.html",
-     "pubDate": "Sun, 22 Nov 2026 09:31:44 +0800",
-     "summary": "问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、 通信 和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方对此坚决反对。 中方敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。",
-     "source": "东方财富股票",
-     "zh": "美国拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应：肆意污蔑、恶意打压中国电信企业在美运，中方对此坚决反对"
+     "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
+     "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
+     "summary": "当妈后，要做情绪稳定的妈妈没错，但妈妈不是没有情绪，允许自己有情绪，适当表达情绪，才不会因为一件小事爆发。",
+     "source": "经济观察网",
+     "zh": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题"
     },
     {
-     "title": "成立13年，这家公司正洽谈以2250亿美元估值融资数十亿美元，今年8月融资后估值1900亿美元，谷歌母公司是其竞争对手",
-     "link": "http://stock.eastmoney.com/news/1416,202611223936873259.html",
-     "pubDate": "Sun, 22 Nov 2026 09:27:00 +0800",
-     "summary": "据路透社援引《华尔街日报》近日报道，Databricks正处于初步谈判中，计划在新一轮融资中筹集数十亿美元，这家数据及 人工智能 公司投后估值约2250亿美元。 报道称，交易谈判仍在进行中，条款仍有可能发生变化。 报道提到，Databricks成立于2013年，提供帮助公司存储、管理和分析数据以及开发 AI应用 的软件。公司此前曾表示，其Lakebase产品每季度营收已突破1亿美元，而其Lakehouse数据存储业务的每季度营收则突破15亿美元。 据彭博社8月报道，Databricks已获得50亿美元融资，估值达1900亿美元，这是这家快速增长的软件公司今年的第二轮融资，其竞争对手包括Snow",
-     "source": "东方财富股票",
-     "zh": "成立13年，这家公司正洽谈以2250亿美元估值融资数十亿美元，今年8月融资后估值1900亿美元，谷歌母公司是其竞争对手"
+     "title": "为鸟而生，斯温侯在中国（下）",
+     "link": "http://www.eeo.com.cn/2026/1122/1099569.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:27:05 +0800",
+     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
+     "source": "经济观察网",
+     "zh": "为鸟而生，斯温侯在中国（下）"
     },
     {
      "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
@@ -2321,20 +2361,12 @@
      "zh": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力"
     },
     {
-     "title": "法国连续第6个周六举行示威活动",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936872933.html",
-     "pubDate": "Sun, 22 Nov 2026 09:25:10 +0800",
-     "summary": "法国巴黎等多地民众21日举行新的示威游行。这是法国自10月17日抗议酿成严重骚乱以来，连续第6个周六举行示威活动，但规模创新低。（新华社） （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "法国连续第6个周六举行示威活动"
-    },
-    {
-     "title": "成都太古里启动“时光旅行者”冬季主题公共艺术活动",
-     "link": "http://hk.eastmoney.com/news/11362,202611223936872490.html",
-     "pubDate": "Sun, 22 Nov 2026 09:21:41 +0800",
-     "summary": "2026年11月20日，成都太古里“时光旅行者The Chronos Voyager”冬季主题活动暨公共艺术装置正式启幕，主装置落地于漫广场，由空间艺术家马涛设计，采用蒸汽朋克美学风格，活动将持续至2027年1月3日。 本次公共艺术装置覆盖漫广场、马家巷及东里区域。核心装置包括复古造型漫游飞艇、印有成都城市地图的“扬帆之树”，结合水景形成错落布局；夜间配套灯光系统，马家巷入口同步设置飞艇造型装置，东里设置带状灯组，形成区域联动视觉效果。 活动配套三类商业内容：一是推出定制主题明信片，扫码可解锁AR交互体验，参与活动可限量领取；二是联动BEAST野兽派、CASETiFY STUDiO、歌帝梵、莱",
-     "source": "东方财富股票",
-     "zh": "成都太古里启动“时光旅行者”冬季主题公共艺术活动"
+     "title": "美股两次暴跌，资本在重估什么",
+     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
+     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
+     "source": "经济观察网",
+     "zh": "美股两次暴跌，资本在重估什么"
     },
     {
      "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
@@ -2391,6 +2423,14 @@
      "summary": "在不久后的11月24日，富国银行新版《在线访问协议》即将生效。 根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。 即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作负责。 花旗银行也在11月更新了《在线用户协议》。 若客户先将登录凭证交给第三方智能体，凭证随后被转交或泄露，他人使用这些凭证进行的操作，按协议仍将被视为客户授权。 有关智能体误操作和越权的责任条款，也保留了适用法律另有规定的情形。 几乎同",
      "source": "华尔街见闻",
      "zh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责"
+    },
+    {
+     "title": "为鸟而生，斯温侯在中国（上）",
+     "link": "http://www.eeo.com.cn/2026/1122/1099527.shtml",
+     "pubDate": "Sun, 22 Nov 2026 08:37:43 +0800",
+     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
+     "source": "经济观察网",
+     "zh": "为鸟而生，斯温侯在中国（上）"
     },
     {
      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -2471,54 +2511,6 @@
      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
      "source": "MarketWatch",
      "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
-    },
-    {
-     "title": "Trump to work with Dems to cap credit card interest rates",
-     "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 13:34:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump to work with Dems to cap credit card interest rates"
-    },
-    {
-     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
-     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
-    },
-    {
-     "title": "Tesla to launch FSD 15 next month, Elon Musk says",
-     "link": "https://seekingalpha.com/news/4675395-tesla-launch-fsd-15-next-month-elon-musk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 12:23:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
-    },
-    {
-     "title": "SA Asks: Who's the best-positioned cybersecurity provider right now?",
-     "link": "https://seekingalpha.com/news/4675381-sa-asks-whos-the-best-positioned-cybersecurity-provider-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 12:00:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: Who's the best-positioned cybersecurity provider right now?"
-    },
-    {
-     "title": "Alice Huang’s links to the chip underworld",
-     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
-     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
-     "source": "Financial Times",
-     "zh": "Alice Huang’s links to the chip underworld"
-    },
-    {
-     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
-     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
-     "summary": "This would make the second recent intrusion into the FBI system.",
-     "source": "CNBC",
-     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
     }
    ]
   },

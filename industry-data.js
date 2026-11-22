@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 23:45:46",
+ "generated_at": "2026/11/22 23:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -2346,36 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
     },
     {
-     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
-     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
-     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
-     "source": "东方财富资讯",
-     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
-    },
-    {
-     "title": "中国台湾地区拟下调融资保证金比例至120%以稳定股市",
-     "link": "http://hk.eastmoney.com/news/1556,202611223936948837.html",
-     "pubDate": "Sun, 22 Nov 2026 21:18:16 +0800",
-     "summary": "中国台湾地区正考虑下调融资维持保证金比例，以遏制股市抛售潮。中国台湾证券交易所表示，周日与10家券商召开紧急会议，讨论这一潜在举措。根据拟议方案，最低融资维持保证金比例将从目前的130%下调至120%。据交易所称，与会各方讨论了下调保证金比例后可能出现的不同情形，并将评估相关操作层面的问题。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "中国台湾地区拟下调融资保证金比例至120%以稳定股市"
-    },
-    {
      "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
      "link": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 08:07:50 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more"
-    },
-    {
-     "title": "11月22日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936948326.html",
-     "pubDate": "Sun, 22 Nov 2026 21:00:39 +0800",
-     "summary": "今日摘要 习近平总书记指出，要持续巩固拓展脱贫攻坚成果，把常态化帮扶纳入 乡村振兴 战略统筹实施，守牢不发生规模性返贫致贫底线。进入常态化帮扶新阶段，一项项帮扶举措接续落地，让脱贫群众同全国人民一道，更稳地迈向乡村全面振兴。 系列报道【权威访谈】今天解读“增强党性是全面从严治党的根本性任务”。 今年1至10月，全国一般公共预算平稳增长，投资于人相关支出增长较快。 今年以来，文旅体育等服务消费持续火热，内需潜力不断释放。 各地各部门加强能源供应，全力保障群众温暖过冬。 国际人士表示，习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动发表的重要讲话，为共创亚太美 好未来 汇聚力量。 内",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
@@ -2402,36 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
     },
     {
-     "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
-     "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
-     "summary": "杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。 今日晚间，沪深北三大交易所同步发布通知，宣布经中国证监会批准，将投资者融资买入证券时的融资保证金最低比例从现行的100%下调至80%，相关规则调整自11月30日起施行。截至11月19日，全市场两融余额2.2万亿元，与3.03万亿元的年内高点相比，已有逾8000亿元融资盘悄然离场。 这已经是年内第二次调整融资保证金比例。今年1月14日，沪深北交易所曾将最低比例由80%提高至100%，自1月19日起施行。十个月后，最低融资保证金比例重新回到80%。 值得关注的是，今年两次调整，政策细节颇有不同。 一是存量合约的处理不同。1月上调比例时，明",
-     "source": "东方财富资讯",
-     "zh": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确"
-    },
-    {
      "title": "为马斯克融资买GPU，高盛“秀操作”",
      "link": "https://wallstreetcn.com/articles/3786456",
      "pubDate": "Sun, 22 Nov 2026 20:11:23 +0800",
      "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。 本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。 万亿芯",
      "source": "华尔街见闻",
      "zh": "为马斯克融资买GPU，高盛“秀操作”"
-    },
-    {
-     "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945576.html",
-     "pubDate": "Sun, 22 Nov 2026 19:51:00 +0800",
-     "summary": "创业板做市商制度如箭在弦。 11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（简称《做市业务细则》），向社会公开征求意见。 为什么引入做市商？这是深化创业板改革的重要举措，也是促进增强市场韧性、提升市场内在稳定性的重要机制。创业板致力于服务成长型创新创业企业，汇聚了大量新兴产业、未来产业及高新科技企业，随着市场包容性、适应性不断增强，创业板股票对流动性、稳定性、定价效率的需求也进一步提高。创业板引入做市商制度，是在深化投资端改革方面，壮大稳市力量、增强市场韧性、提升运行质量的重要机制安排。 那么，做市商制度到底能带来什么？五大亮点带你快速看懂。 亮点一：带来增量",
-     "source": "东方财富资讯",
-     "zh": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低"
-    },
-    {
-     "title": "11月22日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936931124.html",
-     "pubDate": "Sun, 22 Nov 2026 19:30:36 +0800",
-     "summary": "沪深两市多家上市公司11月22日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金科股份 ：因涉嫌信息披露违法违规，控股股东及合伙人遭证监会立案 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉嫌信息披露违法违规，收到证监会立案告知书；其合伙人北京天娇绿苑 房地产开发 有限公司亦被立案。公司表示，本次立案不涉及上市公司，生产经营正常，将配合调查并履行信披义务。 启迪设计 ：股票将被实施其他风险警示，11月23日停牌一天 启迪设计 公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
@@ -2512,6 +2464,54 @@ window.INDUSTRY_DATA = {
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
      "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "Alice Huang’s links to the chip underworld",
+     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
+     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+     "source": "Financial Times",
+     "zh": "Alice Huang’s links to the chip underworld"
+    },
+    {
+     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
+     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
+     "summary": "This would make the second recent intrusion into the FBI system.",
+     "source": "CNBC",
+     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
+    },
+    {
+     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
+     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+     "source": "CNBC",
+     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
+    },
+    {
+     "title": "Tech outages are fueling a new doomsday economy",
+     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+     "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
+     "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+     "source": "CNBC",
+     "zh": "Tech outages are fueling a new doomsday economy"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 20:11:57",
+ "generated_at": "2026/11/22 20:31:59",
  "recent_days": 7,
  "industries": [
   {
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+     "link": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+     "pubDate": "Sun, 22 Nov 2026 12:20:00 +0000",
+     "summary": "Developed by Japanese material handling giant Tadano, the 35-ton V320RC wheeled electric pick & carry crane has spent the last few months proving itself at NMG Italia’s job sites, where it’s been handling heavy loads in tight industrial spaces and improving efficiency by 50%. And now, you can buy on",
+     "source": "Electrek",
+     "zh": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane"
+    },
+    {
      "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
      "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
      "pubDate": "Sun, 22 Nov 2026 08:33:49 +0000",
@@ -735,14 +743,6 @@
      "summary": "One of the most common questions asked by first-time EV buyers is about the cost of electricity. Whether they plan to charge at home or find charging in the wild, everyone wants to know what to expect when it comes time to top off their batteries. One EV owner did the math after two months of EV own",
      "source": "Electrek",
      "zh": "How much does charging an EV really cost? This Redditor says $7 per month"
-    },
-    {
-     "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
-     "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
-     "pubDate": "Sat, 21 Nov 2026 19:14:57 +0000",
-     "summary": "Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup. But there’s a catch. It only works on 2027 model year Cybertrucks, and Tesla plans to stop building the truck by the end of ne",
-     "source": "Electrek",
-     "zh": "Tesla Cybertruck’s already impressive turning radius gets even tighter"
     },
     {
      "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
@@ -1409,6 +1409,14 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1457,6 +1465,14 @@
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1497,6 +1513,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1535,22 +1559,6 @@
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1777,12 +1785,52 @@
    "total": 18,
    "items": [
     {
+     "title": "大模型数据的隐秘江湖",
+     "link": "https://www.huxiu.com/article/4907530.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 20:14:33 +0800",
+     "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《深度丨大模型数据的隐秘江湖》 今年，一级市场最炙手可热的「当红炸子鸡」，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为“外包”的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容的AI应用创投圈，这些既能",
+     "source": "虎嗅",
+     "zh": "大模型数据的隐秘江湖"
+    },
+    {
+     "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
+     "link": "https://www.tmtpost.com/8214063.html",
+     "pubDate": "Sun, 22 Nov 2026 20:12:40 +0800",
+     "summary": "易天股份加快布局数据中心供电和储能设备。",
+     "source": "钛媒体",
+     "zh": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能"
+    },
+    {
+     "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
+     "link": "https://www.ithome.com/1/030/704.htm",
+     "pubDate": "Sun, 22 Nov 2026 12:10:44 GMT",
+     "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服装零售商 Zozo 已于上周五宣布，约 1520 万名客户的信息遭到泄露。 Zozo 表示，事件源于其使用的 Plaid Inc. 营销平台遭到攻击，该平台主要",
+     "source": "IT之家",
+     "zh": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃"
+    },
+    {
+     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+     "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+     "pubDate": "Sun, 22 Nov 2026 12:07:41 +0000",
+     "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+     "source": "Ars Technica",
+     "zh": "GLP-1 drugs could have a surprisingly large environmental payoff"
+    },
+    {
      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
      "link": "https://www.wired.com/gallery/best-travel-adapters/",
      "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
      "source": "WIRED",
      "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
+    },
+    {
+     "title": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元",
+     "link": "https://www.ithome.com/1/030/703.htm",
+     "pubDate": "Sun, 22 Nov 2026 11:56:09 GMT",
+     "summary": "IT之家 11 月 22 日消息，微星现已在京东上架“PRO MP272L”27 英寸显示器，该机为 1080P 100Hz 规格，定价为 599 元。 京东 微星 PRO MP272L 显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 100Hz IPS 面板，MPRT 响应速度 1ms，显示器亮度 250 尼特。显示器支架支持俯仰，本体支持 VESA 100x100mm 壁挂，提供 HDMI 和 DP 接口。",
+     "source": "IT之家",
+     "zh": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元"
     },
     {
      "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
@@ -1871,30 +1919,6 @@
      "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 Transformer 模型。 在 486 电脑时代，普通 PC 格式化软盘的存储容量还不到 147.5 万字节，因此想要在如此有限的空间内运行现代 AI 软件",
      "source": "IT之家",
      "zh": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI"
-    },
-    {
-     "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
-     "link": "https://www.ithome.com/1/030/698.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:20:07 GMT",
-     "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是在供应链紧张与资料中心供电受限下所做的调整 。 另据韩媒 Chosun Biz ",
-     "source": "IT之家",
-     "zh": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗"
-    },
-    {
-     "title": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速",
-     "link": "https://www.ithome.com/1/030/697.htm",
-     "pubDate": "Sun, 22 Nov 2026 11:18:30 GMT",
-     "summary": "IT之家 11 月 22 日消息，开发商 Supernova Games Studios 宣布旗下《神力科莎：拉力（Assetto Corsa Rally）》迎来 0.7 版本更新，新增瑞典拉力赛：包含 2 条独具特色的特殊赛段、14 种赛段布局，以及超过 30 公里经过高精度激光扫描测绘的雪地赛道。 此外，本次更新还加入 1986 款 B 组蓝旗亚 Delta S4、由 Italtecnica 打造的 2021 款蓝旗亚 Delta S4 Evo2，以及 4 个全新赛事分组，共计 48 场全新赛事。 价格方面，以 Steam 国区为例，本作定价为 128 元，8 折后到手价低至 102.4 ",
-     "source": "IT之家",
-     "zh": "赛车游戏《神力科莎: 拉力》迎 0.7 更新：新增瑞典赛道，可体验高精度雪地竞速"
-    },
-    {
-     "title": "云贵烤肉风起，加盟商的又一场豪赌开始了",
-     "link": "https://www.huxiu.com/article/4907520.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:12:11 +0800",
-     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：月半 如果说2023年是淄博烤肉和东北烤肉的“流量大年”，那么这两年，伴随着餐饮行业进入“地方特色风味深化”和“质价比极致卷”的阶段，云贵烤肉作为烤肉赛道中极具冲击力的新兴力量，杀出重围。走出地域滤镜，真正成为了一门“全国生意”。 云贵烤肉其实是一个泛指，具体来看，以贵州烙锅、毕节烤肉、云南宜良烤肉、傣味烤肉、建水烧烤等为主要代表。各个分支都掀起了或多或少的浪花。 在上海、成都、深圳、北京、青岛等餐饮风向标城市，大众点评“热门烤肉榜”的前10名中，常态化出现几家贵州烙锅或云南傣味/建水烧烤品牌，这些品牌多以自助形式出现，山野季、木姜子、云贵鲜切等关键",
-     "source": "虎嗅",
-     "zh": "云贵烤肉风起，加盟商的又一场豪赌开始了"
     },
     {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
@@ -1988,7 +2012,7 @@
      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
      "link": "https://arxiv.org/abs/2606.14068",
      "pubDate": "Sun, 22 Nov 2026 09:18:36 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 32 # Comments: 8",
+     "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 54 # Comments: 26",
      "source": "Hacker News",
      "zh": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts"
     },
@@ -1996,25 +2020,9 @@
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 178 # Comments: 246",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 198 # Comments: 280",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
-    },
-    {
-     "title": "韩国独立站靠红人种草起量，备货和退货该怎么算？",
-     "link": "https://www.baijing.cn/question/638901",
-     "pubDate": "Sun, 22 Nov 2026 08:27:28 +0000",
-     "summary": "我们做韩国独立站女装，团队6人，刚起量阶段，主要靠Instagram和YouTube红人种草，上月红人内容带来约3200单，但退货率冲到38%，比自然流量高出近一倍。现在卡在备货节奏上：红人视频爆了之后追单要25天，结果到货时热度已经过去，压了约800件库存；备少了又断码被红人粉丝骂。试过小批量空运补货和预售模式，空运把毛利压到12%，预售转化率掉了一半。想请教从选品和供应链角度，红人种草单量波动这么大的情况下，备货深度和退货损耗该怎么定取舍标准？",
-     "source": "白鲸出海",
-     "zh": "韩国独立站靠红人种草起量，备货和退货该怎么算？"
-    },
-    {
-     "title": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？",
-     "link": "https://www.baijing.cn/question/638900",
-     "pubDate": "Sun, 22 Nov 2026 08:22:16 +0000",
-     "summary": "团队 6 人，做面向欧洲中小企业的 HR SaaS，刚进入起量阶段，德国和法国各签了 10 来家客户。德国客户签约时要求签 DPA、提供数据处理记录，还要我们说明子处理者的数据传输路径。现在只有 1 个兼职法务，产品侧排期已经排到两个月后，GDPR 相关的文档和客户安全问卷全靠临时插队处理，上个月一份 DPA 来回改了 3 轮拖了 18 天，差点丢掉一个年费 1.2 万欧元的单子。已经买了一个模板库，也试过让客服按 FAQ 回复，但客户一问到具体处理活动和保留期限就卡住。这种持续性的合规文档维护，到底该配专职人手还是外包给律所，怎么判断？",
-     "source": "白鲸出海",
-     "zh": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？"
     }
    ]
   },
@@ -2273,6 +2281,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+     "link": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+     "pubDate": "Sun, 22 Nov 2026 12:13:56 GMT",
+     "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
+     "source": "CNBC",
+     "zh": "Top Wall Street analysts favor these 3 dividend stocks for strong returns"
+    },
+    {
+     "title": "为马斯克融资买GPU，高盛“秀操作”",
+     "link": "https://wallstreetcn.com/articles/3786456",
+     "pubDate": "Sun, 22 Nov 2026 20:11:23 +0800",
+     "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。 本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。 万亿芯",
+     "source": "华尔街见闻",
+     "zh": "为马斯克融资买GPU，高盛“秀操作”"
+    },
+    {
      "title": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ",
      "link": "https://seekingalpha.com/news/4675404-the-associate-of-alice-huang-who-funneled-nvidia-chips-to-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 07:04:09 -0500",
@@ -2345,44 +2369,12 @@
      "zh": "Did Anthropic and its bankers get a key call wrong after IPO?"
     },
     {
-     "title": "上交所正推动修订科创板做市商规则",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936927537.html",
-     "pubDate": "Sun, 22 Nov 2026 18:56:56 +0800",
-     "summary": "11月22日，证券时报记者获悉，近期上交所正推动修订《上海证券交易所证券交易业务指南第8号——科创板股票做市》。规则修订聚焦优化做市报价义务指标、完善做市商竞争评价机制、提升做市周转效率、强化风险防控要求等方面，兼顾做市商交易能力提升和做市业务规范管理，提高做市商履行义务要求，激励做市商扩大报价规模，促进做市业务形成良性生态，引导做市商更加规范、持续、稳定供给流动性，推动做市报价进一步提质增效。 （文章来源：证券时报）",
-     "source": "东方财富资讯",
-     "zh": "上交所正推动修订科创板做市商规则"
-    },
-    {
      "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
      "link": "https://wallstreetcn.com/articles/3786460",
      "pubDate": "Sun, 22 Nov 2026 18:52:10 +0800",
      "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
      "source": "华尔街见闻",
      "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
-    },
-    {
-     "title": "沪深交易所、中国结算推出一揽子降费措施",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924891.html",
-     "pubDate": "Sun, 22 Nov 2026 18:41:42 +0800",
-     "summary": "记者11月22日从中国证监会了解到，沪深交易所推出新一批降费措施，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服务费及债券结算费。 相关报道 上交所组合式推出新一批降费措施 助力激发市场主体活力 11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延",
-     "source": "东方财富资讯",
-     "zh": "沪深交易所、中国结算推出一揽子降费措施"
-    },
-    {
-     "title": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924279.html",
-     "pubDate": "Sun, 22 Nov 2026 18:37:21 +0800",
-     "summary": "经证监会批准，沪深北交易所将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。据测算，此次调整理论上可带来增量资金近4000亿元。这意味着投资者用100万元的保证金最多可以向证券公司融资125万元买入证券，该笔融资交易的杠杆倍数为1.25倍，可融资买入规模提升了25%。而现有的融资交易杠杆倍数为1倍，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元"
-    },
-    {
-     "title": "深交所拟在创业板引入做市商制度",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936924084.html",
-     "pubDate": "Sun, 22 Nov 2026 18:35:47 +0800",
-     "summary": "为进一步深化创业板改革，促进增强市场内在稳定性，在中国证监会统筹指导下，深交所积极推进在创业板引入做市商制度，起草了《 深圳证券交易所创业板股票做市交易业务细则（征求意见稿） 》（以下简称《做市业务细则》），现向社会公开征求意见。 2026年4月10日，证监会发布《关于深化创业板改革更好服务新质生产力发展的意见》，提出在创业板引入做市商制度，增强市场内在稳定性。同月，深交所修订发布《深圳证券交易所交易规则》，明确创业板股票交易可以实行做市商机制。市场实践表明，在竞价交易的基础上引入做市商机制，能够丰富市场参与主体，提升投资机构和交易策略多元化水平，有助于壮大稳市力量，提高定价效率，降低交易成本",
-     "source": "东方财富资讯",
-     "zh": "深交所拟在创业板引入做市商制度"
     },
     {
      "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
@@ -2449,14 +2441,6 @@
      "zh": "Tech suppliers raise AI server prices up to 45% months after deals are signed"
     },
     {
-     "title": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”",
-     "link": "https://wallstreetcn.com/articles/3786447",
-     "pubDate": "Sun, 22 Nov 2026 11:56:21 +0800",
-     "summary": "美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比特币跌14.2%，铜价跌超9%。 两家投行均警告，单靠对冲基金降仓不足以确认市场见底；摩根大通更指出，当前盘面正愈发贴近",
-     "source": "华尔街见闻",
-     "zh": "“别抱侥幸心理了，科技股投资者”！摩根大通劝退科技股：“还有很多人没卖”"
-    },
-    {
      "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
      "link": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 21:30:34 -0500",
@@ -2511,6 +2495,30 @@
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
      "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
+     "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
+     "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
     }
    ]
   },

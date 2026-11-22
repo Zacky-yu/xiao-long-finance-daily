@@ -1410,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1466,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1514,14 +1498,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1560,6 +1536,22 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1842,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
     },
     {
-     "title": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚",
-     "link": "https://www.ithome.com/1/030/586.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:04:31 GMT",
-     "summary": "IT之家 11 月 22 日消息，Rockstar 新作《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）因暴力、粗俗语言以及部分裸露内容，被评为成人级游戏。随着游戏正式推出，玩家开始发现，分享包含成人内容的游戏截图和视频也可能带来账号处罚。 IT之家注意到，一名 Xbox 用户因上传了一段海滩场景视频，画面中出现了穿着暴露的游客，结果账号被暂停使用 48 小时。与此同时，一名 PS5 玩家因为拍摄游戏内裸体主义者营地的照片，遭到了更长时间的处罚。 海滩场景也可能触发封号 Xbox Network 默认会自动将玩家录制的游戏视频分享给好友。Reddit 用户 s",
-     "source": "IT之家",
-     "zh": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚"
-    },
-    {
      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
      "link": "https://www.techmeme.com/261122/p5#a261122p5",
      "pubDate": "Sun, 22 Nov 2026 02:00:41 -0500",
@@ -1864,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们一款中度SLG去年底在巴西上线，目前DAU约1.8万，Pix占付费笔数六成以上。团队一共4个人：1个运营、1个投放、1个后端兼支付、1个客服，墨西哥和智利版本下季度要开。现在的问题是Pix即时到账的订单和游戏内发货回调经常对不上，每天约2%的订单要人工核，财务对账靠导CSV手工比，一个人一天要花3小时。已试过接第三方聚合支付和加webhook重试，但巴西本地银行的回执延迟波动大，卡在没人手做异常订单的自动归集规则。想请教：在4人编制、每月还要分人力铺西语区新版本的前提下，Pix对账这块应该先自建规则引擎，还是换聚合商并接受更高费率？",
      "source": "白鲸出海",
      "zh": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？"
-    },
-    {
-     "title": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火",
-     "link": "https://www.ithome.com/1/030/584.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:55:33 GMT",
-     "summary": "IT之家 11 月 22 日消息，综合外媒 electrek 报道，电动汽车终于在《GTA 6》中成为主流交通工具之一，游戏中的罪恶城街头随处可见电动汽车和充电站。 游戏最初将玩家带到岛礁地区（Keys），这是游戏中莱奥尼达州（Leonida）相对落后的区域。当地街道上主要是老旧汽车和廉价二手车，电动汽车并不常见。 不过，随着玩家启程前往市区，街头车辆开始发生变化。越接近城市中心，出现的电动汽车就越多，沿途也能看到越来越多的充电站。进入城市后，电动汽车已经随处可见，成为与燃油车无异的普通交通工具。 《GTA 6》也是 GTA 系列首款真正将能源补给机制纳入核心游戏体验的正统作品。燃油车需要消耗",
-     "source": "IT之家",
-     "zh": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火"
     },
     {
      "title": "美妆内卷是句号，不是问号",
@@ -2512,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
      "source": "经济观察网",
      "zh": "为鸟而生，斯温侯在中国（下）"
-    },
-    {
-     "title": "美股两次暴跌，资本在重估什么",
-     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
-     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
-     "source": "经济观察网",
-     "zh": "美股两次暴跌，资本在重估什么"
     }
    ]
   },

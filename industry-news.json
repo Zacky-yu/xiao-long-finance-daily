@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 17:32:06",
+ "generated_at": "2026/11/22 17:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,38 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+     "link": "https://www.qbitai.com/2026/11/511904.html",
+     "pubDate": "Sun, 22 Nov 2026 06:21:47 +0000",
+     "summary": "用葡萄糖发电控制血糖。",
+     "source": "量子位",
+     "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
+    },
+    {
+     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+     "link": "https://www.qbitai.com/2026/11/511870.html",
+     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
+    },
+    {
+     "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075704&idx=2&sn=3b3303aa11937d51386964ec70bf1eff",
+     "pubDate": "Sun, 22 Nov 2026 13:21:00 +0800",
+     "summary": "一次前向推理，同时预测物体位姿、尺寸与完整三维形状。",
+     "source": "机器之心",
+     "zh": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状"
+    },
+    {
+     "title": "VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075704&idx=1&sn=dd36e17788a25d918f6fbc5c3c0907cb",
+     "pubDate": "Sun, 22 Nov 2026 13:21:00 +0800",
+     "summary": "知行合一",
+     "source": "机器之心",
+     "zh": "VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向"
+    },
     {
      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
      "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
@@ -57,6 +89,22 @@
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
+     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+     "link": "https://www.qbitai.com/2026/11/511855.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
+    },
+    {
+     "title": "中国计算，走出新的登峰之路",
+     "link": "https://www.qbitai.com/2026/11/511849.html",
+     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "中国计算，走出新的登峰之路"
+    },
+    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -73,28 +121,20 @@
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
     },
     {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
+     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+     "link": "https://www.qbitai.com/2026/11/511841.html",
+     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
+     "summary": "",
      "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
     },
     {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
+     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+     "link": "https://www.qbitai.com/2026/11/511830.html",
+     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
+     "summary": "",
      "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
+     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -207,46 +247,6 @@
      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
      "source": "TechCrunch AI",
      "zh": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
-    },
-    {
-     "title": "The most misunderstood graph in AI just got a major update",
-     "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-     "pubDate": "Fri, 20 Nov 2026 18:15:15 +0000",
-     "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time",
-     "source": "MIT Tech Review AI",
-     "zh": "The most misunderstood graph in AI just got a major update"
-    },
-    {
-     "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
-     "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
-     "pubDate": "Fri, 20 Nov 2026 17:42:29 +0000",
-     "summary": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforc",
-     "source": "MarkTechPost",
-     "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
-    },
-    {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
-     "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
-     "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
-     "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
-     "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
-     "source": "KDnuggets",
-     "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
     }
    ]
   },
@@ -1785,6 +1785,38 @@
    "total": 18,
    "items": [
     {
+     "title": "专业工具、3D打印与AI for Science",
+     "link": "https://www.huxiu.com/article/4907499.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 17:27:37 +0800",
+     "summary": "本文来自微信公众号： 曼谈AI ，作者：曼谈AI，原文标题：《中国AI产业链融资周报（11.15-11.21）｜专业工具、3D打印与AI for Science》 本周（11.15-11.21）日报收录67条中国一级市场融资记录，其中51条归入AI产业链（76.1%）。按日报收录口径全列，包含跨周披露和待核记录。三个信号值得关注：①工业AI减少研发试错，芯片设计、工业研发和结构化预测获得融资；②生产能力打开消费空间，AI与3D打印结合，有机会降低个性化与小批量产品的开发门槛；③AI for Science的研发风险，细胞模型、实验服务和临床资产开发同周获投。 层级 定义 本周覆盖 能源 AI运",
+     "source": "虎嗅",
+     "zh": "专业工具、3D打印与AI for Science"
+    },
+    {
+     "title": "孙正义，又悬了",
+     "link": "https://www.huxiu.com/article/4907498.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 17:24:26 +0800",
+     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 11月的AI圈，地动山摇。 英伟达市值从10月高点一度蒸发近1.4万亿美元，执掌公司33年的黄仁勋黯然辞职；Anthropic创纪录上市当天，纳指收跌2.3%。 但这场风暴里，最头疼的，可能不是黄仁勋，而是孙正义。 11月20日，软银股价单日暴跌14.5%，创两年来最大跌幅，收盘价已较5个月前的历史高点跌去2/3。距离它登顶日本市值第一，才过去不到半年。 11月18日，东京，日经“未来对话”论坛。 台上的孙正义，自我检讨说，没投Anthropic，是他的错误之一。 他回忆，当年和Anthropic见过面，觉得创始人达里奥·阿莫迪非常了不起，真希",
+     "source": "虎嗅",
+     "zh": "孙正义，又悬了"
+    },
+    {
+     "title": "Anthropic 伪人公司",
+     "link": "https://www.huxiu.com/article/4907497.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 17:20:07 +0800",
+     "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating 那时候有伟人在地上，后来神的儿子们和人的女子们交合生子；那就是上古英武有名的人。 /《创世记》6章4节 北京时间11月19日晚上10点半，Anthropic在纳斯达克敲钟。 镜头里站着八个人，身上别着像素螃蟹吉祥物Clawd的徽章。Dario Amodei低头念完一张讲稿，宣称公司「不会向商业或政治压力低头」。钟声落定，他举起双手，掌心朝上笑了起来，身旁的人一齐鼓掌。 视频传到社交媒体上，评论区反复冒出同一个词，伪人。笑不像笑，鼓掌不像鼓掌，连站在台上的姿态都透着一股说不清的别扭。 伪人原本是恐怖故事里的概念。2021年，一",
+     "source": "虎嗅",
+     "zh": "Anthropic 伪人公司"
+    },
+    {
+     "title": "8 年累计飞行约 100 亿公里，BepiColombo 航天器进入水星轨道",
+     "link": "https://www.ithome.com/1/030/676.htm",
+     "pubDate": "Sun, 22 Nov 2026 09:17:29 GMT",
+     "summary": "IT之家 11 月 22 日消息，欧洲航天局（ESA）在 X 上宣布，确认 BepiColombo 已成功完成入轨制动，顺利被水星引力捕获。 IT之家注：BepiColombo 由欧洲航天局（ESA）与日本宇宙航空研究开发机构（JAXA）联合执行，于当地时间 2018 年 10 月 19 日搭乘阿丽亚娜 5 号火箭，从法属圭亚那库鲁发射。 据悉，原计划航程约 7 年，但因 2024 年太阳能电推进系统出现推力功率异常，航程顺延约 1 年。 两台探测器分别为日本的水星磁层轨道器“澪”（Mercury Magnetospheric Orbiter，MMO，昵称 Mio）和欧洲的水星行星轨道器（Me",
+     "source": "IT之家",
+     "zh": "8 年累计飞行约 100 亿公里，BepiColombo 航天器进入水星轨道"
+    },
+    {
      "title": "Steam 国区 16.8 元起，育碧体育游戏《极限国度》迎 1 折史低",
      "link": "https://www.ithome.com/1/030/668.htm",
      "pubDate": "Sun, 22 Nov 2026 09:04:32 GMT",
@@ -1831,14 +1863,6 @@
      "summary": "本文来自微信公众号： 江流川在写写画画 ，作者：老孙去也，原文标题：《品牌｜华为品牌，十年嬗变》 2026年8月，一只竹知了，让华为有点难堪。 这是一种传统竹制玩具，系着细绳，甩起来发出“哇哇”的声音。有人觉得，它与华为发布会上观众的惊叹声颇为相似，便拿来调侃余承东。 玩笑传开后，部分视频遭到投诉下架。 8月4日，鸿蒙智行发言人发布说明：累计监测相关信息5.6万余条，实际投诉171条，平台反馈下架144条。 声明强调，投诉针对的是恶意剪辑、侮辱诽谤等具体侵权内容，华为没有要求下架或者停售竹知了，也没有投诉正常展示玩具的视频。 解释得相当仔细，数字精确到个位。 企业依法保护商誉，无可厚非。恶意造",
      "source": "虎嗅",
      "zh": "品牌｜华为品牌，十年嬗变"
-    },
-    {
-     "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
-     "link": "https://www.ithome.com/1/030/628.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:47:38 GMT",
-     "summary": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会",
-     "source": "IT之家",
-     "zh": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入"
     },
     {
      "title": "韩国独立站靠红人种草起量，备货和退货该怎么算？",
@@ -1889,14 +1913,6 @@
      "zh": "宁德时代拉美落子，储能为何难再一家独大？"
     },
     {
-     "title": "OLED大扩产，先过整机预算这一关",
-     "link": "https://www.huxiu.com/article/4907493.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 16:02:23 +0800",
-     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 OLED要在电脑和平板上做成更大的生意，面板厂就得回答一个比画质更难的问题：屏幕升级之后，整机厂的账还算不算得过来？这将决定新一轮OLED竞争的走向。性能上的突破能让一种屏幕获得关注，能以什么价格、什么规模持续供货，才决定它能进入多少款产品。 面板行业正在为这一轮竞争建设更大的工厂，终端品牌却没有一张可以无限追加的采购预算。屏幕既要与不同显示方案比较，也要与处理器、存储、电池等部件共同占用整机成本。新技术想从少数高端机型走向更广的市场，最终要改变的，是整机厂愿意在哪些价位采用OLED的判断。已经出现终端采用的印刷OLED，正可以放在这笔账里观察",
-     "source": "虎嗅",
-     "zh": "OLED大扩产，先过整机预算这一关"
-    },
-    {
      "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
      "link": "https://www.baijing.cn/question/638898",
      "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
@@ -1921,22 +1937,6 @@
      "zh": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？"
     },
     {
-     "title": "想摸着戴尔过河，联想还有个短板",
-     "link": "https://www.huxiu.com/article/4907491.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 15:13:25 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 AI大基建爆火，服务器成了香饽饽，也让联想获益匪浅。 最近公布的财报显示，今年4月至9月，联想基础设施方案业务集团（ISG）收入达到198.55亿美元（约合人民币1332.9亿元），半年就超过了上一整个财年的约192亿美元（约合人民币1289亿元）。 去年同期，这块业务还亏损1.18亿美元（约合人民币7.9亿元），今年上半财年经营利润达18.68亿美元（约合人民币125.4亿元）。 截至9月底的三个月里，联想营收同比增长47.8%至302.38亿美元（约合人民币2029.9亿元）。PC和手机所在的智能设备业务集团（IDG）虽仍是最大收入来源，当季",
-     "source": "虎嗅",
-     "zh": "想摸着戴尔过河，联想还有个短板"
-    },
-    {
-     "title": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住",
-     "link": "https://www.huxiu.com/article/4907490.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 15:06:55 +0800",
-     "summary": "本文来自微信公众号： 爱中 谭 ，作者：爱中&nbsp;谭 6月窗口指导，9月4单72亿终止，11月37只、812.8亿元退场。 监管按下的不是数据资产的暂停键，是“数据外衣的债权”的暂停键。 2026年9月第一周，3单数据资产ABS在交易所项目状态里被同步标注为“终止”，合计约42亿元。 加上7月终止的30亿元项目，4单、72亿元，正好是监管窗口指导后的三个月。 而2026年前5个月，同类项目终止只有1单、1.93亿元。 节奏突然变了。 据财联社统计，截至11月17日，2026年以来共有173只ABS项目终止，拟发行金额合计3196.7亿元；其中，名称含“数据资产”的专项计划终止37只、合计",
-     "source": "虎嗅",
-     "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
-    },
-    {
      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
      "link": "https://www.techmeme.com/261122/p5#a261122p5",
      "pubDate": "Sun, 22 Nov 2026 02:00:41 -0500",
@@ -1948,7 +1948,7 @@
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 21 # Comments: 4",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 23 # Comments: 4",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -2020,7 +2020,7 @@
      "title": "Show HN: The Riemann Proof Handbook",
      "link": "https://github.com/tamnd/riemann-handbook",
      "pubDate": "Sun, 22 Nov 2026 05:46:30 +0000",
-     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 41 # Comments: 12",
+     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 43 # Comments: 13",
      "source": "Hacker News",
      "zh": "Show HN: The Riemann Proof Handbook"
     }
@@ -2281,54 +2281,6 @@
    "total": 13,
    "items": [
     {
-     "title": "美利信：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901850.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "美利信 将于2026年11月23日（星期一）下午14:00，在重庆市巴南区 天安 路1号附1号、附2号重庆 美利信 科技股份有限公司办公楼二楼会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司董事会换届暨选举第三届董事会非独立董事的议案 2、关于公司董事会换届暨选举第三届董事会独立董事的议案 3、关于延长公司2025年度向特定对象发行A股股票决议有效期及授权有效期的议案 4、关于为全资子公司向金融机构申请项目贷款提供担保的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《美利信:关于召开2026年第二次临时",
-     "source": "东方财富股票",
-     "zh": "美利信：将于2026年11月23日召开2026年第二次临时股东大会"
-    },
-    {
-     "title": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901711.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "杰普特 将于2026年11月23日（星期一）上午10:00，在深圳市龙华区观湖街道鹭湖社区观盛五路科姆龙科技园A栋12楼会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于以集中竞价交易方式回购公司股份方案的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《杰普特:关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市",
-     "source": "东方财富股票",
-     "zh": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
-    {
-     "title": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901651.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "摩登大道 将于2026年11月23日（星期一）下午14:00，在广州市黄埔区科学城光谱中路23号A1栋14层会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、《关于转让全资子公司股权及债权的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《摩登大道:关于召开2026年第二次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准",
-     "source": "东方财富股票",
-     "zh": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会"
-    },
-    {
-     "title": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901532.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "三一重能 将于2026年11月23日（星期一）下午15:00，在北京市昌平区北清路三一产业园1号楼1号会议室召开 2026年第三次 临时股东大会。本次股东大会将审议以下议案： 1、关于修订《公司章程》的议案 2、关于选举第三届董事会非独立董事的议案 3、关于选举第三届董事会独立董事的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《三一重能:三一重能关于召开2026年第三次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
-     "source": "东方财富股票",
-     "zh": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会"
-    },
-    {
-     "title": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901456.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "ST椰岛 将于2026年11月23日（星期一）下午14:30，在海南省海口市秀英区药谷二横路2号椰岛集团办公楼7层会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于预计未来12个月授信及为子公司提供担保额度的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《ST椰岛:ST椰岛关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证",
-     "source": "东方财富股票",
-     "zh": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
-    {
-     "title": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901392.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "鼎通科技 将于2026年11月23日（星期一）下午15:30，在东莞市东城街道周屋社区银珠路七号 鼎通科技 一号会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司发行 H 股股票并在香港联合交易所有限公司主板上市的议案 2、关于公司发行 H 股股票并在香港联交所主板上市方案的议案 3、关于公司转为境外募集股份有限公司的议案 4、关于公司发行H股股票募集资金使用计划的议案 5、关于公司发行 H 股股票并于香港联交所主板上市决议有效期的议案 6、关于提请股东会授权董事会及其授权人士全权处理与本次 H 股股票发行并于香港联交所主板上市有关事项的议案 7、关于公司发",
-     "source": "东方财富股票",
-     "zh": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
-    {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
      "link": "https://wallstreetcn.com/articles/3786449",
      "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
@@ -2337,60 +2289,12 @@
      "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
     },
     {
-     "title": "下周三只新股申购：光模块领域“小巨人”领衔",
-     "link": "http://stock.eastmoney.com/news/11134,202611223936893615.html",
-     "pubDate": "Sun, 22 Nov 2026 15:38:01 +0800",
-     "summary": "根据目前的发行安排，下周有3只新股可申购。具体日程上，11月23日（周一）可申购科创板新股 傲拓科技 ，11月25日（周三）可申购北交所新股 天广实 ，11月26日（周四）可申购创业板新股 猎奇智能 。 具体申购信息如下： 傲拓科技 ：中大型PLC国产替代“小巨人” 傲拓科技 的申购代码是787845，发行价为18.18元/股，发行市盈率为24.03倍，参考行业市盈率为52.24倍，发行市盈率不足行业均值的一半。公司此次发行股份总数为3775.83万股，网上发行股份数量为906.20万股。投资者参与网上申购，申购股份数量上限为0.90万股，顶格申购需配沪市市值9万元。按发行价计算，预计募集资金",
-     "source": "东方财富资讯",
-     "zh": "下周三只新股申购：光模块领域“小巨人”领衔"
-    },
-    {
-     "title": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936895240.html",
-     "pubDate": "Sun, 22 Nov 2026 15:35:40 +0800",
-     "summary": "11月22日， 天阳科技 、 ST洲际 同日公告，涉嫌信息披露违法违规，被证监会立案。同日， 金科股份 控股股东京渝星筑、京渝星璨以及合伙人北京天娇绿苑 房地产开发 有限公司，同样因涉嫌信息披露违法违规，被证监会立案。 天阳科技 公告称，收到证监会出具的《立案告知书》。因涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合调查并履行信息披露义务。 ST洲际 公告称，收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。公司表示将积极配合调查，目前生产经营活动正常，该事项不会对生产经营产生重大影响。 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉",
-     "source": "东方财富资讯",
-     "zh": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案"
-    },
-    {
-     "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936892566.html",
-     "pubDate": "Sun, 22 Nov 2026 15:25:34 +0800",
-     "summary": "日前， 特斯拉 CEO、 SpaceX 创始人兼CEO马斯克在社交媒体上表示， 人工智能 行业明年可能面临严重的资金短缺。 据中新经纬，11月22日，知名深度学习领域开源项目Keras创始人弗朗索瓦·肖莱（Franois Chollet）在社交平台上表示，要么你认为AI基础设施建设已经结束，AI只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU现货价格仍在上涨，算力难以锁定，HBM和DRAM到2029年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到2030年。此外，AI研究并没有放缓：前沿模型的训练算力约每5个月翻一番，模型能力提升速",
-     "source": "东方财富资讯",
-     "zh": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺"
-    },
-    {
-     "title": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936891254.html",
-     "pubDate": "Sun, 22 Nov 2026 15:00:54 +0800",
-     "summary": "本周末影响市场的重要资讯有：两部门公布4起典型案例，打击编造传播涉资本市场谣言行为；美方拟禁止 中国电信 运营商直接获取美国互联网电话号码资源，商务部回应；恒生指数公司宣布季检结果，恒生科技指数纳入20只股票；台湾金管会宣布稳定股市措施；特朗普称寻求与伊朗达成一项永久性协议；美股全线下挫，纳指跌超5%，费城 半导体 指数重挫近11%；报道称SEC正在调查 英伟达 的会计操作， 英伟达 跌逾14%。 宏观经济 财政部：1-10月证券交易印花税2511亿元 同比增长54.1% 1-10月，全国一般公共预算收入195671亿元，同比增长4.9%。其中，全国税收收入162622亿元，同比增长6%；非税",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为"
-    },
-    {
-     "title": "特朗普：愿联手民主党 将信用卡利率上限设为10%",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936890532.html",
-     "pubDate": "Sun, 22 Nov 2026 14:40:01 +0800",
-     "summary": "11月22日，据财联社报道，当地时间周六，美国总统特朗普表示，愿与即将掌控国会两院的民主党合作，推动将信用卡利率上限设为10%，以兑现其2024年竞选承诺。 他称，信用卡公司“已经赚了很多钱”。民主党参议员沃伦随后回应称：“让我们限制信用卡利率，为美国民众省钱。”沃伦预计将出任下一届参议院 银行 委员会主席。特朗普今年1月曾提出这一计划，但遭到 银行 业强烈反对，共和党控制的国会也未积极推动。 据中国基金报此前报道， 美国银行 业警告称：“我们认同总统的目标：帮助美国人获得更可负担的信贷。但与此同时，证据显示10%的利率上限将减少信贷供给，并会对数以百万计依赖并重视信用卡的美国家庭和小企业主造",
-     "source": "东方财富资讯",
-     "zh": "特朗普：愿联手民主党 将信用卡利率上限设为10%"
-    },
-    {
      "title": "猜想：AI泡沫破灭和金融市场危机",
      "link": "https://wallstreetcn.com/articles/3786452",
      "pubDate": "Sun, 22 Nov 2026 14:37:56 +0800",
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
-    },
-    {
-     "title": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936890170.html",
-     "pubDate": "Sun, 22 Nov 2026 14:16:42 +0800",
-     "summary": "本周以来，A股市场出现调整。美联储加息预期升温、美国AI资本开支放缓担忧、全球AI产业链调整及地缘局势扰动等因素叠加，带动全球风险资产普遍下跌，美股、日韩股市近期均出现较大跌幅。A股虽同步承压，但跌幅明显小于海外市场，展现出较强韧性。 十家券商普遍认为，短期波动更多是外部冲击下的情绪放大，并不意味着基本面恶化。从上市公司盈利改善、增量资金入市、政策持续发力以及AI产业趋势延续看，A股长期向好的基础并未改变，当前调整也为中长期资金提供了布局窗口。 短期调整未改长期趋势 华泰证券 研究所所长、固收首席张继强认为，A股近期波动主要受全球流动性收缩等外围因素冲击，跌幅明显低于其他市场。中国经济处在转型",
-     "source": "东方财富资讯",
-     "zh": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会"
     },
     {
      "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
@@ -2417,20 +2321,20 @@
      "zh": "A rocky road to Irish unity"
     },
     {
+     "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+     "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 05:00:14 GMT",
+     "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+     "source": "Financial Times",
+     "zh": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors"
+    },
+    {
      "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
      "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
      "summary": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
      "source": "Financial Times",
      "zh": "Napoleon’s warning to Nvidia’s Jensen Huang"
-    },
-    {
-     "title": "The ‘austere’ conservative poised to lead Spain with the far right",
-     "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
-     "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
-     "source": "Financial Times",
-     "zh": "The ‘austere’ conservative poised to lead Spain with the far right"
     },
     {
      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
@@ -2519,6 +2423,102 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
+     "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
+     "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+    },
+    {
+     "title": "Trump to work with Dems to cap credit card interest rates",
+     "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:34:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump to work with Dems to cap credit card interest rates"
+    },
+    {
+     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
+    },
+    {
+     "title": "Alice Huang’s links to the chip underworld",
+     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
+     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+     "source": "Financial Times",
+     "zh": "Alice Huang’s links to the chip underworld"
+    },
+    {
+     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
+     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
+     "summary": "This would make the second recent intrusion into the FBI system.",
+     "source": "CNBC",
+     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
+    },
+    {
+     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
+     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+     "source": "CNBC",
+     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
+    },
+    {
+     "title": "Tech outages are fueling a new doomsday economy",
+     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+     "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
+     "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+     "source": "CNBC",
+     "zh": "Tech outages are fueling a new doomsday economy"
+    },
+    {
+     "title": "State and federal battle over prediction markets regulation heats up after midterms",
+     "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+     "pubDate": "Sat, 21 Nov 2026 13:12:41 GMT",
+     "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+     "source": "CNBC",
+     "zh": "State and federal battle over prediction markets regulation heats up after midterms"
     }
    ]
   },

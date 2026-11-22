@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 18:11:49",
+ "generated_at": "2026/11/22 18:31:46",
  "recent_days": 7,
  "industries": [
   {
@@ -64,6 +64,30 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 钟宸 编辑 | 漠影 智东西11月22日报道，今天，Lean FRO和Mathlib Initiative发布了关于黎曼猜想的Lean形式化证明核验的联合声明，表示 Levent Alpöge的黎曼猜想证明是正确的 ，并祝贺其取得了这一成就。 ▲两家机构的联合声明 在Lean核验之后，2010年菲尔兹奖得主、克雷研究奖得主 吴宝珠 对Levent Alpöge的黎曼猜想证明表示认可，并认为， 过早宣称数学研究即将终结的人可能错了，AI反而会推动数学进一步繁荣，实现数学民主化。 他指出，未来数学研究的竞争力将不再主要取决于搭建复杂证明链条的能力，而是提出好问题、观察和探索的能力",
      "source": "智东西",
      "zh": "刚刚，Claude黎曼猜想证明通过验证！菲尔兹奖得主回应“数学研究不存在了？”"
+    },
+    {
+     "title": "NUS发布System One模型评测基准：能力有多宽，决策有多稳？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+     "pubDate": "Sun, 22 Nov 2026 07:31:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NUS发布System One模型评测基准：能力有多宽，决策有多稳？"
+    },
+    {
+     "title": "老黄被曝创办一家新公司？105亿美元英伟达股票已转入信托",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744403&idx=2&sn=e52bc9d6682e0d9e3f472c440726b285",
+     "pubDate": "Sun, 22 Nov 2026 07:31:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "老黄被曝创办一家新公司？105亿美元英伟达股票已转入信托"
+    },
+    {
+     "title": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744403&idx=1&sn=be24600cf52110702f79ffe3f5b4907d",
+     "pubDate": "Sun, 22 Nov 2026 07:31:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误"
     },
     {
      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit AMA活动（图源：X） 此次AMA处于一个非常有趣的时间点。 就在昨天，腾讯刚刚 开放旗舰模型Hy4的权重 ，并发布了模型安全评估卡片（System Card）。此前几天，腾讯还推出了主打低成本、高效率的Hy4 flash，接连两款模型的发布，让腾讯混元的技术路线成为社区关注的焦点。 与此同时，AI行业的竞争也在发生变化",
      "source": "智东西",
      "zh": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考"
-    },
-    {
-     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-     "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-     "pubDate": "Fri, 20 Nov 2026 23:30:30 +0000",
-     "summary": "Generative AI",
-     "source": "Google Research",
-     "zh": "How Google Duplex evolved to also call businesses for you in Gemini"
-    },
-    {
-     "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
-     "link": "https://zhidx.com/p/612978.html",
-     "pubDate": "Sat, 21 Nov 2026 07:12:50 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 李水青 智东西11月21日报道，昨夜，Anthropic数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站上发布声明， 宣称自己与Claude合作，找到了黎曼猜想及其更强版本——广义黎曼猜想（GRH）的证明方法。 ▲阿尔珀格发布的声明（图源：其个人主页） 这项困扰数学界 167年 的难题，可能迎来重大突破。 2006年菲尔兹奖得主陶哲轩 也在个人博客发文，关注这一进展。 他称，初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果。目前，数学界正在尝试验证证明的正确性，并梳理其中的核心思路。他预计，这一过程还需要一段时间。 ▲陶",
-     "source": "智东西",
-     "zh": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！"
-    },
-    {
-     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-     "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
-     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-     "source": "TechCrunch AI",
-     "zh": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
     }
    ]
   },
@@ -1786,12 +1786,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "不记事",
+     "link": "https://www.huxiu.com/article/4907507.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 18:15:46 +0800",
+     "summary": "本文来自微信公众号： 梁孝永康 ，作者：梁孝永康 长官说他经常会回忆过去的事情。他似乎有着独特的记忆力，能记住很多十多二十年前的事情，说起来的时候连细节都能描叙得很详细。像骑行长征路这种只过去五到六年的事情，他能记住路上的很多镇，很多小地方发生的事情，甚至某个镇住哪个酒店，晚上去吃了什么东西都知道。对我来说这很匪夷所思，路上天天有事发生，天天住酒店，我的记忆早就很模糊了，只知道我做过骑行长征这么个事。 这和长官的爱好有关，长官喜欢回忆，思考，整理过去发生的种种。分门别类，装进一个个抽屉里，并且有详细的目录索引，随时能找到相应的抽屉把想要的记忆找出来。所以长官的记忆力在不断强化。 而我是完全相反",
+     "source": "虎嗅",
+     "zh": "不记事"
+    },
+    {
+     "title": "误切双侧卵巢，香港知名医生道歉",
+     "link": "https://www.huxiu.com/article/4907505.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 18:09:17 +0800",
+     "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 香港中文大学医院一名患者接受子宫及输卵管切除手术后，原定保留的双侧卵巢却在术中被误切。目前，涉事医院和医生已公开致歉。 连日来，香港一名45岁患者双侧卵巢被误切事件引发业内关注。 11月17日，香港中文大学医院就这起医疗风险警示事件公开致歉。院方披露，患者因疑有子宫内膜病变，于9月12日接受腹腔镜子宫及双侧输卵管切除术，术前选择保留双侧卵巢的方案，但双侧卵巢在术中被一并切除。 次日，涉事主刀医生张德康接受香港电台采访，承认手术失误并致歉。医院官网显示，他是该院妇科肿瘤科顾问医生，也是香港中文大学医学院妇产科学系名誉临床教授。 ",
+     "source": "虎嗅",
+     "zh": "误切双侧卵巢，香港知名医生道歉"
+    },
+    {
+     "title": "厂罚商：合同里没有的罚款，都是抢钱",
+     "link": "https://www.huxiu.com/article/4907504.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 18:09:07 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：高级研究员 海游 近日，有位经销商给我发了一个表格，上面写着今年代理某品牌被厂家的罚款明细，其中有新品推广发货处罚，有重点网点开发未达目标处罚，这些都是账扣罚款。 还有部分罚款是业绩未达标，市场费用打折核销，有些罚款科目是总部规定的，有的罚款科目是战区和大区制定的，半年下来利润几乎被罚款吞完了。 现在市场压力这么大，如果这样持续下去，这个品牌就无法合作了，虽然不舍，但也不得不放弃。 究竟品牌商该不该对经销商进行罚款？有没有权力进行罚款，今天就聊聊这个话题。 罚款的合理与不合理 罚款，作为一种管理手段，本意在于规范渠道行为、维护市场秩序。合同中明确约定的串货",
+     "source": "虎嗅",
+     "zh": "厂罚商：合同里没有的罚款，都是抢钱"
+    },
+    {
+     "title": "洛图科技：2026 年第三季度中国智能眼镜市场均价 1542 元，同比下降 16.2%",
+     "link": "https://www.ithome.com/1/030/683.htm",
+     "pubDate": "Sun, 22 Nov 2026 10:06:07 GMT",
+     "summary": "IT之家 11 月 22 日消息，洛图科技（RUNTO）数据显示，2026 年第三季度，中国智能眼镜市场（包含带显示的 AR 眼镜、不带显示的音频眼镜和拍摄眼镜三大品类）的 全渠道零售量为 54.4 万台，同比增长 14.3%；零售额为 8.4 亿元，同比下滑 4.3%。 ▲ 2025Q4-2026Q3 中国智能眼镜全渠道市场规模，单位：万台，亿元，% IT之家获悉，2026 年第三季度的 市场均价为 1542 元 ，同比下降 16.2%，环比下降 27.5%。AR 眼镜、拍摄眼镜和音频眼镜的均价分别为 2817 元、877 元和 701 元。其中， 拍摄眼镜的均价呈现断崖式下滑 。 ▲ 20",
+     "source": "IT之家",
+     "zh": "洛图科技：2026 年第三季度中国智能眼镜市场均价 1542 元，同比下降 16.2%"
+    },
+    {
      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
      "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
      "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
      "source": "WIRED",
      "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
+    },
+    {
+     "title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
+     "link": "https://www.ithome.com/1/030/679.htm",
+     "pubDate": "Sun, 22 Nov 2026 09:58:03 GMT",
+     "summary": "IT之家 11 月 22 日消息，会计师正在成为观察人工智能如何改变职场的一个意想不到的样本。 据IT之家了解，由于会计工作具有流程固定、数据密集等特点，会计事务所一直是较早采用人工智能技术的行业之一，也经常被列为最容易受到 AI 冲击、面临岗位替代风险的行业。 不过，一份最新报告显示，会计行业还反映出 AI 发展中的另一个重要问题： 技术宣传所描绘的前景，与企业实际应用情况之间存在明显差距。 周三，沃尔特斯克鲁威尔税务与会计（Wolters Kluwer Tax &amp; Accounting）发布《面向未来的会计师》（Future Ready Accountant）报告。报告指出，企业对",
+     "source": "IT之家",
+     "zh": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足"
     },
     {
      "title": "和DreamZero 一作聊聊WAM 这一年",
@@ -1826,22 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "专业工具、3D打印与AI for Science"
     },
     {
-     "title": "孙正义，又悬了",
-     "link": "https://www.huxiu.com/article/4907498.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 17:24:26 +0800",
-     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 11月的AI圈，地动山摇。 英伟达市值从10月高点一度蒸发近1.4万亿美元，执掌公司33年的黄仁勋黯然辞职；Anthropic创纪录上市当天，纳指收跌2.3%。 但这场风暴里，最头疼的，可能不是黄仁勋，而是孙正义。 11月20日，软银股价单日暴跌14.5%，创两年来最大跌幅，收盘价已较5个月前的历史高点跌去2/3。距离它登顶日本市值第一，才过去不到半年。 11月18日，东京，日经“未来对话”论坛。 台上的孙正义，自我检讨说，没投Anthropic，是他的错误之一。 他回忆，当年和Anthropic见过面，觉得创始人达里奥·阿莫迪非常了不起，真希",
-     "source": "虎嗅",
-     "zh": "孙正义，又悬了"
-    },
-    {
-     "title": "Anthropic 伪人公司",
-     "link": "https://www.huxiu.com/article/4907497.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 17:20:07 +0800",
-     "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating 那时候有伟人在地上，后来神的儿子们和人的女子们交合生子；那就是上古英武有名的人。 /《创世记》6章4节 北京时间11月19日晚上10点半，Anthropic在纳斯达克敲钟。 镜头里站着八个人，身上别着像素螃蟹吉祥物Clawd的徽章。Dario Amodei低头念完一张讲稿，宣称公司「不会向商业或政治压力低头」。钟声落定，他举起双手，掌心朝上笑了起来，身旁的人一齐鼓掌。 视频传到社交媒体上，评论区反复冒出同一个词，伪人。笑不像笑，鼓掌不像鼓掌，连站在台上的姿态都透着一股说不清的别扭。 伪人原本是恐怖故事里的概念。2021年，一",
-     "source": "虎嗅",
-     "zh": "Anthropic 伪人公司"
-    },
-    {
      "title": "8 年累计飞行约 100 亿公里，BepiColombo 航天器进入水星轨道",
      "link": "https://www.ithome.com/1/030/676.htm",
      "pubDate": "Sun, 22 Nov 2026 09:17:29 GMT",
@@ -1866,36 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "消息称《黑色洛城 2》为 R 星下一款作品：改编自旧金山“黄道十二宫”案件，2030 年发售"
     },
     {
-     "title": "蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超 2000 万",
-     "link": "https://www.ithome.com/1/030/653.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:58:01 GMT",
-     "summary": "IT之家 11 月 22 日消息，2026 蚂蚁阿福医疗健康生态大会于 11 月 22 日 - 23 日在广州举行。 据新浪科技报道，蚂蚁健康事业群副总裁杨猛透露：“ 今天我们蚂蚁阿福已经有了 1.5 亿用户，每天线上问诊次数超过 2000 多万次 ，55% 来自于三线及以下城市，有 1/4 是老人，有 16% 的问诊来自于凌晨 0 点到早上 6 点。” 杨猛表示：“医生非常辛苦，时间是非常稀缺的资源。 AI 给我们带来的机会，就是把重复的事务性的工作全部由 AI 来提前做 ，让医生有更多的时间用在判断上、用在患者身上。” 据IT之家此前报道，9 个月前的 2 月 23 日，蚂蚁阿福宣布 蚂蚁",
-     "source": "IT之家",
-     "zh": "蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超 2000 万"
-    },
-    {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 40 # Comments: 18",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 96 # Comments: 105",
      "source": "Hacker News",
      "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
-    },
-    {
-     "title": "V社更新 Steam Machine 预订 / 供货情况，暗示该机未来将涨价",
-     "link": "https://www.ithome.com/1/030/652.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:57:26 GMT",
-     "summary": "IT之家 11 月 22 日消息，V社于 11 月 20 日更新了 Steam Machine 的预订 / 供货情况，其中 512GB 版开放购买，2TB 版则因组件供应不足关闭候补名单。 官方在公告中表示：“由于内存和存储成本持续以前所未有的幅度增长，因此我们尚无法得知所能生产的数量及可以提供的售价（尤其是 2TB 版本）。”这意味着，现有库存售罄后，Steam Machine 后续批次的售价可能迎来调整。 公开信息显示，目前 512GB 版 Steam Machine 的价格为 1,049 美元 （IT之家注：现汇率约合 7,021 元人民币） ，搭配 Steam Controller 的",
-     "source": "IT之家",
-     "zh": "V社更新 Steam Machine 预订 / 供货情况，暗示该机未来将涨价"
-    },
-    {
-     "title": "品牌｜华为品牌，十年嬗变",
-     "link": "https://www.huxiu.com/article/4907496.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 16:52:11 +0800",
-     "summary": "本文来自微信公众号： 江流川在写写画画 ，作者：老孙去也，原文标题：《品牌｜华为品牌，十年嬗变》 2026年8月，一只竹知了，让华为有点难堪。 这是一种传统竹制玩具，系着细绳，甩起来发出“哇哇”的声音。有人觉得，它与华为发布会上观众的惊叹声颇为相似，便拿来调侃余承东。 玩笑传开后，部分视频遭到投诉下架。 8月4日，鸿蒙智行发言人发布说明：累计监测相关信息5.6万余条，实际投诉171条，平台反馈下架144条。 声明强调，投诉针对的是恶意剪辑、侮辱诽谤等具体侵权内容，华为没有要求下架或者停售竹知了，也没有投诉正常展示玩具的视频。 解释得相当仔细，数字精确到个位。 企业依法保护商誉，无可厚非。恶意造",
-     "source": "虎嗅",
-     "zh": "品牌｜华为品牌，十年嬗变"
     },
     {
      "title": "韩国独立站靠红人种草起量，备货和退货该怎么算？",
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 25 # Comments: 4",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 29 # Comments: 4",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -2033,6 +2033,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?",
+     "link": "https://www.gsmarena.com/weekly_poll_the_xiaomi_18_pro_and_18_pro_max_are_global_now_have_you_changed_your_mind_about_them-news-75551.php",
+     "pubDate": "Sun, 22 Nov 2026 11:17:02 +0100",
+     "summary": "After the Xiaomi 18 Pro and the Xiaomi 18 Pro Max made their debut in China, we ran a poll to gauge the interest in their then-upcoming global release. The results indicated that their success will strongly depend on the global pricing, which wasn’t known at the time. Xiaomi 18 Pro Max and Xiaomi 18",
+     "source": "GSMArena",
+     "zh": "Weekly poll: the Xiaomi 18 Pro and 18 Pro Max are global now, have you changed your mind about them?"
+    },
+    {
+     "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
+     "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+     "pubDate": "Sun, 22 Nov 2026 10:15:48 +0000",
+     "summary": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand ",
+     "source": "9to5Mac",
+     "zh": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)"
+    },
     {
      "title": "Amazon UK Black Friday Week: best tablet deals UK edition",
      "link": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php",
@@ -2170,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027"
     },
     {
-     "title": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale",
-     "link": "https://www.gsmarena.com/deal_the_samsung_galaxy_s26_fe_finally_drops_to_the_right_price_during_amazons_black_friday_sale-news-75571.php",
-     "pubDate": "Sat, 21 Nov 2026 20:07:02 +0100",
-     "summary": "Samsung’s strategy for the mid-range segment in the US left us scratching our heads – the Galaxy A57 launched at $550 for an 8/128GB unit, which later grew to $600 after a round of price hikes. That’s too much, why wouldn’t you just buy a Galaxy S25 FE instead? One reason is that availability was st",
-     "source": "GSMArena",
-     "zh": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale"
-    },
-    {
      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
      "link": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/",
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
@@ -2216,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
      "source": "Android Authority",
      "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
-    },
-    {
-     "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
-     "link": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
-     "pubDate": "Sat, 21 Nov 2026 12:59:00 +0000",
-     "summary": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped , or just shy of $80 off the list price. You’ll also now find an even deeper deal on the current-generation Apple Watch SE 3 from $179 . Black Friday is already in full force with Amazon’s massive official ",
-     "source": "9to5Mac",
-     "zh": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]"
     },
     {
      "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
@@ -2282,52 +2282,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美利信：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901850.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "美利信 将于2026年11月23日（星期一）下午14:00，在重庆市巴南区 天安 路1号附1号、附2号重庆 美利信 科技股份有限公司办公楼二楼会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司董事会换届暨选举第三届董事会非独立董事的议案 2、关于公司董事会换届暨选举第三届董事会独立董事的议案 3、关于延长公司2025年度向特定对象发行A股股票决议有效期及授权有效期的议案 4、关于为全资子公司向金融机构申请项目贷款提供担保的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《美利信:关于召开2026年第二次临时",
+     "title": "十大机构论市：当前位置不必过度悲观 反弹总在逆境中诞生",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936922832.html",
+     "pubDate": "Sun, 22 Nov 2026 18:20:22 +0800",
+     "summary": "本周沪指下跌2.77%，深证成指下跌6.49%，创业板指下跌8.82%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生 经过本周下跌后，除上证50、科创50外的多数指数都出现不同程度的破位，而 微盘股 的补跌凸显出市场的流动性问题，以上两方面情形昭示着本轮底部构筑过程的“艰难”。但参考历史（如2015年9月、2022年4月、2024年2月）来看，反弹行情多数是在“逆境中诞生”，诸多证据昭示当前位置不必过度悲观。其一，场外大资金自10月15日以来大量申购主流ETF，截止11月19日收盘合计净买入5892亿元，这与2024年",
      "source": "东方财富股票",
-     "zh": "美利信：将于2026年11月23日召开2026年第二次临时股东大会"
+     "zh": "十大机构论市：当前位置不必过度悲观 反弹总在逆境中诞生"
     },
     {
-     "title": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901711.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "杰普特 将于2026年11月23日（星期一）上午10:00，在深圳市龙华区观湖街道鹭湖社区观盛五路科姆龙科技园A栋12楼会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于以集中竞价交易方式回购公司股份方案的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《杰普特:关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市",
+     "title": "小鹏G9L在泰国、印尼上市",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936922982.html",
+     "pubDate": "Sun, 22 Nov 2026 18:19:22 +0800",
+     "summary": "11月22日，据 小鹏集团 消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏G9L，两地售价分别折合人民币约47.15万元和47.6万元。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会"
+     "zh": "小鹏G9L在泰国、印尼上市"
     },
     {
-     "title": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901651.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "摩登大道 将于2026年11月23日（星期一）下午14:00，在广州市黄埔区科学城光谱中路23号A1栋14层会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、《关于转让全资子公司股权及债权的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《摩登大道:关于召开2026年第二次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准",
+     "title": "天机控股：11月20日斥资25.27万港元回购57万股",
+     "link": "http://hk.eastmoney.com/news/11223,202611223936922466.html",
+     "pubDate": "Sun, 22 Nov 2026 18:14:00 +0800",
+     "summary": "21财经11月22日电， 天机控股 （01520.HK）发布翌日披露报表，11月20日，公司回购57万股，每股最高回购价为0.46港元，每股最低回购价为0.43港元，付出的总代价为25.27万港元。本次回购股份拟持作库存股份，拟注销数目为0。 相关股票： 天机控股 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会"
+     "zh": "天机控股：11月20日斥资25.27万港元回购57万股"
     },
     {
-     "title": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901532.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "三一重能 将于2026年11月23日（星期一）下午15:00，在北京市昌平区北清路三一产业园1号楼1号会议室召开 2026年第三次 临时股东大会。本次股东大会将审议以下议案： 1、关于修订《公司章程》的议案 2、关于选举第三届董事会非独立董事的议案 3、关于选举第三届董事会独立董事的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《三一重能:三一重能关于召开2026年第三次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
+     "title": "名创优品：11月20日斥资25.5万美元回购9.96万股",
+     "link": "http://hk.eastmoney.com/news/11223,202611223936922255.html",
+     "pubDate": "Sun, 22 Nov 2026 18:14:00 +0800",
+     "summary": "21财经11月22日电， 名创优品 （09896.HK）发布翌日披露报表，11月20日，公司于纽约证券交易所回购9.96万股，每股最高回购价为2.57美元，每股最低回购价为2.55美元，付出的总代价为25.5万美元。本次回购股份拟注销。 相关股票： 名创优品 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会"
+     "zh": "名创优品：11月20日斥资25.5万美元回购9.96万股"
     },
     {
-     "title": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901456.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "ST椰岛 将于2026年11月23日（星期一）下午14:30，在海南省海口市秀英区药谷二横路2号椰岛集团办公楼7层会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于预计未来12个月授信及为子公司提供担保额度的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《ST椰岛:ST椰岛关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证",
+     "title": "将被ST，11月23日停牌一天！启迪设计涉嫌财务造假，公司及责任人拟被罚逾千万元，年内股价已“腰斩”",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936922355.html",
+     "pubDate": "Sun, 22 Nov 2026 18:13:47 +0800",
+     "summary": "11月22日晚间， 启迪设计 （SZ300500，股价6.87元，市值11.95亿元）发布《关于公司股票被实施其他风险警示暨股票停牌的提示性公告》。公告显示，公司于11月19日收到中国证监会江苏监管局下发的《行政处罚事先告知书》，根据《深圳证券交易所创业板股票上市规则》第9.4条第七项规定，公司股票将被实施其他风险警示。 依据安排，公司股票于11月23日（星期一）开市起停牌一天，11月24日（星期二）开市起复牌；自复牌之日起，股票简称由“ 启迪设计 ”变更为“ST启设”，证券代码仍为“300500”，日涨跌幅限制保持20%不变。 从股价表现看， 启迪设计 今年以来股价震荡走低，前复权口径下年初",
      "source": "东方财富股票",
-     "zh": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会"
+     "zh": "将被ST，11月23日停牌一天！启迪设计涉嫌财务造假，公司及责任人拟被罚逾千万元，年内股价已“腰斩”"
     },
     {
-     "title": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901392.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "鼎通科技 将于2026年11月23日（星期一）下午15:30，在东莞市东城街道周屋社区银珠路七号 鼎通科技 一号会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司发行 H 股股票并在香港联合交易所有限公司主板上市的议案 2、关于公司发行 H 股股票并在香港联交所主板上市方案的议案 3、关于公司转为境外募集股份有限公司的议案 4、关于公司发行H股股票募集资金使用计划的议案 5、关于公司发行 H 股股票并于香港联交所主板上市决议有效期的议案 6、关于提请股东会授权董事会及其授权人士全权处理与本次 H 股股票发行并于香港联交所主板上市有关事项的议案 7、关于公司发",
+     "title": "【图解牛熊股】一只牛股涨超50%，上证50指数逆势上涨",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936922540.html",
+     "pubDate": "Sun, 22 Nov 2026 18:13:31 +0800",
+     "summary": "财联社11月22日讯，本周A股三大指数震荡下跌，其中上证指数周跌2.77%，深成指周跌6.49%，创业板指周跌8.82%。本周 银行 、保险板块逆势拉升， 影视院线 、游戏、文化 传媒 概念股跌幅明显。本周个股下跌中位数超10%，上证50指数逆势上涨0.39%，上证50ETF华夏周五全天成交额243亿元，创最高成交纪录。 本周 卡莱特 涨幅超50%， 真视通 、 盛剑科技 、 清研环境 、 华东重机 涨幅超30%。 下跌个股来看， 金利华电 、 惠城环保 、 *ST天宜 、燧原科技、 *ST启环 、 *ST瑞茂 本周跌幅超40%。 主力资金流向方面，本周 中微公司 、 中芯国际 、 华虹宏力 ",
      "source": "东方财富股票",
-     "zh": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会"
+     "zh": "【图解牛熊股】一只牛股涨超50%，上证50指数逆势上涨"
+    },
+    {
+     "title": "最高15亿元 华友钴业拟再度回购！多家A股公司也公告",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936919766.html",
+     "pubDate": "Sun, 22 Nov 2026 17:57:00 +0800",
+     "summary": "刚完成6亿元股份回购， 钴 业龙头拟再度出手回购。 11月22日，A股 钴 业龙头 华友钴业 （603799）披露股份回购方案。公司拟以不低于10亿元，且不超过15亿元资金，回购公司股份，回购价格不超过45元/股。资金来源为自有或自筹资金。 华友钴业 表示，此次回购股份用于维护公司价值及股东权益，回购股份后续将按有关规定予以出售。 按照此次回购金额下限10亿元、回购价格上限45元/股进行测算，回购数量为2222.22万股，回购比例约占公司总股本的1.17%；按照回购金额上限15亿元、回购价格上限45元/股进行测算，回购数量3333.33万股，回购比例约占公司总股本的1.76%。 华友钴业 今年",
+     "source": "东方财富资讯",
+     "zh": "最高15亿元 华友钴业拟再度回购！多家A股公司也公告"
+    },
+    {
+     "title": "韩国财政部：已准备好立即部署市场稳定基金",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936917289.html",
+     "pubDate": "Sun, 22 Nov 2026 17:35:35 +0800",
+     "summary": "韩国财政部表示，将放宽每日股票回购限额和密切监控非法卖空行为，为期三个月；已准备好立即部署市场稳定基金。 相关报道 韩国政府准备启动股市稳定基金 放宽回购限制、打击非法卖空 韩国财政经济部11月22日表示，由副总理兼财政经济部长官李炯日主持的政府部门联合紧急市场形势检查会议当天在政府首尔办公楼举行。会议决定实施以下市场稳定措施。首先，政府将着手完善股市稳定基金的启动机制，提高其实际操作效力，以确保能够根据市场情况随时启动。另外，自11月24日起，未来3个月内，政府将放宽上市公司每日提交的库存股买入订单数量上限。此举旨在鼓励企业扩大股票回购规模，从而减轻股市下行压力。政府还将加强对非法卖空行为的",
+     "source": "东方财富资讯",
+     "zh": "韩国财政部：已准备好立即部署市场稳定基金"
+    },
+    {
+     "title": "融资调仓路线图出炉 大幅加仓9只股！",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936916754.html",
+     "pubDate": "Sun, 22 Nov 2026 17:27:00 +0800",
+     "summary": "近一周，9股融资净买入额超过1亿元。 近一周（11月13日至19日），A股融资余额持续走低，最新值降至21927.43亿元，为近一年新低。融资资金呈现净偿还态势，金额合计859.16亿元。 31个申万一级行业全部呈现净偿还态势。 电子 板块居首，净偿还额高达214.28亿元； 电力 设备板块随后，净偿还额81.40亿元； 机械设备 、 有色金属 、 通信 板块分列第三名至第五名，净偿还额依次为64.59亿元、60.34亿元、55.72亿元。 9股融资净买入额逾亿元 个股方面，9股融资净买入额超过1亿元。 华丰科技 、 华胜天成 净买入额分别为3.11亿元、2.46亿元；其余7股融资净买入逾1亿",
+     "source": "东方财富资讯",
+     "zh": "融资调仓路线图出炉 大幅加仓9只股！"
+    },
+    {
+     "title": "华友钴业：拟10亿元至15亿元回购公司股份",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936912041.html",
+     "pubDate": "Sun, 22 Nov 2026 16:27:00 +0800",
+     "summary": "华友钴业 公告，拟使用自有资金或自筹资金以集中竞价交易方式回购公司股份，回购资金总额不低于10.00亿元且不超过15.00亿元，回购价格不超过45.00元/股。本次回购股份用于维护公司价值及股东权益，回购期限为自董事会审议通过之日起3个月内，预计回购股份数量为2222.22万股至3333.33万股，占公司总股本的比例为1.17%至1.76%。此外，公司董事、高级管理人员、控股股东、实际控制人未来3个月、未来6个月暂无减持公司股份的计划。 （文章来源：南方财经网）",
+     "source": "东方财富资讯",
+     "zh": "华友钴业：拟10亿元至15亿元回购公司股份"
+    },
+    {
+     "title": "天孚通信：拟在南昌投建新一代高速光器件研发和生产制造项目",
+     "link": "http://finance.eastmoney.com/news/1349,202611223936908269.html",
+     "pubDate": "Sun, 22 Nov 2026 16:14:31 +0800",
+     "summary": "天孚通信 (300394.SZ)公告称，公司与南昌经济技术开发区管理委员会签署《产业项目投资发展合作协议》，拟在该区域投资建设新一代高速光器件研发和生产制造建设项目，产品用于全球超算中心或大型 数据中心 等。项目用地约210亩，公司注册成立江西天孚光互连科技有限公司承接项目建设。本次投资有利于提高公司整体产能和交付能力，完善全球生产布局。协议签署预计对2026年度经营业绩不会产生重大影响。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "天孚通信：拟在南昌投建新一代高速光器件研发和生产制造项目"
     },
     {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
@@ -2338,60 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
     },
     {
-     "title": "下周三只新股申购：光模块领域“小巨人”领衔",
-     "link": "http://stock.eastmoney.com/news/11134,202611223936893615.html",
-     "pubDate": "Sun, 22 Nov 2026 15:38:01 +0800",
-     "summary": "根据目前的发行安排，下周有3只新股可申购。具体日程上，11月23日（周一）可申购科创板新股 傲拓科技 ，11月25日（周三）可申购北交所新股 天广实 ，11月26日（周四）可申购创业板新股 猎奇智能 。 具体申购信息如下： 傲拓科技 ：中大型PLC国产替代“小巨人” 傲拓科技 的申购代码是787845，发行价为18.18元/股，发行市盈率为24.03倍，参考行业市盈率为52.24倍，发行市盈率不足行业均值的一半。公司此次发行股份总数为3775.83万股，网上发行股份数量为906.20万股。投资者参与网上申购，申购股份数量上限为0.90万股，顶格申购需配沪市市值9万元。按发行价计算，预计募集资金",
-     "source": "东方财富资讯",
-     "zh": "下周三只新股申购：光模块领域“小巨人”领衔"
-    },
-    {
-     "title": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936895240.html",
-     "pubDate": "Sun, 22 Nov 2026 15:35:40 +0800",
-     "summary": "11月22日， 天阳科技 、 ST洲际 同日公告，涉嫌信息披露违法违规，被证监会立案。同日， 金科股份 控股股东京渝星筑、京渝星璨以及合伙人北京天娇绿苑 房地产开发 有限公司，同样因涉嫌信息披露违法违规，被证监会立案。 天阳科技 公告称，收到证监会出具的《立案告知书》。因涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合调查并履行信息披露义务。 ST洲际 公告称，收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。公司表示将积极配合调查，目前生产经营活动正常，该事项不会对生产经营产生重大影响。 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉",
-     "source": "东方财富资讯",
-     "zh": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案"
-    },
-    {
-     "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936892566.html",
-     "pubDate": "Sun, 22 Nov 2026 15:25:34 +0800",
-     "summary": "日前， 特斯拉 CEO、 SpaceX 创始人兼CEO马斯克在社交媒体上表示， 人工智能 行业明年可能面临严重的资金短缺。 据中新经纬，11月22日，知名深度学习领域开源项目Keras创始人弗朗索瓦·肖莱（Franois Chollet）在社交平台上表示，要么你认为AI基础设施建设已经结束，AI只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU现货价格仍在上涨，算力难以锁定，HBM和DRAM到2029年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到2030年。此外，AI研究并没有放缓：前沿模型的训练算力约每5个月翻一番，模型能力提升速",
-     "source": "东方财富资讯",
-     "zh": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺"
-    },
-    {
-     "title": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936891254.html",
-     "pubDate": "Sun, 22 Nov 2026 15:00:54 +0800",
-     "summary": "本周末影响市场的重要资讯有：两部门公布4起典型案例，打击编造传播涉资本市场谣言行为；美方拟禁止 中国电信 运营商直接获取美国互联网电话号码资源，商务部回应；恒生指数公司宣布季检结果，恒生科技指数纳入20只股票；台湾金管会宣布稳定股市措施；特朗普称寻求与伊朗达成一项永久性协议； 韩国财政部表示已准备好立即部署市场稳定基金； 美股全线下挫，纳指跌超5%，费城 半导体 指数重挫近11%；报道称SEC正在调查 英伟达 的会计操作， 英伟达 跌逾14%。 宏观经济 财政部：1-10月证券交易印花税2511亿元 同比增长54.1% 1-10月，全国一般公共预算收入195671亿元，同比增长4.9%。其中，",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为"
-    },
-    {
-     "title": "特朗普：愿联手民主党 将信用卡利率上限设为10%",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936890532.html",
-     "pubDate": "Sun, 22 Nov 2026 14:40:01 +0800",
-     "summary": "11月22日，据财联社报道，当地时间周六，美国总统特朗普表示，愿与即将掌控国会两院的民主党合作，推动将信用卡利率上限设为10%，以兑现其2024年竞选承诺。 他称，信用卡公司“已经赚了很多钱”。民主党参议员沃伦随后回应称：“让我们限制信用卡利率，为美国民众省钱。”沃伦预计将出任下一届参议院 银行 委员会主席。特朗普今年1月曾提出这一计划，但遭到 银行 业强烈反对，共和党控制的国会也未积极推动。 据中国基金报此前报道， 美国银行 业警告称：“我们认同总统的目标：帮助美国人获得更可负担的信贷。但与此同时，证据显示10%的利率上限将减少信贷供给，并会对数以百万计依赖并重视信用卡的美国家庭和小企业主造",
-     "source": "东方财富资讯",
-     "zh": "特朗普：愿联手民主党 将信用卡利率上限设为10%"
-    },
-    {
      "title": "猜想：AI泡沫破灭和金融市场危机",
      "link": "https://wallstreetcn.com/articles/3786452",
      "pubDate": "Sun, 22 Nov 2026 14:37:56 +0800",
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
-    },
-    {
-     "title": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936890170.html",
-     "pubDate": "Sun, 22 Nov 2026 14:16:42 +0800",
-     "summary": "本周以来，A股市场出现调整。美联储加息预期升温、美国AI资本开支放缓担忧、全球AI产业链调整及地缘局势扰动等因素叠加，带动全球风险资产普遍下跌，美股、日韩股市近期均出现较大跌幅。A股虽同步承压，但跌幅明显小于海外市场，展现出较强韧性。 十家券商普遍认为，短期波动更多是外部冲击下的情绪放大，并不意味着基本面恶化。从上市公司盈利改善、增量资金入市、政策持续发力以及AI产业趋势延续看，A股长期向好的基础并未改变，当前调整也为中长期资金提供了布局窗口。 短期调整未改长期趋势 华泰证券 研究所所长、固收首席张继强认为，A股近期波动主要受全球流动性收缩等外围因素冲击，跌幅明显低于其他市场。中国经济处在转型",
-     "source": "东方财富资讯",
-     "zh": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会"
     },
     {
      "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
@@ -2520,6 +2512,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
     }
    ]
   },

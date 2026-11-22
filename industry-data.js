@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 15:12:55",
+ "generated_at": "2026/11/22 15:25:42",
  "recent_days": 7,
  "industries": [
   {
@@ -1410,6 +1410,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1778,12 +1786,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "想摸着戴尔过河，联想还有个短板",
+     "link": "https://www.huxiu.com/article/4907491.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 15:13:25 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 AI大基建爆火，服务器成了香饽饽，也让联想获益匪浅。 最近公布的财报显示，今年4月至9月，联想基础设施方案业务集团（ISG）收入达到198.55亿美元（约合人民币1332.9亿元），半年就超过了上一整个财年的约192亿美元（约合人民币1289亿元）。 去年同期，这块业务还亏损1.18亿美元（约合人民币7.9亿元），今年上半财年经营利润达18.68亿美元（约合人民币125.4亿元）。 截至9月底的三个月里，联想营收同比增长47.8%至302.38亿美元（约合人民币2029.9亿元）。PC和手机所在的智能设备业务集团（IDG）虽仍是最大收入来源，当季",
+     "source": "虎嗅",
+     "zh": "想摸着戴尔过河，联想还有个短板"
+    },
+    {
+     "title": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉",
+     "link": "https://www.ithome.com/1/030/590.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:13:14 GMT",
+     "summary": "IT之家 11 月 22 日消息，据《卫报》今天报道，德国军工初创企业 Helsing 近期在柏林艺术中心 Kraftwerk Berlin 举办 AI 目标识别系统 Clarity 发布活动，引发当地乐迷、电音社区强烈抗议。 据报道，Kraftwerk Berlin 是一座位于柏林的巨型后工业艺术与音乐文化空间，以粗粝的混凝土建筑和实验电子音乐、装置艺术闻名。这里不仅是实验音乐节 Atonal 的举办地，也与电音俱乐部 Tresor 处于同一个园区。 然而在上周（IT之家注：当地时间 11 月 11 日），这家前卫的场馆被改造成“作战室”。据到场者描述，混凝土墙壁上投射着地图和航拍画面，天花",
+     "source": "IT之家",
+     "zh": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉"
+    },
+    {
+     "title": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术",
+     "link": "https://www.ithome.com/1/030/589.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:13:14 GMT",
+     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，搭载麒麟 9030S 处理器，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家从华为客户服务获悉， 星芒 OSTA O1 Pro 确认支持华为自研 Wi-Fi 7+ 芯片级协同技术 （Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+）。",
+     "source": "IT之家",
+     "zh": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术"
+    },
+    {
+     "title": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池",
+     "link": "https://www.ithome.com/1/030/588.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:08:33 GMT",
+     "summary": "IT之家 11 月 22 日消息，消息源 Sudhanshu1414 现已曝光了 vivo 旗下 Y21s/Y11s/Y05s 三款 5G 手机规格信息，IT之家整理价格信息如下： vivo Y21s 该机正面配备一块 6.74 英寸 1600x720 分辨率 120Hz LCD 面板，匹配 5Mp 自拍摄像头；手机后置 50Mp 主摄及 0.08Mp 辅助摄像头。手机搭载联发科天玑 6300 芯片，可选 4/6GB RAM 和 64/128GB 存储空间，配备 6500mAh 电池（支持 44W 有线充电）。 vivo Y11s 该机正面配备一块 6.74 英寸 1600x720 分辨率 1",
+     "source": "IT之家",
+     "zh": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池"
+    },
+    {
+     "title": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元",
+     "link": "https://www.ithome.com/1/030/587.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:08:10 GMT",
+     "summary": "IT之家 11 月 22 日消息，随着许多传统系列作品的衰落，且鲜有新系列作品能够走红，好莱坞已转向电子游戏寻找大票房大片。此前曾出现过像《我的世界》这样的巨大成功案例，也出现过像《无主之地》这样的票房惨败。 据好莱坞娱乐商业媒体 The Ankler 报道，多位消息人士透露，尽管多年来渴望改编《GTA》这一现象级 IP 的娱乐公司纷纷主动接洽，Rockstar Games 仍然不感兴趣。 不过该媒体爆料称，Rockstar 旗下另一部价值数十亿美元的重磅 IP 改编可能已进入洽谈状态。消息人士透露， 该 公司对于将其大受欢迎的西部动作冒险系列《荒野大镖客》搬上电影或电视持更开放的态度 。 一",
+     "source": "IT之家",
+     "zh": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元"
+    },
+    {
      "title": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住",
      "link": "https://www.huxiu.com/article/4907490.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 15:06:55 +0800",
      "summary": "本文来自微信公众号： 爱中 谭 ，作者：爱中&nbsp;谭 6月窗口指导，9月4单72亿终止，11月37只、812.8亿元退场。 监管按下的不是数据资产的暂停键，是“数据外衣的债权”的暂停键。 2026年9月第一周，3单数据资产ABS在交易所项目状态里被同步标注为“终止”，合计约42亿元。 加上7月终止的30亿元项目，4单、72亿元，正好是监管窗口指导后的三个月。 而2026年前5个月，同类项目终止只有1单、1.93亿元。 节奏突然变了。 据财联社统计，截至11月17日，2026年以来共有173只ABS项目终止，拟发行金额合计3196.7亿元；其中，名称含“数据资产”的专项计划终止37只、合计",
      "source": "虎嗅",
      "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
+    },
+    {
+     "title": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚",
+     "link": "https://www.ithome.com/1/030/586.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:04:31 GMT",
+     "summary": "IT之家 11 月 22 日消息，Rockstar 新作《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）因暴力、粗俗语言以及部分裸露内容，被评为成人级游戏。随着游戏正式推出，玩家开始发现，分享包含成人内容的游戏截图和视频也可能带来账号处罚。 IT之家注意到，一名 Xbox 用户因上传了一段海滩场景视频，画面中出现了穿着暴露的游客，结果账号被暂停使用 48 小时。与此同时，一名 PS5 玩家因为拍摄游戏内裸体主义者营地的照片，遭到了更长时间的处罚。 海滩场景也可能触发封号 Xbox Network 默认会自动将玩家录制的游戏视频分享给好友。Reddit 用户 s",
+     "source": "IT之家",
+     "zh": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚"
     },
     {
      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
@@ -1802,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？"
     },
     {
-     "title": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 5 秒、受损时从底盘电池位置着火",
+     "title": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火",
      "link": "https://www.ithome.com/1/030/584.htm",
      "pubDate": "Sun, 22 Nov 2026 06:55:33 GMT",
      "summary": "IT之家 11 月 22 日消息，综合外媒 electrek 报道，电动汽车终于在《GTA 6》中成为主流交通工具之一，游戏中的罪恶城街头随处可见电动汽车和充电站。 游戏最初将玩家带到岛礁地区（Keys），这是游戏中莱奥尼达州（Leonida）相对落后的区域。当地街道上主要是老旧汽车和廉价二手车，电动汽车并不常见。 不过，随着玩家启程前往市区，街头车辆开始发生变化。越接近城市中心，出现的电动汽车就越多，沿途也能看到越来越多的充电站。进入城市后，电动汽车已经随处可见，成为与燃油车无异的普通交通工具。 《GTA 6》也是 GTA 系列首款真正将能源补给机制纳入核心游戏体验的正统作品。燃油车需要消耗",
      "source": "IT之家",
-     "zh": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 5 秒、受损时从底盘电池位置着火"
+     "zh": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火"
     },
     {
      "title": "美妆内卷是句号，不是问号",
@@ -1826,20 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "从包办婚姻到包办书包，“宠物式育儿”只会制造废品"
     },
     {
-     "title": "法拉利 296 Challenge 双车发布：基于纯燃油动力架构打造",
-     "link": "https://www.ithome.com/1/030/583.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:50:28 GMT",
-     "summary": "IT之家 11 月 22 日消息，法拉利今天宣布推出 296 Challenge 和 296 Challenge EVO 超跑。 这两款新车均基于纯燃油动力架构打造 ，整车更加轻巧，响应更直接，并融入源自赛车的空气动力学设计。 IT之家了解到，法拉利 296 Challenge Stradale 仅搭载发动机，没有电动机和电池，成功减重 140kg，马力可达。该车面向公路驾驶打造，最大输出功率达 670 cv，配备固定式尾翼与专属动态性能控制系统。座舱摒除冗余元素，采用碳纤维车门饰板与管状结构座椅，搭配外露式碳纤维中控区域，带来更为直接的驾控体验。 296 Challenge EVO 专为赛道",
-     "source": "IT之家",
-     "zh": "法拉利 296 Challenge 双车发布：基于纯燃油动力架构打造"
-    },
-    {
-     "title": "微软公布 Outlook 全球宕机最终报告：部分邮件投递失败，安全功能也受影响",
-     "link": "https://www.ithome.com/1/030/582.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:49:02 GMT",
-     "summary": "IT之家 11 月 22 日消息，11 月 12 日，微软发生大规模服务故障，导致全球数百万用户无法正常访问 Outlook、Exchange Online 以及其他多项 Microsoft 365 服务。微软经过约 12 小时才逐步恢复全部服务。上周，该公司发布了初步事故报告，解释了此次故障的原因。 如今，微软公布了最终事故报告，披露了一些此前未公开的细节：部分邮件未能成功送达预定收件人。此外，此次故障还影响了微软多项电子邮件安全功能，微软也公布了防止类似事件再次发生的改进计划。 IT之家注意到，上周的调查显示，此次故障源于 2026 年 7 月引入的一处软件缺陷。这一漏洞与服务器容量下降、",
-     "source": "IT之家",
-     "zh": "微软公布 Outlook 全球宕机最终报告：部分邮件投递失败，安全功能也受影响"
+     "title": "Notes on the discrete Fourier transform (DFT)",
+     "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+     "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Notes on the discrete Fourier transform (DFT)"
     },
     {
      "title": "被“飞雪”画地为牢，是逃离“异性恋大床房”的开始",
@@ -1848,30 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 青年志Youthology ，作者：苔、小吓、Sharon 《后会友期》如今来到了第六期。自节目意外大红后，你“画地为牢”多长时间了？以及，在此之前，你有多长时间没有为一段关系和感情着迷了？ 从飞雪的前史、关系中的暗涌与那些令人心碎的细节，到友情如何超越私人情感、成为公共讨论的热点，我们试图借《后会友期》讨论那些尚未被既有关系范式充分命名的亲密与爱，重新想象人与人之间可以如何相爱，又如何共同生活。 让我们再次一同感受关系所带来的古典的美好和所能窥见的关于人性的真善美！（以及在“酷儿性”被泛用的当下，我们应如何在审慎地对待性缘霸权、浪漫爱规范的同时，感受酷儿欲望所带给我们的",
      "source": "虎嗅",
      "zh": "被“飞雪”画地为牢，是逃离“异性恋大床房”的开始"
-    },
-    {
-     "title": "TikTok 上线 AI 深度伪造检测工具，为创造者推出“肖像检测”功能",
-     "link": "https://www.ithome.com/1/030/581.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:46:21 GMT",
-     "summary": "IT之家 11 月 22 日消息，当地时间 11 月 19 日，TikTok 宣布推出两项新工具，进一步推进人工智能透明度建设，让社区用户在 TikTok 上创作和接触人工智能内容时，拥有更高的知情度与掌控力。 TikTok 推出了一款新的 透明度工具 ，让任何人都能自主进行核验。即便没有 TikTok 账号，用户也可以上传图片或视频，检测其是否由 TikTok 的人工智能创作功能生成或编辑。除了内容凭证外，该工具还会检测 TikTok 专有的隐形水印 VeraDura—— 该水印持久性更强，也更难以被去除。 此外，TikTok 将面向全球逐步推出“肖像检测”功能。这项需用户主动开启的工具，能",
-     "source": "IT之家",
-     "zh": "TikTok 上线 AI 深度伪造检测工具，为创造者推出“肖像检测”功能"
-    },
-    {
-     "title": "《GTA 6》掀起全球网络流量高峰，多家运营商带宽创纪录",
-     "link": "https://www.ithome.com/1/030/580.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:44:55 GMT",
-     "summary": "IT之家 11 月 22 日消息，美国互联网服务提供商 Comcast 于 11 月 20 日发布题为《互联网历史上流量最大的一天》的报告，称 11 月 18 日是其网络有史以来流量最高的一天。 Comcast 表示，在流量峰值时段，GTA 6 下载和游戏活动产生的流量最高占其整个网络总流量的 24%。需要注意的是，这一比例仅统计 Comcast 在美国运营的网络，并不代表全球互联网流量占比，同时反映的是特定时段的峰值数据，而非全天平均水平。 此次网络流量激增并非仅发生在美国。互联网交换中心运营商 DE-CIX 表示，其旗下交换节点在 11 月 18 日欧洲中部时间 20:20 记录到 33.",
-     "source": "IT之家",
-     "zh": "《GTA 6》掀起全球网络流量高峰，多家运营商带宽创纪录"
-    },
-    {
-     "title": "《GTA 6》Xbox 版存解锁帧率漏洞：最高可跑到 100FPS，但游戏速度也变快",
-     "link": "https://www.ithome.com/1/030/579.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:44:13 GMT",
-     "summary": "IT之家 11 月 22 日消息，备受期待的《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）于 11 月 19 日在全球正式发售。游戏获得了媒体和玩家的广泛好评，并以首日 37.9 亿美元 （IT之家注：现汇率约合 253.68 亿元人民币） 的销售额，创下历史上所有娱乐媒介中规模最大的首发纪录。事实上，在正式发售之前，《GTA 6》就已售出 3250 万份，成为史上预购量最高的电子游戏。 上个月，Rockstar Games 确认，《GTA 6》在 Xbox 和 PlayStation 平台上的目标帧率均为 30FPS。开发团队希望借此维持游戏中各个环境及其",
-     "source": "IT之家",
-     "zh": "《GTA 6》Xbox 版存解锁帧率漏洞：最高可跑到 100FPS，但游戏速度也变快"
     },
     {
      "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
@@ -1896,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "做内罗毕本地仓的3C配件，团队8人，月订单约4000单，其中M-Pesa收款占七成。对接了M-Pesa的STK Push和C2B回调后，支付成功率从62%拉到88%，但退款只能走人工B2C，单笔平均要18分钟，退货率6%压在仓里。现在备货按四周一次海运，可M-Pesa到账T+1、退款又慢，资金周转被拖住。已经试过用Paybill短码分流和第三方聚合，卡在退款自动化和退货再入库的账实同步上。想请教：这种收款结构下，备货周期和退货处理该按什么标准定？",
      "source": "白鲸出海",
      "zh": "肯尼亚 M-Pesa 收款对接后，退货退款和备货节奏怎么排？"
-    },
-    {
-     "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
-     "link": "https://www.huxiu.com/article/4907485.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 14:33:09 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年3月，印度古吉拉特邦的莫尔比陷入停顿。 伊朗战争导致霍尔木兹海峡能源运输受阻，这个印度瓷砖之都很快陷入燃料短缺。据BBC报道，当地约550家工厂停产，约八成厂商受到冲击，40万工人的就业受到影响。莫尔比陶瓷协会主席说，已经生产出来的出口订单发不出去，新订单也被搁置。 就在印度人为燃料发愁的时候，远在非洲的中国企业科达制造开始提高瓷砖售价。 2026年上半年，科达海外建材业务营收49.29亿元，同比增长30.70%；毛利率达到43.88%，比上年同期提高7.08个百分点。 中国和印度是全球最大的两个瓷砖生产国。过去十多年，",
-     "source": "虎嗅",
-     "zh": "中国和印度，在非洲瓷砖市场的第二次交锋"
     },
     {
      "title": "大众花巨资买软件，想拿回什么？",
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: The Riemann Proof Handbook",
      "link": "https://github.com/tamnd/riemann-handbook",
      "pubDate": "Sun, 22 Nov 2026 05:46:30 +0000",
-     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 9 # Comments: 3",
+     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 11 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: The Riemann Proof Handbook"
     },
@@ -2008,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "德国站FBA卖家，5人小团队，主推家居收纳，月广告预算约1.2万欧元。上季度把荷兰清关的VAT递延改到德国本地申报后，德国站广告CPA从18欧涨到25欧，ACOS从22%拉到31%，同期法国站没动却基本持平。已经核对过Listing和竞价，也试过把预算往西班牙站倾斜，但德国站单量占比六成不敢硬砍。现在卡在分不清是递延申报导致的到账延迟影响了库存周转和广告节奏，还是纯粹投放效率问题。想先确认：这种CPA跳涨该先停投止损，还是先查申报链路再决定预算怎么切？",
      "source": "白鲸出海",
      "zh": "德国站VAT递延后广告CPA涨了四成，是该停投还是先查税？"
-    },
-    {
-     "title": "AI Supply Chain Security: What Canary Tokens Found",
-     "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-     "pubDate": "Sun, 22 Nov 2026 05:11:43 +0000",
-     "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 9 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "AI Supply Chain Security: What Canary Tokens Found"
     }
    ]
   },
@@ -2274,12 +2282,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "瑞士联邦副主席兼外长卡西斯将访华",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936891310.html",
+     "pubDate": "Sun, 22 Nov 2026 15:02:51 +0800",
+     "summary": "据外交部网站，外交部发言人宣布：应中共中央政治局委员、外交部长王毅邀请，瑞士联邦副主席兼外长卡西斯将于11月23日至24日访华并举行中瑞第五轮外长级战略对话。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "瑞士联邦副主席兼外长卡西斯将访华"
+    },
+    {
+     "title": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936891254.html",
+     "pubDate": "Sun, 22 Nov 2026 15:00:54 +0800",
+     "summary": "本周末影响市场的重要资讯有：两部门公布4起典型案例，打击编造传播涉资本市场谣言行为；美方拟禁止 中国电信 运营商直接获取美国互联网电话号码资源，商务部回应；恒生指数公司宣布季检结果，恒生科技指数纳入20只股票；台湾金管会宣布稳定股市措施；特朗普称寻求与伊朗达成一项永久性协议；美股全线下挫，纳指跌超5%，费城 半导体 指数重挫近11%；报道称SEC正在调查 英伟达 的会计操作， 英伟达 跌逾14%。 宏观经济 财政部：1-10月证券交易印花税2511亿元 同比增长54.1% 1-10月，全国一般公共预算收入195671亿元，同比增长4.9%。其中，全国税收收入162622亿元，同比增长6%；非税",
+     "source": "东方财富股票",
+     "zh": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为"
+    },
+    {
+     "title": "苏宁易购与焦点科技达成战略合作，出海业务再提速",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936891425.html",
+     "pubDate": "Sun, 22 Nov 2026 14:57:00 +0800",
+     "summary": "南方财经11月22日电，苏宁易购与 焦点科技 于11月20日签署战略合作协议。双方将发挥各自资源优势，围绕跨境贸易展开深度合作，共同构建“全球商机+中国供给”高效协同通道，并在海外本地化履约、品牌出海等方面协同发力，助推中国优质商品对接全球市场需求，提速出海业务布局。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "苏宁易购与焦点科技达成战略合作，出海业务再提速"
+    },
+    {
+     "title": "云南能投：实施积极、持续、稳定的分红政策，推动公司价值的更好实现",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936890886.html",
+     "pubDate": "Sun, 22 Nov 2026 14:55:04 +0800",
+     "summary": "云南能投 在投资者关系活动中表示，公司紧紧围绕上市公司市值管理相关工作要求，聚焦公司价值创造、传播、实现各个环节。一是坚定不移做强做优做大绿色能源核心主业，加快推动盐业转型升级；二是高度重视股东回报，实施积极、持续、稳定的分红政策，现金分红水平逐年提高；与此同时，持续提升信息披露质量，加强投资者关系管理，推动公司价值的更好实现。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "云南能投：实施积极、持续、稳定的分红政策，推动公司价值的更好实现"
+    },
+    {
+     "title": "云南能投：与控股股东及其子公司签署了《代为培育框架协议》",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936891194.html",
+     "pubDate": "Sun, 22 Nov 2026 14:51:00 +0800",
+     "summary": "21财经11月22日电， 云南能投 在投资者关系活动中表示，按照国务院国资委、中国证监会《关于推动国有股东与所控股上市公司解决同业竞争规范关联交易的指导意见》要求，公司与控股股东云南能源集团及其子公司签署了《代为培育框架协议》，并与具体的项目实施主体签署《代为培育协议》。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "云南能投：与控股股东及其子公司签署了《代为培育框架协议》"
+    },
+    {
+     "title": "云南能投：正有序有力推进昆明安宁350MW压缩空气储能示范项目建设",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936890921.html",
+     "pubDate": "Sun, 22 Nov 2026 14:51:00 +0800",
+     "summary": "云南能投 在投资者关系活动中表示，公司锚定绿色能源发展战略，紧抓战略机遇，聚焦风电、光伏等绿色能源的投资、开发、建设和运营管理，积极拓展新型储能等 新能源 新赛道。截至目前，公司已投产发电的 新能源 总装机容量达到277.486万千瓦。新型储能方面，公司目前正有序有力推进昆明安宁350MW压缩空气储能示范项目建设，并已中选丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目，有利于公司进一步紧抓战略机遇，加快推进云南省新型储能规模化、高质量发展，提升 新能源 消纳水平和 电力 系统调节能力。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "云南能投：正有序有力推进昆明安宁350MW压缩空气储能示范项目建设"
+    },
+    {
+     "title": "特朗普：愿联手民主党 将信用卡利率上限设为10%",
+     "link": "http://finance.eastmoney.com/news/1344,202611223936890532.html",
+     "pubDate": "Sun, 22 Nov 2026 14:40:01 +0800",
+     "summary": "11月22日，据财联社报道，当地时间周六，美国总统特朗普表示，愿与即将掌控国会两院的民主党合作，推动将信用卡利率上限设为10%，以兑现其2024年竞选承诺。 他称，信用卡公司“已经赚了很多钱”。民主党参议员沃伦随后回应称：“让我们限制信用卡利率，为美国民众省钱。”沃伦预计将出任下一届参议院 银行 委员会主席。特朗普今年1月曾提出这一计划，但遭到 银行 业强烈反对，共和党控制的国会也未积极推动。 据中国基金报此前报道， 美国银行 业警告称：“我们认同总统的目标：帮助美国人获得更可负担的信贷。但与此同时，证据显示10%的利率上限将减少信贷供给，并会对数以百万计依赖并重视信用卡的美国家庭和小企业主造",
+     "source": "东方财富资讯",
+     "zh": "特朗普：愿联手民主党 将信用卡利率上限设为10%"
+    },
+    {
      "title": "猜想：AI泡沫破灭和金融市场危机",
      "link": "https://wallstreetcn.com/articles/3786452",
      "pubDate": "Sun, 22 Nov 2026 14:37:56 +0800",
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
+    },
+    {
+     "title": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936890170.html",
+     "pubDate": "Sun, 22 Nov 2026 14:16:42 +0800",
+     "summary": "本周以来，A股市场出现调整。美联储加息预期升温、美国AI资本开支放缓担忧、全球AI产业链调整及地缘局势扰动等因素叠加，带动全球风险资产普遍下跌，美股、日韩股市近期均出现较大跌幅。A股虽同步承压，但跌幅明显小于海外市场，展现出较强韧性。 十家券商普遍认为，短期波动更多是外部冲击下的情绪放大，并不意味着基本面恶化。从上市公司盈利改善、增量资金入市、政策持续发力以及AI产业趋势延续看，A股长期向好的基础并未改变，当前调整也为中长期资金提供了布局窗口。 短期调整未改长期趋势 华泰证券 研究所所长、固收首席张继强认为，A股近期波动主要受全球流动性收缩等外围因素冲击，跌幅明显低于其他市场。中国经济处在转型",
+     "source": "东方财富资讯",
+     "zh": "十大券商把脉A股：短期波动不改长期逻辑 调整孕育布局机会"
     },
     {
      "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
@@ -2290,6 +2362,14 @@ window.INDUSTRY_DATA = {
      "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
     },
     {
+     "title": "PCB供应预警！常规材料或短缺至2027年上半年",
+     "link": "http://stock.eastmoney.com/news/11134,202611223936888819.html",
+     "pubDate": "Sun, 22 Nov 2026 14:04:45 +0800",
+     "summary": "“ 印刷 电路板日益短缺，正威胁下一波 人工智能 与 电子 行业的增长浪潮。” 近日，总部位于美国的全球 电子 协会（Global Electronics Association）发布 PCB 供应预警报告。报告显示，从上游的玻纤布、树脂到下游的成品电路板， PCB 供应链各环节均出现供不应求。尽管亚洲 PCB 产能仍在扩大，玻纤布、树脂、 铜 箔和生产设备的供应瓶颈，仍制约着成品板交付。 该协会预计，常规材料供应紧张至少将持续至2027年上半年，2028年年中之前难有明显缓解。随着AI需求占用有限产能， 汽车 、工业、医疗等领域的项目面临更大的供货压力。眼下，能否拿到货已成为制约生产的首要风",
+     "source": "东方财富资讯",
+     "zh": "PCB供应预警！常规材料或短缺至2027年上半年"
+    },
+    {
      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
      "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
      "pubDate": "Sun, 22 Nov 2026 06:00:01 GMT",
@@ -2298,52 +2378,20 @@ window.INDUSTRY_DATA = {
      "zh": "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
     },
     {
-     "title": "人形机器人“贴身肉搏”，搏出了什么？",
+     "title": "巨型IPO之后美股大跌 历史现象又一次复现？",
+     "link": "http://stock.eastmoney.com/news/11228,202611223936887785.html",
+     "pubDate": "Sun, 22 Nov 2026 13:51:18 +0800",
+     "summary": "11月19日， Anthropic 以83美元的发行价登陆 纳斯达克 ，首日收涨17.07%，募资935亿美元（含超额配售），连同私募合计融资约1195亿美元，成为史上最大IPO。然而钟声的余音未落，美股掉头向下：19日美股三大指数跌幅均超过2%；次日抛售加剧，纳指单日重挫5.28%报22617.73点，抹去2026年以来全部涨幅。“恐慌指数”VIX大幅飙升，一度突破35。 科技股尤其AI硬件产业链是重灾区。费城 半导体 指数20日单日大跌10.73%，30只成分股全线收跌： 英伟达 跌14.01%，连续第七日下跌，当周累计跌22.92%，创2008年10月以来最大单周跌幅；AMD、美光、 博",
+     "source": "东方财富资讯",
+     "zh": "巨型IPO之后美股大跌 历史现象又一次复现？"
+    },
+    {
+     "title": "人形机器人“贴身肉搏” 搏出了什么？",
      "link": "http://finance.eastmoney.com/news/1354,202611223936885944.html",
      "pubDate": "Sun, 22 Nov 2026 13:17:26 +0800",
      "summary": "出拳、逼近、抬腿。一记回旋踢过后，人形 机器人 的身体晃了晃，双脚重新调整位置，继续迎向对手。在争分夺秒的格斗擂台上， 机器人 不仅要打中对方，还要在受到撞击、身体失衡后设法站稳。 这是11月21日晚上URKL城市巡回挑战赛南京站现场的一幕。财联社记者看到，此前上海站获胜机甲“白色雄鹰”踢馆而来，南京机甲“紫 金麒麟 ”主场迎战。面对两台 机器人 的连续攻防转换，不少观众在现场感慨“打得真帅！”。 “白色雄鹰”与“紫 金麒麟 ”正在进行格斗比赛，图片来源：受访者供图 历经多回合缠斗，“紫 金麒麟 ”在逆境之下重新站起，抓住战机反击，逐步扳回局势，最终在八角笼内振臂宣告胜利。 钢铁 “拳手”再次",
-     "source": "东方财富股票",
-     "zh": "人形机器人“贴身肉搏”，搏出了什么？"
-    },
-    {
-     "title": "通道之外，河南大宗商品的“配置高地”怎么筑？",
-     "link": "http://finance.eastmoney.com/news/1355,202611223936886254.html",
-     "pubDate": "Sun, 22 Nov 2026 13:17:23 +0800",
-     "summary": "河南大宗商品的\"配置高地\"怎么筑？ 河南省发展和改革委员会、河南省 交通运输 厅日前印发《加快推进 物流 网建设实施方案》，将“打造大宗商品 物流 场景”列为重点任务，提出“加快提升大宗商品资源配置枢纽能级”。 河南的基础条件可谓优越：郑商所2025年成交量占全国 期货 市场的34.59%，“郑州价格”具有显著的价格发现和引导作用；三条国家级商品骨干流通走廊在此交会，晋冀鲁豫的能源、新疆的棉花、西北的矿产均需经由河南通道中转。河南目前有77家 期货 交割库，交割库数量多，不等于产业客户聚得住； 物流 优势也不等于资源配置能力强。过境货物规模再大，若不能在河南完成定价、成交、结算、融资、避险的完",
-     "source": "东方财富股票",
-     "zh": "通道之外，河南大宗商品的“配置高地”怎么筑？"
-    },
-    {
-     "title": "英特尔、SpaceX还是另起炉灶？围绕黄仁勋“下一站” 市场上猜测四起",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936885472.html",
-     "pubDate": "Sun, 22 Nov 2026 13:15:34 +0800",
-     "summary": "英伟达 前CEO黄仁勋接下来的去向，目前已成为华尔街和硅谷的热议话题之一。这位AI行业大佬的未来去向不仅关乎他个人，更关乎全球AI算力格局的走向。 美国文坛巨匠弗朗西斯·斯科特·菲茨杰拉德曾说过这样一句名言，“美国人的生命中没有第二幕。” 然而，在硅谷，不乏科技大佬 “遇挫后东山再起” 的案例。1985年5月，史蒂夫·乔布斯因权力斗争从其参与创立的 苹果 公司辞职，大约四个月后创办了 计算机 公司NeXT。11年后， 苹果 收购了NeXT，乔布斯也随之回归，并逐步执掌 苹果 。 马斯克在2000年被免去PayPal首席执行官一职，约18个月后创立了 SpaceX ，如今已成为全球 商业航天 龙",
-     "source": "东方财富股票",
-     "zh": "英特尔、SpaceX还是另起炉灶？围绕黄仁勋“下一站” 市场上猜测四起"
-    },
-    {
-     "title": "战事影响能源供应 伊朗实施限电措施",
-     "link": "http://finance.eastmoney.com/news/1356,202611223936886191.html",
-     "pubDate": "Sun, 22 Nov 2026 13:15:33 +0800",
-     "summary": "据伊朗官方媒体报道，由于中东地区战事导致伊朗关键基础设施受损、加剧该国能源危机，伊朗定于22日起实施轮流断电措施。伊朗国家 电力 公司负责人穆罕默德·拉达德21日告诉伊朗国家电视台，鉴于伊朗当下能源供应状况， 电力 部门不得不从22日起实施配电限制措施，方案为每两天停电约两小时，或每日最长停电两小时，具体停电时长因地而异。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "战事影响能源供应 伊朗实施限电措施"
-    },
-    {
-     "title": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入",
-     "link": "http://finance.eastmoney.com/news/1360,202611223936884649.html",
-     "pubDate": "Sun, 22 Nov 2026 13:01:00 +0800",
-     "summary": "11月22日，知名深度学习领域开源项目Keras创始人弗朗索瓦·肖莱（Franois Chollet）在社交平台上表示，要么你认为AI基础设施建设已经结束，AI只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU现货价格仍在上涨，算力难以锁定，HBM和DRAM到2029年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到2030年代。前沿模型的训练算力约每5个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI推理业务的利润率可达70%至85%，需求仍在快速增长，每一代新模型都会带来新的应用场景。 马斯克回复称，让如此大规模的算力设备",
-     "source": "东方财富股票",
-     "zh": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入"
-    },
-    {
-     "title": "下周大事件（11月23日至11月29日）",
-     "link": "http://stock.eastmoney.com/news/11753,202611223936884147.html",
-     "pubDate": "Sun, 22 Nov 2026 13:00:50 +0800",
-     "summary": "新股申购/上市 下周（11月23日至11月29日）沪深北三市有3只新股申购， 分别为 傲拓科技 、 天广实 、 猎奇智能 。 明天（11月23日）有1只新股上市， 为 华晟智能 。 限售解禁 下周（11月23日至11月29日）有47家公司限售股陆续解禁，当期解禁总市值为133.87亿元 ，-32.56% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。",
-     "source": "东方财富股票",
-     "zh": "下周大事件（11月23日至11月29日）"
+     "source": "东方财富资讯",
+     "zh": "人形机器人“贴身肉搏” 搏出了什么？"
     },
     {
      "title": "A rocky road to Irish unity",
@@ -2472,46 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
      "source": "经济观察网",
      "zh": "美股两次暴跌，资本在重估什么"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-    },
-    {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "Here are the major earnings before the open Monday",
-     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周一开盘前的主要财报"
-    },
-    {
-     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
-     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
     }
    ]
   },

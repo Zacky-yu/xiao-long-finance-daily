@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 16:11:50",
+ "generated_at": "2026/11/22 16:31:48",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,6 +1786,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "韩国独立站靠红人种草起量，备货和退货该怎么算？",
+     "link": "https://www.baijing.cn/question/638901",
+     "pubDate": "Sun, 22 Nov 2026 08:27:28 +0000",
+     "summary": "我们做韩国独立站女装，团队6人，刚起量阶段，主要靠Instagram和YouTube红人种草，上月红人内容带来约3200单，但退货率冲到38%，比自然流量高出近一倍。现在卡在备货节奏上：红人视频爆了之后追单要25天，结果到货时热度已经过去，压了约800件库存；备少了又断码被红人粉丝骂。试过小批量空运补货和预售模式，空运把毛利压到12%，预售转化率掉了一半。想请教从选品和供应链角度，红人种草单量波动这么大的情况下，备货深度和退货损耗该怎么定取舍标准？",
+     "source": "白鲸出海",
+     "zh": "韩国独立站靠红人种草起量，备货和退货该怎么算？"
+    },
+    {
+     "title": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？",
+     "link": "https://www.baijing.cn/question/638900",
+     "pubDate": "Sun, 22 Nov 2026 08:22:16 +0000",
+     "summary": "团队 6 人，做面向欧洲中小企业的 HR SaaS，刚进入起量阶段，德国和法国各签了 10 来家客户。德国客户签约时要求签 DPA、提供数据处理记录，还要我们说明子处理者的数据传输路径。现在只有 1 个兼职法务，产品侧排期已经排到两个月后，GDPR 相关的文档和客户安全问卷全靠临时插队处理，上个月一份 DPA 来回改了 3 轮拖了 18 天，差点丢掉一个年费 1.2 万欧元的单子。已经买了一个模板库，也试过让客服按 FAQ 回复，但客户一问到具体处理活动和保留期限就卡住。这种持续性的合规文档维护，到底该配专职人手还是外包给律所，怎么判断？",
+     "source": "白鲸出海",
+     "zh": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？"
+    },
+    {
+     "title": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？",
+     "link": "https://www.baijing.cn/question/638899",
+     "pubDate": "Sun, 22 Nov 2026 08:15:07 +0000",
+     "summary": "做户外储能配件独立站，主攻南非，团队6人，月广告预算约8万人民币，用Shopify+PayFast收款。从深圳备货走德班港海运，头程平均38-42天，约堡本地派送用The Courier Guy，偏远地区妥投要7-9天。现在退货率18%，一半是等太久主动取消，另一半是到货后尺码/型号不符。试过把爆款提前备到约堡第三方仓，但压了30多万库存，动销慢的SKU又占仓租。卡在备货深度和时效的平衡上：是继续加海外仓SKU，还是砍长尾只做空运补货？这个取舍按什么标准定？",
+     "source": "白鲸出海",
+     "zh": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？"
+    },
+    {
+     "title": "中小银行出险与市场竞争的关系",
+     "link": "https://www.huxiu.com/article/4907495.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 16:09:25 +0800",
+     "summary": "本文来自微信公众号： 王剑的角度 ，作者：王剑的角度，原文标题：《【随笔】中小银行出险与市场竞争的关系》 一、中小银行风险杂史 中小银行风险近几年受到各方关注。从历史上看，这并不是我国第一次中小银行（含类似的存款类金融机构，为行文简洁，下文统称“中小银行”）风险周期。 我国自民国开始就设立较多的中小银行，其背后的依据后来被称为“小银行优势理论”，即：中小银行能够填补大行的服务空白，满足一些普惠客户群体的金融服务需求。但中小银行数量众多，经营水平参差不齐，里面鱼龙混杂，最后里面总会出一大批经营失败者。根据市场化原则，这些风险银行应该正常处置。 多读史书，就会发现天底下确实没什么新鲜事。中小银行成",
+     "source": "虎嗅",
+     "zh": "中小银行出险与市场竞争的关系"
+    },
+    {
+     "title": "宁德时代拉美落子，储能为何难再一家独大？",
+     "link": "https://www.huxiu.com/article/4907494.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 16:09:10 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰 近日，宁德时代在阿根廷又有新动作。这次目标并非电池制造厂，而是设立商务和技术办事处，并为当地两个储能项目供货。 据PV Magazine LatAm报道，宁德时代已为Central Puerto的Nuevo Puerto和Central Costanera项目提供磷酸铁锂电池系统，规模分别为150MW／750MWh和55MW／275MWh，合计1.025GWh。Nuevo Puerto建设进度约为80%；两个项目尚未全部投运，其中一个计划在2026年底前投运，另一个预计于2027年1月投运。 项目规模不大，但它提供了一扇观察宁德时代业务转向的窗口",
+     "source": "虎嗅",
+     "zh": "宁德时代拉美落子，储能为何难再一家独大？"
+    },
+    {
+     "title": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等",
+     "link": "https://www.ithome.com/1/030/610.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:02:25 GMT",
+     "summary": "IT之家 11 月 22 日消息，深圳地铁 App 现已在华为应用市场开启了测试尝鲜，体积为 34.1MB，版本为 1.0.9，支持刷乘车码进出站、查看地铁线路图、开发票、查看地铁资讯等功能。 IT之家附官方介绍如下： 深圳地铁集团有限公司官方手机 App - 从心出发、为爱到达丰富站点信息：涵盖站点出口建筑、站内服务设施（洗手间 ATM 机手机充值无障碍设施）、站外公交。",
+     "source": "IT之家",
+     "zh": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等"
+    },
+    {
+     "title": "OLED大扩产，先过整机预算这一关",
+     "link": "https://www.huxiu.com/article/4907493.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 16:02:23 +0800",
+     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 OLED要在电脑和平板上做成更大的生意，面板厂就得回答一个比画质更难的问题：屏幕升级之后，整机厂的账还算不算得过来？这将决定新一轮OLED竞争的走向。性能上的突破能让一种屏幕获得关注，能以什么价格、什么规模持续供货，才决定它能进入多少款产品。 面板行业正在为这一轮竞争建设更大的工厂，终端品牌却没有一张可以无限追加的采购预算。屏幕既要与不同显示方案比较，也要与处理器、存储、电池等部件共同占用整机成本。新技术想从少数高端机型走向更广的市场，最终要改变的，是整机厂愿意在哪些价位采用OLED的判断。已经出现终端采用的印刷OLED，正可以放在这笔账里观察",
+     "source": "虎嗅",
+     "zh": "OLED大扩产，先过整机预算这一关"
+    },
+    {
+     "title": "思特威拟向武汉楚兴增资 15 亿元，用以补齐高端 CMOS 传感器代工产能短板",
+     "link": "https://www.ithome.com/1/030/609.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:02:02 GMT",
+     "summary": "IT之家 11 月 22 日消息，思特威今日发布公告， 宣布拟向武汉楚兴增资 15.00 亿元 。本次交易后，思特威持有武汉楚兴 5.5880% 股权。 思特威表示，本次交易已在公司第二届董事会第十六次会议审议通过。 该交易旨在补齐高端 CMOS 图像传感器领域代工产能短板 ， 提升关键器件国产化替代能力与供应链安全保障水平 ，提前锁定上游产能供应而实施的战略布局。 IT之家注：武汉楚兴成立于 2022 年，是一家专注于集成电路领域图像传感器生产制造及技术服务的高新技术企业，主营业务为 CMOS 图像传感器芯片的晶圆代工服务。",
+     "source": "IT之家",
+     "zh": "思特威拟向武汉楚兴增资 15 亿元，用以补齐高端 CMOS 传感器代工产能短板"
+    },
+    {
+     "title": "DOOGEE 预热 Note 70 新机：后背酷似三星 Galaxy S26 Ultra，配 1.8 寸背屏",
+     "link": "https://www.ithome.com/1/030/608.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:56:02 GMT",
+     "summary": "IT之家 11 月 22 日消息，DOOGEE 最近在领英平台公布了“Note 70”新机。 该手机的后背酷似三星 Galaxy S26 Ultra ，带有一块 1.8 英寸背屏。 外观方面，这款手机后置摄像头模组采用竖向排列，左边是三个较大的摄像头圆环，右边还有两个小的圆形组件。背面还带有一块 1.8 英寸屏幕，具体支持功能暂未公布。 规格方面，这款手机搭载紫光展锐 T7250 处理器，最高提供 6GB 内存和 256GB 存储空间。拥有 6500mAh 电池，其他已公布的配置包括 1300 万像素后置摄像头、800 万像素前置摄像头，以及 Android 17 操作系统。 此外，该机可选的",
+     "source": "IT之家",
+     "zh": "DOOGEE 预热 Note 70 新机：后背酷似三星 Galaxy S26 Ultra，配 1.8 寸背屏"
+    },
+    {
+     "title": "《辐射》官宣猫咪主题衍生游戏，玩家将化身避难所猫咪拯救同伴",
+     "link": "https://www.ithome.com/1/030/607.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:55:40 GMT",
+     "summary": "IT之家 11 月 22 日消息，一款名为《满是猫咪的废土》（A Wasteland Full of Cats）的全新《辐射》（Fallout）游戏正在开发中。此前项目意外提前泄露，贝塞斯达随后正式确认了这一消息。这款衍生作品在玩法和主题上都与《辐射》系列正传游戏有很大不同，核心内容将围绕猫咪展开。 这款游戏最早于 10 月 22 日曝光。当时，澳大利亚分级委员会的网站提前发布了一份相关分级信息。除了公布游戏名称外，该页面还将其描述为一款寻物冒险游戏，玩家需要在《辐射》的废土世界中寻找并营救走失的猫咪。 11 月 19 日，《辐射》官方 X 账号正式宣布了《满是猫咪的废土》，确认该项目由巴西开",
+     "source": "IT之家",
+     "zh": "《辐射》官宣猫咪主题衍生游戏，玩家将化身避难所猫咪拯救同伴"
+    },
+    {
+     "title": "Netflix 日区订阅涨价，高级版套餐月费突破 2500 日元",
+     "link": "https://www.ithome.com/1/030/605.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:54:45 GMT",
+     "summary": "IT之家 11 月 22 日消息，Netflix 日本区时隔约两年再次调整订阅价格，这次三个套餐均迎来涨价，IT之家随附月费信息如下： 广告版标准：890 日元 （现汇率约合 37.5 元人民币） → 990 日元 （现汇率约合 41.7 元人民币） 标准版：1,590 日元 （现汇率约合 66.9 元人民币） → 1,790 日元 （现汇率约合 75.3 元人民币） 高级版：2,290 日元 （现汇率约合 96.4 元人民币） → 2,590 日元 （现汇率约合 109 元人民币） IT之家注意到，今年以来 Netflix 的股价已下跌超 30%，投资者对公司增长放缓的担忧有所加剧，YouT",
+     "source": "IT之家",
+     "zh": "Netflix 日区订阅涨价，高级版套餐月费突破 2500 日元"
+    },
+    {
      "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
      "link": "https://www.baijing.cn/question/638898",
      "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
@@ -1802,52 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "张雪机车计划明年推出针对外卖骑手的电动摩托车，价格尽量控制在 1 万元左右"
     },
     {
-     "title": "内存价格暴涨下，华硕考虑将中低端 PC 内存由 16GB 降至 8GB",
-     "link": "https://www.ithome.com/1/030/603.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:48:33 GMT",
-     "summary": "IT之家 11 月 22 日消息，据中国台湾地区媒体《民报》近日报道，今年 PC 价格持续上涨， 进入第四季度 ， 涨价幅度已经逐渐来到消费者可接受的极限 。部分民众宁可延后换机，等到非换不可才掏腰包。 IT之家从原报道获悉，华硕联席 CEO 许先越近日在法人说明会表示，公司也可能无法 100% 将内存涨价的幅度，完全反映在产品终端售价上。 对于价格敏感的中低端 PC 市场，华硕开始在产品参数找出路。许先越指出，如果内存价格全部反映到售价，消费者的换机欲望可能进一步下降。 因此公司考虑调整部分中低端机型的内存配置 ， 将原本的 16GB 调整为 8GB ，以控制成本并维持价格竞争力。 至于 8",
-     "source": "IT之家",
-     "zh": "内存价格暴涨下，华硕考虑将中低端 PC 内存由 16GB 降至 8GB"
-    },
-    {
-     "title": "消息称三星正为 One UI 9.5 引入新版实时通知：风格类苹果 iOS 灵动岛、有望随 Galaxy S27 系列手机推出",
-     "link": "https://www.ithome.com/1/030/602.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:48:08 GMT",
-     "summary": "IT之家 11 月 22 日消息，外媒 SamMobile 在拆解三星 One UI 9.5 测试版时，发现三星正在为 Galaxy S27 系列手机测试全新 Now Bar 实时通知功能。 具体来看，新版 Now Bar 将以胶囊形界面显示在屏幕顶部中央前置摄像头开孔周围，用户点击后，计时器、手电筒状态和媒体控制等功能即可展开显示，还支持通过左右滑动手势切换不同后台活动，整体类似苹果 iPhone 的灵动岛（Dynamic Island）设计。 与部分仅支持计时器和音乐播放器的 Android 仿制功能不同，三星新版设计仍然基于现有的 Live Notifications（实时通知）框架运行",
-     "source": "IT之家",
-     "zh": "消息称三星正为 One UI 9.5 引入新版实时通知：风格类苹果 iOS 灵动岛、有望随 Galaxy S27 系列手机推出"
-    },
-    {
-     "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7",
-     "link": "https://www.ithome.com/1/030/601.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:46:45 GMT",
-     "summary": "IT之家 11 月 22 日消息，《塞尔达传说：时之笛》（The Legend of Zelda: Ocarina of Time）重制版在《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）发售后，意外成为玩家评分大战的受害者。 尽管这款重制作品获得了媒体评论家的高度评价，在 Metacritic 上拿下 95 分的媒体评分，但短短几个小时内，其玩家评分便大幅下滑。此次恶意刷差评事件被认为与部分不满的《GTA 6》粉丝有关，他们通过发布虚假负面评价，刻意拉低《时之笛》重制版的用户评分。 2026 年 11 月对于游戏玩家来说可谓相当热闹。《时之笛》重制版和《GT",
-     "source": "IT之家",
-     "zh": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7"
-    },
-    {
-     "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
-     "link": "https://www.ithome.com/1/030/600.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:40:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro ， 华为官网确认其支持星闪 E2.0 技术 。 此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况： OSTA O1 Pro 星闪功能支持一览 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 星闪手写笔 / 键盘 / 鼠标 连接支持星闪功能的手表 星闪电竞专链 星闪 K 歌耳返功能 查找端 被查找端 关机查找 关机响铃 手写笔 键盘 &amp; 鼠标 OSTA O1 Pro 星闪 E2.0 支持 支持 支持 支持 支持 不支持 支持 ",
-     "source": "IT之家",
-     "zh": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能"
-    },
-    {
      "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
      "link": "https://www.baijing.cn/question/638897",
      "pubDate": "Sun, 22 Nov 2026 07:39:57 +0000",
      "summary": "我们做非洲独立站，尼日利亚市场月 GMV 大概 8 万美元，团队 6 个人，去年 Q4 起接入 Paystack 收奈拉，原本 T+7 结算，最近两个月实际到账周期拉到 18-21 天，客服说跟银行清算和风控复核有关。同时拉各斯本地配送用第三方物流，妥投平均 5.5 天，COD 拒收率 22%，现金流被两头挤。试过把部分订单切到 Flutterwave 对比，费率略高但时效没稳定下来；也试过预付折扣引导，转化只涨了 3 个点。现在卡在到底是先换支付通道压回款，还是先改履约结构降拒收，这两件事预算只够动一个。按尼日利亚当前实际情况，判断优先级该看哪个指标？",
      "source": "白鲸出海",
      "zh": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？"
-    },
-    {
-     "title": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧",
-     "link": "https://www.ithome.com/1/030/598.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:37:07 GMT",
-     "summary": "IT之家 11 月 22 日消息，据外媒 Notebook Check 报道，一名 YouTube 博主 Budget-Builds Official 成功在 ATI Radeon HD 2350 显卡上跑动《GTA 5》，该显卡仅配备 64MB DDR2 显存。 公开信息显示，ATI Radeon HD 2350 显卡发布于 2007 年，这款显卡拥有 40 个流处理器、4 个纹理映射单元（TMU）、4 个光栅操作单元（ROP），配备 64MB DDR2 显存，最高核心频率约为 525MHz。 为了让 GTA 5 成功启动，Budget-Builds Official 不得不将游戏画质设置降",
-     "source": "IT之家",
-     "zh": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧"
     },
     {
      "title": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？",
@@ -1877,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "The Engineering Manager's role is under attack (again)",
      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
      "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
-     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 18 # Comments: 9",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 25 # Comments: 22",
      "source": "Hacker News",
      "zh": "The Engineering Manager's role is under attack (again)"
     },
@@ -1890,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)"
     },
     {
-     "title": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？",
-     "link": "https://www.baijing.cn/question/638895",
-     "pubDate": "Sun, 22 Nov 2026 07:00:25 +0000",
-     "summary": "我们一款中度SLG去年底在巴西上线，目前DAU约1.8万，Pix占付费笔数六成以上。团队一共4个人：1个运营、1个投放、1个后端兼支付、1个客服，墨西哥和智利版本下季度要开。现在的问题是Pix即时到账的订单和游戏内发货回调经常对不上，每天约2%的订单要人工核，财务对账靠导CSV手工比，一个人一天要花3小时。已试过接第三方聚合支付和加webhook重试，但巴西本地银行的回执延迟波动大，卡在没人手做异常订单的自动归集规则。想请教：在4人编制、每月还要分人力铺西语区新版本的前提下，Pix对账这块应该先自建规则引擎，还是换聚合商并接受更高费率？",
-     "source": "白鲸出海",
-     "zh": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？"
-    },
-    {
      "title": "美妆内卷是句号，不是问号",
      "link": "https://www.huxiu.com/article/4907488.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 14:54:01 +0800",
@@ -1906,28 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "美妆内卷是句号，不是问号"
     },
     {
-     "title": "从包办婚姻到包办书包，“宠物式育儿”只会制造废品",
-     "link": "https://www.huxiu.com/article/4907489.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 14:52:35 +0800",
-     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 前段时间儿子班上有点小事，需要找宿管人员沟通。有些家长就担心孩子解决不了，联系老师，老师说不用担心，一定要相信孩子们的处理能力，他们在很多事情上比大人都强，完全可以尝试自己解决问题，他会在真正需要帮忙时才介入，在此之前请相信孩子们的能力。 我很喜欢这个回应，老师最重要的就是三观，让孩子自己解决问题，也是教育的一部分。 多年前我跟一个朋友也聊起过类似问题，他家孩子当时已经在读小学高年级，他说“就让孩子自己承担后果，他才会知道应该如何做，现在这些小事不让他承担，以后他什么也承担不了。更何况这些小事没有任何风险，孩子可聪明了，自己就会想办法",
-     "source": "虎嗅",
-     "zh": "从包办婚姻到包办书包，“宠物式育儿”只会制造废品"
-    },
-    {
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
-    },
-    {
-     "title": "被“飞雪”画地为牢，是逃离“异性恋大床房”的开始",
-     "link": "https://www.huxiu.com/article/4907487.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 14:48:24 +0800",
-     "summary": "本文来自微信公众号： 青年志Youthology ，作者：苔、小吓、Sharon 《后会友期》如今来到了第六期。自节目意外大红后，你“画地为牢”多长时间了？以及，在此之前，你有多长时间没有为一段关系和感情着迷了？ 从飞雪的前史、关系中的暗涌与那些令人心碎的细节，到友情如何超越私人情感、成为公共讨论的热点，我们试图借《后会友期》讨论那些尚未被既有关系范式充分命名的亲密与爱，重新想象人与人之间可以如何相爱，又如何共同生活。 让我们再次一同感受关系所带来的古典的美好和所能窥见的关于人性的真善美！（以及在“酷儿性”被泛用的当下，我们应如何在审慎地对待性缘霸权、浪漫爱规范的同时，感受酷儿欲望所带给我们的",
-     "source": "虎嗅",
-     "zh": "被“飞雪”画地为牢，是逃离“异性恋大床房”的开始"
     },
     {
      "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
@@ -1936,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mike Pearl / Gizmodo : Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines &nbsp; &mdash;&nbsp; FSD v15 was released to some vehicles on Saturday.&nbsp; Its visualization system may be the mo",
      "source": "Techmeme",
      "zh": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)"
-    },
-    {
-     "title": "曾在餐馆打工的她，创业不到3年，把公司卖了82亿美元",
-     "link": "https://www.huxiu.com/article/4907486.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 14:39:38 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：施思羽 从图像、空间到仿真环境，她不断拓展机器“看见世界”的方式。 在World Labs位于旧金山的总部，两位华裔女性共同切下庆祝蛋糕。 当地时间11月16日，半导体巨头AMD宣布，完成对世界模型World Labs的收购，交易金额82亿美元，全部采用股票支付。 来源：AMD官方截图 World Labs成立于2024年，由斯坦福大学教授李飞飞和她昔日的博士生Justin Johnson，以及NeRF论文第一作者Ben Mildenhall等联合创办，目前约有70名员工。交易完成后，李飞飞出任AMD执行副总裁兼首席科学家，直接向AM",
-     "source": "虎嗅",
-     "zh": "曾在餐馆打工的她，创业不到3年，把公司卖了82亿美元"
-    },
-    {
-     "title": "肯尼亚 M-Pesa 收款对接后，退货退款和备货节奏怎么排？",
-     "link": "https://www.baijing.cn/question/638894",
-     "pubDate": "Sun, 22 Nov 2026 06:34:04 +0000",
-     "summary": "做内罗毕本地仓的3C配件，团队8人，月订单约4000单，其中M-Pesa收款占七成。对接了M-Pesa的STK Push和C2B回调后，支付成功率从62%拉到88%，但退款只能走人工B2C，单笔平均要18分钟，退货率6%压在仓里。现在备货按四周一次海运，可M-Pesa到账T+1、退款又慢，资金周转被拖住。已经试过用Paybill短码分流和第三方聚合，卡在退款自动化和退货再入库的账实同步上。想请教：这种收款结构下，备货周期和退货处理该按什么标准定？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚 M-Pesa 收款对接后，退货退款和备货节奏怎么排？"
     },
     {
      "title": "大众花巨资买软件，想拿回什么？",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "这道税，泰国准备了半年。",
      "source": "钛媒体",
      "zh": "泰国加税，最着急的可能是已经建厂的中国车企"
-    },
-    {
-     "title": "越南直播基地搭起来后，本地主播念稿式讲解转化只有0.8%，素材要怎么改？",
-     "link": "https://www.baijing.cn/question/638893",
-     "pubDate": "Sun, 22 Nov 2026 06:08:45 +0000",
-     "summary": "胡志明市平新的直播基地上个月刚跑通，4个直播间、8个越南本地主播，主推美妆个护，客单价35万越南盾左右。现在卡在内容上：主播照着中文脚本翻译过来的话术念，直播间停留时长只有48秒，转化率0.8%，同品类越南本土团队的号能到2%以上。我们试过换背景板、加优惠倒计时、把脚本改成越南语口语版，都没什么起色。看本地爆款直播间，主播更爱现场试色、跟评论区唠家常，节奏也比我们慢很多。想请教的是，这种素材接受度差异到底是脚本语言的问题，还是整个内容结构要按越南用户的观看习惯重做？判断标准该怎么定？",
-     "source": "白鲸出海",
-     "zh": "越南直播基地搭起来后，本地主播念稿式讲解转化只有0.8%，素材要怎么改？"
     },
     {
      "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge&apos;s proof of the Riemann Hypothesis is correct\" (Lean community blog)",
@@ -2282,6 +2282,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美利信：将于2026年11月23日召开2026年第二次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901850.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
+     "summary": "美利信 将于2026年11月23日（星期一）下午14:00，在重庆市巴南区 天安 路1号附1号、附2号重庆 美利信 科技股份有限公司办公楼二楼会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司董事会换届暨选举第三届董事会非独立董事的议案 2、关于公司董事会换届暨选举第三届董事会独立董事的议案 3、关于延长公司2025年度向特定对象发行A股股票决议有效期及授权有效期的议案 4、关于为全资子公司向金融机构申请项目贷款提供担保的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《美利信:关于召开2026年第二次临时",
+     "source": "东方财富股票",
+     "zh": "美利信：将于2026年11月23日召开2026年第二次临时股东大会"
+    },
+    {
+     "title": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901711.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
+     "summary": "杰普特 将于2026年11月23日（星期一）上午10:00，在深圳市龙华区观湖街道鹭湖社区观盛五路科姆龙科技园A栋12楼会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于以集中竞价交易方式回购公司股份方案的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《杰普特:关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市",
+     "source": "东方财富股票",
+     "zh": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会"
+    },
+    {
+     "title": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901651.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
+     "summary": "摩登大道 将于2026年11月23日（星期一）下午14:00，在广州市黄埔区科学城光谱中路23号A1栋14层会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、《关于转让全资子公司股权及债权的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《摩登大道:关于召开2026年第二次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准",
+     "source": "东方财富股票",
+     "zh": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会"
+    },
+    {
+     "title": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901532.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
+     "summary": "三一重能 将于2026年11月23日（星期一）下午15:00，在北京市昌平区北清路三一产业园1号楼1号会议室召开 2026年第三次 临时股东大会。本次股东大会将审议以下议案： 1、关于修订《公司章程》的议案 2、关于选举第三届董事会非独立董事的议案 3、关于选举第三届董事会独立董事的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《三一重能:三一重能关于召开2026年第三次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
+     "source": "东方财富股票",
+     "zh": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会"
+    },
+    {
+     "title": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901456.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
+     "summary": "ST椰岛 将于2026年11月23日（星期一）下午14:30，在海南省海口市秀英区药谷二横路2号椰岛集团办公楼7层会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于预计未来12个月授信及为子公司提供担保额度的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《ST椰岛:ST椰岛关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证",
+     "source": "东方财富股票",
+     "zh": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会"
+    },
+    {
+     "title": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202611223936901392.html",
+     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
+     "summary": "鼎通科技 将于2026年11月23日（星期一）下午15:30，在东莞市东城街道周屋社区银珠路七号 鼎通科技 一号会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司发行 H 股股票并在香港联合交易所有限公司主板上市的议案 2、关于公司发行 H 股股票并在香港联交所主板上市方案的议案 3、关于公司转为境外募集股份有限公司的议案 4、关于公司发行H股股票募集资金使用计划的议案 5、关于公司发行 H 股股票并于香港联交所主板上市决议有效期的议案 6、关于提请股东会授权董事会及其授权人士全权处理与本次 H 股股票发行并于香港联交所主板上市有关事项的议案 7、关于公司发",
+     "source": "东方财富股票",
+     "zh": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会"
+    },
+    {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
      "link": "https://wallstreetcn.com/articles/3786449",
      "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
@@ -2296,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "根据目前的发行安排，下周有3只新股可申购。具体日程上，11月23日（周一）可申购科创板新股 傲拓科技 ，11月25日（周三）可申购北交所新股 天广实 ，11月26日（周四）可申购创业板新股 猎奇智能 。 具体申购信息如下： 傲拓科技 ：中大型PLC国产替代“小巨人” 傲拓科技 的申购代码是787845，发行价为18.18元/股，发行市盈率为24.03倍，参考行业市盈率为52.24倍，发行市盈率不足行业均值的一半。公司此次发行股份总数为3775.83万股，网上发行股份数量为906.20万股。投资者参与网上申购，申购股份数量上限为0.90万股，顶格申购需配沪市市值9万元。按发行价计算，预计募集资金",
      "source": "东方财富资讯",
      "zh": "下周三只新股申购：光模块领域“小巨人”领衔"
+    },
+    {
+     "title": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936895240.html",
+     "pubDate": "Sun, 22 Nov 2026 15:35:40 +0800",
+     "summary": "11月22日， 天阳科技 、 ST洲际 同日公告，涉嫌信息披露违法违规，被证监会立案。同日， 金科股份 控股股东京渝星筑、京渝星璨以及合伙人北京天娇绿苑 房地产开发 有限公司，同样因涉嫌信息披露违法违规，被证监会立案。 天阳科技 公告称，收到证监会出具的《立案告知书》。因涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合调查并履行信息披露义务。 ST洲际 公告称，收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。公司表示将积极配合调查，目前生产经营活动正常，该事项不会对生产经营产生重大影响。 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉",
+     "source": "东方财富资讯",
+     "zh": "天阳科技、ST洲际、金科股份控股股东及合伙人被证监会立案"
     },
     {
      "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
@@ -2344,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。 这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。 喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生",
      "source": "华尔街见闻",
      "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
-    },
-    {
-     "title": "PCB供应预警！常规材料或短缺至2027年上半年",
-     "link": "http://stock.eastmoney.com/news/11134,202611223936888819.html",
-     "pubDate": "Sun, 22 Nov 2026 14:04:45 +0800",
-     "summary": "“ 印刷 电路板日益短缺，正威胁下一波 人工智能 与 电子 行业的增长浪潮。” 近日，总部位于美国的全球 电子 协会（Global Electronics Association）发布 PCB 供应预警报告。报告显示，从上游的玻纤布、树脂到下游的成品电路板， PCB 供应链各环节均出现供不应求。尽管亚洲 PCB 产能仍在扩大，玻纤布、树脂、 铜 箔和生产设备的供应瓶颈，仍制约着成品板交付。 该协会预计，常规材料供应紧张至少将持续至2027年上半年，2028年年中之前难有明显缓解。随着AI需求占用有限产能， 汽车 、工业、医疗等领域的项目面临更大的供货压力。眼下，能否拿到货已成为制约生产的首要风",
-     "source": "东方财富资讯",
-     "zh": "PCB供应预警！常规材料或短缺至2027年上半年"
     },
     {
      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
@@ -2472,54 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
      "source": "经济观察网",
      "zh": "为鸟而生，斯温侯在中国（下）"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-    },
-    {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "Here are the major earnings before the open Monday",
-     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周一开盘前的主要财报"
-    },
-    {
-     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
-     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
     }
    ]
   },

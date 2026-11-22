@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 22:51:52",
+ "generated_at": "2026/11/22 23:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/kakao-mobility-partners-with-nvidia-to-develop-level-4-autonomous-driving-technology/107442/",
+     "pubDate": "Sun, 22 Nov 2026 14:51:59 +0000",
+     "summary": "South Korean mobility platform provider Kakao Mobility has signed a memorandum of understanding with Nvidia to develop Level 4 autonomous driving technology, with initial applications planned for Kia’s purpose-built vehicles (PBVs). The collaboration will combine Kakao Mobility’s proprietary autonom",
+     "source": "Robotics & Automation",
+     "zh": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology"
+    },
+    {
      "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
      "link": "https://roboticsandautomationnews.com/2026/11/22/boston-dynamics-gives-atlas-wheels-to-test-new-reinforcement-learning-capabilities/107438/",
      "pubDate": "Sun, 22 Nov 2026 14:45:10 +0000",
@@ -559,14 +567,6 @@
      "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Medtronic’s Hugo surgical robot ready for bigger operation"
-    },
-    {
-     "title": "ABB names Wasome winner of China startup challenge for AI automation solution",
-     "link": "https://roboticsandautomationnews.com/2026/11/20/abb-names-wasome-winner-of-china-startup-challenge-for-ai-automation-solution/107417/",
-     "pubDate": "Fri, 20 Nov 2026 22:07:02 +0000",
-     "summary": "ABB, together with its open innovation platform SynerLeap, has announced Wasome as the winner of the ABB Startup Challenge China 2026, the solution will make automation engineering faster, simpler and more accessible. Hosted for the first time in China, the challenge is now in its seventh year. ABB ",
-     "source": "Robotics & Automation",
-     "zh": "ABB names Wasome winner of China startup challenge for AI automation solution"
     },
     {
      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+     "link": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+     "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
+     "summary": "The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers",
+     "source": "Space.com",
+     "zh": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy"
+    },
+    {
      "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
      "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
@@ -1367,14 +1375,6 @@
      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
      "source": "Space.com",
      "zh": "This Week In Space podcast: Episode 237 — A Fond Farewell"
-    },
-    {
-     "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
-     "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
-     "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
-     "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
-     "source": "Space.com",
-     "zh": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure"
     },
     {
      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
@@ -1777,6 +1777,54 @@
    "total": 18,
    "items": [
     {
+     "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&apos;s obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+     "link": "https://www.techmeme.com/261122/p7#a261122p7",
+     "pubDate": "Sun, 22 Nov 2026 10:00:34 -0500",
+     "summary": "Jonah Weiner / New York Times : Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with &ldquo;taste&rdquo; as a moat against AI slop and whether AI can learn it &nbsp; &mdash;&nbsp; To move through A.I.-era San Francisco as a relatively normal person is to con",
+     "source": "Techmeme",
+     "zh": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&apos;s obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)"
+    },
+    {
+     "title": "Can a TV be too large? An investigation",
+     "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+     "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
+     "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+     "source": "TechCrunch",
+     "zh": "Can a TV be too large? An investigation"
+    },
+    {
+     "title": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺",
+     "link": "https://www.tmtpost.com/8214170.html",
+     "pubDate": "Sun, 22 Nov 2026 22:47:29 +0800",
+     "summary": "独立第三方的个人养老金产品评价体系，正是破解这个难题、推动个人养老金市场良性发展的关键一环。",
+     "source": "钛媒体",
+     "zh": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺"
+    },
+    {
+     "title": "银行理财五星管理人评级报告 （2026年10月）",
+     "link": "https://www.tmtpost.com/8214167.html",
+     "pubDate": "Sun, 22 Nov 2026 22:47:16 +0800",
+     "summary": "现金管理类五星理财子为：渝农商理财有限责任公司。本文将详细介绍各类五星理财产品，包括现金管理、固定收益、权益及混合类，帮助您更好地选择适合的投资方案。",
+     "source": "钛媒体",
+     "zh": "银行理财五星管理人评级报告 （2026年10月）"
+    },
+    {
+     "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
+     "link": "https://www.ithome.com/1/030/716.htm",
+     "pubDate": "Sun, 22 Nov 2026 14:45:34 GMT",
+     "summary": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。 该 SBC 板载一颗 \" 8P+4E+4LE \" 的 16 核心 16 线程 CPU ，配备 18MB 的 LLC 缓存，基频 2.0GHz、睿频可达 4.8GHz；搭配最大频率 2.3GHz 的锐炫独显。 IT之家注： \"8P+4E+4LE\" 与此前所有爆料都不符，更可能是 4 个性能核 + 8 个能效核 + 4 个低功耗能效核。 其提供 2 个 C",
+     "source": "IT之家",
+     "zh": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器"
+    },
+    {
+     "title": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8214152.html",
+     "pubDate": "Sun, 22 Nov 2026 22:44:44 +0800",
+     "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。",
+     "source": "钛媒体",
+     "zh": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察"
+    },
+    {
      "title": "足球之后，F1再现耐克阿迪彪马三国杀",
      "link": "https://www.huxiu.com/article/4907545.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 22:24:27 +0800",
@@ -1788,7 +1836,7 @@
      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
      "link": "https://www.ithome.com/1/030/715.htm",
      "pubDate": "Sun, 22 Nov 2026 14:24:17 GMT",
-     "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需租金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY",
+     "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY",
      "source": "IT之家",
      "zh": "Oracle：已确保履行与 OpenAI 合同全部所需资金"
     },
@@ -1836,7 +1884,7 @@
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 18 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
     },
@@ -1881,14 +1929,6 @@
      "zh": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起"
     },
     {
-     "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
-     "link": "https://www.ithome.com/1/030/708.htm",
-     "pubDate": "Sun, 22 Nov 2026 12:56:39 GMT",
-     "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。 Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的",
-     "source": "IT之家",
-     "zh": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路"
-    },
-    {
      "title": "大模型数据的隐秘江湖",
      "link": "https://www.huxiu.com/article/4907530.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 20:56:00 +0800",
@@ -1903,14 +1943,6 @@
      "summary": "定义权比技术本身更稀缺",
      "source": "钛媒体",
      "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
-    },
-    {
-     "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
-     "link": "https://www.tmtpost.com/8214063.html",
-     "pubDate": "Sun, 22 Nov 2026 20:12:40 +0800",
-     "summary": "易天股份加快布局数据中心供电和储能设备。",
-     "source": "钛媒体",
-     "zh": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能"
     },
     {
      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
@@ -1943,22 +1975,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games"
-    },
-    {
-     "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
-     "link": "https://www.tmtpost.com/8213860.html",
-     "pubDate": "Sun, 22 Nov 2026 19:06:02 +0800",
-     "summary": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。",
-     "source": "钛媒体",
-     "zh": "中国和印度，在非洲瓷砖市场的第二次交锋"
-    },
-    {
-     "title": "从快手独立，可灵要回答的问题变了",
-     "link": "https://www.tmtpost.com/8213670.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
-     "summary": "估值超过快手。",
-     "source": "钛媒体",
-     "zh": "从快手独立，可灵要回答的问题变了"
     },
     {
      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
@@ -1999,22 +2015,6 @@
      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
      "source": "WIRED",
      "zh": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die"
-    },
-    {
-     "title": "丰田尼桑本田同意标准化零部件以降低成本",
-     "link": "https://www.solidot.org/story?sid=85956",
-     "pubDate": "Sun, 22 Nov 2026 18:05:07 +0800",
-     "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
-     "source": "Solidot",
-     "zh": "丰田尼桑本田同意标准化零部件以降低成本"
-    },
-    {
-     "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
-     "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-     "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
-     "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
-     "source": "WIRED",
-     "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
     }
    ]
   },
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
+     "link": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
+     "pubDate": "Sun, 22 Nov 2026 14:45:00 +0000",
+     "summary": "As long as it's plugged in, the Xbox Series X never fully turns off, but you can manage how much power it draws.",
+     "source": "Engadget",
+     "zh": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?"
+    },
     {
      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
      "link": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
@@ -2103,14 +2111,6 @@
      "summary": "Save $90 on TCL's 12.2-inch paper-like tablet, now $20 below the previous best price on Amazon.",
      "source": "Android Authority",
      "zh": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday"
-    },
-    {
-     "title": "10 rare game consoles that almost no one owns",
-     "link": "https://www.engadget.com/2321882/rare-game-console-no-one-owns/",
-     "pubDate": "Sun, 22 Nov 2026 13:15:00 +0000",
-     "summary": "Even common consoles have rare editions that are highly sought after by collectors.",
-     "source": "Engadget",
-     "zh": "10 rare game consoles that almost no one owns"
     },
     {
      "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
@@ -2273,6 +2273,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 15:01:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
+     "title": "Here are the major earnings after the close Monday",
+     "link": "https://seekingalpha.com/news/4675401-here-are-the-major-earnings-after-the-close-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 10:00:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings after the close Monday"
+    },
+    {
      "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
      "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 14:15:40 GMT",
@@ -2295,6 +2311,14 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tech suppliers jack up AI server prices after contracts inked - FT"
+    },
+    {
+     "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+     "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 GMT",
+     "summary": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
+     "source": "MarketWatch",
+     "zh": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
     },
     {
      "title": "美国总统特朗普：开放边境将摧毁美国！美国曾险些成为其中之一 直到我上台才扭转局面",
@@ -2417,6 +2441,14 @@
      "zh": "Blame game emerges after Anthropic's IPO market value plunge - WSJ"
     },
     {
+     "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+     "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 12:30:00 GMT",
+     "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
+     "source": "MarketWatch",
+     "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
+    },
+    {
      "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
      "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
      "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
@@ -2431,14 +2463,6 @@
      "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。 本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。 万亿芯",
      "source": "华尔街见闻",
      "zh": "为马斯克融资买GPU，高盛“秀操作”"
-    },
-    {
-     "title": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ",
-     "link": "https://seekingalpha.com/news/4675404-the-associate-of-alice-huang-who-funneled-nvidia-chips-to-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 07:04:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ"
     },
     {
      "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
@@ -2487,30 +2511,6 @@
      "summary": "国际金价单周重挫约10%，与暴跌的科技股同步遭抛售——当AI交易退潮触发跨资产追加保证金（Margin Calls），传统的避险资产正沦为市场筹集现金的“提款机”。 11月17日至20日的四个交易日内，金价急跌9%，自2025年9月以来首次失守3600美元/盎司关口；据摩根大通周五早报，现货金价报3588美元/盎司。白银跌势更为剧烈，全周重挫15%。 这场贵金属抛售与美股动荡高度重合。11月20日（周五），受Anthropic首次公开募股（IPO）后的市场余波拖累，纳斯达克100指数盘中大跌4.9%。 高盛交易台与瑞银全球研究最新报告均显示，抛压高度集中在黄金期货市场；高盛进一步指出，期权市场",
      "source": "华尔街见闻",
      "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
-    },
-    {
-     "title": "猜想：AI泡沫破灭和金融市场危机",
-     "link": "https://wallstreetcn.com/articles/3786452",
-     "pubDate": "Sun, 22 Nov 2026 14:37:56 +0800",
-     "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
-     "source": "华尔街见闻",
-     "zh": "猜想：AI泡沫破灭和金融市场危机"
-    },
-    {
-     "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
-     "link": "https://wallstreetcn.com/articles/3786451",
-     "pubDate": "Sun, 22 Nov 2026 14:04:47 +0800",
-     "summary": "高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。 这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。 喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生",
-     "source": "华尔街见闻",
-     "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
-    },
-    {
-     "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-     "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-     "pubDate": "Sun, 22 Nov 2026 06:00:01 GMT",
-     "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
-     "source": "CNBC",
-     "zh": "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
     }
    ]
   },

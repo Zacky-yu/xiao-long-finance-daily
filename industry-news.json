@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 16:31:48",
+ "generated_at": "2026/11/22 16:51:49",
  "recent_days": 7,
  "industries": [
   {
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
+     "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
+     "pubDate": "Sun, 22 Nov 2026 08:33:49 +0000",
+     "summary": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
+     "source": "InsideEVs",
+     "zh": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto"
+    },
+    {
      "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
      "link": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
      "pubDate": "Sun, 22 Nov 2026 02:13:24 +0000",
@@ -783,14 +791,6 @@
      "summary": "Tim and I both got to try the R2 for a week. Here are our major takeaways.",
      "source": "InsideEVs",
      "zh": "What We Both Thought After Driving The Rivian R2"
-    },
-    {
-     "title": "Hyundai’s N Vision 74 Was One Of The Coolest Car Designs In Recent Memory. Now It's Shelved",
-     "link": "https://insideevs.com/news/816240/hyundai-n-vision-74-dead/",
-     "pubDate": "Fri, 20 Nov 2026 15:19:22 +0000",
-     "summary": "Hyundai came so close to releasing its sporty electric coupe concept, but unfortunately couldn't make a \"business case.\"",
-     "source": "InsideEVs",
-     "zh": "Hyundai’s N Vision 74 Was One Of The Coolest Car Designs In Recent Memory. Now It's Shelved"
     },
     {
      "title": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
@@ -1801,12 +1801,44 @@
      "zh": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？"
     },
     {
+     "title": "全新一代比亚迪汉新款配色实车曝光",
+     "link": "https://www.ithome.com/1/030/617.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:19:31 GMT",
+     "summary": "IT之家 11 月 22 日消息，“迪粉之家”公众号昨日曝光了一组比亚迪全新一代汉的实车照片。 据IT之家此前报道，11 月 2 日，比亚迪王朝网销售事业部总经理路天宣布，11 月广州车展将推出一款“用户呼声很高的车型”，预计为全新一代比亚迪汉。 全新一代比亚迪汉已在工信部第 412 批新车申报目录中完成申报，共涉及四款车型，包括三款纯电版本与一款插混版本。 新车车身长宽高为 5156/1969/1507（1492）mm，轴距 3030mm。对比现款汉，车长增加 161mm，宽度增加 59mm，轴距增加 110mm。车头造型饱满圆润，配备贯穿式前大灯，车头顶端搭载激光雷达。 纯电版本提供三种动",
+     "source": "IT之家",
+     "zh": "全新一代比亚迪汉新款配色实车曝光"
+    },
+    {
+     "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
+     "link": "https://www.tmtpost.com/8213773.html",
+     "pubDate": "Sun, 22 Nov 2026 16:19:16 +0800",
+     "summary": "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。",
+     "source": "钛媒体",
+     "zh": "跨境收款之后，中国公司盯上智能体支付的新生意"
+    },
+    {
+     "title": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货",
+     "link": "https://www.ithome.com/1/030/616.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:18:35 GMT",
+     "summary": "IT之家 11 月 22 日消息，Clicks 宣布，受“全球特种玻璃纤维织物供应短缺”影响，旗下配备实体键盘的 Communicator 手机交付时间将从原定的 2026 年 12 月推迟至 2027 年 1 月下旬至 2 月。 Clicks 表示，Communicator 手机的硬件设计已经完成，FCC 认证也在按计划推进。目前影响生产进度的主要问题，是制造 12 层 PCB 所需的特殊玻璃纤维编织布。全球只有 6 家独立工厂能够生产这种材料，其中 4 家无法承接 Clicks 所需的订单规模，导致原材料采购耗时远超预期。 按照最新计划，Communicator 手机将于 2027 年 1",
+     "source": "IT之家",
+     "zh": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货"
+    },
+    {
      "title": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？",
      "link": "https://www.baijing.cn/question/638899",
      "pubDate": "Sun, 22 Nov 2026 08:15:07 +0000",
      "summary": "做户外储能配件独立站，主攻南非，团队6人，月广告预算约8万人民币，用Shopify+PayFast收款。从深圳备货走德班港海运，头程平均38-42天，约堡本地派送用The Courier Guy，偏远地区妥投要7-9天。现在退货率18%，一半是等太久主动取消，另一半是到货后尺码/型号不符。试过把爆款提前备到约堡第三方仓，但压了30多万库存，动销慢的SKU又占仓租。卡在备货深度和时效的平衡上：是继续加海外仓SKU，还是砍长尾只做空运补货？这个取舍按什么标准定？",
      "source": "白鲸出海",
      "zh": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？"
+    },
+    {
+     "title": "即将停产的特斯拉 Cybertruck 迎来 OTA 更新：2027 款转弯半径缩小",
+     "link": "https://www.ithome.com/1/030/615.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:14:22 GMT",
+     "summary": "IT之家 11 月 22 日消息，特斯拉 Cybertruck 现在可以更轻松地通过狭窄空间了。特斯拉官方 Cybertruck 账号在 X 平台宣布，车辆正在通过 OTA 方式获得一项新升级，进一步缩小转弯半径，让车辆能够完成“更小半径的转弯”。 不过，这项升级有一定限制：车辆必须安装 2026.44 或更高版本的软件，而且只有 2027 款 Cybertruck 才能使用这项转向优化功能。 大块头皮卡也能灵活转弯 特斯拉没有公布优化后的具体转弯半径数据，但官方展示的升级前后对比画面显示，Cybertruck 转弯时所需的空间明显缩小。 对于一辆重量超过 6000 磅（约 2722 千克）的",
+     "source": "IT之家",
+     "zh": "即将停产的特斯拉 Cybertruck 迎来 OTA 更新：2027 款转弯半径缩小"
     },
     {
      "title": "中小银行出险与市场竞争的关系",
@@ -1825,6 +1857,22 @@
      "zh": "宁德时代拉美落子，储能为何难再一家独大？"
     },
     {
+     "title": "投产后每年可在海底地层封存二氧化碳超 100 万吨，我国首个海上注碳增气技术示范应用项目陆地建设全面完工",
+     "link": "https://www.ithome.com/1/030/612.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:08:41 GMT",
+     "summary": "IT之家 11 月 22 日消息，随着重达 1.7 万吨的中心平台在海油工程青岛国际高端装备制造基地完成装船， 我国首个海上注碳增气技术示范应用项目 —— 东方 1-1 气田 CCUS（碳捕集、利用与封存）项目陆地建设全面完工，转入海上安装阶段。 目前，该项目钻完井作业也已正式启动，项目计划部署 8 口气井。 IT之家获悉，项目投产后，每年可在海底地层 封存二氧化碳超 100 万吨， 对推动我国海洋能源行业大规模深度降碳具有重要意义。 据介绍，本次完成装船的东方 1-1 气田注碳增气中心平台重量近 1.7 万吨，高度超过 28 层楼，甲板总面积超 1 万平方米，搭载低温脱碳系统、余热回收装置、",
+     "source": "IT之家",
+     "zh": "投产后每年可在海底地层封存二氧化碳超 100 万吨，我国首个海上注碳增气技术示范应用项目陆地建设全面完工"
+    },
+    {
+     "title": "丰田公布 BKE Concept 微型折叠电动两轮车，可 30 秒完成折叠放进 GR86 跑车后备箱",
+     "link": "https://www.ithome.com/1/030/611.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:07:34 GMT",
+     "summary": "IT之家 11 月 22 日消息，丰田公布了一款名为 BKE Concept 的微型折叠电动两轮车，主打短途出行、户外活动和最后一公里接驳。这款产品可以在约 30 秒内完成折叠，体积小到能够放进丰田 GR86 跑车的后备厢。 虽然丰田在官方宣传资料中将 BKE Concept &nbsp;称为“电动自行车”，但由于该车没有脚踏板，因此严格来说并不符合欧洲和北美市场对电动自行车的定义。它实际上更接近一款带座椅的小型电动滑板车，也被称为无脚踏电动两轮车（No-Ped），其可以通过 110V AC 交流电源插座充电，这意味着搭载这款电动两轮车的汽车本身也能充当移动充电站。 尽管 BKE Concep",
+     "source": "IT之家",
+     "zh": "丰田公布 BKE Concept 微型折叠电动两轮车，可 30 秒完成折叠放进 GR86 跑车后备箱"
+    },
+    {
      "title": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等",
      "link": "https://www.ithome.com/1/030/610.htm",
      "pubDate": "Sun, 22 Nov 2026 08:02:25 GMT",
@@ -1841,52 +1889,12 @@
      "zh": "OLED大扩产，先过整机预算这一关"
     },
     {
-     "title": "思特威拟向武汉楚兴增资 15 亿元，用以补齐高端 CMOS 传感器代工产能短板",
-     "link": "https://www.ithome.com/1/030/609.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:02:02 GMT",
-     "summary": "IT之家 11 月 22 日消息，思特威今日发布公告， 宣布拟向武汉楚兴增资 15.00 亿元 。本次交易后，思特威持有武汉楚兴 5.5880% 股权。 思特威表示，本次交易已在公司第二届董事会第十六次会议审议通过。 该交易旨在补齐高端 CMOS 图像传感器领域代工产能短板 ， 提升关键器件国产化替代能力与供应链安全保障水平 ，提前锁定上游产能供应而实施的战略布局。 IT之家注：武汉楚兴成立于 2022 年，是一家专注于集成电路领域图像传感器生产制造及技术服务的高新技术企业，主营业务为 CMOS 图像传感器芯片的晶圆代工服务。",
-     "source": "IT之家",
-     "zh": "思特威拟向武汉楚兴增资 15 亿元，用以补齐高端 CMOS 传感器代工产能短板"
-    },
-    {
-     "title": "DOOGEE 预热 Note 70 新机：后背酷似三星 Galaxy S26 Ultra，配 1.8 寸背屏",
-     "link": "https://www.ithome.com/1/030/608.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:56:02 GMT",
-     "summary": "IT之家 11 月 22 日消息，DOOGEE 最近在领英平台公布了“Note 70”新机。 该手机的后背酷似三星 Galaxy S26 Ultra ，带有一块 1.8 英寸背屏。 外观方面，这款手机后置摄像头模组采用竖向排列，左边是三个较大的摄像头圆环，右边还有两个小的圆形组件。背面还带有一块 1.8 英寸屏幕，具体支持功能暂未公布。 规格方面，这款手机搭载紫光展锐 T7250 处理器，最高提供 6GB 内存和 256GB 存储空间。拥有 6500mAh 电池，其他已公布的配置包括 1300 万像素后置摄像头、800 万像素前置摄像头，以及 Android 17 操作系统。 此外，该机可选的",
-     "source": "IT之家",
-     "zh": "DOOGEE 预热 Note 70 新机：后背酷似三星 Galaxy S26 Ultra，配 1.8 寸背屏"
-    },
-    {
-     "title": "《辐射》官宣猫咪主题衍生游戏，玩家将化身避难所猫咪拯救同伴",
-     "link": "https://www.ithome.com/1/030/607.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:55:40 GMT",
-     "summary": "IT之家 11 月 22 日消息，一款名为《满是猫咪的废土》（A Wasteland Full of Cats）的全新《辐射》（Fallout）游戏正在开发中。此前项目意外提前泄露，贝塞斯达随后正式确认了这一消息。这款衍生作品在玩法和主题上都与《辐射》系列正传游戏有很大不同，核心内容将围绕猫咪展开。 这款游戏最早于 10 月 22 日曝光。当时，澳大利亚分级委员会的网站提前发布了一份相关分级信息。除了公布游戏名称外，该页面还将其描述为一款寻物冒险游戏，玩家需要在《辐射》的废土世界中寻找并营救走失的猫咪。 11 月 19 日，《辐射》官方 X 账号正式宣布了《满是猫咪的废土》，确认该项目由巴西开",
-     "source": "IT之家",
-     "zh": "《辐射》官宣猫咪主题衍生游戏，玩家将化身避难所猫咪拯救同伴"
-    },
-    {
-     "title": "Netflix 日区订阅涨价，高级版套餐月费突破 2500 日元",
-     "link": "https://www.ithome.com/1/030/605.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:54:45 GMT",
-     "summary": "IT之家 11 月 22 日消息，Netflix 日本区时隔约两年再次调整订阅价格，这次三个套餐均迎来涨价，IT之家随附月费信息如下： 广告版标准：890 日元 （现汇率约合 37.5 元人民币） → 990 日元 （现汇率约合 41.7 元人民币） 标准版：1,590 日元 （现汇率约合 66.9 元人民币） → 1,790 日元 （现汇率约合 75.3 元人民币） 高级版：2,290 日元 （现汇率约合 96.4 元人民币） → 2,590 日元 （现汇率约合 109 元人民币） IT之家注意到，今年以来 Netflix 的股价已下跌超 30%，投资者对公司增长放缓的担忧有所加剧，YouT",
-     "source": "IT之家",
-     "zh": "Netflix 日区订阅涨价，高级版套餐月费突破 2500 日元"
-    },
-    {
      "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
      "link": "https://www.baijing.cn/question/638898",
      "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
      "summary": "团队 8 人，其中能投在获客上的只有 2 个半人，产品是面向北美中小企业的协作类 SaaS，刚过 PMF 进入起量阶段。目前尝试过 Product Hunt 首发、SEO 内容站和 LinkedIn 外呼三条线：PH 带来约 400 个注册但两周后留存不到 8%，SEO 三个月只排上 20 多个长尾词，外呼每周 150 封回复率 3% 左右。人手就这么多，每条线都做等于每条线都做不深，现在卡在不知道该砍掉哪条、把仅有的 2 个人压在哪个渠道上。想直接问：在这个人力约束下，你们判断渠道优先级的硬标准是什么？",
      "source": "白鲸出海",
      "zh": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？"
-    },
-    {
-     "title": "张雪机车计划明年推出针对外卖骑手的电动摩托车，价格尽量控制在 1 万元左右",
-     "link": "https://www.ithome.com/1/030/604.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:49:59 GMT",
-     "summary": "IT之家 11 月 22 日消息，张雪机车创始人张雪在珠海“张雪机车 · 京东 WSBK 嘉年华”现场受访时透露，计划于明年（2027 年）推出针对外卖骑手设计的电动摩托车。 IT之家获悉，新车可能会提供两个续航版本（100 公里、150 公里），涵盖 99% 骑手需求；并优化快充补能，利用吃饭的时间就能把电量充满。 你就在吃个午饭的时间，你的车就补能好了。 咱们外卖小哥百分之八九十日均的使用里程在 100（公里）左右， 我们的补能时间目标是 10 分钟 。 据介绍，新车在操控方面也要向油摩看齐，整车重量兼顾驾驶质感与安全底线。 张雪坦言价格尽量控制在 1 万元左右 ，长续航版本约 1.5 万",
-     "source": "IT之家",
-     "zh": "张雪机车计划明年推出针对外卖骑手的电动摩托车，价格尽量控制在 1 万元左右"
     },
     {
      "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
@@ -1924,7 +1932,7 @@
      "title": "The Engineering Manager's role is under attack (again)",
      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
      "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
-     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 25 # Comments: 22",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 34 # Comments: 30",
      "source": "Hacker News",
      "zh": "The Engineering Manager's role is under attack (again)"
     },
@@ -1948,7 +1956,7 @@
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 17 # Comments: 4",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -1999,14 +2007,6 @@
      "summary": "大买主登陆公开市场，芯片、代工与存储环节都在随之调整。",
      "source": "钛媒体",
      "zh": "Anthropic万亿上市，搅动的却是半导体江湖"
-    },
-    {
-     "title": "泰国加税，最着急的可能是已经建厂的中国车企",
-     "link": "https://www.tmtpost.com/8213763.html",
-     "pubDate": "Sun, 22 Nov 2026 14:09:30 +0800",
-     "summary": "这道税，泰国准备了半年。",
-     "source": "钛媒体",
-     "zh": "泰国加税，最着急的可能是已经建厂的中国车企"
     },
     {
      "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge&apos;s proof of the Riemann Hypothesis is correct\" (Lean community blog)",
@@ -2505,20 +2505,20 @@
      "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
     },
     {
-     "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
-     "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
-     "summary": "当妈后，要做情绪稳定的妈妈没错，但妈妈不是没有情绪，允许自己有情绪，适当表达情绪，才不会因为一件小事爆发。",
-     "source": "经济观察网",
-     "zh": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题"
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
     },
     {
-     "title": "为鸟而生，斯温侯在中国（下）",
-     "link": "http://www.eeo.com.cn/2026/1122/1099569.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:27:05 +0800",
-     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
-     "source": "经济观察网",
-     "zh": "为鸟而生，斯温侯在中国（下）"
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 20:51:59",
+ "generated_at": "2026/11/22 21:11:53",
  "recent_days": 7,
  "industries": [
   {
@@ -674,6 +674,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+     "link": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+     "pubDate": "Sun, 22 Nov 2026 13:01:35 +0000",
+     "summary": "The Illinois Clean Ports Program is putting $104 million behind efforts to help clean up its working waterfronts, funds earmarked for heavy-duty electric equipment assets that includes forklifts, giant reach stackers, switcher locomotives, and the charging equipment needed to support them. There’s e",
+     "source": "Electrek",
+     "zh": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover"
+    },
+    {
+     "title": "The U.S. Let Volvo Keep Selling Cars. Polestar Got A No. What About Mercedes?",
+     "link": "https://insideevs.com/news/816281/mercedes-chinese-ownership-us-sales/",
+     "pubDate": "Sun, 22 Nov 2026 13:00:00 +0000",
+     "summary": "China ties got Polestar banned in the U.S., and Mercedes-Benz is 20% Chinese-owned, but lawmakers may make an exception.",
+     "source": "InsideEVs",
+     "zh": "The U.S. Let Volvo Keep Selling Cars. Polestar Got A No. What About Mercedes?"
+    },
+    {
      "title": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
      "link": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
      "pubDate": "Sun, 22 Nov 2026 12:20:00 +0000",
@@ -738,14 +754,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes"
     },
     {
-     "title": "How much does charging an EV really cost? This Redditor says $7 per month",
-     "link": "https://electrek.co/2026/11/21/how-much-does-charging-an-ev-really-cost-this-redditor-says-7-per-month/",
-     "pubDate": "Sat, 21 Nov 2026 19:53:32 +0000",
-     "summary": "One of the most common questions asked by first-time EV buyers is about the cost of electricity. Whether they plan to charge at home or find charging in the wild, everyone wants to know what to expect when it comes time to top off their batteries. One EV owner did the math after two months of EV own",
-     "source": "Electrek",
-     "zh": "How much does charging an EV really cost? This Redditor says $7 per month"
-    },
-    {
      "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
      "link": "https://insideevs.com/news/816340/waymo-manually-controlled-intersection-recall/",
      "pubDate": "Sat, 21 Nov 2026 19:07:40 +0000",
@@ -784,14 +792,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Fangchengbao Tai 9 has a foldable steering wheel that can hide itself away to make the car more comfortable when parked.",
      "source": "InsideEVs",
      "zh": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It"
-    },
-    {
-     "title": "What We Both Thought After Driving The Rivian R2",
-     "link": "https://insideevs.com/features/816273/rivian-r2-ievs-podcast/",
-     "pubDate": "Fri, 20 Nov 2026 16:00:21 +0000",
-     "summary": "Tim and I both got to try the R2 for a week. Here are our major takeaways.",
-     "source": "InsideEVs",
-     "zh": "What We Both Thought After Driving The Rivian R2"
     },
     {
      "title": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
@@ -1786,6 +1786,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "《后会友期》拉起的情绪爆点，被鸭舌和云饺接住了",
+     "link": "https://www.huxiu.com/article/4907529.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 20:52:29 +0800",
+     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 看完本周四更新的《后会友期》后，骨朵的心情没有想象中激昂，马天宇的袒露孤独、白小纯的职场过往让人感叹，节目里的十几天不是全部，友情之外嘉宾都还面临着更深刻的人生课题。 唯一觉得有些“疯狂”的，是节目新晋赞助商肯德基的广告词：“多少意难平，V我50都摆平！”“下个周四，后会友‘鸡’”。继绝味鸭舌、999感冒灵毛毯、袁记云饺爆火之后，肯德基也不甘错过热点，借谐音梗实现硬植入。这富贵接没接住不知道，但如此直抒胸臆的宣发，观感很像是文青群里冒出一个不会读空气的西装猛男，目的只有薅你毛。 开播以后低开高走，《后会友期》现以极高的市占率吸干综艺大盘",
+     "source": "虎嗅",
+     "zh": "《后会友期》拉起的情绪爆点，被鸭舌和云饺接住了"
+    },
+    {
      "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
      "link": "https://www.ithome.com/1/030/707.htm",
      "pubDate": "Sun, 22 Nov 2026 12:47:05 GMT",
@@ -1816,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实后，切断了外部 IP 访问并停止了相关服务。韩电相关人士表示：“初步判断系外部攻",
      "source": "IT之家",
      "zh": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄"
+    },
+    {
+     "title": "AI is becoming a disaster for the climate",
+     "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+     "pubDate": "Sun, 22 Nov 2026 12:19:46 +0000",
+     "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 13 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AI is becoming a disaster for the climate"
     },
     {
      "title": "大模型数据的隐秘江湖",
@@ -1922,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "699 → 278 元办公人用过就回不去了：罗技 MX Master 3S Lite 鼠标政府补贴大破价"
     },
     {
-     "title": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股",
-     "link": "https://www.huxiu.com/article/4907523.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:25:32 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：高智谋，原文标题：《“别抱侥幸心理了，还有很多人没卖！”摩根大通劝退科技股》 美股科技板块创下2020年3月以来最大单周跌幅之际，摩根大通仓位情报团队的John Schlegel在最新周报中化用了但丁《神曲》名句开篇：“交易科技股者，放弃一切希望吧”。 摩根大通与高盛的最新数据均显示，尽管对冲基金已大幅降仓，但握有大额筹码的长线资管机构和散户仍未大规模离场。 过去一周，标普500指数连跌七日，周五收于6910点，失守7000点关口；纳斯达克100指数重挫10.4%，费城半导体指数（SOX）大跌17%。抛售同步波及大宗商品与加密货币，黄金周跌9.5%，比",
-     "source": "虎嗅",
-     "zh": "“别抱侥幸心理了，还有很多人没卖，”摩根大通劝退科技股"
-    },
-    {
      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
      "link": "https://www.tmtpost.com/8213860.html",
      "pubDate": "Sun, 22 Nov 2026 19:06:02 +0800",
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
      "source": "WIRED",
      "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
-    },
-    {
-     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-     "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 208 # Comments: 304",
-     "source": "Hacker News",
-     "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
+     "link": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php",
+     "pubDate": "Sun, 22 Nov 2026 13:49:02 +0100",
+     "summary": "A new leak has surfaced online, allegedly detailing and even depicting the unannounced vivo S70 Pro. Since vivo typically repackages its Chinese-only S-series devices as global V-series phones, speculation is that this might very well become the vivo V90 Pro. Arguably the most exciting rumor is that",
+     "source": "GSMArena",
+     "zh": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet"
+    },
     {
      "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
      "link": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "iOS 27: My favorite new iPhone features (other than AI)"
     },
     {
-     "title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5",
-     "link": "https://www.gsmarena.com/samsung_redesigned_live_notifications_one_ui_9_5-news-75583.php",
-     "pubDate": "Sat, 21 Nov 2026 22:33:02 +0100",
-     "summary": "Samsung introduced Live Notifications with One UI 7 and is now working on a visual change that would make the feature feel more like Apple's Dynamic Island. Right now, Live Notifications appear as a compact pill in the top-left corner of the status bar, showing key information such as a timer or a r",
-     "source": "GSMArena",
-     "zh": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5"
-    },
-    {
      "title": "Gemini app rolls out very slick camera redesign on Android",
      "link": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
      "pubDate": "Sat, 21 Nov 2026 20:52:52 +0000",
@@ -2282,6 +2282,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
+     "link": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 08:07:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more"
+    },
+    {
+     "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+     "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+     "pubDate": "Sun, 22 Nov 2026 13:00:01 GMT",
+     "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
+     "source": "CNBC",
+     "zh": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
+    },
+    {
      "title": "Blame game emerges after Anthropic's IPO market value plunge - WSJ",
      "link": "https://seekingalpha.com/news/4675405-blame-game-emerges-after-anthropics-ipo-market-value-plunge---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 07:34:33 -0500",
@@ -2296,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
      "source": "MarketWatch",
      "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
-    },
-    {
-     "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-     "link": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
-     "pubDate": "Sun, 22 Nov 2026 12:13:56 GMT",
-     "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts favor these 3 dividend stocks for strong returns"
     },
     {
      "title": "为马斯克融资买GPU，高盛“秀操作”",
@@ -2334,47 +2342,15 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1345,202611223936928656.html",
      "pubDate": "Sun, 22 Nov 2026 19:13:04 +0800",
      "summary": "中国结算关于暂免收取部分债券登记结算费用的通知 各市场参与主体： 为落实国务院和证监会有关部署，加大对绿色公司债券、科技创新公司债券、民营企业公司债券发行人支持力度，切实助力降低融资费用，降低交易所债券市场交易成本，中国证券登记结算有限责任公司决定暂免收取部分债券登记结算费用。现将有关事项通知如下： 一、自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎回回售手续费。 二、自2027年1月1日起至2028年12月31日，继续暂免收取民营企业公司债券（不含可转换公司债券）的证券登记费、派息兑付手续费、赎",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "中国结算：暂免收取部分债券登记结算费用"
-    },
-    {
-     "title": "欧盟及成员国反对安塔利亚气候协定",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936928567.html",
-     "pubDate": "Sun, 22 Nov 2026 19:09:00 +0800",
-     "summary": "欧盟代表团发布声明表示，欧盟代表团对最终的COP31声明决定草案深感失望，我们不会支持一项甚至没有提及化石燃料的总体决定。我们不会接受一场为化石燃料进行“漂绿”的联合国气候变化大会，提交给我们的草案根本没有解决我们面临的气候紧急状况。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟及成员国反对安塔利亚气候协定"
-    },
-    {
-     "title": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制",
-     "link": "http://stock.eastmoney.com/news/1611,202611223936928278.html",
-     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
-     "summary": "知情人士称， Anthropic 曾要求对部分 银行 实施为期六个月的限制，禁止他们在此（IPO）期间为包括OpenAI和DeepSeek在内的竞争对手提供服务。 Anthropic 要求部分参与其IPO的投行将交易团队人数限制在4名资深 银行 家以内。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "知情人士称，Anthropic曾要求对部分银行实施为期六个月的限制"
-    },
-    {
-     "title": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响",
-     "link": "http://stock.eastmoney.com/news/1611,202611223936928147.html",
-     "pubDate": "Sun, 22 Nov 2026 19:07:00 +0800",
-     "summary": "知情人士称， 银行 私下抱怨， Anthropic 的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "知情人士称，银行私下抱怨，Anthropic的首次公开募股因最后一刻的变动、仓促的审批以及对信息泄露异常程度的担忧而受到影响"
-    },
-    {
-     "title": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936927970.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:57 +0800",
-     "summary": "11月22日， 荣盛发展 （SZ002146，股价0.96元，市值41.74亿元）披露《关于公司股票存在可能因股价低于面值被终止上市的风险提示公告》，公司股票11月20日收盘价为0.96元/股，自2026年11月20日起收盘价首次低于1元，公司因此提示，股票可能因股价低于面值被终止上市。 值得注意的是，11月20日， 荣盛发展 收盘报0.96元/股，跌5.88%，为11月17日首次跌破1元（收0.90元、跌停）、11月19日短暂回升至1.02元后的再度跌破。公司再次发布面值退市风险提示，根据规则，连续低于1元的交易日自11月20日重新起算。 二级市场上， 荣盛发展 股价年内总体呈震荡下行态势，",
-     "source": "东方财富股票",
-     "zh": "退市警报又拉响！荣盛发展再破1元面值，股价年内跌逾四成"
     },
     {
      "title": "上交所组合式推出新一批降费措施 助力激发市场主体活力",
      "link": "http://finance.eastmoney.com/news/1345,202611223936927660.html",
      "pubDate": "Sun, 22 Nov 2026 19:05:34 +0800",
      "summary": "11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。 近年来，上交所认真贯彻落实党中央、国务院有关减税降费部署，在中国证监会统筹指导下，持续挖掘降费空间，陆续出台多项惠企利民的降费措施，降费力度逐年加大。上交所今年发布的降费组合式政策，涉及沪市股票、基金、债券等品种，覆盖上市、交易、服务等环节，惠及各市场主体。对上市公司，全面免收上市费、上证e服务、上证e投票等",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "上交所组合式推出新一批降费措施 助力激发市场主体活力"
     },
     {
@@ -2386,12 +2362,44 @@ window.INDUSTRY_DATA = {
      "zh": "Did Anthropic and its bankers get a key call wrong after IPO?"
     },
     {
+     "title": "上交所正推动修订科创板做市商规则",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936927537.html",
+     "pubDate": "Sun, 22 Nov 2026 18:56:56 +0800",
+     "summary": "11月22日，证券时报记者获悉，近期上交所正结合市场运行新变化、市场主体实际诉求，推动修订科创板股票做市业务相关规则，聚焦做市商交易能力提升和做市业务规范管理，激励做市商扩大报价规模，促进做市业务形成良性生态，引导做市商更加规范、持续、稳定供给流动性，推动做市报价进一步提质增效，促进科创板市场高质量发展。 科创板做市商 机制是科创板基础交易制度改革的重要探索，是国内股票市场首次在竞价交易基础上引入竞争性做市商，对发挥科创板改革试验田功能、完善资本市场交易体系具有重要作用。做市商持续向市场提供双边报价，对科创板股票订单簿结构改善明显，有效增加了订单簿深度、收窄买卖价差、降低投资者交易成本，同时有",
+     "source": "东方财富资讯",
+     "zh": "上交所正推动修订科创板做市商规则"
+    },
+    {
      "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
      "link": "https://wallstreetcn.com/articles/3786460",
      "pubDate": "Sun, 22 Nov 2026 18:52:10 +0800",
      "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
      "source": "华尔街见闻",
      "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
+    },
+    {
+     "title": "沪深交易所、中国结算推出一揽子降费措施",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936924891.html",
+     "pubDate": "Sun, 22 Nov 2026 18:41:42 +0800",
+     "summary": "记者11月22日从中国证监会了解到，沪深交易所推出新一批降费措施，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服务费及债券结算费。 相关报道 上交所组合式推出新一批降费措施 助力激发市场主体活力 11月22日，上交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免 数据中心 相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延",
+     "source": "东方财富资讯",
+     "zh": "沪深交易所、中国结算推出一揽子降费措施"
+    },
+    {
+     "title": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936924279.html",
+     "pubDate": "Sun, 22 Nov 2026 18:37:21 +0800",
+     "summary": "经证监会批准，沪深北交易所将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。据测算，此次调整理论上可带来增量资金近4000亿元。这意味着投资者用100万元的保证金最多可以向证券公司融资125万元买入证券，该笔融资交易的杠杆倍数为1.25倍，可融资买入规模提升了25%。而现有的融资交易杠杆倍数为1倍，投资者用100万元的保证金最多可以向证券公司融资100万元买入证券。 相关报道 A股融资杠杆比例提至1.25倍 业内预计将带来4000亿资金增量 融资杠杆比例将由1倍提高至1.25倍，这是A股市场第四次调整融资保证金比例。 11月22日，沪深北交易所发布《关于调整",
+     "source": "东方财富资讯",
+     "zh": "交易所降低融资保证金比例下限 可带来增量资金近4000亿元"
+    },
+    {
+     "title": "深交所拟在创业板引入做市商制度",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936924084.html",
+     "pubDate": "Sun, 22 Nov 2026 18:35:47 +0800",
+     "summary": "为进一步深化创业板改革，促进增强市场内在稳定性，在中国证监会统筹指导下，深交所积极推进在创业板引入做市商制度，起草了《 深圳证券交易所创业板股票做市交易业务细则（征求意见稿） 》（以下简称《做市业务细则》），现向社会公开征求意见。 2026年4月10日，证监会发布《关于深化创业板改革更好服务新质生产力发展的意见》，提出在创业板引入做市商制度，增强市场内在稳定性。同月，深交所修订发布《深圳证券交易所交易规则》，明确创业板股票交易可以实行做市商机制。市场实践表明，在竞价交易的基础上引入做市商机制，能够丰富市场参与主体，提升投资机构和交易策略多元化水平，有助于壮大稳市力量，提高定价效率，降低交易成本",
+     "source": "东方财富资讯",
+     "zh": "深交所拟在创业板引入做市商制度"
     },
     {
      "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
@@ -2512,14 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
      "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
-    },
-    {
-     "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
-     "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
     }
    ]
   },
@@ -2529,6 +2529,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary",
+     "link": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary",
+     "pubDate": "Sun, 22 Nov 2026 13:00:00 +0000",
+     "summary": "Archaeologists discovered a stash of Celtic coins ahead of a construction project for an electrical substation in Hungary.",
+     "source": "Live Science",
+     "zh": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary"
+    },
     {
      "title": "Black holes can split apart 'like pants' if they spin too fast, study hints",
      "link": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
@@ -2592,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about",
      "source": "ScienceDaily",
      "zh": "A giant star swallowed another star. James Webb reveals the aftermath"
-    },
-    {
-     "title": "Meet the science adviser behind Netflix's hit series 'Below'",
-     "link": "https://www.livescience.com/animals/aquatic-animals/meet-the-science-adviser-behind-netflixs-hit-series-below",
-     "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
-     "summary": "Live Science spoke with marine biologist Annie Mercier about her role as a science adviser for Netflix's show \"Below.\"",
-     "source": "Live Science",
-     "zh": "Meet the science adviser behind Netflix's hit series 'Below'"
     },
     {
      "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",

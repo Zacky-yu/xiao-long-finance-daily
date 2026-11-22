@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 07:31:54",
+ "generated_at": "2026/11/23 07:46:21",
  "recent_days": 7,
  "industries": [
   {
@@ -353,6 +353,14 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -361,12 +369,52 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -447,54 +495,6 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
-    },
-    {
-     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
-     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
-     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
-     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1777,6 +1777,78 @@
    "total": 18,
    "items": [
     {
+     "title": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式",
+     "link": "https://www.huxiu.com/article/4907567.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:38:16 +0800",
+     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 美国密歇根州马歇尔市的福特电池工厂里，有一堵特别的墙。 墙的一侧生产电芯，另一侧组装电池包。完成检测的电芯通过传送带穿过墙上的通道，进入电池包生产区域。两个车间之间没有供人员直接通行的门。 据《底特律新闻》11月18日报道，宁德时代的工程师可以在电芯制造车间参与设备调试、员工培训和生产爬坡，却不能进入另一侧的电池包组装区域。 这座投资30亿美元的工厂归福特所有，由福特独立运营，采用宁德时代授权的磷酸铁锂电池制造技术。 11月18日，福特宣布，马歇尔工厂生产的首批电芯已经运往肯塔基州路易斯维尔，用于新款电动皮卡Fathom的原型车测试。 从",
+     "source": "虎嗅",
+     "zh": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式"
+    },
+    {
+     "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+     "link": "https://www.ithome.com/1/030/729.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:37:54 GMT",
+     "summary": "IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及 Siri AI 功能延迟上线的美国集体诉讼。 根据 MacRumors 当地时间 11 月 21 日的报道，代表消费者的律师于 11 月 16 日提交法庭文件，预计符合条件的用户每台 iPhone 可获赔至少 61 美元 （现汇率约合 408.3 元人民币） ，最高赔偿金额为 95 美元 （现汇率约合 635.9 元人民币） 。 根据和解条款，每台符合条件的设备基础赔偿金额为 25 美元，最终金额将根据有效申报总量按比例调整，最高不超过 95 美元，",
+     "source": "IT之家",
+     "zh": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元"
+    },
+    {
+     "title": "影石创新：拿下七成市场，蒸发一千亿市值",
+     "link": "https://www.huxiu.com/article/4907568.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:36:11 +0800",
+     "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的 影石创新2026年三季报显示，Q3度营收39.19亿元，同比增长33.30%；归母净利润1743万元，同比下降93.59%。前三季度收入达到94.36亿元，同比增长42.73%，归母净利润只剩4784万元，扣非归母净利润仅513万元。 收入仍在高增，单季归母净利率却只剩0.44%。第三季度，影石比去年同期多卖了近10亿元，毛利反而少了8000多万元。 我们曾在《影石、大疆的无人机影像战争，比“外卖大战”还惨烈》中提到过，影石和大疆在影像设备、无人机掀起的价格战竞争异常激烈，很明显，这种竞争延续到了第三季度。 与此同时，9月底存货增至71.5",
+     "source": "虎嗅",
+     "zh": "影石创新：拿下七成市场，蒸发一千亿市值"
+    },
+    {
+     "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
+     "link": "https://www.ithome.com/1/030/728.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:35:21 GMT",
+     "summary": "IT之家 11 月 23 日消息，据新华社今日报道，美国达美航空公司技术系统出现故障，导致 22 日进出亚特兰大国际机场的数百个航班出现延误。 美国联邦航空管理局发布的信息显示，达美航空飞往亚特兰大国际机场的航班 平均延误近一个小时 ，涉及约 20 个航线控制中心。 达美航空公司表示， 航班延误是由于其重量与平衡自动化系统出现故障 。公司正与空管部门协调，采取措施防止在亚特兰大国际机场登机口和停机坪区域出现拥堵。当天上午，达美航空通过人工方式安排航班起飞，同时继续努力恢复自动化系统。 根据航班追踪网站发布的数据，截至美东时间 22 日 11 时，有 681 个进出亚特兰大国际机场的航班出现延误",
+     "source": "IT之家",
+     "zh": "美国达美航空系统故障，致亚特兰大机场数百航班延误"
+    },
+    {
+     "title": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit",
+     "link": "https://www.ithome.com/1/030/727.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:30:20 GMT",
+     "summary": "IT之家 11 月 23 日消息，Mozilla 前天（11 月 20 日）发布声明，指责苹果长期阻碍真正的 Firefox 火狐浏览器登陆 iPhone。 据IT之家了解，Firefox 的 iOS 版使用 WebKit 引擎，而非 Mozilla 自主开发的 Gecko 引擎。 Mozilla 表示，即使欧盟《数字市场法案》和日本《智能手机软件竞争促进法》已要求苹果调整政策，但 iOS 的现行限制仍让人难以接受。 例如公司无法通过更新现有 Firefox 的方式 ， 直接将 WebKit 内核替换为 Gecko 。因为按照苹果的要求， 公司必须单独开发新浏览器并分发一个全新 App 。 这",
+     "source": "IT之家",
+     "zh": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit"
+    },
+    {
+     "title": "2027 款福特烈马将于广州车展上市，新增大海道版本",
+     "link": "https://www.ithome.com/1/030/726.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:27:43 GMT",
+     "summary": "IT之家 11 月 23 日消息，据易车 11 月 22 日报道，2027 款福特烈马将在广州车展正式上市。新车新增烈马大海道版本，与荒地版形成两条差异化的外观与越野套件路线。 大海道版以红色车身搭配撞色白顶 ，车身侧面印有大号 BRONCO 拉花，配银黑双色防脱越野轮毂与全地形 AT 胎，面向户外穿越、打卡出行；荒地版采用纯黑车身与黑银配色防脱轮毂，整体风格低调硬核，可城可野。 两款车型保留圆形复古大灯、贯穿式 BRONCO 字母格栅、方盒子车身、可拆卸车顶、外挂式后备胎与宽大黑色轮眉。座舱延续烈马粗犷实用的布局，中控台保留大量实体按键与顶部控制开关，便于越野时盲操作，可拆卸门板与防水易清洁",
+     "source": "IT之家",
+     "zh": "2027 款福特烈马将于广州车展上市，新增大海道版本"
+    },
+    {
+     "title": "IT早报 1123：菲尔兹奖得主谈“AI 攻克黎曼猜想”仍需解决关键思路；特斯拉 FSD v15 全新实景视图引热议；张雪机车计划明年推出外卖电摩...",
+     "link": "https://www.ithome.com/1/030/725.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:24:31 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 23 日星期一，今天的重要科技资讯有： 1. 菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可 Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。>> 查看详情 2. 特斯拉 FSD v15 全新实景视图引热议，消息称是在硬件劣势的情况做了 3D 高斯全场景重建 特斯拉 11 月 22 日宣布在美国市场推出 FSD v15，带来了全新可视化界面 ——“Tesla Reality View”。据博主 @旌旗超智能 分析",
+     "source": "IT之家",
+     "zh": "IT早报 1123：菲尔兹奖得主谈“AI 攻克黎曼猜想”仍需解决关键思路；特斯拉 FSD v15 全新实景视图引热议；张雪机车计划明年推出外卖电摩..."
+    },
+    {
+     "title": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始",
+     "link": "https://www.huxiu.com/article/4907565.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:23:43 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始》 新旧交替时期，苹果改变了不少「祖宗之法」，新品发布的节奏当然也不例外。 最明显的变化就是，过去集中在秋季发布会上的产品，如今被苹果分拆为连续数月的更新—— 9月，iPhone 18 Pro系列与首款折叠屏iPhone Duo同场亮相；10月，智能家居设备HomeView、新款iPad mini与触屏MacBook Pro等新品陆续登场。 图｜Apple Cycle 而短暂冬歇之后，苹果又将迎来一个繁忙的春天。 彭博社记者马克·古尔曼在最新一期Powe",
+     "source": "虎嗅",
+     "zh": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始"
+    },
+    {
+     "title": "马斯克被曝悄悄开发菲律宾岛屿，具体位置未披露",
+     "link": "https://www.ithome.com/1/030/724.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:21:16 GMT",
+     "summary": "IT之家 11 月 23 日消息，菲律宾驻美大使何塞 · 曼努埃尔 · 罗穆亚尔德斯透露，埃隆 · 马斯克可能正在菲律宾开发“一两座”岛屿。他表示，马斯克近期常低调访问菲律宾，对当地表现出浓厚兴趣。截至IT之家发稿，相关话题已登上微博热搜。 罗穆亚尔德斯于 11 月 19 日接受菲律宾 ANC 新闻频道采访时透露，马斯克于当地时间 11 月 18 日上午 11 时 30 分左右乘坐私人飞机抵达马尼拉。 罗穆亚尔德斯称，马斯克没有参加美国总统特朗普在菲律宾的正式活动，而是在机场等待特朗普，随后陪同其前往深圳参加亚太经合组织（APEC）相关活动。 谈及马斯克与菲律宾的关系，罗穆亚尔德斯表示：“据我",
+     "source": "IT之家",
+     "zh": "马斯克被曝悄悄开发菲律宾岛屿，具体位置未披露"
+    },
+    {
      "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
      "link": "https://www.techmeme.com/261122/p12#a261122p12",
      "pubDate": "Sun, 22 Nov 2026 18:20:08 -0500",
@@ -1796,7 +1868,7 @@
      "title": "我最近听到最有水平的两句话",
      "link": "https://www.huxiu.com/article/4907013.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 07:18:40 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。 第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。 第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。 我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实： 我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。 情绪本来是向外的，我们却拿它对内审判自己。 想法本来是向内的，我",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。 第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。 第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。 我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实： 我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。 情绪本来是向外的，我们却拿它对内审判自己。 ",
      "source": "虎嗅",
      "zh": "我最近听到最有水平的两句话"
     },
@@ -1804,7 +1876,7 @@
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 38 # Comments: 1",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1820,7 +1892,7 @@
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
     },
@@ -1828,39 +1900,23 @@
      "title": "Do Not Accept",
      "link": "https://donotaccept.ai/",
      "pubDate": "Sun, 22 Nov 2026 23:02:20 +0000",
-     "summary": "Article URL: https://donotaccept.ai/ Comments URL: https://news.ycombinator.com/item?id=50604959 Points: 13 # Comments: 6",
+     "summary": "Article URL: https://donotaccept.ai/ Comments URL: https://news.ycombinator.com/item?id=50604959 Points: 24 # Comments: 22",
      "source": "Hacker News",
      "zh": "Do Not Accept"
     },
     {
-     "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
-     "link": "https://www.ithome.com/1/030/720.htm",
-     "pubDate": "Sun, 22 Nov 2026 22:50:46 GMT",
-     "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。 帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 ",
-     "source": "IT之家",
-     "zh": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限"
-    },
-    {
-     "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
-     "link": "https://www.ithome.com/1/030/719.htm",
-     "pubDate": "Sun, 22 Nov 2026 22:42:26 GMT",
-     "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。 古尔曼认为，苹果在 AI Agent 竞争中面临的主要问题并非缺乏资金或技术资源，而是传统软硬件开发模式已经难以适应 AI 行业快速迭代的节奏。 他指出，苹果过去依靠生态系统建立了竞争优势。用户在 iCloud 中存储邮件、联系人、照片和视频，同",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo"
-    },
-    {
-     "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
-     "link": "https://philpapers.org/rec/NIEIOT-2",
-     "pubDate": "Sun, 22 Nov 2026 22:41:33 +0000",
-     "summary": "Article URL: https://philpapers.org/rec/NIEIOT-2 Comments URL: https://news.ycombinator.com/item?id=50604742 Points: 23 # Comments: 3",
+     "title": "Localcode, open source agentic coding on your Mac with one command",
+     "link": "https://github.com/mjwsolo/localcode",
+     "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
+     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 5 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis"
+     "zh": "Localcode, open source agentic coding on your Mac with one command"
     },
     {
      "title": "The Usefulness of Useless Knowledge [pdf]",
      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 21 # Comments: 1",
      "source": "Hacker News",
      "zh": "The Usefulness of Useless Knowledge [pdf]"
     },
@@ -1868,7 +1924,7 @@
      "title": "Agent swarm trying to solve P vs. NP",
      "link": "https://pequalnp.com/",
      "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 38 # Comments: 29",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 49 # Comments: 46",
      "source": "Hacker News",
      "zh": "Agent swarm trying to solve P vs. NP"
     },
@@ -1929,44 +1985,12 @@
      "zh": "递归自我改进：AI 已经走到了哪一步？"
     },
     {
-     "title": "巴西的消费市场，有多少是靠信贷撑起来的？",
-     "link": "https://www.huxiu.com/article/4907558.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 00:18:58 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月17日，巴西瓦加斯基金会（FGV）公布了一项关于居民消费的研究。 从2023年12月到2026年6月，巴西家庭实际收入每增加100雷亚尔，月度债务偿还支出就增加58.4雷亚尔，其中约一半用于支付利息。 与此同时，巴西的失业率降至5.2%，接近2012年有统计记录以来的最低水平，居民消费增速却从2024年的5.1%降至2025年的1.3%。2026年第二季度，居民消费环比下降0.4%。blogdoibre.fgv.br 在此前的10月27日，巴西央行披露，截至2026年6月，巴西处于高风险负债状态的人数达到2030万，较五年前",
-     "source": "虎嗅",
-     "zh": "巴西的消费市场，有多少是靠信贷撑起来的？"
-    },
-    {
-     "title": "Anthropic敲响AI泡沫的丧钟？",
-     "link": "https://www.huxiu.com/article/4907557.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 00:11:44 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：Irene Zhou 美东时间11月19日上午，纽约时代广场的纳斯达克大屏亮起“Anthropic”的字样，Claude的开发商正式挂牌，完成史上最大规模的IPO。 比起前来“朝圣”的投资者和科技从业者，场外的“反AI斗士”同样抓人眼球。几十名抗议者以“#StopTechOligarchs”（阻止科技寡头）为口号聚集在纳斯达克大楼外，开盘后堵住交易所入口。 笔者在现场看到，警方多次警告后，至少有5人被带上警车。旧金山的Anthropic总部外当天也有抗议。 他们的诉求有四点：担心AI泡沫破裂后由普通人的养老金买单；反对财富向科技寡头集中；关注数据中心的",
-     "source": "虎嗅",
-     "zh": "Anthropic敲响AI泡沫的丧钟？"
-    },
-    {
-     "title": "无意识欺负自己的4个动作，你可能每天都在重复",
-     "link": "https://www.huxiu.com/article/4907556.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 00:10:58 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《无意识欺负自己的 4 个动作，你可能每天都在重复》 晚上十一点，手机拿在手上，停在一个对话界面。消息已经写好了，但迟迟发不出去。 你把那句话改了四五遍。加一个“哈哈”，又删掉。加一个“麻烦您”，又觉得太生疏。挑来挑去，也找不到一个合适的表情包。 最后，你把消息发出去了，然后盯着屏幕，看对方什么时候回。 三分钟没回复，你就开始想，是不是我这句话说得不合适。 二十分钟没回复，你已经在心里得出了一个结论：他可能觉得我也有点烦。 而真实的情况是，对方可能在洗澡，可能因为什么事没看手机，或者是已经睡觉了。 我要说的",
-     "source": "虎嗅",
-     "zh": "无意识欺负自己的4个动作，你可能每天都在重复"
-    },
-    {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
      "link": "https://www.solidot.org/story?sid=85959",
      "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
      "source": "Solidot",
      "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
-    },
-    {
-     "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
-     "link": "https://www.ithome.com/1/030/717.htm",
-     "pubDate": "Sun, 22 Nov 2026 15:15:55 GMT",
-     "summary": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。 在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍 。不过，这些数据来自基于 7 纳米工艺的模拟设计，Frostbite 尚未真正流片，因此还没有实际芯片可以验证。由于法律方面的原因，",
-     "source": "IT之家",
-     "zh": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍"
     },
     {
      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&apos;s obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
@@ -1991,30 +2015,6 @@
      "summary": "独立第三方的个人养老金产品评价体系，正是破解这个难题、推动个人养老金市场良性发展的关键一环。",
      "source": "钛媒体",
      "zh": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺"
-    },
-    {
-     "title": "银行理财五星管理人评级报告 （2026年10月）",
-     "link": "https://www.tmtpost.com/8214167.html",
-     "pubDate": "Sun, 22 Nov 2026 22:47:16 +0800",
-     "summary": "现金管理类五星理财子为：渝农商理财有限责任公司。本文将详细介绍各类五星理财产品，包括现金管理、固定收益、权益及混合类，帮助您更好地选择适合的投资方案。",
-     "source": "钛媒体",
-     "zh": "银行理财五星管理人评级报告 （2026年10月）"
-    },
-    {
-     "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
-     "link": "https://www.ithome.com/1/030/716.htm",
-     "pubDate": "Sun, 22 Nov 2026 14:45:34 GMT",
-     "summary": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。 该 SBC 板载一颗 \" 8P+4E+4LE \" 的 16 核心 16 线程 CPU ，配备 18MB 的 LLC 缓存，基频 2.0GHz、睿频可达 4.8GHz；搭配最大频率 2.3GHz 的锐炫独显。 IT之家注： \"8P+4E+4LE\" 与此前所有爆料都不符，更可能是 4 个性能核 + 8 个能效核 + 4 个低功耗能效核。 其提供 2 个 C",
-     "source": "IT之家",
-     "zh": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器"
-    },
-    {
-     "title": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8214152.html",
-     "pubDate": "Sun, 22 Nov 2026 22:44:44 +0800",
-     "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。",
-     "source": "钛媒体",
-     "zh": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察"
     }
    ]
   },
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to use AI glasses as a teleprompter",
+     "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+     "pubDate": "Sun, 22 Nov 2026 23:30:00 +0000",
+     "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
+     "source": "Engadget",
+     "zh": "How to use AI glasses as a teleprompter"
+    },
     {
      "title": "The pros and cons of sharing your location",
      "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
@@ -2071,14 +2079,6 @@
      "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
      "source": "Engadget",
      "zh": "Why your monitor flickers when you turn it on and can it be fixed?"
-    },
-    {
-     "title": "The cool phone camera trick that can test your remote control's battery",
-     "link": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
-     "pubDate": "Sun, 22 Nov 2026 21:30:00 +0000",
-     "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
-     "source": "Engadget",
-     "zh": "The cool phone camera trick that can test your remote control's battery"
     },
     {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",

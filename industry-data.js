@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 08:12:01",
+ "generated_at": "2026/11/22 08:19:40",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,12 +1778,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+     "link": "https://www.techmeme.com/261121/p11#a261121p11",
+     "pubDate": "Sat, 21 Nov 2026 19:10:02 -0500",
+     "summary": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &ldquo;zero espionage&rdquo; executive girlfriends &nbsp; &mdash;&nbsp; The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech wo",
+     "source": "Techmeme",
+     "zh": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)"
+    },
+    {
      "title": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了",
      "link": "https://www.huxiu.com/article/4907436.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 07:59:14 +0800",
      "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 Anthropic IPO两天后，数学家、Anthropic员工Levent Alpöge宣布他与Anthropic的Claude AI“合作”证明了黎曼猜想。 黎曼猜想由德国数学家波恩哈德·黎曼于1859年提出，是克雷数学研究所悬赏百万美元的七大难题之一。百年来吸引大量数学家绞尽脑汁尚未得到证明，如今却被AI破了，进一步引发AI发展到了奇点，数学家将被取代的讨论。 但Alpöge拿出的AI“证明”，是一个约1740万行的Lean代码档案，外加一份4页的说明。他在声明的脚注里提到，试着把它改写成人能读的数学文字，篇幅很快就超过了",
      "source": "虎嗅",
      "zh": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了"
+    },
+    {
+     "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
+     "link": "https://www.ithome.com/1/030/523.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:55:50 GMT",
+     "summary": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。 在考试过程中被发现利用智能终端的作弊案例 5 起 ，包括使用智能眼镜（1 起）、使用微型摄像头和无线耳机（1 起）、利用智能手机拍摄考卷（1 起），以及在洗手间使用智能手机（2 起）。 韩国教育部此前通报，截至 19 日 4 时 37 分第四个科目考试结",
+     "source": "IT之家",
+     "zh": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等"
+    },
+    {
+     "title": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz",
+     "link": "https://www.ithome.com/1/030/522.htm",
+     "pubDate": "Sat, 21 Nov 2026 23:48:19 GMT",
+     "summary": "IT之家 11 月 22 日消息，据 TechPowerUp 11 月 22 日报道，OpenBenchmark 测试数据库中出现一颗 28 核英特尔 Nova Lake-S 处理器样品，报告频率为 5.2GHz。 测试记录中的处理器名称为“Intel 0000”，标识包含“NVL”，表明采用该配置的 Nova Lake-S 型号确实存在。该处理器被识别为 Intel 0000，意味着传闻中的四位数命名方案已得到测试记录印证。 IT之家注意到，系统信息列出 28 个 CPU 核心，推测配置为 8 个 P 核、16 个 E 核和 4 个 LPE 核。主板识别为英特尔 Nova Lake-S 参考",
+     "source": "IT之家",
+     "zh": "28 核英特尔 Nova Lake-S 处理器现身测试平台，最高运行频率达 5.2GHz"
     },
     {
      "title": "三星 One UI 9.5 系统测试“灵动岛”风格实时通知",
@@ -1816,22 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影",
      "source": "IT之家",
      "zh": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议..."
-    },
-    {
-     "title": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息",
-     "link": "https://www.ithome.com/1/030/517.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:28:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，开源端到端加密聊天应用 Signal 近日推出 iOS / Android 版更新，默认关闭应用程序内截图功能，以阻止 Siri AI 和 Gemini 等 AI 智能体读取用户私人消息。 Signal 总裁 Meredith Whittaker 表示，系统级 AI 智能体的影响力正不断扩大，这对 Signal 长期建立的隐私机制构成威胁，因为这些智能体可能在用户毫不知情的情况下访问私人对话。 在 Signal 8.37（IT之家注：iOS 27 系统）中， 应用默认启用了“阻止 Siri AI”设置 ，用户无法在 Signal 内截图或录屏。用户可选择关闭该",
-     "source": "IT之家",
-     "zh": "加密聊天应用 Signal 默认屏蔽截图，防止 AI 智能体读取用户消息"
-    },
-    {
-     "title": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航",
-     "link": "https://www.ithome.com/1/030/516.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:22:56 GMT",
-     "summary": "IT之家 11 月 22 日消息，据央视新闻报道，今天（22 日），第二艘国产大型邮轮“爱达 · 花城号”将开启 6 天 5 晚的商业首航，从广州南沙国际邮轮母港驶向中国香港与越南顺化。 “爱达 · 花城号”进度： 2024 年 10 月 25 日，第二艘国产大型邮轮在广州举行命名仪式，正式命名为“爱达 · 花城号”。 2026 年 3 月 20 日，“爱达 · 花城号”完成出坞，转入码头调试。 2026 年 11 月 6 日，在上海正式交付。 其建造周期比首制船缩短了 8 个月，国产化配套率也提高了 5 个百分点。 2026 年 11 月 12 日，顺利完成首个试运营航次，抵达广州南沙国际邮",
-     "source": "IT之家",
-     "zh": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航"
     },
     {
      "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness &nbsp; &mdash;&nbsp; The in-house philosopher on the problem of consciousness and what it might feel li",
      "source": "Techmeme",
      "zh": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)"
-    },
-    {
-     "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-     "link": "https://www.wired.com/review/sony-bravia-9-ii/",
-     "pubDate": "Sat, 21 Nov 2026 11:30:00 +0000",
-     "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-     "source": "WIRED",
-     "zh": "Sony Bravia 9 II Review (2026): Adjustable and Bright"
     }
    ]
   },
@@ -2274,6 +2274,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
      "title": "多家华尔街机构认为市场或处于牛市回调阶段",
      "link": "http://stock.eastmoney.com/news/1407,202611223936865989.html",
      "pubDate": "Sun, 22 Nov 2026 07:25:49 +0800",
@@ -2288,6 +2296,14 @@ window.INDUSTRY_DATA = {
      "summary": "广西日前发文探索“每月一周2.5天弹性休假制度”，引发广泛关注。近年来，越来越多地方鼓励“一周休2.5天”或者“4.5天弹性工作制”。在扩内需背景下，休假时间正在成为促进消费一项重要政策变量。 谈促消费，一般有两个角度：增加居民收入，让大家“有钱花”；丰富商品和服务供给，让大家“有地方花钱”。但还有一个容易被忽视的因素，就是时间。 商品消费在一定周期内有上限，眼下各地更强调服务消费。但比起买衣服、添置家电，看演出、参加体育活动、出去旅游等服务消费，都需要投入相对完整的一段时间。如果工作繁忙、休息时间少或零碎，即便有消费能力和意愿，也未必有条件转化为实际消费。 从这个意义上说，增加休假时间，能有",
      "source": "东方财富股票",
      "zh": "上观时评 | 多地为何鼓励“一周休2.5天”？"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
     },
     {
      "title": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参",
@@ -2338,12 +2354,44 @@ window.INDUSTRY_DATA = {
      "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
     },
     {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
      "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
      "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:23:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
     },
     {
      "title": "Trump to work with Dems to cap credit card interest rates",
@@ -2464,54 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。 （文章来源：深圳商报）",
      "source": "东方财富资讯",
      "zh": "台湾金管会宣布稳定股市措施"
-    },
-    {
-     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
-     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-     "source": "CNBC",
-     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
-    },
-    {
-     "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
-     "link": "https://wallstreetcn.com/articles/3786438",
-     "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
-     "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
-     "source": "华尔街见闻",
-     "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
-    },
-    {
-     "title": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936831113.html",
-     "pubDate": "Sat, 21 Nov 2026 18:20:00 +0800",
-     "summary": "下周解禁市值为115.92亿元。 3只新股下周即将发行 据证券时报·数据宝统计，根据发行安排，下周（11月23日至27日）暂有3只新股申购，下周一（11月23日）可申购 傲拓科技 ，下周三可申购 天广实 ，下周四可申购 猎奇智能 ，下周即将发行新股合计预计募资金额超20亿元。 傲拓科技 发行日期为11月23日，申购代码为787845，拟公开发行A股3775.83万股，其中网上发行906.20万股，发行价格为18.18元，单一账户申购上限为9000股，申购数量为500股的整数倍，顶格申购需持有沪市市值9.00万元。公司2023年至2025年净利润分别为5316.86万元、8919.13万元、1.",
-     "source": "东方财富资讯",
-     "zh": "光模块封测装备细分龙头将发行申购！下周3股解禁比例超40%（附股）"
-    },
-    {
-     "title": "特朗普想要“1月初之前”结束俄乌战争",
-     "link": "https://wallstreetcn.com/articles/3786435",
-     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
-     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
-     "source": "华尔街见闻",
-     "zh": "特朗普想要“1月初之前”结束俄乌战争"
-    },
-    {
-     "title": "“脱欧”十年之后，英国又要“入欧”？",
-     "link": "https://wallstreetcn.com/articles/3786433",
-     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
-     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
-     "source": "华尔街见闻",
-     "zh": "“脱欧”十年之后，英国又要“入欧”？"
-    },
-    {
-     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
-     "link": "https://wallstreetcn.com/articles/3786432",
-     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
-     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
-     "source": "华尔街见闻",
-     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
     }
    ]
   },

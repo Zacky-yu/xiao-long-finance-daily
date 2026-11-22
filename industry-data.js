@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 00:12:08",
+ "generated_at": "2026/11/23 00:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -450,36 +450,12 @@ window.INDUSTRY_DATA = {
      "zh": "CEO Interview with Khaled Alashmouny of AIDAChip"
     },
     {
-     "title": "Penn State unveils new semiconductor research capabilities",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/pennstate-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 18:00:35 GMT",
-     "summary": "Penn State University and the Midwest Microelectronics Consortium (MMEC) have marked the opening of new advanced semiconductor research capabilities at the Millennium Science Complex (MSC) with a ribbon-cutting ceremony, as newly installed equipment begins supporting research designed to move promis",
-     "source": "Semiconductor Today",
-     "zh": "Penn State unveils new semiconductor research capabilities"
-    },
-    {
      "title": "Gartner Warns of Risks Behind Sovereign Tech Claims",
      "link": "https://www.eetimes.com/gartner-warns-of-risks-behind-sovereign-tech-claims/",
      "pubDate": "Thu, 19 Nov 2026 16:30:35 +0000",
      "summary": "Gartner research predicts that digital sovereignty will become a core component of national security strategies globally by 2030. The post Gartner Warns of Risks Behind Sovereign Tech Claims appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Gartner Warns of Risks Behind Sovereign Tech Claims"
-    },
-    {
-     "title": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 11:45:05 GMT",
-     "summary": "Infineon Technologies AG of Munich, Germany is collaborating with power and energy company Shenzhen Megmeet Electrical Co Ltd (which specializes in high-efficiency power solutions for data centers, e-Mobility, healthcare, industrial automation, and renewable energy) to advance 800VDC data-center pow",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures"
-    },
-    {
-     "title": "Riber wins Asian order for MBE 6000 production system",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/riber-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 11:36:22 GMT",
-     "summary": "Molecular beam epitaxy (MBE) system maker Riber S.A. of Bezons, France has received an order for an MBE 6000 production system from an industrial customer in Asia...",
-     "source": "Semiconductor Today",
-     "zh": "Riber wins Asian order for MBE 6000 production system"
     },
     {
      "title": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW",
@@ -496,6 +472,30 @@ window.INDUSTRY_DATA = {
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
     }
    ]
   },
@@ -505,6 +505,30 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/mitsubishi-electric-expands-us-manufacturing-and-technology-investments-to-2-9-billion/107462/",
+     "pubDate": "Sun, 22 Nov 2026 16:28:33 +0000",
+     "summary": "Mitsubishi Electric has outlined more than $2.9 billion in US investments, acquisitions and announced commitments over the past two years, including manufacturing expansions, cybersecurity acquisitions and new artificial intelligence initiatives. The Japanese industrial technology company says its i",
+     "source": "Robotics & Automation",
+     "zh": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion"
+    },
+    {
+     "title": "Genesis AI raises $500 million to scale general-purpose robotics",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/genesis-ai-raises-500-million-to-scale-general-purpose-robotics/107458/",
+     "pubDate": "Sun, 22 Nov 2026 16:19:30 +0000",
+     "summary": "Genesis AI, a robotics company with operations in Paris and California, has raised $500 million in Series A funding at a post-money valuation of $3.5 billion to accelerate development and commercialization of its general-purpose robots. The funding round was co-led by Premji Invest, Khosla Ventures ",
+     "source": "Robotics & Automation",
+     "zh": "Genesis AI raises $500 million to scale general-purpose robotics"
+    },
+    {
+     "title": "BlueBotics unifies fleet management for manual forklifts and mobile robots",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/bluebotics-unifies-fleet-management-for-manual-forklifts-and-mobile-robots/107455/",
+     "pubDate": "Sun, 22 Nov 2026 16:11:13 +0000",
+     "summary": "BlueBotics, a Swiss developer of autonomous navigation and fleet management technology, has updated its ANT locator system to enable companies to manage manual forklifts and autonomous mobile robots through a single platform. The update introduces unified mission dispatch, allowing the company’s ANT",
+     "source": "Robotics & Automation",
+     "zh": "BlueBotics unifies fleet management for manual forklifts and mobile robots"
+    },
     {
      "title": "Remedy Robotics raises $62 million to advance AI-powered cardiovascular surgery robot",
      "link": "https://roboticsandautomationnews.com/2026/11/22/remedy-robotics-raises-62-million-to-advance-ai-powered-cardiovascular-surgery-robot/107450/",
@@ -528,30 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "South Korean mobility platform provider Kakao Mobility has signed a memorandum of understanding with Nvidia to develop Level 4 autonomous driving technology, with initial applications planned for Kia’s purpose-built vehicles (PBVs). The collaboration will combine Kakao Mobility’s proprietary autonom",
      "source": "Robotics & Automation",
      "zh": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology"
-    },
-    {
-     "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/boston-dynamics-gives-atlas-wheels-to-test-new-reinforcement-learning-capabilities/107438/",
-     "pubDate": "Sun, 22 Nov 2026 14:45:10 +0000",
-     "summary": "Boston Dynamics has released a new video showing its Atlas humanoid robot performing a series of unusual maneuvers, including rolling on wheels, sliding sideways and executing a 360-degree jump. The demonstration is part of a research project exploring how reinforcement learning can improve robot mo",
-     "source": "Robotics & Automation",
-     "zh": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities"
-    },
-    {
-     "title": "Machina Labs launches Rebellis automotive brand to bring vehicle customization to scale",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/machina-labs-launches-rebellis-automotive-brand-to-bring-vehicle-customization-to-scale/107433/",
-     "pubDate": "Sun, 22 Nov 2026 14:37:22 +0000",
-     "summary": "Machina Labs, a specialist in AI-powered robotic manufacturing, has launched Machina Rebellis, a new automotive brand designed to make customized vehicle production faster and more economical. Unveiled at the company’s manufacturing facility in Chatsworth, California, Machina Rebellis uses robotics,",
-     "source": "Robotics & Automation",
-     "zh": "Machina Labs launches Rebellis automotive brand to bring vehicle customization to scale"
-    },
-    {
-     "title": "Runway releases Praxis-1 open-weight world action model for robotics",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/runway-releases-praxis-1-open-weight-world-action-model-for-robotics/107430/",
-     "pubDate": "Sun, 22 Nov 2026 14:03:02 +0000",
-     "summary": "Runway, which claims to be “the world’s top rated AI video model”, has released Praxis-1, an open-weight world action model designed to enable robots to learn physical tasks using knowledge acquired from large-scale video training. The company says the model has achieved “leading results” among open",
-     "source": "Robotics & Automation",
-     "zh": "Runway releases Praxis-1 open-weight world action model for robotics"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -1330,12 +1330,12 @@ window.INDUSTRY_DATA = {
      "zh": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy"
     },
     {
-     "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+     "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
      "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
      "summary": "\"What’s not to love? It's bulletproof!\"",
      "source": "Space.com",
-     "zh": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)"
+     "zh": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)"
     },
     {
      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
@@ -1778,10 +1778,42 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "巴西的消费市场，有多少是靠信贷撑起来的？",
+     "link": "https://www.huxiu.com/article/4907558.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 00:18:58 +0800",
+     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月17日，巴西瓦加斯基金会（FGV）公布了一项关于居民消费的研究。 从2023年12月到2026年6月，巴西家庭实际收入每增加100雷亚尔，月度债务偿还支出就增加58.4雷亚尔，其中约一半用于支付利息。 与此同时，巴西的失业率降至5.2%，接近2012年有统计记录以来的最低水平，居民消费增速却从2024年的5.1%降至2025年的1.3%。2026年第二季度，居民消费环比下降0.4%。blogdoibre.fgv.br 在此前的10月27日，巴西央行披露，截至2026年6月，巴西处于高风险负债状态的人数达到2030万，较五年前",
+     "source": "虎嗅",
+     "zh": "巴西的消费市场，有多少是靠信贷撑起来的？"
+    },
+    {
+     "title": "Anthropic敲响AI泡沫的丧钟？",
+     "link": "https://www.huxiu.com/article/4907557.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 00:11:44 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：Irene Zhou 美东时间11月19日上午，纽约时代广场的纳斯达克大屏亮起“Anthropic”的字样，Claude的开发商正式挂牌，完成史上最大规模的IPO。 比起前来“朝圣”的投资者和科技从业者，场外的“反AI斗士”同样抓人眼球。几十名抗议者以“#StopTechOligarchs”（阻止科技寡头）为口号聚集在纳斯达克大楼外，开盘后堵住交易所入口。 笔者在现场看到，警方多次警告后，至少有5人被带上警车。旧金山的Anthropic总部外当天也有抗议。 他们的诉求有四点：担心AI泡沫破裂后由普通人的养老金买单；反对财富向科技寡头集中；关注数据中心的",
+     "source": "虎嗅",
+     "zh": "Anthropic敲响AI泡沫的丧钟？"
+    },
+    {
+     "title": "无意识欺负自己的4个动作，你可能每天都在重复",
+     "link": "https://www.huxiu.com/article/4907556.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 00:10:58 +0800",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，原文标题：《无意识欺负自己的 4 个动作，你可能每天都在重复》 晚上十一点，手机拿在手上，停在一个对话界面。消息已经写好了，但迟迟发不出去。 你把那句话改了四五遍。加一个“哈哈”，又删掉。加一个“麻烦您”，又觉得太生疏。挑来挑去，也找不到一个合适的表情包。 最后，你把消息发出去了，然后盯着屏幕，看对方什么时候回。 三分钟没回复，你就开始想，是不是我这句话说得不合适。 二十分钟没回复，你已经在心里得出了一个结论：他可能觉得我也有点烦。 而真实的情况是，对方可能在洗澡，可能因为什么事没看手机，或者是已经睡觉了。 我要说的",
+     "source": "虎嗅",
+     "zh": "无意识欺负自己的4个动作，你可能每天都在重复"
+    },
+    {
+     "title": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界",
+     "link": "https://www.huxiu.com/article/4907555.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 00:09:09 +0800",
+     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及",
+     "source": "虎嗅",
+     "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
+    },
+    {
      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
      "link": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
      "pubDate": "Sun, 22 Nov 2026 15:54:24 +0000",
-     "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps Comments URL: https://news.ycombinator.com/item?id=50600789 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps Comments URL: https://news.ycombinator.com/item?id=50600789 Points: 22 # Comments: 5",
      "source": "Hacker News",
      "zh": "Norway to extend proposed under-16 social media ban to games and messaging apps"
     },
@@ -1789,23 +1821,23 @@ window.INDUSTRY_DATA = {
      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
      "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 26 # Comments: 4",
      "source": "Hacker News",
      "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
     },
     {
-     "title": "A better internet for everyone is possible. Today",
+     "title": "Open Social Web Alliance",
      "link": "https://osw-alliance.net/en/",
      "pubDate": "Sun, 22 Nov 2026 15:24:32 +0000",
-     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 9 # Comments: 4",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 28 # Comments: 14",
      "source": "Hacker News",
-     "zh": "A better internet for everyone is possible. Today"
+     "zh": "Open Social Web Alliance"
     },
     {
      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
      "pubDate": "Sun, 22 Nov 2026 15:16:02 +0000",
-     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 6 # Comments: 2",
+     "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 11 # Comments: 3",
      "source": "Hacker News",
      "zh": "Backblaze customers worried of personal data sale/sharing after policy update"
     },
@@ -1909,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 69 # Comments: 17",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 88 # Comments: 19",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
     },
@@ -1917,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
      "pubDate": "Sun, 22 Nov 2026 13:37:10 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 46 # Comments: 34",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 62 # Comments: 43",
      "source": "Hacker News",
      "zh": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels"
     },
@@ -1984,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tom Wilson / Financial Times : Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly &nbsp; &mdash;&nbsp; The freezer war is just a start.&nbsp; The year is 2027.&nbsp; You wake up one morning to find y",
      "source": "Techmeme",
      "zh": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)"
-    },
-    {
-     "title": "Banks Have Had It Up to Here With Your AI Agent",
-     "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-     "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
-     "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-     "source": "WIRED",
-     "zh": "Banks Have Had It Up to Here With Your AI Agent"
-    },
-    {
-     "title": "地球捕获了一颗迷你月球",
-     "link": "https://www.solidot.org/story?sid=85957",
-     "pubDate": "Sun, 22 Nov 2026 18:31:07 +0800",
-     "summary": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年 2020 CD3。小行星中心主任 Matthew Payne 表示， 平均而言，在任何给定时刻，地球附近很可能存在类似",
-     "source": "Solidot",
-     "zh": "地球捕获了一颗迷你月球"
-    },
-    {
-     "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
-     "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
-     "pubDate": "Sun, 22 Nov 2026 10:30:00 +0000",
-     "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
-     "source": "WIRED",
-     "zh": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die"
-    },
-    {
-     "title": "丰田尼桑本田同意标准化零部件以降低成本",
-     "link": "https://www.solidot.org/story?sid=85956",
-     "pubDate": "Sun, 22 Nov 2026 18:05:07 +0800",
-     "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
-     "source": "Solidot",
-     "zh": "丰田尼桑本田同意标准化零部件以降低成本"
     }
    ]
   },
@@ -2025,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "4 random apps you might not realize work with Android Auto",
+     "link": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
+     "pubDate": "Sun, 22 Nov 2026 16:15:00 +0000",
+     "summary": "From deciding where to fuel up to joining meetings from your car, there are many convenient apps that work with Android Auto.",
+     "source": "Engadget",
+     "zh": "4 random apps you might not realize work with Android Auto"
+    },
+    {
+     "title": "6 handy ways you can use your old mini PC",
+     "link": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
+     "pubDate": "Sun, 22 Nov 2026 16:00:00 +0000",
+     "summary": "From retro gaming consoles to home media servers, discover six handy ways to repurpose your old mini PC and give the hardware a new lease on life.",
+     "source": "Engadget",
+     "zh": "6 handy ways you can use your old mini PC"
+    },
     {
      "title": "How much storage does Apple Intelligence use on your iPhone?",
      "link": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
@@ -2074,28 +2090,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why you should never vacuum the inside of your computer"
     },
     {
-     "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
-     "link": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
-     "pubDate": "Sun, 22 Nov 2026 14:45:00 +0000",
-     "summary": "As long as it's plugged in, the Xbox Series X never fully turns off, but you can manage how much power it draws.",
-     "source": "Engadget",
-     "zh": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?"
-    },
-    {
      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
      "link": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
      "pubDate": "Sun, 22 Nov 2026 14:43:24 +0000",
      "summary": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. For Black Friday, it’s on sale for 40% off , making it more affordable than ever. more…",
      "source": "9to5Mac",
      "zh": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off"
-    },
-    {
-     "title": "Can you completely remove One UI from a Samsung phone?",
-     "link": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
-     "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
-     "summary": "Samsung's custom software, One UI, gives every phone a similar appearance. Discover how to limit One UI and change the look of your homepage.",
-     "source": "Engadget",
-     "zh": "Can you completely remove One UI from a Samsung phone?"
     },
     {
      "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
@@ -2274,6 +2274,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "自动化系统故障 达美航空全部航班出现延误",
+     "link": "http://finance.eastmoney.com/news/1351,202611233936989733.html",
+     "pubDate": "Mon, 23 Nov 2026 00:18:33 +0800",
+     "summary": "美国联邦航空管理局（FAA）周日通报，因飞机重量-平衡计算系统出现问题， 达美航空 往返亚特兰大的所有航班均遭遇延误。本次航班平均延误约一小时。美国本土飞往亚特兰大的所有达美出港航班，以及从亚特兰大起飞的航班均受影响。本次延误程序仅针对达美一家航司。此次宕机的系统负责核算飞机总重量，包含机身、燃油、乘客及行李重量；同时供飞行员确定飞机重心，判断载荷分布是否均衡，上述数据是保障飞行安全的关键。 达美航空 周日声明表示：“今早自动化系统抢修期间，达美团队正采用人工替代流程保障航班安全起飞，同时持续修复自动化系统。”航司称，正与空管部门协作，缓解亚特兰大枢纽的拥堵。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "自动化系统故障 达美航空全部航班出现延误"
+    },
+    {
+     "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
+     "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+     "pubDate": "Sun, 22 Nov 2026 16:18:09 GMT",
+     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+     "source": "CNBC",
+     "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
+    },
+    {
+     "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+     "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:18:00 GMT",
+     "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+     "source": "MarketWatch",
+     "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
+    },
+    {
+     "title": "美国贸易代表格里尔就加拿大贸易谈判表示 希望确保北美经济受到保护",
+     "link": "http://finance.eastmoney.com/news/1351,202611233936989225.html",
+     "pubDate": "Mon, 23 Nov 2026 00:17:22 +0800",
+     "summary": "美国贸易代表格里尔就加拿大贸易谈判表示，希望确保北美经济受到保护。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国贸易代表格里尔就加拿大贸易谈判表示 希望确保北美经济受到保护"
+    },
+    {
+     "title": "先3连板，再遭3连跌停！广百股份，紧急回应",
+     "link": "http://finance.eastmoney.com/news/1354,202611233936990166.html",
+     "pubDate": "Mon, 23 Nov 2026 00:17:19 +0800",
+     "summary": "在经历了一轮剧烈的股价震荡后，主营 百货 零售的广州本土商业企业 广百股份 （SZ002187，股价5.90元，市值41.35亿元）披露了最新的股票交易异常波动公告。公告显示，公司股票在2026年11月18日至20日连续三个交易日跌停，收盘价格跌幅偏离值累计超过20%，触发交易异常波动标准。 面对股价剧烈起伏， 广百股份 迅速展开自查并向控股股东、实际控制人书面核实。核实结果显示，公司目前经营情况正常，内外部经营环境未发生重大变化，确认不存在应披露而未披露的重大事项或筹划中的重要协议。 在此次快速下挫前， 广百股份 曾走出连续涨停行情。今年以来，公司二级市场走势跌宕起伏，期间穿插了三季报的披露",
+     "source": "东方财富股票",
+     "zh": "先3连板，再遭3连跌停！广百股份，紧急回应"
+    },
+    {
+     "title": "市场资讯：从美国本土各地飞往亚特兰大的达美航空航班均受影响",
+     "link": "http://finance.eastmoney.com/news/1351,202611233936989543.html",
+     "pubDate": "Mon, 23 Nov 2026 00:15:06 +0800",
+     "summary": "市场资讯：从美国本土各地飞往亚特兰大的 达美航空 航班均受影响。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场资讯：从美国本土各地飞往亚特兰大的达美航空航班均受影响"
+    },
+    {
+     "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+     "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:15:00 GMT",
+     "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+     "source": "MarketWatch",
+     "zh": "‘Never too late to start’: Practical investing advice from some of the top women in finance"
+    },
+    {
+     "title": "据Axios：美国官员表示 政府机构和企业正加快更新其软件系统 这将导致故障不可避免",
+     "link": "http://finance.eastmoney.com/news/1351,202611233936989420.html",
+     "pubDate": "Mon, 23 Nov 2026 00:14:21 +0800",
+     "summary": "据Axios：美国官员表示，政府机构和企业正加快更新其软件系统，这将导致故障不可避免。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "据Axios：美国官员表示 政府机构和企业正加快更新其软件系统 这将导致故障不可避免"
+    },
+    {
+     "title": "Axios：美国官员称针对美企和基础设施的网络攻击未来18个月将持续 2027年或成常态",
+     "link": "http://finance.eastmoney.com/news/1351,202611233936989336.html",
+     "pubDate": "Mon, 23 Nov 2026 00:14:17 +0800",
+     "summary": "据Axios：美国官员表示，针对美国企业和基础设施的网络攻击将在未来18个月内持续，网络攻击和公共服务中断将在2027年成为常态。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "Axios：美国官员称针对美企和基础设施的网络攻击未来18个月将持续 2027年或成常态"
+    },
+    {
+     "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+     "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:10:00 GMT",
+     "summary": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+     "source": "MarketWatch",
+     "zh": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?"
+    },
+    {
      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
      "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 16:04:00 GMT",
@@ -2282,60 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "America is definitely rich enough to fix Social Security and Medicare. Here’s how."
     },
     {
-     "title": "华尔街策略师Yardeni再次下调标普500目标 但认为熊市不太可能出现",
-     "link": "http://stock.eastmoney.com/news/1440,202611223936987727.html",
-     "pubDate": "Sun, 22 Nov 2026 23:58:21 +0800",
-     "summary": "在股市遭遇猛烈抛售、推动标普500指数进入技术性回调后，华尔街策略师Ed Yardeni在大约两个月内第二次下调该指数的年末目标。他预计，该指数2026年将收于7,500点，低于他9月份下调后的7,900点目标。即便如此，这仍意味着较上周五收盘水平反弹超过8%。他说，该指数不太可能跌入熊市，因为不存在经济即将陷入下滑的威胁。这位策略师仍然看好明年的前景。Yardeni预计，标普500指数到2027年底将在8,500点至9,000点之间，意味着较当前水平上涨高达30%左右。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "华尔街策略师Yardeni再次下调标普500目标 但认为熊市不太可能出现"
-    },
-    {
-     "title": "伊朗海军：船东和运营方若无视海上管控规定 须对由此造成的一切损失承担责任",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936986991.html",
-     "pubDate": "Sun, 22 Nov 2026 23:56:56 +0800",
-     "summary": "伊朗海军：船东和运营方若无视海上管控规定，须对由此造成的一切损失承担责任。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗海军：船东和运营方若无视海上管控规定 须对由此造成的一切损失承担责任"
-    },
-    {
      "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",
      "link": "https://seekingalpha.com/news/4675408-dni-clayton-says-u-s-probing-alleged-chinese-spy-alice-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 10:53:57 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang."
-    },
-    {
-     "title": "美国众议院民主党领袖杰弗里斯：医疗保健是民主党可能与特朗普合作的领域之一",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936986745.html",
-     "pubDate": "Sun, 22 Nov 2026 23:53:25 +0800",
-     "summary": "美国众议院民主党领袖杰弗里斯：医疗保健是民主党可能与特朗普合作的领域之一。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国众议院民主党领袖杰弗里斯：医疗保健是民主党可能与特朗普合作的领域之一"
-    },
-    {
-     "title": "伊朗海军：两艘违规油轮在霍尔木兹海峡东部触雷起火",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936986678.html",
-     "pubDate": "Sun, 22 Nov 2026 23:53:21 +0800",
-     "summary": "伊朗海军公共关系部门表示：今天上午，两艘油轮无视此前发出的警告，在关闭识别和导航系统的情况下驶入霍尔木兹海峡东部禁航区域，随后触碰海雷并起火。对于无视警告、关闭导航系统并在禁航区域内航行的船只，其所有者、运营方及操控人员将对油轮遭受的后果和损失承担直接责任。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗海军：两艘违规油轮在霍尔木兹海峡东部触雷起火"
-    },
-    {
-     "title": "美国提醒驻巴林人员警惕伊朗及胡塞武装袭击威胁",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936986359.html",
-     "pubDate": "Sun, 22 Nov 2026 23:51:02 +0800",
-     "summary": "美国国务院领事事务局发布公告称：鉴于伊朗支持的胡塞武装发动武装袭击的威胁上升，以及伊朗试图将该地区的美国政府官员和设施作为袭击目标，美国驻巴林人员应提高警惕。请留意可能发布的安全警报、航班取消、领空关闭及旅行中断等情况。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国提醒驻巴林人员警惕伊朗及胡塞武装袭击威胁"
-    },
-    {
-     "title": "伊朗海军：两艘油轮无视此前警告 并关闭识别与导航系统",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936986243.html",
-     "pubDate": "Sun, 22 Nov 2026 23:50:01 +0800",
-     "summary": "伊朗海军：两艘油轮无视此前警告，并关闭识别与导航系统。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗海军：两艘油轮无视此前警告 并关闭识别与导航系统"
     },
     {
      "title": "Global equities suffer weekly losses amid AI rout, inflation worries",
@@ -2450,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
     },
     {
-     "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-     "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 12:30:00 GMT",
-     "summary": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
-     "source": "MarketWatch",
-     "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
-    },
-    {
      "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
      "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
      "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
@@ -2488,30 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "沪深两市多家上市公司11月22日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金科股份 ：因涉嫌信息披露违法违规，控股股东及合伙人遭证监会立案 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉嫌信息披露违法违规，收到证监会立案告知书；其合伙人北京天娇绿苑 房地产开发 有限公司亦被立案。公司表示，本次立案不涉及上市公司，生产经营正常，将配合调查并履行信披义务。 启迪设计 ：股票将被实施其他风险警示，11月23日停牌一天 启迪设计 公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并",
      "source": "东方财富资讯",
      "zh": "11月22日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
-     "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-     "pubDate": "Sun, 22 Nov 2026 11:00:05 GMT",
-     "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
-     "source": "Financial Times",
-     "zh": "Did Anthropic and its bankers get a key call wrong after IPO?"
-    },
-    {
-     "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
-     "link": "https://wallstreetcn.com/articles/3786460",
-     "pubDate": "Sun, 22 Nov 2026 18:52:10 +0800",
-     "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
-     "source": "华尔街见闻",
-     "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
-    },
-    {
-     "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
-     "link": "https://wallstreetcn.com/articles/3786459",
-     "pubDate": "Sun, 22 Nov 2026 17:36:56 +0800",
-     "summary": "韩国政府宣布启动股市稳定基金激活准备工作，并同步出台多项市场稳定措施，这是2008年全球金融危机以来该基金第三次面临实际动用的可能。此举背景是全球AI产业情绪持续恶化，韩国股市遭受重挫。 韩国副总理兼财政部长Lee Hyoung-il于22日主持召开金融市场紧急会议（F4会议），宣布上述措施。会议决定， 政府将立即启动股市稳定基金（증안펀드）激活机制的准备工作，视市场情况随时部署。与此同时，上市公司自股回购每日申报量上限将自24日起放宽三个月，并同步启动为期三个月的非法卖空专项监控期。 上述措施出台的直接导火索，是KOSPI指数20日单日暴跌逾5%，美国纳斯达克指数同日下挫5.28%。与会官员",
-     "source": "华尔街见闻",
-     "zh": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月"
     }
    ]
   },

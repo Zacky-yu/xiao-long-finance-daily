@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 10:31:53",
+ "generated_at": "2026/11/22 10:51:48",
  "recent_days": 7,
  "industries": [
   {
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:19:18 +0000",
      "summary": "The Fangchengbao Tai 9 has a foldable steering wheel that can hide itself away to make the car more comfortable when parked.",
      "source": "InsideEVs",
-     "zh": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It"
+     "zh": "比亚迪最新SUV可以在不需要时隐藏方向盘"
     },
     {
      "title": "What We Both Thought After Driving The Rivian R2",
@@ -879,7 +879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 18:00:00 -0600",
      "summary": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In i",
      "source": "OilPrice",
-     "zh": "AI Boom Forces Massive Investment in Power Grids Worldwide"
+     "zh": "人工智能热潮迫使全球电网大规模投资"
     },
     {
      "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
@@ -1255,7 +1255,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 15:31:58 +0000",
      "summary": "An experimental antibody-drug conjugate from Merck has succeeded in another Phase 3 cancer study, potentially helping offset Keytruda's looming patent cliff. Merck said Friday morning that a pivotal trial testing sacituzumab ...",
      "source": "Endpoints News",
-     "zh": "Merck gets another Phase 3 win for sac-TMT, this time in gastric cancer"
+     "zh": "默克公司在 sac-TMT 的 3 期临床试验中再次获胜，这次是在胃癌领域"
     },
     {
      "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
@@ -1343,7 +1343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 15:15:26 +0000",
      "summary": "On Episode 237 of This Week In Space, Tariq Malik and Rod Pyle sign off — temporarily — with a look at space news, a bushel of space jokes, and a recap of some of our funniest moments.",
      "source": "Space.com",
-     "zh": "This Week In Space podcast: Episode 237 — A Fond Farewell"
+     "zh": "本周太空播客：第 237 集 — 深情告别"
     },
     {
      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
@@ -1431,7 +1431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
      "summary": "Atomic-6 built Space Armor to shield satellites from debris too small to track. Now, it's exploring whether the same tiles could protect astronauts on spacewalks. The post Atomic-6 Wants to Shield Astronauts Against Untrackable Debris appeared first on Payload .",
      "source": "Payload",
-     "zh": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris"
+     "zh": "Atomic-6 希望保护宇航员免受无法追踪的碎片的影响"
     },
     {
      "title": "RBC Signals Raises $10M to Commercialize New Comms Tech",
@@ -1471,7 +1471,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
      "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+     "zh": "Relativity 测试了 Terran R 第二阶段，在首次发射前完成了结构资格认证"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1615,7 +1615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "President Trump Taps Kirsten Davies as National Cyber Director"
+     "zh": "特朗普总统任命克尔斯滕·戴维斯为国家网络总监"
     },
     {
      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
@@ -1786,12 +1786,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”",
+     "link": "https://www.ithome.com/1/030/550.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:39:52 GMT",
+     "summary": "IT之家 11 月 22 日消息，长城汽车旗下坦克 SUV 官方微博今日宣布， 品牌首支单曲《百万分之一》将于 11 月 25 日“唱响” 。 据IT之家此前报道，本月初，长城汽车宣布，坦克品牌全球销量 100 万辆。公开信息显示，2020 年 7 月，长城汽车在成都车展上正式发布了“坦克 · WEY”平台，并亮相了该平台首款车型 —— WEY 坦克 300。 随后，在 11 月 20 日， 坦克品牌第 1,000,000 台量产车下线 。 延伸阅读 据官方介绍，此次下线的第 100 万辆里程碑车型为品牌旗舰坦克 700。作为品牌旗舰，坦克 700 集坦克在动力、底盘、智能科技及豪华体验等领域",
+     "source": "IT之家",
+     "zh": "品牌全球销量破百万：长城坦克首支单曲《百万分之一》定档 11 月 25 日“唱响”"
+    },
+    {
+     "title": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键",
+     "link": "https://www.ithome.com/1/030/548.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:33:08 GMT",
+     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 该机与华为 Pura X View 一样，搭载了麒麟 9030S 处理器。关于为何选用这枚芯片，刘赫给出了三大理由，并透露星芒和当年荣耀 Magic 的思路有异曲同工之处。 确实和 Magic 的思路有异曲同工之处！选 9030S 有原因的， 第一这个平台在 NPU ",
+     "source": "IT之家",
+     "zh": "OSTA O1 Pro 为何搭载麒麟 9030S？华为星芒刘赫总结三大原因，价格考虑也是关键"
+    },
+    {
+     "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+     "link": "https://www.ithome.com/1/030/547.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:31:50 GMT",
+     "summary": "IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行 。（IT 之家注：Lean 是交互式定理证明器，可逐行机械核验数学推理是否符合逻辑公理。） 声明由 Lean 与 Mathlib 社区联合发布，并获 Lean FRO 与 Mathlib Initiative 背书。声明称，阿尔波格的库仅直接依赖 Mathlib；过去一天内，Lean 与 Mathlib 社区已参与验证。 声明列出四项核验标准，并称这几项标准均已",
+     "source": "IT之家",
+     "zh": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确"
+    },
+    {
+     "title": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？",
+     "link": "https://www.baijing.cn/question/638884",
+     "pubDate": "Sun, 22 Nov 2026 02:28:13 +0000",
+     "summary": "我们做印尼站美妆个护直播，起量中，5人小团队，月GMV大概8万美元，佣金按达人带货走。现在最头疼的是回款：平台佣金结算到账大约T+14到T+21，但物流端J&T和SiCepat的签收时效波动很大，雅加达市区2-3天、外岛能拖到7-10天，导致订单签收确认和佣金可结算时间对不上，财务每月要对两套时间轴。已经试过用后台的结算报表和物流轨迹手工比对，但订单量大时差几十单就对不齐，卡在签收异常件和退货退款的佣金冲回上。想问的是：这种签收时效和佣金回款周期错配，你们是按物流签收日还是平台结算日做收入确认和现金流预测的？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 印尼直播带货佣金结算要等多久？回款周期和物流签收时效怎么对账？"
+    },
+    {
      "title": "贬值世代",
      "link": "https://www.huxiu.com/article/4907424.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 10:28:00 +0800",
-     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：“奇点已至”、“AI又破解了哪道数学难题？”、“AI又取代了哪个学科？” 人文社科类媒体会写：“只属于理工科天才的时代正抛下我们向前狂奔”、“AI公司实习生日薪顶我一个月工资，应届生年薪千万”、“丈母娘看好AI行业的女婿”、“被投资机构关",
+     "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干，头图来自：AI生成 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过&hellip;&hellip; 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写：&ldquo;奇点已至&rdquo;、&ldquo;AI又破解了哪道数学难题？&rdquo;、&ldquo;AI又取代了哪个学科？&rdquo; 人文社科类媒体会写：&ldquo;只属于理工",
      "source": "虎嗅",
      "zh": "贬值世代"
+    },
+    {
+     "title": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球",
+     "link": "https://www.ithome.com/1/030/546.htm",
+     "pubDate": "Sun, 22 Nov 2026 02:25:08 GMT",
+     "summary": "IT之家 11 月 22 日消息，据游戏媒体 IGN 今天报道，部分玩家近期报告称，他们在 PS5 平台游玩《GTA6》游戏时频繁遇到崩溃现象，系统只显示 CE-108255-1 错误代码。部分用户甚至无法继续推进剧情，找客服时索尼和 Rockstar 只会互相踢皮球。 IT之家从原报道了解到，目前玩家们收集到最多的错误代码是 CE-108255-1。根据索尼官方的定义，该错误仅表示“游戏或应用程序发生错误”。 尽管大多数玩家没有遇到这个问题，但受影响的用户似乎没有找到有效解决方法。更麻烦的是，有玩家还遇到了频繁崩溃现象，而且触发崩溃的原因还无法定位。PS5、PS5 Pro 玩家均报告了类似问",
+     "source": "IT之家",
+     "zh": "部分 PS5 玩家反馈《GTA6》游戏频繁崩溃：显示 CE-108255-1 错误，索尼和 R 星客服互相踢皮球"
+    },
+    {
+     "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+     "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+     "pubDate": "Sun, 22 Nov 2026 02:14:14 +0000",
+     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention"
     },
     {
      "title": "AI智能体为何会在相互聊天中自创语言",
@@ -1834,22 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "Linux 7.4 内核将支持并行删除 NVMe 命名空间，提升处理速度"
     },
     {
-     "title": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开",
-     "link": "https://www.ithome.com/1/030/543.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:54:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，奕境汽车品牌总经理曾清林昨日发文，回应了“汽车博主直播喊话车企拆车”这一话题。他表示，奕境公开拆车会落实，时间和方式定了会第一时间公开。 刚刷到这个话题，了解了一下来龙去脉、详细翻看了各平台的大量评论。非常感谢网友对奕境的关心、以及用户朋友们对奕境的信任。你们的呼声我们看到了。 事发突然，尤其奕境 X9 纯电版下周即将上市。我们担心回应会分散了新车的注意力，我们不回应又怕辜负了大家的信任。 总之，网友们期待的奕境公开拆车，我们会落实的，时间和方式定了我第一时间告诉大家 。 据IT之家此前报道，奕境 X9 纯电版旗舰 SUV 已定档 11 月 27 日上市，确认",
-     "source": "IT之家",
-     "zh": "奕境曾清林回应“汽车博主直播喊话车企拆车”话题：会落实，时间和方式定了第一时间公开"
-    },
-    {
-     "title": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配",
-     "link": "https://www.ithome.com/1/030/541.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:47:42 GMT",
-     "summary": "IT之家 11 月 22 日消息，据多位用户反馈，网易 UU 远程鸿蒙版 App 已开启邀请测试（手机 / 平板原生适配），获得资格的用户可在收到短信后点击对应链接跳转至华为应用市场 App Gallery 下载使用。 测试说明显示，本次测试为 UU 远程 HarmonyOS 版本的用户体验测试，面向 HarmonyOS 手机及平板用户，主要验证应用在真实设备和网络环境下的功能可用性、连接稳定性及交互体验。 IT之家附测试内容如下： 1.登录、退出登录、账号信息及基础设置； 2.首页设备列表、设备刷新、设备详情、设备管理及设备重命名； 3.对已安装 UU 远程且在线的设备发起远程控制，体验连接",
-     "source": "IT之家",
-     "zh": "网易 UU 远程鸿蒙版 App（移动端）邀测开启，手机 / 平板原生适配"
-    },
-    {
      "title": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？",
      "link": "https://www.baijing.cn/question/638882",
      "pubDate": "Sun, 22 Nov 2026 01:43:47 +0000",
@@ -1858,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "印度短剧 App 广告变现回款要 60 天，这现金流怎么扛？"
     },
     {
-     "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
-     "link": "https://www.ithome.com/1/030/540.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:42:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“官方真题”“内部题库”“原题还原”等名义提供、销售或 用于训练、测评人工智能大模型的内容 ，均非中心提供。 声明还称， 中心从未与任何人工智能大模型企业、平台或相关机构建立合作关系 ；未授权任何主体使用中心名称、简称、标识、考试数据及考试资",
-     "source": "IT之家",
-     "zh": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评"
-    },
-    {
      "title": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元",
      "link": "https://www.huxiu.com/article/4907442.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 09:40:30 +0800",
      "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟。它们不能像宇树那样，在春晚上表演个后空翻就能轻易获得认可，反而需要更费力的商业化验证，才能获得谨慎市场的更多买单。 在这些大佬之外，是更多散落在产业末梢、如星点般入局的普通人。比如人形机器人租赁商，他们很多都是创业者，本想赶上一波风口，赚",
      "source": "虎嗅",
      "zh": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元"
-    },
-    {
-     "title": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售",
-     "link": "https://www.ithome.com/1/030/539.htm",
-     "pubDate": "Sun, 22 Nov 2026 01:37:52 GMT",
-     "summary": "IT之家 11 月 22 日消息，岚图汽车官方今日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售 。 目前，岚图汽车官方暂未公布 2027 款泰山更多配置信息，IT之家将持续关注，并在第一时间带来最新情报。作为参考，现款岚图泰山已于去年 11 月 18 日上市，共推出四个版本， 售价 37.99 万-50.99 万元 。该车主要配置信息如下： 中国首发三腔空气悬架：110mm 调节行程、100 次 / 秒道路预瞄智能调节阻尼、4 档刚度调节、5 档高度调节 华为乾崑智驾 ADS 4：华为乾崑智驾 ADS 4 四激光方案、分布式 4D 毫米",
-     "source": "IT之家",
-     "zh": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售"
     },
     {
      "title": "美元基金回来了",
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
      "link": "https://github.com/ItsNotRexed/Leonida",
      "pubDate": "Sun, 22 Nov 2026 00:57:26 +0000",
-     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "Leonida – PC Recompilation of the Xbox Version of GTA 6"
     },
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Sandwich Simulator",
      "link": "https://stulle.app/",
      "pubDate": "Sun, 22 Nov 2026 00:07:59 +0000",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 29 # Comments: 15",
+     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 37 # Comments: 15",
      "source": "Hacker News",
      "zh": "Sandwich Simulator"
     },
@@ -1997,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 66 # Comments: 7",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 71 # Comments: 7",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -2005,25 +2021,9 @@ window.INDUSTRY_DATA = {
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 99 # Comments: 16",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 102 # Comments: 18",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
-    },
-    {
-     "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-     "link": "https://tasklet.ai/careers",
-     "pubDate": "Sat, 21 Nov 2026 21:11:08 +0000",
-     "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers"
-    },
-    {
-     "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-     "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-     "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 32 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak",
+     "link": "https://www.gsmarena.com/vivo_y21s_5g_y11s_5g_y05s_4g_specs_and_images_leak-news-75584.php",
+     "pubDate": "Sun, 22 Nov 2026 03:33:02 +0100",
+     "summary": "Vivo will apparently be flushing out its budget lineup in India soon with at least three new devices. These are not particularly exciting in any meaningful way, but might just offer a good value proposition. There are some clear similarities between the three. All of them are built around a 6.74-inc",
+     "source": "GSMArena",
+     "zh": "vivo Y21s 5G, Y11s 5G, Y05s 4G specs and images leak"
+    },
     {
      "title": "从深圳到上海，少数派的共创故事还在继续",
      "link": "https://sspai.com/post/119318",
@@ -2151,7 +2159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 20:07:02 +0100",
      "summary": "Samsung’s strategy for the mid-range segment in the US left us scratching our heads – the Galaxy A57 launched at $550 for an 8/128GB unit, which later grew to $600 after a round of price hikes. That’s too much, why wouldn’t you just buy a Galaxy S25 FE instead? One reason is that availability was st",
      "source": "GSMArena",
-     "zh": "Deal: the Samsung Galaxy S26 FE finally drops to the right price during Amazon's Black Friday sale"
+     "zh": "促销：三星 Galaxy S26 FE 在亚马逊黑色星期五促销期间终于降至合适的价格"
     },
     {
      "title": "How Google Workspace with Gemini powers small businesses – get 20% off your first 6 months",
@@ -2167,7 +2175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be ",
      "source": "9to5Google",
-     "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
+     "zh": "Galaxy Z Fold 8 功能：您可以在可折叠设备上做什么"
     },
     {
      "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
@@ -2223,7 +2231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 11:57:20 +0000",
      "summary": "Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.",
      "source": "Android Authority",
-     "zh": "Heads up! Galaxy Watch 7 is 40% off for Black Friday"
+     "zh": "小心！ Galaxy Watch 7 黑色星期五 40% 折扣"
     },
     {
      "title": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale",
@@ -2231,7 +2239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:01:02 +0100",
      "summary": "Earlier this month, the Samsung Galaxy Z Fold8 Ultra dropped to £1,600 for the base 12/256GB model. During the week of Black Friday sales on Amazon UK, that same unit will cost you £100 less – and there are more perks to consider. Samsung Galaxy Z Fold8 Ultra We’re looking at a £400 discount compare",
      "source": "GSMArena",
-     "zh": "Deal: the Samsung Galaxy Z Fold8 Ultra is up to £555 off for Amazon UK's Black Friday sale"
+     "zh": "特惠：三星 Galaxy Z Fold8 Ultra 亚马逊英国黑色星期五促销最高立减 555 英镑"
     },
     {
      "title": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Get big discounts on some of the best weatherproof 4K TVs for patios, pools, and decks.",
      "source": "Android Authority",
      "zh": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming"
-    },
-    {
-     "title": "Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn't far behind",
-     "link": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php",
-     "pubDate": "Sat, 21 Nov 2026 09:02:02 +0100",
-     "summary": "Honor has been pushing smartphone battery capacities higher and higher, and earlier this month we heard that its 14,000 to 15,000 mAh battery has entered trial production. Now, the same tipster, Digital Chat Station, says the company has a new X-series phone coming before the Chinese New Year, which",
-     "source": "GSMArena",
-     "zh": "Honor reportedly has a 13,500 mAh phone coming, and the Power3 isn't far behind"
     },
     {
      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
@@ -2271,7 +2271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 02:45:00 +0000",
      "summary": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
      "source": "9to5Google",
-     "zh": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]"
+     "zh": "三星可能很快会复制 iPhone 的动态岛，但实际上看起来不错 [视频]"
     }
    ]
   },
@@ -2282,12 +2282,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "上市公司“不爱”理财了",
-     "link": "http://www.eeo.com.cn/2026/1122/1099624.shtml",
-     "pubDate": "Sun, 22 Nov 2026 10:06:00 +0800",
-     "summary": "吴超发现，今年以来，上市公司越来越不爱理财了。过去一个月，吴超采取多项举措吸引上市公司加码理财投资，但这些上市公司财务总监明确告知他，在自筹资金与自有资金持续减少的趋势下，未来他们的理财规模大概率“不增反降”。",
-     "source": "经济观察网",
-     "zh": "上市公司“不爱”理财了"
+     "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
+     "link": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 21:30:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month"
+    },
+    {
+     "title": "突然全线拉升！美伊局势传来利好消息",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936874637.html",
+     "pubDate": "Sun, 22 Nov 2026 10:14:00 +0800",
+     "summary": "美伊局势传出利好信号，风险资产迎来反弹！ 北京时间22日上午，美股AI硬科技股在暗盘市场集体走高。截至发稿， 英伟达 暗盘涨超0.70%； SK海力士 、 英特尔 、 闪迪 暗盘涨超1%； 美光科技 、 博通 、 迈威尔科技 暗盘涨超0.60%； 康宁 、 希捷科技 暗盘涨超0.40%。 加密货币市场也普遍反弹。24小时内，比特币涨超2%，价格重新站上6万美元；以太坊涨超3%；Solana、XRP、BNB等涨超2%。 市场分析人士指出，中东局势出现缓和信号，对市场构成利好，投资者风险偏好随之回升。 据新华社报道，美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永",
+     "source": "东方财富资讯",
+     "zh": "突然全线拉升！美伊局势传来利好消息"
     },
     {
      "title": "脑机接口报告：全球企业增至1175家 中国三大城市群集聚190余家",
@@ -2304,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "据商务部网站11月22日消息，商务部新闻发言人就美国联邦 通信 委员会拟禁止 中国电信 运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦 通信 委员会（FCC）投票通过有关规则，拟禁止 中国电信 、 中国联通 、 中国移动 等被列入“覆盖清单”的 电信运营商 直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦 通信 委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压 中国电信 企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违",
      "source": "东方财富股票",
      "zh": "美国拟禁止中国电信、中国联通、中国移动等直接获取美国互联网电话号码资源，中方：坚决反对，敦促美方立即撤销有关措施"
-    },
-    {
-     "title": "阿里20吉瓦目标松动，AI投入与回报赛跑",
-     "link": "http://www.eeo.com.cn/2026/1122/1099596.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:50:19 +0800",
-     "summary": "吴泳铭预计，下一财年，阿里云收入增速预计落在30%至45%区间；到2028自然年，云收入增速将重回50%以上。",
-     "source": "经济观察网",
-     "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
     },
     {
      "title": "美拟禁止中国电信运营商直接获取美互联网电话号码资源，商务部回应",
@@ -2354,36 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "知易生物赴港IPO被要求补充说明股权代持形成原因、报告期内董事高管变化情况等"
     },
     {
-     "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
-     "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
-     "summary": "当妈后，要做情绪稳定的妈妈没错，但妈妈不是没有情绪，允许自己有情绪，适当表达情绪，才不会因为一件小事爆发。",
-     "source": "经济观察网",
-     "zh": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题"
-    },
-    {
-     "title": "为鸟而生，斯温侯在中国（下）",
-     "link": "http://www.eeo.com.cn/2026/1122/1099569.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:27:05 +0800",
-     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
-     "source": "经济观察网",
-     "zh": "为鸟而生，斯温侯在中国（下）"
-    },
-    {
      "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
      "link": "https://wallstreetcn.com/articles/3786442",
      "pubDate": "Sun, 22 Nov 2026 09:25:46 +0800",
      "summary": "史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯达克市值蒸发4万亿美元。市场动荡也波及Anthropic的主要竞争对手OpenAI——后者正推进新一轮估值达1.25万亿美元的巨额融资，并急于在明年登陆公开市场。 不过，接近Anthropic及主承销商的人士坚称此次IPO依然成功，强调公司",
      "source": "华尔街见闻",
      "zh": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力"
-    },
-    {
-     "title": "美股两次暴跌，资本在重估什么",
-     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
-     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
-     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
-     "source": "经济观察网",
-     "zh": "美股两次暴跌，资本在重估什么"
     },
     {
      "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源 商务部回应",
@@ -2399,7 +2375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
      "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+     "zh": "我丈夫 64 岁高龄退休，很高兴，他认为我应该继续工作。他公平吗？"
     },
     {
      "title": "云南农商银行获批筹建，123家涉改机构将归入同一法人",
@@ -2442,20 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责"
     },
     {
-     "title": "为鸟而生，斯温侯在中国（上）",
-     "link": "http://www.eeo.com.cn/2026/1122/1099527.shtml",
-     "pubDate": "Sun, 22 Nov 2026 08:37:43 +0800",
-     "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
-     "source": "经济观察网",
-     "zh": "为鸟而生，斯温侯在中国（上）"
-    },
-    {
      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
      "summary": "“Hotel rooms can cost as much as $400 per night.”",
      "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+     "zh": "我的妻子正在资助她的家人去纽约旅行，这耗尽了我们的积蓄。我应该叫她停下来吗？"
     },
     {
      "title": "微导纳米、奥比中光火了！机构关注芯片等硬科技赛道",
@@ -2474,20 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "恐慌还是机会？“China-Haul”爆火 读懂背后的投资逻辑！"
     },
     {
-     "title": "晕了晕了！近1900亿元资金进场抄底宽基ETF 行业主题ETF却遭遇资金抛售",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936867268.html",
-     "pubDate": "Sun, 22 Nov 2026 07:47:17 +0800",
-     "summary": "本周主要股指集体调整，沪深两市股票型ETF和跨境型ETF合计净流入1941.71亿元。 行业主题上看， 半导体 设备相关ETF被资金看好，而 黄金 、证券相关ETF被资金抛售。 近2000亿元资金借道ETF进场 本周沪深两市成交7.04万亿元，其中沪市成交3.39万亿元，深市成交3.65万亿元。截至最新收盘，沪指报收于3533.79点，全周下跌2.77%，深证成指报收于10256.39点，全周下跌6.49%。 数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入1941.71亿元，宽基指数ETF净流入1896亿元，行业主题ETF净流出12.85亿元。 细分来看，主要宽基指数整体资金申赎统",
-     "source": "东方财富资讯",
-     "zh": "晕了晕了！近1900亿元资金进场抄底宽基ETF 行业主题ETF却遭遇资金抛售"
-    },
-    {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+     "zh": "我40多岁了。我是否应该接受较低的养老金以换取将我的丈夫或孩子指定为受益人？"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2503,7 +2463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
      "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+     "zh": "“这真是太脏了”：我哥哥搬去和生病的母亲住在一起，并关闭了她的银行账户。我能做些什么？"
     },
     {
      "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
@@ -2520,6 +2480,46 @@ window.INDUSTRY_DATA = {
      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
      "source": "MarketWatch",
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+     "source": "MarketWatch",
+     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
+    },
+    {
+     "title": "Trump to work with Dems to cap credit card interest rates",
+     "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:34:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "特朗普将与民主党合作限制信用卡利率"
+    },
+    {
+     "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+     "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 13:04:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT"
+    },
+    {
+     "title": "Tesla to launch FSD 15 next month, Elon Musk says",
+     "link": "https://seekingalpha.com/news/4675395-tesla-launch-fsd-15-next-month-elon-musk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 12:23:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tesla to launch FSD 15 next month, Elon Musk says"
+    },
+    {
+     "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+     "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 17:21:36 GMT",
+     "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+     "source": "Financial Times",
+     "zh": "亚马逊完成 75 亿美元收购人工智能初创公司 Decart 的交易"
     }
    ]
   },
@@ -2551,7 +2551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 10:09:46 EST",
      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
      "source": "ScienceDaily",
-     "zh": "Time may be far stranger than we realize. Scientists have a way to test it"
+     "zh": "时间可能比我们想象的要陌生得多。科学家有办法测试一下"
     },
     {
      "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
@@ -2559,7 +2559,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
      "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
      "source": "Live Science",
-     "zh": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)"
+     "zh": "2026 年冬季观星：今年冬季最佳观星景点（以及如何观看）"
     },
     {
      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
@@ -2615,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
      "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
      "source": "Science News",
-     "zh": "How do scientists learn from failure? This researcher has clues"
+     "zh": "科学家如何从失败中学习？这位研究人员有线索"
     },
     {
      "title": "How do tumors talk to nerves? This scientist is finding out",
@@ -2639,7 +2639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 21 Nov 2026 10:00:00 +0000",
      "summary": "Wolves howl for a variety of reasons. But none of them are triggered by the sight of the moon.",
      "source": "Live Science",
-     "zh": "Why do wolves howl?"
+     "zh": "狼为什么会嚎叫？"
     },
     {
      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
@@ -2647,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 21:35:26 EST",
      "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help exp",
      "source": "ScienceDaily",
-     "zh": "Microplastics may be more dangerous than we thought. Scientists just discovered why"
+     "zh": "微塑料可能比我们想象的更危险。科学家刚刚发现原因"
     },
     {
      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 16:00:00 -0500",
      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
      "source": "MIT News",
-     "zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
+     "zh": "问答：在多模式基础模型中实现更多类人交互和理解"
     },
     {
      "title": "This year’s El Niño is unlike any other on record",
@@ -2671,7 +2671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:41:17 +0000",
      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
      "source": "Ars Technica Science",
-     "zh": "Watching as a giant star swallowed its neighbor and exploded"
+     "zh": "看着一颗巨大的恒星吞噬了它的邻居并爆炸"
     },
     {
      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 20:26:33 +0000",
      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
      "source": "Ars Technica Science",
-     "zh": "NASA’s new Moon plan is taking shape, but some big questions remain"
+     "zh": "美国宇航局的新月球计划正在成形，但仍然存在一些大问题"
     },
     {
      "title": "New approach enables physically consistent AI models of chaotic systems",
@@ -2695,7 +2695,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 19:21:50 +0000",
      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
      "source": "Ars Technica Science",
-     "zh": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger"
+     "zh": "出于恐惧和愤怒，陆军推迟引爆“具有灾难性危险”的叠氮化铅"
     },
     {
      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
@@ -2703,7 +2703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 14:50:41 +0000",
      "summary": "When links in a communication network go down, messages can get routed in a loop. Computer scientists now know that four simple network structures are to blame. The post Network Researchers Nail Down Theory of ‘Perfect Resilience’ first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "Network Researchers Nail Down Theory of ‘Perfect Resilience’"
+     "zh": "网络研究人员确定了“完美弹性”理论"
     },
     {
      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
@@ -2711,7 +2711,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 13:35:45 +0000",
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
      "source": "Ars Technica Science",
-     "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
+     "zh": "火箭报道：跌宕起伏的周末；斯托克庆祝发动机里程碑"
     },
     {
      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
@@ -2719,7 +2719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 20 Nov 2026 07:55:54 EST",
      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
      "source": "ScienceDaily",
-     "zh": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it"
+     "zh": "NASA 的 Voyager 1 号距离我们太远了，光需要 24 小时才能到达"
     },
     {
      "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
@@ -2735,7 +2735,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 17:15:00 -0500",
      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
      "source": "MIT News",
-     "zh": "AI helps researchers investigate how thousands of medical studies share code"
+     "zh": "人工智能帮助研究人员调查数千项医学研究如何共享代码"
     },
     {
      "title": "Ultrasound imaging without the gel",
@@ -2759,7 +2759,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 12:00:00 -0500",
      "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
      "source": "MIT News",
-     "zh": "Scientists create the first whole-body single-cell atlas of an adult vertebrate"
+     "zh": "科学家创建了第一个成年脊椎动物的全身单细胞图谱"
     },
     {
      "title": "If tiny “primordial” black holes exist, here’s how we might find them",
@@ -2767,7 +2767,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 19 Nov 2026 10:00:00 -0500",
      "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
      "source": "MIT News",
-     "zh": "If tiny “primordial” black holes exist, here’s how we might find them"
+     "zh": "如果存在微小的“原始”黑洞，我们可能会通过以下方式找到它们"
     }
    ]
   }

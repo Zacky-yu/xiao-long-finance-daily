@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bears will be yelling fire in crowded theater - Dan Ives"
     },
     {
+     "title": "Social Security should be shut down, this Republican senator says",
+     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 20:26:00 GMT",
+     "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+     "source": "MarketWatch",
+     "zh": "Social Security should be shut down, this Republican senator says"
+    },
+    {
      "title": "'Hunger Games' helps box office rebound amid GTA 6 fever",
      "link": "https://seekingalpha.com/news/4675413-hunger-games-helps-box-office-rebound-amid-gta-6-fever?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 15:10:59 -0500",
@@ -2320,6 +2328,14 @@ window.INDUSTRY_DATA = {
      "summary": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
      "source": "Financial Times",
      "zh": "Delta flight delays add to concerns about US air travel systems"
+    },
+    {
+     "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+     "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
+     "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+     "source": "MarketWatch",
+     "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     },
     {
      "title": "胡塞武装：沙特主导的联军对也门发动81次袭击",
@@ -2386,6 +2402,22 @@ window.INDUSTRY_DATA = {
      "zh": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰"
     },
     {
+     "title": "These little-known investments could be among the best bargains in a crash",
+     "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 18:23:00 GMT",
+     "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+     "source": "MarketWatch",
+     "zh": "These little-known investments could be among the best bargains in a crash"
+    },
+    {
+     "title": "Private equity has been buying up hospice centers — with striking consequences",
+     "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 17:22:00 GMT",
+     "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+     "source": "MarketWatch",
+     "zh": "Private equity has been buying up hospice centers — with striking consequences"
+    },
+    {
      "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
      "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
      "pubDate": "Sun, 22 Nov 2026 17:14:03 GMT",
@@ -2394,12 +2426,28 @@ window.INDUSTRY_DATA = {
      "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
     },
     {
+     "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 17:00:00 GMT",
+     "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+     "source": "MarketWatch",
+     "zh": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?"
+    },
+    {
      "title": "Delta flights delayed due to automated system issue",
      "link": "https://seekingalpha.com/news/4675410-delta-flights-delayed-due-to-automated-system-issue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 11:44:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Delta flights delayed due to automated system issue"
+    },
+    {
+     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 16:32:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     },
     {
      "title": "Sanctioned Russian vessel attacked by drones near Finland",
@@ -2464,54 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。 今日晚间，沪深北三大交易所同步发布通知，宣布经中国证监会批准，将投资者融资买入证券时的融资保证金最低比例从现行的100%下调至80%，相关规则调整自11月30日起施行。截至11月19日，全市场两融余额2.2万亿元，与3.03万亿元的年内高点相比，已有逾8000亿元融资盘悄然离场。 这已经是年内第二次调整融资保证金比例。今年1月14日，沪深北交易所曾将最低比例由80%提高至100%，自1月19日起施行。十个月后，最低融资保证金比例重新回到80%。 值得关注的是，今年两次调整，政策细节颇有不同。 一是存量合约的处理不同。1月上调比例时，明",
      "source": "东方财富资讯",
      "zh": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确"
-    },
-    {
-     "title": "为马斯克融资买GPU，高盛“秀操作”",
-     "link": "https://wallstreetcn.com/articles/3786456",
-     "pubDate": "Sun, 22 Nov 2026 20:11:23 +0800",
-     "summary": "周四，高盛联手阿波罗全球管理公司（Apollo Global Management），协助马斯克旗下的SpaceX完成了约320亿美元债券定价。这批兼具公司债与资产支持证券（ABS）特征的债券，是高盛耗时一年多交出的答卷——试图在不压垮企业资产负债表的前提下，为昂贵的AI芯片找到买单方案。 这笔债券属于SpaceX总额约440亿美元整体融资的核心部分，虽获贝莱德、Pimco等机构认购，但SpaceX为此支付了高昂成本。 本周，市场对AI增长前景的担忧拖累全球市场，美股下跌8.6%。随着支撑全球经济的AI基建不断逼近融资市场极限，这笔高成本交易正被视作其他科技巨头日后采购芯片的潜在范本。 万亿芯",
-     "source": "华尔街见闻",
-     "zh": "为马斯克融资买GPU，高盛“秀操作”"
-    },
-    {
-     "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936945576.html",
-     "pubDate": "Sun, 22 Nov 2026 19:51:00 +0800",
-     "summary": "创业板做市商制度如箭在弦。 11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（简称《做市业务细则》），向社会公开征求意见。 为什么引入做市商？这是深化创业板改革的重要举措，也是促进增强市场韧性、提升市场内在稳定性的重要机制。创业板致力于服务成长型创新创业企业，汇聚了大量新兴产业、未来产业及高新科技企业，随着市场包容性、适应性不断增强，创业板股票对流动性、稳定性、定价效率的需求也进一步提高。创业板引入做市商制度，是在深化投资端改革方面，壮大稳市力量、增强市场韧性、提升运行质量的重要机制安排。 那么，做市商制度到底能带来什么？五大亮点带你快速看懂。 亮点一：带来增量",
-     "source": "东方财富资讯",
-     "zh": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低"
-    },
-    {
-     "title": "11月22日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611223936931124.html",
-     "pubDate": "Sun, 22 Nov 2026 19:30:36 +0800",
-     "summary": "沪深两市多家上市公司11月22日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金科股份 ：因涉嫌信息披露违法违规，控股股东及合伙人遭证监会立案 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉嫌信息披露违法违规，收到证监会立案告知书；其合伙人北京天娇绿苑 房地产开发 有限公司亦被立案。公司表示，本次立案不涉及上市公司，生产经营正常，将配合调查并履行信披义务。 启迪设计 ：股票将被实施其他风险警示，11月23日停牌一天 启迪设计 公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并",
-     "source": "东方财富资讯",
-     "zh": "11月22日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "The American dream of home ownership recedes as mortgage rates surge",
-     "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 11:00:06 GMT",
-     "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
-     "source": "Financial Times",
-     "zh": "The American dream of home ownership recedes as mortgage rates surge"
-    },
-    {
-     "title": "沪深北交易所调整融资保证金比例，100%调低至80%",
-     "link": "https://wallstreetcn.com/articles/3786460",
-     "pubDate": "Sun, 22 Nov 2026 18:52:10 +0800",
-     "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。 今年1月，沪深北交易所根据当时的市场形势，将融资保证金比例由80%调高至100%，对于缓解杠杆风险顺周期累积、促进投资者理性交易起到了积极作用。近期，融资交易活跃度明显下降，整体杠杆水平不高，根据法定的逆周期调节安排，适当降低融资保证金比例，有助于适度提高杠杆比例、释放融资空间、提升市场流动性，促进市场长期稳定健康发展。对于本次调整前尚未了结的融资合约，证券公司可以按照修改后的规定计算投资者的保证金可用余额",
-     "source": "华尔街见闻",
-     "zh": "沪深北交易所调整融资保证金比例，100%调低至80%"
-    },
-    {
-     "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
-     "link": "https://wallstreetcn.com/articles/3786459",
-     "pubDate": "Sun, 22 Nov 2026 17:36:56 +0800",
-     "summary": "韩国政府宣布启动股市稳定基金激活准备工作，并同步出台多项市场稳定措施，这是2008年全球金融危机以来该基金第三次面临实际动用的可能。此举背景是全球AI产业情绪持续恶化，韩国股市遭受重挫。 韩国副总理兼财政部长Lee Hyoung-il于22日主持召开金融市场紧急会议（F4会议），宣布上述措施。会议决定， 政府将立即启动股市稳定基金（증안펀드）激活机制的准备工作，视市场情况随时部署。与此同时，上市公司自股回购每日申报量上限将自24日起放宽三个月，并同步启动为期三个月的非法卖空专项监控期。 上述措施出台的直接导火索，是KOSPI指数20日单日暴跌逾5%，美国纳斯达克指数同日下挫5.28%。与会官员",
-     "source": "华尔街见闻",
-     "zh": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月"
     }
    ]
   },

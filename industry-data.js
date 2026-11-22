@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 07:52:03",
+ "generated_at": "2026/11/22 08:01:05",
  "recent_days": 7,
  "industries": [
   {
@@ -330,14 +330,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -346,52 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027",
+     "link": "https://electrek.co/2026/11/21/here-are-6-great-reasons-rural-drivers-should-embrace-evs-in-2026/",
+     "pubDate": "Sat, 21 Nov 2026 23:50:00 +0000",
+     "summary": "America’s heartland is full of rural communities that are miles away from its major cities, both geographically and culturally – but that doesn’t mean these more sparsely populated regions can’t reap the benefits of electrification. In fact, EVs offer rural drivers even more benefits than they do to",
+     "source": "Electrek",
+     "zh": "Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027"
+    },
+    {
      "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
      "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
      "pubDate": "Sat, 21 Nov 2026 19:56:56 +0000",
@@ -720,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Are you a port or rail terminal operator looking for a new electric material handler that can move serious cargo without sacrificing maneuverability? Do you wish it had tank treads? If that’s you, the Mantsinen 200 might be just the thing. more…",
      "source": "Electrek",
      "zh": "E-quipment highlight: Mantsinen 200 material handler has tank treads"
-    },
-    {
-     "title": "I ride e-bikes for a living. This is the real gear I actually use",
-     "link": "https://electrek.co/2026/11/21/i-ride-e-bikes-for-a-living-this-is-the-real-gear-i-actually-use/",
-     "pubDate": "Sat, 21 Nov 2026 18:08:24 +0000",
-     "summary": "I’m in the somewhat unusual position of basically riding electric bicycles for a living. I’ve been working with e-bikes for nearly two decades, professionally covering the e-bike industry for most of that time, testing hundreds of different models and traveling around the world to ride new e-bikes i",
-     "source": "Electrek",
-     "zh": "I ride e-bikes for a living. This is the real gear I actually use"
     },
     {
      "title": "This EV-Swapped 1967 Porsche 912 Has 300 HP And A Split Battery Pack",
@@ -1834,6 +1834,14 @@ window.INDUSTRY_DATA = {
      "zh": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航"
     },
     {
+     "title": "International UN talks on controlling use of autonomous weapons collapse",
+     "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "pubDate": "Sat, 21 Nov 2026 23:10:21 +0000",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "International UN talks on controlling use of autonomous weapons collapse"
+    },
+    {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
      "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
      "pubDate": "Sat, 21 Nov 2026 22:12:41 +0000",
@@ -1845,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 24 # Comments: 2",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 27 # Comments: 2",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 30 # Comments: 1",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 41 # Comments: 2",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 13 # Comments: 9",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 13 # Comments: 10",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Pandex – Official European Law for AI Agents, over MCP",
      "link": "https://www.pandex.io",
      "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 12 # Comments: 1",
+     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 13 # Comments: 1",
      "source": "Hacker News",
      "zh": "Pandex – Official European Law for AI Agents, over MCP"
     },
@@ -1904,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
      "source": "TechCrunch",
      "zh": "Trump says reported FBI database hack is ‘not good’"
-    },
-    {
-     "title": "Upload2Shell (CVE-2026-125396)",
-     "link": "https://pwn.ai/upload2shell",
-     "pubDate": "Sat, 21 Nov 2026 18:29:29 +0000",
-     "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 64 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "Upload2Shell (CVE-2026-125396)"
     },
     {
      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",

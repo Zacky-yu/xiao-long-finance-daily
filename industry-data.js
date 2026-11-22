@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 15:51:59",
+ "generated_at": "2026/11/22 16:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -72,6 +72,30 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+     "link": "https://www.qbitai.com/2026/11/511779.html",
+     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
+     "summary": "还实现可变形物体操控全球首通",
+     "source": "量子位",
+     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
+    },
+    {
+     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+     "link": "https://www.qbitai.com/2026/11/511570.html",
+     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+     "summary": "专为本地部署而生",
+     "source": "量子位",
+     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511757.html",
+     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -202,52 +226,28 @@ window.INDUSTRY_DATA = {
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
+     "title": "米哈游发了个VLA论文",
+     "link": "https://www.qbitai.com/2026/11/511740.html",
+     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
+     "summary": "8B参数，50小时自主运行",
+     "source": "量子位",
+     "zh": "米哈游发了个VLA论文"
+    },
+    {
+     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+     "link": "https://www.qbitai.com/2026/11/511727.html",
+     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
+    },
+    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
      "source": "KDnuggets",
      "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
-    },
-    {
-     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
-     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
-     "pubDate": "Fri, 20 Nov 2026 14:44:52 +0000",
-     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
-     "source": "MarkTechPost",
-     "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
-    },
-    {
-     "title": "Decision AI Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
-     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
-     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-     "source": "KDnuggets",
-     "zh": "Decision AI Explained in 5 Minutes"
-    },
-    {
-     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
-     "link": "https://zhidx.com/p/612799.html",
-     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
-     "source": "智东西",
-     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
-    },
-    {
-     "title": "Combatting adversarial distillation",
-     "link": "https://openai.com/index/combatting-adversarial-distillation",
-     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-     "source": "OpenAI",
-     "zh": "Combatting adversarial distillation"
-    },
-    {
-     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
-     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
-     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
-     "source": "机器之心",
-     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
     }
    ]
   },
@@ -1786,12 +1786,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
+     "link": "https://www.baijing.cn/question/638898",
+     "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
+     "summary": "团队 8 人，其中能投在获客上的只有 2 个半人，产品是面向北美中小企业的协作类 SaaS，刚过 PMF 进入起量阶段。目前尝试过 Product Hunt 首发、SEO 内容站和 LinkedIn 外呼三条线：PH 带来约 400 个注册但两周后留存不到 8%，SEO 三个月只排上 20 多个长尾词，外呼每周 150 封回复率 3% 左右。人手就这么多，每条线都做等于每条线都做不深，现在卡在不知道该砍掉哪条、把仅有的 2 个人压在哪个渠道上。想直接问：在这个人力约束下，你们判断渠道优先级的硬标准是什么？",
+     "source": "白鲸出海",
+     "zh": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？"
+    },
+    {
+     "title": "张雪机车计划明年推出针对外卖骑手的电动摩托车，价格尽量控制在 1 万元左右",
+     "link": "https://www.ithome.com/1/030/604.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:49:59 GMT",
+     "summary": "IT之家 11 月 22 日消息，张雪机车创始人张雪在珠海“张雪机车 · 京东 WSBK 嘉年华”现场受访时透露，计划于明年（2027 年）推出针对外卖骑手设计的电动摩托车。 IT之家获悉，新车可能会提供两个续航版本（100 公里、150 公里），涵盖 99% 骑手需求；并优化快充补能，利用吃饭的时间就能把电量充满。 你就在吃个午饭的时间，你的车就补能好了。 咱们外卖小哥百分之八九十日均的使用里程在 100（公里）左右， 我们的补能时间目标是 10 分钟 。 据介绍，新车在操控方面也要向油摩看齐，整车重量兼顾驾驶质感与安全底线。 张雪坦言价格尽量控制在 1 万元左右 ，长续航版本约 1.5 万",
+     "source": "IT之家",
+     "zh": "张雪机车计划明年推出针对外卖骑手的电动摩托车，价格尽量控制在 1 万元左右"
+    },
+    {
+     "title": "内存价格暴涨下，华硕考虑将中低端 PC 内存由 16GB 降至 8GB",
+     "link": "https://www.ithome.com/1/030/603.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:48:33 GMT",
+     "summary": "IT之家 11 月 22 日消息，据中国台湾地区媒体《民报》近日报道，今年 PC 价格持续上涨， 进入第四季度 ， 涨价幅度已经逐渐来到消费者可接受的极限 。部分民众宁可延后换机，等到非换不可才掏腰包。 IT之家从原报道获悉，华硕联席 CEO 许先越近日在法人说明会表示，公司也可能无法 100% 将内存涨价的幅度，完全反映在产品终端售价上。 对于价格敏感的中低端 PC 市场，华硕开始在产品参数找出路。许先越指出，如果内存价格全部反映到售价，消费者的换机欲望可能进一步下降。 因此公司考虑调整部分中低端机型的内存配置 ， 将原本的 16GB 调整为 8GB ，以控制成本并维持价格竞争力。 至于 8",
+     "source": "IT之家",
+     "zh": "内存价格暴涨下，华硕考虑将中低端 PC 内存由 16GB 降至 8GB"
+    },
+    {
+     "title": "消息称三星正为 One UI 9.5 引入新版实时通知：风格类苹果 iOS 灵动岛、有望随 Galaxy S27 系列手机推出",
+     "link": "https://www.ithome.com/1/030/602.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:48:08 GMT",
+     "summary": "IT之家 11 月 22 日消息，外媒 SamMobile 在拆解三星 One UI 9.5 测试版时，发现三星正在为 Galaxy S27 系列手机测试全新 Now Bar 实时通知功能。 具体来看，新版 Now Bar 将以胶囊形界面显示在屏幕顶部中央前置摄像头开孔周围，用户点击后，计时器、手电筒状态和媒体控制等功能即可展开显示，还支持通过左右滑动手势切换不同后台活动，整体类似苹果 iPhone 的灵动岛（Dynamic Island）设计。 与部分仅支持计时器和音乐播放器的 Android 仿制功能不同，三星新版设计仍然基于现有的 Live Notifications（实时通知）框架运行",
+     "source": "IT之家",
+     "zh": "消息称三星正为 One UI 9.5 引入新版实时通知：风格类苹果 iOS 灵动岛、有望随 Galaxy S27 系列手机推出"
+    },
+    {
+     "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7",
+     "link": "https://www.ithome.com/1/030/601.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:46:45 GMT",
+     "summary": "IT之家 11 月 22 日消息，《塞尔达传说：时之笛》（The Legend of Zelda: Ocarina of Time）重制版在《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）发售后，意外成为玩家评分大战的受害者。 尽管这款重制作品获得了媒体评论家的高度评价，在 Metacritic 上拿下 95 分的媒体评分，但短短几个小时内，其玩家评分便大幅下滑。此次恶意刷差评事件被认为与部分不满的《GTA 6》粉丝有关，他们通过发布虚假负面评价，刻意拉低《时之笛》重制版的用户评分。 2026 年 11 月对于游戏玩家来说可谓相当热闹。《时之笛》重制版和《GT",
+     "source": "IT之家",
+     "zh": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7"
+    },
+    {
+     "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
+     "link": "https://www.ithome.com/1/030/600.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:40:10 GMT",
+     "summary": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro ， 华为官网确认其支持星闪 E2.0 技术 。 此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况： OSTA O1 Pro 星闪功能支持一览 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 星闪手写笔 / 键盘 / 鼠标 连接支持星闪功能的手表 星闪电竞专链 星闪 K 歌耳返功能 查找端 被查找端 关机查找 关机响铃 手写笔 键盘 &amp; 鼠标 OSTA O1 Pro 星闪 E2.0 支持 支持 支持 支持 支持 不支持 支持 ",
+     "source": "IT之家",
+     "zh": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能"
+    },
+    {
      "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
      "link": "https://www.baijing.cn/question/638897",
      "pubDate": "Sun, 22 Nov 2026 07:39:57 +0000",
      "summary": "我们做非洲独立站，尼日利亚市场月 GMV 大概 8 万美元，团队 6 个人，去年 Q4 起接入 Paystack 收奈拉，原本 T+7 结算，最近两个月实际到账周期拉到 18-21 天，客服说跟银行清算和风控复核有关。同时拉各斯本地配送用第三方物流，妥投平均 5.5 天，COD 拒收率 22%，现金流被两头挤。试过把部分订单切到 Flutterwave 对比，费率略高但时效没稳定下来；也试过预付折扣引导，转化只涨了 3 个点。现在卡在到底是先换支付通道压回款，还是先改履约结构降拒收，这两件事预算只够动一个。按尼日利亚当前实际情况，判断优先级该看哪个指标？",
      "source": "白鲸出海",
      "zh": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？"
+    },
+    {
+     "title": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧",
+     "link": "https://www.ithome.com/1/030/598.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:37:07 GMT",
+     "summary": "IT之家 11 月 22 日消息，据外媒 Notebook Check 报道，一名 YouTube 博主 Budget-Builds Official 成功在 ATI Radeon HD 2350 显卡上跑动《GTA 5》，该显卡仅配备 64MB DDR2 显存。 公开信息显示，ATI Radeon HD 2350 显卡发布于 2007 年，这款显卡拥有 40 个流处理器、4 个纹理映射单元（TMU）、4 个光栅操作单元（ROP），配备 64MB DDR2 显存，最高核心频率约为 525MHz。 为了让 GTA 5 成功启动，Budget-Builds Official 不得不将游戏画质设置降",
+     "source": "IT之家",
+     "zh": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧"
     },
     {
      "title": "阿语短剧上线两周留存掉到18%，中东本地化到底该先补配音还是先改剧本？",
@@ -1810,38 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "想摸着戴尔过河，联想还有个短板"
     },
     {
-     "title": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉",
-     "link": "https://www.ithome.com/1/030/590.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:13:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，据《卫报》今天报道，德国军工初创企业 Helsing 近期在柏林艺术中心 Kraftwerk Berlin 举办 AI 目标识别系统 Clarity 发布活动，引发当地乐迷、电音社区强烈抗议。 据报道，Kraftwerk Berlin 是一座位于柏林的巨型后工业艺术与音乐文化空间，以粗粝的混凝土建筑和实验电子音乐、装置艺术闻名。这里不仅是实验音乐节 Atonal 的举办地，也与电音俱乐部 Tresor 处于同一个园区。 然而在上周（IT之家注：当地时间 11 月 11 日），这家前卫的场馆被改造成“作战室”。据到场者描述，混凝土墙壁上投射着地图和航拍画面，天花",
-     "source": "IT之家",
-     "zh": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉"
-    },
-    {
-     "title": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术",
-     "link": "https://www.ithome.com/1/030/589.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:13:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，搭载麒麟 9030S 处理器，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家从华为客户服务获悉， 星芒 OSTA O1 Pro 确认支持华为自研 Wi-Fi 7+ 芯片级协同技术 （Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+）。",
-     "source": "IT之家",
-     "zh": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术"
-    },
-    {
-     "title": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池",
-     "link": "https://www.ithome.com/1/030/588.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:08:33 GMT",
-     "summary": "IT之家 11 月 22 日消息，消息源 Sudhanshu1414 现已曝光了 vivo 旗下 Y21s/Y11s/Y05s 三款 5G 手机规格信息，IT之家整理价格信息如下： vivo Y21s 该机正面配备一块 6.74 英寸 1600x720 分辨率 120Hz LCD 面板，匹配 5Mp 自拍摄像头；手机后置 50Mp 主摄及 0.08Mp 辅助摄像头。手机搭载联发科天玑 6300 芯片，可选 4/6GB RAM 和 64/128GB 存储空间，配备 6500mAh 电池（支持 44W 有线充电）。 vivo Y11s 该机正面配备一块 6.74 英寸 1600x720 分辨率 1",
-     "source": "IT之家",
-     "zh": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池"
-    },
-    {
-     "title": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元",
-     "link": "https://www.ithome.com/1/030/587.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:08:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，随着许多传统系列作品的衰落，且鲜有新系列作品能够走红，好莱坞已转向电子游戏寻找大票房大片。此前曾出现过像《我的世界》这样的巨大成功案例，也出现过像《无主之地》这样的票房惨败。 据好莱坞娱乐商业媒体 The Ankler 报道，多位消息人士透露，尽管多年来渴望改编《GTA》这一现象级 IP 的娱乐公司纷纷主动接洽，Rockstar Games 仍然不感兴趣。 不过该媒体爆料称，Rockstar 旗下另一部价值数十亿美元的重磅 IP 改编可能已进入洽谈状态。消息人士透露， 该 公司对于将其大受欢迎的西部动作冒险系列《荒野大镖客》搬上电影或电视持更开放的态度 。 一",
-     "source": "IT之家",
-     "zh": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元"
-    },
-    {
      "title": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住",
      "link": "https://www.huxiu.com/article/4907490.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 15:06:55 +0800",
@@ -1850,18 +1874,10 @@ window.INDUSTRY_DATA = {
      "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
     },
     {
-     "title": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚",
-     "link": "https://www.ithome.com/1/030/586.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:04:31 GMT",
-     "summary": "IT之家 11 月 22 日消息，Rockstar 新作《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）因暴力、粗俗语言以及部分裸露内容，被评为成人级游戏。随着游戏正式推出，玩家开始发现，分享包含成人内容的游戏截图和视频也可能带来账号处罚。 IT之家注意到，一名 Xbox 用户因上传了一段海滩场景视频，画面中出现了穿着暴露的游客，结果账号被暂停使用 48 小时。与此同时，一名 PS5 玩家因为拍摄游戏内裸体主义者营地的照片，遭到了更长时间的处罚。 海滩场景也可能触发封号 Xbox Network 默认会自动将玩家录制的游戏视频分享给好友。Reddit 用户 s",
-     "source": "IT之家",
-     "zh": "因分享《GTA 6》成人内容截图，Xbox 和 PS5 玩家遭平台处罚"
-    },
-    {
      "title": "The Engineering Manager's role is under attack (again)",
      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
      "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
-     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 18 # Comments: 9",
      "source": "Hacker News",
      "zh": "The Engineering Manager's role is under attack (again)"
     },
@@ -1880,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们一款中度SLG去年底在巴西上线，目前DAU约1.8万，Pix占付费笔数六成以上。团队一共4个人：1个运营、1个投放、1个后端兼支付、1个客服，墨西哥和智利版本下季度要开。现在的问题是Pix即时到账的订单和游戏内发货回调经常对不上，每天约2%的订单要人工核，财务对账靠导CSV手工比，一个人一天要花3小时。已试过接第三方聚合支付和加webhook重试，但巴西本地银行的回执延迟波动大，卡在没人手做异常订单的自动归集规则。想请教：在4人编制、每月还要分人力铺西语区新版本的前提下，Pix对账这块应该先自建规则引擎，还是换聚合商并接受更高费率？",
      "source": "白鲸出海",
      "zh": "巴西手游接Pix，4人运营团队怎么排期才不会卡在支付对账上？"
-    },
-    {
-     "title": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火",
-     "link": "https://www.ithome.com/1/030/584.htm",
-     "pubDate": "Sun, 22 Nov 2026 06:55:33 GMT",
-     "summary": "IT之家 11 月 22 日消息，综合外媒 electrek 报道，电动汽车终于在《GTA 6》中成为主流交通工具之一，游戏中的罪恶城街头随处可见电动汽车和充电站。 游戏最初将玩家带到岛礁地区（Keys），这是游戏中莱奥尼达州（Leonida）相对落后的区域。当地街道上主要是老旧汽车和廉价二手车，电动汽车并不常见。 不过，随着玩家启程前往市区，街头车辆开始发生变化。越接近城市中心，出现的电动汽车就越多，沿途也能看到越来越多的充电站。进入城市后，电动汽车已经随处可见，成为与燃油车无异的普通交通工具。 《GTA 6》也是 GTA 系列首款真正将能源补给机制纳入核心游戏体验的正统作品。燃油车需要消耗",
-     "source": "IT之家",
-     "zh": "电动汽车成为《GTA6》主流交通工具之一：充电对应现实时间约 10 秒、受损时从底盘电池位置着火"
     },
     {
      "title": "美妆内卷是句号，不是问号",
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Financial Times : Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed &nbsp; &mdash;&nbsp; Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading fi",
      "source": "Techmeme",
      "zh": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)"
-    },
-    {
-     "title": "Show HN: The Riemann Proof Handbook",
-     "link": "https://github.com/tamnd/riemann-handbook",
-     "pubDate": "Sun, 22 Nov 2026 05:46:30 +0000",
-     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 18 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Show HN: The Riemann Proof Handbook"
     }
    ]
   },
@@ -2282,60 +2282,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【调研快报】云南能投接待万联证券调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611223936894966.html",
-     "pubDate": "Sun, 22 Nov 2026 15:46:03 +0800",
-     "summary": "云南能投 11月22日公告称， 11月20日 接待万联证券 调研。 接待人员包括董事会秘书 秦媛,证券事务代表 刘益汉。 公司就以下问题进行了回复： 一、参观昆明盐矿生产线、车间及展厅 二、交流问答 1.公司 新能源 板块的产业规划? 答:公司锚定绿色能源发展战略,紧抓战略机遇,聚焦风电、光伏等绿色能源的投资、开发、建设和运营管理,与此同时,积极拓展新型储能等 新能源 新赛道,坚定不移做强做优做大绿色能源核心主业。截至目前,公司已投产发... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关",
-     "source": "东方财富股票",
-     "zh": "【调研快报】云南能投接待万联证券调研"
-    },
-    {
-     "title": "内塔尼亚胡阵营提出联合组阁条件",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936894690.html",
-     "pubDate": "Sun, 22 Nov 2026 15:42:54 +0800",
-     "summary": "据《以色列时报》11月21日报道，以色列看守政府总理内塔尼亚胡领导的利库德集团发布声明，就与正直党领导人埃森科特领导的反对派阵营组建联合政府提出多项条件，包括反对建立巴勒斯坦国，维持以色列在加沙地带、黎巴嫩和叙利亚设立的所谓“安全区”，承认以色列为“犹太民族国家”等。声明还要求反对派阵营结束针对内塔尼亚胡及其领导的政府和相关阵营的人身攻击和政治抵制等。此前，获总统授权组建新政府的埃森科特指示谈判团队，邀请利库德集团代表自22日起举行组阁谈判，力争推动组建联合政府。 （文章来源：CCTV国际时讯）",
-     "source": "东方财富股票",
-     "zh": "内塔尼亚胡阵营提出联合组阁条件"
-    },
-    {
-     "title": "浙富控股披露2026年中期利润分配预案 拟10派0.4元",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936894861.html",
-     "pubDate": "Sun, 22 Nov 2026 15:42:13 +0800",
-     "summary": "浙富控股 11月22日公告，公司2026年中期利润分配预案为：以截至本利润分配预案披露日可参与分配的公司股本51.65亿股为基数，向全体股东每10股派发现金红利0.4元（含税），不送红股，不以资本公积金转增股本。根据公司2026年第三季度报告，2026年前三季度实现归属于上市公司股东的净利润16.62亿元。该议案已获董事会审议通过，尚需提交2026年第三次临时股东会审议。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "浙富控股披露2026年中期利润分配预案 拟10派0.4元"
-    },
-    {
-     "title": "逸飞激光：收到湖北证监局警示函",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936895792.html",
-     "pubDate": "Sun, 22 Nov 2026 15:42:08 +0800",
-     "summary": "逸飞激光 (688646.SH)公告称，公司收到湖北证监局警示函，因存在募集资金违规使用、定期报告披露不准确、关联方及关联交易披露不及时等问题。其中，公司违规将2800万元募投资金出借给7家公司，2023年度多计收入2634.51万元、多计利润431.5万元，且未及时披露与河南传众的关联关系及关联交易。公司及相关责任人吴轩、王树、曹卫斌被采取出具警示函的行政监管措施。公司表示已全面完成整改。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "逸飞激光：收到湖北证监局警示函"
-    },
-    {
-     "title": "【调研快报】唐人神接待东方财富等9家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611223936894589.html",
-     "pubDate": "Sun, 22 Nov 2026 15:42:03 +0800",
-     "summary": "唐人神 11月21日公告称， 11月19日 接待 东方财富 等9家机构 调研。 接待人员包括证券资本部总经理 徐岩,证券资本部投资者关系管理专干 董小雪。 公司就以下问题进行了回复： Q:在生猪行情持续低迷的情况下,公司有哪些应对措施? A:公司积极采取措施应对本轮猪周期底部,一是,公司三大业务保持稳定发展,充分发挥 饲料 产业周转速度快、现金流好等产业优势,公司母公司以 饲料 生产销售为主,母公司及下属 饲料 子公司具备良好的融资条件,可为公司其它产业提供现金流支持。2026 年 1-9 ... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
-     "source": "东方财富股票",
-     "zh": "【调研快报】唐人神接待东方财富等9家机构调研"
-    },
-    {
-     "title": "兰剑智能：签订2.84亿元化成分容物流线设备合同",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936895460.html",
-     "pubDate": "Sun, 22 Nov 2026 15:41:40 +0800",
-     "summary": "兰剑智能 (688557.SH)公告称，公司近日与武汉楚能 新能源 签订日常经营重大合同，合同金额为2.84亿元(含税)，标的为化成分容 物流 线设备。合同自双方签字盖章后生效，履行期限以正式邮件通知为准。本次交易属于公司日常经营活动相关合同，若顺利履行，预计将对公司2027年度业绩产生积极影响，且不影响公司经营的独立性。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "兰剑智能：签订2.84亿元化成分容物流线设备合同"
-    },
-    {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
      "link": "https://wallstreetcn.com/articles/3786449",
      "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
      "summary": "国际金价单周重挫约10%，与暴跌的科技股同步遭抛售——当AI交易退潮触发跨资产追加保证金（Margin Calls），传统的避险资产正沦为市场筹集现金的“提款机”。 11月17日至20日的四个交易日内，金价急跌9%，自2025年9月以来首次失守3600美元/盎司关口；据摩根大通周五早报，现货金价报3588美元/盎司。白银跌势更为剧烈，全周重挫15%。 这场贵金属抛售与美股动荡高度重合。11月20日（周五），受Anthropic首次公开募股（IPO）后的市场余波拖累，纳斯达克100指数盘中大跌4.9%。 高盛交易台与瑞银全球研究最新报告均显示，抛压高度集中在黄金期货市场；高盛进一步指出，期权市场",
      "source": "华尔街见闻",
      "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
+    },
+    {
+     "title": "下周三只新股申购：光模块领域“小巨人”领衔",
+     "link": "http://stock.eastmoney.com/news/11134,202611223936893615.html",
+     "pubDate": "Sun, 22 Nov 2026 15:38:01 +0800",
+     "summary": "根据目前的发行安排，下周有3只新股可申购。具体日程上，11月23日（周一）可申购科创板新股 傲拓科技 ，11月25日（周三）可申购北交所新股 天广实 ，11月26日（周四）可申购创业板新股 猎奇智能 。 具体申购信息如下： 傲拓科技 ：中大型PLC国产替代“小巨人” 傲拓科技 的申购代码是787845，发行价为18.18元/股，发行市盈率为24.03倍，参考行业市盈率为52.24倍，发行市盈率不足行业均值的一半。公司此次发行股份总数为3775.83万股，网上发行股份数量为906.20万股。投资者参与网上申购，申购股份数量上限为0.90万股，顶格申购需配沪市市值9万元。按发行价计算，预计募集资金",
+     "source": "东方财富资讯",
+     "zh": "下周三只新股申购：光模块领域“小巨人”领衔"
     },
     {
      "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
@@ -2400,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
      "source": "CNBC",
      "zh": "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
-    },
-    {
-     "title": "巨型IPO之后美股大跌 历史现象又一次复现？",
-     "link": "http://stock.eastmoney.com/news/11228,202611223936887785.html",
-     "pubDate": "Sun, 22 Nov 2026 13:51:18 +0800",
-     "summary": "11月19日， Anthropic 以83美元的发行价登陆 纳斯达克 ，首日收涨17.07%，募资935亿美元（含超额配售），连同私募合计融资约1195亿美元，成为史上最大IPO。然而钟声的余音未落，美股掉头向下：19日美股三大指数跌幅均超过2%；次日抛售加剧，纳指单日重挫5.28%报22617.73点，抹去2026年以来全部涨幅。“恐慌指数”VIX大幅飙升，一度突破35。 科技股尤其AI硬件产业链是重灾区。费城 半导体 指数20日单日大跌10.73%，30只成分股全线收跌： 英伟达 跌14.01%，连续第七日下跌，当周累计跌22.92%，创2008年10月以来最大单周跌幅；AMD、美光、 博",
-     "source": "东方财富资讯",
-     "zh": "巨型IPO之后美股大跌 历史现象又一次复现？"
     },
     {
      "title": "A rocky road to Irish unity",
@@ -2520,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
      "source": "经济观察网",
      "zh": "为鸟而生，斯温侯在中国（下）"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "Here are the major earnings before the open Monday",
+     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
     }
    ]
   },

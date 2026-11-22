@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 08:19:40",
+ "generated_at": "2026/11/22 08:28:16",
  "recent_days": 7,
  "industries": [
   {
@@ -1402,6 +1402,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1786,6 +1794,30 @@ window.INDUSTRY_DATA = {
      "zh": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)"
     },
     {
+     "title": "脑机接口临床试验，在全国抢病人",
+     "link": "https://www.huxiu.com/article/4907437.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 08:09:31 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：王世薇 越来越多的脑机接口企业重新认识了临床和患者的重要性。甚至在赛道最热的当下，这已经成为比资金更紧要的生存问题。 为了加快临床试验推进速度，不少脑机接口企业开始把视线从一线城市的大三甲医院移开。过去数月间，位于山东、山西、河南、江苏等地的省会城市医院，开始牵头做脑机接口的临床研究，而周口、廊坊、绵阳、江阴等城市的医院，也陆续发出临床研究的患者招募公告。 “临床试验资源已经趋于紧张。”华超神控创始人李昕博士告诉动脉网，“头部医院正在同时受理大量来自脑机接口领域的项目申请，包括不同形态、不同模态的侵入式与非侵入式产品，客观上在竞争有限的伦理档期、PI时间和",
+     "source": "虎嗅",
+     "zh": "脑机接口临床试验，在全国抢病人"
+    },
+    {
+     "title": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统",
+     "link": "https://www.ithome.com/1/030/525.htm",
+     "pubDate": "Sun, 22 Nov 2026 00:07:01 GMT",
+     "summary": "IT之家 11 月 22 日消息，开源鸿蒙官网显示，来自深圳市因科美通信有限公司的 SL10 已通过 OpenHarmony 测评，搭载了 Hi3372GBCV100 芯片， 预装基于 OpenHarmony 5.1.0 Release 版本的轻量系统 。 参考IT之家此前报道，星闪联盟官网认证信息显示，这款设备为一款音箱设备，测试集显示，EACOME SL10 音箱通过了 SLE 射频一致性测试、基础服务层协议一致性测试、高清音频协议一致性测试。这意味着，这款音箱将支持 NearLink E2.0（即星闪音频）。 这也将是全球首款星闪音箱 。 根据华为官网描述，星闪音频物理层传输速率可达 1",
+     "source": "IT之家",
+     "zh": "全球首款星闪音箱因科美 SL10 通过 OpenHarmony 兼容性测评，搭载开源鸿蒙 5.1 系统"
+    },
+    {
+     "title": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型",
+     "link": "https://www.ithome.com/1/030/524.htm",
+     "pubDate": "Sun, 22 Nov 2026 00:04:47 GMT",
+     "summary": "IT之家 11 月 22 日消息，据科技媒体 Tom's Hardware 昨天报道，群联在 SC26 大会中展示两款企业级固态硬盘，专为 AI 场景设计。其中一款甚至带有 NPU 和 64GB 内存，可以直接运行 AI 模型。 IT之家从原报道获悉， 其中一款产品 SSD 内置 NPU（神经网络引擎） 、 64GB 内存 ，带宽达到 130GB/s，支持直接在硬盘上运行 PyTorch、vLLM、OpenVINO 和 llama.cpp 等 AI 框架及推理工具。 该产品的设计思路是将部分计算任务从服务器转移至 SSD，让设备直接处理存储的数据，仅向主机返回结果，无需完整传输数据集。 群联表",
+     "source": "IT之家",
+     "zh": "群联展示内置 NPU 与 64GB 内存的智能固态硬盘，可直接运行 AI 模型"
+    },
+    {
      "title": "Claude“证明”黎曼猜想：陶哲轩被群嘲的质疑变得更有道理了",
      "link": "https://www.huxiu.com/article/4907436.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 07:59:14 +0800",
@@ -1826,26 +1858,10 @@ window.INDUSTRY_DATA = {
      "zh": "华为星芒首款手机 OSTA O1 Pro 维修备件价格出炉：屏幕 899 元起，主板 3449 元起"
     },
     {
-     "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
-     "link": "https://www.ithome.com/1/030/519.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:35:28 GMT",
-     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主动智能和长期陪伴成长；该机还拥有业界首个系统级 AI 屏， 内含个性化 AI 形象（专属小星芒） 、场景化 AI 推荐和 AI 快捷对话栏等。 刘赫曾透露",
-     "source": "IT之家",
-     "zh": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色"
-    },
-    {
-     "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
-     "link": "https://www.ithome.com/1/030/518.htm",
-     "pubDate": "Sat, 21 Nov 2026 23:31:46 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 11 月 15 日在接受 Palisade Research 采访时，Anthropic 公司技术团队成员 Tao Lin 预测到 2027 年年底，在编程、电影",
-     "source": "IT之家",
-     "zh": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议..."
-    },
-    {
      "title": "International UN talks on controlling use of autonomous weapons collapse",
      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
      "pubDate": "Sat, 21 Nov 2026 23:10:21 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 21 # Comments: 0",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse Comments URL: https://news.ycombinator.com/item?id=50594564 Points: 24 # Comments: 0",
      "source": "Hacker News",
      "zh": "International UN talks on controlling use of autonomous weapons collapse"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
      "pubDate": "Sat, 21 Nov 2026 22:09:58 +0000",
-     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 31 # Comments: 3",
+     "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 34 # Comments: 3",
      "source": "Hacker News",
      "zh": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors"
     },
@@ -1869,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Advice for the next 100 Rust GUIs",
      "link": "https://linebender.org/blog/next-100-guis/",
      "pubDate": "Sat, 21 Nov 2026 21:17:53 +0000",
-     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 47 # Comments: 4",
+     "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 53 # Comments: 5",
      "source": "Hacker News",
      "zh": "Advice for the next 100 Rust GUIs"
     },
@@ -1885,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
      "pubDate": "Sat, 21 Nov 2026 21:06:14 +0000",
-     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 16 # Comments: 10",
+     "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 17 # Comments: 10",
      "source": "Hacker News",
      "zh": "The Emergence of Inequality in the Czech Corded Ware Culture"
     },
@@ -1893,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Pandex – Official European Law for AI Agents, over MCP",
      "link": "https://www.pandex.io",
      "pubDate": "Sat, 21 Nov 2026 20:47:41 +0000",
-     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 15 # Comments: 2",
+     "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 17 # Comments: 3",
      "source": "Hacker News",
      "zh": "Pandex – Official European Law for AI Agents, over MCP"
     },
@@ -2008,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
      "source": "WIRED",
      "zh": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems"
-    },
-    {
-     "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
-     "link": "https://www.techmeme.com/261121/p6#a261121p6",
-     "pubDate": "Sat, 21 Nov 2026 06:30:01 -0500",
-     "summary": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness &nbsp; &mdash;&nbsp; The in-house philosopher on the problem of consciousness and what it might feel li",
-     "source": "Techmeme",
-     "zh": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)"
     }
    ]
   },
@@ -2025,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "10 things you should never do on your Android phone",
+     "link": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+     "pubDate": "Sun, 22 Nov 2026 00:15:00 +0000",
+     "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
+     "source": "Engadget",
+     "zh": "10 things you should never do on your Android phone"
+    },
     {
      "title": "Motorola Moto Tag 3 listed on Amazon",
      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
@@ -2080,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite iOS 27 features (other than Siri and AI). 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bl",
      "source": "9to5Mac",
      "zh": "iOS 27: My favorite new iPhone features (other than AI)"
-    },
-    {
-     "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
-     "link": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
-     "pubDate": "Sat, 21 Nov 2026 22:15:00 +0000",
-     "summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
-     "source": "Engadget",
-     "zh": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for"
     },
     {
      "title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5",
@@ -2282,68 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
     },
     {
-     "title": "多家华尔街机构认为市场或处于牛市回调阶段",
-     "link": "http://stock.eastmoney.com/news/1407,202611223936865989.html",
-     "pubDate": "Sun, 22 Nov 2026 07:25:49 +0800",
-     "summary": "尽管近日市场遭遇猛烈抛售，但多家华尔街机构认为，当前下跌可能只是牛市中的一次调整，尚未构成基本面持续恶化的明确信号。 摩根士丹利 旗下E*Trade交易主管克里斯·拉金（Chris Larkin）表示：“考虑到经济和基本面背景依然稳健，这轮行情似乎主要由市场情绪驱动。” 拉金指出，按照截至本轮回调的统计，自1983年以来，标普500指数从历史高点跌入回调区间的15次行情中，只有5次最终演变为熊市。 德意志银行 分析师宾基·查达（Binky Chadha）认为，市场已经“严重超卖”，而经济增 长和 企业盈利依然强劲。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "多家华尔街机构认为市场或处于牛市回调阶段"
-    },
-    {
-     "title": "上观时评 | 多地为何鼓励“一周休2.5天”？",
-     "link": "http://finance.eastmoney.com/news/1346,202611223936865620.html",
-     "pubDate": "Sun, 22 Nov 2026 07:08:02 +0800",
-     "summary": "广西日前发文探索“每月一周2.5天弹性休假制度”，引发广泛关注。近年来，越来越多地方鼓励“一周休2.5天”或者“4.5天弹性工作制”。在扩内需背景下，休假时间正在成为促进消费一项重要政策变量。 谈促消费，一般有两个角度：增加居民收入，让大家“有钱花”；丰富商品和服务供给，让大家“有地方花钱”。但还有一个容易被忽视的因素，就是时间。 商品消费在一定周期内有上限，眼下各地更强调服务消费。但比起买衣服、添置家电，看演出、参加体育活动、出去旅游等服务消费，都需要投入相对完整的一段时间。如果工作繁忙、休息时间少或零碎，即便有消费能力和意愿，也未必有条件转化为实际消费。 从这个意义上说，增加休假时间，能有",
-     "source": "东方财富股票",
-     "zh": "上观时评 | 多地为何鼓励“一周休2.5天”？"
-    },
-    {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
      "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936865363.html",
-     "pubDate": "Sun, 22 Nov 2026 07:02:07 +0800",
-     "summary": "1 国家数据局：积极拓展词元服务应用场景健全词元计量计费、质量测评等标准规范 11月21日，据国家数据局消息，国家数据局党组书记、局长刘烈宏20日出席在湖南长沙举办的“2026世界计算大会”开幕式并致辞。刘烈宏表示，下一步， 国家数据局将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范，引导行业规范发展 ，坚决避免低质量重复建设，加快构建以数据为关键要素的 数字经济 。 2 国家发展改革委：加快推动政府投资项目建设和资金支付 11月21日，据国家发展改革委消息，国家发展改革委20日召开政府投资资金支付使用和项目储备工作视频会议。会议要求，各地发展改革委要充分发挥投资主管部门统筹协",
-     "source": "东方财富股票",
-     "zh": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参"
-    },
-    {
-     "title": "中国文旅在伦敦世界旅游交易会受青睐",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936859929.html",
-     "pubDate": "Sun, 22 Nov 2026 06:59:07 +0800",
-     "summary": "2026年伦敦世界旅游交易会日前在伦敦展览中心举行，来自180多个国家和地区的4000余家参展商齐聚一堂，展示旅游产品，对接合作资源，寻找新的市场机遇。中国展区以“中国旅游：文塑旅彰，智创未来，绿色共生”为主题亮相，整体设计融合东方美学与现代活力，成为本届交易会最亮眼的展区之一。 伦敦世界旅游交易会创办于1980年，是世界上规模最大、最具影响力的旅游展会之一。今年中国展区总面积达487.5平方米，规模创历届新高。展区设计从中国山川等高线中提取原型，利用 环保 材料搭建的展台错落有致，展示14个参展省、自治区、直辖市各具特色的文旅产品。 走进中国展区，沉浸式国风体验吸引众多海外客商驻足。河南面塑",
-     "source": "东方财富股票",
-     "zh": "中国文旅在伦敦世界旅游交易会受青睐"
-    },
-    {
-     "title": "特朗普称寻求与伊朗达成一项永久性协议",
-     "link": "http://global.eastmoney.com/news/1959,202611223936865496.html",
-     "pubDate": "Sun, 22 Nov 2026 06:58:22 +0800",
-     "summary": "美国总统特朗普在美国福克斯新闻频道11月21日播出的采访节目中说，将寻求与伊朗达成一项永久性协议。 特朗普说：“我所做的是，我要确保即使四年、十五年或二十年后我们有一位不称职的总统，我达成的协议也将是永久性的。我不会让某人允许他们拥有核武器并对达成的协议出尔反尔。”（新华社） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "特朗普称寻求与伊朗达成一项永久性协议"
-    },
-    {
-     "title": "巴林称一处民用工业设施遭伊朗袭击",
-     "link": "http://global.eastmoney.com/news/1959,202611223936865535.html",
-     "pubDate": "Sun, 22 Nov 2026 06:58:21 +0800",
-     "summary": "巴林内政部11月21日晚在社交媒体上说，该国一处民用工业设施当天遭伊朗袭击，引发火灾。初步信息显示，袭击造成财产损失，暂无人员伤亡报告。 巴林内政部说，当地民防部门正在采取措施控制火势。（新华社） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "巴林称一处民用工业设施遭伊朗袭击"
-    },
-    {
-     "title": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心",
-     "link": "http://stock.eastmoney.com/news/1768,202611223936859395.html",
-     "pubDate": "Sun, 22 Nov 2026 05:09:06 +0800",
-     "summary": "本周，美股市场遭遇重挫。道指累计下跌8.02%，标普500指数下跌8.61%，纳指下跌10.02%。 截至周五收盘，三大股指均进入技术性回调区间，纳指抹去2026年以来全部涨幅。标普500指数较10月6日历史高点回落11.6%，同期科技板块跌幅接近24.7%。 经历剧烈抛售后，美股下周将迎来受感恩节假期影响的缩短交易周。 美国10月个人消费支出（PCE）物价指数、第三季度GDP修正值等重磅数据将集中公布，美国也将迎来“黑色星期五”购物高峰。 投资者将重点关注通胀前景，以及美国消费能否为遭受AI板块抛售冲击的股市提供支撑。 AI抛售加剧，市场底部仍难确认 尽管 英伟达 本周交出强劲季报、 Ant",
-     "source": "东方财富资讯",
-     "zh": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2458,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Navy budget pick has family investments in Trump Jr-linked contractor"
     },
     {
-     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
-     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
-     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
-     "source": "东方财富资讯",
-     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
-    },
-    {
      "title": "Tech outages are fueling a new doomsday economy",
      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
      "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
@@ -2490,28 +2434,92 @@ window.INDUSTRY_DATA = {
      "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
-     "title": "11月21日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611213936842018.html",
-     "pubDate": "Sat, 21 Nov 2026 20:27:37 +0800",
-     "summary": "今日摘要 1、习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在总书记的引领推动下，我国老龄工作取得显著成效，养老事业和养老产业协同发展，托举起亿万老年人的幸福“夕阳红”。 2、李强同澳大利亚总理共同出席第九届中澳工商界首席执行官圆桌会。 3、《新闻联播》推出系列报道《权威访谈》，深入解读党的二十届五中全会精神。 4、10月份，我国规模以上高技术制造业增加值同比增长超17%，创近五年来最高增速。 5、国际人士高度评价习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话。 6、国际人士表示，中俄美",
-     "source": "东方财富资讯",
-     "zh": "11月21日晚间央视新闻联播要闻集锦"
+     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
+     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+     "source": "CNBC",
+     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
     },
     {
-     "title": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936841431.html",
-     "pubDate": "Sat, 21 Nov 2026 20:18:22 +0800",
-     "summary": "时隔一年多，生物类似药集采再次迎来重要进展！ 11月21日，安徽省医药集中采购平台发布《全国药品联盟集中带量采购（单克隆抗体类）公告（第1号）》。各省、自治区、直辖市及新疆生产建设兵团组成全国单抗类制剂联盟采购办公室，代表各地区公立、军队医疗机构，以及社会办医药机构等，开展全国药品联盟集中带量采购（单克隆抗体类），由安徽省医疗保障局承担日常工作并具体实施。 公告显示，此次采购的品种7个单抗品种的15个规格，包括阿达木单抗、贝伐珠单抗、地舒单抗、利妥昔单抗、曲妥珠单抗、托珠单抗、英夫利昔单抗。申报企业须在“国家医保服务平台”完成“企业信息申报”“产品信息申报”“产能申报”，申报时间是11月24日",
-     "source": "东方财富资讯",
-     "zh": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格"
+     "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
+     "link": "https://wallstreetcn.com/articles/3786438",
+     "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
+     "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
+     "source": "华尔街见闻",
+     "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
     },
     {
-     "title": "台湾金管会宣布稳定股市措施",
-     "link": "http://finance.eastmoney.com/news/11158,202611213936857159.html",
-     "pubDate": "Sat, 21 Nov 2026 20:05:44 +0800",
-     "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。 （文章来源：深圳商报）",
-     "source": "东方财富资讯",
-     "zh": "台湾金管会宣布稳定股市措施"
+     "title": "特朗普想要“1月初之前”结束俄乌战争",
+     "link": "https://wallstreetcn.com/articles/3786435",
+     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
+     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
+     "source": "华尔街见闻",
+     "zh": "特朗普想要“1月初之前”结束俄乌战争"
+    },
+    {
+     "title": "“脱欧”十年之后，英国又要“入欧”？",
+     "link": "https://wallstreetcn.com/articles/3786433",
+     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
+     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
+     "source": "华尔街见闻",
+     "zh": "“脱欧”十年之后，英国又要“入欧”？"
+    },
+    {
+     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
+     "link": "https://wallstreetcn.com/articles/3786432",
+     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
+     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
+     "source": "华尔街见闻",
+     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
+    },
+    {
+     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
+     "link": "https://wallstreetcn.com/articles/3786431",
+     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
+     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
+     "source": "华尔街见闻",
+     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
+    },
+    {
+     "title": "The dead hand of history weighs on Deutsche Bank",
+     "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+     "pubDate": "Sat, 21 Nov 2026 06:32:26 GMT",
+     "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
+     "source": "Financial Times",
+     "zh": "The dead hand of history weighs on Deutsche Bank"
+    },
+    {
+     "title": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵",
+     "link": "https://wallstreetcn.com/articles/3786430",
+     "pubDate": "Sat, 21 Nov 2026 14:13:49 +0800",
+     "summary": "GPU租金持续飙升，背后可能不是AI算力需求有多强，而是融资渠道收紧造成的供给收缩。 Liquid Compute首席产品官Stanley Lee近期在Odd Lots播客中指出， 当前GPU现货和短期租金更多反映资金成本，而非底层需求变化。贷款机构收紧对中型新型云服务商（neocloud）的融资条件，迫使无法获得长期贷款的买家转向短期现货市场，反而推高了可见租金。 融资条件的变化已经相当明显。贷款机构对neocloud的贷款价值比（LTV）已从今年夏季的80%降至目前的50%至60%。与此同时，CoreWeave信用违约互换（CDS）利差扩大至约1300个基点，其2031年到期债券收益率升至",
+     "source": "华尔街见闻",
+     "zh": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵"
+    },
+    {
+     "title": "The manufacturing of novelty",
+     "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 05:00:36 GMT",
+     "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+     "source": "Financial Times",
+     "zh": "The manufacturing of novelty"
+    },
+    {
+     "title": "The AI cyber threat is already here",
+     "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 05:00:16 GMT",
+     "summary": "The freezer war is just a start",
+     "source": "Financial Times",
+     "zh": "The AI cyber threat is already here"
+    },
+    {
+     "title": "Nvidia affair puts Chinese spies in spotlight",
+     "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+     "pubDate": "Sat, 21 Nov 2026 03:58:46 GMT",
+     "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+     "source": "Financial Times",
+     "zh": "Nvidia affair puts Chinese spies in spotlight"
     }
    ]
   },

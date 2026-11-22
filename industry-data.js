@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 07:11:59",
+ "generated_at": "2026/11/23 07:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -354,14 +354,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -370,52 +362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -1778,6 +1778,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+     "link": "https://www.techmeme.com/261122/p12#a261122p12",
+     "pubDate": "Sun, 22 Nov 2026 18:20:08 -0500",
+     "summary": "Nitasha Tiku / Washington Post : How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and &ldquo;Vision Quest&rdquo; talks, as Anthropic seeds his ideas with opinion-makers &nbsp; &mdash;&nbsp; Anthropic is worth more than $1 trillion.&nbsp; CEO Dario Amodei also wants t",
+     "source": "Techmeme",
+     "zh": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)"
+    },
+    {
+     "title": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现",
+     "link": "https://www.tmtpost.com/8214014.html",
+     "pubDate": "Mon, 23 Nov 2026 07:20:00 +0800",
+     "summary": "搜狐张朝阳辟谣“被出具警示函”；天孚通信拟在南昌投建新一代高速光器件研发和生产制造项目；多品牌宣布下调金饰克价；美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应；特斯拉在美推出FSDv 15；美国证券交易委员会据悉正对英伟达潜在会计问题展开调查。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现"
+    },
+    {
+     "title": "我最近听到最有水平的两句话",
+     "link": "https://www.huxiu.com/article/4907013.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:18:40 +0800",
+     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。 第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。 第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。 我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实： 我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。 情绪本来是向外的，我们却拿它对内审判自己。 想法本来是向内的，我",
+     "source": "虎嗅",
+     "zh": "我最近听到最有水平的两句话"
+    },
+    {
+     "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+     "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+     "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
+    },
+    {
+     "title": "腾讯到最危险的时刻了？",
+     "link": "https://www.huxiu.com/article/4906811.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:07:07 +0800",
+     "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜视觉中国 一周前，马化腾撂下&ldquo;生死存亡&rdquo;四个字警示腾讯当下处境，措辞之激烈为 28 年罕见：&ldquo;远处的浪潮已经吞没一个个山丘，你不能还坐着欣赏。要着急、站起来，准备新打法，找到高地，搬物资、上船，从陆战转海战。过去 28 年的存在，就为今天可以投入这样一个改变世界的技术潮流。&rdquo; 话音刚落，2026Q3 财报就把这份危机感砸在了纸面上，核心数据全面承压，转型直接击穿了利润表： 季度营收同比增长 8% 至 2073.36 亿元，增速较上季度放缓、低于市场预期；Non-IFRS 经营利润同",
+     "source": "虎嗅",
+     "zh": "腾讯到最危险的时刻了？"
+    },
+    {
+     "title": "GL.iNet Security Notice 2026-11-20",
+     "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+     "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GL.iNet Security Notice 2026-11-20"
+    },
+    {
+     "title": "Do Not Accept",
+     "link": "https://donotaccept.ai/",
+     "pubDate": "Sun, 22 Nov 2026 23:02:20 +0000",
+     "summary": "Article URL: https://donotaccept.ai/ Comments URL: https://news.ycombinator.com/item?id=50604959 Points: 13 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Do Not Accept"
+    },
+    {
      "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
      "link": "https://www.ithome.com/1/030/720.htm",
      "pubDate": "Sun, 22 Nov 2026 22:50:46 GMT",
@@ -1794,10 +1850,18 @@ window.INDUSTRY_DATA = {
      "zh": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo"
     },
     {
+     "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
+     "link": "https://philpapers.org/rec/NIEIOT-2",
+     "pubDate": "Sun, 22 Nov 2026 22:41:33 +0000",
+     "summary": "Article URL: https://philpapers.org/rec/NIEIOT-2 Comments URL: https://news.ycombinator.com/item?id=50604742 Points: 23 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis"
+    },
+    {
      "title": "The Usefulness of Useless Knowledge [pdf]",
      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 17 # Comments: 1",
      "source": "Hacker News",
      "zh": "The Usefulness of Useless Knowledge [pdf]"
     },
@@ -1805,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Agent swarm trying to solve P vs. NP",
      "link": "https://pequalnp.com/",
      "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 25 # Comments: 13",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 38 # Comments: 29",
      "source": "Hacker News",
      "zh": "Agent swarm trying to solve P vs. NP"
     },
@@ -1818,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘You Can See Everything’ has made more than $100M worldwide"
     },
     {
-     "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-     "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-     "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
-     "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 7 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "The struggle for freedom: How BSD escaped AT&T licensing"
-    },
-    {
-     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-     "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-     "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 86 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
-    },
-    {
      "title": "The best apps to make new friends right now",
      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
      "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
      "source": "TechCrunch",
      "zh": "The best apps to make new friends right now"
-    },
-    {
-     "title": "I did a meditation and it sort of changed my personality?!",
-     "link": "https://www.benkuhn.net/meditation/",
-     "pubDate": "Sun, 22 Nov 2026 20:41:59 +0000",
-     "summary": "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50603674 Points: 17 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "I did a meditation and it sort of changed my personality?!"
     },
     {
      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
@@ -1914,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "无意识欺负自己的4个动作，你可能每天都在重复"
     },
     {
-     "title": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界",
-     "link": "https://www.huxiu.com/article/4907555.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 00:09:09 +0800",
-     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及",
-     "source": "虎嗅",
-     "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
-    },
-    {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
      "link": "https://www.solidot.org/story?sid=85959",
      "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
@@ -1984,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。",
      "source": "钛媒体",
      "zh": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察"
-    },
-    {
-     "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
-     "link": "https://www.ithome.com/1/030/715.htm",
-     "pubDate": "Sun, 22 Nov 2026 14:24:17 GMT",
-     "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY",
-     "source": "IT之家",
-     "zh": "Oracle：已确保履行与 OpenAI 合同全部所需资金"
-    },
-    {
-     "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
-     "link": "https://www.ithome.com/1/030/714.htm",
-     "pubDate": "Sun, 22 Nov 2026 14:19:27 GMT",
-     "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注意到，Rockstar 动画副总裁马克 · 坦南特（Mark Tennant）在接受 GamesRadar 采访时透露，围绕杰森（Jason）和露西亚（Lucia）之间的亲密关系展开设计，团队进行了大量思考和反复调整。 他表示：“我们需要让",
-     "source": "IT之家",
-     "zh": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化"
-    },
-    {
-     "title": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8214137.html",
-     "pubDate": "Sun, 22 Nov 2026 22:12:03 +0800",
-     "summary": "本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察"
-    },
-    {
-     "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
-     "link": "https://www.tmtpost.com/8214129.html",
-     "pubDate": "Sun, 22 Nov 2026 22:09:45 +0800",
-     "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
-     "source": "钛媒体",
-     "zh": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The pros and cons of sharing your location",
+     "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+     "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
+     "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+     "source": "Engadget",
+     "zh": "The pros and cons of sharing your location"
+    },
     {
      "title": "Can you safely use a 140w charger on an iPhone?",
      "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
@@ -2072,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
      "source": "Engadget",
      "zh": "The cool phone camera trick that can test your remote control's battery"
-    },
-    {
-     "title": "Which solar panel type is best for your home?",
-     "link": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
-     "pubDate": "Sun, 22 Nov 2026 21:15:00 +0000",
-     "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
-     "source": "Engadget",
-     "zh": "Which solar panel type is best for your home?"
     },
     {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",

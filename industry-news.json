@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/22 08:28:16",
+ "generated_at": "2026/11/22 08:32:02",
  "recent_days": 7,
  "industries": [
   {
@@ -329,14 +329,6 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -345,52 +337,12 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -495,6 +447,54 @@
      "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design. The post AI Accelerators Drive Changes In Power Delivery Networks appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "AI Accelerators Drive Changes In Power Delivery Networks"
+    },
+    {
+     "title": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
+     "link": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/",
+     "pubDate": "Thu, 19 Nov 2026 08:03:18 +0000",
+     "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
     }
    ]
   },
@@ -2289,12 +2289,68 @@
      "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
     },
     {
+     "title": "多家华尔街机构认为市场或处于牛市回调阶段",
+     "link": "http://stock.eastmoney.com/news/1407,202611223936865989.html",
+     "pubDate": "Sun, 22 Nov 2026 07:25:49 +0800",
+     "summary": "美东时间周五，AI相关股票遭遇猛烈抛售，拖累美股三大股指集体大跌。但多家华尔街机构认为，当前下跌可能只是牛市中的一次调整，尚未构成基本面持续恶化的明确信号。 摩根士丹利 旗下E*Trade交易主管克里斯·拉金（ChrisLarkin）表示：“考虑到经济和基本面背景依然稳健，这轮行情似乎主要由市场情绪驱动。”拉金指出，按照截至本轮回调的统计，自1983年以来，标普500指数从历史高点跌入回调区间的15次行情中，只有5次最终演变为熊市。 德意志银行 分析师宾基·查达（BinkyChadha）认为，市场已经“严重超卖”，而经济增 长和 企业盈利依然强劲。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "多家华尔街机构认为市场或处于牛市回调阶段"
+    },
+    {
+     "title": "上观时评 | 多地为何鼓励“一周休2.5天”？",
+     "link": "http://finance.eastmoney.com/news/1346,202611223936865620.html",
+     "pubDate": "Sun, 22 Nov 2026 07:08:02 +0800",
+     "summary": "广西日前发文探索“每月一周2.5天弹性休假制度”，引发广泛关注。近年来，越来越多地方鼓励“一周休2.5天”或者“4.5天弹性工作制”。在扩内需背景下，休假时间正在成为促进消费一项重要政策变量。 谈促消费，一般有两个角度：增加居民收入，让大家“有钱花”；丰富商品和服务供给，让大家“有地方花钱”。但还有一个容易被忽视的因素，就是时间。 商品消费在一定周期内有上限，眼下各地更强调服务消费。但比起买衣服、添置家电，看演出、参加体育活动、出去旅游等服务消费，都需要投入相对完整的一段时间。如果工作繁忙、休息时间少或零碎，即便有消费能力和意愿，也未必有条件转化为实际消费。 从这个意义上说，增加休假时间，能有",
+     "source": "东方财富股票",
+     "zh": "上观时评 | 多地为何鼓励“一周休2.5天”？"
+    },
+    {
      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
      "source": "MarketWatch",
      "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936865363.html",
+     "pubDate": "Sun, 22 Nov 2026 07:02:07 +0800",
+     "summary": "1 国家数据局：积极拓展词元服务应用场景健全词元计量计费、质量测评等标准规范 11月21日，据国家数据局消息，国家数据局党组书记、局长刘烈宏20日出席在湖南长沙举办的“2026世界计算大会”开幕式并致辞。刘烈宏表示，下一步， 国家数据局将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范，引导行业规范发展 ，坚决避免低质量重复建设，加快构建以数据为关键要素的 数字经济 。 2 国家发展改革委：加快推动政府投资项目建设和资金支付 11月21日，据国家发展改革委消息，国家发展改革委20日召开政府投资资金支付使用和项目储备工作视频会议。会议要求，各地发展改革委要充分发挥投资主管部门统筹协",
+     "source": "东方财富股票",
+     "zh": "伊朗打击巴林美军基地；也门政府军继续打击胡塞；英伟达遭调查，股价较10月高点接近腰斩；长安大学回应“14日面试13日出结果”丨每经早参"
+    },
+    {
+     "title": "中国文旅在伦敦世界旅游交易会受青睐",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936859929.html",
+     "pubDate": "Sun, 22 Nov 2026 06:59:07 +0800",
+     "summary": "2026年伦敦世界旅游交易会日前在伦敦展览中心举行，来自180多个国家和地区的4000余家参展商齐聚一堂，展示旅游产品，对接合作资源，寻找新的市场机遇。中国展区以“中国旅游：文塑旅彰，智创未来，绿色共生”为主题亮相，整体设计融合东方美学与现代活力，成为本届交易会最亮眼的展区之一。 伦敦世界旅游交易会创办于1980年，是世界上规模最大、最具影响力的旅游展会之一。今年中国展区总面积达487.5平方米，规模创历届新高。展区设计从中国山川等高线中提取原型，利用 环保 材料搭建的展台错落有致，展示14个参展省、自治区、直辖市各具特色的文旅产品。 走进中国展区，沉浸式国风体验吸引众多海外客商驻足。河南面塑",
+     "source": "东方财富股票",
+     "zh": "中国文旅在伦敦世界旅游交易会受青睐"
+    },
+    {
+     "title": "特朗普称寻求与伊朗达成一项永久性协议",
+     "link": "http://global.eastmoney.com/news/1959,202611223936865496.html",
+     "pubDate": "Sun, 22 Nov 2026 06:58:22 +0800",
+     "summary": "美国总统特朗普在美国福克斯新闻频道11月21日播出的采访节目中说，将寻求与伊朗达成一项永久性协议。 特朗普说：“我所做的是，我要确保即使四年、十五年或二十年后我们有一位不称职的总统，我达成的协议也将是永久性的。我不会让某人允许他们拥有核武器并对达成的协议出尔反尔。”（新华社） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普称寻求与伊朗达成一项永久性协议"
+    },
+    {
+     "title": "巴林称一处民用工业设施遭伊朗袭击",
+     "link": "http://global.eastmoney.com/news/1959,202611223936865535.html",
+     "pubDate": "Sun, 22 Nov 2026 06:58:21 +0800",
+     "summary": "巴林内政部11月21日晚在社交媒体上说，该国一处民用工业设施当天遭伊朗袭击，引发火灾。初步信息显示，袭击造成财产损失，暂无人员伤亡报告。 巴林内政部说，当地民防部门正在采取措施控制火势。（新华社） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "巴林称一处民用工业设施遭伊朗袭击"
+    },
+    {
+     "title": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心",
+     "link": "http://stock.eastmoney.com/news/1768,202611223936859395.html",
+     "pubDate": "Sun, 22 Nov 2026 05:09:06 +0800",
+     "summary": "本周，美股市场遭遇重挫。道指累计下跌8.02%，标普500指数下跌8.61%，纳指下跌10.02%。 截至周五收盘，三大股指均进入技术性回调区间，纳指抹去2026年以来全部涨幅。标普500指数较10月6日历史高点回落11.6%，同期科技板块跌幅接近24.7%。 经历剧烈抛售后，美股下周将迎来受感恩节假期影响的缩短交易周。 美国10月个人消费支出（PCE）物价指数、第三季度GDP修正值等重磅数据将集中公布，美国也将迎来“黑色星期五”购物高峰。 投资者将重点关注通胀前景，以及美国消费能否为遭受AI板块抛售冲击的股市提供支撑。 AI抛售加剧，市场底部仍难确认 尽管 英伟达 本周交出强劲季报、 Ant",
+     "source": "东方财富资讯",
+     "zh": "环球下周看点：美股能否企稳？PCE数据与黑五消费考验市场信心"
     },
     {
      "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -2409,6 +2465,14 @@
      "zh": "Navy budget pick has family investments in Trump Jr-linked contractor"
     },
     {
+     "title": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936855865.html",
+     "pubDate": "Sun, 22 Nov 2026 00:00:46 +0800",
+     "summary": "近日，多家券商发布增持回购的进展情况。 国联民生 的控股股东，原计划用5个月时间增持 国联民生 ，结果半个月左右，就几乎打光了增持的资金额度。 中泰证券 ，原计划用1年的时间回购股份，最新情况是仅2个月左右就顶格完成了回购。 国金证券 称，券商板块PB跌至1.03倍，约十年3%分位数，位于破净边缘；PE跌至12倍，位于十年1%分位数，板块配置性价比高。 半个月几乎打光子弹 11月20日， 国联民生 发布了控股股东增持股份的进展情况。公告显示， 国联民生 证券的控股股东无锡市国联发展（集团）有限公司（以下简称“国联集团”）拟自2026年11月4日起至2027年3月31日通过上交所系统以集中竞价交",
+     "source": "东方财富资讯",
+     "zh": "“半个月几乎打光子弹”！多家券商公告 控股股东“超速”增持"
+    },
+    {
      "title": "Tech outages are fueling a new doomsday economy",
      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
      "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
@@ -2433,92 +2497,28 @@
      "zh": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he&apos;s giving away"
     },
     {
-     "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-     "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-     "pubDate": "Sat, 21 Nov 2026 12:00:01 GMT",
-     "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-     "source": "CNBC",
-     "zh": "International first class is over for U.S. airlines. Enter the mega business-class cabin"
+     "title": "11月21日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611213936842018.html",
+     "pubDate": "Sat, 21 Nov 2026 20:27:37 +0800",
+     "summary": "今日摘要 1、习近平总书记指出，我国已经进入老龄社会，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。在总书记的引领推动下，我国老龄工作取得显著成效，养老事业和养老产业协同发展，托举起亿万老年人的幸福“夕阳红”。 2、李强同澳大利亚总理共同出席第九届中澳工商界首席执行官圆桌会。 3、《新闻联播》推出系列报道《权威访谈》，深入解读党的二十届五中全会精神。 4、10月份，我国规模以上高技术制造业增加值同比增长超17%，创近五年来最高增速。 5、国际人士高度评价习近平主席在亚太经合组织工商领导人峰会上的主旨演讲以及在亚太经合组织第三十三次领导人非正式会议上的重要讲话。 6、国际人士表示，中俄美",
+     "source": "东方财富资讯",
+     "zh": "11月21日晚间央视新闻联播要闻集锦"
     },
     {
-     "title": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额",
-     "link": "https://wallstreetcn.com/articles/3786438",
-     "pubDate": "Sat, 21 Nov 2026 19:47:38 +0800",
-     "summary": "谷歌正在调整人工智能芯片采购策略，削减博通设计的高端TPU订单，同时计划增加联发科设计芯片的采购量。在数据中心电力供应和芯片产能双重受限的背景下，谷歌正重新分配算力资源。 据知名苹果及供应链分析师郭明錤最新行业调查， 谷歌已将博通设计的TPU 8i系列2027年出货量削减约100万颗，降幅约占该系列全年出货量的20%，其中定价较高的8i Max（代号Whalefish）受影响最大。 与此同时，谷歌计划提高联发科设计的TPU 8t系列出货量，但具体规模尚未确定。 这一调整可能给博通带来压力。作为谷歌TPU的核心设计合作伙伴，高端型号订单缩减或影响其定制芯片业务收入；联发科则有望借此扩大在谷歌AI",
-     "source": "华尔街见闻",
-     "zh": "郭明錤：谷歌将明年博通设计TPU出货量下调20%，计划增加联发科份额"
+     "title": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936841431.html",
+     "pubDate": "Sat, 21 Nov 2026 20:18:22 +0800",
+     "summary": "时隔一年多，生物类似药集采再次迎来重要进展！ 11月21日，安徽省医药集中采购平台发布《全国药品联盟集中带量采购（单克隆抗体类）公告（第1号）》。各省、自治区、直辖市及新疆生产建设兵团组成全国单抗类制剂联盟采购办公室，代表各地区公立、军队医疗机构，以及社会办医药机构等，开展全国药品联盟集中带量采购（单克隆抗体类），由安徽省医疗保障局承担日常工作并具体实施。 公告显示，此次采购的品种7个单抗品种的15个规格，包括阿达木单抗、贝伐珠单抗、地舒单抗、利妥昔单抗、曲妥珠单抗、托珠单抗、英夫利昔单抗。申报企业须在“国家医保服务平台”完成“企业信息申报”“产品信息申报”“产能申报”，申报时间是11月24日",
+     "source": "东方财富资讯",
+     "zh": "生物类似药集采迎进展：11月24号开始信息申报 涉及7个品种15个规格"
     },
     {
-     "title": "特朗普想要“1月初之前”结束俄乌战争",
-     "link": "https://wallstreetcn.com/articles/3786435",
-     "pubDate": "Sat, 21 Nov 2026 17:02:21 +0800",
-     "summary": "俄乌和平谈判重启，结束冲突的前景再度受到关注。 据媒体近日报道， 特朗普政府已向欧洲和乌克兰官员传达，希望基辅在明年1月初之前与俄罗斯达成和平协议，并通过近期一系列接触释放出强烈的时间紧迫感。 这一时间表令基辅担忧，乌克兰总统泽连斯基可能被迫接受一份以莫斯科条件为基础的协议。 据 新华社11月12日报道 ，俄罗斯总统普京当天在莫斯科会见美国总统特使威特科夫和特朗普女婿库什纳时表示，对俄方来说，任何外国军队在乌克兰驻扎都绝对不可接受，这会威胁俄安全，乌境内的外国军队是俄合法打击目标。威特科夫希望此次与普京会面能促成新一轮有欧洲方面代表参与的多方会谈。 特使威特科夫与库什纳本月在阿布扎比重启俄乌谈",
-     "source": "华尔街见闻",
-     "zh": "特朗普想要“1月初之前”结束俄乌战争"
-    },
-    {
-     "title": "“脱欧”十年之后，英国又要“入欧”？",
-     "link": "https://wallstreetcn.com/articles/3786433",
-     "pubDate": "Sat, 21 Nov 2026 16:07:36 +0800",
-     "summary": "脱欧十年之后，英国正站在是否重返欧盟的门槛上。首相伯纳姆 本周五在布鲁塞尔公布一揽子协议，并明确提出英国应就是否回归这一重要贸易集团展开辩论——这让“脱欧、悔脱欧、再入欧”的政治链条第一次有了现实轮廓。 据《华尔街日报》近日报道，伯纳姆 与欧盟方面达成的“重置”协议包括取消大部分食品和农产品边境检查、重启学生交流项目。 欧盟委员会主席Ursula von der Leyen称，这标志着英欧关系的“转折点”。伯纳姆 则称，这是一份“双赢”协议，是“英国的好日子，也是欧洲的好日子”。 但协议落地仍存变数。 欧洲谈判代表明确表示，除非欧盟学生在英国大学能享受更低学费，否则协议不会全面执行，双方同意在",
-     "source": "华尔街见闻",
-     "zh": "“脱欧”十年之后，英国又要“入欧”？"
-    },
-    {
-     "title": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税",
-     "link": "https://wallstreetcn.com/articles/3786432",
-     "pubDate": "Sat, 21 Nov 2026 15:18:32 +0800",
-     "summary": "美国AI基础设施投资面临新的政策与现实阻力，企业全球算力布局的不确定性进一步上升。 11月21日，据媒体报道，特朗普周五在白宫新闻发布室对记者表示： “我们不会允许我们的公司在美国以外建设数据中心。” 他称，美国此前允许企业在芯片等领域向海外转移产能，对美国造成了严重损害，因此不会允许类似情况在数据中心领域重演。 特朗普还表示， 美国将对试图在海外建设数据中心的企业征收“巨额税费”或施加其他惩罚。不过，他没有说明禁令将通过何种方式实施，也承认尚未与政府团队讨论这一计划：“我甚至还没跟我的人说过这件事。” 这一表态也凸显出美国AI基础设施建设面临的另一重矛盾：特朗普希望推动数据中心在美国扩张，但",
-     "source": "华尔街见闻",
-     "zh": "国内反对、海外也不行？特朗普威胁对“海外建设数据中心”加重税"
-    },
-    {
-     "title": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元",
-     "link": "https://wallstreetcn.com/articles/3786431",
-     "pubDate": "Sat, 21 Nov 2026 14:49:25 +0800",
-     "summary": "《GTA 6》以创纪录的首日收入，成为文娱史上最成功的发行项目之一。 11月21日，据彭博，Take-Two Interactive旗下 Rockstar Games新作《Grand Theft Auto VI》（简称《GTA 6》）发售首日全球收入达到37.9亿美元 ，超过《复仇者联盟4：终局之战》约29亿美元的全球票房，也高于Taylor Swift“Eras”巡演约20亿美元的销售额。 美国银行分析师认为，《GTA》已成为与007、星球大战和米老鼠比肩的跨代际IP。 数据显示，《GTA 6》预售销量达到3250万份，创下游戏发行纪录。Sensor Tower数据显示，超过80%的预购玩家",
-     "source": "华尔街见闻",
-     "zh": "“文娱史上最成功发售，堪比007、星球大战、米老鼠”！GTA 6发行首日收入高达38亿美元"
-    },
-    {
-     "title": "The dead hand of history weighs on Deutsche Bank",
-     "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-     "pubDate": "Sat, 21 Nov 2026 06:32:26 GMT",
-     "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
-     "source": "Financial Times",
-     "zh": "The dead hand of history weighs on Deutsche Bank"
-    },
-    {
-     "title": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵",
-     "link": "https://wallstreetcn.com/articles/3786430",
-     "pubDate": "Sat, 21 Nov 2026 14:13:49 +0800",
-     "summary": "GPU租金持续飙升，背后可能不是AI算力需求有多强，而是融资渠道收紧造成的供给收缩。 Liquid Compute首席产品官Stanley Lee近期在Odd Lots播客中指出， 当前GPU现货和短期租金更多反映资金成本，而非底层需求变化。贷款机构收紧对中型新型云服务商（neocloud）的融资条件，迫使无法获得长期贷款的买家转向短期现货市场，反而推高了可见租金。 融资条件的变化已经相当明显。贷款机构对neocloud的贷款价值比（LTV）已从今年夏季的80%降至目前的50%至60%。与此同时，CoreWeave信用违约互换（CDS）利差扩大至约1300个基点，其2031年到期债券收益率升至",
-     "source": "华尔街见闻",
-     "zh": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵"
-    },
-    {
-     "title": "The manufacturing of novelty",
-     "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 05:00:36 GMT",
-     "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
-     "source": "Financial Times",
-     "zh": "The manufacturing of novelty"
-    },
-    {
-     "title": "The AI cyber threat is already here",
-     "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 05:00:16 GMT",
-     "summary": "The freezer war is just a start",
-     "source": "Financial Times",
-     "zh": "The AI cyber threat is already here"
-    },
-    {
-     "title": "Nvidia affair puts Chinese spies in spotlight",
-     "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 03:58:46 GMT",
-     "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
-     "source": "Financial Times",
-     "zh": "Nvidia affair puts Chinese spies in spotlight"
+     "title": "台湾金管会宣布稳定股市措施",
+     "link": "http://finance.eastmoney.com/news/11158,202611213936857159.html",
+     "pubDate": "Sat, 21 Nov 2026 20:05:44 +0800",
+     "summary": "11月21日消息，中国台湾地区金管会宣布进一步稳定市场的措施，实施全面禁止卖空以稳定市场，上市柜个股最低融券保证金成数由130%升为150%。“国安基金”表示已进场买入股票。 （文章来源：深圳商报）",
+     "source": "东方财富资讯",
+     "zh": "台湾金管会宣布稳定股市措施"
     }
    ]
   },

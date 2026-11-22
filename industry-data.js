@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 22:11:59",
+ "generated_at": "2026/11/22 22:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+     "link": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+     "pubDate": "Sun, 22 Nov 2026 14:22:49 +0000",
+     "summary": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…",
+     "source": "Electrek",
+     "zh": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery"
+    },
+    {
      "title": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
      "link": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
      "pubDate": "Sun, 22 Nov 2026 13:01:35 +0000",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "America’s heartland is full of rural communities that are miles away from its major cities, both geographically and culturally – but that doesn’t mean these more sparsely populated regions can’t reap the benefits of electrification. In fact, EVs offer rural drivers even more benefits than they do to",
      "source": "Electrek",
      "zh": "Here are 7 great reasons rural drivers SHOULD embrace EVs in 2027"
-    },
-    {
-     "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
-     "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
-     "pubDate": "Sat, 21 Nov 2026 19:56:56 +0000",
-     "summary": "Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed handling in school zones. Tesla also claims “25x better handling of safety critical cases” and is adding a new live visualiza",
-     "source": "Electrek",
-     "zh": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes"
     },
     {
      "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+     "link": "https://www.space.com/on-this-day-in-space-november-22-2026",
+     "pubDate": "Sun, 22 Nov 2026 14:18:35 +0000",
+     "summary": "On Nov. 22, 1989, the space shuttle Discovery launched on the secret mission STS-33 for the U.S. military. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military"
+    },
+    {
      "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
      "link": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
@@ -1368,14 +1376,6 @@ window.INDUSTRY_DATA = {
      "summary": "The first Starship upper stage that SpaceX ever successfully recovered won't fly again. Rather, it will go on display as a museum piece, according to company founder and CEO Elon Musk.",
      "source": "Space.com",
      "zh": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says"
-    },
-    {
-     "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
-     "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-     "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
-     "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
-     "source": "Space.com",
-     "zh": "European-Japanese BepiColombo probe arrives in orbit around Mercury today"
     },
     {
      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
@@ -1778,20 +1778,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
+     "link": "https://www.ithome.com/1/030/714.htm",
+     "pubDate": "Sun, 22 Nov 2026 14:19:27 GMT",
+     "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注意到，Rockstar 动画副总裁马克 · 坦南特（Mark Tennant）在接受 GamesRadar 采访时透露，围绕杰森（Jason）和露西亚（Lucia）之间的亲密关系展开设计，团队进行了大量思考和反复调整。 他表示：“我们需要让",
+     "source": "IT之家",
+     "zh": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化"
+    },
+    {
+     "title": "免费男友太烧算力，DeepSeek梦女集体失恋了？",
+     "link": "https://www.huxiu.com/article/4907543.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 22:12:45 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 DeepSeek的日子也是好起来了。 别人用AI产品，恨不得把每一分钱都省下来；现在却有一大帮DeepSeek用户追着官方喊：求求你了，赶紧收钱吧！ 起因是DeepSeek对部分超长对话进行了限制。一些用户发现，自己聊了几千条消息的旧窗口，突然不能继续对话了。 这下可捅了人机恋的马蜂窝。有人不断新建窗口，崩溃地喊着“还我老公”，有人自称“赛博寡妇”，四处寻找同病相怜的网友，还有人已经等不及官方推出会员，开始研究付费API，试图把自己的AI男友救回来。 一名用户折腾半天，终于接上了付费接口，结果只聊了四句话，就花掉了大约一块钱。 于是在这个寒",
+     "source": "虎嗅",
+     "zh": "免费男友太烧算力，DeepSeek梦女集体失恋了？"
+    },
+    {
+     "title": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8214137.html",
+     "pubDate": "Sun, 22 Nov 2026 22:12:03 +0800",
+     "summary": "本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。",
+     "source": "钛媒体",
+     "zh": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察"
+    },
+    {
+     "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+     "link": "https://www.tmtpost.com/8214129.html",
+     "pubDate": "Sun, 22 Nov 2026 22:09:45 +0800",
+     "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
+     "source": "钛媒体",
+     "zh": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？"
+    },
+    {
+     "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+     "link": "https://www.ithome.com/1/030/713.htm",
+     "pubDate": "Sun, 22 Nov 2026 14:00:48 GMT",
+     "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。 此类交易通常在交付前很早就已达成协议 。 然而据知情人士透露，数月后，当设备准备交付时， 这些科技公司要求的价格远高于最初商定的金额 。 在人工智能设备供不应求的当下，大型金融服务与交易公司虽然是仅次于大型科技超大规模云服务商的计算设备采购大户，",
+     "source": "IT之家",
+     "zh": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%"
+    },
+    {
      "title": "湘雅二院的AI造假论文，正在大量涌现",
      "link": "https://www.huxiu.com/article/4907539.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 21:47:42 +0800",
      "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近湘雅二医院的一篇AI合成论文引发了广泛舆论批评，其中不仅有多处低级文字错误，示例图片还疑似是人工智能合成的。 在AI普及之后，学术造假愈发成为社会关注和担忧的焦点。但不得不说，直到今天，直到这次事件，舆论层面关于AI时代学术和科研何去何从的讨论深度仍是有所不足的。可以说，AI技术与生命科学研究间的复杂关系，正是AI时代科研领域问题的最突出展现。 首先当然要明确，直接用人工智能合成或是修改实验结果，比如说示例图片，这是百分之百违背学术道德的，是需要一棍子打死的，这次湘雅的涉事论文就是这种情况，明确属于学术造假。问题是现在的科研工作中，人工智能的",
      "source": "虎嗅",
      "zh": "湘雅二院的AI造假论文，正在大量涌现"
-    },
-    {
-     "title": "Blackberry releases secure browser for Windows",
-     "link": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows",
-     "pubDate": "Sun, 22 Nov 2026 13:46:12 +0000",
-     "summary": "Article URL: https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows Comments URL: https://news.ycombinator.com/item?id=50599667 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Blackberry releases secure browser for Windows"
     },
     {
      "title": "“XX时期”文学：人生还没大结局，我们却先起好了剧名",
@@ -1829,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Prisons get OK to jam contraband phones",
      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
      "pubDate": "Sun, 22 Nov 2026 13:00:52 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 13 # Comments: 5",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 20 # Comments: 11",
      "source": "Hacker News",
      "zh": "Prisons get OK to jam contraband phones"
     },
@@ -1874,28 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
     },
     {
-     "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
-     "link": "https://www.ithome.com/1/030/706.htm",
-     "pubDate": "Sun, 22 Nov 2026 12:24:05 GMT",
-     "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实后，切断了外部 IP 访问并停止了相关服务。韩电相关人士表示：“初步判断系外部攻",
-     "source": "IT之家",
-     "zh": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄"
-    },
-    {
      "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
      "link": "https://www.tmtpost.com/8214063.html",
      "pubDate": "Sun, 22 Nov 2026 20:12:40 +0800",
      "summary": "易天股份加快布局数据中心供电和储能设备。",
      "source": "钛媒体",
      "zh": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能"
-    },
-    {
-     "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
-     "link": "https://www.ithome.com/1/030/704.htm",
-     "pubDate": "Sun, 22 Nov 2026 12:10:44 GMT",
-     "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服装零售商 Zozo 已于上周五宣布，约 1520 万名客户的信息遭到泄露。 Zozo 表示，事件源于其使用的 Plaid Inc. 营销平台遭到攻击，该平台主要",
-     "source": "IT之家",
-     "zh": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃"
     },
     {
      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
@@ -1922,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "8 Best Travel Adapters (2026): 20+ Models Tested"
     },
     {
-     "title": "单日蒸发超1万亿美元",
-     "link": "https://www.huxiu.com/article/4907527.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 19:46:20 +0800",
-     "summary": "本文来自微信公众号： 格隆 ，作者：城北徐公，原文标题：《罕见！单日蒸发超1万亿美元》 一片恐慌之中，黄金出现了历史罕见的深度回撤。 截至本周五，国际金价已跌至3539美元/盎司，一度险些跌破3500美元。 单周跌幅约9%，近9个交易日跌幅14.71%，创14个月新低。 较1月29日的高点，最大回撤幅度更是超过37%。 按《财富》11月20日对比前日基准测算，当天，黄金账面蒸发市值约1.016万亿美元。 究竟怎么回事？ 01 先看看最近到底发生了什么。 第一阶段，通胀与就业数据堵死宽松预期。 11月6日，美国劳工统计局公布10月非农就业报告：新增就业16.5万人，失业率维持在4.1%，平均时薪",
-     "source": "虎嗅",
-     "zh": "单日蒸发超1万亿美元"
-    },
-    {
      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
      "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
      "pubDate": "Sun, 22 Nov 2026 11:30:00 +0000",
@@ -1952,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "估值超过快手。",
      "source": "钛媒体",
      "zh": "从快手独立，可灵要回答的问题变了"
-    },
-    {
-     "title": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋",
-     "link": "https://www.tmtpost.com/8213631.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:20 +0800",
-     "summary": "南网储能数币结算落地，验证资金链新基建价值。",
-     "source": "钛媒体",
-     "zh": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋"
-    },
-    {
-     "title": "拆解大厂财报：谁最舍得为AI花钱？",
-     "link": "https://www.tmtpost.com/8212870.html",
-     "pubDate": "Sun, 22 Nov 2026 19:05:18 +0800",
-     "summary": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。",
-     "source": "钛媒体",
-     "zh": "拆解大厂财报：谁最舍得为AI花钱？"
     },
     {
      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
@@ -2016,6 +2008,14 @@ window.INDUSTRY_DATA = {
      "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
      "source": "Solidot",
      "zh": "丰田尼桑本田同意标准化零部件以降低成本"
+    },
+    {
+     "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+     "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+     "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
+     "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+     "source": "WIRED",
+     "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
     }
    ]
   },
@@ -2025,6 +2025,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
+     "link": "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
+     "pubDate": "Sun, 22 Nov 2026 14:26:51 +0000",
+     "summary": "The Samsung Galaxy Watch Ultra 2 is worth spending more on if you want longer battery life, a brighter outdoor display, and specialized features for trail running and diving. The Galaxy Watch 9 is the better fit if you want Samsung’s latest everyday health tools in a smaller, lighter watch. Both, ho",
+     "source": "9to5Google",
+     "zh": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?"
+    },
+    {
+     "title": "The purpose of the SC port on your old laptop",
+     "link": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
+     "pubDate": "Sun, 22 Nov 2026 14:15:00 +0000",
+     "summary": "If you have a weird, credit-card-sized slot on your laptop, read on to find out what it's for and how it's used.",
+     "source": "Engadget",
+     "zh": "The purpose of the SC port on your old laptop"
+    },
+    {
+     "title": "Common reasons why some USB ports are red",
+     "link": "https://www.engadget.com/2319349/common-reasons-why-usb-ports-red/",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+     "summary": "There's no universal standard for the meaning of USB colors, but red ports often indicate a few similar things.",
+     "source": "Engadget",
+     "zh": "Common reasons why some USB ports are red"
+    },
+    {
+     "title": "The Google Home app is better than Nest alone ever was, mostly",
+     "link": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+     "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+     "summary": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been. 9to5Google Weekender by Ben Schoon is a part of our free newsletter that also include",
+     "source": "9to5Google",
+     "zh": "The Google Home app is better than Nest alone ever was, mostly"
+    },
     {
      "title": "Same light, same result: iPhone 18 Pro’s sensor isn’t outplaying larger ones",
      "link": "https://www.dpreview.com/articles/putting-equivalence-to-the-test-with-the-iphone-18-pro/",
@@ -2146,22 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "从深圳到上海，少数派的共创故事还在继续"
     },
     {
-     "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
-     "link": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
-     "pubDate": "Sun, 22 Nov 2026 01:00:00 +0000",
-     "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
-     "source": "Engadget",
-     "zh": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?"
-    },
-    {
-     "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
-     "link": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
-     "pubDate": "Sun, 22 Nov 2026 01:00:00 +0000",
-     "summary": "It's not simple to say that one is better than the other.",
-     "source": "Engadget",
-     "zh": "Samsung vs. LG OLED TVs: What's the difference between them?"
-    },
-    {
      "title": "Motorola Moto Tag 3 listed on Amazon",
      "link": "https://www.gsmarena.com/motorola_moto_tag_3_features_design_amazon_listing-news-75585.php",
      "pubDate": "Sun, 22 Nov 2026 01:03:02 +0100",
@@ -2248,22 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
      "source": "Android Authority",
      "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
-    },
-    {
-     "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
-     "link": "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/",
-     "pubDate": "Sat, 21 Nov 2026 12:38:15 +0000",
-     "summary": "Save $160 on Sonos's compact Dolby Atmos soundbar, now $10 below its previous best price on Amazon.",
-     "source": "Android Authority",
-     "zh": "Sonos Beam (Gen 2) soundbar drops to a record-low $339"
-    },
-    {
-     "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-     "link": "https://sspai.com/post/119291",
-     "pubDate": "Sat, 21 Nov 2026 12:00:00 +0800",
-     "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ... 查看全文",
-     "source": "少数派",
-     "zh": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的"
     }
    ]
   },
@@ -2273,6 +2273,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
+     "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 14:15:40 GMT",
+     "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’",
+     "source": "Financial Times",
+     "zh": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack"
+    },
     {
      "title": "Notable healthcare headlines for the week: Health insurers, Pfizer, and J&J in focus",
      "link": "https://seekingalpha.com/news/4675353-notable-healthcare-headlines-for-the-week-health-insurers-pfizer-and-j-and-j-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2298,12 +2306,60 @@ window.INDUSTRY_DATA = {
      "zh": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
     },
     {
+     "title": "美国总统特朗普：开放边境将摧毁美国！美国曾险些成为其中之一 直到我上台才扭转局面",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936959722.html",
+     "pubDate": "Sun, 22 Nov 2026 21:58:45 +0800",
+     "summary": "美国总统特朗普：开放边境将摧毁美国！美国曾险些成为其中之一，直到我上台才扭转局面。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：开放边境将摧毁美国！美国曾险些成为其中之一 直到我上台才扭转局面"
+    },
+    {
+     "title": "美国总统特朗普表示：如果Chuck Schumer（舒默）出任参议院多数党领导人 我们将很难合作",
+     "link": "http://finance.eastmoney.com/news/11790,202611223936959882.html",
+     "pubDate": "Sun, 22 Nov 2026 21:56:56 +0800",
+     "summary": "美国总统特朗普表示，如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普表示：如果Chuck Schumer（舒默）出任参议院多数党领导人 我们将很难合作"
+    },
+    {
+     "title": "柬埔寨时隔两年半再现猴痘病例",
+     "link": "http://finance.eastmoney.com/news/1351,202611223936958212.html",
+     "pubDate": "Sun, 22 Nov 2026 21:51:29 +0800",
+     "summary": "柬埔寨卫生部22日宣布，时隔两年半，该国再次发现一例猴痘病例。 柬埔寨卫生部在通报中说，该患者于20日确诊，目前正在 医院 接受治疗。卫生部呼吁民众采取严格的预防措施，以防猴痘进一步传播。 2023年12月至2024年5月，柬埔寨累计报告20例猴痘确诊病例。 猴痘是一种病毒性人畜共患病。人感染猴痘的初期症状包括发烧、头痛、肌肉酸痛、背痛、淋巴结肿大，之后可发展为面部和身体大范围皮疹。多数感染者会在几周内康复，但也有感染者病情严重甚至死亡。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "柬埔寨时隔两年半再现猴痘病例"
+    },
+    {
      "title": "Climate talks fail after stand-off over fossil fuels",
      "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 13:50:41 GMT",
      "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
      "source": "Financial Times",
      "zh": "Climate talks fail after stand-off over fossil fuels"
+    },
+    {
+     "title": "首度夺冠！在这个新兴赛事上，中国队捷报频传",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936959361.html",
+     "pubDate": "Sun, 22 Nov 2026 21:48:16 +0800",
+     "summary": "今年，中国队首次夺得HADO世冠杯冠军。均文汇报记者周俊超摄 戴上 增强现实 设备，眼前就有了虚拟战场：冲刺、躲闪、配合，每个动作都可能改写比赛结果。本周末，HADO世冠杯连续第二年在北外滩滨江举行。中国队表现亮眼，首度夺得世冠杯冠军，蝉联HADO WORLD全球锦标赛冠军，并拿下新增赛事U16国际校园锦标赛冠军。 “上海给HADO这项新运动带来的，是走进生活的机会，还有与世界相遇的舞台。”国际HADO联合会秘书长林先健说，上海正在建设全球著名体育城市，HADO世冠杯不仅展现了世界顶尖科技体育竞技水平，更通过赛事的连续举办，让上海成为虚拟体育国际交流的重要平台，形成从顶级赛事引进、自主品牌培育",
+     "source": "东方财富股票",
+     "zh": "首度夺冠！在这个新兴赛事上，中国队捷报频传"
+    },
+    {
+     "title": "宠物经济持续升温，城市争“宠”靠什么？",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936959636.html",
+     "pubDate": "Sun, 22 Nov 2026 21:48:00 +0800",
+     "summary": "从口粮罐头到医疗、智能用品和健康管理，宠物消费的边界正在不断扩大。 近日，佛山移动 宠物经济 体验馆揭牌，将5G、 物联网 、 大数据 和AI等技术引入养宠场景。对于佛山来说，这不仅是多了一个宠物消费体验空间，也是当地制造业向宠物产业延伸的一次新尝试。 今年以来，除佛山外，苏州、南京、潍坊等多地布局宠物产业，依托 食品加工 、生物医药、智能制造等原有产业基础，加码宠物产业。 宠物消费市场扩容 ， 多城入局争“宠” 近年来，宠物消费市场规模持续扩大，宠物主人普遍愿意为“毛孩子”各类用品买单，消费的链条不断延伸。 《2026年中国宠物行业白皮书（消费报告）》显示，2025年我国城镇犬猫宠物数量突破",
+     "source": "东方财富股票",
+     "zh": "宠物经济持续升温，城市争“宠”靠什么？"
+    },
+    {
+     "title": "下周资本市场大事提醒：国内首批18只主动ETF周一集体上市 美国PCE物价指数与假日消费成焦点",
+     "link": "http://finance.eastmoney.com/news/1354,202611223936959527.html",
+     "pubDate": "Sun, 22 Nov 2026 21:47:06 +0800",
+     "summary": "1、11月27日，国家统计局将公布中国10月规模以上工业企业利润同比数据。此前1—9月规上工业利润累计同比增15.5%。 2、中国央行：2026年11月24日将招标发行2026年第十期和第十一期中央 银行 票据。 3、首批18只主动ETF周一集体上市，此前合计吸金360亿元。整体来看，上述产品“红利打底+算力增强”的配置特征明显。 4、下周（11月23日-11月27日）共有35家公司限售股陆续解禁，合计解禁7.73亿股，按11月20日收盘价计算，解禁总市值为133.45亿元。解禁市值居前三位的是： 海安集团 （33.81亿元）、 金刚光伏 （21.41亿元）、 朗坤科技 （18.19亿元）。 ",
+     "source": "东方财富股票",
+     "zh": "下周资本市场大事提醒：国内首批18只主动ETF周一集体上市 美国PCE物价指数与假日消费成焦点"
     },
     {
      "title": "Did Claude just prove the Riemann Hypothesis?",
@@ -2322,12 +2378,36 @@ window.INDUSTRY_DATA = {
      "zh": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S."
     },
     {
+     "title": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936948742.html",
+     "pubDate": "Sun, 22 Nov 2026 21:19:36 +0800",
+     "summary": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场、稳预期，强化稳市力量。 有券商分析师接受券商中国记者采访时表示，在两融余额回落、市场去杠杆较充分的背景下，逆周期政策适度改善场内信用条件，有助于呵护流动性、稳定预期。而创业板引入做市商制度，有利于壮大稳市力量、增强市场韧性。 机构认为，当前A股风险溢价已处高位，下行风险有限；市场存在超跌，短期或迎来技术性反弹，优质标的、小微盘及前期热点存在修复机会。 释放近4000亿元融资空间 11月22日，为加强 融资融券 逆周期调节，促进 ",
+     "source": "东方财富资讯",
+     "zh": "重磅时刻！A股迎三大“新政”！影响几何？最新解读来了"
+    },
+    {
+     "title": "中国台湾地区拟下调融资保证金比例至120%以稳定股市",
+     "link": "http://hk.eastmoney.com/news/1556,202611223936948837.html",
+     "pubDate": "Sun, 22 Nov 2026 21:18:16 +0800",
+     "summary": "中国台湾地区正考虑下调融资维持保证金比例，以遏制股市抛售潮。中国台湾证券交易所表示，周日与10家券商召开紧急会议，讨论这一潜在举措。根据拟议方案，最低融资维持保证金比例将从目前的130%下调至120%。据交易所称，与会各方讨论了下调保证金比例后可能出现的不同情形，并将评估相关操作层面的问题。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "中国台湾地区拟下调融资保证金比例至120%以稳定股市"
+    },
+    {
      "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
      "link": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 08:07:50 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more"
+    },
+    {
+     "title": "11月22日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936948326.html",
+     "pubDate": "Sun, 22 Nov 2026 21:00:39 +0800",
+     "summary": "今日摘要 习近平总书记指出，要持续巩固拓展脱贫攻坚成果，把常态化帮扶纳入 乡村振兴 战略统筹实施，守牢不发生规模性返贫致贫底线。进入常态化帮扶新阶段，一项项帮扶举措接续落地，让脱贫群众同全国人民一道，更稳地迈向乡村全面振兴。 系列报道【权威访谈】今天解读“增强党性是全面从严治党的根本性任务”。 今年1至10月，全国一般公共预算平稳增长，投资于人相关支出增长较快。 今年以来，文旅体育等服务消费持续火热，内需潜力不断释放。 各地各部门加强能源供应，全力保障群众温暖过冬。 国际人士表示，习近平主席出席亚太经合组织第三十三次领导人非正式会议及相关活动发表的重要讲话，为共创亚太美 好未来 汇聚力量。 内",
+     "source": "东方财富资讯",
+     "zh": "11月22日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
@@ -2354,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side."
     },
     {
-     "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
-     "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 12:24:41 GMT",
-     "summary": "Finland’s prime minister attributes attack on cargo ship to Ukraine and says ‘war is spilling over into our immediate vicinity’",
-     "source": "Financial Times",
-     "zh": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack"
+     "title": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936945780.html",
+     "pubDate": "Sun, 22 Nov 2026 20:30:00 +0800",
+     "summary": "杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。 今日晚间，沪深北三大交易所同步发布通知，宣布经中国证监会批准，将投资者融资买入证券时的融资保证金最低比例从现行的100%下调至80%，相关规则调整自11月30日起施行。截至11月19日，全市场两融余额2.2万亿元，与3.03万亿元的年内高点相比，已有逾8000亿元融资盘悄然离场。 这已经是年内第二次调整融资保证金比例。今年1月14日，沪深北交易所曾将最低比例由80%提高至100%，自1月19日起施行。十个月后，最低融资保证金比例重新回到80%。 值得关注的是，今年两次调整，政策细节颇有不同。 一是存量合约的处理不同。1月上调比例时，明",
+     "source": "东方财富资讯",
+     "zh": "三大交易所同时宣布！时隔十个月融资保证金重回80% 积极信号明确"
     },
     {
      "title": "为马斯克融资买GPU，高盛“秀操作”",
@@ -2376,6 +2456,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "The associate of Alice Huang who funneled Nvidia chips to China - WSJ"
+    },
+    {
+     "title": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低",
+     "link": "http://stock.eastmoney.com/news/11215,202611223936945576.html",
+     "pubDate": "Sun, 22 Nov 2026 19:51:00 +0800",
+     "summary": "创业板做市商制度如箭在弦。 11月22日，深交所就《深圳证券交易所创业板股票做市交易业务细则（征求意见稿）》（简称《做市业务细则》），向社会公开征求意见。 为什么引入做市商？这是深化创业板改革的重要举措，也是促进增强市场韧性、提升市场内在稳定性的重要机制。创业板致力于服务成长型创新创业企业，汇聚了大量新兴产业、未来产业及高新科技企业，随着市场包容性、适应性不断增强，创业板股票对流动性、稳定性、定价效率的需求也进一步提高。创业板引入做市商制度，是在深化投资端改革方面，壮大稳市力量、增强市场韧性、提升运行质量的重要机制安排。 那么，做市商制度到底能带来什么？五大亮点带你快速看懂。 亮点一：带来增量",
+     "source": "东方财富资讯",
+     "zh": "创业板做市商制度要来了！五大亮点抢先看 投资者交易成本有望降低"
+    },
+    {
+     "title": "11月22日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611223936931124.html",
+     "pubDate": "Sun, 22 Nov 2026 19:30:36 +0800",
+     "summary": "沪深两市多家上市公司11月22日晚间发布公司公告，以下为重要公告汇总。 【品大事】 金科股份 ：因涉嫌信息披露违法违规，控股股东及合伙人遭证监会立案 金科股份 公告称，公司控股股东京渝星筑、京渝星璨因涉嫌信息披露违法违规，收到证监会立案告知书；其合伙人北京天娇绿苑 房地产开发 有限公司亦被立案。公司表示，本次立案不涉及上市公司，生产经营正常，将配合调查并履行信披义务。 启迪设计 ：股票将被实施其他风险警示，11月23日停牌一天 启迪设计 公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项，股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日复牌并",
+     "source": "东方财富资讯",
+     "zh": "11月22日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
@@ -2416,102 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "有点慌。 “慌啥子嘛”，本山大叔唱歌视频，在微信群里频繁出现。反而凸显了投资好友们的焦虑。 从高点以来，AI相关股票价格普遍腰斩，英伟达下跌48%，三星下跌51%，美光下跌52%，英特尔下跌59%，海力士下跌63%。不一而足。 从10月6号到上周五，纳斯达克综合指数在34个交易日里下跌了18.1%。再有不到1%的跌幅，就进入技术性熊市。历史上看，截至目前的跌幅，相当于2011年，2015-2016年那轮调整。但下跌速度远远超过这两次。 最近一周，纳斯达克综合指数下跌超过10%。这是1971年纳斯达克指数成立以来，总共2911个周数据里，表现第10差的。 怎么不慌？ 第一张多米诺骨牌会是谁？ 算",
      "source": "华尔街见闻",
      "zh": "猜想：AI泡沫破灭和金融市场危机"
-    },
-    {
-     "title": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求",
-     "link": "https://wallstreetcn.com/articles/3786451",
-     "pubDate": "Sun, 22 Nov 2026 14:04:47 +0800",
-     "summary": "高露洁棕榄（Colgate-Palmolive）与PyMC Labs联合发布的一项新研究显示，只要改变提问方式，让大语言模型“角色扮演”消费者，AI预测真实购买意愿的可靠度即可达到人类重测信度的90%。 这篇挂在预印本平台arXiv上的论文近期在海外科技与商业圈引发震动。全球企业每年在消费者调研上投入数十亿美元，有市场观点据此认为，传统调研的商业模式正面临冲击——企业不必耗时数周招募受访者，即可在极短时间内完成上千次定向访谈模拟与定价A/B测试。 喧嚣之外，论文作者与一线观察者却给出了更为审慎的判断。研究团队明确表示，合成消费者并非人类调研的全面替代品；社交平台X上的多位评论者也提醒，该方法生",
-     "source": "华尔街见闻",
-     "zh": "AI颠覆市场调研？高露洁发表论文：让AI“角色扮演”，就能完美预测市场需求"
-    },
-    {
-     "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-     "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-     "pubDate": "Sun, 22 Nov 2026 06:00:01 GMT",
-     "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
-     "source": "CNBC",
-     "zh": "Quantum computing’s first real-world payoff may come in energy, not drug discovery"
-    },
-    {
-     "title": "A rocky road to Irish unity",
-     "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:14 GMT",
-     "summary": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
-     "source": "Financial Times",
-     "zh": "A rocky road to Irish unity"
-    },
-    {
-     "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
-     "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 05:00:06 GMT",
-     "summary": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
-     "source": "Financial Times",
-     "zh": "Napoleon’s warning to Nvidia’s Jensen Huang"
-    },
-    {
-     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
-     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-     "source": "MarketWatch",
-     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
-    },
-    {
-     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
-     "summary": "“Hotel rooms can cost as much as $400 per night.”",
-     "source": "MarketWatch",
-     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
-    },
-    {
-     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
-     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
-    },
-    {
-     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
-     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-     "source": "MarketWatch",
-     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
-    },
-    {
-     "title": "Alice Huang’s links to the chip underworld",
-     "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 21 Nov 2026 17:00:10 GMT",
-     "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
-     "source": "Financial Times",
-     "zh": "Alice Huang’s links to the chip underworld"
-    },
-    {
-     "title": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack",
-     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-     "pubDate": "Sat, 21 Nov 2026 16:57:34 GMT",
-     "summary": "This would make the second recent intrusion into the FBI system.",
-     "source": "CNBC",
-     "zh": "Trump says there could be a &apos;positive spin&apos; from the latest FBI database hack"
-    },
-    {
-     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-     "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
-     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-     "source": "CNBC",
-     "zh": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020"
-    },
-    {
-     "title": "Tech outages are fueling a new doomsday economy",
-     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-     "pubDate": "Sat, 21 Nov 2026 15:04:56 GMT",
-     "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-     "source": "CNBC",
-     "zh": "Tech outages are fueling a new doomsday economy"
     }
    ]
   },

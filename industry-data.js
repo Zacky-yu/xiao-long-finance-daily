@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 16:51:49",
+ "generated_at": "2026/11/22 17:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -72,30 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
-     "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -226,28 +202,52 @@ window.INDUSTRY_DATA = {
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
      "source": "KDnuggets",
      "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
+    },
+    {
+     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+     "pubDate": "Fri, 20 Nov 2026 14:44:52 +0000",
+     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
+    },
+    {
+     "title": "Decision AI Explained in 5 Minutes",
+     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
+     "source": "KDnuggets",
+     "zh": "Decision AI Explained in 5 Minutes"
+    },
+    {
+     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+     "link": "https://zhidx.com/p/612799.html",
+     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
+     "source": "智东西",
+     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "source": "OpenAI",
+     "zh": "Combatting adversarial distillation"
+    },
+    {
+     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
+     "source": "机器之心",
+     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
     }
    ]
   },
@@ -1786,6 +1786,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "品牌｜华为品牌，十年嬗变",
+     "link": "https://www.huxiu.com/article/4907496.html?f=rss",
+     "pubDate": "Sun, 22 Nov 2026 16:52:11 +0800",
+     "summary": "本文来自微信公众号： 江流川在写写画画 ，作者：老孙去也，原文标题：《品牌｜华为品牌，十年嬗变》 2026年8月，一只竹知了，让华为有点难堪。 这是一种传统竹制玩具，系着细绳，甩起来发出“哇哇”的声音。有人觉得，它与华为发布会上观众的惊叹声颇为相似，便拿来调侃余承东。 玩笑传开后，部分视频遭到投诉下架。 8月4日，鸿蒙智行发言人发布说明：累计监测相关信息5.6万余条，实际投诉171条，平台反馈下架144条。 声明强调，投诉针对的是恶意剪辑、侮辱诽谤等具体侵权内容，华为没有要求下架或者停售竹知了，也没有投诉正常展示玩具的视频。 解释得相当仔细，数字精确到个位。 企业依法保护商誉，无可厚非。恶意造",
+     "source": "虎嗅",
+     "zh": "品牌｜华为品牌，十年嬗变"
+    },
+    {
+     "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
+     "link": "https://www.ithome.com/1/030/628.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:47:38 GMT",
+     "summary": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会",
+     "source": "IT之家",
+     "zh": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入"
+    },
+    {
+     "title": "Neuralink 展示脑机接口新成果：瘫痪患者成功在《GTA 6》里自由驾驶、射击",
+     "link": "https://www.ithome.com/1/030/625.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:46:50 GMT",
+     "summary": "IT之家 11 月 22 日消息，马斯克旗下脑机接口公司 Neuralink 于 21 日公布最新研究成果，展示了一名四肢瘫痪患者通过脑机接口，将大脑运动意图转换为游戏控制器信号，成功游玩热门游戏《GTA 6》。受试者能够在游戏中自由驾驶、射击，获得接近普通玩家的操作体验。 参考 Neuralink 在 X 平台上发布的实验视频。画面显示，一名植入脑机接口芯片的临床试验参与者，通过在大脑中想象四肢不同部位的运动，将产生的神经信号转换为控制指令，并映射到 PS5 DualSense 手柄的全部按键上。 从视频中可以看到，受试者能够熟练控制模拟摇杆，完成驾驶船只、驾驶汽车、射击瞄准等操作，甚至可以",
+     "source": "IT之家",
+     "zh": "Neuralink 展示脑机接口新成果：瘫痪患者成功在《GTA 6》里自由驾驶、射击"
+    },
+    {
+     "title": "安全公司披露 BADBOX 僵尸网络卷土重来：操控感染设备每日伪造 400 亿次广告竞价请求",
+     "link": "https://www.ithome.com/1/030/624.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:44:10 GMT",
+     "summary": "IT之家 11 月 22 日消息，据 Bleepingcomputer 报道，BADBOX 恶意软件僵尸网络在经历去年大规模打击后卷土重来，通过受感染的 Android 设备每天生成多达 400 亿次虚假广告竞价请求，创下已公开披露的广告欺诈活动纪录。 BADBOX 最早于 2023 年初被发现，当时研究人员在亚马逊购买的一款 T95 Android 电视盒子中发现了预装恶意软件。2024 年 12 月，德国网络安全机构曾发出警告，称该僵尸网络已经感染数万台设备。 2025 年 3 月，网络安全公司 HUMAN 与 Shadowserver 展开大规模联合行动，切断了超过 50 万台 BADB",
+     "source": "IT之家",
+     "zh": "安全公司披露 BADBOX 僵尸网络卷土重来：操控感染设备每日伪造 400 亿次广告竞价请求"
+    },
+    {
+     "title": "Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元",
+     "link": "https://www.ithome.com/1/030/623.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:39:48 GMT",
+     "summary": "IT之家 11 月 22 日消息，制造商 Hidisc 宣布推出一款 Sound Glasses 轻量化蓝牙音频眼镜，该产品搭载蓝牙 6.0 技术、配有开放式扬声器，售价为 3,980 日元 （IT之家注：现汇率约合 167.5 元人民币） 。 与如今功能日益复杂的智能眼镜不同，这款产品没有摄像头、AI 助手等功能，而是专注于提供基础的无线音频体验。其镜腿内置 10mm 扬声器，采用开放式音频设计，支持蓝牙 6.0，但音频编码仅支持标准 SBC 格式。 这款眼镜配备触控区，用户可以通过触摸镜腿实现音乐播放、切换曲目和接听电话等操作。产品还具备 IPX5 级防水能力，可以应对日常出汗或意外淋雨等",
+     "source": "IT之家",
+     "zh": "Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元"
+    },
+    {
+     "title": "首次：天津大学脑机海河实验室实现人体超声脑机接口高时空分辨解码",
+     "link": "https://www.ithome.com/1/030/622.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:36:32 GMT",
+     "summary": "IT之家 11 月 22 日消息，天津大学脑机海河实验室团队近日在国际权威期刊《科学 · 进展》（Science Advances）发表最新研究成果。 团队提出了一种高鲁棒性（稳健性，Robustness）的超声调制脑电信号解码技术， 首次实现 人体被试数据层面的稳态视觉诱发电位（Steady-State Visual Evoked Potentials，SSVEP）脑电源信号高精度解码。 该技术可在多种复杂、极端场景下高保真无创重建颅内脑电源波形，为高时空分辨率超声脑机接口的广泛应用提供关键支撑。 据介绍，脑机接口通过在大脑与计算机之间建立直接的信息通路，有望实现最高形态的人机混合智能。但传",
+     "source": "IT之家",
+     "zh": "首次：天津大学脑机海河实验室实现人体超声脑机接口高时空分辨解码"
+    },
+    {
+     "title": "《GTA 6》首发统治力惊人：美国超六成 PS5 玩家首日涌入游戏",
+     "link": "https://www.ithome.com/1/030/620.htm",
+     "pubDate": "Sun, 22 Nov 2026 08:35:50 GMT",
+     "summary": "IT之家 11 月 22 日消息，《GTA 6》已经成为迄今为止全球规模最大的游戏首发作品，以前所未有的声势席卷整个游戏行业，过去没有任何一款游戏的发售盛况能够与之相提并论。 《GTA 6》发售首日销量超过 3000 万份，在 PS5 和 Xbox Series S|X 两大主机平台上均表现强势。事实上，知名行业分析师公布的一组数据更为惊人：超过半数的 PS5 用户都在首发期间体验了这款游戏。 IT之家注意到，Circana 分析师马特 · 皮斯卡特拉（Matt Piscatella）在 BlueSky 上分享的数据显示，美国 PS5 玩家中，有 61% 在《GTA 6》发售当天启动并游玩了这",
+     "source": "IT之家",
+     "zh": "《GTA 6》首发统治力惊人：美国超六成 PS5 玩家首日涌入游戏"
+    },
+    {
      "title": "韩国独立站靠红人种草起量，备货和退货该怎么算？",
      "link": "https://www.baijing.cn/question/638901",
      "pubDate": "Sun, 22 Nov 2026 08:27:28 +0000",
@@ -1802,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "欧洲 SaaS 签下德国客户后，DPA 和数据处理记录谁来排期维护？"
     },
     {
-     "title": "全新一代比亚迪汉新款配色实车曝光",
-     "link": "https://www.ithome.com/1/030/617.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:19:31 GMT",
-     "summary": "IT之家 11 月 22 日消息，“迪粉之家”公众号昨日曝光了一组比亚迪全新一代汉的实车照片。 据IT之家此前报道，11 月 2 日，比亚迪王朝网销售事业部总经理路天宣布，11 月广州车展将推出一款“用户呼声很高的车型”，预计为全新一代比亚迪汉。 全新一代比亚迪汉已在工信部第 412 批新车申报目录中完成申报，共涉及四款车型，包括三款纯电版本与一款插混版本。 新车车身长宽高为 5156/1969/1507（1492）mm，轴距 3030mm。对比现款汉，车长增加 161mm，宽度增加 59mm，轴距增加 110mm。车头造型饱满圆润，配备贯穿式前大灯，车头顶端搭载激光雷达。 纯电版本提供三种动",
-     "source": "IT之家",
-     "zh": "全新一代比亚迪汉新款配色实车曝光"
-    },
-    {
      "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
      "link": "https://www.tmtpost.com/8213773.html",
      "pubDate": "Sun, 22 Nov 2026 16:19:16 +0800",
@@ -1818,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "跨境收款之后，中国公司盯上智能体支付的新生意"
     },
     {
-     "title": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货",
-     "link": "https://www.ithome.com/1/030/616.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:18:35 GMT",
-     "summary": "IT之家 11 月 22 日消息，Clicks 宣布，受“全球特种玻璃纤维织物供应短缺”影响，旗下配备实体键盘的 Communicator 手机交付时间将从原定的 2026 年 12 月推迟至 2027 年 1 月下旬至 2 月。 Clicks 表示，Communicator 手机的硬件设计已经完成，FCC 认证也在按计划推进。目前影响生产进度的主要问题，是制造 12 层 PCB 所需的特殊玻璃纤维编织布。全球只有 6 家独立工厂能够生产这种材料，其中 4 家无法承接 Clicks 所需的订单规模，导致原材料采购耗时远超预期。 按照最新计划，Communicator 手机将于 2027 年 1",
-     "source": "IT之家",
-     "zh": "Clicks Communicator 实体键盘手机因零部件供应短缺推迟交付，2027 年 1 月下旬发货"
-    },
-    {
      "title": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？",
      "link": "https://www.baijing.cn/question/638899",
      "pubDate": "Sun, 22 Nov 2026 08:15:07 +0000",
      "summary": "做户外储能配件独立站，主攻南非，团队6人，月广告预算约8万人民币，用Shopify+PayFast收款。从深圳备货走德班港海运，头程平均38-42天，约堡本地派送用The Courier Guy，偏远地区妥投要7-9天。现在退货率18%，一半是等太久主动取消，另一半是到货后尺码/型号不符。试过把爆款提前备到约堡第三方仓，但压了30多万库存，动销慢的SKU又占仓租。卡在备货深度和时效的平衡上：是继续加海外仓SKU，还是砍长尾只做空运补货？这个取舍按什么标准定？",
      "source": "白鲸出海",
      "zh": "南非独立站备货周期40天，退货率18%还能怎么压物流时效？"
-    },
-    {
-     "title": "即将停产的特斯拉 Cybertruck 迎来 OTA 更新：2027 款转弯半径缩小",
-     "link": "https://www.ithome.com/1/030/615.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:14:22 GMT",
-     "summary": "IT之家 11 月 22 日消息，特斯拉 Cybertruck 现在可以更轻松地通过狭窄空间了。特斯拉官方 Cybertruck 账号在 X 平台宣布，车辆正在通过 OTA 方式获得一项新升级，进一步缩小转弯半径，让车辆能够完成“更小半径的转弯”。 不过，这项升级有一定限制：车辆必须安装 2026.44 或更高版本的软件，而且只有 2027 款 Cybertruck 才能使用这项转向优化功能。 大块头皮卡也能灵活转弯 特斯拉没有公布优化后的具体转弯半径数据，但官方展示的升级前后对比画面显示，Cybertruck 转弯时所需的空间明显缩小。 对于一辆重量超过 6000 磅（约 2722 千克）的",
-     "source": "IT之家",
-     "zh": "即将停产的特斯拉 Cybertruck 迎来 OTA 更新：2027 款转弯半径缩小"
     },
     {
      "title": "中小银行出险与市场竞争的关系",
@@ -1856,30 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 大橘财经 ，作者：张志峰 近日，宁德时代在阿根廷又有新动作。这次目标并非电池制造厂，而是设立商务和技术办事处，并为当地两个储能项目供货。 据PV Magazine LatAm报道，宁德时代已为Central Puerto的Nuevo Puerto和Central Costanera项目提供磷酸铁锂电池系统，规模分别为150MW／750MWh和55MW／275MWh，合计1.025GWh。Nuevo Puerto建设进度约为80%；两个项目尚未全部投运，其中一个计划在2026年底前投运，另一个预计于2027年1月投运。 项目规模不大，但它提供了一扇观察宁德时代业务转向的窗口",
      "source": "虎嗅",
      "zh": "宁德时代拉美落子，储能为何难再一家独大？"
-    },
-    {
-     "title": "投产后每年可在海底地层封存二氧化碳超 100 万吨，我国首个海上注碳增气技术示范应用项目陆地建设全面完工",
-     "link": "https://www.ithome.com/1/030/612.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:08:41 GMT",
-     "summary": "IT之家 11 月 22 日消息，随着重达 1.7 万吨的中心平台在海油工程青岛国际高端装备制造基地完成装船， 我国首个海上注碳增气技术示范应用项目 —— 东方 1-1 气田 CCUS（碳捕集、利用与封存）项目陆地建设全面完工，转入海上安装阶段。 目前，该项目钻完井作业也已正式启动，项目计划部署 8 口气井。 IT之家获悉，项目投产后，每年可在海底地层 封存二氧化碳超 100 万吨， 对推动我国海洋能源行业大规模深度降碳具有重要意义。 据介绍，本次完成装船的东方 1-1 气田注碳增气中心平台重量近 1.7 万吨，高度超过 28 层楼，甲板总面积超 1 万平方米，搭载低温脱碳系统、余热回收装置、",
-     "source": "IT之家",
-     "zh": "投产后每年可在海底地层封存二氧化碳超 100 万吨，我国首个海上注碳增气技术示范应用项目陆地建设全面完工"
-    },
-    {
-     "title": "丰田公布 BKE Concept 微型折叠电动两轮车，可 30 秒完成折叠放进 GR86 跑车后备箱",
-     "link": "https://www.ithome.com/1/030/611.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:07:34 GMT",
-     "summary": "IT之家 11 月 22 日消息，丰田公布了一款名为 BKE Concept 的微型折叠电动两轮车，主打短途出行、户外活动和最后一公里接驳。这款产品可以在约 30 秒内完成折叠，体积小到能够放进丰田 GR86 跑车的后备厢。 虽然丰田在官方宣传资料中将 BKE Concept &nbsp;称为“电动自行车”，但由于该车没有脚踏板，因此严格来说并不符合欧洲和北美市场对电动自行车的定义。它实际上更接近一款带座椅的小型电动滑板车，也被称为无脚踏电动两轮车（No-Ped），其可以通过 110V AC 交流电源插座充电，这意味着搭载这款电动两轮车的汽车本身也能充当移动充电站。 尽管 BKE Concep",
-     "source": "IT之家",
-     "zh": "丰田公布 BKE Concept 微型折叠电动两轮车，可 30 秒完成折叠放进 GR86 跑车后备箱"
-    },
-    {
-     "title": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等",
-     "link": "https://www.ithome.com/1/030/610.htm",
-     "pubDate": "Sun, 22 Nov 2026 08:02:25 GMT",
-     "summary": "IT之家 11 月 22 日消息，深圳地铁 App 现已在华为应用市场开启了测试尝鲜，体积为 34.1MB，版本为 1.0.9，支持刷乘车码进出站、查看地铁线路图、开发票、查看地铁资讯等功能。 IT之家附官方介绍如下： 深圳地铁集团有限公司官方手机 App - 从心出发、为爱到达丰富站点信息：涵盖站点出口建筑、站内服务设施（洗手间 ATM 机手机充值无障碍设施）、站外公交。",
-     "source": "IT之家",
-     "zh": "深圳地铁鸿蒙版 App 开启尝鲜，支持开发票、刷乘车码进出站等"
     },
     {
      "title": "OLED大扩产，先过整机预算这一关",
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The Engineering Manager's role is under attack (again)",
      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
      "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
-     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 34 # Comments: 30",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 38 # Comments: 42",
      "source": "Hacker News",
      "zh": "The Engineering Manager's role is under attack (again)"
     },
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "New York Times : Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips &nbsp; &mdash;&nbsp; China's espionage agency has been running a secret campaign to help the country's companies acquire adv",
      "source": "Techmeme",
      "zh": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)"
-    },
-    {
-     "title": "美妆内卷是句号，不是问号",
-     "link": "https://www.huxiu.com/article/4907488.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 14:54:01 +0800",
-     "summary": "本文来自微信公众号： 发宏商业 美妆内卷是句号，不是问号 1.1万亿的美妆大盘里，最稀缺的不是好配方，是“知道问题出在哪”的人。文｜作者：郎发宏2026年11月 先给一个可能不太中听、但我觉得绕不过去的判断： 中国美妆市场的问题，从来不是“卷”。卷是结果，不是原因。把复购下滑、客户流失、单品卖不动，统统装进“内卷”这个筐里，等于宣布思考到此结束。一旦归到内卷，就不需要再往用户端走一步了，不需要追问“她为什么用完这支就不回来了”，不需要拆解“她下一次有同样需求时，凭什么优先选你而不是货架上随便另一支”。 归因到内卷，是一个闭环终止符。 2025年中国化妆品全渠道交易额11042.45亿元，同比增",
-     "source": "虎嗅",
-     "zh": "美妆内卷是句号，不是问号"
     },
     {
      "title": "Notes on the discrete Fourier transform (DFT)",
@@ -2218,12 +2218,12 @@ window.INDUSTRY_DATA = {
      "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
     },
     {
-     "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+     "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
      "link": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
      "pubDate": "Sat, 21 Nov 2026 12:59:00 +0000",
-     "summary": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config , the Mac deals are wild this week with as much as $250 off the brand new M6 MacBook Pro and PROL",
+     "summary": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped , or just shy of $80 off the list price. You’ll also now find an even deeper deal on the current-generation Apple Watch SE 3 from $179 . Black Friday is already in full force with Amazon’s massive official ",
      "source": "9to5Mac",
-     "zh": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more"
+     "zh": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]"
     },
     {
      "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
@@ -2281,54 +2281,6 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
-    {
-     "title": "美利信：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901850.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "美利信 将于2026年11月23日（星期一）下午14:00，在重庆市巴南区 天安 路1号附1号、附2号重庆 美利信 科技股份有限公司办公楼二楼会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司董事会换届暨选举第三届董事会非独立董事的议案 2、关于公司董事会换届暨选举第三届董事会独立董事的议案 3、关于延长公司2025年度向特定对象发行A股股票决议有效期及授权有效期的议案 4、关于为全资子公司向金融机构申请项目贷款提供担保的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《美利信:关于召开2026年第二次临时",
-     "source": "东方财富股票",
-     "zh": "美利信：将于2026年11月23日召开2026年第二次临时股东大会"
-    },
-    {
-     "title": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901711.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:39 +0800",
-     "summary": "杰普特 将于2026年11月23日（星期一）上午10:00，在深圳市龙华区观湖街道鹭湖社区观盛五路科姆龙科技园A栋12楼会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于以集中竞价交易方式回购公司股份方案的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《杰普特:关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市",
-     "source": "东方财富股票",
-     "zh": "杰普特：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
-    {
-     "title": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901651.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "摩登大道 将于2026年11月23日（星期一）下午14:00，在广州市黄埔区科学城光谱中路23号A1栋14层会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、《关于转让全资子公司股权及债权的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《摩登大道:关于召开2026年第二次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准",
-     "source": "东方财富股票",
-     "zh": "摩登大道：将于2026年11月23日召开2026年第二次临时股东大会"
-    },
-    {
-     "title": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901532.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:38 +0800",
-     "summary": "三一重能 将于2026年11月23日（星期一）下午15:00，在北京市昌平区北清路三一产业园1号楼1号会议室召开 2026年第三次 临时股东大会。本次股东大会将审议以下议案： 1、关于修订《公司章程》的议案 2、关于选举第三届董事会非独立董事的议案 3、关于选举第三届董事会独立董事的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《三一重能:三一重能关于召开2026年第三次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
-     "source": "东方财富股票",
-     "zh": "三一重能：将于2026年11月23日召开2026年第三次临时股东大会"
-    },
-    {
-     "title": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901456.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "ST椰岛 将于2026年11月23日（星期一）下午14:30，在海南省海口市秀英区药谷二横路2号椰岛集团办公楼7层会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于预计未来12个月授信及为子公司提供担保额度的议案》 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《ST椰岛:ST椰岛关于召开2026年第四次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证",
-     "source": "东方财富股票",
-     "zh": "ST椰岛：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
-    {
-     "title": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会",
-     "link": "http://stock.eastmoney.com/news/11671,202611223936901392.html",
-     "pubDate": "Sun, 22 Nov 2026 16:00:37 +0800",
-     "summary": "鼎通科技 将于2026年11月23日（星期一）下午15:30，在东莞市东城街道周屋社区银珠路七号 鼎通科技 一号会议室召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、关于公司发行 H 股股票并在香港联合交易所有限公司主板上市的议案 2、关于公司发行 H 股股票并在香港联交所主板上市方案的议案 3、关于公司转为境外募集股份有限公司的议案 4、关于公司发行H股股票募集资金使用计划的议案 5、关于公司发行 H 股股票并于香港联交所主板上市决议有效期的议案 6、关于提请股东会授权董事会及其授权人士全权处理与本次 H 股股票发行并于香港联交所主板上市有关事项的议案 7、关于公司发",
-     "source": "东方财富股票",
-     "zh": "鼎通科技：将于2026年11月23日召开2026年第四次临时股东大会"
-    },
     {
      "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
      "link": "https://wallstreetcn.com/articles/3786449",
@@ -2520,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "“Hotel rooms can cost as much as $400 per night.”",
      "source": "MarketWatch",
      "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "Here are the major earnings before the open Monday",
+     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 20:15:00 GMT",
+     "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
+     "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
+     "link": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 14:46:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia probe in California extends to potential criminal violations: Bloomberg"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 19:45:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     }
    ]
   },

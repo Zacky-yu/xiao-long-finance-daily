@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 05:45:07",
+ "generated_at": "2026/11/23 05:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/multiway-robotics-showcases-wheeled-humanoid-and-autonomous-forklifts-at-cemat-asia-2026/107492/",
+     "pubDate": "Sun, 22 Nov 2026 21:48:50 +0000",
+     "summary": "Multiway Robotics showcased five autonomous material handling solutions at CeMAT Asia 2026 in Shanghai, including a wheeled humanoid robot designed for flexible industrial operations. The exhibition, held from November 3 to 6, brought together logistics and automation companies demonstrating technol",
+     "source": "Robotics & Automation",
+     "zh": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026"
+    },
+    {
      "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
      "link": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
      "pubDate": "Sun, 22 Nov 2026 21:07:47 +0000",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has announced a major expansion of its Isaac robotics development platform, introducing new simulation frameworks, AI training tools, datasets and a reference humanoid robot designed to accelerate the development of general-purpose robotic systems. The announcements, made at GTC Berlin, inclu",
      "source": "Robotics & Automation",
      "zh": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools"
-    },
-    {
-     "title": "European manufacturers expand use of AI and digital twins in engineering and production",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/european-manufacturers-expand-use-of-ai-and-digital-twins-in-engineering-and-production/107469/",
-     "pubDate": "Sun, 22 Nov 2026 19:54:24 +0000",
-     "summary": "European industrial companies including Siemens, Mercedes-Benz, Audi and Volkswagen are expanding their use of artificial intelligence, simulation and digital twins to improve engineering, manufacturing and factory operations. The developments were outlined by Nvidia at its recent GTC Berlin event, ",
-     "source": "Robotics & Automation",
-     "zh": "European manufacturers expand use of AI and digital twins in engineering and production"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -1778,12 +1778,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "‘You Can See Everything’ has made more than $100M worldwide",
+     "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+     "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
+     "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+     "source": "TechCrunch",
+     "zh": "‘You Can See Everything’ has made more than $100M worldwide"
+    },
+    {
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+     "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+    },
+    {
      "title": "The best apps to make new friends right now",
      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
      "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
      "source": "TechCrunch",
      "zh": "The best apps to make new friends right now"
+    },
+    {
+     "title": "AWS got hit by an outage too. You didn't hear about it",
+     "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+     "pubDate": "Sun, 22 Nov 2026 20:50:18 +0000",
+     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AWS got hit by an outage too. You didn't hear about it"
     },
     {
      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
@@ -1797,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "A miniature San Francisco with live buses, planes and boats",
      "link": "https://smallsf.com/",
      "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 32 # Comments: 8",
      "source": "Hacker News",
      "zh": "A miniature San Francisco with live buses, planes and boats"
     },
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 32 # Comments: 4",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 43 # Comments: 14",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 47 # Comments: 15",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -1824,22 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers &nbsp; &mdash;&nbsp; The treasury secretary said on CBS that it was too soon to say if Jensen Huang should",
      "source": "Techmeme",
      "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
-    },
-    {
-     "title": "What Happened to Silicon Valley?",
-     "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 168 # Comments: 59",
-     "source": "Hacker News",
-     "zh": "What Happened to Silicon Valley?"
-    },
-    {
-     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-     "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 148 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
     },
     {
      "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
      "source": "IT之家",
      "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
-    },
-    {
-     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
-     "link": "https://www.tmtpost.com/8214070.html",
-     "pubDate": "Sun, 22 Nov 2026 20:35:09 +0800",
-     "summary": "定义权比技术本身更稀缺",
-     "source": "钛媒体",
-     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
     }
    ]
   },

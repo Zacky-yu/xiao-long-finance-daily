@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 22:51:56",
+ "generated_at": "2026/11/23 23:12:17",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+     "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+     "pubDate": "Mon, 23 Nov 2026 15:04:01 +0000",
+     "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+     "source": "TechCrunch AI",
+     "zh": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing"
+    },
+    {
+     "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
+     "link": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
+     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+     "summary": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
+     "source": "KDnuggets",
+     "zh": "How to Use AI Tools to Learn Data Science Faster in 2026"
+    },
     {
      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
@@ -231,22 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "智能体复杂记忆甚至跑不过原始RAG？UIUC等首提「记忆税」"
-    },
-    {
-     "title": "揭秘Anthropic的「暴利」真相：缓存税！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744575&idx=2&sn=b75f90f8b28a74c124a393514f08e8bd",
-     "pubDate": "Mon, 23 Nov 2026 07:02:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "揭秘Anthropic的「暴利」真相：缓存税！"
-    },
-    {
-     "title": "中国AI刷爆全球纪录！比Claude快四万倍，多个密码学难题被破解",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744575&idx=1&sn=9c64fe2395b7111545ac8b42cd6dbca8",
-     "pubDate": "Mon, 23 Nov 2026 07:02:00 +0800",
-     "summary": "Anthropic工程师火速转发点赞",
-     "source": "新智元",
-     "zh": "中国AI刷爆全球纪录！比Claude快四万倍，多个密码学难题被破解"
     }
    ]
   },
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
+     "link": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance/",
+     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+     "summary": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol",
+     "source": "EE Times",
+     "zh": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance"
+    },
+    {
      "title": "TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand",
      "link": "https://www.digitimes.com/news/a20261123PD239/market-taiwan-demand-tsmc-capacity.html",
      "pubDate": "Mon, 23 Nov 2026 14:24:01 GMT",
@@ -265,12 +273,20 @@
      "zh": "TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand"
     },
     {
-     "title": "Nvidia reinstates Jensen Huang as CEO, six days after ruling out his return",
+     "title": "The China IC Lag",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-china-ic-lag-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 14:23:06 +0000",
+     "summary": "Data collected by the OECD shows that the U.S. and its allies have an advantage in the standoff over access to the latest IC technology. Logic chips with nodes […] The post The China IC Lag appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The China IC Lag"
+    },
+    {
+     "title": "Nvidia reinstates Jensen Huang; Trump, Musk hail decision",
      "link": "https://www.digitimes.com/news/a20261123VL216/nvidia-ceo-jensen-huang-president-security.html",
      "pubDate": "Mon, 23 Nov 2026 14:22:07 GMT",
      "summary": "Nvidia's board has reinstated Jensen Huang as president, CEO and board member, effective immediately. The reversal comes six days after directors said they had no intention of bringing him back.",
      "source": "DIGITIMES",
-     "zh": "Nvidia reinstates Jensen Huang as CEO, six days after ruling out his return"
+     "zh": "Nvidia reinstates Jensen Huang; Trump, Musk hail decision"
     },
     {
      "title": "Haas to stay at Arm",
@@ -361,14 +377,6 @@
      "zh": "Imec Finland opens in Espoo"
     },
     {
-     "title": "RAN market stabilising",
-     "link": "https://www.electronicsweekly.com/news/business/ran-market-stabilising-2026-11/",
-     "pubDate": "Mon, 23 Nov 2026 06:08:38 +0000",
-     "summary": "The Q3 Radio Access Network (RAN) market continued to improve, says Dell’Oro. Worldwide RAN revenue increased at a mid-single-digit rate y-o-y, marking the fastest quarterly growth in nearly five years […] The post RAN market stabilising appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "RAN market stabilising"
-    },
-    {
      "title": "CEO Interview with Manu Gulati of Velaura AI",
      "link": "https://semiwiki.com/ceo-interviews/376481-ceo-interview-with-manu-gulati-of-velaura-ai/",
      "pubDate": "Sun, 22 Nov 2026 18:00:42 +0000",
@@ -455,14 +463,6 @@
      "summary": "Explore Geehy’s G32R502 1kW bidirectional energy storage inverter reference design, featuring digital control, high efficiency, and UPS functionality. The post Geehy Launches G32R502 1kW Bidirectional Inverter Solution appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Geehy Launches G32R502 1kW Bidirectional Inverter Solution"
-    },
-    {
-     "title": "Memory R&D Is a High-Stakes Game",
-     "link": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
-     "pubDate": "Thu, 19 Nov 2026 22:21:15 +0000",
-     "summary": "AI is driving memory makers’ research agenda, while partnerships help share the cost and risk of developing technologies beyond the next process node. The post Memory R&D Is a High-Stakes Game appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Memory R&D Is a High-Stakes Game"
     },
     {
      "title": "Penn State unveils new semiconductor research capabilities",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "2027 Mercedes GLA Electric First Drive: A Big Upgrade",
+     "link": "https://insideevs.com/reviews/816318/2027-mercedes-gla-electric-review/",
+     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+     "summary": "Mercedes' new 800-volt EV platform debuted on the CLA. But in an SUV-crazed country, this is likely the model that matters more.",
+     "source": "InsideEVs",
+     "zh": "2027 Mercedes GLA Electric First Drive: A Big Upgrade"
+    },
+    {
      "title": "Uber now lets you book rides that record the drive by default",
      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
@@ -801,14 +809,6 @@
      "zh": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck"
     },
     {
-     "title": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions",
-     "link": "https://insideevs.com/news/816340/waymo-manually-controlled-intersection-recall/",
-     "pubDate": "Sat, 21 Nov 2026 19:07:40 +0000",
-     "summary": "Sometimes police need drivers to ignore normally posted laws and comply with officer instructions. That hasn't been going great for Waymo.",
-     "source": "InsideEVs",
-     "zh": "Waymo Is Recalling Its Robotaxis Because They're Not Great At Dealing With Human Instructions"
-    },
-    {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
      "pubDate": "Thu, 19 Nov 2026 21:33:24 +0000",
@@ -848,6 +848,22 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "US Weighs NATO-Style Security Guarantees for Ukraine as Russia Pushes Back",
+     "link": "https://oilprice.com/Geopolitics/Europe/US-Weighs-NATO-Style-Security-Guarantees-for-Ukraine-as-Russia-Pushes-Back.html",
+     "pubDate": "Mon, 23 Nov 2026 09:00:00 -0600",
+     "summary": "US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said. In a lengthy post on X on November 22, Kushner de",
+     "source": "OilPrice",
+     "zh": "US Weighs NATO-Style Security Guarantees for Ukraine as Russia Pushes Back"
+    },
+    {
+     "title": "SunPower launches 522W HJT solar panel, Q3 revenue rises",
+     "link": "https://www.pv-tech.org/sunpower-q3-revenue-growth-launches-522w-hjt-solar-panel/",
+     "pubDate": "Mon, 23 Nov 2026 14:55:39 +0000",
+     "summary": "US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.",
+     "source": "PV Tech",
+     "zh": "SunPower launches 522W HJT solar panel, Q3 revenue rises"
+    },
     {
      "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
@@ -1033,14 +1049,6 @@
      "zh": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer"
     },
     {
-     "title": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html",
-     "pubDate": "Mon, 23 Nov 2026 02:30:00 -0600",
-     "summary": "Natural gas prices in Europe started the week with a rise to 96.075 euros per MWh, gaining 8.6% from Friday as weather forecasts saw colder weather coming to the continent, which is struggling with record-low inventories. The benchmark TTF price is equal to $105.49 per MWh and is the highest daily p",
-     "source": "OilPrice",
-     "zh": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms"
-    },
-    {
      "title": "Want 24/7 clean power for data centers? Try giant heat batteries.",
      "link": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
      "pubDate": "Mon, 23 Nov 2026 03:30:00 -0500",
@@ -1079,14 +1087,6 @@
      "summary": "For months, the climate world and the broader Democratic coalition have argued over whether the sweeping bipartisan permitting reform bill will be good or bad for the energy transition. But inside the Senate, which just passed the legislation by a 62–33 vote, concerns about tribal sovereignty oversh",
      "source": "Canary Media",
      "zh": "Why tribal rights have become key to the energy permitting debate"
-    },
-    {
-     "title": "Trump EPA keeps trying to kill Solar for All despite court losses",
-     "link": "https://www.canarymedia.com/articles/solar/trump-epa-solar-for-all",
-     "pubDate": "Fri, 20 Nov 2026 12:22:00 -0500",
-     "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Solar for All has been through the ringer, but its fight is nowhere near done. The Trump administration on Tuesday appealed a court ruling that sought to restore the low-income solar program,",
-     "source": "Canary Media",
-     "zh": "Trump EPA keeps trying to kill Solar for All despite court losses"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
+     "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
+     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+     "summary": "Just imagine the ancient, Martian lava flowing.",
+     "source": "Space.com",
+     "zh": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026"
+    },
+    {
      "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
      "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
@@ -1383,14 +1391,6 @@
      "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence fo",
      "source": "NASA",
      "zh": "65 Years of Human Spaceflight at NASA Johnson"
-    },
-    {
-     "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-     "pubDate": "Sun, 22 Nov 2026 16:05:33 +0000",
-     "summary": "SpaceX just launched two rockets from the same California pad 32 hours apart, breaking its own turnaround record by about 13 hours.",
-     "source": "Space.com",
-     "zh": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)"
     },
     {
      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
@@ -1545,6 +1545,22 @@
    "total": 5,
    "items": [
     {
+     "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+     "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+     "pubDate": "Mon, 23 Nov 2026 15:06:49 +0000",
+     "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+    },
+    {
+     "title": "AI Agents Are Creating a Shared Responsibility Gap",
+     "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+     "pubDate": "Mon, 23 Nov 2026 10:00:10 -0500",
+     "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+     "source": "BleepingComputer",
+     "zh": "AI Agents Are Creating a Shared Responsibility Gap"
+    },
+    {
      "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
      "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
      "pubDate": "Mon, 23 Nov 2026 13:58:07 +0000",
@@ -1625,14 +1641,6 @@
      "zh": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks"
     },
     {
-     "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-     "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-     "pubDate": "Mon, 23 Nov 2026 11:31:44 +0000",
-     "summary": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal"
-    },
-    {
      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
      "pubDate": "Mon, 23 Nov 2026 14:41:56 +0530",
@@ -1681,14 +1689,6 @@
      "zh": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
     },
     {
-     "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-     "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-     "pubDate": "Sun, 22 Nov 2026 10:43:04 -0500",
-     "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-     "source": "BleepingComputer",
-     "zh": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
-    },
-    {
      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
      "pubDate": "Sat, 21 Nov 2026 01:31:23 GMT",
@@ -1732,7 +1732,7 @@
      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
      "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
      "pubDate": "Fri, 20 Nov 2026 13:51:30 GMT",
-     "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+     "summary": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
      "source": "Dark Reading",
      "zh": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era"
     },
@@ -1761,12 +1761,76 @@
    "total": 18,
    "items": [
     {
+     "title": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)",
+     "link": "https://www.techmeme.com/261123/p24#a261123p24",
+     "pubDate": "Mon, 23 Nov 2026 10:01:24 -0500",
+     "summary": "Rhys Elliott / Alinea : Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue &nbsp; &mdash;&nbsp; We dive into our sell-through estimates (no unsold retail copies) for the biggest game of the year,",
+     "source": "Techmeme",
+     "zh": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)"
+    },
+    {
+     "title": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)",
+     "link": "https://www.techmeme.com/261123/p23#a261123p23",
+     "pubDate": "Mon, 23 Nov 2026 09:50:01 -0500",
+     "summary": "Matt Day / Bloomberg : Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B &nbsp; &mdash;&nbsp; Amazon.com Inc. has agreed to acquire much of startup Decart AI, buying tools to bolster the cloud-c",
+     "source": "Techmeme",
+     "zh": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)"
+    },
+    {
+     "title": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”",
+     "link": "https://www.ithome.com/1/031/218.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:49:24 GMT",
+     "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。 对于此消息，马斯克在 X 平台发文称，“错误已更正。” 马斯克稍早还发布了一条疑似回应此事的消息称，“搞定了 (It is done)。 IT之家注意到，英伟达在新闻稿中表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示。“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在",
+     "source": "IT之家",
+     "zh": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”"
+    },
+    {
+     "title": "战魔田默｜DeepSeek再融千亿，梁文锋究竟要什么？",
+     "link": "https://www.huxiu.com/article/4907839.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 22:48:53 +0800",
+     "summary": "本文来自微信公众号： 商战最优解 ，作者：战魔田默，原文标题：《战魔田默｜DeepSeek再融千亿，梁文锋究竟要什么？》 DeepSeek再融千亿，争论焦点不只是资本规模。 外部资金进入之后，梁文锋能否继续主导研发路线和算力配置，才决定这笔钱将如何改变企业的竞争位置。 11月17日，DeepSeek运营主体完成工商变更。 新增持股平台杭州程砚获得17.265%的股权，腾讯、宁德时代、中国移动、中国电信等产业资本与多家投资机构出现在平台出资名单中。 财新等媒体报道，这轮融资规模约1000亿至1055亿元、投后估值约6155亿元；加上6月媒体报道的首轮融资，两轮合计超过1500亿元。 具体交易条款",
+     "source": "虎嗅",
+     "zh": "战魔田默｜DeepSeek再融千亿，梁文锋究竟要什么？"
+    },
+    {
+     "title": "黄仁勋回应重返英伟达",
+     "link": "https://www.huxiu.com/article/4907838.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 22:44:26 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：史正丞 英伟达周一宣布，公司创始人黄仁勋恢复公司总裁、首席执行官及董事，即刻生效。距离公司11月12日宣布其离任，仅过去11天，这场牵动全球AI产业的领导层风波迎来重大转折。 （来源：英伟达官网） 根据最新公告，董事会在与黄仁勋进行一系列讨论和会面后，对其坦诚程度及继续领导公司的能力表示满意，并一致投票支持其复职。董事长哈维·琼斯表示，这一决定符合股东、员工、合作伙伴及客户的最佳利益。琼斯将继续担任董事长，科莱特·克雷斯则继续履行首席财务官职责。 英伟达董事会同时表示，作出这一决定时还听取了美国政府高层的意见。基于这些意见，董事会认为恢复黄仁勋职务不会带来",
+     "source": "虎嗅",
+     "zh": "黄仁勋回应重返英伟达"
+    },
+    {
      "title": "黄仁勋恢复英伟达CEO职位，董事会全票通过",
      "link": "https://www.huxiu.com/article/4907832.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 22:41:43 +0800",
      "summary": "本文来自微信公众号： APPSO ，作者：APPSO，题图来自：视觉中国 黄仁勋回来了。 就在刚刚，英伟达发布公告，宣布董事会一致投票通过，恢复黄仁勋的公司总裁、首席执行官及董事会董事职务，决定立即生效。 距离他辞去相关职务，仅仅过去了十余天。更令人意外的是，就在不到一周前，英伟达董事会还曾公开表示，无意重新任命黄仁勋担任 CEO。如今，董事会的态度却发生了明显转变。 根据公告，英伟达董事会与黄仁勋进行了多轮讨论和会面，最终对他的坦诚程度及领导能力表示认可，认为恢复其职务符合股东、员工、合作伙伴和客户的最佳利益。 一个值得关注的细节是，董事会在决策过程中还听取了美国政府高级官员的意见，并据此判",
      "source": "虎嗅",
      "zh": "黄仁勋恢复英伟达CEO职位，董事会全票通过"
+    },
+    {
+     "title": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功",
+     "link": "https://www.ithome.com/1/031/216.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:41:11 GMT",
+     "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。英伟达表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 IT之家注意到，美国总统唐纳德 · 特朗普随后发文向黄仁勋表示祝贺，称英伟达董事会作出了正确的决定，将黄仁勋重新任命为 CEO。 美国需要黄仁勋的领导才能确保公司以及整个美国经济的繁荣与成功 。 IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的",
+     "source": "IT之家",
+     "zh": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功"
+    },
+    {
+     "title": "黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元",
+     "link": "https://www.ithome.com/1/031/217.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:39:57 GMT",
+     "summary": "IT之家 11 月 23 日消息，今日英伟达美股开盘跳涨 32%，市值增加超 1 万亿美元 （IT之家注：现汇率约合 6.68 万亿元人民币） ，总市值重新站上 4 万亿美元 （现汇率约合 26.73 万亿元人民币） 。英伟达当日宣布，即日起恢复黄仁勋总裁兼首席执行官及董事会成员职务。 IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示，“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢",
+     "source": "IT之家",
+     "zh": "黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元"
+    },
+    {
+     "title": "漫威《复仇者联盟 5：毁灭之日》全新预告发布：X 战警、复联集结，12 月 16 日内地领先全球上映",
+     "link": "https://www.ithome.com/1/031/215.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:33:14 GMT",
+     "summary": "IT之家 11 月 23 日消息，漫威影业刚刚发布了《复仇者联盟 5：毁灭之日》全新预告。 过去的抉择，各自的人生，当毁灭即将降临，他们必须协力迎战。 据IT之家此前报道， 漫威最新力作《复仇者联盟 5：毁灭之日》内地已定档 12 月 16 日全球领先上映 。众多新老角色将齐聚一堂，开启漫威宇宙下一阶段。 结合此前网传剧情来看，《复仇者联盟 5：毁灭之日》将讲述多元宇宙的故事，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。 本片将由罗素兄弟回归执导，小罗伯特・唐尼、克里斯・埃文斯、克里斯・海",
+     "source": "IT之家",
+     "zh": "漫威《复仇者联盟 5：毁灭之日》全新预告发布：X 战警、复联集结，12 月 16 日内地领先全球上映"
     },
     {
      "title": "90年之后再看凯恩斯主义：纪念凯恩斯《就业、利息和货币通论》发表90周年",
@@ -1809,44 +1873,12 @@
      "zh": "大疆 Osmo Action 6 运动相机新增街拍大师套装：收录手柄、肩带、挂绳，3799 元"
     },
     {
-     "title": "小鹏图灵世界模型 X-World 完成重要升级，推出构建虚拟城市能力等",
-     "link": "https://www.ithome.com/1/031/212.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:22:53 GMT",
-     "summary": "IT之家 11 月 23 日消息，小鹏汽车官方今日宣布，近日，X-World 基于小鹏第二代 VLA 研发现实需求，迎来首次重要升级。新一代 X-World 1.6 包含两大重要升级： 其一， 推出构建虚拟城市（Virtual City）的能力 ：让环境仿真深植现实场景，提升环境复现与环境增强能力。模型可在云端构建具备空间与时间记忆的「城市数字分身」，支持回到现实场景任意时空点重跑验证； 其二， 大幅提升推理实时性 ：X-World 实现交互仿真实时化，解决推理效率成本瓶颈，为大规模应用扫平障碍。同时，研发测试人员也可通过方向盘踏板直接驶入模型生成的世界，实时体验 / 评估生成世界。 小鹏汽车",
-     "source": "IT之家",
-     "zh": "小鹏图灵世界模型 X-World 完成重要升级，推出构建虚拟城市能力等"
-    },
-    {
      "title": "黄仁勋复职，重掌英伟达",
      "link": "https://www.huxiu.com/article/4907829.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 22:19:00 +0800",
      "summary": "本文来自： 爱范儿 ，原文标题：《刚刚！黄仁勋复职，重掌英伟达！》，题图来自：视觉中国 当地时间 11 月 23 日，就在刚刚，英伟达董事会宣布黄仁勋恢复担任公司总裁、首席执行官以及董事会成员，即刻生效。 根据董事会声明，恢复黄仁勋职务的投票，董事会一致通过。 董事会表示：&ldquo;董事会对黄仁勋先生的坦诚和领导英伟达的能力感到满意。在做出决定的过程中，董事会听取了美国政府高层的意见，并基于这些意见，董事会确信黄仁勋先生的复职不会构成任何国家安全风险。&rdquo; 黄仁勋表示，自己很荣幸能够重返并继续领导公司，&ldquo;我将以无比谦逊的态度和更加坚定的决心承担这份责任&hellip;",
      "source": "虎嗅",
      "zh": "黄仁勋复职，重掌英伟达"
-    },
-    {
-     "title": "黄仁勋：很荣幸重返英伟达，迫不及待想回去工作",
-     "link": "https://www.ithome.com/1/031/211.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:18:34 GMT",
-     "summary": "IT之家 11 月 23 日消息，今日英伟达宣布，即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务。英伟达表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示。“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 · 琼斯（Harvey Jones）作为董事长所展现的领导力，也感谢科莱特 · 克雷斯（Colette Kress）以及我们",
-     "source": "IT之家",
-     "zh": "黄仁勋：很荣幸重返英伟达，迫不及待想回去工作"
-    },
-    {
-     "title": "Paradox《群星》新大型 DLC《意志之力》发售：Steam 国区 ¥108，支持简体中文",
-     "link": "https://www.ithome.com/1/031/210.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:17:52 GMT",
-     "summary": "IT之家 11 月 23 日消息，Paradox Interactive 旗下科幻大型策略游戏《群星》（Stellaris）全新大型扩展包《Stellaris: Willpower》已于 11 月 23 日正式登陆 Steam 平台，国区售价 ¥108，需拥有基础游戏《Stellaris》方可游玩，支持简体中文界面、字幕，暂不支持简体中文配音。IT之家附游戏商品页（ https://store.steampowered.com/app/4241440/Stellaris_Willpower/ ）。 IT之家注意到，该 DLC 由 Paradox Development Studio 与 Abr",
-     "source": "IT之家",
-     "zh": "Paradox《群星》新大型 DLC《意志之力》发售：Steam 国区 ¥108，支持简体中文"
-    },
-    {
-     "title": "英伟达盘前股价大涨 30%，此前董事会宣布恢复黄仁勋 CEO 职务",
-     "link": "https://www.ithome.com/1/031/209.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:16:01 GMT",
-     "summary": "IT之家 11 月 23 日消息，英伟达美股盘前涨幅一度扩大至 30%，截至IT之家发稿回落至 29% 左右。消息面上，英伟达董事会一致同意恢复黄仁勋 CEO 职务。 IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示，“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 · 琼斯（Harvey Jones）作为董事长所展现的领导力",
-     "source": "IT之家",
-     "zh": "英伟达盘前股价大涨 30%，此前董事会宣布恢复黄仁勋 CEO 职务"
     },
     {
      "title": "President Trump says Nvidia \"made the correct and proper decision\", the US \"needs Jensen&apos;s leadership\", and the US AG found no evidence of \"unlawful conduct\" (Donald J. Trump/@realDonaldTrump)",
@@ -1876,25 +1908,9 @@
      "title": "Nvidia&apos;s board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding \"no national security risk\"; NVDA jumps 25%+ (Nvidia Newsroom)",
      "link": "https://www.techmeme.com/261123/p20#a261123p20",
      "pubDate": "Mon, 23 Nov 2026 09:03:19 -0500",
-     "summary": "Nvidia Newsroom : Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding &ldquo;no national security risk&rdquo;; NVDA jumps 25%+ &nbsp; &mdash;&nbsp; SANTA CLARA, Calif., Nov. 23, 2026 NVIDIA (NASDAQ: NVDA) today announced that effective imme",
+     "summary": "Nvidia Newsroom : Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding &ldquo;no national security risk&rdquo;; NVDA jumps 25%+ &nbsp; &mdash;&nbsp; NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been rein",
      "source": "Techmeme",
      "zh": "Nvidia&apos;s board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding \"no national security risk\"; NVDA jumps 25%+ (Nvidia Newsroom)"
-    },
-    {
-     "title": "21年来首次，又一座城市，地铁涨价了",
-     "link": "https://www.huxiu.com/article/4907824.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 22:03:11 +0800",
-     "summary": "本文来自微信公众号： 西部城事 ，作者：西部菌，原文标题：《21年来首次！又一座城市，地铁涨价了》 又一座城市地铁调价方案，尘埃落定。 日前，上海正式对外发布优化后的轨道交通票价机制。 根据新规，起乘价保持3元不变，起乘间距由0-6公里缩短为0-4公里； 后续每4、4、4、7、7、10、10公里加1元，50公里以上每15公里加1元。 新票价将于12月1日起正式实施。 目前，上海轨交平均每人次票价约为4.23元。 而经官方测算，此次调整后，叠加计次票、满额优惠等政策，上海全市乘客平均每人次票价涨幅为21.3%，平均每人次票价提高0.9元。 这意味着，上海平均每人次票价将突破5元。 这是上海地铁票",
-     "source": "虎嗅",
-     "zh": "21年来首次，又一座城市，地铁涨价了"
-    },
-    {
-     "title": "Jensen Huang Reinstated as Nvidia CEO",
-     "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-     "pubDate": "Mon, 23 Nov 2026 14:01:23 +0000",
-     "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director Comments URL: https://news.ycombinator.com/item?id=50611588 Points: 811 # Comments: 587",
-     "source": "Hacker News",
-     "zh": "Jensen Huang Reinstated as Nvidia CEO"
     },
     {
      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
@@ -1929,44 +1945,12 @@
      "zh": "Nvidia Is Powering Brain-Computer Interfaces Now"
     },
     {
-     "title": "Q&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X&apos;s influence, AI call center agents, working as OpenAI chair, and more (Dom Cooke/Colossus)",
-     "link": "https://www.techmeme.com/261123/p18#a261123p18",
-     "pubDate": "Mon, 23 Nov 2026 08:10:00 -0500",
-     "summary": "Dom Cooke / Colossus : Q&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X's influence, AI call center agents, working as OpenAI chair, and more &nbsp; &mdash;&nbsp; A conversation with Bret Taylor, who has achieved nearly every feat in business except the one he",
-     "source": "Techmeme",
-     "zh": "Q&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X&apos;s influence, AI call center agents, working as OpenAI chair, and more (Dom Cooke/Colossus)"
-    },
-    {
-     "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-     "link": "https://github.com/ruairidhflint/news-blocklist",
-     "pubDate": "Mon, 23 Nov 2026 13:02:52 +0000",
-     "summary": "A little while ago I built (vibed) a tiny Mac app to block websites via the hosts file. By default it imported some fairly popular adult filtering lists as well as social media etc. It has been very effective; it would only take a few moments to switch off but it is enough of an interruption to ofte",
-     "source": "Hacker News",
-     "zh": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites"
-    },
-    {
      "title": "GLP-1 减肥药或能对环境产生显著影响",
      "link": "https://www.solidot.org/story?sid=85967",
      "pubDate": "Mon, 23 Nov 2026 20:48:26 +0800",
      "summary": "GLP-1 减肥药如 Ozempic 和 Wegovy 会抑制服用者的食欲，如果这种药物能普及，那么抑制食欲减少粮食会带来巨大的环境影响。研究人员估计，如果肥胖成年人广泛服用 GLP-1，预计到 2050 年热量摄入的减少每年可预防多达 660 万例死亡，同时释放多达 3200 万公顷的农业用地。如果热量摄入减少的同时转向健康饮食结构，那么到 2050 年每年可避免多达 700 万例死亡，同时释放约 4600 万公顷的农业用地。全球各地的粮食系统是相互关联的。世界部分地区的粮食需求下降，会波及其他地区的农业、贸易和食品价格，从而影响到未服用 GLP-1 药物的人群。",
      "source": "Solidot",
      "zh": "GLP-1 减肥药或能对环境产生显著影响"
-    },
-    {
-     "title": "Arm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO (Bloomberg)",
-     "link": "https://www.techmeme.com/261123/p17#a261123p17",
-     "pubDate": "Mon, 23 Nov 2026 07:30:02 -0500",
-     "summary": "Bloomberg : Arm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO &nbsp; &mdash;&nbsp; Arm Holdings Plc Chief Executive Officer Rene Haas has pledged to stay in his current role through 2033, r",
-     "source": "Techmeme",
-     "zh": "Arm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO (Bloomberg)"
-    },
-    {
-     "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-     "link": "https://github.com/mikuta0407/win4wine",
-     "pubDate": "Mon, 23 Nov 2026 12:28:11 +0000",
-     "summary": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 47 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "Win4wine – Run Windows Shell as the Linux Desktop on Wine"
     },
     {
      "title": "Tri-screen portable monitors aren’t for the faint of heart",
@@ -1999,6 +1983,22 @@
      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
      "source": "WIRED",
      "zh": "44 Best Gifts Under $100 That WIRED Loves (2026)"
+    },
+    {
+     "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
+     "link": "https://www.wired.com/story/gifts-for-parents-2026/",
+     "pubDate": "Mon, 23 Nov 2026 11:30:00 +0000",
+     "summary": "If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to help make parenting a little easier.",
+     "source": "WIRED",
+     "zh": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More"
+    },
+    {
+     "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
+     "link": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
+     "pubDate": "Mon, 23 Nov 2026 11:30:00 +0000",
+     "summary": "Canadian citizen Yat Choi moved from DOGE to the National Design Studio before launching his own company, Govmaxxing.",
+     "source": "WIRED",
+     "zh": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy"
     }
    ]
   },
@@ -2009,12 +2009,60 @@
    "total": 7,
    "items": [
     {
+     "title": "AirPods Max 2 drop to $419 in a $130 Black Friday price cut",
+     "link": "https://www.androidauthority.com/airpods-max-2-black-friday-deal-3738388/",
+     "pubDate": "Mon, 23 Nov 2026 14:59:54 +0000",
+     "summary": "Apple's H2-powered over-ear headphones are 24% off on Amazon, their lowest price in three months.",
+     "source": "Android Authority",
+     "zh": "AirPods Max 2 drop to $419 in a $130 Black Friday price cut"
+    },
+    {
+     "title": "Motorola Razr Flex gets certified, wireless charging speed revealed",
+     "link": "https://www.gsmarena.com/motorola_razr_flex_gets_certified_wireless_charging_speed_revealed-news-75592.php",
+     "pubDate": "Mon, 23 Nov 2026 15:57:02 +0100",
+     "summary": "Motorola's first wide foldable, the Razr Flex, has been leaking a lot lately, most recently in renders showing off both of its colors. Now, the device has been certified by the Wireless Power Consortium (WPC), and the listing reveals how fast it will charge wirelessly. The listing is dated November ",
+     "source": "GSMArena",
+     "zh": "Motorola Razr Flex gets certified, wireless charging speed revealed"
+    },
+    {
+     "title": "You’ll be aura farming with this amazing $100-off Oura Ring 5 deal",
+     "link": "https://9to5google.com/2026/11/23/oura-ring-5-black-friday-week-2026-deal/",
+     "pubDate": "Mon, 23 Nov 2026 14:55:50 +0000",
+     "summary": "The world’s highest-rated smart ring is on sale for Black Friday week, and it’ll blow you away. more…",
+     "source": "9to5Google",
+     "zh": "You’ll be aura farming with this amazing $100-off Oura Ring 5 deal"
+    },
+    {
+     "title": "Kodak SlideTag is a $35 Android & iPhone tracker with an E-Ink display to show your photos and more [Gallery]",
+     "link": "https://9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker/",
+     "pubDate": "Mon, 23 Nov 2026 14:55:00 +0000",
+     "summary": "AirTag-like trackers for Android and iPhone are everywhere nowadays, but Kodak’s new SlideTag steps it up with a built-in E-Ink display that can show off your photos, widgets, and more along with being able to track down your items. more…",
+     "source": "9to5Google",
+     "zh": "Kodak SlideTag is a $35 Android & iPhone tracker with an E-Ink display to show your photos and more [Gallery]"
+    },
+    {
+     "title": "How to pair your Bluetooth headphones to your Windows PC",
+     "link": "https://www.engadget.com/2320151/how-to-pair-bluetooth-headphones-windows-pc/",
+     "pubDate": "Mon, 23 Nov 2026 14:45:00 +0000",
+     "summary": "Connecting a pair of Bluetooth headphones to a Windows PC isn't as simple as plugging into a headphone socket, but it's still quite straightforward.",
+     "source": "Engadget",
+     "zh": "How to pair your Bluetooth headphones to your Windows PC"
+    },
+    {
      "title": "Will Siri AI threaten Apple’s environmental target, given Google and Meta admissions?",
      "link": "https://9to5mac.com/2026/11/23/will-siri-ai-threaten-apples-environmental-target-given-google-and-meta-admissions/",
      "pubDate": "Mon, 23 Nov 2026 14:44:21 +0000",
      "summary": "I think Apple can reasonably claim to be the leading tech giant when it comes to its environmental credentials. It has led the way with its use of renewable energy, made significant strides with carbon-neutral production, and removed plastic from all its packaging. All of this could potentially be p",
      "source": "9to5Mac",
      "zh": "Will Siri AI threaten Apple’s environmental target, given Google and Meta admissions?"
+    },
+    {
+     "title": "Pixel Watch 4 & 5’s handy USB-C travel charger drops to $18.99",
+     "link": "https://9to5google.com/2026/11/23/pixel-watch-4-5s-handy-usb-c-travel-charger-drops-to-18-99/",
+     "pubDate": "Mon, 23 Nov 2026 14:35:00 +0000",
+     "summary": "The compact USB-C charger for Google’s latest Pixel Watch generations has hit the lowest price we’ve ever seen for Black Friday at just $18.99. more…",
+     "source": "9to5Google",
+     "zh": "Pixel Watch 4 & 5’s handy USB-C travel charger drops to $18.99"
     },
     {
      "title": "RayNeo Black Friday deals: AR smart glasses that turn your Mac and iPhone into a 307-inch screen",
@@ -2145,14 +2193,6 @@
      "zh": "Newest Apple Watch Series 12 and Ultra 4 now $100 off for Black Friday, more from just $179"
     },
     {
-     "title": "Which Samsung folding phone is right for you? Galaxy Z Fold 8, Ultra, or Flip 8",
-     "link": "https://9to5google.com/2026/11/23/samsung-folding-phone-guide/",
-     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "Folding phones are entering a new chapter and, if you’re looking to try one for the first time, you might not know exactly where to start. In this guide, we’ll take a look at some of the most important questions to answer when buying a foldable, and dissect how Samsung’s Galaxy Z Fold 8, Galaxy Z Fo",
-     "source": "9to5Google",
-     "zh": "Which Samsung folding phone is right for you? Galaxy Z Fold 8, Ultra, or Flip 8"
-    },
-    {
      "title": "Shoot while the sun shines: samples from the Nikon Z5IIC",
      "link": "https://www.dpreview.com/samples/nikon-z5iic-production-samples/",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
@@ -2167,14 +2207,6 @@
      "summary": "One of the most dramatic shifts in the AI landscape is the emergence of intelligent agents that can use iPhone and Mac apps in order to carry out tasks on our behalf. We can already use third-party chatbots in this way, and we know Apple is working hard to turn Siri AI into an agent. However, before",
      "source": "9to5Mac",
      "zh": "As Apple works on AI agent features, banks are already blocking them"
-    },
-    {
-     "title": "Razer’s lightweight Kraken V3 X gaming headset is 43% off",
-     "link": "https://www.androidauthority.com/razer-kraken-v3-x-deal-3737920/",
-     "pubDate": "Mon, 23 Nov 2026 12:55:13 +0000",
-     "summary": "Save $30 on Razer's 285g USB gaming headset with 7.1 surround sound and RGB lighting on Amazon.",
-     "source": "Android Authority",
-     "zh": "Razer’s lightweight Kraken V3 X gaming headset is 43% off"
     },
     {
      "title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo",
@@ -2215,38 +2247,6 @@
      "summary": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
      "source": "少数派",
      "zh": "怪手机们要回来了吗？"
-    },
-    {
-     "title": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
-     "link": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
-     "pubDate": "Mon, 23 Nov 2026 09:35:53 +0000",
-     "summary": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic.",
-     "source": "Engadget",
-     "zh": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law"
-    },
-    {
-     "title": "iPhone Duo may soon support more widgets on its Lock Screen",
-     "link": "https://www.gsmarena.com/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588.php",
-     "pubDate": "Mon, 23 Nov 2026 09:49:02 +0100",
-     "summary": "The iPhone Duo currently supports two customizable shortcuts on its lock screen, positioned in the bottom-right corner. However, a tipster claims Apple has been testing new Lock Screen widgets for the foldable, which could arrive in a future software update. Leakster pdfu shared the findings on X, a",
-     "source": "GSMArena",
-     "zh": "iPhone Duo may soon support more widgets on its Lock Screen"
-    },
-    {
-     "title": "Google is killing off the Nest app and Google Assistant on Home devices",
-     "link": "https://www.gsmarena.com/google_is_killing_off_the_nest_app_and_google_assistant_on_home_devices-news-75580.php",
-     "pubDate": "Mon, 23 Nov 2026 08:23:02 +0100",
-     "summary": "In traditional Google fashion, the online titan just can’t seem to make up its mind on what is mostly semantics and end-user marketing matters. A couple of changes were recently announced for 2027, pertaining to Google Home devices. First up, the Nest app for Android, iOS and the web version will al",
-     "source": "GSMArena",
-     "zh": "Google is killing off the Nest app and Google Assistant on Home devices"
-    },
-    {
-     "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-     "link": "https://sspai.com/post/119023",
-     "pubDate": "Mon, 23 Nov 2026 15:12:24 +0800",
-     "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ... 查看全文",
-     "source": "少数派",
-     "zh": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验"
     }
    ]
   },
@@ -2257,36 +2257,60 @@
    "total": 13,
    "items": [
     {
+     "title": "MaxLinear advances 21% amid broad technology rally",
+     "link": "https://seekingalpha.com/news/4675608-maxlinear-advances-21-amid-broad-technology-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:02:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MaxLinear advances 21% amid broad technology rally"
+    },
+    {
+     "title": "Nvidia soars +34% and is now poised for its second-best daily gain in company history",
+     "link": "https://seekingalpha.com/news/4675615-nvidia-soars-34-and-is-now-poised-for-its-second-best-daily-gain-in-company-history?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:01:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia soars +34% and is now poised for its second-best daily gain in company history"
+    },
+    {
+     "title": "IMUNON annouces withdrawal of form S-1 registration statement",
+     "link": "https://seekingalpha.com/news/4675622-imunon-annouces-withdrawal-of-form-sminus-1-registration-statement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:00:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IMUNON annouces withdrawal of form S-1 registration statement"
+    },
+    {
+     "title": "Tech rally sends AXT higher by 21%",
+     "link": "https://seekingalpha.com/news/4675617-tech-rally-sends-axt-higher-by-21?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 09:59:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tech rally sends AXT higher by 21%"
+    },
+    {
+     "title": "Bloom Energy climbs 19% on AI rebound",
+     "link": "https://seekingalpha.com/news/4675605-bloom-energy-climbs-19-on-ai-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 09:58:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bloom Energy climbs 19% on AI rebound"
+    },
+    {
+     "title": "BlackRock MuniYield Pennsylvania Quality Fund declares $0.0477 dividend",
+     "link": "https://seekingalpha.com/news/4675623-blackrock-muniyield-pennsylvania-quality-fund-declares-0_0477-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 09:56:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BlackRock MuniYield Pennsylvania Quality Fund declares $0.0477 dividend"
+    },
+    {
      "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 14:47:45 GMT",
+     "pubDate": "Mon, 23 Nov 2026 14:54:18 GMT",
      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
      "source": "CNBC",
      "zh": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair"
-    },
-    {
-     "title": "BlackRock 2037 Municipal Target Term Trust declares $0.0993 dividend",
-     "link": "https://seekingalpha.com/news/4675603-blackrock-2037-municipal-target-term-trust-declares-0_0993-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:45:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock 2037 Municipal Target Term Trust declares $0.0993 dividend"
-    },
-    {
-     "title": "Nvidia shares surge nearly 30%, adds nearly $1T in market cap, as Jensen Huang returns",
-     "link": "https://seekingalpha.com/news/4675565-nvidia-reinstates-jensen-huang-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:43:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia shares surge nearly 30%, adds nearly $1T in market cap, as Jensen Huang returns"
-    },
-    {
-     "title": "BlackRock Municipal 2030 Target Term Trust declares $0.0464 dividend",
-     "link": "https://seekingalpha.com/news/4675601-blackrock-municipal-2030-target-term-trust-declares-0_464-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:41:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock Municipal 2030 Target Term Trust declares $0.0464 dividend"
     },
     {
      "title": "美股科技大反攻！黄仁勋回归，英伟达涨超30%，纳斯达克100涨7%，布油失守90美元",
@@ -2297,6 +2321,14 @@
      "zh": "美股科技大反攻！黄仁勋回归，英伟达涨超30%，纳斯达克100涨7%，布油失守90美元"
     },
     {
+     "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+     "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:39:00 GMT",
+     "summary": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
+     "source": "MarketWatch",
+     "zh": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings"
+    },
+    {
      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
      "pubDate": "Mon, 23 Nov 2026 14:38:45 GMT",
@@ -2305,28 +2337,12 @@
      "zh": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks"
     },
     {
-     "title": "Oil slides as supply gains outweigh Middle East disruption fears",
-     "link": "https://seekingalpha.com/news/4675598-oil-slides-as-supply-gains-outweigh-middle-east-disruption-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:37:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oil slides as supply gains outweigh Middle East disruption fears"
-    },
-    {
-     "title": "Nasdaq up 6%, S&P 500 +4%, as Nvidia reinstates Jensen Huang as CEO",
-     "link": "https://seekingalpha.com/news/4675470-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:37:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nasdaq up 6%, S&P 500 +4%, as Nvidia reinstates Jensen Huang as CEO"
-    },
-    {
-     "title": "Nasdaq surges +7% on Huang's return to Nvidia, and these 20 names are rallying alongside",
-     "link": "https://seekingalpha.com/news/4675593-nasdaq-surges-7-on-huangs-return-to-nvidia-and-these-20-names-are-rallying-alongside?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:35:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nasdaq surges +7% on Huang's return to Nvidia, and these 20 names are rallying alongside"
+     "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+     "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:37:00 GMT",
+     "summary": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
+     "source": "MarketWatch",
+     "zh": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?"
     },
     {
      "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
@@ -2335,6 +2351,14 @@
      "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
      "source": "Financial Times",
      "zh": "Nvidia shares soar 30% after board reinstates Jensen Huang"
+    },
+    {
+     "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+     "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:33:00 GMT",
+     "summary": "Donald Trump’s was among the voices pushing for ousted co-founder Huang’s resumption of the AI chip giant’s reins.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO"
     },
     {
      "title": "Nvidia reinstates Jensen Huang as chief executive",
@@ -2351,6 +2375,30 @@
      "summary": "Donald Trump hosted a dinner for top holders of his meme coin that has fallen to under $1. Bitcoin rebounded after falling to lowest level since September 2024.",
      "source": "CNBC",
      "zh": "Trump hosts crypto gala as his meme coin falls below $1"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:15:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+     "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:14:00 GMT",
+     "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+     "source": "MarketWatch",
+     "zh": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet"
+    },
+    {
+     "title": "The number of 401(k) millionaires drops amid stock-market swings",
+     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 14:10:00 GMT",
+     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+     "source": "MarketWatch",
+     "zh": "The number of 401(k) millionaires drops amid stock-market swings"
     },
     {
      "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
@@ -2375,54 +2423,6 @@
      "summary": "沃什出任美联储主席半年后，其“少说话、不提供前瞻指引”的沟通理念正遭遇内部阻力。随着官员分歧公开化，市场对货币政策路径的判断难度上升，政策沟通缺位也开始影响决策效果。 最新信号来自上周三公布的10月议息会议纪要。据彭博报道， 纪要显示，部分支持加息的官员表示，如果市场能够清楚理解进一步收紧政策的可能性，他们原本可以支持维持利率不变。这一表态凸显了沟通不足带来的政策传导问题。 美联储内部的分歧也日益公开。理事Christopher Waller主张一次性加息50个基点，纽约联储主席John Williams则反对这种“戏剧性”举措。面对不同声音，沃什仍选择保持沉默，没有公开协调政策立场。 对投资",
      "source": "华尔街见闻",
      "zh": "沃什的“少说话”战略遭遇阻力，美联储内部分歧日益明显"
-    },
-    {
-     "title": "匈牙利央行副行长库拉利：央行于9月结束宽松周期",
-     "link": "http://hk.eastmoney.com/news/1533,202611233937567274.html",
-     "pubDate": "Mon, 23 Nov 2026 21:37:58 +0800",
-     "summary": "匈牙利央行副行长库拉利：央行于9月结束宽松周期；暂停行动符合谨慎且以数据为导向的做法。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "匈牙利央行副行长库拉利：央行于9月结束宽松周期"
-    },
-    {
-     "title": "美国战略石油储备库存降至1982年以来的最低水平",
-     "link": "http://hk.eastmoney.com/news/1533,202611233937562886.html",
-     "pubDate": "Mon, 23 Nov 2026 21:36:35 +0800",
-     "summary": "根据美国能源部的数据，上周美国战略石油储备中的原油库存降至2.735亿桶，为1982年8月以来的最低水平。近期库存的减少，是美国此前达成的一项协议的一部分；根据该协议，美国将从战略石油储备中释放1.72亿桶原油。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国战略石油储备库存降至1982年以来的最低水平"
-    },
-    {
-     "title": "匈牙利央行副行长库拉利：全球风险情绪显著恶化",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937554164.html",
-     "pubDate": "Mon, 23 Nov 2026 21:34:44 +0800",
-     "summary": "匈牙利央行副行长库拉利：全球风险情绪显著恶化。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "匈牙利央行副行长库拉利：全球风险情绪显著恶化"
-    },
-    {
-     "title": "美国财政部顾问泽尔沃斯：上周金融环境收紧",
-     "link": "http://hk.eastmoney.com/news/1533,202611233937548664.html",
-     "pubDate": "Mon, 23 Nov 2026 21:34:18 +0800",
-     "summary": "美国财政部顾问泽尔沃斯：上周金融环境收紧。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国财政部顾问泽尔沃斯：上周金融环境收紧"
-    },
-    {
-     "title": "英伟达 盘前大涨8%！利好来了？",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937567441.html",
-     "pubDate": "Mon, 23 Nov 2026 21:33:57 +0800",
-     "summary": "全球股市行情复盘 上周五，全球股市出现大幅调整，美股科技股被抛售，费城 半导体 指数下跌10.73%，AI总龙头 英伟达 下跌14.01%。 而今天早上开盘后，美股 期货 转为上涨，亚太市场整体低开后也实现反弹。今晚，美股盘前科技股集体大幅反弹，市场发生了哪些变化？ 关键的变化出现在上周末，多个市场推出稳市政策，或释放积极信号。 A股方面，11月22日，有关部门发布调整融资保证金比例、创业板引入做市商制度征求意见、一揽子降费等稳市场稳预期相关政策。 韩国市场方面，韩国财政部上周日表示，将放宽每日股票回购限额和密切监控非法卖空行为，为期三个月；已准备好立即部署市场稳定基金。 比较重要的变化，是在",
-     "source": "东方财富股票",
-     "zh": "英伟达 盘前大涨8%！利好来了？"
-    },
-    {
-     "title": "印度将通过关税配额向美国出口原糖的期限延长一年",
-     "link": "http://finance.eastmoney.com/news/11790,202611233937567329.html",
-     "pubDate": "Mon, 23 Nov 2026 21:33:53 +0800",
-     "summary": "印度将通过关税配额（TRQ）向美国出口原糖的期限延长一年。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "印度将通过关税配额向美国出口原糖的期限延长一年"
     },
     {
      "title": "Anthropic承诺约9000亿美元算力开支，债市预期其债券为垃圾级",

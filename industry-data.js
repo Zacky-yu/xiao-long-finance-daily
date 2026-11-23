@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 08:51:56",
+ "generated_at": "2026/11/23 09:11:55",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Ed’s Vulture Fund For Distressed Datacentres",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/eds-vulture-fund-for-distressed-datacentres-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 01:01:02 +0000",
+     "summary": "The NBW (Next Big Wheeze) is going to be the market for distressed datacentres, Ed confides to his diary, and I’m putting together a Vulture Fund to participate. Of course […] The post Ed’s Vulture Fund For Distressed Datacentres appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Ed’s Vulture Fund For Distressed Datacentres"
+    },
+    {
      "title": "India roundup: India's semiconductor ambitions' execution hurdles",
      "link": "https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html",
      "pubDate": "Sun, 22 Nov 2026 23:51:12 GMT",
@@ -408,14 +416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
      "source": "Electronics Weekly",
      "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -1778,6 +1778,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "白塔机场，此去那个经年",
+     "link": "https://www.huxiu.com/article/4907589.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:58:42 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 大概是前年夏天吧，我和FATIII专程回去看过一次已经关停的青岛流亭机场。 几条熟悉的通道都被铁栅栏封住，想绕到近处看看，却怎么也进不去。以前飞航班，走哪条路、在哪儿吃饭、去哪里等车，都不用想。 如今站在外面，仍然记得每一个方向，却走不回那些日日夜夜的寻常。 可熟悉的路就在眼前，我们却只能站在路旁。临走前，我又回头望了望。 那天的阳光很温和，只是偶有小风吹进眼睛，才觉得“流亭”两个字，叫起来还是那么好听。 这几天看到呼和浩特白塔机场即将关闭的消息，又想起了那天。 11月26日零时，盛乐国际机场将正式启用，白塔国际机场同步停止运行。 从1958",
+     "source": "虎嗅",
+     "zh": "白塔机场，此去那个经年"
+    },
+    {
+     "title": "拉美短剧投放素材本地化后完播率反降，问题出在哪？",
+     "link": "https://www.baijing.cn/question/638902",
+     "pubDate": "Mon, 23 Nov 2026 00:58:05 +0000",
+     "summary": "我们做西语短剧App，巴西和墨西哥刚起量，月投放预算约8万美元，主要跑Meta和TikTok。最初用国内翻译字幕加配音的素材，巴西市场3秒完播率还有38%；后来专门请本地演员重拍、换成巴西葡语口音和本地场景，完播率反而掉到29%，墨西哥西语版也类似。试过调整前3秒钩子和字幕节奏，效果不明显。现在卡在判断到底是口音、演员面孔还是剧情冲突强度不符合本地审美。想确认拉美短剧素材本地化时，哪些元素真正影响完播，判断标准该怎么定？",
+     "source": "白鲸出海",
+     "zh": "拉美短剧投放素材本地化后完播率反降，问题出在哪？"
+    },
+    {
+     "title": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值",
+     "link": "https://www.huxiu.com/article/4907584.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:57:12 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：张文曦，编辑：詹腾宇，题图来自：视觉中国 11月，秋招黄金时期的尾声，有人早早上岸，有人还在不确定的状态中漂浮。大部分企业的校招通道已经关闭，对还没有等来好结果的应届生来说，一个名叫&ldquo;求职陪跑&rdquo;服务，开始频繁、精准地出现在他们的视野里。 所谓&ldquo;求职陪跑&rdquo;，指的是一种全流程式的求职辅导服务，包括梳理求职方向、包装简历、模拟面试等，收费从几百元单次咨询到3000&ndash;3万元全程套餐不等，甚至还有数万&ldquo;保offer&rdquo;&ldquo;直签内推&rdquo;的服务。 对焦虑的年轻人来说，&",
+     "source": "虎嗅",
+     "zh": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值"
+    },
+    {
+     "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&apos; Senate confirmation (Axios)",
+     "link": "https://www.techmeme.com/261122/p15#a261122p15",
+     "pubDate": "Sun, 22 Nov 2026 19:55:00 -0500",
+     "summary": "Axios : Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation &nbsp; &mdash;&nbsp; Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten D",
+     "source": "Techmeme",
+     "zh": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&apos; Senate confirmation (Axios)"
+    },
+    {
+     "title": "Edge AI Daily 早报（11月23日）",
+     "link": "https://www.tmtpost.com/8214195.html",
+     "pubDate": "Mon, 23 Nov 2026 08:48:43 +0800",
+     "summary": "英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺，成本刚性与收入弹性错配待解；甲骨文筹足OpenAI合同资金，阿比林园区进入GPT-6 Astra训练。Anthropic数学家称与Claude提出黎曼猜想证明并经Lean/Mathlib形式化检查。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（11月23日）"
+    },
+    {
+     "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
+     "link": "https://www.ithome.com/1/030/740.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:48:36 GMT",
+     "summary": "IT之家 11 月 23 日消息，据央视新闻报道，今早 7 时 30 分左右，正式开启商业首航的第二艘国产大型邮轮“爱达 · 花城号”顺利抵达香港启德邮轮码头。该邮轮本次航程共计 6 天 5 晚，搭载超 3800 名旅客前往中国香港和越南顺化。 IT之家注意到，“爱达 · 花城号”于 11 月 6 日在上海外高桥造船有限公司正式交付。作为首艘国产大型邮轮“爱达 · 魔都号”的姊妹船，“爱达 · 花城号”全长 341 米，总吨位达 14.19 万，拥有 2130 间豪华客房和套房， 可容纳约 5232 名旅客 。邮轮在空间设计、餐饮娱乐与智能科技上进行了全面升级。 据此前官方公布信息，“爱达 ·",
+     "source": "IT之家",
+     "zh": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港"
+    },
+    {
+     "title": "假如人工智能拥有内心世界，它就会和人类智能一样吗？",
+     "link": "https://www.huxiu.com/article/4907586.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:46:21 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：顾凡及 当人工智能不断给出连创造者也未曾预料的答案，人们再次回到了那个本属于科幻的问题：什么时候人工智能会超越人类智能？如果人工智能也有内心世界，它会和人类智能一样吗？人类思维生长于身体经验、情感和生存需要之中；目前的“硅基”人工智能由人设计和训练，却可能在具体问题上走出设计者未曾规划的路径。当然，在讨论这些问题之前，还要定义“智能”：能解决问题是否就足以称为有智能，还是智能还包含感受、目标，以及“为何而行动”的理由？讨论人工智能，最终也让我们重新审视人类如何理解自己。 本文收录于合集前沿探真 今天，没有哪一门科技像人工智能（AI）那样吸引公众的关注。许多人",
+     "source": "虎嗅",
+     "zh": "假如人工智能拥有内心世界，它就会和人类智能一样吗？"
+    },
+    {
+     "title": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元",
+     "link": "https://www.ithome.com/1/030/739.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:45:03 GMT",
+     "summary": "IT之家 11 月 23 日消息，小米米家智能嵌入式洗碗机灶下 13 套今日开售，支持 75℃ 高温煮洗、可洗红酒杯，新品首发价 2599 元。 IT之家从商品页面获悉，该产品是号称专为三口之家打造，整机内部拥有 104L 的内腔容积，清洁指数达到 1.19， 设备支持 75℃ 高温煮洗 ，在深度清洁的同时除菌率达到 99.99%。产品符合新国标一级水效认证，在保证洗净度的前提下，可更低耗、更节能。 该产品内部碗篮经过空间再升级，支持双锅同洗， 能够将一餐产生的所有餐具和锅具一次洗完 。其中新增的红酒杯洗涤架为精细杯具提供了专属洗涤位，防止洗涤水流造成磕碰损坏。设备支持小米澎湃智联，用户可利用",
+     "source": "IT之家",
+     "zh": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元"
+    },
+    {
      "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
      "link": "https://www.techmeme.com/261122/p14#a261122p14",
      "pubDate": "Sun, 22 Nov 2026 19:45:01 -0500",
@@ -1786,12 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)"
     },
     {
-     "title": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值",
-     "link": "https://www.huxiu.com/article/4907584.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:36:39 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：张文曦，编辑：詹腾宇 被许多年轻人信任的“求职陪跑”，卖的实际上是信息差与焦虑。保offer、大厂直通资格、有效修改简历的承诺背后，是大量并不成功的案例甚至骗局。一份好工作，并不能简单地通过购买或者交易得来。 11月，秋招黄金时期的尾声，有人早早上岸，有人还在不确定的状态中漂浮。大部分企业的校招通道已经关闭，对还没有等来好结果的应届生来说，一个名叫“求职陪跑”服务，开始频繁、精准地出现在他们的视野里。 所谓“求职陪跑”，指的是一种全流程式的求职辅导服务，包括梳理求职方向、包装简历、模拟面试等，收费从几百元单次咨询到3000–3万元全程套餐不等，甚至还有数万",
+     "title": "Token工厂大爆发，有人闷声发财，有人巨亏",
+     "link": "https://www.huxiu.com/article/4907585.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:43:18 +0800",
+     "summary": "本文来自微信公众号： 技术领导力 ，作者：Mr.K，原文标题：《Token工厂大爆发！有人闷声发财，有人巨亏》 这是AI行业年终盘点系列的第三篇，本文聚焦中国Token工厂。前两篇是关于大模型、AI办公领域的。以下是正文： 有行业机构估算，2026年中国日均Token调用量已经超过1000万亿，2024年这个数字是1000亿，短短两年增长了约1万倍。Token调用量的大爆发，催生了一个行业的井喷，那就是“Token工厂”。 跟“词元”一样，这是一个被重新命名的词条。真正把“Token工厂”系统化的是英伟达。2026年GTC，黄仁勋把AI数据中心定义为生产Token的工厂，把Token比作新石油",
      "source": "虎嗅",
-     "zh": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值"
+     "zh": "Token工厂大爆发，有人闷声发财，有人巨亏"
     },
     {
      "title": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万",
@@ -1826,6 +1890,14 @@ window.INDUSTRY_DATA = {
      "zh": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息"
     },
     {
+     "title": "'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC",
+     "link": "https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html",
+     "pubDate": "Mon, 23 Nov 2026 00:23:37 +0000",
+     "summary": "Article URL: https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html Comments URL: https://news.ycombinator.com/item?id=50605699 Points: 11 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC"
+    },
+    {
      "title": "美国芯片新规对东南亚数据中心投资的影响",
      "link": "https://www.huxiu.com/article/4907578.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 08:19:19 +0800",
@@ -1850,58 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产"
     },
     {
-     "title": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界",
-     "link": "https://www.huxiu.com/article/4907555.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:16:36 +0800",
-     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及",
-     "source": "虎嗅",
-     "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
-    },
-    {
-     "title": "资金运转：企业略改善，居民去杠杆",
-     "link": "https://www.huxiu.com/article/4907575.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:15:21 +0800",
-     "summary": "本文来自微信公众号： 王剑的角度 ，作者：王剑的角度，原文标题：《【随笔】资金运转：企业略改善，居民去杠杆》 核心观点 我们延续前几篇文章的框架，梳理今年前10个月实体部门的资金运转情况。前10个月，实体部门资金来源合计26.20万亿元，同比少增8679亿元；其中，9~10月新增4.14万亿元，同比少增5614亿元。延续8月的变化，资金总量继续同比少增，居民端仍是最明显的拖累。 但企业端，9~10月融资总量虽然偏弱，企业中长期贷款却有所改善，主要是短贷和票据的冲量特征减弱拖累了总量。这些变化，可能与9月28日国务院常务会部署“宏观政策发力提效、促进有效投资有关工作,并作出一系列针对性部署”有关",
-     "source": "虎嗅",
-     "zh": "资金运转：企业略改善，居民去杠杆"
-    },
-    {
-     "title": "[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？",
-     "link": "https://www.huxiu.com/article/4907573.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:14:44 +0800",
-     "summary": "本文来自微信公众号： 奇怪的查理芒格 ，作者：开出一朵塑料花，原文标题：《[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？》 同样从乙烯出发，LDPE比LLDPE贵出来的那一截，近七年月均最高约3,600元，最低约200元。今年10月9日还有2,600元，11月13日只剩约1,600元。 先说结论，三句话： 一、成本最多解释这一截的一半，大头是相对稀缺的租金。 二、租金以前是脉冲，2020年以后成了常态，按年均，除了2023年再没退回成本带。LDPE市场小，谁建线谁就把租金打没，连LDPE比LLDPE还便宜的中东都不建。 三、中国这一波高压装置会把它打下来。今年出口翻倍是",
-     "source": "虎嗅",
-     "zh": "[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？"
-    },
-    {
-     "title": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位",
-     "link": "https://www.ithome.com/1/030/733.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:10:21 GMT",
-     "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，这几天，不少开发者炫耀自己已经好几个月没打开过 VS Code。如今微软 CEO 萨提亚 · 纳德拉表示，他完全了解这一现象。Anthropic 推出 Claude Code 后， VS Code 等传统代码编辑器、IDE 大概六个月就失去了存在感 。 IT之家注：VS Code 是微软推出的免费开源跨平台代码编辑器，不是 IDE。该软件内置对语法高亮、智能代码补全、代码重构、代码调试以及 Git 版本控制的支持，并可通过庞大的扩展生态拓展软件功能。 纳德拉认为，过去十多年，微软一直努力将 VS Code 打",
-     "source": "IT之家",
-     "zh": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位"
-    },
-    {
-     "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
-     "link": "https://www.ithome.com/1/030/732.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:05:19 GMT",
-     "summary": "IT之家 11 月 23 日消息，据路透社 11 月 21 日报道，印度主要反对党国大党的青年团近日因不满旗下成员的 Instagram 账号遭到限制，前往 Meta 印度办事处抗议，还与警方及安保人员发生冲突。 印度青年国大党（Indian Youth Congress，简称 IYC）还向 Meta 发出最后通牒，要求在七天内恢复相关账号，否则将在印度各地继续举行抗议活动。 印度青年国大党 11 月 20 日当天发布的视频显示，示威者手持标语牌、高喊口号，进入 Meta 位于海得拉巴的办公楼，将花盆砸向地面，并与警方及安保人员发生冲突。 另一段视频显示，国大党工作人员在 Meta 孟买办事处",
-     "source": "IT之家",
-     "zh": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突"
-    },
-    {
-     "title": "FBI is having a mass hire for IT specialists",
-     "link": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
-     "pubDate": "Sun, 22 Nov 2026 23:58:22 +0000",
-     "summary": "Article URL: https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1& Comments URL: https://news.ycombinator.com/item?id=50605483 Points: 14 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "FBI is having a mass hire for IT specialists"
-    },
-    {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 34 # Comments: 30",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 62 # Comments: 57",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
     },
@@ -1909,9 +1933,17 @@ window.INDUSTRY_DATA = {
      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
      "link": "https://0rwx.com/",
      "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
-     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
+    },
+    {
+     "title": "What should AAA game devs do",
+     "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+     "pubDate": "Sun, 22 Nov 2026 23:51:00 +0000",
+     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 9 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "What should AAA game devs do"
     },
     {
      "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
@@ -1933,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 101 # Comments: 55",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 127 # Comments: 89",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1941,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 46 # Comments: 18",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 61 # Comments: 27",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
-    },
-    {
-     "title": "Localcode, open source agentic coding on your Mac with one command",
-     "link": "https://github.com/mjwsolo/localcode",
-     "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
-     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 12 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Localcode, open source agentic coding on your Mac with one command"
     },
     {
      "title": "‘You Can See Everything’ has made more than $100M worldwide",
@@ -1986,36 +2010,12 @@ window.INDUSTRY_DATA = {
      "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
     },
     {
-     "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
-     "link": "https://www.techmeme.com/261122/p9#a261122p9",
-     "pubDate": "Sun, 22 Nov 2026 13:25:01 -0500",
-     "summary": "Jakub Pachocki / OpenAI : OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains &nbsp; &mdash;&nbsp; - Difficulty of comparison across labs. &hellip; - Detachment from actionable evaluations. &",
-     "source": "Techmeme",
-     "zh": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)"
-    },
-    {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
      "link": "https://www.solidot.org/story?sid=85959",
      "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
      "source": "Solidot",
      "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
-    },
-    {
-     "title": "Can a TV be too large? An investigation",
-     "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-     "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
-     "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
-     "source": "TechCrunch",
-     "zh": "Can a TV be too large? An investigation"
-    },
-    {
-     "title": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺",
-     "link": "https://www.tmtpost.com/8214170.html",
-     "pubDate": "Sun, 22 Nov 2026 22:47:29 +0800",
-     "summary": "独立第三方的个人养老金产品评价体系，正是破解这个难题、推动个人养老金市场良性发展的关键一环。",
-     "source": "钛媒体",
-     "zh": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺"
     }
    ]
   },
@@ -2025,6 +2025,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review",
+     "link": "https://www.gsmarena.com/xiaomi_18_pro_series_goes_global_anniversary_iphone_details_surface_week_47_in_review-news-75581.php",
+     "pubDate": "Mon, 23 Nov 2026 02:02:02 +0100",
+     "summary": "This week's most popular article isn't about phones, it's about Instagram. It seems like the latest Instagram update got people's attention and introduced a feature that people have been waiting for for years - the ability to edit stories after posting them. You can change text, music, stickers, and",
+     "source": "GSMArena",
+     "zh": "Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review"
+    },
+    {
+     "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+     "link": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+     "pubDate": "Mon, 23 Nov 2026 00:45:00 +0000",
+     "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+     "source": "Engadget",
+     "zh": "This free 'Swiss Army Knife' for macOS can replace your utility apps"
+    },
+    {
+     "title": "Should you go with a headphone DAC/amp combo or a stack?",
+     "link": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+     "pubDate": "Mon, 23 Nov 2026 00:30:00 +0000",
+     "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+     "source": "Engadget",
+     "zh": "Should you go with a headphone DAC/amp combo or a stack?"
+    },
     {
      "title": "8 Windows apps you should probably remove from your PC",
      "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
@@ -2064,22 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
      "source": "Engadget",
      "zh": "How to use AI glasses as a teleprompter"
-    },
-    {
-     "title": "The pros and cons of sharing your location",
-     "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
-     "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-     "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
-     "source": "Engadget",
-     "zh": "The pros and cons of sharing your location"
-    },
-    {
-     "title": "Can you safely use a 140w charger on an iPhone?",
-     "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
-     "pubDate": "Sun, 22 Nov 2026 22:30:00 +0000",
-     "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
-     "source": "Engadget",
-     "zh": "Can you safely use a 140w charger on an iPhone?"
     },
     {
      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)"
     },
     {
-     "title": "Amazon UK Black Friday Week: best tablet deals UK edition",
-     "link": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php",
-     "pubDate": "Sun, 22 Nov 2026 08:39:02 +0100",
-     "summary": "This year’s Black Friday deals are already underway for Amazon Prime subscribers, and we’re now bringing you some hand-picked tablet deals. As usual with these offers, you’ll need an active Prime membership, and there’s limited stock. The deals will be live until November 30, aka Cyber Monday. Samsu",
-     "source": "GSMArena",
-     "zh": "Amazon UK Black Friday Week: best tablet deals UK edition"
-    },
-    {
      "title": "从深圳到上海，少数派的共创故事还在继续",
      "link": "https://sspai.com/post/119318",
      "pubDate": "Sun, 22 Nov 2026 09:05:44 +0800",
@@ -2274,6 +2274,110 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "韩国KOSPI指数跌幅扩大至4%",
+     "link": "http://finance.eastmoney.com/news/11440,202611233937051398.html",
+     "pubDate": "Mon, 23 Nov 2026 09:02:47 +0800",
+     "summary": "韩国KOSPI指数跌幅扩大至4%。三星 电子 跌近5%， SK海力士 跌近4%。",
+     "source": "东方财富股票",
+     "zh": "韩国KOSPI指数跌幅扩大至4%"
+    },
+    {
+     "title": "全球大型药企称人工智能正在缩短药物研发周期",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937051093.html",
+     "pubDate": "Mon, 23 Nov 2026 09:00:46 +0800",
+     "summary": "据全球大型药企科研人员透露，今年 人工智能 已经加快了部分国际顶尖药企的药物早期研发工作，将新分子合成并推进至临床试验阶段的时长最多缩短了一半。 葛兰素史克 、 百时美施贵宝 、诺华、 礼来 、 诺和诺德 、 阿斯利康 以及 赛诺菲 均表示，它们早已不只是把AI用在准备监管申报材料这类相对基础的工作上。如今，企业正在利用这项技术设计分子、筛选潜力最优的候选分子，同时识别安全风险。 （路透） （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "全球大型药企称人工智能正在缩短药物研发周期"
+    },
+    {
+     "title": "融资余额减少418.81亿，杠杆资金最新动态曝光",
+     "link": "http://stock.eastmoney.com/news/11754,202611233937050697.html",
+     "pubDate": "Mon, 23 Nov 2026 09:00:17 +0800",
+     "summary": "11月20日A股三大指数 集体收跌， 杠杆资金 呈净卖出之势，当天融资余额2.15万亿，较上一交易日减少418.81亿。 深南电路 为当日融资净买入最多个股，为2.37亿， 冰山冷热 融资净买入2.26亿， 沪电股份 8574.92万。 寒武纪 为当日融资净卖出最多个股，为4.96亿， 宁德时代 融资净卖出4.39亿， 兆易创新 3.43亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
+     "source": "东方财富股票",
+     "zh": "融资余额减少418.81亿，杠杆资金最新动态曝光"
+    },
+    {
+     "title": "富时中国A50指数期货盘初跌0.10%",
+     "link": "http://finance.eastmoney.com/news/11440,202611233937050987.html",
+     "pubDate": "Mon, 23 Nov 2026 09:00:13 +0800",
+     "summary": "富时中国A50指数 期货 在上一交易日夜盘收跌0.84%的基础上高开，盘初跌0.10%。",
+     "source": "东方财富股票",
+     "zh": "富时中国A50指数期货盘初跌0.10%"
+    },
+    {
+     "title": "科瑞技术：截至11月10日最新股东户数6.09万户，较上期减少2.60%",
+     "link": "http://stock.eastmoney.com/news/11111,202611233937050572.html",
+     "pubDate": "Mon, 23 Nov 2026 09:00:08 +0800",
+     "summary": "科瑞技术 最新披露数据显示，截至11月10日公司股东户数为6.09万户，较上期(2026年10月30日) 减少1623户，降幅为2.60% 。户均持有流通股数量 由上期的6713股上升至6892股， 户均持股金额 由上期的16.30万元增加至17.89万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "科瑞技术：截至11月10日最新股东户数6.09万户，较上期减少2.60%"
+    },
+    {
+     "title": "霍尔木兹海峡传出大消息！",
+     "link": "http://finance.eastmoney.com/news/1344,202611233937050857.html",
+     "pubDate": "Mon, 23 Nov 2026 08:59:15 +0800",
+     "summary": "中东地区又有新消息传出！ 据央视新闻报道，当地时间22日晚，伊朗军队海军宣布，当天下午，两艘油轮关闭导航系统，无视伊朗发出的警告，擅自进入霍尔木兹海峡东部禁航区，随后触雷起火。 伊朗伊斯兰革命卫队海军同日表示，两艘超级油轮在霍尔木兹海峡附近海域航行时，未遵守革命卫队海军发布的指令，擅自通过未经伊朗授权的航线，结果在霍尔木兹海峡以东、盖奈姆岛以北海域触雷爆炸并被迫停航。 当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。 据消息人士表示，以色列方面目前不仅在等待美",
+     "source": "东方财富股票",
+     "zh": "霍尔木兹海峡传出大消息！"
+    },
+    {
+     "title": "从小没人撑腰的孩子，长大后都有一个共性",
+     "link": "http://www.eeo.com.cn/2026/1123/1097714.shtml",
+     "pubDate": "Mon, 23 Nov 2026 08:59:01 +0800",
+     "summary": "做心理咨询这些年来，我见过无数青少年的案例。 我发现，那些从小没人撑腰的孩子，长大后有一个共同点： 他们几乎不会“求助”。 不是不需要，是不敢。早年匮乏的成长经历，让他们在心里刻下一条铁律：靠别人，风险太高。伸出手，要么无人回应，要么得到否定，甚至还会招来责备。一次次落空之后，他们...",
+     "source": "经济观察网",
+     "zh": "从小没人撑腰的孩子，长大后都有一个共性"
+    },
+    {
+     "title": "高盛：明年全球GDP料增2.8% 美联储有望明年底降息",
+     "link": "http://futures.eastmoney.com/news/1512,202611233937048840.html",
+     "pubDate": "Mon, 23 Nov 2026 08:54:06 +0800",
+     "summary": "高盛 预计，2027年全球实际国内生产总值（GDP）增速为2.8%，略高于该机构对2026年2.7%的预测，但整体风险偏向下行。 高盛 预计，明年全球主要经济体将出现 金融条件收紧、财政政策回归中性 ，不过这一变动对全球经济带来的拖累，将被 走低的能源价格以及依旧旺盛的 人工智能 资本开支 所对冲。 高盛 同时预判，伴随美国关税、能源以及AI相关通胀压力逐步消退，2027年全球通胀将放缓。受物价压力回落影响，高盛认为 主要经济体仅会在2027年初小幅加码紧缩，年内晚些时候将开启渐进式降息、推动货币政策回归常态。 由Andrea Ferrario牵头的高盛分析师在研报中写道：“过去数月，各区域市",
+     "source": "东方财富资讯",
+     "zh": "高盛：明年全球GDP料增2.8% 美联储有望明年底降息"
+    },
+    {
+     "title": "美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底",
+     "link": "https://wallstreetcn.com/articles/3786476",
+     "pubDate": "Mon, 23 Nov 2026 08:53:54 +0800",
+     "summary": "美银证券认为，利率见顶是费城半导体指数（SOX）形成持久底部的必要条件。 11月20日，据追风交易台消息，美银Vivek Arya等分析师发布报告 《利率见顶，芯片见底（ Peak Rates, Trough Semis） 》。报告认为，利率对芯片股的影响已不只停留在估值层面，还会直接作用于AI需求本身。10年期美债收益率逼近5%，美联储仍可能进一步收紧，芯片股正在定价一个市场共识尚未回答的问题：谁来为增量AI资本开支买单，回报是多少。 美银测算，云厂商合计自由现金流将从2024年的+2260亿美元，转为2026年的-1400亿美元、2027年的-3610亿美元。其中超大规模云厂商从2024年",
+     "source": "华尔街见闻",
+     "zh": "美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底"
+    },
+    {
+     "title": "谷歌广告放缓，苹果也受伤",
+     "link": "https://wallstreetcn.com/articles/3786471",
+     "pubDate": "Mon, 23 Nov 2026 08:50:44 +0800",
+     "summary": "谷歌因人工智能（AI）功能普及导致搜索广告收入增长放缓，这一趋势正在引发连锁反应，不仅重挫了谷歌自身股价，也波及了苹果公司和Reddit等高度依赖谷歌搜索生态的科技企业。 谷歌搜索广告收入增速在最新季度放缓至12% ，低于前两个季度的17%和19%。受此影响， 包含谷歌搜索广告分成在内的苹果服务业务收入增速，已从上一季度的12%降至10% ，且苹果高管预计本季度将进一步降温。自公布增速放缓以来， 谷歌股价已累计下跌18% 。 社交平台Reddit同样受到冲击。由于谷歌AI概览（AI Overviews）直接回答了更多查询，导致流向Reddit的搜索推荐流量减少。 自10月29日以来，Reddi",
+     "source": "华尔街见闻",
+     "zh": "谷歌广告放缓，苹果也受伤"
+    },
+    {
+     "title": "十大券商看后市｜A股底部特征逐步显现 极端估值结构将修正",
+     "link": "http://finance.eastmoney.com/news/1344,202611233937047930.html",
+     "pubDate": "Mon, 23 Nov 2026 08:48:09 +0800",
+     "summary": "上周A股延续震荡，周末稳市“组合拳”发布后，市场将如何演绎？ 澎湃新闻搜集了10家券商的观点，大部分券商认为，虽然短期市场可能继续承压，但随着各种风险正被充分定价，A股市场底部特征逐步显现，市场具备超跌修复基础。接下来，随着中长期资金的积极托底以及海外扰动的逐渐减弱，市场有望逐渐企稳。 申万宏源 证券表示，A股历史长期性价比出清，往往对应各维度的悲观预期反映都趋于充分。重申A股AI链长期性价比临近出清，对应AI远期展望问题、中期算力链供给释放和价格松动的问题等都趋于充分定价。宏观层面，美联储加息冲击、全球风险偏好冲击等问题也有所反映。 招商证券 指出，A股市场底部特征逐步显现，多项指标逐步趋近",
+     "source": "东方财富资讯",
+     "zh": "十大券商看后市｜A股底部特征逐步显现 极端估值结构将修正"
+    },
+    {
+     "title": "下月加息概率不再100%！一文读懂：美股大跌会如何影响美联储？",
+     "link": "http://finance.eastmoney.com/news/1344,202611233937047433.html",
+     "pubDate": "Mon, 23 Nov 2026 08:46:14 +0800",
+     "summary": "上周美股遭遇剧烈抛售，两大主要股指——标普500指数与道指相较近期高点，跌幅双双突破了10%，正式步入技术性回调区间。而随着股市重挫，交易员也迅速削减了对美联储后续加息力度的押注。 芝商所的美联储观察工具显示，利率 期货 交易员目前已不再百分百预计美联储下月将会加息 ——最新定价显示下月加息25个基点的概率约为95.2%，按兵不动的概率则为4.8%。 要知道，在一周之前，市场交易员不仅百分百定价了下月加息，甚至一度预计有超过10%的概率大幅加息50个基点。 同时，利率定价显示，市场目前预计美联储累计加息幅度将不足三次(每次25个基点)，下一次加息仅被完全计入明年1月的定价中，随后最快可能在3月",
+     "source": "东方财富资讯",
+     "zh": "下月加息概率不再100%！一文读懂：美股大跌会如何影响美联储？"
+    },
+    {
+     "title": "算力疯狂扩产埋隐患？马斯克警告：明年AI行业或现严重“资金荒”！",
+     "link": "http://finance.eastmoney.com/news/1344,202611233937047015.html",
+     "pubDate": "Mon, 23 Nov 2026 08:44:32 +0800",
+     "summary": "SpaceX 首席执行官兼 特斯拉 首席执行官、全球首富马斯克最新表示，随着科技公司竞相建设 数据中心 并扩大计算能力， 人工智能 （AI）行业可能在2027年面临严重的资金短缺。 马斯克是在回应一篇帖子时作出了上述警告。他还表示，挑战不仅在于购买昂贵的芯片和建设设施，更在于如何尽快让这些设施投入运营并开始产生收入。 根据马斯克的说法， 即使支付计算基础设施费用与其商业运营之间只是延迟几个月，也可能导致该行业需要数千亿美元的额外营运资金。 “要让如此庞大的算力启动、冷却并可靠运行是非常困难的。”他补充道：“ 明年现金短缺问题也会非常严重。 即使计算资源付款到能够稳定运行并产生收入之间只有几个月",
+     "source": "东方财富资讯",
+     "zh": "算力疯狂扩产埋隐患？马斯克警告：明年AI行业或现严重“资金荒”！"
+    },
+    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Mon, 23 Nov 2026 08:35:19 +0800",
@@ -2288,6 +2392,14 @@ window.INDUSTRY_DATA = {
      "summary": "科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示， 对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。 高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫",
      "source": "华尔街见闻",
      "zh": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场"
+    },
+    {
+     "title": "A股热点前瞻丨AI服务器厂商最高涨价45%；特斯拉在美推出FSD v15；海洋经济迎政策利好",
+     "link": "http://finance.eastmoney.com/news/11874,202611233937044193.html",
+     "pubDate": "Mon, 23 Nov 2026 08:29:32 +0800",
+     "summary": "①AI服务器厂商最高涨价45%，算力硬件议价能力凸显； ② 特斯拉 推出FSD v15，智驾安全关键场景处理能力提升25倍； ③阿波罗、 高盛 牵头完成史上最大GPU融资 租赁 交易； ④量子 计算机 “高速内存”全球首次真机实现， 量子科技 再获突破； ⑤五部门印发海洋产业投融资指导目录， 海洋经济 迎政策利好； ⑥全球制药巨头披露AI成果，新药研发周期大幅缩短。 盘面回顾 上周五，A股三大指数集体收跌，沪指最低触及3500.83点，创业板指跌3.54%，沪深两市成交1.42万亿元，全市场超5200股下跌。 红利股 、 PCB 板块逆势活跃， 半导体 产业链、 AI应用 方向调整。 AI服务",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨AI服务器厂商最高涨价45%；特斯拉在美推出FSD v15；海洋经济迎政策利好"
     },
     {
      "title": "绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”",
@@ -2314,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”"
     },
     {
-     "title": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
-     "link": "https://wallstreetcn.com/articles/3786468",
-     "pubDate": "Mon, 23 Nov 2026 08:02:16 +0800",
-     "summary": "美国财政部长贝森特暗示未排除黄仁勋回归英伟达的可能性。这一措辞较其此前呼吁英伟达“大换血”、从外部寻找领导人的强硬立场明显缓和，为这位创始人的回归留出了想象空间。 11月22日，贝森特在接受CBS《Face the Nation》节目采访时暗示并未排除黄仁勋回归的可能性，但强调政府首先需要厘清责任归属。他说： 我认为我们得看看责任最终落在哪里，看看公司底层那些违规的恶意行为者是谁。 他同时透露， 美国财政部截至11月22日尚未收到英伟达关于是否设立空壳公司规避出口管制的答复，该答复的截止日期为11月25日。 上述言论标志着贝森特口风的变化。就在上周，他还在福克斯新闻节目中呼吁对英伟达进行“大幅",
-     "source": "华尔街见闻",
-     "zh": "局势有变？贝森特“改口”：黄仁勋可能“不知情”"
-    },
-    {
      "title": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg",
      "link": "https://seekingalpha.com/news/4675417-clariant-cd-and-r-in-talks-to-acquire-chemicals-firm-ashland-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 18:53:16 -0500",
@@ -2338,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Stock index futures rebound after AI wipeout"
     },
     {
-     "title": "华尔街见闻早餐FM-Radio | 2026年11月23日",
-     "link": "https://wallstreetcn.com/articles/3786450",
-     "pubDate": "Mon, 23 Nov 2026 07:00:28 +0800",
-     "summary": "华见早安之声 要闻精选 中国 特朗普 ： 中俄美元首会晤“史无前例”“意义重大”。 中国LPR报价 连续18个月维持不变 ，11月5年期以上3.5%，1年期3%。 中国财政部 ： 加强离岸信托个税征管等因素带动，10月个税同比增长89.6% 。 沪深北交易所 ： 融资买入证券保证金比例从100%调低至80% ，11月30日起施行。 人民日报 ： 唱空中国经济者终会落空 。 华为 首款鸿蒙AI手机来了 ：子品牌OSTA O1 Pro搭载麒麟9030S，起售5699元。 海外 特朗普 呼吁 黄仁勋 在“重大道歉”后重返英伟达出任CEO 。 特朗普 威胁对“海外建设数据中心”加重税 。 英伟达 再遭",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年11月23日"
-    },
-    {
-     "title": "周日 达美航空公司超过1600个航班因技术故障延误",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937018577.html",
-     "pubDate": "Mon, 23 Nov 2026 06:44:21 +0800",
-     "summary": "周日， 达美航空 公司超过1600个航班因技术故障延误。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "周日 达美航空公司超过1600个航班因技术故障延误"
-    },
-    {
      "title": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg",
      "link": "https://seekingalpha.com/news/4675415-iqvia-nears-1_1b-acquisition-of-uks-quotient-sciences-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 17:40:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "IQVIA nears $1.1B acquisition of UK's Quotient Sciences - Bloomberg"
-    },
-    {
-     "title": "中国心连心化肥：新疆准东项目(一期)成功投产",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937018629.html",
-     "pubDate": "Mon, 23 Nov 2026 06:40:00 +0800",
-     "summary": "21财经11月23日电， 中国心连心化肥 （01866.HK）发布自愿公告，公司附属公司新疆心连心化学工业有限公司（准东基地）一期高效肥项目顺利投产。准东基地位于新疆昌吉州准东经济技术开发区，拥有丰富的煤电资源，原材料成本显著低于内地。同时， 铁路运输 直通河西走廊与中东部地区，并助 力拓 展中亚、欧洲市场。该项目的顺利投产进一步完善了集团在西北地区的战略布局，将充分发挥资源优势与区位优势，持续贡献增量现金流。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "中国心连心化肥：新疆准东项目(一期)成功投产"
     },
     {
      "title": "Zoom faces mounting estimate cuts ahead of Q3 earnings; outlook in focus",
@@ -2386,60 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "Zoom Communications Q3 2027 Earnings Preview"
     },
     {
-     "title": "古特雷斯对COP31未就政治决定达成一致表示失望",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937018370.html",
-     "pubDate": "Mon, 23 Nov 2026 06:25:58 +0800",
-     "summary": "联合国秘书长古特雷斯22日发表声明，对《联合国气候变化框架公约》第三十一次缔约方大会（COP31）未能就政治决定达成一致表示失望。 古特雷斯说，他对大会在未就总体成果达成共识的情况下闭幕深感失望，他与所有期望各国政府挺身应对气候危机的人们一样深感沮丧。 他说，此次大会未达成共识并不能改变气候变化的事实，气温升高不断刷新纪录，气候极端事件持续加剧，温室气体排放量仍居高不下。而每一次拖延都让任务更艰难、代价更高昂。他强调，将升温上限控制在1.5摄氏度的时间窗口正在迅速关闭。 古特雷斯敦促各国摆脱化石燃料、加大减排力度。他呼吁发达国家兑现气候融资承诺。他还敦促民间社会、青年、原住民、科学家和气候变化",
-     "source": "东方财富股票",
-     "zh": "古特雷斯对COP31未就政治决定达成一致表示失望"
-    },
-    {
-     "title": "微亿智造港股IPO拟发行37,275,800股H股 发行价12.07至15.69港元 12月4日交易",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937018259.html",
-     "pubDate": "Mon, 23 Nov 2026 06:25:54 +0800",
-     "summary": "微亿智造在港交所公告，在港上市拟发行37,275,800股H股（视乎超额配股权行使与否而定），发行价区间介于12.07港元/股至15.69港元/股。预期股份在12月4日开始交易。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "微亿智造港股IPO拟发行37,275,800股H股 发行价12.07至15.69港元 12月4日交易"
-    },
-    {
-     "title": "AI制药提速！研发周期最多缩短一半 多股明年业绩可期(名单)",
-     "link": "http://stock.eastmoney.com/news/11134,202611233937018117.html",
-     "pubDate": "Mon, 23 Nov 2026 06:21:04 +0800",
-     "summary": "11月20日，全球多家制药巨头披露，AI已把新分子推进至临床的时间最多缩短一半。 机构预测，24只AI制药概念股明年业绩有望改善。 诺和诺德 把迭代从八轮降到三轮 全球多家大型制药公司的高级科研人员表示，今年以来， 人工智能 显著加快了药物研发早期阶段的工作进程。 葛兰素史克 、 百时美施贵宝 、诺华、 礼来 、 诺和诺德 、 阿斯利康 和 赛诺菲 均表示，已不再局限于用AI处理监管申报文件等基础工作，而是开始将其应用于分子设计、候选药物筛选及安全风险识别等关键环节。 阿斯利康 高管莎伦·巴尔直言：\"从药物发现到开发的整个流程中，没有任何一个环节不使用AI。\" 具体成果已经可以量化。 诺和诺德",
-     "source": "东方财富股票",
-     "zh": "AI制药提速！研发周期最多缩短一半 多股明年业绩可期(名单)"
-    },
-    {
-     "title": "报道：若达不成协议 特朗普倾向于新年后打击伊朗",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937018055.html",
-     "pubDate": "Mon, 23 Nov 2026 06:18:48 +0800",
-     "summary": "福克斯新闻记者Trey Yingst援引与美国总统特朗普的交谈称，特朗普表示，如果无法达成协议，他倾向于在新年后恢复对伊朗的打击。特朗普表示，目前仍在与伊朗进行间接对话。特朗普形容伊朗人是“专业的踢踏舞演员”，并补充说，他们所做的就只是空谈。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "报道：若达不成协议 特朗普倾向于新年后打击伊朗"
-    },
-    {
      "title": "House Democrats to start new Congress with largest majority this century",
      "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 22:10:45 GMT",
      "summary": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
      "source": "Financial Times",
      "zh": "House Democrats to start new Congress with largest majority this century"
-    },
-    {
-     "title": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11060,202611233937011743.html",
-     "pubDate": "Mon, 23 Nov 2026 06:03:35 +0800",
-     "summary": "11月23日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 A股大消息 三大交易所集体发布 11月22日，为加强 融资融券 逆周期调节，促进 融资融券 业务健康平稳发展，经中国证监会批准，沪深北交易所发布《关于调整融资保证金比例等相关安排的通知》，将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。 华友钴业：拟10亿元至15亿元回购股份 中证智能财讯 华友钴业 （603799）11月22日晚间公告，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司部分股份，回购资金总额不低于10亿元且不超过15亿元，回购股份用于维护公司价值及股东权益。 “淘金",
-     "source": "东方财富资讯",
-     "zh": "11月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "东方财富财经早餐 11月23日周一",
-     "link": "http://finance.eastmoney.com/news/11060,202611223936967073.html",
-     "pubDate": "Mon, 23 Nov 2026 06:00:32 +0800",
-     "summary": "每日精选 融资保证金比例下限降低： 沪深北交易所发布公告称，2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例， 将投资者融资买入证券的最低保证金比例由100%调低至80% ，相关规则调整自2026年11月30日起施行。 一揽子降费措施： 新华社报道，记者从中国证监会了解到， 沪深交易所推出新一批降费措施 ，包括免收交易单元使用费等，并将今年年初已实施的免收上市费、债券交易经手费等措施有效期再延长两年至2028年。中国结算明确，自2027年1月1日起至2028年12月31日，继续暂免收取绿色公司债券、科技创新公司债券和民营企业公司债券（不含可转换公司债券）发行人服",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月23日周一"
     },
     {
      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
@@ -2480,38 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
      "source": "MarketWatch",
      "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
-    },
-    {
-     "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-     "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 19:08:31 GMT",
-     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
-     "source": "Financial Times",
-     "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
-    },
-    {
-     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens",
-     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-     "pubDate": "Sun, 22 Nov 2026 18:55:05 GMT",
-     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-     "source": "CNBC",
-     "zh": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens"
-    },
-    {
-     "title": "These little-known investments could be among the best bargains in a crash",
-     "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 18:23:00 GMT",
-     "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-     "source": "MarketWatch",
-     "zh": "These little-known investments could be among the best bargains in a crash"
-    },
-    {
-     "title": "首批主动ETF今上市 主动投资迈入“明牌”时代",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937007379.html",
-     "pubDate": "Mon, 23 Nov 2026 02:19:09 +0800",
-     "summary": "11月23日，首批18只主动ETF正式上市交易，中国公募基金业将迎来“场内主动选股、每日持仓可见、透明化阿尔法”的历史性时刻。按照要求，这些产品需在上市之前将股票仓位提升至不低于80%。从最新净值变化看，主动ETF已呈现出稳健运作特征，为上市后的主动能力验证奠定基础。 首批主动ETF上市后，国内主动投资迈入“明牌”时代。主动ETF将与被动ETF、场外主动基金形成差异化权益产品矩阵，公募基金承接长期资金入市的工具丰富度和策略深广度将进一步扩展。 18只产品 加速完成建仓 18只主动ETF合计上市份额360亿份，截至11月16日的整体平均仓位还只有56.71%，最低仓位不足30%。从11月17日到",
-     "source": "东方财富资讯",
-     "zh": "首批主动ETF今上市 主动投资迈入“明牌”时代"
     }
    ]
   },

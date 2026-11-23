@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 09:31:56",
+ "generated_at": "2026/11/23 09:54:52",
  "recent_days": 7,
  "industries": [
   {
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
+     "link": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
+     "pubDate": "Mon, 23 Nov 2026 01:28:49 +0000",
+     "summary": "Stellantis has never been a bastion of EV enthusiasm and progress. Back in the day (about 10 years ago), Sergio Marchionne was a very openly, blatantly anti-EV CEO. He actually asked customers to not buy their first electric car, the Fiat 500e. Stellantis is still dragging its feet on EVs ... [conti",
+     "source": "CleanTechnica",
+     "zh": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song"
+    },
+    {
      "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
      "pubDate": "Sun, 22 Nov 2026 18:00:00 -0600",
@@ -952,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Editor’s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren’t capable of driving the trip fully themselves. Fritz makes the argument here that it is easier to supervise FSD and that is why someone with a handicap can use it when ... [continued] The post Who N",
      "source": "CleanTechnica",
      "zh": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!"
-    },
-    {
-     "title": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October",
-     "link": "https://cleantechnica.com/2026/11/21/ev-share-jumps-to-68-and-small-bevs-rise-to-power-china-ev-sales-report-for-october/",
-     "pubDate": "Sat, 21 Nov 2026 19:38:50 +0000",
-     "summary": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ..",
-     "source": "CleanTechnica",
-     "zh": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October"
     },
     {
      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
@@ -1314,14 +1314,6 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
-    },
-    {
      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -1418,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1464,14 +1448,6 @@ window.INDUSTRY_DATA = {
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
-    },
-    {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1514,14 +1490,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1552,6 +1520,22 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Origami and solar arrays"
+    },
+    {
+     "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
+     "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
+     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
+     "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1778,12 +1762,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "独立站拒付率涨到3.8%，俄罗斯和哈萨克斯坦本地支付通道该怎么配风控？",
+     "link": "https://www.baijing.cn/question/638904",
+     "pubDate": "Mon, 23 Nov 2026 01:47:32 +0000",
+     "summary": "我们做俄语区独立站，卖电子配件，团队6个人，其中运营只有2个，月GMV大概12万美元，主要走俄罗斯本地钱包和哈萨克斯坦的卡支付。上个月拒付率从1.9%涨到3.8%，Kaspi和YooMoney的通道都发来预警，说再高可能限流。我试过把高风险订单人工审核，但只有2个运营，每天要处理200多单，根本排不过来；也接了一家风控SaaS，规则调了两次，误杀正常老客反而掉了15%的复购。现在卡在既要压拒付又要保转化，人手和排期都撑不住。想问在这种人力约束下，俄语区独立站的支付风控该优先做哪一层？",
+     "source": "白鲸出海",
+     "zh": "独立站拒付率涨到3.8%，俄罗斯和哈萨克斯坦本地支付通道该怎么配风控？"
+    },
+    {
+     "title": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
+     "link": "https://www.techmeme.com/261122/p16#a261122p16",
+     "pubDate": "Sun, 22 Nov 2026 20:45:00 -0500",
+     "summary": "Jessica Wachtel / The New Stack : GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &nbsp; &mdash;&nbsp; When I compared Anthropic's Fable 5.2 vs. OpenAI's GPT-6 Astra last week, Fable 5.2 ",
+     "source": "Techmeme",
+     "zh": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)"
+    },
+    {
+     "title": "独家｜未见扩编，豆包在手，小荷“再露尖尖角”",
+     "link": "https://www.huxiu.com/article/4907597.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 09:40:43 +0800",
+     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也，原文标题：《独家｜未见扩编，豆包在手，小荷“再露尖尖角”》 小荷健康又忙起来了。 不过，人似乎没增加多少。 近日，几位接近小荷健康的人士向西直门外汉证实，几年前缩减至百余人的团队，目前并未有重新扩编，人数仍保持在此前缩编后的规模。 对方还证实，如今的小荷，再度受到集团重视，除了经营自己的医疗产品，也开始陆续为字节内部其他业务提供医疗专业支持。 其中最值得关注的，自然是豆包。 今年2月，小荷健康更新隐私政策，明确将豆包列为小荷AI医生功能的接入平台之一。8月，小荷AI医生又披露了AI咨询转接真人医生的相关安排。 最近，吴海锋重新负责小荷的消息也",
+     "source": "虎嗅",
+     "zh": "独家｜未见扩编，豆包在手，小荷“再露尖尖角”"
+    },
+    {
+     "title": "下月，美联储加息概率不再100%",
+     "link": "https://www.huxiu.com/article/4907598.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 09:38:56 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 上周美股遭遇剧烈抛售，两大主要股指——标普500指数与道指相较近期高点，跌幅双双突破了10%，正式步入技术性回调区间。而随着股市重挫，交易员也迅速削减了对美联储后续加息力度的押注。 芝商所的美联储观察工具显示，利率期货交易员目前已不再百分百预计美联储下月将会加息——最新定价显示下月加息25个基点的概率约为95.2%，按兵不动的概率则为4.8%。 要知道，在一周之前，市场交易员不仅百分百定价了下月加息，甚至一度预计有超过10%的概率大幅加息50个基点。 同时，利率定价显示，市场目前预计美联储累计加息幅度将不足三次(每次25个基点)，下一次加息仅被完全计",
+     "source": "虎嗅",
+     "zh": "下月，美联储加息概率不再100%"
+    },
+    {
      "title": "美客多墨西哥本土店入驻后，Mercado Ads 首月 CPA 花到 180 比索正常吗？",
      "link": "https://www.baijing.cn/question/638903",
      "pubDate": "Mon, 23 Nov 2026 01:23:06 +0000",
      "summary": "刚拿到墨西哥本土店入驻资格，团队 5 个人，主做手机配件，SKU 大概 60 个。店铺上线两周，用 Mercado Ads 投了搜索广告和展示广告，首月预算 3 万比索，现在跑了大概 1.2 万比索，后台显示 CPA 在 170-190 比索之间，转化率 1.8% 左右，比我们预期高出一截。已经试过调整关键词匹配、把预算集中到几个高点击 SKU、也把主图换了一版，但 CPA 没明显下来。现在卡在不确定这个 CPA 水平在墨西哥本土店新店里算不算正常，还是说入驻初期权重低本来就贵。想直接问：墨西哥站新店首月 Mercado Ads 的 CPA 大概什么区间算合理，是该继续加预算养权重还是先收缩等",
      "source": "白鲸出海",
      "zh": "美客多墨西哥本土店入驻后，Mercado Ads 首月 CPA 花到 180 比索正常吗？"
+    },
+    {
+     "title": "B站《绍宋》动画首支正式 PV 宣传片公布，档期待定",
+     "link": "https://www.ithome.com/1/030/756.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:22:55 GMT",
+     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，改编自榴弹怕水同名小说的《绍宋》发布了首支正式 PV，宣传语只有一句“群臣向南，君独向北”，具体信息未公布，档期待定。 《绍宋》原著于 2021 年在起点读书完结，讲述九百年后的灵魂穿越为宋高宗赵构，在北宋灭亡、南渡避金的主流路线之外，转向“抗金”的故事。 动画版在备案信息中被描述为围绕军事改革与制度调整展开叙事。PV 并未披露具体情节段落，但从“君独向北”的指向来看，故事起点仍落在赵构登基后与满朝南下共识的正面冲突上。 该动画的备案主体为杭州幻电科技有限公司，2026 年 9 月已完成《绍宋第一季",
+     "source": "IT之家",
+     "zh": "B站《绍宋》动画首支正式 PV 宣传片公布，档期待定"
     },
     {
      "title": "2026年了，岚图和智界为什么还需要这张“准生证”？",
@@ -1794,12 +1818,52 @@ window.INDUSTRY_DATA = {
      "zh": "2026年了，岚图和智界为什么还需要这张“准生证”？"
     },
     {
-     "title": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头",
-     "link": "https://www.ithome.com/1/030/750.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:11:26 GMT",
-     "summary": "IT之家 11 月 23 日消息，微博博主 @数码闲聊站 今日曝光华为 Mate 90 Air 手机的参数详情。该机预计将搭载麒麟 9020 芯片，采用 7 英寸 1.5K+120Hz 等深四曲屏。 影像方面，这款手机或采用 5000 万像素后置主摄 +800 万像素超广角 +1200 万像素长焦以及红枫镜头，前摄为 1070 万像素。并具备 6500mAh 电池，支持 66W 快充，机身厚度约 6.58mm，重量约 208g。 据IT之家此前报道 ，华为 Mate 90 Air 已上架官网商城，11 月 24 日发布，提供玫瑰金、皓月银、曜石黑三款配色，以及 12GB+256GB、12GB+",
+     "title": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎",
+     "link": "https://www.ithome.com/1/030/755.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:20:36 GMT",
+     "summary": "IT之家 11 月 23 日消息，小鹏汽车今天宣布，小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎。 小鹏宣称，他们是全球唯二、中国首家在海外门店开放城区高阶智驾公众体验的车企。 据IT之家此前援引彭博社消息 ，在巴黎车展前夕，小鹏汽车通用智能中心负责人刘先明透露，小鹏成功在约两周时间内，将智驾系统从一个欧洲国家微调适配到另一个欧洲国家。这一适配过程所需的数据量，仅为训练底层人工智能基础模型所需数据的万分之一。",
      "source": "IT之家",
-     "zh": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头"
+     "zh": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎"
+    },
+    {
+     "title": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U",
+     "link": "https://www.ithome.com/1/030/754.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:20:01 GMT",
+     "summary": "IT之家 11 月 23 日消息，Shuttle（辅信，原名浩鑫）当地时间本月 18 日面向北美市场推出了 NW10U 迷你主机。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，体积仅 0.4L。 NW10U 三维 103×97×36.5 (mm)，兼容 75×75 / 100×100 (mm) VESA 壁挂规范，集成热管 + 风扇散热系统。 其设有 1 个 DDR5-6400 SO-DIMM 内存插槽， 提供 2 个 M.2 M-Key 2280 (PCIe Gen4 ×2) 插槽 ，另有 1 个 M.2 E-Key 插槽用于安装无线网卡。 而在外部，其正面提供 2 ",
+     "source": "IT之家",
+     "zh": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U"
+    },
+    {
+     "title": "一加 16《凡人》动画联名礼盒 11 月 27 日限量开售，购机（16GB+512GB 版）+269 元可得",
+     "link": "https://www.ithome.com/1/030/753.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:17:37 GMT",
+     "summary": "IT之家 11 月 23 日消息，一加今日宣布， 一加 16 《凡人》动画联名礼盒将于 11 月 27 日 10:00 限量开售。该礼盒不单独售卖，需要购买一加 16 指定存储版本（16GB+512GB 版），加价 269 元获取。 IT之家附礼盒内容： 可旋转金属剑阵磁吸手机支架 「青竹蜂云剑」金属卡针 「青竹蜂云剑」磁吸保护壳 透光明信片 可滑动冰箱贴 专属深度定制主题 —— 小绿瓶充电动画、「念头通达」解锁动画、剑阵动态息屏、定制图标和小组件。 一加 16 手机于 10 月 12 日正式发布。新品采用 第六代骁龙 8 超级至尊版芯片 ，全球首发 185Hz 极速高刷，拥有全自研「电竞三芯",
+     "source": "IT之家",
+     "zh": "一加 16《凡人》动画联名礼盒 11 月 27 日限量开售，购机（16GB+512GB 版）+269 元可得"
+    },
+    {
+     "title": "《灵笼：落子无悔》前瞻 PV 首曝，2027 年下半年上线",
+     "link": "https://www.ithome.com/1/030/752.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:15:09 GMT",
+     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《灵笼：落子无悔》新篇章前瞻 PV 内容首次公开。 发布会上，制片人杜杨阳确认该篇章将于 2027 年下半年上线。这是《灵笼》第二季收官后，系列主线故事的首次正式续接。 此次前瞻内容选自《灵笼：落子无悔》正片，剧情直接承接第二季。龙骨村在锁定雨燕号坠落地点并发现马克踪迹后，车队即将驶入一片陌生区域，该区域的玛娜生态呈现出此前未见的形态。PV 的叙事重心并未落在马克本人身上，而是跟随车队中的普通成员，呈现他们在绝境中的选择。 官方对这段内容的描述是“镜头将移近一些”，关注那些在人群中一闪而过、却拥有“",
+     "source": "IT之家",
+     "zh": "《灵笼：落子无悔》前瞻 PV 首曝，2027 年下半年上线"
+    },
+    {
+     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+     "link": "https://spelunkr.tv",
+     "pubDate": "Mon, 23 Nov 2026 01:13:51 +0000",
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Free alternative TV network built from the Internet Archive's forgotten videos"
+    },
+    {
+     "title": "小米汽车广州车展发布会官宣，李肖爽和大家聊聊澎程 N70",
+     "link": "https://www.ithome.com/1/030/751.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:13:33 GMT",
+     "summary": "IT之家 11 月 23 日消息，小米汽车今日官宣，小米汽车广州车展发布会定档 11 月 27 日早 9 点 ，小米汽车副总裁李肖爽和大家好好聊聊澎程 N70。 小米汽车表示，刚刚过去的 10 月，N70 荣获中大型 SUV、增程车型销量双冠军（数据来源于懂车帝）。 本次发布会，小米汽车将详细介绍 N70 的核心优势：大电池增程、二排大空间、满配智能体验、全席位安全防护。 此外也汇报一下辅助驾驶的最新进展 。 据IT之家了解，小米澎程是小米汽车继 SU7、YU7 之后的第二个产品系列，于 2026 年 7 月 30 日的小米汽车技术发布会上正式亮相，小米昆仑技术架构同场发布。 车型定位上， N",
+     "source": "IT之家",
+     "zh": "小米汽车广州车展发布会官宣，李肖爽和大家聊聊澎程 N70"
     },
     {
      "title": "吴贾：AI要素重构中的金融抉择",
@@ -1810,30 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "吴贾：AI要素重构中的金融抉择"
     },
     {
-     "title": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节",
-     "link": "https://www.ithome.com/1/030/749.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:09:49 GMT",
-     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《凡人修仙传》全新 PV“边界之战”正式公开。 该 PV 对应的并非一部新开的季番，而是正在B站独播的“慕兰之战”年番中的高潮章节 —— 天南与慕兰草原的最终边界决战。 “慕兰之战”年番已于 2026 年 6 月 13 日开播，共 52 集，覆盖第 177 至 228 集，每周六 11:00 在B站更新。 IT之家注：该篇章在原著中分为黄龙山之战与边界之战两个阶段，边界之战被视作整部小说中出场修士数量最多、规模最大的一场战役。 此次 PV 展示的正是边界之战全面爆发的节点。慕兰法师大军压境，神师的铜",
-     "source": "IT之家",
-     "zh": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节"
-    },
-    {
-     "title": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W",
-     "link": "https://www.ithome.com/1/030/748.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:08:36 GMT",
-     "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月推出了 CX ATX 3.1 系列 PC 电源。其采用 ATX 外形规格和直出线材设计，内置 120mm 风扇， 长度仅有 125mm ，覆盖 550W / 650W / 750W 三档功率。 CX ATX 3.1 全系选用 105℃ 电容。其 550W 版本获得 Cybenetics 银牌转换效率、Standard ++ 噪声认证；650W 和 750W 版本获得 Cybenetics 金牌转换效率、Standard + 噪声认证，随附双色原生 12V-2×6 线缆。 该电源 享受 5 年保修 ，各功率版本的定价分别为 64.99",
-     "source": "IT之家",
-     "zh": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W"
-    },
-    {
-     "title": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条",
-     "link": "https://www.ithome.com/1/030/747.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:08:33 GMT",
-     "summary": "IT之家 11 月 23 日消息，蔚来今日宣布，第 95 条蔚来加电风景线｜桂湘喀斯特山水线正式贯通，从南宁出发，途经河池、柳州、桂林、邵阳、永州，最终抵达衡阳， 全程 1,925 公里 ，沿途布局 24 座充换电站，串联桂湘两地的山水人文。 路线总览 南宁 → 河池 → 柳州 → 桂林 → 邵阳 → 永州 → 衡阳 建议用时：7 天 6 晚 沿途补能：24 座充换电站 沿途风景：洞天探奇、山水漫游、人文寻访 据官方介绍，「蔚来加电风景线」是为了让用户愉悦畅行诗与远方而发起的能源布局项目。截至目前，蔚来已累计贯通包括 318 川藏线、丝绸之路、川西大环线、呼伦贝尔草原线在内 95 条极具向往感",
-     "source": "IT之家",
-     "zh": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条"
-    },
-    {
      "title": "我为什么看好非洲市场",
      "link": "https://www.huxiu.com/article/4907574.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 09:03:27 +0800",
@@ -1842,20 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "我为什么看好非洲市场"
     },
     {
-     "title": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制",
-     "link": "https://www.ithome.com/1/030/746.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:02:40 GMT",
-     "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上公布了《仙剑奇侠传四》全新 PV，云天河与韩菱纱的双人海报同步释出。 该片由哔哩哔哩出品、玄机科技制作，改编自软星科技同名游戏，播出档期从此前概念 PV 公布的“2027 年”进一步明确为 2027 年上半年，届时将在B站独家上线。 与 2025 年 11 月B站国创发布会上公开的概念 PV 相比，此次 PV 展示了更多正片画面与角色形象。海报中云天河与韩菱纱以全新造型登场，官方同步发起了“最期待剧情”的互动话题。PV 本身尚未披露配音阵容与具体集数信息。 《仙剑奇侠传四》的故事围绕琼华派铸造望舒",
-     "source": "IT之家",
-     "zh": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制"
-    },
-    {
-     "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
-     "link": "https://www.ithome.com/1/030/745.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:00:23 GMT",
-     "summary": "IT之家 11 月 23 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）今天在 X 平台表示，他完全支持 OpenAI 提高透明度的倡议。 苏莱曼表示， AI 业界所有人都是为了打造安全 、 真正有益于人类的 AGI（通用人工智能） 。AI 安全领域最棘手的问题之一就是协调合作，这项举措朝着正确的方向迈出了一步。未来几年，如果要实现安全、可控且与人类价值观保持一致的 AGI，人们还需要采取更多类似措施。 苏莱曼承诺在一套双方共同保留的评测集上分享预训练进展。经 OpenAI 许可，微软使用其评测集公布了 MAI-2 Base 的评测结果：其对数困惑度（log",
-     "source": "IT之家",
-     "zh": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议"
+     "title": "What we learned operating auth for 1k APIs",
+     "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+     "pubDate": "Mon, 23 Nov 2026 01:01:11 +0000",
+     "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "What we learned operating auth for 1k APIs"
     },
     {
      "title": "白塔机场，此去那个经年",
@@ -1874,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "拉美短剧投放素材本地化后完播率反降，问题出在哪？"
     },
     {
-     "title": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值",
-     "link": "https://www.huxiu.com/article/4907584.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:57:12 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：张文曦，编辑：詹腾宇，题图来自：视觉中国 11月，秋招黄金时期的尾声，有人早早上岸，有人还在不确定的状态中漂浮。大部分企业的校招通道已经关闭，对还没有等来好结果的应届生来说，一个名叫&ldquo;求职陪跑&rdquo;服务，开始频繁、精准地出现在他们的视野里。 所谓&ldquo;求职陪跑&rdquo;，指的是一种全流程式的求职辅导服务，包括梳理求职方向、包装简历、模拟面试等，收费从几百元单次咨询到3000&ndash;3万元全程套餐不等，甚至还有数万&ldquo;保offer&rdquo;&ldquo;直签内推&rdquo;的服务。 对焦虑的年轻人来说，&",
-     "source": "虎嗅",
-     "zh": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值"
-    },
-    {
      "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&apos; Senate confirmation (Axios)",
      "link": "https://www.techmeme.com/261122/p15#a261122p15",
      "pubDate": "Sun, 22 Nov 2026 19:55:00 -0500",
@@ -1896,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺，成本刚性与收入弹性错配待解；甲骨文筹足OpenAI合同资金，阿比林园区进入GPT-6 Astra训练。Anthropic数学家称与Claude提出黎曼猜想证明并经Lean/Mathlib形式化检查。",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（11月23日）"
-    },
-    {
-     "title": "假如人工智能拥有内心世界，它就会和人类智能一样吗？",
-     "link": "https://www.huxiu.com/article/4907586.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:46:21 +0800",
-     "summary": "本文来自微信公众号： 返朴 ，作者：顾凡及 当人工智能不断给出连创造者也未曾预料的答案，人们再次回到了那个本属于科幻的问题：什么时候人工智能会超越人类智能？如果人工智能也有内心世界，它会和人类智能一样吗？人类思维生长于身体经验、情感和生存需要之中；目前的“硅基”人工智能由人设计和训练，却可能在具体问题上走出设计者未曾规划的路径。当然，在讨论这些问题之前，还要定义“智能”：能解决问题是否就足以称为有智能，还是智能还包含感受、目标，以及“为何而行动”的理由？讨论人工智能，最终也让我们重新审视人类如何理解自己。 本文收录于合集前沿探真 今天，没有哪一门科技像人工智能（AI）那样吸引公众的关注。许多人",
-     "source": "虎嗅",
-     "zh": "假如人工智能拥有内心世界，它就会和人类智能一样吗？"
     },
     {
      "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
@@ -1925,23 +1941,15 @@ window.INDUSTRY_DATA = {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 72 # Comments: 68",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 78 # Comments: 75",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
-    },
-    {
-     "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-     "link": "https://0rwx.com/",
-     "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
-     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 15 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
     },
     {
      "title": "What should AAA game devs do",
      "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
      "pubDate": "Sun, 22 Nov 2026 23:51:00 +0000",
-     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 15 # Comments: 14",
+     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 18 # Comments: 25",
      "source": "Hacker News",
      "zh": "What should AAA game devs do"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 137 # Comments: 99",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 144 # Comments: 109",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1973,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 68 # Comments: 31",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 74 # Comments: 33",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
-    },
-    {
-     "title": "Localcode, open source agentic coding on your Mac with one command",
-     "link": "https://github.com/mjwsolo/localcode",
-     "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
-     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 18 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Localcode, open source agentic coding on your Mac with one command"
     },
     {
      "title": "‘You Can See Everything’ has made more than $100M worldwide",
@@ -2000,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
      "source": "TechCrunch",
      "zh": "The best apps to make new friends right now"
-    },
-    {
-     "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
-     "link": "https://www.techmeme.com/261122/p11#a261122p11",
-     "pubDate": "Sun, 22 Nov 2026 15:35:00 -0500",
-     "summary": "Garrett Downs / CNBC : After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &ldquo;bumps in the road&rdquo; as systems are upgraded to adapt to the AI age &nbsp; &mdash;&nbsp; Director of National Intelligence Jay Clayton warned Americans to prepare for &ldquo;bu",
-     "source": "Techmeme",
-     "zh": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)"
-    },
-    {
-     "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
-     "link": "https://www.techmeme.com/261122/p10#a261122p10",
-     "pubDate": "Sun, 22 Nov 2026 14:50:01 -0500",
-     "summary": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers &nbsp; &mdash;&nbsp; The treasury secretary said on CBS that it was too soon to say if Jensen Huang should",
-     "source": "Techmeme",
-     "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
     }
    ]
   },
@@ -2025,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's how much Starlink cost in 2020 vs. 2026",
+     "link": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+     "pubDate": "Mon, 23 Nov 2026 01:30:00 +0000",
+     "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+     "source": "Engadget",
+     "zh": "Here's how much Starlink cost in 2020 vs. 2026"
+    },
     {
      "title": "Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review",
      "link": "https://www.gsmarena.com/xiaomi_18_pro_series_goes_global_anniversary_iphone_details_surface_week_47_in_review-news-75581.php",
@@ -2072,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "One identifies your network, the other identifies the devices using your network.",
      "source": "Engadget",
      "zh": "Public vs. private IP addresses: what's the difference?"
-    },
-    {
-     "title": "What is the best way to secure your PlayStation 5 for a flight?",
-     "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
-     "pubDate": "Sun, 22 Nov 2026 23:45:00 +0000",
-     "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
-     "source": "Engadget",
-     "zh": "What is the best way to secure your PlayStation 5 for a flight?"
     },
     {
      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
@@ -2274,60 +2258,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【调研快报】德尔股份接待国联民生证券等18家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611233937062350.html",
-     "pubDate": "Mon, 23 Nov 2026 09:25:05 +0800",
-     "summary": "德尔股份 11月23日公告称， 11月20日 接待 国联民生 证券 等18家机构 调研。 接待人员包括董事会秘书 张磊,德迩象网董事、CTO 宗文豪,投资总监 程文祥,独立董事 胡文涛。 公司就以下问题进行了回复： Q1、公司推出股票期权激励的考量? 公司此次推出的股票期权激励计划总量 500 万份,首次授予 400 万份、覆盖 50 人,预留 100 万份;首次授予中,335万份覆盖 47 名中层管理人员及核心技术骨干,高管 2 人合计40 万份,DUANYANG WANG 先生 25 万份。DUANY... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此",
-     "source": "东方财富股票",
-     "zh": "【调研快报】德尔股份接待国联民生证券等18家机构调研"
+     "title": "Claude证明黎曼假设“大反转”：论证无效，只是空转？",
+     "link": "https://wallstreetcn.com/articles/3786480",
+     "pubDate": "Mon, 23 Nov 2026 09:46:23 +0800",
+     "summary": "11月20日，Anthropic数学家Levent Alpöge在个人网站发布说明，宣布自己与Claude共同找到了黎曼假设的证明。 他没有交出人类可读的论文，而是直接放出一个Lean 4代码库：175,187个文件、约1700万行代码。黎曼假设1859年由Bernhard Riemann提出， 是克雷数学研究所悬赏100万美元的千禧年问题之一，至今已悬置约167年。 次日， Lean Focused Research Organization与Mathlib Initiative联合表示：“我们有充分信心认为，Alpöge关于黎曼假设的证明是正确的。” 据《卫报》报道，两家机构是在审阅其Le",
+     "source": "华尔街见闻",
+     "zh": "Claude证明黎曼假设“大反转”：论证无效，只是空转？"
     },
     {
-     "title": "央行今日开展了4995亿元隔夜逆回购操作 全额满足了一级交易商需求",
-     "link": "http://finance.eastmoney.com/news/1350,202611233937061034.html",
-     "pubDate": "Mon, 23 Nov 2026 09:23:58 +0800",
-     "summary": "央行今日开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "央行今日开展了4995亿元隔夜逆回购操作 全额满足了一级交易商需求"
+     "title": "“稳市”新政三箭齐发：融资端、成本端、制度端如何协同发力？",
+     "link": "http://forex.eastmoney.com/news/1131,202611233937072792.html",
+     "pubDate": "Mon, 23 Nov 2026 09:45:25 +0800",
+     "summary": "“稳股市”三项新政同日出炉。 11月22日晚间，稳市组合拳三箭齐发：融资端，融资保证金比例从100%降至80%；成本端，沪深交易所、中国结算集体降费；制度端，创业板将引入做市商制度。 “这些举措直击市场痛点。” 中信证券 表示，在杠杆资金持续净流出、创业板指大幅调整的背景下，一方面通过降低融资保证金比例释放融资空间、提升市场流动性，另一方面通过引入做市商制度，为创业板带来增量资金、提供“缓冲垫”保护。 澎湃新闻记者注意到，虽然三项稳市举措分别涉及资金面、成本面和制度面，但最终着力点趋于一致，均聚焦在如何稳预期、提信心，以及撬动更多增量资金。 接下来，随着政策支持持续加码，“稳股市”一揽子政策如",
+     "source": "东方财富资讯",
+     "zh": "“稳市”新政三箭齐发：融资端、成本端、制度端如何协同发力？"
     },
     {
-     "title": "11月23日港股开盘：恒指低开1.08% 理想汽车-W领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202611233937060658.html",
-     "pubDate": "Mon, 23 Nov 2026 09:23:16 +0800",
-     "summary": "港股11月23日低开，恒生指数开盘报22168.19点，跌242.61点，跌幅1.08%；恒生科技指数开盘报3443.76点，跌67.38点，跌幅1.92%。恒生指数成分股中 老铺黄金 、 网易 、 紫金矿业 (五百)涨幅居前， 理想汽车-W 、 百度集团-W 、 快手-W 跌幅靠前。恒生科技指数成分股中 网易 、 海尔智家 涨幅居前， 零跑汽车 、 小鹏集团-W 、地平线 机器人 -W跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
+     "title": "港股光通信股走强 中际旭创、东山精密双双涨超4%",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937073070.html",
+     "pubDate": "Mon, 23 Nov 2026 09:43:15 +0800",
+     "summary": "11月23日，港股光 通信 股走强， 中际旭创 、 东山精密 双双涨超4%， 舜宇光学科技 、 剑桥科技 等个股跟涨。",
      "source": "东方财富股票",
-     "zh": "11月23日港股开盘：恒指低开1.08% 理想汽车-W领跌成分股"
+     "zh": "港股光通信股走强 中际旭创、东山精密双双涨超4%"
     },
     {
-     "title": "港股开盘：恒指低开1.08% 理想汽车-W领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11771,202611233937060578.html",
-     "pubDate": "Mon, 23 Nov 2026 09:23:10 +0800",
-     "summary": "&nbsp; 港股11月23日 低开 ，恒生指数开盘报22168.19点，跌242.61点，跌幅1.08%； 恒生科技指数 开盘报3443.76点，跌67.38点，跌幅1.92%。 恒生指数成分股中 老铺黄金 、 网易 、 紫金矿业 (五百)涨幅居前 ， 理想汽车-W 、 百度集团-W 、 快手-W 跌幅靠前 。 恒生科技指数成分股中 网易 、 海尔智家 涨幅居前 ， 零跑汽车 、 小鹏集团-W 、地平线 机器人 -W跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的",
+     "title": "高盛：恒指季检预计引逾125亿美元被动资金流动，阿里腾讯料居买入前列",
+     "link": "http://hk.eastmoney.com/news/1535,202611233937072583.html",
+     "pubDate": "Mon, 23 Nov 2026 09:42:42 +0800",
+     "summary": "恒生指数公司上周五盘后公布2026年12月季度检讨结果，其中将恒生科技指数成分股数量从30只增加至50只。 高盛 预计，季度检讨结果将在全球被动型资金中引发超过125亿美元的双向资金流动。 预计迎来最大被动资金净流入的前六只个股为： 阿里巴巴 、腾讯和 汇丰控股 （得益于权重上限调高）、 宁德时代 和 长飞光纤光缆 （新纳入恒生科技指数），以及 百度 （流通系数上调），预计净流入规模在3.4亿至8.1亿美元之间。 预计遭遇最大被动资金净流出的个股为：小米、美团和 建设银行 （受权重上限下调影响），以及 京东 、 携程 和联想（扩容资金挤出效应），预计净流出规模在2.9亿至9.4亿美元之间。 （",
      "source": "东方财富股票",
-     "zh": "港股开盘：恒指低开1.08% 理想汽车-W领跌成分股"
+     "zh": "高盛：恒指季检预计引逾125亿美元被动资金流动，阿里腾讯料居买入前列"
     },
     {
-     "title": "港股人工智能股多数走弱 MINIMAX跌超7%",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937061421.html",
-     "pubDate": "Mon, 23 Nov 2026 09:22:09 +0800",
-     "summary": "截至发稿， MINIMAX-W (00100.HK)跌7.03%、 智谱 (02513.HK)跌6.65%、 兆易创新 (03986.HK)跌5.47%、 壁仞科技 (06082.HK)跌4.48%。",
+     "title": "金价回调激发买金需求，线下金店客流持续回暖｜黄金早参",
+     "link": "http://finance.eastmoney.com/news/1361,202611233937073158.html",
+     "pubDate": "Mon, 23 Nov 2026 09:41:49 +0800",
+     "summary": "过去一周（截至11月20日收盘），国际现货 黄金 下跌8.88%，报3537.23美元/盎司；COMEX 黄金 期货 下跌8.97%，报3539美元/盎司。 黄金 ETF华安（518880）近一年下跌18.31%；黄金股ETF华安（159321）跟踪指数上周下跌10.38%。相关个股中， 周大生 上涨2.53%， 老凤祥 下跌1.42%， 紫金矿业 下跌10.05%。 消息面上，近期伦敦现货黄金失守3600美元/盎司，国内黄金消费市场迎来小高潮。北京菜百总店柜台前挤满选购婚嫁首饰的消费者，不少观望者选择此时入手。深圳水贝各大商场客流创近几个月新高，商户称“人挤人”，加班到八九点，每天销售黄金几",
      "source": "东方财富股票",
-     "zh": "港股人工智能股多数走弱 MINIMAX跌超7%"
+     "zh": "金价回调激发买金需求，线下金店客流持续回暖｜黄金早参"
     },
     {
-     "title": "【调研快报】岱勒新材接待方正证券等3家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611233937060394.html",
-     "pubDate": "Mon, 23 Nov 2026 09:22:08 +0800",
-     "summary": "岱勒新材 11月23日公告称， 11月18日至11月20日 接待 方正证券 等3家机构 调研。 接待人员包括董事会秘书、财务总监 周家华。 公司就以下问题进行了回复： 公司介绍 公司作为国内首家掌握金刚石线研发、生产技术并大规模投入生产的企业,我国替代进口金刚石线产品的代表企业,经过多年的技术创新和市场开拓,现已形成品类齐全、应用场景广泛的产品体系,应用场景覆盖晶体硅、 蓝宝石 、 磁性材料 、石墨、玉石、大理石、玻璃、陶瓷、 半导体 等领域,正在逐步向钛合金、 铝 合金等... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此",
+     "title": "车电融合深化资本合作，二线动力电池企业迎发展机遇｜新能源早参",
+     "link": "http://finance.eastmoney.com/news/1355,202611233937072954.html",
+     "pubDate": "Mon, 23 Nov 2026 09:41:49 +0800",
+     "summary": "过去一周（截至11月20日收盘）， 新能源 ETF华安（516270）跟踪指数下跌6.55%，创业板 电池 ETF华安（158079）跟踪指数下跌9.32%。相关个股中， 中国广核 上涨2.78%， 中国核电 上涨2.67%， 华电新能 上涨2.51%。 消息面上，车电融合节奏加快，二线动力 电池 企业正迅速崛起。数据显示， 中创新航 、 亿纬锂能 、 欣旺达 等销量显著提升，逐渐缩小与头部企业差距。近期， 欣旺达 等二线动力 电池 企业还在持续扩大与 新能源 车企在股权投资、研发制造等方面的合作。 研究机构表示，国内动力电池格局正由双寡头向多强分化，二线电池厂凭借性价比与交付能力进入主流车企",
      "source": "东方财富股票",
-     "zh": "【调研快报】岱勒新材接待方正证券等3家机构调研"
+     "zh": "车电融合深化资本合作，二线动力电池企业迎发展机遇｜新能源早参"
     },
     {
-     "title": "抛售阴霾笼罩，新兴市场股指抹去年内涨幅，韩股跌4%，纳指期货涨3%，黄金反弹2%",
+     "title": "江西悦纳新材料有限公司成立，注册资本3200万",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937072346.html",
+     "pubDate": "Mon, 23 Nov 2026 09:41:35 +0800",
+     "summary": "天眼查App显示，近日，江西悦纳 新材料 有限公司成立，法定代表人为张阳，注册资本3200万元人民币，经营范围包括 有色金属 合金制造、 有色金属 合金销售、 金属制品 销售等。股东信息显示，该公司由江西 悦安新材 料股份有限公司、海口渝城企业管理服务合伙企业（有限合伙）、海口众行企业管理服务合伙企业（有限合伙）共同持股。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "江西悦纳新材料有限公司成立，注册资本3200万"
+    },
+    {
+     "title": "A股创业板指火速翻红",
+     "link": "http://stock.eastmoney.com/news/11215,202611233937073513.html",
+     "pubDate": "Mon, 23 Nov 2026 09:41:30 +0800",
+     "summary": "23日，A股开盘后，创业板指火速翻红，截至发稿涨0.08%。成分股中， 新易盛 、 中际旭创 、 天孚通信 集体上涨，其中， 新易盛 涨超5%。 （文章来源：中新经纬）",
+     "source": "东方财富股票",
+     "zh": "A股创业板指火速翻红"
+    },
+    {
+     "title": "11月23日集合竞价：真视通5连板 德龙汇能2连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611233937066258.html",
+     "pubDate": "Mon, 23 Nov 2026 09:28:44 +0800",
+     "summary": "11月23日，三大指数集体低开，上证指数低开0.86%，深证成指低开0.98%，创业板指低开0.75%。板块方面， 黄金 领涨， 赤峰黄金 涨5%， 贵金属 、 白银 等开盘涨幅居前。 个股方面，4股竞价涨停，其中 真视通 5连板、 德龙汇能 2连板、 克来机电 2连板、 联创电子 首板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
+     "source": "东方财富资讯",
+     "zh": "11月23日集合竞价：真视通5连板 德龙汇能2连板"
+    },
+    {
+     "title": "特朗普希望黄仁勋道歉后回归 贝森特：英伟达应从外部寻才 黄仁勋已经是外部人士了",
+     "link": "http://finance.eastmoney.com/news/11158,202611233937059780.html",
+     "pubDate": "Mon, 23 Nov 2026 09:20:18 +0800",
+     "summary": "11月22日，在哥伦比亚广播公司《面向全国》的演播室里，主持人问美国财政部长贝森特：“特朗普总统说，黄仁勋应该恢复原职。但您此前表示， 英伟达 （NVDA.US） 应该从公司外部寻找新领导人。总统是否理解您指出的国家安全风险和监管风险？” 对此，贝森特回复称， “黄仁勋现在已经是公司外部人士了。” 在黄仁勋突然辞职后，贝森特曾表示， 英伟达 在物色新任首席执行官（CEO）时，需要“从公司外部寻才”。 贝森特在福克斯新闻台节目中表示，“董事会在物色新领导人时，需要从公司外部寻找人选；考虑到公司内部发生的事情，他们需要一次大刀阔斧的整顿”，“ 英伟达 董事会与外部法律顾问需在未来10天内，就公司遵",
+     "source": "东方财富资讯",
+     "zh": "特朗普希望黄仁勋道歉后回归 贝森特：英伟达应从外部寻才 黄仁勋已经是外部人士了"
+    },
+    {
+     "title": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹",
      "link": "https://wallstreetcn.com/articles/3786472",
      "pubDate": "Mon, 23 Nov 2026 09:13:34 +0800",
-     "summary": "AI交易的去杠杆浪潮正从华尔街迅速蔓延至亚太，区域监管机构罕见同步出手护盘。 周一，亚太股市开盘普遍下行， MSCI新兴市场股票指数抹去了年初至今的涨幅 。韩国KOSPI指数早盘一度下跌超过3%，三星电子与SK海力士分别下跌约3%和2%；澳大利亚S&P/ASX 200小幅走低；日本市场因假期休市。 与之形成对照的是，美股期货强力反弹。纳斯达克100期货一度上涨2.6%，标普500期货上涨1.9%，道指期货上涨449点，幅度为0.9%。 美股科技股夜盘普遍走高，英伟达、英特尔、闪迪、迈威尔科技涨逾5%，美光科技、博通、谷歌、特斯拉涨逾3%。 上周的抛售令标普500和纳斯达克指数双双进入技术性回调",
+     "summary": "上周美股AI交易的去杠杆浪潮正从华尔街迅速蔓延至亚太，区域监管机构罕见同步出手护盘。 周一，亚太股市开盘普遍下行， MSCI新兴市场股票指数抹去了年初至今的涨幅 。韩国KOSPI指数早盘一度下跌超过3%，三星电子与SK海力士分别下跌约4.7%和3.8%；澳大利亚S&P/ASX 200小幅走低；日本市场因假期休市。 与之形成对照的是，美股期货强力反弹。纳斯达克100期货一度上涨2.6%，标普500期货上涨1.9%，道指期货上涨449点，幅度为0.9%。 美股科技股夜盘普遍走高，英伟达、英特尔、闪迪、迈威尔科技涨逾5%，美光科技、博通、谷歌、特斯拉涨逾3%。 上周的抛售令标普500和纳斯达克指数双",
      "source": "华尔街见闻",
-     "zh": "抛售阴霾笼罩，新兴市场股指抹去年内涨幅，韩股跌4%，纳指期货涨3%，黄金反弹2%"
+     "zh": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹"
     },
     {
      "title": "霍尔木兹海峡传出大消息！",
@@ -2378,22 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "十大券商看后市｜A股底部特征逐步显现 极端估值结构将修正"
     },
     {
-     "title": "下月加息概率不再100%！一文读懂：美股大跌会如何影响美联储？",
-     "link": "http://finance.eastmoney.com/news/1344,202611233937047433.html",
-     "pubDate": "Mon, 23 Nov 2026 08:46:14 +0800",
-     "summary": "上周美股遭遇剧烈抛售，两大主要股指——标普500指数与道指相较近期高点，跌幅双双突破了10%，正式步入技术性回调区间。而随着股市重挫，交易员也迅速削减了对美联储后续加息力度的押注。 芝商所的美联储观察工具显示，利率 期货 交易员目前已不再百分百预计美联储下月将会加息 ——最新定价显示下月加息25个基点的概率约为95.2%，按兵不动的概率则为4.8%。 要知道，在一周之前，市场交易员不仅百分百定价了下月加息，甚至一度预计有超过10%的概率大幅加息50个基点。 同时，利率定价显示，市场目前预计美联储累计加息幅度将不足三次(每次25个基点)，下一次加息仅被完全计入明年1月的定价中，随后最快可能在3月",
-     "source": "东方财富资讯",
-     "zh": "下月加息概率不再100%！一文读懂：美股大跌会如何影响美联储？"
-    },
-    {
-     "title": "算力疯狂扩产埋隐患？马斯克警告：明年AI行业或现严重“资金荒”！",
-     "link": "http://finance.eastmoney.com/news/1344,202611233937047015.html",
-     "pubDate": "Mon, 23 Nov 2026 08:44:32 +0800",
-     "summary": "SpaceX 首席执行官兼 特斯拉 首席执行官、全球首富马斯克最新表示，随着科技公司竞相建设 数据中心 并扩大计算能力， 人工智能 （AI）行业可能在2027年面临严重的资金短缺。 马斯克是在回应一篇帖子时作出了上述警告。他还表示，挑战不仅在于购买昂贵的芯片和建设设施，更在于如何尽快让这些设施投入运营并开始产生收入。 根据马斯克的说法， 即使支付计算基础设施费用与其商业运营之间只是延迟几个月，也可能导致该行业需要数千亿美元的额外营运资金。 “要让如此庞大的算力启动、冷却并可靠运行是非常困难的。”他补充道：“ 明年现金短缺问题也会非常严重。 即使计算资源付款到能够稳定运行并产生收入之间只有几个月",
-     "source": "东方财富资讯",
-     "zh": "算力疯狂扩产埋隐患？马斯克警告：明年AI行业或现严重“资金荒”！"
-    },
-    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Mon, 23 Nov 2026 08:35:19 +0800",
@@ -2408,30 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示， 对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。 高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫",
      "source": "华尔街见闻",
      "zh": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场"
-    },
-    {
-     "title": "A股热点前瞻丨AI服务器厂商最高涨价45%；特斯拉在美推出FSD v15；海洋经济迎政策利好",
-     "link": "http://finance.eastmoney.com/news/11874,202611233937044193.html",
-     "pubDate": "Mon, 23 Nov 2026 08:29:32 +0800",
-     "summary": "①AI服务器厂商最高涨价45%，算力硬件议价能力凸显； ② 特斯拉 推出FSD v15，智驾安全关键场景处理能力提升25倍； ③阿波罗、 高盛 牵头完成史上最大GPU融资 租赁 交易； ④量子 计算机 “高速内存”全球首次真机实现， 量子科技 再获突破； ⑤五部门印发海洋产业投融资指导目录， 海洋经济 迎政策利好； ⑥全球制药巨头披露AI成果，新药研发周期大幅缩短。 盘面回顾 上周五，A股三大指数集体收跌，沪指最低触及3500.83点，创业板指跌3.54%，沪深两市成交1.42万亿元，全市场超5200股下跌。 红利股 、 PCB 板块逆势活跃， 半导体 产业链、 AI应用 方向调整。 AI服务",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨AI服务器厂商最高涨价45%；特斯拉在美推出FSD v15；海洋经济迎政策利好"
-    },
-    {
-     "title": "绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”",
-     "link": "https://wallstreetcn.com/articles/3786474",
-     "pubDate": "Mon, 23 Nov 2026 08:28:21 +0800",
-     "summary": "Anthropic上市首日股价上涨17%，创下史上最大规模IPO纪录，但 承销商在交易仅一天后就行使了全部超额配售选择权（“绿鞋”），额外募资122亿美元。 随着上周五科技股遭遇抛售，Anthropic股价一度跌至距83美元发行价仅差5美分，最终收于88.91美元，跌幅8.5%。据部分投资者由此质疑， 在市场规模已扩大、内部人持股可售、市况走弱的三重背景下，如此迅速地行使绿鞋是否过于仓促，并传递出公司“急于拿钱”的信号。 据英国《金融时报》专栏作家、美国银行前全球股票资本市场主管Craig Coben于11月22日撰文称，Anthropic的IPO在首日交易中表现强劲，收盘价97.17美元，稳",
-     "source": "华尔街见闻",
-     "zh": "绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”"
-    },
-    {
-     "title": "今日看点｜首批18只主动ETF上市",
-     "link": "http://www.eeo.com.cn/2026/1123/1100238.shtml",
-     "pubDate": "Mon, 23 Nov 2026 08:24:23 +0800",
-     "summary": "11月23日，首批18只主动ETF将在沪深交易所挂牌上市，上市交易公告书已于近日集中披露。从发行看，首批18只产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，合计募集360亿元，有效认购户数超33万户。",
-     "source": "经济观察网",
-     "zh": "今日看点｜首批18只主动ETF上市"
     },
     {
      "title": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg",
@@ -2512,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
      "source": "MarketWatch",
      "zh": "Social Security should be shut down, this Republican senator says"
+    },
+    {
+     "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+     "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
+     "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+     "source": "MarketWatch",
+     "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     }
    ]
   },

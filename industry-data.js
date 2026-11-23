@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 10:31:57",
+ "generated_at": "2026/11/23 10:37:09",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "OpenAI又想叫暂停",
+     "link": "https://www.huxiu.com/article/4907607.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 10:25:32 +0800",
+     "summary": "本文来自微信公众号： 腾讯科技 ，作者：苏扬，编辑：徐青阳，题图来自：视觉中国 模型能力越强，讨论&ldquo;暂缓&rdquo;的声音就越多。 美国当地时间11月22日，OpenAI首席科学家雅库布&middot;帕乔茨基 （Jakub Pachocki） 发表了题为《Perplexity and Intelligence》 （困惑度与智能） 的文字，公开公司内部追踪多年的预训练数据，并提出建立AI行业共同标准。 帕乔茨基希望各家前沿模型公司使用统一指标衡量模型能力，在安全监控能力达到要求之前，不突破约定的能力门槛。 这项提议也得到了OpenAI CEO山姆&middot;奥特曼 （Sam ",
+     "source": "虎嗅",
+     "zh": "OpenAI又想叫暂停"
+    },
+    {
+     "title": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈",
+     "link": "https://www.huxiu.com/article/4907613.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 10:23:57 +0800",
+     "summary": "本文来自微信公众号： 出海同学会 ，作者：出海同学会，原文标题：《干货｜解读 Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈》 在上篇，我们讨论了Personal Agent的实际需求、中美市场的差异，以及通用与垂直产品的不同路线。 到了下篇，讨论进一步涉及数据、平台与竞争格局。本篇聚焦三个问题：用户愿意向Agent开放多少个人信息和权限？平台开始限制第三方Agent，独立产品如何应对？大厂入场之后，创业公司的机会在哪里？ 从这场讨论来看，Personal Agent的竞争可能不只发生在产品层面。谁能持续获得用户的信任与个人上下文，谁能掌握入口和生态资源，",
+     "source": "虎嗅",
+     "zh": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈"
+    },
+    {
      "title": "机器人公司老板当自媒体，图什么？",
      "link": "https://www.huxiu.com/article/4907609.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 10:20:43 +0800",
@@ -1832,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 23 日消息，东风日产 N 序列第四款车型 NX7 将于 11 月 27 日在广州车展正式上市，并同步开启交付。 新车已于 11 月 13 日开启预售，共推出三款配置，预售价区间为 12.99 万元至 14.99 万元，定位“智能零压 SUV”，采用大五座布局。 三款车型的预售价分别为：320 Pro 12.99 万元、320 Max 13.99 万元、320 Ultra 激光雷达版 14.99 万元。 入门级的 320 Pro 核心三电规格与高配车型一致，而 320 Max 在 Pro 基础上增加 AI 零压云毯座椅 2.0、四座通风加热按摩以及 6.33L 车载冷暖冰箱",
      "source": "IT之家",
      "zh": "东风日产 NX7 定档 11 月 27 日广州车展上市：全系宁德时代电池，预售 12.99 万元起"
-    },
-    {
-     "title": "以前被手机难住的爸妈，现在开始用AI“夺回一切”",
-     "link": "https://www.huxiu.com/article/4907606.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:07:06 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：代天医、吴欧、不启轩 赵一的母亲59岁，是一位中学教师。日常用AI查资料、讨论书中的内容、修改材料，也会让AI帮忙批改学生作文。最近两个月，她还开始用AI记录体重和体脂，参考AI给出的建议，调整饮食和运动，成功瘦了10斤。 赵一是名视频编导，也经常在工作里使用AI。他会比较不同模型的性能参数，密切关注新技术的发展动态，交叉核查AI生成信息的准确性，也紧跟从AI工程范式的更新。 母亲用AI时乐在其中，还老和赵一分享与她和AI的哲思对话。看到母亲用AI的方式，赵一不知道这是新潮还是落伍。 不止赵一有这样的疑问。但站在老年人的角度看，使用AI带给他们",
-     "source": "虎嗅",
-     "zh": "以前被手机难住的爸妈，现在开始用AI“夺回一切”"
     },
     {
      "title": "Singularity Computers 推出外置液冷系统：四组 560 冷排，5000W 解热",
@@ -1904,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jessica Wachtel / The New Stack : GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &nbsp; &mdash;&nbsp; When I compared Anthropic's Fable 5.2 vs. OpenAI's GPT-6 Astra last week, Fable 5.2 ",
      "source": "Techmeme",
      "zh": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)"
-    },
-    {
-     "title": "独家｜未见扩编，豆包在手，小荷“再露尖尖角”",
-     "link": "https://www.huxiu.com/article/4907597.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 09:40:43 +0800",
-     "summary": "本文来自微信公众号： 西直门外汉 ，作者：老孙去也，原文标题：《独家｜未见扩编，豆包在手，小荷“再露尖尖角”》 小荷健康又忙起来了。 不过，人似乎没增加多少。 近日，几位接近小荷健康的人士向西直门外汉证实，几年前缩减至百余人的团队，目前并未有重新扩编，人数仍保持在此前缩编后的规模。 对方还证实，如今的小荷，再度受到集团重视，除了经营自己的医疗产品，也开始陆续为字节内部其他业务提供医疗专业支持。 其中最值得关注的，自然是豆包。 今年2月，小荷健康更新隐私政策，明确将豆包列为小荷AI医生功能的接入平台之一。8月，小荷AI医生又披露了AI咨询转接真人医生的相关安排。 最近，吴海锋重新负责小荷的消息也",
-     "source": "虎嗅",
-     "zh": "独家｜未见扩编，豆包在手，小荷“再露尖尖角”"
     },
     {
      "title": "美客多墨西哥本土店入驻后，Mercado Ads 首月 CPA 花到 180 比索正常吗？",

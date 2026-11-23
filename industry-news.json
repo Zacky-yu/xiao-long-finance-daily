@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 23:12:17",
+ "generated_at": "2026/11/23 23:32:09",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Special Report: Engineering Focus on Motion Control",
+     "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+     "pubDate": "Mon, 23 Nov 2026 15:16:26 +0000",
+     "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Special Report: Engineering Focus on Motion Control"
+    },
+    {
      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
      "link": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
      "pubDate": "Mon, 23 Nov 2026 14:20:46 +0000",
@@ -617,14 +625,6 @@
      "zh": "Robotics enters its post-Jensen Huang era"
     },
     {
-     "title": "What industrial drone deployments reveal about real-world autonomy challenges",
-     "link": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-     "pubDate": "Thu, 19 Nov 2026 17:01:55 +0000",
-     "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "What industrial drone deployments reveal about real-world autonomy challenges"
-    },
-    {
      "title": "Soft exosuit makes it easier to stand up",
      "link": "https://robohub.org/soft-exosuit-makes-it-easier-to-stand-up/",
      "pubDate": "Thu, 19 Nov 2026 10:09:47 +0000",
@@ -648,6 +648,14 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging",
+     "link": "https://electrek.co/2026/11/23/bmws-ix4-promises-428-miles-range-and-ultra-fast-charging/",
+     "pubDate": "Mon, 23 Nov 2026 15:21:00 +0000",
+     "summary": "BMW’s new iX4 is almost here, and it could make range anxiety a thing of the past. With 428 miles of EPA range, more than 500 miles on the WLTP cycle, and ultra-fast charging, the new EV could make road trips a whole lot easier. more…",
+     "source": "Electrek",
+     "zh": "BMW’s new iX4 is almost here, with 428 miles of range and seriously fast charging"
+    },
     {
      "title": "2027 Mercedes GLA Electric First Drive: A Big Upgrade",
      "link": "https://insideevs.com/reviews/816318/2027-mercedes-gla-electric-review/",
@@ -799,14 +807,6 @@
      "summary": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
      "source": "InsideEVs",
      "zh": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto"
-    },
-    {
-     "title": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
-     "link": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
-     "pubDate": "Sun, 22 Nov 2026 02:13:24 +0000",
-     "summary": "The last time Hyundai announced a new work truck was 22 years ago, and the Hyundai Porter has proven itself as a dependable workhorse throughout Korea and Southeast Asia – but only the pyramids and the Chevy Express can last forever. Hyundai is reportedly getting ready to pull the wraps off an all-n",
-     "source": "Electrek",
-     "zh": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck"
     },
     {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
+     "link": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
+     "pubDate": "Mon, 23 Nov 2026 15:10:59 +0000",
+     "summary": "Marvel Studios’ first Avengers film since 2019 is less than a month away, and it might be the big-screen team-up event we thought impossible only ten years ago.",
+     "source": "Space.com",
+     "zh": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men"
+    },
+    {
      "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
      "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
      "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
@@ -1375,14 +1383,6 @@
      "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "China details its path to a crewed Moon landing before 2030"
-    },
-    {
-     "title": "Ariane 6 launch of 36 Amazon Leo satellites postponed due to a technical issue",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-     "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
-     "summary": "The next launch attempt will be no earlier than Nov. 24.",
-     "source": "Space.com",
-     "zh": "Ariane 6 launch of 36 Amazon Leo satellites postponed due to a technical issue"
     },
     {
      "title": "65 Years of Human Spaceflight at NASA Johnson",
@@ -1692,7 +1692,7 @@
      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
      "pubDate": "Sat, 21 Nov 2026 01:31:23 GMT",
-     "summary": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+     "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
      "source": "Dark Reading",
      "zh": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents"
     },
@@ -1761,12 +1761,60 @@
    "total": 18,
    "items": [
     {
+     "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+     "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+     "pubDate": "Mon, 23 Nov 2026 15:23:26 +0000",
+     "summary": "COP31 ended without a consensus deal for the first time since 2009.",
+     "source": "Ars Technica",
+     "zh": "COP31 ends in failure as countries split over fossil fuels, climate finance"
+    },
+    {
+     "title": "President Trump says Jensen Huang \"did nothing wrong\", Nvidia&apos;s board \"did ask for assurance on the national security threat\", and he spoke to Xi about Huang (Dan Mangan/CNBC)",
+     "link": "https://www.techmeme.com/261123/p26#a261123p26",
+     "pubDate": "Mon, 23 Nov 2026 10:20:00 -0500",
+     "summary": "Dan Mangan / CNBC : President Trump says Jensen Huang &ldquo;did nothing wrong&rdquo;, Nvidia's board &ldquo;did ask for assurance on the national security threat&rdquo;, and he spoke to Xi about Huang &nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from t",
+     "source": "Techmeme",
+     "zh": "President Trump says Jensen Huang \"did nothing wrong\", Nvidia&apos;s board \"did ask for assurance on the national security threat\", and he spoke to Xi about Huang (Dan Mangan/CNBC)"
+    },
+    {
+     "title": "英伟达的10天压力测试：没有黄仁勋，全球AI 蒸发4万亿美元",
+     "link": "https://www.huxiu.com/article/4907847.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 23:19:24 +0800",
+     "summary": "本文来自微信公众号： 大G看科技 ，作者：大G看科技，原文标题：《英伟达的 10 天压力测试：没有黄仁勋，全球 AI 蒸发 4 万亿美元》 11月23日，周一，美股开盘前。 英伟达董事会发布公告，全票通过恢复黄仁勋的总裁、首席执行官及董事职务，即刻生效。从辞职到复职，中间隔了10天。 公告里有一句话值得单独看：董事会在决策过程中，听取了美国政府高层的意见。基于该意见，董事会确信他的复职不构成国家安全风险。 开盘那一刻，费城半导体指数涨14%。英伟达跳空高开33%，市值一个上午增加超过1万亿美元，重新站上4万亿。闪迪涨24%，SK海力士涨22%，希捷涨21%，台积电涨20%，Arm、西部数据、拉",
+     "source": "虎嗅",
+     "zh": "英伟达的10天压力测试：没有黄仁勋，全球AI 蒸发4万亿美元"
+    },
+    {
+     "title": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排",
+     "link": "https://www.ithome.com/1/031/228.htm",
+     "pubDate": "Mon, 23 Nov 2026 15:15:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，面对网友提问品牌未来规划是否会扩展至电脑、手环、智能家居，刘赫表示：“安排，我们是全场景的， 手机只是开始 。” 最新爆料显示， 华为子品牌星芒除了手机，还会有平板、笔记本、穿戴产品等 ，目前确认「星芒小平板」已安排。星芒品牌主打先锋科技，前期产品大部分是华为换皮，后期会有独立开发的",
+     "source": "IT之家",
+     "zh": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排"
+    },
+    {
+     "title": "Source: Trump dialed into Nvidia&apos;s board meeting to argue for Huang&apos;s return; a US official says he \"was totally involved\" and \"we have to protect our geniuses\" (Semafor)",
+     "link": "https://www.techmeme.com/261123/p25#a261123p25",
+     "pubDate": "Mon, 23 Nov 2026 10:14:39 -0500",
+     "summary": "Semafor : Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he &ldquo;was totally involved&rdquo; and &ldquo;we have to protect our geniuses&rdquo; &nbsp; &mdash;&nbsp; US President Donald Trump had dialed into Nvidia's board meeting to argue for Jensen",
+     "source": "Techmeme",
+     "zh": "Source: Trump dialed into Nvidia&apos;s board meeting to argue for Huang&apos;s return; a US official says he \"was totally involved\" and \"we have to protect our geniuses\" (Semafor)"
+    },
+    {
      "title": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)",
      "link": "https://www.techmeme.com/261123/p24#a261123p24",
      "pubDate": "Mon, 23 Nov 2026 10:01:24 -0500",
      "summary": "Rhys Elliott / Alinea : Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue &nbsp; &mdash;&nbsp; We dive into our sell-through estimates (no unsold retail copies) for the biggest game of the year,",
      "source": "Techmeme",
      "zh": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)"
+    },
+    {
+     "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
+     "link": "https://www.ithome.com/1/031/219.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:58:55 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为官网最新显示， 星芒 OSTA O1 Pro 支持 eSIM 能力 。 该功能需开通运营商相关业务使用，同一个手机可以存储最多 2 个 eSIM 号码，目前仅部分运营商提供 eSIM 业务。 当前同一个 eSIM 手机上最多允许支持四个号码 （2 张实体卡号码 + 2 个 eSIM 号码）， 可以同时使用两个号码 （可支持“两张实体",
+     "source": "IT之家",
+     "zh": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡"
     },
     {
      "title": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)",
@@ -1780,7 +1828,7 @@
      "title": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”",
      "link": "https://www.ithome.com/1/031/218.htm",
      "pubDate": "Mon, 23 Nov 2026 14:49:24 GMT",
-     "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。 对于此消息，马斯克在 X 平台发文称，“错误已更正。” 马斯克稍早还发布了一条疑似回应此事的消息称，“搞定了 (It is done)。 IT之家注意到，英伟达在新闻稿中表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示。“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在",
+     "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。 对于此消息，马斯克在 X 平台转发英伟达公司对黄仁勋的复职声明，并配文“错误已更正。” 马斯克稍早还发布了一条疑似回应此事的消息称，“搞定了 (It is done)。 IT之家注意到，英伟达在新闻稿中表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 “我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示。“我将以最大的谦逊和焕然一新的承诺肩负起",
      "source": "IT之家",
      "zh": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”"
     },
@@ -1849,28 +1897,12 @@
      "zh": "Jensen Huang Is Back as Nvidia CEO"
     },
     {
-     "title": "Alinea：《GTA 6》首发周末销量近 4500 万份，周日活跃用户超 4000 万",
-     "link": "https://www.ithome.com/1/031/214.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:26:10 GMT",
-     "summary": "IT之家 11 月 23 日消息，上周五，Take-Two Interactive 和 Rockstar Games 公布了《GTA 6》的首批销售数据：截至 11 月 19 日游戏发售当天，预购销量已达到 3250 万份，创造收入 37.9 亿美元 （IT之家注：现汇率约合 253.22 亿元人民币） 。 不过，游戏的销售势头并未止步于此。市场分析机构 Alinea Analytics 最新发布的一份报告显示，截至刚刚过去的周末，《GTA 6》的实际销量已经接近 4500 万份，而且这一数字尚未计入零售商手中尚未售出的库存。 具体来看，PlayStation 5 平台销量约为 3370 万份",
-     "source": "IT之家",
-     "zh": "Alinea：《GTA 6》首发周末销量近 4500 万份，周日活跃用户超 4000 万"
-    },
-    {
      "title": "Nvidia&apos;s board says it voted to reinstate Jensen Huang after receiving input from \"senior levels\" of the US government; a probe into his conduct is ongoing (Tim Bradshaw/Financial Times)",
      "link": "https://www.techmeme.com/261123/p22#a261123p22",
      "pubDate": "Mon, 23 Nov 2026 09:24:12 -0500",
      "summary": "Tim Bradshaw / Financial Times : Nvidia's board says it voted to reinstate Jensen Huang after receiving input from &ldquo;senior levels&rdquo; of the US government; a probe into his conduct is ongoing &nbsp; &mdash;&nbsp; Startling reversal of board's position on disgraced co-founder sends AI giant'",
      "source": "Techmeme",
      "zh": "Nvidia&apos;s board says it voted to reinstate Jensen Huang after receiving input from \"senior levels\" of the US government; a probe into his conduct is ongoing (Tim Bradshaw/Financial Times)"
-    },
-    {
-     "title": "大疆 Osmo Action 6 运动相机新增街拍大师套装：收录手柄、肩带、挂绳，3799 元",
-     "link": "https://www.ithome.com/1/031/213.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:23:52 GMT",
-     "summary": "IT之家 11 月 23 日消息，大疆现已为旗下 Osmo Action 6 运动相机新增街拍大师套装，该套装收录了大师手柄、相机肩带、腕带挂绳、礼盒， 定价为 3799 元 。 京东 大疆 Osmo Action 6 大师街拍套装 3799 元 直达链接 据介绍，Osmo Action 6 是大疆首款可变光圈运动相机，光圈可在 f/2.0-f/4.0 之间调整，用户可根据场景及拍摄需求灵活选择光圈模式，其中自动模式下，光圈会根据拍摄环境自动调整大小。 而超级夜景模式则会开启最高 f/2.0 光圈，提升进光量，降低噪点对画面的干扰的同时还可在较小对焦距离下营造虚化效果，增强氛围感，用户还可以在",
-     "source": "IT之家",
-     "zh": "大疆 Osmo Action 6 运动相机新增街拍大师套装：收录手柄、肩带、挂绳，3799 元"
     },
     {
      "title": "黄仁勋复职，重掌英伟达",
@@ -1889,14 +1921,6 @@
      "zh": "President Trump says Nvidia \"made the correct and proper decision\", the US \"needs Jensen&apos;s leadership\", and the US AG found no evidence of \"unlawful conduct\" (Donald J. Trump/@realDonaldTrump)"
     },
     {
-     "title": "AI巨头，为何抢着布局内蒙古的这座小城？",
-     "link": "https://www.huxiu.com/article/4907828.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 22:11:09 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 最近，华尔街破天荒地开始研究一座中国小城。 高盛发布专题报告，分析它的数据中心产业；科技媒体WIRED也专门写了一篇长报道，标题是《一个意想不到的地方，正在成为中国AI热潮的中心》。 这座城市就是内蒙古的乌兰察布，常住人口只有155万。过去，它最响亮的名片是马铃薯，被称为“中国薯都”。如今，这里的产业画风却有些不一样。华为、阿里、字节、DeepSeek等企业都在这里布局了数据中心。 走进乌兰察布的察哈尔高新区，华为大道、苹果大道、阿里大道接连出现，路牌上的名字已经透出一股科技产业集聚区的气息。 更让人意外的是它背后的算力规模。 高盛统计，中",
-     "source": "虎嗅",
-     "zh": "AI巨头，为何抢着布局内蒙古的这座小城？"
-    },
-    {
      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
      "pubDate": "Mon, 23 Nov 2026 14:10:18 +0000",
@@ -1905,12 +1929,12 @@
      "zh": "Jensen Huang reinstated as Nvidia CEO, board chair"
     },
     {
-     "title": "Nvidia&apos;s board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding \"no national security risk\"; NVDA jumps 25%+ (Nvidia Newsroom)",
-     "link": "https://www.techmeme.com/261123/p20#a261123p20",
-     "pubDate": "Mon, 23 Nov 2026 09:03:19 -0500",
-     "summary": "Nvidia Newsroom : Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding &ldquo;no national security risk&rdquo;; NVDA jumps 25%+ &nbsp; &mdash;&nbsp; NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been rein",
-     "source": "Techmeme",
-     "zh": "Nvidia&apos;s board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding \"no national security risk\"; NVDA jumps 25%+ (Nvidia Newsroom)"
+     "title": "Jensen Huang Reinstated as Nvidia CEO",
+     "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+     "pubDate": "Mon, 23 Nov 2026 14:01:23 +0000",
+     "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director Comments URL: https://news.ycombinator.com/item?id=50611588 Points: 1163 # Comments: 910",
+     "source": "Hacker News",
+     "zh": "Jensen Huang Reinstated as Nvidia CEO"
     },
     {
      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
@@ -1919,14 +1943,6 @@
      "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希",
      "source": "Solidot",
      "zh": "GrapheneOS 指责 Google 恐吓其合作伙伴"
-    },
-    {
-     "title": "Oregon and Virginia sue SpaceX, alleging Grok Imagine&apos;s \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children (New York Times)",
-     "link": "https://www.techmeme.com/261123/p19#a261123p19",
-     "pubDate": "Mon, 23 Nov 2026 08:55:00 -0500",
-     "summary": "New York Times : Oregon and Virginia sue SpaceX, alleging Grok Imagine's &ldquo;spicy mode&rdquo; violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children &nbsp; &mdash;&nbsp; The states accused Elon Musk's company of violating consumer protection laws with its Grok Im",
-     "source": "Techmeme",
-     "zh": "Oregon and Virginia sue SpaceX, alleging Grok Imagine&apos;s \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children (New York Times)"
     },
     {
      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
@@ -1953,6 +1969,14 @@
      "zh": "GLP-1 减肥药或能对环境产生显著影响"
     },
     {
+     "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+     "link": "https://github.com/mikuta0407/win4wine",
+     "pubDate": "Mon, 23 Nov 2026 12:28:11 +0000",
+     "summary": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 62 # Comments: 24",
+     "source": "Hacker News",
+     "zh": "Win4wine – Run Windows Shell as the Linux Desktop on Wine"
+    },
+    {
      "title": "Tri-screen portable monitors aren’t for the faint of heart",
      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
      "pubDate": "Mon, 23 Nov 2026 12:15:16 +0000",
@@ -1975,30 +1999,6 @@
      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
      "source": "WIRED",
      "zh": "Submit Your Questions: Will Anyone Keep You Safe From AI?"
-    },
-    {
-     "title": "44 Best Gifts Under $100 That WIRED Loves (2026)",
-     "link": "https://www.wired.com/gallery/best-gifts-under-100/",
-     "pubDate": "Mon, 23 Nov 2026 12:00:00 +0000",
-     "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-     "source": "WIRED",
-     "zh": "44 Best Gifts Under $100 That WIRED Loves (2026)"
-    },
-    {
-     "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
-     "link": "https://www.wired.com/story/gifts-for-parents-2026/",
-     "pubDate": "Mon, 23 Nov 2026 11:30:00 +0000",
-     "summary": "If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to help make parenting a little easier.",
-     "source": "WIRED",
-     "zh": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More"
-    },
-    {
-     "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
-     "link": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
-     "pubDate": "Mon, 23 Nov 2026 11:30:00 +0000",
-     "summary": "Canadian citizen Yat Choi moved from DOGE to the National Design Studio before launching his own company, Govmaxxing.",
-     "source": "WIRED",
-     "zh": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy"
     }
    ]
   },
@@ -2008,6 +2008,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "CMF Buds 2 hit a new record low at 54% off",
+     "link": "https://www.androidauthority.com/cmf-buds-2-under-25-deal-3738390/",
+     "pubDate": "Mon, 23 Nov 2026 15:21:44 +0000",
+     "summary": "Nothing's CMF Buds 2 are down to $22.37 in Light Green and Light Orange, with 48dB hybrid noise canceling.",
+     "source": "Android Authority",
+     "zh": "CMF Buds 2 hit a new record low at 54% off"
+    },
+    {
+     "title": "AirPods Pro 3 were worth the upgrade for one standout feature",
+     "link": "https://9to5mac.com/2026/11/23/airpods-pro-3-were-worth-the-upgrade-for-one-standout-feature/",
+     "pubDate": "Mon, 23 Nov 2026 15:18:39 +0000",
+     "summary": "AirPods Pro 3 (now only $149, down from $249) offer many advantages over AirPods Pro 2, but after a year of use, the improvements to Active Noise Cancellation alone have proven worth the upgrade. more…",
+     "source": "9to5Mac",
+     "zh": "AirPods Pro 3 were worth the upgrade for one standout feature"
+    },
+    {
+     "title": "Black Friday knocks the Apple Watch Series 12 to a record-low $299",
+     "link": "https://www.androidauthority.com/apple-watch-series-12-black-friday-deal-3738389/",
+     "pubDate": "Mon, 23 Nov 2026 15:07:53 +0000",
+     "summary": "Save $100 on the 42mm GPS Apple Watch Series 12, now $30 cheaper than the record low it hit last week.",
+     "source": "Android Authority",
+     "zh": "Black Friday knocks the Apple Watch Series 12 to a record-low $299"
+    },
     {
      "title": "AirPods Max 2 drop to $419 in a $130 Black Friday price cut",
      "link": "https://www.androidauthority.com/airpods-max-2-black-friday-deal-3738388/",
@@ -2169,22 +2193,6 @@
      "zh": "‘Galaxy Watch 10’ won’t launch in 2027 as Samsung tries to slow RAMageddon losses"
     },
     {
-     "title": "Google Messages could soon let you start a Safety Check right from a chat",
-     "link": "https://www.androidauthority.com/google-messages-safety-check-apk-teardown-3738329/",
-     "pubDate": "Mon, 23 Nov 2026 13:26:45 +0000",
-     "summary": "It could make it easier for users to start a Safety Check timer.",
-     "source": "Android Authority",
-     "zh": "Google Messages could soon let you start a Safety Check right from a chat"
-    },
-    {
-     "title": "Our ultimate GTA 6 setup: Everything you need to take over Vice City",
-     "link": "https://www.androidauthority.com/ultimate-gta-6-setup-3737495/",
-     "pubDate": "Mon, 23 Nov 2026 13:25:12 +0000",
-     "summary": "GTA 6 is here, and your setup deserves an upgrade.",
-     "source": "Android Authority",
-     "zh": "Our ultimate GTA 6 setup: Everything you need to take over Vice City"
-    },
-    {
      "title": "Newest Apple Watch Series 12 and Ultra 4 now $100 off for Black Friday, more from just $179",
      "link": "https://9to5mac.com/2026/11/23/best-apple-watch-black-friday-deals-2/",
      "pubDate": "Mon, 23 Nov 2026 13:02:41 +0000",
@@ -2199,14 +2207,6 @@
      "summary": "It’s no secret that it can be hard to find good photographic opportunities around this time of year in the Pacific Northwest. Days are typically gray, with the sun rarely peaking out from behind the clouds; if you want contrast, you may just have to bring your own in the form of a flash. This […]",
      "source": "DPReview",
      "zh": "Shoot while the sun shines: samples from the Nikon Z5IIC"
-    },
-    {
-     "title": "As Apple works on AI agent features, banks are already blocking them",
-     "link": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/",
-     "pubDate": "Mon, 23 Nov 2026 12:55:35 +0000",
-     "summary": "One of the most dramatic shifts in the AI landscape is the emergence of intelligent agents that can use iPhone and Mac apps in order to carry out tasks on our behalf. We can already use third-party chatbots in this way, and we know Apple is working hard to turn Siri AI into an agent. However, before",
-     "source": "9to5Mac",
-     "zh": "As Apple works on AI agent features, banks are already blocking them"
     },
     {
      "title": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo",
@@ -2257,60 +2257,124 @@
    "total": 13,
    "items": [
     {
-     "title": "MaxLinear advances 21% amid broad technology rally",
-     "link": "https://seekingalpha.com/news/4675608-maxlinear-advances-21-amid-broad-technology-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 10:02:33 -0500",
+     "title": "IREN Limited advances 32% as tech stocks rally",
+     "link": "https://seekingalpha.com/news/4675629-iren-limited-advances-32-as-tech-stocks-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:28:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "MaxLinear advances 21% amid broad technology rally"
+     "zh": "IREN Limited advances 32% as tech stocks rally"
     },
     {
-     "title": "Nvidia soars +34% and is now poised for its second-best daily gain in company history",
-     "link": "https://seekingalpha.com/news/4675615-nvidia-soars-34-and-is-now-poised-for-its-second-best-daily-gain-in-company-history?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 10:01:03 -0500",
+     "title": "Bloom Energy leads industrial stocks higher as Huang’s Nvidia return fuels AI rally",
+     "link": "https://seekingalpha.com/news/4675646-bloom-energy-leads-industrial-stocks-higher-as-huang-s-nvidia-return-fuels-ai-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:28:12 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nvidia soars +34% and is now poised for its second-best daily gain in company history"
+     "zh": "Bloom Energy leads industrial stocks higher as Huang’s Nvidia return fuels AI rally"
     },
     {
-     "title": "IMUNON annouces withdrawal of form S-1 registration statement",
-     "link": "https://seekingalpha.com/news/4675622-imunon-annouces-withdrawal-of-form-sminus-1-registration-statement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 10:00:56 -0500",
+     "title": "The S&P 500 will retest its lowest point of the year, says analyst",
+     "link": "https://seekingalpha.com/news/4675656-the-s-and-p-500-will-retest-its-lowest-point-of-the-year-says-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:28:11 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "IMUNON annouces withdrawal of form S-1 registration statement"
+     "zh": "The S&P 500 will retest its lowest point of the year, says analyst"
     },
     {
-     "title": "Tech rally sends AXT higher by 21%",
-     "link": "https://seekingalpha.com/news/4675617-tech-rally-sends-axt-higher-by-21?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:59:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tech rally sends AXT higher by 21%"
+     "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
+     "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+     "pubDate": "Mon, 23 Nov 2026 15:26:33 GMT",
+     "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+     "source": "CNBC",
+     "zh": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang"
     },
     {
-     "title": "Bloom Energy climbs 19% on AI rebound",
-     "link": "https://seekingalpha.com/news/4675605-bloom-energy-climbs-19-on-ai-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:58:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bloom Energy climbs 19% on AI rebound"
-    },
-    {
-     "title": "BlackRock MuniYield Pennsylvania Quality Fund declares $0.0477 dividend",
-     "link": "https://seekingalpha.com/news/4675623-blackrock-muniyield-pennsylvania-quality-fund-declares-0_0477-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 09:56:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock MuniYield Pennsylvania Quality Fund declares $0.0477 dividend"
-    },
-    {
-     "title": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 14:54:18 GMT",
+     "pubDate": "Mon, 23 Nov 2026 15:24:42 GMT",
      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
      "source": "CNBC",
-     "zh": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair"
+     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%"
+    },
+    {
+     "title": "Applied Optoelectronics soars 22% amid broad market rally",
+     "link": "https://seekingalpha.com/news/4675626-applied-optoelectronics-soars-22-amid-broad-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:24:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Applied Optoelectronics soars 22% amid broad market rally"
+    },
+    {
+     "title": "UP Fintech Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675653-up-fintech-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:24:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "UP Fintech Q3 Earnings Preview"
+    },
+    {
+     "title": "SoftBank's Masayoshi explored $1T buyout of SK Hynix - The Information",
+     "link": "https://seekingalpha.com/news/4675637-softbanks-masayoshi-explored-1t-buyout-of-sk-hynix---the-information?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 10:23:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SoftBank's Masayoshi explored $1T buyout of SK Hynix - The Information"
+    },
+    {
+     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+     "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+     "pubDate": "Mon, 23 Nov 2026 15:19:20 GMT",
+     "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+     "source": "CNBC",
+     "zh": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market"
+    },
+    {
+     "title": "特朗普火速力挺黄仁勋复职：正确且恰当决定，美政府无证据表明他有违法行为",
+     "link": "https://wallstreetcn.com/articles/3786540",
+     "pubDate": "Mon, 23 Nov 2026 23:18:40 +0800",
+     "summary": "英伟达宣布董事会决定恢复黄仁勋总裁、首席执行官（CEO）及董事职务后不到10分钟，美国总统特朗普便公开力挺这一决定，称美国政府没有理由认为黄仁勋回归会对国家安全构成风险。 据新华社，特朗普23日在社交媒体发文说，英伟达董事会让黄仁勋重新担任CEO一职是“正确且恰当的决定”。他表示，美国政府没有理由认为黄仁勋回归英伟达会对国家安全构成任何风险。美国司法部长已确认，美国政府没有证据表明其有任何不合法行为。 特朗普发帖表示，美国需要黄仁勋继续领导英伟达，以确保公司乃至美国经济的成功与繁荣。他称，自己已经与黄仁勋相识，认为他是一位“伟大的爱国者和国家瑰宝”。 不过，特朗普同时要求英伟达继续彻底调查公司",
+     "source": "华尔街见闻",
+     "zh": "特朗普火速力挺黄仁勋复职：正确且恰当决定，美政府无证据表明他有违法行为"
+    },
+    {
+     "title": "八个月配额后，刚果金出口全面暂停，钴市再迎政策变数",
+     "link": "https://wallstreetcn.com/articles/3786537",
+     "pubDate": "Mon, 23 Nov 2026 23:18:22 +0800",
+     "summary": "全球最大钴生产国刚果民主共和国宣布，将于本月底起再次暂停钴出口，以遏制国际钴价持续下跌，并缓解全球市场供应过剩压力。 11月23日，据彭博报道，刚果政府监管机构ARECOMS周一发表声明称， 自11月30日起暂停所有钴出口，暂停期限暂未确定。 ARECOMS表示，此举旨在“解决国际市场供应过剩问题，推动市场可持续再平衡”。这是刚果自2025年2月首次实施全面出口禁令以来，第二次采取类似措施。 此次禁令出台之际，钴价正面临较大下行压力。刚果主要出口产品钴氢氧化物的价格自今年4月触及峰值后几近腰斩，全球需求疲软及再生钴供应增加进一步加剧了市场供需失衡。新一轮出口管控将影响全球钴供应，也可能改变矿企",
+     "source": "华尔街见闻",
+     "zh": "八个月配额后，刚果金出口全面暂停，钴市再迎政策变数"
+    },
+    {
+     "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+     "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 15:15:00 GMT",
+     "summary": "Nvidia’s stock rose on Monday by the most in a decade after the stunning decision to reinstate Jensen Huang as president and chief executive.",
+     "source": "MarketWatch",
+     "zh": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO"
+    },
+    {
+     "title": "Nvidia reinstates Jensen Huang as chief executive",
+     "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 15:04:38 GMT",
+     "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
+     "source": "Financial Times",
+     "zh": "Nvidia reinstates Jensen Huang as chief executive"
+    },
+    {
+     "title": "Nvidia shares soar 30% after board reinstates Huang",
+     "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 14:57:55 GMT",
+     "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
+     "source": "Financial Times",
+     "zh": "Nvidia shares soar 30% after board reinstates Huang"
+    },
+    {
+     "title": "CFTC loses emergency effort to block New York action against Kalshi",
+     "link": "https://www.finextra.com/newsarticle/48796/cftc-loses-emergency-effort-to-block-new-york-action-against-kalshi?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 23 Nov 2026 14:41:00 GMT",
+     "summary": "A US judge has rejected a request from the Commodity Futures Trading Commission to temporarily block the New York Attorney General from pursuing their legal case against prediction market Kalshi.",
+     "source": "Finextra",
+     "zh": "CFTC loses emergency effort to block New York action against Kalshi"
     },
     {
      "title": "美股科技大反攻！黄仁勋回归，英伟达涨超30%，纳斯达克100涨7%，布油失守90美元",
@@ -2345,38 +2409,6 @@
      "zh": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?"
     },
     {
-     "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
-     "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 14:33:17 GMT",
-     "summary": "Nasdaq gains 7% and S&P up 5% as AI trade reignites on Wall Street",
-     "source": "Financial Times",
-     "zh": "Nvidia shares soar 30% after board reinstates Jensen Huang"
-    },
-    {
-     "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
-     "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 14:33:00 GMT",
-     "summary": "Donald Trump’s was among the voices pushing for ousted co-founder Huang’s resumption of the AI chip giant’s reins.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO"
-    },
-    {
-     "title": "Nvidia reinstates Jensen Huang as chief executive",
-     "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 14:32:05 GMT",
-     "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
-     "source": "Financial Times",
-     "zh": "Nvidia reinstates Jensen Huang as chief executive"
-    },
-    {
-     "title": "Trump hosts crypto gala as his meme coin falls below $1",
-     "link": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
-     "pubDate": "Mon, 23 Nov 2026 14:15:42 GMT",
-     "summary": "Donald Trump hosted a dinner for top holders of his meme coin that has fallen to under $1. Bitcoin rebounded after falling to lowest level since September 2024.",
-     "source": "CNBC",
-     "zh": "Trump hosts crypto gala as his meme coin falls below $1"
-    },
-    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 14:15:00 GMT",
@@ -2399,14 +2431,6 @@
      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
      "source": "MarketWatch",
      "zh": "The number of 401(k) millionaires drops amid stock-market swings"
-    },
-    {
-     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-     "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-     "pubDate": "Mon, 23 Nov 2026 14:07:16 GMT",
-     "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-     "source": "CNBC",
-     "zh": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market"
     },
     {
      "title": "Canada picks FDX for open banking technical standards",
@@ -2457,14 +2481,6 @@
      "zh": "证监会明确两融业务安排 原则与细节都讲清楚了"
     },
     {
-     "title": "余承东重新为问界站台，M7还能重现辉煌吗？",
-     "link": "https://wallstreetcn.com/articles/3786531",
-     "pubDate": "Mon, 23 Nov 2026 21:03:01 +0800",
-     "summary": "作者 | 周智宇 11月23日，华为常务董事、终端BG董事长余承东又为问界M7吆喝起来，在微博上发布了新车的外观图。 余承东提到，M7系列上市以来已收获超过47万用户，新车将更新内外饰，搭载华为乾崑智驾ADS 5，并升级面向L3有条件自动驾驶的全域冗余架构。 这是继11月12日预热新M8、次日与赛力斯集团董事长张兴海同台之后，余承东再次为问界新车发声。 两个月前，双方刚调整合作模式，余承东也曾表示，华为团队会聚焦尊界、享界、智界和尚界，让其他四个品牌获得更多资源。 余承东接连发声，新M7却要面对一场比三年前复杂得多的竞争。太平洋汽车的车型销量榜显示，今年10月M7卖出2473辆。而在2024年",
-     "source": "华尔街见闻",
-     "zh": "余承东重新为问界站台，M7还能重现辉煌吗？"
-    },
-    {
      "title": "11月23日东方财富财经晚报（附新闻联播）",
      "link": "http://finance.eastmoney.com/news/1353,202611233937502761.html",
      "pubDate": "Mon, 23 Nov 2026 21:00:22 +0800",
@@ -2479,22 +2495,6 @@
      "summary": "市场情绪回暖！ 北京时间23日晚间，美股 期货 企稳反弹，VIX恐慌指数随之大幅跳水。截至记者发稿时，VIX恐慌指数跌逾16%，报30.09。该指数下跌，意味着投资者恐慌情绪明显缓解，市场风险偏好回升。 与此同时，纳指 期货 涨幅扩大至3.60%，标普500指数 期货 涨幅扩大至2.88%，道指期货涨超2%。美股盘前， 英伟达 涨幅扩大至9%， SK海力士 、Coherent涨超8%， 迈威尔科技 、 闪迪 、 美光科技 、 阿斯麦 等涨超6%。 23日，多家华尔街机构相继发布报告，对近期美股抛售后的市场前景作出研判。 摩根士丹利 首席美股策略师迈克尔·威尔逊在报告中称，上周美股的恐慌性抛售带",
      "source": "东方财富资讯",
      "zh": "恐慌指数大跳水！市场情绪回暖"
-    },
-    {
-     "title": "雷诺CEO反思在华失误：当时没敢对戈恩说不",
-     "link": "https://wallstreetcn.com/articles/3786530",
-     "pubDate": "Mon, 23 Nov 2026 20:59:37 +0800",
-     "summary": "作者 | 周智宇 雷诺集团CEO福兰，把自己职业生涯中最大的失误，归结为当年没有向老板说出口的一句话。 福兰在近日一场媒体对谈中回忆，雷诺大举进入中国乘用车市场时已经太晚，时任集团CEO卡洛斯·戈恩设定的销量目标不切实际。他曾在公司内部寻求支持，却没能鼓起勇气直接向戈恩提出异议。 雷诺官网至今保留着福兰2019年的采访，彼时他仍在重申集团到2022年在华年销55万辆的目标，也承认品牌知名度和销售网络都是短板。 如今，雷诺在中国的投入，已然有了初步成果。法国汽车数据机构AAA Data数据显示，今年10月，由上海团队参与开发的Twingo E-Tech以4747辆注册量首次登顶法国纯电车型月榜，",
-     "source": "华尔街见闻",
-     "zh": "雷诺CEO反思在华失误：当时没敢对戈恩说不"
-    },
-    {
-     "title": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次",
-     "link": "http://stock.eastmoney.com/news/11134,202611233937531262.html",
-     "pubDate": "Mon, 23 Nov 2026 20:48:14 +0800",
-     "summary": "在消费税恢复征收、出口退税下调，海外关税与合规壁垒持续抬高的背景下，围绕这一轮 锂 电产业周期是否见顶的声音出现。今年10月， 宁德时代 （300750.SZ）三季度业绩说明会上，公司管理层曾表示，国内单车带电量提升、 商用车 电动化提速，欧洲及新兴市场潜力尚存，储能内外需保持增长，全球动力及储能需求好于预期。 但这一回应，并未打消市场疑虑。在日前进行的 第十一届动力 电池 应用国际峰会（CBIS2026） 期间，多位企业代表在发言中提到，此前市场习惯了 新能源 行业30%以上的复合增长，但机构预判2027年 电池 出货增速将回落至20%，这也意味着行业从“闭着眼增长”的阶段，转入增速换挡、分",
-     "source": "东方财富资讯",
-     "zh": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次"
     }
    ]
   },
@@ -2737,12 +2737,12 @@
      "zh": "Ultrasound imaging without the gel"
     },
     {
-     "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-     "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-     "pubDate": "Thu, 19 Nov 2026 18:44:39 +0000",
-     "summary": "Some models fare better, but all fail in similar ways.",
-     "source": "Ars Technica Science",
-     "zh": "\"You’re right\"—LLMs will get climate info wrong if you ask"
+     "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
+     "link": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
+     "pubDate": "Thu, 19 Nov 2026 12:00:00 -0500",
+     "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
+     "source": "MIT News",
+     "zh": "Scientists create the first whole-body single-cell atlas of an adult vertebrate"
     }
    ]
   }

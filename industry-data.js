@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 15:11:58",
+ "generated_at": "2026/11/23 15:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
+     "link": "https://cnevpost.com/2026/11/23/xpeng-mona-l05-nov-deliveries-exceed-10000/",
+     "pubDate": "Mon, 23 Nov 2026 07:28:50 +0000",
+     "summary": "Mona L05 deliveries exceeded 10,000 units in the first 3 weeks of November, achieving Xpeng's first-month delivery target ahead of schedule. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners"
+    },
+    {
      "title": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
      "link": "https://cnevpost.com/2026/11/23/nio-to-deliver-170000th-3rd-gen-es8-this-week/",
      "pubDate": "Mon, 23 Nov 2026 06:27:55 +0000",
@@ -800,14 +808,6 @@ window.INDUSTRY_DATA = {
      "summary": "BYD’s Denza B5 plug-in hybrid recreated the famous jumbo jet tow video that featured the VW Touareg V10—with a twist.",
      "source": "InsideEVs",
      "zh": "This Plug-In Hybrid SUV Towed A Boeing 747 On Only 2 Wheels. Yes, Really."
-    },
-    {
-     "title": "Nio launches ES9 special edition to mark brand's 10th anniversary",
-     "link": "https://cnevpost.com/2026/11/21/nio-launches-es9-special-edition/",
-     "pubDate": "Sat, 21 Nov 2026 11:40:18 +0000",
-     "summary": "The special edition starts at 638,000 yuan ($95,040) including the battery pack, 10,000 yuan higher than the previous top-tier trim. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio launches ES9 special edition to mark brand's 10th anniversary"
     },
     {
      "title": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It",
@@ -1778,6 +1778,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "代码显示谷歌正为 YouTube 应用引入自定义图标功能",
+     "link": "https://www.ithome.com/1/030/916.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:18:39 GMT",
+     "summary": "IT之家 11 月 23 日消息，外媒 Android Authority 在拆解谷歌最新 YouTube 应用 21.47.483-BETA 版本代码时，发现谷歌又为应用加入了 7 款可更换的图标，不过相应功能目前暂时禁用，目前尚不清楚谷歌会向所有用户开放这项功能，还是将其限制为 YouTube Pmium 订阅用户专享。 事实上，谷歌在今年 10 月就已悄悄为应用加入了 3 款图标，其中一款图标将 YouTube 播放按钮改为黑白配色；一款带有类似糖霜或颜料的纹理效果；另一款则加入了 CRT 显示器风格的视觉效果。 而本次 21.47.483-BETA 版本新增的设计中，一款重新启用了 Y",
+     "source": "IT之家",
+     "zh": "代码显示谷歌正为 YouTube 应用引入自定义图标功能"
+    },
+    {
+     "title": "小鹏 MONA L05 车型官宣 11 月交付量超万台：纯电增程双动力，13.98 万元起",
+     "link": "https://www.ithome.com/1/030/915.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:14:58 GMT",
+     "summary": "IT之家 11 月 23 日消息，小鹏汽车官方今日宣布， MONA L05 车型 11 月交付量截至目前已超过 10,000 台 。 据IT之家此前报道， 11 月 4 日，小鹏汽车举办 MONA L05 首批车主交付仪式 ，小鹏集团董事长何小鹏亲临现场，为车主完成新车交付。小鹏 MONA L05 共推出 6 款车型， 售价区间 14.48-17.68 万元，限时权益价区间 13.98-17.18 万元 。 小鹏 MONA L05 于 10 月 29 日正式发布上市，是 MONA 系列第三款车型，也是该系列首款大五座 SUV。车身尺寸为 4870/1930/1636mm，轴距 2940mm，轴",
+     "source": "IT之家",
+     "zh": "小鹏 MONA L05 车型官宣 11 月交付量超万台：纯电增程双动力，13.98 万元起"
+    },
+    {
+     "title": "宇树科技午后触及 20% 涨停，股价升至 708 元",
+     "link": "https://www.ithome.com/1/030/914.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:14:58 GMT",
+     "summary": "IT之家 11 月 23 日消息，今日午后，宇树科技股价持续拉升并触及 20% 涨停。截至发稿报 708 元，较前一交易日上涨 118 元。 这是宇树科技继 10 月 23 日上市后首次涨停以来 ， 再度收获 20% 涨停板 。 IT之家注意到，宇树科技今日开盘报价为 582 元，随后股价震荡走高并在午后加速上攻。触发涨停时成交额约 44.47 亿元，换手率为 22.91%，涨停价封单约 1.27 万手。",
+     "source": "IT之家",
+     "zh": "宇树科技午后触及 20% 涨停，股价升至 708 元"
+    },
+    {
+     "title": "巴基斯坦手游支付渠道：3人团队该先接哪家本地钱包？",
+     "link": "https://www.baijing.cn/question/638922",
+     "pubDate": "Mon, 23 Nov 2026 07:14:44 +0000",
+     "summary": "我们3人小团队，一款中度SLG刚在巴基斯坦上线两周，日活约4000，安卓内购走Google Play，但本地银行卡渗透太低，付费率只有0.6%。现在想接本地钱包，JazzCash和Easypaisa都谈了，JazzCash要求本地实体公司+银行对公账户，Easypaisa通过聚合服务商能绕开但要抽8%且结算T+15。我们只有1个运营兼商务，这个月还要赶开斋节活动排期，实在没人力同时跑两条接入。已经试过挂第三方聚合SDK，结果回调丢失导致约12%订单掉单。想请教：以我们这种人力和节奏，是先啃JazzCash直连拿低费率，还是先用聚合把转化跑起来？判断标准该看哪几个数？",
+     "source": "白鲸出海",
+     "zh": "巴基斯坦手游支付渠道：3人团队该先接哪家本地钱包？"
+    },
+    {
+     "title": "Open Benchtable 开放式 PC 测试平台诞生十周年，纪念版发布",
+     "link": "https://www.ithome.com/1/030/913.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:10:35 GMT",
+     "summary": "IT之家 11 月 23 日消息，Open Benchtable 是一款折叠便携的开放式 PC 测试平台，专为极限超频玩家出行而打造。其历史可追溯到 2016 年的社区版，后续则经历了 V1、V1.1、V2 的迭代。 而在当地时间本月 18 日，Open Benchtable 迎来了其十周年纪念版：该版本在延续整体形制的同时将铝合金板材的主体厚度从 8mm 降低到 4mm（边缘仍为 8mm），这使得 整体质量从 1.82kg 降低至 1.21kg ，更为便携。 IT之家了解到，Open Benchtable 可选黑 / 银 / 钛 3 种配色，每种限量 101 件， 价格均为 299 美元 （",
+     "source": "IT之家",
+     "zh": "Open Benchtable 开放式 PC 测试平台诞生十周年，纪念版发布"
+    },
+    {
+     "title": "欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商，数字主权成新考量",
+     "link": "https://www.ithome.com/1/030/912.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:09:00 GMT",
+     "summary": "IT之家 11 月 23 日消息，据路透社报道，欧洲正在加快推动关键数字服务实现自主可控。业内高管表示，越来越多欧洲政府部门和受监管行业在采购云服务时，开始将数字主权纳入重要考量。这一趋势正在逐渐反映到政府采购标准和合同授予结果中。 尽管数字主权多年来一直是欧洲的政策目标，但如今相关要求正从政治层面的讨论，逐步转化为实际采购标准。 这一变化与过去一年欧洲对美国技术依赖的担忧加剧有关。美国总统唐纳德 · 特朗普（Donald Trump）重返白宫，以及美国对部分技术的使用施加限制，让欧洲更加关注自身在战略领域对美国的依赖。此外，云服务近期发生的中断事件，也凸显了将关键数字服务集中交由少数供应商运",
+     "source": "IT之家",
+     "zh": "欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商，数字主权成新考量"
+    },
+    {
      "title": "法国市场配音做完还是被差评，问题出在台词本地化吗？",
      "link": "https://www.baijing.cn/question/638921",
      "pubDate": "Mon, 23 Nov 2026 07:04:44 +0000",
@@ -1786,12 +1834,28 @@ window.INDUSTRY_DATA = {
      "zh": "法国市场配音做完还是被差评，问题出在台词本地化吗？"
     },
     {
+     "title": "新款深蓝 L07 车型将于 11 月 27 日广州车展亮相：采用 800V 高压平台、搭载豆包大模型",
+     "link": "https://www.ithome.com/1/030/911.htm",
+     "pubDate": "Mon, 23 Nov 2026 07:04:00 GMT",
+     "summary": "IT之家 11 月 23 日消息，深蓝汽车宣布旗下新款 L07 车型将于 11 月 27 日开幕的 2026 广州车展上亮相。 据介绍，新款深蓝 L07 采用 800V 高压平台，全系标配激光雷达，其智能辅助驾驶能力可覆盖通勤、高速、泊车等高频出行场景；搭载端到端开放域豆包大模型，支持车内外语音交互。 作为参考，去年上市的 2026 款深蓝 L07 车型 尺寸为 4875×1890×1480mm 、轴距 2900mm ，定位中型轿车，拥有 473L 掀背门后备箱；前脸配备分体式前灯；车身采用无框车门及隐藏式门把手，提供 19 英寸轮毂；车尾提供电动升降尾翼、掀背尾门，其中增程版车型使用隐藏式排",
+     "source": "IT之家",
+     "zh": "新款深蓝 L07 车型将于 11 月 27 日广州车展亮相：采用 800V 高压平台、搭载豆包大模型"
+    },
+    {
      "title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/261123/p4#a261123p4",
      "pubDate": "Mon, 23 Nov 2026 02:01:27 -0500",
      "summary": "Saritha Rai / Bloomberg : Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation &nbsp; &mdash;&nbsp; Chinese physical AI startup Simplexity Robotics received $100 million in a funding round led by",
      "source": "Techmeme",
      "zh": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)"
+    },
+    {
+     "title": "CollectWise (YC F24) Is Hiring",
+     "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+     "pubDate": "Mon, 23 Nov 2026 07:01:08 +0000",
+     "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager Comments URL: https://news.ycombinator.com/item?id=50608390 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "CollectWise (YC F24) 正在招聘"
     },
     {
      "title": "冷门赛道做到顶尖，许昌假发凭什么走向世界",
@@ -1808,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做菲律宾市场的女装COD，团队6人，月单量约4000单，用Lazada和自有独立站发货，最近30天COD拒收率从11%涨到18%，马尼拉以外省份更严重。已经试过换物流商、加发确认短信、把货到付款页面加粗提示，都没压下来。看后台数据发现，用英语素材的拒收率比用Tagalog的高出近7个点，但换成Tagalog后转化率又掉了一截。现在卡在素材本地化上：到底该按地区分素材，还是统一用Tagalog加英语混排？判断标准是什么？",
      "source": "白鲸出海",
      "zh": "菲律宾COD拒收率18%，本地化素材该怎么改才有效？"
-    },
-    {
-     "title": "TML 发布循环 Transformer 模型 Inkling 2 Mini，多项表现在 100B 以内领先",
-     "link": "https://www.ithome.com/1/030/907.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:55:25 GMT",
-     "summary": "IT之家 11 月 23 日消息，人工智能初创企业 Thinking Machines Lab (TML) 当地时间本月 20 日发布了 Inkling 2 Mini 模型。 该模型采用循环 Transformer 架构，拥有 24 层，分为四个 6 层模块，中间两个模块运行 3 次、首尾模块则各运行一次。其对专家节点进行了大幅剪枝，在层初始的 384 个中仅保留了最常用的 128 个。 整体来看，Inkling 2 Mini 是一个 26.4B-A3.4B 模型，考虑循环后每个词元有 5.4B 的激活权重。其 擅长智能体编程等依赖推理质量的任务 ，在 DeepSWE v1.1、SWE-ben",
-     "source": "IT之家",
-     "zh": "TML 发布循环 Transformer 模型 Inkling 2 Mini，多项表现在 100B 以内领先"
     },
     {
      "title": "政府、高校、企业、教培、家庭，“学历社会”如何被“合谋”制造出来？",
@@ -1842,52 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "欧盟决策过程就像制作香肠：你爱吃，但不想亲眼看它怎么做出来"
     },
     {
-     "title": "我国发起的世界无线局域网应用发展联盟获 ISO / IEC 认可，成为 A 类联络组织",
-     "link": "https://www.ithome.com/1/030/906.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:51:19 GMT",
-     "summary": "IT之家 11 月 23 日消息，据市场监管总局“市说新语”公众号消息，国际标准化组织和国际电工委员会第一联合技术委员会系统间远程通信和信息交换分技术委员会（ISO / IEC JTC 1/SC 6）已正式批准由我国发起成立的世界无线局域网应用发展联盟（WAA）成为其 A 类联络组织。 据介绍，这标志着 我国 WLAN 应用领域标准化工作获得国际认可 ，融入全球标准治理体系进程取得突破。 IT之家注意到，关于 A 类联络组织的定位，文章称其是我国国际性标准组织深度参与国际标准化工作的重要渠道，也是 ISO / IEC 标准化框架下的 最高等级联络身份 。 该身份可直接将成熟技术方案通过快速程序",
-     "source": "IT之家",
-     "zh": "我国发起的世界无线局域网应用发展联盟获 ISO / IEC 认可，成为 A 类联络组织"
-    },
-    {
      "title": "美国短剧 App 投放 ROI 掉到 0.8，5 人团队该先砍渠道还是先改素材？",
      "link": "https://www.baijing.cn/question/638919",
      "pubDate": "Mon, 23 Nov 2026 06:47:27 +0000",
      "summary": "我们做北美短剧 App，iOS 加 Android 双端刚起量两个月，团队一共 5 个人，投放其实只有 1 个半人：1 个全职优化师加我兼职盯素材，剪辑靠外包一周最多出 12 条。上周 Meta 端 D7 ROAS 从 1.3 掉到 0.8，TikTok 端 CPI 从 1.9 美元涨到 3.2 美元，付费转化率只有 1.1%。已经试过把预算往 Meta Advantage+ 收、换 3 版前 3 秒钩子、把试看集数从 5 集压到 3 集，都没稳住。现在人手只够每周跑一次复盘，想问在这种排期约束下，判断标准应该看渠道边际 ROI 还是素材衰减速度，先动哪一头？",
      "source": "白鲸出海",
      "zh": "美国短剧 App 投放 ROI 掉到 0.8，5 人团队该先砍渠道还是先改素材？"
-    },
-    {
-     "title": "苹果 MacBook 触控板竟能当扬声器：开源工具 nospeaker 用触觉马达发声",
-     "link": "https://www.ithome.com/1/030/905.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:44:27 GMT",
-     "summary": "IT之家 11 月 23 日消息，MacBook 的触控板之所以能让用户感受到点击反馈，是因为玻璃面板下方的触觉马达会产生振动，模拟手指按压的感觉。而一款名为 nospeaker 的全新开源工具，竟然利用这套马达，让 MacBook 触控板直接发出了声音。 据IT之家了解，这款有趣的小工具由开发者科迪 · 科利尔（Cody Collier）开发，项目已在 GitHub 上开源，开发者账号为 os6。该工具通过命令行运行，能够利用触控板播放 macOS 系统语音，将文字转换成语音输出，还支持播放逐渐升高的音调。不过，它无法播放音乐、YouTube 视频或其他音频文件。 这款工具的关键在于触觉马达",
-     "source": "IT之家",
-     "zh": "苹果 MacBook 触控板竟能当扬声器：开源工具 nospeaker 用触觉马达发声"
-    },
-    {
-     "title": "法国人工智能企业 Mistral AI 在新加坡设立亚太总部，为政府开发定制 AI 模型",
-     "link": "https://www.ithome.com/1/030/904.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:43:36 GMT",
-     "summary": "IT之家 11 月 23 日消息，法国人工智能企业 Mistral AI 上周（11 月 20 日）宣布在新加坡设立亚太地区总部， 计划 2027 年将该区域员工数增加至 200 人以上 。 Mistral AI 表示，新加坡办公室将作为扩展科学中心运营， 负责为政府机构、工业客户开发定制 AI 模型 。该企业计划在新加坡招聘科研、工程、AI 和机器人领域的人才。 在正式将新加坡定为亚太总部之前，Mistral AI 就已在新加坡开展业务。今年 4 月，该公司与新加坡内政科技局（IT之家注：HTX）签署创新战略合作总协议。双方此前已于 2025 年 11 月签署谅解备忘录。 此外，HTX 之前",
-     "source": "IT之家",
-     "zh": "法国人工智能企业 Mistral AI 在新加坡设立亚太总部，为政府开发定制 AI 模型"
-    },
-    {
-     "title": "开发者绕过苹果限制，成功为 iPhone 第三方键盘实现直接语音输入",
-     "link": "https://www.ithome.com/1/030/903.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:43:00 GMT",
-     "summary": "IT之家 11 月 23 日消息，据外媒 cultofmac 报道，近期开发者们成功将语音输入功能直接集成到 iPhone 第三方键盘中，用户现在无需切换应用，只需点击键盘上的麦克风图标，就能直接开始语音输入。 此前，苹果不允许第三方键盘直接访问设备麦克风，此类应用必须先打开自己的主应用启动录音，完成语音识别后再返回原本的文本输入界面。iOS 26.4 又进一步增加了使用上的不便。苹果调整了第三方键盘获取当前运行应用信息的权限，导致键盘无法再自动返回此前的应用，用户只能手动切换回去。 不过如今开发者成功绕过了苹果限制，其中 Raycast 是首款支持直接访问设备麦克风的第三方键盘应用，后续 F",
-     "source": "IT之家",
-     "zh": "开发者绕过苹果限制，成功为 iPhone 第三方键盘实现直接语音输入"
-    },
-    {
-     "title": "比亚迪海洋网独立 9 系旗舰 MPV 开启征名，张卓称新车基于全新平台打造、搭载多项黑科技",
-     "link": "https://www.ithome.com/1/030/902.htm",
-     "pubDate": "Mon, 23 Nov 2026 06:40:18 GMT",
-     "summary": "IT之家 11 月 23 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日发文， 宣布比亚迪海洋网独立 9 系产品开启征名 。 张卓表示， 新车基于比亚迪全新平台打造，搭载多项黑科技 ，号称“重新定义家用旗舰的价值标杆”。 今年 8 月，张卓在接受博主采访时就曾透露， 海洋网 MPV 年底可能要上市了 ，并表示 MPV 也是市场独一无二的存在。 IT之家注意到，在今年 4 月的 2026 北京国际车展上， 比亚迪海洋网发布了一款 Ocean-V 概念车 ，宣称是“能越野的 MPV、能露营的家、可移动的家庭影院、能带娃的大玩具”。 ▲ Ocean-V 概念车，下同 Ocean-V 概念车全舱 0",
-     "source": "IT之家",
-     "zh": "比亚迪海洋网独立 9 系旗舰 MPV 开启征名，张卓称新车基于全新平台打造、搭载多项黑科技"
     },
     {
      "title": "Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed (Lucinda Shen/Axios)",
@@ -1930,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop马来站3人团队，达人寄样排期怎么排才不拖垮运营？"
     },
     {
-     "title": "沙特站阿拉伯语客服响应慢，退货率压不住，备货节奏该怎么调？",
-     "link": "https://www.baijing.cn/question/638916",
-     "pubDate": "Mon, 23 Nov 2026 06:21:55 +0000",
-     "summary": "沙特站上线四个月，做的是母婴喂养用品，客单价80-150里亚尔，团队6人，客服只有1个会阿拉伯语的兼职。后台数据显示咨询首次响应平均4.5小时，差评里一半提到“没人理”，退货率从3%涨到9%，退回的货里不少是客户不会用、问不到人就退了。现在备货靠国内仓直发，沙特本地仓只压了爆款两个SKU，退货一多资金就卡住。试过加翻译插件和FAQ模板，但客户问的是使用场景和退换流程，机器答不了。卡在要不要在利雅得设本地客服岗、把哪些SKU提前备到本地仓。这个阶段该先补客服还是先调备货结构？",
-     "source": "白鲸出海",
-     "zh": "沙特站阿拉伯语客服响应慢，退货率压不住，备货节奏该怎么调？"
-    },
-    {
      "title": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
      "link": "https://www.techmeme.com/261123/p2#a261123p2",
      "pubDate": "Mon, 23 Nov 2026 01:02:06 -0500",
@@ -1970,6 +1978,22 @@ window.INDUSTRY_DATA = {
      "zh": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产"
     },
     {
+     "title": "Yes, 17M lines of Lean is a lot",
+     "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+     "pubDate": "Mon, 23 Nov 2026 05:00:49 +0000",
+     "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 16 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Yes, 17M lines of Lean is a lot"
+    },
+    {
+     "title": "A Partial Evaluator for C",
+     "link": "https://phoenix.labri.fr/software/tempo/",
+     "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
+     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 29 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "A Partial Evaluator for C"
+    },
+    {
      "title": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)",
      "link": "https://www.techmeme.com/261122/p20#a261122p20",
      "pubDate": "Sun, 22 Nov 2026 23:40:00 -0500",
@@ -1978,44 +2002,20 @@ window.INDUSTRY_DATA = {
      "zh": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)"
     },
     {
+     "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+     "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+     "pubDate": "Mon, 23 Nov 2026 04:31:32 +0000",
+     "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 100 # Comments: 22",
+     "source": "Hacker News",
+     "zh": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization"
+    },
+    {
      "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
      "link": "https://www.techmeme.com/261122/p19#a261122p19",
      "pubDate": "Sun, 22 Nov 2026 23:00:14 -0500",
      "summary": "Alexandr Wang / @alexandr_wang : Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &nbsp; &mdash;&nbsp; Superintelligence is Arriving",
      "source": "Techmeme",
      "zh": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)"
-    },
-    {
-     "title": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
-     "link": "https://www.tmtpost.com/8209450.html",
-     "pubDate": "Mon, 23 Nov 2026 11:35:20 +0800",
-     "summary": "老板对决策的要求比普通人更高，对知识库和决策质量的要求也更高，过去这样的需求长期存在但没有得到很好解决。",
-     "source": "钛媒体",
-     "zh": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent"
-    },
-    {
-     "title": "硅基员工元年，投入要向组织与流程倾斜丨ToB产业观察",
-     "link": "https://www.tmtpost.com/8214320.html",
-     "pubDate": "Mon, 23 Nov 2026 11:33:13 +0800",
-     "summary": "AI进入企业的第一课，不是学会干活，而是学会按企业和当地法规的要求干活。",
-     "source": "钛媒体",
-     "zh": "硅基员工元年，投入要向组织与流程倾斜丨ToB产业观察"
-    },
-    {
-     "title": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线",
-     "link": "https://www.tmtpost.com/8214380.html",
-     "pubDate": "Mon, 23 Nov 2026 11:03:56 +0800",
-     "summary": "金融监管总局两司局“一把手”对调；互金协会通报两款银行App；商业银行总资产突破500万亿元；前三季度消费贷ABS同比下降18.85%；华夏银行董事会“换血”；平安系险资持有主动ETF近45%；云南省级农商行获批筹建；黔东南农商银行获批开业；平安银行400亿元二级资本债发行完毕；海南银行获批定向增资扩股；永诚财险总裁、副总裁同日被免职；蓝海银行回应3.30亿元助贷争议；广州拉卡拉小贷获准注销小贷资质；Visa携手连连数字完成亚太首笔基于支付标记的B2B智能体真实交易；ChatGPT Wallet上线；Apple Pay与Wallet业务线换帅；美国多家银行突发系统异常。",
-     "source": "钛媒体",
-     "zh": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线"
-    },
-    {
-     "title": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
-     "link": "https://www.tmtpost.com/8214114.html",
-     "pubDate": "Mon, 23 Nov 2026 10:52:46 +0800",
-     "summary": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
-     "source": "钛媒体",
-     "zh": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google is killing off the Nest app and Google Assistant on Home devices",
+     "link": "https://www.gsmarena.com/google_is_killing_off_the_nest_app_and_google_assistant_on_home_devices-news-75580.php",
+     "pubDate": "Mon, 23 Nov 2026 08:23:02 +0100",
+     "summary": "In traditional Google fashion, the online titan just can’t seem to make up its mind on what is mostly semantics and end-user marketing matters. A couple of changes were recently announced for 2027, pertaining to Google Home devices. First up, the Nest app for Android, iOS and the web version will al",
+     "source": "GSMArena",
+     "zh": "Google is killing off the Nest app and Google Assistant on Home devices"
+    },
     {
      "title": "Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji",
      "link": "https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/",
@@ -2226,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday"
     },
     {
-     "title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
-     "link": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php",
-     "pubDate": "Sun, 22 Nov 2026 13:49:02 +0100",
-     "summary": "A new leak has surfaced online, allegedly detailing and even depicting the unannounced vivo S70 Pro. Since vivo typically repackages its Chinese-only S-series devices as global V-series phones, speculation is that this might very well become the vivo V90 Pro. Arguably the most exciting rumor is that",
-     "source": "GSMArena",
-     "zh": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet"
-    },
-    {
      "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
      "link": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
      "pubDate": "Sun, 22 Nov 2026 11:54:10 +0000",
@@ -2250,12 +2250,12 @@ window.INDUSTRY_DATA = {
      "zh": "How I got Samsung’s best multitasking feature on my Pixel for free"
     },
     {
-     "title": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
+     "title": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
      "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
      "pubDate": "Sun, 22 Nov 2026 10:15:48 +0000",
-     "summary": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand ",
+     "summary": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s",
      "source": "9to5Mac",
-     "zh": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)"
+     "zh": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)"
     },
     {
      "title": "从深圳到上海，少数派的共创故事还在继续",
@@ -2274,36 +2274,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "科技部原重大专项司司长刘敏接受纪律审查和监察调查",
-     "link": "http://finance.eastmoney.com/news/11790,202611233937235473.html",
-     "pubDate": "Mon, 23 Nov 2026 15:02:42 +0800",
-     "summary": "中央纪委国家监委网站11月23日通报，据中央纪委国家监委驻科技部纪检监察组、湖北省纪委监委消息：科技部原重大专项司司长刘敏涉嫌严重违纪违法，目前正接受中央纪委国家监委驻科技部纪检监察组纪律审查和湖北省宜昌市监察委员会监察调查。 （文章来源：界面新闻）",
+     "title": "美股三大指数期货上涨",
+     "link": "http://hk.eastmoney.com/news/1533,202611233937241061.html",
+     "pubDate": "Mon, 23 Nov 2026 15:18:37 +0800",
+     "summary": "美股三大指数 期货 上涨，纳指 期货 上涨2.99%、标普500指数 期货 涨2.23%、道指期货上涨1.48%。 （文章来源：哈富快讯）",
      "source": "东方财富股票",
-     "zh": "科技部原重大专项司司长刘敏接受纪律审查和监察调查"
+     "zh": "美股三大指数期货上涨"
     },
     {
-     "title": "法国财政部长：政府2027年经济增长1%的预测面临下调风险",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937232798.html",
-     "pubDate": "Mon, 23 Nov 2026 15:01:12 +0800",
-     "summary": "法国财政部长：政府2027年经济增长1%的预测面临下调风险。 （文章来源：金十数据快讯）",
+     "title": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937241112.html",
+     "pubDate": "Mon, 23 Nov 2026 15:17:44 +0800",
+     "summary": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "法国财政部长：政府2027年经济增长1%的预测面临下调风险"
+     "zh": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰"
+    },
+    {
+     "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
+     "link": "https://wallstreetcn.com/articles/3786499",
+     "pubDate": "Mon, 23 Nov 2026 15:17:03 +0800",
+     "summary": "上周，高盛交易台用了一个罕见的措辞来描述当前市场环境—— \"as challenging as we have seen\"（我们见过最难的市场） 。 这句话出自高盛最新一期《美国股票周度简报》，执笔的衍生品团队成员包括Brian Garrett。触发这一判断的背景是：标普500连跌7个交易日，VIX单周飙升逾16点，为有记录以来第五大单周涨幅，而高盛自研的\"美国波动率恐慌指数\"（US Vol Panic Index）在周五收盘时升至 9.8（满分10） ，创下历史新高。VIX单周飙升92%创有记录以来第五大单周涨幅。 数据显示，历史上四次出现类似VIX暴涨后，标普500一周内全部上涨，平均涨幅",
+     "source": "华尔街见闻",
+     "zh": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！"
+    },
+    {
+     "title": "国债期货收盘多数下跌 30年期主力合约跌0.25%",
+     "link": "http://finance.eastmoney.com/news/1350,202611233937240753.html",
+     "pubDate": "Mon, 23 Nov 2026 15:16:28 +0800",
+     "summary": "国债 期货 收盘多数下跌，30年期主力合约跌0.25%，10年期主力合约跌0.03%，5年期主力合约持平，2年期主力合约跌0.01%。",
+     "source": "东方财富股票",
+     "zh": "国债期货收盘多数下跌 30年期主力合约跌0.25%"
+    },
+    {
+     "title": "A股收盘｜创业板指放量涨超3%，超4600只股飘红，人形机器人等概念走强",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937241391.html",
+     "pubDate": "Mon, 23 Nov 2026 15:14:21 +0800",
+     "summary": "11月23日，A股三大指数集体上涨，截至收盘，沪指涨0.15%，收报3538.95点；深证成指涨1.93%，收报10454.37点； 创业板指涨3.08%， 收报2280.20点。沪深京三市成交额1.56万亿元，较上一交易日放量1329亿元。 行业板块呈现普涨态势， 机器人 、 影视院线 、 医疗服务 、 贵金属 、 元件 、 传媒 、游戏、 通用设备 板块涨幅居前，保险、 核力发电 板块逆市走弱。 个股方面，上涨股票数量超过4600只，逾150只股票涨停。 人形 机器人 概念爆发， 上纬新材 、宇树科技、 汉威科技 、 安培龙 20CM涨停， 克来机电 、 长华集团 2连板， 宁波东力 、 ",
+     "source": "东方财富股票",
+     "zh": "A股收盘｜创业板指放量涨超3%，超4600只股飘红，人形机器人等概念走强"
+    },
+    {
+     "title": "华东重机业绩高增，跨界芯片有望打开成长空间",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937240516.html",
+     "pubDate": "Mon, 23 Nov 2026 15:13:37 +0800",
+     "summary": "截至11月23日14时52分，市场午后震荡拉升， 工程机械 ETF华安（512430）跟踪指数上涨0.8%。相关个股中， 恒工精密 、 华东重机 、 杭齿前进 涨停，长岭液压上涨7.72%， 新锐股份 上涨6.54%。 消息面上， 华东重机 前三季度营收9.43亿元、同比增长55.86%，归母净利润6325.79万元、同比增长58.11%。此外，公司主营业务为集装箱装卸设备业务和芯片设计及解决方案业务。收购锐信图芯拓展芯片设计及解决方案业务，产品和技术方案有芯片、芯片模组（独立显卡）、软硬件技术解决方案。 研究机构表示， 工程机械 景气度加速向上，出口增速快于内需，国内需求主要受存量设备更新与",
+     "source": "东方财富股票",
+     "zh": "华东重机业绩高增，跨界芯片有望打开成长空间"
+    },
+    {
+     "title": "阳光电源完成5亿元回购，助力优化市值预期",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937239722.html",
+     "pubDate": "Mon, 23 Nov 2026 15:13:36 +0800",
+     "summary": "截至11月23日14时41分，市场午后震荡拉升，全市场唯一20cm弹性 电池 指数——创业板 电池 ETF华安（158079）跟踪指数上涨1.98%。相关个股中， 震裕科技 上涨12.68%， 领湃科技 上涨9.71%， 阳光电源 下跌0.01%。 消息面上， 阳光电源 公告称，截至2026年11月20日，公司通过集中竞价方式累计回购股份530.11万股，占总股本0.2557%，成交最高价114.99元/股，最低价70.42元/股，支付资金总额5亿元。本次回购符合公司回购方案及相关法规要求。 阳光电源 股份有限公司是一家专注于 太阳能 、 风能 、储能、氢能、电动 汽车 等 新能源 电源设备的",
+     "source": "东方财富股票",
+     "zh": "阳光电源完成5亿元回购，助力优化市值预期"
+    },
+    {
+     "title": "【风口研报】具身智能数据国标启动！特斯拉Optimus再迎新催化 人形机器人赛道持续升温",
+     "link": "http://stock.eastmoney.com/news/1405,202611233937237613.html",
+     "pubDate": "Mon, 23 Nov 2026 15:10:00 +0800",
+     "summary": "A股三大指数今日集体上涨，截止收盘，沪指涨0.15%，深证成指涨1.93%，创业板指涨3.08%。沪深京三市成交额超过1.5万亿，较上一交易日放量逾千亿。行业板块呈现普涨态势， 机器人 、 影视院线 、 医疗服务 、 贵金属 、 元件 、 传媒 、游戏、 通用设备 板块涨幅居前，保险、 核力发电 板块逆市走弱。个股方面，上涨股票数量超过4600只，逾150只股票涨停。 近期 机器人 板块再迎海内外多重催化。 特斯拉 CEO马斯克近日在视频连线采访中表示，预计未来12至18个月，Optimus人形 机器人 就能完成倒垃圾、洗碗并将碗碟收进橱柜等多步骤家务任务，路径上先进入重工业、再拓展至家庭。市",
+     "source": "东方财富资讯",
+     "zh": "【风口研报】具身智能数据国标启动！特斯拉Optimus再迎新催化 人形机器人赛道持续升温"
     },
     {
      "title": "创业板指大涨超3% 超4600只股飘红 逾150只股涨停",
      "link": "http://finance.eastmoney.com/news/1345,202611233937232623.html",
      "pubDate": "Mon, 23 Nov 2026 15:00:52 +0800",
      "summary": "A股三大指数今日集体上涨，截止收盘，沪指涨0.15%，收报3538.95点；深证成指涨1.93%，收报10454.37点；创业板指涨3.08%，收报2280.20点。沪深京三市成交额1.56万亿，较上一交易日放量1329亿。 行业板块呈现普涨态势，机器人、影视院线、医疗服务、贵金属、元件、 传媒、 游戏、通用设备板块涨幅居前，保险、核力发电板块逆市走弱。 个股方面，上涨股票数量超过4600只，逾150只股票涨停。人形机器人概念爆发，上纬新材、宇树科技、汉威科技、安培龙20CM涨停，克来机电、长华集团2连板，宁波东力、锋龙股份、光洋股份涨停；AI漫剧概念走强，果麦文化、华是科技20CM涨停，浙文",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "创业板指大涨超3% 超4600只股飘红 逾150只股涨停"
-    },
-    {
-     "title": "美银：下调腾讯目标价至700港元 自由现金流有望自第四季起改善",
-     "link": "http://hk.eastmoney.com/news/1535,202611233937232581.html",
-     "pubDate": "Mon, 23 Nov 2026 14:59:09 +0800",
-     "summary": "11月23日，美银证券发表研报指， 腾讯控股 （00700.HK） 的算力现金负担或在今年第二季至三季见顶，自由现金流有望自第四季起改善，并较每股盈利更快见底，意味着AI投资最密集的现金阶段正在过去，这或成为其股价重估的催化剂。 该行将腾讯2027至28年非国际财务报告准则纯利预测下调11至13%，以反映游戏业务放缓、 人工智能 投资增加及税率上升，预期2027年非国际财务报告准则每股盈利同比跌9%，2028年则回升至3%。 该行续视腾讯为行业首选，重申“买入”评级，但将目标价由780港元下调至700港元。 （文章来源：财闻）",
-     "source": "东方财富股票",
-     "zh": "美银：下调腾讯目标价至700港元 自由现金流有望自第四季起改善"
     },
     {
      "title": "Russell 3000 reconstitution adds Red Robin, Vera Bradley and removes SES AI, Thryv",
@@ -2312,22 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Russell 3000 reconstitution adds Red Robin, Vera Bradley and removes SES AI, Thryv"
-    },
-    {
-     "title": "前三季度四川省数字经济核心产业增加值4668.4亿元 同比增长8.2%",
-     "link": "http://finance.eastmoney.com/news/1352,202611233937231337.html",
-     "pubDate": "Mon, 23 Nov 2026 14:58:16 +0800",
-     "summary": "新华财经成都11月23日电（记者袁波）23日，四川省政府新闻办举行“万千气象看四川·开局向新见行动”系列主题新闻发布会（第三场），四川省发展改革委副主任黄勇在会上透露，今年前三季度，四川省 数字经济 核心产业增加值4668.4亿元、同比增长8.2%，占到了全省GDP的9.0%、比去年同期提升了0.2个百分点， 数字经济 对全省经济高质量发展的驱动作用进一步增强。 强化场景牵引，把数据赋能落地通道“畅起来”。黄勇介绍，四川打通“供需对接通道”，搭建场景能力储备库、上线“天府新场景”数字化平台、常态化发布需求清单，推动全省入库培育重点场景项目30个、发布供需清单超6000条。打通“研发与市场通道”",
-     "source": "东方财富股票",
-     "zh": "前三季度四川省数字经济核心产业增加值4668.4亿元 同比增长8.2%"
-    },
-    {
-     "title": "四川省服务业经营主体已突破700万户",
-     "link": "http://finance.eastmoney.com/news/1355,202611233937231829.html",
-     "pubDate": "Mon, 23 Nov 2026 14:58:16 +0800",
-     "summary": "新华财经成都11月23日电（记者袁波）23日，四川省政府新闻办举行“万千气象看四川·开局向新见行动”系列主题新闻发布会（第三场），四川省发展改革委副主任黄勇在会上表示，四川推动服务业不断创新发展，目前，四川省服务业经营主体已突破700万户。 坚持政策牵引，打好服务业发展“组合拳”。今年6月，四川省委、省政府召开全省服务业大会，提出了到2030年，服务业增加值力争突破5万亿元的发展目标。为此，四川构建起“1+2+N”政策体系，出台服务业发展“十五五”规划，制定生产性服务业育新强链融合发展、生活性服务业转型升级2个行动方案，同时细化配套一系列支持举措，推动政策、资金、要素等资源向服务业重点领域倾斜",
-     "source": "东方财富股票",
-     "zh": "四川省服务业经营主体已突破700万户"
     },
     {
      "title": "黄仁勋感恩节回归？英伟达股价一度大涨7% 员工辟谣：是段子",
@@ -2360,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX旗下AI部门SpaceXSI已将五个Grok Bot部署至财务团队担任全职岗位，完成原本需要10至15名新员工才能覆盖的工作量。 马斯克于11月17日在X平台公开为Grok Bot站台，称其“可以为企业节省数百万美元开支”，并表示该Bot将研究每一笔支出、评估其必要性，并通过互联网或直接致电供应商寻找更优报价。同日，Grok Bot官方账号发文确认，五个Bot已在SpaceX财务团队中担任全职角色。 SpaceX财务团队的实际部署数据印证了这一说法。 据SpaceXSI介绍，其账单Bot将开票时间从约24小时压缩至数分钟；若无这些Bot，该团队估计需要将现有财务人员规模扩大逾一倍，",
      "source": "华尔街见闻",
      "zh": "Grok Bot正在接管SpaceX财务，5个bot替代十余个岗位"
+    },
+    {
+     "title": "摩根大通：亚洲股市投资者持仓降至历史低位 市场有望迎来大幅反弹",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937227021.html",
+     "pubDate": "Mon, 23 Nov 2026 14:48:31 +0800",
+     "summary": "摩根大通 11月23日表示，其亚洲市场 综合 投资者持仓指标已连续四周处于历史最低10%区间，叠加技术指标超卖及估值低于历史平均水平，当前市场正形成具有吸引力的风险回报机会。该行认为，近期亚洲股市大幅回调主要由投资者集中减仓及投资组合调整推动，而非长期基本面恶化。其中，韩国市场宏观基金的抛售可能已进入后期阶段，机构投资者对AI相关股票的持仓也已明显下降。不过，杠杆基金、趋势跟踪及宏观基金仍在持续降低风险敞口，短期抛售压力尚未完全消退。 摩根大通 预计，随着机构减仓逐步结束，AI投资与应用普及、安全及供应链韧性支出增长将继续支撑亚洲企业盈利，推动股市恢复中期上涨趋势。该行认为，2027年初能否出",
+     "source": "东方财富资讯",
+     "zh": "摩根大通：亚洲股市投资者持仓降至历史低位 市场有望迎来大幅反弹"
     },
     {
      "title": "ConocoPhillips to sell Norway, Teesside assets to Vår Energi for $3.9B",
@@ -2402,22 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Asian regulators rush to support sagging markets as AI trade falters"
     },
     {
-     "title": "政策暖风频吹！医疗服务板块拐点渐近 多股2027年业绩有望高增(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611233937194596.html",
-     "pubDate": "Mon, 23 Nov 2026 14:02:53 +0800",
-     "summary": "政策面暖风频吹，深度回撤的 医疗服务 板块迎来拐点预期。机构认为，板块有望迎来需求与盈利能力的双重修复。 四部门发文松绑 创新药 进院 医疗服务 价格改革持续推进 11月10日，国家卫生健康委、国家医保局、国家中医药局、国家疾控局联合印发《关于进一步做好 创新药 安全合理配备使用工作的通知》，明确国家医保药品目录和商保 创新药 目录内的 1类新药不计入\"一品两规\" 、不纳入门诊患者基本药物处方占比、住院次均药品费用增幅等公立医疗机构绩效监测指标，并提出各地医保部门要落实好药学类相关 医疗服务 价格项目，充分体现药学服务价值。 医疗服务价格改革同步纵深推进。国家医保局11月16日披露，各地持续调",
-     "source": "东方财富资讯",
-     "zh": "政策暖风频吹！医疗服务板块拐点渐近 多股2027年业绩有望高增(名单)"
-    },
-    {
-     "title": "创业板指涨逾3% 全市场超4400股飘红 逾120股涨停",
-     "link": "http://finance.eastmoney.com/news/1345,202611233937178352.html",
-     "pubDate": "Mon, 23 Nov 2026 14:00:25 +0800",
-     "summary": "创业板指涨逾3%，全市场超4400股飘红，129只股涨停。 影视院线 、 物理AI 、 机器人 执行器涨幅居前。截至发稿，两市合计成交1.28万亿，放量超2000亿。 今日要闻 A股迎稳市组合拳 有望带来4000亿增量资金 11月22日，A股迎来一揽子稳市举措：调整融资保证金比例、创业板就做市商制度公开征求意见、交易所推出新一批组合式降费措施，释放明确稳市信号。根据沪深北交易所发布的通知，将融资保证金比例下限从100%降低至80%，此次调整将自2026年11月30日起实施。这是A股市场第四次调整融资保证金比例。有业内人士预期，此举有利于降低新增资金开仓成本、盘活融资合约存量资金，增量资金合计可",
-     "source": "东方财富资讯",
-     "zh": "创业板指涨逾3% 全市场超4400股飘红 逾120股涨停"
-    },
-    {
      "title": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹",
      "link": "https://wallstreetcn.com/articles/3786472",
      "pubDate": "Mon, 23 Nov 2026 13:52:22 +0800",
@@ -2432,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Brookfield agrees to buy PGP Glass from Blackstone for $1.7B"
-    },
-    {
-     "title": "全面从严治党：跳出历史周期率的文明自觉与政党担当（学习贯彻党的二十届五中全会精神）",
-     "link": "http://www.eeo.com.cn/2026/1123/1100348.shtml",
-     "pubDate": "Mon, 23 Nov 2026 13:29:05 +0800",
-     "summary": "潘岳 党的二十届五中全会对持之以恒推进全面从严治党作出战略部署，对于巩固党的长期执政地位、实现党的使命任务具有重大现实意义和长远指导意义。全会通过的《决定》深刻指出，找到&ldquo;让人民来监督政府&rdquo;和&ldquo;自我革命&rdquo;两个跳出治乱兴衰历史周期率的答案，是以习近平同志为核心的党中央深入推进新时代党的建设新的伟大工程，走出了一条独特的管党治党、兴党强党之路，充分彰显百年大党的文明自觉和...",
-     "source": "经济观察网",
-     "zh": "全面从严治党：跳出历史周期率的文明自觉与政党担当（学习贯彻党的二十届五中全会精神）"
     },
     {
      "title": "China's gold imports said to have surged to record $209B through Oct.",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
      "source": "CNBC",
      "zh": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case"
-    },
-    {
-     "title": "The number of 401(k) millionaires drops amid stock-market swings",
-     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 05:01:00 GMT",
-     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-     "source": "MarketWatch",
-     "zh": "The number of 401(k) millionaires drops amid stock-market swings"
     },
     {
      "title": "The problem with the circular AI economy",

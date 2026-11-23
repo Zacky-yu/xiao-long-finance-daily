@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 00:52:12",
+ "generated_at": "2026/11/24 01:12:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Finding faster quantum algorithms with agents and formal verification",
+     "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+     "pubDate": "Mon, 23 Nov 2026 16:59:40 +0000",
+     "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+     "source": "DeepMind",
+     "zh": "Finding faster quantum algorithms with agents and formal verification"
+    },
+    {
+     "title": "Jensen Huang isn’t out of the woods yet",
+     "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+     "pubDate": "Mon, 23 Nov 2026 16:57:40 +0000",
+     "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of",
+     "source": "TechCrunch AI",
+     "zh": "Jensen Huang isn’t out of the woods yet"
+    },
     {
      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
      "source": "量子位",
      "zh": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力"
-    },
-    {
-     "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
-     "link": "https://www.qbitai.com/2026/11/511989.html",
-     "pubDate": "Mon, 23 Nov 2026 03:47:46 +0000",
-     "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
-     "source": "量子位",
-     "zh": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要"
-    },
-    {
-     "title": "2899元，荣耀做了个AI手机，把豆包放到屏上了",
-     "link": "https://zhidx.com/p/613181.html",
-     "pubDate": "Mon, 23 Nov 2026 11:47:01 +0800",
-     "summary": "智东西 作者 | 孙小雯 编辑 | 云鹏 智东西11月23日报道，刚刚，荣耀发布 荣耀700系列手机新品 ，其全系搭载AI灵动背屏、2亿像素主摄及9000mAh电池，配置 看齐旗舰机 。其中，标准版首次搭载5000万像素的潜望长焦，配备1200万像素超广角镜头，背屏可做拍照预览屏。 在AI方面，荣耀联合豆包打造了 YOYO豆包 AI助手 。用户说出唤醒词“豆包豆包”或“你好YOYO”即可在背屏上与豆包语音对话。此外，背屏还支持通过AI定制内容，用户可用一句话指令设置宠物图片、单词学习内容或贴纸等。 ▲荣耀700系列背屏支持YOYO豆包语音对话 荣耀700系列共有 荣耀700S、荣耀700、荣耀",
-     "source": "智东西",
-     "zh": "2899元，荣耀做了个AI手机，把豆包放到屏上了"
     }
    ]
   },
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Who Pays the Bills After a Rear-End Crash in Minneapolis?",
+     "link": "https://roboticsandautomationnews.com/2026/11/23/who-pays-the-bills-after-a-rear-end-crash-in-minneapolis/107504/",
+     "pubDate": "Mon, 23 Nov 2026 17:03:44 +0000",
+     "summary": "Rear-end crashes are among the most common collisions on American roads, and they often happen when the driver in front is doing everything right. One moment you are stopped at a red light or slowing for traffic, and the next you feel a hard jolt from behind. Even a crash that looks minor from the [",
+     "source": "Robotics & Automation",
+     "zh": "Who Pays the Bills After a Rear-End Crash in Minneapolis?"
+    },
+    {
      "title": "How Location Analytics Solutions Optimize Office Floor Space",
      "link": "https://roboticsandautomationnews.com/2026/11/23/how-location-analytics-solutions-optimize-office-floor-space/107501/",
      "pubDate": "Mon, 23 Nov 2026 16:25:03 +0000",
@@ -568,14 +576,6 @@ window.INDUSTRY_DATA = {
      "summary": "The launch of Grand Theft Auto VI has once again demonstrated the enormous cultural influence of video games. But while millions of players explore Rockstar Games’ latest virtual world, another form of technologically driven entertainment is preparing to enter the real-world sporting arena: humanoid",
      "source": "Robotics & Automation",
      "zh": "From GTA 6 to robot fighting: Humanoid combat league prepares for Melbourne debut"
-    },
-    {
-     "title": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/robotics-investment-set-to-reach-60-7-billion-in-2026-but-funding-boom-raises-concerns/107478/",
-     "pubDate": "Sun, 22 Nov 2026 20:11:05 +0000",
-     "summary": "Global robotics investment is on course for a record year in 2026, with funding projected to reach $60.7 billion, although much of the growth is concentrated in a relatively small number of companies, according to a new report from venture capital firm F-Prime Capital. The firm’s State of Robotics 2",
-     "source": "Robotics & Automation",
-     "zh": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -649,6 +649,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
+     "link": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev/",
+     "pubDate": "Mon, 23 Nov 2026 17:02:29 +0000",
+     "summary": "Toyota is overhauling its best-selling vehicle of all time, which will include the first fully electric Corolla. more…",
+     "source": "Electrek",
+     "zh": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version"
+    },
     {
      "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
      "link": "https://electrek.co/2026/11/23/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
@@ -794,14 +802,6 @@ window.INDUSTRY_DATA = {
      "zh": "TechCrunch Mobility: A/B testing robots vs. humans"
     },
     {
-     "title": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
-     "link": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
-     "pubDate": "Sun, 22 Nov 2026 14:22:49 +0000",
-     "summary": "For decades, Briggs & Stratton has helped keep the lights on after the storm with its gas-powered generators. Now, the company is bringing that legacy to the electric age with a new 16 kWh backup battery designed to scale with your growing energy needs. more…",
-     "source": "Electrek",
-     "zh": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery"
-    },
-    {
      "title": "The U.S. Let Volvo Keep Selling Cars. Polestar Got A No. What About Mercedes?",
      "link": "https://insideevs.com/news/816281/mercedes-chinese-ownership-us-sales/",
      "pubDate": "Sun, 22 Nov 2026 13:00:00 +0000",
@@ -849,6 +849,30 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts",
+     "link": "https://oilprice.com/Energy/Energy-General/Americas-Biggest-Oil-Export-Port-Faces-Thousands-of-Cyberattack-Attempts.html",
+     "pubDate": "Mon, 23 Nov 2026 11:00:00 -0600",
+     "summary": "The port that ships most of America's crude oil overseas is now fending off \"hundreds or even thousands\" of attempts to break into its systems every day, Port of Corpus Christi CEO Kent Britton told the Financial Times, as hackers step up a campaign against US ports and the cargo ships that call on ",
+     "source": "OilPrice",
+     "zh": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts"
+    },
+    {
+     "title": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E",
+     "link": "https://cleantechnica.com/2026/11/23/petrostates-chokehold-on-cop31-underscores-need-for-rapid-electrification-says-te/",
+     "pubDate": "Mon, 23 Nov 2026 16:58:38 +0000",
+     "summary": "COP31 climate talks break down shows that fossil fuel interests remain a major obstacle to climate action. The lack of a final text at the end of COP31 shows how far the fossil fuel industry is willing to go to keep its polluting businesses operating, says T&E. While the final ... [continued] The po",
+     "source": "CleanTechnica",
+     "zh": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E"
+    },
+    {
+     "title": "Groups Respond to Army’s Plan to Proceed with Lead Azide Detonation in Iowa",
+     "link": "https://cleantechnica.com/2026/11/23/groups-respond-to-armys-plan-to-proceed-with-lead-azide-detonation-in-iowa/",
+     "pubDate": "Mon, 23 Nov 2026 16:51:05 +0000",
+     "summary": "Army says it plans to detonate degraded lead in Iowa town no later than Nov. 24, despite court stay. Des Moines, IOWA — The Iowa Environmental Council, Sierra Club, and Earthjustice will continue to advocate for accountability from the U.S. Environmental Protection Agency (EPA) and the U.S. Army in ",
+     "source": "CleanTechnica",
+     "zh": "Groups Respond to Army’s Plan to Proceed with Lead Azide Detonation in Iowa"
+    },
     {
      "title": "Storms and Drones Disrupt Russia’s Oil Exports",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Storms-and-Drones-Disrupt-Russias-Oil-Exports.html",
@@ -920,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "US solar firm SunPower reported Q3 2026 revenue of US$65.1 million, up US$10.2 million from the previous quarter.",
      "source": "PV Tech",
      "zh": "SunPower launches 522W HJT solar panel, Q3 revenue rises"
-    },
-    {
-     "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
-     "pubDate": "Mon, 23 Nov 2026 08:30:00 -0600",
-     "summary": "Brent crude will average $80 per barrel in 2027 as geopolitics and relatively low global inventories leave much of the world vulnerable to supply disruptions, Bank of America said in a new note. Brent fell 2.9% to 89.86 dollars by 9:02 a.m. ET on Monday, and West Texas Intermediate (WTI) dropped 2.9",
-     "source": "OilPrice",
-     "zh": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook"
     },
     {
      "title": "FERC approves MISO plan to speed legacy interconnection study process",
@@ -1072,22 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Data center developers are scrambling to find enough electricity to power their energy-intensive facilities. Some are building their own fossil gas power plants. But that comes with tradeoffs — sky-high equipment costs, yearslong waits for backlogged turbines, and growing public backlash against the",
      "source": "Canary Media",
      "zh": "Want 24/7 clean power for data centers? Try giant heat batteries."
-    },
-    {
-     "title": "LDV eDeliver 5 — A Chinese Bargain?",
-     "link": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
-     "pubDate": "Mon, 23 Nov 2026 04:20:14 +0000",
-     "summary": "A bargain electric van from China — the LDV eDeliver 5. “The tide is changing; people are more on board with Chinese cars and electric vehicles” in Australia. And it has 50% more cargo space than the Korean competition (6.6 cubic metres). For the same price! On the same day ... [continued] The post ",
-     "source": "CleanTechnica",
-     "zh": "LDV eDeliver 5 — A Chinese Bargain?"
-    },
-    {
-     "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
-     "link": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
-     "pubDate": "Mon, 23 Nov 2026 01:28:49 +0000",
-     "summary": "Stellantis has never been a bastion of EV enthusiasm and progress. Back in the day (about 10 years ago), Sergio Marchionne was a very openly, blatantly anti-EV CEO. He actually asked customers to not buy their first electric car, the Fiat 500e. Stellantis is still dragging its feet on EVs ... [conti",
-     "source": "CleanTechnica",
-     "zh": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
+     "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+     "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+     "summary": "These strange geological features may offer clues to the Red Planet's watery past.",
+     "source": "Space.com",
+     "zh": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance"
+    },
+    {
      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
      "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
      "pubDate": "Mon, 23 Nov 2026 16:08:23 +0000",
@@ -1346,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
-     "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
-     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "This budget-priced projector reminded me what light pollution has taken from us",
-     "source": "Space.com",
-     "zh": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing"
-    },
-    {
      "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
      "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
@@ -1362,20 +1362,20 @@ window.INDUSTRY_DATA = {
      "zh": "What did the Soviet Union's final deep space probe actually see on Mars?"
     },
     {
+     "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
+     "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
+     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
+     "summary": "This budget-priced projector reminded me what light pollution has taken from us",
+     "source": "Space.com",
+     "zh": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing"
+    },
+    {
      "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
      "link": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
      "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
      "summary": "Three stars, 28 light-years, and one big cosmic mystery.",
      "source": "Space.com",
      "zh": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’"
-    },
-    {
-     "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
-     "link": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
-     "pubDate": "Mon, 23 Nov 2026 08:00:00 +0000",
-     "summary": "For Black Friday week, Amazon has slashed the price of these budget family binoculars down to $36, their lowest price since April. They are great for viewing the moon and constellations.",
-     "source": "Space.com",
-     "zh": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal"
     },
     {
      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
@@ -1546,6 +1546,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+     "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+     "pubDate": "Mon, 23 Nov 2026 11:50:01 -0500",
+     "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+     "source": "BleepingComputer",
+     "zh": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+    },
+    {
+     "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+     "pubDate": "Mon, 23 Nov 2026 16:17:21 GMT",
+     "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
+     "source": "Dark Reading",
+     "zh": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes"
+    },
+    {
      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
      "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
      "pubDate": "Mon, 23 Nov 2026 15:47:40 +0000",
@@ -1682,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
     },
     {
-     "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-     "pubDate": "Sun, 22 Nov 2026 13:45:37 -0500",
-     "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-     "source": "BleepingComputer",
-     "zh": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices"
-    },
-    {
      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
      "pubDate": "Sat, 21 Nov 2026 01:31:23 GMT",
@@ -1738,14 +1746,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era"
     },
     {
-     "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
-     "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
-     "pubDate": "Thu, 19 Nov 2026 22:40:03 GMT",
-     "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
-     "source": "Dark Reading",
-     "zh": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1761,6 +1761,22 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "EasyPost (YC S13) Is Hiring",
+     "link": "https://www.easypost.com/careers/",
+     "pubDate": "Mon, 23 Nov 2026 17:00:05 +0000",
+     "summary": "Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "EasyPost (YC S13) Is Hiring"
+    },
+    {
+     "title": "黄仁勋回来了，但英伟达多了几道规矩",
+     "link": "https://www.huxiu.com/article/4907863.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 00:57:52 +0800",
+     "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《黄仁勋回来了，但英伟达多了几道规矩｜甲子光年》 英伟达需要黄仁勋，但同时也在管理这种依赖。 一纸公告，老黄回来了。 因为萨姆·奥尔特曼重返OpenAI珠玉在前，所以黄仁勋回归英伟达并非无迹可寻，况且特朗普、马斯克等人一直在向英伟达董事会喊话。 最近，就连网络流言都开始变得有板有眼，一位X用户发布一则消息，声称黄仁勋将于感恩节回归，英伟达厨房（食堂）正在为黄仁勋准备大蛋糕。 关于黄仁勋回归的网络流言，图片来源：一只大乌龟X账号 不过这位“英伟达厨房亲戚”现在可能要加急“制作蛋糕”了。美国当地时间11月23日，英伟达宣布，黄仁勋恢复担任总裁",
+     "source": "虎嗅",
+     "zh": "黄仁勋回来了，但英伟达多了几道规矩"
+    },
     {
      "title": "Nvidia&apos;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)",
      "link": "https://www.techmeme.com/261123/p28#a261123p28",
@@ -1805,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Ladybird Is Now in Alpha",
      "link": "https://ladybird.org/posts/alpha/",
      "pubDate": "Mon, 23 Nov 2026 16:13:12 +0000",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 132 # Comments: 21",
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 290 # Comments: 67",
      "source": "Hacker News",
      "zh": "Ladybird Is Now in Alpha"
     },
@@ -1834,6 +1850,14 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang reinstated as Nvidia CEO, board chair"
     },
     {
+     "title": "CachyOS 支持 Easy Anti-Cheat v2",
+     "link": "https://www.solidot.org/story?sid=85971",
+     "pubDate": "Mon, 23 Nov 2026 23:37:55 +0800",
+     "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
+     "source": "Solidot",
+     "zh": "CachyOS 支持 Easy Anti-Cheat v2"
+    },
+    {
      "title": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开",
      "link": "https://www.ithome.com/1/031/230.htm",
      "pubDate": "Mon, 23 Nov 2026 15:32:15 GMT",
@@ -1848,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
      "source": "TechCrunch",
      "zh": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’"
-    },
-    {
-     "title": "One Man's Quest to End Daylight Savings",
-     "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
-     "pubDate": "Mon, 23 Nov 2026 15:28:41 +0000",
-     "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings Comments URL: https://news.ycombinator.com/item?id=50613465 Points: 25 # Comments: 23",
-     "source": "Hacker News",
-     "zh": "One Man's Quest to End Daylight Savings"
     },
     {
      "title": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级",
@@ -1930,6 +1946,14 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)"
     },
     {
+     "title": "GTA 6 Xbox executable released early by cyberleek",
+     "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+     "pubDate": "Mon, 23 Nov 2026 14:49:44 +0000",
+     "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 44 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "GTA 6 Xbox executable released early by cyberleek"
+    },
+    {
      "title": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”",
      "link": "https://www.ithome.com/1/031/218.htm",
      "pubDate": "Mon, 23 Nov 2026 14:49:24 GMT",
@@ -1965,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Building a wireless network adapter for the Super Nintendo",
      "link": "https://boland.dev/snet/",
      "pubDate": "Mon, 23 Nov 2026 14:16:37 +0000",
-     "summary": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 20 # Comments: 4",
      "source": "Hacker News",
      "zh": "Building a wireless network adapter for the Super Nintendo"
     },
@@ -1973,33 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia Reinstates Jensen Huang as CEO",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
      "pubDate": "Mon, 23 Nov 2026 14:00:18 +0000",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 252 # Comments: 1525",
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 501 # Comments: 1715",
      "source": "Hacker News",
      "zh": "Nvidia Reinstates Jensen Huang as CEO"
-    },
-    {
-     "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
-     "link": "https://www.solidot.org/story?sid=85968",
-     "pubDate": "Mon, 23 Nov 2026 21:58:15 +0800",
-     "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希",
-     "source": "Solidot",
-     "zh": "GrapheneOS 指责 Google 恐吓其合作伙伴"
-    },
-    {
-     "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-     "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-     "pubDate": "Mon, 23 Nov 2026 13:54:22 +0000",
-     "summary": "There were 352 position changes, including 35 for the lead.",
-     "source": "Ars Technica",
-     "zh": "F1 in Las Vegas: You've never seen an F1 race like this before"
-    },
-    {
-     "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-     "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-     "pubDate": "Mon, 23 Nov 2026 13:11:48 +0000",
-     "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-     "source": "WIRED",
-     "zh": "Nvidia Is Powering Brain-Computer Interfaces Now"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google is finally retiring the Nest app early next year",
+     "link": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
+     "pubDate": "Mon, 23 Nov 2026 16:59:56 +0000",
+     "summary": "It's also removing Google Assistant from smart speakers and displays.",
+     "source": "Engadget",
+     "zh": "Google is finally retiring the Nest app early next year"
+    },
+    {
+     "title": "Apple has three products coming next year that I’m very excited for",
+     "link": "https://9to5mac.com/2026/11/23/apple-has-three-products-coming-next-year-that-im-very-excited-for/",
+     "pubDate": "Mon, 23 Nov 2026 16:52:50 +0000",
+     "summary": "Apple is wrapping up a packed year for new products, but there are already several 2027 launches I’m very excited for. Here are my current most anticipated new products rumored for next year. more…",
+     "source": "9to5Mac",
+     "zh": "Apple has three products coming next year that I’m very excited for"
+    },
     {
      "title": "Chromecast with Google TV gets first update of 2026 [U: Wide rollout]",
      "link": "https://9to5google.com/2026/11/23/chromecast-google-tv-2026-update/",
@@ -2202,22 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Will Siri AI threaten Apple’s environmental target, given Google and Meta admissions?"
     },
     {
-     "title": "RayNeo Black Friday deals: AR smart glasses that turn your Mac and iPhone into a 307-inch screen",
-     "link": "https://9to5mac.com/2026/11/23/rayneo-black-friday-cyber-monday-deals-2026/",
-     "pubDate": "Mon, 23 Nov 2026 14:30:00 +0000",
-     "summary": "Still waiting for tech like the Vision Pro, but in normal everyday glasses and sunglasses? The industry leader in AR glasses shipments has something to say. The best Apple accessories share a distinct DNA: immaculate industrial design, lightweight ergonomics, tactile physical precision, and friction",
-     "source": "9to5Mac",
-     "zh": "RayNeo Black Friday deals: AR smart glasses that turn your Mac and iPhone into a 307-inch screen"
-    },
-    {
-     "title": "NVIDIA reinstates Jensen Huang as CEO and president, effective immediately",
-     "link": "https://www.engadget.com/2324897/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/",
-     "pubDate": "Mon, 23 Nov 2026 14:16:53 +0000",
-     "summary": "So much for the board not intending to bring him back.",
-     "source": "Engadget",
-     "zh": "NVIDIA reinstates Jensen Huang as CEO and president, effective immediately"
-    },
-    {
      "title": "Xiaomi 19 series rumored to get a much wider ultrawide camera",
      "link": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_get_a_much_wider_ultrawide_camera-news-75593.php",
      "pubDate": "Mon, 23 Nov 2026 14:54:02 +0100",
@@ -2258,20 +2258,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Silicon Valley cheers Jensen Huang's return as Nvidia CEO",
+     "link": "https://seekingalpha.com/news/4675726-silicon-valley-cheers-jensen-huangs-return-as-nvidia-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:01:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Silicon Valley cheers Jensen Huang's return as Nvidia CEO"
+    },
+    {
+     "title": "CrowdStrike buying Zscaler has 'strategic' positives, but execution risk is real: BTIG",
+     "link": "https://seekingalpha.com/news/4675714-crowdstrike-buying-zscaler-has-strategic-positives-but-execution-risk-is-real-btig?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:00:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CrowdStrike buying Zscaler has 'strategic' positives, but execution risk is real: BTIG"
+    },
+    {
+     "title": "Avante reports Q2 results",
+     "link": "https://seekingalpha.com/news/4675725-avante-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 11:59:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Avante reports Q2 results"
+    },
+    {
+     "title": "Grand Theft Auto online may generate more peak annual revenue than Fortnite",
+     "link": "https://seekingalpha.com/news/4675707-grand-theft-auto-online-may-generate-more-peak-annual-revenue-than-fortnite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 11:57:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Grand Theft Auto online may generate more peak annual revenue than Fortnite"
+    },
+    {
+     "title": "HomesToLife GAAP EPS of $0.04, revenue of $295.57M",
+     "link": "https://seekingalpha.com/news/4675723-homestolife-gaap-eps-of-0_04-revenue-of-295_57m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 11:56:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HomesToLife GAAP EPS of $0.04, revenue of $295.57M"
+    },
+    {
+     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+     "pubDate": "Mon, 23 Nov 2026 16:53:57 GMT",
+     "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+     "source": "CNBC",
+     "zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now"
+    },
+    {
+     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+     "pubDate": "Mon, 23 Nov 2026 16:49:27 GMT",
+     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+     "source": "CNBC",
+     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
+    },
+    {
      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
      "pubDate": "Mon, 23 Nov 2026 16:45:31 GMT",
      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
      "source": "CNBC",
      "zh": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims"
-    },
-    {
-     "title": "SpaceX hit by suits from Oregon, Virginia as X, Grok became 'haven for perpetrators'",
-     "link": "https://seekingalpha.com/news/4675640-spacex-hit-by-suits-from-oregon-virginia-as-x-grok-became-haven-for-perpetrators?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:44:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX hit by suits from Oregon, Virginia as X, Grok became 'haven for perpetrators'"
     },
     {
      "title": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last.",
@@ -2282,52 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last."
     },
     {
-     "title": "Western Asset Mortgage Opportunity Fund reports Q3 results",
-     "link": "https://seekingalpha.com/news/4675718-western-asset-mortgage-opportunity-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:43:30 -0500",
+     "title": "Nvidia and Nasdaq soar after board reinstates Huang",
+     "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 16:35:08 GMT",
      "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Asset Mortgage Opportunity Fund reports Q3 results"
-    },
-    {
-     "title": "Palo Alto Networks in talks to buy AI cyber startup Terra - Calcalist",
-     "link": "https://seekingalpha.com/news/4675710-palo-alto-networks-in-talks-to-buy-ai-cyber-startup-terra-calcalist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:42:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palo Alto Networks in talks to buy AI cyber startup Terra - Calcalist"
-    },
-    {
-     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 16:42:06 GMT",
-     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-     "source": "CNBC",
-     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
-    },
-    {
-     "title": "Western Asset Emerging Markets Debt Fund reports Q3 results",
-     "link": "https://seekingalpha.com/news/4675717-western-asset-emerging-markets-debt-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:41:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Asset Emerging Markets Debt Fund reports Q3 results"
-    },
-    {
-     "title": "German challenges, OXG JV likely to feed Vodafone underperformance—Citi Research",
-     "link": "https://seekingalpha.com/news/4675680-german-challenges-oxg-jv-likely-to-feed-vodafone-underperformance---citi-research?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:39:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "German challenges, OXG JV likely to feed Vodafone underperformance—Citi Research"
-    },
-    {
-     "title": "Western Asset Diversified Income Fund reports Q3 results",
-     "link": "https://seekingalpha.com/news/4675715-western-asset-diversified-income-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:38:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Asset Diversified Income Fund reports Q3 results"
+     "source": "Financial Times",
+     "zh": "Nvidia and Nasdaq soar after board reinstates Huang"
     },
     {
      "title": "欧洲股市集体收涨 德国DAX指数涨超2%",
@@ -2458,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO"
     },
     {
-     "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-     "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-     "pubDate": "Mon, 23 Nov 2026 15:30:27 GMT",
-     "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
-     "source": "CNBC",
-     "zh": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market"
-    },
-    {
      "title": "Stablecoin FX platform Codex raises $30m",
      "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Mon, 23 Nov 2026 15:21:00 GMT",
@@ -2554,12 +2554,12 @@ window.INDUSTRY_DATA = {
      "zh": "Two monster black holes from the dawn of time defy explanation"
     },
     {
-     "title": "Hoxne ‘Empress’ pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer",
+     "title": "Hoxne 'Empress' pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer",
      "link": "https://www.livescience.com/archaeology/romans/hoxne-empress-pepper-pot-a-1-600-year-old-silver-and-gold-pepper-shaker-that-a-uk-farmer-unearthed-while-looking-for-his-hammer",
      "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
      "summary": "This silver pepper shaker reveals the Romans' love of the spice and the lengths they would go to procure it.",
      "source": "Live Science",
-     "zh": "Hoxne ‘Empress’ pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer"
+     "zh": "Hoxne 'Empress' pepper pot: A 1,600-year-old silver and gold pepper shaker that a UK farmer unearthed while looking for his hammer"
     },
     {
      "title": "Mysterious new viruses reveal a missing link in evolution",

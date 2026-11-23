@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 05:47:16",
+ "generated_at": "2026/11/24 05:52:21",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+     "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+     "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000",
+     "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+     "source": "TechCrunch AI",
+     "zh": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal"
+    },
     {
      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
@@ -87,14 +95,6 @@
      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
      "source": "DeepMind",
      "zh": "Finding faster quantum algorithms with agents and formal verification"
-    },
-    {
-     "title": "Jensen Huang isn’t out of the woods yet",
-     "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-     "pubDate": "Mon, 23 Nov 2026 16:57:40 +0000",
-     "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-     "source": "TechCrunch AI",
-     "zh": "Jensen Huang isn’t out of the woods yet"
     },
     {
      "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
@@ -961,6 +961,14 @@
      "zh": "Groups Respond to Army’s Plan to Proceed with Lead Azide Detonation in Iowa"
     },
     {
+     "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+     "link": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
+     "pubDate": "Mon, 23 Nov 2026 11:27:12 -0500",
+     "summary": "The decision followed a promise by the utilities to allow ISO-NE&rsquo;s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
+     "source": "Utility Dive",
+     "zh": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue"
+    },
+    {
      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
      "link": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
      "pubDate": "Mon, 23 Nov 2026 16:22:15 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "Investor prequalification for the solar project is expected to open in February 2027, followed by prequalification for the battery storage project a month later. The post Jordan plans 200 MW solar, 100 MW/400 MWh storage projects appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects"
-    },
-    {
-     "title": "The grid’s hidden bottleneck: engineering capacity",
-     "link": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
-     "pubDate": "Mon, 23 Nov 2026 05:00:00 -0500",
-     "summary": "Utilities must invest in additional infrastructure and rethink how to engineer and deliver it.",
-     "source": "Utility Dive",
-     "zh": "The grid’s hidden bottleneck: engineering capacity"
     }
    ]
   },
@@ -1769,6 +1769,14 @@
      "zh": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)"
     },
     {
+     "title": "B&H Photo Promo Codes and Deals This November 2026",
+     "link": "https://www.wired.com/story/bh-photo-coupon/",
+     "pubDate": "Mon, 23 Nov 2026 21:39:20 +0000",
+     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+     "source": "WIRED",
+     "zh": "B&H Photo Promo Codes and Deals This November 2026"
+    },
+    {
      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
      "link": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
      "pubDate": "Mon, 23 Nov 2026 21:31:08 +0000",
@@ -1793,10 +1801,18 @@
      "zh": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)"
     },
     {
+     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+     "link": "https://www.bored.com/",
+     "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
+    },
+    {
      "title": "The horse made the state",
      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
      "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
-     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 12 # Comments: 12",
+     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 15 # Comments: 16",
      "source": "Hacker News",
      "zh": "The horse made the state"
     },
@@ -1868,7 +1884,7 @@
      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
      "link": "https://arm.jonpalmisc.com/",
      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 564 # Comments: 116",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 597 # Comments: 119",
      "source": "Hacker News",
      "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
     },
@@ -1884,7 +1900,7 @@
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
      "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
-     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 349 # Comments: 61",
+     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 369 # Comments: 73",
      "source": "Hacker News",
      "zh": "Apple removed my open-source app from EU App Stores after 9 years"
     },
@@ -1916,7 +1932,7 @@
      "title": "How should an LLM see a computer?",
      "link": "https://www.greptile.com/blog/trex-computer-use",
      "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
-     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 31 # Comments: 19",
+     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 33 # Comments: 19",
      "source": "Hacker News",
      "zh": "How should an LLM see a computer?"
     },
@@ -1924,49 +1940,9 @@
      "title": "Kagi Mail (public beta)",
      "link": "https://blog.kagi.com/kagi-mail-public-beta",
      "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 248 # Comments: 198",
+     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 264 # Comments: 207",
      "source": "Hacker News",
      "zh": "Kagi Mail (public beta)"
-    },
-    {
-     "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-     "link": "https://twitter.com/ylecun/status/2124550037912920090",
-     "pubDate": "Mon, 23 Nov 2026 17:07:26 +0000",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 608 # Comments: 347",
-     "source": "Hacker News",
-     "zh": "Dario is hyping the dangers so OSS models are illegal and he stays in control"
-    },
-    {
-     "title": "黄仁勋回来了，但英伟达多了几道规矩",
-     "link": "https://www.huxiu.com/article/4907863.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:57:52 +0800",
-     "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《黄仁勋回来了，但英伟达多了几道规矩｜甲子光年》 英伟达需要黄仁勋，但同时也在管理这种依赖。 一纸公告，老黄回来了。 因为萨姆·奥尔特曼重返OpenAI珠玉在前，所以黄仁勋回归英伟达并非无迹可寻，况且特朗普、马斯克等人一直在向英伟达董事会喊话。 最近，就连网络流言都开始变得有板有眼，一位X用户发布一则消息，声称黄仁勋将于感恩节回归，英伟达厨房（食堂）正在为黄仁勋准备大蛋糕。 关于黄仁勋回归的网络流言，图片来源：一只大乌龟X账号 不过这位“英伟达厨房亲戚”现在可能要加急“制作蛋糕”了。美国当地时间11月23日，英伟达宣布，黄仁勋恢复担任总裁",
-     "source": "虎嗅",
-     "zh": "黄仁勋回来了，但英伟达多了几道规矩"
-    },
-    {
-     "title": "中国买家退出泰国楼市，俄罗斯人开始接盘了",
-     "link": "https://www.huxiu.com/article/4907860.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:19:54 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月16日，泰国房地产信息中心（REIC）发布三季度数据。中国买家的公寓过户金额同比下降36.1%，俄罗斯买家增长49.6%，升至外国买家第二位。 01俄罗斯人接走了多少中国购买力？ 2019年，泰国汇商银行经济情报中心的统计显示，中国买家贡献了泰国外国公寓过户金额的58%。到2024年，这一比例降至39%，2025年进一步降至31%。 到了2026年第三季度，中国买家的公寓过户金额为29.2亿泰铢，同比减少约16.5亿泰铢，市场份额降至20.6%。同期，俄罗斯买家的过户金额增加约5.9亿泰铢，达到17.83亿泰铢。 从金额来看",
-     "source": "虎嗅",
-     "zh": "中国买家退出泰国楼市，俄罗斯人开始接盘了"
-    },
-    {
-     "title": "17家车企迎公开大考，60天账期，为什么国家非管不可？",
-     "link": "https://www.huxiu.com/article/4907859.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:15:08 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展，原文标题：《17家车企迎公开大考！60天账期，为什么国家非管不可？》 2025年6月，比亚迪、一汽、上汽等17家重点车企陆续承诺，向供应商支付货款的账期不超过60天。 一年多后，这项承诺迎来了一次检验。 11月16日，中国汽车工业协会发布通知：受工信部委托，将对这17家车企向供应商支付货款的情况进行年度评估，结果向社会公开。 此前，工信部和市场监管总局已经明确：对应付账款规模大、故意拉长账期或被中小企业投诉较多的汽车企业，相关部门将联合约谈并督促整改。 车企什么时候给供应商付款，本来是双方做生意的事。为什么政府主管部门要委托行业协会每年评估，结",
-     "source": "虎嗅",
-     "zh": "17家车企迎公开大考，60天账期，为什么国家非管不可？"
-    },
-    {
-     "title": "一种很常见，但副作用巨大的学生思维",
-     "link": "https://www.huxiu.com/article/4907858.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:11:22 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 一提到学生思维，很多人想到的，是“书生气”“不懂人情事故”“想法太天真”。但这些，都只是表面的症状，不是病因所在。 真正的学生思维，是一套在学校里被反复强化，最后固化下来的运作方式。它的内核，只有一句话： 我负责解题，不负责出题；我负责答对，不负责判断对错。 我把它叫做“解题者思维”。 它在成年人身上，通常表现为三种“等待”。 等题目。没有人给我明确的任务，我就不知道该做什么。手上一有空档就焦虑。这种焦虑的核心，不是因为闲，而是因为“没题可做”。 等标准。没有人明确告诉我什么算好，我就不知道做到哪里算完。于是要么做到",
-     "source": "虎嗅",
-     "zh": "一种很常见，但副作用巨大的学生思维"
     },
     {
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
@@ -1999,6 +1975,30 @@
      "summary": "IT之家 11 月 23 日消息，据用户反馈，微信鸿蒙版 App 今晚开启了 8.0.24.19 大版本的邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/23-2026/12/23。 又一大版本的发布意味着微信鸿蒙版离功能补完又近一步。博主 @熠熠玩数码 此前透露，微信鸿蒙版 App 的适配已经接近尾声， 大量功能逐步灰度开放中 。有网友认为这个灰度速度比较慢，可能半年都灰度不到，博主回复称：“五分之四咯。” 值得一提的是，微信官方公众号“微信派”在今年 10 月发文，回顾了鸿蒙版 App 的“两年狂奔”。据介绍，鸿蒙版以两年内交付了 23 个大版本，272 个小版本",
      "source": "IT之家",
      "zh": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级"
+    },
+    {
+     "title": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排",
+     "link": "https://www.ithome.com/1/031/228.htm",
+     "pubDate": "Mon, 23 Nov 2026 15:15:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，面对网友提问品牌未来规划是否会扩展至电脑、手环、智能家居，刘赫表示：“安排，我们是全场景的， 手机只是开始 。” 最新爆料显示， 华为子品牌星芒除了手机，还会有平板、笔记本、穿戴产品等 ，目前确认「星芒小平板」已安排。星芒品牌主打先锋科技，前期产品大部分是华为换皮，后期会有独立开发的",
+     "source": "IT之家",
+     "zh": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排"
+    },
+    {
+     "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
+     "link": "https://www.ithome.com/1/031/219.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:58:55 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为官网最新显示， 星芒 OSTA O1 Pro 支持 eSIM 能力 。 该功能需开通运营商相关业务使用，同一个手机可以存储最多 2 个 eSIM 号码，目前仅部分运营商提供 eSIM 业务。 当前同一个 eSIM 手机上最多允许支持四个号码 （2 张实体卡号码 + 2 个 eSIM 号码）， 可以同时使用两个号码 （可支持“两张实体",
+     "source": "IT之家",
+     "zh": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡"
+    },
+    {
+     "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+     "link": "https://www.solidot.org/story?sid=85970",
+     "pubDate": "Mon, 23 Nov 2026 22:50:17 +0800",
+     "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键",
+     "source": "Solidot",
+     "zh": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险"
     }
    ]
   },
@@ -2257,52 +2257,76 @@
    "total": 13,
    "items": [
     {
-     "title": "Global X Enhanced MSCI EAFE Covered Call ETF declares CAD 0.215 dividend",
-     "link": "https://seekingalpha.com/news/4675909-global-x-enhanced-msci-eafe-covered-call-etf-declares-cad-0_215-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:39:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global X Enhanced MSCI EAFE Covered Call ETF declares CAD 0.215 dividend"
+     "title": "时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2",
+     "link": "https://wallstreetcn.com/articles/3786551",
+     "pubDate": "Tue, 24 Nov 2026 05:47:39 +0800",
+     "summary": "苹果正准备重启与（RED）公益项目的合作，计划推出两款特别版配色硬件。此次发布不仅恰逢世界艾滋病日以及（RED）组织成立20周年，也将为苹果的年终假日季销售注入新的增长动力。 11月23日，据彭博援引知情人士透露， 苹果将发布红色版HomePod mini 2与新配色AirPods Max 2，发布时间预计在12月1日前后。 这将是苹果自2023年Apple Watch Series 9之后，时隔两年多再度推出Product(RED)硬件产品。 此次新品发布标志着苹果与Product(RED)合作关系的实质性回归。过去数年间，苹果逐步淡出该合作，相继停售旗下Product(RED)设备及配件。",
+     "source": "华尔街见闻",
+     "zh": "时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2"
     },
     {
-     "title": "Deere-backed Verdova links farm data to biofuel grower payments",
-     "link": "https://seekingalpha.com/news/4675890-deere-backed-verdova-links-farm-data-to-biofuel-grower-payments?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:39:15 -0500",
+     "title": "Jack Henry & Associates declares $0.61 dividend",
+     "link": "https://seekingalpha.com/news/4675924-jack-henry-and-associates-declares-0_61-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:46:22 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Deere-backed Verdova links farm data to biofuel grower payments"
+     "zh": "Jack Henry & Associates declares $0.61 dividend"
     },
     {
-     "title": "Global X MSCI Emerging Markets Covered Call ETF declares CAD 0.20 dividend",
-     "link": "https://seekingalpha.com/news/4675907-global-x-msci-emerging-markets-covered-call-etf-declares-cad-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:39:03 -0500",
+     "title": "Global X Growth Asset Allocation Covered Call ETF declares CAD 0.17 dividend",
+     "link": "https://seekingalpha.com/news/4675923-global-x-growth-asset-allocation-covered-call-etf-declares-cad-0_17-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:45:51 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global X MSCI Emerging Markets Covered Call ETF declares CAD 0.20 dividend"
+     "zh": "Global X Growth Asset Allocation Covered Call ETF declares CAD 0.17 dividend"
     },
     {
-     "title": "Global X Enhanced MSCI Emerging Markets Covered Call ETF declares CAD 0.26 dividend",
-     "link": "https://seekingalpha.com/news/4675906-global-x-enhanced-msci-emerging-markets-covered-call-etf-declares-cad-0_26-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:38:37 -0500",
+     "title": "ASE Technology Holding jumps 21% amid broad tech advance",
+     "link": "https://seekingalpha.com/news/4675858-ase-technology-holding-jumps-21-amid-broad-tech-advance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:45:34 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global X Enhanced MSCI Emerging Markets Covered Call ETF declares CAD 0.26 dividend"
+     "zh": "ASE Technology Holding jumps 21% amid broad tech advance"
     },
     {
-     "title": "Global X Canadian Oil and Gas Equity Covered Call ETF declares CAD 0.12 dividend",
-     "link": "https://seekingalpha.com/news/4675905-global-x-canadian-oil-and-gas-equity-covered-call-etf-declares-cad-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:38:29 -0500",
+     "title": "Global X Balanced Asset Allocation ETF declares CAD 0.04 dividend",
+     "link": "https://seekingalpha.com/news/4675922-global-x-balanced-asset-allocation-etf-declares-cad-0_04-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:45:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global X Canadian Oil and Gas Equity Covered Call ETF declares CAD 0.12 dividend"
+     "zh": "Global X Balanced Asset Allocation ETF declares CAD 0.04 dividend"
     },
     {
-     "title": "Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF declares CAD 0.27 dividend",
-     "link": "https://seekingalpha.com/news/4675904-global-x-enhanced-canadian-oil-and-gas-equity-covered-call-etf-declares-cad-0_27-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:37:39 -0500",
+     "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+     "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 21:45:00 GMT",
+     "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+     "source": "MarketWatch",
+     "zh": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday"
+    },
+    {
+     "title": "Global X Equal Weight Canadian Banks Index ETF declares CAD 0.10 dividend",
+     "link": "https://seekingalpha.com/news/4675921-global-x-equal-weight-canadian-banks-index-etf-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:44:40 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global X Enhanced Canadian Oil and Gas Equity Covered Call ETF declares CAD 0.27 dividend"
+     "zh": "Global X Equal Weight Canadian Banks Index ETF declares CAD 0.10 dividend"
+    },
+    {
+     "title": "Youxin Technology approves 1-for-6 reverse share split",
+     "link": "https://seekingalpha.com/news/4675908-youxin-technology-approves-1-forminus-6-reverse-share-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 16:44:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Youxin Technology approves 1-for-6 reverse share split"
+    },
+    {
+     "title": "美联储威廉姆斯：2027年将是通胀率较低的一年",
+     "link": "http://finance.eastmoney.com/news/1351,202611243937761260.html",
+     "pubDate": "Tue, 24 Nov 2026 05:36:43 +0800",
+     "summary": "美联储 威廉姆斯 ：2027年将是通胀率较低的一年。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储威廉姆斯：2027年将是通胀率较低的一年"
     },
     {
      "title": "美联储威廉姆斯：近期推动通胀上升的是一些不寻常的因素",
@@ -2337,6 +2361,14 @@
      "zh": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips"
     },
     {
+     "title": "伊朗称三艘油轮在霍尔木兹海峡发生爆炸",
+     "link": "http://finance.eastmoney.com/news/1356,202611243937761381.html",
+     "pubDate": "Tue, 24 Nov 2026 05:32:57 +0800",
+     "summary": "当地时间24日凌晨，伊朗伊斯兰革命卫队海军表示，在过去几个小时内，三艘油轮在霍尔木兹海峡触雷，引发爆炸并燃起大火。伊朗伊斯兰革命卫队海军称，其中一艘油轮在该海峡南部海岸附近触雷，另外两艘则在该海峡东部触雷。事发时，这些船只正处于美军的严密空中掩护和护航之下。（央视新闻） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗称三艘油轮在霍尔木兹海峡发生爆炸"
+    },
+    {
      "title": "以色列看守政府总理内塔尼亚胡称伊朗威胁“迫在眉睫”",
      "link": "http://finance.eastmoney.com/news/1351,202611243937760936.html",
      "pubDate": "Tue, 24 Nov 2026 05:32:24 +0800",
@@ -2351,22 +2383,6 @@
      "summary": "美联储 威廉姆斯 ：美联储将政治因素排除在其政策辩论之外。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "美联储威廉姆斯：美联储将政治因素排除在其政策辩论之外"
-    },
-    {
-     "title": "可口可乐首席财务官墨菲将于2027年退休",
-     "link": "http://finance.eastmoney.com/news/1351,202611243937760511.html",
-     "pubDate": "Tue, 24 Nov 2026 05:31:15 +0800",
-     "summary": "可口可乐 首席财务官墨菲将于2027年退休。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "可口可乐首席财务官墨菲将于2027年退休"
-    },
-    {
-     "title": "AMD登记3.37亿股供股东出售 OpenAI Meta各1.6亿股 按芯片采购及股价目标解锁",
-     "link": "http://finance.eastmoney.com/news/1351,202611243937760419.html",
-     "pubDate": "Tue, 24 Nov 2026 05:31:03 +0800",
-     "summary": "AMD(AMD.O)向美国证券交易委员会提交文件，登记最多3.37亿股股票供股东未来出售，其中OpenAI和Meta Platforms(META.O)各占1.6亿股，相关股份须根据AMD芯片采购进度及股价目标逐步解锁，目前尚不具备行权条件。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "AMD登记3.37亿股供股东出售 OpenAI Meta各1.6亿股 按芯片采购及股价目标解锁"
     },
     {
      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
@@ -2391,14 +2407,6 @@
      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
      "source": "MarketWatch",
      "zh": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 21:15:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
     },
     {
      "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
@@ -2487,14 +2495,6 @@
      "summary": "Democrats and Republicans insist tech CEO must testify in public",
      "source": "Financial Times",
      "zh": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia"
-    },
-    {
-     "title": "特朗普火速力挺黄仁勋复职、自称“一手促成”，万斯被曝也介入幕后协调",
-     "link": "https://wallstreetcn.com/articles/3786540",
-     "pubDate": "Tue, 24 Nov 2026 03:06:08 +0800",
-     "summary": "英伟达宣布董事会决定恢复黄仁勋总裁、首席执行官（CEO）及董事职务后不到10分钟，美国总统特朗普便公开力挺这一决定，还自称黄仁勋回归是他一手促成。媒体报道披露，美国副总统万斯还在特朗普的指示下参与了黄仁勋复职的幕后协调。 。据新华社，特朗普23日在社交媒体发文说，英伟达董事会让黄仁勋重新担任CEO一职是“正确且恰当的决定”。他表示，美国政府没有理由认为黄仁勋回归英伟达会对国家安全构成任何风险。美国司法部长已确认，美国政府没有证据表明其有任何不合法行为。 特朗普发帖表示，美国需要黄仁勋继续领导英伟达，以确保公司乃至美国经济的成功与繁荣。他称，自己已经与黄仁勋相识，认为他是一位“伟大的爱国者和国家",
-     "source": "华尔街见闻",
-     "zh": "特朗普火速力挺黄仁勋复职、自称“一手促成”，万斯被曝也介入幕后协调"
     }
    ]
   },

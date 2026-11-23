@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 10:51:57",
+ "generated_at": "2026/11/23 11:11:55",
  "recent_days": 7,
  "industries": [
   {
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
-     "link": "https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html",
-     "pubDate": "Mon, 23 Nov 2026 01:50:47 GMT",
-     "summary": "Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its use of EMIB.",
+     "title": "China's memory buildout could boost Korean suppliers as local rivals gain ground",
+     "link": "https://www.digitimes.com/news/a20261123PD212/equipment-expansion-materials-market-ymtc.html",
+     "pubDate": "Mon, 23 Nov 2026 02:58:00 GMT",
+     "summary": "China's memory chip expansion could bring new orders to South Korean semiconductor equipment and materials suppliers, even as Chinese manufacturers gain ground in their home market.",
      "source": "DIGITIMES",
-     "zh": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS"
+     "zh": "China's memory buildout could boost Korean suppliers as local rivals gain ground"
     },
     {
-     "title": "US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?",
-     "link": "https://www.digitimes.com/news/a20261123PD204/ic-taiwan-chips-ic-design-2026.html",
-     "pubDate": "Mon, 23 Nov 2026 01:50:23 GMT",
-     "summary": "The US Department of Commerce's new advanced semiconductor rules took effect following their publication in the Federal Register on November 19, 2026, US Eastern Time. Beyond targeting computing capacity at overseas data centers, the regulations tighten controls on semiconductor foundries and outsou",
+     "title": "AI server prices jump up to 45% after contracts signed, putting buyers at suppliers' mercy",
+     "link": "https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html",
+     "pubDate": "Mon, 23 Nov 2026 02:55:25 GMT",
+     "summary": "AI server suppliers, including Dell Technologies, Hewlett Packard Enterprise (HPE), Lenovo, and Supermicro, are reportedly demanding price increases of up to 45% on equipment months after contracts were agreed, reflecting mounting pressure from soaring memory costs and tight computing hardware suppl",
      "source": "DIGITIMES",
-     "zh": "US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?"
+     "zh": "AI server prices jump up to 45% after contracts signed, putting buyers at suppliers' mercy"
     },
     {
-     "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
-     "link": "https://www.digitimes.com/news/a20261123VL203/nvidia-usa-policy-chips-taiwan.html",
-     "pubDate": "Mon, 23 Nov 2026 01:44:03 GMT",
-     "summary": "US Treasury Secretary Scott Bessent's appearance on CBS 's Face the Nation on November 22 suggested the administration sees the Nvidia case less as a matter of Jensen Huang's personal conduct than as a question of who inside the company was responsible for export-control compliance.",
+     "title": "Lisa Su praises Jensen Huang as AMD targets 80% data-center revenue share",
+     "link": "https://www.digitimes.com/news/a20261123PD213/amd-jensen-huang-nvidia-lisa-su-revenue.html",
+     "pubDate": "Mon, 23 Nov 2026 02:45:00 GMT",
+     "summary": "Calls for Jensen Huang to return as Nvidia's leader have surged over the past week, but on November 17, the board firmly rejected his offer to come back. As uncertainty mounts around a future without Huang, customer confidence is wavering, and competitors are preparing to seize the opportunity.",
      "source": "DIGITIMES",
-     "zh": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers"
+     "zh": "Lisa Su praises Jensen Huang as AMD targets 80% data-center revenue share"
     },
     {
-     "title": "Taiwan electronics, ICT export orders surge in October as US remains top buyer",
-     "link": "https://www.digitimes.com/news/a20261122PD201/taiwan-moea-electronics-growth-2025.html",
-     "pubDate": "Mon, 23 Nov 2026 01:38:40 GMT",
-     "summary": "Taiwan's Ministry of Economic Affairs (MOEA) announced on November 20 that export orders reached US$123.82 billion in October 2026, up US$9.61 billion, or 8.4%, from the previous month, with seasonally adjusted growth of 7.7%. Year-over-year growth stood at 78.3%.",
+     "title": "South Korea plans 256-satellite LEO network, but domestic rockets fall short of launch requirements",
+     "link": "https://www.digitimes.com/news/a20261123PD207/launch-leo-2035-communications-demand.html",
+     "pubDate": "Mon, 23 Nov 2026 02:44:52 GMT",
+     "summary": "South Korea is considering deploying a low-Earth-orbit (LEO) communications network comprising 256 satellites by 2035. However, its domestic launch vehicles are projected to place only 27 satellites into orbit between 2033 and 2035, highlighting a significant gap between the country's satellite ambi",
      "source": "DIGITIMES",
-     "zh": "Taiwan electronics, ICT export orders surge in October as US remains top buyer"
+     "zh": "South Korea plans 256-satellite LEO network, but domestic rockets fall short of launch requirements"
     },
     {
-     "title": "Diamond cooling market gains traction as AI chip heat rises",
-     "link": "https://www.digitimes.com/news/a20261123PD202/cooling-chips-market-commercial-manufacturing.html",
-     "pubDate": "Mon, 23 Nov 2026 01:26:15 GMT",
-     "summary": "Rising power demands from AI chips are drawing interest in diamond-based cooling. However, high costs, manufacturing yields, and integration challenges continue to constrain commercial adoption, according to DIGITIMES analyst Eric Lin.",
+     "title": "Trump's threatened tax on overseas data centers clouds US Big Tech's India buildout",
+     "link": "https://www.digitimes.com/news/a20261123VL202/donald-trump-data-center-infrastructure-investment-google.html",
+     "pubDate": "Mon, 23 Nov 2026 02:32:57 GMT",
+     "summary": "US President Donald Trump's threat to impose a \"tremendous tax\" on American companies that build data centers abroad has put a question mark over the tens of billions of dollars Google, Microsoft, and Amazon have pledged for cloud and AI infrastructure in India, even though the proposal so far comes",
      "source": "DIGITIMES",
-     "zh": "Diamond cooling market gains traction as AI chip heat rises"
+     "zh": "Trump's threatened tax on overseas data centers clouds US Big Tech's India buildout"
     },
     {
-     "title": "National Tsing Hua University, Malaysian universities launch cross-border innovation hubs",
-     "link": "https://www.digitimes.com/news/a20261122PD200/taiwan-nthu-launch-startup-talent.html",
-     "pubDate": "Mon, 23 Nov 2026 01:16:12 GMT",
-     "summary": "Taiwan's National Tsing Hua University (NTHU) has partnered with Universiti Malaya (UM) and Universiti Kebangsaan Malaysia (UKM) to launch cross-border innovation hubs to connect talent from Taiwan and the Association of Southeast Asian Nations (ASEAN).",
+     "title": "Canon secures JAXA funding for SPAD satellite targeting high-resolution day-night Earth observation",
+     "link": "https://www.digitimes.com/news/a20261123PD205/canon-jaxa-funding-technology-development.html?chid=10",
+     "pubDate": "Mon, 23 Nov 2026 02:32:07 GMT",
+     "summary": "Canon has announced that its project to develop an ultra-high-sensitivity satellite equipped with single-photon avalanche diode (SPAD) imaging technology has been selected for support under the Japan Aerospace Exploration Agency's (JAXA) Space Strategy Fund.",
      "source": "DIGITIMES",
-     "zh": "National Tsing Hua University, Malaysian universities launch cross-border innovation hubs"
+     "zh": "Canon secures JAXA funding for SPAD satellite targeting high-resolution day-night Earth observation"
     },
     {
      "title": "Ed’s Vulture Fund For Distressed Datacentres",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
+     "link": "https://www.tmtpost.com/8214114.html",
+     "pubDate": "Mon, 23 Nov 2026 10:52:46 +0800",
+     "summary": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
+     "source": "钛媒体",
+     "zh": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了"
+    },
+    {
+     "title": "这届大学生，狂卷黑客松",
+     "link": "https://www.tmtpost.com/8214092.html",
+     "pubDate": "Mon, 23 Nov 2026 10:52:37 +0800",
+     "summary": "还没毕业，大学生已经忙着搞AI项目了。",
+     "source": "钛媒体",
+     "zh": "这届大学生，狂卷黑客松"
+    },
+    {
+     "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
+     "link": "https://www.ithome.com/1/030/783.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:44:11 GMT",
+     "summary": "IT之家 11 月 23 日消息，据科技媒体 Appleinsider 昨天报道，苹果与谷歌达成的搜索合作协议，带来的收益已不如从前。如今用户的搜索习惯已经改变，导致市场格局生变。 据报道，苹果与谷歌早已就 Safari 默认搜索引擎达成合作关系。谷歌每年向苹果支付 200 亿美元 （IT之家注：现汇率约合 1,336.27 亿元人民币） ，让 iPhone、Mac 等设备的 Safari 浏览器默认搜索引擎为谷歌， 并且谷歌需要将 Safari 搜索广告所产生的 36% 收入支付给苹果 。 如今双方的合作关系开始出现疲软迹象。用户的搜索习惯已经发生改变，遇到问题不是打开浏览器搜东西，而是直接",
+     "source": "IT之家",
+     "zh": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓"
+    },
+    {
      "title": "短剧App在德国投放，德语配音素材完播率只有英语素材一半，本地化该做到哪一层？",
      "link": "https://www.baijing.cn/question/638906",
      "pubDate": "Mon, 23 Nov 2026 02:43:15 +0000",
@@ -1794,52 +1818,44 @@ window.INDUSTRY_DATA = {
      "zh": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)"
     },
     {
-     "title": "APEC是啥？领导们都聊啥？",
-     "link": "https://www.huxiu.com/article/4906933.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:32:53 +0800",
-     "summary": "APEC就是环太平洋21个经济体的大型&ldquo;搞钱群&rdquo;，专聊赚钱、合作和未来发展。 现在，APEC线下聚会来到深圳，大鹏展翅，21根羽翼齐飞，期待这次领导们会聊点啥新花样。",
-     "source": "虎嗅",
-     "zh": "APEC是啥？领导们都聊啥？"
-    },
-    {
-     "title": "OpenAI又想叫暂停",
-     "link": "https://www.huxiu.com/article/4907607.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:25:32 +0800",
-     "summary": "本文来自微信公众号： 腾讯科技 ，作者：苏扬，编辑：徐青阳，题图来自：视觉中国 模型能力越强，讨论&ldquo;暂缓&rdquo;的声音就越多。 美国当地时间11月22日，OpenAI首席科学家雅库布&middot;帕乔茨基 （Jakub Pachocki） 发表了题为《Perplexity and Intelligence》 （困惑度与智能） 的文字，公开公司内部追踪多年的预训练数据，并提出建立AI行业共同标准。 帕乔茨基希望各家前沿模型公司使用统一指标衡量模型能力，在安全监控能力达到要求之前，不突破约定的能力门槛。 这项提议也得到了OpenAI CEO山姆&middot;奥特曼 （Sam ",
-     "source": "虎嗅",
-     "zh": "OpenAI又想叫暂停"
-    },
-    {
-     "title": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈",
-     "link": "https://www.huxiu.com/article/4907613.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:23:57 +0800",
-     "summary": "本文来自微信公众号： 出海同学会 ，作者：出海同学会，原文标题：《干货｜解读 Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈》 在上篇，我们讨论了Personal Agent的实际需求、中美市场的差异，以及通用与垂直产品的不同路线。 到了下篇，讨论进一步涉及数据、平台与竞争格局。本篇聚焦三个问题：用户愿意向Agent开放多少个人信息和权限？平台开始限制第三方Agent，独立产品如何应对？大厂入场之后，创业公司的机会在哪里？ 从这场讨论来看，Personal Agent的竞争可能不只发生在产品层面。谁能持续获得用户的信任与个人上下文，谁能掌握入口和生态资源，",
-     "source": "虎嗅",
-     "zh": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈"
-    },
-    {
-     "title": "高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场",
-     "link": "https://www.ithome.com/1/030/776.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:22:13 GMT",
-     "summary": "IT之家 11 月 23 日消息，据科技媒体 Wccftech 昨天报道，高通多年来意在摆脱过度依赖智能手机的刻板印象，毕竟在 DRAM 飞速涨价的今天，手机芯片业务面临着较大压力。最新行业数据表明，该公司规模最大的多元化布局正在提前取得成效。 根据最新分析，高通汽车芯片业务年收入已达到 80 亿美元 （IT之家注：现汇率约合 534.51 亿元人民币） ，有望超越英飞凌和恩智浦等竞争对手， 在 2027 年成为全球最大的汽车半导体供应商 。 SemiAnalysis 报告显示，高通汽车业务收入约为 19.9 亿美元 （现汇率约合 132.96 亿元人民币） ，落后于收入 22.2 亿美元 （",
+     "title": "小米推出米家智能水暖毯 Pro：左右双区独立调温，众筹价 799 元",
+     "link": "https://www.ithome.com/1/030/782.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:33:36 GMT",
+     "summary": "IT之家 11 月 23 日消息，米家智能水暖毯 Pro 已在小米有品上架并开启众筹预约，众筹价 799 元，建议零售价 1099 元。众筹将于 11 月 25 日 10:00 开始，12 月 2 日 09:59 结束（ 点击前往 ）。 IT之家从商品页面获悉，该产品支持 左右双区独立温控 ，两区水箱独立加热、双水路物理隔绝，配备 2 个出水口与 2 个回水口、4 个高精度温度传感器，温度可在 25℃～55℃ 之间调节；腿脚区布管更密集，官方称比其他区域暖 3℃～5℃。 加热方面使用 PTC 陶瓷双面加热，功率 450W；整机运行噪音为 32dB(A) 。智能化方面， 产品支持小米澎湃智联 ，",
      "source": "IT之家",
-     "zh": "高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场"
+     "zh": "小米推出米家智能水暖毯 Pro：左右双区独立调温，众筹价 799 元"
     },
     {
-     "title": "机器人公司老板当自媒体，图什么？",
-     "link": "https://www.huxiu.com/article/4907609.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:20:43 +0800",
-     "summary": "本文来自微信公众号： 具身商业前哨 ，作者：何安 今天先不聊战略、融资和机器人干活了，跟大家聊个非常容易被忽略的话题：机器人公司的老板，为什么都开始做自媒体了？ 许华哲在小红书公开业务进展、邀请开发者测试产品；胡宇航频繁出现在视频播客里，也在短视频平台持续展示仿生人脸机器人的新造型；周剑今年开通个人账号后，直接做起了“坦白局”；王兴兴的时间线更长：十几年前就上传测试视频、在知乎招聘，如今又会在小红书关注机器人开发者。 机器人圈的老板们做自媒体，本身就是创业的一部分。 前段时间，小红书账号“具身智能研究室”发现王兴兴关注了自己，写道：“这一刻挺魔幻的。”评论区有人打趣，这下和王兴兴也算有“共同好",
-     "source": "虎嗅",
-     "zh": "机器人公司老板当自媒体，图什么？"
+     "title": "特斯拉 AI4.5 芯片有望明年推出，马斯克称内存太贵、从 32GB 降到 24GB",
+     "link": "https://www.ithome.com/1/030/780.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:31:23 GMT",
+     "summary": "IT之家 11 月 23 日消息，特斯拉 CEO 埃隆 · 马斯克今日在 X 平台发文回复博主 Sawyer Merritt， 升级版 AI4.5 芯片的性能提升较小，主要是将内存升级到 LPDDR5X 。 马斯克表示 AI5 芯片将专属于特斯拉 Optimus 机器人，汽车将继续使用 AI4。Sawyer Merritt 则表示， AI4.5 芯片有望在明年推出 。 马斯克还称，目前内存非常贵，所以特斯拉把 AI4.5 芯片的内存容量 从 32GB 降到了 24GB 。 马斯克表示这一降级是没问题的，反正内存带宽限制下也很难用满 32GB。 据IT之家今年 9 月报道，在 All-In 峰会",
+     "source": "IT之家",
+     "zh": "特斯拉 AI4.5 芯片有望明年推出，马斯克称内存太贵、从 32GB 降到 24GB"
     },
     {
-     "title": "留学是否合适，得先看清自己是谁",
-     "link": "https://www.huxiu.com/article/4907611.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:19:05 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：老凤1974 留学适不适合，落到每个家庭都是一个具体问题。几十万家庭，经济条件、孩子性情、想去的国家都不同，结果自然不同。旁人至多说点正确的废话，怎么选，还是要各家自己定。 看了两个观点相反的视频。一个是北大硕士、二胎妈妈图图妈对话北大人口研究所教授乔晓春，问10后、20后这代孩子这趟还该不该出去。乔老师说，视野很重要，真想了解中国，得站到中国外面回头看。 另一个是乌镇峰会上张朝阳的专访，标题就叫“留学经历让人成熟得更晚”。他讲的是留学生身处亚文化状态，跟当地社会没多少交集，接触社会的时间也往后拖了。 两位说得都很好，而我更在意的是，这件事本身居然成了",
-     "source": "虎嗅",
-     "zh": "留学是否合适，得先看清自己是谁"
+     "title": "海盗船推出 WS 3200D RS 工作站机箱：配备安全锁孔、防盗螺丝",
+     "link": "https://www.ithome.com/1/030/779.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:28:01 GMT",
+     "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月中旬推出了 WS 3200D RS 机箱。这一型号与面向游戏 PC 的标准 3200D RS 共享基础，但针对工作站工作负载进行了优化调整。 WS 3200D RS 两侧均配备钢制面板，前脸则是 Y 型开孔的大气流面板； 内置 Kensington 安全锁孔 ， 采用 TORX 防盗螺丝 ；新增对宽度不超过 277mm 的 E-ATX 主板的支持。 该机箱三维 495×458×219 (mm) ，考虑前置风扇后仍有 375mm 的扩展卡空间 ；GPU 防下垂稳定臂、斜角底部风扇支架均得到保留；随附 4 个支持菊花链串联的 RS120",
+     "source": "IT之家",
+     "zh": "海盗船推出 WS 3200D RS 工作站机箱：配备安全锁孔、防盗螺丝"
+    },
+    {
+     "title": "迈从 G87 V3 机械键盘发布：全新多功能按键旋钮，首发 239 元起",
+     "link": "https://www.ithome.com/1/030/778.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:23:19 GMT",
+     "summary": "IT之家 11 月 23 日消息，迈从 G87 V3 全能 87 配列机械键盘今日发布，11 月 25 日 10:00 全平台开售，首发到手价 239 元、269 元。 IT之家从官方公布信息获悉，G87 V3 提供海平线、晴空蓝、鎏金黑、白影彩、黑粉、雾桃渐变 6 款配色，键帽为 PBT 双色注塑，可选原厂高度与原厂侧刻；机身铭牌采用铝合金阳极氧化与镭雕工艺，灯效为 MCHOSE SOFTLIGHT 柔光技术、约 1600 万色 ARGB，采用下灯位。 交互部分， 该键盘配备多功能按键与多功能旋钮 ，旋钮可一键切换音量调节、灯效亮度调节、页面滚动三种模式，单击与双击功能支持自定义为切换板载、",
+     "source": "IT之家",
+     "zh": "迈从 G87 V3 机械键盘发布：全新多功能按键旋钮，首发 239 元起"
+    },
+    {
+     "title": "马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍",
+     "link": "https://www.ithome.com/1/030/777.htm",
+     "pubDate": "Mon, 23 Nov 2026 02:23:14 GMT",
+     "summary": "IT之家 11 月 23 日消息，特斯拉 CEO 埃隆 · 马斯克 11 月 22 日表示，受全球 DRAM 内存和 NAND 闪存价格上涨影响， 特斯拉 AI4 车载计算机的物料成本已经翻倍 。 他在 X 平台上回应有关特斯拉最新版完全自动驾驶（FSD）监督版 v15.0.1 计算需求的讨论时称，“由于内存和存储价格上涨， AI4 现在的成本是原来的两倍 。” 不过，马斯克并未披露 AI4 当前的具体成本，也没有说明一年前的制造成本是多少。 IT之家注意到，有网友询问 AI5 芯片什么时候能用到特斯拉汽车上， 马斯克回应称 AI5 要给特斯拉 Optimus 机器人用 ，汽车将继续使用 AI",
+     "source": "IT之家",
+     "zh": "马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍"
     },
     {
      "title": "墨西哥独立站走跨境直发，RFC税号和清关时效卡住回款怎么办？",
@@ -1850,52 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "墨西哥独立站走跨境直发，RFC税号和清关时效卡住回款怎么办？"
     },
     {
-     "title": "第一批在山姆买机票的中产，踩坑了",
-     "link": "https://www.huxiu.com/article/4907610.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 10:17:32 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 中产最爱的超市，干不了携程的活。 01 这两天，中产最爱的超市山姆因为售卖3970元的国航4次卡引发热议。 据《扬子晚报》报道，广东的苏先生买完绑定国航App才发现仅限国内经济舱N舱，查不到合适航班，下单十分钟便申请退卡。 谁知订单显示已核销，售后拖了几天通知要等28个工作日，他折腾半个月还向12315举了报，钱照样没拿回来。 国航与山姆客服随后证实，买前没法看能飞哪些班次，必须先兑换核销，才能去查名额有限的适用航班。 苏先生的困惑在社交媒体上并不鲜见。 有北京网友发帖追问，山姆卖的国航4次卡为什么查不到可兑航班，不能用的话干嘛还要拿出",
-     "source": "虎嗅",
-     "zh": "第一批在山姆买机票的中产，踩坑了"
-    },
-    {
-     "title": "鸿蒙智行问界新 M7 官宣：升级面向 L3 的全域冗余架构，新色首发「翡冷翠」「暖阳金」",
-     "link": "https://www.ithome.com/1/030/775.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:10:59 GMT",
-     "summary": "IT之家 11 月 23 日消息，鸿蒙智行问界新 M7 正式官宣，并公布了两款新配色： 温润「翡冷翠」 华贵「暖阳金」 余承东表示，问界 M7 系列一直很受家庭用户欢迎，上市至今已经交付超 47 万辆，稳居中国品牌 30 万级 SUV 车型销量第一。问界新 M7 升级了面向 L3 的全域冗余架构、华为乾崑智驾 ADS 5 以及全新的内外饰设计。 据IT之家此前报道，工信部今年 10 月发布的第 412 批《道路机动车辆生产企业及产品公告》新产品公示， 鸿蒙智行问界新款 M7 完成申报 。申报信息显示，新车提供纯电 + 增程可选，拥有五 / 六座两种布局方案。 纯电版提供双电机四驱和单电机后驱版",
-     "source": "IT之家",
-     "zh": "鸿蒙智行问界新 M7 官宣：升级面向 L3 的全域冗余架构，新色首发「翡冷翠」「暖阳金」"
-    },
-    {
-     "title": "东风日产 NX7 定档 11 月 27 日广州车展上市：全系宁德时代电池，预售 12.99 万元起",
-     "link": "https://www.ithome.com/1/030/774.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:08:49 GMT",
-     "summary": "IT之家 11 月 23 日消息，东风日产 N 序列第四款车型 NX7 将于 11 月 27 日在广州车展正式上市，并同步开启交付。 新车已于 11 月 13 日开启预售，共推出三款配置，预售价区间为 12.99 万元至 14.99 万元，定位“智能零压 SUV”，采用大五座布局。 三款车型的预售价分别为：320 Pro 12.99 万元、320 Max 13.99 万元、320 Ultra 激光雷达版 14.99 万元。 入门级的 320 Pro 核心三电规格与高配车型一致，而 320 Max 在 Pro 基础上增加 AI 零压云毯座椅 2.0、四座通风加热按摩以及 6.33L 车载冷暖冰箱",
-     "source": "IT之家",
-     "zh": "东风日产 NX7 定档 11 月 27 日广州车展上市：全系宁德时代电池，预售 12.99 万元起"
-    },
-    {
-     "title": "Singularity Computers 推出外置液冷系统：四组 560 冷排，5000W 解热",
-     "link": "https://www.ithome.com/1/030/773.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:05:17 GMT",
-     "summary": "IT之家 11 月 23 日消息，澳大利亚分体式液冷制造商 Singularity Computers 当地时间本月 21 日推出了 SC Enterprise 5000W 液冷系统。该外置散热装置 具备 5kW 的设计解热能力 。 SC Enterprise 5000W 配备 4 组 Alphacool 560mm UT60 冷排 ，拥有 2 个串联的 7.4m 扬程 25LPM 流量 D5 水泵，可选 16 个（单面）或 32 个（“夹汉堡”）追风者 M25 风扇。 该系统三维 720×380×370 (mm)，重达 30kg；由 500W SFX 电源独立供电；机身材质为 CNC 铝合金",
-     "source": "IT之家",
-     "zh": "Singularity Computers 推出外置液冷系统：四组 560 冷排，5000W 解热"
-    },
-    {
-     "title": "奇瑞纵横 R700 车型 11 月 26 日发布，与纵横 G700 同平台打造",
-     "link": "https://www.ithome.com/1/030/772.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:05:16 GMT",
-     "summary": "IT之家 11 月 23 日消息，据易车今日报道，奇瑞纵横 R700 将于 11 月 26 日正式发布。作为纵横品牌全新“R”系列首款车型，与纵横 G700 同平台打造，虽然整体延续了方盒子硬派造型，但细节上却与纵横 G700 不同。 ▲ 纵横 G700 IT之家注意到， 奇瑞 2027 款纵横 G700 于 9 月 29 日宣布上市 ，共推出 5 款配置车型，限时权益价为 30.49 万元至 42.29 万元。 作为参考，2027 款纵横 G700 长宽高仍为 5198/2050/1956mm，轴距 2870mm。该车搭载华为 896 线双光路激光雷达及华为乾崑智驾 ADS 5 系统，支持城",
-     "source": "IT之家",
-     "zh": "奇瑞纵横 R700 车型 11 月 26 日发布，与纵横 G700 同平台打造"
-    },
-    {
-     "title": "歼-35、空警-600 亮相 12 月 7 日珠海航展并首设海上展区，万吨大驱将向公众开放",
-     "link": "https://www.ithome.com/1/030/771.htm",
-     "pubDate": "Mon, 23 Nov 2026 02:03:07 GMT",
-     "summary": "IT之家 11 月 23 日消息，据央视今日报道，第十六届中国国际航空航天博览会定于 12 月 7 日至 13 日在广东珠海举办。 恰逢中国航展创办三十周年，本届航展采用“一展三区”布局，在珠海国际航展中心主展区之外，新增高栏港海上装备展示区与莲洲无人装备展示区，展演空间从空中、陆地延伸至近岸水域。海军将以室内展厅、室外静态展示、飞行表演和舰艇开放四个板块实装参展。 飞行表演环节的编组直接对应航母编队的作战链条。歼-35 与歼-15T 舰载战斗机将同空警-600 预警机协同参演，教-15、直-20J 与直-8C 直升机则分别执行编队飞行、通场飞行与机场破袭演练。这三型固定翼舰载机此前均已在福建",
-     "source": "IT之家",
-     "zh": "歼-35、空警-600 亮相 12 月 7 日珠海航展并首设海上展区，万吨大驱将向公众开放"
+     "title": "Advanced Character Physics (2001) [pdf]",
+     "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
+     "pubDate": "Mon, 23 Nov 2026 02:17:27 +0000",
+     "summary": "Article URL: https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf Comments URL: https://news.ycombinator.com/item?id=50606704 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Advanced Character Physics (2001) [pdf]"
     },
     {
      "title": "“假洋牌”Swisse，卖爆了",
@@ -1941,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "link": "https://spelunkr.tv",
      "pubDate": "Mon, 23 Nov 2026 01:13:51 +0000",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 88 # Comments: 13",
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 113 # Comments: 21",
      "source": "Hacker News",
      "zh": "Free alternative TV network built from the Internet Archive's forgotten videos"
     },
@@ -1997,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 107 # Comments: 98",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 109 # Comments: 105",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
     },
@@ -2005,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
      "link": "https://0rwx.com/",
      "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
-     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 21 # Comments: 6",
+     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 23 # Comments: 6",
      "source": "Hacker News",
      "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
     },
@@ -2016,6 +1992,30 @@ window.INDUSTRY_DATA = {
      "summary": "Nitasha Tiku / Washington Post : How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and &ldquo;Vision Quest&rdquo; talks, as Anthropic seeds his ideas with opinion-makers &nbsp; &mdash;&nbsp; Anthropic is worth more than $1 trillion.&nbsp; CEO Dario Amodei also wants t",
      "source": "Techmeme",
      "zh": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)"
+    },
+    {
+     "title": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现",
+     "link": "https://www.tmtpost.com/8214014.html",
+     "pubDate": "Mon, 23 Nov 2026 07:20:00 +0800",
+     "summary": "搜狐张朝阳辟谣“被出具警示函”；天孚通信拟在南昌投建新一代高速光器件研发和生产制造项目；多品牌宣布下调金饰克价；美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应；特斯拉在美推出FSDv 15；美国证券交易委员会据悉正对英伟达潜在会计问题展开调查。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现"
+    },
+    {
+     "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+     "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+     "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 167 # Comments: 144",
+     "source": "Hacker News",
+     "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
+    },
+    {
+     "title": "‘You Can See Everything’ has made more than $100M worldwide",
+     "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+     "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
+     "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+     "source": "TechCrunch",
+     "zh": "‘You Can See Everything’ has made more than $100M worldwide"
     }
    ]
   },
@@ -2274,6 +2274,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "联合国气候变化安塔利亚大会闭幕 未能达成全面成果文件",
+     "link": "http://www.eeo.com.cn/2026/1123/1100307.shtml",
+     "pubDate": "Mon, 23 Nov 2026 11:00:18 +0800",
+     "summary": "本次大会就发展中国家普遍关心的公正转型、减缓、适应、资金等议题达成一系列决定，多边进程继续向前推进，但由于部分国家在核心议题上分歧严重，本次大会未能达成全面成果文件。",
+     "source": "经济观察网",
+     "zh": "联合国气候变化安塔利亚大会闭幕 未能达成全面成果文件"
+    },
+    {
+     "title": "Zepp Health Non-GAAP EPADS of -$0.74, revenue of $68.3M",
+     "link": "https://seekingalpha.com/news/4675419-zepp-health-non-gaap-epads-of--074-revenue-of-683m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 21:58:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zepp Health Non-GAAP EPADS of -$0.74, revenue of $68.3M"
+    },
+    {
+     "title": "上海黄金交易所：贵金属价格波动显著加剧 做细做好风险应急预案",
+     "link": "http://www.eeo.com.cn/2026/1123/1100297.shtml",
+     "pubDate": "Mon, 23 Nov 2026 10:47:09 +0800",
+     "summary": "11月23日，上海黄金交易所发布通知，要求做细做好风险应急预案，维护市场平稳运行。同时，提示投资者做好风险防范工作，合理控制仓位，理性投资。",
+     "source": "经济观察网",
+     "zh": "上海黄金交易所：贵金属价格波动显著加剧 做细做好风险应急预案"
+    },
+    {
+     "title": "北京市“十五五”时期城市更新规划：到2030年，城市更新年度投资达到3000亿元",
+     "link": "http://www.eeo.com.cn/2026/1123/1100296.shtml",
+     "pubDate": "Mon, 23 Nov 2026 10:42:45 +0800",
+     "summary": "到2030年，城市更新行动取得重要进展，基本建立与首都城市战略定位相契合、与新时代高质量发展相适配、与超大城市精细化治理相协同、与群众高品质生活需求相呼应的可持续更新模式。",
+     "source": "经济观察网",
+     "zh": "北京市“十五五”时期城市更新规划：到2030年，城市更新年度投资达到3000亿元"
+    },
+    {
+     "title": "发改委等四部门印发《“一老一小”服务体系建设实施方案》",
+     "link": "http://www.eeo.com.cn/2026/1123/1100284.shtml",
+     "pubDate": "Mon, 23 Nov 2026 10:27:19 +0800",
+     "summary": "《实施方案》要求，到 2030 年，养老、托育服务设施布局更加合理、条件明显改善，医养结合持续深化，“一老一小”服务体系进一步健全、供需适配度进一步提高，养老机构护理型床位占比达到73%，社区养老服务机构和设施覆盖率达到70%，3 岁以下婴幼儿入托率较 2025 年提高 6 个百分点，覆盖城乡、布局合理、价格可接受、质量有保障的普惠养老、托育服务供给格局基本形成。",
+     "source": "经济观察网",
+     "zh": "发改委等四部门印发《“一老一小”服务体系建设实施方案》"
+    },
+    {
      "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
      "link": "https://wallstreetcn.com/articles/3786482",
      "pubDate": "Mon, 23 Nov 2026 10:06:07 +0800",
@@ -2304,54 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
      "source": "Financial Times",
      "zh": "Tech stock sell-off deepens in Asia"
-    },
-    {
-     "title": "遭证监会立案，ST洲际开盘跌停",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937077644.html",
-     "pubDate": "Mon, 23 Nov 2026 09:50:07 +0800",
-     "summary": "11月23日， ST洲际 （600759）开盘跌停，开于跌停价1.67元/股。 消息面上，11月22日， ST洲际 披露公告称，公司于11月20日收到证监会下发的《立案告知书》。因涉嫌信息披露违法违规行为，证监会决定对公司立案。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "遭证监会立案，ST洲际开盘跌停"
-    },
-    {
-     "title": "遭证监会立案，天阳科技开盘跌停",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937076986.html",
-     "pubDate": "Mon, 23 Nov 2026 09:49:51 +0800",
-     "summary": "11月23日， 天阳科技 （300872）开盘跌停，开于跌停价9.02元/股。 消息面上，11月22日， 天阳科技 披露公告称，公司于11月20日收到证监会出具的《立案告知书》。因公司涉嫌信息披露违法违规，证监会决定对公司立案。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "遭证监会立案，天阳科技开盘跌停"
-    },
-    {
-     "title": "北证50日内涨幅达1.23%",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937077416.html",
-     "pubDate": "Mon, 23 Nov 2026 09:49:32 +0800",
-     "summary": "11月23日，北证50日内涨幅达1.23%，成分股中， 蘅东光 涨5.37%， 奥迪威 涨3.23%， 艾融软件 涨3.20%， 三协电机 涨2.95%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "北证50日内涨幅达1.23%"
-    },
-    {
-     "title": "AI漫剧概念震荡走高 浙文影业涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202611233937076256.html",
-     "pubDate": "Mon, 23 Nov 2026 09:48:54 +0800",
-     "summary": "AI漫剧概念震荡走高， 浙文影业 涨停， 幸福蓝海 、 新炬网络 、 海看股份 、 果麦文化 跟涨。消息面上，国家广播电视总局数据显示，2026年1-9月上线微短剧共49万部，是2025年全年的13倍。微短剧用户规模达到8.5亿，月活用户超过6亿，人均单日收看时长约2小时。",
-     "source": "东方财富股票",
-     "zh": "AI漫剧概念震荡走高 浙文影业涨停"
-    },
-    {
-     "title": "蚂蚁集团旗下公司等入股微面科技",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937077388.html",
-     "pubDate": "Mon, 23 Nov 2026 09:48:28 +0800",
-     "summary": "天眼查App显示，近日，北京微面科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、首形科技（上海）有限公司等为股东，同时，注册资本由约113.6万元人民币增至约139.8万元人民币。该公司成立于2025年7月，法定代表人为唐健凯，经营范围包括 人工智能 理论与算法 软件开发 、 人工智能 基础 软件开发 、 人工智能 公共数据平台等，现由唐健凯、北京百面科技中心（有限合伙）及上述新增股东等共同持股。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "蚂蚁集团旗下公司等入股微面科技"
-    },
-    {
-     "title": "戴尔、惠普提出为AI服务器加价，算力产业链需求持续旺盛｜人工智能早参",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937077245.html",
-     "pubDate": "Mon, 23 Nov 2026 09:47:48 +0800",
-     "summary": "过去一周（截至11月20日收盘），科创芯片ETF华安（588290）跟踪指数下跌6%，创业板 人工智能 ETF华安（159279）跟踪指数下跌14.55%，科创创业 人工智能 ETF华安（588470）跟踪指数下跌13.93%。相关个股中， 新易盛 下跌12.04%， 天孚通信 下跌18.25%， 中际旭创 下跌15.66%。 NO.1 海外服务器交付加价，算力供应链议价重塑 据报道，戴尔、 惠普 企业（HPE）、联想及 超微电脑 （Super Micro）等厂商正要求客户为已签订的AI服务器订单支付更高价格，部分订单涨幅达到25%至45%。相关涨价发生在合同签署数月后，增加了金融交易机构等客",
-     "source": "东方财富股票",
-     "zh": "戴尔、惠普提出为AI服务器加价，算力产业链需求持续旺盛｜人工智能早参"
     },
     {
      "title": "Claude证明黎曼假设“大反转”：论证无效，只是空转？",
@@ -2490,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "Ron Johnson’s Social Security gaffe buried important news"
     },
     {
-     "title": "Bears will be yelling fire in crowded theater - Dan Ives",
-     "link": "https://seekingalpha.com/news/4675414-bears-will-be-yelling-fire-in-crowded-theater-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 15:38:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bears will be yelling fire in crowded theater - Dan Ives"
-    },
-    {
      "title": "Social Security should be shut down, this Republican senator says",
      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 20:26:00 GMT",
@@ -2512,6 +2496,22 @@ window.INDUSTRY_DATA = {
      "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
      "source": "MarketWatch",
      "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
+    },
+    {
+     "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+     "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+     "pubDate": "Sun, 22 Nov 2026 19:08:31 GMT",
+     "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+     "source": "Financial Times",
+     "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
+    },
+    {
+     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens",
+     "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+     "pubDate": "Sun, 22 Nov 2026 18:55:05 GMT",
+     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+     "source": "CNBC",
+     "zh": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens"
     }
    ]
   },

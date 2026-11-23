@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 08:12:00",
+ "generated_at": "2026/11/23 08:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -1761,12 +1761,92 @@
    "total": 18,
    "items": [
     {
-     "title": "维他奶国际，承压前行",
-     "link": "https://www.huxiu.com/article/4907569.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:59:02 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈晓京 在维他奶国际2026/2027中期业绩发布会现场，85岁的罗友礼在镜头前露出淡淡的微笑，神情里有对中期经营成果的肯定，却难掩当下业务承压的现实。 在11月20日业绩发布会上，他主动对外发出预警信号，直言下半财年经营形势不容乐观，公司将以降本增效为核心应对策略。 光鲜的中期报表之下，植物蛋白饮料行业增长放缓的大势并未扭转。上半财年，公司能够交出向好业绩，很大程度上得益于汇率变动带来的红利。 眼下市场竞争日趋白热化，原材料成本压力持续存在，加上公司渠道结构调整尚未完成，想要在2026/2027完整财年实现业绩增长，依然存在较大不确定性。 上半财年，被",
+     "title": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息",
+     "link": "https://www.ithome.com/1/030/735.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:27:02 GMT",
+     "summary": "IT之家 11 月 23 日消息，据 X 平台消息人士 pdfu 昨日爆料，苹果曾测试过一套 iPhone Duo 实验性界面，允许锁屏状态下，在屏幕右侧显示两个不同的小组件。 据介绍，该功能可在屏幕右侧增加纵向排列的圆形小组件。 pdfu 称右侧的小组件可以和现有的底部栏同时使用 ，让用户在锁屏上查看更多信息。 同时，这一额外的小组件区域被称为“Complication Column”（IT之家注：复杂功能栏），位于放置手电筒和相机快捷方式的自定义按钮上方。不过目前该组件仍处于禁用状态，因此我们不清楚苹果是否仍在开发该功能。",
+     "source": "IT之家",
+     "zh": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息"
+    },
+    {
+     "title": "美国芯片新规对东南亚数据中心投资的影响",
+     "link": "https://www.huxiu.com/article/4907578.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:19:19 +0800",
+     "summary": "本文来自微信公众号： 泰湄璃 ，作者：泰湄璃-曾磊 美国当地时间2026年11月16日，美国商务部工业与安全局（BIS）发布了关于先进人工智能芯片和服务器的远程调用的临时性管制规则。 BIS称，该规则意在防止敏感性的美国技术通过位于第三方国家的数据中心规避目前的出口限制措施。 本次新规则将新加坡、马来西亚、印度尼西亚、泰国和巴西纳入受限制的数据中心运营地，因此，东南亚将成为新规影响最大的地区。 新规重点概要 出口许可：如果出口商知悉相关受控“先进计算”物项（通常指归类于BIS出口管制目录ECCN 3A090和4A090项下的先进人工智能芯片、服务器及相关物项）将供应至全球范围内任何一个数据中心",
      "source": "虎嗅",
-     "zh": "维他奶国际，承压前行"
+     "zh": "美国芯片新规对东南亚数据中心投资的影响"
+    },
+    {
+     "title": "IEEE《2030技术大趋势》：最重要的10个洞见",
+     "link": "https://www.huxiu.com/article/4907577.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:18:44 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 最近有一份报告值得看看，它由IEEE未来方向委员会的产业咨询委员会牵头，168位专家来自38个国家，其中有英伟达、AMD、谷歌、Meta、Arm的工程师，也有美国最大电网运营商PJM的人。 他们选了五大趋势： AI、能源、健康、太空、物理AI。 每个趋势6项技术，逐项打分：2030年能否成功，对人类影响多大，成熟度和市场采用到了哪一步，离大规模商用还有几年。 五大趋势：AI、能源、健康、太空、物理AI 这是一群造东西的人，给未来五年下的注。 我们从里面读出十件事，想跟大家分享。 有人问，这个报告是AI写的么？ 其实在第39页，专家特",
+     "source": "虎嗅",
+     "zh": "IEEE《2030技术大趋势》：最重要的10个洞见"
+    },
+    {
+     "title": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产",
+     "link": "https://www.ithome.com/1/030/734.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:18:21 GMT",
+     "summary": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，英特尔 CEO 陈立武在 11 月 19 日举行的 TomorrowX 会议上称，Intel 18A 制程的芯片良品率已达到 70%。 陈立武表示，自己于 2025 年 3 月接任英特尔 CEO 时，18A 制程的良品率“非常糟糕”，目前已经提升至 70%。 Intel 18A 是英特尔当前的先进制程节点之一，已用于客户端和数据中心产品。英特尔于 2025 年下半年开始量产采用 18A 制程计算模块的 Panther Lake 处理器，也就是酷睿 Ultra 300 系列。面向数据中心的 Clearwater Fores",
+     "source": "IT之家",
+     "zh": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产"
+    },
+    {
+     "title": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界",
+     "link": "https://www.huxiu.com/article/4907555.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:16:36 +0800",
+     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 如果人类理性有一座公认的最高王峰，那大概就是黎曼猜想。 过去一百六十多年里，从高斯、黎曼到希尔伯特、图灵，无数人类历史上最耀眼的头脑曾在这座雪峰下折戟沉沙。在纯粹数学的殿堂里，它不仅是一个悬置了一个半世纪的数论难题，它是人类用来丈量自身智力极限的标尺，是智慧生物对抗无知的一座精神图腾。 然后，就在这几天，这根标尺被折断了。 2026年11月20日，哈佛大学数学家、同时也是Anthropic团队成员的莱文特·阿尔珀格（Levent Alpöge），对外发布了一份简短说明和整套计算机代码，宣布在Claude的深度协助下，攻克了黎曼猜想以及",
+     "source": "虎嗅",
+     "zh": "当AI攻克黎曼猜想，高知精英开始率先放弃了解这个世界"
+    },
+    {
+     "title": "资金运转：企业略改善，居民去杠杆",
+     "link": "https://www.huxiu.com/article/4907575.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:15:21 +0800",
+     "summary": "本文来自微信公众号： 王剑的角度 ，作者：王剑的角度，原文标题：《【随笔】资金运转：企业略改善，居民去杠杆》 核心观点 我们延续前几篇文章的框架，梳理今年前10个月实体部门的资金运转情况。前10个月，实体部门资金来源合计26.20万亿元，同比少增8679亿元；其中，9~10月新增4.14万亿元，同比少增5614亿元。延续8月的变化，资金总量继续同比少增，居民端仍是最明显的拖累。 但企业端，9~10月融资总量虽然偏弱，企业中长期贷款却有所改善，主要是短贷和票据的冲量特征减弱拖累了总量。这些变化，可能与9月28日国务院常务会部署“宏观政策发力提效、促进有效投资有关工作,并作出一系列针对性部署”有关",
+     "source": "虎嗅",
+     "zh": "资金运转：企业略改善，居民去杠杆"
+    },
+    {
+     "title": "[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？",
+     "link": "https://www.huxiu.com/article/4907573.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:14:44 +0800",
+     "summary": "本文来自微信公众号： 奇怪的查理芒格 ，作者：开出一朵塑料花，原文标题：《[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？》 同样从乙烯出发，LDPE比LLDPE贵出来的那一截，近七年月均最高约3,600元，最低约200元。今年10月9日还有2,600元，11月13日只剩约1,600元。 先说结论，三句话： 一、成本最多解释这一截的一半，大头是相对稀缺的租金。 二、租金以前是脉冲，2020年以后成了常态，按年均，除了2023年再没退回成本带。LDPE市场小，谁建线谁就把租金打没，连LDPE比LLDPE还便宜的中东都不建。 三、中国这一波高压装置会把它打下来。今年出口翻倍是",
+     "source": "虎嗅",
+     "zh": "[聚乙烯的租金番外篇]被替代了四十年的 LDPE，为什么溢价迟迟不退？"
+    },
+    {
+     "title": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位",
+     "link": "https://www.ithome.com/1/030/733.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:10:21 GMT",
+     "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，这几天，不少开发者炫耀自己已经好几个月没打开过 VS Code。如今微软 CEO 萨提亚 · 纳德拉表示，他完全了解这一现象。Anthropic 推出 Claude Code 后， VS Code 等传统代码编辑器、IDE 大概六个月就失去了存在感 。 IT之家注：VS Code 是微软推出的免费开源跨平台代码编辑器，不是 IDE。该软件内置对语法高亮、智能代码补全、代码重构、代码调试以及 Git 版本控制的支持，并可通过庞大的扩展生态拓展软件功能。 纳德拉认为，过去十多年，微软一直努力将 VS Code 打",
+     "source": "IT之家",
+     "zh": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位"
+    },
+    {
+     "title": "零售药店：从出清到转型的三大挑战",
+     "link": "https://www.huxiu.com/article/4907572.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:08:44 +0800",
+     "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 随着2024-2025年的闭店潮暂歇，零售药店市场在2026年明显企稳，市场出清的第一阶段已经结束。但医保的压力并没有缓解，而且支付方控费趋势下，医院也加入到蚕食药品零售市场中来。就中长期来看，零售药店市场的危机并没有消失，随时可能会再次引发第二波出清。 因此，零售药店只有主动转型才能避免市场出清对自身造成的巨大冲击。不过，从出清到转型的过程中，零售药店主要面临三大挑战：支付方、客群结构和医疗机构。 首先，从支付方来看，医保长期的筹资压力并不会减轻，由此对开支的收紧将持续，对药品零售端的管控只会",
+     "source": "虎嗅",
+     "zh": "零售药店：从出清到转型的三大挑战"
+    },
+    {
+     "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
+     "link": "https://www.ithome.com/1/030/732.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:05:19 GMT",
+     "summary": "IT之家 11 月 23 日消息，据路透社 11 月 21 日报道，印度主要反对党国大党的青年团近日因不满旗下成员的 Instagram 账号遭到限制，前往 Meta 印度办事处抗议，还与警方及安保人员发生冲突。 印度青年国大党（Indian Youth Congress，简称 IYC）还向 Meta 发出最后通牒，要求在七天内恢复相关账号，否则将在印度各地继续举行抗议活动。 印度青年国大党 11 月 20 日当天发布的视频显示，示威者手持标语牌、高喊口号，进入 Meta 位于海得拉巴的办公楼，将花盆砸向地面，并与警方及安保人员发生冲突。 另一段视频显示，国大党工作人员在 Meta 孟买办事处",
+     "source": "IT之家",
+     "zh": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突"
+    },
+    {
+     "title": "Nespresso's project to reduce grams of coffee per capsule",
+     "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+     "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 12 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Nespresso's project to reduce grams of coffee per capsule"
     },
     {
      "title": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告",
@@ -1785,62 +1865,6 @@
      "zh": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革"
     },
     {
-     "title": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式",
-     "link": "https://www.huxiu.com/article/4907567.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:38:16 +0800",
-     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 美国密歇根州马歇尔市的福特电池工厂里，有一堵特别的墙。 墙的一侧生产电芯，另一侧组装电池包。完成检测的电芯通过传送带穿过墙上的通道，进入电池包生产区域。两个车间之间没有供人员直接通行的门。 据《底特律新闻》11月18日报道，宁德时代的工程师可以在电芯制造车间参与设备调试、员工培训和生产爬坡，却不能进入另一侧的电池包组装区域。 这座投资30亿美元的工厂归福特所有，由福特独立运营，采用宁德时代授权的磷酸铁锂电池制造技术。 11月18日，福特宣布，马歇尔工厂生产的首批电芯已经运往肯塔基州路易斯维尔，用于新款电动皮卡Fathom的原型车测试。 从",
-     "source": "虎嗅",
-     "zh": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式"
-    },
-    {
-     "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
-     "link": "https://www.ithome.com/1/030/729.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:37:54 GMT",
-     "summary": "IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及 Siri AI 功能延迟上线的美国集体诉讼。 根据 MacRumors 当地时间 11 月 21 日的报道，代表消费者的律师于 11 月 16 日提交法庭文件，预计符合条件的用户每台 iPhone 可获赔至少 61 美元 （现汇率约合 408.3 元人民币） ，最高赔偿金额为 95 美元 （现汇率约合 635.9 元人民币） 。 根据和解条款，每台符合条件的设备基础赔偿金额为 25 美元，最终金额将根据有效申报总量按比例调整，最高不超过 95 美元，",
-     "source": "IT之家",
-     "zh": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元"
-    },
-    {
-     "title": "影石创新：拿下七成市场，蒸发一千亿市值",
-     "link": "https://www.huxiu.com/article/4907568.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:36:11 +0800",
-     "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的 影石创新2026年三季报显示，Q3度营收39.19亿元，同比增长33.30%；归母净利润1743万元，同比下降93.59%。前三季度收入达到94.36亿元，同比增长42.73%，归母净利润只剩4784万元，扣非归母净利润仅513万元。 收入仍在高增，单季归母净利率却只剩0.44%。第三季度，影石比去年同期多卖了近10亿元，毛利反而少了8000多万元。 我们曾在《影石、大疆的无人机影像战争，比“外卖大战”还惨烈》中提到过，影石和大疆在影像设备、无人机掀起的价格战竞争异常激烈，很明显，这种竞争延续到了第三季度。 与此同时，9月底存货增至71.5",
-     "source": "虎嗅",
-     "zh": "影石创新：拿下七成市场，蒸发一千亿市值"
-    },
-    {
-     "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
-     "link": "https://www.ithome.com/1/030/728.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:35:21 GMT",
-     "summary": "IT之家 11 月 23 日消息，据新华社今日报道，美国达美航空公司技术系统出现故障，导致 22 日进出亚特兰大国际机场的数百个航班出现延误。 美国联邦航空管理局发布的信息显示，达美航空飞往亚特兰大国际机场的航班 平均延误近一个小时 ，涉及约 20 个航线控制中心。 达美航空公司表示， 航班延误是由于其重量与平衡自动化系统出现故障 。公司正与空管部门协调，采取措施防止在亚特兰大国际机场登机口和停机坪区域出现拥堵。当天上午，达美航空通过人工方式安排航班起飞，同时继续努力恢复自动化系统。 根据航班追踪网站发布的数据，截至美东时间 22 日 11 时，有 681 个进出亚特兰大国际机场的航班出现延误",
-     "source": "IT之家",
-     "zh": "美国达美航空系统故障，致亚特兰大机场数百航班延误"
-    },
-    {
-     "title": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit",
-     "link": "https://www.ithome.com/1/030/727.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:30:20 GMT",
-     "summary": "IT之家 11 月 23 日消息，Mozilla 前天（11 月 20 日）发布声明，指责苹果长期阻碍真正的 Firefox 火狐浏览器登陆 iPhone。 据IT之家了解，Firefox 的 iOS 版使用 WebKit 引擎，而非 Mozilla 自主开发的 Gecko 引擎。 Mozilla 表示，即使欧盟《数字市场法案》和日本《智能手机软件竞争促进法》已要求苹果调整政策，但 iOS 的现行限制仍让人难以接受。 例如公司无法通过更新现有 Firefox 的方式 ， 直接将 WebKit 内核替换为 Gecko 。因为按照苹果的要求， 公司必须单独开发新浏览器并分发一个全新 App 。 这",
-     "source": "IT之家",
-     "zh": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit"
-    },
-    {
-     "title": "2027 款福特烈马将于广州车展上市，新增大海道版本",
-     "link": "https://www.ithome.com/1/030/726.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:27:43 GMT",
-     "summary": "IT之家 11 月 23 日消息，据易车 11 月 22 日报道，2027 款福特烈马将在广州车展正式上市。新车新增烈马大海道版本，与荒地版形成两条差异化的外观与越野套件路线。 大海道版以红色车身搭配撞色白顶 ，车身侧面印有大号 BRONCO 拉花，配银黑双色防脱越野轮毂与全地形 AT 胎，面向户外穿越、打卡出行；荒地版采用纯黑车身与黑银配色防脱轮毂，整体风格低调硬核，可城可野。 两款车型保留圆形复古大灯、贯穿式 BRONCO 字母格栅、方盒子车身、可拆卸车顶、外挂式后备胎与宽大黑色轮眉。座舱延续烈马粗犷实用的布局，中控台保留大量实体按键与顶部控制开关，便于越野时盲操作，可拆卸门板与防水易清洁",
-     "source": "IT之家",
-     "zh": "2027 款福特烈马将于广州车展上市，新增大海道版本"
-    },
-    {
-     "title": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始",
-     "link": "https://www.huxiu.com/article/4907565.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:23:43 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始》 新旧交替时期，苹果改变了不少「祖宗之法」，新品发布的节奏当然也不例外。 最明显的变化就是，过去集中在秋季发布会上的产品，如今被苹果分拆为连续数月的更新—— 9月，iPhone 18 Pro系列与首款折叠屏iPhone Duo同场亮相；10月，智能家居设备HomeView、新款iPad mini与触屏MacBook Pro等新品陆续登场。 图｜Apple Cycle 而短暂冬歇之后，苹果又将迎来一个繁忙的春天。 彭博社记者马克·古尔曼在最新一期Powe",
-     "source": "虎嗅",
-     "zh": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始"
-    },
-    {
      "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
      "link": "https://www.techmeme.com/261122/p12#a261122p12",
      "pubDate": "Sun, 22 Nov 2026 18:20:08 -0500",
@@ -1857,34 +1881,18 @@
      "zh": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现"
     },
     {
-     "title": "我最近听到最有水平的两句话",
-     "link": "https://www.huxiu.com/article/4907013.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:18:40 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 最近有两句话，在我脑子里翻来覆去了好几天。好像把我本来一团模糊的地方，突然给打通了。非常之爽。所以我想把这两句话，也分享给你。 第一句：人的情绪，是用来影响他人的，而不是用来左右自己的。 第二句：公开的言论，是用来维护立场和利益的，而不是用来表达自己的思想和认知的。 我思考了一下，这两句话之所以让我印象深刻，是因为它们戳破了，一个我们很不愿意承认的事实： 我们大部分的痛苦，其实都来自同一个错误，就是把对外的东西，用到了对内；又把对内的东西，用到了对外。 情绪本来是向外的，我们却拿它对内审判自己。 ",
-     "source": "虎嗅",
-     "zh": "我最近听到最有水平的两句话"
-    },
-    {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 78 # Comments: 31",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 92 # Comments: 39",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
-    },
-    {
-     "title": "腾讯到最危险的时刻了？",
-     "link": "https://www.huxiu.com/article/4906811.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 07:07:07 +0800",
-     "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜视觉中国 一周前，马化腾撂下&ldquo;生死存亡&rdquo;四个字警示腾讯当下处境，措辞之激烈为 28 年罕见：&ldquo;远处的浪潮已经吞没一个个山丘，你不能还坐着欣赏。要着急、站起来，准备新打法，找到高地，搬物资、上船，从陆战转海战。过去 28 年的存在，就为今天可以投入这样一个改变世界的技术潮流。&rdquo; 话音刚落，2026Q3 财报就把这份危机感砸在了纸面上，核心数据全面承压，转型直接击穿了利润表： 季度营收同比增长 8% 至 2073.36 亿元，增速较上季度放缓、低于市场预期；Non-IFRS 经营利润同",
-     "source": "虎嗅",
-     "zh": "腾讯到最危险的时刻了？"
     },
     {
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 31 # Comments: 11",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 42 # Comments: 16",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
     },
@@ -1900,7 +1908,7 @@
      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 37 # Comments: 5",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 41 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Usefulness of Useless Knowledge [pdf] (1939)"
     },
@@ -1908,7 +1916,7 @@
      "title": "Agent swarm trying to solve P vs. NP",
      "link": "https://pequalnp.com/",
      "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 64 # Comments: 64",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 75 # Comments: 68",
      "source": "Hacker News",
      "zh": "Agent swarm trying to solve P vs. NP"
     },
@@ -1919,14 +1927,6 @@
      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
      "source": "TechCrunch",
      "zh": "‘You Can See Everything’ has made more than $100M worldwide"
-    },
-    {
-     "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-     "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-     "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
-     "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 24 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "The struggle for freedom: How BSD escaped AT&T licensing"
     },
     {
      "title": "The best apps to make new friends right now",
@@ -2009,6 +2009,22 @@
    "total": 7,
    "items": [
     {
+     "title": "8 Windows apps you should probably remove from your PC",
+     "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+     "pubDate": "Mon, 23 Nov 2026 00:15:00 +0000",
+     "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+     "source": "Engadget",
+     "zh": "8 Windows apps you should probably remove from your PC"
+    },
+    {
+     "title": "Public vs. private IP addresses: what's the difference?",
+     "link": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 +0000",
+     "summary": "One identifies your network, the other identifies the devices using your network.",
+     "source": "Engadget",
+     "zh": "Public vs. private IP addresses: what's the difference?"
+    },
+    {
      "title": "What is the best way to secure your PlayStation 5 for a flight?",
      "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
      "pubDate": "Sun, 22 Nov 2026 23:45:00 +0000",
@@ -2041,28 +2057,12 @@
      "zh": "Can you safely use a 140w charger on an iPhone?"
     },
     {
-     "title": "This free app connects your Android phone to your Windows PC wirelessly",
-     "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
-     "pubDate": "Sun, 22 Nov 2026 22:15:00 +0000",
-     "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
-     "source": "Engadget",
-     "zh": "This free app connects your Android phone to your Windows PC wirelessly"
-    },
-    {
      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
      "link": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
      "pubDate": "Sun, 22 Nov 2026 22:02:43 +0000",
      "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . iOS 27 includes a really clever new feat",
      "source": "9to5Mac",
      "zh": "iOS 27 has a clever fix for unreliable Wi-Fi connections"
-    },
-    {
-     "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
-     "link": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
-     "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
-     "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
-     "source": "Engadget",
-     "zh": "How to safely clean your PC's GPU to avoid damaging it in the process"
     },
     {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
@@ -2256,6 +2256,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "今日看点｜首批18只主动ETF上市",
+     "link": "http://www.eeo.com.cn/2026/1123/1100238.shtml",
+     "pubDate": "Mon, 23 Nov 2026 08:24:23 +0800",
+     "summary": "11月23日，首批18只主动ETF将在沪深交易所挂牌上市，上市交易公告书已于近日集中披露。从发行看，首批18只产品全部触及20亿元募集规模上限并提前结束募集，其中17只因超募启动比例配售，合计募集360亿元，有效认购户数超33万户。",
+     "source": "经济观察网",
+     "zh": "今日看点｜首批18只主动ETF上市"
+    },
+    {
+     "title": "马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”",
+     "link": "https://wallstreetcn.com/articles/3786470",
+     "pubDate": "Mon, 23 Nov 2026 08:07:09 +0800",
+     "summary": "马斯克警告，AI行业明年将面临严峻的现金短缺，数据中心并网延迟是主要推手。这一表态出现在全球科技股大幅回调、市场对AI泡沫争论升温之际。 11月22日，马斯克在X上回复一条帖子时表示：“明年的现金短缺也会非常疯狂。”他补充说，数据中心投运延迟将迫使AI公司额外筹集“数千亿美元”资金，并反问：“这些钱从哪里来？” 马斯克回复的原帖显示，半导体制造商的股票估值相对于其预期利润处于较低水平。这可能意味着，投资者并不看好为 AI 提供算力的芯片公司能持续实现利润高速增长，也暗示数据中心建设短期内可能面临明显阻力。 算力卡在哪里 AI 公司的收入在增长，支出也在同步膨胀。Meta、微软等头部企业以及 A",
+     "source": "华尔街见闻",
+     "zh": "马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”"
+    },
     {
      "title": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
      "link": "https://wallstreetcn.com/articles/3786468",
@@ -2479,22 +2495,6 @@
      "summary": "11月22日，科创板芯片设计企业思特威发布对外投资公告，宣布拟以现金方式向武汉楚兴技术有限公司（以下简称“武汉楚兴”）增资15.00亿元。 交易完成后，思特威将持有武汉楚兴5.5880%股权，标的公司将成为其参股公司。 本次增资对应的标的公司投前估值约为253.43亿元。 思特威计划通过本次入股深度绑定上游关键制造资源，补齐高端CMOS图像 传感器 （CIS）晶圆代工产能短板，提升供应链自主可控水平。 思特威拟借 银行 贷款出资15亿元入股晶圆代工厂 公告显示，思特威本次增资事项已经公司第二届董事会第十六次会议审议通过。 根据相关上市规则，本次交易无需提交股东会审议，不构成关联交易，也不构成重",
      "source": "东方财富资讯",
      "zh": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能"
-    },
-    {
-     "title": "侃股：破净股安全边际有所不同 不能盲目布局",
-     "link": "http://stock.eastmoney.com/news/11215,202611223936956493.html",
-     "pubDate": "Mon, 23 Nov 2026 00:31:39 +0800",
-     "summary": "万得数据显示，截至11月20日收盘，在沪深北三市可交易的个股中，633只处于“破净”状态。 破净股 数量增多，与近期A股市场持续调整有关，意味着更多的投资机会。不过， 破净股 的安全边际有所不同，并非所有的 破净股 估值都合理。 在A股市场中，部分投资者认为股价跌破每股净资产，代表股票估值触底，下跌空间有限，是性价比极高的买入机会。但从市场实际表现来看，破净只是股价低估的一个指标，不同破净股的背后逻辑差异较大，安全边际更是各不相同，选择破净股也需要参考其他指标，不能盲目布局。 实际上，账面净资产并不能完全等同于上市公司的真实资产价值。部分公司的净资产值存在大量无法变现、资产质量偏低的情况，或存",
-     "source": "东方财富资讯",
-     "zh": "侃股：破净股安全边际有所不同 不能盲目布局"
-    },
-    {
-     "title": "Sanctioned Russian vessel attacked by drones near Finland",
-     "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 14:15:40 GMT",
-     "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
-     "source": "Financial Times",
-     "zh": "Sanctioned Russian vessel attacked by drones near Finland"
     }
    ]
   },

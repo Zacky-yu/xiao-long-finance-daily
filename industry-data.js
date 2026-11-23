@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 06:46:10",
+ "generated_at": "2026/11/24 06:52:04",
  "recent_days": 7,
  "industries": [
   {
@@ -1346,14 +1346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!"
     },
     {
-     "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-     "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-     "pubDate": "Mon, 23 Nov 2026 21:10:03 +0000",
-     "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-",
-     "source": "NASA",
-     "zh": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program"
-    },
-    {
      "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
      "link": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
      "pubDate": "Mon, 23 Nov 2026 19:00:00 +0000",
@@ -1378,22 +1370,6 @@ window.INDUSTRY_DATA = {
      "zh": "As it happened: NG-25 preview news teleconference"
     },
     {
-     "title": "Studying Cancer Cells in Microgravity",
-     "link": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
-     "pubDate": "Mon, 23 Nov 2026 17:28:37 +0000",
-     "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help resea",
-     "source": "NASA",
-     "zh": "Studying Cancer Cells in Microgravity"
-    },
-    {
-     "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-     "link": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-     "pubDate": "Mon, 23 Nov 2026 17:23:50 +0000",
-     "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface. Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts o",
-     "source": "NASA",
-     "zh": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon"
-    },
-    {
      "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
      "link": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
      "pubDate": "Mon, 23 Nov 2026 17:00:00 +0000",
@@ -1402,28 +1378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance"
     },
     {
-     "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-     "link": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-     "pubDate": "Mon, 23 Nov 2026 16:08:23 +0000",
-     "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’",
-     "source": "NASA",
-     "zh": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space"
-    },
-    {
      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
      "link": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
      "pubDate": "Mon, 23 Nov 2026 15:10:59 +0000",
      "summary": "Marvel Studios’ first Avengers film since 2019 is less than a month away, and it might be the big-screen team-up event we thought impossible only ten years ago.",
      "source": "Space.com",
      "zh": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men"
-    },
-    {
-     "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-     "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
-     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
-     "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high",
-     "source": "NASA",
-     "zh": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution"
     },
     {
      "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
@@ -1440,14 +1400,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
      "source": "Payload",
      "zh": "Industry Shares Plan for Moon Base Power Tower"
-    },
-    {
-     "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-     "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
-     "pubDate": "Mon, 23 Nov 2026 05:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
-     "source": "NASA",
-     "zh": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251"
     },
     {
      "title": "China details its path to a crewed Moon landing before 2030",
@@ -1536,6 +1488,54 @@ window.INDUSTRY_DATA = {
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
      "zh": "HEO Unveils Insights Next SDA Tool"
+    },
+    {
+     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
+     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
+     "source": "SpaceNews",
+     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
+     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
+     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
+     "source": "SpaceNews",
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
+    },
+    {
+     "title": "Origami and solar arrays",
+     "link": "https://spacenews.com/origami-and-solar-arrays/",
+     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
+     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Origami and solar arrays"
+    },
+    {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1762,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
-     "link": "https://www.ithome.com/1/031/232.htm",
-     "pubDate": "Mon, 23 Nov 2026 22:37:21 GMT",
-     "summary": "IT之家 11 月 24 日消息，谷歌 DeepMind 团队携手谷歌 Quantum AI 团队于昨日（11 月 23 日）发布联合研究成果， 利用多组 Gemini 4 智能体协同工作，并结合形式化数学验证工具 Lean，成功优化了多项量子算法，降低部分量子计算任务的资源需求。 量子计算机有望在未来解决经典超级计算机无法企及的问题，但即便使用当前最优量子算法，部分重要应用所需的资源仍超出早期量子硬件的承载能力。 谷歌 DeepMind 与 Google Quantum AI 团队在最新研究论文中，借助 Gemini 4 智能体团队对经典量子算法进行优化，生成了效率极高的量子电路。 这些优化",
-     "source": "IT之家",
-     "zh": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈"
+     "title": "APEC不签条约：37年零约束，25小时到货",
+     "link": "https://www.huxiu.com/article/4907866.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 06:39:10 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 11月18日下午，深圳，APEC工商领导人峰会散场。 据新华社报道，一份叫《深圳倡议》的文件当天发布，这是峰会创办30年来第一次以倡议形式交卷。 同一天，深圳商超货架上摆着秘鲁蓝莓、泰国榴莲和澳大利亚海鲜。 智利车厘子从枝头到上海，25小时。 这些数字没有写进任何一份宣言，却比宣言更难推翻。 两天会，几份文件，外加一串跟外交不太相干的时间数字。 问题就出在这儿。 一场连条约都不签的会，到底靠什么把事情做成。 ⑴一份不具约束力的文件，凭什么算成果 按外交部官网的口径，APEC采取自主自愿和协商一致的合作方式，所作决定须经各成员一致同意，会议成果文件",
+     "source": "虎嗅",
+     "zh": "APEC不签条约：37年零约束，25小时到货"
+    },
+    {
+     "title": "VP != VNP over Every Field [pdf]",
+     "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+     "pubDate": "Mon, 23 Nov 2026 22:23:04 +0000",
+     "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50620252 Points: 18 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "VP != VNP over Every Field [pdf]"
+    },
+    {
+     "title": "VP ≠ VNP over Every Field",
+     "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+     "pubDate": "Mon, 23 Nov 2026 22:09:10 +0000",
+     "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 47 # Comments: 17",
+     "source": "Hacker News",
+     "zh": "VP ≠ VNP over Every Field"
     },
     {
      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
@@ -1808,6 +1824,30 @@ window.INDUSTRY_DATA = {
      "summary": "Radhika Rajkumar / ZDNET : Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers &nbsp; &mdash;&nbsp; Would you let a few Claude agents review and ship your code for you?&nbsp; &mdash;&nbsp; ZD",
      "source": "Techmeme",
      "zh": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)"
+    },
+    {
+     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+     "link": "https://www.bored.com/",
+     "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 40 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
+    },
+    {
+     "title": "The horse made the state",
+     "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+     "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
+     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 42 # Comments: 37",
+     "source": "Hacker News",
+     "zh": "The horse made the state"
+    },
+    {
+     "title": "GPUI is getting its own repository",
+     "link": "https://github.com/zed-industries/gpui",
+     "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 27 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "GPUI is getting its own repository"
     },
     {
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
@@ -1872,6 +1912,14 @@ window.INDUSTRY_DATA = {
      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
      "source": "Ars Technica",
      "zh": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
+    },
+    {
+     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+     "link": "https://arm.jonpalmisc.com/",
+     "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 685 # Comments: 137",
+     "source": "Hacker News",
+     "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
     },
     {
      "title": "Jensen Huang returned to Nvidia&apos;s headquarters to cheers from employees and said \"I&apos;m gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
@@ -1952,54 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 23 日消息，距离《暗黑破坏神 5》（Diablo 5）正式发售至少还有三年，但暴雪已经陆续公布了这款新作的一些令人期待的信息。在最近一届暴雪嘉年华（BlizzCon）上，《暗黑破坏神 5》作为重磅消息之一正式亮相。 在《暗黑破坏神 5》推出之前，《暗黑破坏神 4》仍将持续获得重要更新。不过，随着新作逐渐接近发售，暴雪最终很可能会将更多资源转向续作，逐步减少对旧作的投入。 考虑到未来几年硬件平台的更新节奏，《暗黑破坏神 5》很可能登陆新一代游戏平台，为玩家带来明显升级的《暗黑破坏神》体验。暴雪预计还会在 2029 年计划发售之前陆续公布更多消息，目前已经披露的信息就包括以下",
      "source": "IT之家",
      "zh": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开"
-    },
-    {
-     "title": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级",
-     "link": "https://www.ithome.com/1/031/229.htm",
-     "pubDate": "Mon, 23 Nov 2026 15:23:51 GMT",
-     "summary": "IT之家 11 月 23 日消息，据用户反馈，微信鸿蒙版 App 今晚开启了 8.0.24.19 大版本的邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/23-2026/12/23。 又一大版本的发布意味着微信鸿蒙版离功能补完又近一步。博主 @熠熠玩数码 此前透露，微信鸿蒙版 App 的适配已经接近尾声， 大量功能逐步灰度开放中 。有网友认为这个灰度速度比较慢，可能半年都灰度不到，博主回复称：“五分之四咯。” 值得一提的是，微信官方公众号“微信派”在今年 10 月发文，回顾了鸿蒙版 App 的“两年狂奔”。据介绍，鸿蒙版以两年内交付了 23 个大版本，272 个小版本",
-     "source": "IT之家",
-     "zh": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级"
-    },
-    {
-     "title": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排",
-     "link": "https://www.ithome.com/1/031/228.htm",
-     "pubDate": "Mon, 23 Nov 2026 15:15:25 GMT",
-     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，面对网友提问品牌未来规划是否会扩展至电脑、手环、智能家居，刘赫表示：“安排，我们是全场景的， 手机只是开始 。” 最新爆料显示， 华为子品牌星芒除了手机，还会有平板、笔记本、穿戴产品等 ，目前确认「星芒小平板」已安排。星芒品牌主打先锋科技，前期产品大部分是华为换皮，后期会有独立开发的",
-     "source": "IT之家",
-     "zh": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排"
-    },
-    {
-     "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
-     "link": "https://www.ithome.com/1/031/219.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:58:55 GMT",
-     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为官网最新显示， 星芒 OSTA O1 Pro 支持 eSIM 能力 。 该功能需开通运营商相关业务使用，同一个手机可以存储最多 2 个 eSIM 号码，目前仅部分运营商提供 eSIM 业务。 当前同一个 eSIM 手机上最多允许支持四个号码 （2 张实体卡号码 + 2 个 eSIM 号码）， 可以同时使用两个号码 （可支持“两张实体",
-     "source": "IT之家",
-     "zh": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡"
-    },
-    {
-     "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
-     "link": "https://www.solidot.org/story?sid=85970",
-     "pubDate": "Mon, 23 Nov 2026 22:50:17 +0800",
-     "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键",
-     "source": "Solidot",
-     "zh": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险"
-    },
-    {
-     "title": "英伟达重新任命黄仁勋为 CEO",
-     "link": "https://www.solidot.org/story?sid=85969",
-     "pubDate": "Mon, 23 Nov 2026 22:30:59 +0800",
-     "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
-     "source": "Solidot",
-     "zh": "英伟达重新任命黄仁勋为 CEO"
-    },
-    {
-     "title": "Jensen Huang Is Back as Nvidia CEO",
-     "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-     "pubDate": "Mon, 23 Nov 2026 14:27:35 +0000",
-     "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-     "source": "WIRED",
-     "zh": "Jensen Huang Is Back as Nvidia CEO"
     }
    ]
   },
@@ -2260,7 +2260,7 @@ window.INDUSTRY_DATA = {
     {
      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-     "pubDate": "Mon, 23 Nov 2026 22:42:40 GMT",
+     "pubDate": "Mon, 23 Nov 2026 22:43:38 GMT",
      "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
      "source": "CNBC",
      "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 03:52:20",
+ "generated_at": "2026/11/24 04:12:08",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
      "source": "TechCrunch AI",
      "zh": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses"
+    },
+    {
+     "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+     "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+     "pubDate": "Mon, 23 Nov 2026 19:11:40 +0000",
+     "summary": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. The post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPo",
+     "source": "MarkTechPost",
+     "zh": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice"
     },
     {
      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
@@ -103,14 +111,6 @@
      "summary": "智东西 编译 | 云鹏 编辑 | 心缘 智东西11月23日消息，刚刚， 英伟达官宣，恢复黄仁勋总裁、首席执行官及董事职务。 ▲英伟达官方声明 黄仁勋说道： “我很荣幸能够重返英伟达， 在一场新工业革命的开端，领导这家全球最具影响力的科技公司之一…… 我迫不及待地想要重返工作岗位。” 官方新闻中提到，董事会与黄仁勋会谈， 对其坦诚态度及领导英伟达的能力表示满意，一致投票决定恢复其职务。 此前任命的临时CEO科莱特·克雷斯（Colette Kress）继续担任CFO，曾明确表示董事会不考虑邀请黄仁勋回归的哈维·C·琼斯（Harvey C. Jones），继续担任董事会主席。 美国总统 特朗普 随即",
      "source": "智东西",
      "zh": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文"
-    },
-    {
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-     "pubDate": "Mon, 23 Nov 2026 14:11:17 GMT",
-     "summary": "Could the scientific method be emergent?",
-     "source": "Import AI",
-     "zh": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark"
     },
     {
      "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "This Little Electric Truck Looks Like France's Answer To The Slate",
+     "link": "https://insideevs.com/news/816491/kilow-la-bagnole-ev-truck/",
+     "pubDate": "Mon, 23 Nov 2026 19:50:20 +0000",
+     "summary": "Only the French could make a cheap, utilitarian EV look this cute.",
+     "source": "InsideEVs",
+     "zh": "This Little Electric Truck Looks Like France's Answer To The Slate"
+    },
+    {
      "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
      "link": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
      "pubDate": "Mon, 23 Nov 2026 19:35:36 +0000",
@@ -761,14 +769,6 @@
      "zh": "The BMW iX5 Was Driven Until It Died. It Had A Surprising Amount Of Hidden Range Left"
     },
     {
-     "title": "The Mercedes-Benz EQS Sedan, EQS SUV, And EQE SUV Soldier On For 2027",
-     "link": "https://insideevs.com/news/816403/2027-mercedes-benz-eqs-sedan-eqs-suv-eqe-suv-pricing/",
-     "pubDate": "Mon, 23 Nov 2026 08:29:21 +0000",
-     "summary": "The EQE Sedan may have been discontinued, but Mercedes-Benz’s remaining EQ lineup lives on for 2027. Here's how much they cost.",
-     "source": "InsideEVs",
-     "zh": "The Mercedes-Benz EQS Sedan, EQS SUV, And EQE SUV Soldier On For 2027"
-    },
-    {
      "title": "Xpeng says Mona L05 November deliveries exceed 10,000 as Mona lineup set to top 400,000 owners",
      "link": "https://cnevpost.com/2026/11/23/xpeng-mona-l05-nov-deliveries-exceed-10000/",
      "pubDate": "Mon, 23 Nov 2026 07:28:50 +0000",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
+     "link": "https://cleantechnica.com/2026/11/23/cop-31-plants-a-big-wet-kiss-on-failed-carbon-capture-technology/",
+     "pubDate": "Mon, 23 Nov 2026 20:05:11 +0000",
+     "summary": "COP 31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqué — language that was included two years ago at the ... [continued] ",
+     "source": "CleanTechnica",
+     "zh": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology"
+    },
+    {
+     "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
+     "link": "https://oilprice.com/Energy/Energy-General/Washingtons-Iran-Strategy-Risks-Strengthening-Its-Biggest-Rivals.html",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 -0600",
+     "summary": "A renewed US-Israeli attack on Iran will bring economic disruption, security risks, and geopolitical realignment across Central Asia. The five republics would prefer to avoid involvement, but geography limits their ability to insulate themselves from the conflict. Iran is an important potential outl",
+     "source": "OilPrice",
+     "zh": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals"
+    },
+    {
      "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-443-Billion-Deal-with-Vaar-Energi.html",
      "pubDate": "Mon, 23 Nov 2026 13:30:00 -0600",
@@ -911,14 +927,6 @@
      "summary": "Spot electricity prices in Japan surged on Monday to their highest level since August 2022 as gas demand is set to rise amid expectations of snowfall and colder weather in the coming days. Expected higher gas demand in the Chubu and Hokkaido regions, with gas now at its highest price in four years i",
      "source": "OilPrice",
      "zh": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives"
-    },
-    {
-     "title": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts",
-     "link": "https://oilprice.com/Energy/Energy-General/Americas-Biggest-Oil-Export-Port-Faces-Thousands-of-Cyberattack-Attempts.html",
-     "pubDate": "Mon, 23 Nov 2026 11:00:00 -0600",
-     "summary": "The port that ships most of America's crude oil overseas is now fending off \"hundreds or even thousands\" of attempts to break into its systems every day, Port of Corpus Christi CEO Kent Britton told the Financial Times, as hackers step up a campaign against US ports and the cargo ships that call on ",
-     "source": "OilPrice",
-     "zh": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts"
     },
     {
      "title": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E",
@@ -991,14 +999,6 @@
      "summary": "I recently discussed the potential of the plug-in VPP from Jackery and Every Electric to transform urban energy storage. But the current program could be just the start. The more I discussed it at RE+, the more it started making me thing about where it could go in the future. ... [continued] The pos",
      "source": "CleanTechnica",
      "zh": "Pondering The Potential Of Plug-In VPP"
-    },
-    {
-     "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
-     "link": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
-     "pubDate": "Mon, 23 Nov 2026 13:37:39 +0000",
-     "summary": "The startup Plug Power is among the green hydrogen stakeholders carving out more space for renewable energy in the US market, despite last year's sharp U-turn in federal energy policy. The post Three Green Hydrogen Projects Slip Through The Trump Chopper appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Three Green Hydrogen Projects Slip Through The Trump Chopper"
     },
     {
      "title": "India’s launches pilot to help discoms manage distributed solar resources",
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Capricor says it will challenge FDA's rejection of Duchenne therapy",
+     "link": "https://endpoints.news/capricor-says-it-will-challenge-fdas-rejection-of-duchenne-therapy/",
+     "pubDate": "Mon, 23 Nov 2026 19:50:42 +0000",
+     "summary": "Capricor Therapeutics will appeal the FDA’s Friday rejection of its cell therapy for Duchenne muscular dystrophy, CEO Linda Marbán said Monday. During an interview with Endpoints News, Marbán disputed data integrity concerns raised by the ...",
+     "source": "Endpoints News",
+     "zh": "Capricor says it will challenge FDA's rejection of Duchenne therapy"
+    },
+    {
      "title": "FDA approves BridgeBio rare disease drug for muscular dystrophy",
      "link": "https://endpoints.news/fda-approves-bridgebio-rare-disease-drug-for-muscular-dystrophy/",
      "pubDate": "Mon, 23 Nov 2026 19:13:17 +0000",
@@ -1143,14 +1151,6 @@
      "summary": "A House panel focused on economic competition with China warns that the country's growing prowess in the biotech sector, paired with multiple inefficiencies in the US, is shifting global medicine development overseas. The Select Committee ...",
      "source": "Endpoints News",
      "zh": "House committee issues final report on US-China biotech race"
-    },
-    {
-     "title": "Arcus stops Phase 3 study of CD73 inhibitor; Novartis' Leqvio eases heart event risk",
-     "link": "https://endpoints.news/arcus-stops-phase-3-study-of-cd73-inhibitor-novartis-leqvio-eases-heart-event-risk/",
-     "pubDate": "Mon, 23 Nov 2026 15:51:54 +0000",
-     "summary": "Plus, news about IQVIA, Quotient Sciences, CARsgen, Arnatar Therapeutics and Invivyd. Arcus Biosciences cans a Phase 3: The California drug developer ended PRISM-1, a late-stage trial of its CD73 inhibitor quemliclustat ...",
-     "source": "Endpoints News",
-     "zh": "Arcus stops Phase 3 study of CD73 inhibitor; Novartis' Leqvio eases heart event risk"
     },
     {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
@@ -1380,7 +1380,7 @@
      "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
      "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract with NASA to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
     },
@@ -1393,12 +1393,12 @@
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
-     "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+     "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
+     "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
+     "summary": "This budget-priced projector reminded me what light pollution has taken from us",
      "source": "Space.com",
-     "zh": "What did the Soviet Union's final deep space probe actually see on Mars?"
+     "zh": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing"
     },
     {
      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
@@ -1417,12 +1417,28 @@
      "zh": "Laser Focus at the Top of the World"
     },
     {
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
+    },
+    {
      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
      "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
+    },
+    {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1457,6 +1473,14 @@
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1489,6 +1513,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1503,30 +1535,6 @@
      "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
      "source": "SpaceNews",
      "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
-    },
-    {
-     "title": "NASA’s Voyager 1 is one light-day from Earth",
-     "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
-     "pubDate": "Wed, 18 Nov 2026 17:46:40 +0000",
-     "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
-     "source": "Spaceflight Now",
-     "zh": "NASA’s Voyager 1 is one light-day from Earth"
-    },
-    {
-     "title": "Origami and solar arrays",
-     "link": "https://spacenews.com/origami-and-solar-arrays/",
-     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
-     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Origami and solar arrays"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1536,6 +1544,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+     "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+     "pubDate": "Mon, 23 Nov 2026 15:00:20 -0500",
+     "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+     "source": "BleepingComputer",
+     "zh": "OpenRouter drops AI providers over leaked prompts and secrets"
+    },
     {
      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
@@ -1673,14 +1689,6 @@
      "zh": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos"
     },
     {
-     "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-     "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-     "pubDate": "Mon, 23 Nov 2026 07:02:23 -0500",
-     "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-     "source": "BleepingComputer",
-     "zh": "Call center operator gets 8 years for helping scam 30,000 Americans"
-    },
-    {
      "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
      "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
      "pubDate": "Mon, 23 Nov 2026 11:44:18 +0000",
@@ -1753,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+     "link": "https://www.techmeme.com/261123/p39#a261123p39",
+     "pubDate": "Mon, 23 Nov 2026 15:01:33 -0500",
+     "summary": "Axios : Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was &ldquo;too big to fail&rdquo; for the US economy and a victim of &ldquo;deep state&rdquo; maneuvering &nbsp; &mdash;&nbsp; President Trump pushed Nvidia to reinstate Jensen Huang as CEO after allies argued he w",
+     "source": "Techmeme",
+     "zh": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)"
+    },
+    {
      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
      "pubDate": "Mon, 23 Nov 2026 19:38:13 +0000",
@@ -1788,7 +1804,7 @@
      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
      "link": "https://arm.jonpalmisc.com/",
      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 136 # Comments: 22",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 193 # Comments: 32",
      "source": "Hacker News",
      "zh": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\""
     },
@@ -1812,7 +1828,7 @@
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
      "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
-     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 107 # Comments: 16",
+     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 153 # Comments: 26",
      "source": "Hacker News",
      "zh": "Apple removed my open-source app from EU App Stores after 9 years"
     },
@@ -1849,14 +1865,6 @@
      "zh": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)"
     },
     {
-     "title": "Sources: Nvidia board&apos;s decision to reinstate Jensen Huang was done without consulting Nvidia&apos;s senior leadership, who were only informed at the last minute (Bloomberg)",
-     "link": "https://www.techmeme.com/261123/p33#a261123p33",
-     "pubDate": "Mon, 23 Nov 2026 13:01:16 -0500",
-     "summary": "Bloomberg : Sources: Nvidia board's decision to reinstate Jensen Huang was done without consulting Nvidia's senior leadership, who were only informed at the last minute &nbsp; &mdash;&nbsp; The Nvidia Corp. board's surprise move to reinstate ousted Chief Executive Officer Jensen Huang was done witho",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia board&apos;s decision to reinstate Jensen Huang was done without consulting Nvidia&apos;s senior leadership, who were only informed at the last minute (Bloomberg)"
-    },
-    {
      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
      "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
      "pubDate": "Mon, 23 Nov 2026 17:52:56 +0000",
@@ -1868,7 +1876,7 @@
      "title": "How should an LLM see a computer?",
      "link": "https://www.greptile.com/blog/trex-computer-use",
      "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
-     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 14 # Comments: 10",
+     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 18 # Comments: 10",
      "source": "Hacker News",
      "zh": "How should an LLM see a computer?"
     },
@@ -1876,7 +1884,7 @@
      "title": "Kagi Mail (public beta)",
      "link": "https://blog.kagi.com/kagi-mail-public-beta",
      "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 171 # Comments: 128",
+     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 183 # Comments: 137",
      "source": "Hacker News",
      "zh": "Kagi Mail (public beta)"
     },
@@ -1884,7 +1892,7 @@
      "title": "Meta throws out its net-zero goal — its competitors should be furious",
      "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
      "pubDate": "Mon, 23 Nov 2026 17:13:45 +0000",
-     "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+     "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
      "source": "TechCrunch",
      "zh": "Meta throws out its net-zero goal — its competitors should be furious"
     },
@@ -1892,7 +1900,7 @@
      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
      "link": "https://twitter.com/ylecun/status/2124550037912920090",
      "pubDate": "Mon, 23 Nov 2026 17:07:26 +0000",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 181 # Comments: 87",
+     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 239 # Comments: 121",
      "source": "Hacker News",
      "zh": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control"
     },
@@ -2000,6 +2008,54 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Game for days with the Razer BlackShark V2 Pro at 54% off",
+     "link": "https://www.androidauthority.com/razer-blackshark-v2-pro-black-friday-deal-3738485/",
+     "pubDate": "Mon, 23 Nov 2026 20:02:33 +0000",
+     "summary": "The Razer BlackShark V2 Pro wireless headset is down to $92.80 on Amazon, its lowest price in six months.",
+     "source": "Android Authority",
+     "zh": "Game for days with the Razer BlackShark V2 Pro at 54% off"
+    },
+    {
+     "title": "HBO Max, Peacock, Apple TV, more: Here are the best Black Friday deals",
+     "link": "https://9to5mac.com/2026/11/23/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
+     "pubDate": "Mon, 23 Nov 2026 19:53:17 +0000",
+     "summary": "The holidays are often the best time to subscribe to streaming services at deep discounts, and that’s true again this year. Here are the best Black Friday deals that are already live for HBO Max, Peacock, Apple TV, and more. more…",
+     "source": "9to5Mac",
+     "zh": "HBO Max, Peacock, Apple TV, more: Here are the best Black Friday deals"
+    },
+    {
+     "title": "Grab Samsung’s Galaxy Watch 9 ahead of Black Friday and score a free $50 Amazon gift card",
+     "link": "https://9to5google.com/2026/11/23/grab-samsungs-galaxy-watch-9-ahead-of-black-friday-and-score-a-free-50-amazon-gift-card/",
+     "pubDate": "Mon, 23 Nov 2026 19:53:00 +0000",
+     "summary": "Smartwatches can practically feel like a must-have these days, especially for tracking your health and fitness while on the move. Just as with most gadgets, though, prices just keep rising thanks to the ongoing RAM crunch. This Black Friday, you can pick up Samsung’s Galaxy Watch 9 in either size wh",
+     "source": "9to5Google",
+     "zh": "Grab Samsung’s Galaxy Watch 9 ahead of Black Friday and score a free $50 Amazon gift card"
+    },
+    {
+     "title": "MagSafe Monday: Anker’s MagGo Pro 2 has a built-in fan to keep 25W Qi2.2 charging from slowing down",
+     "link": "https://9to5mac.com/2026/11/23/anker-maggo-2-pro/",
+     "pubDate": "Mon, 23 Nov 2026 19:51:00 +0000",
+     "summary": "The biggest issue with Qi 2.2 on MagSafe batteries is the slowdown caused by heat. It doesn’t matter if the battery specs say it can charge at Qi2.2 speeds if the heat slows it down after 15 minutes. The Anker MagGo 2 Pro directly targets heat with a built-in fan in the MagSafe battery. more…",
+     "source": "9to5Mac",
+     "zh": "MagSafe Monday: Anker’s MagGo Pro 2 has a built-in fan to keep 25W Qi2.2 charging from slowing down"
+    },
+    {
+     "title": "The VR Forever Gaming Awards return in December with tons of demos and discounts",
+     "link": "https://9to5google.com/2026/11/23/the-vr-forever-gaming-awards-return-in-december-with-tons-of-demos-and-discounts/",
+     "pubDate": "Mon, 23 Nov 2026 19:49:50 +0000",
+     "summary": "The industry’s biggest players are joining together to celebrate all the amazing VR games you probably don’t know about (but should). more…",
+     "source": "9to5Google",
+     "zh": "The VR Forever Gaming Awards return in December with tons of demos and discounts"
+    },
+    {
+     "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+     "link": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+     "pubDate": "Mon, 23 Nov 2026 19:47:27 +0000",
+     "summary": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO.",
+     "source": "Engadget",
+     "zh": "NVIDIA's Jensen Huang will testify publicly before senators on December 3"
+    },
     {
      "title": "The infamous GTA 6 hacker has been released after pleading guilty",
      "link": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
@@ -2113,14 +2169,6 @@
      "zh": "Google Meet unlocks 1080p video streaming for all accounts on web"
     },
     {
-     "title": "How to clear the cache on your Fire TV",
-     "link": "https://www.engadget.com/2320174/how-to-clear-cache-fire-tv/",
-     "pubDate": "Mon, 23 Nov 2026 18:15:00 +0000",
-     "summary": "Cache keeps software running smoothly, but can lead to problems if it gets too big and your device runs out of storage - which is quite easy with Fire TV.",
-     "source": "Engadget",
-     "zh": "How to clear the cache on your Fire TV"
-    },
-    {
      "title": "Gemini could soon let you archive old chats instead of deleting them",
      "link": "https://www.androidauthority.com/google-gemini-chat-archiving-feature-3738433/",
      "pubDate": "Mon, 23 Nov 2026 18:09:20 +0000",
@@ -2151,14 +2199,6 @@
      "summary": "The vibration motor has more potential than Google allows.",
      "source": "Android Authority",
      "zh": "Fitbit Air gets unofficial call and notification alerts on Android and iOS"
-    },
-    {
-     "title": "Apple’s new M6 MacBook Pro gets its first discount, now $200 off",
-     "link": "https://www.androidauthority.com/macbook-pro-m6-deal-3738470/",
-     "pubDate": "Mon, 23 Nov 2026 17:42:52 +0000",
-     "summary": "The 14-inch MacBook Pro with M6 is 10% off in Space Black on Amazon, its first price cut since launch.",
-     "source": "Android Authority",
-     "zh": "Apple’s new M6 MacBook Pro gets its first discount, now $200 off"
     },
     {
      "title": "AI Mode adding Google Drive, Wallet, & Gemini app integration",
@@ -2193,38 +2233,6 @@
      "zh": "Apple has three products coming next year that I’m very excited for"
     },
     {
-     "title": "Chromecast with Google TV gets first update of 2026 [U: Wide rollout]",
-     "link": "https://9to5google.com/2026/11/23/chromecast-google-tv-2026-update/",
-     "pubDate": "Mon, 23 Nov 2026 16:46:00 +0000",
-     "summary": "Following the last release 11 months ago , Google is rolling out the first update of 2026 to the Chromecast with Google TV (4K). more…",
-     "source": "9to5Google",
-     "zh": "Chromecast with Google TV gets first update of 2026 [U: Wide rollout]"
-    },
-    {
-     "title": "Black Friday deals: New Android Alexa Tablets from $130, Echo smart speakers up to 60% off, Anker charger sale, more",
-     "link": "https://9to5google.com/2026/11/23/black-friday-deals-android-alexa-tablets-echo-anker/",
-     "pubDate": "Mon, 23 Nov 2026 16:36:34 +0000",
-     "summary": "Amazon is moving into Day 5 of its massive Pixel 11 Pro, and Pixel 11 Pro XL. Over the weekend Amazon dropped the prices even lower on a range of its latest releases, including the new Android Alexa Tablets that now start down at $130 shipped as well as the all-new Echo Dot, Echo Studio with Home Ca",
-     "source": "9to5Google",
-     "zh": "Black Friday deals: New Android Alexa Tablets from $130, Echo smart speakers up to 60% off, Anker charger sale, more"
-    },
-    {
-     "title": "The latest on Apple Wallet ID support in three long-promised states",
-     "link": "https://9to5mac.com/2026/11/23/apple-wallet-id-support-coming-soon-to-connecticut/",
-     "pubDate": "Mon, 23 Nov 2026 16:32:10 +0000",
-     "summary": "Support for storing your driver’s license in Apple Wallet has gradually been expanding across the United States. Today, we have a status update on when the feature will go live in Connecticut, which Apple has touted as a planned partner since September 2021 . 9to5Mac is sponsored by Sony : Score Son",
-     "source": "9to5Mac",
-     "zh": "The latest on Apple Wallet ID support in three long-promised states"
-    },
-    {
-     "title": "Black Friday deals: AirPods Pro 3 $100 off, Series 12 $100 off, MacBook Air $310 off, Apple Pencil (USB-C) $49, more",
-     "link": "https://9to5mac.com/2026/11/23/black-friday-deals-airpods-pro-3-series-12-macbook-air/",
-     "pubDate": "Mon, 23 Nov 2026 16:08:45 +0000",
-     "summary": "We are pushing into the final week of Black Friday 2026 and the deals just went wild – Apple’s AirPods Pro 3 are down again to an insane $149 today (that’s $100 off!), the latest Apple Watch Series 12 as dropped again to all-time lows at $100 off , and M5 MacBook Air has dropped to its lowest price ",
-     "source": "9to5Mac",
-     "zh": "Black Friday deals: AirPods Pro 3 $100 off, Series 12 $100 off, MacBook Air $310 off, Apple Pencil (USB-C) $49, more"
-    },
-    {
      "title": "Honor Magic9 Lite+ tipped to pack a 9,530mAh battery in Europe, more specs surface",
      "link": "https://www.gsmarena.com/honor_magic9_lite_tipped_to_pack_a_9530mah_battery_in_europe_more_specs_surface-news-75595.php",
      "pubDate": "Mon, 23 Nov 2026 17:01:02 +0100",
@@ -2249,20 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "‘All the same issues that were here before Jensen resigned are still here’ – Dan Niles",
-     "link": "https://seekingalpha.com/news/4675776-all-the-same-issues-that-were-here-before-jensen-resigned-are-still-here-dan-niles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:45:58 -0500",
+     "title": "Shore Bancshares declares $0.14 dividend",
+     "link": "https://seekingalpha.com/news/4675786-shore-bancshares-declares-0_14-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:05:35 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "‘All the same issues that were here before Jensen resigned are still here’ – Dan Niles"
+     "zh": "Shore Bancshares declares $0.14 dividend"
     },
     {
-     "title": "Super Micro Computer follows tech stocks higher, climbs 14%",
-     "link": "https://seekingalpha.com/news/4675770-super-micro-computer-follows-tech-stocks-higher-climbs-14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:44:07 -0500",
+     "title": "Rocket Lab advances 8% as tech shares rebound",
+     "link": "https://seekingalpha.com/news/4675780-rocket-lab-advances-8-as-tech-shares-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:05:23 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Super Micro Computer follows tech stocks higher, climbs 14%"
+     "zh": "Rocket Lab advances 8% as tech shares rebound"
+    },
+    {
+     "title": "Texas Instruments benefits from tech surge, advances 10%",
+     "link": "https://seekingalpha.com/news/4675779-texas-instruments-benefits-from-tech-surge-advances-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:03:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Texas Instruments benefits from tech surge, advances 10%"
+    },
+    {
+     "title": "Kalshi suspends its operations in Utah - report",
+     "link": "https://seekingalpha.com/news/4675777-kalshi-suspends-its-operations-in-utah-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:00:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kalshi suspends its operations in Utah - report"
+    },
+    {
+     "title": "Microchip Technology rises 10% as tech shares rally",
+     "link": "https://seekingalpha.com/news/4675782-microchip-technology-rises-10-as-tech-shares-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 14:57:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Microchip Technology rises 10% as tech shares rally"
+    },
+    {
+     "title": "Why Monday’s huge stock-market rally is actually a warning sign for bulls",
+     "link": "https://www.marketwatch.com/story/why-mondays-huge-stock-market-rally-is-actually-a-warning-sign-for-bulls-49d227a8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 19:54:00 GMT",
+     "summary": "The majority of the market’s biggest daily rallies occur during bear markets",
+     "source": "MarketWatch",
+     "zh": "Why Monday’s huge stock-market rally is actually a warning sign for bulls"
+    },
+    {
+     "title": "Corning carried higher by AI rally, advances 15%",
+     "link": "https://seekingalpha.com/news/4675783-corning-carried-higher-by-ai-rally-advances-15?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 14:52:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corning carried higher by AI rally, advances 15%"
+    },
+    {
+     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+     "pubDate": "Mon, 23 Nov 2026 19:52:21 GMT",
+     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+     "source": "CNBC",
+     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
     },
     {
      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
@@ -2273,22 +2329,6 @@
      "zh": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia"
     },
     {
-     "title": "Xpeng subsidiary's 'flying car' completes tiltrotor transition flight",
-     "link": "https://seekingalpha.com/news/4675772-xpeng-subsidiarys-flying-car-completes-tiltrotor-transition-flight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:39:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Xpeng subsidiary's 'flying car' completes tiltrotor transition flight"
-    },
-    {
-     "title": "AI 'too big to fail' as Jensen's return triggers rally - Nomura",
-     "link": "https://seekingalpha.com/news/4675774-ai-too-big-to-fail-as-jensens-return-triggers-rally-nomura?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:38:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI 'too big to fail' as Jensen's return triggers rally - Nomura"
-    },
-    {
      "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 19:32:00 GMT",
@@ -2297,36 +2337,12 @@
      "zh": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?"
     },
     {
-     "title": "Securitize provides tokenization services for OKXICE's new 24/7 trading venue",
-     "link": "https://seekingalpha.com/news/4675773-securitize-provides-tokenization-services-for-okxices-new-24-7-trading-venue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:28:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Securitize provides tokenization services for OKXICE's new 24/7 trading venue"
-    },
-    {
      "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
      "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 19:28:00 GMT",
      "summary": "“The bigger threat would be losing the brainpower of somebody like Jensen,” the president said amid concerns about corporate governance rules and export controls",
      "source": "MarketWatch",
      "zh": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail"
-    },
-    {
-     "title": "XPeng breaks new ground by offering test rides to customers in Paris",
-     "link": "https://seekingalpha.com/news/4675755-xpeng-breaks-new-ground-by-offering-test-rides-to-customers-in-paris?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 14:24:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "XPeng breaks new ground by offering test rides to customers in Paris"
-    },
-    {
-     "title": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO",
-     "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-     "pubDate": "Mon, 23 Nov 2026 19:19:08 GMT",
-     "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-     "source": "CNBC",
-     "zh": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO"
     },
     {
      "title": "孕产妇、儿童看病就医 国家卫健委最新明确",
@@ -2372,7 +2388,7 @@
      "title": "三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年",
      "link": "http://finance.eastmoney.com/news/1354,202611243937745926.html",
      "pubDate": "Tue, 24 Nov 2026 03:09:19 +0800",
-     "summary": "财联社11月24日讯（编辑李莹） AI浪潮下， 存储芯片 的订单已排到数年之后。有知情人士近日透露，三星 电子 2027年至2029年的存储产能已近售罄，部分客户正推动将长约延至2031年。媒体指出，主要存储厂商目前仅能满足客户约六到七成的需求。 据媒体当地时间11月21日援引知情人士消息报道，三星 电子 2027年至2029年的大部分 存储芯片 产能已被合同预订。 与此同时，不少客户要求在现有协议之外追加供货，还有部分客户正推动将长期供应协议（LTA）延长至2031年。 报道称，三星与客户正商讨在长约中引入预付款及价格上下限等条款，供需双方的风险与收益由此被提前绑定。 这股抢单热潮在三星10",
+     "summary": "AI浪潮下， 存储芯片 的订单已排到数年之后。有知情人士近日透露，三星 电子 2027年至2029年的存储产能已近售罄，部分客户正推动将长约延至2031年。媒体指出，主要存储厂商目前仅能满足客户约六到七成的需求。 据媒体当地时间11月21日援引知情人士消息报道，三星 电子 2027年至2029年的大部分 存储芯片 产能已被合同预订。 与此同时，不少客户要求在现有协议之外追加供货，还有部分客户正推动将长期供应协议（LTA）延长至2031年。 报道称，三星与客户正商讨在长约中引入预付款及价格上下限等条款，供需双方的风险与收益由此被提前绑定。 这股抢单热潮在三星10月29日的三季度财报电话会上已现端",
      "source": "东方财富股票",
      "zh": "三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年"
     },
@@ -2457,12 +2473,12 @@
      "zh": "黄仁勋回归点燃科技债反弹，全球信用风险指标大幅回落"
     },
     {
-     "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
-     "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 18:14:00 GMT",
-     "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
-     "source": "MarketWatch",
-     "zh": "See how much more money the richest Americans are spending on the holidays compared to everyone else"
+     "title": "The startling return of Jensen Huang",
+     "link": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 18:11:30 GMT",
+     "summary": "Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent",
+     "source": "Financial Times",
+     "zh": "The startling return of Jensen Huang"
     },
     {
      "title": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%",
@@ -2479,14 +2495,6 @@
      "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
      "source": "CNBC",
      "zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now"
-    },
-    {
-     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 17:23:04 GMT",
-     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-     "source": "CNBC",
-     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 04:32:09",
+ "generated_at": "2026/11/24 04:52:10",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+     "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+     "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000",
+     "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+     "source": "TechCrunch AI",
+     "zh": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ"
+    },
     {
      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
@@ -87,14 +95,6 @@
      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
      "source": "TechCrunch AI",
      "zh": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return"
-    },
-    {
-     "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-     "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-     "pubDate": "Mon, 23 Nov 2026 15:04:01 +0000",
-     "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-     "source": "TechCrunch AI",
-     "zh": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing"
     },
     {
      "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+     "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+     "pubDate": "Mon, 23 Nov 2026 20:13:48 GMT",
+     "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
+     "source": "Dark Reading",
+     "zh": "US Cyber Director Pick Signals Shift Toward Expertise"
+    },
+    {
      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
      "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
      "pubDate": "Mon, 23 Nov 2026 15:00:20 -0500",
@@ -1729,14 +1737,6 @@
      "zh": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager"
     },
     {
-     "title": "In Security, Words Matter as Much as Tools, Maybe More",
-     "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-     "pubDate": "Fri, 20 Nov 2026 18:35:40 GMT",
-     "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
-     "source": "Dark Reading",
-     "zh": "In Security, Words Matter as Much as Tools, Maybe More"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1752,6 +1752,22 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+     "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+     "pubDate": "Mon, 23 Nov 2026 20:34:51 +0000",
+     "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+     "source": "Ars Technica",
+     "zh": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret"
+    },
+    {
+     "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+     "pubDate": "Mon, 23 Nov 2026 20:13:18 +0000",
+     "summary": "Article URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html Comments URL: https://news.ycombinator.com/item?id=50618490 Points: 20 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'"
+    },
     {
      "title": "Surveillance pricing uses our personal data to make us pay more",
      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
@@ -1812,7 +1828,7 @@
      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
      "link": "https://arm.jonpalmisc.com/",
      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 353 # Comments: 63",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 417 # Comments: 81",
      "source": "Hacker News",
      "zh": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\""
     },
@@ -1836,7 +1852,7 @@
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
      "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
-     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 234 # Comments: 48",
+     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 268 # Comments: 50",
      "source": "Hacker News",
      "zh": "Apple removed my open-source app from EU App Stores after 9 years"
     },
@@ -1876,7 +1892,7 @@
      "title": "How should an LLM see a computer?",
      "link": "https://www.greptile.com/blog/trex-computer-use",
      "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
-     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 20 # Comments: 15",
+     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 25 # Comments: 17",
      "source": "Hacker News",
      "zh": "How should an LLM see a computer?"
     },
@@ -1884,7 +1900,7 @@
      "title": "Kagi Mail (public beta)",
      "link": "https://blog.kagi.com/kagi-mail-public-beta",
      "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 207 # Comments: 160",
+     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 219 # Comments: 166",
      "source": "Hacker News",
      "zh": "Kagi Mail (public beta)"
     },
@@ -1900,17 +1916,9 @@
      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
      "link": "https://twitter.com/ylecun/status/2124550037912920090",
      "pubDate": "Mon, 23 Nov 2026 17:07:26 +0000",
-     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 383 # Comments: 191",
+     "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 451 # Comments: 227",
      "source": "Hacker News",
      "zh": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control"
-    },
-    {
-     "title": "EasyPost (YC S13) Is Hiring",
-     "link": "https://www.easypost.com/careers/",
-     "pubDate": "Mon, 23 Nov 2026 17:00:05 +0000",
-     "summary": "Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "EasyPost (YC S13) Is Hiring"
     },
     {
      "title": "黄仁勋回来了，但英伟达多了几道规矩",
@@ -1983,14 +1991,6 @@
      "summary": "IT之家 11 月 23 日消息，据用户反馈，微信鸿蒙版 App 今晚开启了 8.0.24.19 大版本的邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/23-2026/12/23。 又一大版本的发布意味着微信鸿蒙版离功能补完又近一步。博主 @熠熠玩数码 此前透露，微信鸿蒙版 App 的适配已经接近尾声， 大量功能逐步灰度开放中 。有网友认为这个灰度速度比较慢，可能半年都灰度不到，博主回复称：“五分之四咯。” 值得一提的是，微信官方公众号“微信派”在今年 10 月发文，回顾了鸿蒙版 App 的“两年狂奔”。据介绍，鸿蒙版以两年内交付了 23 个大版本，272 个小版本",
      "source": "IT之家",
      "zh": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级"
-    },
-    {
-     "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-     "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-     "pubDate": "Mon, 23 Nov 2026 15:23:26 +0000",
-     "summary": "COP31 ended without a consensus deal for the first time since 2009.",
-     "source": "Ars Technica",
-     "zh": "COP31 ends in failure as countries split over fossil fuels, climate finance"
     }
    ]
   },
@@ -2000,6 +2000,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "GTA 6 player gets social ban on PSN after sending a photo of in-game nudity",
+     "link": "https://www.engadget.com/2325800/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity/",
+     "pubDate": "Mon, 23 Nov 2026 20:46:23 +0000",
+     "summary": "Apparently just because it's in the game doesn't mean sharing \"obscene\" content is okay.",
+     "source": "Engadget",
+     "zh": "GTA 6 player gets social ban on PSN after sending a photo of in-game nudity"
+    },
+    {
+     "title": "SanDisk’s tiny 1TB Extreme Fit USB-C drive hits a six-month low",
+     "link": "https://www.androidauthority.com/sandisk-extreme-fit-1tb-deal-3738556/",
+     "pubDate": "Mon, 23 Nov 2026 20:39:03 +0000",
+     "summary": "Save $46 on SanDisk's plug-and-stay 1TB flash drive, which usually sells for $249.99 on Amazon.",
+     "source": "Android Authority",
+     "zh": "SanDisk’s tiny 1TB Extreme Fit USB-C drive hits a six-month low"
+    },
+    {
+     "title": "Anthropic launches new Claude Ship feature for builders",
+     "link": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+     "pubDate": "Mon, 23 Nov 2026 20:32:31 +0000",
+     "summary": "Anthropic is launching a new tool for builders called Claude Ship. The new AI feature allows Claude to “review pull requests, fix them, and approve the ones that a team’s policy allows.” more…",
+     "source": "9to5Mac",
+     "zh": "Anthropic launches new Claude Ship feature for builders"
+    },
     {
      "title": "The $297 Meta Quest 3S deal is finally back in stock",
      "link": "https://9to5google.com/2026/11/23/meta-quest-3s-black-friday-week-2026-deal/",
@@ -2153,14 +2177,6 @@
      "zh": "Circle to Search might drop its floating bar in favor of a new screen-bottom sheet"
     },
     {
-     "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
-     "link": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
-     "pubDate": "Mon, 23 Nov 2026 19:20:26 +0000",
-     "summary": "The SlideTag will come in a blind box with nine fun designs.",
-     "source": "Engadget",
-     "zh": "Kodak's SlideTag combines a digital photo frame and an AirTag"
-    },
-    {
      "title": "Google Meet 1080p video is no longer paywalled on the web",
      "link": "https://www.androidauthority.com/google-meet-1080p-video-sending-expansion-3738486/",
      "pubDate": "Mon, 23 Nov 2026 19:15:02 +0000",
@@ -2177,28 +2193,12 @@
      "zh": "Nothing’s first AI-native device is the Ear note, and here’s our best look at how it works"
     },
     {
-     "title": "iOS 27 gave your iPhone an alarm feature that’s long been missing",
-     "link": "https://9to5mac.com/2026/11/23/ios-27-gave-your-iphone-an-alarm-feature-thats-long-been-missing/",
-     "pubDate": "Mon, 23 Nov 2026 18:41:50 +0000",
-     "summary": "Alarms are one of the most important iPhone features, and iOS 27 offers a key feature that should help your alarm actually wake you: a new volume setting for alarms that’s independent of other volume settings. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27 gave your iPhone an alarm feature that’s long been missing"
-    },
-    {
      "title": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display",
      "link": "https://www.dpreview.com/news/kodaks-new-slidetag-is-a-keychain-tracker-with-a-built-in-e-ink-photo-display/",
      "pubDate": "Mon, 23 Nov 2026 18:27:19 +0000",
      "summary": "Reto's Kodak-branded tracker helps you find your keys while showing off your favorite photo in a retro slide-style frame.",
      "source": "DPReview",
      "zh": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display"
-    },
-    {
-     "title": "Gemini could soon let you archive old chats instead of deleting them",
-     "link": "https://www.androidauthority.com/google-gemini-chat-archiving-feature-3738433/",
-     "pubDate": "Mon, 23 Nov 2026 18:09:20 +0000",
-     "summary": "Making cluttered histories a thing of the past.",
-     "source": "Android Authority",
-     "zh": "Gemini could soon let you archive old chats instead of deleting them"
     },
     {
      "title": "One app for culling, editing, retouching and client galleries  —  now 20% off for Black Friday",
@@ -2249,6 +2249,62 @@
    "total": 13,
    "items": [
     {
+     "title": "AI surge sends FuelCell Energy higher by 18%",
+     "link": "https://seekingalpha.com/news/4675789-ai-surge-sends-fuelcell-energy-higher-by-18?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:45:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI surge sends FuelCell Energy higher by 18%"
+    },
+    {
+     "title": "Roundhill GOOGL WeeklyPay ETF declares $0.4212 dividend",
+     "link": "https://seekingalpha.com/news/4675814-roundhill-googl-weeklypay-etf-declares-0_4212-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:43:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roundhill GOOGL WeeklyPay ETF declares $0.4212 dividend"
+    },
+    {
+     "title": "Roundhill Gold Miners WeeklyPay ETF declares $0.2081 dividend",
+     "link": "https://seekingalpha.com/news/4675812-roundhill-gold-miners-weeklypay-etf-declares-0_2081-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:41:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roundhill Gold Miners WeeklyPay ETF declares $0.2081 dividend"
+    },
+    {
+     "title": "Roundhill COST WeeklyPay ETF declares $0.2646 dividend",
+     "link": "https://seekingalpha.com/news/4675811-roundhill-cost-weeklypay-etf-declares-0_2646-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:41:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roundhill COST WeeklyPay ETF declares $0.2646 dividend"
+    },
+    {
+     "title": "Cerebras Systems climbs 21% as broad market rally lifts tech stocks",
+     "link": "https://seekingalpha.com/news/4675791-cerebras-systems-climbs-21-as-broad-market-rally-lifts-tech-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 15:40:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cerebras Systems climbs 21% as broad market rally lifts tech stocks"
+    },
+    {
+     "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+     "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 20:40:00 GMT",
+     "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+     "source": "MarketWatch",
+     "zh": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history"
+    },
+    {
+     "title": "礼来并购负责人：“肿瘤是下一支柱”，未来五年八款抗癌新药有望上市",
+     "link": "https://wallstreetcn.com/articles/3786549",
+     "pubDate": "Tue, 24 Nov 2026 04:29:54 +0800",
+     "summary": "礼来公司在肥胖症市场确立主导地位后，正将战略重心转向肿瘤领域，并以史无前例的并购力度为这一布局提速。 据彭博，礼来业务拓展与肿瘤部门负责人Jake Van Naarden介绍， 公司目前有八款肿瘤药物处于或即将进入晚期临床开发阶段，有望在未来五年内陆续上市。 其中三款药物预计明年获得晚期临床试验结果，包括乳腺癌口服药Inluriyo——该药此前已获批用于特定晚期或转移性乳腺癌患者，公司正测试其在早期疾病中降低复发风险的效果。 这将直接与罗氏（Roche Holding AG）同类药物Wilserdly形成竞争，后者周一刚获美国食品药品监督管理局（FDA）批准用于早期乳腺癌患者。 在并购层面，礼",
+     "source": "华尔街见闻",
+     "zh": "礼来并购负责人：“肿瘤是下一支柱”，未来五年八款抗癌新药有望上市"
+    },
+    {
      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 20:25:00 GMT",
@@ -2257,52 +2313,12 @@
      "zh": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing"
     },
     {
-     "title": "Anthropic unveils Claude Ship, aimed at pull requests",
-     "link": "https://seekingalpha.com/news/4675797-anthropic-unveils-claude-ship-aimed-at-pull-requests?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:19:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic unveils Claude Ship, aimed at pull requests"
-    },
-    {
-     "title": "Braskem jumps on reports creditors reach deal on debt plan",
-     "link": "https://seekingalpha.com/news/4675787-braskem-jumps-on-reports-creditors-reach-deal-on-debt-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:16:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Braskem jumps on reports creditors reach deal on debt plan"
-    },
-    {
-     "title": "Current market setup is ‘conducive to a year-end surge’ – analyst",
-     "link": "https://seekingalpha.com/news/4675798-current-market-setup-is-conducive-to-a-year-end-surge-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:15:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Current market setup is ‘conducive to a year-end surge’ – analyst"
-    },
-    {
-     "title": "DOJ files action to recover over $1B of crypto assets stolen in Binance hack",
-     "link": "https://seekingalpha.com/news/4675785-doj-files-action-to-reover-over-1b-of-crypto-assets-stolen-in-binance-hack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:12:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "DOJ files action to recover over $1B of crypto assets stolen in Binance hack"
-    },
-    {
-     "title": "First Trust Val Line® Div Idx ETF CAD-Hgd declares CAD 0.065 dividend",
-     "link": "https://seekingalpha.com/news/4675796-first-trust-val-line-div-idx-etf-cad-hgd-declares-cad-0_065-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:12:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Trust Val Line® Div Idx ETF CAD-Hgd declares CAD 0.065 dividend"
-    },
-    {
-     "title": "First Trust Senior Loan ETF (CAD-Hedged) declares CAD 0.075 dividend",
-     "link": "https://seekingalpha.com/news/4675795-first-trust-senior-loan-etf-cad-hedged-declares-cad-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 15:12:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Trust Senior Loan ETF (CAD-Hedged) declares CAD 0.075 dividend"
+     "title": "不再强制留存！Anthropic推出EFS系统，允许企业自主掌控AI数据",
+     "link": "https://wallstreetcn.com/articles/3786547",
+     "pubDate": "Tue, 24 Nov 2026 04:18:46 +0800",
+     "summary": "Anthropic向企业客户交出数据控制权，以化解此前强制留存政策引发的争议。 11月23日，Anthropic正式推出\"企业前沿安全防护系统\"（Enterprise Frontier Safeguards，EFS）公开测试版，允许企业客户在使用其最强大AI模型时自主掌控数据存储。 该系统针对使用Mythos和Fable两款旗舰AI模型的企业客户，仍要求将提示词与响应内容保留30天，但允许客户将数据存储在自有云服务上，而非Anthropic的服务器。 客户将自持加密密钥，Anthropic软件仅对存储数据进行定期扫描以检测潜在攻击，且无法访问相关数据内容。这一举措与公司今年6月宣布的强制数据留",
+     "source": "华尔街见闻",
+     "zh": "不再强制留存！Anthropic推出EFS系统，允许企业自主掌控AI数据"
     },
     {
      "title": "Why Monday’s huge stock-market rally is actually a warning sign for bulls",
@@ -2313,20 +2329,28 @@
      "zh": "Why Monday’s huge stock-market rally is actually a warning sign for bulls"
     },
     {
-     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-     "pubDate": "Mon, 23 Nov 2026 19:52:21 GMT",
-     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
-     "source": "CNBC",
-     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
-    },
-    {
      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 19:44:00 GMT",
      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
      "source": "MarketWatch",
      "zh": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia"
+    },
+    {
+     "title": "黄仁勋称\"第二次担任CEO会做得更好\"，重返英伟达总部，数百名员工夹道欢迎",
+     "link": "https://wallstreetcn.com/articles/3786546",
+     "pubDate": "Tue, 24 Nov 2026 03:41:39 +0800",
+     "summary": "黄仁勋以英伟达CEO身份重返公司总部，结束了一场震动科技界与金融市场的权力更迭风波。 据CNBC披露的现场视频，黄仁勋抵达英伟达位于加利福尼亚州圣克拉拉的总部后，迅速受到数百名员工的热烈迎接。 他在现场公开表示：\"我第二次担任CEO，会做得更好。\"这一表态显示，他对此前事件有所反思，并正以务实姿态回归领导岗位。 黄仁勋的复职对市场情绪形成提振，英伟达周一一度上涨35%，截至发稿上涨31%。据悉，股价走势正是促使董事会决定重新启用他的关键因素之一。 周末两场董事会会议促成复职 据消息人士透露，黄仁勋的复职源于一系列密集的幕后运作。事件起点可追溯至上周五，高级政府官员向英伟达董事会明确表示，黄仁勋",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋称\"第二次担任CEO会做得更好\"，重返英伟达总部，数百名员工夹道欢迎"
+    },
+    {
+     "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+     "pubDate": "Mon, 23 Nov 2026 19:35:16 GMT",
+     "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
+     "source": "CNBC",
+     "zh": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China"
     },
     {
      "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
@@ -2417,14 +2441,6 @@
      "zh": "恒生指数主连夜盘收涨0.7%"
     },
     {
-     "title": "Trump is open to capping credit-card interest rates — but holiday shoppers shouldn’t bank on it yet",
-     "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 18:55:00 GMT",
-     "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
-     "source": "MarketWatch",
-     "zh": "Trump is open to capping credit-card interest rates — but holiday shoppers shouldn’t bank on it yet"
-    },
-    {
      "title": "An options strategy for making even more of your money back in Nvidia",
      "link": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
      "pubDate": "Mon, 23 Nov 2026 18:52:46 GMT",
@@ -2457,14 +2473,6 @@
      "zh": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention"
     },
     {
-     "title": "黄仁勋回归点燃科技债反弹，全球信用风险指标大幅回落",
-     "link": "https://wallstreetcn.com/articles/3786543",
-     "pubDate": "Tue, 24 Nov 2026 02:46:41 +0800",
-     "summary": "全球信用市场周一全面上扬。随着英伟达董事会宣布恢复Jensen Huang的首席执行官职务，科技公司债券强势反弹，信用风险指标录得数月来最大单日改善，为投资者提供了一定程度的喘息空间。 衡量投资级信用风险的CDX投资级指数利差周一盘中跌幅创4月8日以来最大单日降幅。欧洲高评级与高收益债券风险指标同步走低，高收益债券对应的信用风险反向指标升幅则创下七个月来之最。 此前一周，市场经历了大幅抛售，英伟达、Meta Platforms及SpaceX等主要科技公司的信用违约互换（CDS）成本急剧攀升。 周一的反弹虽有所收复失地，但上述公司的CDS利差仅部分回吐了此前涨幅，市场情绪尚未完全平复。 此前市场",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋回归点燃科技债反弹，全球信用风险指标大幅回落"
-    },
-    {
      "title": "The startling return of Jensen Huang",
      "link": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1",
      "pubDate": "Mon, 23 Nov 2026 18:11:30 GMT",
@@ -2479,14 +2487,6 @@
      "summary": "美东时间周一，美股三大股指集体上涨，截至发稿，道指涨3.26%，标普500指数涨4.91%，纳指涨6.65%。 受黄仁勋CEO职务恢复的消息刺激，芯片股集体反弹，截至发稿，费城 半导体 指数涨超13%。个股方面， 英伟达 涨31.38%， 公司市值单日增加超过1万亿美元并重返美股第二； 美光科技 涨18.96%，Cerebras涨18.07%，ARM涨16.52%， 西部数据 涨15.41%， 台积电 涨15.30%， 希捷科技 涨14.56%， 闪迪 涨14.21%， 拉姆研究 涨14.15%， 应用材料 涨13.79%， 英特尔 涨13.51%。 美元指数自 去年4月以来首次 突破104，",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体大涨 纳指涨近7% 英伟达涨逾30%"
-    },
-    {
-     "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-     "pubDate": "Mon, 23 Nov 2026 18:00:47 GMT",
-     "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-     "source": "CNBC",
-     "zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now"
     }
    ]
   },
@@ -2511,6 +2511,14 @@
      "summary": "Genetic information is sturdy, but its physical structure is sensitive. Natural tools for repairing a cell’s thousands of daily injuries are fundamental to gene-editing technologies. The post The Incredible, Elegant DNA Repair System Makes Gene Editing Work first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work"
+    },
+    {
+     "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+     "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+     "pubDate": "Mon, 23 Nov 2026 15:23:26 +0000",
+     "summary": "COP31 ended without a consensus deal for the first time since 2009.",
+     "source": "Ars Technica Science",
+     "zh": "COP31 ends in failure as countries split over fossil fuels, climate finance"
     },
     {
      "title": "‘Mitt & Ted’ recounts how a political odd couple changed U.S. health care",
@@ -2727,14 +2735,6 @@
      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
      "source": "MIT News",
      "zh": "AI helps researchers investigate how thousands of medical studies share code"
-    },
-    {
-     "title": "Ultrasound imaging without the gel",
-     "link": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
-     "pubDate": "Thu, 19 Nov 2026 14:00:00 -0500",
-     "summary": "A new dry material could replace the traditional goopy gel for wearable ultrasound patches.",
-     "source": "MIT News",
-     "zh": "Ultrasound imaging without the gel"
     }
    ]
   }

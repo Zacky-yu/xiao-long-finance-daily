@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 15:31:55",
+ "generated_at": "2026/11/23 15:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "EU Green Energy Giants Slam €40 Billion Budget Cut",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Green-Energy-Giants-Slam-40-Billion-Budget-Cut.html",
+     "pubDate": "Mon, 23 Nov 2026 01:30:00 -0600",
+     "summary": "Companies active in alternative energy and related technology have slammed the EU for plans to reduce the size of the European Competitiveness Fund as part of a broader 40 billion euro (~$44 billion) budget cut. According to the group, featuring 75 companies and industry associations, the European C",
+     "source": "OilPrice",
+     "zh": "EU Green Energy Giants Slam €40 Billion Budget Cut"
+    },
+    {
      "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
      "link": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
      "pubDate": "Mon, 23 Nov 2026 06:09:09 +0000",
@@ -968,14 +976,6 @@ window.INDUSTRY_DATA = {
      "summary": "NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities. For property owners, insurance provides a critical financial safety net that protects homes, businesses, and other assets from unex",
      "source": "CleanTechnica",
      "zh": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions"
-    },
-    {
-     "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
-     "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
-     "pubDate": "Sun, 22 Nov 2026 10:00:00 -0600",
-     "summary": "The Australian government aims to develop the country’s hydropower and Pumped Hydro Energy Storage (PHES) as part of its Powering Australia Plan, which targets 82 per cent renewable electricity by 2030 and net-zero emissions by 2050. As part of decarbonisation plans, the government hopes to graduall",
-     "source": "OilPrice",
-     "zh": "The $25 Billion Problem Facing Australia’s Hydropower Revolution"
     },
     {
      "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
@@ -1562,6 +1562,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+     "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+     "pubDate": "Mon, 23 Nov 2026 02:44:19 -0500",
+     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+     "source": "BleepingComputer",
+     "zh": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
+    },
+    {
      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
      "pubDate": "Sun, 22 Nov 2026 13:45:37 -0500",
@@ -1624,14 +1632,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
      "source": "BleepingComputer",
      "zh": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
-    },
-    {
-     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-     "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-     "pubDate": "Sat, 21 Nov 2026 10:17:27 -0500",
-     "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-     "source": "BleepingComputer",
-     "zh": "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
     },
     {
      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
@@ -1778,6 +1778,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "财富守护指南：普通人如何留住自己的钱？",
+     "link": "https://www.huxiu.com/article/4907626.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 15:42:26 +0800",
+     "summary": "人究竟是怎么一步步变没钱的？过去我们节目对谈了大量实现财富自由的朋友们。我发现人们总在思考，如何赚到钱，但却很少探讨：如何留住钱？这期我邀请到了一位朋友-方言，一位曾在巅峰期手握上亿现金、主动退出商界的投资人。他见证了大量企业家朋友，从财富自由到破产的经历，把很多深刻的案例和对财富的思考都写到了《第二天：金钱进化论》这本书里。这期我们将一起聊聊：普通人，该如何守住自己的钱？",
+     "source": "虎嗅",
+     "zh": "财富守护指南：普通人如何留住自己的钱？"
+    },
+    {
+     "title": "国内奶价持续走跌，为何蛋白粉还连续涨价？",
+     "link": "https://www.huxiu.com/article/4907706.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 15:36:30 +0800",
+     "summary": "本文来自微信公众号： 宇宙路口 ，作者：奇异世界1号 网络牛马很擅长用段子来自嘲，譬如下面这段就流传很广： 咖啡曾被当做一种兽药给牛马等牲畜食用，牲畜吃了之后，不仅消耗饲料更少，干起活来还不知疲倦、精力旺盛，再之后，这种功效被用到了现代牛马身上。 这当然是编的段子，但现代牛马套装中的蛋白粉，曾经确实是喂猪的，如今它在不断涨价，今年以来涨价20%以上的蛋白粉产品比比皆是，反正比你掉秤的速度快多了。 01 蛋白粉产品也有很多分类，如动物蛋白粉、植物蛋白粉、混合蛋白粉等，目前最受消费者推崇的自然还是属于动物蛋白粉类别的“乳清蛋白粉”，也是价格最高的蛋白粉。 在“戒糖时代”，蛋白粉也不仅被健身人群偏爱",
+     "source": "虎嗅",
+     "zh": "国内奶价持续走跌，为何蛋白粉还连续涨价？"
+    },
+    {
+     "title": "法国市场配音本地化后，买量CPA反而涨了38%，该砍还是该改？",
+     "link": "https://www.baijing.cn/question/638923",
+     "pubDate": "Mon, 23 Nov 2026 07:29:00 +0000",
+     "summary": "我们一款二次元卡牌手游刚进法国起量中，团队8人，月投放预算约4万欧元，主投Meta和TikTok。上线前专门做了法语配音，请了本地声优，花了近1.2万欧元。结果投放两周，法国CPA从预期的3.2欧元涨到4.4欧元，涨了约38%，而德语区用英语包体反而稳定在3.5欧元。我们试过换素材、调受众、把配音版和原声版做A/B，配音版完播率更高但付费转化没起来。现在卡在是否继续为法国单独投入配音成本，还是退回英语包体加字幕。想直接问：法语配音对买量CPA的实际影响，你们是怎么判断该保留还是砍掉的？",
+     "source": "白鲸出海",
+     "zh": "法国市场配音本地化后，买量CPA反而涨了38%，该砍还是该改？"
+    },
+    {
      "title": "代码显示谷歌正为 YouTube 应用引入自定义图标功能",
      "link": "https://www.ithome.com/1/030/916.htm",
      "pubDate": "Mon, 23 Nov 2026 07:18:39 GMT",
@@ -1922,30 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "尼日利亚奈拉卡支付成功率跌到四成，是渠道问题还是合规新规卡住了？"
     },
     {
-     "title": "存储市场分化：AI还在涨，传统存储撑不住了？",
-     "link": "https://www.huxiu.com/article/4907691.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 14:35:13 +0800",
-     "summary": "本文来自微信公众号： 芯世相 ，作者：Jiyeon Han 三星电子和SK海力士接连创下历史最佳业绩，但有关半导体市场可能已经见顶的担忧再次浮现。市场担心，如果AI数据中心投资放缓与存储芯片制造商扩产同时发生，NAND闪存和DRAM价格的上涨趋势可能停滞。 目前，NAND闪存现货价格正在下跌，而半导体行业预计DRAM价格将持续上涨至明年。 这一轮存储芯片行情，价格上涨和出货量增长共同推动了三星电子、SK海力士等存续大厂的业绩走高。接下来，存储芯片价格还能涨多久，成为市场关注的焦点。 01 NAND闪存价格正在下跌吗？ 据市场研究机构DRAMeXchange于11月22日公布的数据，截至11月9",
-     "source": "虎嗅",
-     "zh": "存储市场分化：AI还在涨，传统存储撑不住了？"
-    },
-    {
-     "title": "叮咚买菜连续11季盈利，留给美团收购的时间不多了",
-     "link": "https://www.huxiu.com/article/4907690.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 14:34:54 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 日前，叮咚买菜发布了2026年三季报，第三季度营收73.8亿元，同比增长10.8%；GMV达83.11亿元，创下单季新高；净利润2.98亿元，同比大增259.6%。至此，这家公司已经连续16个季度实现Non-GAAP（非通用会计准则）盈利，连续11个季度GAAP盈利。 不过，在增长的背后，观察者网注意到，这2.98亿元利润里，约1.96亿元来自一项会计处理。由于美团收购案，叮咚买菜将中国业务相关长期资产划为“持有待售”，按会计准则停止计提折旧和摊销。剔除这部分，本季度真正靠经营挣到的净利润约1.02亿元。 这份财报还有一个特殊身份，它可能是叮咚买",
-     "source": "虎嗅",
-     "zh": "叮咚买菜连续11季盈利，留给美团收购的时间不多了"
-    },
-    {
-     "title": "TikTok Shop马来站3人团队，达人寄样排期怎么排才不拖垮运营？",
-     "link": "https://www.baijing.cn/question/638917",
-     "pubDate": "Mon, 23 Nov 2026 06:30:11 +0000",
-     "summary": "团队一共3个人，一个运营、一个内容、一个客服，现在TikTok Shop马来站刚起量，月销大概800单，主要卖手机配件。上个月开始做达人寄样，一周寄出60多份，结果后台显示签收后7天内出视频的不到三成，剩下的人要么不回消息要么说排期到两周后。运营每天花3小时追达人进度，内容同事的短视频更新从日更掉到周更，客服也开始漏回私信。试过在寄样前先发话术确认发布时间，也试过只寄给粉丝1万以上的达人，但出片率还是没明显提升。现在纠结的是：以我们这种人手，是应该把寄样量砍到每周20份集中跟进，还是加一个兼职专门盯达人进度？判断标准该看签收后出片率还是视频带来的GMV？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop马来站3人团队，达人寄样排期怎么排才不拖垮运营？"
-    },
-    {
      "title": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
      "link": "https://www.techmeme.com/261123/p2#a261123p2",
      "pubDate": "Mon, 23 Nov 2026 01:02:06 -0500",
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Yes, 17M lines of Lean is a lot",
      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
      "pubDate": "Mon, 23 Nov 2026 05:00:49 +0000",
-     "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 16 # Comments: 11",
+     "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 23 # Comments: 26",
      "source": "Hacker News",
      "zh": "Yes, 17M lines of Lean is a lot"
     },
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "A Partial Evaluator for C",
      "link": "https://phoenix.labri.fr/software/tempo/",
      "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
-     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 29 # Comments: 1",
+     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 35 # Comments: 1",
      "source": "Hacker News",
      "zh": "A Partial Evaluator for C"
     },
@@ -2002,20 +2002,20 @@ window.INDUSTRY_DATA = {
      "zh": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)"
     },
     {
-     "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
-     "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
-     "pubDate": "Mon, 23 Nov 2026 04:31:32 +0000",
-     "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 100 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization"
-    },
-    {
      "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
      "link": "https://www.techmeme.com/261122/p19#a261122p19",
      "pubDate": "Sun, 22 Nov 2026 23:00:14 -0500",
      "summary": "Alexandr Wang / @alexandr_wang : Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &nbsp; &mdash;&nbsp; Superintelligence is Arriving",
      "source": "Techmeme",
      "zh": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)"
+    },
+    {
+     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+     "link": "https://github.com/AFK-surf/xnulinux",
+     "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 194 # Comments: 82",
+     "source": "Hacker News",
+     "zh": "XNU Linux: Full OS X GUI Userspace on Linux"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung could end annual Galaxy Watch releases starting in 2027",
+     "link": "https://www.androidauthority.com/samsung-galaxy-watch-2027-launch-skip-3738043/",
+     "pubDate": "Mon, 23 Nov 2026 07:40:23 +0000",
+     "summary": "Fewer hardware launches could mean more time for meaningful upgrades.",
+     "source": "Android Authority",
+     "zh": "Samsung could end annual Galaxy Watch releases starting in 2027"
+    },
     {
      "title": "Google is killing off the Nest app and Google Assistant on Home devices",
      "link": "https://www.gsmarena.com/google_is_killing_off_the_nest_app_and_google_assistant_on_home_devices-news-75580.php",
@@ -2242,14 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off"
     },
     {
-     "title": "How I got Samsung’s best multitasking feature on my Pixel for free",
-     "link": "https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/",
-     "pubDate": "Sun, 22 Nov 2026 10:30:21 +0000",
-     "summary": "It keeps my muscle memory intact when I switch to my Pixel.",
-     "source": "Android Authority",
-     "zh": "How I got Samsung’s best multitasking feature on my Pixel for free"
-    },
-    {
      "title": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
      "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
      "pubDate": "Sun, 22 Nov 2026 10:15:48 +0000",
@@ -2274,20 +2274,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美股三大指数期货上涨",
-     "link": "http://hk.eastmoney.com/news/1533,202611233937241061.html",
-     "pubDate": "Mon, 23 Nov 2026 15:18:37 +0800",
-     "summary": "美股三大指数 期货 上涨，纳指 期货 上涨2.99%、标普500指数 期货 涨2.23%、道指期货上涨1.48%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "美股三大指数期货上涨"
+     "title": "ABB agrees to buy Germany's Ziehl-Abegg in $2.65B deal",
+     "link": "https://seekingalpha.com/news/4675441-abb-agrees-to-buy-germanys-ziehl-abegg-in-2_65b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 02:45:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ABB agrees to buy Germany's Ziehl-Abegg in $2.65B deal"
     },
     {
-     "title": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937241112.html",
-     "pubDate": "Mon, 23 Nov 2026 15:17:44 +0800",
-     "summary": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰。 （文章来源：金十数据快讯）",
+     "title": "【调研快报】联讯仪器接待线上参与联讯仪器(688808)2026年第三季度业绩说明会的全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611233937260341.html",
+     "pubDate": "Mon, 23 Nov 2026 15:43:09 +0800",
+     "summary": "联讯仪器 11月23日公告称， 11月20日 接待线上参与 联讯仪器 (688808)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事长 胡海洋,副总经理、财务负责人、董事会秘书 廖金,独立董事 徐秀法。 公司就以下问题进行了回复： 1. 3.2T高速测试仪器是否通过验证?预计什么时候量产? 答:公司新一代采样示波器及配套时钟恢复单元产品可覆盖2.4T/3.2T光模块的眼图测试需求,支撑该性能的自研核心采样保持芯片已成功流片,按计划将于近期向行业头部客户送样验证,目前尚未完成客户端全流程验证工作。关于量产节奏,公司产品迭代始终与... 点击查看PDF原文 免责声明：本文基于A",
      "source": "东方财富股票",
-     "zh": "乌克兰总统泽连斯基：乌克兰军方在利比亚班加西打击了俄罗斯“Merkury”号轻型护卫舰"
+     "zh": "【调研快报】联讯仪器接待线上参与联讯仪器(688808)2026年第三季度业绩说明会的全体投资者调研"
+    },
+    {
+     "title": "延江股份：截至10月20日最新股东户数1.67万户，较上期增加0.40%",
+     "link": "http://stock.eastmoney.com/news/11111,202611233937259715.html",
+     "pubDate": "Mon, 23 Nov 2026 15:42:11 +0800",
+     "summary": "延江股份 最新披露数据显示，截至10月20日公司股东户数为1.67万户，较上期(2026年9月30日) 增加66户，增幅为0.40% 。户均持有流通股数量 由上期的1.44万股下降至1.43万股， 户均持股金额 由上期的14.73万元减少至13.20万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "延江股份：截至10月20日最新股东户数1.67万户，较上期增加0.40%"
+    },
+    {
+     "title": "【调研快报】国机汽车接待国泰海通证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611233937259614.html",
+     "pubDate": "Mon, 23 Nov 2026 15:42:11 +0800",
+     "summary": "国机汽车 11月23日公告称， 11月20日 接待 国泰海通 证券 调研。 接待人员包括 国机汽车 财务总监、董事会秘书 张之亮, 国机汽车 董事会办公室(战略投资部)主任 聂秀欣,国机 汽车 董事会办公室(战略投资部) 王宇,谢雨辰。 公司就以下问题进行了回复： 一、公司介绍 11月20日,国机 汽车 股份有限公司(以下简称“公司”)接待了 国泰海通 证券调研。首先介绍了公司的基本情况,公司主要包括 汽车 工程系统服务、汽车流通服务和汽车 租赁 服务三大主业。汽车工程系统服务是核心业务,以工程技术服务、工程总承包、装备产线系统解决方案为三大核心业务,具备涵盖咨询、勘察、设... 点击查看PD",
+     "source": "东方财富股票",
+     "zh": "【调研快报】国机汽车接待国泰海通证券调研"
+    },
+    {
+     "title": "首华燃气：截至11月20日最新股东户数1.88万户，较上期减少4.05%",
+     "link": "http://stock.eastmoney.com/news/11111,202611233937258038.html",
+     "pubDate": "Mon, 23 Nov 2026 15:40:10 +0800",
+     "summary": "首华燃气 最新披露数据显示，截至11月20日公司股东户数为1.88万户，较上期(2026年11月10日) 减少792户，降幅为4.05% 。户均持有流通股数量 由上期的1.97万股上升至2.05万股， 户均持股金额 由上期的37.43万元减少至36.88万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "首华燃气：截至11月20日最新股东户数1.88万户，较上期减少4.05%"
+    },
+    {
+     "title": "欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商 数字主权成新考量",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937258242.html",
+     "pubDate": "Mon, 23 Nov 2026 15:39:53 +0800",
+     "summary": "11 月 23 日消息，据路透社报道，欧洲正在加快推动关键数字服务实现自主可控。业内高管表示，越来越多欧洲政府部门和受监管行业在采购云服务时，开始将数字主权纳入重要考量。这一趋势正在逐渐反映到政府采购标准和合同授予结果中。 尽管数字主权多年来一直是欧洲的政策目标，但如今相关要求正从政治层面的讨论，逐步转化为实际采购标准。 这一变化与过去一年欧洲对美国技术依赖的担忧加剧有关。美国总统唐纳德 · 特朗普（Donald Trump）重返白宫，以及美国对部分技术的使用施加限制，让欧洲更加关注自身在战略领域对美国的依赖。此外，云服务近期发生的中断事件，也凸显了将关键数字服务集中交由少数供应商运营所带来的",
+     "source": "东方财富股票",
+     "zh": "欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商 数字主权成新考量"
+    },
+    {
+     "title": "大宗交易：星辰科技成交145.60万元，折价32.47%（11-23）",
+     "link": "http://stock.eastmoney.com/news/11264,202611233937257944.html",
+     "pubDate": "Mon, 23 Nov 2026 15:39:18 +0800",
+     "summary": "2026年11月23日， 星辰科技 发生1笔大宗交易，共成交20.00万股，成交金额145.60万元 ，占其流通市值比例为0.15% 。 该笔大宗交易成交均价7.28元， 较该股当日收盘价10.78元折价32.47%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：星辰科技成交145.60万元，折价32.47%（11-23）"
+    },
+    {
+     "title": "TotalEnergies deepens U.S. gas tie-up with Continental, eyes 850 MMscf/d U.S. gas output by 2032",
+     "link": "https://seekingalpha.com/news/4675439-totalenergies-deepens-us-gas-tie-up-with-continental-eyes-850-mmscfd-us-gas-output-by-2032?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 02:36:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "TotalEnergies deepens U.S. gas tie-up with Continental, eyes 850 MMscf/d U.S. gas output by 2032"
+    },
+    {
+     "title": "Barrick recommends rejecting NYSB's $26.40-per-share mini-tender offer",
+     "link": "https://seekingalpha.com/news/4675437-barrick-recommends-rejecting-nysbs-26_40-per-share-mini-tender-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 02:34:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Barrick recommends rejecting NYSB's $26.40-per-share mini-tender offer"
+    },
+    {
+     "title": "“至暗一周”后，黄金终于等来散户抄底！",
+     "link": "https://wallstreetcn.com/articles/3786504",
+     "pubDate": "Mon, 23 Nov 2026 15:30:12 +0800",
+     "summary": "黄金从近八个月来最大单周跌幅中反弹，超卖后的抄底买盘为金价提供支撑，市场也开始下调对美联储12月加息的押注。尽管美国通胀和就业数据仍是短期压制金价的主要因素，但多家机构认为，本轮调整可能已接近尾声。 周一，现货黄金涨超2%，报每盎司3627美元。此前一周，金价累计下跌9%，创近八个月来最大单周跌幅，并跌至一年多来的低位。从技术指标看，黄金14日相对强弱指数（RSI）已跌破30，进入通常被视为超卖的区间。 本轮反弹的直接推手是逢低买盘。据彭博报道，深圳水贝黄金市场金店人流明显增加，消费者纷纷入场购买。市场分析人士认为， 这波购买热潮主要由认为当前价位已是底部的散户投资者推动。 与此同时，上周五美",
+     "source": "华尔街见闻",
+     "zh": "“至暗一周”后，黄金终于等来散户抄底！"
+    },
+    {
+     "title": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指一度翻红",
+     "link": "https://wallstreetcn.com/articles/3786484",
+     "pubDate": "Mon, 23 Nov 2026 15:27:39 +0800",
+     "summary": "在美股上周“黑色一周”（纳指周跌10.02%、抹去年内涨幅）与韩股周一熔断式下跌的海外冲击下，A股早盘低开，科创50跌超2%，半导体、光刻机、存储等领跌。 11月23日，沪指午后回升，收复3500点，盘中一度跌超1%，主要受权重股拖累，银行、地产、油气等陷入调整，中国石油跌5%，工商银行、农业银行、建设银行、贵州茅台等跌超2%。物理AI、人形机器人、AI短剧、光模块、电路板等概念股纷纷反弹，推动创业板涨超2%。 港股低开低走，恒指、恒科指早盘双双跌超1%，恒科指盘中跌近2%，午后亦 翻红转涨 ，权重科网股回升，腾讯、阿里、美团等跌幅收窄，网易、联想逆势涨超4%。AI硬件股局部反弹，中际旭创涨近",
+     "source": "华尔街见闻",
+     "zh": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指一度翻红"
+    },
+    {
+     "title": "Neuralink脑机芯片新进展：瘫痪患者用意念游玩《GTA 6》",
+     "link": "https://wallstreetcn.com/articles/3786494",
+     "pubDate": "Mon, 23 Nov 2026 15:20:53 +0800",
+     "summary": "马斯克旗下脑机接口公司Neuralink再度展示其技术突破——一名失去双臂功能的瘫痪患者，借助植入式芯片，仅凭意念便在热门新作《GTA 6》中驾驶快艇、驾驶水上飞机并完成徒手格斗。 Neuralink近日在其X账号发布相关视频，记录了上述患者全程用脑机接口（BCI）操控游戏的过程。 这名患者表示，手术前只能靠\"嘴含棍子戳iPad\"来玩游戏，而植入芯片后的感受是\"你立刻重新拥有了通往世界的入口\"。 《GTA 6》本周正式发售，预售销量已达3250万份。Neuralink选择在此节点发布视频，进一步凸显其技术的实用价值，也为这家初创公司在公众视野中积累了新的曝光。 从\"啄食iPad\"到意念操控 据",
+     "source": "华尔街见闻",
+     "zh": "Neuralink脑机芯片新进展：瘫痪患者用意念游玩《GTA 6》"
+    },
+    {
+     "title": "韩国10万亿救市，为什么不灵了？",
+     "link": "https://wallstreetcn.com/articles/3786501",
+     "pubDate": "Mon, 23 Nov 2026 15:20:35 +0800",
+     "summary": "韩国政府祭出10.76万亿韩元规模的股市稳定基金，仍未能阻止KOSPI持续下跌。外部冲击的量级、工具本身的局限，以及政策信号与实际行动之间的落差，正在共同消解政府干预的市场效果。 KOSPI指数周一收跌3.32%，三星电子跌超3%，SK海力士跌超2.5%。这是韩国政府宣布启动股市稳定基金准备工作次日的市场反应——一个本应提振信心的政策信号，未能扭转颓势。 韩国副总理兼财政部长 Lee Hyoung-il于22日主持召开金融市场紧急会议（F4会议），宣布上述措施。 会议决定，政府将立即启动股市稳定基金（증안펀드）激活机制的准备工作，视市场情况随时部署。 与此同时，上市公司自股回购每日申报量上限将",
+     "source": "华尔街见闻",
+     "zh": "韩国10万亿救市，为什么不灵了？"
     },
     {
      "title": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！",
@@ -2298,68 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "高盛恐慌指数飙至9.8！历史四次暴涨后美股均强势反弹，交易员称“战术性入场”点位快到了！"
     },
     {
-     "title": "国债期货收盘多数下跌 30年期主力合约跌0.25%",
-     "link": "http://finance.eastmoney.com/news/1350,202611233937240753.html",
-     "pubDate": "Mon, 23 Nov 2026 15:16:28 +0800",
-     "summary": "国债 期货 收盘多数下跌，30年期主力合约跌0.25%，10年期主力合约跌0.03%，5年期主力合约持平，2年期主力合约跌0.01%。",
-     "source": "东方财富股票",
-     "zh": "国债期货收盘多数下跌 30年期主力合约跌0.25%"
-    },
-    {
-     "title": "A股收盘｜创业板指放量涨超3%，超4600只股飘红，人形机器人等概念走强",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937241391.html",
-     "pubDate": "Mon, 23 Nov 2026 15:14:21 +0800",
-     "summary": "11月23日，A股三大指数集体上涨，截至收盘，沪指涨0.15%，收报3538.95点；深证成指涨1.93%，收报10454.37点； 创业板指涨3.08%， 收报2280.20点。沪深京三市成交额1.56万亿元，较上一交易日放量1329亿元。 行业板块呈现普涨态势， 机器人 、 影视院线 、 医疗服务 、 贵金属 、 元件 、 传媒 、游戏、 通用设备 板块涨幅居前，保险、 核力发电 板块逆市走弱。 个股方面，上涨股票数量超过4600只，逾150只股票涨停。 人形 机器人 概念爆发， 上纬新材 、宇树科技、 汉威科技 、 安培龙 20CM涨停， 克来机电 、 长华集团 2连板， 宁波东力 、 ",
-     "source": "东方财富股票",
-     "zh": "A股收盘｜创业板指放量涨超3%，超4600只股飘红，人形机器人等概念走强"
-    },
-    {
-     "title": "华东重机业绩高增，跨界芯片有望打开成长空间",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937240516.html",
-     "pubDate": "Mon, 23 Nov 2026 15:13:37 +0800",
-     "summary": "截至11月23日14时52分，市场午后震荡拉升， 工程机械 ETF华安（512430）跟踪指数上涨0.8%。相关个股中， 恒工精密 、 华东重机 、 杭齿前进 涨停，长岭液压上涨7.72%， 新锐股份 上涨6.54%。 消息面上， 华东重机 前三季度营收9.43亿元、同比增长55.86%，归母净利润6325.79万元、同比增长58.11%。此外，公司主营业务为集装箱装卸设备业务和芯片设计及解决方案业务。收购锐信图芯拓展芯片设计及解决方案业务，产品和技术方案有芯片、芯片模组（独立显卡）、软硬件技术解决方案。 研究机构表示， 工程机械 景气度加速向上，出口增速快于内需，国内需求主要受存量设备更新与",
-     "source": "东方财富股票",
-     "zh": "华东重机业绩高增，跨界芯片有望打开成长空间"
-    },
-    {
-     "title": "阳光电源完成5亿元回购，助力优化市值预期",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937239722.html",
-     "pubDate": "Mon, 23 Nov 2026 15:13:36 +0800",
-     "summary": "截至11月23日14时41分，市场午后震荡拉升，全市场唯一20cm弹性 电池 指数——创业板 电池 ETF华安（158079）跟踪指数上涨1.98%。相关个股中， 震裕科技 上涨12.68%， 领湃科技 上涨9.71%， 阳光电源 下跌0.01%。 消息面上， 阳光电源 公告称，截至2026年11月20日，公司通过集中竞价方式累计回购股份530.11万股，占总股本0.2557%，成交最高价114.99元/股，最低价70.42元/股，支付资金总额5亿元。本次回购符合公司回购方案及相关法规要求。 阳光电源 股份有限公司是一家专注于 太阳能 、 风能 、储能、氢能、电动 汽车 等 新能源 电源设备的",
-     "source": "东方财富股票",
-     "zh": "阳光电源完成5亿元回购，助力优化市值预期"
-    },
-    {
-     "title": "【风口研报】具身智能数据国标启动！特斯拉Optimus再迎新催化 人形机器人赛道持续升温",
-     "link": "http://stock.eastmoney.com/news/1405,202611233937237613.html",
-     "pubDate": "Mon, 23 Nov 2026 15:10:00 +0800",
-     "summary": "A股三大指数今日集体上涨，截止收盘，沪指涨0.15%，深证成指涨1.93%，创业板指涨3.08%。沪深京三市成交额超过1.5万亿，较上一交易日放量逾千亿。行业板块呈现普涨态势， 机器人 、 影视院线 、 医疗服务 、 贵金属 、 元件 、 传媒 、游戏、 通用设备 板块涨幅居前，保险、 核力发电 板块逆市走弱。个股方面，上涨股票数量超过4600只，逾150只股票涨停。 近期 机器人 板块再迎海内外多重催化。 特斯拉 CEO马斯克近日在视频连线采访中表示，预计未来12至18个月，Optimus人形 机器人 就能完成倒垃圾、洗碗并将碗碟收进橱柜等多步骤家务任务，路径上先进入重工业、再拓展至家庭。市",
-     "source": "东方财富资讯",
-     "zh": "【风口研报】具身智能数据国标启动！特斯拉Optimus再迎新催化 人形机器人赛道持续升温"
-    },
-    {
-     "title": "创业板指大涨超3% 超4600只股飘红 逾150只股涨停",
-     "link": "http://finance.eastmoney.com/news/1345,202611233937232623.html",
-     "pubDate": "Mon, 23 Nov 2026 15:00:52 +0800",
-     "summary": "A股三大指数今日集体上涨，截止收盘，沪指涨0.15%，收报3538.95点；深证成指涨1.93%，收报10454.37点；创业板指涨3.08%，收报2280.20点。沪深京三市成交额1.56万亿，较上一交易日放量1329亿。 行业板块呈现普涨态势，机器人、影视院线、医疗服务、贵金属、元件、 传媒、 游戏、通用设备板块涨幅居前，保险、核力发电板块逆市走弱。 个股方面，上涨股票数量超过4600只，逾150只股票涨停。人形机器人概念爆发，上纬新材、宇树科技、汉威科技、安培龙20CM涨停，克来机电、长华集团2连板，宁波东力、锋龙股份、光洋股份涨停；AI漫剧概念走强，果麦文化、华是科技20CM涨停，浙文",
-     "source": "东方财富资讯",
-     "zh": "创业板指大涨超3% 超4600只股飘红 逾150只股涨停"
-    },
-    {
      "title": "Russell 3000 reconstitution adds Red Robin, Vera Bradley and removes SES AI, Thryv",
      "link": "https://seekingalpha.com/news/4675429-russell-3000-reconstitution-adds-red-robin-vera-bradley-and-removes-ses-ai-thryv?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 01:58:25 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Russell 3000 reconstitution adds Red Robin, Vera Bradley and removes SES AI, Thryv"
-    },
-    {
-     "title": "黄仁勋感恩节回归？英伟达股价一度大涨7% 员工辟谣：是段子",
-     "link": "http://finance.eastmoney.com/news/11158,202611233937230764.html",
-     "pubDate": "Mon, 23 Nov 2026 14:56:50 +0800",
-     "summary": "当地时间11月22日晚，美国总统特朗普再次公开喊话，要求 英伟达 董事会重新聘用黄仁勋。这一表态迅速引发市场关注。美股夜盘交易中， 英伟达 股价一度上涨约7%，此前持续发酵的“黄仁勋回归”话题，再次成为X平台科技圈讨论的焦点。 社交媒体上还流传着一张黄仁勋可能在感恩节回归的消息截图，称 英伟达 后厨已经在准备蛋糕，黄仁勋计划在感恩节回归。对此，一位英伟达员工对凤凰网科技表示，“这是开玩笑的，美国在感恩节还会放假，员工不会去上班的”。 特朗普在Truth Social上发文称：“我希望英伟达董事会重新聘用黄仁勋。这将是对公司、也是对美国最好的事情。” 这已经不是特朗普第一次为黄仁勋回归站台。当地",
-     "source": "东方财富资讯",
-     "zh": "黄仁勋感恩节回归？英伟达股价一度大涨7% 员工辟谣：是段子"
     },
     {
      "title": "Chegg, SES AI, and others are set to leave Russell Microcap Index",
@@ -2386,44 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Grok Bot正在接管SpaceX财务，5个bot替代十余个岗位"
     },
     {
-     "title": "摩根大通：亚洲股市投资者持仓降至历史低位 市场有望迎来大幅反弹",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937227021.html",
-     "pubDate": "Mon, 23 Nov 2026 14:48:31 +0800",
-     "summary": "摩根大通 11月23日表示，其亚洲市场 综合 投资者持仓指标已连续四周处于历史最低10%区间，叠加技术指标超卖及估值低于历史平均水平，当前市场正形成具有吸引力的风险回报机会。该行认为，近期亚洲股市大幅回调主要由投资者集中减仓及投资组合调整推动，而非长期基本面恶化。其中，韩国市场宏观基金的抛售可能已进入后期阶段，机构投资者对AI相关股票的持仓也已明显下降。不过，杠杆基金、趋势跟踪及宏观基金仍在持续降低风险敞口，短期抛售压力尚未完全消退。 摩根大通 预计，随着机构减仓逐步结束，AI投资与应用普及、安全及供应链韧性支出增长将继续支撑亚洲企业盈利，推动股市恢复中期上涨趋势。该行认为，2027年初能否出",
-     "source": "东方财富资讯",
-     "zh": "摩根大通：亚洲股市投资者持仓降至历史低位 市场有望迎来大幅反弹"
-    },
-    {
      "title": "ConocoPhillips to sell Norway, Teesside assets to Vår Energi for $3.9B",
      "link": "https://seekingalpha.com/news/4675433-conocophillips-to-sell-norway-teesside-assets-to-var-energi-for-39b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 01:44:29 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "ConocoPhillips to sell Norway, Teesside assets to Vår Energi for $3.9B"
-    },
-    {
-     "title": "这轮稳市框架正逐渐成型 看六大变化",
-     "link": "http://finance.eastmoney.com/news/1374,202611233937208298.html",
-     "pubDate": "Mon, 23 Nov 2026 14:21:12 +0800",
-     "summary": "在刚过去的周末，证监会密集出台三大政策，涉及两融保证金下调、让利降费以及做市制度的推出等维度，在不少观点看来，这旨在面对近几个月A股的深度调整，稳定市场预期，提振市场信心。据财联社观察，若放长时间线，在过去几个月，A股所关联的宏观端、政策端、交易端、资产端均有相关的动作。 从1月的两融逆周期调节、3月的人大记者会、6月的 陆家嘴 论坛、10月的 金融街 论坛、11月的国常会等各类会议，从表态到实质举措，监管方方面面的举动都与稳市场稳预期有关。 2025年4月25日，中共中央政治局会议首次提出“着力稳就业、稳企业、稳市场、稳预期”的“四稳”表述。随后延伸至资本市场，稳市场、稳预期的提法愈发鲜明，",
-     "source": "东方财富资讯",
-     "zh": "这轮稳市框架正逐渐成型 看六大变化"
-    },
-    {
-     "title": "Trump hosts meme coin dinner as token drops",
-     "link": "https://seekingalpha.com/news/4675432-trump-hosts-meme-coin-dinner-as-token-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 01:13:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump hosts meme coin dinner as token drops"
-    },
-    {
-     "title": "午后A股大反攻！多重利好密集来袭",
-     "link": "http://stock.eastmoney.com/news/11215,202611233937204490.html",
-     "pubDate": "Mon, 23 Nov 2026 14:11:00 +0800",
-     "summary": "A股午后异动！ 今日（11月23日）午后，A股各大指数全线拉升，截至发稿，创业板指涨幅超过3%，深证成指涨超2%，沪指、科创50指数也迅速翻红。沪深京三市上涨个股超过4600只。 盘面上，人形 机器人 、 PCB 、CPO等板块纷纷大涨。消息面上，近日，总部位于美国的全球 电子 协会发布 PCB 供应预警报告称，强劲需求、复杂度上升以及供应链产能增加较慢，将使 PCB 短缺至少持续到2027年上半年。2028年之前不太可能出现明显缓解。 另外，上周末，A股迎来大利好：11月22日，监管层发布一揽子稳市举措，包括调整融资保证金比例、在创业板引入做市商制度、发布一揽子降费举措等三项举措，监管部门意",
-     "source": "东方财富资讯",
-     "zh": "午后A股大反攻！多重利好密集来袭"
     },
     {
      "title": "Asian regulators rush to support sagging markets as AI trade falters",
@@ -2434,44 +2434,20 @@ window.INDUSTRY_DATA = {
      "zh": "Asian regulators rush to support sagging markets as AI trade falters"
     },
     {
-     "title": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹",
-     "link": "https://wallstreetcn.com/articles/3786472",
-     "pubDate": "Mon, 23 Nov 2026 13:52:22 +0800",
-     "summary": "上周美股AI交易的去杠杆浪潮正从华尔街迅速蔓延至亚太，区域监管机构罕见同步出手护盘。与此同时，美国股指期货周一亚洲交易时段大幅回升，美债期货和日元走弱，避险需求明显降温。 周一，亚太股市开盘普遍下行， MSCI新兴市场股票指数抹去了年初至今的涨幅 。韩国KOSPI指数早盘一度下跌超过3%，三星电子与SK海力士分别下跌约4.7%和3.8%；澳大利亚S&P/ASX 200小幅走低；日本市场因假期休市。 标普500指数期货涨幅达2.2%，此前标普500指数已连跌七个交易日并陷入技术性调整区间。纳斯达克100指数期货上涨2.9%，该指数上周录得逾六年来最差单周表现，并一度逼近熊市边缘。美股科技股夜盘普",
-     "source": "华尔街见闻",
-     "zh": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹"
-    },
-    {
-     "title": "Brookfield agrees to buy PGP Glass from Blackstone for $1.7B",
-     "link": "https://seekingalpha.com/news/4675431-brookfield-agrees-to-buy-pgp-glass-from-blackstone-for-17b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 00:32:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookfield agrees to buy PGP Glass from Blackstone for $1.7B"
-    },
-    {
-     "title": "China's gold imports said to have surged to record $209B through Oct.",
-     "link": "https://seekingalpha.com/news/4675430-chinas-gold-imports-said-to-have-surged-to-record-209b-through-oct?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 00:27:29 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China's gold imports said to have surged to record $209B through Oct."
-    },
-    {
-     "title": "沪指午后收复3500点，创业板大涨超2%，光模块拉升、天孚通信大涨10%，恒科指震荡回升，生物医药爆发",
-     "link": "https://wallstreetcn.com/articles/3786484",
-     "pubDate": "Mon, 23 Nov 2026 13:26:03 +0800",
-     "summary": "在美股上周“黑色一周”（纳指周跌10.02%、抹去年内涨幅）与韩股周一熔断式下跌的海外冲击下，A股早盘低开，科创50跌超2%，半导体、光刻机、存储等领跌。 11月23日，沪指午后回升，收复3500点，盘中一度跌超1%，主要受权重股拖累，银行、地产、油气等陷入调整，中国石油跌5%，工商银行、农业银行、建设银行、贵州茅台等跌超2%。物理AI、人形机器人、AI短剧、光模块、电路板等概念股纷纷反弹，推动创业板涨超2%。 港股低开低走，恒指、恒科指早盘双双跌超1%，恒科指盘中跌近2%，权重科网股回升，腾讯、阿里、美团等跌幅收窄，网易、联想逆势涨超4%。AI硬件股局部反弹，中际旭创涨近6%，AI大模型股分",
-     "source": "华尔街见闻",
-     "zh": "沪指午后收复3500点，创业板大涨超2%，光模块拉升、天孚通信大涨10%，恒科指震荡回升，生物医药爆发"
-    },
-    {
      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
      "pubDate": "Mon, 23 Nov 2026 05:08:03 GMT",
      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
      "source": "CNBC",
      "zh": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case"
+    },
+    {
+     "title": "The number of 401(k) millionaires drops amid stock-market swings",
+     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 05:01:00 GMT",
+     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+     "source": "MarketWatch",
+     "zh": "The number of 401(k) millionaires drops amid stock-market swings"
     },
     {
      "title": "The problem with the circular AI economy",
@@ -2512,6 +2488,30 @@ window.INDUSTRY_DATA = {
      "summary": "Asian markets decline as South Korean chipmakers shed about 3%",
      "source": "Financial Times",
      "zh": "Wall Street set to rebound after AI stock sell-off"
+    },
+    {
+     "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+     "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+     "pubDate": "Mon, 23 Nov 2026 03:52:17 GMT",
+     "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+     "source": "CNBC",
+     "zh": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year"
+    },
+    {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:51:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
+     "title": "Ron Johnson’s Social Security gaffe buried important news",
+     "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
+     "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+     "source": "MarketWatch",
+     "zh": "Ron Johnson’s Social Security gaffe buried important news"
     }
    ]
   },

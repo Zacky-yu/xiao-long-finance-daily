@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 01:12:08",
+ "generated_at": "2026/11/24 01:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,30 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Supercharging transformer residual connections",
+     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+     "pubDate": "Mon, 23 Nov 2026 17:21:12 +0000",
+     "summary": "Algorithms & Theory",
+     "source": "Google Research",
+     "zh": "Supercharging transformer residual connections"
+    },
+    {
+     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+     "link": "https://huggingface.co/blog/allenai/robotrack",
+     "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "RoboTrack: Point tracking for real-world robotic manipulation"
+    },
+    {
+     "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+     "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+     "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000",
+     "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+     "source": "TechCrunch AI",
+     "zh": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips"
+    },
     {
      "title": "Finding faster quantum algorithms with agents and formal verification",
      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: des",
      "source": "arXiv cs.AI",
      "zh": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization"
-    },
-    {
-     "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-     "link": "https://arxiv.org/abs/2611.26794",
-     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large lan",
-     "source": "arXiv cs.AI",
-     "zh": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF"
-    },
-    {
-     "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-     "link": "https://arxiv.org/abs/2611.26797",
-     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patt",
-     "source": "arXiv cs.AI",
-     "zh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
-    },
-    {
-     "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-     "link": "https://www.qbitai.com/2026/11/511998.html",
-     "pubDate": "Mon, 23 Nov 2026 03:56:34 +0000",
-     "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
-     "source": "量子位",
-     "zh": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
+     "link": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
+     "pubDate": "Mon, 23 Nov 2026 17:18:26 +0000",
+     "summary": "A Dutch court has barred BYD from selling or building its Ti7 SUV anywhere in the European Union after ruling that it infringes Jaguar Land Rover’s registered design for the Land Rover Defender. Breaking the injunction costs BYD €100,000 per day, up to €10 million. It’s a sharp turnaround from 10 da",
+     "source": "Electrek",
+     "zh": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design"
+    },
+    {
      "title": "Toyota is giving the Corolla a radical makeover, including its first 100% electric version",
      "link": "https://electrek.co/2026/11/23/toyota-corolla-radical-makeover-first-ev/",
      "pubDate": "Mon, 23 Nov 2026 17:02:29 +0000",
@@ -701,7 +709,7 @@ window.INDUSTRY_DATA = {
      "title": "Uber now lets you book rides that record the drive by default",
      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. The option, which uses the front camera of the Uber driver’s phone to record the entire drive, will show up as “Recorded Rides” in the app. The ride-hailing com",
+     "summary": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
      "source": "TechCrunch Transport",
      "zh": "Uber now lets you book rides that record the drive by default"
     },
@@ -784,14 +792,6 @@ window.INDUSTRY_DATA = {
      "summary": "Xpeng plans to expand its store networks in Thailand and Indonesia to 30 and 25 locations, respectively, by the end of this year. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV"
-    },
-    {
-     "title": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
-     "link": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
-     "pubDate": "Sun, 22 Nov 2026 19:44:00 +0000",
-     "summary": "An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat. ",
-     "source": "Electrek",
-     "zh": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)"
     },
     {
      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
@@ -1130,6 +1130,14 @@ window.INDUSTRY_DATA = {
      "zh": "Avenzo begins public life, seeks to rival Bristol Myers' EGFRxHER3 bispecific"
     },
     {
+     "title": "Kymera eczema pill meets goals in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
+     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
+     "source": "BioPharma Dive",
+     "zh": "Kymera eczema pill meets goals in mid-stage trial"
+    },
+    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1258,14 +1266,6 @@ window.INDUSTRY_DATA = {
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
     },
     {
-     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
-     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
-     "source": "BioPharma Dive",
-     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
-    },
-    {
      "title": "Genome Writing Inserts Human X-Linked Disease DNA Into Mice",
      "link": "https://www.genengnews.com/topics/genome-editing/genome-writing-inserts-human-x-linked-disease-dna-into-mice/",
      "pubDate": "Fri, 20 Nov 2026 12:03:02 +0000",
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
-     "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
-     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
-     "source": "Space.com",
-     "zh": "What did the Soviet Union's final deep space probe actually see on Mars?"
-    },
-    {
      "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
      "link": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
      "summary": "This budget-priced projector reminded me what light pollution has taken from us",
      "source": "Space.com",
      "zh": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing"
+    },
+    {
+     "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+     "link": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
+     "summary": "Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space.",
+     "source": "Space.com",
+     "zh": "What did the Soviet Union's final deep space probe actually see on Mars?"
     },
     {
      "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Filing: the US DOJ is seeking forfeiture of $1B+ in cryptocurrency stolen from Binance by hackers linked to North Korea (Chris Strohm/Bloomberg)",
+     "link": "https://www.techmeme.com/261123/p30#a261123p30",
+     "pubDate": "Mon, 23 Nov 2026 12:25:00 -0500",
+     "summary": "Chris Strohm / Bloomberg : Filing: the US DOJ is seeking forfeiture of $1B+ in cryptocurrency stolen from Binance by hackers linked to North Korea &nbsp; &mdash;&nbsp; The US is seeking forfeiture of more than $1 billion in cryptocurrency that was stolen by hackers linked to North Korea from Binance",
+     "source": "Techmeme",
+     "zh": "Filing: the US DOJ is seeking forfeiture of $1B+ in cryptocurrency stolen from Binance by hackers linked to North Korea (Chris Strohm/Bloomberg)"
+    },
+    {
+     "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+     "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+     "pubDate": "Mon, 23 Nov 2026 17:13:45 +0000",
+     "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+     "source": "TechCrunch",
+     "zh": "Meta throws out its net-zero goal. Its competitors should be furious"
+    },
+    {
+     "title": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang&apos;s reinstatement, assuring Nvidia&apos;s board Huang posed no national security risk (New York Times)",
+     "link": "https://www.techmeme.com/261123/p29#a261123p29",
+     "pubDate": "Mon, 23 Nov 2026 12:10:01 -0500",
+     "summary": "New York Times : Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang's reinstatement, assuring Nvidia's board Huang posed no national security risk &nbsp; &mdash;&nbsp; President Trump decided he wanted to do whatever he could to help Mr. Huang get his old job back, two peop",
+     "source": "Techmeme",
+     "zh": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang&apos;s reinstatement, assuring Nvidia&apos;s board Huang posed no national security risk (New York Times)"
+    },
+    {
      "title": "EasyPost (YC S13) Is Hiring",
      "link": "https://www.easypost.com/careers/",
      "pubDate": "Mon, 23 Nov 2026 17:00:05 +0000",
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Ladybird Is Now in Alpha",
      "link": "https://ladybird.org/posts/alpha/",
      "pubDate": "Mon, 23 Nov 2026 16:13:12 +0000",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 290 # Comments: 67",
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 356 # Comments: 84",
      "source": "Hacker News",
      "zh": "Ladybird Is Now in Alpha"
     },
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
      "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
      "pubDate": "Mon, 23 Nov 2026 15:55:12 +0000",
-     "summary": "\"All of you have lived stolen lives. But now you must give them back\"",
+     "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
      "source": "Ars Technica",
      "zh": "Marvel crams every superhero ever into Avengers: Doomsday final trailer"
     },
@@ -1914,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "Source: Trump dialed into Nvidia&apos;s board meeting to argue for Huang&apos;s return; a US official says he \"was totally involved\" and \"we have to protect our geniuses\" (Semafor)"
     },
     {
-     "title": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)",
-     "link": "https://www.techmeme.com/261123/p24#a261123p24",
-     "pubDate": "Mon, 23 Nov 2026 10:01:24 -0500",
-     "summary": "Rhys Elliott / Alinea : Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue &nbsp; &mdash;&nbsp; We dive into our sell-through estimates (no unsold retail copies) for the biggest game of the year,",
-     "source": "Techmeme",
-     "zh": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)"
-    },
-    {
      "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
      "link": "https://www.ithome.com/1/031/219.htm",
      "pubDate": "Mon, 23 Nov 2026 14:58:55 GMT",
@@ -1938,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险"
     },
     {
-     "title": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)",
-     "link": "https://www.techmeme.com/261123/p23#a261123p23",
-     "pubDate": "Mon, 23 Nov 2026 09:50:01 -0500",
-     "summary": "Matt Day / Bloomberg : Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B &nbsp; &mdash;&nbsp; Amazon.com Inc. has agreed to acquire much of startup Decart AI, buying tools to bolster the cloud-c",
-     "source": "Techmeme",
-     "zh": "Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B (Matt Day/Bloomberg)"
-    },
-    {
      "title": "GTA 6 Xbox executable released early by cyberleek",
      "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
      "pubDate": "Mon, 23 Nov 2026 14:49:44 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 44 # Comments: 11",
+     "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 55 # Comments: 23",
      "source": "Hacker News",
      "zh": "GTA 6 Xbox executable released early by cyberleek"
     },
@@ -1989,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Building a wireless network adapter for the Super Nintendo",
      "link": "https://boland.dev/snet/",
      "pubDate": "Mon, 23 Nov 2026 14:16:37 +0000",
-     "summary": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 20 # Comments: 4",
+     "summary": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 25 # Comments: 5",
      "source": "Hacker News",
      "zh": "Building a wireless network adapter for the Super Nintendo"
-    },
-    {
-     "title": "Nvidia Reinstates Jensen Huang as CEO",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 14:00:18 +0000",
-     "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 501 # Comments: 1715",
-     "source": "Hacker News",
-     "zh": "Nvidia Reinstates Jensen Huang as CEO"
     }
    ]
   },
@@ -2009,6 +2009,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Gemini for Home is winning praise from new users as opinions begin to shift",
+     "link": "https://www.androidauthority.com/gemini-for-home-opinion-shift-3738432/",
+     "pubDate": "Mon, 23 Nov 2026 17:25:45 +0000",
+     "summary": "The tide may be turning.",
+     "source": "Android Authority",
+     "zh": "Gemini for Home is winning praise from new users as opinions begin to shift"
+    },
+    {
+     "title": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame",
+     "link": "https://www.androidauthority.com/kodak-slidetag-launch-3738400/",
+     "pubDate": "Mon, 23 Nov 2026 17:25:20 +0000",
+     "summary": "Kodak’s SlideTag blends retro charm with Bluetooth item tracking.",
+     "source": "Android Authority",
+     "zh": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame"
+    },
+    {
+     "title": "What important features should you look for in a home security camera?",
+     "link": "https://www.engadget.com/2320283/important-home-security-camera-features/",
+     "pubDate": "Mon, 23 Nov 2026 17:15:00 +0000",
+     "summary": "Stakes are high when choosing the right security camera. Our experienced writer will help you sort through priorities to make the right call for your home.",
+     "source": "Engadget",
+     "zh": "What important features should you look for in a home security camera?"
+    },
+    {
+     "title": "RedMagic is the official gaming phone sponsor of the 2026 PUBG Mobile Global Championship",
+     "link": "https://www.gsmarena.com/redmagic_is_the_official_gaming_phone_sponsor_of_the_2026_pubg_mobile_global_championship-news-75597.php",
+     "pubDate": "Mon, 23 Nov 2026 18:08:02 +0100",
+     "summary": "RedMagic has been sponsoring esports in China for a while now, and it's finally taking that to the global stage. Today, the company announced that it's the Official Gaming Phone Sponsor of the 2026 PUBG Mobile Global Championship (PMGC), which is organized by Krafton and Level Infinite. This year's ",
+     "source": "GSMArena",
+     "zh": "RedMagic is the official gaming phone sponsor of the 2026 PUBG Mobile Global Championship"
+    },
     {
      "title": "Google is finally retiring the Nest app early next year",
      "link": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
@@ -2146,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Turn movie night into a theater with $270 off the JBL Bar 500MK2"
     },
     {
-     "title": "Leaked Galaxy S27 build reveals Dynamic Island makeover for Live notifications",
-     "link": "https://www.androidauthority.com/samsung-galaxy-s27-one-ui-9-5-live-notifications-dynamic-island-3738347/",
-     "pubDate": "Mon, 23 Nov 2026 15:46:28 +0000",
-     "summary": "The upgraded Live notifications chip could also let you move between items by swiping horizontally.",
-     "source": "Android Authority",
-     "zh": "Leaked Galaxy S27 build reveals Dynamic Island makeover for Live notifications"
-    },
-    {
      "title": "What is Sound Glow on HomePods, and how do you get it on your Apple speaker?",
      "link": "https://www.engadget.com/2320280/what-is-apple-homepod-sound-glow/",
      "pubDate": "Mon, 23 Nov 2026 15:45:00 +0000",
@@ -2168,14 +2192,6 @@ window.INDUSTRY_DATA = {
      "summary": "After shutting down its US operations earlier this year, OnePlus has quietly closed its website in some regions as it shifts to “focus on customer support.” more…",
      "source": "9to5Google",
      "zh": "OnePlus starts shutting down its website to ‘focus on customer support’"
-    },
-    {
-     "title": "Train for weeks between charges with the Amazfit Active Max at 30% off",
-     "link": "https://www.androidauthority.com/amazfit-active-max-black-friday-deal-3738392/",
-     "pubDate": "Mon, 23 Nov 2026 15:29:44 +0000",
-     "summary": "The Amazfit Active Max is down to $118.99 on Amazon, matching its all-time low with up to 25 days of battery life.",
-     "source": "Android Authority",
-     "zh": "Train for weeks between charges with the Amazfit Active Max at 30% off"
     },
     {
      "title": "AirPods Pro 3 were worth the upgrade for one standout feature",
@@ -2200,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "The world’s highest-rated smart ring is on sale for Black Friday week, and it’ll blow you away. more…",
      "source": "9to5Google",
      "zh": "You’ll be aura farming with this amazing $100-off Oura Ring 5 deal"
-    },
-    {
-     "title": "How to pair your Bluetooth headphones to your Windows PC",
-     "link": "https://www.engadget.com/2320151/how-to-pair-bluetooth-headphones-windows-pc/",
-     "pubDate": "Mon, 23 Nov 2026 14:45:00 +0000",
-     "summary": "Connecting a pair of Bluetooth headphones to a Windows PC isn't as simple as plugging into a headphone socket, but it's still quite straightforward.",
-     "source": "Engadget",
-     "zh": "How to pair your Bluetooth headphones to your Windows PC"
     },
     {
      "title": "Will Siri AI threaten Apple’s environmental target, given Google and Meta admissions?",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "When he took over the CEO position, John Ternus said that he wants Apple to move away from the traditional big September announcement and to launch new products more often. We’re already seeing that – the September iPhone event only brought the two iPhone 18 Pro models and Apple’s first foldable. Th",
      "source": "GSMArena",
      "zh": "Apple will focus on affordable models in early 2027 - iPhone 18e, new iPad, new MacBook Neo"
-    },
-    {
-     "title": "Honor 700 and 700S arrive with rear screens, 200MP cameras and 9,000mAh batteries",
-     "link": "https://www.gsmarena.com/honor_700_and_700s_arrive_with_rear_screens_200mp_cameras_and_9000mah_batteries_-news-75590.php",
-     "pubDate": "Mon, 23 Nov 2026 12:47:02 +0100",
-     "summary": "The Honor 700 series is now official in China with three members, and we’ll be taking a closer look at the Honor 700 and 700S in the following lines. The standout feature for this year is the rear screen, which is present on all three phones. Honor 700 (left) and Honor 700S (right) It’s a square 1.5",
-     "source": "GSMArena",
-     "zh": "Honor 700 and 700S arrive with rear screens, 200MP cameras and 9,000mAh batteries"
     }
    ]
   },
@@ -2258,44 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Silicon Valley cheers Jensen Huang's return as Nvidia CEO",
-     "link": "https://seekingalpha.com/news/4675726-silicon-valley-cheers-jensen-huangs-return-as-nvidia-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:01:35 -0500",
+     "title": "Dell Q3 preview: Short-term optimism points to better-than-expected Q3 despite long-term concerns",
+     "link": "https://seekingalpha.com/news/4675732-dell-q3-preview-short-term-optimism-points-to-better-than-expected-q3-despite-long-term-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:24:31 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Silicon Valley cheers Jensen Huang's return as Nvidia CEO"
+     "zh": "Dell Q3 preview: Short-term optimism points to better-than-expected Q3 despite long-term concerns"
     },
     {
-     "title": "CrowdStrike buying Zscaler has 'strategic' positives, but execution risk is real: BTIG",
-     "link": "https://seekingalpha.com/news/4675714-crowdstrike-buying-zscaler-has-strategic-positives-but-execution-risk-is-real-btig?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:00:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CrowdStrike buying Zscaler has 'strategic' positives, but execution risk is real: BTIG"
+     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+     "pubDate": "Mon, 23 Nov 2026 17:23:04 GMT",
+     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+     "source": "CNBC",
+     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
     },
     {
-     "title": "Avante reports Q2 results",
-     "link": "https://seekingalpha.com/news/4675725-avante-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:59:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Avante reports Q2 results"
+     "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+     "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+     "pubDate": "Mon, 23 Nov 2026 17:17:10 GMT",
+     "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+     "source": "CNBC",
+     "zh": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks"
     },
     {
-     "title": "Grand Theft Auto online may generate more peak annual revenue than Fortnite",
-     "link": "https://seekingalpha.com/news/4675707-grand-theft-auto-online-may-generate-more-peak-annual-revenue-than-fortnite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:57:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Grand Theft Auto online may generate more peak annual revenue than Fortnite"
+     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+     "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+     "pubDate": "Mon, 23 Nov 2026 17:16:39 GMT",
+     "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+     "source": "CNBC",
+     "zh": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang"
     },
     {
-     "title": "HomesToLife GAAP EPS of $0.04, revenue of $295.57M",
-     "link": "https://seekingalpha.com/news/4675723-homestolife-gaap-eps-of-0_04-revenue-of-295_57m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 11:56:42 -0500",
+     "title": "Anthropic turns lower as post-IPO volatility continues",
+     "link": "https://seekingalpha.com/news/4675532-anthropic-turns-lower-as-post-ipo-volatility-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:16:02 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "HomesToLife GAAP EPS of $0.04, revenue of $295.57M"
+     "zh": "Anthropic turns lower as post-IPO volatility continues"
+    },
+    {
+     "title": "Trump signals 250 more Boeing jet sales to China; firm orders remain unclear",
+     "link": "https://seekingalpha.com/news/4675730-trump-signals-250-more-boeing-jet-sales-to-china-firm-orders-remain-unclear?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:16:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump signals 250 more Boeing jet sales to China; firm orders remain unclear"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 17:15:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "Omni-Lite Industries Canada Inc. GAAP EPS of $0.05, revenue of $5.5M",
+     "link": "https://seekingalpha.com/news/4675731-omni-lite-industries-canada-inc-gaap-eps-of-0_05-revenue-of-5_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:14:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Omni-Lite Industries Canada Inc. GAAP EPS of $0.05, revenue of $5.5M"
+    },
+    {
+     "title": "Renasant declares $0.24 dividend",
+     "link": "https://seekingalpha.com/news/4675728-renasant-declares-0_24-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:11:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Renasant declares $0.24 dividend"
+    },
+    {
+     "title": "Sailfish Royalty GAAP EPS of $0.10, revenue of $0.71M",
+     "link": "https://seekingalpha.com/news/4675729-sailfish-royalty-gaap-eps-of-0_10-revenue-of-0_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 12:11:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sailfish Royalty GAAP EPS of $0.10, revenue of $0.71M"
     },
     {
      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
@@ -2306,12 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now"
     },
     {
-     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 16:49:27 GMT",
-     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-     "source": "CNBC",
-     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
+     "title": "Huang’s return is a triumph of money over morals",
+     "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 16:51:47 GMT",
+     "summary": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
+     "source": "Financial Times",
+     "zh": "Huang’s return is a triumph of money over morals"
     },
     {
      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
@@ -2386,18 +2426,10 @@ window.INDUSTRY_DATA = {
      "zh": "英国首相伯纳姆表示：未经全民公投就让英国重返欧盟是不可想象的"
     },
     {
-     "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
-     "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-     "pubDate": "Mon, 23 Nov 2026 16:22:38 GMT",
-     "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-     "source": "CNBC",
-     "zh": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang"
-    },
-    {
      "title": "美股三大指数集体大涨 纳指涨超7% 英伟达涨逾34% 美油跌破80美元/桶",
      "link": "http://finance.eastmoney.com/news/1345,202611233937627539.html",
      "pubDate": "Tue, 24 Nov 2026 00:13:25 +0800",
-     "summary": "美东时间周一，美股三大股指集体上涨，截至发稿，道指涨3.21%，标普500指数涨5.11%，纳指涨7.01%。 受黄仁勋CEO职务恢复的消息刺激，芯片股集体反弹，截至发稿，费城 半导体 指数涨超14%。个股方面， 英伟达 涨34.41%，公司市值单日增加超过1万亿美元并重返美股第二；Cerebras涨20.18%， 美光科技 涨19.16%， 闪迪 涨16.92%，ARM涨16.54%， 希捷科技 涨16.31%， 台积电 涨16.07%， 西部数据 涨15.74%， 拉姆研究 涨14.31%， 应用材料 涨14.12%， 英特尔 涨12.68%。 美元指数自 去年4月以来首次 突破104，截",
+     "summary": "美东时间周一，美股三大股指集体上涨，截至发稿，道指涨3.13%，标普500指数涨4.96%，纳指涨6.81%。 受黄仁勋CEO职务恢复的消息刺激，芯片股集体反弹，截至发稿，费城 半导体 指数涨超14%。个股方面， 英伟达 涨32.89%， 公司市值单日增加超过1万亿美元并重返美股第二；Cerebras涨19.75%， 美光科技 涨19.52%，ARM涨17.64%， 闪迪 涨16.10%， 台积电 涨15.61%， 西部数据 涨14.79%， 拉姆研究 涨14.36%， 希捷科技 涨14.21%， 应用材料 涨14.17%， 英特尔 涨12.81%。 美元指数自 去年4月以来首次 突破104，",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体大涨 纳指涨超7% 英伟达涨逾34% 美油跌破80美元/桶"
     },
@@ -2464,38 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
      "source": "CNBC",
      "zh": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO"
-    },
-    {
-     "title": "Stablecoin FX platform Codex raises $30m",
-     "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 23 Nov 2026 15:21:00 GMT",
-     "summary": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
-     "source": "Finextra",
-     "zh": "Stablecoin FX platform Codex raises $30m"
-    },
-    {
-     "title": "特朗普火速力挺黄仁勋复职：正确且恰当决定，我一手促成，美政府无证据表明他有违法行为",
-     "link": "https://wallstreetcn.com/articles/3786540",
-     "pubDate": "Mon, 23 Nov 2026 23:18:40 +0800",
-     "summary": "英伟达宣布董事会决定恢复黄仁勋总裁、首席执行官（CEO）及董事职务后不到10分钟，美国总统特朗普便公开力挺这一决定，还自称黄仁勋回归是他一手促成。 据新华社，特朗普23日在社交媒体发文说，英伟达董事会让黄仁勋重新担任CEO一职是“正确且恰当的决定”。他表示，美国政府没有理由认为黄仁勋回归英伟达会对国家安全构成任何风险。美国司法部长已确认，美国政府没有证据表明其有任何不合法行为。 特朗普发帖表示，美国需要黄仁勋继续领导英伟达，以确保公司乃至美国经济的成功与繁荣。他称，自己已经与黄仁勋相识，认为他是一位“伟大的爱国者和国家瑰宝”。 不过，特朗普同时要求英伟达继续彻底调查公司是否遵守美国出口管制规定",
-     "source": "华尔街见闻",
-     "zh": "特朗普火速力挺黄仁勋复职：正确且恰当决定，我一手促成，美政府无证据表明他有违法行为"
-    },
-    {
-     "title": "八个月配额后，刚果金出口全面暂停，钴市再迎政策变数",
-     "link": "https://wallstreetcn.com/articles/3786537",
-     "pubDate": "Mon, 23 Nov 2026 23:18:22 +0800",
-     "summary": "全球最大钴生产国刚果民主共和国宣布，将于本月底起再次暂停钴出口，以遏制国际钴价持续下跌，并缓解全球市场供应过剩压力。 11月23日，据彭博报道，刚果政府监管机构ARECOMS周一发表声明称， 自11月30日起暂停所有钴出口，暂停期限暂未确定。 ARECOMS表示，此举旨在“解决国际市场供应过剩问题，推动市场可持续再平衡”。这是刚果自2025年2月首次实施全面出口禁令以来，第二次采取类似措施。 此次禁令出台之际，钴价正面临较大下行压力。刚果主要出口产品钴氢氧化物的价格自今年4月触及峰值后几近腰斩，全球需求疲软及再生钴供应增加进一步加剧了市场供需失衡。新一轮出口管控将影响全球钴供应，也可能改变矿企",
-     "source": "华尔街见闻",
-     "zh": "八个月配额后，刚果金出口全面暂停，钴市再迎政策变数"
-    },
-    {
-     "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
-     "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 15:15:00 GMT",
-     "summary": "Nvidia’s stock rose on Monday by the most in a decade after the stunning decision to reinstate Jensen Huang as president and chief executive.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO"
     }
    ]
   },

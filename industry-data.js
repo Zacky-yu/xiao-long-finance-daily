@@ -2346,6 +2346,14 @@ window.INDUSTRY_DATA = {
      "zh": "从UpToDate接入阿福，看蚂蚁做医疗AI的边界"
     },
     {
+     "title": "11月23日涨停复盘：151只股涨停 真视通5连板",
+     "link": "http://stock.eastmoney.com/news/11055,202611233937343137.html",
+     "pubDate": "Mon, 23 Nov 2026 17:13:20 +0800",
+     "summary": "今天沪指涨0.15%，深成指涨1.93%，创业板指涨3.08%，今日大盘成交额1.55万亿，较上个交易日放量1306.80亿。 涨停个股数量方面，今日共计151股涨停，另有28只个股盘中一度触及涨停，封板率84.36%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "11月23日涨停复盘：151只股涨停 真视通5连板"
+    },
+    {
      "title": "Nasdaq futures lead rebound as Wall Street looks to recover from AI-driven selloff",
      "link": "https://seekingalpha.com/news/4675470-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 04:12:46 -0500",

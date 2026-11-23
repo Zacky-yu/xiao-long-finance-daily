@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 16:11:50",
+ "generated_at": "2026/11/23 16:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-     "link": "https://www.qbitai.com/2026/11/512004.html",
-     "pubDate": "Mon, 23 Nov 2026 06:59:38 +0000",
-     "summary": "一个完全由AI组成的科学家社会，是什么样？",
-     "source": "量子位",
-     "zh": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了"
+     "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+     "link": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+     "pubDate": "Mon, 23 Nov 2026 08:24:57 +0000",
+     "summary": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs. The post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD app",
+     "source": "MarkTechPost",
+     "zh": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD"
     },
     {
      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
@@ -63,46 +63,6 @@
      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patt",
      "source": "arXiv cs.AI",
      "zh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
-    },
-    {
-     "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-     "link": "https://www.qbitai.com/2026/11/511998.html",
-     "pubDate": "Mon, 23 Nov 2026 03:56:34 +0000",
-     "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
-     "source": "量子位",
-     "zh": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力"
-    },
-    {
-     "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
-     "link": "https://www.qbitai.com/2026/11/511989.html",
-     "pubDate": "Mon, 23 Nov 2026 03:47:46 +0000",
-     "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
-     "source": "量子位",
-     "zh": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要"
-    },
-    {
-     "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
-     "link": "https://www.qbitai.com/2026/11/511978.html",
-     "pubDate": "Mon, 23 Nov 2026 03:13:06 +0000",
-     "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
-     "source": "量子位",
-     "zh": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布"
-    },
-    {
-     "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
-     "link": "https://www.qbitai.com/2026/11/511933.html",
-     "pubDate": "Mon, 23 Nov 2026 02:29:24 +0000",
-     "summary": "豆包工作是目前字节优先级最高的产品",
-     "source": "量子位",
-     "zh": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511921.html",
-     "pubDate": "Mon, 23 Nov 2026 02:09:59 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -159,6 +119,22 @@
      "summary": "智东西11月22日报道，11月20日，2026年国际超级计算大会（SC26）传来喜讯：依托全国产十万卡AI超集群曙光8000开展的两项科研应用成果杀进世界级舞台，一项斩获ACM戈登·贝尔奖，另一项入围戈登·贝尔气候建模奖决赛。 从微观世界的电子运动，到宏观尺度的全球天气，两项成果指向不同的科学问题，却共同折射出一个现实：超大规模异构计算系统的价值，最终要由它支撑了什么应用、解决了什么难题来检验。 向上，追问科学前沿的计算极限；向下，回应产业与民生的现实需求——这正是中国异构计算“顶天立地”的含义，也是这份答卷的含金量所在。 一、世界级成果！从计算极限走向科学发现 今年7月，首个采用原生超智融合",
      "source": "智东西",
      "zh": "中国异构计算何以“顶天立地”？"
+    },
+    {
+     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+     "link": "https://www.qbitai.com/2026/11/511904.html",
+     "pubDate": "Sun, 22 Nov 2026 06:21:47 +0000",
+     "summary": "用葡萄糖发电控制血糖。",
+     "source": "量子位",
+     "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
+    },
+    {
+     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+     "link": "https://www.qbitai.com/2026/11/511870.html",
+     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
     },
     {
      "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
@@ -247,6 +223,30 @@
      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
      "source": "TechCrunch AI",
      "zh": "Here are the top AI agents that can live in your text messages"
+    },
+    {
+     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+     "link": "https://www.qbitai.com/2026/11/511855.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
+    },
+    {
+     "title": "中国计算，走出新的登峰之路",
+     "link": "https://www.qbitai.com/2026/11/511849.html",
+     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "中国计算，走出新的登峰之路"
+    },
+    {
+     "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+     "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+     "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
+     "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTech",
+     "source": "MarkTechPost",
+     "zh": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac"
     }
    ]
   },
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "US Senate passes permitting bill letting solar developers sue agencies",
+     "link": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/",
+     "pubDate": "Mon, 23 Nov 2026 08:15:00 +0000",
+     "summary": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of disparate treatment, in a Nov. 19 vote that sends the bill to the House. The post ",
+     "source": "pv magazine",
+     "zh": "US Senate passes permitting bill letting solar developers sue agencies"
+    },
+    {
      "title": "EU Green Energy Giants Slam €40 Billion Budget Cut",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Green-Energy-Giants-Slam-40-Billion-Budget-Cut.html",
      "pubDate": "Mon, 23 Nov 2026 01:30:00 -0600",
@@ -999,14 +1007,6 @@
      "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31 appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31"
-    },
-    {
-     "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
-     "link": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together/",
-     "pubDate": "Sat, 21 Nov 2026 09:00:00 +0000",
-     "summary": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who are helping build a more inclusive future. Carmen Madrid, Founder of both initia",
-     "source": "pv magazine",
-     "zh": "Celebrating men, challenging stereotypes, building a stronger energy future together"
     },
     {
      "title": "Why tribal rights have become key to the energy permitting debate",
@@ -1777,6 +1777,54 @@
    "total": 18,
    "items": [
     {
+     "title": "《GTA6》页面占位符现身 Steam 平台，消息称系第三方山寨游戏",
+     "link": "https://www.ithome.com/1/030/943.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:14:50 GMT",
+     "summary": "IT之家 11 月 23 日消息，据外媒 NoteBook Check 报道，Steam 商店近日出现了一个《GTA 6》可疑占位符页面。 不过，该页面并不像正常的 Steam 游戏商店页面，不仅没有游戏截图，也未提供开发者和发行商信息，甚至将游戏标记为免费游玩（Free-to-Play） ，与 Rockstar Games 旗下新作的商业模式明显不符。 更值得注意的是，该页面并非近期才创建。根据 SteamDB 数据，相应页面早在近三年前就已加入 Steam，但此前长期处于基本停滞状态，直到最近才突然获得多次更新， 预计是第三方瞄准《GTA6》热度打造的山寨版游戏 。 SteamDB 已将该",
+     "source": "IT之家",
+     "zh": "《GTA6》页面占位符现身 Steam 平台，消息称系第三方山寨游戏"
+    },
+    {
+     "title": "荣耀 YOYO · 豆包手机助手曝光，支持语音唤醒、连续对话、全局记忆等能力",
+     "link": "https://www.ithome.com/1/030/942.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:14:47 GMT",
+     "summary": "IT之家 11 月 23 日消息，博主 @阿兴XZai 今日发布视频，分享了荣耀的 YOYO · 豆包手机助手 的功能页面。 画面显示， 荣耀 YOYO · 豆包手机助手支持语音唤醒、连续对话、全局记忆等能力 。 据IT之家此前报道， 今年 4 月，有消息称荣耀与字节跳动就“豆包手机”相关合作展开接洽 。字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险。 随后， 荣耀方面对此回应称，经内部确认，相关传闻不属实 。“荣耀始终致力于通过技术创新为消费者提供优质产品，如有任何战略合作进展，我们将第一时间通",
+     "source": "IT之家",
+     "zh": "荣耀 YOYO · 豆包手机助手曝光，支持语音唤醒、连续对话、全局记忆等能力"
+    },
+    {
+     "title": "福特汽车重返日本市场，主打政务定制车型",
+     "link": "https://www.ithome.com/1/030/941.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:10:23 GMT",
+     "summary": "IT之家 11 月 23 日消息，据 Carscoops 报道，福特汽车出口经销商 Global Fleet Sales 将与日本横滨企业 Space Factory 合作，向日本引进多款福特车型，这意味着福特汽车正式重返日本市场（福特于 2016 年退出日本一般乘用车市场）。不过，相应车辆暂时不会面向日本普通消费者销售，主要客户将是日本政务部门。 其中，车辆改装工作将由位于泰国的 RMA Special Vehicles 负责，根据日本不同政务机构的实际需求提供定制方案，例如将福特 Ranger 改装为消防车或应急救援车辆等。而 Space Factory 则将负责车辆在日本的注册、交付工作",
+     "source": "IT之家",
+     "zh": "福特汽车重返日本市场，主打政务定制车型"
+    },
+    {
+     "title": "孩子买回一套“纸质版短剧”：没广告、不用充电，14 元轻松拿下 24 台 N 折叠",
+     "link": "https://www.ithome.com/1/030/940.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:07:40 GMT",
+     "summary": "IT之家 11 月 23 日消息，据河南广播电视台都市频道今日报道，有家长发现孩子买回一套新奇的“ 纸质版短剧 ”。 从视频可以看到，册子做成巴掌大小， 外形模仿手机模样，封面复刻手机屏幕界面，内页印满短剧截图，按集数翻页就能追剧 。妈妈翻看之后哭笑不得。 网友纷纷调侃：这就是新一代小人书，没有广告、不用充电，还不费眼睛。 有博主表示，“纸质版短剧”价格还蛮便宜， 一套 24 本才 14 块钱 。 根据 QuestMobile 发布的 2026 年短剧营销行业报告，截止到 2026 年 5 月，短剧行业去重用户规模达到 8.51 亿，红果免费短剧月活跃用户独占 3.56 亿，同比增长 79.1",
+     "source": "IT之家",
+     "zh": "孩子买回一套“纸质版短剧”：没广告、不用充电，14 元轻松拿下 24 台 N 折叠"
+    },
+    {
+     "title": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门",
+     "link": "https://www.ithome.com/1/030/938.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:06:21 GMT",
+     "summary": "IT之家 11 月 23 日消息，据韩媒 The Elec 报道，LG U+ 正围绕人工智能（AI）基础设施和平台业务调整企业业务架构，计划将相关业务划分为 AI 基础设施部门和 AI 平台部门，分别负责 AI 数据中心及有线、无线通信网络，以及 AI 客户联络中心和智能体服务。 在企业事业部门下，公司将新设 AI 基础设施部门，整合 AI 数据中心运营业务与通信基础设施服务；同时设立 AI 平台部门，在现有 AI 客户联络中心和智能体业务基础上，进一步拓展主权 AI、Token 服务等领域。 在人事调整方面，此前担任企业事业部门负责人的 Kwon Yong-hyun 将调任消费者事业部门。后",
+     "source": "IT之家",
+     "zh": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门"
+    },
+    {
+     "title": "荣耀推出 HONOR LIFE FlyPods X10 Pro 半入耳降噪耳机，国补价 179.1 元",
+     "link": "https://www.ithome.com/1/030/937.htm",
+     "pubDate": "Mon, 23 Nov 2026 08:04:46 GMT",
+     "summary": "IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会上，荣耀官宣推出 HONOR LIFE FlyPods X10 Pro 半入耳式降噪耳机， 建议零售价 199 元、国补价 179.1 元 。 京东 HONOR LIFE FlyPods X10 Pro 蓝牙耳机降噪 199 元 直达链接 据介绍，HONOR LIFE FlyPods X10 Pro 半入耳式降噪耳机严格遵循人体工学设计， 单耳重约 4.1g ，主打零压感贴合耳部轮廓，号称“久戴不累”。 耳机搭载 12mm 大尺寸动圈单元 ，拥有 HiFi 级类金刚石碳振膜，升级 LHDC 高清解析，拥有 ",
+     "source": "IT之家",
+     "zh": "荣耀推出 HONOR LIFE FlyPods X10 Pro 半入耳降噪耳机，国补价 179.1 元"
+    },
+    {
      "title": "推理时代，AI服务器的Token成本到底该怎么算？",
      "link": "https://www.tmtpost.com/8214594.html",
      "pubDate": "Mon, 23 Nov 2026 16:00:08 +0800",
@@ -1809,22 +1857,6 @@
      "zh": "40元一个汉堡，“县城之王”华莱士摸进中产圈"
     },
     {
-     "title": "3399 元起荣耀 700 / 700S / Pro 系列手机发布：AI 灵动背屏、支持长焦增距镜",
-     "link": "https://www.ithome.com/1/030/931.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:44:22 GMT",
-     "summary": "IT之家 11 月 23 日消息，在目前正在进行的 荣耀 700 系列暨全场景新品发布会中，荣耀 700 / 700S / Pro 系列手机正式发布。 京东 荣耀 700 系列手机 3399 元起 直达链接 系列手机提供晴空、粉雾、冷白、蓝调四种配色可选，拥有 IP68/IP69/IP69K 认证，厚 7.96mm，重 211g，正面配备一块 6.57 英寸 1.5K 120Hz LTPS 绿洲护眼屏，支持 AI 绿洲干眼评估。 系列手机配备 1.59 英寸 AI 灵动背屏，手机配备影棚级柔光环，支持选择三档模式，可实现“行业独家”2 亿柔光背屏自拍功能，同时还支持 AI 互动、多样主题，以及",
-     "source": "IT之家",
-     "zh": "3399 元起荣耀 700 / 700S / Pro 系列手机发布：AI 灵动背屏、支持长焦增距镜"
-    },
-    {
-     "title": "中国汽车在 39 国的份额超过日本汽车",
-     "link": "https://www.ithome.com/1/030/930.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:42:32 GMT",
-     "summary": "IT之家 11 月 23 日消息，据日经中文网今日报道， 在全球 39 个国家，中国汽车制造商的新车销售份额超过了日本汽车制造商 。 报道称，2026 年，德国、巴西等 14 个国家的份额发生逆转。受全球原油价格上涨影响，中国企业擅长的纯电动汽车（EV）销量增长，抢占了市场份额。 随着扩大本地生产等举措，中国企业正加强海外攻势，日本企业受到挤压。如果日本在产业链覆盖广泛的汽车行业中市场份额持续下滑，可能导致支撑材料和零部件制造商等供应链的整个产业基础走弱。 报道还提到，中国车在欧洲份额反超日本，发生逆转的是欧洲汽车制造商协会的 5 月新车销量统计。 比亚迪、上汽、吉利等 5 家中国车企达到 1",
-     "source": "IT之家",
-     "zh": "中国汽车在 39 国的份额超过日本汽车"
-    },
-    {
      "title": "财富守护指南：普通人如何留住自己的钱？",
      "link": "https://www.huxiu.com/article/4907626.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 15:42:26 +0800",
@@ -1833,44 +1865,12 @@
      "zh": "财富守护指南：普通人如何留住自己的钱？"
     },
     {
-     "title": "《GTA 6》玩家发现无限刷钱漏洞，轻轻松松实现财富自由",
-     "link": "https://www.ithome.com/1/030/928.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:42:01 GMT",
-     "summary": "IT之家 11 月 23 日消息，《GTA 6》发售才几天，玩家就已经发现了一种可以无限刷钱的漏洞。和 Rockstar 以往的游戏一样，各种 Bug 和漏洞很快便被玩家找了出来。这次的漏洞出现在南维斯特戴尔县（South Vice-Dale County）汉姆雷特（Hamlet）东北方向的一处红色谷仓仓库里。 具体操作方法是：首先搜刮仓库，将战利品装进汽车里的储物袋；随后驾车驶离一小段距离再返回，或者手动存档后重新读取存档。这样一来，仓库里的战利品就会重新刷新，而此前装进车里的物品仍然保留。 接下来，玩家只需将这些物品卖给布莱恩的藏身处（Brian's Lockup）等销赃商人，然后重复上述",
-     "source": "IT之家",
-     "zh": "《GTA 6》玩家发现无限刷钱漏洞，轻轻松松实现财富自由"
-    },
-    {
-     "title": "蔚来第 17 万台全新 ES8 纯电 SUV 官宣本周交付，租电购买 27.48 万元起",
-     "link": "https://www.ithome.com/1/030/927.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:38:45 GMT",
-     "summary": "IT之家 11 月 23 日消息，上海蔚来汽车有限公司用户运营助理副总裁杨波今日宣布， 第 17 万台全新 ES8 纯电 SUV 将在本周交付 。 该车 10 月 23 日在陕西西安完成了第 160,000 台蔚来全新 ES8 交付。 全新 ES8 上市超一年，零售销量月均过万 ，达成第 160,000 台新车交付里程碑，也刷新了 40 万级高端纯电车型的交付纪录，在大型 SUV 和 40 万级车型两个细分市场的累计零售销量均位列第一。 据IT之家此前报道， 全新蔚来 ES8 纯电 SUV 于 2025 年 9 月 20 日晚正式上市 ，整车方案售价 40.68 万-44.68 万元、租电方案",
-     "source": "IT之家",
-     "zh": "蔚来第 17 万台全新 ES8 纯电 SUV 官宣本周交付，租电购买 27.48 万元起"
-    },
-    {
      "title": "国内奶价持续走跌，为何蛋白粉还连续涨价？",
      "link": "https://www.huxiu.com/article/4907706.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 15:36:30 +0800",
      "summary": "本文来自微信公众号： 宇宙路口 ，作者：奇异世界1号 网络牛马很擅长用段子来自嘲，譬如下面这段就流传很广： 咖啡曾被当做一种兽药给牛马等牲畜食用，牲畜吃了之后，不仅消耗饲料更少，干起活来还不知疲倦、精力旺盛，再之后，这种功效被用到了现代牛马身上。 这当然是编的段子，但现代牛马套装中的蛋白粉，曾经确实是喂猪的，如今它在不断涨价，今年以来涨价20%以上的蛋白粉产品比比皆是，反正比你掉秤的速度快多了。 01 蛋白粉产品也有很多分类，如动物蛋白粉、植物蛋白粉、混合蛋白粉等，目前最受消费者推崇的自然还是属于动物蛋白粉类别的“乳清蛋白粉”，也是价格最高的蛋白粉。 在“戒糖时代”，蛋白粉也不仅被健身人群偏爱",
      "source": "虎嗅",
      "zh": "国内奶价持续走跌，为何蛋白粉还连续涨价？"
-    },
-    {
-     "title": "阿里云：AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费",
-     "link": "https://www.ithome.com/1/030/926.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:36:19 GMT",
-     "summary": "IT之家 11 月 23 日消息，阿里云今日发布公告， 宣布 AgentLoop 将于北京时间 2026 年 12 月 7 日 00:00:00 起 ， 对记忆库、经验库及优化任务三项功能正式收费 。 IT之家附上述三项功能的简介如下： 记忆库：使用模型从对话等数据中提取可跨会话使用的长期记忆。 经验库：使用模型分析 Agent 的执行轨迹，提炼可在后续任务中复用的经验。 优化任务：使用模型对提示词（Prompt）、技能（Skill）等 Agent 资产进行调优。 自上述时间起，用户使用上述功能产生的模型资源消耗，将按 AI Credits 实际消耗量计费。阿里云建议用户提前查看相关功能的使用",
-     "source": "IT之家",
-     "zh": "阿里云：AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费"
-    },
-    {
-     "title": "运营约 5 年半：PS5 游戏《毁灭全明星》宣布 11 月 25 日关服",
-     "link": "https://www.ithome.com/1/030/925.htm",
-     "pubDate": "Mon, 23 Nov 2026 07:36:01 GMT",
-     "summary": "IT之家 11 月 23 日消息，开发商 Lucid Games 宣布旗下车辆战斗游戏《毁灭全明星（Destruction AllStars）》将于 11 月 25 日关服，本作是索尼 PS5 平台首发游戏阵容之一，由于该作的核心设计高度依赖在线服务，服务器停止运作后，游戏将基本无法继续游玩。 公开信息显示，本作于 2021 年 2 月发售，至今运营约 5 年半。以车辆碰撞、夸张角色和多人混战为主要内容，车辆破坏具有一定乐趣。不过，其内容量不足以长期维持玩家参与，首发时的单人模式配置和微交易设计也影响了整体体验。随着玩家数量下滑以及更多新作推出，该作逐渐失去关注。 目前，官方尚未公布离线模式、",
-     "source": "IT之家",
-     "zh": "运营约 5 年半：PS5 游戏《毁灭全明星》宣布 11 月 25 日关服"
     },
     {
      "title": "法国市场配音本地化后，买量CPA反而涨了38%，该砍还是该改？",
@@ -2009,12 +2009,12 @@
      "zh": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产"
     },
     {
-     "title": "Yes, 17M lines of Lean is a lot",
-     "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-     "pubDate": "Mon, 23 Nov 2026 05:00:49 +0000",
-     "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 31 # Comments: 37",
+     "title": "A Partial Evaluator for C",
+     "link": "https://phoenix.labri.fr/software/tempo/",
+     "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
+     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 41 # Comments: 2",
      "source": "Hacker News",
-     "zh": "Yes, 17M lines of Lean is a lot"
+     "zh": "A Partial Evaluator for C"
     }
    ]
   },
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s next Gallery feature could turn your photos into short videos",
+     "link": "https://www.androidauthority.com/samsung-shorts-feature-one-ui-9-5-3738063/",
+     "pubDate": "Mon, 23 Nov 2026 08:15:08 +0000",
+     "summary": "One UI 9.5 could help you turn your vacation photos into a highlight reel, for a price.",
+     "source": "Android Authority",
+     "zh": "Samsung’s next Gallery feature could turn your photos into short videos"
+    },
     {
      "title": "Samsung could end annual Galaxy Watch releases starting in 2027",
      "link": "https://www.androidauthority.com/samsung-galaxy-watch-2027-launch-skip-3738043/",
@@ -2039,6 +2047,14 @@
      "summary": "In traditional Google fashion, the online titan just can’t seem to make up its mind on what is mostly semantics and end-user marketing matters. A couple of changes were recently announced for 2027, pertaining to Google Home devices. First up, the Nest app for Android, iOS and the web version will al",
      "source": "GSMArena",
      "zh": "Google is killing off the Nest app and Google Assistant on Home devices"
+    },
+    {
+     "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+     "link": "https://sspai.com/post/119023",
+     "pubDate": "Mon, 23 Nov 2026 15:12:24 +0800",
+     "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ... 查看全文",
+     "source": "少数派",
+     "zh": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验"
     },
     {
      "title": "Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji",
@@ -2241,28 +2257,12 @@
      "zh": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday"
     },
     {
-     "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
-     "link": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
-     "pubDate": "Sun, 22 Nov 2026 11:54:10 +0000",
-     "summary": "Samsung's 5.1.2-channel Q-Series soundbar with a wireless subwoofer is 36% off on Amazon ahead of Black Friday.",
-     "source": "Android Authority",
-     "zh": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off"
-    },
-    {
      "title": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
      "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
      "pubDate": "Sun, 22 Nov 2026 10:15:48 +0000",
      "summary": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s",
      "source": "9to5Mac",
      "zh": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)"
-    },
-    {
-     "title": "从深圳到上海，少数派的共创故事还在继续",
-     "link": "https://sspai.com/post/119318",
-     "pubDate": "Sun, 22 Nov 2026 09:05:44 +0800",
-     "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
-     "source": "少数派",
-     "zh": "从深圳到上海，少数派的共创故事还在继续"
     }
    ]
   },
@@ -2272,6 +2272,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "France's composite PMI falls to six-month low as manufacturing slumps",
+     "link": "https://seekingalpha.com/news/4675445-frances-composite-pmi-falls-to-six-month-low-as-manufacturing-slumps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 03:26:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "France's composite PMI falls to six-month low as manufacturing slumps"
+    },
+    {
+     "title": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指盘中一度翻红，光通信拉升",
+     "link": "https://wallstreetcn.com/articles/3786484",
+     "pubDate": "Mon, 23 Nov 2026 16:14:18 +0800",
+     "summary": "11月23日，沪指午后回升，收复3500点，盘中一度跌超1%，主要受权重股拖累，银行、地产、油气等陷入调整，中国石油跌5%，工商银行、农业银行、建设银行、贵州茅台等跌超2%。物理AI、人形机器人、AI短剧、光模块、电路板等概念股纷纷反弹，推动创业板涨超2%。 11月22日，监管层发布一揽子稳市举措，包括调整融资保证金比例、在创业板引入做市商制度、发布一揽子降费举措等，意在稳市场、稳预期，增强稳市力量。业内人士指出，此番举措与本月初的稳市政策接续发力，形成连贯统一的稳预期框架，政策工具箱持续加码，不断增强资本市场韧性，为市场行稳致远注入确定性。 中信证券认为，这些举措直击市场痛点，在杠杆资金持续",
+     "source": "华尔街见闻",
+     "zh": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指盘中一度翻红，光通信拉升"
+    },
     {
      "title": "Novartis drug Leqvio shows promise in reducing heart risks in major late-stage trial",
      "link": "https://seekingalpha.com/news/4675444-novartis-drug-leqvio-shows-promise-in-reducing-heart-risks-in-major-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2313,60 +2329,12 @@
      "zh": "Wall Street set to rebound after AI stock sell-off"
     },
     {
-     "title": "壶化股份：截至11月20日最新股东户数1.55万户，较上期减少0.93%",
-     "link": "http://stock.eastmoney.com/news/11111,202611233937260827.html",
-     "pubDate": "Mon, 23 Nov 2026 15:44:10 +0800",
-     "summary": "壶化股份 最新披露数据显示，截至11月20日公司股东户数为1.55万户，较上期(2026年11月10日) 减少145户，降幅为0.93% 。户均持有流通股数量 由上期的1.17万股上升至1.18万股， 户均持股金额 由上期的15.46万元减少至13.35万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "壶化股份：截至11月20日最新股东户数1.55万户，较上期减少0.93%"
-    },
-    {
-     "title": "伊朗外交部发言人：迄今为止，尚未就退出《不扩散核武器条约》作出任何决定并予以传达",
-     "link": "http://hk.eastmoney.com/news/1533,202611233937260712.html",
-     "pubDate": "Mon, 23 Nov 2026 15:43:51 +0800",
-     "summary": "伊朗外交部发言人：迄今为止，尚未就退出《不扩散核武器条约》作出任何决定并予以传达。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外交部发言人：迄今为止，尚未就退出《不扩散核武器条约》作出任何决定并予以传达"
-    },
-    {
-     "title": "【调研快报】联讯仪器接待线上参与联讯仪器(688808)2026年第三季度业绩说明会的全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611233937260341.html",
-     "pubDate": "Mon, 23 Nov 2026 15:43:09 +0800",
-     "summary": "联讯仪器 11月23日公告称， 11月20日 接待线上参与 联讯仪器 (688808)2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事长 胡海洋,副总经理、财务负责人、董事会秘书 廖金,独立董事 徐秀法。 公司就以下问题进行了回复： 1. 3.2T高速测试仪器是否通过验证?预计什么时候量产? 答:公司新一代采样示波器及配套时钟恢复单元产品可覆盖2.4T/3.2T光模块的眼图测试需求,支撑该性能的自研核心采样保持芯片已成功流片,按计划将于近期向行业头部客户送样验证,目前尚未完成客户端全流程验证工作。关于量产节奏,公司产品迭代始终与... 点击查看PDF原文 免责声明：本文基于A",
-     "source": "东方财富股票",
-     "zh": "【调研快报】联讯仪器接待线上参与联讯仪器(688808)2026年第三季度业绩说明会的全体投资者调研"
-    },
-    {
      "title": "美国信用市场崩了！垃圾债遭遇年内最惨烈一周， 高评级债也承压",
      "link": "https://wallstreetcn.com/articles/3786507",
      "pubDate": "Mon, 23 Nov 2026 15:42:56 +0800",
      "summary": "持续数周的股债市场分化正在收敛。此前对美股下跌反应相对迟缓的美国信贷市场，上周明显承压，高收益债（垃圾债）利差创下年内最大单周走阔纪录，抛售压力也开始从低评级债券向更高评级领域扩散。 上周，标普500指数下跌8.6%，纳斯达克指数下跌10.4%，后者年内涨幅悉数回吐。与此同时， 美国高收益债信用利差扩大51个基点至367个基点，创下2026年以来最大单周涨幅，几乎是此前9月下旬单周最大涨幅的两倍。 高盛数据显示，上周美国高收益债指数1934只成分债券中，有1753只下跌。高收益债年内回报率也由此前的正0.54%转为负0.32%。与此同时， 投资级债信用利差也扩大10个基点至96个基点，显示抛售",
      "source": "华尔街见闻",
      "zh": "美国信用市场崩了！垃圾债遭遇年内最惨烈一周， 高评级债也承压"
-    },
-    {
-     "title": "延江股份：截至10月20日最新股东户数1.67万户，较上期增加0.40%",
-     "link": "http://stock.eastmoney.com/news/11111,202611233937259715.html",
-     "pubDate": "Mon, 23 Nov 2026 15:42:11 +0800",
-     "summary": "延江股份 最新披露数据显示，截至10月20日公司股东户数为1.67万户，较上期(2026年9月30日) 增加66户，增幅为0.40% 。户均持有流通股数量 由上期的1.44万股下降至1.43万股， 户均持股金额 由上期的14.73万元减少至13.20万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "延江股份：截至10月20日最新股东户数1.67万户，较上期增加0.40%"
-    },
-    {
-     "title": "【调研快报】国机汽车接待国泰海通证券调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611233937259614.html",
-     "pubDate": "Mon, 23 Nov 2026 15:42:11 +0800",
-     "summary": "国机汽车 11月23日公告称， 11月20日 接待 国泰海通 证券 调研。 接待人员包括 国机汽车 财务总监、董事会秘书 张之亮, 国机汽车 董事会办公室(战略投资部)主任 聂秀欣,国机 汽车 董事会办公室(战略投资部) 王宇,谢雨辰。 公司就以下问题进行了回复： 一、公司介绍 11月20日,国机 汽车 股份有限公司(以下简称“公司”)接待了 国泰海通 证券调研。首先介绍了公司的基本情况,公司主要包括 汽车 工程系统服务、汽车流通服务和汽车 租赁 服务三大主业。汽车工程系统服务是核心业务,以工程技术服务、工程总承包、装备产线系统解决方案为三大核心业务,具备涵盖咨询、勘察、设... 点击查看PD",
-     "source": "东方财富股票",
-     "zh": "【调研快报】国机汽车接待国泰海通证券调研"
-    },
-    {
-     "title": "Shopify CEO谈黄仁勋离职：系“精心策划” 英伟达董事会是“一群蠢货”",
-     "link": "http://stock.eastmoney.com/news/1611,202611233937260136.html",
-     "pubDate": "Mon, 23 Nov 2026 15:42:00 +0800",
-     "summary": "11月23日，Shopify首席执行官托比·吕特克（Tobi Lütke）就 英伟达 董事会处理黄仁勋辞职事件的方式发表了尖锐批评。在最新发布的一期大卫·森拉（David Senra）播客节目中，吕特克质疑黄仁勋离职前一系列指控出现的先后顺序，认为这些事件的安排过于巧合，难以用偶然来解释。吕特克表示：“说实话，这一切都安排得非常精准：婚外情、又一桩婚外情、再一桩婚外情。这简直就像精心编排好的一样，太有组织性了。这完全就是一本书里会写出的扳倒某个人的故事。” 吕特克在播客中承认，自己的判断可能有误，黄仁勋也可能确实存在被指控的婚外情行为。不过，他表示，有“相当多的人”能够从黄仁勋失去首席执行官职",
-     "source": "东方财富股票",
-     "zh": "Shopify CEO谈黄仁勋离职：系“精心策划” 英伟达董事会是“一群蠢货”"
     },
     {
      "title": "SK海力士掌门人崔泰源离婚案最新进展：愿全额支付9440亿韩元 请求法院调解！",
@@ -2401,28 +2369,12 @@
      "zh": "美股史诗级大跌后 高盛最新发声：大幅反弹首要风险在美联储 市场正接近“战术性入场”点位"
     },
     {
-     "title": "Barrick recommends rejecting NYSB's $26.40-per-share mini-tender offer",
-     "link": "https://seekingalpha.com/news/4675437-barrick-recommends-rejecting-nysbs-26_40-per-share-mini-tender-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 02:34:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Barrick recommends rejecting NYSB's $26.40-per-share mini-tender offer"
-    },
-    {
      "title": "“至暗一周”后，黄金终于等来散户抄底！",
      "link": "https://wallstreetcn.com/articles/3786504",
      "pubDate": "Mon, 23 Nov 2026 15:30:12 +0800",
      "summary": "黄金从近八个月来最大单周跌幅中反弹，超卖后的抄底买盘为金价提供支撑，市场也开始下调对美联储12月加息的押注。尽管美国通胀和就业数据仍是短期压制金价的主要因素，但多家机构认为，本轮调整可能已接近尾声。 周一，现货黄金涨超2%，报每盎司3627美元。此前一周，金价累计下跌9%，创近八个月来最大单周跌幅，并跌至一年多来的低位。从技术指标看，黄金14日相对强弱指数（RSI）已跌破30，进入通常被视为超卖的区间。 本轮反弹的直接推手是逢低买盘。据彭博报道，深圳水贝黄金市场金店人流明显增加，消费者纷纷入场购买。市场分析人士认为， 这波购买热潮主要由认为当前价位已是底部的散户投资者推动。 与此同时，上周五美",
      "source": "华尔街见闻",
      "zh": "“至暗一周”后，黄金终于等来散户抄底！"
-    },
-    {
-     "title": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指一度翻红",
-     "link": "https://wallstreetcn.com/articles/3786484",
-     "pubDate": "Mon, 23 Nov 2026 15:27:39 +0800",
-     "summary": "在美股上周“黑色一周”（纳指周跌10.02%、抹去年内涨幅）与韩股周一熔断式下跌的海外冲击下，A股早盘低开，科创50跌超2%，半导体、光刻机、存储等领跌。 11月23日，沪指午后回升，收复3500点，盘中一度跌超1%，主要受权重股拖累，银行、地产、油气等陷入调整，中国石油跌5%，工商银行、农业银行、建设银行、贵州茅台等跌超2%。物理AI、人形机器人、AI短剧、光模块、电路板等概念股纷纷反弹，推动创业板涨超2%。 港股低开低走，恒指、恒科指早盘双双跌超1%，恒科指盘中跌近2%，午后亦 翻红转涨 ，权重科网股回升，腾讯、阿里、美团等跌幅收窄，网易、联想逆势涨超4%。AI硬件股局部反弹，中际旭创涨近",
-     "source": "华尔街见闻",
-     "zh": "沪指午后反弹收复3500点，创业板大涨超3%，机器人爆发，宇树20CM涨停，恒科指一度翻红"
     },
     {
      "title": "特朗普称只想向中国出售相对落后的芯片 外交部回应",
@@ -2511,6 +2463,54 @@
      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
      "source": "Financial Times",
      "zh": "The problem with the circular AI economy"
+    },
+    {
+     "title": "China is winning the car war",
+     "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 05:00:13 GMT",
+     "summary": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+     "source": "Financial Times",
+     "zh": "China is winning the car war"
+    },
+    {
+     "title": "Progressives are not radical enough on economics",
+     "link": "https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0",
+     "pubDate": "Mon, 23 Nov 2026 05:00:13 GMT",
+     "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+     "source": "Financial Times",
+     "zh": "Progressives are not radical enough on economics"
+    },
+    {
+     "title": "The Gulf’s ‘new normal’",
+     "link": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 05:00:03 GMT",
+     "summary": "As life regains its prewar energy, many worry the US-Iran war has done lasting damage to the region’s image",
+     "source": "Financial Times",
+     "zh": "The Gulf’s ‘new normal’"
+    },
+    {
+     "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+     "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+     "pubDate": "Mon, 23 Nov 2026 03:52:17 GMT",
+     "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+     "source": "CNBC",
+     "zh": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year"
+    },
+    {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:51:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
+     "title": "Ron Johnson’s Social Security gaffe buried important news",
+     "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
+     "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+     "source": "MarketWatch",
+     "zh": "Ron Johnson’s Social Security gaffe buried important news"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 13:11:53",
+ "generated_at": "2026/11/23 13:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -55,6 +55,46 @@
      "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patt",
      "source": "arXiv cs.AI",
      "zh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
+    },
+    {
+     "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+     "link": "https://www.qbitai.com/2026/11/511998.html",
+     "pubDate": "Mon, 23 Nov 2026 03:56:34 +0000",
+     "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+     "source": "量子位",
+     "zh": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力"
+    },
+    {
+     "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+     "link": "https://www.qbitai.com/2026/11/511989.html",
+     "pubDate": "Mon, 23 Nov 2026 03:47:46 +0000",
+     "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+     "source": "量子位",
+     "zh": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要"
+    },
+    {
+     "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+     "link": "https://www.qbitai.com/2026/11/511978.html",
+     "pubDate": "Mon, 23 Nov 2026 03:13:06 +0000",
+     "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+     "source": "量子位",
+     "zh": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布"
+    },
+    {
+     "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+     "link": "https://www.qbitai.com/2026/11/511933.html",
+     "pubDate": "Mon, 23 Nov 2026 02:29:24 +0000",
+     "summary": "豆包工作是目前字节优先级最高的产品",
+     "source": "量子位",
+     "zh": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班"
+    },
+    {
+     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+     "link": "https://www.qbitai.com/2026/11/511921.html",
+     "pubDate": "Mon, 23 Nov 2026 02:09:59 +0000",
+     "summary": "还透露了不少训练背后的秘诀",
+     "source": "量子位",
+     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -119,14 +159,6 @@
      "summary": "用葡萄糖发电控制血糖。",
      "source": "量子位",
      "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
-    },
-    {
-     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-     "link": "https://www.qbitai.com/2026/11/511870.html",
-     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
     },
     {
      "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
@@ -215,38 +247,6 @@
      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
      "source": "TechCrunch AI",
      "zh": "Here are the top AI agents that can live in your text messages"
-    },
-    {
-     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-     "link": "https://www.qbitai.com/2026/11/511855.html",
-     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
-    },
-    {
-     "title": "中国计算，走出新的登峰之路",
-     "link": "https://www.qbitai.com/2026/11/511849.html",
-     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "中国计算，走出新的登峰之路"
-    },
-    {
-     "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
-     "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
-     "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
-     "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTech",
-     "source": "MarkTechPost",
-     "zh": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac"
-    },
-    {
-     "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
-     "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
-     "pubDate": "Sat, 21 Nov 2026 11:46:17 +0000",
-     "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
-     "source": "MarkTechPost",
-     "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
     }
    ]
   },
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
+     "link": "https://cnevpost.com/2026/11/23/nio-to-begin-deliveries-refreshed-et5-touring-es6-h1-2027/",
+     "pubDate": "Mon, 23 Nov 2026 05:26:42 +0000",
+     "summary": "Nio is preparing targeted updates for its core mid-size lineup, as sales heavily concentrated in the ES8 and ES9 large SUVs. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year"
+    },
+    {
      "title": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
      "link": "https://cnevpost.com/2026/11/23/xpeng-launches-g9l-thailand-indonesia/",
      "pubDate": "Mon, 23 Nov 2026 03:20:34 +0000",
@@ -807,14 +815,6 @@
      "summary": "Leapmotor will provide engineering and development services for the SUV for a total consideration of 100 million euros ($110 million). For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch"
-    },
-    {
-     "title": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index",
-     "link": "https://cnevpost.com/2026/11/20/catl-hesai-added-hk-hang-seng-tech-index/",
-     "pubDate": "Fri, 20 Nov 2026 12:29:38 +0000",
-     "summary": "The Hang Seng Tech Index is expanding significantly to 50 constituents, with the changes taking effect on December 7. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index"
     },
     {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -1777,6 +1777,38 @@
    "total": 18,
    "items": [
     {
+     "title": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产",
+     "link": "https://www.tmtpost.com/8210963.html",
+     "pubDate": "Mon, 23 Nov 2026 13:19:54 +0800",
+     "summary": "报告期内，立景创新业绩高度依赖前五大客户，客户集中度逐年攀升，2025年、2026年1-5月前五大客户贡献超九成营业收入。其中客户A为核心收入来源，2025年贡献公司71%营收，自2024年起，公司至少六成收入均来自该客户，业务绑定程度极深。",
+     "source": "钛媒体",
+     "zh": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产"
+    },
+    {
+     "title": "Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？",
+     "link": "https://www.huxiu.com/article/4907544.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 13:10:00 +0800",
+     "summary": "本文来自微信公众号： 游戏研究社 ，作者：楚云帆 当地时间2026年11月20日，BioWare迎来了它三十一年历史里的最后一个工作日。 BioWare开发总监Devon Gardner在社交媒体上敲下了简短的告别：“今天是BioWare的最后一天。沉重的一天，但庆幸走过这一程。” 在末尾，他引用了《质量效应3》终局里安德森上将在生命尽头对薛帕德说的那句台词——“You did good,son.” 结局在一个月前就已经注定。10月21日，彭博社率先披露EA将裁撤约400个岗位并关闭BioWare；EA也在当天公开的员工信里确认，下一部《质量效应》的早期开发终止，BioWare工作室及其在加拿",
+     "source": "虎嗅",
+     "zh": "Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？"
+    },
+    {
+     "title": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”",
+     "link": "https://www.ithome.com/1/030/811.htm",
+     "pubDate": "Mon, 23 Nov 2026 05:08:14 GMT",
+     "summary": "IT之家 11 月 23 日消息，据英国金融时报今日报道，美国财政部长斯科特 · 贝森特表示，他不会反对黄仁勋重返英伟达， 此前他曾呼吁英伟达董事会实施“彻底的改革” ， 应该从“外部”寻找新 CEO 。 美国总统唐纳德 · 特朗普今日在真实社交平台表示 ，他希望英伟达董事会能重新聘用黄仁勋。这对英伟达公司、美国来说都是最好的事情。 贝森特此前的态度与特朗普似乎存在一定矛盾。贝森特曾指责黄仁勋领导下的英伟达存在一种“不合规文化”，并称该公司可能试图通过“看似非法的销售行为”来“虚增营收和利润”。 而在最新采访中，贝森特指出，他说过英伟达应该从“外部”寻找新 CEO， 已经辞职的黄仁勋现在就是“",
+     "source": "IT之家",
+     "zh": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”"
+    },
+    {
+     "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
+     "link": "https://www.ithome.com/1/030/810.htm",
+     "pubDate": "Mon, 23 Nov 2026 05:08:13 GMT",
+     "summary": "IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。 其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。 本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。 官方还公布了本次测试",
+     "source": "IT之家",
+     "zh": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开"
+    },
+    {
      "title": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？",
      "link": "https://www.baijing.cn/question/638912",
      "pubDate": "Mon, 23 Nov 2026 05:06:34 +0000",
@@ -1807,6 +1839,22 @@
      "summary": "本文来自微信公众号： 数旗智酷 ，作者：唐鹏 “产品思维”可以说是互联网叙事的“元叙事”，它提倡以产品视角来设计互联网服务——它必须能解决某个问题，必须具有用户忠诚度，可以不断地优化和升级，它还可以不断吸引新的用户加入。这也是互联网服务开发和存在的意义。相同的是，现代国家政府都会通过生产不同优势的公共产品来证明其能力与合法性，比如日本的“医疗”、英国的“教育”、美国的“自由”、新加坡的“公共服务”以及中国的“安全”。那么国家本身可不可以像“产品”一样运营呢？ 事实上，“将国家当成产品一样运营”，这并不是一句只属于硅谷“科技爱国主义者”的异想天开，也不是一种学院派研究者的书生意气。在互联网发展的",
      "source": "虎嗅",
      "zh": "国家可以像“产品”一样运营吗？"
+    },
+    {
+     "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
+     "link": "https://www.ithome.com/1/030/809.htm",
+     "pubDate": "Mon, 23 Nov 2026 04:49:30 GMT",
+     "summary": "IT之家 11 月 23 日消息，据IT之家小伙伴反馈，智谱官方运营人员发布消息， GLM-5.4 模型已经上线 Coding Plan 。“过去三个月，我们同时激进的 Scaling Loop 和模型大小，大家首先看到的是 Loop Transformer 带来的惊喜。GLM-5.4 新增视觉能力与更强的泛 Coding 能力。” 此外，V2、V3 及团队版用户使用 GLM-5.4 模型额度已提升至 1.5 倍， 将模型名设置为 glm-5.4 即可 。 GLM-5.4 模型的具体介绍信息暂未公布，不过已经能在 Coding Plan 的模型列表中看到，显示“1M”和“视觉”字样。",
+     "source": "IT之家",
+     "zh": "智谱 GLM-5.4 模型发布，已上线 Coding Plan"
+    },
+    {
+     "title": "Mass destruction of weapons",
+     "link": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+     "pubDate": "Mon, 23 Nov 2026 04:47:35 +0000",
+     "summary": "Article URL: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html Comments URL: https://news.ycombinator.com/item?id=50607591 Points: 3 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Mass destruction of weapons"
     },
     {
      "title": "日本独立站日语客服外包，新规后个人信息处理还能直接转给外包团队吗？",
@@ -1873,22 +1921,6 @@
      "zh": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？"
     },
     {
-     "title": "“黄仁勋加盟英特尔”传闻里的炒作与AI再平衡",
-     "link": "https://www.huxiu.com/article/4907652.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 12:20:40 +0800",
-     "summary": "本文来自微信公众号： 夸克点评 ，作者：王如晨 瑞穗证券交易部门Jordan Klein客户报告引述一对冲基金投资组合经理推测，说黄仁勋可能加盟英特尔，主导AI芯片战略，包括开发一款新型GPU。还说陈立武本就不打算长待。 传闻来源实在单薄。英特尔未置评。Polymarket上，黄仁勋去英特尔的概率仅3%，自己再度创业的概率为27%。更像是英伟达权力过渡期里，华尔街顺手传出来的一个说法。 “加盟”一词深浅不一。跑去主导前台GPU开发，是个笑话。若担任顾问或进董事会任独董倒有可能，他与陈立武私人关系不错。 两家公司曾局部博弈多年，最近几年关联紧密多了。一重因素，英特尔一直想吃英伟达主力订单，惜始终",
-     "source": "虎嗅",
-     "zh": "“黄仁勋加盟英特尔”传闻里的炒作与AI再平衡"
-    },
-    {
-     "title": "长城 H6L HEV 混动版官图发布：搭载 1.5T 混动系统，11 月 27 日广州车展上市",
-     "link": "https://www.ithome.com/1/030/805.htm",
-     "pubDate": "Mon, 23 Nov 2026 04:04:30 GMT",
-     "summary": "IT之家 11 月 23 日消息，长城汽车今日发布长城 H6L HEV 混动版官图，并宣布新车将于 11 月 27 日开幕的 2026 广州国际汽车展览会上正式上市。 新车搭载长城第五代智能混动技术，配备 1.5T 混动专用发动机和 2 挡 DHT 变速箱，同时升级智能座舱及辅助驾驶系统。 外观方面，长城 H6L HEV 混动版整体延续在售燃油版车型的设计风格，前脸配备“丁达尔之光”点阵式大灯，车身侧面采用悬浮式车顶设计，尾部则换装贯穿式尾灯组，并对后包围进行调整。车身尺寸方面，新车长宽高分别为 4800、1895、1730 毫米，轴距为 2810 毫米。 配色方面，新车在原有冰晶白、幻夜黑、",
-     "source": "IT之家",
-     "zh": "长城 H6L HEV 混动版官图发布：搭载 1.5T 混动系统，11 月 27 日广州车展上市"
-    },
-    {
      "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
      "link": "https://www.techmeme.com/261122/p19#a261122p19",
      "pubDate": "Sun, 22 Nov 2026 23:00:14 -0500",
@@ -1905,26 +1937,10 @@
      "zh": "非洲短剧本地化，尼日利亚和肯尼亚的拍摄备货与退货率怎么控？"
     },
     {
-     "title": "小鹏 P7 全新内饰色「云境灰」公布，橙灰撞色设计",
-     "link": "https://www.ithome.com/1/030/804.htm",
-     "pubDate": "Mon, 23 Nov 2026 03:58:37 GMT",
-     "summary": "IT之家 11 月 23 日消息，小鹏 P7 全新内饰色「云境灰」官图今日公布，将于 11 月 25 日小鹏科技日正式亮相。 灵感来自阳光映照下的云朵， 浅云般的灰白色调铺陈座舱，明亮而舒展， 一抹橙色跃然于颈间与缝线， 橙灰撞色，点亮鲜活灵动的驾控氛围。 今日早些时候，小鹏 P7 还公布了一款全新车色 ——「晨曦粉」，同样将于 11 月 25 日小鹏科技日开启线下首展。 据IT之家此前报道， 全新小鹏 P7 于 2025 年 8 月 27 日晚正式上市 。该车提供 820km 超长续航版、750km 高性能版、702km 长续航版 三种不同配置，在此基础上还有鹏翼特别版车型，全系标配 800",
-     "source": "IT之家",
-     "zh": "小鹏 P7 全新内饰色「云境灰」公布，橙灰撞色设计"
-    },
-    {
-     "title": "黑客 Voices38 声称已破解《影之刃零》游戏 D 加密，商业表现或受影响",
-     "link": "https://www.ithome.com/1/030/803.htm",
-     "pubDate": "Mon, 23 Nov 2026 03:56:59 GMT",
-     "summary": "IT之家 11 月 23 日消息，据科技媒体 Notebookcheck 今天报道，黑客 Voices38 声称已破解《影之刃零》游戏的 D 加密技术（Denuvo）， 目前 PC 版破解游戏已在盗版渠道传播 。 据报道，Denuvo 开发商 Irdeto 已于 9 月份在美国提起诉讼，指控 Voices38 违反《数字千年版权法》（IT之家注：DMCA）。该开发商还意图向 Reddit、Discord 和 Valve 公司发送传票，要求查处这名黑客的真实身份。不过从目前的情况来看，诉讼并没有阻止 Voices38 继续破解游戏。 作为参考，《影之刃零》发售于 10 月 29 日，登陆 PC ",
-     "source": "IT之家",
-     "zh": "黑客 Voices38 声称已破解《影之刃零》游戏 D 加密，商业表现或受影响"
-    },
-    {
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "link": "https://github.com/AFK-surf/xnulinux",
      "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
-     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 33 # Comments: 9",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 72 # Comments: 20",
      "source": "Hacker News",
      "zh": "XNU Linux: Full OS X GUI Userspace on Linux"
     },
@@ -1940,7 +1956,7 @@
      "title": "The New Docker: Built to Run on Trust",
      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
      "pubDate": "Mon, 23 Nov 2026 03:34:29 +0000",
-     "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 11 # Comments: 11",
+     "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 19 # Comments: 23",
      "source": "Hacker News",
      "zh": "The New Docker: Built to Run on Trust"
     },
@@ -1999,22 +2015,6 @@
      "summary": "还没毕业，大学生已经忙着搞AI项目了。",
      "source": "钛媒体",
      "zh": "这届大学生，狂卷黑客松"
-    },
-    {
-     "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
-     "link": "https://www.techmeme.com/261122/p17#a261122p17",
-     "pubDate": "Sun, 22 Nov 2026 21:35:00 -0500",
-     "summary": "Pritam Biswas / Reuters : TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B &nbsp; &mdash;&nbsp; Fintech firm BILL Holdings (BILL.N) said on Thursday it will be acquired by private equity group",
-     "source": "Techmeme",
-     "zh": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)"
-    },
-    {
-     "title": "Advanced Character Physics (2001) [pdf]",
-     "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
-     "pubDate": "Mon, 23 Nov 2026 02:17:27 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf Comments URL: https://news.ycombinator.com/item?id=50606704 Points: 9 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Advanced Character Physics (2001) [pdf]"
     }
    ]
   },
@@ -2273,6 +2273,30 @@
    "total": 13,
    "items": [
     {
+     "title": "China's gold imports said to have surged to record $209B through Oct.",
+     "link": "https://seekingalpha.com/news/4675430-chinas-gold-imports-said-to-have-surged-to-record-209b-through-oct?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 00:27:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China's gold imports said to have surged to record $209B through Oct."
+    },
+    {
+     "title": "MSCI reportedly discussed avoiding Indonesia downgrade with Prabowo, Dalio",
+     "link": "https://seekingalpha.com/news/4675427-msci-reportedly-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 00:12:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MSCI reportedly discussed avoiding Indonesia downgrade with Prabowo, Dalio"
+    },
+    {
+     "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+     "pubDate": "Mon, 23 Nov 2026 05:08:03 GMT",
+     "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+     "source": "CNBC",
+     "zh": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case"
+    },
+    {
      "title": "The number of 401(k) millionaires drops amid stock-market swings",
      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 05:01:00 GMT",
@@ -2281,12 +2305,60 @@
      "zh": "The number of 401(k) millionaires drops amid stock-market swings"
     },
     {
+     "title": "The problem with the circular AI economy",
+     "link": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 05:00:13 GMT",
+     "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+     "source": "Financial Times",
+     "zh": "The problem with the circular AI economy"
+    },
+    {
+     "title": "China is winning the car war",
+     "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 05:00:13 GMT",
+     "summary": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+     "source": "Financial Times",
+     "zh": "China is winning the car war"
+    },
+    {
+     "title": "Progressives are not radical enough on economics",
+     "link": "https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0",
+     "pubDate": "Mon, 23 Nov 2026 05:00:13 GMT",
+     "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+     "source": "Financial Times",
+     "zh": "Progressives are not radical enough on economics"
+    },
+    {
+     "title": "The Gulf’s ‘new normal’",
+     "link": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 05:00:03 GMT",
+     "summary": "As life regains its prewar energy, many worry the US-Iran war has done lasting damage to the region’s image",
+     "source": "Financial Times",
+     "zh": "The Gulf’s ‘new normal’"
+    },
+    {
      "title": "Monday's Economic Calendar",
      "link": "https://seekingalpha.com/news/4675388-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Monday's Economic Calendar"
+    },
+    {
+     "title": "Wall Street set to rebound after AI stock sell-off",
+     "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 04:58:47 GMT",
+     "summary": "Asian markets declined as South Korean chipmakers shed about 3%",
+     "source": "Financial Times",
+     "zh": "Wall Street set to rebound after AI stock sell-off"
+    },
+    {
+     "title": "Asian regulators rush to support sagging markets as AI trade falters",
+     "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 04:54:47 GMT",
+     "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+     "source": "Financial Times",
+     "zh": "Asian regulators rush to support sagging markets as AI trade falters"
     },
     {
      "title": "Asian markets extend losses after Wall Street selloff; U.S. futures rebound",
@@ -2313,62 +2385,6 @@
      "zh": "Waymo pauses San Francisco service from Monday amid storm warning"
     },
     {
-     "title": "高盛下调三星电子、SK海力士目标价 维持买入评级",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937149083.html",
-     "pubDate": "Mon, 23 Nov 2026 12:37:45 +0800",
-     "summary": "高盛 发布的全球 半导体 存储行业报告中指出，AI算力需求将继续支撑2027年 存储芯片 维持严重供不应求，但受 消费电子 疲软及厂商扩产影响，2028年供需将趋于缓和。 高盛 分析师Giuni Lee等下调了2028年传统DRAM与NAND价格预测，并将三星 电子 目标价从50万韩元下调至35万韩元， SK海力士 目标价从350万韩元下调至 200 万韩元。不过 高盛 通过三项压力测试指出，两家公司当前股价已提前反映了2028年AI资本开支零增长及存储价格再跌40%的悲观预期，叠加2027至2028年高达17%至22%的股东回报率，继续维持对两家巨头的买入评级。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "高盛下调三星电子、SK海力士目标价 维持买入评级"
-    },
-    {
-     "title": "上金所紧急提示风险，金价又创新低！深圳水贝周末被挤爆，商户：吃饭都没时间",
-     "link": "http://finance.eastmoney.com/news/1361,202611233937149141.html",
-     "pubDate": "Mon, 23 Nov 2026 12:37:40 +0800",
-     "summary": "今早（11月23日），上海 黄金 交易所发布“关于做好近期市场风险控制工作的通知”称： 各会员单位： 近期影响市场不稳定的因素较多，不确定性持续上升， 贵金属 价格波动显著加剧，请各会员单位密切关注市场行情变化，做细做好风险应急预案，维护市场平稳运行。同时，提示投资者做好风险防范工作，合理控制仓位，理性投资。 特此通知。 上海 黄金 交易所 2026年11月23日 上海 黄金 交易所是经国务院批准，由中国人民 银行 组建，专门从事黄金等 贵金属 交易的金融市场，于2002年10月正式运行。 今早（11月23日）最新金价（现货黄金 XAU）： 11月20日，也就是上周最后一个交易日，现货黄金价格",
-     "source": "东方财富股票",
-     "zh": "上金所紧急提示风险，金价又创新低！深圳水贝周末被挤爆，商户：吃饭都没时间"
-    },
-    {
-     "title": "Beijing steps up market rescue with record 90B yuan ETF purchases",
-     "link": "https://seekingalpha.com/news/4675420-beijing-steps-up-market-rescue-with-record-90b-yuan-etf-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 23:37:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Beijing steps up market rescue with record 90B yuan ETF purchases"
-    },
-    {
-     "title": "上周末三家地方国资上市公司密集调整董事长 均系工作调动",
-     "link": "http://finance.eastmoney.com/news/1349,202611233937148994.html",
-     "pubDate": "Mon, 23 Nov 2026 12:37:10 +0800",
-     "summary": "11月20日至22日，A股市场迎来一波地方国资上市公司董事长人事调整潮。 新五丰 （600975.SH）、 佛塑科技 （000973.SZ）、 万年青 （000789.SZ）先后发布公告，公司董事长因工作调动或组织安排辞去职务。 三家企业均属地方国有控股上市公司，本次人事变动均源于国资系统内部干部统筹任用，属于正常组织调整范畴，且各家均已完成过渡安排，生产经营未受明显冲击。 新五丰 ：董事长任职四月即调任 11月20日，湖南 生猪养殖 龙头 新五丰 发布公告称，公司董事会收到董事长杨正华提交的书面辞职报告。因湖南省委组织部工作调动、拟进一步使用，杨正华申请辞去公司董事、董事长、董事会战略委员会",
-     "source": "东方财富股票",
-     "zh": "上周末三家地方国资上市公司密集调整董事长 均系工作调动"
-    },
-    {
-     "title": "11月23日午间涨停复盘：63股涨停 兴欣新材8天4板",
-     "link": "http://stock.eastmoney.com/news/11781,202611233937148889.html",
-     "pubDate": "Mon, 23 Nov 2026 12:35:15 +0800",
-     "summary": "今日午盘沪指 跌 0.96%，深成指 涨 0.24%，创业板指 涨 1.22%，今日午盘大盘成交额9163.71亿，较上个交易日放量606.04亿。 涨停个股数量方面，今日午盘共计63股涨停，另有17只个股盘中一度触及涨停，封板率78.75%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "11月23日午间涨停复盘：63股涨停 兴欣新材8天4板"
-    },
-    {
-     "title": "机器人上岗“造芯”！智元精灵G2在长电科技临港工厂成功并线",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937150179.html",
-     "pubDate": "Mon, 23 Nov 2026 12:35:09 +0800",
-     "summary": "近日，智元创新（AGIBOT）首批精灵G2 机器人 在位于 上海临港 的 长电科技 汽车 电子 工厂成功并线，接入芯片测试车间真实产线完成试运行，承担料盘上下料作业。 芯片封测是 半导体 产业链上工序繁杂、变量众多的环节之一。作为全球领先的芯片封测企业， 长电科技 旗下临港工厂主要面向智能化 汽车 、具身智能等领域，服务众多客户，产品型号多样，多品种生产已成为常态；同时，芯片成品测试产线连续运转、节拍紧凑，芯片精密脆弱，料盘取放稍有震动便可能导致翘料，对作业成功率要求极高。此类高精度、高节拍的物料作业是业内公认的难点场景。此次并线试运行，表明精灵G2已初步具备适配真实产线节拍的作业能力，并将在",
-     "source": "东方财富股票",
-     "zh": "机器人上岗“造芯”！智元精灵G2在长电科技临港工厂成功并线"
-    },
-    {
-     "title": "汇川技术：截至11月20日最新股东户数17.38万户，较上期减少2.69%",
-     "link": "http://stock.eastmoney.com/news/11111,202611233937147855.html",
-     "pubDate": "Mon, 23 Nov 2026 12:28:10 +0800",
-     "summary": "汇川技术 最新披露数据显示，截至11月20日公司股东户数为17.38万户，较上期(2026年11月10日) 减少4799户，降幅为2.69% 。户均持有流通股数量 由上期的1.35万股上升至1.39万股， 户均持股金额 由上期的75.50万元减少至73.15万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
-     "source": "东方财富股票",
-     "zh": "汇川技术：截至11月20日最新股东户数17.38万户，较上期减少2.69%"
-    },
-    {
      "title": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
      "pubDate": "Mon, 23 Nov 2026 04:26:49 GMT",
@@ -2377,68 +2393,12 @@
      "zh": "Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%"
     },
     {
-     "title": "A股“探底”回升，这类题材反弹最猛！AI服务器需求火爆，巨头厂商要求提价，多只概念股砸出“深坑”",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937147670.html",
-     "pubDate": "Mon, 23 Nov 2026 12:23:00 +0800",
-     "summary": "近些年来，以服务器为代表的高性能 计算机 产品随着全球 云计算 、 人工智能 、5G等新兴科技的发展需求不断增长。 上证指数触底反弹 11月23日早盘，上证指数盘中下探至3476.65点，创今年以来新低。截至上午收盘时，上证指数回到3500点附近，跌幅收窄至0.96%。创业板指早盘低开，上午收盘时涨幅1.22%。 盘面上， 物理AI 、AI短剧、人形 机器人 、覆 铜 板、光模块等题材早盘率先反弹。其中 物理AI 指数反弹最猛，概念股 凡拓数创 、 安培龙 均收获“20cm”涨停。 消息面上，据财联社，马斯克近日表示，Optimus有望在未来12—18个月完成倒垃圾、洗碗及收纳餐具等多步骤任务",
-     "source": "东方财富资讯",
-     "zh": "A股“探底”回升，这类题材反弹最猛！AI服务器需求火爆，巨头厂商要求提价，多只概念股砸出“深坑”"
-    },
-    {
-     "title": "广电总局重磅数据！影视院线多股涨停 主力吸筹这些票(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202611233937146253.html",
-     "pubDate": "Mon, 23 Nov 2026 12:22:20 +0800",
-     "summary": "影视院线 周一(11月23日)走强， 上海电影 、 横店影视 涨停， 幸福蓝海 、 慈文传媒 、 博纳影业 等跟涨。 消息面上，国家广播电视总局数据显示，2026年1-9月上线微短剧共 49万部 ，是2025年全年的13倍。微短剧用户规模达到 8.5亿 ，月活用户超过6亿，人均单日收看时长约2小时。 有券商表示，AI影视已跨过商业化临界点，是当前大模型C端最快规模化的应用形态。视频模型已由生成片段升级至稳定生产剧集，角色一致性、音画同步和长时生成逐步成熟；DataEye研究院预计2026年国内AI剧/漫剧市场规模约400亿元，用户规模超过6亿人。 主力资金：已吸筹多只个股 东方财富 Choic",
-     "source": "东方财富资讯",
-     "zh": "广电总局重磅数据！影视院线多股涨停 主力吸筹这些票(附股)"
-    },
-    {
-     "title": "本世纪惊现5次！美股罕见信号“发威” 以史为鉴后市如何？",
-     "link": "http://finance.eastmoney.com/news/1344,202611233937143520.html",
-     "pubDate": "Mon, 23 Nov 2026 12:13:01 +0800",
-     "summary": "2026年还剩不到六周，美股投资者经历了跌宕起伏的一年。受AI热潮、好于预期的企业盈利以及连番史诗级IPO的推动，美股三大指数今年均创下多项历史纪录。 尽管期间经历了不少“插曲”，但华尔街主要股指在长期内持续攀升似乎已是常事。然而需要注意的是， 历史也清楚地表明，牛市不会永远持续下去，尤其是在股票估值进入极高（且不可持续）的领域的情况下。 大多数投资者在评估个股或整个市场时，都依赖于久经考验的市盈率（P/E）。市盈率是根据过去12个月的每股收益（EPS）计算得出的，虽然它对于快速评估成熟企业的实力非常有用，但当经济衰退发生，每股收益变为负值时，市盈率就会完全失去效用。 对于华尔街的 大盘股 指",
-     "source": "东方财富资讯",
-     "zh": "本世纪惊现5次！美股罕见信号“发威” 以史为鉴后市如何？"
-    },
-    {
-     "title": "马斯克称车用AI4芯片成本翻番 下一代AI5芯片不会应用于特斯拉车辆",
-     "link": "http://finance.eastmoney.com/news/1344,202611233937142140.html",
-     "pubDate": "Mon, 23 Nov 2026 12:09:59 +0800",
-     "summary": "半导体 价格上涨正进一步影响到消费市场， 特斯拉 车载电脑芯片AI4的物料清单成本据悉已经翻了一番，这可能导致车辆价格、FSD订阅服务以及其它项目不得不跟随涨价。 特斯拉 首席执行官马斯克上周日透露，内存和存储组件成本飙升是导致AI4芯片成本上涨的主要原因。但他并没有提供AI4的当前成本以及一年前的制造成本。 TeamGroup首席执行官Gerry Chen此前指出，三星DRAM产能已经排满至2029年，明年DRAM短缺问题可能变得非常严重，即使买方投入巨资也无法确保供应。 这意味着马斯克以及 特斯拉 很难找到降低AI4成本的替代方案，而AI4用于特斯拉当前车型的主要计算平台，并支持FSD v",
-     "source": "东方财富资讯",
-     "zh": "马斯克称车用AI4芯片成本翻番 下一代AI5芯片不会应用于特斯拉车辆"
-    },
-    {
-     "title": "物理AI加速推进！人形机器人密集涨停 融资客最新抢筹这些股",
-     "link": "http://finance.eastmoney.com/news/11139,202611233937139420.html",
-     "pubDate": "Mon, 23 Nov 2026 12:05:56 +0800",
-     "summary": "人形 机器人 板块11月23日早盘表现强势，板块中 安培龙 、 恒工精密 、 维宏股份 、 肇民科技 、 瑞芯微 、 浙江荣泰 等十多股涨停； 上纬新材 、 汉威科技 、 斯菱智驱 等涨超10%。 板块再迎利好政策 消息面上，国家发展改革委等四部门联合印发 《“一老一小”服务体系建设实施方案》 ，其中提到，推动养老机构配置智能健康监测、辅助器具等设备。鼓励发展适合养老场景的 人工智能 体、服务 机器人 、 智能穿戴 设备、外骨骼等新产品，支持在养老机构、社区等场景应用或设置体验区。 日前，工信部还发布了5项人形 机器人 国家标准，覆盖智能化能力评价、关键零部件、 人形机器人 训练三大方向，具体",
-     "source": "东方财富资讯",
-     "zh": "物理AI加速推进！人形机器人密集涨停 融资客最新抢筹这些股"
-    },
-    {
-     "title": "英伟达直线拉升！特朗普重磅表态：希望英伟达董事会重新聘用黄仁勋",
-     "link": "http://stock.eastmoney.com/news/11228,202611233937141665.html",
-     "pubDate": "Mon, 23 Nov 2026 12:02:55 +0800",
-     "summary": "北京时间11月23日，美股科技股夜盘继续走高，3倍做多 半导体 ETF-Direxion涨近15%， 英伟达 涨幅扩大至7%。 美股 台积电 夜盘涨超7.03%，现报341.1美元，总市值为1.77万亿美元。美股 SpaceX 夜盘涨超3.03%，现报131.66美元，总市值为1.79万亿美元。 此前，美国总统特朗普在社交平台Truth Social上发文称，希望 英伟达 董事会重新聘用黄仁勋，这对 英伟达 、对美国而言都将是最优选择。 相关报道 口风软化？贝森特暗示不反对黄仁勋重返英伟达 特朗普再次发声 关于英伟达前CEO黄仁勋回归的可能性，美国财长斯科特·贝森特的口风有变。与此同时，美国总",
-     "source": "东方财富资讯",
-     "zh": "英伟达直线拉升！特朗普重磅表态：希望英伟达董事会重新聘用黄仁勋"
-    },
-    {
      "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
      "pubDate": "Mon, 23 Nov 2026 03:52:17 GMT",
      "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
      "source": "CNBC",
      "zh": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year"
-    },
-    {
-     "title": "Australia's Composite PMI falls to lowest level in over five years",
-     "link": "https://seekingalpha.com/news/4675421-australias-composite-pmi-falls-to-lowest-level-in-over-five-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 22:50:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Australia's Composite PMI falls to lowest level in over five years"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2457,14 +2417,6 @@
      "zh": "Manus联创张涛：免费补贴是AI应用创业的最大陷阱，要面向“六个月后的模型”做创新"
     },
     {
-     "title": "Will Tata be able to list India’s biggest company?",
-     "link": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 03:36:27 GMT",
-     "summary": "Bankers say feud between scion and chair makes initial public offering difficult as conglomerate faces pressure from regulators",
-     "source": "Financial Times",
-     "zh": "Will Tata be able to list India’s biggest company?"
-    },
-    {
      "title": "多利益相关方携手应对气候变化的策略与行动",
      "link": "http://www.eeo.com.cn/2026/1123/1100317.shtml",
      "pubDate": "Mon, 23 Nov 2026 11:34:52 +0800",
@@ -2479,14 +2431,6 @@
      "summary": "五大石油巨头2026年第三季度的利润超过500亿美元。在战争后继乏力、能源通道继续运行的背景下，这种资本暴利显然是不可持续的。",
      "source": "经济观察网",
      "zh": "伟伟道来 | 四大原因，国际市场能源价格进入下行通道"
-    },
-    {
-     "title": "Tech stock sell-off deepens in Asia",
-     "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 03:27:18 GMT",
-     "summary": "South Korea’s Kospi slides more than 5% after Friday’s heavy losses on Wall Street",
-     "source": "Financial Times",
-     "zh": "Tech stock sell-off deepens in Asia"
     },
     {
      "title": "铠侠暴跌之后，高盛认为：估值偏低而股东回报强劲，“与过去的航运股类似”",
@@ -2511,6 +2455,62 @@
      "summary": "美国总统特朗普再度公开表态，力挺英伟达创始人黄仁勋重返CEO一职，使这场围绕全球最大AI芯片商领导权的争议持续升温。 特朗普周一在其Truth Social平台发文称：\" 我希望英伟达董事会重新聘用黄仁勋。重新聘用黄仁勋对英伟达和美国来说都是最好的选择。\" 这是特朗普在短短数日内第三度就此事公开表态，显示出白宫对英伟达领导层问题的持续关注。与此同时，美国财政部长贝森特的立场也出现明显松动，从此前呼吁寻找\"外部接班人\"，转向暗示不排除黄仁勋回归的可能性。 上述表态引发市场关注。此前英伟达董事会目前明确不考虑恢复黄仁勋的CEO职务，调查工作仍是当前优先事项。预测平台Polymarket的最新数据显",
      "source": "华尔街见闻",
      "zh": "特朗普“再次施压”：我希望英伟达董事会重新聘用黄仁勋"
+    },
+    {
+     "title": "学不动的孩子 ｜12 孩子究竟适合什么样的“学习”",
+     "link": "http://www.eeo.com.cn/2026/1123/1100311.shtml",
+     "pubDate": "Mon, 23 Nov 2026 11:15:13 +0800",
+     "summary": "一个孩子学不动，很少只是他一个人的事，也很少只是一个家庭的事。它更像是这几十年里，社会大环境、学校节奏、家庭期待，和孩子自身的特质，一层一层叠加出来的结果。",
+     "source": "经济观察网",
+     "zh": "学不动的孩子 ｜12 孩子究竟适合什么样的“学习”"
+    },
+    {
+     "title": "两部门：实施数据领域高技能人才集群培养计划",
+     "link": "http://www.eeo.com.cn/2026/1123/1100310.shtml",
+     "pubDate": "Mon, 23 Nov 2026 11:13:46 +0800",
+     "summary": "11月23日，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会，实施数据领域高技能人才集群培养计划等系列行动计划。",
+     "source": "经济观察网",
+     "zh": "两部门：实施数据领域高技能人才集群培养计划"
+    },
+    {
+     "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+     "link": "https://wallstreetcn.com/articles/3786482",
+     "pubDate": "Mon, 23 Nov 2026 10:06:07 +0800",
+     "summary": "特斯拉自动驾驶系统迎来一次颇具视觉冲击力的升级。 当地时间11月21日，特斯拉开始推送FSD V15.0.1， 新版本不仅引入实时生成式驾驶可视化系统，还升级了底层视觉编码器，将汽车、Robotaxi与人形机器人Optimus的视觉训练进一步打通。 此次升级最引人注目的变化，据追风交易台，野村证券认为，特斯拉正尝试打通自动驾驶汽车与人形机器人的视觉系统，通过共享AI视觉技术和扩大训练数据来源，构建跨产品的数据飞轮。 根据特斯拉发布说明，新版视觉编码器使用数百万条互联网视频进行训练，并同时服务于FSD、Robotaxi和Optimus。特斯拉称，这一升级使关键人工干预率改善25倍，但目前尚未披露",
+     "source": "华尔街见闻",
+     "zh": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”"
+    },
+    {
+     "title": "沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌",
+     "link": "https://wallstreetcn.com/articles/3786484",
+     "pubDate": "Mon, 23 Nov 2026 10:00:00 +0800",
+     "summary": "11月23日，A股早盘震荡分化，沪指低开低走，盘初跌破3600点，创业板盘初一度快速上冲，科创50跌超1%，北证50涨近2%。AI硬件活跃，电路板、光模块、覆铜板等逆势拉升，物理AI再度反弹，上纬新材、宇树科技涨幅居前。油气、白酒、煤炭等陷入调整。 港股低空低走，恒指、恒科指双双跌超1%，恒科指跌近2%，权重科网股多数下挫，腾讯、阿里、美团等纷纷走低。AI硬件股局部反弹，中际旭创涨超4%，AI大模型股分化，智谱涨2%，MINIMAX跌1%。债市方面，国债期货普遍下跌。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指跌1.16%，深成指跌0.30%，创业板指涨0.20%。 ",
+     "source": "华尔街见闻",
+     "zh": "沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌"
+    },
+    {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:51:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
+     "title": "Ron Johnson’s Social Security gaffe buried important news",
+     "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
+     "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+     "source": "MarketWatch",
+     "zh": "Ron Johnson’s Social Security gaffe buried important news"
+    },
+    {
+     "title": "Social Security should be shut down, this Republican senator says",
+     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 20:26:00 GMT",
+     "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+     "source": "MarketWatch",
+     "zh": "Social Security should be shut down, this Republican senator says"
     }
    ]
   },

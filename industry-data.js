@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 09:11:55",
+ "generated_at": "2026/11/23 09:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+     "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
+     "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+     "source": "TechCrunch AI",
+     "zh": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+    },
     {
      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -160,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
      "source": "TechCrunch AI",
      "zh": "Here are the top AI agents that can live in your text messages"
-    },
-    {
-     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-     "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-     "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
-     "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-     "source": "TechCrunch AI",
-     "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
@@ -1778,6 +1778,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "美客多墨西哥本土店入驻后，Mercado Ads 首月 CPA 花到 180 比索正常吗？",
+     "link": "https://www.baijing.cn/question/638903",
+     "pubDate": "Mon, 23 Nov 2026 01:23:06 +0000",
+     "summary": "刚拿到墨西哥本土店入驻资格，团队 5 个人，主做手机配件，SKU 大概 60 个。店铺上线两周，用 Mercado Ads 投了搜索广告和展示广告，首月预算 3 万比索，现在跑了大概 1.2 万比索，后台显示 CPA 在 170-190 比索之间，转化率 1.8% 左右，比我们预期高出一截。已经试过调整关键词匹配、把预算集中到几个高点击 SKU、也把主图换了一版，但 CPA 没明显下来。现在卡在不确定这个 CPA 水平在墨西哥本土店新店里算不算正常，还是说入驻初期权重低本来就贵。想直接问：墨西哥站新店首月 Mercado Ads 的 CPA 大概什么区间算合理，是该继续加预算养权重还是先收缩等",
+     "source": "白鲸出海",
+     "zh": "美客多墨西哥本土店入驻后，Mercado Ads 首月 CPA 花到 180 比索正常吗？"
+    },
+    {
+     "title": "2026年了，岚图和智界为什么还需要这张“准生证”？",
+     "link": "https://www.huxiu.com/article/4907596.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 09:21:12 +0800",
+     "summary": "本文来自微信公众号： BusinessCars ，作者：袁英杰 从品牌独立到资质独立，新的故事需要摆脱旧帽子。 11月16日，工信部发布2026年第31号公告，第412批《道路机动车辆生产企业及产品》目录中出现两个新名字，岚图汽车科技股份有限公司和安徽智界新能源汽车有限公司。 这是在小米汽车在2024年获得新能源整车资质后，唯二在工信部中出现新的造车主体。 更巧合的是，两家企业获得资质的途径完全一样，走的集团化管理通道，岚图以东风集团成员企业身份、智界以奇瑞集团成员企业身份进入准入序列， 操作之下，工厂没搬、产线没动、工人没换，变的只是目录上“制造企业”那一栏的名字。 那么我们不禁要问，为何要",
+     "source": "虎嗅",
+     "zh": "2026年了，岚图和智界为什么还需要这张“准生证”？"
+    },
+    {
+     "title": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头",
+     "link": "https://www.ithome.com/1/030/750.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:11:26 GMT",
+     "summary": "IT之家 11 月 23 日消息，微博博主 @数码闲聊站 今日曝光华为 Mate 90 Air 手机的参数详情。该机预计将搭载麒麟 9020 芯片，采用 7 英寸 1.5K+120Hz 等深四曲屏。 影像方面，这款手机或采用 5000 万像素后置主摄 +800 万像素超广角 +1200 万像素长焦以及红枫镜头，前摄为 1070 万像素。并具备 6500mAh 电池，支持 66W 快充，机身厚度约 6.58mm，重量约 208g。 据IT之家此前报道 ，华为 Mate 90 Air 已上架官网商城，11 月 24 日发布，提供玫瑰金、皓月银、曜石黑三款配色，以及 12GB+256GB、12GB+",
+     "source": "IT之家",
+     "zh": "华为 Mate 90 Air 手机影像配置曝光：50Mp 主摄 +8Mp 超广角 +12Mp 长焦 + 红枫镜头"
+    },
+    {
+     "title": "吴贾：AI要素重构中的金融抉择",
+     "link": "https://www.huxiu.com/article/4907590.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 09:11:00 +0800",
+     "summary": "本文来自微信公众号： 北大汇丰PFR ，作者：吴贾 夏雨虹 谭佳 经济学的基本问题，始终围绕稀缺资源在竞争性用途之间的配置展开（Robbins，1932）。而稀缺的对象，决定了经济形态的本质特征。农业时代的稀缺是土地，工业时代的稀缺是资本，信息时代的稀缺是知识；在AI时代，新的稀缺正在形成：算力、高质量数据、算法能力、人类的注意力与组织吸收能力。当稀缺的对象发生根本性迁移，整个经济系统的运行逻辑、分配机制与治理框架都必然随之重构。 中山大学岭南学院教授吴贾和中山大学岭南学院硕士研究生夏雨虹、谭佳共同在《北大金融评论》发文指出，要素重构对金融体系的冲击，并不主要表现为业务量的边际变化，而是表现为",
+     "source": "虎嗅",
+     "zh": "吴贾：AI要素重构中的金融抉择"
+    },
+    {
+     "title": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节",
+     "link": "https://www.ithome.com/1/030/749.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:09:49 GMT",
+     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《凡人修仙传》全新 PV“边界之战”正式公开。 该 PV 对应的并非一部新开的季番，而是正在B站独播的“慕兰之战”年番中的高潮章节 —— 天南与慕兰草原的最终边界决战。 “慕兰之战”年番已于 2026 年 6 月 13 日开播，共 52 集，覆盖第 177 至 228 集，每周六 11:00 在B站更新。 IT之家注：该篇章在原著中分为黄龙山之战与边界之战两个阶段，边界之战被视作整部小说中出场修士数量最多、规模最大的一场战役。 此次 PV 展示的正是边界之战全面爆发的节点。慕兰法师大军压境，神师的铜",
+     "source": "IT之家",
+     "zh": "人界篇最大战役：《凡人修仙传》“边界之战”PV 公开，慕兰之战年番进入最高潮章节"
+    },
+    {
+     "title": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W",
+     "link": "https://www.ithome.com/1/030/748.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:08:36 GMT",
+     "summary": "IT之家 11 月 23 日消息，CORSAIR（海盗船）本月推出了 CX ATX 3.1 系列 PC 电源。其采用 ATX 外形规格和直出线材设计，内置 120mm 风扇， 长度仅有 125mm ，覆盖 550W / 650W / 750W 三档功率。 CX ATX 3.1 全系选用 105℃ 电容。其 550W 版本获得 Cybenetics 银牌转换效率、Standard ++ 噪声认证；650W 和 750W 版本获得 Cybenetics 金牌转换效率、Standard + 噪声认证，随附双色原生 12V-2×6 线缆。 该电源 享受 5 年保修 ，各功率版本的定价分别为 64.99",
+     "source": "IT之家",
+     "zh": "海盗船推出 CX ATX 3.1 电源：125mm 短长度设计，至高 750W"
+    },
+    {
+     "title": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条",
+     "link": "https://www.ithome.com/1/030/747.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:08:33 GMT",
+     "summary": "IT之家 11 月 23 日消息，蔚来今日宣布，第 95 条蔚来加电风景线｜桂湘喀斯特山水线正式贯通，从南宁出发，途经河池、柳州、桂林、邵阳、永州，最终抵达衡阳， 全程 1,925 公里 ，沿途布局 24 座充换电站，串联桂湘两地的山水人文。 路线总览 南宁 → 河池 → 柳州 → 桂林 → 邵阳 → 永州 → 衡阳 建议用时：7 天 6 晚 沿途补能：24 座充换电站 沿途风景：洞天探奇、山水漫游、人文寻访 据官方介绍，「蔚来加电风景线」是为了让用户愉悦畅行诗与远方而发起的能源布局项目。截至目前，蔚来已累计贯通包括 318 川藏线、丝绸之路、川西大环线、呼伦贝尔草原线在内 95 条极具向往感",
+     "source": "IT之家",
+     "zh": "第 95 条蔚来加电风景线“桂湘喀斯特山水线”贯通，今年计划增至 100 条"
+    },
+    {
+     "title": "我为什么看好非洲市场",
+     "link": "https://www.huxiu.com/article/4907574.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 09:03:27 +0800",
+     "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界，原文标题：《2027年中企出海全球市场系列报告（二）：我为什么看好非洲市场》 开篇：我看好非洲，但可能不是你以为的那种看好 系列一里我说，拉美现在是搭便车。写完之后我一直在想：那非洲算什么？ 我的答案是看好，但这个“看好”得先划清边界。 我看好非洲，指的是“现在布局，三到五年后收获”。想今年进去、明年回本，非洲大概率会让你亏钱。 非洲处在电商五阶段模型中的萌芽期中后段：基础设施还没建好，单位经济模型还没跑通，头部玩家还在亏钱。 那么问题来了：头部都在亏钱，为什么还看好？ 因为萌芽期是唯一一个“进入成本低于未来价值”的阶段。等到快速增长期，流量贵",
+     "source": "虎嗅",
+     "zh": "我为什么看好非洲市场"
+    },
+    {
+     "title": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制",
+     "link": "https://www.ithome.com/1/030/746.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:02:40 GMT",
+     "summary": "IT之家 11 月 23 日消息，哔哩哔哩在昨晚举行的 2026—2027 年国创动画作品发布会上公布了《仙剑奇侠传四》全新 PV，云天河与韩菱纱的双人海报同步释出。 该片由哔哩哔哩出品、玄机科技制作，改编自软星科技同名游戏，播出档期从此前概念 PV 公布的“2027 年”进一步明确为 2027 年上半年，届时将在B站独家上线。 与 2025 年 11 月B站国创发布会上公开的概念 PV 相比，此次 PV 展示了更多正片画面与角色形象。海报中云天河与韩菱纱以全新造型登场，官方同步发起了“最期待剧情”的互动话题。PV 本身尚未披露配音阵容与具体集数信息。 《仙剑奇侠传四》的故事围绕琼华派铸造望舒",
+     "source": "IT之家",
+     "zh": "《仙剑奇侠传四》动画最新宣传片公开：2027 年上半年开播，玄机科技承制"
+    },
+    {
+     "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+     "link": "https://www.ithome.com/1/030/745.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:00:23 GMT",
+     "summary": "IT之家 11 月 23 日消息，微软 AI 负责人穆斯塔法 · 苏莱曼（Mustafa Suleyman）今天在 X 平台表示，他完全支持 OpenAI 提高透明度的倡议。 苏莱曼表示， AI 业界所有人都是为了打造安全 、 真正有益于人类的 AGI（通用人工智能） 。AI 安全领域最棘手的问题之一就是协调合作，这项举措朝着正确的方向迈出了一步。未来几年，如果要实现安全、可控且与人类价值观保持一致的 AGI，人们还需要采取更多类似措施。 苏莱曼承诺在一套双方共同保留的评测集上分享预训练进展。经 OpenAI 许可，微软使用其评测集公布了 MAI-2 Base 的评测结果：其对数困惑度（log",
+     "source": "IT之家",
+     "zh": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议"
+    },
+    {
      "title": "白塔机场，此去那个经年",
      "link": "https://www.huxiu.com/article/4907589.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 08:58:42 +0800",
@@ -1818,28 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Edge AI Daily 早报（11月23日）"
     },
     {
-     "title": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港",
-     "link": "https://www.ithome.com/1/030/740.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:48:36 GMT",
-     "summary": "IT之家 11 月 23 日消息，据央视新闻报道，今早 7 时 30 分左右，正式开启商业首航的第二艘国产大型邮轮“爱达 · 花城号”顺利抵达香港启德邮轮码头。该邮轮本次航程共计 6 天 5 晚，搭载超 3800 名旅客前往中国香港和越南顺化。 IT之家注意到，“爱达 · 花城号”于 11 月 6 日在上海外高桥造船有限公司正式交付。作为首艘国产大型邮轮“爱达 · 魔都号”的姊妹船，“爱达 · 花城号”全长 341 米，总吨位达 14.19 万，拥有 2130 间豪华客房和套房， 可容纳约 5232 名旅客 。邮轮在空间设计、餐饮娱乐与智能科技上进行了全面升级。 据此前官方公布信息，“爱达 ·",
-     "source": "IT之家",
-     "zh": "我国第二艘国产大型邮轮“爱达 · 花城号”首航抵达香港"
-    },
-    {
      "title": "假如人工智能拥有内心世界，它就会和人类智能一样吗？",
      "link": "https://www.huxiu.com/article/4907586.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 08:46:21 +0800",
      "summary": "本文来自微信公众号： 返朴 ，作者：顾凡及 当人工智能不断给出连创造者也未曾预料的答案，人们再次回到了那个本属于科幻的问题：什么时候人工智能会超越人类智能？如果人工智能也有内心世界，它会和人类智能一样吗？人类思维生长于身体经验、情感和生存需要之中；目前的“硅基”人工智能由人设计和训练，却可能在具体问题上走出设计者未曾规划的路径。当然，在讨论这些问题之前，还要定义“智能”：能解决问题是否就足以称为有智能，还是智能还包含感受、目标，以及“为何而行动”的理由？讨论人工智能，最终也让我们重新审视人类如何理解自己。 本文收录于合集前沿探真 今天，没有哪一门科技像人工智能（AI）那样吸引公众的关注。许多人",
      "source": "虎嗅",
      "zh": "假如人工智能拥有内心世界，它就会和人类智能一样吗？"
-    },
-    {
-     "title": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元",
-     "link": "https://www.ithome.com/1/030/739.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:45:03 GMT",
-     "summary": "IT之家 11 月 23 日消息，小米米家智能嵌入式洗碗机灶下 13 套今日开售，支持 75℃ 高温煮洗、可洗红酒杯，新品首发价 2599 元。 IT之家从商品页面获悉，该产品是号称专为三口之家打造，整机内部拥有 104L 的内腔容积，清洁指数达到 1.19， 设备支持 75℃ 高温煮洗 ，在深度清洁的同时除菌率达到 99.99%。产品符合新国标一级水效认证，在保证洗净度的前提下，可更低耗、更节能。 该产品内部碗篮经过空间再升级，支持双锅同洗， 能够将一餐产生的所有餐具和锅具一次洗完 。其中新增的红酒杯洗涤架为精细杯具提供了专属洗涤位，防止洗涤水流造成磕碰损坏。设备支持小米澎湃智联，用户可利用",
-     "source": "IT之家",
-     "zh": "小米米家智能嵌入式洗碗机灶下 13 套开售：支持 75℃ 高温煮洗、可洗红酒杯，2599 元"
     },
     {
      "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
@@ -1850,30 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)"
     },
     {
-     "title": "Token工厂大爆发，有人闷声发财，有人巨亏",
-     "link": "https://www.huxiu.com/article/4907585.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:43:18 +0800",
-     "summary": "本文来自微信公众号： 技术领导力 ，作者：Mr.K，原文标题：《Token工厂大爆发！有人闷声发财，有人巨亏》 这是AI行业年终盘点系列的第三篇，本文聚焦中国Token工厂。前两篇是关于大模型、AI办公领域的。以下是正文： 有行业机构估算，2026年中国日均Token调用量已经超过1000万亿，2024年这个数字是1000亿，短短两年增长了约1万倍。Token调用量的大爆发，催生了一个行业的井喷，那就是“Token工厂”。 跟“词元”一样，这是一个被重新命名的词条。真正把“Token工厂”系统化的是英伟达。2026年GTC，黄仁勋把AI数据中心定义为生产Token的工厂，把Token比作新石油",
-     "source": "虎嗅",
-     "zh": "Token工厂大爆发，有人闷声发财，有人巨亏"
-    },
-    {
-     "title": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万",
-     "link": "https://www.ithome.com/1/030/737.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:36:24 GMT",
-     "summary": "IT之家 11 月 23 日消息，GTATracker 汇总的数据显示，11 月 22 日，《GTA 5》增强版、传承版和在线模式在 Steam 的同时在线总人数超过 23.9 万， 约为当月部分繁忙日期的两倍 。 《GTA 5》正在迎来第二春，Steam 玩家数量反映了其获得的新支持。增强版和经典版的人气甚至超过了《GTA 6》发布前。虽然同时在线玩家峰值并未达到 36 万 761 人的历史最高纪录，但正呈上升趋势。 尽管《GTA 6》销量创下历史新高，但许多 PC 玩家并没有转投 Xbox 或 PS5 主机平台，而是重新回到《GTA 5》。需要注意的是，该追踪器并未将使用 Epic 或 R",
-     "source": "IT之家",
-     "zh": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万"
-    },
-    {
-     "title": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定",
-     "link": "https://www.ithome.com/1/030/736.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:34:15 GMT",
-     "summary": "IT之家 11 月 23 日消息，哔哩哔哩在 2026~2027 年国创动画作品发布会上宣布，将与六道无鱼动画工作室再次合作，把《雾山五行》第三季最终季改编为院线电影《雾山五行 · 封界大战》，并首次公布预告片。 《雾山五行》剧集第一季豆瓣评分 8.7，第二季升至 9.2。此次电影承接第二季后续剧情，封界危机降临，群妖破山而出，闻人翊悬为守护雾山与苍生迎战群妖。六道无鱼同时担任出品与制作方，林魂继续执导。 林魂在预告发布后通过社交账号逐条回应了观众关切。他确认影版故事承接第二篇后续，第三篇的架构“花了不少时间做了些调整”，为了大银幕的观影体验“必然会有一些取舍”。首支预告中未展示其他五行使者的",
-     "source": "IT之家",
-     "zh": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定"
-    },
-    {
      "title": "Sources: Alice Huang was in touch with an officer of China&apos;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
      "link": "https://www.techmeme.com/261122/p13#a261122p13",
      "pubDate": "Sun, 22 Nov 2026 19:30:02 -0500",
@@ -1882,50 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Alice Huang was in touch with an officer of China&apos;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)"
     },
     {
-     "title": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息",
-     "link": "https://www.ithome.com/1/030/735.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:27:02 GMT",
-     "summary": "IT之家 11 月 23 日消息，据 X 平台消息人士 pdfu 昨日爆料，苹果曾测试过一套 iPhone Duo 实验性界面，允许锁屏状态下，在屏幕右侧显示两个不同的小组件。 据介绍，该功能可在屏幕右侧增加纵向排列的圆形小组件。 pdfu 称右侧的小组件可以和现有的底部栏同时使用 ，让用户在锁屏上查看更多信息。 同时，这一额外的小组件区域被称为“Complication Column”（IT之家注：复杂功能栏），位于放置手电筒和相机快捷方式的自定义按钮上方。不过目前该组件仍处于禁用状态，因此我们不清楚苹果是否仍在开发该功能。",
-     "source": "IT之家",
-     "zh": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息"
-    },
-    {
-     "title": "'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC",
-     "link": "https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html",
-     "pubDate": "Mon, 23 Nov 2026 00:23:37 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/economy/policy/articles/greed-zohran-mamdani-blasts-amazon-121000124.html Comments URL: https://news.ycombinator.com/item?id=50605699 Points: 11 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "'It's greed': Zohran Mamdani blasts Amazon over new $5 fee hike in NYC"
-    },
-    {
-     "title": "美国芯片新规对东南亚数据中心投资的影响",
-     "link": "https://www.huxiu.com/article/4907578.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:19:19 +0800",
-     "summary": "本文来自微信公众号： 泰湄璃 ，作者：泰湄璃-曾磊 美国当地时间2026年11月16日，美国商务部工业与安全局（BIS）发布了关于先进人工智能芯片和服务器的远程调用的临时性管制规则。 BIS称，该规则意在防止敏感性的美国技术通过位于第三方国家的数据中心规避目前的出口限制措施。 本次新规则将新加坡、马来西亚、印度尼西亚、泰国和巴西纳入受限制的数据中心运营地，因此，东南亚将成为新规影响最大的地区。 新规重点概要 出口许可：如果出口商知悉相关受控“先进计算”物项（通常指归类于BIS出口管制目录ECCN 3A090和4A090项下的先进人工智能芯片、服务器及相关物项）将供应至全球范围内任何一个数据中心",
-     "source": "虎嗅",
-     "zh": "美国芯片新规对东南亚数据中心投资的影响"
-    },
-    {
-     "title": "IEEE《2030技术大趋势》：最重要的10个洞见",
-     "link": "https://www.huxiu.com/article/4907577.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:18:44 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 最近有一份报告值得看看，它由IEEE未来方向委员会的产业咨询委员会牵头，168位专家来自38个国家，其中有英伟达、AMD、谷歌、Meta、Arm的工程师，也有美国最大电网运营商PJM的人。 他们选了五大趋势： AI、能源、健康、太空、物理AI。 每个趋势6项技术，逐项打分：2030年能否成功，对人类影响多大，成熟度和市场采用到了哪一步，离大规模商用还有几年。 五大趋势：AI、能源、健康、太空、物理AI 这是一群造东西的人，给未来五年下的注。 我们从里面读出十件事，想跟大家分享。 有人问，这个报告是AI写的么？ 其实在第39页，专家特",
-     "source": "虎嗅",
-     "zh": "IEEE《2030技术大趋势》：最重要的10个洞见"
-    },
-    {
-     "title": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产",
-     "link": "https://www.ithome.com/1/030/734.htm",
-     "pubDate": "Mon, 23 Nov 2026 00:18:21 GMT",
-     "summary": "IT之家 11 月 23 日消息，据 Tom's Hardware 报道，英特尔 CEO 陈立武在 11 月 19 日举行的 TomorrowX 会议上称，Intel 18A 制程的芯片良品率已达到 70%。 陈立武表示，自己于 2025 年 3 月接任英特尔 CEO 时，18A 制程的良品率“非常糟糕”，目前已经提升至 70%。 Intel 18A 是英特尔当前的先进制程节点之一，已用于客户端和数据中心产品。英特尔于 2025 年下半年开始量产采用 18A 制程计算模块的 Panther Lake 处理器，也就是酷睿 Ultra 300 系列。面向数据中心的 Clearwater Fores",
-     "source": "IT之家",
-     "zh": "陈立武：英特尔 18A 制程良率达 70%，下一代 14A 计划 2028 年量产"
-    },
-    {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 62 # Comments: 57",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 72 # Comments: 68",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
      "link": "https://0rwx.com/",
      "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
-     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 15 # Comments: 4",
+     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 15 # Comments: 5",
      "source": "Hacker News",
      "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "What should AAA game devs do",
      "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
      "pubDate": "Sun, 22 Nov 2026 23:51:00 +0000",
-     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 9 # Comments: 8",
+     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 15 # Comments: 14",
      "source": "Hacker News",
      "zh": "What should AAA game devs do"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 127 # Comments: 89",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 137 # Comments: 99",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1973,9 +1973,17 @@ window.INDUSTRY_DATA = {
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 61 # Comments: 27",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 68 # Comments: 31",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
+    },
+    {
+     "title": "Localcode, open source agentic coding on your Mac with one command",
+     "link": "https://github.com/mjwsolo/localcode",
+     "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
+     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Localcode, open source agentic coding on your Mac with one command"
     },
     {
      "title": "‘You Can See Everything’ has made more than $100M worldwide",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers &nbsp; &mdash;&nbsp; The treasury secretary said on CBS that it was too soon to say if Jensen Huang should",
      "source": "Techmeme",
      "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
-    },
-    {
-     "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
-     "link": "https://www.solidot.org/story?sid=85959",
-     "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
-     "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
-     "source": "Solidot",
-     "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
     }
    ]
   },
@@ -2032,6 +2032,14 @@ window.INDUSTRY_DATA = {
      "summary": "This week's most popular article isn't about phones, it's about Instagram. It seems like the latest Instagram update got people's attention and introduced a feature that people have been waiting for for years - the ability to edit stories after posting them. You can change text, music, stickers, and",
      "source": "GSMArena",
      "zh": "Xiaomi 18 Pro series goes global, anniversary iPhone details surface, Week 47 in review"
+    },
+    {
+     "title": "How to clear your cache on Google TV",
+     "link": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+     "pubDate": "Mon, 23 Nov 2026 01:00:00 +0000",
+     "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+     "source": "Engadget",
+     "zh": "How to clear your cache on Google TV"
     },
     {
      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
      "source": "少数派",
      "zh": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想"
-    },
-    {
-     "title": "How to use AI glasses as a teleprompter",
-     "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
-     "pubDate": "Sun, 22 Nov 2026 23:30:00 +0000",
-     "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
-     "source": "Engadget",
-     "zh": "How to use AI glasses as a teleprompter"
     },
     {
      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
@@ -2274,51 +2274,67 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "韩国KOSPI指数跌幅扩大至4%",
-     "link": "http://finance.eastmoney.com/news/11440,202611233937051398.html",
-     "pubDate": "Mon, 23 Nov 2026 09:02:47 +0800",
-     "summary": "韩国KOSPI指数跌幅扩大至4%。三星 电子 跌近5%， SK海力士 跌近4%。",
+     "title": "【调研快报】德尔股份接待国联民生证券等18家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611233937062350.html",
+     "pubDate": "Mon, 23 Nov 2026 09:25:05 +0800",
+     "summary": "德尔股份 11月23日公告称， 11月20日 接待 国联民生 证券 等18家机构 调研。 接待人员包括董事会秘书 张磊,德迩象网董事、CTO 宗文豪,投资总监 程文祥,独立董事 胡文涛。 公司就以下问题进行了回复： Q1、公司推出股票期权激励的考量? 公司此次推出的股票期权激励计划总量 500 万份,首次授予 400 万份、覆盖 50 人,预留 100 万份;首次授予中,335万份覆盖 47 名中层管理人员及核心技术骨干,高管 2 人合计40 万份,DUANYANG WANG 先生 25 万份。DUANY... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此",
      "source": "东方财富股票",
-     "zh": "韩国KOSPI指数跌幅扩大至4%"
+     "zh": "【调研快报】德尔股份接待国联民生证券等18家机构调研"
     },
     {
-     "title": "全球大型药企称人工智能正在缩短药物研发周期",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937051093.html",
-     "pubDate": "Mon, 23 Nov 2026 09:00:46 +0800",
-     "summary": "据全球大型药企科研人员透露，今年 人工智能 已经加快了部分国际顶尖药企的药物早期研发工作，将新分子合成并推进至临床试验阶段的时长最多缩短了一半。 葛兰素史克 、 百时美施贵宝 、诺华、 礼来 、 诺和诺德 、 阿斯利康 以及 赛诺菲 均表示，它们早已不只是把AI用在准备监管申报材料这类相对基础的工作上。如今，企业正在利用这项技术设计分子、筛选潜力最优的候选分子，同时识别安全风险。 （路透） （文章来源：科创板日报）",
+     "title": "央行今日开展了4995亿元隔夜逆回购操作 全额满足了一级交易商需求",
+     "link": "http://finance.eastmoney.com/news/1350,202611233937061034.html",
+     "pubDate": "Mon, 23 Nov 2026 09:23:58 +0800",
+     "summary": "央行今日开展了4995亿元隔夜逆回购操作，全额满足了一级交易商需求。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "全球大型药企称人工智能正在缩短药物研发周期"
+     "zh": "央行今日开展了4995亿元隔夜逆回购操作 全额满足了一级交易商需求"
     },
     {
-     "title": "融资余额减少418.81亿，杠杆资金最新动态曝光",
-     "link": "http://stock.eastmoney.com/news/11754,202611233937050697.html",
-     "pubDate": "Mon, 23 Nov 2026 09:00:17 +0800",
-     "summary": "11月20日A股三大指数 集体收跌， 杠杆资金 呈净卖出之势，当天融资余额2.15万亿，较上一交易日减少418.81亿。 深南电路 为当日融资净买入最多个股，为2.37亿， 冰山冷热 融资净买入2.26亿， 沪电股份 8574.92万。 寒武纪 为当日融资净卖出最多个股，为4.96亿， 宁德时代 融资净卖出4.39亿， 兆易创新 3.43亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
+     "title": "11月23日港股开盘：恒指低开1.08% 理想汽车-W领跌成分股",
+     "link": "http://stock.eastmoney.com/news/11770,202611233937060658.html",
+     "pubDate": "Mon, 23 Nov 2026 09:23:16 +0800",
+     "summary": "港股11月23日低开，恒生指数开盘报22168.19点，跌242.61点，跌幅1.08%；恒生科技指数开盘报3443.76点，跌67.38点，跌幅1.92%。恒生指数成分股中 老铺黄金 、 网易 、 紫金矿业 (五百)涨幅居前， 理想汽车-W 、 百度集团-W 、 快手-W 跌幅靠前。恒生科技指数成分股中 网易 、 海尔智家 涨幅居前， 零跑汽车 、 小鹏集团-W 、地平线 机器人 -W跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
      "source": "东方财富股票",
-     "zh": "融资余额减少418.81亿，杠杆资金最新动态曝光"
+     "zh": "11月23日港股开盘：恒指低开1.08% 理想汽车-W领跌成分股"
     },
     {
-     "title": "富时中国A50指数期货盘初跌0.10%",
-     "link": "http://finance.eastmoney.com/news/11440,202611233937050987.html",
-     "pubDate": "Mon, 23 Nov 2026 09:00:13 +0800",
-     "summary": "富时中国A50指数 期货 在上一交易日夜盘收跌0.84%的基础上高开，盘初跌0.10%。",
+     "title": "港股开盘：恒指低开1.08% 理想汽车-W领跌成分股",
+     "link": "http://stock.eastmoney.com/news/11771,202611233937060578.html",
+     "pubDate": "Mon, 23 Nov 2026 09:23:10 +0800",
+     "summary": "&nbsp; 港股11月23日 低开 ，恒生指数开盘报22168.19点，跌242.61点，跌幅1.08%； 恒生科技指数 开盘报3443.76点，跌67.38点，跌幅1.92%。 恒生指数成分股中 老铺黄金 、 网易 、 紫金矿业 (五百)涨幅居前 ， 理想汽车-W 、 百度集团-W 、 快手-W 跌幅靠前 。 恒生科技指数成分股中 网易 、 海尔智家 涨幅居前 ， 零跑汽车 、 小鹏集团-W 、地平线 机器人 -W跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的",
      "source": "东方财富股票",
-     "zh": "富时中国A50指数期货盘初跌0.10%"
+     "zh": "港股开盘：恒指低开1.08% 理想汽车-W领跌成分股"
     },
     {
-     "title": "科瑞技术：截至11月10日最新股东户数6.09万户，较上期减少2.60%",
-     "link": "http://stock.eastmoney.com/news/11111,202611233937050572.html",
-     "pubDate": "Mon, 23 Nov 2026 09:00:08 +0800",
-     "summary": "科瑞技术 最新披露数据显示，截至11月10日公司股东户数为6.09万户，较上期(2026年10月30日) 减少1623户，降幅为2.60% 。户均持有流通股数量 由上期的6713股上升至6892股， 户均持股金额 由上期的16.30万元增加至17.89万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "title": "港股人工智能股多数走弱 MINIMAX跌超7%",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937061421.html",
+     "pubDate": "Mon, 23 Nov 2026 09:22:09 +0800",
+     "summary": "截至发稿， MINIMAX-W (00100.HK)跌7.03%、 智谱 (02513.HK)跌6.65%、 兆易创新 (03986.HK)跌5.47%、 壁仞科技 (06082.HK)跌4.48%。",
      "source": "东方财富股票",
-     "zh": "科瑞技术：截至11月10日最新股东户数6.09万户，较上期减少2.60%"
+     "zh": "港股人工智能股多数走弱 MINIMAX跌超7%"
+    },
+    {
+     "title": "【调研快报】岱勒新材接待方正证券等3家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611233937060394.html",
+     "pubDate": "Mon, 23 Nov 2026 09:22:08 +0800",
+     "summary": "岱勒新材 11月23日公告称， 11月18日至11月20日 接待 方正证券 等3家机构 调研。 接待人员包括董事会秘书、财务总监 周家华。 公司就以下问题进行了回复： 公司介绍 公司作为国内首家掌握金刚石线研发、生产技术并大规模投入生产的企业,我国替代进口金刚石线产品的代表企业,经过多年的技术创新和市场开拓,现已形成品类齐全、应用场景广泛的产品体系,应用场景覆盖晶体硅、 蓝宝石 、 磁性材料 、石墨、玉石、大理石、玻璃、陶瓷、 半导体 等领域,正在逐步向钛合金、 铝 合金等... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此",
+     "source": "东方财富股票",
+     "zh": "【调研快报】岱勒新材接待方正证券等3家机构调研"
+    },
+    {
+     "title": "抛售阴霾笼罩，新兴市场股指抹去年内涨幅，韩股跌4%，纳指期货涨3%，黄金反弹2%",
+     "link": "https://wallstreetcn.com/articles/3786472",
+     "pubDate": "Mon, 23 Nov 2026 09:13:34 +0800",
+     "summary": "AI交易的去杠杆浪潮正从华尔街迅速蔓延至亚太，区域监管机构罕见同步出手护盘。 周一，亚太股市开盘普遍下行， MSCI新兴市场股票指数抹去了年初至今的涨幅 。韩国KOSPI指数早盘一度下跌超过3%，三星电子与SK海力士分别下跌约3%和2%；澳大利亚S&P/ASX 200小幅走低；日本市场因假期休市。 与之形成对照的是，美股期货强力反弹。纳斯达克100期货一度上涨2.6%，标普500期货上涨1.9%，道指期货上涨449点，幅度为0.9%。 美股科技股夜盘普遍走高，英伟达、英特尔、闪迪、迈威尔科技涨逾5%，美光科技、博通、谷歌、特斯拉涨逾3%。 上周的抛售令标普500和纳斯达克指数双双进入技术性回调",
+     "source": "华尔街见闻",
+     "zh": "抛售阴霾笼罩，新兴市场股指抹去年内涨幅，韩股跌4%，纳指期货涨3%，黄金反弹2%"
     },
     {
      "title": "霍尔木兹海峡传出大消息！",
      "link": "http://finance.eastmoney.com/news/1344,202611233937050857.html",
      "pubDate": "Mon, 23 Nov 2026 08:59:15 +0800",
      "summary": "中东地区又有新消息传出！ 据央视新闻报道，当地时间22日晚，伊朗军队海军宣布，当天下午，两艘油轮关闭导航系统，无视伊朗发出的警告，擅自进入霍尔木兹海峡东部禁航区，随后触雷起火。 伊朗伊斯兰革命卫队海军同日表示，两艘超级油轮在霍尔木兹海峡附近海域航行时，未遵守革命卫队海军发布的指令，擅自通过未经伊朗授权的航线，结果在霍尔木兹海峡以东、盖奈姆岛以北海域触雷爆炸并被迫停航。 当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。 据消息人士表示，以色列方面目前不仅在等待美",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "霍尔木兹海峡传出大消息！"
     },
     {
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "今日看点｜首批18只主动ETF上市"
     },
     {
-     "title": "马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”",
-     "link": "https://wallstreetcn.com/articles/3786470",
-     "pubDate": "Mon, 23 Nov 2026 08:07:09 +0800",
-     "summary": "马斯克警告，AI行业明年将面临严峻的现金短缺，数据中心并网延迟是主要推手。这一表态出现在全球科技股大幅回调、市场对AI泡沫争论升温之际。 11月22日，马斯克在X上回复一条帖子时表示：“明年的现金短缺也会非常疯狂。”他补充说，数据中心投运延迟将迫使AI公司额外筹集“数千亿美元”资金，并反问：“这些钱从哪里来？” 马斯克回复的原帖显示，半导体制造商的股票估值相对于其预期利润处于较低水平。这可能意味着，投资者并不看好为 AI 提供算力的芯片公司能持续实现利润高速增长，也暗示数据中心建设短期内可能面临明显阻力。 算力卡在哪里 AI 公司的收入在增长，支出也在同步膨胀。Meta、微软等头部企业以及 A",
-     "source": "华尔街见闻",
-     "zh": "马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”"
-    },
-    {
      "title": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg",
      "link": "https://seekingalpha.com/news/4675417-clariant-cd-and-r-in-talks-to-acquire-chemicals-firm-ashland-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 18:53:16 -0500",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
      "source": "MarketWatch",
      "zh": "Social Security should be shut down, this Republican senator says"
-    },
-    {
-     "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-     "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
-     "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
-     "source": "MarketWatch",
-     "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 10:03:10",
+ "generated_at": "2026/11/23 10:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "India roundup: India's semiconductor ambitions' execution hurdles",
-     "link": "https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html",
-     "pubDate": "Sun, 22 Nov 2026 23:51:12 GMT",
-     "summary": "India is accelerating semiconductor investment through research projects, equipment localization and subsidies, but customer skepticism, manufacturing challenges and a major customs dispute underscore risks to its expanding technology ambitions.",
+     "title": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",
+     "link": "https://www.digitimes.com/news/a20261123PD209/intel-microsoft-cowos-google-tsmc.html",
+     "pubDate": "Mon, 23 Nov 2026 01:50:47 GMT",
+     "summary": "Intel and Microsoft jointly announced on November 18, US time, that Microsoft will adopt Intel Foundry's embedded multi-die interconnect bridge (EMIB) advanced packaging technology for its custom Azure chips, becoming the first company to publicly confirm its use of EMIB.",
      "source": "DIGITIMES",
-     "zh": "India roundup: India's semiconductor ambitions' execution hurdles"
+     "zh": "Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS"
     },
     {
-     "title": "China's chipmaking hubs double imports of Singapore-made equipment",
-     "link": "https://www.digitimes.com/news/a20261120VL216/equipment-manufacturing-sk-hynix-beijing-cxmt.html",
-     "pubDate": "Sun, 22 Nov 2026 23:50:56 GMT",
-     "summary": "Imports of Singapore-made semiconductor manufacturing equipment into three of China's major chipmaking hubs doubled to US$3.46 billion in the first seven months of 2026, led by a sharp increase in purchases of deposition tools.",
+     "title": "US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?",
+     "link": "https://www.digitimes.com/news/a20261123PD204/ic-taiwan-chips-ic-design-2026.html",
+     "pubDate": "Mon, 23 Nov 2026 01:50:23 GMT",
+     "summary": "The US Department of Commerce's new advanced semiconductor rules took effect following their publication in the Federal Register on November 19, 2026, US Eastern Time. Beyond targeting computing capacity at overseas data centers, the regulations tighten controls on semiconductor foundries and outsou",
      "source": "DIGITIMES",
-     "zh": "China's chipmaking hubs double imports of Singapore-made equipment"
+     "zh": "US chip restrictions offer Taiwan IC designers a market-share opening, but will it last?"
     },
     {
-     "title": "Jensen's exit puts Japan's physical-AI revival to the test",
-     "link": "https://www.digitimes.com/news/a20261120VL215/nvidia-jensen-huang-scandal-infrastructure-manufacturing.html",
-     "pubDate": "Sun, 22 Nov 2026 23:50:35 GMT",
-     "summary": "The turmoil surrounding Jensen Huang's abrupt departure from Nvidia has quickly expanded beyond a corporate leadership scandal into a broader test of how deeply the AI industry had come to depend on one executive's influence.",
+     "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
+     "link": "https://www.digitimes.com/news/a20261123VL203/nvidia-usa-policy-chips-taiwan.html",
+     "pubDate": "Mon, 23 Nov 2026 01:44:03 GMT",
+     "summary": "US Treasury Secretary Scott Bessent's appearance on CBS 's Face the Nation on November 22 suggested the administration sees the Nvidia case less as a matter of Jensen Huang's personal conduct than as a question of who inside the company was responsible for export-control compliance.",
      "source": "DIGITIMES",
-     "zh": "Jensen's exit puts Japan's physical-AI revival to the test"
+     "zh": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers"
     },
     {
-     "title": "Montage Technology's DDR5 surge signals a bigger opportunity in AI server interconnects",
-     "link": "https://www.digitimes.com/news/a20261120VL214/montage-ddr5-shipments-ai-server-pcie.html",
-     "pubDate": "Sun, 22 Nov 2026 23:50:23 GMT",
-     "summary": "China's Montage Technology is accelerating shipments of advanced DDR5 memory interface chips amid growing AI server demand, while expanding into multiplexed rank DIMM (MRDIMM), PCIe, and Compute Express Link (CXL) products to capture higher-value opportunities in server interconnects.",
+     "title": "Taiwan electronics, ICT export orders surge in October as US remains top buyer",
+     "link": "https://www.digitimes.com/news/a20261122PD201/taiwan-moea-electronics-growth-2025.html",
+     "pubDate": "Mon, 23 Nov 2026 01:38:40 GMT",
+     "summary": "Taiwan's Ministry of Economic Affairs (MOEA) announced on November 20 that export orders reached US$123.82 billion in October 2026, up US$9.61 billion, or 8.4%, from the previous month, with seasonally adjusted growth of 7.7%. Year-over-year growth stood at 78.3%.",
      "source": "DIGITIMES",
-     "zh": "Montage Technology's DDR5 surge signals a bigger opportunity in AI server interconnects"
+     "zh": "Taiwan electronics, ICT export orders surge in October as US remains top buyer"
     },
     {
-     "title": "Taiwan startup investment contracts as AI, semiconductors attract capital",
-     "link": "https://www.digitimes.com/news/a20261120PD246/investment-taiwan-startup-venture-capital-semiconductors.html",
-     "pubDate": "Sun, 22 Nov 2026 23:50:02 GMT",
-     "summary": "Global venture capital deal value reached a new high in the first half of 2026, with AI accounting for about 70% of total investment, according to CB Insights. While Taiwan's startup investment market saw AI and semiconductor-related startups attract more capital, both deal count and total funding h",
+     "title": "Diamond cooling market gains traction as AI chip heat rises",
+     "link": "https://www.digitimes.com/news/a20261123PD202/cooling-chips-market-commercial-manufacturing.html",
+     "pubDate": "Mon, 23 Nov 2026 01:26:15 GMT",
+     "summary": "Rising power demands from AI chips are drawing interest in diamond-based cooling. However, high costs, manufacturing yields, and integration challenges continue to constrain commercial adoption, according to DIGITIMES analyst Eric Lin.",
      "source": "DIGITIMES",
-     "zh": "Taiwan startup investment contracts as AI, semiconductors attract capital"
+     "zh": "Diamond cooling market gains traction as AI chip heat rises"
     },
     {
-     "title": "PCB and robotics demand drive Taiwan Chelic's 3Q26 growth",
-     "link": "https://www.digitimes.com/news/a20261120PD244/taiwan-growth-pcb-revenue-demand.html",
-     "pubDate": "Sun, 22 Nov 2026 23:49:44 GMT",
-     "summary": "Taiwan Chelic reported accelerating revenue growth in 2026, supported by rising demand for printed circuit board (PCB) inspection equipment, automation systems and robotics components. The company said its non-pneumatic business increased to 45% of revenue, while gross margin remained above 30% as i",
+     "title": "National Tsing Hua University, Malaysian universities launch cross-border innovation hubs",
+     "link": "https://www.digitimes.com/news/a20261122PD200/taiwan-nthu-launch-startup-talent.html",
+     "pubDate": "Mon, 23 Nov 2026 01:16:12 GMT",
+     "summary": "Taiwan's National Tsing Hua University (NTHU) has partnered with Universiti Malaya (UM) and Universiti Kebangsaan Malaysia (UKM) to launch cross-border innovation hubs to connect talent from Taiwan and the Association of Southeast Asian Nations (ASEAN).",
      "source": "DIGITIMES",
-     "zh": "PCB and robotics demand drive Taiwan Chelic's 3Q26 growth"
+     "zh": "National Tsing Hua University, Malaysian universities launch cross-border innovation hubs"
     },
     {
      "title": "CEO Interview with Manu Gulati of Velaura AI",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "“假洋牌”Swisse，卖爆了",
+     "link": "https://www.tmtpost.com/8214108.html",
+     "pubDate": "Mon, 23 Nov 2026 09:59:53 +0800",
+     "summary": "最会玩的“时代安慰剂”。",
+     "source": "钛媒体",
+     "zh": "“假洋牌”Swisse，卖爆了"
+    },
+    {
      "title": "林俊旸追上李飞飞",
      "link": "https://www.tmtpost.com/8213927.html",
      "pubDate": "Mon, 23 Nov 2026 09:52:28 +0800",
@@ -1818,12 +1826,20 @@ window.INDUSTRY_DATA = {
      "zh": "下月，美联储加息概率不再100%"
     },
     {
-     "title": "玄机接手《夜的命名术》动画制作：B站追加预算，档期未定",
+     "title": "微软申请新专利：手柄换摇杆仅需一把螺丝刀",
+     "link": "https://www.ithome.com/1/030/761.htm",
+     "pubDate": "Mon, 23 Nov 2026 01:35:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，相信每位玩家在游戏生涯中都遇到过手柄摇杆漂移问题，最终只能花大价钱买新手柄，或是自己动手拆开换摇杆。如今，微软似乎正在悄悄开发解决方案。 据科技媒体 TechPower Up 今天报道，微软已提交“可更换输入模块”（Replaceable Input Module）专利。文件里的手柄采用独立摇杆模块，只需要一颗螺丝就能装入手柄。 如果这种方案真能落地 ， 那么修复摇杆漂移的手柄只需要一把螺丝刀 。 从专利文件来看，这颗螺丝似乎会固定在模块上，因此用户也不必担心拆卸时将其弄丢。模块还配备了定位销和倾斜边缘，用于帮助用户对准安装位置。模块底部还设有触点，取代传统的",
+     "source": "IT之家",
+     "zh": "微软申请新专利：手柄换摇杆仅需一把螺丝刀"
+    },
+    {
+     "title": "玄机接手《夜的命名术》动画制作：B站追加预算，定档 2027 下半年",
      "link": "https://www.ithome.com/1/030/760.htm",
      "pubDate": "Mon, 23 Nov 2026 01:32:41 GMT",
-     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《夜的命名术》动画正式官宣，由哔哩哔哩与玄机科技联合出品，玄机科技负责制作。 这是该动画项目经历推倒重制后，制作阵容的首次正式确认。按玄机科技已公开的制作排期，该片预计最早于 2027 年与观众见面。 《夜的命名术》动画最初由初色动画制作，原定 2025 年 8 月 14 日在B站独播，已过审 6 集。但在临播前夕，因成品质量与预告差距过大，B站决定追加预算、更换制作公司，对全片进行全面重制。 原著作者会说话的肘子当时说明，问题并非某一角色的建模，而是“全片级别的质量不达标”。此后玄机科技（IT之家",
+     "summary": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，《夜的命名术》动画正式官宣，由哔哩哔哩与玄机科技联合出品，玄机科技负责制作。 这是该动画项目经历推倒重制后，制作阵容的首次正式确认。按玄机科技已公开的制作排期，该片预计最早于 2027 年下半年与观众见面。 《夜的命名术》动画最初由初色动画制作，原定 2025 年 8 月 14 日在B站独播，已过审 6 集。但在临播前夕，因成品质量与预告差距过大，B站决定追加预算、更换制作公司，对全片进行全面重制。 原著作者会说话的肘子当时说明，问题并非某一角色的建模，而是“全片级别的质量不达标”。此后玄机科技（I",
      "source": "IT之家",
-     "zh": "玄机接手《夜的命名术》动画制作：B站追加预算，档期未定"
+     "zh": "玄机接手《夜的命名术》动画制作：B站追加预算，定档 2027 下半年"
     },
     {
      "title": "捷波带来 MTX-RYZ1 主板：板载锐龙 7 PRO 8845HS，提供 PCIe 插槽",
@@ -1874,18 +1890,10 @@ window.INDUSTRY_DATA = {
      "zh": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎"
     },
     {
-     "title": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U",
-     "link": "https://www.ithome.com/1/030/754.htm",
-     "pubDate": "Mon, 23 Nov 2026 01:20:01 GMT",
-     "summary": "IT之家 11 月 23 日消息，Shuttle（辅信，原名浩鑫）当地时间本月 18 日面向北美市场推出了 NW10U 迷你主机。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，体积仅 0.4L。 NW10U 三维 103×97×36.5 (mm)，兼容 75×75 / 100×100 (mm) VESA 壁挂规范，集成热管 + 风扇散热系统。 其设有 1 个 DDR5-6400 SO-DIMM 内存插槽， 提供 2 个 M.2 M-Key 2280 (PCIe Gen4 ×2) 插槽 ，另有 1 个 M.2 E-Key 插槽用于安装无线网卡。 而在外部，其正面提供 2 ",
-     "source": "IT之家",
-     "zh": "Shuttle 推出 0.4L \"Wildcat Lake\" 迷你主机 NW10U"
-    },
-    {
      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
      "link": "https://spelunkr.tv",
      "pubDate": "Mon, 23 Nov 2026 01:13:51 +0000",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 32 # Comments: 5",
      "source": "Hacker News",
      "zh": "Free alternative TV network built from the Internet Archive's forgotten videos"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "What we learned operating auth for 1k APIs",
      "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
      "pubDate": "Mon, 23 Nov 2026 01:01:11 +0000",
-     "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 5 # Comments: 2",
      "source": "Hacker News",
      "zh": "What we learned operating auth for 1k APIs"
     },
@@ -1965,15 +1973,23 @@ window.INDUSTRY_DATA = {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 89 # Comments: 82",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 97 # Comments: 84",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
+    },
+    {
+     "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+     "link": "https://0rwx.com/",
+     "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
+     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 18 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
     },
     {
      "title": "What should AAA game devs do",
      "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
      "pubDate": "Sun, 22 Nov 2026 23:51:00 +0000",
-     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 20 # Comments: 35",
+     "summary": "Article URL: https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/ Comments URL: https://news.ycombinator.com/item?id=50605426 Points: 22 # Comments: 38",
      "source": "Hacker News",
      "zh": "What should AAA game devs do"
     },
@@ -1997,25 +2013,9 @@ window.INDUSTRY_DATA = {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 150 # Comments: 120",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 156 # Comments: 131",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
-    },
-    {
-     "title": "GL.iNet Security Notice 2026-11-20",
-     "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-     "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 86 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "GL.iNet Security Notice 2026-11-20"
-    },
-    {
-     "title": "‘You Can See Everything’ has made more than $100M worldwide",
-     "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-     "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
-     "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-     "source": "TechCrunch",
-     "zh": "‘You Can See Everything’ has made more than $100M worldwide"
     }
    ]
   },
@@ -2274,12 +2274,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Tech stock sell-off deepens in Asia",
-     "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 01:55:07 GMT",
-     "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
-     "source": "Financial Times",
-     "zh": "Tech stock sell-off deepens in Asia"
+     "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+     "link": "https://wallstreetcn.com/articles/3786482",
+     "pubDate": "Mon, 23 Nov 2026 10:06:07 +0800",
+     "summary": "特斯拉自动驾驶系统迎来一次颇具视觉冲击力的升级。 当地时间11月21日，特斯拉开始推送FSD V15.0.1， 新版本不仅引入实时生成式驾驶可视化系统，还升级了底层视觉编码器，将汽车、Robotaxi与人形机器人Optimus的视觉训练进一步打通。 此次升级最引人注目的变化，据追风交易台，野村证券认为，特斯拉正尝试打通自动驾驶汽车与人形机器人的视觉系统，通过共享AI视觉技术和扩大训练数据来源，构建跨产品的数据飞轮。 根据特斯拉发布说明，新版视觉编码器使用数百万条互联网视频进行训练，并同时服务于FSD、Robotaxi和Optimus。特斯拉称，这一升级使关键人工干预率改善25倍，但目前尚未披露",
+     "source": "华尔街见闻",
+     "zh": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”"
+    },
+    {
+     "title": "沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌",
+     "link": "https://wallstreetcn.com/articles/3786484",
+     "pubDate": "Mon, 23 Nov 2026 10:00:00 +0800",
+     "summary": "11月23日，A股早盘震荡分化，沪指低开低走，盘初跌破3600点，创业板盘初一度快速上冲，科创50跌超1%，北证50涨近2%。AI硬件活跃，电路板、光模块、覆铜板等逆势拉升，物理AI再度反弹，上纬新材、宇树科技涨幅居前。油气、白酒、煤炭等陷入调整。 港股低空低走，恒指、恒科指双双跌超1%，恒科指跌近2%，权重科网股多数下挫，腾讯、阿里、美团等纷纷走低。AI硬件股局部反弹，中际旭创涨超4%，AI大模型股分化，智谱涨2%，MINIMAX跌1%。债市方面，国债期货普遍下跌。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指跌1.16%，深成指跌0.30%，创业板指涨0.20%。 ",
+     "source": "华尔街见闻",
+     "zh": "沪指跌1%失守3500点，创业板低开高走早盘转涨，物理AI爆发、宇树大涨，恒科指跌近2%，权重科网股普跌"
     },
     {
      "title": "遭证监会立案，ST洲际开盘跌停",
@@ -2346,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "“稳市”新政三箭齐发：融资端、成本端、制度端如何协同发力？"
     },
     {
+     "title": "Tech stock sell-off deepens in Asia",
+     "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 01:37:46 GMT",
+     "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
+     "source": "Financial Times",
+     "zh": "Tech stock sell-off deepens in Asia"
+    },
+    {
      "title": "11月23日集合竞价：真视通5连板 德龙汇能2连板",
      "link": "http://stock.eastmoney.com/news/11752,202611233937066258.html",
      "pubDate": "Mon, 23 Nov 2026 09:28:44 +0800",
@@ -2408,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "上周A股延续震荡，周末稳市“组合拳”发布后，市场将如何演绎？ 澎湃新闻搜集了10家券商的观点，大部分券商认为，虽然短期市场可能继续承压，但随着各种风险正被充分定价，A股市场底部特征逐步显现，市场具备超跌修复基础。接下来，随着中长期资金的积极托底以及海外扰动的逐渐减弱，市场有望逐渐企稳。 申万宏源 证券表示，A股历史长期性价比出清，往往对应各维度的悲观预期反映都趋于充分。重申A股AI链长期性价比临近出清，对应AI远期展望问题、中期算力链供给释放和价格松动的问题等都趋于充分定价。宏观层面，美联储加息冲击、全球风险偏好冲击等问题也有所反映。 招商证券 指出，A股市场底部特征逐步显现，多项指标逐步趋近",
      "source": "东方财富资讯",
      "zh": "十大券商看后市｜A股底部特征逐步显现 极端估值结构将修正"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Mon, 23 Nov 2026 08:35:19 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场",
-     "link": "https://wallstreetcn.com/articles/3786473",
-     "pubDate": "Mon, 23 Nov 2026 08:31:01 +0800",
-     "summary": "科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示， 对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。 高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫",
-     "source": "华尔街见闻",
-     "zh": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场"
     },
     {
      "title": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg",

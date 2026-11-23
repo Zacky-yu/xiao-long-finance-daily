@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 07:51:59",
+ "generated_at": "2026/11/23 08:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,54 @@
    "total": 9,
    "items": [
     {
+     "title": "India roundup: India's semiconductor ambitions' execution hurdles",
+     "link": "https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html",
+     "pubDate": "Sun, 22 Nov 2026 23:51:12 GMT",
+     "summary": "India is accelerating semiconductor investment through research projects, equipment localization and subsidies, but customer skepticism, manufacturing challenges and a major customs dispute underscore risks to its expanding technology ambitions.",
+     "source": "DIGITIMES",
+     "zh": "India roundup: India's semiconductor ambitions' execution hurdles"
+    },
+    {
+     "title": "China's chipmaking hubs double imports of Singapore-made equipment",
+     "link": "https://www.digitimes.com/news/a20261120VL216/equipment-manufacturing-sk-hynix-beijing-cxmt.html",
+     "pubDate": "Sun, 22 Nov 2026 23:50:56 GMT",
+     "summary": "Imports of Singapore-made semiconductor manufacturing equipment into three of China's major chipmaking hubs doubled to US$3.46 billion in the first seven months of 2026, led by a sharp increase in purchases of deposition tools.",
+     "source": "DIGITIMES",
+     "zh": "China's chipmaking hubs double imports of Singapore-made equipment"
+    },
+    {
+     "title": "Jensen's exit puts Japan's physical-AI revival to the test",
+     "link": "https://www.digitimes.com/news/a20261120VL215/nvidia-jensen-huang-scandal-infrastructure-manufacturing.html",
+     "pubDate": "Sun, 22 Nov 2026 23:50:35 GMT",
+     "summary": "The turmoil surrounding Jensen Huang's abrupt departure from Nvidia has quickly expanded beyond a corporate leadership scandal into a broader test of how deeply the AI industry had come to depend on one executive's influence.",
+     "source": "DIGITIMES",
+     "zh": "Jensen's exit puts Japan's physical-AI revival to the test"
+    },
+    {
+     "title": "Montage Technology's DDR5 surge signals a bigger opportunity in AI server interconnects",
+     "link": "https://www.digitimes.com/news/a20261120VL214/montage-ddr5-shipments-ai-server-pcie.html",
+     "pubDate": "Sun, 22 Nov 2026 23:50:23 GMT",
+     "summary": "China's Montage Technology is accelerating shipments of advanced DDR5 memory interface chips amid growing AI server demand, while expanding into multiplexed rank DIMM (MRDIMM), PCIe, and Compute Express Link (CXL) products to capture higher-value opportunities in server interconnects.",
+     "source": "DIGITIMES",
+     "zh": "Montage Technology's DDR5 surge signals a bigger opportunity in AI server interconnects"
+    },
+    {
+     "title": "Taiwan startup investment contracts as AI, semiconductors attract capital",
+     "link": "https://www.digitimes.com/news/a20261120PD246/investment-taiwan-startup-venture-capital-semiconductors.html",
+     "pubDate": "Sun, 22 Nov 2026 23:50:02 GMT",
+     "summary": "Global venture capital deal value reached a new high in the first half of 2026, with AI accounting for about 70% of total investment, according to CB Insights. While Taiwan's startup investment market saw AI and semiconductor-related startups attract more capital, both deal count and total funding h",
+     "source": "DIGITIMES",
+     "zh": "Taiwan startup investment contracts as AI, semiconductors attract capital"
+    },
+    {
+     "title": "PCB and robotics demand drive Taiwan Chelic's 3Q26 growth",
+     "link": "https://www.digitimes.com/news/a20261120PD244/taiwan-growth-pcb-revenue-demand.html",
+     "pubDate": "Sun, 22 Nov 2026 23:49:44 GMT",
+     "summary": "Taiwan Chelic reported accelerating revenue growth in 2026, supported by rising demand for printed circuit board (PCB) inspection equipment, automation systems and robotics components. The company said its non-pneumatic business increased to 45% of revenue, while gross margin remained above 30% as i",
+     "source": "DIGITIMES",
+     "zh": "PCB and robotics demand drive Taiwan Chelic's 3Q26 growth"
+    },
+    {
      "title": "CEO Interview with Manu Gulati of Velaura AI",
      "link": "https://semiwiki.com/ceo-interviews/376481-ceo-interview-with-manu-gulati-of-velaura-ai/",
      "pubDate": "Sun, 22 Nov 2026 18:00:42 +0000",
@@ -281,60 +329,12 @@
      "zh": "CEO Interview with Dr. Sameer Pawanekar of Ramtera"
     },
     {
-     "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
-     "link": "https://www.digitimes.com/news/a20261120PD247/tesla-shanghai-elon-musk-manufacturing-ceo.html",
-     "pubDate": "Sat, 21 Nov 2026 14:14:51 GMT",
-     "summary": "Tesla CEO Elon Musk made a whirlwind 24-hour visit to China, traveling to Shanghai on November 19 after concluding activities related to the APEC meetings in Shenzhen. He visited Tesla's Shanghai Gigafactory to meet with the Asia-Pacific and China teams, praising their manufacturing and execution ca",
-     "source": "DIGITIMES",
-     "zh": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing"
-    },
-    {
-     "title": "Trump says Jensen Huang should apologize and return to Nvidia",
-     "link": "https://www.digitimes.com/news/a20261121VL200/nvidia-donald-trump-jensen-huang-taiwan-taipei.html",
-     "pubDate": "Sat, 21 Nov 2026 14:14:02 GMT",
-     "summary": "U.S. President Donald Trump said Friday that Jensen Huang should apologize and be allowed to return as Nvidia's chief executive. It was the second time this week Trump backed Huang publicly, and it came three days after Nvidia's board said it would not reinstate him.",
-     "source": "DIGITIMES",
-     "zh": "Trump says Jensen Huang should apologize and return to Nvidia"
-    },
-    {
      "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
      "link": "https://spectrum.ieee.org/sram-memory-z2ram",
      "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
      "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
      "source": "IEEE Spectrum 半导体",
      "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
-    },
-    {
-     "title": "Nextlink launches AI transformation project as revenue reaches record high",
-     "link": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html",
-     "pubDate": "Sat, 21 Nov 2026 04:06:37 GMT",
-     "summary": "Sustained demand for enterprise cloud adoption and AI deployment has led to growing revenues for cloud AI solution providers. Nextlink, the cloud business subsidiary of telecom company Far EasTone Telecommunications, returned to operating profitability in the first three quarters of 2026 and posted ",
-     "source": "DIGITIMES",
-     "zh": "Nextlink launches AI transformation project as revenue reaches record high"
-    },
-    {
-     "title": "Apple's agent push turns operating-system access into AI's next battleground",
-     "link": "https://www.digitimes.com/news/a20261120VL221/apple-apps-meta-siri.html",
-     "pubDate": "Sat, 21 Nov 2026 04:05:57 GMT",
-     "summary": "Apple's latest AI push is beginning to expose a new competitive fault line in the agent market: as frontier models become capable of browsing websites, controlling apps and executing multi-step tasks, the company controlling the operating system may ultimately determine how much autonomy those agent",
-     "source": "DIGITIMES",
-     "zh": "Apple's agent push turns operating-system access into AI's next battleground"
-    },
-    {
-     "title": "SolidWizard sees AI, semiconductor orders through 2027",
-     "link": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html",
-     "pubDate": "Sat, 21 Nov 2026 04:04:46 GMT",
-     "summary": "Rising investment in AI, semiconductors, and high-performance computing is driving demand for advanced software, giving 3D digital design and AI solutions provider SolidWizard Technology strong order visibility from AI and semiconductor customers through 2027. SolidWizard reported consolidated reven",
-     "source": "DIGITIMES",
-     "zh": "SolidWizard sees AI, semiconductor orders through 2027"
-    },
-    {
-     "title": "Axiomtek restructures for physical AI, expands global customer reach",
-     "link": "https://www.digitimes.com/news/a20261118PD235/axiomtek-pc-ipc-physical-ai-2026.html",
-     "pubDate": "Sat, 21 Nov 2026 04:04:21 GMT",
-     "summary": "Industrial PC (IPC) maker Axiomtek sustained growth in Q3 2026, reporting quarterly revenue of NT$2.779 billion (US$84.6 million), up 11.5% quarter-over-quarter and 59.32% year-over-year, while its operating margin rose to 13.09%. The company attributed the growth to demand for edge computing, indus",
-     "source": "DIGITIMES",
-     "zh": "Axiomtek restructures for physical AI, expands global customer reach"
     },
     {
      "title": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies",
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
+     "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
+     "pubDate": "Sun, 22 Nov 2026 18:00:00 -0600",
+     "summary": "Oil prices have traded in a narrow range over the past few sessions as forecasts of a coming surplus collide with continued attacks and stalled diplomacy in the Middle East. A run of agency reports this month has pushed expectations toward oversupply and weighed on crude. Brent crude was up 1.1% at ",
+     "source": "OilPrice",
+     "zh": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet"
+    },
+    {
      "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Exports-Hit-Records-as-Global-Competition-Intensifies.html",
      "pubDate": "Sun, 22 Nov 2026 16:00:00 -0600",
@@ -935,14 +943,6 @@
      "summary": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In i",
      "source": "OilPrice",
      "zh": "AI Boom Forces Massive Investment in Power Grids Worldwide"
-    },
-    {
-     "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
-     "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
-     "pubDate": "Sat, 21 Nov 2026 16:00:00 -0600",
-     "summary": "A new report from Ember Energy shows the enormous cost-saving potential of wind energy. While solar power and battery storage have taken off on a global level, wind power has been slower to expand. But according to the new report from the prominent energy think tank, this is a major missed opportuni",
-     "source": "OilPrice",
-     "zh": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says"
     },
     {
      "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
@@ -1313,14 +1313,6 @@
    "total": 6,
    "items": [
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
-    },
-    {
      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -1417,14 +1409,6 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1463,14 +1447,6 @@
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
-    },
-    {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1513,14 +1489,6 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
-    },
-    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1551,6 +1519,22 @@
      "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Origami and solar arrays"
+    },
+    {
+     "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
+     "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
+     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
+     "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1777,12 +1761,44 @@
    "total": 18,
    "items": [
     {
+     "title": "维他奶国际，承压前行",
+     "link": "https://www.huxiu.com/article/4907569.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 07:59:02 +0800",
+     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈晓京 在维他奶国际2026/2027中期业绩发布会现场，85岁的罗友礼在镜头前露出淡淡的微笑，神情里有对中期经营成果的肯定，却难掩当下业务承压的现实。 在11月20日业绩发布会上，他主动对外发出预警信号，直言下半财年经营形势不容乐观，公司将以降本增效为核心应对策略。 光鲜的中期报表之下，植物蛋白饮料行业增长放缓的大势并未扭转。上半财年，公司能够交出向好业绩，很大程度上得益于汇率变动带来的红利。 眼下市场竞争日趋白热化，原材料成本压力持续存在，加上公司渠道结构调整尚未完成，想要在2026/2027完整财年实现业绩增长，依然存在较大不确定性。 上半财年，被",
+     "source": "虎嗅",
+     "zh": "维他奶国际，承压前行"
+    },
+    {
+     "title": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告",
+     "link": "https://www.ithome.com/1/030/731.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:56:04 GMT",
+     "summary": "IT之家 11 月 23 日消息，《英雄联盟》赛事今日官宣，2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在B站播出，首支预告短片公布。 IT之家注意到，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛于 11 月 15 日落幕，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队， 连斩 4 支韩国队 ，勇夺《英雄联盟》S16 冠军。 BLG 战队今年再进 S 赛气势如虹，连斩 HLE、DK、T1、GEN 四支 LCK 赛区战队。先是在半决赛战胜 Faker 领衔的 T1 战队，为 LPL 赛区打破 13 年 BO5 不胜魔咒，再",
+     "source": "IT之家",
+     "zh": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告"
+    },
+    {
+     "title": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革",
+     "link": "https://www.ithome.com/1/030/730.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:47:41 GMT",
+     "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨日在新一期《Power On》通讯中认为，苹果传统的软件开发方式可能阻碍其进入 AI 时代。僵化的发布周期、集中化的决策和缓慢的开发流程，让苹果很难和 AI 领域竞争对手抗衡。 ▲ 苹果首席执行官约翰 · 特努斯（John Ternus） 古尔曼警告称，虽然苹果在软硬件和生态领域仍然优势明显， 但现有的组织架构拖累了公司在 AI 领域的发展 。他说道：“简单来说，苹果作为一家企业，其组织架构和运作方式很难在 AI 时代取得成功。这家公司需要在组织结构和企业文化层面进行全面改革。” 例如，苹果通常会在新系统正式发布前一年就确认主要功能",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革"
+    },
+    {
      "title": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式",
      "link": "https://www.huxiu.com/article/4907567.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 07:38:16 +0800",
      "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 美国密歇根州马歇尔市的福特电池工厂里，有一堵特别的墙。 墙的一侧生产电芯，另一侧组装电池包。完成检测的电芯通过传送带穿过墙上的通道，进入电池包生产区域。两个车间之间没有供人员直接通行的门。 据《底特律新闻》11月18日报道，宁德时代的工程师可以在电芯制造车间参与设备调试、员工培训和生产爬坡，却不能进入另一侧的电池包组装区域。 这座投资30亿美元的工厂归福特所有，由福特独立运营，采用宁德时代授权的磷酸铁锂电池制造技术。 11月18日，福特宣布，马歇尔工厂生产的首批电芯已经运往肯塔基州路易斯维尔，用于新款电动皮卡Fathom的原型车测试。 从",
      "source": "虎嗅",
      "zh": "福特终于在美国造出电池，宁德时代却换了一种赚钱方式"
+    },
+    {
+     "title": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元",
+     "link": "https://www.ithome.com/1/030/729.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:37:54 GMT",
+     "summary": "IT之家 11 月 23 日消息，苹果今年 5 月同意支付 2.5 亿美元 （IT之家注：现汇率约合 16.73 亿元人民币） ，以和解一起涉及 Siri AI 功能延迟上线的美国集体诉讼。 根据 MacRumors 当地时间 11 月 21 日的报道，代表消费者的律师于 11 月 16 日提交法庭文件，预计符合条件的用户每台 iPhone 可获赔至少 61 美元 （现汇率约合 408.3 元人民币） ，最高赔偿金额为 95 美元 （现汇率约合 635.9 元人民币） 。 根据和解条款，每台符合条件的设备基础赔偿金额为 25 美元，最终金额将根据有效申报总量按比例调整，最高不超过 95 美元，",
+     "source": "IT之家",
+     "zh": "苹果 Siri AI 集体诉讼案和解：符合条件的 iPhone 预计每台可获赔至少 61 美元"
     },
     {
      "title": "影石创新：拿下七成市场，蒸发一千亿市值",
@@ -1793,20 +1809,36 @@
      "zh": "影石创新：拿下七成市场，蒸发一千亿市值"
     },
     {
+     "title": "美国达美航空系统故障，致亚特兰大机场数百航班延误",
+     "link": "https://www.ithome.com/1/030/728.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:35:21 GMT",
+     "summary": "IT之家 11 月 23 日消息，据新华社今日报道，美国达美航空公司技术系统出现故障，导致 22 日进出亚特兰大国际机场的数百个航班出现延误。 美国联邦航空管理局发布的信息显示，达美航空飞往亚特兰大国际机场的航班 平均延误近一个小时 ，涉及约 20 个航线控制中心。 达美航空公司表示， 航班延误是由于其重量与平衡自动化系统出现故障 。公司正与空管部门协调，采取措施防止在亚特兰大国际机场登机口和停机坪区域出现拥堵。当天上午，达美航空通过人工方式安排航班起飞，同时继续努力恢复自动化系统。 根据航班追踪网站发布的数据，截至美东时间 22 日 11 时，有 681 个进出亚特兰大国际机场的航班出现延误",
+     "source": "IT之家",
+     "zh": "美国达美航空系统故障，致亚特兰大机场数百航班延误"
+    },
+    {
+     "title": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit",
+     "link": "https://www.ithome.com/1/030/727.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:30:20 GMT",
+     "summary": "IT之家 11 月 23 日消息，Mozilla 前天（11 月 20 日）发布声明，指责苹果长期阻碍真正的 Firefox 火狐浏览器登陆 iPhone。 据IT之家了解，Firefox 的 iOS 版使用 WebKit 引擎，而非 Mozilla 自主开发的 Gecko 引擎。 Mozilla 表示，即使欧盟《数字市场法案》和日本《智能手机软件竞争促进法》已要求苹果调整政策，但 iOS 的现行限制仍让人难以接受。 例如公司无法通过更新现有 Firefox 的方式 ， 直接将 WebKit 内核替换为 Gecko 。因为按照苹果的要求， 公司必须单独开发新浏览器并分发一个全新 App 。 这",
+     "source": "IT之家",
+     "zh": "Mozilla 指责苹果阻止真正的 Firefox 浏览器登陆 iPhone，称现有 App 无法直接抛弃 WebKit"
+    },
+    {
+     "title": "2027 款福特烈马将于广州车展上市，新增大海道版本",
+     "link": "https://www.ithome.com/1/030/726.htm",
+     "pubDate": "Sun, 22 Nov 2026 23:27:43 GMT",
+     "summary": "IT之家 11 月 23 日消息，据易车 11 月 22 日报道，2027 款福特烈马将在广州车展正式上市。新车新增烈马大海道版本，与荒地版形成两条差异化的外观与越野套件路线。 大海道版以红色车身搭配撞色白顶 ，车身侧面印有大号 BRONCO 拉花，配银黑双色防脱越野轮毂与全地形 AT 胎，面向户外穿越、打卡出行；荒地版采用纯黑车身与黑银配色防脱轮毂，整体风格低调硬核，可城可野。 两款车型保留圆形复古大灯、贯穿式 BRONCO 字母格栅、方盒子车身、可拆卸车顶、外挂式后备胎与宽大黑色轮眉。座舱延续烈马粗犷实用的布局，中控台保留大量实体按键与顶部控制开关，便于越野时盲操作，可拆卸门板与防水易清洁",
+     "source": "IT之家",
+     "zh": "2027 款福特烈马将于广州车展上市，新增大海道版本"
+    },
+    {
      "title": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始",
      "link": "https://www.huxiu.com/article/4907565.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 07:23:43 +0800",
      "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始》 新旧交替时期，苹果改变了不少「祖宗之法」，新品发布的节奏当然也不例外。 最明显的变化就是，过去集中在秋季发布会上的产品，如今被苹果分拆为连续数月的更新—— 9月，iPhone 18 Pro系列与首款折叠屏iPhone Duo同场亮相；10月，智能家居设备HomeView、新款iPad mini与触屏MacBook Pro等新品陆续登场。 图｜Apple Cycle 而短暂冬歇之后，苹果又将迎来一个繁忙的春天。 彭博社记者马克·古尔曼在最新一期Powe",
      "source": "虎嗅",
      "zh": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始"
-    },
-    {
-     "title": "马斯克被曝悄悄开发菲律宾岛屿，具体位置未披露",
-     "link": "https://www.ithome.com/1/030/724.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:21:16 GMT",
-     "summary": "IT之家 11 月 23 日消息，菲律宾驻美大使何塞 · 曼努埃尔 · 罗穆亚尔德斯透露，埃隆 · 马斯克可能正在菲律宾开发“一两座”岛屿。他表示，马斯克近期常低调访问菲律宾，对当地表现出浓厚兴趣。截至IT之家发稿，相关话题已登上微博热搜。 罗穆亚尔德斯于 11 月 19 日接受菲律宾 ANC 新闻频道采访时透露，马斯克于当地时间 11 月 18 日上午 11 时 30 分左右乘坐私人飞机抵达马尼拉。 罗穆亚尔德斯称，马斯克没有参加美国总统特朗普在菲律宾的正式活动，而是在机场等待特朗普，随后陪同其前往深圳参加亚太经合组织（APEC）相关活动。 谈及马斯克与菲律宾的关系，罗穆亚尔德斯表示：“据我",
-     "source": "IT之家",
-     "zh": "马斯克被曝悄悄开发菲律宾岛屿，具体位置未披露"
     },
     {
      "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
@@ -1833,34 +1865,10 @@
      "zh": "我最近听到最有水平的两句话"
     },
     {
-     "title": "涉案金额超 3 亿元，北京查处首例区块链虚拟货币新型协助传销案",
-     "link": "https://www.ithome.com/1/030/723.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:16:27 GMT",
-     "summary": "IT之家 11 月 23 日消息，据央视新闻今日报道，日前，北京首例利用区块链、虚拟货币技术为传销活动提供协助的违法案件被查处， 涉案金额超 3 亿元人民币 。 据报道，涉案科技公司是某公链的外包服务商，提供运营、市场推广、交易所对接和维护等服务。该公链推出多款理财项目，兜售相关虚拟货币，以高额收益回报为诱饵，售出价值人民币超 3 亿元的虚拟货币。 北京市海淀区市场监管综合执法大队执法人员胡日露表示，该公司光是质押母币的收益就已高达 年化 20 个点以上 ，子币的收益可能更高，远远超过 20%。相关推荐会更多宣扬技术，“在技术水平的掩饰之下，会让大家觉得自己是在参与一个高科技企业的投资”。 经",
-     "source": "IT之家",
-     "zh": "涉案金额超 3 亿元，北京查处首例区块链虚拟货币新型协助传销案"
-    },
-    {
-     "title": "微软计划 2027 年将 Wi-Fi 驱动移出 Win11 内核，降低蓝屏风险",
-     "link": "https://www.ithome.com/1/030/722.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:14:13 GMT",
-     "summary": "IT之家 11 月 23 日消息，据科技媒体 Windows Latest 今天报道，微软计划于 2027 年将 Wi-Fi 驱动从 Win11 内核迁移至用户模式，降低驱动程序故障导致整个系统崩溃的风险。这项调整是微软「驱动质量计划」（DQI）的一部分， 旨在减少内核模式驱动的使用 ， 提升 Win11 稳定性和安全性 。 微软 Windows 产品经理 Mehmet Kucukgoz 在 Ignite 2026 大会确认开发上述方案，预计 2027 年推出。作为参考，Windows 目前会将 Wi-Fi 驱动运行在内核模式下，一旦驱动出现兼容性问题或在系统更新后故障，就可能引发蓝屏。例如，",
-     "source": "IT之家",
-     "zh": "微软计划 2027 年将 Wi-Fi 驱动移出 Win11 内核，降低蓝屏风险"
-    },
-    {
-     "title": "郑州“7·6”火灾调查报告公布：非法改装电摩入户充电，锂电池爆燃引发事故致 5 人死亡",
-     "link": "https://www.ithome.com/1/030/721.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:13:11 GMT",
-     "summary": "IT之家 11 月 23 日消息，郑州市消防救援支队于 11 月 20 日晚发布了《郑州市惠济区和昌珑悦小区“7·6”较大火灾事故调查报告》。 郑州市人民政府事故调查组认定，这起造成 5 人死亡、1 人受伤的火灾，是一起由电动摩托车非法改装、违规进楼入户充电、锂电池热失控后爆燃直接引发的责任事故。事故过火面积约 15 平方米，直接经济损失 530.75 万元。 调查显示，该电动摩托车（小牛 N Play）最初由商丘的刘某鸣（不满 14 岁）要求线下门店进行改装，此后经过四次私下转卖，于 2026 年 6 月 14 日转入代某辉（15 岁）手中。改装内容涉及电池与车辆电气系统，为后续的电池热失控",
-     "source": "IT之家",
-     "zh": "郑州“7·6”火灾调查报告公布：非法改装电摩入户充电，锂电池爆燃引发事故致 5 人死亡"
-    },
-    {
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 58 # Comments: 14",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 78 # Comments: 31",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1876,31 +1884,15 @@
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 23 # Comments: 6",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 31 # Comments: 11",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
-    },
-    {
-     "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
-     "link": "https://www.ithome.com/1/030/720.htm",
-     "pubDate": "Sun, 22 Nov 2026 22:50:46 GMT",
-     "summary": "IT之家 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型的预测能力越强）。 帕霍茨基还公布了 OpenAI 内部使用的部分模型评测数据：GPT-3.5 ",
-     "source": "IT之家",
-     "zh": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限"
-    },
-    {
-     "title": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo",
-     "link": "https://www.ithome.com/1/030/719.htm",
-     "pubDate": "Sun, 22 Nov 2026 22:42:26 GMT",
-     "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨晚发布了最新一期 Power On 新闻通讯，分析了苹果在 AI Agent 竞争中的处境，并披露了苹果 2027 年上半年的部分新品计划。 IT之家此前报道，苹果正在招聘负责 Agentic AI 项目的高级工程管理人员，招聘描述涉及跨应用操作、网页浏览、命令执行及代码编写和调试等能力。 古尔曼认为，苹果在 AI Agent 竞争中面临的主要问题并非缺乏资金或技术资源，而是传统软硬件开发模式已经难以适应 AI 行业快速迭代的节奏。 他指出，苹果过去依靠生态系统建立了竞争优势。用户在 iCloud 中存储邮件、联系人、照片和视频，同",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果准备在明年 2 月至 3 月 iOS 27.4 周期中推出入门级 iPad、iPhone 18e 和全新 MacBook Neo"
     },
     {
      "title": "Localcode, open source agentic coding on your Mac with one command",
      "link": "https://github.com/mjwsolo/localcode",
      "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
-     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 9 # Comments: 1",
      "source": "Hacker News",
      "zh": "Localcode, open source agentic coding on your Mac with one command"
     },
@@ -1908,7 +1900,7 @@
      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
      "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 37 # Comments: 5",
      "source": "Hacker News",
      "zh": "The Usefulness of Useless Knowledge [pdf] (1939)"
     },
@@ -1916,7 +1908,7 @@
      "title": "Agent swarm trying to solve P vs. NP",
      "link": "https://pequalnp.com/",
      "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 55 # Comments: 57",
+     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 64 # Comments: 64",
      "source": "Hacker News",
      "zh": "Agent swarm trying to solve P vs. NP"
     },
@@ -1932,7 +1924,7 @@
      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
      "pubDate": "Sun, 22 Nov 2026 21:33:12 +0000",
-     "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 20 # Comments: 7",
+     "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 24 # Comments: 7",
      "source": "Hacker News",
      "zh": "The struggle for freedom: How BSD escaped AT&T licensing"
     },
@@ -1977,14 +1969,6 @@
      "zh": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)"
     },
     {
-     "title": "递归自我改进：AI 已经走到了哪一步？",
-     "link": "https://www.huxiu.com/article/4907560.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 00:59:12 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 从Agent自我进化、模型权重重写，到AI研发体系与软硬件协同进化 全文2万字，RSI技术版图，截至2026年11月21日 -- 引言：AI自我改进，已经推进到了什么程度？ 一类研究开始让Agent修改自己的代码、工具、记忆和执行流程，并将有效改动保留到下一轮任务中。另一类研究则进一步触及模型本身：模型不再只是提出修改建议，而是尝试直接编辑自身的权重参数。与此同时，领先AI实验室开始让模型承担更多研发工作，从代码编写、实验监控延伸到训练流程和基础设施开发。AI甚至已经进入芯片设计和物理实验环节，参与改进支撑自身运行的计算系统。 这些进展分",
-     "source": "虎嗅",
-     "zh": "递归自我改进：AI 已经走到了哪一步？"
-    },
-    {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
      "link": "https://www.solidot.org/story?sid=85959",
      "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
@@ -2024,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What is the best way to secure your PlayStation 5 for a flight?",
+     "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+     "pubDate": "Sun, 22 Nov 2026 23:45:00 +0000",
+     "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+     "source": "Engadget",
+     "zh": "What is the best way to secure your PlayStation 5 for a flight?"
+    },
     {
      "title": "How to use AI glasses as a teleprompter",
      "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
@@ -2071,14 +2063,6 @@
      "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
      "source": "Engadget",
      "zh": "How to safely clean your PC's GPU to avoid damaging it in the process"
-    },
-    {
-     "title": "Why your monitor flickers when you turn it on and can it be fixed?",
-     "link": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
-     "pubDate": "Sun, 22 Nov 2026 21:45:00 +0000",
-     "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
-     "source": "Engadget",
-     "zh": "Why your monitor flickers when you turn it on and can it be fixed?"
     },
     {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
@@ -2273,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "局势有变？贝森特“改口”：黄仁勋可能“不知情”",
+     "link": "https://wallstreetcn.com/articles/3786468",
+     "pubDate": "Mon, 23 Nov 2026 08:02:16 +0800",
+     "summary": "美国财政部长贝森特暗示未排除黄仁勋回归英伟达的可能性。这一措辞较其此前呼吁英伟达“大换血”、从外部寻找领导人的强硬立场明显缓和，为这位创始人的回归留出了想象空间。 11月22日，贝森特在接受CBS《Face the Nation》节目采访时暗示并未排除黄仁勋回归的可能性，但强调政府首先需要厘清责任归属。他说： 我认为我们得看看责任最终落在哪里，看看公司底层那些违规的恶意行为者是谁。 他同时透露， 美国财政部截至11月22日尚未收到英伟达关于是否设立空壳公司规避出口管制的答复，该答复的截止日期为11月25日。 上述言论标志着贝森特口风的变化。就在上周，他还在福克斯新闻节目中呼吁对英伟达进行“大幅",
+     "source": "华尔街见闻",
+     "zh": "局势有变？贝森特“改口”：黄仁勋可能“不知情”"
+    },
+    {
+     "title": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg",
+     "link": "https://seekingalpha.com/news/4675417-clariant-cd-and-r-in-talks-to-acquire-chemicals-firm-ashland-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 18:53:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Clariant, CD&R  in talks to acquire chemicals firm Ashland - Bloomberg"
+    },
+    {
      "title": "Stock index futures rebound after AI wipeout",
      "link": "https://seekingalpha.com/news/4675416-sp-500-dow-nasdaq-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 18:03:40 -0500",
@@ -2417,14 +2417,6 @@
      "zh": "Social Security should be shut down, this Republican senator says"
     },
     {
-     "title": "'Hunger Games' helps box office rebound amid GTA 6 fever",
-     "link": "https://seekingalpha.com/news/4675413-hunger-games-helps-box-office-rebound-amid-gta-6-fever?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 15:10:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "'Hunger Games' helps box office rebound amid GTA 6 fever"
-    },
-    {
      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
@@ -2503,14 +2495,6 @@
      "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
      "source": "Financial Times",
      "zh": "Sanctioned Russian vessel attacked by drones near Finland"
-    },
-    {
-     "title": "COP31 climate talks fail after stand-off over fossil fuels",
-     "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
-     "pubDate": "Sun, 22 Nov 2026 13:50:41 GMT",
-     "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
-     "source": "Financial Times",
-     "zh": "COP31 climate talks fail after stand-off over fossil fuels"
     }
    ]
   },

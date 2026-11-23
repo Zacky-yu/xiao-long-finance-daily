@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-11-23T10:53:37.859Z",
+  "generatedAt": "2026-11-23T11:09:17.046Z",
   "count": 40,
   "items": [
+    {
+      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
+      "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+      "pubDate": "Mon, 23 Nov 2026 10:57:00 GMT",
+      "content": "The Pershing Square Capital Management CEO wrote in a post on X that he thinks financial conditions have already considerably tightened.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "pubDate": "Mon, 23 Nov 2026 10:56:00 GMT",
+      "content": "Shares in Nvidia rose on Monday after a weekend of more developments, including the Trump administration pushing for the reinstatement of Jensen Huang to lead the company.",
+      "source": "US",
+      "category": "半导体"
+    },
     {
       "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -63,22 +79,6 @@
       "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
       "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
       "content": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Social Security should be shut down, this Republican senator says",
-      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "pubDate": "Sun, 22 Nov 2026 20:26:00 GMT",
-      "content": "The program’s trust funds are forecast to run out of money in the next six years.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "pubDate": "Sun, 22 Nov 2026 19:24:00 GMT",
-      "content": "The plan would free up hospital and nursing-home beds — and lower costs.",
       "source": "US",
       "category": "全球综合"
     },

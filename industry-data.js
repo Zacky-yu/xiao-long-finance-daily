@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 06:32:12",
+ "generated_at": "2026/11/24 06:46:10",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
+     "link": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
+     "pubDate": "Mon, 23 Nov 2026 22:43:12 +0000",
+     "summary": "Figure AI has filed a patent application for a wearable robotic system designed to capture human arm movements and use the resulting data to train humanoid robots or control them remotely in real time. The application, US 2026/0364774 A1, was published on November 19, 2026, and was highlighted in a ",
+     "source": "Robotics & Automation",
+     "zh": "Figure AI patents wearable system for teaching humanoid robots through human movement"
+    },
+    {
+     "title": "Researchers develop automated platform for testing metallic materials",
+     "link": "https://roboticsandautomationnews.com/2026/11/23/esearchers-develop-automated-platform-for-testing-metallic-materials/107560/",
+     "pubDate": "Mon, 23 Nov 2026 22:33:12 +0000",
+     "summary": "A new autonomous experimental platform enables fully automated experiments on the structural properties of metallic materials. The system, described in a study published in Science and Technology of Advanced Materials: Methods, offers a basis for closed-loop autonomous optimization of these material",
+     "source": "Robotics & Automation",
+     "zh": "Researchers develop automated platform for testing metallic materials"
+    },
+    {
      "title": "Flying race cars take to the skies as Airspeeder partners with Advanced Navigation",
      "link": "https://roboticsandautomationnews.com/2026/11/23/flying-race-cars-take-to-the-skies-as-airspeeder-partners-with-advanced-navigation/107551/",
      "pubDate": "Mon, 23 Nov 2026 22:10:10 +0000",
@@ -544,22 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "John Deere said the deal strengthens its ability to help growers make more informed decisions throughout the growing season. The post How does Orchard AI fit into John Deere’s technology portfolio? appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "How does Orchard AI fit into John Deere’s technology portfolio?"
-    },
-    {
-     "title": "What to Expect During a HELOC Application: 6 Stages",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/what-to-expect-during-a-heloc-application-6-stages/107535/",
-     "pubDate": "Mon, 23 Nov 2026 20:23:48 +0000",
-     "summary": "Applying for a home equity line of credit involves paperwork, verification and a few waiting periods. Knowing the stages ahead of time makes the process feel less mysterious and helps you prepare the documents lenders will ask for. A little preparation can save days. Every lender has its own process",
-     "source": "Robotics & Automation",
-     "zh": "What to Expect During a HELOC Application: 6 Stages"
-    },
-    {
-     "title": "Misumi Americas opens new manufacturing facility in Monterrey, Mexico",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/misumi-americas-opens-new-manufacturing-facility-in-monterrey-mexico/107531/",
-     "pubDate": "Mon, 23 Nov 2026 19:32:19 +0000",
-     "summary": "Misumi Americas has announced the grand opening of its new 45,000 square feet facility in Monterrey, Mexico. More than quadrupling the size of its previous location, the facility expands Misumi Americas’ footprint in the region and introduces additional capabilities for in-house manufacturing and fu",
-     "source": "Robotics & Automation",
-     "zh": "Misumi Americas opens new manufacturing facility in Monterrey, Mexico"
     },
     {
      "title": "Special Report: Engineering Focus on Motion Control",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
+     "link": "https://www.ithome.com/1/031/232.htm",
+     "pubDate": "Mon, 23 Nov 2026 22:37:21 GMT",
+     "summary": "IT之家 11 月 24 日消息，谷歌 DeepMind 团队携手谷歌 Quantum AI 团队于昨日（11 月 23 日）发布联合研究成果， 利用多组 Gemini 4 智能体协同工作，并结合形式化数学验证工具 Lean，成功优化了多项量子算法，降低部分量子计算任务的资源需求。 量子计算机有望在未来解决经典超级计算机无法企及的问题，但即便使用当前最优量子算法，部分重要应用所需的资源仍超出早期量子硬件的承载能力。 谷歌 DeepMind 与 Google Quantum AI 团队在最新研究论文中，借助 Gemini 4 智能体团队对经典量子算法进行优化，生成了效率极高的量子电路。 这些优化",
+     "source": "IT之家",
+     "zh": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈"
+    },
+    {
      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
      "pubDate": "Mon, 23 Nov 2026 21:58:34 +0000",
@@ -1776,14 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jess Menton / Bloomberg : Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% &nbsp; &mdash;&nbsp; US stocks rallied, recovering from last week's brutal technology-led selloff, as the stunning ret",
      "source": "Techmeme",
      "zh": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)"
-    },
-    {
-     "title": "B&H Photo Promo Codes and Deals This November 2026",
-     "link": "https://www.wired.com/story/bh-photo-coupon/",
-     "pubDate": "Mon, 23 Nov 2026 21:39:20 +0000",
-     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-     "source": "WIRED",
-     "zh": "B&H Photo Promo Codes and Deals This November 2026"
     },
     {
      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
@@ -1810,30 +1810,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)"
     },
     {
-     "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-     "link": "https://www.bored.com/",
-     "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 23 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
-    },
-    {
-     "title": "The horse made the state",
-     "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-     "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
-     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 34 # Comments: 30",
-     "source": "Hacker News",
-     "zh": "The horse made the state"
-    },
-    {
-     "title": "GPUI is getting its own repository",
-     "link": "https://github.com/zed-industries/gpui",
-     "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 11 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "GPUI is getting its own repository"
-    },
-    {
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
      "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
      "pubDate": "Mon, 23 Nov 2026 20:34:51 +0000",
@@ -1850,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Surveillance pricing uses our personal data to make us pay more"
     },
     {
-     "title": "Sources: the Commerce Department plans to add Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+     "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
      "link": "https://www.techmeme.com/261123/p40#a261123p40",
      "pubDate": "Mon, 23 Nov 2026 15:10:11 -0500",
-     "summary": "Ashley Gold / Semafor : Sources: the Commerce Department plans to add Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license &nbsp; &mdash;&nbsp; The Trump administration plans to add the company at the heart of the Nvidia scandal, Megaspeed,",
+     "summary": "Ashley Gold / Semafor : Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license &nbsp; &mdash;&nbsp; The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to ",
      "source": "Techmeme",
-     "zh": "Sources: the Commerce Department plans to add Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)"
+     "zh": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)"
     },
     {
      "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
@@ -1898,28 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
     },
     {
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "link": "https://arm.jonpalmisc.com/",
-     "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 647 # Comments: 125",
-     "source": "Hacker News",
-     "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
-    },
-    {
      "title": "Jensen Huang returned to Nvidia&apos;s headquarters to cheers from employees and said \"I&apos;m gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
      "link": "https://www.techmeme.com/261123/p37#a261123p37",
      "pubDate": "Mon, 23 Nov 2026 14:05:01 -0500",
      "summary": "Geoff Weiss / Business Insider : Jensen Huang returned to Nvidia's headquarters to cheers from employees and said &ldquo;I'm gonna be a better CEO the second time around&rdquo; &nbsp; &mdash;&nbsp; Jensen Huang returned to Nvidia's Santa Clara headquarters Monday to cheers from employees, less than ",
      "source": "Techmeme",
      "zh": "Jensen Huang returned to Nvidia&apos;s headquarters to cheers from employees and said \"I&apos;m gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)"
-    },
-    {
-     "title": "Apple removed my open-source app from EU App Stores after 9 years",
-     "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-     "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
-     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 393 # Comments: 79",
-     "source": "Hacker News",
-     "zh": "Apple removed my open-source app from EU App Stores after 9 years"
     },
     {
      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
@@ -1944,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
      "source": "WIRED",
      "zh": "Jensen Huang Is Back, and So Is Nvidia’s Stock"
-    },
-    {
-     "title": "How should an LLM see a computer?",
-     "link": "https://www.greptile.com/blog/trex-computer-use",
-     "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
-     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 35 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "How should an LLM see a computer?"
     },
     {
      "title": "黄仁勋回来了，但英伟达多了几道规矩",
@@ -2000,6 +1952,54 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 23 日消息，距离《暗黑破坏神 5》（Diablo 5）正式发售至少还有三年，但暴雪已经陆续公布了这款新作的一些令人期待的信息。在最近一届暴雪嘉年华（BlizzCon）上，《暗黑破坏神 5》作为重磅消息之一正式亮相。 在《暗黑破坏神 5》推出之前，《暗黑破坏神 4》仍将持续获得重要更新。不过，随着新作逐渐接近发售，暴雪最终很可能会将更多资源转向续作，逐步减少对旧作的投入。 考虑到未来几年硬件平台的更新节奏，《暗黑破坏神 5》很可能登陆新一代游戏平台，为玩家带来明显升级的《暗黑破坏神》体验。暴雪预计还会在 2029 年计划发售之前陆续公布更多消息，目前已经披露的信息就包括以下",
      "source": "IT之家",
      "zh": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开"
+    },
+    {
+     "title": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级",
+     "link": "https://www.ithome.com/1/031/229.htm",
+     "pubDate": "Mon, 23 Nov 2026 15:23:51 GMT",
+     "summary": "IT之家 11 月 23 日消息，据用户反馈，微信鸿蒙版 App 今晚开启了 8.0.24.19 大版本的邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/23-2026/12/23。 又一大版本的发布意味着微信鸿蒙版离功能补完又近一步。博主 @熠熠玩数码 此前透露，微信鸿蒙版 App 的适配已经接近尾声， 大量功能逐步灰度开放中 。有网友认为这个灰度速度比较慢，可能半年都灰度不到，博主回复称：“五分之四咯。” 值得一提的是，微信官方公众号“微信派”在今年 10 月发文，回顾了鸿蒙版 App 的“两年狂奔”。据介绍，鸿蒙版以两年内交付了 23 个大版本，272 个小版本",
+     "source": "IT之家",
+     "zh": "离功能补完更近一步：微信鸿蒙版 App 获 8.0.24.19 大版本邀测升级"
+    },
+    {
+     "title": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排",
+     "link": "https://www.ithome.com/1/031/228.htm",
+     "pubDate": "Mon, 23 Nov 2026 15:15:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，面对网友提问品牌未来规划是否会扩展至电脑、手环、智能家居，刘赫表示：“安排，我们是全场景的， 手机只是开始 。” 最新爆料显示， 华为子品牌星芒除了手机，还会有平板、笔记本、穿戴产品等 ，目前确认「星芒小平板」已安排。星芒品牌主打先锋科技，前期产品大部分是华为换皮，后期会有独立开发的",
+     "source": "IT之家",
+     "zh": "手机只是开始：华为星芒刘赫确认 OSTA 品牌将推全场景产品，消息称小平板已安排"
+    },
+    {
+     "title": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡",
+     "link": "https://www.ithome.com/1/031/219.htm",
+     "pubDate": "Mon, 23 Nov 2026 14:58:55 GMT",
+     "summary": "IT之家 11 月 23 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为官网最新显示， 星芒 OSTA O1 Pro 支持 eSIM 能力 。 该功能需开通运营商相关业务使用，同一个手机可以存储最多 2 个 eSIM 号码，目前仅部分运营商提供 eSIM 业务。 当前同一个 eSIM 手机上最多允许支持四个号码 （2 张实体卡号码 + 2 个 eSIM 号码）， 可以同时使用两个号码 （可支持“两张实体",
+     "source": "IT之家",
+     "zh": "华为星芒 OSTA O1 Pro 新机确认支持 eSIM 能力：最多四号，允许同时启用双卡"
+    },
+    {
+     "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+     "link": "https://www.solidot.org/story?sid=85970",
+     "pubDate": "Mon, 23 Nov 2026 22:50:17 +0800",
+     "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键",
+     "source": "Solidot",
+     "zh": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险"
+    },
+    {
+     "title": "英伟达重新任命黄仁勋为 CEO",
+     "link": "https://www.solidot.org/story?sid=85969",
+     "pubDate": "Mon, 23 Nov 2026 22:30:59 +0800",
+     "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
+     "source": "Solidot",
+     "zh": "英伟达重新任命黄仁勋为 CEO"
+    },
+    {
+     "title": "Jensen Huang Is Back as Nvidia CEO",
+     "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+     "pubDate": "Mon, 23 Nov 2026 14:27:35 +0000",
+     "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+     "source": "WIRED",
+     "zh": "Jensen Huang Is Back as Nvidia CEO"
     }
    ]
   },
@@ -2258,6 +2258,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+     "pubDate": "Mon, 23 Nov 2026 22:42:40 GMT",
+     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+     "source": "CNBC",
+     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
+    },
+    {
+     "title": "Agilent jumps on double quarterly beats, guidance",
+     "link": "https://seekingalpha.com/news/4675944-agilent-jumps-on-double-quarterly-beats-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:40:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agilent jumps on double quarterly beats, guidance"
+    },
+    {
+     "title": "Urban Outfitters Q3 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675654-urban-outfitters-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:35:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Urban Outfitters Q3 2027 Earnings Preview"
+    },
+    {
+     "title": "Workday Q3 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675704-workday-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:35:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Workday Q3 2027 Earnings Preview"
+    },
+    {
+     "title": "Qfin Holdings Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675655-qfin-holdings-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:35:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Qfin Holdings Q3 Earnings Preview"
+    },
+    {
+     "title": "Analog Devices Q4 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675702-analog-devices-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:35:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Analog Devices Q4 2026 Earnings Preview"
+    },
+    {
+     "title": "CleanSpark Q4 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4675742-cleanspark-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:35:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CleanSpark Q4 2026 Earnings Preview"
+    },
+    {
+     "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
+     "link": "https://wallstreetcn.com/articles/3786472",
+     "pubDate": "Tue, 24 Nov 2026 06:28:18 +0800",
+     "summary": "英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。 周一 标普500指数 上涨4.7%， 道琼斯工业平均指数 上涨3%。 英伟达 股价暴涨31%，创2003年以来最大单日涨幅。 纳斯达克100指数 单日飙升6.9%，单日市值增加逾2万亿美元。 此前一周，受黄仁勋辞职消息冲击，纳斯达克100指数一度濒临熊市边缘，标普500指数与道指双双确认进入回调区间。 特朗普当天在社交平台发文，希望董事会重新聘用黄仁勋，并在复职消息公布后称他没有做错任何事。英伟达董事会在公告中",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%"
+    },
+    {
      "title": "美联储“三把手”：通胀仍未达标，需逐步采取行动",
      "link": "https://wallstreetcn.com/articles/3786554",
      "pubDate": "Tue, 24 Nov 2026 06:28:18 +0800",
@@ -2274,52 +2338,20 @@ window.INDUSTRY_DATA = {
      "zh": "利比亚输油管道重启叠加中东供应回升，布油收跌3.5%至三个月低点"
     },
     {
-     "title": "Alphabet rises 6% as broad market rally lifts shares",
-     "link": "https://seekingalpha.com/news/4675930-alphabet-rises-6-percent-as-broad-market-rally-lifts-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:23:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alphabet rises 6% as broad market rally lifts shares"
+     "title": "AI芯片供应链收紧 国产超节点迎发展机遇窗口",
+     "link": "http://finance.eastmoney.com/news/1354,202611243937741211.html",
+     "pubDate": "Tue, 24 Nov 2026 06:21:51 +0800",
+     "summary": "近日，三星开始穿透严查代工的传闻流出。上海证券报记者向国内晶圆代工厂、芯片设计公司等多方求证获悉，该传闻并不准确，但传闻背后，是美国商务部工业和安全局（BIS）于11月16日出台新规带来的滥用出口管制。 多位业内人士表示，海外流片通道进一步收紧的态势下，国产AI供应链建设势在必行。在制程技术落后于海外先进厂商的情况下，超节点有望弥补单芯片算力短板，并将迎来发展的机遇窗口。 海外流片通道持续收紧 11月18日晚，三星开始穿透严查代工的传闻流出。 对此，记者向产业链多方人士求证获悉，当前三星尚无严查代工的相关规定出台，该市场传闻源于美国BIS的11月16日规定更新，新规对中国设计公司取消了豁免机制",
+     "source": "东方财富资讯",
+     "zh": "AI芯片供应链收紧 国产超节点迎发展机遇窗口"
     },
     {
-     "title": "Frontier Nuclear receives Nasdaq non-compliance notice over late annual filing",
-     "link": "https://seekingalpha.com/news/4675943-frontier-nuclear-receives-nasdaq-non-compliance-notice-over-late-annual-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:23:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Frontier Nuclear receives Nasdaq non-compliance notice over late annual filing"
-    },
-    {
-     "title": "HYLQ Strategy to rebrand as Tony G Corp., appoints new chairman",
-     "link": "https://seekingalpha.com/news/4675942-hylq-strategy-to-rebrand-as-tony-g-corp-appoints-new-chairman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:19:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HYLQ Strategy to rebrand as Tony G Corp., appoints new chairman"
-    },
-    {
-     "title": "AbbVie's Rinvoq gains approval for nonsegmental vitiligo",
-     "link": "https://seekingalpha.com/news/4675937-abbvies-rinvoq-gains-approval-for-nonsegmental-vitiligo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:17:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AbbVie's Rinvoq gains approval for nonsegmental vitiligo"
-    },
-    {
-     "title": "Linamar to acquire Terex's Genie business for $1.4B",
-     "link": "https://seekingalpha.com/news/4675941-linamar-to-acquire-terexs-genie-business-for-1_4b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:16:44 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Linamar to acquire Terex's Genie business for $1.4B"
-    },
-    {
-     "title": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $98.61M beats by $2.82M",
-     "link": "https://seekingalpha.com/news/4675940-tuya-non-gaap-epads-of-003-in-line-revenue-of-9861m-beats-by-282m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:14:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $98.61M beats by $2.82M"
+     "title": "全球市场：美股三大指数集体大涨 纳指涨超6% 英伟达暴涨逾30%",
+     "link": "http://stock.eastmoney.com/news/11784,202611243937757635.html",
+     "pubDate": "Tue, 24 Nov 2026 06:15:25 +0800",
+     "summary": "美股市场： 美股三大指数11月23日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1447.98点，收于49595.31点，涨幅为3.01%； 标准普尔 500种股票指数上涨326.78点，收于7237.17点，涨幅为4.73%； 纳斯达克 综合 指数上涨1471.83点，收于24089.56点，涨幅为6.51%。 标普500指数、纳指均创2025年4月8日以来最大单日涨幅。 黄仁勋复职带动AI相关股票普涨，费城 半导体 指数大涨14.03%，创2025年以来最大单日涨幅。个股方面， 英伟达 暴涨31.48%，单日市值增加创纪录的约9524亿美元； SK海力士 涨20.00%， 美",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数集体大涨 纳指涨超6% 英伟达暴涨逾30%"
     },
     {
      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
@@ -2328,6 +2360,22 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock is surging again. What to know before chasing the AI rally."
+    },
+    {
+     "title": "11月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202611243937739257.html",
+     "pubDate": "Tue, 24 Nov 2026 06:03:28 +0800",
+     "summary": "11月24日(星期二)，今日报刊头条主要内容精华如下： 上海证券报 首批18只主动ETF挂牌上市 创新产品为“长钱”入市再添新工具 11月23日，首批18只主动ETF正式在沪深交易所挂牌上市。中国证监会、中国结算、首批主动ETF管理人及相关市场机构的代表共同见证了首批产品鸣锣上市。首批主动ETF上市，是深化投资端改革、赋能公募基金高质量发展的重要举措，标志着我国ETF市场迈入主被动协同发展的新阶段。 政策托底稳预期 资金加码筑底气 机构热议稳市场“组合拳” 监管部门多措并举稳定市场，引发机构投资者热议。多家受访机构认为，近期大量资金借道股票型ETF入市，中国经济基本面韧性较强，随着稳市政策“组",
+     "source": "东方财富资讯",
+     "zh": "11月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "东方财富财经早餐 11月24日周二",
+     "link": "http://finance.eastmoney.com/news/1344,202611233937615737.html",
+     "pubDate": "Tue, 24 Nov 2026 06:00:22 +0800",
+     "summary": "每日精选 英伟达 恢复黄仁勋CEO职务 ： 英伟达 官网公告称，公司董事会已一致投票决定， 即日起恢复黄仁勋的总裁、首席执行官及董事职务 。 英伟达 表示，董事会经过与黄仁勋多轮讨论和会议，对其坦诚程度及领导公司能力表示认可，并认为恢复其职务符合股东、员工、合作伙伴及客户的最佳利益。公告称，董事会在决策过程中听取了美国政府高层意见，并据此认为黄仁勋复职不存在国家安全风险。 融资融券 调节 ： 23日，记者从业内获悉，监管部门向券商下发了《关于落实 融资融券 逆周期调节措施、提升风险管控有效性有关工作的通知》（下称《通知》）。《通知》称，在市场波动期间，在与客户充分沟通、取得确认的情况下， 可动",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月24日周二"
     },
     {
      "title": "Meta Platforms诉讼期间暂停发行C类普通股 扎克伯格同意豁免股息支付期限要求",
@@ -2426,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "HPE just posted its strongest growth ever — but its stock is wavering"
     },
     {
-     "title": "全球市场：美股三大指数集体大涨 纳指涨超6% 英伟达暴涨逾30%",
-     "link": "http://stock.eastmoney.com/news/11784,202611243937757635.html",
-     "pubDate": "Tue, 24 Nov 2026 05:15:25 +0800",
-     "summary": "美股市场： 美股三大指数11月23日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨1447.98点，收于49595.31点，涨幅为3.01%； 标准普尔 500种股票指数上涨326.78点，收于7237.17点，涨幅为4.73%； 纳斯达克 综合 指数上涨1471.83点，收于24089.56点，涨幅为6.51%。 标普500指数、纳指均创2025年4月8日以来最大单日涨幅。 黄仁勋复职带动AI相关股票普涨，费城 半导体 指数大涨14.03%，创2025年以来最大单日涨幅。个股方面， 英伟达 暴涨31.48%，单日市值增加创纪录的约9524亿美元； SK海力士 涨20.00%， 美",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体大涨 纳指涨超6% 英伟达暴涨逾30%"
-    },
-    {
      "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
      "link": "https://wallstreetcn.com/articles/3786547",
      "pubDate": "Tue, 24 Nov 2026 05:11:57 +0800",
      "summary": "Anthropic向企业客户交出数据控制权，以化解此前强制留存政策引发的争议。 11月23日，Anthropic正式推出\"企业前沿安全防护系统\"（Enterprise Frontier Safeguards，EFS）公开测试版，允许企业客户在使用其最强大AI模型时自主掌控数据存储。 该系统针对使用Mythos和Fable两款旗舰AI模型的企业客户，仍要求将提示词与响应内容保留30天，但允许客户将数据存储在自有云服务上，而非Anthropic的服务器。 客户将自持加密密钥，Anthropic软件仅对存储数据进行定期扫描以检测潜在攻击，且无法访问相关数据内容。这一举措与公司今年6月宣布的强制数据留",
      "source": "华尔街见闻",
      "zh": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线"
-    },
-    {
-     "title": "11月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202611243937739257.html",
-     "pubDate": "Tue, 24 Nov 2026 05:09:47 +0800",
-     "summary": "11月24日(星期二)，今日报刊头条主要内容精华如下： 上海证券报 首批18只主动ETF挂牌上市 创新产品为“长钱”入市再添新工具 11月23日，首批18只主动ETF正式在沪深交易所挂牌上市。中国证监会、中国结算、首批主动ETF管理人及相关市场机构的代表共同见证了首批产品鸣锣上市。首批主动ETF上市，是深化投资端改革、赋能公募基金高质量发展的重要举措，标志着我国ETF市场迈入主被动协同发展的新阶段。 政策托底稳预期 资金加码筑底气 机构热议稳市场“组合拳” 监管部门多措并举稳定市场，引发机构投资者热议。多家受访机构认为，近期大量资金借道股票型ETF入市，中国经济基本面韧性较强，随着稳市政策“组",
-     "source": "东方财富资讯",
-     "zh": "11月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 21:08:05 GMT",
-     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-     "source": "CNBC",
-     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%"
     },
     {
      "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
@@ -2472,30 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
      "source": "CNBC",
      "zh": "Fed&apos;s John Williams indicates higher interest rates likely &apos;over time&apos; to address inflation"
-    },
-    {
-     "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-     "pubDate": "Mon, 23 Nov 2026 21:00:59 GMT",
-     "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-     "source": "CNBC",
-     "zh": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China"
-    },
-    {
-     "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-     "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-     "pubDate": "Mon, 23 Nov 2026 20:57:41 GMT",
-     "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
-     "source": "CNBC",
-     "zh": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO"
-    },
-    {
-     "title": "黄仁勋戏剧性重掌英伟达，跻身美国企业界“回旋镖”CEO名单",
-     "link": "https://wallstreetcn.com/articles/3786550",
-     "pubDate": "Tue, 24 Nov 2026 04:52:00 +0800",
-     "summary": "英伟达首席执行官黄仁勋戏剧性地重掌帅印，在辞职数日震动人工智能界及整个金融市场后上演了惊天大逆转，这也让他跻身于寥寥无几的“回旋镖”CEO（指离职后重返原职的首席执行官）行列。 尽管美国企业界在危机时刻召回创始人及前任掌门人的历史由来已久——从苹果公司（AAPL.O）的史蒂夫·乔布斯到迪士尼（DIS.N）的鲍勃·艾格——但因个人不当行为引发全面监管审查后还能东山再起的情况却十分罕见。 在美国总统唐纳德·特朗普呼吁黄仁勋回归后，英伟达于周一宣布了这一非同寻常的反转决定。受此消息提振，英伟达股价一度暴涨35%，并带动华尔街股市全线上扬。 以下是部分在卸任后重夺最高职位的企业掌门人： OPENAI ",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋戏剧性重掌英伟达，跻身美国企业界“回旋镖”CEO名单"
     }
    ]
   },

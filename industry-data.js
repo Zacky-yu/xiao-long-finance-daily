@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 12:51:47",
+ "generated_at": "2026/11/23 13:11:53",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,54 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+     "link": "https://arxiv.org/abs/2611.26663",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26663v1 Announce Type: new Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized ",
+     "source": "arXiv cs.AI",
+     "zh": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams"
+    },
+    {
+     "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+     "link": "https://arxiv.org/abs/2611.26717",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26717v1 Announce Type: new Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative par",
+     "source": "arXiv cs.AI",
+     "zh": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation"
+    },
+    {
+     "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+     "link": "https://arxiv.org/abs/2611.26722",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct ca",
+     "source": "arXiv cs.AI",
+     "zh": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator"
+    },
+    {
+     "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
+     "link": "https://arxiv.org/abs/2611.26782",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26782v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: des",
+     "source": "arXiv cs.AI",
+     "zh": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization"
+    },
+    {
+     "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+     "link": "https://arxiv.org/abs/2611.26794",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26794v1 Announce Type: new Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal large lan",
+     "source": "arXiv cs.AI",
+     "zh": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF"
+    },
+    {
+     "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
+     "link": "https://arxiv.org/abs/2611.26797",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding. This thesis explores that puzzle through Associative Memory (AM), in which patt",
+     "source": "arXiv cs.AI",
+     "zh": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory"
+    },
     {
      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-     "link": "https://www.qbitai.com/2026/11/511841.html",
-     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
-    },
-    {
-     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
-     "link": "https://www.qbitai.com/2026/11/511830.html",
-     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
-    },
-    {
-     "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=3&sn=d08693456bc97db18084229852b76739",
-     "pubDate": "Sat, 21 Nov 2026 12:11:00 +0800",
-     "summary": "在新知识学习与原有能力保持之间实现更好的平衡",
-     "source": "机器之心",
-     "zh": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式"
-    },
-    {
-     "title": "TML开源新模型，循环Transformer架构，笔记本就能跑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=2&sn=b6e7e23d631dba7a952cbe5da8e77769",
-     "pubDate": "Sat, 21 Nov 2026 12:11:00 +0800",
-     "summary": "Inkling 2 Mini 是一个仅有 26B 参数的循环 Transformer，小到足以在你的笔记本电脑上运行，强大到足以胜任智能体任务，在 AA Index 上的得分为 20.1。",
-     "source": "机器之心",
-     "zh": "TML开源新模型，循环Transformer架构，笔记本就能跑"
-    },
-    {
-     "title": "没有AI，12年潜心研究！人类数学家紧急公开广义黎曼猜想证明",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=1&sn=03d16a0fc5490ccdb4b2d3151ef8b228",
-     "pubDate": "Sat, 21 Nov 2026 12:11:00 +0800",
-     "summary": "长达940页的「纯手搓」证明！",
-     "source": "机器之心",
-     "zh": "没有AI，12年潜心研究！人类数学家紧急公开广义黎曼猜想证明"
-    },
-    {
-     "title": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=3&sn=c6346c4c87f21d18f2256d029c9ae676",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight",
+     "link": "https://www.digitimes.com/news/a20261123VL204/ai-chip-exports-investigation-software-usa-china.html",
+     "pubDate": "Mon, 23 Nov 2026 04:42:19 GMT",
+     "summary": "As the US government continues to tighten controls on advanced AI chip exports amid growing concerns over Chinese technological gains, regulatory scrutiny is beginning to move further up the AI value chain toward the software layer where open-weight model development sits.",
+     "source": "DIGITIMES",
+     "zh": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight"
+    },
     {
      "title": "Apple enters silicon photonics race with optical packaging hires for custom chips",
      "link": "https://www.digitimes.com/news/a20261123PD222/apple-photonics-silicon-packaging-chips.html",
@@ -296,14 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ingentec is scaling up its through-glass via (TGV) roadmap to target applications in artificial intelligence, high-performance computing, and co-packaged optics (CPO). The company is actively driving two core pillars: glass core boards (GCB) and one-piece fiber array units (FAU).",
      "source": "DIGITIMES",
      "zh": "Ingentec targets 12 TGV lines by end of 2027 as FAU and GCB initiatives advance"
-    },
-    {
-     "title": "China's neoclouds see confidence shaken as financing dries up",
-     "link": "https://www.digitimes.com/news/a20261123PD217/financing-data-high-end-capacity-tencent.html",
-     "pubDate": "Mon, 23 Nov 2026 03:45:00 GMT",
-     "summary": "The United States has introduced sweeping new artificial intelligence chip export controls designed to prevent Chinese firms from tapping high-end computing power through data centers in Southeast Asia and beyond. This regulatory tightening has slammed the brakes on the once-booming neocloud sector,",
-     "source": "DIGITIMES",
-     "zh": "China's neoclouds see confidence shaken as financing dries up"
     },
     {
      "title": "Ed’s Vulture Fund For Distressed Datacentres",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Burden of proof",
+     "link": "https://www.pv-magazine.com/2026/11/23/burden-of-proof/",
+     "pubDate": "Mon, 23 Nov 2026 05:00:00 +0000",
+     "summary": "A ‘Made in USA’ label indicates where a product was manufactured but not who owns the factory, whose technology it licenses, or where the materials were sourced. For battery energy storage systems (BESS) claiming US federal tax credits in 2026 and beyond, those details, not the label, can determine ",
+     "source": "pv magazine",
+     "zh": "Burden of proof"
+    },
+    {
      "title": "LDV eDeliver 5 — A Chinese Bargain?",
      "link": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
      "pubDate": "Mon, 23 Nov 2026 04:20:14 +0000",
@@ -1000,14 +1008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow its demand for solar to be met by domestically made components. Finlay Colville ",
      "source": "pv magazine",
      "zh": "The U.S. solar manufacturing landscape in 2026"
-    },
-    {
-     "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
-     "link": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
-     "pubDate": "Sat, 21 Nov 2026 07:00:00 +0000",
-     "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092, while sodium-ion filings dropped 29%, signaling a shift in battery innovation toward ",
-     "source": "pv magazine",
-     "zh": "Battery patents: Solid-state filings surpass lithium-ion to hit record high"
     },
     {
      "title": "Why tribal rights have become key to the energy permitting debate",
@@ -1322,12 +1322,12 @@ window.INDUSTRY_DATA = {
      "zh": "China details its path to a crewed Moon landing before 2030"
     },
     {
-     "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+     "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
      "summary": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
      "source": "Space.com",
-     "zh": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure"
+     "zh": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure"
     },
     {
      "title": "65 Years of Human Spaceflight at NASA Johnson",
@@ -1778,6 +1778,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？",
+     "link": "https://www.baijing.cn/question/638912",
+     "pubDate": "Mon, 23 Nov 2026 05:06:34 +0000",
+     "summary": "刚入驻墨西哥站两个月，做的是手机配件，团队 5 个人，月广告预算大概 2 万比索。开了 Mercado Ads 的品牌推广和商品推广，投了 1.8 万比索，后台显示曝光有 40 多万但点击率不到 0.8%，成交 70 单左右，算下来 CPA 260 比索，客单价才 350 比索，基本没利润。试过调低出价、换主图、加西班牙语关键词，CPA 只降到 230 就卡住了。现在不确定是 listing 转化本身不行，还是墨西哥站广告竞价就是这么贵，想直接问：这个类目在墨西哥站合理的 CPA 区间到底是多少，低于多少才值得继续加预算？",
+     "source": "白鲸出海",
+     "zh": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？"
+    },
+    {
+     "title": "史上最大IPO 诞生，对奢侈品行业意味着什么？",
+     "link": "https://www.huxiu.com/article/4907658.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 13:01:39 +0800",
+     "summary": "本文来自微信公众号： Vogue Business ，作者：Amy O’Brien，编辑：YilingPan，原文标题：《史上最大 IPO 诞生，对奢侈品行业意味着什么？》 Claude背后的美国人工智能公司Anthropic，已于上周四正式登陆纽约纳斯达克交易所，股票代码为ANT。 这场备受关注的上市，不仅刷新了全球IPO（首次公开募股）的纪录，也成为AI热潮的一次重要考验。当开发人工智能越来越烧钱、科技巨头之间的竞争越来越激烈，华尔街还愿意为AI的未来投入多少真金白银？ Anthropic最终将发行价定在每股83美元，高于此前预计的70至78美元区间。此次IPO共募集813亿美元，公司估值",
+     "source": "虎嗅",
+     "zh": "史上最大IPO 诞生，对奢侈品行业意味着什么？"
+    },
+    {
+     "title": "AI抛售潮VS互联网泡沫，历史是否在重演？",
+     "link": "https://www.huxiu.com/article/4907657.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 12:55:06 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 历史或许不会完全重演，但最近几周席卷股市的人工智能抛售潮，至少在对部分美国科技股的冲击力度方面而言，与当年的互联网泡沫破裂已有惊人的相似。 而随着投资者持续担忧人工智能领域是否存在泡沫，一个值得探讨的问题是：泡沫曾经存在过吗？而它现在是否已经破灭？ 人们不妨可以将视线投向那些在互联网泡沫洗礼中幸存、且至今仍活跃在舞台中心的大型科技巨头。 而一组有意思的对比是，它们在2000年与2026年，从全年高点至年底(2026为迄今)的跌幅已几乎到了可以一较高下的程度： 英特尔：2000年从高点到年底跌幅60%，2026年从高点迄今跌幅64% 甲骨文：2000年",
+     "source": "虎嗅",
+     "zh": "AI抛售潮VS互联网泡沫，历史是否在重演？"
+    },
+    {
+     "title": "国家可以像“产品”一样运营吗？",
+     "link": "https://www.huxiu.com/article/4907656.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 12:54:58 +0800",
+     "summary": "本文来自微信公众号： 数旗智酷 ，作者：唐鹏 “产品思维”可以说是互联网叙事的“元叙事”，它提倡以产品视角来设计互联网服务——它必须能解决某个问题，必须具有用户忠诚度，可以不断地优化和升级，它还可以不断吸引新的用户加入。这也是互联网服务开发和存在的意义。相同的是，现代国家政府都会通过生产不同优势的公共产品来证明其能力与合法性，比如日本的“医疗”、英国的“教育”、美国的“自由”、新加坡的“公共服务”以及中国的“安全”。那么国家本身可不可以像“产品”一样运营呢？ 事实上，“将国家当成产品一样运营”，这并不是一句只属于硅谷“科技爱国主义者”的异想天开，也不是一种学院派研究者的书生意气。在互联网发展的",
+     "source": "虎嗅",
+     "zh": "国家可以像“产品”一样运营吗？"
+    },
+    {
      "title": "日本独立站日语客服外包，新规后个人信息处理还能直接转给外包团队吗？",
      "link": "https://www.baijing.cn/question/638911",
      "pubDate": "Mon, 23 Nov 2026 04:46:16 +0000",
@@ -1792,6 +1824,14 @@ window.INDUSTRY_DATA = {
      "summary": "Kim Woo-young / CHOSUNBIZ : South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &nbsp; &mdash;&nbsp; 조선비즈 구글 검색 먼저 보기",
      "source": "Techmeme",
      "zh": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)"
+    },
+    {
+     "title": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩",
+     "link": "https://www.ithome.com/1/030/808.htm",
+     "pubDate": "Mon, 23 Nov 2026 04:37:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，Square Enix《最终幻想 7：启示录》已获得美国娱乐软件分级委员会（ESRB）评级，被评为 T 级（Teen，青少年级），适合 13 岁及以上玩家游玩。 评级信息显示，游戏包含血腥、粗俗语言、轻微暗示性主题以及暴力内容，支持 Windows PC、PlayStation 5、Xbox Series X|S、Nintendo Switch 2。 《最终幻想 7：启示录》将于 2027 年 4 月 8 日发售，将成为《最终幻想 7》重制系列三部曲的最终篇。 《最终幻想 7：启示录》将打造一个规模前所未有的开放世界，玩家可以驾驶经典的“Highwind”飞艇",
+     "source": "IT之家",
+     "zh": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩"
     },
     {
      "title": "消息称华为星芒小平板已安排，还有笔记本、穿戴产品等",
@@ -1810,12 +1850,36 @@ window.INDUSTRY_DATA = {
      "zh": "柯达推出 Slide Tag 迷你数码相框盲盒：1.5 英寸彩色墨水屏，可当追踪器使用"
     },
     {
+     "title": "实验猴最高涨至30万/只，医药行业“猴荒”何解",
+     "link": "https://www.huxiu.com/article/4907653.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 12:24:34 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：颜齐 从公开采购中标价到猴场报价，食蟹猴单价在一年多时间里翻倍，市场参考报价已喊至每只25万至30万元，恒河猴亦升至15万元上下。中国医药行业正在经历一场“猴荒”。 近期，实验猴价格再度成为医药行业热议的话题。 从公开采购中标价到猴场报价，食蟹猴单价在一年多时间里翻倍，市场参考报价已喊至每只25万至30万元，恒河猴亦升至15万元上下。 中国医药行业正在经历一场“猴荒”。 短缺为何难以速解 很多人第一反应或许是：不就是养猴子，多繁育不就行了？实际远没有那么简单。 从需求端来看，实验猴涨价的直接推手，是创新药研发景气度的回升。国家发展改革委11月3日公布的",
+     "source": "虎嗅",
+     "zh": "实验猴最高涨至30万/只，医药行业“猴荒”何解"
+    },
+    {
+     "title": "AI都能自己干活了，谁还需要Dify和Coze？",
+     "link": "https://www.huxiu.com/article/4907651.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 12:23:39 +0800",
+     "summary": "本文来自微信公众号： 登顶可选 ，作者：登顶可选 最近，在X上看到一则自称Dify员工被裁员的帖子。 目前没有足够的公开信息确认Dify的裁员规模和原因。但这条消息让我想到另一家曾经很火的AI产品：字节跳动旗下的Coze（扣子）。 网络流传的Dify裁员X，仅作为文章讨论线索，不构成独立证据。 10月29日，扣子宣布企业版分阶段下线。现售企业标准版、企业旗舰版将于11月30日停止接受新客户购买，相关套餐最晚于2027年底退出。这并非整个扣子平台关停。 另一边，同样做自动化工作流的n8n，今年5月却获得SAP战略投资，估值达到52亿美元。 几年前，Coze、Dify几乎是AI应用开发领域绕不开的",
+     "source": "虎嗅",
+     "zh": "AI都能自己干活了，谁还需要Dify和Coze？"
+    },
+    {
      "title": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？",
      "link": "https://www.baijing.cn/question/638910",
      "pubDate": "Mon, 23 Nov 2026 04:21:04 +0000",
      "summary": "做哥伦比亚市场的小家电独立站，主发波哥大和麦德林，团队7人，月单量约4000单。末端用当地快递合作，最近两个月波哥大城区派送时效从平均3.2天拉长到5.8天，签收失败率涨到11%，退货里约六成是“等太久不想要了”。目前备货靠国内集运仓一次性发3个月库存到波哥大海外仓，压货成本高，滞销SKU占到两成。试过换一家末端服务商和加收地址确认短信，效果都不明显。卡在备货周期和末端时效对不上：备多了退货和仓储吃掉利润，备少了断货又拉高取消率。这种情况下备货节奏按什么标准定，退货损失该由选品结构还是末端方案来消化？",
      "source": "白鲸出海",
      "zh": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？"
+    },
+    {
+     "title": "“黄仁勋加盟英特尔”传闻里的炒作与AI再平衡",
+     "link": "https://www.huxiu.com/article/4907652.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 12:20:40 +0800",
+     "summary": "本文来自微信公众号： 夸克点评 ，作者：王如晨 瑞穗证券交易部门Jordan Klein客户报告引述一对冲基金投资组合经理推测，说黄仁勋可能加盟英特尔，主导AI芯片战略，包括开发一款新型GPU。还说陈立武本就不打算长待。 传闻来源实在单薄。英特尔未置评。Polymarket上，黄仁勋去英特尔的概率仅3%，自己再度创业的概率为27%。更像是英伟达权力过渡期里，华尔街顺手传出来的一个说法。 “加盟”一词深浅不一。跑去主导前台GPU开发，是个笑话。若担任顾问或进董事会任独董倒有可能，他与陈立武私人关系不错。 两家公司曾局部博弈多年，最近几年关联紧密多了。一重因素，英特尔一直想吃英伟达主力订单，惜始终",
+     "source": "虎嗅",
+     "zh": "“黄仁勋加盟英特尔”传闻里的炒作与AI再平衡"
     },
     {
      "title": "长城 H6L HEV 混动版官图发布：搭载 1.5T 混动系统，11 月 27 日广州车展上市",
@@ -1858,18 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "黑客 Voices38 声称已破解《影之刃零》游戏 D 加密，商业表现或受影响"
     },
     {
-     "title": "美国网络安全事件频发：特朗普撤换国家网络总监，此前 FBI 国家犯罪信息中心疑似遭黑客入侵",
-     "link": "https://www.ithome.com/1/030/801.htm",
-     "pubDate": "Mon, 23 Nov 2026 03:53:18 GMT",
-     "summary": "IT之家 11 月 23 日消息，据央视新闻今日报道，美国总统特朗普已撤换美国国家网络总监肖恩 · 凯恩克罗斯（Sean Cairncross），并提名美国国防部首席信息官柯尔丝滕 · 戴维斯（Kirsten A. Davies）接任。 此次人事调整发生在美国多个联邦政府机构接连曝出网络安全事件。IT之家此前报道，包括微软、苹果、AWS、联合航空等企业或机构发生系统故障，之前还有航空交通管理系统发生长时间通信中断，后续还有 Visa、摩根大通与万事达卡遭遇黑客攻击。 当地时间 11 月 20 日，美国白宫发布公告称，特朗普已任命戴维斯领导白宫国家网络总监办公室。戴维斯此前担任美国国防部首席信息",
-     "source": "IT之家",
-     "zh": "美国网络安全事件频发：特朗普撤换国家网络总监，此前 FBI 国家犯罪信息中心疑似遭黑客入侵"
-    },
-    {
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "link": "https://github.com/AFK-surf/xnulinux",
      "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
-     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 15 # Comments: 2",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 33 # Comments: 9",
      "source": "Hacker News",
      "zh": "XNU Linux: Full OS X GUI Userspace on Linux"
     },
@@ -1885,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The New Docker: Built to Run on Trust",
      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
      "pubDate": "Mon, 23 Nov 2026 03:34:29 +0000",
-     "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 11 # Comments: 11",
      "source": "Hacker News",
      "zh": "The New Docker: Built to Run on Trust"
     },
@@ -1946,14 +2002,6 @@ window.INDUSTRY_DATA = {
      "zh": "这届大学生，狂卷黑客松"
     },
     {
-     "title": "短剧App在德国投放，德语配音素材完播率只有英语素材一半，本地化该做到哪一层？",
-     "link": "https://www.baijing.cn/question/638906",
-     "pubDate": "Mon, 23 Nov 2026 02:43:15 +0000",
-     "summary": "我们做欧美短剧App，主攻德国市场，目前起量阶段，投放团队5人，月预算约8万美元，主要在Meta和TikTok跑量。同一批剧集，英语字幕+英语配音素材在奥地利和瑞士德语区的完播率能到28%，但换成德语配音+德语字幕投德国，完播率掉到13%，CPI从1.9欧涨到3.4欧。已经试过换本地演员口播开头、把字幕字体改成德语习惯的无衬线体、前3秒加德语冲突台词，效果都不明显。卡在判断不了是配音腔调不自然、还是剧情本身不接地气，导致素材一上线就划走。想直接问：德语市场短剧素材的本地化，究竟该优先解决配音质感还是剧本改编，判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "短剧App在德国投放，德语配音素材完播率只有英语素材一半，本地化该做到哪一层？"
-    },
-    {
      "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
      "link": "https://www.techmeme.com/261122/p17#a261122p17",
      "pubDate": "Sun, 22 Nov 2026 21:35:00 -0500",
@@ -1965,57 +2013,9 @@ window.INDUSTRY_DATA = {
      "title": "Advanced Character Physics (2001) [pdf]",
      "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
      "pubDate": "Mon, 23 Nov 2026 02:17:27 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf Comments URL: https://news.ycombinator.com/item?id=50606704 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf Comments URL: https://news.ycombinator.com/item?id=50606704 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Advanced Character Physics (2001) [pdf]"
-    },
-    {
-     "title": "“假洋牌”Swisse，卖爆了",
-     "link": "https://www.tmtpost.com/8214108.html",
-     "pubDate": "Mon, 23 Nov 2026 09:59:53 +0800",
-     "summary": "最会玩的“时代安慰剂”。",
-     "source": "钛媒体",
-     "zh": "“假洋牌”Swisse，卖爆了"
-    },
-    {
-     "title": "Treemap of the Riemann Hypothesis Lean Proof",
-     "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-     "pubDate": "Mon, 23 Nov 2026 01:50:23 +0000",
-     "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 7 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Treemap of the Riemann Hypothesis Lean Proof"
-    },
-    {
-     "title": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
-     "link": "https://www.techmeme.com/261122/p16#a261122p16",
-     "pubDate": "Sun, 22 Nov 2026 20:45:00 -0500",
-     "summary": "Jessica Wachtel / The New Stack : GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &nbsp; &mdash;&nbsp; When I compared Anthropic's Fable 5.2 vs. OpenAI's GPT-6 Astra last week, Fable 5.2 ",
-     "source": "Techmeme",
-     "zh": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)"
-    },
-    {
-     "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-     "link": "https://spelunkr.tv",
-     "pubDate": "Mon, 23 Nov 2026 01:13:51 +0000",
-     "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 246 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "Free alternative TV network built from the Internet Archive's forgotten videos"
-    },
-    {
-     "title": "What we learned operating auth for 1k APIs",
-     "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
-     "pubDate": "Mon, 23 Nov 2026 01:01:11 +0000",
-     "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 20 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "What we learned operating auth for 1k APIs"
-    },
-    {
-     "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&apos; Senate confirmation (Axios)",
-     "link": "https://www.techmeme.com/261122/p15#a261122p15",
-     "pubDate": "Sun, 22 Nov 2026 19:55:00 -0500",
-     "summary": "Axios : Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation &nbsp; &mdash;&nbsp; Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten D",
-     "source": "Techmeme",
-     "zh": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&apos; Senate confirmation (Axios)"
     }
    ]
   },
@@ -2274,6 +2274,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "The number of 401(k) millionaires drops amid stock-market swings",
+     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 05:01:00 GMT",
+     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+     "source": "MarketWatch",
+     "zh": "The number of 401(k) millionaires drops amid stock-market swings"
+    },
+    {
+     "title": "Monday's Economic Calendar",
+     "link": "https://seekingalpha.com/news/4675388-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Monday's Economic Calendar"
+    },
+    {
+     "title": "Asian markets extend losses after Wall Street selloff; U.S. futures rebound",
+     "link": "https://seekingalpha.com/news/4675422-asian-markets-extend-losses-after-wall-street-selloff-us-futures-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 23:52:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian markets extend losses after Wall Street selloff; U.S. futures rebound"
+    },
+    {
+     "title": "Trump calls for Nvidia to rehire Jensen Huang amid China probe",
+     "link": "https://seekingalpha.com/news/4675425-trump-calls-for-nvidia-to-rehire-jensen-huang-amid-china-probe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 23:52:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump calls for Nvidia to rehire Jensen Huang amid China probe"
+    },
+    {
      "title": "Waymo pauses San Francisco service from Monday amid storm warning",
      "link": "https://seekingalpha.com/news/4675423-waymo-pauses-san-francisco-service-from-monday-amid-storm-warning?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 23:42:42 -0500",
@@ -2394,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达直线拉升！特朗普重磅表态：希望英伟达董事会重新聘用黄仁勋"
     },
     {
-     "title": "实验猴最高涨至30万/只，医药行业“猴荒”何解",
-     "link": "http://www.eeo.com.cn/2026/1123/1100326.shtml",
-     "pubDate": "Mon, 23 Nov 2026 12:01:46 +0800",
-     "summary": "从公开采购中标价到猴场报价，食蟹猴单价在一年多时间里翻倍，市场参考报价已喊至每只25万至30万元，恒河猴亦升至15万元上下。",
-     "source": "经济观察网",
-     "zh": "实验猴最高涨至30万/只，医药行业“猴荒”何解"
-    },
-    {
      "title": "Yemen&apos;s Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
      "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
      "pubDate": "Mon, 23 Nov 2026 03:52:17 GMT",
@@ -2416,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Australia's Composite PMI falls to lowest level in over five years"
-    },
-    {
-     "title": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off",
-     "link": "https://seekingalpha.com/news/4675418-south-koreas-kospi-drops-5-as-ai-fears-trigger-broader-stock-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 22:45:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off"
     },
     {
      "title": "2027见闻历，财经人的桌面必备“神历”",
@@ -2496,22 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普再度公开表态，力挺英伟达创始人黄仁勋重返CEO一职，使这场围绕全球最大AI芯片商领导权的争议持续升温。 特朗普周一在其Truth Social平台发文称：\" 我希望英伟达董事会重新聘用黄仁勋。重新聘用黄仁勋对英伟达和美国来说都是最好的选择。\" 这是特朗普在短短数日内第三度就此事公开表态，显示出白宫对英伟达领导层问题的持续关注。与此同时，美国财政部长贝森特的立场也出现明显松动，从此前呼吁寻找\"外部接班人\"，转向暗示不排除黄仁勋回归的可能性。 上述表态引发市场关注。此前英伟达董事会目前明确不考虑恢复黄仁勋的CEO职务，调查工作仍是当前优先事项。预测平台Polymarket的最新数据显",
      "source": "华尔街见闻",
      "zh": "特朗普“再次施压”：我希望英伟达董事会重新聘用黄仁勋"
-    },
-    {
-     "title": "学不动的孩子 ｜12 孩子究竟适合什么样的“学习”",
-     "link": "http://www.eeo.com.cn/2026/1123/1100311.shtml",
-     "pubDate": "Mon, 23 Nov 2026 11:15:13 +0800",
-     "summary": "一个孩子学不动，很少只是他一个人的事，也很少只是一个家庭的事。它更像是这几十年里，社会大环境、学校节奏、家庭期待，和孩子自身的特质，一层一层叠加出来的结果。",
-     "source": "经济观察网",
-     "zh": "学不动的孩子 ｜12 孩子究竟适合什么样的“学习”"
-    },
-    {
-     "title": "两部门：实施数据领域高技能人才集群培养计划",
-     "link": "http://www.eeo.com.cn/2026/1123/1100310.shtml",
-     "pubDate": "Mon, 23 Nov 2026 11:13:46 +0800",
-     "summary": "11月23日，国家数据局、教育部宣布成立全国数据职业教育教学指导委员会，实施数据领域高技能人才集群培养计划等系列行动计划。",
-     "source": "经济观察网",
-     "zh": "两部门：实施数据领域高技能人才集群培养计划"
     }
    ]
   },
@@ -2521,6 +2521,30 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Impossible volcanic eruption spotted in deepest part of the ocean, perplexing scientists",
+     "link": "https://www.livescience.com/planet-earth/impossible-volcanic-eruption-spotted-in-deepest-part-of-the-ocean-perplexing-scientists",
+     "pubDate": "Mon, 23 Nov 2026 05:00:00 +0000",
+     "summary": "Scientists are perplexed at discovering the world's deepest explosive volcanic eruption at Challenger Deep in the Mariana Trench.",
+     "source": "Live Science",
+     "zh": "Impossible volcanic eruption spotted in deepest part of the ocean, perplexing scientists"
+    },
+    {
+     "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+     "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+     "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
+     "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+     "source": "MIT News",
+     "zh": "AI-driven technique could help engineers design analog chips faster and with less expense"
+    },
+    {
+     "title": "Motion under the ocean explains the depth of the world’s deepest spot",
+     "link": "https://www.sciencenews.org/article/ocean-deepest-spot-explained-challenger",
+     "pubDate": "Mon, 23 Nov 2026 05:00:00 +0000",
+     "summary": "The deepest known remnants of explosive volcanism offer a new clue to how Challenger Deep became the ocean's deepest point.",
+     "source": "Science News",
+     "zh": "Motion under the ocean explains the depth of the world’s deepest spot"
+    },
     {
      "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
      "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
@@ -2602,14 +2626,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI uncovers hidden bladder cancer warning signs years before diagnosis"
     },
     {
-     "title": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals",
-     "link": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals",
-     "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
-     "summary": "At a cliff site in Texas, archaeologists discovered hundreds of bison bones, stone tools and arrowheads, suggesting Indigenous people used \"bison jumps\" to hunt.",
-     "source": "Live Science",
-     "zh": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals"
-    },
-    {
      "title": "AI may not work like the human brain after all, scientists discover",
      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
      "pubDate": "Sat, 21 Nov 2026 10:24:58 EST",
@@ -2664,14 +2680,6 @@ window.INDUSTRY_DATA = {
      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
      "source": "MIT News",
      "zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
-    },
-    {
-     "title": "This year’s El Niño is unlike any other on record",
-     "link": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
-     "pubDate": "Fri, 20 Nov 2026 21:00:00 +0000",
-     "summary": "Pacific Ocean waters reached historic high temperatures in 2026, dramatically shaping hurricane seasons and global trends in precipitation.",
-     "source": "Science News",
-     "zh": "This year’s El Niño is unlike any other on record"
     },
     {
      "title": "Watching as a giant star swallowed its neighbor and exploded",
@@ -2752,14 +2760,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
      "source": "MIT News",
      "zh": "Scientists create the first whole-body single-cell atlas of an adult vertebrate"
-    },
-    {
-     "title": "If tiny “primordial” black holes exist, here’s how we might find them",
-     "link": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
-     "pubDate": "Thu, 19 Nov 2026 10:00:00 -0500",
-     "summary": "When engulfed by a star, the small but massive object should devour the star from within, leading to a detectable explosion, a new study proposes.",
-     "source": "MIT News",
-     "zh": "If tiny “primordial” black holes exist, here’s how we might find them"
     }
    ]
   }

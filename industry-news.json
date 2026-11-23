@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 06:56:48",
+ "generated_at": "2026/11/24 07:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -121,6 +121,14 @@
      "zh": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文"
     },
     {
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+     "pubDate": "Mon, 23 Nov 2026 14:11:17 GMT",
+     "summary": "Could the scientific method be emergent?",
+     "source": "Import AI",
+     "zh": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark"
+    },
+    {
      "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
      "link": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
@@ -239,14 +247,6 @@
      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
      "source": "OpenAI",
      "zh": "Richpanel helps companies automate 50% of support in 30 days"
-    },
-    {
-     "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
-     "link": "https://www.qbitai.com/2026/11/512017.html",
-     "pubDate": "Mon, 23 Nov 2026 07:42:01 +0000",
-     "summary": "阿福大升级：让模型像医生一样思考",
-     "source": "量子位",
-     "zh": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了"
     }
    ]
   },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Quantum Computing Could Accelerate the Energy Transition",
+     "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Could-Accelerate-the-Energy-Transition.html",
+     "pubDate": "Mon, 23 Nov 2026 17:00:00 -0600",
+     "summary": "Quantum computing promises to revolutionize many industries with advanced materials discovery, industrial engineering, and optimization of large energy networks. Moreover, Quantum computing could begin solving real-world energy problems such as grid optimization and new chemistry and materials disco",
+     "source": "OilPrice",
+     "zh": "Quantum Computing Could Accelerate the Energy Transition"
+    },
+    {
      "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html",
      "pubDate": "Mon, 23 Nov 2026 16:00:00 -0600",
@@ -919,14 +927,6 @@
      "summary": "Adani Cement to deploy 410 EV trucks by March 2027 as the 1st Phase plan for cement & clinker movement. Deployment commenced at Sanghi Plant in Gujarat. 410-truck fleet is projected to reduce over 25,000 tonnes of CO₂ annually. Targeting 10% logistics road volume through EV trucks by 2030, with ... ",
      "source": "CleanTechnica",
      "zh": "Adani Cement to Deploy 410 Electric Trucks, Cement & Clinker"
-    },
-    {
-     "title": "Pakistan and Iran Move to Boost Energy Cooperation",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
-     "pubDate": "Mon, 23 Nov 2026 12:30:00 -0600",
-     "summary": "Pakistan and Iran are nearing the creation of a joint working group to boost energy cooperation, with a focus on electricity supply and electricity transmission projects, Pakistani outlet Business Recorder reported on Monday, quoting sources with knowledge of the matter. The two allies are doing pre",
-     "source": "OilPrice",
-     "zh": "Pakistan and Iran Move to Boost Energy Cooperation"
     },
     {
      "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
@@ -1329,14 +1329,6 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 set to launch to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 set to launch to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 set to launch to ISS from Baikonur"
-    },
-    {
      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
      "link": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
      "pubDate": "Mon, 23 Nov 2026 21:21:13 +0000",
@@ -1449,28 +1441,12 @@
      "zh": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251"
     },
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
-    },
-    {
      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
      "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
-    },
-    {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1505,14 +1481,6 @@
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1535,6 +1503,38 @@
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
      "zh": "HEO Unveils Insights Next SDA Tool"
+    },
+    {
+     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
+     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
+     "source": "SpaceNews",
+     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
+     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
+     "source": "SpaceNews",
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
+    },
+    {
+     "title": "Origami and solar arrays",
+     "link": "https://spacenews.com/origami-and-solar-arrays/",
+     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
+     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Origami and solar arrays"
+    },
+    {
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1761,12 +1761,60 @@
    "total": 18,
    "items": [
     {
+     "title": "Figma employee sues, alleging company forced her to confront harassers",
+     "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+     "pubDate": "Mon, 23 Nov 2026 23:07:49 +0000",
+     "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+     "source": "TechCrunch",
+     "zh": "Figma employee sues, alleging company forced her to confront harassers"
+    },
+    {
+     "title": "HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours (Dina Bass/Bloomberg)",
+     "link": "https://www.techmeme.com/261123/p44#a261123p44",
+     "pubDate": "Mon, 23 Nov 2026 18:05:01 -0500",
+     "summary": "Dina Bass / Bloomberg : HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours &nbsp; &mdash;&nbsp; Hewlett Packard Enterprise Co. gave a revenue forecast for the current quarter that fell short ",
+     "source": "Techmeme",
+     "zh": "HPE reports Q4 revenue up 50% YoY to $14.5B, vs. $14.3B est., forecasts Q1 revenue above the average estimates but below the highest; HPE drops 6%+ after hours (Dina Bass/Bloomberg)"
+    },
+    {
+     "title": "网约车一口价，正在让司机越跑越亏？",
+     "link": "https://www.huxiu.com/article/4906244.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 07:00:00 +0800",
+     "summary": "网约车司机如今陷入两难：不开一口价、特惠单，接不到单；开了却几乎赚不到钱。 真正的问题不是一口价和特惠单，而是无序内卷和失衡的利益分配。整改目标是跳出怪圈，恢复三方共赢，让司机、乘客、平台都能喘口气。",
+     "source": "虎嗅",
+     "zh": "网约车一口价，正在让司机越跑越亏？"
+    },
+    {
+     "title": "三星 Galaxy Z Fold9 Ultra 等 3 款折叠手机影像规格曝光，预估主摄沿用前代方案",
+     "link": "https://www.ithome.com/1/031/244.htm",
+     "pubDate": "Mon, 23 Nov 2026 22:55:06 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 sammyguru 于 11 月 21 日发布博文，报道称基于供应链与贸易数据库中的早期记录， 三星 Galaxy Z Flip9、Galaxy Z Fold9、Galaxy Z Fold9 Ultra 三款折叠手机的影像规模浮出水面。 根据贸易数据库记录的信息，三星 Galaxy Z Flip9（内部代号为 B9）主摄将延续前代规格，依然为 5,000 万像素广角镜头，三星可能主要通过算法、影像处理与传感器调校带来小幅升级。IT之家附上相关截图如下： 该媒体认为在智能手机生产成本持续上升的背景下，三星可能有意控制折叠屏机型的硬件成本，把资源投入在折",
+     "source": "IT之家",
+     "zh": "三星 Galaxy Z Fold9 Ultra 等 3 款折叠手机影像规格曝光，预估主摄沿用前代方案"
+    },
+    {
+     "title": "NASA 寻求商业航天合作伙伴，力争 2030 年前建成首个月球核反应堆",
+     "link": "https://www.ithome.com/1/031/243.htm",
+     "pubDate": "Mon, 23 Nov 2026 22:50:53 GMT",
+     "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，美国国家航空航天局（NASA）宣布在向商业航天企业征集合作方案，计划开发用于月球表面的核发电系统 Lunar Reactor-1（LR-1），目标是在 2030 年前完成系统研制并达到可发射状态。 根据 NASA 官方公告，LR-1 采用小型核裂变堆设计，预计可提供 20 千瓦电力，能够为未来月球基地的居住设施、通信系统、月球车和科学仪器等设备供电，目标是在部署到月球后至少运行 5 年。 与太阳能发电不同，核反应堆不依赖阳光，可以持续提供电力。月球夜晚持续时间约为 14 个地球日，在此期间，太阳能设备难以持续发电，而核能系统可以为",
+     "source": "IT之家",
+     "zh": "NASA 寻求商业航天合作伙伴，力争 2030 年前建成首个月球核反应堆"
+    },
+    {
      "title": "Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates (Brody Ford/Bloomberg)",
      "link": "https://www.techmeme.com/261123/p43#a261123p43",
      "pubDate": "Mon, 23 Nov 2026 17:50:01 -0500",
      "summary": "Brody Ford / Bloomberg : Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates &nbsp; &mdash;&nbsp; Zoom Communications Inc. gave a revenue forecast for the current quarter that at the midpoint fell just shor",
      "source": "Techmeme",
      "zh": "Zoom reports Q3 revenue up 4.9% YoY to $1.29B, above $1.28B est., enterprise revenue up 8.6% to $805.4M, and forecasts Q4 revenue below estimates (Brody Ford/Bloomberg)"
+    },
+    {
+     "title": "The Beauty of Artists' Studios",
+     "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
+     "pubDate": "Mon, 23 Nov 2026 22:48:33 +0000",
+     "summary": "https://archive.ph/qcUxG Comments URL: https://news.ycombinator.com/item?id=50620530 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Beauty of Artists' Studios"
     },
     {
      "title": "4999 元：华硕 ROG XG32UQDS 电竞显示器开启预约，32 英寸 4K 180Hz QD-OLED 面板",
@@ -1793,6 +1841,14 @@
      "zh": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈"
     },
     {
+     "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+     "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+     "pubDate": "Mon, 23 Nov 2026 22:32:29 +0000",
+     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 16 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Stalwart is now a drop-in replacement for Microsoft Exchange"
+    },
+    {
      "title": "Steam 社区市场重大更新：全新主页上线，新增物品关注与价格管理功能",
      "link": "https://www.ithome.com/1/031/241.htm",
      "pubDate": "Mon, 23 Nov 2026 22:30:25 GMT",
@@ -1801,18 +1857,18 @@
      "zh": "Steam 社区市场重大更新：全新主页上线，新增物品关注与价格管理功能"
     },
     {
-     "title": "VP != VNP over Every Field [pdf]",
-     "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
-     "pubDate": "Mon, 23 Nov 2026 22:23:04 +0000",
-     "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50620252 Points: 18 # Comments: 2",
+     "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+     "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
+     "pubDate": "Mon, 23 Nov 2026 22:22:56 +0000",
+     "summary": "Article URL: https://twitter.com/__alpoge__/status/2124987173439209561 Comments URL: https://news.ycombinator.com/item?id=50620250 Points: 13 # Comments: 2",
      "source": "Hacker News",
-     "zh": "VP != VNP over Every Field [pdf]"
+     "zh": "Levent Alpöge comments on his Riemann Hypothesis proof"
     },
     {
      "title": "VP ≠ VNP over Every Field",
      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
      "pubDate": "Mon, 23 Nov 2026 22:09:10 +0000",
-     "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 47 # Comments: 17",
+     "summary": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 87 # Comments: 52",
      "source": "Hacker News",
      "zh": "VP ≠ VNP over Every Field"
     },
@@ -1860,7 +1916,7 @@
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "link": "https://www.bored.com/",
      "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 40 # Comments: 11",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 44 # Comments: 13",
      "source": "Hacker News",
      "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
     },
@@ -1868,17 +1924,9 @@
      "title": "The horse made the state",
      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
      "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
-     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 42 # Comments: 37",
+     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 42 # Comments: 40",
      "source": "Hacker News",
      "zh": "The horse made the state"
-    },
-    {
-     "title": "GPUI is getting its own repository",
-     "link": "https://github.com/zed-industries/gpui",
-     "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 27 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "GPUI is getting its own repository"
     },
     {
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
@@ -1921,22 +1969,6 @@
      "zh": "Amazon fights Delivery Protection Act by putting stickers on its packages"
     },
     {
-     "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-     "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-     "pubDate": "Mon, 23 Nov 2026 19:31:41 +0000",
-     "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
-     "source": "TechCrunch",
-     "zh": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia"
-    },
-    {
-     "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-     "link": "https://www.techmeme.com/261123/p38#a261123p38",
-     "pubDate": "Mon, 23 Nov 2026 14:30:02 -0500",
-     "summary": "Reuters : Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models &nbsp; &mdash;&nbsp; US President Donald Trump and Vice President JD Vance personally intervened in Nvidia's (NVDA.O) decision to reinstate CEO Jensen Huang over the weekend, convinc",
-     "source": "Techmeme",
-     "zh": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)"
-    },
-    {
      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
      "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
      "pubDate": "Mon, 23 Nov 2026 19:28:30 +0000",
@@ -1945,28 +1977,12 @@
      "zh": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"
     },
     {
-     "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-     "link": "https://arm.jonpalmisc.com/",
-     "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 685 # Comments: 137",
-     "source": "Hacker News",
-     "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
-    },
-    {
      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
      "link": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
      "pubDate": "Mon, 23 Nov 2026 18:46:51 +0000",
      "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
      "source": "WIRED",
      "zh": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead"
-    },
-    {
-     "title": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止",
-     "link": "https://www.ithome.com/1/031/235.htm",
-     "pubDate": "Mon, 23 Nov 2026 18:20:30 GMT",
-     "summary": "IT之家 11 月 24 日消息，Valve 正式开启 2026 年 Steam 大奖（Steam Awards）提名通道。本届大奖恰逢活动诞生十周年，官方在常规评选基础上增设了多项特别奖项，提名阶段将持续至太平洋时间 11 月 30 日上午 10 点（北京时间 12 月 1 日凌晨 2 点）。 IT之家附 Steam 官方提名页面链接（ https://store.steampowered.com/steamawards/nominations/2026 ）。 为庆祝十周年，Valve 从往届经典奖项中回顾并带回了三项具有玩家情怀的评选类别： 「再玩五分钟」（Just 5 More Minu",
-     "source": "IT之家",
-     "zh": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止"
     },
     {
      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
@@ -1983,22 +1999,6 @@
      "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《黄仁勋回来了，但英伟达多了几道规矩｜甲子光年》 英伟达需要黄仁勋，但同时也在管理这种依赖。 一纸公告，老黄回来了。 因为萨姆·奥尔特曼重返OpenAI珠玉在前，所以黄仁勋回归英伟达并非无迹可寻，况且特朗普、马斯克等人一直在向英伟达董事会喊话。 最近，就连网络流言都开始变得有板有眼，一位X用户发布一则消息，声称黄仁勋将于感恩节回归，英伟达厨房（食堂）正在为黄仁勋准备大蛋糕。 关于黄仁勋回归的网络流言，图片来源：一只大乌龟X账号 不过这位“英伟达厨房亲戚”现在可能要加急“制作蛋糕”了。美国当地时间11月23日，英伟达宣布，黄仁勋恢复担任总裁",
      "source": "虎嗅",
      "zh": "黄仁勋回来了，但英伟达多了几道规矩"
-    },
-    {
-     "title": "中国买家退出泰国楼市，俄罗斯人开始接盘了",
-     "link": "https://www.huxiu.com/article/4907860.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:19:54 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月16日，泰国房地产信息中心（REIC）发布三季度数据。中国买家的公寓过户金额同比下降36.1%，俄罗斯买家增长49.6%，升至外国买家第二位。 01俄罗斯人接走了多少中国购买力？ 2019年，泰国汇商银行经济情报中心的统计显示，中国买家贡献了泰国外国公寓过户金额的58%。到2024年，这一比例降至39%，2025年进一步降至31%。 到了2026年第三季度，中国买家的公寓过户金额为29.2亿泰铢，同比减少约16.5亿泰铢，市场份额降至20.6%。同期，俄罗斯买家的过户金额增加约5.9亿泰铢，达到17.83亿泰铢。 从金额来看",
-     "source": "虎嗅",
-     "zh": "中国买家退出泰国楼市，俄罗斯人开始接盘了"
-    },
-    {
-     "title": "17家车企迎公开大考，60天账期，为什么国家非管不可？",
-     "link": "https://www.huxiu.com/article/4907859.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:15:08 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展，原文标题：《17家车企迎公开大考！60天账期，为什么国家非管不可？》 2025年6月，比亚迪、一汽、上汽等17家重点车企陆续承诺，向供应商支付货款的账期不超过60天。 一年多后，这项承诺迎来了一次检验。 11月16日，中国汽车工业协会发布通知：受工信部委托，将对这17家车企向供应商支付货款的情况进行年度评估，结果向社会公开。 此前，工信部和市场监管总局已经明确：对应付账款规模大、故意拉长账期或被中小企业投诉较多的汽车企业，相关部门将联合约谈并督促整改。 车企什么时候给供应商付款，本来是双方做生意的事。为什么政府主管部门要委托行业协会每年评估，结",
-     "source": "虎嗅",
-     "zh": "17家车企迎公开大考，60天账期，为什么国家非管不可？"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Hands-on: Baseus’ new PicoGo Pro USB-C charger is clever, cute, and on sale",
+     "link": "https://9to5google.com/2026/11/23/baseus-picogo-pro-usb-c-hands-on/",
+     "pubDate": "Mon, 23 Nov 2026 23:05:00 +0000",
+     "summary": "USB-C chargers are pretty standardized at this point, but there’s a fun new trend of adding displays to your power brick that I’ve been very much enjoying, and the new PicoGo Pro from Baseus is a great example with three ports, optimized charging, and a cute little character to top it off – and for ",
+     "source": "9to5Google",
+     "zh": "Hands-on: Baseus’ new PicoGo Pro USB-C charger is clever, cute, and on sale"
+    },
+    {
+     "title": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range",
+     "link": "https://www.gsmarena.com/samsung_details_the_tech_behind_the_galaxy_smarttag3s_longer_finding_range-news-75596.php",
+     "pubDate": "Mon, 23 Nov 2026 23:59:02 +0100",
+     "summary": "Samsung announced the Galaxy SmartTag3 back in late September, and the tracker went on sale in the US earlier this month. Today, the company has published a deep dive into the technology behind its finding features, and it has also revealed a small but useful new trick. The main upgrade is Compass V",
+     "source": "GSMArena",
+     "zh": "Samsung details the tech behind the Galaxy SmartTag3's longer finding range"
+    },
     {
      "title": "Google Search AI Mode adds Wallet Personal Intelligence, with Drive and Gemini coming soon",
      "link": "https://www.androidauthority.com/personal-intelligence-ai-mode-3738563/",
@@ -2153,14 +2169,6 @@
      "zh": "Apple Watch SE 3 vs Series 12: Which should you buy this holiday season?"
     },
     {
-     "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-     "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
-     "pubDate": "Mon, 23 Nov 2026 20:25:00 +0000",
-     "summary": "Set to launch on December 8, Nothing has confirmed its mysterious AI product will be called “Ear (note),” and it’s an AI recorder with earbuds inside. more…",
-     "source": "9to5Google",
-     "zh": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside"
-    },
-    {
      "title": "Google Chrome is working on 3 new filters to narrow down your browsing history",
      "link": "https://www.androidauthority.com/google-chrome-history-filters-3738511/",
      "pubDate": "Mon, 23 Nov 2026 20:17:10 +0000",
@@ -2239,14 +2247,6 @@
      "summary": "RedMagic has been sponsoring esports in China for a while now, and it's finally taking that to the global stage. Today, the company announced that it's the Official Gaming Phone Sponsor of the 2026 PUBG Mobile Global Championship (PMGC), which is organized by Krafton and Level Infinite. This year's ",
      "source": "GSMArena",
      "zh": "RedMagic is the official gaming phone sponsor of the 2026 PUBG Mobile Global Championship"
-    },
-    {
-     "title": "Honor Magic9 Lite+ tipped to pack a 9,530mAh battery in Europe, more specs surface",
-     "link": "https://www.gsmarena.com/honor_magic9_lite_tipped_to_pack_a_9530mah_battery_in_europe_more_specs_surface-news-75595.php",
-     "pubDate": "Mon, 23 Nov 2026 17:01:02 +0100",
-     "summary": "The Honor Magic9 Lite+ surfaced on the Google Play Console in October, hinting at a global launch. Now, a new leak reveals its design and key specs, with the phone expected to be a rebranded Honor X9e Pro with slightly different specs. According to the leak, the Honor Magic9 Lite+ that’s headed to E",
-     "source": "GSMArena",
-     "zh": "Honor Magic9 Lite+ tipped to pack a 9,530mAh battery in Europe, more specs surface"
     }
    ]
   },
@@ -2256,6 +2256,62 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "BridgeBio gains approval of Welgemda for limb-girdle muscular dystrophy",
+     "link": "https://seekingalpha.com/news/4675948-bridgebio-gains-approval-welgemda-limb-girdle-muscular-dystrophy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 18:05:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BridgeBio gains approval of Welgemda for limb-girdle muscular dystrophy"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月24日",
+     "link": "https://wallstreetcn.com/articles/3786555",
+     "pubDate": "Tue, 24 Nov 2026 07:03:10 +0800",
+     "summary": "华见早安之声 要闻精选 中国 监管部门要求券商在市场波动期间灵活调整最低维持担保比例与追保平仓安排，避免早盘尾市集中卖出冲击个股。 海外 黄仁勋重掌英伟达帅印，股价暴涨31%，市值单日增长近万亿。黄仁勋称\"第二次担任CEO会做得更好\"，重返英伟达总部，数百名员工夹道欢迎。特朗普火速力挺黄仁勋复职、自称“一手促成”，万斯被曝也介入幕后协调。 马斯克警告：明年数据中心可能“资金短缺”，“情况会变得非常糟糕”。 Anthropic向企业交出AI数据控制权，Claude Ship同步上线，承诺约9000亿美元算力开支，债市预期其债券为垃圾级。CEO惊人暴论：人类被AI抢饭碗后，可以用沉浸式游戏安抚。 ",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月24日"
+    },
+    {
+     "title": "Local Bounti anticipates Revol Greens deal closes in days, expands footprint roughly 70% and targets ~30% higher production per square foot",
+     "link": "https://seekingalpha.com/news/4675950-local-bounti-anticipates-revol-greens-deal-closes-in-days-expands-footprint-roughly-70?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 18:02:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Local Bounti anticipates Revol Greens deal closes in days, expands footprint roughly 70% and targets ~30% higher production per square foot"
+    },
+    {
+     "title": "Flexible Solutions International GAAP EPS of -$0.02 beats by $0.02, revenue of $14.28M misses by $1.53M",
+     "link": "https://seekingalpha.com/news/4675949-flexible-solutions-international-gaap-eps-of-0_02-beats-by-0_02-revenue-of-14_28m-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 18:01:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Flexible Solutions International GAAP EPS of -$0.02 beats by $0.02, revenue of $14.28M misses by $1.53M"
+    },
+    {
+     "title": "Here are the major earnings before the open Tuesday",
+     "link": "https://seekingalpha.com/news/4675535-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 18:00:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周二开盘前的主要财报"
+    },
+    {
+     "title": "美联储监管副主席鲍曼遭罕见调查，被指违反“静默期”规定，鲍曼否认",
+     "link": "https://wallstreetcn.com/articles/3786556",
+     "pubDate": "Tue, 24 Nov 2026 06:58:37 +0800",
+     "summary": "美联储内部监察机构正就理事Michelle Bowman（米歇尔·鲍曼）今年6月出席一场美国银行私人晚宴一事展开调查，核心问题是她是否违反了央行的\"静默期\"通讯限制规定。这是对一位在任美联储理事的罕见审查行动。 据彭博援引一位知情人士透露， 该晚宴于6月17日在纽约举行，时间恰在美联储政策会议结束数小时后，彼时官员们仍处于禁止就经济或货币政策向公众发表评论的静默期内。 美联储监察长办公室近期已寻求约谈Bowman。对此，Bowman否认存在任何违规行为，并在声明中表示，她始终遵守所有适用规定，并坚定承诺将继续如此。 此次调查结果可能对Bowman产生直接影响。前美联储官员和法律专家认为，若调查",
+     "source": "华尔街见闻",
+     "zh": "美联储监管副主席鲍曼遭罕见调查，被指违反“静默期”规定，鲍曼否认"
+    },
+    {
+     "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+     "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 22:46:14 GMT",
+     "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+     "source": "Financial Times",
+     "zh": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang"
+    },
     {
      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
@@ -2281,36 +2337,12 @@
      "zh": "Urban Outfitters Q3 2027 Earnings Preview"
     },
     {
-     "title": "Workday Q3 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4675704-workday-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:35:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Workday Q3 2027 Earnings Preview"
-    },
-    {
-     "title": "Qfin Holdings Q3 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4675655-qfin-holdings-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:35:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Qfin Holdings Q3 Earnings Preview"
-    },
-    {
-     "title": "Analog Devices Q4 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4675702-analog-devices-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:35:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Analog Devices Q4 2026 Earnings Preview"
-    },
-    {
-     "title": "CleanSpark Q4 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4675742-cleanspark-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:35:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CleanSpark Q4 2026 Earnings Preview"
+     "title": "美联储“三把手”：通胀仍未达标，需逐步采取行动，不排除连续加息的可能",
+     "link": "https://wallstreetcn.com/articles/3786554",
+     "pubDate": "Tue, 24 Nov 2026 06:28:18 +0800",
+     "summary": "美联储仍面临通胀压力，政策收紧路径尚未走完。 纽约联储主席John Williams周一表示， 美联储在实现2%通胀目标的道路上\"仍有工作要做\"，强调官员必须“随时间推移采取行动”，不排除FOMC在必要时连续加息的可能， 未来（多次）会议都不排除任何选项。 其还指出， 数据将决定利率行动的时机和步伐，市场走势可能会在短期内逆转，金融条件的持续变化可能会影响需求，对增长前景仍然非常乐观。 与此同时，市场已基本消化12月加息预期，并预计明年1月将跟进一次加息。 在通胀前景上，Williams指出， 自上次议息会议以来的数据显示经济保持强劲，通胀持续偏高。他预计整体通胀今年将达3.5%，此后逐步回落",
+     "source": "华尔街见闻",
+     "zh": "美联储“三把手”：通胀仍未达标，需逐步采取行动，不排除连续加息的可能"
     },
     {
      "title": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%",
@@ -2319,14 +2351,6 @@
      "summary": "英伟达董事会恢复黄仁勋CEO职务，点燃市场对人工智能赛道的重燃信心，推动美股周一录得自2025年4月以来最大单日涨幅。油价因对伊朗的外交表态重挫，10年期美债收益率回落，美元指数走高。 周一 标普500指数 上涨4.7%， 道琼斯工业平均指数 上涨3%。 英伟达 股价暴涨31%，创2003年以来最大单日涨幅。 纳斯达克100指数 单日飙升6.9%，单日市值增加逾2万亿美元。 此前一周，受黄仁勋辞职消息冲击，纳斯达克100指数一度濒临熊市边缘，标普500指数与道指双双确认进入回调区间。 特朗普当天在社交平台发文，希望董事会重新聘用黄仁勋，并在复职消息公布后称他没有做错任何事。英伟达董事会在公告中",
      "source": "华尔街见闻",
      "zh": "黄仁勋回归引爆美股空头回补，英伟达暴涨31%，芯片指数飙涨14%，黄金反弹近3%"
-    },
-    {
-     "title": "美联储“三把手”：通胀仍未达标，需逐步采取行动",
-     "link": "https://wallstreetcn.com/articles/3786554",
-     "pubDate": "Tue, 24 Nov 2026 06:28:18 +0800",
-     "summary": "美联储仍面临通胀压力，政策收紧路径尚未走完。 纽约联储主席John Williams周一表示， 美联储在实现2%通胀目标的道路上\"仍有工作要做\"，并强调官员必须“随时间推移采取行动”以确保通胀在合理时间内得到持续控制。 与此同时，市场已基本消化12月加息预期，并预计明年1月将跟进一次加息。 在通胀前景上，Williams指出， 自上次议息会议以来的数据显示经济保持强劲，通胀持续偏高。他预计整体通胀今年将达3.5%，此后逐步回落，并于2028年才能回归2%目标。 本周三，10月个人消费支出（PCE）价格指数将公布，这是美联储更为倚重的通胀参考指标，届时将为12月决策提供更多依据。 12月加息在即",
-     "source": "华尔街见闻",
-     "zh": "美联储“三把手”：通胀仍未达标，需逐步采取行动"
     },
     {
      "title": "利比亚输油管道重启叠加中东供应回升，布油收跌3.5%至三个月低点",
@@ -2471,30 +2495,6 @@
      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
      "source": "MarketWatch",
      "zh": "HPE just posted its strongest growth ever — but its stock is wavering"
-    },
-    {
-     "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
-     "link": "https://wallstreetcn.com/articles/3786547",
-     "pubDate": "Tue, 24 Nov 2026 05:11:57 +0800",
-     "summary": "Anthropic向企业客户交出数据控制权，以化解此前强制留存政策引发的争议。 11月23日，Anthropic正式推出\"企业前沿安全防护系统\"（Enterprise Frontier Safeguards，EFS）公开测试版，允许企业客户在使用其最强大AI模型时自主掌控数据存储。 该系统针对使用Mythos和Fable两款旗舰AI模型的企业客户，仍要求将提示词与响应内容保留30天，但允许客户将数据存储在自有云服务上，而非Anthropic的服务器。 客户将自持加密密钥，Anthropic软件仅对存储数据进行定期扫描以检测潜在攻击，且无法访问相关数据内容。这一举措与公司今年6月宣布的强制数据留",
-     "source": "华尔街见闻",
-     "zh": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线"
-    },
-    {
-     "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-     "pubDate": "Mon, 23 Nov 2026 21:08:05 GMT",
-     "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-     "source": "CNBC",
-     "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%"
-    },
-    {
-     "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
-     "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 21:05:44 GMT",
-     "summary": "Interim chief and senior management were unaware of the discussions over the weekend",
-     "source": "Financial Times",
-     "zh": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated"
     }
    ]
   },

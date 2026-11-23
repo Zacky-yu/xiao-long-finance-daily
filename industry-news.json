@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 02:12:12",
+ "generated_at": "2026/11/24 02:32:10",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+     "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+     "pubDate": "Mon, 23 Nov 2026 18:12:22 +0000",
+     "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+     "source": "TechCrunch AI",
+     "zh": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+    },
     {
      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
@@ -95,14 +103,6 @@
      "summary": "智东西 编译 | 云鹏 编辑 | 心缘 智东西11月23日消息，刚刚， 英伟达官宣，恢复黄仁勋总裁、首席执行官及董事职务。 ▲英伟达官方声明 黄仁勋说道： “我很荣幸能够重返英伟达， 在一场新工业革命的开端，领导这家全球最具影响力的科技公司之一…… 我迫不及待地想要重返工作岗位。” 官方新闻中提到，董事会与黄仁勋会谈， 对其坦诚态度及领导英伟达的能力表示满意，一致投票决定恢复其职务。 此前任命的临时CEO科莱特·克雷斯（Colette Kress）继续担任CFO，曾明确表示董事会不考虑邀请黄仁勋回归的哈维·C·琼斯（Harvey C. Jones），继续担任董事会主席。 美国总统 特朗普 随即",
      "source": "智东西",
      "zh": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文"
-    },
-    {
-     "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-     "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-     "pubDate": "Mon, 23 Nov 2026 14:21:59 +0000",
-     "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-     "source": "TechCrunch AI",
-     "zh": "Nvidia reverses course and brings Jensen Huang back as CEO"
     },
     {
      "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+     "link": "https://www.eetimes.com/nvidia-board-reinstates-jensen-huang-as-ceo/",
+     "pubDate": "Mon, 23 Nov 2026 18:17:02 +0000",
+     "summary": "Nvidia goes back to business as usual following Huang's resignation and reinstatement after a week. The post Nvidia Board Reinstates Jensen Huang as CEO appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Nvidia Board Reinstates Jensen Huang as CEO"
+    },
     {
      "title": "2000 Zero Zero, Party Over — Oops, Out of Time",
      "link": "https://semiwiki.com/artificial-intelligence/376608-2000-zero-zero-party-over-oops-out-of-time/",
@@ -471,14 +479,6 @@
      "summary": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models. The post Palo Alto Networks Expands into Enterprise AI with $4.5B Deal appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
-    },
-    {
-     "title": "Anthropic’s IPO and the B2D Strategy",
-     "link": "https://www.eetimes.com/anthropic-ipo-and-the-b2d-strategy/",
-     "pubDate": "Fri, 20 Nov 2026 09:43:53 +0000",
-     "summary": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be. The post Anthropic’s IPO and the B2D Strategy appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Anthropic’s IPO and the B2D Strategy"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
+     "link": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
+     "pubDate": "Mon, 23 Nov 2026 13:00:00 -0500",
+     "summary": "CEO Eisaku Ito expressed confidence in utilities' long-term expansion plans, arguing that growing demand for electricity does not rely solely on data centers. Even if&nbsp;some projected demand doesn&rsquo;t materialize, the effect would be &ldquo;limited,&rdquo; he said.",
+     "source": "Utility Dive",
+     "zh": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO"
+    },
+    {
      "title": "The Energy Transition Needs More Metals but Less Extraction",
      "link": "https://oilprice.com/Energy/Energy-General/The-Energy-Transition-Needs-More-Metals-but-Less-Extraction.html",
      "pubDate": "Mon, 23 Nov 2026 12:00:00 -0600",
@@ -1079,14 +1087,6 @@
      "summary": "Japanese contractor Takenaka has run a hydrogen system that stores surplus summer solar power for winter use in an apartment block in central Japan for a full year and says it worked as planned, though it has published no performance data. The post Hydrogen shifts summer solar to winter in Japanese ",
      "source": "pv magazine",
      "zh": "Hydrogen shifts summer solar to winter in Japanese apartment building"
-    },
-    {
-     "title": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
-     "link": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
-     "pubDate": "Mon, 23 Nov 2026 09:07:38 +0000",
-     "summary": "BESS account for 5.3GW of the 8.4GW of new projects added to Australia's NEM since December 2025, according to AEMO.",
-     "source": "Energy Storage News",
-     "zh": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+     "pubDate": "Mon, 23 Nov 2026 18:10:48 +0000",
+     "summary": "On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket"
+    },
+    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1391,14 +1399,6 @@
      "summary": "This budget-priced projector reminded me what light pollution has taken from us",
      "source": "Space.com",
      "zh": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing"
-    },
-    {
-     "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-     "link": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
-     "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
-     "summary": "Three stars, 28 light-years, and one big cosmic mystery.",
-     "source": "Space.com",
-     "zh": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’"
     },
     {
      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "AWS CEO Matt Garman says AI safety can&apos;t rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+     "link": "https://www.techmeme.com/261123/p35#a261123p35",
+     "pubDate": "Mon, 23 Nov 2026 13:25:01 -0500",
+     "summary": "Matt Garman / About Amazon : AWS CEO Matt Garman says AI safety can't rely on an &ldquo;emergency brake&rdquo; and that the same engineering discipline behind decades of secure systems applies to AI &nbsp; &mdash;&nbsp; Most of the practical tools to build trustworthy AI systems already exist, and t",
+     "source": "Techmeme",
+     "zh": "AWS CEO Matt Garman says AI safety can&apos;t rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)"
+    },
+    {
+     "title": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)",
+     "link": "https://www.techmeme.com/261123/p34#a261123p34",
+     "pubDate": "Mon, 23 Nov 2026 13:10:01 -0500",
+     "summary": "Michael Kan / PCMag : Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC &nbsp; &mdash;&nbsp; The CyberLeek hacking gang claims to have released a key executable program that promises to help t",
+     "source": "Techmeme",
+     "zh": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)"
+    },
+    {
      "title": "Sources: Nvidia board&apos;s decision to reinstate Jensen Huang was done without consulting Nvidia&apos;s senior leadership, who were only informed at the last minute (Bloomberg)",
      "link": "https://www.techmeme.com/261123/p33#a261123p33",
      "pubDate": "Mon, 23 Nov 2026 13:01:16 -0500",
@@ -1769,12 +1785,12 @@
      "zh": "Sources: Nvidia board&apos;s decision to reinstate Jensen Huang was done without consulting Nvidia&apos;s senior leadership, who were only informed at the last minute (Bloomberg)"
     },
     {
-     "title": "Jensen Huang Is Back and So Is Nvidia’s Stock",
+     "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
      "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
      "pubDate": "Mon, 23 Nov 2026 17:52:56 +0000",
      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
      "source": "WIRED",
-     "zh": "Jensen Huang Is Back and So Is Nvidia’s Stock"
+     "zh": "Jensen Huang Is Back, and So Is Nvidia’s Stock"
     },
     {
      "title": "Senate Banking Committee Chairman Tim Scott says Jensen Huang will testify publicly on December 3, focusing on oversight of US export controls (Emily Birnbaum/Bloomberg)",
@@ -1801,12 +1817,12 @@
      "zh": "Filing: the US DOJ is seeking forfeiture of $1B+ in cryptocurrency stolen from Binance by hackers linked to North Korea (Chris Strohm/Bloomberg)"
     },
     {
-     "title": "Kagi Mail is here (Public Beta)",
+     "title": "Kagi Mail (public beta)",
      "link": "https://blog.kagi.com/kagi-mail-public-beta",
      "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 55 # Comments: 22",
+     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 85 # Comments: 49",
      "source": "Hacker News",
-     "zh": "Kagi Mail is here (Public Beta)"
+     "zh": "Kagi Mail (public beta)"
     },
     {
      "title": "Meta throws out its net-zero goal. Its competitors should be furious",
@@ -1815,14 +1831,6 @@
      "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
      "source": "TechCrunch",
      "zh": "Meta throws out its net-zero goal. Its competitors should be furious"
-    },
-    {
-     "title": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang&apos;s reinstatement, assuring Nvidia&apos;s board Huang posed no national security risk (New York Times)",
-     "link": "https://www.techmeme.com/261123/p29#a261123p29",
-     "pubDate": "Mon, 23 Nov 2026 12:10:01 -0500",
-     "summary": "New York Times : Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang's reinstatement, assuring Nvidia's board Huang posed no national security risk &nbsp; &mdash;&nbsp; President Trump decided he wanted to do whatever he could to help Mr. Huang get his old job back, two peop",
-     "source": "Techmeme",
-     "zh": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang&apos;s reinstatement, assuring Nvidia&apos;s board Huang posed no national security risk (New York Times)"
     },
     {
      "title": "EasyPost (YC S13) Is Hiring",
@@ -1839,14 +1847,6 @@
      "summary": "本文来自微信公众号： 甲子光年 ，作者：王博，原文标题：《黄仁勋回来了，但英伟达多了几道规矩｜甲子光年》 英伟达需要黄仁勋，但同时也在管理这种依赖。 一纸公告，老黄回来了。 因为萨姆·奥尔特曼重返OpenAI珠玉在前，所以黄仁勋回归英伟达并非无迹可寻，况且特朗普、马斯克等人一直在向英伟达董事会喊话。 最近，就连网络流言都开始变得有板有眼，一位X用户发布一则消息，声称黄仁勋将于感恩节回归，英伟达厨房（食堂）正在为黄仁勋准备大蛋糕。 关于黄仁勋回归的网络流言，图片来源：一只大乌龟X账号 不过这位“英伟达厨房亲戚”现在可能要加急“制作蛋糕”了。美国当地时间11月23日，英伟达宣布，黄仁勋恢复担任总裁",
      "source": "虎嗅",
      "zh": "黄仁勋回来了，但英伟达多了几道规矩"
-    },
-    {
-     "title": "Nvidia&apos;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)",
-     "link": "https://www.techmeme.com/261123/p28#a261123p28",
-     "pubDate": "Mon, 23 Nov 2026 11:40:03 -0500",
-     "summary": "Anhata Rooprai / Reuters : Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee &nbsp; &mdash;&nbsp; Nvidia said on Monday it was reinstating Jensen Huang as CEO, effective immediately, an extraor",
-     "source": "Techmeme",
-     "zh": "Nvidia&apos;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)"
     },
     {
      "title": "CrowdStrike to acquire Zscaler for $44 billion",
@@ -1873,12 +1873,12 @@
      "zh": "17家车企迎公开大考，60天账期，为什么国家非管不可？"
     },
     {
-     "title": "Ladybird Is Now in Alpha",
+     "title": "Ladybird is now in alpha",
      "link": "https://ladybird.org/posts/alpha/",
      "pubDate": "Mon, 23 Nov 2026 16:13:12 +0000",
-     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 526 # Comments: 139",
+     "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 578 # Comments: 150",
      "source": "Hacker News",
-     "zh": "Ladybird Is Now in Alpha"
+     "zh": "Ladybird is now in alpha"
     },
     {
      "title": "一种很常见，但副作用巨大的学生思维",
@@ -1921,18 +1921,10 @@
      "zh": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开"
     },
     {
-     "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-     "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-     "pubDate": "Mon, 23 Nov 2026 15:29:49 +0000",
-     "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-     "source": "TechCrunch",
-     "zh": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’"
-    },
-    {
      "title": "One man's quest to end daylight savings",
      "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
      "pubDate": "Mon, 23 Nov 2026 15:28:41 +0000",
-     "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings Comments URL: https://news.ycombinator.com/item?id=50613465 Points: 37 # Comments: 54",
+     "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings Comments URL: https://news.ycombinator.com/item?id=50613465 Points: 39 # Comments: 61",
      "source": "Hacker News",
      "zh": "One man's quest to end daylight savings"
     },
@@ -1980,7 +1972,7 @@
      "title": "Cyberleek posted the GTA 6 Xbox build executable",
      "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
      "pubDate": "Mon, 23 Nov 2026 14:49:44 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 94 # Comments: 58",
+     "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 107 # Comments: 72",
      "source": "Hacker News",
      "zh": "Cyberleek posted the GTA 6 Xbox build executable"
     },
@@ -1999,6 +1991,14 @@
      "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。英伟达表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 IT之家注意到，美国总统唐纳德 · 特朗普随后发文向黄仁勋表示祝贺，称英伟达董事会作出了正确的决定，将黄仁勋重新任命为 CEO。 美国需要黄仁勋的领导才能确保公司以及整个美国经济的繁荣与成功 。 IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的",
      "source": "IT之家",
      "zh": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功"
+    },
+    {
+     "title": "英伟达重新任命黄仁勋为 CEO",
+     "link": "https://www.solidot.org/story?sid=85969",
+     "pubDate": "Mon, 23 Nov 2026 22:30:59 +0800",
+     "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。",
+     "source": "Solidot",
+     "zh": "英伟达重新任命黄仁勋为 CEO"
     }
    ]
   },
@@ -2008,6 +2008,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display",
+     "link": "https://www.dpreview.com/news/kodaks-new-slidetag-is-a-keychain-tracker-with-a-built-in-e-ink-photo-display/",
+     "pubDate": "Mon, 23 Nov 2026 18:27:19 +0000",
+     "summary": "Reto's Kodak-branded tracker helps you find your keys while showing off your favorite photo in a retro slide-style frame.",
+     "source": "DPReview",
+     "zh": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display"
+    },
+    {
+     "title": "Google Meet unlocks 1080p video streaming for all accounts on web",
+     "link": "https://9to5google.com/2026/11/23/google-meet-web-makes-1080p-streaming-free/",
+     "pubDate": "Mon, 23 Nov 2026 18:19:09 +0000",
+     "summary": "Streaming in 1080p will be the default in Google Meet, regardless of whether you pay for Google Workspace. That includes personal Google Accounts. more…",
+     "source": "9to5Google",
+     "zh": "Google Meet unlocks 1080p video streaming for all accounts on web"
+    },
+    {
+     "title": "How to clear the cache on your Fire TV",
+     "link": "https://www.engadget.com/2320174/how-to-clear-cache-fire-tv/",
+     "pubDate": "Mon, 23 Nov 2026 18:15:00 +0000",
+     "summary": "Cache keeps software running smoothly, but can lead to problems if it gets too big and your device runs out of storage - which is quite easy with Fire TV.",
+     "source": "Engadget",
+     "zh": "How to clear the cache on your Fire TV"
+    },
+    {
+     "title": "Gemini could soon let you archive old chats instead of deleting them",
+     "link": "https://www.androidauthority.com/google-gemini-chat-archiving-feature-3738433/",
+     "pubDate": "Mon, 23 Nov 2026 18:09:20 +0000",
+     "summary": "Making cluttered histories a thing of the past.",
+     "source": "Android Authority",
+     "zh": "Gemini could soon let you archive old chats instead of deleting them"
+    },
     {
      "title": "Threads app for iPad launching ‘very soon’",
      "link": "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/",
@@ -2089,14 +2121,6 @@
      "zh": "Gemini for Home is winning praise from new users as opinions begin to shift"
     },
     {
-     "title": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame",
-     "link": "https://www.androidauthority.com/kodak-slidetag-launch-3738400/",
-     "pubDate": "Mon, 23 Nov 2026 17:25:20 +0000",
-     "summary": "Kodak’s SlideTag blends retro charm with Bluetooth item tracking.",
-     "source": "Android Authority",
-     "zh": "Kodak’s SlideTag is a Find Hub tracker that doubles as a tiny E-Ink photo frame"
-    },
-    {
      "title": "GrapheneOS shows off how it plans RCS support without Google Messages",
      "link": "https://9to5google.com/2026/11/23/grapheneos-rcs-support-coming/",
      "pubDate": "Mon, 23 Nov 2026 17:25:00 +0000",
@@ -2169,28 +2193,12 @@
      "zh": "Lenovo’s $900 Legion Tab is discounted to a price you might actually pay for Black Friday"
     },
     {
-     "title": "The latest on Apple Wallet ID support in long-promised three states",
+     "title": "The latest on Apple Wallet ID support in three long-promised states",
      "link": "https://9to5mac.com/2026/11/23/apple-wallet-id-support-coming-soon-to-connecticut/",
      "pubDate": "Mon, 23 Nov 2026 16:32:10 +0000",
      "summary": "Support for storing your driver’s license in Apple Wallet has gradually been expanding across the United States. Today, we have a status update on when the feature will go live in Connecticut, which Apple has touted as a planned partner since September 2021 . 9to5Mac is sponsored by Sony : Score Son",
      "source": "9to5Mac",
-     "zh": "The latest on Apple Wallet ID support in long-promised three states"
-    },
-    {
-     "title": "I love YouTube on TV, but we desperately need better watchlist controls",
-     "link": "https://9to5google.com/2026/11/23/i-love-youtube-on-tv-but-we-desperately-need-better-watchlist-controls/",
-     "pubDate": "Mon, 23 Nov 2026 16:30:00 +0000",
-     "summary": "Managing a YouTube watchlist shouldn’t be as frustrating as it is, especially on the most-used app in my life. Google’s premier streaming app has too many issues with resurfacing content; in my opinion, this is now a major problem that needs to be fixed. more…",
-     "source": "9to5Google",
-     "zh": "I love YouTube on TV, but we desperately need better watchlist controls"
-    },
-    {
-     "title": "What the green flashing light on your Roku remote is telling you",
-     "link": "https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you/",
-     "pubDate": "Mon, 23 Nov 2026 16:15:00 +0000",
-     "summary": "Find out what your Roku remote's green light means, when it's harmless and when it signals a problem, plus what to do if your remote isn't working as it should.",
-     "source": "Engadget",
-     "zh": "What the green flashing light on your Roku remote is telling you"
+     "zh": "The latest on Apple Wallet ID support in three long-promised states"
     },
     {
      "title": "Black Friday deals: AirPods Pro 3 $100 off, Series 12 $100 off, MacBook Air $310 off, Apple Pencil (USB-C) $49, more",
@@ -2239,14 +2247,6 @@
      "summary": "Xiaomi took the Xiaomi 18 Pro and 18 Pro Max global last week, but the rumor mill has already moved on to the Xiaomi 19 series. Today, Digital Chat Station on Weibo is claiming that the phones coming in 2027 should get a \"true\" ultrawide camera. According to him, the 50MP OmniVision OV51C sensor wil",
      "source": "GSMArena",
      "zh": "Xiaomi 19 series rumored to get a much wider ultrawide camera"
-    },
-    {
-     "title": "Shoot while the sun shines: samples from the Nikon Z5IIC",
-     "link": "https://www.dpreview.com/samples/nikon-z5iic-production-samples/",
-     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "It’s no secret that it can be hard to find good photographic opportunities around this time of year in the Pacific Northwest. Days are typically gray, with the sun rarely peaking out from behind the clouds; if you want contrast, you may just have to bring your own in the form of a flash. This […]",
-     "source": "DPReview",
-     "zh": "Shoot while the sun shines: samples from the Nikon Z5IIC"
     }
    ]
   },
@@ -2256,6 +2256,38 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Mark Walters owns larger Guggenheim stake than previously reported - report",
+     "link": "https://seekingalpha.com/news/4675750-mark-walters-owns-larger-guggenheim-stake-than-previously-reported-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 13:17:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mark Walters owns larger Guggenheim stake than previously reported - report"
+    },
+    {
+     "title": "Pershing Square Holdings adopts new dividend policy, plans $0.1667 monthly payout",
+     "link": "https://seekingalpha.com/news/4675753-pershing-square-holdings-adopts-new-dividend-policy-plans-01667-monthly-payout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 13:14:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pershing Square Holdings adopts new dividend policy, plans $0.1667 monthly payout"
+    },
+    {
+     "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
+     "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 18:14:00 GMT",
+     "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+     "source": "MarketWatch",
+     "zh": "See how much more money the richest Americans are spending on the holidays compared to everyone else"
+    },
+    {
+     "title": "Power at the pump: Costco opens its largest gas station ever",
+     "link": "https://seekingalpha.com/news/4675751-power-at-the-pump-costco-opens-its-largest-gas-station-ever?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 13:10:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Power at the pump: Costco opens its largest gas station ever"
+    },
     {
      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
@@ -2321,30 +2353,6 @@
      "zh": "More AI jobs are coming. That’s one of the big hiring trends in 2027."
     },
     {
-     "title": "The RoyaLand Company Ltd. GAAP EPS of -$0.06, revenue of $0.15M",
-     "link": "https://seekingalpha.com/news/4675748-the-royaland-company-ltd-gaap-eps-of-0_06-revenue-of-0_15m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:36:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The RoyaLand Company Ltd. GAAP EPS of -$0.06, revenue of $0.15M"
-    },
-    {
-     "title": "Plaintree Systems reports Q2 results",
-     "link": "https://seekingalpha.com/news/4675747-plaintree-systems-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:35:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Plaintree Systems reports Q2 results"
-    },
-    {
-     "title": "Niki BioSolutions, Inc. GAAP EPS of -$0.49",
-     "link": "https://seekingalpha.com/news/4675746-niki-biosolutions-inc-gaap-eps-of-0_49?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:33:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Niki BioSolutions, Inc. GAAP EPS of -$0.49"
-    },
-    {
      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 17:30:00 GMT",
@@ -2361,12 +2369,12 @@
      "zh": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%"
     },
     {
-     "title": "The tragedy — or is it farce? — of Jensen Huang",
+     "title": "Huang is back because he left Nvidia no choice",
      "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
      "pubDate": "Mon, 23 Nov 2026 17:17:50 GMT",
      "summary": "Nvidia took Huang back because his failures left the company with no other options",
      "source": "Financial Times",
-     "zh": "The tragedy — or is it farce? — of Jensen Huang"
+     "zh": "Huang is back because he left Nvidia no choice"
     },
     {
      "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
@@ -2468,7 +2476,7 @@
      "title": "美股三大指数集体大涨 纳指涨超7% 英伟达涨逾34% 美油跌破80美元/桶",
      "link": "http://finance.eastmoney.com/news/1345,202611233937627539.html",
      "pubDate": "Tue, 24 Nov 2026 00:13:25 +0800",
-     "summary": "美东时间周一，美股三大股指集体上涨，截至发稿，道指涨3.13%，标普500指数涨4.96%，纳指涨6.81%。 受黄仁勋CEO职务恢复的消息刺激，芯片股集体反弹，截至发稿，费城 半导体 指数涨超14%。个股方面， 英伟达 涨32.89%， 公司市值单日增加超过1万亿美元并重返美股第二；Cerebras涨19.75%， 美光科技 涨19.52%，ARM涨17.64%， 闪迪 涨16.10%， 台积电 涨15.61%， 西部数据 涨14.79%， 拉姆研究 涨14.36%， 希捷科技 涨14.21%， 应用材料 涨14.17%， 英特尔 涨12.81%。 美元指数自 去年4月以来首次 突破104，",
+     "summary": "美东时间周一，美股三大股指集体上涨，截至发稿，道指涨3.18%，标普500指数涨4.86%，纳指涨6.71%。 受黄仁勋CEO职务恢复的消息刺激，芯片股集体反弹，截至发稿，费城 半导体 指数涨超13%。个股方面， 英伟达 涨30.80%， 公司市值单日增加超过1万亿美元并重返美股第二； 美光科技 涨18.96%，Cerebras涨18.07%，ARM涨16.52%， 西部数据 涨15.41%， 台积电 涨15.30%， 希捷科技 涨14.56%， 闪迪 涨14.21%， 拉姆研究 涨14.15%， 应用材料 涨13.79%， 英特尔 涨13.51%。 美元指数自 去年4月以来首次 突破104，",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体大涨 纳指涨超7% 英伟达涨逾34% 美油跌破80美元/桶"
     },
@@ -2487,14 +2495,6 @@
      "summary": "AI基础设施建设浪潮持续重塑全球内存半导体格局。 据韩国《经济论坛》援引行业消息人士报道， 三星电子2027年至2029年间的内存制造产能大部分已通过合同锁定，部分客户甚至寻求将长期供应协议延伸至2031年。这意味着全球最大内存制造商的产能或将被提前预定长达五年。 这一局面折射出当前市场的供需严峻程度。 行业消息人士估计，领先内存制造商目前仅能满足客户约60%至70%的需求，而供应紧张态势可能在2027年进一步加剧。 三星此前已确认，其2027年高带宽内存（HBM）供应已全部售罄，行业消息人士进一步指出，2027年传统DRAM晶圆产能同样已基本耗尽。 对投资者而言，上述动态表明AI驱动的内存需",
      "source": "华尔街见闻",
      "zh": "报道：三星未来三年存储产能接近售罄，客户抢长约至2031年"
-    },
-    {
-     "title": "美国11月商业活动增速降至四个月低点，供应链瓶颈与成本压力持续",
-     "link": "https://wallstreetcn.com/articles/3786539",
-     "pubDate": "Tue, 24 Nov 2026 00:04:59 +0800",
-     "summary": "美国商业活动扩张势头在11月明显降温，高物价、运输延误与供应瓶颈共同拖累制造业与服务业表现，尽管整体仍处于扩张区间。 周一，标普全球数据显示， 11月美国综合采购经理人指数（PMI）初值较上月下降1.3个百分点至54.6，为近四个月低位。制造业分项指数滑落至54.5，创三个月新低；服务业活动指数同样回落至四个月低位。 11月供应链压力明显恶化。 据标普全球援引全球贸易扰动与运输延误因素，制造商供应商交货时间延长幅度为2022年以来最大。反映需求状况的新订单分项指数扩张步伐亦降至7月以来最慢水平，显示终端需求动能有所减弱。 从需求侧看，强劲的消费者支出、人工智能相关投资以及国防开支，为美国企业提",
-     "source": "华尔街见闻",
-     "zh": "美国11月商业活动增速降至四个月低点，供应链瓶颈与成本压力持续"
     }
    ]
   },

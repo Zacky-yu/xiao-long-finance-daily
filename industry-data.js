@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 14:11:58",
+ "generated_at": "2026/11/23 14:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone",
+     "link": "https://cnevpost.com/2026/11/23/nio-to-deliver-170000th-3rd-gen-es8-this-week/",
+     "pubDate": "Mon, 23 Nov 2026 06:27:55 +0000",
+     "summary": "The third-generation ES8 reached 160,000 deliveries on October 23, putting the upcoming new milestone about 1 month later. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio to deliver 170,000th third-gen ES8 this week, about 1 month after last milestone"
+    },
+    {
      "title": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year",
      "link": "https://cnevpost.com/2026/11/23/nio-to-begin-deliveries-refreshed-et5-touring-es6-h1-2027/",
      "pubDate": "Mon, 23 Nov 2026 05:26:42 +0000",
@@ -808,14 +816,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Fangchengbao Tai 9 has a foldable steering wheel that can hide itself away to make the car more comfortable when parked.",
      "source": "InsideEVs",
      "zh": "BYD's Latest SUV Can Hide Its Steering Wheel When You Don't Need It"
-    },
-    {
-     "title": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch",
-     "link": "https://cnevpost.com/2026/11/20/leapmotor-opel-deal-develop-suv-2028-launch/",
-     "pubDate": "Fri, 20 Nov 2026 13:11:02 +0000",
-     "summary": "Leapmotor will provide engineering and development services for the SUV for a total consideration of 100 million euros ($110 million). For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Leapmotor, Opel sign deal to develop new C-segment SUV for 2028 launch"
     },
     {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -1778,12 +1778,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "沙特站阿拉伯语客服响应慢，退货率压不住，备货节奏该怎么调？",
+     "link": "https://www.baijing.cn/question/638916",
+     "pubDate": "Mon, 23 Nov 2026 06:21:55 +0000",
+     "summary": "沙特站上线四个月，做的是母婴喂养用品，客单价80-150里亚尔，团队6人，客服只有1个会阿拉伯语的兼职。后台数据显示咨询首次响应平均4.5小时，差评里一半提到“没人理”，退货率从3%涨到9%，退回的货里不少是客户不会用、问不到人就退了。现在备货靠国内仓直发，沙特本地仓只压了爆款两个SKU，退货一多资金就卡住。试过加翻译插件和FAQ模板，但客户问的是使用场景和退换流程，机器答不了。卡在要不要在利雅得设本地客服岗、把哪些SKU提前备到本地仓。这个阶段该先补客服还是先调备货结构？",
+     "source": "白鲸出海",
+     "zh": "沙特站阿拉伯语客服响应慢，退货率压不住，备货节奏该怎么调？"
+    },
+    {
+     "title": "领克 900L 旗舰大七座 SUV 将于 11 月 27 日开启预售，900V 超级电混",
+     "link": "https://www.ithome.com/1/030/895.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:17:58 GMT",
+     "summary": "IT之家 11 月 23 日消息，领克汽车今日宣布，领克 900L 全球预售发布会将于 11 月 27 日举行，号称“900V 超级电混旗舰大七座 SUV”。 这款旗舰大七座 SUV 于 11 月 11 日进行了全球首秀，长宽高分别为 5280/1999/1810mm， 轴距 3170mm 。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。 其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&amp;CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。 座舱内部采用浅色内饰基调，前排提",
+     "source": "IT之家",
+     "zh": "领克 900L 旗舰大七座 SUV 将于 11 月 27 日开启预售，900V 超级电混"
+    },
+    {
+     "title": "奇瑞风云 A9 夜影版车型发售，限时置换价 131899 元",
+     "link": "https://www.ithome.com/1/030/894.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:15:55 GMT",
+     "summary": "IT之家 11 月 23 日消息，奇瑞风云 A9 夜影版车型今日上市，官方指导价 134,899 元，限时超级置换价 131,899 元。 新车提供墨石黑、玄武灰双色可选，内饰采用夜幕紫黑限定色。除颜色外，新车还采用了夜影版专属套件拉花，配备夜影专属绒毯、刀锋轮毂、磁悬浮轮毂灯、副驾悠然座椅、智能香氛套装等。 风云 A9 增程版尺寸为 4890×1913×1489mm、轴距 2900mm；整车风阻系数达到 0.223Cd。 奇瑞风云 A9 搭载单电机，最大功率 178kW，最大扭矩 275N·m；搭载 70.11kWh 磷酸铁锂电池，CLTC 纯电续航里程 655km，30%-80% 快充时长",
+     "source": "IT之家",
+     "zh": "奇瑞风云 A9 夜影版车型发售，限时置换价 131899 元"
+    },
+    {
+     "title": "心理学是科学吗？公众和科学家的看法大相径庭",
+     "link": "https://www.huxiu.com/article/4907683.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 14:15:20 +0800",
+     "summary": "本文来自微信公众号： PsyCulture&Science ，作者：Dubova & Liu 心理学研究人的思维、情绪与行为。但当我们说“科学”时，脑海里浮现的往往是可重复的实验、明确的测量和稳定的规律。心理学能不能符合这样的图景？公众和心理学研究者对此，可能并没有共同答案。 一项发表于《英国皇家学会开放科学》（Royal Society Open Science）的研究发现：人们对“科学是什么”的理解并不一致。尤其值得注意的是，公众眼中的科学，与心理学及认知科学研究者的看法差异较大。不过，这项研究并不是在判定心理学“算不算科学”，而是在考察人们如何理解科学，以及这些理解为何不同。 科学家与公",
+     "source": "虎嗅",
+     "zh": "心理学是科学吗？公众和科学家的看法大相径庭"
+    },
+    {
+     "title": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起",
+     "link": "https://www.ithome.com/1/030/893.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:13:24 GMT",
+     "summary": "IT之家 11 月 23 日消息，微星 (MSI) 本月 21 日正式推出其该品牌首款电竞桌 MAG TA10。这一型号搭载捷昌双电机驱动系统，支持升降，售价 2699 元起。 MAG TA10 主体采用铝合金 + 冷轧钢框架，搭配静电喷粉工艺 25mm 纤维板，拥有斜面前沿和曲面边缘。其 集成双面电源插座 （提供 USB-A、USB-C、多个五孔插座）， 整合内嵌式理线槽 ， 设有键盘按键式手动控制器 。 IT之家了解到，微星 MAG TA10 可选 1.2×0.6 (m) 双节腿、1.4×0.7 (m) 三节腿、1.6×0.7 (m) 三节腿，价格分别为 2699 / 2999 / 329",
+     "source": "IT之家",
+     "zh": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起"
+    },
+    {
+     "title": "加拿大尾程派送时效波动大，只有两个人盯物流，该不该把库存全压到多伦多仓？",
+     "link": "https://www.baijing.cn/question/638915",
+     "pubDate": "Mon, 23 Nov 2026 06:08:49 +0000",
+     "summary": "我们做户外储能配件，亚马逊加拿大站刚起量，日单量从30单涨到120单左右，团队一共5个人，物流这块只有我和一个兼职每天花两小时看后台。最近发现温哥华方向订单的尾程派送时长从4天拉到8天，迟发率冲到3.8%，买家留言全是问什么时候到。已经试过把部分SKU转到多伦多仓、也开过Canada Post以外的承运选项，但排期一乱就没人手跟，结果多伦多仓的补货计划拖了两周没落地。现在卡在人力排期上：是继续分散在两个仓靠人工盯，还是集中压多伦多仓把时效稳住？想听听同样小团队做加拿大站的同行怎么取舍。",
+     "source": "白鲸出海",
+     "zh": "加拿大尾程派送时效波动大，只有两个人盯物流，该不该把库存全压到多伦多仓？"
+    },
+    {
+     "title": "亚马逊推出《宝可梦》24 部动画电影蓝光合集：精灵球造型包装，售 399.99 美元",
+     "link": "https://www.ithome.com/1/030/891.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:07:06 GMT",
+     "summary": "IT之家 11 月 23 日消息，亚马逊与 Viz Media 共同推出《宝可梦》24 部动画电影蓝光合集，并由亚马逊独家销售，售价为 399.99 美元 （IT之家注：现汇率约合 2,672 元人民币） 。 亚马逊商品页面显示，该合集名为《Pokémon: 24-Movie Collection》（Amazon Exclusive Limited Edition Blu-ray），共包含 16 张蓝光碟，收录《宝可梦》系列全部 24 部动画电影，总时长为 36 小时 41 分钟。 其中收录了从 1998 年上映的首部剧场版《宝可梦：超梦的逆袭》，一直延续至 2020 年上映的《宝可梦：皮卡丘",
+     "source": "IT之家",
+     "zh": "亚马逊推出《宝可梦》24 部动画电影蓝光合集：精灵球造型包装，售 399.99 美元"
+    },
+    {
+     "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%",
+     "link": "https://www.ithome.com/1/030/890.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:06:12 GMT",
+     "summary": "IT之家 11 月 23 日消息，自变量今日发布新一代具身基础模型 WALL-OSS-1.0。该模型将预训练本身当作智能的来源，而非后续任务微调的起点。 据介绍，这款模型的训练分为两个阶段：一阶段让动作数据前置加入训练，配合多模态数据，让“理解世界”和“动手干活”在同一套权重里成形；二阶段加入动作专家，学习精确、高效的动作生成。 IT之家注意到， 该模型在 RoboDojo 榜单仿真赛道中位列单模型能力第一名 ，超越使用 Astra、Opus 5.5 等十万亿参数模型的 Agent 策略。多种真机测试中零样本成功率可达 55.1%。",
+     "source": "IT之家",
+     "zh": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%"
+    },
+    {
+     "title": "800万对1000万，腾讯字节又在AI办公杠上了",
+     "link": "https://www.huxiu.com/article/4907676.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 14:03:30 +0800",
+     "summary": "本文来自微信公众号： 光锥智能 ，作者：关注前沿科技的 如果说之前AI产品还是隔着跑分榜互相秀肌肉，那么现在AI办公已经进入“刺刀见红”的新阶段。 11月18日，腾讯和字节双双给出成绩单。 先是腾讯在财报会上率先披露WorkBuddy日活超过1000万，日均消耗100万亿Token，最近七天收入按年化折算超过5亿美元，是腾讯会议的两倍以上，第三季度收入达到第二季度的5倍以上，中国百强企业中已有60%成为其客户。 紧随其后，豆包工作宣布上线约三个月后，DAU突破800万，企业客户年度经常性收入（ARR）突破20亿元，其海报上的豆姐表情也很是挑衅。 可以看到，这不是两份普通的成绩单，更像是两封甩到",
+     "source": "虎嗅",
+     "zh": "800万对1000万，腾讯字节又在AI办公杠上了"
+    },
+    {
      "title": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
      "link": "https://www.techmeme.com/261123/p2#a261123p2",
      "pubDate": "Mon, 23 Nov 2026 01:02:06 -0500",
      "summary": "Bloomberg : New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers &nbsp; &mdash;&nbsp; Washington's new rulebook spells trouble for a multibillion dollar cloud business helping to power the region'",
      "source": "Techmeme",
      "zh": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)"
+    },
+    {
+     "title": "韩国私募股权基金 MBK Partners 计划私有化 Wacom",
+     "link": "https://www.ithome.com/1/030/889.htm",
+     "pubDate": "Mon, 23 Nov 2026 06:01:17 GMT",
+     "summary": "IT之家 11 月 23 日消息，根据 Wacom（和冠）官网当地时间 20 日公告，韩国私募股权基金 MBK Partners 计划收购这家诞生于日本的数字书写解决方案与技术企业 并使其私有化退市。 这笔公开要约收购预计将于 2027 年 2 月启动，对公众股东的股票收购价为每股 1,030 日元。按此计算，该交易 对 Wacom 整体股权的估值为 1,390.5 亿日元 （现汇率约合 58.49 亿元人民币） 。 Wacom 的现有股东中， 三星电子（持股约 6.32%）计划将 其获得的交易对价 重新投资 到收购方的母公司中 ，保持对 Wacom 的持股。Wacom 现任社长兼首席执行官井",
+     "source": "IT之家",
+     "zh": "韩国私募股权基金 MBK Partners 计划私有化 Wacom"
     },
     {
      "title": "5块钱电池收260。不懂维修，就活该被当成冤大头吗？",
@@ -1826,30 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI时代的公司，会长成什么样？"
     },
     {
-     "title": "黎曼猜想有了约1700万行代码证明，谁来读？",
-     "link": "https://www.huxiu.com/article/4907665.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 13:37:32 +0800",
-     "summary": "本文来自微信公众号： 云启资本 ，作者：保持关注的，原文标题：《黎曼猜想有了约 1700 万行代码证明，谁来读？ | 云启科技π》 拿一张纸，从1写到20，把质数圈起来。2、3、5、7、11、13、17、19，一共八个。要是把20换成一万亿呢？ 11月20日，Anthropic数学家Levent Alpöge公布了约1700万行Lean代码，称自己和Claude找到了黎曼猜想的证明。第二天，Lean和Mathlib社区发表联合声明，确认代码证明的就是原来的数学命题，推导通过了多套独立检查。 还是学生时，Alpöge给自己定过一个没告诉别人的计划。他想花几十年做这道题，先把以后可能用上的数学一门",
-     "source": "虎嗅",
-     "zh": "黎曼猜想有了约1700万行代码证明，谁来读？"
-    },
-    {
-     "title": "上汽 MG4 增推 530 从容版：限时补贴价 7.88 万元起，纯电续航 530km",
-     "link": "https://www.ithome.com/1/030/833.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:33:47 GMT",
-     "summary": "IT之家 11 月 23 日消息，上汽 MG4 新增 530 从容版车型，官方指导价 8.18 万元，限时补贴价 7.88 万元。作为参考，目前 MG4 系列共有 13 款车型在售，限时补贴价 6.58 万元起。 新车定位紧凑型两厢纯电车，车身长宽高分别为 4395×1842×1551mm，轴距为 2750mm。外观采用家族化设计，前脸配备封闭式格栅和狭长大灯，下方设有蜂窝状下格栅。车身侧面采用短悬设计，搭配双色多辐轮毂，充电口位于前翼子板处；车尾配备小型扰流板，尾灯向两侧延伸，后包围加入黑色饰板。 车身颜色方面，新车提供月光白、星野灰、清波翠、东来紫、冰晶蓝、杏仁米共 6 种选择。内饰提供蔷",
-     "source": "IT之家",
-     "zh": "上汽 MG4 增推 530 从容版：限时补贴价 7.88 万元起，纯电续航 530km"
-    },
-    {
-     "title": "2027 款宝马 X7 上市：3.0T+48V 轻混动力，92.8 万起",
-     "link": "https://www.ithome.com/1/030/831.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:33:16 GMT",
-     "summary": "IT之家 11 月 23 日消息，今日，2027 款宝马 X7 上市，新车仅提供 2 款配置， 售价 92.80-112.8 万元。 全新 X7 已确认将于 2027 年晚些时候投产，此次新车上市是现款车型生命周期末尾的一次重要升级。 2027 款宝马 X7 官方售价 车型 售价（万元） xDrive40i 领先豪华套装 7 座版 92.8 xDrive40i 尊享型 M 运动套装 6 座版 112.8 BMW X7 xDrive40i 领先型豪华套装（7 座） 车门吸合功能 舒适套装，包括：前后排座椅加热功能；前排舒适加热组件（含方向盘及扶手加热）；带冷却和加热功能的杯座 前排座椅按摩功能 ",
-     "source": "IT之家",
-     "zh": "2027 款宝马 X7 上市：3.0T+48V 轻混动力，92.8 万起"
-    },
-    {
      "title": "沙特阿联酋买量CPA涨到4.2美元，本地化支付接入后付费率还是不动，问题出在哪？",
      "link": "https://www.baijing.cn/question/638913",
      "pubDate": "Mon, 23 Nov 2026 05:31:36 +0000",
@@ -1864,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kyt Dotson / SiliconANGLE : London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners &nbsp; &mdash;&nbsp; Alecto Conveyancing Ltd., a London-based artificial intelligence-native law firm, today announced it",
      "source": "Techmeme",
      "zh": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners (Kyt Dotson/SiliconANGLE)"
-    },
-    {
-     "title": "成为DeepSeek 的股东有什么好处",
-     "link": "https://www.huxiu.com/article/4907663.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 13:27:50 +0800",
-     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：Dax，原文标题：《成为 DeepSeek 的股东有什么好处｜巨潮》 宁德时代与吉利，在Deepseek的出资方名单里相遇了。 根据《科创板日报》11月19日的信息披露，DeepSeek持股平台杭州程砚新增的合伙人中，包括宁德时代相关基金与浙江吉利产投控股有限公司。 包括第一轮融资在内，此前媒体相关的披露当中，宁德时代、腾讯、网易、京东、吉利、美的、美团、小红书、中芯国际、兆易创新在内的大量产业资本都有参与。 毫不夸张地说，每一个上榜的企业都会迎来整个中国商界、投资界的羡慕眼神。 汽车、电池、通信、互联网、芯片。各个行业的大企业聚在一起",
-     "source": "虎嗅",
-     "zh": "成为DeepSeek 的股东有什么好处"
     },
     {
      "title": "辰星技术：营收扩张难掩亏损，多款机器人曾亏本销售",
@@ -1890,22 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产"
     },
     {
-     "title": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”",
-     "link": "https://www.ithome.com/1/030/811.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:08:14 GMT",
-     "summary": "IT之家 11 月 23 日消息，据英国金融时报今日报道，美国财政部长斯科特 · 贝森特表示，他不会反对黄仁勋重返英伟达， 此前他曾呼吁英伟达董事会实施“彻底的改革” ， 应该从“外部”寻找新 CEO 。 美国总统唐纳德 · 特朗普今日在真实社交平台表示 ，他希望英伟达董事会能重新聘用黄仁勋。这对英伟达公司、美国来说都是最好的事情。 贝森特此前的态度与特朗普似乎存在一定矛盾。贝森特曾指责黄仁勋领导下的英伟达存在一种“不合规文化”，并称该公司可能试图通过“看似非法的销售行为”来“虚增营收和利润”。 而在最新采访中，贝森特指出，他说过英伟达应该从“外部”寻找新 CEO， 已经辞职的黄仁勋现在就是“",
-     "source": "IT之家",
-     "zh": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”"
-    },
-    {
-     "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
-     "link": "https://www.ithome.com/1/030/810.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:08:13 GMT",
-     "summary": "IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。 其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。 本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。 官方还公布了本次测试",
-     "source": "IT之家",
-     "zh": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开"
-    },
-    {
      "title": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？",
      "link": "https://www.baijing.cn/question/638912",
      "pubDate": "Mon, 23 Nov 2026 05:06:34 +0000",
@@ -1917,17 +1949,9 @@ window.INDUSTRY_DATA = {
      "title": "A Partial Evaluator for C",
      "link": "https://phoenix.labri.fr/software/tempo/",
      "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
-     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "A Partial Evaluator for C"
-    },
-    {
-     "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
-     "link": "https://www.ithome.com/1/030/809.htm",
-     "pubDate": "Mon, 23 Nov 2026 04:49:30 GMT",
-     "summary": "IT之家 11 月 23 日消息，据IT之家小伙伴反馈，智谱官方运营人员发布消息， GLM-5.4 模型已经上线 Coding Plan 。“过去三个月，我们同时激进的 Scaling Loop 和模型大小，大家首先看到的是 Loop Transformer 带来的惊喜。GLM-5.4 新增视觉能力与更强的泛 Coding 能力。” 此外，V2、V3 及团队版用户使用 GLM-5.4 模型额度已提升至 1.5 倍， 将模型名设置为 glm-5.4 即可 。 GLM-5.4 模型的具体介绍信息暂未公布，不过已经能在 Coding Plan 的模型列表中看到，显示“1M”和“视觉”字样。",
-     "source": "IT之家",
-     "zh": "智谱 GLM-5.4 模型发布，已上线 Coding Plan"
     },
     {
      "title": "日本独立站日语客服外包，新规后个人信息处理还能直接转给外包团队吗？",
@@ -1941,33 +1965,17 @@ window.INDUSTRY_DATA = {
      "title": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)",
      "link": "https://www.techmeme.com/261122/p20#a261122p20",
      "pubDate": "Sun, 22 Nov 2026 23:40:00 -0500",
-     "summary": "Kim Woo-young / CHOSUNBIZ : South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &nbsp; &mdash;&nbsp; 조선비즈 구글 검색 먼저 보기",
+     "summary": "Kim Woo-young / CHOSUNBIZ : South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &nbsp; &mdash;&nbsp; Private equity firm MBK Partners will acquire Wacom, a Japanese company that supplies core tec",
      "source": "Techmeme",
      "zh": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)"
-    },
-    {
-     "title": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩",
-     "link": "https://www.ithome.com/1/030/808.htm",
-     "pubDate": "Mon, 23 Nov 2026 04:37:25 GMT",
-     "summary": "IT之家 11 月 23 日消息，Square Enix《最终幻想 7：启示录》已获得美国娱乐软件分级委员会（ESRB）评级，被评为 T 级（Teen，青少年级），适合 13 岁及以上玩家游玩。 评级信息显示，游戏包含血腥、粗俗语言、轻微暗示性主题以及暴力内容，支持 Windows PC、PlayStation 5、Xbox Series X|S、Nintendo Switch 2。 《最终幻想 7：启示录》将于 2027 年 4 月 8 日发售，将成为《最终幻想 7》重制系列三部曲的最终篇。 《最终幻想 7：启示录》将打造一个规模前所未有的开放世界，玩家可以驾驶经典的“Highwind”飞艇",
-     "source": "IT之家",
-     "zh": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩"
     },
     {
      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
      "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
      "pubDate": "Mon, 23 Nov 2026 04:31:32 +0000",
-     "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 46 # Comments: 6",
      "source": "Hacker News",
      "zh": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization"
-    },
-    {
-     "title": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？",
-     "link": "https://www.baijing.cn/question/638910",
-     "pubDate": "Mon, 23 Nov 2026 04:21:04 +0000",
-     "summary": "做哥伦比亚市场的小家电独立站，主发波哥大和麦德林，团队7人，月单量约4000单。末端用当地快递合作，最近两个月波哥大城区派送时效从平均3.2天拉长到5.8天，签收失败率涨到11%，退货里约六成是“等太久不想要了”。目前备货靠国内集运仓一次性发3个月库存到波哥大海外仓，压货成本高，滞销SKU占到两成。试过换一家末端服务商和加收地址确认短信，效果都不明显。卡在备货周期和末端时效对不上：备多了退货和仓储吃掉利润，备少了断货又拉高取消率。这种情况下备货节奏按什么标准定，退货损失该由选品结构还是末端方案来消化？",
-     "source": "白鲸出海",
-     "zh": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？"
     },
     {
      "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
@@ -1978,18 +1986,10 @@ window.INDUSTRY_DATA = {
      "zh": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)"
     },
     {
-     "title": "非洲短剧本地化，尼日利亚和肯尼亚的拍摄备货与退货率怎么控？",
-     "link": "https://www.baijing.cn/question/638909",
-     "pubDate": "Mon, 23 Nov 2026 03:58:45 +0000",
-     "summary": "我们在拉各斯和奈洛比各有一个小摄制组，主做斯瓦希里语和尼日利亚英语短剧，目前月产 8 部、团队 12 人，刚过起量阶段。本地采购道具和服装时经常遇到供应商临时涨价、断货，导致开机延期 3-5 天；拍完的服装道具想退货，供应商只接受 50% 折价回收，单部剧的置装成本因此多出约 18%。已试过提前两周集中备货和找二手市场补货，但二手货品相不稳定，退货条款也谈不下来。想请教在非洲做短剧的同行，你们是按剧备货还是按季度批量备货，退货折损一般控制在什么比例才算合理？",
-     "source": "白鲸出海",
-     "zh": "非洲短剧本地化，尼日利亚和肯尼亚的拍摄备货与退货率怎么控？"
-    },
-    {
      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
      "link": "https://github.com/AFK-surf/xnulinux",
      "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
-     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 97 # Comments: 33",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 112 # Comments: 44",
      "source": "Hacker News",
      "zh": "XNU Linux: Full OS X GUI Userspace on Linux"
     },
@@ -2274,6 +2274,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump hosts meme coin dinner as token drops",
+     "link": "https://seekingalpha.com/news/4675432-trump-hosts-meme-coin-dinner-as-token-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 01:13:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump hosts meme coin dinner as token drops"
+    },
+    {
+     "title": "Asian regulators rush to support sagging markets as AI trade falters",
+     "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 06:07:01 GMT",
+     "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+     "source": "Financial Times",
+     "zh": "Asian regulators rush to support sagging markets as AI trade falters"
+    },
+    {
      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
      "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
      "pubDate": "Mon, 23 Nov 2026 05:58:40 GMT",
@@ -2394,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Wall Street set to rebound after AI stock sell-off"
     },
     {
-     "title": "Asian regulators rush to support sagging markets as AI trade falters",
-     "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
-     "pubDate": "Mon, 23 Nov 2026 04:54:47 GMT",
-     "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
-     "source": "Financial Times",
-     "zh": "Asian regulators rush to support sagging markets as AI trade falters"
-    },
-    {
      "title": "Asian markets extend losses after Wall Street selloff; U.S. futures rebound",
      "link": "https://seekingalpha.com/news/4675422-asian-markets-extend-losses-after-wall-street-selloff-us-futures-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 23:52:40 -0500",
@@ -2410,18 +2418,10 @@ window.INDUSTRY_DATA = {
      "zh": "Asian markets extend losses after Wall Street selloff; U.S. futures rebound"
     },
     {
-     "title": "Trump calls for Nvidia to rehire Jensen Huang amid China probe",
-     "link": "https://seekingalpha.com/news/4675425-trump-calls-for-nvidia-to-rehire-jensen-huang-amid-china-probe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 23:52:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump calls for Nvidia to rehire Jensen Huang amid China probe"
-    },
-    {
      "title": "高盛下调三星电子、SK海力士目标价 维持买入评级",
      "link": "http://finance.eastmoney.com/news/1354,202611233937149083.html",
      "pubDate": "Mon, 23 Nov 2026 12:37:45 +0800",
-     "summary": "高盛 发布的全球 半导体 存储行业报告中指出，AI算力需求将继续支撑2027年 存储芯片 维持严重供不应求，但受 消费电子 疲软及厂商扩产影响，2028年供需将趋于缓和。 高盛 分析师Giuni Lee等下调了2028年传统DRAM与NAND价格预测，并将三星 电子 目标价从50万韩元下调至35万韩元， SK海力士 目标价从350万韩元下调至 200 万韩元。不过 高盛 通过三项压力测试指出，两家公司当前股价已提前反映了2028年AI资本开支零增长及存储价格再跌40%的悲观预期，叠加2027至2028年高达17%至22%的股东回报率，继续维持对两家巨头的买入评级。 （文章来源：科创板日报）",
+     "summary": "高盛 发布的全球 半导体 存储行业报告中指出，AI算力需求将继续支撑2027年 存储芯片 维持严重供不应求，但受 消费电子 疲软及存储厂商扩产影响，2028年供需将趋于缓和。 高盛 分析师Giuni Lee等下调了2028年传统DRAM与NAND价格预测，并将三星 电子 目标价从50万韩元下调至35万韩元， SK海力士 目标价从350万韩元下调至 200 万韩元。不过 高盛 通过三项压力测试指出，两家公司当前股价已提前反映了2028年AI资本开支零增长及存储价格再跌40%的悲观预期，叠加2027至2028年高达17%至22%的股东回报率，继续维持对两家巨头的买入评级。 （文章来源：科创板日报）",
      "source": "东方财富股票",
      "zh": "高盛下调三星电子、SK海力士目标价 维持买入评级"
     },

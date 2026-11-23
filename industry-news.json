@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 14:04:36",
+ "generated_at": "2026/11/23 14:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,22 @@
    "total": 9,
    "items": [
     {
+     "title": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows",
+     "link": "https://www.digitimes.com/news/a20261123PD224/taiwan-government-moea-stock-market-industrial-supply-chain.html",
+     "pubDate": "Mon, 23 Nov 2026 05:58:44 GMT",
+     "summary": "A sharp sell-off in the Philadelphia Semiconductor Index and shares of major global technology companies has wiped billions off the market value of Taiwan's high-tech and AI supply chain companies. Taiwan's Ministry of Economic Affairs (MOEA) stressed in a statement that the long-term outlook for AI",
+     "source": "DIGITIMES",
+     "zh": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows"
+    },
+    {
+     "title": "Trump-Xi talks set human guardrails for military AI",
+     "link": "https://www.digitimes.com/news/a20261123PD223/military-donald-trump-xi-jinping-chips-shenzhen.html",
+     "pubDate": "Mon, 23 Nov 2026 05:48:19 GMT",
+     "summary": "US President Donald Trump and Chinese President Xi Jinping agreed during a meeting in Shenzhen that AI must not independently make major military decisions, amid growing competition between the two countries over AI technology and advanced chips.",
+     "source": "DIGITIMES",
+     "zh": "Trump-Xi talks set human guardrails for military AI"
+    },
+    {
      "title": "Commentary: Cursor's Kimi dilemma turns open-weight AI into next US-China dependency fight",
      "link": "https://www.digitimes.com/news/a20261123VL204/ai-chip-exports-investigation-software-usa-china.html",
      "pubDate": "Mon, 23 Nov 2026 04:42:19 GMT",
@@ -287,22 +303,6 @@
      "summary": "South Korea's SK Hynix is set to become the largest indirect shareholder in Japanese memory chipmaker Kioxia Holdings through a bond conversion that will give it voting rights in a major NAND flash rival, subject to a 15% limit.",
      "source": "DIGITIMES",
      "zh": "SK Hynix to gain voting rights in Kioxia under 15% cap"
-    },
-    {
-     "title": "Trinity Fab in talks to use SK Hynix's EUV tools",
-     "link": "https://www.digitimes.com/news/a20261123PD214/trinity-equipment-sk-hynix-euv-production.html",
-     "pubDate": "Mon, 23 Nov 2026 03:55:00 GMT",
-     "summary": "South Korea's Trinity Fab is in talks with SK Hynix over the possible use of the chipmaker's extreme ultraviolet (EUV) lithography equipment to test semiconductor materials, including EUV photoresists.",
-     "source": "DIGITIMES",
-     "zh": "Trinity Fab in talks to use SK Hynix's EUV tools"
-    },
-    {
-     "title": "Ingentec targets 12 TGV lines by end of 2027 as FAU and GCB initiatives advance",
-     "link": "https://www.digitimes.com/news/a20261123PD220.html",
-     "pubDate": "Mon, 23 Nov 2026 03:51:45 GMT",
-     "summary": "Ingentec is scaling up its through-glass via (TGV) roadmap to target applications in artificial intelligence, high-performance computing, and co-packaged optics (CPO). The company is actively driving two core pillars: glass core boards (GCB) and one-piece fiber array units (FAU).",
-     "source": "DIGITIMES",
-     "zh": "Ingentec targets 12 TGV lines by end of 2027 as FAU and GCB initiatives advance"
     },
     {
      "title": "Ed’s Vulture Fund For Distressed Datacentres",
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
+     "link": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
+     "pubDate": "Mon, 23 Nov 2026 06:09:09 +0000",
+     "summary": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and incorporates integrated refrigerant safety technology. The post Daikin launches R",
+     "source": "pv magazine",
+     "zh": "Daikin launches R32 retrofit solution for existing residential heat pump series"
+    },
+    {
      "title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html",
      "pubDate": "Sun, 22 Nov 2026 23:50:00 -0600",
@@ -999,14 +1007,6 @@
      "summary": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who are helping build a more inclusive future. Carmen Madrid, Founder of both initia",
      "source": "pv magazine",
      "zh": "Celebrating men, challenging stereotypes, building a stronger energy future together"
-    },
-    {
-     "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
-     "link": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
-     "pubDate": "Sat, 21 Nov 2026 08:30:00 +0000",
-     "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives"
     },
     {
      "title": "Why tribal rights have become key to the energy permitting debate",
@@ -1329,6 +1329,14 @@
      "zh": "Laser Focus at the Top of the World"
     },
     {
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
+    },
+    {
      "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -1417,6 +1425,14 @@
      "zh": "Curiosity Spots Drifting Twilight Clouds"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
      "link": "https://payloadspace.com/atomic-6-wants-to-shield-astronauts-against-untrackable-debris/",
      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
@@ -1447,6 +1463,14 @@
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
+    },
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1489,6 +1513,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1519,22 +1551,6 @@
      "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Origami and solar arrays"
-    },
-    {
-     "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
-     "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1761,6 +1777,38 @@
    "total": 18,
    "items": [
     {
+     "title": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
+     "link": "https://www.techmeme.com/261123/p2#a261123p2",
+     "pubDate": "Mon, 23 Nov 2026 01:02:06 -0500",
+     "summary": "Bloomberg : New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers &nbsp; &mdash;&nbsp; Washington's new rulebook spells trouble for a multibillion dollar cloud business helping to power the region'",
+     "source": "Techmeme",
+     "zh": "New US chip export rules threaten SEA&apos;s data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)"
+    },
+    {
+     "title": "5块钱电池收260。不懂维修，就活该被当成冤大头吗？",
+     "link": "https://www.huxiu.com/article/4905386.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0800",
+     "summary": "一节5块钱的电池，维修师傅却要收260块。维修平台靠层层抽成和营销，逼着师傅宰客。老实收30块的师傅反倒成了业绩差，撒谎坑人几百块的是&ldquo;优秀员工&rdquo;。劣币驱逐良币，诚实师傅活路难寻。不懂维修，就只能靠运气，赌师傅的人品。维修行业这样割韭菜，谁还有勇气找师傅上门？",
+     "source": "虎嗅",
+     "zh": "5块钱电池收260。不懂维修，就活该被当成冤大头吗？"
+    },
+    {
+     "title": "AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸",
+     "link": "https://www.huxiu.com/article/4907671.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 13:57:24 +0800",
+     "summary": "本文来自微信公众号： AI前线 ，作者：四月 过去几年，黄仁勋不只是英伟达掌门人，更像是全球AI供应链的“定海神针”，每逢AI泡沫的质疑此起彼伏，他总能镇住场子，给市场信心再添一把火。 如今，随着核心人物的突然退场，最先崩盘或许并非技术叙事，也不是算力需求，而是支撑起这万亿投资狂潮的底层默契：上下游互相垫资、彼此兜底的好日子，到头了。 从台积电卡账期，到戴尔们临交付加价45%、英伟达撤融资——没了核心担保人，谁都不愿接最后一棒的“击鼓传花”。一夜之间，产业链正从“拼命加杠杆”，迅速切回“现款现货”。 合同变废纸宁吃官司也要涨价45% 英国量化交易巨头XTX Markets一纸诉状，把服务器厂商",
+     "source": "虎嗅",
+     "zh": "AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸"
+    },
+    {
+     "title": "免费的红果，开始打大屏的主意",
+     "link": "https://www.huxiu.com/article/4907670.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 13:55:57 +0800",
+     "summary": "本文来自微信公众号： 潜水鱼X ，作者：何润萱 距离字节时间的争议尚未过去多久，红果的动向又引起市场热议。这次是由一桩招聘信息牵出的。 根据多家科技媒体报道，红果正在筹备OTT电视端相关业务，招聘产品经理的岗位职责涉及电视端产品从0到1建设、投屏会员、会员订阅、衍生权益、牌照申请和内容送审。 而就在同一时间，红果上的超级IP《万妖图录传》也正在联合中影，从11月20日开始将于全国200余座城市的影院展开限时派对活动。这一次在影院播出的109分钟的《云州异客》是独立番外故事，不只是把线上短剧简单拼接成电影。 《万妖图录传之云州异客》 从官方招聘到IP方组织线下走进电影院，很难不令人联想到一个整体",
+     "source": "虎嗅",
+     "zh": "免费的红果，开始打大屏的主意"
+    },
+    {
      "title": "俄罗斯独立站红人联盟佣金结算，两个人怎么排期才不崩？",
      "link": "https://www.baijing.cn/question/638914",
      "pubDate": "Mon, 23 Nov 2026 05:55:48 +0000",
@@ -1769,36 +1817,12 @@
      "zh": "俄罗斯独立站红人联盟佣金结算，两个人怎么排期才不崩？"
     },
     {
-     "title": "电动方程式 2027 季前测试发生严重事故：测试车起火爆燃，车手及时撤离未受伤",
-     "link": "https://www.ithome.com/1/030/882.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:52:18 GMT",
-     "summary": "IT之家 11 月 23 日消息，当地时间 11 月 20 日，电动方程式（Formula E）2027 赛季季前测试在西班牙马德里哈拉马（Jarama）赛道发生严重事故。 当天，英国车手泰勒 · 巴纳德（Taylor Barnard）在哈拉马赛道驾驶新世代（Gen4）赛车进行季前测试时突发起火爆炸，导致测试提前结束。好在车手本人在爆燃之前及时脱离赛车，未受伤。 据 Motorsport 报道，事故发生在当天测试进入最后一小时之际。巴纳德驾驶的 Fusion 车队赛车突然冒烟，随后停在赛道上。巴纳德逃离驾驶舱后，赛车迅速被火焰吞没，并发生爆炸，现场升起大量浓烟。 事故发生后，赛道立即出示红旗，",
-     "source": "IT之家",
-     "zh": "电动方程式 2027 季前测试发生严重事故：测试车起火爆燃，车手及时撤离未受伤"
-    },
-    {
-     "title": "魏建军再测长城 001 号超跑，称“进步显著”",
-     "link": "https://www.ithome.com/1/030/879.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:51:42 GMT",
-     "summary": "IT之家 11 月 23 日消息，长城汽车董事长魏建军今日发布视频，再次对长城 001 号超级跑车进行测试。他表示，距上一次测试已过去两周， 此次测试车辆进步显著 ，希望进一步加快调校速度，尽早取得更加完善的结果。 在视频中，魏建军谈到了长城研发超级跑车的初衷。他表示，自己早在 25 年前就有了打造超级跑车的想法；当时为了研究全球标杆车型，团队陆续购买了莲花、丰田、兰博基尼、法拉利等品牌的跑车， 累计超过 20 台 。 魏建军认为，经过 20 多年的技术积累， 如今团队已具备打造超级跑车的技术储备 ，市场环境也更加成熟。他表示：“我认为，这个时代造跑车，恰逢其时。”此前关于打造超级跑车的冲动和",
-     "source": "IT之家",
-     "zh": "魏建军再测长城 001 号超跑，称“进步显著”"
-    },
-    {
      "title": "AI时代的公司，会长成什么样？",
      "link": "https://www.huxiu.com/article/4907667.html?f=rss",
      "pubDate": "Mon, 23 Nov 2026 13:49:52 +0800",
      "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 2026年11月，腾讯28周年内部交流上，管理层用了一个很特别的比喻：陆战正在变成海战，原来的陆军得学会上船。一部分人继续守住成熟业务，提高效率；另一部分人寻找新的AI战场。管理层还提出减少不必要的层级，让小团队能够更快行动。 互联网公司早已围绕产品、用户和商业化建立成熟分工。开发新技术，通常成立新团队、安排预算就可以了。可这次管理层连原来的人怎么分工、部门之间怎么合作，都拿出来讨论。AI究竟改变了什么，才会让一套运转多年的组织需要调整？ 我们习惯把战略理解成管理层决定做什么，把组织理解成下面的人如何执行。但一家公司的样子，是过去做过的生意一",
      "source": "虎嗅",
      "zh": "AI时代的公司，会长成什么样？"
-    },
-    {
-     "title": "联想确认拯救者 Y700 五代平板电脑《燕云十六声》定制版 12 月发布",
-     "link": "https://www.ithome.com/1/030/865.htm",
-     "pubDate": "Mon, 23 Nov 2026 05:47:36 GMT",
-     "summary": "IT之家 11 月 23 日消息，联想 (Lenovo) 拯救者 (Legion) 官方今日中午确认，其与游戏《燕云十六声》合作打造的 联想 AI 平板拯救者 Y700 五代燕云定制版将于 2026 年 12 月发布 。 IT之家获悉，这一联名产品 具有定制的开机动画、充电动画、主题 UI ，购机附赠拯救者斜挎包 S7 燕云定制版和游戏内虚拟权益，此外似乎还有一张联名卡片。 延伸阅读 从官方公布的海报来看，拯救者 Y700 五代燕云定制版采用素雅的白色机身背板，中央印有金色 LEGION 品牌标识，上方搭配《燕云十六声》专属 IP 字样，并融入游戏角色形象与水墨国风元素；其后盖装饰以叶脉、扇面",
-     "source": "IT之家",
-     "zh": "联想确认拯救者 Y700 五代平板电脑《燕云十六声》定制版 12 月发布"
     },
     {
      "title": "黎曼猜想有了约1700万行代码证明，谁来读？",
@@ -1865,20 +1889,20 @@
      "zh": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产"
     },
     {
-     "title": "Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？",
-     "link": "https://www.huxiu.com/article/4907544.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 13:10:00 +0800",
-     "summary": "本文来自微信公众号： 游戏研究社 ，作者：楚云帆 当地时间2026年11月20日，BioWare迎来了它三十一年历史里的最后一个工作日。 BioWare开发总监Devon Gardner在社交媒体上敲下了简短的告别：“今天是BioWare的最后一天。沉重的一天，但庆幸走过这一程。” 在末尾，他引用了《质量效应3》终局里安德森上将在生命尽头对薛帕德说的那句台词——“You did good,son.” 结局在一个月前就已经注定。10月21日，彭博社率先披露EA将裁撤约400个岗位并关闭BioWare；EA也在当天公开的员工信里确认，下一部《质量效应》的早期开发终止，BioWare工作室及其在加拿",
-     "source": "虎嗅",
-     "zh": "Bioware正式关闭：31年历史的“RPG之王”，如何书写自己的衰亡？"
-    },
-    {
      "title": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”",
      "link": "https://www.ithome.com/1/030/811.htm",
      "pubDate": "Mon, 23 Nov 2026 05:08:14 GMT",
      "summary": "IT之家 11 月 23 日消息，据英国金融时报今日报道，美国财政部长斯科特 · 贝森特表示，他不会反对黄仁勋重返英伟达， 此前他曾呼吁英伟达董事会实施“彻底的改革” ， 应该从“外部”寻找新 CEO 。 美国总统唐纳德 · 特朗普今日在真实社交平台表示 ，他希望英伟达董事会能重新聘用黄仁勋。这对英伟达公司、美国来说都是最好的事情。 贝森特此前的态度与特朗普似乎存在一定矛盾。贝森特曾指责黄仁勋领导下的英伟达存在一种“不合规文化”，并称该公司可能试图通过“看似非法的销售行为”来“虚增营收和利润”。 而在最新采访中，贝森特指出，他说过英伟达应该从“外部”寻找新 CEO， 已经辞职的黄仁勋现在就是“",
      "source": "IT之家",
      "zh": "美财长贝森特改口：英伟达应从公司“外部”寻找新 CEO，而黄仁勋现在就是“外部人士”"
+    },
+    {
+     "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
+     "link": "https://www.ithome.com/1/030/810.htm",
+     "pubDate": "Mon, 23 Nov 2026 05:08:13 GMT",
+     "summary": "IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。 其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。 本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。 官方还公布了本次测试",
+     "source": "IT之家",
+     "zh": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开"
     },
     {
      "title": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？",
@@ -1889,20 +1913,20 @@
      "zh": "Mercado Libre 墨西哥站新店，广告花了 1.8 万比索 CPA 还是 260，问题出在哪？"
     },
     {
-     "title": "史上最大IPO 诞生，对奢侈品行业意味着什么？",
-     "link": "https://www.huxiu.com/article/4907658.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 13:01:39 +0800",
-     "summary": "本文来自微信公众号： Vogue Business ，作者：Amy O’Brien，编辑：YilingPan，原文标题：《史上最大 IPO 诞生，对奢侈品行业意味着什么？》 Claude背后的美国人工智能公司Anthropic，已于上周四正式登陆纽约纳斯达克交易所，股票代码为ANT。 这场备受关注的上市，不仅刷新了全球IPO（首次公开募股）的纪录，也成为AI热潮的一次重要考验。当开发人工智能越来越烧钱、科技巨头之间的竞争越来越激烈，华尔街还愿意为AI的未来投入多少真金白银？ Anthropic最终将发行价定在每股83美元，高于此前预计的70至78美元区间。此次IPO共募集813亿美元，公司估值",
-     "source": "虎嗅",
-     "zh": "史上最大IPO 诞生，对奢侈品行业意味着什么？"
+     "title": "A Partial Evaluator for C",
+     "link": "https://phoenix.labri.fr/software/tempo/",
+     "pubDate": "Mon, 23 Nov 2026 04:51:48 +0000",
+     "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A Partial Evaluator for C"
     },
     {
-     "title": "AI抛售潮VS互联网泡沫，历史是否在重演？",
-     "link": "https://www.huxiu.com/article/4907657.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 12:55:06 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 历史或许不会完全重演，但最近几周席卷股市的人工智能抛售潮，至少在对部分美国科技股的冲击力度方面而言，与当年的互联网泡沫破裂已有惊人的相似。 而随着投资者持续担忧人工智能领域是否存在泡沫，一个值得探讨的问题是：泡沫曾经存在过吗？而它现在是否已经破灭？ 人们不妨可以将视线投向那些在互联网泡沫洗礼中幸存、且至今仍活跃在舞台中心的大型科技巨头。 而一组有意思的对比是，它们在2000年与2026年，从全年高点至年底(2026为迄今)的跌幅已几乎到了可以一较高下的程度： 英特尔：2000年从高点到年底跌幅60%，2026年从高点迄今跌幅64% 甲骨文：2000年",
-     "source": "虎嗅",
-     "zh": "AI抛售潮VS互联网泡沫，历史是否在重演？"
+     "title": "智谱 GLM-5.4 模型发布，已上线 Coding Plan",
+     "link": "https://www.ithome.com/1/030/809.htm",
+     "pubDate": "Mon, 23 Nov 2026 04:49:30 GMT",
+     "summary": "IT之家 11 月 23 日消息，据IT之家小伙伴反馈，智谱官方运营人员发布消息， GLM-5.4 模型已经上线 Coding Plan 。“过去三个月，我们同时激进的 Scaling Loop 和模型大小，大家首先看到的是 Loop Transformer 带来的惊喜。GLM-5.4 新增视觉能力与更强的泛 Coding 能力。” 此外，V2、V3 及团队版用户使用 GLM-5.4 模型额度已提升至 1.5 倍， 将模型名设置为 glm-5.4 即可 。 GLM-5.4 模型的具体介绍信息暂未公布，不过已经能在 Coding Plan 的模型列表中看到，显示“1M”和“视觉”字样。",
+     "source": "IT之家",
+     "zh": "智谱 GLM-5.4 模型发布，已上线 Coding Plan"
     },
     {
      "title": "日本独立站日语客服外包，新规后个人信息处理还能直接转给外包团队吗？",
@@ -1919,6 +1943,22 @@
      "summary": "Kim Woo-young / CHOSUNBIZ : South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &nbsp; &mdash;&nbsp; 조선비즈 구글 검색 먼저 보기",
      "source": "Techmeme",
      "zh": "South Korean PE firm MBK Partners agrees to take Japan&apos;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)"
+    },
+    {
+     "title": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩",
+     "link": "https://www.ithome.com/1/030/808.htm",
+     "pubDate": "Mon, 23 Nov 2026 04:37:25 GMT",
+     "summary": "IT之家 11 月 23 日消息，Square Enix《最终幻想 7：启示录》已获得美国娱乐软件分级委员会（ESRB）评级，被评为 T 级（Teen，青少年级），适合 13 岁及以上玩家游玩。 评级信息显示，游戏包含血腥、粗俗语言、轻微暗示性主题以及暴力内容，支持 Windows PC、PlayStation 5、Xbox Series X|S、Nintendo Switch 2。 《最终幻想 7：启示录》将于 2027 年 4 月 8 日发售，将成为《最终幻想 7》重制系列三部曲的最终篇。 《最终幻想 7：启示录》将打造一个规模前所未有的开放世界，玩家可以驾驶经典的“Highwind”飞艇",
+     "source": "IT之家",
+     "zh": "《最终幻想 7：启示录》通过 ESRB 评级，适合 13 岁以上玩家游玩"
+    },
+    {
+     "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+     "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+     "pubDate": "Mon, 23 Nov 2026 04:31:32 +0000",
+     "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 29 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization"
     },
     {
      "title": "哥伦比亚末端派送时效波动，备货节奏和退货率该怎么调？",
@@ -1945,6 +1985,14 @@
      "zh": "非洲短剧本地化，尼日利亚和肯尼亚的拍摄备货与退货率怎么控？"
     },
     {
+     "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+     "link": "https://github.com/AFK-surf/xnulinux",
+     "pubDate": "Mon, 23 Nov 2026 03:49:24 +0000",
+     "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 97 # Comments: 33",
+     "source": "Hacker News",
+     "zh": "XNU Linux: Full OS X GUI Userspace on Linux"
+    },
+    {
      "title": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
      "link": "https://www.tmtpost.com/8209450.html",
      "pubDate": "Mon, 23 Nov 2026 11:35:20 +0800",
@@ -1967,38 +2015,6 @@
      "summary": "Ryan Lawler / Axios : Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures &nbsp; &mdash;&nbsp; Arva AI, which builds AI agents for banks' financial-crime compliance teams, has raised $20 million in S",
      "source": "Techmeme",
      "zh": "Arva AI, which builds AI agents for banks&apos; financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures (Ryan Lawler/Axios)"
-    },
-    {
-     "title": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线",
-     "link": "https://www.tmtpost.com/8214380.html",
-     "pubDate": "Mon, 23 Nov 2026 11:03:56 +0800",
-     "summary": "金融监管总局两司局“一把手”对调；互金协会通报两款银行App；商业银行总资产突破500万亿元；前三季度消费贷ABS同比下降18.85%；华夏银行董事会“换血”；平安系险资持有主动ETF近45%；云南省级农商行获批筹建；黔东南农商银行获批开业；平安银行400亿元二级资本债发行完毕；海南银行获批定向增资扩股；永诚财险总裁、副总裁同日被免职；蓝海银行回应3.30亿元助贷争议；广州拉卡拉小贷获准注销小贷资质；Visa携手连连数字完成亚太首笔基于支付标记的B2B智能体真实交易；ChatGPT Wallet上线；Apple Pay与Wallet业务线换帅；美国多家银行突发系统异常。",
-     "source": "钛媒体",
-     "zh": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线"
-    },
-    {
-     "title": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
-     "link": "https://www.tmtpost.com/8214114.html",
-     "pubDate": "Mon, 23 Nov 2026 10:52:46 +0800",
-     "summary": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
-     "source": "钛媒体",
-     "zh": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了"
-    },
-    {
-     "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
-     "link": "https://www.techmeme.com/261122/p17#a261122p17",
-     "pubDate": "Sun, 22 Nov 2026 21:35:00 -0500",
-     "summary": "Pritam Biswas / Reuters : TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B &nbsp; &mdash;&nbsp; Fintech firm BILL Holdings (BILL.N) said on Thursday it will be acquired by private equity group",
-     "source": "Techmeme",
-     "zh": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)"
-    },
-    {
-     "title": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
-     "link": "https://www.techmeme.com/261122/p16#a261122p16",
-     "pubDate": "Sun, 22 Nov 2026 20:45:00 -0500",
-     "summary": "Jessica Wachtel / The New Stack : GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &nbsp; &mdash;&nbsp; When I compared Anthropic's Fable 5.2 vs. OpenAI's GPT-6 Astra last week, Fable 5.2 ",
-     "source": "Techmeme",
-     "zh": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)"
     }
    ]
   },
@@ -2008,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji",
+     "link": "https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/",
+     "pubDate": "Mon, 23 Nov 2026 06:03:26 +0000",
+     "summary": "The numbers make more sense now.",
+     "source": "Android Authority",
+     "zh": "Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji"
+    },
     {
      "title": "GrapheneOS just built its own RCS messaging app that makes Google Messages unnecessary",
      "link": "https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/",
@@ -2239,14 +2263,6 @@
      "summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite iOS 27 features (other than Siri and AI). 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bl",
      "source": "9to5Mac",
      "zh": "iOS 27: My favorite new iPhone features (other than AI)"
-    },
-    {
-     "title": "Gemini app rolls out very slick camera redesign on Android",
-     "link": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
-     "pubDate": "Sat, 21 Nov 2026 20:52:52 +0000",
-     "summary": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts. more…",
-     "source": "9to5Google",
-     "zh": "Gemini app rolls out very slick camera redesign on Android"
     }
    ]
   },
@@ -2319,6 +2335,14 @@
      "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
      "source": "CNBC",
      "zh": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case"
+    },
+    {
+     "title": "The number of 401(k) millionaires drops amid stock-market swings",
+     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+     "pubDate": "Mon, 23 Nov 2026 05:01:00 GMT",
+     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+     "source": "MarketWatch",
+     "zh": "The number of 401(k) millionaires drops amid stock-market swings"
     },
     {
      "title": "The problem with the circular AI economy",
@@ -2487,14 +2511,6 @@
      "summary": "人形 机器人 板块11月23日早盘表现强势，板块中 安培龙 、 恒工精密 、 维宏股份 、 肇民科技 、 瑞芯微 、 浙江荣泰 等十多股涨停； 上纬新材 、 汉威科技 、 斯菱智驱 等涨超10%。 板块再迎利好政策 消息面上，国家发展改革委等四部门联合印发 《“一老一小”服务体系建设实施方案》 ，其中提到，推动养老机构配置智能健康监测、辅助器具等设备。鼓励发展适合养老场景的 人工智能 体、服务 机器人 、 智能穿戴 设备、外骨骼等新产品，支持在养老机构、社区等场景应用或设置体验区。 日前，工信部还发布了5项人形 机器人 国家标准，覆盖智能化能力评价、关键零部件、 人形机器人 训练三大方向，具体",
      "source": "东方财富资讯",
      "zh": "物理AI加速推进！人形机器人密集涨停 融资客最新抢筹这些股"
-    },
-    {
-     "title": "英伟达直线拉升！特朗普重磅表态：希望英伟达董事会重新聘用黄仁勋",
-     "link": "http://stock.eastmoney.com/news/11228,202611233937141665.html",
-     "pubDate": "Mon, 23 Nov 2026 12:02:55 +0800",
-     "summary": "北京时间11月23日，美股科技股夜盘继续走高，3倍做多 半导体 ETF-Direxion涨近15%， 英伟达 涨幅扩大至7%。 美股 台积电 夜盘涨超7.03%，现报341.1美元，总市值为1.77万亿美元。美股 SpaceX 夜盘涨超3.03%，现报131.66美元，总市值为1.79万亿美元。 此前，美国总统特朗普在社交平台Truth Social上发文称，希望 英伟达 董事会重新聘用黄仁勋，这对 英伟达 、对美国而言都将是最优选择。 相关报道 口风软化？贝森特暗示不反对黄仁勋重返英伟达 特朗普再次发声 关于英伟达前CEO黄仁勋回归的可能性，美国财长斯科特·贝森特的口风有变。与此同时，美国总",
-     "source": "东方财富资讯",
-     "zh": "英伟达直线拉升！特朗普重磅表态：希望英伟达董事会重新聘用黄仁勋"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 06:12:13",
+ "generated_at": "2026/11/24 06:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -39,6 +39,14 @@
      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
      "source": "TechCrunch AI",
      "zh": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+    },
+    {
+     "title": "OpenAI and Cisco introduce Shirudo",
+     "link": "https://openai.com/index/introducing-shirudo",
+     "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+     "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+     "source": "OpenAI",
+     "zh": "OpenAI and Cisco introduce Shirudo"
     },
     {
      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -239,14 +247,6 @@
      "summary": "阿福大升级：让模型像医生一样思考",
      "source": "量子位",
      "zh": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了"
-    },
-    {
-     "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-     "link": "https://www.qbitai.com/2026/11/512004.html",
-     "pubDate": "Mon, 23 Nov 2026 06:59:38 +0000",
-     "summary": "一个完全由AI组成的科学家社会，是什么样？",
-     "source": "量子位",
-     "zh": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了"
     }
    ]
   },
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Flying race cars take to the skies as Airspeeder partners with Advanced Navigation",
+     "link": "https://roboticsandautomationnews.com/2026/11/23/flying-race-cars-take-to-the-skies-as-airspeeder-partners-with-advanced-navigation/107551/",
+     "pubDate": "Mon, 23 Nov 2026 22:10:10 +0000",
+     "summary": "Motorsport is preparing to enter a new dimension as Airspeeder develops a racing series featuring electric flying cars capable of speeds exceeding 120 km/h, with pilots controlling their aircraft remotely using augmented reality technology. The company has named Australian navigation technology spec",
+     "source": "Robotics & Automation",
+     "zh": "Flying race cars take to the skies as Airspeeder partners with Advanced Navigation"
+    },
+    {
      "title": "Robotaxi market forecast to reach $179 billion by 2034, says Polaris Market Research",
      "link": "https://roboticsandautomationnews.com/2026/11/23/robotaxi-market-forecast-to-reach-179-billion-by-2034-says-polaris-market-research/107548/",
      "pubDate": "Mon, 23 Nov 2026 22:02:16 +0000",
@@ -551,14 +559,6 @@
      "summary": "Misumi Americas has announced the grand opening of its new 45,000 square feet facility in Monterrey, Mexico. More than quadrupling the size of its previous location, the facility expands Misumi Americas’ footprint in the region and introduces additional capabilities for in-house manufacturing and fu",
      "source": "Robotics & Automation",
      "zh": "Misumi Americas opens new manufacturing facility in Monterrey, Mexico"
-    },
-    {
-     "title": "Cosys warehouse robots automate spare parts delivery in automotive workshops",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/cosys-warehouse-robots-automate-spare-parts-delivery-in-automotive-workshops/107526/",
-     "pubDate": "Mon, 23 Nov 2026 19:17:13 +0000",
-     "summary": "A mechanic has already raised a vehicle on a lift when they discover that an additional replacement part is needed. The parts department is located at the opposite end of the building. The mechanic must interrupt the repair, collect the required component and return to the service bay. Meanwhile, th",
-     "source": "Robotics & Automation",
-     "zh": "Cosys warehouse robots automate spare parts delivery in automotive workshops"
     },
     {
      "title": "Special Report: Engineering Focus on Motion Control",
@@ -1177,14 +1177,6 @@
      "zh": "House committee issues final report on US-China biotech race"
     },
     {
-     "title": "Kymera eczema pill meets goals in mid-stage trial",
-     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
-     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
-     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
-     "source": "BioPharma Dive",
-     "zh": "Kymera eczema pill meets goals in mid-stage trial"
-    },
-    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1281,6 +1273,14 @@
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
     },
     {
+     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
+     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
+     "source": "BioPharma Dive",
+     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
+    },
+    {
      "title": "Genome Writing Inserts Human X-Linked Disease DNA Into Mice",
      "link": "https://www.genengnews.com/topics/genome-editing/genome-writing-inserts-human-x-linked-disease-dna-into-mice/",
      "pubDate": "Fri, 20 Nov 2026 12:03:02 +0000",
@@ -1296,6 +1296,22 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+     "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
+     "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
+     "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. PST (10:55 a.m. EST / 1555 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
+    },
+    {
+     "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+     "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
+     "pubDate": "Mon, 23 Nov 2026 22:14:49 +0000",
+     "summary": "The Leo Europe 4 mission will the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana is scheduled during a window that opens at 8:09 a.m. Kourou Time (6:09 a.m. EST / 1109 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch"
+    },
     {
      "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
      "link": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
@@ -1519,22 +1535,6 @@
      "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
      "source": "Payload",
      "zh": "HEO Unveils Insights Next SDA Tool"
-    },
-    {
-     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
-     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
-     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
-     "source": "SpaceNews",
-     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     }
    ]
   },
@@ -1544,6 +1544,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+     "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+     "pubDate": "Mon, 23 Nov 2026 22:02:46 GMT",
+     "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+     "source": "Dark Reading",
+     "zh": "Industrial Serial Gateways Broadcast That They're Insecure"
+    },
     {
      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
      "link": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
@@ -1737,14 +1745,6 @@
      "zh": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
     },
     {
-     "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-     "pubDate": "Fri, 20 Nov 2026 21:03:27 GMT",
-     "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-     "source": "Dark Reading",
-     "zh": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
-    },
-    {
      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
      "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
@@ -1767,14 +1767,6 @@
      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
      "source": "Ars Technica",
      "zh": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally"
-    },
-    {
-     "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-     "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-     "pubDate": "Mon, 23 Nov 2026 21:46:28 +0000",
-     "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-     "source": "WIRED",
-     "zh": "Nvidia Is Powering Brain-Computer Interfaces Now"
     },
     {
      "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
@@ -1820,7 +1812,7 @@
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "link": "https://www.bored.com/",
      "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 23 # Comments: 6",
      "source": "Hacker News",
      "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
     },
@@ -1828,9 +1820,17 @@
      "title": "The horse made the state",
      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
      "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
-     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 25 # Comments: 24",
+     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 34 # Comments: 30",
      "source": "Hacker News",
      "zh": "The horse made the state"
+    },
+    {
+     "title": "GPUI is getting its own repository",
+     "link": "https://github.com/zed-industries/gpui",
+     "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GPUI is getting its own repository"
     },
     {
      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
@@ -1900,7 +1900,7 @@
      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
      "link": "https://arm.jonpalmisc.com/",
      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 629 # Comments: 122",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 647 # Comments: 125",
      "source": "Hacker News",
      "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
     },
@@ -1916,7 +1916,7 @@
      "title": "Apple removed my open-source app from EU App Stores after 9 years",
      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
      "pubDate": "Mon, 23 Nov 2026 18:48:10 +0000",
-     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 379 # Comments: 77",
+     "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 393 # Comments: 79",
      "source": "Hacker News",
      "zh": "Apple removed my open-source app from EU App Stores after 9 years"
     },
@@ -1948,17 +1948,9 @@
      "title": "How should an LLM see a computer?",
      "link": "https://www.greptile.com/blog/trex-computer-use",
      "pubDate": "Mon, 23 Nov 2026 17:19:25 +0000",
-     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 33 # Comments: 19",
+     "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 35 # Comments: 19",
      "source": "Hacker News",
      "zh": "How should an LLM see a computer?"
-    },
-    {
-     "title": "Kagi Mail (public beta)",
-     "link": "https://blog.kagi.com/kagi-mail-public-beta",
-     "pubDate": "Mon, 23 Nov 2026 17:17:01 +0000",
-     "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 272 # Comments: 212",
-     "source": "Hacker News",
-     "zh": "Kagi Mail (public beta)"
     },
     {
      "title": "黄仁勋回来了，但英伟达多了几道规矩",
@@ -1999,6 +1991,14 @@
      "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
      "source": "Solidot",
      "zh": "CachyOS 支持 Easy Anti-Cheat v2"
+    },
+    {
+     "title": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开",
+     "link": "https://www.ithome.com/1/031/230.htm",
+     "pubDate": "Mon, 23 Nov 2026 15:32:15 GMT",
+     "summary": "IT之家 11 月 23 日消息，距离《暗黑破坏神 5》（Diablo 5）正式发售至少还有三年，但暴雪已经陆续公布了这款新作的一些令人期待的信息。在最近一届暴雪嘉年华（BlizzCon）上，《暗黑破坏神 5》作为重磅消息之一正式亮相。 在《暗黑破坏神 5》推出之前，《暗黑破坏神 4》仍将持续获得重要更新。不过，随着新作逐渐接近发售，暴雪最终很可能会将更多资源转向续作，逐步减少对旧作的投入。 考虑到未来几年硬件平台的更新节奏，《暗黑破坏神 5》很可能登陆新一代游戏平台，为玩家带来明显升级的《暗黑破坏神》体验。暴雪预计还会在 2029 年计划发售之前陆续公布更多消息，目前已经披露的信息就包括以下",
+     "source": "IT之家",
+     "zh": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google Search AI Mode adds Wallet Personal Intelligence, with Drive and Gemini coming soon",
+     "link": "https://www.androidauthority.com/personal-intelligence-ai-mode-3738563/",
+     "pubDate": "Mon, 23 Nov 2026 22:17:15 +0000",
+     "summary": "Google Drive and Gemini connections hit AI Mode in the next few weeks.",
+     "source": "Android Authority",
+     "zh": "Google Search AI Mode adds Wallet Personal Intelligence, with Drive and Gemini coming soon"
+    },
+    {
+     "title": "Claude rolling out updated Android app with Material 3 Expressive redesign",
+     "link": "https://9to5google.com/2026/11/23/claude-android-material-3-update/",
+     "pubDate": "Mon, 23 Nov 2026 22:15:00 +0000",
+     "summary": "Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign. more…",
+     "source": "9to5Google",
+     "zh": "Claude rolling out updated Android app with Material 3 Expressive redesign"
+    },
     {
      "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
      "link": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
@@ -2185,28 +2201,12 @@
      "zh": "Anthropic softens its data retention policy for Mythos and Fable model use"
     },
     {
-     "title": "TCL’s Picture Frame TVs with Google TV are up to $800 off this week",
-     "link": "https://9to5google.com/2026/11/23/tcls-picture-frame-tvs-with-google-tv-are-up-to-800-off-this-week/",
-     "pubDate": "Mon, 23 Nov 2026 19:55:00 +0000",
-     "summary": "Get a gorgeous new TCL Designer Series Picture Frame TV with Google TV built-in for as low as $649.99 during the company’s Black Friday week sales. more…",
-     "source": "9to5Google",
-     "zh": "TCL’s Picture Frame TVs with Google TV are up to $800 off this week"
-    },
-    {
      "title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
      "link": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
      "pubDate": "Mon, 23 Nov 2026 19:47:27 +0000",
      "summary": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO.",
      "source": "Engadget",
      "zh": "NVIDIA's Jensen Huang will testify publicly before senators on December 3"
-    },
-    {
-     "title": "Circle to Search might drop its floating bar in favor of a new screen-bottom sheet",
-     "link": "https://www.androidauthority.com/circle-search-new-sheet-ui-3738419/",
-     "pubDate": "Mon, 23 Nov 2026 19:27:53 +0000",
-     "summary": "Google isn’t done with Circle to Search just yet.",
-     "source": "Android Authority",
-     "zh": "Circle to Search might drop its floating bar in favor of a new screen-bottom sheet"
     },
     {
      "title": "Here's when the vivo S70 series will become official",
@@ -2257,12 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-     "pubDate": "Mon, 23 Nov 2026 22:07:50 GMT",
-     "summary": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-     "source": "CNBC",
-     "zh": "What Jensen Huang’s return means for Nvidia’s Colette Kress"
+     "title": "美联储“三把手”：通胀仍未达标，需逐步采取行动",
+     "link": "https://wallstreetcn.com/articles/3786554",
+     "pubDate": "Tue, 24 Nov 2026 06:28:18 +0800",
+     "summary": "美联储仍面临通胀压力，政策收紧路径尚未走完。 纽约联储主席John Williams周一表示， 美联储在实现2%通胀目标的道路上\"仍有工作要做\"，并强调官员必须“随时间推移采取行动”以确保通胀在合理时间内得到持续控制。 与此同时，市场已基本消化12月加息预期，并预计明年1月将跟进一次加息。 在通胀前景上，Williams指出， 自上次议息会议以来的数据显示经济保持强劲，通胀持续偏高。他预计整体通胀今年将达3.5%，此后逐步回落，并于2028年才能回归2%目标。 本周三，10月个人消费支出（PCE）价格指数将公布，这是美联储更为倚重的通胀参考指标，届时将为12月决策提供更多依据。 12月加息在即",
+     "source": "华尔街见闻",
+     "zh": "美联储“三把手”：通胀仍未达标，需逐步采取行动"
+    },
+    {
+     "title": "利比亚输油管道重启叠加中东供应回升，布油收跌3.5%至三个月低点",
+     "link": "https://wallstreetcn.com/articles/3786553",
+     "pubDate": "Tue, 24 Nov 2026 06:27:36 +0800",
+     "summary": "国际油价周一大幅下挫逾3%，创三个月以来最低收盘位。利比亚主要输油管道恢复运营、中东地区供应持续增加，共同压制油价，地缘局势引发的供应中断担忧未能提供有效支撑。 据路透社， 利比亚国家石油公司董事长周一表示，该国Sharara输油管道已恢复运营，原油开始流入扎维耶Akakus设施的储油罐。与此同时，摩根大通预计，受供应过剩格局影响，布油期货将在2027年上半年回落至70美元高位区间。 尽管伊朗支持的胡塞武装周日宣称对沙特阿拉伯一处炼油厂发动了袭击，巴林方面也报告遭伊朗袭击， 但市场对地缘风险溢价的定价正在降温。 IG首席市场分析师Chris Beauchamp表示，\"供应过剩的迹象正在累积，而",
+     "source": "华尔街见闻",
+     "zh": "利比亚输油管道重启叠加中东供应回升，布油收跌3.5%至三个月低点"
+    },
+    {
+     "title": "Alphabet rises 6% as broad market rally lifts shares",
+     "link": "https://seekingalpha.com/news/4675930-alphabet-rises-6-percent-as-broad-market-rally-lifts-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:23:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alphabet rises 6% as broad market rally lifts shares"
+    },
+    {
+     "title": "Frontier Nuclear receives Nasdaq non-compliance notice over late annual filing",
+     "link": "https://seekingalpha.com/news/4675943-frontier-nuclear-receives-nasdaq-non-compliance-notice-over-late-annual-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:23:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Frontier Nuclear receives Nasdaq non-compliance notice over late annual filing"
+    },
+    {
+     "title": "HYLQ Strategy to rebrand as Tony G Corp., appoints new chairman",
+     "link": "https://seekingalpha.com/news/4675942-hylq-strategy-to-rebrand-as-tony-g-corp-appoints-new-chairman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:19:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HYLQ Strategy to rebrand as Tony G Corp., appoints new chairman"
+    },
+    {
+     "title": "AbbVie's Rinvoq gains approval for nonsegmental vitiligo",
+     "link": "https://seekingalpha.com/news/4675937-abbvies-rinvoq-gains-approval-for-nonsegmental-vitiligo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:17:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AbbVie's Rinvoq gains approval for nonsegmental vitiligo"
+    },
+    {
+     "title": "Linamar to acquire Terex's Genie business for $1.4B",
+     "link": "https://seekingalpha.com/news/4675941-linamar-to-acquire-terexs-genie-business-for-1_4b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:16:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Linamar to acquire Terex's Genie business for $1.4B"
+    },
+    {
+     "title": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $98.61M beats by $2.82M",
+     "link": "https://seekingalpha.com/news/4675940-tuya-non-gaap-epads-of-003-in-line-revenue-of-9861m-beats-by-282m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 17:14:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tuya Non-GAAP EPADS of $0.03 in-line, revenue of $98.61M beats by $2.82M"
     },
     {
      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
@@ -2271,22 +2327,6 @@
      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
      "source": "MarketWatch",
      "zh": "Nvidia’s stock is surging again. What to know before chasing the AI rally."
-    },
-    {
-     "title": "Simon Property Group launches $1B long-term senior notes offering",
-     "link": "https://seekingalpha.com/news/4675936-simon-property-group-launches-1b-long-term-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 17:00:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Simon Property Group launches $1B long-term senior notes offering"
-    },
-    {
-     "title": "Kymera Therapeutics announces $1.5B public offering of common stock",
-     "link": "https://seekingalpha.com/news/4675934-kymera-therapeutics-announces-1_5b-public-offering-of-common-stock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:58:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kymera Therapeutics announces $1.5B public offering of common stock"
     },
     {
      "title": "Meta Platforms诉讼期间暂停发行C类普通股 扎克伯格同意豁免股息支付期限要求",
@@ -2321,14 +2361,6 @@
      "zh": "读懂用户为何选择你"
     },
     {
-     "title": "Townsquare Media jumps after board rejects $2.03/share takeover offer",
-     "link": "https://seekingalpha.com/news/4675918-townsquare-media-jumps-after-board-rejects-203share-takeover-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:54:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Townsquare Media jumps after board rejects $2.03/share takeover offer"
-    },
-    {
      "title": "国际金价涨超2.6% 美股开盘时逼近3700美元",
      "link": "http://finance.eastmoney.com/news/1351,202611243937763333.html",
      "pubDate": "Tue, 24 Nov 2026 05:54:07 +0800",
@@ -2345,36 +2377,12 @@
      "zh": "慧与科技2026财年Q4营收145亿美元"
     },
     {
-     "title": "Ready Capital approves 1-for-10 reverse stock split",
-     "link": "https://seekingalpha.com/news/4675925-ready-capital-approves-1-forminus-10-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:52:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ready Capital approves 1-for-10 reverse stock split"
-    },
-    {
-     "title": "GMEX Robotics announces 1-for-19 share consolidation; shares down",
-     "link": "https://seekingalpha.com/news/4675933-gmex-robotics-announces-1-for-19-share-consolidation-shares-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:52:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GMEX Robotics announces 1-for-19 share consolidation; shares down"
-    },
-    {
      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
      "pubDate": "Mon, 23 Nov 2026 21:51:00 GMT",
      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
      "source": "MarketWatch",
      "zh": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm"
-    },
-    {
-     "title": "Fed's watchdog investigates whether Bowman violated communications rules - report",
-     "link": "https://seekingalpha.com/news/4675896-feds-watchdog-investigates-whether-bowman-violated-communications-rules---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 16:49:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fed's watchdog investigates whether Bowman violated communications rules - report"
     },
     {
      "title": "时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2",
@@ -2487,14 +2495,6 @@
      "summary": "英伟达首席执行官黄仁勋戏剧性地重掌帅印，在辞职数日震动人工智能界及整个金融市场后上演了惊天大逆转，这也让他跻身于寥寥无几的“回旋镖”CEO（指离职后重返原职的首席执行官）行列。 尽管美国企业界在危机时刻召回创始人及前任掌门人的历史由来已久——从苹果公司（AAPL.O）的史蒂夫·乔布斯到迪士尼（DIS.N）的鲍勃·艾格——但因个人不当行为引发全面监管审查后还能东山再起的情况却十分罕见。 在美国总统唐纳德·特朗普呼吁黄仁勋回归后，英伟达于周一宣布了这一非同寻常的反转决定。受此消息提振，英伟达股价一度暴涨35%，并带动华尔街股市全线上扬。 以下是部分在卸任后重夺最高职位的企业掌门人： OPENAI ",
      "source": "华尔街见闻",
      "zh": "黄仁勋戏剧性重掌英伟达，跻身美国企业界“回旋镖”CEO名单"
-    },
-    {
-     "title": "Adyen co-CEO van der Does retires",
-     "link": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 23 Nov 2026 20:32:00 GMT",
-     "summary": "The co-founder and co-CEO of Dutch payments processor Adyen, Pieter van der Does, is retiring, with his co-chief Ingo Uytdehaage taking sole control.",
-     "source": "Finextra",
-     "zh": "Adyen co-CEO van der Does retires"
     }
    ]
   },
@@ -2504,6 +2504,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?",
+     "link": "https://www.livescience.com/archaeology/gold-weapons-or-a-rosetta-stone-which-archaeological-treasure-would-you-most-like-to-discover",
+     "pubDate": "Mon, 23 Nov 2026 22:20:38 +0000",
+     "summary": "From ancient coins to long-lost texts, archaeologists uncovered countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
+     "source": "Live Science",
+     "zh": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?"
+    },
     {
      "title": "Many languages, one common neural code",
      "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
@@ -2663,14 +2671,6 @@
      "summary": "Archaeologists discovered a stash of Celtic coins ahead of a construction project for an electrical substation in Hungary.",
      "source": "Live Science",
      "zh": "2,200-year-old Celtic silver coin hoard unearthed at construction site in Hungary"
-    },
-    {
-     "title": "Black holes can spin so fast they rip in half 'like pants', study finds",
-     "link": "https://www.livescience.com/space/black-holes/black-holes-can-split-apart-like-pants-if-they-spin-too-fast-astrophysics-study-hints",
-     "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
-     "summary": "Astrophysicists have dared to ask a cosmological question never asked before: Do black holes \"wear pants\"? New research shows how fast-spinning black holes may split apart.",
-     "source": "Live Science",
-     "zh": "Black holes can spin so fast they rip in half 'like pants', study finds"
     },
     {
      "title": "“Race realism” isn’t realistic—and it isn’t good science",

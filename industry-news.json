@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 02:32:10",
+ "generated_at": "2026/11/24 02:39:51",
  "recent_days": 7,
  "industries": [
   {
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tesla's EVs Could Get One Big Upgrade Next Year",
+     "link": "https://insideevs.com/news/816501/tesla-starlink-unsupervised-fsd/",
+     "pubDate": "Mon, 23 Nov 2026 18:32:07 +0000",
+     "summary": "Tesla already filed a patent for a built-in Starlink antenna. But now the CEO is talking about it publicly.",
+     "source": "InsideEVs",
+     "zh": "Tesla's EVs Could Get One Big Upgrade Next Year"
+    },
+    {
      "title": "BYD Ti7 banned from the EU for copying the Land Rover Defender’s design",
      "link": "https://electrek.co/2026/11/23/byd-ti7-banned-eu-land-rover-defender-design/",
      "pubDate": "Mon, 23 Nov 2026 17:18:26 +0000",
@@ -801,14 +809,6 @@
      "zh": "TechCrunch Mobility: A/B testing robots vs. humans"
     },
     {
-     "title": "The U.S. Let Volvo Keep Selling Cars. Polestar Got A No. What About Mercedes?",
-     "link": "https://insideevs.com/news/816281/mercedes-chinese-ownership-us-sales/",
-     "pubDate": "Sun, 22 Nov 2026 13:00:00 +0000",
-     "summary": "China ties got Polestar banned in the U.S., and Mercedes-Benz is 20% Chinese-owned, but lawmakers may make an exception.",
-     "source": "InsideEVs",
-     "zh": "The U.S. Let Volvo Keep Selling Cars. Polestar Got A No. What About Mercedes?"
-    },
-    {
      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
      "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
      "pubDate": "Thu, 19 Nov 2026 21:33:24 +0000",
@@ -848,6 +848,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Pakistan and Iran Move to Boost Energy Cooperation",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
+     "pubDate": "Mon, 23 Nov 2026 12:30:00 -0600",
+     "summary": "Pakistan and Iran are nearing the creation of a joint working group to boost energy cooperation, with a focus on electricity supply and electricity transmission projects, Pakistani outlet Business Recorder reported on Monday, quoting sources with knowledge of the matter. The two allies are doing pre",
+     "source": "OilPrice",
+     "zh": "Pakistan and Iran Move to Boost Energy Cooperation"
+    },
     {
      "title": "Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO",
      "link": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
@@ -943,14 +951,6 @@
      "summary": "The Republican Party’s loss of its majority in the Senate and the House of Representatives in the 2026 U.S. midterm elections has left President Donald Trump constrained in what he is able to achieve domestically. However, internationally, he is not so shackled. He needs no congressional approval to",
      "source": "OilPrice",
      "zh": "What Is Trump Up To Bombing Iran’s Qeshm Island?"
-    },
-    {
-     "title": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Slides-Nearly-4-as-Returning-Supply-Outweighs-Gulf-Attacks.html",
-     "pubDate": "Mon, 23 Nov 2026 09:51:00 -0600",
-     "summary": "Crude prices deepened their slide on Monday even as Wall Street rallied on Nvidia's reinstatement of chief executive Jensen Huang, with West Texas Intermediate (WTI) trading at its weakest level since late August. At 10:29 a.m. ET, WTI was down 3.5% at $80.50 per barrel, Brent was down 3.6% at 89.23",
-     "source": "OilPrice",
-     "zh": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks"
     },
     {
      "title": "SunPower launches 522W HJT solar panel, Q3 revenue rises",
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Optum Rx CEO bets people are ready to shop for their prescriptions",
+     "link": "https://endpoints.news/optum-rx-ceo-bets-people-are-ready-to-shop-for-their-prescriptions/",
+     "pubDate": "Mon, 23 Nov 2026 18:30:25 +0000",
+     "summary": "UnitedHealth Group’s Optum Rx is getting ready for a world in which more consumers shop around for their healthcare. That might include using personal AI agents to help them find the best prices. “I believe ...",
+     "source": "Endpoints News",
+     "zh": "Optum Rx CEO bets people are ready to shop for their prescriptions"
+    },
+    {
      "title": "Healthcare spending on AI surpasses other sectors, report says",
      "link": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
      "pubDate": "Mon, 23 Nov 2026 18:05:58 +0000",
@@ -1175,14 +1183,6 @@
      "summary": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?",
      "source": "STAT News",
      "zh": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest"
-    },
-    {
-     "title": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis",
-     "link": "https://endpoints.news/kymeras-stat6-degrader-clears-mid-stage-test-in-atopic-dermatitis/",
-     "pubDate": "Mon, 23 Nov 2026 12:00:56 +0000",
-     "summary": "Kymera Therapeutics is planning to test its oral eczema drug in a Phase 3 trial next year after the drug breezed past Wall Street’s bar for success in a mid-stage study. In the primary endpoint ...",
-     "source": "Endpoints News",
-     "zh": "Kymera’s STAT6 degrader clears mid-stage test in atopic dermatitis"
     },
     {
      "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
@@ -1769,6 +1769,14 @@
      "zh": "AWS CEO Matt Garman says AI safety can&apos;t rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)"
     },
     {
+     "title": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止",
+     "link": "https://www.ithome.com/1/031/235.htm",
+     "pubDate": "Mon, 23 Nov 2026 18:20:30 GMT",
+     "summary": "IT之家 11 月 24 日消息，Valve 正式开启 2026 年 Steam 大奖（Steam Awards）提名通道。本届大奖恰逢活动诞生十周年，官方在常规评选基础上增设了多项特别奖项，提名阶段将持续至太平洋时间 11 月 30 日上午 10 点（北京时间 12 月 1 日凌晨 2 点）。 IT之家附 Steam 官方提名页面链接（ https://store.steampowered.com/steamawards/nominations/2026 ）。 为庆祝十周年，Valve 从往届经典奖项中回顾并带回了三项具有玩家情怀的评选类别： 「再玩五分钟」（Just 5 More Minu",
+     "source": "IT之家",
+     "zh": "2026 年 Steam 大奖提名开启：十周年新增「名人堂」特别奖项，11 月 30 日截止"
+    },
+    {
      "title": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)",
      "link": "https://www.techmeme.com/261123/p34#a261123p34",
      "pubDate": "Mon, 23 Nov 2026 13:10:01 -0500",
@@ -1985,14 +1993,6 @@
      "zh": "英伟达恢复黄仁勋 CEO 职务，马斯克称“错误已更正”"
     },
     {
-     "title": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功",
-     "link": "https://www.ithome.com/1/031/216.htm",
-     "pubDate": "Mon, 23 Nov 2026 14:41:11 GMT",
-     "summary": "IT之家 11 月 23 日消息，英伟达今日宣布， 即日起恢复黄仁勋（Jensen Huang）总裁兼首席执行官及董事会成员职务 。英伟达表示，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。 IT之家注意到，美国总统唐纳德 · 特朗普随后发文向黄仁勋表示祝贺，称英伟达董事会作出了正确的决定，将黄仁勋重新任命为 CEO。 美国需要黄仁勋的领导才能确保公司以及整个美国经济的繁荣与成功 。 IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的",
-     "source": "IT之家",
-     "zh": "特朗普祝贺黄仁勋重返英伟达：美国需要其领导才能确保公司以及整个美国经济的繁荣与成功"
-    },
-    {
      "title": "英伟达重新任命黄仁勋为 CEO",
      "link": "https://www.solidot.org/story?sid=85969",
      "pubDate": "Mon, 23 Nov 2026 22:30:59 +0800",
@@ -2015,6 +2015,14 @@
      "summary": "Reto's Kodak-branded tracker helps you find your keys while showing off your favorite photo in a retro slide-style frame.",
      "source": "DPReview",
      "zh": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display"
+    },
+    {
+     "title": "Uber now lets riders request drivers who are recording their trips",
+     "link": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/",
+     "pubDate": "Mon, 23 Nov 2026 18:24:49 +0000",
+     "summary": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St. Louis first.",
+     "source": "Engadget",
+     "zh": "Uber now lets riders request drivers who are recording their trips"
     },
     {
      "title": "Google Meet unlocks 1080p video streaming for all accounts on web",
@@ -2169,14 +2177,6 @@
      "zh": "Chromecast with Google TV gets first update of 2026 [U: Wide rollout]"
     },
     {
-     "title": "The pros and cons of wearing your Fitbit around your ankle",
-     "link": "https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/",
-     "pubDate": "Mon, 23 Nov 2026 16:45:00 +0000",
-     "summary": "Wearing a Fitbit around your ankle can improve monitoring and accuracy. But are there any downsides? How does a Fitbit on your wrist compare to your ankle?",
-     "source": "Engadget",
-     "zh": "The pros and cons of wearing your Fitbit around your ankle"
-    },
-    {
      "title": "Black Friday deals: New Android Alexa Tablets from $130, Echo smart speakers up to 60% off, Anker charger sale, more",
      "link": "https://9to5google.com/2026/11/23/black-friday-deals-android-alexa-tablets-echo-anker/",
      "pubDate": "Mon, 23 Nov 2026 16:36:34 +0000",
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Cadeler outlines 2026 revenue of $910M-$1B while integrating Menck and managing vessel downtime",
+     "link": "https://seekingalpha.com/news/4675756-cadeler-outlines-2026-revenue-of-910m-1b-while-integrating-menck-and-managing-vessel-downtime?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 13:35:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cadeler outlines 2026 revenue of $910M-$1B while integrating Menck and managing vessel downtime"
+    },
+    {
+     "title": "Jefferies thinks Ralph Lauren is poised for more gains",
+     "link": "https://seekingalpha.com/news/4675754-jefferies-thinks-ralph-lauren-is-poised-for-more-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 13:30:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jefferies thinks Ralph Lauren is poised for more gains"
+    },
+    {
      "title": "Mark Walters owns larger Guggenheim stake than previously reported - report",
      "link": "https://seekingalpha.com/news/4675750-mark-walters-owns-larger-guggenheim-stake-than-previously-reported-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 13:17:39 -0500",
@@ -2271,14 +2287,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Pershing Square Holdings adopts new dividend policy, plans $0.1667 monthly payout"
-    },
-    {
-     "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
-     "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 18:14:00 GMT",
-     "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
-     "source": "MarketWatch",
-     "zh": "See how much more money the richest Americans are spending on the holidays compared to everyone else"
     },
     {
      "title": "Power at the pump: Costco opens its largest gas station ever",
@@ -2313,52 +2321,12 @@
      "zh": "黄仁勋回归点燃科技债反弹，全球信用风险指标大幅回落"
     },
     {
-     "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
-     "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 17:54:00 GMT",
-     "summary": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
-     "source": "MarketWatch",
-     "zh": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday"
-    },
-    {
      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
      "pubDate": "Mon, 23 Nov 2026 17:50:30 GMT",
      "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
      "source": "CNBC",
      "zh": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks"
-    },
-    {
-     "title": "Capricor plummets 75% on second FDA rejection of deramiocel",
-     "link": "https://seekingalpha.com/news/4675691-capricor-plummets-75-percent-second-fda-rejection-deramiocel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:42:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Capricor plummets 75% on second FDA rejection of deramiocel"
-    },
-    {
-     "title": "Marvell target lowered at Susquehanna ahead of earnings",
-     "link": "https://seekingalpha.com/news/4675740-marvell-target-lowered-at-susquehanna-ahead-of-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 12:40:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marvell target lowered at Susquehanna ahead of earnings"
-    },
-    {
-     "title": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
-     "link": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 17:37:00 GMT",
-     "summary": "Maybe artificial intelligence will end up destroying lots of jobs, but the new technology might be creating more work in the short run.",
-     "source": "MarketWatch",
-     "zh": "More AI jobs are coming. That’s one of the big hiring trends in 2027."
-    },
-    {
-     "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 17:30:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?"
     },
     {
      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
@@ -2385,14 +2353,6 @@
      "zh": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang"
     },
     {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 17:15:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
      "title": "Huang’s return is a triumph of money over morals",
      "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
      "pubDate": "Mon, 23 Nov 2026 16:51:47 GMT",
@@ -2407,14 +2367,6 @@
      "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
      "source": "CNBC",
      "zh": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims"
-    },
-    {
-     "title": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last.",
-     "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 16:44:00 GMT",
-     "summary": "Investors still have plenty of other problems to worry about.",
-     "source": "MarketWatch",
-     "zh": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last."
     },
     {
      "title": "Nvidia and Nasdaq soar after board reinstates Huang",
@@ -2495,6 +2447,54 @@
      "summary": "AI基础设施建设浪潮持续重塑全球内存半导体格局。 据韩国《经济论坛》援引行业消息人士报道， 三星电子2027年至2029年间的内存制造产能大部分已通过合同锁定，部分客户甚至寻求将长期供应协议延伸至2031年。这意味着全球最大内存制造商的产能或将被提前预定长达五年。 这一局面折射出当前市场的供需严峻程度。 行业消息人士估计，领先内存制造商目前仅能满足客户约60%至70%的需求，而供应紧张态势可能在2027年进一步加剧。 三星此前已确认，其2027年高带宽内存（HBM）供应已全部售罄，行业消息人士进一步指出，2027年传统DRAM晶圆产能同样已基本耗尽。 对投资者而言，上述动态表明AI驱动的内存需",
      "source": "华尔街见闻",
      "zh": "报道：三星未来三年存储产能接近售罄，客户抢长约至2031年"
+    },
+    {
+     "title": "美国11月商业活动增速降至四个月低点，供应链瓶颈与成本压力持续",
+     "link": "https://wallstreetcn.com/articles/3786539",
+     "pubDate": "Tue, 24 Nov 2026 00:04:59 +0800",
+     "summary": "美国商业活动扩张势头在11月明显降温，高物价、运输延误与供应瓶颈共同拖累制造业与服务业表现，尽管整体仍处于扩张区间。 周一，标普全球数据显示， 11月美国综合采购经理人指数（PMI）初值较上月下降1.3个百分点至54.6，为近四个月低位。制造业分项指数滑落至54.5，创三个月新低；服务业活动指数同样回落至四个月低位。 11月供应链压力明显恶化。 据标普全球援引全球贸易扰动与运输延误因素，制造商供应商交货时间延长幅度为2022年以来最大。反映需求状况的新订单分项指数扩张步伐亦降至7月以来最慢水平，显示终端需求动能有所减弱。 从需求侧看，强劲的消费者支出、人工智能相关投资以及国防开支，为美国企业提",
+     "source": "华尔街见闻",
+     "zh": "美国11月商业活动增速降至四个月低点，供应链瓶颈与成本压力持续"
+    },
+    {
+     "title": "美股科技大反攻！黄仁勋回归，英伟达暴涨35%，纳指涨8%，布油失守90美元",
+     "link": "https://wallstreetcn.com/articles/3786472",
+     "pubDate": "Mon, 23 Nov 2026 23:48:08 +0800",
+     "summary": "黄仁勋回归，市场风险偏好回升，带动美股大反弹。此前，AI交易遭遇集中抛售，拖累标普500指数进入回调区间。与此同时，国际油价持续走低，布伦特原油日内跌幅达3%。 周一，美股盘中，标普500指数涨幅扩大至5.5%，道指涨3.3%，纳指涨7.6%，纳斯达克100指数涨7.9%，半导体指数涨14.3%。美股费城半导体指数一度涨15.3%，有望创2025年3月以来最单日涨幅。 个股方面，英伟达涨幅扩大至35%，市值有望（单日）增超1万亿美元。Nebius集团涨33.5%，CoreWeave涨28%，Lumentum涨21.8%，闪迪、希捷科技、SK海力士ADR、台积电、美光、英特尔、阿斯麦至多涨23.",
+     "source": "华尔街见闻",
+     "zh": "美股科技大反攻！黄仁勋回归，英伟达暴涨35%，纳指涨8%，布油失守90美元"
+    },
+    {
+     "title": "Nvidia reinstates Jensen Huang as chief executive",
+     "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+     "pubDate": "Mon, 23 Nov 2026 15:43:06 GMT",
+     "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
+     "source": "Financial Times",
+     "zh": "Nvidia reinstates Jensen Huang as chief executive"
+    },
+    {
+     "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+     "link": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 23 Nov 2026 15:39:00 GMT",
+     "summary": "Cross-border payments firm Payoneer has received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
+     "source": "Finextra",
+     "zh": "Payoneer scores preliminarily OCC approval for stablecoin bank"
+    },
+    {
+     "title": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO",
+     "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+     "pubDate": "Mon, 23 Nov 2026 15:36:12 GMT",
+     "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+     "source": "CNBC",
+     "zh": "Tech stocks rally after Nvidia board approves Jensen Huang&apos;s return as CEO"
+    },
+    {
+     "title": "Stablecoin FX platform Codex raises $30m",
+     "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 23 Nov 2026 15:21:00 GMT",
+     "summary": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
+     "source": "Finextra",
+     "zh": "Stablecoin FX platform Codex raises $30m"
     }
    ]
   },

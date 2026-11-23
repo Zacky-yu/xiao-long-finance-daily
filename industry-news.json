@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 08:31:58",
+ "generated_at": "2026/11/23 08:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
+    },
+    {
      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -1409,6 +1417,14 @@
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1447,6 +1463,14 @@
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
+    },
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1489,6 +1513,14 @@
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1519,22 +1551,6 @@
      "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Origami and solar arrays"
-    },
-    {
-     "title": "Exclusive: Inflection Space Systems Books First Orbital Mission",
-     "link": "https://payloadspace.com/exclusive-inflection-space-systems-books-first-orbital-mission/",
-     "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-     "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1761,6 +1777,46 @@
    "total": 18,
    "items": [
     {
+     "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261122/p14#a261122p14",
+     "pubDate": "Sun, 22 Nov 2026 19:45:01 -0500",
+     "summary": "Wall Street Journal : A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness &nbsp; &mdash;&nbsp; Dario and Daniela Amodei were on top of the biggest IPO ever Thursday-and a market rout one day lat",
+     "source": "Techmeme",
+     "zh": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)"
+    },
+    {
+     "title": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值",
+     "link": "https://www.huxiu.com/article/4907584.html?f=rss",
+     "pubDate": "Mon, 23 Nov 2026 08:36:39 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：张文曦，编辑：詹腾宇 被许多年轻人信任的“求职陪跑”，卖的实际上是信息差与焦虑。保offer、大厂直通资格、有效修改简历的承诺背后，是大量并不成功的案例甚至骗局。一份好工作，并不能简单地通过购买或者交易得来。 11月，秋招黄金时期的尾声，有人早早上岸，有人还在不确定的状态中漂浮。大部分企业的校招通道已经关闭，对还没有等来好结果的应届生来说，一个名叫“求职陪跑”服务，开始频繁、精准地出现在他们的视野里。 所谓“求职陪跑”，指的是一种全流程式的求职辅导服务，包括梳理求职方向、包装简历、模拟面试等，收费从几百元单次咨询到3000–3万元全程套餐不等，甚至还有数万",
+     "source": "虎嗅",
+     "zh": "花1万2买“求职陪跑”的秋招年轻人，只买到了情绪价值"
+    },
+    {
+     "title": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万",
+     "link": "https://www.ithome.com/1/030/737.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:36:24 GMT",
+     "summary": "IT之家 11 月 23 日消息，GTATracker 汇总的数据显示，11 月 22 日，《GTA 5》增强版、传承版和在线模式在 Steam 的同时在线总人数超过 23.9 万， 约为当月部分繁忙日期的两倍 。 《GTA 5》正在迎来第二春，Steam 玩家数量反映了其获得的新支持。增强版和经典版的人气甚至超过了《GTA 6》发布前。虽然同时在线玩家峰值并未达到 36 万 761 人的历史最高纪录，但正呈上升趋势。 尽管《GTA 6》销量创下历史新高，但许多 PC 玩家并没有转投 Xbox 或 PS5 主机平台，而是重新回到《GTA 5》。需要注意的是，该追踪器并未将使用 Epic 或 R",
+     "source": "IT之家",
+     "zh": "《GTA6》发售后，《GTA5》PC Steam 在线人数翻倍至 23.9 万"
+    },
+    {
+     "title": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定",
+     "link": "https://www.ithome.com/1/030/736.htm",
+     "pubDate": "Mon, 23 Nov 2026 00:34:15 GMT",
+     "summary": "IT之家 11 月 23 日消息，哔哩哔哩在 2026~2027 年国创动画作品发布会上宣布，将与六道无鱼动画工作室再次合作，把《雾山五行》第三季最终季改编为院线电影《雾山五行 · 封界大战》，并首次公布预告片。 《雾山五行》剧集第一季豆瓣评分 8.7，第二季升至 9.2。此次电影承接第二季后续剧情，封界危机降临，群妖破山而出，闻人翊悬为守护雾山与苍生迎战群妖。六道无鱼同时担任出品与制作方，林魂继续执导。 林魂在预告发布后通过社交账号逐条回应了观众关切。他确认影版故事承接第二篇后续，第三篇的架构“花了不少时间做了些调整”，为了大银幕的观影体验“必然会有一些取舍”。首支预告中未展示其他五行使者的",
+     "source": "IT之家",
+     "zh": "《雾山五行 · 封界大战》院线电影公开：坚持手绘，档期待定"
+    },
+    {
+     "title": "Sources: Alice Huang was in touch with an officer of China&apos;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
+     "link": "https://www.techmeme.com/261122/p13#a261122p13",
+     "pubDate": "Sun, 22 Nov 2026 19:30:02 -0500",
+     "summary": "New York Times : Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS &nbsp; &mdash;&nbsp; U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch w",
+     "source": "Techmeme",
+     "zh": "Sources: Alice Huang was in touch with an officer of China&apos;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)"
+    },
+    {
      "title": "消息称苹果为 iPhone Duo 开发锁屏右侧纵向小组件栏，可显示更多信息",
      "link": "https://www.ithome.com/1/030/735.htm",
      "pubDate": "Mon, 23 Nov 2026 00:27:02 GMT",
@@ -1825,14 +1881,6 @@
      "zh": "微软 CEO 纳德拉感叹：Claude Code 仅半年动摇 VS Code 地位"
     },
     {
-     "title": "零售药店：从出清到转型的三大挑战",
-     "link": "https://www.huxiu.com/article/4907572.html?f=rss",
-     "pubDate": "Mon, 23 Nov 2026 08:08:44 +0800",
-     "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health 随着2024-2025年的闭店潮暂歇，零售药店市场在2026年明显企稳，市场出清的第一阶段已经结束。但医保的压力并没有缓解，而且支付方控费趋势下，医院也加入到蚕食药品零售市场中来。就中长期来看，零售药店市场的危机并没有消失，随时可能会再次引发第二波出清。 因此，零售药店只有主动转型才能避免市场出清对自身造成的巨大冲击。不过，从出清到转型的过程中，零售药店主要面临三大挑战：支付方、客群结构和医疗机构。 首先，从支付方来看，医保长期的筹资压力并不会减轻，由此对开支的收紧将持续，对药品零售端的管控只会",
-     "source": "虎嗅",
-     "zh": "零售药店：从出清到转型的三大挑战"
-    },
-    {
      "title": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突",
      "link": "https://www.ithome.com/1/030/732.htm",
      "pubDate": "Mon, 23 Nov 2026 00:05:19 GMT",
@@ -1841,28 +1889,28 @@
      "zh": "不满 Instagram 账号被封，印度反对党在 Meta 多地办事处示威并与警方冲突"
     },
     {
+     "title": "FBI is having a mass hire for IT specialists",
+     "link": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+     "pubDate": "Sun, 22 Nov 2026 23:58:22 +0000",
+     "summary": "Article URL: https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1& Comments URL: https://news.ycombinator.com/item?id=50605483 Points: 14 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "FBI is having a mass hire for IT specialists"
+    },
+    {
      "title": "Nespresso's project to reduce grams of coffee per capsule",
      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
      "pubDate": "Sun, 22 Nov 2026 23:57:45 +0000",
-     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 12 # Comments: 5",
+     "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points: 34 # Comments: 30",
      "source": "Hacker News",
      "zh": "Nespresso's project to reduce grams of coffee per capsule"
     },
     {
-     "title": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告",
-     "link": "https://www.ithome.com/1/030/731.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:56:04 GMT",
-     "summary": "IT之家 11 月 23 日消息，《英雄联盟》赛事今日官宣，2026 全球总决赛 LPL 纪录片《风起今朝》将于 12 月在B站播出，首支预告短片公布。 IT之家注意到，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛于 11 月 15 日落幕，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队， 连斩 4 支韩国队 ，勇夺《英雄联盟》S16 冠军。 BLG 战队今年再进 S 赛气势如虹，连斩 HLE、DK、T1、GEN 四支 LCK 赛区战队。先是在半决赛战胜 Faker 领衔的 T1 战队，为 LPL 赛区打破 13 年 BO5 不胜魔咒，再",
-     "source": "IT之家",
-     "zh": "《英雄联盟》S16 中国 LPL 纪录片《风起今朝》12 月播出，官方放出首支预告"
-    },
-    {
-     "title": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革",
-     "link": "https://www.ithome.com/1/030/730.htm",
-     "pubDate": "Sun, 22 Nov 2026 23:47:41 GMT",
-     "summary": "IT之家 11 月 23 日消息，彭博社记者马克 · 古尔曼昨日在新一期《Power On》通讯中认为，苹果传统的软件开发方式可能阻碍其进入 AI 时代。僵化的发布周期、集中化的决策和缓慢的开发流程，让苹果很难和 AI 领域竞争对手抗衡。 ▲ 苹果首席执行官约翰 · 特努斯（John Ternus） 古尔曼警告称，虽然苹果在软硬件和生态领域仍然优势明显， 但现有的组织架构拖累了公司在 AI 领域的发展 。他说道：“简单来说，苹果作为一家企业，其组织架构和运作方式很难在 AI 时代取得成功。这家公司需要在组织结构和企业文化层面进行全面改革。” 例如，苹果通常会在新系统正式发布前一年就确认主要功能",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果若想在 AI 时代生存下去，需进行结构和文化层面的全面改革"
+     "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+     "link": "https://0rwx.com/",
+     "pubDate": "Sun, 22 Nov 2026 23:53:00 +0000",
+     "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "0rwx – A simple model of AI usage, inspired by Unix permissions"
     },
     {
      "title": "How Dario Amodei built Anthropic&apos;s tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
@@ -1884,7 +1932,7 @@
      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
      "pubDate": "Sun, 22 Nov 2026 23:12:10 +0000",
-     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 92 # Comments: 39",
+     "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 101 # Comments: 55",
      "source": "Hacker News",
      "zh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript"
     },
@@ -1892,7 +1940,7 @@
      "title": "GL.iNet Security Notice 2026-11-20",
      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
      "pubDate": "Sun, 22 Nov 2026 23:06:37 +0000",
-     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 42 # Comments: 16",
+     "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 46 # Comments: 18",
      "source": "Hacker News",
      "zh": "GL.iNet Security Notice 2026-11-20"
     },
@@ -1900,25 +1948,9 @@
      "title": "Localcode, open source agentic coding on your Mac with one command",
      "link": "https://github.com/mjwsolo/localcode",
      "pubDate": "Sun, 22 Nov 2026 22:18:48 +0000",
-     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "Localcode, open source agentic coding on your Mac with one command"
-    },
-    {
-     "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-     "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-     "pubDate": "Sun, 22 Nov 2026 22:10:58 +0000",
-     "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 41 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "The Usefulness of Useless Knowledge [pdf] (1939)"
-    },
-    {
-     "title": "Agent swarm trying to solve P vs. NP",
-     "link": "https://pequalnp.com/",
-     "pubDate": "Sun, 22 Nov 2026 21:53:45 +0000",
-     "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 75 # Comments: 68",
-     "source": "Hacker News",
-     "zh": "Agent swarm trying to solve P vs. NP"
     },
     {
      "title": "‘You Can See Everything’ has made more than $100M worldwide",
@@ -1961,28 +1993,12 @@
      "zh": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)"
     },
     {
-     "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
-     "link": "https://www.techmeme.com/261122/p8#a261122p8",
-     "pubDate": "Sun, 22 Nov 2026 12:15:01 -0500",
-     "summary": "Reuters : Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals &nbsp; &mdash;&nbsp; For the second time this year, Wall Street bankers and lawyers took home a massive paycheck from a record-se",
-     "source": "Techmeme",
-     "zh": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)"
-    },
-    {
      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
      "link": "https://www.solidot.org/story?sid=85959",
      "pubDate": "Sun, 22 Nov 2026 23:32:03 +0800",
      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据",
      "source": "Solidot",
      "zh": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料"
-    },
-    {
-     "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&apos;s obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
-     "link": "https://www.techmeme.com/261122/p7#a261122p7",
-     "pubDate": "Sun, 22 Nov 2026 10:00:34 -0500",
-     "summary": "Jonah Weiner / New York Times : Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with &ldquo;taste&rdquo; as a moat against AI slop and whether AI can learn it &nbsp; &mdash;&nbsp; To move through A.I.-era San Francisco as a relatively normal person is to con",
-     "source": "Techmeme",
-     "zh": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&apos;s obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)"
     },
     {
      "title": "Can a TV be too large? An investigation",
@@ -2031,6 +2047,14 @@
      "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
      "source": "Engadget",
      "zh": "What is the best way to secure your PlayStation 5 for a flight?"
+    },
+    {
+     "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+     "link": "https://sspai.com/post/119418",
+     "pubDate": "Mon, 23 Nov 2026 07:34:27 +0800",
+     "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+     "source": "少数派",
+     "zh": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想"
     },
     {
      "title": "How to use AI glasses as a teleprompter",
@@ -2239,14 +2263,6 @@
      "summary": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be ",
      "source": "9to5Google",
      "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
-    },
-    {
-     "title": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off",
-     "link": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
-     "pubDate": "Sat, 21 Nov 2026 13:39:52 +0000",
-     "summary": "Anker's Nano Docking Station is 33% off ahead of Black Friday, matching its lowest price on Amazon.",
-     "source": "Android Authority",
-     "zh": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off"
     }
    ]
   },
@@ -2256,6 +2272,30 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "2027见闻历，财经人的桌面必备“神历”",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Mon, 23 Nov 2026 08:35:19 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027见闻历，财经人的桌面必备“神历”"
+    },
+    {
+     "title": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场",
+     "link": "https://wallstreetcn.com/articles/3786473",
+     "pubDate": "Mon, 23 Nov 2026 08:31:01 +0800",
+     "summary": "科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示， 对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。 高盛主经纪业务数据显示，基本面多空策略净杠杆已降至42.3%，处于过去一年第1百分位；按贝塔调整后的净杠杆较10月初下降逾22个百分点至48.2%，创五年新低。摩根士丹利的数据显示，美国多空策略净杠杆一周下降5个百分点至41%，周五的抛售可能将其推至40%以下，逼近新冠疫",
+     "source": "华尔街见闻",
+     "zh": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场"
+    },
+    {
+     "title": "绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”",
+     "link": "https://wallstreetcn.com/articles/3786474",
+     "pubDate": "Mon, 23 Nov 2026 08:28:21 +0800",
+     "summary": "Anthropic上市首日股价上涨17%，创下史上最大规模IPO纪录，但 承销商在交易仅一天后就行使了全部超额配售选择权（“绿鞋”），额外募资122亿美元。 随着上周五科技股遭遇抛售，Anthropic股价一度跌至距83美元发行价仅差5美分，最终收于88.91美元，跌幅8.5%。据部分投资者由此质疑， 在市场规模已扩大、内部人持股可售、市况走弱的三重背景下，如此迅速地行使绿鞋是否过于仓促，并传递出公司“急于拿钱”的信号。 据英国《金融时报》专栏作家、美国银行前全球股票资本市场主管Craig Coben于11月22日撰文称，Anthropic的IPO在首日交易中表现强劲，收盘价97.17美元，稳",
+     "source": "华尔街见闻",
+     "zh": "绿鞋提前行权导致“次日无人护盘”，Anthropic差点破发，被质疑“急于拿钱”"
+    },
     {
      "title": "今日看点｜首批18只主动ETF上市",
      "link": "http://www.eeo.com.cn/2026/1123/1100238.shtml",
@@ -2471,30 +2511,6 @@
      "summary": "11月23日，首批18只主动ETF正式上市交易，中国公募基金业将迎来“场内主动选股、每日持仓可见、透明化阿尔法”的历史性时刻。按照要求，这些产品需在上市之前将股票仓位提升至不低于80%。从最新净值变化看，主动ETF已呈现出稳健运作特征，为上市后的主动能力验证奠定基础。 首批主动ETF上市后，国内主动投资迈入“明牌”时代。主动ETF将与被动ETF、场外主动基金形成差异化权益产品矩阵，公募基金承接长期资金入市的工具丰富度和策略深广度将进一步扩展。 18只产品 加速完成建仓 18只主动ETF合计上市份额360亿份，截至11月16日的整体平均仓位还只有56.71%，最低仓位不足30%。从11月17日到",
      "source": "东方财富资讯",
      "zh": "首批主动ETF今上市 主动投资迈入“明牌”时代"
-    },
-    {
-     "title": "Private equity has been buying up hospice centers — with striking consequences",
-     "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 17:22:00 GMT",
-     "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-     "source": "MarketWatch",
-     "zh": "Private equity has been buying up hospice centers — with striking consequences"
-    },
-    {
-     "title": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages",
-     "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-     "pubDate": "Sun, 22 Nov 2026 17:14:03 GMT",
-     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-     "source": "CNBC",
-     "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
-    },
-    {
-     "title": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能",
-     "link": "http://stock.eastmoney.com/news/11134,202611223936950810.html",
-     "pubDate": "Mon, 23 Nov 2026 00:32:15 +0800",
-     "summary": "11月22日，科创板芯片设计企业思特威发布对外投资公告，宣布拟以现金方式向武汉楚兴技术有限公司（以下简称“武汉楚兴”）增资15.00亿元。 交易完成后，思特威将持有武汉楚兴5.5880%股权，标的公司将成为其参股公司。 本次增资对应的标的公司投前估值约为253.43亿元。 思特威计划通过本次入股深度绑定上游关键制造资源，补齐高端CMOS图像 传感器 （CIS）晶圆代工产能短板，提升供应链自主可控水平。 思特威拟借 银行 贷款出资15亿元入股晶圆代工厂 公告显示，思特威本次增资事项已经公司第二届董事会第十六次会议审议通过。 根据相关上市规则，本次交易无需提交股东会审议，不构成关联交易，也不构成重",
-     "source": "东方财富资讯",
-     "zh": "借钱砸15亿元布局上游！思特威拟入股晶圆厂 加码CIS代工产能"
     }
    ]
   },

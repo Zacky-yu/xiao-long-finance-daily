@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 18:11:52",
+ "generated_at": "2026/11/24 18:31:49",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
+     "link": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
+     "pubDate": "Tue, 24 Nov 2026 10:26:24 +0000",
+     "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
+     "source": "Energy Storage News",
+     "zh": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges"
+    },
+    {
      "title": "Solar and storage insolvencies hit larger German companies",
      "link": "https://www.pv-magazine.com/2026/11/24/solar-and-storage-insolvencies-hit-larger-german-companies/",
      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Without the rule changes, the Midcontinent Independent System Operator&rsquo;s queue cycles&nbsp;&mdash; totaling about 125 GW of generation and storage&nbsp;&mdash;&nbsp;would have been delayed, according to the grid operator.",
      "source": "Utility Dive",
      "zh": "FERC approves MISO plan to speed legacy interconnection study process"
-    },
-    {
-     "title": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28",
-     "link": "https://www.energy-storage.news/italys-recent-electricity-market-decree-could-reduce-bess-revenues-in-2027-28/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:55 +0000",
-     "summary": "A recent electricity market decree in Italy could reduce price spikes and therefore grid-scale BESS revenues over the next two years, though the impact should not go beyond that.",
-     "source": "Energy Storage News",
-     "zh": "Italy’s recent electricity market decree could reduce BESS revenues in 2027/28"
     }
    ]
   },
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+     "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+     "pubDate": "Tue, 24 Nov 2026 14:04:20 +0530",
+     "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed th",
+     "source": "The Hacker News",
+     "zh": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login"
+    },
+    {
      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
      "pubDate": "Tue, 24 Nov 2026 11:32:57 +0530",
@@ -1706,14 +1714,6 @@ window.INDUSTRY_DATA = {
      "zh": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
     },
     {
-     "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-     "pubDate": "Mon, 23 Nov 2026 18:11:04 +0530",
-     "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload ",
-     "source": "The Hacker News",
-     "zh": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
-    },
-    {
      "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
      "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
      "pubDate": "Mon, 23 Nov 2026 12:16:20 +0000",
@@ -1770,6 +1770,70 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "具身智能的“计生办”，何时会来？",
+     "link": "https://www.huxiu.com/article/4908087.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:19:29 +0800",
+     "summary": "本文来自微信公众号： 花生说科技 ，编辑：黑松，作者：李皙寅·花生 相信七八九零后都会记得课本里的后半句：“总量丰富，人均不足。” 地理课、社会课上，这句话常常用来引出计划生育的必要性。人太多，水、耕地、粮食、学校、医院和工作岗位都不够分；人少一点，优生优育，日子似乎就能宽松一点。 按照这个思路往下想，一个略带黑色幽默的问题应运而生：具身智能的“计生委”，什么时候会来？ 我对这个问题的关注，最早来自一间大学教室。 2011年，我大一，在东北学新闻，闲不住，总去蹭社会学、政治学和人口学的讲座。教室通常不大，暖气片烘着，窗玻璃凝一层薄雾。前排坐着几个穿夹克的中年人，茶杯里的水泡得很浓。我作为外系学",
+     "source": "虎嗅",
+     "zh": "具身智能的“计生办”，何时会来？"
+    },
+    {
+     "title": "【一图知】华为 Mate X8 及全场景新品发布会：轻薄、折叠“双响炮”，鸿蒙智家大升级",
+     "link": "https://www.ithome.com/1/031/783.htm",
+     "pubDate": "Tue, 24 Nov 2026 10:18:19 GMT",
+     "summary": "IT之家 11 月 24 日消息，华为 Mate X8 及全场景新品发布会于今日（11 月 24 日）14:30 举行，发布了华为 Mate X8 全新大折叠旗舰手机，还有华为 Mate90 Air、华为 WATCH Air 超薄新品。 华为 MateBook Fold S 鸿蒙小折叠电脑、鸿蒙智家升级、配件新品也一同登场。 IT之家一图汇总相关产品信息 ，小伙伴快速了解一下亮点。",
+     "source": "IT之家",
+     "zh": "【一图知】华为 Mate X8 及全场景新品发布会：轻薄、折叠“双响炮”，鸿蒙智家大升级"
+    },
+    {
+     "title": "黄仁勋回归后首个交易日，A股“英伟达供应链”仍比英伟达多跌16个百分点",
+     "link": "https://www.huxiu.com/article/4908086.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:18:19 +0800",
+     "summary": "本文来自微信公众号： 明亮公司 ，作者：主编24小时在线，原文标题：《黄仁勋回归后首个交易日，A股「英伟达供应链」仍比英伟达多跌16个百分点｜反常识数据50》 11月23日美股盘前，英伟达（NVDA.US）宣布黄仁勋复职，当日公司股价上涨31.48%，收于165.05美元，但较辞职前的11月11日收盘价低5.00%。次日（24日）A股收盘，「明亮公司」结合AlphaEngine统计的24家“英伟达算力链公司”（见文末）中，有19家上涨，单日涨跌幅中位数为1.59%。但与11月11日相比，24家公司股价仍全部下跌，跌幅中位数为20.92%，比英伟达多跌15.92个百分点。 两者的差距主要出现在1",
+     "source": "虎嗅",
+     "zh": "黄仁勋回归后首个交易日，A股“英伟达供应链”仍比英伟达多跌16个百分点"
+    },
+    {
+     "title": "“AI央行”不能没了主席",
+     "link": "https://www.huxiu.com/article/4908084.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:15:48 +0800",
+     "summary": "本文来自微信公众号： 起朱楼宴宾客 ，作者：大卫翁 11月20日，美股正在经历哀鸿遍野的黑色星期五。 美东时间下午两点多，路透社发了一条独家新闻，两位知情人士说美国证监会的执法部门正在查证英伟达\"潜在的会计问题\"。 当时英伟达的股价已经跌了6%多，消息出来之后跌幅迅速扩大，收盘跌了14%，是2025年1月以来最大的单日跌幅。 事实上，潜在的会计问题指的是什么？路透的稿子一问三不知——不知道调查是什么时候开始的，不知道具体在查哪一项，也不知道最后会不会不了了之。 但显然，市场并没有耐心等待答案了。 同一天，AI叙事的另一位“旗手”甲骨文在官网发布了一则声明，说履行与OpenAI那份合同所需要的资",
+     "source": "虎嗅",
+     "zh": "“AI央行”不能没了主席"
+    },
+    {
+     "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+     "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+     "pubDate": "Tue, 24 Nov 2026 10:15:00 +0000",
+     "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+     "source": "WIRED",
+     "zh": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It"
+    },
+    {
+     "title": "跟廖建文教授学看公司",
+     "link": "https://www.huxiu.com/article/4908081.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:09:32 +0800",
+     "summary": "本文来自微信公众号： 乱翻书 ，作者：潘乱 研究企业，要从案例走向框架。 昨天跟一位京东的同学聊，得知廖建文教授去世了。消息来得很突然，一时有些恍惚。中国互联网一共才这么二三十年历史，连退休两个字读起来都像是过几年还有下文，没想到已经到了要跟其中一个人告别的时候了。 2019年我跟廖教授有过一次长谈，主题是如何研究公司，过程是一个受过严格学术训练、也在大公司挑重担的人，对一个年轻企业研究爱好者的点拨，我也非常受益。今天我把当时脑力激荡中涉及具体公司评价的部分去除掉，重现一下一位商学院教授和大厂CSO的分析视角，他是怎么去研究公司。希望对后来人有用，也作为对他的纪念。 那时廖教授从长江商学院的讲",
+     "source": "虎嗅",
+     "zh": "跟廖建文教授学看公司"
+    },
+    {
+     "title": "3249亿逆差汽车占比6%，欧盟为何偏偏盯上中国汽车？",
+     "link": "https://www.huxiu.com/article/4908080.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:09:26 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：米梓铭 中欧刚谈妥汽车出口配额，欧盟又出手了。 11月24日，欧盟委员会发布混动汽车全球保障措施初步裁定，决定从12月1日起实施临时保障措施。对于刚刚打开欧洲市场的中国车企来说，这又是一道新门槛。商务部随后回应称，中方注意到欧方相关措施，要求欧方遵守此前中欧达成的共识，严格按照世贸组织规则开展调查，落实非歧视原则。中方强调，保护主义没有出路，开放合作才是正道。 此前一个月，中欧才在北京谈成一笔交易：中国混动汽车出口欧洲，首年配额35万辆，第二年起每年增加6%，为期四年。但摩根士丹利算了一笔账：按照欧盟自己原先的预测，2026年中国混动汽车进口量本来会达到约8",
+     "source": "虎嗅",
+     "zh": "3249亿逆差汽车占比6%，欧盟为何偏偏盯上中国汽车？"
+    },
+    {
+     "title": "阿莫迪让AI自己“长”出道德，终于见效了？",
+     "link": "https://www.huxiu.com/article/4908027.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:08:54 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥，编辑：王靖，题图来自：视觉中国 在争分夺秒的AI竞赛中，OpenAI开始踩下刹车。 美国时间11月22日，OpenAI首席科学家雅库布发表了一篇新文章，提出前沿AI公司应当建立共同的能力上限，在理解和监控模型行为的技术取得足够进展之前，不应轻易越过这些界限。 在文章里，他还特意附上了&ldquo;老对头&rdquo;阿莫迪此前发表的减速倡议。 而就在四天前，OpenAI还发表了一份前沿模型风险管理声明，坦言更严格的安全标准已经放慢了模型发布节奏。此前，公司曾因安全对齐问题取消GPT-6.1 Astra原定于10月的发布计划，也曾暂停部分前沿模型的",
+     "source": "虎嗅",
+     "zh": "阿莫迪让AI自己“长”出道德，终于见效了？"
+    },
+    {
      "title": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life",
      "link": "https://www.wired.com/story/wish-list-2026/",
      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
@@ -1778,12 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life"
     },
     {
-     "title": "减肥针，正在砸食品巨头的饭碗",
-     "link": "https://www.huxiu.com/article/4906890.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 18:00:00 +0800",
-     "summary": "减肥针横扫食品界，司美格鲁肽和替尔泊肽模拟饱腹感，让人吃得少，药企市值狂飙，甚至超过丹麦GDP。减肥针效果接近切胃，副作用和反弹风险却不容小觑。 真正让人长胖的，或许是压力、熬夜和外卖，而不是缺一针。现代人最有效的减肥药方，可能其实是多睡觉、少加班、认真做饭。",
-     "source": "虎嗅",
-     "zh": "减肥针，正在砸食品巨头的饭碗"
+     "title": "Google Chrome dev team declares bug report bankruptcy",
+     "link": "https://blog.plover.com/2026/11/18/#bug-reports",
+     "pubDate": "Tue, 24 Nov 2026 09:56:08 +0000",
+     "summary": "Article URL: https://blog.plover.com/2026/11/18/#bug-reports Comments URL: https://news.ycombinator.com/item?id=50626012 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Google Chrome dev team declares bug report bankruptcy"
     },
     {
      "title": "华硕 ROG“XG27ACMSR”27 英寸显示器上架：QHD 360Hz / FHD 420Hz / HD 640Hz 三模，2199 元",
@@ -1842,28 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "知乎 2026 财年前三季度归母亏损 9550.9 万元，同比由盈转亏"
     },
     {
-     "title": "小米集团 2026 年 Q3 业绩发布：单季营收站稳千亿、研发投入 92 亿元",
-     "link": "https://www.ithome.com/1/031/716.htm",
-     "pubDate": "Tue, 24 Nov 2026 09:42:54 GMT",
-     "summary": "IT之家 11 月 24 日消息，小米集团今日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千亿。总营收 1072 亿元，经调整净利润 49 亿元。 据介绍， 小米新能源汽车及 AI 等创新业务收入 239 亿元 ，季度内完成纯电、增程双系列布局；智能手机业务逐季改善， 收入 456 亿元，环比增长 8.2% ；全球平均售价（ASP）同比增长近 40%，创历史新高，国内 6000 元及以上价位销量份额同比提升 1.2 个百分点。全球份额连续 3 个季度环比提升，出货量在全球 55 个国家和地区排名前三，67 个国家和地区排名前五。 另外， 小米 AIoT 平台已连接 IoT 设备数首",
-     "source": "IT之家",
-     "zh": "小米集团 2026 年 Q3 业绩发布：单季营收站稳千亿、研发投入 92 亿元"
-    },
-    {
      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
      "pubDate": "Tue, 24 Nov 2026 09:39:50 +0000",
-     "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex"
-    },
-    {
-     "title": "韩国世纪烂尾工程：为什么每个韩国总统，都没逃过搬家的宿命？",
-     "link": "https://www.huxiu.com/article/4906947.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 17:30:00 +0800",
-     "summary": "一口气看懂【韩国迁都】经济学，折腾50年，为啥注定成不了？",
-     "source": "虎嗅",
-     "zh": "韩国世纪烂尾工程：为什么每个韩国总统，都没逃过搬家的宿命？"
     },
     {
      "title": "AI办公，不再只拼大模型",
@@ -1882,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "艾为电子落子电源芯片业务，钰泰半导体八年资本路迎新局 | 并购一线"
     },
     {
-     "title": "这次，深圳也算是拿到“大芒果”了",
-     "link": "https://www.huxiu.com/article/4908063.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 17:18:40 +0800",
-     "summary": "本文来自微信公众号： 闻旅 ，作者：Kylin，编辑：Sette APEC第三十三次领导人非正式会议已经在深圳落下帷幕，但有些热闹才刚刚开始。 深圳国际交流中心外，不少市民和游客专程前来拍照。更有许多外地游客，特意挑选会议期间赶到深圳，就为了感受一下这场国际盛会的氛围。 来不及去实地打卡的网友们也没闲着，有人专门下功夫研究，各国政要都住在了哪。 特朗普下榻的东海朗廷、普京入住的前海康莱德、日本首相高市早苗被报道入住的福田好日子皇冠假日酒店……直接总结了一份“真总统套房”酒店名单。 更有意思的是，澳大利亚总理逛超市、智利总统走进水果店，国际政要在深圳的日常活动，意外为这座城市贡献了一批新的打卡素",
-     "source": "虎嗅",
-     "zh": "这次，深圳也算是拿到“大芒果”了"
-    },
-    {
      "title": "阶跃星辰的终端生态，还是一场熟人局？",
      "link": "https://www.tmtpost.com/8215895.html",
      "pubDate": "Tue, 24 Nov 2026 17:15:51 +0800",
@@ -1904,30 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "黄仁勋很难做成原来那个黄仁勋，英伟达也未必能做成原来那个英伟达。",
      "source": "钛媒体",
      "zh": "英伟达“大而不能倒”，黄仁勋“强而不能退”？"
-    },
-    {
-     "title": "好莱坞和Netflix，也快顶不住了",
-     "link": "https://www.huxiu.com/article/4908061.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 17:13:31 +0800",
-     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空2009 我和身边的朋友们已经很久没有进过电影院了。 一来是感觉最近没什么特别值得看的电影，更重要的是，我发现身边不少人已经养成了一个新的娱乐习惯，开始大量看短剧。 以前大家聊天，还会讨论最近有什么好看的电影、电视剧，现在有些人已经开始给我推荐各种短剧，甚至是AI生成的短剧。 短剧的数据也很猛。 QuestMobile数据显示，今年7月、8月，红果短剧用户人均单日使用时长已经达到151分钟，而以让人刷得停不下来著称的抖音，这个数字是133.5分钟。 每天两个半小时，足够看完一部电影了。 根据广电总局今年9月披露的数据，2025年中国微短剧市场",
-     "source": "虎嗅",
-     "zh": "好莱坞和Netflix，也快顶不住了"
-    },
-    {
-     "title": "永辉和茅台“后会友期”，谁先不需要谁了？",
-     "link": "https://www.huxiu.com/article/4908056.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 17:05:09 +0800",
-     "summary": "本文来自微信公众号： 超聚焦foci ，作者：白墨 一家公司，年营收超过8亿元，年净利润超过5000万元，资产负债率不到8%。按理来说，这样一门赚钱的生意，应该没有人会主动放弃。 但茅台偏偏不打算继续做了。11月23日晚间，永辉超市发布公告，同意对参股公司北京友谊使者商贸有限公司进行解散清算。 这家公司成立于2014年，注册资本3000万元，由贵州茅台持股70%、永辉超市持股30%，主要从事白酒销售业务。按照目前的净资产测算，永辉超市预计可在此次清算中分得约1.16亿元。 值得注意的是，这家公司并没有陷入经营困境。财报显示，2025年公司实现营业收入8.14亿元、净利润5457万元；即便是在白",
-     "source": "虎嗅",
-     "zh": "永辉和茅台“后会友期”，谁先不需要谁了？"
-    },
-    {
-     "title": "特朗普一小时专访谈老黄回归内幕",
-     "link": "https://www.huxiu.com/article/4907886.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 17:01:06 +0800",
-     "summary": "本文来自微信公众号： 东不压桥研究院 ，作者：南极土著，题图来自：视觉中国 11月23日上午，在英伟达宣布老黄复职后不久，特朗普就打电话连线了CNBC的《Squawk on the Street》节目，接受了将近一个小时的采访。这场采访透露了很多此前外界不知道的细节，包括特朗普是如何说服英伟达董事会的，为什么他一定要让老黄回来，他在中国访问期间是怎么和中国领导人谈论老黄的，以及他对老黄涉及的出口管制和间谍争议到底怎么看。 一、特朗普是怎么让老黄复职的？ CNBC记者问特朗普，这个周末到底发生了什么，为什么英伟达董事会的态度突然发生了这么大的转变？ 特朗普说，自己一直非常坚定地认为老黄应该回来，",
-     "source": "虎嗅",
-     "zh": "特朗普一小时专访谈老黄回归内幕"
     },
     {
      "title": "巴西游戏接 Pix 和 Boleto 后，4 人团队怎么排本地化支付的迭代节奏？",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mizy Clifton / Politico : Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents &nbsp; &mdash;&nbsp; Regulators will be watching the U.K. rollout of Muse carefully.&nbsp; &mdash;&nbsp; LONDON &m",
      "source": "Techmeme",
      "zh": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)"
-    },
-    {
-     "title": "尼日利亚站上线两个月，COD 拒收率 18%、回款周期 21 天，该换预付还是换物流商？",
-     "link": "https://www.baijing.cn/question/638940",
-     "pubDate": "Tue, 24 Nov 2026 07:38:10 +0000",
-     "summary": "团队 12 人做尼日利亚站家居收纳，刚过起量期，日均 400 单左右，用 Paystack 收卡和转账、GIG 做拉各斯本地配送。现在两个数字卡着：COD 订单拒收率 18%，拉各斯以外州配送时效 5–7 天，回款周期 21 天，现金流压得很紧。已经试过在拉各斯加预付折扣、把高风险邮编改成只走预付，拒收率只降到 15%，回款没改善。卡在不知道该先换预付比例还是先换物流商：如果强行推预付，担心转化率掉太多；如果换物流，又怕时效没提升反而回款更慢。想请有尼日利亚本地履约经验的同行给个判断标准——在拒收率和回款周期这两个指标上，先动哪个杠杆更划算？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站上线两个月，COD 拒收率 18%、回款周期 21 天，该换预付还是换物流商？"
-    },
-    {
-     "title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&apos;s \"engineering mindset\" overlooks human biology (Financial Times)",
-     "link": "https://www.techmeme.com/261124/p3#a261124p3",
-     "pubDate": "Tue, 24 Nov 2026 02:30:08 -0500",
-     "summary": "Financial Times : Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's &ldquo;engineering mindset&rdquo; overlooks human biology &nbsp; &mdash;&nbsp; Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
-     "source": "Techmeme",
-     "zh": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&apos;s \"engineering mindset\" overlooks human biology (Financial Times)"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Sony’s ULT Tower 5 gets $152 off in a Black Friday pick",
+     "link": "https://www.androidauthority.com/sony-ult-tower-5-deal-3738482/",
+     "pubDate": "Tue, 24 Nov 2026 10:19:50 +0000",
+     "summary": "Sony's 300W party speaker with XLR inputs is 34% off on Amazon, a new record low for this year's model.",
+     "source": "Android Authority",
+     "zh": "Sony’s ULT Tower 5 gets $152 off in a Black Friday pick"
+    },
     {
      "title": "Samsung’s Tizen-based Galaxy Watch gets an unofficial Wear OS 3.5 port",
      "link": "https://www.androidauthority.com/samsung-galaxy-watch-wear-os-3-5-port-3738708/",
@@ -2042,6 +2050,14 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government"
     },
     {
+     "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+     "link": "https://sspai.com/post/119492",
+     "pubDate": "Tue, 24 Nov 2026 17:14:11 +0800",
+     "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+     "source": "少数派",
+     "zh": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同"
+    },
+    {
      "title": "Honor Magic9 Pro Max review",
      "link": "https://www.gsmarena.com/honor_magic9_pro_max-review-3014.php",
      "pubDate": "Tue, 24 Nov 2026 10:06:19 +0100",
@@ -2072,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "HeliBoard brings customization, clipboard history and offline typing to Android, without Google’s data collection.",
      "source": "Android Authority",
      "zh": "The best Android keyboard app isn’t on the Play Store. Here’s how to install it"
-    },
-    {
-     "title": "HONOR Magic 9 Pro Max is a video beast, and it’s just launched outside China",
-     "link": "https://www.androidauthority.com/honor-magic-9-pro-max-first-global-release-3738621/",
-     "pubDate": "Tue, 24 Nov 2026 09:00:17 +0000",
-     "summary": "This might be the phone to get if you value video quality and an array of video capture features.",
-     "source": "Android Authority",
-     "zh": "HONOR Magic 9 Pro Max is a video beast, and it’s just launched outside China"
     },
     {
      "title": "Honor teams up with cinema camera-maker Arri on the Magic 9 Pro Max",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic is rolling out a new Claude app for Android that picks up a Material 3 Expressive redesign. more…",
      "source": "9to5Google",
      "zh": "Claude rolling out updated Android app with Material 3 Expressive redesign"
-    },
-    {
-     "title": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models",
-     "link": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/",
-     "pubDate": "Mon, 23 Nov 2026 21:51:18 +0000",
-     "summary": "OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted in Work and Codex . The company also set a retirement date for two older models. more…",
-     "source": "9to5Mac",
-     "zh": "ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models"
     }
    ]
   },
@@ -2258,28 +2258,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+     "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+     "pubDate": "Tue, 24 Nov 2026 10:17:31 GMT",
+     "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+     "source": "CNBC",
+     "zh": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years"
+    },
+    {
+     "title": "Self-driving race: Mercedes wins German approval ahead of Tesla",
+     "link": "https://seekingalpha.com/news/4675999-self-driving-race-mercedes-wins-german-approval-ahead-of-tesla?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:16:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Self-driving race: Mercedes wins German approval ahead of Tesla"
+    },
+    {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 10:15:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "Biggest stock movers Tuesday: HPE, SNY, and more",
+     "link": "https://seekingalpha.com/news/4676041-biggest-stock-movers-tuesday-hpe-sny-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:14:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Tuesday: HPE, SNY, and more"
+    },
+    {
+     "title": "Neotech Metals, KAP Minerals sign MOU to assess Hecla-Kilmer material processing at proposed Kapuskasing facility",
+     "link": "https://seekingalpha.com/news/4676029-neotech-metals-kap-minerals-sign-mou-to-assess-hecla-kilmer-material-processing-at-proposed-kapuskasing-facility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:14:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neotech Metals, KAP Minerals sign MOU to assess Hecla-Kilmer material processing at proposed Kapuskasing facility"
+    },
+    {
+     "title": "商品日报（11月24日）：原油系集体走弱燃料油跌近3% 焦煤震荡上行涨超2%",
+     "link": "http://www.eeo.com.cn/2026/1124/1101407.shtml",
+     "pubDate": "Tue, 24 Nov 2026 18:13:19 +0800",
+     "summary": "新华财经北京11月24日电（张瑶、郭洲洋）国内商品期货市场11月24日收盘走势分化，其中20号胶、焦煤、烧碱主力合约涨超2%，橡胶、纸浆、白糖、焦炭主力合约涨超1.5%。下跌品种方面，燃料油、沥青、国际铜、低硫燃料油（LU）、SC原油主力合约跌超2%，纯苯、BR橡胶、铂、铝合金、聚丙烯、聚乙烯、钯、苯乙烯主力合约跌超1%。 截至24日下午收盘，中证商品期货价格指数收报1423.09点，较前一交易日上涨3.72点，涨幅0.26%；中证...",
+     "source": "经济观察网",
+     "zh": "商品日报（11月24日）：原油系集体走弱燃料油跌近3% 焦煤震荡上行涨超2%"
+    },
+    {
+     "title": "AI“大到不能倒”了？特朗普亲自营救黄仁勋，被指是“现代水门事件”！",
+     "link": "https://wallstreetcn.com/articles/3786592",
+     "pubDate": "Tue, 24 Nov 2026 18:10:53 +0800",
+     "summary": "特朗普政府对英伟达董事会施压、推动黄仁勋复职一事，正从一场市场救援行动演变为潜在的政治危机。 据Fox Business记者Charles Gasparino援引知情人士消息，促使财政部长贝森特转变立场、力挺黄仁勋复职的核心动因， 是对经济衰退的恐惧——AI股票的抛售潮令主要投资者向白宫周边人士传递警告，称美国陷入衰退的概率\"接近100%\"。 黄仁勋复职消息公布后，英伟达单日暴涨逾34%，创2000年以来最大单日涨幅，市值单日增加逾1.1万亿美元。 然而， Gasparino将特朗普的这一操作称为\"现代版水门事件\"。 1972年美国总统大选期间，尼克松竞选团队成员潜入民主党总部安装窃听器并被捕",
+     "source": "华尔街见闻",
+     "zh": "AI“大到不能倒”了？特朗普亲自营救黄仁勋，被指是“现代水门事件”！"
+    },
+    {
+     "title": "Vipshop misses top-line and bottom-line estimates; approves special cash dividend of $0.73 per ADS",
+     "link": "https://seekingalpha.com/news/4676039-vipshop-misses-top-line-and-bottom-line-estimates-approves-special-cash-dividend-of-073-per-ads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:09:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vipshop misses top-line and bottom-line estimates; approves special cash dividend of $0.73 per ADS"
+    },
+    {
+     "title": "November 24: A date bulls have circled on the calendar",
+     "link": "https://seekingalpha.com/news/4676034-november-24-a-date-bulls-have-circled-on-the-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:07:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "November 24: A date bulls have circled on the calendar"
+    },
+    {
+     "title": "Baozun Non-GAAP EPADS of -$0.12, revenue of $355.9M beats by $9.83M",
+     "link": "https://seekingalpha.com/news/4676036-baozun-non-gaap-epads-of-012-revenue-of-3559m-beats-by-983m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:06:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Baozun Non-GAAP EPADS of -$0.12, revenue of $355.9M beats by $9.83M"
+    },
+    {
      "title": "小米Q3营收超预期，存储涨价挤压手机毛利，汽车收入同比下降19.9%，增程SUV首月锁单超7万｜财报见闻",
      "link": "https://wallstreetcn.com/articles/3786596",
      "pubDate": "Tue, 24 Nov 2026 18:06:36 +0800",
      "summary": "11月24日，小米集团发布2026年第三季度业绩，营收略超市场预期，但利润端承压。 当季总收入1072.4亿元，同比下降5.2%，略高于市场预期的1064.4亿元；净利润38.8亿元，低于市场预期的44.9亿元。 经调整净利润为49亿元，同比下降56.8%。与此同时，集团毛利率从去年同期的22.9%降至20.2%。 利润下滑主要受到多重因素影响：存储等核心器件成本持续上涨，手机业务毛利率受到挤压；AI业务加大投入，汽车业务则面临产品结构调整。成本压力与战略投入叠加，短期盈利能力受到影响。 存储涨价持续挤压手机业务利润。第三季度智能手机毛利率为9.2%，同比下降1.9个百分点，但较上季度回升0.",
      "source": "华尔街见闻",
      "zh": "小米Q3营收超预期，存储涨价挤压手机毛利，汽车收入同比下降19.9%，增程SUV首月锁单超7万｜财报见闻"
-    },
-    {
-     "title": "Bilibili Non-GAAP EPADS of -$0.30 misses by $0.57, revenue of $1.24B in-line",
-     "link": "https://seekingalpha.com/news/4676035-bilibili-non-gaap-epads-of-030-misses-by-057-revenue-of-124b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 05:04:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bilibili Non-GAAP EPADS of -$0.30 misses by $0.57, revenue of $1.24B in-line"
-    },
-    {
-     "title": "Democrats probe Polymarket, GrabAGun, Juul and Hadrian over links to Donald Trump Jr.",
-     "link": "https://seekingalpha.com/news/4676033-democrats-probe-polymarket-grabagun-juul-and-hadrian-over-links-to-donald-trump-jr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 05:03:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Democrats probe Polymarket, GrabAGun, Juul and Hadrian over links to Donald Trump Jr."
     },
     {
      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
@@ -2290,20 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million"
     },
     {
+     "title": "11月24日龙虎榜复盘：九阳股份净买额居首",
+     "link": "http://stock.eastmoney.com/news/11783,202611243938538047.html",
+     "pubDate": "Tue, 24 Nov 2026 18:00:38 +0800",
+     "summary": "11月24日共有62只个股（含1只可转债）上榜龙虎榜，总上榜成交额145.70亿元。上榜个股中净买入额最高的是 九阳股份 ，金额为2.21亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富资讯",
+     "zh": "11月24日龙虎榜复盘：九阳股份净买额居首"
+    },
+    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Tue, 24 Nov 2026 17:59:17 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-     "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-     "pubDate": "Tue, 24 Nov 2026 09:59:10 GMT",
-     "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
-     "source": "CNBC",
-     "zh": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years"
     },
     {
      "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
@@ -2370,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "华利集团：截至11月20日最新股东户数1.50万户，较上期增加1.35%"
     },
     {
-     "title": "E3 Lithium awarded exploration license in Germany",
-     "link": "https://seekingalpha.com/news/4676023-e3-lithium-awarded-exploration-license-in-germany?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 04:49:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "E3 Lithium awarded exploration license in Germany"
-    },
-    {
      "title": "郭明祺点评黄仁勋复职：短期情绪修复 算力基本面瓶颈仍存在",
      "link": "http://finance.eastmoney.com/news/1345,202611243938527451.html",
      "pubDate": "Tue, 24 Nov 2026 17:47:08 +0800",
@@ -2386,12 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "郭明祺点评黄仁勋复职：短期情绪修复 算力基本面瓶颈仍存在"
     },
     {
-     "title": "Zhihu ADR GAAP EPADS of -$0.10, revenue of $98.2M beats by $2.92M",
-     "link": "https://seekingalpha.com/news/4676031-zhihu-adr-gaap-epads-of-010-revenue-of-982m-beats-by-292m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 04:38:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Zhihu ADR GAAP EPADS of -$0.10, revenue of $98.2M beats by $2.92M"
+     "title": "11月24日北向资金最新动向（附十大成交股）",
+     "link": "http://stock.eastmoney.com/news/11780,202611243938516298.html",
+     "pubDate": "Tue, 24 Nov 2026 17:36:09 +0800",
+     "summary": "交易所最新数据显示，11月24日北向资金共成交2565.70亿元，占两市总成交额的15.50%。 工业富联 、 贵州茅台 、 寒武纪 位列 沪股通 成交前三，成交额分别为29.79亿、25.17亿、18.49亿； 中际旭创 、 新易盛 、 宁德时代 位列 深股通 成交前三，成交额分别为45.81亿、30.08亿、25.94亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
+     "source": "东方财富资讯",
+     "zh": "11月24日北向资金最新动向（附十大成交股）"
     },
     {
      "title": "耐克重返F1，能否找回失去的品牌热度？",
@@ -2426,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "马斯克旗下Neuralink公布脑机接口最新测试视频"
     },
     {
-     "title": "Hedge funds are positioned for an earnings slowdown Wall Street doesn’t see",
-     "link": "https://seekingalpha.com/news/4676030-hedge-funds-are-positioned-for-an-earnings-slowdown-wall-street-doesnt-see?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 04:26:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hedge funds are positioned for an earnings slowdown Wall Street doesn’t see"
-    },
-    {
      "title": "豆包个人AI助理产品“小豆”开启邀请制公测",
      "link": "http://www.eeo.com.cn/2026/1124/1101314.shtml",
      "pubDate": "Tue, 24 Nov 2026 17:26:15 +0800",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "第1眼TV-华龙网讯（记者 秦思思）眼下正值油茶花期。近日，由重庆师范大学、农业农村部长江上游传粉昆虫资源保护与利用重点实验室黄敦元教授团队研发的“蜂机协同油茶辅助授粉”技术在酉阳土家族苗族自治县规模化示范推广。该技术将蜜蜂采集花粉与无人机喷施花粉液相结合，多区域试验显示可提高坐果率12%—25%，为破解油茶“千花一果”难题提供了新路径。 据了解，酉阳油茶种植历史悠久，全县现有油茶林40余万亩，覆盖39...",
      "source": "经济观察网",
      "zh": "重庆师范大学团队用蜂机协同技术 破解油茶“千花一果”难题"
-    },
-    {
-     "title": "央行：11月25日将开展8000亿元MLF操作",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938504750.html",
-     "pubDate": "Tue, 24 Nov 2026 17:24:02 +0800",
-     "summary": "2026年11月中期借贷便利招标公告 为保持 银行 体系流动性充裕，2026年11月25日，中国人民 银行 将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作，期限为1年期。 （文章来源：央行网站）",
-     "source": "东方财富资讯",
-     "zh": "央行：11月25日将开展8000亿元MLF操作"
-    },
-    {
-     "title": "Stock futures slide after Nvidia-led Wall Street rally",
-     "link": "https://seekingalpha.com/news/4676026-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 04:23:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stock futures slide after Nvidia-led Wall Street rally"
-    },
-    {
-     "title": "大涨之后何去何从？纳指期货跌近1%，英伟达盘前跌4%，韩股收涨6%，金油齐跌",
-     "link": "https://wallstreetcn.com/articles/3786560",
-     "pubDate": "Tue, 24 Nov 2026 17:15:36 +0800",
-     "summary": "英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。 周二，美股盘前，纳指期货跌超0.8%，触及日内新低。英伟达走低，跌超4%，此前黄仁勋回归，英伟达收涨超31%；明星科技股普跌，美光科技跌超4%，ARM跌超3%，Anthropic盘前跌超2%。 韩国KOSPI指数收涨6.32%，三星电子、SK海力士均涨超6%；日本东证指数收盘上涨2.5%，报3,764.88点。日本股市在长假后复市，日经225指数涨幅一度扩大至5%。黄金跌超0.5%，现货黄金价格在每盎司3616美元左右。 Hedgeye风险管理公司全球技术董事总经理Felix Wang表示",
-     "source": "华尔街见闻",
-     "zh": "大涨之后何去何从？纳指期货跌近1%，英伟达盘前跌4%，韩股收涨6%，金油齐跌"
-    },
-    {
-     "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-     "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 09:14:00 GMT",
-     "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
-     "source": "MarketWatch",
-     "zh": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag"
-    },
-    {
-     "title": "机构调研丨物理AI+机器人概念 这家公司已取得数据服务订单 正探索物流垂类具身智能方案落地",
-     "link": "http://finance.eastmoney.com/news/11822,202611243938490636.html",
-     "pubDate": "Tue, 24 Nov 2026 17:01:33 +0800",
-     "summary": "11月24日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 德马科技 ：已完成仓储高频柔性工位场景适配与技术验证 德马科技 近日召开2026年第三季度业绩说明会，就公司主业创新方向与AI具身智能业务进展作出回应。 主业层面，公司把创新框架定在“全产业链+智能化+全球化”三个词上。 全产业链端要做核心部件、关键设备、系统集成与 软件开发 的一体化、自主化能力；智能化端基于AI+IoT和“天玑系统”升级输送分拣等主力产品，并建设智能 物流 装备产业大脑；全球化进入2.0阶段，用“中央工厂+区域工厂+本地合作组装”的网络做本地交",
-     "source": "东方财富资讯",
-     "zh": "机构调研丨物理AI+机器人概念 这家公司已取得数据服务订单 正探索物流垂类具身智能方案落地"
-    },
-    {
-     "title": "央行：11月25日将开展5000亿元7天期逆回购操作",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938489725.html",
-     "pubDate": "Tue, 24 Nov 2026 17:00:00 +0800",
-     "summary": "公开市场逆回购招标公告 [2026]第23号 为保持 银行 体系流动性充裕，2026年11月25日，中国人民 银行 将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作。 中国人民 银行 公开市场业务操作室 2026年11月24日 （文章来源：央行网站）",
-     "source": "东方财富资讯",
-     "zh": "央行：11月25日将开展5000亿元7天期逆回购操作"
     }
    ]
   },

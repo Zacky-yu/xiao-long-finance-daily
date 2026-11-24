@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 04:12:12",
+ "generated_at": "2026/11/25 04:32:13",
  "recent_days": 7,
  "industries": [
   {
@@ -31,6 +31,14 @@
      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
      "source": "TechCrunch AI",
      "zh": "Meta brings its Muse AI assistant directly into Instagram DMs"
+    },
+    {
+     "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
+     "link": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
+     "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000",
+     "summary": "American open-source AI is making a comeback, and this powerful local LLM is proving that fast inference, AI coding agents, and impressive results don't require expensive APIs.",
+     "source": "KDnuggets",
+     "zh": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio"
     },
     {
      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
@@ -81,6 +89,14 @@
      "zh": "商汤开源生图新模型！8B参数拍大片、做设计，还会自我纠错"
     },
     {
+     "title": "From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()",
+     "link": "https://www.kdnuggets.com/from-messy-to-clean-taming-real-world-csv-files-with-pandas-read_csv",
+     "pubDate": "Tue, 24 Nov 2026 15:00:00 +0000",
+     "summary": "The process of building a bulletproof Python loader based on Pandas' read_csv() function to turn messy data into pristine data.",
+     "source": "KDnuggets",
+     "zh": "From Messy to Clean: Taming Real-World CSV Files with pandas read_csv()"
+    },
+    {
      "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
      "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
      "pubDate": "Tue, 24 Nov 2026 14:16:53 +0000",
@@ -95,6 +111,14 @@
      "summary": "智东西 作者 | 杨京丽 编辑 | 云鹏 智东西11月24日报道，今天，小米集团发布2026年第三季度财报。 第三季度，小米营收为 1072.40亿元 ，同比 下降5.2% ；净利润 38.76亿 ，同比 下降68.42% ；经调整净利润为 48.84亿元 ，同比下降56.8%；毛利为 216.15亿元 ，同比下降 16.7% ，毛利率为 20.2% 。小米单季度研发开支为 92亿元 ，同比增长2%；前三季度研发开支达到 274亿元 ，同比增长 16.5% 。 ▲小米营收、净利润、研发开支情况（智东西制图） 截至9月30日，小米拥有 52509名全职员工 ，较去年同期 减少3722人 ，其中研",
      "source": "智东西",
      "zh": "小米Q3财报出炉：AI研发占比超30%，卢伟冰吐槽内存涨价压力大"
+    },
+    {
+     "title": "7 Most Downloaded AI Models on Hugging Face",
+     "link": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
+     "pubDate": "Tue, 24 Nov 2026 13:00:00 +0000",
+     "summary": "The most downloaded AI models on Hugging Face aren't the ones you'd expect. Discover why smaller, older, and specialized models dominate the rankings.",
+     "source": "KDnuggets",
+     "zh": "7 Most Downloaded AI Models on Hugging Face"
     },
     {
      "title": "Searching for distant planets with Astra",
@@ -223,30 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "Claude证出「代数版P≠NP」！73000行Lean代码通过验证"
-    },
-    {
-     "title": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744860&idx=1&sn=7c02536b54e86523ba38503e8db10b0a",
-     "pubDate": "Tue, 24 Nov 2026 10:09:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%"
-    },
-    {
-     "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-     "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
-     "pubDate": "Tue, 24 Nov 2026 00:02:39 +0000",
-     "summary": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared fi",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes"
-    },
-    {
-     "title": "How Intentful uses dots to make more time for growth",
-     "link": "https://openai.com/business/customer-stories/intentful-dots",
-     "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-     "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-     "source": "OpenAI",
-     "zh": "How Intentful uses dots to make more time for growth"
     }
    ]
   },
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
+     "link": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
+     "pubDate": "Tue, 24 Nov 2026 20:28:22 +0000",
+     "summary": "Volkswagen is giving EV drivers in Germany a reason to plug in at home, even if they don’t need a charge. VW’s charging subsidiary, Elli, is launching a vehicle-to-grid (V2G) program in December that pays drivers up to €720 in the first year for keeping a compatible EV plugged in. more…",
+     "source": "Electrek",
+     "zh": "VW will pay EV drivers in Germany up to €720 to plug in at home"
+    },
+    {
      "title": "Hyundai IONIQ 3 spotted on US roads: Is the affordable EV coming to the US? [Images]",
      "link": "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images/",
      "pubDate": "Tue, 24 Nov 2026 20:07:39 +0000",
@@ -719,14 +727,6 @@
      "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
      "source": "TechCrunch Transport",
      "zh": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch"
-    },
-    {
-     "title": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’ – what could it be?",
-     "link": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
-     "pubDate": "Tue, 24 Nov 2026 16:24:11 +0000",
-     "summary": "President Trump says he “protected” Elon Musk during his first term, and that “you wouldn’t have Elon if it wasn’t for me.” He tied it to “a certain incident” that he called “a tough incident,” but he didn’t say what it was. Musk had plenty of run-ins with federal regulators between 2017 and 2021. O",
-     "source": "Electrek",
-     "zh": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’ – what could it be?"
     },
     {
      "title": "An Empty EV Tried To Park Itself 868 Times In One Night. The Video Is Hilarious",
@@ -840,6 +840,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
+     "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
+     "pubDate": "Tue, 24 Nov 2026 20:27:51 +0000",
+     "summary": "Rotterdam is expanding its methanol and ethanol business for industrial customers and ocean-going ships. Its inland freight fleet needs a different energy strategy. Confusing cargo, marine bunkering and propulsion would commit port authorities to parallel fuel networks when regular freight routes of",
+     "source": "CleanTechnica",
+     "zh": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy"
+    },
     {
      "title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
      "link": "https://oilprice.com/Energy/Crude-Oil/Is-This-Tiny-Oil-Giant-The-Real-Crown-Jewel-Of-Trumps-New-World-Order.html",
@@ -1071,14 +1079,6 @@
      "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
      "source": "Energy Storage News",
      "zh": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%"
-    },
-    {
-     "title": "The LiTime Lares K1 Expandable Plug & Play Kitchen Backup — CleanTechnica Tested",
-     "link": "https://cleantechnica.com/2026/11/24/the-litime-lares-k1-expandable-plug-play-kitchen-backup-cleantechnica-tested/",
-     "pubDate": "Tue, 24 Nov 2026 11:30:01 +0000",
-     "summary": "I spent 35 years in the Tampa suburbs, so I pay attention to backup power when a storm is coming. Last year I tested the BLUETTI Elite 100 V2 portable power station for CleanTechnica. That unit is meant to be carried around. The LiTime Lares K1 is different: a plug-in ... [continued] The post The Li",
-     "source": "CleanTechnica",
-     "zh": "The LiTime Lares K1 Expandable Plug & Play Kitchen Backup — CleanTechnica Tested"
     }
    ]
   },
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "New Inception extortion gang launches large-scale vishing campaign",
+     "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+     "pubDate": "Tue, 24 Nov 2026 15:21:20 -0500",
+     "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+     "source": "BleepingComputer",
+     "zh": "New Inception extortion gang launches large-scale vishing campaign"
+    },
+    {
      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
      "pubDate": "Tue, 24 Nov 2026 13:59:52 -0500",
@@ -1591,14 +1599,6 @@
      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
      "source": "BleepingComputer",
      "zh": "Hackers compromise Check Point Servers in 22 organizations"
-    },
-    {
-     "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-     "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-     "pubDate": "Tue, 24 Nov 2026 10:10:10 -0500",
-     "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-     "source": "BleepingComputer",
-     "zh": "Police disrupt 57 illegal streaming services with 7.3 million visits"
     },
     {
      "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
@@ -1753,6 +1753,22 @@
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "Sources: Jensen Huang said Nvidia doesn&apos;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
+     "link": "https://www.techmeme.com/261124/p34#a261124p34",
+     "pubDate": "Tue, 24 Nov 2026 15:10:00 -0500",
+     "summary": "CNBC : Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy &nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang on Tuesday struck a conciliatory and remorseful tone while leading his first employee me",
+     "source": "Techmeme",
+     "zh": "Sources: Jensen Huang said Nvidia doesn&apos;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)"
+    },
+    {
      "title": "Sources: the CIA and the ODNI recently discovered a cybersecurity breach affecting an open-source intelligence analysis system, exposing some unclassified info (New York Times)",
      "link": "https://www.techmeme.com/261124/p33#a261124p33",
      "pubDate": "Tue, 24 Nov 2026 15:05:01 -0500",
@@ -1761,12 +1777,20 @@
      "zh": "Sources: the CIA and the ODNI recently discovered a cybersecurity breach affecting an open-source intelligence analysis system, exposing some unclassified info (New York Times)"
     },
     {
-     "title": "Measles death toll rises to 14 as national case tally nears 6,000",
+     "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
      "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
      "pubDate": "Tue, 24 Nov 2026 20:00:18 +0000",
      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
      "source": "Ars Technica",
-     "zh": "Measles death toll rises to 14 as national case tally nears 6,000"
+     "zh": "Back-to-back measles deaths is our new reality; US tally now at 14"
+    },
+    {
+     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+     "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+     "pubDate": "Tue, 24 Nov 2026 19:40:43 +0000",
+     "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
     },
     {
      "title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
@@ -1804,7 +1828,7 @@
      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
      "link": "https://grafana.com/grafana/download",
      "pubDate": "Tue, 24 Nov 2026 19:23:44 +0000",
-     "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 31 # Comments: 6",
+     "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 51 # Comments: 11",
      "source": "Hacker News",
      "zh": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)"
     },
@@ -1812,7 +1836,7 @@
      "title": "Compiling Web Applications into Verified Operations for AI Agents",
      "link": "https://protocolis.co/paper/",
      "pubDate": "Tue, 24 Nov 2026 19:12:02 +0000",
-     "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "Compiling Web Applications into Verified Operations for AI Agents"
     },
@@ -1828,7 +1852,7 @@
      "title": "What Cloudflare Doesn't Tell You",
      "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
      "pubDate": "Tue, 24 Nov 2026 19:03:55 +0000",
-     "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/ Comments URL: https://news.ycombinator.com/item?id=50632883 Points: 65 # Comments: 31",
+     "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/ Comments URL: https://news.ycombinator.com/item?id=50632883 Points: 79 # Comments: 52",
      "source": "Hacker News",
      "zh": "What Cloudflare Doesn't Tell You"
     },
@@ -1847,14 +1871,6 @@
      "summary": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
      "source": "WIRED",
      "zh": "iRestore Elite Laser Hair Growth System Review: Husband-Approved"
-    },
-    {
-     "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-     "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-     "pubDate": "Tue, 24 Nov 2026 18:55:12 +0000",
-     "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026 Comments URL: https://news.ycombinator.com/item?id=50632756 Points: 73 # Comments: 68",
-     "source": "Hacker News",
-     "zh": "OpenAI reveals they solved VP ≠ VNP before Anthropic"
     },
     {
      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
@@ -1897,14 +1913,6 @@
      "zh": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights"
     },
     {
-     "title": "In an all-hands, Jensen Huang apologized for violating Nvidia&apos;s code of conduct, saying he is in therapy after making \"very serious personal mistakes\" (Paresh Dave/Wired)",
-     "link": "https://www.techmeme.com/261124/p28#a261124p28",
-     "pubDate": "Tue, 24 Nov 2026 13:01:27 -0500",
-     "summary": "Paresh Dave / Wired : In an all-hands, Jensen Huang apologized for violating Nvidia's code of conduct, saying he is in therapy after making &ldquo;very serious personal mistakes&rdquo; &nbsp; &mdash;&nbsp; The reinstated Nvidia CEO acknowledged violating the company's code of conduct and said he had",
-     "source": "Techmeme",
-     "zh": "In an all-hands, Jensen Huang apologized for violating Nvidia&apos;s code of conduct, saying he is in therapy after making \"very serious personal mistakes\" (Paresh Dave/Wired)"
-    },
-    {
      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
      "pubDate": "Tue, 24 Nov 2026 17:44:53 +0000",
@@ -1932,7 +1940,7 @@
      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 101 # Comments: 86",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 117 # Comments: 95",
      "source": "Hacker News",
      "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
@@ -1983,14 +1991,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games"
-    },
-    {
-     "title": "中国食品品牌的“第二次出海”",
-     "link": "https://www.huxiu.com/article/4908185.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 00:10:37 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：许恒 食品，其实是中国走向世界最早的贸易与文化载体。 古代丝绸之路上驼铃悠扬、千帆竞发，茶叶、生姜、桃李等中国风物沿着商路向西传播，制糖技艺与饮馔文化也随之远播南洋、中东与欧洲。 到了近代，有文字记载的第一家海外中餐馆在1850年的美国诞生，此后百余年间，有华人的地方就有中餐，红金的招牌下氤氲着陌生又诱人的锅气，那是世界认识中国的第一张味觉名片。 时至今天，中华饮食文化的全球热度仍在持续攀升：中式新茶饮开在全球各大都市的繁华地段，火锅、麻辣烫俘获各国食客味蕾，甚至#BecomingChinese（像中国人一样生活）词条下喝粥饮茶等中式养生饮食一次次在全",
-     "source": "虎嗅",
-     "zh": "中国食品品牌的“第二次出海”"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Only the higher memory tiers of the Galaxy S27 Pro and S27 Ultra will get LPDDR6 and UFS 5.0",
+     "link": "https://www.gsmarena.com/only_the_higher_memory_tiers_of_the_galaxy_s27_pro_and_s27_ultra_will_get_lpddr6_and_ufs_50-news-75611.php",
+     "pubDate": "Tue, 24 Nov 2026 21:21:02 +0100",
+     "summary": "Keen smartphone buyers know that models with 128GB storage usually get slower UFS 3.1 chips, while 256GB models (at least on higher-end phones) get faster UFS 4.x. This issue is almost behind us (as 256GB is becoming the more common value for base storage), but Samsung may complicate things even fur",
+     "source": "GSMArena",
+     "zh": "Only the higher memory tiers of the Galaxy S27 Pro and S27 Ultra will get LPDDR6 and UFS 5.0"
+    },
     {
      "title": "Anthropic just gave Claude users a new way to make Mac apps",
      "link": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
@@ -2231,14 +2239,6 @@
      "summary": "The Huawei Mate X8 has gone official in China with an innovative hinge technology and several improvements over its predecessor. It also supports the company’s Ruiying Z10 modular camera accessory that has its own 1-inch 50MP sensor. The Huawei Mate X8 features an 8.2-inch LTPO OLED display on the i",
      "source": "GSMArena",
      "zh": "Huawei Mate X8 launches with a magnetic controlled flattening hinge system"
-    },
-    {
-     "title": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8",
-     "link": "https://www.dpreview.com/news/ttartisan-goes-ultra-wide-with-a-489-autofocus-12mm-f2-8/",
-     "pubDate": "Tue, 24 Nov 2026 16:19:51 +0000",
-     "summary": "The new ultra-wide prime gives Sony and Nikon shooters another affordable option.",
-     "source": "DPReview",
-     "zh": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8"
     }
    ]
   },
@@ -2248,6 +2248,62 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "FHFA boosts conforming loan limit by 2.7% for 2027",
+     "link": "https://seekingalpha.com/news/4676335-fhfa-boosts-conforming-loan-limit-by-2_7-percent-for-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 15:23:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FHFA boosts conforming loan limit by 2.7% for 2027"
+    },
+    {
+     "title": "Sanofi acquisition of Insmed boosts other biotechs",
+     "link": "https://seekingalpha.com/news/4676333-sanofi-acquisition-of-insmed-buoys-other-biotechs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 15:22:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sanofi acquisition of Insmed boosts other biotechs"
+    },
+    {
+     "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+     "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 20:18:29 GMT",
+     "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
+     "source": "Financial Times",
+     "zh": "Huang says he still does not believe in CEO succession planning at Nvidia"
+    },
+    {
+     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 20:16:00 GMT",
+     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+     "source": "MarketWatch",
+     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
+    },
+    {
+     "title": "Analog Devices outlines $1.6B-$1.9B FY2027 CapEx plan while guiding Q1 revenue to $4.4B ± $150M",
+     "link": "https://seekingalpha.com/news/4676338-analog-devices-outlines-1_6b-1_9b-fy2027-capex-plan-while-guiding-q1-revenue-to-4_4b-150m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 15:12:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Analog Devices outlines $1.6B-$1.9B FY2027 CapEx plan while guiding Q1 revenue to $4.4B ± $150M"
+    },
+    {
+     "title": "Anthropic falls below IPO price as tech rally fades",
+     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 20:07:51 GMT",
+     "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+     "source": "Financial Times",
+     "zh": "Anthropic falls below IPO price as tech rally fades"
+    },
+    {
+     "title": "Micron downgraded to Neutral over data center risks, memory reductions: BNP",
+     "link": "https://seekingalpha.com/news/4676334-micron-downgraded-to-neutral-over-data-center-risks-memory-reductions-bnp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 15:07:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Micron downgraded to Neutral over data center risks, memory reductions: BNP"
+    },
     {
      "title": "Jensen Huang tells staff that Nvidia doesn&apos;t need a succession plan",
      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
@@ -2265,36 +2321,12 @@
      "zh": "Kohl’s forecasts FY2026 EPS $4.30 to $4.50 as comps turn positive and Q4 comp guide set at flat to up 2%"
     },
     {
-     "title": "波兰外交部召见俄罗斯大使 抗议领空遭侵犯",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938863896.html",
-     "pubDate": "Wed, 25 Nov 2026 03:57:44 +0800",
-     "summary": "当地时间24日，波兰外交部发言人韦维乌尔说，俄罗斯驻波兰大使米赫诺当天被召至外交部，波方就俄军袭击乌克兰期间发生的波兰领空遭侵犯事件向俄方提出强烈抗议，并递交外交照会。 据波兰方面消息，此次召见与20日俄军袭击乌克兰期间发生的相关事件有关。波兰卢布林省新利波韦茨以及喀尔巴阡山省鲁德尼克和莫沃德奇茨发现3枚导弹残骸。波兰调查人员认定，相关残骸属于俄罗斯生产的Kh-101型巡航导弹，并通过残骸上的序列号等信息确认其来源。 韦维乌尔说，波方在外交照会中对相关行动表示“强烈反对”，认为有关行为对波兰领空、波兰公民以及北约盟国构成安全威胁。 俄罗斯驻波兰大使米赫诺在接受召见后表示，波方没有向其提供足以令",
-     "source": "东方财富股票",
-     "zh": "波兰外交部召见俄罗斯大使 抗议领空遭侵犯"
-    },
-    {
      "title": "Victoria's Secret preps for board chair transition",
      "link": "https://seekingalpha.com/news/4676329-victorias-secret-preps-for-board-chair-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 14:50:33 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Victoria's Secret preps for board chair transition"
-    },
-    {
-     "title": "Bitcoin is 53% off its peak, with the historic cycle clock nearly done",
-     "link": "https://seekingalpha.com/news/4676332-bitcoin-is-53-percent-off-its-peak-with-historic-cycle-clock-nearly-done?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 14:50:13 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bitcoin is 53% off its peak, with the historic cycle clock nearly done"
-    },
-    {
-     "title": "Nvidia CEO says he has no succession plan during all-hands meeting: report",
-     "link": "https://seekingalpha.com/news/4676330-nvidia-ceo-says-he-has-no-succession-plan-during-all-hands-meeting-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 14:48:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia CEO says he has no succession plan during all-hands meeting: report"
     },
     {
      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
@@ -2305,68 +2337,20 @@
      "zh": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls"
     },
     {
-     "title": "新思科技在成交量激增中下挫 最新下跌2.9%",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938863617.html",
-     "pubDate": "Wed, 25 Nov 2026 03:45:35 +0800",
-     "summary": "新 思科 技在成交量激增中下挫，最新下跌2.9%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "新思科技在成交量激增中下挫 最新下跌2.9%"
+     "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+     "link": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 24 Nov 2026 19:48:00 GMT",
+     "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
+     "source": "Finextra",
+     "zh": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms"
     },
     {
      "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
      "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
      "pubDate": "Wed, 25 Nov 2026 03:45:19 +0800",
      "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.72%，标普500指数跌0.65%， 纳斯达克 综合 指数跌1.68%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌9.11%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.53%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格走低，截至发稿",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
-    },
-    {
-     "title": "普京：必将回应乌对俄燃料能源设施的袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938863590.html",
-     "pubDate": "Wed, 25 Nov 2026 03:39:42 +0800",
-     "summary": "俄罗斯总统普京24日表示，乌克兰武装部队持续袭击俄燃料与能源基础设施，俄方必将予以回应。他要求加强对俄燃料和能源基础设施的保护。 普京当天在燃料与能源 综合 体发展委员会会议上指出，尽管美国总统特朗普此前要求乌克兰停止此类袭击，乌方仍继续袭击俄燃料与能源基础设施。他表示，乌方推动局势升级的行动不会对俄造成致命打击。 普京说，目前俄国内燃料市场保持稳定，民众和企业需求得到保障，国内汽油价格在经历峰值后趋稳。他强调，当前确保国内燃料供需平衡、供应稳定仍然是主要任务。 普京说，当前，国际成品油市场形势依然严峻，俄企在全球能源市场仍然占据领先地位。俄方从未限制向任何国家和地区供应 油气资源 ，反而是一",
-     "source": "东方财富股票",
-     "zh": "普京：必将回应乌对俄燃料能源设施的袭击"
-    },
-    {
-     "title": "Huang says he still doesn’t believe in Nvidia succession planning",
-     "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 19:37:01 GMT",
-     "summary": "Chief executive speaks to staff for first time after returning to chipmaker",
-     "source": "Financial Times",
-     "zh": "Huang says he still doesn’t believe in Nvidia succession planning"
-    },
-    {
-     "title": "美国情报机构遭遇非机密信息泄露",
-     "link": "http://finance.eastmoney.com/news/11790,202611253938863450.html",
-     "pubDate": "Wed, 25 Nov 2026 03:34:25 +0800",
-     "summary": "据报道，美国情报机构遭遇非机密信息泄露，入侵事件影响了开源情报系统，机密资料未受威胁。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国情报机构遭遇非机密信息泄露"
-    },
-    {
-     "title": "WTI原油期货结算价报每桶82.05美元，涨幅2.35%；布伦特原油期货结算价报每桶91.40美元，涨幅2.27%",
-     "link": "http://finance.eastmoney.com/news/1356,202611253938863339.html",
-     "pubDate": "Wed, 25 Nov 2026 03:33:10 +0800",
-     "summary": "WTI原油 期货 结算价报每桶82.05美元，涨幅2.35%；布伦特原油 期货 结算价报每桶91.40美元，涨幅2.27%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货结算价报每桶82.05美元，涨幅2.35%；布伦特原油期货结算价报每桶91.40美元，涨幅2.27%"
-    },
-    {
-     "title": "Dollar Tree forecasts Q4 EPS $2.46-$2.66 as Q3 traffic growth accelerates to 3.8%",
-     "link": "https://seekingalpha.com/news/4676331-dollar-tree-forecasts-q4-eps-2_46-2_66-as-q3-traffic-growth-accelerates-to-3_8-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 14:32:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dollar Tree forecasts Q4 EPS $2.46-$2.66 as Q3 traffic growth accelerates to 3.8%"
-    },
-    {
-     "title": "Arthur J. Gallagher affirmed by Moody's; outlook switched to positive",
-     "link": "https://seekingalpha.com/news/4676327-arthur-j-gallagher-affirmed-by-moodys-outlook-switched-to-positive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 14:31:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Arthur J. Gallagher affirmed by Moody's; outlook switched to positive"
     },
     {
      "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -2433,14 +2417,6 @@
      "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
     },
     {
-     "title": "Micron’s stock falls as an analyst warns about a future supply glut",
-     "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 18:33:00 GMT",
-     "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
-     "source": "MarketWatch",
-     "zh": "Micron’s stock falls as an analyst warns about a future supply glut"
-    },
-    {
      "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
      "link": "https://wallstreetcn.com/articles/3786625",
      "pubDate": "Wed, 25 Nov 2026 02:29:34 +0800",
@@ -2449,12 +2425,12 @@
      "zh": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情"
     },
     {
-     "title": "Anthropic falls below IPO price as tech rally fades",
-     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 17:52:14 GMT",
-     "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-     "source": "Financial Times",
-     "zh": "Anthropic falls below IPO price as tech rally fades"
+     "title": "词元“用得多”更要“用得值”",
+     "link": "http://www.eeo.com.cn/2026/1125/1101595.shtml",
+     "pubDate": "Wed, 25 Nov 2026 02:26:12 +0800",
+     "summary": "■田鹏 根据AI（人工智能）模型聚合平台OpenRouter最新数据测算，上周（11月16日至22日）全球大模型总调用量已达210万亿词元（Token）。其中，中国人工智能大模型调用量为111.16万亿词元，已连续30周位居全球第一。 词元调用量是衡量AI使用活跃度的重要参考指标。高调用量、高活跃度，折射出我国AI正加速嵌入各行各业的运转流程，越来越多市场主体将AI作为提效工具，融入真实业务场景。与此同时，在AI加快融入生产...",
+     "source": "经济观察网",
+     "zh": "词元“用得多”更要“用得值”"
     },
     {
      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -2487,6 +2463,30 @@
      "summary": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
      "source": "Financial Times",
      "zh": "Trump readies raft of new tariffs on major economies"
+    },
+    {
+     "title": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌",
+     "link": "https://wallstreetcn.com/articles/3786560",
+     "pubDate": "Wed, 25 Nov 2026 00:21:26 +0800",
+     "summary": "英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。 周二，美股盘初，标普500指数跌0.90%，道琼斯工业平均指数跌0.20%，纳斯达克综合指数跌1.43%，纳斯达克100指数跌1.7%，费城半导体指数一度大跌9%。 半导体ETF跌5.2%，在美股盘初领跌行业ETF，科技行业ETF跌3.05%，全球科技股指数ETF跌2.94%，网络股指数ETF跌1.13%。 个股方面，英伟达跌8%，Anthropic跌14%破发，ADI跌14.9%，美光跌9.4%，闪迪跌9.6%，AMD跌10.4%，SK海力士ADR、英特尔、希捷科技、Lumentum、C",
+     "source": "华尔街见闻",
+     "zh": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌"
+    },
+    {
+     "title": "摩根大通：物理AI“ChatGPT时刻”最早明年到来",
+     "link": "https://wallstreetcn.com/articles/3786601",
+     "pubDate": "Tue, 24 Nov 2026 23:51:36 +0800",
+     "summary": "人形机器人与物理AI正从技术演示迈向真实场景部署，行业规模化落地的拐点可能比预期来得更早。 11月24日，摩根大通亚太股票研究团队发布最新行业深度报告， 认为多模态模型进步、数据积累、政策支持与商业化执行正在形成合力，推动物理AI进入S曲线加速阶段。 该行预计，物理AI的“ChatGPT时刻”最乐观有望于2027年到来。 这一判断也得到产业界的呼应。在摩根大通亚太科技创新与增长（TIG）会议上，机器人整机厂商、数据基础设施商及模型开发商的高管普遍认为，模型能力提升只是起点，真正决定行业胜负的将是可扩展的数据管道、真实场景部署形成的反馈闭环，以及客户能够切实感知的投资回报（ROI）。 物理AI突",
+     "source": "华尔街见闻",
+     "zh": "摩根大通：物理AI“ChatGPT时刻”最早明年到来"
+    },
+    {
+     "title": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平",
+     "link": "https://wallstreetcn.com/articles/3786623",
+     "pubDate": "Tue, 24 Nov 2026 23:51:21 +0800",
+     "summary": "巴西新季咖啡供应加速流入市场，此前持续困扰市场的库存紧张局面出现缓解迹象。 周二， 阿拉比卡咖啡期货下跌，盘中最大跌幅达2%。此前，ICE交易所监管仓库库存单日激增19%，至逾26.8万袋，创1998年以来最大单日增幅 ，连续第五个交易日增长，也抹去了此前两周的累计涨幅。 本月早些时候，阿拉比卡库存一度跌至1999年以来最低水平。历史性低库存令市场容易受到逼仓冲击，也限制了咖啡期货的下行空间。如今，随着巴西新季咖啡陆续运抵欧洲，供应紧张局面开始松动。 尽管美国农业部预计2026-27年度全球咖啡产量将创下1.897亿袋的历史纪录，但此前的低库存仍是市场定价的重要支撑，供应改善能否持续将成为后续",
+     "source": "华尔街见闻",
+     "zh": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 02:26:10",
+ "generated_at": "2026/11/25 02:32:15",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Robotics Summit 2027 opens call for speakers",
+     "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+     "pubDate": "Tue, 24 Nov 2026 18:03:37 +0000",
+     "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Robotics Summit 2027 opens call for speakers"
+    },
+    {
      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
      "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
      "pubDate": "Tue, 24 Nov 2026 14:48:57 +0000",
@@ -600,14 +608,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Repor",
      "source": "The Robot Report",
      "zh": "The manufacturing data gap holding back physical AI"
-    },
-    {
-     "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
-     "link": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
-     "pubDate": "Sat, 21 Nov 2026 00:55:45 +0000",
-     "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic’s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Medtronic’s Hugo surgical robot ready for bigger operation"
     },
     {
      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -1794,6 +1794,14 @@ window.INDUSTRY_DATA = {
      "zh": "In the first all-hands since his return, Jensen Huang apologized for violating Nvidia&apos;s code of conduct, saying he made some \"very serious personal mistakes\" (Paresh Dave/Wired)"
     },
     {
+     "title": "AstridVPN: A VPN that doesn't know who you are",
+     "link": "https://astridvpn.com/",
+     "pubDate": "Tue, 24 Nov 2026 18:00:21 +0000",
+     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 5 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "AstridVPN: A VPN that doesn't know who you are"
+    },
+    {
      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
      "pubDate": "Tue, 24 Nov 2026 17:44:53 +0000",
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
      "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 59 # Comments: 18",
+     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 92 # Comments: 40",
      "source": "Hacker News",
      "zh": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'"
     },
@@ -1845,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 21 # Comments: 16",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 31 # Comments: 24",
      "source": "Hacker News",
      "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 137 # Comments: 47",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 149 # Comments: 51",
      "source": "Hacker News",
      "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Jetty Pro",
      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
      "pubDate": "Tue, 24 Nov 2026 16:23:02 +0000",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 100 # Comments: 37",
+     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 117 # Comments: 44",
      "source": "Hacker News",
      "zh": "Jetty Pro"
     },
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
      "source": "Ars Technica",
      "zh": "No more heated seat subscriptions for cars in New York from 2027"
-    },
-    {
-     "title": "How to Make a Lovable City",
-     "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-     "pubDate": "Tue, 24 Nov 2026 16:19:55 +0000",
-     "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 47 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "How to Make a Lovable City"
     },
     {
      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
@@ -2252,10 +2252,34 @@ window.INDUSTRY_DATA = {
     {
      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-     "pubDate": "Tue, 24 Nov 2026 18:23:14 GMT",
+     "pubDate": "Tue, 24 Nov 2026 18:27:58 GMT",
      "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
      "source": "CNBC",
      "zh": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note"
+    },
+    {
+     "title": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks",
+     "link": "https://seekingalpha.com/news/4676318-iraq-is-said-to-challenge-oil-capacity-review-ahead-of-opec-quota-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:23:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks"
+    },
+    {
+     "title": "MapLight Therapeutics soars 22% as health care stocks gain momentum",
+     "link": "https://seekingalpha.com/news/4676308-maplight-therapeutics-soars-22-as-health-care-stocks-gain-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:22:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MapLight Therapeutics soars 22% as health care stocks gain momentum"
+    },
+    {
+     "title": "Banks' Q3 earnings dip from Q2 but rise from a year ago, FDIC says",
+     "link": "https://seekingalpha.com/news/4676310-banks-q3-earnings-dip-from-q2-but-rise-from-a-year-ago-fdic-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:21:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Banks' Q3 earnings dip from Q2 but rise from a year ago, FDIC says"
     },
     {
      "title": "Prelude Therapeutics jumps 28% alongside peers",
@@ -2290,36 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     },
     {
-     "title": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3",
-     "link": "https://seekingalpha.com/news/4676098-small-cap-financial-stocks-top-and-bottom-quant-rated-picks-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:15:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3"
-    },
-    {
      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 18:14:00 GMT",
      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
      "source": "MarketWatch",
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
-    },
-    {
-     "title": "BofA favors copper and uranium, downgrades Pan American Silver",
-     "link": "https://seekingalpha.com/news/4676314-bofa-favors-copper-and-uranium-downgrades-pan-american-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:13:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BofA favors copper and uranium, downgrades Pan American Silver"
-    },
-    {
-     "title": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid",
-     "link": "https://seekingalpha.com/news/4676298-global-payments-gains-on-report-blackstone-warburg-pincus-apollo-backing-gtcr-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:13:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid"
     },
     {
      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
@@ -2381,7 +2381,7 @@ window.INDUSTRY_DATA = {
      "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
      "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
      "pubDate": "Wed, 25 Nov 2026 01:50:08 +0800",
-     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.87%，标普500指数跌0.33%， 纳斯达克 综合 指数跌1.35%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.51%并跌破83美元的发行价， 闪迪 跌11.06%， 美光科技 跌10.25%，AMD跌8.92%， SK海力士 跌8.67%，ARM跌8.05%， 西部数据 跌7.25%， 英特尔 跌7.02%， 英伟达 跌7.01%， 应用材料 跌6.22%， 希捷科技 跌5.86%，恩智浦跌5.10%， 博通 跌3.28%。 商品市场方面，国际金银价格短线跳水，截至",
+     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.76%，标普500指数跌0.54%， 纳斯达克 综合 指数跌1.52%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.58%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.29%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格短线跳水，截至",
      "source": "东方财富股票",
      "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
     },

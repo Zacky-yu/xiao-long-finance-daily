@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 07:31:55",
+ "generated_at": "2026/11/25 07:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -941,7 +941,7 @@ window.INDUSTRY_DATA = {
      "title": "TVA touts $1.7B data center deal under new large-load tariff",
      "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
      "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
@@ -1186,14 +1186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
-     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
-     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-     "source": "BioPharma Dive",
-     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1224,14 +1216,6 @@ window.INDUSTRY_DATA = {
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
-    },
-    {
-     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
-     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-     "source": "BioPharma Dive",
-     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1280,6 +1264,22 @@ window.INDUSTRY_DATA = {
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
+    },
+    {
+     "title": "FDA again turns back Capricor Duchenne cell therapy",
+     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
+     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+     "source": "BioPharma Dive",
+     "zh": "FDA again turns back Capricor Duchenne cell therapy"
+    },
+    {
+     "title": "Will the first approved psychedelic become a blockbuster?",
+     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
+     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+     "source": "BioPharma Dive",
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1762,6 +1762,46 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)",
+     "link": "https://www.techmeme.com/261124/p45#a261124p45",
+     "pubDate": "Tue, 24 Nov 2026 18:45:57 -0500",
+     "summary": "Marshall Cohen / CNN : Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state &nbsp; &mdash;&nbsp; Utah prosecutors dropped criminal charges against the prediction company Kalshi and its co-founders on Tuesday, one day afte",
+     "source": "Techmeme",
+     "zh": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)"
+    },
+    {
+     "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
+     "link": "https://www.techmeme.com/261124/p44#a261124p44",
+     "pubDate": "Tue, 24 Nov 2026 18:40:02 -0500",
+     "summary": "OpenAI : OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them &nbsp; &mdash;&nbsp; - Our GPT-6 family of models can design new protein shapes and the sequence of their chemical building blocks ",
+     "source": "Techmeme",
+     "zh": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)"
+    },
+    {
+     "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+     "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+     "pubDate": "Tue, 24 Nov 2026 23:39:04 +0000",
+     "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+     "source": "WIRED",
+     "zh": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police"
+    },
+    {
+     "title": "硅基打工人，悄悄占领全国5A景区",
+     "link": "https://www.huxiu.com/article/4908192.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 07:37:59 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 30家机器人大厂，把景区当成新手村。 01 月初，我在香港出差，晚上从九龙香格里拉出来，走到维港海边时，发现路旁的小店被游客围了起来。 不少人把手机举过前排的肩膀，镜头却并非朝着海对岸的灯光夜景。 我凑过去看，玻璃后面的机器人正伸长手臂，从货架上取下茶饮，当它转身把饮料送往取货口，旁边几部手机跟着缓缓移动，生怕漏掉哪个动作。 香港维港机器人茶饮店/旅界实拍 一对老外情侣刚放下手机，见它又动起来，赶紧重新按下录像，旁边的内地父母熟练地扫码下单，顺便给身边的孩子上起户外人工智能科普课。 颇具幽默感的是货架中间贴着张白纸告示，特意提醒游客，它",
+     "source": "虎嗅",
+     "zh": "硅基打工人，悄悄占领全国5A景区"
+    },
+    {
+     "title": "5G教训在前，别让路径依赖拖累6G发展",
+     "link": "https://www.huxiu.com/article/4908191.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 07:34:46 +0800",
+     "summary": "本文来自微信公众号： ICT解读者 ，作者：ICT解读者 老解 近日，2026年6G发展大会在上海松江召开。 在这场被视为通信业风向标的大会上，被誉为中国移动通信技术发展领军人物的邬贺铨院士作了题为《6G对多场景的适应》的主旨报告，并抛出一句被媒体广泛引用的判断：“ToC是6G商用收入的支柱，但是增长是有限的。而ToB应用潜力更大，应该成为6G价值的着力点。” 话本身挑不出毛病，但放在5G商用至今的语境里听，味道就不一样了。恰恰是这种“两头都照顾到”的表述，折射出5G时代遗留的那套思维惯性——它曾把产业预期带偏，现在又被拿来推6G。 一、5G的教训：To C叙事抬高预期，最终反噬产业信心 5G",
+     "source": "虎嗅",
+     "zh": "5G教训在前，别让路径依赖拖累6G发展"
+    },
+    {
      "title": "黄仁勋复职后首次主持全员大会并当众道歉：感谢 CFO 克雷斯代管公司，自称每天接受 1.5 小时治疗、英伟达不需要接班人计划、承诺调整往日的强硬管理风格",
      "link": "https://www.ithome.com/1/031/914.htm",
      "pubDate": "Tue, 24 Nov 2026 23:26:49 GMT",
@@ -1877,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
      "link": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
      "pubDate": "Tue, 24 Nov 2026 22:26:41 +0000",
-     "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available Comments URL: https://news.ycombinator.com/item?id=50635698 Points: 4 # Comments: 2",
+     "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available Comments URL: https://news.ycombinator.com/item?id=50635698 Points: 11 # Comments: 7",
      "source": "Hacker News",
      "zh": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available"
     },
@@ -1901,31 +1941,15 @@ window.INDUSTRY_DATA = {
      "title": "Heart attack and stroke risk detectable decades in advance",
      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
      "pubDate": "Tue, 24 Nov 2026 21:51:21 +0000",
-     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 77 # Comments: 26",
+     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 83 # Comments: 32",
      "source": "Hacker News",
      "zh": "Heart attack and stroke risk detectable decades in advance"
-    },
-    {
-     "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)",
-     "link": "https://www.techmeme.com/261124/p39#a261124p39",
-     "pubDate": "Tue, 24 Nov 2026 16:45:55 -0500",
-     "summary": "Reuters : Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year &nbsp; &mdash;&nbsp; Dell Technologies (DELL.N) on Tuesday raised its annual revenue and profit forecasts for the third time this year after r",
-     "source": "Techmeme",
-     "zh": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)"
-    },
-    {
-     "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
-     "link": "https://www.techmeme.com/261124/p38#a261124p38",
-     "pubDate": "Tue, 24 Nov 2026 16:35:02 -0500",
-     "summary": "Will Knight / Wired : Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 &nbsp; &mdash;&nbsp; A new test assumes AI agents can go rogue&mdash;and asks whether they can resist temptation.&nbsp;",
-     "source": "Techmeme",
-     "zh": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)"
     },
     {
      "title": "An unclassified CIA system was breached in a cyberattack",
      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
      "pubDate": "Tue, 24 Nov 2026 21:24:27 +0000",
-     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 71 # Comments: 22",
+     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 77 # Comments: 25",
      "source": "Hacker News",
      "zh": "An unclassified CIA system was breached in a cyberattack"
     },
@@ -1949,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Ternary Bonsai 2.5 27B",
      "link": "https://prismml.com/news/bonsai-2-5-27b",
      "pubDate": "Tue, 24 Nov 2026 20:08:03 +0000",
-     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 252 # Comments: 79",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 266 # Comments: 86",
      "source": "Hacker News",
      "zh": "Ternary Bonsai 2.5 27B"
     },
@@ -1968,30 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
      "source": "WIRED",
      "zh": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia"
-    },
-    {
-     "title": "朋友圈进入集体大失声时代",
-     "link": "https://www.huxiu.com/article/4908188.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 03:29:33 +0800",
-     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 朋友圈正在失去日常生活。 十年前，人们会在这里晒一顿午饭、抱怨一次加班、记录一场失眠，也会毫无负担地发出一张模糊的照片。如今，频繁出现的更多是工作转发、产品推广，以及旅行、结婚、生子等经过筛选的重要节点。 生活没有停止，只是越来越少被放进朋友圈。 有意思的是，人们对朋友圈的依赖并没有因此消失。我们依然习惯在睡前、通勤途中或者工作间隙打开朋友圈，看看身边的人最近在做什么，却越来越少主动让别人知道自己过得怎么样。 过去，发朋友圈是一件随手就能完成的事。现在，一些人在按下发送键之前，需要考虑领导会不会看到、同事会不会多想、亲戚会不会追问，以及自己的观点会",
-     "source": "虎嗅",
-     "zh": "朋友圈进入集体大失声时代"
-    },
-    {
-     "title": "车规级电容涨价了，车企正在失去大客户待遇",
-     "link": "https://www.huxiu.com/article/4908187.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 03:01:25 +0800",
-     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月18日，韩国三星电机宣布深化与英伟达在AI基础设施领域的合作，双方合作进一步延伸至MLCC（多层片式陶瓷电容器）。 今年以来，三星电机已陆续签下多份AI服务器电容长期供货合同。仅9月1日公布的一份一年期合同，金额就达到1.0722万亿韩元，相当于公司上一财年全部营业收入的9.5%。 另一家电容巨头日本村田制作所，也在调整自己的生产计划。9月10日，村田通知客户，将逐步停产部分消费级和车规级MLCC产品，最后接单时间为2028年，最终交付时间为2029年。 50天后，村田宣布了一项庞大的扩产计划：未来五年投资1万亿日元扩大MLCC产能",
-     "source": "虎嗅",
-     "zh": "车规级电容涨价了，车企正在失去大客户待遇"
-    },
-    {
-     "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-     "link": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
-     "summary": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
-     "source": "WIRED",
-     "zh": "iRestore Elite Laser Hair Growth System Review: Husband-Approved"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think",
+     "link": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
+     "pubDate": "Tue, 24 Nov 2026 23:30:00 +0000",
+     "summary": "Google partnered with iFixit for a step-by-step guide to replacing the Fitbit Edge's battery.",
+     "source": "Engadget",
+     "zh": "The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think"
+    },
+    {
+     "title": "Australia to pass safety bill that could result in massive fines for tech platforms",
+     "link": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
+     "pubDate": "Tue, 24 Nov 2026 23:21:40 +0000",
+     "summary": "Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.",
+     "source": "Engadget",
+     "zh": "Australia to pass safety bill that could result in massive fines for tech platforms"
+    },
     {
      "title": "iPhone 18e is reportedly getting a redesigned camera island",
      "link": "https://www.gsmarena.com/iphone_18e_is_reportedly_getting_a_redesigned_camera_island-news-75613.php",
@@ -2170,28 +2186,12 @@ window.INDUSTRY_DATA = {
      "zh": "Today’s Android app deals and freebies: Grand Theft Auto San Andreas 50% off, Dead Cells, Prune, more"
     },
     {
-     "title": "Why you should never reply with STOP when you receive spam texts",
-     "link": "https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts/",
-     "pubDate": "Tue, 24 Nov 2026 19:30:00 +0000",
-     "summary": "Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.",
-     "source": "Engadget",
-     "zh": "Why you should never reply with STOP when you receive spam texts"
-    },
-    {
      "title": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back",
      "link": "https://www.gsmarena.com/the_huawei_matebook_fold_s_is_a_foldable_147_tablet_with_an_extra_display_on_the_back-news-75614.php",
      "pubDate": "Tue, 24 Nov 2026 20:02:02 +0100",
      "summary": "While some brands have gotten boring, we can always rely on Huawei for some out-of-the-box thinking. Have a look at the Huawei MateBook Fold S – no, no, keep looking, it gets stranger the more you look. This is a foldable tablet that can be used in a laptop-like half-folded configuration – the lower",
      "source": "GSMArena",
      "zh": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back"
-    },
-    {
-     "title": "The biggest limitations of ChatGPT",
-     "link": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
-     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
-     "summary": "Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.",
-     "source": "Engadget",
-     "zh": "The biggest limitations of ChatGPT"
     },
     {
      "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look",
@@ -2250,52 +2250,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "特朗普称他曾考虑过美国持股英伟达",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938904352.html",
-     "pubDate": "Wed, 25 Nov 2026 07:23:19 +0800",
-     "summary": "“我考虑过，”美国总统特朗普在接受《纽约邮报》采访时说表示。他被问及美国政府是否可能像持股 英特尔 那样持股 英伟达 时，作出上述回应。“我当时说，‘也许我应该这么做，’但我目前还没有提出这件事。现在可能也不算太晚”。特朗普表示，他之所以介入让黄仁勋恢复CEO职位，是因为如果董事会选错了领导 英伟达 的人，“那对我们国家来说在很多方面都将是件可怕的事情。” （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普称他曾考虑过美国持股英伟达"
-    },
-    {
-     "title": "报道：英伟达AI GPU新单交货周期拉长 RTX60系显卡量产或后移",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938904122.html",
-     "pubDate": "Wed, 25 Nov 2026 07:22:16 +0800",
-     "summary": "据台湾地区媒体《工商时报》报道， 英伟达 (NVDA.O)AI产品供应持续紧俏，ODM台厂透露，目前包括B300、GB300在内的新订单交货周期皆已大幅拉长，甚至连工作站级超级芯片组，交期也要26周左右。这进一步排挤消费级显卡供货，据悉， 英伟达 将减少GeForce RTX 50系列游戏显卡供货，RTX 60系列显卡原以2027年底量产为目标，如今日程恐往后挪。据悉，B300的GPU交期26周至40周，GB300交期约14周~26周。预估近两季陆续下单的新订单，大多得等到明年第二、三季后才能交付。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "报道：英伟达AI GPU新单交货周期拉长 RTX60系显卡量产或后移"
-    },
-    {
-     "title": "光通信订单能见度延至2028 产业高景气有望持续",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938856445.html",
-     "pubDate": "Wed, 25 Nov 2026 07:22:15 +0800",
-     "summary": "当地时间11月23日， 英伟达 董事会一致投票，恢复黄仁勋总裁、首席执行官及董事职务。受此消息影响，全球 算力概念 股上演反弹行情。多家券商研报认为，此举有助于稳定全球算力资本开支节奏与下一代光互联技术落地预期。 上海证券报记者注意到，在海外云厂商资本开支持续加码、CPO与OOI等技术路线加速验证，以及国内头部厂商订单能见度延至2028年等因素驱动下，光 通信 行业的高景气度有望进一步延续。 云厂商资本开支维持高位 光模块订单增长预期确定 作为算力产业链的需求源头，北美头部云厂商的资本开支指引，是观察行业基本面的重要指标。 中信建投证券 研报显示，北美四大云厂商2026年第三季度合计资本开支约",
-     "source": "东方财富股票",
-     "zh": "光通信订单能见度延至2028 产业高景气有望持续"
-    },
-    {
-     "title": "图解财报：戴尔科技三季报盈利132.44亿美元，同比增加260.18%",
-     "link": "http://stock.eastmoney.com/news/11836,202611253938903789.html",
-     "pubDate": "Wed, 25 Nov 2026 07:21:16 +0800",
-     "summary": "戴尔科技 11月24日发布 三季报 业绩，截至2026年10月30日的 9 个月内，该公司营业收入1457.50亿美元，同比 增长81.83%； 公司权益持有人应占溢利（归母净利润）132.44亿美元， 同比增长260.18% 。 戴尔科技 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用",
-     "source": "东方财富股票",
-     "zh": "图解财报：戴尔科技三季报盈利132.44亿美元，同比增加260.18%"
-    },
-    {
-     "title": "【图解财报】戴尔科技三季报盈利132.44亿美元，同比增加260.18%",
-     "link": "http://stock.eastmoney.com/news/11837,202611253938903688.html",
-     "pubDate": "Wed, 25 Nov 2026 07:21:16 +0800",
-     "summary": "戴尔科技 11月24日发布 三季报 业绩，截至2026年10月30日的 9 个月内，该公司营业收入1457.50亿美元，同比 增长81.83%； 公司权益持有人应占溢利（归母净利润）132.44亿美元， 同比增长260.18% 。 戴尔科技 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用",
-     "source": "东方财富股票",
-     "zh": "【图解财报】戴尔科技三季报盈利132.44亿美元，同比增加260.18%"
-    },
-    {
-     "title": "美股收盘：纳指跌1.48% 费城半导体指数跌7.88%；存储芯片股集体重挫 闪迪跌超11% SK海力士跌近10%",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938904016.html",
-     "pubDate": "Wed, 25 Nov 2026 07:20:30 +0800",
-     "summary": "当地时间11月24日（周二），美股三大股指走势分化。截至收盘，道指涨0.85%，纳指跌1.48%，标普500指数跌0.5%。 大型科技股多数下跌， 英伟达 跌5.86%，Meta、 亚马逊 、谷歌跌超1%， 特斯拉 跌0.20%， 苹果 涨1.43%， 微软 涨0.74%。 半导体 全线收跌，费城 半导体 指数跌7.88%。 高通 跌0.25%， 阿斯麦 跌3.45%， 台积电 跌3.83%， 博通 跌3.98%， 英特尔 跌8.15%，ARM跌8.55%， 超威半导体 跌8.86%。 存储芯片 股集体重挫， SK海力士 跌9.90%， 闪迪 跌11.13%， 美光科技 跌10.97%， 西部",
-     "source": "东方财富股票",
-     "zh": "美股收盘：纳指跌1.48% 费城半导体指数跌7.88%；存储芯片股集体重挫 闪迪跌超11% SK海力士跌近10%"
+     "title": "Dell’s stock rises as the AI boom helps sales more than double",
+     "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 23:34:00 GMT",
+     "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+     "source": "MarketWatch",
+     "zh": "Dell’s stock rises as the AI boom helps sales more than double"
     },
     {
      "title": "Jensen Huang tells staff that Nvidia doesn&apos;t need a succession plan",
@@ -2488,6 +2448,46 @@ window.INDUSTRY_DATA = {
      "summary": "戴尔科技公布的最新财报显示，AI基础设施投资热潮正以前所未有的速度转化为公司收入。第三财季营收同比翻倍，AI优化服务器收入增长近三倍，新订单和积压订单均创历史新高，推动公司第三次上调本财年业绩指引。 当地时间11月24日，戴尔公布截至2026年10月30日的2027财年第三季度业绩。财报显示， 公司当季营收达到549.37亿美元，同比增长103%；非GAAP每股收益为9.45美元，同比增长265%，两项指标均大幅超过市场预期。分析师此前平均预期营收为493.2亿美元、调整后每股收益为6.59美元。 更重要的是，戴尔AI优化服务器业务继续加速增长。 第三财季，该业务收入达到220.31亿美元，同",
      "source": "华尔街见闻",
      "zh": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻"
+    },
+    {
+     "title": "Anthropic’s stock just broke below its IPO price for the first time",
+     "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 21:46:00 GMT",
+     "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+     "source": "MarketWatch",
+     "zh": "Anthropic’s stock just broke below its IPO price for the first time"
+    },
+    {
+     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 21:45:00 GMT",
+     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+     "source": "MarketWatch",
+     "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
+    },
+    {
+     "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+     "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 21:31:00 GMT",
+     "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+     "source": "MarketWatch",
+     "zh": "How much more are richest Americans spending on the holidays compared to everyone else?"
+    },
+    {
+     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+     "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+     "pubDate": "Tue, 24 Nov 2026 21:13:39 GMT",
+     "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+     "source": "CNBC",
+     "zh": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington"
+    },
+    {
+     "title": "Anthropic closes below IPO price as tech rally fades",
+     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 21:11:37 GMT",
+     "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+     "source": "Financial Times",
+     "zh": "Anthropic closes below IPO price as tech rally fades"
     }
    ]
   },

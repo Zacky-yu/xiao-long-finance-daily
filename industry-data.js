@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 11:11:51",
+ "generated_at": "2026/11/24 11:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "具身行业，终于等来了自己的通用智能时刻",
+     "link": "https://www.qbitai.com/2026/11/512264.html",
+     "pubDate": "Tue, 24 Nov 2026 01:51:56 +0000",
+     "summary": "行业苦等多年的预训练通用智能，终于有了答案",
+     "source": "量子位",
+     "zh": "具身行业，终于等来了自己的通用智能时刻"
+    },
     {
      "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
      "link": "https://www.qbitai.com/2026/11/512252.html",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs. The post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD app",
      "source": "MarkTechPost",
      "zh": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD"
-    },
-    {
-     "title": "Connected intelligence for in-house legal",
-     "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-     "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
-     "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-     "source": "OpenAI",
-     "zh": "Connected intelligence for in-house legal"
     }
    ]
   },
@@ -257,6 +257,38 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Ant Group deepens its humanoid robotics ambitions with US$100 million Simplexity funding round",
+     "link": "https://www.digitimes.com/news/a20261124PD221/ant-group-funding-robot-startup-supply-chain.html",
+     "pubDate": "Tue, 24 Nov 2026 03:20:00 GMT",
+     "summary": "Ant Group is expanding its robotics investments, leading a US$100 million funding round for Chinese humanoid robot startup Simplexity Robotics at a valuation of US$1.6 billion. Existing investors, including Tencent, HSG, and Lanchi Ventures, also participated in the round.",
+     "source": "DIGITIMES",
+     "zh": "Ant Group deepens its humanoid robotics ambitions with US$100 million Simplexity funding round"
+    },
+    {
+     "title": "Rene Haas, once touted as possible Nvidia successor, commits to lead Arm to 2033",
+     "link": "https://www.digitimes.com/news/a20261124VL214/arm-ceo-nvidia-president-jensen-huang.html",
+     "pubDate": "Tue, 24 Nov 2026 03:19:32 GMT",
+     "summary": "Arm CEO Rene Haas has confirmed that he will extend his leadership of the company under a new agreement lasting until 2033. Previously, he had been considered a top contender to lead Nvidia after the resignation of Jensen Huang, who has since been reinstated as CEO.",
+     "source": "DIGITIMES",
+     "zh": "Rene Haas, once touted as possible Nvidia successor, commits to lead Arm to 2033"
+    },
+    {
+     "title": "Analysis: Jensen Huang's return divides China's AI industry over Nvidia dependence",
+     "link": "https://www.digitimes.com/news/a20261124VL211/nvidia-jensen-huang-technology-gpu-robot.html",
+     "pubDate": "Tue, 24 Nov 2026 03:17:57 GMT",
+     "summary": "Less than two weeks after China's technology industry began contemplating a \"post-Jensen era,\" Jensen Huang's reinstatement as Nvidia CEO on November 23 has upended expectations. Chinese companies tied to the global AI server supply chain stand to benefit from renewed confidence in Nvidia's technolo",
+     "source": "DIGITIMES",
+     "zh": "Analysis: Jensen Huang's return divides China's AI industry over Nvidia dependence"
+    },
+    {
+     "title": "Samsung cuts executive promotions by 19%, favors chip division",
+     "link": "https://www.digitimes.com/news/a20261124VL212/samsung-hbm-development-business-sales.html",
+     "pubDate": "Tue, 24 Nov 2026 03:15:02 GMT",
+     "summary": "Samsung Electronics cut annual executive promotions by nearly a fifth. However, its semiconductor division saw more promotions, rewarding engineers behind its high-bandwidth memory (HBM) business and foundry specialists responsible for securing orders and improving manufacturing yields.",
+     "source": "DIGITIMES",
+     "zh": "Samsung cuts executive promotions by 19%, favors chip division"
+    },
     {
      "title": "XPeng targets more than doubling overseas sales in 2027, with Europe driving expansion",
      "link": "https://www.digitimes.com/news/a20261124PD218/xpeng-europe-vehicle-sales-2027.html",
@@ -272,38 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Taiwan's domestically developed Albatross II military drone has cleared a major funding hurdle, paving the way for initial production after the Legislative Yuan approved NT$1.675 billion (US$50.96 million) in first-year funding under the central government's 2026 supplementary budget. The approval m",
      "source": "DIGITIMES",
      "zh": "Taiwan clears initial funding to launch homegrown Albatross II drone production"
-    },
-    {
-     "title": "Samsung targets fivefold increase in V9 NAND capacity in China",
-     "link": "https://www.digitimes.com/news/a20261124VL209/samsung-nand-capacity-production-capacity-2027.html",
-     "pubDate": "Tue, 24 Nov 2026 02:55:00 GMT",
-     "summary": "Samsung Electronics plans to boost production capacity for its ninth-generation (V9) NAND flash memory fivefold at its second plant in Xi'an, China, by November 2027 to meet demand for enterprise solid-state drives (eSSDs) used in AI data centers, Seoul Economic Daily reported, citing industry sourc",
-     "source": "DIGITIMES",
-     "zh": "Samsung targets fivefold increase in V9 NAND capacity in China"
-    },
-    {
-     "title": "Ukraine defense tech firm Uforce raises US$700 million, eyes Asia-Pacific production, Taiwan suppliers",
-     "link": "https://www.digitimes.com/news/a20261123PD240/production-taiwan-ukraine-funding-technology.html",
-     "pubDate": "Tue, 24 Nov 2026 02:45:04 GMT",
-     "summary": "Uforce, a defense technology company founded in Ukraine and headquartered in the UK, announced the completion of a US$700 million Series A funding round. The funding will be used to help the company expand research and development of its unmanned systems, as well as support efforts to move productio",
-     "source": "DIGITIMES",
-     "zh": "Ukraine defense tech firm Uforce raises US$700 million, eyes Asia-Pacific production, Taiwan suppliers"
-    },
-    {
-     "title": "Cisco, OpenAI launch open-source project to counter AI-driven cyberattacks",
-     "link": "https://www.digitimes.com/news/a20261124VL206/openai-cisco-launch-cybersecurity-software.html",
-     "pubDate": "Tue, 24 Nov 2026 02:45:00 GMT",
-     "summary": "Cisco Systems and OpenAI have launched an open-source cybersecurity project designed to protect running Linux systems from attacks while permanent software patches are being developed.",
-     "source": "DIGITIMES",
-     "zh": "Cisco, OpenAI launch open-source project to counter AI-driven cyberattacks"
-    },
-    {
-     "title": "Macronix bets on 3D NAND and NOR as bigger rivals retreat from low-capacity markets",
-     "link": "https://www.digitimes.com/news/a20261124PD214/3d-nand-macronix-international-automotive-production.html",
-     "pubDate": "Tue, 24 Nov 2026 02:39:08 GMT",
-     "summary": "Macronix International is betting on 3D NAND and 3D NOR flash memory to drive its next phase of growth as major global memory manufacturers withdraw from low- and mid-capacity markets, leaving opportunities in automotive and other specialty applications.",
-     "source": "DIGITIMES",
-     "zh": "Macronix bets on 3D NAND and NOR as bigger rivals retreat from low-capacity markets"
     },
     {
      "title": "Electronic Character Recognition Acclerates Data Processing",
@@ -1762,20 +1762,116 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "巴西游戏点卡备货三个月，退货率却到18%，本地支付渠道该怎么选？",
+     "link": "https://www.baijing.cn/question/638929",
+     "pubDate": "Tue, 24 Nov 2026 03:17:44 +0000",
+     "summary": "我们做拉美手游充值卡和礼品卡分销，团队12人，主攻巴西和墨西哥，月流水大概40万雷亚尔。去年Q4备了三个月的实体点卡库存，走本地渠道铺到圣保罗和里约的便利店，结果退货率冲到18%，主要是Boleto付款后48小时未到账被系统自动取消，玩家以为卡没激活。已经试过接入Pix和本地信用卡分期，但Boleto的清算延迟还是卡在渠道商那头，库存周转从45天拖到70天。现在纠结的是：继续压Boleto的备货比例，还是转做纯数字码加Pix即时到账？判断标准该看退货率还是渠道覆盖率？",
+     "source": "白鲸出海",
+     "zh": "巴西游戏点卡备货三个月，退货率却到18%，本地支付渠道该怎么选？"
+    },
+    {
+     "title": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261123/p51#a261123p51",
+     "pubDate": "Mon, 23 Nov 2026 22:15:00 -0500",
+     "summary": "Wall Street Journal : Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them &nbsp; &mdash;&nbsp; Trump made clear he wanted the Nvidia CEO reinstated; on Monday he touted the decision, saying th",
+     "source": "Techmeme",
+     "zh": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)"
+    },
+    {
+     "title": "比较艰难的一些年",
+     "link": "https://www.huxiu.com/article/4907940.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:13:25 +0800",
+     "summary": "本文来自微信公众号： 九边 ，作者：九边，题图来自：视觉中国 上篇文章 的评论区有读者问，是不是男性35到50是最艰难的一个时期，今天就聊聊这事，咱们先从另一个话题说起。 不知道为啥，对于孩子的将来，男性更倾向于&ldquo;顺其自然&rdquo;，觉得孩子的未来，80%是他自己的特性决定的，父母再折腾，影响超不过20%，甚至折腾得太过分，影响是负的。 但女性不一样，女性普遍认为，孩子最重要的是习惯，小的时候培养好习惯，并且每一步都要超前学，领先同龄人一个身位，就算不领先，也不能落下太多或者垫底。 所以补课什么的，不能少。如果是女孩，最好是琴棋书画样样精通，还要学模特步，主持人，培养气质。前些",
+     "source": "虎嗅",
+     "zh": "比较艰难的一些年"
+    },
+    {
+     "title": "谷歌拟给浏览器 AI 加道“权限锁”：允许看商品，不许进支付页",
+     "link": "https://www.ithome.com/1/031/331.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:11:24 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文， 报道称谷歌工程师提出实验性方案，计划在浏览器层面为 AI 智能体设置权限边界，避免其获得过大的操作权限。 该方案目前仍处于原型提议阶段，尚未确定是否上线 Chrome 浏览器。 IT之家援引博文介绍，根据拟议的方案，谷歌工程师计划扩展浏览器自动化协议 WebDriver BiDi，通过浏览器权限约束 AI 智能体访问体验，包括但不限于支持访问哪些网站、能否点击按钮或输入文字等。 根据方案的示例场景， 用户可以允许 AI 浏览购物网站查找商品，却禁止它访问外部支付网站 。所有 AI 智能体的操作均需要",
+     "source": "IT之家",
+     "zh": "谷歌拟给浏览器 AI 加道“权限锁”：允许看商品，不许进支付页"
+    },
+    {
+     "title": "华为首个动态血糖仪维感 G1 预售：16 天持续监测 + 赠 16 天活力人生会员，单盒 299 元、双盒 569 元",
+     "link": "https://www.ithome.com/1/031/330.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:10:48 GMT",
+     "summary": "IT之家 11 月 24 日消息，华为维感 G1 持续葡萄糖监测系统（CGM）今日 10:08 正式开启预售，官方定价为 329 元，首发价 299 元，12 月 11 日正式开售，赠 16 天活力人生会员（设备绑定 2 小时内自动激活）。除了单盒装外，华为还提供多个套装可选： 单盒装持续测糖最长 16 天 299 元 2 盒装持续测糖最长 32 天 569 元 4 盒装持续测糖最长 64 天 1106 元 6 盒装持续测糖最长 96 天 1639 元 京东 华为维感 G1 动态血糖仪单 盒装持续葡萄糖监测系统家用血糖仪测量血糖 299 元 直达链接 华为维感 G1 采用隐藏针一体式免组装设计",
+     "source": "IT之家",
+     "zh": "华为首个动态血糖仪维感 G1 预售：16 天持续监测 + 赠 16 天活力人生会员，单盒 299 元、双盒 569 元"
+    },
+    {
+     "title": "与女儿手机成瘾的战斗，因文学的救赎而终结",
+     "link": "https://www.huxiu.com/article/4907944.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:09:22 +0800",
+     "summary": "本文来自微信公众号： 散人懂四六 ，作者：飞哥爱思考 编者按 因为对抗闺女的手机成瘾，父女俩进入了冷战。这类场景，当父母的都不陌生。但在飞哥家，事件走向很独特，父女俩最终各自因为文学作品，达成了和解。 短视频，让人走上一条追求多巴胺的道路，这条路没有尽头，因为多巴胺本身就是欲望的载体。而优秀的文字，或许始于多巴胺，但会终于血清素。 飞哥用边界，留给孩子和自我相处的空间；文学用我们可以掌握的节奏，甚至是缓慢的进程本身，留给我们和自我相处的空间。 允许别人和自身相处，对自我产生真正的觉察，是一个人/一个产品，可以带给对方最珍贵的礼物。“允许”，是温柔的底层。 而父母对孩子的心急甚至是专横，短视频对",
+     "source": "虎嗅",
+     "zh": "与女儿手机成瘾的战斗，因文学的救赎而终结"
+    },
+    {
+     "title": "银行“开门红”提前开打，竞争逻辑悄然生变",
+     "link": "https://www.huxiu.com/article/4907942.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:07:59 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 2027年“开门红”的变化在于，不少银行把年末收官与来年“开门红”一体化部署，备战时点从往年的12月提前至11月上旬，个别银行甚至提前到10月。 距离2027年还有一个多月，银行新年“开门红”已经打响。不少银行召开动员会，提前进入状态。与往年相比，今年不仅启动得更早、动员得更密，话术和考核口径也在悄然生变。在监管引导弱化时点考核、存款利率持续下行以及净息差收窄的大背景下，行业考核重心开始向日均质量与长期客户价值倾斜。 大行淡化集中冲刺，中小行扎堆动员 2027年“开门红”的变化在于，不少银行把年末收官与来年“开门红”一体化部署，备战时点从往年的",
+     "source": "虎嗅",
+     "zh": "银行“开门红”提前开打，竞争逻辑悄然生变"
+    },
+    {
+     "title": "豆包旗下 AI 个人助理“小豆”开启公测，能够帮你处理日常事务",
+     "link": "https://www.ithome.com/1/031/329.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:06:48 GMT",
+     "summary": "IT之家 11 月 24 日消息，豆包官方今天宣布“小豆”正式开启公测，采用邀请制开放。用户凭邀请码即可开启体验， 并获赠一定量免费额度 。 IT之家注意到，小豆是豆包旗下的 AI 个人助理产品，采用对话式交互方式，在用户明确指令与授权范围内，协助你高效处理日常事务。官方宣称它是“一个懂你，还能主动帮你办事的豆包”。未来，小豆上的能力与体验也将逐步在豆包 App 上线。 根据 App Store 商店页信息，小豆具备以下能力： 【信息查询】随时提问，快速获取天气、新闻、知识与生活常识答案。 【日程待办】用文字或语音添加日程、待办与提醒，不错过每件要事。 【生活服务】查快递、找周边、搜攻略，出行",
+     "source": "IT之家",
+     "zh": "豆包旗下 AI 个人助理“小豆”开启公测，能够帮你处理日常事务"
+    },
+    {
+     "title": "意想不到的跨界：半导体测试设备制造商 Advantest 成为《CS2》Major 合作伙伴",
+     "link": "https://www.ithome.com/1/031/327.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:04:54 GMT",
+     "summary": "IT之家 11 月 24 日消息，半导体测试设备制造商 Advantest（爱德万测试）当地时间昨日宣布成为今日开始举行的《CS2》电子竞技赛事 PGL Major 新加坡 2026 的官方合作伙伴，这也是 其首次通过电竞合作正式进军电竞行业 。 半导体产业链企业支持电子竞技早有记录，经典的英特尔极限大师赛 (IEM) 便源于此类合作。但之前选择赞助的多是拥有直接 toC 业务的公司， 像 Advantest 这样的纯粹 toB 企业仍属罕见 。 新闻稿表示： 在电子竞技中，每一秒都至关重要。玩家依赖于能够满足世界级游戏需求的先进技术，从处理瞬息万变的决策到清晰的画面和流畅的帧率，无一例外。作",
+     "source": "IT之家",
+     "zh": "意想不到的跨界：半导体测试设备制造商 Advantest 成为《CS2》Major 合作伙伴"
+    },
+    {
+     "title": "白宫为什么要救黄仁勋？",
+     "link": "https://www.tmtpost.com/8215308.html",
+     "pubDate": "Tue, 24 Nov 2026 11:02:00 +0800",
+     "summary": "对于白宫而言，黄仁勋已经拿出了真实的资金、技术资源和商业网络来支持这条产业路线。",
+     "source": "钛媒体",
+     "zh": "白宫为什么要救黄仁勋？"
+    },
+    {
+     "title": "我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%",
+     "link": "https://www.ithome.com/1/031/326.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:01:05 GMT",
+     "summary": "IT之家 11 月 24 日消息，今日，工信部运行监测协调局发布前三季度数字产业运行数据。 前三季度我国数字产业实现收入 32.41 万亿元，同比增长 14.8%，增速较上年同期加快 5.2 个百分点。其中， 生成式人工智能产品应用普及率已超 50%。 数据显示， 我国前三季度数字产业实现利润 2.78 万亿元，同比增长 23.4% ，增速较上年同期提升 14.9 个百分点，收入利润率 8.6%，较上年同期提高 0.4 个百分点。工信部将利润增长归因于人工智能需求旺盛与出口增势强劲的双重拉动。 数字制造业是收入增长的主要来源。 规模以上计算机、通信和其他电子设备制造业实现收入 14.9 万亿元",
+     "source": "IT之家",
+     "zh": "我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%"
+    },
+    {
+     "title": "无需魔改：微星 Z690/Z790 系列主板新 BIOS 原生跑通英特尔纯大核 Bartlett Lake-S 处理器",
+     "link": "https://www.ithome.com/1/031/325.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:59:47 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文，报道称微星（MSI）的 Z690、Z790 系列主板安装官方最新 BIOS 后， 已原生支持英特尔 Bartlett Lake-S 处理器。 Bartlett Lake 采用 Intel 7 工艺和 LGA1700 插槽，主要服务于嵌入式及工业边缘计算设备，其中，高端型号完全采用性能核心，也就是玩家常说的“大核”，不搭配能效“小核”。 IT之家曾于今年 4 月报道，这种设计让它受到部分硬件爱好者关注，已有社区网友成功“魔改”， 在普通消费级 Z790 主板上运行 Bartlett Lake 处理器（C",
+     "source": "IT之家",
+     "zh": "无需魔改：微星 Z690/Z790 系列主板新 BIOS 原生跑通英特尔纯大核 Bartlett Lake-S 处理器"
+    },
+    {
      "title": "美股跌没的几万亿，AI拿什么赔？",
      "link": "https://www.huxiu.com/article/4906602.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 10:59:00 +0800",
      "summary": "美股AI板块陷入狂热与质疑，2万亿美元的算力基建却只换来年化千亿美元收入，行业缺口巨大，谁能兜底？AI泡沫会破吗？",
      "source": "虎嗅",
      "zh": "美股跌没的几万亿，AI拿什么赔？"
-    },
-    {
-     "title": "比较艰难的一些年",
-     "link": "https://www.huxiu.com/article/4907940.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 10:58:59 +0800",
-     "summary": "本文来自微信公众号： 九边 ，作者：九边 上篇文章的评论区有读者问，是不是男性35到50是最艰难的一个时期，今天就聊聊这事，咱们先从另一个话题说起。 不知道为啥，对于孩子的将来，男性更倾向于“顺其自然”，觉得孩子的未来，80%是他自己的特性决定的，父母再折腾，影响超不过20%，甚至折腾的太过分，影响是负的。 但女性不一样，女性普遍认为，孩子最重要的是习惯，小的时候培养好习惯，并且每一步都要超前学，领先同龄人一个身位，就算不领先，也不能落下太多或者垫底。 所以补课什么的，不能少。如果是女孩，最好是琴棋书画样样精通，还要学模特步，主持人，培养气质。前些年一度热衷围棋，这些年围棋被AI给砸了，热度才",
-     "source": "虎嗅",
-     "zh": "比较艰难的一些年"
     },
     {
      "title": "长租公寓资本开启“大换血”模式？",
@@ -1802,46 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作"
     },
     {
-     "title": "带你回到 2002 年：《GTA6》暗藏《罪恶都市》彩蛋",
-     "link": "https://www.ithome.com/1/031/322.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:51:25 GMT",
-     "summary": "IT之家 11 月 24 日消息，相信各位玩过《GTA》系列的小伙伴们都知道，Rockstar 喜欢往游戏里塞各种隐藏彩蛋。据 YouTube 博主 Memeio 发现，《GTA6》里隐藏着一个“穿越时空”的彩蛋， 可以让玩家重返 2002 年的原版《罪恶都市》 。 据介绍，破解彩蛋的起点位于 Key Lento 的 Badger 广播塔。玩家需要爬上去开启一个特殊装置，就可以听到罪恶都市的标志性音效。接着玩家需要顺着房间里的“LPL”提示，在地图的 12 处 LPL 变电站中按照正确顺序拨动特定开关。 当这 12 处开关的标签被依次拼合后， 浮现出的短语是“LIFE IS PASSING M",
-     "source": "IT之家",
-     "zh": "带你回到 2002 年：《GTA6》暗藏《罪恶都市》彩蛋"
-    },
-    {
-     "title": "雷克沙 DDR5 内存模组获 EXPO ULL 认证：《三角洲行动》平均帧 +38.86%",
-     "link": "https://www.ithome.com/1/031/321.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:50:54 GMT",
-     "summary": "IT之家 11 月 24 日消息，Lexar（雷克沙）近日宣布，其 6000MT/s CL28 规格的 ARES RGB DDR5 战神之刃二代内存模组 通过 AMD EXPO ULL v1.2 全项认证 ，在四大主要 DIY 主板制造商的平台上均获得认证。 IT之家获悉，此次测试包括 56 个小项，包括连续开关机后 4 小时压力测试、CPU + 内存 12 小时联合烤机、ULL 模式下 12 小时连续高负载运行灯， 让 AMD EXPO ULL 低延迟真正做到“不挑主板” 。 雷克沙表示，在《CS2》《无畏契约》《三角洲行动》3 款射击游戏中，过测内存模组在开启 ULL 后相较一般 EXPO",
-     "source": "IT之家",
-     "zh": "雷克沙 DDR5 内存模组获 EXPO ULL 认证：《三角洲行动》平均帧 +38.86%"
-    },
-    {
-     "title": "全新华为维感 G1 持续葡萄糖监测系统开启预售：全天候连续监测、手机手表多端查看",
-     "link": "https://www.ithome.com/1/031/318.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:49:40 GMT",
-     "summary": "IT之家 11 月 24 日消息，华为官方今日宣布，全新华为维感 G1 持续葡萄糖监测系统，今日 10:08 开启预售， 支持全天候连续监测血糖、手机手表多端查看血糖，以及血糖异常提醒等功能 。 据IT之家此前报道，国家药监局今年 10 月 30 日公示的医疗器械批准文件送达信息中出现了华为终端有限公司的持续葡萄糖监测系统，注册证编号为国械注准 20263072228。 三类医疗器械是中国监管体系中的最高等级，与心脏支架、人工关节同级。此前华为在健康监测领域的合规路径主要集中在二类证，包括腕部动态血压记录仪、睡眠呼吸暂停筛查软件、脉搏波房颤和早搏提示软件等。此次 CGM 获批，意味着华为从健康",
-     "source": "IT之家",
-     "zh": "全新华为维感 G1 持续葡萄糖监测系统开启预售：全天候连续监测、手机手表多端查看"
-    },
-    {
-     "title": "我国 400 米“庐州塔”封顶，用于大气环境气象梯度观测",
-     "link": "https://www.ithome.com/1/031/317.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:49:39 GMT",
-     "summary": "IT之家 11 月 24 日消息，据央视新闻报道，今天（24 日），坐落于安徽合肥未来大科学城的 400 米大气环境气象梯度观测塔（庐州塔）项目主塔钢结构完成第 42 节吊装作业，主塔结构顺利封顶 。 庐州塔是一座集大气污染梯度、温室气体通量、气象全要素精细化连续观测为一体的大型科研设施 ，总高 410 米，在稳定边界层、逆温层、低空急流、城市热岛环流等过程研究中具有明显优势。 该塔配备 23 个固定观测平台和 1 个可连续升降观测舱，投用后可开展从地面到高空的大气环境气象梯度观测研究，为地基、机载、星载等大气立体探测装备研发提供技术验证平台，支撑国产高端大气探测装备应用示范与产业化工作。 庐",
-     "source": "IT之家",
-     "zh": "我国 400 米“庐州塔”封顶，用于大气环境气象梯度观测"
-    },
-    {
-     "title": "“90% 编程无需手敲代码”：微软拉曼纳称 AI 让程序员少写代码，却要思考更多",
-     "link": "https://www.ithome.com/1/031/316.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:48:40 GMT",
-     "summary": "IT之家 11 月 24 日消息，在接受 Peter Yang 采访时，微软高管查尔斯 · 拉曼纳（Charles Lamanna）表示，AI 正在重塑软件工程师的工作重心，让其大幅减少“手搓”代码逐行敲打的工作， 但对于系统设计、验证、测试和安全上线等提出了更高的思考要求。 IT之家查询公开资料，拉曼纳是微软的执行副总裁，负责 Copilot、智能体及平台业务，是推动微软将 AI 融入办公软件、企业应用和开发平台的核心高管之一。 在采访中，拉曼纳举例表示，如果让一名 1990 年前后的程序员看到今天的云计算平台，他可能会觉得，自己过去需要亲手完成的大量工作，如今已经由平台代劳，感叹“90% ",
-     "source": "IT之家",
-     "zh": "“90% 编程无需手敲代码”：微软拉曼纳称 AI 让程序员少写代码，却要思考更多"
-    },
-    {
      "title": "尼日利亚站接入Paystack回款T+7，物流妥投14天，这个周转撑得住吗？",
      "link": "https://www.baijing.cn/question/638928",
      "pubDate": "Tue, 24 Nov 2026 02:48:15 +0000",
@@ -1866,22 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI是怎么“自己教自己”的？"
     },
     {
-     "title": "全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题",
-     "link": "https://www.ithome.com/1/031/315.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:45:35 GMT",
-     "summary": "IT之家 11 月 24 日消息，“深圳创投日”四周年暨 2026 香蜜湖财富管理周开幕大会于 11 月 23 日在深圳举行。 深圳福田区 13 家财险机构共同发起成立 全国首个“人工智能产业保险共同体” ，致力于破解大模型产业链“不敢保、不能保”难题。 同时，活动现场还发布了该共同体的核心研究成果 ——《人工智能产业风险治理白皮书（2026）》。该白皮书是全国首份系统回应人工智能产业风险与保险供给的白皮书，首次绘制“算力 — 模型 — 应用”全产业链风险图谱， 将 AI 系统性风险转化为可承保、可定价的保险供给 ，并给出“保险 + 服务 + 科技”三位一体的全周期治理方案，为全国贡献了可复制",
-     "source": "IT之家",
-     "zh": "全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题"
-    },
-    {
-     "title": "自免明星被做空，中国临床成“枪口”",
-     "link": "https://www.tmtpost.com/8215370.html",
-     "pubDate": "Tue, 24 Nov 2026 10:42:00 +0800",
-     "summary": "谁来承担成本？",
-     "source": "钛媒体",
-     "zh": "自免明星被做空，中国临床成“枪口”"
-    },
-    {
      "title": "黄仁勋回来了，但调查仍在继续",
      "link": "https://www.huxiu.com/article/4907934.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 10:39:13 +0800",
@@ -1890,36 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋回来了，但调查仍在继续"
     },
     {
-     "title": "500块以下不能买，山姆399元却卖断货？买件羽绒服怎么这么难？",
-     "link": "https://www.huxiu.com/article/4907262.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 10:35:37 +0800",
-     "summary": "买羽绒服怎么就这么难？业内老板说500块以下的不能买，怕你买到假绒货。结果山姆399元的羽绒服直接卖断货，网友一边吐槽牌子贵，一边拼了命抢便宜货。 山姆399的火爆，说明渠道和信任有时比品牌还重要。衣服贵，得拿出真本事；便宜，也别轻易被判死刑。冬天已经够冷了，咱们的钱包和心别再一起受冻了。",
-     "source": "虎嗅",
-     "zh": "500块以下不能买，山姆399元却卖断货？买件羽绒服怎么这么难？"
-    },
-    {
      "title": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
      "link": "https://www.techmeme.com/261123/p50#a261123p50",
      "pubDate": "Mon, 23 Nov 2026 21:35:01 -0500",
      "summary": "Emmy Martin / New York Times : Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &nbsp; &mdash;&nbsp; A court filing said the engineer captured meetings on customers, A.I. safety and a foreig",
      "source": "Techmeme",
      "zh": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)"
-    },
-    {
-     "title": "盒马一封催货函，把3岁酸菜品牌推上神坛，它却急着改名？",
-     "link": "https://www.tmtpost.com/8215258.html",
-     "pubDate": "Tue, 24 Nov 2026 10:35:00 +0800",
-     "summary": "催货函可以制造一次抢购，但撑不起一个品牌的长期增长。",
-     "source": "钛媒体",
-     "zh": "盒马一封催货函，把3岁酸菜品牌推上神坛，它却急着改名？"
-    },
-    {
-     "title": "微软CEO 纳德拉深度访谈：代码贬值之后，软件工程的重心正在彻底转移",
-     "link": "https://www.huxiu.com/article/4907910.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 10:30:00 +0800",
-     "summary": "本文来自微信公众号： AGI 2050 ，作者：AGI 2050，原文标题：《微软 CEO 纳德拉深度访谈：代码贬值之后，软件工程的重心正在彻底转移》 萨提亚·纳德拉是硅谷少有的、纯技术研发出身的科技巨头掌舵者。 从早年Sun Microsystems的底层开发，到主导微软全面拥抱开源、收购GitHub、推出席卷全球开发者的VS Code，再到早期重注OpenAI，纳德拉精准踩中了过去十年技术演进的每一个关键节奏。 然而，过去几年间，软件开发范式迎来了更剧烈的震荡：Cursor率先把智能体编程模式做了出来，Anthropic的Claude Code又凭借终端命令行形态迅速突围；与此同时，微软内",
-     "source": "虎嗅",
-     "zh": "微软CEO 纳德拉深度访谈：代码贬值之后，软件工程的重心正在彻底转移"
     },
     {
      "title": "欧洲站 VAT 递延后，清关时效和回款周期被拖长了怎么办？",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Alixel Cabrera / Utah News Dispatch : Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah &nbsp; &mdash;&nbsp; Amid multiple legal disputes between Utah leaders and Kalshi, the prediction market",
      "source": "Techmeme",
      "zh": "Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)"
-    },
-    {
-     "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-     "link": "https://www.science.org/doi/10.1126/scisignal.aef1375",
-     "pubDate": "Tue, 24 Nov 2026 00:53:46 +0000",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375 Comments URL: https://news.ycombinator.com/item?id=50621977 Points: 47 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity"
-    },
-    {
-     "title": "Supertake, which uses AI agents to turn users&apos; market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
-     "link": "https://www.techmeme.com/261123/p46#a261123p46",
-     "pubDate": "Mon, 23 Nov 2026 19:25:01 -0500",
-     "summary": "Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent &nbsp; &mdash;&nbsp; AI investing startup Supertake has an interesting premise: what if your &ldquo;takes&rdquo; on t",
-     "source": "Techmeme",
-     "zh": "Supertake, which uses AI agents to turn users&apos; market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
     }
    ]
   },
@@ -2258,12 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "2026年6G发展大会：上海智联信息技术研究院正式成立",
+     "link": "http://finance.eastmoney.com/news/1360,202611243938300286.html",
+     "pubDate": "Tue, 24 Nov 2026 11:22:00 +0800",
+     "summary": "在2026年6G发展大会上，举行上海智联院揭牌仪式，宣布上海智联信息技术研究院正式成立。据了解，智联院正聚焦“AI 赋能无线接入网、无线接入网使能 AI”共生驱动的无线通智融合体系，布局AI内生的无线空口传输、AI EDGE系统与新终端研发、智能体 通信 网络、任务驱动型智能 通信 新范式、通感智融合典型应用场景及系统验证等方向，加快前沿技术研发，强化产业联动与生态培育，全力推进6G标准化工作，抢占6G未来产业发展先机。 （科创板日报记者王耐） （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "2026年6G发展大会：上海智联信息技术研究院正式成立"
+    },
+    {
+     "title": "港股人工智能股冲高回落，智谱此前涨近15%，现跌超3%",
+     "link": "http://hk.eastmoney.com/news/1535,202611243938300369.html",
+     "pubDate": "Tue, 24 Nov 2026 11:20:47 +0800",
+     "summary": "港股 人工智能 股冲高回落， 智谱 此前涨近15%，现跌超3%； MINIMAX-W (00100.HK)此前涨超7%，现转跌。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "港股人工智能股冲高回落，智谱此前涨近15%，现跌超3%"
+    },
+    {
+     "title": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611243938299844.html",
+     "pubDate": "Tue, 24 Nov 2026 11:20:41 +0800",
+     "summary": "AI短剧、漫剧商业化落地提速，A股 影视概念 反复活跃， 上海电影 、 横店影视 等多股连板。机构认为， AI正重构影视内容成本曲线 ，板块估值修复空间打开。 AI漫剧出海用户破1.5亿 微短剧前三季度上线49万部 11月以来，A股 影视概念 反复活跃，AI短剧、漫剧方向领涨。11月2日，影视板块指数单日涨超9%，影视ETF银华、影视ETF国泰双双涨停， 文投控股 盘中上演\"地天板\"走出9天5板；11月10日，申万 影视院线 指数再涨6.80%，板块成交额达190.89亿元； 11月23日，AI漫剧概念再度爆发， 上海电影 、 横店影视 、 浙文影业 、 德才股份 等多股涨停， 果麦文化 、 ",
+     "source": "东方财富股票",
+     "zh": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)"
+    },
+    {
+     "title": "MSCI：仍与印尼市场保持接触，并邀请相关方就拟议的咨询分享意见",
+     "link": "http://finance.eastmoney.com/news/1351,202611243938299713.html",
+     "pubDate": "Tue, 24 Nov 2026 11:20:16 +0800",
+     "summary": "MSCI：仍与印尼市场保持接触，并邀请相关方就拟议的咨询分享意见。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "MSCI：仍与印尼市场保持接触，并邀请相关方就拟议的咨询分享意见"
+    },
+    {
+     "title": "安恒信息在雄安成立信息技术公司",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938299918.html",
+     "pubDate": "Tue, 24 Nov 2026 11:19:57 +0800",
+     "summary": "天眼查App显示，11月20日，安恒（雄安）信息技术有限公司成立，法定代表人为陈思宇，注册资本1100万元人民币，经营范围包括网络与信息安全 软件开发 、信息安全设备制造、信息安全设备销售等。股东信息显示，该公司由杭州 安恒信息 技术股份有限公司全资持股。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "安恒信息在雄安成立信息技术公司"
+    },
+    {
+     "title": "MSCI：MSCI已告知印尼不打算将其重新归类为独立市场，该说法不正确",
+     "link": "http://finance.eastmoney.com/news/1351,202611243938299348.html",
+     "pubDate": "Tue, 24 Nov 2026 11:18:16 +0800",
+     "summary": "MSCI：已注意到有关报道称，MSCI已告知印尼不打算将其重新归类为独立市场。该说法不正确。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "MSCI：MSCI已告知印尼不打算将其重新归类为独立市场，该说法不正确"
+    },
+    {
+     "title": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938275749.html",
+     "pubDate": "Tue, 24 Nov 2026 11:12:31 +0800",
+     "summary": "当地时间周一，在 英伟达 董事会一致决定让黄仁勋重返CEO岗位后， 特斯拉 与 SpaceX 首席执行官埃隆·马斯克接连发声。 周一早些时候，在得知 英伟达 董事会已恢复黄仁勋职位的消息后，马斯克迅速做出回应，他在社交媒体平台X上转发了 英伟达 对黄仁勋的复职声明， 并配文“错误已经被纠正” 。 几个小时后，马斯克又转发黄仁勋回归视频，并配文：“我认识的英伟达所有人都希望黄仁勋回来，这从结果就能看出来。” 黄仁勋回归现场画面曝光 根据视频画面，当黄仁勋回到英伟达加州圣克拉拉总部时，员工欢呼鼓掌，楼梯挤满了人，齐声高喊 “Jensen！”、“We love you”，现场气氛热烈。 黄仁勋当天没",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友"
+    },
+    {
      "title": "Six key questions raised by Jensen Huang&apos;s return to Nvidia",
      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
      "pubDate": "Tue, 24 Nov 2026 03:05:49 GMT",
      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
      "source": "CNBC",
      "zh": "Six key questions raised by Jensen Huang&apos;s return to Nvidia"
+    },
+    {
+     "title": "刚果（金）再度叫停钴出口！钴价月内大涨近三成 金属钴概念股深度回撤（名单）",
+     "link": "http://finance.eastmoney.com/news/11822,202611243938290837.html",
+     "pubDate": "Tue, 24 Nov 2026 11:02:36 +0800",
+     "summary": "刚果（金） 将于11月30日起 再度暂停所有 钴 出口，以扭转 钴 价跌势。A股金属 钴 概念股较年内高点全线深度回撤，机构称钴价反弹持续性仍待需求验证。 四个月后重新评估 出口配额机制面临重审 据财联社报道，刚果（金）矿业监管机构——战略矿产市场监管控制局（ARECOMS）周一在声明中表示，该国将从11月30日起暂停所有钴出口，直至另行通知。这份声明由ARECOMS主席Patrick Luabeya签署，该机构已在11月9日举行的会议上批准暂时停止钴出口，暂停范围覆盖工业矿、半工业矿及手工采矿的全部钴产品。 ARECOMS表示，计划在四个月后重新评估这项禁令，届时将考虑\"钴市场的整体走势、可",
+     "source": "东方财富资讯",
+     "zh": "刚果（金）再度叫停钴出口！钴价月内大涨近三成 金属钴概念股深度回撤（名单）"
     },
     {
      "title": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过",
@@ -2338,6 +2402,14 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋回归提振亚洲股市，韩股涨7%，SK海力士涨10%，日经一度涨5%"
     },
     {
+     "title": "“惊得我从椅子上摔下来”！黄仁勋回归日 华尔街也癫狂了",
+     "link": "http://finance.eastmoney.com/news/1344,202611243938253279.html",
+     "pubDate": "Tue, 24 Nov 2026 10:00:13 +0800",
+     "summary": "周日晚间，Credent Wealth Management首席投资官Edison Byzyka花了一个半小时参加Zoom会议，与同事们商讨上周市场大幅抛售后可能出现的行情走势。 他和他的团队早已做好了迎接“末日行情”的心理准备，以应对 人工智能 概念股持续下挫的冲击。但他们始料未及的是：这场交易的“核心人物”黄仁勋即将重返 英伟达 首席执行官之位——而他的回归将引发一波史诗级的美股猛烈反弹行情。 周一美股盘前， 英伟达 官网公告称，公司董事会已一致投票决定，即日起恢复黄仁勋的总裁、首席执行官及董事职务。 而尤为令人感到戏剧性的是，就在黄仁勋“王者归来”消息公布的短短六天前， 英伟达 董事会才",
+     "source": "东方财富资讯",
+     "zh": "“惊得我从椅子上摔下来”！黄仁勋回归日 华尔街也癫狂了"
+    },
+    {
      "title": "A股三大股指齐涨，创业板早盘一度涨4%，算力硬件集体大反弹，恒科指早盘高开2%后回落，权重科网股多走低",
      "link": "https://wallstreetcn.com/articles/3786562",
      "pubDate": "Tue, 24 Nov 2026 09:58:19 +0800",
@@ -2362,84 +2434,28 @@ window.INDUSTRY_DATA = {
      "zh": "Agilent projects 2027 core growth of 5% to 7% while targeting EPS of $6.73 to $6.86"
     },
     {
-     "title": "银行“开门红”提前开打，竞争逻辑悄然生变",
-     "link": "http://www.eeo.com.cn/2026/1124/1100697.shtml",
-     "pubDate": "Tue, 24 Nov 2026 09:50:59 +0800",
-     "summary": "2027年“开门红”的变化在于，不少银行把年末收官与来年“开门红”一体化部署，备战时点从往年的12月提前至11月上旬，个别银行甚至提前到10月。",
-     "source": "经济观察网",
-     "zh": "银行“开门红”提前开打，竞争逻辑悄然生变"
-    },
-    {
-     "title": "今日看点｜2026年6G发展大会将举行",
-     "link": "http://www.eeo.com.cn/2026/1124/1100687.shtml",
-     "pubDate": "Tue, 24 Nov 2026 09:37:36 +0800",
-     "summary": "11月24日至25日，2026年6G发展大会将在上海市松江区举行，大会以“智启星程，携手全球协同创新”为主题，聚焦6G全球统一标准制定与产业生态建设。",
-     "source": "经济观察网",
-     "zh": "今日看点｜2026年6G发展大会将举行"
-    },
-    {
-     "title": "震裕科技：融资净买入1227.3万元，融资余额7.55亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198995.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:25 +0800",
-     "summary": "交易所最新数据显示，震裕科技于2026年11月23日获融资买入7389.86万元，融资偿还6162.56万元， 当日融资净买入1227.3万元。 目前，该股融资余额7.55亿，占流通市值比例为4.68%。 该股当日融券卖出2.22万股，融券偿还3500股， 融券净卖出1.87万股。 目前，该股融券余量9.87万股，融券余额903.82万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "震裕科技：融资净买入1227.3万元，融资余额7.55亿元"
-    },
-    {
-     "title": "科达利：融资净偿还485.51万元，融资余额3.09亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198778.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:24 +0800",
-     "summary": "交易所最新数据显示， 科达利 于2026年11月23日获融资买入2180.63万元，融资偿还2666.13万元， 当日融资净偿还485.51万元。 目前，该股融资余额3.09亿，占流通市值比例为0.93%。 该股当日融券卖出1.64万股，融券偿还3700股， 融券净卖出1.27万股。 目前，该股融券余量10.96万股，融券余额1737.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
-     "source": "东方财富股票",
-     "zh": "科达利：融资净偿还485.51万元，融资余额3.09亿元"
-    },
-    {
-     "title": "宏川智慧：融资净偿还431.2万元，融资余额1.49亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198645.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:24 +0800",
-     "summary": "交易所最新数据显示， 宏川智慧 于2026年11月23日获融资买入350.84万元，融资偿还782.04万元， 当日融资净偿还431.2万元。 目前，该股融资余额1.49亿，占流通市值比例为5.37%。 该股当日融券卖出300股，融券偿还3900股， 融券净偿还3600股。 目前，该股融券余量2.57万股，融券余额16.47万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "宏川智慧：融资净偿还431.2万元，融资余额1.49亿元"
-    },
-    {
-     "title": "鲁阳节能：融资净偿还821.02万元，融资余额1.13亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198578.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:24 +0800",
-     "summary": "交易所最新数据显示， 鲁阳节能 于2026年11月23日获融资买入802.12万元，融资偿还1623.14万元， 当日融资净偿还821.02万元。 目前，该股融资余额1.13亿，占流通市值比例为3.08%。 该股当日融券卖出4900股，融券偿还0股， 融券净卖出4900股。 目前，该股融券余量2.72万股，融券余额19.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "鲁阳节能：融资净偿还821.02万元，融资余额1.13亿元"
-    },
-    {
-     "title": "福星股份：融资净偿还950.78万元，融资余额3.1亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198480.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:23 +0800",
-     "summary": "交易所最新数据显示， 福星股份 于2026年11月23日获融资买入561.06万元，融资偿还1511.83万元， 当日融资净偿还950.78万元。 目前，该股融资余额3.10亿，占流通市值比例为15.14%。 该股当日无融券交易。目前，该股融券余量1.80万股，融券余额2.34万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担",
-     "source": "东方财富股票",
-     "zh": "福星股份：融资净偿还950.78万元，融资余额3.1亿元"
-    },
-    {
-     "title": "峨眉山Ａ：融资净买入671.94万元，融资余额2.16亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611243938198344.html",
-     "pubDate": "Tue, 24 Nov 2026 09:19:23 +0800",
-     "summary": "交易所最新数据显示，峨眉山Ａ于2026年11月23日获融资买入3159.25万元，融资偿还2487.31万元， 当日融资净买入671.94万元。 目前，该股融资余额2.16亿，占流通市值比例为3.92%。 该股当日融券卖出1400股，融券偿还1000股， 融券净卖出400股。 目前，该股融券余量2.28万股，融券余额23.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
-     "source": "东方财富股票",
-     "zh": "峨眉山Ａ：融资净买入671.94万元，融资余额2.16亿元"
-    },
-    {
-     "title": "美联储“三把手”放话：通胀持续过高 必要时或连续加息！",
-     "link": "http://forex.eastmoney.com/news/1131,202611243938160185.html",
-     "pubDate": "Tue, 24 Nov 2026 09:09:42 +0800",
-     "summary": "美东时间周一（23日），纽约联储主席 威廉姆斯 （John Williams)表示，央行需要对通胀问题保持“前瞻性”，而且在降低物价方面仍有许多工作要做。 他不排除FOMC在必要时连续加息的可能，且未来（多次）会议都不排除任何选项。 威廉姆斯 在纽约的一次演讲中指出， 数据将决定利率行动的时机和步伐， 市场走势可能会在短期内逆转，金融条件的持续变化可能会影响需求，对增长前景仍然非常乐观。 “货币政策对经济的最大影响需要一到两年的时间才能显现。因此，我们必须保持前瞻性，而不要过分关注过去的通胀走势。”他说。 作为纽约联储主席， 威廉姆斯 在联邦公开市场委员会（FOMC）兼任负责制定利率政策的副主",
+     "title": "黄仁勋回归引爆市场：亚太科技股集体起舞 韩股触发熔断",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938243218.html",
+     "pubDate": "Tue, 24 Nov 2026 09:34:10 +0800",
+     "summary": "随着 英伟达 官宣黄仁勋回归出任CEO的消息传来，美股科技股周一集体暴涨，带动AI交易行情迎来反弹。 本周二早间，亚洲股市随之“起舞”，尤其是 英伟达 在亚洲的核心合作伙伴与供应商股价大幅飙升。 英伟达 合作伙伴集体股价飙升 周二早间，韩国 综合 指数（Kospi）开盘即大涨，由于涨势过于迅猛，在开盘几分钟后便触发“熔断”：韩国交易所启动侧车（SIDECAR）机制，暂停KOSPI程序化买盘。 截至发稿，韩国KOSPI指数大涨超7%，涨幅领跑亚太。 权重股 三星 电子 、 SK海力士 分别上涨约7.9%、10.51%。两家公司合计占韩国 综合 指数权重超40%。韩国LG 电子 大涨12.86%。",
      "source": "东方财富资讯",
-     "zh": "美联储“三把手”放话：通胀持续过高 必要时或连续加息！"
+     "zh": "黄仁勋回归引爆市场：亚太科技股集体起舞 韩股触发熔断"
     },
     {
-     "title": "神舟二十四号瞄准北京时间明日08时18分发射",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938110382.html",
-     "pubDate": "Tue, 24 Nov 2026 09:03:10 +0800",
-     "summary": "今天（11月24日）上午，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，经研究决定， 瞄准北京时间11月25日08时18分发射神舟二十四号载人飞船。 “天宫”将迎来首位外籍航天员 神二十四乘组名单公布 今天（11月24日）上午，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，飞行乘组由 汤洪波 、 武毅 和 巴基斯坦航天员穆罕默德·齐尚·阿里 组成，汤洪波担任指令长。 3名航天员分别为航天驾驶员、航天飞行工程师和载荷专家。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务，即将成为首位三次到访“天宫”的航天员。航天员武毅来自我国第三批航天员，",
+     "title": "11月24日集合竞价：中京电子4连板 克来机电3连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611243938234072.html",
+     "pubDate": "Tue, 24 Nov 2026 09:27:50 +0800",
+     "summary": "11月24日，三大指数集体高开，上证指数高开0.82%，深证成指高开2.43%，创业板指高开3.88%。板块方面， 钴 领涨， 腾远钴业 涨9.83%， 印制电路板 、 通信 网络设备及器件等开盘涨幅居前。 个股方面，16股竞价涨停，其中 中京电子 4连板、 克来机电 3连板、 长华集团 3连板、 魅视科技 2连板、 一彬科技 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
      "source": "东方财富资讯",
-     "zh": "神舟二十四号瞄准北京时间明日08时18分发射"
+     "zh": "11月24日集合竞价：中京电子4连板 克来机电3连板"
+    },
+    {
+     "title": "黄仁勋回归更多内幕曝光：英伟达董事会事先都未与管理层协商？",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938203267.html",
+     "pubDate": "Tue, 24 Nov 2026 09:17:28 +0800",
+     "summary": "周一， 英伟达 首席执行官黄仁勋的“王者归来”，可以说令整个美股市场和AI圈都陷入了沸腾。而眼下，有关这位“皮衣刀客”回归的“传奇故事”，也有了更多的细节被爆料而出…… 据知情人士透露， 英伟达 公司董事会周一出人意料地决定恢复被罢免的首席执行官黄仁勋的职务，而这一举动事先甚至并未与公司高管层协商，高管们直到最后一刻才得知这一计划。 据这些不愿透露姓名的人士表示，该决定是在当地时间周日下午做出的，此前董事会成员面临美国总统特朗普的压力。知情人士称，部分接替黄仁勋的候选人也已主动退出了遴选程序。 最终，黄仁勋周一的回归令硅谷和华尔街大为震惊， 英伟达 和诸多AI概念股应声飙升。受黄仁勋风波以及业",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋回归更多内幕曝光：英伟达董事会事先都未与管理层协商？"
     },
     {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
@@ -2458,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
     },
     {
-     "title": "A股热点前瞻丨全球最大产钴国实施出口禁令；固态锂电池安全技术规范正式立项",
-     "link": "http://finance.eastmoney.com/news/11874,202611243938094827.html",
-     "pubDate": "Tue, 24 Nov 2026 09:00:08 +0800",
-     "summary": "①固态 锂 电池 安全技术规范立项，产业化有望再提速； ②CrowdStrike约439亿美元收购Zscaler，网安平台化整合提速； ③刚果（金） 再度暂停出口 ， 钴 市供应扰动加剧； ④海军多型舰机将亮相珠海航展， 军工 装备集中展示； ⑤人形 机器人 产业化提速， 减速器 等核心部件率先受益； ⑥微短剧月活用户超6亿，短剧产业高速扩张。 盘面回顾 11月23日，A股三大指数集体收涨，沪指涨0.15%报3538.95点，创业板指涨3.08%，沪深京三市成交1.56万亿元，全市场超4600股上涨。人形 机器人 、AI漫剧、 PCB 板块领涨，保险、 银行 、 白酒 方向调整。 固态 锂 电",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨全球最大产钴国实施出口禁令；固态锂电池安全技术规范正式立项"
-    },
-    {
      "title": "《纽约时报》被群嘲！亲手推倒黄仁勋，又见证他回归：震惊！为何特朗普如此重视他？",
      "link": "https://wallstreetcn.com/articles/3786559",
      "pubDate": "Tue, 24 Nov 2026 08:52:12 +0800",
@@ -2482,20 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Semtech expects $480M Q4 net sales and $1.33 EPS as data center growth framework extends into fiscal 2028"
     },
     {
-     "title": "一夜回血近万亿！老黄回归引爆英伟达股价 超跌绩优概念股都有谁？",
-     "link": "http://finance.eastmoney.com/news/11822,202611243938025410.html",
-     "pubDate": "Tue, 24 Nov 2026 08:49:53 +0800",
-     "summary": "黄仁勋 辞职 11天后闪电回归， 英伟达 暴涨超31% ，创23年来最大单日涨幅。A股 英伟达 概念本月深度回调，最新超跌绩优股名单出炉。 英伟达 迎史诗级暴涨 美东时间11月23日，英伟达宣布，公司董事会一致投票决定恢复联合创始人黄仁勋的总裁、首席执行官及董事职务，即时生效。根据英伟达提交的文件，董事会于11月22日作出这一决定，距其11月12日 辞任 仅过去11天。 英伟达表示，董事会在决策过程中听取了美国政府高层意见，认为黄仁勋复职不构成国家安全风险；针对相关事项的独立调查将继续推进，公司并将新设首席合规官职位。 对于黄仁勋的重返，市场以暴涨回应。英伟达股价开盘后涨逾30%，盘中涨幅一度",
-     "source": "东方财富资讯",
-     "zh": "一夜回血近万亿！老黄回归引爆英伟达股价 超跌绩优概念股都有谁？"
-    },
-    {
-     "title": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938068274.html",
-     "pubDate": "Tue, 24 Nov 2026 08:46:01 +0800",
-     "summary": "周一，美股主要股指大幅飙升。 英伟达 宣布恢复黄仁勋CEO职务给投资者带来希望：上周那种无情的抛售压力或许会消退——至少暂时如此。 不过，对于这波反弹能持续多久，策略师们意见不一。 一些人认为股市回调已结束，而另一些人则担心，在黄仁勋离任之前，一些挥之不去的问题就已导致股市下跌 。 纳指、标普500指数和费城 半导体 指数均录得2025年4月以来最大单日涨幅。截至收盘，标普500指数涨4.73%，报7237.17点； 纳斯达克 综合 指数涨6.51%，报24089.56点；道琼斯工业平均指数涨3.01%，报49595.31点。 这场“恐慌缓解式反弹”出现之前，道琼斯工业平均指数、标普500指数",
-     "source": "东方财富资讯",
-     "zh": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？"
+     "title": "Central Garden & Pet expects FY 2027 non-GAAP EPS of $2.65 or better while forecasting Q1 loss of $0.10-$0.15",
+     "link": "https://seekingalpha.com/news/4675952-central-garden-and-pet-expects-fy-2027-non-gaap-eps-of-2_65-or-better-while-forecasting-q1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 19:32:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Central Garden & Pet expects FY 2027 non-GAAP EPS of $2.65 or better while forecasting Q1 loss of $0.10-$0.15"
     }
    ]
   },

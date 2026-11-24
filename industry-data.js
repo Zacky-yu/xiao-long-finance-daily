@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 16:31:47",
+ "generated_at": "2026/11/24 16:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,70 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
+     "link": "https://www.eetimes.com/vehicle-to-grid-great-idea-or-unrealistic-dream/",
+     "pubDate": "Tue, 24 Nov 2026 08:40:49 +0000",
+     "summary": "Vehicle-to-grid sounds like a partial solution for enhancing the grid, but the reality of the human factor may say otherwise. The post Vehicle-to-Grid: Great Idea or Unrealistic Dream? appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?"
+    },
+    {
+     "title": "Z.ai unveils GLM-5.4, debuting loop transformer architecture, general coding paradigm",
+     "link": "https://www.digitimes.com/news/a20261124VL224/z.ai-flagship-infrastructure.html",
+     "pubDate": "Tue, 24 Nov 2026 08:24:01 GMT",
+     "summary": "Chinese artificial intelligence firm Z.ai officially released its next-generation flagship model, GLM-5.4, marking the company's first flagship model built on a loop transformer architecture and the starting point of its push toward a general coding paradigm.",
+     "source": "DIGITIMES",
+     "zh": "Z.ai unveils GLM-5.4, debuting loop transformer architecture, general coding paradigm"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Why Photonic Design Is Becoming a System-Level Challenge",
+     "link": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge/",
+     "pubDate": "Tue, 24 Nov 2026 08:07:22 +0000",
+     "summary": "A component can meet its individual design targets and still behave differently as part of a complete optical link. The post Why Photonic Design Is Becoming a System-Level Challenge appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Photonic Design Is Becoming a System-Level Challenge"
+    },
+    {
+     "title": "Designing A Microarchitecture From Formal Proof To Full-System",
+     "link": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system/",
+     "pubDate": "Tue, 24 Nov 2026 08:06:57 +0000",
+     "summary": "Combining architectural proof, software-driven verification, simulation, emulation, and cloud-based compute infrastructure. The post Designing A Microarchitecture From Formal Proof To Full-System appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Designing A Microarchitecture From Formal Proof To Full-System"
+    },
+    {
      "title": "US blacklists Megaspeed amid Nvidia chip smuggling probe; Alibaba disputes affiliate listing",
      "link": "https://www.digitimes.com/news/a20261124VL222/nvidia-alibaba-probe-entity-list-blacklist.html",
      "pubDate": "Tue, 24 Nov 2026 07:55:13 GMT",
@@ -306,14 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "ASML warns US MATCH Act could backfire, leaving China's fabs running beyond its control"
     },
     {
-     "title": "Amazon to acquire Decart optimization technology and bring team aboard",
-     "link": "https://www.digitimes.com/news/a20261124PR200/amazon-ai-inference-acquisition-optimization.html",
-     "pubDate": "Tue, 24 Nov 2026 06:54:04 GMT",
-     "summary": "Amazon's purchase of Decart's technology and recruitment of its founders and research team could strengthen the company's efforts to improve AI inference speed and computing efficiency worldwide. The transaction would connect Decart's full-stack optimization expertise with Amazon's custom silicon po",
-     "source": "DIGITIMES",
-     "zh": "Amazon to acquire Decart optimization technology and bring team aboard"
-    },
-    {
      "title": "Research boost for FDSOI and RF-SOI.",
      "link": "https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/",
      "pubDate": "Tue, 24 Nov 2026 06:12:38 +0000",
@@ -360,30 +416,6 @@ window.INDUSTRY_DATA = {
      "summary": "SPEEDS and capacities of digital computers have increased so rapidly that there is a constant demand for new and faster methods of feed-ing-in and extracting information from them. Do, 65 […] The post Electronic Character Recognition Acclerates Data Processing appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Electronic Character Recognition Acclerates Data Processing"
-    },
-    {
-     "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
-     "link": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/",
-     "pubDate": "Mon, 23 Nov 2026 21:35:38 +0000",
-     "summary": "Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bonded 3D-NAND-Flash-based Analog In-Memory-Compute macro offering 4.8M weights/mm².” Find the technical paper here. November 2026. Pritish Narayanan, Athanasios Vasilopoulos, Geoffrey W. Burr e",
-     "source": "Semiconductor Engineering",
-     "zh": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)"
-    },
-    {
-     "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
-     "link": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/",
-     "pubDate": "Mon, 23 Nov 2026 21:34:45 +0000",
-     "summary": "Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses in SOI Waveguides Fabricated via Electron Beam Lithography.” Abstract “Electron-beam lithography (EBL) is widely used for prototyping photonic integrated circuits (PICs) because of its direc",
-     "source": "Semiconductor Engineering",
-     "zh": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)"
-    },
-    {
-     "title": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
-     "link": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl/",
-     "pubDate": "Mon, 23 Nov 2026 21:19:13 +0000",
-     "summary": "Researchers at Lucid Motors and EYL Inc. published “From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware.” Abstract “As LLM agents increasingly generate RTL alongside the tests and reviews that validate it, self-generated evidence is a weak ",
-     "source": "Semiconductor Engineering",
-     "zh": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)"
     },
     {
      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
@@ -458,44 +490,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt"
     },
     {
-     "title": "AI Changes What Chip Engineers Need To Learn",
-     "link": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn/",
-     "pubDate": "Mon, 23 Nov 2026 08:01:13 +0000",
-     "summary": "AI is automating routine design tasks, shifting engineering education toward architecture, specifications, verification, and the ability to evaluate results. The post AI Changes What Chip Engineers Need To Learn appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Changes What Chip Engineers Need To Learn"
-    },
-    {
      "title": "CEO Interview with Manu Gulati of Velaura AI",
      "link": "https://semiwiki.com/ceo-interviews/376481-ceo-interview-with-manu-gulati-of-velaura-ai/",
      "pubDate": "Sun, 22 Nov 2026 18:00:42 +0000",
      "summary": "Manu Gulati serves as Co-founder & Chief Development Officer at Velaura AI. Manu is an industry-renowned silicon architect and engineering leader whose work spans Apple, Google, Qualcomm, and NUVIA (the high-performance silicon company he co-founded, which was acquired by Qualcomm for approximately ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Manu Gulati of Velaura AI"
-    },
-    {
-     "title": "CEO Interview with Tobias Pohl of CELUS",
-     "link": "https://semiwiki.com/ceo-interviews/376273-ceo-interview-with-tobias-pohl-of-celus/",
-     "pubDate": "Sun, 22 Nov 2026 16:00:19 +0000",
-     "summary": "Tobias Pohl is co-founder and CEO of CELUS, a Munich-based company that builds an AI-powered electronics design platform used by more than 70,000 engineers. He studied mechanical and automotive engineering at the Technical University of Munich, where he worked in an automotive research project and b",
-     "source": "SemiWiki",
-     "zh": "CEO Interview with Tobias Pohl of CELUS"
-    },
-    {
-     "title": "CEO Interview with Dr. Sameer Pawanekar of Ramtera",
-     "link": "https://semiwiki.com/ceo-interviews/376107-ceo-interview-with-dr-sameer-pawanekar-of-ramtera/",
-     "pubDate": "Sun, 22 Nov 2026 14:00:58 +0000",
-     "summary": "Dr. Sameer Pawanekar is the founder and CEO of Ramtera Inc., an EDA company building physical design and physical verification software. He is the architect and principal developer of both Ramtera products: LVR, for DRC, LVS and ERC, and PRE, for place-and-route. Sameer holds a PhD in VLSI placement",
-     "source": "SemiWiki",
-     "zh": "CEO Interview with Dr. Sameer Pawanekar of Ramtera"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "How Work Order Software Organizes Maintenance Tasks End to End",
+     "link": "https://roboticsandautomationnews.com/2026/11/24/how-work-order-software-organizes-maintenance-tasks-end-to-end/107596/",
+     "pubDate": "Tue, 24 Nov 2026 08:36:04 +0000",
+     "summary": "Maintenance work often breaks down before a technician reaches an asset, especially when requests arrive through disconnected channels. Calls, emails, and paper notes obscure priorities, ownership, deadlines, and the details needed for a repair. Those gaps create repeat visits, delayed production, u",
+     "source": "Robotics & Automation",
+     "zh": "How Work Order Software Organizes Maintenance Tasks End to End"
+    },
     {
      "title": "MassRobotics to open marine robotics facility at Boston Fish Pier",
      "link": "https://roboticsandautomationnews.com/2026/11/24/massrobotics-to-open-marine-robotics-facility-at-boston-fish-pier/107593/",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "ASRock Industrial, a Taiwanese provider of industrial computing and edge AI solutions, has announced the launch of RBK-100 Robotics-in-a-Box. Designed to simplify robotic AI development and make hands-on experimentation more accessible to researchers, educators, and developers, RBK-100 is an integra",
      "source": "Robotics & Automation",
      "zh": "ASRock Industrial launches ‘robotics-in-a-box’ for physical AI development"
-    },
-    {
-     "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
-     "pubDate": "Mon, 23 Nov 2026 22:43:12 +0000",
-     "summary": "Figure AI has filed a patent application for a wearable robotic system designed to capture human arm movements and use the resulting data to train humanoid robots or control them remotely in real time. The application, US 2026/0364774 A1, was published on November 19, 2026, and was highlighted in a ",
-     "source": "Robotics & Automation",
-     "zh": "Figure AI patents wearable system for teaching humanoid robots through human movement"
     },
     {
      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -649,6 +649,22 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut",
+     "link": "https://cnevpost.com/2026/11/24/byd-fang-cheng-bao-shark-launch-china-dec-2/",
+     "pubDate": "Tue, 24 Nov 2026 08:46:15 +0000",
+     "summary": "The Shark was initially launched in Mexico in May 2024, with cumulative overseas sales reaching 38,367 units in the first 10 months of this year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD Fang Cheng Bao Shark pickup to launch in China on December 2 after Guangzhou Auto Show debut"
+    },
+    {
+     "title": "VW’s Cheap EVs Are So Popular, Buyers Face Wait Times Of Nearly Two Years",
+     "link": "https://insideevs.com/news/816560/vw-id-polo-cupra-raval-skoda-epiq-demand-high-wait-times/",
+     "pubDate": "Tue, 24 Nov 2026 08:43:26 +0000",
+     "summary": "The Spanish factory that assembles the Volkswagen ID. Polo and Cupra Raval is already building 1,000 cars per day, but it’s not enough.",
+     "source": "InsideEVs",
+     "zh": "VW’s Cheap EVs Are So Popular, Buyers Face Wait Times Of Nearly Two Years"
+    },
     {
      "title": "The e-bike industry has a horsepower problem",
      "link": "https://electrek.co/2026/11/23/the-e-bike-industry-has-a-horsepower-problem/",
@@ -754,14 +770,6 @@ window.INDUSTRY_DATA = {
      "zh": "Lynk & Co to begin pre-sales of 900L 7-seat PHEV SUV on November 27"
     },
     {
-     "title": "China’s SC01 EV Sports Car Will Get Its Own Factory In Europe",
-     "link": "https://insideevs.com/news/816431/sc-01-ev-europe-factory-2027/",
-     "pubDate": "Mon, 23 Nov 2026 10:15:14 +0000",
-     "summary": "The bare-bones, back-to-basics electric roadster was supposed to go on sale in Europe this year. A new factory pushes the timeline to 2027.",
-     "source": "InsideEVs",
-     "zh": "China’s SC01 EV Sports Car Will Get Its Own Factory In Europe"
-    },
-    {
      "title": "BYD's mass-produced foldable steering wheel traces back to E-SEED GT concept 7 years ago",
      "link": "https://cnevpost.com/2026/11/23/byd-foldable-steering-wheel-traces-back-to-e-seed-gt-concept/",
      "pubDate": "Mon, 23 Nov 2026 09:51:02 +0000",
@@ -792,14 +800,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nio is preparing targeted updates for its core mid-size lineup, as sales heavily concentrated in the ES8 and ES9 large SUVs. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Nio to begin deliveries of refreshed ET5 Touring and ES6 in H1 2027, no updates planned for ET5 and EC6 next year"
-    },
-    {
-     "title": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV",
-     "link": "https://cnevpost.com/2026/11/23/xpeng-launches-g9l-thailand-indonesia/",
-     "pubDate": "Mon, 23 Nov 2026 03:20:34 +0000",
-     "summary": "Xpeng plans to expand its store networks in Thailand and Indonesia to 30 and 25 locations, respectively, by the end of this year. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Xpeng launches G9L in Thailand and Indonesia, accelerating global roll-out of flagship SUV"
     },
     {
      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Japanese utility to forecast perovskite window output with AI",
+     "link": "https://www.pv-magazine.com/2026/11/24/japanese-utility-to-forecast-perovskite-window-output-with-ai/",
+     "pubDate": "Tue, 24 Nov 2026 08:30:00 +0000",
+     "summary": "Kansai Electric Power has partnered with Panasonic and Kansai University on a two-year trial that will install glass-based perovskite solar modules in campus windows near Osaka and test how accurately an AI platform can predict their output. The post Japanese utility to forecast perovskite window ou",
+     "source": "pv magazine",
+     "zh": "Japanese utility to forecast perovskite window output with AI"
+    },
     {
      "title": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems",
      "link": "https://www.pv-magazine.com/2026/11/24/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems/",
@@ -904,14 +912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Electric and hybrid vehicle sales across Europe dominated total car sales last month, representing around 75% of all new vehicle registrations, while gasoline and diesel car sales dropped, highlighting demand sensitivity to soaring energy commodity prices. The data comes from the European Automobile",
      "source": "OilPrice",
      "zh": "Electric and Hybrid Cars Capture Three-Quarters of Europe’s Auto Market"
-    },
-    {
-     "title": "U.S. solar manufacturing enters the ‘Third Wave’",
-     "link": "https://www.pv-magazine.com/2026/11/24/u-s-solar-manufacturing-enters-the-third-wave/",
-     "pubDate": "Tue, 24 Nov 2026 06:00:00 +0000",
-     "summary": "Beyond assembly, beyond announcements, U.S. solar manufacturing has entered a new stage of expansion in capital-intensive upstream processes. The post U.S. solar manufacturing enters the ‘Third Wave’ appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "U.S. solar manufacturing enters the ‘Third Wave’"
     },
     {
      "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "当豆包开始帮我买票，携程和美团们最怕的事情来了",
+     "link": "https://www.huxiu.com/article/4908046.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 16:38:34 +0800",
+     "summary": "本文来自微信公众号： 老胡地盘 ，作者：老胡 AI在用户侧的发展开始猛加速了，国外先不说，咱们先说说国内。 今天在一个群里看到有人分享，豆包工作已经接入了一大批应用，包括汽水音乐、高德打车、曹操出行、航班管家、高铁管家、地图、租房等等这些都有。 我自己也去体验了一下，直接在手机端的豆包工作里连接高铁管家，让它帮我查票、选车次，后面确实可以继续完成购票，整个过程比我想象中丝滑。 以前我们说agent能帮人干活，对于普通人来说多少还有点概念大于体验。虽然我已经用codex、grokbot这些帮我真的干了不少活，但是这种生活中的小事情还真没用agent帮我干过，但是今天真正用它买了一次票，我的感受就",
+     "source": "虎嗅",
+     "zh": "当豆包开始帮我买票，携程和美团们最怕的事情来了"
+    },
+    {
+     "title": "巴西游戏接 Pix 和 Boleto 后，4 人团队怎么排本地化支付的迭代节奏？",
+     "link": "https://www.baijing.cn/question/638945",
+     "pubDate": "Tue, 24 Nov 2026 08:36:55 +0000",
+     "summary": "我们是一款休闲竞技手游，刚在巴西上线两个月，DAU 稳定在 1.2 万左右，团队一共 4 个人：1 个后端、1 个客户端、1 个运营兼本地化、1 个我做发行。现在接入了 Pix 和 Boleto，但 Pix 的支付成功率只有 71%，Boleto 付款到账延迟平均 2 天，客服每天要处理二三十条玩家问“为什么还没到账”。已经试过换一家本地聚合支付、加了葡语 FAQ 页面，成功率只涨到 76%。卡在没人手同时做支付渠道对比测试和本地节日活动的排期，运营还要盯墨西哥和哥伦比亚的版本上线。想请教：像我们这种 4 人规模，支付本地化应该按什么优先级排迭代，是先死磕 Pix 成功率还是先把 Boleto",
+     "source": "白鲸出海",
+     "zh": "巴西游戏接 Pix 和 Boleto 后，4 人团队怎么排本地化支付的迭代节奏？"
+    },
+    {
+     "title": "黄仁勋回来了，但戴上了“笼头”",
+     "link": "https://www.huxiu.com/article/4908044.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 16:35:24 +0800",
+     "summary": "本文来自微信公众号： 夸克点评 ，作者：王如晨 昨日圣克拉拉像一幕耐人寻味的戏剧。三层楼都挤满了人。他们大声喊着Jensen。黄仁勋两次鞠躬，没穿那黑茄克。 头天下午英伟达董事会全票通过，恢复了他的总裁、CEO、董事职务。对外口径是，这场私人关系风波并不构成国家安全风险。 算得上英雄回归，前后不过11天。借着这次风波，黄仁勋跳出行业圈子，真正走进大众视野。 市场反应直白。昨夜英伟达收盘165.05美元，涨幅31.48%，单日新增市值约9520亿美元，总市值重回3.98万亿，创下2003年以来最大单日涨幅。放到全球资本市场，这也是单一上市公司罕见的单日市值增量。 算力、资本和技术浪潮，早就把AI",
+     "source": "虎嗅",
+     "zh": "黄仁勋回来了，但戴上了“笼头”"
+    },
+    {
      "title": "韩国央行，明日或宣布加息",
      "link": "https://www.huxiu.com/article/4908038.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 16:23:46 +0800",
@@ -1938,14 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "尼日利亚站上线两个月，COD 拒收率 18%、回款周期 21 天，该换预付还是换物流商？"
     },
     {
-     "title": "暴涨前，她卖飞英伟达",
-     "link": "https://www.huxiu.com/article/4908025.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 15:36:46 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：余梦莹 陈佳 变化太快。 报道/投资界PEdaily 这是今年最魔幻的一幕。 离开英伟达11天后，黄仁勋回归。消息一出，英伟达股价上演惊人反转，一天大涨31%。 这一涨，有着“女版巴菲特”之称的木头姐又翻车了。从上周开始，她旗下ARK Invest（方舟投资）陆续减持卖出约71万股英伟达，转身趁着Anthropic上市加仓。昨日美股全线大涨，唯独Anthropic下跌，意外两头踏空。 某种程度上，这是绝大多数投资者的缩影——没投怕错过，投了怕归零；赚了想落袋，卖掉又怕卖飞。投资世界里，遗憾常有。 上周减持英伟达1亿美金 木头姐卖飞了 木头姐退在了黎明前。 ",
-     "source": "虎嗅",
-     "zh": "暴涨前，她卖飞英伟达"
-    },
-    {
      "title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&apos;s \"engineering mindset\" overlooks human biology (Financial Times)",
      "link": "https://www.techmeme.com/261124/p3#a261124p3",
      "pubDate": "Tue, 24 Nov 2026 02:30:08 -0500",
@@ -1954,28 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&apos;s \"engineering mindset\" overlooks human biology (Financial Times)"
     },
     {
-     "title": "印尼美妆投放CPA从4.2万涨到9.8万印尼盾，清真认证未下来前该不该继续投？",
-     "link": "https://www.baijing.cn/question/638939",
-     "pubDate": "Tue, 24 Nov 2026 07:22:56 +0000",
-     "summary": "6人小团队做印尼本土美妆，彩妆线刚起量，月投放预算大概3亿印尼盾，主要跑Meta和TikTok。上个月CPA从4.2万印尼盾涨到9.8万印尼盾，转化率从2.1%掉到1.2%。已经试过换素材、缩窄年龄定向、把落地页从首页改成单品页，都没稳住。现在卡在清真认证还没走完BPJPH流程，部分成分供应商的halal文件也在补，广告账户被平台要求补充资质说明。团队在纠结：认证空窗期是继续烧钱维持权重，还是先降预算保ROI等证下来？想听听做过印尼美妆的同行，这个阶段判断继续投还是暂停的标准是什么？",
-     "source": "白鲸出海",
-     "zh": "印尼美妆投放CPA从4.2万涨到9.8万印尼盾，清真认证未下来前该不该继续投？"
-    },
-    {
      "title": "Google 申请专利为用户量身定制 AI 电视频道",
      "link": "https://www.solidot.org/story?sid=85973",
      "pubDate": "Tue, 24 Nov 2026 15:22:48 +0800",
      "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。生成的视频将是基于用户画像特征、用户最常观看内容的风格和偏好。该频道还会关联广告服务器，为 A",
      "source": "Solidot",
      "zh": "Google 申请专利为用户量身定制 AI 电视频道"
-    },
-    {
-     "title": "杨幂的前老板，投了梁文锋",
-     "link": "https://www.huxiu.com/article/4908017.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 15:01:20 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：张雪 花1.5亿挤进DeepSeek。 本文字数5178 手搓量丨80%AI含量丨20% DeepSeek新一轮融资正式落地。 11月下旬，据工商信息显示，DeepSeek工商主体杭州深度求索人工智能基础技术研究有限公司，近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）（下称“杭州程砚”），公司注册资本变更为1991.8707万元，增幅约21.1%。 进一步向上穿透，杭州程砚同期完成工商变更，新增31家合伙人，登记出资额由0.6万元增至343897.9万元。变更后，这些新增合伙人即为参与到DeepSeek第二轮融资的各外部股东。 这一次完",
-     "source": "虎嗅",
-     "zh": "杨幂的前老板，投了梁文锋"
     },
     {
      "title": "OpenRouter removes Together AI, Phala, and Novita over data policy violations; Novita says a misconfiguration sent some MiniMax requests to MiniMax official API (Bill Toulas/BleepingComputer)",
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "2035 Came Early",
      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
      "pubDate": "Tue, 24 Nov 2026 06:30:33 +0000",
-     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 50 # Comments: 3",
      "source": "Hacker News",
      "zh": "2035 Came Early"
     }
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "MOVA Black Friday deal: The MOVA V50 Ultra gives you flagship robot cleaning for under $600",
+     "link": "https://www.androidauthority.com/mova-v50-ultra-black-friday-3736761/",
+     "pubDate": "Tue, 24 Nov 2026 08:40:08 +0000",
+     "summary": "From cleaning under sofas to climbing thresholds, the V50 Ultra Complete brings high-end features to a mid-range price.",
+     "source": "Android Authority",
+     "zh": "MOVA Black Friday deal: The MOVA V50 Ultra gives you flagship robot cleaning for under $600"
+    },
     {
      "title": "Google Translate is getting its first icon redesign since 2015",
      "link": "https://www.androidauthority.com/google-translate-icon-redesign-3738676/",
@@ -2034,6 +2042,14 @@ window.INDUSTRY_DATA = {
      "zh": "MOVA Black Friday deals: Save up to 53% on robot vacuums and robot lawn mowers"
     },
     {
+     "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+     "link": "https://sspai.com/post/119035",
+     "pubDate": "Tue, 24 Nov 2026 15:38:42 +0800",
+     "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ... 查看全文",
+     "source": "少数派",
+     "zh": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔"
+    },
+    {
      "title": "Gemini could soon let you create your own custom voice from scratch",
      "link": "https://www.androidauthority.com/gemini-custom-voice-creation-3738635/",
      "pubDate": "Tue, 24 Nov 2026 07:12:33 +0000",
@@ -2048,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Can't find the perfect sticker? Just ask Gemini to make one for you.",
      "source": "Android Authority",
      "zh": "Gemini’s next trick could be custom sticker packs for WhatsApp and Telegram"
-    },
-    {
-     "title": "Google Wallet is getting a handy update that saves you from typing your CVV",
-     "link": "https://www.androidauthority.com/google-wallet-autofill-cvv-3738642/",
-     "pubDate": "Tue, 24 Nov 2026 06:56:09 +0000",
-     "summary": "Online card verification will be a little less annoying now.",
-     "source": "Android Authority",
-     "zh": "Google Wallet is getting a handy update that saves you from typing your CVV"
     },
     {
      "title": "Apple confirms Ted Lasso will return for Season 5",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "The iconic YouTube app icon that looked like a retro TV found on iOS might be making a comeback, with new customizable icons showing up behind the scenes of a new YouTube update. more…",
      "source": "9to5Mac",
      "zh": "YouTube’s iconic iOS app icon may soon return with new customizable icons [Gallery]"
-    },
-    {
-     "title": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen",
-     "link": "https://www.gsmarena.com/motorola_edge_70_neo_is_here_with_a_7000_mah_battery_and_144hz_screen-news-75602.php",
-     "pubDate": "Mon, 23 Nov 2026 22:33:02 +0100",
-     "summary": "Motorola has been teasing the Edge 70 Neo in India for the past week, having already confirmed its main specs ahead of its launch on November 24. Now, a day early, the company has listed the phone with its full spec sheet on its Indian website, so the Edge 70 Neo is essentially official. The one thi",
-     "source": "GSMArena",
-     "zh": "Motorola Edge 70 Neo is here with a 7,000 mAh battery and 144Hz screen"
     }
    ]
   },
@@ -2257,6 +2257,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Meta won't issue Class C shares during shareholder litigation",
+     "link": "https://seekingalpha.com/news/4675998-meta-wont-issue-class-c-shares-during-shareholder-litigation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 03:37:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Meta won't issue Class C shares during shareholder litigation"
+    },
+    {
+     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+     "pubDate": "Tue, 24 Nov 2026 08:35:16 GMT",
+     "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+     "source": "CNBC",
+     "zh": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts"
+    },
     {
      "title": "贸促会蔡晨风：调解能够帮助企业解决跨境纠纷，而且非常有效",
      "link": "http://www.eeo.com.cn/2026/1124/1101224.shtml",
@@ -2306,14 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "木头姐“倒在黎明前”：卖出英伟达后黄仁勋回归"
     },
     {
-     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-     "pubDate": "Tue, 24 Nov 2026 08:20:01 GMT",
-     "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
-     "source": "CNBC",
-     "zh": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts"
-    },
-    {
      "title": "UP Fintech reports Q3 results",
      "link": "https://seekingalpha.com/news/4676003-up-fintech-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 03:17:57 -0500",
@@ -2328,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cosmo N.V. acquires 23% stake in surgical AI startup Scialytics"
-    },
-    {
-     "title": "Kymera Therapeutics prices upsized $1.75B public offering",
-     "link": "https://seekingalpha.com/news/4675996-kymera-therapeutics-prices-upsized-175b-public-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 03:08:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kymera Therapeutics prices upsized $1.75B public offering"
     },
     {
      "title": "创业板高开低走尾盘翻绿，机器人爆发，半导体活跃，恒科指午后跌超1%，AI大模型双雄齐跌",
@@ -2381,7 +2381,7 @@ window.INDUSTRY_DATA = {
      "title": "中方对黄仁勋重回英伟达有何评论？外交部回应",
      "link": "http://finance.eastmoney.com/news/1345,202611243938407822.html",
      "pubDate": "Tue, 24 Nov 2026 15:17:10 +0800",
-     "summary": "11月24日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者提问， 英伟达 董事会重新任命黄仁勋为负责人，此前他因为丑闻辞职，美国政府对此进行了介入。中方对此有何评论？ “我们对此不做评论。”郭嘉昆说。 （文章来源：澎湃新闻）",
+     "summary": "11月24日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者提问， 英伟达 董事会重新任命黄仁勋为负责人，此前他因为丑闻辞职，美国政府对此进行了介入。中方对此有何评论？ “我们对此不做评论。”郭嘉昆说。 东财图解·加点干货 （文章来源：澎湃新闻）",
      "source": "东方财富资讯",
      "zh": "中方对黄仁勋重回英伟达有何评论？外交部回应"
     },
@@ -2392,54 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月20日，由《中国经营报》主办的&ldquo;与时偕行 以质图强&rdquo;&mdash;&mdash;2026数字驱动&middot;产业焕新论坛在成都举行。这是2026中国企业竞争力年会的首场分论坛，与会嘉宾围绕消费升级、低空经济、绿色转型、人工智能等话题展开深入探讨。 消费升级：从终端货...",
      "source": "经济观察网",
      "zh": "与时偕行 以质图强——2026数字驱动·产业焕新论坛成功召开"
-    },
-    {
-     "title": "恒鑫生活：截至11月20日最新股东户数1.04万户，较上期增加0.51%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938406464.html",
-     "pubDate": "Tue, 24 Nov 2026 15:13:58 +0800",
-     "summary": "恒鑫生活 最新披露数据显示，截至11月20日公司股东户数为1.04万户，较上期(2026年11月10日) 增加53户，增幅为0.51% 。户均持有流通股数量 由上期的4190股下降至4169股， 户均持股金额 由上期的10.01万元减少至8.83万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "恒鑫生活：截至11月20日最新股东户数1.04万户，较上期增加0.51%"
-    },
-    {
-     "title": "肯特股份：截至11月20日最新股东户数2.02万户，较上期减少7.49%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938406345.html",
-     "pubDate": "Tue, 24 Nov 2026 15:13:58 +0800",
-     "summary": "肯特股份 最新披露数据显示，截至11月20日公司股东户数为2.02万户，较上期(2026年11月10日) 减少1632户，降幅为7.49% 。户均持有流通股数量 由上期的2051股上升至2217股， 户均持股金额 由上期的8.86万元减少至7.05万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "肯特股份：截至11月20日最新股东户数2.02万户，较上期减少7.49%"
-    },
-    {
-     "title": "金春股份：截至11月20日最新股东户数7841户，较上期减少0.98%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938406061.html",
-     "pubDate": "Tue, 24 Nov 2026 15:13:08 +0800",
-     "summary": "金春股份 最新披露数据显示，截至11月20日公司股东户数为7841户，较上期(2026年11月10日) 减少78户，降幅为0.98% 。户均持有流通股数量 由上期的1.52万股上升至1.53万股， 户均持股金额 由上期的42.35万元减少至35.87万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "金春股份：截至11月20日最新股东户数7841户，较上期减少0.98%"
-    },
-    {
-     "title": "祥源新材：截至11月20日最新股东户数1.79万户，较上期减少17.06%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938405883.html",
-     "pubDate": "Tue, 24 Nov 2026 15:12:55 +0800",
-     "summary": "祥源新材 最新披露数据显示，截至11月20日公司股东户数为1.79万户，较上期(2026年11月10日) 减少3681户，降幅为17.06% 。户均持有流通股数量 由上期的6426股上升至7748股， 户均持股金额 由上期的11.62万元减少至9.46万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
-     "source": "东方财富股票",
-     "zh": "祥源新材：截至11月20日最新股东户数1.79万户，较上期减少17.06%"
-    },
-    {
-     "title": "超频三：截至11月20日最新股东户数2.58万户，较上期减少5.67%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938405024.html",
-     "pubDate": "Tue, 24 Nov 2026 15:12:02 +0800",
-     "summary": "超频三 最新披露数据显示，截至11月20日公司股东户数为2.58万户，较上期(2026年11月10日) 减少1549户，降幅为5.67% 。户均持有流通股数量 由上期的1.67万股上升至1.77万股， 户均持股金额 由上期的13.25万元减少至10.12万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "超频三：截至11月20日最新股东户数2.58万户，较上期减少5.67%"
-    },
-    {
-     "title": "欧菲光：截至11月20日最新股东户数42.74万户，较上期减少0.76%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938404969.html",
-     "pubDate": "Tue, 24 Nov 2026 15:11:54 +0800",
-     "summary": "欧菲光 最新披露数据显示，截至11月20日公司股东户数为42.74万户，较上期(2026年11月10日) 减少3258户，降幅为0.76% 。户均持有流通股数量 由上期的7701股上升至7760股， 户均持股金额 由上期的4.41万元减少至3.83万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "欧菲光：截至11月20日最新股东户数42.74万户，较上期减少0.76%"
     },
     {
      "title": "A股三大指数高开低走 能源金属板块涨幅居前",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克旗下 脑机接口 公司Neuralink近日公布了最新临床案例：一名脊髓损伤致四肢瘫痪的受试者，凭借植入式 脑机接口 游玩《GTA VI》，无需实体手柄，仅凭意念即可实现一套包含双摇杆、十二个按键的复杂操控。 据Neuralink介绍，该受试者持续和工程团队配合测试，探索意念操控电脑、手机、机械臂等设备的方案。从演示视频可见，受试者能够流畅在游戏内完成驾车、驾船、瞄准射击等动作，还可实现漂移和细微的方向调整。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "Neuralink临床演示：瘫痪受试者可凭意念游玩《GTA VI》"
+    },
+    {
+     "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+     "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+     "pubDate": "Tue, 24 Nov 2026 05:05:08 GMT",
+     "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+     "source": "CNBC",
+     "zh": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions"
+    },
+    {
+     "title": "What are you thinking? It depends who’s asking",
+     "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 05:00:25 GMT",
+     "summary": "We may answer questions differently if AI is conducting the interview",
+     "source": "Financial Times",
+     "zh": "What are you thinking? It depends who’s asking"
+    },
+    {
+     "title": "Big Tech’s blind spot",
+     "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 05:00:16 GMT",
+     "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+     "source": "Financial Times",
+     "zh": "Big Tech’s blind spot"
+    },
+    {
+     "title": "Britain bought fake C4 explosives for Ukraine",
+     "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 05:00:07 GMT",
+     "summary": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
+     "source": "Financial Times",
+     "zh": "Britain bought fake C4 explosives for Ukraine"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
+     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+     "source": "MarketWatch",
+     "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
     }
    ]
   },

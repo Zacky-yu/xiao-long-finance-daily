@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 13:39:30",
+ "generated_at": "2026/11/24 13:51:57",
  "recent_days": 7,
  "industries": [
   {
@@ -986,14 +986,6 @@ window.INDUSTRY_DATA = {
      "zh": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E"
     },
     {
-     "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
-     "link": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
-     "pubDate": "Mon, 23 Nov 2026 11:27:12 -0500",
-     "summary": "The decision followed a promise by the utilities to allow ISO-NE&rsquo;s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
-     "source": "Utility Dive",
-     "zh": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue"
-    },
-    {
      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
      "link": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
      "pubDate": "Mon, 23 Nov 2026 16:22:15 +0000",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "BESS assets require careful strategic decisions to be made around augmentation from the beginning, writes Sergey Syrvachev, founder of BESS.courses.",
      "source": "Energy Storage News",
      "zh": "BESS overbuild or augmentation: which strategy wins?"
+    },
+    {
+     "title": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA",
+     "link": "https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/",
+     "pubDate": "Mon, 23 Nov 2026 10:47:20 +0000",
+     "summary": "IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.",
+     "source": "PV Tech",
+     "zh": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA"
     }
    ]
   },
@@ -1194,14 +1194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
     },
     {
-     "title": "Kymera eczema pill meets goals in mid-stage trial",
-     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
-     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
-     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
-     "source": "BioPharma Dive",
-     "zh": "Kymera eczema pill meets goals in mid-stage trial"
-    },
-    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1288,6 +1280,14 @@ window.INDUSTRY_DATA = {
      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
+    },
+    {
+     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
+     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
+     "source": "BioPharma Dive",
+     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
     }
    ]
   },
@@ -1770,6 +1770,30 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "再次押注云脉芯联，字节为什么看上这个“小”生意？",
+     "link": "https://www.huxiu.com/article/4907986.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 13:43:40 +0800",
+     "summary": "本文来自微信公众号： 第四波 ，编辑：王晓，作者：陈俊一 最近，字节在芯片领域的投资动作明显加快。 11月中旬，工商变更信息显示，互联芯片厂商云脉芯联完成B+轮融资，由字节跳动旗下北京量子跃动领投。继2021年投资天使轮后，字节跳动此次再度加注云脉芯联，投后持股比例约6.58%，位列第四大股东。 一家营收还停在几千万元量级、尚未盈利的芯片公司，究竟有什么吸引力，让字节在五年后再跟一轮？国产互联芯片又能否帮助字节实现算力增效降本？ 01 字节看重的不只是互联芯片生意 随着大模型参数规模和训练数据量持续增长，训练集群逐渐从数百卡扩展到万卡互联乃至更大规模。按互联范围与技术类别，算力互联可分为算力域",
+     "source": "虎嗅",
+     "zh": "再次押注云脉芯联，字节为什么看上这个“小”生意？"
+    },
+    {
+     "title": "25年、250年、2500年，三个重叠历史时刻何以读懂今日美国？",
+     "link": "https://www.huxiu.com/article/4907989.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 13:43:05 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：贾敏 刚结束亚洲之行的美国总统特朗普，尚在回味APEC深圳峰会的氛围，但美国国内政治“清算”早就迫不及待开场：11月初中期选举民主党掀起“蓝潮”，共和党惨败；英伟达风波旋即掀起，黄仁勋辞职不到两周便重返董事会，但恐怕远非事件终点。 但，“蓝色海啸”真的来了吗？DSA异军突起，桑德斯高呼“政治革命前夜”。但在美国历史研究者贾敏看来，这更像一次“蓝色反扑”：DSA并不能一概而论称为“草根”，更像“精英过剩”时代高学历、低收入的城市小资产阶级，其起落与民主党的兴衰成反比——在野时满血复活，执政后便被消音。 共和党同样暗流涌动。万斯的败选长文被解读为“切割”，实",
+     "source": "虎嗅",
+     "zh": "25年、250年、2500年，三个重叠历史时刻何以读懂今日美国？"
+    },
+    {
+     "title": "黄仁勋“熹妃回宫”，但英伟达已不再是11天前的英伟达",
+     "link": "https://www.huxiu.com/article/4907988.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 13:42:48 +0800",
+     "summary": "本文来自微信公众号： 底线思维 ，作者：世界科先声 仅隔11天，黄仁勋就“熹妃回宫”。 相比乔布斯时隔11年才重返苹果，英伟达的这场闹剧平息的速度相当之快，起承转合如同爽文短剧，以至于英伟达内外多位衣冠楚楚的人士来不及得体反应，如今向全世界演了一出现实版“小丑竟是我自己”。 黄仁勋重新现身加州圣克拉拉总部大厅，但在这最引人关注的时刻，他脱下了标志性的黑色皮衣，改穿一件深蓝色拉链夹克——人还是那个人，终不似少年游。 11天，不仅改变了黄仁勋，也改变了英伟达。 在过去的11天里，英伟达经历了一场来自白宫、业界、股东等多方合力的极限压力测试，于此期间推出了多项制度安排： 新设国家安全与出口管制委员会",
+     "source": "虎嗅",
+     "zh": "黄仁勋“熹妃回宫”，但英伟达已不再是11天前的英伟达"
+    },
+    {
      "title": "黄仁勋回归，但全球算力链条重估仍在继续",
      "link": "https://www.huxiu.com/article/4907984.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 13:25:26 +0800",
@@ -1842,22 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "与AI联手证明黎曼猜想的数学家：“我的指路灯没了”"
     },
     {
-     "title": "最高明的涨价，隐藏在你看不见的地方",
-     "link": "https://www.huxiu.com/article/4907979.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:52:05 +0800",
-     "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 假如你每天坐地铁上下班，单程5公里，车票3元，一个月22个工作日，往返通勤需要花费132元。 从今年12月开始，如果你在上海，在不考虑优惠的情况下，这笔费用将变成176元。一个月多花44元，一年下来就是500多元。有意思的是，上海地铁的起乘价依然是3元。 11月23日，上海市发改委公布了新的轨道交通票价机制，起乘价保持不变，起乘里程从6公里缩短至4公里，后续的里程计价规则也有所调整。根据官方测算，叠加计次票、满额优惠等措施后，平均每人次票价将提高0.9元，涨幅为21.3%。 类似的事情其实每天都在我们身边发生。超市里那包一直卖10元的薯片，骑",
-     "source": "虎嗅",
-     "zh": "最高明的涨价，隐藏在你看不见的地方"
-    },
-    {
-     "title": "混元会是腾讯AI的大结果吗",
-     "link": "https://www.huxiu.com/article/4907980.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:51:48 +0800",
-     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《混元会是腾讯AI的大结果吗｜巨潮》 浪已经杀过来了。AI进展飞快，远处的浪潮已经在吞没一个个山丘了。 不能坐着欣赏，要赶紧站起来迎战。一半人守阵地，另一半人上船打新仗。 11月11日的腾讯总办LinkTime直播中，AI的分量在被史无前例地着墨。 马化腾当时还说出了比上述两句更加令腾讯员工感到“惊悚”的话：自己今天和Martin（刘炽平）穿的一黑一白，难听的话自己来说，“现在是生死存亡的时候了。” 当外界还在消化这份会议纪要时，一份让人不安的三季报，和连续不断的股价下跌，把腾讯控股压到了11倍市盈率的“传统产业估值”",
-     "source": "虎嗅",
-     "zh": "混元会是腾讯AI的大结果吗"
-    },
-    {
      "title": "CAR-T的分水岭时刻",
      "link": "https://www.tmtpost.com/8215707.html",
      "pubDate": "Tue, 24 Nov 2026 12:46:59 +0800",
@@ -1922,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "巴西手游接入Pix后，充值到账和回款周期为什么还是对不上？"
     },
     {
-     "title": "推力与阻力",
-     "link": "https://www.huxiu.com/article/4907974.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:29:12 +0800",
-     "summary": "本文来自微信公众号： 李迅雷金融与投资 ，作者：李迅雷 十五年前，我写过一篇文章叫《昨日推力会否变成明日陷阱》，对过度依赖投资的增长模式和出口依赖度偏高提出担忧。如今，投资增速已经从最高时的50%以上降至负值。如果把经济周期拉长了看，历史上曾经作为经济增长的推力，可能成为下一阶段的阻力。因此，在经济周期的上升期就应该为未来的下行期做准备，未雨绸缪。 从人口红利到人口老龄化—— 中国经济奇迹中非体制性因素 按联合国的标准，15岁以下和65岁及以上的人口为抚养人口，15-64岁为劳动年龄人口。下图描述了我国人口抚养比的变化及未来走势预测。发现1966年是人口抚养比最高的年份，达到80%，含义是10",
-     "source": "虎嗅",
-     "zh": "推力与阻力"
-    },
-    {
      "title": "小鹏 P7 新增「暮金灰」车色：高亮粗闪铝粉加精细珠光，11 月 25 日科技日线下首展",
      "link": "https://www.ithome.com/1/031/461.htm",
      "pubDate": "Tue, 24 Nov 2026 04:28:53 GMT",
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Drone Maps of Salvage Yards",
      "link": "https://salvageyarddrone.wordpress.com/",
      "pubDate": "Tue, 24 Nov 2026 04:00:28 +0000",
-     "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 25 # Comments: 8",
+     "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 28 # Comments: 11",
      "source": "Hacker News",
      "zh": "Drone Maps of Salvage Yards"
     },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "First look: Here’s what Google’s new High-visibility map style would look like",
+     "link": "https://www.androidauthority.com/google-maps-high-visibility-mode-3738618/",
+     "pubDate": "Tue, 24 Nov 2026 05:40:35 +0000",
+     "summary": "The new style comes with a purple navigation route and a different color palette for both light and dark modes.",
+     "source": "Android Authority",
+     "zh": "First look: Here’s what Google’s new High-visibility map style would look like"
+    },
     {
      "title": "Google gives publishers more visibility in AI Mode with new ‘Dive Deeper’ links",
      "link": "https://www.androidauthority.com/google-search-ai-mode-dive-deeper-rollout-3738609/",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save $46 on SanDisk's plug-and-stay 1TB flash drive, which usually sells for $249.99 on Amazon.",
      "source": "Android Authority",
      "zh": "SanDisk’s tiny 1TB Extreme Fit USB-C drive hits a six-month low"
-    },
-    {
-     "title": "Google Chrome is working on 3 new filters to narrow down your browsing history",
-     "link": "https://www.androidauthority.com/google-chrome-history-filters-3738511/",
-     "pubDate": "Mon, 23 Nov 2026 20:17:10 +0000",
-     "summary": "You should soon be able to filter browsing history by device, date, and ‘who browsed.’",
-     "source": "Android Authority",
-     "zh": "Google Chrome is working on 3 new filters to narrow down your browsing history"
     }
    ]
   },
@@ -2257,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "U.S. adds Alibaba unit, six Megaspeed affiliates to trade blacklist",
+     "link": "https://seekingalpha.com/news/4675969-us-adds-alibaba-unit-six-megaspeed-affiliates-to-trade-blacklist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 00:47:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. adds Alibaba unit, six Megaspeed affiliates to trade blacklist"
+    },
     {
      "title": "Symbotic projects $805M-$825M Q1 FY2027 revenue as Walmart expansion adds nearly $7B backlog",
      "link": "https://seekingalpha.com/news/4675977-symbotic-projects-805m-825m-q1-fy2027-revenue-as-walmart-expansion-adds-nearly-7b-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2346,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Britain bought fake C4 explosives for Ukraine"
     },
     {
-     "title": "Tuesday's Economic Calendar",
-     "link": "https://seekingalpha.com/news/4675517-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuesday's Economic Calendar"
-    },
-    {
      "title": "戴文军辞去总裁职务，绝味食品募投项目再延期",
      "link": "http://www.eeo.com.cn/2026/1124/1100956.shtml",
      "pubDate": "Tue, 24 Nov 2026 12:58:01 +0800",
@@ -2426,6 +2426,54 @@ window.INDUSTRY_DATA = {
      "zh": "豆包推出“小豆”，大厂争夺个人AI入口"
     },
     {
+     "title": "深赛格：截至11月13日最新股东户数5.68万户，较上期增加5.86%",
+     "link": "http://stock.eastmoney.com/news/11111,202611243938308865.html",
+     "pubDate": "Tue, 24 Nov 2026 11:59:54 +0800",
+     "summary": "深赛格 最新披露数据显示，截至11月13日公司股东户数为5.68万户，较上期(2026年10月23日) 增加3146户，增幅为5.86% 。户均持有流通股数量 由上期的2.29万股下降至2.17万股， 户均持股金额 由上期的16.31万元减少至14.39万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "深赛格：截至11月13日最新股东户数5.68万户，较上期增加5.86%"
+    },
+    {
+     "title": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202611243938307765.html",
+     "pubDate": "Tue, 24 Nov 2026 11:54:43 +0800",
+     "summary": "据当地媒体报道，哥伦比亚中部梅塔省首府比亚维森西奥市中心23日晚发生一起疑似 汽车 炸弹袭击事件，目标疑为梅塔省政府大楼。袭击已造成12人受伤，周边多栋建筑受损。目前尚无组织宣称制造此次袭击。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤"
+    },
+    {
+     "title": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商",
+     "link": "http://stock.eastmoney.com/news/1416,202611243938308368.html",
+     "pubDate": "Tue, 24 Nov 2026 11:49:06 +0800",
+     "summary": "苹果 的可折叠手机iPhone Duo，未来可能被迫依赖于三星的显示屏，分析师郭明錤称 OLED 面板 是 苹果 在谈判筹码方面最棘手的单一组件。 爆料平台Instant Digital最新在 微博 上发文指出，三星在折痕控制、可靠性和制造良率方面占据优势，将使LG Display很难加入iPhone Duo的可折叠显示屏供应链。 苹果 据悉希望支持LG Display成为自己的主要显示屏供应商，LG也参与了苹果折叠屏的早期研发，但该供应商的生产能力及技术仍无法挑战三星。Instant Digital认为，至少在未来五年内，三星显示器仍将是iPhone Duo的核心。 此前，Instant D",
+     "source": "东方财富股票",
+     "zh": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商"
+    },
+    {
+     "title": "中证转债指数午盘涨0.23%，报429.01点",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938307939.html",
+     "pubDate": "Tue, 24 Nov 2026 11:48:32 +0800",
+     "summary": "11月24日，中证转债指数午盘上涨0.23%，报429.01点。万得可转债等权指数午盘上涨0.42%，报219.68点。其中，卓镁转债、丰茂转债、肇民转债、联瑞转债、莱特转债涨幅居前，分别涨14.33%、11.85%、11.02%、9.31%、7.36%。严牌转债、美锦转债、金诚转债、艾为转债、宏图转债跌幅居前，分别跌4.33%、3.09%、2.93%、2.89%、2.81%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "中证转债指数午盘涨0.23%，报429.01点"
+    },
+    {
+     "title": "国轩高科入股芜湖造船厂",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938305825.html",
+     "pubDate": "Tue, 24 Nov 2026 11:47:51 +0800",
+     "summary": "企查查APP显示，近日，芜湖造船厂有限公司发生工商变更，新增 国轩高科 旗下合肥 国轩高科 动力能源有限公司为股东。官网显示，芜湖造船厂是国内现代化一档造船企业，深耕 船舶制造 领域超百年。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "国轩高科入股芜湖造船厂"
+    },
+    {
+     "title": "泰国10月汽车产量同比下降35.19%",
+     "link": "http://finance.eastmoney.com/news/1358,202611243938305610.html",
+     "pubDate": "Tue, 24 Nov 2026 11:45:23 +0800",
+     "summary": "据泰国工业联合会，泰国10月 汽车 产量同比下降35.19%，9月为下降6.08%。泰国10月 汽车 销量同比增长8.71%，9月为增长14.28%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "泰国10月汽车产量同比下降35.19%"
+    },
+    {
      "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
      "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
      "pubDate": "Tue, 24 Nov 2026 03:32:26 GMT",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "黄仁勋复职，触发美股史诗级逼仓，但野村警告：机械性反弹解决不了结构性问题。 当地时间周一，英伟达董事会宣布黄仁勋重返总裁兼CEO职位，这份措手不及的新闻稿彻底引爆了此前已蓄势待发的机械性买盘。 野村证券跨资产策略师Charlie McElligott在当日最新报告中，将这场反弹定性为多重机制的叠加引爆： 看跌期权对冲头寸失效、空头被迫止损、趋势型基金翻多。 他以一句话概括全天行情： 对冲头寸消亡，空头遭遇止损，标普狂飙，追逐上行。 与此同时，野村测算， 杠杆ETF在当日收盘前的被动再平衡买入规模高达410亿美元，为有史以来第二大单日买入。 然而，McElligott同时警示，机械性反弹无法消除",
      "source": "华尔街见闻",
      "zh": "对冲失效，空头止损，杠杆ETF狂扫410亿！复盘老黄回归，美股“惊心动魄”的一天"
-    },
-    {
-     "title": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611243938299844.html",
-     "pubDate": "Tue, 24 Nov 2026 11:20:41 +0800",
-     "summary": "AI短剧、漫剧商业化落地提速，A股 影视概念 反复活跃， 上海电影 、 横店影视 等多股连板。机构认为， AI正重构影视内容成本曲线 ，板块估值修复空间打开。 AI漫剧出海用户破1.5亿 微短剧前三季度上线49万部 11月以来，A股 影视概念 反复活跃，AI短剧、漫剧方向领涨。11月2日，影视板块指数单日涨超9%，影视ETF银华、影视ETF国泰双双涨停， 文投控股 盘中上演\"地天板\"走出9天5板；11月10日，申万 影视院线 指数再涨6.80%，板块成交额达190.89亿元； 11月23日，AI漫剧概念再度爆发， 上海电影 、 横店影视 、 浙文影业 、 德才股份 等多股涨停， 果麦文化 、 ",
-     "source": "东方财富资讯",
-     "zh": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)"
-    },
-    {
-     "title": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938275749.html",
-     "pubDate": "Tue, 24 Nov 2026 11:12:31 +0800",
-     "summary": "当地时间周一，在 英伟达 董事会一致决定让黄仁勋重返CEO岗位后， 特斯拉 与 SpaceX 首席执行官埃隆·马斯克接连发声。 周一早些时候，在得知 英伟达 董事会已恢复黄仁勋职位的消息后，马斯克迅速做出回应，他在社交媒体平台X上转发了 英伟达 对黄仁勋的复职声明， 并配文“错误已经被纠正” 。 几个小时后，马斯克又转发黄仁勋回归视频，并配文：“我认识的英伟达所有人都希望黄仁勋回来，这从结果就能看出来。” 黄仁勋回归现场画面曝光 根据视频画面，当黄仁勋回到英伟达加州圣克拉拉总部时，员工欢呼鼓掌，楼梯挤满了人，齐声高喊 “Jensen！”、“We love you”，现场气氛热烈。 黄仁勋当天没",
-     "source": "东方财富资讯",
-     "zh": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友"
-    },
-    {
-     "title": "15%最低税红线！沙特2027年起对跨国巨头利润征补充税",
-     "link": "http://finance.eastmoney.com/news/1352,202611243938282194.html",
-     "pubDate": "Tue, 24 Nov 2026 11:10:26 +0800",
-     "summary": "据沙特阿拉伯天课、税务和海关总局称，沙特将于2027年起对跨国企业在该国境内取得的利润征收补充税，前提是其有效税率低于15%的全球最低税率。 该税种适用于过去四年合并财务报表显示年收入达到7.5亿欧元（8.238亿美元）或以上的跨国企业，没有海外分支机构的本地企业可获豁免。 据称，此举旨在保护沙特对其境内所获利润征税的权利，并与关于全球最低税率的新国际规则保持同步。 当局强调，该税种适用范围仅限于跨国集团中符合标准的实体，并不扩展到在沙特境内运营的所有公司。 它同时指出，通过制定与大多数G20国家及所有海湾合作委员会成员国所采用规则相一致的条款，可为投资者提供更大的确定性和稳定性。 据其解释，",
-     "source": "东方财富资讯",
-     "zh": "15%最低税红线！沙特2027年起对跨国巨头利润征补充税"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
-     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-     "source": "MarketWatch",
-     "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
-    },
-    {
-     "title": "Lloyds publishes guide on scaling AI responsibly",
-     "link": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 24 Nov 2026 00:01:00 GMT",
-     "summary": "Lloyds Banking Group has provided some insight into its approach to rolling out AI in a responsible way, publishing a guide sharing practical lessons from its experience of scaling the technology.",
-     "source": "Finextra",
-     "zh": "Lloyds publishes guide on scaling AI responsibly"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 02:55:15",
+ "generated_at": "2026/11/25 03:12:10",
  "recent_days": 7,
  "industries": [
   {
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more",
+     "link": "https://electrek.co/2026/11/24/bluetti-elite-300-power-station-ecovacs-lidar-pro-robot-mower-gotrax-go-kart-more/",
+     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
+     "summary": "As Amazon’s Black Friday Sale continues, there are countless Green Deals worth jumping on – all of which can be found in our Black Friday Green Deals Seasonal Hub that we will continue updating through the rest of the month. There’s plenty of low prices, like on ECOVACS’ three LiDAR Pro Robot Lawn M",
+     "source": "Electrek",
+     "zh": "Bluetti Elite 300 power station exclusively at $1,044, ECOVACS LiDAR Pro robot mower lows from $949, GoTrax kids go kart, more"
+    },
+    {
      "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US",
      "link": "https://electrek.co/2026/11/24/byd-ineos-hambach-factory-france-grenadier-us/",
      "pubDate": "Tue, 24 Nov 2026 17:58:40 +0000",
@@ -720,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "With Amazon’s Black Friday Sale going strong, you can currently find a wide variety of tool deals from various brands. There’s six Greenworks Cordless Snow Blower and Snow Shovel low prices starting from $178 , for example, which are a great opportunity ahead of winter officially arriving. There’s a",
      "source": "Electrek",
      "zh": "Greenworks snow blower + shovel kits at lows from $178, Worx tools up to 45% off, Segway Navimow robot mower lows, more"
-    },
-    {
-     "title": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000",
-     "link": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/",
-     "pubDate": "Tue, 24 Nov 2026 15:40:49 +0000",
-     "summary": "BYD launched the third-generation Tang, a large, high-tech five-seat flagship electric SUV, starting at under $30,000 in China. more…",
-     "source": "Electrek",
-     "zh": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000"
     },
     {
      "title": "An Empty EV Tried To Park Itself 868 Times In One Night. The Video Is Hilarious",
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Central Asia Pushes Ahead With Regional Electricity Market",
+     "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Pushes-Ahead-With-Regional-Electricity-Market.html",
+     "pubDate": "Tue, 24 Nov 2026 13:00:00 -0600",
+     "summary": "Central Asian officials are pursuing a pilot project to create a more efficient regional electricity distribution system. According to a statement issued by Kazakhstan’s state-run electric company, KEGOC, a World Bank-supported tender seeks to attract an international firm to develop and oversee a 2",
+     "source": "OilPrice",
+     "zh": "Central Asia Pushes Ahead With Regional Electricity Market"
+    },
+    {
      "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html",
      "pubDate": "Tue, 24 Nov 2026 12:30:00 -0600",
@@ -890,12 +898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market"
     },
     {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "The European Union will propose to the UN to review the consensus decision-making model of the COP climate conferences after the latest summit ended without a deal but with a lot of quarrels about whether the final communique should include fossil fuels. After two days of overtime and tense negotiat",
      "source": "OilPrice",
      "zh": "EU to Seek Overhaul of UN Climate Consensus Decisions After COP31 Failure"
-    },
-    {
-     "title": "Libya and Iraq Could Be the Next Big Headache for Oil Markets",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Libya-and-Iraq-Could-Be-the-Next-Big-Headache-for-Oil-Markets.html",
-     "pubDate": "Tue, 24 Nov 2026 09:21:00 -0600",
-     "summary": "Brent struggles below $90 as escalating tensions in Libya and Iraq threaten fresh oil supply disruptions across the Mediterranean. Where’s El Niño When You Need It?- Ahead of the 2026/2027 winter season, Japan’s meteorological forecasts predicted a 60% probability of above-normal temperatures, howev",
-     "source": "OilPrice",
-     "zh": "Libya and Iraq Could Be the Next Big Headache for Oil Markets"
     },
     {
      "title": "PV Tech Research: upstream sourcing at the root of inverter cybersecurity issue",
@@ -1090,6 +1090,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "With Planned $41B Insmed Acquisition, Sanofi Inks Year’s Biggest M&A Deal",
+     "link": "https://www.genengnews.com/topics/translational-medicine/with-planned-41b-insmed-acquisition-sanofi-inks-years-biggest-ma-deal/",
+     "pubDate": "Tue, 24 Nov 2026 18:58:29 +0000",
+     "summary": "In announcing the deal overnight, Sanofi declared that the transaction was intended to broaden its presence in respiratory diseases—a key therapeutic area of Insmed along with immunology and inflammation, neuro, and rare disease drugs. The post With Planned $41B Insmed Acquisition, Sanofi Inks Year’",
+     "source": "GEN",
+     "zh": "With Planned $41B Insmed Acquisition, Sanofi Inks Year’s Biggest M&A Deal"
+    },
+    {
+     "title": "Drug labels must flag accelerated approval to patients, FDA says",
+     "link": "https://endpoints.news/drug-labels-must-flag-accelerated-approval-to-patients-fda-says/",
+     "pubDate": "Tue, 24 Nov 2026 18:58:04 +0000",
+     "summary": "Drugs and biologics authorized through an accelerated approval will now have to note that nontraditional pathway on their patient labels, the Food and Drug Administration announced Monday. The change follows a ...",
+     "source": "Endpoints News",
+     "zh": "Drug labels must flag accelerated approval to patients, FDA says"
+    },
+    {
      "title": "Sanofi makes a huge bet on life after Dupixent",
      "link": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
      "pubDate": "Tue, 24 Nov 2026 18:31:26 +0000",
@@ -1186,14 +1202,6 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?"
     },
     {
-     "title": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
-     "link": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
-     "pubDate": "Tue, 24 Nov 2026 08:20:00 +0000",
-     "summary": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
-     "source": "Endpoints News",
-     "zh": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years"
-    },
-    {
      "title": "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”",
      "link": "https://www.genengnews.com/topics/infectious-diseases/poxvirus-machinery-mapped-with-electron-microscopy-shows-paired-engines/",
      "pubDate": "Mon, 23 Nov 2026 23:50:24 +0000",
@@ -1272,14 +1280,6 @@ window.INDUSTRY_DATA = {
      "summary": "Studying postmortem brain tissue, researchers found variations in DNA methylation in different brain areas that may help explain the development of post-traumatic stress disorder. The post PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity appeared first on GEN ",
      "source": "GEN",
      "zh": "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity"
-    },
-    {
-     "title": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development",
-     "link": "https://www.genengnews.com/topics/cancer/immune-aging-study-in-mice-reveals-clues-to-t-cell-dysfunction-and-cancer-development/",
-     "pubDate": "Fri, 20 Nov 2026 19:04:09 +0000",
-     "summary": "Age-related changes in CD8+ T cells may hold important clues to understanding cancer immunity, with new findings revealing distinct chromatin signatures of dysfunction and the emergence of a unique regulatory population. The post Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Can",
-     "source": "GEN",
-     "zh": "Immune Aging Study in Mice Reveals Clues to T Cell Dysfunction and Cancer Development"
     }
    ]
   },
@@ -1289,6 +1289,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
+     "link": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
+     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
+     "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
+     "source": "Space.com",
+     "zh": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death"
+    },
     {
      "title": "Webb Reveals New Details in Supernova Remnant",
      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
@@ -1384,14 +1392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Watch live online on Nov. 24 as the first of four consecutive supermoons rises to flood the night sky with moonlight.",
      "source": "Space.com",
      "zh": "Watch November's full Beaver Moon live online today with supermoon livestream"
-    },
-    {
-     "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
-     "link": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
-     "pubDate": "Tue, 24 Nov 2026 11:00:00 +0000",
-     "summary": "A dam good moon.",
-     "source": "Space.com",
-     "zh": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon"
     },
     {
      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+     "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+     "pubDate": "Tue, 24 Nov 2026 13:59:52 -0500",
+     "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+     "source": "BleepingComputer",
+     "zh": "Turnitin discloses cyberattack affecting customer-facing systems"
+    },
+    {
      "title": "Radware discloses breach exposing customer cloud access keys",
      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
      "pubDate": "Tue, 24 Nov 2026 12:49:05 -0500",
@@ -1592,14 +1600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
      "source": "BleepingComputer",
      "zh": "Police disrupt 57 illegal streaming services with 7.3 million visits"
-    },
-    {
-     "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-     "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-     "pubDate": "Tue, 24 Nov 2026 10:01:11 -0500",
-     "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software ",
-     "source": "BleepingComputer",
-     "zh": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era"
     },
     {
      "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
@@ -1754,20 +1754,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "新鲜感之后，陪伴机器人如何被用起来？",
-     "link": "https://www.tmtpost.com/8212446.html",
-     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
-     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
-     "source": "钛媒体",
-     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+     "title": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)",
+     "link": "https://www.techmeme.com/261124/p30#a261124p30",
+     "pubDate": "Tue, 24 Nov 2026 14:05:00 -0500",
+     "summary": "Dan Mangan / CNBC : AG Todd Blanche and FBI Director Kash Patel dodge reporters' questions about a purported probe that led Trump to push Nvidia's board to bring back Jensen Huang &nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name i",
+     "source": "Techmeme",
+     "zh": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)"
     },
     {
-     "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+     "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
+     "link": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
+     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
+     "summary": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
+     "source": "WIRED",
+     "zh": "iRestore Elite Laser Hair Growth System Review: Husband-Approved"
+    },
+    {
+     "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
      "pubDate": "Tue, 24 Nov 2026 18:47:57 +0000",
      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
      "source": "Ars Technica",
-     "zh": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage"
+     "zh": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe"
     },
     {
      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "“Pervert glasses\" named word of the year by Macquarie Dictionary",
      "link": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
      "pubDate": "Tue, 24 Nov 2026 18:21:01 +0000",
-     "summary": "Article URL: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/ Comments URL: https://news.ycombinator.com/item?id=50632214 Points: 32 # Comments: 11",
+     "summary": "Article URL: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/ Comments URL: https://news.ycombinator.com/item?id=50632214 Points: 53 # Comments: 33",
      "source": "Hacker News",
      "zh": "“Pervert glasses\" named word of the year by Macquarie Dictionary"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "AstridVPN: A VPN that doesn't know who you are",
      "link": "https://astridvpn.com/",
      "pubDate": "Tue, 24 Nov 2026 18:00:21 +0000",
-     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 6 # Comments: 9",
+     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 9 # Comments: 14",
      "source": "Hacker News",
      "zh": "AstridVPN: A VPN that doesn't know who you are"
     },
@@ -1858,12 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)"
     },
     {
-     "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+     "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
      "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 120 # Comments: 57",
+     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 145 # Comments: 71",
      "source": "Hacker News",
-     "zh": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'"
+     "zh": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark"
     },
     {
      "title": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia&apos;s size, plus Trump&apos;s support, left Nvidia with no other options (Robert Armstrong/Financial Times)",
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 45 # Comments: 33",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 55 # Comments: 42",
      "source": "Hacker News",
      "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
@@ -1938,18 +1946,10 @@ window.INDUSTRY_DATA = {
      "zh": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)"
     },
     {
-     "title": "Internal memos: Microsoft declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage (Jaspreet Singh/Reuters)",
-     "link": "https://www.techmeme.com/261124/p24#a261124p24",
-     "pubDate": "Tue, 24 Nov 2026 11:35:02 -0500",
-     "summary": "Jaspreet Singh / Reuters : Internal memos: Microsoft declared a &ldquo;Code Red&rdquo; drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage &nbsp; &mdash;&nbsp; Microsoft has declared a &ldquo;Code Red&rdquo; drive to overhaul how it prevent",
-     "source": "Techmeme",
-     "zh": "Internal memos: Microsoft declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage (Jaspreet Singh/Reuters)"
-    },
-    {
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 158 # Comments: 53",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 167 # Comments: 56",
      "source": "Hacker News",
      "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back",
+     "link": "https://www.gsmarena.com/the_huawei_matebook_fold_s_is_a_foldable_147_tablet_with_an_extra_display_on_the_back-news-75614.php",
+     "pubDate": "Tue, 24 Nov 2026 20:02:02 +0100",
+     "summary": "While some brands have gotten boring, we can always rely on Huawei for some out-of-the-box thinking. Have a look at the Huawei MateBook Fold S – no, no, keep looking, it gets stranger the more you look. This is a foldable tablet that can be used in a laptop-like half-folded configuration – the lower",
+     "source": "GSMArena",
+     "zh": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back"
+    },
+    {
+     "title": "The biggest limitations of ChatGPT",
+     "link": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
+     "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
+     "summary": "Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.",
+     "source": "Engadget",
+     "zh": "The biggest limitations of ChatGPT"
+    },
+    {
+     "title": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals",
+     "link": "https://9to5mac.com/2026/11/24/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
+     "pubDate": "Tue, 24 Nov 2026 18:54:37 +0000",
+     "summary": "The holidays are often the best time to subscribe to streaming services at deep discounts, and that’s true again this year. Here are the best Black Friday deals that are already live for HBO Max, Peacock, Apple TV, and more. [ Updated to add Disney+ and Hulu deal.] more…",
+     "source": "9to5Mac",
+     "zh": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals"
+    },
     {
      "title": "Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday",
      "link": "https://9to5mac.com/2026/11/24/skip-the-knockoffs-real-pitaka-aramid-fiber-cases-start-at-18-99-this-black-friday/",
@@ -2146,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Nikon ZR’s first big update is finally here"
     },
     {
-     "title": "Meta is bringing Muse to Instagram",
-     "link": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
-     "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000",
-     "summary": "Instagram will prompt people to use the agent to sort through their saved content.",
-     "source": "Engadget",
-     "zh": "Meta is bringing Muse to Instagram"
-    },
-    {
      "title": "Alienware’s 34-inch curved gaming monitor drops $130 to a record low",
      "link": "https://www.androidauthority.com/alienware-34-gaming-monitor-deal-3738937/",
      "pubDate": "Tue, 24 Nov 2026 16:55:40 +0000",
@@ -2224,22 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "The new ultra-wide prime gives Sony and Nikon shooters another affordable option.",
      "source": "DPReview",
      "zh": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8"
-    },
-    {
-     "title": "Things 3.25 update brings new touch features to the MacBook Pro",
-     "link": "https://9to5mac.com/2026/11/24/things-3-25-update-brings-new-touch-features-to-the-macbook-pro/",
-     "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
-     "summary": "Cultured Code is bringing swipe gestures to Things on Apple’s touchscreen MacBook Pro . Version 3.25 builds on the task manager’s basic touch support so you can schedule a to-do with a swipe or select several tasks with two fingers and drag them all at once. more…",
-     "source": "9to5Mac",
-     "zh": "Things 3.25 update brings new touch features to the MacBook Pro"
-    },
-    {
-     "title": "Deal: the Oppo Find X10 is £200 off",
-     "link": "https://www.gsmarena.com/deal_the_oppo_find_x10_is_200_off-news-75616.php",
-     "pubDate": "Tue, 24 Nov 2026 16:31:01 +0100",
-     "summary": "The Oppo Find X10 series began its global journey a month ago and now Amazon’s Black Friday sales have brought the first serious discounts. Unfortunately, the Find X10 Pro Max is out of stock (it was available last week, though). Oppo Find X10 The Oppo Find X10 has an MSRP of £1,100 for the base mod",
-     "source": "GSMArena",
-     "zh": "Deal: the Oppo Find X10 is £200 off"
     }
    ]
   },
@@ -2249,6 +2249,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Bayer’s Roundup settlement faces fresh uncertainty after NIH cancer review",
+     "link": "https://seekingalpha.com/news/4676325-bayer-s-roundup-settlement-faces-fresh-uncertainty-after-nih-cancer-review?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 14:05:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bayer’s Roundup settlement faces fresh uncertainty after NIH cancer review"
+    },
+    {
+     "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+     "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 19:02:00 GMT",
+     "summary": "A “silent epidemic”: Doctors are rethinking how to diagnose iron deficiency. Here’s what you should know about the science of ferritin.",
+     "source": "MarketWatch",
+     "zh": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before."
+    },
+    {
+     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+     "pubDate": "Tue, 24 Nov 2026 19:00:00 GMT",
+     "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "source": "Federal Reserve",
+     "zh": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026"
+    },
+    {
+     "title": "McDonald's sees pushback from franchisees over costly upgrades",
+     "link": "https://seekingalpha.com/news/4676321-mcdonalds-sees-pushback-from-franchisees-over-costly-upgrades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:54:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "McDonald's sees pushback from franchisees over costly upgrades"
+    },
+    {
+     "title": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862697.html",
+     "pubDate": "Wed, 25 Nov 2026 02:52:12 +0800",
+     "summary": "韩国电力 公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息"
+    },
     {
      "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
      "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
@@ -2290,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "CMB.Tech outlines $722M 2027 free cash flow scenario while Board proposes $0.65 dividend"
     },
     {
-     "title": "Large-cap financial stocks: Top and bottom quant-rated picks after Q3",
-     "link": "https://seekingalpha.com/news/4676209-large-cap-financial-stocks-top-and-bottom-quant-rated-picks-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:35:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Large-cap financial stocks: Top and bottom quant-rated picks after Q3"
-    },
-    {
      "title": "布伦特原油涨幅扩大至2%",
      "link": "http://finance.eastmoney.com/news/1356,202611253938862528.html",
      "pubDate": "Wed, 25 Nov 2026 02:35:30 +0800",
@@ -2312,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
      "source": "CNBC",
      "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
-    },
-    {
-     "title": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B",
-     "link": "https://seekingalpha.com/news/4676320-dycom-anticipates-mid-single-digit-fy-2028-communications-growth-as-long-haul-backlog-exceeds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:33:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B"
     },
     {
      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
@@ -2386,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭"
     },
     {
-     "title": "穆迪上调礼来评级至Aa2 前景展望稳定",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938862144.html",
-     "pubDate": "Wed, 25 Nov 2026 02:24:50 +0800",
-     "summary": "穆迪 上调 礼来 评级至Aa2，前景展望稳定。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "穆迪上调礼来评级至Aa2 前景展望稳定"
-    },
-    {
      "title": "Retail turnarounds are taking hold just in time for the holiday season",
      "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
      "pubDate": "Tue, 24 Nov 2026 18:21:35 GMT",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
     },
     {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 18:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
      "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
      "pubDate": "Tue, 24 Nov 2026 17:59:12 GMT",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "布伦特原油本月已下跌25%，OPEC+成员国正在就2027年产量政策展开年内最具决定性的一轮谈判。 据彭博援引知情人士透露，本月底的部长级会议将以一份由达拉斯咨询机构DeGolyer and MacNaughton完成的独立产能审计报告为基础， 为各成员国设定新的产量基准。 这些基准数字将直接决定各国未来的增产空间，并对全球原油供需格局产生深远影响。 然而， 包括伊朗战争走势、霍尔木兹海峡通行恢复速度以及全球需求前景在内的多重不确定因素，令这次决策的难度空前复杂。 市场分析人士指出，2027年全球原油市场可能面临过剩压力。国际能源署等机构预测，届时全球日产量或将超过消费量。与此同时，美国、圭亚",
      "source": "华尔街见闻",
      "zh": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性"
-    },
-    {
-     "title": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌",
-     "link": "https://wallstreetcn.com/articles/3786560",
-     "pubDate": "Wed, 25 Nov 2026 00:21:26 +0800",
-     "summary": "英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。 周二，美股盘初，标普500指数跌0.90%，道琼斯工业平均指数跌0.20%，纳斯达克综合指数跌1.43%，纳斯达克100指数跌1.7%，费城半导体指数一度大跌9%。 半导体ETF跌5.2%，在美股盘初领跌行业ETF，科技行业ETF跌3.05%，全球科技股指数ETF跌2.94%，网络股指数ETF跌1.13%。 个股方面，英伟达跌8%，Anthropic跌14%破发，ADI跌14.9%，美光跌9.4%，闪迪跌9.6%，AMD跌10.4%，SK海力士ADR、英特尔、希捷科技、Lumentum、C",
-     "source": "华尔街见闻",
-     "zh": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌"
     }
    ]
   },

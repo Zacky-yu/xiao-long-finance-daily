@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 12:31:57",
+ "generated_at": "2026/11/24 12:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,30 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+     "link": "https://www.qbitai.com/2026/11/512329.html",
+     "pubDate": "Tue, 24 Nov 2026 03:33:48 +0000",
+     "summary": "12.9 北京，来MEET2027现场",
+     "source": "量子位",
+     "zh": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”"
+    },
+    {
+     "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+     "link": "https://www.qbitai.com/2026/11/512330.html",
+     "pubDate": "Tue, 24 Nov 2026 03:30:46 +0000",
+     "summary": "中国AI数据平台加速崛起",
+     "source": "量子位",
+     "zh": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源"
+    },
+    {
+     "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+     "link": "https://www.qbitai.com/2026/11/512305.html",
+     "pubDate": "Tue, 24 Nov 2026 03:21:12 +0000",
+     "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+     "source": "量子位",
+     "zh": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会"
+    },
     {
      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
      "link": "https://www.qbitai.com/2026/11/512297.html",
@@ -185,14 +209,6 @@
      "zh": "人大高瓴开源AutoMaster：把智能体变“教研主任”，让大模型教得更好"
     },
     {
-     "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-     "link": "https://www.qbitai.com/2026/11/512195.html",
-     "pubDate": "Mon, 23 Nov 2026 11:01:15 +0000",
-     "summary": "零Token成本，断网也能自由Vibe Coding",
-     "source": "量子位",
-     "zh": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了"
-    },
-    {
      "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
      "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
      "pubDate": "Mon, 23 Nov 2026 10:40:16 +0000",
@@ -231,22 +247,6 @@
      "summary": "「毫无疑问，超级智能已经到来。欢迎来到奇点。」",
      "source": "机器之心",
      "zh": "Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究"
-    },
-    {
-     "title": "为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
-     "pubDate": "Mon, 23 Nov 2026 17:30:00 +0800",
-     "summary": "从单卡到超节点，AI推理基础设施需要一座「数字实验室」",
-     "source": "机器之心",
-     "zh": "为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim"
-    },
-    {
-     "title": "Token生意爆发！云知声Q3毛利飙升近80%，股价单日大涨21.7%",
-     "link": "https://zhidx.com/p/613322.html",
-     "pubDate": "Mon, 23 Nov 2026 17:29:49 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 智东西11月23日报道，今天，港股AI公司 云知声 发布2026年第三季度经营情况。该季度，云知声单季实现收入 约3.44亿元 ，同比增长 53.3% ；毛利约 1.44亿元 ，同比增长 79.6% ，毛利率提升至41.8%。其中，收入增速创云知声2025年6月上市以来单季度新高。 这一业绩也带动云知声股价大幅拉升，截至今日港股收盘，其股价大涨21.70%，报46.10港元/股。 就在三天前， 云知声刚刚被纳入恒生科技指数 ，相关调整将于12月7日正式生效。此次恒科成份股由30只扩容至50只，并首次设立“收入增长组别”，仅有10个席位。云知声与中际旭创",
-     "source": "智东西",
-     "zh": "Token生意爆发！云知声Q3毛利飙升近80%，股价单日大涨21.7%"
     }
    ]
   },
@@ -977,14 +977,6 @@
      "zh": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E"
     },
     {
-     "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
-     "link": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
-     "pubDate": "Mon, 23 Nov 2026 11:27:12 -0500",
-     "summary": "The decision followed a promise by the utilities to allow ISO-NE&rsquo;s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
-     "source": "Utility Dive",
-     "zh": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue"
-    },
-    {
      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
      "link": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
      "pubDate": "Mon, 23 Nov 2026 16:22:15 +0000",
@@ -1087,6 +1079,14 @@
      "summary": "IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.",
      "source": "PV Tech",
      "zh": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA"
+    },
+    {
+     "title": "Europe turns negative electricity prices into a flexibility signal",
+     "link": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+     "pubDate": "Mon, 23 Nov 2026 10:45:00 +0000",
+     "summary": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report. The post Europe turns negative electricity prices into a flexibility signal appeared first",
+     "source": "pv magazine",
+     "zh": "Europe turns negative electricity prices into a flexibility signal"
     }
    ]
   },
@@ -1193,14 +1193,6 @@
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
     },
     {
-     "title": "Kymera eczema pill meets goals in mid-stage trial",
-     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
-     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
-     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
-     "source": "BioPharma Dive",
-     "zh": "Kymera eczema pill meets goals in mid-stage trial"
-    },
-    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1287,6 +1279,14 @@
      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
+    },
+    {
+     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
+     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
+     "source": "BioPharma Dive",
+     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
     }
    ]
   },
@@ -1761,6 +1761,78 @@
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "困惑度，为什么成了衡量RSI进度的“度量衡”？",
+     "link": "https://www.tmtpost.com/8215712.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:51 +0800",
+     "summary": "2027年就能实现RSI？",
+     "source": "钛媒体",
+     "zh": "困惑度，为什么成了衡量RSI进度的“度量衡”？"
+    },
+    {
+     "title": "中国旺旺，跋涉越冬",
+     "link": "https://www.tmtpost.com/8215711.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:46 +0800",
+     "summary": "旺仔牛奶也不好卖了。",
+     "source": "钛媒体",
+     "zh": "中国旺旺，跋涉越冬"
+    },
+    {
+     "title": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？",
+     "link": "https://www.tmtpost.com/8215303.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:40 +0800",
+     "summary": "入局AI4S，功夫其实在AI之外的部分。",
+     "source": "钛媒体",
+     "zh": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？"
+    },
+    {
+     "title": "黄仁勋回来了，明星创始人为何“赶不走”？",
+     "link": "https://www.tmtpost.com/8215547.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:35 +0800",
+     "summary": "黄仁勋短暂离职11天后再度复职，股价大幅反弹。这一反转折射明星创始人的双重属性：既是企业宝贵资产，也暗藏高度绑定的治理风险，科技巨头亟待完成个人能力向组织能力的沉淀。",
+     "source": "钛媒体",
+     "zh": "黄仁勋回来了，明星创始人为何“赶不走”？"
+    },
+    {
+     "title": "ADC杀出一匹黑马",
+     "link": "https://www.tmtpost.com/8215427.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:29 +0800",
+     "summary": "ADC打开FGFR3新空间。",
+     "source": "钛媒体",
+     "zh": "ADC杀出一匹黑马"
+    },
+    {
+     "title": "巴西手游接入Pix后，充值到账和回款周期为什么还是对不上？",
+     "link": "https://www.baijing.cn/question/638932",
+     "pubDate": "Tue, 24 Nov 2026 04:31:32 +0000",
+     "summary": "我们是一款休闲竞技手游，刚在巴西上线两个月，日活3万左右，团队8人。上个月接了本地支付渠道的Pix，玩家扫码付款成功率看着还行，但后台订单状态和渠道回调经常对不上，约有7%的订单要延迟十几分钟才确认，客服每天被充值未到账的工单占掉一半。更麻烦的是回款，渠道结算周期标称D+2，实际遇到周末和本地节假日会拖到D+5，现金流比预估紧不少。已经试过加回调重试、对账脚本每日跑两次，也换过一家聚合支付比费率，卡在不知道是该继续优化回调链路，还是直接换成本地收单行直连。想问问做过巴西手游支付的同行，Pix订单确认延迟在什么区间算正常，回款周期该按哪个标准去谈？",
+     "source": "白鲸出海",
+     "zh": "巴西手游接入Pix后，充值到账和回款周期为什么还是对不上？"
+    },
+    {
+     "title": "推力与阻力",
+     "link": "https://www.huxiu.com/article/4907974.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 12:29:12 +0800",
+     "summary": "本文来自微信公众号： 李迅雷金融与投资 ，作者：李迅雷 十五年前，我写过一篇文章叫《昨日推力会否变成明日陷阱》，对过度依赖投资的增长模式和出口依赖度偏高提出担忧。如今，投资增速已经从最高时的50%以上降至负值。如果把经济周期拉长了看，历史上曾经作为经济增长的推力，可能成为下一阶段的阻力。因此，在经济周期的上升期就应该为未来的下行期做准备，未雨绸缪。 从人口红利到人口老龄化—— 中国经济奇迹中非体制性因素 按联合国的标准，15岁以下和65岁及以上的人口为抚养人口，15-64岁为劳动年龄人口。下图描述了我国人口抚养比的变化及未来走势预测。发现1966年是人口抚养比最高的年份，达到80%，含义是10",
+     "source": "虎嗅",
+     "zh": "推力与阻力"
+    },
+    {
+     "title": "小鹏 P7 新增「暮金灰」车色：高亮粗闪铝粉加精细珠光，11 月 25 日科技日线下首展",
+     "link": "https://www.ithome.com/1/031/461.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:28:53 GMT",
+     "summary": "IT之家 11 月 24 日消息，小鹏汽车今日宣布，小鹏 P7 将新增「暮金灰」车色，计划于 11 月 25 日在小鹏科技日线下首次展出。 此次色彩更新同步带来「晨曦粉」车色与「云境灰」内饰色，两组外观色以一天中不同时段的天光为灵感设定，形成一明一暗的搭配。 小鹏汽车介绍称，「暮金灰」以沉静灰调为底色，车漆中融入高亮粗闪铝粉，并搭配高透色浆与精细珠光工艺，使漆面在光线变化下呈现灰与金交织的层次。 据介绍，铝粉颗粒的粒径与排列方式直接影响金属漆的反光表现（IT之家注：汽车金属漆中的铝粉为片状结构，粗闪铝粉粒径更大，可形成更明显的闪烁质感，珠光工艺则通过云母片折射产生随角异色效果）。 「晨曦粉」的",
+     "source": "IT之家",
+     "zh": "小鹏 P7 新增「暮金灰」车色：高亮粗闪铝粉加精细珠光，11 月 25 日科技日线下首展"
+    },
+    {
      "title": "AWS debuts Strands Decider v2, a family of five open decision models based on Google&apos;s Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
      "link": "https://www.techmeme.com/261123/p55#a261123p55",
      "pubDate": "Mon, 23 Nov 2026 23:25:01 -0500",
@@ -1769,44 +1841,20 @@
      "zh": "AWS debuts Strands Decider v2, a family of five open decision models based on Google&apos;s Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)"
     },
     {
-     "title": "《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？",
-     "link": "https://www.tmtpost.com/8215550.html",
-     "pubDate": "Tue, 24 Nov 2026 12:24:22 +0800",
-     "summary": "从《聊斋志异》《山海经》，到《搜神记》《太平广记》，再到散落在各地的乡野传说，还有大量故事等待重新整理和讲述。",
-     "source": "钛媒体",
-     "zh": "《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？"
+     "title": "黄仁勋重掌帅印：英伟达创逾 23 年最大单日涨幅，助推美股科技股集体大涨",
+     "link": "https://www.ithome.com/1/031/458.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:22:10 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 The Information 今天（11 月 24 日）发布博文，报道称受黄仁勋复职英伟达 CEO 利好消息影响， 推动美股科技股集体大涨，提振了投资者对人工智能行业的信心，推动纳斯达克 100 指数上涨 6.8%。 英伟达宣布黄仁勋重新出任首席执行官，公司股价当天收涨 31.48%，市值回升近 1 万亿美元，创下自 2003 年 5 月以来的最佳单日表现，创逾 23 年最大单日涨幅。单日大涨尚未让英伟达收复此前全部失地。其股价已接近黄仁勋 11 月 12 日辞职时的收盘水平，但仍明显低于 10 月初 239.24 美元的高点。 IT之家援引该博文",
+     "source": "IT之家",
+     "zh": "黄仁勋重掌帅印：英伟达创逾 23 年最大单日涨幅，助推美股科技股集体大涨"
     },
     {
-     "title": "零跑股价大跌13%，市场在恐慌什么？",
-     "link": "https://www.tmtpost.com/8215444.html",
-     "pubDate": "Tue, 24 Nov 2026 12:24:16 +0800",
-     "summary": "从规模叙事到盈利考验。",
-     "source": "钛媒体",
-     "zh": "零跑股价大跌13%，市场在恐慌什么？"
-    },
-    {
-     "title": "全网刷屏黄仁勋王者归来，真正的高手操作，藏在无人关注的低调减持里",
-     "link": "https://www.tmtpost.com/8215443.html",
-     "pubDate": "Tue, 24 Nov 2026 12:24:08 +0800",
-     "summary": "在AI喧嚣的时代，名气可以撑起万亿市值，唯有极致的理性与前瞻认知，才能真正做到反复点石成金、穿越周期。",
-     "source": "钛媒体",
-     "zh": "全网刷屏黄仁勋王者归来，真正的高手操作，藏在无人关注的低调减持里"
-    },
-    {
-     "title": "宇树涨停、珞石回A，物理AI站到AI行情C位",
-     "link": "https://www.tmtpost.com/8215619.html",
-     "pubDate": "Tue, 24 Nov 2026 12:24:03 +0800",
-     "summary": "两个资本市场，可以支撑更多企业完成从技术突破到规模制造的跨越。",
-     "source": "钛媒体",
-     "zh": "宇树涨停、珞石回A，物理AI站到AI行情C位"
-    },
-    {
-     "title": "AI还没顶上，游戏扛着网易跑，锅在短剧？",
-     "link": "https://www.tmtpost.com/8215625.html",
-     "pubDate": "Tue, 24 Nov 2026 12:23:59 +0800",
-     "summary": "短剧不替丁磊背锅。",
-     "source": "钛媒体",
-     "zh": "AI还没顶上，游戏扛着网易跑，锅在短剧？"
+     "title": "曝荣耀首款阔折叠手机搭载 2nm 骁龙旗舰芯、2 亿影像 + 潜望长焦、同档最大电池",
+     "link": "https://www.ithome.com/1/031/457.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:22:06 GMT",
+     "summary": "IT之家 11 月 24 日消息，阔比例折叠屏手机热卖后，更多手机厂商有望开始跟进相关品类产品。 据博主 @数码闲聊站 今日爆料了 荣耀首款阔折叠手机 ，有望在 2027 年 3 月前后发布。 爆料称新机主打无感折痕铰链，搭载 7.6 英寸左右阔屏、2nm 骁龙旗舰芯，以及 2 亿影像 + 潜望长焦， 还有同档最大电池 。 IT之家注意到，在 11 月 23 日的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健宣布， 荣耀的阔折叠手机计划 2027 年 3 月亮相 ，并透露该机“ 完全没有什么折痕 ”。 李健还表示，荣耀在折叠屏工艺、续航和 AI 能力方面处于行业领先位置，",
+     "source": "IT之家",
+     "zh": "曝荣耀首款阔折叠手机搭载 2nm 骁龙旗舰芯、2 亿影像 + 潜望长焦、同档最大电池"
     },
     {
      "title": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
@@ -1823,14 +1871,6 @@
      "summary": "本文来自微信公众号： RET睿意德 ，作者：这里是，原文标题：《恒隆与太古，为什么在同一轮繁荣里走出了两种命运？｜RET资管研究》 2024年，中国高端商业曾经历了一场少有的消费寒潮。奢侈品销售下滑，部分国际品牌重新审视中国市场的门店布局，过去在核心商圈一铺难求的高端购物中心，也开始承受租金调整的压力。但当两家最具代表性的港资商业地产企业交出财务报告时，资本市场却看到了截然不同的结果。 恒隆地产内地商场租户销售额同比下降14%，内地物业租赁收入下降约5%，集团股东应占基本纯利减少25%，并在2024年将全年每股股息由0.78港元削减至0.52港元，降幅达到33%。这是恒隆自2013年以来首次削",
      "source": "虎嗅",
      "zh": "恒隆与太古，为什么在同一轮繁荣里走出了两种命运？"
-    },
-    {
-     "title": "英伟达的 10 天压力测试：没有黄仁勋，全球 AI 蒸发 4 万亿美元",
-     "link": "https://www.tmtpost.com/8215098.html",
-     "pubDate": "Tue, 24 Nov 2026 12:13:00 +0800",
-     "summary": "10 天里，全球 AI 板块为一个人的缺席付了 4 万亿美元。",
-     "source": "钛媒体",
-     "zh": "英伟达的 10 天压力测试：没有黄仁勋，全球 AI 蒸发 4 万亿美元"
     },
     {
      "title": "《后会友期》被举报，这世界太癫了",
@@ -1857,6 +1897,14 @@
      "zh": "一场婚礼20万，台上不想演，台下不想看"
     },
     {
+     "title": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证",
+     "link": "https://www.ithome.com/1/031/456.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:07:53 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 Engadget 今天（11 月 24 日）发布博文，报道称黄仁勋复职英伟达 CEO 后， 分别将于美国当地时间 12 月 1 日、12 月 3 日参加听证会，接受美国众议院、参议院等问询。 报道称在 12 月 1 日举办的听证会由情报委员会（House Intelligence Committee）等美国众议院的 3 个委员会问询，采用闭门形式，留存逐字记录的访谈（transcribed interview）。 IT之家援引博文介绍，12 月 3 日举办的听证会由美国参议院银行委员会问询，采用公开听证方式，主题是“保护美国的人工智能优势”，黄仁勋将",
+     "source": "IT之家",
+     "zh": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证"
+    },
+    {
      "title": "全亚洲的水族馆中就剩1只海獭了，此等萌物为何不养了？",
      "link": "https://www.huxiu.com/article/4907965.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 12:07:08 +0800",
@@ -1865,12 +1913,20 @@
      "zh": "全亚洲的水族馆中就剩1只海獭了，此等萌物为何不养了？"
     },
     {
-     "title": "差点把西祠胡同创始人带走的“寡妇血管”，离崩溃有多远？",
-     "link": "https://www.huxiu.com/article/4907952.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:05:31 +0800",
-     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo; 九叶刀研究 &rdquo;首发，全文约2500字。封面图来自Unsplash。 西祠胡同社区回归三个月后，创始人响马差点被心梗带走。 11月16日，响马在X平台发布了一条推文，自陈一个月前突发急性心梗， 寡妇血管完全堵死 ，经过抢救已经恢复平稳，在家静养。而西祠胡同公众号也于三天后转发祝福 [1] ，颇为巧合的是，转发次日便是&ldquo;全国心梗救治日&rdquo;。 响马是七零后，他的遭遇也让很多人唏嘘。有读者在西祠胡同公众号下留言感慨，&ldquo;唉，响马都到了心梗的年纪&rdquo;，还有人真诚发问&ldquo;寡妇血管是什么意思&rdq",
-     "source": "虎嗅",
-     "zh": "差点把西祠胡同创始人带走的“寡妇血管”，离崩溃有多远？"
+     "title": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
+     "link": "https://www.ithome.com/1/031/426.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:01:00 GMT",
+     "summary": "IT之家 11 月 24 日消息，蚂蚁科技集团今日发布并开源 Ling-3.2-air 模型 。该模型延续了 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，拥有 1240 亿总参数 ，每个 Token 激活 55 亿参数 。 与上一代相比，Ling-3.2-air 在解决代码仓库中的问题、执行多步骤工作流，以及理解视觉信息和推理专业文档等任务上的表现均有提升。 具体来看，与上一代 Ling-3.0-flash-VL 相比，Ling-3.2-air 的提升覆盖了 语言推理、编程、智能体执行和多模态任务 ，尤其体现在代码仓库问题解决、多步骤工作流和视觉推理等场景。",
+     "source": "IT之家",
+     "zh": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数"
+    },
+    {
+     "title": "Drone Maps of Salvage Yards",
+     "link": "https://salvageyarddrone.wordpress.com/",
+     "pubDate": "Tue, 24 Nov 2026 04:00:28 +0000",
+     "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 15 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Drone Maps of Salvage Yards"
     },
     {
      "title": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)",
@@ -1897,36 +1953,12 @@
      "zh": "特斯拉拟斥资 31 亿美元在得州建设光伏多晶硅工厂，目标 2030 年投运"
     },
     {
-     "title": "黄仁勋回归英伟达首日：没有办公电脑用，希望配台 RTX Spark",
-     "link": "https://www.ithome.com/1/031/389.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:47:23 GMT",
-     "summary": "IT之家 11 月 24 日消息，科技媒体 Wccftech 今天（11 月 24 日）发布博文，报道称英伟达创始人黄仁勋重返公司总部，在面向员工的简短讲话中，为了活跃现场气氛， 调侃表示这是自己重新上班的第一天，目前还没有电脑，希望 IT 部门配发的新设备是一台 RTX Spark。 IT之家翻译黄仁勋的简短发言内容如下： 谢谢大家，谢谢大家给我第二次机会。 这是我重新上班的第一天。 我没有电脑，所以 IT 部门会给我配一台新电脑。 我希望它是 RTX Spark。 我想，我想感谢你们所有人。 第二次担任 CEO，我一定会做得更好。 RTX Spark 是英伟达面向个人电脑推出的计算平台，结",
-     "source": "IT之家",
-     "zh": "黄仁勋回归英伟达首日：没有办公电脑用，希望配台 RTX Spark"
-    },
-    {
      "title": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
      "link": "https://www.techmeme.com/261123/p52#a261123p52",
      "pubDate": "Mon, 23 Nov 2026 22:45:01 -0500",
      "summary": "Zac Hall / 9to5Mac : OpenAI rolls out a version of GPT-6.2 Sol that is &ldquo;optimized for everyday conversation&rdquo; to the Chat tab for Plus, Pro, Business, and Enterprise users &nbsp; &mdash;&nbsp; OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the mode",
      "source": "Techmeme",
      "zh": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)"
-    },
-    {
-     "title": "《仁王 3》DLC2《天草大乱》12 月 17 日发布，完整版 2027 年 1 月 28 日登陆 XBOX 等三平台",
-     "link": "https://www.ithome.com/1/031/380.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:44:16 GMT",
-     "summary": "IT之家 11 月 24 日消息，光荣特库摩官方今日宣布，黑暗战国动作 RPG 《仁王 3》DLC 第二弹《天草大乱》将于 12 月 17 日发布 。 这一追加内容以 1638 年日本“岛原-天草之乱”为历史背景，并带来规模宏大的终局挑战“修罗战场”。 此外，包含《仁王 3》游戏本体、《庆安地狱变》《天草大乱》两部 DLC 的 完整版将于 2027 年 1 月 28 日“以超值价格”发售 ，除 PlayStation 5、Steam 外也将登陆 XBOX Series X|S 平台，还将收录游戏内特典道具。",
-     "source": "IT之家",
-     "zh": "《仁王 3》DLC2《天草大乱》12 月 17 日发布，完整版 2027 年 1 月 28 日登陆 XBOX 等三平台"
-    },
-    {
-     "title": "2780 元：铭匠首款全画幅超广角自动对焦镜头 AF 12mm F2.8 发布",
-     "link": "https://www.ithome.com/1/031/374.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:42:38 GMT",
-     "summary": "IT之家 11 月 24 日消息，铭匠光学今日宣布推出品牌首款全画幅超广角自动对焦镜头 AF 12mm F2.8， 售价 2780 元 。 IT之家了解到，这款镜头的视角可达 122°，带来震撼的视觉冲击力和画质表现。采用 10 组 16 片光学结构，带有 2 枚非球面镜片、3 枚超低色散 ED 镜片，号称可还原真实色彩与细腻细节。 同时，该镜头搭载高性能 STM 步进马达，支持眼部对焦、人脸对焦等功能，可带来流畅的自动对焦体验。采用 336g 轻量化设计，优化呼吸效应，配备有级光圈环，最近对焦距离仅 0.18m，滤镜口径为 82mm。 此外，该镜头提供索尼 E、尼康 Z 和松下 L 卡口版本",
-     "source": "IT之家",
-     "zh": "2780 元：铭匠首款全画幅超广角自动对焦镜头 AF 12mm F2.8 发布"
     },
     {
      "title": "传音预装带来的非洲短剧用户，7日留存只有11%，该不该继续投人力做本地化？",
@@ -1937,22 +1969,6 @@
      "zh": "传音预装带来的非洲短剧用户，7日留存只有11%，该不该继续投人力做本地化？"
     },
     {
-     "title": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎向全球开源",
-     "link": "https://www.ithome.com/1/031/365.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:35:44 GMT",
-     "summary": "IT之家 11 月 24 日现场消息，蚂蚁 OceanBase AI 数据大会今日（11 月 24 日）在北京召开。 OceanBase CEO 杨冰在会上表示，当模型越来越先进，Agent 基建越来越成熟，挑战终将回归数据。面向这一变化，AI 时代的数据基础设施应坚持“湖库一体、多模融合、Agent 友好、开源开放”四大原则。 围绕这一方向，OceanBase 正式发布 AI 战略产品 —— 湖库一体 AI 数据平台 OceanLake，并宣布向全球开源其核心引擎 AI 数据库 ，邀请开发者和产业伙伴共同建设面向 AI 的数据基础设施。 杨冰认为， 当前企业的智能化转型远不及预期 。 其一，",
-     "source": "IT之家",
-     "zh": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎向全球开源"
-    },
-    {
-     "title": "特斯拉推“特从容”购车方案：Model 3/Y 首付 3.99 万元起，月供约 2429 元",
-     "link": "https://www.ithome.com/1/031/345.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:31:22 GMT",
-     "summary": "IT之家 11 月 24 日消息，特斯拉中国宣布推出“特从容”金融方案，活动窗口为 2026 年 11 月 24 日至 12 月 31 日，消费者需在此期间完成下单并提车；方案覆盖 Model 3、Model Y 与 Model Y L 三款车型，核心结构是“低首付、五年低月供、期末 3.99 万元尾款、0 利息”。 三款车型的首付与月供分三档。其中，Model 3 后轮驱动版、长续航后轮驱动版与长续航全轮驱动版，在尾款立减 10000 元后，首付 3.99 万元起，五年月供最高约 2429 元。 Model Y 后轮驱动版、长续航后轮驱动版与长续航全轮驱动版尾款立减 4000 元，首付同为 ",
-     "source": "IT之家",
-     "zh": "特斯拉推“特从容”购车方案：Model 3/Y 首付 3.99 万元起，月供约 2429 元"
-    },
-    {
      "title": "巴西游戏点卡备货三个月，退货率却到18%，本地支付渠道该怎么选？",
      "link": "https://www.baijing.cn/question/638929",
      "pubDate": "Tue, 24 Nov 2026 03:17:44 +0000",
@@ -1961,44 +1977,28 @@
      "zh": "巴西游戏点卡备货三个月，退货率却到18%，本地支付渠道该怎么选？"
     },
     {
+     "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+     "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+     "pubDate": "Tue, 24 Nov 2026 03:16:58 +0000",
+     "summary": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26 Comments URL: https://news.ycombinator.com/item?id=50623175 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in"
+    },
+    {
+     "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+     "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+     "pubDate": "Tue, 24 Nov 2026 03:15:38 +0000",
+     "summary": "Article URL: https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards Comments URL: https://news.ycombinator.com/item?id=50623166 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Zero data retention with Enterprise Frontier Safeguards is now in beta"
+    },
+    {
      "title": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)",
      "link": "https://www.techmeme.com/261123/p51#a261123p51",
      "pubDate": "Mon, 23 Nov 2026 22:15:00 -0500",
      "summary": "Wall Street Journal : Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them &nbsp; &mdash;&nbsp; Trump made clear he wanted the Nvidia CEO reinstated; on Monday he touted the decision, saying th",
      "source": "Techmeme",
      "zh": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)"
-    },
-    {
-     "title": "尼日利亚站接入Paystack回款T+7，物流妥投14天，这个周转撑得住吗？",
-     "link": "https://www.baijing.cn/question/638928",
-     "pubDate": "Tue, 24 Nov 2026 02:48:15 +0000",
-     "summary": "尼日利亚站点起量中，月订单约4000单，客单价35美元。支付走Paystack加银行转账，本地卡成功率只有61%，失败单里约三成是银行侧超时；回款周期T+7，实际到账常拖到第10天。物流用GIG和本地摩托配送，拉各斯以外妥投中位14天，COD拒收率18%，钱压在途和拒收件上，现金流周转接近40天。试过预付折扣和短信催付，成功率只涨4个点。现在卡在是继续加预付补贴压COD，还是换网关做分账缩短回款——判断标准该怎么定？",
-     "source": "白鲸出海",
-     "zh": "尼日利亚站接入Paystack回款T+7，物流妥投14天，这个周转撑得住吗？"
-    },
-    {
-     "title": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
-     "link": "https://www.techmeme.com/261123/p50#a261123p50",
-     "pubDate": "Mon, 23 Nov 2026 21:35:01 -0500",
-     "summary": "Emmy Martin / New York Times : Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &nbsp; &mdash;&nbsp; A court filing said the engineer captured meetings on customers, A.I. safety and a foreig",
-     "source": "Techmeme",
-     "zh": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)"
-    },
-    {
-     "title": "欧洲站 VAT 递延后，清关时效和回款周期被拖长了怎么办？",
-     "link": "https://www.baijing.cn/question/638927",
-     "pubDate": "Tue, 24 Nov 2026 02:27:05 +0000",
-     "summary": "做欧洲站家居收纳类目，德国、法国、西班牙三站点同时铺货，团队 6 人，月广告预算 1.5 万欧元左右，现在处在起量阶段。上个月把德国清关改成 VAT 递延，货代说能省现金流，结果实际清关从 3 天拖到 7 天，亚马逊回款周期也从 14 天变成 21 天，法国站还有两票卡在清关文件核对。已经让货代补过 EORI 和递延申报凭证，也换了合作仓试直发，但时效还是不稳。想请教从支付和履约角度看，这种递延后的时效和回款错配，是该继续用递延换现金流，还是退回预缴保时效？判断标准是什么？",
-     "source": "白鲸出海",
-     "zh": "欧洲站 VAT 递延后，清关时效和回款周期被拖长了怎么办？"
-    },
-    {
-     "title": "加拿大独立站月投1.2万加币，GST/HST合规要算进CPA吗？",
-     "link": "https://www.baijing.cn/question/638926",
-     "pubDate": "Tue, 24 Nov 2026 01:54:41 +0000",
-     "summary": "团队5人做户外储能配件独立站，主攻加拿大，刚起量阶段，月投Google和Meta约1.2万加币，加拿大CPA大概38加币。最近在梳理税务合规：注册了GST/HST，但发现广告投放、SaaS订阅这些进项税能不能抵扣、怎么分摊到投放成本里，财务和投放两边算法不一致。已经问过会计，只给了笼统说法，卡在不知道CPA核算该不该含税、含多少。想问：你们算加拿大CPA时，GST/HST进项抵扣是单独剥离还是直接并入投放成本？",
-     "source": "白鲸出海",
-     "zh": "加拿大独立站月投1.2万加币，GST/HST合规要算进CPA吗？"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Honor's first wide foldable set to arrive in March 2027 with zero-crease display",
+     "link": "https://www.gsmarena.com/honors_first_wide_foldable_set_to_arrive_in_march_2027_with_zerocrease_display-news-75603.php",
+     "pubDate": "Tue, 24 Nov 2026 05:30:02 +0100",
+     "summary": "At the recent Honor 700 series launch event, the company reportedly shared details about its first wide foldable. Honor CEO Li Jian also confirmed the phone's expected launch window. Li Jian reportedly said the wide foldable will debut in March 2027. He also claimed that Honor has made new breakthro",
+     "source": "GSMArena",
+     "zh": "Honor's first wide foldable set to arrive in March 2027 with zero-crease display"
+    },
     {
      "title": "写在动荡之后：漫步巴黎的寻常一日",
      "link": "https://sspai.com/post/119412",
@@ -2239,14 +2247,6 @@
      "summary": "According to the latest rumors, Samsung is planning to cut corners with the Galaxy A38 by using an inferior main camera. Previous reports also point to a downgraded OLED panel. While on the surface the Galaxy A38 seems to have the same 50MP main camera on the back, a deeper look at the specs reveals",
      "source": "GSMArena",
      "zh": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same"
-    },
-    {
-     "title": "Game for days with the Razer BlackShark V2 Pro at 54% off",
-     "link": "https://www.androidauthority.com/razer-blackshark-v2-pro-black-friday-deal-3738485/",
-     "pubDate": "Mon, 23 Nov 2026 20:02:33 +0000",
-     "summary": "The Razer BlackShark V2 Pro wireless headset is down to $92.80 on Amazon, its lowest price in six months.",
-     "source": "Android Authority",
-     "zh": "Game for days with the Razer BlackShark V2 Pro at 54% off"
     }
    ]
   },
@@ -2257,6 +2257,54 @@
    "total": 13,
    "items": [
     {
+     "title": "SBC Medical Group Holdings GAAP EPS of $0.15 beats by $0.01, revenue of $58.6M beats by $3.66M",
+     "link": "https://seekingalpha.com/news/4675967-sbc-medical-group-holdings-gaap-eps-of-015-beats-by-001-revenue-of-586m-beats-by-366m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:46:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SBC Medical Group Holdings GAAP EPS of $0.15 beats by $0.01, revenue of $58.6M beats by $3.66M"
+    },
+    {
+     "title": "Surgepays GAAP EPS of $0.34 beats by $0.41, revenue of $17.27M beats by $0.77M",
+     "link": "https://seekingalpha.com/news/4675965-surgepays-gaap-eps-of-034-beats-by-041-revenue-of-1727m-beats-by-077m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:43:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Surgepays GAAP EPS of $0.34 beats by $0.41, revenue of $17.27M beats by $0.77M"
+    },
+    {
+     "title": "Suncor Energy names Enbridge veteran Max Chan as CFO",
+     "link": "https://seekingalpha.com/news/4675962-suncor-energy-names-enbridge-veteran-max-chan-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:42:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Suncor Energy names Enbridge veteran Max Chan as CFO"
+    },
+    {
+     "title": "FS Credit Opportunities reports Q3 results",
+     "link": "https://seekingalpha.com/news/4675964-fs-credit-opportunities-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:41:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FS Credit Opportunities reports Q3 results"
+    },
+    {
+     "title": "Amentum Holdings beats top-line and bottom-line estimates; initiates FY2027 outlook",
+     "link": "https://seekingalpha.com/news/4675961-amentum-holdings-beats-top-line-and-bottom-line-estimates-initiates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:36:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amentum Holdings beats top-line and bottom-line estimates; initiates FY2027 outlook"
+    },
+    {
+     "title": "Tuya declares $0.057 dividend",
+     "link": "https://seekingalpha.com/news/4675960-tuya-declares-0057-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:33:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tuya declares $0.057 dividend"
+    },
+    {
      "title": "China has changed tactics but is still thwarting India&apos;s rise, a U.S. panel says",
      "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
      "pubDate": "Tue, 24 Nov 2026 04:27:38 GMT",
@@ -2265,36 +2313,12 @@
      "zh": "China has changed tactics but is still thwarting India&apos;s rise, a U.S. panel says"
     },
     {
-     "title": "HPE targets FY 2027 EPS of $5.05-$5.35 and at least $5.5B in free cash flow driven by 27%-35% revenue growth",
-     "link": "https://seekingalpha.com/news/4675959-hpe-targets-fy-2027-eps-of-5_05-5_35-and-at-least-5_5b-in-free-cash-flow-driven-by-27?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:22:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HPE targets FY 2027 EPS of $5.05-$5.35 and at least $5.5B in free cash flow driven by 27%-35% revenue growth"
-    },
-    {
-     "title": "Hormel Foods raises dividend by 1% to $0.295",
-     "link": "https://seekingalpha.com/news/4675958-hormel-foods-raises-dividend-by-1-to-0295?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:19:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hormel Foods raises dividend by 1% to $0.295"
-    },
-    {
      "title": "创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落",
      "link": "https://wallstreetcn.com/articles/3786562",
      "pubDate": "Tue, 24 Nov 2026 12:18:13 +0800",
      "summary": "11月24日，A股在英伟达\"黄仁勋复职、一夜暴涨31%\"的海外催化下集体高开，随后涨幅震荡收窄。三大指数高开后回落，创业板指盘中一度涨超4%，午间收窄至涨1.90%。贵金属、券商、油气、煤炭等板块陷入调整。机器人、AI短剧盘中拉升。 港股早盘亦高开，恒指、恒科指盘初涨幅收窄，临近午盘均转跌，权重科网股多数下跌，光模块、光纤、光通信等科技股集体大涨，东山精密一度涨超10%。AI大模型股同样回暖。债市方面，国债期货多数上涨。商品方面，国内商品期货多数走高，贵金属期货涨幅居前，核心市场走势： A股 ：截至发稿，沪指涨0.47%，深成指涨0.92%，创业板指涨1.90%。 港股 ：截至发稿，恒指跌0.",
      "source": "华尔街见闻",
      "zh": "创业板半日涨超1%，机器人持续爆发，算力硬件反弹，恒科指高开低走跌1%，科网股集体回落"
-    },
-    {
-     "title": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
-     "link": "https://seekingalpha.com/news/4675957-tsmc-sk-hynix-and-asian-tech-surge-after-jensen-huangs-return-as-nvidia-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:15:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO"
     },
     {
      "title": "黄仁勋回归提振亚洲股市，韩股涨7%，SK海力士涨逾8%，日经一度涨5%",
@@ -2327,6 +2351,14 @@
      "summary": "截至目前，公募调研全年锚定硬科技主线，随两轮市场调整迭代调研方向。四季度以来，公募调研热股榜前十由AI硬件产业链包揽，并进一步向上游延伸， 电子 大宗气体龙头 广钢气体 位列公募调研热股前十。 据Wind统计，截至11月23日，在公募四季度以来调研的两张榜单上，富国基金、南方基金、嘉实基金均位居前三名。其中，富国基金共调研了489次，参与调研441只个股，成为当期调研最勤奋公募。 从调研榜单来看，头部公募调研热情不减，调研个股持续集中在“双创”板块。整体而言，全年公募调研主线稳定锚定硬科技，行业变化集中在主线内部：化工周期关注度回落、医药器械纳入重点跟踪视野。公募扎堆调研个股的现象逐季收敛，A",
      "source": "东方财富资讯",
      "zh": "头部公募调研热情高 AI算力链包揽调研热股前十"
+    },
+    {
+     "title": "首仿25万美元核药 “核药第一股”上市破发",
+     "link": "http://www.eeo.com.cn/2026/1124/1100875.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:04:15 +0800",
+     "summary": "一家创新核药企业创始人认为，先通医药的优势是打通了核药上下游，这并不容易，抢先一步就占据了行业先机。先通医药目前的短板在于自研能力稍弱，但只要有资金实力，未来也可以买进管线。",
+     "source": "经济观察网",
+     "zh": "首仿25万美元核药 “核药第一股”上市破发"
     },
     {
      "title": "豆包推出“小豆”，大厂争夺个人AI入口",
@@ -2388,7 +2420,7 @@
      "title": "泰国10月汽车产量同比下降35.19%",
      "link": "http://finance.eastmoney.com/news/1358,202611243938305610.html",
      "pubDate": "Tue, 24 Nov 2026 11:45:23 +0800",
-     "summary": "据泰国工业联合会，泰国10月 汽车 产量同比下降35.19%，9月为下降6.08%。 （文章来源：财联社）",
+     "summary": "据泰国工业联合会，泰国10月 汽车 产量同比下降35.19%，9月为下降6.08%。泰国10月 汽车 销量同比增长8.71%，9月为增长14.28%。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "泰国10月汽车产量同比下降35.19%"
     },
@@ -2457,44 +2489,12 @@
      "zh": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy"
     },
     {
-     "title": "Jacobs forecasts FY '27 adjusted EPS of $8.05-$8.45 as backlog stands at $28.7B",
-     "link": "https://seekingalpha.com/news/4675955-jacobs-forecasts-fy-27-adjusted-eps-of-8_05-8_45-as-backlog-stands-at-28_7b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 21:32:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jacobs forecasts FY '27 adjusted EPS of $8.05-$8.45 as backlog stands at $28.7B"
-    },
-    {
-     "title": "Agilent projects 2027 core growth of 5% to 7% while targeting EPS of $6.73 to $6.86",
-     "link": "https://seekingalpha.com/news/4675954-agilent-projects-2027-core-growth-of-5-percent-to-7-percent-while-targeting-eps-of-6_73-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 20:52:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Agilent projects 2027 core growth of 5% to 7% while targeting EPS of $6.73 to $6.86"
-    },
-    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
      "summary": "“My wife stopped working outside the home in 1970.”",
      "source": "MarketWatch",
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
-     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-     "source": "MarketWatch",
-     "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
-    },
-    {
-     "title": "Semtech expects $480M Q4 net sales and $1.33 EPS as data center growth framework extends into fiscal 2028",
-     "link": "https://seekingalpha.com/news/4675953-semtech-expects-480m-q4-net-sales-and-1_33-eps-as-data-center-growth-framework-extends-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 19:52:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Semtech expects $480M Q4 net sales and $1.33 EPS as data center growth framework extends into fiscal 2028"
     }
    ]
   },

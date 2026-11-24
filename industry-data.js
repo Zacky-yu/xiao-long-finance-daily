@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 23:32:06",
+ "generated_at": "2026/11/24 23:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -642,6 +642,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000",
+     "link": "https://electrek.co/2026/11/24/byd-launches-new-luxury-5-seat-ev-suv-two-30-screens-under-30000/",
+     "pubDate": "Tue, 24 Nov 2026 15:40:49 +0000",
+     "summary": "BYD launched the third-generation Tang, a large, high-tech five-seat flagship electric SUV, starting at under $30,000 in China. more…",
+     "source": "Electrek",
+     "zh": "BYD launches the new Tang EV, a luxury 5-seat SUV with two +30″ screens for under $30,000"
+    },
+    {
+     "title": "Nuro pulls safety drivers from Lucid Gravity Uber robotaxis in Bay Area",
+     "link": "https://electrek.co/2026/11/24/nuro-lucid-gravity-uber-robotaxi-driverless-testing-bay-area/",
+     "pubDate": "Tue, 24 Nov 2026 15:32:19 +0000",
+     "summary": "Nuro is now testing Lucid Gravity robotaxis on public roads in the San Francisco Bay Area with nobody in the driver’s seat. The driverless testing starts in four Peninsula and South Bay cities, with a fleet of more than 100 Gravity SUVs delivered by Lucid for the program. It’s the biggest step yet f",
+     "source": "Electrek",
+     "zh": "Nuro pulls safety drivers from Lucid Gravity Uber robotaxis in Bay Area"
+    },
+    {
      "title": "An Empty EV Tried To Park Itself 868 Times In One Night. The Video Is Hilarious",
      "link": "https://insideevs.com/news/816535/self-driving-ev-parking-868/",
      "pubDate": "Tue, 24 Nov 2026 15:20:24 +0000",
@@ -762,22 +778,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyundai’s new Kona N Line is already out testing [Video]"
     },
     {
-     "title": "Subaru is cutting EV prices by dropping one of its most distinctive features",
-     "link": "https://electrek.co/2026/11/23/subaru-cuts-ev-prices-dropping-most-distinctive-feature/",
-     "pubDate": "Mon, 23 Nov 2026 19:35:36 +0000",
-     "summary": "Subaru vehicles are known for their dual-motor all-wheel-drive (AWD) capabilities, but to cut costs, the company is now offering front-wheel-drive (FWD) versions on select electric models. more…",
-     "source": "Electrek",
-     "zh": "Subaru is cutting EV prices by dropping one of its most distinctive features"
-    },
-    {
-     "title": "EcoFlow TITAN 5000 Classic power station new $2,089 low, Velotric Nomad 2 e-bike + FREE extra battery $1,799 ($740 off), more",
-     "link": "https://electrek.co/2026/11/23/ecoflow-titan-5000-classic-power-station-velotric-nomad-2-e-bike-more/",
-     "pubDate": "Mon, 23 Nov 2026 19:00:00 +0000",
-     "summary": "Amazon’s Black Friday event is in full swing and so too are the many Green Deals you can take advantage of, with everything we’ve spotted being added to our one-stop seasonal hub here . Headlining today’s edition is the latest EcoFlow 48-hour flash sale with up to $3,238 savings on options like the ",
-     "source": "Electrek",
-     "zh": "EcoFlow TITAN 5000 Classic power station new $2,089 low, Velotric Nomad 2 e-bike + FREE extra battery $1,799 ($740 off), more"
-    },
-    {
      "title": "Uber now lets you book rides that record the drive by default",
      "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
@@ -833,6 +833,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "EU to Seek Overhaul of UN Climate Consensus Decisions After COP31 Failure",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-to-Seek-Overhaul-of-UN-Climate-Consensus-Decisions-After-COP31-Failure.html",
+     "pubDate": "Tue, 24 Nov 2026 09:30:00 -0600",
+     "summary": "The European Union will propose to the UN to review the consensus decision-making model of the COP climate conferences after the latest summit ended without a deal but with a lot of quarrels about whether the final communique should include fossil fuels. After two days of overtime and tense negotiat",
+     "source": "OilPrice",
+     "zh": "EU to Seek Overhaul of UN Climate Consensus Decisions After COP31 Failure"
+    },
     {
      "title": "Libya and Iraq Could Be the Next Big Headache for Oil Markets",
      "link": "https://oilprice.com/Energy/Crude-Oil/Libya-and-Iraq-Could-Be-the-Next-Big-Headache-for-Oil-Markets.html",
@@ -1010,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "The LiTime Lares K1 Expandable Plug & Play Kitchen Backup — CleanTechnica Tested"
     },
     {
-     "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
-     "pubDate": "Tue, 24 Nov 2026 04:35:00 -0600",
-     "summary": "Japanese utilities may raise spot LNG cargo buying as surging electricity prices in recent days have made gas-fired power generation profitable for the first time since the Iran war began. Japan’s physical spark spread, the difference between the price received by a power-generating facility for ele",
-     "source": "OilPrice",
-     "zh": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge"
-    },
-    {
      "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
      "link": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
      "pubDate": "Tue, 24 Nov 2026 10:26:24 +0000",
@@ -1081,6 +1081,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
+     "link": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/",
+     "pubDate": "Tue, 24 Nov 2026 15:41:58 +0000",
+     "summary": "The San Antonio Breast Cancer Symposium kicks off early next month, and abstracts went live Monday. Endpoints News looked at two of them, featuring assets from Novartis' $2 billion upfront deal with ...",
+     "source": "Endpoints News",
+     "zh": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts"
+    },
     {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
@@ -1165,7 +1173,7 @@ window.INDUSTRY_DATA = {
      "title": "Metabolic Pathway Identified as Potential Target for Liver Diseases",
      "link": "https://www.genengnews.com/topics/drug-discovery/metabolic-pathway-identified-as-potential-target-for-liver-diseases/",
      "pubDate": "Mon, 23 Nov 2026 20:55:58 +0000",
-     "summary": "A study identified increased levels of the enzyme EPHX1 in the livers of mice and patients with advanced fibrosis and showed that EPHXI promotes liver fibrosis by decreasing EET levels. The post Metabolic Pathway Identified as Potential Target for Liver Diseases appeared first on GEN - Genetic Engin",
+     "summary": "A study identified increased levels of the enzyme EPHX1 in the livers of mice and patients with advanced fibrosis and showed that EPHX1 promotes liver fibrosis by decreasing EET levels. The post Metabolic Pathway Identified as Potential Target for Liver Diseases appeared first on GEN - Genetic Engin",
      "source": "GEN",
      "zh": "Metabolic Pathway Identified as Potential Target for Liver Diseases"
     },
@@ -1194,20 +1202,20 @@ window.INDUSTRY_DATA = {
      "zh": "Optum Rx CEO bets people are ready to shop for their prescriptions"
     },
     {
-     "title": "Healthcare spending on AI surpasses other sectors, report says",
-     "link": "https://endpoints.news/healthcare-spending-on-ai-surpasses-other-sectors-report-says/",
-     "pubDate": "Mon, 23 Nov 2026 18:05:58 +0000",
-     "summary": "Spending on AI in healthcare hit $3.7 billion in 2026, up from $1.5 billion in 2025. According to a report from Menlo Ventures, healthcare is spending more than other industries on ...",
-     "source": "Endpoints News",
-     "zh": "Healthcare spending on AI surpasses other sectors, report says"
-    },
-    {
      "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
      "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
      "pubDate": "Mon, 23 Nov 2026 11:17:09 -0500",
      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
      "source": "BioPharma Dive",
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
+    },
+    {
+     "title": "Kymera eczema pill meets goals in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
+     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
+     "source": "BioPharma Dive",
+     "zh": "Kymera eczema pill meets goals in mid-stage trial"
     },
     {
      "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
@@ -1264,14 +1272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
-    },
-    {
-     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
-     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
-     "source": "BioPharma Dive",
-     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
     }
    ]
   },
@@ -1346,12 +1346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
     },
     {
-     "title": "Live coverage: Arianespace launches 36 Amazon Leo sats amid rocket crunch",
+     "title": "Arianespace launches 36 Amazon Leo sats amid rocket crunch",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/",
      "pubDate": "Mon, 23 Nov 2026 22:14:49 +0000",
      "summary": "The Leo Europe 4 mission is the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana happened at 8:14 a.m. Kourou Time (6:14 a.m. EST / 1114 UTC) at the end of the launch window.",
      "source": "Spaceflight Now",
-     "zh": "Live coverage: Arianespace launches 36 Amazon Leo sats amid rocket crunch"
+     "zh": "Arianespace launches 36 Amazon Leo sats amid rocket crunch"
     },
     {
      "title": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
@@ -1746,20 +1746,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "新鲜感之后，陪伴机器人如何被用起来？",
-     "link": "https://www.tmtpost.com/8212446.html",
-     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
-     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
-     "source": "钛媒体",
-     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
-    },
-    {
      "title": "Nvidia falls 6%+, paring its 31% jump on Jensen Huang&apos;s return as CEO; AMD and Micron drop 9%+, and Arm and Marvell 8%+, after posting strong gains on Monday (Arjun Kharpal/CNBC)",
      "link": "https://www.techmeme.com/261124/p22#a261124p22",
      "pubDate": "Tue, 24 Nov 2026 10:25:01 -0500",
      "summary": "Arjun Kharpal / CNBC : Nvidia falls 6%+, paring its 31% jump on Jensen Huang's return as CEO; AMD and Micron drop 9%+, and Arm and Marvell 8%+, after posting strong gains on Monday &nbsp; &mdash;&nbsp; Nvidia shares fell around 6% on Tuesday, paring a massive Monday rally that was sparked by the ret",
      "source": "Techmeme",
      "zh": "Nvidia falls 6%+, paring its 31% jump on Jensen Huang&apos;s return as CEO; AMD and Micron drop 9%+, and Arm and Marvell 8%+, after posting strong gains on Monday (Arjun Kharpal/CNBC)"
+    },
+    {
+     "title": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台",
+     "link": "https://www.ithome.com/1/031/894.htm",
+     "pubDate": "Tue, 24 Nov 2026 15:17:45 GMT",
+     "summary": "IT之家 11 月 24 日消息，宾利首批纯电 SUV Torcal（IT之家注：官方中文名为“托卡尔”）的交付尚未启动，第二款限量特别版就紧随其后完成亮相。近日，继托卡尔 First Edition 首发版之后，宾利 又公布了一款全新定制车型 。 这款特别版由日本潮流设计师藤原浩亲自操刀， 全球仅生产 20 辆，整车采用全黑设计 。车身采用名为“Beluga”的黑色涂装，黑色徽标、熏黑格栅和 22 英寸 Vortex 黑色轮毂也与之呼应。 新车搭载的全锻造轮毂 采用碳纤维嵌件 ，在提升视觉效果的同时兼顾空气动力学表现。 藤原浩于 2003 年创立东京设计品牌 FRGMT，品牌标识也出现在这辆",
+     "source": "IT之家",
+     "zh": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台"
     },
     {
      "title": "Thanksgiving Travel Will Be a Stormy Mess",
@@ -1770,12 +1770,28 @@ window.INDUSTRY_DATA = {
      "zh": "Thanksgiving Travel Will Be a Stormy Mess"
     },
     {
-     "title": "Ladybird Is Freakin' Awesome",
-     "link": "https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/",
-     "pubDate": "Tue, 24 Nov 2026 15:06:51 +0000",
-     "summary": "Article URL: https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/ Comments URL: https://news.ycombinator.com/item?id=50629289 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Ladybird Is Freakin' Awesome"
+     "title": "HKC 神盾 27Q420B 显示器上市：QD Mini LED + Ultrafast IPS，2399 元",
+     "link": "https://www.ithome.com/1/031/893.htm",
+     "pubDate": "Tue, 24 Nov 2026 15:06:53 GMT",
+     "summary": "IT之家 11 月 24 日消息，HKC（惠科）现已开始在电商平台销售神盾 (Shield) 27Q420B 显示器。这一型号结合了 Ultrafast IPS 薄层液晶、1152 分区 Mini LED 背光、QD 色彩增强，售价 2399 元。 神盾 27Q420B 基于 27\" 面板，拥有 QHD (2560×1440) 分辨率、420Hz 超频刷新率（IT之家注：原生刷新率 360Hz）， 获得 VESA DisplayHDR1000 认证 。 其 HDR 峰值亮度达 1200nits ，SDR 亮度也有 500nits；灰阶 (GtG) 响应时间 0.5ms；色深 8bit + FR",
+     "source": "IT之家",
+     "zh": "HKC 神盾 27Q420B 显示器上市：QD Mini LED + Ultrafast IPS，2399 元"
+    },
+    {
+     "title": "微软 Win11 将淘汰蓝牙 MTP 功能，标准蓝牙文件传输不受影响",
+     "link": "https://www.ithome.com/1/031/892.htm",
+     "pubDate": "Tue, 24 Nov 2026 15:05:16 GMT",
+     "summary": "IT之家 11 月 24 日消息，微软会出于各种原因陆续废弃 Windows 功能，比如使用率偏低、老旧技术维护成本过高，或是功能整合。 IT之家注意到，早在 2025 年，微软就停用了多项 Windows 功能，包括位置历史记录、打印用的 LPR / LPD 协议、地图应用及其配套接口。而 2026 年到这次官宣前，3D 查看器是唯一被废弃的 Windows 客户端功能。现在微软宣布，还要移除另外两项功能。 第一项是 Windows 端微软家庭安全应用，后续新版 Windows 将不再预装它。但这项调整不等于关停家庭安全服务本身，用户依旧可以通过微软家庭移动端 App 或者网页管理后台使用相",
+     "source": "IT之家",
+     "zh": "微软 Win11 将淘汰蓝牙 MTP 功能，标准蓝牙文件传输不受影响"
+    },
+    {
+     "title": "鸿蒙系统终端设备数破亿，华为同步官宣注册开发者超 1200 万、可获取应用服务超 46 万",
+     "link": "https://www.ithome.com/1/031/891.htm",
+     "pubDate": "Tue, 24 Nov 2026 15:00:13 GMT",
+     "summary": "IT之家 11 月 24 日消息，鸿蒙 HarmonyOS 终端设备数今日官宣破亿。华为官方也发布感谢信，向开发者、用户、讲师等每一位“鸿蒙人”致谢。 华为还同步官宣， 鸿蒙操作系统可获取的应用和服务超 46 万，注册开发者超 1,200 万 。华为官方表示，这标志着鸿蒙生态跨越规模临界点，进入发展新阶段，同时也是中国自主操作系统规模化应用的重要进展。 IT之家从华为官网了解到，目前， 开源鸿蒙已拥有 1.4 万余名贡献者，形成 120 余个行业发行版 ，在电力、水务、工业等领域持续探索应用。 华为还公布了一组数据：基于跨设备协同、系统级 AI 等能力，以及阔折叠、阔直板、折叠电脑等形态创新，",
+     "source": "IT之家",
+     "zh": "鸿蒙系统终端设备数破亿，华为同步官宣注册开发者超 1200 万、可获取应用服务超 46 万"
     },
     {
      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -1810,36 +1826,20 @@ window.INDUSTRY_DATA = {
      "zh": "Creative BlasterX B5 条形桌面蓝牙音箱预售，到手价 368 元"
     },
     {
-     "title": "Steam 新一周销量榜：《EA SPORTS FC 27》5 折登顶全球，《双人成行》8 折登顶国区",
+     "title": "Steam 新一周销量榜：《EA SPORTS FC 27》5 折登顶全球，《双人成行》2 折登顶国区",
      "link": "https://www.ithome.com/1/031/888.htm",
      "pubDate": "Tue, 24 Nov 2026 14:43:09 GMT",
      "summary": "IT之家 11 月 24 日消息，Steam 平台现已公布最新一周游戏销量排行榜（2026 年 11 月 17 日 - 2026 年 11 月 24 日，无免费游戏），《EA SPORTS FC™ 27》以 5 折折扣强势登顶全球收费游戏榜单，《双人成行》携 2 折折扣登顶国区收费游戏榜首，《天国：拯救 2》大促暴涨 60 位跻身全球榜前五。 全球榜单： EA SPORTS FC 27 Call of Duty: Modern Warfare 4 Bodycam Grand Theft Auto V 增强版 迪士尼梦幻星谷 影之刃零 双人成行 红色沙漠：增强版 天国：拯救 2 Euro Tru",
      "source": "IT之家",
-     "zh": "Steam 新一周销量榜：《EA SPORTS FC 27》5 折登顶全球，《双人成行》8 折登顶国区"
+     "zh": "Steam 新一周销量榜：《EA SPORTS FC 27》5 折登顶全球，《双人成行》2 折登顶国区"
     },
     {
      "title": "Anthropic is below its IPO price",
      "link": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
      "pubDate": "Tue, 24 Nov 2026 14:41:15 +0000",
-     "summary": "Article URL: https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa Comments URL: https://news.ycombinator.com/item?id=50628932 Points: 28 # Comments: 12",
+     "summary": "Article URL: https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa Comments URL: https://news.ycombinator.com/item?id=50628932 Points: 54 # Comments: 33",
      "source": "Hacker News",
      "zh": "Anthropic is below its IPO price"
-    },
-    {
-     "title": "拓竹发布全新 3D 打印机 P3C：标配多头打印，国补到手价 6374.2 元起",
-     "link": "https://www.ithome.com/1/031/887.htm",
-     "pubDate": "Tue, 24 Nov 2026 14:39:10 GMT",
-     "summary": "IT之家 11 月 24 日消息，拓竹 P3C 3D 打印机于今日正式发布，定价为 7499 元起。 京东 拓竹 P3C 3D 打印机 7499 元 直达链接 P3C 标准版：7499 元（IT之家注：初上市价 7999 元，首发直降 500 元，预估国补到手价 6374.2 元起） P3C 七头闪切版：8479 元（初上市价 8979 元，首发直降 500 元，预估到手价 7207.15 元起） P3C 多线径耗材版：8579 元（初上市价 9079 元，首发直降 500 元，预估到手价 7292.15 元起） P3C 工作站版：10049 元（初上市价 10549 元，首发直降 500 元",
-     "source": "IT之家",
-     "zh": "拓竹发布全新 3D 打印机 P3C：标配多头打印，国补到手价 6374.2 元起"
-    },
-    {
-     "title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
-     "link": "https://www.ithome.com/1/031/886.htm",
-     "pubDate": "Tue, 24 Nov 2026 14:38:29 GMT",
-     "summary": "IT之家 11 月 24 日消息，华为今日下午正式发布了 Mate X8 大折旗舰手机，并带来了小艺伴随式 AI。 华为官方在发布会现场演示的伴随式 AI 是在内屏侧触发的。IT之家从官网了解到，Mate X8 还将带来外屏伴随式 AI 新交互， HarmonyOS 7.0.0.135 及以上版本可用 。 据介绍，小艺伴随式 AI 通过智能感知屏幕与场景提供全文摘要、长文导读、备忘待办、话题推荐等服务，用户也可以针对屏幕内容，随时问小艺（需要先打开双击导航条触发伴随式 AI 开关才能体验该功能：设置 > 系统 > 伴随式 AI > 双击导航条触发伴随式 AI）。 开启方式： 外屏使用手机时， ",
-     "source": "IT之家",
-     "zh": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用"
     },
     {
      "title": "Sources: Stripe is in discussions for an employee share tender offer that would value it above $200B, up from $159B earlier in 2026, set to close in early 2027 (Ben Glickman/Wall Street Journal)",
@@ -1864,22 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 国内Personal Agent（个人智能体）市场迎来了一位重量级玩家。 11月24日，豆包旗下AI个人助理产品“小豆”正式开启公测。这款采用独立App形态的产品，更加强调长期记忆、主动服务及任务执行能力，用户可以将一些需要长期跟进的个人事务交给AI处理。 至此，从腾讯的小微、阿里的千问Go！，到蚂蚁的灵光2.0、字节的小豆，四家互联网大厂均已面向市场推出各自的Personal Agent产品。 竞争正在升温。一位接近蚂蚁的人士向华尔街见闻·全天候科技透露，灵光内部已将小豆视为潜在的竞争压力来源。 有意思的是，尽管各家大厂在产品演进方向上逐",
      "source": "虎嗅",
      "zh": "个人Agent的大厂战事：野心与克制"
-    },
-    {
-     "title": "NASA 好奇号与毅力号在火星接连发现奇特岩石，揭示远古水环境线索",
-     "link": "https://www.ithome.com/1/031/885.htm",
-     "pubDate": "Tue, 24 Nov 2026 14:29:55 GMT",
-     "summary": "IT之家 11 月 24 日消息，NASA 的好奇号和毅力号火星车在火星上拍到了大量奇特地貌：薯片一样的岩石、泛着白晕的岩体，还有刻在红色地表上的神秘纹路。 据IT之家了解，这些外形怪异的构造，价值远不止有趣的照片，它们是科学家解开火星数十亿年地质演化之谜的线索。尤其是这些岩石和矿物沉积，能帮助还原火星曾经有水的年代，锁定那些或许曾经适合微生物生存的环境。 好奇号近期在代号“纳斯卡”的地点完成一轮钻探，这里的基岩里嵌着圆盘状晶体。NASA 介绍，部分晶体薄而扁平，科考团队形容它们像薯片。好奇号机械臂末端搭载的火星手持透镜成像仪，在火星日 5067 天（11 月 7 日）拍下了这批构造的特写。其",
-     "source": "IT之家",
-     "zh": "NASA 好奇号与毅力号在火星接连发现奇特岩石，揭示远古水环境线索"
-    },
-    {
-     "title": "天钡推出 WORK H255 工作站迷你主机：三 M.2、双 USB4、单 OCuLink",
-     "link": "https://www.ithome.com/1/031/884.htm",
-     "pubDate": "Tue, 24 Nov 2026 14:25:05 GMT",
-     "summary": "IT之家 11 月 24 日消息，天钡 (AOOSTAR) 今日宣布推出基于 AMD 锐龙 7 H 255 处理器的 WORK H255 工作站迷你主机。 这一型号拥有沉稳的黑色铝合金 CNC 机身，配备至高 70W 性能释放的 均热板 + FDB 轴承涡轮风扇散热 系统，板载 24GB LPDDR5 内存。 IT之家了解到，WORK H255 三维 130×150×55 (mm)，质量约 660g；内置 3 个 M.2 2280 (PCIe Gen4 ×4) 插槽，配备 Wi-Fi 6E &amp; 蓝牙 5.3 无线网卡。 其正面提供 2 个 USB-A 10Gbps、1 个全功能 USB",
-     "source": "IT之家",
-     "zh": "天钡推出 WORK H255 工作站迷你主机：三 M.2、双 USB4、单 OCuLink"
     },
     {
      "title": "Firefox 161 释出",
@@ -1957,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "GTA 6 Running on Windows",
      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
      "pubDate": "Tue, 24 Nov 2026 13:19:31 +0000",
-     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 42 # Comments: 13",
+     "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075 Comments URL: https://news.ycombinator.com/item?id=50627783 Points: 50 # Comments: 28",
      "source": "Hacker News",
      "zh": "GTA 6 Running on Windows"
     },
@@ -1984,6 +1968,22 @@ window.INDUSTRY_DATA = {
      "summary": "“理解世界”与“执行动作”在同一模型中成形",
      "source": "钛媒体",
      "zh": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%"
+    },
+    {
+     "title": "LLM agents work for their parent companies, not for you",
+     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+     "pubDate": "Tue, 24 Nov 2026 12:40:15 +0000",
+     "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 435 # Comments: 190",
+     "source": "Hacker News",
+     "zh": "LLM agents work for their parent companies, not for you"
+    },
+    {
+     "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
+     "link": "https://www.wired.com/gallery/best-espresso-machines/",
+     "pubDate": "Tue, 24 Nov 2026 12:32:00 +0000",
+     "summary": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot.",
+     "source": "WIRED",
+     "zh": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros"
     }
    ]
   },
@@ -1993,6 +1993,62 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to make your USB-C cables last longer",
+     "link": "https://www.engadget.com/2322030/make-usb-c-cables-last-longer/",
+     "pubDate": "Tue, 24 Nov 2026 15:45:00 +0000",
+     "summary": "Tired of replacing frayed or finicky charging cords? Practical habits show how to prevent wear, avoid short circuits and keep your cables reliable.",
+     "source": "Engadget",
+     "zh": "How to make your USB-C cables last longer"
+    },
+    {
+     "title": "Wyze’s new window camera has a bird feeder and can identify species, more for $70 [Video]",
+     "link": "https://9to5google.com/2026/11/24/wyze-window-bird-cam-launch/",
+     "pubDate": "Tue, 24 Nov 2026 15:45:00 +0000",
+     "summary": "Wyze is today launching the Window Bird Cam, a new $70 camera that has a bird feeder and can identify bird species, keep a log, and more. more…",
+     "source": "9to5Google",
+     "zh": "Wyze’s new window camera has a bird feeder and can identify species, more for $70 [Video]"
+    },
+    {
+     "title": "PSA: AirPods Pro 3 are back in stock for $149 ($100 off)",
+     "link": "https://9to5mac.com/2026/11/24/airpods-pro-3-best-black-friday-price/",
+     "pubDate": "Tue, 24 Nov 2026 15:39:45 +0000",
+     "summary": "Update November 24, 2026 : AirPods Pro 3 are back in stock after selling out after dropping down to their new all-time low price of $149 . Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with an incredible $100 discount to $149 shipped – their best price ever. Amazon’s Black Frid",
+     "source": "9to5Mac",
+     "zh": "PSA: AirPods Pro 3 are back in stock for $149 ($100 off)"
+    },
+    {
+     "title": "Here’s everything new Apple TV has coming in December",
+     "link": "https://9to5mac.com/2026/11/24/heres-everything-new-apple-tv-has-coming-in-december-2/",
+     "pubDate": "Tue, 24 Nov 2026 15:37:47 +0000",
+     "summary": "Apple TV ( now $6.99/month for Black Friday ) is about to bring back a beloved comedy from Ted Lasso and Shrinking’s creator, plus a new holiday special, documentary event series, and more. Here’s everything new coming to Apple TV in December. more…",
+     "source": "9to5Mac",
+     "zh": "Here’s everything new Apple TV has coming in December"
+    },
+    {
+     "title": "Deal: the Oppo Find X10 is £200 off",
+     "link": "https://www.gsmarena.com/deal_the_oppo_find_x10_is_200_off-news-75616.php",
+     "pubDate": "Tue, 24 Nov 2026 16:31:01 +0100",
+     "summary": "The Oppo Find X10 series began its global journey a month ago and now Amazon’s Black Friday sales have brought the first serious discounts. Unfortunately, the Find X10 Pro Max is out of stock (it was available last week, though). Oppo Find X10 The Oppo Find X10 has an MSRP of £1,100 for the base mod",
+     "source": "GSMArena",
+     "zh": "Deal: the Oppo Find X10 is £200 off"
+    },
+    {
+     "title": "The Coros Vertix 4 begs to be taken on an expedition with 30-day battery life and a flashlight",
+     "link": "https://9to5google.com/2026/11/24/the-coros-vertix-4-begs-to-be-taken-on-an-expedition-with-30-day-battery-life-and-a-flashlight/",
+     "pubDate": "Tue, 24 Nov 2026 15:30:36 +0000",
+     "summary": "The Coros Vertix 4 sports sapphire glass and a titanium bezel, including a built-in flashlight for the first time ever. more…",
+     "source": "9to5Google",
+     "zh": "The Coros Vertix 4 begs to be taken on an expedition with 30-day battery life and a flashlight"
+    },
+    {
+     "title": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge",
+     "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
+     "pubDate": "Tue, 24 Nov 2026 15:30:11 +0000",
+     "summary": "HONOR’s answer to the iPhone Duo and the Z Fold 8 comes next year.",
+     "source": "Android Authority",
+     "zh": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge"
+    },
     {
      "title": "Save 63% on the HyperX Cloud Jet ahead of Black Friday",
      "link": "https://www.androidauthority.com/hyperx-cloud-jet-black-friday-deal-3738910/",
@@ -2114,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "The reasons why you should never ignore your car's software updates"
     },
     {
-     "title": "HUAWEI’s new Watch Air is slimmer and lighter than any Pixel Watch or Galaxy Watch ever",
-     "link": "https://www.androidauthority.com/huawei-watch-air-launched-3738764/",
-     "pubDate": "Tue, 24 Nov 2026 14:14:37 +0000",
-     "summary": "And it runs with both Android and iOS, alongside Harmony OS phones.",
-     "source": "Android Authority",
-     "zh": "HUAWEI’s new Watch Air is slimmer and lighter than any Pixel Watch or Galaxy Watch ever"
-    },
-    {
      "title": "Muse safety debate continues as the AI agent rolls out in the UK",
      "link": "https://9to5mac.com/2026/11/24/muse-safety-debate-continues-as-the-ai-agent-rolls-out-in-the-uk/",
      "pubDate": "Tue, 24 Nov 2026 13:52:23 +0000",
@@ -2138,36 +2186,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why the FAA doesn't want you to put AirPods in your luggage"
     },
     {
-     "title": "iPhone Handoff: Here’s the latest on carrier availability and pricing",
-     "link": "https://9to5mac.com/2026/11/24/iphone-handoff-carriers-support-ios-27/",
-     "pubDate": "Tue, 24 Nov 2026 13:40:56 +0000",
-     "summary": "iPhone Handoff is a new feature in iOS 27 that lets you use the same phone number across two different iPhones. However, the feature requires carrier support, so it isn’t available to everyone. Here are the carriers that currently support iPhone Handoff and those that have promised support. 9to5Mac ",
-     "source": "9to5Mac",
-     "zh": "iPhone Handoff: Here’s the latest on carrier availability and pricing"
-    },
-    {
      "title": "Huawei Watch Air arrives as the thinnest entry in the series",
      "link": "https://www.gsmarena.com/huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610.php",
      "pubDate": "Tue, 24 Nov 2026 14:23:02 +0100",
      "summary": "Alongside the brand-new Mate 90 Air, Huawei also introduced a new smartwatch. The aptly named Huawei Watch Air is the maker’s thinnest and lightest watch to date, measuring 6.9 mm and weighing 27 grams (without the watch strap). It brings the same 110 sports modes and health tracking features found ",
      "source": "GSMArena",
      "zh": "Huawei Watch Air arrives as the thinnest entry in the series"
-    },
-    {
-     "title": "The Moto G Stylus (2025) at $200 is great only if a pen is a must",
-     "link": "https://9to5google.com/2026/11/24/the-moto-g-stylus-2025-at-200-is-great-only-if-a-pen-is-a-must/",
-     "pubDate": "Tue, 24 Nov 2026 13:19:09 +0000",
-     "summary": "Okay, so here’s the deal (literally): last year’s Moto G Stylus (2025) is on sale right now on Amazon for just $199, and if you desperately need a digital writing tool with your phone, it’s a good buy. more…",
-     "source": "9to5Google",
-     "zh": "The Moto G Stylus (2025) at $200 is great only if a pen is a must"
-    },
-    {
-     "title": "CAD images suggest iPhone 18e will have an odd new camera design",
-     "link": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
-     "pubDate": "Tue, 24 Nov 2026 13:19:08 +0000",
-     "summary": "CAD images of the iPhone 18e , said to come from a previously reliable source, have shown a rather odd new design for the camera bump. If accurate, it would represent a big change from its predecessor, which simply has a single lens protruding without a surrounding bump or plateau … more…",
-     "source": "9to5Mac",
-     "zh": "CAD images suggest iPhone 18e will have an odd new camera design"
     },
     {
      "title": "Why your smart TV keeps losing its Wi-Fi connection",
@@ -2202,36 +2226,12 @@ window.INDUSTRY_DATA = {
      "zh": "Galaxy S27 Ultra could lose another camera feature alongside 3x telephoto"
     },
     {
-     "title": "GTA 6 is the biggest PlayStation launch of all time",
-     "link": "https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/",
-     "pubDate": "Tue, 24 Nov 2026 12:09:54 +0000",
-     "summary": "Sony says GTA 6 is the biggest launch in PlayStation history, across five generations of consoles.",
-     "source": "Engadget",
-     "zh": "GTA 6 is the biggest PlayStation launch of all time"
-    },
-    {
-     "title": "Nvidia proves it’s too big to fail",
-     "link": "https://9to5google.com/2026/11/24/nvidia-proves-its-too-big-to-fail/",
-     "pubDate": "Tue, 24 Nov 2026 12:00:00 +0000",
-     "summary": "Good morning. Today I’m deciding whether the final Avengers: Doomsday trailer passes the “people just standing around” test, trying the new Material 3 Expressive Claude app on my Android devices, and stocking up on discounted XTEINK e-readers for Christmas gifts. more…",
-     "source": "9to5Google",
-     "zh": "Nvidia proves it’s too big to fail"
-    },
-    {
      "title": "Motorola Edge 70 Neo's price and sale date announced",
      "link": "https://www.gsmarena.com/motorola_edge_70_neo_price_sale_date-news-75606.php",
      "pubDate": "Tue, 24 Nov 2026 12:21:02 +0100",
      "summary": "Motorola unveiled the Edge 70 Neo yesterday and today announced its pricing and availability. The smartphone comes in a single 8GB/128GB configuration, priced at INR40,999. However, for a limited period, it will be available at INR37,999. The Edge 70 Neo will go on sale in India starting December 1 ",
      "source": "GSMArena",
      "zh": "Motorola Edge 70 Neo's price and sale date announced"
-    },
-    {
-     "title": "Huawei Mate 90 Air arrives with familiar specs",
-     "link": "https://www.gsmarena.com/huawei_mate_90_air_arrives_with_familiar_specs_-news-75607.php",
-     "pubDate": "Tue, 24 Nov 2026 11:29:02 +0100",
-     "summary": "As expected, Huawei announced its Mate 90 Air in China today. The device is the successor to last year’s Mate 70 Air and you’d expect to see some upgrades across its specs, but that’s mostly not the case here. Huawei Mate 90 Air Mate 90 Air retains the same core specs as the Mate 70 Air while introd",
-     "source": "GSMArena",
-     "zh": "Huawei Mate 90 Air arrives with familiar specs"
     }
    ]
   },
@@ -2242,140 +2242,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "马斯克预言：2027年云厂商“大洗牌”，差距在营运资金缺口",
-     "link": "http://www.eeo.com.cn/2026/1124/1101574.shtml",
-     "pubDate": "Tue, 24 Nov 2026 23:26:10 +0800",
-     "summary": "21世纪经济报道记者 赵云帆 近日，北美航天、AI大模型与算力公司SpaceX首席执行官埃隆·马斯克在社交媒体上抛出一个观点。 他表示：即便目前大量云厂商有足够的资金购置AI算力设备，他们仍然欠缺足够的资金用于电力、冷却等算力设施的运营。 “要让这么大规模的算力完成通电、散热并稳定可靠地运行，难度极大。明年的现金缺口也会非常惊人。倘若整个行业从算力设备落成到部署并产生收益之间延迟数月，中间...",
-     "source": "经济观察网",
-     "zh": "马斯克预言：2027年云厂商“大洗牌”，差距在营运资金缺口"
-    },
-    {
-     "title": "Cytokinetics climbs 7% as peers advance, health care sector rises",
-     "link": "https://seekingalpha.com/news/4676211-cytokinetics-climbs-7-percent-as-peers-advance-health-care-sector-rises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:23:52 -0500",
+     "title": "AXT drops 14% as tech sector slides",
+     "link": "https://seekingalpha.com/news/4676232-axt-drops-14-as-tech-sector-slides?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:48:45 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Cytokinetics climbs 7% as peers advance, health care sector rises"
+     "zh": "AXT drops 14% as tech sector slides"
     },
     {
-     "title": "惠誉：生产率的提高和人工智能的应用并未导致美国总体就业出现任何下降 裁员现象也未激增",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938819759.html",
-     "pubDate": "Tue, 24 Nov 2026 23:23:39 +0800",
-     "summary": "惠誉：生产率的提高和 人工智能 的应用并未导致美国总体就业出现任何下降，裁员现象也未激增。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉：生产率的提高和人工智能的应用并未导致美国总体就业出现任何下降 裁员现象也未激增"
+     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+     "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+     "pubDate": "Tue, 24 Nov 2026 15:48:15 GMT",
+     "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+     "source": "CNBC",
+     "zh": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years"
     },
     {
-     "title": "惠誉评级：过去三到四年美国生产率表现稳步改善",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938819526.html",
-     "pubDate": "Tue, 24 Nov 2026 23:23:08 +0800",
-     "summary": "惠誉评级：过去三到四年美国生产率表现稳步改善。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉评级：过去三到四年美国生产率表现稳步改善"
-    },
-    {
-     "title": "现货金银跌幅扩大 白银日内跌4%",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938819415.html",
-     "pubDate": "Tue, 24 Nov 2026 23:22:53 +0800",
-     "summary": "现货 白银 日内跌幅一度扩大至4.00%，现报41.43美元/盎司。现货 黄金 现跌1.2%，报3590美元/盎司。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "现货金银跌幅扩大 白银日内跌4%"
-    },
-    {
-     "title": "委内瑞拉披露2375亿美元公共债务 为大规模重组铺路",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938819643.html",
-     "pubDate": "Tue, 24 Nov 2026 23:22:51 +0800",
-     "summary": "委内瑞拉政府表示，该国2025年公共债务总额达到2375亿美元，为可能成为历史上规模最大的主权债务重组计划拉开序幕。根据一份宏观经济框架文件，委内瑞拉金融债务，即债券和贷款，规模为1165亿美元，占债务总额略高于49%。这份文件首次概述了该国的财政状况。双边债务为233亿美元；非金融类债务承诺则全部集中在国有石油公司委内瑞拉石油公司（PDVSA），规模为673亿美元，占债务总额的28%。文件称：“委内瑞拉公共债务长期处于违约状态，且已不可持续。这一局面反映出金融制裁带来的限制、碳氢化合物收入下降，以及多年累积的宏观经济失衡。” （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "委内瑞拉披露2375亿美元公共债务 为大规模重组铺路"
-    },
-    {
-     "title": "The 50 stocks that matter most to hedge funds - Goldman",
-     "link": "https://seekingalpha.com/news/4676203-the-50-stocks-that-matter-most-to-hedge-funds-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:22:38 -0500",
+     "title": "\"YieldMax Strategic Metals &\nMining Portfolio Option Income ETF announces weekly distribution of $0.1645\"",
+     "link": "https://seekingalpha.com/news/4676238-yieldmax-strategic-metals-mining-portfolio-option-income-etf-announces-weekly-distribution-of-01645?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:48:10 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "The 50 stocks that matter most to hedge funds - Goldman"
+     "zh": "\"YieldMax Strategic Metals &\nMining Portfolio Option Income ETF announces weekly distribution of $0.1645\""
     },
     {
      "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-     "pubDate": "Tue, 24 Nov 2026 15:22:29 GMT",
+     "pubDate": "Tue, 24 Nov 2026 15:47:46 GMT",
      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
      "source": "CNBC",
      "zh": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive"
     },
     {
-     "title": "费城半导体指数日内跌8%",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938819338.html",
-     "pubDate": "Tue, 24 Nov 2026 23:22:23 +0800",
-     "summary": "费城 半导体 指数日内跌8.01%，现报8819.81点。 英伟达 跌7.43%， 博通 跌3.68%，美光跌10.45%， 英特尔 跌7.38%，AMD跌10.30%， 高通 跌1.47%， 台积电 跌5.42%， 阿斯麦 跌3.49%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "费城半导体指数日内跌8%"
-    },
-    {
-     "title": "Wall Street trades mixed as markets assess new tariff concerns",
-     "link": "https://seekingalpha.com/news/4676210-wall-street-trades-mixed-as-markets-assess-new-tariff-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:21:47 -0500",
+     "title": "Gold faces renewed pressure from rising real yields: Wells Fargo",
+     "link": "https://seekingalpha.com/news/4676234-gold-faces-renewed-pressure-from-rising-real-yields-wells-fargo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:47:26 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Wall Street trades mixed as markets assess new tariff concerns"
+     "zh": "Gold faces renewed pressure from rising real yields: Wells Fargo"
     },
     {
-     "title": "现货白银跌近4%",
-     "link": "http://finance.eastmoney.com/news/1362,202611243938820080.html",
-     "pubDate": "Tue, 24 Nov 2026 23:21:27 +0800",
-     "summary": "现货 白银 跌3.84%，报41.48美元/盎司。 （文章来源：界面新闻）",
+     "title": "Ichor Holdings slides 16% as semiconductor equipment stocks fall",
+     "link": "https://seekingalpha.com/news/4676227-ichor-holdings-slides-16-as-semiconductor-equipment-stocks-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:47:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ichor Holdings slides 16% as semiconductor equipment stocks fall"
+    },
+    {
+     "title": "\"YieldMax Crypto Industry & Tech\nPortfolio Option Income ETF announces weekly distribution of $0.0973\"",
+     "link": "https://seekingalpha.com/news/4676236-yieldmax-crypto-industry-techportfolio-option-income-etf-announces-weekly-distribution-of-00973?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:45:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "\"YieldMax Crypto Industry & Tech\nPortfolio Option Income ETF announces weekly distribution of $0.0973\""
+    },
+    {
+     "title": "Micron Technology declines 11% amid chip and AI retreat",
+     "link": "https://seekingalpha.com/news/4676226-micron-technology-declines-11-amid-chip-and-ai-retreat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 10:45:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Micron Technology declines 11% amid chip and AI retreat"
+    },
+    {
+     "title": "借壳上市，再现A股市场！停牌前大涨，复牌首日跌停！",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938830153.html",
+     "pubDate": "Tue, 24 Nov 2026 23:40:50 +0800",
+     "summary": "停牌12日后， 英力特 （000635）带着罕见的“重组上市”（俗称“借壳上市”）预案，于24日复牌，当日大跌。 11月23日晚， 英力特 公告称，公司控股股东国能 英力特 能源化工集团股份有限公司（以下简称“英力特集团”）拟协议转让39.41%股份至宁夏宝丰集团有限公司（以下简称“宝丰集团”），公司控股股东将变更为宝丰集团，实际控制人将变更为党彦宝。转让价格为6.27元/股。公司股票11月24日起复牌。 同日晚间，英力特还披露了发行股份购买资产暨关联交易预案。公司拟通过发行股份方式购买宝丰集团持有的宁夏宝丰 光伏发电 有限公司（以下简称“宝丰光伏”）100%股权。发行股份价格为6.13元/股",
      "source": "东方财富股票",
-     "zh": "现货白银跌近4%"
+     "zh": "借壳上市，再现A股市场！停牌前大涨，复牌首日跌停！"
     },
     {
-     "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-     "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 15:21:00 GMT",
-     "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
-     "source": "MarketWatch",
-     "zh": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag"
+     "title": "纽约养老金机构将私募信贷基金份额打包成40亿美元出售",
+     "link": "http://finance.eastmoney.com/news/1351,202611243938828787.html",
+     "pubDate": "Tue, 24 Nov 2026 23:39:27 +0800",
+     "summary": "纽约 养老金 机构将私募信贷基金份额打包成40亿美元出售。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "纽约养老金机构将私募信贷基金份额打包成40亿美元出售"
     },
     {
-     "title": "Anthropic’s stock just broke below its IPO price for the first time",
-     "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 15:21:00 GMT",
-     "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.",
-     "source": "MarketWatch",
-     "zh": "Anthropic’s stock just broke below its IPO price for the first time"
+     "title": "钯金期货日内跌4% 现报861.50美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1351,202611243938828880.html",
+     "pubDate": "Tue, 24 Nov 2026 23:39:24 +0800",
+     "summary": "钯金 期货 日内跌4%，现报861.50美元/盎司。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "钯金期货日内跌4% 现报861.50美元/盎司"
     },
     {
-     "title": "美股三大指数涨跌不一 纳指跌超1% 英伟达跌超6%、Anthropic破发",
+     "title": "纽约养老金计划将其持有的私募信贷基金权益打包出售 交易规模达40亿美元",
+     "link": "http://fund.eastmoney.com/news/1623,202611243938830075.html",
+     "pubDate": "Tue, 24 Nov 2026 23:39:24 +0800",
+     "summary": "纽约 养老金 计划将其持有的私募信贷基金权益打包出售，交易规模达40亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "纽约养老金计划将其持有的私募信贷基金权益打包出售 交易规模达40亿美元"
+    },
+    {
+     "title": "纳指跌近2% 费城半导体指数盘中跌超8% 英伟达、闪迪、AMD等明星个股普跌",
      "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
-     "pubDate": "Tue, 24 Nov 2026 23:17:19 +0800",
-     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.51%，标普500指数跌0.49%， 纳斯达克 综合 指数跌1.46%。 科技股集体回调， 芯片股跌幅居前， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌8.25%并跌破83美元的发行价， 闪迪 跌11.17%，AMD跌9.83%， 美光科技 跌9.39%，ARM跌8.53%， SK海力士 跌8.00%， 希捷科技 跌7.70%，恩智浦跌7.18%， 应用材料 跌7.03%， 英伟达 跌6.68%， 英特尔 跌6.64%， 西部数据 跌6.26%， 博通 跌2.86%。 全球要闻 伊朗将进一步收紧霍尔木兹海峡封锁 卡塔尔试图",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数涨跌不一 纳指跌超1% 英伟达跌超6%、Anthropic破发"
+     "pubDate": "Tue, 24 Nov 2026 23:37:51 +0800",
+     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.26%，标普500指数跌0.74%， 纳斯达克 综合 指数跌1.80%。 科技股集体回调， 芯片股跌幅居前， 费城 半导体 指数盘中跌超8%，截至发稿，指数跌7.96%。个股方面， Anthropic 跌9.42%并跌破83美元的发行价， 闪迪 跌12.39%， 美光科技 跌10.05%，AMD跌10.04%， SK海力士 跌8.65%，ARM跌8.39%， 希捷科技 跌7.50%，恩智浦跌7.32%， 英伟达 跌7.23%， 应用材料 跌7.23%， 西部数据 跌7.04%， 英特尔 跌6.91%， 博通 跌3.27%。 商品方面，国际金银",
+     "source": "东方财富股票",
+     "zh": "纳指跌近2% 费城半导体指数盘中跌超8% 英伟达、闪迪、AMD等明星个股普跌"
     },
     {
-     "title": "Click Holdings launches share repurchase program worth up to $1.5M",
-     "link": "https://seekingalpha.com/news/4676205-click-holdings-launches-share-repurchase-program-worth-up-to-15m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:17:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Click Holdings launches share repurchase program worth up to $1.5M"
+     "title": "董事会换届进入多方博弈 东方海洋二股东提名6名董事 丨速读公告",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938829498.html",
+     "pubDate": "Tue, 24 Nov 2026 23:37:27 +0800",
+     "summary": "财联社11月24日讯（记者张晨静） 东方海洋 （002086.SZ）董事会换届已延迟三个月，四大股东提名董事会席位竞争升温。今日晚间，公司第二大股东烟台市正大城市建设发展有限公司（下称“正大城发”）提交临时提案，提名6名董事，成为本轮换届中提名数量最多的股东。 根据 东方海洋 公告称，公司今日收到持股3.43%的股东正大城发提交的临时提案函，提请在2026年12月15日召开的2026年第二次临时股东会上增加六项董事选举议案，分别为选举刘洪涛、王雨迟、肖日东为第九届董事会非独立董事，选举刘顺贤、罗乐、张琦为第九届董事会独立董事。公司提名委员会已对上述董事候选人任职资格完成审查，其中独立董事候选人",
+     "source": "东方财富股票",
+     "zh": "董事会换届进入多方博弈 东方海洋二股东提名6名董事 丨速读公告"
     },
     {
-     "title": "Burlington Stores gains 8% after mixed Q3 results",
-     "link": "https://seekingalpha.com/news/4676195-burlington-stores-gains-8-after-mixed-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:13:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Burlington Stores gains 8% after mixed Q3 results"
+     "title": "US tech stocks slide as Jensen Huang return rally fades",
+     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 15:34:56 GMT",
+     "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
+     "source": "Financial Times",
+     "zh": "US tech stocks slide as Jensen Huang return rally fades"
     },
     {
-     "title": "Terex rises 8% on Aerials business sale to Linamar",
-     "link": "https://seekingalpha.com/news/4676196-terex-rises-8-percent-on-aerials-business-sale-to-linamar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 10:11:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Terex rises 8% on Aerials business sale to Linamar"
+     "title": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
+     "link": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html",
+     "pubDate": "Tue, 24 Nov 2026 15:34:10 GMT",
+     "summary": "U.K. digital bank OakNorth has secured a U.S. national bank charter as it seeks to expand amid growing competition from international rivals.",
+     "source": "CNBC",
+     "zh": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America"
     },
     {
      "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
@@ -2394,30 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia brought Jensen Huang back. But the investigations aren’t over"
     },
     {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 15:00:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "The number of 401(k) millionaires drops as the stock market swings",
-     "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 14:59:00 GMT",
-     "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-     "source": "MarketWatch",
-     "zh": "The number of 401(k) millionaires drops as the stock market swings"
-    },
-    {
-     "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 14:59:00 GMT",
-     "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return"
-    },
-    {
      "title": "CommerzVentures launches €50m fund for AI fintechs",
      "link": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Tue, 24 Nov 2026 14:57:00 GMT",
@@ -2426,36 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "CommerzVentures launches €50m fund for AI fintechs"
     },
     {
-     "title": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
-     "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 14:56:00 GMT",
-     "summary": "Plus some advice on cutting your Thanksgiving grocery tab.",
-     "source": "MarketWatch",
-     "zh": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing"
-    },
-    {
      "title": "小米汽车，盯上欧洲豪车的门店",
      "link": "https://wallstreetcn.com/articles/3786619",
      "pubDate": "Tue, 24 Nov 2026 22:54:40 +0800",
      "summary": "作者 | 周智宇 小米汽车还没在欧洲开卖，当地经销商已经拿出了好门店，争取把它请进来。 11月24日，在小米三季报交流会上，小米集团合伙人、总裁卢伟冰透露，小米汽车计划在2027年下半年、大约第三季度首先登陆德国市场。目前，当地销售网络建设、产品测试等工作正按计划推进。 谈到门店，卢伟冰颇有信心。他说，一些主要市场和城市有多家经销商竞争小米的合作资质，拿出“他们几乎是最好的门店”。他预计，等第一批门店开业，其中可能有不少是从欧洲豪华品牌转过来的。 今年9月，小米已在柏林国际消费电子展上，与8家德国头部汽车经销商签署合作备忘录。卢伟冰此前介绍，这些合作方中，不少已有上百年历史，长期经营奔驰、宝马",
      "source": "华尔街见闻",
      "zh": "小米汽车，盯上欧洲豪车的门店"
-    },
-    {
-     "title": "US tech stocks slide as Jensen Huang return rally fades",
-     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 14:52:33 GMT",
-     "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
-     "source": "Financial Times",
-     "zh": "US tech stocks slide as Jensen Huang return rally fades"
-    },
-    {
-     "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-     "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-     "pubDate": "Tue, 24 Nov 2026 14:51:58 GMT",
-     "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
-     "source": "CNBC",
-     "zh": "Best Buy reports comparable sales growth of 6.1%, highest in five years"
     },
     {
      "title": "大涨之后何去何从？纳指100跌1.7%，英伟达跌4%，Anthropic破发，金油齐跌",
@@ -2474,12 +2418,68 @@ window.INDUSTRY_DATA = {
      "zh": "WorldRemit founder launches fintech targeting migrants in the US"
     },
     {
-     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-     "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-     "pubDate": "Tue, 24 Nov 2026 14:35:05 GMT",
-     "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+     "title": "3万多辆中国车，摆上英国二手市场的秤",
+     "link": "https://wallstreetcn.com/articles/3786618",
+     "pubDate": "Tue, 24 Nov 2026 22:32:05 +0800",
+     "summary": "作者 | 周智宇 英国的二手车行里，已有3万多辆中国车挂牌待售。 英国估值机构Cazana于11月23日披露，10月，其监测的十个中国品牌二手车零售挂牌量环比增长10%，总量超过3万辆。统计覆盖2022年春季及之后上牌的车辆，报告列出的在售车辆中，MG约1.4万辆，比亚迪接近4000辆。 比亚迪2023年在英国的新车注册量还只有1600辆，到2025年已达5.1万辆。两年前刚进入当地市场的Omoda、Jaecoo（均为奇瑞旗下海外品牌），如今也开始有成批旧车出现在车行里。 这批旧车的价格，会检验中国汽车在海外的价格优势势究竟能留下多少。购入时便宜，转手时却掉价更快，省下的差价就可能被折旧吞掉。",
+     "source": "华尔街见闻",
+     "zh": "3万多辆中国车，摆上英国二手市场的秤"
+    },
+    {
+     "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
+     "link": "https://www.finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 24 Nov 2026 14:03:00 GMT",
+     "summary": "Swedish open banking outfit Trustly has raised around $60 million from existing shareholders to accelerate its \"AI-powered growth strategy\" shortly after slashing its workforce by a quarter.",
+     "source": "Finextra",
+     "zh": "Trustly raises $60m from shareholders for AI-powered growth plan"
+    },
+    {
+     "title": "AI信用危机、美国经济硬着陆？美银Hartnett预判2027年两大意外",
+     "link": "https://wallstreetcn.com/articles/3786617",
+     "pubDate": "Tue, 24 Nov 2026 22:01:26 +0800",
+     "summary": "2027年全球市场可能迎来哪些意外？美国银行首席投资策略师Michael Hartnett（迈克尔·哈特奈特）建议投资者上半年暂缓加仓风险资产，等待全球加息周期在明年春季结束后，再转向周期性板块。 在其基准情景中，全球经济有望实现软着陆，周期性板块将成为下半年投资主线。 但市场也面临两大尾部风险：AI投资热潮引发信用危机，以及美国经济意外硬着陆。 具体而言，哈特奈特预计，全球央行到明年6月前仍将累计加息38次，下半年才会出现约21次降息。 这意味着2027年市场可能先经历一段货币紧缩压力，再迎来政策转向带来的配置机会。 他建议投资者在3月至4月前优先保护本金，待加息周期结束后重点布局芯片、大宗",
+     "source": "华尔街见闻",
+     "zh": "AI信用危机、美国经济硬着陆？美银Hartnett预判2027年两大意外"
+    },
+    {
+     "title": "黄仁勋复职前，向董事会披露更多婚外情",
+     "link": "https://wallstreetcn.com/articles/3786616",
+     "pubDate": "Tue, 24 Nov 2026 21:48:46 +0800",
+     "summary": "英伟达股价周一飙升逾31%，市场对这位联合创始人的回归投出信任票。 英伟达董事会周日与黄仁勋举行了长达数小时的会议。 在会议上，黄仁勋披露了此前未公开的更多婚外情，随后董事会当晚一致投票决定恢复其首席执行官职务。 据《华尔街日报》报道，美国总统特朗普在幕后积极斡旋，推动这位芯片行业领军人物在被迫辞职不到两周后重返掌舵之位。 尽管批准复职，英伟达董事会仍认定黄仁勋因婚外情及未予披露的行为违反了公司行为准则，并表示将继续展开独立调查。 董事会长会议：披露更多婚外情，表达悔过之意 据《华尔街日报》援引知情人士消息，英伟达董事会周日与黄仁勋举行了数小时会议。 会议期间，黄仁勋披露了此前公开报道中两段婚",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋复职前，向董事会披露更多婚外情"
+    },
+    {
+     "title": "小米电话会：今年将在AI领域投入160亿，不能简单通过涨价转嫁内存成本，汽车交付Q4预计将迎“较大提升”",
+     "link": "https://wallstreetcn.com/articles/3786602",
+     "pubDate": "Tue, 24 Nov 2026 21:36:59 +0800",
+     "summary": "11月24日晚间，小米集团举行第三季度业绩电话会，汽车交付增长、AI战略投入以及内存涨价带来的成本压力成为市场关注的焦点。 小米集团合伙人、集团总裁卢伟冰表示， 小米汽车10月交付量超过5万辆，创年内单月新高，预计第四季度交付规模还将有较大提升 。手机业务方面，小米全球市场份额已连续三个季度提升，业务逐步企稳。 AI方面，小米集团CFO林世伟表示，小米对AI的投入非常坚决，今年将在AI领域投入160亿元，目前相关投入正按规划稳步推进。与此同时， 面对内存芯片价格持续高企，卢伟冰表示，小米不会简单通过提高产品售价转嫁成本，而是希望通过产品创新和结构升级消化压力。 汽车10月交付超5万辆，Q4预计",
+     "source": "华尔街见闻",
+     "zh": "小米电话会：今年将在AI领域投入160亿，不能简单通过涨价转嫁内存成本，汽车交付Q4预计将迎“较大提升”"
+    },
+    {
+     "title": "Six key questions raised by Jensen Huang&apos;s return to Nvidia",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+     "pubDate": "Tue, 24 Nov 2026 13:31:29 GMT",
+     "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
      "source": "CNBC",
-     "zh": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years"
+     "zh": "Six key questions raised by Jensen Huang&apos;s return to Nvidia"
+    },
+    {
+     "title": "知情人士：美国准备对数十个国家和地区上调关税",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938694295.html",
+     "pubDate": "Tue, 24 Nov 2026 21:14:14 +0800",
+     "summary": "据知情人士透露，美国准备对数十个国家和地区上调关税。特朗普政府认为，这些国家和地区通过扶持本土工业生产，损害了美国企业的利益。 知情人士称，美国贸易代表杰米森·格里尔预计最快于本周公布一项历时数月的关税调查结果，该调查针对欧盟等产业补贴情况；消息人士同时提醒，发布时间有可能变动。美国贸易代表办公室拒绝置评，白宫也没有回应相关问询。 美国贸易代表办公室的公告大概率意味着，包括日本、韩国以及欧盟27个成员国在内的数十个国家和地区将面临更高关税。 新关税将覆盖这些国家和地区出口的大部分商品，但 钢铁 、 铝 、 汽车 等已经依据独立国家安全条款征税的部分工业品，大概率不在本次加征范围内。 （文章来源",
+     "source": "东方财富资讯",
+     "zh": "知情人士：美国准备对数十个国家和地区上调关税"
+    },
+    {
+     "title": "真金白银稳预期！深圳召开上市公司座谈会 A股龙头、银行、券商都来了",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938692397.html",
+     "pubDate": "Tue, 24 Nov 2026 21:09:57 +0800",
+     "summary": "11月24日，深圳市委金融办联合深圳证监局、人民 银行 深圳市分行、深圳金融监管局组织召开辖区上市公司座谈会，以引导上市公司用好回购、增持等市场化工具，稳定市场预期、增强投资者信心。 工业富联 、 中科飞测 、 佰维存储 等40家上市公司代表，10余家 银行 、证券公司等金融机构代表参加了本次会议。 积极用好用足政策工具 本次会议介绍了近期稳市场稳预期相关政策及工具，并通报了工作进展，解读股票回购增持再贷款、并购贷款等支持资本市场融资政策。鼓励经营稳健、现金流充裕的上市公司依法合规开展股份回购，支持控股股东、实控人、董事、高管依规增持公司股份，向市场传递对长期发展的信心。 深圳证监局数据显示，",
+     "source": "东方财富资讯",
+     "zh": "真金白银稳预期！深圳召开上市公司座谈会 A股龙头、银行、券商都来了"
     }
    ]
   },

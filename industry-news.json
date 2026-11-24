@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 02:32:15",
+ "generated_at": "2026/11/25 02:55:15",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+     "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
+     "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+    },
     {
      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
@@ -63,14 +71,6 @@
      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
      "source": "TechCrunch AI",
      "zh": "Pinterest will now let parents limit the AI-generated content their teens see"
-    },
-    {
-     "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-     "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-     "pubDate": "Tue, 24 Nov 2026 15:51:07 +0000",
-     "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-     "source": "TechCrunch AI",
-     "zh": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
     },
     {
      "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html",
+     "pubDate": "Tue, 24 Nov 2026 12:30:00 -0600",
+     "summary": "Iraq is refusing to accept an OPEC+ assessment that says the country can sustainably produce less than 5 million barrels of oil per day. Baghdad wants OPEC+ to recognize a capacity of around 6 million bpd—an important acknowledgment ahead of the group’s upcoming Sunday meeting, at which production t",
+     "source": "OilPrice",
+     "zh": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity"
+    },
+    {
      "title": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027",
      "link": "https://oilprice.com/Energy/Energy-General/Canadas-Oilfield-Services-Sector-Is-Gearing-Up-for-a-Stronger-2027.html",
      "pubDate": "Tue, 24 Nov 2026 12:00:00 -0600",
@@ -927,14 +935,6 @@
      "summary": "Brent struggles below $90 as escalating tensions in Libya and Iraq threaten fresh oil supply disruptions across the Mediterranean. Where’s El Niño When You Need It?- Ahead of the 2026/2027 winter season, Japan’s meteorological forecasts predicted a 60% probability of above-normal temperatures, howev",
      "source": "OilPrice",
      "zh": "Libya and Iraq Could Be the Next Big Headache for Oil Markets"
-    },
-    {
-     "title": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter",
-     "link": "https://oilprice.com/Energy/Energy-General/Iran-Faces-a-Deepening-Natural-Gas-Crisis-Ahead-of-Winter.html",
-     "pubDate": "Tue, 24 Nov 2026 09:00:00 -0600",
-     "summary": "Iran is heading into winter facing a worsening natural gas shortage, as damage to key processing facilities during the war with the United States and Israel compounds years of chronic supply deficits. President Masud Pezeshkian warned on November 21 that the country would likely face energy supply p",
-     "source": "OilPrice",
-     "zh": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter"
     },
     {
      "title": "PV Tech Research: upstream sourcing at the root of inverter cybersecurity issue",
@@ -1089,6 +1089,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Sanofi makes a huge bet on life after Dupixent",
+     "link": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
+     "pubDate": "Tue, 24 Nov 2026 18:31:26 +0000",
+     "summary": "Sanofi may be getting its mojo back. Shares in the French drugmaker jumped more than 10% on Tuesday as investors and analysts cheered the audacity of CEO Belén Garijo’s $41 billion",
+     "source": "Endpoints News",
+     "zh": "Sanofi makes a huge bet on life after Dupixent"
+    },
+    {
      "title": "FDA approves BridgeBio muscular dystrophy drug",
      "link": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
      "pubDate": "Tue, 24 Nov 2026 11:36:00 -0500",
@@ -1183,14 +1191,6 @@
      "summary": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
      "source": "Endpoints News",
      "zh": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years"
-    },
-    {
-     "title": "CMS reveals Medicare's negotiated drug prices for 2028",
-     "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
-     "pubDate": "Tue, 24 Nov 2026 00:48:57 +0000",
-     "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
-     "source": "Endpoints News",
-     "zh": "CMS reveals Medicare's negotiated drug prices for 2028"
     },
     {
      "title": "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”",
@@ -1761,6 +1761,30 @@
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+     "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+     "pubDate": "Tue, 24 Nov 2026 18:47:57 +0000",
+     "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+     "source": "Ars Technica",
+     "zh": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage"
+    },
+    {
+     "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+     "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+     "pubDate": "Tue, 24 Nov 2026 18:30:36 +0000",
+     "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+     "source": "Ars Technica",
+     "zh": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can"
+    },
+    {
+     "title": "“Pervert glasses\" named word of the year by Macquarie Dictionary",
+     "link": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
+     "pubDate": "Tue, 24 Nov 2026 18:21:01 +0000",
+     "summary": "Article URL: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/ Comments URL: https://news.ycombinator.com/item?id=50632214 Points: 32 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "“Pervert glasses\" named word of the year by Macquarie Dictionary"
+    },
+    {
      "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
      "link": "https://www.techmeme.com/261124/p29#a261124p29",
      "pubDate": "Tue, 24 Nov 2026 13:20:03 -0500",
@@ -1796,7 +1820,7 @@
      "title": "AstridVPN: A VPN that doesn't know who you are",
      "link": "https://astridvpn.com/",
      "pubDate": "Tue, 24 Nov 2026 18:00:21 +0000",
-     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 5 # Comments: 3",
+     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 6 # Comments: 9",
      "source": "Hacker News",
      "zh": "AstridVPN: A VPN that doesn't know who you are"
     },
@@ -1836,7 +1860,7 @@
      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
      "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 92 # Comments: 40",
+     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 120 # Comments: 57",
      "source": "Hacker News",
      "zh": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'"
     },
@@ -1852,7 +1876,7 @@
      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 31 # Comments: 24",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 45 # Comments: 33",
      "source": "Hacker News",
      "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
@@ -1924,7 +1948,7 @@
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 149 # Comments: 51",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 158 # Comments: 53",
      "source": "Hacker News",
      "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
@@ -1935,30 +1959,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games"
-    },
-    {
-     "title": "Jetty Pro",
-     "link": "http://hypercritical.co/2026/11/23/jetty-pro",
-     "pubDate": "Tue, 24 Nov 2026 16:23:02 +0000",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 117 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "Jetty Pro"
-    },
-    {
-     "title": "No more heated seat subscriptions for cars in New York from 2027",
-     "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-     "pubDate": "Tue, 24 Nov 2026 16:20:37 +0000",
-     "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
-     "source": "Ars Technica",
-     "zh": "No more heated seat subscriptions for cars in New York from 2027"
-    },
-    {
-     "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-     "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-     "pubDate": "Tue, 24 Nov 2026 16:12:46 +0000",
-     "summary": "\"Without this funding, activities would be delayed.\"",
-     "source": "Ars Technica",
-     "zh": "NASA may get $2 billion boost as White House seeks to accelerate Artemis"
     },
     {
      "title": "中国食品品牌的“第二次出海”",
@@ -2000,6 +2000,54 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday",
+     "link": "https://9to5mac.com/2026/11/24/skip-the-knockoffs-real-pitaka-aramid-fiber-cases-start-at-18-99-this-black-friday/",
+     "pubDate": "Tue, 24 Nov 2026 18:51:21 +0000",
+     "summary": "Scroll through Amazon for five minutes and you’ll find dozens of $10–20 cases that look, through a thumbnail, almost identical to $50+ aramid fiber ones. Same dark weave, same slim profile, same pitch. Once you actually snap one onto a phone, the differences are obvious. You handle your phone for ho",
+     "source": "9to5Mac",
+     "zh": "Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday"
+    },
+    {
+     "title": "Apple Home accessories: Here are my five top picks for your smart home",
+     "link": "https://9to5mac.com/2026/11/24/apple-home-accessories-here-are-my-five-top-picks-for-your-smart-home/",
+     "pubDate": "Tue, 24 Nov 2026 18:43:54 +0000",
+     "summary": "Apple Home is kicking off a new era with Siri AI-driven products like HomeView, making it a great time to upgrade your smart home with Apple Home-compatible accessories. Here are my top five picks. more…",
+     "source": "9to5Mac",
+     "zh": "Apple Home accessories: Here are my five top picks for your smart home"
+    },
+    {
+     "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look",
+     "link": "https://9to5google.com/2026/11/24/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
+     "pubDate": "Tue, 24 Nov 2026 18:41:11 +0000",
+     "summary": "Sony’s iconic Walkman headphones are back in the USB-C MDR-3R and, after quickly selling out on launch day, they’ve now been restocked . And, after using them, I can see why they sold out so quickly. more…",
+     "source": "9to5Google",
+     "zh": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look"
+    },
+    {
+     "title": "Google Maps might change its colors again, but it’s optional this time [Gallery]",
+     "link": "https://9to5google.com/2026/11/24/google-maps-new-colors-high-visibility/",
+     "pubDate": "Tue, 24 Nov 2026 18:40:00 +0000",
+     "summary": "Google Maps has a pretty consistent style, but a new option appears to be in the works with a darker “high-visibility” setting. more…",
+     "source": "9to5Google",
+     "zh": "Google Maps might change its colors again, but it’s optional this time [Gallery]"
+    },
+    {
+     "title": "Your old smartphone is likely worth more now as a trade-in than it was last year",
+     "link": "https://www.androidauthority.com/us-trade-in-values-increasing-3738967/",
+     "pubDate": "Tue, 24 Nov 2026 18:32:20 +0000",
+     "summary": "Old phones are fetching higher trade-in payouts than last year.",
+     "source": "Android Authority",
+     "zh": "Your old smartphone is likely worth more now as a trade-in than it was last year"
+    },
+    {
+     "title": "Kagi, the paid Google Search alternative, now has a Gmail rival too",
+     "link": "https://9to5google.com/2026/11/24/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too/",
+     "pubDate": "Tue, 24 Nov 2026 18:30:00 +0000",
+     "summary": "Kagi is best known as a paid alternative to Google Search, but the company is now introducing its own email service that offers an alternative to Gmail. more…",
+     "source": "9to5Google",
+     "zh": "Kagi, the paid Google Search alternative, now has a Gmail rival too"
+    },
     {
      "title": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal",
      "link": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
@@ -2129,14 +2177,6 @@
      "zh": "Lenovo Legion Go Beam leaks with Android instead of SteamOS"
     },
     {
-     "title": "Yes, the Pixel 10 is still a great buy [Video]",
-     "link": "https://9to5google.com/2026/11/24/yes-the-pixel-10-is-still-a-great-buy-video/",
-     "pubDate": "Tue, 24 Nov 2026 16:45:00 +0000",
-     "summary": "If you’re looking for a decent replacement for an older phone or a backup, and the Pixel 10 looks eerily similar to the Pixel 11, is it still worth it? Well, of course it is, but let’s get into why in this deep dive. more…",
-     "source": "9to5Google",
-     "zh": "Yes, the Pixel 10 is still a great buy [Video]"
-    },
-    {
      "title": "Black Friday deals: AirPods Pro 3 $100 off, AirTag $18 all-time low, MacBooks $300 off, iPad $350 off, more",
      "link": "https://9to5mac.com/2026/11/24/black-friday-deals-airpods-pro-3-airtag-2-macbook-pro/",
      "pubDate": "Tue, 24 Nov 2026 16:42:29 +0000",
@@ -2177,22 +2217,6 @@
      "zh": "Motorola Razr 2027 leak suggests a January launch is in the cards"
     },
     {
-     "title": "Mangmi shows off the Air X Pro with Snapdragon 865 and a 5.5-inch 1080p screen",
-     "link": "https://www.androidauthority.com/mangmi-air-x-pro-specs-display-processor-3738916/",
-     "pubDate": "Tue, 24 Nov 2026 16:20:56 +0000",
-     "summary": "Take a better look at Mangmi’s upcoming Android gaming handheld.",
-     "source": "Android Authority",
-     "zh": "Mangmi shows off the Air X Pro with Snapdragon 865 and a 5.5-inch 1080p screen"
-    },
-    {
-     "title": "Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live",
-     "link": "https://9to5google.com/2026/11/24/disney-hulu-bundle-black-friday-deal/",
-     "pubDate": "Tue, 24 Nov 2026 16:20:00 +0000",
-     "summary": "Black Friday’s streaming deals are here, with Disney+ and Hulu dropping to just $4.99/month for a whole year if you sign up right now, and other deals available on other services. more…",
-     "source": "9to5Google",
-     "zh": "Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live"
-    },
-    {
      "title": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8",
      "link": "https://www.dpreview.com/news/ttartisan-goes-ultra-wide-with-a-489-autofocus-12mm-f2-8/",
      "pubDate": "Tue, 24 Nov 2026 16:19:51 +0000",
@@ -2207,30 +2231,6 @@
      "summary": "Cultured Code is bringing swipe gestures to Things on Apple’s touchscreen MacBook Pro . Version 3.25 builds on the task manager’s basic touch support so you can schedule a to-do with a swipe or select several tasks with two fingers and drag them all at once. more…",
      "source": "9to5Mac",
      "zh": "Things 3.25 update brings new touch features to the MacBook Pro"
-    },
-    {
-     "title": "YouTube appears to be quietly testing a new mute button in its video UI",
-     "link": "https://9to5google.com/2026/11/24/youtube-tests-mute-button-on-mobile/",
-     "pubDate": "Tue, 24 Nov 2026 15:55:37 +0000",
-     "summary": "Users are seeing the option to mute a video appear in the YouTube app on Android, but it isn’t showing up for everyone. more…",
-     "source": "9to5Google",
-     "zh": "YouTube appears to be quietly testing a new mute button in its video UI"
-    },
-    {
-     "title": "PSA: AirPods Pro 3 are back in stock for $149 ($100 off)",
-     "link": "https://9to5mac.com/2026/11/24/airpods-pro-3-best-black-friday-price/",
-     "pubDate": "Tue, 24 Nov 2026 15:39:45 +0000",
-     "summary": "Update November 24, 2026 : AirPods Pro 3 are back in stock after selling out after dropping down to their new all-time low price of $149 . Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with an incredible $100 discount to $149 shipped – their best price ever. Amazon’s Black Frid",
-     "source": "9to5Mac",
-     "zh": "PSA: AirPods Pro 3 are back in stock for $149 ($100 off)"
-    },
-    {
-     "title": "Here’s everything new Apple TV has coming in December",
-     "link": "https://9to5mac.com/2026/11/24/heres-everything-new-apple-tv-has-coming-in-december-2/",
-     "pubDate": "Tue, 24 Nov 2026 15:37:47 +0000",
-     "summary": "Apple TV ( now $6.99/month for Black Friday ) is about to bring back a beloved comedy from Ted Lasso and Shrinking’s creator, plus a new holiday special, documentary event series, and more. Here’s everything new coming to Apple TV in December. more…",
-     "source": "9to5Mac",
-     "zh": "Here’s everything new Apple TV has coming in December"
     },
     {
      "title": "Deal: the Oppo Find X10 is £200 off",
@@ -2249,60 +2249,172 @@
    "total": 13,
    "items": [
     {
-     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-     "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-     "pubDate": "Tue, 24 Nov 2026 18:27:58 GMT",
-     "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+     "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+     "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:48:00 GMT",
+     "summary": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
+     "source": "MarketWatch",
+     "zh": "Visiting Las Vegas is getting too expensive — but don’t blame airfares"
+    },
+    {
+     "title": "GDS Holdings Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4676324-gds-holdings-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:40:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GDS Holdings Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "Wall Street trades mixed as markets assess new tariff concerns",
+     "link": "https://seekingalpha.com/news/4676210-wall-street-trades-mixed-as-markets-assess-new-tariff-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:39:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wall Street trades mixed as markets assess new tariff concerns"
+    },
+    {
+     "title": "Kanzhun Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4676323-kanzhun-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:37:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kanzhun Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "CMB.Tech outlines $722M 2027 free cash flow scenario while Board proposes $0.65 dividend",
+     "link": "https://seekingalpha.com/news/4676322-cmb-tech-outlines-722m-2027-free-cash-flow-scenario-while-board-proposes-0_65-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:37:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CMB.Tech outlines $722M 2027 free cash flow scenario while Board proposes $0.65 dividend"
+    },
+    {
+     "title": "Large-cap financial stocks: Top and bottom quant-rated picks after Q3",
+     "link": "https://seekingalpha.com/news/4676209-large-cap-financial-stocks-top-and-bottom-quant-rated-picks-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:35:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Large-cap financial stocks: Top and bottom quant-rated picks after Q3"
+    },
+    {
+     "title": "布伦特原油涨幅扩大至2%",
+     "link": "http://finance.eastmoney.com/news/1356,202611253938862528.html",
+     "pubDate": "Wed, 25 Nov 2026 02:35:30 +0800",
+     "summary": "WTI原油 期货 价格涨2.18%，报81.917美元/桶；布伦特原油 期货 价格涨2.01%，报88.418美元/桶。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油涨幅扩大至2%"
+    },
+    {
+     "title": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist",
+     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "pubDate": "Tue, 24 Nov 2026 18:34:43 GMT",
+     "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
      "source": "CNBC",
-     "zh": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note"
+     "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
     },
     {
-     "title": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks",
-     "link": "https://seekingalpha.com/news/4676318-iraq-is-said-to-challenge-oil-capacity-review-ahead-of-opec-quota-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:23:13 -0500",
+     "title": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B",
+     "link": "https://seekingalpha.com/news/4676320-dycom-anticipates-mid-single-digit-fy-2028-communications-growth-as-long-haul-backlog-exceeds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:33:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks"
+     "zh": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B"
     },
     {
-     "title": "MapLight Therapeutics soars 22% as health care stocks gain momentum",
-     "link": "https://seekingalpha.com/news/4676308-maplight-therapeutics-soars-22-as-health-care-stocks-gain-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:22:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MapLight Therapeutics soars 22% as health care stocks gain momentum"
+     "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+     "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:33:00 GMT",
+     "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+     "source": "MarketWatch",
+     "zh": "Micron’s stock falls as an analyst warns about a future supply glut"
     },
     {
-     "title": "Banks' Q3 earnings dip from Q2 but rise from a year ago, FDIC says",
-     "link": "https://seekingalpha.com/news/4676310-banks-q3-earnings-dip-from-q2-but-rise-from-a-year-ago-fdic-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:21:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Banks' Q3 earnings dip from Q2 but rise from a year ago, FDIC says"
+     "title": "加拿大皇家银行（RBC）预测特斯拉与SpaceX的合并公告可能在2027年初发布",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862450.html",
+     "pubDate": "Wed, 25 Nov 2026 02:31:21 +0800",
+     "summary": "加拿大皇家银行 （RBC）预测 特斯拉 与 SpaceX 的合并公告可能在2027年初发布。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "加拿大皇家银行（RBC）预测特斯拉与SpaceX的合并公告可能在2027年初发布"
     },
     {
-     "title": "Prelude Therapeutics jumps 28% alongside peers",
-     "link": "https://seekingalpha.com/news/4676309-prelude-therapeutics-jumps-28-alongside-peers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:20:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Prelude Therapeutics jumps 28% alongside peers"
+     "title": "黄仁勋在全员会议上向英伟达员工道歉",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862325.html",
+     "pubDate": "Wed, 25 Nov 2026 02:30:11 +0800",
+     "summary": "黄仁勋在全员会议上向 英伟达 员工道歉。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "黄仁勋在全员会议上向英伟达员工道歉"
     },
     {
-     "title": "Army orders nationwide storage review over deteriorating explosives in Iowa",
-     "link": "https://seekingalpha.com/news/4676317-army-orders-nationwide-storage-review-over-deteriorating-explosives-in-iowa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:19:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Army orders nationwide storage review over deteriorating explosives in Iowa"
+     "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
+     "link": "https://wallstreetcn.com/articles/3786625",
+     "pubDate": "Wed, 25 Nov 2026 02:29:34 +0800",
+     "summary": "伦敦金属交易所（LME）出手整治铝市场持续已久的逼仓乱象，宣布收紧针对大仓位持有者的监管规则，相关措施于周三起生效。 此次干预的核心是将触发\"Tom-next（明日/次日）借贷规则\"的仓位门槛，由现有可用库存的50%下调至30%。新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。 LME表示，此举旨在\"减少重大持仓对市场可能产生的不当影响\"。 消息公布后，铝市价差迅速回落——现货与12月合约之间的反向价差从每吨212美元骤降至100美元，跌幅逾半。 逼仓背景：数十年最低库存叠加集中多头持仓 LME铝市场此番遭遇",
+     "source": "华尔街见闻",
+     "zh": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情"
     },
     {
-     "title": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook",
-     "link": "https://seekingalpha.com/news/4676307-embecta-jumps-41-on-fiscal-q4-results-and-initial-2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:19:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook"
+     "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+     "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:28:00 GMT",
+     "summary": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
+     "source": "MarketWatch",
+     "zh": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic"
+    },
+    {
+     "title": "词元“用得多”更要“用得值”",
+     "link": "http://www.eeo.com.cn/2026/1125/1101595.shtml",
+     "pubDate": "Wed, 25 Nov 2026 02:26:12 +0800",
+     "summary": "■田鹏 根据AI（人工智能）模型聚合平台OpenRouter最新数据测算，上周（11月16日至22日）全球大模型总调用量已达210万亿词元（Token）。其中，中国人工智能大模型调用量为111.16万亿词元，已连续30周位居全球第一。 词元调用量是衡量AI使用活跃度的重要参考指标。高调用量、高活跃度，折射出我国AI正加速嵌入各行各业的运转流程，越来越多市场主体将AI作为提效工具，融入真实业务场景。与此同时，在AI加快融入生产...",
+     "source": "经济观察网",
+     "zh": "词元“用得多”更要“用得值”"
+    },
+    {
+     "title": "时报数说 | 今年前十个月访港旅客量近4600万人次",
+     "link": "http://finance.eastmoney.com/news/1350,202611253938862293.html",
+     "pubDate": "Wed, 25 Nov 2026 02:26:09 +0800",
+     "summary": "（据新华社电） （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "时报数说 | 今年前十个月访港旅客量近4600万人次"
+    },
+    {
+     "title": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938861930.html",
+     "pubDate": "Wed, 25 Nov 2026 02:25:20 +0800",
+     "summary": "当地时间24日，伊朗伊斯兰革命卫队海军表示，一艘集装箱船在霍尔木兹海峡南部、海塞卜港以北海域航行时，关闭了导航与定位系统，并在未经许可的航线航行，违反了海上交通规则，该船随后遭到了打击。 伊朗伊斯兰革命卫队海军重申，对于商船船东和船长而言，遵守海上安全法规、使用获准航道，并服从相关部门发出的警告，对于维护霍尔木兹海峡的航行安全至关重要。若未能遵守上述要求，可能会对船员生命、船舶安全以及船东的资产构成严重风险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭"
+    },
+    {
+     "title": "穆迪上调礼来评级至Aa2 前景展望稳定",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862144.html",
+     "pubDate": "Wed, 25 Nov 2026 02:24:50 +0800",
+     "summary": "穆迪 上调 礼来 评级至Aa2，前景展望稳定。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "穆迪上调礼来评级至Aa2 前景展望稳定"
+    },
+    {
+     "title": "Retail turnarounds are taking hold just in time for the holiday season",
+     "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+     "pubDate": "Tue, 24 Nov 2026 18:21:35 GMT",
+     "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+     "source": "CNBC",
+     "zh": "Retail turnarounds are taking hold just in time for the holiday season"
+    },
+    {
+     "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
+     "pubDate": "Wed, 25 Nov 2026 02:20:19 +0800",
+     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.76%，标普500指数跌0.54%， 纳斯达克 综合 指数跌1.52%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.58%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.29%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格走低，截至发稿",
+     "source": "东方财富资讯",
+     "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
+    },
+    {
+     "title": "As Anthropic falls below its IPO price, here&apos;s how big-money traders are reacting",
+     "link": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+     "pubDate": "Tue, 24 Nov 2026 18:17:12 GMT",
+     "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+     "source": "CNBC",
+     "zh": "As Anthropic falls below its IPO price, here&apos;s how big-money traders are reacting"
     },
     {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
@@ -2329,14 +2441,6 @@
      "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
     },
     {
-     "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-     "pubDate": "Tue, 24 Nov 2026 17:59:44 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation"
-    },
-    {
      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
      "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
      "pubDate": "Tue, 24 Nov 2026 17:59:12 GMT",
@@ -2353,22 +2457,6 @@
      "zh": "Anthropic falls below IPO price as tech rally fades"
     },
     {
-     "title": "历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938857629.html",
-     "pubDate": "Wed, 25 Nov 2026 01:52:00 +0800",
-     "summary": "一部耗时约12年、全凭人力写成的940页广义黎曼猜想证明草稿，因Claude辅助证明问世而仓促公开...... 当地时间11月20日，美国数学学会主席Ravi Vakil在博客上以“仓促的公告（Hurried Announcement）”为题发布了 数学家Alessandro Maria Masullo的手稿《素数的音乐》（The Music of the Primes），并称这份广义黎曼猜想证明完全由人完成，没有使用AI。 黎曼猜想最早由数学家伯恩哈德·黎曼（Bernhard Riemann）于1859年提出。该猜想认为，质数在数轴上的分布虽然乍看之下似乎是随机的，但实际上受到一种复杂且具有",
-     "source": "东方财富股票",
-     "zh": "历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？"
-    },
-    {
-     "title": "A股量能放大 AI算力主线资金博弈加剧",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938855940.html",
-     "pubDate": "Wed, 25 Nov 2026 01:51:51 +0800",
-     "summary": "11月24日，A股主要指数冲高回落、震荡分化。截至收盘，上证指数涨0.27%，报3548.37点；深证成指跌0.29%，报10423.60点；创业板指跌0.05%，报2278.99点；科创综指涨1.16%。沪深两市成交额约16551亿元，较上一交易日放量1022亿元。 从盘面看，AI硬件板块率先走强， 印制电路板 （ PCB ）方向成为领涨主线。个股方面， 中京电子 走出4连板， 奥尼电子 收获20%涨停， 工业富联 、 胜宏科技 涨幅均超过6%。 机器人 板块延续上一交易日强势， 凡拓数创 涨幅超过16%， 东方精工 、 福莱新材 等多股涨停。 不过，在指数冲高回落的过程中，活跃方向内部也出",
-     "source": "东方财富股票",
-     "zh": "A股量能放大 AI算力主线资金博弈加剧"
-    },
-    {
      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
      "pubDate": "Tue, 24 Nov 2026 17:51:45 GMT",
@@ -2377,68 +2465,12 @@
      "zh": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC"
     },
     {
-     "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
-     "pubDate": "Wed, 25 Nov 2026 01:50:08 +0800",
-     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.76%，标普500指数跌0.54%， 纳斯达克 综合 指数跌1.52%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.58%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.29%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格短线跳水，截至",
-     "source": "东方财富股票",
-     "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
-    },
-    {
-     "title": "The AI debt market isn’t convinced the worst is over for investors",
-     "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:48:00 GMT",
-     "summary": "Stocks rebounded on Monday, but credit markets remain cautious.",
-     "source": "MarketWatch",
-     "zh": "The AI debt market isn’t convinced the worst is over for investors"
-    },
-    {
-     "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938856096.html",
-     "pubDate": "Wed, 25 Nov 2026 01:43:26 +0800",
-     "summary": "国务院国资委日前举办专题研讨班部署新一轮国资国企改革，国资委党委委员、副主任李镇表示，各地、各中央企业必须态度坚决，积极推进整治、积累经验。 今年以来，央企存量资产处置明显提速。近日，挂牌15个月、两度降价的 航天长峰 旗下资产以首次挂牌价七折成交；招商局集团旗下的码头资产以5360万元转让给舟山市定海区属国资；航天科工旗下火箭公司29.59%股权由武汉投控以约33亿元摘牌……北京产权交易所数据显示，今年前10个月，服务国企出清“两资”（低效、无效资产）回笼资金295.8亿元，其中处置亏损企业股权交易金额230.25亿元，同比增长18.41%。 无关多元资产出清提速 “对于明显的无关多元，各单",
-     "source": "东方财富股票",
-     "zh": "以退为进、布局向优 央企“无关多元”资产处置提速"
-    },
-    {
-     "title": "上市公司高质量发展（四）| 并购重组是上市公司高质量发展的重要工具",
-     "link": "http://finance.eastmoney.com/news/1355,202611253938857335.html",
-     "pubDate": "Wed, 25 Nov 2026 01:42:30 +0800",
-     "summary": "■ 上市公司高质量发展（四） □ 杨成长、阮晓琴、王婧文 并购重组是资本市场优化资源配置的基础性工具，也是上市公司突破内生增长约束、提升产业竞争力和实现高质量发展的重要路径。近年来，在新“国九条”“科创板八条”“并购六条”等政策推动下，A股并购重组数量和金额明显回升，产业并购、科技并购和上市公司之间吸收合并日趋活跃。但与交易热度持续上升相比，上市公司并购后的业绩兑现、协同效应和市值创造表现仍明显分化。市场对上市公司单纯依靠并购扩大规模的认可度不断下降，产业逻辑和整合实效成为更核心的评判标准。上市公司要真正用好并购重组，必须从注重完成交易向创造价值转变，根据并购目的和产业特征选择合适的并购模式，",
-     "source": "东方财富股票",
-     "zh": "上市公司高质量发展（四）| 并购重组是上市公司高质量发展的重要工具"
-    },
-    {
-     "title": "电力设备 电网投资+算电协同 订单空间进一步打开",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938856789.html",
-     "pubDate": "Wed, 25 Nov 2026 01:42:19 +0800",
-     "summary": "11月23日， 特锐德 发布预中标公告称，公司成为国家电网2026年华东区域第二次联合采购10kV变压器、10kV柱上变压器台成套设备框架协议项目推荐中标候选人，预计中标金额约为2.39亿元。同批公示中， 三星电气 子公司预中标约为2.78亿元。此外，还有多家上市公司陆续中标国家电网2026年第五次变电设备招标项目。 上海证券报记者采访获悉，主网高压设备、 特高压 招标同步推进，叠加海外及AIDC算电配套需求释放， 电力 设备行业订单储备维持高位。 电网招标放量 分品类订单持续落地 据行业招标统计，截至9月底，今年以来 特高压 设备累计招标约329亿元，超过2024年、2025年全年规模。 近",
-     "source": "东方财富股票",
-     "zh": "电力设备 电网投资+算电协同 订单空间进一步打开"
-    },
-    {
      "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
      "pubDate": "Tue, 24 Nov 2026 17:30:26 GMT",
      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
      "source": "CNBC",
      "zh": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:30:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:15:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
      "title": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性",
@@ -2455,38 +2487,6 @@
      "summary": "英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。 周二，美股盘初，标普500指数跌0.90%，道琼斯工业平均指数跌0.20%，纳斯达克综合指数跌1.43%，纳斯达克100指数跌1.7%，费城半导体指数一度大跌9%。 半导体ETF跌5.2%，在美股盘初领跌行业ETF，科技行业ETF跌3.05%，全球科技股指数ETF跌2.94%，网络股指数ETF跌1.13%。 个股方面，英伟达跌8%，Anthropic跌14%破发，ADI跌14.9%，美光跌9.4%，闪迪跌9.6%，AMD跌10.4%，SK海力士ADR、英特尔、希捷科技、Lumentum、C",
      "source": "华尔街见闻",
      "zh": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌"
-    },
-    {
-     "title": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist",
-     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-     "pubDate": "Tue, 24 Nov 2026 16:06:07 GMT",
-     "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-     "source": "CNBC",
-     "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
-    },
-    {
-     "title": "摩根大通：物理AI“ChatGPT时刻”最早明年到来",
-     "link": "https://wallstreetcn.com/articles/3786601",
-     "pubDate": "Tue, 24 Nov 2026 23:51:36 +0800",
-     "summary": "人形机器人与物理AI正从技术演示迈向真实场景部署，行业规模化落地的拐点可能比预期来得更早。 11月24日，摩根大通亚太股票研究团队发布最新行业深度报告， 认为多模态模型进步、数据积累、政策支持与商业化执行正在形成合力，推动物理AI进入S曲线加速阶段。 该行预计，物理AI的“ChatGPT时刻”最乐观有望于2027年到来。 这一判断也得到产业界的呼应。在摩根大通亚太科技创新与增长（TIG）会议上，机器人整机厂商、数据基础设施商及模型开发商的高管普遍认为，模型能力提升只是起点，真正决定行业胜负的将是可扩展的数据管道、真实场景部署形成的反馈闭环，以及客户能够切实感知的投资回报（ROI）。 物理AI突",
-     "source": "华尔街见闻",
-     "zh": "摩根大通：物理AI“ChatGPT时刻”最早明年到来"
-    },
-    {
-     "title": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平",
-     "link": "https://wallstreetcn.com/articles/3786623",
-     "pubDate": "Tue, 24 Nov 2026 23:51:21 +0800",
-     "summary": "巴西新季咖啡供应加速流入市场，此前持续困扰市场的库存紧张局面出现缓解迹象。 周二， 阿拉比卡咖啡期货下跌，盘中最大跌幅达2%。此前，ICE交易所监管仓库库存单日激增19%，至逾26.8万袋，创1998年以来最大单日增幅 ，连续第五个交易日增长，也抹去了此前两周的累计涨幅。 本月早些时候，阿拉比卡库存一度跌至1999年以来最低水平。历史性低库存令市场容易受到逼仓冲击，也限制了咖啡期货的下行空间。如今，随着巴西新季咖啡陆续运抵欧洲，供应紧张局面开始松动。 尽管美国农业部预计2026-27年度全球咖啡产量将创下1.897亿袋的历史纪录，但此前的低库存仍是市场定价的重要支撑，供应改善能否持续将成为后续",
-     "source": "华尔街见闻",
-     "zh": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平"
-    },
-    {
-     "title": "市场低估了美伊战争重燃的风险？",
-     "link": "https://wallstreetcn.com/articles/3786621",
-     "pubDate": "Tue, 24 Nov 2026 23:51:00 +0800",
-     "summary": "伊朗拒绝谈判的强硬姿态与德黑兰在霍尔木兹海峡不断升级的行动，正将美伊对抗推向新的危险边缘，而市场对这一风险的定价或许远远不足。 据新华社周二报道，伊朗议长称伊方条件落实前不会与美谈判。 据伊朗法尔斯通讯社24日报道，伊朗伊斯兰议会议长卡利巴夫当天表示，伊朗对美国的立场明确且不会改变，在伊朗提出的七项条件得到落实之前，“不会采取任何行动，也不会进行任何谈判”。 与此同时，据彭博分析， 伊朗在霍尔木兹海峡的军事与贸易动作持续升温，驶入海湾的空载油轮数量已较战前下降40%，全球能源市场面临的潜在冲击不容忽视。 分析人士指出，对于目前\"不战不和\"的僵局，德黑兰的承受空间正在收窄。 伊朗要么接受特朗普所",
-     "source": "华尔街见闻",
-     "zh": "市场低估了美伊战争重燃的风险？"
     }
    ]
   },
@@ -2496,6 +2496,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics",
+     "link": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics",
+     "pubDate": "Tue, 24 Nov 2026 18:27:32 +0000",
+     "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
+     "source": "Live Science",
+     "zh": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics"
+    },
     {
      "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",
      "link": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week",
@@ -2607,14 +2615,6 @@
      "summary": "The BepiColombo spacecraft has overcome a last-minute computer glitch to enter orbit around Mercury — the 2nd craft in history to orbit the closest planet to the sun.",
      "source": "Live Science",
      "zh": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?"
-    },
-    {
-     "title": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?",
-     "link": "https://www.livescience.com/archaeology/gold-weapons-or-a-rosetta-stone-which-archaeological-treasure-would-you-most-like-to-discover",
-     "pubDate": "Mon, 23 Nov 2026 22:20:38 +0000",
-     "summary": "From ancient coins to long-lost texts, archaeologists uncovered countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
-     "source": "Live Science",
-     "zh": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?"
     },
     {
      "title": "Many languages, one common neural code",

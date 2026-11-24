@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 14:52:06",
+ "generated_at": "2026/11/24 14:57:33",
  "recent_days": 7,
  "industries": [
   {
@@ -170,28 +170,12 @@ window.INDUSTRY_DATA = {
      "zh": "Finding faster quantum algorithms with agents and formal verification"
     },
     {
-     "title": "How to Use AI Tools to Learn Data Science Faster in 2026",
-     "link": "https://www.kdnuggets.com/how-to-use-ai-tools-to-learn-data-science-faster-in-2026",
-     "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
-     "summary": "Discover how to combine AI assistants, coding tools, and adaptive platforms to cut your learning curve and build practical skills more efficiently.",
-     "source": "KDnuggets",
-     "zh": "How to Use AI Tools to Learn Data Science Faster in 2026"
-    },
-    {
      "title": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文",
      "link": "https://zhidx.com/p/613444.html",
      "pubDate": "Mon, 23 Nov 2026 22:26:16 +0800",
      "summary": "智东西 编译 | 云鹏 编辑 | 心缘 智东西11月23日消息，刚刚， 英伟达官宣，恢复黄仁勋总裁、首席执行官及董事职务。 ▲英伟达官方声明 黄仁勋说道： “我很荣幸能够重返英伟达， 在一场新工业革命的开端，领导这家全球最具影响力的科技公司之一…… 我迫不及待地想要重返工作岗位。” 官方新闻中提到，董事会与黄仁勋会谈， 对其坦诚态度及领导英伟达的能力表示满意，一致投票决定恢复其职务。 此前任命的临时CEO科莱特·克雷斯（Colette Kress）继续担任CFO，曾明确表示董事会不考虑邀请黄仁勋回归的哈维·C·琼斯（Harvey C. Jones），继续担任董事会主席。 美国总统 特朗普 随即",
      "source": "智东西",
      "zh": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文"
-    },
-    {
-     "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
-     "link": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
-     "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
-     "summary": "Compare five lightweight ways to give AI agents tools without an MCP server, from a Python dispatcher to framework tools, REST adapters, subprocesses, and webhooks, and learn when MCP becomes worth adding.",
-     "source": "KDnuggets",
-     "zh": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools"
     },
     {
      "title": "百灵甩出健康模型全家桶：开源、专业、死磕智效比",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "「毫无疑问，超级智能已经到来。欢迎来到奇点。」",
      "source": "机器之心",
      "zh": "Meta亚历山大王：超级智能即将到来，AI将接管一切科学研究"
+    },
+    {
+     "title": "为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075779&idx=1&sn=636885b17d34d106010c6d8fbe0fb5bb",
+     "pubDate": "Mon, 23 Nov 2026 17:30:00 +0800",
+     "summary": "从单卡到超节点，AI推理基础设施需要一座「数字实验室」",
+     "source": "机器之心",
+     "zh": "为下一代智算系统搭建开放模拟实验室，清华、无问芯穹开源系统级仿真平台Uni3Sim"
+    },
+    {
+     "title": "Token生意爆发！云知声Q3毛利飙升近80%，股价单日大涨21.7%",
+     "link": "https://zhidx.com/p/613322.html",
+     "pubDate": "Mon, 23 Nov 2026 17:29:49 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 智东西11月23日报道，今天，港股AI公司 云知声 发布2026年第三季度经营情况。该季度，云知声单季实现收入 约3.44亿元 ，同比增长 53.3% ；毛利约 1.44亿元 ，同比增长 79.6% ，毛利率提升至41.8%。其中，收入增速创云知声2025年6月上市以来单季度新高。 这一业绩也带动云知声股价大幅拉升，截至今日港股收盘，其股价大涨21.70%，报46.10港元/股。 就在三天前， 云知声刚刚被纳入恒生科技指数 ，相关调整将于12月7日正式生效。此次恒科成份股由30只扩容至50只，并首次设立“收入增长组别”，仅有10个席位。云知声与中际旭创",
+     "source": "智东西",
+     "zh": "Token生意爆发！云知声Q3毛利飙升近80%，股价单日大涨21.7%"
     }
    ]
   },
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Coventry University leads £6 million research into recycled metals for advanced manufacturing",
+     "link": "https://roboticsandautomationnews.com/2026/11/24/coventry-university-leads-6-million-research-into-recycled-metals-for-advanced-manufacturing/107584/",
+     "pubDate": "Tue, 24 Nov 2026 06:51:20 +0000",
+     "summary": "Coventry University is leading pioneering research exploring how recycled steel and aluminium could be used in next generation aerospace, automotive and construction applications. As world leaders bring COP31 – the most prestigious global summit for action on climate change – to an end, researchers ",
+     "source": "Robotics & Automation",
+     "zh": "Coventry University leads £6 million research into recycled metals for advanced manufacturing"
+    },
+    {
      "title": "Yarbo opens SDK beta to developers for modular yard robots",
      "link": "https://roboticsandautomationnews.com/2026/11/24/yarbo-opens-sdk-beta-to-developers-for-modular-yard-robots/107578/",
      "pubDate": "Tue, 24 Nov 2026 06:34:07 +0000",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Motorsport is preparing to enter a new dimension as Airspeeder develops a racing series featuring electric flying cars capable of speeds exceeding 120 km/h, with pilots controlling their aircraft remotely using augmented reality technology. The company has named Australian navigation technology spec",
      "source": "Robotics & Automation",
      "zh": "Flying race cars take to the skies as Airspeeder partners with Advanced Navigation"
-    },
-    {
-     "title": "Robotaxi market forecast to reach $179 billion by 2034, says Polaris Market Research",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/robotaxi-market-forecast-to-reach-179-billion-by-2034-says-polaris-market-research/107548/",
-     "pubDate": "Mon, 23 Nov 2026 22:02:16 +0000",
-     "summary": "The global robotaxi market is forecast to grow from $486.75 million in 2025 to approximately $179.4 billion by 2034, according to a new report from Polaris Market Research. The research projects a compound annual growth rate of 92.8 percent between 2026 and 2034, reflecting expectations of rapid exp",
-     "source": "Robotics & Automation",
-     "zh": "Robotaxi market forecast to reach $179 billion by 2034, says Polaris Market Research"
     },
     {
      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -1010,6 +1010,14 @@ window.INDUSTRY_DATA = {
      "zh": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E"
     },
     {
+     "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+     "link": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
+     "pubDate": "Mon, 23 Nov 2026 11:27:12 -0500",
+     "summary": "The decision followed a promise by the utilities to allow ISO-NE&rsquo;s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
+     "source": "Utility Dive",
+     "zh": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue"
+    },
+    {
      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency",
      "link": "https://www.pv-tech.org/jinkosolar-35-24-topcon-perovskite-tandem-cell-efficiency/",
      "pubDate": "Mon, 23 Nov 2026 16:22:15 +0000",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The CEO of US thin-film PV manufacturer First Solar has called for bipartisan policy support for US tariff programmes and praised the measures introduced by the Trump administration to limit non-US solar companies’ access to the US market.",
      "source": "PV Tech",
      "zh": "First Solar CEO backs bipartisan support for Trump’s Section 232 tariffs"
-    },
-    {
-     "title": "Lebanon looks to ramp up solar, storage deployments",
-     "link": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
-     "pubDate": "Mon, 23 Nov 2026 12:09:36 +0000",
-     "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to ramp up solar, storage deployments appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Lebanon looks to ramp up solar, storage deployments"
     }
    ]
   },
@@ -1762,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "新鲜感之后，陪伴机器人如何被用起来？",
-     "link": "https://www.tmtpost.com/8212446.html",
-     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
-     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
-     "source": "钛媒体",
-     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+     "title": "醉酒车主开启辅助驾驶后爬到后排呼呼大睡，被判拘役并处罚金",
+     "link": "https://www.ithome.com/1/031/494.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:44:43 GMT",
+     "summary": "IT之家 11 月 24 日消息，据杭州临安通报，近期杭州市临安区检察院办理了一起危险驾驶案件，车主毛某在醉酒后开启辅助驾驶，因主驾睡得难受爬到后排呼呼大睡，车辆触发保护机制停车，路人发现异常报警，男子被判处拘役。 毛某表示，自己原本打算先把车从地下车库开到地面，再叫代驾接手。但驶出地库后，他并未联系代驾，而是设置好回家路线并开启辅助驾驶功能，车辆随即沿路线自动向前行驶。 开出不久，毛某越来越困。因在主驾驶位睡得难受，他迷迷糊糊爬到后排，躺下呼呼大睡。车子开出五六公里后，系统因持续接收不到驾驶员接管信号触发保护机制，缓缓停靠在右侧行车道，警报声随之响起。附近群众发现异常后，连忙拨打报警电话。经",
+     "source": "IT之家",
+     "zh": "醉酒车主开启辅助驾驶后爬到后排呼呼大睡，被判拘役并处罚金"
+    },
+    {
+     "title": "隐藏款 1/64 概率：柯达 SlideTag 追踪器盲盒开售，配 1.54 英寸 6 色电子墨水屏",
+     "link": "https://www.ithome.com/1/031/493.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:42:50 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 9to5Mac 昨日（11 月 23 日）发布博文， 报道称柯达（Kodak）联合硬件厂商 Reto 推出全新防丢追踪器 SlideTag，售价为 35 美元 （IT之家注：现汇率约合 233.8 元人民币） ，并以盲盒形式销售，隐藏款抽中概率约为 1/64。 设计灵感方面，官方表示该产品灵感来自柯达经典的 35 毫米胶片幻灯片，整体走复古、便携路线。 在查找兼容性方面，SlideTag 不仅支持 iPhone 的“查找”（Find My）网络，也兼容安卓手机的“查找中心”（Find Hub）网络，用户可像使用 AirTag 一样，在手机应用中定位钥",
+     "source": "IT之家",
+     "zh": "隐藏款 1/64 概率：柯达 SlideTag 追踪器盲盒开售，配 1.54 英寸 6 色电子墨水屏"
+    },
+    {
+     "title": "马斯克 Neuralink 临床演示视频公开：脑机接口受试者凭意念畅玩《GTA 6》",
+     "link": "https://www.ithome.com/1/031/492.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:38:43 GMT",
+     "summary": "IT之家 11 月 24 日消息，马斯克旗下脑机接口公司 Neuralink 前天宣布其一位瘫痪患者成功通过脑机接口玩上《GTA 6》。 Neuralink 今日放出了一段临床试验的直播录像，展示了这位受试者 Billy（IT之家注：因脊髓损伤导致四肢瘫痪）使用植入式脑机接口仅凭意念玩游戏的过程。 Neuralink 表示，为庆祝《侠盗猎车手 6》（GTA 6）发售日，Billy 在公司内部直播活动中使用脑机接口游玩了这款游戏。据介绍，Billy 无需实体手柄，即可通过脑机接口实现双摇杆和 12 个按键的操作。 作为 Neuralink 临床研究参与者，Billy 因脊髓损伤导致四肢瘫痪，目前",
+     "source": "IT之家",
+     "zh": "马斯克 Neuralink 临床演示视频公开：脑机接口受试者凭意念畅玩《GTA 6》"
     },
     {
      "title": "哥伦比亚末端派送时，西语地址确认素材用波哥大本地口音配音，为什么麦德林用户拒收率反而更高？",
@@ -1786,44 +1802,36 @@ window.INDUSTRY_DATA = {
      "zh": "快手生活服务重启服务商和商户补贴"
     },
     {
+     "title": "余承东：华为大折叠手机全球发货量突破 1200 万台",
+     "link": "https://www.ithome.com/1/031/491.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:37:56 GMT",
+     "summary": "IT之家 11 月 24 日消息，在今天的 HUAWEI Mate X8 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布， 华为大折叠手机全球发货量突破 1200 万台 。 目前，发布会正在进行中，IT之家稍后将带来 Mate X8 最新情报。 值得一提的是，余承东今日还发文，宣布鸿蒙终端设备数突破一个亿。他称，这是一个标志性的时刻，鸿蒙生态越过了规模临界点，正式迈入成熟好用、创新增长的新阶段。",
+     "source": "IT之家",
+     "zh": "余承东：华为大折叠手机全球发货量突破 1200 万台"
+    },
+    {
+     "title": "IDC 预测：2027 年智能眼镜全球出货将突破 2622 万台",
+     "link": "https://www.ithome.com/1/031/490.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:37:46 GMT",
+     "summary": "IT之家 11 月 24 日消息，国际数据公司（IDC）今日发布 2027 年中国智能眼镜市场洞察报告。进入 2027 年，智能眼镜行业将进入加速升级阶段，AI 能力、硬件体验和生态协同持续提升，市场定位和发展方向日益清晰。 IDC 认为， 2027 年智能眼镜全球出货量将突破 2622.1 万台 ， 中国突破 450.6 万台 ，显示轻量眼镜主导高端化升级，无显示类聚焦极简与 AI 创新。IT之家附 IDC 市场结构分化如下： 显示轻量眼镜为增长主力：其中 AI 显示眼镜成为产品高端化升级的主导方向；投屏眼镜通过丰富产品线和降低入门门槛，夯实市场基础盘，扩大用户规模。 无显示轻量眼镜聚焦轻量",
+     "source": "IT之家",
+     "zh": "IDC 预测：2027 年智能眼镜全球出货将突破 2622 万台"
+    },
+    {
+     "title": "大众汽车启动新一轮劳资谈判：计划裁员 10 万人，工会威胁罢工",
+     "link": "https://www.ithome.com/1/031/488.htm",
+     "pubDate": "Tue, 24 Nov 2026 06:36:09 GMT",
+     "summary": "IT之家 11 月 24 日消息，据路透社报道，德国大众汽车将于周二与实力强大的工会代表展开新一轮薪资谈判。此前，围绕大众计划进一步裁员、削减成本的重组方案，德国汽车工人已发起抗议，并威胁举行罢工。 来自中国车企日益激烈的竞争、每年数十亿欧元的关税成本，以及快速推进的技术变革，正给全球第二大汽车制造商带来巨大压力，迫使其全面调整全球业务。目前，大众计划裁减约 10 万个工作岗位。 IT之家注意到，德国本土工厂已成为此次重组的焦点。大众计划最早于 2030 年代初关闭旗下四家工厂，并已告知集团在德国的 12 万名员工，德国本土的生产成本已经过高。 首轮谈判将在德国北部城市埃姆登举行。这里拥有大众",
+     "source": "IT之家",
+     "zh": "大众汽车启动新一轮劳资谈判：计划裁员 10 万人，工会威胁罢工"
+    },
+    {
      "title": "黄仁勋回归首日：A股高开回落，机构称估值修复仍待业绩验证",
      "link": "https://www.huxiu.com/article/4908008.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 14:34:46 +0800",
      "summary": "本文来自微信公众号： 界面新闻 ，作者：陆柯言 黄仁勋辞职11天后重返英伟达，给此前一周大幅回调的A股科技股带来一轮集中反弹。 11月24日A股开盘，沪指涨0.82%报3567.84点，深成指涨2.43%报10708.62点，创业板指涨3.88%报2368.70点，科创综指涨3.94%，全市场逾4900只个股上涨。开盘后不久，创业板指涨幅一度扩大至4%以上，上涨个股超过5000只。 英伟达产业链个股成为最直接的受益方向。 光模块龙头天孚通信、中际旭创和新易盛盘中均一度涨超10%，CPO概念指数涨超6%；工业富联开盘5分钟即封住涨停，最新市值超过8300亿元；奥尼电子和林微纳录得20cm涨停，胜",
      "source": "虎嗅",
      "zh": "黄仁勋回归首日：A股高开回落，机构称估值修复仍待业绩验证"
-    },
-    {
-     "title": "曝马斯克的 SpaceX 和特斯拉已委派五名董事负责合并谈判",
-     "link": "https://www.ithome.com/1/031/485.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:28:44 GMT",
-     "summary": "IT之家 11 月 24 日消息，据英国金融时报今日报道， 埃隆 · 马斯克旗下的两家上市公司已任命五名董事，其中三人来自特斯拉、两人来自 SpaceX ，成立两个负责合并谈判的特别委员会。 报道引述知情人士的话称，五名董事分别是来自 SpaceX 的 Roelof Botha 和 Randy Glein，以及来自特斯拉的 Robyn Denholm、Kathleen Wilson-Thompson 和 Jack Hartung。 IT之家注意到，马斯克曾在 SpaceX 上个月的第三季度财报电话会议上表示，将他的人工智能、机器人、电动汽车和航空航天抱负整合在一个企业平台下，将是“一个好主意”",
-     "source": "IT之家",
-     "zh": "曝马斯克的 SpaceX 和特斯拉已委派五名董事负责合并谈判"
-    },
-    {
-     "title": "网络设备制造商 GL.iNet 确认其远程管理服务遭黑客攻击，修复固件已发布",
-     "link": "https://www.ithome.com/1/031/484.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:27:53 GMT",
-     "summary": "IT之家 11 月 24 日消息，网络设备制造商 GL.iNet （广联智通）近日确认其远程管理服务 GoodCloud 一度遭遇黑客利用。 相关攻击路径已被封堵 ， GL.iNet 也针对受影响的路由器和 KVM 设备 发布了安全固件 。 GL.iNet 表示，其远程管理服务中的 MQTT 设备消息服务此前存在消息授权配置错误：客户端无需获得授权即可向其他用户的已连接设备发送管理消息；AstroWarp / SD-WAN 输入处理的另一个缺陷可能导致管理输入即使在 AstroWarp 关闭的情况下也能以管理员权限在受影响的路由器上执行。 黑客利用这些漏洞在部分设备上安装了恶意软件 。 GL.",
-     "source": "IT之家",
-     "zh": "网络设备制造商 GL.iNet 确认其远程管理服务遭黑客攻击，修复固件已发布"
-    },
-    {
-     "title": "美国纽约州给汽车厂商立规矩：禁止为没有持续成本的功能收取订阅费",
-     "link": "https://www.ithome.com/1/031/483.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:24:42 GMT",
-     "summary": "IT之家 11 月 24 日消息，据科技媒体 neowin 今天报道，美国纽约州州长凯西 · 霍楚尔已签署一项法案，自 2027 年 2 月 27 日起，限制汽车厂商和经销商向消费者收取订阅费用的行为。 据报道，如今许多汽车厂商都会推出所谓“订阅服务”，为原本已经安装好的功能名正言顺地收费，例如座椅加热和娱乐功能等。 在这项法案签署之前，汽车经销商莫霍克雪佛兰（Mohawk Chevrolet）总裁 Andy Guelcher 表示，订阅制有助于维持汽车基础售价。消费者可以按照自身需求启用部分功能，因此实际上对汽车售价有益。 霍楚尔则对此表示， 这种“有害的商业行为”进一步推高了纽约人民生活成",
-     "source": "IT之家",
-     "zh": "美国纽约州给汽车厂商立规矩：禁止为没有持续成本的功能收取订阅费"
-    },
-    {
-     "title": "AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器",
-     "link": "https://www.ithome.com/1/031/482.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:20:26 GMT",
-     "summary": "IT之家 11 月 24 日消息，科技媒体 TechRadar 今天（11 月 24 日）发布博文，报道称暗网论坛近期正传播名为 TheMailer 的 AI 网络钓鱼工具， 结合多种商用大模型与自动化邮件测试、个性化定制和反复改写能力，让攻击者持续调整诈骗邮件，直到其成功绕过收件方的垃圾邮件过滤器。 TheMailer 工具由安全厂商 Varonis Threat Labs 研究人员发现，是一个自托管平台，可通过使用者自己的 API 凭证接入 Claude、ChatGPT、Grok、Gemini、Mistral 和 DeepSeek 等多个 AI 服务。 TheMailer 在网络犯罪网络上",
-     "source": "IT之家",
-     "zh": "AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器"
     },
     {
      "title": "腾讯想做什么，姚顺雨真的“交底”了？三个重要问题还没讲清",
@@ -1850,28 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "孟加拉支付通道接入后，投放CPA涨到4.2美元正常吗？"
     },
     {
-     "title": "尼康 ZR 全画幅相机 2.00 固件开放下载：H.265 视频格式支持 RED 色彩科学",
-     "link": "https://www.ithome.com/1/031/480.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:12:32 GMT",
-     "summary": "IT之家 11 月 24 日消息，尼康今天宣布，ZR 全画幅无反相机 2.00 固件现已开放下载。本次更新将让 H.265 视频格式支持 RED 色彩科学，高 ISO 降噪可选择 4 档程度。（下载链接： https://downloadcenter.nikonimglib.com/zh-cn/download/fw/611.html ） 本次更新的详情内容可移步IT之家先前报道查看 。更新前请准备好相机和一张 microSD / CFB / XQD 卡，并确保相机固件为 1.11 版本。当安装了 Z 卡口尼克尔镜头以外的镜头或 FTZ II / FTZ 以外的卡口适配器时，请勿更新照相机固件",
-     "source": "IT之家",
-     "zh": "尼康 ZR 全画幅相机 2.00 固件开放下载：H.265 视频格式支持 RED 色彩科学"
-    },
-    {
      "title": "北航学者发明“电击”梳子治脱发，小鼠实验毛发再生近98%",
      "link": "https://www.huxiu.com/article/4907998.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 14:11:12 +0800",
      "summary": "本文来自微信公众号： 环球科学科研圈 ，作者：环球科学科研圈 一把梳子或许有机会给很多人“从头来过”的机会。 对许多受脱发困扰的人来说，梳子曾经是一件略显扎心的日常用品。眼看发际线一步步退守、发缝日渐宽阔，每次梳头都像是一场“清点库存”的仪式；时间一长，不少人干脆把梳子收进了抽屉，转而向米诺地尔、非那雄胺甚至植发求助。 不过，一把梳子或许有机会给很多人“从头来过”的机会——只是这一次，它靠的不是顺毛的巧劲，而是有点赛博感却经过精密计算的“电击”。最近，北京航空航天大学学者联合香港城市大学等多研究团队，在《自然-通讯》（Nature Communications）发表了一项研究，推出了一种名为“",
      "source": "虎嗅",
      "zh": "北航学者发明“电击”梳子治脱发，小鼠实验毛发再生近98%"
-    },
-    {
-     "title": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障",
-     "link": "https://www.ithome.com/1/031/479.htm",
-     "pubDate": "Tue, 24 Nov 2026 06:08:17 GMT",
-     "summary": "IT之家 11 月 24 日消息，微软总裁布拉德 · 史密斯（Brad Smith）于 11 月 22 日发布警告，表示未来数月全球技术故障风险将持续处于高位， AI 在加速漏洞发现的同时，也放大了快速更新带来的不稳定风险。 IT之家援引博文介绍，史密斯表示未来数月全球技术故障风险仍将居高不下， 而且由于“全球整个信息基础设施实际上都在进行升级改造”，相关风险无法在几周内解决，恐出现更多技术故障。 科技媒体 NeoWin 报道指出，近期全球网络出现大规模、大范围的宕机事件，微软 Exchange、Outlook、Teams 等服务出现较大范围故障后，苹果 App Store、多家银行、航空公司",
-     "source": "IT之家",
-     "zh": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障"
     },
     {
      "title": "B&H Photo Promo Codes and Deals This November 2026",
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "旺仔牛奶也不好卖了。",
      "source": "钛媒体",
      "zh": "中国旺旺，跋涉越冬"
+    },
+    {
+     "title": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？",
+     "link": "https://www.tmtpost.com/8215303.html",
+     "pubDate": "Tue, 24 Nov 2026 12:37:40 +0800",
+     "summary": "入局AI4S，功夫其实在AI之外的部分。",
+     "source": "钛媒体",
+     "zh": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？"
     },
     {
      "title": "巴西手游接入Pix后，充值到账和回款周期为什么还是对不上？",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "通威集团刘汉元：多晶硅环节最有条件实现理性竞争",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938391939.html",
+     "pubDate": "Tue, 24 Nov 2026 14:48:06 +0800",
+     "summary": "“今年冬天也许不会那么寒冷，转机或在明年春天。”近日，通威集团董事局主席刘汉元在接受上证报记者采访时表示，若无技术突破加持，光伏行业或在2027年迎来周期底部；若有技术方案破解当前产业痛点，行业触底节奏有望加快。 刘汉元认为，尽管光伏制造赛道汇集大量市场主体，但多晶硅环节最有条件实现理性竞争。该环节市场参与主体相对更少，绝大部分产能集中于国内，超八成产能由前五至六家企业掌握，更具备形成行业自律、开展理性市场化竞争的基础。 “促进行业自律并营造协同共生的产业生态，是行业各方的共同诉求。该共识的凝聚有望持续优化行业竞争环境。”刘汉元进一步称，当前行业呈现的是阶段性供需失衡，并非长期绝对过剩。优质先",
+     "source": "东方财富股票",
+     "zh": "通威集团刘汉元：多晶硅环节最有条件实现理性竞争"
+    },
+    {
      "title": "China warns Jensen Huang Nvidia comeback won't end 'malicious' US risks",
      "link": "https://seekingalpha.com/news/4675985-china-warns-jensen-huang-nvidia-comeback-wont-end-malicious-us-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 01:47:27 -0500",
@@ -2282,6 +2290,46 @@ window.INDUSTRY_DATA = {
      "zh": "Cmb.Tech announces $0.21 interim dividend and $0.44 share premium distribution"
     },
     {
+     "title": "黄仁勋复职难消市场疑虑，AI概念股反弹恐难持续",
+     "link": "http://stock.eastmoney.com/news/1611,202611243938391561.html",
+     "pubDate": "Tue, 24 Nov 2026 14:46:12 +0800",
+     "summary": "据外媒报道，黄仁勋回归 英伟达 的消息推动相关公司股价上涨，但涨幅不足以弥补其自黄仁勋辞职以来的累计跌幅。这表明，投资者对于 英伟达 向客户提供融资的前景以及整个AI交易市场仍心存疑虑。黄仁勋复职还可能引发监管问题，并使外界对 英伟达 董事会的独立性产生质疑。Counterpoint Research首席分析师Yang Wang表示，CEO人选问题已解决，但公司治理和地缘政治方面的问题仍未得到解决。在英伟达领导层危机爆发之前就一直困扰市场的更广泛问题，预计仍将持续，包括AI融资、盈利能力、监管以及公众对 数据中心 建设的抵制。Ocean Park 资产管理 公司首席投资官James St. A",
+     "source": "东方财富股票",
+     "zh": "黄仁勋复职难消市场疑虑，AI概念股反弹恐难持续"
+    },
+    {
+     "title": "赣锋锂电总裁肖海燕：锂进入“政策定价”时代 如何占据成本安全双重主动？",
+     "link": "http://stock.eastmoney.com/news/11219,202611243938384072.html",
+     "pubDate": "Tue, 24 Nov 2026 14:45:08 +0800",
+     "summary": "“做 电池 的人赚不到 锂 价大涨大跌的钱，行业更希望 锂 价是平稳的。”在日前举行的第十一届动力 电池 应用国际峰会上，江西赣锋 锂 电科技股份有限公司（下称“赣锋锂电”）总裁肖海燕如是强调。 赣锋锂电系“锂王” 赣锋锂业 （002460.SZ/01772.HK）控股子公司，主要负责 赣锋锂业 下游的 电池 制造与应用环节，是公司上下游一体化战略中的关键支点。肖海燕强调，从全球锂资源供应格局来看，上游资源多元分布，而中游冶炼与下游产能向中国集中，这种资源与冶炼地理的错位，使得中国锂原料对外依存度达到60%-70%，供应链韧性正在成为行业核心竞争力。 回溯过往，锂价经历多轮大起大落。标志性的大",
+     "source": "东方财富股票",
+     "zh": "赣锋锂电总裁肖海燕：锂进入“政策定价”时代 如何占据成本安全双重主动？"
+    },
+    {
+     "title": "高盛警告美联储或激进加息，美股暴跌背后藏着更大风险",
+     "link": "http://stock.eastmoney.com/news/1768,202611243938392029.html",
+     "pubDate": "Tue, 24 Nov 2026 14:44:21 +0800",
+     "summary": "美股持续下跌之际，华尔街开始担忧，美联储正在推进的加息周期可能比市场此前预计的更加严厉。 高盛 全球对冲基金客户业务主管托尼·帕斯夸里耶洛（Tony Pasquariello）在最新市场报告中提出一个关键问题：美联储究竟只是在撤销此前的宽松政策，还是准备采取更具冲击力的紧缩行动？ 据ZeroHedge 11月20日报道，帕斯夸里耶洛认为， 虽然市场已经计入未来一年大约三次加息，但投资者可能尚未充分考虑美联储因通胀持续高企而采取更激进政策的情景。 这一担忧出现之际，美股正经历剧烈调整。 英伟达 等AI龙头股持续承压，而此前被视为市场上涨主要动力的科技企业盈利增长，也开始受到重新审视。 美联储可能",
+     "source": "东方财富股票",
+     "zh": "高盛警告美联储或激进加息，美股暴跌背后藏着更大风险"
+    },
+    {
+     "title": "前10月广东省规模以上工业增加值同比增长6.1%",
+     "link": "http://finance.eastmoney.com/news/1355,202611243938390179.html",
+     "pubDate": "Tue, 24 Nov 2026 14:43:12 +0800",
+     "summary": "新华财经北京11月24日电广东省统计局发布2026年1—10月份广东经济运行简况。1—10月份，广东省规模以上工业增加值同比增长6.1%。分门类看，采矿业增加值增长14.7%，制造业增长5.6%， 电力 、热力、燃气及水生产和供应业增长7.9%。 重点行业增长较快， 计算机 、 通信 和其他 电子 设备制造业增加值增长11.4%，电气机械和器材制造业增长5.0%， 电力 、热力生产和供应业增长9.2%， 汽车 制造业增长11.9%，专业设备制造业、 通用设备 制造业分别增长14.5%、9.2%。 新动能产业发展壮大，先进制造业、高技术制造业增加值分别增长6.8%、11.4%，高于全部规模以上工",
+     "source": "东方财富股票",
+     "zh": "前10月广东省规模以上工业增加值同比增长6.1%"
+    },
+    {
+     "title": "赛诺菲宣布将以410亿美元现金收购Insmed",
+     "link": "http://stock.eastmoney.com/news/11228,202611243938392886.html",
+     "pubDate": "Tue, 24 Nov 2026 14:43:07 +0800",
+     "summary": "11月24日， 赛诺菲 宣布已达成协议，收购生物制药公司 Insmed Inc orporated。本次收购涵盖Brinsupri（brensocatib）与Arikayce（阿米卡星脂质体吸入混悬液），以及III期临床项目曲前列尼尔棕榈酸酯吸入粉雾剂（TPIP）。根据合并协议条款， 赛诺菲 将以每股175美元现金收购Insmed全部流通股，对应总股权价值约410亿美元/376亿欧元。交易预计于2027年上半年完成。本次拟议收购预计不会对 赛诺菲 2026年财务指引产生任何影响。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "赛诺菲宣布将以410亿美元现金收购Insmed"
+    },
+    {
      "title": "BW LPG declares $1.30 dividend",
      "link": "https://seekingalpha.com/news/4675987-bw-lpg-declares-130-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 01:32:41 -0500",
@@ -2296,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
      "source": "CNBC",
      "zh": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts"
+    },
+    {
+     "title": "The Jensen put",
+     "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 06:30:04 GMT",
+     "summary": "Plus, Capex or die trying",
+     "source": "Financial Times",
+     "zh": "The Jensen put"
     },
     {
      "title": "黄仁勋复职，美国国会一片哗然：民主党誓言彻查特朗普和英伟达，共和党也不买账",
@@ -2322,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Valneva reports results for the first nine months of 2026; remains on track to achieve 2026 product sales guidance"
     },
     {
-     "title": "知情人士：黄仁勋在复职前向董事会坦然披露了更多婚外情情况",
-     "link": "http://finance.eastmoney.com/news/11158,202611243938376453.html",
-     "pubDate": "Tue, 24 Nov 2026 14:15:46 +0800",
-     "summary": "11月24日，据华尔街日报， 英伟达 CEO黄仁勋周日向公司董事会披露了更多婚外情，随后董事会一致投票决定让其复职。报道援引未具名消息人士称， 英伟达 董事会周日与黄仁勋举行了长达数小时的会议，黄仁勋在会上披露了超出此前广泛报道的两段婚外情之外的更多婚外情。报道称，此事背后有美国总统特朗普的幕后推动，旨在让黄仁勋在被强制辞去这家 AI芯片 制造商CEO职务不到两周后回归。 东财图解·加点干货 （文章来源：财闻）",
-     "source": "东方财富资讯",
-     "zh": "知情人士：黄仁勋在复职前向董事会坦然披露了更多婚外情情况"
-    },
-    {
      "title": "BW LPG GAAP EPS of $2.05",
      "link": "https://seekingalpha.com/news/4675984-bw-lpg-gaap-eps-of-205?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 01:12:44 -0500",
@@ -2354,44 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "创业板午后涨幅收窄至1%以内，机器人持续爆发，算力硬件反弹，恒科指跌超1%，科网股集体回落"
     },
     {
-     "title": "美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938371697.html",
-     "pubDate": "Tue, 24 Nov 2026 13:59:22 +0800",
-     "summary": "当地时间11月23日，黄仁勋重返位于圣克拉拉的 英伟达 公司总部，受到员工的热烈欢迎。 现场视频显示，面对挤满中庭鼓掌欢呼“Jensen”的员工，黄仁勋右手置于胸前，环视四周多次言谢，并开玩笑称，“今天是我第一天上班”。 他两次向员工鞠躬致歉，坦言自己“犯了一些非常严重的错误”，并承诺“这一次，我会成为一名更好的CEO”。 特朗普：我曾跟 英伟达 董事会谈过，我说服了他们，这件事是我促成的，黄仁勋没有做错任何事 当地时间11月23日，美国总统特朗普接受CNBC近一小时采访，详细讲述了自己如何说服 英伟达 董事会。他透露，自己不仅与董事会成员直接和间接沟通，还安排副总统万斯参与协调，并在向司法和",
-     "source": "东方财富资讯",
-     "zh": "美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋"
-    },
-    {
-     "title": "韩国成立联合工作组 加强对非法卖空的监管",
-     "link": "http://stock.eastmoney.com/news/1439,202611243938348873.html",
-     "pubDate": "Tue, 24 Nov 2026 13:40:40 +0800",
-     "summary": "韩国金融监督院和韩国交易所联合发布声明称，已成立了一个联合工作组，负责侦测及调查非法卖空行为。国内股市波动加剧之际，当局将开展为期三个月的行动，加强对非法卖空活动的监管。韩国交易所将进行实时监控，金融监督院也将开展密集检查，以发现包括做空激增、交易集中于特定账户等异常活动。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "韩国成立联合工作组 加强对非法卖空的监管"
-    },
-    {
      "title": "商业航天零部件试水现货交易",
      "link": "http://www.eeo.com.cn/2026/1124/1101054.shtml",
      "pubDate": "Tue, 24 Nov 2026 13:40:00 +0800",
      "summary": "一些做星载机构、激光通信终端、小型姿控单机的商业航天配套厂商，均在同步推进标准化定型、小批量备货的尝试，行业正在跳出“接到订单才启动研制”的传统节奏。",
      "source": "经济观察网",
      "zh": "商业航天零部件试水现货交易"
-    },
-    {
-     "title": "英伟达和美国脑机接口公司合作 推进脑机接口高性能AI计算",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938333918.html",
-     "pubDate": "Tue, 24 Nov 2026 13:11:00 +0800",
-     "summary": "记者获悉，美国 脑机接口 公司Paradromics与 英伟达 达成技术合作，布局下一代 脑机接口 应用所需的高性能AI计算基础设施。Paradromics将把 英伟达 Holoscan与 边缘计算 技术整合进 脑机接口 开发体系。 其中，双方计划将其AI程序内置于脑机接口平台中，以实现将思维更快转化为实时语音。合作将首先聚焦于基于脑机接口的语音恢复，包括直接从神经信号转化为语音，以及通过结合语言模型的多阶段“大脑—文本—语音”流程，相关工作将于今年启动。2027年，合作将进一步扩展至高自由度运动控制，并整合视觉—语言—动作模型，以实现与物理系统更具情境感知能力的交互。 英伟达 表示，将和Pa",
-     "source": "东方财富资讯",
-     "zh": "英伟达和美国脑机接口公司合作 推进脑机接口高性能AI计算"
-    },
-    {
-     "title": "账面收益高达1500万美元！英伟达暴涨 特朗普大赚",
-     "link": "http://finance.eastmoney.com/news/11158,202611243938328275.html",
-     "pubDate": "Tue, 24 Nov 2026 13:08:05 +0800",
-     "summary": "11月24日，财闻海外资讯援引英国《金融时报》报道，在 英伟达 （NVDA.US） 首席执行官黄仁勋复职后，该公司股价大幅反弹超30%， 为美国总统特朗普带来了高达1500万美元的账面收益。 美国政府披露的财务文件显示，截至9月30日，特朗普持有的 英伟达 股票数量最多可能达到37万股。 此前，美国政府道德办公室11月19日公布的一份25页财务申报文件显示，特朗普名下账户今年9月共进行了751笔证券交易。文件显示， 特朗普账户9月买入名单包括 英伟达 、Palantir（PLTR.US）、 SpaceX （SPCX.US）、 特斯拉 （TSLA.US）、CoreWeave（CRWV.US）等。",
-     "source": "东方财富资讯",
-     "zh": "账面收益高达1500万美元！英伟达暴涨 特朗普大赚"
     },
     {
      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
@@ -2442,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "戴文军辞去总裁职务，绝味食品募投项目再延期"
     },
     {
-     "title": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商",
-     "link": "http://stock.eastmoney.com/news/1416,202611243938308368.html",
-     "pubDate": "Tue, 24 Nov 2026 12:48:06 +0800",
-     "summary": "苹果 的可折叠手机iPhone Duo，未来可能被迫依赖于三星的显示屏，分析师郭明錤称 OLED 面板 是 苹果 在谈判筹码方面最棘手的单一组件。 爆料平台Instant Digital最新在 微博 上发文指出，三星在折痕控制、可靠性和制造良率方面占据优势，将使LG Display很难加入iPhone Duo的可折叠显示屏供应链。 苹果 据悉希望支持LG Display成为自己的主要显示屏供应商，LG也参与了苹果折叠屏的早期研发，但该供应商的生产能力及技术仍无法挑战三星。Instant Digital认为，至少在未来五年内，三星显示器仍将是iPhone Duo的核心。 此前，Instant D",
-     "source": "东方财富资讯",
-     "zh": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商"
-    },
-    {
      "title": "China has changed tactics but is still thwarting India&apos;s rise, a U.S. panel says",
      "link": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
      "pubDate": "Tue, 24 Nov 2026 04:27:38 GMT",
@@ -2482,20 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. court orders to proceed with planned ammunition detonation in Iowa"
     },
     {
-     "title": "Lloyds publishes guide on scaling AI responsibly",
-     "link": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 24 Nov 2026 00:01:00 GMT",
-     "summary": "Lloyds Banking Group has provided some insight into its approach to rolling out AI in a responsible way, publishing a guide sharing practical lessons from its experience of scaling the technology.",
-     "source": "Finextra",
-     "zh": "Lloyds publishes guide on scaling AI responsibly"
-    },
-    {
-     "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-     "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-     "pubDate": "Mon, 23 Nov 2026 23:42:17 GMT",
-     "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-     "source": "CNBC",
-     "zh": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO"
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     }
    ]
   },

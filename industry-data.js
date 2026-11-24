@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 05:52:10",
+ "generated_at": "2026/11/25 06:12:10",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
+     "link": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
+     "pubDate": "Tue, 24 Nov 2026 16:00:00 -0600",
+     "summary": "The Trump administration is making a push to reestablish the United States as a major global producer of critical minerals. The federal government is eager to challenge China’s dominance in the sector, as demand for these essential ingredients for clean energy and manufacturing grows exponentially a",
+     "source": "OilPrice",
+     "zh": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned"
+    },
+    {
+     "title": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Inches-Up-as-Gasoline-Holds-Steady.html",
+     "pubDate": "Tue, 24 Nov 2026 16:00:00 -0600",
+     "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose 126,000 barrels in the week ending November 20—the last count before the Thanksgiving holiday. In the week prior, US crude oil inventories rose by 5.3 million barrels. Commercial crude oil inventori",
+     "source": "OilPrice",
+     "zh": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady"
+    },
+    {
      "title": "Where Does Texas' Data Center Boom Go From Here?",
      "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
      "pubDate": "Tue, 24 Nov 2026 15:00:00 -0600",
@@ -898,14 +914,6 @@ window.INDUSTRY_DATA = {
      "zh": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity"
     },
     {
-     "title": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027",
-     "link": "https://oilprice.com/Energy/Energy-General/Canadas-Oilfield-Services-Sector-Is-Gearing-Up-for-a-Stronger-2027.html",
-     "pubDate": "Tue, 24 Nov 2026 12:00:00 -0600",
-     "summary": "Canada’s oilfield services market is ending 2026 stronger than it began. Well spuds fell 3%, and the number of fracked wells fell 5% in the first half, but a sharp second-half pickup, driven by higher commodity prices after the US-Iran war, leaves drilling and completion activity flat for the year m",
-     "source": "OilPrice",
-     "zh": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027"
-    },
-    {
      "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
      "link": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
      "pubDate": "Tue, 24 Nov 2026 12:26:49 -0500",
@@ -922,18 +930,10 @@ window.INDUSTRY_DATA = {
      "zh": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric."
     },
     {
-     "title": "Europe’s Gas Prices Jumped 163% in a Year",
-     "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Prices-Jumped-163-in-a-Year.html",
-     "pubDate": "Tue, 24 Nov 2026 11:00:00 -0600",
-     "summary": "Europe’s gas prices surged to four-year highs in October, with the TTF benchmark futures rising by 12% from the previous month and soaring by 163% from October 2025, amid tightening market balances ahead of the heating season, the latest monthly report by the Gas Exporting Countries Forum (GECF) sho",
-     "source": "OilPrice",
-     "zh": "Europe’s Gas Prices Jumped 163% in a Year"
-    },
-    {
      "title": "TVA touts $1.7B data center deal under new large-load tariff",
      "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
      "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Cogent prepares for first commercial launch with GI tumor treatment",
+     "link": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
+     "pubDate": "Tue, 24 Nov 2026 21:54:24 +0000",
+     "summary": "The FDA has approved Cogent Biosciences’ second-line treatment for gastrointestinal stromal tumors. Ekitna, also known as bezuclastinib, will be administered in combination with Pfizer’s oral kinase inhibitor Sutent. The approval is ...",
+     "source": "Endpoints News",
+     "zh": "Cogent prepares for first commercial launch with GI tumor treatment"
+    },
+    {
      "title": "Why Genomics Won’t Converge on One Technology",
      "link": "https://www.genengnews.com/topics/bioprocessing/why-genomics-wont-converge-on-one-technology/",
      "pubDate": "Tue, 24 Nov 2026 21:36:40 +0000",
@@ -1178,22 +1186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
-     "title": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts",
-     "link": "https://endpoints.news/sabcs26-novartis-jj-unveil-breast-cancer-data-from-biotech-buyouts/",
-     "pubDate": "Tue, 24 Nov 2026 15:41:58 +0000",
-     "summary": "The San Antonio Breast Cancer Symposium kicks off early next month, and abstracts went live Monday. Endpoints News looked at two of them, featuring assets from Novartis' $2 billion upfront deal with ...",
-     "source": "Endpoints News",
-     "zh": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts"
-    },
-    {
-     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
-     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-     "source": "BioPharma Dive",
-     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1224,14 +1216,6 @@ window.INDUSTRY_DATA = {
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
-    },
-    {
-     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
-     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-     "source": "BioPharma Dive",
-     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1280,6 +1264,22 @@ window.INDUSTRY_DATA = {
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
+    },
+    {
+     "title": "FDA again turns back Capricor Duchenne cell therapy",
+     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
+     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+     "source": "BioPharma Dive",
+     "zh": "FDA again turns back Capricor Duchenne cell therapy"
+    },
+    {
+     "title": "Will the first approved psychedelic become a blockbuster?",
+     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
+     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+     "source": "BioPharma Dive",
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1289,6 +1289,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
+     "pubDate": "Tue, 24 Nov 2026 21:47:34 +0000",
+     "summary": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space"
+    },
     {
      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
      "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
@@ -1410,14 +1418,6 @@ window.INDUSTRY_DATA = {
      "zh": "Quantum Space Goes Public as SPACs Return"
     },
     {
-     "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
-     "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-     "pubDate": "Tue, 24 Nov 2026 13:16:26 +0000",
-     "summary": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
-     "source": "Space.com",
-     "zh": "Russia launches Progress 97 cargo ship to the International Space Station (video)"
-    },
-    {
      "title": "Report Urges Congress to Designate Space as Critical Infrastructure",
      "link": "https://payloadspace.com/report-urges-congress-to-designate-space-as-critical-infrastructure/",
      "pubDate": "Tue, 24 Nov 2026 13:08:12 +0000",
@@ -1537,6 +1537,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+     "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+     "pubDate": "Tue, 24 Nov 2026 21:48:06 GMT",
+     "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+     "source": "Dark Reading",
+     "zh": "Webworm APT Slithers Into Networks With Customized SoftEther VPN"
+    },
     {
      "title": "Rackspace shuts down Spot cloud platform after security breach",
      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors"
     },
     {
-     "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
-     "pubDate": "Mon, 23 Nov 2026 16:17:21 GMT",
-     "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
-     "source": "Dark Reading",
-     "zh": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes"
-    },
-    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+     "link": "https://www.techmeme.com/261124/p40#a261124p40",
+     "pubDate": "Tue, 24 Nov 2026 17:05:01 -0500",
+     "summary": "Claude : Anthropic rolls out &ldquo;Install as app&rdquo; in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more &nbsp; &mdash;&nbsp; Open the artifacts you use every day like any other app, and let them do more on your computer",
+     "source": "Techmeme",
+     "zh": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)"
+    },
+    {
      "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)",
      "link": "https://www.techmeme.com/261124/p39#a261124p39",
      "pubDate": "Tue, 24 Nov 2026 16:45:55 -0500",
@@ -1786,6 +1794,14 @@ window.INDUSTRY_DATA = {
      "zh": "Docs: Grubhub is on track for ~$6.4B in GTV and a $97M EBITDA loss in 2026, reflecting heavy marketing and operating costs; Wonder says it&apos;s not pursuing a sale (Valida Pau/The Information)"
     },
     {
+     "title": "An unclassified CIA system was breached in a cyberattack",
+     "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+     "pubDate": "Tue, 24 Nov 2026 21:24:27 +0000",
+     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 27 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "An unclassified CIA system was breached in a cyberattack"
+    },
+    {
      "title": "惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%",
      "link": "https://www.ithome.com/1/031/901.htm",
      "pubDate": "Tue, 24 Nov 2026 21:23:11 GMT",
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Working with AI",
      "link": "https://www.anthropic.com/research/working-with-ai",
      "pubDate": "Tue, 24 Nov 2026 21:07:38 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 33 # Comments: 29",
      "source": "Hacker News",
      "zh": "Working with AI"
     },
@@ -1834,18 +1850,10 @@ window.INDUSTRY_DATA = {
      "zh": "What's going on with the Riemann hypothesis?"
     },
     {
-     "title": "Sources: Jensen Huang said Nvidia doesn&apos;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
-     "link": "https://www.techmeme.com/261124/p34#a261124p34",
-     "pubDate": "Tue, 24 Nov 2026 15:10:00 -0500",
-     "summary": "CNBC : Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy &nbsp; &mdash;&nbsp; Nvidia CEO Jensen Huang on Tuesday struck a conciliatory and remorseful tone while leading his first employee me",
-     "source": "Techmeme",
-     "zh": "Sources: Jensen Huang said Nvidia doesn&apos;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)"
-    },
-    {
      "title": "Ternary Bonsai 2.5 27B",
      "link": "https://prismml.com/news/bonsai-2-5-27b",
      "pubDate": "Tue, 24 Nov 2026 20:08:03 +0000",
-     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 128 # Comments: 38",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 169 # Comments: 55",
      "source": "Hacker News",
      "zh": "Ternary Bonsai 2.5 27B"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
      "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
      "pubDate": "Tue, 24 Nov 2026 19:40:43 +0000",
-     "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 27 # Comments: 0",
+     "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 32 # Comments: 0",
      "source": "Hacker News",
      "zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
     },
@@ -1880,22 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 朋友圈正在失去日常生活。 十年前，人们会在这里晒一顿午饭、抱怨一次加班、记录一场失眠，也会毫无负担地发出一张模糊的照片。如今，频繁出现的更多是工作转发、产品推广，以及旅行、结婚、生子等经过筛选的重要节点。 生活没有停止，只是越来越少被放进朋友圈。 有意思的是，人们对朋友圈的依赖并没有因此消失。我们依然习惯在睡前、通勤途中或者工作间隙打开朋友圈，看看身边的人最近在做什么，却越来越少主动让别人知道自己过得怎么样。 过去，发朋友圈是一件随手就能完成的事。现在，一些人在按下发送键之前，需要考虑领导会不会看到、同事会不会多想、亲戚会不会追问，以及自己的观点会",
      "source": "虎嗅",
      "zh": "朋友圈进入集体大失声时代"
-    },
-    {
-     "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-     "link": "https://grafana.com/grafana/download",
-     "pubDate": "Tue, 24 Nov 2026 19:23:44 +0000",
-     "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 84 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)"
-    },
-    {
-     "title": "Compiling web applications into verified operations for AI agents",
-     "link": "https://protocolis.co/paper/",
-     "pubDate": "Tue, 24 Nov 2026 19:12:02 +0000",
-     "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998 Points: 30 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Compiling web applications into verified operations for AI agents"
     },
     {
      "title": "车规级电容涨价了，车企正在失去大客户待遇",
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games"
+    },
+    {
+     "title": "中国食品品牌的“第二次出海”",
+     "link": "https://www.huxiu.com/article/4908185.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 00:10:37 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：许恒 食品，其实是中国走向世界最早的贸易与文化载体。 古代丝绸之路上驼铃悠扬、千帆竞发，茶叶、生姜、桃李等中国风物沿着商路向西传播，制糖技艺与饮馔文化也随之远播南洋、中东与欧洲。 到了近代，有文字记载的第一家海外中餐馆在1850年的美国诞生，此后百余年间，有华人的地方就有中餐，红金的招牌下氤氲着陌生又诱人的锅气，那是世界认识中国的第一张味觉名片。 时至今天，中华饮食文化的全球热度仍在持续攀升：中式新茶饮开在全球各大都市的繁华地段，火锅、麻辣烫俘获各国食客味蕾，甚至#BecomingChinese（像中国人一样生活）词条下喝粥饮茶等中式养生饮食一次次在全",
+     "source": "虎嗅",
+     "zh": "中国食品品牌的“第二次出海”"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "2026 tech gift guide for Apple users",
+     "link": "https://9to5mac.com/2026/11/24/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
+     "pubDate": "Tue, 24 Nov 2026 22:07:04 +0000",
+     "summary": "Black Friday week is here, so it’s officially time to start checking gifts off your list. For my 2026 tech gift guide, I’m recommending technology products that I’ve personally used all year. Each of these products has been especially useful this year, and they’ll make great gifts for the Apple user",
+     "source": "9to5Mac",
+     "zh": "2026 tech gift guide for Apple users"
+    },
     {
      "title": "Deal: the Samsung Galaxy Z Fold8 is $350 off during Amazon's Black Friday sale",
      "link": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_is_350_off_during_amazons_black_friday_sale-news-75619.php",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "The biggest limitations of ChatGPT"
     },
     {
-     "title": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals",
-     "link": "https://9to5mac.com/2026/11/24/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
-     "pubDate": "Tue, 24 Nov 2026 18:54:37 +0000",
-     "summary": "The holidays are often the best time to subscribe to streaming services at deep discounts, and that’s true again this year. Here are the best Black Friday deals that are already live for HBO Max, Peacock, Apple TV, and more. [ Updated to add Disney+ and Hulu deal.] more…",
-     "source": "9to5Mac",
-     "zh": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals"
-    },
-    {
      "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look",
      "link": "https://9to5google.com/2026/11/24/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
      "pubDate": "Tue, 24 Nov 2026 18:41:11 +0000",
@@ -2250,12 +2250,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "FHFA approves FICO 10T, sees broad rollout in September 2028",
-     "link": "https://seekingalpha.com/news/4676392-fhfa-approves-fico-10t-sees-broad-rollout-in-september-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:46:27 -0500",
+     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+     "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+     "pubDate": "Tue, 24 Nov 2026 22:07:45 GMT",
+     "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+     "source": "CNBC",
+     "zh": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
+    },
+    {
+     "title": "Helium Evolution GAAP EPS of C$0.00",
+     "link": "https://seekingalpha.com/news/4676405-helium-evolution-gaap-eps-of-c000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:05:33 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FHFA approves FICO 10T, sees broad rollout in September 2028"
+     "zh": "Helium Evolution GAAP EPS of C$0.00"
+    },
+    {
+     "title": "Qfin Holdings Non-GAAP EPADS of $0.51, revenue of $460.67M beats by $20.76M",
+     "link": "https://seekingalpha.com/news/4676403-qfin-holdings-non-gaap-epads-of-051-revenue-of-46067m-beats-by-2076m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:03:49 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Qfin Holdings Non-GAAP EPADS of $0.51, revenue of $460.67M beats by $20.76M"
+    },
+    {
+     "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+     "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+     "pubDate": "Tue, 24 Nov 2026 22:03:01 GMT",
+     "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+     "source": "CNBC",
+     "zh": "Saudi national charged in OpenAI bugging to be released on $1 million bond"
+    },
+    {
+     "title": "PennantPark outlines AKW exit in 18 to 24 months as supplemental dividends conclude in December",
+     "link": "https://seekingalpha.com/news/4676402-pennantpark-outlines-akw-exit-in-18-to-24-months-as-supplemental-dividends-conclude-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:02:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PennantPark outlines AKW exit in 18 to 24 months as supplemental dividends conclude in December"
+    },
+    {
+     "title": "Ambarella plunges 44% after hours on earnings miss",
+     "link": "https://seekingalpha.com/news/4676401-ambarella-plunges-44-after-hours-on-earnings-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:01:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ambarella plunges 44% after hours on earnings miss"
+    },
+    {
+     "title": "HP in charts: Personal Systems rises 13.5% Y/Y on commercial PC gains",
+     "link": "https://seekingalpha.com/news/4676349-hp-in-charts-personal-systems-rises-135-yy-on-commercial-pc-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:01:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HP in charts: Personal Systems rises 13.5% Y/Y on commercial PC gains"
+    },
+    {
+     "title": "惠普盈利指引超预期，内存成本控制取得进展",
+     "link": "https://wallstreetcn.com/articles/3786637",
+     "pubDate": "Wed, 25 Nov 2026 06:00:09 +0800",
+     "summary": "惠普财报显示在应对内存芯片成本上涨方面正逐步改善，盘后股价随即大幅跳涨。 周二美股盘后，惠普发布2026财年全年及第四季度业绩报告，宣布提高股息。报告显示， 截至明年1月的当前财季，每股收益预期为0.66至0.76美元，市场预期为0.72美元，上述指引均已纳入关税退税的影响 。 预计自本月起的新财年非通用会计准则每股收益预期区间为3.15至3.45美元，据彭博汇总的分析师一致预期为3.18美元。 消息公布后，惠普盘后股价一度涨幅约15%，随后几乎回吐全部涨幅，此前收盘报27.94美元。 首席财务官Karen Parkhill表示，公司对全年持续改善盈利能力抱有信心，尽管2027财年展望体现了对",
+     "source": "华尔街见闻",
+     "zh": "惠普盈利指引超预期，内存成本控制取得进展"
+    },
+    {
+     "title": "HP's Q4 results top estimates due in part to strong AI PC sales",
+     "link": "https://seekingalpha.com/news/4676346-hps-q4-results-top-estimates-due-in-part-to-strong-ai-pc-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:59:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HP's Q4 results top estimates due in part to strong AI PC sales"
+    },
+    {
+     "title": "培育壮大企业梯队 深入推进智转数改 宁波加快打造先进制造业高地",
+     "link": "http://finance.eastmoney.com/news/1350,202611253938881755.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:12 +0800",
+     "summary": "作为长三角地区重要的中心城市和全国先进制造业基地，近年来，浙江省宁波市已初步形成以民营企业为主体、产业门类齐全、 综合 竞争力强的现代化制造业体系。 走进位于宁波慈溪市的浙江久友电器科技有限公司，记者看到集喷雾、吹风、净化于一体的雾化风扇。产品上线不到一年，在欧洲市场就卖出5万多台。“我们以产业链协同替代单点代工，以研发响应替代跟风复制，盯住市场痛点持续创新。”浙江久友电器科技有限公司董事长岑代郁说。 打造先进制造业高地，宁波的做法可圈可点。一方面，培育壮大企业梯队。实施制造业“大优强”培育行动，构建形成“创新型中小企业— 专精特新 企业—单项冠军企业—一流（领航）企业”培育梯队。另一方面，智",
+     "source": "东方财富股票",
+     "zh": "培育壮大企业梯队 深入推进智转数改 宁波加快打造先进制造业高地"
+    },
+    {
+     "title": "递稳跨年政策衔接“交接棒”",
+     "link": "http://finance.eastmoney.com/news/1352,202611253938880857.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:12 +0800",
+     "summary": "临近年末，谋划来年经济工作、做好跨年度政策衔接成为宏观调控的重点。近期召开的国务院常务会议提出，要认真研究明年经济工作思路，加强跨年度政策衔接，推动经济持续向好。 今年以来，更加积极有为的宏观政策持续发力，经济保持总体平稳、向新向优发展态势。从更加积极的财政政策到适度宽松的货币政策，从支出规模扩大、财政金融协同，到“六张网”规划建设、“两重”“两新”扎实推进，一系列政策落地显效，成为稳增长、扩内需、惠民生、强动能的有力抓手。 跨年政策衔接就像接力赛跑，既要推动前一棒的红利加速充分释放，又需促进后一棒及时、精准、平顺衔接，抢抓时间窗口、主动靠前发力，形成持续的政策合力，避免出现政策空窗期，保障发",
+     "source": "东方财富股票",
+     "zh": "递稳跨年政策衔接“交接棒”"
+    },
+    {
+     "title": "好品质应隔着屏幕也摸得着",
+     "link": "http://finance.eastmoney.com/news/1373,202611253938880758.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:12 +0800",
+     "summary": "网购最怕什么？不是没得选，而是看起来都不错，买回来才发现不对劲：衣服上身版型不合适，面料质感和图片里看到的不是一回事；家电参数写得漂亮，用起来却不顺手……网购已足够方便，但有些商品的品质隔着屏幕很难判断。 近期，商务部等7部门印发《关于实施品质电商“五优”行动的通知》提到，“支持电商平台、品牌商与商业 综合 体、商业街区合作，利用 人工智能 等新技术新手段，建设集展示、体验、交易、服务于一体的品质消费体验中心”“鼓励线上品牌商到线下开设实体店，发展 线上线下 一体化运营模式”。从“网上看”到“现场试”，藏在参数和图片背后的品质差异将变得可感可知。 单纯线上信息难以判断商品真实品质，线下体验正好",
+     "source": "东方财富股票",
+     "zh": "好品质应隔着屏幕也摸得着"
+    },
+    {
+     "title": "涵养一流营商环境——广东经济生态观察之二",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938879827.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:11 +0800",
+     "summary": "广东拥有超2000万户经营主体、近930万户企业，数量均居全国第一；全国每10个经营主体就有1个扎根广东；广东区域创新能力连续9年全国第一…… 环境一流的营商生态，是创新创业者选择广东的首要考量：广东曾连续4年获评全国营商环境最佳口碑省。 2026年伊始，广东同时发布3个工作方案，致力于优化一流市场化、法治化、国际化营商环境。 在一流上再出发，遇到的问题往往都是深水区的难题。或是利益掣肘，或是机制梗阻，每一次攻坚，都需要更坚定的决心。 在一流上再突破，取得的进步往往都是在为时代探路。或是思想破冰，或是制度重塑，每向前一步，都能激发无限潜力。 从一流迈向超一流，从最优迈向更优，既关乎广东本地经济",
+     "source": "东方财富股票",
+     "zh": "涵养一流营商环境——广东经济生态观察之二"
+    },
+    {
+     "title": "为亚太命运共同体建设注入强劲动能",
+     "link": "http://finance.eastmoney.com/news/1352,202611253938880658.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:10 +0800",
+     "summary": "近日，在菲律宾马尼拉举办的中国—东盟领导人会议上，中国与东盟领导人共同宣布中国—东盟自贸区3.0版升级议定书将于2026年12月1日正式生效实施。双方经贸合作将开启制度型开放、深度一体化的新阶段。二十余年来，中国与东盟始终锚定高水平开放方向，持续推进区域市场联通、规则联通，为亚洲自由贸易提供持久动力，为亚太命运共同体建设注入强劲动能，为地区及世界经济繁荣稳定提供坚实支撑。面对全球经济复苏乏力、保护主义抬头、全球化遭遇逆流的挑战，这条立足东亚、面向亚太的开放合作之路，也为践行普惠包容的全球化贡献了极具参考价值的区域实践样本。 中国—东盟自贸区3.0版生效，将进一步推进中国—东盟经贸合作高质量发展",
+     "source": "东方财富股票",
+     "zh": "为亚太命运共同体建设注入强劲动能"
+    },
+    {
+     "title": "经合组织报告指出——区域经济增长模式持续分化",
+     "link": "http://finance.eastmoney.com/news/1346,202611253938880563.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:10 +0800",
+     "summary": "日前，经济合作与发展组织发布最新《经合组织区域与城市概览2026》报告指出，面对全球经济转型，传统大都市主导的单一增长模式正在发生深刻变化，区域与城市层面的次国家级区域经济正呈现出分化与重构。 长期以来，资本、人才与创新资源不断向少数超级大都市和首都圈汇聚，已成为各国经济发展的引擎。然而，这一传统格局正在悄然变化。 报告通过对各成员国次级区域的 大数据 追踪发现，尽管人口超过150万的大都市贡献了大部分的经济增量，但单一依赖超级大都市的增长模式正遭遇瓶颈。一方面，部分一线城市受生活成本上升、交通拥堵以及土地资源饱和等因素影响，边际生产率增速开始放缓，人口虹吸效应出现阶段性边际递减。另一方面，一",
+     "source": "东方财富股票",
+     "zh": "经合组织报告指出——区域经济增长模式持续分化"
+    },
+    {
+     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 21:53:00 GMT",
+     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+     "source": "MarketWatch",
+     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
     },
     {
      "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -2278,72 +2398,24 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1355,202611243938827583.html",
      "pubDate": "Wed, 25 Nov 2026 05:43:52 +0800",
      "summary": "法国正计划建立 稀土 及关键金属战略储备，仿效石油储备机制，以增强工业供应链的安全性，应对关键原材料供应中断带来的风险。该计划将由法国国家储蓄与投资 银行 负责管理，并配套建立联合采购和价格保障机制，力争在2027年正式启动。 据报道，法国总统马克龙于当地时间周一晚间在爱丽舍宫与工业界代表举行闭门会议时宣布了这一计划。接下来，法国国家储蓄与投资 银行 将与依赖关键原材料的战略行业展开磋商，包括国防、航空航天等领域，评估相关企业的原材料需求，并研究具体的储备和采购安排。 按照计划，法国将通过联合采购机制整合不同企业的原材料需求，以提高采购规模和议价能力，增强供应保障。 此外，法国总统府表示，还将",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "法国将建立稀土及关键金属战略储备 约20种原材料纳入计划"
-    },
-    {
-     "title": "Banco BBVA Argentina reports Q3 results",
-     "link": "https://seekingalpha.com/news/4676396-banco-bbva-argentina-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:43:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Banco BBVA Argentina reports Q3 results"
     },
     {
      "title": "小米三季报出炉 卢伟冰：“从业以来最难的一个季度”",
      "link": "http://finance.eastmoney.com/news/1354,202611243938812756.html",
      "pubDate": "Wed, 25 Nov 2026 05:42:56 +0800",
      "summary": "11月24日，小米集团发布2026年第三季度业绩报告。 集团单季营收1072亿元，同比下滑5.2%，环比下滑1.5%；经营利润65.72亿元，同比下滑56.5%，环比下滑39.5%；经调整净利润48.84亿元，同比下滑56.8%，环比下滑21.5%。 集团毛利率从2025年第三季度的22.9%下滑至今年第三季度的20.2%，但环比二季度的19.8%实现改善。 小米集团总裁卢伟冰在财报电话会上表示，这是他从业以来感觉最难的一个季度。IDC初步统计显示，2026年第三季度，全球智能手机市场同比下跌22%，创下有统计以来单季度最大同比降幅。 卢伟冰表示，经过前三季度的历练，小米应对困难已经比较主动和",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "小米三季报出炉 卢伟冰：“从业以来最难的一个季度”"
-    },
-    {
-     "title": "Ituran outlines 160,000 to 180,000 2026 subscriber adds while launching $7M multiyear israel big data contract",
-     "link": "https://seekingalpha.com/news/4676395-ituran-outlines-160000-to-180000-2026-subscriber-adds-while-launching-7m-multiyear-israel-big?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:42:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ituran outlines 160,000 to 180,000 2026 subscriber adds while launching $7M multiyear israel big data contract"
-    },
-    {
-     "title": "Braemar Hotels & Resorts announces $20M share repurchase program, 2027 dividend",
-     "link": "https://seekingalpha.com/news/4676391-braemar-hotels-and-resorts-announces-20m-share-repurchase-program-2027-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:42:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Braemar Hotels & Resorts announces $20M share repurchase program, 2027 dividend"
-    },
-    {
-     "title": "HP declares $0.31 dividend",
-     "link": "https://seekingalpha.com/news/4676394-hp-declares-0_31-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:40:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HP declares $0.31 dividend"
-    },
-    {
-     "title": "Dell in charts: ISG revenue overtakes CSG by more than 3x as server sales surge",
-     "link": "https://seekingalpha.com/news/4676350-dell-in-charts-isg-revenue-overtakes-csg-by-more-than-3x-as-server-sales-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:40:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dell in charts: ISG revenue overtakes CSG by more than 3x as server sales surge"
     },
     {
      "title": "长鑫科技 最新流通股东榜大变样",
      "link": "http://finance.eastmoney.com/news/1354,202611243938812322.html",
      "pubDate": "Wed, 25 Nov 2026 05:38:46 +0800",
      "summary": "11月24日晚间， 长鑫科技 （688825）因回购股份事项披露了前十名无限售条件股东持股情况。截至11月19日的这份股东名册，清晰地呈现出外资机构在三季度之后的集中减持情况：6家QFII从前十大流通股东名单中消失，1家QFII减持逾50%，合计减持金额超过80亿元。 具体来看， 高盛 欧洲 银行 （GOLDMAN&nbsp;SACHS&nbsp;BANK&nbsp;EUROPE&nbsp;SE－自有资金－QFII）持股数量由三季报的9623.38万股降至4572.48万股，减少5051.3万股，降幅超过50%。 同时， 高盛 国际、 摩根士丹利 、美林证券等6家QFII则整体退出前十大流通股",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "长鑫科技 最新流通股东榜大变样"
-    },
-    {
-     "title": "惠普股价盘后转跌 最新下跌4%",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938877517.html",
-     "pubDate": "Wed, 25 Nov 2026 05:38:40 +0800",
-     "summary": "惠普 股价盘后转跌，最新下跌4%，此前一度上涨15%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "惠普股价盘后转跌 最新下跌4%"
     },
     {
      "title": "铜价\"收回\"对AI周期信任票，大跌超4%回吐周一全部涨幅",
@@ -2362,22 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "大众汽车工人抬棺抗议！薪资谈判陷僵局，明年1月罢工风险升温"
     },
     {
-     "title": "惠普股价在盘后交易中转跌 最新下跌4%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938877485.html",
-     "pubDate": "Wed, 25 Nov 2026 05:37:50 +0800",
-     "summary": "惠普 股价在盘后交易中转跌，最新下跌4%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "惠普股价在盘后交易中转跌 最新下跌4%"
-    },
-    {
-     "title": "高通首席执行官奖励计划的条件是要求股价上涨超过三倍",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938877381.html",
-     "pubDate": "Wed, 25 Nov 2026 05:37:41 +0800",
-     "summary": "高通 首席执行官奖励计划的条件是要求股价上涨超过三倍。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "高通首席执行官奖励计划的条件是要求股价上涨超过三倍"
-    },
-    {
      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 21:31:00 GMT",
@@ -2394,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
     },
     {
-     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-     "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-     "pubDate": "Tue, 24 Nov 2026 21:29:03 GMT",
-     "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-     "source": "CNBC",
-     "zh": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
-    },
-    {
      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 21:22:00 GMT",
@@ -2410,12 +2458,20 @@ window.INDUSTRY_DATA = {
      "zh": "Micron’s stock falls as an analyst warns about a future supply glut"
     },
     {
-     "title": "The stock market is hardly cheap, even taking recent declines into account",
-     "link": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 21:22:00 GMT",
-     "summary": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
-     "source": "MarketWatch",
-     "zh": "The stock market is hardly cheap, even taking recent declines into account"
+     "title": "东方财富财经早餐 11月25日周三",
+     "link": "http://finance.eastmoney.com/news/1344,202611243938774940.html",
+     "pubDate": "Wed, 25 Nov 2026 05:16:58 +0800",
+     "summary": "每日精选 商务部回应 ： 商务部新闻发言人就欧盟宣布对混动 汽车 采取临时保障措施答记者问。问： 11月24日，欧盟委员会发布混动 汽车 全球保障措施初步裁定，并拟于12月1日起采取临时保障措施 。请问中方有何评论？商务部答：中方重申，保护主义没有出路，开放合作才是正道。希望欧方与中方相向而行，为双方产业提供稳定、可预期、可持续的贸易投资环境，推动双边经贸关系稳定、平衡和健康发展。 央行操作 ： 中国人民 银行 11月24日发布公告称，为保持 银行 体系流动性充裕，11月25日，央行将以固定数量、利率招标、多重价位中标方式开展5000亿元7天期逆回购操作； 将以固定数量、利率招标、多重价位中标",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月25日周三"
+    },
+    {
+     "title": "全球市场：美股三大指数涨跌不一 费城半导体指数重挫近8% 英伟达跌近6%",
+     "link": "http://stock.eastmoney.com/news/11784,202611253938872324.html",
+     "pubDate": "Wed, 25 Nov 2026 05:15:14 +0800",
+     "summary": "美股市场： 美股三大指数11月24日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨423.39点，收于50018.7点，涨幅为0.85%； 标准普尔 500种股票指数下跌36.08点，收于7201.09点，跌幅为0.5%； 纳斯达克 综合 指数下跌356.02点，收于23733.54点，跌幅为1.48%。 “科技七巨头”整体承压、内部走势分化。 苹果 涨1.43%， 微软 涨0.74%， 特斯拉 跌0.20%， 谷歌-A 跌1.08%， 亚马逊 跌1.21%，Meta跌1.30%， 英伟达 跌5.86%； 英伟达 回吐前一交易日部分涨幅，此前因黄仁勋复职带动的反弹未能延续。 存储芯",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 费城半导体指数重挫近8% 英伟达跌近6%"
     },
     {
      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
@@ -2432,62 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
      "source": "Financial Times",
      "zh": "Anthropic closes below IPO price as tech rally fades"
-    },
-    {
-     "title": "黑石、华平、阿波罗洽谈入股，GTCR拟500亿美元私有化Global Payments",
-     "link": "https://wallstreetcn.com/articles/3786632",
-     "pubDate": "Wed, 25 Nov 2026 05:05:12 +0800",
-     "summary": "据路透援引知情人士透露， 黑石、华平投资及阿波罗正与私募股权公司GTCR商谈，为其约500亿美元私有化收购支付处理商Global Payments提供融资支持。 若交易达成，将跻身近年来支付行业规模最大的杠杆收购之列。 此前GTCR与Clayton, Dubilier & Rice（CD&R）的联合收购计划已告吹。此后GTCR于上周五在监管文件中披露，将独立推进对Global Payments的收购。 目前黑石、阿波罗及华平正就潜在的股权或优先股投资进行磋商，以协助GTCR完成这笔交易。 三位知情人士表示，相关讨论仍在进行中，尚未达成任何协议。知情人士同时警告，鉴于Global Payment",
-     "source": "华尔街见闻",
-     "zh": "黑石、华平、阿波罗洽谈入股，GTCR拟500亿美元私有化Global Payments"
-    },
-    {
-     "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
-     "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-     "pubDate": "Tue, 24 Nov 2026 21:04:03 GMT",
-     "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-     "source": "CNBC",
-     "zh": "Anthropic closes below $83 IPO price, but analysts are still largely positive"
-    },
-    {
-     "title": "Jensen Huang tells staff that Nvidia doesn&apos;t need a succession plan",
-     "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-     "pubDate": "Tue, 24 Nov 2026 20:42:07 GMT",
-     "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-     "source": "CNBC",
-     "zh": "Jensen Huang tells staff that Nvidia doesn&apos;t need a succession plan"
-    },
-    {
-     "title": "城堡证券前三季度交易收入已超2025年全年纪录",
-     "link": "https://wallstreetcn.com/articles/3786629",
-     "pubDate": "Wed, 25 Nov 2026 04:31:42 +0800",
-     "summary": "市场剧烈波动为做市商城堡证券（Citadel Securities）创造了理想的盈利环境，其全球扩张步伐也在加速。 11月24日，据彭博社报道， 城堡证券今年前三季度净交易收入已突破150亿美元，提前超越2025年全年纪录。 这家全球最大的非银行做市商正凭借持续的市场动荡，将盈利推向新高。 据报道援引知情人士透露，该公司第三季度单季收入超过34亿美元，同比增长29%；净利润约为11.9亿美元，同比增长约13%。 华尔街各大交易机构今年普遍录得创纪录收入。人工智能相关押注的反复波动、地缘政治动荡、中东战事以及市场对利率预期的频繁调整，共同推高了全球交易活跃度。这一环境对以市场错位为盈利土壤的做市",
-     "source": "华尔街见闻",
-     "zh": "城堡证券前三季度交易收入已超2025年全年纪录"
-    },
-    {
-     "title": "Anthropic暴跌14%破发！创始人套现逾5.6亿美元，黄仁勋回归加剧AI路线之争",
-     "link": "https://wallstreetcn.com/articles/3786627",
-     "pubDate": "Wed, 25 Nov 2026 04:31:35 +0800",
-     "summary": "Anthropic上市热潮迅速退去。其在登陆纳斯达克仅三个交易日后便跌破83美元的IPO发行价。创始人及高管大额出售股份、AI行业估值压力，以及黄仁勋回归后可能加剧的产业路线竞争，共同成为市场关注焦点。 周二美股盘中，Anthropic一度大跌14%至75.61美元，市值跌破万亿美元关口，随后有所回升，截至发稿下跌9.37%。 监管文件显示， CEO Dario Amodei和总裁Daniela Amodei在上市次日分别出售超过337万股股票，交易金额均超过2.8亿美元，两笔交易合计超过5.6亿美元。 周一黄仁勋重新担任英伟达CEO，也让Anthropic面临的产业竞争格局出现新的变数。 黄",
-     "source": "华尔街见闻",
-     "zh": "Anthropic暴跌14%破发！创始人套现逾5.6亿美元，黄仁勋回归加剧AI路线之争"
-    },
-    {
-     "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
-     "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 20:18:29 GMT",
-     "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
-     "source": "Financial Times",
-     "zh": "Huang says he still does not believe in CEO succession planning at Nvidia"
-    },
-    {
-     "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
-     "link": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 24 Nov 2026 19:48:00 GMT",
-     "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
-     "source": "Finextra",
-     "zh": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms"
     }
    ]
   },
@@ -2514,12 +2514,12 @@ window.INDUSTRY_DATA = {
      "zh": "Agentic system personalizes physical controls to help users “DJ their art”"
     },
     {
-     "title": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics",
+     "title": "Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality'",
      "link": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics",
      "pubDate": "Tue, 24 Nov 2026 18:27:32 +0000",
      "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
      "source": "Live Science",
-     "zh": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics"
+     "zh": "Why Nobel physics prize winner Francis Halzen staked his career on an 'almost non-existent piece of reality'"
     },
     {
      "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",

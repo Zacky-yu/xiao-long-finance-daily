@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 03:12:10",
+ "generated_at": "2026/11/25 03:32:19",
  "recent_days": 7,
  "industries": [
   {
@@ -121,6 +121,14 @@
      "zh": "7 Most Downloaded AI Models on Hugging Face"
     },
     {
+     "title": "Searching for distant planets with Astra",
+     "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+     "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+     "source": "OpenAI",
+     "zh": "Searching for distant planets with Astra"
+    },
+    {
      "title": "刚刚，华为云开放AgentArts智能体平台，康晓宇：我们不抢流量入口",
      "link": "https://zhidx.com/p/614006.html",
      "pubDate": "Tue, 24 Nov 2026 18:27:20 +0800",
@@ -239,14 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "Claude证出「代数版P≠NP」！73000行Lean代码通过验证"
-    },
-    {
-     "title": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744860&idx=1&sn=7c02536b54e86523ba38503e8db10b0a",
-     "pubDate": "Tue, 24 Nov 2026 10:09:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%"
     }
    ]
   },
@@ -841,6 +841,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Clean Port Coalition Urges EU To Accelerate Port Electrification",
+     "link": "https://cleantechnica.com/2026/11/24/clean-port-coalition-urges-eu-to-accelerate-port-electrification/",
+     "pubDate": "Tue, 24 Nov 2026 19:22:44 +0000",
+     "summary": "The Clean Port Coalition has written to the European Commission calling for ambitious EU rules to accelerate port electrification and shore power ahead of the AFIR review. Ahead of the upcoming Alternative Fuels Infrastructure Regulation (AFIR) review, the Clean Port Coalition (CPC), an alliance of ",
+     "source": "CleanTechnica",
+     "zh": "Clean Port Coalition Urges EU To Accelerate Port Electrification"
+    },
+    {
+     "title": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study",
+     "link": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
+     "pubDate": "Tue, 24 Nov 2026 19:14:35 +0000",
+     "summary": "New research reveals a single ship emits, on average, as much toxic sulphur at port in a year as 19,300 cars, leaving taxpayers and hospitals to pay the hidden cost of shipping pollution. Commercial ships docked in European ports inflict €2.5 billion a year in societal and environmental costs, accor",
+     "source": "CleanTechnica",
+     "zh": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study"
+    },
+    {
      "title": "Central Asia Pushes Ahead With Regional Electricity Market",
      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Pushes-Ahead-With-Regional-Electricity-Market.html",
      "pubDate": "Tue, 24 Nov 2026 13:00:00 -0600",
@@ -897,12 +913,12 @@
      "zh": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market"
     },
     {
-     "title": "TVA touts $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA announces $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
+     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1063,22 +1079,6 @@
      "summary": "I spent 35 years in the Tampa suburbs, so I pay attention to backup power when a storm is coming. Last year I tested the BLUETTI Elite 100 V2 portable power station for CleanTechnica. That unit is meant to be carried around. The LiTime Lares K1 is different: a plug-in ... [continued] The post The Li",
      "source": "CleanTechnica",
      "zh": "The LiTime Lares K1 Expandable Plug & Play Kitchen Backup — CleanTechnica Tested"
-    },
-    {
-     "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
-     "link": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
-     "pubDate": "Tue, 24 Nov 2026 10:26:24 +0000",
-     "summary": "Nicolas Chouleur, partner at advisory firm Everoze, shares his views on the key trends and challenges in European BESS asset management today.",
-     "source": "Energy Storage News",
-     "zh": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges"
-    },
-    {
-     "title": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions",
-     "link": "https://www.energy-storage.news/chinese-listed-energy-storage-firms-chint-power-eve-energy-announce-ups-lfp-capacity-additions/",
-     "pubDate": "Tue, 24 Nov 2026 09:44:39 +0000",
-     "summary": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
-     "source": "Energy Storage News",
-     "zh": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions"
     }
    ]
   },
@@ -1289,6 +1289,14 @@
    "total": 6,
    "items": [
     {
+     "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+     "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+     "pubDate": "Tue, 24 Nov 2026 19:09:16 +0000",
+     "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the com",
+     "source": "NASA",
+     "zh": "NASA’s Northrop Grumman CRS-25 Mission Overview"
+    },
+    {
      "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
      "link": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
      "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
@@ -1447,14 +1455,6 @@
      "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
-     "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-     "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-     "pubDate": "Mon, 23 Nov 2026 21:10:03 +0000",
-     "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-",
-     "source": "NASA",
-     "zh": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program"
     },
     {
      "title": "As it happened: NG-25 preview news teleconference",
@@ -1753,12 +1753,44 @@
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "朋友圈进入集体大失声时代",
+     "link": "https://www.huxiu.com/article/4908188.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 03:29:33 +0800",
+     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 朋友圈正在失去日常生活。 十年前，人们会在这里晒一顿午饭、抱怨一次加班、记录一场失眠，也会毫无负担地发出一张模糊的照片。如今，频繁出现的更多是工作转发、产品推广，以及旅行、结婚、生子等经过筛选的重要节点。 生活没有停止，只是越来越少被放进朋友圈。 有意思的是，人们对朋友圈的依赖并没有因此消失。我们依然习惯在睡前、通勤途中或者工作间隙打开朋友圈，看看身边的人最近在做什么，却越来越少主动让别人知道自己过得怎么样。 过去，发朋友圈是一件随手就能完成的事。现在，一些人在按下发送键之前，需要考虑领导会不会看到、同事会不会多想、亲戚会不会追问，以及自己的观点会",
+     "source": "虎嗅",
+     "zh": "朋友圈进入集体大失声时代"
+    },
+    {
+     "title": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump&apos;s pressure, but because Nvidia&apos;s board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)",
+     "link": "https://www.techmeme.com/261124/p31#a261124p31",
+     "pubDate": "Tue, 24 Nov 2026 14:25:02 -0500",
+     "summary": "New York Times : Jensen Huang says he is back not as a &ldquo;tech bro&rdquo; or due to Trump's pressure, but because Nvidia's board &ldquo;evaluated the entire situation&rdquo; and &ldquo;gathered facts&rdquo; &nbsp; &mdash;&nbsp; A day after returning to his company, Mr. Huang acknowledged that he",
+     "source": "Techmeme",
+     "zh": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump&apos;s pressure, but because Nvidia&apos;s board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)"
+    },
+    {
      "title": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)",
      "link": "https://www.techmeme.com/261124/p30#a261124p30",
      "pubDate": "Tue, 24 Nov 2026 14:05:00 -0500",
      "summary": "Dan Mangan / CNBC : AG Todd Blanche and FBI Director Kash Patel dodge reporters' questions about a purported probe that led Trump to push Nvidia's board to bring back Jensen Huang &nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name i",
      "source": "Techmeme",
      "zh": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)"
+    },
+    {
+     "title": "车规级电容涨价了，车企正在失去大客户待遇",
+     "link": "https://www.huxiu.com/article/4908187.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 03:01:25 +0800",
+     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月18日，韩国三星电机宣布深化与英伟达在AI基础设施领域的合作，双方合作进一步延伸至MLCC（多层片式陶瓷电容器）。 今年以来，三星电机已陆续签下多份AI服务器电容长期供货合同。仅9月1日公布的一份一年期合同，金额就达到1.0722万亿韩元，相当于公司上一财年全部营业收入的9.5%。 另一家电容巨头日本村田制作所，也在调整自己的生产计划。9月10日，村田通知客户，将逐步停产部分消费级和车规级MLCC产品，最后接单时间为2028年，最终交付时间为2029年。 50天后，村田宣布了一项庞大的扩产计划：未来五年投资1万亿日元扩大MLCC产能",
+     "source": "虎嗅",
+     "zh": "车规级电容涨价了，车企正在失去大客户待遇"
     },
     {
      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
@@ -1783,14 +1815,6 @@
      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
      "source": "Ars Technica",
      "zh": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can"
-    },
-    {
-     "title": "“Pervert glasses\" named word of the year by Macquarie Dictionary",
-     "link": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
-     "pubDate": "Tue, 24 Nov 2026 18:21:01 +0000",
-     "summary": "Article URL: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/ Comments URL: https://news.ycombinator.com/item?id=50632214 Points: 53 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "“Pervert glasses\" named word of the year by Macquarie Dictionary"
     },
     {
      "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
@@ -1825,14 +1849,6 @@
      "zh": "In the first all-hands since his return, Jensen Huang apologized for violating Nvidia&apos;s code of conduct, saying he made some \"very serious personal mistakes\" (Paresh Dave/Wired)"
     },
     {
-     "title": "AstridVPN: A VPN that doesn't know who you are",
-     "link": "https://astridvpn.com/",
-     "pubDate": "Tue, 24 Nov 2026 18:00:21 +0000",
-     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 9 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "AstridVPN: A VPN that doesn't know who you are"
-    },
-    {
      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
      "pubDate": "Tue, 24 Nov 2026 17:44:53 +0000",
@@ -1865,14 +1881,6 @@
      "zh": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)"
     },
     {
-     "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-     "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-     "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 145 # Comments: 71",
-     "source": "Hacker News",
-     "zh": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark"
-    },
-    {
      "title": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia&apos;s size, plus Trump&apos;s support, left Nvidia with no other options (Robert Armstrong/Financial Times)",
      "link": "https://www.techmeme.com/261124/p26#a261124p26",
      "pubDate": "Tue, 24 Nov 2026 12:10:00 -0500",
@@ -1881,36 +1889,12 @@
      "zh": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia&apos;s size, plus Trump&apos;s support, left Nvidia with no other options (Robert Armstrong/Financial Times)"
     },
     {
-     "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-     "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-     "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 55 # Comments: 42",
-     "source": "Hacker News",
-     "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
-    },
-    {
      "title": "华为：截至目前，对外专利许可协议累计金额超 69 亿美元",
      "link": "https://www.ithome.com/1/031/896.htm",
      "pubDate": "Tue, 24 Nov 2026 17:06:26 GMT",
      "summary": "IT之家 11 月 25 日消息，以“卓越创新、开放共赢”为主题的第七届华为创新和知识产权论坛昨日在北京举办。 ▲ 华为在北京召开第七届创新和知识产权论坛 据介绍， 2025 年华为增加了 20 个被许可人 ，覆盖网络与通信设备、消费电子与计算、物联网、汽车、流媒体和半导体等领域。 截至目前，华为对外专利许可协议累计金额超 69 亿美元 （IT之家注：现汇率约合 460.87 亿元人民币） ，其中 2025 年的专利许可收入约为 8 亿美元 （现汇率约合 53.43 亿元人民币） 。截至 2025 年底，超过 32 亿部 5G 设备、超过 16 亿台 Wi-Fi 消费电子终端及超过 41 亿台",
      "source": "IT之家",
      "zh": "华为：截至目前，对外专利许可协议累计金额超 69 亿美元"
-    },
-    {
-     "title": "A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)",
-     "link": "https://www.techmeme.com/261124/p25#a261124p25",
-     "pubDate": "Tue, 24 Nov 2026 12:01:44 -0500",
-     "summary": "Jody Godoy / Reuters : A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more &nbsp; &mdash;&nbsp; Chinese fast-fashion giant Shein (0625.HK) will pay $100 million to settle US claims that it misled consu",
-     "source": "Techmeme",
-     "zh": "A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)"
-    },
-    {
-     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-     "link": "https://jobs.ashbyhq.com/weave-os",
-     "pubDate": "Tue, 24 Nov 2026 17:00:55 +0000",
-     "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
     },
     {
      "title": "AI 会聊天，就等于会陪伴吗？",
@@ -1943,14 +1927,6 @@
      "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
      "source": "WIRED",
      "zh": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)"
-    },
-    {
-     "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
-     "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-     "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 167 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
     {
      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
@@ -1991,6 +1967,30 @@
      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "These are the gifts developers will actually want"
+    },
+    {
+     "title": "东北积雪天数预计将会显著减少",
+     "link": "https://www.solidot.org/story?sid=85982",
+     "pubDate": "Tue, 24 Nov 2026 23:57:38 +0800",
+     "summary": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。",
+     "source": "Solidot",
+     "zh": "东北积雪天数预计将会显著减少"
+    },
+    {
+     "title": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台",
+     "link": "https://www.ithome.com/1/031/894.htm",
+     "pubDate": "Tue, 24 Nov 2026 15:17:45 GMT",
+     "summary": "IT之家 11 月 24 日消息，宾利首批纯电 SUV Torcal（IT之家注：官方中文名为“托卡尔”）的交付尚未启动，第二款限量特别版就紧随其后完成亮相。近日，继托卡尔 First Edition 首发版之后，宾利 又公布了一款全新定制车型 。 这款特别版由日本潮流设计师藤原浩亲自操刀， 全球仅生产 20 辆，整车采用全黑设计 。车身采用名为“Beluga”的黑色涂装，黑色徽标、熏黑格栅和 22 英寸 Vortex 黑色轮毂也与之呼应。 新车搭载的全锻造轮毂 采用碳纤维嵌件 ，在提升视觉效果的同时兼顾空气动力学表现。 藤原浩于 2003 年创立东京设计品牌 FRGMT，品牌标识也出现在这辆",
+     "source": "IT之家",
+     "zh": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台"
+    },
+    {
+     "title": "Thanksgiving Travel Will Be a Stormy Mess",
+     "link": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+     "pubDate": "Tue, 24 Nov 2026 15:12:31 +0000",
+     "summary": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US.",
+     "source": "WIRED",
+     "zh": "Thanksgiving Travel Will Be a Stormy Mess"
     }
    ]
   },
@@ -2000,6 +2000,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Chromecast with Google TV HD gets its first security update of the year",
+     "link": "https://www.androidauthority.com/chromecast-google-tv-hd-first-2026-update-3739022/",
+     "pubDate": "Tue, 24 Nov 2026 19:22:48 +0000",
+     "summary": "It's a much smaller download than its 4K sibling's.",
+     "source": "Android Authority",
+     "zh": "Chromecast with Google TV HD gets its first security update of the year"
+    },
+    {
+     "title": "Cellular Apple Watch SE 3 hits a new low at $259",
+     "link": "https://www.androidauthority.com/apple-watch-se-3-cellular-record-low-deal-3738940/",
+     "pubDate": "Tue, 24 Nov 2026 19:15:49 +0000",
+     "summary": "Save $70 on the 44mm Apple Watch SE 3 with 5G, its lowest price yet ahead of Black Friday.",
+     "source": "Android Authority",
+     "zh": "Cellular Apple Watch SE 3 hits a new low at $259"
+    },
     {
      "title": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back",
      "link": "https://www.gsmarena.com/the_huawei_matebook_fold_s_is_a_foldable_147_tablet_with_an_extra_display_on_the_back-news-75614.php",
@@ -2169,14 +2185,6 @@
      "zh": "The Nikon ZR’s first big update is finally here"
     },
     {
-     "title": "Alienware’s 34-inch curved gaming monitor drops $130 to a record low",
-     "link": "https://www.androidauthority.com/alienware-34-gaming-monitor-deal-3738937/",
-     "pubDate": "Tue, 24 Nov 2026 16:55:40 +0000",
-     "summary": "The Alienware 34 AW3426DWM is 33% off on Amazon, a new low for this 240Hz ultrawide this Black Friday season.",
-     "source": "Android Authority",
-     "zh": "Alienware’s 34-inch curved gaming monitor drops $130 to a record low"
-    },
-    {
      "title": "Black Friday deals: Pixel 11 $692, Pixel Watch 5 even lower, Galaxy Buds 4 Pro $80 off, Dell PCs $1,000 off, more",
      "link": "https://9to5google.com/2026/11/24/black-friday-deals-pixel-11-watch-5-galaxy-buds-4-pro/",
      "pubDate": "Tue, 24 Nov 2026 16:53:33 +0000",
@@ -2225,14 +2233,6 @@
      "zh": "Leaks say Apple has four special edition products launching next week in red"
     },
     {
-     "title": "Motorola Razr 2027 leak suggests a January launch is in the cards",
-     "link": "https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/",
-     "pubDate": "Tue, 24 Nov 2026 16:32:51 +0000",
-     "summary": "The Motorola Razr 2027 series could make its debut during CES.",
-     "source": "Android Authority",
-     "zh": "Motorola Razr 2027 leak suggests a January launch is in the cards"
-    },
-    {
      "title": "TTArtisan goes ultra-wide with a $489 autofocus 12mm F2.8",
      "link": "https://www.dpreview.com/news/ttartisan-goes-ultra-wide-with-a-489-autofocus-12mm-f2-8/",
      "pubDate": "Tue, 24 Nov 2026 16:19:51 +0000",
@@ -2249,12 +2249,84 @@
    "total": 13,
    "items": [
     {
+     "title": "Retail turnarounds are taking hold just in time for the holiday season",
+     "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+     "pubDate": "Tue, 24 Nov 2026 19:26:39 GMT",
+     "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+     "source": "CNBC",
+     "zh": "Retail turnarounds are taking hold just in time for the holiday season"
+    },
+    {
+     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+     "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+     "pubDate": "Tue, 24 Nov 2026 19:26:26 GMT",
+     "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+     "source": "CNBC",
+     "zh": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington"
+    },
+    {
+     "title": "Dick's projects $11.45-$12.30 FY2026 non-GAAP EPS while raising Dick's comps to 3.3%-4%",
+     "link": "https://seekingalpha.com/news/4676328-dicks-projects-11_45-12_30-fy2026-non-gaap-eps-while-raising-dicks-comps-to-3_3-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 14:22:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dick's projects $11.45-$12.30 FY2026 non-GAAP EPS while raising Dick's comps to 3.3%-4%"
+    },
+    {
+     "title": "Looking for safe havens in a volatile tech environment",
+     "link": "https://seekingalpha.com/news/4676326-looking-for-safe-havens-in-a-volatile-tech-environment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 14:21:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Looking for safe havens in a volatile tech environment"
+    },
+    {
+     "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
+     "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 19:21:00 GMT",
+     "summary": "Picking your retirement date should include factors beyond finances.",
+     "source": "MarketWatch",
+     "zh": "Many people overlook this crucial piece of retirement planning — and it isn’t money"
+    },
+    {
+     "title": "xAI三名元老创办Epochal押注AI预测 称“超人类水平的预测将重塑几乎所有行业",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938863096.html",
+     "pubDate": "Wed, 25 Nov 2026 03:16:10 +0800",
+     "summary": "财联社11月25日讯 AI能否在“回看过去”中学会预见未来？xAI三名前创始成员创办的Epochal于当地时间11月24日正式亮相，推出可锁定历史时点的“时光门户”，欲借此训练AI的预测能力，押注超人类水平的预测。 马斯克旗下xAI的三名创始成员联手创办的新公司Epochal于当地时间周二正式亮相，目标是打造能够预测未来事件的AI。 Epochal已推出首款产品“时光门户”。 据公司官网介绍，这是一个“时间点”环境， AI智能体 可以在其中检索某一过去日期时的互联网。据媒体报道，“时光门户”耗时90天搭建，背后的搜索索引收录了过去30年间超过1万亿个网页，索引时间精确到分钟。 来源：Epoch",
+     "source": "东方财富股票",
+     "zh": "xAI三名元老创办Epochal押注AI预测 称“超人类水平的预测将重塑几乎所有行业"
+    },
+    {
+     "title": "恒生指数主连夜盘收涨0.72%，报22372点；恒生科技指数主连夜盘收涨0.35%，报3474点",
+     "link": "http://hk.eastmoney.com/news/1556,202611253938862952.html",
+     "pubDate": "Wed, 25 Nov 2026 03:06:07 +0800",
+     "summary": "恒生指数主连夜盘收涨0.72%，报22372点；恒生科技指数主连夜盘收涨0.35%，报3474点。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "恒生指数主连夜盘收涨0.72%，报22372点；恒生科技指数主连夜盘收涨0.35%，报3474点"
+    },
+    {
      "title": "Bayer’s Roundup settlement faces fresh uncertainty after NIH cancer review",
      "link": "https://seekingalpha.com/news/4676325-bayer-s-roundup-settlement-faces-fresh-uncertainty-after-nih-cancer-review?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 14:05:59 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bayer’s Roundup settlement faces fresh uncertainty after NIH cancer review"
+    },
+    {
+     "title": "力拓表示，将向加拿大粮食安全项目五年内投入1000万美元",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862861.html",
+     "pubDate": "Wed, 25 Nov 2026 03:05:29 +0800",
+     "summary": "力拓 表示，将向加拿大粮食安全项目五年内投入1000万美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "力拓表示，将向加拿大粮食安全项目五年内投入1000万美元"
+    },
+    {
+     "title": "城堡证券前九个月净交易收入达创纪录的150亿美元",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862762.html",
+     "pubDate": "Wed, 25 Nov 2026 03:04:37 +0800",
+     "summary": "城堡证券前九个月净交易收入达创纪录的150亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "城堡证券前九个月净交易收入达创纪录的150亿美元"
     },
     {
      "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
@@ -2281,12 +2353,12 @@
      "zh": "McDonald's sees pushback from franchisees over costly upgrades"
     },
     {
-     "title": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息",
+     "title": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及65万名客户个人信息",
      "link": "http://finance.eastmoney.com/news/1354,202611253938862697.html",
      "pubDate": "Wed, 25 Nov 2026 02:52:12 +0800",
-     "summary": "韩国电力 公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息。 （文章来源：财联社）",
+     "summary": "韩国电力 公司确认11月20日发生数据泄露，此次泄露事件涉及65万名客户个人信息。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及部分客户个人信息"
+     "zh": "韩国电力公司确认11月20日发生数据泄露，此次泄露事件涉及65万名客户个人信息"
     },
     {
      "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
@@ -2313,22 +2385,6 @@
      "zh": "Wall Street trades mixed as markets assess new tariff concerns"
     },
     {
-     "title": "Kanzhun Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4676323-kanzhun-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:37:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kanzhun Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "CMB.Tech outlines $722M 2027 free cash flow scenario while Board proposes $0.65 dividend",
-     "link": "https://seekingalpha.com/news/4676322-cmb-tech-outlines-722m-2027-free-cash-flow-scenario-while-board-proposes-0_65-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:37:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CMB.Tech outlines $722M 2027 free cash flow scenario while Board proposes $0.65 dividend"
-    },
-    {
      "title": "布伦特原油涨幅扩大至2%",
      "link": "http://finance.eastmoney.com/news/1356,202611253938862528.html",
      "pubDate": "Wed, 25 Nov 2026 02:35:30 +0800",
@@ -2351,22 +2407,6 @@
      "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
      "source": "MarketWatch",
      "zh": "Micron’s stock falls as an analyst warns about a future supply glut"
-    },
-    {
-     "title": "加拿大皇家银行（RBC）预测特斯拉与SpaceX的合并公告可能在2027年初发布",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938862450.html",
-     "pubDate": "Wed, 25 Nov 2026 02:31:21 +0800",
-     "summary": "加拿大皇家银行 （RBC）预测 特斯拉 与 SpaceX 的合并公告可能在2027年初发布。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "加拿大皇家银行（RBC）预测特斯拉与SpaceX的合并公告可能在2027年初发布"
-    },
-    {
-     "title": "黄仁勋在全员会议上向英伟达员工道歉",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938862325.html",
-     "pubDate": "Wed, 25 Nov 2026 02:30:11 +0800",
-     "summary": "黄仁勋在全员会议上向 英伟达 员工道歉。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "黄仁勋在全员会议上向英伟达员工道歉"
     },
     {
      "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
@@ -2393,30 +2433,6 @@
      "zh": "词元“用得多”更要“用得值”"
     },
     {
-     "title": "时报数说 | 今年前十个月访港旅客量近4600万人次",
-     "link": "http://finance.eastmoney.com/news/1350,202611253938862293.html",
-     "pubDate": "Wed, 25 Nov 2026 02:26:09 +0800",
-     "summary": "（据新华社电） （文章来源：证券时报）",
-     "source": "东方财富股票",
-     "zh": "时报数说 | 今年前十个月访港旅客量近4600万人次"
-    },
-    {
-     "title": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938861930.html",
-     "pubDate": "Wed, 25 Nov 2026 02:25:20 +0800",
-     "summary": "当地时间24日，伊朗伊斯兰革命卫队海军表示，一艘集装箱船在霍尔木兹海峡南部、海塞卜港以北海域航行时，关闭了导航与定位系统，并在未经许可的航线航行，违反了海上交通规则，该船随后遭到了打击。 伊朗伊斯兰革命卫队海军重申，对于商船船东和船长而言，遵守海上安全法规、使用获准航道，并服从相关部门发出的警告，对于维护霍尔木兹海峡的航行安全至关重要。若未能遵守上述要求，可能会对船员生命、船舶安全以及船东的资产构成严重风险。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭"
-    },
-    {
-     "title": "Retail turnarounds are taking hold just in time for the holiday season",
-     "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-     "pubDate": "Tue, 24 Nov 2026 18:21:35 GMT",
-     "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-     "source": "CNBC",
-     "zh": "Retail turnarounds are taking hold just in time for the holiday season"
-    },
-    {
      "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
      "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
      "pubDate": "Wed, 25 Nov 2026 02:20:19 +0800",
@@ -2425,28 +2441,12 @@
      "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
     },
     {
-     "title": "As Anthropic falls below its IPO price, here&apos;s how big-money traders are reacting",
-     "link": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-     "pubDate": "Tue, 24 Nov 2026 18:17:12 GMT",
-     "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
-     "source": "CNBC",
-     "zh": "As Anthropic falls below its IPO price, here&apos;s how big-money traders are reacting"
-    },
-    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 18:15:00 GMT",
      "summary": "“My wife stopped working outside the home in 1970.”",
      "source": "MarketWatch",
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-     "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 18:14:00 GMT",
-     "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-     "source": "MarketWatch",
-     "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
     },
     {
      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",

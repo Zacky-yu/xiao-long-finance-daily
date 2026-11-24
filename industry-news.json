@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 06:12:10",
+ "generated_at": "2026/11/25 06:32:14",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+     "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+     "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000",
+     "summary": "Nvidia CEO Jensen Huang kicked off his return to the chipmaker he co-founded by holding an all-hands meetings that covered remorse, therapy, and even the company’s code of conduct, according to accounts from multiple insiders who spoke to the media. The topic of succession planning also came up — a ",
+     "source": "TechCrunch AI",
+     "zh": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
+    },
     {
      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
@@ -47,14 +55,6 @@
      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
      "source": "TechCrunch AI",
      "zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
-    },
-    {
-     "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-     "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-     "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000",
-     "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-     "source": "TechCrunch AI",
-     "zh": "UK warns AI-driven cyberattacks are exposing years of weak security"
     },
     {
      "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000",
+     "link": "https://electrek.co/2026/11/24/cadillacs-3-row-ev-more-expensive-now-starting-at-80k/",
+     "pubDate": "Tue, 24 Nov 2026 22:20:15 +0000",
+     "summary": "Cadillac’s three-row electric SUV just got a little more expensive. The 2027 Cadillac Vistiq now starts at over $80,000. more…",
+     "source": "Electrek",
+     "zh": "Cadillac’s luxury 3-row EV just got more expensive, now starting at over $80,000"
+    },
+    {
      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
      "pubDate": "Tue, 24 Nov 2026 21:09:04 +0000",
@@ -719,14 +727,6 @@
      "summary": "Two of the most interesting new electric bicycle companies in the world made headlines on the same day last week, and for two very different reasons. Amflow, the electric bicycle brand that emerged from the same engineering ecosystem responsible for DJI’s revolutionary Avinox drive system, just laun",
      "source": "Electrek",
      "zh": "Two tech companies tried to reinvent the e-bike. Why DJI’s Amflow soared while Rivian’s ALSO floundered"
-    },
-    {
-     "title": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]",
-     "link": "https://electrek.co/2026/11/24/porsche-boxster-ev-coming-most-powerful-718-ever-images/",
-     "pubDate": "Tue, 24 Nov 2026 17:16:08 +0000",
-     "summary": "The first fully electric Porsche Boxster is finally in the home stretch of development. Ahead of its official debut in early 2027, Porsche offered an early look at the two-door electric sports car. more…",
-     "source": "Electrek",
-     "zh": "The Porsche Boxster EV is finally almost here, and it will be the most powerful 718 yet [Images]"
     },
     {
      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
+     "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
+     "pubDate": "Tue, 24 Nov 2026 22:25:39 +0000",
+     "summary": "Coincidence is not causation, and yet the urge to ascribe causative power to random events is a typically human characteristic. Take the case of the man who snaps his fingers every five minutes. When a neighbor asks why, he replies, “To keep the elephants away.” “But there are no elephants ... [cont",
+     "source": "CleanTechnica",
+     "zh": "Digital Outages Are Rampant All Across America. Is AI to blame?"
+    },
+    {
      "title": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
      "link": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
      "pubDate": "Tue, 24 Nov 2026 16:00:00 -0600",
@@ -932,7 +940,7 @@
      "title": "TVA touts $1.7B data center deal under new large-load tariff",
      "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
      "source": "Utility Dive",
      "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
@@ -1071,14 +1079,6 @@
      "summary": "Exports of Chinese solar PV modules to the Middle East rose sharply in October 2026, overtaking Europe as the leading destination for Chinese panels, according to analysis by the Shanghai Metals Market (SMM).",
      "source": "PV Tech",
      "zh": "Chinese solar exports to Middle East surge as Europe clears inventory"
-    },
-    {
-     "title": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%",
-     "link": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-42-in-ytd-europe-nearly-200/",
-     "pubDate": "Tue, 24 Nov 2026 11:43:36 +0000",
-     "summary": "Some 15.6GWh of grid-scale BESS came online last month, bringing the total year-to-date (YTD) figure as of 31 October to 229.8GWh.",
-     "source": "Energy Storage News",
-     "zh": "Global grid-scale BESS deployments up 42% in YTD; Europe nearly 200%"
     }
    ]
   },
@@ -1185,6 +1185,14 @@
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
+     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
+     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+     "source": "BioPharma Dive",
+     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
+    },
+    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1215,6 +1223,14 @@
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
+    },
+    {
+     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
+     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
+     "source": "BioPharma Dive",
+     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1263,22 +1279,6 @@
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
-    },
-    {
-     "title": "FDA again turns back Capricor Duchenne cell therapy",
-     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
-     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
-     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
-     "source": "BioPharma Dive",
-     "zh": "FDA again turns back Capricor Duchenne cell therapy"
-    },
-    {
-     "title": "Will the first approved psychedelic become a blockbuster?",
-     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
-     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
-     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
-     "source": "BioPharma Dive",
-     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+     "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+     "pubDate": "Tue, 24 Nov 2026 22:05:34 GMT",
+     "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+     "source": "Dark Reading",
+     "zh": "Satellites Have a Ground-Level Cybersecurity Problem"
+    },
+    {
      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
      "pubDate": "Tue, 24 Nov 2026 21:48:06 GMT",
@@ -1721,14 +1729,6 @@
      "zh": "US Cyber Director Pick Signals Shift Toward Expertise"
     },
     {
-     "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-     "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-     "pubDate": "Mon, 23 Nov 2026 17:45:52 GMT",
-     "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
-     "source": "Dark Reading",
-     "zh": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors"
-    },
-    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
@@ -1761,12 +1761,28 @@
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+     "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+     "pubDate": "Tue, 24 Nov 2026 22:22:20 +0000",
+     "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+     "source": "WIRED",
+     "zh": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off"
+    },
+    {
      "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
      "link": "https://www.techmeme.com/261124/p40#a261124p40",
      "pubDate": "Tue, 24 Nov 2026 17:05:01 -0500",
      "summary": "Claude : Anthropic rolls out &ldquo;Install as app&rdquo; in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more &nbsp; &mdash;&nbsp; Open the artifacts you use every day like any other app, and let them do more on your computer",
      "source": "Techmeme",
      "zh": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)"
+    },
+    {
+     "title": "Heart attack and stroke risk detectable decades in advance",
+     "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+     "pubDate": "Tue, 24 Nov 2026 21:51:21 +0000",
+     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Heart attack and stroke risk detectable decades in advance"
     },
     {
      "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)",
@@ -1796,7 +1812,7 @@
      "title": "An unclassified CIA system was breached in a cyberattack",
      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
      "pubDate": "Tue, 24 Nov 2026 21:24:27 +0000",
-     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 27 # Comments: 3",
+     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 39 # Comments: 9",
      "source": "Hacker News",
      "zh": "An unclassified CIA system was breached in a cyberattack"
     },
@@ -1812,7 +1828,7 @@
      "title": "Working with AI",
      "link": "https://www.anthropic.com/research/working-with-ai",
      "pubDate": "Tue, 24 Nov 2026 21:07:38 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 33 # Comments: 29",
+     "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 49 # Comments: 42",
      "source": "Hacker News",
      "zh": "Working with AI"
     },
@@ -1852,7 +1868,7 @@
      "title": "Ternary Bonsai 2.5 27B",
      "link": "https://prismml.com/news/bonsai-2-5-27b",
      "pubDate": "Tue, 24 Nov 2026 20:08:03 +0000",
-     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 169 # Comments: 55",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 186 # Comments: 60",
      "source": "Hacker News",
      "zh": "Ternary Bonsai 2.5 27B"
     },
@@ -1863,14 +1879,6 @@
      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
      "source": "Ars Technica",
      "zh": "Back-to-back measles deaths is our new reality; US tally now at 14"
-    },
-    {
-     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-     "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-     "pubDate": "Tue, 24 Nov 2026 19:40:43 +0000",
-     "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 32 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
     },
     {
      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
@@ -1983,14 +1991,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games"
-    },
-    {
-     "title": "中国食品品牌的“第二次出海”",
-     "link": "https://www.huxiu.com/article/4908185.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 00:10:37 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：许恒 食品，其实是中国走向世界最早的贸易与文化载体。 古代丝绸之路上驼铃悠扬、千帆竞发，茶叶、生姜、桃李等中国风物沿着商路向西传播，制糖技艺与饮馔文化也随之远播南洋、中东与欧洲。 到了近代，有文字记载的第一家海外中餐馆在1850年的美国诞生，此后百余年间，有华人的地方就有中餐，红金的招牌下氤氲着陌生又诱人的锅气，那是世界认识中国的第一张味觉名片。 时至今天，中华饮食文化的全球热度仍在持续攀升：中式新茶饮开在全球各大都市的繁华地段，火锅、麻辣烫俘获各国食客味蕾，甚至#BecomingChinese（像中国人一样生活）词条下喝粥饮茶等中式养生饮食一次次在全",
-     "source": "虎嗅",
-     "zh": "中国食品品牌的“第二次出海”"
     }
    ]
   },
@@ -2000,6 +2000,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android Auto is rolling out a new app navigation layout perfect for wide displays",
+     "link": "https://www.androidauthority.com/android-auto-app-layout-3739081/",
+     "pubDate": "Tue, 24 Nov 2026 22:22:44 +0000",
+     "summary": "Android Auto 18.2 shows new side navigation in Spotify, YouTube Music, and more.",
+     "source": "Android Authority",
+     "zh": "Android Auto is rolling out a new app navigation layout perfect for wide displays"
+    },
+    {
+     "title": "Google Photos is forcing some Galaxy users to save every minor edit as a copy",
+     "link": "https://www.androidauthority.com/google-photos-galaxy-save-as-copy-bug-3739074/",
+     "pubDate": "Tue, 24 Nov 2026 22:21:36 +0000",
+     "summary": "We've reproduced the issue on a Galaxy S23 FE.",
+     "source": "Android Authority",
+     "zh": "Google Photos is forcing some Galaxy users to save every minor edit as a copy"
+    },
+    {
+     "title": "Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive",
+     "link": "https://9to5google.com/2026/11/24/google-messages-gemini-tasks/",
+     "pubDate": "Tue, 24 Nov 2026 22:11:31 +0000",
+     "summary": "Last week, Google announced that Gemini tasks (previously called Spark) is now available to free users in the US, along with an integration in Google Messages . In testing, I’ve found this instance of Gemini to be proactive and feel more like an assistant than the Gemini app does. more…",
+     "source": "9to5Google",
+     "zh": "Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive"
+    },
+    {
+     "title": "Anbernic’s latest RG DDS showcase avoids naming emulators after controversy",
+     "link": "https://www.androidauthority.com/anbernic-rg-dds-showcase-trailer-3739100/",
+     "pubDate": "Tue, 24 Nov 2026 22:11:15 +0000",
+     "summary": "Anbernic’s new RG DDS showcase quietly leaves emulator names off the screen.",
+     "source": "Android Authority",
+     "zh": "Anbernic’s latest RG DDS showcase avoids naming emulators after controversy"
+    },
     {
      "title": "2026 tech gift guide for Apple users",
      "link": "https://9to5mac.com/2026/11/24/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
@@ -2113,36 +2145,12 @@
      "zh": "Today’s Android app deals and freebies: Grand Theft Auto San Andreas 50% off, Dead Cells, Prune, more"
     },
     {
-     "title": "Google Messages is preparing iMessage-style threaded replies to make chats easier to follow",
-     "link": "https://www.androidauthority.com/google-messages-threaded-replies-apple-imessage-3738989/",
-     "pubDate": "Tue, 24 Nov 2026 19:37:31 +0000",
-     "summary": "Threaded replies will likely work across individual and group chats.",
-     "source": "Android Authority",
-     "zh": "Google Messages is preparing iMessage-style threaded replies to make chats easier to follow"
-    },
-    {
      "title": "Why you should never reply with STOP when you receive spam texts",
      "link": "https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts/",
      "pubDate": "Tue, 24 Nov 2026 19:30:00 +0000",
      "summary": "Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.",
      "source": "Engadget",
      "zh": "Why you should never reply with STOP when you receive spam texts"
-    },
-    {
-     "title": "Lenovo Legion Go Beam gaming handheld leaks with Android support and PC streaming",
-     "link": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/",
-     "pubDate": "Tue, 24 Nov 2026 19:28:25 +0000",
-     "summary": "It doesn't look like this will be a Windows handheld, after all.",
-     "source": "Android Authority",
-     "zh": "Lenovo Legion Go Beam gaming handheld leaks with Android support and PC streaming"
-    },
-    {
-     "title": "Chromecast with Google TV HD gets its first security update of the year",
-     "link": "https://www.androidauthority.com/chromecast-google-tv-hd-first-2026-update-3739022/",
-     "pubDate": "Tue, 24 Nov 2026 19:22:48 +0000",
-     "summary": "It's a much smaller download than its 4K sibling's.",
-     "source": "Android Authority",
-     "zh": "Chromecast with Google TV HD gets its first security update of the year"
     },
     {
      "title": "The Huawei MateBook Fold S is a foldable 14.7\" tablet with an extra display on the back",
@@ -2217,14 +2225,6 @@
      "zh": "Samsung brings new health features to the Galaxy Watch8 series with One UI 9 Watch update"
     },
     {
-     "title": "This $199 Amazon TV is an easy choice for your guest bedroom",
-     "link": "https://9to5google.com/2026/11/24/amazon-tv-black-friday-sale-2026/",
-     "pubDate": "Tue, 24 Nov 2026 17:26:59 +0000",
-     "summary": "This Amazon Ember TV Black Friday deal takes up to 40% off the company’s own TV brand, making it ideal for a secondary set. more…",
-     "source": "9to5Google",
-     "zh": "This $199 Amazon TV is an easy choice for your guest bedroom"
-    },
-    {
      "title": "The Nikon ZR’s first big update is finally here",
      "link": "https://www.dpreview.com/news/nikon-zr-v2-update-release-announcement/",
      "pubDate": "Tue, 24 Nov 2026 17:10:12 +0000",
@@ -2249,28 +2249,60 @@
    "total": 13,
    "items": [
     {
+     "title": "Kutcho Copper announces C$1M private placement",
+     "link": "https://seekingalpha.com/news/4676410-kutcho-copper-announces-c-1m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:24:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kutcho Copper announces C$1M private placement"
+    },
+    {
+     "title": "The Western Investment GAAP EPS of -C$0.007, revenue of C$11.1M",
+     "link": "https://seekingalpha.com/news/4676412-the-western-investment-gaap-eps-of-c0007-revenue-of-c111m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:21:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Western Investment GAAP EPS of -C$0.007, revenue of C$11.1M"
+    },
+    {
+     "title": "Fountain Asset reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676411-fountain-asset-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:19:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fountain Asset reports Q3 results"
+    },
+    {
+     "title": "Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates",
+     "link": "https://seekingalpha.com/news/4676404-ambarella-collapses-40-percent-as-q4-guidance-falls-shockingly-short-of-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:17:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ambarella collapses 40% as Q4 guidance falls shockingly short of estimates"
+    },
+    {
+     "title": "Destiny Media Technologies GAAP EPS of -$0.01, revenue of $0.97M",
+     "link": "https://seekingalpha.com/news/4676409-destiny-media-technologies-gaap-eps-of-0_01-revenue-of-0_97m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:17:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Destiny Media Technologies GAAP EPS of -$0.01, revenue of $0.97M"
+    },
+    {
+     "title": "Rocket Doctor AI CFO Andrew Lau resigns",
+     "link": "https://seekingalpha.com/news/4676406-rocket-doctor-ai-cfo-andrew-lau-resigns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 17:15:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rocket Doctor AI CFO Andrew Lau resigns"
+    },
+    {
      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
      "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
      "pubDate": "Tue, 24 Nov 2026 22:07:45 GMT",
      "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
      "source": "CNBC",
      "zh": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
-    },
-    {
-     "title": "Helium Evolution GAAP EPS of C$0.00",
-     "link": "https://seekingalpha.com/news/4676405-helium-evolution-gaap-eps-of-c000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 17:05:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Helium Evolution GAAP EPS of C$0.00"
-    },
-    {
-     "title": "Qfin Holdings Non-GAAP EPADS of $0.51, revenue of $460.67M beats by $20.76M",
-     "link": "https://seekingalpha.com/news/4676403-qfin-holdings-non-gaap-epads-of-051-revenue-of-46067m-beats-by-2076m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 17:03:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Qfin Holdings Non-GAAP EPADS of $0.51, revenue of $460.67M beats by $20.76M"
     },
     {
      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
@@ -2281,44 +2313,12 @@
      "zh": "Saudi national charged in OpenAI bugging to be released on $1 million bond"
     },
     {
-     "title": "PennantPark outlines AKW exit in 18 to 24 months as supplemental dividends conclude in December",
-     "link": "https://seekingalpha.com/news/4676402-pennantpark-outlines-akw-exit-in-18-to-24-months-as-supplemental-dividends-conclude-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 17:02:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PennantPark outlines AKW exit in 18 to 24 months as supplemental dividends conclude in December"
-    },
-    {
-     "title": "Ambarella plunges 44% after hours on earnings miss",
-     "link": "https://seekingalpha.com/news/4676401-ambarella-plunges-44-after-hours-on-earnings-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 17:01:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ambarella plunges 44% after hours on earnings miss"
-    },
-    {
-     "title": "HP in charts: Personal Systems rises 13.5% Y/Y on commercial PC gains",
-     "link": "https://seekingalpha.com/news/4676349-hp-in-charts-personal-systems-rises-135-yy-on-commercial-pc-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 17:01:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HP in charts: Personal Systems rises 13.5% Y/Y on commercial PC gains"
-    },
-    {
      "title": "惠普盈利指引超预期，内存成本控制取得进展",
      "link": "https://wallstreetcn.com/articles/3786637",
      "pubDate": "Wed, 25 Nov 2026 06:00:09 +0800",
      "summary": "惠普财报显示在应对内存芯片成本上涨方面正逐步改善，盘后股价随即大幅跳涨。 周二美股盘后，惠普发布2026财年全年及第四季度业绩报告，宣布提高股息。报告显示， 截至明年1月的当前财季，每股收益预期为0.66至0.76美元，市场预期为0.72美元，上述指引均已纳入关税退税的影响 。 预计自本月起的新财年非通用会计准则每股收益预期区间为3.15至3.45美元，据彭博汇总的分析师一致预期为3.18美元。 消息公布后，惠普盘后股价一度涨幅约15%，随后几乎回吐全部涨幅，此前收盘报27.94美元。 首席财务官Karen Parkhill表示，公司对全年持续改善盈利能力抱有信心，尽管2027财年展望体现了对",
      "source": "华尔街见闻",
      "zh": "惠普盈利指引超预期，内存成本控制取得进展"
-    },
-    {
-     "title": "HP's Q4 results top estimates due in part to strong AI PC sales",
-     "link": "https://seekingalpha.com/news/4676346-hps-q4-results-top-estimates-due-in-part-to-strong-ai-pc-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 16:59:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HP's Q4 results top estimates due in part to strong AI PC sales"
     },
     {
      "title": "培育壮大企业梯队 深入推进智转数改 宁波加快打造先进制造业高地",
@@ -2375,6 +2375,14 @@
      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
      "source": "MarketWatch",
      "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
+    },
+    {
+     "title": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3786635",
+     "pubDate": "Wed, 25 Nov 2026 05:52:57 +0800",
+     "summary": "戴尔科技公布的最新财报显示，AI基础设施投资热潮正以前所未有的速度转化为公司收入。第三财季营收同比翻倍，AI优化服务器收入增长近三倍，新订单和积压订单均创历史新高，推动公司第三次上调本财年业绩指引。 当地时间11月24日，戴尔公布截至2026年10月30日的2027财年第三季度业绩。财报显示， 公司当季营收达到549.37亿美元，同比增长103%；非GAAP每股收益为9.45美元，同比增长265%，两项指标均大幅超过市场预期。分析师此前平均预期营收为493.2亿美元、调整后每股收益为6.59美元。 更重要的是，戴尔AI优化服务器业务继续加速增长。 第三财季，该业务收入达到220.31亿美元，同",
+     "source": "华尔街见闻",
+     "zh": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻"
     },
     {
      "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -2479,14 +2487,6 @@
      "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
      "source": "CNBC",
      "zh": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington"
-    },
-    {
-     "title": "Anthropic closes below IPO price as tech rally fades",
-     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 21:11:37 GMT",
-     "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-     "source": "Financial Times",
-     "zh": "Anthropic closes below IPO price as tech rally fades"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 12:51:56",
+ "generated_at": "2026/11/24 13:11:55",
  "recent_days": 7,
  "industries": [
   {
@@ -23,6 +23,14 @@
      "summary": "中国AI数据平台加速崛起",
      "source": "量子位",
      "zh": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源"
+    },
+    {
+     "title": "苹果音箱耳机2个“特别版”来了，12月见",
+     "link": "https://zhidx.com/p/613477.html",
+     "pubDate": "Tue, 24 Nov 2026 11:24:52 +0800",
+     "summary": "&nbsp; 智东西 编译 | 孙小雯 编辑 | 云鹏 智东西11月24日消息，据彭博社记者马克·古尔曼（Mark Gurman）今日凌晨报道，苹果计划于12月1日前后推出入门级音箱HomePod mini 2和高端头戴式耳机AirPods Max 2的(PRODUCT) RED 特别版，并恢复与抗艾滋病公益组织(RED)的产品合作。古尔曼称，苹果此举既可为公益项目筹集资金，也可丰富年末购物季的产品阵容。 ▲苹果与(RED)合作主页 古尔曼援引知情人士报道称，苹果拟推出一款新配色的HomePod mini 2，采用红色网布外壳，并为AirPods Max 2新增银色版本。新版AirPods M",
+     "source": "智东西",
+     "zh": "苹果音箱耳机2个“特别版”来了，12月见"
     },
     {
      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -177,14 +185,6 @@
      "zh": "突发！黄仁勋回归，英伟达盘前暴涨34%，特朗普马斯克火速发文"
     },
     {
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-     "pubDate": "Mon, 23 Nov 2026 14:11:17 GMT",
-     "summary": "Could the scientific method be emergent?",
-     "source": "Import AI",
-     "zh": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark"
-    },
-    {
      "title": "5 Lightweight Alternatives to MCP for Giving AI Agents Tools",
      "link": "https://www.kdnuggets.com/5-lightweight-alternatives-to-mcp-for-giving-ai-agents-tools",
      "pubDate": "Mon, 23 Nov 2026 13:00:00 +0000",
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Micron steps up HBM investment in Taiwan, Singapore",
+     "link": "https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html",
+     "pubDate": "Tue, 24 Nov 2026 04:22:45 GMT",
+     "summary": "Micron Technology is stepping up investment in high-bandwidth memory (HBM) production in Taiwan and Singapore as it seeks to narrow the capacity gap with South Korean rivals Samsung Electronics and SK Hynix.",
+     "source": "DIGITIMES",
+     "zh": "Micron steps up HBM investment in Taiwan, Singapore"
+    },
+    {
      "title": "Green Solution Technology eyes substitution gains as foreign power IC prices rise, plans 7% hike in 4Q26",
      "link": "https://www.digitimes.com/news/a20261123PD238/nvidia-pmic-growth-high-end-2026.html",
      "pubDate": "Tue, 24 Nov 2026 03:58:00 GMT",
@@ -295,14 +303,6 @@
      "summary": "Sarvam's decision to host Chinese-developed AI models on Indian infrastructure is putting a practical question at the center of India's push for technological independence: whether sovereignty depends on owning the models, controlling the computing infrastructure, or both.",
      "source": "DIGITIMES",
      "zh": "Sarvam's foreign-model platform tests India's AI-sovereignty goals"
-    },
-    {
-     "title": "Ant Group deepens its humanoid robotics ambitions with US$100 million Simplexity funding round",
-     "link": "https://www.digitimes.com/news/a20261124PD221/ant-group-funding-robot-startup-supply-chain.html",
-     "pubDate": "Tue, 24 Nov 2026 03:20:00 GMT",
-     "summary": "Ant Group is expanding its robotics investments, leading a US$100 million funding round for Chinese humanoid robot startup Simplexity Robotics at a valuation of US$1.6 billion. Existing investors, including Tencent, HSG, and Lanchi Ventures, also participated in the round.",
-     "source": "DIGITIMES",
-     "zh": "Ant Group deepens its humanoid robotics ambitions with US$100 million Simplexity funding round"
     },
     {
      "title": "Electronic Character Recognition Acclerates Data Processing",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Golden State goes all in on VPPs",
+     "link": "https://www.pv-magazine.com/2026/11/24/golden-state-goes-all-in-on-vpps/",
+     "pubDate": "Tue, 24 Nov 2026 05:00:00 +0000",
+     "summary": "California passed two virtual power plant (VPP) bills in 2026. SB 913 enables customer-sited batteries to compete for utility capacity contracts, and SB 905 requires the California Public Utilities Commission (CPUC) to create a grid utilization metric that will lead to VPPs based on distribution sys",
+     "source": "pv magazine",
+     "zh": "Golden State goes all in on VPPs"
+    },
+    {
      "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
      "link": "https://cleantechnica.com/2026/11/23/solar-industry-supports-baaja-while-environmental-orgs-oppose-it/",
      "pubDate": "Tue, 24 Nov 2026 01:50:33 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "IEEFA says India could unlock INR680 billion in renewable investment through life insurers, addressing domestic funding constraints.",
      "source": "PV Tech",
      "zh": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA"
-    },
-    {
-     "title": "Europe turns negative electricity prices into a flexibility signal",
-     "link": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
-     "pubDate": "Mon, 23 Nov 2026 10:45:00 +0000",
-     "summary": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report. The post Europe turns negative electricity prices into a flexibility signal appeared first",
-     "source": "pv magazine",
-     "zh": "Europe turns negative electricity prices into a flexibility signal"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1327,6 +1335,14 @@
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "Progress MS-36 set to launch to ISS from Baikonur",
+     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
+     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 set to launch to ISS from Baikonur appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Progress MS-36 set to launch to ISS from Baikonur"
     },
     {
      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
@@ -1441,12 +1457,28 @@
      "zh": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251"
     },
     {
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
+    },
+    {
      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
      "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
+    },
+    {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1481,6 +1513,14 @@
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1495,46 +1535,6 @@
      "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Making the case for optical"
-    },
-    {
-     "title": "HEO Unveils Insights Next SDA Tool",
-     "link": "https://payloadspace.com/heo-unveils-insights-next-sda-tool/",
-     "pubDate": "Thu, 19 Nov 2026 11:53:58 +0000",
-     "summary": "If a picture is worth a thousand words, then Australian non-Earth imaging (NEI) startup HEO has a lot to say about the state of orbital traffic. The post HEO Unveils Insights Next SDA Tool appeared first on Payload .",
-     "source": "Payload",
-     "zh": "HEO Unveils Insights Next SDA Tool"
-    },
-    {
-     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
-     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
-     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
-     "source": "SpaceNews",
-     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
-     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
-     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
-     "source": "SpaceNews",
-     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
-    },
-    {
-     "title": "Origami and solar arrays",
-     "link": "https://spacenews.com/origami-and-solar-arrays/",
-     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
-     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Origami and solar arrays"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
     }
    ]
   },
@@ -1769,6 +1769,78 @@
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "PM Lawrence Wong says he doesn&apos;t want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed&apos;s purchases of Nvidia chips (Philip Heijmans/Bloomberg)",
+     "link": "https://www.techmeme.com/261124/p1#a261124p1",
+     "pubDate": "Tue, 24 Nov 2026 00:05:01 -0500",
+     "summary": "Philip Heijmans / Bloomberg : PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips &nbsp; &mdash;&nbsp; Prime Minister Lawrence Wong doesn't want Singapore to be used as a route for companies seeking to",
+     "source": "Techmeme",
+     "zh": "PM Lawrence Wong says he doesn&apos;t want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed&apos;s purchases of Nvidia chips (Philip Heijmans/Bloomberg)"
+    },
+    {
+     "title": "中国要给2.5亿巴基斯坦人，刷一个大火箭",
+     "link": "https://www.huxiu.com/article/4907983.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 13:01:43 +0800",
+     "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局，原文标题：《刚刚，中国要给2.5亿巴基斯坦人，刷一个大火箭》 神舟二十四号即将在酒泉升空，飞船上坐着三个人。其中，巴基斯坦人穆罕默德·齐尚·阿里将成为中国载人航天三十多年来的第一位外国航天员。 中国一年上百次火箭发射，这一发不算太稀奇。但对巴基斯坦来说，从1962年第一次发射火箭到现在，整整64年，终于要送一个人进入太空了。 就像齐尚·阿里本人所说，他肩上有2.5亿巴基斯坦人的重大责任。 这一波是真的“老船长，带带我” （图：CMSE）▼ 两个人，一个座位 去年2月28日，中巴签署了选拔巴基斯坦航天员的合作协议。到今年4月，候选名单缩至二十",
+     "source": "虎嗅",
+     "zh": "中国要给2.5亿巴基斯坦人，刷一个大火箭"
+    },
+    {
+     "title": "TikTok Shop马来站达人寄样单条CPA冲到28马币，还要继续铺量吗？",
+     "link": "https://www.baijing.cn/question/638933",
+     "pubDate": "Tue, 24 Nov 2026 05:00:37 +0000",
+     "summary": "3人小团队做马来站美妆个护，起量阶段月预算大概1.2万马币，主要靠达人短视频带货。8月起批量寄样，单条样品加物流成本约35马币，寄出120多份，实际出单的达人不到三成，按成交口径算下来CPA已经到28马币，比我们投TikTok Ads的CPA还高一截。试过先看达人近30天GMV再筛、把寄样门槛提到粉丝1万以上，也试过只寄小样压低成本，但出单率没明显改善，卡在不知道该怎么定寄样的ROI门槛和止损线。想问的是：马来站达人寄样这条链路，单条CPA控制在多少以内才算值得继续铺量？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop马来站达人寄样单条CPA冲到28马币，还要继续铺量吗？"
+    },
+    {
+     "title": "与AI联手证明黎曼猜想的数学家：“我的指路灯没了”",
+     "link": "https://www.huxiu.com/article/4907981.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 12:55:10 +0800",
+     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 数学界的这一史诗级难题宣告破解，但学者表示，无论是机器还是人类给出的证明都需经过严格的检验。 这是AI在数学领域势如破竹的一年，而现在，位于美国旧金山的Anthropic宣布攻下了数学界的最高堡垒——发现了黎曼猜想（Riemann hypothesis）的一个完整证明。黎曼猜想是许多数学家认为最重要的未解难题。而就在同一天，另一项研究也宣称证明了黎曼猜想——而这一份证明是完全由人类手写的。 11月20日，Anthropic的数学家Levent Alpöge替该公司宣布了这一消息。他写道，“我相信，在与Claude的合作下",
+     "source": "虎嗅",
+     "zh": "与AI联手证明黎曼猜想的数学家：“我的指路灯没了”"
+    },
+    {
+     "title": "最高明的涨价，隐藏在你看不见的地方",
+     "link": "https://www.huxiu.com/article/4907979.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 12:52:05 +0800",
+     "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 假如你每天坐地铁上下班，单程5公里，车票3元，一个月22个工作日，往返通勤需要花费132元。 从今年12月开始，如果你在上海，在不考虑优惠的情况下，这笔费用将变成176元。一个月多花44元，一年下来就是500多元。有意思的是，上海地铁的起乘价依然是3元。 11月23日，上海市发改委公布了新的轨道交通票价机制，起乘价保持不变，起乘里程从6公里缩短至4公里，后续的里程计价规则也有所调整。根据官方测算，叠加计次票、满额优惠等措施后，平均每人次票价将提高0.9元，涨幅为21.3%。 类似的事情其实每天都在我们身边发生。超市里那包一直卖10元的薯片，骑",
+     "source": "虎嗅",
+     "zh": "最高明的涨价，隐藏在你看不见的地方"
+    },
+    {
+     "title": "混元会是腾讯AI的大结果吗",
+     "link": "https://www.huxiu.com/article/4907980.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 12:51:48 +0800",
+     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：谢泽锋，原文标题：《混元会是腾讯AI的大结果吗｜巨潮》 浪已经杀过来了。AI进展飞快，远处的浪潮已经在吞没一个个山丘了。 不能坐着欣赏，要赶紧站起来迎战。一半人守阵地，另一半人上船打新仗。 11月11日的腾讯总办LinkTime直播中，AI的分量在被史无前例地着墨。 马化腾当时还说出了比上述两句更加令腾讯员工感到“惊悚”的话：自己今天和Martin（刘炽平）穿的一黑一白，难听的话自己来说，“现在是生死存亡的时候了。” 当外界还在消化这份会议纪要时，一份让人不安的三季报，和连续不断的股价下跌，把腾讯控股压到了11倍市盈率的“传统产业估值”",
+     "source": "虎嗅",
+     "zh": "混元会是腾讯AI的大结果吗"
+    },
+    {
+     "title": "CAR-T的分水岭时刻",
+     "link": "https://www.tmtpost.com/8215707.html",
+     "pubDate": "Tue, 24 Nov 2026 12:46:59 +0800",
+     "summary": "从西到东，三浪奔涌。",
+     "source": "钛媒体",
+     "zh": "CAR-T的分水岭时刻"
+    },
+    {
+     "title": "马斯克谈支持黄仁勋：逆境时才能看到真朋友",
+     "link": "https://www.tmtpost.com/8215202.html",
+     "pubDate": "Tue, 24 Nov 2026 12:46:36 +0800",
+     "summary": "“酒肉朋友毫无价值”。",
+     "source": "钛媒体",
+     "zh": "马斯克谈支持黄仁勋：逆境时才能看到真朋友"
+    },
+    {
+     "title": "苹果做智能体，OpenAI做手机",
+     "link": "https://www.tmtpost.com/8215096.html",
+     "pubDate": "Tue, 24 Nov 2026 12:46:33 +0800",
+     "summary": "都想攻占对方的领地。",
+     "source": "钛媒体",
+     "zh": "苹果做智能体，OpenAI做手机"
+    },
+    {
      "title": "困惑度，为什么成了衡量RSI进度的“度量衡”？",
      "link": "https://www.tmtpost.com/8215712.html",
      "pubDate": "Tue, 24 Nov 2026 12:37:51 +0800",
@@ -1785,28 +1857,20 @@
      "zh": "中国旺旺，跋涉越冬"
     },
     {
-     "title": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？",
-     "link": "https://www.tmtpost.com/8215303.html",
-     "pubDate": "Tue, 24 Nov 2026 12:37:40 +0800",
-     "summary": "入局AI4S，功夫其实在AI之外的部分。",
-     "source": "钛媒体",
-     "zh": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？"
+     "title": "消息称豆包灰度测试“豆包购物”，配有一级功能入口",
+     "link": "https://www.ithome.com/1/031/464.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:36:05 GMT",
+     "summary": "IT之家 11 月 24 日消息，据《读佳》今日报道，豆包 App 正灰度测试“ 豆包购物 ”，并配有一级功能入口，目前部分用户可见该功能。 从报道中晒出的截图可以看到，豆包购物独立放置在侧边菜单栏，和新对话、定时任务、插件技能并列，点击进入后是抖音电商提供的类小程序页面，相当于一个小型的抖音商城。 豆包购物底层复用抖音电商完整履约体系 ，可支持实物、餐饮团购、演出票务交易，覆盖结算、退款、售后核销全链路。 授权页面显示，这套购物链路依托抖音电商，页面标注来源为抖音电商。 据 36 氪今年 6 月报道，知情人士透露，豆包计划三季度进一步结合电商功能更新完善付费场景， 并通过补贴为抖音商城进行引",
+     "source": "IT之家",
+     "zh": "消息称豆包灰度测试“豆包购物”，配有一级功能入口"
     },
     {
-     "title": "黄仁勋回来了，明星创始人为何“赶不走”？",
-     "link": "https://www.tmtpost.com/8215547.html",
-     "pubDate": "Tue, 24 Nov 2026 12:37:35 +0800",
-     "summary": "黄仁勋短暂离职11天后再度复职，股价大幅反弹。这一反转折射明星创始人的双重属性：既是企业宝贵资产，也暗藏高度绑定的治理风险，科技巨头亟待完成个人能力向组织能力的沉淀。",
-     "source": "钛媒体",
-     "zh": "黄仁勋回来了，明星创始人为何“赶不走”？"
-    },
-    {
-     "title": "ADC杀出一匹黑马",
-     "link": "https://www.tmtpost.com/8215427.html",
-     "pubDate": "Tue, 24 Nov 2026 12:37:29 +0800",
-     "summary": "ADC打开FGFR3新空间。",
-     "source": "钛媒体",
-     "zh": "ADC杀出一匹黑马"
+     "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+     "link": "https://www.ithome.com/1/031/463.htm",
+     "pubDate": "Tue, 24 Nov 2026 04:35:19 GMT",
+     "summary": "IT之家 11 月 24 日消息，当地时间 11 月 23 日，Qt 团队发布了最新的集成开发环境（IDE）Qt Creator 21。 本次更新重点加强了 AI Agent 与 IDE 的协作能力，同时引入全新的 Profile 性能分析模式，并改进 C++/QML 调试、Git 版本控制、CMake 项目管理和代码编辑体验。 在 AI 功能方面，Qt Creator 21 默认启用 Agentic AI Chat（ACP）集成和 MCP 服务器，并为 MCP 服务器默认增加 Bearer Token 身份验证机制。外部 Agent 连接 Qt Creator MCP 时，需要在请求中添加授",
+     "source": "IT之家",
+     "zh": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持"
     },
     {
      "title": "巴西手游接入Pix后，充值到账和回款周期为什么还是对不上？",
@@ -1873,30 +1937,6 @@
      "zh": "恒隆与太古，为什么在同一轮繁荣里走出了两种命运？"
     },
     {
-     "title": "《后会友期》被举报，这世界太癫了",
-     "link": "https://www.huxiu.com/article/4907968.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:12:57 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：侯虹斌 对一档节目不满意，你可以不看；对一种观点不认同，可以用更好的观点去回应。但举报，只会让所有人失去开口的权利。 听说热门综艺《后会友期》被举报了，我并不意外——这些年五花八门的举报早已让人见怪不怪；但看到举报理由时，还是吃了一惊：这个世界太癫了！ 原因仅仅是，节目里的嘉宾和观察员，在讨论“努力是不是一种天赋”。 这么温和的话题，人畜无害、不涉及任何对立，也能招来举报？还有人大喊三观崩塌，呼吁有关部门出手，直接把节目下架？ 01 《后会友期》是近期影响力很大的一档综艺，请来四组走散多年的旧友，一起走完18天的高原旅行，讨论度很高。这一期引发反响的，",
-     "source": "虎嗅",
-     "zh": "《后会友期》被举报，这世界太癫了"
-    },
-    {
-     "title": "张家鹏：知识越丰富，思想越自由吗？",
-     "link": "https://www.huxiu.com/article/4907967.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:09:10 +0800",
-     "summary": "本文来自微信公众号： RET睿意德 ，作者：这里是 RET睿意德创办人张家鹏是一位敏感、思辨，既热衷挑战又对风险十分警觉的人，他似乎习惯于在值得肯定的事物中，寻找那些容易被忽略的另一面。最近的一次内部读书会上，他又习惯性地从反面切入，没有谈论阅读的益处，而是讨论起读书的“坏处”，提醒大家警惕知识可能带来的思想束缚。本文即根据他的这次发言整理而成。 ” 人们通常认为，读书少、见识有限的人更容易固执己见。但现实中，最难改变想法的，未必是那些知识匮乏的人。有时恰恰相反，一个读过很多书、拥有丰富知识和完整理论体系的人，反而可能对某些问题表现出惊人的固执。 这未必完全是因为自负。一个更值得思考的原因是，",
-     "source": "虎嗅",
-     "zh": "张家鹏：知识越丰富，思想越自由吗？"
-    },
-    {
-     "title": "一场婚礼20万，台上不想演，台下不想看",
-     "link": "https://www.huxiu.com/article/4907966.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:08:55 +0800",
-     "summary": "本文来自微信公众号： 深氪新消费 ，作者：视频组 很多普通家庭平时舍不得吃、舍不得穿，但结婚这一天却无论如何个都要硬着头皮扮演一次“体面人”。 随出去的钱追不回来，砸下去的排场拍完照就拆。 办婚礼真的还有必要吗？ 点击上方视频立即观看 以下是本期视频脚本： 花二十万演一场戏，新人在台上配合表演，宾客坐着刷手机等开席。 一场婚礼下来，最累的是主角，最敷衍的是观众。 现在的年轻人，越来越讨厌办婚礼。 很多普通家庭平时舍不得吃、舍不得穿， 但结婚这一天却无论如何个都要硬着头皮扮演一次“体面人”。 根据谷雨数据《结婚行业洞察白皮书》，国内传统婚礼的平均花费达到17.4万元，是新人双方月均收入的8.8倍",
-     "source": "虎嗅",
-     "zh": "一场婚礼20万，台上不想演，台下不想看"
-    },
-    {
      "title": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证",
      "link": "https://www.ithome.com/1/031/456.htm",
      "pubDate": "Tue, 24 Nov 2026 04:07:53 GMT",
@@ -1905,26 +1945,10 @@
      "zh": "复职英伟达 CEO 后将迎国会听证，黄仁勋 12 月 3 日将公开作证"
     },
     {
-     "title": "全亚洲的水族馆中就剩1只海獭了，此等萌物为何不养了？",
-     "link": "https://www.huxiu.com/article/4907965.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 12:07:08 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：梨雪森，编辑：十字星 2026年11月5号的早上，海獭Kira（キラ）已经明显没有力气了。 过去的几个月，它的腰腿状况一直不好。前一天，园方决定暂停展出，让它留在后场休养。第二天早上7点左右，Kira突然出现了痉挛，工作人员紧急给它保温、吸氧、注射药物，但情况没有好转。 上午10:40，Kira停止了呼吸。 它今年18岁，已经是一只高龄海獭了。根据园方公布的死亡公告，它的死亡原因初步判断为呼吸衰竭引发的心肺停止，准确死因仍有待进一步检查。 Kira出生于和歌山县白滨冒险世界，2021年搬到鸟羽水族馆，此后一直与另一只雌性海獭May（メイ）共同生活。 May和",
-     "source": "虎嗅",
-     "zh": "全亚洲的水族馆中就剩1只海獭了，此等萌物为何不养了？"
-    },
-    {
-     "title": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
-     "link": "https://www.ithome.com/1/031/426.htm",
-     "pubDate": "Tue, 24 Nov 2026 04:01:00 GMT",
-     "summary": "IT之家 11 月 24 日消息，蚂蚁科技集团今日发布并开源 Ling-3.2-air 模型 。该模型延续了 Ling-3.0-flash-VL 的原生多模态架构，支持文本、图像和视频输入，拥有 1240 亿总参数 ，每个 Token 激活 55 亿参数 。 与上一代相比，Ling-3.2-air 在解决代码仓库中的问题、执行多步骤工作流，以及理解视觉信息和推理专业文档等任务上的表现均有提升。 具体来看，与上一代 Ling-3.0-flash-VL 相比，Ling-3.2-air 的提升覆盖了 语言推理、编程、智能体执行和多模态任务 ，尤其体现在代码仓库问题解决、多步骤工作流和视觉推理等场景。",
-     "source": "IT之家",
-     "zh": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数"
-    },
-    {
      "title": "Drone Maps of Salvage Yards",
      "link": "https://salvageyarddrone.wordpress.com/",
      "pubDate": "Tue, 24 Nov 2026 04:00:28 +0000",
-     "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 17 # Comments: 5",
      "source": "Hacker News",
      "zh": "Drone Maps of Salvage Yards"
     },
@@ -1943,14 +1967,6 @@
      "summary": "我们一款SLG手游在肯尼亚内罗毕和蒙巴萨做冷启动，投放用Meta和Google UAC，团队一共4个人：1个投放、1个素材、1个本地化运营、1个兼职客服。现在卡在素材排期上——肯尼亚移动网络以3G/4G为主，内罗毕城区4G还行，出了城区掉到3G，视频素材超过15秒完播率从42%掉到18%，我们被迫每周出6-8条10秒竖版素材。但素材同学一周只能产出3条，投放端等素材空转，CPA从0.9美元涨到1.4美元。试过用本地KOL拍实拍素材，单条成本压到80美元但拍摄周期要10天，赶不上周更。想问在这种人手和网络条件下，素材产能和投放节奏该怎么排？",
      "source": "白鲸出海",
      "zh": "肯尼亚买量素材周更节奏，4人团队扛得住吗？"
-    },
-    {
-     "title": "特斯拉拟斥资 31 亿美元在得州建设光伏多晶硅工厂，目标 2030 年投运",
-     "link": "https://www.ithome.com/1/031/424.htm",
-     "pubDate": "Tue, 24 Nov 2026 03:59:57 GMT",
-     "summary": "IT之家 11 月 24 日消息，Tesla（特斯拉）上周向美国得克萨斯州有关部门递交申请，希望其拟议的光伏级多晶硅工厂能得到该州的税收优惠支持。 IT之家获悉，这一项目 计划投资规模达 31 亿美元 （IT之家注：现汇率约合 207.06 亿元人民币） ，考虑落地南得州的 Nueces。该工厂 预计 2030 年投入运营 ，到 2032 年员工总数达到 515 人。 特斯拉首席执行官 Elon Musk（埃隆 · 马斯克）今年初曾表示，计划通过 3 年时间让 Tesla 与 SpaceX 各建成 100GW 的太阳能电池板产能。SpaceX 本月 10 日与 SINGULUS 签署一份异质结",
-     "source": "IT之家",
-     "zh": "特斯拉拟斥资 31 亿美元在得州建设光伏多晶硅工厂，目标 2030 年投运"
     },
     {
      "title": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
@@ -1983,22 +1999,6 @@
      "summary": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26 Comments URL: https://news.ycombinator.com/item?id=50623175 Points: 6 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in"
-    },
-    {
-     "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
-     "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
-     "pubDate": "Tue, 24 Nov 2026 03:15:38 +0000",
-     "summary": "Article URL: https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards Comments URL: https://news.ycombinator.com/item?id=50623166 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Zero data retention with Enterprise Frontier Safeguards is now in beta"
-    },
-    {
-     "title": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261123/p51#a261123p51",
-     "pubDate": "Mon, 23 Nov 2026 22:15:00 -0500",
-     "summary": "Wall Street Journal : Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them &nbsp; &mdash;&nbsp; Trump made clear he wanted the Nvidia CEO reinstated; on Monday he touted the decision, saying th",
-     "source": "Techmeme",
-     "zh": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&apos;s board, but was remorseful about them (Wall Street Journal)"
     }
    ]
   },
@@ -2257,52 +2257,76 @@
    "total": 13,
    "items": [
     {
-     "title": "SBC Medical Group Holdings GAAP EPS of $0.15 beats by $0.01, revenue of $58.6M beats by $3.66M",
-     "link": "https://seekingalpha.com/news/4675967-sbc-medical-group-holdings-gaap-eps-of-015-beats-by-001-revenue-of-586m-beats-by-366m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:46:05 -0500",
+     "title": "Verve Group Media SE Non-GAAP EPS of €0.00, revenue of €164M; updates FY2026 oulook",
+     "link": "https://seekingalpha.com/news/4675976-verve-group-media-se-non-gaap-eps-of-000-revenue-of-164m-updates-fy2026-oulook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 00:07:39 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "SBC Medical Group Holdings GAAP EPS of $0.15 beats by $0.01, revenue of $58.6M beats by $3.66M"
+     "zh": "Verve Group Media SE Non-GAAP EPS of €0.00, revenue of €164M; updates FY2026 oulook"
     },
     {
-     "title": "Surgepays GAAP EPS of $0.34 beats by $0.41, revenue of $17.27M beats by $0.77M",
-     "link": "https://seekingalpha.com/news/4675965-surgepays-gaap-eps-of-034-beats-by-041-revenue-of-1727m-beats-by-077m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:43:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Surgepays GAAP EPS of $0.34 beats by $0.41, revenue of $17.27M beats by $0.77M"
+     "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+     "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+     "pubDate": "Tue, 24 Nov 2026 05:05:08 GMT",
+     "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+     "source": "CNBC",
+     "zh": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions"
     },
     {
-     "title": "Suncor Energy names Enbridge veteran Max Chan as CFO",
-     "link": "https://seekingalpha.com/news/4675962-suncor-energy-names-enbridge-veteran-max-chan-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:42:13 -0500",
+     "title": "Petrobras boosts five-year investment plan to $122B, targets higher oil output",
+     "link": "https://seekingalpha.com/news/4675963-petrobras-boosts-five-year-investment-plan-to-122b-targets-higher-oil-output?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 00:05:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Suncor Energy names Enbridge veteran Max Chan as CFO"
+     "zh": "Petrobras boosts five-year investment plan to $122B, targets higher oil output"
     },
     {
-     "title": "FS Credit Opportunities reports Q3 results",
-     "link": "https://seekingalpha.com/news/4675964-fs-credit-opportunities-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:41:12 -0500",
+     "title": "G City reports Q3 results; raises FY2026 FFO per share forecast",
+     "link": "https://seekingalpha.com/news/4675974-g-city-reports-q3-results-raises-fy2026-ffo-per-share-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 00:05:03 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "FS Credit Opportunities reports Q3 results"
+     "zh": "G City reports Q3 results; raises FY2026 FFO per share forecast"
     },
     {
-     "title": "Amentum Holdings beats top-line and bottom-line estimates; initiates FY2027 outlook",
-     "link": "https://seekingalpha.com/news/4675961-amentum-holdings-beats-top-line-and-bottom-line-estimates-initiates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:36:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amentum Holdings beats top-line and bottom-line estimates; initiates FY2027 outlook"
+     "title": "Citadel：AI投资的政治风险被严重低估",
+     "link": "https://wallstreetcn.com/articles/3786569",
+     "pubDate": "Tue, 24 Nov 2026 13:00:36 +0800",
+     "summary": "Citadel认为，当前市场对AI的关注过度集中于技术层面的\"代理\"风险，却严重忽视了另一类风险——选民、国会和白宫将如何决定AI的部署边界与速度。 11月21日，Citadel固定收益负责人Nohshad Shah研究报告中警告， 美国经济正进入一个容错空间收窄的阶段：财政刺激消退、融资条件收紧、AI资本支出增速放缓，而美联储的货币政策立场也难以为市场提供缓冲。 Shah 指出，只要发生一起重大网络安全事件并点燃公众情绪， 监管层强行干预 AI 商业部署的动作就会比市场预想的来得更快、更果断，而当前市场在给 AI 估值时，几乎完全忽略了这一尾部风险。 他对AI整体投资维持防御立场，并以一句话",
+     "source": "华尔街见闻",
+     "zh": "Citadel：AI投资的政治风险被严重低估"
     },
     {
-     "title": "Tuya declares $0.057 dividend",
-     "link": "https://seekingalpha.com/news/4675960-tuya-declares-0057-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 23:33:17 -0500",
+     "title": "Tuesday's Economic Calendar",
+     "link": "https://seekingalpha.com/news/4675517-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 00:00:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Tuya declares $0.057 dividend"
+     "zh": "Tuesday's Economic Calendar"
+    },
+    {
+     "title": "Marwest Apartment Real Estate Investment Trust GAAP FFO of $0.03, revenue of $2.7M",
+     "link": "https://seekingalpha.com/news/4675973-marwest-apartment-real-estate-investment-trust-gaap-ffo-of-003-revenue-of-27m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:59:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marwest Apartment Real Estate Investment Trust GAAP FFO of $0.03, revenue of $2.7M"
+    },
+    {
+     "title": "戴文军辞去总裁职务，绝味食品募投项目再延期",
+     "link": "http://www.eeo.com.cn/2026/1124/1100956.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:58:01 +0800",
+     "summary": "绝味食品原董秘廖凯将接任总裁一职。",
+     "source": "经济观察网",
+     "zh": "戴文军辞去总裁职务，绝味食品募投项目再延期"
+    },
+    {
+     "title": "Strategic Student & Senior Housing Trust, Inc. reports results for the first nine months of 2026",
+     "link": "https://seekingalpha.com/news/4675972-strategic-student-senior-housing-trust-inc-reports-results-for-the-first-nine-months-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 23:56:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Strategic Student & Senior Housing Trust, Inc. reports results for the first nine months of 2026"
     },
     {
      "title": "China has changed tactics but is still thwarting India&apos;s rise, a U.S. panel says",
@@ -2388,7 +2412,7 @@
      "title": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商",
      "link": "http://stock.eastmoney.com/news/1416,202611243938308368.html",
      "pubDate": "Tue, 24 Nov 2026 11:49:06 +0800",
-     "summary": "财联社11月24日讯（编辑马兰） 苹果 的可折叠手机iPhone Duo，未来可能被迫依赖于三星的显示屏，分析师郭明錤称 OLED 面板 是 苹果 在谈判筹码方面最棘手的单一组件。 爆料平台Instant Digital最新在 微博 上发文指出，三星在折痕控制、可靠性和制造良率方面占据优势，将使LG Display很难加入iPhone Duo的可折叠显示屏供应链。 苹果 据悉希望支持LG Display成为自己的主要显示屏供应商，LG也参与了苹果折叠屏的早期研发，但该供应商的生产能力及技术仍无法挑战三星。Instant Digital认为，至少在未来五年内，三星显示器仍将是iPhone Duo",
+     "summary": "苹果 的可折叠手机iPhone Duo，未来可能被迫依赖于三星的显示屏，分析师郭明錤称 OLED 面板 是 苹果 在谈判筹码方面最棘手的单一组件。 爆料平台Instant Digital最新在 微博 上发文指出，三星在折痕控制、可靠性和制造良率方面占据优势，将使LG Display很难加入iPhone Duo的可折叠显示屏供应链。 苹果 据悉希望支持LG Display成为自己的主要显示屏供应商，LG也参与了苹果折叠屏的早期研发，但该供应商的生产能力及技术仍无法挑战三星。Instant Digital认为，至少在未来五年内，三星显示器仍将是iPhone Duo的核心。 此前，Instant D",
      "source": "东方财富股票",
      "zh": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商"
     },
@@ -2471,30 +2495,6 @@
      "summary": "据沙特阿拉伯天课、税务和海关总局称，沙特将于2027年起对跨国企业在该国境内取得的利润征收补充税，前提是其有效税率低于15%的全球最低税率。 该税种适用于过去四年合并财务报表显示年收入达到7.5亿欧元（8.238亿美元）或以上的跨国企业，没有海外分支机构的本地企业可获豁免。 据称，此举旨在保护沙特对其境内所获利润征税的权利，并与关于全球最低税率的新国际规则保持同步。 当局强调，该税种适用范围仅限于跨国集团中符合标准的实体，并不扩展到在沙特境内运营的所有公司。 它同时指出，通过制定与大多数G20国家及所有海湾合作委员会成员国所采用规则相一致的条款，可为投资者提供更大的确定性和稳定性。 据其解释，",
      "source": "东方财富资讯",
      "zh": "15%最低税红线！沙特2027年起对跨国巨头利润征补充税"
-    },
-    {
-     "title": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过",
-     "link": "https://wallstreetcn.com/articles/3786566",
-     "pubDate": "Tue, 24 Nov 2026 10:55:08 +0800",
-     "summary": "Anthropic的内部研究版Claude模型，刚刚独立证明了代数版本的P对NP猜想。 论文的唯一作者署名就是Claude， GitHub： https://github.com/anthropics/formal-math/tree/main/vp-vnp paper： https://www.alphaxiv.org/pdf/2611.vp-vnp-arithmetic-lower-bounds 不过整项成果没有经过人类数学家的人工审稿，但已经用形式化验证工具Lean 4完成了端到端的机器证明与检验。 这篇论文的核心结论只有一个：在任意域上，VP都不等于VNP。 这个结论正式回答了理论计算",
-     "source": "华尔街见闻",
-     "zh": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过"
-    },
-    {
-     "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-     "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-     "pubDate": "Tue, 24 Nov 2026 02:37:39 GMT",
-     "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
-     "source": "CNBC",
-     "zh": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 01:01:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     }
    ]
   },

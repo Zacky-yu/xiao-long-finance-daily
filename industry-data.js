@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 02:12:10",
+ "generated_at": "2026/11/25 02:26:10",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
      "zh": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027"
     },
     {
+     "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
+     "link": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
+     "pubDate": "Tue, 24 Nov 2026 12:26:49 -0500",
+     "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
+     "source": "Utility Dive",
+     "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
+    },
+    {
      "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
      "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
      "pubDate": "Tue, 24 Nov 2026 17:19:11 +0000",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Chint Power and EVE Energy have unveiled revised capacity investment plans, pursuing a UPS production facility and pivoting ternary battery production to LFP.",
      "source": "Energy Storage News",
      "zh": "Chinese listed energy storage firms Chint Power, EVE Energy announce UPS, LFP capacity additions"
-    },
-    {
-     "title": "APA starts work on 104MWh solar-plus-storage project in Australia",
-     "link": "https://www.energy-storage.news/apa-starts-work-on-104mwh-solar-plus-storage-project-in-australia/",
-     "pubDate": "Tue, 24 Nov 2026 09:24:23 +0000",
-     "summary": "APA Group has started construction on its 72MW solar PV plant and 52MW/104MWh BESS at Mount Isa in north-west Queensland, Australia.",
-     "source": "Energy Storage News",
-     "zh": "APA starts work on 104MWh solar-plus-storage project in Australia"
     }
    ]
   },
@@ -1130,14 +1130,6 @@ window.INDUSTRY_DATA = {
      "zh": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts"
     },
     {
-     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
-     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-     "source": "BioPharma Dive",
-     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1168,14 +1160,6 @@ window.INDUSTRY_DATA = {
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
-    },
-    {
-     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
-     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-     "source": "BioPharma Dive",
-     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1264,6 +1248,22 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg News cited unnamed sources in reporting that Sanofi (Euronext Paris: SAN and Nasdaq: SNY) was weighing whether to acquire Insmed, in a potential blockbuster deal that the news outlet and others speculated could be biopharma's largest merger-and-acquisition (M&A) deal since 2023. The post S",
      "source": "GEN",
      "zh": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense"
+    },
+    {
+     "title": "FDA again turns back Capricor Duchenne cell therapy",
+     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
+     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+     "source": "BioPharma Dive",
+     "zh": "FDA again turns back Capricor Duchenne cell therapy"
+    },
+    {
+     "title": "Will the first approved psychedelic become a blockbuster?",
+     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
+     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+     "source": "BioPharma Dive",
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     },
     {
      "title": "PTSD Brain DNA Methylation Patterns Linked to Age of Trauma Exposure, Sex, and Ethnicity",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
+     "link": "https://www.techmeme.com/261124/p29#a261124p29",
+     "pubDate": "Tue, 24 Nov 2026 13:20:03 -0500",
+     "summary": "Ethan Millman / The Hollywood Reporter : Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days &nbsp; &mdash;&nbsp; The service said Tuesday that more than 60 percent of new tracks uploaded to ",
+     "source": "Techmeme",
+     "zh": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)"
+    },
+    {
+     "title": "How brewers can protect beers from smoke-tainted hops",
+     "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+     "pubDate": "Tue, 24 Nov 2026 18:18:37 +0000",
+     "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+     "source": "Ars Technica",
+     "zh": "How brewers can protect beers from smoke-tainted hops"
+    },
+    {
      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
      "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
      "pubDate": "Tue, 24 Nov 2026 18:03:58 +0000",
@@ -1794,14 +1810,6 @@ window.INDUSTRY_DATA = {
      "zh": "Threads comes to iPad and takes a page from X’s playbook with cashtags"
     },
     {
-     "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO",
-     "link": "https://daringfireball.net/linked/2026/11/24/enron-ovation-1991",
-     "pubDate": "Tue, 24 Nov 2026 17:43:22 +0000",
-     "summary": "Article URL: https://daringfireball.net/linked/2026/11/24/enron-ovation-1991 Comments URL: https://news.ycombinator.com/item?id=50631647 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO"
-    },
-    {
      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
      "pubDate": "Tue, 24 Nov 2026 17:34:34 +0000",
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
      "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 33 # Comments: 6",
+     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 59 # Comments: 18",
      "source": "Hacker News",
      "zh": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'"
     },
@@ -1832,6 +1840,14 @@ window.INDUSTRY_DATA = {
      "summary": "Robert Armstrong / Financial Times : Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options &nbsp; &mdash;&nbsp; Nvidia took Huang back because his failures left the company with no other options&",
      "source": "Techmeme",
      "zh": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia&apos;s size, plus Trump&apos;s support, left Nvidia with no other options (Robert Armstrong/Financial Times)"
+    },
+    {
+     "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+     "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+     "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 21 # Comments: 16",
+     "source": "Hacker News",
+     "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
     {
      "title": "华为：截至目前，对外专利许可协议累计金额超 69 亿美元",
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 124 # Comments: 45",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 137 # Comments: 47",
      "source": "Hacker News",
      "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Jetty Pro",
      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
      "pubDate": "Tue, 24 Nov 2026 16:23:02 +0000",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 88 # Comments: 33",
+     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 100 # Comments: 37",
      "source": "Hacker News",
      "zh": "Jetty Pro"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "How to Make a Lovable City",
      "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
      "pubDate": "Tue, 24 Nov 2026 16:19:55 +0000",
-     "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 36 # Comments: 4",
+     "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 47 # Comments: 10",
      "source": "Hacker News",
      "zh": "How to Make a Lovable City"
     },
@@ -1962,22 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国是商业暗洞吗？"
     },
     {
-     "title": "Experts say Trump effectively overrode Nvidia&apos;s board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny (New York Times)",
-     "link": "https://www.techmeme.com/261124/p23#a261124p23",
-     "pubDate": "Tue, 24 Nov 2026 11:01:38 -0500",
-     "summary": "New York Times : Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny &nbsp; &mdash;&nbsp; Nvidia's board said Mr. Huang would not be back.&nbsp; But President Trump, who pushed for Mr. Huang's",
-     "source": "Techmeme",
-     "zh": "Experts say Trump effectively overrode Nvidia&apos;s board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny (New York Times)"
-    },
-    {
-     "title": "Homo erectus lived in the rainforest alongside Denisovans",
-     "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-     "pubDate": "Tue, 24 Nov 2026 16:01:19 +0000",
-     "summary": "You can learn a surprising amount from a few loose teeth.",
-     "source": "Ars Technica",
-     "zh": "Homo erectus lived in the rainforest alongside Denisovans"
-    },
-    {
      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal",
+     "link": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
+     "pubDate": "Tue, 24 Nov 2026 18:15:41 +0000",
+     "summary": "You no longer need to free up 212GB on your PS5 for Rockstar's blockbuster.",
+     "source": "Engadget",
+     "zh": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal"
+    },
+    {
+     "title": "The 12-year-old OnePlus One is now running Android 16 thanks to LineageOS",
+     "link": "https://www.androidauthority.com/oneplus-one-android-16-update-3738957/",
+     "pubDate": "Tue, 24 Nov 2026 18:12:13 +0000",
+     "summary": "Android 17 is already next on the developer's agenda.",
+     "source": "Android Authority",
+     "zh": "The 12-year-old OnePlus One is now running Android 16 thanks to LineageOS"
+    },
     {
      "title": "Ways you can help your video doorbell stay charged in the winter",
      "link": "https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/",
@@ -2114,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Lenovo Legion Go Beam leaks with Android instead of SteamOS"
     },
     {
-     "title": "Wireless Android Auto has a phone battery draining problem, but you can fix it",
-     "link": "https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix/",
-     "pubDate": "Tue, 24 Nov 2026 16:45:00 +0000",
-     "summary": "Wireless Android Auto can drain your phone's battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you're driving.",
-     "source": "Engadget",
-     "zh": "Wireless Android Auto has a phone battery draining problem, but you can fix it"
-    },
-    {
      "title": "Yes, the Pixel 10 is still a great buy [Video]",
      "link": "https://9to5google.com/2026/11/24/yes-the-pixel-10-is-still-a-great-buy-video/",
      "pubDate": "Tue, 24 Nov 2026 16:45:00 +0000",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Oppo Find X10 series began its global journey a month ago and now Amazon’s Black Friday sales have brought the first serious discounts. Unfortunately, the Find X10 Pro Max is out of stock (it was available last week, though). Oppo Find X10 The Oppo Find X10 has an MSRP of £1,100 for the base mod",
      "source": "GSMArena",
      "zh": "Deal: the Oppo Find X10 is £200 off"
-    },
-    {
-     "title": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge",
-     "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
-     "pubDate": "Tue, 24 Nov 2026 15:30:11 +0000",
-     "summary": "HONOR’s answer to the iPhone Duo and the Z Fold 8 comes next year.",
-     "source": "Android Authority",
-     "zh": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge"
     }
    ]
   },
@@ -2252,34 +2252,74 @@ window.INDUSTRY_DATA = {
     {
      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
      "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-     "pubDate": "Tue, 24 Nov 2026 18:04:20 GMT",
+     "pubDate": "Tue, 24 Nov 2026 18:23:14 GMT",
      "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
      "source": "CNBC",
      "zh": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note"
     },
     {
-     "title": "Fluence outlines transformation plan as Houston output reaches 10-11 units/day amid $8.9B backlog",
-     "link": "https://seekingalpha.com/news/4676313-fluence-outlines-transformation-plan-as-houston-output-reaches-10minus-11-units-day-amid-8_9b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:03:39 -0500",
+     "title": "Prelude Therapeutics jumps 28% alongside peers",
+     "link": "https://seekingalpha.com/news/4676309-prelude-therapeutics-jumps-28-alongside-peers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:20:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fluence outlines transformation plan as Houston output reaches 10-11 units/day amid $8.9B backlog"
+     "zh": "Prelude Therapeutics jumps 28% alongside peers"
     },
     {
-     "title": "Amentum outlines fiscal 2027 revenue of $13.8B-$14.05B and >$600M free cash flow, following $500M buyback authorization",
-     "link": "https://seekingalpha.com/news/4676312-amentum-outlines-fiscal-2027-revenue-of-13_8b-14_05b-and-600m-free-cash-flow-following-500m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:02:53 -0500",
+     "title": "Army orders nationwide storage review over deteriorating explosives in Iowa",
+     "link": "https://seekingalpha.com/news/4676317-army-orders-nationwide-storage-review-over-deteriorating-explosives-in-iowa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:19:43 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Amentum outlines fiscal 2027 revenue of $13.8B-$14.05B and >$600M free cash flow, following $500M buyback authorization"
+     "zh": "Army orders nationwide storage review over deteriorating explosives in Iowa"
     },
     {
-     "title": "Shoe Station Group plans $4M store reflows and forecasts Q4 comps flat to up 2%",
-     "link": "https://seekingalpha.com/news/4676311-shoe-station-group-plans-4m-store-reflows-and-forecasts-q4-comps-flat-to-up-2-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:02:46 -0500",
+     "title": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook",
+     "link": "https://seekingalpha.com/news/4676307-embecta-jumps-41-on-fiscal-q4-results-and-initial-2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:19:11 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Shoe Station Group plans $4M store reflows and forecasts Q4 comps flat to up 2%"
+     "zh": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:15:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3",
+     "link": "https://seekingalpha.com/news/4676098-small-cap-financial-stocks-top-and-bottom-quant-rated-picks-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:15:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3"
+    },
+    {
+     "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+     "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:14:00 GMT",
+     "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+     "source": "MarketWatch",
+     "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
+    },
+    {
+     "title": "BofA favors copper and uranium, downgrades Pan American Silver",
+     "link": "https://seekingalpha.com/news/4676314-bofa-favors-copper-and-uranium-downgrades-pan-american-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:13:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BofA favors copper and uranium, downgrades Pan American Silver"
+    },
+    {
+     "title": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid",
+     "link": "https://seekingalpha.com/news/4676298-global-payments-gains-on-report-blackstone-warburg-pincus-apollo-backing-gtcr-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:13:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid"
     },
     {
      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
@@ -2306,22 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says"
     },
     {
-     "title": "Sanofi nears 19-month high after $41B Insmed deal",
-     "link": "https://seekingalpha.com/news/4676291-sanofi-stock-jumps-41b-insmed-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 12:58:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sanofi nears 19-month high after $41B Insmed deal"
-    },
-    {
-     "title": "Mid-cap energy stocks ranked by Quant ratings after earnings season",
-     "link": "https://seekingalpha.com/news/4676219-mid-cap-energy-stocks-ranked-by-quant-ratings-after-earnings-season?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 12:55:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mid-cap energy stocks ranked by Quant ratings after earnings season"
-    },
-    {
      "title": "Anthropic falls below IPO price as tech rally fades",
      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
      "pubDate": "Tue, 24 Nov 2026 17:52:14 GMT",
@@ -2336,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "一部耗时约12年、全凭人力写成的940页广义黎曼猜想证明草稿，因Claude辅助证明问世而仓促公开...... 当地时间11月20日，美国数学学会主席Ravi Vakil在博客上以“仓促的公告（Hurried Announcement）”为题发布了 数学家Alessandro Maria Masullo的手稿《素数的音乐》（The Music of the Primes），并称这份广义黎曼猜想证明完全由人完成，没有使用AI。 黎曼猜想最早由数学家伯恩哈德·黎曼（Bernhard Riemann）于1859年提出。该猜想认为，质数在数轴上的分布虽然乍看之下似乎是随机的，但实际上受到一种复杂且具有",
      "source": "东方财富股票",
      "zh": "历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？"
-    },
-    {
-     "title": "WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund declares $0.175 dividend",
-     "link": "https://seekingalpha.com/news/4676306-wisdomtree-yield-enhanced-u-s-short-term-aggregate-bond-fund-declares-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 12:51:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund declares $0.175 dividend"
     },
     {
      "title": "A股量能放大 AI算力主线资金博弈加剧",
@@ -2426,28 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
-     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:10:00 GMT",
-     "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-     "source": "MarketWatch",
-     "zh": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots"
-    },
-    {
      "title": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性",
      "link": "https://wallstreetcn.com/articles/3786624",
      "pubDate": "Wed, 25 Nov 2026 00:32:00 +0800",
      "summary": "布伦特原油本月已下跌25%，OPEC+成员国正在就2027年产量政策展开年内最具决定性的一轮谈判。 据彭博援引知情人士透露，本月底的部长级会议将以一份由达拉斯咨询机构DeGolyer and MacNaughton完成的独立产能审计报告为基础， 为各成员国设定新的产量基准。 这些基准数字将直接决定各国未来的增产空间，并对全球原油供需格局产生深远影响。 然而， 包括伊朗战争走势、霍尔木兹海峡通行恢复速度以及全球需求前景在内的多重不确定因素，令这次决策的难度空前复杂。 市场分析人士指出，2027年全球原油市场可能面临过剩压力。国际能源署等机构预测，届时全球日产量或将超过消费量。与此同时，美国、圭亚",
      "source": "华尔街见闻",
      "zh": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性"
-    },
-    {
-     "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
-     "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 16:24:00 GMT",
-     "summary": "The move risks new trade friction, but spares already imported holiday goods.",
-     "source": "MarketWatch",
-     "zh": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week."
     },
     {
      "title": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌",
@@ -2498,12 +2498,28 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
+     "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",
+     "link": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week",
+     "pubDate": "Tue, 24 Nov 2026 18:12:55 +0000",
+     "summary": "On Wednesday (Nov. 25), the distant ice giant Uranus will be at its best and brightest. Here's when, where and how to look for the seventh planet.",
+     "source": "Live Science",
+     "zh": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week"
+    },
+    {
      "title": "What if excess renewable energy could power new industrial processes?",
      "link": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
      "pubDate": "Tue, 24 Nov 2026 11:30:00 -0500",
      "summary": "Excess electricity from solar and wind generation could become widely available across the U.S. and then tapped to manufacture materials or run data centers, scientists say.",
      "source": "MIT News",
      "zh": "What if excess renewable energy could power new industrial processes?"
+    },
+    {
+     "title": "Homo erectus lived in the rainforest alongside Denisovans",
+     "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+     "pubDate": "Tue, 24 Nov 2026 16:01:19 +0000",
+     "summary": "You can learn a surprising amount from a few loose teeth.",
+     "source": "Ars Technica Science",
+     "zh": "Homo erectus lived in the rainforest alongside Denisovans"
     },
     {
      "title": "'A new record in quantum error correction': Scientists say breakthrough brings powerful, fault-tolerant quantum computers closer to reality",
@@ -2666,14 +2682,6 @@ window.INDUSTRY_DATA = {
      "zh": "New gum disease treatment kills bad bacteria while sparing the good"
     },
     {
-     "title": "Live Science crossword puzzle #70: The 'A' in AC/DC — 10 across",
-     "link": "https://www.livescience.com/human-behavior/arts-entertainment/live-science-crossword-puzzle-70-the-a-in-ac-dc-10-across",
-     "pubDate": "Mon, 23 Nov 2026 11:21:08 +0000",
-     "summary": "Test your knowledge on all things science with our weekly, free crossword puzzle!",
-     "source": "Live Science",
-     "zh": "Live Science crossword puzzle #70: The 'A' in AC/DC — 10 across"
-    },
-    {
      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
      "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
      "pubDate": "Mon, 23 Nov 2026 00:00:00 -0500",
@@ -2728,14 +2736,6 @@ window.INDUSTRY_DATA = {
      "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
      "source": "MIT News",
      "zh": "New approach enables physically consistent AI models of chaotic systems"
-    },
-    {
-     "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-     "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-     "pubDate": "Fri, 20 Nov 2026 19:21:50 +0000",
-     "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-     "source": "Ars Technica Science",
-     "zh": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger"
     }
    ]
   }

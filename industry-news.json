@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 18:31:49",
+ "generated_at": "2026/11/24 18:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -377,12 +377,12 @@
      "zh": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026"
     },
     {
-     "title": "Research boost for FDSOI and RF-SOI.",
+     "title": "Research boost for FDSOI and RF-SOI",
      "link": "https://www.electronicsweekly.com/news/business/research-boost-for-fdsoi-and-rf-soi-2026-11/",
      "pubDate": "Tue, 24 Nov 2026 06:12:38 +0000",
-     "summary": "Acorn Technologies, a semiconductor IP company based in La Jolla near San Diego, and Prof Jean-Pierre Raskin, of the Université catholique de Louvain (UCLouvain), have shown that Acorn Buried Stressor […] The post Research boost for FDSOI and RF-SOI. appeared first on Electronics Weekly .",
+     "summary": "Acorn Technologies, a semiconductor IP company based in La Jolla near San Diego, and Prof Jean-Pierre Raskin, of the Université catholique de Louvain (UCLouvain), have shown that Acorn Buried Stressor […] The post Research boost for FDSOI and RF-SOI appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "Research boost for FDSOI and RF-SOI."
+     "zh": "Research boost for FDSOI and RF-SOI"
     },
     {
      "title": "From Dec 4th registration needed to access USPTO database",
@@ -396,7 +396,7 @@
      "title": "Lam Research and University at Albany to train semi engineers",
      "link": "https://www.electronicsweekly.com/news/business/lam-research-and-univerdity-at-albany-to-train-semi-engineers-2026-11/",
      "pubDate": "Tue, 24 Nov 2026 06:05:58 +0000",
-     "summary": "Lam Research and the University at Albany (pictured) (UAlbany), a public research university in the State University of New York system, today announced that they are collaborating to help prepare […] The post Lam Research and University at Albany to train semi engineers appeared first on Electronic",
+     "summary": "Lam Research and the University at Albany (UAlbany), pictured, a public research university in the State University of New York system, today announced that they are collaborating to help prepare […] The post Lam Research and University at Albany to train semi engineers appeared first on Electronics",
      "source": "Electronics Weekly",
      "zh": "Lam Research and University at Albany to train semi engineers"
     },
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Bangladesh developer plans 45 MW solar plant with foreign funding",
+     "link": "https://www.pv-magazine.com/2026/11/24/bangladesh-developer-plans-45-mw-solar-plant-with-foreign-funding/",
+     "pubDate": "Tue, 24 Nov 2026 10:45:00 +0000",
+     "summary": "A Bangladeshi power producer and an international infrastructure investor plan to build a 45 MW solar plant in Chittagong district at a cost of about $45 million, with output sold to the state utility. The post Bangladesh developer plans 45 MW solar plant with foreign funding appeared first on pv ma",
+     "source": "pv magazine",
+     "zh": "Bangladesh developer plans 45 MW solar plant with foreign funding"
+    },
+    {
+     "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
+     "pubDate": "Tue, 24 Nov 2026 04:35:00 -0600",
+     "summary": "Japanese utilities may raise spot LNG cargo buying as surging electricity prices in recent days have made gas-fired power generation profitable for the first time since the Iran war began. Japan’s physical spark spread, the difference between the price received by a power-generating facility for ele",
+     "source": "OilPrice",
+     "zh": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge"
+    },
+    {
      "title": "European BESS market moves from tolls to floors, ‘operators only just beginning to understand’ SOC challenges",
      "link": "https://www.energy-storage.news/european-bess-market-moves-from-tolls-to-floors-operators-only-just-beginning-to-understand-soc-challenges/",
      "pubDate": "Tue, 24 Nov 2026 10:26:24 +0000",
@@ -929,14 +945,6 @@
      "zh": "Researchers find up to 2.28% annual wave-induced losses in floating PV systems"
     },
     {
-     "title": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications",
-     "link": "https://www.pv-magazine.com/2026/11/24/eco2-systems-unveils-40-kw-co2-heat-pump-for-commercial-hot-water-applications/",
-     "pubDate": "Tue, 24 Nov 2026 07:30:00 +0000",
-     "summary": "US-based ECO2 Systems has introduced a new 40 kW air-to-water heat pump for commercial hot water applications. The system uses natural CO2 refrigerant, delivers a heating coefficient of performance (COP) of 5.0 at an ambient temperature of 26.7 C, and can operate at outdoor temperatures as low as -3",
-     "source": "pv magazine",
-     "zh": "ECO2 Systems unveils 40 kW CO2 heat pump for commercial hot water applications"
-    },
-    {
      "title": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Near-Three-Month-Lows-Despite-Hormuz-Mine-Claims.html",
      "pubDate": "Tue, 24 Nov 2026 01:05:00 -0600",
@@ -983,14 +991,6 @@
      "summary": "For the first time since 2009, the Conference of the Parties ended without a deal to advance an energy transition as participating countries failed to agree on key aspects of that deal. Disagreements were most notable in financial commitments for developing countries and in blaming oil and gas for c",
      "source": "OilPrice",
      "zh": "Climate Finance Dispute Derails COP31 Negotiations"
-    },
-    {
-     "title": "Quantum Computing Could Accelerate the Energy Transition",
-     "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Could-Accelerate-the-Energy-Transition.html",
-     "pubDate": "Mon, 23 Nov 2026 17:00:00 -0600",
-     "summary": "Quantum computing promises to revolutionize many industries with advanced materials discovery, industrial engineering, and optimization of large energy networks. Moreover, Quantum computing could begin solving real-world energy problems such as grid optimization and new chemistry and materials disco",
-     "source": "OilPrice",
-     "zh": "Quantum Computing Could Accelerate the Energy Transition"
     },
     {
      "title": "RE+ was huge this year. Here are 3 solar innovations that stood out.",
@@ -1361,12 +1361,12 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 set to launch to ISS from Baikonur",
+     "title": "Progress MS-36 launches to ISS from Baikonur",
      "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
      "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 set to launch to ISS from Baikonur appeared first on NASASpaceFlight.com .",
+     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "Progress MS-36 set to launch to ISS from Baikonur"
+     "zh": "Progress MS-36 launches to ISS from Baikonur"
     },
     {
      "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
@@ -1545,6 +1545,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+     "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+     "pubDate": "Tue, 24 Nov 2026 10:44:44 +0000",
+     "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking"
+    },
+    {
+     "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+     "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+     "pubDate": "Tue, 24 Nov 2026 10:35:04 +0000",
+     "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine"
+    },
+    {
      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
      "pubDate": "Tue, 24 Nov 2026 14:04:20 +0530",
@@ -1713,22 +1729,6 @@
      "zh": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
     },
     {
-     "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
-     "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
-     "pubDate": "Mon, 23 Nov 2026 12:16:20 +0000",
-     "summary": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos"
-    },
-    {
-     "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-     "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-     "pubDate": "Mon, 23 Nov 2026 11:44:18 +0000",
-     "summary": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted"
-    },
-    {
      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
      "pubDate": "Sat, 21 Nov 2026 01:31:23 GMT",
@@ -1761,12 +1761,68 @@
    "total": 18,
    "items": [
     {
-     "title": "新鲜感之后，陪伴机器人如何被用起来？",
-     "link": "https://www.tmtpost.com/8212446.html",
-     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
-     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
-     "source": "钛媒体",
-     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+     "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+     "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+     "pubDate": "Tue, 24 Nov 2026 10:45:00 +0000",
+     "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+     "source": "WIRED",
+     "zh": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving"
+    },
+    {
+     "title": "金主看上金锣的可能不是火腿肠",
+     "link": "https://www.huxiu.com/article/4908097.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:41:15 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 沉寂已久的金锣火腿肠，最近有了新动静。此前有关德弘资本收购金锣的市场传闻，如今有了进一步消息。 上海市市场监督管理局官网近日发布的经营者集中公示显示，德弘资本旗下苏州德弘福臻股权投资合伙企业（有限合伙）与淡马锡最终控制的Daxue Investments Pte.Ltd.拟收购金锣相关公司股权。交易完成后，双方将分别间接持有目标公司56%和10%的股权，并共同控制相关公司。 金主看上金锣的，可能不只是消费者熟悉的火腿肠，更是其背后的肉类加工与供应链能力。 德弘资本此前已收购高鑫零售，而金锣也已为大润发生产定制商品，双方在产业链上的衔接已有现实基础",
+     "source": "虎嗅",
+     "zh": "金主看上金锣的可能不是火腿肠"
+    },
+    {
+     "title": "换帅的抖音生活进入纯过日子时代",
+     "link": "https://www.huxiu.com/article/4908095.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:41:05 +0800",
+     "summary": "本文来自微信公众号： 市象 ，作者：吴坤谚 “您好，请问您是李先生吗，这里是抖音团购的客服。请问您是出于什么原因退款了11月10日的团购订单呢？” 这是已经使用抖音团购相当长时间的小李第一次接到抖音团购的AI客服电话。此前一日，他刚刚在抖音刷到附近新开一家洛阳牛肉汤新店的推广，便下了单。 结果在他到店消费时，因精准LBS推广而来的脉冲客流过多，商家为了加快出餐速度，推荐小李直接用微信付款码支付。这一结算走的是美团的商家后台，价格相对抖音团购券贵了1毛。 琐碎的消费插曲，为我们呈现了当下抖音本地生活的一个切面。 一方面，抖音的算法推荐与LBS推广依然能制造惊人的“脉冲客流”，但线下中小商家粗糙的",
+     "source": "虎嗅",
+     "zh": "换帅的抖音生活进入纯过日子时代"
+    },
+    {
+     "title": "黄仁勋回归背后，这才是他最大的底牌",
+     "link": "https://www.huxiu.com/article/4908021.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:40:08 +0800",
+     "summary": "黄仁勋回归背后，他真正的底牌其实是他那张脸？",
+     "source": "虎嗅",
+     "zh": "黄仁勋回归背后，这才是他最大的底牌"
+    },
+    {
+     "title": "Xiaomi reports Q3 revenue down 5.2% YoY to ~$16.1B, its third straight quarter of decline, and net income down 68% to ~$585M, as memory shortages weigh on sales (Bloomberg)",
+     "link": "https://www.techmeme.com/261124/p7#a261124p7",
+     "pubDate": "Tue, 24 Nov 2026 05:40:03 -0500",
+     "summary": "Bloomberg : Xiaomi reports Q3 revenue down 5.2% YoY to ~$16.1B, its third straight quarter of decline, and net income down 68% to ~$585M, as memory shortages weigh on sales &nbsp; &mdash;&nbsp; Xiaomi Corp. reported a revenue contraction for the third quarter in a row while it grapples with a global",
+     "source": "Techmeme",
+     "zh": "Xiaomi reports Q3 revenue down 5.2% YoY to ~$16.1B, its third straight quarter of decline, and net income down 68% to ~$585M, as memory shortages weigh on sales (Bloomberg)"
+    },
+    {
+     "title": "AI正在“接管”你的消费决策过程",
+     "link": "https://www.huxiu.com/article/4908096.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 18:39:31 +0800",
+     "summary": "本文来自微信公众号： 名酒研究所 ，作者：名酒研究所，原文标题：《「白酒消费趋势研究」AI正在“接管”你的消费决策过程》 2008年，《机器人总动员》中有这样一个镜头：真理号飞船广播“流行色变更”，一整舱乘客便齐刷刷按下按钮，将红衣换成蓝衣。没有人被胁迫，也没有人反抗，从饮食到着装，整个决策过程已被AI系统接管，人类只需执行。 这当然是极端的。 不过，十八年后的今天，现实之中已有“似曾相识”的地方：AI开始替人类整理复杂问题，人类正在交出决策的过程。这一趋势在消费领域表现得最为直观。 就在刚刚过去的“双十一”，中国青年报社调查1000名受访者，超六成使用AI辅助购物。 消费决策过程正在被算法外",
+     "source": "虎嗅",
+     "zh": "AI正在“接管”你的消费决策过程"
+    },
+    {
+     "title": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)",
+     "link": "https://www.techmeme.com/261124/p6#a261124p6",
+     "pubDate": "Tue, 24 Nov 2026 05:35:02 -0500",
+     "summary": "Financial Times : Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang &nbsp; &mdash;&nbsp; Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they ",
+     "source": "Techmeme",
+     "zh": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)"
+    },
+    {
+     "title": "Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling",
+     "link": "https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling/",
+     "pubDate": "Tue, 24 Nov 2026 10:30:00 +0000",
+     "summary": "In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.",
+     "source": "WIRED",
+     "zh": "Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling"
     },
     {
      "title": "具身智能的“计生办”，何时会来？",
@@ -1793,14 +1849,6 @@
      "zh": "黄仁勋回归后首个交易日，A股“英伟达供应链”仍比英伟达多跌16个百分点"
     },
     {
-     "title": "“AI央行”不能没了主席",
-     "link": "https://www.huxiu.com/article/4908084.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 18:15:48 +0800",
-     "summary": "本文来自微信公众号： 起朱楼宴宾客 ，作者：大卫翁 11月20日，美股正在经历哀鸿遍野的黑色星期五。 美东时间下午两点多，路透社发了一条独家新闻，两位知情人士说美国证监会的执法部门正在查证英伟达\"潜在的会计问题\"。 当时英伟达的股价已经跌了6%多，消息出来之后跌幅迅速扩大，收盘跌了14%，是2025年1月以来最大的单日跌幅。 事实上，潜在的会计问题指的是什么？路透的稿子一问三不知——不知道调查是什么时候开始的，不知道具体在查哪一项，也不知道最后会不会不了了之。 但显然，市场并没有耐心等待答案了。 同一天，AI叙事的另一位“旗手”甲骨文在官网发布了一则声明，说履行与OpenAI那份合同所需要的资",
-     "source": "虎嗅",
-     "zh": "“AI央行”不能没了主席"
-    },
-    {
      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
      "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
      "pubDate": "Tue, 24 Nov 2026 10:15:00 +0000",
@@ -1809,44 +1857,12 @@
      "zh": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It"
     },
     {
-     "title": "跟廖建文教授学看公司",
-     "link": "https://www.huxiu.com/article/4908081.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 18:09:32 +0800",
-     "summary": "本文来自微信公众号： 乱翻书 ，作者：潘乱 研究企业，要从案例走向框架。 昨天跟一位京东的同学聊，得知廖建文教授去世了。消息来得很突然，一时有些恍惚。中国互联网一共才这么二三十年历史，连退休两个字读起来都像是过几年还有下文，没想到已经到了要跟其中一个人告别的时候了。 2019年我跟廖教授有过一次长谈，主题是如何研究公司，过程是一个受过严格学术训练、也在大公司挑重担的人，对一个年轻企业研究爱好者的点拨，我也非常受益。今天我把当时脑力激荡中涉及具体公司评价的部分去除掉，重现一下一位商学院教授和大厂CSO的分析视角，他是怎么去研究公司。希望对后来人有用，也作为对他的纪念。 那时廖教授从长江商学院的讲",
-     "source": "虎嗅",
-     "zh": "跟廖建文教授学看公司"
-    },
-    {
-     "title": "3249亿逆差汽车占比6%，欧盟为何偏偏盯上中国汽车？",
-     "link": "https://www.huxiu.com/article/4908080.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 18:09:26 +0800",
-     "summary": "本文来自微信公众号： 和讯 ，作者：米梓铭 中欧刚谈妥汽车出口配额，欧盟又出手了。 11月24日，欧盟委员会发布混动汽车全球保障措施初步裁定，决定从12月1日起实施临时保障措施。对于刚刚打开欧洲市场的中国车企来说，这又是一道新门槛。商务部随后回应称，中方注意到欧方相关措施，要求欧方遵守此前中欧达成的共识，严格按照世贸组织规则开展调查，落实非歧视原则。中方强调，保护主义没有出路，开放合作才是正道。 此前一个月，中欧才在北京谈成一笔交易：中国混动汽车出口欧洲，首年配额35万辆，第二年起每年增加6%，为期四年。但摩根士丹利算了一笔账：按照欧盟自己原先的预测，2026年中国混动汽车进口量本来会达到约8",
-     "source": "虎嗅",
-     "zh": "3249亿逆差汽车占比6%，欧盟为何偏偏盯上中国汽车？"
-    },
-    {
-     "title": "阿莫迪让AI自己“长”出道德，终于见效了？",
-     "link": "https://www.huxiu.com/article/4908027.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 18:08:54 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥，编辑：王靖，题图来自：视觉中国 在争分夺秒的AI竞赛中，OpenAI开始踩下刹车。 美国时间11月22日，OpenAI首席科学家雅库布发表了一篇新文章，提出前沿AI公司应当建立共同的能力上限，在理解和监控模型行为的技术取得足够进展之前，不应轻易越过这些界限。 在文章里，他还特意附上了&ldquo;老对头&rdquo;阿莫迪此前发表的减速倡议。 而就在四天前，OpenAI还发表了一份前沿模型风险管理声明，坦言更严格的安全标准已经放慢了模型发布节奏。此前，公司曾因安全对齐问题取消GPT-6.1 Astra原定于10月的发布计划，也曾暂停部分前沿模型的",
-     "source": "虎嗅",
-     "zh": "阿莫迪让AI自己“长”出道德，终于见效了？"
-    },
-    {
      "title": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life",
      "link": "https://www.wired.com/story/wish-list-2026/",
      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
      "summary": "You’ll find something for everyone in this curated collection of gorgeously designed gifts.",
      "source": "WIRED",
      "zh": "Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life"
-    },
-    {
-     "title": "Google Chrome dev team declares bug report bankruptcy",
-     "link": "https://blog.plover.com/2026/11/18/#bug-reports",
-     "pubDate": "Tue, 24 Nov 2026 09:56:08 +0000",
-     "summary": "Article URL: https://blog.plover.com/2026/11/18/#bug-reports Comments URL: https://news.ycombinator.com/item?id=50626012 Points: 10 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Google Chrome dev team declares bug report bankruptcy"
     },
     {
      "title": "华硕 ROG“XG27ACMSR”27 英寸显示器上架：QHD 360Hz / FHD 420Hz / HD 640Hz 三模，2199 元",
@@ -1889,12 +1905,12 @@
      "zh": "黄仁勋回归，AI泡沫是否继续？"
     },
     {
-     "title": "Sony says GTA VI is the biggest game launch in PlayStation history across five generations, drawing 39M+ unique PS5 players, who logged 683M total hours (Tim Turi/PlayStation.Blog)",
+     "title": "Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22 (Tim Turi/PlayStation.Blog)",
      "link": "https://www.techmeme.com/261124/p5#a261124p5",
      "pubDate": "Tue, 24 Nov 2026 04:45:11 -0500",
-     "summary": "Tim Turi / PlayStation.Blog : Sony says GTA VI is the biggest game launch in PlayStation history across five generations, drawing 39M+ unique PS5 players, who logged 683M total hours &nbsp; &mdash;&nbsp; Celebrating the PlayStation community and Rockstar Games for creating an incredible moment in ga",
+     "summary": "Tim Turi / PlayStation.Blog : Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22 &nbsp; &mdash;&nbsp; Celebrating the PlayStation community and Rockstar Games for creating an incredible moment ",
      "source": "Techmeme",
-     "zh": "Sony says GTA VI is the biggest game launch in PlayStation history across five generations, drawing 39M+ unique PS5 players, who logged 683M total hours (Tim Turi/PlayStation.Blog)"
+     "zh": "Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22 (Tim Turi/PlayStation.Blog)"
     },
     {
      "title": "知乎 2026 财年前三季度归母亏损 9550.9 万元，同比由盈转亏",
@@ -1908,7 +1924,7 @@
      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
      "pubDate": "Tue, 24 Nov 2026 09:39:50 +0000",
-     "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex"
     },
@@ -1945,6 +1961,22 @@
      "zh": "英伟达“大而不能倒”，黄仁勋“强而不能退”？"
     },
     {
+     "title": "永辉和茅台“后会友期”，谁先不需要谁了？",
+     "link": "https://www.tmtpost.com/8216259.html",
+     "pubDate": "Tue, 24 Nov 2026 17:15:42 +0800",
+     "summary": "从酒不够分，到钱不够分。",
+     "source": "钛媒体",
+     "zh": "永辉和茅台“后会友期”，谁先不需要谁了？"
+    },
+    {
+     "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+     "link": "https://www.solidot.org/story?sid=85976",
+     "pubDate": "Tue, 24 Nov 2026 17:04:43 +0800",
+     "summary": "索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，如果这一数字正确那么 GTA6 的首周销量可能超过了 5000 万份。",
+     "source": "Solidot",
+     "zh": "索尼称逾 3900 万玩家玩过了 GTA6"
+    },
+    {
      "title": "巴西游戏接 Pix 和 Boleto 后，4 人团队怎么排本地化支付的迭代节奏？",
      "link": "https://www.baijing.cn/question/638945",
      "pubDate": "Tue, 24 Nov 2026 08:36:55 +0000",
@@ -1967,38 +1999,6 @@
      "summary": "德国站独立站做户外储能配件，起量中，团队 6 人，月投放预算约 1.5 万欧。上季度按 Google 的 Consent Mode v2 要求在德法西三国站点接入 CMP 后，德国站 GA4 里 consent 通过率只有 61%，同期加购转化从 3.4% 掉到 2.7%，法国站却基本没动。已经试过调 CMP 的 banner 文案和弹窗时机，也把 Meta Pixel 的触发延后到同意之后，但数据还是对不上，怀疑是埋点上报和同意状态没打通。现在卡在预算有限只能先改一处：是先换 CMP 供应商重做同意交互，还是先改数据层埋点让拒绝用户也能被建模？想听做过德法两地合规落地的同行给个判断标准。",
      "source": "白鲸出海",
      "zh": "GDPR 同意模式上线后，欧洲独立站转化掉了两成，该先动 CMP 还是先改埋点？"
-    },
-    {
-     "title": "解剖 Tor 协议",
-     "link": "https://www.solidot.org/story?sid=85974",
-     "pubDate": "Tue, 24 Nov 2026 16:02:16 +0800",
-     "summary": "Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。 全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅技术插图。简体中文版已提供 PDF 和 EPUB，采用 GNU GPL-3.0-or-later 许可；项目独立于 Tor Project。 简体中文版及下载（",
-     "source": "Solidot",
-     "zh": "解剖 Tor 协议"
-    },
-    {
-     "title": "TikTok Shop 越南站直播达人筛选，3人团队一周只能排5场，该按什么标准取舍？",
-     "link": "https://www.baijing.cn/question/638942",
-     "pubDate": "Tue, 24 Nov 2026 08:00:24 +0000",
-     "summary": "我们做越南站美妆个护，刚起量阶段，团队3个人，一个运营兼选品、一个直播中控、一个剪辑，每周直播预算折合约4000万越南盾（含达人坑位和样品）。上个月合作了12个越南本地达人，GMV从日均800万越南盾掉到300万，退货率还涨到18%。现在用TikTok Shop后台的达人广场和第三方数据工具筛人，试过按粉丝量、近30天带货GMV、直播时长三个维度排序，但人手只够一周跟5场直播，样品寄出去20多份回不来一半。卡在筛选标准上：粉丝量5万到20万的达人报价差3倍，历史GMV看不出品类匹配度，直播间在线人数和成交转化又对不上。按现在的人力排期，我该优先看哪一两个指标做初筛，还是干脆砍掉中腰部只留头部？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 越南站直播达人筛选，3人团队一周只能排5场，该按什么标准取舍？"
-    },
-    {
-     "title": "北美独立站转化率卡在1.1%，是不是选品和备货结构拖的？",
-     "link": "https://www.baijing.cn/question/638941",
-     "pubDate": "Tue, 24 Nov 2026 07:51:24 +0000",
-     "summary": "做北美Shopify独立站，家居收纳类目，团队5人，月广告预算约1.5万美元，起量阶段。近两个月加购率2.8%但结账转化只有1.1%，投手说落地页没问题。我怀疑是SKU铺太宽：一次备了42个SKU，单SKU备货深度不足，主推款断码两次，客户改买低价款，客单价从68美元掉到51美元。退货率8%，主要是尺寸不符和色差，退回来的货压在海外仓，补货又不敢加量。已经试过砍到18个SKU、把退货原因做成尺码表，转化只回升0.2个百分点。卡在选品宽度和备货深度怎么平衡：是该继续收窄SKU做深库存，还是先解决退货再谈转化？",
-     "source": "白鲸出海",
-     "zh": "北美独立站转化率卡在1.1%，是不是选品和备货结构拖的？"
-    },
-    {
-     "title": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)",
-     "link": "https://www.techmeme.com/261124/p4#a261124p4",
-     "pubDate": "Tue, 24 Nov 2026 02:50:01 -0500",
-     "summary": "Mizy Clifton / Politico : Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents &nbsp; &mdash;&nbsp; Regulators will be watching the U.K. rollout of Muse carefully.&nbsp; &mdash;&nbsp; LONDON &m",
-     "source": "Techmeme",
-     "zh": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung hid some of One UI 9.5’s coolest customization features: Here’s how to try them",
+     "link": "https://www.androidauthority.com/one-ui-9-5-lock-screen-how-to-customize-3738261/",
+     "pubDate": "Tue, 24 Nov 2026 10:30:41 +0000",
+     "summary": "My lock screen finally feels alive.",
+     "source": "Android Authority",
+     "zh": "Samsung hid some of One UI 9.5’s coolest customization features: Here’s how to try them"
+    },
+    {
+     "title": "Huawei Mate 90 Air arrives with familiar specs",
+     "link": "https://www.gsmarena.com/huawei_mate_90_air_arrives_with_familiar_specs_-news-75607.php",
+     "pubDate": "Tue, 24 Nov 2026 11:29:02 +0100",
+     "summary": "As expected, Huawei announced its Mate 90 Air in China today. The device is the successor to last year’s Mate 70 Air and you’d expect to see some upgrades across its specs, but that’s mostly not the case here. Huawei Mate 90 Air Mate 90 Air retains the same core specs as the Mate 70 Air while introd",
+     "source": "GSMArena",
+     "zh": "Huawei Mate 90 Air arrives with familiar specs"
+    },
     {
      "title": "Sony’s ULT Tower 5 gets $152 off in a Black Friday pick",
      "link": "https://www.androidauthority.com/sony-ult-tower-5-deal-3738482/",
@@ -2081,14 +2097,6 @@
      "zh": "Dev behind top PS3 emulator on Android releases ARMFlash, bringing tons of Flash games to Android"
     },
     {
-     "title": "The best Android keyboard app isn’t on the Play Store. Here’s how to install it",
-     "link": "https://www.androidauthority.com/gboard-alternative-heliboard-how-to-install-3737967/",
-     "pubDate": "Tue, 24 Nov 2026 09:00:38 +0000",
-     "summary": "HeliBoard brings customization, clipboard history and offline typing to Android, without Google’s data collection.",
-     "source": "Android Authority",
-     "zh": "The best Android keyboard app isn’t on the Play Store. Here’s how to install it"
-    },
-    {
      "title": "Honor teams up with cinema camera-maker Arri on the Magic 9 Pro Max",
      "link": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
      "pubDate": "Tue, 24 Nov 2026 09:00:00 +0000",
@@ -2143,14 +2151,6 @@
      "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」 查看全文",
      "source": "少数派",
      "zh": "写在动荡之后：漫步巴黎的寻常一日"
-    },
-    {
-     "title": "Motorola officially announces when the Signature 27 is coming to India",
-     "link": "https://www.gsmarena.com/motorola_officially_announces_when_the_signature_27_is_coming_to_india-news-75601.php",
-     "pubDate": "Tue, 24 Nov 2026 04:02:02 +0100",
-     "summary": "Motorola semi-announced the Signature 27 back in September and made it fully official earlier this month, with sales in Europe starting on November 16. In October, the company's Indian website said the phone was \"coming this November\", but that turned out to be a bit optimistic. [#InlinePriceWidget,",
-     "source": "GSMArena",
-     "zh": "Motorola officially announces when the Signature 27 is coming to India"
     },
     {
      "title": "These are my two must-have iPhone Duo accessories",
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD",
+     "link": "https://seekingalpha.com/news/4676025-chinese-automakers-gain-ground-in-europe-as-eu-car-sales-rise-54-ytd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:30:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Chinese automakers gain ground in Europe as EU car sales rise 5.4% YTD"
+    },
+    {
+     "title": "Alta Equipment to buy Jackson Group Peterbilt for ~$399M",
+     "link": "https://seekingalpha.com/news/4676037-alta-equipment-to-buy-jackson-group-peterbilt-for-399m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 05:28:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alta Equipment to buy Jackson Group Peterbilt for ~$399M"
+    },
+    {
      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
      "pubDate": "Tue, 24 Nov 2026 10:17:31 GMT",
@@ -2321,22 +2337,6 @@
      "zh": "Vipshop misses top-line and bottom-line estimates; approves special cash dividend of $0.73 per ADS"
     },
     {
-     "title": "November 24: A date bulls have circled on the calendar",
-     "link": "https://seekingalpha.com/news/4676034-november-24-a-date-bulls-have-circled-on-the-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 05:07:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "November 24: A date bulls have circled on the calendar"
-    },
-    {
-     "title": "Baozun Non-GAAP EPADS of -$0.12, revenue of $355.9M beats by $9.83M",
-     "link": "https://seekingalpha.com/news/4676036-baozun-non-gaap-epads-of-012-revenue-of-3559m-beats-by-983m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 05:06:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Baozun Non-GAAP EPADS of -$0.12, revenue of $355.9M beats by $9.83M"
-    },
-    {
      "title": "小米Q3营收超预期，存储涨价挤压手机毛利，汽车收入同比下降19.9%，增程SUV首月锁单超7万｜财报见闻",
      "link": "https://wallstreetcn.com/articles/3786596",
      "pubDate": "Tue, 24 Nov 2026 18:06:36 +0800",
@@ -2385,52 +2385,12 @@
      "zh": "The bull and bear surprises that could ambush investors next year, according to Bank of America"
     },
     {
-     "title": "中建环能：截至11月20日最新股东户数1.79万户，较上期减少2.37%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938535879.html",
-     "pubDate": "Tue, 24 Nov 2026 17:57:02 +0800",
-     "summary": "中建环能 最新披露数据显示，截至11月20日公司股东户数为1.79万户，较上期(2026年11月10日) 减少433户，降幅为2.37% 。户均持有流通股数量 由上期的3.72万股上升至3.81万股， 户均持股金额 由上期的13.83万元减少至12.38万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "中建环能：截至11月20日最新股东户数1.79万户，较上期减少2.37%"
-    },
-    {
-     "title": "汇金通：截至11月20日最新股东户数1.57万户，较上期减少0.54%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938535065.html",
-     "pubDate": "Tue, 24 Nov 2026 17:56:07 +0800",
-     "summary": "汇金通 最新披露数据显示，截至11月20日公司股东户数为1.57万户，较上期(2026年11月10日) 减少85户，降幅为0.54% 。户均持有流通股数量 由上期的2.15万股上升至2.16万股， 户均持股金额 由上期的17.99万元减少至15.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
-     "source": "东方财富股票",
-     "zh": "汇金通：截至11月20日最新股东户数1.57万户，较上期减少0.54%"
-    },
-    {
-     "title": "【调研快报】长虹美菱接待富国基金等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611243938534389.html",
-     "pubDate": "Tue, 24 Nov 2026 17:55:06 +0800",
-     "summary": "长虹美菱 11月24日公告称， 11月24日 接待富国基金 等2家机构 调研。 接待人员包括董事会秘书 杨柳絮,证券事务代表 肖莉,证券事务经理 吕明。 公司就以下问题进行了回复： 投资者与公司代表互动交流问答 1.请介绍公司 2026 年下半年经营计划。 答:2026 年下半年,公司围绕\"创新驱动、内外融合、产业协同、营销升级与数智转型\"五大举措推动公司高质量发展,践行\"始于颜值、敬于品质、合于性价、忠于体验\"的产品理念,推进高端系列化、中端差异化、低端成本化并精简 SKU... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布",
-     "source": "东方财富股票",
-     "zh": "【调研快报】长虹美菱接待富国基金等2家机构调研"
-    },
-    {
      "title": "美股股指期货全线下跌！美伊谈判突生变数",
      "link": "http://finance.eastmoney.com/news/1345,202611243938534079.html",
      "pubDate": "Tue, 24 Nov 2026 17:52:34 +0800",
      "summary": "当地时间11月24日，美股股指 期货 全线下跌，截至发稿，道琼斯指数 期货 跌0.17%，标普500指数 期货 跌0.43%， 纳斯达克 100指数期货跌0.99%。 美股芯片股盘前普跌， SK海力士 、 英特尔 跌超5%， 闪迪 跌超4%， 英伟达 、AMD、Arm等跌超3%， 应用材料 、 高通 、 博通 跌超2%。 金价、银价双双下跌，截至发稿，伦敦金现跌0.34%，伦敦银现跌2.67%。油价亦下跌，美油、布油均小幅飘绿，此前一度跌超1%。 据伊朗方面24日消息，伊朗伊斯兰议会议长卡利巴夫当天表示，伊朗对美国的立场明确且不会改变，在伊朗提出的七项条件得到落实之前，“不会采取任何行动，也不",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美股股指期货全线下跌！美伊谈判突生变数"
-    },
-    {
-     "title": "【直播预告】小米集团2026年第三季度业绩电话会",
-     "link": "http://hk.eastmoney.com/news/11617,202611243938530254.html",
-     "pubDate": "Tue, 24 Nov 2026 17:52:18 +0800",
-     "summary": "小米集团拟定于北京时间2026年11月24日(星期二)19:30召开业绩直播，小米高管将于会上介绍公司2026年第三季度财务及业务表现。 （文章来源：哈富证券）",
-     "source": "东方财富股票",
-     "zh": "【直播预告】小米集团2026年第三季度业绩电话会"
-    },
-    {
-     "title": "华利集团：截至11月20日最新股东户数1.50万户，较上期增加1.35%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938531769.html",
-     "pubDate": "Tue, 24 Nov 2026 17:52:11 +0800",
-     "summary": "华利集团 最新披露数据显示，截至11月20日公司股东户数为1.50万户，较上期(2026年11月10日) 增加200户，增幅为1.35% 。户均持有流通股数量 由上期的7.89万股下降至7.78万股， 户均持股金额 由上期的311.86万元减少至277.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
-     "source": "东方财富股票",
-     "zh": "华利集团：截至11月20日最新股东户数1.50万户，较上期增加1.35%"
     },
     {
      "title": "郭明祺点评黄仁勋复职：短期情绪修复 算力基本面瓶颈仍存在",
@@ -2473,28 +2433,68 @@
      "zh": "小米集团：第三季度总收入1072亿元 同比减少5.2%"
     },
     {
-     "title": "马斯克旗下Neuralink公布脑机接口最新测试视频",
-     "link": "http://www.eeo.com.cn/2026/1124/1101315.shtml",
-     "pubDate": "Tue, 24 Nov 2026 17:26:22 +0800",
-     "summary": "11月24日，据《科创板日报》报道，马斯克旗下脑机接口公司Neuralink近日公布了最新临床案例：一名脊髓损伤致四肢瘫痪的受试者，凭借植入式脑机接口游玩《GTA VI》，无需实体手柄，仅凭意念即可实现一套包含双摇杆、十二个按键的复杂操控。 据Neuralink介绍，该受试者持续和工程团队配合测试，探索意念操控电脑、手机、机械臂等设备的方案。从演示视频可见，受试者能够流畅在游戏内完成驾车、驾船、瞄准射击等动作，还可实...",
-     "source": "经济观察网",
-     "zh": "马斯克旗下Neuralink公布脑机接口最新测试视频"
+     "title": "央行：11月25日将开展8000亿元MLF操作",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938504750.html",
+     "pubDate": "Tue, 24 Nov 2026 17:24:02 +0800",
+     "summary": "2026年11月中期借贷便利招标公告 为保持 银行 体系流动性充裕，2026年11月25日，中国人民 银行 将以固定数量、利率招标、多重价位中标方式开展8000亿元MLF操作，期限为1年期。 （文章来源：央行网站）",
+     "source": "东方财富资讯",
+     "zh": "央行：11月25日将开展8000亿元MLF操作"
     },
     {
-     "title": "豆包个人AI助理产品“小豆”开启邀请制公测",
-     "link": "http://www.eeo.com.cn/2026/1124/1101314.shtml",
-     "pubDate": "Tue, 24 Nov 2026 17:26:15 +0800",
-     "summary": "本报讯 （记者袁传玺） 11月24日，豆包旗下个人AI助理产品“小豆”开启公测。小豆是豆包在个人智能体（PersonalAgent）方向推出的一款探索性产品，目前采用邀请制开放体验。豆包方面透露，小豆的相关能力和体验未来也将逐步放开，在豆包主端推出，为更多豆包用户提供服务。 据介绍，在问答、信息检索的基础上，小豆更侧重主动服务、基于记忆更懂用户和任务执行。用户交代事项后，小豆可在后台持续跟进，按时提醒或...",
-     "source": "经济观察网",
-     "zh": "豆包个人AI助理产品“小豆”开启邀请制公测"
+     "title": "大涨之后何去何从？纳指期货跌近1%，英伟达盘前跌4%，韩股收涨6%，金油齐跌",
+     "link": "https://wallstreetcn.com/articles/3786560",
+     "pubDate": "Tue, 24 Nov 2026 17:15:36 +0800",
+     "summary": "英伟达董事会恢复黄仁勋首席执行官职务，一度点燃全球科技股反弹行情，但提振效应未能持续，美股期货再度走低。 周二，美股盘前，纳指期货跌超0.8%，触及日内新低。英伟达走低，跌超4%，此前黄仁勋回归，英伟达收涨超31%；明星科技股普跌，美光科技跌超4%，ARM跌超3%，Anthropic盘前跌超2%。 韩国KOSPI指数收涨6.32%，三星电子、SK海力士均涨超6%；日本东证指数收盘上涨2.5%，报3,764.88点。日本股市在长假后复市，日经225指数涨幅一度扩大至5%。黄金跌超0.5%，现货黄金价格在每盎司3616美元左右。 Hedgeye风险管理公司全球技术董事总经理Felix Wang表示",
+     "source": "华尔街见闻",
+     "zh": "大涨之后何去何从？纳指期货跌近1%，英伟达盘前跌4%，韩股收涨6%，金油齐跌"
     },
     {
-     "title": "重庆师范大学团队用蜂机协同技术 破解油茶“千花一果”难题",
-     "link": "http://www.eeo.com.cn/2026/1124/1101313.shtml",
-     "pubDate": "Tue, 24 Nov 2026 17:26:14 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 秦思思）眼下正值油茶花期。近日，由重庆师范大学、农业农村部长江上游传粉昆虫资源保护与利用重点实验室黄敦元教授团队研发的“蜂机协同油茶辅助授粉”技术在酉阳土家族苗族自治县规模化示范推广。该技术将蜜蜂采集花粉与无人机喷施花粉液相结合，多区域试验显示可提高坐果率12%—25%，为破解油茶“千花一果”难题提供了新路径。 据了解，酉阳油茶种植历史悠久，全县现有油茶林40余万亩，覆盖39...",
-     "source": "经济观察网",
-     "zh": "重庆师范大学团队用蜂机协同技术 破解油茶“千花一果”难题"
+     "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+     "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 09:14:00 GMT",
+     "summary": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
+     "source": "MarketWatch",
+     "zh": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag"
+    },
+    {
+     "title": "蚂蚁百灵医疗模型的取舍：不做最大的，做放得进医院的",
+     "link": "https://wallstreetcn.com/articles/3786593",
+     "pubDate": "Tue, 24 Nov 2026 16:54:35 +0800",
+     "summary": "11月23日下午，广州，蚂蚁集团开了一场百灵医疗健康大模型媒体沟通会。台上坐着蚂蚁集团CTO何征宇、百灵大模型负责人周俊、蚂蚁健康事业群CTO顾进杰，还有北京大学人民医院胸外科副主任医师陈修远。 两个小时的问答里，陈修远讲了一句很实在的话。五六百B的模型，要满足医院峰值几千个用户同时使用，医院没有这个能力，所以模型的本地部署和小型化，是它在医疗环境里活下来的前提。「先要跑起来，后面再说能不能活下来。」 当天上午，蚂蚁百灵首次开源医疗健康多模态模型，总参数124B。蚂蚁这次在模型尺寸上的取舍，回应的就是这个问题。 01 模型多大，由场景定 何征宇用朱德群画展上的一句话讲模型设计。好的画一笔也不能",
+     "source": "华尔街见闻",
+     "zh": "蚂蚁百灵医疗模型的取舍：不做最大的，做放得进医院的"
+    },
+    {
+     "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+     "pubDate": "Tue, 24 Nov 2026 08:35:16 GMT",
+     "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+     "source": "CNBC",
+     "zh": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts"
+    },
+    {
+     "title": "Six key questions raised by Jensen Huang&apos;s return to Nvidia",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+     "pubDate": "Tue, 24 Nov 2026 07:12:33 GMT",
+     "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+     "source": "CNBC",
+     "zh": "Six key questions raised by Jensen Huang&apos;s return to Nvidia"
+    },
+    {
+     "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+     "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+     "pubDate": "Tue, 24 Nov 2026 05:05:08 GMT",
+     "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+     "source": "CNBC",
+     "zh": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions"
+    },
+    {
+     "title": "Big Tech’s blind spot",
+     "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+     "pubDate": "Tue, 24 Nov 2026 05:00:16 GMT",
+     "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+     "source": "Financial Times",
+     "zh": "Big Tech’s blind spot"
     }
    ]
   },

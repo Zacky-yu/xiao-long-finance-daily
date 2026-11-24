@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-24T11:29:18.741Z",
+  "generatedAt": "2026-11-24T11:49:17.548Z",
   "count": 40,
   "items": [
+    {
+      "title": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+      "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+      "pubDate": "Tue, 24 Nov 2026 11:39:00 GMT",
+      "content": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
+      "source": "US",
+      "category": "半导体"
+    },
     {
       "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -46,7 +54,7 @@
       "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
       "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
       "pubDate": "Tue, 24 Nov 2026 09:14:00 GMT",
-      "content": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
+      "content": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
       "source": "US",
       "category": "全球综合"
     },
@@ -73,14 +81,6 @@
       "content": "SharkNinja will join the S&P 500, replacing AES.",
       "source": "US",
       "category": "美股市场"
-    },
-    {
-      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-      "pubDate": "Mon, 23 Nov 2026 22:04:00 GMT",
-      "content": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
-      "source": "US",
-      "category": "半导体"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

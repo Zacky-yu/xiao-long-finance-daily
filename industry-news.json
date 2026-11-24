@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 04:52:12",
+ "generated_at": "2026/11/25 05:12:12",
  "recent_days": 7,
  "industries": [
   {
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+     "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+     "pubDate": "Tue, 24 Nov 2026 21:09:04 +0000",
+     "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+     "source": "TechCrunch Transport",
+     "zh": "Dozens of oil and shipping tankers hacked in recent weeks, per report"
+    },
+    {
      "title": "VW will pay EV drivers in Germany up to €720 to plug in at home",
      "link": "https://electrek.co/2026/11/24/vw-will-pay-ev-drivers-in-germany-up-to-e720-to-plug-in-at-home/",
      "pubDate": "Tue, 24 Nov 2026 20:28:22 +0000",
@@ -823,14 +831,6 @@
      "summary": "Uber is testing the new program in three U.S. cities.",
      "source": "TechCrunch Transport",
      "zh": "Uber tests rides for kids as young as 10, with extra pay for drivers"
-    },
-    {
-     "title": "How Toyota is betting on a future beyond cars",
-     "link": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
-     "pubDate": "Wed, 18 Nov 2026 21:36:40 +0000",
-     "summary": "Toyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital, the automaker is investing in startups that could help shape what the company looks like decades from now. B",
-     "source": "TechCrunch Transport",
-     "zh": "How Toyota is betting on a future beyond cars"
     }
    ]
   },
@@ -840,6 +840,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Where Does Texas' Data Center Boom Go From Here?",
+     "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
+     "pubDate": "Tue, 24 Nov 2026 15:00:00 -0600",
+     "summary": "The first data center permit Texas issued after lifting its freeze appears to have gone to SpaceX, for a $24 billion project at Starbase, Politico reported. The Texas Commission on Environmental Quality had gone back to normal permit review on Nov. 16, after being told that ERCOT, the grid operator,",
+     "source": "OilPrice",
+     "zh": "Where Does Texas' Data Center Boom Go From Here?"
+    },
     {
      "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
      "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
@@ -921,20 +929,12 @@
      "zh": "Europe’s Gas Prices Jumped 163% in a Year"
     },
     {
-     "title": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sees-Smaller-Economic-Slump-as-More-Oil-Reaches-Market.html",
-     "pubDate": "Tue, 24 Nov 2026 11:00:00 -0600",
-     "summary": "Saudi Arabia now expects its economy to shrink 2.1% this year instead of 3.6%, after recovering enough oil exports to mitigate some of the damage caused by the Iran war. The revised forecast, announced in Tuesday's budget statement, is a considerable improvement from last month, but before the war b",
-     "source": "OilPrice",
-     "zh": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market"
-    },
-    {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1177,6 +1177,14 @@
      "zh": "#SABCS26: Novartis, J&J unveil breast cancer data from biotech buyouts"
     },
     {
+     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
+     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+     "source": "BioPharma Dive",
+     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
+    },
+    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1207,6 +1215,14 @@
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
+    },
+    {
+     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
+     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
+     "source": "BioPharma Dive",
+     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1263,22 +1279,6 @@
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
-    },
-    {
-     "title": "FDA again turns back Capricor Duchenne cell therapy",
-     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
-     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
-     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
-     "source": "BioPharma Dive",
-     "zh": "FDA again turns back Capricor Duchenne cell therapy"
-    },
-    {
-     "title": "Will the first approved psychedelic become a blockbuster?",
-     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
-     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
-     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
-     "source": "BioPharma Dive",
-     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1288,6 +1288,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
+     "link": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
+     "pubDate": "Tue, 24 Nov 2026 21:00:00 +0000",
+     "summary": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
+     "source": "Space.com",
+     "zh": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)"
+    },
     {
      "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
      "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
@@ -1415,14 +1423,6 @@
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
-     "link": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
-     "pubDate": "Tue, 24 Nov 2026 13:00:00 +0000",
-     "summary": "Watch live online on Nov. 24 as the first of four consecutive supermoons rises to flood the night sky with moonlight.",
-     "source": "Space.com",
-     "zh": "Watch November's full Beaver Moon live online today with supermoon livestream"
     },
     {
      "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
@@ -1753,12 +1753,36 @@
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+     "link": "https://www.techmeme.com/261124/p36#a261124p36",
+     "pubDate": "Tue, 24 Nov 2026 16:01:44 -0500",
+     "summary": "Bloomberg : A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody &nbsp; &mdash;&nbsp; A federal magistrate judge ordered that the OpenAI staffer charged with bugging a company office conferenc",
+     "source": "Techmeme",
+     "zh": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)"
+    },
+    {
      "title": "A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy (Associated Press)",
      "link": "https://www.techmeme.com/261124/p35#a261124p35",
      "pubDate": "Tue, 24 Nov 2026 15:45:51 -0500",
      "summary": "Associated Press : A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy &nbsp; &mdash;&nbsp; A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiracy to steal trade ",
      "source": "Techmeme",
      "zh": "A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy (Associated Press)"
+    },
+    {
+     "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+     "link": "https://news.ycombinator.com/item?id=50634426",
+     "pubDate": "Tue, 24 Nov 2026 20:44:15 +0000",
+     "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. ",
+     "source": "Hacker News",
+     "zh": "Launch HN: Versine (YC F26) – MCP to send and receive money"
     },
     {
      "title": "What's going on with the Riemann hypothesis?",
@@ -1777,6 +1801,14 @@
      "zh": "Sources: Jensen Huang said Nvidia doesn&apos;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)"
     },
     {
+     "title": "Ternary Bonsai 2.5 27B",
+     "link": "https://prismml.com/news/bonsai-2-5-27b",
+     "pubDate": "Tue, 24 Nov 2026 20:08:03 +0000",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 57 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "Ternary Bonsai 2.5 27B"
+    },
+    {
      "title": "Sources: the CIA and the ODNI recently discovered a cybersecurity breach affecting an open-source intelligence analysis system, exposing some unclassified info (New York Times)",
      "link": "https://www.techmeme.com/261124/p33#a261124p33",
      "pubDate": "Tue, 24 Nov 2026 15:05:01 -0500",
@@ -1791,6 +1823,14 @@
      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
      "source": "Ars Technica",
      "zh": "Back-to-back measles deaths is our new reality; US tally now at 14"
+    },
+    {
+     "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+     "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+     "pubDate": "Tue, 24 Nov 2026 19:40:43 +0000",
+     "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 17 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
     },
     {
      "title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
@@ -1825,12 +1865,28 @@
      "zh": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump&apos;s pressure, but because Nvidia&apos;s board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)"
     },
     {
-     "title": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)",
-     "link": "https://www.techmeme.com/261124/p30#a261124p30",
-     "pubDate": "Tue, 24 Nov 2026 14:05:00 -0500",
-     "summary": "Dan Mangan / CNBC : AG Todd Blanche and FBI Director Kash Patel dodge reporters' questions about a purported probe that led Trump to push Nvidia's board to bring back Jensen Huang &nbsp; &mdash;&nbsp; Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name i",
-     "source": "Techmeme",
-     "zh": "AG Todd Blanche and FBI Director Kash Patel dodge reporters&apos; questions about a purported probe that led Trump to push Nvidia&apos;s board to bring back Jensen Huang (Dan Mangan/CNBC)"
+     "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+     "link": "https://grafana.com/grafana/download",
+     "pubDate": "Tue, 24 Nov 2026 19:23:44 +0000",
+     "summary": "Article URL: https://grafana.com/grafana/download Comments URL: https://news.ycombinator.com/item?id=50633159 Points: 71 # Comments: 14",
+     "source": "Hacker News",
+     "zh": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)"
+    },
+    {
+     "title": "Compiling web applications into verified operations for AI agents",
+     "link": "https://protocolis.co/paper/",
+     "pubDate": "Tue, 24 Nov 2026 19:12:02 +0000",
+     "summary": "Article URL: https://protocolis.co/paper/ Comments URL: https://news.ycombinator.com/item?id=50632998 Points: 28 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "Compiling web applications into verified operations for AI agents"
+    },
+    {
+     "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+     "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+     "pubDate": "Tue, 24 Nov 2026 19:03:55 +0000",
+     "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/ Comments URL: https://news.ycombinator.com/item?id=50632883 Points: 102 # Comments: 69",
+     "source": "Hacker News",
+     "zh": "Cloudflare hides shortcomings of the underlying infrastructure"
     },
     {
      "title": "车规级电容涨价了，车企正在失去大客户待遇",
@@ -1935,62 +1991,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games"
-    },
-    {
-     "title": "中国食品品牌的“第二次出海”",
-     "link": "https://www.huxiu.com/article/4908185.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 00:10:37 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：许恒 食品，其实是中国走向世界最早的贸易与文化载体。 古代丝绸之路上驼铃悠扬、千帆竞发，茶叶、生姜、桃李等中国风物沿着商路向西传播，制糖技艺与饮馔文化也随之远播南洋、中东与欧洲。 到了近代，有文字记载的第一家海外中餐馆在1850年的美国诞生，此后百余年间，有华人的地方就有中餐，红金的招牌下氤氲着陌生又诱人的锅气，那是世界认识中国的第一张味觉名片。 时至今天，中华饮食文化的全球热度仍在持续攀升：中式新茶饮开在全球各大都市的繁华地段，火锅、麻辣烫俘获各国食客味蕾，甚至#BecomingChinese（像中国人一样生活）词条下喝粥饮茶等中式养生饮食一次次在全",
-     "source": "虎嗅",
-     "zh": "中国食品品牌的“第二次出海”"
-    },
-    {
-     "title": "美国是商业暗洞吗？",
-     "link": "https://www.huxiu.com/article/4908184.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 00:08:00 +0800",
-     "summary": "本文来自微信公众号： 知识自动化 ，作者：林雪萍，原文标题：《林雪萍｜美国是商业暗洞吗？（美国工厂系列2）》 在美国华盛顿附近的巴尔的摩市，有着全美顶尖医院的约翰霍普金斯大学。走进朝南的砖褐色主楼大门，患者往来如织。长廊尽头的老楼里，便是挂满数十位诺贝尔奖肖像的荣誉墙。走出院区北门，穿过由大学主导更新的片区，可见实验楼、新公寓，以及带喷泉的公园。再往前，行人渐少。老旧联排房屋赫然入眼。褪色的墙壁面无表情，空洞的门窗像警惕的眼睛。这就是HBO热剧《火线》的背景地，剧中黑帮与警察在城市中斗法，文明与荒芜只隔一条马路。当我打算前往这座去工业化的典型城市时，国内朋友曾警告我，不要到这个“烂透了”的城市",
-     "source": "虎嗅",
-     "zh": "美国是商业暗洞吗？"
-    },
-    {
-     "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-     "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-     "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
-     "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-     "source": "WIRED",
-     "zh": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving"
-    },
-    {
-     "title": "These are the gifts developers will actually want",
-     "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
-     "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
-     "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "These are the gifts developers will actually want"
-    },
-    {
-     "title": "东北积雪天数预计将会显著减少",
-     "link": "https://www.solidot.org/story?sid=85982",
-     "pubDate": "Tue, 24 Nov 2026 23:57:38 +0800",
-     "summary": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。",
-     "source": "Solidot",
-     "zh": "东北积雪天数预计将会显著减少"
-    },
-    {
-     "title": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台",
-     "link": "https://www.ithome.com/1/031/894.htm",
-     "pubDate": "Tue, 24 Nov 2026 15:17:45 GMT",
-     "summary": "IT之家 11 月 24 日消息，宾利首批纯电 SUV Torcal（IT之家注：官方中文名为“托卡尔”）的交付尚未启动，第二款限量特别版就紧随其后完成亮相。近日，继托卡尔 First Edition 首发版之后，宾利 又公布了一款全新定制车型 。 这款特别版由日本潮流设计师藤原浩亲自操刀， 全球仅生产 20 辆，整车采用全黑设计 。车身采用名为“Beluga”的黑色涂装，黑色徽标、熏黑格栅和 22 英寸 Vortex 黑色轮毂也与之呼应。 新车搭载的全锻造轮毂 采用碳纤维嵌件 ，在提升视觉效果的同时兼顾空气动力学表现。 藤原浩于 2003 年创立东京设计品牌 FRGMT，品牌标识也出现在这辆",
-     "source": "IT之家",
-     "zh": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台"
-    },
-    {
-     "title": "HKC 神盾 27Q420B 显示器上市：QD Mini LED + Ultrafast IPS，2399 元",
-     "link": "https://www.ithome.com/1/031/893.htm",
-     "pubDate": "Tue, 24 Nov 2026 15:06:53 GMT",
-     "summary": "IT之家 11 月 24 日消息，HKC（惠科）现已开始在电商平台销售神盾 (Shield) 27Q420B 显示器。这一型号结合了 Ultrafast IPS 薄层液晶、1152 分区 Mini LED 背光、QD 色彩增强，售价 2399 元。 神盾 27Q420B 基于 27\" 面板，拥有 QHD (2560×1440) 分辨率、420Hz 超频刷新率（IT之家注：原生刷新率 360Hz）， 获得 VESA DisplayHDR1000 认证 。 其 HDR 峰值亮度达 1200nits ，SDR 亮度也有 500nits；灰阶 (GtG) 响应时间 0.5ms；色深 8bit + FR",
-     "source": "IT之家",
-     "zh": "HKC 神盾 27Q420B 显示器上市：QD Mini LED + Ultrafast IPS，2399 元"
     }
    ]
   },
@@ -2000,6 +2000,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Walmart drops Apple Pay support from its app and website",
+     "link": "https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/",
+     "pubDate": "Tue, 24 Nov 2026 21:01:08 +0000",
+     "summary": "Walmart appears to have dropped support for Apple Pay on its website and in its iPhone app. This comes just a few weeks after the retailer finally added support for Apple’s payment platform to its app and website. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise-canceling earbuds for 38% off",
+     "source": "9to5Mac",
+     "zh": "Walmart drops Apple Pay support from its app and website"
+    },
+    {
+     "title": "This underrated Pixel feature is more versatile than you realize",
+     "link": "https://www.engadget.com/2321246/underrated-pixel-feature-more-versatile-realize-quick-tap/",
+     "pubDate": "Tue, 24 Nov 2026 21:00:00 +0000",
+     "summary": "Google's Pixel phones have a very cool feature that will make your phone easier to use one-handed. Here's what it does.",
+     "source": "Engadget",
+     "zh": "This underrated Pixel feature is more versatile than you realize"
+    },
+    {
+     "title": "Android Auto bug is turning Google Maps into a black screen",
+     "link": "https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/",
+     "pubDate": "Tue, 24 Nov 2026 20:52:12 +0000",
+     "summary": "Drivers are stuck staring at a black screen instead of Google Maps.",
+     "source": "Android Authority",
+     "zh": "Android Auto bug is turning Google Maps into a black screen"
+    },
     {
      "title": "TikTok is currently down for some users",
      "link": "https://9to5mac.com/2026/11/24/tiktok-is-currently-down-for-some-users/",
@@ -2121,14 +2145,6 @@
      "zh": "Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday"
     },
     {
-     "title": "Apple Home accessories: Here are my five top picks for your smart home",
-     "link": "https://9to5mac.com/2026/11/24/apple-home-accessories-here-are-my-five-top-picks-for-your-smart-home/",
-     "pubDate": "Tue, 24 Nov 2026 18:43:54 +0000",
-     "summary": "Apple Home is kicking off a new era with Siri AI-driven products like HomeView, making it a great time to upgrade your smart home with Apple Home-compatible accessories. Here are my top five picks. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Home accessories: Here are my five top picks for your smart home"
-    },
-    {
      "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look",
      "link": "https://9to5google.com/2026/11/24/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
      "pubDate": "Tue, 24 Nov 2026 18:41:11 +0000",
@@ -2169,28 +2185,12 @@
      "zh": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal"
     },
     {
-     "title": "The 12-year-old OnePlus One is now running Android 16 thanks to LineageOS",
-     "link": "https://www.androidauthority.com/oneplus-one-android-16-update-3738957/",
-     "pubDate": "Tue, 24 Nov 2026 18:12:13 +0000",
-     "summary": "Android 17 is already next on the developer's agenda.",
-     "source": "Android Authority",
-     "zh": "The 12-year-old OnePlus One is now running Android 16 thanks to LineageOS"
-    },
-    {
      "title": "Ways you can help your video doorbell stay charged in the winter",
      "link": "https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/",
      "pubDate": "Tue, 24 Nov 2026 18:00:00 +0000",
      "summary": "A dead doorbell battery could mean missed visitors or deliveries. Learn how to prepare your battery-powered video doorbell for the challenges of winter weather.",
      "source": "Engadget",
      "zh": "Ways you can help your video doorbell stay charged in the winter"
-    },
-    {
-     "title": "Tidal is banning AI-generated music entirely",
-     "link": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/",
-     "pubDate": "Tue, 24 Nov 2026 17:58:04 +0000",
-     "summary": "The company expects to purge 29 million tracks starting on December 9.",
-     "source": "Engadget",
-     "zh": "Tidal is banning AI-generated music entirely"
     },
     {
      "title": "Imagen challenges the fixed cull-then-edit workflow with its newest update",
@@ -2249,6 +2249,126 @@
    "total": 13,
    "items": [
     {
+     "title": "黑石、华平、阿波罗洽谈入股，GTCR拟500亿美元私有化Global Payments",
+     "link": "https://wallstreetcn.com/articles/3786632",
+     "pubDate": "Wed, 25 Nov 2026 05:05:12 +0800",
+     "summary": "据路透援引知情人士透露， 黑石、华平投资及阿波罗正与私募股权公司GTCR商谈，为其约500亿美元私有化收购支付处理商Global Payments提供融资支持。 若交易达成，将跻身近年来支付行业规模最大的杠杆收购之列。 此前GTCR与Clayton, Dubilier & Rice（CD&R）的联合收购计划已告吹。此后GTCR于上周五在监管文件中披露，将独立推进对Global Payments的收购。 目前黑石、阿波罗及华平正就潜在的股权或优先股投资进行磋商，以协助GTCR完成这笔交易。 三位知情人士表示，相关讨论仍在进行中，尚未达成任何协议。知情人士同时警告，鉴于Global Payment",
+     "source": "华尔街见闻",
+     "zh": "黑石、华平、阿波罗洽谈入股，GTCR拟500亿美元私有化Global Payments"
+    },
+    {
+     "title": "Kurv Yield Premium Strategy Netflix NFLX ETF declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4676359-kurv-yield-premium-strategy-netflix-nflx-etf-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:04:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kurv Yield Premium Strategy Netflix NFLX ETF declares $0.20 dividend"
+    },
+    {
+     "title": "Nutanix begins search for CEO successor",
+     "link": "https://seekingalpha.com/news/4676354-nutanix-begins-search-for-ceo-successor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:04:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nutanix begins search for CEO successor"
+    },
+    {
+     "title": "Kurv TaxOptimized US Large Cap ETF declares $0.046 dividend",
+     "link": "https://seekingalpha.com/news/4676358-kurv-taxoptimized-us-large-cap-etf-declares-0_046-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:04:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kurv TaxOptimized US Large Cap ETF declares $0.046 dividend"
+    },
+    {
+     "title": "Nutanix Non-GAAP EPS of $0.73 beats by $0.12, revenue of $772.4M beats by $9.64M",
+     "link": "https://seekingalpha.com/news/4676357-nutanix-non-gaap-eps-of-0_73-beats-by-0_12-revenue-of-772_4m-beats-by-9_64m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:04:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nutanix Non-GAAP EPS of $0.73 beats by $0.12, revenue of $772.4M beats by $9.64M"
+    },
+    {
+     "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+     "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+     "pubDate": "Tue, 24 Nov 2026 21:04:03 GMT",
+     "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+     "source": "CNBC",
+     "zh": "Anthropic closes below $83 IPO price, but analysts are still largely positive"
+    },
+    {
+     "title": "Kurv High Income ETF declares $0.08 dividend",
+     "link": "https://seekingalpha.com/news/4676356-kurv-high-income-etf-declares-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:03:48 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kurv High Income ETF declares $0.08 dividend"
+    },
+    {
+     "title": "Kurv Equity Option Income ETF declares $0.083 dividend",
+     "link": "https://seekingalpha.com/news/4676355-kurv-equity-option-income-etf-declares-0_083-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 16:03:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kurv Equity Option Income ETF declares $0.083 dividend"
+    },
+    {
+     "title": "美三大指数表现分化 费城半导体指数跌近8% 医疗、消费板块走高",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938869285.html",
+     "pubDate": "Wed, 25 Nov 2026 05:02:15 +0800",
+     "summary": "美三大股指表现分化，道琼斯指数涨0.86%，标普500指数跌0.49%， 纳斯达克 综合 指数跌1.48%。AI硬件板块疲软，费城 半导体 指数重挫近8%， 英伟达 跌近6%，AMD跌近9%，美光跌11%， 台积电 跌近4%，Lumentum跌超10%。医疗保健、消费零售板块走高， 礼来 、 诺和诺德 涨超3%， 联合健康 涨近2%， 耐克 涨近6%， 可口可乐 、 沃尔玛 涨约2%。",
+     "source": "东方财富股票",
+     "zh": "美三大指数表现分化 费城半导体指数跌近8% 医疗、消费板块走高"
+    },
+    {
+     "title": "美股收盘：三大股指集体涨跌不一",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938869441.html",
+     "pubDate": "Wed, 25 Nov 2026 05:01:30 +0800",
+     "summary": "道指涨0.88%，标普500指数跌0.47%，纳指跌1.46%。 亚德诺 跌17.37%， 慧与 跌16.33%， Astera Labs Inc 跌13.91%， 美元树 涨11.18%， 科斯塔 涨8.06%，Moderna涨7.29%。“七姐妹”方面： 苹果 涨1.40%， 微软 涨0.75%， 特斯拉 跌0.20%，谷歌跌1.06%， 亚马逊 跌1.21%，Meta Platforms跌1.29%， 英伟达 跌5.94%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "美股收盘：三大股指集体涨跌不一"
+    },
+    {
+     "title": "纽约证交所表示 11月中旬的空头头寸下降0.8% 至229.9亿股",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938869386.html",
+     "pubDate": "Wed, 25 Nov 2026 05:01:27 +0800",
+     "summary": "纽约证交所表示，11月中旬的空头头寸下降0.8%，至229.9亿股。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "纽约证交所表示 11月中旬的空头头寸下降0.8% 至229.9亿股"
+    },
+    {
+     "title": "加州金融保护与创新部 责令Afterpay因非法“先买后付”贷款支付268万美元罚款",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938869176.html",
+     "pubDate": "Wed, 25 Nov 2026 05:01:24 +0800",
+     "summary": "美国加州金融保护与创新部：责令Afterpay因非法“先买后付”贷款支付268万美元罚款。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加州金融保护与创新部 责令Afterpay因非法“先买后付”贷款支付268万美元罚款"
+    },
+    {
+     "title": "纳斯达克中国金龙指数收涨0.19%",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938869010.html",
+     "pubDate": "Wed, 25 Nov 2026 05:00:41 +0800",
+     "summary": "震坤行 涨7.34%，AIFU涨6.25%，MAAS涨4.76%， 爱奇艺 涨4.95%， 小牛电动 涨4.90%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "纳斯达克中国金龙指数收涨0.19%"
+    },
+    {
+     "title": "截至11月23日 美国政府距离41.1万亿美元的借款上限还差5756亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938868970.html",
+     "pubDate": "Wed, 25 Nov 2026 05:00:04 +0800",
+     "summary": "截至11月23日，美国政府距离41.1万亿美元的借款上限还差5756亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "截至11月23日 美国政府距离41.1万亿美元的借款上限还差5756亿美元"
+    },
+    {
+     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+     "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 20:58:00 GMT",
+     "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+     "source": "MarketWatch",
+     "zh": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices"
+    },
+    {
      "title": "Jensen Huang tells staff that Nvidia doesn&apos;t need a succession plan",
      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
      "pubDate": "Tue, 24 Nov 2026 20:42:07 GMT",
@@ -2263,78 +2383,6 @@
      "summary": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
      "source": "MarketWatch",
      "zh": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return"
-    },
-    {
-     "title": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938866572.html",
-     "pubDate": "Wed, 25 Nov 2026 04:38:54 +0800",
-     "summary": "据日本《朝日新闻》24日报道，日本政府正在研究修改“防卫装备转移三原则”，或删除其前言中有关“无核三原则”等内容的表述。结合近期日本政府拟在修订“安保三文件”时为“无核三原则”设置例外情形的动向，这一消息引发广泛担忧。 “防卫装备转移三原则”是规范日本对外出口武器的政策文件。今年4月，日本政府通过内阁决议，完成对“防卫装备转移三原则”及其运用指南的修改，原则上允许杀伤性武器对外出口。 《朝日新闻》称，日本政府正在考虑配合年内修订“安保三文件”，对“防卫装备转移三原则”进一步做出修改，或删除其前言中“迄今始终坚持不成为对他国构成威胁的军事大国、恪守‘无核三原则’的基本原则”等表述，同时拟增加以武",
-     "source": "东方财富股票",
-     "zh": "日媒：日本政府或删除武器出口文件中“无核三原则”相关表述"
-    },
-    {
-     "title": "加拿大阿尔伯塔省长就天然气管道短缺问题抨击TC Energy",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938866715.html",
-     "pubDate": "Wed, 25 Nov 2026 04:38:42 +0800",
-     "summary": "加拿大石油重镇阿尔伯塔省省长表示，该省的 天然气 管道基础设施正在阻碍石油项目的扩张，并借此对管道运营商 TC Energy Corp .进行了口头抨击。 丹妮尔·史密斯政府于周一宣布了一项新立法，为阿尔伯塔省在必要时成立自己的能源传输公司建立了框架。作为阿尔伯塔省主要的 天然气 传输公司，TC Energy已威胁称，如果省政府推进该计划，将取消其当地管道网络的拟议扩建项目。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "加拿大阿尔伯塔省长就天然气管道短缺问题抨击TC Energy"
-    },
-    {
-     "title": "CoreWeave bonds plunge to record lows amid AI credit jitters - report",
-     "link": "https://seekingalpha.com/news/4676340-coreweave-bonds-plunge-to-record-lows-amid-ai-credit-jitters-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:37:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CoreWeave bonds plunge to record lows amid AI credit jitters - report"
-    },
-    {
-     "title": "伊朗军队防空部队在波斯湾上空击落两架无人机",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938866625.html",
-     "pubDate": "Wed, 25 Nov 2026 04:37:45 +0800",
-     "summary": "当地时间24日，伊朗军队宣布，不久前其防空系统在霍尔木兹海峡西部上空，击落了一架属于美国的“卢卡斯”型 无人机 。 此外，在另一次行动中，伊朗军队防空系统在霍尔木兹海峡东部上空击中并摧毁了另一架属于美国的MQ-9 无人机 。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗军队防空部队在波斯湾上空击落两架无人机"
-    },
-    {
-     "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-     "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-     "pubDate": "Tue, 24 Nov 2026 20:37:40 GMT",
-     "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
-     "source": "CNBC",
-     "zh": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
-    },
-    {
-     "title": "科技故障引发美国消费者恐慌 地下室避难所必需品价格飙升",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938865952.html",
-     "pubDate": "Wed, 25 Nov 2026 04:36:33 +0800",
-     "summary": "在一系列技术故障导致美国消费者恐慌并囤积脱离电网生存所需物资后，发电机、卫生纸和冻干食品的价格大幅飙升。在影响空中交通、 银行 甚至美国国家安全局的系统中断发生后，本月冻干食品、发电机和卫生纸等应急物资的在线价格出现了超常规的暴涨。数据显示，在一年中通常因零售商提前开启“黑五”和“网络星期一”促销而价格走低的时期，地下室避难所必需品的成本却出现大幅飙升。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "科技故障引发美国消费者恐慌 地下室避难所必需品价格飙升"
-    },
-    {
-     "title": "Anthropic期权交易热度不及预期 散户热情随股价破发降温",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938866391.html",
-     "pubDate": "Wed, 25 Nov 2026 04:36:21 +0800",
-     "summary": "Anthropic (ANT.O)期权周一开始交易，但市场参与热度不及预期。交易公司Optiver负责美国单股期权交易的丹尼尔·多尔尼克（Daniel Dolnik）表示， Anthropic 期权周二的成交量约为 SpaceX (SPCX.O)期权上市第二个交易日的四分之一。不过，他指出， Anthropic 期权交易中仍有相当一部分押注股价进一步上涨。多尔尼克表示，随着Anthropic股价跌破IPO发行价，散户投资者的兴趣似乎有所降温。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "Anthropic期权交易热度不及预期 散户热情随股价破发降温"
-    },
-    {
-     "title": "Anthropic上市表现疲软或打乱OpenAI上市计划",
-     "link": "http://finance.eastmoney.com/news/1351,202611253938866418.html",
-     "pubDate": "Wed, 25 Nov 2026 04:36:17 +0800",
-     "summary": "《华尔街日报》分析称， Anthropic 上市后股价迅速回落，令OpenAI原定于明年启动的IPO计划面临更大不确定性。OpenAI虽然计划等待财务状况进一步改善，但其今年持续流失高管，第三季度营收达到100亿美元，仍低于 Anthropic 同期的170亿美元，且经营亏损更大。OpenAI希望通过提升模型竞争力、扩大企业客户市场份额，增强上市吸引力，但等待时间越长，AI市场热潮退却的风险也越大。OpenAI计划到2030年投入约7500亿美元建设算力基础设施，上市融资将成为支持这一扩张计划的重要工具。分析认为，若AI交易热潮逆转，大型科技IPO可能长期陷入低迷，OpenAI未必有充足时间继",
-     "source": "东方财富股票",
-     "zh": "Anthropic上市表现疲软或打乱OpenAI上市计划"
-    },
-    {
-     "title": "Airlines are on watch amid the Thanksgiving traffic rush",
-     "link": "https://seekingalpha.com/news/4676339-airlines-are-on-watch-amid-the-thanksgiving-traffic-rush?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:36:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Airlines are on watch amid the Thanksgiving traffic rush"
     },
     {
      "title": "城堡证券前三季度交易收入已超2025年全年纪录",
@@ -2359,38 +2407,6 @@
      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
      "source": "MarketWatch",
      "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "Grayscale: Bitcoin is oversold, but AI risks now drive the outlook",
-     "link": "https://seekingalpha.com/news/4676341-grayscale-bitcoin-is-oversold-but-ai-risks-now-drive-the-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:29:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Grayscale: Bitcoin is oversold, but AI risks now drive the outlook"
-    },
-    {
-     "title": "SpaceX, Tesla appoint five directors to negotiate on possible deal - FT",
-     "link": "https://seekingalpha.com/news/4676337-spacex-tesla-appoint-five-directors-to-negotiate-on-possible-deal---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:27:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX, Tesla appoint five directors to negotiate on possible deal - FT"
-    },
-    {
-     "title": "FHFA boosts conforming loan limit by 2.7% for 2027",
-     "link": "https://seekingalpha.com/news/4676335-fhfa-boosts-conforming-loan-limit-by-2_7-percent-for-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:23:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FHFA boosts conforming loan limit by 2.7% for 2027"
-    },
-    {
-     "title": "Sanofi acquisition of Insmed boosts other biotechs",
-     "link": "https://seekingalpha.com/news/4676333-sanofi-acquisition-of-insmed-buoys-other-biotechs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 15:22:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sanofi acquisition of Insmed boosts other biotechs"
     },
     {
      "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
@@ -2433,14 +2449,6 @@
      "zh": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms"
     },
     {
-     "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
-     "pubDate": "Wed, 25 Nov 2026 03:45:19 +0800",
-     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.72%，标普500指数跌0.65%， 纳斯达克 综合 指数跌1.68%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌9.11%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.53%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格走低，截至发稿",
-     "source": "东方财富资讯",
-     "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
-    },
-    {
      "title": "Anthropic’s stock just broke below its IPO price for the first time",
      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
      "pubDate": "Tue, 24 Nov 2026 19:31:00 GMT",
@@ -2465,12 +2473,12 @@
      "zh": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington"
     },
     {
-     "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
-     "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 19:21:00 GMT",
-     "summary": "Picking your retirement date should include factors beyond finances.",
-     "source": "MarketWatch",
-     "zh": "Many people overlook this crucial piece of retirement planning — and it isn’t money"
+     "title": "Gold is doing something strange. Here&apos;s one way to play it",
+     "link": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+     "pubDate": "Tue, 24 Nov 2026 19:25:13 GMT",
+     "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+     "source": "CNBC",
+     "zh": "Gold is doing something strange. Here&apos;s one way to play it"
     },
     {
      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -2479,14 +2487,6 @@
      "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
      "source": "Federal Reserve",
      "zh": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026"
-    },
-    {
-     "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
-     "link": "https://wallstreetcn.com/articles/3786625",
-     "pubDate": "Wed, 25 Nov 2026 02:29:34 +0800",
-     "summary": "伦敦金属交易所（LME）出手整治铝市场持续已久的逼仓乱象，宣布收紧针对大仓位持有者的监管规则，相关措施于周三起生效。 此次干预的核心是将触发\"Tom-next（明日/次日）借贷规则\"的仓位门槛，由现有可用库存的50%下调至30%。新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。 LME表示，此举旨在\"减少重大持仓对市场可能产生的不当影响\"。 消息公布后，铝市价差迅速回落——现货与12月合约之间的反向价差从每吨212美元骤降至100美元，跌幅逾半。 逼仓背景：数十年最低库存叠加集中多头持仓 LME铝市场此番遭遇",
-     "source": "华尔街见闻",
-     "zh": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情"
     }
    ]
   },

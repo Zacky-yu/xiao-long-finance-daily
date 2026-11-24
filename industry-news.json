@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/24 10:51:58",
+ "generated_at": "2026/11/24 11:11:51",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+     "link": "https://www.qbitai.com/2026/11/512252.html",
+     "pubDate": "Tue, 24 Nov 2026 01:32:37 +0000",
+     "summary": "离职员工：我可能走早了",
+     "source": "量子位",
+     "zh": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”"
+    },
     {
      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
@@ -239,14 +247,6 @@
      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
      "source": "OpenAI",
      "zh": "Connected intelligence for in-house legal"
-    },
-    {
-     "title": "Richpanel helps companies automate 50% of support in 30 days",
-     "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-     "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
-     "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-     "source": "OpenAI",
-     "zh": "Richpanel helps companies automate 50% of support in 30 days"
     }
    ]
   },
@@ -257,52 +257,52 @@
    "total": 9,
    "items": [
     {
-     "title": "Nvidia turmoil may accelerate ASIC adoption, but cost efficiency remains the key driver",
-     "link": "https://www.digitimes.com/news/a20261124PD213/nvidia-asic-demand-cost-efficiency.html",
-     "pubDate": "Tue, 24 Nov 2026 01:59:04 GMT",
-     "summary": "Nvidia has faced simultaneous turmoil from founder Jensen Huang's resignation and a chip-smuggling investigation, and the board has since voted unanimously to reinstate him as president, CEO, and a board member. Although the upheaval has raised speculation that ASICs could capture more orders, indus",
+     "title": "XPeng targets more than doubling overseas sales in 2027, with Europe driving expansion",
+     "link": "https://www.digitimes.com/news/a20261124PD218/xpeng-europe-vehicle-sales-2027.html",
+     "pubDate": "Tue, 24 Nov 2026 02:59:33 GMT",
+     "summary": "Chinese electric vehicle (EV) maker XPeng recently announced during its third-quarter 2026 earnings call that it aims to more than double overseas vehicle sales in 2027 compared with 2026, with Europe expected to account for at least half of the total.",
      "source": "DIGITIMES",
-     "zh": "Nvidia turmoil may accelerate ASIC adoption, but cost efficiency remains the key driver"
+     "zh": "XPeng targets more than doubling overseas sales in 2027, with Europe driving expansion"
     },
     {
-     "title": "Jensen Huang's Nvidia comeback puts Beijing on alert, exposing Trump's AI talent fears",
-     "link": "https://www.digitimes.com/news/a20261124PD216/nvidia-jensen-huang-ceo-talent-beijing.html",
-     "pubDate": "Tue, 24 Nov 2026 01:43:43 GMT",
-     "summary": "Jensen Huang's reinstatement as Nvidia CEO has reverberated beyond the US technology industry, drawing intense scrutiny from Chinese state media. On November 23, the Washington bureau of Xinhua News Agency issued three news alerts within just 36 minutes, covering Huang's reinstatement, US President ",
+     "title": "Taiwan clears initial funding to launch homegrown Albatross II drone production",
+     "link": "https://www.digitimes.com/news/a20261124PD219/taiwan-funding-production-budget-military.html",
+     "pubDate": "Tue, 24 Nov 2026 02:56:02 GMT",
+     "summary": "Taiwan's domestically developed Albatross II military drone has cleared a major funding hurdle, paving the way for initial production after the Legislative Yuan approved NT$1.675 billion (US$50.96 million) in first-year funding under the central government's 2026 supplementary budget. The approval m",
      "source": "DIGITIMES",
-     "zh": "Jensen Huang's Nvidia comeback puts Beijing on alert, exposing Trump's AI talent fears"
+     "zh": "Taiwan clears initial funding to launch homegrown Albatross II drone production"
     },
     {
-     "title": "HPE expects memory shortages to last into 2028 as networking takes on a bigger profit role",
-     "link": "https://www.digitimes.com/news/a20261124VL203/hpe-profit-2028-2027-growth.html",
-     "pubDate": "Tue, 24 Nov 2026 01:36:06 GMT",
-     "summary": "Hewlett Packard Enterprise (HPE) expects the tight supply of memory and other components that lifted its server prices this year to persist well beyond the coming fiscal year, a shift management says will squeeze margins in its largest segment and put more of the company's profit burden on networkin",
+     "title": "Samsung targets fivefold increase in V9 NAND capacity in China",
+     "link": "https://www.digitimes.com/news/a20261124VL209/samsung-nand-capacity-production-capacity-2027.html",
+     "pubDate": "Tue, 24 Nov 2026 02:55:00 GMT",
+     "summary": "Samsung Electronics plans to boost production capacity for its ninth-generation (V9) NAND flash memory fivefold at its second plant in Xi'an, China, by November 2027 to meet demand for enterprise solid-state drives (eSSDs) used in AI data centers, Seoul Economic Daily reported, citing industry sourc",
      "source": "DIGITIMES",
-     "zh": "HPE expects memory shortages to last into 2028 as networking takes on a bigger profit role"
+     "zh": "Samsung targets fivefold increase in V9 NAND capacity in China"
     },
     {
-     "title": "Neocloud financing tightens as Nvidia GPUs face greater growth pressure than ASICs, memory",
-     "link": "https://www.digitimes.com/news/a20261124PD207/financing-data-center-growth-investment-policy.html",
-     "pubDate": "Tue, 24 Nov 2026 01:28:09 GMT",
-     "summary": "Following the US midterm elections, local opposition to AI data center construction appears to be translating into tangible policy constraints.",
+     "title": "Ukraine defense tech firm Uforce raises US$700 million, eyes Asia-Pacific production, Taiwan suppliers",
+     "link": "https://www.digitimes.com/news/a20261123PD240/production-taiwan-ukraine-funding-technology.html",
+     "pubDate": "Tue, 24 Nov 2026 02:45:04 GMT",
+     "summary": "Uforce, a defense technology company founded in Ukraine and headquartered in the UK, announced the completion of a US$700 million Series A funding round. The funding will be used to help the company expand research and development of its unmanned systems, as well as support efforts to move productio",
      "source": "DIGITIMES",
-     "zh": "Neocloud financing tightens as Nvidia GPUs face greater growth pressure than ASICs, memory"
+     "zh": "Ukraine defense tech firm Uforce raises US$700 million, eyes Asia-Pacific production, Taiwan suppliers"
     },
     {
-     "title": "Analysis: Nvidia's China team in limbo as leadership shifts and export curbs tighten",
-     "link": "https://www.digitimes.com/news/a20261123PD226/nvidia-ceo-staff-chips-market.html",
-     "pubDate": "Tue, 24 Nov 2026 01:24:11 GMT",
-     "summary": "Nvidia's operations in China are entering their most uncertain chapter since the division's inception. Following the departure of founder and former CEO Jensen Huang, and amid tightening US export restrictions on advanced semiconductors, the Chinese market strategy that Huang spent years cultivating",
+     "title": "Cisco, OpenAI launch open-source project to counter AI-driven cyberattacks",
+     "link": "https://www.digitimes.com/news/a20261124VL206/openai-cisco-launch-cybersecurity-software.html",
+     "pubDate": "Tue, 24 Nov 2026 02:45:00 GMT",
+     "summary": "Cisco Systems and OpenAI have launched an open-source cybersecurity project designed to protect running Linux systems from attacks while permanent software patches are being developed.",
      "source": "DIGITIMES",
-     "zh": "Analysis: Nvidia's China team in limbo as leadership shifts and export curbs tighten"
+     "zh": "Cisco, OpenAI launch open-source project to counter AI-driven cyberattacks"
     },
     {
-     "title": "Analysis: Huang's return to Nvidia leaves US national security questions open",
-     "link": "https://www.digitimes.com/news/a20261124PD209/nvidia-security-jensen-huang-president-ceo.html",
-     "pubDate": "Tue, 24 Nov 2026 01:16:35 GMT",
-     "summary": "Nvidia's board has reinstated Jensen Huang as president and CEO, saying it is confident his return poses no national security risk after hearing from senior US government officials. US President Donald Trump had argued that Huang deserved a second chance after expressing remorse. Yet Trump's backing",
+     "title": "Macronix bets on 3D NAND and NOR as bigger rivals retreat from low-capacity markets",
+     "link": "https://www.digitimes.com/news/a20261124PD214/3d-nand-macronix-international-automotive-production.html",
+     "pubDate": "Tue, 24 Nov 2026 02:39:08 GMT",
+     "summary": "Macronix International is betting on 3D NAND and 3D NOR flash memory to drive its next phase of growth as major global memory manufacturers withdraw from low- and mid-capacity markets, leaving opportunities in automotive and other specialty applications.",
      "source": "DIGITIMES",
-     "zh": "Analysis: Huang's return to Nvidia leaves US national security questions open"
+     "zh": "Macronix bets on 3D NAND and NOR as bigger rivals retreat from low-capacity markets"
     },
     {
      "title": "Electronic Character Recognition Acclerates Data Processing",
@@ -929,12 +929,12 @@
      "zh": "The European Competitiveness Fund, the Backbone of a Modern European Investment Policy"
     },
     {
-     "title": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
+     "title": "COP31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
      "link": "https://cleantechnica.com/2026/11/23/cop-31-plants-a-big-wet-kiss-on-failed-carbon-capture-technology/",
      "pubDate": "Mon, 23 Nov 2026 20:05:11 +0000",
-     "summary": "COP 31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqué — language that was included two years ago at the ... [continued] ",
+     "summary": "COP31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqué — language that was included two years ago at the conclusion ... [c",
      "source": "CleanTechnica",
-     "zh": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology"
+     "zh": "COP31 Plants A Big Wet Kiss On Failed Carbon Capture Technology"
     },
     {
      "title": "Ohio OKs gas plant for data centers despite local voter backlash",
@@ -1761,12 +1761,124 @@
    "total": 18,
    "items": [
     {
+     "title": "美股跌没的几万亿，AI拿什么赔？",
+     "link": "https://www.huxiu.com/article/4906602.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 10:59:00 +0800",
+     "summary": "美股AI板块陷入狂热与质疑，2万亿美元的算力基建却只换来年化千亿美元收入，行业缺口巨大，谁能兜底？AI泡沫会破吗？",
+     "source": "虎嗅",
+     "zh": "美股跌没的几万亿，AI拿什么赔？"
+    },
+    {
+     "title": "比较艰难的一些年",
+     "link": "https://www.huxiu.com/article/4907940.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 10:58:59 +0800",
+     "summary": "本文来自微信公众号： 九边 ，作者：九边 上篇文章的评论区有读者问，是不是男性35到50是最艰难的一个时期，今天就聊聊这事，咱们先从另一个话题说起。 不知道为啥，对于孩子的将来，男性更倾向于“顺其自然”，觉得孩子的未来，80%是他自己的特性决定的，父母再折腾，影响超不过20%，甚至折腾的太过分，影响是负的。 但女性不一样，女性普遍认为，孩子最重要的是习惯，小的时候培养好习惯，并且每一步都要超前学，领先同龄人一个身位，就算不领先，也不能落下太多或者垫底。 所以补课什么的，不能少。如果是女孩，最好是琴棋书画样样精通，还要学模特步，主持人，培养气质。前些年一度热衷围棋，这些年围棋被AI给砸了，热度才",
+     "source": "虎嗅",
+     "zh": "比较艰难的一些年"
+    },
+    {
+     "title": "长租公寓资本开启“大换血”模式？",
+     "link": "https://www.tmtpost.com/8215405.html",
+     "pubDate": "Tue, 24 Nov 2026 10:56:00 +0800",
+     "summary": "万科在卖、友邦在买，开发商退，险资接力入场。",
+     "source": "钛媒体",
+     "zh": "长租公寓资本开启“大换血”模式？"
+    },
+    {
+     "title": "英伟达重新“拥抱”黄仁勋",
+     "link": "https://www.tmtpost.com/8215108.html",
+     "pubDate": "Tue, 24 Nov 2026 10:54:00 +0800",
+     "summary": "对英伟达董事会来说，真正没有完成的工作，是为黄仁勋之后的英伟达找到答案。",
+     "source": "钛媒体",
+     "zh": "英伟达重新“拥抱”黄仁勋"
+    },
+    {
+     "title": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作",
+     "link": "https://www.tmtpost.com/8215371.html",
+     "pubDate": "Tue, 24 Nov 2026 10:52:00 +0800",
+     "summary": "海外短剧平台开始招募演员“卖脸”。",
+     "source": "钛媒体",
+     "zh": "海外短剧演员开始“卖脸”：有人主动授权AI，有人却被AI抢走工作"
+    },
+    {
+     "title": "带你回到 2002 年：《GTA6》暗藏《罪恶都市》彩蛋",
+     "link": "https://www.ithome.com/1/031/322.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:51:25 GMT",
+     "summary": "IT之家 11 月 24 日消息，相信各位玩过《GTA》系列的小伙伴们都知道，Rockstar 喜欢往游戏里塞各种隐藏彩蛋。据 YouTube 博主 Memeio 发现，《GTA6》里隐藏着一个“穿越时空”的彩蛋， 可以让玩家重返 2002 年的原版《罪恶都市》 。 据介绍，破解彩蛋的起点位于 Key Lento 的 Badger 广播塔。玩家需要爬上去开启一个特殊装置，就可以听到罪恶都市的标志性音效。接着玩家需要顺着房间里的“LPL”提示，在地图的 12 处 LPL 变电站中按照正确顺序拨动特定开关。 当这 12 处开关的标签被依次拼合后， 浮现出的短语是“LIFE IS PASSING M",
+     "source": "IT之家",
+     "zh": "带你回到 2002 年：《GTA6》暗藏《罪恶都市》彩蛋"
+    },
+    {
+     "title": "雷克沙 DDR5 内存模组获 EXPO ULL 认证：《三角洲行动》平均帧 +38.86%",
+     "link": "https://www.ithome.com/1/031/321.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:50:54 GMT",
+     "summary": "IT之家 11 月 24 日消息，Lexar（雷克沙）近日宣布，其 6000MT/s CL28 规格的 ARES RGB DDR5 战神之刃二代内存模组 通过 AMD EXPO ULL v1.2 全项认证 ，在四大主要 DIY 主板制造商的平台上均获得认证。 IT之家获悉，此次测试包括 56 个小项，包括连续开关机后 4 小时压力测试、CPU + 内存 12 小时联合烤机、ULL 模式下 12 小时连续高负载运行灯， 让 AMD EXPO ULL 低延迟真正做到“不挑主板” 。 雷克沙表示，在《CS2》《无畏契约》《三角洲行动》3 款射击游戏中，过测内存模组在开启 ULL 后相较一般 EXPO",
+     "source": "IT之家",
+     "zh": "雷克沙 DDR5 内存模组获 EXPO ULL 认证：《三角洲行动》平均帧 +38.86%"
+    },
+    {
+     "title": "全新华为维感 G1 持续葡萄糖监测系统开启预售：全天候连续监测、手机手表多端查看",
+     "link": "https://www.ithome.com/1/031/318.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:49:40 GMT",
+     "summary": "IT之家 11 月 24 日消息，华为官方今日宣布，全新华为维感 G1 持续葡萄糖监测系统，今日 10:08 开启预售， 支持全天候连续监测血糖、手机手表多端查看血糖，以及血糖异常提醒等功能 。 据IT之家此前报道，国家药监局今年 10 月 30 日公示的医疗器械批准文件送达信息中出现了华为终端有限公司的持续葡萄糖监测系统，注册证编号为国械注准 20263072228。 三类医疗器械是中国监管体系中的最高等级，与心脏支架、人工关节同级。此前华为在健康监测领域的合规路径主要集中在二类证，包括腕部动态血压记录仪、睡眠呼吸暂停筛查软件、脉搏波房颤和早搏提示软件等。此次 CGM 获批，意味着华为从健康",
+     "source": "IT之家",
+     "zh": "全新华为维感 G1 持续葡萄糖监测系统开启预售：全天候连续监测、手机手表多端查看"
+    },
+    {
+     "title": "我国 400 米“庐州塔”封顶，用于大气环境气象梯度观测",
+     "link": "https://www.ithome.com/1/031/317.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:49:39 GMT",
+     "summary": "IT之家 11 月 24 日消息，据央视新闻报道，今天（24 日），坐落于安徽合肥未来大科学城的 400 米大气环境气象梯度观测塔（庐州塔）项目主塔钢结构完成第 42 节吊装作业，主塔结构顺利封顶 。 庐州塔是一座集大气污染梯度、温室气体通量、气象全要素精细化连续观测为一体的大型科研设施 ，总高 410 米，在稳定边界层、逆温层、低空急流、城市热岛环流等过程研究中具有明显优势。 该塔配备 23 个固定观测平台和 1 个可连续升降观测舱，投用后可开展从地面到高空的大气环境气象梯度观测研究，为地基、机载、星载等大气立体探测装备研发提供技术验证平台，支撑国产高端大气探测装备应用示范与产业化工作。 庐",
+     "source": "IT之家",
+     "zh": "我国 400 米“庐州塔”封顶，用于大气环境气象梯度观测"
+    },
+    {
+     "title": "“90% 编程无需手敲代码”：微软拉曼纳称 AI 让程序员少写代码，却要思考更多",
+     "link": "https://www.ithome.com/1/031/316.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:48:40 GMT",
+     "summary": "IT之家 11 月 24 日消息，在接受 Peter Yang 采访时，微软高管查尔斯 · 拉曼纳（Charles Lamanna）表示，AI 正在重塑软件工程师的工作重心，让其大幅减少“手搓”代码逐行敲打的工作， 但对于系统设计、验证、测试和安全上线等提出了更高的思考要求。 IT之家查询公开资料，拉曼纳是微软的执行副总裁，负责 Copilot、智能体及平台业务，是推动微软将 AI 融入办公软件、企业应用和开发平台的核心高管之一。 在采访中，拉曼纳举例表示，如果让一名 1990 年前后的程序员看到今天的云计算平台，他可能会觉得，自己过去需要亲手完成的大量工作，如今已经由平台代劳，感叹“90% ",
+     "source": "IT之家",
+     "zh": "“90% 编程无需手敲代码”：微软拉曼纳称 AI 让程序员少写代码，却要思考更多"
+    },
+    {
+     "title": "尼日利亚站接入Paystack回款T+7，物流妥投14天，这个周转撑得住吗？",
+     "link": "https://www.baijing.cn/question/638928",
+     "pubDate": "Tue, 24 Nov 2026 02:48:15 +0000",
+     "summary": "尼日利亚站点起量中，月订单约4000单，客单价35美元。支付走Paystack加银行转账，本地卡成功率只有61%，失败单里约三成是银行侧超时；回款周期T+7，实际到账常拖到第10天。物流用GIG和本地摩托配送，拉各斯以外妥投中位14天，COD拒收率18%，钱压在途和拒收件上，现金流周转接近40天。试过预付折扣和短信催付，成功率只涨4个点。现在卡在是继续加预付补贴压COD，还是换网关做分账缩短回款——判断标准该怎么定？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚站接入Paystack回款T+7，物流妥投14天，这个周转撑得住吗？"
+    },
+    {
+     "title": "AI一人公司，终结不了全民沉迷做「网红」",
+     "link": "https://www.tmtpost.com/8215404.html",
+     "pubDate": "Tue, 24 Nov 2026 10:47:00 +0800",
+     "summary": "为何流量迷恋一直存在？因为网红的造富幻觉从未消散。",
+     "source": "钛媒体",
+     "zh": "AI一人公司，终结不了全民沉迷做「网红」"
+    },
+    {
      "title": "AI是怎么“自己教自己”的？",
      "link": "https://www.huxiu.com/article/4907917.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 10:45:40 +0800",
      "summary": "本文来自微信公众号： 卡皮巴拉在硅谷 ，作者：卡皮巴拉在硅谷，原文标题：《我拆了几项 AI 自我改进研究，终于看懂 AI 是怎么&ldquo;自己教自己&rdquo;的》，头图来自：AI生成 今年，&ldquo;递归自我改进&rdquo; （Recursive Self-Improvement，RSI） 突然从论文里的一个词，变成了 AI 公司官网上的正式议题。 6 月，Anthropic 发了一篇长文《When AI builds itself》，披露截至 2026 年 5 月，合并进 Anthropic 代码库的代码里，超过 80% 由 Claude 编写；9 月，OpenAI 宣布按计划",
      "source": "虎嗅",
      "zh": "AI是怎么“自己教自己”的？"
+    },
+    {
+     "title": "全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题",
+     "link": "https://www.ithome.com/1/031/315.htm",
+     "pubDate": "Tue, 24 Nov 2026 02:45:35 GMT",
+     "summary": "IT之家 11 月 24 日消息，“深圳创投日”四周年暨 2026 香蜜湖财富管理周开幕大会于 11 月 23 日在深圳举行。 深圳福田区 13 家财险机构共同发起成立 全国首个“人工智能产业保险共同体” ，致力于破解大模型产业链“不敢保、不能保”难题。 同时，活动现场还发布了该共同体的核心研究成果 ——《人工智能产业风险治理白皮书（2026）》。该白皮书是全国首份系统回应人工智能产业风险与保险供给的白皮书，首次绘制“算力 — 模型 — 应用”全产业链风险图谱， 将 AI 系统性风险转化为可承保、可定价的保险供给 ，并给出“保险 + 服务 + 科技”三位一体的全周期治理方案，为全国贡献了可复制",
+     "source": "IT之家",
+     "zh": "全国首个“人工智能产业保险共同体”成立，目标破解“不敢保、不能保”难题"
+    },
+    {
+     "title": "自免明星被做空，中国临床成“枪口”",
+     "link": "https://www.tmtpost.com/8215370.html",
+     "pubDate": "Tue, 24 Nov 2026 10:42:00 +0800",
+     "summary": "谁来承担成本？",
+     "source": "钛媒体",
+     "zh": "自免明星被做空，中国临床成“枪口”"
     },
     {
      "title": "黄仁勋回来了，但调查仍在继续",
@@ -1801,30 +1913,6 @@
      "zh": "盒马一封催货函，把3岁酸菜品牌推上神坛，它却急着改名？"
     },
     {
-     "title": "成为 DeepSeek 的股东有什么好处",
-     "link": "https://www.tmtpost.com/8215199.html",
-     "pubDate": "Tue, 24 Nov 2026 10:32:00 +0800",
-     "summary": "宁德时代、吉利等大企业入股DeepSeek，布局长线，聚焦各自领域，不求资本增值，而是依托产业优势参与大模型发展。",
-     "source": "钛媒体",
-     "zh": "成为 DeepSeek 的股东有什么好处"
-    },
-    {
-     "title": "微软计划改善 Win11 系统稳定性，用自研驱动替换更多第三方驱动",
-     "link": "https://www.ithome.com/1/031/311.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:31:59 GMT",
-     "summary": "IT之家 11 月 24 日消息，据科技媒体 Windows Latest 今天报道，微软如今希望解决 Win11 系统驱动碎片化的问题， 通过自研驱动替换更多第三方驱动 。 IT之家从原报道获悉，Windows 系统本身已经包含一系列驱动程序 Inbox Drivers，例如基本显示器驱动、NVMe 存储驱动、USB HID 设备驱动、USB 视频设备类摄像头驱动等。 微软如今在 Ignite 大会确认，正在开发更多类别硬件的驱动程序，包括打印机、音频、USB 以太网和摄像头等。 该公司表示，Windows 生态系统目前有数以万亿的活跃驱动程序，由成千上万家合作伙伴共同维护。不同厂商开发的这",
-     "source": "IT之家",
-     "zh": "微软计划改善 Win11 系统稳定性，用自研驱动替换更多第三方驱动"
-    },
-    {
-     "title": "微软回应 Win11 新版搜索体验不跟任务栏走：正在修复",
-     "link": "https://www.ithome.com/1/031/309.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:30:18 GMT",
-     "summary": "IT之家 11 月 24 日消息，微软产品设计副总裁迭戈 · 巴卡（Diego Baca）于 11 月 21 日在 X 平台回复 Windows Latest 媒体提问， 承诺将会在后续 Windows 11 更新中，修复新版搜索体验不跟任务栏走问题。 IT之家此前报道， 在 11 月可选更新 KB5132057 中 ，微软邀请部分 Windows 11 用户体验 WinUI 3 原生重构的 Windows Search 搜索体验，不过新版存在适配短板，用户将任务栏移至屏幕顶部或侧边后，搜索面板依然会在屏幕底部弹出，无法跟随任务栏位置调整。 ▲ 上图中任务栏已切换到右侧，但点击新版搜索，依然从",
-     "source": "IT之家",
-     "zh": "微软回应 Win11 新版搜索体验不跟任务栏走：正在修复"
-    },
-    {
      "title": "微软CEO 纳德拉深度访谈：代码贬值之后，软件工程的重心正在彻底转移",
      "link": "https://www.huxiu.com/article/4907910.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 10:30:00 +0800",
@@ -1839,86 +1927,6 @@
      "summary": "做欧洲站家居收纳类目，德国、法国、西班牙三站点同时铺货，团队 6 人，月广告预算 1.5 万欧元左右，现在处在起量阶段。上个月把德国清关改成 VAT 递延，货代说能省现金流，结果实际清关从 3 天拖到 7 天，亚马逊回款周期也从 14 天变成 21 天，法国站还有两票卡在清关文件核对。已经让货代补过 EORI 和递延申报凭证，也换了合作仓试直发，但时效还是不稳。想请教从支付和履约角度看，这种递延后的时效和回款错配，是该继续用递延换现金流，还是退回预缴保时效？判断标准是什么？",
      "source": "白鲸出海",
      "zh": "欧洲站 VAT 递延后，清关时效和回款周期被拖长了怎么办？"
-    },
-    {
-     "title": "CEO回来了：英伟达为何承受不起黄仁勋离开",
-     "link": "https://www.tmtpost.com/8215109.html",
-     "pubDate": "Tue, 24 Nov 2026 10:25:00 +0800",
-     "summary": "英伟达董事会宣布恢复黄仁勋 CEO 职务。",
-     "source": "钛媒体",
-     "zh": "CEO回来了：英伟达为何承受不起黄仁勋离开"
-    },
-    {
-     "title": "一加 16 ×《凡人》动画联名礼盒因部分物料生产良率过低暂缓发售",
-     "link": "https://www.ithome.com/1/031/307.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:23:33 GMT",
-     "summary": "IT之家 11 月 24 日消息，一加 (OnePlus) 官方今日表示，由于部分物料生产良率过低， 一加 16 ×《凡人》动画联名礼盒致备货不足， 无法按既定计划于本月 27 日启动线上线下发售 ，新的开售时间将另行公布。 作为补偿，后续所有购买一加 16 ×《凡人》动画联名礼盒的用户， 均将获得额外周边礼包一份 。 相关阅读： 《 一加 16〈凡人〉动画联名礼盒公布，购 16GB+512GB 版加付 269 元可得 》",
-     "source": "IT之家",
-     "zh": "一加 16 ×《凡人》动画联名礼盒因部分物料生产良率过低暂缓发售"
-    },
-    {
-     "title": "算命大师为什么总能算准你？",
-     "link": "https://www.huxiu.com/article/4907923.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 10:23:32 +0800",
-     "summary": "本文来自： 孤独大脑 ，题图来自：视觉中国 昨天跟朋友聊天，说到现在特别流行算命、看命盘，不少聪明人也爱找大师问前程。 大师到底准不准？从科学角度看，大师为什么会&ldquo;准&rdquo;？ 1、统计概率。三十岁问感情多半卡在催婚或分手，四十岁问事业多半困在晋升或现金流；加上幸存者偏差，准一次到处传。 2、察言观色。衣着、神态、口音和微表情都在泄底，你每接一句话，大师就在脑子里做一次贝叶斯更新，逼近真相。 3、阅人经验。见过几千个样本的老江湖，几句对话就能摸准你的性格。 4、话术套路。比如&ldquo;外刚内柔&rdquo;&ldquo;早年吃亏、中年有转机&rdquo;，心理学叫&ldq",
-     "source": "虎嗅",
-     "zh": "算命大师为什么总能算准你？"
-    },
-    {
-     "title": "英伟达进入黄仁勋2.0时代",
-     "link": "https://www.tmtpost.com/8215432.html",
-     "pubDate": "Tue, 24 Nov 2026 10:21:29 +0800",
-     "summary": "黄仁勋重新走进总部，员工用欢呼和拥抱迎接他的那刻，英伟达内部对这位创始人的依赖被直观地呈现出来。",
-     "source": "钛媒体",
-     "zh": "英伟达进入黄仁勋2.0时代"
-    },
-    {
-     "title": "东亚人为什么都想“重生”",
-     "link": "https://www.huxiu.com/article/4907926.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 10:20:33 +0800",
-     "summary": "本文来自微信公众号： 青年志Youthology ，编辑：oi，作者：朱恺 我叫赵丹，1998年生在河北的一个乡村。那是家里最困难的几年，我是一个超生的女孩，父母为此缴纳了一笔社会抚养费，相当于他们好几年的收入。 4岁那年，家里烧柴做饭，灶膛里的烟经常散不出去，整间厨房灰蒙蒙的，我总是被熏得睁不开眼，一边咳嗽、一边用手揉。对我来说，眼睛刺痛是生活里再平常不过的一件事了。 再一次感受到这种刺痛是在44岁。结婚多年的丈夫俊杰把我的脸打伤，眼睛肿得厉害，连睁开都很困难。我提出离婚，但他不肯，官司就这么拖着，暴力也没有停止，类似的事重演了几次，我没能告诉任何人。 50岁时，我的人生迎来转机，我发现自己",
-     "source": "虎嗅",
-     "zh": "东亚人为什么都想“重生”"
-    },
-    {
-     "title": "好莱坞：电影没得拍，不如投AI",
-     "link": "https://www.tmtpost.com/8214934.html",
-     "pubDate": "Tue, 24 Nov 2026 10:19:00 +0800",
-     "summary": "抵制AI，运用AI。",
-     "source": "钛媒体",
-     "zh": "好莱坞：电影没得拍，不如投AI"
-    },
-    {
-     "title": "谷歌 Pixel 11 Pro 原型手机再曝：彩灯旁曾保留测温窗口",
-     "link": "https://www.ithome.com/1/031/306.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:17:43 GMT",
-     "summary": "IT之家 11 月 24 日消息，科技媒体 Notebookcheck 昨日（11 月 23 日）发布博文，报道称 在 Pixel 11 Pro XL 原型机曝光后 ，另一组 Pixel 11 Pro 原型机图片流出，显示 HiLight 彩色 LED 灯已能正常点亮，旁边仍保留着温度传感器窗口。 这台设备可以开机运行，设置页面显示其型号为 Pixel 11 Pro，硬件版本为 EVT1.0，制造年份为 2025 年。IT之家注：EVT 即工程验证测试，属于早期硬件验证阶段，后续通常还需经过设计验证和生产验证。 照片中，手机闪光灯窗口亮起蓝光，表明 HiLight 彩色 LED 在这一阶段已经",
-     "source": "IT之家",
-     "zh": "谷歌 Pixel 11 Pro 原型手机再曝：彩灯旁曾保留测温窗口"
-    },
-    {
-     "title": "华为鸿蒙 HarmonyOS 终端设备数破亿，消息称今日下午还有“重磅福利活动”",
-     "link": "https://www.ithome.com/1/031/304.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:15:38 GMT",
-     "summary": "IT之家 11 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文， 宣布鸿蒙终端设备数突破一个亿 。随后，华为开启了“鸿蒙生态里程碑壹亿用户纪念章”领取活动。 据博主 @Adak封狼居胥 透露，在官宣鸿蒙 HarmonyOS 终端设备数突破一个亿后，今日下午还有“重磅福利活动”。 目前，尚不知晓博主透露的“重磅福利活动”所指。不过参考IT之家此前报道，在 HarmonyOS NEXT 启航之初，华为曾推出“鸿蒙有礼”活动，为首批一百万名 HarmonyOS NEXT 公测用户提供公测权益，包括第一方应用和第三方应用会员权益等。 去年 9 月，在鸿蒙 Ha",
-     "source": "IT之家",
-     "zh": "华为鸿蒙 HarmonyOS 终端设备数破亿，消息称今日下午还有“重磅福利活动”"
-    },
-    {
-     "title": "具身智能：200亿估值之后，真正的难题是什么？",
-     "link": "https://www.tmtpost.com/8215279.html",
-     "pubDate": "Tue, 24 Nov 2026 10:13:33 +0800",
-     "summary": "四家领先，格局未定。",
-     "source": "钛媒体",
-     "zh": "具身智能：200亿估值之后，真正的难题是什么？"
-    },
-    {
-     "title": "雷克沙全球最薄移动固态硬盘 Muse 国行将至，512GB 售 1?98 元起",
-     "link": "https://www.ithome.com/1/031/303.htm",
-     "pubDate": "Tue, 24 Nov 2026 02:13:20 GMT",
-     "summary": "IT之家 11 月 24 日消息，Lexar（雷克沙）近日宣布即将通过苹果授权专营店等渠道销售全球最薄移动固态硬盘 Muse。该型号 512GB 容量版本的国行价格为 1?98 元起 。 得益于定制超薄 PCB、高密度 NAND 颗粒、集成式结构， Muse 最厚处也仅有约 3.8mm 、 边缘薄至 1mm 。 由于其特殊设计，Muse eSSD 未提供标准形式的 USB 接口，而是 通过 Pogo Pin 式的 SnapLink 磁吸线材传输数据 ，顺序读取可达 1050MB/s、顺序写入则可达 1000MB/s。此外，其随附 MagSafe 磁吸卡包。",
-     "source": "IT之家",
-     "zh": "雷克沙全球最薄移动固态硬盘 Muse 国行将至，512GB 售 1?98 元起"
     },
     {
      "title": "US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets (Madlin Mekelburg/Bloomberg)",
@@ -1980,7 +1988,7 @@
      "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
      "link": "https://www.science.org/doi/10.1126/scisignal.aef1375",
      "pubDate": "Tue, 24 Nov 2026 00:53:46 +0000",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375 Comments URL: https://news.ycombinator.com/item?id=50621977 Points: 44 # Comments: 17",
+     "summary": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375 Comments URL: https://news.ycombinator.com/item?id=50621977 Points: 47 # Comments: 22",
      "source": "Hacker News",
      "zh": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity"
     },
@@ -1991,14 +1999,6 @@
      "summary": "Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent &nbsp; &mdash;&nbsp; AI investing startup Supertake has an interesting premise: what if your &ldquo;takes&rdquo; on t",
      "source": "Techmeme",
      "zh": "Supertake, which uses AI agents to turn users&apos; market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
-    },
-    {
-     "title": "The Power of GraphQL, Without GraphQL",
-     "link": "https://cobalt27.dev/",
-     "pubDate": "Tue, 24 Nov 2026 00:03:59 +0000",
-     "summary": "Article URL: https://cobalt27.dev/ Comments URL: https://news.ycombinator.com/item?id=50621466 Points: 7 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "The Power of GraphQL, Without GraphQL"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola officially announces when the Signature 27 is coming to India",
+     "link": "https://www.gsmarena.com/motorola_officially_announces_when_the_signature_27_is_coming_to_india-news-75601.php",
+     "pubDate": "Tue, 24 Nov 2026 04:02:02 +0100",
+     "summary": "Motorola semi-announced the Signature 27 back in September and made it fully official earlier this month, with sales in Europe starting on November 16. In October, the company's Indian website said the phone was \"coming this November\", but that turned out to be a bit optimistic. [#InlinePriceWidget,",
+     "source": "GSMArena",
+     "zh": "Motorola officially announces when the Signature 27 is coming to India"
+    },
     {
      "title": "These are my two must-have iPhone Duo accessories",
      "link": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
@@ -2239,14 +2247,6 @@
      "summary": "vivo launched the S60 back in late May, and its successor is already just around the corner. Today, the company opened pre-orders for the vivo S70 series on its online store in China, confirming that the lineup will become official in December. An exact date hasn't been announced yet. According to v",
      "source": "GSMArena",
      "zh": "Here's when the vivo S70 series will become official"
-    },
-    {
-     "title": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display",
-     "link": "https://www.dpreview.com/news/kodaks-new-slidetag-is-a-keychain-tracker-with-a-built-in-e-ink-photo-display/",
-     "pubDate": "Mon, 23 Nov 2026 18:27:19 +0000",
-     "summary": "Reto's Kodak-branded tracker helps you find your keys while showing off your favorite photo in a retro slide-style frame.",
-     "source": "DPReview",
-     "zh": "Kodak’s new SlideTag is a keychain tracker with a built-in E Ink photo display"
     }
    ]
   },
@@ -2256,6 +2256,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Six key questions raised by Jensen Huang&apos;s return to Nvidia",
+     "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+     "pubDate": "Tue, 24 Nov 2026 03:05:49 GMT",
+     "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+     "source": "CNBC",
+     "zh": "Six key questions raised by Jensen Huang&apos;s return to Nvidia"
+    },
+    {
+     "title": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过",
+     "link": "https://wallstreetcn.com/articles/3786566",
+     "pubDate": "Tue, 24 Nov 2026 10:55:08 +0800",
+     "summary": "Anthropic的内部研究版Claude模型，刚刚独立证明了代数版本的P对NP猜想。 论文的唯一作者署名就是Claude， GitHub： https://github.com/anthropics/formal-math/tree/main/vp-vnp paper： https://www.alphaxiv.org/pdf/2611.vp-vnp-arithmetic-lower-bounds 不过整项成果没有经过人类数学家的人工审稿，但已经用形式化验证工具Lean 4完成了端到端的机器证明与检验。 这篇论文的核心结论只有一个：在任意域上，VP都不等于VNP。 这个结论正式回答了理论计算",
+     "source": "华尔街见闻",
+     "zh": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过"
+    },
     {
      "title": "英伟达一夜暴涨31%，空头跌懵了",
      "link": "https://wallstreetcn.com/articles/3786564",
@@ -2479,22 +2495,6 @@
      "summary": "周一，美股主要股指大幅飙升。 英伟达 宣布恢复黄仁勋CEO职务给投资者带来希望：上周那种无情的抛售压力或许会消退——至少暂时如此。 不过，对于这波反弹能持续多久，策略师们意见不一。 一些人认为股市回调已结束，而另一些人则担心，在黄仁勋离任之前，一些挥之不去的问题就已导致股市下跌 。 纳指、标普500指数和费城 半导体 指数均录得2025年4月以来最大单日涨幅。截至收盘，标普500指数涨4.73%，报7237.17点； 纳斯达克 综合 指数涨6.51%，报24089.56点；道琼斯工业平均指数涨3.01%，报49595.31点。 这场“恐慌缓解式反弹”出现之前，道琼斯工业平均指数、标普500指数",
      "source": "东方财富资讯",
      "zh": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？"
-    },
-    {
-     "title": "Central Garden & Pet expects FY 2027 non-GAAP EPS of $2.65 or better while forecasting Q1 loss of $0.10-$0.15",
-     "link": "https://seekingalpha.com/news/4675952-central-garden-and-pet-expects-fy-2027-non-gaap-eps-of-2_65-or-better-while-forecasting-q1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 19:32:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Central Garden & Pet expects FY 2027 non-GAAP EPS of $2.65 or better while forecasting Q1 loss of $0.10-$0.15"
-    },
-    {
-     "title": "接着奏乐接着舞！黄仁勋回归助力美元继续冲高",
-     "link": "http://finance.eastmoney.com/news/1344,202611243938015071.html",
-     "pubDate": "Tue, 24 Nov 2026 08:27:53 +0800",
-     "summary": "近来，美元似乎总能在全球金融市场上“立于不败之地”。在过去几周的AI抛售潮中，美元成为了不少业内人士首选的避险资产之一。而当本周一 英伟达 首席执行官黄仁勋“王者归来”时，美元依然成为了一大受益资产，美元指数隔夜进一步刷新了2025年3月以来的最高位…… 行情数据显示，美元兑欧元汇率周一创下逾19个月新高，黄仁勋复职 英伟达 首席执行官重燃了市场对AI概念资产的追捧，而与AI相关的美元资产受到追捧正是今年美元走强的关键原因之一。此外，周一美股的大幅反弹也促使交易员加大对美联储更趋鹰派的押注。 黄仁勋周一的回归堪称是一个非同寻常的逆转，该消息推动 英伟达 股价周一大涨33%，单日市值暴增约952",
-     "source": "东方财富资讯",
-     "zh": "接着奏乐接着舞！黄仁勋回归助力美元继续冲高"
     }
    ]
   },

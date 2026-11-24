@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 13:31:59",
+ "generated_at": "2026/11/24 13:39:30",
  "recent_days": 7,
  "industries": [
   {
@@ -1194,6 +1194,14 @@ window.INDUSTRY_DATA = {
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
     },
     {
+     "title": "Kymera eczema pill meets goals in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
+     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
+     "source": "BioPharma Dive",
+     "zh": "Kymera eczema pill meets goals in mid-stage trial"
+    },
+    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
-    },
-    {
-     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
-     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
-     "source": "BioPharma Dive",
-     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
     }
    ]
   },
@@ -1650,12 +1650,12 @@ window.INDUSTRY_DATA = {
      "zh": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
     },
     {
-     "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+     "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
      "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
      "pubDate": "Mon, 23 Nov 2026 15:06:49 +0000",
-     "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+     "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+     "zh": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack"
     },
     {
      "title": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -1761,6 +1761,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
     {
      "title": "黄仁勋回归，但全球算力链条重估仍在继续",
      "link": "https://www.huxiu.com/article/4907984.html?f=rss",
@@ -1890,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国旺旺，跋涉越冬"
     },
     {
-     "title": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？",
-     "link": "https://www.tmtpost.com/8215303.html",
-     "pubDate": "Tue, 24 Nov 2026 12:37:40 +0800",
-     "summary": "入局AI4S，功夫其实在AI之外的部分。",
-     "source": "钛媒体",
-     "zh": "Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？"
-    },
-    {
      "title": "消息称豆包灰度测试“豆包购物”，配有一级功能入口",
      "link": "https://www.ithome.com/1/031/464.htm",
      "pubDate": "Tue, 24 Nov 2026 04:36:05 GMT",
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google gives publishers more visibility in AI Mode with new ‘Dive Deeper’ links",
+     "link": "https://www.androidauthority.com/google-search-ai-mode-dive-deeper-rollout-3738609/",
+     "pubDate": "Tue, 24 Nov 2026 05:33:41 +0000",
+     "summary": "Google wants curiosity to extend beyond AI-generated answers.",
+     "source": "Android Authority",
+     "zh": "Google gives publishers more visibility in AI Mode with new ‘Dive Deeper’ links"
+    },
     {
      "title": "Honor's first wide foldable set to arrive in March 2027 with zero-crease display",
      "link": "https://www.gsmarena.com/honors_first_wide_foldable_set_to_arrive_in_march_2027_with_zerocrease_display-news-75603.php",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "You should soon be able to filter browsing history by device, date, and ‘who browsed.’",
      "source": "Android Authority",
      "zh": "Google Chrome is working on 3 new filters to narrow down your browsing history"
-    },
-    {
-     "title": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same",
-     "link": "https://www.gsmarena.com/the_samsung_galaxy_a38_tipped_to_have_a_downgraded_camera_the_a58_stays_the_same-news-75598.php",
-     "pubDate": "Mon, 23 Nov 2026 21:11:01 +0100",
-     "summary": "According to the latest rumors, Samsung is planning to cut corners with the Galaxy A38 by using an inferior main camera. Previous reports also point to a downgraded OLED panel. While on the surface the Galaxy A38 seems to have the same 50MP main camera on the back, a deeper look at the specs reveals",
-     "source": "GSMArena",
-     "zh": "The Samsung Galaxy A38 tipped to have a downgraded camera, the A58 stays the same"
     }
    ]
   },
@@ -2386,12 +2386,28 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋回归提振亚洲股市，韩股涨7%，SK海力士涨逾8%，日经一度涨5%"
     },
     {
+     "title": "神舟二十四明日发射！商业航天板块走强 机构预测高增股来了",
+     "link": "http://finance.eastmoney.com/news/11139,202611243938313010.html",
+     "pubDate": "Tue, 24 Nov 2026 12:07:36 +0800",
+     "summary": "商业航天 概念11月24日早盘表现强势，板块中 飞亚达 、 魅视科技 、 中京电子 涨停 ； 银禧科技 、 东华测试 、 新雷能 涨超10%； 鹿山新材 、 本川智能 、 泰嘉股份 等跟涨。 神舟二十四即将 发射 消息面上，新华社11月24日报道，神舟二十四号载人飞船瞄准 11月25日8时18分发射 ，飞船入轨后将优先采用3.5小时自主快速交会对接策略，与空间站形成三船三舱组合体。 经空间站应用与发展阶段飞行任务总指挥部研究决定，神舟二十四号航天员乘组由航天驾驶员汤洪波、航天飞行工程师武毅、载荷专家穆罕默德·齐尚·阿里3人组成，汤洪波任指令长。 这是中国载人 航天工程 首个包含外籍航天员的飞行",
+     "source": "东方财富资讯",
+     "zh": "神舟二十四明日发射！商业航天板块走强 机构预测高增股来了"
+    },
+    {
      "title": "老黄“神奇回归” ，投行连夜“撕报告”",
      "link": "https://wallstreetcn.com/articles/3786571",
      "pubDate": "Tue, 24 Nov 2026 12:07:07 +0800",
      "summary": "黄仁勋回来了。英伟达董事会在不到两周内完成了一次180度转向——从宣布CEO辞职，到全票通过恢复其职务，整个过程伴随着白宫的直接介入、市场的剧烈震荡，以及华尔街各大投行的连夜重写报告。 11月23日，英伟达宣布黄仁勋即时恢复担任总裁、CEO及董事会成员。消息一出，英伟达股价当日收涨约32%，纳斯达克指数同日涨约7%。 也是这一天，高盛、花旗、瑞银等华尔街大行忙坏了。黄仁勋离职仅约两周，华尔街各大投行的分析师们刚刚完成了一套“无黄仁勋情景”下的估值测算——涵盖各细分行业的预期和估值框架。 复职消息一出，这套东西基本作废，得连夜改回来。 高盛、花旗快速上调估值 高盛在黄仁勋复任后维持英伟达“买入”",
      "source": "华尔街见闻",
      "zh": "老黄“神奇回归” ，投行连夜“撕报告”"
+    },
+    {
+     "title": "头部公募调研热情高 AI算力链包揽调研热股前十",
+     "link": "http://finance.eastmoney.com/news/1344,202611243938310856.html",
+     "pubDate": "Tue, 24 Nov 2026 12:04:43 +0800",
+     "summary": "截至目前，公募调研全年锚定硬科技主线，随两轮市场调整迭代调研方向。四季度以来，公募调研热股榜前十由AI硬件产业链包揽，并进一步向上游延伸， 电子 大宗气体龙头 广钢气体 位列公募调研热股前十。 据Wind统计，截至11月23日，在公募四季度以来调研的两张榜单上，富国基金、南方基金、嘉实基金均位居前三名。其中，富国基金共调研了489次，参与调研441只个股，成为当期调研最勤奋公募。 从调研榜单来看，头部公募调研热情不减，调研个股持续集中在“双创”板块。整体而言，全年公募调研主线稳定锚定硬科技，行业变化集中在主线内部：化工周期关注度回落、医药器械纳入重点跟踪视野。公募扎堆调研个股的现象逐季收敛，A",
+     "source": "东方财富资讯",
+     "zh": "头部公募调研热情高 AI算力链包揽调研热股前十"
     },
     {
      "title": "首仿25万美元核药 “核药第一股”上市破发",
@@ -2410,54 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "豆包推出“小豆”，大厂争夺个人AI入口"
     },
     {
-     "title": "深赛格：截至11月13日最新股东户数5.68万户，较上期增加5.86%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938308865.html",
-     "pubDate": "Tue, 24 Nov 2026 11:59:54 +0800",
-     "summary": "深赛格 最新披露数据显示，截至11月13日公司股东户数为5.68万户，较上期(2026年10月23日) 增加3146户，增幅为5.86% 。户均持有流通股数量 由上期的2.29万股下降至2.17万股， 户均持股金额 由上期的16.31万元减少至14.39万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "深赛格：截至11月13日最新股东户数5.68万户，较上期增加5.86%"
-    },
-    {
-     "title": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤",
-     "link": "http://finance.eastmoney.com/news/1351,202611243938307765.html",
-     "pubDate": "Tue, 24 Nov 2026 11:54:43 +0800",
-     "summary": "据当地媒体报道，哥伦比亚中部梅塔省首府比亚维森西奥市中心23日晚发生一起疑似 汽车 炸弹袭击事件，目标疑为梅塔省政府大楼。袭击已造成12人受伤，周边多栋建筑受损。目前尚无组织宣称制造此次袭击。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "哥伦比亚一省政府大楼附近发生爆炸袭击致12人受伤"
-    },
-    {
-     "title": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商",
-     "link": "http://stock.eastmoney.com/news/1416,202611243938308368.html",
-     "pubDate": "Tue, 24 Nov 2026 11:49:06 +0800",
-     "summary": "苹果 的可折叠手机iPhone Duo，未来可能被迫依赖于三星的显示屏，分析师郭明錤称 OLED 面板 是 苹果 在谈判筹码方面最棘手的单一组件。 爆料平台Instant Digital最新在 微博 上发文指出，三星在折痕控制、可靠性和制造良率方面占据优势，将使LG Display很难加入iPhone Duo的可折叠显示屏供应链。 苹果 据悉希望支持LG Display成为自己的主要显示屏供应商，LG也参与了苹果折叠屏的早期研发，但该供应商的生产能力及技术仍无法挑战三星。Instant Digital认为，至少在未来五年内，三星显示器仍将是iPhone Duo的核心。 此前，Instant D",
-     "source": "东方财富股票",
-     "zh": "三星卡住了iPhone Duo的脖子：五年内恐将是唯一显示屏供应商"
-    },
-    {
-     "title": "中证转债指数午盘涨0.23%，报429.01点",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938307939.html",
-     "pubDate": "Tue, 24 Nov 2026 11:48:32 +0800",
-     "summary": "11月24日，中证转债指数午盘上涨0.23%，报429.01点。万得可转债等权指数午盘上涨0.42%，报219.68点。其中，卓镁转债、丰茂转债、肇民转债、联瑞转债、莱特转债涨幅居前，分别涨14.33%、11.85%、11.02%、9.31%、7.36%。严牌转债、美锦转债、金诚转债、艾为转债、宏图转债跌幅居前，分别跌4.33%、3.09%、2.93%、2.89%、2.81%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "中证转债指数午盘涨0.23%，报429.01点"
-    },
-    {
-     "title": "国轩高科入股芜湖造船厂",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938305825.html",
-     "pubDate": "Tue, 24 Nov 2026 11:47:51 +0800",
-     "summary": "企查查APP显示，近日，芜湖造船厂有限公司发生工商变更，新增 国轩高科 旗下合肥 国轩高科 动力能源有限公司为股东。官网显示，芜湖造船厂是国内现代化一档造船企业，深耕 船舶制造 领域超百年。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "国轩高科入股芜湖造船厂"
-    },
-    {
-     "title": "泰国10月汽车产量同比下降35.19%",
-     "link": "http://finance.eastmoney.com/news/1358,202611243938305610.html",
-     "pubDate": "Tue, 24 Nov 2026 11:45:23 +0800",
-     "summary": "据泰国工业联合会，泰国10月 汽车 产量同比下降35.19%，9月为下降6.08%。泰国10月 汽车 销量同比增长8.71%，9月为增长14.28%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "泰国10月汽车产量同比下降35.19%"
-    },
-    {
      "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
      "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
      "pubDate": "Tue, 24 Nov 2026 03:32:26 GMT",
@@ -2466,12 +2434,44 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. court orders to proceed with planned ammunition detonation in Iowa"
     },
     {
+     "title": "创业板指上涨1.9% 科创50指数上涨2.72% 两市半日成交超1.1万亿",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938304693.html",
+     "pubDate": "Tue, 24 Nov 2026 11:30:13 +0800",
+     "summary": "A股主要指数集体上涨，创业板指涨近2%，科创50指数涨逾2.7%。盘面上， 文娱用品 、 数字媒体 、 智能音箱 、 减速器 、 无线耳机 、 机器人 执行器 涨幅居前， 贵金属 、 煤炭 、 金属铅 、 草甘膦 、 阿兹海默 、 普钢 表现不佳，位于跌幅榜前列。 截至午间收盘，沪指上涨0.47%，报3555.49点；深成指上涨0.92%，报10550.87点；创业板指上涨1.90%，报2323.48点；科创50指数上涨2.72%，报1261.26点；北证50指数上涨1.83%，报809.93点。全市场上涨个股有3123家，下跌个股有2273家，67只股涨停。两市半日合计成交11210亿。 今",
+     "source": "东方财富资讯",
+     "zh": "创业板指上涨1.9% 科创50指数上涨2.72% 两市半日成交超1.1万亿"
+    },
+    {
      "title": "对冲失效，空头止损，杠杆ETF狂扫410亿！复盘老黄回归，美股“惊心动魄”的一天",
      "link": "https://wallstreetcn.com/articles/3786563",
      "pubDate": "Tue, 24 Nov 2026 11:21:49 +0800",
      "summary": "黄仁勋复职，触发美股史诗级逼仓，但野村警告：机械性反弹解决不了结构性问题。 当地时间周一，英伟达董事会宣布黄仁勋重返总裁兼CEO职位，这份措手不及的新闻稿彻底引爆了此前已蓄势待发的机械性买盘。 野村证券跨资产策略师Charlie McElligott在当日最新报告中，将这场反弹定性为多重机制的叠加引爆： 看跌期权对冲头寸失效、空头被迫止损、趋势型基金翻多。 他以一句话概括全天行情： 对冲头寸消亡，空头遭遇止损，标普狂飙，追逐上行。 与此同时，野村测算， 杠杆ETF在当日收盘前的被动再平衡买入规模高达410亿美元，为有史以来第二大单日买入。 然而，McElligott同时警示，机械性反弹无法消除",
      "source": "华尔街见闻",
      "zh": "对冲失效，空头止损，杠杆ETF狂扫410亿！复盘老黄回归，美股“惊心动魄”的一天"
+    },
+    {
+     "title": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611243938299844.html",
+     "pubDate": "Tue, 24 Nov 2026 11:20:41 +0800",
+     "summary": "AI短剧、漫剧商业化落地提速，A股 影视概念 反复活跃， 上海电影 、 横店影视 等多股连板。机构认为， AI正重构影视内容成本曲线 ，板块估值修复空间打开。 AI漫剧出海用户破1.5亿 微短剧前三季度上线49万部 11月以来，A股 影视概念 反复活跃，AI短剧、漫剧方向领涨。11月2日，影视板块指数单日涨超9%，影视ETF银华、影视ETF国泰双双涨停， 文投控股 盘中上演\"地天板\"走出9天5板；11月10日，申万 影视院线 指数再涨6.80%，板块成交额达190.89亿元； 11月23日，AI漫剧概念再度爆发， 上海电影 、 横店影视 、 浙文影业 、 德才股份 等多股涨停， 果麦文化 、 ",
+     "source": "东方财富资讯",
+     "zh": "AI短剧商业化提速！影视概念景气向好 这7股业绩倍增可期(名单)"
+    },
+    {
+     "title": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938275749.html",
+     "pubDate": "Tue, 24 Nov 2026 11:12:31 +0800",
+     "summary": "当地时间周一，在 英伟达 董事会一致决定让黄仁勋重返CEO岗位后， 特斯拉 与 SpaceX 首席执行官埃隆·马斯克接连发声。 周一早些时候，在得知 英伟达 董事会已恢复黄仁勋职位的消息后，马斯克迅速做出回应，他在社交媒体平台X上转发了 英伟达 对黄仁勋的复职声明， 并配文“错误已经被纠正” 。 几个小时后，马斯克又转发黄仁勋回归视频，并配文：“我认识的英伟达所有人都希望黄仁勋回来，这从结果就能看出来。” 黄仁勋回归现场画面曝光 根据视频画面，当黄仁勋回到英伟达加州圣克拉拉总部时，员工欢呼鼓掌，楼梯挤满了人，齐声高喊 “Jensen！”、“We love you”，现场气氛热烈。 黄仁勋当天没",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋回归现场画面曝光！马斯克再次发声：逆境朋友才是真朋友"
+    },
+    {
+     "title": "15%最低税红线！沙特2027年起对跨国巨头利润征补充税",
+     "link": "http://finance.eastmoney.com/news/1352,202611243938282194.html",
+     "pubDate": "Tue, 24 Nov 2026 11:10:26 +0800",
+     "summary": "据沙特阿拉伯天课、税务和海关总局称，沙特将于2027年起对跨国企业在该国境内取得的利润征收补充税，前提是其有效税率低于15%的全球最低税率。 该税种适用于过去四年合并财务报表显示年收入达到7.5亿欧元（8.238亿美元）或以上的跨国企业，没有海外分支机构的本地企业可获豁免。 据称，此举旨在保护沙特对其境内所获利润征税的权利，并与关于全球最低税率的新国际规则保持同步。 当局强调，该税种适用范围仅限于跨国集团中符合标准的实体，并不扩展到在沙特境内运营的所有公司。 它同时指出，通过制定与大多数G20国家及所有海湾合作委员会成员国所采用规则相一致的条款，可为投资者提供更大的确定性和稳定性。 据其解释，",
+     "source": "东方财富资讯",
+     "zh": "15%最低税红线！沙特2027年起对跨国巨头利润征补充税"
     },
     {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",

@@ -362,6 +362,14 @@ window.INDUSTRY_DATA = {
      "zh": "UCLouvain collaboration shows how Acorn Buried Stressor improves RF-SOI and FDSOI substrate performance"
     },
     {
+     "title": "Electronica: Video Interview – Arrow Electronics launches Capstone to increase focus on IP&E solutions",
+     "link": "https://www.electronicsweekly.com/news/electronica/electronica-video-interview-arrow-electronics-launches-capstone-to-increase-focus-on-ipe-solutions-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 16:16:00 +0000",
+     "summary": "At Electronica 2026 we caught up with Jörg Strughold – chief growth officer, global IP&E and Capstone at Arrow Electronics – as part of our promotional coverage for the event. […] The post Electronica: Video Interview – Arrow Electronics launches Capstone to increase focus on IP&E solutions appeared",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Arrow Electronics launches Capstone to increase focus on IP&E solutions"
+    },
+    {
      "title": "Navitas’s revenue grows 33% in Q3, driven by high-power markets",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/navitas-231126.shtml",
      "pubDate": "Mon, 23 Nov 2026 16:12:24 GMT",
@@ -386,12 +394,44 @@ window.INDUSTRY_DATA = {
      "zh": "ChipAgents Webinar – How a Multi-Agent Platform Accelerates Functional and Formal Verification"
     },
     {
+     "title": "Huang reinstated as CEO of Nvidia",
+     "link": "https://www.electronicsweekly.com/news/business/huang-reinstated-as-ceo-of-nvidia-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 15:08:29 +0000",
+     "summary": "Nvidia has reinstated Jensen Huang as president and chief CEO, effective immediately. “I am honoured to return to Nvidia and lead one of the most consequential technology companies in the […] The post Huang reinstated as CEO of Nvidia appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Huang reinstated as CEO of Nvidia"
+    },
+    {
      "title": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance",
      "link": "https://www.eetimes.com/secure-flash-a-practical-path-to-cyber-resilience-act-compliance/",
      "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
      "summary": "The EU Cyber Resilience Act (CRA) introduces cybersecurity requirements for connected products throughout their lifecycle. This white paper explores how Winbond’s TrustME® W77Q Secure Flash and CRA Conformance and Integration Kit help OEMs strengthen firmware protection, secure software updates, rol",
      "source": "EE Times",
      "zh": "Secure Flash: A Practical Path to Cyber Resilience Act Compliance"
+    },
+    {
+     "title": "The China IC Lag",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-china-ic-lag-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 14:23:06 +0000",
+     "summary": "Data collected by the OECD shows that the U.S. and its allies have an advantage in the standoff over access to the latest IC technology. Logic chips with nodes […] The post The China IC Lag appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The China IC Lag"
+    },
+    {
+     "title": "Haas to stay at Arm",
+     "link": "https://www.electronicsweekly.com/news/business/haas-to-stay-at-arm-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 13:49:34 +0000",
+     "summary": "Arm CEO Rene Haas (pictured) has signed a contract to stay at Arm till 2033 despite approaches from Nvidia to succeed Jensen Huang as CEO. “I’ve never been more confident […] The post Haas to stay at Arm appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Haas to stay at Arm"
+    },
+    {
+     "title": "Edge-mount MCX connector expands Amphenol RF’s non-magnetic range",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/edge-mount-mcx-connector-expands-amphenol-rfs-non-magnetic-range-2026-11/",
+     "pubDate": "Mon, 23 Nov 2026 11:27:41 +0000",
+     "summary": "Amphenol RF is introducing a compact MCX (micro coaxial) end-launch jack for magnetically sensitive applications rquiring reliable RF performance from DC to 6 GHz. The non-magnetic MCX end-launch jack is […] The post Edge-mount MCX connector expands Amphenol RF’s non-magnetic range appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Edge-mount MCX connector expands Amphenol RF’s non-magnetic range"
     },
     {
      "title": "The Enigma of SoftBank’s $1 Trillion SK Hynix Buyout Attempt",
@@ -448,54 +488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty. The post Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Pat Gelsinger Goes Hunting for Europe’s Unbuilt Tech Companies"
-    },
-    {
-     "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
-     "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
-     "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
-     "summary": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models. The post Palo Alto Networks Expands into Enterprise AI with $4.5B Deal appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
-    },
-    {
-     "title": "Chip Industry Week In Review",
-     "link": "https://semiengineering.com/chip-industry-week-in-review-165/",
-     "pubDate": "Fri, 20 Nov 2026 08:01:14 +0000",
-     "summary": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects. The post Chip Industry W",
-     "source": "Semiconductor Engineering",
-     "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Penn State unveils new semiconductor research capabilities",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/pennstate-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 18:00:35 GMT",
-     "summary": "Penn State University and the Midwest Microelectronics Consortium (MMEC) have marked the opening of new advanced semiconductor research capabilities at the Millennium Science Complex (MSC) with a ribbon-cutting ceremony, as newly installed equipment begins supporting research designed to move promis",
-     "source": "Semiconductor Today",
-     "zh": "Penn State unveils new semiconductor research capabilities"
-    },
-    {
-     "title": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 11:45:05 GMT",
-     "summary": "Infineon Technologies AG of Munich, Germany is collaborating with power and energy company Shenzhen Megmeet Electrical Co Ltd (which specializes in high-efficiency power solutions for data centers, e-Mobility, healthcare, industrial automation, and renewable energy) to advance 800VDC data-center pow",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with Megmeet on 800VDC AI data-center power architectures"
-    },
-    {
-     "title": "Riber wins Asian order for MBE 6000 production system",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/riber-191126.shtml",
-     "pubDate": "Thu, 19 Nov 2026 11:36:22 GMT",
-     "summary": "Molecular beam epitaxy (MBE) system maker Riber S.A. of Bezons, France has received an order for an MBE 6000 production system from an industrial customer in Asia...",
-     "source": "Semiconductor Today",
-     "zh": "Riber wins Asian order for MBE 6000 production system"
-    },
-    {
-     "title": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW",
-     "link": "https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/",
-     "pubDate": "Thu, 19 Nov 2026 08:06:18 +0000",
-     "summary": "Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future design decisions. The post Beyond Pass/Fail: Characterizing Silicon Margin With PVTW appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW"
     }
    ]
   },
@@ -1194,6 +1186,14 @@ window.INDUSTRY_DATA = {
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
     },
     {
+     "title": "Kymera eczema pill meets goals in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/kymera-eczema-pill-phase2-data-protein-degrader-dupixent-ebglyss/875462/",
+     "pubDate": "Mon, 23 Nov 2026 09:53:55 -0500",
+     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron&rsquo;s market leader Dupixent.",
+     "source": "BioPharma Dive",
+     "zh": "Kymera eczema pill meets goals in mid-stage trial"
+    },
+    {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
      "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
      "pubDate": "Mon, 23 Nov 2026 14:43:21 +0000",
@@ -1280,14 +1280,6 @@ window.INDUSTRY_DATA = {
      "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca&nbsp;&mdash; which is nearing the start of a Phase 3 trial&nbsp;&mdash;&nbsp;may be able to exploit.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug"
-    },
-    {
-     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-     "pubDate": "Fri, 20 Nov 2026 08:03:00 -0500",
-     "summary": "Wall Street analysts rushed to Celldex&rsquo;s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva&rsquo;s research chief accepted a new job.",
-     "source": "BioPharma Dive",
-     "zh": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff"
     }
    ]
   },
@@ -1762,12 +1754,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "新鲜感之后，陪伴机器人如何被用起来？",
-     "link": "https://www.tmtpost.com/8212446.html",
-     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
-     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "title": "差点把西祠胡同创始人带走的“寡妇血管”，离崩溃有多远？",
+     "link": "https://www.huxiu.com/article/4907952.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 12:05:31 +0800",
+     "summary": "本文由虎嗅旗下健康与抗衰公众号&ldquo; 九叶刀研究 &rdquo;首发，全文约2500字。封面图来自Unsplash。 西祠胡同社区回归三个月后，创始人响马差点被心梗带走。 11月16日，响马在X平台发布了一条推文，自陈一个月前突发急性心梗， 寡妇血管完全堵死 ，经过抢救已经恢复平稳，在家静养。而西祠胡同公众号也于三天后转发祝福 [1] ，颇为巧合的是，转发次日便是&ldquo;全国心梗救治日&rdquo;。 响马是七零后，他的遭遇也让很多人唏嘘。有读者在西祠胡同公众号下留言感慨，&ldquo;唉，响马都到了心梗的年纪&rdquo;，还有人真诚发问&ldquo;寡妇血管是什么意思&rdq",
+     "source": "虎嗅",
+     "zh": "差点把西祠胡同创始人带走的“寡妇血管”，离崩溃有多远？"
+    },
+    {
+     "title": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)",
+     "link": "https://www.techmeme.com/261123/p53#a261123p53",
+     "pubDate": "Mon, 23 Nov 2026 23:00:14 -0500",
+     "summary": "Wired : Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure &nbsp; &mdash;&nbsp; One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world's ",
+     "source": "Techmeme",
+     "zh": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)"
+    },
+    {
+     "title": "肯尼亚买量素材周更节奏，4人团队扛得住吗？",
+     "link": "https://www.baijing.cn/question/638931",
+     "pubDate": "Tue, 24 Nov 2026 04:00:14 +0000",
+     "summary": "我们一款SLG手游在肯尼亚内罗毕和蒙巴萨做冷启动，投放用Meta和Google UAC，团队一共4个人：1个投放、1个素材、1个本地化运营、1个兼职客服。现在卡在素材排期上——肯尼亚移动网络以3G/4G为主，内罗毕城区4G还行，出了城区掉到3G，视频素材超过15秒完播率从42%掉到18%，我们被迫每周出6-8条10秒竖版素材。但素材同学一周只能产出3条，投放端等素材空转，CPA从0.9美元涨到1.4美元。试过用本地KOL拍实拍素材，单条成本压到80美元但拍摄周期要10天，赶不上周更。想问在这种人手和网络条件下，素材产能和投放节奏该怎么排？",
+     "source": "白鲸出海",
+     "zh": "肯尼亚买量素材周更节奏，4人团队扛得住吗？"
+    },
+    {
+     "title": "废电池成香饽饽？中美欧争抢“黑粉”生意",
+     "link": "https://www.huxiu.com/article/4907963.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:56:21 +0800",
+     "summary": "本文来自微信公众号： 科工力量 ，作者：王润莲 宁德时代董事长曾毓群，最近在接受彭博社采访时，对欧洲电池回收提出了一个建议：把报废的新能源汽车电池送到中国，等中国企业把里面的金属提炼出来，再运回欧洲。 曾毓群在APEC工商领导人峰会上的现场照片 他认为，欧洲如果坚持自己建设完整的电池回收产业，可能需要付出很高的成本。既然中国已经拥有成熟的回收技术和加工能力，不如让中国企业来处理这些废电池，再把提炼出来的金属运回欧洲。曾毓群还透露，自己已经向部分欧洲官员和汽车制造商提出了这个方案。 不过，欧洲当下的一系列措施，显然和这个方向相悖。12月9日，欧盟新的废物分类规则将正式适用，废旧锂电池及其破碎、分",
+     "source": "虎嗅",
+     "zh": "废电池成香饽饽？中美欧争抢“黑粉”生意"
+    },
+    {
+     "title": "月薪5000的深圳打工人，开始给农村父母补缴社保",
+     "link": "https://www.huxiu.com/article/4907962.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:53:35 +0800",
+     "summary": "本文来自微信公众号： 深圳城事攻略 ，编辑：小Z，作者：小Z “你离得这么远，我们老了怎么办？” 这几年，不少在深圳打拼的年轻人发现，农村老家父母打电话来，总会小心翼翼地试探这句。 想到刚工作那会儿，长辈们拍着胸脯说：“放心，我们老了不用你们养。” 从“不用你养”到“老了怎么办”，这种转变，其实藏着老一辈对经济状况的深深焦虑。 50岁一过，“养老的恐惧”就像他们头上的白发，藏不住了。 不少父母发来消息，让子女帮忙查查以前零散缴过的社保到底还能不能用。 近日，#年轻人给农村父母补缴社保#冲上热搜，评论区里全是打工人的心酸与清醒。 基础养老金仅163元？ 农村养老的缺口比想象大 以前总觉得，“养儿",
+     "source": "虎嗅",
+     "zh": "月薪5000的深圳打工人，开始给农村父母补缴社保"
+    },
+    {
+     "title": "上海地铁涨价，其他城市还扛得住吗？",
+     "link": "https://www.huxiu.com/article/4907961.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:53:03 +0800",
+     "summary": "本文来自微信公众号： 城市战争 ，作者：老桥，原文标题：《上海地铁涨价！其他城市还扛得住吗？》 连中国财力最强的城市，都扛不住了，全国城市的地铁会否迎来一轮普涨？ 中国最“有钱”的城市，也扛不住了？ 昨天（11月23日），上海官宣：地铁票价要涨了！ 这是上海地铁时隔21年首次调整票价，新方案将于12月1日起正式实施。 先说重点： 这次涨价，平均每人次票价上涨幅度约21.3%，平均每人次提高0.9元。 不过，这次调价对深度用户相对友好，12公里以上高频出行乘客，可通过购买计次票价来降低涨幅，出行成本甚至还能下降一点。 具体来看： 最显眼的调整是：3块钱的起步价没有变，但起步价的区间变了，以前3块",
+     "source": "虎嗅",
+     "zh": "上海地铁涨价，其他城市还扛得住吗？"
+    },
+    {
+     "title": "从名创优品到泡泡玛特，潮玩集体踩刹车",
+     "link": "https://www.tmtpost.com/8215528.html",
+     "pubDate": "Tue, 24 Nov 2026 11:51:28 +0800",
+     "summary": "卖潮玩的人，赢不过时间。",
      "source": "钛媒体",
-     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+     "zh": "从名创优品到泡泡玛特，潮玩集体踩刹车"
+    },
+    {
+     "title": "2026世界一二线城市，又变了",
+     "link": "https://www.huxiu.com/article/4907960.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:51:25 +0800",
+     "summary": "本文来自微信公众号： 国民经略 ，作者：凯风，原文标题：《大洗牌！2026世界一二线城市，又变了》 世界一二线城市，揭榜。 日前，世界知名评级机构GaWC发布《世界城市名册2026》，为全球城市进行分级。 根据在全球网络的位置和能级，GaWC将世界城市分为Alpha（一线）、Beta（二线）、Gamma（三线）、Sufficiency（四线）四大层级。 在全球300多座入选城市中，中国共有45座城市跻身其中，包括6座Alpha级、17座Beta级、5座Gamma级，以及17座Sufficiency级。 从全球看中国城市，谁是真正的世界城市？ 01 世界一二线城市，又变了。 GaWC世界城市衡量",
+     "source": "虎嗅",
+     "zh": "2026世界一二线城市，又变了"
+    },
+    {
+     "title": "芯片黑马赴港IPO，华为老兵带队，比马斯克更早入局",
+     "link": "https://www.tmtpost.com/8215526.html",
+     "pubDate": "Tue, 24 Nov 2026 11:51:22 +0800",
+     "summary": "比马斯克更早押注，华为老兵熬过打折寒冬。",
+     "source": "钛媒体",
+     "zh": "芯片黑马赴港IPO，华为老兵带队，比马斯克更早入局"
+    },
+    {
+     "title": "雪茄吧，财富粉碎机？",
+     "link": "https://www.huxiu.com/article/4905894.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 11:50:00 +0800",
+     "summary": "雪茄吧是财富粉碎机，开店投入高、合规经营货源受限，利润透明，成本刚性，老板常陷死循环。雪茄的奢侈属性源于稀缺产量、复杂门槛、独立空间需求以及强烈的文化象征。但雪茄吧生意难做，想体验a12生活，先搞懂雪茄鄙视链和品鉴套路，财富象征只是表面，真正的护城河是文化资产。",
+     "source": "虎嗅",
+     "zh": "雪茄吧，财富粉碎机？"
+    },
+    {
+     "title": "黄仁勋回归英伟达首日：没有办公电脑用，希望配台 RTX Spark",
+     "link": "https://www.ithome.com/1/031/389.htm",
+     "pubDate": "Tue, 24 Nov 2026 03:47:23 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 Wccftech 今天（11 月 24 日）发布博文，报道称英伟达创始人黄仁勋重返公司总部，在面向员工的简短讲话中，为了活跃现场气氛， 调侃表示这是自己重新上班的第一天，目前还没有电脑，希望 IT 部门配发的新设备是一台 RTX Spark。 IT之家翻译黄仁勋的简短发言内容如下： 谢谢大家，谢谢大家给我第二次机会。 这是我重新上班的第一天。 我没有电脑，所以 IT 部门会给我配一台新电脑。 我希望它是 RTX Spark。 我想，我想感谢你们所有人。 第二次担任 CEO，我一定会做得更好。 RTX Spark 是英伟达面向个人电脑推出的计算平台，结",
+     "source": "IT之家",
+     "zh": "黄仁勋回归英伟达首日：没有办公电脑用，希望配台 RTX Spark"
     },
     {
      "title": "差点把西祠胡同创始人带走的“寡妇血管”，离崩溃有多远？",

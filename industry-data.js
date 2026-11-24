@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 08:51:59",
+ "generated_at": "2026/11/24 09:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -282,12 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "Analysis: Huang's return to Nvidia leaves China strategy and US oversight unresolved"
     },
     {
-     "title": "Analysis: Huang's 15-day ouster and return leave Nvidia facing governance and succession questions",
+     "title": "Analysis: After Huang's 15-day exit, Nvidia and its Taiwan suppliers face a key-person problem",
      "link": "https://www.digitimes.com/news/a20261124PD200/nvidia-governance-jensen-huang-market-supply-chain.html",
      "pubDate": "Tue, 24 Nov 2026 00:05:56 GMT",
      "summary": "Jensen Huang is back in charge of Nvidia after a 15-day upheaval. Still, his abrupt exit and reinstatement have exposed how heavily the world's leading AI chipmaker, and the Taiwanese supply chain built around it, depends on one person.",
      "source": "DIGITIMES",
-     "zh": "Analysis: Huang's 15-day ouster and return leave Nvidia facing governance and succession questions"
+     "zh": "Analysis: After Huang's 15-day exit, Nvidia and its Taiwan suppliers face a key-person problem"
     },
     {
      "title": "Analysis: Nvidia board's six-day reversal on Huang points to Washington's hand",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "America's Refiners Drowned Their Own Gasoline Windfall",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html",
+     "pubDate": "Mon, 23 Nov 2026 19:00:00 -0600",
+     "summary": "U.S. refiners spent 2026 squeezing less gasoline out of every barrel to chase diesel and jet fuel margins, and they still produced enough gasoline to nearly wipe out their margins on it. Gasoline yields averaged below 45% in the first eight months of the year and fell below the previous five-year lo",
+     "source": "OilPrice",
+     "zh": "America's Refiners Drowned Their Own Gasoline Windfall"
+    },
+    {
      "title": "Japan’s expanding BESS market and its uncertain progress",
      "link": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
      "pubDate": "Tue, 24 Nov 2026 00:04:52 +0000",
@@ -920,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "COP 31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqué — language that was included two years ago at the ... [continued] ",
      "source": "CleanTechnica",
      "zh": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology"
-    },
-    {
-     "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
-     "link": "https://oilprice.com/Energy/Energy-General/Washingtons-Iran-Strategy-Risks-Strengthening-Its-Biggest-Rivals.html",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 -0600",
-     "summary": "A renewed US-Israeli attack on Iran will bring economic disruption, security risks, and geopolitical realignment across Central Asia. The five republics would prefer to avoid involvement, but geography limits their ability to insulate themselves from the conflict. Iran is an important potential outl",
-     "source": "OilPrice",
-     "zh": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals"
     },
     {
      "title": "Ohio OKs gas plant for data centers despite local voter backlash",
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "CMS reveals Medicare's negotiated drug prices for 2028",
+     "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
+     "pubDate": "Tue, 24 Nov 2026 00:48:57 +0000",
+     "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
+     "source": "Endpoints News",
+     "zh": "CMS reveals Medicare's negotiated drug prices for 2028"
+    },
+    {
      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
      "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 00:19:48 +0000",
@@ -1184,14 +1192,6 @@ window.INDUSTRY_DATA = {
      "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, &ldquo;MSH3,&rdquo; that can exacerbate the genetic abnormalities underlying diseases like Huntington's.",
      "source": "BioPharma Dive",
      "zh": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal"
-    },
-    {
-     "title": "House committee issues final report on US-China biotech race",
-     "link": "https://endpoints.news/house-committee-issues-final-report-on-us-china-biotech-race/",
-     "pubDate": "Mon, 23 Nov 2026 16:00:13 +0000",
-     "summary": "A House panel focused on economic competition with China warns that the country's growing prowess in the biotech sector, paired with multiple inefficiencies in the US, is shifting global medicine development overseas. The Select Committee ...",
-     "source": "Endpoints News",
-     "zh": "House committee issues final report on US-China biotech race"
     },
     {
      "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)",
+     "link": "https://www.techmeme.com/261123/p47#a261123p47",
+     "pubDate": "Mon, 23 Nov 2026 19:55:00 -0500",
+     "summary": "Alixel Cabrera / Utah News Dispatch : Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah &nbsp; &mdash;&nbsp; Amid multiple legal disputes between Utah leaders and Kalshi, the prediction market",
+     "source": "Techmeme",
+     "zh": "Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)"
+    },
+    {
+     "title": "Edge AI Daily 早报（11月24日）",
+     "link": "https://www.tmtpost.com/8215144.html",
+     "pubDate": "Tue, 24 Nov 2026 08:54:57 +0800",
+     "summary": "本期核心情报由三条主线构成。其一，英伟达董事会于11月23日一致恢复黄仁勋总裁、CEO及董事职务，股价日内大涨逾30%、纳指与标普同步反弹，特朗普公开背书称不构成国家安全风险；公司同步设立国家安全与出口管制监督委员会并启动首席合规官招聘，但独立调查、国会12月3日听证及Megaspeed实体清单风险未消，涨势被定性为治理溢价修复而非业绩验证，AI芯片出口管制正由货物流向转向远程算力访问与终端用户识别。其二，谷歌DeepMind与量子AI以Gemini 4智能体协同搜索、Lean验证重写量子算法，聚变与光化学模拟获优化但未及商业化；谷歌同时将Drive、Wallet、Gemini接入搜索AI M",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（11月24日）"
+    },
+    {
+     "title": "老黄回归，要不要清君侧？",
+     "link": "https://www.huxiu.com/article/4907882.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 08:49:34 +0800",
+     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：视觉中国 作者可能是中文互联网里最早讨论黄仁勋复职可能的（ 《黄仁勋复职的可能性有多大》 ），甚至是在海外都没有认真讨论这个问题时就开始了，并且这些讨论完全是基于逻辑和专业判断。 正如作者一直所讲，民主党和共和党鹰派没有理由让黄仁勋一直离任，在&ldquo;阻断对华算力&rdquo;目标达成后，黄仁勋不复职才是对美国经济最大的伤害。 过去两周相信各种奇谈怪论，认为黄仁勋没有复职可能性的读者，可以好好对比一下作者的分析与其他分析的不同。 AI能编出各种故事，但AI本身是不通人性的， 所有的专业判断，其实都要加上人性的因素。 例如美国两党",
+     "source": "虎嗅",
+     "zh": "老黄回归，要不要清君侧？"
+    },
+    {
+     "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，而 GPT-5.6 Sol、Terra 将于 12 月 23 日退役",
+     "link": "https://www.ithome.com/1/031/271.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:49:01 GMT",
+     "summary": "IT之家 11 月 24 日消息，OpenAI 今日宣布 GPT-6.2 Sol 正式登陆 ChatGPT 聊天页面，在此前于 ChatGPT Work 和 Codex 平台亮相不到一周后，进一步扩大了该模型的应用范围。 根据 OpenAI 官方介绍，此次推出的 GPT-6.2 Sol 针对日常对话场景进行了优化，重点提升复杂请求处理能力，尤其是在用户提供详细指令或要求联网查找信息时，能够更好地理解需求并完成任务。 在具体功能方面，新版模型提升了图像细节识别能力，能够更准确地识别照片中的文字、标签内容以及标志上的符号。在网络信息检索方面，模型也改进了选项比较能力，例如用户在线比较不同商品或服务",
+     "source": "IT之家",
+     "zh": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，而 GPT-5.6 Sol、Terra 将于 12 月 23 日退役"
+    },
+    {
+     "title": "美国俄勒冈州、弗吉尼亚州起诉 SpaceX，指控 Grok AI 生成儿童性虐待图像",
+     "link": "https://www.ithome.com/1/031/270.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:48:21 GMT",
+     "summary": "IT之家 11 月 24 日消息，美国弗吉尼亚州、俄勒冈州已起诉 SpaceXSI， 指控该公司旗下 AI 模型 Grok 并未阻止生成儿童性虐待图像 ，并从中获利。 IT之家注意到，美国多州总检察长已在过去几个月宣布调查 SpaceX，但弗吉尼亚和俄勒冈是首批正式提起诉讼的州。两州均在法院指控 SpaceX 宣传所谓安全功能时误导消费者，同时未能建立充分的安全防护措施。 同时，弗吉尼亚和俄勒冈还认为 SpaceX 仍在推广“Spicy”模式，让用户上传一张现有的人物照片，然后生成裸露图像或视频。 弗吉尼亚州和俄勒冈州指控 SpaceX 违反消费者保护法，并要求法院判令该公司赔偿损失、责令其停",
+     "source": "IT之家",
+     "zh": "美国俄勒冈州、弗吉尼亚州起诉 SpaceX，指控 Grok AI 生成儿童性虐待图像"
+    },
+    {
+     "title": "我国前 10 月全社会用电量同比增长 3.7%，全国互联网等数据服务业用电增速超 40%",
+     "link": "https://www.ithome.com/1/031/269.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:46:24 GMT",
+     "summary": "IT之家 11 月 24 日消息，国家能源局 11 月 23 日发布 1 至 10 月全社会用电量数据。 数据显示， 今年前 10 个月，全社会用电量同比增长 3.7% ，反映出我国经济保持平稳运行，新动能持续壮大。 其中，全国互联网等数据服务业用电量保持旺盛增长， 同比增速超过 40% ，数字经济正成为用电增长的新引擎。 最新数据显示，前 10 个月，全国互联网数据服务用电量达到 892 亿千瓦时，同比增长 40.8%， 多地算力中心用电量持续快速增长 。在国家“东数西算”工程核心承载地贵安新区，1 至 10 月数据中心用电量达 33.67 亿度，同比增长 41.37%，增速位居全国前列。如",
+     "source": "IT之家",
+     "zh": "我国前 10 月全社会用电量同比增长 3.7%，全国互联网等数据服务业用电增速超 40%"
+    },
+    {
      "title": "钛7和卫士，像到什么程度算侵权？",
      "link": "https://www.huxiu.com/article/4907883.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 08:42:58 +0800",
@@ -1776,6 +1824,30 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 不成熟研究 ，编辑：罗雨翔，作者：罗雨翔 欢迎在小宇宙、Apple Podcast收听播客。节目名称：《城市传说Urban Myths》（罗雨翔） 邮箱：urban.myths.podcast@outlook.com 欢迎来到《城市传说》系列，我是城市规划师罗雨翔。这是一档范社会和文化类的节目，但都会以城市生活为出发点。 在《现象七十二变》这首老歌中，罗大佑唱道： 慌慌张张迈开你的脚步， 你是个匆匆忙忙的现代人…… 随着都市现代化的程度， 每个人多少追求一点幸福。 在变化飞快的现代社会，历史建筑或许是守住时间的最后一道防线。 但古建筑和历史文化保护，一向容易被人想成一门离",
      "source": "虎嗅",
      "zh": "匆匆忙忙的现代人，为何要去古庙搬砖？"
+    },
+    {
+     "title": "《GTA 6》泄露案黑客被判 7 年监禁：曾入侵 Rockstar 并泄露 90 段视频，获准附条件离开监狱",
+     "link": "https://www.ithome.com/1/031/267.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:35:15 GMT",
+     "summary": "IT之家 11 月 24 日消息，据英国广播公司（BBC）报道，曾参与《侠盗猎车手 6》（GTA 6）早期泄露事件的黑客阿里昂 · 库尔塔伊（Arion Kurtaj）已被英国法院判处 7 年监禁。 不过，由于此前已经服刑一段时间，他获准在附带许可条件的情况下离开监狱（在此次判刑前，库尔塔伊曾因自闭症在医院接受治疗，也曾被关押在监狱）。 21 岁的库尔塔伊上周承认，自己参与了针对 Rockstar Games、Uber、Revolut 以及英国电信运营商 BT、EE 等公司的网络攻击。他是黑客组织 Lapsus$ 的成员，相关攻击发生在 2021 年 8 月至 2022 年 9 月期间。 20",
+     "source": "IT之家",
+     "zh": "《GTA 6》泄露案黑客被判 7 年监禁：曾入侵 Rockstar 并泄露 90 段视频，获准附条件离开监狱"
+    },
+    {
+     "title": "微软酝酿改版 Edge 浏览器首次启动引导体验：大页面变小窗口，可导入谷歌账户数据",
+     "link": "https://www.ithome.com/1/031/266.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:34:17 GMT",
+     "summary": "IT之家 11 月 24 日消息，科技媒体 NeoWin 昨日（11 月 23 日）发布博文， 分享了一组在 Windows 11 系统上测试的截图，展示了 Microsoft Edge 浏览器的新版首次启动引导体验。 IT之家援引博文介绍，现有 Edge 首次启动流程通常包含多个完整页面，依次介绍浏览器、提示同步数据，并引导用户设置主题、页面布局及固定网站。 现有 Microsoft Edge 首次启动引导体验 新版仍会呈现类似信息，但不再采用原先五个完整浏览器页面的展示方式，改为通过更紧凑、带有圆角的窗口完成引导，视觉上更接近 Windows 原生界面。 调整后的 Microsoft Ed",
+     "source": "IT之家",
+     "zh": "微软酝酿改版 Edge 浏览器首次启动引导体验：大页面变小窗口，可导入谷歌账户数据"
+    },
+    {
+     "title": "Mozilla、Shopify 等企业要求欧盟委员会施压苹果，彻底开放 iOS 系统第三方浏览器引擎",
+     "link": "https://www.ithome.com/1/031/265.htm",
+     "pubDate": "Tue, 24 Nov 2026 00:32:03 GMT",
+     "summary": "IT之家 11 月 24 日消息，据科技媒体 Appleinsider 昨天报道，Mozilla、Shopify 等多家企业和民间组织向欧盟委员会发出联名信，称苹果虽然已经略微放宽 iOS 系统浏览器内核限制，但其对 WebKit 的要求仍然让开发者几乎无法在 App Store 之外销售订阅服务。 IT之家从原报道获悉，这些企业和民间组织敦促欧盟委员会对 iPhone 浏览器竞争问题启动调查。他们认为， 苹果如今的限制仍阻碍浏览器厂商从 WebKit 转向其他内核 。 苹果此前要求所有第三方互联网浏览器在 iOS 系统使用 WebKit 内核。后来欧盟《数字市场法》要求苹果允许竞争对手使用第",
+     "source": "IT之家",
+     "zh": "Mozilla、Shopify 等企业要求欧盟委员会施压苹果，彻底开放 iOS 系统第三方浏览器引擎"
     },
     {
      "title": "全民过日子时代，年轻人扎堆云南上“体校”",
@@ -1794,22 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "Supertake, which uses AI agents to turn users&apos; market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
     },
     {
-     "title": "亚马逊收购 Decart 的 AI 优化技术，强化自研芯片竞争力",
-     "link": "https://www.ithome.com/1/031/262.htm",
-     "pubDate": "Tue, 24 Nov 2026 00:13:49 GMT",
-     "summary": "IT之家 11 月 24 日消息，亚马逊昨天宣布收购 Decart 公司的 AI 优化技术，并邀请 Decart 联合创始人、员工加入亚马逊。 彭博社援引知情人士称， 此次交易金额约为 75 亿美元 （IT之家注：现汇率约合 501.1 亿元人民币） 。但亚马逊并没有披露此次交易的金额或财务条款。 据了解，Decart 是一家成立于 2023 年的人工智能公司，主要产品为 Decart Optimization Stack（DOS）软件引擎，可帮助企业提升 AI 系统的运行速度，轻松在英伟达、谷歌和亚马逊等厂商的 AI 芯片间切换。 亚马逊方面表示，Decart 从 2025 年开始就和他们合",
-     "source": "IT之家",
-     "zh": "亚马逊收购 Decart 的 AI 优化技术，强化自研芯片竞争力"
-    },
-    {
-     "title": "公安部网安局公布 10 起 AI 造谣典型案例：张家界玻璃桥坍塌、诺如病毒再袭等在列，“净网-2026”半年查处 190 余人",
-     "link": "https://www.ithome.com/1/031/261.htm",
-     "pubDate": "Tue, 24 Nov 2026 00:12:12 GMT",
-     "summary": "IT之家 11 月 24 日消息，公安部网安局今日公布了 2026 年度使用 AI 工具编造传播网络谣言的 10 起典型案例。 这些案例均依托“净网 —2026”专项行动查办，涉案人员或因博取关注、吸粉引流，或因发泄情绪、直播带货，利用 AI 工具生成虚假视频、图片或文案，最终被采取刑事强制措施或行政处罚。IT之家附原文如下： 1、网民马某某为博取关注、吸粉引流，使用 AI 工具生成“张家界大峡谷玻璃桥突发坍塌”虚假视频，视频画面中玻璃桥断裂、人群四散奔逃，并配文称“没事就别出去玩了，还是家里安全”。相关视频发布后引发大量网民关注，造成公众恐慌，扰乱公共秩序。马某某已被属地公安机关依法采取刑事",
-     "source": "IT之家",
-     "zh": "公安部网安局公布 10 起 AI 造谣典型案例：张家界玻璃桥坍塌、诺如病毒再袭等在列，“净网-2026”半年查处 190 余人"
-    },
-    {
      "title": "龙头公司董事长承认长期欠薪，这个软件赛道不行了？",
      "link": "https://www.huxiu.com/article/4907875.html?f=rss",
      "pubDate": "Tue, 24 Nov 2026 08:11:57 +0800",
@@ -1826,52 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "被列入美国实体清单后，中国企业开始“疯狂读论文”"
     },
     {
-     "title": "最受惠民保欢迎的13款药都是肿瘤药，停售产品今年又重启，惠民保又重新算账了？",
-     "link": "https://www.huxiu.com/article/4907873.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 08:07:20 +0800",
-     "summary": "本文来自微信公众号： 健闻咨询 ，作者：健闻咨询，编辑：李琳 11月21日，按照每年惯例，复旦大学经济学院副院长、风险管理与保险学系主任许闲教授团队发布惠民保知识图谱系列第六份报告——《2026年城市定制型商业医疗保险（惠民保）知识图谱》（以下简称《报告》）。 这是《报告》发布的第六年，惠民保市场呈现出冷静的态势。 2025年，各地惠民保产品数量基本维持在200款左右，行业一度认为，因盲目扩张、运营不善而带来的产品出清已近尾声，市场基本盘趋于稳定。新的变化在2026年出现。 今年1月至8月，惠民保停售产品达到18款，新增产品仅6款。在售产品数量从去年的202款减至196款，再度回到200款以下",
-     "source": "虎嗅",
-     "zh": "最受惠民保欢迎的13款药都是肿瘤药，停售产品今年又重启，惠民保又重新算账了？"
-    },
-    {
      "title": "The Power of GraphQL, Without GraphQL",
      "link": "https://cobalt27.dev/",
      "pubDate": "Tue, 24 Nov 2026 00:03:59 +0000",
-     "summary": "Article URL: https://cobalt27.dev/ Comments URL: https://news.ycombinator.com/item?id=50621466 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://cobalt27.dev/ Comments URL: https://news.ycombinator.com/item?id=50621466 Points: 5 # Comments: 3",
      "source": "Hacker News",
      "zh": "The Power of GraphQL, Without GraphQL"
-    },
-    {
-     "title": "曝三星 Galaxy A38 手机主摄传感器尺寸缩小至 1/1.95 英寸，恐影响弱光成像",
-     "link": "https://www.ithome.com/1/031/259.htm",
-     "pubDate": "Tue, 24 Nov 2026 00:02:55 GMT",
-     "summary": "IT之家 11 月 24 日消息，科技媒体 SammyGuru 昨日（11 月 23 日）发布博文，报道称三星为了更好控制 Galaxy A38 5G 手机成本，其主摄可能“缩水”，调整为配备 5,000 万像素的索尼 IMX882 传感器， 尺寸为 1/1.95 英寸。 IT之家援引博文介绍，目前在主流国际市场上发售的 Galaxy A37 手机中，三星使用了 5,000 万像素的索尼 IMX906 主摄传感器，不过在继任机型 Galaxy A38 中主摄采用 IMX882 传感器，虽然像素依然为 5,000 万， 但是传感器尺寸从 1/1.56 英寸缩小为 &nbsp;1/1.95 英寸。",
-     "source": "IT之家",
-     "zh": "曝三星 Galaxy A38 手机主摄传感器尺寸缩小至 1/1.95 英寸，恐影响弱光成像"
-    },
-    {
-     "title": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应",
-     "link": "https://www.ithome.com/1/031/258.htm",
-     "pubDate": "Mon, 23 Nov 2026 23:52:36 GMT",
-     "summary": "IT之家 11 月 24 日消息，据《首尔经济日报》今日报道，三星电子计划将位于中国陕西西安的半导体工厂打造成面向人工智能（AI）数据中心企业级固态硬盘（eSSD）的核心生产基地，重点扩大第九代垂直 NAND 闪存（V9）产能。 截至今年第二季度，三星西安一厂（X1）和二厂（X2）的晶圆月投入能力均为 5 万片，合计达到 10 万片（IT之家注：单位为 300mm 晶圆）。这相当于三星平泽四座工厂月产能总和（20 万片）的一半。三星两地 NAND 工厂的晶圆月产能合计约为 30 万片，其中西安工厂占比约 33%。 消息人士称，三星计划升级 X2 洁净室内的电镀工艺设备，并将生产线调整为以最新第",
-     "source": "IT之家",
-     "zh": "三星拟扩大西安工厂先进 NAND 产能、升级 V9 闪存产线，扩大面向 AI 数据中心的 eSSD 供应"
-    },
-    {
-     "title": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码",
-     "link": "https://www.ithome.com/1/031/257.htm",
-     "pubDate": "Mon, 23 Nov 2026 23:49:00 GMT",
-     "summary": "IT之家 11 月 24 日消息，据科技媒体 TechCrunch 昨天报道，Anthropic 现已推出 Claude Ship Beta 测试版。这是一套 AI 智能体组成的工具， 可自动完成代码审查、修复和批准等工作 。 IT之家从原报道获悉，Claude Ship 包含 Code Review、PR Steward 和 Claude Approvals 三项功能。其中 Code Review 已正式开放使用，另外两项目前处于 Beta 测试阶段。 在这些工具中，PR Steward 主要负责处理 CI 检查失败、合并冲突，以及 Code Review 提出的反馈问题。每次代码推送完成后",
-     "source": "IT之家",
-     "zh": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码"
-    },
-    {
-     "title": "摩托罗拉首款宽折叠手机 Razr Flex 通过认证，15W 无线充电",
-     "link": "https://www.ithome.com/1/031/256.htm",
-     "pubDate": "Mon, 23 Nov 2026 23:44:26 GMT",
-     "summary": "IT之家 11 月 24 日消息，科技媒体 GSMArena 昨日（11 月 23 日）发布博文， 报道称摩托罗拉首款宽折叠手机 Razr Flex 已通过无线充电联盟（WPC）认证，型号为 XT2761。 根据认证信息显示，该机支持扩展功率配置文件（EPP）， 标准无线充电功率最高为 15W ；此前传闻中的 25W 无线快充，可能需要通过其他协议或厂商私有方案才能实现。IT之家附上相关截图如下： 不过“证件照”尚未正确对应手机外观，所附图片仍显示传统纵向翻盖式 Razr，应该只是认证资料中的占位图。发布时间方面，早前消息曾指向 12 月中旬亮相，但摩托罗拉官方支持网站的线索则暗示 Razr ",
-     "source": "IT之家",
-     "zh": "摩托罗拉首款宽折叠手机 Razr Flex 通过认证，15W 无线充电"
     },
     {
      "title": "Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)",
@@ -1893,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
      "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
      "pubDate": "Mon, 23 Nov 2026 23:11:38 +0000",
-     "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/ Comments URL: https://news.ycombinator.com/item?id=50620822 Points: 72 # Comments: 26",
+     "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/ Comments URL: https://news.ycombinator.com/item?id=50620822 Points: 106 # Comments: 71",
      "source": "Hacker News",
      "zh": "Huang's Return Is the Biggest National Security Scandal in U.S. History"
     },
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Freeing the iPod Nano 5G",
      "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
      "pubDate": "Mon, 23 Nov 2026 23:03:13 +0000",
-     "summary": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd Comments URL: https://news.ycombinator.com/item?id=50620721 Points: 20 # Comments: 2",
+     "summary": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd Comments URL: https://news.ycombinator.com/item?id=50620721 Points: 28 # Comments: 3",
      "source": "Hacker News",
      "zh": "Freeing the iPod Nano 5G"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
      "pubDate": "Mon, 23 Nov 2026 22:32:29 +0000",
-     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 144 # Comments: 84",
+     "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 170 # Comments: 92",
      "source": "Hacker News",
      "zh": "Stalwart is now a drop-in replacement for Microsoft Exchange"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
      "link": "https://arxiv.org/abs/2602.20031",
      "pubDate": "Mon, 23 Nov 2026 22:29:48 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2602.20031 Comments URL: https://news.ycombinator.com/item?id=50620328 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://arxiv.org/abs/2602.20031 Comments URL: https://news.ycombinator.com/item?id=50620328 Points: 16 # Comments: 0",
      "source": "Hacker News",
      "zh": "Latent Introspection: LLMs Can Detect Prior Concept Injections"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
      "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
      "pubDate": "Mon, 23 Nov 2026 22:22:56 +0000",
-     "summary": "Article URL: https://twitter.com/__alpoge__/status/2124987173439209561 Comments URL: https://news.ycombinator.com/item?id=50620250 Points: 64 # Comments: 58",
+     "summary": "Article URL: https://twitter.com/__alpoge__/status/2124987173439209561 Comments URL: https://news.ycombinator.com/item?id=50620250 Points: 77 # Comments: 69",
      "source": "Hacker News",
      "zh": "Levent Alpöge comments on his Riemann Hypothesis proof"
     },
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
      "source": "Ars Technica",
      "zh": "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
-    },
-    {
-     "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
-     "link": "https://www.techmeme.com/261123/p41#a261123p41",
-     "pubDate": "Mon, 23 Nov 2026 16:25:00 -0500",
-     "summary": "Radhika Rajkumar / ZDNET : Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers &nbsp; &mdash;&nbsp; Would you let a few Claude agents review and ship your code for you?&nbsp; &mdash;&nbsp; ZD",
-     "source": "Techmeme",
-     "zh": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)"
-    },
-    {
-     "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-     "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-     "pubDate": "Mon, 23 Nov 2026 20:34:51 +0000",
-     "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
-     "source": "Ars Technica",
-     "zh": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors",
+     "link": "https://9to5mac.com/2026/11/23/daily-november-23-2026/",
+     "pubDate": "Tue, 24 Nov 2026 01:04:38 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNo",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors"
+    },
+    {
+     "title": "Huawei Mate 90 Air specs leak, and they sound awfully familiar",
+     "link": "https://www.gsmarena.com/huawei_mate_90_air_specs_leak_and_they_sound_awfully_familiar-news-75600.php",
+     "pubDate": "Tue, 24 Nov 2026 02:01:02 +0100",
+     "summary": "Huawei is set to unveil the Mate 90 Air on November 24, and the company has so far only confirmed its colors and memory configurations. Now, Digital Chat Station on Weibo has shared the phone's full spec sheet. The Mate 90 Air will allegedly come with a 7-inch 1.5K quad-curved screen with a 120Hz re",
+     "source": "GSMArena",
+     "zh": "Huawei Mate 90 Air specs leak, and they sound awfully familiar"
+    },
     {
      "title": "Apple Pay just got even better with four new features and more",
      "link": "https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/",
@@ -2154,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos"
     },
     {
-     "title": "Apple announces Ted Lasso season 5 is coming",
-     "link": "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/",
-     "pubDate": "Mon, 23 Nov 2026 21:01:24 +0000",
-     "summary": "Apple TV ( now $6.99/month for limited time ) has just announced that Ted Lasso will return for season 5. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple announces Ted Lasso season 5 is coming"
-    },
-    {
      "title": "Your older, discontinued AirTags can still serve a purpose",
      "link": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
      "pubDate": "Mon, 23 Nov 2026 21:00:00 +0000",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Aftershoot's pitch is a single subscription replacing several separate tools. The Black Friday discount makes the flat-rate model even easier to justify for professional photographers.",
      "source": "DPReview",
      "zh": "One app for culling, editing, retouching and client galleries  —  now 20% off for Black Friday"
-    },
-    {
-     "title": "RedMagic is the official gaming phone sponsor of the 2026 PUBG Mobile Global Championship",
-     "link": "https://www.gsmarena.com/redmagic_is_the_official_gaming_phone_sponsor_of_the_2026_pubg_mobile_global_championship-news-75597.php",
-     "pubDate": "Mon, 23 Nov 2026 18:08:02 +0100",
-     "summary": "RedMagic has been sponsoring esports in China for a while now, and it's finally taking that to the global stage. Today, the company announced that it's the Official Gaming Phone Sponsor of the 2026 PUBG Mobile Global Championship (PMGC), which is organized by Krafton and Level Infinite. This year's ",
-     "source": "GSMArena",
-     "zh": "RedMagic is the official gaming phone sponsor of the 2026 PUBG Mobile Global Championship"
     }
    ]
   },
@@ -2258,60 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "韩国综指涨幅扩大至7%",
+     "link": "http://finance.eastmoney.com/news/11440,202611243938113386.html",
+     "pubDate": "Tue, 24 Nov 2026 09:03:29 +0800",
+     "summary": "韩国综指涨幅扩大至7%，现报5037.91点。个股方面， SK海力士 涨超10%，三星 电子 涨超7%。",
+     "source": "东方财富股票",
+     "zh": "韩国综指涨幅扩大至7%"
+    },
+    {
+     "title": "神舟二十四号瞄准北京时间明日08时18分发射",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938110382.html",
+     "pubDate": "Tue, 24 Nov 2026 09:03:10 +0800",
+     "summary": "今天（11月24日）上午，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，经研究决定， 瞄准北京时间11月25日08时18分发射神舟二十四号载人飞船。 “天宫”将迎来首位外籍航天员 神二十四乘组名单公布 今天（11月24日）上午，神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，飞行乘组由 汤洪波 、 武毅 和 巴基斯坦航天员穆罕默德·齐尚·阿里 组成，汤洪波担任指令长。 3名航天员分别为航天驾驶员、航天飞行工程师和载荷专家。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务，即将成为首位三次到访“天宫”的航天员。航天员武毅来自我国第三批航天员，",
+     "source": "东方财富股票",
+     "zh": "神舟二十四号瞄准北京时间明日08时18分发射"
+    },
+    {
+     "title": "泰胜风能：融资净偿还2231.32万元，融资余额4.42亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611243938106143.html",
+     "pubDate": "Tue, 24 Nov 2026 09:03:00 +0800",
+     "summary": "交易所最新数据显示， 泰胜风能 于2026年11月23日获融资买入561.27万元，融资偿还2792.59万元， 当日融资净偿还2231.32万元。 目前，该股融资余额4.42亿，占流通市值比例为10.94%。 该股当日融券卖出100股，融券偿还0股， 融券净卖出100股。 目前，该股融券余量5.76万股，融券余额32.37万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "泰胜风能：融资净偿还2231.32万元，融资余额4.42亿元"
+    },
+    {
+     "title": "富满微：融资净偿还319.37万元，融资余额4.33亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611243938106046.html",
+     "pubDate": "Tue, 24 Nov 2026 09:02:58 +0800",
+     "summary": "交易所最新数据显示， 富满微 于2026年11月23日获融资买入2449.28万元，融资偿还2768.64万元， 当日融资净偿还319.37万元。 目前，该股融资余额4.33亿，占流通市值比例为5.88%。 该股当日融券卖出4200股，融券偿还100股， 融券净卖出4100股。 目前，该股融券余量2.21万股，融券余额72.86万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
+     "source": "东方财富股票",
+     "zh": "富满微：融资净偿还319.37万元，融资余额4.33亿元"
+    },
+    {
+     "title": "大连电瓷：融资净买入169.4万元，融资余额2.31亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611243938105945.html",
+     "pubDate": "Tue, 24 Nov 2026 09:02:58 +0800",
+     "summary": "交易所最新数据显示， 大连电瓷 于2026年11月23日获融资买入1069.42万元，融资偿还900.02万元， 当日融资净买入169.4万元。 目前，该股融资余额2.31亿，占流通市值比例为4.84%。 该股当日融券卖出100股，融券偿还0股， 融券净卖出100股。 目前，该股融券余量3.43万股，融券余额38.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "大连电瓷：融资净买入169.4万元，融资余额2.31亿元"
+    },
+    {
+     "title": "金卡智能：融资净偿还412.13万元，融资余额3.1亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611243938105898.html",
+     "pubDate": "Tue, 24 Nov 2026 09:02:57 +0800",
+     "summary": "交易所最新数据显示， 金卡智能 于2026年11月23日获融资买入397.22万元，融资偿还809.35万元， 当日融资净偿还412.13万元。 目前，该股融资余额3.10亿，占流通市值比例为10.51%。 该股当日融券卖出0股，融券偿还800股， 融券净偿还800股。 目前，该股融券余量2.99万股，融券余额23.86万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
+     "source": "东方财富股票",
+     "zh": "金卡智能：融资净偿还412.13万元，融资余额3.1亿元"
+    },
+    {
+     "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+     "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+     "pubDate": "Tue, 24 Nov 2026 00:56:10 GMT",
+     "summary": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+     "source": "CNBC",
+     "zh": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage"
+    },
+    {
      "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang&apos;s return",
      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-     "pubDate": "Tue, 24 Nov 2026 00:45:55 GMT",
+     "pubDate": "Tue, 24 Nov 2026 00:53:29 GMT",
      "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
      "source": "CNBC",
      "zh": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang&apos;s return"
     },
     {
-     "title": "川恒股份：截至11月20日最新股东户数2.42万户，较上期减少2.54%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938019960.html",
-     "pubDate": "Tue, 24 Nov 2026 08:40:37 +0800",
-     "summary": "川恒股份 最新披露数据显示，截至11月20日公司股东户数为2.42万户，较上期(2026年11月10日) 减少630户，降幅为2.54% 。户均持有流通股数量 由上期的2.41万股上升至2.47万股， 户均持股金额 由上期的70.55万元增加至74.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "川恒股份：截至11月20日最新股东户数2.42万户，较上期减少2.54%"
+     "title": "《纽约时报》被群嘲！亲手推倒黄仁勋，又见证他回归：震惊！为何特朗普如此重视他？",
+     "link": "https://wallstreetcn.com/articles/3786559",
+     "pubDate": "Tue, 24 Nov 2026 08:52:12 +0800",
+     "summary": "11月23日，就在《纽约时报》还在头版跟进黄仁勋相关丑闻的同一天，另一条消息盖过了它——英伟达宣布，黄仁勋正式复职。同一天，头版换了两次。 该报资深记者Katrin Bennhold在当天的评论专栏里写道：\"昨天早上，我们首页的头条还在披露那名与黄仁勋有染的女性与相关机构之间的联系细节。到了下午，那条标题不见了。取而代之的，是一条新标题：'英伟达恢复黄仁勋CEO职务'。\" \"黄仁勋回来了，特朗普在庆祝，市场在上涨——而我们对这场让他丢掉工作的丑闻，仍未完全摸清底细。\" \"如果你感到震惊、错愕、困惑，你不是一个人。\"她在文章中写道。 而这一幕的反差，让《纽约时报》自己也成了这个故事的一部分。一天",
+     "source": "华尔街见闻",
+     "zh": "《纽约时报》被群嘲！亲手推倒黄仁勋，又见证他回归：震惊！为何特朗普如此重视他？"
     },
     {
-     "title": "雅克科技：截至11月10日最新股东户数12.33万户，较上期增加4.93%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938019757.html",
-     "pubDate": "Tue, 24 Nov 2026 08:39:44 +0800",
-     "summary": "雅克科技 最新披露数据显示，截至11月10日公司股东户数为12.33万户，较上期(2026年10月30日) 增加5794户，增幅为4.93% 。户均持有流通股数量 由上期的2710股下降至2583股， 户均持股金额 由上期的20.99万元增加至22.21万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
-     "source": "东方财富股票",
-     "zh": "雅克科技：截至11月10日最新股东户数12.33万户，较上期增加4.93%"
+     "title": "Semtech expects $480M Q4 net sales and $1.33 EPS as data center growth framework extends into fiscal 2028",
+     "link": "https://seekingalpha.com/news/4675953-semtech-expects-480m-q4-net-sales-and-1_33-eps-as-data-center-growth-framework-extends-into?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 23 Nov 2026 19:52:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Semtech expects $480M Q4 net sales and $1.33 EPS as data center growth framework extends into fiscal 2028"
     },
     {
-     "title": "创维数字：截至11月20日最新股东户数6.26万户，较上期增加4.21%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938019544.html",
-     "pubDate": "Tue, 24 Nov 2026 08:39:36 +0800",
-     "summary": "创维数字 最新披露数据显示，截至11月20日公司股东户数为6.26万户，较上期(2026年11月10日) 增加2529户，增幅为4.21% 。户均持有流通股数量 由上期的1.86万股下降至1.79万股， 户均持股金额 由上期的22.60万元减少至16.34万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
-     "source": "东方财富股票",
-     "zh": "创维数字：截至11月20日最新股东户数6.26万户，较上期增加4.21%"
+     "title": "一夜回血近万亿！老黄回归引爆英伟达股价 超跌绩优概念股都有谁？",
+     "link": "http://finance.eastmoney.com/news/11822,202611243938025410.html",
+     "pubDate": "Tue, 24 Nov 2026 08:49:53 +0800",
+     "summary": "黄仁勋 辞职 11天后闪电回归， 英伟达 暴涨超31% ，创23年来最大单日涨幅。A股 英伟达 概念本月深度回调，最新超跌绩优股名单出炉。 英伟达 迎史诗级暴涨 美东时间11月23日，英伟达宣布，公司董事会一致投票决定恢复联合创始人黄仁勋的总裁、首席执行官及董事职务，即时生效。根据英伟达提交的文件，董事会于11月22日作出这一决定，距其11月12日 辞任 仅过去11天。 英伟达表示，董事会在决策过程中听取了美国政府高层意见，认为黄仁勋复职不构成国家安全风险；针对相关事项的独立调查将继续推进，公司并将新设首席合规官职位。 对于黄仁勋的重返，市场以暴涨回应。英伟达股价开盘后涨逾30%，盘中涨幅一度",
+     "source": "东方财富资讯",
+     "zh": "一夜回血近万亿！老黄回归引爆英伟达股价 超跌绩优概念股都有谁？"
     },
     {
-     "title": "中信建投：重视物理AI板块性行情",
-     "link": "http://finance.eastmoney.com/news/1355,202611243938019650.html",
-     "pubDate": "Tue, 24 Nov 2026 08:38:58 +0800",
-     "summary": "中信建投 研报指出，马斯克预计1-2个月内演示Optimus非预编程任务能力，把握 物理AI 板块行情。GPT-6惊艳效果有望加速产业核心具身大脑发展，Apple、OpenAI、Meta入局，Tesla推进量产，进一步明确产业趋势。OpenAI对独立 机器人 团队进行架构重构， 中信建投 判断主要系通用模型在 机器人 控制上展现出较强潜力，中长期看AI大模型提升 机器人 智能化水平的趋势明确。马斯克公开表述强化1-2个月内演示Optimus非预编程任务的预期，V3产业化稳步推进。 机器人 公司积极推动“大脑”、“小脑”、“本体”等多维度能力建设，随着 机器人 泛化水平提高，预计其落地场景将进一",
-     "source": "东方财富股票",
-     "zh": "中信建投：重视物理AI板块性行情"
-    },
-    {
-     "title": "秋田微：截至11月20日最新股东户数1.29万户，较上期增加6.30%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938019165.html",
-     "pubDate": "Tue, 24 Nov 2026 08:38:40 +0800",
-     "summary": "秋田微 最新披露数据显示，截至11月20日公司股东户数为1.29万户，较上期(2026年11月10日) 增加767户，增幅为6.30% 。户均持有流通股数量 由上期的9864股下降至9279股， 户均持股金额 由上期的61.75万元减少至43.92万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "秋田微：截至11月20日最新股东户数1.29万户，较上期增加6.30%"
-    },
-    {
-     "title": "中欣氟材：截至11月20日最新股东户数5.20万户，较上期减少6.47%",
-     "link": "http://stock.eastmoney.com/news/11111,202611243938018988.html",
-     "pubDate": "Tue, 24 Nov 2026 08:37:47 +0800",
-     "summary": "中欣氟材 最新披露数据显示，截至11月20日公司股东户数为5.20万户，较上期(2026年11月10日) 减少3597户，降幅为6.47% 。户均持有流通股数量 由上期的5410股上升至5785股， 户均持股金额 由上期的8.66万元减少至7.06万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
-     "source": "东方财富股票",
-     "zh": "中欣氟材：截至11月20日最新股东户数5.20万户，较上期减少6.47%"
+     "title": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？",
+     "link": "http://finance.eastmoney.com/news/1354,202611243938068274.html",
+     "pubDate": "Tue, 24 Nov 2026 08:46:01 +0800",
+     "summary": "周一，美股主要股指大幅飙升。 英伟达 宣布恢复黄仁勋CEO职务给投资者带来希望：上周那种无情的抛售压力或许会消退——至少暂时如此。 不过，对于这波反弹能持续多久，策略师们意见不一。 一些人认为股市回调已结束，而另一些人则担心，在黄仁勋离任之前，一些挥之不去的问题就已导致股市下跌 。 纳指、标普500指数和费城 半导体 指数均录得2025年4月以来最大单日涨幅。截至收盘，标普500指数涨4.73%，报7237.17点； 纳斯达克 综合 指数涨6.51%，报24089.56点；道琼斯工业平均指数涨3.01%，报49595.31点。 这场“恐慌缓解式反弹”出现之前，道琼斯工业平均指数、标普500指数",
+     "source": "东方财富资讯",
+     "zh": "美股暴力反弹！华尔街热议“黄仁勋回归” ：短期底部已确立？"
     },
     {
      "title": "Central Garden & Pet expects FY 2027 non-GAAP EPS of $2.65 or better while forecasting Q1 loss of $0.10-$0.15",
@@ -2362,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "订单猛增超120%！造船需求大爆发（附股）"
     },
     {
-     "title": "华尔街因黄仁勋回归“炸开了锅”：上调评级和目标价 同时警告风险犹在！",
-     "link": "http://finance.eastmoney.com/news/1354,202611243938002395.html",
-     "pubDate": "Tue, 24 Nov 2026 08:04:43 +0800",
-     "summary": "周一， 英伟达 董事会一致同意黄仁勋回归并担任总裁、首席执行官及董事， 英伟达 股价收涨31.48%，录得2003年5月以来最大单日涨幅，也是其上市以来第三大单日涨幅。 伯恩斯坦分析师Stacy Rasgon迅速上调了 英伟达 的评级 ，尽管华尔街不少分析师认为正在进行的调查仍将对该公司构成挥之不去的阴影。 Rasgon及其团队，在11天前将该股评级下调至与市场表现相当的“中性”评级，但在董事会宣布黄仁勋回归后，他们立即将该股评级重新调整为“跑赢大盘”。 “由于我们仍然看好 人工智能 建设的基本面，并且詹森（黄仁勋）重新掌权，我们今天将评级上调至‘跑赢大盘’（因为他的离职是评级下调的主要原因）",
-     "source": "东方财富资讯",
-     "zh": "华尔街因黄仁勋回归“炸开了锅”：上调评级和目标价 同时警告风险犹在！"
-    },
-    {
-     "title": "韩国KOSPI指数盘初涨幅迅速扩大至6% SK海力士涨9.8%",
-     "link": "http://finance.eastmoney.com/news/1345,202611243937969567.html",
-     "pubDate": "Tue, 24 Nov 2026 08:02:58 +0800",
-     "summary": "韩国KOSPI指数盘初涨幅迅速扩大至6%，三星 电子 涨8.2%， SK海力士 涨9.8%。",
-     "source": "东方财富资讯",
-     "zh": "韩国KOSPI指数盘初涨幅迅速扩大至6% SK海力士涨9.8%"
-    },
-    {
      "title": "CrowdStrike expects $1B revenue synergies and $500M cost synergies from proposed Zscaler deal, while guiding FY 2027 net new ARR to $1.459B-$1.463B",
      "link": "https://seekingalpha.com/news/4675951-crowdstrike-expects-1b-revenue-synergies-and-500m-cost-synergies-from-proposed-zscaler-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 19:02:57 -0500",
@@ -2394,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Lloyds publishes guide on scaling AI responsibly"
     },
     {
-     "title": "ETF追踪丨11月23日股票型ETF净申购130亿元 资金加仓中证1000ETF南方",
-     "link": "http://stock.eastmoney.com/news/11868,202611243937968996.html",
-     "pubDate": "Tue, 24 Nov 2026 08:00:11 +0800",
-     "summary": "东方财富 Choice数据显示，11月23日，ETF资金整体净流入74.14亿元，其中，股票型净流入129.63亿元。 股票型ETF中，当日净申购前3依次为：中证1000ETF南方，净申购34.62亿元； 中证500 ETF南方，净申购22.98亿元；科创50ETF华夏，净申购19.72亿元。 股票型ETF当日净赎回前3为：上证指数ETF富国，净赎回5.37亿元；价值精选主动ETF华泰柏瑞，净赎回4.85亿元；均衡主动ETF南方，净赎回4.04亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富",
-     "source": "东方财富资讯",
-     "zh": "ETF追踪丨11月23日股票型ETF净申购130亿元 资金加仓中证1000ETF南方"
-    },
-    {
-     "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-     "pubDate": "Mon, 23 Nov 2026 23:24:02 GMT",
-     "summary": "Nvidia break record for single stock options volume",
+     "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+     "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+     "pubDate": "Mon, 23 Nov 2026 23:42:27 GMT",
+     "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
      "source": "CNBC",
-     "zh": "Nvidia sets options-trading record after CEO comeback. Here are the big trades"
-    },
-    {
-     "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-     "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-     "pubDate": "Mon, 23 Nov 2026 23:18:00 GMT",
-     "summary": "SharkNinja will join the S&P 500, replacing AES.",
-     "source": "MarketWatch",
-     "zh": "The newest addition to the S&P 500 is a maker of viral ice-cream machines"
+     "zh": "AI adoption grows in Asia, but measuring the gains remains tricky"
     },
     {
      "title": "黄仁勋重掌英伟达帅印！股价暴涨31%，市值单日增长近万亿",
@@ -2466,22 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Flexible Solutions International GAAP EPS of -$0.02 beats by $0.02, revenue of $14.28M misses by $1.53M"
     },
     {
-     "title": "Here are the major earnings before the open Tuesday",
-     "link": "https://seekingalpha.com/news/4675535-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 23 Nov 2026 18:00:31 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周二开盘前的主要财报"
-    },
-    {
-     "title": "美联储监管副主席鲍曼遭罕见调查，被指违反“静默期”规定，鲍曼否认",
-     "link": "https://wallstreetcn.com/articles/3786556",
-     "pubDate": "Tue, 24 Nov 2026 06:58:37 +0800",
-     "summary": "美联储内部监察机构正就理事Michelle Bowman（米歇尔·鲍曼）今年6月出席一场美国银行私人晚宴一事展开调查，核心问题是她是否违反了央行的\"静默期\"通讯限制规定。这是对一位在任美联储理事的罕见审查行动。 据彭博援引一位知情人士透露， 该晚宴于6月17日在纽约举行，时间恰在美联储政策会议结束数小时后，彼时官员们仍处于禁止就经济或货币政策向公众发表评论的静默期内。 美联储监察长办公室近期已寻求约谈Bowman。对此，Bowman否认存在任何违规行为，并在声明中表示，她始终遵守所有适用规定，并坚定承诺将继续如此。 此次调查结果可能对Bowman产生直接影响。前美联储官员和法律专家认为，若调查",
-     "source": "华尔街见闻",
-     "zh": "美联储监管副主席鲍曼遭罕见调查，被指违反“静默期”规定，鲍曼否认"
-    },
-    {
      "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
      "pubDate": "Mon, 23 Nov 2026 22:55:14 GMT",
@@ -2496,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
      "source": "Financial Times",
      "zh": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang"
+    },
+    {
+     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+     "pubDate": "Mon, 23 Nov 2026 22:43:38 GMT",
+     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+     "source": "CNBC",
+     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
     }
    ]
   },
@@ -2506,12 +2506,12 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
-     "title": "BepiColombo spacecraft becomes 2nd-ever mission to orbit Mercury — and it will soon split in two",
+     "title": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?",
      "link": "https://www.livescience.com/space/bepicolombo-spacecraft-becomes-2nd-ever-mission-to-orbit-mercury-ending-8-year-interplanetary-journey",
      "pubDate": "Mon, 23 Nov 2026 22:48:15 +0000",
      "summary": "The BepiColombo spacecraft has overcome a last-minute computer glitch to enter orbit around Mercury — the 2nd craft in history to orbit the closest planet to the sun.",
      "source": "Live Science",
-     "zh": "BepiColombo spacecraft becomes 2nd-ever mission to orbit Mercury — and it will soon split in two"
+     "zh": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?"
     },
     {
      "title": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?",

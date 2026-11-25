@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/26 06:29:06",
+ "generated_at": "2026/11/26 06:39:37",
  "recent_days": 7,
  "industries": [
   {
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "New Trump Tariffs — Nice",
+     "link": "https://cleantechnica.com/2026/11/25/new-trump-tariffs-nice/",
+     "pubDate": "Wed, 25 Nov 2026 22:27:02 +0000",
+     "summary": "Following an election in which voters responded in historic fashion to rising prices — due mostly to Trump’s tariffs and Trump’s war on Iran — President Donald Trump has decided to jack up prices even further by launching a series of new tariffs. The new tariffs span 14 countries or ... [continued] ",
+     "source": "CleanTechnica",
+     "zh": "New Trump Tariffs — Nice"
+    },
+    {
      "title": "Small Modular Reactors Finally Have Real Momentum in the U.S.",
      "link": "https://oilprice.com/Energy/Energy-General/Small-Modular-Reactors-Finally-Have-Real-Momentum-in-the-US.html",
      "pubDate": "Wed, 25 Nov 2026 16:00:00 -0600",
@@ -1087,14 +1095,6 @@
      "summary": "Spanish independent power producer Grenergy has signed a 15-year solar PV power purchase agreement in Peru with an investment-grade utility.",
      "source": "PV Tech",
      "zh": "Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform"
-    },
-    {
-     "title": "ADB part-finances Kyrgyzstan’s first utility-scale floating PV project",
-     "link": "https://www.pv-tech.org/asian-development-bank-finance-first-utility-floating-pv-kyrgyzstan/",
-     "pubDate": "Wed, 25 Nov 2026 10:44:59 +0000",
-     "summary": "The Asian Development Bank has approved US$20 million of financing for Kyrgyzstan’s first utility-scale floating PV power plant.",
-     "source": "PV Tech",
-     "zh": "ADB part-finances Kyrgyzstan’s first utility-scale floating PV project"
     }
    ]
   },
@@ -1777,36 +1777,12 @@
      "zh": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)"
     },
     {
-     "title": "Much shorter version of GRH Lean verification from Anthropic",
-     "link": "https://github.com/lsernau/grh-lean",
-     "pubDate": "Wed, 25 Nov 2026 21:48:10 +0000",
-     "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 35 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Much shorter version of GRH Lean verification from Anthropic"
-    },
-    {
-     "title": "Defang Security Incident",
-     "link": "https://defang.io/blog/post/security-incident-november-2026/",
-     "pubDate": "Wed, 25 Nov 2026 21:47:16 +0000",
-     "summary": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 20 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Defang Security Incident"
-    },
-    {
      "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
      "link": "https://www.techmeme.com/261125/p37#a261125p37",
      "pubDate": "Wed, 25 Nov 2026 16:30:02 -0500",
      "summary": "NBC News : NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September &nbsp; &mdash;&nbsp; Gov. Kathy Hochul signed a bill today preventing the manufacture, exchange, distribution and sale of toys p",
      "source": "Techmeme",
      "zh": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)"
-    },
-    {
-     "title": "The New York Times tells photographers not to use the latest Photoshop",
-     "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
-     "pubDate": "Wed, 25 Nov 2026 21:18:02 +0000",
-     "summary": "Article URL: https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/ Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 20 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "The New York Times tells photographers not to use the latest Photoshop"
     },
     {
      "title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
@@ -1855,30 +1831,6 @@
      "summary": "Ivan Mehta / TechCrunch : WhatsApp starts letting users schedule messages from 10 minutes to 14 days in advance, in group and individual chats; messages are sent even if the phone is off &nbsp; &mdash;&nbsp; WhatsApp on Wednesday started rolling out a much-sought-after feature: the ability to schedu",
      "source": "Techmeme",
      "zh": "WhatsApp starts letting users schedule messages from 10 minutes to 14 days in advance, in group and individual chats; messages are sent even if the phone is off (Ivan Mehta/TechCrunch)"
-    },
-    {
-     "title": "Slow Ubuntu security response times",
-     "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-     "pubDate": "Wed, 25 Nov 2026 20:38:00 +0000",
-     "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/11/25/9 Comments URL: https://news.ycombinator.com/item?id=50647181 Points: 28 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Slow Ubuntu security response times"
-    },
-    {
-     "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-     "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-     "pubDate": "Wed, 25 Nov 2026 20:35:50 +0000",
-     "summary": "Article URL: https://opensec.in/blog/nfs2root-cve-2026-99362 Comments URL: https://news.ycombinator.com/item?id=50647161 Points: 30 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server"
-    },
-    {
-     "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-     "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-     "pubDate": "Wed, 25 Nov 2026 20:35:39 +0000",
-     "summary": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/ Comments URL: https://news.ycombinator.com/item?id=50647158 Points: 14 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows"
     },
     {
      "title": "Sources: a16z is in talks to raise ~$20B across its next set of funds; its last set, announced in January at $15B+, later grew to $20B+ with three add-ons (Lucinda Shen/Axios)",
@@ -1999,6 +1951,54 @@
      "summary": "IT之家 11 月 26 日消息，由《碧蓝航线》开发商蛮啾网络打造的幻想大世界 RPG《蓝色星原：旅谣》将于 11 月 26 日 10:00 正式开启公测，登陆 PC、iOS、安卓、鸿蒙与 PS5 平台。 该作由上海蛮啾网络科技有限公司研发并运营，采用 Unity 引擎开发，背景音乐有川井宪次、西木康智等作曲家参与。海外发行方面，日服由蛮啾网络与悠星联合发行，韩服由 NEXON 代理，东南亚地区由 PlayPark 负责。 故事舞台为幻想大陆普罗米利亚。玩家扮演“星临者”重返这片土地，在灾变后秩序失衡的世界中游历，追寻散落于天地间的星光传说。 与常见的开放世界产品不同，本作不设强制线性流程，探",
      "source": "IT之家",
      "zh": "蛮啾《蓝色星原：旅谣》今日公测：两百余种奇波可捕捉骑乘，登陆 PC、iOS、安卓、鸿蒙与 PS5"
+    },
+    {
+     "title": "Art of play in the age of AI",
+     "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+     "pubDate": "Wed, 25 Nov 2026 16:00:00 +0000",
+     "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+     "source": "GitHub Blog",
+     "zh": "Art of play in the age of AI"
+    },
+    {
+     "title": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案",
+     "link": "https://www.ithome.com/1/032/533.htm",
+     "pubDate": "Wed, 25 Nov 2026 15:59:21 GMT",
+     "summary": "IT之家 11 月 25 日消息，奕境汽车品牌总经理曾清林刚刚发文，分享了 70% 和 90% 两组数据： 70% 来自工信部。2026 年以来， 搭载辅助驾驶功能的乘用车新车，市场渗透率已经达到 70% 。这再次印证，新能源上半场是电动化，现在来到了下半场的智能化。随着充电网络的普及和续航的提升，充电和续航对很多朋友来说已经不再是主要焦虑， 真正的考题在智驾 。 90% 这个数据来自华为智能辅助驾驶后台： 买了华为智驾车型的车主，90% 以上每天都在用 。这个数据在我身上也可以得到验证。我目前开奕境 X9，每天 90% 的路程都是智驾开的。 曾清林表示，有的智能辅助驾驶，让用户雨天不敢用、晚",
+     "source": "IT之家",
+     "zh": "奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案"
+    },
+    {
+     "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+     "link": "https://www.solidot.org/story?sid=85993",
+     "pubDate": "Wed, 25 Nov 2026 23:54:33 +0800",
+     "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内容将于 11 月 26 日上线《EA Sports FC 27》。EA 向 Motson 的家人支付了费用以获得使用其形象及重现其声音的权利，但未透露具体财务条款。",
+     "source": "Solidot",
+     "zh": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音"
+    },
+    {
+     "title": "北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本",
+     "link": "https://www.ithome.com/1/032/531.htm",
+     "pubDate": "Wed, 25 Nov 2026 15:53:13 GMT",
+     "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，北汽 T700 完成申报。 本次申报的车型由北京汽车集团越野车有限公司生产，隶属于北京牌，定位为插电式增程混合动力运动型乘用车，车尾分别标注“T700”与“北汽集团”字样。根据外观及动力差异，公示中包含两种版本，整体造型延续方正硬派的方盒子设计语言，配备贯穿式尾灯与银色下护板装饰。 IT之家注意到，两种版本的三围尺寸均为长 4973mm、宽 2019mm，轴距同为 3050mm ，额定载客 5 人。基础版本高度为 1930mm，整备质量 2410kg，最高车速 180km/h；高配版本高度略",
+     "source": "IT之家",
+     "zh": "北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本"
+    },
+    {
+     "title": "“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐",
+     "link": "https://www.ithome.com/1/032/530.htm",
+     "pubDate": "Wed, 25 Nov 2026 15:42:27 GMT",
+     "summary": "IT之家 11 月 25 日消息，据公众号“大厂产品”分享，微信也有了自己的音乐产品。打开微信发现页中的听一听， 进入「我的-个人歌单」会看到个人歌单下显示有微信音乐 。 虽然是微信音乐，但歌曲还是来源于 QQ 音乐 。 除了微信音乐外，用户还可绑定 QQ 音乐、酷狗音乐。QQ 音乐是使用微信账号，绑定 QQ 音乐账号后，同步 QQ 音乐收藏、最近播放歌曲。酷狗音乐也和 QQ 音乐类似，是和微信账号绑定和同步的操作。 从目前的分享来看，微信音乐内置在听一听中，是听一听的一部分，其曲库来源于 QQ 音乐， 不过有微信音乐自己的推荐、评论、分享、共享等玩法 。 大家在 IT之家微信号 回复“ 微信",
+     "source": "IT之家",
+     "zh": "“独立”微信音乐悄悄上线：内置在听一听中，曲库来源于 QQ 音乐"
+    },
+    {
+     "title": "零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV",
+     "link": "https://www.ithome.com/1/032/529.htm",
+     "pubDate": "Wed, 25 Nov 2026 15:35:07 GMT",
+     "summary": "IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示， 零跑 C19 增程版与纯电版完成申报 。 本次申报的零跑 C19 车身尺寸为长 5128mm、宽 1972mm、高 1770mm（选装配置时为 1765mm），轴距 3000mm， 定位中大型 SUV 。车尾右侧标注有「C19」字样，左侧为「零跑」中文标识，中部为「LEAPMOTOR」英文标识，采用贯穿式尾灯设计。 ▲ 零跑 C19 增程版 IT之家注意到，零跑 C19 增程版搭载重庆小康动力型号为 L15T 的 1.5T 四缸增程器，排量 1496ml，发动机额定功率 97kW，最大净功",
+     "source": "IT之家",
+     "zh": "零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "WhatsApp starts rolling out stickers with sound, here's how they work",
+     "link": "https://www.gsmarena.com/whatsapp_starts_rolling_out_stickers_with_sound_heres_how_they_work-news-75640.php",
+     "pubDate": "Wed, 25 Nov 2026 23:31:01 +0100",
+     "summary": "Sound stickers first appeared in a WhatsApp Android beta back in October, though they were still under development at the time. Today they've started rolling out in version 2.26.47.1, at least to some beta testers on the Google Play Store. You can make your own from the sticker keyboard. Tap Create ",
+     "source": "GSMArena",
+     "zh": "WhatsApp starts rolling out stickers with sound, here's how they work"
+    },
     {
      "title": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal",
      "link": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal/",
@@ -2239,14 +2247,6 @@
      "summary": "Earlier this year, Honor unveiled the Choice T10, a basic Android 16 Go edition device. Now, the company has created a follow-up called the Honor Choice T20. While it features a few hardware upgrades, it is still a 4G-only Android 16 Go Edition phone. The Honor Choice T20 The T20 uses the Unisoc T72",
      "source": "GSMArena",
      "zh": "Honor Choice T20 launches with bigger 7,000mAh battery, still runs Android Go edition"
-    },
-    {
-     "title": "WhatsApp is finally offering scheduled messages",
-     "link": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
-     "pubDate": "Wed, 25 Nov 2026 16:54:10 +0000",
-     "summary": "You'll be able to schedule a text, photo or video message up to 14 days in advance.",
-     "source": "Engadget",
-     "zh": "WhatsApp is finally offering scheduled messages"
     }
    ]
   },
@@ -2256,6 +2256,54 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Nanalysis Scientific reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676725-nanalysis-scientific-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 17:32:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nanalysis Scientific reports Q3 results"
+    },
+    {
+     "title": "Grupo Galicia outlines 5%-10% loan and deposit growth next year while targeting 15% ROE in 2028",
+     "link": "https://seekingalpha.com/news/4676724-grupo-galicia-outlines-5-percentminus-10-percent-loan-and-deposit-growth-next-year-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 17:32:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Grupo Galicia outlines 5%-10% loan and deposit growth next year while targeting 15% ROE in 2028"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 22:31:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "Cathay General Bancorp increases share repurchase limit by $50M",
+     "link": "https://seekingalpha.com/news/4676722-cathay-general-bancorp-increases-share-repurchase-limit-by-50m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 17:29:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cathay General Bancorp increases share repurchase limit by $50M"
+    },
+    {
+     "title": "Macy&apos;s postpones Thanksgiving Day Parade due to severe weather",
+     "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+     "pubDate": "Wed, 25 Nov 2026 22:26:56 GMT",
+     "summary": "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+     "source": "CNBC",
+     "zh": "Macy&apos;s postpones Thanksgiving Day Parade due to severe weather"
+    },
+    {
+     "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+     "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+     "pubDate": "Wed, 25 Nov 2026 22:24:37 GMT",
+     "summary": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+     "source": "Financial Times",
+     "zh": "US Treasury financial crime watchdog hit by suspected cyber attack"
+    },
     {
      "title": "IC Group Holdings Inc. reports Q3 results",
      "link": "https://seekingalpha.com/news/4676720-ic-group-holdings-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2297,44 +2345,12 @@
      "zh": "Kane Biotech Inc. reports Q3 results"
     },
     {
-     "title": "Mene reports Q3 results",
-     "link": "https://seekingalpha.com/news/4676718-mene-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 17:07:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mene reports Q3 results"
-    },
-    {
-     "title": "RIWI GAAP EPS of -$0.02, revenue of $0.94M",
-     "link": "https://seekingalpha.com/news/4676717-riwi-gaap-eps-of-0_02-revenue-of-0_94m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 17:05:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RIWI GAAP EPS of -$0.02, revenue of $0.94M"
-    },
-    {
-     "title": "FinVolution Group Non-GAAP EPS of $0.15, revenue of $381.5M",
-     "link": "https://seekingalpha.com/news/4676716-finvolution-group-non-gaap-eps-of-0_15-revenue-of-381_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 17:04:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FinVolution Group Non-GAAP EPS of $0.15, revenue of $381.5M"
-    },
-    {
      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
      "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
      "pubDate": "Wed, 25 Nov 2026 21:56:43 GMT",
      "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
      "source": "CNBC",
      "zh": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike"
-    },
-    {
-     "title": "Macy&apos;s postpones Thanksgiving Day Parade due to severe weather",
-     "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-     "pubDate": "Wed, 25 Nov 2026 21:55:51 GMT",
-     "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
-     "source": "CNBC",
-     "zh": "Macy&apos;s postpones Thanksgiving Day Parade due to severe weather"
     },
     {
      "title": "“小胖墩”该不该打司美格鲁肽？美国儿童“减肥针”处方激增惹争议",
@@ -2364,7 +2380,7 @@
      "title": "现货黄金下破3500美元、白银失守40美元 什么原因？",
      "link": "http://finance.eastmoney.com/news/1361,202611253939867318.html",
      "pubDate": "Thu, 26 Nov 2026 05:48:30 +0800",
-     "summary": "&nbsp; &nbsp; 国际金价击穿3500美元。 11月25日，国际现货 黄金 （伦敦金现）价格持续下挫，盘中跌破3500美元/盎司整数关口，创2025年9月以来新低。截至收盘，国际现货 黄金 涨0.43%，报3571.39美元/盎司。年初至今国际现货 黄金 跌幅已近20%。 现货 白银 （伦敦银现）价格也在盘中大跌，跌破40美元/盎司关口，创2025年9月以来最低水平。截至收盘，国际现货 白银 现涨0.51%，报41.13美元/盎司。 消息面上，刚刚公布的美国10月个人消费支出（PCE）物价指数同比增3.8%，预期增3.8%，前值为3.6%；美国10月核心PCE物价指数同比增3.3%，",
+     "summary": "国际金价击穿3500美元。 11月25日，国际现货 黄金 （伦敦金现）价格持续下挫，盘中跌破3500美元/盎司整数关口，创2025年9月以来新低。截至收盘，国际现货 黄金 涨0.43%，报3571.39美元/盎司。年初至今国际现货 黄金 跌幅已近20%。 现货 白银 （伦敦银现）价格也在盘中大跌，跌破40美元/盎司关口，创2025年9月以来最低水平。截至收盘，国际现货 白银 现涨0.51%，报41.13美元/盎司。 消息面上，刚刚公布的美国10月个人消费支出（PCE）物价指数同比增3.8%，预期增3.8%，前值为3.6%；美国10月核心PCE物价指数同比增3.3%，环比上涨0.3%，连续第三个",
      "source": "东方财富股票",
      "zh": "现货黄金下破3500美元、白银失守40美元 什么原因？"
     },
@@ -2479,22 +2495,6 @@
      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
      "source": "Federal Reserve",
      "zh": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
-    },
-    {
-     "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-     "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
-     "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-     "source": "Federal Reserve",
-     "zh": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans"
-    },
-    {
-     "title": "“大空头”Burry清空纳指看跌期权，转向净多头，继续持有英伟达看涨期权",
-     "link": "https://wallstreetcn.com/articles/3786713",
-     "pubDate": "Thu, 26 Nov 2026 03:58:19 +0800",
-     "summary": "因2008年做空美国房地产而闻名的投资人Michael Burry，在本轮科技股抛售潮中调整了投资组合仓位。他在清空纳斯达克100指数的看跌期权后，整体持仓已从做空转向偏多，这是他一段时间以来最为看多的状态。 Burry周三早间在其Substack专栏\"Cassandra Unchained\"发文表示： \"在全球范围内，我的投资组合比过去一段时间更加偏多，做空更少。\" 他补充称， 除Palantir和MetLife的看跌期权外，目前他\"暂时几乎全部为多头\"。 之所以说是\"暂时\"，是因为他仍在持续评估做空机会。 这一表态出现在投资者因人工智能交易前景担忧而逃离科技股之际。过去三年，正是AI交易推",
-     "source": "华尔街见闻",
-     "zh": "“大空头”Burry清空纳指看跌期权，转向净多头，继续持有英伟达看涨期权"
     }
    ]
   },

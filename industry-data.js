@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 15:11:52",
+ "generated_at": "2026/11/25 15:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Zipline and Chipotle complete first drone food delivery in PGA Tour history",
+     "link": "https://roboticsandautomationnews.com/2026/11/25/zipline-and-chipotle-complete-first-drone-food-delivery-in-pga-tour-history/107636/",
+     "pubDate": "Wed, 25 Nov 2026 07:21:55 +0000",
+     "summary": "Autonomous drone delivery company Zipline and restaurant chain Chipotle have completed what the companies describe as the first drone food delivery in PGA Tour history, delivering freshly prepared meals to two professional golfers during a practice round in Austin, Texas. The delivery took place on ",
+     "source": "Robotics & Automation",
+     "zh": "Zipline and Chipotle complete first drone food delivery in PGA Tour history"
+    },
+    {
      "title": "Robotics Summit 2027 opens call for speakers",
      "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
      "pubDate": "Tue, 24 Nov 2026 18:03:37 +0000",
@@ -560,14 +568,6 @@ window.INDUSTRY_DATA = {
      "summary": "MassRobotics is developing a new marine robotics facility at Boston Fish Pier, providing startups with direct access to Boston Harbor for testing underwater robots, autonomous vessels and other marine technologies. The facility is being developed in partnership with Massport as part of its Blue Edge",
      "source": "Robotics & Automation",
      "zh": "MassRobotics to open marine robotics facility at Boston Fish Pier"
-    },
-    {
-     "title": "Viabot expands autonomous outdoor cleaning operations across eight US states",
-     "link": "https://roboticsandautomationnews.com/2026/11/24/viabot-expands-autonomous-outdoor-cleaning-operations-across-eight-us-states/107588/",
-     "pubDate": "Tue, 24 Nov 2026 07:17:12 +0000",
-     "summary": "Viabot, a Silicon Valley-based robotics company, is expanding its autonomous outdoor property maintenance operations, with its Viabot One platform now servicing 25 million square feet of commercial property across the United States. The Santa Clara, California-based company develops autonomous mobil",
-     "source": "Robotics & Automation",
-     "zh": "Viabot expands autonomous outdoor cleaning operations across eight US states"
     },
     {
      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -954,12 +954,12 @@ window.INDUSTRY_DATA = {
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA touts $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA announces $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
+     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1746,12 +1746,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei&apos;s Tau Scaling Law (Nikkei Asia)",
+     "link": "https://www.techmeme.com/261125/p9#a261125p9",
+     "pubDate": "Wed, 25 Nov 2026 02:25:01 -0500",
+     "summary": "Nikkei Asia : Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei's Tau Scaling Law &nbsp; &mdash;&nbsp; TAIPEI &mdash; China's Huawei Technologies and a local partner say they have overcome a U.S. crackdown on ",
+     "source": "Techmeme",
+     "zh": "Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei&apos;s Tau Scaling Law (Nikkei Asia)"
+    },
+    {
+     "title": "EU officials say the EC is pressing Pornhub, Stripchat, XNXX, and XVideos to introduce tougher age checks as it develops a bloc-wide age verification app (Barbara Moens/Financial Times)",
+     "link": "https://www.techmeme.com/261125/p8#a261125p8",
+     "pubDate": "Wed, 25 Nov 2026 02:20:02 -0500",
+     "summary": "Barbara Moens / Financial Times : EU officials say the EC is pressing Pornhub, Stripchat, XNXX, and XVideos to introduce tougher age checks as it develops a bloc-wide age verification app &nbsp; &mdash;&nbsp; Adult websites seek to make deal with European Commission to minimise looming fines&nbsp; &",
+     "source": "Techmeme",
+     "zh": "EU officials say the EC is pressing Pornhub, Stripchat, XNXX, and XVideos to introduce tougher age checks as it develops a bloc-wide age verification app (Barbara Moens/Financial Times)"
+    },
+    {
+     "title": "秋风原上，百度续命",
+     "link": "https://www.huxiu.com/article/4908338.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 15:17:09 +0800",
+     "summary": "本文来自微信公众号： 秋水笔弹 ，作者：水哥 公元234年秋，五丈原的寒风卷过蜀军大营。诸葛亮在帐中设下七星灯，脚踏罡步，向天借命，主灯七日不灭，便可续命一纪，再干十二年。魏延带风闯入，扑灭本命灯，丞相掷剑长叹：“生死有命，不可挽也。” 一千八百年后，同样的续命局正在百度财报里上演。 一、益州疲弊 蜀汉连年北伐，耗尽国力，落得“益州疲弊，此诚危急存亡之秋也”。 百度当下的现金流困局，同样源于对搜索基本盘的长期透支。百度搜索长期依赖竞价排名，重变现、轻体验，医疗广告等事件反复重创品牌信任，用户早已经迁徙四散，搜索基本盘已经四分五裂，被竞对所盘踞。 2026年Q3，百度AI业务收入132亿元、占比",
+     "source": "虎嗅",
+     "zh": "秋风原上，百度续命"
+    },
+    {
+     "title": "红果为何吃不下 B 站？",
+     "link": "https://www.huxiu.com/article/4908335.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 15:13:57 +0800",
+     "summary": "本文来自微信公众号： 山上 ，作者：山上团队，原文标题：《红果为何吃不下 B 站？》 B站逃过大红果。 作者I何简 编辑I王彬 封面I生化危机爆发夜 大红果吞噬一切长视频的时代，唯有B站这边风景独好。 11月24日，B站发布2026年第三季度财报。当季B站日活跃用户数达到1.24亿，月活跃用户数达到3.94亿，用户日均使用时长达到121分钟，三项数据均创下历史新高。这也是B站用户日均使用时长第一次超过两个小时。 B站财报 昨晚财报电话会一开场，连高盛分析师都忍不住发问，在越来越多的互联网公司受到短剧和短视频冲击的情况下，怎么B站还能持续增长。 B站董事长兼CEO陈睿说，今年有不少人问他B站有没",
+     "source": "虎嗅",
+     "zh": "红果为何吃不下 B 站？"
+    },
+    {
+     "title": "被权益夺舍的债券基金",
+     "link": "https://www.huxiu.com/article/4908336.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 15:11:08 +0800",
+     "summary": "本文来自微信公众号： 过客财经 ，作者：DBS路人甲 民生加银增强债券年内最大回撤47.21%，引发市场热议。 事实上，固收基金净值暴跌并不稀奇，当年信达澳银纯债净值曾经单日大跌21.42%，刷新了投资者对于债券投资潜在信用风险的认知。当然，印象中债基的净值暴跌大多源于“踩雷”，而民生加银增强债券则是源于极端策略。 可以肯定的是，很多投资者对于民生加银增强债券净值波动的烈度并无充分的心理准备。原因很简单，在今年的基金中报中，它的业绩比较基准为“中国债券综合指数收益率”。直到2026年9月21日，才调整为“中证可转换债券指数收益率×50%＋中债-综合全价（总值）指数收益率×32%＋沪深300指数",
+     "source": "虎嗅",
+     "zh": "被权益夺舍的债券基金"
+    },
+    {
+     "title": "小鹏图灵 AI 智驾官宣推出付费订阅服务：2027 年第二季度开始，老车主权益终身不变",
+     "link": "https://www.ithome.com/1/032/138.htm",
+     "pubDate": "Wed, 25 Nov 2026 07:10:28 GMT",
+     "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布， 小鹏图灵 AI 智驾将于 2027 年第二季度面向全球新购车用户提供订阅服务 ，服务开启前下订用户，智驾权益终身不变。 何小鹏解释称，智驾并不是一劳永逸的一次性开发，而是需要长期训练、持续迭代，因此在整个行业里的确有非常多的智能驾驶公司都陆续推出了智驾订阅服务，以支持智驾更好地研发与迭代。何小鹏认为， 健康且合理的商业模型是维持用户体验不断提升的关键 。 何小鹏还称，在今年前三季度，很多行业伙伴的研发费用基本上保持不变，甚至还有少量的下行。但是，小鹏的研发投入继",
+     "source": "IT之家",
+     "zh": "小鹏图灵 AI 智驾官宣推出付费订阅服务：2027 年第二季度开始，老车主权益终身不变"
+    },
+    {
+     "title": "漫步者推出 W200BT Go 颈挂式运动蓝牙耳机：IP55 认证、30 小时续航，139 元",
+     "link": "https://www.ithome.com/1/032/137.htm",
+     "pubDate": "Wed, 25 Nov 2026 07:10:26 GMT",
+     "summary": "IT之家 11 月 25 日消息，漫步者现已在京东上架 W200BT Go 颈挂式运动蓝牙耳机，定价为 139 元。 该耳机提供 IP55 认证，提供星宇橙、暗夜黑、星云灰三种配色，使用颈挂式结构设计，机身充电口带有防水盖，耳帽与耳翼采用抗菌材质，抗菌率达 99.9%。 该耳机搭载蓝牙 6.0 技术，通过 Hi-Res Wireless 认证，支持 LDAC、AAC、SBC 编解码，游戏延迟为 0.068s，并搭载 AI 通话降噪算法以区分人声与环境噪音，耳机续航约 30 小时，充电 15 分钟可提供约 7 小时续航。 IT之家附产品参数： 京东 漫步者 W200BT Go 颈挂式运动蓝牙耳机",
+     "source": "IT之家",
+     "zh": "漫步者推出 W200BT Go 颈挂式运动蓝牙耳机：IP55 认证、30 小时续航，139 元"
+    },
+    {
+     "title": "Huawei says HarmonyOS has surpassed 100M installations across smartphones, tablets, and PCs, offering 460K+ apps and services from 12M+ registered developers (Iris Deng/South China Morning Post)",
+     "link": "https://www.techmeme.com/261125/p7#a261125p7",
+     "pubDate": "Wed, 25 Nov 2026 02:10:01 -0500",
+     "summary": "Iris Deng / South China Morning Post : Huawei says HarmonyOS has surpassed 100M installations across smartphones, tablets, and PCs, offering 460K+ apps and services from 12M+ registered developers &nbsp; &mdash;&nbsp; Huawei Technologies has announced that HarmonyOS, its home-grown, Android-free ope",
+     "source": "Techmeme",
+     "zh": "Huawei says HarmonyOS has surpassed 100M installations across smartphones, tablets, and PCs, offering 460K+ apps and services from 12M+ registered developers (Iris Deng/South China Morning Post)"
+    },
+    {
+     "title": "非官方 PC 版《GTA6》首次进入游戏画面，目前仅约 2 FPS",
+     "link": "https://www.ithome.com/1/032/136.htm",
+     "pubDate": "Wed, 25 Nov 2026 07:09:26 GMT",
+     "summary": "IT之家 11 月 25 日消息，科技媒体 tweaktown 昨日（11 月 24 日）发布博文，报道称适用于微软 XBOX Series S|X 游戏主机的《侠盗猎车手 VI》（GTA 6）游戏 EXE 可执行文件泄露仅 1 天， 多个非官方 PC 移植项目取得重大进展，不再停留在启动菜单，首次成功进入游戏。 其中，开源兼容层项目 VIctory 称，已配备 AMD Radeon RX 6700 XT 的 Windows 11 电脑上已经能进入第一个任务的开场序列，但画面大量缺失，单帧渲染耗时约 0.5 至 1.8 秒，实际帧率仅约 0.6 至 2 FPS；进入游戏世界还可能触发 GPU ",
+     "source": "IT之家",
+     "zh": "非官方 PC 版《GTA6》首次进入游戏画面，目前仅约 2 FPS"
+    },
+    {
+     "title": "时隔 24 年佳能再次推出 ArF 干式半导体光刻机新产品，可满足存储芯片制造需求",
+     "link": "https://www.ithome.com/1/032/135.htm",
+     "pubDate": "Wed, 25 Nov 2026 07:05:46 GMT",
+     "summary": "IT之家 11 月 25 日消息，佳能昨日（24 日）在日本东京宣布，将于 2026 年 12 月上旬开始接受 ArF（IT之家注：氟化氩）干式扫描式半导体光刻机“FPA-6300AS6”的订单。 官方表示，该新产品是佳能 时隔 24 年 推出的 ArF 干式扫描式半导体光刻机，延续了以高生产效率和稳定性能著称的 KrF（氟化氪）半导体光刻机“FPA-6300ES6a”（2012 年 4 月发售）的技术平台优势，并采用了新开发的 NA（数值孔径）0.93 投影镜头。 据介绍，除了 满足存储芯片的制造需求 外，该产品还适用于 功率器件和传感器等的精细化加工 ，并支持小尺寸基板、不同厚度基板以及背",
+     "source": "IT之家",
+     "zh": "时隔 24 年佳能再次推出 ArF 干式半导体光刻机新产品，可满足存储芯片制造需求"
+    },
+    {
      "title": "独立站红人联盟佣金用PayPal付，欧美回款周期拖到45天正常吗？",
      "link": "https://www.baijing.cn/question/638960",
      "pubDate": "Wed, 25 Nov 2026 07:05:36 +0000",
      "summary": "欧洲独立站做家居香氛，月GMV约8万欧元，团队5人。红人联盟这块现在有60多个中小博主，佣金按销售额10%-15%结算，走PayPal手动打款。问题是回款链路太长：博主月底提交佣金申请，我们核单要等订单过了14天退货窗口，再叠加PayPal提现到对方本地银行的3-5个工作日，博主实际拿到钱普遍在45天左右。已经有几个博主在社媒上抱怨结算慢，合作意愿下降，上个月联盟带来的订单占比从22%掉到13%。试过改成每月固定15号批量付，但退货核单还是卡着；也看过Wise批量转账，财务担心合规审核没敢上。想问在这种退货周期和支付时效下，佣金结算周期到底该压到多少天，才既能控退货风险又不把博主耗走？",
      "source": "白鲸出海",
      "zh": "独立站红人联盟佣金用PayPal付，欧美回款周期拖到45天正常吗？"
+    },
+    {
+     "title": "铁三角推出耳挂式耳机 ATH-EM7xC：锻铝外壳，支持 USB-C 连接",
+     "link": "https://www.ithome.com/1/032/134.htm",
+     "pubDate": "Wed, 25 Nov 2026 07:03:34 GMT",
+     "summary": "IT之家 11 月 25 日消息，Audio-Technica（铁三角）今日宣布推出耳挂式耳机 ATH-EM7xC。其 采用 28mm 动圈单元 ，搭配锻造铝合金外壳，支持 USB-C 连接。 ATH-EM7xC 采用滑动式调节结构，具备简易线控麦克风、金属耳挂、柔软橡胶支架。其输出灵敏度 123dB / mW、频率响应范围 14~24000Hz、输出阻抗 32Ω，定价 2,980 新台币 （IT之家注：现汇率约合 605.8 元人民币） 。",
+     "source": "IT之家",
+     "zh": "铁三角推出耳挂式耳机 ATH-EM7xC：锻铝外壳，支持 USB-C 连接"
     },
     {
      "title": "Sources: Samsung and SK Hynix agree to adopt parts of YMTC&apos;s \"Xtacking\" tech for 3D NAND flash via cross-licensing deals, signaling YMTC&apos;s rapid tech progress (Nikkei Asia)",
@@ -1768,6 +1856,14 @@ window.INDUSTRY_DATA = {
      "summary": "旧手机内存&ldquo;借尸还魂&rdquo;，时代的洪水，终究还是淹到了消费者头上。AI抢算力，厂商抠内存，最后买单的，是你手里那台&ldquo;新&rdquo;手机。",
      "source": "虎嗅",
      "zh": "内存回流，你中招了吗？"
+    },
+    {
+     "title": "消息称欧盟拟设立 500 亿欧元科技主权基金，降低对中美技术依赖",
+     "link": "https://www.ithome.com/1/032/132.htm",
+     "pubDate": "Wed, 25 Nov 2026 06:59:31 GMT",
+     "summary": "IT之家 11 月 25 日消息，据英国《金融时报》报道，欧盟正在拟定方案，计划筹募最高 500 亿欧元 （IT之家注：现汇率约合 3,654.19 亿元人民币） 设立一支新基金，面向欧洲本土人工智能与量子计算企业开展长期高风险投资，希望借此降低对美国和中国技术的依赖。 两名参与相关讨论的官员透露，这支拟设立的主权科技股权基金（Stef），相比欧盟现有的融资项目，将投向规模更大、风险更高、周期更长的投资标的。 其中一名官员表示：“这是投向高风险领域的长期稳定资金。它和欧盟以往的做法完全不同，而这恰恰是我们设立它的理由。” 投资重点将放在人工智能与量子技术上 。量子技术依托量子力学原理，能够完成",
+     "source": "IT之家",
+     "zh": "消息称欧盟拟设立 500 亿欧元科技主权基金，降低对中美技术依赖"
     },
     {
      "title": "亲密关系里最隐蔽的伤害，很多人每天都在做",
@@ -1802,62 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "一群目标是星辰大海的中国品牌把出海玩法迭代了"
     },
     {
-     "title": "Sand.ai 发布视频生成模型 MAGI-2，1080P 每秒 0.5 元",
-     "link": "https://www.ithome.com/1/032/124.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:50:22 GMT",
-     "summary": "IT之家 11 月 25 日消息， Sand.ai 三呆科技今日发布新一代同期参数量「480B」最大的视频生成模型 MAGI-2。 MAGI-2 延续了 MAGI-2 Preview 的核心技术路线， 总参数量从 114B 扩展至 480B，激活参数量从约 6B 增至 28B，训练数据规模扩大约 3 倍 ，并通过模型架构与基础设施的联合设计，进一步优化训练和推理效率。 MAGI-2 支持单次生成 4–30 秒的视频，既能一镜到底，也支持多镜头切换。比如，从人物相遇的全景切到表情特写，或从商品开箱切到细节展示，都能在同一次生成中完成。 MAGI-2 单次最多输入 10 张图片、5 段视频和 5 ",
-     "source": "IT之家",
-     "zh": "Sand.ai 发布视频生成模型 MAGI-2，1080P 每秒 0.5 元"
-    },
-    {
-     "title": "特斯拉已着手优化 FSD v15：降低实景视图延迟、修复发紫问题",
-     "link": "https://www.ithome.com/1/032/123.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:50:05 GMT",
-     "summary": "IT之家 11 月 25 日消息，FSD v15 发布才短短几天，特斯拉已经着手开发修复方案与新功能。埃隆 · 马斯克（Elon Musk）和几名特斯拉工程师透露了后续更新内容，包括速度更快的实景视图（Reality View），以及圣诞模式的适配。 降低实景视图延迟 据IT之家了解，实景视图由独立的人工智能模型生成，该模型仅占用车载计算设备的一小部分算力。马斯克表示，“受算力限制，延迟偏高”。简单来说，屏幕上显示的画面会比车辆周边的实际情况稍慢一拍。 马斯克称，特斯拉找到了办法，在模型生成每一帧画面的同时输入最新的摄像头数据，能够“减少大约 35% 的延迟”。不少抢先体验 v15 版本的车主",
-     "source": "IT之家",
-     "zh": "特斯拉已着手优化 FSD v15：降低实景视图延迟、修复发紫问题"
-    },
-    {
-     "title": "Anthropic、OpenAI 各自宣称证明代数复杂度猜想 VP≠VNP",
-     "link": "https://www.ithome.com/1/032/122.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:50:01 GMT",
-     "summary": "IT之家 11 月 25 日消息，Anthropic、OpenAI 两家人工智能企业当地时间本月 23 日先后宣布证明代数复杂度猜想 VP≠VNP。 如果相关 AI 证明确认为真，这意味着 存在一系列可被简洁描述但无法仅用加法与乘法高效计算的多项式 。VP 的代表案例是行列式、VNP 的代表则是积和式，两者看起来相似，但如果 VP≠VNP 成立，其计算复杂性存在天壤之别。 图源：Pixabay VP≠VNP 是布尔计算方面经典问题 P?NP 的代数衍生版本。这一过程中产生的数学方法可启发 P?NP 解决问题的思路，但 结果不能直接确认 P?NP 的答案 。 参考 https://github.",
-     "source": "IT之家",
-     "zh": "Anthropic、OpenAI 各自宣称证明代数复杂度猜想 VP≠VNP"
-    },
-    {
-     "title": "理想汽车首个全场景试驾中心落地郑州，民众可体验全新一代 L8/L9 Livis 车型",
-     "link": "https://www.ithome.com/1/032/121.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:46:48 GMT",
-     "summary": "IT之家 11 月 25 日消息，理想汽车宣布旗下首个全场景试驾体验中心正式落地郑州，全新一代理想 L8 Livis 和理想 L9 Livis 两款车型正式在当地开启试驾，让用户实际感受 800V 主动悬架和全线控底盘带来的车辆控制能力。 根据官方公布的信息，相应试驾体验重点围绕两项底盘技术展开。其中，800V 主动悬架采用四轮独立控制方案，能够根据不同路况主动调整悬架状态，在经过坑洼、减速带以及连续起伏路面时，主动控制车身姿态，减少车身颠簸和晃动。相比传统被动悬架主要依靠弹簧和减振器吸收路面冲击，主动悬架能够根据实际路况进行动态调节，让车辆在复杂道路环境下保持更加平稳的行驶状态。 根据理想汽",
-     "source": "IT之家",
-     "zh": "理想汽车首个全场景试驾中心落地郑州，民众可体验全新一代 L8/L9 Livis 车型"
-    },
-    {
-     "title": "小鹏第二代 VLA 目标 2027 年上半年开启全球首批交付，将陆续上线全场景倒车脱困、智驾风格化能力",
-     "link": "https://www.ithome.com/1/032/120.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:46:29 GMT",
-     "summary": "IT之家 11 月 25 日现场消息，在今日的「Origin 原点」2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布， 小鹏第二代 VLA 目标 2027 年上半年开启全球首批交付 。 何小鹏表示，今年 3 月小鹏第二代 VLA 正式推送，一个月后， 智驾里程占比就突破了 50%，总里程环比增长 91.05% 。 何小鹏表示，小鹏第二代 VLA 在德国、荷兰、法国都用非常短的时间完成了初步的泛化测试。也就是说，在一个完全不依赖于中国模型和数据后训练的能力下，小鹏第二代 VLA 快速进行了学习，理解了当地的交通规则，理解了当地的法律法规。 何小鹏还预告了小鹏第二代 VLA 最新 6",
-     "source": "IT之家",
-     "zh": "小鹏第二代 VLA 目标 2027 年上半年开启全球首批交付，将陆续上线全场景倒车脱困、智驾风格化能力"
-    },
-    {
-     "title": "工程师反馈 USB 网卡接苹果 Studio Display 后，2.5G 宽带下载骤降约 75%",
-     "link": "https://www.ithome.com/1/032/118.htm",
-     "pubDate": "Wed, 25 Nov 2026 06:41:15 GMT",
-     "summary": "IT之家 11 月 25 日消息，软件工程师 Oscar Molnar 发现， 通过苹果 Studio Display XDR 的 USB-C 接口连接有线网络后，其 2.5Gbps 对称宽带下载速度从约 2.3Gbps 跌至 600Mbps，相当于损失约 75%。 其设备如下： MacBook Pro M3 Pro 2026 Studio Display XDR，所有设备都连接到它上面，因此切换笔记本电脑只需一根线缆。 UGREEN USB-C 转 2.5G 以太网适配器，插入显示器 UniFi Dream Router 7 根据博文描述，设备链路是 MacBook Pro M3 Pro 通",
-     "source": "IT之家",
-     "zh": "工程师反馈 USB 网卡接苹果 Studio Display 后，2.5G 宽带下载骤降约 75%"
-    },
-    {
-     "title": "造，还是投降？欧洲的AI路在何方？",
-     "link": "https://www.huxiu.com/article/4908205.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 14:38:32 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：TOP创新区研究院，FTA Group，题图来自：AI生成 日前，欧洲 AI 的旗手、Mistral AI的CEO Arthur Mensch发了一篇檄文，标题三个词： Build or surrender。 造，或者投降。 就在不久前，他自己的亲客户刚把他换掉： 弃用 Mistral，改用一批跑在欧洲服务器上的开源模型，Qwen、GLM、Kimi。 哦，顺便把成本砍掉了一半。 Mistral AI 的 CEO Arthur Mensch 布鲁塞尔尴尬极了。 因为这件事情的前几天，Politico 报道，欧盟正把重心从&ldquo;造最先进的模",
-     "source": "虎嗅",
-     "zh": "造，还是投降？欧洲的AI路在何方？"
-    },
-    {
      "title": "Kagi 推出邮件服务",
      "link": "https://www.solidot.org/story?sid=85984",
      "pubDate": "Wed, 25 Nov 2026 14:37:41 +0800",
@@ -1882,36 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities (Jamie Nimmo/Bloomberg)"
     },
     {
-     "title": "最难季度之后，小米要换打法了",
-     "link": "https://www.huxiu.com/article/4908327.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 14:27:58 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：李原，作者：林秋艺 Q3经营收入、利润双降，AI与芯片面临外部监管考验。 11月24日晚，小米集团发布2026年第三季度财报。总收入1072亿元，同比下滑5.2%；毛利216.15亿元，同比下降16.7%；经营利润65.72亿元，同比下降56.5%；经调整净利润48.8亿元，同比下滑56.8%。 这已经是小米净利润连续第三个季度同比下滑，净利率从去年同期的10%收缩到4.6%。 财报缩水严重，固然因为去年同期，小米收获了一个最漂亮的季报。经调整净利润113亿元，新车交付10.88万辆，双双创下新高，汽车业务还首次实现单季盈利。 这一季拆开分项看，外",
-     "source": "虎嗅",
-     "zh": "最难季度之后，小米要换打法了"
-    },
-    {
-     "title": "会员费差价70倍，干活有什么区别？",
-     "link": "https://www.huxiu.com/article/4906998.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 14:20:35 +0800",
-     "summary": "会员费差价70倍，真的值得吗？别被捆绑生态权益诱惑，付费前，脑子得先燃起来！",
-     "source": "虎嗅",
-     "zh": "会员费差价70倍，干活有什么区别？"
-    },
-    {
      "title": "TikTok Shop 马来站达人寄样，单条视频成本涨到多少算踩线？",
      "link": "https://www.baijing.cn/question/638958",
      "pubDate": "Wed, 25 Nov 2026 06:09:51 +0000",
      "summary": "上个月在马来站给达人寄样，20 个中腰部达人，样品加物流花了大概 3800 马币，最后只出了 6 条视频，挂车转化 11 单，算下来单个成交的 CPA 已经到 340 马币，比我们投 Shop Ads 还贵一倍多。团队 5 个人，现在刚起量阶段，主要靠寄样铺量加少量 Spark Ads 加热。试过按粉丝量分层筛达人、也试过要求先给脚本再寄样，但马来这边很多达人收到样品后拖两三周才发，有的干脆不发，追也追不动。现在卡在要不要继续放大寄样规模，还是转成纯佣金加少量付费合作。想直接问：马来站达人寄样这条链路，单条视频的综合成本控制在多少马币以内才值得批量复制？",
      "source": "白鲸出海",
      "zh": "TikTok Shop 马来站达人寄样，单条视频成本涨到多少算踩线？"
-    },
-    {
-     "title": "Trump&apos;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)",
-     "link": "https://www.techmeme.com/261125/p3#a261125p3",
-     "pubDate": "Wed, 25 Nov 2026 01:05:01 -0500",
-     "summary": "Financial Times : Trump's tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO &nbsp; &mdash;&nbsp; Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms",
-     "source": "Techmeme",
-     "zh": "Trump&apos;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)"
     },
     {
      "title": "多样性影响鸟类对天敌的反应",
@@ -1968,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
      "source": "WIRED",
      "zh": "Uplift Promo Codes: $300 Off"
-    },
-    {
-     "title": "剧星传媒：净利率1%徘徊，毛利率不到5%，过半资产为“账”",
-     "link": "https://www.tmtpost.com/8215850.html",
-     "pubDate": "Wed, 25 Nov 2026 13:55:43 +0800",
-     "summary": "报告期内剧星传媒营收保持增长，2025年营收同比增幅达25.01%，但营收增长之下盈利空间十分单薄，净利率长期徘徊在1%上下，整体毛利率不足5%，核心业务之一的效果营销板块毛利率持续低于2%。",
-     "source": "钛媒体",
-     "zh": "剧星传媒：净利率1%徘徊，毛利率不到5%，过半资产为“账”"
-    },
-    {
-     "title": "泰励生物：七年半累计亏损超6亿元，流动比率持续低于1",
-     "link": "https://www.tmtpost.com/8215862.html",
-     "pubDate": "Wed, 25 Nov 2026 13:53:37 +0800",
-     "summary": "泰励生物能成功港股IPO吗？",
-     "source": "钛媒体",
-     "zh": "泰励生物：七年半累计亏损超6亿元，流动比率持续低于1"
     }
    ]
   },
@@ -2242,12 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "WTI原油期货跌幅扩大至2%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939487954.html",
-     "pubDate": "Wed, 25 Nov 2026 15:03:23 +0800",
-     "summary": "WTI原油 期货 跌幅扩大至2%，报80.399美元/桶。",
+     "title": "外媒称美国将对中国等十几个国家加征关税 外交部回应",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939497239.html",
+     "pubDate": "Wed, 25 Nov 2026 15:24:53 +0800",
+     "summary": "11月25日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者提问，据报道，美国即将宣布对来自中国等十几个国家的商品加征关税。对其他国家而言，额外关税不会使总税率超过此前在各自贸易谈判中商定的水平。中方对美方可能实施的关税措施有何评论？ 郭嘉昆强调，中方在处理中美经贸问题上的立场是一贯明确的。关税战、贸易战不符合任何一方的利益，双方应在平等、尊重、互惠的基础上协商解决有关问题。 “所谓‘产能过剩’是一个伪命题，中方反对以此为借口进行政治操弄。中美双方应当共同落实好两国元首达成的重要共识，维护中美经贸关系稳定发展态势。”郭嘉昆说。 （文章来源：北京日报）",
      "source": "东方财富股票",
-     "zh": "WTI原油期货跌幅扩大至2%"
+     "zh": "外媒称美国将对中国等十几个国家加征关税 外交部回应"
+    },
+    {
+     "title": "德商银行：美国核心PCE月率将高于美联储目标会引发债市波动",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939495744.html",
+     "pubDate": "Wed, 25 Nov 2026 15:22:13 +0800",
+     "summary": "德国商业 银行 利率策略师Erik Liem在报告中表示，受美国10月份个人消费支出价格指数（PCE）数据影响，债券价格走势可能会更加活跃。“虽然我们的经济学家预计数据将符合平均预期，但关键的核心PCE环比涨幅应会高于美联储目标，未来几个月的走势对美联储应具有决定性意义。”Liem称，总体通胀率料将在下个月再次缓和，主要受汽油价格下降影响。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "德商银行：美国核心PCE月率将高于美联储目标会引发债市波动"
+    },
+    {
+     "title": "泰山石油：截至11月20日最新股东户数4.92万户，较上期减少3.08%",
+     "link": "http://stock.eastmoney.com/news/11111,202611253939495266.html",
+     "pubDate": "Wed, 25 Nov 2026 15:21:55 +0800",
+     "summary": "泰山石油 最新披露数据显示，截至11月20日公司股东户数为4.92万户，较上期(2026年11月10日) 减少1565户，降幅为3.08% 。户均持有流通股数量 由上期的7074股上升至7298股， 户均持股金额 由上期的4.35万元减少至3.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "泰山石油：截至11月20日最新股东户数4.92万户，较上期减少3.08%"
+    },
+    {
+     "title": "日产与本田达成共同开发协议 采用共通技术",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939496628.html",
+     "pubDate": "Wed, 25 Nov 2026 15:21:11 +0800",
+     "summary": "产与本田近期达成共同开发合同，计划在二〇二九年度及以后的新一代车型中采用共通技术，首要合作领域为“软件定义 汽车 ”（Software Defined Vehicle）。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "日产与本田达成共同开发协议 采用共通技术"
+    },
+    {
+     "title": "坤泰股份：截至11月20日最新股东户数8458户，较上期减少4.07%",
+     "link": "http://stock.eastmoney.com/news/11111,202611253939494858.html",
+     "pubDate": "Wed, 25 Nov 2026 15:21:01 +0800",
+     "summary": "坤泰股份 最新披露数据显示，截至11月20日公司股东户数为8458户，较上期(2026年11月10日) 减少359户，降幅为4.07% 。户均持有流通股数量 由上期的6535股上升至6813股， 户均持股金额 由上期的10.96万元减少至9.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
+     "source": "东方财富股票",
+     "zh": "坤泰股份：截至11月20日最新股东户数8458户，较上期减少4.07%"
+    },
+    {
+     "title": "博雅生物：截至11月20日最新股东户数3.05万户，较上期减少2.44%",
+     "link": "http://stock.eastmoney.com/news/11111,202611253939494758.html",
+     "pubDate": "Wed, 25 Nov 2026 15:21:01 +0800",
+     "summary": "博雅生物 最新披露数据显示，截至11月20日公司股东户数为3.05万户，较上期(2026年11月10日) 减少762户，降幅为2.44% 。户均持有流通股数量 由上期的1.61万股上升至1.65万股， 户均持股金额 由上期的22.48万元减少至20.34万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "source": "东方财富股票",
+     "zh": "博雅生物：截至11月20日最新股东户数3.05万户，较上期减少2.44%"
+    },
+    {
+     "title": "【风口研报】避险需求与年末旺季共振催化  商业百货板块有望迎景气回升",
+     "link": "http://stock.eastmoney.com/news/1405,202611253939490736.html",
+     "pubDate": "Wed, 25 Nov 2026 15:10:00 +0800",
+     "summary": "A股三大指数今日集体走弱，截止收盘，沪指跌2.03%，深证成指跌3.24%，创业板指跌4.19%。沪深京三市成交额不足1.4万亿，较昨日大幅缩量近3000亿。行业板块呈现普跌态势， 电子 化学品、 半导体 、非金属材料、 机器人 、 电池 、金属 新材料 、 消费电子 、 影视院线 、 元件 、 能源金属 板块跌幅居前。个股方面，上涨股票数量不足600只，近60只股票涨停。 今日商业 百货 ，食品零售等大消费板块逆势活跃，避险属性与事件催化共同带动板块情绪回暖。隔夜美股大型科技股再度全线重挫，费城 半导体 指数大跌7.88%；医药与消费板块逆市走强，其中，财报超预期的科尔士 百货 大涨超19%",
+     "source": "东方财富资讯",
+     "zh": "【风口研报】避险需求与年末旺季共振催化  商业百货板块有望迎景气回升"
+    },
+    {
+     "title": "Micron raises CEO Sanjay Mehrotra’s security spending by more than 2,000%",
+     "link": "https://seekingalpha.com/news/4676457-micron-raises-ceo-sanjay-mehrotras-security-spending-by-more-than-2000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 02:08:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Micron raises CEO Sanjay Mehrotra’s security spending by more than 2,000%"
     },
     {
      "title": "收购热点概念标的股价“不涨反跌”，逸飞激光实控人吴轩提议回购股份“维稳”",
@@ -2261,41 +2317,9 @@ window.INDUSTRY_DATA = {
      "title": "A股三大指数收跌 成交额不足1.4万亿 退税商店概念股逆市走强",
      "link": "http://finance.eastmoney.com/news/1345,202611253939487357.html",
      "pubDate": "Wed, 25 Nov 2026 15:00:53 +0800",
-     "summary": "A股三大指数今日集体走弱，截止收盘，沪指跌2.03%，收报3476.47点；深证成指跌3.24%，收报10086.36点；创业板指跌4.19%，收报2183.58点。沪深京三市成交额1.39万亿，较昨日大幅缩量2752亿。 行业板块呈现普跌态势，电子化学品、半导体、非金属材料、机器人、电池、 金属新材料、 消费电子、 影视院线、元件、 能源金属板块跌幅居前。 个股方面，上涨股票数量不足600只，近60只股票涨停。退税商店概念股逆市走强，万事利20cm涨停，杭州解百涨停。 今日要闻 特朗普称必要时愿赦免黄仁勋 不排除美国政府入股英伟达 美国总统特朗普在白宫接受《纽约邮报》专访。被问及是否可能赦免",
-     "source": "东方财富股票",
+     "summary": "A股三大指数今日集体走弱，截止收盘，沪指跌2.03%，收报3476.47点；深证成指跌3.24%，收报10086.36点；创业板指跌4.19%，收报2183.58点。沪深京三市成交额1.39万亿，较昨日大幅缩量2752亿。 行业板块呈现普跌态势，电子化学品、半导体、非金属材料、机器人、电池、 金属新材料、 消费电子、 影视院线、元件、 能源金属板块跌幅居前。 个股方面，上涨股票数量不足600只，近60只股票涨停。退税商店概念股逆市走强，万事利20cm涨停，杭州解百涨停。 行业资金流向：6.12亿净流入 白酒 行业资金方面，截至收盘， 白酒 、 造纸 、 一般零售 等净流入排名靠前，其中 白酒 ",
+     "source": "东方财富资讯",
      "zh": "A股三大指数收跌 成交额不足1.4万亿 退税商店概念股逆市走强"
-    },
-    {
-     "title": "荷兰近月天然气期货合约下跌5%，至87.09欧元/兆瓦时",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939487721.html",
-     "pubDate": "Wed, 25 Nov 2026 15:00:41 +0800",
-     "summary": "荷兰近月 天然气 期货 合约下跌5%，至87.09欧元/兆瓦时。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "荷兰近月天然气期货合约下跌5%，至87.09欧元/兆瓦时"
-    },
-    {
-     "title": "德国第三季度未季调GDP年率终值1.2%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939487626.html",
-     "pubDate": "Wed, 25 Nov 2026 15:00:41 +0800",
-     "summary": "德国第三季度未季调GDP年率终值1.2%，预期1.3%，前值1.30%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "德国第三季度未季调GDP年率终值1.2%"
-    },
-    {
-     "title": "德国第三季度季调后GDP季率终值0.1%，预期0.2%，前值0.20%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939487564.html",
-     "pubDate": "Wed, 25 Nov 2026 15:00:41 +0800",
-     "summary": "德国第三季度季调后GDP季率终值0.1%，预期0.2%，前值0.20%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "德国第三季度季调后GDP季率终值0.1%，预期0.2%，前值0.20%"
-    },
-    {
-     "title": "德国第三季度工作日调整后GDP年率终值1.1%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939487448.html",
-     "pubDate": "Wed, 25 Nov 2026 15:00:41 +0800",
-     "summary": "德国第三季度工作日调整后GDP年率终值1.1%，预期1.2%，前值1.20%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "德国第三季度工作日调整后GDP年率终值1.1%"
     },
     {
      "title": "AI交易信仰动摇，亚太芯片股遭遇集体抛售，韩股收跌6.16%，美股夜盘走低，黄金下跌1.1%",
@@ -2309,7 +2333,7 @@ window.INDUSTRY_DATA = {
      "title": "多只宽基ETF尾盘放量成交",
      "link": "http://finance.eastmoney.com/news/1345,202611253939482131.html",
      "pubDate": "Wed, 25 Nov 2026 14:53:12 +0800",
-     "summary": "沪深300ETF华夏（510330）、 中证500 ETF南方（510500）、中证1000ETF南方（512100）尾盘放量成交；科创50ETF易方达（588000）成交额达74亿元、沪深300ETF华夏（510330）成交额达63亿元、 中证500 ETF南方（510500）成交额达90亿元、上证50ETF华夏（510050）成交额达31亿元均超越昨日全天。",
+     "summary": "沪深300ETF华夏（510330）、 中证500 ETF南方（510500）、中证1000ETF南方（512100）尾盘放量成交；科创50ETF易方达（588000）成交额达74亿元、沪深300ETF华夏（510330）成交额达63亿元、 中证500 ETF南方（510500）成交额达90亿元、上证50ETF华夏（510050）成交额达31亿元均超越昨日全天。 数据显示，沪深300ETF易方达（510310）全天成交95.5亿元，较上一日增4倍，沪深300ETF华夏（510330）全天成交125.8亿元，创2026年1月28日以来天量， 中证500 ETF南方（510500）、科创50ETF",
      "source": "东方财富资讯",
      "zh": "多只宽基ETF尾盘放量成交"
     },
@@ -2386,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "亚太市场跳水 AI交易再度受挫！是何原因？"
     },
     {
-     "title": "Diamond Estates Wines & Spirits reports Q2 results",
-     "link": "https://seekingalpha.com/news/4676455-diamond-estates-wines-spirits-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 01:17:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Diamond Estates Wines & Spirits reports Q2 results"
-    },
-    {
      "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
      "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
      "pubDate": "Wed, 25 Nov 2026 06:09:44 GMT",
@@ -2458,28 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "“塔某汀”商标被宣告无效仍招商加盟，二审被判赔塔斯汀500万元"
     },
     {
-     "title": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国",
-     "link": "http://finance.eastmoney.com/news/1344,202611253939419080.html",
-     "pubDate": "Wed, 25 Nov 2026 13:07:05 +0800",
-     "summary": "由于 数据中心 建设需求大量的 钢铁 ，美国国内 钢铁 价格已经达到四年来的最高水平，这也迫使买家转向来自亚洲的 钢铁 供应。 本周，美国最大的钢铁生产商纽柯公司将热轧卷板的出厂价格上调至每短吨1330美元，延续了自夏季以来每周上涨的趋势，而一年前热轧钢的报价还不到900美元。 但美国国内钢铁供应已逼近极限， 富国银行 分析师Timna Tanners表示，美国市场目前对钢材的需求非常庞大，当地钢厂无法向买家提供足够的钢材，因此他们正在缩减2027年的供应协议。 这也让进口钢铁重新成为市场热点。此前，美国政府征收的50%钢铁关税大幅削减了外国钢铁对美国的进口，但在出现供应短缺之后，进口钢铁税后",
-     "source": "东方财富资讯",
-     "zh": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国"
-    },
-    {
      "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
      "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 05:00:32 GMT",
      "summary": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
      "source": "Financial Times",
      "zh": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang"
-    },
-    {
-     "title": "A French crisis would be a threat — and opportunity — for Europe",
-     "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
-     "pubDate": "Wed, 25 Nov 2026 05:00:32 GMT",
-     "summary": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
-     "source": "Financial Times",
-     "zh": "A French crisis would be a threat — and opportunity — for Europe"
     }
    ]
   },

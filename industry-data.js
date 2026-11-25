@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 20:31:52",
+ "generated_at": "2026/11/25 20:42:56",
  "recent_days": 7,
  "industries": [
   {
@@ -16,14 +16,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 江宇 编辑 | 漠影 谁家的大模型，又偷偷跑出来干活了？ 12分钟，一句话就能造出一座罗马城。 ▲3D体素风罗马城 古罗马斗兽场、万神殿、特雷维喷泉，还有在广场上散步的小人都做出来了。 再看这个，15分钟做出一个可控核聚变装置的3D科普动画。 ▲核聚变装置3D动画 托卡马克装置的内部结构、磁场约束带电粒子的过程，以及氘氚聚变释放能量的动态演示，都做得有模有样。 有开发者实测显示： 模型输出速度相当快啊，DeepSeek v4.1 flash有时候都打不过。 也有人对比测试后发现， 这个匿名模型在输出速度和质量上能达到比较好的平衡。 这几个案例，都出自一款刚刚现身的匿名大模型—",
      "source": "智东西",
      "zh": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬"
-    },
-    {
-     "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
-     "link": "https://www.qbitai.com/2026/11/512565.html",
-     "pubDate": "Wed, 25 Nov 2026 11:07:14 +0000",
-     "summary": "揭秘General Looped Model",
-     "source": "量子位",
-     "zh": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了"
     },
     {
      "title": "An Indic Voice Agent with CUGA",
@@ -82,44 +74,12 @@ window.INDUSTRY_DATA = {
      "zh": "神秘模型突降热搜！一夜爆火HungerG，到底是谁？"
     },
     {
-     "title": "Anthropic还藏着2个最强模型…",
-     "link": "https://www.qbitai.com/2026/11/512538.html",
-     "pubDate": "Wed, 25 Nov 2026 08:23:24 +0000",
-     "summary": "Fable5.2已经很旧了。",
-     "source": "量子位",
-     "zh": "Anthropic还藏着2个最强模型…"
-    },
-    {
-     "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
-     "link": "https://www.qbitai.com/2026/11/512532.html",
-     "pubDate": "Wed, 25 Nov 2026 08:18:54 +0000",
-     "summary": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
-     "source": "量子位",
-     "zh": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）"
-    },
-    {
      "title": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到Seedance 1/10",
      "link": "https://zhidx.com/p/614229.html",
      "pubDate": "Wed, 25 Nov 2026 16:00:19 +0800",
      "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 先看一段画面。蓝色老爷车驶过Vice City的街头，摩托车贴着车身呼啸而过，行人穿梭在路旁，镜头一路跟车转弯、穿行。 这段几乎以假乱真的画面并非游戏实录，而是来自Sand.ai今天正式发布的视频生成模型MAGI-2，输入只有一张静态截图和一段提示词。 据Artificial Analysis视频生成榜单的评测结果，MAGI-2在图生视频（I2V）维度冲到全球第一，超过Seendance 2.5，成为I2V维度的SOTA模型。MAGI-2还拥有高达480B的参数量，远超目前已公开参数量的大多数视频模型，未来计划开源。 榜单之外，MAGI-2此次还带来了",
      "source": "智东西",
      "zh": "视频模型黑马杀到全球第一，30秒长镜头一次生成，价格打到Seedance 1/10"
-    },
-    {
-     "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
-     "link": "https://www.qbitai.com/2026/11/512515.html",
-     "pubDate": "Wed, 25 Nov 2026 07:46:52 +0000",
-     "summary": "OpenAI这下要有俩Tibo了",
-     "source": "量子位",
-     "zh": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆"
-    },
-    {
-     "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
-     "link": "https://www.qbitai.com/2026/11/512498.html",
-     "pubDate": "Wed, 25 Nov 2026 06:49:27 +0000",
-     "summary": "复杂场景三维建模成本降至10美元以内",
-     "source": "量子位",
-     "zh": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI"
     },
     {
      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
@@ -144,14 +104,6 @@ window.INDUSTRY_DATA = {
      "summary": "零样本泛化离我们还遥远吗？",
      "source": "机器之心",
      "zh": "通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？"
-    },
-    {
-     "title": "Claude Opus 5.6灰测效果来了",
-     "link": "https://www.qbitai.com/2026/11/512478.html",
-     "pubDate": "Wed, 25 Nov 2026 02:43:07 +0000",
-     "summary": "整体效率大约是此前Opus版本的2到3倍。",
-     "source": "量子位",
-     "zh": "Claude Opus 5.6灰测效果来了"
     },
     {
      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches. The post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to ",
      "source": "MarkTechPost",
      "zh": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime"
+    },
+    {
+     "title": "小米Q3财报出炉：AI研发占比超30%，卢伟冰吐槽内存涨价压力大",
+     "link": "https://zhidx.com/p/614002.html",
+     "pubDate": "Tue, 24 Nov 2026 21:25:08 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 云鹏 智东西11月24日报道，今天，小米集团发布2026年第三季度财报。 第三季度，小米营收为 1072.40亿元 ，同比 下降5.2% ；净利润 38.76亿 ，同比 下降68.42% ；经调整净利润为 48.84亿元 ，同比下降56.8%；毛利为 216.15亿元 ，同比下降 16.7% ，毛利率为 20.2% 。小米单季度研发开支为 92亿元 ，同比增长2%；前三季度研发开支达到 274亿元 ，同比增长 16.5% 。 ▲小米营收、净利润、研发开支情况（智东西制图） 截至9月30日，小米拥有 52509名全职员工 ，较去年同期 减少3722人 ，其中研",
+     "source": "智东西",
+     "zh": "小米Q3财报出炉：AI研发占比超30%，卢伟冰吐槽内存涨价压力大"
+    },
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+     "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+     "source": "OpenAI",
+     "zh": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+    },
+    {
+     "title": "7 Most Downloaded AI Models on Hugging Face",
+     "link": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
+     "pubDate": "Tue, 24 Nov 2026 13:00:00 +0000",
+     "summary": "The most downloaded AI models on Hugging Face aren't the ones you'd expect. Discover why smaller, older, and specialized models dominate the rankings.",
+     "source": "KDnuggets",
+     "zh": "7 Most Downloaded AI Models on Hugging Face"
+    },
+    {
+     "title": "Searching for distant planets with Astra",
+     "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+     "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+     "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+     "source": "OpenAI",
+     "zh": "Searching for distant planets with Astra"
+    },
+    {
+     "title": "从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075852&idx=3&sn=c8d8005bb205d8b88bfb2215f9066f8b",
+     "pubDate": "Tue, 24 Nov 2026 11:05:00 +0800",
+     "summary": "一个点云世界模型，让机器人学会抓取、推动和灵巧操作",
+     "source": "机器之心",
+     "zh": "从2D图像到3D点云，机器人操作性能能提升多少？北大等团队提出JEPA4R"
+    },
+    {
+     "title": "继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075852&idx=2&sn=b43990c90fd68a8fbf4fbe9d6d16f15b",
+     "pubDate": "Tue, 24 Nov 2026 11:05:00 +0800",
+     "summary": "代数版P vs NP迎来重大进展",
+     "source": "机器之心",
+     "zh": "继黎曼猜想后，Claude给出VP≠VNP证明！通过Lean 4形式化验证"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+     "pubDate": "Wed, 25 Nov 2026 11:48:02 +0000",
+     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+    },
     {
      "title": "Get the Gadget Master newsletter!",
      "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
@@ -274,12 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "UK Space Agency backs seven Commercial Climate Services projects"
     },
     {
-     "title": "CHIIPS #41 – CHIIPs with Jake Collins of Micro Fabrication",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-41-chiips-with-jake-collins-of-micro-fabrication-2026-11/",
+     "title": "CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-41-chiips-with-jake-collins-of-boston-micro-fabrication-2026-11/",
      "pubDate": "Wed, 25 Nov 2026 10:12:13 +0000",
-     "summary": "Be sure to catch latest episode of our Electronics Weekly podcast, CHIIPS. It features Jake Collins, Senior Application Engineer at Boston Micro Fabrication. The post CHIIPS #41 – CHIIPs with Jake Collins of Micro Fabrication appeared first on Electronics Weekly .",
+     "summary": "Be sure to catch latest episode of our Electronics Weekly podcast, CHIIPS. It features Jake Collins, Senior Application Engineer at Boston Micro Fabrication. The post CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "CHIIPS #41 – CHIIPs with Jake Collins of Micro Fabrication"
+     "zh": "CHIIPS #41 – CHIIPs with Jake Collins of Boston Micro Fabrication"
     },
     {
      "title": "TSMC plans celebration for Arizona milestone as it weighs US$22.6 billion Texas campus",
@@ -376,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Siemens is extending its Eigen Engineering Agent to the process industries. For process industries, the agent works with SIMATIC PCS 7, the distributed control system used in industries such as […] The post Siemens expands Eigen agent to process industries appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Siemens expands Eigen agent to process industries"
-    },
-    {
-     "title": "M2M wireless position data transfer module in 2.4GHz ISM band",
-     "link": "https://www.electronicsweekly.com/news/business/vishay-launches-2026-11/",
-     "pubDate": "Wed, 25 Nov 2026 06:04:28 +0000",
-     "summary": "Vishay Intertechnology has introduced a LoRa-based, machine to machine (M2M) wireless position data transfer module designed to enable remote monitoring of analog precision sensors in industrial applications. Operating worldwide in […] The post M2M wireless position data transfer module in 2.4GHz IS",
-     "source": "Electronics Weekly",
-     "zh": "M2M wireless position data transfer module in 2.4GHz ISM band"
     },
     {
      "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
@@ -1066,20 +1066,20 @@ window.INDUSTRY_DATA = {
      "zh": "Clean Port Coalition Urges EU To Accelerate Port Electrification"
     },
     {
-     "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
-     "link": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
-     "pubDate": "Tue, 24 Nov 2026 12:26:49 -0500",
-     "summary": "Consumer advocates and environmental groups opposed the project, citing concerns over load growth projections and shifting of project risk to ratepayers.",
-     "source": "Utility Dive",
-     "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
+     "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
+     "link": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience/",
+     "pubDate": "Tue, 24 Nov 2026 12:42:40 +0000",
+     "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
+     "source": "Energy Storage News",
+     "zh": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience"
     },
     {
-     "title": "TVA touts $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
-     "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
-     "source": "Utility Dive",
-     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
+     "title": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote",
+     "link": "https://www.energy-storage.news/us-senate-passes-bipartisan-permitting-reform-bill-baaja-continues-to-house-vote/",
+     "pubDate": "Tue, 24 Nov 2026 12:32:18 +0000",
+     "summary": "The US Senate has passed the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), the permitting reform bill that has been a major source of industry discussion.",
+     "source": "Energy Storage News",
+     "zh": "US Senate passes bipartisan permitting reform bill BAAJA, continues to House vote"
     }
    ]
   },
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋回归后的48小时"
     },
     {
+     "title": "Counterpoint：预计 2027 年全球智能手机出货再降 6%，2028 年迎来首次反弹",
+     "link": "https://www.ithome.com/1/032/475.htm",
+     "pubDate": "Wed, 25 Nov 2026 12:09:20 GMT",
+     "summary": "IT之家 11 月 25 日消息，Counterpoint Research 在最新《智能手机市场展望追踪报告》中预测， 2026 年全球智能手机出货量将同比下降 13.9% ，并在 2027 年进一步下滑 6%；随后市场有望在 2028 年反弹 6%。 本轮下行主要由元件成本飙升、低价机型供给收缩以及消费者购买力下降共同驱动。手机厂商普遍通过提价、降低内存配置、削减低毛利产品、收缩产品线、聚焦重点市场与机型来应对。高端需求相对有韧性，但难以抵消大众市场的萎缩。渠道与生产端表现也不均衡，部分地区开始出现库存偏低的情况；ODM / EMS 产能利用率显著下滑，多家主要供应商在安卓大厂砍单后主动缩",
+     "source": "IT之家",
+     "zh": "Counterpoint：预计 2027 年全球智能手机出货再降 6%，2028 年迎来首次反弹"
+    },
+    {
+     "title": "铠侠预览第 3 代 XL-FLASH 高性能闪存：位密度提升 70%，读延迟仅 BiCS8 TLC 1/10",
+     "link": "https://www.ithome.com/1/032/481.htm",
+     "pubDate": "Wed, 25 Nov 2026 12:08:35 GMT",
+     "summary": "IT之家 11 月 25 日消息，KIOXIA（铠侠）日本当地时间今日宣布，即将于明日的 KIOXIA Forum 上展出 第 3 代 XL-FLASH 高性能 NAND 闪存 的原型产品。铠侠计划于 2027 年 3 月向特定客户交付功能评估样品。 第 3 代 XL-FLASH 采用 CBA 架构：分别制造存储和外围电路，最后将两部分键合在一起。其位密度较第 2 代 XL-FLASH 提升 70%， 3ms 的平均读取延迟仅是 BiCS8 TLC 的 1/10 ，512B 读取操作的能效相较第 2 代 XL-FLASH 提升 135%。 铠侠的 XL-FLASH 瞄准介于系统内存和一般闪存存",
+     "source": "IT之家",
+     "zh": "铠侠预览第 3 代 XL-FLASH 高性能闪存：位密度提升 70%，读延迟仅 BiCS8 TLC 1/10"
+    },
+    {
      "title": "老黄回归，存储下跌，半导体的繁荣周期还有多久？",
      "link": "https://www.huxiu.com/article/4908430.html?f=rss",
      "pubDate": "Wed, 25 Nov 2026 20:08:02 +0800",
@@ -1882,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "高驰 COROS VERTIX 4 智能手表上架：内置 5700K 冷白光手电筒、10ATM 防水，5499 元"
     },
     {
-     "title": "华为种菜游戏：鸿蒙星空元服务官宣上线，完成每日任务可抽会员等",
-     "link": "https://www.ithome.com/1/032/472.htm",
-     "pubDate": "Wed, 25 Nov 2026 11:34:46 GMT",
-     "summary": "IT之家 11 月 25 日消息，华为官方今日宣布，鸿蒙星空元服务正式上线，支持星球探索、花园养成、好友互动等玩法。 该元服务被称作华为手机 / 平板上的种菜游戏 。 据介绍，用户在鸿蒙星空元服务完成每日任务可以领取积分抽奖，有机会获得华为音乐、视频、阅读、主题会员，以及 Petal One 悦享套餐等权益。 IT之家注： 使用鸿蒙星空元服务需 HarmonyOS 6.1 及以上系统版本的手机或平板设备 。",
-     "source": "IT之家",
-     "zh": "华为种菜游戏：鸿蒙星空元服务官宣上线，完成每日任务可抽会员等"
-    },
-    {
      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
      "link": "https://github.com/xoxorwr/pw-loudness-eq",
      "pubDate": "Wed, 25 Nov 2026 11:34:25 +0000",
@@ -1920,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
      "source": "WIRED",
      "zh": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long"
-    },
-    {
-     "title": "爆料人称《GTA 6》有望在 PS6、Xbox Project Helix 上实现 120 帧运行",
-     "link": "https://www.ithome.com/1/032/470.htm",
-     "pubDate": "Wed, 25 Nov 2026 11:24:27 GMT",
-     "summary": "IT之家 11 月 25 日消息，《GTA 6》 在本世代主机上的性能表现不算理想，不少玩家在等待 PC 版（包括非官方移植版本），也有人愿意继续等 Xbox Project Helix 与 PS6，希望在新主机上获得更高帧率体验。知名爆料人 Moore's Law Is Dead（MLID）判断 《GTA 6》 在次世代主机上的表现会很不错，但这和另一位爆料人 Kepler_L2 的看法相左。 MLID 认为 Xbox Helix 和 PS6 的硬件性能足够支撑 《GTA 6》 稳定 60 帧。他甚至提出，两款新机还有机会提供 120 帧模式，次世代主机 GPU 性能大致相当于 RTX 50",
-     "source": "IT之家",
-     "zh": "爆料人称《GTA 6》有望在 PS6、Xbox Project Helix 上实现 120 帧运行"
     },
     {
      "title": "对赌刚过业绩就变脸，和仁科技或迎存储芯片二股东 | 并购一线",
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Sony WH-1000XM4C get their first big discount at $102 off",
+     "link": "https://www.androidauthority.com/sony-wh-1000xm4c-deal-3738982/",
+     "pubDate": "Wed, 25 Nov 2026 12:31:15 +0000",
+     "summary": "Sony's refreshed M4 2nd Gen noise canceling headphones are 34% off on Amazon in every color.",
+     "source": "Android Authority",
+     "zh": "Sony WH-1000XM4C get their first big discount at $102 off"
+    },
+    {
+     "title": "WhatsApp is testing stickers with sound",
+     "link": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
+     "pubDate": "Wed, 25 Nov 2026 12:24:57 +0000",
+     "summary": "WhatsApp's newest public beta includes the ability to create stickers with sounds.",
+     "source": "Engadget",
+     "zh": "WhatsApp is testing stickers with sound"
+    },
     {
      "title": "Microsoft declares a Code Red in response to worst ever outage",
      "link": "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage/",
@@ -2064,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Internal naming pattern offers clues about Samsung's plans.",
      "source": "Android Authority",
      "zh": "Samsung Galaxy Z TriFold 2 codename leak hints at another limited release"
-    },
-    {
-     "title": "I’ve used the Pixel 11 Pro XL for months, and I wouldn’t go without these 6 accessories",
-     "link": "https://www.androidauthority.com/best-google-pixel-11-pro-xl-accessories-3738052/",
-     "pubDate": "Wed, 25 Nov 2026 11:30:51 +0000",
-     "summary": "Keeping my Pixel spoiled and charged.",
-     "source": "Android Authority",
-     "zh": "I’ve used the Pixel 11 Pro XL for months, and I wouldn’t go without these 6 accessories"
     },
     {
      "title": "Google Maps update on Android Auto adds navigation routes for motorcycles",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "iOS 27 brought new features to Apple Wallet , Maps , Notes , Messages , and more —and it includes key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27. more…",
      "source": "9to5Mac",
      "zh": "Apple Mail added four convenient new features in iOS 27"
-    },
-    {
-     "title": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions",
-     "link": "https://9to5google.com/2026/11/24/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions/",
-     "pubDate": "Tue, 24 Nov 2026 23:54:33 +0000",
-     "summary": "Motorola and Best Buy websites are now showing an early December shipping date, despite at least one customer already receiving tracking info. more…",
-     "source": "9to5Google",
-     "zh": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions"
     }
    ]
   },
@@ -2242,12 +2242,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Amazon’s advertising concerns complicate talks with Meta over Muse",
-     "link": "https://seekingalpha.com/news/4676520-amazons-advertising-concerns-complicate-talks-with-meta-over-muse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:28:30 -0500",
+     "title": "Overlay Shares Short Term Bond ETF declares $0.1179 dividend",
+     "link": "https://seekingalpha.com/news/4676543-overlay-shares-short-term-bond-etf-declares-0_1179-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:33:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Amazon’s advertising concerns complicate talks with Meta over Muse"
+     "zh": "Overlay Shares Short Term Bond ETF declares $0.1179 dividend"
+    },
+    {
+     "title": "Overlay Shares Foreign Equity ETF declares $0.2442 dividend",
+     "link": "https://seekingalpha.com/news/4676541-overlay-shares-foreign-equity-etf-declares-0_2442-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:32:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Overlay Shares Foreign Equity ETF declares $0.2442 dividend"
+    },
+    {
+     "title": "Overlay Shares Large Cap Equity ETF declares $0.456 dividend",
+     "link": "https://seekingalpha.com/news/4676540-overlay-shares-large-cap-equity-etf-declares-0_456-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:32:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Overlay Shares Large Cap Equity ETF declares $0.456 dividend"
+    },
+    {
+     "title": "Overlay Shares Small Cap Equity ETF declares $0.3241 dividend",
+     "link": "https://seekingalpha.com/news/4676539-overlay-shares-small-cap-equity-etf-declares-0_3241-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:32:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Overlay Shares Small Cap Equity ETF declares $0.3241 dividend"
+    },
+    {
+     "title": "Five materials stocks with attractive valuations following Q3 earnings",
+     "link": "https://seekingalpha.com/news/4676526-five-materials-stocks-with-attractive-valuations-following-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:32:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Five materials stocks with attractive valuations following Q3 earnings"
+    },
+    {
+     "title": "Overlay Shares Nasdaq 100 Income ETF declares $0.227 dividend",
+     "link": "https://seekingalpha.com/news/4676538-overlay-shares-nasdaq-100-income-etf-declares-0_227-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:32:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Overlay Shares Nasdaq 100 Income ETF declares $0.227 dividend"
+    },
+    {
+     "title": "Here’s how to find value in cybersecurity stocks after a strong year",
+     "link": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 12:30:00 GMT",
+     "summary": "Put stocks through this two-question stress test to avoid overpaying for growth that may not materialize.",
+     "source": "MarketWatch",
+     "zh": "Here’s how to find value in cybersecurity stocks after a strong year"
+    },
+    {
+     "title": "三星显示将以2.1亿欧元收购ams OSRAM 9.1%股权",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939730597.html",
+     "pubDate": "Wed, 25 Nov 2026 20:29:19 +0800",
+     "summary": "11月25日，三星显示宣布已签署投资协议，以约2.1亿欧元取得ams OSRAM 9.1%的股权。根据协议，三星显示将认购ams OSRAM 9,984,439股新发行股份，预计交割后成为其最大股东。此外，两家公司另达成战略合作，共同开发面向显示应用的下一代超小型 MicroLED 技术。三星显示预计于2027年初完成股份认购。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "三星显示将以2.1亿欧元收购ams OSRAM 9.1%股权"
+    },
+    {
+     "title": "我国新材料研发提速 关键材料加速走向工程应用",
+     "link": "http://finance.eastmoney.com/news/1350,202611253939730338.html",
+     "pubDate": "Wed, 25 Nov 2026 20:29:03 +0800",
+     "summary": "今年以来，我国一大批关键 新材料 加速走出实验室、落地工程一线，持续突破技术壁垒、补齐应用短板，为制造强国建设提供坚实支撑。 眼下，在广东广州南沙，全球跨径最大的双层悬索桥狮子洋大桥建设正在加紧推进。 国家材料腐蚀与防护科学 数据中心 粤港澳大湾区分中心技术总工杨小佳： 利用 大数据 技术研发了新型耐蚀钢，耐蚀性能较传统的桥梁钢提升80%， 综合 的寿命提升大概5到10倍。 过去，大桥防腐主要靠加厚钢材、增加涂层来对付锈蚀；如今，钢材自身就具备了更强的耐腐蚀能力。这种新型耐蚀钢，就是不久前刚刚实现成果转化的 新材料 。 不只是桥梁用钢，今年以来，我国多个领域的关键材料接连取得突破。在 半导体 ",
+     "source": "东方财富股票",
+     "zh": "我国新材料研发提速 关键材料加速走向工程应用"
+    },
+    {
+     "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+     "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 12:29:00 GMT",
+     "summary": "Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
+     "source": "MarketWatch",
+     "zh": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says."
+    },
+    {
+     "title": "锦盛新材：控股股东及一致行动人拟协议转让15%股份",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939730629.html",
+     "pubDate": "Wed, 25 Nov 2026 20:27:33 +0800",
+     "summary": "锦盛新材 (300849.SZ)公告称，公司控股股东、实际控制人阮荣涛、高丽君及其一致行动人阮荣根和锦盛合伙，与深圳擎力一号科技有限公司签署股份转让协议，拟以18.67元/股的价格协议转让合计2250万股，占公司总股本的15%，交易对价合计4.2亿元。本次转让不会导致公司控股股东、实际控制人发生变化。受让方承诺交割日起36个月内不谋求上市公司控制权、不减持标的股份、不注入资产。公司2026年前三季度营收2.52亿元，同比增长5.98%；净利润亏损1977.99万元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "锦盛新材：控股股东及一致行动人拟协议转让15%股份"
     },
     {
      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
@@ -2274,20 +2354,28 @@ window.INDUSTRY_DATA = {
      "zh": "专访世界核协会总干事：东盟多国评估核能 与中国合作空间广阔"
     },
     {
-     "title": "Graycliff plans private placement of up to $714,000 for exploration and working capital",
-     "link": "https://seekingalpha.com/news/4676529-graycliff-plans-private-placement-of-up-to-714000-for-exploration-and-working-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:25:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Graycliff plans private placement of up to $714,000 for exploration and working capital"
+     "title": "英国首相伯纳姆：还需采取更多措施帮助英国人应对能源账单",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939730718.html",
+     "pubDate": "Wed, 25 Nov 2026 20:24:55 +0800",
+     "summary": "英国首相伯纳姆：还需采取更多措施帮助英国人应对能源账单。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英国首相伯纳姆：还需采取更多措施帮助英国人应对能源账单"
     },
     {
-     "title": "Visionstate appoints Grace Casale as interim CEO",
-     "link": "https://seekingalpha.com/news/4676530-visionstate-appoints-grace-casale-as-interim-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:23:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Visionstate appoints Grace Casale as interim CEO"
+     "title": "英国首相伯纳姆：明年将取消燃气账单中的固定费用",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939730483.html",
+     "pubDate": "Wed, 25 Nov 2026 20:24:55 +0800",
+     "summary": "英国首相伯纳姆：明年将取消燃气账单中的固定费用。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "英国首相伯纳姆：明年将取消燃气账单中的固定费用"
+    },
+    {
+     "title": "浦江中国AI Token业务加速落地，首批客户已接入",
+     "link": "https://wallstreetcn.com/articles/3786694",
+     "pubDate": "Wed, 25 Nov 2026 20:23:40 +0800",
+     "summary": "浦江中国控股有限公司（ 1417.HK ）的AI Token业务正在进入实际运行与加速阶段。 11 月 25 日，浦江中国在港交所发布业务更新补充公告，披露 AI Token 生产与分发业务的商业模式、客户接入情况及分阶段产能目标。 按公告，公司计划 2026 年 12 月底前实现每月 10 万亿至 12 万亿 Token 的生产容量、7 万亿至 8.4 万亿的实际产量，实际利用率超过 70%。到 2027 年第二季度，月度生产容量目标提升至约 80 万亿。 首批客户已接入并开展推理服务。公告称，公司已完成首期基础设施部署及系统搭建，模型部署、推理引擎调优及适配测试进入试运行阶段。经测试，现有",
+     "source": "华尔街见闻",
+     "zh": "浦江中国AI Token业务加速落地，首批客户已接入"
     },
     {
      "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
@@ -2298,20 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?"
     },
     {
-     "title": "Polestar Automotive Holding reports Q3 results",
-     "link": "https://seekingalpha.com/news/4676531-polestar-automotive-holding-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:19:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Polestar Automotive Holding reports Q3 results"
-    },
-    {
-     "title": "EU postpones discussion to approve Tesla's self-driving tech",
-     "link": "https://seekingalpha.com/news/4676522-eu-postpones-discussion-to-approve-teslas-self-driving-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:19:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EU postpones discussion to approve Tesla's self-driving tech"
+     "title": "美媒：美政府正重新考虑或将伊朗高层列为打击目标",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939725778.html",
+     "pubDate": "Wed, 25 Nov 2026 20:18:23 +0800",
+     "summary": "据美国媒体24日援引消息人士的话报道，美国政府内部就可能在打击行动中将伊朗政权高层领导人列为目标重新展开讨论，以清除“强硬派人物”，从而结束战事。 美国全国广播公司新闻台当天援引一名美国官员和一名消息人士的话报道称，一些美官员认为，清除伊朗高层领导人可以证明美方有能力“随时、定点”打击其领导层，以此施压伊朗并结束战争。反对上述举措的美政府官员则认为，此举或引发伊朗方面对美政府官员的报复，还会使伊朗领导层的抵抗意志更加坚定，同时破坏为结束冲突所作的外交努力。 报道称，将伊朗高层领导人列为打击目标一直在美国政府考虑之中。随着总统特朗普重新评估下一阶段对伊朗的军事行动，相关讨论“近几周”再次升温。 ",
+     "source": "东方财富资讯",
+     "zh": "美媒：美政府正重新考虑或将伊朗高层列为打击目标"
     },
     {
      "title": "高盛：市场已替美联储“加息四次”，但沃什12月仍将继续加息",
@@ -2320,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "高盛测算，今年以来美国金融条件已收紧约100个基点，相当于美联储四次标准加息的紧缩效果，而其中几乎全部发生在9月初之后。该行首席美国经济学家David Mericle认为， 这并不足以阻止美联储在12月再度加息25个基点，他将此举称为“近乎确定”。 Mericle在最新报告《金融条件收紧对增长和美联储意味着什么》中表示，金融条件指数（FCI）今年累计收紧104.1个基点，其中上周单周就贡献逾40个基点。上周标普500指数下跌8.4%，为“解放日”以来最差单周表现，纳斯达克100指数距熊市仅一步之遥，高盛的恐慌指数升至纪录高位9.8。 尽管市场已自行完成大部分紧缩， Mericle仍预计美联储将",
      "source": "华尔街见闻",
      "zh": "高盛：市场已替美联储“加息四次”，但沃什12月仍将继续加息"
-    },
-    {
-     "title": "BullFrog AI to effect 1-for-10 reverse stock split to address Nasdaq bid-price requirement",
-     "link": "https://seekingalpha.com/news/4676527-bullfrog-ai-to-effect-1-for-10-reverse-stock-split-to-address-nasdaq-bid-price-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 07:15:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BullFrog AI to effect 1-for-10 reverse stock split to address Nasdaq bid-price requirement"
     },
     {
      "title": "楚能“造车”再布局：武汉楚界汽车悄然成立",
@@ -2346,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "硬折扣祖师爷奥乐齐，也要面对中国速度"
     },
     {
+     "title": "纳斯达克100指数期货跌幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939717862.html",
+     "pubDate": "Wed, 25 Nov 2026 20:05:55 +0800",
+     "summary": "美股 期货 持续走低，截至发稿， 纳斯达克 100指数 期货 跌幅扩大至3%，道琼斯指数 期货 跌1.32%，标普500指数期货跌1.99%。 美股存储板块盘前走低， 截至发稿， 闪迪 跌超7%， 美光科技 跌超6%， SK海力士 、 希捷科技 、 西部数据 跌超5%。",
+     "source": "东方财富资讯",
+     "zh": "纳斯达克100指数期货跌幅扩大至3%"
+    },
+    {
      "title": "AI交易信仰动摇，纳指期货跌超3%，英伟达盘前跌超4%，金银大跌，避险资金涌入美债",
      "link": "https://wallstreetcn.com/articles/3786656",
      "pubDate": "Wed, 25 Nov 2026 20:03:32 +0800",
@@ -2362,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Secondhand shopping is going mainstream this holiday season as consumers seek value"
     },
     {
-     "title": "【调研快报】爱施德接待华创证券等5家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611253939713716.html",
-     "pubDate": "Wed, 25 Nov 2026 19:59:00 +0800",
-     "summary": "爱施德 11月25日公告称， 11月24日至11月25日 接待华创证券 等5家机构 调研。 接待人员包括副总裁、董事会秘书 吴海南,投资者关系经理 陈菲菲。 公司就以下问题进行了回复： 爱施德 (股票代码:002416)成立于1998年6月,于2010年5月28日在深圳证券交易所挂牌上市。公司是国内外领先的全域销售服务商,从事以手机为核心的移动智能终端、3C数码、 通信 及增值服务和快消品的销售服务领域。公司与全球优秀手机及3C数码品牌建立了长期稳定的战略合作关系,并在快消品、数码配件等... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东",
-     "source": "东方财富股票",
-     "zh": "【调研快报】爱施德接待华创证券等5家机构调研"
-    },
-    {
-     "title": "现货白银日内跌幅扩大至3%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939713637.html",
-     "pubDate": "Wed, 25 Nov 2026 19:58:35 +0800",
-     "summary": "现货 白银 日内跌幅扩大至3%，报39.62美元/盎司。",
-     "source": "东方财富股票",
-     "zh": "现货白银日内跌幅扩大至3%"
-    },
-    {
-     "title": "GLP-1减肥药将新增视力损伤警告标签",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939713885.html",
-     "pubDate": "Wed, 25 Nov 2026 19:57:05 +0800",
-     "summary": "在美国联邦监管机构要求下， 诺和诺德 和 礼来 正准备为旗下热门 减肥药 添加一项新的警告标签。与此同时，两家公司正面临越来越多的用户诉讼。患者声称，这些药物导致了严重副作用，而药企此前未能充分提示相关风险。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "GLP-1减肥药将新增视力损伤警告标签"
-    },
-    {
-     "title": "【调研快报】常友科技接待财通基金等3家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611253939713074.html",
-     "pubDate": "Wed, 25 Nov 2026 19:57:01 +0800",
-     "summary": "常友科技 11月25日公告称， 11月25日 接待财通基金 等3家机构 调研。 接待人员包括董事会秘书 唐娜,军品运营总监、江苏常卓总经理 段俊国。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况 公司就投资者提出的问题进行了回复(为便于投资者阅读,同类问题已合并展示): 1、目前公司海风和陆风业务的收入比重是多少? 答:当前公司风电业务整体结构中,陆风相关产品收入占据主要比重。公司持续深化海风领域的产品研发与客户布局,海风配套能力稳步提升,伴... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信",
-     "source": "东方财富股票",
-     "zh": "【调研快报】常友科技接待财通基金等3家机构调研"
+     "title": "现货黄金跌破3500美元/盎司 创2025年9月以来新低",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939714127.html",
+     "pubDate": "Wed, 25 Nov 2026 19:59:59 +0800",
+     "summary": "国际现货 黄金 价格持续下挫，跌幅接近2%，跌破3500美元/盎司整数关口，创2025年9月以来新低。行情数据显示，现货 黄金 此前于2026年1月一度触及5595.44美元/盎司的历史高点，此次跌至3500美元下方，较高点累计回撤超过37%。",
+     "source": "东方财富资讯",
+     "zh": "现货黄金跌破3500美元/盎司 创2025年9月以来新低"
     },
     {
      "title": "Meta将Muse智能体接入Instagram与沃尔玛",
@@ -2402,12 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "Meta将Muse智能体接入Instagram与沃尔玛"
     },
     {
-     "title": "艾迪药业实控人及总裁拟增持1000万元至1500万元股份",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939713122.html",
-     "pubDate": "Wed, 25 Nov 2026 19:55:51 +0800",
-     "summary": "11月25日晚间， 艾迪药业 （688488）披露公告称，公司实际控制人之一、董事长傅和亮以及公司董事兼总裁张杰（以下统称“增持主体”）拟自2026年11月26日起6个月内，通过上海证券交易所交易系统允许的方式（包括但不限于集中竞价和大宗交易）增持公司股份，计划增持金额不低于1000万元（含）且不超过1500万元（含）。 对于增持股份的目的，公告显示，是基于对公司未来发展的信心和对公司长期投资价值的认可，同时为了进一步促进公司持续、稳定、健康发展，维护公司及全体股东利益，稳定市场预期，增强投资者信心。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "艾迪药业实控人及总裁拟增持1000万元至1500万元股份"
+     "title": "中东冲突推高能源成本 英国居民能源价格上限将上调26%",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939709467.html",
+     "pubDate": "Wed, 25 Nov 2026 19:50:28 +0800",
+     "summary": "当地时间周三，受中东冲突推高 天然气 批发价格影响，英国能源监管机构Ofgem宣布将明年一季度居民能源价格上限上调26%，至近四年来最高水平。明年1月起，数百万英国家庭的能源账单将大幅增加。 此次涨价将给英国首相安迪·伯纳姆带来压力。伯纳姆此前承诺解决生活成本高企问题，而能源价格上涨还可能进一步推 高通 胀。英国上月通胀率已升至一年来最高水平，燃料成本上涨是其中一个重要原因。 对于普通用量家庭而言，新的能源价格上限为每年2166英镑(约合2835美元)，较此前一个季度的价格上限提高443英镑，创2023年4月以来最高水平。 Ofgem市场事务总监尼尔·肯沃德表示：“中东冲突持续推高能源成本，我",
+     "source": "东方财富资讯",
+     "zh": "中东冲突推高能源成本 英国居民能源价格上限将上调26%"
     },
     {
      "title": "华尔街最乐观之一！德银：盈利增长叠加经济复苏，标普500明年底有望冲上9000点",
@@ -2418,68 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街最乐观之一！德银：盈利增长叠加经济复苏，标普500明年底有望冲上9000点"
     },
     {
-     "title": "AI制药终于开始省时间了",
-     "link": "https://wallstreetcn.com/articles/3786689",
-     "pubDate": "Wed, 25 Nov 2026 19:42:21 +0800",
-     "summary": "据追风交易台，摩根大通在最新发布的研报中指出，诺华在11月19日的投资者日上首次系统披露了AI在药物研发中的实际成效 ：早期药物发现周期从3至4年缩短至2.5年以内，临床研究报告的90%由AI起草，审阅时间减少25%。 这是大型药企首次以量化数据证明，AI不再只是实验室里的概念，而是开始真实地压缩研发时间与成本。摩根大通认为，这一信号对AI制药（AIDD）投资主题构成建设性支撑。 诺华管理层同时给出了审慎的一面：许多AI设计的分子仍在基础细胞测试中失败，AI尚未被证明能提升人体临床试验的成功率。11月23日， 诺华CEO Vas Narasimhan在接受CNBC采访时表示，AI有望在未来5至",
-     "source": "华尔街见闻",
-     "zh": "AI制药终于开始省时间了"
-    },
-    {
-     "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-     "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 11:27:00 GMT",
-     "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
-     "source": "MarketWatch",
-     "zh": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan"
-    },
-    {
-     "title": "“神似明星”成流量生意，肖像资产边界正被试探",
-     "link": "http://www.eeo.com.cn/2026/1125/1103016.shtml",
-     "pubDate": "Wed, 25 Nov 2026 19:13:25 +0800",
-     "summary": "11月25日，“AI融脸”一词再度登上热搜，模特七海贴出《丑狐》剧照与本人照片对比，称“我的脸已经成AI短剧里的赛博恶役了，谁来给我结算一下演出费”。这一介于撞脸与换脸之间的生成方式以及它与真人肖像权的边界，再次进入公共讨论。 就在四天前，“彭昱畅被AI融脸”登上热搜，一部职业题材AI短片中的实习生，五官、神态乃至声音与演员彭昱畅高度相似，被大量网友认为使用了“融脸”技术。当晚，彭昱畅工作室发...",
-     "source": "经济观察网",
-     "zh": "“神似明星”成流量生意，肖像资产边界正被试探"
-    },
-    {
-     "title": "香甜香蕉怎么采收？这套电动落梳刀破解采摘难题",
-     "link": "http://www.eeo.com.cn/2026/1125/1103015.shtml",
-     "pubDate": "Wed, 25 Nov 2026 19:13:23 +0800",
-     "summary": "果香清甜的香蕉，是不少广东市民日常喜爱的鲜果。很多人只看到市面上整齐完好的香蕉，却不了解香蕉采收的辛苦：传统香蕉落梳依靠人工手持刀具切割，作业强度大、耗时长，随着农村劳动力短缺问题日益凸显，用工难、用工贵，已经成为制约香蕉产业发展的一大痛点。 针对这一产业难题，广东优稀水果创新团队聚力开展农机装备攻关。这支团队覆盖...",
-     "source": "经济观察网",
-     "zh": "香甜香蕉怎么采收？这套电动落梳刀破解采摘难题"
-    },
-    {
-     "title": "马来西亚监管机构就有害内容向谷歌索赔超9亿元",
-     "link": "http://www.eeo.com.cn/2026/1125/1103014.shtml",
-     "pubDate": "Wed, 25 Nov 2026 19:13:12 +0800",
-     "summary": "中新经纬11月25日电 据路透社25日报道，马来西亚通信监管机构周三表示，已对谷歌提起多起诉讼，寻求合计6亿林吉特(约合人民币9.73亿元)的损害赔偿，指控其未能对有害内容采取充分行动。 马来西亚通信和多媒体委员会表示，谷歌作为马来西亚的重要投资者，未能在其YouTube平台上对与网络赌博、诈骗和欺诈相关的内容采取充分措施。 该监管机构在关于两份诉讼的声明中表示，索赔金额用于弥补因谷歌系统性失职，同时保障...",
-     "source": "经济观察网",
-     "zh": "马来西亚监管机构就有害内容向谷歌索赔超9亿元"
-    },
-    {
-     "title": "South Korea proposes new stablecoin rules for local bank issuance",
-     "link": "https://www.finextra.com/newsarticle/48809/south-korea-proposes-new-stablecoin-rules-for-local-bank-issuance?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 25 Nov 2026 11:10:00 GMT",
-     "summary": "South Korea’s financial regulator has announced new stablecoin rules that will allow local banks to issue won-pegged stablecoins.",
-     "source": "Finextra",
-     "zh": "South Korea proposes new stablecoin rules for local bank issuance"
-    },
-    {
-     "title": "US tech stocks set to slide further as concerns grow over durability of AI boom",
-     "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-     "pubDate": "Wed, 25 Nov 2026 11:00:47 GMT",
-     "summary": "Futures tracking the Nasdaq 100 down 3 per cent as weeks-long sell-off continues",
-     "source": "Financial Times",
-     "zh": "US tech stocks set to slide further as concerns grow over durability of AI boom"
-    },
-    {
-     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-     "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-     "pubDate": "Wed, 25 Nov 2026 11:00:01 GMT",
-     "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
-     "source": "CNBC",
-     "zh": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power"
+     "title": "现货白银14个月以来首次跌破40美元/盎司 较历史高点回落逾67%",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939705068.html",
+     "pubDate": "Wed, 25 Nov 2026 19:38:13 +0800",
+     "summary": "国际现货 白银 价格持续下挫，现货 白银 跌破40美元/盎司关口，日内跌幅进一步扩大至2.39%，创2025年9月以来最低水平。此前 白银 价格一度升至121.65美元/盎司的历史高点，按此计算，目前较高点累计回落逾67%。",
+     "source": "东方财富资讯",
+     "zh": "现货白银14个月以来首次跌破40美元/盎司 较历史高点回落逾67%"
     }
    ]
   },

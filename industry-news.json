@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 12:11:51",
+ "generated_at": "2026/11/25 12:31:52",
  "recent_days": 7,
  "industries": [
   {
@@ -945,12 +945,12 @@
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1185,6 +1185,14 @@
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
+     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
+     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+     "source": "BioPharma Dive",
+     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
+    },
+    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1215,6 +1223,14 @@
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
+    },
+    {
+     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
+     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
+     "source": "BioPharma Dive",
+     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1263,22 +1279,6 @@
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
-    },
-    {
-     "title": "FDA again turns back Capricor Duchenne cell therapy",
-     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
-     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
-     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
-     "source": "BioPharma Dive",
-     "zh": "FDA again turns back Capricor Duchenne cell therapy"
-    },
-    {
-     "title": "Will the first approved psychedelic become a blockbuster?",
-     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
-     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
-     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
-     "source": "BioPharma Dive",
-     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+     "pubDate": "Wed, 25 Nov 2026 15:00:00 GMT",
+     "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+     "source": "Dark Reading",
+     "zh": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'"
+    },
+    {
      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
      "pubDate": "Tue, 24 Nov 2026 22:41:58 +0000",
@@ -1721,14 +1729,6 @@
      "zh": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal"
     },
     {
-     "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-     "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-     "pubDate": "Mon, 23 Nov 2026 20:13:48 GMT",
-     "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
-     "source": "Dark Reading",
-     "zh": "US Cyber Director Pick Signals Shift Toward Expertise"
-    },
-    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
@@ -1744,6 +1744,38 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "AI“越界”之后，谁要为后果买单？",
+     "link": "https://www.huxiu.com/article/4908297.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:17:16 +0800",
+     "summary": "本文来自微信公众号： RUC新闻坊 ，作者：人大新闻系 1942年，科幻作家艾萨克·阿西莫夫提出“机器人三定律”，试图用预设规则约束机器人的行为，驱散“弗兰肯斯坦情结”，即造物反噬造物主的古老恐惧。但三定律非但未能构建绝对安全，反而在复杂现实中屡屡陷入逻辑死结。 八十多年后，科幻的预言在现实中上演。 在美国，Anthropic的AI智能体在测试时访问费城警方网站，提交了一份并无真实依据的谋杀案件线索。[1]在德国，一组与OpenAI关联的AI智能体对一个名为“DseWiki”的德语编程维基网站进行了超过15000次编辑，尽管它们被分配的任务仅限于“只读”或网页浏览，且明确被禁止发布任何内容，但",
+     "source": "虎嗅",
+     "zh": "AI“越界”之后，谁要为后果买单？"
+    },
+    {
+     "title": "Sources: US intelligence officials told congressional aides Alice Huang wasn&apos;t directed by China&apos;s MSS on Jensen Huang affair, but may have passed intel to MSS (New York Times)",
+     "link": "https://www.techmeme.com/261124/p52#a261124p52",
+     "pubDate": "Tue, 24 Nov 2026 23:15:01 -0500",
+     "summary": "New York Times : Sources: US intelligence officials told congressional aides Alice Huang wasn't directed by China's MSS on Jensen Huang affair, but may have passed intel to MSS &nbsp; &mdash;&nbsp; After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aid",
+     "source": "Techmeme",
+     "zh": "Sources: US intelligence officials told congressional aides Alice Huang wasn&apos;t directed by China&apos;s MSS on Jensen Huang affair, but may have passed intel to MSS (New York Times)"
+    },
+    {
+     "title": "从肉联厂到300亿帝国，如今却将易主：一代“火腿肠大王”，为何突然退场？",
+     "link": "https://www.huxiu.com/article/4908295.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:12:03 +0800",
+     "summary": "本文来自微信公众号： 深氪新消费 ，作者：朱末 这是深氪新消费第2332期分享： 这场待交割的交易背后，到底是激流勇退的明智选择，还是无路可退的被动妥协？ “比一比，尝一尝，金锣火腿肠。” 这句广告语，曾经和绿皮车厢里的泡面味绑在一起，构成了几亿中国人的旅途记忆。然而，时过境迁，泡面还在，火车变成了高铁，但这根肠的主人，却要换人了。 就在近期，据多家媒体披露，德弘资本已就收购金锣签署意向文件，交易金额约20亿美元，折合人民币超过133亿元。消息一出，舆论哗然，毕竟金锣一直稳定供货、货架常在，创始人周连奎更是放话2030年营收要做到600亿，怎么突然就走到了出售核心资产这一步？ 外界对金锣的认知",
+     "source": "虎嗅",
+     "zh": "从肉联厂到300亿帝国，如今却将易主：一代“火腿肠大王”，为何突然退场？"
+    },
+    {
+     "title": "日本抓鬼、美国驱魔、欧洲揍撒旦，“中国道士”在AI短剧里杀疯了",
+     "link": "https://www.huxiu.com/article/4908294.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:09:53 +0800",
+     "summary": "本文来自微信公众号： 新榜 ，作者：云飞扬1993，编辑：张洁 全欧洲最好的驱魔师一夜覆灭，梵蒂冈也岌岌可危。危机当头，欧洲人终于想起了那个唯一有可能解决困境的男人——天师道民间传人、地表最强驱魔师阿文。 你没看错，在如今的AI短剧里，中国道士除了求仙问道修长生，还得忙着在日韩欧美斗邪魔、灭鬼怪，化身新时代超级英雄。阿文正是最近走红的AI道士短剧《异邪录》中的主角。 《异邪录》讲述了中国驱魔大神阿文和女徒弟阿宜远赴欧洲，解决撒旦危机的奇幻故事。凭借新奇的设定，以及颇具电影质感的画面镜头，截至发稿前，《异邪录》仅发布4集就在抖音收获5179万播放量。 今年以来，AI短剧圈已经跑出了萌娃、精神小妹",
+     "source": "虎嗅",
+     "zh": "日本抓鬼、美国驱魔、欧洲揍撒旦，“中国道士”在AI短剧里杀疯了"
+    },
     {
      "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
      "link": "https://www.ithome.com/1/032/062.htm",
@@ -1775,6 +1807,14 @@
      "summary": "我们做北美独立站宠物用品，团队6人，月流水约8万美元，复购率从去年Q4的31%掉到现在的22%。去年底起Gmail和Yahoo对批量发件人执行更严格的退订与投诉率要求后，我们按提示补了SPF、DKIM、DMARC，也把沉睡90天以上的名单做了清理，但打开率还是从28%降到17%，二次购买邮件几乎没转化。现在卡在订阅入口：弹窗收集的邮箱里有不少是勾了营销同意但没走双重订阅的，担心继续发会拉高投诉率影响域名声誉，改成双重订阅又怕名单增长直接腰斩。想问问在北美做独立站的同行，这个合规和增长的平衡点你们是怎么定的？",
      "source": "白鲸出海",
      "zh": "北美独立站邮件营销复购率跌了，新规下双重订阅还能怎么合规做？"
+    },
+    {
+     "title": "白葡萄酒十年翻番：年轻人占六成，价格掉到60元",
+     "link": "https://www.huxiu.com/article/4908293.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:04:04 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 晚上十一点半，成都一间二十平米的出租屋，一个25岁的女生在手机上下单了一瓶冰好的长相思。 三十分钟后酒送到，附赠一枚开瓶器。 她不打算醒酒，也不关心这瓶酒的年份。 美团闪购的数据显示，深夜十一点到凌晨三点，酒饮订单同比增长超过三成，占全部订单的近两成。 十年前，一瓶葡萄酒在中国最典型的出场方式，是圆桌、转盘和一句“我敬您”。 现在它出现在冰柜里、外卖袋里、露营桌上。 变的不是酒的颜色，是喝酒这件事由谁说了算。 ⑴一瓶白葡萄酒，十年从一成走到三成 北京农学院李德美教授团队在2012年前后做过一次调研，结论是中国红白葡萄酒的消费比例约为9比1。 这个",
+     "source": "虎嗅",
+     "zh": "白葡萄酒十年翻番：年轻人占六成，价格掉到60元"
     },
     {
      "title": "B轮价抢天使轮，投资人“疯狂发牌”",
@@ -1817,36 +1857,20 @@
      "zh": "2026年的港股消费三姐妹，败给了纯过日子时代"
     },
     {
-     "title": "这届网友，开始偷偷修炼土象人格？",
-     "link": "https://www.huxiu.com/article/4908290.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 11:51:45 +0800",
-     "summary": "本文来自微信公众号： 印客美学 ，作者：小印 上半年，人人还对土象避之不及，没想到下半年，土象打了个翻身仗，成为地表最狠人设。 土象星座全网爆火 《后会友期》的播出让土象狠狠火了一把。 所谓土象，指的是金牛、处女和摩羯三个星座的人；水象是巨蟹、天蝎、双鱼；风象是双子、天秤、水瓶；而火象就是白羊、狮子、射手。 因为上《后会友期》的这8个人没有一个是土象，全场仅有的两位土象，是作为嘉宾坐在观察室里看热闹。 当水象的双鱼在节目里恨海情天，为十年前的误会互相红眼时，土象只会说“这事已经过去了，没必要”。 大家研究了一番之后，发现土象确实有点东西。 在感情上，主打一个好聚好散，不会跟人反复纠缠、互猜心思",
-     "source": "虎嗅",
-     "zh": "这届网友，开始偷偷修炼土象人格？"
-    },
-    {
      "title": "世界模型变天了",
      "link": "https://www.tmtpost.com/8216357.html",
-     "pubDate": "Wed, 25 Nov 2026 11:49:48 +0800",
+     "pubDate": "Wed, 25 Nov 2026 11:49:00 +0800",
      "summary": "争抢定义“什么是好的世界模型”。",
      "source": "钛媒体",
      "zh": "世界模型变天了"
     },
     {
-     "title": "语音厅为什么成了全世界最不欢迎AI的地方？",
-     "link": "https://www.huxiu.com/article/4907853.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 11:43:49 +0800",
-     "summary": "语音厅成了全世界最反感AI的地方，连点歌都要加一句&ldquo;把歌词改成啦啦啦&rdquo;，防止AI假唱潜入。AI让人越来越难分辨自己在听的究竟是不是一个人，陪伴感和情绪价值被稀释，幻梦一夜醒来。用没用AI无法自证，语音厅的幻梦正在崩塌。",
-     "source": "虎嗅",
-     "zh": "语音厅为什么成了全世界最不欢迎AI的地方？"
-    },
-    {
-     "title": "水井坊五年员工持股到期，55元成本只剩46%",
-     "link": "https://www.huxiu.com/article/4908277.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 11:40:38 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清 水井坊历时五年的2021年员工持股计划，在2026年11月24日画上了句号。 除未解锁部分已由公司回购注销外，其余已解锁股票通过集中竞价全部售出，计划正式到期终止。 五年前，市场把它看作高端化与留人的工具；此后的报道多停留在届满或浮亏。 五年履约记录摊开，有几个事实并排在一块儿。 公司层面的两期业绩考核全部达标过关； 个人层面却有近两成份额因离职或考核未达标，被公司按原价收回注销； 而在计划终止当日，水井坊收盘价停在25.06元（据搜狐证券行情数据），相比五年前55.00元/股的员工受让价，到期日账面价值只剩下45.56%。 一份考核通关的激励计划",
-     "source": "虎嗅",
-     "zh": "水井坊五年员工持股到期，55元成本只剩46%"
+     "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+     "pubDate": "Wed, 25 Nov 2026 03:47:42 +0000",
+     "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 14 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Marginalia Search, Money, C++, Rust, AI, Stuff"
     },
     {
      "title": "传音应用商店在尼日利亚的CPA涨到0.42美元，还要不要继续投？",
@@ -1865,18 +1889,18 @@
      "zh": "手机、汽车、AI，小米需要一场新的增长接力"
     },
     {
-     "title": "想抠门买大牌的中国中产，被美国折扣零售巨头TJX“战略性忽视”了？",
-     "link": "https://www.huxiu.com/article/4908285.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 11:31:53 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：何文顾 CK衣服两折、拉夫劳伦衬衫三折、古驰围巾五折……今年8月，美国最大的“软折扣大牌零售商”TJX宣布将加速全球开店，目标是使存量+新增店铺达到7500家（目前5000多家），重点开拓欧洲、北美、澳洲，但计划里暂时没有折扣经济正迎来风口的中国。 原因之一被分析为，中国电商竞争太激烈，中国消费者已对“天天持续的打折”心生麻痹。 霉霉也爱来这里“捡垃圾” 无论是国内的小红书，还是海外的社交媒体，TJX集团旗下、知名度最高的软折扣零售店T.J.Maxx，是一个热门的购物打卡地。 这里集满轻奢手袋、服饰、家居大牌新品尾货或库存。据说国内时下被称为中产三宝",
-     "source": "虎嗅",
-     "zh": "想抠门买大牌的中国中产，被美国折扣零售巨头TJX“战略性忽视”了？"
+     "title": "A faster algorithm for extracting hexadecimal digits of π",
+     "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+     "pubDate": "Wed, 25 Nov 2026 03:28:42 +0000",
+     "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A faster algorithm for extracting hexadecimal digits of π"
     },
     {
      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
      "pubDate": "Wed, 25 Nov 2026 03:28:06 +0000",
-     "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 10 # Comments: 4",
      "source": "Hacker News",
      "zh": "Serving Qwen via AWS Lambdas for fun and 80x negative profit"
     },
@@ -1884,7 +1908,7 @@
      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
      "link": "https://buttons.joshwcomeau.com/",
      "pubDate": "Wed, 25 Nov 2026 03:23:07 +0000",
-     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 43 # Comments: 3",
      "source": "Hacker News",
      "zh": "Button Sounds – collection of professionally-recorded button clicks and presses"
     },
@@ -1905,36 +1929,20 @@
      "zh": "阿联酋独立站拒付率1.8%，只有半个运营盯支付，该先补人还是先换通道？"
     },
     {
+     "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+     "link": "https://vcarl.com/sashay/",
+     "pubDate": "Wed, 25 Nov 2026 03:10:18 +0000",
+     "summary": "Article URL: https://vcarl.com/sashay/ Comments URL: https://news.ycombinator.com/item?id=50637936 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)"
+    },
+    {
      "title": "Macrohistory in Six Facts",
      "link": "https://basilhalperin.com/essays/macrohistory.html",
      "pubDate": "Wed, 25 Nov 2026 03:04:46 +0000",
-     "summary": "Article URL: https://basilhalperin.com/essays/macrohistory.html Comments URL: https://news.ycombinator.com/item?id=50637891 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://basilhalperin.com/essays/macrohistory.html Comments URL: https://news.ycombinator.com/item?id=50637891 Points: 11 # Comments: 0",
      "source": "Hacker News",
      "zh": "Macrohistory in Six Facts"
-    },
-    {
-     "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-     "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-     "pubDate": "Wed, 25 Nov 2026 03:04:37 +0000",
-     "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 4 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native"
-    },
-    {
-     "title": "Lua for Data Representation",
-     "link": "https://citrons.xyz/journal/2025-07-23",
-     "pubDate": "Wed, 25 Nov 2026 03:04:12 +0000",
-     "summary": "Article URL: https://citrons.xyz/journal/2025-07-23 Comments URL: https://news.ycombinator.com/item?id=50637888 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Lua for Data Representation"
-    },
-    {
-     "title": "I've been drinking wine in my kitchen",
-     "link": "https://scottaaronson.blog/?p=10362",
-     "pubDate": "Wed, 25 Nov 2026 03:02:10 +0000",
-     "summary": "Article URL: https://scottaaronson.blog/?p=10362 Comments URL: https://news.ycombinator.com/item?id=50637874 Points: 8 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "I've been drinking wine in my kitchen"
     },
     {
      "title": "GPSR 责任人信息卡在德国清关，货代要求补欧代但后台已填，到底谁的问题？",
@@ -1975,14 +1983,6 @@
      "summary": "我们做印度市场短剧，今年 3 月上线，现在月流水刚过 8 万美元，内容团队 6 个人：2 个编导、2 个剪辑、1 个字幕、1 个运营。主打印地语，但测试发现泰米尔语和泰卢固语用户的完播率比印地语高 12 个百分点，老板要求每条剧集都出印地语、泰米尔语、泰卢固语三版字幕加两版配音。现在一条 60 集的项目，字幕环节要压 9 天，剪辑已经排到 45 天后，上周因为泰米尔语字幕延迟，整批上线推迟了 4 天。试过外包字幕给本地自由译者，返稿质量不稳，一条要改 3 轮。也试过先上印地语、方言版后补，结果方言用户次日留存掉到 21%。人手就这么多，是砍剧集数量保方言覆盖，还是先把方言配音改成字幕、把排期压",
      "source": "白鲸出海",
      "zh": "印度方言短剧每条要配 4 种字幕，6 人内容团队这个排期怎么排才不崩？"
-    },
-    {
-     "title": "被红果改写的Q3财报季",
-     "link": "https://www.tmtpost.com/8216958.html",
-     "pubDate": "Wed, 25 Nov 2026 09:38:10 +0800",
-     "summary": "二线大厂的冬天：砍成本，赌AI",
-     "source": "钛媒体",
-     "zh": "被红果改写的Q3财报季"
     }
    ]
   },
@@ -2241,12 +2241,52 @@
    "total": 13,
    "items": [
     {
+     "title": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027",
+     "link": "https://seekingalpha.com/news/4676426-goodrx-signals-844m-850m-2026-revenue-outlook-while-expecting-lower-pharma-direct-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 23:22:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027"
+    },
+    {
+     "title": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post",
+     "link": "https://seekingalpha.com/news/4676425-trump-says-a-pardon-for-jensen-huang-was-always-an-option-ny-post?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 23:17:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post"
+    },
+    {
+     "title": "A股午评：超2600只个股飘绿，三大指数集体收跌；零售、教育、制药上涨；半导体领跌，汽车、券商下跌，GPU、光刻机、物理AI走低",
+     "link": "http://www.eeo.com.cn/2026/1125/1102066.shtml",
+     "pubDate": "Wed, 25 Nov 2026 12:13:32 +0800",
+     "summary": "中新经纬11月25日电 25日，A股三大指数低开后低位运行。截至午间收盘，沪指跌1.01%，深证成指跌1.19%，创业板指跌1.72%。 全市半日成交额7689.6亿元，超2600只个股下跌。 板块方面，零售、教育、餐饮旅游、制药、水务、钢铁等上涨；水产、流感、免税店、首发经济、冰雪旅游、疫苗等概...",
+     "source": "经济观察网",
+     "zh": "A股午评：超2600只个股飘绿，三大指数集体收跌；零售、教育、制药上涨；半导体领跌，汽车、券商下跌，GPU、光刻机、物理AI走低"
+    },
+    {
+     "title": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin",
+     "link": "https://seekingalpha.com/news/4676424-workday-outlines-11-percent-fy-28-subscription-revenue-growth-while-targeting-at-least-33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 23:12:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin"
+    },
+    {
      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
      "pubDate": "Wed, 25 Nov 2026 04:06:01 GMT",
      "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
      "source": "CNBC",
      "zh": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast"
+    },
+    {
+     "title": "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%",
+     "link": "https://wallstreetcn.com/articles/3786653",
+     "pubDate": "Wed, 25 Nov 2026 12:05:17 +0800",
+     "summary": "11月25日，A股A股在隔夜美股科技股\"一日游\"式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%，算力硬件局部活跃，光模块龙头“易中天”走高，天孚通信大涨超11%。零售、餐饮旅游等大消费活跃。半导体产业链陷入调整，GPU、先进封装、光刻机等概念股下跌。 港股早盘冲高回落，恒指、恒科指双双上涨，恒科指盘初一度涨2%，临近午盘再度回落，权重科网股多数反弹，小米涨4%，京东涨5%，哔哩哔哩拉升近10%。半导体下挫，华虹宏力跌超13%。光模块、光纤、AI大模型股均调整。债市方面，国债期货普遍下跌。商品方面，国内商品方面多数下跌，贵金属期货跌幅居前，跟随隔夜国际黄金的跌",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%"
     },
     {
      "title": "Autodesk raises fiscal 2027 billings midpoint to $8.625B as it targets 41% non-GAAP operating margin in fiscal 2029",
@@ -2284,7 +2324,7 @@
      "title": "国产JEEP首款车型2027年推出 搭载Momenta高阶智驾",
      "link": "http://finance.eastmoney.com/news/1354,202611253939397660.html",
      "pubDate": "Wed, 25 Nov 2026 11:52:54 +0800",
-     "summary": "记者获悉，JEEP品牌未来三年将在华推出多款车型，产品价格从入门级到主流市场，并延伸至 豪华 产品赛道；动力方面则形成燃油、插混及纯电的布局。按照计划，其首款车型将于2027年推出，目前设计已锁定，搭载Momenta全地形高阶 智能驾驶 系统。此前， Stellantis集团 与东风集团签署战略合作协议。根据协议，双方于2027年起在武汉工厂投产两款面向全球市场的JEEP品牌 新能源 产品。 （文章来源：财联社）",
+     "summary": "财联社记者获悉，Jeep品牌未来三年将在华推出多款车型，产品价格从入门级到主流市场，并延伸至 豪华 产品赛道；动力方面则形成燃油、插混及纯电的布局。按照计划，其首款车型将于2027年推出，目前设计已锁定，搭载Momenta全地形高阶 智能驾驶 系统。此前， Stellantis集团 与东风集团签署战略合作协议。根据协议，双方于2027年起在武汉工厂投产两款面向全球市场的JEEP品牌 新能源 产品。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "国产JEEP首款车型2027年推出 搭载Momenta高阶智驾"
     },
@@ -2351,6 +2391,14 @@
      "summary": "A股三大指数集体下跌，创业板指跌逾1.7%，科创50指数跌逾2.5%。盘面上， 渔业 、 一般零售 、 酒店餐饮 、 医药商业 、 教育 、 旅游及景区 走强， 光刻机 、 高带宽内存 、 中芯概念 、 电子 化学品、 半导体 、 存储芯片 表现不佳，领跌市场。 截至午间收盘，沪指下跌1.01%，报3512.66点；深成指下跌1.19%，报10300.00点；创业板指下跌1.72%，报2239.89点；科创50指数下跌2.58%，报1217.79点；北证50指数下跌1.34%，报782.97点。全市场上涨个股有2824家，下跌个股有2626家，68只股涨停。两市半日合计成交7631亿。 今日要",
      "source": "东方财富资讯",
      "zh": "沪指下跌1.01% 渔业、零售板块走强 两市半日缩量超3500亿"
+    },
+    {
+     "title": "黄金对冲由亏转盈，周大福账面利润翻倍",
+     "link": "https://wallstreetcn.com/articles/3786659",
+     "pubDate": "Wed, 25 Nov 2026 11:27:39 +0800",
+     "summary": "11月24日，周大福（ 1929.HK ）发布截至2026年9月30日止六个月的中期业绩。 期内营业额442.63亿港元，同比增长13.5%。 股东应占溢利50.34亿港元，同比大增98.7%，每股基本盈利由0.26港元升至0.51港元。 董事会宣派中期股息每股0.35港元，派息率约68.6%。 账面净利润与主营经营表现出现分化。同期经营溢利55.79亿港元，同比下降18.2%。 毛利率由30.5%收窄至25.6%，降了4.9个百分点。 净利润与经营溢利走势相反，主因是黄金借贷合约重估产生的会计损益。 财报显示，黄金借贷合约重估期内录得公允值收益13.36亿港元，上年同期为亏损31.43亿港元",
+     "source": "华尔街见闻",
+     "zh": "黄金对冲由亏转盈，周大福账面利润翻倍"
     },
     {
      "title": "AI制药迎强力加持？GPT-6展现蛋白质设计能力 无需调用垂直模型",
@@ -2431,54 +2479,6 @@
      "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
      "source": "CNBC",
      "zh": "Houthi attack on Saudi Arabian sovereign wealth fund PIF&apos;s tower injures 11"
-    },
-    {
-     "title": "网警查处两起不履行网络安全、数据安全保护义务案",
-     "link": "http://www.eeo.com.cn/2026/1125/1101831.shtml",
-     "pubDate": "Wed, 25 Nov 2026 10:30:45 +0800",
-     "summary": "公安机关深入开展“护网—2026”专项工作，全力强化网络空间安全保护和综合治理。近期，公安网安部门依法查处两起不履行网络安全保护义务、不履行数据安全保护义务案。",
-     "source": "经济观察网",
-     "zh": "网警查处两起不履行网络安全、数据安全保护义务案"
-    },
-    {
-     "title": "日经225指数跌幅扩大至3.15%",
-     "link": "http://www.eeo.com.cn/2026/1125/1101817.shtml",
-     "pubDate": "Wed, 25 Nov 2026 10:26:10 +0800",
-     "summary": "11月25日9时53分，日经225指数跌幅扩大至3.15%，现报56796.67点。",
-     "source": "经济观察网",
-     "zh": "日经225指数跌幅扩大至3.15%"
-    },
-    {
-     "title": "AI行情再起波澜！日韩芯片股集体大跌 韩股再次“熔断”",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939358941.html",
-     "pubDate": "Wed, 25 Nov 2026 10:12:00 +0800",
-     "summary": "本周三，受隔夜美股科技股回调影响，市场对AI板块行情的担忧再度升温， 亚太科技 股集体下挫，日韩 半导体 板块领跌。 周三早间，韩国KOSPI指数开盘下跌3.94%，报4809点。韩国市场开盘几分钟后，韩国交易所对KOSPI指数启动侧车机制，程序化交易暂停5分钟。 截至发稿，三星 电子 大跌超7%， SK海力士 跌近10%。其他韩国科技股同步走弱：LG Innotek跌6.15%，LG Display跌4.09%。 SK海力士 低开低走 日本日经225指数同样低开低走，截至发稿指数跌幅已经扩大至2.66%。 日经225指数周三走势 全球AI供应链相关的日本 半导体 个股跌幅居前。截至发稿， 英",
-     "source": "东方财富资讯",
-     "zh": "AI行情再起波澜！日韩芯片股集体大跌 韩股再次“熔断”"
-    },
-    {
-     "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-     "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
-     "pubDate": "Wed, 25 Nov 2026 02:09:45 GMT",
-     "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
-     "source": "CNBC",
-     "zh": "Trump open to pardoning Jensen Huang if needed: NY Post"
-    },
-    {
-     "title": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给",
-     "link": "https://wallstreetcn.com/articles/3786651",
-     "pubDate": "Wed, 25 Nov 2026 10:05:57 +0800",
-     "summary": "闪迪管理层在最新投资者交流会上释放强烈积极信号，对AI驱动的闪存需求前景保持高度乐观，并重申此前提出的约1.2泽字节（ZB）AI数据中心NAND市场规模预测\"毫无下行风险\"。 追风交易台消息，11月23日，花旗Michael Cadiz发表闪迪的投资者会议纪要解读，此次会议由闪迪执行副总裁兼首席产品官Khurram Ismail及投资者关系团队参与，通过线上形式与机构投资者交流。 闪迪执行副总裁兼首席产品官Khurram Ismail指出， 直连存储、KV缓存及高性能数据湖三大AI存储机会均处于健康增长态势 ，客户资质认证、设计导入及部署进展持续验证需求趋势。 与此同时，管理层强调 高带宽闪存",
-     "source": "华尔街见闻",
-     "zh": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给"
-    },
-    {
-     "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
-     "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
-     "pubDate": "Wed, 25 Nov 2026 02:04:15 GMT",
-     "summary": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
-     "source": "Financial Times",
-     "zh": "Will the Nvidia fallout kill off Asia’s data centre boom?"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 08:12:00",
+ "generated_at": "2026/11/25 08:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+     "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+     "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
+     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+     "source": "TechCrunch AI",
+     "zh": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion"
+    },
     {
      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
      "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
@@ -55,14 +63,6 @@
      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
      "source": "TechCrunch AI",
      "zh": "Maple raises $5.3M to build AI products that protect your data, even from itself"
-    },
-    {
-     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-     "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
-     "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-     "source": "TechCrunch AI",
-     "zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
     },
     {
      "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
@@ -945,12 +945,12 @@
      "zh": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric."
     },
     {
-     "title": "TVA touts $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA announces $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
+     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1185,14 +1185,6 @@
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
-     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
-     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-     "source": "BioPharma Dive",
-     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1223,14 +1215,6 @@
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
-    },
-    {
-     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
-     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-     "source": "BioPharma Dive",
-     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1279,6 +1263,22 @@
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
+    },
+    {
+     "title": "FDA again turns back Capricor Duchenne cell therapy",
+     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
+     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+     "source": "BioPharma Dive",
+     "zh": "FDA again turns back Capricor Duchenne cell therapy"
+    },
+    {
+     "title": "Will the first approved psychedelic become a blockbuster?",
+     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
+     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+     "source": "BioPharma Dive",
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1753,6 +1753,70 @@
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "造，还是投降？欧洲的AI路在何方？",
+     "link": "https://www.huxiu.com/article/4908205.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 08:19:43 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：AI研究组 日前，欧洲AI的旗手、Mistral AI的CEO Arthur Mensch发了一篇檄文，标题三个词： Build or surrender。 造，或者投降。 就在不久前，他自己的亲客户刚把他换掉—— 弃用Mistral，改用一批跑在欧洲服务器上的开源模型，Qwen、GLM、Kimi。 哦，顺便把成本砍掉了一半。 Mistral AI的CEO Arthur Mensch 布鲁塞尔尴尬极了。 因为这件事情的前几天，Politico报道，欧盟正把重心从“造最先进的模型”挪向“把现成技术铺进经济”。 前面吹冲锋号，后面在商量换防。 其实",
+     "source": "虎嗅",
+     "zh": "造，还是投降？欧洲的AI路在何方？"
+    },
+    {
+     "title": "香港徒步乱扔垃圾，当场被罚3000元",
+     "link": "https://www.huxiu.com/article/4908204.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 08:16:00 +0800",
+     "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《香港徒步乱扔垃圾，当场被罚3000元！》 今年五一，香港西贡咸田湾营地，一名露营者饭后到公厕外洗锅，把没吃完的汤面等食物残渣随手倒掉，被渔护署职员当场查获，收到一张3000港元的定额罚款告票。 记者问他的同行者，“自己垃圾自己带走”宣传得够不够？对方回答：“我觉得很可笑，我交钱不就行了吗？他有没有权利不带走垃圾，有没有？你可以叫警察来给他抓走。” 接着，他又说：“只是知道不能吸烟，公共场所不能吸烟，刚才来这儿不是问了（渔护署职员）吗？问他能不能吸，他说可以吸。”说完，对着镜头吸烟。 麦理浩径全长100公里，分十段。近年在社交平台走红，万",
+     "source": "虎嗅",
+     "zh": "香港徒步乱扔垃圾，当场被罚3000元"
+    },
+    {
+     "title": "Workday reports Q3 revenue up 11% YoY to $2.71B, above $2.69B est., forecasts Q4 subscription revenue of $2.6B, below $2.61B est.; WDAY drops 6%+ after hours (Duncan Riley/SiliconANGLE)",
+     "link": "https://www.techmeme.com/261124/p46#a261124p46",
+     "pubDate": "Tue, 24 Nov 2026 19:15:58 -0500",
+     "summary": "Duncan Riley / SiliconANGLE : Workday reports Q3 revenue up 11% YoY to $2.71B, above $2.69B est., forecasts Q4 subscription revenue of $2.6B, below $2.61B est.; WDAY drops 6%+ after hours &nbsp; &mdash;&nbsp; Shares of human resources and finance software company Workday Inc. fell more than 7% in la",
+     "source": "Techmeme",
+     "zh": "Workday reports Q3 revenue up 11% YoY to $2.71B, above $2.69B est., forecasts Q4 subscription revenue of $2.6B, below $2.61B est.; WDAY drops 6%+ after hours (Duncan Riley/SiliconANGLE)"
+    },
+    {
+     "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+     "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+     "pubDate": "Wed, 25 Nov 2026 00:10:27 +0000",
+     "summary": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need to use.",
+     "source": "TechCrunch",
+     "zh": "Trump reportedly says pardoning Jensen Huang is ‘an option’"
+    },
+    {
+     "title": "美国众议院发布《美国处方》：全力限制中国创新药",
+     "link": "https://www.huxiu.com/article/4908202.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 08:10:12 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：姚敬 2026年11月23日，美国众议院美中战略竞争特别委员会发布了一份名为《Prescription America：How To Protect Americans from a Dangerous Dependence on China for Their Medicines（美国处方：如何保护美国人在药品上免受对中国的危险依赖）》的调查报告。报告的核心观点是：保护美国生物技术的领导地位和生态，全力限制中国创新药。 报告封面，图源美国政府官网 时钟拨回5个月前的6月份，该委员会就已经向默沙东、礼来、艾伯维、辉瑞和BMS发出调查函，函中逐家列出了试验清",
+     "source": "虎嗅",
+     "zh": "美国众议院发布《美国处方》：全力限制中国创新药"
+    },
+    {
+     "title": "甲方IT 招不到优秀的人，真的一点都不奇怪",
+     "link": "https://www.huxiu.com/article/4908201.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 08:08:36 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《甲方 IT 招不到优秀的人，真的一点都不奇怪》 在甲方担任IT总监的时候，最让我痛苦的事情，就是招聘。 曾经有一次，一个候选人放我鸽子后，又重新找到HR，说愿意入职。 按我的招聘习惯，这种放鸽子的候选人，短期内一般不会再考虑。 但当时项目已经启动，又迟迟招不到人，于是我同意了她入职。 结果，她又第二次放了我鸽子。 老实说，我心底还是挺沮丧的。但是，我也理解她。 她当时在一家大型IT公司，虽然要出差，但是收入颇高。 来到甲方IT，收入肯定会降低一大截。 这种落差，并不是每个人都能接受的。 所以，甲方IT招不到优秀人才，真的一点都不奇",
+     "source": "虎嗅",
+     "zh": "甲方IT 招不到优秀的人，真的一点都不奇怪"
+    },
+    {
+     "title": "脑机接口的下半场，由硬科技开场",
+     "link": "https://www.huxiu.com/article/4908200.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 08:08:31 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：动脉网 “我们正试图把脑机接口引入具身智能的数据链条中。” “近期有很多硬科技产业资本在联系我们，我们也在重点寻找一些产业资本的合作。” 进入2026年，国内脑机接口越来越喜欢用“硬科技”来介绍自己正在做的事。 它们开始强调底层技术与平台能力，并纷纷奔赴“脑电大模型”“具身智能”与“下一代人机交互入口”的新战场。 那么，是什么，驱使着它们向硬科技方向靠拢？ 01 硬科技，到底有何吸引力？ 脑机接口企业向硬科技靠拢的首要原因是技术积累到一定阶段后的水到渠成。 一方面，近年来AI的飞速发展让脑机接口也有了实实在在的“价值获益”。天津大学与清华大学全球首创的“双",
+     "source": "虎嗅",
+     "zh": "脑机接口的下半场，由硬科技开场"
+    },
+    {
      "title": "时隔约 3 年苹果 Product (RED) 系列重出江湖，红色 AirPods 腕带、AirTag 等有望下月登场",
      "link": "https://www.ithome.com/1/031/920.htm",
      "pubDate": "Wed, 25 Nov 2026 00:03:50 GMT",
@@ -1785,44 +1849,12 @@
      "zh": "微软承认 Win11 系统自带应用曾悄悄占用近 900MB 内存，如今已优化"
     },
     {
-     "title": "硅基打工人，悄悄占领全国5A景区",
-     "link": "https://www.huxiu.com/article/4908192.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 07:56:54 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 30家机器人大厂，把景区当成新手村。 01 月初，我在香港出差，晚上从九龙香格里拉出来，走到维港海边时，发现路旁的小店被游客围了起来。 不少人把手机举过前排的肩膀，镜头却并非朝着海对岸的灯光夜景。 我凑过去看，玻璃后面的机器人正伸长手臂，从货架上取下茶饮，当它转身把饮料送往取货口，旁边几部手机跟着缓缓移动，生怕漏掉哪个动作。 香港维港机器人茶饮店/旅界实拍 一对老外情侣刚放下手机，见它又动起来，赶紧重新按下录像，旁边的内地父母熟练地扫码下单，顺便给身边的孩子上起户外人工智能科普课。 颇具幽默感的是货架中间贴着张白纸告示，特意提醒游客，它",
-     "source": "虎嗅",
-     "zh": "硅基打工人，悄悄占领全国5A景区"
-    },
-    {
-     "title": "ALO的稀缺性，在开店前就用完了",
-     "link": "https://www.huxiu.com/article/4908198.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 07:49:00 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈碧婷 11月20日，上海淮海中路1008号“阳光之境·ALO淮海限时体验空间”正式开业。三层空间、超过1114平方米，是ALO迄今为止在中国内地摆出的最大阵仗。 如果把时间往回拨，10月1日，上海张园限时体验空间揭幕；9月25日，香港K11 MUSEA旗舰店开业，首周销售额近2000万港元；8月，天猫官方旗舰店上线，一分钟成交额破1000万元。这个被视为“Lululemon头号对手”的品牌，正在中国市场加速布局。 节奏很像当年的Lululemon，可环境早已不是当年的环境了。 贴着Lululemon开店 2007年，ALO正式在美国洛杉矶创立。彼时，L",
-     "source": "虎嗅",
-     "zh": "ALO的稀缺性，在开店前就用完了"
-    },
-    {
-     "title": "困在手机弹窗里的人：听不到，看不清，关不掉",
-     "link": "https://www.huxiu.com/article/4908193.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 07:48:53 +0800",
-     "summary": "本文来自微信公众号： 冷杉RECORD ，作者：李一鸣，编辑：雪梨王，题图来自：视觉中国 林明指尖乱点，读屏软件一片死寂。又是一个不知所措的崩溃时刻，被愤怒和抓狂塞满。 林明是盲人。双目失明的他，全靠读屏软件辨认屏幕上的文字，才能正常使用手机。如今，无处不在的弹窗成了盲人使用手机的噩梦。为了避开弹窗，林明每次用手机，都要先把机身平放在桌面上，屏住呼吸，手指不敢有丝毫晃动，直直按下去，生怕发生意外。 即便如此小心，依然难以完全避免强行跳转的发生。而一旦触发了弹窗广告，屏幕瞬间失控，手机像是&ldquo;中了病毒&rdquo;。对于林明来说，那个隐蔽的&ldquo;跳过&rdquo;或&ldquo",
-     "source": "虎嗅",
-     "zh": "困在手机弹窗里的人：听不到，看不清，关不掉"
-    },
-    {
      "title": "《昭和米国物语》延期至 2027 年 10 月 28 日发售：内容已全部完成正在打磨中",
      "link": "https://www.ithome.com/1/031/917.htm",
      "pubDate": "Tue, 24 Nov 2026 23:47:49 GMT",
      "summary": "IT之家 11 月 25 日消息，铃空游戏发布公告，宣布旗下角色扮演游戏《昭和米国物语》的发售日期由原定的 2026 年内调整为 2027 年 10 月 28 日。 公告显示，该作经过五年开发，游戏内容已全部制作完成，目前团队正集中精力对游戏进行全面打磨与优化，以呈现更加完整、出色的游戏体验。 此次延期距离原发售窗口将近一年，官方在公告中对玩家长期以来的关注与支持表示感谢，并明确新的发售日期为 2027 年 10 月 28 日。 《昭和米国物语》由铃空游戏开发，2P Games 负责除日本外的亚洲地区发行，4Divinity 负责全球发行，游戏为铃空游戏成立十周年的纪念作品，开发中期将引擎更换",
      "source": "IT之家",
      "zh": "《昭和米国物语》延期至 2027 年 10 月 28 日发售：内容已全部完成正在打磨中"
-    },
-    {
-     "title": "比亚迪业绩重回增长，市值为何仍不见起色?",
-     "link": "https://www.huxiu.com/article/4908197.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 07:46:08 +0800",
-     "summary": "本文来自微信公众号： 财报纪 ，作者：专注财报分析的 2026Q3，比亚迪录得营业收入2214.88亿元，同比增长13.59%；归母净利润100.20亿元，同比增长28.08%。这也是比亚迪连续四个季度负增长后，首次重回增长正轨。 （财报⼀图流如下，单位亿元，数据均来源于Wind，由财报纪整理） 不过，前三季度累计来看，收入同比基本持平，归母净利润却下降4.24%。对于比亚迪而言，基本面只修复了营收的增速，利润层面的表现依然不尽如人意。 纵观财报后我们认为：比亚迪此次营收回暖，主要依靠的是海外市场的增量。但海外市场的前置投入成本，以及潜在营运成本相对较高，因此利润修复的空间似乎不如投资者的预期",
-     "source": "虎嗅",
-     "zh": "比亚迪业绩重回增长，市值为何仍不见起色?"
     },
     {
      "title": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)",
@@ -1839,14 +1871,6 @@
      "summary": "IT之家 11 月 25 日消息，Meta 现已将 Muse 引入 Instagram 私信，让用户可以直接在 IG 与这款 AI 智能体对话。该功能即日起登陆美国、加拿大、墨西哥、日本和新加坡市场。 如今，Muse 可以将用户在 Instagram 上收藏的内容整理成不同的合集或旅行行程，还能根据用户找到的食谱生成购物清单。当然用户也可以直接用私信和 Muse 对话， 了解某篇帖子的更多信息 ， 或回顾自己错过的内容 。 IT之家注意到，Instagram 私信版 Muse 允许用户直接与 AI 智能体交流，省去以往在两个 App 间来回切换的麻烦。用户在 Instagram 上与 Muse",
      "source": "IT之家",
      "zh": "Meta 将 Muse 智能体引入 Instagram 私信，省去来回切换 App 麻烦"
-    },
-    {
-     "title": "国王归来：唐僧也要撕报告",
-     "link": "https://www.huxiu.com/article/4908194.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 07:40:36 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 这不是结束，只是一个新的开始 前几天计划写一篇文章《老黄再不回归，美股就要完蛋球了》，旁征博引洋洋洒洒，又是历史又是商业史写了半篇，11月23号晚上英伟达董事会宣布全票通过黄仁勋回归担任CEO。 美股应声大涨，所有AI链一路高走，英伟达当天涨幅超过30%，纳斯达克指数涨幅超过6%，只有小丑阿莫带达里奥和A除受伤的世界达成了......红果短剧无数次的告诉我们：这种背后暗搓搓使坏的人从来就没有好下场。下一步按照红果的剧情走应该是老黄通知达里奥：你的卡等着2047年再提货吧。 这孙子和他的7人核心圈在上市第一天就顶着能套现的上限每人卖掉了10%的",
-     "source": "虎嗅",
-     "zh": "国王归来：唐僧也要撕报告"
     },
     {
      "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
@@ -1884,7 +1908,7 @@
      "title": "Get in, friends, the Atmosphere is happening",
      "link": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
      "pubDate": "Tue, 24 Nov 2026 23:23:35 +0000",
-     "summary": "Article URL: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9 Comments URL: https://news.ycombinator.com/item?id=50636286 Points: 9 # Comments: 9",
+     "summary": "Article URL: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9 Comments URL: https://news.ycombinator.com/item?id=50636286 Points: 16 # Comments: 12",
      "source": "Hacker News",
      "zh": "Get in, friends, the Atmosphere is happening"
     },
@@ -1903,14 +1927,6 @@
      "summary": "New York Post : Trump says a pardon for Jensen Huang is &ldquo;always an option&rdquo; but likely unnecessary, and it's &ldquo;probably not too late&rdquo; for the US to take an equity stake in Nvidia &nbsp; &mdash;&nbsp; WASHINGTON &mdash; President Trump told The Post in an exclusive interview tha",
      "source": "Techmeme",
      "zh": "Trump says a pardon for Jensen Huang is \"always an option\" but likely unnecessary, and it&apos;s \"probably not too late\" for the US to take an equity stake in Nvidia (New York Post)"
-    },
-    {
-     "title": "SpaceX获新“买入”评级，为何股价可能飙升90%",
-     "link": "https://www.tmtpost.com/8216873.html",
-     "pubDate": "Wed, 25 Nov 2026 06:50:12 +0800",
-     "summary": "周一，瑞穗分析师格雷格·康拉德开始对SpaceX股票进行跟踪覆盖，给予“买入”评级，并设定205美元的目标价。",
-     "source": "钛媒体",
-     "zh": "SpaceX获新“买入”评级，为何股价可能飙升90%"
     },
     {
      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
@@ -1940,7 +1956,7 @@
      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
      "link": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
      "pubDate": "Tue, 24 Nov 2026 22:26:41 +0000",
-     "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available Comments URL: https://news.ycombinator.com/item?id=50635698 Points: 22 # Comments: 22",
+     "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available Comments URL: https://news.ycombinator.com/item?id=50635698 Points: 28 # Comments: 26",
      "source": "Hacker News",
      "zh": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available"
     },
@@ -1953,18 +1969,10 @@
      "zh": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off"
     },
     {
-     "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
-     "link": "https://www.techmeme.com/261124/p40#a261124p40",
-     "pubDate": "Tue, 24 Nov 2026 17:05:01 -0500",
-     "summary": "Claude : Anthropic rolls out &ldquo;Install as app&rdquo; in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more &nbsp; &mdash;&nbsp; Open the artifacts you use every day like any other app, and let them do more on your computer",
-     "source": "Techmeme",
-     "zh": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)"
-    },
-    {
      "title": "Heart attack and stroke risk detectable decades in advance",
      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
      "pubDate": "Tue, 24 Nov 2026 21:51:21 +0000",
-     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 102 # Comments: 40",
+     "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 111 # Comments: 42",
      "source": "Hacker News",
      "zh": "Heart attack and stroke risk detectable decades in advance"
     },
@@ -1972,7 +1980,7 @@
      "title": "An unclassified CIA system was breached in a cyberattack",
      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
      "pubDate": "Tue, 24 Nov 2026 21:24:27 +0000",
-     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 85 # Comments: 26",
+     "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 87 # Comments: 27",
      "source": "Hacker News",
      "zh": "An unclassified CIA system was breached in a cyberattack"
     },
@@ -1983,14 +1991,6 @@
      "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. ",
      "source": "Hacker News",
      "zh": "Launch HN: Versine (YC F26) – MCP to send and receive money"
-    },
-    {
-     "title": "What's going on with the Riemann hypothesis?",
-     "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-     "pubDate": "Tue, 24 Nov 2026 20:34:53 +0000",
-     "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-     "source": "Ars Technica",
-     "zh": "What's going on with the Riemann hypothesis?"
     }
    ]
   },
@@ -2249,12 +2249,92 @@
    "total": 13,
    "items": [
     {
+     "title": "戴尔电话会：AI服务器积压订单突破1320亿美元，AI代理引爆传统服务器需求",
+     "link": "https://wallstreetcn.com/articles/3786641",
+     "pubDate": "Wed, 25 Nov 2026 08:10:36 +0800",
+     "summary": "得益于AI基础设施的狂热需求以及传统数据中心的现代化升级，戴尔2027财年第三季度营收实现翻倍，AI服务器积压订单创下1323亿美元历史新高，管理层明确表示“未见任何需求放缓迹象”。 华尔街见闻提及 ，11月24日美股盘后，戴尔科技公布了截至2026年10月底的2027财年第三季度业绩，营收和盈利双双刷新公司历史纪录，AI服务器业务成为核心驱动力。公司同步上调第四季度指引，并宣布250亿美元回购授权，向市场释放强烈的信心信号。 财报电话会议上，戴尔副董事长兼首席运营官Jeff Clarke明确表示， 本季度新增AI服务器订单达602亿美元，确认收入220亿美元，期末积压订单达1323亿美元，均",
+     "source": "华尔街见闻",
+     "zh": "戴尔电话会：AI服务器积压订单突破1320亿美元，AI代理引爆传统服务器需求"
+    },
+    {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
      "pubDate": "Wed, 25 Nov 2026 00:05:00 GMT",
      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
      "source": "MarketWatch",
      "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
+    },
+    {
+     "title": "1天20倍！上周五买入英伟达期权的买家火了，周一放话“开盘即卖，感谢老黄”",
+     "link": "https://wallstreetcn.com/articles/3786643",
+     "pubDate": "Wed, 25 Nov 2026 08:03:57 +0800",
+     "summary": "一场押注英伟达反弹的期权交易，在周一早间因CEO黄仁勋（Jensen Huang）重新执掌帅印而迎来爆发式兑现。 据彭博11月25日报道，Reddit用户Outrageous-Voice1459以1.9万美元买入的英伟达看涨期权，单日暴涨逾1984%，净赚37.69万美元，其在社交媒体上高呼“开盘即卖，感谢老黄”的帖子迅速引发广泛关注。 英伟达股价周一单日飙升31%至165.05美元 ，此前该股本月累计跌幅已达39%。黄仁勋重返CEO职位的消息成为直接催化剂，令此前布局反弹的多头期权持仓集中兑现。 这场期权盛宴不止于散户。据彭博报道，一名机构交易员此前买入1月到期、行权价160美元的看涨期权，",
+     "source": "华尔街见闻",
+     "zh": "1天20倍！上周五买入英伟达期权的买家火了，周一放话“开盘即卖，感谢老黄”"
+    },
+    {
+     "title": "UK APP fraud losses continue to rise",
+     "link": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 25 Nov 2026 00:01:00 GMT",
+     "summary": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
+     "source": "Finextra",
+     "zh": "UK APP fraud losses continue to rise"
+    },
+    {
+     "title": "Brits wary about letting AI agents make payments for them",
+     "link": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 25 Nov 2026 00:01:00 GMT",
+     "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
+     "source": "Finextra",
+     "zh": "Brits wary about letting AI agents make payments for them"
+    },
+    {
+     "title": "西部超导：融资净偿还1074.46万元，融资余额15.02亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939076737.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:48 +0800",
+     "summary": "交易所最新数据显示，西部超导于2026年11月24日获融资买入2610.22万元，融资偿还3684.68万元， 当日融资净偿还1074.46万元。 目前，该股融资余额15.02亿，占流通市值比例为5.81%。 该股当日融券卖出3.04万股，融券偿还3771股， 融券净卖出2.66万股。 目前，该股融券余量32.39万股，融券余额1289.1万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内",
+     "source": "东方财富股票",
+     "zh": "西部超导：融资净偿还1074.46万元，融资余额15.02亿元"
+    },
+    {
+     "title": "常熟汽饰：融资净偿还400.76万元，融资余额3.22亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939076532.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:47 +0800",
+     "summary": "交易所最新数据显示， 常熟汽饰 于2026年11月24日获融资买入378.65万元，融资偿还779.40万元， 当日融资净偿还400.76万元。 目前，该股融资余额3.22亿，占流通市值比例为9.66%。 该股当日融券卖出800股，融券偿还0股， 融券净卖出800股。 目前，该股融券余量1.99万股，融券余额18.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "常熟汽饰：融资净偿还400.76万元，融资余额3.22亿元"
+    },
+    {
+     "title": "天准科技：融资净偿还878.38万元，融资余额2.87亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939076155.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:46 +0800",
+     "summary": "交易所最新数据显示， 天准科技 于2026年11月24日获融资买入2181.07万元，融资偿还3059.44万元， 当日融资净偿还878.38万元。 目前，该股融资余额2.87亿，占流通市值比例为2.76%。 该股当日融券卖出900股，融券偿还1694股， 融券净偿还794股。 目前，该股融券余量4.29万股，融券余额229.29万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "天准科技：融资净偿还878.38万元，融资余额2.87亿元"
+    },
+    {
+     "title": "达仁堂：融资净买入8.66万元，融资余额3.8亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939076054.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:46 +0800",
+     "summary": "交易所最新数据显示， 达仁堂 于2026年11月24日获融资买入1311.21万元，融资偿还1302.55万元， 当日融资净买入8.66万元。 目前，该股融资余额3.80亿，占流通市值比例为1.78%。 该股当日融券卖出7900股，融券偿还7300股， 融券净卖出600股。 目前，该股融券余量19.56万股，融券余额735.84万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
+     "source": "东方财富股票",
+     "zh": "达仁堂：融资净买入8.66万元，融资余额3.8亿元"
+    },
+    {
+     "title": "豪威集团：融资净偿还1846.06万元，融资余额36.99亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939075954.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:45 +0800",
+     "summary": "交易所最新数据显示， 豪威集团 于2026年11月24日获融资买入7901.40万元，融资偿还9747.46万元， 当日融资净偿还1846.06万元。 目前，该股融资余额36.99亿，占流通市值比例为3.53%。 该股当日融券卖出1.11万股，融券偿还1.01万股， 融券净卖出1000股。 目前，该股融券余量13.6万股，融券余额1178.85万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
+     "source": "东方财富股票",
+     "zh": "豪威集团：融资净偿还1846.06万元，融资余额36.99亿元"
+    },
+    {
+     "title": "移远通信：融资净买入9654.07万元，融资余额12.92亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611253939075874.html",
+     "pubDate": "Wed, 25 Nov 2026 07:58:45 +0800",
+     "summary": "交易所最新数据显示， 移远通信 于2026年11月24日获融资买入3.54亿元，融资偿还2.58亿元， 当日融资净买入9654.07万元。 目前，该股融资余额12.92亿，占流通市值比例为3.84%。 该股当日融券卖出8500股，融券偿还3800股， 融券净卖出4700股。 目前，该股融券余量16.01万股，融券余额1323.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "移远通信：融资净买入9654.07万元，融资余额12.92亿元"
     },
     {
      "title": "Dell’s stock rises as the AI boom helps sales more than double",
@@ -2407,86 +2487,6 @@
      "summary": "ETF正在成为推动科技板块趋稳的重要力量，两家科技行业上市公司近日接连被ETF 举牌 。从最新动向看，在近期震荡行情中，大量资金借道ETF积极入市， 半导体 主题ETF本月净流入超过260亿元。在部分业内人士看来，从市场情绪与产业基本面的匹配度来看，AI板块有望迎来阶段性反弹，从中长期看也具有配置价值。 上市公司接连被ETF 举牌 两家科技行业上市公司近日接连被ETF 举牌 。11月23日晚， 芯源微 发布公告称，科创 半导体 ETF华夏于11月20日通过集中竞价交易增持公司股份合计10.63万股。本次权益变动后，科创 半导体 ETF华夏持有公司股数占公司总股本的5%。 根据公告，科创半导体E",
      "source": "东方财富资讯",
      "zh": "半导体ETF接连举牌上市公司 机构看好科技板块配置价值"
-    },
-    {
-     "title": "订单排到2029年！又一国产“神器” 爆单了",
-     "link": "http://finance.eastmoney.com/news/1348,202611253938886119.html",
-     "pubDate": "Wed, 25 Nov 2026 06:16:07 +0800",
-     "summary": "随着气温走低，国内“滑雪”搜索量暴涨，冷资源持续释放热效应。国产冰雪装备性能在线、性价比高，提升滑雪者满意度，雪场设施全产业链提速发展。数据显示，2025年我国冰雪产业规模达到10053亿元，冰雪装备规模接近850亿元，预计2026年冰雪装备规模突破千亿元。 河北崇礼各大滑雪场周末日均客流达1万人次 雪场开板，雪具大厅排起长队，缆车往返不息，雪道上滑雪者络绎不绝。进入11月，河北崇礼多家雪场迎来周末客流高峰。目前当地雪场已开放13条雪道，新增地形公园，适配不同水平雪友，崇礼各大滑雪场周末日均客流可达1万人次。 除了南方少年专程北上滑雪，在户外雪场切磋技术，不少本地学生也借着雪假走进雪场。雪场瞄",
-     "source": "东方财富资讯",
-     "zh": "订单排到2029年！又一国产“神器” 爆单了"
-    },
-    {
-     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-     "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-     "pubDate": "Tue, 24 Nov 2026 22:07:45 GMT",
-     "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-     "source": "CNBC",
-     "zh": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
-    },
-    {
-     "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-     "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-     "pubDate": "Tue, 24 Nov 2026 22:03:01 GMT",
-     "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-     "source": "CNBC",
-     "zh": "Saudi national charged in OpenAI bugging to be released on $1 million bond"
-    },
-    {
-     "title": "惠普盈利指引超预期，内存成本控制取得进展",
-     "link": "https://wallstreetcn.com/articles/3786637",
-     "pubDate": "Wed, 25 Nov 2026 06:00:09 +0800",
-     "summary": "惠普财报显示在应对内存芯片成本上涨方面正逐步改善，盘后股价随即大幅跳涨。 周二美股盘后，惠普发布2026财年全年及第四季度业绩报告，宣布提高股息。报告显示， 截至明年1月的当前财季，每股收益预期为0.66至0.76美元，市场预期为0.72美元，上述指引均已纳入关税退税的影响 。 预计自本月起的新财年非通用会计准则每股收益预期区间为3.15至3.45美元，据彭博汇总的分析师一致预期为3.18美元。 消息公布后，惠普盘后股价一度涨幅约15%，随后几乎回吐全部涨幅，此前收盘报27.94美元。 首席财务官Karen Parkhill表示，公司对全年持续改善盈利能力抱有信心，尽管2027财年展望体现了对",
-     "source": "华尔街见闻",
-     "zh": "惠普盈利指引超预期，内存成本控制取得进展"
-    },
-    {
-     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 21:53:00 GMT",
-     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
-     "source": "MarketWatch",
-     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
-    },
-    {
-     "title": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3786635",
-     "pubDate": "Wed, 25 Nov 2026 05:52:57 +0800",
-     "summary": "戴尔科技公布的最新财报显示，AI基础设施投资热潮正以前所未有的速度转化为公司收入。第三财季营收同比翻倍，AI优化服务器收入增长近三倍，新订单和积压订单均创历史新高，推动公司第三次上调本财年业绩指引。 当地时间11月24日，戴尔公布截至2026年10月30日的2027财年第三季度业绩。财报显示， 公司当季营收达到549.37亿美元，同比增长103%；非GAAP每股收益为9.45美元，同比增长265%，两项指标均大幅超过市场预期。分析师此前平均预期营收为493.2亿美元、调整后每股收益为6.59美元。 更重要的是，戴尔AI优化服务器业务继续加速增长。 第三财季，该业务收入达到220.31亿美元，同",
-     "source": "华尔街见闻",
-     "zh": "AI服务器需求引爆戴尔业绩！营收翻倍、上调全年指引，1323亿美元订单积压创新高｜财报见闻"
-    },
-    {
-     "title": "Anthropic’s stock just broke below its IPO price for the first time",
-     "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 21:46:00 GMT",
-     "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-     "source": "MarketWatch",
-     "zh": "Anthropic’s stock just broke below its IPO price for the first time"
-    },
-    {
-     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 21:45:00 GMT",
-     "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-     "source": "MarketWatch",
-     "zh": "HPE just posted its strongest growth ever — but its stock is sinking"
-    },
-    {
-     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-     "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-     "pubDate": "Tue, 24 Nov 2026 21:13:39 GMT",
-     "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-     "source": "CNBC",
-     "zh": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington"
-    },
-    {
-     "title": "Anthropic closes below IPO price as tech rally fades",
-     "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-     "pubDate": "Tue, 24 Nov 2026 21:11:37 GMT",
-     "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
-     "source": "Financial Times",
-     "zh": "Anthropic closes below IPO price as tech rally fades"
     }
    ]
   },

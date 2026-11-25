@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 12:51:53",
+ "generated_at": "2026/11/25 13:11:53",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,30 @@
    "total": 9,
    "items": [
     {
+     "title": "Analysis: Huang's brief exit exposes South Korea's reliance on Nvidia",
+     "link": "https://www.digitimes.com/news/a20261125VL217/nvidia-jensen-huang-south-korea-infrastructure-capacity.html",
+     "pubDate": "Wed, 25 Nov 2026 04:44:04 GMT",
+     "summary": "Jensen Huang's return as Nvidia CEO has eased concerns over South Korea's AI infrastructure investments, but his brief departure also exposed the country's dependence on the US chipmaker for both computing capacity and the development of its domestic AI chip industry.",
+     "source": "DIGITIMES",
+     "zh": "Analysis: Huang's brief exit exposes South Korea's reliance on Nvidia"
+    },
+    {
+     "title": "China's first chip equipment quality standard puts supplier reliability in focus",
+     "link": "https://www.digitimes.com/news/a20261125VL216/china-equipment-component-production-supplier.html",
+     "pubDate": "Wed, 25 Nov 2026 04:28:44 GMT",
+     "summary": "China has issued its first dedicated quality management standard for semiconductor equipment and components, giving fabs and their suppliers a common framework for qualifying parts, auditing vendors and keeping production lines supplied. The voluntary standard, SJ/T 12425&ndash;2026 , was unveiled o",
+     "source": "DIGITIMES",
+     "zh": "China's first chip equipment quality standard puts supplier reliability in focus"
+    },
+    {
+     "title": "Jensen Huang's return to Nvidia steadies AI financing chain as chipmakers face new funding test",
+     "link": "https://www.digitimes.com/news/a20261125PD208/ai-chip-chipmakers-financing-funding-nvidia-jensen-huang.html",
+     "pubDate": "Wed, 25 Nov 2026 04:11:32 GMT",
+     "summary": "Nvidia's board voted unanimously on November 23 to immediately reinstate Jensen Huang as president, CEO, and director, reversing his resignation after just 11 days and temporarily ending concerns over a leadership crisis. For the AI chip industry, the turmoil affected not only Nvidia's technology st",
+     "source": "DIGITIMES",
+     "zh": "Jensen Huang's return to Nvidia steadies AI financing chain as chipmakers face new funding test"
+    },
+    {
      "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline",
      "link": "https://www.digitimes.com/news/a20261125VL220/capacity-taiwan-investigation-eu-production.html",
      "pubDate": "Wed, 25 Nov 2026 03:35:31 GMT",
@@ -279,30 +303,6 @@
      "summary": "China's planned annual production capacity for energy storage system (ESS) batteries is approaching 2,000GWh, raising concerns about potential oversupply as domestic manufacturers accelerate their expansion into overseas markets.",
      "source": "DIGITIMES",
      "zh": "China's planned ESS battery capacity nears 2,000GWh, raising global oversupply concerns"
-    },
-    {
-     "title": "Column: Robot actuators expose supply-chain bottlenecks",
-     "link": "https://www.digitimes.com/news/a20261125PD202/robot-supply-chain-industrial-market.html",
-     "pubDate": "Wed, 25 Nov 2026 03:14:39 GMT",
-     "summary": "The robot industry spans a multilayered supply chain covering precision machinery, electrical systems, sensing, control, computing, system integration, and applications. Across robot types, actuators remain the most important core component and account for the largest share of costs, ranging from 50",
-     "source": "DIGITIMES",
-     "zh": "Column: Robot actuators expose supply-chain bottlenecks"
-    },
-    {
-     "title": "Taiwan tech stocks tumble as Huang's comeback rally fades",
-     "link": "https://www.digitimes.com/news/a20261125VL219/taiwan-nvidia-ceo-tsmc.html",
-     "pubDate": "Wed, 25 Nov 2026 03:02:29 GMT",
-     "summary": "Taiwan's benchmark stock index swung from a record point gain on Tuesday to a drop of more than 2,000 points early Wednesday.",
-     "source": "DIGITIMES",
-     "zh": "Taiwan tech stocks tumble as Huang's comeback rally fades"
-    },
-    {
-     "title": "Acerpure targets India, Indonesia for high-double-digit growth in 2027",
-     "link": "https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html",
-     "pubDate": "Wed, 25 Nov 2026 02:56:28 GMT",
-     "summary": "Acerpure, the Acer subsidiary that makes home appliances under the Acerpure brand, will focus on India and Indonesia and is targeting high-double-digit growth in 2027, when it plans to start selling washing machines in India and set up a subsidiary in Indonesia, general manager Kuo-shu Kao said.",
-     "source": "DIGITIMES",
-     "zh": "Acerpure targets India, Indonesia for high-double-digit growth in 2027"
     },
     {
      "title": "Top Ten (less 5) Q3 Smartphone Vendors",
@@ -1745,6 +1745,30 @@
    "total": 18,
    "items": [
     {
+     "title": "阿联酋独立站拒付率3.8%，是不是素材本地化没做到位？",
+     "link": "https://www.baijing.cn/question/638955",
+     "pubDate": "Wed, 25 Nov 2026 04:53:52 +0000",
+     "summary": "我们做中东独立站，主营香水和个护套装，团队6人，刚起量阶段，月流水大概8万美元，主要走阿联酋和沙特。用Checkout.com收款，阿联酋站拒付率一直在3.8%左右，沙特站只有1.9%，差了将近一倍。查了后台，拒付理由大多是“未授权交易”和“商品与描述不符”。我们试过加阿语客服、在结账页放本地支付图标、把配送时效写到详情页，拒付率只降到3.5%。素材方面现在还是英文主图加少量阿语翻译，模特是欧美面孔，本地用户评论里有人说“看起来不像给我们做的”。想请教：拒付率偏高到底该先改素材本地化（模特、场景、阿语表达），还是先查支付风控和账单描述？判断优先级的标准是什么？",
+     "source": "白鲸出海",
+     "zh": "阿联酋独立站拒付率3.8%，是不是素材本地化没做到位？"
+    },
+    {
+     "title": "白宫考虑入股英伟达，美国彻底不相信自由市场了",
+     "link": "https://www.huxiu.com/article/4908306.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:50:39 +0800",
+     "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略，原文标题：《白宫考虑入股英伟达！美国彻底不相信自由市场了》 11月23日，英伟达董事会全票请回了黄仁勋。 6天前，董事会还把话说得很死——“不打算让他回来”。改口的公告里，写着一句：董事会听取了美国政府高层的意见。24小时后，亲口承认干预了事件的特朗普，暗示美国政府可能进一步入股英伟达，以确保美国在人工智能的领先地位。 一个多月前，去年才走出破产法庭的Wolfspeed，拿到美国战争部一笔30年的贷款。再往前，是稀土、钨矿等企业，纷纷被美国政府揽入怀抱。 1986年，时任美国总统里根说过一句被美国人反复引用的话：“英语里最可怕的一句话是：我来自",
+     "source": "虎嗅",
+     "zh": "白宫考虑入股英伟达，美国彻底不相信自由市场了"
+    },
+    {
+     "title": "打开豆包，就进抖音",
+     "link": "https://www.huxiu.com/article/4908303.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 12:47:28 +0800",
+     "summary": "本文来自微信公众号： 字母榜 ，作者：张琳 豆包都快把抖音整个缝进“馅儿”里了。 最近，豆包又给购物开了一个入口。目前，该功能为灰测阶段，入口开在了豆包App侧边导航栏中，与新对话、新工作任务等入口并列。用户进入后，会直接弹出优惠券，并根据用户喜好加载抖音商城的商品流。 之所以说“又”，是因为早在今年4月，豆包就上线了“帮你选”的AI购物功能，随后升级为“买前问豆包”，并固定在了首页一级导航栏。 无论从哪个入口进去，双列无限下滑的商品卡和直播间Feed流，都占据了绝大部分屏幕空间，上面还有一行醒目的大字提示：“根据你的喜好挑了这些”。 一个Chatbot里不仅长出两个购物入口，连抖音最核心的变",
+     "source": "虎嗅",
+     "zh": "打开豆包，就进抖音"
+    },
+    {
      "title": "“转人工”、“转人工”、“给我转人工！”",
      "link": "https://www.huxiu.com/article/4908298.html?f=rss",
      "pubDate": "Wed, 25 Nov 2026 12:40:38 +0800",
@@ -1756,7 +1780,7 @@
      "title": "Show HN: U.S. Interstate Weather",
      "link": "https://www.interstateweather.com/",
      "pubDate": "Wed, 25 Nov 2026 04:35:32 +0000",
-     "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday). Comments URL: https://news.ycombinator.com/item?id=50638523 Points: 3 # Comments: 1",
+     "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday). Comments URL: https://news.ycombinator.com/item?id=50638523 Points: 7 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: U.S. Interstate Weather"
     },
@@ -1849,14 +1873,6 @@
      "zh": "从肉联厂到300亿帝国，如今却将易主：一代“火腿肠大王”，为何突然退场？"
     },
     {
-     "title": "日本抓鬼、美国驱魔、欧洲揍撒旦，“中国道士”在AI短剧里杀疯了",
-     "link": "https://www.huxiu.com/article/4908294.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 12:09:53 +0800",
-     "summary": "本文来自微信公众号： 新榜 ，作者：云飞扬1993，编辑：张洁 全欧洲最好的驱魔师一夜覆灭，梵蒂冈也岌岌可危。危机当头，欧洲人终于想起了那个唯一有可能解决困境的男人——天师道民间传人、地表最强驱魔师阿文。 你没看错，在如今的AI短剧里，中国道士除了求仙问道修长生，还得忙着在日韩欧美斗邪魔、灭鬼怪，化身新时代超级英雄。阿文正是最近走红的AI道士短剧《异邪录》中的主角。 《异邪录》讲述了中国驱魔大神阿文和女徒弟阿宜远赴欧洲，解决撒旦危机的奇幻故事。凭借新奇的设定，以及颇具电影质感的画面镜头，截至发稿前，《异邪录》仅发布4集就在抖音收获5179万播放量。 今年以来，AI短剧圈已经跑出了萌娃、精神小妹",
-     "source": "虎嗅",
-     "zh": "日本抓鬼、美国驱魔、欧洲揍撒旦，“中国道士”在AI短剧里杀疯了"
-    },
-    {
      "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
      "link": "https://www.ithome.com/1/032/062.htm",
      "pubDate": "Wed, 25 Nov 2026 04:08:36 GMT",
@@ -1873,12 +1889,12 @@
      "zh": "北美独立站邮件营销复购率跌了，新规下双重订阅还能怎么合规做？"
     },
     {
-     "title": "白葡萄酒十年翻番：年轻人占六成，价格掉到60元",
-     "link": "https://www.huxiu.com/article/4908293.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 12:04:04 +0800",
-     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 晚上十一点半，成都一间二十平米的出租屋，一个25岁的女生在手机上下单了一瓶冰好的长相思。 三十分钟后酒送到，附赠一枚开瓶器。 她不打算醒酒，也不关心这瓶酒的年份。 美团闪购的数据显示，深夜十一点到凌晨三点，酒饮订单同比增长超过三成，占全部订单的近两成。 十年前，一瓶葡萄酒在中国最典型的出场方式，是圆桌、转盘和一句“我敬您”。 现在它出现在冰柜里、外卖袋里、露营桌上。 变的不是酒的颜色，是喝酒这件事由谁说了算。 ⑴一瓶白葡萄酒，十年从一成走到三成 北京农学院李德美教授团队在2012年前后做过一次调研，结论是中国红白葡萄酒的消费比例约为9比1。 这个",
-     "source": "虎嗅",
-     "zh": "白葡萄酒十年翻番：年轻人占六成，价格掉到60元"
+     "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+     "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+     "pubDate": "Wed, 25 Nov 2026 04:03:33 +0000",
+     "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F Comments URL: https://news.ycombinator.com/item?id=50638320 Points: 13 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star"
     },
     {
      "title": "世界模型变天了",
@@ -1892,7 +1908,7 @@
      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
      "pubDate": "Wed, 25 Nov 2026 03:47:42 +0000",
-     "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 21 # Comments: 2",
+     "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 28 # Comments: 5",
      "source": "Hacker News",
      "zh": "Marginalia Search, Money, C++, Rust, AI, Stuff"
     },
@@ -1916,7 +1932,7 @@
      "title": "A faster algorithm for extracting hexadecimal digits of π",
      "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
      "pubDate": "Wed, 25 Nov 2026 03:28:42 +0000",
-     "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "A faster algorithm for extracting hexadecimal digits of π"
     },
@@ -1924,7 +1940,7 @@
      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
      "pubDate": "Wed, 25 Nov 2026 03:28:06 +0000",
-     "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 14 # Comments: 5",
+     "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 19 # Comments: 5",
      "source": "Hacker News",
      "zh": "Serving Qwen via AWS Lambdas for fun and 80x negative profit"
     },
@@ -1932,7 +1948,7 @@
      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
      "link": "https://buttons.joshwcomeau.com/",
      "pubDate": "Wed, 25 Nov 2026 03:23:07 +0000",
-     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 60 # Comments: 4",
+     "summary": "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 83 # Comments: 5",
      "source": "Hacker News",
      "zh": "Button Sounds – collection of professionally-recorded button clicks and presses"
     },
@@ -1953,14 +1969,6 @@
      "zh": "阿联酋独立站拒付率1.8%，只有半个运营盯支付，该先补人还是先换通道？"
     },
     {
-     "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
-     "link": "https://vcarl.com/sashay/",
-     "pubDate": "Wed, 25 Nov 2026 03:10:18 +0000",
-     "summary": "Article URL: https://vcarl.com/sashay/ Comments URL: https://news.ycombinator.com/item?id=50637936 Points: 11 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)"
-    },
-    {
      "title": "GPSR 责任人信息卡在德国清关，货代要求补欧代但后台已填，到底谁的问题？",
      "link": "https://www.baijing.cn/question/638950",
      "pubDate": "Wed, 25 Nov 2026 02:43:18 +0000",
@@ -1975,14 +1983,6 @@
      "summary": "Dina Bass / Bloomberg : HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives &ldquo;prudent&rdquo; fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments &nbsp; &mdash;&nbsp; HP Inc. gave a profit forecast for the current year that will likely exceed analysts'",
      "source": "Techmeme",
      "zh": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments (Dina Bass/Bloomberg)"
-    },
-    {
-     "title": "印度方言短剧投放CPA从18卢比涨到53卢比，是该换素材还是换投手？",
-     "link": "https://www.baijing.cn/question/638949",
-     "pubDate": "Wed, 25 Nov 2026 02:21:09 +0000",
-     "summary": "我们在印度做短剧出海，主投泰米尔语和泰卢固语配音剧，团队6人，月投放预算约8万美元，主要跑Meta和Google UAC，起量阶段。上周同一个泰卢固语剧集，Meta的CPI从18卢比涨到53卢比，7日留存没掉，付费转化率还从1.2%涨到1.5%，但CPA直接翻了三倍。已经试过换前3秒钩子、加方言字幕、把素材从15秒压到9秒，也试过把预算从UAC挪回Meta手动出价，CPA只降到41卢比就卡住了。现在不确定是印度方言受众池子就这么大、素材疲劳不可避免，还是出价结构本身有问题。想直接问：这种留存和付费都在涨、只有CPA暴涨的情况，该先砍预算保ROI，还是继续加投等模型学习期过？",
-     "source": "白鲸出海",
-     "zh": "印度方言短剧投放CPA从18卢比涨到53卢比，是该换素材还是换投手？"
     }
    ]
   },
@@ -2241,92 +2241,60 @@
    "total": 13,
    "items": [
     {
-     "title": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report",
-     "link": "https://seekingalpha.com/news/4676429-blackrock-ifm-may-cut-offer-for-stacks-asia-pacific-data-centers---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:40:05 -0500",
+     "title": "Lazard Global Total Return & Income Fund Inc declares $0.1534 dividend",
+     "link": "https://seekingalpha.com/news/4676446-lazard-global-total-return--income-fund-inc-declares-01534-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:07:14 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report"
+     "zh": "Lazard Global Total Return & Income Fund Inc declares $0.1534 dividend"
     },
     {
-     "title": "美媒：黄仁勋回来了 但人们更应担心美国AI泡沫：硅谷巨头盘根错节 巨额财务承诺、政府监管弱化",
-     "link": "http://finance.eastmoney.com/news/11158,202611253939409281.html",
-     "pubDate": "Wed, 25 Nov 2026 12:40:04 +0800",
-     "summary": "上周，成立仅五年的 人工智能 公司 Anthropic 上市。投资者争相认购，公司不得不提高发行价格、增加发行股份。这场创纪录的上市造富运动，估计一举造就了近600名账面身家过亿美元的员工。 然而，华尔街并没有因此振奋起来。 23日，黄仁勋重返 英伟达 ，科技股应声上涨。仅仅一天后，市场再度陷入低迷， Anthropic 股价甚至跌破了发行价。 美国《 大西洋 月刊》24日刊文指出，美国AI热潮可能演变成AI泡沫。 是重回2000年，还是2008年？ 互联网泡沫破裂时， 纳斯达克 指数蒸发了近八成，美国经历了一场相对短暂的经济衰退。2008年， 房地产 泡沫破裂，整个全球金融体系却几乎陷入瘫痪",
-     "source": "东方财富股票",
-     "zh": "美媒：黄仁勋回来了 但人们更应担心美国AI泡沫：硅谷巨头盘根错节 巨额财务承诺、政府监管弱化"
-    },
-    {
-     "title": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
-     "link": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:37:07 -0500",
+     "title": "BlackRock Science and Technology Term Trust declares $0.8438 special dividend",
+     "link": "https://seekingalpha.com/news/4676444-blackrock-science-and-technology-term-trust-declares-08438-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:05:34 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD"
+     "zh": "BlackRock Science and Technology Term Trust declares $0.8438 special dividend"
     },
     {
-     "title": "Piper Sandler将戴尔科技公司目标价从558美元下调至555美元",
-     "link": "http://stock.eastmoney.com/news/1440,202611253939408748.html",
-     "pubDate": "Wed, 25 Nov 2026 12:34:26 +0800",
-     "summary": "Piper Sandler将 戴尔科技 公司目标价从558美元下调至555美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "Piper Sandler将戴尔科技公司目标价从558美元下调至555美元"
-    },
-    {
-     "title": "11月25日午间涨停复盘：68股涨停 好当家10天6板",
-     "link": "http://stock.eastmoney.com/news/11781,202611253939406911.html",
-     "pubDate": "Wed, 25 Nov 2026 12:33:57 +0800",
-     "summary": "今日午盘沪指 跌 1.01%，深成指 跌 1.19%，创业板指 跌 1.72%，今日午盘大盘成交额7630.51亿，较上个交易日缩量3579.09亿。 涨停个股数量方面，今日午盘共计68股涨停，另有19只个股盘中一度触及涨停，封板率78.16%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "11月25日午间涨停复盘：68股涨停 好当家10天6板"
-    },
-    {
-     "title": "Urban Outfitters expects Q4 sales growth in the mid-single-digit range as promotions rise at Anthropologie",
-     "link": "https://seekingalpha.com/news/4676430-urban-outfitters-expects-q4-sales-growth-in-the-mid-single-digit-range-as-promotions-rise-at?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:32:46 -0500",
+     "title": "BlackRock Science & Technology Trust declares $2.3618 special dividend",
+     "link": "https://seekingalpha.com/news/4676443-blackrock-science-technology-trust-declares-23618-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:04:16 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Urban Outfitters expects Q4 sales growth in the mid-single-digit range as promotions rise at Anthropologie"
+     "zh": "BlackRock Science & Technology Trust declares $2.3618 special dividend"
     },
     {
-     "title": "以防长说伊朗正研发化学武器",
-     "link": "http://global.eastmoney.com/news/1959,202611253939407910.html",
-     "pubDate": "Wed, 25 Nov 2026 12:32:42 +0800",
-     "summary": "据以色列媒体11月24日报道，以国防部长卡茨当天称伊朗“正在研发化学武器”，但他未提供任何细节或证据。据报道，卡茨说，伊朗“正在研发化学武器”但尚不具备对以色列发动化武袭击的能力，以方“绝不允许伊朗获得化学武器”，正在为包括“伊朗先发制人打击以色列”在内的所有可能情况做准备。卡茨还说，以色列国防军和美军中央司令部也在为“可能对伊朗发动袭击”做准备，美国总统特朗普拥有行动决定权。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "以防长说伊朗正研发化学武器"
-    },
-    {
-     "title": "300394，千亿市值股飙升！机构称消费电子或盈利修复，高成长潜力股来了",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939408112.html",
-     "pubDate": "Wed, 25 Nov 2026 12:32:00 +0800",
-     "summary": "光模块大涨。 300394，千亿市值股飙升 11月25日上午，光模块龙头集体拉升。截至上午收盘， 天孚通信 （300394）飙升超10%，市值逼近1500亿元。 中际旭创 、 新易盛 两大龙头均逆市走强。此外， 杰普特 、 联讯仪器 、 罗博特科 等个股均涨超4%。 消息面上， 中际旭创 近日发布回购公告，拟回购20亿元至40亿元。从基本面来看，光模块需求可见度仍高。目前，800G仍处于出货高位，1.6T将成为2027年主力增量，3.2T产品2027年起逐步放量。 高盛 测算，1.6T光模块2026年出货约3283万只，2027年有望达到7136万只；3.2T产品2027年出货2304万只，2",
-     "source": "东方财富股票",
-     "zh": "300394，千亿市值股飙升！机构称消费电子或盈利修复，高成长潜力股来了"
-    },
-    {
-     "title": "刚刚，大面积涨停！",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939409155.html",
-     "pubDate": "Wed, 25 Nov 2026 12:29:00 +0800",
-     "summary": "【导读】 商贸零售 、医药板块大面积涨停，农业股持续活跃 11月25日上午，A股主要指数低位震荡。截至午间收盘，上证指数跌1.01%，深证成指跌1.19%，创业板指跌1.72%，科创综指跌2.62%。半日市场成交额为7689亿元，较昨日同期明显缩量。全市场超2800只个股上涨。 行业板块方面，大消费整体向好，零售、 餐饮 等方向走强， 教育 、制药、 房地产 、农业等板块活跃。 半导体 产业链陷入调整，GPU、 先进封装 、 光刻机 等概念股下跌。 港股上午逆市走强，截至午间收盘，三大指数集体飘红。 理想汽车 涨超5%，领涨恒指成份股。 零售板块走强 医药股大面积涨停 11月25日上午，A股消",
-     "source": "东方财富股票",
-     "zh": "刚刚，大面积涨停！"
-    },
-    {
-     "title": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027",
-     "link": "https://seekingalpha.com/news/4676426-goodrx-signals-844m-850m-2026-revenue-outlook-while-expecting-lower-pharma-direct-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:22:22 -0500",
+     "title": "BlackRock Enhanced Large Cap Core Fund, Inc. declares $2.3356 dividend",
+     "link": "https://seekingalpha.com/news/4676442-blackrock-enhanced-large-cap-core-fund-inc-declares-23356-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:03:46 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "GoodRx signals $844M-$850M 2026 revenue outlook while expecting lower Pharma Direct unit economics in 2027"
+     "zh": "BlackRock Enhanced Large Cap Core Fund, Inc. declares $2.3356 dividend"
     },
     {
-     "title": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post",
-     "link": "https://seekingalpha.com/news/4676425-trump-says-a-pardon-for-jensen-huang-was-always-an-option-ny-post?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:17:11 -0500",
+     "title": "BlackRock Utilities Infrastructure & Power Oppty declares $2.274 dividend",
+     "link": "https://seekingalpha.com/news/4676441-blackrock-utilities-infrastructure--power-oppty-declares-2274-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:03:17 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Trump says a pardon for Jensen Huang was \"always an option\": NY Post"
+     "zh": "BlackRock Utilities Infrastructure & Power Oppty declares $2.274 dividend"
+    },
+    {
+     "title": "BlackRock Enhanced Equity Dividend Trust declares $1.2208 special dividend",
+     "link": "https://seekingalpha.com/news/4676440-blackrock-enhanced-equity-dividend-trust-declares-12208-special-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 00:02:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BlackRock Enhanced Equity Dividend Trust declares $1.2208 special dividend"
+    },
+    {
+     "title": "国内商品期市早盘收盘涨跌互现 碳酸锂跌超7%",
+     "link": "http://www.eeo.com.cn/2026/1125/1102165.shtml",
+     "pubDate": "Wed, 25 Nov 2026 12:52:16 +0800",
+     "summary": "据Choice数据，11月25日，国内商品期市早盘收盘主力合约涨跌互现，截至11:30，焦煤涨超5%，焦炭、PVC、烧碱涨超4%，纯苯、丙烯、纸浆、集运指数（欧线）等涨超2%，沥青、塑料、螺纹钢、PTA、尿素等涨超1%。跌幅方面，碳酸锂跌超7%，沪银、沪锡跌超6%，钯、沪铜跌超4%，沪铝、铂跌超3%，沪金、沪锌、多晶硅、生猪等跌超2%，沪镍、液化石油气跌超1%。",
+     "source": "经济观察网",
+     "zh": "国内商品期市早盘收盘涨跌互现 碳酸锂跌超7%"
     },
     {
      "title": "A股午评：超2600只个股飘绿，三大指数集体收跌；零售、教育、制药上涨；半导体领跌，汽车、券商下跌，GPU、光刻机、物理AI走低",
@@ -2335,14 +2303,6 @@
      "summary": "中新经纬11月25日电 25日，A股三大指数低开后低位运行。截至午间收盘，沪指跌1.01%，深证成指跌1.19%，创业板指跌1.72%。 全市半日成交额7689.6亿元，超2600只个股下跌。 板块方面，零售、教育、餐饮旅游、制药、水务、钢铁等上涨；水产、流感、免税店、首发经济、冰雪旅游、疫苗等概...",
      "source": "经济观察网",
      "zh": "A股午评：超2600只个股飘绿，三大指数集体收跌；零售、教育、制药上涨；半导体领跌，汽车、券商下跌，GPU、光刻机、物理AI走低"
-    },
-    {
-     "title": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin",
-     "link": "https://seekingalpha.com/news/4676424-workday-outlines-11-percent-fy-28-subscription-revenue-growth-while-targeting-at-least-33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 23:12:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Workday outlines ~11% FY '28 subscription revenue growth while targeting at least 33% non-GAAP operating margin"
     },
     {
      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
@@ -2479,6 +2439,46 @@
      "summary": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
      "source": "Financial Times",
      "zh": "Will the Nvidia fallout kill off Asia’s data centre boom?"
+    },
+    {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 02:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "Dell’s stock rises as the AI boom helps sales more than double",
+     "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 01:11:00 GMT",
+     "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
+     "source": "MarketWatch",
+     "zh": "Dell’s stock rises as the AI boom helps sales more than double"
+    },
+    {
+     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 00:05:00 GMT",
+     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+     "source": "MarketWatch",
+     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
+    },
+    {
+     "title": "UK APP fraud losses continue to rise",
+     "link": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 25 Nov 2026 00:01:00 GMT",
+     "summary": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
+     "source": "Finextra",
+     "zh": "UK APP fraud losses continue to rise"
+    },
+    {
+     "title": "Brits wary about letting AI agents make payments for them",
+     "link": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 25 Nov 2026 00:01:00 GMT",
+     "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
+     "source": "Finextra",
+     "zh": "Brits wary about letting AI agents make payments for them"
     }
    ]
   },

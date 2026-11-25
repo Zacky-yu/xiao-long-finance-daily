@@ -2354,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "中国证券交易所改革的αβγδ动力结构解析\n——从动力失衡到系统协同的演进逻辑与改革路径"
     },
     {
+     "title": "AI行情再起波澜！日韩芯片股集体大跌 韩股再次“熔断”",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939358941.html",
+     "pubDate": "Wed, 25 Nov 2026 10:12:00 +0800",
+     "summary": "本周三，受隔夜美股科技股回调影响，市场对AI板块行情的担忧再度升温， 亚太科技 股集体下挫，日韩 半导体 板块领跌。 周三早间，韩国KOSPI指数开盘下跌3.94%，报4809点。韩国市场开盘几分钟后，韩国交易所对KOSPI指数启动侧车机制，程序化交易暂停5分钟。 截至发稿，三星 电子 大跌超7%， SK海力士 跌近10%。其他韩国科技股同步走弱：LG Innotek跌6.15%，LG Display跌4.09%。 SK海力士 低开低走 日本日经225指数同样低开低走，截至发稿指数跌幅已经扩大至2.66%。 日经225指数周三走势 全球AI供应链相关的日本 半导体 个股跌幅居前。截至发稿， 英",
+     "source": "东方财富资讯",
+     "zh": "AI行情再起波澜！日韩芯片股集体大跌 韩股再次“熔断”"
+    },
+    {
      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
      "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
      "pubDate": "Wed, 25 Nov 2026 02:09:45 GMT",
@@ -2376,6 +2384,22 @@ window.INDUSTRY_DATA = {
      "summary": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
      "source": "Financial Times",
      "zh": "Will the Nvidia fallout kill off Asia’s data centre boom?"
+    },
+    {
+     "title": "个人养老金四周年：1.5亿开户、户均不足千元 险企如何破局“开户热缴存冷”困境？",
+     "link": "http://stock.eastmoney.com/news/11219,202611253939361017.html",
+     "pubDate": "Wed, 25 Nov 2026 10:03:11 +0800",
+     "summary": "11月25日，个人 养老金 制度试点启动迎来四周年。2024年政策全面推开之后，制度框架、产品供给持续完善，但 “开户多、缴存少、投资更低” 的现实困境依旧突出。 多位保险业内人士对财联社记者表示，市场并不缺少养老的潜在需求，难点在于如何把潜在需求激发出来。“ 养老金 融周期长达数十年，普通投资者很难判断产品是否适配自身情况，对长期保障效力存疑。” 同时，在服务层面，传统个人零售模式依靠销售人员点对点获客，触达成本居高不下，很难规模化覆盖广大工薪人群。 面对上述难题，保险业正从保险产品机制、绑定附加服务等角度入手。 不过，多位行业受访者认为，个人 养老金 制度价值释放是循序渐进的长期过程。随着",
+     "source": "东方财富资讯",
+     "zh": "个人养老金四周年：1.5亿开户、户均不足千元 险企如何破局“开户热缴存冷”困境？"
+    },
+    {
+     "title": "英伟达B300 GPU交期大幅拉长 消费显卡产能恐遭进一步挤压",
+     "link": "http://finance.eastmoney.com/news/1355,202611253939352172.html",
+     "pubDate": "Wed, 25 Nov 2026 10:03:03 +0800",
+     "summary": "部分迹象表明， 英伟达 AI芯片 供给或延续紧张态势。据媒体援引ODM厂商消息报道，目前包括B300、GB300在内的产品新订单交期皆已大幅拉长。 据悉，B300 GPU交付周期落在26-40周，GB300约14-26周，DGX Station所搭载的桌面版GB300工作站超级芯片组交期同样达到26周；RTX Pro系列服务器、工作站版本加速卡交期也拉长至26周以上。供应链预估， 近两个季度落地的新签订单项目，多数要等到明年二、三季度才能完成交付。 究其原因， 英伟达 合作的ODM厂商产能重心，正纷纷转向B300、GB300以及正处于量产交付阶段的Vera Rubin平台。作为应对， 英伟达 ",
+     "source": "东方财富资讯",
+     "zh": "英伟达B300 GPU交期大幅拉长 消费显卡产能恐遭进一步挤压"
     },
     {
      "title": "Ambarella anticipates $70M-$75M Q4 revenue amid memory-driven order pushouts",

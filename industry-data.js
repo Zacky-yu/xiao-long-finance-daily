@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 19:52:06",
+ "generated_at": "2026/11/25 20:11:57",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date",
+     "link": "https://www.pv-magazine.com/2026/11/25/greenvolt-power-breaks-ground-at-its-biggest-us-solar-and-battery-storage-project-to-date/",
+     "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+     "summary": "Developer breaks ground at 100 MWac solar, 50 MW/200 MWh batter energy storage system (BESS) project in New Mexico. Commissioning is expected in summer 2028. The post Greenvolt Power breaks ground at its biggest US solar and battery storage project to date appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Greenvolt Power breaks ground at its biggest US solar and battery storage project to date"
+    },
+    {
+     "title": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Price-Cap-Jumps-26-in-January-Highest-Since-2023.html",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 -0600",
+     "summary": "Energy prices for UK households will surge by 26% from January 1 as the Middle East war is pushing wholesale gas prices higher, the UK’s energy regulator Ofgem said in its quarterly energy cap announcement on Wednesday. The UK has a so-called Energy Price Cap in place, which protects households from",
+     "source": "OilPrice",
+     "zh": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023"
+    },
+    {
      "title": "Grenergy inks Peru’s largest PPA for 450MW solar PV plants, launches hybrid platform",
      "link": "https://www.pv-tech.org/grenergy-peru-largest-ppa-450mw-solar-pv-hybrid-platform/",
      "pubDate": "Wed, 25 Nov 2026 11:26:09 +0000",
@@ -922,14 +938,6 @@ window.INDUSTRY_DATA = {
      "zh": "Spanish startup showcases self-supporting solar carports with integrated EV chargers"
     },
     {
-     "title": "South Korea reopens heat pump, solar subsidy for welfare facilities",
-     "link": "https://www.pv-magazine.com/2026/11/25/south-korea-reopens-heat-pump-solar-subsidy-for-welfare-facilities/",
-     "pubDate": "Wed, 25 Nov 2026 09:30:00 +0000",
-     "summary": "The South Korean government has opened a third call for grants covering up to 80% of the cost of pairing air-source heat pumps with solar at private welfare facilities beyond the reach of the city gas network. The post South Korea reopens heat pump, solar subsidy for welfare facilities appeared firs",
-     "source": "pv magazine",
-     "zh": "South Korea reopens heat pump, solar subsidy for welfare facilities"
-    },
-    {
      "title": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html",
      "pubDate": "Wed, 25 Nov 2026 03:30:00 -0600",
@@ -994,14 +1002,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz"
     },
     {
-     "title": "China Goes on Oil Buying Spree as Crude Prices Slide",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Goes-on-Oil-Buying-Spree-as-Crude-Prices-Slide.html",
-     "pubDate": "Tue, 24 Nov 2026 23:25:00 -0600",
-     "summary": "Chinese refiners have started buying more crude oil from abroad, taking advantage of lower prices in recent weeks to replenish the country’s oil inventories, Bloomberg has reported, citing traders. According to the report, Sinopec has bought about 20 million barrels of crude since the start of this ",
-     "source": "OilPrice",
-     "zh": "China Goes on Oil Buying Spree as Crude Prices Slide"
-    },
-    {
      "title": "Tesla & SpaceX Merger Nears With Big Moves From The Boards",
      "link": "https://cleantechnica.com/2026/11/24/tesla-spacex-merger-nears-with-big-moves-from-the-boards/",
      "pubDate": "Wed, 25 Nov 2026 02:57:42 +0000",
@@ -1058,12 +1058,12 @@ window.INDUSTRY_DATA = {
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1089,6 +1089,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004",
+     "link": "https://endpoints.news/the-38-year-history-behind-insmed-now-sanofis-strongest-wager-since-2004/",
+     "pubDate": "Wed, 25 Nov 2026 12:02:17 +0000",
+     "summary": "The biggest biopharma deal since 2023 — a $41 billion buyout of a respiratory drugmaker — was 38 years in the making. Sanofi's move Tuesday for Insmed marked the culmination of a complicated saga ...",
+     "source": "Endpoints News",
+     "zh": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004"
+    },
     {
      "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
      "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
@@ -1192,14 +1200,6 @@ window.INDUSTRY_DATA = {
      "summary": "In the past few years, lab giant Quest Diagnostics has been growing its consumer business. So far, Patrick Plewman, SVP of Diagnostic Services told me at HLTH last week, the business is still fairly small: ...",
      "source": "Endpoints News",
      "zh": "Consumers’ changing relationships with blood testing"
-    },
-    {
-     "title": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data",
-     "link": "https://endpoints.news/kymeras-historica-1-75b-offering-diamedicas-fetal-growth-restriction-data/",
-     "pubDate": "Tue, 24 Nov 2026 16:11:32 +0000",
-     "summary": "Kymera Therapeutics notches a record at $1.75B: After standout data on Monday, the Boston-area drug developer priced an upsized stock offering at $1.75 billion, marking the largest-ever follow-on offering for a biotech company. Revolution Medicines ...",
-     "source": "Endpoints News",
-     "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
@@ -1546,6 +1546,22 @@ window.INDUSTRY_DATA = {
      "zh": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'"
     },
     {
+     "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+     "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+     "pubDate": "Wed, 25 Nov 2026 17:21:48 +0530",
+     "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact inste",
+     "source": "The Hacker News",
+     "zh": "Credential Remediation Is Slow When You Don’t Know What Will Break"
+    },
+    {
+     "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+     "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+     "pubDate": "Wed, 25 Nov 2026 16:53:26 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install ",
+     "source": "The Hacker News",
+     "zh": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation"
+    },
+    {
      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
      "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500",
@@ -1642,14 +1658,6 @@ window.INDUSTRY_DATA = {
      "zh": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion"
     },
     {
-     "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-     "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-     "pubDate": "Wed, 25 Nov 2026 11:51:12 +0530",
-     "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has proactively detected ",
-     "source": "The Hacker News",
-     "zh": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live"
-    },
-    {
      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
      "pubDate": "Tue, 24 Nov 2026 22:41:58 +0000",
@@ -1698,14 +1706,6 @@ window.INDUSTRY_DATA = {
      "zh": "New Inception extortion gang launches large-scale vishing campaign"
     },
     {
-     "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-     "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-     "pubDate": "Tue, 24 Nov 2026 22:24:07 +0530",
-     "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for comman",
-     "source": "The Hacker News",
-     "zh": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
-    },
-    {
      "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
      "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
      "pubDate": "Tue, 24 Nov 2026 16:32:56 +0000",
@@ -1746,6 +1746,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "售电公司巨亏，保险机构拒保",
+     "link": "https://www.huxiu.com/article/4908466.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 20:01:49 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 一家大型产险公司的业务主管胡鹏告诉记者，今年下半年以来，他们的售电履约保险理赔占比较往年高出逾200%；截至目前，年内累计赔付金额逾3000万元，导致今年这款保险产品承保亏损额几乎“抹去”过去3年的保费收入。 2026年11月17日，陈晖又婉拒了一家售电公司的投保申请。 作为一家产险公司负责售电公司履约保证保险（下称“售电履约保险”）的业务主管，过去一个月他已经将7家售电公司挡在门外。 他说，实在是不敢承保。今年以来电价持续倒挂，导致售电履约保险理赔占比（理赔案例数量占承保数量的比例）高企。 所谓电价倒挂，主要是指售电公司从发电企业拿电的价格，高",
+     "source": "虎嗅",
+     "zh": "售电公司巨亏，保险机构拒保"
+    },
+    {
+     "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+     "link": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+     "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+     "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+     "source": "WIRED",
+     "zh": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP"
+    },
+    {
+     "title": "微缩矮人，巨脑龙人...这群史前异人，究竟去了哪儿？高原超跑，智齿阻生，代谢雪崩，人类身体里为什么塞满了自相矛盾？",
+     "link": "https://www.huxiu.com/article/4900669.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 20:00:00 +0800",
+     "summary": "你体内可能藏着一整个史前人种动物园，尼安德特人、丹尼索瓦人、龙人、佛罗勒斯矮人，甚至还有未被发现的幽灵人种。每一种幽灵基因都送给你一份礼物。你是谁？你体内的祖先比你想象的还要热闹。",
+     "source": "虎嗅",
+     "zh": "微缩矮人，巨脑龙人...这群史前异人，究竟去了哪儿？高原超跑，智齿阻生，代谢雪崩，人类身体里为什么塞满了自相矛盾？"
+    },
+    {
+     "title": "OpenAI压力暴大",
+     "link": "https://www.huxiu.com/article/4908463.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 19:58:48 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：万连山 仅仅四个交易日，Anthropic就破发了。 若按首日最高点算，账面市值蒸发了约4840亿美元。 恐慌情绪因此扩散，成为近几日所有市场剧烈波动的直接导火索之一。 不过，此时此刻，最慌的绝不是达里奥·阿莫迪。 Anthropic的七位联合创始人，每人套现了2.8亿美元“改善生活”，已经实现了财富自由。 公司账面上，也还有刚进的上千亿美元现金，足以支撑很久。 真正压力爆大、被按在案板上提前公开处刑的，是还没上市的OpenAI。 01 估值锚坍塌 这两年，OpenAI之所以能在一级市场把估值从8520亿美元吹到1.4万亿美元，靠的是一点： 公开市场没有可比",
+     "source": "虎嗅",
+     "zh": "OpenAI压力暴大"
+    },
+    {
+     "title": "金锣易主始末",
+     "link": "https://www.huxiu.com/article/4908461.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 19:58:20 +0800",
+     "summary": "本文来自微信公众号： 零售商业财经 ，作者：RBF 金锣易主背后，常温肉制品的利润池正在迁移。 11月20日，上海市市场监督管理局官网挂出金锣相关公示。收购方为苏州德弘福臻与淡马锡旗下新加坡平台，出让方为金锣（香港）控股，标的是临沂新程金锣肉制品集团与临沂金锣投资两家核心主体。交易完成后，德弘系以56%间接持股为单一最大持股方，淡马锡平台持股10%，二者合计66%，共同控制目标公司。德弘的实际治理权重取决于股东协议中的表决权与董事席位安排，公示未载明。 公示尚无价格信息，以下价格与估值数字均来自并购资讯机构及媒体披露，未经交易双方确认，亦未出现在监管公示中：外界流传约20亿美元，折合人民币超过",
+     "source": "虎嗅",
+     "zh": "金锣易主始末"
+    },
+    {
+     "title": "奥乐齐在中国倒时差",
+     "link": "https://www.huxiu.com/article/4908462.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 19:54:37 +0800",
+     "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 如果说奥乐齐这个名字对不少消费者仍显陌生的话，它在中国硬折扣行业，却已经是一个无法绕开的符号。 有零售行业人士甚至半开玩笑地表示：“超盒算NB、快乐猴的高管，哪有一个敢说自己没有泡在奥乐齐里看过。” 很长时间里，这家德国零售商都是国内少有的、拥有成熟经营经验的硬折扣零售模板。 而这个被争相学习的对象，终于开始加快扩张了。 11月21日至22日，奥乐齐在安徽合肥、芜湖陆续开出六家门店，首次进入安徽市场，全国门店数量达到约140家。 全天候科技从接近奥乐齐人士处获悉，安徽首店的整体开业销售表现刷新了奥乐齐的历史纪录。未来一段时间，奥乐齐还将继续",
+     "source": "虎嗅",
+     "zh": "奥乐齐在中国倒时差"
+    },
+    {
+     "title": "The 36 Best Gifts for Dads (2026)",
+     "link": "https://www.wired.com/story/best-gifts-for-dads-2026/",
+     "pubDate": "Wed, 25 Nov 2026 11:49:00 +0000",
+     "summary": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
+     "source": "WIRED",
+     "zh": "The 36 Best Gifts for Dads (2026)"
+    },
+    {
      "title": "US court documents detail a Commerce Department pressure campaign on Intel to acquire a 10% equity stake in 2025, warning rejection would carry \"consequences\" (Noah Shachtman/Wired)",
      "link": "https://www.techmeme.com/261125/p17#a261125p17",
      "pubDate": "Wed, 25 Nov 2026 06:45:01 -0500",
@@ -1754,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "US court documents detail a Commerce Department pressure campaign on Intel to acquire a 10% equity stake in 2025, warning rejection would carry \"consequences\" (Noah Shachtman/Wired)"
     },
     {
-     "title": "连锁便利店巨头集体“下厨房”：卖卤肉饭的，越来越多了",
-     "link": "https://www.huxiu.com/article/4908455.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:39:22 +0800",
-     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：李唐 又有连锁便利店巨头，要抢快餐店的生意！ 近日，美宜佳在上海康安路智慧源开出新一代Cafe店。值得一提的是，该店主打便利餐饮，引发广泛关注。 据红餐网了解，美宜佳这家Cafe店整体以白色为主，面积超100平方米。店内传统货架有所减少，热食柜、烘焙展示柜和餐饮操作台则占据了更多空间。此外，为满足消费者即时就餐的消费需求，门店还将超过三分之一的空间留给了堂食。 产品结构层面，不同于以往主打烟酒、饮料、日用百货，这家Cafe店更强调供应现制餐食，不仅有小笼包、烧卖、关东煮，还有13.9元的卤肉饭、17.8元的豚骨拉面等餐品，可覆盖早午晚多个",
+     "title": "从“北欧小众”到规模生意，北欧户外品牌如何在中国继续增长？",
+     "link": "https://www.huxiu.com/article/4908458.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 19:43:36 +0800",
+     "summary": "本文来自微信公众号： 精练GymSquare ，作者：木子，原文标题：《从「北欧小众」到规模生意，北欧户外品牌如何在中国继续增长？》 雪季一到，北欧似乎就离我们近了一点。有人从储物间里翻出雪板，等着上山；也有人把轻羽绒重新挂到门边，准备在城里过冬。这个时候，总容易想起那些从挪威山地和瑞典滑雪小镇走出来的户外品牌。 11月20日，吉林北大湖开板一周后，挪威户外品牌Norrøna请来了签约滑手和产品设计师。话题从雪况和地形，一路聊到滑雪服怎么剪裁、口袋该放在哪里。10月，瑞典品牌Peak Performance壁克峰以滑雪小镇奥勒为灵感，在张园开出一间快闪店，主推的是既能在城里单穿、也能在滑雪时用",
      "source": "虎嗅",
-     "zh": "连锁便利店巨头集体“下厨房”：卖卤肉饭的，越来越多了"
+     "zh": "从“北欧小众”到规模生意，北欧户外品牌如何在中国继续增长？"
     },
     {
      "title": "《GTA 6》发售当天 YouTube 相关视频观看量超 35 亿次，创非音乐类视频纪录",
@@ -1786,6 +1842,14 @@ window.INDUSTRY_DATA = {
      "zh": "华为种菜游戏：鸿蒙星空元服务官宣上线，完成每日任务可抽会员等"
     },
     {
+     "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+     "link": "https://github.com/xoxorwr/pw-loudness-eq",
+     "pubDate": "Wed, 25 Nov 2026 11:34:25 +0000",
+     "summary": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire"
+    },
+    {
      "title": "Nvidia&apos;s board reinstating Jensen Huang as CEO under pressure from President Trump represents \"another installment of his regrettable state capitalism\" (Wall Street Journal)",
      "link": "https://www.techmeme.com/261125/p16#a261125p16",
      "pubDate": "Wed, 25 Nov 2026 06:30:05 -0500",
@@ -1808,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
      "source": "WIRED",
      "zh": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long"
-    },
-    {
-     "title": "实测豆包小豆：眼里有活儿，还得心里有数",
-     "link": "https://www.huxiu.com/article/4908449.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:27:12 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：彦飞，原文标题：《实测豆包小豆：眼里有活儿，还得心里有数》 字节传闻已久的Personal Agent，终于来了。 就在刚刚，豆包旗下的AI个人助理产品“小豆”开启公测。 小豆主打生活、工作、出行等场景的事务处理，可以帮用户订餐厅、叫车、整理文档、盯演出开票，等等。 与豆包等Chatbot相比，小豆不仅办事能力更强，还能归纳并记住用户画像，跨App、跨平台打通个人信息，主动推送信息、完成任务。 这款产品内部代号Spell（咒语），是字节入局Personal Agent、对标Meta Muse的重量级产品，目前只有App端。 拿到测试邀请码后，我第一时间下",
-     "source": "虎嗅",
-     "zh": "实测豆包小豆：眼里有活儿，还得心里有数"
     },
     {
      "title": "爆料人称《GTA 6》有望在 PS6、Xbox Project Helix 上实现 120 帧运行",
@@ -1842,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "C919 首次在济南执飞商业客运航班，南航 C919 首飞广州 — 济南航线"
     },
     {
-     "title": "女性审丑：《丑狐》用AI“搞封建”",
-     "link": "https://www.huxiu.com/article/4908445.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:17:09 +0800",
-     "summary": "本文来自微信公众号： 短剧八部半 ，作者：编辑部 “人一旦寒心，脸是会跟着变的”是AI短剧《丑狐》的最大障眼法。 它用一种隐蔽的方式，呈现了一个近乎封建的女性伦理故事，以及女性审丑倾向。 相比起来，几百年前的蒲松龄才是进步的、现代的。在原作里： 「狐女拿出元宝，提出“若相谐好，以此相赠”；穆生原本“厌其丑”，见到元宝便“悦而从之”。 后来关系破裂，狐女说：“若相厌薄，我自去耳。但情义既绝，受于我者须要偿也。”」 在蒲松龄的原作里，狐女和穆生实际上缔结了一种类似“婚姻”的契约，双方各取所需。 这里至少包含三层意识： 1.关系有条件和约束：狐女给穆生钱，用金钱换取稳定关系； 2.关系有退出机制：你",
-     "source": "虎嗅",
-     "zh": "女性审丑：《丑狐》用AI“搞封建”"
-    },
-    {
      "title": "对赌刚过业绩就变脸，和仁科技或迎存储芯片二股东 | 并购一线",
      "link": "https://www.tmtpost.com/8217626.html",
      "pubDate": "Wed, 25 Nov 2026 19:17:02 +0800",
@@ -1858,36 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "对赌刚过业绩就变脸，和仁科技或迎存储芯片二股东 | 并购一线"
     },
     {
-     "title": "黄仁勋回归行情一日游，华尔街警告：油价、通胀和鹰派美联储，一个都没解决",
-     "link": "https://www.huxiu.com/article/4908447.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:15:45 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：李丹，原文标题：《黄仁勋回归行情一日游！华尔街警告：油价、通胀和鹰派美联储，一个都没解决》 黄仁勋重返英伟达CEO职位引发的市场狂欢仅持续一个交易日，AI科技股便重新遭遇抛售。 华尔街人士警告，黄仁勋回归虽然缓解了英伟达短期的领导层不确定性，却没有解决通胀、利率和AI巨额投资回报等更深层次的问题，甚至可能带来新的公司治理与政治风险。 周一暴涨后迅速回吐，AI产业链集体承压 美东时间11月24日周二，周一因黄仁勋复职而大幅上涨的科技股重新成为美股抛售中心。 周一，道琼斯工业平均指数上涨近1500点、涨幅约3%，标普500指数上涨逾4.7%，纳斯达克综合指",
-     "source": "虎嗅",
-     "zh": "黄仁勋回归行情一日游，华尔街警告：油价、通胀和鹰派美联储，一个都没解决"
-    },
-    {
-     "title": "最强概念股，这周已经快翻倍了...",
-     "link": "https://www.huxiu.com/article/4908446.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:15:45 +0800",
-     "summary": "本文来自微信公众号： 格隆汇APP ，作者：阿拉贡 早上，商米科技的股价摸到195.40港元，创下上市七个月以来的最高点。 本周才刚刚过去3天，这只票差点翻倍，市值从402亿港元推升至778亿港元。 如果把时间轴进一步拉长，10月初公司市值不到180亿港元，却在两个月的时间里涨了3.3倍。 到底发生了什么？ 01 巧妙包装 时间回到上周日晚，商米科技发布未来10年发展战略定位与使命愿景，正式将自己定义为“商业物理AI”的践行者，并宣布推出“BIoT＋端边云一体分布式AI计算架构＋智能体服务体系”的完整布局。 紧接着周一开盘，股价单日暴涨48.65%，拉开了本周近乎翻番的序幕。 市场把商米买成了",
-     "source": "虎嗅",
-     "zh": "最强概念股，这周已经快翻倍了..."
-    },
-    {
      "title": "A look at Iranian cyber unit Shahid Kaveh, which France said recently hacked supermarket freezers; in 2023 and 2024, it hacked Israeli-made industrial devices (Financial Times)",
      "link": "https://www.techmeme.com/261125/p15#a261125p15",
      "pubDate": "Wed, 25 Nov 2026 06:15:00 -0500",
      "summary": "Financial Times : A look at Iranian cyber unit Shahid Kaveh, which France said recently hacked supermarket freezers; in 2023 and 2024, it hacked Israeli-made industrial devices &nbsp; &mdash;&nbsp; One night in October, hackers staged one of the most unusual cyber attacks in history: cranking up the",
      "source": "Techmeme",
      "zh": "A look at Iranian cyber unit Shahid Kaveh, which France said recently hacked supermarket freezers; in 2023 and 2024, it hacked Israeli-made industrial devices (Financial Times)"
-    },
-    {
-     "title": "微信公号的加热，有没有用",
-     "link": "https://www.huxiu.com/article/4908444.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 19:11:28 +0800",
-     "summary": "本文来自微信公众号： 扯氮集 ，作者：魏武挥二世，原文标题：《微信公号的加热 有没有用》 本文有点借题发挥，而且你要看到最后才晓得我所谓的“有没有用”到底在说对谁有没有用。 一 微信公号推出了“加热”功能，就是公号运营者可以通过花钱的手段，让自己的文章进入推荐算法——请注意，花钱，这点很重要。 我也不知道从何时起，公号文章的流量和推荐高度相关了——而不再是靠社交分发。我相信任何一个公号运营者都会同意：现在的文章，非常依赖平台的推荐与否。 这算不算“信息流”就不晓得了，反正文章的流量，需要推荐算法帮忙。 所谓加热，就是过去要靠天意，平台推荐不推荐这篇文章，自己无法控制。现在给了一个手段：你可以自",
-     "source": "虎嗅",
-     "zh": "微信公号的加热，有没有用"
     },
     {
      "title": "Liquid Compute: Asian data centers and neoclouds are seeking US clients to offload excess capacity after new US compute rules, as B300 hourly rental costs fall (Newley Purnell/Bloomberg)",
@@ -1954,36 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯视频困于“总办”"
     },
     {
-     "title": "The Best iPhone Duo Cases and Accessories (2026)",
-     "link": "https://www.wired.com/story/best-iphone-duo-cases-and-accessories/",
-     "pubDate": "Wed, 25 Nov 2026 10:45:00 +0000",
-     "summary": "Protect and enhance your iPhone Duo with one of our favorite cases or accessories.",
-     "source": "WIRED",
-     "zh": "The Best iPhone Duo Cases and Accessories (2026)"
-    },
-    {
      "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map",
      "link": "https://marioschlosser.org/riemann/",
      "pubDate": "Wed, 25 Nov 2026 10:32:04 +0000",
-     "summary": "Article URL: https://marioschlosser.org/riemann/ Comments URL: https://news.ycombinator.com/item?id=50640746 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://marioschlosser.org/riemann/ Comments URL: https://news.ycombinator.com/item?id=50640746 Points: 21 # Comments: 5",
      "source": "Hacker News",
      "zh": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map"
-    },
-    {
-     "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
-     "link": "https://www.wired.com/story/shop-small-gift-guide-2026/",
-     "pubDate": "Wed, 25 Nov 2026 10:32:00 +0000",
-     "summary": "Here are 11 independent stores WIRED editors love and the gifts we’d order from them on Shop.com.",
-     "source": "WIRED",
-     "zh": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)"
-    },
-    {
-     "title": "Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon&apos;s block; any deal would require a sign-off from both CEOs (Sebastian Herrera/Fortune)",
-     "link": "https://www.techmeme.com/261125/p13#a261125p13",
-     "pubDate": "Wed, 25 Nov 2026 05:15:01 -0500",
-     "summary": "Sebastian Herrera / Fortune : Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon's block; any deal would require a sign-off from both CEOs &nbsp; &mdash;&nbsp; Amazon and Meta Platforms are in ongoing discussions over a potential deal to connect Meta's ",
-     "source": "Techmeme",
-     "zh": "Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon&apos;s block; any deal would require a sign-off from both CEOs (Sebastian Herrera/Fortune)"
     }
    ]
   },
@@ -1994,12 +1994,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "An annoying ‘mistake’ in macOS was actually prep for the latest MacBook Pro",
+     "link": "https://9to5mac.com/2026/11/25/an-annoying-mistake-in-macos-was-actually-prep-for-the-latest-macbook-pro/",
+     "pubDate": "Wed, 25 Nov 2026 12:00:57 +0000",
+     "summary": "You may remember that Apple made a seeming mistake in the user interface for macOS 26 , meaning that attempts to resize windows would often fail . The reason for this has now become clear, and Apple has done something both fun and clever in macOS 27 to resolve it … more…",
+     "source": "9to5Mac",
+     "zh": "An annoying ‘mistake’ in macOS was actually prep for the latest MacBook Pro"
+    },
+    {
      "title": "Sony’s ULT Field 3 speaker drops 39% to a record low",
      "link": "https://www.androidauthority.com/sony-ult-field-3-deal-3738984/",
      "pubDate": "Wed, 25 Nov 2026 11:46:18 +0000",
      "summary": "Save $82 on Sony's rugged IP67 speaker with a shoulder strap and up to 24 hours of battery.",
      "source": "Android Authority",
      "zh": "Sony’s ULT Field 3 speaker drops 39% to a record low"
+    },
+    {
+     "title": "Motorola Signature 27 up for pre-order across EU markets",
+     "link": "https://www.gsmarena.com/motorola_signature_27_up_for_preorder_across_eu_markets-news-75629.php",
+     "pubDate": "Wed, 25 Nov 2026 12:46:02 +0100",
+     "summary": "Earlier this month, Motorola introduced its Signature 27 as the flagship offering from the brand. Back then, we got some confusing details regarding its European pricing, with figures ranging from €1,399 all the way to €1,799. We now have fresh listings from several regional Motorola official online",
+     "source": "GSMArena",
+     "zh": "Motorola Signature 27 up for pre-order across EU markets"
     },
     {
      "title": "One UI 9.5 may try to sell you Samsung Care Plus if you drop your Galaxy phone",
@@ -2122,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你"
     },
     {
-     "title": "Here's our first look at OnePlus' next Nord",
-     "link": "https://www.gsmarena.com/heres_our_first_look_at_oneplus_next_nord-news-75625.php",
-     "pubDate": "Wed, 25 Nov 2026 07:31:02 +0100",
-     "summary": "The OnePlus Nord 6 has been available since April, and the company seems to already be working on its successor. Now a tipster on X has outed live images of what he purports to be the Nord 7, along with a few of its alleged specs. The most eye-catching change compared to its predecessor is a flashy ",
-     "source": "GSMArena",
-     "zh": "Here's our first look at OnePlus' next Nord"
-    },
-    {
      "title": "Photoshop’s latest AI features are generating some controversy",
      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
      "pubDate": "Wed, 25 Nov 2026 05:15:51 +0000",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Last week, Google announced that Gemini tasks (previously called Spark) is now available to free users in the US, along with an integration in Google Messages . In testing, I’ve found this instance of Gemini to be proactive and feel more like an assistant than the Gemini app does. more…",
      "source": "9to5Google",
      "zh": "Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive"
-    },
-    {
-     "title": "2026 tech gift guide for Apple users",
-     "link": "https://9to5mac.com/2026/11/24/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
-     "pubDate": "Tue, 24 Nov 2026 22:07:04 +0000",
-     "summary": "Black Friday week is here, so it’s officially time to start checking gifts off your list. For my 2026 tech gift guide, I’m recommending technology products that I’ve personally used all year. Each of these products has been especially useful this year, and they’ll make great gifts for the Apple user",
-     "source": "9to5Mac",
-     "zh": "2026 tech gift guide for Apple users"
     }
    ]
   },
@@ -2242,6 +2242,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "PCE preview: Final inflation test before expected Fed rate hike",
+     "link": "https://seekingalpha.com/news/4676505-pce-preview-final-inflation-test-before-fed-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:03:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PCE preview: Final inflation test before expected Fed rate hike"
+    },
+    {
+     "title": "AI交易信仰动摇，纳指期货跌超3%，英伟达盘前跌超4%，金银大跌，避险资金涌入美债",
+     "link": "https://wallstreetcn.com/articles/3786656",
+     "pubDate": "Wed, 25 Nov 2026 20:03:32 +0800",
+     "summary": "围绕人工智能热潮能否持续的疑虑正在重塑全球资产定价，投资者从科技股大举撤离，资金涌向国债与美元避险。 11月25日，美股股指期货跌幅扩大，纳指期货跌超3%，标普500指数期货跌超1%。科技股延续跌势，英伟达跌超4%，Anthropic下跌3%；AMD跌近5%，闪迪跌超5%。 避险需求推动美债上涨，基准10年期美债收益率下降4个基点至4.89%，日本10年期国债收益率同步下行7.5个基点至2.645%。现货黄金跌破3500美元/盎司关口，报3495.49美元/盎司，为去年9月以来最低水平，较高点累计回撤将超过37.5%。现货白银跌破40美元/盎司关口，报39.99美元/盎司，创2025年9月以来",
+     "source": "华尔街见闻",
+     "zh": "AI交易信仰动摇，纳指期货跌超3%，英伟达盘前跌超4%，金银大跌，避险资金涌入美债"
+    },
+    {
+     "title": "GSK posts late-stage trial win for Exdensur in rare vasculitis condition",
+     "link": "https://seekingalpha.com/news/4676524-gsks-exdensur-succeeds-rare-vasculitis-condition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:03:21 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GSK posts late-stage trial win for Exdensur in rare vasculitis condition"
+    },
+    {
+     "title": "Mortgage demand jumps even as rates rise moderately",
+     "link": "https://seekingalpha.com/news/4676518-mortgage-demand-jumps-even-as-rates-rise-moderately?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 07:01:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mortgage demand jumps even as rates rise moderately"
+    },
+    {
+     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+     "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+     "pubDate": "Wed, 25 Nov 2026 12:00:01 GMT",
+     "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
+     "source": "CNBC",
+     "zh": "Secondhand shopping is going mainstream this holiday season as consumers seek value"
+    },
+    {
+     "title": "现货黄金跌破3500美元/盎司 创2025年9月以来新低",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939714127.html",
+     "pubDate": "Wed, 25 Nov 2026 19:59:59 +0800",
+     "summary": "国际现货 黄金 价格持续下挫，跌幅接近2%，跌破3500美元/盎司整数关口，创2025年9月以来新低。行情数据显示，现货 黄金 此前于2026年1月一度触及5595.44美元/盎司的历史高点，此次跌至3500美元下方，较高点累计回撤超过37%。",
+     "source": "东方财富资讯",
+     "zh": "现货黄金跌破3500美元/盎司 创2025年9月以来新低"
+    },
+    {
+     "title": "【调研快报】爱施德接待华创证券等5家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611253939713716.html",
+     "pubDate": "Wed, 25 Nov 2026 19:59:00 +0800",
+     "summary": "爱施德 11月25日公告称， 11月24日至11月25日 接待华创证券 等5家机构 调研。 接待人员包括副总裁、董事会秘书 吴海南,投资者关系经理 陈菲菲。 公司就以下问题进行了回复： 爱施德 (股票代码:002416)成立于1998年6月,于2010年5月28日在深圳证券交易所挂牌上市。公司是国内外领先的全域销售服务商,从事以手机为核心的移动智能终端、3C数码、 通信 及增值服务和快消品的销售服务领域。公司与全球优秀手机及3C数码品牌建立了长期稳定的战略合作关系,并在快消品、数码配件等... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东",
+     "source": "东方财富股票",
+     "zh": "【调研快报】爱施德接待华创证券等5家机构调研"
+    },
+    {
+     "title": "现货白银日内跌幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939713637.html",
+     "pubDate": "Wed, 25 Nov 2026 19:58:35 +0800",
+     "summary": "现货 白银 日内跌幅扩大至3%，报39.62美元/盎司。",
+     "source": "东方财富股票",
+     "zh": "现货白银日内跌幅扩大至3%"
+    },
+    {
+     "title": "GLP-1减肥药将新增视力损伤警告标签",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939713885.html",
+     "pubDate": "Wed, 25 Nov 2026 19:57:05 +0800",
+     "summary": "在美国联邦监管机构要求下， 诺和诺德 和 礼来 正准备为旗下热门 减肥药 添加一项新的警告标签。与此同时，两家公司正面临越来越多的用户诉讼。患者声称，这些药物导致了严重副作用，而药企此前未能充分提示相关风险。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "GLP-1减肥药将新增视力损伤警告标签"
+    },
+    {
+     "title": "【调研快报】常友科技接待财通基金等3家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611253939713074.html",
+     "pubDate": "Wed, 25 Nov 2026 19:57:01 +0800",
+     "summary": "常友科技 11月25日公告称， 11月25日 接待财通基金 等3家机构 调研。 接待人员包括董事会秘书 唐娜,军品运营总监、江苏常卓总经理 段俊国。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况 公司就投资者提出的问题进行了回复(为便于投资者阅读,同类问题已合并展示): 1、目前公司海风和陆风业务的收入比重是多少? 答:当前公司风电业务整体结构中,陆风相关产品收入占据主要比重。公司持续深化海风领域的产品研发与客户布局,海风配套能力稳步提升,伴... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信",
+     "source": "东方财富股票",
+     "zh": "【调研快报】常友科技接待财通基金等3家机构调研"
+    },
+    {
+     "title": "Meta将Muse智能体接入Instagram与沃尔玛",
+     "link": "https://wallstreetcn.com/articles/3786674",
+     "pubDate": "Wed, 25 Nov 2026 19:56:06 +0800",
+     "summary": "沃尔玛正尝试让消费者通过AI助手直接完成购物。当地时间周二，沃尔玛宣布与Meta达成合作，用户可以通过Meta旗下AI智能体Muse购买沃尔玛的黑色星期五促销商品，无需自行浏览沃尔玛网站，即可完成商品搜索、比价和下单。 具体而言， 用户打开Muse应用并登录沃尔玛账号后，只需描述所需商品，Muse便会向沃尔玛发送请求，由沃尔玛返回相关商品信息，帮助用户比较选项、寻找优惠并生成购物车。 沃尔玛表示，合作体验内置了隐私保护机制。 Muse无法访问用户的沃尔玛购物历史及其他个人信息；消费者可以设置消费限额、要求购买前审批，并查看AI代理提交的订单，也可以随时删除代理档案。 此次合作意味着沃尔玛开始通",
+     "source": "华尔街见闻",
+     "zh": "Meta将Muse智能体接入Instagram与沃尔玛"
+    },
+    {
+     "title": "艾迪药业实控人及总裁拟增持1000万元至1500万元股份",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939713122.html",
+     "pubDate": "Wed, 25 Nov 2026 19:55:51 +0800",
+     "summary": "11月25日晚间， 艾迪药业 （688488）披露公告称，公司实际控制人之一、董事长傅和亮以及公司董事兼总裁张杰（以下统称“增持主体”）拟自2026年11月26日起6个月内，通过上海证券交易所交易系统允许的方式（包括但不限于集中竞价和大宗交易）增持公司股份，计划增持金额不低于1000万元（含）且不超过1500万元（含）。 对于增持股份的目的，公告显示，是基于对公司未来发展的信心和对公司长期投资价值的认可，同时为了进一步促进公司持续、稳定、健康发展，维护公司及全体股东利益，稳定市场预期，增强投资者信心。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "艾迪药业实控人及总裁拟增持1000万元至1500万元股份"
+    },
+    {
+     "title": "Deere in charts: FQ4 Construction & Forestry climbs 12% Y/Y, production & precision ag net sales drops 15%",
+     "link": "https://seekingalpha.com/news/4676433-deere-in-charts-fq4-construction-forestry-climbs-12-yy-production-precision-ag-net-sales-drops-15?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 06:54:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Deere in charts: FQ4 Construction & Forestry climbs 12% Y/Y, production & precision ag net sales drops 15%"
+    },
+    {
+     "title": "中东冲突推高能源成本 英国居民能源价格上限将上调26%",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939709467.html",
+     "pubDate": "Wed, 25 Nov 2026 19:50:28 +0800",
+     "summary": "当地时间周三，受中东冲突推高 天然气 批发价格影响，英国能源监管机构Ofgem宣布将明年一季度居民能源价格上限上调26%，至近四年来最高水平。明年1月起，数百万英国家庭的能源账单将大幅增加。 此次涨价将给英国首相安迪·伯纳姆带来压力。伯纳姆此前承诺解决生活成本高企问题，而能源价格上涨还可能进一步推 高通 胀。英国上月通胀率已升至一年来最高水平，燃料成本上涨是其中一个重要原因。 对于普通用量家庭而言，新的能源价格上限为每年2166英镑(约合2835美元)，较此前一个季度的价格上限提高443英镑，创2023年4月以来最高水平。 Ofgem市场事务总监尼尔·肯沃德表示：“中东冲突持续推高能源成本，我",
+     "source": "东方财富资讯",
+     "zh": "中东冲突推高能源成本 英国居民能源价格上限将上调26%"
+    },
+    {
+     "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+     "link": "https://seekingalpha.com/news/4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 06:49:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific"
+    },
+    {
+     "title": "Equinor agrees to asset swap with JAPEX, gets $65M",
+     "link": "https://seekingalpha.com/news/4676502-equinor-agrees-to-asset-swap-with-japex-gets-65m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 06:49:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Equinor agrees to asset swap with JAPEX, gets $65M"
+    },
+    {
      "title": "华尔街最乐观之一！德银：盈利增长叠加经济复苏，标普500明年底有望冲上9000点",
      "link": "https://wallstreetcn.com/articles/3786688",
      "pubDate": "Wed, 25 Nov 2026 19:48:43 +0800",
@@ -2250,76 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街最乐观之一！德银：盈利增长叠加经济复苏，标普500明年底有望冲上9000点"
     },
     {
-     "title": "【调研快报】科华数据接待国联民生证券股份有限公司等12家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611253939705937.html",
-     "pubDate": "Wed, 25 Nov 2026 19:42:02 +0800",
-     "summary": "科华数据 11月25日公告称， 11月25日 接待 国联民生 证券股份有限公司 等12家机构 调研。 接待人员包括公司董事会秘书 赖紫婷。 公司就以下问题进行了回复： 一、活动主要内容 科华数据 股份有限公司(以下简称“公司”)本次交流采用现场调研的方式进行,公司董事会秘书赖紫婷女士对公司2026 年三季报财务状况及近期经营成果进行了详尽的说明,并与投资者就公司发展情况以及其他投资者关心的问题进行了充分沟通。 二、投资者问答 1、请简单介绍一下公司... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本",
-     "source": "东方财富股票",
-     "zh": "【调研快报】科华数据接待国联民生证券股份有限公司等12家机构调研"
-    },
-    {
-     "title": "【调研快报】奥士康接待南方基金等9家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611253939705889.html",
-     "pubDate": "Wed, 25 Nov 2026 19:42:02 +0800",
-     "summary": "奥士康 11月25日公告称， 11月25日 接待南方基金 等9家机构 调研。 接待人员包括董事、副总经理、董事会秘书、财务总监 尹云云。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况 1、公司第三季度的收入、利润都出现了比较大的同环比增长,原因是什么? 回复:2026 年前三季度,公司实现营业收入 51.13 亿元,同比增长 26.83%;归母净利润 4.54 亿元,同比增长 60.87%;扣非归母净利润 4.53 亿元,同比增长 67... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与",
-     "source": "东方财富股票",
-     "zh": "【调研快报】奥士康接待南方基金等9家机构调研"
-    },
-    {
-     "title": "商汤系团队创立EvolonAI，完成超千万美元种子轮融资",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939705593.html",
-     "pubDate": "Wed, 25 Nov 2026 19:39:24 +0800",
-     "summary": "11月25日，北京商报记者获悉，初创公司EvolonAI（北京全新世科技有限公司）完成超千万美元 种子 轮融资。本轮融资由Momenta领投，商汤科技、商汤国香、蓝湖资本跟投。资金将用于自进化模型Evolver的训练迭代、团队建设及首批算力池搭建。 据介绍，Evolver 是公司自研的核心自进化模型，旨在将原本高度依赖HPC（高性能计算）专家完成的复杂系统优化工作，转化为模型自主执行的端到端自动化闭环。团队方面，创始人兼CEO钱晨曾任Google软件工程师、商汤执行研发总监及商汤绝影联合创始人；联合创始人王权为原商汤SenseNova大模型负责人，刘文韬为原商汤自训练Auto-Research",
-     "source": "东方财富股票",
-     "zh": "商汤系团队创立EvolonAI，完成超千万美元种子轮融资"
-    },
-    {
-     "title": "瑞穗下调戴尔科技目标价",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939705719.html",
-     "pubDate": "Wed, 25 Nov 2026 19:38:51 +0800",
-     "summary": "瑞穗证券将 戴尔科技 （Dell Technologies，DELL.N）目标价从650美元下调至500美元，降幅约23.1%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "瑞穗下调戴尔科技目标价"
-    },
-    {
      "title": "现货白银14个月以来首次跌破40美元/盎司 较历史高点回落逾67%",
      "link": "http://finance.eastmoney.com/news/1345,202611253939705068.html",
      "pubDate": "Wed, 25 Nov 2026 19:38:13 +0800",
      "summary": "国际现货 白银 价格持续下挫，现货 白银 跌破40美元/盎司关口，日内跌幅进一步扩大至2.39%，创2025年9月以来最低水平。此前 白银 价格一度升至121.65美元/盎司的历史高点，按此计算，目前较高点累计回落逾67%。",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "现货白银14个月以来首次跌破40美元/盎司 较历史高点回落逾67%"
-    },
-    {
-     "title": "【调研快报】安彩高科接待投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611253939704469.html",
-     "pubDate": "Wed, 25 Nov 2026 19:37:59 +0800",
-     "summary": "安彩高科 11月25日公告称， 11月24日 接待投资者 调研。 接待人员包括董事长 徐东伟,董事、总经理 杨建新,独立董事 张功富,总会计师、财务负责人 王珊珊,副总经理、董事会秘书 王路。 公司就以下问题进行了回复： 投资者关系活动主要内容 为便于广大投资者更全面深入地了解公司的经营成果、财务状况,公司于2026年11月24日15:00-16:00以网络互动形式召开2026年第三季度业绩说明会,就投资者关心的问题进行交流。互动环节具体交流情况如下: 预征集问题(邮箱): 1.公司实控人为河南投资集团,集团旗... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议",
-     "source": "东方财富股票",
-     "zh": "【调研快报】安彩高科接待投资者调研"
-    },
-    {
-     "title": "Commodity Corner: Copper extends AI-driven slide to near one-year lows",
-     "link": "https://seekingalpha.com/news/4676506-commodity-corner-copper-extends-ai-driven-slide-to-near-one-year-lows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:36:21 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Commodity Corner: Copper extends AI-driven slide to near one-year lows"
-    },
-    {
-     "title": "Earnings Snapshot: Deere beats Q4 revenue expectations despite EPS miss; sets FY27 net income target at $4.50B–$5.25B",
-     "link": "https://seekingalpha.com/news/4676434-earnings-snapshot-deere-beats-q4-revenue-expectations-despite-eps-miss-sets-fy27-net-income-target-at-450b525b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:36:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Snapshot: Deere beats Q4 revenue expectations despite EPS miss; sets FY27 net income target at $4.50B–$5.25B"
-    },
-    {
-     "title": "Kanzhun Non-GAAP EPS of $0.36 beats by $0.02, revenue of $360.38M misses by $5.71M",
-     "link": "https://seekingalpha.com/news/4676516-kanzhun-non-gaap-eps-of-0_36-beats-by-0_02-revenue-of-360_38m-misses-by-5_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:33:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kanzhun Non-GAAP EPS of $0.36 beats by $0.02, revenue of $360.38M misses by $5.71M"
     },
     {
      "title": "11月25日晚间沪深上市公司重大事项公告最新快递",
@@ -2330,28 +2394,20 @@ window.INDUSTRY_DATA = {
      "zh": "11月25日晚间沪深上市公司重大事项公告最新快递"
     },
     {
-     "title": "GDS Holdings Non-GAAP EPS of $0.00 beats by $0.19, revenue of $474.3M misses by $2.68M",
-     "link": "https://seekingalpha.com/news/4676515-gds-holdings-non-gaap-eps-of-0_00-beats-by-0_19-revenue-of-474_3m-misses-by-2_68m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:31:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GDS Holdings Non-GAAP EPS of $0.00 beats by $0.19, revenue of $474.3M misses by $2.68M"
-    },
-    {
-     "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan",
+     "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
      "pubDate": "Wed, 25 Nov 2026 11:27:00 GMT",
-     "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it’s time to look more at adoption.",
+     "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
      "source": "MarketWatch",
-     "zh": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan"
+     "zh": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan"
     },
     {
-     "title": "Deere GAAP EPS of $3.89 misses by $0.17, revenue of $12.12B beats by $1.78B",
-     "link": "https://seekingalpha.com/news/4676513-deere-gaap-eps-of-3_89-misses-by-0_17-revenue-of-12_12b-beats-by-1_78b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:19:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Deere GAAP EPS of $3.89 misses by $0.17, revenue of $12.12B beats by $1.78B"
+     "title": "美股期货持续跳水 科技股再遭抛售！VIX恐慌指数直线飙升",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939688887.html",
+     "pubDate": "Wed, 25 Nov 2026 19:25:00 +0800",
+     "summary": "市场避险情绪升温！ 今日晚间，美股 期货 持续跳水。截至发稿，纳指 期货 跌2.61%，标普500指数 期货 跌1.63%，道指期货跌0.92%。 美股盘前交易中，科技股再遭抛售： 英伟达 、 美光科技 、 SK海力士 、 超威半导体 、 迈威尔科技 、 西部数据 、 希捷科技 等跌超5%； Anthropic 、 闪迪 、ARM跌超6%； 英特尔 、 康宁 、 甲骨文 等跌超4%。 VIX恐慌指数盘中升至29上方，日内涨超10%，显示市场避险情绪升温。 尽管黄仁勋回归 英伟达 的消息本周早些时候曾推动市场大幅上涨，但近几日市场对 人工智能 的担忧再度浮现。投资者还在关注今日晚些时候美国将公布",
+     "source": "东方财富资讯",
+     "zh": "美股期货持续跳水 科技股再遭抛售！VIX恐慌指数直线飙升"
     },
     {
      "title": "Anthropic内部争论升级：从能力优势到决策权，人类是否应该让位？",
@@ -2360,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "超级智能时代，人类是否应该向AI让渡决策权，正成为Anthropic内部及整个AI行业争论日益激烈的议题。 据Axios报道， 越来越多AI行业高管开始反对Anthropic内部一种颇具影响力的观点：当AI足够强大，能够在人类无法胜任的领域做出更好判断时，人类应当主动交出部分决策权。 这场分歧的核心，是超级智能究竟应该成为人类的辅助工具，还是在某些领域获得超越人类的自主权。 随着前沿AI模型能力快速提升，这一争论正在从理论走向现实。 部分AI公司员工认为，某些模型已经强大到永远不应发布。 多位消息人士指出，凭借在前沿AI开发上的领先地位，Anthropic可能成为第一家真正需要面对超级智能决策",
      "source": "华尔街见闻",
      "zh": "Anthropic内部争论升级：从能力优势到决策权，人类是否应该让位？"
-    },
-    {
-     "title": "OMS Energy Technologies Inc. GAAP EPS of $0.28 beats by $0.02, revenue of $66.7M beats by $2.33M",
-     "link": "https://seekingalpha.com/news/4676512-oms-energy-technologies-inc-gaap-eps-of-028-beats-by-002-revenue-of-667m-beats-by-233m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 06:17:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OMS Energy Technologies Inc. GAAP EPS of $0.28 beats by $0.02, revenue of $66.7M beats by $2.33M"
     },
     {
      "title": "一天跌回原形！韩国救市遭质疑",
@@ -2432,54 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nasdaq 100 set to open lower as weeks-long sell-off continues",
      "source": "Financial Times",
      "zh": "Tech stocks slide as confidence in AI trade fades"
-    },
-    {
-     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-     "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-     "pubDate": "Wed, 25 Nov 2026 11:00:01 GMT",
-     "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
-     "source": "CNBC",
-     "zh": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power"
-    },
-    {
-     "title": "三一、中联、徐工、柳工等大国重器齐亮相 释放三大信号",
-     "link": "http://finance.eastmoney.com/news/1345,202611253939665771.html",
-     "pubDate": "Wed, 25 Nov 2026 18:43:38 +0800",
-     "summary": "工作人员一句“从1号取料，送到5号”，一台没有驾驶舱的装载机自行驶向料堆，下铲、收料、倒车、转向、举升、卸料，全程无人触碰操纵杆。 不远处，无人叉车按语音指令识别货物、分送不同点位；三台无驾驶室设备组成的摊压机群，靠手势和语音就能协同作业。 在上海Bauma CHINA 2026的展会上，不少机械企业都将这样去掉驾驶舱的设备带到了台前。据主办方介绍，本届的参展企业来自30余个国家和地区，共有4120家企业参展。 通过现场调研和后续采访，记者发现有一些行业趋势已逐渐变成共识：智能化从单机走向系统，电动化从一项技术选择变成“出海”的硬门槛，矿山机械则随着中国矿业“出海”升温。 不难看出， 工程机械",
-     "source": "东方财富资讯",
-     "zh": "三一、中联、徐工、柳工等大国重器齐亮相 释放三大信号"
-    },
-    {
-     "title": "桥水基金创始人达里奥最新发声！泡沫的本质：人们错把伟大新技术当成伟大投资",
-     "link": "http://finance.eastmoney.com/news/1345,202611253939651858.html",
-     "pubDate": "Wed, 25 Nov 2026 18:41:24 +0800",
-     "summary": "近日，全球最大的对冲基金桥水基金（Bridgewater Associates）创始人瑞达利欧（Ray Dalio）在《Sourcery》播客访谈中，对当前AI热潮发出警示。他跳出传统现金流估值框架剖析泡沫运行机制，以20世纪20年代电气化浪潮作为历史参照，指出市场把颠覆性技术等同于优质投资，是本轮AI行情潜藏的核心风险；泡沫的引爆点并非情绪退潮，而是杠杆资金遭遇流动性压力、投资者被迫集中抛售。 泡沫的本质：人们错把伟大新技术当成伟大投资 市场主流观点习惯以“价格高于未来现金流折现值”定义泡沫，但达里奥在采访中否定这套单一标尺。他在采访中称：“泡沫形成的底层逻辑，是人们把一项伟大的新技术，误认",
-     "source": "东方财富资讯",
-     "zh": "桥水基金创始人达里奥最新发声！泡沫的本质：人们错把伟大新技术当成伟大投资"
-    },
-    {
-     "title": "售电公司巨亏，保险机构拒保",
-     "link": "http://www.eeo.com.cn/2026/1125/1103018.shtml",
-     "pubDate": "Wed, 25 Nov 2026 18:41:00 +0800",
-     "summary": "陈晖遇到的情况并非个例。一家大型产险公司的业务主管胡鹏告诉记者，今年下半年以来，他们的售电履约保险理赔占比较往年高出逾200%；截至目前，年内累计赔付金额逾3000万元，导致今年这款保险产品承保亏损额几乎“抹去”过去3年的保费收入。",
-     "source": "经济观察网",
-     "zh": "售电公司巨亏，保险机构拒保"
-    },
-    {
-     "title": "低市值+低估值+高成长+高回撤股 31股上榜",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939652140.html",
-     "pubDate": "Wed, 25 Nov 2026 18:31:41 +0800",
-     "summary": "震荡市中，业绩支撑的低市值股票存在修复机会。 近期市场震荡回调，一批兼具“低市值、低估值、高成长”特征的 超跌股 ，或凸显出潜在配置价值。业内人士表示，当前市场处于磨底阶段，这类经历了深度调整、估值处于低位且业绩保持高增长的标的，未来有望在反弹行情中跑赢大盘。 据证券时报·数据宝统计，3家以上机构评级个股中，有31股10月以来跌超20%、最新总市值低于100亿元、滚动市盈率低于20倍且2026年前三季度归母净利润同比增长率超20%（含扭亏为盈）。 通常来说，较低的市值意味着股价弹性更大，在市场情绪回暖时往往具备更强的爆发力。31股当中， 太湖远大 、 视声智能 、 中裕科技 等个股最新总市值均",
-     "source": "东方财富资讯",
-     "zh": "低市值+低估值+高成长+高回撤股 31股上榜"
-    },
-    {
-     "title": "黄仁勋回归引爆期权狂欢！Reddit散户单笔赚近1984%，1.9万美元秒赚37.7万美元",
-     "link": "https://wallstreetcn.com/articles/3786684",
-     "pubDate": "Wed, 25 Nov 2026 18:31:12 +0800",
-     "summary": "英伟达股价单日暴涨31%，不仅让此前押注反弹的期权交易员一夜暴富，也让市场见识了极端行情下衍生品交易的惊人收益。 本月英伟达股价一度累计下跌39%，但周一董事会重新任命黄仁勋为首席执行官后，股价迅速反弹至165.05美元。 一名机构交易员上周五买入1月到期、行权价160美元的看涨期权，周一卖出一半头寸，锁定2380万美元利润。另一名散户则以1.9万美元买入看涨期权，最终获利37.69万美元，收益率高达1984%。 据彭博报道，此次人事决定是在特朗普推动下作出的，董事会甚至未征询管理层意见。黄仁勋随后向英伟达员工道歉，并表示自己每天都在接受心理治疗。 这一戏剧性反转不仅扭转了英伟达此前数周的跌势",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋回归引爆期权狂欢！Reddit散户单笔赚近1984%，1.9万美元秒赚37.7万美元"
     }
    ]
   },
@@ -2489,6 +2489,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "AI can do the calculations. Theoretical physicists are figuring out what comes next.",
+     "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+     "pubDate": "Wed, 25 Nov 2026 12:00:28 +0000",
+     "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+     "source": "Ars Technica Science",
+     "zh": "AI can do the calculations. Theoretical physicists are figuring out what comes next."
+    },
     {
      "title": "Common sleep and anxiety drugs could be harming aging brains",
      "link": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
      "source": "Ars Technica Science",
      "zh": "“Race realism” isn’t realistic—and it isn’t good science"
-    },
-    {
-     "title": "Watching as a giant star swallowed its neighbor and exploded",
-     "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-     "pubDate": "Fri, 20 Nov 2026 20:41:17 +0000",
-     "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-     "source": "Ars Technica Science",
-     "zh": "Watching as a giant star swallowed its neighbor and exploded"
     }
    ]
   }

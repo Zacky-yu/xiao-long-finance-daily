@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 17:51:56",
+ "generated_at": "2026/11/25 17:58:07",
  "recent_days": 7,
  "industries": [
   {
@@ -845,7 +845,7 @@ window.INDUSTRY_DATA = {
      "title": "JA Solar seeks injunction against LONGi over back contact patent",
      "link": "https://www.pv-tech.org/ja-solar-longi-patent-back-contact-injunction-united-patent-court/",
      "pubDate": "Wed, 25 Nov 2026 09:43:37 +0000",
-     "summary": "PV manufacturer JA Solar has filed an application for an injunction against rival LONGi in the Unified Patent Court (UPC) in Europe. Information on the case released by the UPC last week reveals that JA’s Spanish subsidiary, JA Solar Energy Spain SL, is seeking provisional measures against LONGi’s p",
+     "summary": "PV manufacturer JA Solar has filed an application for an injunction against rival LONGi in the Unified Patent Court (UPC) in Europe.",
      "source": "PV Tech",
      "zh": "JA Solar seeks injunction against LONGi over back contact patent"
     },
@@ -1042,12 +1042,12 @@ window.INDUSTRY_DATA = {
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1202,6 +1202,14 @@ window.INDUSTRY_DATA = {
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
+     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
+     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
+     "source": "BioPharma Dive",
+     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
+    },
+    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1224,6 +1232,14 @@ window.INDUSTRY_DATA = {
      "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
      "source": "STAT News",
      "zh": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026"
+    },
+    {
+     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
+     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
+     "source": "BioPharma Dive",
+     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”",
@@ -1264,22 +1280,6 @@ window.INDUSTRY_DATA = {
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
-    },
-    {
-     "title": "FDA again turns back Capricor Duchenne cell therapy",
-     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
-     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
-     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
-     "source": "BioPharma Dive",
-     "zh": "FDA again turns back Capricor Duchenne cell therapy"
-    },
-    {
-     "title": "Will the first approved psychedelic become a blockbuster?",
-     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
-     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
-     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
-     "source": "BioPharma Dive",
-     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1304,14 +1304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
      "source": "NASA",
      "zh": "Georgia’s Pecan Belt"
-    },
-    {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
     },
     {
      "title": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
@@ -1362,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)"
     },
     {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
      "pubDate": "Tue, 24 Nov 2026 19:19:52 +0000",
@@ -1392,14 +1376,6 @@ window.INDUSTRY_DATA = {
      "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
      "source": "Space.com",
      "zh": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
     },
     {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
@@ -1434,14 +1410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1464,14 +1432,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
     },
     {
      "title": "As it happened: NG-25 preview news teleconference",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
-    },
-    {
      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
@@ -1528,6 +1480,54 @@ window.INDUSTRY_DATA = {
      "summary": "The fresh funds are intended to expand the company’s government services business, and scale its product lineup to commercialize capabilities such as intersatellite links, optical ground comms, SDA, and spectrum monitoring. The post RBC Signals Raises $10M to Commercialize New Comms Tech appeared fi",
      "source": "Payload",
      "zh": "RBC Signals Raises $10M to Commercialize New Comms Tech"
+    },
+    {
+     "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
+     "link": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+     "pubDate": "Thu, 19 Nov 2026 23:51:47 +0000",
+     "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
+    },
+    {
+     "title": "The sweet spot for constellation size",
+     "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+     "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "The sweet spot for constellation size"
+    },
+    {
+     "title": "Making the case for optical",
+     "link": "https://spacenews.com/making-the-case-for-optical/",
+     "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Making the case for optical"
+    },
+    {
+     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+     "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+     "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
+     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
+     "source": "SpaceNews",
+     "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
+    },
+    {
+     "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+     "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+     "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
+     "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […] The post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
+     "source": "SpaceNews",
+     "zh": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center"
+    },
+    {
+     "title": "Origami and solar arrays",
+     "link": "https://spacenews.com/origami-and-solar-arrays/",
+     "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
+     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […] The post Origami and solar arrays appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Origami and solar arrays"
     }
    ]
   },
@@ -1746,12 +1746,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "8.99 万元起，奇瑞捷途环游者 EV 上市 20 小时大定破万",
+     "link": "https://www.ithome.com/1/032/377.htm",
+     "pubDate": "Wed, 25 Nov 2026 09:51:37 GMT",
+     "summary": "IT之家 11 月 25 日消息，奇瑞旗下捷途汽车今日宣布，捷途环游者 EV 上市 20 小时大定破 10,000 台。 据IT之家此前报道，新车长宽高分别为 4475/1880/1700 毫米，轴距 2735 毫米，共推出 5 款车型，售价区间为 8.99 万元至 12.59 万元。 车型 售价（万元） 550km 后驱畅行版 8.99 550km 后驱智行版 9.79 550km 后驱智臻版 10.79 550km 后驱智臻版 + 10.99 510kmXWD 四驱智臻版 12.59 辅助驾驶方面，高配车型搭载猎鹰 500+ 辅助驾驶系统，内置高通骁龙 8775 辅助驾驶芯片，可提供高速 ",
+     "source": "IT之家",
+     "zh": "8.99 万元起，奇瑞捷途环游者 EV 上市 20 小时大定破万"
+    },
+    {
+     "title": "三星电子计划 2027 年初出样 CXL 3.2 内存模组 MD310：基于 DDR5，最大 256GB",
+     "link": "https://www.ithome.com/1/032/376.htm",
+     "pubDate": "Wed, 25 Nov 2026 09:51:07 GMT",
+     "summary": "IT之家 11 月 25 日消息，据韩媒 THE ELEC 报道，三星电子 DS（设备解决方案）部存储器业务高级副总裁 심호준 在当地时间今日举行的一场论坛上表示，计划 2027 年初出样 CXL 3.2 内存模组 CMM-D MD310 的样品。 MD310 基于 DDR5-7200 DRAM Die，采用 EDSFF E3.S 2T 外形规格，单体容量可达 256GB，配备 CXL 3.2 / PCIe Gen6 接口， 可为系统注入额外 72GB/s 的内存带宽 。该产品预计在获得客户认证后于 2027H2 量产。 而在 MD310 之后， 三星电子还规划了基于 LPDDR5X 的 MD",
+     "source": "IT之家",
+     "zh": "三星电子计划 2027 年初出样 CXL 3.2 内存模组 MD310：基于 DDR5，最大 256GB"
+    },
+    {
+     "title": "《复仇者联盟 5》必过剧情：B站官宣 12 月 6 日播出漫威网剧《洛基 第一季》",
+     "link": "https://www.ithome.com/1/032/375.htm",
+     "pubDate": "Wed, 25 Nov 2026 09:48:13 GMT",
+     "summary": "IT之家 11 月 25 日消息，B站显示，漫威网剧《 洛基 第一季 》将于 12 月 06 日 12:00 在哔哩哔哩播出。 IT之家查询获悉，剧集《 洛基 第一季 》已于 2021 年 6 月 9 日 Disney+ 播出。故事聚焦在《复仇者联盟 4：终局之战》中，另一时空拿走空间宝石（Space Stone）的洛基，描述他作为一名恶作剧之神和变形者的身份，现身在人类历史中的多个时期，影响着历史事件。 值得一提的是，《洛基》剧集共两季，第一季主要讲述洛基的蜕变，成长为一位有担当的神明的故事；第二季则主要讲述洛基成为漫威宇宙核心人物之一的故事。而《复仇者联盟 5：毁灭之日》的剧情与《洛基》剧",
+     "source": "IT之家",
+     "zh": "《复仇者联盟 5》必过剧情：B站官宣 12 月 6 日播出漫威网剧《洛基 第一季》"
+    },
+    {
+     "title": "存储涨价，是小米最好的挡箭牌",
+     "link": "https://www.huxiu.com/article/4908398.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 17:46:58 +0800",
+     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 在昨晚小米三季度业绩电话会里，卢伟冰把财报里几乎所有不好看的数据，都用同一个解释接住——存储涨价。直到投资者问出，随着增程车澎程在四季度放量，小米汽车何时能再度盈亏平衡时，卢伟冰才有了额外的解释。 他提醒对方，“这个季度亏损扩大的核心原因，还是我们大幅增加了AI的投入。” 整个电话会，存储涨价是被反复提及的理由，不是小米所有问题的主因，却是小米最难被反驳的挡箭牌。它把外部成本、主动选择和资产负债表压力，统一用一个无法证伪的行业变量来解释。 翻开小米的财报，公司面临的最大压力是，外部承压下主业造血速度放缓，与战略投入刚性支出之间的错配。直白",
+     "source": "虎嗅",
+     "zh": "存储涨价，是小米最好的挡箭牌"
+    },
+    {
      "title": "蔚来发布 NOMI Intelligence 4.0，能够感知车内外环境并调用整车工具",
      "link": "https://www.ithome.com/1/032/373.htm",
      "pubDate": "Wed, 25 Nov 2026 09:44:15 GMT",
      "summary": "IT之家 11 月 25 日消息，今天是蔚来公司十二周年，第三届 NIO IN 蔚来创新科技日于广州举办。蔚来正式发布了面向整车原生设计的全场景情感智能 NOMI Intelligence 4.0。 据介绍，NOMI 完成了系统级架构重构，将大模型矩阵与整车原生智能体框架、系统底座及整车安全深度融合， 能够感知车内外环境并调用整车工具 ，围绕用户的目标自主理解、规划并把事情办成。 蔚来产品体验高级副总裁李天舒介绍了全新架构的两项核心技术创新： 自研大模型矩阵和车载专属强化学习，为 NOMI 提供更高的智能上限； 行业首创整车原生智能体框架， 让 NOMI 能够感知环境、调用工具，自主决策和持续",
      "source": "IT之家",
      "zh": "蔚来发布 NOMI Intelligence 4.0，能够感知车内外环境并调用整车工具"
+    },
+    {
+     "title": "挤在全国商场B1层的人，都逃不出湖南老板的手心",
+     "link": "https://www.huxiu.com/article/4908399.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 17:44:09 +0800",
+     "summary": "本文来自微信公众号： 惊蛰青年 ，作者：一休姐，编辑：桃子酱 今天秋天，仅凭一杯奶茶已跟不上社交媒体的打卡节奏，你需要一个红蓝白三色购物袋。在全国多个购物中心，你会发现，这个设计简单却颜色饱和度极高的购物袋随处可见。 循着人潮，你通常会在负一层找到一家面积并不算大的店。比店名更早进入视野的是蛇形环绕的进店队伍，另有几条队伍在店外等候收银，还有专职工作人员举牌引导排队。大批年轻人则聚集在门口拍照发圈。 这家店名叫金粒门，大约10年前凭一锅糖炒栗子在长沙起家。后来，北京的设计公司为其选择了“工业风、仓储式、大色块”的装修风格，店内在售零食覆盖多个品类，每一品类的商品却不多，又因小包装且价格亲民，被",
+     "source": "虎嗅",
+     "zh": "挤在全国商场B1层的人，都逃不出湖南老板的手心"
     },
     {
      "title": "Kalyan Krishnamurthy, CEO of India&apos;s largest online retailer Flipkart, owned by Walmart, plans to leave on Dec. 4; CTO Balaji Thiagarajan is named interim CEO (Sankalp Phartiyal/Bloomberg)",
@@ -1786,36 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "对话傅盛：30岁一无所有，36岁身价A9，没背景的人怎么改命？"
     },
     {
-     "title": "网民针对华为手机 / 鸿蒙系统发布数百条不实评论、捏造“千亿营销费用”等虚假信息，已被行政处罚",
-     "link": "https://www.ithome.com/1/032/371.htm",
-     "pubDate": "Wed, 25 Nov 2026 09:29:14 GMT",
-     "summary": "IT之家 11 月 25 日消息，在网络传播高速化的当下，一条未经核实的言论、一段刻意编造的虚假视频，无需成本，却能在短时间内快速发酵传播，摧毁企业积攒多年的品牌口碑。 IT之家注意到，湖南网警聚焦涉企造谣抹黑类违法案件，今日公开了一起“ 恶意抹黑知名企业产品，散布数百条不实言论 ”典型案例： 2026 年以来，网民李某峰在多个主流短视频平台评论区，依托碎片化网络信息，在无任何权威依据、未经核实的前提下，针对华为手机、鸿蒙系统、问界汽车等知名产品， 持续发布数百条不实评论 ， 捏造“千亿营销费用”“研发费用造假”等虚假信息 。 海量不实言论持续扩散，严重误导公众认知，对企业品牌形象造成极大负面",
-     "source": "IT之家",
-     "zh": "网民针对华为手机 / 鸿蒙系统发布数百条不实评论、捏造“千亿营销费用”等虚假信息，已被行政处罚"
-    },
-    {
-     "title": "高负载考验主机散热：主播称玩《GTA 6》时 PS5 损毁",
-     "link": "https://www.ithome.com/1/032/370.htm",
-     "pubDate": "Wed, 25 Nov 2026 09:29:11 GMT",
-     "summary": "IT之家 11 月 25 日消息，据 TweakTown 报道，Rockstar Games 的《侠盗猎车手 6》（GTA 6）于 11 月 19 日登陆 PlayStation 5 和 Xbox Series X|S 平台，上线还不到一周，就不断出现玩家反馈 PS5 闪退、突然关机，甚至主机直接损坏的消息，已有两名 Twitch 主播在直播游玩途中遭遇主机报废。 其中影响最大的是 Twitch 主播希夫贾姆（shivjam），他发文称《GTA 6》“烧坏了我的 PS5，显卡已经损坏，主机彻底用不了”。 在他录制的片段里，游戏画面卡死，屏幕出现一道道绿色花屏，这类现象通常是显卡硬件故障的典型表",
-     "source": "IT之家",
-     "zh": "高负载考验主机散热：主播称玩《GTA 6》时 PS5 损毁"
-    },
-    {
      "title": "金山软件 2026 财年第三财季归母亏损 2.04 亿元，同比由盈转亏",
      "link": "https://www.ithome.com/1/032/358.htm",
      "pubDate": "Wed, 25 Nov 2026 09:22:50 GMT",
      "summary": "IT之家 11 月 25 日消息，金山软件今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：24.39 亿元，同比增长 1%，环比下降 3% 毛利润 ：19.76 亿元，同比增长 2%，环比持平 毛利率 ：81% 归母净利润 ：-2.04 亿元，同比由盈转亏，环比由盈转亏 经营现金流 ：3.75 亿元，同比下降 24.17%，环比下降 39.62% 基本每股收益 ：-0.15 元，同比由盈转亏，环比由盈转亏 稀释每股收益 ：-0.15 元，同比由盈转亏，环比由盈转亏 资产负债率 ：17% AI 解",
      "source": "IT之家",
      "zh": "金山软件 2026 财年第三财季归母亏损 2.04 亿元，同比由盈转亏"
-    },
-    {
-     "title": "富士通 CTO：FUJITSU-MONAKA 服务器 CPU 初期需求旺盛，超出企业预期",
-     "link": "https://www.ithome.com/1/032/357.htm",
-     "pubDate": "Wed, 25 Nov 2026 09:22:37 GMT",
-     "summary": "IT之家 11 月 25 日消息，富士通 (FUJITSU) 首席技术官 Vivek Mahajan 当地时间昨日接受彭博社采访，他表示客户对 FUJITSU-MONAKA 服务器 CPU 的初期需求旺盛，超出了企业预期。 Vivek Mahajan 提到，FUJITSU-MONAKA 的特殊身份使其成为保障关键领域主权数据安全的良好选择， 日本本土与美国、欧洲潜在客户对其兴趣正在提升 。富士通已联系台积电等供应链合作伙伴以保障该 CPU 的供给能跟上需求。 富士通此前预计 FUJITSU-MONAKA 芯片有望在首个财年实现 350 亿日元 （IT之家注：现汇率约合 14.67 亿元人民币）",
-     "source": "IT之家",
-     "zh": "富士通 CTO：FUJITSU-MONAKA 服务器 CPU 初期需求旺盛，超出企业预期"
     },
     {
      "title": "中国在核军控问题上出手了",
@@ -1840,22 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东，编辑：王庆武 一级市场的“流动性清算”开始了。 本文字数3795 手搓量丨85%AI含量丨15% 一家做消费品的上市公司，今年一季度靠一笔三年前的早期股权投资，在财报里记下了8.75亿元的公允价值变动收益。谁也没想到，这笔账面富贵还没捂热，二季度就吐回去5.97亿元，三季度又亏掉1.92亿元。短短半年，近八亿元浮盈几乎蒸发殆尽，直接把公司前三季度的净利润拉低了7.6%。 让这家上市公司财报剧烈起伏的标的，是今年1月登陆港股的大模型独角兽MiniMax。 截至11月24日收盘，MiniMax股价报101.5港元，总市值357.8亿港元，距3月18日1",
      "source": "虎嗅",
      "zh": "抢到明星IPO的大钱，被套了"
-    },
-    {
-     "title": "当人们越来越少读书，书店为什么反而越来越热闹？",
-     "link": "https://www.huxiu.com/article/4908384.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 17:11:53 +0800",
-     "summary": "本文来自微信公众号： 声动活泼 ，编辑：晚晚，作者：声小音，原文标题：《当人们越来越少读书，书店为什么反而越来越热闹？| 声动早咖啡》 欢迎来到今天的轻解读。如果你平时有逛书店的习惯，有没有发现身边的书店越来越少了呢。36氪的报道显示，全国独立实体书店数量从2019年的近3万家，缩减到了2024年的1.7万家，五年少了44%，而且超过六成的书店都处于亏损的状态。就连开出500多家店的连锁品牌西西弗，他们依靠开店，实现增长的路径也遇到了阻碍。今年的前7个月，西西弗书店加矢量咖啡新开33家，但是同时也关了49家店，最近他们还因为推销储值卡和消费入座陷入争议。 美国的实体书店行业之前也经历过大规模的",
-     "source": "虎嗅",
-     "zh": "当人们越来越少读书，书店为什么反而越来越热闹？"
-    },
-    {
-     "title": "下海之后，水下机器人要过浑水、回收和验收三关｜机器人落地项目榜",
-     "link": "https://www.huxiu.com/article/4908379.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 17:11:28 +0800",
-     "summary": "本文来自微信公众号： 科技C位 ，作者：东木褚，原文标题：《下海之后，水下机器人要过浑水、回收和验收三关｜机器人落地项目榜》 海上光伏桩基要查腐蚀，水库大坝要找裂缝，海底光缆要埋进海床。 过去主要由潜水员、大型遥控设备和高成本工程船承担的工作，正在出现更多国产机器人的身影。 水下机器人却很难说已经整体跨过了商业化门槛。海水会削弱光线和电磁波，卫星定位无法直接穿透水体，水声通信带宽有限。 到了水下，机器人既要解决看清目标、保持姿态和自主导航，也要面对腐蚀、淤积、生物附着和复杂海况。 不同任务对设备的要求相差很大：检查一根桩、测绘一片库底、埋设一段深海光缆，背后几乎是三门不同的生意。 因此，本期“",
-     "source": "虎嗅",
-     "zh": "下海之后，水下机器人要过浑水、回收和验收三关｜机器人落地项目榜"
     },
     {
      "title": "美客多墨西哥本土店入驻，3人小团队怎么排期才不耽误现有巴西站节奏？",
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
      "link": "https://arxiv.org/abs/2611.31286",
      "pubDate": "Wed, 25 Nov 2026 08:23:34 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2611.31286 Comments URL: https://news.ycombinator.com/item?id=50639929 Points: 7 # Comments: 3",
+     "summary": "Article URL: https://arxiv.org/abs/2611.31286 Comments URL: https://news.ycombinator.com/item?id=50639929 Points: 15 # Comments: 6",
      "source": "Hacker News",
      "zh": "Why Automated Proof-Solving Is the Same Old Dead End"
     },
@@ -2242,36 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "谋求控股未果后转向，通策医疗大幅收缩和仁科技投资",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939610388.html",
-     "pubDate": "Wed, 25 Nov 2026 17:40:12 +0800",
-     "summary": "11月24日晚间，通策医疗发布公告称，公司拟向宏旺微 电子 转让其持有的 和仁科技 14%股权，转让价款4.2亿元。交易完成后，通策医疗持股由19.01%降至5.01%。回溯过往，通策医疗自2022年起布局 和仁科技 ，当年5月曾计划以7.69亿元拿下 和仁科技 控股权，交易在推进九个月后折戟，此后公司调整战略，以5.01亿元收购和仁科技19%股份，以二股东的方式战略投资和仁科技，并保留成为控股股东的可能性。 本次出让和仁科技股权，发生在通策医疗近年来业绩增长持续承压的背景之下。自2021年净利润达到7.03亿元高点后，通策医疗净利润在2022—2023年连续下滑，后续两年营收与净利润仅维持微",
-     "source": "东方财富股票",
-     "zh": "谋求控股未果后转向，通策医疗大幅收缩和仁科技投资"
+     "title": "Budget carrier Norse Atlantic falls 70% after warning its finances are ‘critical’ amid soaring fuel costs",
+     "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+     "pubDate": "Wed, 25 Nov 2026 09:52:39 GMT",
+     "summary": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs.",
+     "source": "CNBC",
+     "zh": "Budget carrier Norse Atlantic falls 70% after warning its finances are ‘critical’ amid soaring fuel costs"
     },
     {
-     "title": "韩媒：韩国拟扩大股市稳定基金规模 摸底25家金融机构追加出资能力",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939610645.html",
-     "pubDate": "Wed, 25 Nov 2026 17:39:21 +0800",
-     "summary": "据韩国媒体《朝鲜日报》报道，韩国金融监管部门决定扩大规模达10.76万亿韩元的股市稳定基金，目前正向 银行 、证券公司等25家金融机构了解其追加出资能力。这些金融机构于23日收到产业 银行 发出的相关公文，目前已开始内部评估。此前，韩国政府接连出台多项稳定股市的措施，但市场不安情绪仍未平息。11月25日，韩国KOSPI指数单日暴跌6.16%。不过，股市稳定基金何时启动、具体投入多少资金，目前尚未确定。韩国政府推动扩大股市稳定基金规模，是因为外界认为，仅依靠此前设立的资金，可能难以应对股市大幅下跌。目前，10.76万亿韩元的基金规模仅相当于韩国股市总市值3847.663万亿韩元的0.28%。 （",
+     "title": "晨光新材：截至11月20日最新股东户数1.96万户，较上期减少3.63%",
+     "link": "http://stock.eastmoney.com/news/11111,202611253939612357.html",
+     "pubDate": "Wed, 25 Nov 2026 17:46:01 +0800",
+     "summary": "晨光新材 最新披露数据显示，截至11月20日公司股东户数为1.96万户，较上期(2026年11月10日) 减少739户，降幅为3.63% 。户均持有流通股数量 由上期的1.53万股上升至1.58万股， 户均持股金额 由上期的15.90万元减少至14.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
      "source": "东方财富股票",
-     "zh": "韩媒：韩国拟扩大股市稳定基金规模 摸底25家金融机构追加出资能力"
+     "zh": "晨光新材：截至11月20日最新股东户数1.96万户，较上期减少3.63%"
     },
     {
-     "title": "据朝鲜日报：韩国拟扩大股市稳定基金规模，正摸底25家金融机构追加出资能力",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939609539.html",
-     "pubDate": "Wed, 25 Nov 2026 17:38:51 +0800",
-     "summary": "据朝鲜日报：韩国拟扩大股市稳定基金规模，正摸底25家金融机构追加出资能力。 （文章来源：金十数据快讯）",
+     "title": "辽港股份：截至11月20日最新股东户数19.91万户，较上期减少0.60%",
+     "link": "http://stock.eastmoney.com/news/11111,202611253939612012.html",
+     "pubDate": "Wed, 25 Nov 2026 17:44:57 +0800",
+     "summary": "辽港股份 最新披露数据显示，截至11月20日公司股东户数为19.91万户，较上期(2026年10月31日) 减少1194户，降幅为0.60% 。户均持有流通股数量 由上期的11.77万股上升至11.84万股， 户均持股金额 由上期的17.18万元减少至16.93万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对",
      "source": "东方财富股票",
-     "zh": "据朝鲜日报：韩国拟扩大股市稳定基金规模，正摸底25家金融机构追加出资能力"
+     "zh": "辽港股份：截至11月20日最新股东户数19.91万户，较上期减少0.60%"
     },
     {
-     "title": "巴克莱上调惠普目标价",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939609175.html",
-     "pubDate": "Wed, 25 Nov 2026 17:37:16 +0800",
-     "summary": "巴克莱 将 惠普 目标价从23美元上调至24美元。 （文章来源：财联社）",
+     "title": "【调研快报】地铁设计接待广州良景环保等7家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611253939611691.html",
+     "pubDate": "Wed, 25 Nov 2026 17:43:59 +0800",
+     "summary": "地铁设计 11月25日公告称， 11月25日 接待广州良景 环保 等7家机构 调研。 接待人员包括 地铁设计 许维,孙艺汉。 公司就以下问题进行了回复： 一、参观公司展厅、介绍公司基本情况 二、交流环节 1.前三季度经营业绩波动的原因及预计四季度现金流情况? 2026年前三季度,公司经营业绩较上年同期存在一定下滑,主要系受到国内轨道交通建设规划批复阶段性放缓,新获取的轨道交通勘察设计业务订单有所减少;以及轨道交通行业建设强度阶段性波... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 ",
      "source": "东方财富股票",
-     "zh": "巴克莱上调惠普目标价"
+     "zh": "【调研快报】地铁设计接待广州良景环保等7家机构调研"
+    },
+    {
+     "title": "29岁“少帅”掌舵后 罗普斯金寻求增长“第二曲线”",
+     "link": "http://stock.eastmoney.com/news/11215,202611253939613158.html",
+     "pubDate": "Wed, 25 Nov 2026 17:43:18 +0800",
+     "summary": "一笔跨界收购，把一家 铝 型材上市公司推到聚光灯下。近日，中亿丰 罗普斯金 材料科技股份有限公司（002333.SZ，以下简称“ 罗普斯金 ”）以约2.07亿元完成对苏州盟萤 电子 科技有限公司（以下简称“盟萤科技”）51%股权的收购。 今年前三季度， 罗普斯金 营业总收入10.01亿元，同比下滑15.22%；归母净利润2326.71万元，同比下滑47.11%。 《中国经营报》记者梳理公司近几年年报发现，罗普斯金每年约5000万元归母净利润背后（剔除2022年归母净利润为亏损4925.42万元），经营性现金流长期净流出，在2022年—2025年期间有三年为负，累计净流出约3.22亿元；毛利率最",
+     "source": "东方财富股票",
+     "zh": "29岁“少帅”掌舵后 罗普斯金寻求增长“第二曲线”"
+    },
+    {
+     "title": "2026小鹏科技日启幕：IRON机器人明年1月量产，多项物理AI成果集中披露",
+     "link": "http://stock.eastmoney.com/news/11231,202611253939612795.html",
+     "pubDate": "Wed, 25 Nov 2026 17:43:08 +0800",
+     "summary": "新华财经北京11月25日电（王媛媛） 25日下午，主题为“Origin 原点”的2026小鹏科技日正式启幕。在科技日上，小鹏 汽车 董事长、CEO何小鹏介绍，小鹏人机 机器人 IRON将于明年1月进入硬件量产；小鹏第二代VLA目标是在明年上半年开启全球首批交付；小鹏行业首次实现OTA提升充电倍率；全球首张有人驾驶eVTOL TC认证进入最后阶段。 小鹏人机 机器人 IRON将于明年1月进入硬件量产 何小鹏在小鹏科技日活动上透露，小鹏人形 机器人 IRON将于2027年1月进入硬件量产，2月正式对外发布。 就在昨日，小鹏公布旗下 人形机器人 IRON的最新预热视频。短片显示，IRON在模拟居家环",
+     "source": "东方财富股票",
+     "zh": "2026小鹏科技日启幕：IRON机器人明年1月量产，多项物理AI成果集中披露"
+    },
+    {
+     "title": "SK海力士和三星电子年底330亿美元派息资金需求料提振韩元",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939614428.html",
+     "pubDate": "Wed, 25 Nov 2026 17:43:08 +0800",
+     "summary": "韩国从 人工智能 (AI)芯片热潮中获得的意外之财正掀起一波年底资金流动，可能推动韩元进入下一阶段的升势。预计 SK海力士 和三星 电子 将把巨额出口收入的一部分兑换成韩元，用于支付合计330亿美元的第三季度股息和创纪录的员工奖金。受AI硬件热潮推动，两家公司还需要更多韩元来缴纳大额税款。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "SK海力士和三星电子年底330亿美元派息资金需求料提振韩元"
     },
     {
      "title": "Starbucks taps advisers for sale of Japan business: report",
@@ -2282,20 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Starbucks taps advisers for sale of Japan business: report"
     },
     {
-     "title": "中国—印尼药用植物保护研究创新基地产业化合作项目首单落地海口",
-     "link": "http://stock.eastmoney.com/news/11219,202611253939608965.html",
-     "pubDate": "Wed, 25 Nov 2026 17:36:14 +0800",
-     "summary": "新华财经海口11月25日电（记者余蕊于海）近日，印尼西加英达曼迪里有限公司与 康芝药业 旗下海南康芝生物科技有限公司在海口国家高新区签署印尼血竭购销协议。该项合作的达成是中国—印尼药用植物保护研究创新基地产业化合作的首单项目，主要为血竭进口购销业务。该项合作实现了药材产地全程可溯源，并采用人民币结算。 2022年11月，《关于共建中印尼药用植物保护研究创新基地的谅解备忘录》签署。中国—印尼药用植物保护研究创新基地是中印尼“区域 综合 经济走廊”重点合作项目。2023年10月，其被纳入《第三届“ 一带一路 ”国际合作高峰论坛务实合作项目清单》。 血竭被誉为“活血圣药”，具有活血定痛、化瘀止血、生",
-     "source": "东方财富股票",
-     "zh": "中国—印尼药用植物保护研究创新基地产业化合作项目首单落地海口"
-    },
-    {
-     "title": "理想汽车季度收入同比增长5.4%至288亿元 季度交付量同比增长7.2%至99964辆",
-     "link": "http://stock.eastmoney.com/news/11228,202611253939608662.html",
-     "pubDate": "Wed, 25 Nov 2026 17:36:10 +0800",
-     "summary": "新华财经北京11月25日电（罗浩） 理想汽车 发布的最新财报显示，2026年第三季度， 理想汽车 的收入总额为人民币288亿元（单位下同），同比增长5.4%，环比增长12.3%。该季度的毛利率为16.7%，上年同期为16.3%，2026年第二季度为11.0%。第三季度的净亏损为3.1亿元，同比减少50.4%，环比减少81.8%。第三季度的非美国公认会计准则净亏损为1.13亿元，同比减少68.6%，环比减少92.5%。第三季度的经营活动所得现金净额为32亿元，上年同期为74亿元，2026年第二季度约1500万元。 2026年第三季度，该公司 汽车 总交付量为99964辆，同比增加7.2%。 财报",
-     "source": "东方财富股票",
-     "zh": "理想汽车季度收入同比增长5.4%至288亿元 季度交付量同比增长7.2%至99964辆"
+     "title": "韩国寻求扩大股市稳定基金规模",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939603359.html",
+     "pubDate": "Wed, 25 Nov 2026 17:32:37 +0800",
+     "summary": "据报道，韩国寻求扩大股市稳定基金规模。 相关报道 韩国拟扩容证券市场稳定基金 当局正对25家机构开展出资能力评估 韩国金融监管部门决定扩容规模达10.76万亿韩元的证券市场稳定基金，目前正在评估 银行 、券商等25家金融机构的追加出资能力。近期韩国股市接连出台维稳举措，但市场动荡未见缓和，韩国 综合 指数（KOSPI）11月25日单日暴跌6.16%。不过，基金的投放时点与投放规模暂未敲定。 据金融投资行业11月25日消息，韩国产业 银行 正在针对这25家机构，评估其对证券市场稳定基金的追加出资能力。相关机构已于11月23日收到韩国产业 银行 的正式文件，启动内部审核。但报道称，券商方面自今年三",
+     "source": "东方财富资讯",
+     "zh": "韩国寻求扩大股市稳定基金规模"
     },
     {
      "title": "广州地铁西村站试点“过街码”，10分钟内同站进出闸免费",
@@ -2370,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "Nasdaq futures extend losses as tech stocks face renewed pressure"
     },
     {
+     "title": "黄仁勋重返英伟达 人工智能信贷市场巨震 知名策略师发出最新警告",
+     "link": "http://bond.eastmoney.com/news/1332,202611253939582228.html",
+     "pubDate": "Wed, 25 Nov 2026 17:04:33 +0800",
+     "summary": "黄仁勋回归 英伟达 首日，股市债市一片欢腾，但华尔街的欢呼声没能撑过24小时。当地时间24日，美国 人工智能 领域信贷市场迎来了一场剧烈震荡。 前一天还在为“王者归来”高唱赞歌的投资者，迅速切换到了避险模式。股市回吐涨幅，债券收益率跳升，衡量违约风险的信用违约互换（CDS）利差全线走阔。 AI循环融资惹担忧 据美国消费者新闻与商业频道(CNBC)当地时间24日报道，华尔街权衡黄仁勋重返 英伟达 对该公司资助 人工智能 热潮的意义，加剧了人们对为 人工智能 建设而承担巨额债务的担忧。 CNBC报道称，黄仁勋被认为是人工智能行业顶尖的金融家或 银行 家之一，他主导了与CoreWeave等新型云平台",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋重返英伟达 人工智能信贷市场巨震 知名策略师发出最新警告"
+    },
+    {
      "title": "斗鱼及创始人陈少杰新增被执行案件，被执行金额超1.9亿元",
      "link": "http://www.eeo.com.cn/2026/1125/1102771.shtml",
      "pubDate": "Wed, 25 Nov 2026 17:01:50 +0800",
@@ -2384,6 +2408,14 @@ window.INDUSTRY_DATA = {
      "summary": "美国联邦债务在2025年8月18日突破40万亿美元。此后两个月，债务规模又增加了6000亿美元。DoubleLine Capital创始人、CEO兼CIO杰弗里·冈拉克（Jeffrey Gundlach）预计，美国2027财年的财政赤字可能达到3万亿美元，相当于GDP的9%。 按照他的测算，美国债务增长的年化速度，已经从2万亿美元上升至3万亿美元。 在洛杉矶的一场对谈中，这位被称为“新债王”的投资人将美国债务危机的时间点“提前至”2029年至2030年。同台的《第四转折》作者、历史学家尼尔·豪（Neil Howe），从代际历史周期推算出的美国社会转折时间，也恰好落在这一时期。 对于美国政府如何",
      "source": "华尔街见闻",
      "zh": "“新债王”：美国债务危机将在2029-2030年启动，只有三条路化债“重组、印钞和通胀”"
+    },
+    {
+     "title": "三星、SK海力士面临招工难 韩国政府计划动员退伍军人及其他人员",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939575118.html",
+     "pubDate": "Wed, 25 Nov 2026 16:59:22 +0800",
+     "summary": "三星 电子 和 SK海力士 正在投资数十亿美元扩建 半导体 工厂，但其在韩国的扩张却面临着技术工人短缺的问题。 最新报告显示，到2030年，两家公司预计需要26万名员工才能建成下一代芯片制造工厂。针对这一难题，韩国政府决定向三星和 SK海力士 提供退伍军人和其他人员来弥补劳动力缺口。 据悉，韩国国土交通部近日在首尔召开行业会议，并与三星、 SK海力士 、三星物产、SK Ecoplant、韩国土地住宅公社以及主要分包商共同成立了一个公私合作咨询机构，以应对即将到来的劳动力短缺问题。 为了确保 半导体 工厂的建设能如期进行，并确保26万劳动力缺口得到满足，韩国政府将开展公私联合培训计划，以便毕业生",
+     "source": "东方财富资讯",
+     "zh": "三星、SK海力士面临招工难 韩国政府计划动员退伍军人及其他人员"
     },
     {
      "title": "当企业家成为企业不能失去的资源 | 蔚言大义",
@@ -2410,6 +2442,22 @@ window.INDUSTRY_DATA = {
      "zh": "沪指失守3500点，医药、消费逆势走强，创业板跌超43%，“宁王”大跌8%，半导体产业链下跌，恒科指午后跌超2%"
     },
     {
+     "title": "学习时报：算力供给要避免“一哄而上”",
+     "link": "http://finance.eastmoney.com/news/1345,202611253939557886.html",
+     "pubDate": "Wed, 25 Nov 2026 16:45:31 +0800",
+     "summary": "习近平总书记在内蒙古乌兰察布考察时语重心长地指出，“我现在对发展新质生产力，包括对现在的几大领先产业，最担心的还是无序发展，一哄而起，最后一哄而散，那样更挫伤积极性。还有就是‘内卷’问题，盲目竞争，不顾自身条件地发展”，并对算力产业提出“高效、绿色、安全”的明确要求。其中“高效”被置于首位，意味着要加强科学规划、集约调度，提升算力效能，避免“一哄而上”、盲目投资。 算力如同农业时代的水利、工业时代的 电力 ，集信息计算力、网络运载力、数据存储力于一体，是 人工智能 时代的核心 驱动力 。算力以“网”的形态集聚，通过算力基础设施向社会提供服务。算力网是国家规划建设的“六张网”之一，主要包括算力生",
+     "source": "东方财富资讯",
+     "zh": "学习时报：算力供给要避免“一哄而上”"
+    },
+    {
+     "title": "机构调研丨流感+中药概念 这家公司今日逆势涨停 主力产品恢复增长 下属公司新药已提交IND申请",
+     "link": "http://finance.eastmoney.com/news/11822,202611253939553888.html",
+     "pubDate": "Wed, 25 Nov 2026 16:37:34 +0800",
+     "summary": "11月25日，多家上市公司发布投资者关系活动记录表公告，披露各自与机构之间的业务交流内容，其中透露出公司业务布局的诸多进展与亮点。 桂林三金 ：三金片恢复增长态势 宝船生物在研项目达20个 桂林三金 近期以现场结合线上交流形式接待华创证券、 长城证券 、摩根基金、平安养老等多家机构调研，交流重点落在主业修复与 创新药 布局两条线上。 主业端，受终端消费需求疲软、药品集中带量采购、医保支付方式改革及行业监管趋严等多重因素叠加影响，医药行业整体经营业绩持续承压，公司积极应对，通过加强渠道与终端管理、严控成本费用等措施消化外部压力。 三季报显示，公司前三季度实现 营业收入14.44亿元，同比下降1.",
+     "source": "东方财富资讯",
+     "zh": "机构调研丨流感+中药概念 这家公司今日逆势涨停 主力产品恢复增长 下属公司新药已提交IND申请"
+    },
+    {
      "title": "盘龙城遗址：商朝南土的重要核心城垣",
      "link": "http://www.eeo.com.cn/2026/1125/1102697.shtml",
      "pubDate": "Wed, 25 Nov 2026 16:35:12 +0800",
@@ -2432,54 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "理想汽车第三季度营收与盈利指标全面好于市场预期，毛利率环比大幅修复，自由现金流转正，但第四季度营收指引显著低于分析师预估。 公司11月25日公布未经审计的第三季度业绩， 营收288.3亿元人民币，同比增长5.4%，高于彭博综合预期的280亿元。毛利率16.7%，较上年同期的16.3%提升0.4个百分点，远超预估的13.6%。 第三季度交付量为99964辆，同比增长7.2%，但略低于预估的102489辆。 但公司对第四季度的指引令市场失望。理想汽车预计第四季度营收317亿至331亿元人民币，而彭博综合预期为349.4亿元；预计交付量11万至11.5万辆，预估为130281辆。 毛利率修复成为三季",
      "source": "华尔街见闻",
      "zh": "理想汽车Q3营收同增5.4%超预期，经营亏损大幅收窄，但Q4交付指引远低于市场预估 | 财报见闻"
-    },
-    {
-     "title": "美股这波反弹是陷阱？华尔街大佬拉响警报：标普500可能跌到5500点！",
-     "link": "https://wallstreetcn.com/articles/3786666",
-     "pubDate": "Wed, 25 Nov 2026 16:20:44 +0800",
-     "summary": "美股刚刚经历了一轮剧烈震荡，市场情绪却迅速从恐慌转向乐观。但在华尔街知名宏观经济学家大卫·罗森伯格（David Rosenberg）看来，这轮反弹可能恰恰是熊市中最容易让投资者放松警惕的阶段。他判断，标普500指数可能已经在10月6日见顶，眼下的上涨更像是典型熊市中的反射性反弹，而不是新一轮牛市的开始。 罗森伯格援引过去60年的市场周期指出，熊市往往经历三个阶段： 首先是持续约4个月、跌幅约14%的第一轮下跌；随后出现持续约4个月、平均涨幅约11%的反弹，其中约80%的情况下，市场会重新挑战前期高点；但在这之后，市场可能再经历约10个月的下跌，跌幅达到27%。按照这一历史路径推演，他认为标普5",
-     "source": "华尔街见闻",
-     "zh": "美股这波反弹是陷阱？华尔街大佬拉响警报：标普500可能跌到5500点！"
-    },
-    {
-     "title": "Tech stocks slide as confidence in AI trade fades",
-     "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-     "pubDate": "Wed, 25 Nov 2026 07:54:11 GMT",
-     "summary": "Nasdaq 100 set to open lower as weeks-long sell-off continues",
-     "source": "Financial Times",
-     "zh": "Tech stocks slide as confidence in AI trade fades"
-    },
-    {
-     "title": "Treasury yields fall as investors await key inflation signal",
-     "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-     "pubDate": "Wed, 25 Nov 2026 07:44:24 GMT",
-     "summary": "Bond yields moved lower Wednesday as investors awaited key inflation and spending data during a holiday-shortened week.",
-     "source": "CNBC",
-     "zh": "Treasury yields fall as investors await key inflation signal"
-    },
-    {
-     "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-     "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-     "pubDate": "Wed, 25 Nov 2026 06:29:46 GMT",
-     "summary": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
-     "source": "CNBC",
-     "zh": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
-    },
-    {
-     "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-     "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-     "pubDate": "Wed, 25 Nov 2026 06:09:44 GMT",
-     "summary": "Maelstrom CIO Arthur Hayes expects the AI trade to face headwinds in the second half of 2027, with startup talent potentially returning to crypto afterward.",
-     "source": "CNBC",
-     "zh": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says"
-    },
-    {
-     "title": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects",
-     "link": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
-     "pubDate": "Wed, 25 Nov 2026 06:00:02 GMT",
-     "summary": "By pushing its listing to the limit, the Claude maker has made itself a hard act to follow",
-     "source": "Financial Times",
-     "zh": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects"
     }
    ]
   },

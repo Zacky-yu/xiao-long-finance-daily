@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 10:54:35",
+ "generated_at": "2026/11/25 11:03:13",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
      "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
      "source": "TechCrunch AI",
-     "zh": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion"
+     "zh": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion"
     },
     {
      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tesla & SpaceX Merger Nears With Big Moves From The Boards",
+     "link": "https://cleantechnica.com/2026/11/24/tesla-spacex-merger-nears-with-big-moves-from-the-boards/",
+     "pubDate": "Wed, 25 Nov 2026 02:57:42 +0000",
+     "summary": "There’s been the expectation for months, since SpaceX’s IPO at least, that Tesla and SpaceX will merge. The suspicions haven’t been built on a lot of evidence, more so just the sense that this is what Elon Musk would like to do — including because it would give him basically ... [continued] The post",
+     "source": "CleanTechnica",
+     "zh": "Tesla & SpaceX Merger Nears With Big Moves From The Boards"
+    },
+    {
      "title": "The Diesel Crunch Isn’t Over Yet",
      "link": "https://oilprice.com/Energy/Energy-General/The-Diesel-Crunch-Isnt-Over-Yet.html",
      "pubDate": "Tue, 24 Nov 2026 19:00:00 -0600",
@@ -930,14 +938,6 @@ window.INDUSTRY_DATA = {
      "zh": "Clean Port Coalition Urges EU To Accelerate Port Electrification"
     },
     {
-     "title": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study",
-     "link": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
-     "pubDate": "Tue, 24 Nov 2026 19:14:35 +0000",
-     "summary": "New research reveals a single ship emits, on average, as much toxic sulphur at port in a year as 19,300 cars, leaving taxpayers and hospitals to pay the hidden cost of shipping pollution. Commercial ships docked in European ports inflict €2.5 billion a year in societal and environmental costs, accor",
-     "source": "CleanTechnica",
-     "zh": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study"
-    },
-    {
      "title": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia",
      "link": "https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/",
      "pubDate": "Tue, 24 Nov 2026 12:26:49 -0500",
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA touts $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA announces $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
-     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee, but it has &ldquo;not yet decided&rdquo; whether to build it.",
+     "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
+     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1186,14 +1186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Kymera's historic $1.75B offering; DiaMedica's fetal growth restriction data"
     },
     {
-     "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-     "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-     "pubDate": "Tue, 24 Nov 2026 10:36:00 -0500",
-     "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product.",
-     "source": "BioPharma Dive",
-     "zh": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer"
-    },
-    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
      "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
      "pubDate": "Tue, 24 Nov 2026 14:27:36 +0000",
@@ -1224,14 +1216,6 @@ window.INDUSTRY_DATA = {
      "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
      "source": "STAT News",
      "zh": "Menopause hormone therapy med popularity increases 141% compared to previous years"
-    },
-    {
-     "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-     "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-     "pubDate": "Tue, 24 Nov 2026 08:50:59 -0500",
-     "summary": "Pointing to Insmed&rsquo;s pipeline and two commercial drugs, Sanofi said the deal will be &ldquo;transformative&rdquo; as well as complementary to its immunology and rare disease products.",
-     "source": "BioPharma Dive",
-     "zh": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition"
     },
     {
      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -1280,6 +1264,22 @@ window.INDUSTRY_DATA = {
      "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
      "source": "BioPharma Dive",
      "zh": "Why today’s leading drug developers are fine-tuning open models on their own data"
+    },
+    {
+     "title": "FDA again turns back Capricor Duchenne cell therapy",
+     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+     "pubDate": "Sat, 21 Nov 2026 15:46:00 -0500",
+     "summary": "In an unusual statement, the FDA accused Capricor of&nbsp;&ldquo;serious data integrity violations&rdquo; that compromised its study findings and led to deramiocel&rsquo;s second rejection since 2025.",
+     "source": "BioPharma Dive",
+     "zh": "FDA again turns back Capricor Duchenne cell therapy"
+    },
+    {
+     "title": "Will the first approved psychedelic become a blockbuster?",
+     "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+     "pubDate": "Fri, 20 Nov 2026 14:53:09 -0500",
+     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
+     "source": "BioPharma Dive",
+     "zh": "Will the first approved psychedelic become a blockbuster?"
     }
    ]
   },
@@ -1736,14 +1736,6 @@ window.INDUSTRY_DATA = {
      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers ",
      "source": "Krebs on Security",
      "zh": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
-    },
-    {
-     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-     "pubDate": "Wed, 18 Nov 2026 02:52:04 +0000",
-     "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
-     "source": "Krebs on Security",
-     "zh": "Attackers Used Optimizely to A/B Test Malware on Top Websites"
     }
    ]
   },
@@ -1922,6 +1914,14 @@ window.INDUSTRY_DATA = {
      "zh": "The US Treasury&apos;s FinCEN says it&apos;s investigating a cybersecurity incident that \"resulted in unauthorized access to a limited subset of its systems\" (Lauren Feiner/The Verge)"
     },
     {
+     "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+     "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+     "pubDate": "Wed, 25 Nov 2026 01:19:26 +0000",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 145 # Comments: 38",
+     "source": "Hacker News",
+     "zh": "Matrix Multiplication is Θ(n^2.25) [pdf]"
+    },
+    {
      "title": "Asian tech stocks tumble, led by Japanese chip stocks, after a US tech sell-off; Advantest falls 12%+, Tokyo Electron 7%+, Samsung and SK Hynix 6%+ (Lee Ying Shan/CNBC)",
      "link": "https://www.techmeme.com/261124/p47#a261124p47",
      "pubDate": "Tue, 24 Nov 2026 20:16:05 -0500",
@@ -1936,6 +1936,14 @@ window.INDUSTRY_DATA = {
      "summary": "我们做日本市场的工具类 App，刚进入起量阶段，团队一共 9 人，其中运营 2 人，日语客服目前全靠外包，月预算约 3 万元人民币。现在遇到的问题是：日本用户咨询集中在晚间 20 点到 24 点，外包团队只能覆盖工作日 10 点到 19 点，周末响应时长从平均 2 小时拉长到 9 小时，差评率一周内涨了 1.8 个百分点。已经试过让内部运营用翻译工具顶班，但日语敬语表达不地道，用户不买账；也问过两家日本本地呼叫中心，报价超出预算近一倍。卡在既要覆盖夜间和周末、又控不住成本这一步，这种情况下是优先加钱扩外包时段，还是先招一名兼职日语客服自己排班？",
      "source": "白鲸出海",
      "zh": "日本市场日语客服外包，旺季排期跟不上该怎么配人手？"
+    },
+    {
+     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+     "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+     "pubDate": "Wed, 25 Nov 2026 00:54:49 +0000",
+     "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 67 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "PenGPT: A Generative Transformer for Handwriting and Sketches"
     },
     {
      "title": "黄仁勋回归催生三大赢家，适合长线布局",
@@ -1954,6 +1962,14 @@ window.INDUSTRY_DATA = {
      "zh": "新鲜感之后，陪伴机器人如何被用起来？"
     },
     {
+     "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+     "link": "https://literaryreview.co.uk/here-in-the-world",
+     "pubDate": "Wed, 25 Nov 2026 00:36:43 +0000",
+     "summary": "Article URL: https://literaryreview.co.uk/here-in-the-world Comments URL: https://news.ycombinator.com/item?id=50636925 Points: 27 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Here in the World: Letters of Albert Camus, 1944–1959"
+    },
+    {
      "title": "Edge AI Daily 早报（11月25日）",
      "link": "https://www.tmtpost.com/8216877.html",
      "pubDate": "Wed, 25 Nov 2026 08:29:56 +0800",
@@ -1968,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Duncan Riley / SiliconANGLE : Workday reports Q3 revenue up 11% YoY to $2.71B, above $2.69B est., forecasts Q4 subscription revenue of $2.6B, below $2.61B est.; WDAY drops 6%+ after hours &nbsp; &mdash;&nbsp; Shares of human resources and finance software company Workday Inc. fell more than 7% in la",
      "source": "Techmeme",
      "zh": "Workday reports Q3 revenue up 11% YoY to $2.71B, above $2.69B est., forecasts Q4 subscription revenue of $2.6B, below $2.61B est.; WDAY drops 6%+ after hours (Duncan Riley/SiliconANGLE)"
-    },
-    {
-     "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-     "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-     "pubDate": "Wed, 25 Nov 2026 00:10:27 +0000",
-     "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
-     "source": "TechCrunch",
-     "zh": "Trump reportedly says pardoning Jensen Huang is ‘an option’"
-    },
-    {
-     "title": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)",
-     "link": "https://www.techmeme.com/261124/p45#a261124p45",
-     "pubDate": "Tue, 24 Nov 2026 18:45:57 -0500",
-     "summary": "Marshall Cohen / CNN : Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state &nbsp; &mdash;&nbsp; Utah prosecutors dropped criminal charges against the prediction company Kalshi and its co-founders on Tuesday, one day afte",
-     "source": "Techmeme",
-     "zh": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)"
-    },
-    {
-     "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-     "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-     "pubDate": "Tue, 24 Nov 2026 23:39:04 +0000",
-     "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-     "source": "WIRED",
-     "zh": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police"
     }
    ]
   },
@@ -2250,12 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "黄仁勋重返英伟达仍面临集体诉讼：代理律所称数百名投资者已联系 律师判断大概率驳回",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939377818.html",
-     "pubDate": "Wed, 25 Nov 2026 10:43:34 +0800",
-     "summary": "11月23日晚间， 英伟达 （NASDAQ：NVDA）董事会公告宣布，即日起恢复黄仁勋的总裁、首席执行官及董事职务，这距离他11月12日辞任仅11天。 消息公布后， 英伟达 美股盘前一度涨超27%，随后高开，盘中最高涨幅36.5%，最终收报165.05美元，涨幅31.5%。盘中市值一度收复4万亿美元大关。 虽然数十亿网友都沉浸在黄仁勋重返 英伟达 的爽文叙事中，但摆在他们面前的还有一起股东集体诉讼案。11月8日，英伟达董事会宣布启动针对黄仁勋的独立调查；11月9日美股收盘后，英伟达及黄仁勋遭到股东集体诉讼，指控其涉嫌欺诈股东。 原告代理律所Rosen Law Firm（下称：Rosen律所）独",
+     "title": "从智能手机到特斯拉汽车：降低内存配置已成为全行业默契选择",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939381086.html",
+     "pubDate": "Wed, 25 Nov 2026 10:54:25 +0800",
+     "summary": "内存短缺正在迫使下游制造商减少产品的内存容量，且这一降级并非单点爆发，而是在多个产品领域同时发生。 特斯拉 首席执行官马斯克上周指出，由于内存成本高昂， 特斯拉 将其AI4.5硬件的内存从32GB减少到24GB。不过，内存容量减少不会造成任何问题。 特斯拉 客户十分关注AI4.5硬件的内存削减，由于特斯拉对软件和自动驾驶技术的重视，应用于车内电脑的硬件配置对客户而言尤为重要。对于一些车主而言，随着特斯拉全自动驾驶软件（FSD）日益成熟，24GB的内存容量可能会捉襟见肘。 与此同时，华硕联席CEO许先越在财报电话会议上表示，由于内存价格上涨，公司无法将全部成本转嫁给消费者，因此可能会将入门级和中",
      "source": "东方财富股票",
-     "zh": "黄仁勋重返英伟达仍面临集体诉讼：代理律所称数百名投资者已联系 律师判断大概率驳回"
+     "zh": "从智能手机到特斯拉汽车：降低内存配置已成为全行业默契选择"
+    },
+    {
+     "title": "中国信通院发布“星算”计划最新测试数据",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939381830.html",
+     "pubDate": "Wed, 25 Nov 2026 10:52:01 +0800",
+     "summary": "国星宇航 “星算”计划02组星座顺利入轨后，该计划总算力规模接近50POPS，成为当前全球在轨算力最大的星座。中国信通院对外发布该批次卫星首批第三方在轨能力测试数据：天秤座卫星已完成多项在轨技术验证，卫星FP8标称算力32PFLOPS，实现阿里通义千问Qwen3-32B在轨训练与推理；自研万瓦级液冷回路+大尺寸辐冷翼，支撑10kW级算力载荷热控；单轨连续全量训练45分33秒，loss稳步下降，整套训练闭环在轨完成，连续训练时长优于谷歌同类算力卫星。相关测试证实技术路线初步可行，为国内太空算力建设积累工程数据。 （科创板日报记者李明明） （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "中国信通院发布“星算”计划最新测试数据"
+    },
+    {
+     "title": "澳大利亚通胀高于预期 经济学家称明年加息更难排除",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939382113.html",
+     "pubDate": "Wed, 25 Nov 2026 10:51:58 +0800",
+     "summary": "安永首席经济学家Cherelle Murphy表示，澳大利亚10月通胀数据强于预期，再次令人不安地意识到，该国面临的价格压力问题仍未得到解决。Murphy仍预计，澳洲联储将在12月维持利率不变，但她补充称，在这次通胀数据公布后，已更难排除澳洲联储明年再次加息的可能性。最令澳洲联储担忧的是，潜在通胀率同比加速升至3.8%，此前为3.6%，这表明通胀势头仍顽固地保持强劲。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "澳大利亚通胀高于预期 经济学家称明年加息更难排除"
+    },
+    {
+     "title": "沙特2027年预算出炉：赤字收窄、非石油经济挑大梁",
+     "link": "http://finance.eastmoney.com/news/1346,202611253939380821.html",
+     "pubDate": "Wed, 25 Nov 2026 10:51:01 +0800",
+     "summary": "沙特阿拉伯批准了2027年3707亿美元（1.39万亿里亚尔）的支出预算，预计赤字将收窄，且经济将在石油行业复苏和非石油部门持续增长的支撑下出现反弹。 据官方预算声明，预计财政收入为3197亿美元（1.2万亿里亚尔），赤字为507.65亿美元（1905.6亿里亚尔），相当于该国国内生产总值的3.6%。 王储在随预算公告发表的讲话中表示，经济改革和扶持性政策扩大了沙特王国的经济基础，增强了其竞争力，预计2026年非石油行业的实际国内生产总值（GDP）增长率将达到2.5%。 内阁于昨日在利雅得举行的会议上批准了该预算。王储兼首相穆罕默德·本·萨勒曼表示，公共投资基金将继续发展具有战略意义及前景良好",
+     "source": "东方财富股票",
+     "zh": "沙特2027年预算出炉：赤字收窄、非石油经济挑大梁"
+    },
+    {
+     "title": "江冰：构网能力成为新能源招标硬指标，电力装备走向一体化解决方案",
+     "link": "http://finance.eastmoney.com/news/1355,202611253939381243.html",
+     "pubDate": "Wed, 25 Nov 2026 10:49:19 +0800",
+     "summary": "11月25日，中国能源研究会副秘书长、碳中和专委会主任江冰在2026年第22届电气工业发展论坛上表示，随着 新能源 大发展，电网正由同步机主导向高比例 新能源 、高比例 电力 电子 装备主导转变，运行肌理发生根本变化。 江冰指出，新型 电力 系统建设带动 电力 电子 装备由跟网走向构网，增量需求向配网、微网和负荷侧迁移，推动制造模式向“硬件+控制算法+系统解决方案”一体化升级。 “十五五” 新能源 招标中，构网能力正由可选增配功能逐步成为硬性技术指标，装备需具备虚拟同步控制能力，主动提供电压、频率支撑与故障穿越，缓解高渗透配电网和大型新能源基地惯量不足、宽频振荡问题，降低故障后大面积脱网风险。",
+     "source": "东方财富股票",
+     "zh": "江冰：构网能力成为新能源招标硬指标，电力装备走向一体化解决方案"
+    },
+    {
+     "title": "英国宣布制裁也门胡塞武装",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939381153.html",
+     "pubDate": "Wed, 25 Nov 2026 10:49:19 +0800",
+     "summary": "英国政府11月24日宣布，对也门胡塞武装及其4名高级官员实施制裁，理由是“蓄意破坏中东地区稳定”。 英国外交部当天发布的声明称，胡塞武装袭击曼德海峡的商业 航运 导致英国国内生活成本上升。 声明还称，胡塞武装加大了对沙特阿拉伯民用基础设施的打击力度，造成多人死亡，并导致也门境内冲突再度爆发。（新华社） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "英国宣布制裁也门胡塞武装"
     },
     {
      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
@@ -2266,52 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets"
     },
     {
-     "title": "拜登儿子回应父亲身体状况：衰老带来的自然变化 但他百分百具备当总统的认知能力",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939376110.html",
-     "pubDate": "Wed, 25 Nov 2026 10:41:31 +0800",
-     "summary": "近日，美国前总统拜登之子亨特·拜登在接受采访时表示，他确实注意到父亲的身体状态有所变化，包括走路姿势和说话方式都与以往不同。不过，他认为这是衰老带来的自然变化。当被问及父亲是否仍具备担任美国总统所需的认知能力时，亨特回答：“百分之百具备！” （文章来源：参考消息）",
-     "source": "东方财富股票",
-     "zh": "拜登儿子回应父亲身体状况：衰老带来的自然变化 但他百分百具备当总统的认知能力"
-    },
-    {
      "title": "年内大牛股三连板！投资者调侃：3nm制程豆浆GPU？",
      "link": "http://finance.eastmoney.com/news/1344,202611253939376286.html",
      "pubDate": "Wed, 25 Nov 2026 10:41:02 +0800",
      "summary": "11月25日早间， 九阳股份 再度涨停，该股近3个交易日连续涨停，11月以来上涨超74%，今年以来股价累计上涨超270%，最新年内累计涨幅排名A股第二，仅次于 行云科技 。 从目前来看， 九阳股份 在没有明显利好的情况下，大幅上涨，在异动公告中，公司表示目前持有深思考 机器人 公司7.92%股权，与华为的关联主要系双方均持有深思考股权。公司对深思考的投资持股比例较低，未纳入公司合并报表范围，该公司尚未盈利，该投资不会对公司目前主营业务及经营业绩构成重大影响。公司通过全资子公司参股享刻智能技术（北京）有限公司，即财务性投资了 机器人 相关领域，相关业务尚处于早期阶段，目前对公司营业收入及利润无重",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "年内大牛股三连板！投资者调侃：3nm制程豆浆GPU？"
-    },
-    {
-     "title": "不做“屎山代码”制造机！“AI软件工厂”的“12条军规”",
-     "link": "https://wallstreetcn.com/articles/3786655",
-     "pubDate": "Wed, 25 Nov 2026 10:40:32 +0800",
-     "summary": "AI写代码越来越快，但写出来的东西越来越难维护。 在近日举行的一场AI工程峰会上，Factory公司成员、前Human Layer联合创始人Dex Horthy发表演讲，抛出了一套针对“AI软件工厂”的12条核心法则，并联合多位业内人士正式发布“反Slop宣言”。 所谓“Slop”，是AI圈对低质量、大批量生成内容的俗称——堆砌、冗余、看起来能跑但没人敢动的代码。 “反Slop宣言”的核心主张包括： “我们重视结果，而非产出；重视理解，而非速度。 ”“ 一群Agent在一天内产生的工作量，可能超过一个人一辈子能审查的总量。”等等。 AI写代码，最好成绩只有16.3% Horthy在演讲中引用了",
-     "source": "华尔街见闻",
-     "zh": "不做“屎山代码”制造机！“AI软件工厂”的“12条军规”"
-    },
-    {
-     "title": "华发股份拟将控股股东110亿存量借款转为永续债",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939375291.html",
-     "pubDate": "Wed, 25 Nov 2026 10:40:32 +0800",
-     "summary": "华发股份 （600325.SH）11月24日深夜发布了关于向控股股东进行永续债权融资暨关联交易的公告。 据了解，为满足公司生产经营发展需要， 华发股份 拟向控股股东珠海华发集团有限公司（以下简称“华发集团”）进行永续债权融资，金额为110亿元。 就上述永续债权融资事宜， 华发股份 拟与华发集团签订《永续债权投资协议》。华发股份将提请股东会审议前述关联交易事项，并提请股东会授权公司经营班子在股东会审议通过的交易方案范围内办理本次永续债权融资的协议签署及债权转换手续。 按照《永续债权投资协议》，本次交易的甲方（债权人）为珠海华发集团有限公司，乙方（债务人）为珠海华发实业股份有限公司。 关于投资标的",
-     "source": "东方财富股票",
-     "zh": "华发股份拟将控股股东110亿存量借款转为永续债"
-    },
-    {
-     "title": "风机龙头金风科技斥资3.5亿元回购股份，349亿元应收账款待消化",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939378398.html",
-     "pubDate": "Wed, 25 Nov 2026 10:39:21 +0800",
-     "summary": "11月23日晚间， 金风科技 （002202.SZ）发布H股公告，当日新增回购A股160.54万股，价格落在12.71元至13元之间。就在三天之前， 金风科技 披露回购进展：公司累计回购A股1665.27万股，成交价区间为12.88元至24.00元，使用资金3.50亿元。 从金额看，回购已超过公司此前公布3亿元的资金下限。但与之并行的另一组数字是：2026年前三季度， 金风科技 经营活动现金流净额为-2970.96万元，由上年同期的净流入转为净流出；同期应收账款维持在高位，占总资产比重约两成。 《华夏时报》记者就此发函联系 金风科技 ，截至发稿未得到回复。 回购方案二度推出 这一轮回购方案，是",
-     "source": "东方财富股票",
-     "zh": "风机龙头金风科技斥资3.5亿元回购股份，349亿元应收账款待消化"
-    },
-    {
-     "title": "*ST航图涨停 6只科创板股涨超5%",
-     "link": "http://stock.eastmoney.com/news/11134,202611253939378125.html",
-     "pubDate": "Wed, 25 Nov 2026 10:38:00 +0800",
-     "summary": "11月25日盘中科创板股 *ST航图 涨停，截至10:04，股价报4.14元，成交0.81亿元，换手率7.03%，振幅24.35%。 科创板个股中，截至发稿上涨的共有322只，涨幅在5%以上的共有6只，涨幅较高的有 *ST航图 、 金迪克 、 杰普特 等，分别上涨20.00%、6.92%、6.61%，下跌的有288只，跌幅较大的有 艾为电子 、 华虹宏力 、 上纬新材 ，分别下跌9.72%、8.29%、7.44%。 资金面上， *ST航图 上一交易日主力资金净流出1553.13万元，近5日净流出4734.50万元。 10月31日公司发布的三季报数据显示，前三季公司共实现营业收入7688.04万",
-     "source": "东方财富股票",
-     "zh": "*ST航图涨停 6只科创板股涨超5%"
     },
     {
      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF&apos;s tower injures 11",
@@ -2370,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump open to pardoning Jensen Huang if needed: NY Post"
     },
     {
-     "title": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给",
-     "link": "https://wallstreetcn.com/articles/3786651",
-     "pubDate": "Wed, 25 Nov 2026 10:05:57 +0800",
-     "summary": "闪迪管理层在最新投资者交流会上释放强烈积极信号，对AI驱动的闪存需求前景保持高度乐观，并重申此前提出的约1.2泽字节（ZB）AI数据中心NAND市场规模预测\"毫无下行风险\"。 追风交易台消息，11月23日，花旗Michael Cadiz发表闪迪的投资者会议纪要解读，此次会议由闪迪执行副总裁兼首席产品官Khurram Ismail及投资者关系团队参与，通过线上形式与机构投资者交流。 闪迪执行副总裁兼首席产品官Khurram Ismail指出， 直连存储、KV缓存及高性能数据湖三大AI存储机会均处于健康增长态势 ，客户资质认证、设计导入及部署进展持续验证需求趋势。 与此同时，管理层强调 高带宽闪存",
-     "source": "华尔街见闻",
-     "zh": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给"
-    },
-    {
      "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
      "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 02:04:15 GMT",
@@ -2426,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names"
     },
     {
-     "title": "A股三大股指早盘震荡回升，光模块龙头“易中天”集体反弹，半导体产业链下跌，恒指、恒科指齐涨，小米大涨6%",
-     "link": "https://wallstreetcn.com/articles/3786653",
-     "pubDate": "Wed, 25 Nov 2026 09:56:06 +0800",
-     "summary": "11月25日，A股早盘低开，三大股指盘初震荡拉升，跌幅持续收窄，算力硬件低开高走，光模块龙头“易中天”纷纷转涨，天孚通信大涨超11%。光芯片、光电路交换机早盘亦走高。零售、餐饮旅游等大消费活跃。半导体产业链陷入调整，GPU、先进封装、光刻机等概念股下跌。 港股早盘拉升，恒指、恒科指双双上涨，恒科指盘初一度涨1%，权重科网股多数反弹，小米、京东大涨5%，哔哩哔哩拉升近10%。半导体下挫，华虹宏力跌超11%。光模块、光纤、AI大模型股均调整。债市方面，国债期货普遍下跌。商品方面，国内商品方面多数下跌，贵金属期货跌幅居前，跟随隔夜国际黄金的跌势。核心市场走势： A股： 截至发稿，沪指跌0.76%，深",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指早盘震荡回升，光模块龙头“易中天”集体反弹，半导体产业链下跌，恒指、恒科指齐涨，小米大涨6%"
-    },
-    {
      "title": "《全民国防教育“十五五”规划》印发",
      "link": "http://www.eeo.com.cn/2026/1125/1101749.shtml",
      "pubDate": "Wed, 25 Nov 2026 09:52:09 +0800",
@@ -2450,20 +2426,28 @@ window.INDUSTRY_DATA = {
      "zh": "个人养老金基金四周年：“开户热，缴存冷”仍待解"
     },
     {
+     "title": "100%！美联储加息大消息！“华尔街之狼”发出警告",
+     "link": "http://finance.eastmoney.com/news/1344,202611253939342680.html",
+     "pubDate": "Wed, 25 Nov 2026 09:45:55 +0800",
+     "summary": "距离美联储12月议息会议仅剩两周，市场加息预期重回100%，几乎形成一致判断。 当地时间11月23日，纽约联储主席约翰· 威廉姆斯 释放进一步收紧货币政策的信号，强调在实现通胀回归2%的目标方面仍有工作要做，如果经济维持强劲、通胀压力持续，不排除连续加息。 面对美联储有关方面持续放出的强硬信号，有着“华尔街之狼”之称的比尔阿克曼日前警告：如果美联储按预期在12月初加息，将犯下错误，可能会引发经济衰退。 纽约联储主席强调不排除连续加息 威廉姆斯 在纽约布朗克斯圣文森特山大学发表公开演讲。他表示，美国经济依旧具备较强韧性，但要推动通胀回落至2%的目标，后续仍有不少工作要完成。 威廉姆斯 将当下美国",
+     "source": "东方财富资讯",
+     "zh": "100%！美联储加息大消息！“华尔街之狼”发出警告"
+    },
+    {
+     "title": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？",
+     "link": "http://forex.eastmoney.com/news/1131,202611253939343866.html",
+     "pubDate": "Wed, 25 Nov 2026 09:42:00 +0800",
+     "summary": "债券交易员正争相对冲以下风险：美联储加息和股市下跌将显著拖累美国经济，迫使美联储最早于明年晚些时候重新转向宽松货币政策。 尽管在金融市场的定价中，上述情景仍被视为一种小概率事件。目前利率 期货 市场的定价显示，美联储将在2027年年中之前将基准利率上调75个基点至约4.5%，并在高位维持以抑制通胀。 但在过去一周，经济增长陷入停滞的隐忧催生了期权市场的全新异动——交易员开始重金押注美联储将提前转向降息、美债将迎来更猛烈的反弹行情。 这类买入看涨期权的交易押注未来数月内宏观前景将现急转： 在有担保隔夜融资利率(SOFR)期权市场中，中期曲线看涨期权的未平仓合约出现显著增仓—— 若未来市场开始预期",
+     "source": "东方财富资讯",
+     "zh": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？"
+    },
+    {
      "title": "Asian markets lose ground as AI fears return",
      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 01:41:03 GMT",
      "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
      "source": "Financial Times",
      "zh": "Asian markets lose ground as AI fears return"
-    },
-    {
-     "title": "OpenAI瞄上网络安全：比编程更大的下一个市场",
-     "link": "https://wallstreetcn.com/articles/3786652",
-     "pubDate": "Wed, 25 Nov 2026 09:22:51 +0800",
-     "summary": "近期一系列高调网络安全事件令市场警觉，也让OpenAI看到了新的商业机会。 OpenAI总裁Greg Brockman近日明确表态，网络安全将成为该公司比编程更大的业务板块。首席财务官Sarah Friar则称，目前市场对网络安全总可寻址市场逾3000亿美元的估算，远远低估了这一领域的真实潜力。 上述表态出现在OpenAI为备战潜在IPO、积极寻求新收入来源的关键节点。然而，OpenAI如何将这一愿景落地，目前仍缺乏清晰路径，且面临来自Anthropic、谷歌等竞争对手的正面挑战。 网络安全事件频发，OpenAI嗅到商机 据The Information最新报道，近期多起高知名度网络安全事件相",
-     "source": "华尔街见闻",
-     "zh": "OpenAI瞄上网络安全：比编程更大的下一个市场"
     },
     {
      "title": "Cleanspark outlines Sandersville first data hall delivery in 4Q 2027 while progressing $2.3B nonrecourse funding",
@@ -2480,22 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B"
-    },
-    {
-     "title": "小米：拐点已现？",
-     "link": "https://wallstreetcn.com/articles/3786646",
-     "pubDate": "Wed, 25 Nov 2026 09:12:21 +0800",
-     "summary": "尽管小米三季度业绩承压，但高盛、花旗与巴克莱均维持买入或增持评级，认为小米收入同比降幅持续收窄，盈利修正正在触底，2027年的复苏轨道日益清晰。 追风交易台消息，11月25日，高盛分析师Timothy Zhao团队研报中指出，小米2026年三季度业绩基本符合预期，调整后净利润同比下滑57%至49亿元，较高盛预期高出1%。 与此同时， 高盛认为盈利修正正在接近底部，叠加存储成本、物联网增长、海外扩张及AI等核心叙事出现改善信号，核心运营费用自三季度起实现同比削减，这一趋势有望延续数个季度，维持买入评级。 花旗 分析师Kyna Wong团队同日发布报告，同样维持买入评级，看好物联网与手机业务202",
-     "source": "华尔街见闻",
-     "zh": "小米：拐点已现？"
-    },
-    {
-     "title": "阴霾笼罩年底市场！摩根大通：伊朗军事升级、美联储紧缩、政府关门、关税上调、芯片管制一起来了！",
-     "link": "https://wallstreetcn.com/articles/3786649",
-     "pubDate": "Wed, 25 Nov 2026 09:11:40 +0800",
-     "summary": "距离2026年结束还有五周，市场却要同时面对一张密密麻麻的风险清单。 据追风交易台消息，11月19日，摩根大通全球研究主席Joyce Chang率团队在华盛顿与政策制定者、官方债权人及独立智库人士举行了一整天的闭门会议。该行于11月24日发布报告，将会议核心内容整理为\"中期选举后需监测的十大风险\"。 报告开篇基调沉重。分析师写道，\"从华盛顿回来后，我们对中期选举后的风险更加谨慎\"，而那一周几乎每一类资产都在下跌，美债和美元是仅有的例外。 报告援引当天最令人印象深刻的一句警告： \"AI融资的解体，加上美联储的进一步紧缩，可能造就'一个非常难看的圣诞节'——股市大幅下跌，直到美联储被迫转向，就像2",
-     "source": "华尔街见闻",
-     "zh": "阴霾笼罩年底市场！摩根大通：伊朗军事升级、美联储紧缩、政府关门、关税上调、芯片管制一起来了！"
     },
     {
      "title": "Dell’s stock rises as the AI boom helps sales more than double",

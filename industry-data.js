@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 11:03:13",
+ "generated_at": "2026/11/25 11:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "KLA opens second Ang Mo Kio facility in Singapore, plans further expansion",
-     "link": "https://www.digitimes.com/news/a20261125VL206/kla-expansion-equipment-manufacturing-packaging.html",
-     "pubDate": "Wed, 25 Nov 2026 01:47:04 GMT",
-     "summary": "US semiconductor equipment maker KLA has opened a 210,000-square-foot manufacturing facility in Ang Mo Kio, Singapore, and outlined plans for another expansion phase that, together with the new building, is expected to support about 1,000 jobs over the longer term.",
+     "title": "Acerpure targets India, Indonesia for high-double-digit growth in 2027",
+     "link": "https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html",
+     "pubDate": "Wed, 25 Nov 2026 02:56:28 GMT",
+     "summary": "Acerpure, the Acer subsidiary that makes home appliances under the Acerpure brand, will focus on India and Indonesia and is targeting high-double-digit growth in 2027, when it plans to start selling washing machines in India and set up a subsidiary in Indonesia, general manager Kuo-shu Kao said.",
      "source": "DIGITIMES",
-     "zh": "KLA opens second Ang Mo Kio facility in Singapore, plans further expansion"
+     "zh": "Acerpure targets India, Indonesia for high-double-digit growth in 2027"
     },
     {
-     "title": "Xiaomi expects memory costs to keep rising into 2027 amid EV push into Europe",
-     "link": "https://www.digitimes.com/news/a20261125VL209/xiaomi-2027-europe-dram-chips.html",
-     "pubDate": "Wed, 25 Nov 2026 01:45:00 GMT",
-     "summary": "Xiaomi expects DRAM costs to keep climbing into 2027, prolonging pressure on its smartphone business, while it pushes ahead with a European car launch and increases spending on AI, chips and robots, President Lu Weibing told analysts on the company's third-quarter earnings call on November 24.",
+     "title": "MediaTek expands research footprint in edge AI, cloud AI",
+     "link": "https://www.digitimes.com/news/a20261124PD236/mediatek-technology-2026-ic-design-2027.html",
+     "pubDate": "Wed, 25 Nov 2026 02:47:52 GMT",
+     "summary": "MediaTek announced on November 24 that 17 of its papers were selected in 2026 for presentation or publication at leading international academic conferences and journals in IC design, artificial intelligence (AI), and communications. The research papers are part of the company's ongoing efforts to de",
      "source": "DIGITIMES",
-     "zh": "Xiaomi expects memory costs to keep rising into 2027 amid EV push into Europe"
+     "zh": "MediaTek expands research footprint in edge AI, cloud AI"
     },
     {
-     "title": "Chinese IC substrate maker AaltoSemi starts IPO process",
-     "link": "https://www.digitimes.com/news/a20261125VL205/ipo-ic-packaging-sina-chips-packaging.html",
-     "pubDate": "Wed, 25 Nov 2026 01:40:18 GMT",
-     "summary": "Nanjing-based AaltoSemi, a maker of advanced IC packaging substrates for AI and other high-performance chips, has started the process for an initial public offering in China, as domestic suppliers seek capital to expand in a market long dominated by Japanese and South Korean companies.",
+     "title": "Xiaomi smartphone gross margin stays below 10% for second straight quarter in 3Q26",
+     "link": "https://www.digitimes.com/news/a20261124PD237/xiaomi-gross-margin-2026-profit-electronics.html",
+     "pubDate": "Wed, 25 Nov 2026 02:37:46 GMT",
+     "summary": "Xiaomi Group reported its third-quarter 2026 financial results on November 24, showing that its smartphone and consumer electronics businesses continue to face profit pressures. Persistently high costs for key components such as memory held its smartphone gross margin to 9.2% in the third quarter, b",
      "source": "DIGITIMES",
-     "zh": "Chinese IC substrate maker AaltoSemi starts IPO process"
+     "zh": "Xiaomi smartphone gross margin stays below 10% for second straight quarter in 3Q26"
     },
     {
-     "title": "Why Huawei's answer to US chip design curbs runs through Phlexing",
-     "link": "https://www.digitimes.com/news/a20261125VL211/huawei-design-software-eda-chairman.html",
-     "pubDate": "Wed, 25 Nov 2026 01:32:48 GMT",
-     "summary": "Huawei has named Hangzhou-based Phlexing Technology as a partner developing chip design software for its next generation of smartphone and server processors. The collaboration gives Huawei a domestic source of tools tailored to its Tau Scaling Law in a market long dominated by Synopsys and Cadence.",
+     "title": "Beijing extends critical mineral reprieve as Washington prepares new subsidy tariffs",
+     "link": "https://www.digitimes.com/news/a20261125VL215/us-china-trade-war-beijing-materials-supply-chain-tariffs-2026.html",
+     "pubDate": "Wed, 25 Nov 2026 02:34:09 GMT",
+     "summary": "In a pivotal week for global trade, the US and China are deploying contrasting economic levers that underscore the balance between supply chain interdependence and escalating protectionism. While Beijing has moved to ease short-term supply pressures by extending a suspension on critical mineral expo",
      "source": "DIGITIMES",
-     "zh": "Why Huawei's answer to US chip design curbs runs through Phlexing"
+     "zh": "Beijing extends critical mineral reprieve as Washington prepares new subsidy tariffs"
     },
     {
-     "title": "Southeast Asian countries move to stop chip diversion as US blacklist hits regional data centers",
-     "link": "https://www.digitimes.com/news/a20261125VL204/data-chips-data-center.html",
-     "pubDate": "Wed, 25 Nov 2026 01:27:19 GMT",
-     "summary": "Singapore and Malaysia are moving to show Washington they will not serve as conduits for advanced AI chips bound for China, after the US blacklisted seven entities across the two countries, Indonesia, and Thailand, a shift that puts Southeast Asia's data center boom under a new compliance test.",
+     "title": "Five questions on what Jensen Huang's return means for the AI industry",
+     "link": "https://www.digitimes.com/news/a20261125VL212/jensen-huang-nvidia-ceo-anthropic-financing.html",
+     "pubDate": "Wed, 25 Nov 2026 02:32:15 GMT",
+     "summary": "Jensen Huang's reinstatement as Nvidia CEO on November 23, 11 days after he resigned, has reassured the companies that build AI hardware more than those that depend on it. Stocks cheered for a day and then retreated, while credit markets and export policy barely moved in his favor. That split reshuf",
      "source": "DIGITIMES",
-     "zh": "Southeast Asian countries move to stop chip diversion as US blacklist hits regional data centers"
+     "zh": "Five questions on what Jensen Huang's return means for the AI industry"
     },
     {
-     "title": "Lex Computech says CPU supply, not demand, will decide its 2026 growth target",
-     "link": "https://www.digitimes.com/news/a20261125PD201/2026-growth-industrial-demand-ipc.html",
-     "pubDate": "Wed, 25 Nov 2026 01:23:35 GMT",
-     "summary": "Taiwanese industrial PC (IPC) and embedded systems maker Lex Computech is aiming for double-digit revenue growth in 2026 and sees a chance of another double-digit increase in 2027. Still, chairman Yung-ching Chiang said meeting this year's goal depends less on demand than on whether key components a",
+     "title": "Jensen faces a trio of tests as US AI chip controls extend to the cloud",
+     "link": "https://www.digitimes.com/news/a20261125PD204/nvidia-jensen-huang-ai-chip-hardware-exports.html",
+     "pubDate": "Wed, 25 Nov 2026 02:30:43 GMT",
+     "summary": "Jensen Huang returned to lead Nvidia just 11 days after formally resigning. During his brief absence, Washington extended its AI chip controls beyond hardware exports to cover cross-border cloud computing access. Huang now faces three tests: restoring trust in Washington, containing order cancellati",
      "source": "DIGITIMES",
-     "zh": "Lex Computech says CPU supply, not demand, will decide its 2026 growth target"
+     "zh": "Jensen faces a trio of tests as US AI chip controls extend to the cloud"
     },
     {
      "title": "Top Ten (less 5) Q3 Smartphone Vendors",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "年入百亿的小天才，收割家长的“社交税”",
+     "link": "https://www.huxiu.com/article/4907710.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 11:00:00 +0800",
+     "summary": "一个儿童手表，凭什么成为中国第二大社交平台？小天才靠&ldquo;不让孩子加微信&rdquo;的封闭社交，年卖约1000万台、营收约100亿，把孩子的社交关系锁在自己的生态里。但微信其实早有儿童版，功能更干净，小天才的&ldquo;安全牌&rdquo;未必成立。如今华为、小米份额上升，小天才的社交壁垒还能撑多久？",
+     "source": "虎嗅",
+     "zh": "年入百亿的小天才，收割家长的“社交税”"
+    },
+    {
+     "title": "教师要怀孕生子，难道还要家长恩准？",
+     "link": "https://www.huxiu.com/article/4908269.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 10:58:39 +0800",
+     "summary": "本文来自微信公众号： 冰川思享号 ，作者：职场黄皮书 许多家长并不能认识到自己的知识和技能缺陷，反而仗着高学历文凭带来的底气，对学校教育公开或私下里指手画脚，颐指气使，并且把这种对学校和老师的重重不屑带给孩子，连带使孩子也对教师心生轻蔑，不尊重老师权威的现象因而屡屡出现。 “老师一定要生孩子吗？能不能保证新老师不怀孕？” 如果不看上下文，把“老师”换成“员工”，你一定会问：又是哪个黑心老板对新人提要求了？ 但可惜，这出自近期央视新闻曝光的一则校园举报事件：原班主任休产假，学校安排新教师接任，有家长因此举报质疑（如上）。 在其他职场，我们偶尔会看到有的公司HR对女员工是否怀孕、何时怀孕很介意，但",
+     "source": "虎嗅",
+     "zh": "教师要怀孕生子，难道还要家长恩准？"
+    },
+    {
      "title": "99元水晶与1600元金价：年轻人把珠宝从资产账户挪进了情绪账户",
      "link": "https://www.huxiu.com/article/4908266.html?f=rss",
      "pubDate": "Wed, 25 Nov 2026 10:47:55 +0800",
@@ -1810,28 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "开源办公套件 LibreOffice 新规：用 AI 开发写代码，需先申请、后提交"
     },
     {
-     "title": "快消企业“裁业务员，去经销商”却把自己的脖子交给山姆、胖东来们，能支撑得起野心？",
-     "link": "https://www.huxiu.com/article/4908256.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 10:30:26 +0800",
-     "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的 过去几年，快消企业的所谓“去中间化”走得有点疯魔，从经销商到业务员，都从企业的伙伴变成了企业的“敌人”。 疯魔真能成活？ 细翻快消企业财报，就会发现企业里领工资的人员在减少。只是在销售人员这一块大家没有“细说”，实际上这几年对一线业务员“下手”的事儿就没停过。不过，套路相对温和，不像对经销商那般使用雷霆手段。 温和，就是企业先给业务员找好下面的路。无外乎两种，一是业务员变成“批发商”，企业划片，让业务员承包自己之前跑的路线，自己出钱，自己配送。公司给开底薪，业务员挣一部分产品差价；另一条路就是让业务员变成经销商人员，让经销商帮企业发工资",
-     "source": "虎嗅",
-     "zh": "快消企业“裁业务员，去经销商”却把自己的脖子交给山姆、胖东来们，能支撑得起野心？"
-    },
-    {
      "title": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments (Dina Bass/Bloomberg)",
      "link": "https://www.techmeme.com/261124/p50#a261124p50",
      "pubDate": "Tue, 24 Nov 2026 21:30:02 -0500",
      "summary": "Dina Bass / Bloomberg : HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives &ldquo;prudent&rdquo; fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments &nbsp; &mdash;&nbsp; HP Inc. gave a profit forecast for the current year that will likely exceed analysts'",
      "source": "Techmeme",
      "zh": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments (Dina Bass/Bloomberg)"
-    },
-    {
-     "title": "美利坚巧施连环计，黄仁勋痛失全勤奖",
-     "link": "https://www.huxiu.com/article/4908167.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 10:26:25 +0800",
-     "summary": "美利坚连环计下，黄仁勋在台上皮衣加身，风趣自嘲自己是最会洗碗刷马桶的CEO。 失意之时，连美国总统都喊话让他回归，&ldquo;龙王归位&rdquo;的呼声四起。黄仁勋自省认错，誓言卷土重来，成也传奇，败也传奇，笑泪交织，仍是玩家心中的显卡之王。",
-     "source": "虎嗅",
-     "zh": "美利坚巧施连环计，黄仁勋痛失全勤奖"
     },
     {
      "title": "富士无反相机 X-T6 曝光：首用 4000 万 RGBW 传感器，夜景拍摄更优秀",
@@ -2242,52 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "韩国综指跌幅扩大至6%",
+     "link": "http://finance.eastmoney.com/news/11440,202611253939383183.html",
+     "pubDate": "Wed, 25 Nov 2026 11:00:24 +0800",
+     "summary": "韩国综指跌幅扩大至6%，现报4705.47点。个股方面，三星 电子 、 SK海力士 跌超9%。",
+     "source": "东方财富股票",
+     "zh": "韩国综指跌幅扩大至6%"
+    },
+    {
+     "title": "全国进入流感流行季！机构紧盯多只概念股 这6股获超百家调研(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611253939382716.html",
+     "pubDate": "Wed, 25 Nov 2026 10:57:37 +0800",
+     "summary": "全国 流感 病毒检测阳性率攀升至 22.5% ， 流感 已进入流行季，产业链需求加速兑现。机构指出，国内 流感 疫苗 接种率仅约3%，潜在成长空间广阔。 流感病毒检测阳性率升至22.5% 全国进入流感流行季 11月19日，中国疾控中心发布2026年第46周流感监测周报。监测显示，全国哨点 医院 报告的流感样病例占门急诊就诊总数的比例为4.5%，门急诊流感样病例呼吸道样本中流感病毒检测阳性率达 22.5% ，已连续多周攀升；全国共报告144起流感样病例暴发疫情，较第45周的125起继续增加。 毒株方面，全国检出流感阳性样本中A(H1N1)pdm09占比56.2%、A(H3N2)占比15.5%、B",
+     "source": "东方财富股票",
+     "zh": "全国进入流感流行季！机构紧盯多只概念股 这6股获超百家调研(名单)"
+    },
+    {
+     "title": "小米集团一度飙升逾8% Q3手机均价创新高",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939382342.html",
+     "pubDate": "Wed, 25 Nov 2026 10:56:00 +0800",
+     "summary": "小米集团(01810.HK)今日盘中一度涨超8%。截至发稿，涨6.49%，报28.22港元。 11月24日晚间，小米集团发布2026年第三季度业绩报告。整体来看，公司当季营收表现略 超市 场预期，但受核心零部件涨价及新业务投入加大的影响，利润端阶段性承压；随着高单价手机新品与增程SUV的放量，多家机构预计四季度将成为公司收入重回同比正增长的拐点。 整体业绩：营收略超预期，成本与投入致利润承压 2026年第三季度，小米集团实现总收入1072.4亿元，同比下降5.2%，略高于市场一致预期的1064.4亿元。 盈利能力方面，受 存储芯片 等核心元器件价格上涨影响，集团整体毛利率由去年同期的22.9%",
+     "source": "东方财富股票",
+     "zh": "小米集团一度飙升逾8% Q3手机均价创新高"
+    },
+    {
+     "title": "国电南瑞旗下智能机器人公司增资",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939382498.html",
+     "pubDate": "Wed, 25 Nov 2026 10:55:41 +0800",
+     "summary": "企查查APP显示，近日，国网瑞嘉（天津）智能 机器人 有限公司发生工商变更，注册资本从1.5亿元增加至1.67亿元；新增天津瑞嘉创合企业管理合伙企业（有限合伙）为股东。 企查查显示，该公司成立于2019年11月，法定代表人为李惠宇，经营范围包括智能 机器人 的研发；智能 机器人 销售；特殊作业 机器人 制造；工业 机器人 制造等，现由 国电南瑞 、天津三源 电力 集团有限公司等共同持股。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "国电南瑞旗下智能机器人公司增资"
+    },
+    {
+     "title": "主力资金监控：天孚通信净买入超10亿",
+     "link": "http://finance.eastmoney.com/news/1354,202611253939382517.html",
+     "pubDate": "Wed, 25 Nov 2026 10:54:31 +0800",
+     "summary": "今日早盘主力资金净流入医药、 商贸零售 、 通信 等板块，净流出 电子 、 半导体 、电新行业等板块，其中 电子 板块净流出超62亿元。个股方面， 天孚通信 主力资金净买入超10亿元位居首位， 青山纸业 、 胜宏科技 、 京东方A 获主力资金净流入居前； 长鑫科技 遭净卖出超5亿元， 宁德时代 、 工业富联 、 东方海洋 资金净流出额居前。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "主力资金监控：天孚通信净买入超10亿"
+    },
+    {
      "title": "从智能手机到特斯拉汽车：降低内存配置已成为全行业默契选择",
      "link": "http://finance.eastmoney.com/news/1354,202611253939381086.html",
      "pubDate": "Wed, 25 Nov 2026 10:54:25 +0800",
      "summary": "内存短缺正在迫使下游制造商减少产品的内存容量，且这一降级并非单点爆发，而是在多个产品领域同时发生。 特斯拉 首席执行官马斯克上周指出，由于内存成本高昂， 特斯拉 将其AI4.5硬件的内存从32GB减少到24GB。不过，内存容量减少不会造成任何问题。 特斯拉 客户十分关注AI4.5硬件的内存削减，由于特斯拉对软件和自动驾驶技术的重视，应用于车内电脑的硬件配置对客户而言尤为重要。对于一些车主而言，随着特斯拉全自动驾驶软件（FSD）日益成熟，24GB的内存容量可能会捉襟见肘。 与此同时，华硕联席CEO许先越在财报电话会议上表示，由于内存价格上涨，公司无法将全部成本转嫁给消费者，因此可能会将入门级和中",
      "source": "东方财富股票",
      "zh": "从智能手机到特斯拉汽车：降低内存配置已成为全行业默契选择"
-    },
-    {
-     "title": "中国信通院发布“星算”计划最新测试数据",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939381830.html",
-     "pubDate": "Wed, 25 Nov 2026 10:52:01 +0800",
-     "summary": "国星宇航 “星算”计划02组星座顺利入轨后，该计划总算力规模接近50POPS，成为当前全球在轨算力最大的星座。中国信通院对外发布该批次卫星首批第三方在轨能力测试数据：天秤座卫星已完成多项在轨技术验证，卫星FP8标称算力32PFLOPS，实现阿里通义千问Qwen3-32B在轨训练与推理；自研万瓦级液冷回路+大尺寸辐冷翼，支撑10kW级算力载荷热控；单轨连续全量训练45分33秒，loss稳步下降，整套训练闭环在轨完成，连续训练时长优于谷歌同类算力卫星。相关测试证实技术路线初步可行，为国内太空算力建设积累工程数据。 （科创板日报记者李明明） （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "中国信通院发布“星算”计划最新测试数据"
-    },
-    {
-     "title": "澳大利亚通胀高于预期 经济学家称明年加息更难排除",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939382113.html",
-     "pubDate": "Wed, 25 Nov 2026 10:51:58 +0800",
-     "summary": "安永首席经济学家Cherelle Murphy表示，澳大利亚10月通胀数据强于预期，再次令人不安地意识到，该国面临的价格压力问题仍未得到解决。Murphy仍预计，澳洲联储将在12月维持利率不变，但她补充称，在这次通胀数据公布后，已更难排除澳洲联储明年再次加息的可能性。最令澳洲联储担忧的是，潜在通胀率同比加速升至3.8%，此前为3.6%，这表明通胀势头仍顽固地保持强劲。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "澳大利亚通胀高于预期 经济学家称明年加息更难排除"
-    },
-    {
-     "title": "沙特2027年预算出炉：赤字收窄、非石油经济挑大梁",
-     "link": "http://finance.eastmoney.com/news/1346,202611253939380821.html",
-     "pubDate": "Wed, 25 Nov 2026 10:51:01 +0800",
-     "summary": "沙特阿拉伯批准了2027年3707亿美元（1.39万亿里亚尔）的支出预算，预计赤字将收窄，且经济将在石油行业复苏和非石油部门持续增长的支撑下出现反弹。 据官方预算声明，预计财政收入为3197亿美元（1.2万亿里亚尔），赤字为507.65亿美元（1905.6亿里亚尔），相当于该国国内生产总值的3.6%。 王储在随预算公告发表的讲话中表示，经济改革和扶持性政策扩大了沙特王国的经济基础，增强了其竞争力，预计2026年非石油行业的实际国内生产总值（GDP）增长率将达到2.5%。 内阁于昨日在利雅得举行的会议上批准了该预算。王储兼首相穆罕默德·本·萨勒曼表示，公共投资基金将继续发展具有战略意义及前景良好",
-     "source": "东方财富股票",
-     "zh": "沙特2027年预算出炉：赤字收窄、非石油经济挑大梁"
-    },
-    {
-     "title": "江冰：构网能力成为新能源招标硬指标，电力装备走向一体化解决方案",
-     "link": "http://finance.eastmoney.com/news/1355,202611253939381243.html",
-     "pubDate": "Wed, 25 Nov 2026 10:49:19 +0800",
-     "summary": "11月25日，中国能源研究会副秘书长、碳中和专委会主任江冰在2026年第22届电气工业发展论坛上表示，随着 新能源 大发展，电网正由同步机主导向高比例 新能源 、高比例 电力 电子 装备主导转变，运行肌理发生根本变化。 江冰指出，新型 电力 系统建设带动 电力 电子 装备由跟网走向构网，增量需求向配网、微网和负荷侧迁移，推动制造模式向“硬件+控制算法+系统解决方案”一体化升级。 “十五五” 新能源 招标中，构网能力正由可选增配功能逐步成为硬性技术指标，装备需具备虚拟同步控制能力，主动提供电压、频率支撑与故障穿越，缓解高渗透配电网和大型新能源基地惯量不足、宽频振荡问题，降低故障后大面积脱网风险。",
-     "source": "东方财富股票",
-     "zh": "江冰：构网能力成为新能源招标硬指标，电力装备走向一体化解决方案"
-    },
-    {
-     "title": "英国宣布制裁也门胡塞武装",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939381153.html",
-     "pubDate": "Wed, 25 Nov 2026 10:49:19 +0800",
-     "summary": "英国政府11月24日宣布，对也门胡塞武装及其4名高级官员实施制裁，理由是“蓄意破坏中东地区稳定”。 英国外交部当天发布的声明称，胡塞武装袭击曼德海峡的商业 航运 导致英国国内生活成本上升。 声明还称，胡塞武装加大了对沙特阿拉伯民用基础设施的打击力度，造成多人死亡，并导致也门境内冲突再度爆发。（新华社） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "英国宣布制裁也门胡塞武装"
     },
     {
      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
@@ -2304,6 +2304,14 @@ window.INDUSTRY_DATA = {
      "summary": "11月25日早间， 九阳股份 再度涨停，该股近3个交易日连续涨停，11月以来上涨超74%，今年以来股价累计上涨超270%，最新年内累计涨幅排名A股第二，仅次于 行云科技 。 从目前来看， 九阳股份 在没有明显利好的情况下，大幅上涨，在异动公告中，公司表示目前持有深思考 机器人 公司7.92%股权，与华为的关联主要系双方均持有深思考股权。公司对深思考的投资持股比例较低，未纳入公司合并报表范围，该公司尚未盈利，该投资不会对公司目前主营业务及经营业绩构成重大影响。公司通过全资子公司参股享刻智能技术（北京）有限公司，即财务性投资了 机器人 相关领域，相关业务尚处于早期阶段，目前对公司营业收入及利润无重",
      "source": "东方财富资讯",
      "zh": "年内大牛股三连板！投资者调侃：3nm制程豆浆GPU？"
+    },
+    {
+     "title": "不做“屎山代码”制造机！“AI软件工厂”的“12条军规”",
+     "link": "https://wallstreetcn.com/articles/3786655",
+     "pubDate": "Wed, 25 Nov 2026 10:40:32 +0800",
+     "summary": "AI写代码越来越快，但写出来的东西越来越难维护。 在近日举行的一场AI工程峰会上，Factory公司成员、前Human Layer联合创始人Dex Horthy发表演讲，抛出了一套针对“AI软件工厂”的12条核心法则，并联合多位业内人士正式发布“反Slop宣言”。 所谓“Slop”，是AI圈对低质量、大批量生成内容的俗称——堆砌、冗余、看起来能跑但没人敢动的代码。 “反Slop宣言”的核心主张包括： “我们重视结果，而非产出；重视理解，而非速度。 ”“ 一群Agent在一天内产生的工作量，可能超过一个人一辈子能审查的总量。”等等。 AI写代码，最好成绩只有16.3% Horthy在演讲中引用了",
+     "source": "华尔街见闻",
+     "zh": "不做“屎山代码”制造机！“AI软件工厂”的“12条军规”"
     },
     {
      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF&apos;s tower injures 11",
@@ -2362,6 +2370,14 @@ window.INDUSTRY_DATA = {
      "zh": "Trump open to pardoning Jensen Huang if needed: NY Post"
     },
     {
+     "title": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给",
+     "link": "https://wallstreetcn.com/articles/3786651",
+     "pubDate": "Wed, 25 Nov 2026 10:05:57 +0800",
+     "summary": "闪迪管理层在最新投资者交流会上释放强烈积极信号，对AI驱动的闪存需求前景保持高度乐观，并重申此前提出的约1.2泽字节（ZB）AI数据中心NAND市场规模预测\"毫无下行风险\"。 追风交易台消息，11月23日，花旗Michael Cadiz发表闪迪的投资者会议纪要解读，此次会议由闪迪执行副总裁兼首席产品官Khurram Ismail及投资者关系团队参与，通过线上形式与机构投资者交流。 闪迪执行副总裁兼首席产品官Khurram Ismail指出， 直连存储、KV缓存及高性能数据湖三大AI存储机会均处于健康增长态势 ，客户资质认证、设计导入及部署进展持续验证需求趋势。 与此同时，管理层强调 高带宽闪存",
+     "source": "华尔街见闻",
+     "zh": "闪迪交流会：NAND“毫无下行风险”，三大AI存储机会“均健康增长”，中国市场足以吸收增加供给"
+    },
+    {
      "title": "Will the Nvidia fallout kill off Asia’s data centre boom?",
      "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 02:04:15 GMT",
@@ -2410,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names"
     },
     {
+     "title": "A股三大股指早盘震荡回升，光模块龙头“易中天”集体反弹，半导体产业链下跌，恒指、恒科指齐涨，小米大涨6%",
+     "link": "https://wallstreetcn.com/articles/3786653",
+     "pubDate": "Wed, 25 Nov 2026 09:56:06 +0800",
+     "summary": "11月25日，A股早盘低开，三大股指盘初震荡拉升，跌幅持续收窄，算力硬件低开高走，光模块龙头“易中天”纷纷转涨，天孚通信大涨超11%。光芯片、光电路交换机早盘亦走高。零售、餐饮旅游等大消费活跃。半导体产业链陷入调整，GPU、先进封装、光刻机等概念股下跌。 港股早盘拉升，恒指、恒科指双双上涨，恒科指盘初一度涨1%，权重科网股多数反弹，小米、京东大涨5%，哔哩哔哩拉升近10%。半导体下挫，华虹宏力跌超11%。光模块、光纤、AI大模型股均调整。债市方面，国债期货普遍下跌。商品方面，国内商品方面多数下跌，贵金属期货跌幅居前，跟随隔夜国际黄金的跌势。核心市场走势： A股： 截至发稿，沪指跌0.76%，深",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指早盘震荡回升，光模块龙头“易中天”集体反弹，半导体产业链下跌，恒指、恒科指齐涨，小米大涨6%"
+    },
+    {
      "title": "《全民国防教育“十五五”规划》印发",
      "link": "http://www.eeo.com.cn/2026/1125/1101749.shtml",
      "pubDate": "Wed, 25 Nov 2026 09:52:09 +0800",
@@ -2434,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "100%！美联储加息大消息！“华尔街之狼”发出警告"
     },
     {
-     "title": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？",
-     "link": "http://forex.eastmoney.com/news/1131,202611253939343866.html",
-     "pubDate": "Wed, 25 Nov 2026 09:42:00 +0800",
-     "summary": "债券交易员正争相对冲以下风险：美联储加息和股市下跌将显著拖累美国经济，迫使美联储最早于明年晚些时候重新转向宽松货币政策。 尽管在金融市场的定价中，上述情景仍被视为一种小概率事件。目前利率 期货 市场的定价显示，美联储将在2027年年中之前将基准利率上调75个基点至约4.5%，并在高位维持以抑制通胀。 但在过去一周，经济增长陷入停滞的隐忧催生了期权市场的全新异动——交易员开始重金押注美联储将提前转向降息、美债将迎来更猛烈的反弹行情。 这类买入看涨期权的交易押注未来数月内宏观前景将现急转： 在有担保隔夜融资利率(SOFR)期权市场中，中期曲线看涨期权的未平仓合约出现显著增仓—— 若未来市场开始预期",
-     "source": "东方财富资讯",
-     "zh": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？"
-    },
-    {
      "title": "Asian markets lose ground as AI fears return",
      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 01:41:03 GMT",
@@ -2450,36 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "Asian markets lose ground as AI fears return"
     },
     {
+     "title": "OpenAI瞄上网络安全：比编程更大的下一个市场",
+     "link": "https://wallstreetcn.com/articles/3786652",
+     "pubDate": "Wed, 25 Nov 2026 09:22:51 +0800",
+     "summary": "近期一系列高调网络安全事件令市场警觉，也让OpenAI看到了新的商业机会。 OpenAI总裁Greg Brockman近日明确表态，网络安全将成为该公司比编程更大的业务板块。首席财务官Sarah Friar则称，目前市场对网络安全总可寻址市场逾3000亿美元的估算，远远低估了这一领域的真实潜力。 上述表态出现在OpenAI为备战潜在IPO、积极寻求新收入来源的关键节点。然而，OpenAI如何将这一愿景落地，目前仍缺乏清晰路径，且面临来自Anthropic、谷歌等竞争对手的正面挑战。 网络安全事件频发，OpenAI嗅到商机 据The Information最新报道，近期多起高知名度网络安全事件相",
+     "source": "华尔街见闻",
+     "zh": "OpenAI瞄上网络安全：比编程更大的下一个市场"
+    },
+    {
      "title": "Cleanspark outlines Sandersville first data hall delivery in 4Q 2027 while progressing $2.3B nonrecourse funding",
      "link": "https://seekingalpha.com/news/4676420-cleanspark-outlines-sandersville-first-data-hall-delivery-in-4q-2027-while-progressing-2_3b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 24 Nov 2026 20:22:20 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cleanspark outlines Sandersville first data hall delivery in 4Q 2027 while progressing $2.3B nonrecourse funding"
-    },
-    {
-     "title": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B",
-     "link": "https://seekingalpha.com/news/4676419-dell-projects-q4-fy2027-revenue-56_25b-and-non-gaap-eps-8_40-as-ai-server-revenue-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 20:12:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dell projects Q4 FY2027 revenue $56.25B and non-GAAP EPS $8.40 as AI server revenue targets ~$23.5B"
-    },
-    {
-     "title": "Dell’s stock rises as the AI boom helps sales more than double",
-     "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 01:11:00 GMT",
-     "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
-     "source": "MarketWatch",
-     "zh": "Dell’s stock rises as the AI boom helps sales more than double"
-    },
-    {
-     "title": "Nutanix outlines FY 2027 operating margin of 24.5% to 25.5% while beginning CEO succession process",
-     "link": "https://seekingalpha.com/news/4676418-nutanix-outlines-fy-2027-operating-margin-of-24_5-percent-to-25_5-percent-while-beginning-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 20:02:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nutanix outlines FY 2027 operating margin of 24.5% to 25.5% while beginning CEO succession process"
     }
    ]
   },

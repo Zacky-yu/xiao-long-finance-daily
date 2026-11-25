@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/25 13:52:04",
+ "generated_at": "2026/11/25 14:12:05",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,30 @@
    "total": 9,
    "items": [
     {
+     "title": "TSMC sees AI inference fueling chip demand for years",
+     "link": "https://www.digitimes.com/news/a20261125VL222/tsmc-ai-inference-chips-demand-design.html",
+     "pubDate": "Wed, 25 Nov 2026 05:58:34 GMT",
+     "summary": "TSMC expects demand for AI chips to remain strong for years as inference becomes an increasingly important driver of growth, executives said at a company event in Munich on November 24, according to German technology publication Oiger .",
+     "source": "DIGITIMES",
+     "zh": "TSMC sees AI inference fueling chip demand for years"
+    },
+    {
+     "title": "Samsung reportedly bids to supply SpaceX telecom equipment as Starlink Mobile expands",
+     "link": "https://www.digitimes.com/news/a20261125PD213/samsung-equipment-spacex-starlink-telecom.html",
+     "pubDate": "Wed, 25 Nov 2026 05:55:00 GMT",
+     "summary": "Samsung Electronics has reportedly entered the bidding process to become a telecommunications equipment supplier for SpaceX, as the US space company accelerates the expansion of its Starlink Mobile direct-to-device satellite service.",
+     "source": "DIGITIMES",
+     "zh": "Samsung reportedly bids to supply SpaceX telecom equipment as Starlink Mobile expands"
+    },
+    {
+     "title": "Commentary: Can China's AI chipmakers break Nvidia's hold on developers?",
+     "link": "https://www.digitimes.com/news/a20261125PD206/nvidia-chipmakers-sales-software-chips.html",
+     "pubDate": "Wed, 25 Nov 2026 05:49:08 GMT",
+     "summary": "\"Even a novelist wouldn't dare write a twist like this,\" Xijin Hu, former editor-in-chief of the Global Times , wrote in a commentary for ifeng . He cast Jensen Huang's reinstatement at Nvidia as \"the return of the king.\" Within 15 days of Huang's departure, Nvidia's board had restored him to his ro",
+     "source": "DIGITIMES",
+     "zh": "Commentary: Can China's AI chipmakers break Nvidia's hold on developers?"
+    },
+    {
      "title": "Analysis: Huang's brief exit exposes South Korea's reliance on Nvidia",
      "link": "https://www.digitimes.com/news/a20261125VL217/nvidia-jensen-huang-south-korea-infrastructure-capacity.html",
      "pubDate": "Wed, 25 Nov 2026 04:44:04 GMT",
@@ -279,30 +303,6 @@
      "summary": "Nvidia's board voted unanimously on November 23 to immediately reinstate Jensen Huang as president, CEO, and director, reversing his resignation after just 11 days and temporarily ending concerns over a leadership crisis. For the AI chip industry, the turmoil affected not only Nvidia's technology st",
      "source": "DIGITIMES",
      "zh": "Jensen Huang's return to Nvidia steadies AI financing chain as chipmakers face new funding test"
-    },
-    {
-     "title": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline",
-     "link": "https://www.digitimes.com/news/a20261125VL220/capacity-taiwan-investigation-eu-production.html",
-     "pubDate": "Wed, 25 Nov 2026 03:35:31 GMT",
-     "summary": "The Trump administration is preparing new US tariffs after investigating alleged excess factory capacity across 16 trading partners, including China, Taiwan, Japan, South Korea and the European Union, according to Bloomberg and Reuters . The findings could be released as early as November 24, three ",
-     "source": "DIGITIMES",
-     "zh": "Trump's next Section 301 tariffs raise stakes for US-China trade truce deadline"
-    },
-    {
-     "title": "US Congress advances three AI chip export bills as CEO returns to Nvidia",
-     "link": "https://www.digitimes.com/news/a20261125PD211/ai-chip-nvidia-chips-equipment.html",
-     "pubDate": "Wed, 25 Nov 2026 03:25:00 GMT",
-     "summary": "The Financial Times recently reported that the US Congress is preparing to tighten AI chip export controls, with three major bills receiving bipartisan support as lawmakers seek to close loopholes governing exports of advanced AI chips. With a new Democratic-led Congress set to take office in Januar",
-     "source": "DIGITIMES",
-     "zh": "US Congress advances three AI chip export bills as CEO returns to Nvidia"
-    },
-    {
-     "title": "China's planned ESS battery capacity nears 2,000GWh, raising global oversupply concerns",
-     "link": "https://www.digitimes.com/news/a20261125PD210/ess-capacity-expansion-oversupply-production.html",
-     "pubDate": "Wed, 25 Nov 2026 03:21:00 GMT",
-     "summary": "China's planned annual production capacity for energy storage system (ESS) batteries is approaching 2,000GWh, raising concerns about potential oversupply as domestic manufacturers accelerate their expansion into overseas markets.",
-     "source": "DIGITIMES",
-     "zh": "China's planned ESS battery capacity nears 2,000GWh, raising global oversupply concerns"
     },
     {
      "title": "Top Ten (less 5) Q3 Smartphone Vendors",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
+     "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-Despite-Mounting-Threats-in-the-Strait-of-Hormuz.html",
+     "pubDate": "Tue, 24 Nov 2026 23:50:00 -0600",
+     "summary": "Crude oil prices moved lower in early Asian trading on Wednesday, extending the recent downward trend despite reports of increasingly frequent incidents involving tankers in the Strait of Hormuz, with Iranian authorities attributing them to mines and other sources suggesting strikes with projectiles",
+     "source": "OilPrice",
+     "zh": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz"
+    },
+    {
      "title": "China Goes on Oil Buying Spree as Crude Prices Slide",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Goes-on-Oil-Buying-Spree-as-Crude-Prices-Slide.html",
      "pubDate": "Tue, 24 Nov 2026 23:25:00 -0600",
@@ -913,14 +921,6 @@
      "zh": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned"
     },
     {
-     "title": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Inches-Up-as-Gasoline-Holds-Steady.html",
-     "pubDate": "Tue, 24 Nov 2026 16:00:00 -0600",
-     "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose 126,000 barrels in the week ending November 20—the last count before the Thanksgiving holiday. In the week prior, US crude oil inventories rose by 5.3 million barrels. Commercial crude oil inventori",
-     "source": "OilPrice",
-     "zh": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady"
-    },
-    {
      "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
      "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
      "pubDate": "Tue, 24 Nov 2026 20:27:51 +0000",
@@ -945,12 +945,12 @@
      "zh": "FirstEnergy utilities get approval for $2.5B gas plant in West Virginia"
     },
     {
-     "title": "TVA announces $1.7B data center deal under new large-load tariff",
-     "link": "https://www.utilitydive.com/news/tva-announces-17b-data-center-deal-under-new-large-load-tariff/875630/",
+     "title": "TVA touts $1.7B data center deal under new large-load tariff",
+     "link": "https://www.utilitydive.com/news/tva-touts-17b-data-center-deal-under-new-large-load-tariff/875630/",
      "pubDate": "Tue, 24 Nov 2026 11:11:04 -0500",
      "summary": "Separately, the utility recently received the first small modular reactor construction permit from the NRC for&nbsp;a BWRX-300 reactor at the Clinch River Site in Oak Ridge, Tennessee but it has &ldquo;not yet decided whether to construct a reactor,&rdquo; it said.",
      "source": "Utility Dive",
-     "zh": "TVA announces $1.7B data center deal under new large-load tariff"
+     "zh": "TVA touts $1.7B data center deal under new large-load tariff"
     },
     {
      "title": "FERC must take action to protect ratepayers from higher transmission costs in SPP",
@@ -1289,6 +1289,22 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+     "pubDate": "Wed, 25 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust"
+    },
+    {
+     "title": "Georgia’s Pecan Belt",
+     "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+     "pubDate": "Wed, 25 Nov 2026 05:00:00 +0000",
+     "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+     "source": "NASA",
+     "zh": "Georgia’s Pecan Belt"
+    },
+    {
      "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
      "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
      "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
@@ -1375,22 +1391,6 @@
      "summary": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
      "source": "Space.com",
      "zh": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death"
-    },
-    {
-     "title": "AGU Hyperwall Schedule",
-     "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
-     "pubDate": "Tue, 24 Nov 2026 18:55:42 +0000",
-     "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and Ex",
-     "source": "NASA",
-     "zh": "AGU Hyperwall Schedule"
-    },
-    {
-     "title": "Webb Reveals New Details in Supernova Remnant",
-     "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-     "pubDate": "Tue, 24 Nov 2026 16:51:27 +0000",
-     "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new gen",
-     "source": "NASA",
-     "zh": "Webb Reveals New Details in Supernova Remnant"
     },
     {
      "title": "Tiangong Space Station to welcome first international visitor",
@@ -1745,12 +1745,124 @@
    "total": 18,
    "items": [
     {
+     "title": "Trump&apos;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)",
+     "link": "https://www.techmeme.com/261125/p3#a261125p3",
+     "pubDate": "Wed, 25 Nov 2026 01:05:01 -0500",
+     "summary": "Financial Times : Trump's tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO &nbsp; &mdash;&nbsp; Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms",
+     "source": "Techmeme",
+     "zh": "Trump&apos;s tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)"
+    },
+    {
+     "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+     "link": "https://www.wired.com/story/nordvpn-coupon/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+     "source": "WIRED",
+     "zh": "NordVPN Coupons: 75% Off + 3 Months Free"
+    },
+    {
+     "title": "Wayfair Coupons: Up to 80% Off November 2026",
+     "link": "https://www.wired.com/story/wayfair-promo-code/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+     "source": "WIRED",
+     "zh": "Wayfair Coupons: Up to 80% Off November 2026"
+    },
+    {
+     "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+     "link": "https://www.wired.com/story/noom-promo-code/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+     "source": "WIRED",
+     "zh": "Noom Promo Codes: 50% Off Best Deals for November 2026"
+    },
+    {
+     "title": "Klook Promo Code: 20% Off November 2026",
+     "link": "https://www.wired.com/story/klook-promo-code/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+     "source": "WIRED",
+     "zh": "Klook Promo Code: 20% Off November 2026"
+    },
+    {
+     "title": "Adidas Promo Code | 60% Off | November 2026",
+     "link": "https://www.wired.com/story/adidas-promo-code/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+     "source": "WIRED",
+     "zh": "Adidas Promo Code | 60% Off | November 2026"
+    },
+    {
+     "title": "Uplift Promo Codes: $300 Off",
+     "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
+     "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+     "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+     "source": "WIRED",
+     "zh": "Uplift Promo Codes: $300 Off"
+    },
+    {
+     "title": "流动性危机愈演愈烈，转机在哪里？",
+     "link": "https://www.huxiu.com/article/4907440.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 14:00:00 +0800",
+     "summary": "流动性危机正加剧，美股和黄金暴跌，美元和美债却走向了相反的方向。 真正的转机可能要等到明年下半年，届时加息暂停的概率大，但是否降息还得看美国经济的冷却速度。",
+     "source": "虎嗅",
+     "zh": "流动性危机愈演愈烈，转机在哪里？"
+    },
+    {
+     "title": "泰励生物：七年半累计亏损超6亿元，流动比率持续低于1",
+     "link": "https://www.tmtpost.com/8215862.html",
+     "pubDate": "Wed, 25 Nov 2026 13:53:37 +0800",
+     "summary": "泰励生物能成功港股IPO吗？",
+     "source": "钛媒体",
+     "zh": "泰励生物：七年半累计亏损超6亿元，流动比率持续低于1"
+    },
+    {
+     "title": "NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners (Anne Florentyna/Inc42)",
+     "link": "https://www.techmeme.com/261125/p2#a261125p2",
+     "pubDate": "Wed, 25 Nov 2026 00:50:13 -0500",
+     "summary": "Anne Florentyna / Inc42 : NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners &nbsp; &mdash;&nbsp; SUMMARY&nbsp; &mdash;&nbsp; Enterprise AI startup AidenAI has raised $32 Mn in a Series A funding r",
+     "source": "Techmeme",
+     "zh": "NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners (Anne Florentyna/Inc42)"
+    },
+    {
+     "title": "Lazada 泰国跨境店履约时效从 5 天掉到 9 天，备货模式该怎么调？",
+     "link": "https://www.baijing.cn/question/638957",
+     "pubDate": "Wed, 25 Nov 2026 05:49:35 +0000",
+     "summary": "我们做泰国站跨境店，团队 6 人，主推家居收纳和厨房小件，SKU 约 120 个，刚起量阶段，日均 80 单左右。上个月 Lazada 后台履约时效从 5 天掉到 9 天，超时率涨到 12%，退货率跟着从 3% 升到 7%，退回来的多是体积大的收纳箱和陶瓷类。现在走的是国内仓直发，热销款偶尔断货，只能临时从 1688 补，清关又多两天。试过把 20 个爆款提前备到泰国海外仓，但压货成本高，动销慢的款又不敢备。卡在怎么按履约时效和退货率反推备货深度和选品结构，这个取舍该怎么定？",
+     "source": "白鲸出海",
+     "zh": "Lazada 泰国跨境店履约时效从 5 天掉到 9 天，备货模式该怎么调？"
+    },
+    {
+     "title": "爱奇艺“退市”？为时尚早",
+     "link": "https://www.huxiu.com/article/4908317.html?f=rss",
+     "pubDate": "Wed, 25 Nov 2026 13:44:59 +0800",
+     "summary": "本文来自微信公众号： 阑夕 ，作者：→，原文标题：《爱奇艺「退市」？为时尚早！》 意外中的不意外，在Q3恢复经调运营盈利之后，爱奇艺头上还是悬着来自纳斯达克的「达摩克里斯之剑」。 根据纳斯达克规则上市公司，股价只要连续30个交易日低于1美金，就会自动触发隐藏任务： 不出意外的话，本周爱奇艺会收到一张书面的不合规通知。 在短剧吞噬一切的当下，长视频平台被逼到悬崖边上的画面，自然是很适合发挥的话题。 不过,有些声音还是不太规矩的。 比如直言爱奇艺即将退市的标题，就很外行。 因为退市警告和退市之间隔着的那180天资本运作期，就是在给公司一次修复股价的机会。只要期内收盘买入价至少连续10个交易日达到1",
+     "source": "虎嗅",
+     "zh": "爱奇艺“退市”？为时尚早"
+    },
+    {
+     "title": "全球首款自动驾驶摩托车亮相广州",
+     "link": "https://www.ithome.com/1/032/103.htm",
+     "pubDate": "Wed, 25 Nov 2026 05:41:14 GMT",
+     "summary": "IT之家 11 月 25 日消息，据广州日报报道，11 月 25 日上午，第五届琶洲算法大赛生态赋能大会在广州市海珠区广交会堂举办。大会现场，一台自动行驶的智能摩托车引起人们的关注。 这是全球首款量产自平衡摩托车，也是全球首创纯视觉智能驾驶摩托车 。 该车搭载全栈自研纯视觉算法与 AI 芯片，可自动保持平衡，有效解决摩托车易摔、频繁落脚等痛点，最高时速达 113 公里。品牌负责人于瑞珂表示，依托海珠区 AI 产业集群与人才优势，企业正加速推动两轮出行的智能化落地。 视频中展示的车型正是 IT之家今年 3 月报道过的 OMO X 。初创公司 OMOWAY 当时宣布推出全新 OMO X 电动摩托车",
+     "source": "IT之家",
+     "zh": "全球首款自动驾驶摩托车亮相广州"
+    },
+    {
      "title": "Sources: the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies (Barbara Moens/Financial Times)",
      "link": "https://www.techmeme.com/261125/p1#a261125p1",
      "pubDate": "Wed, 25 Nov 2026 00:40:03 -0500",
      "summary": "Barbara Moens / Financial Times : Sources: the EU plans to mobilize up to &euro;50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies &nbsp; &mdash;&nbsp; Brussels plans to take stakes in AI and quantum computing companies to try to b",
      "source": "Techmeme",
      "zh": "Sources: the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies (Barbara Moens/Financial Times)"
+    },
+    {
+     "title": "约 1/9 体积保留 93.7% 编程能力：Bonsai 2.5 27B AI 模型登场，手机、电脑都能跑",
+     "link": "https://www.ithome.com/1/032/101.htm",
+     "pubDate": "Wed, 25 Nov 2026 05:36:32 GMT",
+     "summary": "IT之家 11 月 25 日消息，美国 AI 公司 PrismML 昨日（11 月 24 日）发布 Ternary Bonsai 2.5 27B 模型，基于 Qwen3.8 27B 基座，相比较今年 9 月推出的 Bonsai 2 27B，重点提升智能体编程、多轮工具调用和长任务执行能力。 Ternary Bonsai 2.5 27B 模型采用“三值”量化，权重只取 -1、0、1 三种数值。在最紧凑格式下，该模型仍只占用 5.9GB 内存，体积约为全精度版本（约 53.8GB）的九分之一， 压缩后依然保留了原模型约 93.7% 的 Agent 编程评测得分（SWE-bench Verified",
+     "source": "IT之家",
+     "zh": "约 1/9 体积保留 93.7% 编程能力：Bonsai 2.5 27B AI 模型登场，手机、电脑都能跑"
     },
     {
      "title": "美国 58 岁女子移植猪肾满一年成全球最长存活者，无严重并发症且不用透析",
@@ -1801,14 +1913,6 @@
      "zh": "AI 芯片挤占消费级 GPU 产能，英伟达被曝缩减 RTX 50 系列显卡供货量"
     },
     {
-     "title": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",
-     "link": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
-     "pubDate": "Wed, 25 Nov 2026 05:19:28 +0000",
-     "summary": "Article URL: https://www.abovethenormnews.com/2026/11/24/king-tides-california/ Comments URL: https://news.ycombinator.com/item?id=50638811 Points: 7 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate"
-    },
-    {
      "title": "阿联酋独立站COD订单签收率只有六成多，物流商回款周期45天正常吗？",
      "link": "https://www.baijing.cn/question/638956",
      "pubDate": "Wed, 25 Nov 2026 05:19:13 +0000",
@@ -1833,42 +1937,10 @@
      "zh": "纽约时报正在退化成一家无能的媒体"
     },
     {
-     "title": "截至 10 月底，我国累计发电装机容量同比增长 10.9%",
-     "link": "https://www.ithome.com/1/032/096.htm",
-     "pubDate": "Wed, 25 Nov 2026 05:10:26 GMT",
-     "summary": "IT之家 11 月 25 日消息，国家能源局今日发布 1—10 月份全国电力统计数据。 数据显示， 截至 10 月底，全国累计发电装机容量 41.6 亿千瓦，同比增长 10.9% 。其中，太阳能发电装机容量 13.3 亿千瓦，同比增长 16.3%；风电装机容量 7.1 亿千瓦，同比增长 20.0%。新能源装机规模持续扩大，能源绿色低碳转型步伐不断加快。 国家能源局发展规划司副司长葛炬 11 月 6 日在发布会上表示，“十五五”时期，在算力等新兴产业带动下， 我国用电需求仍将刚性增长 ，预计年均增量将达到 6,000 亿度左右， 相当于每年新增 3 个上海市的用电量 。 为做好电力保供，我们建立",
-     "source": "IT之家",
-     "zh": "截至 10 月底，我国累计发电装机容量同比增长 10.9%"
-    },
-    {
-     "title": "10亿Token 开源万只假鸟，AI 伪科普正在“污染”下⼀代的常识",
-     "link": "https://www.huxiu.com/article/4908310.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 13:10:01 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，原文标题：《10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下⼀代的常识》 如果你是一名观鸟爱好者，也许会注意到这几天App Store上线了一款名为《鸣迹：观鸟手账》的新应用。 但只要稍微把玩一下，你就会发现它处处透着不对劲。 一个普通的记录类App，安装包体积居然高达1GB——而通常的科普图鉴类应用，大概是100MB左右的体量。 这个观鸟App既没有内置虚幻5引擎，也没有跑本地大模型，纯粹是因为开发者为了省下服务器资源，用一种做3A大作的思路，把海量的鸟类贴图全部硬塞进了本地包里。 再仔细看它的界面文案和更新说明，字里行间",
-     "source": "虎嗅",
-     "zh": "10亿Token 开源万只假鸟，AI 伪科普正在“污染”下⼀代的常识"
-    },
-    {
-     "title": "越南南北高铁计划 2028 年启动：法韩越八家企业组成的联合体中标，总投资约 673 亿美元",
-     "link": "https://www.ithome.com/1/032/095.htm",
-     "pubDate": "Wed, 25 Nov 2026 05:08:52 GMT",
-     "summary": "IT之家 11 月 25 日消息，越南政府已选定由法国、韩国、越南共 8 家承包商组成的联合体，负责该国南北高速铁路项目的勘察、可行性研究及相关设计工作。 据越南政府门户网站 11 月 23 日消息，越南建设部旗下升龙项目管理委员会已批准 TV-02 咨询标段的承包商遴选结果，由法国工程咨询公司 SYSTRA 牵头的八家企业组成的联合体中标，中标金额超过 10.24 万亿越南盾 （IT之家注：现汇率约合 26.52 亿元人民币） ，项目实施周期为 30 个月。 该联合体包括法国 SYSTRA、韩国 Sambo Engineering、Yooshin Engineering 和 Korea Na",
-     "source": "IT之家",
-     "zh": "越南南北高铁计划 2028 年启动：法韩越八家企业组成的联合体中标，总投资约 673 亿美元"
-    },
-    {
-     "title": "携程去南半球讲出海的故事",
-     "link": "https://www.huxiu.com/article/4908308.html?f=rss",
-     "pubDate": "Wed, 25 Nov 2026 13:07:53 +0800",
-     "summary": "本文来自微信公众号： ST商业研究社 ，作者：ST编辑部 11月19日悉尼那场会，三个数字我记了三遍，150亿、五年、2亿人。回家翻它9月16日那份二季报，销售及营销费用一栏写着38.41亿元，一个季度，此外三线城市入境订单增38.3%、四线46.2%、五线47.9%。 01 先说这场会开在哪。 11月19日，携程把全球合作伙伴峰会搬到了悉尼国际会议中心，梁建章上台讲的第一件事是入境游这门过去几年一直排在末位的生意。 他坦言携程今年增长最快的部分在国际旅游，一头是中国游客出境，一头是全球游客走进来，而后者才是他专程飞到南半球要讲的故事。 随后他给了三个数字，未来五年至少投入150亿元宣传资源，",
-     "source": "虎嗅",
-     "zh": "携程去南半球讲出海的故事"
-    },
-    {
      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
      "link": "https://github.com/samcorcos/legatum/issues/147",
      "pubDate": "Wed, 25 Nov 2026 04:56:36 +0000",
-     "summary": "Article URL: https://github.com/samcorcos/legatum/issues/147 Comments URL: https://news.ycombinator.com/item?id=50638647 Points: 20 # Comments: 2",
+     "summary": "Article URL: https://github.com/samcorcos/legatum/issues/147 Comments URL: https://news.ycombinator.com/item?id=50638647 Points: 40 # Comments: 2",
      "source": "Hacker News",
      "zh": "Treasury CIO is too busy vibecoding instead of doing his job #147"
     },
@@ -1884,7 +1956,7 @@
      "title": "Show HN: U.S. Interstate Weather",
      "link": "https://www.interstateweather.com/",
      "pubDate": "Wed, 25 Nov 2026 04:35:32 +0000",
-     "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday). Comments URL: https://news.ycombinator.com/item?id=50638523 Points: 18 # Comments: 4",
+     "summary": "In case you're going on a road trip this week in the lower 48 (Thanksgiving is a big U.S holiday on Thursday). Comments URL: https://news.ycombinator.com/item?id=50638523 Points: 20 # Comments: 4",
      "source": "Hacker News",
      "zh": "Show HN: U.S. Interstate Weather"
     },
@@ -1892,7 +1964,7 @@
      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
      "link": "https://gpu-demo-gallery.pages.dev/",
      "pubDate": "Wed, 25 Nov 2026 04:31:48 +0000",
-     "summary": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 17 # Comments: 2",
+     "summary": "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Old Nvidia and ATI tech demos, running again in the browser"
     },
@@ -1911,78 +1983,6 @@
      "summary": "德国、法国、西班牙三地上线短剧App四个月，月活约18万，团队12人。订阅页首月付费转化只有3.1%，德国略高、西班牙最低。目前只接了信用卡和PayPal，德国有不少用户卡在SEPA直接借记这一步，法国用户对预付卡接受度也比预期低。试过给首周0.99欧试用、限时折扣弹窗，转化提升不到0.5个点。现在怀疑是本地支付方式覆盖不足，但接入新通道涉及结算周期和回款时效，我们现金流撑不了太长账期。想请教：欧洲短剧订阅场景下，优先补哪几个本地支付方式，回款周期大概多久？",
      "source": "白鲸出海",
      "zh": "欧洲短剧订阅首月付费转化只有3.1%，是支付方式没铺全吗？"
-    },
-    {
-     "title": "Taking over US Treasury subdomains for $3 each",
-     "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-     "pubDate": "Wed, 25 Nov 2026 04:27:55 +0000",
-     "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Taking over US Treasury subdomains for $3 each"
-    },
-    {
-     "title": "Sources: US intelligence officials told congressional aides Alice Huang wasn&apos;t directed by China&apos;s MSS on Jensen Huang affair, but may have passed intel to MSS (New York Times)",
-     "link": "https://www.techmeme.com/261124/p52#a261124p52",
-     "pubDate": "Tue, 24 Nov 2026 23:15:01 -0500",
-     "summary": "New York Times : Sources: US intelligence officials told congressional aides Alice Huang wasn't directed by China's MSS on Jensen Huang affair, but may have passed intel to MSS &nbsp; &mdash;&nbsp; After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aid",
-     "source": "Techmeme",
-     "zh": "Sources: US intelligence officials told congressional aides Alice Huang wasn&apos;t directed by China&apos;s MSS on Jensen Huang affair, but may have passed intel to MSS (New York Times)"
-    },
-    {
-     "title": "北美独立站邮件营销复购率跌了，新规下双重订阅还能怎么合规做？",
-     "link": "https://www.baijing.cn/question/638953",
-     "pubDate": "Wed, 25 Nov 2026 04:05:30 +0000",
-     "summary": "我们做北美独立站宠物用品，团队6人，月流水约8万美元，复购率从去年Q4的31%掉到现在的22%。去年底起Gmail和Yahoo对批量发件人执行更严格的退订与投诉率要求后，我们按提示补了SPF、DKIM、DMARC，也把沉睡90天以上的名单做了清理，但打开率还是从28%降到17%，二次购买邮件几乎没转化。现在卡在订阅入口：弹窗收集的邮箱里有不少是勾了营销同意但没走双重订阅的，担心继续发会拉高投诉率影响域名声誉，改成双重订阅又怕名单增长直接腰斩。想问问在北美做独立站的同行，这个合规和增长的平衡点你们是怎么定的？",
-     "source": "白鲸出海",
-     "zh": "北美独立站邮件营销复购率跌了，新规下双重订阅还能怎么合规做？"
-    },
-    {
-     "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-     "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-     "pubDate": "Wed, 25 Nov 2026 04:03:33 +0000",
-     "summary": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F Comments URL: https://news.ycombinator.com/item?id=50638320 Points: 64 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star"
-    },
-    {
-     "title": "世界模型变天了",
-     "link": "https://www.tmtpost.com/8216357.html",
-     "pubDate": "Wed, 25 Nov 2026 11:49:00 +0800",
-     "summary": "争抢定义“什么是好的世界模型”。",
-     "source": "钛媒体",
-     "zh": "世界模型变天了"
-    },
-    {
-     "title": "传音应用商店在尼日利亚的CPA涨到0.42美元，还要不要继续投？",
-     "link": "https://www.baijing.cn/question/638952",
-     "pubDate": "Wed, 25 Nov 2026 03:39:12 +0000",
-     "summary": "我们做工具类App，去年底上线，目前主攻尼日利亚和肯尼亚，团队6人，月投放预算约1.2万美元。传音应用商店是我们非洲分发的主要渠道之一，上个月在尼日利亚的CPA从0.28美元涨到0.42美元，量还掉了约三成，肯尼亚相对稳一点。已经试过换素材、调出价、把预算往Palm Store和华为AppGallery挪，但传音那边的量还是回不来。现在纠结的是：是接受这个成本继续买传音的量保规模，还是把预算集中到Google Play和本地其他商店？想听听大家判断传音渠道成本天花板的标准是什么。",
-     "source": "白鲸出海",
-     "zh": "传音应用商店在尼日利亚的CPA涨到0.42美元，还要不要继续投？"
-    },
-    {
-     "title": "手机、汽车、AI，小米需要一场新的增长接力",
-     "link": "https://www.tmtpost.com/8216871.html",
-     "pubDate": "Wed, 25 Nov 2026 11:32:28 +0800",
-     "summary": "从手机到汽车再到AI，小米在寻找下一个增长点，但恰巧碰到了消费电子的下行周期。",
-     "source": "钛媒体",
-     "zh": "手机、汽车、AI，小米需要一场新的增长接力"
-    },
-    {
-     "title": "Nutanix CEO Rajiv Ramaswami announces plans to step down and become a senior adviser, but will remain as CEO until a successor is named; he joined in late 2020 (Mike Wheatley/SiliconANGLE)",
-     "link": "https://www.techmeme.com/261124/p51#a261124p51",
-     "pubDate": "Tue, 24 Nov 2026 22:15:00 -0500",
-     "summary": "Mike Wheatley / SiliconANGLE : Nutanix CEO Rajiv Ramaswami announces plans to step down and become a senior adviser, but will remain as CEO until a successor is named; he joined in late 2020 &nbsp; &mdash;&nbsp; Rajiv Ramaswami is stepping down from his role as the Chief Executive Officer of Nutanix",
-     "source": "Techmeme",
-     "zh": "Nutanix CEO Rajiv Ramaswami announces plans to step down and become a senior adviser, but will remain as CEO until a successor is named; he joined in late 2020 (Mike Wheatley/SiliconANGLE)"
-    },
-    {
-     "title": "阿联酋独立站拒付率1.8%，只有半个运营盯支付，该先补人还是先换通道？",
-     "link": "https://www.baijing.cn/question/638951",
-     "pubDate": "Wed, 25 Nov 2026 03:13:39 +0000",
-     "summary": "我们做中东独立站，沙特和阿联酋各一半量，主品类是电子配件，月流水大概40万迪拉姆，团队一共7个人，其中只有半个运营兼着盯支付和拒付，排期上每周只能抽出半天看后台。现在阿联酋站的拒付率在1.8%左右，卡组织那边已经发过一次预警邮件，说再往上就要进监控名单。已经试过在Checkout页加3DS强制验证、把COD订单单独筛出来人工外呼确认，拒付率降到1.6%但再也压不下去；也对比过两家本地收单通道的结算周期和拒付申诉接口，发现申诉要逐笔上传物流签收和聊天记录，半个运营根本排不出这个工时。现在纠结的是先招一个专职支付运营，还是直接换成拒付申诉自动化更好的通道，毕竟换通道要重新跑一轮沙箱和风控联调，人力",
-     "source": "白鲸出海",
-     "zh": "阿联酋独立站拒付率1.8%，只有半个运营盯支付，该先补人还是先换通道？"
     }
    ]
   },
@@ -2241,52 +2241,84 @@
    "total": 13,
    "items": [
     {
-     "title": "美股剧烈波动！英伟达“狂欢仅一日”，费半指数跌超7%，闪迪、美光科技跌超10%，“史上最大IPO”Anthropic破发",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939436517.html",
-     "pubDate": "Wed, 25 Nov 2026 13:41:33 +0800",
-     "summary": "北京时间11月25日凌晨，美股三大指数收盘涨跌不一。道琼斯工业平均指数收报50019.77点，涨0.86%； 纳斯达克 指数收报23733.54点，跌1.48%；标普500指数收报7201.09点，跌0.50%。 前一个交易日 英伟达 宣布黄仁勋复职，股价当日暴涨，但市场的狂热仅持续了一天。纳指和标普500承受了科技板块集中抛售压力，而以传统 价值股 为主的道琼斯工业平均指数则因资金大规模“避险式轮动”逆势收红。 费城 半导体 指数跌7.88%。 亚德诺 跌17.37%，ASTERA LABS跌13.88%，SITIME跌13.79%，MACOM跌13.45%，CREDO跌13.07%， 德州",
-     "source": "东方财富股票",
-     "zh": "美股剧烈波动！英伟达“狂欢仅一日”，费半指数跌超7%，闪迪、美光科技跌超10%，“史上最大IPO”Anthropic破发"
+     "title": "Amazon Autos expanding to UK in 2027 with Hyundai",
+     "link": "https://seekingalpha.com/news/4676450-amazon-autos-expanding-to-uk-in-2027-with-hyundai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 01:04:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon Autos expanding to UK in 2027 with Hyundai"
     },
     {
-     "title": "陈睿：B站和短剧是吃米饭和薯片的区别",
-     "link": "http://stock.eastmoney.com/news/11231,202611253939434571.html",
-     "pubDate": "Wed, 25 Nov 2026 13:40:40 +0800",
-     "summary": "11月24日， 哔哩哔哩 （以下简称“B站”）发布截至2026年9月30日的第三季度未经审计财报。财报显示，B站第三季度总营收达83.2亿元，同比增长8%；净利润为5.04亿元，同比增长7%；经调整净利润为8.28亿元，同比增长5%。 用户基本盘方面，B站三季度日均活跃用户达1.24亿，同比增长5%；月均活跃用户增至3.94亿；用户日均使用时长首次突破两小时，达到121分钟，三项核心指标均创 历史新高 。 在财报发布后的分析师电话会上，谈到B站是否受到短剧影响，B站董事长兼首席执行官陈睿回应称，没有受到影响，B站和短剧是吃米饭和薯片的区别，这两种需求，对应的也是不一样的用户基本盘。 “短内容追",
-     "source": "东方财富股票",
-     "zh": "陈睿：B站和短剧是吃米饭和薯片的区别"
+     "title": "Asian stocks sell off broadly on hot inflation data and U.S. tariff concerns",
+     "link": "https://seekingalpha.com/news/4676432-asian-stocks-sell-off-broadly-on-hot-inflation-data-and-us-tariff-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 01:01:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian stocks sell off broadly on hot inflation data and U.S. tariff concerns"
     },
     {
-     "title": "Jeep公布在华发展最新规划：2027年推出首款新能源车型，销售网络覆盖130座重点城市",
-     "link": "http://stock.eastmoney.com/news/11219,202611253939434973.html",
-     "pubDate": "Wed, 25 Nov 2026 13:39:12 +0800",
-     "summary": "再度决定入华发展的Jeep品牌11月25日公布了其在华发展的最新规划。 “Jeep品牌未来三年将在中国市场推出多款全 新能源 车型，首款车型计划于2027年上市。届时，Jeep将形成燃油、插混、纯电并行的完整动力矩阵，进口与国产双线协同，产品覆盖入门、主流到 豪华 细分市场，兼顾家庭出行、年轻个性与专业越野等多元场景。”Stellantis（上海） 汽车 有限公司总经理潘立胤在当天的“Jeep+”生态战略发布会上表示。 这一节奏与其此前落地的国产项目形成呼应。今年5月， Stellantis集团 、东风 汽车 等六方签署战略合作协议，总投资超80亿元，自2027年起在神龙 汽车 武汉工厂投产两",
+     "title": "机构认为逢低布局优质龙头仍是策略重点，创业板算力ETF天弘（158061）标的指数跌超2%，换手率近40%为同标的第一",
+     "link": "http://stock.eastmoney.com/news/11622,202611253939446774.html",
+     "pubDate": "Wed, 25 Nov 2026 13:55:42 +0800",
+     "summary": "盘面上，两市低开低走，算力板块下跌。相关ETF方面，创业板算力ETF天弘（158061）标的指数盘中跌2.24%，净申购达1000万份，为深市同标的第一；成交额达1.05亿元；换手率达39.44%，为同标的第一。成分股中， 四会富仕 、 弘信电子 、 菲菱科思 、 锐捷网络 、 满坤科技 跌超5%， 宏景科技 、 朗科科技 、 君正股份 等多股跟跌。 创业板算力ETF天弘（158061）最近20个交易日累计获资金净流入2897.53万元。截至2026年11月24日，该基金最新规模为2.67亿元。 创业板算力ETF天弘（158061）紧密跟踪创业板算力指数，近一年涨幅达2.89%，其行业配置主要",
      "source": "东方财富股票",
-     "zh": "Jeep公布在华发展最新规划：2027年推出首款新能源车型，销售网络覆盖130座重点城市"
+     "zh": "机构认为逢低布局优质龙头仍是策略重点，创业板算力ETF天弘（158061）标的指数跌超2%，换手率近40%为同标的第一"
     },
     {
-     "title": "SK海力士股价下跌11% 三星电子下跌10%",
-     "link": "http://finance.eastmoney.com/news/1354,202611253939435580.html",
-     "pubDate": "Wed, 25 Nov 2026 13:38:41 +0800",
-     "summary": "SK海力士 股价下跌11%，三星 电子 下跌10%。",
+     "title": "摩根大通2027年展望：预估MSCI欧元区指数2027年底将达到415点",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939447466.html",
+     "pubDate": "Wed, 25 Nov 2026 13:55:37 +0800",
+     "summary": "摩根大通 2027年展望：预估MSCI欧元区指数2027年底将达到415点。预估英国富时100指数将在2027年达到11,400点。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "SK海力士股价下跌11% 三星电子下跌10%"
+     "zh": "摩根大通2027年展望：预估MSCI欧元区指数2027年底将达到415点"
     },
     {
-     "title": "日本企业对加息负面影响的担忧加剧 近六成企业认为弊大于利",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939435122.html",
-     "pubDate": "Wed, 25 Nov 2026 13:38:06 +0800",
-     "summary": "一项最新调查显示，日本企业正越来越明显地感受到利率上升带来的压力。这再次提醒日本央行，需要密切关注金融环境的变化。根据帝国数据库周三公布的调查，近59%的企业认为加息带来的负面影响大于正面影响，较去年12月的上一次调查上升了14个百分点。日本央行9月将基准利率上调至30年来最高水平，市场普遍预计下个月将再次加息。自2024年以来，日本央行已六次上调政策利率。不过目前基准利率仍为1.25%，在主要经济体中处于较低水平。最新调查数据显示，加息的影响正在企业部门逐步扩大。调查发现，约48%的企业表示，其主要往来 银行 曾主动联系告知将提高贷款利率。在这些企业中，29%表示贷款利率已经上调。 （文章来",
+     "title": "美、布两油短线拉升0.7美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939446042.html",
+     "pubDate": "Wed, 25 Nov 2026 13:55:07 +0800",
+     "summary": "美、布两油短线拉升0.7美元，报81.86美元/桶和90.29美元/桶。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "日本企业对加息负面影响的担忧加剧 近六成企业认为弊大于利"
+     "zh": "美、布两油短线拉升0.7美元"
     },
     {
-     "title": "日本40年期国债收益率在拍卖结果疲弱后上升5.5个基点，至4.175%",
-     "link": "http://finance.eastmoney.com/news/1351,202611253939434258.html",
-     "pubDate": "Wed, 25 Nov 2026 13:37:37 +0800",
-     "summary": "日本40年期国债收益率在拍卖结果疲弱后上升5.5个基点，至4.175%。 （文章来源：金十数据快讯）",
+     "title": "比特币ETF本月资金净流出逼近50亿美元 恐创上市以来最差纪录",
+     "link": "http://finance.eastmoney.com/news/1351,202611253939447722.html",
+     "pubDate": "Wed, 25 Nov 2026 13:55:01 +0800",
+     "summary": "随着全球最大加密货币比特币持续遭到抛售，投资者纷纷撤资，美国上市的比特币交易所交易基金(ETF)势将创下2024年推出以来最大单月资金净流出规模。截至11月23日的数据显示，11月迄今，这些基金资金净流出47.1亿美元。持有比特币规模最大的基金—— 贝莱德 旗下iShares Bitcoin Trust本月遭遇约40亿美元赎回，同样势将创下该基金最大单月资金流出纪录。资金外流之际，比特币跌破6万美元，势将创下2022年6月以来最差单月表现。当时，一系列加密货币企业倒闭引发整个市场崩盘。比特币本月已下跌约23%。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "日本40年期国债收益率在拍卖结果疲弱后上升5.5个基点，至4.175%"
+     "zh": "比特币ETF本月资金净流出逼近50亿美元 恐创上市以来最差纪录"
+    },
+    {
+     "title": "助力“陇电入浙”，甘肃民勤330千伏输变电工程线路工程全线贯通",
+     "link": "http://finance.eastmoney.com/news/1348,202611253939445630.html",
+     "pubDate": "Wed, 25 Nov 2026 13:54:34 +0800",
+     "summary": "今天（11月25日），随着最后一档导地线展放到位，甘肃武威民勤330千伏输变电工程线路工程实现全线贯通，将进一步提升“陇电入浙”等跨区域输电项目配套属地保障能力。 甘肃民勤330千伏线路工程，全线地处戈壁荒漠，风沙大、昼夜温差大，施工单位投入4台牵张设备，统筹14个施工班组、140余名作业人员，采取多点平行推进的方式全面展开作业。推进工程进度过程中，同步做好安全管控，采取高处作业防滑防坠、起重设备防冻等措施。 民勤330千伏输变电工程是立足国家能源安全战略、支撑区域电网提档升级、服务 新能源 内用并网的重点电网工程，新建330千伏变电站1座、铁塔294基、线路119.1千米。工程建成投运后，将",
+     "source": "东方财富股票",
+     "zh": "助力“陇电入浙”，甘肃民勤330千伏输变电工程线路工程全线贯通"
+    },
+    {
+     "title": "家电板块局部异动 北鼎股份涨超10%",
+     "link": "http://finance.eastmoney.com/news/11440,202611253939444610.html",
+     "pubDate": "Wed, 25 Nov 2026 13:54:23 +0800",
+     "summary": "午后家电板块局部异动， 北鼎股份 涨超10%，此前 九阳股份 走出7天5板， 小熊电器 、 长虹美菱 、 彩虹集团 、 德尔玛 等跟涨。消息面上，根据海关总署数据，10月我国家电出口额为606.3亿元，2026年1—10月累计出口额为6,145.8亿元，同比增长5.9%。10月拉丁美洲出口额同比增长27.9%，增速居六大区域首位。",
+     "source": "东方财富股票",
+     "zh": "家电板块局部异动 北鼎股份涨超10%"
+    },
+    {
+     "title": "台海观澜 | 台北市长选举，“水库阿姨”送上神助攻",
+     "link": "http://www.eeo.com.cn/2026/1125/1102275.shtml",
+     "pubDate": "Wed, 25 Nov 2026 13:37:00 +0800",
+     "summary": "水能载舟，不能载电池板。",
+     "source": "经济观察网",
+     "zh": "台海观澜 | 台北市长选举，“水库阿姨”送上神助攻"
+    },
+    {
+     "title": "高盛：别只盯着黄仁勋 这件事对市场的影响更大",
+     "link": "http://finance.eastmoney.com/news/1352,202611253939434767.html",
+     "pubDate": "Wed, 25 Nov 2026 13:34:09 +0800",
+     "summary": "在近期黄仁勋回归 英伟达 的“大戏”吸引全球投资者目光之际， 高盛 分析师莎伦·贝尔（Sharon Bell）表示， 英伟达 近期管理层的变动并不会显著改变AI投资前景。她强调，真正决定全球科技板块表现的核心要素，仍然是AI资本开支的回报问题。 美东时间周二， 高盛 欧洲股票策略师贝尔在接受采访时称： “ AI行情的核心在于企业能否从投入的资本开支中获得回报 ……如果答案是肯定的，科技板块长期表现向好；如果不能，行情就会承压。 英伟达 管理层变动，并不会从根本上改变这一格局 。” 贝尔指出，当前美股市场高度集中于少数龙头标的，这也是英伟达这区区一家公司的消息就能引发大盘剧烈波动的原因。 美东时",
+     "source": "东方财富资讯",
+     "zh": "高盛：别只盯着黄仁勋 这件事对市场的影响更大"
     },
     {
      "title": "Japan’s services PPI jumps 4.2% in October, hitting highest level since 1990",
@@ -2327,22 +2359,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Bonta says California Nvidia probe continues after CEO return, criticizes Trump team"
-    },
-    {
-     "title": "HP projects FY 2027 EPS $3.15-$3.45 while raising quarterly dividend to $0.31",
-     "link": "https://seekingalpha.com/news/4676448-hp-projects-fy-2027-eps-3_15-3_45-while-raising-quarterly-dividend-to-0_31?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 00:12:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HP projects FY 2027 EPS $3.15-$3.45 while raising quarterly dividend to $0.31"
-    },
-    {
-     "title": "Prospect Enhanced Yield Fund declares $0.2378 dividend",
-     "link": "https://seekingalpha.com/news/4676447-prospect-enhanced-yield-fund-declares-02378-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 00:09:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Prospect Enhanced Yield Fund declares $0.2378 dividend"
     },
     {
      "title": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国",
@@ -2457,28 +2473,12 @@
      "zh": "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%"
     },
     {
-     "title": "国产芯片承压 “易中天”却逆势走高 发生了什么？",
-     "link": "http://finance.eastmoney.com/news/11822,202611253939399642.html",
-     "pubDate": "Wed, 25 Nov 2026 12:03:57 +0800",
-     "summary": "11月25日早盘，A股低位震荡，芯片产业链整体承压，国产芯片方向跌幅居前， 华虹宏力 大跌9% ，沐曦股份、摩尔线程、 寒武纪 、 中微公司 等均走低，港股 壁仞科技 暴跌16%。 然而，同为AI硬件方向的 CPO概念 却低开高走， 天孚通信 涨超10% ， 新易盛 、 中际旭创 翻红， 联讯仪器 、 光库科技 、 杰普特 、 炬光科技 等多股跟涨。 外围重挫、关税威胁与加息预期 就外围市场来看，隔夜美股科技方向走势不佳， 费城 半导体 指数重挫7.88% ，30只成分股全线下跌， 美光科技 、 闪迪 大跌11%， 英伟达 跌近6%， Anthropic 破发收跌6.54%。 资金从科技向消费",
-     "source": "东方财富资讯",
-     "zh": "国产芯片承压 “易中天”却逆势走高 发生了什么？"
-    },
-    {
      "title": "Asian markets lose ground as AI fears return",
      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
      "pubDate": "Wed, 25 Nov 2026 03:52:20 GMT",
      "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
      "source": "Financial Times",
      "zh": "Asian markets lose ground as AI fears return"
-    },
-    {
-     "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-     "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-     "pubDate": "Wed, 25 Nov 2026 03:52:03 GMT",
-     "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-     "source": "CNBC",
-     "zh": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 12:11:49",
+ "generated_at": "2026/11/26 12:22:32",
  "recent_days": 7,
  "industries": [
   {
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+     "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+     "pubDate": "Thu, 26 Nov 2026 09:18:52 +0530",
+     "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K",
+     "source": "The Hacker News",
+     "zh": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps"
+    },
+    {
      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
      "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500",
@@ -1714,14 +1722,6 @@ window.INDUSTRY_DATA = {
      "zh": "Plagiarism Checker Turnitin Investigating Cyberattack"
     },
     {
-     "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-     "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-     "pubDate": "Wed, 25 Nov 2026 14:36:59 +0530",
-     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had ",
-     "source": "The Hacker News",
-     "zh": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers"
-    },
-    {
      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
      "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
      "pubDate": "Wed, 25 Nov 2026 09:05:13 +0000",
@@ -1762,12 +1762,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "航司说不赔就可以不赔吗",
+     "link": "https://www.huxiu.com/article/4908616.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:12:26 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 先说外航的——新西兰航空最近摊上一个事儿。 11月19日，新西兰商业委员会宣布，准备对这家航空公司提起诉讼，原因是它涉嫌在航班延误、取消之后，误导旅客对赔偿权益的理解。 看这个措辞——误导、旅客、对、赔偿权益、的、理解。 这里说的，可不只是退一张机票。 航班取消了，酒店未必能退，门票也不是一定就给退，临时换一个航班，机票可能贵了，被迫多留一晚，吃饭、住宿又得花钱。 机票钱退回来了，这些钱怎么办？ 具体哪些损失能够获得赔偿，要看航班出问题的原因、适用规则和实际支出。但至少，旅客应该知道，退票之外，还有哪些损失可以提出索赔。 按照监管机构的说法，",
+     "source": "虎嗅",
+     "zh": "航司说不赔就可以不赔吗"
+    },
+    {
+     "title": "民主党兴，加密要完",
+     "link": "https://www.huxiu.com/article/4908615.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:11:44 +0800",
+     "summary": "本文来自微信公众号： Odaily ，作者：jk 逐条详解：特朗普时代36项加密政策推翻可能性。 导读：36项政策有多少可以被推翻？ 2025年1月特朗普重返白宫以来，美国加密监管出现了明显的转向。国会通过了首部联邦稳定币法律，白宫连续签署多项与数字资产有关的行政命令，美国证券交易委员会（SEC）和商品期货交易委员会（CFTC）撤销了大批诉讼，并陆续推出豁免、解释和规则提案，银行监管机构则撤回了此前对加密业务的限制性指引。 但在2026年11月的中期选举中，民主党同时赢下了众议院和参议院。新一届国会将在2027年1月3日开始履职。但特朗普的总统任期持续到2029年1月，手中握有否决权，而民主党",
+     "source": "虎嗅",
+     "zh": "民主党兴，加密要完"
+    },
+    {
+     "title": "Arc 即将关停？这款开源浏览器能无缝“接棒”",
+     "link": "https://www.huxiu.com/article/4908613.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:08:03 +0800",
+     "summary": "本文来自微信公众号： 少数派 ，作者：宛潼，原文标题：《Arc 即将关停？这款开源浏览器能无缝「接棒」》 我一直很喜欢精致美丽的产品，例如iPhone Air和Mac mini。但喜欢归喜欢，有时候美丽的产品也会让人下不去手。只靠美观的皮囊吃饭，这事在工具属性的产品上是行不通的。 几年前上手Arc浏览器时，它也给过我类似的感觉。在Chrome和Safari已经把浏览器形态打磨得高度成熟的背景下，竟然还有团队愿意把它推倒重来——把顶部标签栏搬到侧边、用Spaces隔离不同工作流，再配上Peek预览、Split View分屏以及各种细腻的交互动效，处处都给人一种「别人都这么做，但我偏不」的叛逆感，",
+     "source": "虎嗅",
+     "zh": "Arc 即将关停？这款开源浏览器能无缝“接棒”"
+    },
+    {
      "title": "东南亚五国支付通道对接，3人团队怎么排期才不拖累上线？",
      "link": "https://www.baijing.cn/question/638976",
      "pubDate": "Thu, 26 Nov 2026 04:02:49 +0000",
      "summary": "我们做印尼和越南的本地钱包支付，团队一共3个人，其中只有1个后端能对接支付，产品刚上线两个月，日均订单大概400单。现在要接OVO、DANA、MoMo和ZaloPay四个通道，每个通道的文档、回调验签、对账文件格式都不一样，光印尼两个钱包就花了三周还没跑通沙箱。人力实在排不开，又不想先只上一个国家丢市场。想请教有同类小团队经验的同行：这种多国多通道的对接，是先按国家串行排期、每个国家只上一个主钱包，还是并行推进但只做最小可用版本？判断标准主要看什么？",
      "source": "白鲸出海",
      "zh": "东南亚五国支付通道对接，3人团队怎么排期才不拖累上线？"
+    },
+    {
+     "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
+     "link": "https://www.ithome.com/1/032/722.htm",
+     "pubDate": "Thu, 26 Nov 2026 04:00:21 GMT",
+     "summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能， 探索如何将 GPU 的有效显存扩展至 PB 级 。 IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD， 总容量约 1.106PB ，双方将测试其处理由 2 万亿个向量构成的数据库能力。 随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断",
+     "source": "IT之家",
+     "zh": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级"
     },
     {
      "title": "“现在说不看具身的，只能说明他不懂”",
@@ -1786,6 +1818,30 @@ window.INDUSTRY_DATA = {
      "zh": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！"
     },
     {
+     "title": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器",
+     "link": "https://www.ithome.com/1/032/720.htm",
+     "pubDate": "Thu, 26 Nov 2026 03:54:30 GMT",
+     "summary": "IT之家 11 月 26 日消息，据渠道消息源 @视讯堂 爆料，显示器品牌泰坦军团 (Titan Army) 在本月 22~23 日在四川成都举行的中国区电竞沙龙上宣布了多款新品的规划。 其中在 LCD 技术路线方面，泰坦军团计划推出一款代号暂定为 \"U255L ULTRA\" 的产品。其采用结合 IGZO 铟镓锌氧化物与 QD 量子点技术的 Ultra Fast IPS 面板， 在 24.5\" 对角线长度、FHD 分辨率下可实现原生 1000Hz、超频 1200Hz 的刷新率 。 而在 OLED 方面，泰坦军团则将推出基于三星显示“第 5.5 代”QD-OLED 技术的 \"G2585L\" 和 ",
+     "source": "IT之家",
+     "zh": "消息称泰坦军团规划 24.5\" 1200Hz IPS、27\" 三模 QD-OLED 显示器"
+    },
+    {
+     "title": "新“万里长江第一隧”，世界最长公路水下盾构隧道成功穿越长江",
+     "link": "https://www.ithome.com/1/032/719.htm",
+     "pubDate": "Thu, 26 Nov 2026 03:53:24 GMT",
+     "summary": "IT之家 11 月 26 日消息，据央视新闻报道，11 月 26 日上午 9 时许， 由我国自主研制的国产 16 米级超大直径盾构机“江海号”顺利越过长江南岸大堤 ，完成长江水域段 7.46 公里的掘进任务，成功“上岸”，抵达江苏太仓， 标志着世界最长公路水下盾构隧道 —— 海太长江隧道 首线 （右线）成功穿越长江 ，进入贯通冲刺阶段 。 海太长江隧道工程全长 39.07 公里，北接南通海门、南连苏州太仓，采用双向六车道高速公路设计标准，设计时速 100 公里，其中过江隧道长 11.185 公里，以“明挖法 + 盾构法”的组合方式施工，盾构管片外径达 16 米。 该隧道是目前世界最长公路水下盾",
+     "source": "IT之家",
+     "zh": "新“万里长江第一隧”，世界最长公路水下盾构隧道成功穿越长江"
+    },
+    {
+     "title": "腾讯《英雄联盟电竞经理》宣布 2027 年 1 月 26 日停运，今日起停止游戏充值和新用户注册",
+     "link": "https://www.ithome.com/1/032/718.htm",
+     "pubDate": "Thu, 26 Nov 2026 03:52:44 GMT",
+     "summary": "IT之家 11 月 26 日消息，腾讯今日发布公告称，由于游戏开发及运营策略调整，《英雄联盟电竞经理》将于 2027 年 1 月 26 日 11 时 正式停止运营。 据公告公布信息，2026 年 11 月 26 日 11 时起，游戏停止充值与新用户注册；2027 年 1 月 26 日 11 时起关闭游戏服务器，用户无法登录游戏。 公告称，除法律法规有特殊规定或腾讯与用户签署的协议另有约定外，将在服务器关闭后依据《个人信息保护法》 删除账号数据及角色资料 等信息。 补偿方面，2026 年 11 月 26 日 11 点前购买过《英雄联盟电竞经理》产品并且账户里有付费点券留存的用户，可在补偿活动进行",
+     "source": "IT之家",
+     "zh": "腾讯《英雄联盟电竞经理》宣布 2027 年 1 月 26 日停运，今日起停止游戏充值和新用户注册"
+    },
+    {
      "title": "欧舒丹的中国对手，一年卖了近150万瓶",
      "link": "https://www.huxiu.com/article/4908600.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 11:52:16 +0800",
@@ -1802,6 +1858,14 @@ window.INDUSTRY_DATA = {
      "zh": "新一轮地铁涨价潮，来了"
     },
     {
+     "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
+     "link": "https://www.ithome.com/1/032/716.htm",
+     "pubDate": "Thu, 26 Nov 2026 03:50:30 GMT",
+     "summary": "IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告， 称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同，也出现新的不确定性。 报道称，SpaceX 已将面向小型计算集群的 Blackwell GPU 现货租赁报价， 从每 GPU 小时约 15.0 至 15.5 美元 （IT之家注：现汇率约合 100.2 至 103.5 元人民币） ，下调至 10 至 12 美元 （现汇率约合 66.8 至 80",
+     "source": "IT之家",
+     "zh": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力"
+    },
+    {
      "title": "Sources: Trump&apos;s national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)",
      "link": "https://www.techmeme.com/261125/p47#a261125p47",
      "pubDate": "Wed, 25 Nov 2026 22:50:00 -0500",
@@ -1810,68 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Trump&apos;s national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)"
     },
     {
-     "title": "葡萄是水果界的核动力牛马？",
-     "link": "https://www.huxiu.com/article/4907661.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:50:00 +0800",
-     "summary": "葡萄简直是水果界的核动力牛马，没有它，欧美历史书都得瘦一圈。葡萄能高糖、好种、适应力强，干旱贫瘠的地它最爱，越虐越香，不愧是逆境出人才。",
-     "source": "虎嗅",
-     "zh": "葡萄是水果界的核动力牛马？"
-    },
-    {
-     "title": "小鹏造机器人，没有订单也可以先量产",
-     "link": "https://www.huxiu.com/article/4908593.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:48:06 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜2026年小鹏科技日现场 这是小鹏IRON第二次在小鹏科技日上亮相，而今年的科技日举办地点正好是小鹏董事长何小鹏的母校&mdash;&mdash;华南理工大学。 小鹏IRON大概率是今年小鹏科技日最瞩目的焦点了，从现场来看，IRON一亮相，现场就响起了当天最热烈的欢呼声。但随之而来的也是各种各样的吐槽声，比如它能不能真的帮人干活，以及后续的软件订阅收费问题。当然，关于后者具体的商业模式，何小鹏表示将在2028年小鹏科技日上宣布，所以我们先来讨论前者。 去年，围绕IRON的槽点是，有人怀疑IRON是真人扮演的，所以为了回应质疑，IRON甚至还被",
-     "source": "虎嗅",
-     "zh": "小鹏造机器人，没有订单也可以先量产"
-    },
-    {
      "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
      "link": "https://www.ithome.com/1/032/714.htm",
      "pubDate": "Thu, 26 Nov 2026 03:47:44 GMT",
      "summary": "IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人工智能训练数据采集、标注、质量判断等环节。 我国在人工智能国际规则制定中持续发挥重要作用。 据了解，在国家数据局指导下，全国数据标准化技术委员会制定的该国际标准，明确了人工智能训练数据全生命周期的质量管理流程与技术要求，为规范人工智能训练数据治理提供了统一依据。 据IT之家此前报道， 我国正深度参与人工智能国际标准体系建设 ，目前已牵头研制 29 项基础共性",
      "source": "IT之家",
      "zh": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考"
-    },
-    {
-     "title": "山西高铁建设换挡：首条“350高铁”明年开通，太原接入北京2小时经济圈",
-     "link": "https://www.huxiu.com/article/4908602.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:45:33 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：李杭 又一个中部省份将加入“高铁350俱乐部”。 近日，雄忻高铁山西段建设进入联调联试阶段，计划用时66天，预计2027年3月底具备开通运营条件。 这是山西首条按350公里时速标准建设的高铁。它东起河北雄安新区的雄安站，经河北省保定市，接入山西省忻州西站，正线全长约342公里。其中，山西段全长约122公里，新建定襄北站、五台站、五台山站3座车站。 △图源：山西新闻联播 雄忻高铁的建设和开通，对山西完善高铁网络、加强与京津冀地区的联系具有重要意义。 中国交通运输协会新技术促进分会专家委员解筱文接受时代周报记者采访时表示，雄忻高铁开通后，太原至北",
-     "source": "虎嗅",
-     "zh": "山西高铁建设换挡：首条“350高铁”明年开通，太原接入北京2小时经济圈"
-    },
-    {
-     "title": "1999 元：技嘉推出 G27Q36 电竞显示器，27 英寸 2K 425Hz FastIPS 面板",
-     "link": "https://www.ithome.com/1/032/709.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:44:03 GMT",
-     "summary": "IT之家 11 月 26 日消息，技嘉现已推出 G27Q36 电竞显示器。新品采用 27 英寸 FastIPS 面板，分辨率为 QHD（2K），最高支持 425Hz 高刷， 售价 1999 元 。 据介绍，这款显示器的原生刷新率为 360Hz，可超频至 425Hz。分辨率为 2560*1440，覆盖 95% DCI-P3 色域，兼容英伟达 G-SYNC 功能，可减少画面撕裂现象。 同时，该显示器的灰阶响应时间为 1ms，最高亮度 400cd/m²，具备黑平衡 2.0、智能 OD、夜视仪等电竞功能。 此外，该显示器自带全功能支架，支持上下、俯仰、旋转和水平调节，机身底部带有多向摇杆，可便捷操控 ",
-     "source": "IT之家",
-     "zh": "1999 元：技嘉推出 G27Q36 电竞显示器，27 英寸 2K 425Hz FastIPS 面板"
-    },
-    {
-     "title": "国际首次，我国科研人员助力宇宙中性氢 21 厘米信号直接探测",
-     "link": "https://www.ithome.com/1/032/707.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:43:56 GMT",
-     "summary": "IT之家 11 月 26 日消息，据央视新闻报道，近日，国际 MeerKLASS（MeerKAT 大天区巡天）合作团队借助南非 MeerKAT 射电望远镜， 首次在宇宙学尺度上直接捕捉到中性氢 21 厘米射电信号 ，探测信噪比达 6.2。 这项成果让中性氢强度映射技术距离独立开展宇宙学研究迈出关键一步，也为未来平方公里阵列射电望远镜（SKA）的精密宇宙观测打下重要基础。相关成果在国际学术期刊《英国皇家天文学会月刊》在线发表。 在本次科学发现中， 中国科学院上海天文台科研团队 ，主导了关键数据校准管线研发，为本次突破提供了核心数据支撑。 宇宙学尺度中性氢 21 厘米信号直接探测示意图 中性氢是宇",
-     "source": "IT之家",
-     "zh": "国际首次，我国科研人员助力宇宙中性氢 21 厘米信号直接探测"
-    },
-    {
-     "title": "维信诺：正筹划向特定对象发行股票，尚未签署具有法律约束力的协议或文件",
-     "link": "https://www.ithome.com/1/032/684.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:40:53 GMT",
-     "summary": "IT之家 11 月 26 日消息，维信诺 (Visionox) 今日发布《关于媒体报道的说明公告》，就“有投资人拟收购公司股权”的报道进行回应。 维信诺表示，为满足公司业务发展需求，进一步优化资本结构， 维信诺正在筹划向特定对象发行股票事项 。 截至本公告披露日，维信诺未与任何投资者形成具体交易方案， 未与任何投资者签署任何具有法律约束力的协议或文件 。本次发行尚处于筹划阶段，不代表维信诺已与任何投资者就发行或收购事项达成确定性安排，且本次发行是否会导致公司控制权发生变更尚不确定。 维信诺提示，相关事项目前仍处于筹划阶段，可能因交易各方未能就交易方案协商一致等原因而发生调整或终止。 参考 ht",
-     "source": "IT之家",
-     "zh": "维信诺：正筹划向特定对象发行股票，尚未签署具有法律约束力的协议或文件"
-    },
-    {
-     "title": "奇瑞艾瑞泽 7 将推出纯电版，已完成工信部申报",
-     "link": "https://www.ithome.com/1/032/682.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:40:39 GMT",
-     "summary": "IT之家 11 月 26 日消息，工信部昨晚发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞艾瑞泽 7 纯电版完成申报。 本次申报的艾瑞泽 7 纯电版为奇瑞牌纯电动轿车，由奇瑞汽车股份有限公司生产，车身长宽高分别为 4765mm / 4722mm、1850mm、1497mm， 轴距为 2770mm ，整备质量为 1650kg / 1699kg，总质量为 2100kg / 2149kg，额定载客人数为 5 人，最高车速可达 180km/h。 IT之家注意到，该车轮胎规格提供 215/50R17、215/55R17 两种选择，配备防抱死制动系统，由上海利氪科技有限公司提供，同时",
-     "source": "IT之家",
-     "zh": "奇瑞艾瑞泽 7 将推出纯电版，已完成工信部申报"
     },
     {
      "title": "沙特站阿拉伯语客服响应慢，COD回款周期拉长到多久算正常？",
@@ -1888,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "二线大厂的冬天：砍成本，赌AI",
      "source": "钛媒体",
      "zh": "被红果改写的Q3财报季"
-    },
-    {
-     "title": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新",
-     "link": "https://www.ithome.com/1/032/662.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:35:56 GMT",
-     "summary": "IT之家 11 月 26 日消息，KIOXIA（铠侠）本月 16 日发布公告：该企业已为 EXCERIA PLUS G2 (XD20) 移动固态硬盘发布新版本固件。 此次固件更新旨在解决关键错误和 / 或提高 SSD 的可靠性和性能 。铠侠强烈建议用户更新固件。 对于现有固件版本为 UHFA20.1 或 UHFA20.2 的产品，新版固件为 UHFA20.5；对于现有固件版本为 UHFAC0.0 的产品，新版固件为 UHFAC0.1。 IT之家了解到，铠侠 EXCERIA PLUS G2 (XD20) 移动固态硬盘于 2024 年发布，采用 USB 3.2 Gen 2 (10Gbps) Typ",
-     "source": "IT之家",
-     "zh": "铠侠发布 XD20 移动固态硬盘新版固件，强烈建议用户更新"
     },
     {
      "title": "TikTok Shop 日本站直播选品，哪些品类退货率和备货节奏能扛住？",
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "According to a usually reliable source of HMD-related information, the company is currently working on a new device for the Indian market. It's called the HMD Rise 4G, and it will be sold through Flipkart. It has a 5,000 mAh battery as you can see from the leaked promotional images below, and it com",
      "source": "GSMArena",
      "zh": "HMD Rise leaks on its way to India"
+    },
+    {
+     "title": "我用AI做了一张两千年的中国历史地图",
+     "link": "https://sspai.com/post/117510",
+     "pubDate": "Thu, 26 Nov 2026 11:13:53 +0800",
+     "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+     "source": "少数派",
+     "zh": "我用AI做了一张两千年的中国历史地图"
     },
     {
      "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "A US jury has found Huawei guilty of 10 out of 12 counts, including charges of conspiracy to steal trade secrets, wire fraud, bank fraud, violation of US economic sanctions, and money laundering. The Brooklyn jury, however, acquitted Huawei of the most serious charge, racketeering, a RICO (Racketeer",
      "source": "GSMArena",
      "zh": "US court finds Huawei guilty of stealing trade secrets"
-    },
-    {
-     "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
-     "link": "https://9to5google.com/2026/11/25/old-galaxy-phones-are-a-better-deal-heres-what-you-should-buy/",
-     "pubDate": "Wed, 25 Nov 2026 19:15:00 +0000",
-     "summary": "Old is a label, and saying last year’s Galaxy flagships from Samsung are dated or worthless is disingenuous. You can get a killer deal on a phone a generation or two old. more…",
-     "source": "9to5Google",
-     "zh": "‘Old’ Galaxy phones are a better deal; here’s what you should buy"
     }
    ]
   },
@@ -2257,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+     "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+     "pubDate": "Thu, 26 Nov 2026 04:12:18 GMT",
+     "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+     "source": "CNBC",
+     "zh": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters"
+    },
     {
      "title": "马斯克下血本！全美儿童免费发两股SpaceX股票，一股来自公司，一股来自他个人",
      "link": "https://wallstreetcn.com/articles/3786740",
@@ -2282,84 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "边养6个孩子边创业！Vercel创始人要做“面向Agent”的互联网"
     },
     {
-     "title": "《新一代通信网建设实施方案》印发",
-     "link": "http://www.eeo.com.cn/2026/1126/1103526.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:52:21 +0800",
-     "summary": "近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨卫星互联网系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。国际海陆缆布局持续优化，国际网络韧性明显提升。工业互联网、车联网等融合网络实现规...",
-     "source": "经济观察网",
-     "zh": "《新一代通信网建设实施方案》印发"
-    },
-    {
-     "title": "恒达新材：公司尚未涉及视觉码包装等相关业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474511.html",
-     "pubDate": "Thu, 26 Nov 2026 11:50:23 +0800",
-     "summary": "恒达新材 (301469)11月26日在互动平台表示，公司目前主营业务聚焦于医疗包装原纸及食品包装原纸等 特种纸 原纸领域，尚未涉及视觉码包装等相关业务。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "恒达新材：公司尚未涉及视觉码包装等相关业务"
-    },
-    {
-     "title": "光模块设备龙头来了，别忘了打新",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940475466.html",
-     "pubDate": "Thu, 26 Nov 2026 11:50:13 +0800",
-     "summary": "11月26日，创业板新股 猎奇智能 网上、网下申购启动，发行价为97.53元/股，市盈率31.30倍。 招股意向书显示，公司主要从事光 通信 、 半导体 、 汽车 自动化等领域智能生产装备的研发、生产和销售，是国内领先的高端智能装备制造商。产品已覆盖了光模块封装测试流程的主要核心环节，包括贴片、耦合、老化测试等，最终应用于数通市场及电信市场。上述封装测试环节为保障光模块传输效率和可靠性的关键环节之一。 客户方面，公司设备已广泛应用于 中际旭创 、索尔思、 光迅科技 、 源杰科技 、 剑桥科技 等光 通信 行业龙头 客户和知名企业，并与2025年光模块全球前十厂商（排名来源LightCounti",
-     "source": "东方财富股票",
-     "zh": "光模块设备龙头来了，别忘了打新"
-    },
-    {
-     "title": "翔楼新材：远昌智能整机项目与柔轮材料项目尚处于各自独立研发阶段",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940476087.html",
-     "pubDate": "Thu, 26 Nov 2026 11:48:00 +0800",
-     "summary": "翔楼新材 在互动平台表示，目前远昌智能整机项目与公司柔轮材料项目尚处于各自独立研发阶段，暂未开展协同验证及材料导入工作。公司“材料—核心部件—整机”协同研发是中长期战略布局，后续将根据两个项目的研发进展、技术成熟度、产业化节点，适时统筹安排联合验证、样品导入及技术反馈机制。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "翔楼新材：远昌智能整机项目与柔轮材料项目尚处于各自独立研发阶段"
-    },
-    {
-     "title": "千方科技等成立科技公司 智能机器人研发业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474076.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:53 +0800",
-     "summary": "企查查APP显示，近日，贵州航视科技有限公司成立，法定代表人为梁越，注册资本为1000万元，经营范围包含信息系统集成服务；智能 机器人 的研发；配电开关控制设备研发； 充电桩 销售；数字视频监控系统制造等。企查查股权穿透显示，该公司由中航建设集团贵州科技发展有限公司、 千方科技 旗下浙江宇视科技有限公司等共同持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "千方科技等成立科技公司 智能机器人研发业务"
-    },
-    {
-     "title": "浙江天际IPO完成首轮问询：上半年营收增长扣非反降，实控人多名亲属与关联方存资金往来",
-     "link": "http://stock.eastmoney.com/news/11215,202611263940475991.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:37 +0800",
-     "summary": "根据北交所最新披露的信息，近日，浙江天际互感器股份有限公司（简称“浙江天际”）IPO的状态从已受理变更为已问询。第一轮问询涉及业绩增长真实合理性及持续性等12个问题。 招股书显示，浙江天际专注于 电力 互感器的研发、制造与销售，一直以技术创新、产品及工艺创新、管理创新作为企业发展的核心 驱动力 ，深耕互感器行业近40年，是中国互感器制造业主导企业之一。 问询函提及，报告期内，浙江天际营业收入分别为5.21亿元、5.79亿元和6.57亿元，扣非归母净利润分别为7882.74万元、9312.11万元和1.09亿元。公司主要产品包括配用电领域、 新能源 领域、输变电领域互感器和主营其他产品，其中配用",
-     "source": "东方财富股票",
-     "zh": "浙江天际IPO完成首轮问询：上半年营收增长扣非反降，实控人多名亲属与关联方存资金往来"
-    },
-    {
-     "title": "前三季度全国国有房产成交7688宗、挂牌44162宗",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474713.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:00 +0800",
-     "summary": "全国产权行业信息化 综合 服务平台数据显示，今年1至9月，全国产权交易市场共挂牌国有房产44162宗，挂牌金额937.7亿元；确认成交7688宗，成交金额362.9亿元。挂牌金额逐季上升、成交金额逐季回落、单宗金额分化明显，是前三季度国有房产交易的三个主要特征。 挂牌金额逐季上升，9月创年内最高 一季度挂牌金额为250.5亿元；二季度为299.0亿元，环比增长19.4%；三季度为388.3亿元，环比增长29.9%。9月挂牌7240宗、145.9亿元，宗数和金额均为年内最高，金额为1月的2.3倍。 从月度分布看，挂牌量的高点出现在三季度末。三季度末是国有企业资产处置进度的考核节点，部分未完成项目",
-     "source": "东方财富股票",
-     "zh": "前三季度全国国有房产成交7688宗、挂牌44162宗"
-    },
-    {
-     "title": "自有品牌热潮涌起，代工企业重新洗牌",
-     "link": "http://www.eeo.com.cn/2026/1126/1103493.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:41:33 +0800",
-     "summary": "山姆、盒马、胖东来自有品牌火爆背后，大批大厂与中小工厂隐身商品背标。自有品牌渗透率持续走高，代工产能迎来重新洗牌。一部分代工厂借订单实现增长，另一部分却深陷渠道依附的困境。货架话语权正在悄然重构，藏在标签背后的生产企业，该如何拿回属于自己的名字？",
-     "source": "经济观察网",
-     "zh": "自有品牌热潮涌起，代工企业重新洗牌"
-    },
-    {
      "title": "Anthropic让AI重构自家核心系统：CPU消耗骤减70%，内存占用狂降80%，响应速度飙升！",
      "link": "https://wallstreetcn.com/articles/3786734",
      "pubDate": "Thu, 26 Nov 2026 11:37:19 +0800",
      "summary": "在科技圈，对一个庞大且正在高速运转的生产系统进行“彻底重写”，往往被工程师们视为技术上的“自杀行为”。 但11月25日，顶级AI公司Anthropic宣布完成了一项堪称奇迹的工程： 他们让自家的AI大模型Claude亲自操刀，将核心的Messages API从Python全面迁移到了Rust。 结果令人震惊：在没有一分钟停机、没有冻结任何新功能开发的情况下， 新系统每请求的CPU消耗骤减约70%，内存占用狂降超过80%，中位数首token响应时间（TTFT）缩短了约20%！ Anthropic究竟是如何利用AI完成这场“给飞行中的飞机换引擎”的壮举的？这场史诗级迁移又给未来的软件工程带来了怎样",
      "source": "华尔街见闻",
      "zh": "Anthropic让AI重构自家核心系统：CPU消耗骤减70%，内存占用狂降80%，响应速度飙升！"
-    },
-    {
-     "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202611263940472147.html",
-     "pubDate": "Thu, 26 Nov 2026 11:36:44 +0800",
-     "summary": "问：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？中方在移单欧盟企业方面有何考虑？ 答：我们注意到有关情况。欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。 近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。 （文章来源：商务部网站）",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问"
     },
     {
      "title": "AI周期能持续多久？",
@@ -2370,52 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI周期能持续多久？"
     },
     {
-     "title": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股",
-     "link": "http://finance.eastmoney.com/news/11822,202611263940470997.html",
-     "pubDate": "Thu, 26 Nov 2026 11:32:43 +0800",
-     "summary": "11月26日早盘， PCB 概念震荡走高， 金百泽 20cm封板， 崇达技术 、 骏亚科技 、 快克智能 、 澳弘电子 、 普利特 等强势涨停， 金禄电子 、 满坤科技 、 华东测试 、 威尔高 、 生益科技 、 深南电路 等多股均显著走高。 消息面上，全球 电子 协会 PCB 紧缺警报持续发酵，部分 PCB 头部厂商高端产品已排产至2028年。机构认为，涨价传导链条延续，PCB产业链盈利修复有望延续。 PCB供需失衡蔓延全产业链 近日，全球 电子 协会发布名为《PCB Squeeze: A Wake-Up Call for Global Electronics》的行业预警报告，其中指出，全球",
-     "source": "东方财富资讯",
-     "zh": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股"
-    },
-    {
-     "title": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强",
-     "link": "http://finance.eastmoney.com/news/1345,202611263940470766.html",
-     "pubDate": "Thu, 26 Nov 2026 11:30:47 +0800",
-     "summary": "A股三大指数震荡，盘面上， 贵金属 、 渔业 、 元件 、 油服工程 、 煤炭 开采、 金属铅 位于涨幅榜前列， 机器人 执行器、 航空机场 、 文娱用品 、 禽 流感 、 盲盒经济 、 乘用车 表现不佳，领跌市场。 截至午间收盘，沪指下跌0.03%，报3475.46点；深成指上涨0.15%，报10101.72点；创业板指上涨0.06%，报2184.99点；科创50指数下跌0.93%，报1175.16点；北证50指数上涨0.23%，报757.60点。全市场上涨个股有2379家，下跌个股有2939家，53只股涨停。两市半日合计成交7963亿。 今日要闻 6G要来了！三部委：到2030年建成性能领",
-     "source": "东方财富资讯",
-     "zh": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强"
-    },
-    {
      "title": "Stocks advance in Asia after volatile US trading over AI risks",
      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
      "pubDate": "Thu, 26 Nov 2026 03:28:45 GMT",
      "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained",
      "source": "Financial Times",
      "zh": "Stocks advance in Asia after volatile US trading over AI risks"
-    },
-    {
-     "title": "6G要来了！三部委：到2030年建成性能领先的新一代通信网",
-     "link": "http://www.eeo.com.cn/2026/1126/1103435.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:27:16 +0800",
-     "summary": "《实施方案》要求，到2030年，建成覆盖完善、性能领先的新一代通信网。基础网络发展水平持续领先，空间网络形成全球服务能力，国际网络韧性明显提升，融合网络实现规模化发展。",
-     "source": "经济观察网",
-     "zh": "6G要来了！三部委：到2030年建成性能领先的新一代通信网"
-    },
-    {
-     "title": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611263940466326.html",
-     "pubDate": "Thu, 26 Nov 2026 11:23:01 +0800",
-     "summary": "\"双焦\"期价连续大涨，蒙煤进口降温与冬储补库预期共振， 煤炭 板块情绪转向。 机构认为，供给约束下煤价中枢具备支撑，板块有望迎来估值修复。 蒙煤通关低位叠加安监加码 煤炭 市场情绪转向 11月25日，\"双焦\"期价大涨—— 焦煤 主力合约收涨5.42%，焦炭主力合约收涨3.98% ，双双延续反弹态势。 11月26日早盘，\"双焦\"期价继续拉升。截至上午10时25分， 焦煤 主连涨3.43%，报1509元/吨；焦炭主连涨2.61%，报2066.5元/吨。 A股方面，25日 煤炭 概念股盘中普涨， *ST瑞茂 录得\"两连板\"， 赤天化 开盘直线涨停、随后\"炸板\"；26日早盘，煤炭板块高开高走，盘中一度",
-     "source": "东方财富资讯",
-     "zh": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)"
-    },
-    {
-     "title": "2026年1—10月全国电力市场交易电量同比增长18.3%",
-     "link": "http://www.eeo.com.cn/2026/1126/1103428.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:19:50 +0800",
-     "summary": "2026年1—10月，全国各电力交易机构累计完成交易电量64971亿千瓦时，同比增长18.3%。",
-     "source": "经济观察网",
-     "zh": "2026年1—10月全国电力市场交易电量同比增长18.3%"
     },
     {
      "title": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk",
@@ -2426,44 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk"
     },
     {
-     "title": "王玉雯皮草代言惹争议，赚了代言费，输了好感度？",
-     "link": "http://www.eeo.com.cn/2026/1126/1103427.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:19:12 +0800",
-     "summary": "一场明星代言引发的争议，在品牌与艺人工作室相继发布声明后，并未就此平息。",
-     "source": "经济观察网",
-     "zh": "王玉雯皮草代言惹争议，赚了代言费，输了好感度？"
-    },
-    {
-     "title": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场",
-     "link": "http://stock.eastmoney.com/news/11228,202611263940462596.html",
-     "pubDate": "Thu, 26 Nov 2026 11:19:00 +0800",
-     "summary": "美东时间周三（11月25日），美股市场上演了一场惊心动魄的盘中反转。 受AI板块抛售、关税政策忧虑以及美国通胀数据顽固等多重因素冲击，美股三大股指早盘集体重挫，道琼斯工业平均指数早盘一度暴跌超过1100点，跌幅达2.2%；以科技股为主的 纳斯达克 指数盘中跌幅一度扩大至4.6%，较历史最高收盘水平短暂回撤20%，逼近技术性熊市区间；标普500指数最大跌幅也达到3.2%。 纳斯达克 指数周三走势 然而，随着市场抛售情绪逐渐缓和，逢低买盘开始入场，美股自午盘前后逐步收复失地，三大股指尾盘均脱离日内低点，市场走势呈现出明显的V形修复特征。 从盘面来看，这场剧烈震荡并非由单一事件引发，而是AI投资回报",
-     "source": "东方财富资讯",
-     "zh": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场"
-    },
-    {
-     "title": "商务部等8部门：稳妥有序推动云计算、大模型等人工智能相关服务出海",
-     "link": "http://www.eeo.com.cn/2026/1126/1103420.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:13:42 +0800",
-     "summary": "本文来源：时代财经 11月26日，商务部等8部门印发《服务贸易发展“十五五”规划》（下称：《规划》）。 《规划》提到，稳妥有序推动云计算、大模型等人工智能相关服务出海，培育人工智能领域服务贸易新业态。鼓励人工智能企业在防范技术外流前提下整合硬件制造商、算力提供商、IT基础设施运营商等，形成“技术+产品+服务”一体化解决方案，拓展海外市场布局。支持人工智能企业实施差异化产品策略，与当地合作伙伴...",
-     "source": "经济观察网",
-     "zh": "商务部等8部门：稳妥有序推动云计算、大模型等人工智能相关服务出海"
-    },
-    {
      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
      "link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 03:11:09 GMT",
      "summary": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets",
      "source": "Financial Times",
      "zh": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash"
-    },
-    {
-     "title": "A股又出新概念？今天“金”字爆发",
-     "link": "http://finance.eastmoney.com/news/1344,202611263940460913.html",
-     "pubDate": "Thu, 26 Nov 2026 11:11:04 +0800",
-     "summary": "11月26日，A股市场高开后小幅回落，之后震荡上涨。盘面上，农业板块大爆发， 金健米业 、 宏辉果蔬 、 中水渔业 等涨停。 PCB 板块出现涨停潮， 金百泽 、 奥士康 、 骏亚科技 、 崇达技术 等多股涨停。光模块也表现不错， 中际旭创 、 东山精密 涨近5%。 值得关注的是，今日含“金”字个股大爆发，其中 金三江 、 金百泽 20%涨停，涨幅居前。 金健米业 、 金螳螂 、 金牛化工 、 金辰股份 、 金正大 等多只含有“金”字个股涨停。 除了上述含“金”字个股外，自带“金”字的 黄金 板块涨幅居前， 招金黄金 涨超8%， 赤峰黄金 、 四川黄金 等涨超5%， 中金黄金 、 山金国际 、",
-     "source": "东方财富资讯",
-     "zh": "A股又出新概念？今天“金”字爆发"
     },
     {
      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
@@ -2496,6 +2360,142 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Court blocks FCC move on ABC licenses in free speech ruling for Disney"
+    },
+    {
+     "title": "NYC rent freeze survives court challenge; REIT stocks in focus",
+     "link": "https://seekingalpha.com/news/4676730-nyc-rent-freeze-upheld-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 21:44:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NYC rent freeze survives court challenge; REIT stocks in focus"
+    },
+    {
+     "title": "Bank of Korea raises interest rates amid AI chip boom",
+     "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+     "pubDate": "Thu, 26 Nov 2026 02:27:04 GMT",
+     "summary": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+     "source": "Financial Times",
+     "zh": "Bank of Korea raises interest rates amid AI chip boom"
+    },
+    {
+     "title": "South Korea&apos;s Kospi leads gains as tech rebound lifts Asia markets",
+     "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+     "pubDate": "Thu, 26 Nov 2026 01:45:52 GMT",
+     "summary": "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S&P/ASX 200 was up 0.15%.",
+     "source": "CNBC",
+     "zh": "South Korea&apos;s Kospi leads gains as tech rebound lifts Asia markets"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 01:15:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+     "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 00:45:54 GMT",
+     "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+     "source": "Financial Times",
+     "zh": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback"
+    },
+    {
+     "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+     "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 00:33:00 GMT",
+     "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+     "source": "MarketWatch",
+     "zh": "Why this stock-market selloff is probably going to get worse before it gets better"
+    },
+    {
+     "title": "UK reappoints Starling and Lloyds execs as AI champions",
+     "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 00:01:00 GMT",
+     "summary": "The UK Government has reappointed Starling Bank's Harriet Rees and Lloyds' Rohit Dhawan as its financial services \"AI champions\".",
+     "source": "Finextra",
+     "zh": "UK reappoints Starling and Lloyds execs as AI champions"
+    },
+    {
+     "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 00:01:00 GMT",
+     "summary": "The California Department of Financial Protection and Innovation (DFPI) has hit BNPL provider Afterpay with a $2.68 million penalty for \"illegally\" failing to do ability-to-repay underwriting while making loans to new customers.",
+     "source": "Finextra",
+     "zh": "California hits BNPL lender Afterpay with $2.7m penalty"
+    },
+    {
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 23:30:00 GMT",
+     "summary": "“Retirement is a financial status, not an age.”",
+     "source": "MarketWatch",
+     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+    },
+    {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 23:30:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "Seraphim Space signals further C-share conversions as it deploys £43.6m and backs ICEYE’s €2.1b Avio bid",
+     "link": "https://seekingalpha.com/news/4676729-seraphim-space-signals-further-c-share-conversions-as-it-deploys-43_6m-and-backs-iceye-s-2_1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 18:23:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Seraphim Space signals further C-share conversions as it deploys £43.6m and backs ICEYE’s €2.1b Avio bid"
+    },
+    {
+     "title": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo",
+     "link": "https://seekingalpha.com/news/4676728-pentagon-considered-invoking-wartime-law-reinstate-nvidia-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 18:15:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 23:00:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "FirstEnergy announces up to $1B at-the-market stock offering",
+     "link": "https://seekingalpha.com/news/4676721-firstenergy-announces-up-to-1b-at-the-market-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 17:47:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FirstEnergy announces up to $1B at-the-market stock offering"
+    },
+    {
+     "title": "Northrop Grumman wins $1.13B contract modification for Navy E-130J program",
+     "link": "https://seekingalpha.com/news/4676727-northrop-grumman-wins-1_13b-contract-modification-for-navy-eminus-130j-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 17:45:28 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Northrop Grumman wins $1.13B contract modification for Navy E-130J program"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Wed, 25 Nov 2026 22:45:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+     "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
+     "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+     "source": "Federal Reserve",
+     "zh": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
     }
    ]
   },

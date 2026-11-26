@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 12:22:32",
+ "generated_at": "2026/11/26 12:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+     "link": "https://www.qbitai.com/2026/11/512897.html",
+     "pubDate": "Thu, 26 Nov 2026 03:23:35 +0000",
+     "summary": "李斌坦言：不做AI变革可能活不下去",
+     "source": "量子位",
+     "zh": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习"
+    },
+    {
+     "title": "沈向洋刚讲了好多AI非共识啊",
+     "link": "https://www.qbitai.com/2026/11/512840.html",
+     "pubDate": "Thu, 26 Nov 2026 03:13:16 +0000",
+     "summary": "“灵巧手是人类最后的尊严”",
+     "source": "量子位",
+     "zh": "沈向洋刚讲了好多AI非共识啊"
+    },
     {
      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
      "link": "https://www.qbitai.com/2026/11/512828.html",
@@ -120,22 +136,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "量子位",
      "zh": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手"
-    },
-    {
-     "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-     "link": "https://www.qbitai.com/2026/11/512715.html",
-     "pubDate": "Wed, 25 Nov 2026 14:32:57 +0000",
-     "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
-     "source": "量子位",
-     "zh": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体"
-    },
-    {
-     "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-     "link": "https://www.qbitai.com/2026/11/512582.html",
-     "pubDate": "Wed, 25 Nov 2026 14:21:20 +0000",
-     "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
-     "source": "量子位",
-     "zh": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划"
     },
     {
      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
@@ -306,22 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia leadership turmoil puts customer due diligence in spotlight across AI supply chain"
     },
     {
-     "title": "Social Media Increasingly Supplying News",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 01:01:21 +0000",
-     "summary": "An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the […] The post Social Media Increasingly Supplying News appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Social Media Increasingly Supplying News"
-    },
-    {
-     "title": "Let the Electronics Weekly newsletter content come straight to you!",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/let-newsletter-content-come-straight-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 00:01:14 +0000",
-     "summary": "Sign up for the Mannerisms, Gadget Master, the Daily and the main Weekly newsletter. The post Let the Electronics Weekly newsletter content come straight to you! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Let the Electronics Weekly newsletter content come straight to you!"
-    },
-    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -378,14 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Keysight Unites RF and Photonic Design for Tower Semiconductor"
     },
     {
-     "title": "Who Prioritises Fuel Efficiency?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/who-prioritises-fuel-efficiency-2026-11/",
-     "pubDate": "Wed, 25 Nov 2026 14:23:41 +0000",
-     "summary": "Fuel efficiency is important to some car buyers, but not to others. According to data by Statista Consumer Insights, only 20% among French respondents and 28% among Chinese respondents say […] The post Who Prioritises Fuel Efficiency? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Who Prioritises Fuel Efficiency?"
-    },
-    {
      "title": "PDF Solutions: What Happens Now That the Puck Has Arrived?",
      "link": "https://semiwiki.com/eda/pdf-solutions/376678-pdf-solutions-what-happens-now-that-the-puck-has-arrived/",
      "pubDate": "Wed, 25 Nov 2026 14:00:07 +0000",
@@ -410,36 +386,12 @@ window.INDUSTRY_DATA = {
      "zh": "AMD Tackles DRAM Shortages with AI and Flash Storage"
     },
     {
-     "title": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-video-interview-accuris-on-why-component-risk-still-catches-manufacturers-off-guard-2026-11/",
-     "pubDate": "Wed, 25 Nov 2026 13:57:53 +0000",
-     "summary": "At Electronica 2026 we caught up with Sarita Benjamin – General Manager, Supply Chain Intelligence at Accuris – as part of our promotional coverage for the event. She discusses how […] The post Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard appeare",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
      "summary": "Avicena Tech Corp of Sunnyvale, CA, USA, which is developing micro-LED-based optical interconnects, has raised over $100m in Series C funding to accelerate commercialization of its LightBundle platform for AI infrastructure. The round included new and existing investors InterVest, Tiger Global, Cerb",
      "source": "Semiconductor Today",
      "zh": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects"
-    },
-    {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
-     "pubDate": "Wed, 25 Nov 2026 11:48:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
-    },
-    {
-     "title": "Get the Gadget Master newsletter!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
-     "pubDate": "Wed, 25 Nov 2026 10:57:29 +0000",
-     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "Blog Review: Nov. 25",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
      "source": "Semiconductor Today",
      "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Cornell develops semiconductor material with record bandgap of more than 7eV",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/cornell-231126.shtml",
+     "pubDate": "Mon, 23 Nov 2026 16:48:13 GMT",
+     "summary": "Cornell University has developed a semiconductor material – silicon-doped aluminium gallium oxide – with a record bandgap of more than 7eV, exceeding the previous record of about 6eV – a threshold that has proved difficult to surpass because materials with wider bandgaps tend to behave more like ins",
+     "source": "Semiconductor Today",
+     "zh": "Cornell develops semiconductor material with record bandgap of more than 7eV"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
     },
     {
-     "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
-     "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
-     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
-     "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
-     "source": "Space.com",
-     "zh": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)"
-    },
-    {
      "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
      "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
      "source": "Space.com",
      "zh": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off"
+    },
+    {
+     "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
+     "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
+     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+     "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
+     "source": "Space.com",
+     "zh": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)"
     },
     {
      "title": "NASA Eyes Crop Candidates for Future Menus",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "美国买量素材迭代快，支付回款周期拖到45天该怎么排预算？",
+     "link": "https://www.baijing.cn/question/638977",
+     "pubDate": "Thu, 26 Nov 2026 04:24:18 +0000",
+     "summary": "我们做北美休闲手游，iOS和Android双端，现在月买量预算大概40万美元，主要跑Meta和Google UAC。最近素材衰减特别快，一条视频素材生命周期从原来的两周缩到五六天，CPI从1.8美元涨到2.6美元左右。问题是回款这边，App Store和Google Play的结算加银行到账差不多要45天，广告费却是周结甚至日结，现金流缺口越来越大。已经试过压缩测试素材的预算、把迭代周期从周改成三天一换，但效果有限，卡在不知道是该优先保素材更新频率还是先控回款节奏。这种情况下预算该怎么排？",
+     "source": "白鲸出海",
+     "zh": "美国买量素材迭代快，支付回款周期拖到45天该怎么排预算？"
+    },
+    {
+     "title": "Agent进入企业核心系统，组织如何重建控制权？",
+     "link": "https://www.huxiu.com/article/4908618.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:21:14 +0800",
+     "summary": "本文来自微信公众号： ANO Lab ，作者：小艾，原文标题：《AI组织进化周报003丨Agent进入企业核心系统，组织如何重建控制权？》 ANO Lab Intelligence AI组织进化周报·第003期 创刊号之后的第三期2026年11月18日·全球产业观察 本期主题：Agent进入企业核心系统，组织如何重建控制权？ 监测周期：2026年11月12日-11月18日。重点追踪全全球AI企业、企业级Agent、组织工作方式变化、企业内部AI应用、数据与知识基础设施，以及传统行业的AI转型实践。 一、本期核心判断 本周最值得关注的，不是哪家企业又推出了一个更强的模型，而是企业开始认真解决Ag",
+     "source": "虎嗅",
+     "zh": "Agent进入企业核心系统，组织如何重建控制权？"
+    },
+    {
      "title": "航司说不赔就可以不赔吗",
      "link": "https://www.huxiu.com/article/4908616.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 12:12:26 +0800",
@@ -1850,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "欧舒丹的中国对手，一年卖了近150万瓶"
     },
     {
-     "title": "新一轮地铁涨价潮，来了",
-     "link": "https://www.huxiu.com/article/4908604.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:50:52 +0800",
-     "summary": "本文来自微信公众号： 国民经略 ，作者：凯风 公共产品涨价，不再是传说。 01 为何连上海地铁都要涨价？ 日前，上海地铁调价尘埃落定，考虑配套优惠措施后，平均每人次票价提高0.9元，涨幅21.3%。 这是时隔21年上海地铁首次调价，也是继昆明、重庆之后第三座调价城市。 与票价调整相比，更具深远影响的是，上海同步建立动态调整机制。 与油价调整类似，地铁票价将与人工费用、电价、物价水平、线网负荷强度等挂钩。 这意味着，未来地铁票价，或将面临常态化调整，动辄20年票价一成不变，将彻底沦为过去式。 昆明、重庆不令人意外，为何连上海也加入其中？ 要知道，上海是地铁客流第一城，日均客流超千万，而且财政充盈",
-     "source": "虎嗅",
-     "zh": "新一轮地铁涨价潮，来了"
-    },
-    {
      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
      "link": "https://www.ithome.com/1/032/716.htm",
      "pubDate": "Thu, 26 Nov 2026 03:50:30 GMT",
@@ -1880,6 +1888,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人工智能训练数据采集、标注、质量判断等环节。 我国在人工智能国际规则制定中持续发挥重要作用。 据了解，在国家数据局指导下，全国数据标准化技术委员会制定的该国际标准，明确了人工智能训练数据全生命周期的质量管理流程与技术要求，为规范人工智能训练数据治理提供了统一依据。 据IT之家此前报道， 我国正深度参与人工智能国际标准体系建设 ，目前已牵头研制 29 项基础共性",
      "source": "IT之家",
      "zh": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考"
+    },
+    {
+     "title": "Qualcomm's Oryon 3 Reaches the Top",
+     "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+     "pubDate": "Thu, 26 Nov 2026 03:43:24 +0000",
+     "summary": "Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top Comments URL: https://news.ycombinator.com/item?id=50651158 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Qualcomm's Oryon 3 Reaches the Top"
     },
     {
      "title": "沙特站阿拉伯语客服响应慢，COD回款周期拉长到多久算正常？",
@@ -1906,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 日本站直播选品，哪些品类退货率和备货节奏能扛住？"
     },
     {
-     "title": "巧克力、烟草与虫害防治：这些非AI标的逆势避开科技股回调",
-     "link": "https://www.tmtpost.com/8218516.html",
-     "pubDate": "Thu, 26 Nov 2026 11:07:48 +0800",
-     "summary": "随着科技股抛售进一步加剧，周三好时、奥驰亚和罗林斯股价上涨。自10月以来，必需消费品板块的表现已领先科技板块。",
-     "source": "钛媒体",
-     "zh": "巧克力、烟草与虫害防治：这些非AI标的逆势避开科技股回调"
-    },
-    {
      "title": "小米三季报：手机开始高端化，汽车还没走出亏损",
      "link": "https://www.tmtpost.com/8217508.html",
      "pubDate": "Thu, 26 Nov 2026 11:02:00 +0800",
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Minipg: PostgreSQL as a Single Executable",
      "link": "https://progrium.github.io/minipg/",
      "pubDate": "Thu, 26 Nov 2026 03:00:48 +0000",
-     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 8 # Comments: 1",
      "source": "Hacker News",
      "zh": "Minipg: PostgreSQL as a Single Executable"
     },
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们是一支 8 人小团队，做一款 SLG 手游，刚在中东（沙特 / 阿联酋）起量，月买量预算大概 8 万美元，主要跑 Meta 和 TikTok。上个月把素材从纯英文换成阿拉伯语配音加本地服饰角色，结果沙特市场 CPI 从 0.9 美元涨到 1.26 美元，涨了约 40%，阿联酋反而没太大变化。素材是找本地 freelancer 做的，画面里加了沙漠场景和头巾元素，但留存和付费率没明显提升。已经试过 A/B 测试三版素材、调整过受众年龄和兴趣标签，卡在不知道是文化元素用得太表面导致点击率虚高但转化差，还是沙特用户对这类本地化内容本身就有抵触。想直接问：在中东做素材本地化，判断内容方向对不对的标",
      "source": "白鲸出海",
      "zh": "沙特买量素材本地化后 CPI 反而涨了 40%，是内容方向错了还是投放策略问题？"
-    },
-    {
-     "title": "买入这只制药股，躲避AI风暴冲击",
-     "link": "https://www.tmtpost.com/8218492.html",
-     "pubDate": "Thu, 26 Nov 2026 10:55:50 +0800",
-     "summary": "艾伯维的股价目前接近历史最高点，但仍有理由预期其回报将持续强劲。",
-     "source": "钛媒体",
-     "zh": "买入这只制药股，躲避AI风暴冲击"
     },
     {
      "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner (Jagmeet Singh/TechCrunch)",
@@ -1962,20 +1962,28 @@ window.INDUSTRY_DATA = {
      "zh": "中产减脂流行新三件套：盒马选购、Keep训练、体脂秤验收"
     },
     {
+     "title": "从两轮到轻四轮，一家柏林公司的出行探索",
+     "link": "https://www.tmtpost.com/8217928.html",
+     "pubDate": "Thu, 26 Nov 2026 10:51:00 +0800",
+     "summary": "从电助力自行车到轻四轮车，Lemmo探索汽车之外的城市短途出行市场。",
+     "source": "钛媒体",
+     "zh": "从两轮到轻四轮，一家柏林公司的出行探索"
+    },
+    {
+     "title": "BOSS直聘Q3：营收增11.7%，利润率守住44%",
+     "link": "https://www.tmtpost.com/8217700.html",
+     "pubDate": "Thu, 26 Nov 2026 10:48:00 +0800",
+     "summary": "BOSS直聘Q3利润坚挺，但需应对招聘需求转弱挑战。",
+     "source": "钛媒体",
+     "zh": "BOSS直聘Q3：营收增11.7%，利润率守住44%"
+    },
+    {
      "title": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？",
      "link": "https://www.baijing.cn/question/638972",
      "pubDate": "Thu, 26 Nov 2026 02:34:27 +0000",
      "summary": "我们做短剧 App 出海，主攻印尼和泰国，团队 12 人，投放月预算约 8 万美元，主要跑 Meta 和 TikTok。上线三个月，印尼的 CPI 从 0.35 美元涨到 0.62 美元，泰国素材点击率只有 0.8%，完播率不到 15%。现在卡在素材生产上：国内团队按国内爆款套路剪的逆袭、复仇题材，印尼用户前 3 秒流失严重，泰国则对配音和字幕的本地感很挑。我们已经试过找本地演员补拍、把字幕改成泰语和印尼语双语，也试过把国内爆款直接换配音，效果都不稳定。想请教的是，东南亚这几个市场在短剧题材和素材节奏上差异到底有多大，备素材时该按国家分开做还是先跑一个通用版本再本地化？",
      "source": "白鲸出海",
      "zh": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？"
-    },
-    {
-     "title": "美国手游买量：ATT 后素材本地化差异大，该按州还是按人群重做？",
-     "link": "https://www.baijing.cn/question/638971",
-     "pubDate": "Thu, 26 Nov 2026 02:12:56 +0000",
-     "summary": "我们是一款三消+家装题材手游，刚在美国起量，团队 6 人，月买量预算 8 万美元，主要跑 Meta 和 Google UAC，归因用 AppsFlyer。ATT 之后 opt-in 率只有 22%，SKAdNetwork 回传的转化值又很粗，最近两周 CPT 从 3.1 美元涨到 4.6 美元，D7 ROAS 却从 38% 掉到 26%。素材上发现一个明显现象：同一套“北欧极简家装”的真人短剧素材，在加州和纽约跑得还行，但投到中西部时 CTR 直接腰斩，评论区有人说风格“太冷、不像自己家”。我们试过把家具换成美式乡村风、加本地口音的配音，也做了德州和佛州的方言版本，但成本翻了一倍，量级没起来。",
-     "source": "白鲸出海",
-     "zh": "美国手游买量：ATT 后素材本地化差异大，该按州还是按人群重做？"
     },
     {
      "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "TBIJ : Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children &nbsp; &mdash;&nbsp; Talkie's characters belittle and sexualise their young users - and its owners won't explain how it uses the data",
      "source": "Techmeme",
      "zh": "Apple removes MiniMax&apos;s chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)"
-    },
-    {
-     "title": "Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients (Craig Trudell/Bloomberg)",
-     "link": "https://www.techmeme.com/261125/p43#a261125p43",
-     "pubDate": "Wed, 25 Nov 2026 20:00:13 -0500",
-     "summary": "Craig Trudell / Bloomberg : Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients &nbsp; &mdash;&nbsp; Elon Musk's startup Neuralink received US approval to start what it's calling a pivotal trial",
-     "source": "Techmeme",
-     "zh": "Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients (Craig Trudell/Bloomberg)"
     }
    ]
   },
@@ -2258,6 +2258,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
+     "link": "http://www.eeo.com.cn/2026/1126/1103639.shtml",
+     "pubDate": "Thu, 26 Nov 2026 12:26:21 +0800",
+     "summary": "上证报中国证券网讯 据商务部11月26日消息，当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢、联合国贸发会议代理秘书长马雷诺、中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团临时代办李驰江大使出席并致辞。李成钢指出，中国持续扩大进口，与世界共享中国大市场、大机遇。2025年11月，中方启动“出口中国”系列活动。...",
+     "source": "经济观察网",
+     "zh": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办"
+    },
+    {
+     "title": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低",
+     "link": "http://www.eeo.com.cn/2026/1126/1103638.shtml",
+     "pubDate": "Thu, 26 Nov 2026 12:26:13 +0800",
+     "summary": "中新经纬11月26日电 26日，A股三大指数冲高回落，截至午间收盘，沪指跌0.03%，深证成指涨0.15%，创业板指涨0.06%。 全市半日成交额8017亿元，超2900只个股下跌。 板块方面，贵金属、煤炭、能源设备、石油天然气、通信设备等上涨；水产、电路板、煤炭开采、HBM、CPO、光通信等概念活跃。休闲用品领跌，机场、航空、酒类、保险、半导体等下跌；航空运输、疫苗、猪产业、谷子经济、具身智能、物理AI等概念走低。(中新...",
+     "source": "经济观察网",
+     "zh": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低"
+    },
+    {
+     "title": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs",
+     "link": "https://seekingalpha.com/news/4676732-finvolution-reiterates-rmb-11_5b-rmb-12_9b-revenue-guidance-expects-landing-at-lower-end-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 23:23:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs"
+    },
+    {
+     "title": "摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨",
+     "link": "https://wallstreetcn.com/articles/3786738",
+     "pubDate": "Thu, 26 Nov 2026 12:19:33 +0800",
+     "summary": "AI基础设施的最新数据呈现出一幅分化图景：用量与价格背道而驰，存储市场内部也出现明显裂痕。 追风交易台消息，11月23日摩根大通Joseph Cardoso团队发布最新《数据中心观察》月度追踪报告， 11月大模型付费Token用量环比激增79%，但价格同步大幅下滑，导致整体支出环比增速骤然放缓至仅8% 。 这一\"量升价跌\"的格局，主要由腾讯Hy4 Flash和DeepSeek V4.1 Flash 1017等低价开源模型的大规模渗透所驱动。 与此同时，英伟达GPU租赁价格全线上涨，B200涨幅最为突出； 存储市场则出现分化，DRAM现货价格连续第二个月上涨，NAND价格却加速下跌，录得连续第三",
+     "source": "华尔街见闻",
+     "zh": "摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨"
+    },
+    {
      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
      "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
      "pubDate": "Thu, 26 Nov 2026 04:12:18 GMT",
@@ -2290,12 +2322,36 @@ window.INDUSTRY_DATA = {
      "zh": "边养6个孩子边创业！Vercel创始人要做“面向Agent”的互联网"
     },
     {
+     "title": "《新一代通信网建设实施方案》印发",
+     "link": "http://www.eeo.com.cn/2026/1126/1103526.shtml",
+     "pubDate": "Thu, 26 Nov 2026 11:52:21 +0800",
+     "summary": "近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨卫星互联网系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。国际海陆缆布局持续优化，国际网络韧性明显提升。工业互联网、车联网等融合网络实现规...",
+     "source": "经济观察网",
+     "zh": "《新一代通信网建设实施方案》印发"
+    },
+    {
+     "title": "自有品牌热潮涌起，代工企业重新洗牌",
+     "link": "http://www.eeo.com.cn/2026/1126/1103493.shtml",
+     "pubDate": "Thu, 26 Nov 2026 11:41:33 +0800",
+     "summary": "山姆、盒马、胖东来自有品牌火爆背后，大批大厂与中小工厂隐身商品背标。自有品牌渗透率持续走高，代工产能迎来重新洗牌。一部分代工厂借订单实现增长，另一部分却深陷渠道依附的困境。货架话语权正在悄然重构，藏在标签背后的生产企业，该如何拿回属于自己的名字？",
+     "source": "经济观察网",
+     "zh": "自有品牌热潮涌起，代工企业重新洗牌"
+    },
+    {
      "title": "Anthropic让AI重构自家核心系统：CPU消耗骤减70%，内存占用狂降80%，响应速度飙升！",
      "link": "https://wallstreetcn.com/articles/3786734",
      "pubDate": "Thu, 26 Nov 2026 11:37:19 +0800",
      "summary": "在科技圈，对一个庞大且正在高速运转的生产系统进行“彻底重写”，往往被工程师们视为技术上的“自杀行为”。 但11月25日，顶级AI公司Anthropic宣布完成了一项堪称奇迹的工程： 他们让自家的AI大模型Claude亲自操刀，将核心的Messages API从Python全面迁移到了Rust。 结果令人震惊：在没有一分钟停机、没有冻结任何新功能开发的情况下， 新系统每请求的CPU消耗骤减约70%，内存占用狂降超过80%，中位数首token响应时间（TTFT）缩短了约20%！ Anthropic究竟是如何利用AI完成这场“给飞行中的飞机换引擎”的壮举的？这场史诗级迁移又给未来的软件工程带来了怎样",
      "source": "华尔街见闻",
      "zh": "Anthropic让AI重构自家核心系统：CPU消耗骤减70%，内存占用狂降80%，响应速度飙升！"
+    },
+    {
+     "title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+     "link": "http://finance.eastmoney.com/news/1345,202611263940472147.html",
+     "pubDate": "Thu, 26 Nov 2026 11:36:44 +0800",
+     "summary": "问：2026年11月26日，欧方发布公告，将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单，请问商务部对此有何评论？中方在移单欧盟企业方面有何考虑？ 答：我们注意到有关情况。欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。 近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。 （文章来源：商务部网站）",
+     "source": "东方财富资讯",
+     "zh": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问"
     },
     {
      "title": "AI周期能持续多久？",
@@ -2306,12 +2362,52 @@ window.INDUSTRY_DATA = {
      "zh": "AI周期能持续多久？"
     },
     {
+     "title": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股",
+     "link": "http://finance.eastmoney.com/news/11822,202611263940470997.html",
+     "pubDate": "Thu, 26 Nov 2026 11:32:43 +0800",
+     "summary": "11月26日早盘， PCB 概念震荡走高， 金百泽 20cm封板， 崇达技术 、 骏亚科技 、 快克智能 、 澳弘电子 、 普利特 等强势涨停， 金禄电子 、 满坤科技 、 华东测试 、 威尔高 、 生益科技 、 深南电路 等多股均显著走高。 消息面上，全球 电子 协会 PCB 紧缺警报持续发酵，部分 PCB 头部厂商高端产品已排产至2028年。机构认为，涨价传导链条延续，PCB产业链盈利修复有望延续。 PCB供需失衡蔓延全产业链 近日，全球 电子 协会发布名为《PCB Squeeze: A Wake-Up Call for Global Electronics》的行业预警报告，其中指出，全球",
+     "source": "东方财富资讯",
+     "zh": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股"
+    },
+    {
+     "title": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强",
+     "link": "http://finance.eastmoney.com/news/1345,202611263940470766.html",
+     "pubDate": "Thu, 26 Nov 2026 11:30:47 +0800",
+     "summary": "A股三大指数震荡，盘面上， 贵金属 、 渔业 、 元件 、 油服工程 、 煤炭 开采、 金属铅 位于涨幅榜前列， 机器人 执行器、 航空机场 、 文娱用品 、 禽 流感 、 盲盒经济 、 乘用车 表现不佳，领跌市场。 截至午间收盘，沪指下跌0.03%，报3475.46点；深成指上涨0.15%，报10101.72点；创业板指上涨0.06%，报2184.99点；科创50指数下跌0.93%，报1175.16点；北证50指数上涨0.23%，报757.60点。全市场上涨个股有2379家，下跌个股有2939家，53只股涨停。两市半日合计成交7963亿。 今日要闻 6G要来了！三部委：到2030年建成性能领",
+     "source": "东方财富资讯",
+     "zh": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强"
+    },
+    {
      "title": "Stocks advance in Asia after volatile US trading over AI risks",
      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
      "pubDate": "Thu, 26 Nov 2026 03:28:45 GMT",
      "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained",
      "source": "Financial Times",
      "zh": "Stocks advance in Asia after volatile US trading over AI risks"
+    },
+    {
+     "title": "6G要来了！三部委：到2030年建成性能领先的新一代通信网",
+     "link": "http://www.eeo.com.cn/2026/1126/1103435.shtml",
+     "pubDate": "Thu, 26 Nov 2026 11:27:16 +0800",
+     "summary": "《实施方案》要求，到2030年，建成覆盖完善、性能领先的新一代通信网。基础网络发展水平持续领先，空间网络形成全球服务能力，国际网络韧性明显提升，融合网络实现规模化发展。",
+     "source": "经济观察网",
+     "zh": "6G要来了！三部委：到2030年建成性能领先的新一代通信网"
+    },
+    {
+     "title": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611263940466326.html",
+     "pubDate": "Thu, 26 Nov 2026 11:23:01 +0800",
+     "summary": "\"双焦\"期价连续大涨，蒙煤进口降温与冬储补库预期共振， 煤炭 板块情绪转向。 机构认为，供给约束下煤价中枢具备支撑，板块有望迎来估值修复。 蒙煤通关低位叠加安监加码 煤炭 市场情绪转向 11月25日，\"双焦\"期价大涨—— 焦煤 主力合约收涨5.42%，焦炭主力合约收涨3.98% ，双双延续反弹态势。 11月26日早盘，\"双焦\"期价继续拉升。截至上午10时25分， 焦煤 主连涨3.43%，报1509元/吨；焦炭主连涨2.61%，报2066.5元/吨。 A股方面，25日 煤炭 概念股盘中普涨， *ST瑞茂 录得\"两连板\"， 赤天化 开盘直线涨停、随后\"炸板\"；26日早盘，煤炭板块高开高走，盘中一度",
+     "source": "东方财富资讯",
+     "zh": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)"
+    },
+    {
+     "title": "2026年1—10月全国电力市场交易电量同比增长18.3%",
+     "link": "http://www.eeo.com.cn/2026/1126/1103428.shtml",
+     "pubDate": "Thu, 26 Nov 2026 11:19:50 +0800",
+     "summary": "2026年1—10月，全国各电力交易机构累计完成交易电量64971亿千瓦时，同比增长18.3%。",
+     "source": "经济观察网",
+     "zh": "2026年1—10月全国电力市场交易电量同比增长18.3%"
     },
     {
      "title": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk",
@@ -2322,12 +2418,28 @@ window.INDUSTRY_DATA = {
      "zh": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk"
     },
     {
+     "title": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场",
+     "link": "http://stock.eastmoney.com/news/11228,202611263940462596.html",
+     "pubDate": "Thu, 26 Nov 2026 11:19:00 +0800",
+     "summary": "美东时间周三（11月25日），美股市场上演了一场惊心动魄的盘中反转。 受AI板块抛售、关税政策忧虑以及美国通胀数据顽固等多重因素冲击，美股三大股指早盘集体重挫，道琼斯工业平均指数早盘一度暴跌超过1100点，跌幅达2.2%；以科技股为主的 纳斯达克 指数盘中跌幅一度扩大至4.6%，较历史最高收盘水平短暂回撤20%，逼近技术性熊市区间；标普500指数最大跌幅也达到3.2%。 纳斯达克 指数周三走势 然而，随着市场抛售情绪逐渐缓和，逢低买盘开始入场，美股自午盘前后逐步收复失地，三大股指尾盘均脱离日内低点，市场走势呈现出明显的V形修复特征。 从盘面来看，这场剧烈震荡并非由单一事件引发，而是AI投资回报",
+     "source": "东方财富资讯",
+     "zh": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场"
+    },
+    {
      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
      "link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 03:11:09 GMT",
      "summary": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets",
      "source": "Financial Times",
      "zh": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash"
+    },
+    {
+     "title": "A股又出新概念？今天“金”字爆发",
+     "link": "http://finance.eastmoney.com/news/1344,202611263940460913.html",
+     "pubDate": "Thu, 26 Nov 2026 11:11:04 +0800",
+     "summary": "11月26日，A股市场高开后小幅回落，之后震荡上涨。盘面上，农业板块大爆发， 金健米业 、 宏辉果蔬 、 中水渔业 等涨停。 PCB 板块出现涨停潮， 金百泽 、 奥士康 、 骏亚科技 、 崇达技术 等多股涨停。光模块也表现不错， 中际旭创 、 东山精密 涨近5%。 值得关注的是，今日含“金”字个股大爆发，其中 金三江 、 金百泽 20%涨停，涨幅居前。 金健米业 、 金螳螂 、 金牛化工 、 金辰股份 、 金正大 等多只含有“金”字个股涨停。 除了上述含“金”字个股外，自带“金”字的 黄金 板块涨幅居前， 招金黄金 涨超8%， 赤峰黄金 、 四川黄金 等涨超5%， 中金黄金 、 山金国际 、",
+     "source": "东方财富资讯",
+     "zh": "A股又出新概念？今天“金”字爆发"
     },
     {
      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
@@ -2344,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月26日，A股早盘震荡走高，三大股指盘初大幅上涨，盘中震荡回落，AI硬件侧局部活跃，电路板、覆铜板拉升，工业金属、盐湖提锂、铜产业等概念股上涨。油气、煤炭等板块上涨。疫苗、物理AI、机器人等概念股陷入调整。 港股高开高走，恒指、恒科指双双大涨，恒科指涨超3%，权重科网股爆发，芯片、光模块、光纤等科技股拉升。AI大模型股强势爆发，智谱、MINIMAX涨超10%。债市方面，国债期货集体下跌。商品方面，国内商品期货普遍上涨。核心市场走势： A股 ：截至发稿，沪指涨0.20%，深成指涨0.42%，创业板指涨0.28%。 港股 ：截至发稿，恒指涨2.13%，恒科指涨3.16%。 债市 ：国债期货全线",
      "source": "华尔街见闻",
      "zh": "A股三大股指早盘震荡反弹，有色金属爆发，AI硬件侧反弹，恒指、恒科指集体大涨，AI大模型双雄均飙涨超10%"
-    },
-    {
-     "title": "SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏",
-     "link": "https://wallstreetcn.com/articles/3786735",
-     "pubDate": "Thu, 26 Nov 2026 10:51:05 +0800",
-     "summary": "全球贸易政策的变化，正在推动SHEIN（希音）重新调整区域经营策略。 11月25日，SHEIN公布2026年第三季度业绩，实现净收入102.71亿美元，同比下降5.9%；经营利润7.43亿美元，同比增长17.4%。 期内净利润同比增长 654.5% 至 46.48 亿美元，其中 40.75 亿美元来自上市相关的优先股公允价值变动等非现金一次性收益；经调整净利润为7.9亿美元，同比增长26.8%、环比增长246.5%，高于高盛此前预测的6.74亿美元。 三季度是欧盟取消低价值商品关税豁免后的首个完整季度。SHEIN欧洲市场收入降幅进一步扩大，但美国市场需求已出现企稳迹象，拉美等新兴市场则继续贡献",
-     "source": "华尔街见闻",
-     "zh": "SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏"
     },
     {
      "title": "Court blocks FCC move on ABC licenses in free speech ruling for Disney",
@@ -2392,110 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
      "source": "MarketWatch",
      "zh": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance"
-    },
-    {
-     "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
-     "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 00:45:54 GMT",
-     "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
-     "source": "Financial Times",
-     "zh": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback"
-    },
-    {
-     "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-     "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 00:33:00 GMT",
-     "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
-     "source": "MarketWatch",
-     "zh": "Why this stock-market selloff is probably going to get worse before it gets better"
-    },
-    {
-     "title": "UK reappoints Starling and Lloyds execs as AI champions",
-     "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 26 Nov 2026 00:01:00 GMT",
-     "summary": "The UK Government has reappointed Starling Bank's Harriet Rees and Lloyds' Rohit Dhawan as its financial services \"AI champions\".",
-     "source": "Finextra",
-     "zh": "UK reappoints Starling and Lloyds execs as AI champions"
-    },
-    {
-     "title": "California hits BNPL lender Afterpay with $2.7m penalty",
-     "link": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 26 Nov 2026 00:01:00 GMT",
-     "summary": "The California Department of Financial Protection and Innovation (DFPI) has hit BNPL provider Afterpay with a $2.68 million penalty for \"illegally\" failing to do ability-to-repay underwriting while making loans to new customers.",
-     "source": "Finextra",
-     "zh": "California hits BNPL lender Afterpay with $2.7m penalty"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 23:30:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 23:30:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "Seraphim Space signals further C-share conversions as it deploys £43.6m and backs ICEYE’s €2.1b Avio bid",
-     "link": "https://seekingalpha.com/news/4676729-seraphim-space-signals-further-c-share-conversions-as-it-deploys-43_6m-and-backs-iceye-s-2_1b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 18:23:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Seraphim Space signals further C-share conversions as it deploys £43.6m and backs ICEYE’s €2.1b Avio bid"
-    },
-    {
-     "title": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo",
-     "link": "https://seekingalpha.com/news/4676728-pentagon-considered-invoking-wartime-law-reinstate-nvidia-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 18:15:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 23:00:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "FirstEnergy announces up to $1B at-the-market stock offering",
-     "link": "https://seekingalpha.com/news/4676721-firstenergy-announces-up-to-1b-at-the-market-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 17:47:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FirstEnergy announces up to $1B at-the-market stock offering"
-    },
-    {
-     "title": "Northrop Grumman wins $1.13B contract modification for Navy E-130J program",
-     "link": "https://seekingalpha.com/news/4676727-northrop-grumman-wins-1_13b-contract-modification-for-navy-eminus-130j-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 17:45:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northrop Grumman wins $1.13B contract modification for Navy E-130J program"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Wed, 25 Nov 2026 22:45:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-     "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
-     "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-     "source": "Federal Reserve",
-     "zh": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 07:17:45",
+ "generated_at": "2026/11/27 07:24:32",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+     "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+     "pubDate": "Thu, 26 Nov 2026 22:06:40 +0000",
+     "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano"
+    },
     {
      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Generative AI",
      "source": "Google Research",
      "zh": "Verifiable Social Reasoning for LLM Assistants"
-    },
-    {
-     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
-     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
-     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
-     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
-     "source": "KDnuggets",
-     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "长城跟格力做的都是同质化生意",
+     "link": "https://www.huxiu.com/article/4908811.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 07:09:36 +0800",
+     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “如果你做的是标准化商品生意，你不可能比行业里最蠢的竞争对手聪明多少——价格由他决定。” ——沃伦·巴菲特（1990，全美航空投资复盘） 长城汽车的SUV保持了多年的第一，现在已经跌到了第九，魏建军同学压力山大，正因如此，上周拜访胖东来，这周又找上了格力董明珠。 这种情况只能说明一件事，企业创始人自己都找不到解决问题的办法，只能东看看，西看看，看看有没有什么新思路，向大家交流学习一下。 大概率也不会有什么新思路。 零售、空调、汽车，其实都是典型的标准化商品生意，汽车还好一点，至少还有情感属性，外型、配置、智驾方面还能创造一点点差异化，零售跟空",
+     "source": "虎嗅",
+     "zh": "长城跟格力做的都是同质化生意"
+    },
+    {
      "title": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计",
      "link": "https://www.ithome.com/1/033/136.htm",
      "pubDate": "Thu, 26 Nov 2026 22:43:02 GMT",
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 88 # Comments: 55",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 116 # Comments: 68",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 154 # Comments: 23",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 171 # Comments: 28",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1792,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 发宏商业 先看一组让人不舒服的数据。 2026年一季度，化妆品类零售额1220亿元，同比增长5.9%，3月单月增速8.3%，跑赢了社零大盘的1.7%。行业大盘还在涨，国货市场份额接近六成，中国连续三年化妆品市场规模超万亿。 但另一组数字是：2024年至今，仅广州一地注销《化妆品生产许可证》的企业就有126家，2024年被业内称为“最难一年”，广州注销105家。2021年到2026年6月，国内美妆市场约187个品牌倒闭或停运，国货品牌102个，占比过半，倒闭潮逐年加剧。进入抖音美妆销售额TOP20的白牌，平均生命周期不足8个月。 大盘在涨，微观在死。这两组数据放在一起，说明",
      "source": "虎嗅",
      "zh": "美妆大逃杀：2026年之后，一半企业会消失，但“出海”和“小众”都不是逃生门"
+    },
+    {
+     "title": "Company Culture = Slack Emoji ÷ √Headcount",
+     "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 56 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Company Culture = Slack Emoji ÷ √Headcount"
     },
     {
      "title": "Is Alice Huang a spy or not?",
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 15 # Comments: 10",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 16 # Comments: 11",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -1829,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "link": "https://github.com/eisenzopf/rvoip",
      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 52 # Comments: 13",
+     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 58 # Comments: 13",
      "source": "Hacker News",
      "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
     },
@@ -1845,17 +1861,9 @@ window.INDUSTRY_DATA = {
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "link": "https://bui.preetham.top/charts/",
      "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
-     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 32 # Comments: 2",
+     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 33 # Comments: 2",
      "source": "Hacker News",
      "zh": "Largest 2D Chart library in the world using BUI: BlenderUI"
-    },
-    {
-     "title": "Show HN: Fuck_data_brokers.py",
-     "link": "https://github.com/gary23w/f-ck_data_brokers",
-     "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
-     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 196 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "Show HN: Fuck_data_brokers.py"
     },
     {
      "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
@@ -1938,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Epic 喜加一：《Bread and Fred》游戏免费领取"
     },
     {
-     "title": "联邦快递为什么要拿下欧洲7万个快递柜？",
-     "link": "https://www.huxiu.com/article/4908803.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 00:04:54 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月20日，联邦快递联手私募基金Advent、A&R和PPF，买下了波兰物流公司InPost。整笔交易估值约78亿欧元。 按联邦快递向美国证监会提交的文件，它自己掏了22亿欧元，拿走37%的股权。 InPost是欧洲最大的快递柜运营商，在9个国家铺了约7万个柜子。2025年，它处理了13.65亿件包裹，营收147.11亿兹罗提。 一家靠货机、枢纽和洲际航线起家的物流巨头，花22亿欧元去买欧洲超市门口、加油站和居民区里的铁柜子，乍看有些反常。 但翻看联邦快递今年的投资者日材料，以及最近几个季度的业绩电话会，管理层谈起这笔交易时，反",
-     "source": "虎嗅",
-     "zh": "联邦快递为什么要拿下欧洲7万个快递柜？"
-    },
-    {
      "title": "今天的老年人相比上一代人记忆力衰退放缓",
      "link": "https://www.solidot.org/story?sid=86006",
      "pubDate": "Thu, 26 Nov 2026 23:58:59 +0800",
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple",
+     "link": "https://www.gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php",
+     "pubDate": "Fri, 27 Nov 2026 00:15:02 +0100",
+     "summary": "The Trump administration has proposed new tariffs on imports from 14 US trading partners, including China, India, South Korea, Japan, and the European Union. The planned tariffs are under Section 301 of the Trade Act of 1974, which is a different legal mechanism from the one Trump previously used, a",
+     "source": "GSMArena",
+     "zh": "The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple"
+    },
     {
      "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
      "link": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
@@ -2210,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more"
     },
     {
-     "title": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery",
-     "link": "https://www.gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php",
-     "pubDate": "Thu, 26 Nov 2026 17:07:02 +0100",
-     "summary": "Barely a day after its full specifications leaked online, the HMD Rise has officially launched in India. The phone comes with features including a 5,000mAh battery and a single 13MP rear camera. The affordable 4G handset is powered by a Unisoc 9863A octa-core chipset, which is paired with 4GB of RAM",
-     "source": "GSMArena",
-     "zh": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery"
-    },
-    {
      "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
      "link": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
      "pubDate": "Thu, 26 Nov 2026 15:50:37 +0000",
@@ -2250,12 +2250,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "贝斯特材：拟全球发售3999.9万股H股，最高发售价7港元",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941042975.html",
-     "pubDate": "Fri, 27 Nov 2026 07:05:11 +0800",
-     "summary": "11月27日早间， 贝斯特 材在港交所公告，公司拟全球发售39,999,000股H股，香港发售股份4,000,000股H股，国际发售股份35,999,000股H股；最高发售价为每股7.00港元；预期股份将于2026年12月7日开始在香港联交所买卖。 （文章来源：界面新闻）",
+     "title": "高新科控：坚持科技战略投资 助力打造大湾区千亿产业集群",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941045364.html",
+     "pubDate": "Fri, 27 Nov 2026 07:15:46 +0800",
+     "summary": "● 本报记者武卫红 LG Display、 百济神州 、 诺诚健华 、 利德曼 ……在广州开发区控股集团有限公司（简称“广开控股集团”）旗下广州高新区科技控股集团有限公司（简称“高新科控”）的投资版图上，以生命科学和光电显示为两大主线，串起了一个涵盖众多知名头部企业的名单。 28年来，从无到有，从小到大，如今发展为超200亿元总资产规模的专业化产业投资平台，高新科控始终坚持以科技战略投资为主业，走出了一条独具特色的差异化投资道路。 作为一家广州市区级国资科技战略投资平台，高新科控是如何独具慧眼并连续投中诸多明星项目的？在这背后又有哪些独特的投资逻辑？日前，中国证券报记者专访高新科控总经理兼 利",
      "source": "东方财富股票",
-     "zh": "贝斯特材：拟全球发售3999.9万股H股，最高发售价7港元"
+     "zh": "高新科控：坚持科技战略投资 助力打造大湾区千亿产业集群"
+    },
+    {
+     "title": "服务贸易发展“十五五”规划出台",
+     "link": "http://finance.eastmoney.com/news/1352,202611273941046233.html",
+     "pubDate": "Fri, 27 Nov 2026 07:15:40 +0800",
+     "summary": "商务部11月26日消息，商务部等8部门日前印发《服务贸易发展“十五五”规划》（下称《规划》）。《规划》提出，做好金融服务产业链供应链合理有序跨境布局，提升人民币金融服务全球竞争力。稳妥有序推动 云计算 、大模型等 人工智能 相关服务出海，培育 人工智能 领域服务贸易新业态。发挥服务贸易创新发展引导基金撬动作用，带动更多社会资本投资服务贸易和数字贸易。 《规划》围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络部署了7个方面25项重点任务。同时，《规划》设置5个专栏，提出1",
+     "source": "东方财富股票",
+     "zh": "服务贸易发展“十五五”规划出台"
+    },
+    {
+     "title": "未来五年，我国服务贸易将迎来哪些新机遇？",
+     "link": "http://finance.eastmoney.com/news/1346,202611273941044771.html",
+     "pubDate": "Fri, 27 Nov 2026 07:14:10 +0800",
+     "summary": "新闻1+1丨未来五年，我国服务贸易将迎来哪些新机遇？ 26日，商务部等8部门联合印发《服务贸易发展“十五五”规划》，首次将生产性服务出口和生活性服务出口分开部署，首次专节提出发展 人工智能 服务贸易新业态，首次系统部署构建要素跨境流动管理体系。 这些“首次”意味着什么？未来五年，我国服务贸易将迎来哪些新机遇？从服务贸易大国迈向服务贸易强国，我们还要打通哪些卡点堵点？《新闻1+1》连线中国国际贸易学会副会长赵忠秀，带来分析解读。 从《规划》方向来看 未来五年服务贸易发展会有什么实质性变化？ 中国国际贸易学会副会长赵忠秀：未来五年是中国服务贸易发展的关键时期，面临着规模再上台阶、结构进一步优化，并",
+     "source": "东方财富股票",
+     "zh": "未来五年，我国服务贸易将迎来哪些新机遇？"
+    },
+    {
+     "title": "SAP考虑在重组中裁减至少1万个岗位",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941044529.html",
+     "pubDate": "Fri, 27 Nov 2026 07:13:11 +0800",
+     "summary": "据报道，SAP正制定一项裁减至少1万个岗位的计划，以推动其软件业务向 人工智能 时代转型。知情人士表示，此次重组将影响至少9%的全球员工。 SAP在一份声明中表示，持续审视组织架构，以确保与公司战略和客户需求保持一致。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "SAP考虑在重组中裁减至少1万个岗位"
+    },
+    {
+     "title": "澳大利亚S&P/ASX200指数11月27日（周五）开盘上涨10.70点",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941045689.html",
+     "pubDate": "Fri, 27 Nov 2026 07:12:01 +0800",
+     "summary": "澳大利亚S&P/ASX200指数11月27日（周五）开盘上涨10.70点，涨幅0.12%，报8774.50点。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "澳大利亚S&P/ASX200指数11月27日（周五）开盘上涨10.70点"
+    },
+    {
+     "title": "中国神华：拟配售新H股净筹约67.26亿港元",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941044247.html",
+     "pubDate": "Fri, 27 Nov 2026 07:11:11 +0800",
+     "summary": "11月27日早间， 中国神华 在港交所公告，于2026年11月26日（香港联交所交易时段后），公司与配售代理订立配售协议，据此，配售代理已同意作为本公司的配售代理按尽力基准促使不少于六名承配人，以每股配售股份38.10港元的配售价认购最多1.77亿股配售股份。待交割后且假设所有配售股份均获成功配售，预计配售事项所得款项净额将约为67.2637亿港元，约90%（约60.5373亿港元）将用于偿还公司及附属公司的境内债务并优化资本结构，约10%（约6.7264亿港元）将用于补充一般营运资金。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "中国神华：拟配售新H股净筹约67.26亿港元"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月27日",
@@ -2264,46 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "华见早安之声 要闻精选 中国 美国 针对中国进口产品税率将提升20% ， 中国外交部 ： 中方将继续采取必要措施捍卫自身正当权益 。 中国商务部 ： 坚决反对美对中国等经济体加征301关税 ；望美中推动对等降税安排尽快落地实施。 商务部 ：中方将密切关注欧方混动汽车保障措施后续调查进展。 国内四大商业银行 已与上市公司签订 股票回购增持贷款合同超6000亿元 。 香港联交所 披露恒大资金违规路径 ， 谴责 中国恒大与恒大物业，许家印等六人被认定不适合担任董事。 腾讯 AI制药成果登上《Nature》主刊 ，双靶点多肽实现从头设计。 海外 特朗普 称 Q3美国GDP数据造假 、 被蓄意压低 ，此",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月27日"
-    },
-    {
-     "title": "2026增材制造大会在四川泸州开幕",
-     "link": "http://finance.eastmoney.com/news/1350,202611273941041449.html",
-     "pubDate": "Fri, 27 Nov 2026 07:03:22 +0800",
-     "summary": "11月26日，2026增材制造大会在四川省泸州市开幕。本届大会以“增材启新智造未来”为主题，由工业和信息化部装备工业发展中心、四川省经济和信息化厅、泸州市人民政府共同主办。大会汇聚政府部门、行业组织、高校科研院所和产业链重点企业代表，探索规模化量产路径，推动增材制造产业高质量发展。 图为2026增材制造大会开幕式现场。 “十五五”时期是增材制造产业提质跃升、抢占先机的重要机遇期。工业和信息化部将坚决贯彻落实党中央、国务院决策部署，锚定重点产业链自主可控、安全可靠、竞争力强的核心方向，纵深推进新一轮重点产业链核心技术突破和创新产品规模化应用，推动增材制造产业向更高质量迈进。四川是全国增材制造产业",
-     "source": "东方财富股票",
-     "zh": "2026增材制造大会在四川泸州开幕"
-    },
-    {
-     "title": "袁记食品：拟全球发售1631.23万股H股，最高发售价28港元",
-     "link": "http://hk.eastmoney.com/news/1556,202611273941042777.html",
-     "pubDate": "Fri, 27 Nov 2026 07:02:41 +0800",
-     "summary": "11月27日早间，袁记食品在港交所公告，公司拟全球发售16,312,300股H股，香港发售股份1,631,300股H股，国际发售股份14,681,000股H股；最高发售价为每股28.00港元；预期股份将于2026年12月7日开始在香港联交所买卖。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "袁记食品：拟全球发售1631.23万股H股，最高发售价28港元"
-    },
-    {
-     "title": "刚果（金）国有黄金贸易商计划建设两座精炼厂，年产能达68吨",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941040977.html",
-     "pubDate": "Fri, 27 Nov 2026 07:01:29 +0800",
-     "summary": "刚果民主共和国（DRC）国有 黄金 贸易商计划建设两座精炼厂，总产能达68吨，旨在遏制 黄金 走私，并从该国 贵金属 储备中获取更多利润。DRC Gold Trading SA将建设一座位于基桑加尼（Kisangani）、年产能为18吨的工厂，以及一座位于首都金沙萨（Kinshasa）、年产能达50吨的旗舰精炼厂。该公司表示，正在实施供应链溯源项目，以确保其供应链无冲突矿产；刚果（金）央行已成为DRC Gold Trading的主要买家。 注： 3月中旬，刚果民主共和国（DRC）启动其首座国有支持的 黄金 精炼厂，旨在推动该国历史上与走私及矿产丰富的东部地区冲突密切相关的黄金贸易走向正规化。该",
-     "source": "东方财富股票",
-     "zh": "刚果（金）国有黄金贸易商计划建设两座精炼厂，年产能达68吨"
-    },
-    {
-     "title": "标普500指数期货恢复交易，上涨0.6%，纳斯达克期货上涨0.6%",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941043291.html",
-     "pubDate": "Fri, 27 Nov 2026 07:00:48 +0800",
-     "summary": "标普500指数 期货 恢复交易，上涨0.6%， 纳斯达克 期货 上涨0.6%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "标普500指数期货恢复交易，上涨0.6%，纳斯达克期货上涨0.6%"
-    },
-    {
-     "title": "钯金期货日内涨3%，现报870.30美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941042670.html",
-     "pubDate": "Fri, 27 Nov 2026 07:00:27 +0800",
-     "summary": "钯金 期货 日内涨3%，现报870.30美元/盎司。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "钯金期货日内涨3%，现报870.30美元/盎司"
     },
     {
      "title": "Here are the major earnings before the open Friday",
@@ -2458,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     },
     {
-     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-     "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-     "pubDate": "Thu, 26 Nov 2026 18:27:43 GMT",
-     "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-     "source": "CNBC",
-     "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
-    },
-    {
      "title": "氢氧化锂期货首日成交53.3亿元",
      "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
      "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
@@ -2488,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
      "source": "经济观察网",
      "zh": "三部门印发《新一代通信网建设实施方案》"
+    },
+    {
+     "title": "SAP explores at least 10,000 job cuts",
+     "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
+     "summary": "European software group is latest to restructure as AI hits software sector",
+     "source": "Financial Times",
+     "zh": "SAP explores at least 10,000 job cuts"
     }
    ]
   },

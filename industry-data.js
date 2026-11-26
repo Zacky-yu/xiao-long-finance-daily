@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 03:52:26",
+ "generated_at": "2026/11/27 04:12:19",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "pubDate": "Thu, 26 Nov 2026 20:03:54 +0000",
+     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+     "source": "TechCrunch AI",
+     "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
     {
      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
@@ -218,14 +226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Where scientists draw the line on AI agents"
     },
     {
-     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-     "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000",
-     "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-     "source": "TechCrunch AI",
-     "zh": "Want to buy your kid an AI toy this Christmas? Not in New York"
-    },
-    {
      "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
      "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
      "pubDate": "Wed, 25 Nov 2026 18:00:33 +0000",
@@ -426,6 +426,14 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
+     "link": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
+     "pubDate": "Thu, 26 Nov 2026 14:00:00 -0600",
+     "summary": "Norway's transmission system operator Statnett paused new grid reservations for data centers on 9 November, the same day the government announced a licensing scheme that will keep out new crypto mining. The grid reservation halt will last until at least August 2027, when a new system is set to come ",
+     "source": "OilPrice",
+     "zh": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand"
+    },
+    {
      "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
      "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
      "pubDate": "Thu, 26 Nov 2026 19:42:22 +0000",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "IPP Zelestra and Norwegian state-owned power group Statkraft have agreed a BESS toll in Italy, a few days after the country’s second MACSE auction concluded.",
      "source": "Energy Storage News",
      "zh": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’"
-    },
-    {
-     "title": "Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade",
-     "link": "https://oilprice.com/Energy/Energy-General/Iranian-Hardliners-Call-for-Tanker-Convoy-to-Defy-US-Blockade.html",
-     "pubDate": "Thu, 26 Nov 2026 09:00:00 -0600",
-     "summary": "With Iran's revenue from crude oil and condensate exports projected to hit zero by mid-December, hardline commentators and outlets close to the Islamic Revolutionary Guards Corps (IRGC) are increasingly advocating a direct challenge to the US naval blockade of Iranian ports and waters. Their proposa",
-     "source": "OilPrice",
-     "zh": "Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade"
     },
     {
      "title": "Beyond climate forecasting: AI’s growing role in distributed energy flexibility",
@@ -1426,30 +1426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1472,14 +1448,6 @@ window.INDUSTRY_DATA = {
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1506,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1536,6 +1496,14 @@ window.INDUSTRY_DATA = {
      "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
      "source": "Payload",
      "zh": "Industry Shares Plan for Moon Base Power Tower"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1754,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Is Alice Huang a spy or not?",
+     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
+     "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+     "source": "TechCrunch",
+     "zh": "Is Alice Huang a spy or not?"
+    },
+    {
+     "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
+     "link": "https://www.techmeme.com/261126/p24#a261126p24",
+     "pubDate": "Thu, 26 Nov 2026 14:55:02 -0500",
+     "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal su",
+     "source": "Techmeme",
+     "zh": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)"
+    },
+    {
      "title": "X finally gets parental controls after 20 years",
      "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
      "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
@@ -1773,7 +1757,7 @@ window.INDUSTRY_DATA = {
      "title": "George Whitesides, 1939-2026",
      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
      "pubDate": "Thu, 26 Nov 2026 18:13:07 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "George Whitesides, 1939-2026"
     },
@@ -1797,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 72 # Comments: 27",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 81 # Comments: 38",
      "source": "Hacker News",
      "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
     },
@@ -1805,17 +1789,9 @@ window.INDUSTRY_DATA = {
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 60 # Comments: 83",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 72 # Comments: 109",
      "source": "Hacker News",
      "zh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
-    },
-    {
-     "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
-     "link": "https://github.com/deepseek-ai/deepseek-math",
-     "pubDate": "Thu, 26 Nov 2026 17:21:14 +0000",
-     "summary": "Article URL: https://github.com/deepseek-ai/deepseek-math Comments URL: https://news.ycombinator.com/item?id=50657355 Points: 30 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning"
     },
     {
      "title": "欧洲电商巨头，集体涌向二手市场",
@@ -1826,18 +1802,10 @@ window.INDUSTRY_DATA = {
      "zh": "欧洲电商巨头，集体涌向二手市场"
     },
     {
-     "title": "Tracking Diseases Cured by AI",
-     "link": "https://diseasescuredbyai.com/",
-     "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
-     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 278 # Comments: 159",
-     "source": "Hacker News",
-     "zh": "Tracking Diseases Cured by AI"
-    },
-    {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 128 # Comments: 39",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 138 # Comments: 44",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1848,6 +1816,22 @@ window.INDUSTRY_DATA = {
      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
      "source": "TechCrunch",
      "zh": "A month with the iPhone Duo has changed how I use my phone"
+    },
+    {
+     "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+     "link": "https://github.com/rxliuli/sim-drop",
+     "pubDate": "Thu, 26 Nov 2026 16:51:38 +0000",
+     "summary": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto t",
+     "source": "Hacker News",
+     "zh": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar"
+    },
+    {
+     "title": "NP_R ≠ PAR_R",
+     "link": "https://github.com/samueleverett01/bss-permanent-separations",
+     "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
+     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 112 # Comments: 121",
+     "source": "Hacker News",
+     "zh": "NP_R ≠ PAR_R"
     },
     {
      "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
@@ -1976,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 26 日消息，光荣特库摩（Koei）宣布旗下游戏《仁王 3 完全版（NIOH 3 Complete Edition）》将于 2027 年 1 月 28 日发售，该版本主要还收录了付费 DLC 第一弹“庆安地狱变”与第二弹“天草大乱”，还将登陆 XBOX 平台。 公开信息显示，《仁王 3》最早于 2026 年 2 月 6 日发售，登陆 PlayStation 5 和 PC 平台，随后在 8 月 19 日迎来 DLC 第一弹“庆安地狱变”，DLC 第二弹“天草大乱”也将于 12 月 17 日发售。 本作延续前两部作品的日本黑暗战国风格，并首次采用开放式地图设计。玩家将扮演年轻武",
      "source": "IT之家",
      "zh": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台"
-    },
-    {
-     "title": "基因编辑猪肾在人体内正常工作一年",
-     "link": "https://www.solidot.org/story?sid=86003",
-     "pubDate": "Thu, 26 Nov 2026 22:49:24 +0800",
-     "summary": "基因编辑猪肾在人体内正常工作一年。58 岁的美国新罕布什尔州居民 Molly Falco 迎来了接受猪肾移植一周年的重要时刻。去年 11 月 22 日，她在麻省总医院接受了基因编辑猪肾移植手术。过去一年里，猪肾持续承担清除体内毒素、产生尿液及调节体液平衡等功能，让长期饱受肾病困扰的她逐渐恢复正常生活。如今她重新开起了汽车，能够为家人做饭，甚至计划恢复滑雪。美国约 9 万人正在等待肾脏移植，而 2025 年实际完成的肾移植手术不足 2.6 万例。由于猪器官在大小和部分生理功能上与人体器官相近，猪成为异种器官移植的重要供体来源。 人体免疫系统会识别猪细胞表面的特定分子，并攻击移植器官。研究人员通过",
-     "source": "Solidot",
-     "zh": "基因编辑猪肾在人体内正常工作一年"
-    },
-    {
-     "title": "纯电销量过半，理想汽车的生意变了",
-     "link": "https://www.tmtpost.com/8218517.html",
-     "pubDate": "Thu, 26 Nov 2026 22:40:43 +0800",
-     "summary": "纯电销量占比过半，理想汽车经营逐步修复，但盈利模式仍面临重构。",
-     "source": "钛媒体",
-     "zh": "纯电销量过半，理想汽车的生意变了"
     }
    ]
   },
@@ -2001,6 +1969,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "1Password says it was hacked but users' vaults are safe",
+     "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
+     "summary": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+     "source": "Engadget",
+     "zh": "1Password says it was hacked but users' vaults are safe"
+    },
+    {
+     "title": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
+     "link": "https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute/",
+     "pubDate": "Thu, 26 Nov 2026 19:52:24 +0000",
+     "summary": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, following Epic’s allegations that Apple improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Judge orders Apple to produce 3,200 documents in Epic Games dispute"
+    },
     {
      "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
      "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
@@ -2224,22 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "We’ve already looked at the top smartphone deals from Amazon Germany that are on offer for Black Friday week. Now, let’s do the same for tablets, laptops and even some computers. Samsung has both Android tablets and Windows laptops, while Apple has iPadOS tablets and a couple of Macs. There are also",
      "source": "GSMArena",
      "zh": "Deals: the best Android tablet and iPad offers,  plus Windows laptops and Macs too"
-    },
-    {
-     "title": "Sketchy suggestion of ceramic iPhone 20 Pro",
-     "link": "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/",
-     "pubDate": "Thu, 26 Nov 2026 14:00:25 +0000",
-     "summary": "A sketchy rumor is doing the rounds suggesting that Apple is working on a ceramic edition of the iPhone 20 Pro . There are no details, and while one concept image shows a ceramic back, this seems a rather unlikely possibility … more…",
-     "source": "9to5Mac",
-     "zh": "Sketchy suggestion of ceramic iPhone 20 Pro"
-    },
-    {
-     "title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook",
-     "link": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
-     "pubDate": "Thu, 26 Nov 2026 13:59:06 +0000",
-     "summary": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
-     "source": "Engadget",
-     "zh": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook"
     }
    ]
   },
@@ -2250,44 +2218,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "《新一代通信网建设实施方案》发布 适时开展6G网络建设 二〇三〇年建成新一代通信网",
-     "link": "http://finance.eastmoney.com/news/1352,202611273941007295.html",
-     "pubDate": "Fri, 27 Nov 2026 03:38:43 +0800",
-     "summary": "工业和信息化部、国家网信办、国家发展改革委日前印发《新一代 通信 网建设实施方案》（以下简称《实施方案》），提出到2030年，建成覆盖完善、性能领先的新一代 通信 网。 《实施方案》提出，适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨 卫星互联网 系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。国际海陆缆布局持续优化，国际网络韧性明显提升。 工业互联网 、车联网等融合网络实现规模化发展。通感导算智一体化服务能力明显增强，智能化发展水平大幅提升。多网协同抗毁韧性架构基本建成， 网络安全 和应急 通信 综合 保障能力显著增强。产业",
-     "source": "东方财富股票",
-     "zh": "《新一代通信网建设实施方案》发布 适时开展6G网络建设 二〇三〇年建成新一代通信网"
+     "title": "Two Italians killed in Iranian strike on Kuwait",
+     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 20:03:23 GMT",
+     "summary": "Workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+     "source": "Financial Times",
+     "zh": "Two Italians killed in Iranian strike on Kuwait"
     },
     {
-     "title": "欧洲软件巨头SAP被曝拟削减至少1万个岗位 全力押注“AI优先”战略",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941012616.html",
-     "pubDate": "Fri, 27 Nov 2026 03:28:31 +0800",
-     "summary": "财联社11月27日讯 AI浪潮持续冲击传统软件行业，欧洲市值最高的软件巨头 思爱普 （SAP）正酝酿新一轮大规模重组。知情人士透露，裁员规模或至少达1万个岗位，约占其全球员工总数的9%。 据媒体当地时间11月26日援引知情人士消息报道，德国企业管理软件巨头SAP正在制定一项重组计划，借此推动旗下软件业务面向AI时代转型。 知情人士称，此次重组拟削减至少1万个岗位，至少波及全球9%的员工。 由于相关讨论仍在进行中，最终裁员人数尚未敲定，在与劳工代表谈判后仍可能调整。 据报道，SAP各部门都被要求梳理可削减的领域， 产品与工程部门以及销售部门是重点 。 这一调整背后，SAP首席执行官柯睿安正寻求将",
+     "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941013753.html",
+     "pubDate": "Fri, 27 Nov 2026 03:50:58 +0800",
+     "summary": "伦 铜 周四由11个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。LME 3个月期 铜 期货 结算价上涨1.9%，部分收复本月以来的跌幅。 铜 价反弹与市场风险偏好的普遍改善同步，科技股在多个市场领涨，欧洲矿业股也走高。美国股指 期货 上涨，此前周三尾盘买盘推动 纳斯达克 100指数从熊市边缘回升。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "欧洲软件巨头SAP被曝拟削减至少1万个岗位 全力押注“AI优先”战略"
+     "zh": "伦铜自11个月低点反弹 科技股上涨提振工业金属"
     },
     {
-     "title": "土耳其央行暂停一周期回购拍卖",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941012514.html",
-     "pubDate": "Fri, 27 Nov 2026 03:18:01 +0800",
-     "summary": "土耳其央行暂停一周期回购拍卖。 （文章来源：财联社）",
+     "title": "播客 | 从克里米亚大桥到利比亚港口：俄乌冬季仍是一场消耗战",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941014063.html",
+     "pubDate": "Fri, 27 Nov 2026 03:50:03 +0800",
+     "summary": "近期，在俄乌谈判仍悬而未决之际，双方的循环报复正呈加速螺旋升级之势。先是乌克兰主动再次打击克里米亚大桥，迎来俄方更大规模反击。紧接着，俄罗斯停泊在利比亚班加西港的“水星”号护卫舰，遭到乌克兰无人艇远程突袭损毁沉没。跨区域攻防的袭击已跳出本土，使得冲突外溢风险急剧升高。另一方面，作为乌克兰最有力的盟友与支持者，美国总统特朗普中期选举失利后，在乌克兰问题上的立场发生了显著转变，试图通过施压乌克兰和批评欧洲盟友来快速推动停火谈判。这场冲突在不到三个月就要满五年的节点上，克里米亚大桥、利比亚 港口 、俄境内能源设施——打击地理范围在扩大；北约内部分歧、美国政策不确定性、欧洲寻求上桌——外部协调机制在承",
      "source": "东方财富股票",
-     "zh": "土耳其央行暂停一周期回购拍卖"
+     "zh": "播客 | 从克里米亚大桥到利比亚港口：俄乌冬季仍是一场消耗战"
     },
     {
-     "title": "欧央行10月会议纪要：通胀前景恶化 未来或需进一步加息",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941012794.html",
-     "pubDate": "Fri, 27 Nov 2026 03:17:16 +0800",
-     "summary": "欧洲央行官员在上月举行的会议上认为，随着通胀前景恶化，未来可能需要进一步收紧货币政策。 欧洲央行周四公布的10月货币政策会议纪要显示，尽管决策者当时没有加息，但部分官员甚至担忧，消费者价格涨幅可能要到2028年之后才能回到2%的目标水平。 欧洲央行表示： “与会委员普遍认为，通胀前景已经恶化。”他们“支持继续采取审慎的政策应对措施，同时指出，未来很可能有必要进一步收紧货币政策”。 此后，部分官员已开始支持欧洲央行在12月再次加息25个基点，市场也预计届时将采取行动。一些官员甚至开始释放2027年进一步收紧政策的信号。 欧洲央行副行长Boris Vujcic上周接受采访时表示，欧洲央行下个月加息",
+     "title": "新一代通信网建设路线图出炉 适时开展6G网络建设 5G-A实现重点区域部署应用",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941013352.html",
+     "pubDate": "Fri, 27 Nov 2026 03:49:10 +0800",
+     "summary": "记者11月26日获悉，近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代 通信 网建设实施方案》（下称《实施方案》），提出到2030年，建成覆盖完善、性能领先的新一代 通信 网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨 卫星互联网 系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。 工业和信息化部信息 通信 发展司相关负责人表示，新一代通信网是经济社会运行的“神经系统”，为水网、新型电网、算力网、城市 地下管网 、 物流 网等基础设施数智化发展提供坚实支撑。适度超前建设空天地海一体化、通感算智一体",
      "source": "东方财富股票",
-     "zh": "欧央行10月会议纪要：通胀前景恶化 未来或需进一步加息"
+     "zh": "新一代通信网建设路线图出炉 适时开展6G网络建设 5G-A实现重点区域部署应用"
     },
     {
-     "title": "八部门联合印发！未来五年将迎这些新机遇",
-     "link": "http://finance.eastmoney.com/news/1348,202611273941012486.html",
-     "pubDate": "Fri, 27 Nov 2026 03:16:58 +0800",
-     "summary": "26日，商务部、中央宣传部、中央网信办、工业和信息化部、 交通运输 部、文化和旅游部、中国人民 银行 、海关总署 等八部门联合印发《服务贸易发展“十五五”规划》 ，围绕培育发展新动能， 部署7个方面25项重点任务 。 从提升服务出口竞争力，到扩大优质服务进口， 未来五年，我国服务贸易将迎来哪些新机遇 ？ 到2030年 服务贸易规模稳步扩大 《规划》明确，到2030年服务贸易规模稳步扩大， “中国服务”国际竞争力提升 。首次从 生产性服务和生活性服务 两方面明确发展方向，提出提升“制造＋服务” 综合 竞争力，塑造旅行服务、文化、中国传统特色服务等生活性服务出口新优势。 商务部服务贸易和商贸服务业",
+     "title": "加强新就业形态劳动者权益保障 18家重点平台企业完成算法协商",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941013144.html",
+     "pubDate": "Fri, 27 Nov 2026 03:49:06 +0800",
+     "summary": "记者11月26日从全国总工会召开的2026年第四季度新闻发布会上获悉，截至11月10日，网络货运、 网约车 、网约配送、 快递 4个行业18家重点平台企业已全部完成劳动规则和算法协商并签订协议，覆盖新就业形态劳动者超过2500万人。 今年以来，全国总工会把维护新就业形态劳动者合法权益作为重点任务，会同人力资源社会保障部、中国企联、全国工商联印发《平台劳动规则和算法协商指引（试行）》，紧扣新就业形态劳动者的劳动报酬权、休息权、劳动安全等核心权益，明确协商主体、流程，确立基本规范，确保协商有章可循。 协商成果具有“含金量”。全国总工会权益保障部副部长王海龙在会上指出，一是算法规则更透明。各平台集中",
      "source": "东方财富股票",
-     "zh": "八部门联合印发！未来五年将迎这些新机遇"
+     "zh": "加强新就业形态劳动者权益保障 18家重点平台企业完成算法协商"
+    },
+    {
+     "title": "河南许昌：电力精准服务 助力“世界假发之都”产业发展",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941013030.html",
+     "pubDate": "Fri, 27 Nov 2026 03:49:06 +0800",
+     "summary": "目前，河南许昌头发收购从业者已达3万余人、假发生产企业超4000家、 跨境电商 发制品企业超3000家。这里的假发制品出口至非洲、欧洲等120多个国家和地区，产品占全球市场份额60%以上，每2秒钟就有一顶许昌假发完成交易。 这一产业规模的背后，是从原料分拣、精深加工到 跨境电商 外销的完整链条，而链条上每一环的运转，都离不开稳定可靠的 电力 支撑。 据了解，许昌假发最初源自以假发精制戏剧道具用于舞台表演。历经百年，许昌的发制品行业经历了由粗加工到深加工、由档发到假发成品、由单一品种到系列产品的转变，许昌也被誉为“世界假发之都”。 说起许昌的假发产业，不得不提起“瑞贝卡”。20世纪90年代初，世",
+     "source": "东方财富股票",
+     "zh": "河南许昌：电力精准服务 助力“世界假发之都”产业发展"
+    },
+    {
+     "title": "不拼硬件拼生态 AI手机市场“升温”",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941012918.html",
+     "pubDate": "Fri, 27 Nov 2026 03:49:05 +0800",
+     "summary": "近期，继第二代“豆包手机”之后，华为等头部厂商相继入局 AI手机 赛道。受访专家认为，在 AI手机 这条新赛道上，单凭硬件参数已难以形成竞争优势，市场将转向操作系统、大模型与应用生态的系统性比拼。 11月20日，华为正式推出子品牌星芒及品牌首款产品OSTA O1 Pro，并将其定义为“鸿蒙 AI手机 ”。次日，星芒品牌总经理刘赫在社交平台发文称，最受欢迎的16GB运行内存+1TB机身存储版本已在全平台售罄，团队正协调产能、调整各版本的生产比例。 距上市已近一周，记者登录部分电商平台看到，这款手机16GB运行内存的高配版本仍显示无货，低配版本（16GB+512GB）也要12月3日才能发货。 今年",
+     "source": "东方财富股票",
+     "zh": "不拼硬件拼生态 AI手机市场“升温”"
     },
     {
      "title": "欧央行10月会议纪要：通胀前景恶化，未来或需进一步加息",
@@ -2296,14 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "欧洲央行官员在上月举行的会议上认为，随着通胀前景恶化，未来可能需要进一步收紧货币政策。 欧洲央行周四公布的10月货币政策会议纪要显示，尽管决策者当时没有加息，但部分官员甚至担忧，消费者价格涨幅可能要到2028年之后才能回到2%的目标水平。 欧洲央行表示： “与会委员普遍认为，通胀前景已经恶化。”他们“支持继续采取审慎的政策应对措施，同时指出，未来很可能有必要进一步收紧货币政策”。 此后，部分官员已开始支持欧洲央行在12月再次加息25个基点，市场也预计届时将采取行动。一些官员甚至开始释放2027年进一步收紧政策的信号。 欧洲央行副行长Boris Vujcic上周接受采访时表示，欧洲央行下个月加息",
      "source": "华尔街见闻",
      "zh": "欧央行10月会议纪要：通胀前景恶化，未来或需进一步加息"
-    },
-    {
-     "title": "莫德纳股价年内飙升约650% 后续试验数据能否为涨势提供支撑？",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941012135.html",
-     "pubDate": "Fri, 27 Nov 2026 03:10:10 +0800",
-     "summary": "新冠疫情过后，莫德纳（Moderna）进军肿瘤治疗领域，一路牵动着投资者的神经。 其下一项临床试验结果公布前，华尔街围绕这家药企前景的争论很可能更加激烈。 年初至今，莫德纳（MRNA）股价已飙升逾648.86%，领跑标普500指数成分股。 此前，一项个性化癌症 疫苗 试验披露的初步数据点燃了投资者的热情，也让市场看到，莫德纳终于有望摆脱对日渐萎缩的新冠 疫苗 业务的依赖。 一款癌症 疫苗 能否撑起900亿美元估值？ 这款名为intismeran的癌症疫苗，正逐渐改变市场对莫德纳的看法。自新冠疫苗大获成功以来，这家公司一直苦于寻找下一款能接棒的产品。 莫德纳也尝试开发呼吸道合胞病毒（RSV）疫苗",
-     "source": "东方财富股票",
-     "zh": "莫德纳股价年内飙升约650% 后续试验数据能否为涨势提供支撑？"
     },
     {
      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
@@ -2338,6 +2314,14 @@ window.INDUSTRY_DATA = {
      "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
     },
     {
+     "title": "西北—华东绿电联合交易正式启动",
+     "link": "http://www.eeo.com.cn/2026/1127/1104589.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:31:09 +0800",
+     "summary": "本报讯 （记者杜雨萌）11月26日，西北—华东绿电联合交易启动会在北京召开。 西北—华东绿电联合交易是全国统一电力市场体系建设取得的又一项重要标志性成果。“一次报价、联合交易”以西北—华东绿电起步，经营主体通过一次申报量价曲线，同步形成跨省跨区、省内成交结果，架起两个区域之间一座“绿电桥梁”。联合交易既立足特高压直流通道物理联络条件，也兼顾两地资源禀赋互补的现实需求；既为西北开辟新能源消纳新出...",
+     "source": "经济观察网",
+     "zh": "西北—华东绿电联合交易正式启动"
+    },
+    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 18:30:00 GMT",
@@ -2352,6 +2336,30 @@ window.INDUSTRY_DATA = {
      "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
      "source": "CNBC",
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
+    },
+    {
+     "title": "氢氧化锂期货首日成交53.3亿元",
+     "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
+     "summary": "11月26日，氢氧化锂期货在广州期货交易所（以下简称“广期所”）上市交易，这是继碳酸锂期货及期权上市后，广期所服务锂电行业推出的又一关键品种，预计新能源金属期货板块服务产业的精准性与有效性将得到进一步提升。 《证券日报》记者从广期所获悉，截至11月26日收盘，氢氧化锂期货成交量7.55万手，持仓量1.03万手，成交额53.3亿元，首日运行符合预期。 氢氧化锂是高镍三元正极材料的核心锂源，不仅决定了动力电...",
+     "source": "经济观察网",
+     "zh": "氢氧化锂期货首日成交53.3亿元"
+    },
+    {
+     "title": "我国将加快培育服务贸易发展新动能",
+     "link": "http://www.eeo.com.cn/2026/1127/1104587.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:14 +0800",
+     "summary": "到2035年，全面形成服务贸易高质量发展格局 11月26日，商务部等八部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络等7个方面部署25项重点任务。 同日，商务部新闻发言人何亚东在商务部例行新闻发布会上表示，...",
+     "source": "经济观察网",
+     "zh": "我国将加快培育服务贸易发展新动能"
+    },
+    {
+     "title": "三部门印发《新一代通信网建设实施方案》",
+     "link": "http://www.eeo.com.cn/2026/1127/1104586.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:13 +0800",
+     "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
+     "source": "经济观察网",
+     "zh": "三部门印发《新一代通信网建设实施方案》"
     },
     {
      "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
@@ -2402,12 +2410,20 @@ window.INDUSTRY_DATA = {
      "zh": "Andrew Bailey says unreleased AI models have raised encryption concerns"
     },
     {
-     "title": "Two Italians killed in Iranian strike on Kuwait",
-     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 16:57:26 GMT",
-     "summary": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
-     "source": "Financial Times",
-     "zh": "Two Italians killed in Iranian strike on Kuwait"
+     "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
+     "link": "http://www.eeo.com.cn/2026/1127/1104583.shtml",
+     "pubDate": "Fri, 27 Nov 2026 00:47:07 +0800",
+     "summary": "在李斌看来，汽车产品是AI进入物理世界的重要载体，汽车企业自身也需要成为AI原生组织，让AI真正进入企业的经营过程。成为AI原生组织是下一阶段竞争与变革的关键。",
+     "source": "经济观察网",
+     "zh": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账"
+    },
+    {
+     "title": "比亚迪第三代唐上市：主打大五座、大屏和长续航",
+     "link": "http://www.eeo.com.cn/2026/1127/1104581.shtml",
+     "pubDate": "Fri, 27 Nov 2026 00:40:26 +0800",
+     "summary": "在竞争策略上，第三代唐主要依靠大屏、音响这类可直观感知的配置，以及更大车身尺寸和更低的售价，叠加智驾安全责任兜底方案，来搭建一套更贴合普通家庭购车考量的智能体验逻辑。",
+     "source": "经济观察网",
+     "zh": "比亚迪第三代唐上市：主打大五座、大屏和长续航"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2440,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "唐纳德·特朗普总统指责政府“蓄意”压低美国经济增长数据。他借一次常规的数据修订，毫无根据地指控此举是为了干扰选举。 特朗普在周四的社交媒体发文中指出，GDP数据显示经济在第三季度实现了4.3%的年化增长，而此前发布的预估值为3.4%，他表示两者存在“巨大差异”。 “刚刚有消息披露，中选前公布的经济‘真实数据’是假的，”他在没有提供任何证据的情况下说道。 “我要求立即对此事展开调查。这不是一个小错误，而是一个巨大的、蓄意的错误，”这位总统在发文中补充道。该帖文是美国感恩节假期当天上午，从他在西棕榈滩的高尔夫球场发出的。 长期以来，特朗普一直热衷于为选举失利寻找边缘化或阴谋论的解释，尽管他此前曾将",
      "source": "华尔街见闻",
      "zh": "特朗普边打高尔夫边斥责GDP数据造假，称此举是为了干扰中期选举"
-    },
-    {
-     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律",
-     "link": "https://wallstreetcn.com/articles/3786793",
-     "pubDate": "Thu, 26 Nov 2026 23:37:50 +0800",
-     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 市场关注的核心在于De Cos领导下的政策取向。这位拥有经济学博士学位和法学学位的官员，曾任巴塞尔银行监管委员会主席， 外界普遍认为其在货币政策上比竞争对手、前荷兰央行行长Klaas",
-     "source": "华尔街见闻",
-     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
-    },
-    {
-     "title": "Anthropic到底贵不贵？同一机构罕见多空互撕！",
-     "link": "https://wallstreetcn.com/articles/3786794",
-     "pubDate": "Thu, 26 Nov 2026 23:37:41 +0800",
-     "summary": "Anthropic上市后的股价剧烈震荡，令华尔街对其估值产生明显分歧，甚至同一家研究机构的两位分析师也给出了截然相反的投资建议。 11月26日，据彭博报道，独立研究机构Hedgeye Risk Management的两位分析师本周先后发布观点相反的报告。 通信与软件分析师Andrew Freedman给出92美元目标价，认为当前股价对长期投资者具有吸引力；全球科技分析师Felix Wang则建议客户做空，目标价仅为59美元。 Anthropic的IPO发行价为83美元。 两人的分歧迅速公开化。Wang于周二发布看空报告后，Freedman随即在社交媒体上划清界限，称自己“没有参与得出该决定的研",
-     "source": "华尔街见闻",
-     "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
-    },
-    {
-     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
-     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-     "source": "MarketWatch",
-     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
-    },
-    {
-     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-     "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
-     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-     "source": "CNBC",
-     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
-    },
-    {
-     "title": "Bringing data to the Thanksgiving table",
-     "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 15:26:58 GMT",
-     "summary": "Does America really face a food affordability crisis?",
-     "source": "Financial Times",
-     "zh": "Bringing data to the Thanksgiving table"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     }
    ]
   },

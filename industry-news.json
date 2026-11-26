@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 05:12:14",
+ "generated_at": "2026/11/27 05:32:22",
  "recent_days": 7,
  "industries": [
   {
@@ -425,14 +425,6 @@
      "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -495,6 +487,14 @@
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
+     "link": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
+     "pubDate": "Thu, 26 Nov 2026 21:08:45 +0000",
+     "summary": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
+     "source": "Space.com",
+     "zh": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list"
+    },
+    {
      "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
      "link": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
      "pubDate": "Thu, 26 Nov 2026 19:00:00 +0000",
@@ -1343,14 +1351,6 @@
      "summary": "On November 26, 2011, the NASA Curiosity rover launched to Mars. Here's why it mattered.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 26, 2011: NASA's 2-ton nuclear-powered Curiosity rover launches to Mars"
-    },
-    {
-     "title": "Cloudy Thanksgiving spoiling your stargazing? These star projectors are on offer for Black Friday",
-     "link": "https://www.space.com/stargazing/skywatching-kit/cloudy-thanksgiving-spoiling-your-stargazing-these-star-projectors-are-on-offer-for-black-friday",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "From night lights to educational home planetariums, I've rounded up the biggest Black Friday savings on star projectors, including a major saving on the coolest star projector I've ever tested.",
-     "source": "Space.com",
-     "zh": "Cloudy Thanksgiving spoiling your stargazing? These star projectors are on offer for Black Friday"
     },
     {
      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
@@ -1425,6 +1425,30 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1447,6 +1471,14 @@
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
+    },
+    {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1473,6 +1505,14 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
+     "title": "Progress MS-36 launches to ISS from Baikonur",
+     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
+     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Progress MS-36 launches to ISS from Baikonur"
+    },
+    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1495,14 +1535,6 @@
      "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
      "source": "Payload",
      "zh": "Industry Shares Plan for Moon Base Power Tower"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1729,14 +1761,6 @@
      "zh": "美妆大逃杀：2026年之后，一半企业会消失，但“出海”和“小众”都不是逃生门"
     },
     {
-     "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
-     "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
-     "pubDate": "Thu, 26 Nov 2026 20:39:05 +0000",
-     "summary": "Article URL: https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo Comments URL: https://news.ycombinator.com/item?id=50659532 Points: 10 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo"
-    },
-    {
      "title": "Is Alice Huang a spy or not?",
      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
      "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
@@ -1756,7 +1780,7 @@
      "title": "The USA as a Civilizations-esque map",
      "link": "https://karpathy.ai/usaciv/",
      "pubDate": "Thu, 26 Nov 2026 19:53:58 +0000",
-     "summary": "Article URL: https://karpathy.ai/usaciv/ Comments URL: https://news.ycombinator.com/item?id=50658997 Points: 43 # Comments: 33",
+     "summary": "Article URL: https://karpathy.ai/usaciv/ Comments URL: https://news.ycombinator.com/item?id=50658997 Points: 57 # Comments: 38",
      "source": "Hacker News",
      "zh": "The USA as a Civilizations-esque map"
     },
@@ -1772,7 +1796,7 @@
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "link": "https://github.com/eisenzopf/rvoip",
      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 13 # Comments: 4",
+     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 18 # Comments: 4",
      "source": "Hacker News",
      "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
     },
@@ -1788,7 +1812,7 @@
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "link": "https://bui.preetham.top/charts/",
      "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
-     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 9 # Comments: 2",
      "source": "Hacker News",
      "zh": "Largest 2D Chart library in the world using BUI: BlenderUI"
     },
@@ -1796,15 +1820,23 @@
      "title": "Show HN: Fuck_data_brokers.py",
      "link": "https://github.com/gary23w/f-ck_data_brokers",
      "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
-     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 58 # Comments: 8",
+     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 96 # Comments: 13",
      "source": "Hacker News",
      "zh": "Show HN: Fuck_data_brokers.py"
+    },
+    {
+     "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+     "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+     "pubDate": "Thu, 26 Nov 2026 18:35:37 +0000",
+     "summary": "Article URL: https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr Comments URL: https://news.ycombinator.com/item?id=50658170 Points: 31 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company"
     },
     {
      "title": "George Whitesides, 1939-2026",
      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
      "pubDate": "Thu, 26 Nov 2026 18:13:07 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 21 # Comments: 3",
+     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 24 # Comments: 4",
      "source": "Hacker News",
      "zh": "George Whitesides, 1939-2026"
     },
@@ -2217,60 +2249,60 @@
    "total": 13,
    "items": [
     {
-     "title": "国际原子能机构表示 正与俄罗斯和乌克兰就第九次局部停火的安排进行接触",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941019364.html",
-     "pubDate": "Fri, 27 Nov 2026 05:00:35 +0800",
-     "summary": "国际原子能机构表示，在扎波罗热核电站再次失去外部供电后，正与俄罗斯和乌克兰就第九次局部停火的安排进行接触。 （文章来源：财联社）",
+     "title": "麦格理集团：艾米·马奥尼将出任麦格理银行首席执行官；托尼·格雷厄姆将出任首席信息官",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941022446.html",
+     "pubDate": "Fri, 27 Nov 2026 05:19:35 +0800",
+     "summary": "麦格理集团：艾米·马奥尼将出任麦格理 银行 首席执行官；托尼·格雷厄姆将出任首席信息官。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "国际原子能机构表示 正与俄罗斯和乌克兰就第九次局部停火的安排进行接触"
+     "zh": "麦格理集团：艾米·马奥尼将出任麦格理银行首席执行官；托尼·格雷厄姆将出任首席信息官"
     },
     {
-     "title": "巴西雷亚尔大涨2.7% 因市场押注特拉布科将加入卢拉政府",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941019039.html",
-     "pubDate": "Fri, 27 Nov 2026 04:59:14 +0800",
-     "summary": "巴西雷亚尔大涨2.7%，因市场押注特拉布科将加入卢拉政府担任财政部长。 （文章来源：财联社）",
+     "title": "麦格理集团宣布麦格理银行首席执行官斯图尔特·格林和集团首席运营官妮可·索巴拉退休",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941022661.html",
+     "pubDate": "Fri, 27 Nov 2026 05:19:28 +0800",
+     "summary": "麦格理集团宣布麦格理 银行 首席执行官斯图尔特·格林和集团首席运营官妮可·索巴拉退休。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "巴西雷亚尔大涨2.7% 因市场押注特拉布科将加入卢拉政府"
+     "zh": "麦格理集团宣布麦格理银行首席执行官斯图尔特·格林和集团首席运营官妮可·索巴拉退休"
     },
     {
-     "title": "美元指数26日上涨",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941018988.html",
-     "pubDate": "Fri, 27 Nov 2026 04:52:09 +0800",
-     "summary": "美元指数26日上涨。 衡量美元对六种主要货币的美元指数当天上涨0.09%，在汇市尾市收于103.763。 截至纽约汇市尾市，1欧元兑换1.0972美元，低于前一交易日的1.0980美元；1英镑兑换1.3108美元，低于前一交易日的1.3122美元。 1美元兑换159.27日元，高于前一交易日的159.21日元；1美元兑换0.8341瑞士法郎，高于前一交易日的0.8309瑞士法郎；1美元兑换1.4246加元，高于前一交易日的1.4205加元；1美元兑换10.2101瑞典克朗，低于前一交易日的10.2310瑞典克朗。 （文章来源：新华社）",
+     "title": "麦格理银行首席执行官格林将于3月31日卸任",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941022334.html",
+     "pubDate": "Fri, 27 Nov 2026 05:19:20 +0800",
+     "summary": "麦格理 银行 首席执行官格林将于3月31日卸任。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "美元指数26日上涨"
+     "zh": "麦格理银行首席执行官格林将于3月31日卸任"
     },
     {
-     "title": "今日数据精选：中国首次包揽全球科研城市前三；多地推行公交“响应式停靠”",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941019457.html",
-     "pubDate": "Fri, 27 Nov 2026 04:48:03 +0800",
-     "summary": "【宏观经济及政策】 国家能源局：1—10月全国 电力 市场交易电量同比增长18.3% 据国家能源局消息，2026年10月，全国各 电力 交易机构完成交易电量6435亿千瓦时，同比增长14.1%。从交易范围看，省内交易电量5184亿千瓦时，同比增长18.5%；跨省跨区交易电量1251亿千瓦时，同比增长0.3%。从交易品种看，中长期交易电量5631亿千瓦时，现货交易电量804亿千瓦时。绿电交易电量339亿千瓦时，同比增长19.8%。电网企业市场化代理购电电量578亿千瓦时。（央视新闻） 国家卫健委：健康体检机构不得提供明确禁止或无明确意义的检查检验项目 11月26日电，国家卫健委办公厅发布关于进一",
+     "title": "伊朗外长阿拉格齐周四在接受电视采访时表示，卡塔尔和巴基斯坦正继续开展调解工作",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941022578.html",
+     "pubDate": "Fri, 27 Nov 2026 05:17:52 +0800",
+     "summary": "伊朗外长阿拉格齐周四在接受电视采访时表示，卡塔尔和巴基斯坦正继续开展调解工作，但德黑兰的要求必须得到满足，霍尔木兹海峡才能重新开放。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "今日数据精选：中国首次包揽全球科研城市前三；多地推行公交“响应式停靠”"
+     "zh": "伊朗外长阿拉格齐周四在接受电视采访时表示，卡塔尔和巴基斯坦正继续开展调解工作"
     },
     {
-     "title": "从造车到“抢矿” 新能源汽车产业竞争转向资源循环",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941018175.html",
-     "pubDate": "Fri, 27 Nov 2026 04:46:27 +0800",
-     "summary": "中经记者陈靖斌广州报道 “上半场造车造 电池 ，下半场一定是做回收。” 11月25日，邦普循环副总裁、 新能源 汽车 动力 电池 循环利用国家地方联合工程研究中心主任余海军在接受《中国经营报》记者采访时表示，随着动力 电池 陆续进入规模化退役阶段，如何将 镍 、 钴 、 锂 等战略金属重新纳入 新能源 产业供应链，关系到整个产业的可持续发展。 同日，由全球产业观察者、上海交通大学中国质量发展研究院客座研究员林雪萍撰写、 中信出版 集团 出版 的《价值发现》正式发布。该书以邦普循环21年的发展历程为样本，梳理 中国动力 电池回收产业从粗放式资源回收到规模化材料再生的发展路径，揭示了中 国新能源 ",
+     "title": "卢拉接触巴西银行业高管下一任财长人选引关注",
+     "link": "http://stock.eastmoney.com/news/1611,202611273941021668.html",
+     "pubDate": "Fri, 27 Nov 2026 05:16:59 +0800",
+     "summary": "据外媒报道，一名知情人士透露，巴西 布拉德斯科银行 董事长Luiz Carlos Trabuco预计将于周四会见巴西总统卢拉。此前有报道称，这名高管可能接任巴西财政部长一职。媒体周四早些时候援引两名了解谈判情况的人士报道称，卢拉已就下一任期的财政部长人选一事接触Trabuco。当地媒体《圣保罗州报》最早报道了此次会面。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "从造车到“抢矿” 新能源汽车产业竞争转向资源循环"
-    },
-    {
-     "title": "抢抓自贸区3.0版机遇 发挥工商纽带作用——专访东盟经济贸易促进会会长波尚琅",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941018442.html",
-     "pubDate": "Fri, 27 Nov 2026 04:46:18 +0800",
-     "summary": "当前，世界百年变局加速演进，全球经贸规则重构与产业链供应链重塑同步展开。近期，中国—东盟领导人会议取得一系列重要成果：中国—东盟自贸区3.0版升级议定书将于2026年12月1日起正式生效，2027年被确定为“中国—东盟 人工智能 合作年”。 几乎同一时间，亚太经济合作组织（APEC）第三十三次领导人非正式会议在深圳举行，两场会议同频呼应，共同释放出亚太区域坚持开放合作、共促产供链稳定的积极信号。 围绕如何发挥工商纽带作用，把峰会共识转化为产业链供应链深度融合的实际成效，《中国经营报》记者专访了东盟经济贸易促进会会长波尚琅。 《中国经营报》 ：中国—东盟自贸区3.0版升级议定书即将于下月生效。与",
-     "source": "东方财富股票",
-     "zh": "抢抓自贸区3.0版机遇 发挥工商纽带作用——专访东盟经济贸易促进会会长波尚琅"
+     "zh": "卢拉接触巴西银行业高管下一任财长人选引关注"
     },
     {
      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Thu, 26 Nov 2026 20:25:28 GMT",
+     "pubDate": "Thu, 26 Nov 2026 21:13:17 GMT",
      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
      "source": "CNBC",
      "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+     "link": "http://global.eastmoney.com/news/1959,202611273941022188.html",
+     "pubDate": "Fri, 27 Nov 2026 05:13:08 +0800",
+     "summary": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。特朗普说，他坚信“这很有可能实现”，并称“若能达成协议，那将是对所有人的一大贡献”。（新华社） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议"
     },
     {
      "title": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工",

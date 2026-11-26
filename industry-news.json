@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 07:12:25",
+ "generated_at": "2026/11/27 07:17:45",
  "recent_days": 7,
  "industries": [
   {
@@ -329,12 +329,28 @@
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
+     "title": "Eutelsat US wins Space Force CSCO satcom contract",
+     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
+     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
+    },
+    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
+    },
+    {
+     "title": "Fable: The Volatile CEO",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
+     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -361,6 +377,22 @@
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
+     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
+     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
+     "source": "Electronics Weekly",
+     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
+    },
+    {
+     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
+     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
+    },
+    {
      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
      "pubDate": "Thu, 26 Nov 2026 08:55:48 +0000",
@@ -375,6 +407,22 @@
      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series. The post Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026 appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026"
+    },
+    {
+     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
+     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
+     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
+    },
+    {
+     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
+     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
+     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -447,54 +495,6 @@
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1753,22 +1753,6 @@
    "total": 18,
    "items": [
     {
-     "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
-     "link": "https://www.ithome.com/1/033/138.htm",
-     "pubDate": "Thu, 26 Nov 2026 22:59:06 GMT",
-     "summary": "IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使用上限的速度将加快 40%，Sol 用户则将加快 25%。 Sottiaux 同时表示，尽管修复后两款模型的额度消耗速度有所增加，但与上一代 GPT-6 Astra 和 GPT-6.1 Sol 相比，",
-     "source": "IT之家",
-     "zh": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%"
-    },
-    {
-     "title": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%",
-     "link": "https://www.ithome.com/1/033/137.htm",
-     "pubDate": "Thu, 26 Nov 2026 22:56:17 GMT",
-     "summary": "IT之家 11 月 27 日消息， 彭博社昨日（11 月 26 日）发布博文，报道称德国软件巨头思爱普（SAP）正考虑在一轮以人工智能为核心的重组中，裁减至少 1 万个工作岗位。 该规模约相当于 SAP 全球员工总数的 9%，最终裁员人数尚未确定，后续或因公司与劳工代表的协商结果而有所调整。 IT之家查询公开资料，思爱普成立于 1972 年，总部位于德国沃尔多夫，是全球企业应用软件的重要供应商，是“欧洲市值最高的软件公司”。其核心产品帮助企业完成财务、供应链、采购、人力资源、销售和运营等流程的数字化管理。 知情人士称，SAP 管理层正推动软件业务向 AI 时代转型，要求各部门梳理可以精简的岗位",
-     "source": "IT之家",
-     "zh": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%"
-    },
-    {
      "title": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计",
      "link": "https://www.ithome.com/1/033/136.htm",
      "pubDate": "Thu, 26 Nov 2026 22:43:02 GMT",
@@ -1991,6 +1975,22 @@
      "summary": "IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。 IT之家注意到，该局在公告中表示，五起攻击里有四起攻击得手，相关系统遭到入侵。遭到攻击的对象包含三家关键基础设施运营主体，据瑞士公共广播公司 SRF 介绍，它们分别是电力、供水以及通信服务供应商。 瑞士联邦网络安全局没有透露攻击的幕后主体信息。机构建议相关企业落实防护手段，其中包括定期开展网络安全检测。",
      "source": "IT之家",
      "zh": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵"
+    },
+    {
+     "title": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖",
+     "link": "https://www.solidot.org/story?sid=86004",
+     "pubDate": "Thu, 26 Nov 2026 23:24:13 +0800",
+     "summary": "2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖。今年初路由器发行版 OpenWrt 曾为纪念他而以他的名字命名 v25.12.0。互联网协会称：在 Täht 看来，视频通话中断、网页加载缓慢、进度条冻结——这些现象统称为缓冲区膨胀（bufferbloat）——都是阻碍互联网连接的障碍。所谓缓冲区膨胀是指数据在负责转发流量的硬件设备中滞留的时间。Täht 致力于寻找并推广解决网络拥塞的方案，旨在让人们真正享受到互联网的全部潜能。",
+     "source": "Solidot",
+     "zh": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖"
+    },
+    {
+     "title": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算",
+     "link": "https://www.ithome.com/1/033/130.htm",
+     "pubDate": "Thu, 26 Nov 2026 15:16:45 GMT",
+     "summary": "IT之家 11 月 26 日消息，在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 &amp; 小艺、鸿蒙空间计算。 据IT之家了解，华为鸿蒙 HarmonyOS 终端设备数在 11 月 24 日官宣破亿。同时，鸿蒙操作系统可获取的应用和服务超 46 万，注册开发者超 1,200 万。 华为官方表示，这标志着鸿蒙生态跨越规模临界点，进入发展新阶段，同时也是中国自主操作系统规模化应用的重要进展。",
+     "source": "IT之家",
+     "zh": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算"
     }
    ]
   },
@@ -2249,12 +2249,60 @@
    "total": 13,
    "items": [
     {
+     "title": "贝斯特材：拟全球发售3999.9万股H股，最高发售价7港元",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941042975.html",
+     "pubDate": "Fri, 27 Nov 2026 07:05:11 +0800",
+     "summary": "11月27日早间， 贝斯特 材在港交所公告，公司拟全球发售39,999,000股H股，香港发售股份4,000,000股H股，国际发售股份35,999,000股H股；最高发售价为每股7.00港元；预期股份将于2026年12月7日开始在香港联交所买卖。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "贝斯特材：拟全球发售3999.9万股H股，最高发售价7港元"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月27日",
      "link": "https://wallstreetcn.com/articles/3786805",
      "pubDate": "Fri, 27 Nov 2026 07:04:49 +0800",
-     "summary": "华见早安之声 要闻精选 中国 美国 针对中国进口产品税率将提升20% ， 中国外交部 ： 中方将继续采取必要措施捍卫自身正当权益 。 中国商务部 ： 坚决反对美对中国等经济体加征301关税 ；望美中推动对等降税安排尽快落地实施。 商务部 ：中方将密切关注欧方混动汽车保障措施后续调查进展。 国内四大商业银行 已与上市公司签订 股票回购增持贷款合同超6000亿元 。 香港联交所 披露恒大资金违规路径 ， 谴责 中国恒大与恒大物业，许家印等六人被认定不适合担任董事。 腾讯 AI制药成果登上《Nature》主刊 ，双靶点多肽实现从头设计。 海外 特朗普 称 Q3美国GDP数据造假 、 被蓄意压低 ，称",
+     "summary": "华见早安之声 要闻精选 中国 美国 针对中国进口产品税率将提升20% ， 中国外交部 ： 中方将继续采取必要措施捍卫自身正当权益 。 中国商务部 ： 坚决反对美对中国等经济体加征301关税 ；望美中推动对等降税安排尽快落地实施。 商务部 ：中方将密切关注欧方混动汽车保障措施后续调查进展。 国内四大商业银行 已与上市公司签订 股票回购增持贷款合同超6000亿元 。 香港联交所 披露恒大资金违规路径 ， 谴责 中国恒大与恒大物业，许家印等六人被认定不适合担任董事。 腾讯 AI制药成果登上《Nature》主刊 ，双靶点多肽实现从头设计。 海外 特朗普 称 Q3美国GDP数据造假 、 被蓄意压低 ，此",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月27日"
+    },
+    {
+     "title": "2026增材制造大会在四川泸州开幕",
+     "link": "http://finance.eastmoney.com/news/1350,202611273941041449.html",
+     "pubDate": "Fri, 27 Nov 2026 07:03:22 +0800",
+     "summary": "11月26日，2026增材制造大会在四川省泸州市开幕。本届大会以“增材启新智造未来”为主题，由工业和信息化部装备工业发展中心、四川省经济和信息化厅、泸州市人民政府共同主办。大会汇聚政府部门、行业组织、高校科研院所和产业链重点企业代表，探索规模化量产路径，推动增材制造产业高质量发展。 图为2026增材制造大会开幕式现场。 “十五五”时期是增材制造产业提质跃升、抢占先机的重要机遇期。工业和信息化部将坚决贯彻落实党中央、国务院决策部署，锚定重点产业链自主可控、安全可靠、竞争力强的核心方向，纵深推进新一轮重点产业链核心技术突破和创新产品规模化应用，推动增材制造产业向更高质量迈进。四川是全国增材制造产业",
+     "source": "东方财富股票",
+     "zh": "2026增材制造大会在四川泸州开幕"
+    },
+    {
+     "title": "袁记食品：拟全球发售1631.23万股H股，最高发售价28港元",
+     "link": "http://hk.eastmoney.com/news/1556,202611273941042777.html",
+     "pubDate": "Fri, 27 Nov 2026 07:02:41 +0800",
+     "summary": "11月27日早间，袁记食品在港交所公告，公司拟全球发售16,312,300股H股，香港发售股份1,631,300股H股，国际发售股份14,681,000股H股；最高发售价为每股28.00港元；预期股份将于2026年12月7日开始在香港联交所买卖。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "袁记食品：拟全球发售1631.23万股H股，最高发售价28港元"
+    },
+    {
+     "title": "刚果（金）国有黄金贸易商计划建设两座精炼厂，年产能达68吨",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941040977.html",
+     "pubDate": "Fri, 27 Nov 2026 07:01:29 +0800",
+     "summary": "刚果民主共和国（DRC）国有 黄金 贸易商计划建设两座精炼厂，总产能达68吨，旨在遏制 黄金 走私，并从该国 贵金属 储备中获取更多利润。DRC Gold Trading SA将建设一座位于基桑加尼（Kisangani）、年产能为18吨的工厂，以及一座位于首都金沙萨（Kinshasa）、年产能达50吨的旗舰精炼厂。该公司表示，正在实施供应链溯源项目，以确保其供应链无冲突矿产；刚果（金）央行已成为DRC Gold Trading的主要买家。 注： 3月中旬，刚果民主共和国（DRC）启动其首座国有支持的 黄金 精炼厂，旨在推动该国历史上与走私及矿产丰富的东部地区冲突密切相关的黄金贸易走向正规化。该",
+     "source": "东方财富股票",
+     "zh": "刚果（金）国有黄金贸易商计划建设两座精炼厂，年产能达68吨"
+    },
+    {
+     "title": "标普500指数期货恢复交易，上涨0.6%，纳斯达克期货上涨0.6%",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941043291.html",
+     "pubDate": "Fri, 27 Nov 2026 07:00:48 +0800",
+     "summary": "标普500指数 期货 恢复交易，上涨0.6%， 纳斯达克 期货 上涨0.6%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "标普500指数期货恢复交易，上涨0.6%，纳斯达克期货上涨0.6%"
+    },
+    {
+     "title": "钯金期货日内涨3%，现报870.30美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941042670.html",
+     "pubDate": "Fri, 27 Nov 2026 07:00:27 +0800",
+     "summary": "钯金 期货 日内涨3%，现报870.30美元/盎司。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "钯金期货日内涨3%，现报870.30美元/盎司"
     },
     {
      "title": "Here are the major earnings before the open Friday",
@@ -2263,54 +2311,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Here are the major earnings before the open Friday"
-    },
-    {
-     "title": "厄瓜多尔一工业船疑似发生氨气泄漏事故致4人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941038465.html",
-     "pubDate": "Fri, 27 Nov 2026 06:57:48 +0800",
-     "summary": "据厄瓜多尔媒体援引消防部门消息报道，厄西部沿海地区马纳维省曼塔港一艘停泊的工业船只26日疑似发生氨气泄漏事故，造成4人死亡、1人受伤。 据报道，当天13时左右，该工业船内部用于储存和保鲜鱼类的冷藏舱区域疑似发生氨气泄漏。接到报警后，相关部门调派消防车、救护车和危险品处置团队赶赴现场，进入船舱开展救援和疏散工作。 目前，遇难者身份尚未确认，事故具体原因正在调查中。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "厄瓜多尔一工业船疑似发生氨气泄漏事故致4人死亡"
-    },
-    {
-     "title": "太空环境解锁阿尔茨海默病差异化分子反应",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941037722.html",
-     "pubDate": "Fri, 27 Nov 2026 06:55:11 +0800",
-     "summary": "美国加州大学圣迭戈分校桑福德 综合 太空干细胞研究中心主任艾里森·穆特里手持一个含有脑类器官的板块。研究人员将这些类器官送入太空，增添了对阿尔茨海默病的新见解。 美国加州大学圣迭戈分校团队把一批携带遗传性阿尔茨海默病基因突变的“迷你大脑”送上国际空间站，在轨培育40天后带回地面分析。结果显示，同样一段太空飞行经历，在不同致病基因背景下引发的分子反应差别显著。该研究25日发表于《科学进展》杂志。 此次使用的“迷你大脑”学名叫脑类器官，是由干细胞培育的小型三维神经组织模型，可再现人脑部分特征。团队使用了携带APP、PSEN1或PSEN2基因突变的类器官，这三种基因均与罕见的遗传性阿尔茨海默病有关，",
-     "source": "东方财富股票",
-     "zh": "太空环境解锁阿尔茨海默病差异化分子反应"
-    },
-    {
-     "title": "韩国拟扩大赴中东护航部队任务区，韩方向伊朗表态：不介入战争",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941037928.html",
-     "pubDate": "Fri, 27 Nov 2026 06:55:06 +0800",
-     "summary": "据韩联社报道，韩国外交部长官赵显26日与伊朗外长阿拉格齐通电话，向伊方说明韩国政府拟扩大赴中东护航部队“清海部队”任务区的立场。韩方表示，此举旨在保护本国公民安全、维护韩国经济利益，韩国将恪守“不介入战争”等原则。这是韩国政府公布上述计划后，两国外长首次通话。 据韩国外交部介绍，在当前中东局势下，两国外长已通话8次、会晤2次，并同意继续保持密切沟通。两国外长当天还就近期中东局势、韩伊关系及海外公民保护等问题交换意见。赵显表示，希望中东地区尽早恢复持久和平与稳定，并呼吁伊方关注在伊韩国公民的安全。阿拉格齐听取了韩方对扩大“清海部队”任务区的说明。 同一天，韩国国会国防委员会审议通过延长“清海部队",
-     "source": "东方财富股票",
-     "zh": "韩国拟扩大赴中东护航部队任务区，韩方向伊朗表态：不介入战争"
-    },
-    {
-     "title": "影响市场重大事件：广东加快开展低轨宽带卫星星座与在轨计算存储能力基础研究；广东支持珠江口西岸都市圈地区探索海底数据中心建设；广东鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模",
-     "link": "http://finance.eastmoney.com/news/1355,202611273941038567.html",
-     "pubDate": "Fri, 27 Nov 2026 06:54:52 +0800",
-     "summary": "｜2026年11月27日星期五｜ NO.1 广东：加快开展低轨宽带卫星星座与在轨计算存储能力基础研究 11月26日，广东省印发《广东省算力发展“十五五”规划》。其中提到，构建空天地海算力网络。加快建设与算力协同发展的新一代 通信 网络，统筹推进太空、低空、地面与海洋融合组网，开展低轨宽带卫星星座与在轨计算存储能力基础研究，探索 卫星互联网 关口站、地面接收站、星地互联中心及空天数据集成处理平台建设。强化6G与智能算力基础设施协同联动，加快推动6G网络试点建设与前期商用部署。做强海洋网络服务能力，加快建设近海5G/5G-A及海岛“双千兆”网络，探索低轨卫星、海上浮标等延伸服务至偏远海域，增强 海",
-     "source": "东方财富股票",
-     "zh": "影响市场重大事件：广东加快开展低轨宽带卫星星座与在轨计算存储能力基础研究；广东支持珠江口西岸都市圈地区探索海底数据中心建设；广东鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模"
-    },
-    {
-     "title": "亚历山大·格吕赫尔有望出任巴西银行董事长",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941039171.html",
-     "pubDate": "Fri, 27 Nov 2026 06:54:40 +0800",
-     "summary": "亚历山大 ·格吕赫尔有望出任巴西 银行 董事长。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "亚历山大·格吕赫尔有望出任巴西银行董事长"
-    },
-    {
-     "title": "中国神华：H股配售价每股38.10港元 预计融资约67.4亿港元",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941037635.html",
-     "pubDate": "Fri, 27 Nov 2026 06:54:22 +0800",
-     "summary": "中国神华 在港交所公告，拟以每股38.10港元配售最多1.77亿股，预计所得款项总额约67.4亿港元。配售价较前收盘价折让7.7%。约90%的所得款项净额将用于偿还境内债务及优化资本结构。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "中国神华：H股配售价每股38.10港元 预计融资约67.4亿港元"
     },
     {
      "title": "物理AI峰会催化不断！算力基建景气向好 多股业绩倍增可期(名单)",
@@ -2441,6 +2441,14 @@
      "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
     },
     {
+     "title": "西北—华东绿电联合交易正式启动",
+     "link": "http://www.eeo.com.cn/2026/1127/1104589.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:31:09 +0800",
+     "summary": "本报讯 （记者杜雨萌）11月26日，西北—华东绿电联合交易启动会在北京召开。 西北—华东绿电联合交易是全国统一电力市场体系建设取得的又一项重要标志性成果。“一次报价、联合交易”以西北—华东绿电起步，经营主体通过一次申报量价曲线，同步形成跨省跨区、省内成交结果，架起两个区域之间一座“绿电桥梁”。联合交易既立足特高压直流通道物理联络条件，也兼顾两地资源禀赋互补的现实需求；既为西北开辟新能源消纳新出...",
+     "source": "经济观察网",
+     "zh": "西北—华东绿电联合交易正式启动"
+    },
+    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 18:30:00 GMT",
@@ -2457,36 +2465,28 @@
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
     },
     {
-     "title": "SAP explores at least 10,000 job cuts",
-     "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
-     "summary": "European software group is latest to restructure as AI hits software sector",
-     "source": "Financial Times",
-     "zh": "SAP explores at least 10,000 job cuts"
+     "title": "氢氧化锂期货首日成交53.3亿元",
+     "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
+     "summary": "11月26日，氢氧化锂期货在广州期货交易所（以下简称“广期所”）上市交易，这是继碳酸锂期货及期权上市后，广期所服务锂电行业推出的又一关键品种，预计新能源金属期货板块服务产业的精准性与有效性将得到进一步提升。 《证券日报》记者从广期所获悉，截至11月26日收盘，氢氧化锂期货成交量7.55万手，持仓量1.03万手，成交额53.3亿元，首日运行符合预期。 氢氧化锂是高镍三元正极材料的核心锂源，不仅决定了动力电...",
+     "source": "经济观察网",
+     "zh": "氢氧化锂期货首日成交53.3亿元"
     },
     {
-     "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
-     "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more"
+     "title": "我国将加快培育服务贸易发展新动能",
+     "link": "http://www.eeo.com.cn/2026/1127/1104587.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:14 +0800",
+     "summary": "到2035年，全面形成服务贸易高质量发展格局 11月26日，商务部等八部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络等7个方面部署25项重点任务。 同日，商务部新闻发言人何亚东在商务部例行新闻发布会上表示，...",
+     "source": "经济观察网",
+     "zh": "我国将加快培育服务贸易发展新动能"
     },
     {
-     "title": "Semiconductor chips are the new oil. Here&apos;s why",
-     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-     "pubDate": "Thu, 26 Nov 2026 17:52:15 GMT",
-     "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-     "source": "CNBC",
-     "zh": "Semiconductor chips are the new oil. Here&apos;s why"
-    },
-    {
-     "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
-     "link": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:49:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend"
+     "title": "三部门印发《新一代通信网建设实施方案》",
+     "link": "http://www.eeo.com.cn/2026/1127/1104586.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:13 +0800",
+     "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
+     "source": "经济观察网",
+     "zh": "三部门印发《新一代通信网建设实施方案》"
     }
    ]
   },

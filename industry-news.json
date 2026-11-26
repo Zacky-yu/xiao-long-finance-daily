@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 04:26:17",
+ "generated_at": "2026/11/27 04:32:17",
  "recent_days": 7,
  "industries": [
   {
@@ -425,6 +425,14 @@
      "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -487,14 +495,6 @@
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1425,30 +1425,6 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1471,14 +1447,6 @@
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1505,14 +1473,6 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1535,6 +1495,14 @@
      "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
      "source": "Payload",
      "zh": "Industry Shares Plan for Moon Base Power Tower"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -2001,6 +1969,14 @@
    "total": 7,
    "items": [
     {
+     "title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)",
+     "link": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price/",
+     "pubDate": "Thu, 26 Nov 2026 20:24:23 +0000",
+     "summary": "Update November 26, 2026 : AirPods Pro 3 are still in stock after selling out. They’ve dropped down to their new all-time low price of $149 . Happy Thanksgiving! Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with an incredible $100 discount to $149 shipped – their best price ev",
+     "source": "9to5Mac",
+     "zh": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)"
+    },
+    {
      "title": "1Password says it was hacked but users' vaults are safe",
      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
      "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
@@ -2225,14 +2201,6 @@
      "zh": "Best Thanksgiving deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs,  more"
     },
     {
-     "title": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more",
-     "link": "https://9to5mac.com/2026/11/26/best-apple-black-friday-thanksgiving-deals/",
-     "pubDate": "Thu, 26 Nov 2026 14:05:19 +0000",
-     "summary": "Amazon has now launched its massive Thanksgiving Black Friday sale and the deals are seriously wild on Apple gear. Not only do we have AirPods Pro 3 at $100 off the list price, but you can now score M5 MacBook Air is at a insane $400 off the list price, MacBook Neo is $100 off , the brand M6 MacBook",
-     "source": "9to5Mac",
-     "zh": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more"
-    },
-    {
      "title": "Deals: the best Android tablet and iPad offers,  plus Windows laptops and Macs too",
      "link": "https://www.gsmarena.com/deals_the_best_android_tablet_and_ipad_offers_plus_windows_laptops_and_macs_too-news-75649.php",
      "pubDate": "Thu, 26 Nov 2026 15:01:02 +0100",
@@ -2251,10 +2219,34 @@
     {
      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Thu, 26 Nov 2026 20:21:57 GMT",
+     "pubDate": "Thu, 26 Nov 2026 20:25:28 GMT",
      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
      "source": "CNBC",
      "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工",
+     "link": "https://wallstreetcn.com/articles/3786799",
+     "pubDate": "Fri, 27 Nov 2026 04:24:19 +0800",
+     "summary": "欧洲市值最高的软件公司SAP正筹划一轮至少1万人的裁员，以推动公司向AI时代转型，这家老牌企业软件巨头的组织与产品逻辑将随之重写。 11月26日，据彭博援引知情人士透露，德国思爱普Sap正在准备一项裁减至少1万个岗位的计划， 将影响其全球至少9%的员工，所有部门均被要求梳理可能存在裁撤空间的领域，产品与工程部门以及销售部门是重点。 据报道，作为此次变革的一部分， Sap领导层将继续重新设计其产品开发与销售模式。 Sap在一份声明中表示： Sap持续审查其组织架构，以确保与公司战略和客户需求保持一致。 对投资者而言，这意味着SAP可能再度启动一轮与2024年规模相当的重组，短期将带来费用计提与业",
+     "source": "华尔街见闻",
+     "zh": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工"
+    },
+    {
+     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律",
+     "link": "https://wallstreetcn.com/articles/3786793",
+     "pubDate": "Fri, 27 Nov 2026 04:23:59 +0800",
+     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 欧洲理事会主席Costa表示， 欧元区成员国同意由推荐的原西班牙央行行长de Cos出任下一届欧洲央行行长，同意对Boone、Brunnermeier出任欧洲央行官员的推荐。 这为1",
+     "source": "华尔街见闻",
+     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
+    },
+    {
+     "title": "Two Italians killed in drone strike on Kuwait",
+     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 20:23:24 GMT",
+     "summary": "Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month",
+     "source": "Financial Times",
+     "zh": "Two Italians killed in drone strike on Kuwait"
     },
     {
      "title": "全球燃油供应回升，炼油利润跌至数月低点",
@@ -2263,14 +2255,6 @@
      "summary": "伊朗战争对能源市场的冲击正在退潮。随着全球炼厂开足马力补充供应、中东出口恢复以及石油消费走弱，将原油加工为燃油的利润已跌至数月来最低水平，消费者、企业和央行由此获得了一丝暂时的通胀缓解。 柴油裂解价差是衡量炼油利润的核心指标。据彭博报道，亚洲和欧洲柴油裂解价差已逼近7月以来最低，美国汽油裂解价差回落至战前水平，欧洲汽油裂解价差则跌至2023年以来的三年低点。 裂解价差走弱意味着成品油价格下跌快于原油，但绝对价格仍显著高于战前。这一转变直接影响通胀预期与炼厂盈利。 燃油成本是全球经济和货币政策的关键变量，裂解价差回落有助于缓解价格压力；但对炼油企业而言，这也意味着战时高利润难以持续。 供应恢复与",
      "source": "华尔街见闻",
      "zh": "全球燃油供应回升，炼油利润跌至数月低点"
-    },
-    {
-     "title": "Two Italians killed in Iranian strike on Kuwait",
-     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 20:03:23 GMT",
-     "summary": "Workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
-     "source": "Financial Times",
-     "zh": "Two Italians killed in Iranian strike on Kuwait"
     },
     {
      "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
@@ -2319,6 +2303,14 @@
      "summary": "近期，继第二代“豆包手机”之后，华为等头部厂商相继入局 AI手机 赛道。受访专家认为，在 AI手机 这条新赛道上，单凭硬件参数已难以形成竞争优势，市场将转向操作系统、大模型与应用生态的系统性比拼。 11月20日，华为正式推出子品牌星芒及品牌首款产品OSTA O1 Pro，并将其定义为“鸿蒙 AI手机 ”。次日，星芒品牌总经理刘赫在社交平台发文称，最受欢迎的16GB运行内存+1TB机身存储版本已在全平台售罄，团队正协调产能、调整各版本的生产比例。 距上市已近一周，记者登录部分电商平台看到，这款手机16GB运行内存的高配版本仍显示无货，低配版本（16GB+512GB）也要12月3日才能发货。 今年",
      "source": "东方财富股票",
      "zh": "不拼硬件拼生态 AI手机市场“升温”"
+    },
+    {
+     "title": "危机频发之际，欧洲央行新领导层浮现：鸽派老将、金融学者与市场专家将如何应对下一场风暴？",
+     "link": "https://wallstreetcn.com/articles/3786802",
+     "pubDate": "Fri, 27 Nov 2026 03:22:53 +0800",
+     "summary": "欧洲央行正迎来一轮关键的人事更迭。经历了疫情、俄乌冲突以及数十年来最严重的通胀冲击后，欧洲货币政策制定者即将进入一个风险更加复杂的阶段：能源价格再度上涨、地缘政治分裂加剧、法国财政压力持续累积，欧元区经济增长韧性也面临考验。 彭博经济研究发布报告，欧洲央行正在成形的新一届领导层，将由西班牙前央行行长Pablo Hernández de Cos出任行长，普林斯顿大学教授Markus Brunnermeier担任首席经济学家，经合组织前首席经济学家Laurence Boone负责市场操作相关事务。 三人的专业背景分别覆盖央行政策、宏观金融研究和市场管理，可能使欧洲央行在应对未来危机时拥有更丰富的政",
+     "source": "华尔街见闻",
+     "zh": "危机频发之际，欧洲央行新领导层浮现：鸽派老将、金融学者与市场专家将如何应对下一场风暴？"
     },
     {
      "title": "欧央行10月会议纪要：通胀前景恶化，未来或需进一步加息",
@@ -2463,30 +2455,6 @@
      "summary": "在竞争策略上，第三代唐主要依靠大屏、音响这类可直观感知的配置，以及更大车身尺寸和更低的售价，叠加智驾安全责任兜底方案，来搭建一套更贴合普通家庭购车考量的智能体验逻辑。",
      "source": "经济观察网",
      "zh": "比亚迪第三代唐上市：主打大五座、大屏和长续航"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 16:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "小鹏副董事长透露：IRON机器人售价与电动汽车相当，最快明年Q2开卖",
-     "link": "https://wallstreetcn.com/articles/3786770",
-     "pubDate": "Thu, 26 Nov 2026 23:51:51 +0800",
-     "summary": "人形机器人商业化进程正在提速，行业竞争也开始从技术研发延伸至产品定价、量产能力和实际应用场景。 11月26日，据彭博报道，小鹏副董事长顾宏地周四在接受采访时透露， 小鹏IRON人形机器人售价将与电动汽车相当，可能接近电动汽车的售价中位数。 小鹏目前在售车型的价格区间约为11.98万元至30.98万元人民币。IRON计划于2027年第一季度作为零售助理接受训练，最快于第二季度面向公众开售。 顾宏地表示，小鹏的目标是2027年售出数万台人形机器人，并将这一年视为规模化和商业化的关键阶段。除硬件销售外，公司还看好软件升级、训练服务以及机器人数据基础设施带来的经常性收入机会。 这一商业化规划也反映出小",
-     "source": "华尔街见闻",
-     "zh": "小鹏副董事长透露：IRON机器人售价与电动汽车相当，最快明年Q2开卖"
     }
    ]
   },

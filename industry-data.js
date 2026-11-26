@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 02:52:18",
+ "generated_at": "2026/11/27 03:12:22",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
      "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
      "source": "TechCrunch AI",
-     "zh": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue"
+     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     },
     {
      "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
@@ -282,12 +282,28 @@ window.INDUSTRY_DATA = {
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
+     "title": "Eutelsat US wins Space Force CSCO satcom contract",
+     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
+     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
+    },
+    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
+    },
+    {
+     "title": "Fable: The Volatile CEO",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
+     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -314,6 +330,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
+     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
+     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
+     "source": "Electronics Weekly",
+     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
+    },
+    {
      "title": "DRAM contract prices stay high as supply-demand squeeze persists",
      "link": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
      "pubDate": "Thu, 26 Nov 2026 10:35:08 GMT",
@@ -328,6 +352,14 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers struggle to match its technology and production capabilities.",
      "source": "DIGITIMES",
      "zh": "Samsung Display may remain sole iPhone Duo panel supplier for five years"
+    },
+    {
+     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
+     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
     },
     {
      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
@@ -376,6 +408,22 @@ window.INDUSTRY_DATA = {
      "summary": "Delivery times for some equipment used to manufacture advanced chip substrates have stretched from six months to 30 months as manufacturers race to expand production to meet surging demand for artificial intelligence (AI) chips.",
      "source": "DIGITIMES",
      "zh": "Chip substrate makers face 30-month waits for key equipment"
+    },
+    {
+     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
+     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
+     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
+    },
+    {
+     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
+     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
+     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+     "link": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
+     "pubDate": "Thu, 26 Nov 2026 19:00:00 +0000",
+     "summary": "The Amazon Black Friday Sale is still going for a while longer, and we’ve got a mix of new appearances with longer-running Green Deals, while the massive majority of savings you can jump on being in our Thanksgiving Green Deals hub . First up, we spotted roborock’s latest RockMow Robot Lawn Mowers a",
+     "source": "Electrek",
+     "zh": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more"
+    },
+    {
      "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
      "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
      "pubDate": "Thu, 26 Nov 2026 17:33:21 +0000",
@@ -760,14 +768,6 @@ window.INDUSTRY_DATA = {
      "summary": "The up-and-coming EV charging network is halving prices across its network, just in time for Thanksgiving travel.",
      "source": "InsideEVs",
      "zh": "Ionna Slashes EV Charging Prices For Thanksgiving"
-    },
-    {
-     "title": "ChargePoint and PistenBully have a charging plan for ski resorts",
-     "link": "https://electrek.co/2026/11/25/chargepoint-and-pistenbully-have-a-charging-plan-for-ski-resorts/",
-     "pubDate": "Wed, 25 Nov 2026 22:25:23 +0000",
-     "summary": "The next EV to plug in at a ski resort might be the one that groomed your trail. ChargePoint has struck a deal with Kässbohrer, the German company behind PistenBully snow groomers, to bring charging to ski resorts and indoor ski facilities across Europe and North America. more…",
-     "source": "Electrek",
-     "zh": "ChargePoint and PistenBully have a charging plan for ski resorts"
     },
     {
      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+     "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+     "pubDate": "Thu, 26 Nov 2026 19:00:00 +0000",
+     "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+     "source": "STAT News",
+     "zh": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs"
+    },
+    {
      "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
      "link": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
@@ -1226,14 +1234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pharming pauses Ruconest production, warns of supply interruption"
     },
     {
-     "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
-     "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
-     "pubDate": "Wed, 25 Nov 2026 09:30:00 +0000",
-     "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
-     "source": "STAT News",
-     "zh": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach"
-    },
-    {
      "title": "Why Genomics Won’t Converge on One Technology",
      "link": "https://www.genengnews.com/topics/bioprocessing/why-genomics-wont-converge-on-one-technology/",
      "pubDate": "Tue, 24 Nov 2026 21:36:40 +0000",
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
+     "link": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
+     "pubDate": "Thu, 26 Nov 2026 19:00:00 +0000",
+     "summary": "The Dwarflab Dwarf Mini got four stars in our expert review for its simple operation and deep-sky astrophotography capability. This Black Friday deal brings it down to $339 and Space+ members could win one in our prize draw.",
+     "source": "Space.com",
+     "zh": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!"
+    },
+    {
      "title": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'",
      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales",
      "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "From night lights to educational home planetariums, I've rounded up the biggest Black Friday savings on star projectors, including a major saving on the coolest star projector I've ever tested.",
      "source": "Space.com",
      "zh": "Cloudy Thanksgiving spoiling your stargazing? These star projectors are on offer for Black Friday"
-    },
-    {
-     "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
-     "source": "Space.com",
-     "zh": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live"
     },
     {
      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+     "pubDate": "Thu, 26 Nov 2026 18:49:47 +0000",
+     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "Ask HN: How do you find meaning of life at 41?",
+     "link": "https://news.ycombinator.com/item?id=50657957",
+     "pubDate": "Thu, 26 Nov 2026 18:14:53 +0000",
+     "summary": "Happy Thanksgiving! This question crossed my mind in the morning. It feels like I have seen pretty much everything under the Sun. I have modest house (still renting), small kids, a okayish job. I spent time on daily activities and occassionally on long walks. The progress with AI and impact on Softw",
+     "source": "Hacker News",
+     "zh": "Ask HN: How do you find meaning of life at 41?"
+    },
+    {
      "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
      "link": "https://www.techmeme.com/261126/p23#a261126p23",
      "pubDate": "Thu, 26 Nov 2026 13:05:38 -0500",
@@ -1770,18 +1786,10 @@ window.INDUSTRY_DATA = {
      "zh": "Ford unveils the GT41 as it hopes to win Le Mans again"
     },
     {
-     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-     "pubDate": "Thu, 26 Nov 2026 17:57:25 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
-    },
-    {
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 30 # Comments: 5",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 41 # Comments: 11",
      "source": "Hacker News",
      "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
     },
@@ -1789,9 +1797,17 @@ window.INDUSTRY_DATA = {
      "title": "YouTube Ad Punisher – Bypass anti-adblock",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 39 # Comments: 46",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 42 # Comments: 54",
      "source": "Hacker News",
      "zh": "YouTube Ad Punisher – Bypass anti-adblock"
+    },
+    {
+     "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+     "link": "https://github.com/deepseek-ai/deepseek-math",
+     "pubDate": "Thu, 26 Nov 2026 17:21:14 +0000",
+     "summary": "Article URL: https://github.com/deepseek-ai/deepseek-math Comments URL: https://news.ycombinator.com/item?id=50657355 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning"
     },
     {
      "title": "欧洲电商巨头，集体涌向二手市场",
@@ -1805,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Tracking Diseases Cured by AI",
      "link": "https://diseasescuredbyai.com/",
      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
-     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 169 # Comments: 83",
+     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 221 # Comments: 115",
      "source": "Hacker News",
      "zh": "Tracking Diseases Cured by AI"
     },
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 78 # Comments: 24",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 88 # Comments: 26",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1824,22 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
      "source": "TechCrunch",
      "zh": "A month with the iPhone Duo has changed how I use my phone"
-    },
-    {
-     "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-     "link": "https://github.com/rxliuli/sim-drop",
-     "pubDate": "Thu, 26 Nov 2026 16:51:38 +0000",
-     "summary": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto t",
-     "source": "Hacker News",
-     "zh": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar"
-    },
-    {
-     "title": "NP_R ≠ PAR_R",
-     "link": "https://github.com/samueleverett01/bss-permanent-separations",
-     "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
-     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 85 # Comments: 82",
-     "source": "Hacker News",
-     "zh": "NP_R ≠ PAR_R"
     },
     {
      "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
@@ -2002,6 +2002,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Pixel users report broken always-on display in Android Auto after November update",
+     "link": "https://www.androidauthority.com/pixel-android-auto-aod-bug-3740588/",
+     "pubDate": "Thu, 26 Nov 2026 18:55:33 +0000",
+     "summary": "Even the newest Pixel phones aren't spared.",
+     "source": "Android Authority",
+     "zh": "Pixel users report broken always-on display in Android Auto after November update"
+    },
+    {
      "title": "Throwback Thursday: Canon’s 2006 PowerShot G7, the only G camera without Raw",
      "link": "https://www.dpreview.com/articles/throwback-thursday-canons-2006-powershot-g7-the-only-g-camera-without-raw/",
      "pubDate": "Thu, 26 Nov 2026 18:23:52 +0000",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on"
     },
     {
-     "title": "Best Black Friday headphone deals: Sony, Bose, AirPods, and more",
-     "link": "https://www.androidauthority.com/best-black-friday-headphone-deals-3740536/",
-     "pubDate": "Thu, 26 Nov 2026 15:36:55 +0000",
-     "summary": "Save up to $160 on headphones and earbuds from Sony, Bose, Apple, Samsung, and more with these Black Friday deals.",
-     "source": "Android Authority",
-     "zh": "Best Black Friday headphone deals: Sony, Bose, AirPods, and more"
-    },
-    {
      "title": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time",
      "link": "https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/",
      "pubDate": "Thu, 26 Nov 2026 15:36:19 +0000",
@@ -2249,6 +2249,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
+     "link": "https://seekingalpha.com/news/4676908-sierra-madre-targets-1200-to-1500-tonnes-per-day-by-q3-next-year-while-advancing-30000-meter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 14:02:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling"
+    },
+    {
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 19:00:00 GMT",
+     "summary": "“Retirement is a financial status, not an age.”",
+     "source": "MarketWatch",
+     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+    },
+    {
+     "title": "币安表示 我们的提现恢复工作已完成 10月安全事件导致的提现暂停已全面解除",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941011775.html",
+     "pubDate": "Fri, 27 Nov 2026 02:50:51 +0800",
+     "summary": "币安表示，我们的提现恢复工作已完成，10月安全事件导致的提现暂停已全面解除。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "币安表示 我们的提现恢复工作已完成 10月安全事件导致的提现暂停已全面解除"
+    },
+    {
+     "title": "币安表示，提现恢复工作已完成，10月安全事件导致的提现暂停已全面解除",
+     "link": "http://stock.eastmoney.com/news/1439,202611273941011860.html",
+     "pubDate": "Fri, 27 Nov 2026 02:50:17 +0800",
+     "summary": "币安表示，提现恢复工作已完成，10月安全事件导致的提现暂停已全面解除。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "币安表示，提现恢复工作已完成，10月安全事件导致的提现暂停已全面解除"
+    },
+    {
+     "title": "公募深耕ESG投资 打通长期资金入市通道",
+     "link": "http://fund.eastmoney.com/news/11246,202611273941007697.html",
+     "pubDate": "Fri, 27 Nov 2026 02:49:43 +0800",
+     "summary": "近年来，公募基金行业积极围绕金融“五篇大文章”，推动绿色金融发展，持续践行可持续发展理念。从公司战略到投研体系，从产品矩阵到“积极股东”实践，再到面向未来的持续布局，环境、社会和公司治理（ESG）正由理念转化为可执行的投资标准与资金配置行动。 公募基金以专业投研识别长期价值，以产品承接居民财富、汇聚长期资本，以尽责管理推动上市公司改善治理，在“企业创造价值、金融发现价值、长期资金配置价值”的循环中，引导更多中长期资金流向可持续发展领域，实现环境效益、经济效益与投资者回报的价值共享。 ESG融入公募底层逻辑 ESG理念在公募行业的落地，首先体现为公司战略与投研体系的系统性升级。战略层面，可持续发",
+     "source": "东方财富股票",
+     "zh": "公募深耕ESG投资 打通长期资金入市通道"
+    },
     {
      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -2338,30 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普指责美国政府在中期选举前“蓄意”低报GDP增速 要求立即调查"
     },
     {
-     "title": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动",
-     "link": "http://finance.eastmoney.com/news/1356,202611273941008071.html",
-     "pubDate": "Fri, 27 Nov 2026 02:10:39 +0800",
-     "summary": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动"
-    },
-    {
-     "title": "《服务贸易发展“十五五”规划》发布 稳妥有序推动AI服务出海 增强金融保险出口竞争力",
-     "link": "http://finance.eastmoney.com/news/1352,202611273941007372.html",
-     "pubDate": "Fri, 27 Nov 2026 02:09:42 +0800",
-     "summary": "商务部等8部门日前联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），《规划》以“培育发展新动能”为主线，谋划重点任务，构建政策矩阵，培育“中国服务”品牌。 《规划》提出，到2030年，服务贸易规模稳步扩大，占外贸总额的比重进一步提升，服务贸易大国地位进一步稳固；贸易结构持续优化，知识密集型服务成为增长的重要引擎；国际竞争力显著提升，“中国服务”在全球价值链中地位攀升；制度环境更加完善。到2035年，全面形成服务贸易高质量发展格局，我国服务贸易发展规模和国际竞争力稳居全球前列。 《规划》首次从生产性服务和生活性服务两方面重点挖掘服务出口新增长点，强调贸易与产业的结合、与投资的联动、与消",
-     "source": "东方财富股票",
-     "zh": "《服务贸易发展“十五五”规划》发布 稳妥有序推动AI服务出海 增强金融保险出口竞争力"
-    },
-    {
-     "title": "创业板做市商评价标准征求意见 部分交易经手费可减免",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941007969.html",
-     "pubDate": "Fri, 27 Nov 2026 02:09:36 +0800",
-     "summary": "记者获悉，深交所近日就《深圳证券交易所创业板股票做市交易业务指南（征求意见稿）》（以下简称《指南》）向券商征求意见。《指南》对做市商评价作出规定。 根据《指南》，做市商评价包括股票做市月度评价与做市商年度 综合 评价。年度评价在月度评价的基础上进行，结果分为AA、A、B、C、D五档。根据评价结果，深交所对做市商进行适当的交易经手费减免和激励。据悉，目前已有20家券商在业务资格层面具备参与创业板做市的基础。 月度评价周期为上月21日至当月20日。为具体股票提供做市服务的首个月度评价周期内，做市不满15个交易日的做市商不参与当月月度评价。深交所每月根据对做市商的报价要求，对做市商为具体股票开展做市",
-     "source": "东方财富股票",
-     "zh": "创业板做市商评价标准征求意见 部分交易经手费可减免"
-    },
-    {
      "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
      "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend"
-    },
-    {
-     "title": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend",
-     "link": "https://seekingalpha.com/news/4676902-innovator-premium-income-15-buffer-etf-october-declares-0_1143-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:48:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend"
     },
     {
      "title": "Pablo Hernández de Cos wins race for ECB presidency",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 市场关注的核心在于De Cos领导下的政策取向。这位拥有经济学博士学位和法学学位的官员，曾任巴塞尔银行监管委员会主席， 外界普遍认为其在货币政策上比竞争对手、前荷兰央行行长Klaas",
      "source": "华尔街见闻",
      "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
-    },
-    {
-     "title": "Anthropic到底贵不贵？同一机构罕见多空互撕！",
-     "link": "https://wallstreetcn.com/articles/3786794",
-     "pubDate": "Thu, 26 Nov 2026 23:37:41 +0800",
-     "summary": "Anthropic上市后的股价剧烈震荡，令华尔街对其估值产生明显分歧，甚至同一家研究机构的两位分析师也给出了截然相反的投资建议。 11月26日，据彭博报道，独立研究机构Hedgeye Risk Management的两位分析师本周先后发布观点相反的报告。 通信与软件分析师Andrew Freedman给出92美元目标价，认为当前股价对长期投资者具有吸引力；全球科技分析师Felix Wang则建议客户做空，目标价仅为59美元。 Anthropic的IPO发行价为83美元。 两人的分歧迅速公开化。Wang于周二发布看空报告后，Freedman随即在社交媒体上划清界限，称自己“没有参与得出该决定的研",
-     "source": "华尔街见闻",
-     "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
     }
    ]
   },

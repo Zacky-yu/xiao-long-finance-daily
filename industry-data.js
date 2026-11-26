@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 20:31:57",
+ "generated_at": "2026/11/26 20:52:13",
  "recent_days": 7,
  "industries": [
   {
@@ -261,7 +261,7 @@ window.INDUSTRY_DATA = {
      "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
      "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
      "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
-     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It has announced it is sampling its LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle […] The post Microchip Ethernet TSN switches drive in-v",
+     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
      "source": "Electronics Weekly",
      "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
     },
@@ -368,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global […] The post Avnet Silica’s European semis outlook for 2027 appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Avnet Silica’s European semis outlook for 2027"
-    },
-    {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
      "source": "Semiconductor Today",
      "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 09:04:57 GMT",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
     }
    ]
   },
@@ -850,6 +850,38 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
+     "link": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
+     "pubDate": "Thu, 26 Nov 2026 12:49:04 +0000",
+     "summary": "India’s residential segment accounted for more than 95% of rooftop solar additions in the third quarter of 2026, driven by the government’s PM Surya Ghar program. Cumulative installed rooftop PV capacity reached 32 GW by the end of September. The post India adds 11.2 GW of rooftop PV capacity in fir",
+     "source": "pv magazine",
+     "zh": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026"
+    },
+    {
+     "title": "Estonian solar park energized with 55 MW/250 MWh battery",
+     "link": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+     "pubDate": "Thu, 26 Nov 2026 12:30:00 +0000",
+     "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar park energized with 55 MW/250 MWh battery appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Estonian solar park energized with 55 MW/250 MWh battery"
+    },
+    {
+     "title": "Oil Prices Rebound as Middle East Supply Fears Return",
+     "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+     "pubDate": "Thu, 26 Nov 2026 06:30:00 -0600",
+     "summary": "January WTI crude oil futures recovered from a three-month low this week as renewed concern over Middle East supply brought buyers back into the market. Prices had fallen early in the week as traders focused on the prospect of a global surplus. The selling slowed after WTI reached $79.07, and the ma",
+     "source": "OilPrice",
+     "zh": "Oil Prices Rebound as Middle East Supply Fears Return"
+    },
+    {
+     "title": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html",
+     "pubDate": "Thu, 26 Nov 2026 06:30:00 -0600",
+     "summary": "An LNG vessel has caught fire and exploded after hitting a naval mine in the Strait of Hormuz during an attempt to transit on a route deemed “illegal” by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said in the latest communication of a tanker incident in the chokepoint. The LNG carrier h",
+     "source": "OilPrice",
+     "zh": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz"
+    },
+    {
      "title": "Huawei launches Luterra S2 in Europe",
      "link": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
      "pubDate": "Thu, 26 Nov 2026 11:45:00 +0000",
@@ -922,22 +954,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia"
     },
     {
-     "title": "Chinese solar module maker Sunport files for bankruptcy restructuring",
-     "link": "https://www.pv-magazine.com/2026/11/26/chinese-solar-module-maker-sunport-files-for-bankruptcy-restructuring/",
-     "pubDate": "Thu, 26 Nov 2026 09:16:44 +0000",
-     "summary": "Sunport Power, a Chinese manufacturer specializing in metal wrap-through (MWT) solar technology, has filed for bankruptcy restructuring amid persistent overcapacity and falling module prices in China's PV industry. The post Chinese solar module maker Sunport files for bankruptcy restructuring appear",
-     "source": "pv magazine",
-     "zh": "Chinese solar module maker Sunport files for bankruptcy restructuring"
-    },
-    {
-     "title": "Researchers find solar-powered hydrogen rail system could achieve LCOH of $10.47/kg",
-     "link": "https://www.pv-magazine.com/2026/11/26/researchers-find-solar-powered-hydrogen-rail-system-could-achieve-lcoh-of-10-47-kg/",
-     "pubDate": "Thu, 26 Nov 2026 09:00:00 +0000",
-     "summary": "A UK study has explored the potential of combining agrivoltaics with green hydrogen production to decarbonize long-distance rail transport. The findings highlight the economic advantages of grid-connected solar generation over standalone hydrogen storage and rail-integrated PV systems. The post Rese",
-     "source": "pv magazine",
-     "zh": "Researchers find solar-powered hydrogen rail system could achieve LCOH of $10.47/kg"
-    },
-    {
      "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
      "pubDate": "Thu, 26 Nov 2026 02:30:00 -0600",
@@ -952,22 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Canada’s Enbridge is reportedly in talks with a group of Indigenous communities for the sale of a stake in its Line 3 pipeline network, according to the Globe and Mail, which cited unnamed sources. The sale could fetch over $1 billion (C$1.5 billion), the publication also said, adding that this woul",
      "source": "OilPrice",
      "zh": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities"
-    },
-    {
-     "title": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rallies-as-Hormuz-Mine-Strikes-Rattle-Global-Markets.html",
-     "pubDate": "Wed, 25 Nov 2026 23:18:59 -0600",
-     "summary": "Crude oil prices bounced back in early Asian trade on Thursday, climbing higher after fresh reports of tankers hitting mines in the Strait of Hormuz and the latest Yemeni Houthi attack on Saudi Arabia, which targeted a refinery. At the time of writing, Brent crude was trading at $95.30 per barrel, w",
-     "source": "OilPrice",
-     "zh": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets"
-    },
-    {
-     "title": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
-     "link": "https://oilprice.com/Energy/Energy-General/Labor-Shortages-Could-Derail-Canadas-Oil-and-Gas-Growth-Momentum.html",
-     "pubDate": "Wed, 25 Nov 2026 19:00:00 -0600",
-     "summary": "For the first time in years, the Canadian oil and gas services sector is looking at major upside potential and growth momentum over the long term as Canada expands its energy infrastructure to export oil and LNG to markets other than the United States. The undoubtedly brighter prospects for Canada’s",
-     "source": "OilPrice",
-     "zh": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum"
     },
     {
      "title": "Hybrids Are a Waypoint, Not the Destination",
@@ -1418,6 +1418,30 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1440,6 +1464,14 @@ window.INDUSTRY_DATA = {
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
+    },
+    {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1466,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
+     "title": "Progress MS-36 launches to ISS from Baikonur",
+     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
+     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Progress MS-36 launches to ISS from Baikonur"
+    },
+    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1490,28 +1530,12 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
-    },
-    {
-     "title": "The sweet spot for constellation size",
-     "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
-     "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
-     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "The sweet spot for constellation size"
-    },
-    {
-     "title": "Making the case for optical",
-     "link": "https://spacenews.com/making-the-case-for-optical/",
-     "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
-     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "Making the case for optical"
+     "title": "China details its path to a crewed Moon landing before 2030",
+     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
+     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "China details its path to a crewed Moon landing before 2030"
     }
    ]
   },
@@ -1730,6 +1754,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "雷神推出“CQ27F260”27 英寸显示器：2K 260Hz 超频，948.5 元",
+     "link": "https://www.ithome.com/1/033/080.htm",
+     "pubDate": "Thu, 26 Nov 2026 12:37:10 GMT",
+     "summary": "IT之家 11 月 26 日消息，雷神现已在京东上架型号为“CQ27F260”的 27 英寸显示器，该机主打 2K 260Hz，定价为 948.5 元。 该机配备一块 2560x1440 分辨率 260Hz 超频 Fast IPS 面板，提供 300 尼特峰值亮度，显示器 GtG 响应速度 1ms，覆盖 95% DCI-P3 和 99% sRGB 色域。显示器支架支持俯仰，显示器本体支持 VESA 壁挂，提供 HDMI 和 DP 接口。 京东 雷神“CQ27F260”显示器 948.5 元 直达链接",
+     "source": "IT之家",
+     "zh": "雷神推出“CQ27F260”27 英寸显示器：2K 260Hz 超频，948.5 元"
+    },
+    {
+     "title": "AI危机不是2008，而是2007年上半年",
+     "link": "https://www.huxiu.com/article/4908754.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 20:36:54 +0800",
+     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印 距离雷曼，还有一年半 1 有一种说法，美股在重演2000年的科网泡沫破灭的危机，我昨天的文章《距离互联网泡沫破裂只剩3个月，当时的人担心的却是一件小事》已经分析过，这两者之间有很大的差别； 还有一种说法，美股在重演2008年的金融危机，AI融资债券对应当年的次级债，我之前也写过文章《AI盛世下的暗雷，藏着下一个“次级债”危机》比较了两者的共同点。 不过，我的这篇文章，把AI基建跟楼市泡沫比较，其实并不恰当。房地产有投资属性，需求是涨出来的，房价越涨越要买房，泡沫会自我循环；而AI的token价格是实体经济的生产成本，需求是降价降出来的，泡沫不存",
+     "source": "虎嗅",
+     "zh": "AI危机不是2008，而是2007年上半年"
+    },
+    {
+     "title": "宾利首款纯电车型 Torcal 发光格栅细节公布：76 颗钻石元件 +202 颗 LED",
+     "link": "https://www.ithome.com/1/033/079.htm",
+     "pubDate": "Thu, 26 Nov 2026 12:36:27 GMT",
+     "summary": "IT之家 11 月 26 日消息，宾利公布了 Torcal 发光格栅的细节，该车是宾利首款纯电车型。前格栅由 76 个独立加工成型的钻石形元件组成。夜间，超过 26 万个激光钻孔的微孔以及藏在表面之下的 202 颗 LED 会让整个设计亮起来。 IT之家注意到，夺目的格栅之外，还搭配了一套全新的大灯方案，配备 Micro LED 投影模块，可对光束进行更精确的控制。这套新灯组在克鲁（Crewe）设计完成，对宾利最具辨识度的设计特征之一作出了全新的诠释。 车头一直是宾利最具辨识度的部分之一。Torcal 在此基础上继续延伸，从欧陆 T（Continental T）的格栅中汲取灵感，同时赋予其彻底",
+     "source": "IT之家",
+     "zh": "宾利首款纯电车型 Torcal 发光格栅细节公布：76 颗钻石元件 +202 颗 LED"
+    },
+    {
+     "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+     "link": "https://www.techmeme.com/261126/p14#a261126p14",
+     "pubDate": "Thu, 26 Nov 2026 07:35:21 -0500",
+     "summary": "Financial Times : Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds &nbsp; &mdash;&nbsp; Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for next-generatio",
+     "source": "Techmeme",
+     "zh": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)"
+    },
+    {
+     "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+     "link": "https://www.wired.com/gallery/best-office-chairs/",
+     "pubDate": "Thu, 26 Nov 2026 12:35:00 +0000",
+     "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+     "source": "WIRED",
+     "zh": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them"
+    },
+    {
+     "title": "消息称育碧正大力推动将生成式 AI 深度融入游戏开发流程，项目若未引入 AI 需申报原因",
+     "link": "https://www.ithome.com/1/033/078.htm",
+     "pubDate": "Thu, 26 Nov 2026 12:32:50 GMT",
+     "summary": "IT之家 11 月 26 日消息，据外媒 Vertical Slice 报道，育碧正在大力推动生成式 AI 深度融入游戏开发流程，如今公司团队在提交新游戏项目提案时，必须说明生成式 AI 能够如何帮助开发游戏，如果团队不打算使用生成式 AI，则需要向公司高层明确解释原因。 多名员工透露， 如果某个游戏项目提案没有涉及生成式 AI，同时给予高管的理由不能够让人信服，就很难获得批准 。 还有匿名员工表示：“公司告诉我们，使用 AI 能够提高小型、精简且灵活的团队提交项目提案的速度。管理层希望团队能够快速推进、反复迭代，并及时放弃不合适的项目，从而筛选出真正有潜力的创意。” 过去一年多以来，育碧一直",
+     "source": "IT之家",
+     "zh": "消息称育碧正大力推动将生成式 AI 深度融入游戏开发流程，项目若未引入 AI 需申报原因"
+    },
+    {
+     "title": "信邦智能拟斥28.56亿“蛇吞象”，英迪芯微第一大股东退出套现9.61亿",
+     "link": "https://www.tmtpost.com/8219524.html",
+     "pubDate": "Thu, 26 Nov 2026 20:29:58 +0800",
+     "summary": "一场各取所需的双向奔赴。",
+     "source": "钛媒体",
+     "zh": "信邦智能拟斥28.56亿“蛇吞象”，英迪芯微第一大股东退出套现9.61亿"
+    },
+    {
+     "title": "今世缘：轻伤能治，内伤难医",
+     "link": "https://www.huxiu.com/article/4908746.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 20:28:22 +0800",
+     "summary": "出品 | 妙投APP 作者 | 段明珠 编辑 | 丁萍 头图 | AI生成 只看财报，今世缘在这轮白酒调整里只受了轻伤。 2025年，今世缘营收为101.81亿元、同比下滑11.81%，归母净利为26.04亿元、同比下滑23.69%；2026年前三季度营收为86.66亿元、同比跌幅收窄到2.43%，净利25.03亿元，与去年同期几乎持平。同期，其最直接的区域对手洋河回撤深得多。 （数据来源：WIND；图片来源：AI制图） 于是市场普遍认为今世缘更抗跌。但这只对了一半。今世缘确实更稳，利润基本守住，经营现金流21.26亿元也远好于洋河的1.16亿元；但其 现金流的改善主要来自节流，而非动销改善 ",
+     "source": "虎嗅",
+     "zh": "今世缘：轻伤能治，内伤难医"
+    },
+    {
+     "title": "79罐夜话AI：共识未成，创业者先“吵”起来了",
+     "link": "https://www.huxiu.com/article/4907700.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 20:27:29 +0800",
+     "summary": "前有&ldquo;乌镇夜话&rdquo;谈互联网风云激荡，今有&ldquo;79罐夜话&rdquo;聊AI创业非共识碰撞。 2026年11月21日，2026虎嗅F&M创新节夜间特别环节&mdash;&mdash;F&M之夜「共识前夜」在北京79罐举行。 超过200位AI创业者、核心业务负责人，以及安克创新创始人阳萌到场，围绕&ldquo;AI创业的共识与非共识&rdquo;展开了一场既正式又非正式的对话。原本议程清晰的夜话很快被创业者的自由发言带热，逐渐演变成一场观点密集交锋、创业者轮番抢麦的&ldquo;非共识现场&rdquo;。 什么时候该下注？ 活动由虎嗅创始人李岷与阳萌的一场对谈开场。",
+     "source": "虎嗅",
+     "zh": "79罐夜话AI：共识未成，创业者先“吵”起来了"
+    },
+    {
+     "title": "JBL Tune Buds 3 耳机上架：10mm 动圈单元、48 小时续航，729 元",
+     "link": "https://www.ithome.com/1/033/077.htm",
+     "pubDate": "Thu, 26 Nov 2026 12:26:29 GMT",
+     "summary": "IT之家 11 月 26 日消息，JBL Tune Buds 3 耳机现已在京东上架，该产品将于 12 月 3 日发售，首发价 729 元。 该耳机提供 IP54 认证，可选绿 / 黑 / 白三种半透明外观，单耳机重约 5.9g，充电盒重 40g。耳机内置 10mm 动圈单元，采用双层复合高分子振膜，经哈曼团队调校实现三频均衡与低失真。 该耳机搭载 Personi-Fi 3.0 个人音效，同时配备了四麦克风自适应降噪系统，可实时感知环境并减弱低频与中高频噪声。耳机配合充电盒总续航达 48 小时，支持“充电 10 分钟使用 4 小时”快充功能，IT之家附产品参数： 京东 JBL Tune Bud",
+     "source": "IT之家",
+     "zh": "JBL Tune Buds 3 耳机上架：10mm 动圈单元、48 小时续航，729 元"
+    },
+    {
+     "title": "全球首款搭载华为乾崑和宁德时代换电轿跑：东风奕派 EP7 官宣明日首发亮相",
+     "link": "https://www.ithome.com/1/033/075.htm",
+     "pubDate": "Thu, 26 Nov 2026 12:24:31 GMT",
+     "summary": "IT之家 11 月 26 日消息，东风奕派刚刚发布预告，宣布全球首款搭载华为乾崑和宁德时代换电轿跑 —— 东风奕派 EP7 明日 9 点首发亮相 。 据IT之家此前报道，东风奕派 EP7 采用全新设计语言，配备封闭式前格栅与星环式灯组，识别特征明确。车身侧面装配半隐藏式门把手以及双五辐轮圈。车尾搭载贯穿式尾灯，与前脸造型形成呼应。 规格方面，该车长宽高分别为 4910x1930x1478mm，轴距为 2920mm。车辆总质量为 2458kg，整备质量 2058kg。换电版本搭载由智新科技股份有限公司所生产型号为 TZ225XYH02 的单电机，最大功率为 215 千瓦。车辆匹配宁德时代（时代上",
+     "source": "IT之家",
+     "zh": "全球首款搭载华为乾崑和宁德时代换电轿跑：东风奕派 EP7 官宣明日首发亮相"
+    },
+    {
      "title": "未来汽车可以自己去换电池！华为乾崑智驾与宁德时代巧克力换电打通，智能补能解决方案发布",
      "link": "https://www.ithome.com/1/033/074.htm",
      "pubDate": "Thu, 26 Nov 2026 12:18:17 GMT",
@@ -1762,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Best MagSafe Wallets for Your Everyday Carry (2026)"
     },
     {
-     "title": "《GTA 6》耗电实测：电视开 HDR 竟比主机还费电",
-     "link": "https://www.ithome.com/1/033/073.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:09:14 GMT",
-     "summary": "IT之家 11 月 26 日消息，想在罪恶都市（Vice City）充分享受视觉盛宴？你可能得多掏一点电费。德国能源供应商 Rabot Energy 测算出了在四款主机上分别游玩 80 小时《GTA 6》所需的电费，并揭示了电视开启 HDR 模式会让电费增加多少。 《侠盗猎车手 VI》（Grand Theft Auto VI）自 11 月 19 日发售以来，数百万玩家已花费大量时间探索虚构的莱奥尼达州。 德国能源供应商 Rabot Energy 发布了一份分析，把现有的硬件功耗实测数据与游戏发售周末（11 月 19 日至 22 日）记录的德国电价结合起来。若在傍晚时段游玩 80 小时，搭配 5",
-     "source": "IT之家",
-     "zh": "《GTA 6》耗电实测：电视开 HDR 竟比主机还费电"
-    },
-    {
      "title": "X rolls out its first parental controls for users aged 13 to 17, defaulting teens to protected mode, restricting sensitive media, and disabling targeted ads (Steve Dent/Engadget)",
      "link": "https://www.techmeme.com/261126/p13#a261126p13",
      "pubDate": "Thu, 26 Nov 2026 07:05:23 -0500",
@@ -1778,44 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "X rolls out its first parental controls for users aged 13 to 17, defaulting teens to protected mode, restricting sensitive media, and disabling targeted ads (Steve Dent/Engadget)"
     },
     {
-     "title": "华为乾崑 App 2.0 版本发布：新增一键智能报险功能、云瞰升级 3.0 支持双向实时对讲等",
-     "link": "https://www.ithome.com/1/033/072.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:05:04 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志发布了华为乾崑 App 2.0 版本。 据介绍，华为乾崑 App 2.0 版本提供云瞰、智能报险、AI 助手、云畅听、达人 Club、乾智驾公开赛、乾智驾学堂、用户共创等功能。 其中，云瞰升级至 3.0 版本， 带来了远程回看、行车录像、远程查看、双向对讲等功能 ；新增智能报险功能， 支持一键直连保司，3 分钟快速报险 。 据IT之家了解，华为乾崑 App 是专为乾崑用户打造的交流互动平台，有社区、探索、ADS、展厅、爱车、商城六大核心板块；支持心愿单共创、答复车机语音助手反",
-     "source": "IT之家",
-     "zh": "华为乾崑 App 2.0 版本发布：新增一键智能报险功能、云瞰升级 3.0 支持双向实时对讲等"
-    },
-    {
-     "title": "京东快递轻松游服务宣布已覆盖北京市区超 2000 家酒店，可实现大兴机场行李直送",
-     "link": "https://www.ithome.com/1/033/071.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:02:45 GMT",
-     "summary": "IT之家 11 月 26 日消息，京东发文，宣布旗下京东快递轻松游服务已覆盖北京市区超 2000 家酒店，支持北京大兴机场与市区酒店之间的行李往返直送，4 小时内送达。 目前， 京东快递已在机场设置十多个服务点位，覆盖国际、国内以及出发、到达等不同场景 。旅客下飞机后，可以现场下单，将行李交给快递员后即可直接去逛景点、见客户，不必先绕去酒店放箱子。 此外，旅客在退房后，亦可在 App 内轻松游入口下单，将行李留在酒店前台，快递员会将行李揽收拍照，再将行李直送大兴机场。 后续，京东快递计划将轻松游从北京拓展至上海、广州、深圳、成都等城市。配送场景也将从机场与酒店往返，逐步扩展到高铁站、景区、商圈",
-     "source": "IT之家",
-     "zh": "京东快递轻松游服务宣布已覆盖北京市区超 2000 家酒店，可实现大兴机场行李直送"
-    },
-    {
-     "title": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型",
-     "link": "https://www.ithome.com/1/033/070.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:02:34 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，华为公司高级副总裁、引望公司 CEO 靳玉志在华为乾崑生态大会上披露，截至 11 月 25 日，华为乾崑总搭载车型品牌数量 26 个，总搭载车型数量 62 款，华为智能汽车解决方案部件发货量超过 1 亿件。 此外，乾崑智驾、鸿蒙座舱搭载量双双突破 200 万台，乾崑 App 用户超 280 万。今年前三季度乾崑 ADS 新车销量超 50 万台，城区领航辅助国内市场第一。 靳玉志明确乾崑智驾 ADS 5 为自动驾驶而来，可支撑 L3、L4 高阶自动驾驶落地，目前其云端算力达 60EFLOPS，累计辅助驾驶里程已突破 183 亿公里。 IT之家注意到，靳玉志此",
-     "source": "IT之家",
-     "zh": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型"
-    },
-    {
      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
      "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
      "pubDate": "Thu, 26 Nov 2026 12:00:14 +0000",
      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
      "source": "Ars Technica",
      "zh": "From minimalist to maximalist: Ars staffers show off their home offices"
-    },
-    {
-     "title": "Head of Software Engineering – NOX Metals",
-     "link": "https://news.ycombinator.com/item?id=50654353",
-     "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
-     "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Head of Software Engineering – NOX Metals"
     },
     {
      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
@@ -1850,38 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "世界的底层，可能只是幼儿园级别的规则"
     },
     {
-     "title": "AI“奥本海默”时刻：两家龙头公司员工已经不相信模型安全了",
-     "link": "https://www.huxiu.com/article/4908606.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 19:56:44 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：苗正，编辑：王靖，题图来自：AI生成 硅谷可能要出奥本海默了，而且这次同时来了两个。 媒体采访了20多位OpenAI和Anthropic的内部人士，得到的说法是，这两家公司尚未发布的模型，已经强到难以控制、甚至无法控制的地步，许多员工不再相信它们能被安全地发布。 这些模型的实力，外界已经见识过。 11月20日，Anthropic的数学家莱文特&middot;阿尔珀厄格 （Levent Alp&ouml;ge） 发文称，他通过一个未公开版本的Claude，完成了黎曼猜想的证明。Lean团队验证了莱文特的证明过程，随后宣布证明成立。 更早的10月6日，Ope",
-     "source": "虎嗅",
-     "zh": "AI“奥本海默”时刻：两家龙头公司员工已经不相信模型安全了"
-    },
-    {
-     "title": "OTA 实现一机六投：华为 XSCENE 车载激光投影官宣再升级，行业首创椅背精灵功能",
-     "link": "https://www.ithome.com/1/033/069.htm",
-     "pubDate": "Thu, 26 Nov 2026 11:56:04 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志宣布，HUAWEI XSCENE 车载激光投影再升级， 行业首创「椅背精灵」功能 。 据介绍，HUAWEI XSCENE 车载激光投影「椅背精灵」支持上车尊享迎宾、行车信息常显、下车安全提醒。 该功能已在全新一代问界 M9 车型上首发搭载 。 靳玉志称，HUAWEI XSCENE 车载激光投影通过 OTA 实现了 一机六投 。 参考IT之家此前报道，HUAWEI XSCENE 车载激光投影此前已支持 5 种投影模式， 分别为悬浮窗、单屏、双屏、全屏和露天影院 。",
-     "source": "IT之家",
-     "zh": "OTA 实现一机六投：华为 XSCENE 车载激光投影官宣再升级，行业首创椅背精灵功能"
-    },
-    {
-     "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
-     "link": "https://www.huxiu.com/article/4908687.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 19:51:37 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：APPSO，题图来自：AI生成&nbsp; ChatGPT 真要变成 WorkGPT 了。 昨天，OpenAI 宣布开始向部分 ChatGPT Pro 用户推送整合后的 Chat 和 Work 体验，却引发了不少付费用户的不满，甚至有人扬言退订。 根据 OpenAI 官方文档，从今年 12 月开始，Plus、Pro 和 Business 用户的高级推理对话、Work 智能体任务以及 Codex 编程任务将共享使用额度，仅 Instant 即时聊天模式不受影响。 图｜OpenAI 官方博客， https://help.openai.com/en/arti",
-     "source": "虎嗅",
-     "zh": "ChatGPT即将到来的大更新，为何让老用户集体破防"
-    },
-    {
-     "title": "暴跌7%，上市首日就破发，氢氧化锂为何生不逢时",
-     "link": "https://www.huxiu.com/article/4908745.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 19:46:12 +0800",
-     "summary": "本文来自微信公众号： 环球零碳 ，编辑：小澜，作者：环球零碳研究中心，原文标题：《暴跌7%！上市首日就破发，氢氧化锂为何生不逢时》 摘要： 氢氧化锂期货上市即破发，跌破7万，与碳酸锂价差一度拉大至万元级别。从碳酸锂到氢氧化锂，储能正在重新分配锂电产业链利润。 →这是《环球零碳》的第2221篇原创 11月26日，广州期货交易所，氢氧化锂期货正式挂牌。 从今天起，中国锂电产业链的两大主流正极路线，终于都被纳入了期货定价体系。 从下游技术路线上讲，碳酸锂对应磷酸铁锂，氢氧化锂对应高镍三元，前者早在2023年7月就上了市，后者等了三年多。 不过，一个新品种上市首日，没有迎来开门红。氢氧化锂挂牌基准价7",
-     "source": "虎嗅",
-     "zh": "暴跌7%，上市首日就破发，氢氧化锂为何生不逢时"
-    },
-    {
      "title": "ASML CEO Christophe Fouquet argues against cutting China off, warning that aggressive export controls will drive Beijing to accelerate domestic development (Reed Albergotti/Semafor)",
      "link": "https://www.techmeme.com/261126/p12#a261126p12",
      "pubDate": "Thu, 26 Nov 2026 06:45:05 -0500",
@@ -1912,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs &nbsp; &mdash;&nbsp; China's Z.AI has fallen behind schedule on its next flagship AI model, while rival Moonshot AI expects the in",
      "source": "Techmeme",
      "zh": "Sources: Z.ai&apos;s 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs&apos; distillation curbs (Reuters)"
-    },
-    {
-     "title": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
-     "link": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
-     "pubDate": "Thu, 26 Nov 2026 11:15:00 +0000",
-     "summary": "Everyone loves Thuma bed frames for their Japanese-style joinery, but they’re pricey. We tested six less expensive frames with similar quality and performance.",
-     "source": "WIRED",
-     "zh": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)"
     },
     {
      "title": "Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could \"personally contribute the most\" to bringing AI to the world at OpenAI (@trq212)",
@@ -1960,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "对中国创新药来说，与其花时间反驳一份国会报告，不如把它当成一份竞争指南，对手已经把考题写在上面了。",
      "source": "钛媒体",
      "zh": "美国众议院发布《美国处方》，对中国创新药意味着什么"
-    },
-    {
-     "title": "捅了秋游的窝，乐高乐园挤满了鸡娃的家长",
-     "link": "https://www.tmtpost.com/8219201.html",
-     "pubDate": "Thu, 26 Nov 2026 18:38:54 +0800",
-     "summary": "最紧要是父母满意。",
-     "source": "钛媒体",
-     "zh": "捅了秋游的窝，乐高乐园挤满了鸡娃的家长"
     }
    ]
   },
@@ -1977,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can now change YouTube’s app icon on your phone, but only if you pay for it",
+     "link": "https://www.androidauthority.com/youtube-new-app-icons-2-3739722/",
+     "pubDate": "Thu, 26 Nov 2026 12:32:04 +0000",
+     "summary": "Like other apps, YouTube limits custom icons to Premium subscribers.",
+     "source": "Android Authority",
+     "zh": "You can now change YouTube’s app icon on your phone, but only if you pay for it"
+    },
     {
      "title": "Fitbit Inspire 3 drops to $68.95 for Black Friday",
      "link": "https://www.androidauthority.com/fitbit-inspire-3-black-friday-deal-3739535/",
@@ -2000,6 +2032,14 @@ window.INDUSTRY_DATA = {
      "summary": "Most social media platforms have long had parental controls to give oversight into the ways teens are using the service and to ensure they get appropriate content in their feeds. X has finally joined the party. A parent or guardian now has control over six different aspects of the teen account, thou",
      "source": "9to5Mac",
      "zh": "X finally gets six parental controls for teen accounts, but kids must consent"
+    },
+    {
+     "title": "YouTube’s Black Friday sale could save you as much as $66 on streaming services",
+     "link": "https://9to5google.com/2026/11/26/youtube-streaming-black-friday-sales/",
+     "pubDate": "Thu, 26 Nov 2026 12:15:00 +0000",
+     "summary": "YouTube has some big Black Friday discounts on streaming services, offering you up to $66 off select streamers when you subscribe this week. more…",
+     "source": "9to5Google",
+     "zh": "YouTube’s Black Friday sale could save you as much as $66 on streaming services"
     },
     {
      "title": "Google is working on gamepad profiles for Android’s controller remapping feature",
@@ -2056,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Though it's unreasonable to expect it soon.",
      "source": "Android Authority",
      "zh": "HONOR could be cooking up a phone with three 200MP cameras"
-    },
-    {
-     "title": "Samsung’s Recompose tool could let you shift a photo’s perspective with AI in One UI 9.5",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-recompose-photo-assist-apk-teardown-3739691/",
-     "pubDate": "Thu, 26 Nov 2026 11:48:27 +0000",
-     "summary": "Code in One UI 9.5 Beta 1 reveals a Photo Assist tool that could convert still shots into 3D scenes to change camera angles.",
-     "source": "Android Authority",
-     "zh": "Samsung’s Recompose tool could let you shift a photo’s perspective with AI in One UI 9.5"
     },
     {
      "title": "vivo X500 series makes its India debut, here's the pricing",
@@ -2208,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s hard to believe we finally got a proper premium phone from Motorola again, and it feels a bit like the return of the Moto X. more…",
      "source": "9to5Google",
      "zh": "Motorola Signature 27 hands-on: Pure elegance on display"
-    },
-    {
-     "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
-     "link": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
-     "pubDate": "Wed, 25 Nov 2026 22:07:07 +0000",
-     "summary": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
-     "source": "Engadget",
-     "zh": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?"
     }
    ]
   },
@@ -2225,6 +2249,86 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+     "pubDate": "Thu, 26 Nov 2026 12:46:55 GMT",
+     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+     "source": "CNBC",
+     "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
+    },
+    {
+     "title": "【调研快报】芭田股份接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940813933.html",
+     "pubDate": "Thu, 26 Nov 2026 20:42:56 +0800",
+     "summary": "芭田股份 11月26日公告称， 11月26日 接待投资者 调研。 接待人员包括董事长 黄培钊,副总裁、董事会秘书 郑宇,财务总监 胡茂灵,独立董事 李伟相。 公司就以下问题进行了回复： 1、2026 年年度产量计划能完成吗? 答:您好,2026 年度尚未结束,完成情况需要年度结束后,关注公司年报披露信息。 2、公司 10 月 30 日回答投资者提问时称\"公司已经根据 290 万吨产能组织生产,本次验收引起停产工作,仅对月度和季度生产情况产生影响,对公司年度经营不产生重大影响。\"... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发",
+     "source": "东方财富股票",
+     "zh": "【调研快报】芭田股份接待投资者调研"
+    },
+    {
+     "title": "South Korea’s AI boom faces an earnings reality check",
+     "link": "https://seekingalpha.com/news/4676813-south-koreas-ai-boom-faces-an-earnings-reality-check?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 07:42:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "South Korea’s AI boom faces an earnings reality check"
+    },
+    {
+     "title": "【调研快报】科创新源接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日活动的广大投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940812428.html",
+     "pubDate": "Thu, 26 Nov 2026 20:40:55 +0800",
+     "summary": "科创新源 11月26日公告称， 11月26日 接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日活动的广大投资者 调研。 接待人员包括董事长、经理 周东,董事、董事会秘书、副经理 梁媛,财务负责人 谢迪。 公司就以下问题进行了回复： 1 贵司 数据中心 液冷部件订单受客户交付计划调整影响有所波动,未来在扩大客户覆盖面、提升产能利用率方面,是否考虑与拥有成熟液冷系统集成能力及海外客户资源的企业开展股权合作? 尊敬的投资者,您好! 在 数据中心 热管理业务领域,公司主要通过全资子公司深圳创源智热技术有限公司开展 数据中心 散热结构件业务,... 点击查看PDF原文 免责声明：本文基于AI",
+     "source": "东方财富股票",
+     "zh": "【调研快报】科创新源接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日活动的广大投资者调研"
+    },
+    {
+     "title": "美股期指预示“黑色星期五”高开 市场已经触底？",
+     "link": "http://stock.eastmoney.com/news/1436,202611263940812226.html",
+     "pubDate": "Thu, 26 Nov 2026 20:37:47 +0800",
+     "summary": "美国股市因感恩节休市之际，全球股市迎来反弹。投资者对美国新一轮关税措施的担忧有所缓解，加上前一交易日美股展现出的韧性，市场风险偏好出现改善。 据MarketWatch报道，本周四，E-mini标普500指数 期货 在 电子 交易中上涨0.5%，预示标普500指数可能在“黑色星期五”恢复交易后高开约35点。 亚洲市场方面，日本日经225指数上涨0.9%，韩国 综合 股价指数上涨0.3%。欧洲股市随后接力上涨，德国DAX指数盘中上涨2.2%，英国富时100指数上涨1.5%。 AJ Bell投资总监拉斯·莫尔德（Russ Mould）表示，特朗普政府新一轮关税措施并没有市场此前担忧的那么严厉，经历剧",
+     "source": "东方财富股票",
+     "zh": "美股期指预示“黑色星期五”高开 市场已经触底？"
+    },
+    {
+     "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+     "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 12:37:00 GMT",
+     "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+     "source": "MarketWatch",
+     "zh": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility"
+    },
+    {
+     "title": "【调研快报】隆利科技接待投资者网上提问调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940811287.html",
+     "pubDate": "Thu, 26 Nov 2026 20:36:58 +0800",
+     "summary": "隆利科技 11月26日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括董事长、总经理 吴新理,董事会秘书、副总经理 刘俊丽,财务总监 韩婷,独立董事 钱可元。 公司就以下问题进行了回复： 1、贵司已将Micro- LED 与光波导结合的AR眼镜光学系统列为近期研发重点,未来在加快产品产业化方面,是否考虑与具备成熟光波导设计及精密光学制造能力的企业开展深度产业协同 尊敬的投资者,您好!非常感谢您对公司AR眼镜光学系统研发进展的关注。 公司深耕显示行业多年,在光学设计、精密模具、精密加工等... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作",
+     "source": "东方财富股票",
+     "zh": "【调研快报】隆利科技接待投资者网上提问调研"
+    },
+    {
+     "title": "亚太药业拟回购2000万元至4000万元公司股份",
+     "link": "http://stock.eastmoney.com/news/11215,202611263940813861.html",
+     "pubDate": "Thu, 26 Nov 2026 20:36:26 +0800",
+     "summary": "11月26日晚间， 亚太药业 （002370）披露的股份回购方案显示，公司拟回购2000万元至4000万元公司股份，回购股份价格不超过6元/股。 对于回购股份的目的， 亚太药业 在公告中表示，基于对公司未来发展前景的信心和对公司价值的认可，为维护广大投资者利益、增强投资者信心，进一步完善公司长效激励机制，充分调动公司核心人员的积极性，促进公司持续稳定健康发展，在 综合 考虑公司经营情况、财务状况等基础上，公司拟使用自有资金及自筹资金（含股票回购专项贷款资金等）以集中竞价交易方式回购公司部分股份，用于实施公司 股权激励 或者员工持股计划。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "亚太药业拟回购2000万元至4000万元公司股份"
+    },
+    {
+     "title": "香港10月出口同比上升65.6%",
+     "link": "http://finance.eastmoney.com/news/1351,202611263940811358.html",
+     "pubDate": "Thu, 26 Nov 2026 20:35:38 +0800",
+     "summary": "香港特区政府统计处26日发布的对外商品贸易统计数字显示，受 人工智能 相关 电子 产品出口的强劲增长带动，2026年10月香港整体出口货值达7645亿港元，同比增长65.6%，增速进一步加快。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "香港10月出口同比上升65.6%"
+    },
+    {
+     "title": "Thanksgiving football fuels the NFL's hunt for a bigger TV deal",
+     "link": "https://seekingalpha.com/news/4676676-thanksgiving-football-fuels-the-nfls-hunt-for-a-bigger-tv-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 07:30:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Thanksgiving football fuels the NFL's hunt for a bigger TV deal"
+    },
     {
      "title": "StanChart’s Zodia Custody hit by breach, no funds moved: report",
      "link": "https://seekingalpha.com/news/4676812-stancharts-zodia-custody-hit-by-breach-no-funds-moved?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2240,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "证券日报网讯11月26日，国投电子发布公告称，公司于2026年11月25日召开第九届董事会第24次会议，审议通过《关于〈国投电子2027年度“提质增效重回报”行动方案〉的议案》《关于变更公司董事的议案》。 （编辑 吴越）",
      "source": "经济观察网",
      "zh": "国投电子：第九届董事会第24次会议决议公告"
+    },
+    {
+     "title": "国投电子：关于变更董事的公告",
+     "link": "http://www.eeo.com.cn/2026/1126/1104523.shtml",
+     "pubDate": "Thu, 26 Nov 2026 20:26:28 +0800",
+     "summary": "证券日报网讯11月26日，国投电子发布公告称，因工作调整原因，贺军先生拟不再担任公司第九届董事会非独立董事以及发展战略与投资委员会委员职务，在公司股东会选举产生新任董事前，贺军先生将继续担任董事以及发展战略与投资委员会委员职务。因工作调整原因，胡博文先生拟不再担任公司第九届董事会非独立董事、审计委员会委员以及发展战略与投资委员会委员职务，在公司股东会选举产生新任董事前，胡博文先生将继续担任董事、审...",
+     "source": "经济观察网",
+     "zh": "国投电子：关于变更董事的公告"
     },
     {
      "title": "百迈科：第二届董事会第十七次会议决议公告",
@@ -2264,6 +2376,14 @@ window.INDUSTRY_DATA = {
      "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
      "source": "CNBC",
      "zh": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to &apos;fish for bargains&apos;"
+    },
+    {
+     "title": "“美联储传声筒”：两周后 沃什或将反对2018年的自己",
+     "link": "http://stock.eastmoney.com/news/1768,202611263940805893.html",
+     "pubDate": "Thu, 26 Nov 2026 20:21:58 +0800",
+     "summary": "面对美股近来的剧烈震荡，美联储主席凯文·沃什在两周后的议息会议上，可能面对一个颇具戏剧性的问题：是否要反对2018年的自己？ 有“美联储传声筒”之称的记者尼克·蒂米劳斯在最新报道中指出，近来的科技股抛售正将沃什推向一道选择题：继续加息，兑现抗通胀承诺；还是听取他长期主张重视的市场信号，让资产价格下跌替美联储完成一部分紧缩任务。 目前， 市场仍普遍预计，美联储将在12月8日至9日的会议上再次加息 。但八年前，面对类似的市场跌势，沃什曾主张暂停收紧。 2018年12月， 在美股较高点下跌约11%之际，沃什与投资者斯坦利·德鲁肯米勒联名撰文，呼吁美联储暂缓收紧政策 ，担忧市场承压之际，美联储继续加息",
+     "source": "东方财富资讯",
+     "zh": "“美联储传声筒”：两周后 沃什或将反对2018年的自己"
     },
     {
      "title": "OPHC files for mixed shelf offering of $100M",
@@ -2298,52 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上"
     },
     {
-     "title": "【调研快报】雷柏科技接待线上参加本次\"2026年度深圳辖区上市公司投资者网上集体接待日\"的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940777516.html",
-     "pubDate": "Thu, 26 Nov 2026 19:56:51 +0800",
-     "summary": "雷柏科技 11月26日公告称， 11月26日 接待线上参加本次\"2026年度深圳辖区上市公司投资者网上集体接待日\"的投资者 调研。 接待人员包括董事长、总经理 曾浩,独立董事 李天明,刘勇,副总经理、董事会秘书 谢海波,财务总监 谢艳。 公司就以下问题进行了回复： 为进一步加强与投资者的互动交流,深圳 雷柏科技 股份有限公司(以下简称“ 雷柏科技 ”或“公司”)参加由深圳证监局指导、深圳上市公司协会与深圳市全景网络有限公司联合举办的“2026年度深圳辖区上市公司投资者网上集体接待日”活动,主要内容如下: 1、贵司正以无线电竞外设为核心拓展产品矩阵,未来在完善电竞... 点击查看PDF原文 免责",
-     "source": "东方财富股票",
-     "zh": "【调研快报】雷柏科技接待线上参加本次\"2026年度深圳辖区上市公司投资者网上集体接待日\"的投资者调研"
-    },
-    {
      "title": "Client data leaked in Zodia Custody security breach - Reuters",
      "link": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 26 Nov 2026 11:55:00 GMT",
      "summary": "Standard Chartered’s cryptocurrency custody firm was hit by a cyber attack earlier this week, compromising customer and employee data.",
      "source": "Finextra",
      "zh": "Client data leaked in Zodia Custody security breach - Reuters"
-    },
-    {
-     "title": "【调研快报】和而泰接待投资者线上提问调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940776696.html",
-     "pubDate": "Thu, 26 Nov 2026 19:54:56 +0800",
-     "summary": "和而泰 11月26日公告称， 11月26日 接待投资者线上提问 调研。 接待人员包括董事长、总裁 刘建伟,董事、高级副总裁、董事会秘书 罗珊珊,财务负责人 李竟,独立董事 孙进山。 公司就以下问题进行了回复： 1、请问罗总,Q4 汇率平稳,原材料小幅回落,青岛已经爬坡,对 和而泰 Q4 应该环比有明显改善。 回复:公司四季度业绩情况,请您关注公司后续披露的定期报告。 2、请问,贵公司上次接待日所说的持有港股 天岳先进 港股已经兑现说在财报中会体现,好像最近几次财报未体现? 答:您好,该笔港股财务投资在今年实... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据",
-     "source": "东方财富股票",
-     "zh": "【调研快报】和而泰接待投资者线上提问调研"
-    },
-    {
-     "title": "【调研快报】振邦智能接待采用网络远程方式进行,面向全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940775691.html",
-     "pubDate": "Thu, 26 Nov 2026 19:53:54 +0800",
-     "summary": "振邦智能 11月26日公告称， 11月26日 接待采用网络远程方式进行,面向全体投资者 调研。 接待人员包括副董事长 陈玮钰,董事、总经理 唐娟,独立董事 梁华权,独立董事 阎磊,独立董事 王泽深,副总经理、董事会秘书 夏群波,财务总监 魏子凡。 公司就以下问题进行了回复： 本次投资者关系活动的主要内容如下: 提问1:APEC 期间极壳的外骨骼得到国外领导夫人的高度关注,公司是否有给极壳提供产品吗?未来业绩如何展望? 回复:目前已为极壳提供外骨骼产品,业务正逐步放量,但现阶段该业务整体营收占比较小,对公司经营业绩影响有限。从行业看,外骨骼融合助力控制、动力输出、续航与... 点击查看PDF原文",
-     "source": "东方财富股票",
-     "zh": "【调研快报】振邦智能接待采用网络远程方式进行,面向全体投资者调研"
-    },
-    {
-     "title": "Stanley Black & Decker, Swire Pacific lead large-cap industrial stocks on quant ratings",
-     "link": "https://seekingalpha.com/news/4676808-stanley-black-decker-swire-pacific-lead-large-cap-industrial-stocks-on-quant-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 06:53:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stanley Black & Decker, Swire Pacific lead large-cap industrial stocks on quant ratings"
-    },
-    {
-     "title": "【调研快报】中国长城接待投资者网上提问调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940775518.html",
-     "pubDate": "Thu, 26 Nov 2026 19:52:56 +0800",
-     "summary": "中国长城 11月26日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括董事长 戴湘桃,董事会秘书 季健雄。 公司就以下问题进行了回复： 1、二级市场持续下跌,很多小股东深套,公司有没有回购、增持或者其他稳定市值的计划? 答:尊敬的投资者,您好。公司关注相关政策动向,并评估各类有助于优化资本结构、维护股东价值的合规工具。公司如有相关计划,将严格按照规定履行信息披露义务。感谢您的关注。 2、董事长您好,公司营收持续增长但依旧亏损,请... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台",
-     "source": "东方财富股票",
-     "zh": "【调研快报】中国长城接待投资者网上提问调研"
     },
     {
      "title": "通则康威：关于续聘2026年度会计师事务所的公告",
@@ -2370,44 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "通则康威：关于召开2026年第二次临时股东会的通知"
     },
     {
-     "title": "华为乾崑发布“星驰辅助驾驶” 2027年超10款车型量产上市",
-     "link": "http://finance.eastmoney.com/news/1358,202611263940777444.html",
-     "pubDate": "Thu, 26 Nov 2026 19:52:30 +0800",
-     "summary": "华为公司高级副总裁、引望公司CEO靳玉志今日宣布推出“星驰辅助驾驶”，未来乾崑智驾面向自动驾驶，星驰辅助驾驶则专注于辅助驾驶。据其透露，2027年超10款车型将搭载星驰辅助驾驶量产上市，其中包括东风奕派、深蓝 汽车 、上汽通用五菱、广汽传祺、北汽极狐等。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "华为乾崑发布“星驰辅助驾驶” 2027年超10款车型量产上市"
-    },
-    {
-     "title": "交由AI处理，软银宣布网络防御服务将完全自动化",
-     "link": "http://www.eeo.com.cn/2026/1126/1104502.shtml",
-     "pubDate": "Thu, 26 Nov 2026 19:52:13 +0800",
-     "summary": "中新经纬11月26日电 据日本共同社报道，日本软银公司面向企业的网络攻击应对服务将完全自动化。 该报道称，软银计划扩充现有的服务功能，把从发现系统漏洞、适用修复程序到动作确认的流程全部交由AI处理。在攻击手法不断升级的形势下，软银最快将在2026年度内导入无需人工介入的迅速应对机制。 在网络防御领域，日本电报电话公司和日本电气股份有限公司也推出了使用AI的服务，但尚未实现完全自动化。也有观点认为，...",
-     "source": "经济观察网",
-     "zh": "交由AI处理，软银宣布网络防御服务将完全自动化"
-    },
-    {
-     "title": "【调研快报】洲明科技接待投资者网上提问调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940775363.html",
-     "pubDate": "Thu, 26 Nov 2026 19:51:54 +0800",
-     "summary": "洲明科技 11月26日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括财务总监 王群斌,副总经理、董事会秘书 陈一帆。 公司就以下问题进行了回复： 公司就投资者在本次说明会中提出的问题进行了回复: 1、请问,公司在稳定股价方面准备采取什么措施,公司是否认为当前股价估值还是偏高? 答:您好!在稳定股价、维护投资者权益方面,公司主要举措包括:(1)持续夯实基本面,围绕 LED 显示与照明主业持续优化产品与客户结构,推进 Mini/Mic... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本",
-     "source": "东方财富股票",
-     "zh": "【调研快报】洲明科技接待投资者网上提问调研"
-    },
-    {
-     "title": "BOE proposes further 30-basis-point cut in UK bank capital requirements, flags AI risks",
-     "link": "https://seekingalpha.com/news/4676807-boe-proposes-further-30-basis-point-cut-in-uk-bank-capital-requirements-flags-ai-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 06:46:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BOE proposes further 30-basis-point cut in UK bank capital requirements, flags AI risks"
-    },
-    {
-     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-     "pubDate": "Thu, 26 Nov 2026 11:44:19 GMT",
-     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-     "source": "CNBC",
-     "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
+     "title": "摩根大通将贵州茅台评级上调至超配 目标价1800元",
+     "link": "http://finance.eastmoney.com/news/1345,202611263940775162.html",
+     "pubDate": "Thu, 26 Nov 2026 19:50:13 +0800",
+     "summary": "摩根大通 证券股份有限公司将 贵州茅台 评级上调至超配，目标价1,800元人民币，即上涨23%。 摩根大通 分析师Jessie Xu之前的评级为中性。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "摩根大通将贵州茅台评级上调至超配 目标价1800元"
     },
     {
      "title": "美银2027年七大交易：上半年做多美元、做空美债，下半年转战新兴市场.......",
@@ -2416,6 +2464,14 @@ window.INDUSTRY_DATA = {
      "summary": "据追风交易台，美银全球研究部在11月25日发布的《Liquid Insight》报告中给出2027年七大交易构想， 核心判断是“双速世界”：上半年美国例外论延续、AI投资韧性犹存、通胀黏性使美联储紧缩时间超出市场预期，美元与美债收益率面临上行风险；下半年随着美联储见顶、AI资本开支放缓、能源价格回落，交易主线转向收益率下行与新兴市场 。报告由Oliver Levingston等策略师撰写，覆盖G10外汇、G10利率与新兴市场三大板块。 报告最鲜明的表态是“现在不是做空美元反弹的时候” 。美银认为，能源冲击触发了全球利率重定价 ，但更持久的故事是美国经济的相对韧性——活动数据稳健、AI相关投资强",
      "source": "华尔街见闻",
      "zh": "美银2027年七大交易：上半年做多美元、做空美债，下半年转战新兴市场......."
+    },
+    {
+     "title": "11月26日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611263940755962.html",
+     "pubDate": "Thu, 26 Nov 2026 19:32:23 +0800",
+     "summary": "沪深两市多家上市公司11月26日晚间发布公司公告，以下为重要公告汇总。 【品大事】 润阳科技 ：与武汉理工大学签署合作协议，共建可穿戴 电子 传感企校联合技术研究中心 润阳科技 (300920)11月26日公告，公司与武汉理工大学签署《 润阳科技 —武汉理工可穿戴 电子 传感企校联合技术研究中心合作协议》，双方达成共建“润阳科技-武汉理工可穿戴 电子 传感企校联合技术研究中心”的战略合作。重点提升发展可穿戴电子传感等产业开展系统的科学研究、新产品开发和成果转化工作；同时，公司聘请武汉理工大学化学化工学院樊李红教授为首席科学家。 宏川智慧 ：成为燧原指定S级经销商 宏川智慧 (002930)11",
+     "source": "东方财富资讯",
+     "zh": "11月26日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙",
@@ -2432,38 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "英国央行在释放银行业资本空间的同时，也为进一步放松监管划定了边界。尽管银行业持续要求降低资本约束，但监管层仍将金融稳定置于优先位置。 11月26日，据彭博报道， 英国央行周四公布银行资本框架审查的最终方案，拟将银行资本要求下调30个基点，通过调整Pillar 2A附加资本要求，释放约1000亿英镑的放贷能力。不过，央行警告，进一步大幅降低资本要求将危及金融稳定，并削弱银行体系吸收冲击的能力。 此次改革正值英国银行业要求改善竞争环境之际。随着美国加快银行业去监管进程，华尔街竞争对手有望从中受益，英国银行也希望降低资本约束，以增强放贷能力和股东回报。此前，银行业游说团体提出了比央行最终方案更激进的",
      "source": "华尔街见闻",
      "zh": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定"
-    },
-    {
-     "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-     "link": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
-     "pubDate": "Thu, 26 Nov 2026 11:17:39 GMT",
-     "summary": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
-     "source": "CNBC",
-     "zh": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning"
-    },
-    {
-     "title": "从美股到黄金、铜：全球大清算已近尾声？",
-     "link": "https://wallstreetcn.com/articles/3786775",
-     "pubDate": "Thu, 26 Nov 2026 18:55:05 +0800",
-     "summary": "市场正出现多个潜在触底信号。纳斯达克100指数、黄金和铜价在同一交易日相继出现大级别看涨锤形K线，近期持续抛售后，部分资产开始显现卖压衰竭迹象。与此同时， 高盛模型显示，系统性策略的抛售压力有望在未来数周逐步减弱，若股市企稳，12月初甚至可能转为温和买入。 当前市场仍处于高度紧张状态。VIX虽从盘中高点回落，但仍在28附近，叠加长假周末临近，投资者对冲需求依然高企。 高盛估计，系统性宏观策略过去一周已抛售约700亿美元全球股票，未来一周预计还将追加约1000亿美元卖盘。 不过，市场的关键变化在于卖压可能逐步见顶。高盛模型显示，在基准情景下，系统性卖出有望于12月初转为温和买入；与此同时，韩国半",
-     "source": "华尔街见闻",
-     "zh": "从美股到黄金、铜：全球大清算已近尾声？"
-    },
-    {
-     "title": "44% of British Gen Z men are victim to investment scams - Starling Bank",
-     "link": "https://www.finextra.com/newsarticle/48818/44-of-british-gen-z-men-are-victim-to-investment-scams---starling-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 26 Nov 2026 10:50:00 GMT",
-     "summary": "Research from Starling Bank found that 44% of Gen Z men in the UK have fallen for social media investment scams.",
-     "source": "Finextra",
-     "zh": "44% of British Gen Z men are victim to investment scams - Starling Bank"
-    },
-    {
-     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-     "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-     "pubDate": "Thu, 26 Nov 2026 10:45:45 GMT",
-     "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
-     "source": "CNBC",
-     "zh": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify"
     }
    ]
   },
@@ -2473,6 +2497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game",
+     "link": "https://www.livescience.com/products/optics/stars-in-your-eyes-these-are-the-best-black-friday-telescopes-smart-telescopes-and-binocular-deals-weve-found-to-raise-your-skywatching-game",
+     "pubDate": "Thu, 26 Nov 2026 12:33:31 +0000",
+     "summary": "We've found the stargazing deals worth your money this Black Friday at retailers like Amazon and B&H, including some of our favorite models that we've personally tried and tested.",
+     "source": "Live Science",
+     "zh": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game"
+    },
     {
      "title": "Common supplements rival antibiotics in treating severe gum disease",
      "link": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
@@ -2560,14 +2592,6 @@ window.INDUSTRY_DATA = {
      "summary": "Scientists reported that an AI-designed protein can activate broken insulin receptors in lab mice, hinting at a potential new treatment for some forms of severe insulin resistance.",
      "source": "Live Science",
      "zh": "'Like designing a new key to open a defective lock': AI-designed protein tricks defective insulin receptors into working"
-    },
-    {
-     "title": "California braces for triple flooding threat as 'king tides' overlap with 'super' El Niño",
-     "link": "https://www.livescience.com/planet-earth/rivers-oceans/california-braces-for-triple-flooding-threat-as-king-tides-overlap-with-super-el-nino",
-     "pubDate": "Wed, 25 Nov 2026 17:52:45 +0000",
-     "summary": "Exceptionally high tides, El Niño-fueled conditions and abnormally warm water are converging on California's coast, with authorities urging residents to limit unnecessary travel this Thanksgiving.",
-     "source": "Live Science",
-     "zh": "California braces for triple flooding threat as 'king tides' overlap with 'super' El Niño"
     },
     {
      "title": "A cosmically close supernova may spill the stellar explosion’s secrets",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 02:32:01",
+ "generated_at": "2026/11/27 02:52:18",
  "recent_days": 7,
  "industries": [
   {
@@ -282,28 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
-     "title": "Eutelsat US wins Space Force CSCO satcom contract",
-     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
-     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
-    },
-    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
-    },
-    {
-     "title": "Fable: The Volatile CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
-     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -330,14 +314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
-     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
-     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
-     "source": "Electronics Weekly",
-     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
-    },
-    {
      "title": "DRAM contract prices stay high as supply-demand squeeze persists",
      "link": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
      "pubDate": "Thu, 26 Nov 2026 10:35:08 GMT",
@@ -352,14 +328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers struggle to match its technology and production capabilities.",
      "source": "DIGITIMES",
      "zh": "Samsung Display may remain sole iPhone Duo panel supplier for five years"
-    },
-    {
-     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
-     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
     },
     {
      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
@@ -408,22 +376,6 @@ window.INDUSTRY_DATA = {
      "summary": "Delivery times for some equipment used to manufacture advanced chip substrates have stretched from six months to 30 months as manufacturers race to expand production to meet surging demand for artificial intelligence (AI) chips.",
      "source": "DIGITIMES",
      "zh": "Chip substrate makers face 30-month waits for key equipment"
-    },
-    {
-     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
-     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
-     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
-    },
-    {
-     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
-     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
-     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 20 # Comments: 2",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 30 # Comments: 5",
      "source": "Hacker News",
      "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTube Ad Punisher – Bypass anti-adblock",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 34 # Comments: 36",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 39 # Comments: 46",
      "source": "Hacker News",
      "zh": "YouTube Ad Punisher – Bypass anti-adblock"
     },
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Tracking Diseases Cured by AI",
      "link": "https://diseasescuredbyai.com/",
      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
-     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 121 # Comments: 53",
+     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 169 # Comments: 83",
      "source": "Hacker News",
      "zh": "Tracking Diseases Cured by AI"
     },
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 73 # Comments: 17",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 78 # Comments: 24",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1826,10 +1826,18 @@ window.INDUSTRY_DATA = {
      "zh": "A month with the iPhone Duo has changed how I use my phone"
     },
     {
+     "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+     "link": "https://github.com/rxliuli/sim-drop",
+     "pubDate": "Thu, 26 Nov 2026 16:51:38 +0000",
+     "summary": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto t",
+     "source": "Hacker News",
+     "zh": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar"
+    },
+    {
      "title": "NP_R ≠ PAR_R",
      "link": "https://github.com/samueleverett01/bss-permanent-separations",
      "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
-     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 80 # Comments: 73",
+     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 85 # Comments: 82",
      "source": "Hacker News",
      "zh": "NP_R ≠ PAR_R"
     },
@@ -1848,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。 魏建军回应，长城目前还没有农业相关产品，会认真考虑。 就在两人见面的前一天，全球农机巨头约翰迪尔公布了2026财年业绩：全年净利润48.6亿美元，折合人民币约340亿元。 一边是利润空间持续受压的汽车工业，一边是能诞生数百亿元利润的农业装备市场。董明珠的建议，或许给中国汽车行业提供了一个值得探讨的新方向。 过去十年，中国车企在发动机、混动、电驱和智能驾驶上投入了海量研发资金。拖拉机同样需要",
      "source": "虎嗅",
      "zh": "拖拉机市场，装得下长城吗？"
-    },
-    {
-     "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-     "link": "https://news.ycombinator.com/item?id=50656763",
-     "pubDate": "Thu, 26 Nov 2026 16:16:41 +0000",
-     "summary": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://news.ycombinator.com/i",
-     "source": "Hacker News",
-     "zh": "Ask HN: Any courses/products by indie makers worth getting today?"
     },
     {
      "title": "从世界工厂到全球工程共同体：中国工业化的下一程",
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "The vivo X500 series currently consists of three models – the X500, X500 Pro and X500 Pro Max but the last few weeks saw some leaks about a fourth X500 series member – the X500s. Reliable tipster Digital Chat Station has now shared some additional details regarding the chipset at the helm of the upc",
      "source": "GSMArena",
      "zh": "vivo X500s rumored to launch with Dimensity 9600 Pro"
+    },
+    {
+     "title": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more",
+     "link": "https://9to5toys.com/2026/11/26/thanksgiving-android-app-deals-free/",
+     "pubDate": "Thu, 26 Nov 2026 18:18:40 +0000",
+     "summary": "The giant Amazon Thanksgiving sale is now live as part of its ongoing Black Friday event, alongside the 1-day Best Buy Thanksgiving Flash Sale , but it is time to take a look at today’s Android game and app deals. We have titles like Sands of Salzaar, Radiant: Guardians Of Light, Castle Ramble Premi",
+     "source": "9to5Google",
+     "zh": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more"
     },
     {
      "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s been a tough year for smartphone shipments as surging memory prices have led to substantial component price hikes and costlier devices. Counterpoint Research's latest report suggests we’re on track for a 14% decline in global smartphone shipments compared to the 2025 values. If these projection",
      "source": "GSMArena",
      "zh": "Counterpoint: Smartphone shipments on track for record drop in 2026"
-    },
-    {
-     "title": "YouTube’s Black Friday sale could save you as much as $66 on streaming services",
-     "link": "https://9to5google.com/2026/11/26/youtube-streaming-black-friday-sales/",
-     "pubDate": "Thu, 26 Nov 2026 12:15:00 +0000",
-     "summary": "YouTube has some big Black Friday discounts on streaming services, offering you up to $66 off select streamers when you subscribe this week. more…",
-     "source": "9to5Google",
-     "zh": "YouTube’s Black Friday sale could save you as much as $66 on streaming services"
     }
    ]
   },
@@ -2250,6 +2250,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+     "pubDate": "Thu, 26 Nov 2026 18:44:15 GMT",
+     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+     "source": "CNBC",
+     "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
+     "link": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 13:34:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
+    },
+    {
+     "title": "西北—华东绿电联合交易正式启动",
+     "link": "http://www.eeo.com.cn/2026/1127/1104589.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:31:09 +0800",
+     "summary": "本报讯 （记者杜雨萌）11月26日，西北—华东绿电联合交易启动会在北京召开。 西北—华东绿电联合交易是全国统一电力市场体系建设取得的又一项重要标志性成果。“一次报价、联合交易”以西北—华东绿电起步，经营主体通过一次申报量价曲线，同步形成跨省跨区、省内成交结果，架起两个区域之间一座“绿电桥梁”。联合交易既立足特高压直流通道物理联络条件，也兼顾两地资源禀赋互补的现实需求；既为西北开辟新能源消纳新出...",
+     "source": "经济观察网",
+     "zh": "西北—华东绿电联合交易正式启动"
+    },
+    {
+     "title": "SpaceX获准部署太空数据中心星座 新一轮太空算力竞赛开启",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941005219.html",
+     "pubDate": "Fri, 27 Nov 2026 02:30:48 +0800",
+     "summary": "全球 人工智能 算力基础设施建设正由地面向太空延伸。 当地时间11月25日，美国联邦 通信 委员会（FCC）宣布，附条件批准美国太空探索技术公司（ SpaceX ）部署至多100万颗卫星，组建名为“Starmind”的太空 数据中心 星座。这是美国监管机构首次为太空 数据中心 星座颁发此类许可。 多位受访人士认为，随着 人工智能 算力基础设施由地面向太空延伸，轨道资源、频谱资源及算力调度标准将成为新的产业竞争焦点。太空算力有望继 卫星互联网 之后，为 商业航天 开辟新的规模化应用场景，并带动能源、 半导体 等产业发展。 全球太空算力竞争格局正在形成 从卫星 通信 到在轨计算，全球科技企业的竞争",
+     "source": "东方财富股票",
+     "zh": "SpaceX获准部署太空数据中心星座 新一轮太空算力竞赛开启"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 18:30:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
      "pubDate": "Thu, 26 Nov 2026 18:27:43 GMT",
@@ -2258,20 +2298,76 @@ window.INDUSTRY_DATA = {
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
     },
     {
+     "title": "氢氧化锂期货首日成交53.3亿元",
+     "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
+     "summary": "11月26日，氢氧化锂期货在广州期货交易所（以下简称“广期所”）上市交易，这是继碳酸锂期货及期权上市后，广期所服务锂电行业推出的又一关键品种，预计新能源金属期货板块服务产业的精准性与有效性将得到进一步提升。 《证券日报》记者从广期所获悉，截至11月26日收盘，氢氧化锂期货成交量7.55万手，持仓量1.03万手，成交额53.3亿元，首日运行符合预期。 氢氧化锂是高镍三元正极材料的核心锂源，不仅决定了动力电...",
+     "source": "经济观察网",
+     "zh": "氢氧化锂期货首日成交53.3亿元"
+    },
+    {
+     "title": "我国将加快培育服务贸易发展新动能",
+     "link": "http://www.eeo.com.cn/2026/1127/1104587.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:14 +0800",
+     "summary": "到2035年，全面形成服务贸易高质量发展格局 11月26日，商务部等八部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络等7个方面部署25项重点任务。 同日，商务部新闻发言人何亚东在商务部例行新闻发布会上表示，...",
+     "source": "经济观察网",
+     "zh": "我国将加快培育服务贸易发展新动能"
+    },
+    {
+     "title": "三部门印发《新一代通信网建设实施方案》",
+     "link": "http://www.eeo.com.cn/2026/1127/1104586.shtml",
+     "pubDate": "Fri, 27 Nov 2026 02:26:13 +0800",
+     "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
+     "source": "经济观察网",
+     "zh": "三部门印发《新一代通信网建设实施方案》"
+    },
+    {
+     "title": "光伏行业并购升温 中小厂商整合提速",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941007053.html",
+     "pubDate": "Fri, 27 Nov 2026 02:24:56 +0800",
+     "summary": "进入11月，光伏行业并购、重整等资本运作步伐明显加快，产业资本及跨界投资人等相继入场，部分中小光伏厂商在这轮整合中被“吃掉”，产业资源向头部企业集中。 被收购产能是否真正退出，行业供需关系能否有效改善，备受业内关注。由于头部企业现金流尚有支撑，真正影响供需形势的大型兼并尚未看到眉目，业内对于明年即将落地实施的能耗新规抱有期待，但能否助推产能出清还有待检验。 中小光伏厂商整合提速 本月初，“光伏第一股” *ST亿晶 的预重整方案出现重大调整，原本以财务投资人身份入局的中润光能拟增加出资。根据新的补充协议，中润光能拟出资7.19亿元认购不低于3.995亿股，宁波瑞廉拟出资1亿元认购不低于5554.",
+     "source": "东方财富股票",
+     "zh": "光伏行业并购升温 中小厂商整合提速"
+    },
+    {
+     "title": "特朗普指责美国政府在中期选举前“蓄意”低报GDP增速 要求立即调查",
+     "link": "http://finance.eastmoney.com/news/1352,202611273941008851.html",
+     "pubDate": "Fri, 27 Nov 2026 02:15:17 +0800",
+     "summary": "感恩节当天，美国总统特朗普以三季度GDP增速由3.4%上修至4.3%为由，指责其领导的政府在中期选举前“蓄意”低报经济增长，要求立即调查，但尚未提供证据。 当地时间11月26日上午， 特朗普在佛罗里达州西棕榈滩的高尔夫球场发帖，称三季度GDP初值与修正值之间存在“重大差异”，指责美国商务部在选前故意发布错误的经济增长数据，并要求对此展开调查。 美国商务部下属的经济分析局（BEA）当地时间10月29日首次公布的数据显示，美国三季度GDP年化增长3.4%，高于市场预期，为一年来最快增速。 不到一周后，共和党在11月3日举行的中期选举中损失惨重，民主党拿下国会参众两院控制权。 11月25日，BEA发",
+     "source": "东方财富股票",
+     "zh": "特朗普指责美国政府在中期选举前“蓄意”低报GDP增速 要求立即调查"
+    },
+    {
+     "title": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动",
+     "link": "http://finance.eastmoney.com/news/1356,202611273941008071.html",
+     "pubDate": "Fri, 27 Nov 2026 02:10:39 +0800",
+     "summary": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "沙特吉赞炼油厂据悉因遇袭而暂时中断了一些活动"
+    },
+    {
+     "title": "《服务贸易发展“十五五”规划》发布 稳妥有序推动AI服务出海 增强金融保险出口竞争力",
+     "link": "http://finance.eastmoney.com/news/1352,202611273941007372.html",
+     "pubDate": "Fri, 27 Nov 2026 02:09:42 +0800",
+     "summary": "商务部等8部门日前联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），《规划》以“培育发展新动能”为主线，谋划重点任务，构建政策矩阵，培育“中国服务”品牌。 《规划》提出，到2030年，服务贸易规模稳步扩大，占外贸总额的比重进一步提升，服务贸易大国地位进一步稳固；贸易结构持续优化，知识密集型服务成为增长的重要引擎；国际竞争力显著提升，“中国服务”在全球价值链中地位攀升；制度环境更加完善。到2035年，全面形成服务贸易高质量发展格局，我国服务贸易发展规模和国际竞争力稳居全球前列。 《规划》首次从生产性服务和生活性服务两方面重点挖掘服务出口新增长点，强调贸易与产业的结合、与投资的联动、与消",
+     "source": "东方财富股票",
+     "zh": "《服务贸易发展“十五五”规划》发布 稳妥有序推动AI服务出海 增强金融保险出口竞争力"
+    },
+    {
+     "title": "创业板做市商评价标准征求意见 部分交易经手费可减免",
+     "link": "http://stock.eastmoney.com/news/11215,202611273941007969.html",
+     "pubDate": "Fri, 27 Nov 2026 02:09:36 +0800",
+     "summary": "记者获悉，深交所近日就《深圳证券交易所创业板股票做市交易业务指南（征求意见稿）》（以下简称《指南》）向券商征求意见。《指南》对做市商评价作出规定。 根据《指南》，做市商评价包括股票做市月度评价与做市商年度 综合 评价。年度评价在月度评价的基础上进行，结果分为AA、A、B、C、D五档。根据评价结果，深交所对做市商进行适当的交易经手费减免和激励。据悉，目前已有20家券商在业务资格层面具备参与创业板做市的基础。 月度评价周期为上月21日至当月20日。为具体股票提供做市服务的首个月度评价周期内，做市不满15个交易日的做市商不参与当月月度评价。深交所每月根据对做市商的报价要求，对做市商为具体股票开展做市",
+     "source": "东方财富股票",
+     "zh": "创业板做市商评价标准征求意见 部分交易经手费可减免"
+    },
+    {
      "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
      "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more"
-    },
-    {
-     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Thu, 26 Nov 2026 17:57:32 GMT",
-     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a historic mistake, claiming that it should be \"immediately investigated.\"",
-     "source": "CNBC",
-     "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
     },
     {
      "title": "Semiconductor chips are the new oil. Here&apos;s why",
@@ -2314,20 +2410,20 @@ window.INDUSTRY_DATA = {
      "zh": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend"
     },
     {
-     "title": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend",
-     "link": "https://seekingalpha.com/news/4676901-innovator-premium-income-15-buffer-etf-july-declares-0_1059-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:47:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend"
-    },
-    {
      "title": "Pablo Hernández de Cos wins race for ECB presidency",
      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 17:36:51 GMT",
      "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
      "source": "Financial Times",
      "zh": "Pablo Hernández de Cos wins race for ECB presidency"
+    },
+    {
+     "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+     "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
+     "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+     "source": "Financial Times",
+     "zh": "Andrew Bailey says unreleased AI models have raised encryption concerns"
     },
     {
      "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
@@ -2346,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "比亚迪第三代唐上市：主打大五座、大屏和长续航"
     },
     {
-     "title": "璞泰来赴港上市：负极业务跑输大盘，募资主要投向海外",
-     "link": "http://www.eeo.com.cn/2026/1127/1104580.shtml",
-     "pubDate": "Fri, 27 Nov 2026 00:38:21 +0800",
-     "summary": "璞泰来的海外业务不仅规模较小，利润也很有限。2025年，璞泰来境外业务的毛利率为12.25%，而境内业务毛利率为32.91%。",
-     "source": "经济观察网",
-     "zh": "璞泰来赴港上市：负极业务跑输大盘，募资主要投向海外"
-    },
-    {
-     "title": "速腾聚创车载激光雷达毛利率大降，机器人相关收入近半",
-     "link": "http://www.eeo.com.cn/2026/1127/1104579.shtml",
-     "pubDate": "Fri, 27 Nov 2026 00:38:01 +0800",
-     "summary": "据官方介绍，截至2026年上半年，速腾聚创已与超过3400家机器人公司达成合作，其中包括宇树科技、智元机器人、银河通用、众擎机器人、越疆机器人等近50家人形及四足机器人头部企业。",
-     "source": "经济观察网",
-     "zh": "速腾聚创车载激光雷达毛利率大降，机器人相关收入近半"
-    },
-    {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 16:30:00 GMT",
      "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
      "source": "MarketWatch",
      "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
-     "link": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 16:02:36 GMT",
-     "summary": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
-     "source": "Financial Times",
-     "zh": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB"
     },
     {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
@@ -2416,78 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic上市后的股价剧烈震荡，令华尔街对其估值产生明显分歧，甚至同一家研究机构的两位分析师也给出了截然相反的投资建议。 11月26日，据彭博报道，独立研究机构Hedgeye Risk Management的两位分析师本周先后发布观点相反的报告。 通信与软件分析师Andrew Freedman给出92美元目标价，认为当前股价对长期投资者具有吸引力；全球科技分析师Felix Wang则建议客户做空，目标价仅为59美元。 Anthropic的IPO发行价为83美元。 两人的分歧迅速公开化。Wang于周二发布看空报告后，Freedman随即在社交媒体上划清界限，称自己“没有参与得出该决定的研",
      "source": "华尔街见闻",
      "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
-    },
-    {
-     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
-     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-     "source": "MarketWatch",
-     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
-    },
-    {
-     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-     "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
-     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-     "source": "CNBC",
-     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
-    },
-    {
-     "title": "Bringing data to the Thanksgiving table",
-     "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 15:26:58 GMT",
-     "summary": "Does America really face a food affordability crisis?",
-     "source": "Financial Times",
-     "zh": "Bringing data to the Thanksgiving table"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
-    },
-    {
-     "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
-     "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 14:58:45 GMT",
-     "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
-     "source": "Financial Times",
-     "zh": "Hawkish Fed poised to raise rates despite stock market turmoil"
-    },
-    {
-     "title": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市",
-     "link": "http://www.eeo.com.cn/2026/1126/1104560.shtml",
-     "pubDate": "Thu, 26 Nov 2026 22:52:19 +0800",
-     "summary": "本文来源：时代财经 11月26日，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌——“星驰”。 据介绍，星驰辅助驾驶与乾崑智驾共享同一套技术底座，遵从同一套研发流程与车规级质量管理体系，技术同源、资源共享。明年，深蓝汽车、上汽通用五菱、北汽极狐、东风奕派等超10款新车将搭载星驰量产上市。 会上，靳玉志重申引望坚持“电子螺丝钉”定位，不造车，帮助车企造好车，...",
-     "source": "经济观察网",
-     "zh": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市"
-    },
-    {
-     "title": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响",
-     "link": "http://www.eeo.com.cn/2026/1126/1104558.shtml",
-     "pubDate": "Thu, 26 Nov 2026 22:41:00 +0800",
-     "summary": "在气候过冲下，传染病的传播和分布范围可能改变；气候对农业的冲击会导致粮食供应安全面临挑战；许多国家已经面临人口老龄化造成的医疗需求持续增加的挑战，气候变化会进一步加重压力，包括导致个人的慢性病加重。海平面上升导致一些人群的生计、住房受到影响。",
-     "source": "经济观察网",
-     "zh": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响"
-    },
-    {
-     "title": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标",
-     "link": "https://wallstreetcn.com/articles/3786792",
-     "pubDate": "Thu, 26 Nov 2026 22:39:53 +0800",
-     "summary": "OPEC+正考虑暂缓调整石油产量政策，将现行配额延续至明年1月。在中东冲突扰乱海湾原油供应、成员国产能评估迟迟未能落地以及联盟内部矛盾加深的背景下，维持现状成为各方应对不确定性的折中选择。 11月26日，据彭博援引两名知情代表， OPEC+正考虑将现行石油产量配额延续至2027年1月，以应对中东冲突及其他市场不确定性。这是联盟正在讨论的选项之一。OPEC+定于本周日举行线上会议，讨论2027年的新产量目标。 会议召开之际，成员国既需要为冲突可能结束后的供应恢复做准备，也必须处理联盟内部日益明显的利益分歧。 不过，延续配额对实际供需的影响可能十分有限。Energy Aspects创始人兼董事Am",
-     "source": "华尔街见闻",
-     "zh": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标"
-    },
-    {
-     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 14:35:00 GMT",
-     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-     "source": "MarketWatch",
-     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
     }
    ]
   },

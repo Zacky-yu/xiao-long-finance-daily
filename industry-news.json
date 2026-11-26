@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/26 23:32:05",
+ "generated_at": "2026/11/26 23:52:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,28 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
-     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
-     "source": "KDnuggets",
-     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
-    },
-    {
      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
      "link": "https://www.qbitai.com/2026/11/513021.html",
      "pubDate": "Thu, 26 Nov 2026 13:56:01 +0000",
      "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
      "source": "量子位",
      "zh": "381个AI直播冲刺证明P=NP！把GitHub干崩了"
-    },
-    {
-     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
-     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
-     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
-     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
-     "source": "KDnuggets",
-     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
     },
     {
      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
@@ -247,6 +231,22 @@
      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
      "source": "TechCrunch AI",
      "zh": "Want to buy your kid an AI toy this Christmas? Not in New York"
+    },
+    {
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
+     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+     "source": "TechCrunch AI",
+     "zh": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
+    },
+    {
+     "title": "Verifiable Social Reasoning for LLM Assistants",
+     "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+     "pubDate": "Wed, 25 Nov 2026 17:10:27 +0000",
+     "summary": "Generative AI",
+     "source": "Google Research",
+     "zh": "Verifiable Social Reasoning for LLM Assistants"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Fable: The Volatile CEO",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
+     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The Volatile CEO"
+    },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/californiadreams-261126.shtml",
@@ -383,14 +391,6 @@
      "summary": "Agile Analog, the customisable analogue IP specialist, has been selected by ASPEED Technology, the Taiwanese datacentre SoC specialist, to provide physical anti-tamper protection for the AST1080 PRoT SoC. A set […] The post Agile Analog delivers physical anti-tamper protection for datacentre chip ap",
      "source": "Electronics Weekly",
      "zh": "Agile Analog delivers physical anti-tamper protection for datacentre chip"
-    },
-    {
-     "title": "Avnet Silica’s European semis outlook for 2027",
-     "link": "https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:11:26 +0000",
-     "summary": "Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global […] The post Avnet Silica’s European semis outlook for 2027 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Avnet Silica’s European semis outlook for 2027"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Cold Snap Squeezes UK Spare Power Capacity",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Cold-Snap-Squeezes-UK-Spare-Power-Capacity.html",
+     "pubDate": "Thu, 26 Nov 2026 09:30:00 -0600",
+     "summary": "The UK faces a system margin shortfall of more than 2.7 gigawatts (GW) between noon and 8 p.m. local time on Thursday, as the cold snap is reducing the margin of spare capacity for the third day in a row. The UK’s National Energy System Operator (NESO) issued early on Thursday an electricity margin ",
+     "source": "OilPrice",
+     "zh": "Cold Snap Squeezes UK Spare Power Capacity"
+    },
+    {
      "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
      "link": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
      "pubDate": "Thu, 26 Nov 2026 15:03:14 +0000",
@@ -999,14 +1007,6 @@
      "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
      "source": "Energy Storage News",
      "zh": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain"
-    },
-    {
-     "title": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html",
-     "pubDate": "Thu, 26 Nov 2026 05:40:00 -0600",
-     "summary": "Turkmenistan expects a key section of a pipeline to begin supplying gas to Afghanistan’s third-largest city in early 2027, despite years of delays and hurdles in the $10-billion Turkmenistan–Afghanistan–Pakistan–India (TAPI) project, Turkmen officials have told Reuters. Turkmenistan is estimated to ",
-     "source": "OilPrice",
-     "zh": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline"
     },
     {
      "title": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+     "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+     "pubDate": "Thu, 26 Nov 2026 10:23:28 -0500",
+     "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+     "source": "BleepingComputer",
+     "zh": "Remus malware steals Gmail messages via fake Google Sheets extension"
+    },
+    {
      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
      "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530",
@@ -1697,14 +1705,6 @@
      "zh": "It's a Bot World. We're Just Living in It"
     },
     {
-     "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-     "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-     "pubDate": "Wed, 25 Nov 2026 10:00:10 -0500",
-     "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
-     "source": "BleepingComputer",
-     "zh": "More Pentests Without More Pentesters: Where AI Safely Helps"
-    },
-    {
      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
      "pubDate": "Wed, 25 Nov 2026 15:00:00 GMT",
@@ -1753,12 +1753,20 @@
    "total": 18,
    "items": [
     {
-     "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
-     "link": "https://www.ithome.com/1/033/131.htm",
-     "pubDate": "Thu, 26 Nov 2026 15:24:56 GMT",
-     "summary": "IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。 IT之家注意到，该局在公告中表示，五起攻击里有四起攻击得手，相关系统遭到入侵。遭到攻击的对象包含三家关键基础设施运营主体，据瑞士公共广播公司 SRF 介绍，它们分别是电力、供水以及通信服务供应商。 瑞士联邦网络安全局没有透露攻击的幕后主体信息。机构建议相关企业落实防护手段，其中包括定期开展网络安全检测。",
-     "source": "IT之家",
-     "zh": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵"
+     "title": "谄媚、信任与责任：从一起悲剧说起",
+     "link": "https://www.huxiu.com/article/4908799.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 23:45:45 +0800",
+     "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：经观观察家 在我看来，未来最好的AI顾问，未必是回答最迅速、最能让人安心的那个。它应当知道自己的能力从何处开始，也知道在什么地方需要停下；它应当能够解释复杂问题，也愿意承认无法判断；它应当帮助用户获得知识，同时保留外部专业人士提出异议的机会 2026年2月11日晚上，患有癫痫症的31岁华人工程师万女士向Chat－GPT提出了一个问题：头部的疼痛是否与发烧时的疼痛相似，只是疼痛的类型不同？ChatGPT迅速给出了肯定的回答，并告诉她，这种疼痛是她逐步减少抗癫痫药物拉莫三嗪用量过程中出现的正常现象，“并不危险”。在回答的最后，ChatGPT还表示愿意",
+     "source": "虎嗅",
+     "zh": "谄媚、信任与责任：从一起悲剧说起"
+    },
+    {
+     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+     "pubDate": "Thu, 26 Nov 2026 15:38:43 +0000",
+     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
     },
     {
      "title": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算",
@@ -1801,20 +1809,20 @@
      "zh": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台"
     },
     {
-     "title": "The 40 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-     "pubDate": "Thu, 26 Nov 2026 15:00:27 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The 40 Best Early Black Friday Deals: Our Ultimate Picks (2026)"
-    },
-    {
      "title": "因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售",
      "link": "https://www.ithome.com/1/033/126.htm",
      "pubDate": "Thu, 26 Nov 2026 14:59:17 GMT",
      "summary": "IT之家 11 月 26 日消息，据路透社报道，荷兰多家消费者与数字权益组织于周四向法院提出申请，要求叫停 Meta 旗下 AI 智能眼镜在荷兰的销售。原告方主张，这款眼镜允许佩戴者在他人不知情的情况下进行拍摄，违反了欧洲隐私法规。 这起民事诉讼仅针对荷兰市场，但阿姆斯特丹地区法院的简易判决有可能形成判例。目前，这类智能眼镜已经在全球范围内引发公众强烈反对，不少场所出台禁令，监管机构也陆续发出警示。 原告包括荷兰最大的消费者协会消费者联盟（Consumentenbond）、以及致力于打击网络性侵害的组织 Offlimits。他们表示，这款由 Meta 和雷朋母公司依视路陆逊梯卡（Essilor",
      "source": "IT之家",
      "zh": "因隐私问题，荷兰多个组织要求法院叫停 Meta 智能眼镜销售"
+    },
+    {
+     "title": "腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证",
+     "link": "https://www.ithome.com/1/033/125.htm",
+     "pubDate": "Thu, 26 Nov 2026 14:58:09 GMT",
+     "summary": "IT之家 11 月 26 日消息，腾讯今日宣布，11 月 25 日，腾讯生命科学实验室的一项 AI for Science 研究成果，正式以第一单位登上《Nature》主刊。 据介绍， 腾讯用 AI 挑战了药物研发领域的一个前沿难题：高活性双靶点治疗性多肽的从头设计 。通俗来说，就是不依赖已有的分子模板，从零开始设计一把能打开两把锁的“钥匙”，为复杂疾病的治疗提供新的可能。 围绕这个问题，团队经过长期探索，研发了 AI 平台 ORIDTP，将扩散生成模型、双目标强化学习、柔性多肽亲和力建模与生物学实验相结合，跑通了一套“计算设计 — 实验验证 — 反馈优化”的研发闭环。 ▲ ORIDTP 是一",
+     "source": "IT之家",
+     "zh": "腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证"
     },
     {
      "title": "自费五版对比：差价近十倍，MAGI-2能不能给2.5当平替？",
@@ -1844,7 +1852,7 @@
      "title": "Tell HN: Happy Thanksgiving",
      "link": "https://news.ycombinator.com/item?id=50655664",
      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
-     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 102 # Comments: 35",
+     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 138 # Comments: 44",
      "source": "Hacker News",
      "zh": "Tell HN: Happy Thanksgiving"
     },
@@ -1884,7 +1892,7 @@
      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
      "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
      "pubDate": "Thu, 26 Nov 2026 13:48:11 +0000",
-     "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 44 # Comments: 4",
+     "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 67 # Comments: 15",
      "source": "Hacker News",
      "zh": "45°C inlets just killed the chiller. Most people haven't noticed yet"
     },
@@ -1895,14 +1903,6 @@
      "summary": "Stephanie Findlay / Financial Times : Texas resumes data center permitting, approving permits for SpaceX's $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January &nbsp; &mdash;&nbsp; Incoming governor Gina Hinojosa pledged to rein in construction of new projects du",
      "source": "Techmeme",
      "zh": "Texas resumes data center permitting, approving permits for SpaceX&apos;s $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)"
-    },
-    {
-     "title": "48小时3笔亿元融资，具身智能不交“人形税”了？",
-     "link": "https://www.huxiu.com/article/4908774.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 21:33:13 +0800",
-     "summary": "本文来自微信公众号： 凤凰网科技 ，作者：凤凰网科技，编辑：董雨晴 摘要： 资本没有离开机器人，只是不支付“像人”的溢价。 48小时之内，3笔亿元融资闯入具身智能赛道。11月23日至24日，章鱼动力、傲意科技、英汉思动力融资消息落地。与此前不同，这三家公司分别做“手脑一体”、灵巧手和AI体育硬件，没有一家造通用双足人形机器人。另一边，IT桔子数据显示，10月赛道融资101.05亿元，不足6月峰值的三分之一。 显然，在具身智能这条赛道上，投资人开始回归理性，不愿再交“人型税”了，可以继续任性的，只有那些头部公司，充足的资金可以继续押注人形机器人的终局，后来者则必须拿出更多的订单、更清楚的场景，或",
-     "source": "虎嗅",
-     "zh": "48小时3笔亿元融资，具身智能不交“人形税”了？"
     },
     {
      "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
@@ -2001,6 +2001,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Best Black Friday headphone deals: Sony, Bose, AirPods, and more",
+     "link": "https://www.androidauthority.com/best-black-friday-headphone-deals-3740536/",
+     "pubDate": "Thu, 26 Nov 2026 15:36:55 +0000",
+     "summary": "Save up to $160 on headphones and earbuds from Sony, Bose, Apple, Samsung, and more with these Black Friday deals.",
+     "source": "Android Authority",
+     "zh": "Best Black Friday headphone deals: Sony, Bose, AirPods, and more"
+    },
+    {
+     "title": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time",
+     "link": "https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/",
+     "pubDate": "Thu, 26 Nov 2026 15:36:19 +0000",
+     "summary": "Motorola has been content with mid-grade haptics for years, but the Motorola Signature 27’s haptics rightfully upgrade the experience. more…",
+     "source": "9to5Google",
+     "zh": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time"
+    },
+    {
      "title": "TCL TAB 10 Gen 4 hits a record low under $130",
      "link": "https://www.androidauthority.com/tcl-tab-10-gen-4-black-friday-deal-3740501/",
      "pubDate": "Thu, 26 Nov 2026 15:10:17 +0000",
@@ -2071,14 +2087,6 @@
      "summary": "Amazon has now launched its massive Thanksgiving Black Friday sale and the deals are seriously wild on Apple gear. Not only do we have AirPods Pro 3 at $100 off the list price, but you can now score M5 MacBook Air is at a insane $400 off the list price, MacBook Neo is $100 off , the brand M6 MacBook",
      "source": "9to5Mac",
      "zh": "Best Apple Black Friday Thanksgiving deals: AirPods, MacBook, Apple Watch, AirTag 2, more"
-    },
-    {
-     "title": "Apple Watch Ultra 4 hits a record low with $149 off",
-     "link": "https://www.androidauthority.com/apple-watch-ultra-4-record-low-deal-3740499/",
-     "pubDate": "Thu, 26 Nov 2026 14:03:34 +0000",
-     "summary": "Apple's rugged cellular smartwatch is 19% off this Black Friday season, with satellite SOS and up to 50 hours of battery.",
-     "source": "Android Authority",
-     "zh": "Apple Watch Ultra 4 hits a record low with $149 off"
     },
     {
      "title": "Deals: the best Android tablet and iPad offers,  plus Windows laptops and Macs too",
@@ -2231,14 +2239,6 @@
      "summary": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
      "source": "Engadget",
      "zh": "New York state bans AI chatbot toys for kids"
-    },
-    {
-     "title": "我用AI做了一张两千年的中国历史地图",
-     "link": "https://sspai.com/post/117510",
-     "pubDate": "Thu, 26 Nov 2026 11:13:53 +0800",
-     "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
-     "source": "少数派",
-     "zh": "我用AI做了一张两千年的中国历史地图"
     }
    ]
   },
@@ -2249,6 +2249,86 @@
    "total": 13,
    "items": [
     {
+     "title": "Laurentian Bank of Canada PFD SHS SER 13 declares CAD 0.3872 dividend",
+     "link": "https://seekingalpha.com/news/4676825-laurentian-bank-of-canada-pfd-shs-ser-13-declares-cad-0_3872-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 10:48:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Laurentian Bank of Canada PFD SHS SER 13 declares CAD 0.3872 dividend"
+    },
+    {
+     "title": "特朗普边打高尔夫边斥责GDP数据造假，称此举是为了干扰中期选举",
+     "link": "https://wallstreetcn.com/articles/3786795",
+     "pubDate": "Thu, 26 Nov 2026 23:44:29 +0800",
+     "summary": "唐纳德·特朗普总统指责政府“蓄意”压低美国经济增长数据。他借一次常规的数据修订，毫无根据地指控此举是为了干扰选举。 特朗普在周四的社交媒体发文中指出，GDP数据显示经济在第三季度实现了4.3%的年化增长，而此前发布的预估值为3.4%，他表示两者存在“巨大差异”。 “刚刚有消息披露，中选前公布的经济‘真实数据’是假的，”他在没有提供任何证据的情况下说道。 “我要求立即对此事展开调查。这不是一个小错误，而是一个巨大的、蓄意的错误，”这位总统在发文中补充道。该帖文是美国感恩节假期当天上午，从他在西棕榈滩的高尔夫球场发出的。 长期以来，特朗普一直热衷于为选举失利寻找边缘化或阴谋论的解释，尽管他此前曾将",
+     "source": "华尔街见闻",
+     "zh": "特朗普边打高尔夫边斥责GDP数据造假，称此举是为了干扰中期选举"
+    },
+    {
+     "title": "空缺20个月，万亿市值煤炭龙头人事落定，张长岩当选中国神华董事长",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940990657.html",
+     "pubDate": "Thu, 26 Nov 2026 23:41:10 +0800",
+     "summary": "11月26日晚间， 中国神华 （601088.SH，股价53.00元，市值1.09万亿元）公告，当日公司第六届董事会第二十四次会议选举执行董事张长岩担任第六届董事会董事长；同日，张长岩因工作调整辞去总经理职务，辞任即日生效。 实际上，此前 中国神华 董事长一职已空缺20个月。2025年3月24日，公司披露，吕志韧因退休辞去董事长、执行董事职务，其战略与投资委员会主席、提名委员会委员、薪酬与考核委员会委员职务同时终止，“以上辞任即日生效”。此后20个月，董事会会议由张长岩召集并主持，2025年6月的年度股东周年大会亦由其主持。 张长岩当选董事长，同日辞任总经理 公告称，公司第六届董事会第二十四次",
+     "source": "东方财富股票",
+     "zh": "空缺20个月，万亿市值煤炭龙头人事落定，张长岩当选中国神华董事长"
+    },
+    {
+     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德 货币政策偏鸽 强调财政纪律",
+     "link": "http://finance.eastmoney.com/news/1351,202611263940989578.html",
+     "pubDate": "Thu, 26 Nov 2026 23:38:11 +0800",
+     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 市场关注的核心在于De Cos领导下的政策取向。这位拥有经济学博士学位和法学学位的官员，曾任巴塞尔 银行 监管委员会主席， 外界普遍认为其在货币政策上比竞争对手、前荷兰央行行长Kla",
+     "source": "东方财富股票",
+     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德 货币政策偏鸽 强调财政纪律"
+    },
+    {
+     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律",
+     "link": "https://wallstreetcn.com/articles/3786793",
+     "pubDate": "Thu, 26 Nov 2026 23:37:50 +0800",
+     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 市场关注的核心在于De Cos领导下的政策取向。这位拥有经济学博士学位和法学学位的官员，曾任巴塞尔银行监管委员会主席， 外界普遍认为其在货币政策上比竞争对手、前荷兰央行行长Klaas",
+     "source": "华尔街见闻",
+     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
+    },
+    {
+     "title": "Anthropic到底贵不贵？同一机构罕见多空互撕！",
+     "link": "https://wallstreetcn.com/articles/3786794",
+     "pubDate": "Thu, 26 Nov 2026 23:37:41 +0800",
+     "summary": "Anthropic上市后的股价剧烈震荡，令华尔街对其估值产生明显分歧，甚至同一家研究机构的两位分析师也给出了截然相反的投资建议。 11月26日，据彭博报道，独立研究机构Hedgeye Risk Management的两位分析师本周先后发布观点相反的报告。 通信与软件分析师Andrew Freedman给出92美元目标价，认为当前股价对长期投资者具有吸引力；全球科技分析师Felix Wang则建议客户做空，目标价仅为59美元。 Anthropic的IPO发行价为83美元。 两人的分歧迅速公开化。Wang于周二发布看空报告后，Freedman随即在社交媒体上划清界限，称自己“没有参与得出该决定的研",
+     "source": "华尔街见闻",
+     "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
+    },
+    {
+     "title": "阿联酋迪拜航空将恢复迪拜至特拉维夫航班",
+     "link": "http://finance.eastmoney.com/news/1351,202611263940988526.html",
+     "pubDate": "Thu, 26 Nov 2026 23:36:35 +0800",
+     "summary": "阿联酋迪拜航空公司26日宣布，将于12月3日起恢复迪拜国际 机场 至以色列特拉维夫本-古里安国际 机场 的直飞航班，相关航班已开放预订。 今年9月30日，载有以色列乘客的迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中发生安全事件。迪拜航空自当天起暂停飞往以色列的航班。 阿联酋检察机关10月9日公布的调查结果显示，迪拜航空FZ1073航班涉事阿曼籍副驾驶企图劫持飞机，并利用飞机对本-古里安国际 机场 航站楼发动自杀式袭击。这名副驾驶在驾驶舱内使用应急斧袭击机长，所幸该机组其他成员和乘客制止了袭击。飞机随后改降沙特阿拉伯塔布克机场并安全着陆。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "阿联酋迪拜航空将恢复迪拜至特拉维夫航班"
+    },
+    {
+     "title": "美国据悉将推迟针对欧洲军事存在的改革",
+     "link": "http://finance.eastmoney.com/news/1351,202611263940989625.html",
+     "pubDate": "Thu, 26 Nov 2026 23:36:24 +0800",
+     "summary": "美国据悉将推迟针对欧洲军事存在的改革。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国据悉将推迟针对欧洲军事存在的改革"
+    },
+    {
+     "title": "利好！精测电子子公司斩获近2亿元半导体前道量检测大单，三季度末半导体领域在手订单增逾一倍",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940988629.html",
+     "pubDate": "Thu, 26 Nov 2026 23:35:59 +0800",
+     "summary": "11月26日盘后， 精测电子 （300567.SZ，股价83.7元，市值234亿元）公告称，控股子公司近日签下 半导体 设备大单。上海精测 半导体 技术有限公司与客户签订销售合同，拟向对方出售 半导体 前道量检测设备，合同总金额达到1.998亿元。 本次交易属于日常经营行为，双方约定交付期限为订单生效后3至6个月内。当前半导体量检测赛道需求旺盛，公司半导体板块在手订单规模快速攀升，但受场地与产线承载能力约束，交付瓶颈与收入转化节奏成为市场关注焦点。 上海精测签订1.998亿元半导体前道设备订单 精测电子 披露了控股子公司的重大业务进展。控股子公司上海精测半导体技术有限公司近日与客户正式签订销售",
+     "source": "东方财富股票",
+     "zh": "利好！精测电子子公司斩获近2亿元半导体前道量检测大单，三季度末半导体领域在手订单增逾一倍"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
      "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
@@ -2257,60 +2337,20 @@
      "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
     },
     {
+     "title": "Bringing data to the Thanksgiving table",
+     "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 15:26:58 GMT",
+     "summary": "Does America really face a food affordability crisis?",
+     "source": "Financial Times",
+     "zh": "Bringing data to the Thanksgiving table"
+    },
+    {
      "title": "Enbridge in talks for C$1.5B pipeline deal with indigenous communities- report",
      "link": "https://seekingalpha.com/news/4676799-enbridge-in-talks-for-c15b-pipeline-deal-with-indigenous-communities--report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 10:23:41 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Enbridge in talks for C$1.5B pipeline deal with indigenous communities- report"
-    },
-    {
-     "title": "乌克兰称其在夜间袭击了俄罗斯的斯拉维扬斯克炼油厂",
-     "link": "http://finance.eastmoney.com/news/11790,202611263940979677.html",
-     "pubDate": "Thu, 26 Nov 2026 23:18:38 +0800",
-     "summary": "乌克兰称其在夜间袭击了俄罗斯的斯拉维扬斯克炼油厂。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "乌克兰称其在夜间袭击了俄罗斯的斯拉维扬斯克炼油厂"
-    },
-    {
-     "title": "星图测控：被禁止参加军事航天部队采购活动2年",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940979214.html",
-     "pubDate": "Thu, 26 Nov 2026 23:16:28 +0800",
-     "summary": "星图测控 公告，军采网于2026年11月26日发布处理公告，军事航天部队采购管理部门决定自2026年7月14日至2028年7月14日期间禁止公司参加相应范围军队物资工程服务采购活动。本次违规处理的串标事项预计将对公司的经营产生一定影响，公司为军事航天部队及其下属单位提供的业务多集中在定制化开发项目，即公司依托自身技术结合用户航天任务的差异化需求，为其提供航天测控管理、航天数字仿真等业务的定制化系统开发与服务。公司最终用户为军事航天部队及其下属单位的受影响合同金额约占年度预计营业收入的20%-22%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "星图测控：被禁止参加军事航天部队采购活动2年"
-    },
-    {
-     "title": "两年军采“ 禁入令 ”落定，星图测控两成营收悬了，股价年内已“腰斩”",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940978431.html",
-     "pubDate": "Thu, 26 Nov 2026 23:16:09 +0800",
-     "summary": "11月26日盘后， 星图测控 （BJ920116，股价29.91元，市值66.90亿元）公告称，军队采购网当日发布公告，军事航天部队采购管理部门决定自2026年7月14日至2028年7月14日期间，禁止公司参与相应范围的军队物资工程服务采购活动。公告显示，所涉违规行为指向2018年5月公司（曾用名“西安四方星途测控技术有限公司”）参与某部队项目时涉嫌串通投标。 二级市场方面， 星图测控 今年股价持续走弱，2026年以来累计下跌50.38%；年内盘中最高价（前复权）111.91元出现在1月14日，11月26日收盘价（前复权）为29.91元，较年内高点回撤73.27%。 两年禁入落定，公司称影响约",
-     "source": "东方财富股票",
-     "zh": "两年军采“ 禁入令 ”落定，星图测控两成营收悬了，股价年内已“腰斩”"
-    },
-    {
-     "title": "科威特称伊朗袭击该国重要设施导致两名意大利人身亡",
-     "link": "http://finance.eastmoney.com/news/1351,202611263940977770.html",
-     "pubDate": "Thu, 26 Nov 2026 23:16:05 +0800",
-     "summary": "科威特军方26日说，两名意大利公民在当天伊朗对科威特一处重要设施的袭击中伤重不治身亡。 科威特军方发言人阿特万发表声明说，伊朗的 无人机 对科威特一处重要设施发动袭击，科威特军方对其实施拦截，坠落的碎片造成4人受伤及财产损失。他随后又在社交媒体上证实两名意大利公民因伤势过重死亡。 科威特军方尚未公布遭袭设施的具体信息及受损程度，但表示将采取“一切必要措施”，维护国家主权、安全与稳定。 伊朗方面尚未对此作出回应。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "科威特称伊朗袭击该国重要设施导致两名意大利人身亡"
-    },
-    {
-     "title": "三只松鼠就员工宿舍条件致歉 后续将完善住宿保障机制",
-     "link": "http://stock.eastmoney.com/news/11219,202611263940977362.html",
-     "pubDate": "Thu, 26 Nov 2026 23:14:56 +0800",
-     "summary": "11月26日， 三只松鼠 发布致歉声明。其中显示，近日，网络平台出现涉及 三只松鼠 员工宿舍条件的相关内容， 三只松鼠 第一时间成立专项工作组开展核查。 三只松鼠表示，网传视频所涉宿舍系公司旺季用工人员周转宿舍，为年货节期间临时启用，确实存在设施配置简陋等问题。对此，公司深表歉意。三只松鼠立即对相关人员进行妥善转移安置，确保居住条件符合标准，后续将完善住宿保障机制。 另外，三只松鼠将以实际行动整改到位，切实改善员工居住条件，接受社会各界监督。据了解，“三只松鼠员工吐槽住宿像毛坯”相关话题登上热搜。据青岛广播电视台正在新闻官方 微博 报道，三只松鼠员工反映，公司宿舍条件差，疑是厂房改造。一房间内",
-     "source": "东方财富股票",
-     "zh": "三只松鼠就员工宿舍条件致歉 后续将完善住宿保障机制"
-    },
-    {
-     "title": "近6亿元“信心单”连夜落地，沪市主板回购增持密集加码",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940977476.html",
-     "pubDate": "Thu, 26 Nov 2026 23:14:36 +0800",
-     "summary": "央广网北京11月26日消息（记者牛谷月）11月26日晚间，沪市主板公司密集释放回购增持利好，新增计划接连落地，存量方案扎实推进。据不完全统计，沪市主板公司当日共提交约20份利好公告，其中新增回购 增持计划 6单、回购增持进展10单，另涉及中期分红、获得客户项目定点等利好，向市场传递出维护公司价值、看好长期发展的积极信号。 从新增计划看，当晚沪市主板6家公司新抛出回购或 增持计划 ，合计拟回购及增持上限近6亿元。其中， 共进股份 拟以自有资金及自筹资金回购1.5亿元至2亿元，用于员工持股计划或 股权激励 ； 正川股份 控股股东基于未来发展信心及对公司价值认可，提议回购5000万元至1亿元公司股票",
-     "source": "东方财富股票",
-     "zh": "近6亿元“信心单”连夜落地，沪市主板回购增持密集加码"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -2385,14 +2425,6 @@
      "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
     },
     {
-     "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
-     "link": "http://finance.eastmoney.com/news/1351,202611263940954067.html",
-     "pubDate": "Thu, 26 Nov 2026 22:31:45 +0800",
-     "summary": "记者今天（26日）从 工商银行 等商业 银行 了解到，在中国人民 银行 近日会同金融监管总局、中国证监会等部门明确将股票回购增持再贷款政策由阶段性安排转为长期制度性安排，并进一步下调再贷款利率之后， 工商银行 、 农业银行 、 中国银行 、 建设银行 等多家 银行 迅速落实有关部署，加大股票回购增持贷款投放力度。 目前，四大商业银行已签订上市公司股票回购增持贷款合同超6000亿元。 工商银行 股票回购增持贷款业务已在全国推广落地，北京、上海、江苏、浙江、广东、广西、新疆等多家分行因地制宜，打造区域特色的上市公司高效服务支持模式。 目前， 工商银行 已为超两百家上市公司提供股票回购增持贷款服务，",
-     "source": "东方财富资讯",
-     "zh": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元"
-    },
-    {
      "title": "BofE says firms need to invest to keep pace with AI threat",
      "link": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 26 Nov 2026 14:31:00 GMT",
@@ -2433,14 +2465,6 @@
      "zh": "Gemini files $50M offering of floating-rate yield notes"
     },
     {
-     "title": "These low-priced stocks are flashing overbought signals",
-     "link": "https://seekingalpha.com/news/4676817-these-low-priced-stocks-are-flashing-overbought-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 09:00:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "These low-priced stocks are flashing overbought signals"
-    },
-    {
      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
      "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 14:00:00 GMT",
@@ -2463,30 +2487,6 @@
      "summary": "全球市场正经历一轮显著的持仓重置，但投资者尚未达到可以“闭眼买入”的全面投降阶段。 据追风交易台，巴克莱最新报告指出， 系统性投资者和对冲基金的大幅去风险操作，已将整体持仓指标推至一年来的低点。同时，散户情绪也降至历史低位，这在过去通常意味着具备吸引力的入场时机。 然而， 共同基金仍在积极逢低买入，11月资金流入达到创纪录的约3100亿美元。这种不彻底的投降状态，使得股市在面对潜在的经济增长或政策失误恐慌时依然显得脆弱。 跨资产资金流向表明，当前市场动荡更多源于流动性挤压，而非对经济增长的担忧。 在美联储看跌期权依然难以捉摸的背景下，特朗普看跌期权似乎正在回归，成为支撑风险偏好的潜在因素。 流",
      "source": "华尔街见闻",
      "zh": "海外大抛售到哪个阶段了？美股尚未“全面投降”，金铜惨跌更像“流动性收紧”"
-    },
-    {
-     "title": "第十五届中国电子信息博览会将于2027年4月在深圳举行",
-     "link": "http://www.eeo.com.cn/2026/1126/1104544.shtml",
-     "pubDate": "Thu, 26 Nov 2026 21:46:16 +0800",
-     "summary": "本报讯 （记者丁蓉）11月26日，中国电子信息博览会组委会在深圳召开新闻发布会，正式宣布第十五届中国电子信息博览会（CITE2027）将于2027年4月9日至11日在深圳举办。 深圳作为国家新一代人工智能创新发展试验区、人工智能创新应用先导区，正推进算力、大模型、智能硬件、行业落地完整生态。深圳市规上工业总产值连续4年全国第一，万亿级智能终端、千亿级芯片显示产业集群成型，已跑通“芯片—算力—大模型—智能终端—行...",
-     "source": "经济观察网",
-     "zh": "第十五届中国电子信息博览会将于2027年4月在深圳举行"
-    },
-    {
-     "title": "铜价反弹逾3%，瑞银警告：这只是熊市反弹，并非基本面反转",
-     "link": "https://wallstreetcn.com/articles/3786791",
-     "pubDate": "Thu, 26 Nov 2026 21:43:16 +0800",
-     "summary": "铜价周四大幅反弹，但分析师认为，这更可能是空头回补推动的技术性修复，而非基本面出现转机。感恩节假期前仓位调整、美元走弱共同提振金属价格，但市场对AI投资泡沫的担忧仍未消退，铜价后续走势面临压力。 伦敦金属交易所三个月期铜周四早盘一度上涨3.4%，至每吨12,047美元，随后涨幅有所收窄。 瑞银市场专家Joe Dickinson表示，铜价与其他基本金属同步反弹，但基本面并没有太多变化，此轮上涨更像是技术性熊市反弹，而非基本面拐点。 自9月中旬触及每吨14,875美元的高点以来，铜价已累计下跌22%，进入熊市区间。此次反弹发生在感恩节前流动性偏薄的交易时段，美元走弱和空头仓位拥挤成为主要推动因素。",
-     "source": "华尔街见闻",
-     "zh": "铜价反弹逾3%，瑞银警告：这只是熊市反弹，并非基本面反转"
-    },
-    {
-     "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-     "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 13:41:00 GMT",
-     "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
-     "source": "MarketWatch",
-     "zh": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience."
     }
    ]
   },

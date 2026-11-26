@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 03:32:18",
+ "generated_at": "2026/11/27 03:52:26",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+     "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+     "pubDate": "Thu, 26 Nov 2026 19:42:22 +0000",
+     "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou. I am thankful for the opportunity. Expect to hear more in depth in the ... [continued] The post Happy ",
+     "source": "CleanTechnica",
+     "zh": "Happy Thanksgiving From Guangzhou, Visiting XPENG"
+    },
+    {
      "title": "When the Grid Fails, Solar Does Not Wait for the State",
      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
      "pubDate": "Thu, 26 Nov 2026 12:00:00 -0600",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up. By Prof Ray Wills SolarPower Europe’s September mid-year assessment describes a familiar contradiction: solar is contributing more to energy security and affordability, yet weakening p",
      "source": "CleanTechnica",
      "zh": "Europe’s Solar Problem Is No Longer Solar"
-    },
-    {
-     "title": "SC Solar Showcases at RE+ 2026 Garner Global Attention",
-     "link": "https://cleantechnica.com/2026/11/25/sc-solar-showcases-at-re-2026-garner-global-attention/",
-     "pubDate": "Wed, 25 Nov 2026 23:20:05 +0000",
-     "summary": "Covering TOPCon, XBC, HJT, and Perovskite-Silicon Tandem Technologies; Over 1,000 Automated Module Lines Delivered Globally, More Than 40 in North America RE+ 2026 was held at the Las Vegas Convention Center from November 17 to 19. Driven by the U.S. IRA policy that fuels domestic PV capacity expans",
-     "source": "CleanTechnica",
-     "zh": "SC Solar Showcases at RE+ 2026 Garner Global Attention"
     },
     {
      "title": "What is holding back bidirectional EV charging as a grid resource?",
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "X finally gets parental controls after 20 years",
+     "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+     "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
+     "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+     "source": "TechCrunch",
+     "zh": "X finally gets parental controls after 20 years"
+    },
+    {
      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
      "pubDate": "Thu, 26 Nov 2026 18:49:47 +0000",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "George Whitesides, 1939-2026",
      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
      "pubDate": "Thu, 26 Nov 2026 18:13:07 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "George Whitesides, 1939-2026"
     },
@@ -1789,23 +1797,23 @@ window.INDUSTRY_DATA = {
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 63 # Comments: 21",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 72 # Comments: 27",
      "source": "Hacker News",
      "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
     },
     {
-     "title": "YouTube Ad Punisher – Bypass anti-adblock",
+     "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 54 # Comments: 69",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 60 # Comments: 83",
      "source": "Hacker News",
-     "zh": "YouTube Ad Punisher – Bypass anti-adblock"
+     "zh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
     },
     {
      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
      "link": "https://github.com/deepseek-ai/deepseek-math",
      "pubDate": "Thu, 26 Nov 2026 17:21:14 +0000",
-     "summary": "Article URL: https://github.com/deepseek-ai/deepseek-math Comments URL: https://news.ycombinator.com/item?id=50657355 Points: 27 # Comments: 7",
+     "summary": "Article URL: https://github.com/deepseek-ai/deepseek-math Comments URL: https://news.ycombinator.com/item?id=50657355 Points: 30 # Comments: 8",
      "source": "Hacker News",
      "zh": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Tracking Diseases Cured by AI",
      "link": "https://diseasescuredbyai.com/",
      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
-     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 271 # Comments: 148",
+     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 278 # Comments: 159",
      "source": "Hacker News",
      "zh": "Tracking Diseases Cured by AI"
     },
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 118 # Comments: 33",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 128 # Comments: 39",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "纯电销量占比过半，理想汽车经营逐步修复，但盈利模式仍面临重构。",
      "source": "钛媒体",
      "zh": "纯电销量过半，理想汽车的生意变了"
-    },
-    {
-     "title": "中国发现新古人类支系",
-     "link": "https://www.solidot.org/story?sid=86002",
-     "pubDate": "Thu, 26 Nov 2026 22:28:12 +0800",
-     "summary": "中科院研究人员针对在南宁隆安穿山洞和柳州鹿寨龙船洞两处地点获得的 4 颗人类牙齿化石（分别距今至少 10.1 万年和 10.5 万年—4.3 万年）开展了古蛋白质组学和形态学综合分析。研究人员将穿山洞和龙船洞发现的牙齿，与其他人属标本进行比较。结果显示，两个组合呈现出截然不同的表型特征。研究人员对龙船洞以及穿山洞样本进行了古蛋白质提取，发现龙船洞样本可能代表华南地区一支具有丹尼索瓦亲缘关系的谱系，而穿山洞牙齿可能属于华南地区一支不同于丹尼索瓦人的独立谱系。研究提示华南可能是古老型人类的地理避难所与演化熔炉，为理解东亚古人类种群结构、区域变异与可能的基因交流提供了重要基准，代表了重建亚洲古人类种",
-     "source": "Solidot",
-     "zh": "中国发现新古人类支系"
     }
    ]
   },
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+     "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+     "pubDate": "Thu, 26 Nov 2026 19:44:49 +0000",
+     "summary": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+     "source": "Engadget",
+     "zh": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday"
+    },
+    {
+     "title": "XGIMI Vibe One battery-powered projector hits a record low under $200",
+     "link": "https://www.androidauthority.com/xgimi-vibe-one-deal-3740619/",
+     "pubDate": "Thu, 26 Nov 2026 19:42:26 +0000",
+     "summary": "XGIMI's portable Vibe One projector is 24% off on Amazon, with Google TV, official Netflix, and a built-in battery.",
+     "source": "Android Authority",
+     "zh": "XGIMI Vibe One battery-powered projector hits a record low under $200"
+    },
+    {
+     "title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+     "link": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
+     "pubDate": "Thu, 26 Nov 2026 20:33:02 +0100",
+     "summary": "Xiaomi announced the HyperOS 4 update schedule earlier this month, but it seems to have missed the deadline for some of its phones, including the flagship Xiaomi 17 Ultra. Our office unit received the update just this morning, bringing some of the new features that debuted with the Xiaomi 18 Pro ser",
+     "source": "GSMArena",
+     "zh": "Global Xiaomi 17 Ultra starts receiving HyperOS 4"
+    },
     {
      "title": "Pixel users report broken always-on display in Android Auto after November update",
      "link": "https://www.androidauthority.com/pixel-android-auto-aod-bug-3740588/",
@@ -2130,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more"
     },
     {
-     "title": "Galaxy S26 FE drops to a record low with $200 off",
-     "link": "https://www.androidauthority.com/galaxy-s26-fe-record-low-deal-3740545/",
-     "pubDate": "Thu, 26 Nov 2026 16:08:26 +0000",
-     "summary": "The unlocked Galaxy S26 FE is 29% off on Amazon this Black Friday season, with a 6.7-inch 120Hz display and Galaxy AI.",
-     "source": "Android Authority",
-     "zh": "Galaxy S26 FE drops to a record low with $200 off"
-    },
-    {
      "title": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery",
      "link": "https://www.gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php",
      "pubDate": "Thu, 26 Nov 2026 17:07:02 +0100",
@@ -2224,22 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
      "source": "Engadget",
      "zh": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook"
-    },
-    {
-     "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
-     "link": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
-     "pubDate": "Thu, 26 Nov 2026 13:14:18 +0000",
-     "summary": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
-     "source": "Engadget",
-     "zh": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods"
-    },
-    {
-     "title": "Counterpoint: Smartphone shipments on track for record drop in 2026",
-     "link": "https://www.gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php",
-     "pubDate": "Thu, 26 Nov 2026 13:58:02 +0100",
-     "summary": "It’s been a tough year for smartphone shipments as surging memory prices have led to substantial component price hikes and costlier devices. Counterpoint Research's latest report suggests we’re on track for a 14% decline in global smartphone shipments compared to the 2025 values. If these projection",
-     "source": "GSMArena",
-     "zh": "Counterpoint: Smartphone shipments on track for record drop in 2026"
     }
    ]
   },
@@ -2250,12 +2250,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "《新一代通信网建设实施方案》发布 适时开展6G网络建设 二〇三〇年建成新一代通信网",
+     "link": "http://finance.eastmoney.com/news/1352,202611273941007295.html",
+     "pubDate": "Fri, 27 Nov 2026 03:38:43 +0800",
+     "summary": "工业和信息化部、国家网信办、国家发展改革委日前印发《新一代 通信 网建设实施方案》（以下简称《实施方案》），提出到2030年，建成覆盖完善、性能领先的新一代 通信 网。 《实施方案》提出，适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨 卫星互联网 系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。国际海陆缆布局持续优化，国际网络韧性明显提升。 工业互联网 、车联网等融合网络实现规模化发展。通感导算智一体化服务能力明显增强，智能化发展水平大幅提升。多网协同抗毁韧性架构基本建成， 网络安全 和应急 通信 综合 保障能力显著增强。产业",
+     "source": "东方财富股票",
+     "zh": "《新一代通信网建设实施方案》发布 适时开展6G网络建设 二〇三〇年建成新一代通信网"
+    },
+    {
+     "title": "欧洲软件巨头SAP被曝拟削减至少1万个岗位 全力押注“AI优先”战略",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941012616.html",
+     "pubDate": "Fri, 27 Nov 2026 03:28:31 +0800",
+     "summary": "财联社11月27日讯 AI浪潮持续冲击传统软件行业，欧洲市值最高的软件巨头 思爱普 （SAP）正酝酿新一轮大规模重组。知情人士透露，裁员规模或至少达1万个岗位，约占其全球员工总数的9%。 据媒体当地时间11月26日援引知情人士消息报道，德国企业管理软件巨头SAP正在制定一项重组计划，借此推动旗下软件业务面向AI时代转型。 知情人士称，此次重组拟削减至少1万个岗位，至少波及全球9%的员工。 由于相关讨论仍在进行中，最终裁员人数尚未敲定，在与劳工代表谈判后仍可能调整。 据报道，SAP各部门都被要求梳理可削减的领域， 产品与工程部门以及销售部门是重点 。 这一调整背后，SAP首席执行官柯睿安正寻求将",
+     "source": "东方财富股票",
+     "zh": "欧洲软件巨头SAP被曝拟削减至少1万个岗位 全力押注“AI优先”战略"
+    },
+    {
      "title": "土耳其央行暂停一周期回购拍卖",
      "link": "http://finance.eastmoney.com/news/1351,202611273941012514.html",
      "pubDate": "Fri, 27 Nov 2026 03:18:01 +0800",
      "summary": "土耳其央行暂停一周期回购拍卖。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "土耳其央行暂停一周期回购拍卖"
+    },
+    {
+     "title": "欧央行10月会议纪要：通胀前景恶化 未来或需进一步加息",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941012794.html",
+     "pubDate": "Fri, 27 Nov 2026 03:17:16 +0800",
+     "summary": "欧洲央行官员在上月举行的会议上认为，随着通胀前景恶化，未来可能需要进一步收紧货币政策。 欧洲央行周四公布的10月货币政策会议纪要显示，尽管决策者当时没有加息，但部分官员甚至担忧，消费者价格涨幅可能要到2028年之后才能回到2%的目标水平。 欧洲央行表示： “与会委员普遍认为，通胀前景已经恶化。”他们“支持继续采取审慎的政策应对措施，同时指出，未来很可能有必要进一步收紧货币政策”。 此后，部分官员已开始支持欧洲央行在12月再次加息25个基点，市场也预计届时将采取行动。一些官员甚至开始释放2027年进一步收紧政策的信号。 欧洲央行副行长Boris Vujcic上周接受采访时表示，欧洲央行下个月加息",
+     "source": "东方财富股票",
+     "zh": "欧央行10月会议纪要：通胀前景恶化 未来或需进一步加息"
     },
     {
      "title": "八部门联合印发！未来五年将迎这些新机遇",
@@ -2277,33 +2301,9 @@ window.INDUSTRY_DATA = {
      "title": "莫德纳股价年内飙升约650% 后续试验数据能否为涨势提供支撑？",
      "link": "http://finance.eastmoney.com/news/1354,202611273941012135.html",
      "pubDate": "Fri, 27 Nov 2026 03:10:10 +0800",
-     "summary": "财联社11月27日讯 新冠疫情过后，莫德纳（Moderna）进军肿瘤治疗领域，一路牵动着投资者的神经。 其下一项临床试验结果公布前，华尔街围绕这家药企前景的争论很可能更加激烈。 年初至今，莫德纳（MRNA）股价已飙升逾648.86%，领跑标普500指数成分股。 此前，一项个性化癌症 疫苗 试验披露的初步数据点燃了投资者的热情，也让市场看到，莫德纳终于有望摆脱对日渐萎缩的新冠 疫苗 业务的依赖。 一款癌症 疫苗 能否撑起900亿美元估值？ 这款名为intismeran的癌症疫苗，正逐渐改变市场对莫德纳的看法。自新冠疫苗大获成功以来，这家公司一直苦于寻找下一款能接棒的产品。 莫德纳也尝试开发呼吸道",
+     "summary": "新冠疫情过后，莫德纳（Moderna）进军肿瘤治疗领域，一路牵动着投资者的神经。 其下一项临床试验结果公布前，华尔街围绕这家药企前景的争论很可能更加激烈。 年初至今，莫德纳（MRNA）股价已飙升逾648.86%，领跑标普500指数成分股。 此前，一项个性化癌症 疫苗 试验披露的初步数据点燃了投资者的热情，也让市场看到，莫德纳终于有望摆脱对日渐萎缩的新冠 疫苗 业务的依赖。 一款癌症 疫苗 能否撑起900亿美元估值？ 这款名为intismeran的癌症疫苗，正逐渐改变市场对莫德纳的看法。自新冠疫苗大获成功以来，这家公司一直苦于寻找下一款能接棒的产品。 莫德纳也尝试开发呼吸道合胞病毒（RSV）疫苗",
      "source": "东方财富股票",
      "zh": "莫德纳股价年内飙升约650% 后续试验数据能否为涨势提供支撑？"
-    },
-    {
-     "title": "在岸人民币兑美元北京时间03:00收报6.6609元",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941012035.html",
-     "pubDate": "Fri, 27 Nov 2026 03:09:33 +0800",
-     "summary": "在岸人民币兑美元（CNY）北京时间03:00收报6.6609元，较周三夜盘收盘涨72点。成交量469.21亿美元。",
-     "source": "东方财富股票",
-     "zh": "在岸人民币兑美元北京时间03:00收报6.6609元"
-    },
-    {
-     "title": "恒生指数主连夜盘收跌0.38% 恒生科技指数主连夜盘收跌0.50%",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941011957.html",
-     "pubDate": "Fri, 27 Nov 2026 03:04:55 +0800",
-     "summary": "恒生指数主连夜盘收跌0.38%，报22117点；恒生科技指数主连夜盘收跌0.50%，报3398点。",
-     "source": "东方财富股票",
-     "zh": "恒生指数主连夜盘收跌0.38% 恒生科技指数主连夜盘收跌0.50%"
-    },
-    {
-     "title": "恒生指数主连夜盘收跌0.38%，报22117点；恒生科技指数主连夜盘收跌0.50%，报3398点",
-     "link": "http://hk.eastmoney.com/news/1556,202611273941012254.html",
-     "pubDate": "Fri, 27 Nov 2026 03:04:31 +0800",
-     "summary": "恒生指数主连夜盘收跌0.38%，报22117点；恒生科技指数主连夜盘收跌0.50%，报3398点。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "恒生指数主连夜盘收跌0.38%，报22117点；恒生科技指数主连夜盘收跌0.50%，报3398点"
     },
     {
      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
@@ -2338,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
     },
     {
-     "title": "西北—华东绿电联合交易正式启动",
-     "link": "http://www.eeo.com.cn/2026/1127/1104589.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:31:09 +0800",
-     "summary": "本报讯 （记者杜雨萌）11月26日，西北—华东绿电联合交易启动会在北京召开。 西北—华东绿电联合交易是全国统一电力市场体系建设取得的又一项重要标志性成果。“一次报价、联合交易”以西北—华东绿电起步，经营主体通过一次申报量价曲线，同步形成跨省跨区、省内成交结果，架起两个区域之间一座“绿电桥梁”。联合交易既立足特高压直流通道物理联络条件，也兼顾两地资源禀赋互补的现实需求；既为西北开辟新能源消纳新出...",
-     "source": "经济观察网",
-     "zh": "西北—华东绿电联合交易正式启动"
-    },
-    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 18:30:00 GMT",
@@ -2360,30 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
      "source": "CNBC",
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
-    },
-    {
-     "title": "氢氧化锂期货首日成交53.3亿元",
-     "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
-     "summary": "11月26日，氢氧化锂期货在广州期货交易所（以下简称“广期所”）上市交易，这是继碳酸锂期货及期权上市后，广期所服务锂电行业推出的又一关键品种，预计新能源金属期货板块服务产业的精准性与有效性将得到进一步提升。 《证券日报》记者从广期所获悉，截至11月26日收盘，氢氧化锂期货成交量7.55万手，持仓量1.03万手，成交额53.3亿元，首日运行符合预期。 氢氧化锂是高镍三元正极材料的核心锂源，不仅决定了动力电...",
-     "source": "经济观察网",
-     "zh": "氢氧化锂期货首日成交53.3亿元"
-    },
-    {
-     "title": "我国将加快培育服务贸易发展新动能",
-     "link": "http://www.eeo.com.cn/2026/1127/1104587.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:14 +0800",
-     "summary": "到2035年，全面形成服务贸易高质量发展格局 11月26日，商务部等八部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络等7个方面部署25项重点任务。 同日，商务部新闻发言人何亚东在商务部例行新闻发布会上表示，...",
-     "source": "经济观察网",
-     "zh": "我国将加快培育服务贸易发展新动能"
-    },
-    {
-     "title": "三部门印发《新一代通信网建设实施方案》",
-     "link": "http://www.eeo.com.cn/2026/1127/1104586.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:13 +0800",
-     "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
-     "source": "经济观察网",
-     "zh": "三部门印发《新一代通信网建设实施方案》"
     },
     {
      "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
@@ -2426,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend"
     },
     {
-     "title": "Pablo Hernández de Cos wins race for ECB presidency",
-     "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 17:36:51 GMT",
-     "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
-     "source": "Financial Times",
-     "zh": "Pablo Hernández de Cos wins race for ECB presidency"
-    },
-    {
      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
@@ -2442,20 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Andrew Bailey says unreleased AI models have raised encryption concerns"
     },
     {
-     "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
-     "link": "http://www.eeo.com.cn/2026/1127/1104583.shtml",
-     "pubDate": "Fri, 27 Nov 2026 00:47:07 +0800",
-     "summary": "在李斌看来，汽车产品是AI进入物理世界的重要载体，汽车企业自身也需要成为AI原生组织，让AI真正进入企业的经营过程。成为AI原生组织是下一阶段竞争与变革的关键。",
-     "source": "经济观察网",
-     "zh": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账"
-    },
-    {
-     "title": "比亚迪第三代唐上市：主打大五座、大屏和长续航",
-     "link": "http://www.eeo.com.cn/2026/1127/1104581.shtml",
-     "pubDate": "Fri, 27 Nov 2026 00:40:26 +0800",
-     "summary": "在竞争策略上，第三代唐主要依靠大屏、音响这类可直观感知的配置，以及更大车身尺寸和更低的售价，叠加智驾安全责任兜底方案，来搭建一套更贴合普通家庭购车考量的智能体验逻辑。",
-     "source": "经济观察网",
-     "zh": "比亚迪第三代唐上市：主打大五座、大屏和长续航"
+     "title": "Two Italians killed in Iranian strike on Kuwait",
+     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 16:57:26 GMT",
+     "summary": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+     "source": "Financial Times",
+     "zh": "Two Italians killed in Iranian strike on Kuwait"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2488,6 +2440,54 @@ window.INDUSTRY_DATA = {
      "summary": "唐纳德·特朗普总统指责政府“蓄意”压低美国经济增长数据。他借一次常规的数据修订，毫无根据地指控此举是为了干扰选举。 特朗普在周四的社交媒体发文中指出，GDP数据显示经济在第三季度实现了4.3%的年化增长，而此前发布的预估值为3.4%，他表示两者存在“巨大差异”。 “刚刚有消息披露，中选前公布的经济‘真实数据’是假的，”他在没有提供任何证据的情况下说道。 “我要求立即对此事展开调查。这不是一个小错误，而是一个巨大的、蓄意的错误，”这位总统在发文中补充道。该帖文是美国感恩节假期当天上午，从他在西棕榈滩的高尔夫球场发出的。 长期以来，特朗普一直热衷于为选举失利寻找边缘化或阴谋论的解释，尽管他此前曾将",
      "source": "华尔街见闻",
      "zh": "特朗普边打高尔夫边斥责GDP数据造假，称此举是为了干扰中期选举"
+    },
+    {
+     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律",
+     "link": "https://wallstreetcn.com/articles/3786793",
+     "pubDate": "Thu, 26 Nov 2026 23:37:50 +0800",
+     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 市场关注的核心在于De Cos领导下的政策取向。这位拥有经济学博士学位和法学学位的官员，曾任巴塞尔银行监管委员会主席， 外界普遍认为其在货币政策上比竞争对手、前荷兰央行行长Klaas",
+     "source": "华尔街见闻",
+     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
+    },
+    {
+     "title": "Anthropic到底贵不贵？同一机构罕见多空互撕！",
+     "link": "https://wallstreetcn.com/articles/3786794",
+     "pubDate": "Thu, 26 Nov 2026 23:37:41 +0800",
+     "summary": "Anthropic上市后的股价剧烈震荡，令华尔街对其估值产生明显分歧，甚至同一家研究机构的两位分析师也给出了截然相反的投资建议。 11月26日，据彭博报道，独立研究机构Hedgeye Risk Management的两位分析师本周先后发布观点相反的报告。 通信与软件分析师Andrew Freedman给出92美元目标价，认为当前股价对长期投资者具有吸引力；全球科技分析师Felix Wang则建议客户做空，目标价仅为59美元。 Anthropic的IPO发行价为83美元。 两人的分歧迅速公开化。Wang于周二发布看空报告后，Freedman随即在社交媒体上划清界限，称自己“没有参与得出该决定的研",
+     "source": "华尔街见闻",
+     "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+     "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
+     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+     "source": "CNBC",
+     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
+    },
+    {
+     "title": "Bringing data to the Thanksgiving table",
+     "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 15:26:58 GMT",
+     "summary": "Does America really face a food affordability crisis?",
+     "source": "Financial Times",
+     "zh": "Bringing data to the Thanksgiving table"
+    },
+    {
+     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
+     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+     "source": "MarketWatch",
+     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     }
    ]
   },

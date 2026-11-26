@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 12:34:44",
+ "generated_at": "2026/11/26 12:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -306,6 +306,22 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia leadership turmoil puts customer due diligence in spotlight across AI supply chain"
     },
     {
+     "title": "Social Media Increasingly Supplying News",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/tv/social-media-increasingly-supplying-news-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 01:01:21 +0000",
+     "summary": "An increasing number of people are getting their daily news fix from social media, according to Pew Research Center. 57% of both Facebook and X users get news from the […] The post Social Media Increasingly Supplying News appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Social Media Increasingly Supplying News"
+    },
+    {
+     "title": "Let the Electronics Weekly newsletter content come straight to you!",
+     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/let-newsletter-content-come-straight-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 00:01:14 +0000",
+     "summary": "Sign up for the Mannerisms, Gadget Master, the Daily and the main Weekly newsletter. The post Let the Electronics Weekly newsletter content come straight to you! appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Let the Electronics Weekly newsletter content come straight to you!"
+    },
+    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -362,6 +378,14 @@ window.INDUSTRY_DATA = {
      "zh": "Keysight Unites RF and Photonic Design for Tower Semiconductor"
     },
     {
+     "title": "Who Prioritises Fuel Efficiency?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/who-prioritises-fuel-efficiency-2026-11/",
+     "pubDate": "Wed, 25 Nov 2026 14:23:41 +0000",
+     "summary": "Fuel efficiency is important to some car buyers, but not to others. According to data by Statista Consumer Insights, only 20% among French respondents and 28% among Chinese respondents say […] The post Who Prioritises Fuel Efficiency? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Who Prioritises Fuel Efficiency?"
+    },
+    {
      "title": "PDF Solutions: What Happens Now That the Puck Has Arrived?",
      "link": "https://semiwiki.com/eda/pdf-solutions/376678-pdf-solutions-what-happens-now-that-the-puck-has-arrived/",
      "pubDate": "Wed, 25 Nov 2026 14:00:07 +0000",
@@ -386,12 +410,36 @@ window.INDUSTRY_DATA = {
      "zh": "AMD Tackles DRAM Shortages with AI and Flash Storage"
     },
     {
+     "title": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard",
+     "link": "https://www.electronicsweekly.com/news/business/electronica-video-interview-accuris-on-why-component-risk-still-catches-manufacturers-off-guard-2026-11/",
+     "pubDate": "Wed, 25 Nov 2026 13:57:53 +0000",
+     "summary": "At Electronica 2026 we caught up with Sarita Benjamin – General Manager, Supply Chain Intelligence at Accuris – as part of our promotional coverage for the event. She discusses how […] The post Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard appeare",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Accuris on why component risk still catches manufacturers off guard"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
      "summary": "Avicena Tech Corp of Sunnyvale, CA, USA, which is developing micro-LED-based optical interconnects, has raised over $100m in Series C funding to accelerate commercialization of its LightBundle platform for AI infrastructure. The round included new and existing investors InterVest, Tiger Global, Cerb",
      "source": "Semiconductor Today",
      "zh": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects"
+    },
+    {
+     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-11/",
+     "pubDate": "Wed, 25 Nov 2026 11:48:02 +0000",
+     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+    },
+    {
+     "title": "Get the Gadget Master newsletter!",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-11/",
+     "pubDate": "Wed, 25 Nov 2026 10:57:29 +0000",
+     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "Blog Review: Nov. 25",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
      "source": "Semiconductor Today",
      "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Cornell develops semiconductor material with record bandgap of more than 7eV",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/cornell-231126.shtml",
-     "pubDate": "Mon, 23 Nov 2026 16:48:13 GMT",
-     "summary": "Cornell University has developed a semiconductor material – silicon-doped aluminium gallium oxide – with a record bandgap of more than 7eV, exceeding the previous record of about 6eV – a threshold that has proved difficult to surpass because materials with wider bandgaps tend to behave more like ins",
-     "source": "Semiconductor Today",
-     "zh": "Cornell develops semiconductor material with record bandgap of more than 7eV"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
     },
     {
-     "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
-     "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
-     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
-     "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
-     "source": "Space.com",
-     "zh": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off"
-    },
-    {
      "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
      "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
      "source": "Space.com",
      "zh": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)"
+    },
+    {
+     "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+     "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+     "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+     "source": "Space.com",
+     "zh": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off"
     },
     {
      "title": "NASA Eyes Crop Candidates for Future Menus",
@@ -1762,6 +1762,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "华发股份终止定增，110亿永续债排到了普通股前",
+     "link": "https://www.huxiu.com/article/4908624.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:42:15 +0800",
+     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清 2026年11月25日，珠海华发实业股份有限公司（下称“华发股份”）披露两项融资动作。 一边终止2026年度向控股股东珠海华发集团有限公司（下称“华发集团”）定向增发A股股票并撤回申请文件，该方案7月修订后的募集资金上限为26.5亿元； 另一边拟与华发集团签署协议，将华发集团对公司享有的110亿元存量直接借款本金转换为永续债权。 一笔原本要收进新股本现金的定增停了，换上来的是规模大出数倍的永续债。 按照《永续债权投资协议》条款，这110亿元由存量直接借款本金转换而来，转换过程不发生资金实际划转。 对华发股份的资金账户来说，这天没有新现金进账，发生变",
+     "source": "虎嗅",
+     "zh": "华发股份终止定增，110亿永续债排到了普通股前"
+    },
+    {
+     "title": "Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261125/p48#a261125p48",
+     "pubDate": "Wed, 25 Nov 2026 23:35:01 -0500",
+     "summary": "Wall Street Journal : Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September &nbsp; &mdash;&nbsp; Hedge fund that nearly went out of business after steep losses this summer says it worked to learn f",
+     "source": "Techmeme",
+     "zh": "Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September (Wall Street Journal)"
+    },
+    {
+     "title": "把“活化石”扫出门，微软 Win11 未来将移除 Telnet 客户端",
+     "link": "https://www.ithome.com/1/032/734.htm",
+     "pubDate": "Thu, 26 Nov 2026 04:26:18 GMT",
+     "summary": "IT之家 11 月 26 日消息，据科技媒体 neowin 昨天报道，微软已将 Telnet 客户端（ telnet.exe ）加入 Win11 弃用功能名单， 目前这款计算机界的“活化石”仍然作为可选功能 ， 保留在 Win11 中 。 作为参考，Telnet 的历史可以追溯到 1969 年，诞生于互联网前身 ARPANET （阿帕网）时代，比万维网（IT之家注：WWW）早了大概 20 年。 这项技术最初解决了一个非常基础的需求：让一台电脑能够通过网络连接另一台计算机，并在命令行操作它。20 世纪 70 年代至 90 年代，Telnet 曾得到广泛应用。不过由于默认不加密、安全性不足，Tel",
+     "source": "IT之家",
+     "zh": "把“活化石”扫出门，微软 Win11 未来将移除 Telnet 客户端"
+    },
+    {
      "title": "美国买量素材迭代快，支付回款周期拖到45天该怎么排预算？",
      "link": "https://www.baijing.cn/question/638977",
      "pubDate": "Thu, 26 Nov 2026 04:24:18 +0000",
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯《英雄联盟电竞经理》宣布 2027 年 1 月 26 日停运，今日起停止游戏充值和新用户注册"
     },
     {
-     "title": "欧舒丹的中国对手，一年卖了近150万瓶",
-     "link": "https://www.huxiu.com/article/4908600.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:52:16 +0800",
-     "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜浴见 在北京前门，有条存在了近三百年的商业街，西兴隆街。这条路不长，只有740米，共16座修缮后的老院落，既保留了青砖灰瓦的老胡同风貌，又融合当代的审美与生活方式，被称为&ldquo;北京最有腔调的一条街&rdquo;。 今年10月，身体护理品牌浴见在这里开出华北首店&ldquo;书写者的浴室&rdquo;。与电商平台上围绕几款热销商品展开的展示相比，这间店呈现出的浴见，显然要复杂得多。沿着店内动线走下去，沐浴油、身体油、油霜和洗浴工具等产品依次陈列。消费者可以在洗手台前试用磨砂膏，也可以闻香、翻阅品牌杂志，甚至在店内庭院的枣树下闲坐片刻",
-     "source": "虎嗅",
-     "zh": "欧舒丹的中国对手，一年卖了近150万瓶"
-    },
-    {
      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
      "link": "https://www.ithome.com/1/032/716.htm",
      "pubDate": "Thu, 26 Nov 2026 03:50:30 GMT",
@@ -1882,18 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Trump&apos;s national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)"
     },
     {
-     "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
-     "link": "https://www.ithome.com/1/032/714.htm",
-     "pubDate": "Thu, 26 Nov 2026 03:47:44 GMT",
-     "summary": "IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人工智能训练数据采集、标注、质量判断等环节。 我国在人工智能国际规则制定中持续发挥重要作用。 据了解，在国家数据局指导下，全国数据标准化技术委员会制定的该国际标准，明确了人工智能训练数据全生命周期的质量管理流程与技术要求，为规范人工智能训练数据治理提供了统一依据。 据IT之家此前报道， 我国正深度参与人工智能国际标准体系建设 ，目前已牵头研制 29 项基础共性",
-     "source": "IT之家",
-     "zh": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考"
-    },
-    {
      "title": "Qualcomm's Oryon 3 Reaches the Top",
      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
      "pubDate": "Thu, 26 Nov 2026 03:43:24 +0000",
-     "summary": "Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top Comments URL: https://news.ycombinator.com/item?id=50651158 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top Comments URL: https://news.ycombinator.com/item?id=50651158 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "Qualcomm's Oryon 3 Reaches the Top"
     },
@@ -1912,6 +1920,22 @@ window.INDUSTRY_DATA = {
      "summary": "二线大厂的冬天：砍成本，赌AI",
      "source": "钛媒体",
      "zh": "被红果改写的Q3财报季"
+    },
+    {
+     "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+     "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+     "pubDate": "Thu, 26 Nov 2026 03:36:58 +0000",
+     "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 26 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster"
+    },
+    {
+     "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+     "link": "https://olumino.app",
+     "pubDate": "Thu, 26 Nov 2026 03:33:06 +0000",
+     "summary": "I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a more minimalist interface. Olumino is the combination of both. I also added Japanese flashcard support, including kana rea",
+     "source": "Hacker News",
+     "zh": "Show HN: Olumino, a Markdown notes and spaced repetition app"
     },
     {
      "title": "TikTok Shop 日本站直播选品，哪些品类退货率和备货节奏能扛住？",
@@ -1933,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Minipg: PostgreSQL as a Single Executable",
      "link": "https://progrium.github.io/minipg/",
      "pubDate": "Thu, 26 Nov 2026 03:00:48 +0000",
-     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "Minipg: PostgreSQL as a Single Executable"
     },
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "BOSS直聘Q3利润坚挺，但需应对招聘需求转弱挑战。",
      "source": "钛媒体",
      "zh": "BOSS直聘Q3：营收增11.7%，利润率守住44%"
-    },
-    {
-     "title": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？",
-     "link": "https://www.baijing.cn/question/638972",
-     "pubDate": "Thu, 26 Nov 2026 02:34:27 +0000",
-     "summary": "我们做短剧 App 出海，主攻印尼和泰国，团队 12 人，投放月预算约 8 万美元，主要跑 Meta 和 TikTok。上线三个月，印尼的 CPI 从 0.35 美元涨到 0.62 美元，泰国素材点击率只有 0.8%，完播率不到 15%。现在卡在素材生产上：国内团队按国内爆款套路剪的逆袭、复仇题材，印尼用户前 3 秒流失严重，泰国则对配音和字幕的本地感很挑。我们已经试过找本地演员补拍、把字幕改成泰语和印尼语双语，也试过把国内爆款直接换配音，效果都不稳定。想请教的是，东南亚这几个市场在短剧题材和素材节奏上差异到底有多大，备素材时该按国家分开做还是先跑一个通用版本再本地化？",
-     "source": "白鲸出海",
-     "zh": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？"
-    },
-    {
-     "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
-     "link": "https://www.techmeme.com/261125/p45#a261125p45",
-     "pubDate": "Wed, 25 Nov 2026 20:55:00 -0500",
-     "summary": "Josh Boswell / CBS News : Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia &nbsp; &mdash;&nbsp; Nvidia is selling its most cutting-edge chips to at least two companies that are U.S.-based, ",
-     "source": "Techmeme",
-     "zh": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)"
-    },
-    {
-     "title": "Apple removes MiniMax&apos;s chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
-     "link": "https://www.techmeme.com/261125/p44#a261125p44",
-     "pubDate": "Wed, 25 Nov 2026 20:30:01 -0500",
-     "summary": "TBIJ : Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children &nbsp; &mdash;&nbsp; Talkie's characters belittle and sexualise their young users - and its owners won't explain how it uses the data",
-     "source": "Techmeme",
-     "zh": "Apple removes MiniMax&apos;s chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)"
     }
    ]
   },
@@ -2258,6 +2258,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "South Korea&apos;s Kospi leads gains as tech rebound lifts Asia markets",
+     "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+     "pubDate": "Thu, 26 Nov 2026 04:49:03 GMT",
+     "summary": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+     "source": "CNBC",
+     "zh": "South Korea&apos;s Kospi leads gains as tech rebound lifts Asia markets"
+    },
+    {
+     "title": "Neuralink：人脑植入临床试验获得美国食品药品管理局批准",
+     "link": "https://wallstreetcn.com/articles/3786741",
+     "pubDate": "Thu, 26 Nov 2026 12:42:42 +0800",
+     "summary": "马斯克创立的脑机接口初创公司Neuralink已获得美国监管机构批准，将正式启动名为LINK的关键性临床试验，以评估其脑部植入设备在肌萎缩侧索硬化症（ALS）重度瘫痪患者中的安全性与有效性。此举标志着该公司从早期可行性探索迈向商业化上市审批的关键一步。 11月25日，Neuralink在其声明及社交平台X上宣布，已获得美国食品药品监督管理局（FDA）的批准，将在美国启动首个植入式脑机接口关键性临床试验LINK。 该公司表示，本次试验建立在超过30名早期受试者的研究基础之上，患有ALS的群体可能符合入组资格。 这项研究旨在收集更充分的临床安全性与有效性数据，为该脑机接口系统未来推向商业市场铺平道",
+     "source": "华尔街见闻",
+     "zh": "Neuralink：人脑植入临床试验获得美国食品药品管理局批准"
+    },
+    {
+     "title": "爱奇艺：收到纳斯达克不合规通知 不会导致公司的美国存托票据（ADS）被立即退市或暂停交易",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940484673.html",
+     "pubDate": "Thu, 26 Nov 2026 12:36:59 +0800",
+     "summary": "爱奇艺 公告，公司已收到 纳斯达克 的书面通知。该通知属于 纳斯达克 上市规则下的常规程序性沟通，仅为不合规通知，不会导致公司的美国存托票据（ADS）被立即退市或暂停交易。公司的ADS目前将继续以现有股票代码在 纳斯达克 保持上市和交易。公司收到该通知不会影响公司的业务运营，公司向美国证券交易委员会履行的信息披露义务保持不变。公司目前正在评估各种可行方案，以在180个自然日内重新符合纳斯达克的持续上市要求，维持上市地位。后续相关进展请以官方公告为准。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "爱奇艺：收到纳斯达克不合规通知 不会导致公司的美国存托票据（ADS）被立即退市或暂停交易"
+    },
+    {
+     "title": "11月26日午间涨停复盘：53股涨停 全筑股份8天6板",
+     "link": "http://stock.eastmoney.com/news/11781,202611263940484531.html",
+     "pubDate": "Thu, 26 Nov 2026 12:35:53 +0800",
+     "summary": "今日午盘沪指 跌 0.03%，深成指 涨 0.15%，创业板指 涨 0.06%，今日午盘大盘成交额7962.97亿，较上个交易日放量332.46亿。 涨停个股数量方面，今日午盘共计53股涨停，另有33只个股盘中一度触及涨停，封板率61.63%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月26日午间涨停复盘：53股涨停 全筑股份8天6板"
+    },
+    {
+     "title": "上海词元星脉算力科技有限公司成立",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940484773.html",
+     "pubDate": "Thu, 26 Nov 2026 12:30:00 +0800",
+     "summary": "天眼查App显示，近日，上海词元星脉算力科技有限公司成立，法定代表人为易洲，注册资本1000万元，经营范围包括数据处理服务、 软件开发 、 计算机 软硬件及辅助设备零售等。股东信息显示，该公司由 协创数据 技术股份有限公司全资持股。 （文章来源：证券日报）",
+     "source": "东方财富股票",
+     "zh": "上海词元星脉算力科技有限公司成立"
+    },
+    {
      "title": "黄仁勋回来了，但AI的问题并没有消失",
      "link": "https://wallstreetcn.com/articles/3786709",
      "pubDate": "Thu, 26 Nov 2026 12:28:27 +0800",
@@ -2266,20 +2306,28 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋回来了，但AI的问题并没有消失"
     },
     {
-     "title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
-     "link": "http://www.eeo.com.cn/2026/1126/1103639.shtml",
-     "pubDate": "Thu, 26 Nov 2026 12:26:21 +0800",
-     "summary": "上证报中国证券网讯 据商务部11月26日消息，当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢、联合国贸发会议代理秘书长马雷诺、中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团临时代办李驰江大使出席并致辞。李成钢指出，中国持续扩大进口，与世界共享中国大市场、大机遇。2025年11月，中方启动“出口中国”系列活动。...",
-     "source": "经济观察网",
-     "zh": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办"
+     "title": "东方国信：MeshToken相关业务正按计划稳步推进落地",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940484351.html",
+     "pubDate": "Thu, 26 Nov 2026 12:26:00 +0800",
+     "summary": "东方国信 在互动平台表示，公司与运营商的合作形式多元，公开集采仅为其中一种，MeshToken相关的私有化部署、定制化服务等均属于市场化拓展的合作范畴，相关业务正按计划稳步推进落地。公司已在定期报告中对算力业务的毛利率进行单独披露。算力行业发展及业务落地进度受市场环境、客户需求等多重因素影响，存在一定不确定性。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "东方国信：MeshToken相关业务正按计划稳步推进落地"
     },
     {
-     "title": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低",
-     "link": "http://www.eeo.com.cn/2026/1126/1103638.shtml",
-     "pubDate": "Thu, 26 Nov 2026 12:26:13 +0800",
-     "summary": "中新经纬11月26日电 26日，A股三大指数冲高回落，截至午间收盘，沪指跌0.03%，深证成指涨0.15%，创业板指涨0.06%。 全市半日成交额8017亿元，超2900只个股下跌。 板块方面，贵金属、煤炭、能源设备、石油天然气、通信设备等上涨；水产、电路板、煤炭开采、HBM、CPO、光通信等概念活跃。休闲用品领跌，机场、航空、酒类、保险、半导体等下跌；航空运输、疫苗、猪产业、谷子经济、具身智能、物理AI等概念走低。(中新...",
-     "source": "经济观察网",
-     "zh": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低"
+     "title": "豪鹏科技：已在机器人等新兴场景实现电池产品的规模化应用与批量供货",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940484477.html",
+     "pubDate": "Thu, 26 Nov 2026 12:24:00 +0800",
+     "summary": "豪鹏科技 在互动平台表示，大疆是公司长期合作的战略客户之一，双方合作关系具有较强的稳定性与延续性。公司以“联合定义+定制开发”模式深度参与客户产品定义，持续加大研发投入，围绕战略大客户在高倍率电芯、快充放、轻薄化及长循环等方向的定制化需求做好协同研发，并依托“液态高硅—固液态—全固态”技术矩阵及钢壳叠片等先进工艺储备，为客户下一代产品提供更具竞争力的能源解决方案。公司已在 机器人 等新兴场景实现 电池 产品的规模化应用与批量供货。公司与战略大客户的合作及后续新业务拓展受下游市场需求、客户产品规划、认证与项目导入进度、行业技术迭代等多重因素影响，存在不确定性。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "豪鹏科技：已在机器人等新兴场景实现电池产品的规模化应用与批量供货"
+    },
+    {
+     "title": "联合化学：上海微电子不是控股子公司启辰半导体客户",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940484085.html",
+     "pubDate": "Thu, 26 Nov 2026 12:24:00 +0800",
+     "summary": "联合化学 (301209)11月26日在互动平台表示，公司控股子公司启辰 半导体 新材料 （盘锦）有限公司生产的苯乙烯类 光刻胶 单体主要用于KrF 光刻胶 树脂。上海微 电子 不是启辰 半导体 的客户。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "联合化学：上海微电子不是控股子公司启辰半导体客户"
     },
     {
      "title": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs",
@@ -2306,12 +2354,28 @@ window.INDUSTRY_DATA = {
      "zh": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters"
     },
     {
+     "title": "摩根大通“喊底”！黄金概念大涨 主力吸筹多股",
+     "link": "http://finance.eastmoney.com/news/11139,202611263940478259.html",
+     "pubDate": "Thu, 26 Nov 2026 12:08:39 +0800",
+     "summary": "贵金属 概念周四(11月26日)大涨，截至午间收盘， 盛达资源 、 招金黄金 、 赤峰黄金 等多股领涨。 国际金价隔夜V反 消息方面，隔夜国际金价上演\"V\"型反转。美国10月核心PCE物价指数同比上涨3.3%，高于市场预期的3.2%，创2023年11月以来最高水平。 数据公布后，现货 黄金 盘中 跌逾3% ，最低触及3426.71美元/盎司，创逾一年新低，并自2025年9月以来首次跌破3500美元关口；此后逢低买盘与感恩节前调仓资金入场，金价自低点拉升逾150美元，收涨0.92%报3588.40美元/盎司。今日亚市早盘，现货 黄金 在3580美元/盎司附近窄幅震荡。 据CME“美联储观察”数据",
+     "source": "东方财富资讯",
+     "zh": "摩根大通“喊底”！黄金概念大涨 主力吸筹多股"
+    },
+    {
      "title": "马斯克下血本！全美儿童免费发两股SpaceX股票，一股来自公司，一股来自他个人",
      "link": "https://wallstreetcn.com/articles/3786740",
      "pubDate": "Thu, 26 Nov 2026 12:03:08 +0800",
      "summary": "SpaceX及其首席执行官埃隆·马斯克宣布向持有“特朗普账户”的美国儿童捐赠公司股票，这一举措在推动下一代长期储蓄的同时，进一步巩固了马斯克与特朗普之间的紧密联系。 北京时间11月26日，SpaceX表示将向每个拥有上述账户的儿童捐赠一股新发行的A类普通股。马斯克随后确认，他将以个人名义进行等额配捐，以确保每个符合条件的儿童获得两股股票。 与此同时，SpaceX总裁兼首席运营官Gwynne Shotwell也宣布，将个人向该账户体系捐赠超过200万股SpaceX股票。 “特朗普账户”吸金超90亿美元 所谓“特朗普账户”，是一项旨在帮助美国儿童建立长期储蓄的税收优惠投资账户。 据CNBC援引美国",
      "source": "华尔街见闻",
      "zh": "马斯克下血本！全美儿童免费发两股SpaceX股票，一股来自公司，一股来自他个人"
+    },
+    {
+     "title": "抵制声浪愈演愈烈？高盛研判：美国数据中心建设热潮将持续至2028年",
+     "link": "http://finance.eastmoney.com/news/1344,202611263940477287.html",
+     "pubDate": "Thu, 26 Nov 2026 12:02:24 +0800",
+     "summary": "尽管随着 人工智能 （AI） 数据中心 对 电力 、水资源和土地的需求快速增加，抵制 数据中心 建设的声浪在美国愈演愈烈，但 高盛 认为， 美国 数据中心 建设热潮有望持续至2028年 。 高盛 日前表示，受 人工智能 热潮推动，美国数据中心 电力 容量的强劲增长态势有望持续至2028年。随着数据中心在数量、规模及 电力 密度方面的不断提升，这将对电力和 天然气 需求构成上行风险。 高盛 指出，到2028年，美国数据中心电力容量有望新增52吉瓦。 “今年以来，美国数据中心电力容量及需求增长了近30%，占据了 美国电力 需求总增量的三分之一以上。”高盛在周二发布的一份报告中指出。 该行还表示：“",
+     "source": "东方财富资讯",
+     "zh": "抵制声浪愈演愈烈？高盛研判：美国数据中心建设热潮将持续至2028年"
     },
     {
      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
@@ -2330,68 +2394,20 @@ window.INDUSTRY_DATA = {
      "zh": "边养6个孩子边创业！Vercel创始人要做“面向Agent”的互联网"
     },
     {
-     "title": "《新一代通信网建设实施方案》印发",
-     "link": "http://www.eeo.com.cn/2026/1126/1103526.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:52:21 +0800",
-     "summary": "近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨卫星互联网系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。国际海陆缆布局持续优化，国际网络韧性明显提升。工业互联网、车联网等融合网络实现规...",
-     "source": "经济观察网",
-     "zh": "《新一代通信网建设实施方案》印发"
+     "title": "华夏幸福正式进入重整程序 股票叠加实施退市风险警示",
+     "link": "http://stock.eastmoney.com/news/11216,202611263940476328.html",
+     "pubDate": "Thu, 26 Nov 2026 11:54:17 +0800",
+     "summary": "*ST华幸 （600340.SH）正式进入司法重整程序。 华夏幸福11月26日发布公告，公司近日收到河北省廊坊市中级人民法院送达的《民事裁定书》及《决定书》，法院裁定受理债权人龙成建设工程有限公司对公司的重整申请，并指定华夏幸福司法重整清算组担任重整期间管理人。 “这说明经过一年左右的预重整程序后，华夏幸福正式进入司法重整阶段。”易居研究院副院长严跃进表示。 与此同时，根据相关规定，华夏幸福股票自11月26日起叠加实施退市风险警示，股票简称仍为“ *ST华幸 ”，证券代码仍为“600340”，日涨跌幅限制仍为10%。 回溯此次重整申请，2025年11月，债权人龙成建设工程有限公司以华夏幸福未按",
+     "source": "东方财富资讯",
+     "zh": "华夏幸福正式进入重整程序 股票叠加实施退市风险警示"
     },
     {
-     "title": "恒达新材：公司尚未涉及视觉码包装等相关业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474511.html",
-     "pubDate": "Thu, 26 Nov 2026 11:50:23 +0800",
-     "summary": "恒达新材 (301469)11月26日在互动平台表示，公司目前主营业务聚焦于医疗包装原纸及食品包装原纸等 特种纸 原纸领域，尚未涉及视觉码包装等相关业务。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "恒达新材：公司尚未涉及视觉码包装等相关业务"
-    },
-    {
-     "title": "光模块设备龙头来了，别忘了打新",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940475466.html",
-     "pubDate": "Thu, 26 Nov 2026 11:50:13 +0800",
-     "summary": "11月26日，创业板新股 猎奇智能 网上、网下申购启动，发行价为97.53元/股，市盈率31.30倍。 招股意向书显示，公司主要从事光 通信 、 半导体 、 汽车 自动化等领域智能生产装备的研发、生产和销售，是国内领先的高端智能装备制造商。产品已覆盖了光模块封装测试流程的主要核心环节，包括贴片、耦合、老化测试等，最终应用于数通市场及电信市场。上述封装测试环节为保障光模块传输效率和可靠性的关键环节之一。 客户方面，公司设备已广泛应用于 中际旭创 、索尔思、 光迅科技 、 源杰科技 、 剑桥科技 等光 通信 行业龙头 客户和知名企业，并与2025年光模块全球前十厂商（排名来源LightCounti",
-     "source": "东方财富股票",
-     "zh": "光模块设备龙头来了，别忘了打新"
-    },
-    {
-     "title": "翔楼新材：远昌智能整机项目与柔轮材料项目尚处于各自独立研发阶段",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940476087.html",
-     "pubDate": "Thu, 26 Nov 2026 11:48:00 +0800",
-     "summary": "翔楼新材 在互动平台表示，目前远昌智能整机项目与公司柔轮材料项目尚处于各自独立研发阶段，暂未开展协同验证及材料导入工作。公司“材料—核心部件—整机”协同研发是中长期战略布局，后续将根据两个项目的研发进展、技术成熟度、产业化节点，适时统筹安排联合验证、样品导入及技术反馈机制。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "翔楼新材：远昌智能整机项目与柔轮材料项目尚处于各自独立研发阶段"
-    },
-    {
-     "title": "千方科技等成立科技公司 智能机器人研发业务",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474076.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:53 +0800",
-     "summary": "企查查APP显示，近日，贵州航视科技有限公司成立，法定代表人为梁越，注册资本为1000万元，经营范围包含信息系统集成服务；智能 机器人 的研发；配电开关控制设备研发； 充电桩 销售；数字视频监控系统制造等。企查查股权穿透显示，该公司由中航建设集团贵州科技发展有限公司、 千方科技 旗下浙江宇视科技有限公司等共同持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "千方科技等成立科技公司 智能机器人研发业务"
-    },
-    {
-     "title": "浙江天际IPO完成首轮问询：上半年营收增长扣非反降，实控人多名亲属与关联方存资金往来",
-     "link": "http://stock.eastmoney.com/news/11215,202611263940475991.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:37 +0800",
-     "summary": "根据北交所最新披露的信息，近日，浙江天际互感器股份有限公司（简称“浙江天际”）IPO的状态从已受理变更为已问询。第一轮问询涉及业绩增长真实合理性及持续性等12个问题。 招股书显示，浙江天际专注于 电力 互感器的研发、制造与销售，一直以技术创新、产品及工艺创新、管理创新作为企业发展的核心 驱动力 ，深耕互感器行业近40年，是中国互感器制造业主导企业之一。 问询函提及，报告期内，浙江天际营业收入分别为5.21亿元、5.79亿元和6.57亿元，扣非归母净利润分别为7882.74万元、9312.11万元和1.09亿元。公司主要产品包括配用电领域、 新能源 领域、输变电领域互感器和主营其他产品，其中配用",
-     "source": "东方财富股票",
-     "zh": "浙江天际IPO完成首轮问询：上半年营收增长扣非反降，实控人多名亲属与关联方存资金往来"
-    },
-    {
-     "title": "前三季度全国国有房产成交7688宗、挂牌44162宗",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940474713.html",
-     "pubDate": "Thu, 26 Nov 2026 11:47:00 +0800",
-     "summary": "全国产权行业信息化 综合 服务平台数据显示，今年1至9月，全国产权交易市场共挂牌国有房产44162宗，挂牌金额937.7亿元；确认成交7688宗，成交金额362.9亿元。挂牌金额逐季上升、成交金额逐季回落、单宗金额分化明显，是前三季度国有房产交易的三个主要特征。 挂牌金额逐季上升，9月创年内最高 一季度挂牌金额为250.5亿元；二季度为299.0亿元，环比增长19.4%；三季度为388.3亿元，环比增长29.9%。9月挂牌7240宗、145.9亿元，宗数和金额均为年内最高，金额为1月的2.3倍。 从月度分布看，挂牌量的高点出现在三季度末。三季度末是国有企业资产处置进度的考核节点，部分未完成项目",
-     "source": "东方财富股票",
-     "zh": "前三季度全国国有房产成交7688宗、挂牌44162宗"
-    },
-    {
-     "title": "自有品牌热潮涌起，代工企业重新洗牌",
-     "link": "http://www.eeo.com.cn/2026/1126/1103493.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:41:33 +0800",
-     "summary": "山姆、盒马、胖东来自有品牌火爆背后，大批大厂与中小工厂隐身商品背标。自有品牌渗透率持续走高，代工产能迎来重新洗牌。一部分代工厂借订单实现增长，另一部分却深陷渠道依附的困境。货架话语权正在悄然重构，藏在标签背后的生产企业，该如何拿回属于自己的名字？",
-     "source": "经济观察网",
-     "zh": "自有品牌热潮涌起，代工企业重新洗牌"
+     "title": "存储芯片将出现分化？DRAM仍供不应求 NAND最早明年Q1开始降价",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940472261.html",
+     "pubDate": "Thu, 26 Nov 2026 11:39:22 +0800",
+     "summary": "全球 存储芯片 市场或将在明年迎来重大调整。TrendForce最新报告指出， 存储芯片 DRAM和NAND市场前景将明显分化，DRAM预计持续供不应求，但NAND闪存价格预计最早将于明年第一季度开始下跌。 TrendForce同时下调了对这两类产品的收入预测，预计明年全球DRAM市场收入将达到1.15万亿美元，较今年增长69%；NAND闪存收入为4193亿美元，仅增长29%，不到DRAM增速的一半。 TrendForce指出，随着DRAM价格涨幅放缓和NAND价格下跌，预计明年整体 存储芯片 市场的收入增长率将远低于今年。可能决定未来走向的因素包括中国云企业清理库存的速度、海外GPU采购法规",
+     "source": "东方财富资讯",
+     "zh": "存储芯片将出现分化？DRAM仍供不应求 NAND最早明年Q1开始降价"
     },
     {
      "title": "Anthropic让AI重构自家核心系统：CPU消耗骤减70%，内存占用狂降80%，响应速度飙升！",
@@ -2410,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问"
     },
     {
-     "title": "AI周期能持续多久？",
-     "link": "https://wallstreetcn.com/articles/3786731",
-     "pubDate": "Thu, 26 Nov 2026 11:32:48 +0800",
-     "summary": "2026年11月，美国中期选举尘埃落定，美股AI板块的剧烈震荡与信贷市场的信用利差走阔，正在把华尔街拉入一场关于“AI投资周期持久性”的深度拷问。 11月25日，高盛最新一期播客中，主持人 Allison Nathan 邀请了身处算力基建与企业软件一线的Social Capital创始人Chamath Palihapitiya，以及高盛首席美国互联网研究分析师Eric Sheridan。 两位嘉宾围绕新兴云厂商的商业漏洞、企业端迟迟未兑现的投入产出比（ROI），以及科技巨头的财务兜底能力，完整拆解了本轮AI周期的真实账本与潜在拐点。 高盛分析师Eric Sheridan认为 超大规模云厂商回报",
-     "source": "华尔街见闻",
-     "zh": "AI周期能持续多久？"
-    },
-    {
      "title": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股",
      "link": "http://finance.eastmoney.com/news/11822,202611263940470997.html",
      "pubDate": "Thu, 26 Nov 2026 11:32:43 +0800",
      "summary": "11月26日早盘， PCB 概念震荡走高， 金百泽 20cm封板， 崇达技术 、 骏亚科技 、 快克智能 、 澳弘电子 、 普利特 等强势涨停， 金禄电子 、 满坤科技 、 华东测试 、 威尔高 、 生益科技 、 深南电路 等多股均显著走高。 消息面上，全球 电子 协会 PCB 紧缺警报持续发酵，部分 PCB 头部厂商高端产品已排产至2028年。机构认为，涨价传导链条延续，PCB产业链盈利修复有望延续。 PCB供需失衡蔓延全产业链 近日，全球 电子 协会发布名为《PCB Squeeze: A Wake-Up Call for Global Electronics》的行业预警报告，其中指出，全球",
      "source": "东方财富资讯",
      "zh": "PCB短缺警报拉响！高端产品排产至2028年 融资客超亿元押注这3股"
-    },
-    {
-     "title": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强",
-     "link": "http://finance.eastmoney.com/news/1345,202611263940470766.html",
-     "pubDate": "Thu, 26 Nov 2026 11:30:47 +0800",
-     "summary": "A股三大指数震荡，盘面上， 贵金属 、 渔业 、 元件 、 油服工程 、 煤炭 开采、 金属铅 位于涨幅榜前列， 机器人 执行器、 航空机场 、 文娱用品 、 禽 流感 、 盲盒经济 、 乘用车 表现不佳，领跌市场。 截至午间收盘，沪指下跌0.03%，报3475.46点；深成指上涨0.15%，报10101.72点；创业板指上涨0.06%，报2184.99点；科创50指数下跌0.93%，报1175.16点；北证50指数上涨0.23%，报757.60点。全市场上涨个股有2379家，下跌个股有2939家，53只股涨停。两市半日合计成交7963亿。 今日要闻 6G要来了！三部委：到2030年建成性能领",
-     "source": "东方财富资讯",
-     "zh": "创业板指上涨0.06% 贵金属板块领涨 元件板块走强"
     },
     {
      "title": "Stocks advance in Asia after volatile US trading over AI risks",
@@ -2442,44 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Stocks advance in Asia after volatile US trading over AI risks"
     },
     {
-     "title": "6G要来了！三部委：到2030年建成性能领先的新一代通信网",
-     "link": "http://www.eeo.com.cn/2026/1126/1103435.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:27:16 +0800",
-     "summary": "《实施方案》要求，到2030年，建成覆盖完善、性能领先的新一代通信网。基础网络发展水平持续领先，空间网络形成全球服务能力，国际网络韧性明显提升，融合网络实现规模化发展。",
-     "source": "经济观察网",
-     "zh": "6G要来了！三部委：到2030年建成性能领先的新一代通信网"
-    },
-    {
-     "title": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611263940466326.html",
-     "pubDate": "Thu, 26 Nov 2026 11:23:01 +0800",
-     "summary": "\"双焦\"期价连续大涨，蒙煤进口降温与冬储补库预期共振， 煤炭 板块情绪转向。 机构认为，供给约束下煤价中枢具备支撑，板块有望迎来估值修复。 蒙煤通关低位叠加安监加码 煤炭 市场情绪转向 11月25日，\"双焦\"期价大涨—— 焦煤 主力合约收涨5.42%，焦炭主力合约收涨3.98% ，双双延续反弹态势。 11月26日早盘，\"双焦\"期价继续拉升。截至上午10时25分， 焦煤 主连涨3.43%，报1509元/吨；焦炭主连涨2.61%，报2066.5元/吨。 A股方面，25日 煤炭 概念股盘中普涨， *ST瑞茂 录得\"两连板\"， 赤天化 开盘直线涨停、随后\"炸板\"；26日早盘，煤炭板块高开高走，盘中一度",
-     "source": "东方财富资讯",
-     "zh": "“双焦”期价大涨！煤炭股集体反攻 这些超跌股明年业绩可期(名单)"
-    },
-    {
-     "title": "2026年1—10月全国电力市场交易电量同比增长18.3%",
-     "link": "http://www.eeo.com.cn/2026/1126/1103428.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:19:50 +0800",
-     "summary": "2026年1—10月，全国各电力交易机构累计完成交易电量64971亿千瓦时，同比增长18.3%。",
-     "source": "经济观察网",
-     "zh": "2026年1—10月全国电力市场交易电量同比增长18.3%"
-    },
-    {
      "title": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk",
      "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
      "pubDate": "Thu, 26 Nov 2026 03:19:44 GMT",
      "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
      "source": "CNBC",
      "zh": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk"
-    },
-    {
-     "title": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场",
-     "link": "http://stock.eastmoney.com/news/11228,202611263940462596.html",
-     "pubDate": "Thu, 26 Nov 2026 11:19:00 +0800",
-     "summary": "美东时间周三（11月25日），美股市场上演了一场惊心动魄的盘中反转。 受AI板块抛售、关税政策忧虑以及美国通胀数据顽固等多重因素冲击，美股三大股指早盘集体重挫，道琼斯工业平均指数早盘一度暴跌超过1100点，跌幅达2.2%；以科技股为主的 纳斯达克 指数盘中跌幅一度扩大至4.6%，较历史最高收盘水平短暂回撤20%，逼近技术性熊市区间；标普500指数最大跌幅也达到3.2%。 纳斯达克 指数周三走势 然而，随着市场抛售情绪逐渐缓和，逢低买盘开始入场，美股自午盘前后逐步收复失地，三大股指尾盘均脱离日内低点，市场走势呈现出明显的V形修复特征。 从盘面来看，这场剧烈震荡并非由单一事件引发，而是AI投资回报",
-     "source": "东方财富资讯",
-     "zh": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场"
     },
     {
      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
@@ -2490,12 +2458,44 @@ window.INDUSTRY_DATA = {
      "zh": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash"
     },
     {
-     "title": "A股又出新概念？今天“金”字爆发",
-     "link": "http://finance.eastmoney.com/news/1344,202611263940460913.html",
-     "pubDate": "Thu, 26 Nov 2026 11:11:04 +0800",
-     "summary": "11月26日，A股市场高开后小幅回落，之后震荡上涨。盘面上，农业板块大爆发， 金健米业 、 宏辉果蔬 、 中水渔业 等涨停。 PCB 板块出现涨停潮， 金百泽 、 奥士康 、 骏亚科技 、 崇达技术 等多股涨停。光模块也表现不错， 中际旭创 、 东山精密 涨近5%。 值得关注的是，今日含“金”字个股大爆发，其中 金三江 、 金百泽 20%涨停，涨幅居前。 金健米业 、 金螳螂 、 金牛化工 、 金辰股份 、 金正大 等多只含有“金”字个股涨停。 除了上述含“金”字个股外，自带“金”字的 黄金 板块涨幅居前， 招金黄金 涨超8%， 赤峰黄金 、 四川黄金 等涨超5%， 中金黄金 、 山金国际 、",
-     "source": "东方财富资讯",
-     "zh": "A股又出新概念？今天“金”字爆发"
+     "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+     "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+     "pubDate": "Thu, 26 Nov 2026 03:09:47 GMT",
+     "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+     "source": "CNBC",
+     "zh": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday"
+    },
+    {
+     "title": "Court blocks FCC move on ABC licenses in free speech ruling for Disney",
+     "link": "https://seekingalpha.com/news/4676731-court-blocks-fcc-move-on-abc-licenses-in-free-speech-ruling-for-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 21:50:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Court blocks FCC move on ABC licenses in free speech ruling for Disney"
+    },
+    {
+     "title": "NYC rent freeze survives court challenge; REIT stocks in focus",
+     "link": "https://seekingalpha.com/news/4676730-nyc-rent-freeze-upheld-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 21:44:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NYC rent freeze survives court challenge; REIT stocks in focus"
+    },
+    {
+     "title": "Bank of Korea raises interest rates amid AI chip boom",
+     "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+     "pubDate": "Thu, 26 Nov 2026 02:27:04 GMT",
+     "summary": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+     "source": "Financial Times",
+     "zh": "Bank of Korea raises interest rates amid AI chip boom"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 01:15:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance"
     }
    ]
   },

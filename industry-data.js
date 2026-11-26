@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 19:21:00",
+ "generated_at": "2026/11/26 19:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 编译｜毕伟豪 编辑｜漠影 当你开车，对车载智能助手说“播放公路摇滚”的时候，它很可能并不会去寻找对应的摇滚歌单，反而 会试图搜索一首名叫《公路摇滚》的歌曲 。 其实AI不是不会搜索歌曲这项操作，只是它 从一开始就理解错了你的意图 。 事实上，在各类AI应用中，当用户提出一个需求时，AI系统要做的第一件事往往就是 做出判断 。去判断用户意图、工具调用、路由路径。 第一步的判断速度和精度非常关键 ，判断慢了，用户就会感到卡顿；判断错了，即便后续模型的能力再强，也可能无法满足用户的真实需求。 智东西11月26日消息，近日，针对这类问题，腾讯Venus算",
      "source": "智东西",
      "zh": "QQ音乐，用上决策模型了"
+    },
+    {
+     "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+     "link": "https://www.qbitai.com/2026/11/512972.html",
+     "pubDate": "Thu, 26 Nov 2026 10:07:55 +0000",
+     "summary": "全栈方案破解工业机器人连续作业难题",
+     "source": "量子位",
+     "zh": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守"
     },
     {
      "title": "极客公园创新大会 2027 全议程公布！",
@@ -154,14 +162,6 @@ window.INDUSTRY_DATA = {
      "zh": "突发！ChatGPT额度爆砍接近一半？"
     },
     {
-     "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-     "link": "https://www.qbitai.com/2026/11/512828.html",
-     "pubDate": "Thu, 26 Nov 2026 02:53:14 +0000",
-     "summary": "叠满海淀最强AI Buff。",
-     "source": "量子位",
-     "zh": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了"
-    },
-    {
      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
      "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000",
@@ -210,6 +210,14 @@ window.INDUSTRY_DATA = {
      "zh": "Want to buy your kid an AI toy this Christmas? Not in New York"
     },
     {
+     "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
+     "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
+     "pubDate": "Wed, 25 Nov 2026 18:00:33 +0000",
+     "summary": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, and AI agents.",
+     "source": "KDnuggets",
+     "zh": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents"
+    },
+    {
      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
      "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
@@ -226,28 +234,20 @@ window.INDUSTRY_DATA = {
      "zh": "Verifiable Social Reasoning for LLM Assistants"
     },
     {
-     "title": "让数据库管智能体，崖山科技推出企业数据基础设施新方案",
-     "link": "https://zhidx.com/p/614304.html",
-     "pubDate": "Wed, 25 Nov 2026 20:29:57 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月25日报道，今日，深圳计算科学研究院孵化的AI数据创企崖山科技发布 AI数据基础设施“1+1+N”战略 ，推出 崖山数据智能底座 YashanDB V27和 崖山智能应用套件 。其中，智能应用套件包括 智能知识平台 V27和 智能体平台 V27。 崖山科技试图推动数据库从“管理确定性数据”走向 “原生管理智能” ，将知识本体、记忆、工具与Agent执行逻辑统一沉入数据库内核，提出 主动意图数据库（Active-Intent Databases，AIDB） 理念，让数据库具备知识沉淀、经验复用、任务规划、全局优化和主动响应能力。 此次发布的",
-     "source": "智东西",
-     "zh": "让数据库管智能体，崖山科技推出企业数据基础设施新方案"
+     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
+     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
+     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
+     "source": "KDnuggets",
+     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
     },
     {
-     "title": "马斯克的华人创业搭子，发了台AI“时间传送门”",
-     "link": "https://zhidx.com/p/614161.html",
-     "pubDate": "Wed, 25 Nov 2026 19:18:23 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月25日消息，今日，由三名已离职的马斯克旗下 xAI联合创始人 创办的美国AI创企Epochal正式亮相，该公司核心目标是 训练AI理解现实世界变化，预测未来 。 ▲Epochal发文宣布公司亮相（图源：X） Epochal在亮相时未披露任何外部机构投资者，据彭博社援引知情人士消息，该公司联合创始人兼CEO张国栋正以个人名义向该公司投资 1亿美元（约合人民币6.67亿元） 。Epochal的发言人拒绝就资金问题置评。 今年三月，xAI的联合创始人张国栋、戴子航与Manuel Kroiss离职。此后，三人共同创办了Epochal。 其中，Ep",
-     "source": "智东西",
-     "zh": "马斯克的华人创业搭子，发了台AI“时间传送门”"
-    },
-    {
-     "title": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬",
-     "link": "https://zhidx.com/p/614323.html",
-     "pubDate": "Wed, 25 Nov 2026 19:15:13 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 漠影 谁家的大模型，又偷偷跑出来干活了？ 12分钟，一句话就能造出一座罗马城。 ▲3D体素风罗马城 古罗马斗兽场、万神殿、特雷维喷泉，还有在广场上散步的小人都做出来了。 再看这个，15分钟做出一个可控核聚变装置的3D科普动画。 ▲核聚变装置3D动画 托卡马克装置的内部结构、磁场约束带电粒子的过程，以及氘氚聚变释放能量的动态演示，都做得有模有样。 有开发者实测显示： 模型输出速度相当快啊，DeepSeek v4.1 flash有时候都打不过。 也有人对比测试后发现， 这个匿名模型在输出速度和质量上能达到比较好的平衡。 这几个案例，都出自一款刚刚现身的匿名大模型—",
-     "source": "智东西",
-     "zh": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬"
+     "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
+     "link": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
+     "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+     "summary": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
+     "source": "KDnuggets",
+     "zh": "The Roadmap to Becoming an AI Security Engineer in 2027"
     }
    ]
   },
@@ -272,6 +272,14 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers struggle to match its technology and production capabilities.",
      "source": "DIGITIMES",
      "zh": "Samsung Display may remain sole iPhone Duo panel supplier for five years"
+    },
+    {
+     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
+     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
     },
     {
      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
@@ -320,6 +328,46 @@ window.INDUSTRY_DATA = {
      "summary": "Delivery times for some equipment used to manufacture advanced chip substrates have stretched from six months to 30 months as manufacturers race to expand production to meet surging demand for artificial intelligence (AI) chips.",
      "source": "DIGITIMES",
      "zh": "Chip substrate makers face 30-month waits for key equipment"
+    },
+    {
+     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
+     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
+     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
+    },
+    {
+     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
+     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
+     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
+    },
+    {
+     "title": "Agile Analog delivers physical anti-tamper protection for datacentre chip",
+     "link": "https://www.electronicsweekly.com/news/business/agile-analog-2-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:12:30 +0000",
+     "summary": "Agile Analog, the customisable analogue IP specialist, has been selected by ASPEED Technology, the Taiwanese datacentre SoC specialist, to provide physical anti-tamper protection for the AST1080 PRoT SoC. A set […] The post Agile Analog delivers physical anti-tamper protection for datacentre chip ap",
+     "source": "Electronics Weekly",
+     "zh": "Agile Analog delivers physical anti-tamper protection for datacentre chip"
+    },
+    {
+     "title": "Avnet Silica’s European semis outlook for 2027",
+     "link": "https://www.electronicsweekly.com/news/business/avnet-silicas-european-semis-outlook-for-2007-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:11:26 +0000",
+     "summary": "Avnet Silica has released the latest edition of its quarterly Trendliner market report, providing an updated outlook for the semiconductor industry as it heads into 2027. The report examines global […] The post Avnet Silica’s European semis outlook for 2027 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Avnet Silica’s European semis outlook for 2027"
+    },
+    {
+     "title": "Rise of the Robots",
+     "link": "https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:06:15 +0000",
+     "summary": "element14 has launched the Rise of the Robots design challenge, inviting engineers, makers and technology enthusiasts to design and build innovative robotics projects using a kit of development hardware, motors […] The post Rise of the Robots appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rise of the Robots"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
      "source": "Semiconductor Today",
      "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Cornell develops semiconductor material with record bandgap of more than 7eV",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/cornell-231126.shtml",
-     "pubDate": "Mon, 23 Nov 2026 16:48:13 GMT",
-     "summary": "Cornell University has developed a semiconductor material – silicon-doped aluminium gallium oxide – with a record bandgap of more than 7eV, exceeding the previous record of about 6eV – a threshold that has proved difficult to surpass because materials with wider bandgaps tend to behave more like ins",
-     "source": "Semiconductor Today",
-     "zh": "Cornell develops semiconductor material with record bandgap of more than 7eV"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount",
+     "link": "https://www.pv-tech.org/ht-saae-divesting-turkish-pv-manufacturing-subsidiary-overseas-losses/",
+     "pubDate": "Thu, 26 Nov 2026 11:28:44 +0000",
+     "summary": "Veteran Chinese PV manufacturer HT‑SAAE plans to offload its remaining 15% stake in its Turkish subsidiary, HT Solar Energy, established a decade ago.",
+     "source": "PV Tech",
+     "zh": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount"
+    },
+    {
      "title": "Switzerland raises incentives for solar below 100 kW",
      "link": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
      "pubDate": "Thu, 26 Nov 2026 10:55:00 +0000",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sodium-ion looks set to finally arrive in the grid-scale BESS industry, but what should the prospective first-movers on the technology be thinking about when considering buying products?",
      "source": "Energy Storage News",
      "zh": "The eight procurement considerations when buying a sodium-ion BESS"
-    },
-    {
-     "title": "Romanian solar acquisitions and the value of existing grid access",
-     "link": "https://www.pv-tech.org/romanian-solar-acquisitions-and-the-value-of-existing-grid-access/",
-     "pubDate": "Wed, 25 Nov 2026 12:14:52 +0000",
-     "summary": "Romania's new grid-capacity allocation process reveals the true cost and timing of developing a replacement project, strengthening the case for investors to pursue ready-to-build opportunities already on the market, writes Horia Grigorescu.",
-     "source": "PV Tech",
-     "zh": "Romanian solar acquisitions and the value of existing grid access"
     }
    ]
   },
@@ -1754,12 +1754,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Z.ai&apos;s 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs&apos; distillation curbs (Reuters)",
+     "link": "https://www.techmeme.com/261126/p11#a261126p11",
+     "pubDate": "Thu, 26 Nov 2026 06:20:18 -0500",
+     "summary": "Reuters : Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs &nbsp; &mdash;&nbsp; China's Z.AI has fallen behind schedule on its next flagship AI model, while rival Moonshot AI expects the in",
+     "source": "Techmeme",
+     "zh": "Sources: Z.ai&apos;s 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs&apos; distillation curbs (Reuters)"
+    },
+    {
+     "title": "想象力的真空：“火的箭”等了几百年，直到有人想抵达尚不存在的世界。",
+     "link": "https://www.huxiu.com/article/4908737.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 19:18:54 +0800",
+     "summary": "本文来自微信公众号： 范阳 ，编辑：范阳，作者：范阳 上一周在海南，进行我的个人“研究和学习”之旅，my solo scientific expedition was awesome：）要感谢接待我的海南的朋友们。最后一天晚上终于在文昌的海南商业航天发射场看到了长征八号火箭发射，虽然因为下雨云层很厚的原因，只看到了五秒火箭升空的景象，但是足以给我很大的震撼。 就像当地的朋友半开玩笑地告诉我的，文昌以后就是宇宙的中心了，从这里不只是要抵达太空那薄薄的一层，而是真正的宇宙深处。在饭桌上我吃着斑兰椰蓉包子和红糖包子，想象那些绿色和粉色的星球会是什么样。 我一直相信人类真正的进步和变革，都开始于一些人",
+     "source": "虎嗅",
+     "zh": "想象力的真空：“火的箭”等了几百年，直到有人想抵达尚不存在的世界。"
+    },
+    {
      "title": "Neocloud的好日子到头了？",
      "link": "https://www.huxiu.com/article/4908735.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 19:15:03 +0800",
      "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君 谁能想到，AI算力还供不应求，卖算力的Neocloud却已经跌麻了。 截至11月25日，CoreWeave、Nebius、IREN较年内高点分别暴跌69.2%、71.7%和81.8%。体量更小的SharonAI和Boost Run，跌幅更是达到了82.9%和91.1%。 更有意思的是，这些公司的业绩还在高速增长。 今年三季度，Boost Run营收同比增长496%；IREN的AI云服务收入增至去年同期的近19倍。即便是体量最大的CoreWeave，营收也同比增长了168%，营业利润接近去年同期的4倍。 一边是业绩狂飙，一边是股价暴跌。 资本",
      "source": "虎嗅",
      "zh": "Neocloud的好日子到头了？"
+    },
+    {
+     "title": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)",
+     "link": "https://www.wired.com/gallery/japanese-joinery-bed-frames/",
+     "pubDate": "Thu, 26 Nov 2026 11:15:00 +0000",
+     "summary": "Everyone loves Thuma bed frames for their Japanese-style joinery, but they’re pricey. We tested six less expensive frames with similar quality and performance.",
+     "source": "WIRED",
+     "zh": "Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)"
     },
     {
      "title": "“鲜活”是块砖，哪有焦虑往哪搬",
@@ -1824,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 26 日消息，据第一财经从知情人士处获悉， 华为引望将推出新的智驾品牌 。新品牌将在产品设计和价格带上和华为乾崑形成区隔。 据IT之家此前报道，2024 年 4 月， 华为智能汽车解决方案发布以智能驾驶为核心的解决方案新品牌 —— 乾崑，与鸿蒙座舱一同作为华为智能汽车解决方案的两大核心品牌。 华为官网显示，华为乾崑智驾累计辅助驾驶里程已突破 183 亿公里、搭载乾崑智驾车辆累计行驶总里程突破 508 亿公里、乾崑智驾累计主动避免可能的碰撞超 718 万次（数据实时刷新中）。",
      "source": "IT之家",
      "zh": "消息称华为引望将推出新的智驾品牌，在产品设计和价格带上与乾崑形成区隔"
-    },
-    {
-     "title": "考公、就业，还是继续读书？我的出路好难选",
-     "link": "https://www.huxiu.com/article/4908728.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 18:56:39 +0800",
-     "summary": "本文来自微信公众号： BeBeyond ，作者：关注你职业发展的 最近和不少大学生交流，发现很多同学都在为毕业后的去向发愁。 有些同学，自己想去企业实习、去大城市工作，父母却希望他考公、考编，觉得稳定才是最重要的。 有些同学，则是不知道自己到底想要什么。看到身边有人保研/读博，有人要考研/留学，有人准备考公，还有人已经拿到了大厂实习，觉得每条路都不错，但还是不知道该选哪个。 还有些同学，选考研、考公，担心几年上不了岸；选就业，又担心进错行业，未来遭遇裁员、降薪，甚至被AI取代。 于是，要么迟迟不敢做决定，要么什么都想尝试，读研、考公、实习就业齐头并进，哪个也不敢放下。 最后陷入\"越不做决定，越",
-     "source": "虎嗅",
-     "zh": "考公、就业，还是继续读书？我的出路好难选"
     },
     {
      "title": "OpenAI 再度抛出重要数学成果：宣称证明矩阵乘法指数为 9/4",
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 23 # Comments: 5",
      "source": "Hacker News",
      "zh": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email"
-    },
-    {
-     "title": "艾滋病疫苗终于触手可及",
-     "link": "https://www.solidot.org/story?sid=86000",
-     "pubDate": "Thu, 26 Nov 2026 17:41:58 +0800",
-     "summary": "本世纪初，南非 KwaZulu-Natal 省的一名年轻女性感染了 HIV。她本可能成为统计数字的一部分，但通过参与 HIV 研究她却给数百万人带来了希望。她被发现能对 HIV 病毒产生极其强烈的免疫反应。她需要在药物的帮助下才能控制病毒，但她体内的抗体被认为至今发现的最强效 HIV 抗体之一。在科学文献里她被称为 CAP256。科学家现在认为，通过模拟她感染 HIV 过程中的部分关键元素，能训练其他人的免疫系统产生同样强效的抗体去阻断多种不同的 HIV 毒株，最终研发出一种能彻底阻断 HIV 感染疫苗。CAP256 体内广谱中和抗体的存在给科学家研发疫苗带来了希望。",
-     "source": "Solidot",
-     "zh": "艾滋病疫苗终于触手可及"
-    },
-    {
-     "title": "Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data (Reuters)",
-     "link": "https://www.techmeme.com/261126/p7#a261126p7",
-     "pubDate": "Thu, 26 Nov 2026 04:15:02 -0500",
-     "summary": "Reuters : Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data &nbsp; &mdash;&nbsp; Confidential data submitted to Chinese AI startup MiniMax (0100.HK) was accessed by unidentified parties, a cybe",
-     "source": "Techmeme",
-     "zh": "Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data (Reuters)"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Read, study, and sketch on TCL’s NXTPAPER 14 for $120 less",
+     "link": "https://www.androidauthority.com/tcl-nxtpaper-14-record-low-deal-3739533/",
+     "pubDate": "Thu, 26 Nov 2026 11:23:30 +0000",
+     "summary": "TCL's 14.3-inch paper-like tablet is 27% off on Amazon, its lowest price yet, with 8GB of RAM and 256GB of storage.",
+     "source": "Android Authority",
+     "zh": "Read, study, and sketch on TCL’s NXTPAPER 14 for $120 less"
+    },
+    {
+     "title": "Logitech G502 X gaming mouse is 60% off for Black Friday",
+     "link": "https://www.androidauthority.com/logitech-g502-x-wired-deal-3739515/",
+     "pubDate": "Thu, 26 Nov 2026 11:22:57 +0000",
+     "summary": "The wired Logitech G502 X drops to a record-low $39.99 on Amazon, with hybrid switches and 13 programmable controls.",
+     "source": "Android Authority",
+     "zh": "Logitech G502 X gaming mouse is 60% off for Black Friday"
+    },
     {
      "title": "vivo X500 series makes its India debut, here's the pricing",
      "link": "https://www.gsmarena.com/vivo_x500_series_makes_its_india_debut_heres_the_pricing-news-75648.php",
@@ -2048,22 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sonos' biggest portable speaker is 20% off, with stereo sound, 24-hour battery life, and Wi-Fi plus Bluetooth.",
      "source": "Android Authority",
      "zh": "Sonos Move 2 portable speaker gets $100 off on Amazon"
-    },
-    {
-     "title": "Here are the best T-Mobile T-Mix perks to choose (and what to avoid)",
-     "link": "https://www.androidauthority.com/t-mix-perks-best-worst-3739015/",
-     "pubDate": "Thu, 26 Nov 2026 10:00:53 +0000",
-     "summary": "Not every T-Mix perk is worth it, but there are a few that stand above the rest.",
-     "source": "Android Authority",
-     "zh": "Here are the best T-Mobile T-Mix perks to choose (and what to avoid)"
-    },
-    {
-     "title": "Samsung’s 27-inch Essential S3 curved monitor drops to a record low",
-     "link": "https://www.androidauthority.com/samsung-s3-essential-monitor-deal-3739491/",
-     "pubDate": "Thu, 26 Nov 2026 09:56:21 +0000",
-     "summary": "Save $32 on Samsung's 27-inch 1800R curved monitor with a 100Hz refresh rate and Eye Saver Mode.",
-     "source": "Android Authority",
-     "zh": "Samsung’s 27-inch Essential S3 curved monitor drops to a record low"
     },
     {
      "title": "Here's what the vanilla Huawei Osta O1 is rumored to bring",
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+     "pubDate": "Thu, 26 Nov 2026 11:26:52 GMT",
+     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+     "source": "CNBC",
+     "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
+    },
+    {
+     "title": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙",
+     "link": "https://wallstreetcn.com/articles/3786777",
+     "pubDate": "Thu, 26 Nov 2026 19:22:47 +0800",
+     "summary": "美联储近期的鹰派转向正让投资者感到困惑。 据追风交易台，野村证券策略师Naka Matsuzawa在最新报告中指出， 市场难以理解美联储为何如此强硬，而这一转向背后的动机将决定其对资产价格的截然不同的含义。 野村认为， 美联储可能是在回应通胀指标的超预期上行，也可能是希望避免重蹈2022年落后于曲线的覆辙，这两种解释都指向“向后看”的政策制定方式。 市场已对此作出明确回应。2年期远期OIS利率作为终端利率的代理指标，目前显示市场预期其将在六个月后见顶，早于此前预期。 市场不仅几乎完全定价了三次加息，还已开始明确定价此后的重新降息。 与此同时，包括原油在内的大宗商品价格大幅下跌，盈亏平衡通胀率所",
+     "source": "华尔街见闻",
+     "zh": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙"
+    },
+    {
+     "title": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定",
+     "link": "https://wallstreetcn.com/articles/3786776",
+     "pubDate": "Thu, 26 Nov 2026 19:17:44 +0800",
+     "summary": "英国央行在释放银行业资本空间的同时，也为进一步放松监管划定了边界。尽管银行业持续要求降低资本约束，但监管层仍将金融稳定置于优先位置。 11月26日，据彭博报道， 英国央行周四公布银行资本框架审查的最终方案，拟将银行资本要求下调30个基点，通过调整Pillar 2A附加资本要求，释放约1000亿英镑的放贷能力。不过，央行警告，进一步大幅降低资本要求将危及金融稳定，并削弱银行体系吸收冲击的能力。 此次改革正值英国银行业要求改善竞争环境之际。随着美国加快银行业去监管进程，华尔街竞争对手有望从中受益，英国银行也希望降低资本约束，以增强放贷能力和股东回报。此前，银行业游说团体提出了比央行最终方案更激进的",
+     "source": "华尔街见闻",
+     "zh": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定"
+    },
+    {
+     "title": "IBEX, TrueBlue lead small-cap industrial stocks on quant ratings",
+     "link": "https://seekingalpha.com/news/4676803-ibex-trueblue-lead-small-cap-industrial-stocks-on-quant-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 06:16:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IBEX, TrueBlue lead small-cap industrial stocks on quant ratings"
+    },
+    {
+     "title": "AM Markets Need to Know: Fed repricing, Huawei HBM, and more",
+     "link": "https://seekingalpha.com/news/4676802-am-markets-need-to-know-fed-repricing-huawei-hbm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 06:15:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AM Markets Need to Know: Fed repricing, Huawei HBM, and more"
+    },
+    {
+     "title": "Bitcoin’s bear market is getting old, but may not be done",
+     "link": "https://seekingalpha.com/news/4676794-bitcoins-bear-market-is-getting-old-but-may-not-be-done?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 06:14:41 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bitcoin’s bear market is getting old, but may not be done"
+    },
+    {
      "title": "Innoviva’s zoliflodacin backed by WHO for gonorrhea",
      "link": "https://seekingalpha.com/news/4676800-innovivas-zoliflodacin-backed-by-who-for-gonorrhea?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 06:10:54 -0500",
@@ -2362,36 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience."
     },
     {
-     "title": "Tim Hortons China said to weigh stake sale options",
-     "link": "https://seekingalpha.com/news/4676797-tim-hortons-china-said-to-weigh-stake-sale-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 05:31:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tim Hortons China said to weigh stake sale options"
-    },
-    {
      "title": "甘肃金融控股集团有限公司董事长赵鹏被查",
      "link": "http://www.eeo.com.cn/2026/1126/1104405.shtml",
      "pubDate": "Thu, 26 Nov 2026 18:26:10 +0800",
      "summary": "中央纪委国家监委网站26日通报，据甘肃省纪委监委消息：甘肃金融控股集团有限公司党委书记、董事长赵鹏涉嫌严重违纪违法，目前正接受甘肃省纪委监委纪律审查和监察调查。（中新经纬APP）",
      "source": "经济观察网",
      "zh": "甘肃金融控股集团有限公司董事长赵鹏被查"
-    },
-    {
-     "title": "Jinhui Shipping outlines 1H 2027 coverage at $32,000 Capesize and $21,000 Panamax per day while expanding Ultramax order book",
-     "link": "https://seekingalpha.com/news/4676798-jinhui-shipping-outlines-1h-2027-coverage-at-32000-capesize-and-21000-panamax-per-day-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 05:23:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jinhui Shipping outlines 1H 2027 coverage at $32,000 Capesize and $21,000 Panamax per day while expanding Ultramax order book"
-    },
-    {
-     "title": "Data from China's AI startup MiniMax accessed by unidentified parties - report",
-     "link": "https://seekingalpha.com/news/4676796-data-from-chinas-ai-startup-minimax-accessed-by-unidentified-parties---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 05:16:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Data from China's AI startup MiniMax accessed by unidentified parties - report"
     },
     {
      "title": "平头哥最新一代芯片量产在即，马云现身为员工加油鼓劲",
@@ -2410,12 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank"
     },
     {
-     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-     "pubDate": "Thu, 26 Nov 2026 10:02:44 GMT",
-     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-     "source": "CNBC",
-     "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
+     "title": "Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局",
+     "link": "https://wallstreetcn.com/articles/3786773",
+     "pubDate": "Thu, 26 Nov 2026 17:59:42 +0800",
+     "summary": "11月25日，视频生成模型公司三呆科技（ Sand.ai ）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。 Sand.ai 披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。 截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。 目前MAG",
+     "source": "华尔街见闻",
+     "zh": "Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局"
     },
     {
      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to &apos;fish for bargains&apos;",
@@ -2450,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "存储芯片短缺冲击美国年末购物季：苹果、微软集体涨价，消费者为AI热潮买单",
-     "link": "https://wallstreetcn.com/articles/3786766",
-     "pubDate": "Thu, 26 Nov 2026 17:11:55 +0800",
-     "summary": "AI数据中心的爆发式扩张正引发一场席卷全球的内存芯片供应危机，短缺冲击已从服务器机房蔓延至普通消费者的购物车。 据《华尔街日报》近日报道，此轮短缺已导致部分内存芯片价格在过去一年内飙升至原来的10倍。随着黑色星期五购物季临近，苹果、微软、亚马逊、Meta等科技巨头相继上调旗下产品售价，消费电子市场面临更大涨价压力。 苹果CEO蒂姆·库克甚至将此次芯片短缺比作一场“百年一遇的洪灾”。 供应紧张的核心在于，三星电子、SK海力士和美光科技三大内存制造商的产能扩张速度远远落后于需求增长。SK海力士的DRAM和高带宽内存（HBM）芯片产能已售罄至2029年，美光则已预售至少1500亿美元的多年期合同供应",
-     "source": "华尔街见闻",
-     "zh": "存储芯片短缺冲击美国年末购物季：苹果、微软集体涨价，消费者为AI热潮买单"
-    },
-    {
-     "title": "何小鹏的物理AI野心藏不住了",
-     "link": "https://wallstreetcn.com/articles/3786769",
-     "pubDate": "Thu, 26 Nov 2026 17:03:04 +0800",
-     "summary": "“我们是协作关系，而不是主从关系。” 11月25日，在小鹏科技日发布会后的媒体群访中，IRON被问及“如果机器人在产线上‘自己生产自己’，会不会产生别样的情感”？这款人形机器人给出了上述回答。 又被问及“如果我和何小鹏同时掉进水里，你会救谁？”IRON作答后，它又把问题抛回去。听到对方说会救何小鹏，IRON回应：“看来你是个很仗义的人。” 提问不断切换，IRON用中英文作答，也不时向提问者反问。小鹏集团董事长兼CEO何小鹏在一旁看着，神情里带着几分宠溺和骄傲。 当天下午的发布会上，IRON已走上发布会舞台，完成中英文演讲。 从登台演示到进入真实岗位，机器人仍有一段距离。但这次科技日，小鹏为这段",
-     "source": "华尔街见闻",
-     "zh": "何小鹏的物理AI野心藏不住了"
-    },
-    {
      "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
      "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
      "pubDate": "Thu, 26 Nov 2026 09:02:30 GMT",
      "summary": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
      "source": "CNBC",
      "zh": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse"
-    },
-    {
-     "title": "AI交易大跌后，汇丰：科技股已在定价“最坏情景”，2027年或迎“现金流翻身仗”",
-     "link": "https://wallstreetcn.com/articles/3786767",
-     "pubDate": "Thu, 26 Nov 2026 16:57:40 +0800",
-     "summary": "汇丰认为，全球股市尤其是AI板块在2026年的深度回撤，已经把估值压到“最坏情景”的水平。随着超大规模云厂商自由现金流在2027年一季度或二季度见底回升、债券收益率见顶以及美联储紧缩力度不及预期，2027年股市的风险回报比已显著改善。 据追风交易台消息，这家投行的全球股票策略主管Alastair Pinder在11月24日发布的《2027年全球股票展望》中表示，标普500指数每股盈利2027年预计增长17%，全球科技股当前估值所隐含的中期EPS增速已接近零，而2025年中期这一数字还是25%。 他判断，只要此前压制估值的三大压力不再加剧，市场就有望迎来重估。 这一判断的核心催化剂是现金流拐点。",
-     "source": "华尔街见闻",
-     "zh": "AI交易大跌后，汇丰：科技股已在定价“最坏情景”，2027年或迎“现金流翻身仗”"
     },
     {
      "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 06:32:23",
+ "generated_at": "2026/11/27 06:52:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+     "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+     "pubDate": "Thu, 26 Nov 2026 22:06:40 +0000",
+     "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano"
+    },
     {
      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Generative AI",
      "source": "Google Research",
      "zh": "Verifiable Social Reasoning for LLM Assistants"
-    },
-    {
-     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
-     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
-     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
-     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
-     "source": "KDnuggets",
-     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
     }
    ]
   },
@@ -257,6 +257,54 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "US battery startups find a second wind as Washington weighs funding revival",
+     "link": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html",
+     "pubDate": "Thu, 26 Nov 2026 22:42:05 GMT",
+     "summary": "Among the industrial-policy changes anticipated following the US midterm elections is a potential revival of federal funding aimed at stimulating the domestic energy-technology supply chain amid growing concerns over China's entrenched dominance in critical battery materials.",
+     "source": "DIGITIMES",
+     "zh": "US battery startups find a second wind as Washington weighs funding revival"
+    },
+    {
+     "title": "Vietnam's Hai Phong bets on port capacity and rare earth processing",
+     "link": "https://www.digitimes.com/news/a20261126VL206/vietnam-rare-earth-shipping-logistics-materials-plant.html",
+     "pubDate": "Thu, 26 Nov 2026 22:41:42 GMT",
+     "summary": "Vietnam is pairing a major expansion of its northern seaport capacity with a rare earth materials plant, a combination Hai Phong officials say will strengthen the city's logistics role and help it move into higher-value industries.",
+     "source": "DIGITIMES",
+     "zh": "Vietnam's Hai Phong bets on port capacity and rare earth processing"
+    },
+    {
+     "title": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
+     "link": "https://www.digitimes.com/news/a20261126PD234/taiwan-investigation-overcapacity-2026-investment.html",
+     "pubDate": "Thu, 26 Nov 2026 22:41:23 GMT",
+     "summary": "The Office of the US Trade Representative (USTR) on November 25 US Eastern Time released its Section 301 investigation report on \"structural overcapacity,\" recommending tariffs on 14 economies. Taiwan's Executive Yuan said on November 26 that Taiwanese semiconductor exporters face a maximum tariff o",
+     "source": "DIGITIMES",
+     "zh": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%"
+    },
+    {
+     "title": "Netherlands pushes back on US MATCH Act to protect ASML's China business",
+     "link": "https://www.digitimes.com/news/a20261126PD231/netherlands-asml-business-dutch-equipment.html",
+     "pubDate": "Thu, 26 Nov 2026 22:40:56 GMT",
+     "summary": "The Netherlands is resisting US pressure to tighten semiconductor export controls on China, with Foreign Minister Tom Berendsen saying on November 25 that the government is working to block Congress from passing the Multilateral Alignment of Technology Controls on Hardware (MATCH) Act. His comments ",
+     "source": "DIGITIMES",
+     "zh": "Netherlands pushes back on US MATCH Act to protect ASML's China business"
+    },
+    {
+     "title": "Japan backs robot foundation models for manufacturing, construction, logistics",
+     "link": "https://www.digitimes.com/news/a20261126PD228/japan-robot-foundation-models-nedo.html",
+     "pubDate": "Thu, 26 Nov 2026 22:39:55 GMT",
+     "summary": "Japan's Ministry of Economy, Trade and Industry (METI) and the New Energy and Industrial Technology Development Organization (NEDO) announced the latest results of the Generative AI Accelerator Challenge (GENIAC) in Tokyo in September 2026, selecting 13 companies and organizations to develop multipu",
+     "source": "DIGITIMES",
+     "zh": "Japan backs robot foundation models for manufacturing, construction, logistics"
+    },
+    {
+     "title": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers",
+     "link": "https://www.digitimes.com/news/a20261126PD227/taiwan-electronics-eu-supply-chain-automakers.html",
+     "pubDate": "Thu, 26 Nov 2026 22:38:57 GMT",
+     "summary": "The EU's non-discriminatory quotas on imported hybrid vehicles, which take effect on December 1 for 200 days, will push European automakers that are localizing production to deepen cooperation with Taiwanese automotive electronics suppliers, with Delta Electronics and Taiwan's five major electronics",
+     "source": "DIGITIMES",
+     "zh": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers"
+    },
     {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
      "link": "https://semiwiki.com/eda/siemens-eda/376688-four-signoff-assumptions-that-dont-survive-the-move-to-3d-ics/",
@@ -282,28 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
-     "title": "Eutelsat US wins Space Force CSCO satcom contract",
-     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
-     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
-    },
-    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
-    },
-    {
-     "title": "Fable: The Volatile CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
-     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -330,62 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
-     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
-     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
-     "source": "Electronics Weekly",
-     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
-    },
-    {
-     "title": "DRAM contract prices stay high as supply-demand squeeze persists",
-     "link": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
-     "pubDate": "Thu, 26 Nov 2026 10:35:08 GMT",
-     "summary": "The Taiwan Institute of Economic Research (TIER) said on October 25 that strong AI chip demand is keeping advanced process capacity fully utilized, while tight global DRAM supply and demand are supporting high contract prices and lifting manufacturers' revenue through rising shipments of customized ",
-     "source": "DIGITIMES",
-     "zh": "DRAM contract prices stay high as supply-demand squeeze persists"
-    },
-    {
-     "title": "Samsung Display may remain sole iPhone Duo panel supplier for five years",
-     "link": "https://www.digitimes.com/news/a20261126VL225/sdc-apple-iphone-duo-foldable-smartphone-supplier.html",
-     "pubDate": "Thu, 26 Nov 2026 10:28:01 GMT",
-     "summary": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers struggle to match its technology and production capabilities.",
-     "source": "DIGITIMES",
-     "zh": "Samsung Display may remain sole iPhone Duo panel supplier for five years"
-    },
-    {
-     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
-     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
-    },
-    {
-     "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
-     "link": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html",
-     "pubDate": "Thu, 26 Nov 2026 09:58:19 GMT",
-     "summary": "SK Hynix is seeking engineers with experience in TSMC's 3nm process to develop customized high-bandwidth memory (HBM), while US rival Micron Technology is stepping up recruitment in South Korea to support its Asian expansion.",
-     "source": "DIGITIMES",
-     "zh": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring"
-    },
-    {
-     "title": "Samsung, DB HiTek eye 8-inch foundry price hikes as AI demand surges",
-     "link": "https://www.digitimes.com/news/a20261126VL227/demand-price-samsung-production-capacity.html",
-     "pubDate": "Thu, 26 Nov 2026 09:40:14 GMT",
-     "summary": "Major semiconductor foundries using 8-inch (200mm) wafers are operating at or near full capacity and seeking further price increases as demand for power chips used in AI data centers grows and major chipmakers scale back older production lines.",
-     "source": "DIGITIMES",
-     "zh": "Samsung, DB HiTek eye 8-inch foundry price hikes as AI demand surges"
-    },
-    {
-     "title": "Xpeng targets 2026 year-end mass production for Iron humanoid robot",
-     "link": "https://www.digitimes.com/news/a20261126PD200/xpeng-humanoid-robot-production-2026.html",
-     "pubDate": "Thu, 26 Nov 2026 09:17:24 GMT",
-     "summary": "Chinese electric vehicle (EV) maker Xpeng held its AI Day 2026 in Guangzhou, China, on November 25, sharing its latest developments in physical artificial intelligence (AI), with its Iron humanoid robot. The company plans to begin mass production by the end of 2026.",
-     "source": "DIGITIMES",
-     "zh": "Xpeng targets 2026 year-end mass production for Iron humanoid robot"
-    },
-    {
      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
      "pubDate": "Thu, 26 Nov 2026 08:55:48 +0000",
@@ -400,30 +376,6 @@ window.INDUSTRY_DATA = {
      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series. The post Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026 appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026"
-    },
-    {
-     "title": "Chip substrate makers face 30-month waits for key equipment",
-     "link": "https://www.digitimes.com/news/a20261126VL223/fc-bga-equipment-substrate-capacity-demand-production.html",
-     "pubDate": "Thu, 26 Nov 2026 08:12:06 GMT",
-     "summary": "Delivery times for some equipment used to manufacture advanced chip substrates have stretched from six months to 30 months as manufacturers race to expand production to meet surging demand for artificial intelligence (AI) chips.",
-     "source": "DIGITIMES",
-     "zh": "Chip substrate makers face 30-month waits for key equipment"
-    },
-    {
-     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
-     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
-     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
-    },
-    {
-     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
-     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
-     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
+    },
+    {
      "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
      "link": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
      "pubDate": "Thu, 26 Nov 2026 21:08:45 +0000",
@@ -1528,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "Industry Shares Plan for Moon Base Power Tower",
-     "link": "https://payloadspace.com/industry-shares-plan-for-moon-base-power-tower/",
-     "pubDate": "Mon, 23 Nov 2026 13:59:00 +0000",
-     "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Industry Shares Plan for Moon Base Power Tower"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计",
+     "link": "https://www.ithome.com/1/033/136.htm",
+     "pubDate": "Thu, 26 Nov 2026 22:43:02 GMT",
+     "summary": "IT之家 11 月 27 日消息，YouTube 博主 Jam Ancheta 于 11 月 25 日分享了一段视频， 展示了三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机的机模，为三星新款旗舰手机带来更直观的参考。 从视频来看，黑色款 Galaxy S27 Pro 与白色款 Galaxy S27 Ultra 均采用了重新设计的后置摄像头模组。两款机型的摄像头布局基本一致，整体视觉风格与此前曝光的模型机图片相符。 模型机背面似乎出现了四个“摄像头”，但此前消息称实际产品很可能并非四摄，三星会砍掉 3x 长焦镜头和激光对焦模块。由于摄像头模组中未见 LED 闪",
+     "source": "IT之家",
+     "zh": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计"
+    },
+    {
      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
      "link": "https://www.techmeme.com/261126/p25#a261126p25",
      "pubDate": "Thu, 26 Nov 2026 17:10:01 -0500",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 23 # Comments: 13",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 41 # Comments: 26",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 89 # Comments: 13",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 106 # Comments: 17",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 7 # Comments: 4",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 9 # Comments: 7",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "link": "https://github.com/eisenzopf/rvoip",
      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 38 # Comments: 13",
+     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 42 # Comments: 13",
      "source": "Hacker News",
      "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
     },
@@ -1837,9 +1845,17 @@ window.INDUSTRY_DATA = {
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "link": "https://bui.preetham.top/charts/",
      "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
-     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 23 # Comments: 2",
      "source": "Hacker News",
      "zh": "Largest 2D Chart library in the world using BUI: BlenderUI"
+    },
+    {
+     "title": "Show HN: Fuck_data_brokers.py",
+     "link": "https://github.com/gary23w/f-ck_data_brokers",
+     "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
+     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 167 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "Show HN: Fuck_data_brokers.py"
     },
     {
      "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
@@ -1976,22 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 26 日消息，在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 &amp; 小艺、鸿蒙空间计算。 据IT之家了解，华为鸿蒙 HarmonyOS 终端设备数在 11 月 24 日官宣破亿。同时，鸿蒙操作系统可获取的应用和服务超 46 万，注册开发者超 1,200 万。 华为官方表示，这标志着鸿蒙生态跨越规模临界点，进入发展新阶段，同时也是中国自主操作系统规模化应用的重要进展。",
      "source": "IT之家",
      "zh": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算"
-    },
-    {
-     "title": "宁德时代预告 30#巧克力电池：首发 100kWh 版本，支持实现 3s 级零百加速",
-     "link": "https://www.ithome.com/1/033/129.htm",
-     "pubDate": "Thu, 26 Nov 2026 15:10:43 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧克力换电达成合作，并发布了智能补能解决方案。 宁德时代市场联席总裁杨峻还在现场预告了 30#巧克力电池，其定位是“更全能的电池”。 长续航： 首发 100kWh 版本 ，支持实现 700+km 续航； 可升级：不同档位电量，按需配电； 快补能：99 秒极速换电，超充 10 分钟 400km 续航； 强动力：600kW 峰值放电功率， 支持实现 3s 零百加速 ； 长寿命：锁止机构一天一换可用 27 年，在网电池终身质保； 高安全：振动耐久测",
-     "source": "IT之家",
-     "zh": "宁德时代预告 30#巧克力电池：首发 100kWh 版本，支持实现 3s 级零百加速"
-    },
-    {
-     "title": "阿维塔陈卓：已有超过 5000 名华为员工自费成为阿维塔车主",
-     "link": "https://www.ithome.com/1/033/128.htm",
-     "pubDate": "Thu, 26 Nov 2026 15:01:49 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，阿维塔科技董事长陈卓登台，分享了与华为合作的历程。 陈卓在现场透露了一组数据： 已有超过 5000 名华为员工自费成为阿维塔车主 。 据IT之家了解，阿维塔 T09 旗舰 SUV 将于明日 10:20-10:40 在广州车展迎来中国首秀。新车由华为乾崑和阿维塔联合设计。",
-     "source": "IT之家",
-     "zh": "阿维塔陈卓：已有超过 5000 名华为员工自费成为阿维塔车主"
     }
    ]
   },
@@ -2250,36 +2250,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "【环球财经】古巴今年已批40个外资参与项目 总额约20亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941035647.html",
+     "pubDate": "Fri, 27 Nov 2026 06:42:52 +0800",
+     "summary": "新华财经哈瓦那11月26日电（记者吴昊蒋彪）古巴副总理兼贸易和外国投资部部长佩雷斯- 奥利 瓦26日在第42届哈瓦那国际博览会期间表示，古巴今年已批准40个外资参与的投资项目，总投资额约20亿美元。 第42届哈瓦那国际博览会于24日至26日以 线上线下 结合的方式举行。在26日举行的外国投资专场发布会上，佩雷斯- 奥利 瓦称，今年古巴批准的40个外资参与项目中，有22个为外资独资项目。他说，古巴正在完善相关法律法规以推动经济社会改革。 据佩雷斯- 奥利 瓦介绍，古巴新的《外国投资法》将于12月提交全国人民政权代表大会讨论，以简化流程、加强投资者法律保障、扩大海外古巴侨民参与并赋予地方更多权限。",
+     "source": "东方财富股票",
+     "zh": "【环球财经】古巴今年已批40个外资参与项目 总额约20亿美元"
+    },
+    {
+     "title": "据报道 韩国评估扩大股市稳定基金",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941035511.html",
+     "pubDate": "Fri, 27 Nov 2026 06:42:22 +0800",
+     "summary": "据报道，韩国评估扩大股市稳定基金。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据报道 韩国评估扩大股市稳定基金"
+    },
+    {
+     "title": "固态冲刺量产 场景抢先卡位 锂电产业寻找新增长极",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941005315.html",
+     "pubDate": "Fri, 27 Nov 2026 06:40:49 +0800",
+     "summary": "11月26日，2026（第十六届）高工 锂 电年会的 固态电池 专场座无虚席。上海证券报记者在现场采访了解到，虽然全 固态电池 尚未大规模量产，但很多上市公司、科研机构等参会代表都紧盯与 固态电池 有关的技术、产业、政策等最新动向与趋势研判。 不少上市公司透露了固态 电池 布局最新进展， 亿纬锂能 正开发 脑机接口 固态 电池 ， 国轩高科 计划搭建2GWh示范线， 利元亨 于今年交付了数百兆瓦级全固态 电池 整线设备。记者采访获悉，固态电池预计将率先从人形 机器人 、低空飞行器等差异化场景跑通，再向车端铺开。 固态电池量产仍待闯关 巨湾技研创始人兼CTO黄向东判断，发展固态电池是 锂 电行业",
+     "source": "东方财富股票",
+     "zh": "固态冲刺量产 场景抢先卡位 锂电产业寻找新增长极"
+    },
+    {
+     "title": "以军称空袭黎巴嫩真主党武装训练营目标",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941034640.html",
+     "pubDate": "Fri, 27 Nov 2026 06:38:43 +0800",
+     "summary": "当地时间26日晚间，以色列国防军发表声明说，以军不久前对黎巴嫩南部一处属于黎巴嫩真主党精锐部队“拉德万部队”的训练营实施空袭，摧毁了数十枚火箭弹及发射装置。 黎巴嫩真主党方面暂未作出回应。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "以军称空袭黎巴嫩真主党武装训练营目标"
+    },
+    {
+     "title": "特朗普被指单方面修改北约联合声明俄乌停战责任再起争议",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941034774.html",
+     "pubDate": "Fri, 27 Nov 2026 06:38:31 +0800",
+     "summary": "据美媒Politico报道，美国总统特朗普与北约秘书长吕特周三晚在佛罗里达州海湖庄园会面。双方此前在联合声明中表示，讨论了俄罗斯应避免采取有意或无意扩大俄乌冲突的行动，以及尽快通过和平方式结束冲突的重要性。然而，特朗普数小时后在社交媒体上发布的版本中，额外加入了“乌克兰”一词，将相关表述改为“俄罗斯和乌克兰”都应避免采取此类行动。一名北约官员表示，双方最初发布的版本才是经过正式协商并达成一致的声明，这意味着特朗普随后单方面修改了相关表述。这一措辞调整颇为引人关注。此前几天，乌克兰袭击了停靠在利比亚 港口 的一艘俄罗斯军舰，袭击地点距离基辅数千公里。此次行动尚未受到乌克兰大多数盟友的批评。 （文",
+     "source": "东方财富股票",
+     "zh": "特朗普被指单方面修改北约联合声明俄乌停战责任再起争议"
+    },
+    {
+     "title": "厄尔尼诺叠加高温澳大利亚多地山火风险上升",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941034597.html",
+     "pubDate": "Fri, 27 Nov 2026 06:34:30 +0800",
+     "summary": "澳大利亚多个主要城市，包括墨尔本，未来几个月面临的丛林火灾风险预计将上升。受厄尔尼诺现象等因素影响，今年春季降雨充沛、夏季气温偏高，可能进一步加剧火灾风险。澳大利亚和新西兰消防与应急服务委员会（AFAC）周五发布的一份报告显示， 维多利亚 州东南部大片地区，包括巴拉瑞特、吉朗和本迪戈等城市，预计在12月至明年2月期间面临更高的丛林火灾风险。AFAC首席执行官Rob Webb表示，在预计将出现高于平均水平气温的夏季到来之前，当地已经积累了大量可燃物，包括“森林植被、草地和农作物”。 太平洋 地区强劲的厄尔尼诺天气系统带来了春季强降雨，导致大量植被生长，这也是可燃物增加的原因之一。该天气系统已对从",
+     "source": "东方财富股票",
+     "zh": "厄尔尼诺叠加高温澳大利亚多地山火风险上升"
+    },
+    {
+     "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
+     "link": "https://wallstreetcn.com/articles/3786746",
+     "pubDate": "Fri, 27 Nov 2026 06:33:10 +0800",
+     "summary": "感恩节当天美股与美债市场全天休市，其他主要市场在人工智能抛售暂歇后普遍反弹。日经225指数与韩国综指收涨，欧洲股市同步走高。 中东供应风险继续发酵，原油连续第三个交易日上涨，铜价从11个月低位反弹，比特币横盘于6万美元上方。 周四，泛欧股指斯托克600涨1.80%至636.98点，德国DAX涨2.08%报25,215.52点，法国CAC40涨1.61%报8,108.74点，英国富时100涨1.75%报10,609.30点。全部板块收涨，约95%的成分股上涨。 同一天公布的欧央行10月会议纪要偏鹰，多数委员认为10月已具备加息条件，最终选择再等一轮数据。期货市场对12月加息25个基点的定价升到九",
+     "source": "华尔街见闻",
+     "zh": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨"
+    },
+    {
+     "title": "11月27日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1353,202611273941019565.html",
+     "pubDate": "Fri, 27 Nov 2026 06:03:26 +0800",
+     "summary": "11月27日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 中国信通院：国星宇航“星算”计划天秤座卫星标称算力达32PFLOPS 近日，中国信通院发布了 国星宇航 “星算”计划02组卫星首批第三方在轨能力测试数据。数据显示，“星算”计划02组天秤座卫星标称算力达32PFLOPS（每秒千万亿次浮点运算），“星算”计划相关技术路线初步可行。 马斯克宣布送股票：每个美国孩子2股SpaceX 北京时间11月26日，马斯克在社交平台上发文称，每名美国儿童都将获得两股 SpaceX 股票，一股来自 SpaceX 公司，另一股来自他个人。随后，马斯克进一步透露， SpaceX 公司赠予的股票将于今年",
+     "source": "东方财富资讯",
+     "zh": "11月27日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "东方财富财经早餐 11月27日周五",
+     "link": "http://finance.eastmoney.com/news/1353,202611263940986188.html",
+     "pubDate": "Fri, 27 Nov 2026 06:00:36 +0800",
+     "summary": "每日精选 商务部回应关税问题 ： 商务部新闻发言人何亚东在26日举行的例行新闻发布会上表示， 美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则 ，中方对此坚决反对。此前美国宣布计划对产自中国及其他经济体的商品加征新一轮关税。据美国贸易代表办公室称，对华进口商品的税率将提高至 20%，这与此前中美双方的协议一致。 广东省算力发展规划 ： 11月26日，广东省政务服务和数据管理局、广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。其中提到，集中力量突破产业技术短板，着力缩小与国际领先水平在单芯片算力性能上的代际差距，同时加强芯片异构融合与协同适配，推动多元算",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 11月27日周五"
+    },
+    {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 22:00:00 GMT",
      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
      "source": "MarketWatch",
      "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
-    },
-    {
-     "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
-     "link": "https://wallstreetcn.com/articles/3786746",
-     "pubDate": "Fri, 27 Nov 2026 05:52:56 +0800",
-     "summary": "感恩节当天美股与美债市场全天休市。欧股在稀薄成交中全线反弹，WTI原油连续第三个交易日上涨。 周四，泛欧股指斯托克600涨1.80%至636.98点，德国DAX涨2.08%报25,215.52点，法国CAC40涨1.61%报8,108.74点，英国富时100涨1.75%报10,609.30点。全部板块收涨，约95%的成分股上涨。 同一天公布的欧央行10月会议纪要偏鹰，多数委员认为10月已具备加息条件，最终选择再等一轮数据。期货市场对12月加息25个基点的定价升到九成，德债收益率随之上行。 27日美股恢复交易，纽交所与纳斯达克提前到美东时间13:00收盘，债市14:00收盘。12月议息是接下来最",
-     "source": "华尔街见闻",
-     "zh": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨"
-    },
-    {
-     "title": "欧洲三大股指收盘全线上涨，德国DAX指数涨2.08%",
-     "link": "http://stock.eastmoney.com/news/1438,202611273941025359.html",
-     "pubDate": "Fri, 27 Nov 2026 05:46:58 +0800",
-     "summary": "当地时间11月26日，欧洲三大股指收盘全线上涨，德国DAX指数涨2.08%报25215.52点，法国CAC40指数涨1.61%报8108.74点，英国富时100指数涨1.75%报10609.3点。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "欧洲三大股指收盘全线上涨，德国DAX指数涨2.08%"
-    },
-    {
-     "title": "强风暴袭击美国东海岸 致数十万用户停电 数千航班受扰",
-     "link": "http://global.eastmoney.com/news/1959,202611273941025164.html",
-     "pubDate": "Fri, 27 Nov 2026 05:45:31 +0800",
-     "summary": "当地时间11月26日，一场强风暴袭击美国东海岸大部分地区，导致数十万用户停电。弗吉尼亚州、马里兰州、宾夕法尼亚州、新泽西州和北卡罗来纳州等受到 电力 中断影响。 风暴也扰乱了当地的航空出行。截至当天下午早些时候，美国已有400多个航班取消、约1600个航班延误，华盛顿和纽约地区主要 机场 受影响尤为严重。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "强风暴袭击美国东海岸 致数十万用户停电 数千航班受扰"
     },
     {
      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
@@ -2290,36 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     },
     {
-     "title": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941024016.html",
-     "pubDate": "Fri, 27 Nov 2026 05:45:00 +0800",
-     "summary": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "消息人士称，沙特阿拉伯南部多个地区传出数声爆炸"
-    },
-    {
-     "title": "英国帝国品牌大涨！美国奥驰亚考虑现金收购 日本烟草也在评估竞购",
-     "link": "http://stock.eastmoney.com/news/1611,202611273941024746.html",
-     "pubDate": "Fri, 27 Nov 2026 05:42:49 +0800",
-     "summary": "美国烟草巨头奥驰亚（Altria）正评估以全现金方式收购英国帝国品牌（Imperial Brands），同时与第三方商谈处置后者部分业务；据彭博报道，日本烟草亦在评估联手竞购，一场可能重塑全球卷烟格局的百亿美元级交易浮出水面。 奥驰亚周四公开确认，公司正在考虑对帝国品牌发起全现金收购，并已就帝国品牌部分业务与一个未具名的第三方展开磋商。彭博同日报道称，日本烟草正评估收购帝国品牌的可能性，并可能引入合作方、按区域拆分其资产。 消息推动伦敦上市的帝国品牌股价一度大涨17.6%，收盘涨幅13.8%，报3449便士，市值升至259亿英镑（约339.3亿美元）。 帝国品牌回应称，公司未与奥驰亚或任何第三",
-     "source": "东方财富股票",
-     "zh": "英国帝国品牌大涨！美国奥驰亚考虑现金收购 日本烟草也在评估竞购"
-    },
-    {
      "title": "英国帝国品牌大涨！美国奥驰亚考虑现金收购，日本烟草也在评估竞购",
      "link": "https://wallstreetcn.com/articles/3786806",
      "pubDate": "Fri, 27 Nov 2026 05:42:25 +0800",
-     "summary": "美国烟草巨头奥驰亚（Altria）正评估以全现金方式收购英国帝国品牌（Imperial Brands），同时与第三方商谈处置后者部分业务；据彭博报道，日本烟草亦在评估联手竞购，一场可能重塑全球卷烟格局的百亿美元级交易浮出水面。 奥驰亚周四公开确认，公司正在考虑对帝国品牌发起全现金收购，并已就帝国品牌部分业务与一个未具名的第三方展开磋商。彭博同日报道称，日本烟草正评估收购帝国品牌的可能性，并可能引入合作方、按区域拆分其资产。 消息推动伦敦上市的帝国品牌股价一度大涨17.6%，收盘涨幅13.8%，报3449便士，市值升至259亿英镑（约339.3亿美元）。 帝国品牌回应称，公司未与奥驰亚或任何第三",
+     "summary": "美国烟草巨头奥驰亚（Altria）正评估以全现金方式收购英国帝国品牌（Imperial Brands），同时与第三方商谈处置后者部分业务；据彭博报道，日本烟草亦在评估联手竞购，一场可能重塑全球卷烟格局的百亿美元级交易浮出水面。 奥驰亚周四公开确认，公司正在考虑对帝国品牌发起全现金收购，并已就帝国品牌部分业务与一个未具名的第三方展开磋商。彭博同日报道称，日本烟草正评估收购帝国品牌的可能性，并可能引入合作方、按区域拆分其资产。 消息推动伦敦上市的帝国品牌股价一度大涨17.6%，收盘涨幅13.3%，报3432便士，市值升至259亿英镑（约339.3亿美元）。 帝国品牌回应称，公司未与奥驰亚或任何第三",
      "source": "华尔街见闻",
      "zh": "英国帝国品牌大涨！美国奥驰亚考虑现金收购，日本烟草也在评估竞购"
-    },
-    {
-     "title": "巴西2026/27年度玉米总产量预计为1.492亿吨",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941024129.html",
-     "pubDate": "Fri, 27 Nov 2026 05:38:36 +0800",
-     "summary": "巴西2026/27年度玉米总产量预计为1.492亿吨。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "巴西2026/27年度玉米总产量预计为1.492亿吨"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2464,30 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
      "source": "CNBC",
      "zh": "Semiconductor chips are the new oil. Here&apos;s why"
-    },
-    {
-     "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
-     "link": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:49:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend"
-    },
-    {
-     "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
-     "link": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:49:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend"
-    },
-    {
-     "title": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend",
-     "link": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:48:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 21:11:59",
+ "generated_at": "2026/11/26 21:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
-     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
-     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
-     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
-     "source": "KDnuggets",
-     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
+     "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+     "link": "https://www.qbitai.com/2026/11/512981.html",
+     "pubDate": "Thu, 26 Nov 2026 12:39:08 +0000",
+     "summary": "还得是科班尖子生",
+     "source": "量子位",
+     "zh": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用"
     },
     {
      "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
@@ -146,14 +146,6 @@ window.INDUSTRY_DATA = {
      "zh": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习"
     },
     {
-     "title": "沈向洋刚讲了好多AI非共识啊",
-     "link": "https://www.qbitai.com/2026/11/512840.html",
-     "pubDate": "Thu, 26 Nov 2026 03:13:16 +0000",
-     "summary": "“灵巧手是人类最后的尊严”",
-     "source": "量子位",
-     "zh": "沈向洋刚讲了好多AI非共识啊"
-    },
-    {
      "title": "GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745240&idx=3&sn=6db0d8f2621561054778cdef72220067",
      "pubDate": "Thu, 26 Nov 2026 11:08:00 +0800",
@@ -242,12 +234,20 @@ window.INDUSTRY_DATA = {
      "zh": "Want to buy your kid an AI toy this Christmas? Not in New York"
     },
     {
-     "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
-     "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
-     "pubDate": "Wed, 25 Nov 2026 18:00:33 +0000",
-     "summary": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, and AI agents.",
-     "source": "KDnuggets",
-     "zh": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents"
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
+     "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+     "source": "TechCrunch AI",
+     "zh": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
+    },
+    {
+     "title": "Verifiable Social Reasoning for LLM Assistants",
+     "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+     "pubDate": "Wed, 25 Nov 2026 17:10:27 +0000",
+     "summary": "Generative AI",
+     "source": "Google Research",
+     "zh": "Verifiable Social Reasoning for LLM Assistants"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Rare periods of low PV generation can be managed with storage",
+     "link": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+     "pubDate": "Thu, 26 Nov 2026 13:15:00 +0000",
+     "summary": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged periods of low renewable output. The post Rare periods of low PV generation can be ",
+     "source": "pv magazine",
+     "zh": "Rare periods of low PV generation can be managed with storage"
+    },
+    {
      "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
      "link": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
      "pubDate": "Thu, 26 Nov 2026 13:03:53 +0000",
@@ -960,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tokyo Electric Power Company (TEPCO) will delay the restart of a second reactor at its Kashiwazaki-Kariwa nuclear power plant in Japan, the world’s largest in terms of nameplate capacity, after identifying a problem with the construction at the facility. TEPCO, which also operated the nuclear power ",
      "source": "OilPrice",
      "zh": "Japan’s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart"
-    },
-    {
-     "title": "Mexico conditionally approves 621 MW solar project in Veracruz",
-     "link": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/",
-     "pubDate": "Thu, 26 Nov 2026 10:15:00 +0000",
-     "summary": "Mexico’s environmental authority has conditionally approved the 621.17 MWp Cerro Colorado solar project in Veracruz, which is planned across the municipalities of Sayula de Alemán and Texistepec. The post Mexico conditionally approves 621 MW solar project in Veracruz appeared first on pv magazine Gl",
-     "source": "pv magazine",
-     "zh": "Mexico conditionally approves 621 MW solar project in Veracruz"
     },
     {
      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+     "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+     "pubDate": "Thu, 26 Nov 2026 13:04:06 +0000",
+     "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks"
+    },
+    {
      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
      "pubDate": "Thu, 26 Nov 2026 06:50:17 -0500",
@@ -1714,14 +1722,6 @@ window.INDUSTRY_DATA = {
      "zh": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing"
     },
     {
-     "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
-     "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
-     "pubDate": "Wed, 25 Nov 2026 13:39:21 +0000",
-     "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident"
-    },
-    {
      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
      "pubDate": "Wed, 25 Nov 2026 18:18:54 +0530",
@@ -1753,6 +1753,46 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "三亚距离奢侈品购物目的地还有多远？",
+     "link": "https://www.huxiu.com/article/4908771.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 21:17:28 +0800",
+     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 三亚距离奢侈品购物目的地还有多远？》 三亚本身这座城市能不能接住这轮投资，长成一个有独立吸引力的高端零售市场 当一线城市的奢侈品零售还在等待复苏，太古和华润已经把目光投向了三亚。 据时尚商业快讯，太古首个度假型零售项目三亚中免太古里，计划12月中下旬启动试营业，引发广泛关注。 市场的期待除了来自度假零售这个全新题目，也来自太古刚交出的成绩单，2026年前三季度，三里屯太古里零售销售额同比增长59.8%，兴业太古汇增长52.6%，这是集团中国内地组合里表现最突出的两个项目，在奢侈品低迷的时候逆势上涨，自然抬高了市",
+     "source": "虎嗅",
+     "zh": "三亚距离奢侈品购物目的地还有多远？"
+    },
+    {
+     "title": "启境汽车发布全新品牌 LOGO，寓意“一枚守护美好生活的徽章”",
+     "link": "https://www.ithome.com/1/033/091.htm",
+     "pubDate": "Thu, 26 Nov 2026 13:12:37 GMT",
+     "summary": "IT之家 11 月 26 日消息， 启境汽车官方刚刚正式发布了全新品牌 LOGO ，寓意是一枚守护美好生活的徽章。 据IT之家昨日报道，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司启境 GX7 共 6 款车型完成申报，涵盖纯电动单电机、纯电动双电机四驱以及插电式增程混合动力多种动力版本。 本次申报的启境 GX7 整体外观保持统一设计语言，车尾采用贯穿式尾灯组，中央排布 AISTALAND 字母标识，左侧为“启境”字样，右侧标注“GX7”车型名称，下方配备运动化扩散器造型。 另外，在选装照片中，还有启境的图形车标 。",
+     "source": "IT之家",
+     "zh": "启境汽车发布全新品牌 LOGO，寓意“一枚守护美好生活的徽章”"
+    },
+    {
+     "title": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)",
+     "link": "https://www.techmeme.com/261126/p17#a261126p17",
+     "pubDate": "Thu, 26 Nov 2026 08:10:04 -0500",
+     "summary": "Financial Times : The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack &nbsp; &mdash;&nbsp; FCA points to Binance heist and &lsquo;lack of consumer protections&rsquo; as reasons for tighter regulati",
+     "source": "Techmeme",
+     "zh": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)"
+    },
+    {
+     "title": "蔚来乐道 L90 达成 7 万台交付，用时近 16 个月",
+     "link": "https://www.ithome.com/1/033/090.htm",
+     "pubDate": "Thu, 26 Nov 2026 13:09:49 GMT",
+     "summary": "IT之家 11 月 26 日消息，蔚来乐道汽车今日宣布，11 月 26 日，乐道 L90 正式达成 7 万台交付。 蔚来乐道 L90 于 2025 年 7 月 31 日上市，整车购买价格为 26.58 万元起，采用租电方案则是 17.98 万元起。按此计算， 这款车型用时近 16 个月完成了 7 万台交付 。 据IT之家此前报道， 2026 款乐道 L90 于今年 4 月上市 ，整车购买价格依旧为 26.58 万元起、电池租用方式购买 17.98 万元起。 2026 款乐道 L90 沿用家族式设计风格，除岩脊棕、辰辉银、云曦金、静岳黑、雪峰白、凝夜紫外，本次新增「银辉紫霄」和「紫韵金晖」两款全",
+     "source": "IT之家",
+     "zh": "蔚来乐道 L90 达成 7 万台交付，用时近 16 个月"
+    },
+    {
+     "title": "全球首个乙肝功能性治愈新药在中国获批上市",
+     "link": "https://www.ithome.com/1/033/089.htm",
+     "pubDate": "Thu, 26 Nov 2026 13:03:50 GMT",
+     "summary": "IT之家 11 月 26 日消息，国家药品监督管理局官网显示， 批准贝普若韦生（英文名：Bepirovirsen；商品名：贺舒可）上市 。该药品联合核苷（酸）类似物（NAs）用于慢性乙型肝炎病毒感染的功能性治愈。 近日，国家药品监督管理局通过优先审评审批程序，批准 GlaxoSmithKline Trading Services Limited 申报的 1 类创新药贝普若韦生钠注射液（商品名称：贺舒可）上市，该药品联合核苷（酸）类似物（NAs）用于慢性乙型肝炎病毒感染的功能性治愈，适用于以下人群： 已接受 NAs 治疗至少 6 个月、HBV DNA 。 IT之家查询获悉，贝普若韦生已于今年相继",
+     "source": "IT之家",
+     "zh": "全球首个乙肝功能性治愈新药在中国获批上市"
+    },
     {
      "title": "4000亿级“弱首府”，等来了一座4F级国际机场",
      "link": "https://www.huxiu.com/article/4908768.html?f=rss",
@@ -1842,38 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "星思半导体港股IPO：估值两年涨1.8倍破百亿，产品仅小批量出货"
     },
     {
-     "title": "香港网约车驾驶许可证 11 月 30 日起接受当地民众申请，全年开放不设上限",
-     "link": "https://www.ithome.com/1/033/082.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:43:10 GMT",
-     "summary": "IT之家 11 月 26 日消息，香港运输署宣布，香港网约车车辆驾驶许可证将于 11 月 30 日上午 10 时起接受当地民众申请，符合资格的申请人届时可通过香港政府一站通网站提交网上申请。 此次驾驶许可证不设发放数量上限，全年开放申请，并非采取先到先得的方式 。 根据相关规定，申请人除了满足多项法定条件外，还必须通过的士及网约车综合笔试，并完成网约车司机职前培训课程。 已经持有有效的士驾驶执照的人士则可获豁免，无须重新参加综合笔试或修读网约车司机职前培训课程 ，可直接向运输署申请驾驶许可证。 符合资格的人士从 11 月 30 日上午 10 时起，可随时通过香港政府一站通网站提交网上申请，整个",
-     "source": "IT之家",
-     "zh": "香港网约车驾驶许可证 11 月 30 日起接受当地民众申请，全年开放不设上限"
-    },
-    {
-     "title": "华为乾崑 × 奕境汽车 × 宁德时代：全球首款智能换电车型官宣落地奕境品牌",
-     "link": "https://www.ithome.com/1/033/081.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:39:19 GMT",
-     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，奕境汽车董事长汪俊君宣布， 华为乾崑 × 奕境汽车 × 宁德时代将共建新一代智能换电生态 。 汪俊君还宣布， 全球首款智能换电车型官宣落地奕境品牌 。 据IT之家此前报道，10 月 19 日， 华为乾崑智能汽车解决方案宣布 ，引望与宁德时代、时代电服开展智能换电合作，打造乾崑智驾完整智能充换电生态，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。 在今晚的华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志正式官宣华为乾崑智驾 × 宁德时代巧",
-     "source": "IT之家",
-     "zh": "华为乾崑 × 奕境汽车 × 宁德时代：全球首款智能换电车型官宣落地奕境品牌"
-    },
-    {
-     "title": "雷神推出“CQ27F260”27 英寸显示器：2K 260Hz 超频，948.5 元",
-     "link": "https://www.ithome.com/1/033/080.htm",
-     "pubDate": "Thu, 26 Nov 2026 12:37:10 GMT",
-     "summary": "IT之家 11 月 26 日消息，雷神现已在京东上架型号为“CQ27F260”的 27 英寸显示器，该机主打 2K 260Hz，定价为 948.5 元。 该机配备一块 2560x1440 分辨率 260Hz 超频 Fast IPS 面板，提供 300 尼特峰值亮度，显示器 GtG 响应速度 1ms，覆盖 95% DCI-P3 和 99% sRGB 色域。显示器支架支持俯仰，显示器本体支持 VESA 壁挂，提供 HDMI 和 DP 接口。 京东 雷神“CQ27F260”显示器 948.5 元 直达链接",
-     "source": "IT之家",
-     "zh": "雷神推出“CQ27F260”27 英寸显示器：2K 260Hz 超频，948.5 元"
-    },
-    {
-     "title": "AI危机不是2008，而是2007年上半年",
-     "link": "https://www.huxiu.com/article/4908754.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 20:36:54 +0800",
-     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印 距离雷曼，还有一年半 1 有一种说法，美股在重演2000年的科网泡沫破灭的危机，我昨天的文章《距离互联网泡沫破裂只剩3个月，当时的人担心的却是一件小事》已经分析过，这两者之间有很大的差别； 还有一种说法，美股在重演2008年的金融危机，AI融资债券对应当年的次级债，我之前也写过文章《AI盛世下的暗雷，藏着下一个“次级债”危机》比较了两者的共同点。 不过，我的这篇文章，把AI基建跟楼市泡沫比较，其实并不恰当。房地产有投资属性，需求是涨出来的，房价越涨越要买房，泡沫会自我循环；而AI的token价格是实体经济的生产成本，需求是降价降出来的，泡沫不存",
-     "source": "虎嗅",
-     "zh": "AI危机不是2008，而是2007年上半年"
-    },
-    {
      "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
      "link": "https://www.techmeme.com/261126/p14#a261126p14",
      "pubDate": "Thu, 26 Nov 2026 07:35:21 -0500",
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
      "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
-     "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 47 # Comments: 6",
+     "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 71 # Comments: 14",
      "source": "Hacker News",
      "zh": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app"
     },
@@ -1978,14 +1986,6 @@ window.INDUSTRY_DATA = {
      "zh": "A First Drive With the Fiat Topolino in New York City"
     },
     {
-     "title": "Sources: Z.ai&apos;s 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs&apos; distillation curbs (Reuters)",
-     "link": "https://www.techmeme.com/261126/p11#a261126p11",
-     "pubDate": "Thu, 26 Nov 2026 06:20:18 -0500",
-     "summary": "Reuters : Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs &nbsp; &mdash;&nbsp; China's Z.AI has fallen behind schedule on its next flagship AI model, while rival Moonshot AI expects the in",
-     "source": "Techmeme",
-     "zh": "Sources: Z.ai&apos;s 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs&apos; distillation curbs (Reuters)"
-    },
-    {
      "title": "祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题",
      "link": "https://www.tmtpost.com/8219473.html",
      "pubDate": "Thu, 26 Nov 2026 19:03:13 +0800",
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members",
+     "link": "https://www.androidauthority.com/ugreen-magflow-qi2-2-slim-power-bank-deal-3739520/",
+     "pubDate": "Thu, 26 Nov 2026 13:27:50 +0000",
+     "summary": "Prime members can save 20% on UGREEN's 13.9mm power bank with 25W wireless charging and a built-in USB-C cable.",
+     "source": "Android Authority",
+     "zh": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members"
+    },
+    {
+     "title": "Amazon’s newest Echo Show 8 is half off for Black Friday",
+     "link": "https://www.androidauthority.com/amazon-echo-show-8-black-friday-deal-3739434/",
+     "pubDate": "Thu, 26 Nov 2026 13:26:57 +0000",
+     "summary": "The 8.7-inch smart display is down to $99.99 on Amazon, its lowest price yet, with a built-in smart home hub.",
+     "source": "Android Authority",
+     "zh": "Amazon’s newest Echo Show 8 is half off for Black Friday"
+    },
+    {
+     "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
+     "link": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
+     "pubDate": "Thu, 26 Nov 2026 13:14:18 +0000",
+     "summary": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
+     "source": "Engadget",
+     "zh": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods"
+    },
     {
      "title": "Sonos Five drops $160 for Black Friday, matching last year’s price",
      "link": "https://www.androidauthority.com/sonos-five-black-friday-deal-3739490/",
@@ -2048,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Save $85 on Logitech's low-profile wireless gaming keyboard with Lightspeed, Bluetooth, and 36-hour battery life.",
      "source": "Android Authority",
      "zh": "Logitech G515 Lightspeed TKL keyboard hits a record low of $74.99"
-    },
-    {
-     "title": "You can now change YouTube’s app icon on your phone, but only if you pay for it",
-     "link": "https://www.androidauthority.com/youtube-new-app-icons-2-3739722/",
-     "pubDate": "Thu, 26 Nov 2026 12:32:04 +0000",
-     "summary": "Like other apps, YouTube limits custom icons to Premium subscribers.",
-     "source": "Android Authority",
-     "zh": "You can now change YouTube’s app icon on your phone, but only if you pay for it"
-    },
-    {
-     "title": "Fitbit Inspire 3 drops to $68.95 for Black Friday",
-     "link": "https://www.androidauthority.com/fitbit-inspire-3-black-friday-deal-3739535/",
-     "pubDate": "Thu, 26 Nov 2026 12:22:26 +0000",
-     "summary": "Google's slim Fitbit tracker is 31% off on Amazon, with a color touchscreen and up to 10 days of battery life.",
-     "source": "Android Authority",
-     "zh": "Fitbit Inspire 3 drops to $68.95 for Black Friday"
     },
     {
      "title": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google’s Pixelsnap Ring Stand is a simple add-on for Pixel 10 and Pixel 11 phones and, for Black Friday, it’s got its first sale since adding new colors alongside the Pixel 11 series. more…",
      "source": "9to5Google",
      "zh": "Google’s Pixelsnap Ring Stand gets first sale that includes new Pixel 11 colors"
-    },
-    {
-     "title": "Motorola Signature 27 hands-on: Pure elegance on display",
-     "link": "https://9to5google.com/2026/11/25/motorola-signature-27-hands-on/",
-     "pubDate": "Wed, 25 Nov 2026 22:12:17 +0000",
-     "summary": "It’s hard to believe we finally got a proper premium phone from Motorola again, and it feels a bit like the return of the Moto X. more…",
-     "source": "9to5Google",
-     "zh": "Motorola Signature 27 hands-on: Pure elegance on display"
     }
    ]
   },
@@ -2250,60 +2250,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+     "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 13:24:00 GMT",
+     "summary": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+     "source": "MarketWatch",
+     "zh": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes."
+    },
+    {
+     "title": "启境汽车发布全新品牌LOGO",
+     "link": "http://www.eeo.com.cn/2026/1126/1104534.shtml",
+     "pubDate": "Thu, 26 Nov 2026 21:13:37 +0800",
+     "summary": "11月26日，启境汽车发布全新品牌LOGO标识。",
+     "source": "经济观察网",
+     "zh": "启境汽车发布全新品牌LOGO"
+    },
+    {
      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 13:06:00 GMT",
      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
      "source": "MarketWatch",
      "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
-    },
-    {
-     "title": "【调研快报】汇创达接待参与“深对话·固互信·提价值,助力上市公司高质量发展——2026年度深圳辖区上市公司投资者网上集体接待日”活动的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940831287.html",
-     "pubDate": "Thu, 26 Nov 2026 21:04:56 +0800",
-     "summary": "汇创达 11月26日公告称， 11月26日 接待参与“深对话·固互信·提价值,助力上市公司高质量发展——2026年度深圳辖区上市公司投资者网上集体接待日”活动的投资者 调研。 接待人员包括董事长、总经理 李明,副总经理、董事会秘书 许文龙,财务总监 任庆,独立董事 郑海洋。 公司就以下问题进行了回复： 公司于 2026 年 11 月 26 日下午通过网络远程的方式参加“深对话?固互信?提价值,助力上市公司高质量发展——2026年度深圳辖区上市公司投资者网上集体接待日”活动,用文字 交流形式与投资者进行互动交流,主要内容如下: 1、贵司收购春草科技的议案已获股东会通过,未来在完善金属 3... ",
-     "source": "东方财富股票",
-     "zh": "【调研快报】汇创达接待参与“深对话·固互信·提价值,助力上市公司高质量发展——2026年度深圳辖区上市公司投资者网上集体接待日”活动的投资者调研"
-    },
-    {
-     "title": "英国皇家海军总部遭疑似炸弹威胁",
-     "link": "http://finance.eastmoney.com/news/11790,202611263940830127.html",
-     "pubDate": "Thu, 26 Nov 2026 21:01:55 +0800",
-     "summary": "今天（11月26日），位于英国南部 港口 城市朴次茅斯的英国皇家海军总部遭遇疑似炸弹威胁，警方紧急赶赴现场。英国皇家海军发言人证实，警方及英国国防部人员正在处理一起安全事件，并呼吁公众暂时避开事发区域。 目前安全警报据信已经解除，初步消息显示，现场未发现危险物品，相关调查仍在进行。 事发军事基地设有英国皇家海军司令部及多个军事训练设施。 （文章来源：CCTV国际时讯）",
-     "source": "东方财富股票",
-     "zh": "英国皇家海军总部遭疑似炸弹威胁"
-    },
-    {
-     "title": "西安奕材拟不超过2亿元回购股份，董事及控股股东承诺未来半年不减持",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940829617.html",
-     "pubDate": "Thu, 26 Nov 2026 21:01:10 +0800",
-     "summary": "11月26日，西安奕材（688783.SH）发布公告，公司将通过集中竞价交易方式实施股份回购，以实际行动维护公司价值与广大投资者权益。 公告显示，本次回购资金总额下限为1亿元、上限为2亿元，回购股份拟用于员工持股计划、 股权激励 。若公司未能在回购实施结果暨股份变动公告日后三年内使用完毕，尚未使用的已回购股份将予以注销并减少注册资本。回购价格不高于24.09元/股，且不高于董事会审议通过回购方案前30个交易日股票交易均价的150%，回购期限为董事会审议通过方案之日起12个月内。 按回购价格上限测算，本次预计回购股份约415万股至830万股，约占公司现阶段总股本的0.10%至0.21%。公司表示",
-     "source": "东方财富股票",
-     "zh": "西安奕材拟不超过2亿元回购股份，董事及控股股东承诺未来半年不减持"
-    },
-    {
-     "title": "我国发布全球首个高效灵活燃煤发电技术",
-     "link": "http://finance.eastmoney.com/news/1350,202611263940827683.html",
-     "pubDate": "Thu, 26 Nov 2026 21:00:31 +0800",
-     "summary": "今天， 我国自主研发的全球首个新型高效灵活燃煤发电技术成功发布，多项核心指标达到国际领先水平。 项目是我国重大技术装备示范项目。应用这一新技术后，相较传统机组，新机组最低可降至额定负荷15%稳定运行，全程无需烧油助燃；可精准跟随电网峰谷波动，适配大规模 新能源 并网消纳需求。 中国工程院院士、怀柔国家实验室科研团队负责人刘吉臻： 新一代灵活燃煤发电技术体系，为 新能源 大规模消纳和 电力 系统安全稳定运行提供了重要支撑，标志着我国灵活燃煤发电技术达到了国际领先水平。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "我国发布全球首个高效灵活燃煤发电技术"
-    },
-    {
-     "title": "【调研快报】山河智能接待长沙帆扬投资等16家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940827374.html",
-     "pubDate": "Thu, 26 Nov 2026 20:59:56 +0800",
-     "summary": "山河智能 11月26日公告称， 11月26日 接待长沙帆扬投资 等16家机构 调研。 接待人员包括财务总监 林业,董事会秘书 王剑,董事会办公室主任 蔡媛元。 公司就以下问题进行了回复： 1、公司今年汇兑损益波动较大,请分析一下主要原因?公司采取哪些措施来对冲汇率风险? 答:公司海外收入占比超过60%,结算币种主要为美元、欧元等。今年以来人民币对美元、欧元及卢布、印尼盾等小币种均呈升值态势,出口型企业普遍面临较大汇率损失。 投资者关系活动主要内容介绍 公司主要从金融工具和经营端两... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 ",
-     "source": "东方财富股票",
-     "zh": "【调研快报】山河智能接待长沙帆扬投资等16家机构调研"
-    },
-    {
-     "title": "【调研快报】盛视科技接待投资者网上提问调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611263940826052.html",
-     "pubDate": "Thu, 26 Nov 2026 20:58:54 +0800",
-     "summary": "盛视科技 11月26日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括董事长 瞿磊,副总经理、董事会秘书 秦操,副总经理、财务总监 龚涛,独立董事 曹玮。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况 公司就投资者在本次说明会中提出的问题进行了回复: 1、问:龚总监您好,市场担忧智算业务内卷以及口岸应收风险,请问公司智算长租利用率、毛利情况,是否有与智慧口岸垂直场景打包交付的合作,还有今年前三季度应收账款回款是否符合预期? 答:您好!根据公司披露的 2026 年半... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担",
-     "source": "东方财富股票",
-     "zh": "【调研快报】盛视科技接待投资者网上提问调研"
     },
     {
      "title": "UniCredit said to be looking at board shake-up at Commerzbank",
@@ -2344,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
      "source": "MarketWatch",
      "zh": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility"
+    },
+    {
+     "title": "汽水逼近QQ音乐，腾讯把曲库搬进微信",
+     "link": "https://wallstreetcn.com/articles/3786787",
+     "pubDate": "Thu, 26 Nov 2026 20:35:34 +0800",
+     "summary": "面对汽水音乐的快速增长，腾讯音乐正在进一步借力微信。 11月25日，部分微信用户发现，“听一听”的个人歌单中多出了一个名为“微信音乐”的入口，与QQ音乐、酷狗音乐并列，排在第一位。 曲库仍由QQ音乐提供，但微信音乐有了自己的推荐、评论和歌单共享功能。用户可以给一首歌录制语音留言，下次播放时优先响起，也可以通过共享歌单和微信好友一起听歌。 截至11月26日，微信与腾讯音乐均未对此发布官方公告，功能仍在灰度测试。 微信做音乐并非新鲜事。2023年，微信曾联合QQ音乐推出限时免费听歌活动；2024年，音乐音频业务被提至发现页一级入口，定名“听一听”；今年5月，又加入了AI写歌与翻唱功能。 如今，微信",
+     "source": "华尔街见闻",
+     "zh": "汽水逼近QQ音乐，腾讯把曲库搬进微信"
     },
     {
      "title": "Thanksgiving football fuels the NFL's hunt for a bigger TV deal",
@@ -2426,6 +2402,14 @@ window.INDUSTRY_DATA = {
      "zh": "谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上"
     },
     {
+     "title": "险企年末“冲刺”开始，分红险成跨年“大热单品”",
+     "link": "https://wallstreetcn.com/articles/3786784",
+     "pubDate": "Thu, 26 Nov 2026 19:55:40 +0800",
+     "summary": "临近年末，各家保险企业和银行纷纷展开“开门红”销售行动，而今年分红产品逆势走红。 来自业内的消息显示，自2026年10月底开始，各家大型保险机构比如中国人寿、新华保险、泰康人寿等纷纷密集上架了新的保险产品。 与前几年相比，今年最明显的变化是产品结构：分红险几乎取代传统固收储蓄险，成为各家公司首季主推的绝对主力。 分红产品站上“C位” 从行业整体数据看，分红险的走红在年内已有苗头。 根据中保协口径，分红险原保险保费收入在2024年为7659亿元，2025年9042亿元，2026 年上半年一举达到10126亿元，同比大增 94.4%，增速远超同期人身险原保险保费收入3.6%。 从头部险企来看，新单",
+     "source": "华尔街见闻",
+     "zh": "险企年末“冲刺”开始，分红险成跨年“大热单品”"
+    },
+    {
      "title": "Client data leaked in Zodia Custody security breach - Reuters",
      "link": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 26 Nov 2026 11:55:00 GMT",
@@ -2450,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "通则康威：第二届董事会第六次会议决议公告"
     },
     {
-     "title": "通则康威：关于召开2026年第二次临时股东会的通知",
-     "link": "http://www.eeo.com.cn/2026/1126/1104504.shtml",
-     "pubDate": "Thu, 26 Nov 2026 19:52:36 +0800",
-     "summary": "证券日报网讯11月26日，通则康威发布公告称，公司将于2026年12月16日召开2026年第二次临时股东会。 （编辑 赵思卓）",
-     "source": "经济观察网",
-     "zh": "通则康威：关于召开2026年第二次临时股东会的通知"
-    },
-    {
      "title": "美银2027年七大交易：上半年做多美元、做空美债，下半年转战新兴市场.......",
      "link": "https://wallstreetcn.com/articles/3786780",
      "pubDate": "Thu, 26 Nov 2026 19:35:08 +0800",
@@ -2474,20 +2450,44 @@ window.INDUSTRY_DATA = {
      "zh": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙"
     },
     {
-     "title": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定",
-     "link": "https://wallstreetcn.com/articles/3786776",
-     "pubDate": "Thu, 26 Nov 2026 19:17:44 +0800",
-     "summary": "英国央行在释放银行业资本空间的同时，也为进一步放松监管划定了边界。尽管银行业持续要求降低资本约束，但监管层仍将金融稳定置于优先位置。 11月26日，据彭博报道， 英国央行周四公布银行资本框架审查的最终方案，拟将银行资本要求下调30个基点，通过调整Pillar 2A附加资本要求，释放约1000亿英镑的放贷能力。不过，央行警告，进一步大幅降低资本要求将危及金融稳定，并削弱银行体系吸收冲击的能力。 此次改革正值英国银行业要求改善竞争环境之际。随着美国加快银行业去监管进程，华尔街竞争对手有望从中受益，英国银行也希望降低资本约束，以增强放贷能力和股东回报。此前，银行业游说团体提出了比央行最终方案更激进的",
-     "source": "华尔街见闻",
-     "zh": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定"
-    },
-    {
      "title": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
      "link": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
      "pubDate": "Thu, 26 Nov 2026 11:17:39 GMT",
      "summary": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
      "source": "CNBC",
      "zh": "Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning"
+    },
+    {
+     "title": "44% of British Gen Z men are victim to investment scams - Starling Bank",
+     "link": "https://www.finextra.com/newsarticle/48818/44-of-british-gen-z-men-are-victim-to-investment-scams---starling-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 10:50:00 GMT",
+     "summary": "Research from Starling Bank found that 44% of Gen Z men in the UK have fallen for social media investment scams.",
+     "source": "Finextra",
+     "zh": "44% of British Gen Z men are victim to investment scams - Starling Bank"
+    },
+    {
+     "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+     "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+     "pubDate": "Thu, 26 Nov 2026 10:45:45 GMT",
+     "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+     "source": "CNBC",
+     "zh": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify"
+    },
+    {
+     "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+     "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 10:37:00 GMT",
+     "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
+     "source": "MarketWatch",
+     "zh": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience."
+    },
+    {
+     "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+     "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 10:11:00 GMT",
+     "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+     "source": "MarketWatch",
+     "zh": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank"
     }
    ]
   },

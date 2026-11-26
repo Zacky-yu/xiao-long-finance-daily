@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 16:11:59",
+ "generated_at": "2026/11/26 16:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
      "source": "量子位",
      "zh": "报名最后2天｜AI浪潮之中，来认识创造未来的人"
+    },
+    {
+     "title": "目标估值2200亿！曝英国AI语音创企寻求新融资",
+     "link": "https://zhidx.com/p/614573.html",
+     "pubDate": "Thu, 26 Nov 2026 14:45:37 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月26日消息，今日，据彭博社援引知情人士消息报道，英国AI语音初创公司ElevenLabs正就新一轮融资展开早期磋商，目标估值 330亿美元（约合人民币2199亿元） 。 知情人士称，该公司计划在 2027年前三个月 正式启动本轮融资。由于相关信息尚未公开，消息人士要求匿名。目前，相关讨论仍处于初步阶段，但已有部分潜在投资方希望进程尽早开启。 拟议中的估值较ElevenLabs今年9月通过员工要约收购达到的 220亿美元（约合人民币1466亿元） 估值 提升了50% ，延续了该公司融资估值以“11的倍数”定价的惯例。据彭博社报道，该公司商业",
+     "source": "智东西",
+     "zh": "目标估值2200亿！曝英国AI语音创企寻求新融资"
     },
     {
      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "An Indic Voice Agent with CUGA"
-    },
-    {
-     "title": "现实版贾维斯怎么造？物理世界入口争夺战，打到基础设施层",
-     "link": "https://zhidx.com/p/614151.html",
-     "pubDate": "Wed, 25 Nov 2026 18:15:34 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 电影《钢铁侠》里，托尼·斯塔克的管家贾维斯，能在设计战甲时给建议，飞行中报参数，战斗里接管系统， 始终“在场” 协助主角完成每一次行动。 贾维斯满足了人们对于未来AI的设想。如今，AI可以 写代码、生成视频、执行多步骤任务 ，但想让AI像贾维斯一样 走进物理世界 ，首先需要跨过 基础设施 这道门槛。 现有的AI基础设施主要 面向数字世界 ，算力集中部署在数据中心，支撑云端的模型训练和推理。面向物理世界的AI，则需要把部分计算能力放到使用现场，让机器人能够及时感知环境、作出判断并执行动作。 九章云极AI首席科学家缪旭称：“智能体出错了可以重新生成，但机",
-     "source": "智东西",
-     "zh": "现实版贾维斯怎么造？物理世界入口争夺战，打到基础设施层"
     }
    ]
   },
@@ -1762,20 +1762,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "广东：按需有序开展词元（Token）经济，积极推动词元出海",
+     "link": "https://www.ithome.com/1/032/927.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:22:28 GMT",
+     "summary": "IT之家 11 月 26 日消息，广东省政务服务和数据管理局、广东省发展和改革委员会今日印发《广东省算力发展“十五五”规划》，其中提到，带动现代服务向智向新发展。 IT之家注意到，该《规划》还提到依托算力供给能力迭代升级，全力打造一流人工智能企业，推动服务业从“数字赋能”的互联网服务向“智能驱动”的新型服务方式演进。 按需有序开展词元（Token）经济 ， 积极推动词元出海 。加快培育智能原生新模式新业态，推动生产性服务业向专业化和价值链高端延伸，推进生活性服务业高品质多样化便利化发展，促进服务业扩能提质。 此外，该规划还提出健全词元经济制度，推动词元交易规则和流程标准化，完善交易信息披露、动",
+     "source": "IT之家",
+     "zh": "广东：按需有序开展词元（Token）经济，积极推动词元出海"
+    },
+    {
+     "title": "降低成本、提高研制效率：京津冀首个卫星 AIT 共享中心正式投入运行",
+     "link": "https://www.ithome.com/1/032/926.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:21:54 GMT",
+     "summary": "IT之家 11 月 26 日消息，据央视新闻今日报道，经过一段时间的整星测试，京津冀首个卫星 AIT 共享中心 —— 雄安卫星 AIT 中心， 也就是“卫星总装、集成与测试中心”正式投入运行 。 据介绍，雄安卫星 AIT（总装、集成与测试）中心位于雄安高新区科创中心中试基地， 由卫星柔性产线和测试中心组成，可为商业航天企业提供从卫星研发试制到发射前测试的一站式技术服务 ，让企业共享专业设备和技术资源，降低研发成本，提高研制效率。 目前，中心已启动整星测试任务 。 值得一提的是，在雄安卫星 AIT 中心卫星共享测试车间，直径 6.6 米、深 10 米的试验罐内，温度与真空度正逐步逼近太空环境。在",
+     "source": "IT之家",
+     "zh": "降低成本、提高研制效率：京津冀首个卫星 AIT 共享中心正式投入运行"
+    },
+    {
+     "title": "JPR 数据：全球 PC GPU 出货量 2026Q3 环比下降 3.6%、同比下降 5.0%",
+     "link": "https://www.ithome.com/1/032/925.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:16:38 GMT",
+     "summary": "IT之家 11 月 26 日消息，Jon Peddie Research 当地时间 23 日报告称， 全球 PC GPU 出货量在 2026 年第 3 季度达到 7,280 万颗 ，环比下降 3.6%、同比下降 5.0%。该数据在历年三季度通常会环比增长。 图源：Pexels 从供应商角度， 英特尔的 PC GPU 市场份额上升 2.6 个百分点、 AMD 与英伟达各下跌 1.3% 左右；英特尔出货量增长 0.8%，另两家的跌幅在 9% 附近。 而从平台来看，桌面 GPU 出货量环比增长 13%、 移动端则下降 9.6% 。整体客户端独立显卡出货量环比下降 8.4%、同比下降 11%；桌面端独",
+     "source": "IT之家",
+     "zh": "JPR 数据：全球 PC GPU 出货量 2026Q3 环比下降 3.6%、同比下降 5.0%"
+    },
+    {
+     "title": "平头哥 IPO 之际，马云现身办公区与员工亲切合影",
+     "link": "https://www.ithome.com/1/032/924.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:15:46 GMT",
+     "summary": "IT之家 11 月 26 日消息，据新浪科技今天报道，今日有网友在社交媒体发帖称“马云罕见露面，闪现平头哥”、“马老师闪现平头哥，现场氛围太热烈了”…… 网友们拍摄的视频画面显示，阿里巴巴集团创始人马云身穿灰色毛衣，与平头哥工作人员愉快地打招呼， 并亲切地与大家合影 。 据IT之家此前报道 ，阿里巴巴在港交所公告称，香港联交所已确认公司可进行建议分拆。2026 年 9 月 11 日，平头哥以保密形式向香港联交所递交上市申请表格（A1 表格），以申请批准平头哥的 H 股在香港联交所主板上市及买卖。阿里巴巴认为，建议分拆在商业上对公司及平头哥有利，并符合股东的整体利益。",
+     "source": "IT之家",
+     "zh": "平头哥 IPO 之际，马云现身办公区与员工亲切合影"
+    },
+    {
+     "title": "smart 精灵#2 BRABUS 版申报：90kW 电机 + 宁德时代电池",
+     "link": "https://www.ithome.com/1/032/923.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:15:32 GMT",
+     "summary": "IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，smart 精灵 #2 BRABUS 版完成申报。 IT之家注意到，本次申报的 smart 精灵 #2 BRABUS 版延续了 BRABUS 的设计风格，采用大面积黑色车身，红色元素集中在车标描边、前唇及侧裙扰流饰件、大灯灯腔红环、A 柱及车顶等位置，并提供 PERFORMANCE 字标选装。 车身尺寸方面，这款车的长宽高分别为 2778mm / 1669mm / 1555mm，轴距为 1875mm，整备质量 1140kg，总质量 1325kg，额定载客人数为 2 人，接近角 / 离去角分别",
+     "source": "IT之家",
+     "zh": "smart 精灵#2 BRABUS 版申报：90kW 电机 + 宁德时代电池"
+    },
+    {
+     "title": "荣耀海外推出 Choice T20 手机：紫光展锐 T7250 + 4GB RAM、配 7000mAh 电池",
+     "link": "https://www.ithome.com/1/032/922.htm",
+     "pubDate": "Thu, 26 Nov 2026 08:14:01 GMT",
+     "summary": "IT之家 11 月 26 日消息，荣耀现已在海外市场推出 Choice T20 入门级智能手机，该机搭载紫光展锐 T7250 处理器，匹配 4GB RAM 及 64GB 存储空间。 该机拥有 IP52 认证，整体厚度 8.7mm，重量 213g，正面配备一块 6.78 英寸 HD+ 90Hz IPS LCD 面板，匹配 5Mp 前置自拍摄像头，手机后置 13Mp 摄像头。 该机搭载紫光展锐 T7250 处理器，匹配 4GB RAM 和 64GB 存储空间，内置 7000mAh 电池，支持 15W 有线充电。",
+     "source": "IT之家",
+     "zh": "荣耀海外推出 Choice T20 手机：紫光展锐 T7250 + 4GB RAM、配 7000mAh 电池"
+    },
+    {
+     "title": "赵本山《慌啥子嘛》爆火背后，藏着5个底层商业趋势",
+     "link": "https://www.huxiu.com/article/4908682.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 16:12:01 +0800",
+     "summary": "本文来自微信公众号： 正和岛 ，作者：拐枣 最近这一段时间，笔者耳朵边上，飘着的全是赵本山的声音： “慌啥子嘛，慢慢来。太阳下山有月亮爬上来，云会在，花会开，好运终会为你而等待……” 这首歌原本是一首川渝方言歌，后有网友合成赵本山的声线，在互联网上一度出圈，而赵本山演唱的版本，上线三小时点赞破百万，相关话题播放量很快突破2亿，在短视频平台刷屏。 那么，为何这首歌得以爆火？ 与年轻人同频共振 《慌啥子嘛》里反复唱的是“慢慢来”“太阳下山有月亮爬上来”。 从表面上看，歌词是劝人别急。但往深里听，它安抚的是一种很具体的疲惫。很多人一直处于内卷状态中，不敢停、害怕输，最终人们被裹挟着，越来越累。 这套",
+     "source": "虎嗅",
+     "zh": "赵本山《慌啥子嘛》爆火背后，藏着5个底层商业趋势"
+    },
+    {
+     "title": "消费抵物业费，国美也进场了",
+     "link": "https://www.huxiu.com/article/4908681.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 16:11:17 +0800",
+     "summary": "本文来自微信公众号： 物业K线 ，作者：严明会 国美做了一件看上去跟家电零售没什么关系的事。 9月份，惠邻AI智慧社区生态启动大会上，国美集团创始人、通通AI社交集团创始人黄光裕出席，国美方面与惠邻智能科技签下战略合作，把“消费返物业费”装进了智慧社区系统。 逻辑不复杂：业主在社区周边消费，商家让出的利润变成物业费抵扣额度，平台记账，物业拿推广费，商家拿客流。 此前，乌鲁木齐、武汉江夏、赣州、开封、淄博等地已经有试点跑过账了。 过去，干这事的一般是区域性小平台，带着零星试探的意味。如今，一家做了三十多年实体零售的公司，带着生态方和系统方一起站到了台前。 但这个听起来多方共赢的模型，是否真的能推",
+     "source": "虎嗅",
+     "zh": "消费抵物业费，国美也进场了"
+    },
+    {
+     "title": "棒棒糖含在嘴里就能测怀孕？有人正在设计这样的验孕棒",
+     "link": "https://www.huxiu.com/article/4908680.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 16:09:39 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：小飞鱼，编辑：黎小球 棒棒糖是一种常见的零食，不稀奇。但如果有这样一款棒棒糖，含到嘴里便能知道自己有没有怀孕，是不是很神奇？ 这款设计的目标受众并不是健康女性，而是视障女性，目的是让她们能更方便、自主、不依赖他人地完成验孕并识别结果，极大地保护她们的隐私。 棒棒糖验孕棒，用完后可食用销毁 传统的尿液妊娠检测全程依赖视觉。微小的尿液收集孔，模糊的结果显示线条，或是可读取的文字，采样、判断每一个步骤，都离不开“看”。对于视障女性来说，操作难度不言而喻。 同时，做孕检是一件私密且情感丰富的事情。如果怀孕，女性可能更希望由自己决定何时、以何种方式分享这一消息。出于多",
+     "source": "虎嗅",
+     "zh": "棒棒糖含在嘴里就能测怀孕？有人正在设计这样的验孕棒"
+    },
+    {
      "title": "爱喝奶茶又怕糖尿病，年轻人花一百多块给自己扎个“留置针”",
      "link": "https://www.huxiu.com/article/4908678.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 16:04:45 +0800",
      "summary": "本文来自微信公众号： 惊蛰青年 ，编辑：安菲尔德，作者：阿瑞 田江龙 “动态血糖仪才是真正的运动手环。” 这是一位网友被“折腾”后的由衷感叹。在此之前，他刚刚经历了“每天吃完饭半个小时后提醒血糖飙升，吓得立马起身活动，走了半小时血糖降下来，坐十分钟又开始回升，只能再起来走路”的循环。 你对这套操作大概不陌生，只是版本不同。刚开始，你想试试水，花一两百块钱买来运动手环，雄心勃勃设置久坐提醒、喝水提醒，没事儿就看看心率、卡路里消耗。但很快，你开始觉得有点烦，还经常在干活时为“站立提醒”内耗……最后，你烦得把手环取了下来，宣布拒绝被数据焦虑绑架，生活习惯又有了倒退回原点的苗头。 但这个世界上，从来都",
      "source": "虎嗅",
      "zh": "爱喝奶茶又怕糖尿病，年轻人花一百多块给自己扎个“留置针”"
-    },
-    {
-     "title": "比亚迪海洋网独立 9 系旗舰 MPV 外观首发，新车明日全球首秀",
-     "link": "https://www.ithome.com/1/032/893.htm",
-     "pubDate": "Thu, 26 Nov 2026 08:03:06 GMT",
-     "summary": "IT之家 11 月 26 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日发布视频，公开了海洋网独立 9 系旗舰 MPV 的外观。 新车将在明日迎来全球首秀 。 IT之家附官方视频截图如下： 比亚迪汽车海洋网销售事业部总经理张卓此前表示， 新车基于比亚迪全新平台打造，搭载多项黑科技 ，号称“重新定义家用旗舰的价值标杆”。另外，在今年 4 月的 2026 北京国际车展上， 比亚迪海洋网发布了一款 Ocean-V 概念车 ，宣称是“能越野的 MPV、能露营的家、可移动的家庭影院、能带娃的大玩具”。",
-     "source": "IT之家",
-     "zh": "比亚迪海洋网独立 9 系旗舰 MPV 外观首发，新车明日全球首秀"
     },
     {
      "title": "几箱啤酒砸了国产新能源的锅？真相并非如此",
@@ -1786,22 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "几箱啤酒砸了国产新能源的锅？真相并非如此"
     },
     {
-     "title": "马自达高管：公司已不再依赖 MX-5 塑造品牌形象",
-     "link": "https://www.ithome.com/1/032/889.htm",
-     "pubDate": "Thu, 26 Nov 2026 07:58:44 GMT",
-     "summary": "IT之家 11 月 26 日消息，马自达花了近四十年时间凭借 MX-5 树立起品牌口碑，但如今这家公司显然不再认为这款备受喜爱的敞篷跑车不可或缺。当被问到这家日本车企能否想象一个没有这款双座跑车的未来时，一位高管的回答相当直白：“当然可以，完全可以。” 这话恐怕不是 MX-5 车迷想听到的。IT之家注意到，马自达英国销售总监劳拉 · 布雷利（Laura Brailey）在接受 Auto Express 采访时解释说，公司如今已不那么依赖这款小跑车来塑造自己的品牌形象。不断壮大的 SUV 阵容，尤其是销量极为成功的 CX-5，帮助拓宽了公众对马自达的认知。 “MX-5 在我们整体产品阵容中的销量",
-     "source": "IT之家",
-     "zh": "马自达高管：公司已不再依赖 MX-5 塑造品牌形象"
-    },
-    {
-     "title": "德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难",
-     "link": "https://www.ithome.com/1/032/888.htm",
-     "pubDate": "Thu, 26 Nov 2026 07:56:41 GMT",
-     "summary": "IT之家 11 月 26 日消息，据科技媒体 ComputerBase 今天报道，德国勃兰登堡消费者保护中心现已对 OpenAI 提起诉讼， 原因是 ChatGPT 订阅服务的取消流程过于繁琐 。 勃兰登堡消费者中心法律事务顾问 Dunja Neukamp 表示，要给 ChatGPT 开通订阅服务非常简单，只需要点几下按钮。然而反过来要取消，就没有那么简单。用户必须通过最初开通订阅的平台管理订阅服务，例如用电脑网页订阅的话，就无法用手机 App 取消。 该机构认为，OpenAI 并没有给退订留出足够的透明度， 且这种做法不符合德国法律要求 。 此外，该消费者组织还对 OpenAI 用户合同中的",
-     "source": "IT之家",
-     "zh": "德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难"
-    },
-    {
      "title": "宁德时代丢了份额，理想汽车输了利润",
      "link": "https://www.huxiu.com/article/4908674.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 15:55:23 +0800",
@@ -1810,60 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "宁德时代丢了份额，理想汽车输了利润"
     },
     {
-     "title": "商汤开源机器人操作视觉语言模型 SenseNova-RoboRSI-27B 正式版，RoboDojo 评测得分超 GPT-6 Astra",
-     "link": "https://www.ithome.com/1/032/887.htm",
-     "pubDate": "Thu, 26 Nov 2026 07:54:28 GMT",
-     "summary": "IT之家 11 月 26 日消息，商汤科技昨日发布面向机器人操作的视觉语言模型 SenseNova-RoboRSI-27B 正式版。 据介绍，相较于 Preview 版本主要依赖视觉语言动作模型（VLA）执行任务，正式版能够自主判断何时调用 VLA、何时通过代码直接控制机械臂，并根据实际执行反馈调整动作策略。 官方表示，在知名机器人仿真榜单 RoboDojo 最新版评测中， 模型取得 34.7 分的平均成绩 ，较 Preview 版本的 10.0 分提升至原来的 3.47 倍，以 27B 的模型体量超越 RoboDojo 官方团队测试的 GPT-6 Astra 的成绩。 相关演示图片如下： ▲",
-     "source": "IT之家",
-     "zh": "商汤开源机器人操作视觉语言模型 SenseNova-RoboRSI-27B 正式版，RoboDojo 评测得分超 GPT-6 Astra"
-    },
-    {
-     "title": "COMEX黄金，创1980年以来最惨行情",
-     "link": "https://www.huxiu.com/article/4908673.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 15:52:59 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：李响 Wind数据显示，COMEX黄金期货昨日延续弱势下探，盘中最低触及3425.2美元/盎司，较今年创下的5794.1美元/盎司历史高点回撤幅度达到40.88%。这是1971年布雷顿森林体系瓦解、黄金市场化定价以来，继1980年之后，历史上第二次出现单自然年度内金价较当年高点回撤超40%的极端行情。 图：COMEX黄金期货年线走势 数据来源：Wind数据，财联社整理 在多位大宗商品研究人士看来，尽管回撤幅度已踏入历史级熊市区间，但本轮下跌的核心驱动与市场结构，均与1980年的投机泡沫破裂存在本质区别——既非恶性通胀终结后的价值回归，也不是散户狂热后的踩踏",
-     "source": "虎嗅",
-     "zh": "COMEX黄金，创1980年以来最惨行情"
-    },
-    {
-     "title": "QCY Ti 耳夹式耳机发售：10.8mm 动圈、54 小时续航，259 元",
-     "link": "https://www.ithome.com/1/032/886.htm",
-     "pubDate": "Thu, 26 Nov 2026 07:50:21 GMT",
-     "summary": "IT之家 11 月 26 日消息，QCY 宣布推出一款 QCY Ti 开放式耳夹蓝牙耳机，该产品主打“云感钛金丝 C 桥”、“镀钛球顶双磁单元”， 定价为 269 元，首发价 259 元 。 京东 QCY Ti 耳机 259 元 直达链接 该产品提供 IPX5 认证，充电盒采用光面与哑光双拼撞色设计，耳机本体采用了高光镶边工艺，内置 0.45mm 记忆钛丝 C 桥以自适应调节夹紧力。 该耳机内置 10.8mm 双扇形通孔双磁路动圈与 PU 镀钛球顶振膜，支持 LDAC 解码、Hi-Res 无线认证及 360° 空间音效，提供 SoundLock 防漏音 3.0、32.5° 定向传声、具备 4 ",
-     "source": "IT之家",
-     "zh": "QCY Ti 耳夹式耳机发售：10.8mm 动圈、54 小时续航，259 元"
-    },
-    {
-     "title": "捷豹路虎确认：揽胜 GT 明年初只推纯电版，混动还得再等",
-     "link": "https://www.ithome.com/1/032/885.htm",
-     "pubDate": "Thu, 26 Nov 2026 07:47:19 GMT",
-     "summary": "IT之家 11 月 26 日消息，捷豹路虎（JLR）已确认，揽胜 GT（Range Rover GT）将于 2027 年初以纯电动车的形式交付到用户手中。混动版本也会推出，只是不在这一年。 这一时间表出自捷豹路虎首席财务官理查德 · 莫利纽克斯（Richard Molyneux），他是在塔塔汽车乘用车业务第二季度财报电话会上透露的。他描述了分两步走的节奏：先推出纯电动车型，之后再根据自身计划推出混合动力车型。 莫利纽克斯还说明了这款 GT 车型在产品序列中的定位。“GT 会排在传统全尺寸揽胜之下，”他说。 GT 并不打算在纯电揽胜或燃油旗舰面前比拼“SUV 味”，其采用更低矮、更像轿车的车身形",
-     "source": "IT之家",
-     "zh": "捷豹路虎确认：揽胜 GT 明年初只推纯电版，混动还得再等"
-    },
-    {
-     "title": "苏格兰威士忌的周期启示",
-     "link": "https://www.huxiu.com/article/4908667.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 15:30:37 +0800",
-     "summary": "本文来自微信公众号： 名酒研究所 ，作者：名酒研究所 当前，国产威士忌正在加速扩产，生产厂家已有64家，实际蒸馏能力7万千升，规划能力13万千升，四川邛崃、峨眉山、浙江千岛湖、云南大理四大产区成形，热钱、产区、标准与产能几乎同时涌入。 把视线拉远，威士忌在全球烈酒版图里的位置并不平均。 根据FortuneBusinessInsights行业报告，2025年全球威士忌市场规模约928.9亿美元，是全球销售额第一大烈酒品类。在这之中，苏格兰威士忌出口额53.6亿英镑，在全球160多个市场销售，具有较高的地位。 苏格兰威士忌的成就，来源于过去几十年里反复经历周期、反复重置自身：产能扩张之后是库存压顶",
-     "source": "虎嗅",
-     "zh": "苏格兰威士忌的周期启示"
-    },
-    {
      "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices (Wall Street Journal)",
      "link": "https://www.techmeme.com/261126/p5#a261126p5",
      "pubDate": "Thu, 26 Nov 2026 02:30:01 -0500",
      "summary": "Wall Street Journal : Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices &nbsp; &mdash;&nbsp; A global shortage has companies scrambling&mdash;and it's sent prices on electronics soaring&nbsp; &md",
      "source": "Techmeme",
      "zh": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices (Wall Street Journal)"
-    },
-    {
-     "title": "一投浮盈1340亿，阿联酋的“算力美元”赌局",
-     "link": "https://www.huxiu.com/article/4908519.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 15:27:36 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一，题图来自：AI生成 11月19日，人工智能公司Anthropic在纳斯达克上市，首日收于97.17美元，较发行价上涨17%。硅谷投资者成为焦点，远在中东的阿布扎比却出现了一位隐形赢家。 阿联酋投资机构MGX披露，按照这一收盘价计算，其持有的Anthropic股份账面浮盈约200亿美元。成立于2024年的MGX，只用了两年多便跻身全球人工智能投资的重要参与者。它连续参与Anthropic融资，并在上市时继续加码。 当然，200亿美元仍是账面收益。股价会波动，大额减持也受到限制。但一笔投资所展示的转变已经十分清楚。 过去，阿联酋向世界出售石油，再把",
-     "source": "虎嗅",
-     "zh": "一投浮盈1340亿，阿联酋的“算力美元”赌局"
     },
     {
      "title": "日本短剧 App 投放 CPA 涨到 1800 日元，该换渠道还是换素材？",
@@ -1880,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "对于Tether而言，真正的挑战或许已经不只是维持USDT的稳定，而是如何让庞大的投资版图形成持续运转的商业体系。",
      "source": "钛媒体",
      "zh": "手握千亿美元资产，稳定币巨头Tether狂投金融公司"
-    },
-    {
-     "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-     "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-     "pubDate": "Thu, 26 Nov 2026 07:05:59 +0000",
-     "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real Comments URL: https://news.ycombinator.com/item?id=50652370 Points: 13 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Mirror life is dangerous. Regulators must act before it becomes real"
     },
     {
      "title": "从“堆数据”到“边干边学”，具身智能正在寻找自己的Scaling Law",
@@ -1949,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Moat: Your OpenRouter Replacement",
      "link": "https://commandcode.ai/moat",
      "pubDate": "Thu, 26 Nov 2026 06:32:48 +0000",
-     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 8 # Comments: 5",
+     "summary": "Article URL: https://commandcode.ai/moat Comments URL: https://news.ycombinator.com/item?id=50652184 Points: 15 # Comments: 11",
      "source": "Hacker News",
      "zh": "Moat: Your OpenRouter Replacement"
     },
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "Jonathan Greig / The Record : Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals &nbsp; &mdash;&nbsp; State-backed hacking groups in China and North Korea are using a powerful AI hacking tool in ",
      "source": "Techmeme",
      "zh": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals (Jonathan Greig/The Record)"
+    },
+    {
+     "title": "Lenovo Coupon Codes: 15% Off in November 2026",
+     "link": "https://www.wired.com/story/lenovo-coupon-code/",
+     "pubDate": "Thu, 26 Nov 2026 06:00:00 +0000",
+     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+     "source": "WIRED",
+     "zh": "Lenovo Coupon Codes: 15% Off in November 2026"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola’s Android 17 update breaks cover screen calling features for some Razr users",
+     "link": "https://www.androidauthority.com/motorola-razr-android-17-cover-screen-dialer-issues-3739610/",
+     "pubDate": "Thu, 26 Nov 2026 08:07:51 +0000",
+     "summary": "Making a call without unfolding your Razr just got harder.",
+     "source": "Android Authority",
+     "zh": "Motorola’s Android 17 update breaks cover screen calling features for some Razr users"
+    },
     {
      "title": "Poll: Is text selection still too finicky on Android phones?",
      "link": "https://www.androidauthority.com/android-text-selection-poll-3739460/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
      "source": "Engadget",
      "zh": "New York state bans AI chatbot toys for kids"
-    },
-    {
-     "title": "1Password confirms hackers stole customer data, but not their passwords",
-     "link": "https://www.androidauthority.com/1password-data-breach-3739555/",
-     "pubDate": "Thu, 26 Nov 2026 05:05:13 +0000",
-     "summary": "Watch out for unexpected recovery emails and invitations.",
-     "source": "Android Authority",
-     "zh": "1Password confirms hackers stole customer data, but not their passwords"
     },
     {
      "title": "HMD Rise leaks on its way to India",
@@ -2258,12 +2258,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "正常损耗不扣押金 光写进合同还不够",
-     "link": "http://www.eeo.com.cn/2026/1126/1104096.shtml",
-     "pubDate": "Thu, 26 Nov 2026 16:04:51 +0800",
-     "summary": "修订稿第四条的变化是，增加了承租人正常使用产生的损耗，出租人不得据此扣减押金。",
-     "source": "经济观察网",
-     "zh": "正常损耗不扣押金 光写进合同还不够"
+     "title": "MAHA push to define ultraprocessed food gains momentum",
+     "link": "https://seekingalpha.com/news/4676740-maha-push-to-define-ultraprocessed-food-gains-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 03:23:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MAHA push to define ultraprocessed food gains momentum"
+    },
+    {
+     "title": "上证50集合竞价急拉，银行股逆势走强，创业板冲高回落涨0.3%，PCB、CPO活跃，恒科指涨超1%，AI大模型股强势反弹",
+     "link": "https://wallstreetcn.com/articles/3786732",
+     "pubDate": "Thu, 26 Nov 2026 16:19:52 +0800",
+     "summary": "隔夜美国PCE超预期推升12月加息预期、AI抛售后避险情绪升温，贵金属走出\"V型\"反弹，PCB则受紧缺警报与AI服务器放量双重提振。 11月26日，A股全天震荡整理，午后三大股指一度集体走低，沪指收盘微涨0.01%，得益于银行、中字头等权重股拉升支撑，集合竞价上证50急拉。创业板指午后曾跌超1%，尾盘艰难转涨，盘中一度涨超2%。AI硬件侧局部活跃，电路板、覆铜板拉升，贵金属、油气、煤炭等板块上涨。疫苗、物理AI、机器人等概念股陷入调整。 中国神华A股午后连创新高，市值跻身A股前十。中国石油、中国石化、中国海油等普遍强势。银行板块逆势走强，南京银行涨近3%，成都银行、交通银行、中信银行、江苏银行",
+     "source": "华尔街见闻",
+     "zh": "上证50集合竞价急拉，银行股逆势走强，创业板冲高回落涨0.3%，PCB、CPO活跃，恒科指涨超1%，AI大模型股强势反弹"
+    },
+    {
+     "title": "日本央行鹰派委员田村直树：需要加快加息步伐，或一次性上调50个基点",
+     "link": "https://wallstreetcn.com/articles/3786765",
+     "pubDate": "Thu, 26 Nov 2026 16:19:32 +0800",
+     "summary": "日本央行鹰派声音进一步增强，政策正常化可能进入加速阶段。随着通胀压力持续显现，市场对12月加息的预期升温，日元融资成本上行也可能给全球套利交易带来新的压力。 11月26日，据彭博报道， 日本央行鹰派审议委员田村直树周四表示，央行应尽快将政策利率提升至中性水平。如果通胀风险成为现实，日本央行可能需要加快加息步伐，甚至一次性上调50个基点。 他还明确释放支持12月加息的信号，并表示基本设想是每隔几个月加息25个基点。 市场已经提前押注政策转向。 隔夜指数互换合约显示，投资者预计日本央行在12月18日结束的下一次政策会议上加息的概率约为80%。 田村直树的最新表态进一步强化了这一预期，也让日本后续加",
+     "source": "华尔街见闻",
+     "zh": "日本央行鹰派委员田村直树：需要加快加息步伐，或一次性上调50个基点"
+    },
+    {
+     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+     "pubDate": "Thu, 26 Nov 2026 08:09:39 GMT",
+     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+     "source": "CNBC",
+     "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
     },
     {
      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
@@ -2274,12 +2298,44 @@ window.INDUSTRY_DATA = {
      "zh": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs"
     },
     {
-     "title": "U.S. tariff-hike threats put pressure on partners to sign trade deals",
-     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-     "pubDate": "Thu, 26 Nov 2026 07:58:19 GMT",
-     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-     "source": "CNBC",
-     "zh": "U.S. tariff-hike threats put pressure on partners to sign trade deals"
+     "title": "三元生物：截至11月20日最新股东户数1.48万户，较上期减少1.59%",
+     "link": "http://stock.eastmoney.com/news/11111,202611263940600011.html",
+     "pubDate": "Thu, 26 Nov 2026 15:59:47 +0800",
+     "summary": "三元生物 最新披露数据显示，截至11月20日公司股东户数为1.48万户，较上期(2026年11月10日) 减少238户，降幅为1.59% 。户均持有流通股数量 由上期的8684股上升至8824股， 户均持股金额 由上期的19.26万元减少至17.60万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "三元生物：截至11月20日最新股东户数1.48万户，较上期减少1.59%"
+    },
+    {
+     "title": "速腾聚创营收增四成，产品替换拨备拖累盈利",
+     "link": "https://wallstreetcn.com/articles/3786764",
+     "pubDate": "Thu, 26 Nov 2026 15:58:26 +0800",
+     "summary": "速腾聚创的销量增长，仍未充分转化为盈利改善。 11月25日，激光雷达及机器人零部件供应商速腾聚创披露2026年前三季度业绩，营收16.92亿元，同比增长42.2%；激光雷达销量129.47万台，同比增长186.2%。同期净亏损3.28亿元，同比扩大31.9%，毛利率由25.2%降至14.6%。 产品替换成本是本期利润承压的重要原因。公司为一家整车厂客户车辆所用激光雷达产品替换累计计提约1.37亿元拨备，其中约1.19亿元计入第三季度，使单季毛利率降至3.7%。速腾聚创称，这笔拨备用于覆盖更换全新产品已经发生或将要发生的成本，未披露具体替换原因及完成情况。 拨备对利润的影响相当明显。按披露数据粗",
+     "source": "华尔街见闻",
+     "zh": "速腾聚创营收增四成，产品替换拨备拖累盈利"
+    },
+    {
+     "title": "前三季度四川民营经济增加值达2.87万亿元",
+     "link": "http://finance.eastmoney.com/news/1355,202611263940598836.html",
+     "pubDate": "Thu, 26 Nov 2026 15:58:00 +0800",
+     "summary": "新华财经成都11月26日电（记者袁波）26日，四川省政府新闻办举行“万千气象看四川·开局向新见行动”系列主题新闻发布会（第四场）。四川省以工代赈办主任陈亮在会上表示，今年前三季度，四川省民营经济增加值达2.87万亿元，占全省地区生产总值的55%。同时，民营企业吸纳城镇新增就业77.8万人，民营经济“压舱石”作用更加凸显。 政策供给多发力。四川先后制定实施金融支持民营企业发展、促进民间投资高质量发展等政策文件，进一步畅通民企融资堵点，破解民间投资痛点。同时，紧扣个体工商户全生命周期需求，从优化准入准营、降低经营成本、助力发展壮大、保护合法权益、强化服务供给五个方面推出务实举措。 服务载体增动力。",
+     "source": "东方财富股票",
+     "zh": "前三季度四川民营经济增加值达2.87万亿元"
+    },
+    {
+     "title": "【概念速递】瑞芯微新增“边缘计算”概念",
+     "link": "http://stock.eastmoney.com/news/11669,202611263940598250.html",
+     "pubDate": "Thu, 26 Nov 2026 15:57:44 +0800",
+     "summary": "2026年11月26日， 瑞芯微 新增“ 边缘计算 ”概念。 入选理由：2026年10月8日投资者关系活动记录表显示，RK182X系列目前已有几十个行业、数百个客户项目在深化研发中，并持续有终端产品发布并量产。目前部分典型落地的应用场景如下：工业与 边缘计算 场景：产品形态涵盖AIBox、工控机、 机器人 控制器与边缘整机等。生态伙伴已开发出各种各样的方案产品，整体面向工业视觉、工业质检、储能 电力 、智慧交通、视频分析与边缘网关等场景，为数据不出域的应用提供本地算力支撑。 公司涉及的其他概念： 汽车 电子 、 物理AI 、 福建自贸区 、 智能音箱 、 半导体概念 、 AI眼镜 、人形 机器",
+     "source": "东方财富股票",
+     "zh": "【概念速递】瑞芯微新增“边缘计算”概念"
+    },
+    {
+     "title": "【概念速递】罗普斯金新增“机器人概念”",
+     "link": "http://stock.eastmoney.com/news/11669,202611263940598111.html",
+     "pubDate": "Thu, 26 Nov 2026 15:57:44 +0800",
+     "summary": "2026年11月26日， 罗普斯金 新增“ 机器人 概念 ”。 入选理由：2026年11月25日回复称，公司控股子公司盟萤科技G4.5-G10.5 玻璃 面板 尺寸 HAND 手臂及各种样式 碳纤维 手臂均定制，该产品已有供货；同时接承 京东 方做 机器人 的维修工作，目前工业 机器人 业务占比较小。 公司涉及的其他概念： 高端装备 、 半导体概念 、 并购重组概念 、 建筑节能 、 房屋检测 、 光伏概念 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请",
+     "source": "东方财富股票",
+     "zh": "【概念速递】罗普斯金新增“机器人概念”"
     },
     {
      "title": "理想汽车预计四季度扭亏，车型更新节奏放缓",
@@ -2288,6 +2344,22 @@ window.INDUSTRY_DATA = {
      "summary": "理想汽车正在减亏，也准备放慢车型更新的节奏。 11 月 25 日，新能源汽车厂商理想汽车发布 2026 年三季报，营收 288.34 亿元，同比增长 5.4% ；净亏损 3.1 亿元，同比收窄 50.4% 。在当晚的财报电话会上，首席财务官李铁表示，预计第四季度净利润实现扭亏为盈，经营现金流也将环比进一步改善。 利润修复首先来自产品组合。三季度，理想车辆毛利率由二季度的 9.4% 回升至 15.3% 。同期交付量环比仅增长约 1.7% ，车辆销售收入却增长 12.6% ，表明改善更多来自销售结构，而非交付规模的大幅扩张。 新产品正在改变收入结构。理想汽车总裁马东辉在 11 月 25 日电话会上",
      "source": "华尔街见闻",
      "zh": "理想汽车预计四季度扭亏，车型更新节奏放缓"
+    },
+    {
+     "title": "巍华新材：截至11月20日最新股东户数1.90万户，较上期减少0.52%",
+     "link": "http://stock.eastmoney.com/news/11111,202611263940597021.html",
+     "pubDate": "Thu, 26 Nov 2026 15:56:49 +0800",
+     "summary": "巍华新材 最新披露数据显示，截至11月20日公司股东户数为1.90万户，较上期(2026年11月10日) 减少100户，降幅为0.52% 。户均持有流通股数量 为1.02万股， 与上期基本持平， 户均持股金额 由上期的13.74万元减少至12.17万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "source": "东方财富股票",
+     "zh": "巍华新材：截至11月20日最新股东户数1.90万户，较上期减少0.52%"
+    },
+    {
+     "title": "继峰股份与灵心巧手合资公司机器人进入汽车座椅产线",
+     "link": "http://stock.eastmoney.com/news/11219,202611263940599760.html",
+     "pubDate": "Thu, 26 Nov 2026 15:56:31 +0800",
+     "summary": "上证报中国证券网讯（记者陈铭）近日， 继峰股份 与灵心巧手合资设立的宁波继巧智能 机器人 有限公司（以下简称“继巧智能”）披露，面套压印、花样机缝纫两个作业场景已在 汽车 座椅工厂连续试运行三周， 机器人 累计自主装配近万件。据介绍，从原料位置识别到装配完成全程无需人工介入，本轮试运行的整线成功率为100%。 据介绍，继巧智能于今年6月成立，专注柔性物料操作领域的物理 AI应用 。 汽车 座椅制造涉及面料、皮革、泡沫等易形变的柔性物料，相关工序过往长期依赖熟练工人的手感与经验，个体差异较大，操作经验亦难以复制，是 机器人 自动化应用的难点之一。继巧智能方面认为，两个场景在本轮试运行中达到100",
+     "source": "东方财富股票",
+     "zh": "继峰股份与灵心巧手合资公司机器人进入汽车座椅产线"
     },
     {
      "title": "停办一年后重开科技日，李斌不甘心蔚来只被记住换电",
@@ -2314,22 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "摩根大通展望2027年A股：沪深300有望上涨21%，看好国产算力、创新药与高股息三大主线"
     },
     {
-     "title": "瑞银称2027年新车投放或减少，国内销量持平于1800万辆",
-     "link": "https://wallstreetcn.com/articles/3786759",
-     "pubDate": "Thu, 26 Nov 2026 15:50:55 +0800",
-     "summary": "作者 | 周智宇 车企的盈利状况有望在2027年改善。 11月25日，华尔街见闻获悉，瑞银中国汽车行业研究主管 巩旻表示，预计明年国内销量将大致持平于1800万辆。经历今年的需求下滑后，车企可能下调销量目标、放慢新车推出节奏，弱势企业部分停产或退出，也有望减轻竞争和利润率压力。 眼下，市场仍在下滑。乘联分会公布的数据显示，2026年前十个月，全国乘用车累计零售1497.8万辆，同比下降22.3%；其中10月零售164.3万辆，同比下降27.1%。 盈利的压力同样明显。乘联分会负责人崔东树10月27日披露，今年前三季度汽车行业收入80435亿元，同比增长2.6%，利润2675亿元，同比下降23%",
-     "source": "华尔街见闻",
-     "zh": "瑞银称2027年新车投放或减少，国内销量持平于1800万辆"
-    },
-    {
-     "title": "砍掉宁德时代，理想砍出利润",
-     "link": "https://wallstreetcn.com/articles/3786758",
-     "pubDate": "Thu, 26 Nov 2026 15:48:51 +0800",
-     "summary": "汽车行业的竞争正在从规模扩张转向成本与效率的较量，理想汽车则试图通过重构供应链，重新找回利润增长空间。 11月26日，理想汽车港股盘中一度涨超11%。此前一晚，公司公布2026年第三季度财报，车辆毛利率升至15.3%，环比大幅提升5.9个百分点，净亏损显著收窄，自由现金流也由负转正。此前持续承压的盈利能力，终于出现明显修复。 财报公布后，华尔街对理想的态度也出现分化中的转暖。 花旗将利润率反弹的重要原因指向电池供应链调整；摩根大通结束此前的减持评级，将理想上调至中性；瑞银则维持买入评级，认为公司当前估值已经具备一定吸引力。 其中，最值得关注的变化来自电池供应链。 理想正在降低对宁德时代的依赖，",
-     "source": "华尔街见闻",
-     "zh": "砍掉宁德时代，理想砍出利润"
-    },
-    {
      "title": "尾盘创业板指、沪指翻红！“金”字辈掀涨停潮 发生了什么？",
      "link": "http://finance.eastmoney.com/news/1345,202611263940593787.html",
      "pubDate": "Thu, 26 Nov 2026 15:48:15 +0800",
@@ -2344,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "The 20,000-square-meter mega factory will be able to produce up to 500 satellites annually, making it the world's third-largest satellite production site.",
      "source": "CNBC",
      "zh": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk"
-    },
-    {
-     "title": "救市基金不够撑一天？韩国担心“子弹不足”，转头向银行券商“要钱”",
-     "link": "https://wallstreetcn.com/articles/3786752",
-     "pubDate": "Thu, 26 Nov 2026 15:44:51 +0800",
-     "summary": "韩国股市的“救火队”还没出手，先发现自己水不够。 11月25日，KOSPI暴跌6.16%至4697.5点，三星电子跌9.9%，SK海力士跌11.1%，而首尔手中那只号称随时可动用的股市稳定基金，规模还不到这个市场一个平常交易日成交额。 据彭博援引韩国经济日报报道，韩国金融监管机构将于11月29日召集股市稳定基金投资管理委员会紧急开会，金融服务委员会（FSC）已要求参与现有基金的银行、券商和保险公司出席。知情人士称， 韩国开发银行（KDB）已向主要券商、商业银行和保险公司发出正式函件，询问各方在2020年承诺额度之外还能追加多少资金。 该基金设立于六年前，规模约10.7万亿韩元（约80亿美元），",
-     "source": "华尔街见闻",
-     "zh": "救市基金不够撑一天？韩国担心“子弹不足”，转头向银行券商“要钱”"
     },
     {
      "title": "U.S. House Committee clears Bitcoin Reserve Bill; can Congress act in time?",
@@ -2442,60 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "Hartford Equity Premium Income ETF declares $0.3047 dividend"
     },
     {
-     "title": "Hartford Core Bond ETF declares $0.1243 dividend",
-     "link": "https://seekingalpha.com/news/4676773-hartford-core-bond-etf-declares-01243-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 02:13:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hartford Core Bond ETF declares $0.1243 dividend"
-    },
-    {
-     "title": "专访中国环境科学学会CCUS专委会副主任委员梁希：可持续燃料规模化应用关键在降本",
-     "link": "http://www.eeo.com.cn/2026/1126/1103915.shtml",
-     "pubDate": "Thu, 26 Nov 2026 14:52:34 +0800",
-     "summary": "在“双碳”目标深入推进、航空业脱碳约束趋紧的背景下，可持续燃料正从试点示范加快走向产业化应用。 11月25日，中国可持续燃料发展研讨会在北京召开，《证券日报》记者在现场专访了中国环境科学学会CCUS（碳捕集、利用与封存）专委会副主任委员梁希。他认为，当前可持续航空燃料（SAF）需求的确定性主要来自欧盟等市场的履约要求，决定其能否规模化的关键是绿电价格牵引下的成本下降。 当前，政策层面正持续加大对...",
-     "source": "经济观察网",
-     "zh": "专访中国环境科学学会CCUS专委会副主任委员梁希：可持续燃料规模化应用关键在降本"
-    },
-    {
      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
      "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
      "pubDate": "Thu, 26 Nov 2026 06:39:34 GMT",
      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
      "source": "CNBC",
      "zh": "SpaceX, Musk pledge to donate a share each to active Trump Accounts"
-    },
-    {
-     "title": "有饮料可以不标生产日期？市场监管总局回应",
-     "link": "http://www.eeo.com.cn/2026/1126/1103889.shtml",
-     "pubDate": "Thu, 26 Nov 2026 14:33:35 +0800",
-     "summary": "饮料保质期一般超过6个月，执行新标准后，其标签可仅标示保质期到期日和保质期，生产日期作为可选择标示内容，企业可自愿标示。部分中粮可口可乐的标签，自新标准发布之日起分批次调整改版，计划新标准正式实施前全部完成。在此期间“新老包装并存”。",
-     "source": "经济观察网",
-     "zh": "有饮料可以不标生产日期？市场监管总局回应"
-    },
-    {
-     "title": "《全国心理健康和精神卫生“十五五”规划》发布",
-     "link": "http://www.eeo.com.cn/2026/1126/1103854.shtml",
-     "pubDate": "Thu, 26 Nov 2026 14:12:54 +0800",
-     "summary": "下一步，国家卫生健康委将会同相关部门，推进各项任务落实，保障《规划》顺利实施。",
-     "source": "经济观察网",
-     "zh": "《全国心理健康和精神卫生“十五五”规划》发布"
-    },
-    {
-     "title": "Nvidia halts chip shipments to south-east Asia",
-     "link": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 05:00:19 GMT",
-     "summary": "Move comes as US steps up export controls to prevent Chinese access to AI computing power",
-     "source": "Financial Times",
-     "zh": "Nvidia halts chip shipments to south-east Asia"
-    },
-    {
-     "title": "Huang’s return is a terrible signal for US capitalism",
-     "link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
-     "pubDate": "Thu, 26 Nov 2026 05:00:19 GMT",
-     "summary": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
-     "source": "Financial Times",
-     "zh": "Huang’s return is a terrible signal for US capitalism"
     }
    ]
   },

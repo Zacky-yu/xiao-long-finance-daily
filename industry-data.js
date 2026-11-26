@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 01:32:04",
+ "generated_at": "2026/11/27 01:52:10",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+     "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+     "pubDate": "Thu, 26 Nov 2026 17:33:21 +0000",
+     "summary": "Tesla has parked a fleet of mobile Supercharger stalls at some of its busiest stations in California and Arizona to handle the Thanksgiving travel crush. The company says 29 temporary stalls are live, on top of 1,027 permanent stalls it opened in the US over the last 56 days. It’s the most organized",
+     "source": "Electrek",
+     "zh": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush"
+    },
+    {
      "title": "Huawei unveils Xingchi brand to target mainstream L2 assisted driving market",
      "link": "https://cnevpost.com/2026/11/26/huawei-unveils-xingchi-brand-l2-assisted-driving/",
      "pubDate": "Thu, 26 Nov 2026 15:27:53 +0000",
@@ -760,14 +768,6 @@ window.INDUSTRY_DATA = {
      "summary": "The next EV to plug in at a ski resort might be the one that groomed your trail. ChargePoint has struck a deal with Kässbohrer, the German company behind PistenBully snow groomers, to bring charging to ski resorts and indoor ski facilities across Europe and North America. more…",
      "source": "Electrek",
      "zh": "ChargePoint and PistenBully have a charging plan for ski resorts"
-    },
-    {
-     "title": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday",
-     "link": "https://electrek.co/2026/11/25/kia-lucid-vw-slash-ev-prices-by-10000-black-friday/",
-     "pubDate": "Wed, 25 Nov 2026 21:31:38 +0000",
-     "summary": "Forget waiting in line for a discounted TV or other gadget you probably don’t need. If you’ve been looking to go electric, Black Friday may be the time to do it. Several brands, including Kia , Lucid, and Volkswagen, are offering $10,000 or more off select EVs right now. more…",
-     "source": "Electrek",
-     "zh": "Kia, Lucid, and Volkswagen are slashing EV prices by $10,000+ for Black Friday"
     },
     {
      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal",
+     "link": "https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal",
+     "pubDate": "Thu, 26 Nov 2026 17:30:00 +0000",
+     "summary": "Whether you want to bring yourself up to speed on Dune or binge-watch HBO's vast catalogue of sci-fi and superheroes, this HBO Max Prime Video add-on deal offers some serious streaming savings.",
+     "source": "Space.com",
+     "zh": "Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal"
+    },
+    {
      "title": "Venus shines at its brightest in the predawn sky this week. Here's where to look",
      "link": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
      "pubDate": "Thu, 26 Nov 2026 17:00:00 +0000",
@@ -1336,14 +1344,6 @@ window.INDUSTRY_DATA = {
      "summary": "The striking blue of the Betta Fish Nebula swims across the cosmic landscape in a new image from the Dark Energy Camera.",
      "source": "Space.com",
      "zh": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026"
-    },
-    {
-     "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
-     "link": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
-     "pubDate": "Thu, 26 Nov 2026 14:35:13 +0000",
-     "summary": "This Disney+ and Hulu bundle is now only $4.99 per month for a whole year, giving you access to the entire Marvel Cinematic Universe among other huge sci-fi franchises.",
-     "source": "Space.com",
-     "zh": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month"
     },
     {
      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 15 # Comments: 2",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 36 # Comments: 5",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
      "link": "https://twitter.com/ElliotC1/status/2125689373337489419",
      "pubDate": "Thu, 26 Nov 2026 16:55:15 +0000",
-     "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419 Comments URL: https://news.ycombinator.com/item?id=50657110 Points: 26 # Comments: 4",
+     "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419 Comments URL: https://news.ycombinator.com/item?id=50657110 Points: 41 # Comments: 20",
      "source": "Hacker News",
      "zh": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "NP_R ≠ PAR_R",
      "link": "https://github.com/samueleverett01/bss-permanent-separations",
      "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
-     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 29 # Comments: 7",
+     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 57 # Comments: 30",
      "source": "Hacker News",
      "zh": "NP_R ≠ PAR_R"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
      "link": "https://michidk.github.io/sidebyside/",
      "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
-     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 33 # Comments: 11",
+     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 36 # Comments: 11",
      "source": "Hacker News",
      "zh": "Show HN: Three Linux VMs in a browser tab, each running a different browser"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Tell HN: Happy Thanksgiving",
      "link": "https://news.ycombinator.com/item?id=50655664",
      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
-     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 348 # Comments: 100",
+     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 365 # Comments: 105",
      "source": "Hacker News",
      "zh": "Tell HN: Happy Thanksgiving"
     },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now",
+     "link": "https://www.androidauthority.com/white-titan-2-elite-3740551/",
+     "pubDate": "Thu, 26 Nov 2026 17:40:09 +0000",
+     "summary": "You’ll just have to wait a couple months to get it.",
+     "source": "Android Authority",
+     "zh": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now"
+    },
+    {
+     "title": "Amazfit Bip Max smartwatch drops to a record low of $89.99",
+     "link": "https://www.androidauthority.com/amazfit-bip-max-deal-3739534/",
+     "pubDate": "Thu, 26 Nov 2026 17:27:54 +0000",
+     "summary": "Save $10 on Amazfit's big-screen GPS smartwatch with a 2.07-inch AMOLED display and up to 20 days of battery life.",
+     "source": "Android Authority",
+     "zh": "Amazfit Bip Max smartwatch drops to a record low of $89.99"
+    },
     {
      "title": "Last call for Amazon UK's top Black Friday deals: flagships, foldables, mid-rangers and more",
      "link": "https://www.gsmarena.com/last_call_for_amazon_uks_top_black_friday_deals_flagships_foldables_midrangers_and_more-news-75652.php",
@@ -2106,28 +2122,12 @@ window.INDUSTRY_DATA = {
      "zh": "TCL TAB 10 Gen 4 hits a record low under $130"
     },
     {
-     "title": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s",
-     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
-     "pubDate": "Thu, 26 Nov 2026 15:06:01 +0000",
-     "summary": "Code in One UI 9.5 Beta 1 reveals an unreleased \"SPAC\" framework to process anonymized cloud-based Galaxy AI requests.",
-     "source": "Android Authority",
-     "zh": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s"
-    },
-    {
      "title": "Apple reportedly revamping notifications once again with iOS 28",
      "link": "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
      "pubDate": "Thu, 26 Nov 2026 16:03:02 +0100",
      "summary": "Apple has revamped its iOS notification system several times over the years, including the infamous AI-generated notification summaries that were introduced with iOS 18. Now, the company is reportedly preparing another overhaul with iOS 28. While the exact nature of the iOS 28 notifications overhaul",
      "source": "GSMArena",
      "zh": "Apple reportedly revamping notifications once again with iOS 28"
-    },
-    {
-     "title": "LG’s S6FTR 5.1 soundbar with rear speakers is $180 off",
-     "link": "https://www.androidauthority.com/lg-s6ftr-soundbar-deal-3740504/",
-     "pubDate": "Thu, 26 Nov 2026 14:49:54 +0000",
-     "summary": "LG's 5.1-channel soundbar kit with a subwoofer and wireless rear speakers is 45% off, its lowest price yet.",
-     "source": "Android Authority",
-     "zh": "LG’s S6FTR 5.1 soundbar with rear speakers is $180 off"
     },
     {
      "title": "Share your instant camera photos to celebrate the first Polaroid camera sold in 1948",
@@ -2250,20 +2250,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941003771.html",
-     "pubDate": "Fri, 27 Nov 2026 01:10:15 +0800",
-     "summary": "俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触"
-    },
-    {
-     "title": "据报道，俄罗斯总统普京批准了《俄罗斯北极地区发展战略及该地区国家安全保障战略》",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941003619.html",
-     "pubDate": "Fri, 27 Nov 2026 01:08:43 +0800",
-     "summary": "据报道，俄罗斯总统普京批准了《俄罗斯北极地区发展战略及该地区国家安全保障战略》。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "据报道，俄罗斯总统普京批准了《俄罗斯北极地区发展战略及该地区国家安全保障战略》"
+     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+     "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+     "pubDate": "Thu, 26 Nov 2026 17:39:23 GMT",
+     "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
+     "source": "CNBC",
+     "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
     },
     {
      "title": "Revolve Renewable Power reports Q1 results",
@@ -2274,28 +2266,12 @@ window.INDUSTRY_DATA = {
      "zh": "Revolve Renewable Power reports Q1 results"
     },
     {
-     "title": "夜盘期货收盘：沪锌收涨1.59% 沪铅收涨1.51%",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941003178.html",
-     "pubDate": "Fri, 27 Nov 2026 01:05:09 +0800",
-     "summary": "国际 铜 夜盘收跌0.13%，沪 铜 收涨0.56%，沪 铝 收涨0.43%，沪锌收涨1.59%，沪铅收涨1.51%，沪 镍 收涨2.32%，沪锡收涨0.52%。氧化 铝 夜盘收跌0.12%， 铝 合金收涨0.29%。不锈钢夜盘收涨0.96%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "夜盘期货收盘：沪锌收涨1.59% 沪铅收涨1.51%"
-    },
-    {
      "title": "Robosense Technology reports Q3 results",
      "link": "https://seekingalpha.com/news/4676899-robosense-technology-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 12:04:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Robosense Technology reports Q3 results"
-    },
-    {
-     "title": "泽连斯基任命乌武装部队支援部队新任司令",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941002987.html",
-     "pubDate": "Fri, 27 Nov 2026 01:03:52 +0800",
-     "summary": "当地时间11月26日，乌克兰总统官方网站公布，乌总统泽连斯基解除德米特里·杰雷加的乌克兰武装部队支援部队司令职务，并任命德米特罗·特卡琴科接任。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "泽连斯基任命乌武装部队支援部队新任司令"
     },
     {
      "title": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0648 dividend",
@@ -2322,28 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend"
     },
     {
-     "title": "欧洲天然气期货冲高回落",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941002824.html",
-     "pubDate": "Fri, 27 Nov 2026 01:00:57 +0800",
-     "summary": "周四（11月26日）欧市尾盘，ICE英国 天然气 期货 跌0.19%，报216.710便士/千卡，北京时间19:38曾涨至222.880便士刷新日高。 TTF基准荷兰 天然气 期货 跌0.28%，报87.590欧元/兆瓦时，19:38也曾刷新日高至89.590欧元。 ICE欧盟碳排放交易许可（ 期货 价格）涨2.70%，报84.41欧元/吨。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲天然气期货冲高回落"
-    },
-    {
      "title": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend",
      "link": "https://seekingalpha.com/news/4676895-yieldmax-mstr-short-option-income-strategy-etf-declares-0_4353-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 12:00:50 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend"
-    },
-    {
-     "title": "玻利维亚运输司机宣布自周一起举行全国罢工",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941003026.html",
-     "pubDate": "Fri, 27 Nov 2026 00:59:58 +0800",
-     "summary": "玻利维亚运输司机宣布自周一起举行全国罢工。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "玻利维亚运输司机宣布自周一起举行全国罢工"
     },
     {
      "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
@@ -2488,6 +2448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
      "source": "Financial Times",
      "zh": "Pablo Hernández de Cos wins race for ECB presidency"
+    },
+    {
+     "title": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响",
+     "link": "http://www.eeo.com.cn/2026/1126/1104558.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:41:00 +0800",
+     "summary": "在气候过冲下，传染病的传播和分布范围可能改变；气候对农业的冲击会导致粮食供应安全面临挑战；许多国家已经面临人口老龄化造成的医疗需求持续增加的挑战，气候变化会进一步加重压力，包括导致个人的慢性病加重。海平面上升导致一些人群的生计、住房受到影响。",
+     "source": "经济观察网",
+     "zh": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响"
+    },
+    {
+     "title": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标",
+     "link": "https://wallstreetcn.com/articles/3786792",
+     "pubDate": "Thu, 26 Nov 2026 22:39:53 +0800",
+     "summary": "OPEC+正考虑暂缓调整石油产量政策，将现行配额延续至明年1月。在中东冲突扰乱海湾原油供应、成员国产能评估迟迟未能落地以及联盟内部矛盾加深的背景下，维持现状成为各方应对不确定性的折中选择。 11月26日，据彭博援引两名知情代表， OPEC+正考虑将现行石油产量配额延续至2027年1月，以应对中东冲突及其他市场不确定性。这是联盟正在讨论的选项之一。OPEC+定于本周日举行线上会议，讨论2027年的新产量目标。 会议召开之际，成员国既需要为冲突可能结束后的供应恢复做准备，也必须处理联盟内部日益明显的利益分歧。 不过，延续配额对实际供需的影响可能十分有限。Energy Aspects创始人兼董事Am",
+     "source": "华尔街见闻",
+     "zh": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标"
+    },
+    {
+     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 14:35:00 GMT",
+     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+     "source": "MarketWatch",
+     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
+    },
+    {
+     "title": "BofE says firms need to invest to keep pace with AI threat",
+     "link": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 14:31:00 GMT",
+     "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
+     "source": "Finextra",
+     "zh": "BofE says firms need to invest to keep pace with AI threat"
+    },
+    {
+     "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+     "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 14:00:00 GMT",
+     "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
+     "source": "MarketWatch",
+     "zh": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot"
     }
    ]
   },

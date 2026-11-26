@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 19:31:58",
+ "generated_at": "2026/11/26 19:36:09",
  "recent_days": 7,
  "industries": [
   {
@@ -16,14 +16,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 编译｜毕伟豪 编辑｜漠影 当你开车，对车载智能助手说“播放公路摇滚”的时候，它很可能并不会去寻找对应的摇滚歌单，反而 会试图搜索一首名叫《公路摇滚》的歌曲 。 其实AI不是不会搜索歌曲这项操作，只是它 从一开始就理解错了你的意图 。 事实上，在各类AI应用中，当用户提出一个需求时，AI系统要做的第一件事往往就是 做出判断 。去判断用户意图、工具调用、路由路径。 第一步的判断速度和精度非常关键 ，判断慢了，用户就会感到卡顿；判断错了，即便后续模型的能力再强，也可能无法满足用户的真实需求。 智东西11月26日消息，近日，针对这类问题，腾讯Venus算",
      "source": "智东西",
      "zh": "QQ音乐，用上决策模型了"
-    },
-    {
-     "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
-     "link": "https://www.qbitai.com/2026/11/512972.html",
-     "pubDate": "Thu, 26 Nov 2026 10:07:55 +0000",
-     "summary": "全栈方案破解工业机器人连续作业难题",
-     "source": "量子位",
-     "zh": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守"
     },
     {
      "title": "极客公园创新大会 2027 全议程公布！",
@@ -162,6 +154,14 @@ window.INDUSTRY_DATA = {
      "zh": "突发！ChatGPT额度爆砍接近一半？"
     },
     {
+     "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+     "link": "https://www.qbitai.com/2026/11/512828.html",
+     "pubDate": "Thu, 26 Nov 2026 02:53:14 +0000",
+     "summary": "叠满海淀最强AI Buff。",
+     "source": "量子位",
+     "zh": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了"
+    },
+    {
      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
      "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000",
@@ -210,14 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Want to buy your kid an AI toy this Christmas? Not in New York"
     },
     {
-     "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
-     "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
-     "pubDate": "Wed, 25 Nov 2026 18:00:33 +0000",
-     "summary": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, and AI agents.",
-     "source": "KDnuggets",
-     "zh": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents"
-    },
-    {
      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
      "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
@@ -234,20 +226,28 @@ window.INDUSTRY_DATA = {
      "zh": "Verifiable Social Reasoning for LLM Assistants"
     },
     {
-     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
-     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
-     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
-     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
-     "source": "KDnuggets",
-     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
+     "title": "让数据库管智能体，崖山科技推出企业数据基础设施新方案",
+     "link": "https://zhidx.com/p/614304.html",
+     "pubDate": "Wed, 25 Nov 2026 20:29:57 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西11月25日报道，今日，深圳计算科学研究院孵化的AI数据创企崖山科技发布 AI数据基础设施“1+1+N”战略 ，推出 崖山数据智能底座 YashanDB V27和 崖山智能应用套件 。其中，智能应用套件包括 智能知识平台 V27和 智能体平台 V27。 崖山科技试图推动数据库从“管理确定性数据”走向 “原生管理智能” ，将知识本体、记忆、工具与Agent执行逻辑统一沉入数据库内核，提出 主动意图数据库（Active-Intent Databases，AIDB） 理念，让数据库具备知识沉淀、经验复用、任务规划、全局优化和主动响应能力。 此次发布的",
+     "source": "智东西",
+     "zh": "让数据库管智能体，崖山科技推出企业数据基础设施新方案"
     },
     {
-     "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
-     "link": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
-     "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
-     "summary": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
-     "source": "KDnuggets",
-     "zh": "The Roadmap to Becoming an AI Security Engineer in 2027"
+     "title": "马斯克的华人创业搭子，发了台AI“时间传送门”",
+     "link": "https://zhidx.com/p/614161.html",
+     "pubDate": "Wed, 25 Nov 2026 19:18:23 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月25日消息，今日，由三名已离职的马斯克旗下 xAI联合创始人 创办的美国AI创企Epochal正式亮相，该公司核心目标是 训练AI理解现实世界变化，预测未来 。 ▲Epochal发文宣布公司亮相（图源：X） Epochal在亮相时未披露任何外部机构投资者，据彭博社援引知情人士消息，该公司联合创始人兼CEO张国栋正以个人名义向该公司投资 1亿美元（约合人民币6.67亿元） 。Epochal的发言人拒绝就资金问题置评。 今年三月，xAI的联合创始人张国栋、戴子航与Manuel Kroiss离职。此后，三人共同创办了Epochal。 其中，Ep",
+     "source": "智东西",
+     "zh": "马斯克的华人创业搭子，发了台AI“时间传送门”"
+    },
+    {
+     "title": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬",
+     "link": "https://zhidx.com/p/614323.html",
+     "pubDate": "Wed, 25 Nov 2026 19:15:13 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 漠影 谁家的大模型，又偷偷跑出来干活了？ 12分钟，一句话就能造出一座罗马城。 ▲3D体素风罗马城 古罗马斗兽场、万神殿、特雷维喷泉，还有在广场上散步的小人都做出来了。 再看这个，15分钟做出一个可控核聚变装置的3D科普动画。 ▲核聚变装置3D动画 托卡马克装置的内部结构、磁场约束带电粒子的过程，以及氘氚聚变释放能量的动态演示，都做得有模有样。 有开发者实测显示： 模型输出速度相当快啊，DeepSeek v4.1 flash有时候都打不过。 也有人对比测试后发现， 这个匿名模型在输出速度和质量上能达到比较好的平衡。 这几个案例，都出自一款刚刚现身的匿名大模型—",
+     "source": "智东西",
+     "zh": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
+     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
+     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It has announced it is sampling its LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle […] The post Microchip Ethernet TSN switches drive in-v",
+     "source": "Electronics Weekly",
+     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
+    },
     {
      "title": "DRAM contract prices stay high as supply-demand squeeze persists",
      "link": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
@@ -362,14 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Avnet Silica’s European semis outlook for 2027"
     },
     {
-     "title": "Rise of the Robots",
-     "link": "https://www.electronicsweekly.com/news/business/rise-of-the-robots-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:06:15 +0000",
-     "summary": "element14 has launched the Rise of the Robots design challenge, inviting engineers, makers and technology enthusiasts to design and build innovative robotics projects using a kit of development hardware, motors […] The post Rise of the Robots appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Rise of the Robots"
-    },
-    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -434,14 +434,6 @@ window.INDUSTRY_DATA = {
      "zh": "PDF Solutions: What Happens Now That the Puck Has Arrived?"
     },
     {
-     "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
-     "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
-     "summary": "Avicena Tech Corp of Sunnyvale, CA, USA, which is developing micro-LED-based optical interconnects, has raised over $100m in Series C funding to accelerate commercialization of its LightBundle platform for AI infrastructure. The round included new and existing investors InterVest, Tiger Global, Cerb",
-     "source": "Semiconductor Today",
-     "zh": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects"
-    },
-    {
      "title": "Blog Review: Nov. 25",
      "link": "https://semiengineering.com/blog-review-nov-25-3/",
      "pubDate": "Wed, 25 Nov 2026 08:01:39 +0000",
@@ -458,14 +450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
     },
     {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
      "title": "Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips",
      "link": "https://semiwiki.com/eda/moores-lab-ai/375754-moores-lab-ais-benchmark-push-measuring-whether-ai-can-actually-verify-chips/",
      "pubDate": "Tue, 24 Nov 2026 18:00:52 +0000",
@@ -474,28 +458,44 @@ window.INDUSTRY_DATA = {
      "zh": "Moores Lab AI’s Benchmark Push: Measuring Whether AI Can Actually Verify Chips"
     },
     {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
     },
     {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
     },
     {
-     "title": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 09:04:57 GMT",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "A Practical Guide to Integrating Automation into Commercial Buildings",
+     "link": "https://roboticsandautomationnews.com/2026/11/26/a-practical-guide-to-integrating-automation-into-commercial-buildings/107730/",
+     "pubDate": "Thu, 26 Nov 2026 11:33:03 +0000",
+     "summary": "Automation in commercial buildings has moved well beyond programmable thermostats. Sensors, controllers, and software can now coordinate heating and cooling, lighting, access control, and more, adjusting each based on who is in the building and when. But getting there is rarely as simple as buying a",
+     "source": "Robotics & Automation",
+     "zh": "A Practical Guide to Integrating Automation into Commercial Buildings"
+    },
     {
      "title": "When robots lose contact: Research examines the resilience of decentralized robot swarms",
      "link": "https://roboticsandautomationnews.com/2026/11/26/when-robots-lose-contact-research-examines-the-resilience-of-decentralized-robot-swarms/107725/",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "A robot can return to its programmed position while the part in its gripper arrives somewhere slightly different. After a finger change, the cause may be mechanical: a contact surface has moved, a mounting face has picked up debris, or a replacement finger seats differently from the original. That d",
      "source": "Robotics & Automation",
      "zh": "Designing Robot Gripper Fingers for Repeatable Changeovers"
-    },
-    {
-     "title": "Angelini Technologies acquires stake in Oversonic Robotics to support international expansion",
-     "link": "https://roboticsandautomationnews.com/2026/11/25/angelini-technologies-acquires-stake-in-oversonic-robotics-to-support-international-expansion/107696/",
-     "pubDate": "Wed, 25 Nov 2026 20:16:24 +0000",
-     "summary": "Oversonic Robotics, an Italian company specializing in the development and manufacturing of cognitive humanoid robots, has announced that Angelini Technologies has acquired a stake in the company to support its industrial growth and international expansion. The investment will help Oversonic expand ",
-     "source": "Robotics & Automation",
-     "zh": "Angelini Technologies acquires stake in Oversonic Robotics to support international expansion"
     },
     {
      "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Intel One Mono font",
      "link": "https://github.com/intel/intel-one-mono",
      "pubDate": "Thu, 26 Nov 2026 10:11:01 +0000",
-     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 41 # Comments: 18",
+     "summary": "Article URL: https://github.com/intel/intel-one-mono Comments URL: https://news.ycombinator.com/item?id=50653667 Points: 57 # Comments: 27",
      "source": "Hacker News",
      "zh": "Intel One Mono font"
     },
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
      "pubDate": "Thu, 26 Nov 2026 09:44:23 +0000",
-     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 23 # Comments: 5",
+     "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 31 # Comments: 23",
      "source": "Hacker News",
      "zh": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email"
     }
@@ -2250,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "【调研快报】明星电力接待上海证券交易所投资者服务部等9家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940754398.html",
+     "pubDate": "Thu, 26 Nov 2026 19:28:55 +0800",
+     "summary": "明星电力 11月27日公告称， 11月25日至11月26日 接待上海证券交易所投资者服务部 等9家机构 调研。 接待人员包括董事长、党委书记 陈峰,董事、总经理 何浩,副总经理 吴海涛,副总经理、董事会秘书 杨大申,财务总监 张万慧,总工程师 邓斌,相关部门负责人。 公司就以下问题进行了回复： 1. 电力 市场化推进过程中,公司的发、售一体的经营模式是否会受到外来电的影响?发电量是否均为本公司直接售出?2025 年总发电量和总售电量分别为多少? 答:公司作为电网企业,核心业务为区域内输配电,执行国家核定的输配电价,外来电不影响公司输配电收益。公司自有水利发电量全额在供区内消纳,2025 ...",
+     "source": "东方财富股票",
+     "zh": "【调研快报】明星电力接待上海证券交易所投资者服务部等9家机构调研"
+    },
+    {
+     "title": "【调研快报】天虹股份接待网络远程参与\"2026年度深圳辖区上市公司投资者网上集体接待日\"活动的投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940754297.html",
+     "pubDate": "Thu, 26 Nov 2026 19:28:55 +0800",
+     "summary": "天虹股份 11月26日公告称， 11月26日 接待网络远程参与\"2026年度深圳辖区上市公司投资者网上集体接待日\"活动的投资者 调研。 接待人员包括董事、总经理 黄国军,独立董事 曾泉,副总经理、总会计师、董事会秘书 陈卓。 公司就以下问题进行了回复： 1.请问轻改已完成多少家、计划多少家?带 餐饮 的 3.0 门店已改多少、计划多少,预计何时全部完成?改造门店经营改善情况如何? 您好!今年公司持续深化零售业务的转型升级与运营提效,其中 超市 聚焦 sp@ce3.0升级,2026 年完成了标准化升级门店 4 家以及经营性调改优化门店 18 家;同时,... 点击查看PDF原文 免责声明：本文基",
+     "source": "东方财富股票",
+     "zh": "【调研快报】天虹股份接待网络远程参与\"2026年度深圳辖区上市公司投资者网上集体接待日\"活动的投资者调研"
+    },
+    {
      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
      "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
      "pubDate": "Thu, 26 Nov 2026 11:26:52 GMT",
@@ -2258,12 +2274,52 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
     },
     {
+     "title": "李强会见亚洲开发银行行长神田真人",
+     "link": "http://finance.eastmoney.com/news/1351,202611263940753956.html",
+     "pubDate": "Thu, 26 Nov 2026 19:26:21 +0800",
+     "summary": "11月26日下午，国务院总理李强在北京人民大会堂会见亚洲开发 银行 行长神田真人。 李强表示，近年来，国际局势不稳定不确定因素增多，对亚洲经济造成冲击，需要各方进一步加强区域合作。在上周亚太经合组织领导人非正式会议上，习近平主席指出要推动建设和衷共济、开放融通、开拓创新、包容发展的亚太共同体。中方愿同区域各方一道紧密协作，努力实现这一美好愿景。亚行长期是区域经济一体化的重要推动者，中方将继续支持亚行相关工作，不断提高双方合作水平，共促地区发展繁荣。 李强指出，今年以来，面对外部环境复杂变化，中国经济顶住压力稳健前行，为亚洲和世界经济注入了宝贵的稳定性确定性。中方将继续推动高质量发展，加快释放自",
+     "source": "东方财富股票",
+     "zh": "李强会见亚洲开发银行行长神田真人"
+    },
+    {
+     "title": "宜涪高铁重庆段首座桥梁贯通",
+     "link": "http://www.eeo.com.cn/2026/1126/1104486.shtml",
+     "pubDate": "Thu, 26 Nov 2026 19:26:15 +0800",
+     "summary": "施工现场。受访单位供图 第1眼TV-华龙网讯（首席记者 曹妤）记者从长江沿岸铁路集团重庆有限公司获悉，11月26日06时28分，随着最后一方混凝土浇筑完成，由中铁一局承建的宜昌至涪陵高铁重庆段（以下简称“宜涪高铁重庆段”）桐木村大桥实现全桥贯通，这是宜涪高铁重庆段首座贯通的桥梁，为全线按期通车奠定了坚实基础。 桐木村大桥位于重庆市长寿区境内，桥梁全长约265米，两端分别衔接惠谷隧道出口与高湾隧道进口。全桥共...",
+     "source": "经济观察网",
+     "zh": "宜涪高铁重庆段首座桥梁贯通"
+    },
+    {
+     "title": "【调研快报】法本信息接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日的广大投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940751157.html",
+     "pubDate": "Thu, 26 Nov 2026 19:24:51 +0800",
+     "summary": "法本信息 11月26日公告称， 11月26日 接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日的广大投资者 调研。 接待人员包括董事长、总经理 严华,董事、董事会秘书、副总经理 吴超,财务总监 刘芳,独立董事 米旭明。 公司就以下问题进行了回复： 公司参加由深圳证监局指导、深圳上市公司协会与深圳市全景网络有限公司联合举办的“2026 年度深圳辖区上市公司投资者网上集体接待日”,于 2026 年 11 月 26 日通过在全景网投资者关系互动平台线上交流形式与投资者进行了互动交流和沟通。本次互动问答内容如下: 1、请问:公司在算力适配方面有... 点击查看PDF原文 免责声明：本文基于",
+     "source": "东方财富股票",
+     "zh": "【调研快报】法本信息接待参与本次2026年度深圳辖区上市公司投资者网上集体接待日的广大投资者调研"
+    },
+    {
+     "title": "【调研快报】通业科技接待采用网络远程方式进行,面向全体投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611263940748153.html",
+     "pubDate": "Thu, 26 Nov 2026 19:22:52 +0800",
+     "summary": "通业科技 11月26日公告称， 11月26日 接待采用网络远程方式进行,面向全体投资者 调研。 接待人员包括董事长 闫永革,董事、总经理 刘涛,董事、副总经理、董事会秘书 傅雄高,财务总监 谭青,独立董事 汪吉。 公司就以下问题进行了回复： 以下为 2026 年投资者网上集体接待日活动的具体问答: 1、贵司在终止思凌科收购后仍强调技术协同与产业链延伸,未来是否会更加聚焦轨道交通主业,通过股权合作引入具备成熟功率 半导体 及电气控制技术的企业,以培育新的利润增长点? 答:尊敬的投资者,您好!公司仍将坚守轨道交通电气装备主责主业,围... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，",
+     "source": "东方财富股票",
+     "zh": "【调研快报】通业科技接待采用网络远程方式进行,面向全体投资者调研"
+    },
+    {
      "title": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙",
      "link": "https://wallstreetcn.com/articles/3786777",
      "pubDate": "Thu, 26 Nov 2026 19:22:47 +0800",
      "summary": "美联储近期的鹰派转向正让投资者感到困惑。 据追风交易台，野村证券策略师Naka Matsuzawa在最新报告中指出， 市场难以理解美联储为何如此强硬，而这一转向背后的动机将决定其对资产价格的截然不同的含义。 野村认为， 美联储可能是在回应通胀指标的超预期上行，也可能是希望避免重蹈2022年落后于曲线的覆辙，这两种解释都指向“向后看”的政策制定方式。 市场已对此作出明确回应。2年期远期OIS利率作为终端利率的代理指标，目前显示市场预期其将在六个月后见顶，早于此前预期。 市场不仅几乎完全定价了三次加息，还已开始明确定价此后的重新降息。 与此同时，包括原油在内的大宗商品价格大幅下跌，盈亏平衡通胀率所",
      "source": "华尔街见闻",
      "zh": "美联储为何变得如此鹰派？野村：或希望避免重蹈2022年落后曲线的覆辙"
+    },
+    {
+     "title": "泰胜风能：拟设立全资子公司并投资建设国际海工基地项目",
+     "link": "http://finance.eastmoney.com/news/1354,202611263940754171.html",
+     "pubDate": "Thu, 26 Nov 2026 19:22:13 +0800",
+     "summary": "泰胜风能 (300129.SZ)公告称，公司拟对全资子公司扬州 泰胜风能 装备有限公司增资1.2亿元，并由其在江苏扬州设立 泰胜风能 海工装备 (江苏)有限公司，注册资本2.5亿元。同时，公司拟投资建设泰胜国际海工基地项目，投资总额不超过8.43亿元，主要生产出口海上风电大直径管桩产品。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "泰胜风能：拟设立全资子公司并投资建设国际海工基地项目"
     },
     {
      "title": "英国央行下调银行资本要求30个基点，同时警告：过度放松将危及金融稳定",
@@ -2432,62 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
      "source": "MarketWatch",
      "zh": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank"
-    },
-    {
-     "title": "Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局",
-     "link": "https://wallstreetcn.com/articles/3786773",
-     "pubDate": "Thu, 26 Nov 2026 17:59:42 +0800",
-     "summary": "11月25日，视频生成模型公司三呆科技（ Sand.ai ）发布新一代模型MAGI-2，1080P视频生成定价每秒0.5元，生成一段30秒视频需15元。 Sand.ai 披露，MAGI-2总参数量由上一代Preview的114B扩展至480B，激活参数量由约6B提升至28B，训练数据规模扩大约3倍。模型支持单次生成4至30秒视频，最多可参考20份图片、视频和音频素材，提示词长度上限2万字符。 截至11月26日，Artificial Analysis视频模型榜单中，MAGI-2模型在图生视频榜单中得分排名第一。同一榜单上还有Seedance、可灵、MiniMax H3等国产视频模型。 目前MAG",
-     "source": "华尔街见闻",
-     "zh": "Sand.ai发布视频模型MAGI-2，三家A股公司参与产业布局"
-    },
-    {
-     "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to &apos;fish for bargains&apos;",
-     "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-     "pubDate": "Thu, 26 Nov 2026 09:51:40 GMT",
-     "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-     "source": "CNBC",
-     "zh": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to &apos;fish for bargains&apos;"
-    },
-    {
-     "title": "AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架",
-     "link": "https://wallstreetcn.com/articles/3786771",
-     "pubDate": "Thu, 26 Nov 2026 17:44:36 +0800",
-     "summary": "AI正在从科研助手走向基础科学研究的深水区。 一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。 不少网友将其称为“AI发现大一统理论”，认为这可能为统一广义相对论与量子力学带来新的突破。 11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Chandrasekaran在arXiv发布一篇83页的预印本论文，提出了一套在四维时空中实现引力背景独立、非微扰量子化的数学框架。 论文致谢部分披露，研究中的若干计算与证明来自与OpenAI GPT-6 Astra长达数月的深度协作，累计消耗约4亿个token。 论文声称",
-     "source": "华尔街见闻",
-     "zh": "AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架"
-    },
-    {
-     "title": "汽车出海撞上“专利墙”：比亚迪被告外观侵权，Ti7在欧盟27国遭临时禁售",
-     "link": "http://www.eeo.com.cn/2026/1126/1104319.shtml",
-     "pubDate": "Thu, 26 Nov 2026 17:42:26 +0800",
-     "summary": "对所有中国车企来说，这不失为一次警醒：原创设计很重要，但在海外市场，让原创设计可举证、可确权，更为重要。",
-     "source": "经济观察网",
-     "zh": "汽车出海撞上“专利墙”：比亚迪被告外观侵权，Ti7在欧盟27国遭临时禁售"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Thu, 26 Nov 2026 17:19:49 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-     "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-     "pubDate": "Thu, 26 Nov 2026 09:02:30 GMT",
-     "summary": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
-     "source": "CNBC",
-     "zh": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse"
-    },
-    {
-     "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
-     "link": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
-     "pubDate": "Thu, 26 Nov 2026 07:23:42 GMT",
-     "summary": "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
-     "source": "CNBC",
-     "zh": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing"
     }
    ]
   },

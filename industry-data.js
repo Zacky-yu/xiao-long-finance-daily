@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 04:37:39",
+ "generated_at": "2026/11/27 04:52:22",
  "recent_days": 7,
  "industries": [
   {
@@ -1773,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "The USA as a Civilizations-esque map",
      "link": "https://karpathy.ai/usaciv/",
      "pubDate": "Thu, 26 Nov 2026 19:53:58 +0000",
-     "summary": "Article URL: https://karpathy.ai/usaciv/ Comments URL: https://news.ycombinator.com/item?id=50658997 Points: 26 # Comments: 10",
+     "summary": "Article URL: https://karpathy.ai/usaciv/ Comments URL: https://news.ycombinator.com/item?id=50658997 Points: 34 # Comments: 17",
      "source": "Hacker News",
      "zh": "The USA as a Civilizations-esque map"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "link": "https://github.com/eisenzopf/rvoip",
      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
     },
@@ -1800,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
      "source": "WIRED",
      "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "Show HN: Fuck_data_brokers.py",
+     "link": "https://github.com/gary23w/f-ck_data_brokers",
+     "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
+     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 19 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Show HN: Fuck_data_brokers.py"
     },
     {
      "title": "George Whitesides, 1939-2026",
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 98 # Comments: 46",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 114 # Comments: 51",
      "source": "Hacker News",
      "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 92 # Comments: 144",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 105 # Comments: 160",
      "source": "Hacker News",
      "zh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays"
     },
@@ -1848,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。 11月26日，《Vogue》报道称，欧洲二手电商平台Vinted今年11月与圣诞礼物相关的搜索量同比增长35%。eBay最新发布的二手消费报告也显示，在英国18至45岁的人群中，47%的受访者愿意将二手商品作为礼物送给别人。 恰逢黑色星期五，欧洲各大零售商正在为年末购物季争夺消费者的预算，二手商品也加入了这场竞争。 比消费端的变化更值得关注的，是供给端的动向。 从综合电商、垂直电商到大型品牌零售商，越来越多的企业开始加大对二手市场的投入。 过去几年还处于局部试水阶段的二手",
      "source": "虎嗅",
      "zh": "欧洲电商巨头，集体涌向二手市场"
-    },
-    {
-     "title": "AMD Specific Patches for Llama.cpp",
-     "link": "https://devnull.land/amd-specific-llama-cpp",
-     "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 165 # Comments: 45",
-     "source": "Hacker News",
-     "zh": "AMD Specific Patches for Llama.cpp"
     },
     {
      "title": "A month with the iPhone Duo has changed how I use my phone",
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
+     "link": "https://www.androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608/",
+     "pubDate": "Thu, 26 Nov 2026 20:39:41 +0000",
+     "summary": "Even Galaxy Watch 4 owners aren't being left behind.",
+     "source": "Android Authority",
+     "zh": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches"
+    },
     {
      "title": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
      "link": "https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more/",
@@ -2170,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more"
     },
     {
-     "title": "Soundcore Liberty 5 earbuds hit a record low at 42% off",
-     "link": "https://www.androidauthority.com/soundcore-liberty-5-record-low-deal-3740503/",
-     "pubDate": "Thu, 26 Nov 2026 16:39:03 +0000",
-     "summary": "Anker's Liberty 5 noise canceling earbuds drop to $75.99, with LDAC, Dolby Audio, and multipoint support.",
-     "source": "Android Authority",
-     "zh": "Soundcore Liberty 5 earbuds hit a record low at 42% off"
-    },
-    {
      "title": "Thanksgiving deals: M5 MacBook Air $400 off, MacBook Neo $100 off, Apple Watch Ultra 4 $150 off, more",
      "link": "https://9to5mac.com/2026/11/26/deals-macbook-air-neo-apple-watch-ultra-4/",
      "pubDate": "Thu, 26 Nov 2026 16:29:40 +0000",
@@ -2288,54 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "伊朗战争对能源市场的冲击正在退潮。随着全球炼厂开足马力补充供应、中东出口恢复以及石油消费走弱，将原油加工为燃油的利润已跌至数月来最低水平，消费者、企业和央行由此获得了一丝暂时的通胀缓解。 柴油裂解价差是衡量炼油利润的核心指标。据彭博报道，亚洲和欧洲柴油裂解价差已逼近7月以来最低，美国汽油裂解价差回落至战前水平，欧洲汽油裂解价差则跌至2023年以来的三年低点。 裂解价差走弱意味着成品油价格下跌快于原油，但绝对价格仍显著高于战前。这一转变直接影响通胀预期与炼厂盈利。 燃油成本是全球经济和货币政策的关键变量，裂解价差回落有助于缓解价格压力；但对炼油企业而言，这也意味着战时高利润难以持续。 供应恢复与",
      "source": "华尔街见闻",
      "zh": "全球燃油供应回升，炼油利润跌至数月低点"
-    },
-    {
-     "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941013753.html",
-     "pubDate": "Fri, 27 Nov 2026 03:50:58 +0800",
-     "summary": "伦 铜 周四由11个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。LME 3个月期 铜 期货 结算价上涨1.9%，部分收复本月以来的跌幅。 铜 价反弹与市场风险偏好的普遍改善同步，科技股在多个市场领涨，欧洲矿业股也走高。美国股指 期货 上涨，此前周三尾盘买盘推动 纳斯达克 100指数从熊市边缘回升。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伦铜自11个月低点反弹 科技股上涨提振工业金属"
-    },
-    {
-     "title": "播客 | 从克里米亚大桥到利比亚港口：俄乌冬季仍是一场消耗战",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941014063.html",
-     "pubDate": "Fri, 27 Nov 2026 03:50:03 +0800",
-     "summary": "近期，在俄乌谈判仍悬而未决之际，双方的循环报复正呈加速螺旋升级之势。先是乌克兰主动再次打击克里米亚大桥，迎来俄方更大规模反击。紧接着，俄罗斯停泊在利比亚班加西港的“水星”号护卫舰，遭到乌克兰无人艇远程突袭损毁沉没。跨区域攻防的袭击已跳出本土，使得冲突外溢风险急剧升高。另一方面，作为乌克兰最有力的盟友与支持者，美国总统特朗普中期选举失利后，在乌克兰问题上的立场发生了显著转变，试图通过施压乌克兰和批评欧洲盟友来快速推动停火谈判。这场冲突在不到三个月就要满五年的节点上，克里米亚大桥、利比亚 港口 、俄境内能源设施——打击地理范围在扩大；北约内部分歧、美国政策不确定性、欧洲寻求上桌——外部协调机制在承",
-     "source": "东方财富股票",
-     "zh": "播客 | 从克里米亚大桥到利比亚港口：俄乌冬季仍是一场消耗战"
-    },
-    {
-     "title": "新一代通信网建设路线图出炉 适时开展6G网络建设 5G-A实现重点区域部署应用",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941013352.html",
-     "pubDate": "Fri, 27 Nov 2026 03:49:10 +0800",
-     "summary": "记者11月26日获悉，近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代 通信 网建设实施方案》（下称《实施方案》），提出到2030年，建成覆盖完善、性能领先的新一代 通信 网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。低轨 卫星互联网 系统基本建成，频轨资源开发利用水平大幅提升，空间网络形成全球服务能力。 工业和信息化部信息 通信 发展司相关负责人表示，新一代通信网是经济社会运行的“神经系统”，为水网、新型电网、算力网、城市 地下管网 、 物流 网等基础设施数智化发展提供坚实支撑。适度超前建设空天地海一体化、通感算智一体",
-     "source": "东方财富股票",
-     "zh": "新一代通信网建设路线图出炉 适时开展6G网络建设 5G-A实现重点区域部署应用"
-    },
-    {
-     "title": "加强新就业形态劳动者权益保障 18家重点平台企业完成算法协商",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941013144.html",
-     "pubDate": "Fri, 27 Nov 2026 03:49:06 +0800",
-     "summary": "记者11月26日从全国总工会召开的2026年第四季度新闻发布会上获悉，截至11月10日，网络货运、 网约车 、网约配送、 快递 4个行业18家重点平台企业已全部完成劳动规则和算法协商并签订协议，覆盖新就业形态劳动者超过2500万人。 今年以来，全国总工会把维护新就业形态劳动者合法权益作为重点任务，会同人力资源社会保障部、中国企联、全国工商联印发《平台劳动规则和算法协商指引（试行）》，紧扣新就业形态劳动者的劳动报酬权、休息权、劳动安全等核心权益，明确协商主体、流程，确立基本规范，确保协商有章可循。 协商成果具有“含金量”。全国总工会权益保障部副部长王海龙在会上指出，一是算法规则更透明。各平台集中",
-     "source": "东方财富股票",
-     "zh": "加强新就业形态劳动者权益保障 18家重点平台企业完成算法协商"
-    },
-    {
-     "title": "河南许昌：电力精准服务 助力“世界假发之都”产业发展",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941013030.html",
-     "pubDate": "Fri, 27 Nov 2026 03:49:06 +0800",
-     "summary": "目前，河南许昌头发收购从业者已达3万余人、假发生产企业超4000家、 跨境电商 发制品企业超3000家。这里的假发制品出口至非洲、欧洲等120多个国家和地区，产品占全球市场份额60%以上，每2秒钟就有一顶许昌假发完成交易。 这一产业规模的背后，是从原料分拣、精深加工到 跨境电商 外销的完整链条，而链条上每一环的运转，都离不开稳定可靠的 电力 支撑。 据了解，许昌假发最初源自以假发精制戏剧道具用于舞台表演。历经百年，许昌的发制品行业经历了由粗加工到深加工、由档发到假发成品、由单一品种到系列产品的转变，许昌也被誉为“世界假发之都”。 说起许昌的假发产业，不得不提起“瑞贝卡”。20世纪90年代初，世",
-     "source": "东方财富股票",
-     "zh": "河南许昌：电力精准服务 助力“世界假发之都”产业发展"
-    },
-    {
-     "title": "不拼硬件拼生态 AI手机市场“升温”",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941012918.html",
-     "pubDate": "Fri, 27 Nov 2026 03:49:05 +0800",
-     "summary": "近期，继第二代“豆包手机”之后，华为等头部厂商相继入局 AI手机 赛道。受访专家认为，在 AI手机 这条新赛道上，单凭硬件参数已难以形成竞争优势，市场将转向操作系统、大模型与应用生态的系统性比拼。 11月20日，华为正式推出子品牌星芒及品牌首款产品OSTA O1 Pro，并将其定义为“鸿蒙 AI手机 ”。次日，星芒品牌总经理刘赫在社交平台发文称，最受欢迎的16GB运行内存+1TB机身存储版本已在全平台售罄，团队正协调产能、调整各版本的生产比例。 距上市已近一周，记者登录部分电商平台看到，这款手机16GB运行内存的高配版本仍显示无货，低配版本（16GB+512GB）也要12月3日才能发货。 今年",
-     "source": "东方财富股票",
-     "zh": "不拼硬件拼生态 AI手机市场“升温”"
     },
     {
      "title": "危机频发之际，欧洲央行新领导层浮现：鸽派老将、金融学者与市场专家将如何应对下一场风暴？",
@@ -2488,6 +2440,54 @@ window.INDUSTRY_DATA = {
      "summary": "在竞争策略上，第三代唐主要依靠大屏、音响这类可直观感知的配置，以及更大车身尺寸和更低的售价，叠加智驾安全责任兜底方案，来搭建一套更贴合普通家庭购车考量的智能体验逻辑。",
      "source": "经济观察网",
      "zh": "比亚迪第三代唐上市：主打大五座、大屏和长续航"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 16:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "Buyer beware? Nvidia&apos;s volatile swings expose risks of single-stock ETFs",
+     "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+     "pubDate": "Thu, 26 Nov 2026 16:00:01 GMT",
+     "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
+     "source": "CNBC",
+     "zh": "Buyer beware? Nvidia&apos;s volatile swings expose risks of single-stock ETFs"
+    },
+    {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "小鹏副董事长透露：IRON机器人售价与电动汽车相当，最快明年Q2开卖",
+     "link": "https://wallstreetcn.com/articles/3786770",
+     "pubDate": "Thu, 26 Nov 2026 23:51:51 +0800",
+     "summary": "人形机器人商业化进程正在提速，行业竞争也开始从技术研发延伸至产品定价、量产能力和实际应用场景。 11月26日，据彭博报道，小鹏副董事长顾宏地周四在接受采访时透露， 小鹏IRON人形机器人售价将与电动汽车相当，可能接近电动汽车的售价中位数。 小鹏目前在售车型的价格区间约为11.98万元至30.98万元人民币。IRON计划于2027年第一季度作为零售助理接受训练，最快于第二季度面向公众开售。 顾宏地表示，小鹏的目标是2027年售出数万台人形机器人，并将这一年视为规模化和商业化的关键阶段。除硬件销售外，公司还看好软件升级、训练服务以及机器人数据基础设施带来的经常性收入机会。 这一商业化规划也反映出小",
+     "source": "华尔街见闻",
+     "zh": "小鹏副董事长透露：IRON机器人售价与电动汽车相当，最快明年Q2开卖"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+     "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
+     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+     "source": "CNBC",
+     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
     }
    ]
   },

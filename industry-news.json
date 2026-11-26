@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/26 22:23:50",
+ "generated_at": "2026/11/26 22:34:43",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Lute raises $20 million to give robots a sense of touch",
+     "link": "https://roboticsandautomationnews.com/2026/11/26/lute-raises-20-million-to-give-robots-a-sense-of-touch/107756/",
+     "pubDate": "Thu, 26 Nov 2026 14:31:20 +0000",
+     "summary": "Lute, a physical AI startup developing foundation models that enable robots to use tactile information alongside visual data, has raised $20 million in seed and pre-seed funding to expand its technology across retail, warehousing and logistics operations. The seed round was co-led by OTB Ventures an",
+     "source": "Robotics & Automation",
+     "zh": "Lute raises $20 million to give robots a sense of touch"
+    },
+    {
      "title": "Egyptian underwater robotics team inspires award-winning education startup",
      "link": "https://roboticsandautomationnews.com/2026/11/26/egyptian-underwater-robotics-team-inspires-award-winning-education-startup/107753/",
      "pubDate": "Thu, 26 Nov 2026 14:20:52 +0000",
@@ -543,14 +551,6 @@
      "summary": "Volvo Cars has begun training and testing Hexagon Robotics’ AEON humanoid robots at its manufacturing plant in Ghent, Belgium, with the aim of introducing the machines into production operations by mid-2027. The Ghent facility is the first Volvo Cars plant to trial humanoid robots, which are being t",
      "source": "Robotics & Automation",
      "zh": "Volvo Cars begins training Hexagon humanoid robots for factory work"
-    },
-    {
-     "title": "A Practical Guide to Integrating Automation into Commercial Buildings",
-     "link": "https://roboticsandautomationnews.com/2026/11/26/a-practical-guide-to-integrating-automation-into-commercial-buildings/107730/",
-     "pubDate": "Thu, 26 Nov 2026 11:33:03 +0000",
-     "summary": "Automation in commercial buildings has moved well beyond programmable thermostats. Sensors, controllers, and software can now coordinate heating and cooling, lighting, access control, and more, adjusting each based on who is in the building and when. But getting there is rarely as simple as buying a",
-     "source": "Robotics & Automation",
-     "zh": "A Practical Guide to Integrating Automation into Commercial Buildings"
     },
     {
      "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
+     "pubDate": "Thu, 26 Nov 2026 08:30:00 -0600",
+     "summary": "One crew member died as a tanker carrying diesel sank off the coast of Ibiza in the early hours on Thursday, local emergency services and authorities said. The Balearic Islands emergency service has activated an emergency plan after the diesel-carrying vessel sank about 25 nautical miles north of Ib",
+     "source": "OilPrice",
+     "zh": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza"
+    },
+    {
+     "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+     "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+     "pubDate": "Thu, 26 Nov 2026 14:20:22 +0000",
+     "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+     "source": "Energy Storage News",
+     "zh": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers"
+    },
+    {
      "title": "Gambia signs four solar PPAs totalling 232 MW",
      "link": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
      "pubDate": "Thu, 26 Nov 2026 14:15:00 +0000",
@@ -985,14 +1001,6 @@
      "zh": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia"
     },
     {
-     "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
-     "pubDate": "Thu, 26 Nov 2026 02:30:00 -0600",
-     "summary": "Libya has scheduled a bidding round for discovered but undeveloped oil fields in 2027, and another one in 2028 focused on exploration, as it seeks to ramp up oil production despite the unstable security situation. The National Oil Corporation last held a tender for undeveloped oil fields in 2025, th",
-     "source": "OilPrice",
-     "zh": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks"
-    },
-    {
      "title": "Hybrids Are a Waypoint, Not the Destination",
      "link": "https://cleantechnica.com/2026/11/25/hybrids-are-a-waypoint-not-the-destination/",
      "pubDate": "Thu, 26 Nov 2026 00:41:15 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
      "source": "Utility Dive",
      "zh": "2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout"
-    },
-    {
-     "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
-     "link": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
-     "pubDate": "Wed, 25 Nov 2026 14:13:13 +0000",
-     "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
-     "source": "Energy Storage News",
-     "zh": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
      "zh": "重生之《升本后醒来》，我终于站上了学历鄙视链的顶端……"
     },
     {
+     "title": "宁德时代后市场服务品牌“宁家服务”直营体验中心在全国 12 城开业，全球服务网点已达 1441 个",
+     "link": "https://www.ithome.com/1/033/104.htm",
+     "pubDate": "Thu, 26 Nov 2026 14:09:38 GMT",
+     "summary": "IT之家 11 月 26 日消息，据宁德时代消息，宁德时代后市场服务品牌宁家服务的直营体验中心昨日在保定、无锡、西安、淄博、郑州等 12 座城市同步开业。至此， 宁家服务直营体验中心已累计开业 39 家，全球服务网点已达 1441 个 。 公开信息显示，宁家服务是宁德时代于 2024 年 8 月推出的面向新能源汽车后市场的独立服务品牌，其前身为宁德时代 2015 年成立的售后服务部。该品牌主要为用户提供电池检测、维修保养、回收及二手车交易等覆盖电池全生命周期的服务。 宁德时代表示， 目前宁家服务已构建集技术、人才、网络于一体的原厂服务体系 。在服务上，宁家服务推出电池检测服务，用自研电池深度维",
+     "source": "IT之家",
+     "zh": "宁德时代后市场服务品牌“宁家服务”直营体验中心在全国 12 城开业，全球服务网点已达 1441 个"
+    },
+    {
      "title": "巡回审判旁听记：当庭判决“提速”投资者维权",
      "link": "https://www.huxiu.com/article/4908782.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 22:04:11 +0800",
@@ -1815,14 +1823,6 @@
      "summary": "IT之家 11 月 26 日消息，今年 10 月， 微信 iOS 平台迎来了 8.0.80 正式版更新 ，官方更新日志为“解决了一些已知问题”。 IT之家在实测过程中发现， 该版本微信在卡包中上线了 NFC 交通卡 ，宣称“无需找码，手机一碰秒过闸”。 需要注意的是，这张 NFC 交通卡东莞地铁、公交可用， 开通需预充值 30 元，退卡时卡内余额可退 。卡片添加后，无需联网和解锁屏幕，可快速过闸。 大家在 IT之家微信号 回复“ 微信 ”两字，即可获取当前最新官方内部版微信下载。 延伸阅读 NFC 交通卡本质上是一张写入手机安全芯片的虚拟交通卡，开通后由手机的 NFC 硬件模拟卡片信号完成刷卡",
      "source": "IT之家",
      "zh": "手机一碰过闸：微信 iOS 端 8.0.80 版本上线 NFC 交通卡"
-    },
-    {
-     "title": "小米人事调整曝光：王晓雁分管生态链部与大家电部",
-     "link": "https://www.ithome.com/1/033/097.htm",
-     "pubDate": "Thu, 26 Nov 2026 13:35:00 GMT",
-     "summary": "IT之家 11 月 26 日消息，据界面新闻今晚消息，小米集团发布最新人事任命，集团高级副总裁王晓雁 分管生态链部、大家电部 ，向集团总裁卢伟冰汇报，同时继续 兼任中国区总裁 。 任命张雷担任生态链部总经理，向王晓雁汇报；张雷同时兼任武汉区域总部总经理，向集团副总裁刘伟汇报。 任命陈波担任可穿戴部总经理，向集团总裁、手机部总裁卢伟冰汇报。 接近小米的人士透露， 此次调整与“人车家全生态”产品加速向渠道端汇聚有关 ，手机、汽车、生态链与大家电产品越来越多地进入同一批小米之家门店，融合大店数量持续增加，渠道端需要一个兼具新零售和全品类操盘经验的高管统一拉通产销，进一步释放人车家全生态产品的生态协同",
-     "source": "IT之家",
-     "zh": "小米人事调整曝光：王晓雁分管生态链部与大家电部"
     },
     {
      "title": "48小时3笔亿元融资，具身智能不交“人形税”了？",
@@ -1945,14 +1945,6 @@
      "zh": "From minimalist to maximalist: Ars staffers show off their home offices"
     },
     {
-     "title": "Head of Software Engineering – NOX Metals",
-     "link": "https://news.ycombinator.com/item?id=50654353",
-     "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
-     "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Head of Software Engineering – NOX Metals"
-    },
-    {
      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
@@ -1969,14 +1961,6 @@
      "zh": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens"
     },
     {
-     "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-     "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-     "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
-     "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 128 # Comments: 42",
-     "source": "Hacker News",
-     "zh": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app"
-    },
-    {
      "title": "A First Drive With the Fiat Topolino in New York City",
      "link": "https://www.wired.com/story/fiat-topolino-first-drive/",
      "pubDate": "Thu, 26 Nov 2026 11:45:00 +0000",
@@ -1991,6 +1975,22 @@
      "summary": "年内二度大手笔减持合计，一致行动人平台近乎清仓式退出。",
      "source": "钛媒体",
      "zh": "祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题"
+    },
+    {
+     "title": "阿莫迪自明本志：我本无意让AI掌权",
+     "link": "https://www.tmtpost.com/8219202.html",
+     "pubDate": "Thu, 26 Nov 2026 18:39:05 +0800",
+     "summary": "天地可鉴啊！",
+     "source": "钛媒体",
+     "zh": "阿莫迪自明本志：我本无意让AI掌权"
+    },
+    {
+     "title": "美国众议院发布《美国处方》，对中国创新药意味着什么",
+     "link": "https://www.tmtpost.com/8218787.html",
+     "pubDate": "Thu, 26 Nov 2026 18:39:00 +0800",
+     "summary": "对中国创新药来说，与其花时间反驳一份国会报告，不如把它当成一份竞争指南，对手已经把考题写在上面了。",
+     "source": "钛媒体",
+     "zh": "美国众议院发布《美国处方》，对中国创新药意味着什么"
     }
    ]
   },
@@ -2249,6 +2249,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+     "pubDate": "Thu, 26 Nov 2026 14:20:44 GMT",
+     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+     "source": "CNBC",
+     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
+    },
+    {
+     "title": "国内商品期货夜盘开盘多数上涨",
+     "link": "http://www.eeo.com.cn/2026/1126/1104550.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:13:10 +0800",
+     "summary": "国内商品期货夜盘开盘多数上涨，沪银涨3.89%，乙二醇涨2.89%，沪锌涨2.4%，沪镍涨超2%，沪锡涨2%，焦煤涨1.77%，液化气跌0.67%，纯碱跌0.5%。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "国内商品期货夜盘开盘多数上涨"
+    },
+    {
      "title": "Top dividend growth stocks under $10 include Diversified Healthcare, Industrial Logistics & more",
      "link": "https://seekingalpha.com/news/4676820-top-dividend-growth-stocks-under-10-include-diversified-healthcare-industrial-logistics-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 09:08:54 -0500",
@@ -2305,52 +2321,12 @@
      "zh": "NY Attorney General wins $1.4bn judgement against crypto scammers"
     },
     {
-     "title": "欧洲央行10月货币政策会议纪要：能源冲击推升通胀 12月仍保留加息选项",
-     "link": "http://finance.eastmoney.com/news/1352,202611263940900238.html",
-     "pubDate": "Thu, 26 Nov 2026 21:54:11 +0800",
-     "summary": "新华财经北京11月26日电欧洲央行公布的10月货币政策会议纪要显示，受中东冲突扰动，能源价格大幅飙升，欧元区通胀上行风险加剧；欧洲央行本次维持三大关键利率不变，但多数利率委员会委员认为进一步收紧政策仍有必要，将把12月最新经济预测、通胀第二轮效应、政策传导效果作为判断加息的核心依据，不排除12月再度加息。 会议纪要显示，自9月议息会议之后，中东地缘冲突推动原油、 天然气 、柴油价格大幅走高，能源 期货 价格已经超出欧央行9月宏观预测里的不利情景假设。 天然气 价格涨幅尤为突出，柴油裂解价差升至历史高位，海湾至欧洲海运运费创纪录，能源冲击已经从原油扩散至成品油、 电力 领域。 欧元区9月调和CP",
-     "source": "东方财富股票",
-     "zh": "欧洲央行10月货币政策会议纪要：能源冲击推升通胀 12月仍保留加息选项"
-    },
-    {
-     "title": "华为乾崑、宁德时代巧克力换电推出智能补能解决方案",
-     "link": "http://finance.eastmoney.com/news/1354,202611263940900615.html",
-     "pubDate": "Thu, 26 Nov 2026 21:53:22 +0800",
-     "summary": "在2026华为乾崑生态大会上，华为乾崑与 宁德时代 巧克力换电公布合作成果：双方将打通高阶智驾与换电生态，推出智能补能解决方案。其中，依托云端AI调度，让换电从“人找站、人等电”升级为主动补能服务，车辆在途即可预判并规划补能点，实现“一键到站、即换即走”；随着L3/L4级自动驾驶落地，换电补能将进化为无感补能。同日， 宁德时代 首发30#巧克力 电池 100度电版本，可实现超过700km续航、3秒级零百加速，兼容99秒换电与峰值6C超充，且明年将推出不同电量版本。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "华为乾崑、宁德时代巧克力换电推出智能补能解决方案"
-    },
-    {
-     "title": "商务部回应美国对华等经济体加征301关税：个别国家以“产能过剩”为名，行保护主义之实",
-     "link": "http://finance.eastmoney.com/news/1352,202611263940900342.html",
-     "pubDate": "Thu, 26 Nov 2026 21:53:09 +0800",
-     "summary": "11月26日，商务部召开例行新闻发布会。此次发布会聚焦美方301调查、欧委会对全球混动 汽车 发起保障措施调查初步裁定等热点事件，商务部新闻发言人进行了回应。 《每日经济新闻》记者了解到，美东时间11月25日，美国贸易代表办公室宣布“产能过剩”301调查结果，发布拟议措施，提出对包括中国在内的14个经济体加征301关税。 对此，商务部新闻发言人何亚东表示，中方注意到有关情况，美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则，中方对此坚决反对。 11月26日商务部新闻发布会现场。每经记者张怀水摄 中方敦促美方纠正错误做法 针对美国贸易代表办公室宣布“产能过剩”301",
-     "source": "东方财富股票",
-     "zh": "商务部回应美国对华等经济体加征301关税：个别国家以“产能过剩”为名，行保护主义之实"
-    },
-    {
-     "title": "中国儒意称董事会已通过授权公司进行股份回购 金额最高为5亿港元",
-     "link": "http://hk.eastmoney.com/news/1535,202611263940897845.html",
-     "pubDate": "Thu, 26 Nov 2026 21:52:38 +0800",
-     "summary": "中国儒意 称董事会已通过授权公司进行股份回购，金额最高为5亿港元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "中国儒意称董事会已通过授权公司进行股份回购 金额最高为5亿港元"
-    },
-    {
      "title": "海外大抛售到哪个阶段了？美股尚未“全面投降”，金铜惨跌更像“流动性收紧”",
      "link": "https://wallstreetcn.com/articles/3786790",
      "pubDate": "Thu, 26 Nov 2026 21:52:08 +0800",
      "summary": "全球市场正经历一轮显著的持仓重置，但投资者尚未达到可以“闭眼买入”的全面投降阶段。 据追风交易台，巴克莱最新报告指出， 系统性投资者和对冲基金的大幅去风险操作，已将整体持仓指标推至一年来的低点。同时，散户情绪也降至历史低位，这在过去通常意味着具备吸引力的入场时机。 然而， 共同基金仍在积极逢低买入，11月资金流入达到创纪录的约3100亿美元。这种不彻底的投降状态，使得股市在面对潜在的经济增长或政策失误恐慌时依然显得脆弱。 跨资产资金流向表明，当前市场动荡更多源于流动性挤压，而非对经济增长的担忧。 在美联储看跌期权依然难以捉摸的背景下，特朗普看跌期权似乎正在回归，成为支撑风险偏好的潜在因素。 流",
      "source": "华尔街见闻",
      "zh": "海外大抛售到哪个阶段了？美股尚未“全面投降”，金铜惨跌更像“流动性收紧”"
-    },
-    {
-     "title": "欣旺达：实控人提议1亿元至2亿元回购股份 用于注销减资",
-     "link": "http://stock.eastmoney.com/news/11215,202611263940899012.html",
-     "pubDate": "Thu, 26 Nov 2026 21:51:59 +0800",
-     "summary": "中证智能财讯 欣旺达 （300207）11月26日晚间公告，公司收到公司控股股东、实际控制人、董事长王威出具的《关于提议 欣旺达 电子 股份有限公司回购公司股份的函》，提议公司使用自有资金或自筹资金（包括但不限于股票回购贷款）以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股票，回购资金总额不低于1亿元（含）且不超过2亿元（含），回购股份用于注销并减少公司注册资本。 公告显示，提议人基于对公司未来发展的信心和对公司长期价值的认可，为增强投资者对公司的信心、维护广大投资者的利益，结合公司经营情况、业务发展前景、公司财务状况及未来的盈利能力，提议公司实施本次回购。 提议人王威在提议前6个",
-     "source": "东方财富股票",
-     "zh": "欣旺达：实控人提议1亿元至2亿元回购股份 用于注销减资"
     },
     {
      "title": "Strong Buy at under $10: The highest Quant-rated bargain stocks right now",
@@ -2361,12 +2337,12 @@
      "zh": "Strong Buy at under $10: The highest Quant-rated bargain stocks right now"
     },
     {
-     "title": "泰晶科技：拟定增募资不超10.11亿元 投向高精度石英频率元器件扩产等项目",
-     "link": "http://stock.eastmoney.com/news/11215,202611263940899495.html",
-     "pubDate": "Thu, 26 Nov 2026 21:51:28 +0800",
-     "summary": "中证智能财讯 泰晶科技 （603738）11月26日晚间公告，公司拟向特定对象发行股票募集资金总额不超过10.11亿元，扣除发行费用后将用于高精度石英频率元器件扩产项目、智能制造与数字化底座升级项目、高频低抖动体声波（BAW）振荡器研发与产业化项目、研发中心建设项目及补充流动资金。 资料显示，公司主营业务为石英晶体频率元器件的研发、生产和销售，所处的石英晶体频率元器件行业是 电子 元器件产业的重要组成部分，是 电子 系统中实现频率生成、频率控制与时钟同步的基础性核心 元件 ，被称为 电子 产品的“心脏”。下游应用主要为网络 通信 、 汽车 电子、 物联网 、工业控制与自动化、 人工智能 、算力",
-     "source": "东方财富股票",
-     "zh": "泰晶科技：拟定增募资不超10.11亿元 投向高精度石英频率元器件扩产等项目"
+     "title": "第十五届中国电子信息博览会将于2027年4月在深圳举行",
+     "link": "http://www.eeo.com.cn/2026/1126/1104544.shtml",
+     "pubDate": "Thu, 26 Nov 2026 21:46:16 +0800",
+     "summary": "本报讯 （记者丁蓉）11月26日，中国电子信息博览会组委会在深圳召开新闻发布会，正式宣布第十五届中国电子信息博览会（CITE2027）将于2027年4月9日至11日在深圳举办。 深圳作为国家新一代人工智能创新发展试验区、人工智能创新应用先导区，正推进算力、大模型、智能硬件、行业落地完整生态。深圳市规上工业总产值连续4年全国第一，万亿级智能终端、千亿级芯片显示产业集群成型，已跑通“芯片—算力—大模型—智能终端—行...",
+     "source": "经济观察网",
+     "zh": "第十五届中国电子信息博览会将于2027年4月在深圳举行"
     },
     {
      "title": "铜价反弹逾3%，瑞银警告：这只是熊市反弹，并非基本面反转",
@@ -2385,20 +2361,28 @@
      "zh": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience."
     },
     {
-     "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-     "link": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
-     "pubDate": "Thu, 26 Nov 2026 13:34:51 GMT",
-     "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
-     "source": "CNBC",
-     "zh": "What is ‘texture-maxxing’? The food trend putting crunch on the menu"
-    },
-    {
      "title": "Pablo Hernández de Cos wins race for ECB presidency",
      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 13:27:22 GMT",
      "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klass Knot",
      "source": "Financial Times",
      "zh": "Pablo Hernández de Cos wins race for ECB presidency"
+    },
+    {
+     "title": "百迈科：高级管理人员变动公告",
+     "link": "http://www.eeo.com.cn/2026/1126/1104541.shtml",
+     "pubDate": "Thu, 26 Nov 2026 21:27:21 +0800",
+     "summary": "证券日报网讯11月26日，百迈科发布公告称，公司于2026年11月26日召开第二届董事会提名与薪酬考核委员会第三次会议、第二届董事会审计委员会第十四次会议、第二届董事会第十七次会议审议通过了《关于聘任公司财务总监的议案》。聘任陈继辉先生为公司财务总监（财务负责人），任职期限至公司第二届董事会任期届满之日止，自2026年11月26日起生效。郑福林先生因个人原因辞任，自2026年11月26日起不再担任公司财务总监（财务负责人...",
+     "source": "经济观察网",
+     "zh": "百迈科：高级管理人员变动公告"
+    },
+    {
+     "title": "郑州出台商品住房销售新政 分类施策平稳推进销售制度改革",
+     "link": "http://www.eeo.com.cn/2026/1126/1104535.shtml",
+     "pubDate": "Thu, 26 Nov 2026 21:26:13 +0800",
+     "summary": "11月25日，郑州市住房保障和房地产管理局等五部门发布《关于郑州市贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》（以下简称《实施意见》），自发布之日起执行。 《实施意见》从预售管理、现房销售、土地出让、金融支持等方面作出优化调整，兼顾购房者权益保障、开发企业资金压力缓释与房地产市场平稳发展，是郑州落实国家商品住房销售制度改革的进一步细化落地。此前，北京、上海、广州等地已出台相关实施意见...",
+     "source": "经济观察网",
+     "zh": "郑州出台商品住房销售新政 分类施策平稳推进销售制度改革"
     },
     {
      "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
@@ -2415,6 +2399,14 @@
      "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
      "source": "CNBC",
      "zh": "Semiconductor chips are the new oil. Here&apos;s why"
+    },
+    {
+     "title": "启境汽车发布全新品牌LOGO",
+     "link": "http://www.eeo.com.cn/2026/1126/1104534.shtml",
+     "pubDate": "Thu, 26 Nov 2026 21:13:37 +0800",
+     "summary": "11月26日，启境汽车发布全新品牌LOGO标识。",
+     "source": "经济观察网",
+     "zh": "启境汽车发布全新品牌LOGO"
     },
     {
      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
@@ -2487,6 +2479,14 @@
      "summary": "高盛最新研究显示，科技股这轮剧烈抛售可能已接近尾声。 杠杆基金上周抛售了约700亿美元纳斯达克期货，系统性仓位被大幅重置，市场情绪明显降温，但潜在的增量卖压正在迅速衰减。 高盛认为， 市场或许不需要一波新的买家入场，只需要激进的卖家停止抛售，一旦出现上行势头，昨天的卖家就可能变成明天的买家。 高盛的自营情绪与仓位指标已跌至第36百分位。历史数据显示，30至40百分位区间的读数往往对应标普500指数在多个时间维度上的高于平均水平的远期回报。这意味着，形成有吸引力的布局并不一定需要市场陷入彻底的恐慌。 与此同时， 散户仍在逢低买入科技股，共同基金和ETF的资金流保持正值。 价格走势虽然难看，但底层",
      "source": "华尔街见闻",
      "zh": "科技股抛售潮接近尾声？高盛：昨天的卖家或成明天的买家"
+    },
+    {
+     "title": "谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上",
+     "link": "https://wallstreetcn.com/articles/3786783",
+     "pubDate": "Thu, 26 Nov 2026 20:01:04 +0800",
+     "summary": "黄金市场的抛售压力不仅来自投资者获利了结，部分官方持有者也在资金压力下持续减持。 据GoldFix统计，截至9月，土耳其、俄罗斯和阿塞拜疆国家石油基金合计净卖出约166吨黄金。 其中，俄罗斯是唯一连续十个月每月都在卖出的持有者，1月至10月黄金持仓逐月下降，累计减少约72吨。 土耳其央行一季度净卖出约70吨，主要集中在3月，同月还动用另外80吨黄金进行黄金换外汇掉期。阿塞拜疆国家石油基金一季度卖出21.9吨，原因是金价上涨导致黄金持仓超过组合上限，此后六个月持仓维持在178.1吨不变。 市场反复提及的Tether，则并没有出现大举抛售。其USDT储备对应的金库9月较6月减少3.4吨，但XAUT",
+     "source": "华尔街见闻",
+     "zh": "谁在抛售黄金？俄罗斯连续10个月减持，沙特、Tether也被盯上"
     }
    ]
   },

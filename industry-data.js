@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 02:12:23",
+ "generated_at": "2026/11/27 02:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,10 +1778,18 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
     },
     {
+     "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+     "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
+     "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 20 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "CTO of 'RansomwareHelp' Indicted for Wire Fraud"
+    },
+    {
      "title": "YouTube Ad Punisher – Bypass anti-adblock",
      "link": "https://github.com/antonpictures/youtube-punisher",
      "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
-     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 16 # Comments: 5",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 34 # Comments: 36",
      "source": "Hacker News",
      "zh": "YouTube Ad Punisher – Bypass anti-adblock"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Tracking Diseases Cured by AI",
      "link": "https://diseasescuredbyai.com/",
      "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
-     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 26 # Comments: 6",
+     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 121 # Comments: 53",
      "source": "Hacker News",
      "zh": "Tracking Diseases Cured by AI"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 50 # Comments: 8",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 73 # Comments: 17",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "NP_R ≠ PAR_R",
      "link": "https://github.com/samueleverett01/bss-permanent-separations",
      "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
-     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 72 # Comments: 53",
+     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 80 # Comments: 73",
      "source": "Hacker News",
      "zh": "NP_R ≠ PAR_R"
     },
@@ -1962,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "《仁王 3 完全版》将于明年 1 月 28 日发售：收录两款付费游戏 DLC，还将登陆微软 XBOX 平台"
     },
     {
-     "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-     "link": "https://michidk.github.io/sidebyside/",
-     "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
-     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 45 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "Show HN: Three Linux VMs in a browser tab, each running a different browser"
-    },
-    {
      "title": "基因编辑猪肾在人体内正常工作一年",
      "link": "https://www.solidot.org/story?sid=86003",
      "pubDate": "Thu, 26 Nov 2026 22:49:24 +0800",
@@ -2001,6 +2001,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Throwback Thursday: Canon’s 2006 PowerShot G7, the only G camera without Raw",
+     "link": "https://www.dpreview.com/articles/throwback-thursday-canons-2006-powershot-g7-the-only-g-camera-without-raw/",
+     "pubDate": "Thu, 26 Nov 2026 18:23:52 +0000",
+     "summary": "Some cameras earned their place in history for what they added. The Canon PowerShot G7 came close to infamy for what it took away. Canon's decision to drop Raw from the G7 sparked a revolt among enthusiasts, but it was still a great camera, and hackers eventually gave it what Canon wouldn't.",
+     "source": "DPReview",
+     "zh": "Throwback Thursday: Canon’s 2006 PowerShot G7, the only G camera without Raw"
+    },
+    {
+     "title": "vivo X500s rumored to launch with Dimensity 9600 Pro",
+     "link": "https://www.gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php",
+     "pubDate": "Thu, 26 Nov 2026 19:21:02 +0100",
+     "summary": "The vivo X500 series currently consists of three models – the X500, X500 Pro and X500 Pro Max but the last few weeks saw some leaks about a fourth X500 series member – the X500s. Reliable tipster Digital Chat Station has now shared some additional details regarding the chipset at the helm of the upc",
+     "source": "GSMArena",
+     "zh": "vivo X500s rumored to launch with Dimensity 9600 Pro"
+    },
+    {
+     "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+     "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+     "pubDate": "Thu, 26 Nov 2026 18:09:18 +0000",
+     "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+     "source": "Engadget",
+     "zh": "NVIDIA reportedly halts AI chip shipments to Southeast Asia"
+    },
     {
      "title": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
      "link": "https://9to5mac.com/2026/11/26/daily-november-26-2026/",
@@ -2216,30 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "YouTube has some big Black Friday discounts on streaming services, offering you up to $66 off select streamers when you subscribe this week. more…",
      "source": "9to5Google",
      "zh": "YouTube’s Black Friday sale could save you as much as $66 on streaming services"
-    },
-    {
-     "title": "The best time of the year to get your PITAKA case: 30% off for Black Friday",
-     "link": "https://www.gsmarena.com/the_best_time_of_the_year_to_get_your_pitaka_case_30_off_for_black_friday-news-75511.php",
-     "pubDate": "Thu, 26 Nov 2026 12:56:03 +0100",
-     "summary": "PITAKA is offering a 30% discount on its cases for Black Friday. There are Edge cases for last year's Apple iPhone 17 and the new iPhone 18 Pro models as well as the Duo – the iPhone cases stand out with the PitaTap, which shields the Camera Control Button. You can find PITAKA’s Edge cases on the of",
-     "source": "GSMArena",
-     "zh": "The best time of the year to get your PITAKA case: 30% off for Black Friday"
-    },
-    {
-     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
-     "link": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
-     "pubDate": "Thu, 26 Nov 2026 11:01:32 +0000",
-     "summary": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
-     "source": "Engadget",
-     "zh": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center"
-    },
-    {
-     "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
-     "link": "https://sspai.com/post/116773",
-     "pubDate": "Thu, 26 Nov 2026 17:30:00 +0800",
-     "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
-     "source": "少数派",
-     "zh": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具"
     }
    ]
   },
@@ -2249,6 +2249,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+     "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+     "pubDate": "Thu, 26 Nov 2026 18:27:43 GMT",
+     "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
+     "source": "CNBC",
+     "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
+    },
+    {
+     "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
+     "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more"
+    },
     {
      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -2306,76 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend"
     },
     {
-     "title": "尼日利亚中部一村庄遭袭 死亡人数升至74人",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941004755.html",
-     "pubDate": "Fri, 27 Nov 2026 01:45:09 +0800",
-     "summary": "尼日利亚中部尼日尔州政府26日说，该州21日发生的一起袭击事件已造成74人死亡。 尼日尔州州长穆罕默德·奥马鲁·巴戈26日在冲突事发村庄对媒体说，此次袭击已造成74人死亡，他已下令展开调查。 该州政府22日发表声明说，武装人员21日凌晨袭击该州一个村庄，造成至少5人死亡、5人受伤。当地消息人士接受媒体采访时说，此次袭击可能是一起族群冲突后的报复。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "尼日利亚中部一村庄遭袭 死亡人数升至74人"
-    },
-    {
-     "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-     "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-     "pubDate": "Thu, 26 Nov 2026 17:39:23 GMT",
-     "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-     "source": "CNBC",
-     "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
-    },
-    {
      "title": "Pablo Hernández de Cos wins race for ECB presidency",
      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 17:36:51 GMT",
      "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
      "source": "Financial Times",
      "zh": "Pablo Hernández de Cos wins race for ECB presidency"
-    },
-    {
-     "title": "墨西哥总统谴责美国缉毒局干涉墨内政",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941004674.html",
-     "pubDate": "Fri, 27 Nov 2026 01:32:25 +0800",
-     "summary": "当地时间11月26日，墨西哥总统辛鲍姆在新闻发布会上谴责美国缉毒局开设面向墨西哥民众的匿名举报渠道，称此举是对墨西哥内政的干涉。 辛鲍姆强调，墨西哥拥有负责打击有组织犯罪的执法机构。她敦促美国缉毒局将精力放在打击美国境内的贩毒活动上，调查与有组织犯罪相关的腐败问题、毒品分销网络及非法资金流向。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "墨西哥总统谴责美国缉毒局干涉墨内政"
-    },
-    {
-     "title": "欧洲股市反弹 投资者谨慎重返AI交易",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941004268.html",
-     "pubDate": "Fri, 27 Nov 2026 01:20:49 +0800",
-     "summary": "欧洲股市周四反弹，结束两连跌，投资者谨慎重返 人工智能 (AI)交易，推动科技股上涨。此次反弹表明，在经历大幅抛售后，投资者重返股市的意愿正在增强。欧洲市场的AI交易表现突出， 瑞银集团 编制的一篮子 半导体 股票上涨3.9%，一篮子AI受益股上涨3.2%。Soitec、 意法半导体 和 阿斯麦 等芯片制造商大幅上涨。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "欧洲股市反弹 投资者谨慎重返AI交易"
-    },
-    {
-     "title": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941004194.html",
-     "pubDate": "Fri, 27 Nov 2026 01:20:46 +0800",
-     "summary": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议"
-    },
-    {
-     "title": "科斯塔：欧元区成员国已同意推荐劳伦斯·布恩和马库斯·布伦纳迈尔出任欧洲央行执行委员会委员",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941004468.html",
-     "pubDate": "Fri, 27 Nov 2026 01:16:16 +0800",
-     "summary": "欧洲理事会主席 科斯塔 ：欧元区成员国已同意推荐劳伦斯·布恩（Laurence Boone）和 马库斯 ·布伦纳迈尔（Markus Brunnermeier）出任欧洲央行执行委员会委员。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "科斯塔：欧元区成员国已同意推荐劳伦斯·布恩和马库斯·布伦纳迈尔出任欧洲央行执行委员会委员"
-    },
-    {
-     "title": "洲际交易所罗布斯塔咖啡期货上涨逾3%，至每公吨2856美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941004084.html",
-     "pubDate": "Fri, 27 Nov 2026 01:16:00 +0800",
-     "summary": "洲际交易所 罗布斯塔咖啡 期货 上涨逾3%，至每公吨2856美元。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "洲际交易所罗布斯塔咖啡期货上涨逾3%，至每公吨2856美元"
-    },
-    {
-     "title": "Revolve Renewable Power reports Q1 results",
-     "link": "https://seekingalpha.com/news/4676900-revolve-renewable-power-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:08:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Revolve Renewable Power reports Q1 results"
     },
     {
      "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
@@ -2488,6 +2440,54 @@ window.INDUSTRY_DATA = {
      "summary": "Does America really face a food affordability crisis?",
      "source": "Financial Times",
      "zh": "Bringing data to the Thanksgiving table"
+    },
+    {
+     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
+     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+     "source": "MarketWatch",
+     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
+    },
+    {
+     "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+     "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 14:58:45 GMT",
+     "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+     "source": "Financial Times",
+     "zh": "Hawkish Fed poised to raise rates despite stock market turmoil"
+    },
+    {
+     "title": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市",
+     "link": "http://www.eeo.com.cn/2026/1126/1104560.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:52:19 +0800",
+     "summary": "本文来源：时代财经 11月26日，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌——“星驰”。 据介绍，星驰辅助驾驶与乾崑智驾共享同一套技术底座，遵从同一套研发流程与车规级质量管理体系，技术同源、资源共享。明年，深蓝汽车、上汽通用五菱、北汽极狐、东风奕派等超10款新车将搭载星驰量产上市。 会上，靳玉志重申引望坚持“电子螺丝钉”定位，不造车，帮助车企造好车，...",
+     "source": "经济观察网",
+     "zh": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市"
+    },
+    {
+     "title": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响",
+     "link": "http://www.eeo.com.cn/2026/1126/1104558.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:41:00 +0800",
+     "summary": "在气候过冲下，传染病的传播和分布范围可能改变；气候对农业的冲击会导致粮食供应安全面临挑战；许多国家已经面临人口老龄化造成的医疗需求持续增加的挑战，气候变化会进一步加重压力，包括导致个人的慢性病加重。海平面上升导致一些人群的生计、住房受到影响。",
+     "source": "经济观察网",
+     "zh": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响"
+    },
+    {
+     "title": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标",
+     "link": "https://wallstreetcn.com/articles/3786792",
+     "pubDate": "Thu, 26 Nov 2026 22:39:53 +0800",
+     "summary": "OPEC+正考虑暂缓调整石油产量政策，将现行配额延续至明年1月。在中东冲突扰乱海湾原油供应、成员国产能评估迟迟未能落地以及联盟内部矛盾加深的背景下，维持现状成为各方应对不确定性的折中选择。 11月26日，据彭博援引两名知情代表， OPEC+正考虑将现行石油产量配额延续至2027年1月，以应对中东冲突及其他市场不确定性。这是联盟正在讨论的选项之一。OPEC+定于本周日举行线上会议，讨论2027年的新产量目标。 会议召开之际，成员国既需要为冲突可能结束后的供应恢复做准备，也必须处理联盟内部日益明显的利益分歧。 不过，延续配额对实际供需的影响可能十分有限。Energy Aspects创始人兼董事Am",
+     "source": "华尔街见闻",
+     "zh": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标"
+    },
+    {
+     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 14:35:00 GMT",
+     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+     "source": "MarketWatch",
+     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
     }
    ]
   },
@@ -2497,6 +2497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing",
+     "link": "https://www.livescience.com/animals/orcas/oldest-male-orca-on-record-may-have-been-identified-thanks-to-historical-atomic-bomb-testing",
+     "pubDate": "Thu, 26 Nov 2026 18:20:31 +0000",
+     "summary": "Researchers might have identified the oldest male orca ever recorded after testing for radioactive traces of atomic bombs in the teeth of whales stranded in Scotland.",
+     "source": "Live Science",
+     "zh": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing"
+    },
     {
      "title": "'Alpha-gal follows none of the rules': Why a red-meat allergy triggered by tick bites is perplexing scientists",
      "link": "https://www.livescience.com/health/alpha-gal-follows-none-of-the-rules-why-a-red-meat-allergy-triggered-by-tick-bites-is-perplexing-scientists",
@@ -2584,14 +2592,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers knew that cholesterol and blood pressure are important for estimating stroke risk, but a new study suggests these should be measured far earlier in life.",
      "source": "Live Science",
      "zh": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests"
-    },
-    {
-     "title": "Earliest monster black hole found at the universe's edge — pushing theories to their limits",
-     "link": "https://www.livescience.com/space/astronomy/james-webb-and-euclid-telescopes-discover-record-breaking-quasar-at-the-edge-of-the-universe",
-     "pubDate": "Wed, 25 Nov 2026 20:07:13 +0000",
-     "summary": "Scientists have discovered the earliest-known quasar lurking in the ancient universe — and it's growing at a slower rate than scientists believed possible.",
-     "source": "Live Science",
-     "zh": "Earliest monster black hole found at the universe's edge — pushing theories to their limits"
     },
     {
      "title": "A cosmically close supernova may spill the stellar explosion’s secrets",

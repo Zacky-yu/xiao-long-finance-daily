@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 01:52:10",
+ "generated_at": "2026/11/27 02:12:23",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
+     "link": "https://semiwiki.com/eda/siemens-eda/376688-four-signoff-assumptions-that-dont-survive-the-move-to-3d-ics/",
+     "pubDate": "Thu, 26 Nov 2026 18:00:15 +0000",
+     "summary": "Hybrid bonding and tight die stacking break habits that served planar design well. Here is where die-by-die thinking goes wrong in parasitic extraction, and what an assembly-aware flow does instead. Every design team carries assumptions inherited from planar design. Most of them are sound, and some ",
+     "source": "SemiWiki",
+     "zh": "Four signoff assumptions that don’t survive the move to 3D ICs"
+    },
+    {
+     "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
+     "link": "https://www.eetimes.com/siemens-adds-soc-verification-and-software-debug-with-two-planned-deals/",
+     "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000",
+     "summary": "The planned Breker and Lauterbach acquisitions would expand Siemens’s development tools, but an analyst expects integration benefits to take time. The post Siemens Adds SoC Verification and Software Debug with Two Planned Deals appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals"
+    },
+    {
      "title": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial",
      "link": "https://semiwiki.com/eda/siemens-eda/376672-from-aa-to-usb-c-follow-shrouks-pcb-build-with-a-free-60-day-trial/",
      "pubDate": "Thu, 26 Nov 2026 16:00:29 +0000",
@@ -439,22 +455,6 @@
      "summary": "Osman Chaudry is a business and technology leader with over 25 years of experience in software development, investment management, and e-commerce. With a Bachelor of Engineering (BEng) in Information Systems Engineering from Imperial College London, he has a proven track record of driving success in",
      "source": "SemiWiki",
      "zh": "CXO Interview with Osman Chaudry of yieldWerx"
-    },
-    {
-     "title": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing",
-     "link": "https://www.eetimes.com/turning-optical-telemetry-into-cluster-reliability-integrating-link-health-data-into-monitoring-and-ticketing/",
-     "pubDate": "Wed, 25 Nov 2026 18:00:22 +0000",
-     "summary": "Explore how integrating optical link health data into monitoring and ticketing can help teams improve cluster reliability. The post Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing"
-    },
-    {
-     "title": "Keysight Unites RF and Photonic Design for Tower Semiconductor",
-     "link": "https://semiwiki.com/eda/keysight-eda/376442-keysight-unites-rf-and-photonic-design-for-tower-semiconductor/",
-     "pubDate": "Wed, 25 Nov 2026 16:00:42 +0000",
-     "summary": "Keysight Technologies has certified its Advanced Design System (ADS) Photonic Designer for Tower Semiconductor’s PH18 silicon photonics process design kits, bringing electronic and photonic circuit development into a shared environment. Announced November 9, the integration lets engineers move from ",
-     "source": "SemiWiki",
-     "zh": "Keysight Unites RF and Photonic Design for Tower Semiconductor"
     },
     {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "When the Grid Fails, Solar Does Not Wait for the State",
+     "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
+     "pubDate": "Thu, 26 Nov 2026 12:00:00 -0600",
+     "summary": "Most power systems are built from the center outward. A government plans power stations. A utility signs fuel contracts, builds transmission lines and connects households. Large investors finance assets expected to operate for decades. The model assumes a state capable of making decisions, enforcing",
+     "source": "OilPrice",
+     "zh": "When the Grid Fails, Solar Does Not Wait for the State"
+    },
+    {
      "title": "Solar under scrutiny in latest US trade tariff salvo",
      "link": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
      "pubDate": "Thu, 26 Nov 2026 17:09:24 +0000",
@@ -943,14 +951,6 @@
      "summary": "Millions of renters, apartment residents, and condo owners can’t put solar on a roof they don’t control. Plug-in solar, also called balcony solar or plug-in PV, offers a workaround: one or more panels connected through a microinverter to an ordinary wall outlet, with no roof work and, in a growing .",
      "source": "CleanTechnica",
      "zh": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say"
-    },
-    {
-     "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
-     "pubDate": "Thu, 26 Nov 2026 08:30:00 -0600",
-     "summary": "One crew member died as a tanker carrying diesel sank off the coast of Ibiza in the early hours on Thursday, local emergency services and authorities said. The Balearic Islands emergency service has activated an emergency plan after the diesel-carrying vessel sank about 25 nautical miles north of Ib",
-     "source": "OilPrice",
-     "zh": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza"
     },
     {
      "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
@@ -1297,6 +1297,22 @@
    "total": 6,
    "items": [
     {
+     "title": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'",
+     "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales",
+     "pubDate": "Thu, 26 Nov 2026 18:00:00 +0000",
+     "summary": "Colorful metaphors, a near-miss with Eddie Murphy and humpback whales in 20th-century California.",
+     "source": "Space.com",
+     "zh": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'"
+    },
+    {
+     "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
+     "link": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/",
+     "pubDate": "Thu, 26 Nov 2026 17:53:00 +0000",
+     "summary": "In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United […] The post The ‘bare-knuckled’ future of life in space with Tim Marshall appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "The ‘bare-knuckled’ future of life in space with Tim Marshall"
+    },
+    {
      "title": "Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal",
      "link": "https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal",
      "pubDate": "Thu, 26 Nov 2026 17:30:00 +0000",
@@ -1335,14 +1351,6 @@
      "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
      "source": "Space.com",
      "zh": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live"
-    },
-    {
-     "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
-     "link": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The striking blue of the Betta Fish Nebula swims across the cosmic landscape in a new image from the Dark Energy Camera.",
-     "source": "Space.com",
-     "zh": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026"
     },
     {
      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
@@ -1527,14 +1535,6 @@
      "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
      "source": "Payload",
      "zh": "Industry Shares Plan for Moon Base Power Tower"
-    },
-    {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
     }
    ]
   },
@@ -1544,6 +1544,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+     "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+     "pubDate": "Thu, 26 Nov 2026 12:58:42 -0500",
+     "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+     "source": "BleepingComputer",
+     "zh": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026"
+    },
     {
      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
@@ -1681,14 +1689,6 @@
      "zh": "1Password customer data stolen after employee GitHub account breach"
     },
     {
-     "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-     "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-     "pubDate": "Wed, 25 Nov 2026 14:39:31 -0500",
-     "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-     "source": "BleepingComputer",
-     "zh": "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
-    },
-    {
      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
      "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
      "pubDate": "Wed, 25 Nov 2026 15:48:04 GMT",
@@ -1753,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
+     "link": "https://www.techmeme.com/261126/p23#a261126p23",
+     "pubDate": "Thu, 26 Nov 2026 13:05:38 -0500",
+     "summary": "CTech : Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems &nbsp; &mdash;&nbsp; The company, spun off from Sony earlier this year, is preparing a new low-power 5G modem for smart glasses, wearable",
+     "source": "Techmeme",
+     "zh": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)"
+    },
+    {
+     "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+     "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+     "pubDate": "Thu, 26 Nov 2026 18:00:29 +0000",
+     "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+     "source": "Ars Technica",
+     "zh": "Ford unveils the GT41 as it hopes to win Le Mans again"
+    },
+    {
+     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+     "pubDate": "Thu, 26 Nov 2026 17:57:25 +0000",
+     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "YouTube Ad Punisher – Bypass anti-adblock",
+     "link": "https://github.com/antonpictures/youtube-punisher",
+     "pubDate": "Thu, 26 Nov 2026 17:36:47 +0000",
+     "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 16 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "YouTube Ad Punisher – Bypass anti-adblock"
+    },
+    {
      "title": "欧洲电商巨头，集体涌向二手市场",
      "link": "https://www.huxiu.com/article/4908807.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 01:20:47 +0800",
@@ -1761,10 +1793,18 @@
      "zh": "欧洲电商巨头，集体涌向二手市场"
     },
     {
+     "title": "Tracking Diseases Cured by AI",
+     "link": "https://diseasescuredbyai.com/",
+     "pubDate": "Thu, 26 Nov 2026 17:16:41 +0000",
+     "summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 26 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Tracking Diseases Cured by AI"
+    },
+    {
      "title": "AMD Specific Patches for Llama.cpp",
      "link": "https://devnull.land/amd-specific-llama-cpp",
      "pubDate": "Thu, 26 Nov 2026 17:11:29 +0000",
-     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 36 # Comments: 5",
+     "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 50 # Comments: 8",
      "source": "Hacker News",
      "zh": "AMD Specific Patches for Llama.cpp"
     },
@@ -1777,18 +1817,10 @@
      "zh": "A month with the iPhone Duo has changed how I use my phone"
     },
     {
-     "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
-     "link": "https://twitter.com/ElliotC1/status/2125689373337489419",
-     "pubDate": "Thu, 26 Nov 2026 16:55:15 +0000",
-     "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419 Comments URL: https://news.ycombinator.com/item?id=50657110 Points: 41 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day"
-    },
-    {
      "title": "NP_R ≠ PAR_R",
      "link": "https://github.com/samueleverett01/bss-permanent-separations",
      "pubDate": "Thu, 26 Nov 2026 16:50:55 +0000",
-     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 57 # Comments: 30",
+     "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations Comments URL: https://news.ycombinator.com/item?id=50657059 Points: 72 # Comments: 53",
      "source": "Hacker News",
      "zh": "NP_R ≠ PAR_R"
     },
@@ -1815,14 +1847,6 @@
      "summary": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://news.ycombinator.com/i",
      "source": "Hacker News",
      "zh": "Ask HN: Any courses/products by indie makers worth getting today?"
-    },
-    {
-     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-     "pubDate": "Thu, 26 Nov 2026 16:10:24 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
     },
     {
      "title": "从世界工厂到全球工程共同体：中国工业化的下一程",
@@ -1940,7 +1964,7 @@
      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
      "link": "https://michidk.github.io/sidebyside/",
      "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
-     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 36 # Comments: 11",
+     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 45 # Comments: 14",
      "source": "Hacker News",
      "zh": "Show HN: Three Linux VMs in a browser tab, each running a different browser"
     },
@@ -1967,30 +1991,6 @@
      "summary": "中科院研究人员针对在南宁隆安穿山洞和柳州鹿寨龙船洞两处地点获得的 4 颗人类牙齿化石（分别距今至少 10.1 万年和 10.5 万年—4.3 万年）开展了古蛋白质组学和形态学综合分析。研究人员将穿山洞和龙船洞发现的牙齿，与其他人属标本进行比较。结果显示，两个组合呈现出截然不同的表型特征。研究人员对龙船洞以及穿山洞样本进行了古蛋白质提取，发现龙船洞样本可能代表华南地区一支具有丹尼索瓦亲缘关系的谱系，而穿山洞牙齿可能属于华南地区一支不同于丹尼索瓦人的独立谱系。研究提示华南可能是古老型人类的地理避难所与演化熔炉，为理解东亚古人类种群结构、区域变异与可能的基因交流提供了重要基准，代表了重建亚洲古人类种",
      "source": "Solidot",
      "zh": "中国发现新古人类支系"
-    },
-    {
-     "title": "Tell HN: Happy Thanksgiving",
-     "link": "https://news.ycombinator.com/item?id=50655664",
-     "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
-     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 365 # Comments: 105",
-     "source": "Hacker News",
-     "zh": "Tell HN: Happy Thanksgiving"
-    },
-    {
-     "title": "地球连续六天气温比工业化前水平高 2C",
-     "link": "https://www.solidot.org/story?sid=86001",
-     "pubDate": "Thu, 26 Nov 2026 22:06:07 +0800",
-     "summary": "根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计未来至少几天内气温仍将维持这一高位。此前只有两次日气温升幅超过 2C 的记录，分别出现在 2023 年 11 月和 2024 年 2 月，那两次持续时间较短，升温幅度都不及这次。科学界担心全球暖化可能在加速。目前地球正处以一次超强厄尔尼诺事件中。上一次如此强度的厄尔尼诺现象发生在 1870 年代，曾引发大规模饥荒，导致 5000 万人丧生。最新的厄尔尼诺现象将在未来几个月内达到峰值，其全面影响可能要到数月后才会显现。",
-     "source": "Solidot",
-     "zh": "地球连续六天气温比工业化前水平高 2C"
-    },
-    {
-     "title": "Texas resumes data center permitting, approving permits for SpaceX&apos;s $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)",
-     "link": "https://www.techmeme.com/261126/p19#a261126p19",
-     "pubDate": "Thu, 26 Nov 2026 08:45:00 -0500",
-     "summary": "Stephanie Findlay / Financial Times : Texas resumes data center permitting, approving permits for SpaceX's $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January &nbsp; &mdash;&nbsp; Incoming governor Gina Hinojosa pledged to rein in construction of new projects du",
-     "source": "Techmeme",
-     "zh": "Texas resumes data center permitting, approving permits for SpaceX&apos;s $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)"
     }
    ]
   },
@@ -2000,6 +2000,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
+     "link": "https://9to5mac.com/2026/11/26/daily-november-26-2026/",
+     "pubDate": "Thu, 26 Nov 2026 18:06:20 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNo",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for"
+    },
+    {
+     "title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
+     "link": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
+     "pubDate": "Thu, 26 Nov 2026 18:04:57 +0000",
+     "summary": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users sort notifications into different categories. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise",
+     "source": "9to5Mac",
+     "zh": "iOS 28 to ‘revamp’ iPhone notifications, per report"
+    },
+    {
+     "title": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
+     "link": "https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/",
+     "pubDate": "Thu, 26 Nov 2026 17:59:58 +0000",
+     "summary": "Sony's low-latency gaming earbuds are 38% off on Amazon in all three colors, matching their lowest price.",
+     "source": "Android Authority",
+     "zh": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds"
+    },
     {
      "title": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now",
      "link": "https://www.androidauthority.com/white-titan-2-elite-3740551/",
@@ -2113,14 +2137,6 @@
      "zh": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time"
     },
     {
-     "title": "TCL TAB 10 Gen 4 hits a record low under $130",
-     "link": "https://www.androidauthority.com/tcl-tab-10-gen-4-black-friday-deal-3740501/",
-     "pubDate": "Thu, 26 Nov 2026 15:10:17 +0000",
-     "summary": "Save $50 on TCL's 10.1-inch Android tablet with 128GB of storage, now at its lowest price ahead of Black Friday.",
-     "source": "Android Authority",
-     "zh": "TCL TAB 10 Gen 4 hits a record low under $130"
-    },
-    {
      "title": "Apple reportedly revamping notifications once again with iOS 28",
      "link": "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
      "pubDate": "Thu, 26 Nov 2026 16:03:02 +0100",
@@ -2185,28 +2201,12 @@
      "zh": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods"
     },
     {
-     "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy",
-     "link": "https://9to5mac.com/2026/11/26/the-character%e2%80%a4ai-mess-underlines-the-importance-of-apples-approach-to-ai-privacy/",
-     "pubDate": "Thu, 26 Nov 2026 12:58:21 +0000",
-     "summary": "With most AI chatbots using your interactions as training data, we’ve previously cautioned against sharing sensitive personal details with them, highlighting the much stronger privacy protections offered by Apple . If you ever needed evidence of the importance of this, the Character ․ ai mess provid",
-     "source": "9to5Mac",
-     "zh": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy"
-    },
-    {
      "title": "Counterpoint: Smartphone shipments on track for record drop in 2026",
      "link": "https://www.gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php",
      "pubDate": "Thu, 26 Nov 2026 13:58:02 +0100",
      "summary": "It’s been a tough year for smartphone shipments as surging memory prices have led to substantial component price hikes and costlier devices. Counterpoint Research's latest report suggests we’re on track for a 14% decline in global smartphone shipments compared to the 2025 values. If these projection",
      "source": "GSMArena",
      "zh": "Counterpoint: Smartphone shipments on track for record drop in 2026"
-    },
-    {
-     "title": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more",
-     "link": "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals/",
-     "pubDate": "Thu, 26 Nov 2026 12:22:23 +0000",
-     "summary": "We are moving into Day 6 of the massive Amazon Black Friday sale with many of the best Apple deals of the year. Alongside the wild $100 price drop on AirPods Pro 3 and the new OLED iPad mini at $100 off , we are also catching some even lower MacBook deals headlined by the new M6 Pro at $220 off (All",
-     "source": "9to5Mac",
-     "zh": "Best Mac Black Friday deals: $400 off MacBook Air, Neo $100 off, $220 off M6, PROLED, more"
     },
     {
      "title": "YouTube’s Black Friday sale could save you as much as $66 on streaming services",
@@ -2249,6 +2249,70 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+     "pubDate": "Thu, 26 Nov 2026 17:57:32 GMT",
+     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a historic mistake, claiming that it should be \"immediately investigated.\"",
+     "source": "CNBC",
+     "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "Semiconductor chips are the new oil. Here&apos;s why",
+     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+     "pubDate": "Thu, 26 Nov 2026 17:52:15 GMT",
+     "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+     "source": "CNBC",
+     "zh": "Semiconductor chips are the new oil. Here&apos;s why"
+    },
+    {
+     "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
+     "link": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:49:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend"
+    },
+    {
+     "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
+     "link": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:49:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend"
+    },
+    {
+     "title": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend",
+     "link": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:48:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend"
+    },
+    {
+     "title": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend",
+     "link": "https://seekingalpha.com/news/4676902-innovator-premium-income-15-buffer-etf-october-declares-0_1143-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:48:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend"
+    },
+    {
+     "title": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend",
+     "link": "https://seekingalpha.com/news/4676901-innovator-premium-income-15-buffer-etf-july-declares-0_1059-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:47:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend"
+    },
+    {
+     "title": "尼日利亚中部一村庄遭袭 死亡人数升至74人",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941004755.html",
+     "pubDate": "Fri, 27 Nov 2026 01:45:09 +0800",
+     "summary": "尼日利亚中部尼日尔州政府26日说，该州21日发生的一起袭击事件已造成74人死亡。 尼日尔州州长穆罕默德·奥马鲁·巴戈26日在冲突事发村庄对媒体说，此次袭击已造成74人死亡，他已下令展开调查。 该州政府22日发表声明说，武装人员21日凌晨袭击该州一个村庄，造成至少5人死亡、5人受伤。当地消息人士接受媒体采访时说，此次袭击可能是一起族群冲突后的报复。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "尼日利亚中部一村庄遭袭 死亡人数升至74人"
+    },
+    {
      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
      "pubDate": "Thu, 26 Nov 2026 17:39:23 GMT",
@@ -2257,52 +2321,60 @@
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
     },
     {
+     "title": "Pablo Hernández de Cos wins race for ECB presidency",
+     "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 17:36:51 GMT",
+     "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
+     "source": "Financial Times",
+     "zh": "Pablo Hernández de Cos wins race for ECB presidency"
+    },
+    {
+     "title": "墨西哥总统谴责美国缉毒局干涉墨内政",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941004674.html",
+     "pubDate": "Fri, 27 Nov 2026 01:32:25 +0800",
+     "summary": "当地时间11月26日，墨西哥总统辛鲍姆在新闻发布会上谴责美国缉毒局开设面向墨西哥民众的匿名举报渠道，称此举是对墨西哥内政的干涉。 辛鲍姆强调，墨西哥拥有负责打击有组织犯罪的执法机构。她敦促美国缉毒局将精力放在打击美国境内的贩毒活动上，调查与有组织犯罪相关的腐败问题、毒品分销网络及非法资金流向。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "墨西哥总统谴责美国缉毒局干涉墨内政"
+    },
+    {
+     "title": "欧洲股市反弹 投资者谨慎重返AI交易",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941004268.html",
+     "pubDate": "Fri, 27 Nov 2026 01:20:49 +0800",
+     "summary": "欧洲股市周四反弹，结束两连跌，投资者谨慎重返 人工智能 (AI)交易，推动科技股上涨。此次反弹表明，在经历大幅抛售后，投资者重返股市的意愿正在增强。欧洲市场的AI交易表现突出， 瑞银集团 编制的一篮子 半导体 股票上涨3.9%，一篮子AI受益股上涨3.2%。Soitec、 意法半导体 和 阿斯麦 等芯片制造商大幅上涨。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "欧洲股市反弹 投资者谨慎重返AI交易"
+    },
+    {
+     "title": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941004194.html",
+     "pubDate": "Fri, 27 Nov 2026 01:20:46 +0800",
+     "summary": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议"
+    },
+    {
+     "title": "科斯塔：欧元区成员国已同意推荐劳伦斯·布恩和马库斯·布伦纳迈尔出任欧洲央行执行委员会委员",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941004468.html",
+     "pubDate": "Fri, 27 Nov 2026 01:16:16 +0800",
+     "summary": "欧洲理事会主席 科斯塔 ：欧元区成员国已同意推荐劳伦斯·布恩（Laurence Boone）和 马库斯 ·布伦纳迈尔（Markus Brunnermeier）出任欧洲央行执行委员会委员。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "科斯塔：欧元区成员国已同意推荐劳伦斯·布恩和马库斯·布伦纳迈尔出任欧洲央行执行委员会委员"
+    },
+    {
+     "title": "洲际交易所罗布斯塔咖啡期货上涨逾3%，至每公吨2856美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941004084.html",
+     "pubDate": "Fri, 27 Nov 2026 01:16:00 +0800",
+     "summary": "洲际交易所 罗布斯塔咖啡 期货 上涨逾3%，至每公吨2856美元。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "洲际交易所罗布斯塔咖啡期货上涨逾3%，至每公吨2856美元"
+    },
+    {
      "title": "Revolve Renewable Power reports Q1 results",
      "link": "https://seekingalpha.com/news/4676900-revolve-renewable-power-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 12:08:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Revolve Renewable Power reports Q1 results"
-    },
-    {
-     "title": "Robosense Technology reports Q3 results",
-     "link": "https://seekingalpha.com/news/4676899-robosense-technology-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:04:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Robosense Technology reports Q3 results"
-    },
-    {
-     "title": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0648 dividend",
-     "link": "https://seekingalpha.com/news/4676898-yieldmax-googl-option-income-strategy-etf-declares-0_0648-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:02:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0648 dividend"
-    },
-    {
-     "title": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
-     "link": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:01:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend"
-    },
-    {
-     "title": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend",
-     "link": "https://seekingalpha.com/news/4676896-yieldmax-intc-option-income-strategy-etf-declares-0_2391-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:01:17 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend"
-    },
-    {
-     "title": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend",
-     "link": "https://seekingalpha.com/news/4676895-yieldmax-mstr-short-option-income-strategy-etf-declares-0_4353-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:00:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend"
     },
     {
      "title": "蔚来的AI观：技术应用之外，能改革组织，也能算得过账",
@@ -2415,78 +2487,6 @@
      "summary": "Does America really face a food affordability crisis?",
      "source": "Financial Times",
      "zh": "Bringing data to the Thanksgiving table"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
-    },
-    {
-     "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
-     "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 14:58:45 GMT",
-     "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
-     "source": "Financial Times",
-     "zh": "Hawkish Fed poised to raise rates despite stock market turmoil"
-    },
-    {
-     "title": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市",
-     "link": "http://www.eeo.com.cn/2026/1126/1104560.shtml",
-     "pubDate": "Thu, 26 Nov 2026 22:52:19 +0800",
-     "summary": "本文来源：时代财经 11月26日，华为公司高级副总裁、引望公司CEO靳玉志在华为乾崑生态大会上发布辅助驾驶新品牌——“星驰”。 据介绍，星驰辅助驾驶与乾崑智驾共享同一套技术底座，遵从同一套研发流程与车规级质量管理体系，技术同源、资源共享。明年，深蓝汽车、上汽通用五菱、北汽极狐、东风奕派等超10款新车将搭载星驰量产上市。 会上，靳玉志重申引望坚持“电子螺丝钉”定位，不造车，帮助车企造好车，...",
-     "source": "经济观察网",
-     "zh": "引望发布辅助驾驶新品牌“星驰” ，明年预计超10款新车搭载上市"
-    },
-    {
-     "title": "Pablo Hernández de Cos wins race for ECB presidency",
-     "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 14:44:13 GMT",
-     "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
-     "source": "Financial Times",
-     "zh": "Pablo Hernández de Cos wins race for ECB presidency"
-    },
-    {
-     "title": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响",
-     "link": "http://www.eeo.com.cn/2026/1126/1104558.shtml",
-     "pubDate": "Thu, 26 Nov 2026 22:41:00 +0800",
-     "summary": "在气候过冲下，传染病的传播和分布范围可能改变；气候对农业的冲击会导致粮食供应安全面临挑战；许多国家已经面临人口老龄化造成的医疗需求持续增加的挑战，气候变化会进一步加重压力，包括导致个人的慢性病加重。海平面上升导致一些人群的生计、住房受到影响。",
-     "source": "经济观察网",
-     "zh": "墨尔本大学凯瑟琳：气候过冲将进一步放大气候变化的影响"
-    },
-    {
-     "title": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标",
-     "link": "https://wallstreetcn.com/articles/3786792",
-     "pubDate": "Thu, 26 Nov 2026 22:39:53 +0800",
-     "summary": "OPEC+正考虑暂缓调整石油产量政策，将现行配额延续至明年1月。在中东冲突扰乱海湾原油供应、成员国产能评估迟迟未能落地以及联盟内部矛盾加深的背景下，维持现状成为各方应对不确定性的折中选择。 11月26日，据彭博援引两名知情代表， OPEC+正考虑将现行石油产量配额延续至2027年1月，以应对中东冲突及其他市场不确定性。这是联盟正在讨论的选项之一。OPEC+定于本周日举行线上会议，讨论2027年的新产量目标。 会议召开之际，成员国既需要为冲突可能结束后的供应恢复做准备，也必须处理联盟内部日益明显的利益分歧。 不过，延续配额对实际供需的影响可能十分有限。Energy Aspects创始人兼董事Am",
-     "source": "华尔街见闻",
-     "zh": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标"
-    },
-    {
-     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 14:35:00 GMT",
-     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-     "source": "MarketWatch",
-     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
-    },
-    {
-     "title": "BofE says firms need to invest to keep pace with AI threat",
-     "link": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 26 Nov 2026 14:31:00 GMT",
-     "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
-     "source": "Finextra",
-     "zh": "BofE says firms need to invest to keep pace with AI threat"
-    },
-    {
-     "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-     "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 14:00:00 GMT",
-     "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
-     "source": "MarketWatch",
-     "zh": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot"
     }
    ]
   },

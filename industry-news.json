@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 06:52:08",
+ "generated_at": "2026/11/27 07:12:25",
  "recent_days": 7,
  "industries": [
   {
@@ -8,14 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
-     "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
-     "pubDate": "Thu, 26 Nov 2026 22:06:40 +0000",
-     "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano"
-    },
     {
      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -247,6 +239,14 @@
      "summary": "Generative AI",
      "source": "Google Research",
      "zh": "Verifiable Social Reasoning for LLM Assistants"
+    },
+    {
+     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
+     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
+     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
+     "source": "KDnuggets",
+     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
     }
    ]
   },
@@ -1753,6 +1753,22 @@
    "total": 18,
    "items": [
     {
+     "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
+     "link": "https://www.ithome.com/1/033/138.htm",
+     "pubDate": "Thu, 26 Nov 2026 22:59:06 GMT",
+     "summary": "IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使用上限的速度将加快 40%，Sol 用户则将加快 25%。 Sottiaux 同时表示，尽管修复后两款模型的额度消耗速度有所增加，但与上一代 GPT-6 Astra 和 GPT-6.1 Sol 相比，",
+     "source": "IT之家",
+     "zh": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%"
+    },
+    {
+     "title": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%",
+     "link": "https://www.ithome.com/1/033/137.htm",
+     "pubDate": "Thu, 26 Nov 2026 22:56:17 GMT",
+     "summary": "IT之家 11 月 27 日消息， 彭博社昨日（11 月 26 日）发布博文，报道称德国软件巨头思爱普（SAP）正考虑在一轮以人工智能为核心的重组中，裁减至少 1 万个工作岗位。 该规模约相当于 SAP 全球员工总数的 9%，最终裁员人数尚未确定，后续或因公司与劳工代表的协商结果而有所调整。 IT之家查询公开资料，思爱普成立于 1972 年，总部位于德国沃尔多夫，是全球企业应用软件的重要供应商，是“欧洲市值最高的软件公司”。其核心产品帮助企业完成财务、供应链、采购、人力资源、销售和运营等流程的数字化管理。 知情人士称，SAP 管理层正推动软件业务向 AI 时代转型，要求各部门梳理可以精简的岗位",
+     "source": "IT之家",
+     "zh": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%"
+    },
+    {
      "title": "三星 Galaxy S27 Pro / Ultra 手机机模再曝：矩阵相机岛设计",
      "link": "https://www.ithome.com/1/033/136.htm",
      "pubDate": "Thu, 26 Nov 2026 22:43:02 GMT",
@@ -1772,7 +1788,7 @@
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 41 # Comments: 26",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 88 # Comments: 55",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1780,7 +1796,7 @@
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 106 # Comments: 17",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 154 # Comments: 23",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1812,7 +1828,7 @@
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 9 # Comments: 7",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 15 # Comments: 10",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -1828,7 +1844,7 @@
      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
      "link": "https://github.com/eisenzopf/rvoip",
      "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 42 # Comments: 13",
+     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 52 # Comments: 13",
      "source": "Hacker News",
      "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
     },
@@ -1844,7 +1860,7 @@
      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
      "link": "https://bui.preetham.top/charts/",
      "pubDate": "Thu, 26 Nov 2026 18:37:24 +0000",
-     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 23 # Comments: 2",
+     "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 32 # Comments: 2",
      "source": "Hacker News",
      "zh": "Largest 2D Chart library in the world using BUI: BlenderUI"
     },
@@ -1852,7 +1868,7 @@
      "title": "Show HN: Fuck_data_brokers.py",
      "link": "https://github.com/gary23w/f-ck_data_brokers",
      "pubDate": "Thu, 26 Nov 2026 18:37:21 +0000",
-     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 167 # Comments: 27",
+     "summary": "Article URL: https://github.com/gary23w/f-ck_data_brokers Comments URL: https://news.ycombinator.com/item?id=50658191 Points: 196 # Comments: 34",
      "source": "Hacker News",
      "zh": "Show HN: Fuck_data_brokers.py"
     },
@@ -1975,22 +1991,6 @@
      "summary": "IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。 IT之家注意到，该局在公告中表示，五起攻击里有四起攻击得手，相关系统遭到入侵。遭到攻击的对象包含三家关键基础设施运营主体，据瑞士公共广播公司 SRF 介绍，它们分别是电力、供水以及通信服务供应商。 瑞士联邦网络安全局没有透露攻击的幕后主体信息。机构建议相关企业落实防护手段，其中包括定期开展网络安全检测。",
      "source": "IT之家",
      "zh": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵"
-    },
-    {
-     "title": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖",
-     "link": "https://www.solidot.org/story?sid=86004",
-     "pubDate": "Thu, 26 Nov 2026 23:24:13 +0800",
-     "summary": "2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖。今年初路由器发行版 OpenWrt 曾为纪念他而以他的名字命名 v25.12.0。互联网协会称：在 Täht 看来，视频通话中断、网页加载缓慢、进度条冻结——这些现象统称为缓冲区膨胀（bufferbloat）——都是阻碍互联网连接的障碍。所谓缓冲区膨胀是指数据在负责转发流量的硬件设备中滞留的时间。Täht 致力于寻找并推广解决网络拥塞的方案，旨在让人们真正享受到互联网的全部潜能。",
-     "source": "Solidot",
-     "zh": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖"
-    },
-    {
-     "title": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算",
-     "link": "https://www.ithome.com/1/033/130.htm",
-     "pubDate": "Thu, 26 Nov 2026 15:16:45 GMT",
-     "summary": "IT之家 11 月 26 日消息，在 2026 HarmonyOS 创新技术沟通会上，华为 HarmonyOS 五大技术品牌正式公开，含鸿蒙星河互联、鸿蒙星盾安全、方舟引擎、鸿蒙智能 &amp; 小艺、鸿蒙空间计算。 据IT之家了解，华为鸿蒙 HarmonyOS 终端设备数在 11 月 24 日官宣破亿。同时，鸿蒙操作系统可获取的应用和服务超 46 万，注册开发者超 1,200 万。 华为官方表示，这标志着鸿蒙生态跨越规模临界点，进入发展新阶段，同时也是中国自主操作系统规模化应用的重要进展。",
-     "source": "IT之家",
-     "zh": "华为 HarmonyOS 五大技术品牌公开，含鸿蒙星河互联、星盾安全、方舟引擎、小艺、空间计算"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+     "link": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+     "pubDate": "Thu, 26 Nov 2026 22:56:12 +0000",
+     "summary": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads"
+    },
     {
      "title": "WhatsApp could soon introduce a travel eSIM feature",
      "link": "https://www.gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php",
@@ -2153,14 +2161,6 @@
      "zh": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for"
     },
     {
-     "title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
-     "link": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
-     "pubDate": "Thu, 26 Nov 2026 18:04:57 +0000",
-     "summary": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users sort notifications into different categories. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise",
-     "source": "9to5Mac",
-     "zh": "iOS 28 to ‘revamp’ iPhone notifications, per report"
-    },
-    {
      "title": "Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds",
      "link": "https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/",
      "pubDate": "Thu, 26 Nov 2026 17:59:58 +0000",
@@ -2249,52 +2249,84 @@
    "total": 13,
    "items": [
     {
-     "title": "【环球财经】古巴今年已批40个外资参与项目 总额约20亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941035647.html",
-     "pubDate": "Fri, 27 Nov 2026 06:42:52 +0800",
-     "summary": "新华财经哈瓦那11月26日电（记者吴昊蒋彪）古巴副总理兼贸易和外国投资部部长佩雷斯- 奥利 瓦26日在第42届哈瓦那国际博览会期间表示，古巴今年已批准40个外资参与的投资项目，总投资额约20亿美元。 第42届哈瓦那国际博览会于24日至26日以 线上线下 结合的方式举行。在26日举行的外国投资专场发布会上，佩雷斯- 奥利 瓦称，今年古巴批准的40个外资参与项目中，有22个为外资独资项目。他说，古巴正在完善相关法律法规以推动经济社会改革。 据佩雷斯- 奥利 瓦介绍，古巴新的《外国投资法》将于12月提交全国人民政权代表大会讨论，以简化流程、加强投资者法律保障、扩大海外古巴侨民参与并赋予地方更多权限。",
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月27日",
+     "link": "https://wallstreetcn.com/articles/3786805",
+     "pubDate": "Fri, 27 Nov 2026 07:04:49 +0800",
+     "summary": "华见早安之声 要闻精选 中国 美国 针对中国进口产品税率将提升20% ， 中国外交部 ： 中方将继续采取必要措施捍卫自身正当权益 。 中国商务部 ： 坚决反对美对中国等经济体加征301关税 ；望美中推动对等降税安排尽快落地实施。 商务部 ：中方将密切关注欧方混动汽车保障措施后续调查进展。 国内四大商业银行 已与上市公司签订 股票回购增持贷款合同超6000亿元 。 香港联交所 披露恒大资金违规路径 ， 谴责 中国恒大与恒大物业，许家印等六人被认定不适合担任董事。 腾讯 AI制药成果登上《Nature》主刊 ，双靶点多肽实现从头设计。 海外 特朗普 称 Q3美国GDP数据造假 、 被蓄意压低 ，称",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月27日"
+    },
+    {
+     "title": "Here are the major earnings before the open Friday",
+     "link": "https://seekingalpha.com/news/4676738-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 18:00:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Friday"
+    },
+    {
+     "title": "厄瓜多尔一工业船疑似发生氨气泄漏事故致4人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941038465.html",
+     "pubDate": "Fri, 27 Nov 2026 06:57:48 +0800",
+     "summary": "据厄瓜多尔媒体援引消防部门消息报道，厄西部沿海地区马纳维省曼塔港一艘停泊的工业船只26日疑似发生氨气泄漏事故，造成4人死亡、1人受伤。 据报道，当天13时左右，该工业船内部用于储存和保鲜鱼类的冷藏舱区域疑似发生氨气泄漏。接到报警后，相关部门调派消防车、救护车和危险品处置团队赶赴现场，进入船舱开展救援和疏散工作。 目前，遇难者身份尚未确认，事故具体原因正在调查中。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "【环球财经】古巴今年已批40个外资参与项目 总额约20亿美元"
+     "zh": "厄瓜多尔一工业船疑似发生氨气泄漏事故致4人死亡"
+    },
+    {
+     "title": "太空环境解锁阿尔茨海默病差异化分子反应",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941037722.html",
+     "pubDate": "Fri, 27 Nov 2026 06:55:11 +0800",
+     "summary": "美国加州大学圣迭戈分校桑福德 综合 太空干细胞研究中心主任艾里森·穆特里手持一个含有脑类器官的板块。研究人员将这些类器官送入太空，增添了对阿尔茨海默病的新见解。 美国加州大学圣迭戈分校团队把一批携带遗传性阿尔茨海默病基因突变的“迷你大脑”送上国际空间站，在轨培育40天后带回地面分析。结果显示，同样一段太空飞行经历，在不同致病基因背景下引发的分子反应差别显著。该研究25日发表于《科学进展》杂志。 此次使用的“迷你大脑”学名叫脑类器官，是由干细胞培育的小型三维神经组织模型，可再现人脑部分特征。团队使用了携带APP、PSEN1或PSEN2基因突变的类器官，这三种基因均与罕见的遗传性阿尔茨海默病有关，",
+     "source": "东方财富股票",
+     "zh": "太空环境解锁阿尔茨海默病差异化分子反应"
+    },
+    {
+     "title": "韩国拟扩大赴中东护航部队任务区，韩方向伊朗表态：不介入战争",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941037928.html",
+     "pubDate": "Fri, 27 Nov 2026 06:55:06 +0800",
+     "summary": "据韩联社报道，韩国外交部长官赵显26日与伊朗外长阿拉格齐通电话，向伊方说明韩国政府拟扩大赴中东护航部队“清海部队”任务区的立场。韩方表示，此举旨在保护本国公民安全、维护韩国经济利益，韩国将恪守“不介入战争”等原则。这是韩国政府公布上述计划后，两国外长首次通话。 据韩国外交部介绍，在当前中东局势下，两国外长已通话8次、会晤2次，并同意继续保持密切沟通。两国外长当天还就近期中东局势、韩伊关系及海外公民保护等问题交换意见。赵显表示，希望中东地区尽早恢复持久和平与稳定，并呼吁伊方关注在伊韩国公民的安全。阿拉格齐听取了韩方对扩大“清海部队”任务区的说明。 同一天，韩国国会国防委员会审议通过延长“清海部队",
+     "source": "东方财富股票",
+     "zh": "韩国拟扩大赴中东护航部队任务区，韩方向伊朗表态：不介入战争"
+    },
+    {
+     "title": "影响市场重大事件：广东加快开展低轨宽带卫星星座与在轨计算存储能力基础研究；广东支持珠江口西岸都市圈地区探索海底数据中心建设；广东鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模",
+     "link": "http://finance.eastmoney.com/news/1355,202611273941038567.html",
+     "pubDate": "Fri, 27 Nov 2026 06:54:52 +0800",
+     "summary": "｜2026年11月27日星期五｜ NO.1 广东：加快开展低轨宽带卫星星座与在轨计算存储能力基础研究 11月26日，广东省印发《广东省算力发展“十五五”规划》。其中提到，构建空天地海算力网络。加快建设与算力协同发展的新一代 通信 网络，统筹推进太空、低空、地面与海洋融合组网，开展低轨宽带卫星星座与在轨计算存储能力基础研究，探索 卫星互联网 关口站、地面接收站、星地互联中心及空天数据集成处理平台建设。强化6G与智能算力基础设施协同联动，加快推动6G网络试点建设与前期商用部署。做强海洋网络服务能力，加快建设近海5G/5G-A及海岛“双千兆”网络，探索低轨卫星、海上浮标等延伸服务至偏远海域，增强 海",
+     "source": "东方财富股票",
+     "zh": "影响市场重大事件：广东加快开展低轨宽带卫星星座与在轨计算存储能力基础研究；广东支持珠江口西岸都市圈地区探索海底数据中心建设；广东鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模"
+    },
+    {
+     "title": "亚历山大·格吕赫尔有望出任巴西银行董事长",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941039171.html",
+     "pubDate": "Fri, 27 Nov 2026 06:54:40 +0800",
+     "summary": "亚历山大 ·格吕赫尔有望出任巴西 银行 董事长。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "亚历山大·格吕赫尔有望出任巴西银行董事长"
+    },
+    {
+     "title": "中国神华：H股配售价每股38.10港元 预计融资约67.4亿港元",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941037635.html",
+     "pubDate": "Fri, 27 Nov 2026 06:54:22 +0800",
+     "summary": "中国神华 在港交所公告，拟以每股38.10港元配售最多1.77亿股，预计所得款项总额约67.4亿港元。配售价较前收盘价折让7.7%。约90%的所得款项净额将用于偿还境内债务及优化资本结构。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "中国神华：H股配售价每股38.10港元 预计融资约67.4亿港元"
+    },
+    {
+     "title": "物理AI峰会催化不断！算力基建景气向好 多股业绩倍增可期(名单)",
+     "link": "http://stock.eastmoney.com/news/11134,202611273941036483.html",
+     "pubDate": "Fri, 27 Nov 2026 06:43:30 +0800",
+     "summary": "11月25日，2026 物理AI 行业峰会暨九章云极智算生态大会在深圳举行。AI加速从屏幕走向产线， 物理AI 相关概念股的业绩增长预期正在升温。 物理AI 峰会深圳召开，生态联盟同步成立 11月25日，2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。 会上，九章云极DataCanvas正式发布面向物理AI的算力基础设施与工具栈服务体系“Physical AI Factory（物理AI工厂）”，并发起成立“ 极光 物理AI产业生态联盟”，首批成员覆盖 机器人 本体、世界模型、仿真平台、科研机构及智算云服务等领域。 九章云极董事长方磊在会上表示，AI过去10年学会“说话”，过去3年学会",
+     "source": "东方财富资讯",
+     "zh": "物理AI峰会催化不断！算力基建景气向好 多股业绩倍增可期(名单)"
     },
     {
      "title": "据报道 韩国评估扩大股市稳定基金",
      "link": "http://finance.eastmoney.com/news/1351,202611273941035511.html",
      "pubDate": "Fri, 27 Nov 2026 06:42:22 +0800",
-     "summary": "据报道，韩国评估扩大股市稳定基金。 （文章来源：财联社）",
-     "source": "东方财富股票",
+     "summary": "据报道，韩国评估扩大股市稳定基金。 延伸阅读 韩国居民卖股买房资金量飙涨 韩媒称政府资金大迁移设想落空 “警惕风险传导” 今年，韩国居民卖股票买房的钱突破10万亿韩元（约合人民币496亿元）。 韩国《中央日报》中文网26日报道称，今年1月至10月，韩国 房地产 买入资金中申报的股票、债券、虚拟货币出售款为10.0715万亿韩元。自开始汇总相关资料以来，这是年度累计额首次突破10万亿韩元。 上述报道提到，韩国政府原本推行引导不动产资金流向股市的“资金大迁移”政策，市场走势却反向演变，股市成了楼市的资金来源。 今年6月，韩国 综合 指数一路飙升至9000点上方，股票交易活跃账户数也从2025年底的",
+     "source": "东方财富资讯",
      "zh": "据报道 韩国评估扩大股市稳定基金"
-    },
-    {
-     "title": "固态冲刺量产 场景抢先卡位 锂电产业寻找新增长极",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941005315.html",
-     "pubDate": "Fri, 27 Nov 2026 06:40:49 +0800",
-     "summary": "11月26日，2026（第十六届）高工 锂 电年会的 固态电池 专场座无虚席。上海证券报记者在现场采访了解到，虽然全 固态电池 尚未大规模量产，但很多上市公司、科研机构等参会代表都紧盯与 固态电池 有关的技术、产业、政策等最新动向与趋势研判。 不少上市公司透露了固态 电池 布局最新进展， 亿纬锂能 正开发 脑机接口 固态 电池 ， 国轩高科 计划搭建2GWh示范线， 利元亨 于今年交付了数百兆瓦级全固态 电池 整线设备。记者采访获悉，固态电池预计将率先从人形 机器人 、低空飞行器等差异化场景跑通，再向车端铺开。 固态电池量产仍待闯关 巨湾技研创始人兼CTO黄向东判断，发展固态电池是 锂 电行业",
-     "source": "东方财富股票",
-     "zh": "固态冲刺量产 场景抢先卡位 锂电产业寻找新增长极"
-    },
-    {
-     "title": "以军称空袭黎巴嫩真主党武装训练营目标",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941034640.html",
-     "pubDate": "Fri, 27 Nov 2026 06:38:43 +0800",
-     "summary": "当地时间26日晚间，以色列国防军发表声明说，以军不久前对黎巴嫩南部一处属于黎巴嫩真主党精锐部队“拉德万部队”的训练营实施空袭，摧毁了数十枚火箭弹及发射装置。 黎巴嫩真主党方面暂未作出回应。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "以军称空袭黎巴嫩真主党武装训练营目标"
-    },
-    {
-     "title": "特朗普被指单方面修改北约联合声明俄乌停战责任再起争议",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941034774.html",
-     "pubDate": "Fri, 27 Nov 2026 06:38:31 +0800",
-     "summary": "据美媒Politico报道，美国总统特朗普与北约秘书长吕特周三晚在佛罗里达州海湖庄园会面。双方此前在联合声明中表示，讨论了俄罗斯应避免采取有意或无意扩大俄乌冲突的行动，以及尽快通过和平方式结束冲突的重要性。然而，特朗普数小时后在社交媒体上发布的版本中，额外加入了“乌克兰”一词，将相关表述改为“俄罗斯和乌克兰”都应避免采取此类行动。一名北约官员表示，双方最初发布的版本才是经过正式协商并达成一致的声明，这意味着特朗普随后单方面修改了相关表述。这一措辞调整颇为引人关注。此前几天，乌克兰袭击了停靠在利比亚 港口 的一艘俄罗斯军舰，袭击地点距离基辅数千公里。此次行动尚未受到乌克兰大多数盟友的批评。 （文",
-     "source": "东方财富股票",
-     "zh": "特朗普被指单方面修改北约联合声明俄乌停战责任再起争议"
-    },
-    {
-     "title": "厄尔尼诺叠加高温澳大利亚多地山火风险上升",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941034597.html",
-     "pubDate": "Fri, 27 Nov 2026 06:34:30 +0800",
-     "summary": "澳大利亚多个主要城市，包括墨尔本，未来几个月面临的丛林火灾风险预计将上升。受厄尔尼诺现象等因素影响，今年春季降雨充沛、夏季气温偏高，可能进一步加剧火灾风险。澳大利亚和新西兰消防与应急服务委员会（AFAC）周五发布的一份报告显示， 维多利亚 州东南部大片地区，包括巴拉瑞特、吉朗和本迪戈等城市，预计在12月至明年2月期间面临更高的丛林火灾风险。AFAC首席执行官Rob Webb表示，在预计将出现高于平均水平气温的夏季到来之前，当地已经积累了大量可燃物，包括“森林植被、草地和农作物”。 太平洋 地区强劲的厄尔尼诺天气系统带来了春季强降雨，导致大量植被生长，这也是可燃物增加的原因之一。该天气系统已对从",
-     "source": "东方财富股票",
-     "zh": "厄尔尼诺叠加高温澳大利亚多地山火风险上升"
     },
     {
      "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
@@ -2377,28 +2409,12 @@
      "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
     },
     {
-     "title": "Two Italians killed in drone strike on Kuwait",
-     "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 20:23:24 GMT",
-     "summary": "Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month",
-     "source": "Financial Times",
-     "zh": "Two Italians killed in drone strike on Kuwait"
-    },
-    {
      "title": "全球燃油供应回升，炼油利润跌至数月低点",
      "link": "https://wallstreetcn.com/articles/3786801",
      "pubDate": "Fri, 27 Nov 2026 04:16:24 +0800",
      "summary": "伊朗战争对能源市场的冲击正在退潮。随着全球炼厂开足马力补充供应、中东出口恢复以及石油消费走弱，将原油加工为燃油的利润已跌至数月来最低水平，消费者、企业和央行由此获得了一丝暂时的通胀缓解。 柴油裂解价差是衡量炼油利润的核心指标。据彭博报道，亚洲和欧洲柴油裂解价差已逼近7月以来最低，美国汽油裂解价差回落至战前水平，欧洲汽油裂解价差则跌至2023年以来的三年低点。 裂解价差走弱意味着成品油价格下跌快于原油，但绝对价格仍显著高于战前。这一转变直接影响通胀预期与炼厂盈利。 燃油成本是全球经济和货币政策的关键变量，裂解价差回落有助于缓解价格压力；但对炼油企业而言，这也意味着战时高利润难以持续。 供应恢复与",
      "source": "华尔街见闻",
      "zh": "全球燃油供应回升，炼油利润跌至数月低点"
-    },
-    {
-     "title": "危机频发之际，欧洲央行新领导层浮现：鸽派老将、金融学者与市场专家将如何应对下一场风暴？",
-     "link": "https://wallstreetcn.com/articles/3786802",
-     "pubDate": "Fri, 27 Nov 2026 03:22:53 +0800",
-     "summary": "欧洲央行正迎来一轮关键的人事更迭。经历了疫情、俄乌冲突以及数十年来最严重的通胀冲击后，欧洲货币政策制定者即将进入一个风险更加复杂的阶段：能源价格再度上涨、地缘政治分裂加剧、法国财政压力持续累积，欧元区经济增长韧性也面临考验。 彭博经济研究发布报告，欧洲央行正在成形的新一届领导层，将由西班牙前央行行长Pablo Hernández de Cos出任行长，普林斯顿大学教授Markus Brunnermeier担任首席经济学家，经合组织前首席经济学家Laurence Boone负责市场操作相关事务。 三人的专业背景分别覆盖央行政策、宏观金融研究和市场管理，可能使欧洲央行在应对未来危机时拥有更丰富的政",
-     "source": "华尔街见闻",
-     "zh": "危机频发之际，欧洲央行新领导层浮现：鸽派老将、金融学者与市场专家将如何应对下一场风暴？"
     },
     {
      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
@@ -2425,14 +2441,6 @@
      "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
     },
     {
-     "title": "西北—华东绿电联合交易正式启动",
-     "link": "http://www.eeo.com.cn/2026/1127/1104589.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:31:09 +0800",
-     "summary": "本报讯 （记者杜雨萌）11月26日，西北—华东绿电联合交易启动会在北京召开。 西北—华东绿电联合交易是全国统一电力市场体系建设取得的又一项重要标志性成果。“一次报价、联合交易”以西北—华东绿电起步，经营主体通过一次申报量价曲线，同步形成跨省跨区、省内成交结果，架起两个区域之间一座“绿电桥梁”。联合交易既立足特高压直流通道物理联络条件，也兼顾两地资源禀赋互补的现实需求；既为西北开辟新能源消纳新出...",
-     "source": "经济观察网",
-     "zh": "西北—华东绿电联合交易正式启动"
-    },
-    {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
      "pubDate": "Thu, 26 Nov 2026 18:30:00 GMT",
@@ -2449,28 +2457,12 @@
      "zh": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video"
     },
     {
-     "title": "氢氧化锂期货首日成交53.3亿元",
-     "link": "http://www.eeo.com.cn/2026/1127/1104588.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:17 +0800",
-     "summary": "11月26日，氢氧化锂期货在广州期货交易所（以下简称“广期所”）上市交易，这是继碳酸锂期货及期权上市后，广期所服务锂电行业推出的又一关键品种，预计新能源金属期货板块服务产业的精准性与有效性将得到进一步提升。 《证券日报》记者从广期所获悉，截至11月26日收盘，氢氧化锂期货成交量7.55万手，持仓量1.03万手，成交额53.3亿元，首日运行符合预期。 氢氧化锂是高镍三元正极材料的核心锂源，不仅决定了动力电...",
-     "source": "经济观察网",
-     "zh": "氢氧化锂期货首日成交53.3亿元"
-    },
-    {
-     "title": "我国将加快培育服务贸易发展新动能",
-     "link": "http://www.eeo.com.cn/2026/1127/1104587.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:14 +0800",
-     "summary": "到2035年，全面形成服务贸易高质量发展格局 11月26日，商务部等八部门联合印发《服务贸易发展“十五五”规划》（以下简称《规划》），围绕加快培育服务贸易发展新动能、促进服务贸易数字化智能化绿色化发展、有序推进服务领域开放、提升要素跨境流动便利化水平、优化服务贸易促进体系、完善国内区域布局、拓展国际合作网络等7个方面部署25项重点任务。 同日，商务部新闻发言人何亚东在商务部例行新闻发布会上表示，...",
-     "source": "经济观察网",
-     "zh": "我国将加快培育服务贸易发展新动能"
-    },
-    {
-     "title": "三部门印发《新一代通信网建设实施方案》",
-     "link": "http://www.eeo.com.cn/2026/1127/1104586.shtml",
-     "pubDate": "Fri, 27 Nov 2026 02:26:13 +0800",
-     "summary": "到2030年建成覆盖完善、性能领先的新一代通信网 11月26日，工业和信息化部联合国家网信办、国家发展改革委对外发布《新一代通信网建设实施方案》（以下简称《实施方案》）。《实施方案》提出，到2030年，建成覆盖完善、性能领先的新一代通信网。适时开展6G网络建设，5G-A、万兆光网实现重点区域部署应用，基础网络发展水平持续领先。 新一代通信网是以5G-A/6G、万兆光网、卫星互联网等为核心支撑，以高速泛在、天地...",
-     "source": "经济观察网",
-     "zh": "三部门印发《新一代通信网建设实施方案》"
+     "title": "SAP explores at least 10,000 job cuts",
+     "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
+     "summary": "European software group is latest to restructure as AI hits software sector",
+     "source": "Financial Times",
+     "zh": "SAP explores at least 10,000 job cuts"
     },
     {
      "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
@@ -2487,6 +2479,14 @@
      "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
      "source": "CNBC",
      "zh": "Semiconductor chips are the new oil. Here&apos;s why"
+    },
+    {
+     "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
+     "link": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 12:49:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend"
     }
    ]
   },

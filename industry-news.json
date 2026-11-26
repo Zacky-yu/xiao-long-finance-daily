@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 00:12:05",
+ "generated_at": "2026/11/27 00:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -409,6 +409,14 @@
      "zh": "Agile Analog delivers physical anti-tamper protection for datacentre chip"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -487,14 +495,6 @@
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "How to Renovate Your Home Without Moving Out During the Project",
+     "link": "https://roboticsandautomationnews.com/2026/11/26/how-to-renovate-your-home-without-moving-out-during-the-project/107760/",
+     "pubDate": "Thu, 26 Nov 2026 16:15:45 +0000",
+     "summary": "Renovating your home while still living in it sounds like a good way to save money. No temporary rental, no moving your furniture twice, no figuring out where the dog is supposed to sleep. Sounds easy enough, right? Well, anybody who’s lived through a major renovation knows there’s a little more to ",
+     "source": "Robotics & Automation",
+     "zh": "How to Renovate Your Home Without Moving Out During the Project"
+    },
     {
      "title": "Lute raises $20 million to give robots a sense of touch",
      "link": "https://roboticsandautomationnews.com/2026/11/26/lute-raises-20-million-to-give-robots-a-sense-of-touch/107756/",
@@ -543,14 +551,6 @@
      "summary": "Universal Robots and Inbolt have integrated AI-powered 3D vision guidance directly into Universal Robots’ latest generation of collaborative industrial robots, enabling manufacturers to automate a wider range of tasks without additional computing hardware. Announced at the SPS 2026 exhibition in Nur",
      "source": "Robotics & Automation",
      "zh": "Universal Robots brings Inbolt’s 3D AI vision directly onto its Gen 7 robots"
-    },
-    {
-     "title": "Volvo Cars begins training Hexagon humanoid robots for factory work",
-     "link": "https://roboticsandautomationnews.com/2026/11/26/volvo-cars-begins-training-hexagon-humanoid-robots-for-factory-work/107733/",
-     "pubDate": "Thu, 26 Nov 2026 11:49:48 +0000",
-     "summary": "Volvo Cars has begun training and testing Hexagon Robotics’ AEON humanoid robots at its manufacturing plant in Ghent, Belgium, with the aim of introducing the machines into production operations by mid-2027. The Ghent facility is the first Volvo Cars plant to trial humanoid robots, which are being t",
-     "source": "Robotics & Automation",
-     "zh": "Volvo Cars begins training Hexagon humanoid robots for factory work"
     },
     {
      "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "France triples planned renewable energy auction volume to 1.5 GW",
+     "link": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
+     "pubDate": "Thu, 26 Nov 2026 16:23:59 +0000",
+     "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference price for calculating payments to generators. The post France triples planned renewa",
+     "source": "pv magazine",
+     "zh": "France triples planned renewable energy auction volume to 1.5 GW"
+    },
+    {
+     "title": "PROJECT ROUNDUP: Scatec withdraws 288MW solar project from REIPPPP, construction operations in US, Italy",
+     "link": "https://www.pv-tech.org/project-roundup-scatec-withdraws-288mw-solar-project-from-reipppp-construction-operations-in-us-italy/",
+     "pubDate": "Thu, 26 Nov 2026 16:09:53 +0000",
+     "summary": "Norwegian independent power producer (IPP) Scatec has withdrawn a 288MW solar PV project from South Africa’s Renewable Energy Independent Power Producer Procurement Programme (REIPPPP) state procurement scheme and completed construction on a 126MW solar PV project through its local subsidiary. Lyra ",
+     "source": "PV Tech",
+     "zh": "PROJECT ROUNDUP: Scatec withdraws 288MW solar project from REIPPPP, construction operations in US, Italy"
+    },
+    {
      "title": "Why Copper's Thanksgiving Bounce May Not Be the Start of Anything",
      "link": "https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html",
      "pubDate": "Thu, 26 Nov 2026 10:00:00 -0600",
@@ -985,14 +1001,6 @@
      "zh": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026"
     },
     {
-     "title": "Estonian solar park energized with 55 MW/250 MWh battery",
-     "link": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
-     "pubDate": "Thu, 26 Nov 2026 12:30:00 +0000",
-     "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar park energized with 55 MW/250 MWh battery appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Estonian solar park energized with 55 MW/250 MWh battery"
-    },
-    {
      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
      "pubDate": "Thu, 26 Nov 2026 06:30:00 -0600",
@@ -1079,14 +1087,6 @@
      "summary": "Costs remain high and tech solutions are incomplete, but experts say careful utility program design and a new generation of vehicle charging solutions will bring value to both consumers and the grid.",
      "source": "Utility Dive",
      "zh": "What is holding back bidirectional EV charging as a grid resource?"
-    },
-    {
-     "title": "Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout",
-     "link": "https://www.utilitydive.com/news/cheyenne-light-microsoft-google-data-center-bright-horizon/875739/",
-     "pubDate": "Wed, 25 Nov 2026 10:00:39 -0500",
-     "summary": "Cheyenne Light &mdash; with a 439-MW peak load record &mdash; is working on a 3-GW near-term data center pipeline, with an additional 2.5 GW in emerging opportunities, per company officials.",
-     "source": "Utility Dive",
-     "zh": "Bright Horizon utility lands Microsoft data center deals amid Wyoming buildout"
     }
    ]
   },
@@ -1297,20 +1297,20 @@
    "total": 6,
    "items": [
     {
-     "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
-     "source": "Space.com",
-     "zh": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live"
-    },
-    {
      "title": "Cloudy Thanksgiving spoiling your stargazing? These star projectors are on offer for Black Friday",
      "link": "https://www.space.com/stargazing/skywatching-kit/cloudy-thanksgiving-spoiling-your-stargazing-these-star-projectors-are-on-offer-for-black-friday",
      "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
      "summary": "From night lights to educational home planetariums, I've rounded up the biggest Black Friday savings on star projectors, including a major saving on the coolest star projector I've ever tested.",
      "source": "Space.com",
      "zh": "Cloudy Thanksgiving spoiling your stargazing? These star projectors are on offer for Black Friday"
+    },
+    {
+     "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+     "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
+     "source": "Space.com",
+     "zh": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live"
     },
     {
      "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
@@ -1417,30 +1417,6 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1463,14 +1439,6 @@
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1497,14 +1465,6 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1529,12 +1489,20 @@
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
+    },
+    {
+     "title": "The sweet spot for constellation size",
+     "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+     "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "The sweet spot for constellation size"
     }
    ]
   },
@@ -1753,6 +1721,46 @@
    "total": 18,
    "items": [
     {
+     "title": "拖拉机市场，装得下长城吗？",
+     "link": "https://www.huxiu.com/article/4908806.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 00:24:50 +0800",
+     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月26日，魏建军到访珠海格力电器总部。参观临近尾声，董明珠提了一个建议：长城已经掌握了成熟的汽车核心技术，可以考虑进入农业装备领域，比如造拖拉机。 魏建军回应，长城目前还没有农业相关产品，会认真考虑。 就在两人见面的前一天，全球农机巨头约翰迪尔公布了2026财年业绩：全年净利润48.6亿美元，折合人民币约340亿元。 一边是利润空间持续受压的汽车工业，一边是能诞生数百亿元利润的农业装备市场。董明珠的建议，或许给中国汽车行业提供了一个值得探讨的新方向。 过去十年，中国车企在发动机、混动、电驱和智能驾驶上投入了海量研发资金。拖拉机同样需要",
+     "source": "虎嗅",
+     "zh": "拖拉机市场，装得下长城吗？"
+    },
+    {
+     "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+     "link": "https://news.ycombinator.com/item?id=50656763",
+     "pubDate": "Thu, 26 Nov 2026 16:16:41 +0000",
+     "summary": "Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it. Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc Comments URL: https://news.ycombinator.com/i",
+     "source": "Hacker News",
+     "zh": "Ask HN: Any courses/products by indie makers worth getting today?"
+    },
+    {
+     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+     "pubDate": "Thu, 26 Nov 2026 16:10:24 +0000",
+     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "从世界工厂到全球工程共同体：中国工业化的下一程",
+     "link": "https://www.huxiu.com/article/4908805.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 00:10:15 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：李立 笔者本科和硕士毕业于清华大学电子工程专业，从事工业软件与嵌入式相关研发、全球化业务多年，产品销往多个国家。常年奔波世界各地，和不同国家的本土工程师、产业从业者大量实地交流。 正是在这样的跨地域接触中，既看到中国制造业积累起来的巨大优势，也切实体会到很多国家工程师在产品开发上遇到的现实瓶颈，由此形成了“中国工业化的下一程”的思考和设想。 四十余年来，中国深度嵌入全球产业分工网络，造就了庞大的制造体量、完备的产业配套体系与持续成长的工程研发实力。但伴随要素成本抬升、全球贸易格局变化，传统制造的利润空间不断被挤压。在完成大规模工业化建设之后，中国应当以",
+     "source": "虎嗅",
+     "zh": "从世界工厂到全球工程共同体：中国工业化的下一程"
+    },
+    {
+     "title": "UK workers at Rockstar Games vote against a union recognition deal, with only 25% voting in favor; source: 1,544 employees, or 93.2% of eligible workers, voted (Chris Kerr/Vertical Slice)",
+     "link": "https://www.techmeme.com/261126/p21#a261126p21",
+     "pubDate": "Thu, 26 Nov 2026 11:10:01 -0500",
+     "summary": "Chris Kerr / Vertical Slice : UK workers at Rockstar Games vote against a union recognition deal, with only 25% voting in favor; source: 1,544 employees, or 93.2% of eligible workers, voted &nbsp; &mdash;&nbsp; UK workers at Grand Theft Auto maker Rockstar Games have voted against a union recognitio",
+     "source": "Techmeme",
+     "zh": "UK workers at Rockstar Games vote against a union recognition deal, with only 25% voting in favor; source: 1,544 employees, or 93.2% of eligible workers, voted (Chris Kerr/Vertical Slice)"
+    },
+    {
      "title": "我终于发现了世界上最好的工作",
      "link": "https://www.huxiu.com/article/4908804.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 00:06:43 +0800",
@@ -1783,14 +1791,6 @@
      "summary": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过一年曾看过色情；无子女女性明确表示不打算生育的比例过去十年间翻了一番；等等。",
      "source": "Solidot",
      "zh": "英国人性生活频率大幅下降"
-    },
-    {
-     "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-     "pubDate": "Thu, 26 Nov 2026 15:38:43 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
     },
     {
      "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
@@ -1844,7 +1844,7 @@
      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
      "link": "https://michidk.github.io/sidebyside/",
      "pubDate": "Thu, 26 Nov 2026 15:00:06 +0000",
-     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 18 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Three Linux VMs in a browser tab, each running a different browser"
     },
@@ -1884,7 +1884,7 @@
      "title": "Tell HN: Happy Thanksgiving",
      "link": "https://news.ycombinator.com/item?id=50655664",
      "pubDate": "Thu, 26 Nov 2026 14:26:54 +0000",
-     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 180 # Comments: 49",
+     "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 260 # Comments: 76",
      "source": "Hacker News",
      "zh": "Tell HN: Happy Thanksgiving"
     },
@@ -1900,7 +1900,7 @@
      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
      "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
      "pubDate": "Thu, 26 Nov 2026 13:48:11 +0000",
-     "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 82 # Comments: 26",
+     "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831 Comments URL: https://news.ycombinator.com/item?id=50655278 Points: 110 # Comments: 35",
      "source": "Hacker News",
      "zh": "45°C inlets just killed the chiller. Most people haven't noticed yet"
     },
@@ -1945,14 +1945,6 @@
      "zh": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic"
     },
     {
-     "title": "The Dutch government says it will resist the US&apos; planned Match Act, which aims to restrict ASML&apos;s sales to China, calling the proposal a threat to the company (Bloomberg)",
-     "link": "https://www.techmeme.com/261126/p15#a261126p15",
-     "pubDate": "Thu, 26 Nov 2026 07:50:19 -0500",
-     "summary": "Bloomberg : The Dutch government says it will resist the US' planned Match Act, which aims to restrict ASML's sales to China, calling the proposal a threat to the company &nbsp; &mdash;&nbsp; The Dutch government said it will resist US plans to further restrict ASML Holding NV's sales to China, call",
-     "source": "Techmeme",
-     "zh": "The Dutch government says it will resist the US&apos; planned Match Act, which aims to restrict ASML&apos;s sales to China, calling the proposal a threat to the company (Bloomberg)"
-    },
-    {
      "title": "10 Best Office Chairs of 2026—We Tested 70 to Pick Them",
      "link": "https://www.wired.com/gallery/best-office-chairs/",
      "pubDate": "Thu, 26 Nov 2026 12:35:00 +0000",
@@ -1967,30 +1959,6 @@
      "summary": "一场各取所需的双向奔赴。",
      "source": "钛媒体",
      "zh": "信邦智能拟斥28.56亿“蛇吞象”，英迪芯微第一大股东退出套现9.61亿"
-    },
-    {
-     "title": "Draining peatlands is responsible for a few percent of our global warming",
-     "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-     "pubDate": "Thu, 26 Nov 2026 12:15:42 +0000",
-     "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
-     "source": "Ars Technica",
-     "zh": "Draining peatlands is responsible for a few percent of our global warming"
-    },
-    {
-     "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
-     "link": "https://www.wired.com/gallery/best-magsafe-wallets/",
-     "pubDate": "Thu, 26 Nov 2026 12:15:00 +0000",
-     "summary": "The slim, convenient magnetic wallets you’ll actually want to stick to the back of your iPhone.",
-     "source": "WIRED",
-     "zh": "The Best MagSafe Wallets for Your Everyday Carry (2026)"
-    },
-    {
-     "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-     "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-     "pubDate": "Thu, 26 Nov 2026 12:00:14 +0000",
-     "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
-     "source": "Ars Technica",
-     "zh": "From minimalist to maximalist: Ars staffers show off their home offices"
     }
    ]
   },
@@ -2007,6 +1975,14 @@
      "summary": "The unlocked Galaxy S26 FE is 29% off on Amazon this Black Friday season, with a 6.7-inch 120Hz display and Galaxy AI.",
      "source": "Android Authority",
      "zh": "Galaxy S26 FE drops to a record low with $200 off"
+    },
+    {
+     "title": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery",
+     "link": "https://www.gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php",
+     "pubDate": "Thu, 26 Nov 2026 17:07:02 +0100",
+     "summary": "Barely a day after its full specifications leaked online, the HMD Rise has officially launched in India. The phone comes with features including a 5,000mAh battery and a single 13MP rear camera. The affordable 4G handset is powered by a Unisoc 9863A octa-core chipset, which is paired with 4GB of RAM",
+     "source": "GSMArena",
+     "zh": "HMD Rise goes official with a 6.51-inch display and a 5,000mAh battery"
     },
     {
      "title": "MacBook Neo vs MacBook Air: Which should you buy right now?",
@@ -2201,14 +2177,6 @@
      "zh": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center"
     },
     {
-     "title": "Here's what the vanilla Huawei Osta O1 is rumored to bring",
-     "link": "https://www.gsmarena.com/heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642.php",
-     "pubDate": "Thu, 26 Nov 2026 10:52:02 +0100",
-     "summary": "Huawei launched its Osta sub-brand last week with the Osta O1 Pro, which is essentially a rebadged Pura X View. That won't be the only phone in the lineup for long, though. Today Digital Chat Station on Weibo has shared some details about the vanilla Osta O1. According to DCS, the Osta O1 will have ",
-     "source": "GSMArena",
-     "zh": "Here's what the vanilla Huawei Osta O1 is rumored to bring"
-    },
-    {
      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
      "link": "https://sspai.com/post/116773",
      "pubDate": "Thu, 26 Nov 2026 17:30:00 +0800",
@@ -2249,36 +2217,68 @@
    "total": 13,
    "items": [
     {
+     "title": "LICT reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676850-lict-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:29:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "LICT reports Q3 results"
+    },
+    {
+     "title": "Rocky Mountain Liquor reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676849-rocky-mountain-liquor-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:24:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rocky Mountain Liquor reports Q3 results"
+    },
+    {
+     "title": "Impauer Technologies Inc. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676848-impauer-technologies-inc-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:18:54 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Impauer Technologies Inc. reports Q3 results"
+    },
+    {
+     "title": "Amplify XRP 3% Monthly Option Income ETF declares $0.1497 dividend",
+     "link": "https://seekingalpha.com/news/4676847-amplify-xrp-3-percent-monthly-option-income-etf-declares-0_1497-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:17:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amplify XRP 3% Monthly Option Income ETF declares $0.1497 dividend"
+    },
+    {
+     "title": "Amplify TLT US Treasury 12% Option Income ETF declares $0.2104 dividend",
+     "link": "https://seekingalpha.com/news/4676846-amplify-tlt-us-treasury-12-percent-option-income-etf-declares-0_2104-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:16:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amplify TLT US Treasury 12% Option Income ETF declares $0.2104 dividend"
+    },
+    {
+     "title": "Devonian Health Group GAAP EPS of -C$0.23, distribution revenue of C$0.07M",
+     "link": "https://seekingalpha.com/news/4676845-devonian-health-group-gaap-eps-of-023-distribution-revenue-of-007m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 11:15:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Devonian Health Group GAAP EPS of -C$0.23, distribution revenue of C$0.07M"
+    },
+    {
      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
      "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-     "pubDate": "Thu, 26 Nov 2026 16:05:47 GMT",
+     "pubDate": "Thu, 26 Nov 2026 16:12:47 GMT",
      "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
      "source": "CNBC",
      "zh": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify"
     },
     {
-     "title": "Silver X Mining GAAP EPS of -$0.01, revenue of $10.1M",
-     "link": "https://seekingalpha.com/news/4676836-silver-x-mining-gaap-eps-of-0_01-revenue-of-10_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 11:04:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Silver X Mining GAAP EPS of -$0.01, revenue of $10.1M"
-    },
-    {
-     "title": "Rogers Sugar Inc. Non-GAAP EPS of C$0.11, revenue of C$339.5M",
-     "link": "https://seekingalpha.com/news/4676835-rogers-sugar-inc-non-gaap-eps-of-c011-revenue-of-c3395m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 11:01:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rogers Sugar Inc. Non-GAAP EPS of C$0.11, revenue of C$339.5M"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+     "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
+     "link": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 16:02:36 GMT",
+     "summary": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’",
+     "source": "Financial Times",
+     "zh": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB"
     },
     {
      "title": "民营房企首单商业不动产REITs落地 业内：有助于提振民营房企信心，盘活存量商业物业",
@@ -2289,44 +2289,12 @@
      "zh": "民营房企首单商业不动产REITs落地 业内：有助于提振民营房企信心，盘活存量商业物业"
     },
     {
-     "title": "Brookstone Yield ETF declares $0.4246 dividend",
-     "link": "https://seekingalpha.com/news/4676834-brookstone-yield-etf-declares-0_4246-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 10:54:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookstone Yield ETF declares $0.4246 dividend"
-    },
-    {
-     "title": "Brookstone Value Stock ETF declares $0.1429 dividend",
-     "link": "https://seekingalpha.com/news/4676833-brookstone-value-stock-etf-declares-0_1429-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 10:54:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookstone Value Stock ETF declares $0.1429 dividend"
-    },
-    {
-     "title": "Brookstone Ultra-Short Bond ETF declares $0.1866 dividend",
-     "link": "https://seekingalpha.com/news/4676832-brookstone-ultra-short-bond-etf-declares-0_1866-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 10:53:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookstone Ultra-Short Bond ETF declares $0.1866 dividend"
-    },
-    {
      "title": "中科曙光发布全新融合全闪存储系统 首创SAN+NAS+KV原生融合架构",
      "link": "http://finance.eastmoney.com/news/1354,202611263940995379.html",
      "pubDate": "Thu, 26 Nov 2026 23:53:37 +0800",
      "summary": "上证报中国证券网讯（记者年悦）据 中科曙光 11月26日消息，公司在2026中国数据与存储峰会上发布全球首个SAN+NAS+KV原生多协议融合全闪存储系统——FlashNexusNAS 3.0。 从交易数据库、文件共享到AI推理，不同负载对存储的需求日益多元，分散建设容易造成资源闲置和管理负担。 中科曙光 集中式存储产品部总经理郭照斌在接受记者采访时表示，原生融合的核心价值在于降低物理资源成本、简化使用与运维，让一套存储承担更多业务。 具体而言，FlashNexusNAS 3.0通过统一存储引擎和高性能全闪资源池，实现SAN、NAS与KV原生融合，容量按需调配、运维统一管理，块与文件业务还可共",
      "source": "东方财富股票",
      "zh": "中科曙光发布全新融合全闪存储系统 首创SAN+NAS+KV原生融合架构"
-    },
-    {
-     "title": "Brookstone Opportunities ETF declares $0.1084 dividend",
-     "link": "https://seekingalpha.com/news/4676831-brookstone-opportunities-etf-declares-0_1084-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 10:53:11 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Brookstone Opportunities ETF declares $0.1084 dividend"
     },
     {
      "title": "小鹏副董事长透露：IRON机器人售价与电动汽车相当，最快明年Q2开卖",
@@ -2393,14 +2361,6 @@
      "zh": "Anthropic到底贵不贵？同一机构罕见多空互撕！"
     },
     {
-     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:30:00 GMT",
-     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-     "source": "MarketWatch",
-     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
-    },
-    {
      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
      "pubDate": "Thu, 26 Nov 2026 15:28:26 GMT",
@@ -2415,14 +2375,6 @@
      "summary": "Does America really face a food affordability crisis?",
      "source": "Financial Times",
      "zh": "Bringing data to the Thanksgiving table"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 15:13:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
@@ -2473,20 +2425,36 @@
      "zh": "OPEC+：拟维持现有产量配额至1月，本周日将商讨2027年产量目标"
     },
     {
-     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 14:35:00 GMT",
-     "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-     "source": "MarketWatch",
-     "zh": "This retired professor has reinvented himself — as a Taylor Swift scholar"
-    },
-    {
      "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
      "link": "http://finance.eastmoney.com/news/1351,202611263940954067.html",
      "pubDate": "Thu, 26 Nov 2026 22:31:45 +0800",
      "summary": "记者今天（26日）从 工商银行 等商业 银行 了解到，在中国人民 银行 近日会同金融监管总局、中国证监会等部门明确将股票回购增持再贷款政策由阶段性安排转为长期制度性安排，并进一步下调再贷款利率之后， 工商银行 、 农业银行 、 中国银行 、 建设银行 等多家 银行 迅速落实有关部署，加大股票回购增持贷款投放力度。 目前，四大商业银行已签订上市公司股票回购增持贷款合同超6000亿元。 工商银行 股票回购增持贷款业务已在全国推广落地，北京、上海、江苏、浙江、广东、广西、新疆等多家分行因地制宜，打造区域特色的上市公司高效服务支持模式。 目前， 工商银行 已为超两百家上市公司提供股票回购增持贷款服务，",
      "source": "东方财富资讯",
      "zh": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元"
+    },
+    {
+     "title": "BofE says firms need to invest to keep pace with AI threat",
+     "link": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 14:31:00 GMT",
+     "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
+     "source": "Finextra",
+     "zh": "BofE says firms need to invest to keep pace with AI threat"
+    },
+    {
+     "title": "国内商品期货夜盘开盘多数上涨",
+     "link": "http://www.eeo.com.cn/2026/1126/1104550.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:13:10 +0800",
+     "summary": "国内商品期货夜盘开盘多数上涨，沪银涨3.89%，乙二醇涨2.89%，沪锌涨2.4%，沪镍涨超2%，沪锡涨2%，焦煤涨1.77%，液化气跌0.67%，纯碱跌0.5%。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "国内商品期货夜盘开盘多数上涨"
+    },
+    {
+     "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
+     "link": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 13:59:00 GMT",
+     "summary": "The founders of cryptocurrency trading company NovaTechFx have been ordered by a US court to pay $1.37 billion for defrauding hundreds of thousands of investors worldwide through a crypto Ponzi scheme that targeted Haitian communities.",
+     "source": "Finextra",
+     "zh": "NY Attorney General wins $1.4bn judgement against crypto scammers"
     }
    ]
   },
@@ -2585,12 +2553,12 @@
      "zh": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests"
     },
     {
-     "title": "James Webb and Euclid telescopes discover record-breaking black hole at the edge of the universe",
+     "title": "Earliest monster black hole found at the universe's edge — pushing theories to their limits",
      "link": "https://www.livescience.com/space/astronomy/james-webb-and-euclid-telescopes-discover-record-breaking-quasar-at-the-edge-of-the-universe",
      "pubDate": "Wed, 25 Nov 2026 20:07:13 +0000",
      "summary": "Scientists have discovered the earliest-known quasar lurking in the ancient universe — and it's growing at a slower rate than scientists believed possible.",
      "source": "Live Science",
-     "zh": "James Webb and Euclid telescopes discover record-breaking black hole at the edge of the universe"
+     "zh": "Earliest monster black hole found at the universe's edge — pushing theories to their limits"
     },
     {
      "title": "A cosmically close supernova may spill the stellar explosion’s secrets",

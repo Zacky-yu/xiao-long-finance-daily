@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 17:51:44",
+ "generated_at": "2026/11/27 18:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+     "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
+     "pubDate": "Fri, 27 Nov 2026 09:57:17 +0000",
+     "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60...",
+     "source": "Electrek",
+     "zh": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game"
+    },
+    {
      "title": "Nio Firefly reaches 100,000 cumulative deliveries, about 19 months after market launch",
      "link": "https://cnevpost.com/2026/11/27/nio-firefly-reaches-100000-cumulative-deliveries/",
      "pubDate": "Fri, 27 Nov 2026 09:47:43 +0000",
@@ -744,14 +752,6 @@ window.INDUSTRY_DATA = {
      "summary": "Happy Thanksgiving everyone! As Amazon’s full-swing Black Friday Sale event continues, you can find a ton of amazing Green Deals during the holiday. We’re seeing a bunch of the best prices of the year across EVs, e-bikes, power stations and whole-home backup systems, electric tools, and more. It’s t",
      "source": "Electrek",
      "zh": "Thanksgiving 2026 Green Deals Hub: EVs, e-bikes, power stations, tools, appliances, more"
-    },
-    {
-     "title": "These are the e-bike sales you should really care about this Black Friday",
-     "link": "https://electrek.co/2026/11/26/these-are-the-e-bike-sales-you-should-really-care-about-this-black-friday/",
-     "pubDate": "Thu, 26 Nov 2026 13:31:29 +0000",
-     "summary": "It’s that time of year again; Black Friday approaches! And while the e-bike sales have been pretty good all month, there’s no better day than today to find an amazing deal on a new way around your city (or a fitness e-bike, leisure e-bike, cargo e-bike, etc…)! A lot of sites will throw a lot of affi",
-     "source": "Electrek",
-     "zh": "These are the e-bike sales you should really care about this Black Friday"
     },
     {
      "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project",
+     "link": "https://www.pv-magazine.com/2026/11/27/tongwei-signs-846-mw-module-deal-for-romanias-dama-solar-project/",
+     "pubDate": "Fri, 27 Nov 2026 10:00:00 +0000",
+     "summary": "The agreement brings Tongwei’s TNC 3.0 modules to Romania’s 1.36 GWp Dama Solar development, which is expected to generate around 1,800 GWh of electricity annually. The post Tongwei signs 846 MW module deal for Romania’s Dama Solar project appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Tongwei signs 846 MW module deal for Romania’s Dama Solar project"
+    },
+    {
+     "title": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering",
+     "link": "https://www.pv-magazine.com/2026/11/27/hong-kong-researchers-build-27-04-efficient-perovskite-solar-cell-via-trans-interface-engineering/",
+     "pubDate": "Fri, 27 Nov 2026 09:57:52 +0000",
+     "summary": "Researchers in Hong Kong have developed vertically aligned nanolinks that penetrate both the perovskite absorber and the charge transport layer, improving charge transfer and interfacial mechanical reliability. Around 92% of the tested devices retained at least 80% of their initial efficiency after ",
+     "source": "pv magazine",
+     "zh": "Hong Kong researchers build 27.04%-efficient perovskite solar cell via trans-interface engineering"
+    },
+    {
      "title": "Kenya records $576 million in Chinese solar cell imports from January-October",
      "link": "https://www.pv-magazine.com/2026/11/27/kenya-records-576-million-in-chinese-solar-cell-imports-from-january-october/",
      "pubDate": "Fri, 27 Nov 2026 09:48:35 +0000",
@@ -920,22 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "See more from Canary Media’s “Chart of the Week” column . Solar energy is poised to become the No. 2 source of electricity in China, capping off a remarkable ascent over the last decade. Hydropower has historically been the runner-up on China’s grid — a distant second to coal, which provides more th",
      "source": "Canary Media",
      "zh": "Solar is coming for the No. 2 spot on China’s grid"
-    },
-    {
-     "title": "Estonia switches on 244 MW of solar",
-     "link": "https://www.pv-magazine.com/2026/11/27/estonia-switches-on-244-mw-of-solar/",
-     "pubDate": "Fri, 27 Nov 2026 08:24:40 +0000",
-     "summary": "Work is now underway to add a 143 MW/294 MWh battery energy storage system at the Risti solar park in western Estonia. The post Estonia switches on 244 MW of solar appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Estonia switches on 244 MW of solar"
-    },
-    {
-     "title": "Reactive UV additive improves back-contact solar module durability",
-     "link": "https://www.pv-magazine.com/2026/11/27/reactive-uv-additive-improves-back-contact-solar-module-durability/",
-     "pubDate": "Fri, 27 Nov 2026 08:11:48 +0000",
-     "summary": "A research team tested a UV-converting encapsulant designed to preserve the film’s electrical insulation and moisture barrier. After 192 hours of potential-induced degradation testing, mini-modules using the film lost 4.11% of their power. The post Reactive UV additive improves back-contact solar mo",
-     "source": "pv magazine",
-     "zh": "Reactive UV additive improves back-contact solar module durability"
     },
     {
      "title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "SAP confirms security incident after suspicious GitHub activity",
+     "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+     "pubDate": "Fri, 27 Nov 2026 04:56:36 -0500",
+     "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+     "source": "BleepingComputer",
+     "zh": "SAP confirms security incident after suspicious GitHub activity"
+    },
+    {
      "title": "100,000 Potentially Impacted by Colorado Data Breach",
      "link": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
      "pubDate": "Fri, 27 Nov 2026 09:30:54 +0000",
@@ -1640,14 +1648,6 @@ window.INDUSTRY_DATA = {
      "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’"
-    },
-    {
-     "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-     "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-     "pubDate": "Thu, 26 Nov 2026 10:23:28 -0500",
-     "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
-     "source": "BleepingComputer",
-     "zh": "Remus malware steals Gmail messages via fake Google Sheets extension"
     },
     {
      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
@@ -1754,6 +1754,118 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The Best Black Friday Streaming Deals (2026): Apple TV, Disney, Paramount, and More",
+     "link": "https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 10:04:47 +0000",
+     "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Streaming Deals (2026): Apple TV, Disney, Paramount, and More"
+    },
+    {
+     "title": "‘It’s broken people's normalcy bias’: The UK Goes Fully Prep Mode",
+     "link": "https://www.wired.com/story/its-broken-peoples-normalcy-bias-the-uk-goes-fully-prep-mode/",
+     "pubDate": "Fri, 27 Nov 2026 10:00:00 +0000",
+     "summary": "As the government warns people to stockpile for extreme weather events and cyber attacks cripple critical infrastructure across Europe, UK preppers are watching their cause go mainstream.",
+     "source": "WIRED",
+     "zh": "‘It’s broken people's normalcy bias’: The UK Goes Fully Prep Mode"
+    },
+    {
+     "title": "华硕 XG27ACMSR 显示器开售：QHD 360Hz / FHD 420Hz / HD 640Hz，2199 元",
+     "link": "https://www.ithome.com/1/033/627.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:59:13 GMT",
+     "summary": "IT之家 11 月 27 日消息，华硕 (ASUS) 显示器新品 ROG Strix XG27ACMSR 即将于今日 20:00 开售。其基于 27\" Fast IPS 雾面面板， 支持 QHD 360Hz / FHD 420Hz / HD 640Hz ，价格为 2,199 元。 京东 华硕 XG27ACMSR 显示器 2199 元 直达链接 XG27ACMSR 获得 VESA DisplayHDR 400 认证，静态对比度 1100:1；灰阶 (GtG) 响应时间低至 0.3ms； 色域 100% sRGB / 95% DCI-P3 ；支持 ELMB SYNC。 其配备 1 个 Displa",
+     "source": "IT之家",
+     "zh": "华硕 XG27ACMSR 显示器开售：QHD 360Hz / FHD 420Hz / HD 640Hz，2199 元"
+    },
+    {
+     "title": "乘联分会崔东树：2026 年 10 月中国汽车进口 2.3 万辆，同比下降 48%",
+     "link": "https://www.ithome.com/1/033/626.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:56:58 GMT",
+     "summary": "IT之家 11 月 27 日消息，乘联分会秘书长崔东树今日发文，2026 年 10 月进口车进口 2.3 万辆，同比下降 48%，环比增长 8%。 2026 年 1-10 月进口汽车 31 万辆，同比下降 23%。今年汽车进口结构中的 乘用车占到超 99% 的绝对主力地位 ，如果包含轻卡中的皮卡，则乘用车数量占比更高。 2026 年 1-10 月进口新能源车占比下降到 2%，纯电动较去年有大幅下降， 燃油乘用车仍是绝对主力 。 IT之家获悉，中国乘用车的进口国别仍以日本、德国、英国、斯洛伐克、美国等为核心，近期日本进口表现剧烈变化，10 月的日本车进口损失较大。 崔东树表示， 目前进口车主要靠",
+     "source": "IT之家",
+     "zh": "乘联分会崔东树：2026 年 10 月中国汽车进口 2.3 万辆，同比下降 48%"
+    },
+    {
+     "title": "支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等",
+     "link": "https://www.ithome.com/1/033/625.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:56:11 GMT",
+     "summary": "IT之家 11 月 27 日消息，支付宝今日发布“支付宝车载助手 3.0”，官方称其为 AI 原生车载智能体，让汽车座舱从“会聊天”升级到“能办事”。 IT之家从官方信息获悉，目前已有 80 多个汽车品牌与支付宝车载助手 3.0 达成定点合作， 比亚迪、理想、奇瑞、神行者、东风奕派、东风风神、深蓝、北汽极狐 等品牌的相关车型陆续量产交付，极氪等多个品牌将在广州车展后启动 OTA 升级。 据介绍， 点外卖、购电影票、加油、高速通行 等服务正在进入汽车座舱。用户无需反复打开不同 App、搜索服务或手动查单，从语音提出需求到完成下单、支付，车载助手可一站式完成。 官方举例称，车辆发现油量不足时会主动",
+     "source": "IT之家",
+     "zh": "支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等"
+    },
+    {
+     "title": "星链的对手终于来了？",
+     "link": "https://www.huxiu.com/article/4909003.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 17:56:09 +0800",
+     "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 世界上已经有了一张覆盖全球大部分地区的卫星互联网，为什么还要花费巨资，再建几张？ 11月24日，欧洲最大的卫星工厂在比利时正式启用，设计年产能约500颗。次日，美国联邦通信委员会（FCC）附条件批准SpaceX部署至多100万颗太空算力卫星。11月26日，中国三部门公布《新一代通信网建设实施方案》，提出到2030年，低轨卫星互联网系统基本建成，空间网络形成全球服务能力。 当马斯克开始筹划如何将算力搬上太空，中国和欧洲也在加速建设自己的空间通信网络。 截至今年10月初，星链已经拥有超过1.1万颗在轨卫星。对于后来者而言，更难追赶的是这些卫星背后的工业",
+     "source": "虎嗅",
+     "zh": "星链的对手终于来了？"
+    },
+    {
+     "title": "The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off",
+     "link": "https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 09:55:09 +0000",
+     "summary": "The best Black Friday TV deals are here. Snag up to 53 percent off some of the best WIRED-tested TVs from TCL, Samsung, Hisense, and more ahead of the holidays.",
+     "source": "WIRED",
+     "zh": "The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off"
+    },
+    {
+     "title": "OpenAI 和Anthropic 在招什么样的营销人才？",
+     "link": "https://www.huxiu.com/article/4909004.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 17:55:08 +0800",
+     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空，原文标题：《OpenAI 和 Anthropic 在招什么样的营销人才？》 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing&",
+     "source": "虎嗅",
+     "zh": "OpenAI 和Anthropic 在招什么样的营销人才？"
+    },
+    {
+     "title": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存",
+     "link": "https://www.ithome.com/1/033/624.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:54:37 GMT",
+     "summary": "IT之家 11 月 27 日消息，韩媒 Economy Tribune 当地时间今日爆料称， Google（谷歌）计划为其第 10 代 TPU 芯片配备 512GB 的定制 HBM5 内存 。 谷歌 TPU 是当前最主要的 AI ASIC 产品，其规格可作为窥视未来 AI 芯片竞争的窗口。 从各位消息人士的近期泄露来看， TPU 10 当下指的是代号 \"Quillfish\" 的项目 ，预计由联发科技 (MediaTek) 负责设计服务工作，有望继续采用 Intel（英特尔）的 EMIB-T 先进封装，量产时间点落在 2029 年。由于还有约 3 年的时间，一切情况都可能发生变化。 谷歌近期在原",
+     "source": "IT之家",
+     "zh": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存"
+    },
+    {
+     "title": "20 Best Black Friday Tech Deals (2026)",
+     "link": "https://www.wired.com/story/black-friday-tech-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 09:53:31 +0000",
+     "summary": "Why pay more? The best Black Friday tech deals offer deep discounts on great WIRED-tested gear.",
+     "source": "WIRED",
+     "zh": "20 Best Black Friday Tech Deals (2026)"
+    },
+    {
+     "title": "长城发布全球首个量产大电量真智能 HEV 架构“Hi-HEV”：电池容量翻 2-3 倍，首搭魏牌高山 8",
+     "link": "https://www.ithome.com/1/033/623.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:49:05 GMT",
+     "summary": "IT之家 11 月 27 日消息，长城汽车今日在广州车展发布 Hi-HEV 混动架构，官方称其为“全球首个量产大电量真智能 HEV 架构”，首搭车型魏牌高山 8 已量产落地。 官方介绍称，Hi-HEV 全称为 Hyper-Intelligent HEV（超级智能 HEV），以归元全动力技术为底座，主打智慧动力、智享空间、智能安全，目标是打破 “燃油、HEV 车型与智能化无缘” 的固有认知。 据官方公布信息，Hi-HEV 的电池容量比普通 HEV 高 2-3 倍，放电功率高 3.5 倍， 最大放电功率超过 250kW ，三擎协同下零百加速达到 5 秒级，官方称比同级 HEV 至少快 2.4 秒。",
+     "source": "IT之家",
+     "zh": "长城发布全球首个量产大电量真智能 HEV 架构“Hi-HEV”：电池容量翻 2-3 倍，首搭魏牌高山 8"
+    },
+    {
+     "title": "政策信号罕见盘中发布，A股市场底还远吗",
+     "link": "https://www.huxiu.com/article/4909001.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 17:48:33 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：和讯财经研究 11月27日，A股午后快速拉升并维持至收盘，主要指数全线上扬。截至收盘，上证指数报3606.49点，涨3.73%；深证成指报10814.02点，涨7.24%；创业板指报2443.96点，涨11.61%；科创50报1346.25点，涨15.07%；北证50报851.79点，涨13.20%；沪深300报4063.06点，涨4.17%。万得全A涨6.08%。 成交同步放大。沪市成交9298亿元，深市成交10700亿元，两市合计约2.00万亿元，较前一交易日放量超6800亿元，为近期少见的单日量级。全市场5382只个股上涨、181只下跌，涨停个股439",
+     "source": "虎嗅",
+     "zh": "政策信号罕见盘中发布，A股市场底还远吗"
+    },
+    {
+     "title": "AI替主人社交一个月，当了147次红娘",
+     "link": "https://www.huxiu.com/article/4908999.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 17:45:47 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 今年6月，美国加州一个临时社区里，两个原本素不相识的居民第一次碰面。其中一个人主动走到另一个人面前，开口说了一句：“嘿，我的Hermes告诉我应该来找你聊聊。” 这里的Hermes，是这位居民给自己的Agent起的名字。因为主人最近需要设计方面的帮助，它便在社区里寻找合适的人选，发现另一位居民正好擅长设计，于是联系了对方的Agent。两个Agent沟通了一番，觉得各自的主人可以认识一下，便分别向主人提出了见面建议。于是，就有了开头这一幕。 这次见面发生在一场名叫“Agent村”的实验中。实验就在美国加州的一个临时社区举行，239名居民各自带着一个",
+     "source": "虎嗅",
+     "zh": "AI替主人社交一个月，当了147次红娘"
+    },
+    {
+     "title": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录",
+     "link": "https://www.ithome.com/1/033/622.htm",
+     "pubDate": "Fri, 27 Nov 2026 09:43:19 GMT",
+     "summary": "IT之家 11 月 27 日消息，荣耀终端股份有限公司 CEO 李健宣布， 荣耀 700 系列今天 10:08 开售以来， 销量已打破 2026 年安卓新品首销日纪录 ，成功登顶安卓首销排行榜第一。 据IT之家此前报道， 荣耀 700 系列手机于 11 月 23 日发布 ，包含 荣耀 700S 、荣耀 700、 荣耀 700 Pro 三款产品，首销 3399 元起，国补到手价 2899-5099 元。 荣耀 700 系列配备一块 6.57 英寸 1.5K 120Hz LTPS 绿洲护眼屏，配备 1.59 英寸 AI 灵动背屏；搭载 200Mp 1/1.56\" 主摄（荣耀 700 / Pro）、",
+     "source": "IT之家",
+     "zh": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录"
+    },
+    {
      "title": "Best Black Friday Phone Deals (2026): iPhone, Pixel, and More",
      "link": "https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/",
      "pubDate": "Fri, 27 Nov 2026 09:42:19 +0000",
@@ -1778,76 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "COP31无果而终，IPCC前副主席：西方说的“公正转型”和发展中国家想的不一样"
     },
     {
-     "title": "苹果官网上架 mophie Frost 支架保护壳：适用于 iPhone 17 / 18 Pro / Air 系列机型，398 元",
-     "link": "https://www.ithome.com/1/033/618.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:28:55 GMT",
-     "summary": "IT之家 11 月 27 日消息，苹果中国官网现已上架 mophie Frost 支架保护壳（ 点此访问 ），提供 iPhone 17e/17/18 Pro/18 Pro Max / Air 版本，定价为 398 元。 系列保护壳重量约 63g，提供 4 种半透明雾面配色，自带一体式支架，同时提供了相机控制按钮和挂绳孔，IT之家附官方介绍： mophie Frost 支架保护壳以浓郁的半透明色彩，为你的 iPhone 增添别样质感。染色背板让色彩自然透出，同时柔和地散射光线；雾面外观则令日常的磨损和划痕不易显现。贴合手型的侧边设计带来稳固的握持感，出色的防摔保护可从容应对日常使用。 保护壳自带",
-     "source": "IT之家",
-     "zh": "苹果官网上架 mophie Frost 支架保护壳：适用于 iPhone 17 / 18 Pro / Air 系列机型，398 元"
-    },
-    {
-     "title": "市场监管总局修订发布信息无障碍国家标准，覆盖网页与移动应用全场景",
-     "link": "https://www.ithome.com/1/033/617.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:28:23 GMT",
-     "summary": "IT之家 11 月 27 日消息，市场监管总局今日宣布，近期，国家标准委修订发布《信息技术互联网内容无障碍可访问性技术要求与测试方法》国家标准， 该标准将于 2027 年 2 月 1 日起正式实施 。本次修订充分适配数字产业新形态、新场景，引领我国信息无障碍建设迈向精细化、体系化、国际化发展新阶段。 IT之家从公告获悉，本次修订充分参考了国际标准 ISO / IEC 40500׃2025《信息技术 W3C 互联网内容无障碍可访问性指南（WCAG 2.2）》， 内容覆盖网页与移动应用全场景，贯穿政务、民生、消费等核心领域 ，通过统一技术标尺降低无障碍改造成本、提升无障碍建设质量，推动信息无障碍融",
-     "source": "IT之家",
-     "zh": "市场监管总局修订发布信息无障碍国家标准，覆盖网页与移动应用全场景"
-    },
-    {
      "title": "玩家想把GTA VI移植到PC，R星投诉，谁更有正当性？",
      "link": "https://www.huxiu.com/article/4908993.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 17:28:18 +0800",
      "summary": "本文作者：游云庭（知识产权律师），题图来自：AI生成 2026年11月游戏界最引人注目的就是GTA VI的正式发布，但让PC玩家失望的是，游戏的首发平台只有PS和Xbox。所以网上就有多个玩家创建了移植项目，在Discord建群，在GitHub立项，要把GTA VI移植到PC上。但这些项目很快就招来了GTA开发商R星母公司Take-Two的投诉。两者孰是孰非，笔者今天就给大家分析一下，一家之言，欢迎批评指正。 一、R星和玩家的各自观点 笔者简短归纳了双方的观点： 移植项目中名气比较大的是Leonida，其项目简介称：《GTA VI》Xbox Series版可通过静态重编译项目Leonida在W",
      "source": "虎嗅",
      "zh": "玩家想把GTA VI移植到PC，R星投诉，谁更有正当性？"
-    },
-    {
-     "title": "你放不下的不是那件事，是那段时间里的自己",
-     "link": "https://www.huxiu.com/article/4908992.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 17:26:40 +0800",
-     "summary": "本文来自微信公众号： BeBeyond ，作者：带你做好选择的 前几天有位同学跟我说：“我知道我现在找的这个实习，对我的研究生申请一点帮助都没有。但我无法舍弃，因为我已经为它准备了太久。我需要拿到一个结果，来证明我之前没有白干。” 我没有劝他赶紧做决定。因为这句话他不是说给我听的，他自己已经在心里讲过很多遍了。 他不是没想过。这种人往往脑子早就转过去了，脚还在原地。 所以这句话里其实有两笔账。前半句算的是将来：这件事有没有用？没有；后半句算的是过去：已经花掉的那些时间值不值？不能白干啊。 两笔都是真的，而且同时成立。这也是为什么劝通常没用：我拿着将来的账，他看到的是过去那一笔。 如果你也说过类",
-     "source": "虎嗅",
-     "zh": "你放不下的不是那件事，是那段时间里的自己"
-    },
-    {
-     "title": "滴滴 2026 年第三季度订单量同比增长 11.5%，总交易额同比增长 21.5%",
-     "link": "https://www.ithome.com/1/033/616.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:26:10 GMT",
-     "summary": "IT之家 11 月 27 日消息，滴滴今日在其官网发布第三季度业绩报告。第三季度，滴滴核心平台（中国出行和国际业务） 订单量同比增长 11.5% 至 52.26 亿单 ，同期核心平台总交易额（GTV）同比增长 21.5% 至 1408 亿元。 其中， 中国出行日均订单量连续 15 个季度稳定增长 ，季度日均同比增长 6.8% 至 4090 万单；在此基础上，高品质服务带动 GTV 更快增长，同比增长 9.7% 至 943 亿元。 与此同时，国际业务订单同比增长 26.1%，季度日均增长至 1592 万单，GTV 同比增长 55.9% 至 465 亿元。 滴滴 CEO 程维表示，三季度公司国内和",
-     "source": "IT之家",
-     "zh": "滴滴 2026 年第三季度订单量同比增长 11.5%，总交易额同比增长 21.5%"
-    },
-    {
-     "title": "汪毅霖：工人阶级自由主义：人工智能时代的新乌托邦",
-     "link": "https://www.huxiu.com/article/4908991.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 17:25:32 +0800",
-     "summary": "本文来自微信公众号： 读书杂志 ，作者：汪毅霖，原文标题：《《读书》首发 | 汪毅霖：工人阶级自由主义：人工智能时代的新乌托邦》 工人阶级自由主义是一种原创性的意识形态和制度安排，其反映了阿西莫格鲁思想的复杂性：在人工智能蓬勃兴起的时代背景下，既要坚持政治制度上的西方式自由民主，又希望在经济制度的分配结果上更加有利于工人阶级。然而问题在于，即使我们在平等和效率的权衡上更倾向工人阶级，且此种倾向性在纯粹的经济逻辑上可行，那么它又能否满足政治逻辑呢？阿西莫格鲁将政治突围的希望寄于“协商民主”，却忽视了此种具有悠久历史的政治程序所内嵌的困难。若此种政治困难无法化解，则经济上亦必然不可行，而工人阶级自",
-     "source": "虎嗅",
-     "zh": "汪毅霖：工人阶级自由主义：人工智能时代的新乌托邦"
-    },
-    {
-     "title": "零食公司薪酬起底：三只松鼠CEO与员工相差23倍，周黑鸭员工平均年薪垫底",
-     "link": "https://www.huxiu.com/article/4908990.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 17:25:21 +0800",
-     "summary": "本文来自微信公众号： 壹览商业 ，作者：雷俊 零食公司愿意花多少钱请CEO，又愿意为员工支付多少薪酬？ 在14家休闲零食上市公司中，三只松鼠CEO章燎原以332.14万元的年薪排名第一；员工平均年薪最高的则是鸣鸣很忙，达到19.09万元；过去两年，良品铺子员工人数减少6381人，万辰集团则增加4101人；鸣鸣很忙平均每名员工创造758.92万元营收，元祖食品只有45.03万元。 壹览商业梳理14家休闲零食上市公司2025年财报，试图回答三个问题：哪些公司愿意为管理层支付高薪，哪些公司给员工的平均薪酬更高，以及量贩零食崛起后，行业的人力投入正在发生什么变化。 需要说明的是，本文CEO薪酬统计口径",
-     "source": "虎嗅",
-     "zh": "零食公司薪酬起底：三只松鼠CEO与员工相差23倍，周黑鸭员工平均年薪垫底"
-    },
-    {
-     "title": "全天候记录的AI穿戴设备，正在改变隐私边界",
-     "link": "https://www.huxiu.com/article/4908989.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 17:23:35 +0800",
-     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 智能眼镜、AI录音设备和全天候记录工具正逐渐进入日常生活。科技公司强调，用户可以自主控制设备、管理数据，但当设备开始记录周围的对话与影像，受到影响的就不再只有使用者。那些没有佩戴设备、也未主动同意被记录的人，该如何保护自己的隐私？个人的设备选择，是否正在成为他人的隐私风险？ 电子前哨基金会（EFF）高级安全与隐私倡议专员索林·克洛索夫斯基（Thorin Klosowski）撰文指出，当前科技公司的隐私保护承诺主要面向设备使用者，却忽视了无法退出监控的旁观者。文章以多家科技公司的AI设备为例，梳理环境式监控带来的技术局限、法",
-     "source": "虎嗅",
-     "zh": "全天候记录的AI穿戴设备，正在改变隐私边界"
-    },
-    {
-     "title": "横跨六省区、全长 2370 公里，“西电东送”大动脉启动送受双端联合调试",
-     "link": "https://www.ithome.com/1/033/615.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:22:19 GMT",
-     "summary": "IT之家 11 月 27 日消息，据央视新闻报道，11 月 26 日，国内横跨六省区、全长 2370 公里的“西电东送”大动脉 —— 甘肃至浙江 ±800 千伏特高压直流输电工程送受双端联合调试正式启动， 进入投产前关键试验。 此次送受双端联合调试在甘肃武威换流站和浙江绍兴越州换流站同步展开，共 658 项试验 ，送端、受端均采用柔性直流输电技术。 试验内容包括常规和故障工况下的安全稳定、动态响应验证，以及直流偏磁测试、交直流线路故障试验、端对端大负荷试验。 国网浙江电力甘浙特高压工程越州换流站技术专责张铭嘉表示，传统特高压直流输电像是一条“高速公路”，通行方式单一；柔性直流输电技术则是配备立",
-     "source": "IT之家",
-     "zh": "横跨六省区、全长 2370 公里，“西电东送”大动脉启动送受双端联合调试"
     },
     {
      "title": "226万亿Token，DeepSeek为何领跑？",
@@ -1880,22 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "35岁危机不光是一个社会问题，也是一场值得重视的管理危机",
      "source": "钛媒体",
      "zh": "35岁危机，究竟是谁的危机？"
-    },
-    {
-     "title": "小米汽车世界模型 2.0 发布，已在实际业务场景中落地",
-     "link": "https://www.ithome.com/1/033/614.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:13:11 GMT",
-     "summary": "IT之家 11 月 27 日消息，小米汽车今日正式发布 Xiaomi Auto World Model 2.0（小米汽车世界模型 2.0）。 官方称小米汽车世界模型 2.0 进一步将多视角视频生成、物理交互建模、三维场景重建与动作建模连接起来，为辅助驾驶和具身智能统一因果世界模型带来新的范式。 据介绍，模型支持 1—7 路摄像头视角 ，训练语料规模达到 1,260 万段视频片段 ，并展示了从辅助驾驶、机器人场景生成，到闭环仿真与 World Action Model 的多项结果，在多个主流基准测试中全面取得 SOTA，并已在小米汽车合成数据、仿真测试等核心场景完成业务落地应用。 在 PAI-B",
-     "source": "IT之家",
-     "zh": "小米汽车世界模型 2.0 发布，已在实际业务场景中落地"
-    },
-    {
-     "title": "韩国运营商 KT 推出“三丽鸥角色主题儿童手机”：基于三星 Galaxy A18 LTE 打造，提供多款联名配件",
-     "link": "https://www.ithome.com/1/033/613.htm",
-     "pubDate": "Fri, 27 Nov 2026 09:13:09 GMT",
-     "summary": "IT之家 11 月 27 日消息，韩国运营商 KT 宣布基于三星 Galaxy A18 LTE 打造了一款“三丽鸥角色主题儿童手机”，相应产品将通过 KT 线下门店及官方线上商城 KT Direct Shop 以套餐形式发售。 IT之家注意到，该机在外观设计方面并未有所调整，主要是提供了三丽鸥角色壁纸，同时附带手机壳、挂绳、钢化玻璃保护膜、手机气囊支架、NFC 安全手环以及反光钥匙扣等三丽鸥联名配件。 KT 透露，该机出厂预装 Millie’s Library &nbsp;儿童模式应用，会过滤不适合儿童阅读的内容类别，并根据年龄推荐适龄图书和有声读物。 资费方面，KT 面向 12 岁及以下儿童",
-     "source": "IT之家",
-     "zh": "韩国运营商 KT 推出“三丽鸥角色主题儿童手机”：基于三星 Galaxy A18 LTE 打造，提供多款联名配件"
     },
     {
      "title": "韩国上线卡在分级，素材本地化改了三版还要不要继续？",
@@ -1949,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Claude sabotaging SOTA ML research tasks",
      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
      "pubDate": "Fri, 27 Nov 2026 08:28:08 +0000",
-     "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 36 # Comments: 14",
+     "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 58 # Comments: 24",
      "source": "Hacker News",
      "zh": "Claude sabotaging SOTA ML research tasks"
     },
@@ -1960,38 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们是一个12人的小发行团队，主做东南亚，手上这款卡牌手游已经在泰国和马来西亚上线并跑通了买量模型，现在准备推越南。越南的版号（Giấy phép phát hành trò chơi điện tử）我们通过本地合作方提交了，但一直没拿到明确时间点，Google Play 越南区目前只能先挂预约页。问题是团队里真正懂越南本地化运营的只有1个人，还要同时盯泰马的日常活动更新，如果按原计划本月做越南上线预热，人手根本排不开；往后压又怕预约页转化率掉，现在预约到商店页的转化只有11%左右。已经试过把越南预热素材外包给河内一家小团队做，但审核反馈和社群回复还是得自己人接。卡在不知道是该先按版号不确定",
      "source": "白鲸出海",
      "zh": "越南手游版号没下来，发行排期和本地运营人手该怎么排？"
-    },
-    {
-     "title": "英伟达暂停向东南亚四国交付AI服务器，全球供给缺口或将扩大？",
-     "link": "https://www.tmtpost.com/8216813.html",
-     "pubDate": "Fri, 27 Nov 2026 16:12:04 +0800",
-     "summary": "上游供给瓶颈，客观上拉长了服务器厂商的收入确认周期和毛利规模。",
-     "source": "钛媒体",
-     "zh": "英伟达暂停向东南亚四国交付AI服务器，全球供给缺口或将扩大？"
-    },
-    {
-     "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
-     "link": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
-     "pubDate": "Fri, 27 Nov 2026 08:11:46 +0000",
-     "summary": "Article URL: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/ Comments URL: https://news.ycombinator.com/item?id=50664191 Points: 19 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "European Commission Declares Browser Competition a Digital Markets Act Priority"
-    },
-    {
-     "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
-     "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
-     "pubDate": "Fri, 27 Nov 2026 08:00:53 +0000",
-     "summary": "There’s just one thing we still don’t know: How much will they cost?",
-     "source": "Ars Technica",
-     "zh": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids"
-    },
-    {
-     "title": "TikTok Shop 马来短视频挂车 CPA 涨到 18 马币，还要不要继续投？",
-     "link": "https://www.baijing.cn/question/639006",
-     "pubDate": "Fri, 27 Nov 2026 07:59:48 +0000",
-     "summary": "上个月马来站短视频挂车 CPA 还是 11 马币左右，这个月同一批素材直接跑到 17-18 马币，ROI 从 3.2 掉到 1.9。团队 5 个人，主做马来本地美妆个护，月投放预算 4 万马币上下，短视频挂车和直播各占一半。已经试过换钩子前 3 秒、把挂车从第 5 秒提前到第 2 秒、砍掉 CTR 低于 1.2% 的素材，CPA 只降到 15 马币就卡住了，再压就掉曝光。现在纠结是继续加预算熬过这波竞价，还是把预算挪去直播。这个类目在马来短视频挂车 CPA 多少算合理，判断标准是看单条素材的转化率还是看整体 ROI？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 马来短视频挂车 CPA 涨到 18 马币，还要不要继续投？"
     }
    ]
   },
@@ -2001,6 +2001,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "6 simple tweaks I use to get two days of battery from my Galaxy Watch 9",
+     "link": "https://www.androidauthority.com/how-to-save-battery-life-samsung-galaxy-watch-9-3737661/",
+     "pubDate": "Fri, 27 Nov 2026 10:00:31 +0000",
+     "summary": "Battery life continues to be a struggle for Galaxy Watch owners.",
+     "source": "Android Authority",
+     "zh": "6 simple tweaks I use to get two days of battery from my Galaxy Watch 9"
+    },
+    {
+     "title": "Honor Magic10 Pro Max could have three 200MP cameras",
+     "link": "https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php",
+     "pubDate": "Fri, 27 Nov 2026 10:55:02 +0100",
+     "summary": "The Honor Magic9 Pro Max is endowed with a 200MP main camera, a 200MP 3.5x periscope telephoto, and a 50MP 1/2.88-inch ultrawide. Today, Digital Chat Station is claiming that its successor, the Magic10 Pro Max, is being evaluated with three 200MP large-sensor cameras. The ultrawide is said to be a 2",
+     "source": "GSMArena",
+     "zh": "Honor Magic10 Pro Max could have three 200MP cameras"
+    },
+    {
+     "title": "Samsung (accidentally) sold the Galaxy S26 Ultra for just $125 in Japan",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-amazon-japan-deal-3740755/",
+     "pubDate": "Fri, 27 Nov 2026 09:52:21 +0000",
+     "summary": "How does a 92% discount on a Galaxy S26 Ultra sound?",
+     "source": "Android Authority",
+     "zh": "Samsung (accidentally) sold the Galaxy S26 Ultra for just $125 in Japan"
+    },
+    {
+     "title": "Google will soon share Android developers' addresses publicly",
+     "link": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+     "pubDate": "Fri, 27 Nov 2026 09:38:33 +0000",
+     "summary": "Google is getting flak for its decision to publish Android developers' identifying information around the world to comply with European laws.",
+     "source": "Engadget",
+     "zh": "Google will soon share Android developers' addresses publicly"
+    },
     {
      "title": "We tested Samsung’s private Galaxy AI cloud on One UI 9.5 beta, and it made AI select smarter",
      "link": "https://www.androidauthority.com/samsung-spac-galaxy-ai-select-demo-apk-teardown-3740749/",
@@ -2050,22 +2082,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s how much OnePlus could charge you for using ColorOS 17’s AI features"
     },
     {
-     "title": "Oura is dropping Android 11 support in December, and users risk losing health data",
-     "link": "https://www.androidauthority.com/oura-android-11-support-end-3740718/",
-     "pubDate": "Fri, 27 Nov 2026 08:14:58 +0000",
-     "summary": "Upgrading after the deadline won't bring back your health history.",
-     "source": "Android Authority",
-     "zh": "Oura is dropping Android 11 support in December, and users risk losing health data"
-    },
-    {
-     "title": "Samsung phones can soon nudge you when you miss your usual charging window",
-     "link": "https://www.androidauthority.com/samsung-missed-charging-window-3740683/",
-     "pubDate": "Fri, 27 Nov 2026 08:11:50 +0000",
-     "summary": "This charging reminder feature could even refer to your calendar entries for more personalized alerts.",
-     "source": "Android Authority",
-     "zh": "Samsung phones can soon nudge you when you miss your usual charging window"
-    },
-    {
      "title": "Apple launches Black Friday Shopping Event: Is it worth it?",
      "link": "https://9to5mac.com/2026/11/27/apple-black-friday-shopping-event-deals/",
      "pubDate": "Fri, 27 Nov 2026 08:10:50 +0000",
@@ -2112,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch. The device has now been spotted in the Geekbench online database with the model number SM-A386B. This is the globa",
      "source": "GSMArena",
      "zh": "Samsung Galaxy A38 runs Geekbench, confirms its chipset"
-    },
-    {
-     "title": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low",
-     "link": "https://www.gsmarena.com/ios_and_harmonyos_gain_ground_as_androids_q3_share_hits_a_record_low-news-75653.php",
-     "pubDate": "Fri, 27 Nov 2026 03:01:02 +0100",
-     "summary": "Last month Counterpoint Research (CR) told us that the Q3 smartphone market dropped 20%, and today the firm has published its breakdown of sales share by operating system for the same quarter. Unsurprisingly, the memory crisis has left its mark here too. According to CR, global smartphone sales were",
-     "source": "GSMArena",
-     "zh": "iOS and HarmonyOS gain ground as Android's Q3 share hits a record low"
     },
     {
      "title": "派早报：1Password 确认内部系统遭入侵等",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Today’s 9to5Toys Lunch Break is headlined by the now live Amazon Thanksgiving sale as part of its massive Black Friday event, the Best Buy 24-hour Thanksgiving Flash Sale , and the now even lower price on Google’s Pixel Watch 5 starting from $285 shipped. That deal joins a rare all-time low on the l",
      "source": "9to5Google",
      "zh": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more"
-    },
-    {
-     "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
-     "link": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
-     "pubDate": "Thu, 26 Nov 2026 15:50:37 +0000",
-     "summary": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
-     "source": "Engadget",
-     "zh": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on"
     }
    ]
   },
@@ -2250,6 +2250,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Amadeus secures multi-year distribution agreement with Türkiye's Pegasus Airlines",
+     "link": "https://seekingalpha.com/news/4676977-amadeus-secures-multi-year-distribution-agreement-with-turkiyes-pegasus-airlines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 05:03:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amadeus secures multi-year distribution agreement with Türkiye's Pegasus Airlines"
+    },
+    {
+     "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
+     "link": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 09:59:00 GMT",
+     "summary": "Presley Gerber’s Hollywood Hills home has hit the market for $3.59 million, less than two months after the model’s death at age 27.",
+     "source": "MarketWatch",
+     "zh": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death"
+    },
+    {
+     "title": "【调研快报】柳工接待中信证券等31家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611273941776456.html",
+     "pubDate": "Fri, 27 Nov 2026 17:57:45 +0800",
+     "summary": "柳工 11月27日公告称， 11月25日 接待 中信证券 等31家机构 调研。 接待人员包括副董事长、总裁 罗国兵,副总裁 李东春,副总裁、财务负责人 黄铁柱,董事会秘书 黄华琳,国内营销事业部常务副总经理 谢汀,其他业务部门主管。 公司就以下问题进行了回复： 主要交流问答内容: 1. 海外矿山是今年的重要需求拉动点,公司未来在矿山板块研发和市场战略上是怎么考虑的? 答:在大宗商品价格持续上行和全球 新能源 转型的大背景下,矿山业务正处于相对景气的发展周期。在公司十五五战略规划中,矿山板块是战略发展业务,将是承载战略目标落地的关键。大型土石方机械一... 点击查看PDF原文 免责声明：本文基于",
+     "source": "东方财富股票",
+     "zh": "【调研快报】柳工接待中信证券等31家机构调研"
+    },
+    {
+     "title": "“20cm”涨停刷屏！网友：“今天涨得让我热泪盈眶”",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941776713.html",
+     "pubDate": "Fri, 27 Nov 2026 17:57:10 +0800",
+     "summary": "大奇迹日来了。 11月27日，午后行情突变，大量资金涌入市场。从ETF的表现看，十余只科创主题ETF纷纷实现“20cm”涨停。从成交额看，创业板ETF易方达成交221亿元，科创50ETF华夏成交186亿元，科创 半导体 ETF华夏成交165亿元。 在11月27日的大涨之后，从投资者评论情况看，投资者信心回来了，心情也好多了。有投资者表示：“平时大涨，大涨一天开心一天，周五大涨，三倍开心！” “20cm”涨停刷屏 从ETF市场表现看，截至收盘，320多只ETF涨幅超过10%，其中十余只科创主题ETF上涨20%。 从日内行情走势看，从10:30开始，多只成长风格ETF成交显著放大，多只 半导体 主",
+     "source": "东方财富股票",
+     "zh": "“20cm”涨停刷屏！网友：“今天涨得让我热泪盈眶”"
+    },
+    {
+     "title": "“小学生只上半天学”：家长在权衡什么",
+     "link": "http://www.eeo.com.cn/2026/1127/1105597.shtml",
+     "pubDate": "Fri, 27 Nov 2026 17:57:00 +0800",
+     "summary": "与其反复劝家长更新教育理念，不如让他们相信：跟着学校正常的教学进度走，孩子不会因此在竞争中吃亏。",
+     "source": "经济观察网",
+     "zh": "“小学生只上半天学”：家长在权衡什么"
+    },
+    {
+     "title": "麦捷科技：截至11月10日最新股东户数9.87万户，较上期减少1.70%",
+     "link": "http://stock.eastmoney.com/news/11111,202611273941776270.html",
+     "pubDate": "Fri, 27 Nov 2026 17:56:46 +0800",
+     "summary": "麦捷科技 最新披露数据显示，截至11月10日公司股东户数为9.87万户，较上期(2026年10月30日) 减少1710户，降幅为1.70% 。户均持有流通股数量 由上期的8501股上升至8648股， 户均持股金额 由上期的11.94万元增加至12.57万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "source": "东方财富股票",
+     "zh": "麦捷科技：截至11月10日最新股东户数9.87万户，较上期减少1.70%"
+    },
+    {
+     "title": "【调研快报】赛摩智能接待道通期货有限公司等4家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611273941774369.html",
+     "pubDate": "Fri, 27 Nov 2026 17:55:43 +0800",
+     "summary": "赛摩智能 11月27日公告称， 11月27日 接待道通 期货 有限公司 等4家机构 调研。 接待人员包括董事会秘书 朱伟峰,副总经理 吴洪军。 公司就以下问题进行了回复： 问题1:公司2026年1-9月,实现营业收入3.62亿元,同比增长6.19%;实现归母净利润1,560.44万元,同比增长265.34%;其中,2026第三季度单季度实现营业收入1.33 亿元,同比增长5.92%;归母净利润318.30 万元。公司2026年利润快速增长的原因及下一步的规划是什么? ... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨",
+     "source": "东方财富股票",
+     "zh": "【调研快报】赛摩智能接待道通期货有限公司等4家机构调研"
+    },
+    {
+     "title": "中国通号：中标14个轨道交通重要项目 总金额约46.61亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941776543.html",
+     "pubDate": "Fri, 27 Nov 2026 17:54:14 +0800",
+     "summary": "中国通号 (688009.SH)公告称，公司2026年9月至10月中标共计十四个重要项目，其中铁路市场十一个，城市轨道交通市场三个。中标金额总计约46.61亿元，约占公司2025年经审计营业总收入的13.44%。铁路市场项目包括晋城市西北部专用铁路项目(12.99亿元)、墨西哥城AIFA-PACHUCA铁路项目(约5.07亿元)、青藏铁路格尔木至拉萨段电气化改造项目(4.53亿元)等；城市轨道交通项目包括上海市轨道交通12号线西延伸工程(2.21亿元)、19号线工程(1.96亿元)及东莞市轨道交通2号线三期信号系统采购项目(1.39亿元)。目前项目已中标公示，尚未签订正式合同，存在不确定性。 ",
+     "source": "东方财富股票",
+     "zh": "中国通号：中标14个轨道交通重要项目 总金额约46.61亿元"
+    },
+    {
+     "title": "龙洲股份：控股孙公司继续临时停工停产",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941776665.html",
+     "pubDate": "Fri, 27 Nov 2026 17:53:00 +0800",
+     "summary": "龙洲股份 公告，公司控股孙公司中汽宏远受 新能源 客车市场更新放缓及订单不足影响，自2024年1月1日起临时停工停产。经审议确认，中汽宏远自2026年12月1日起延长停工停产至2027年5月31日。停工停产期间，公司已安排留守人员负责服务保障等工作，并将根据市场环境和订单情况随时做好复工复产准备。2026年1-9月，中汽宏远亏损主要系固定的折旧摊销、利息费用等支出较大，此次继续临时停工停产不会导致上述成本费用发生重大变化。此外，公司拟以公开挂牌方式转让中汽宏远51%股权及相关债权。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "龙洲股份：控股孙公司继续临时停工停产"
+    },
+    {
+     "title": "Coca-Cola HBC completes acquisition of 75% stake in Coca-Cola Beverages Africa",
+     "link": "https://seekingalpha.com/news/4676973-coca-cola-hbc-completes-acquisition-of-75-stake-in-coca-cola-beverages-africa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 04:52:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coca-Cola HBC completes acquisition of 75% stake in Coca-Cola Beverages Africa"
+    },
+    {
      "title": "DSC partners with JAPANCARS to expand China’s used car exports",
      "link": "https://seekingalpha.com/news/4676972-dsc-partners-with-japancars-to-expand-china-s-used-car-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 04:43:06 -0500",
@@ -2258,52 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "DSC partners with JAPANCARS to expand China’s used car exports"
     },
     {
-     "title": "恺英网络：截至11月20日最新股东户数10.94万户，较上期减少5.05%",
-     "link": "http://stock.eastmoney.com/news/11111,202611273941766862.html",
-     "pubDate": "Fri, 27 Nov 2026 17:42:46 +0800",
-     "summary": "恺英网络 最新披露数据显示，截至11月20日公司股东户数为10.94万户，较上期(2026年10月9日) 减少5815户，降幅为5.05% 。户均持有流通股数量 由上期的1.63万股上升至1.72万股， 户均持股金额 由上期的26.44万元减少至22.91万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
-     "source": "东方财富股票",
-     "zh": "恺英网络：截至11月20日最新股东户数10.94万户，较上期减少5.05%"
-    },
-    {
-     "title": "【调研快报】唐人神接待万联证券等5家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611273941766779.html",
-     "pubDate": "Fri, 27 Nov 2026 17:41:48 +0800",
-     "summary": "唐人神 11月27日公告称， 11月26日 接待万联证券 等5家机构 调研。 接待人员包括证券资本部总经理 徐岩,证券资本部投资者关系管理专干 董小雪。 公司就以下问题进行了回复： Q:公司资金情况如何? A:截至2026 年9月底,公司账面货币资金22.33 亿元,公司始终积极储备现金应对周期底部,构建了以 银行 信贷为主,股权融资、债券融资为辅的多层次融资结构,和农行、工行、建行、中行、交行等 银行 金融机构保持良好合作关系,并积极开展子公司股权融资和债券市场融资,保证公司现金流安... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方",
-     "source": "东方财富股票",
-     "zh": "【调研快报】唐人神接待万联证券等5家机构调研"
-    },
-    {
      "title": "贵州茅台：2026年中期利润分配拟每股派现25.6元 合计派现320亿元",
      "link": "http://finance.eastmoney.com/news/1345,202611273941766576.html",
      "pubDate": "Fri, 27 Nov 2026 17:41:06 +0800",
      "summary": "贵州茅台 (600519.SH)公告称，公司董事会审议通过2026年中期利润分配方案，向全体股东每股派发现金红利25.60元(含税)，截至2026年10月31日公司总股本为12.5亿股，合计派发现金红利320.02亿元(含税)。本次利润分配无需提交股东会审议，经董事会审议通过后即可实施。 （文章来源：财联社）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "贵州茅台：2026年中期利润分配拟每股派现25.6元 合计派现320亿元"
-    },
-    {
-     "title": "11月27日北向资金最新动向（附十大成交股）",
-     "link": "http://stock.eastmoney.com/news/11780,202611273941765593.html",
-     "pubDate": "Fri, 27 Nov 2026 17:37:54 +0800",
-     "summary": "交易所最新数据显示，11月27日北向资金共成交2925.29亿元，占两市总成交额的14.63%。 紫金矿业 、 寒武纪 、 工业富联 位列 沪股通 成交前三，成交额分别为28.99亿、23.85亿、17.98亿； 中际旭创 、 宁德时代 、 新易盛 位列 深股通 成交前三，成交额分别为49.21亿、33.96亿、20.53亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
-     "source": "东方财富股票",
-     "zh": "11月27日北向资金最新动向（附十大成交股）"
-    },
-    {
-     "title": "【调研快报】凤凰股份接待线上参与凤凰股份2026年第三季度业绩说明会的投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611273941765450.html",
-     "pubDate": "Fri, 27 Nov 2026 17:37:45 +0800",
-     "summary": "凤凰股份 11月27日公告称， 11月27日 接待线上参与 凤凰股份 2026年第三季度业绩说明会的投资者 调研。 接待人员包括董事、总经理 李燕,独立董事 刘静,副总经理、董事会秘书 毕胜,副总经理、财务总监 王卿。 公司就以下问题进行了回复： 1、问:请问最近一期的股东人数是多少 答:投资者您好!截至 2026年9月30日,公司股东人数为19755人。感谢您的关注! 2、问:公司目前存货规模多少? 答:投资者您好!截至 2026年9月30日,公司存货账面价值为 25.67 亿元,占总资产的 46.33%,较年初下降约24.50%。公司... 点击查看PDF原文 免责声明：本文基于AI生产，",
-     "source": "东方财富股票",
-     "zh": "【调研快报】凤凰股份接待线上参与凤凰股份2026年第三季度业绩说明会的投资者调研"
-    },
-    {
-     "title": "11月27日南向资金净买近46亿港元，近13亿抢筹阿里巴巴-W",
-     "link": "http://stock.eastmoney.com/news/11761,202611273941765359.html",
-     "pubDate": "Fri, 27 Nov 2026 17:37:45 +0800",
-     "summary": "恒生指数11月27日 涨2.11%， 收报22694.77点。南向资金今日 净买入港股45.87亿港元。 南向资金今日成交额1098.35亿港元，港股大市成交2571.40亿港元。 南向十大成交股中， 阿里巴巴-W 、 中国神华 、 中芯国际 分别获净买入12.67亿港元、11.09亿港元、5.11亿港元。 剑桥科技 、 腾讯控股 、 中际旭创 分别遭净卖出1.15亿港元、1.09亿港元、4462.80万港元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请",
-     "source": "东方财富股票",
-     "zh": "11月27日南向资金净买近46亿港元，近13亿抢筹阿里巴巴-W"
     },
     {
      "title": "Norse Atlantic is on the brink of bankruptcy; lessors want 787 jets back",
@@ -2354,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "机构调研丨算力租赁+CPO+存储芯片 这家公司明确当前采购渠道畅通 算力业务有序推进交付中"
     },
     {
-     "title": "Uber secures ~87.13% stake in Delivery Hero following takeover offer",
-     "link": "https://seekingalpha.com/news/4676960-uber-secures-87_13-percent-stake-in-delivery-hero-following-takeover-offer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 04:08:49 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Uber secures ~87.13% stake in Delivery Hero following takeover offer"
-    },
-    {
      "title": "美股科技股盘前普涨 SK海力士、美光科技涨超6%",
      "link": "http://finance.eastmoney.com/news/1345,202611273941744511.html",
      "pubDate": "Fri, 27 Nov 2026 17:04:19 +0800",
      "summary": "美股科技股盘前普涨， SK海力士 、 美光科技 涨超6%， SpaceX 、 英伟达 涨超4%， 亚马逊 涨超3%，Meta、 微软 、 特斯拉 、谷歌A涨超2%， 苹果 涨0.9%。",
      "source": "东方财富资讯",
      "zh": "美股科技股盘前普涨 SK海力士、美光科技涨超6%"
-    },
-    {
-     "title": "Germany's unemployment stays flat at 6.40% in November",
-     "link": "https://seekingalpha.com/news/4676922-germany-unemployment-stays-flat-at-640-in-november?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 04:00:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Germany's unemployment stays flat at 6.40% in November"
     },
     {
      "title": "首提“国家队” 国常会看点梳理",
@@ -2402,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "国常会明确政策底 “三个首次”彰显力度"
     },
     {
-     "title": "内存市场将何去何从？分析师争论DRAM和NAND明年会否遇转折点",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941725181.html",
-     "pubDate": "Fri, 27 Nov 2026 16:41:35 +0800",
-     "summary": "越来越多的分析师嗅到全球内存市场的变化。此前，TrendForce在最新报告中预测DRAM价格将在明年涨幅放缓，NAND价格则在可能在明年一季度开始下跌，现在越来越多的投行分析师加入存储行业明年迎来转折点的队列。 法国巴黎 银行 分析师Karl Ackerman预计DRAM和NAND闪存价格将在明年年中下降，内存和存储成本将在明年达到大型科技公司支出的40%，触及峰值，随后到2030年将大幅下降至27%。 Counterpoint Research也预计，内存价格将持续上涨至2027年第一季度，随后涨势逐渐趋缓，市场可能在年中恢复稳定。 广发证券 分析师最新下调了明年DRAM的合约价格预测，并",
-     "source": "东方财富资讯",
-     "zh": "内存市场将何去何从？分析师争论DRAM和NAND明年会否遇转折点"
-    },
-    {
      "title": "AI交易回暖，纳指100期货盘前涨2.5%，科技股集体大涨，闪迪暴涨10%，金银大涨，美债价格回落",
      "link": "https://wallstreetcn.com/articles/3786838",
      "pubDate": "Fri, 27 Nov 2026 16:34:04 +0800",
@@ -2432,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI正在改变网络攻击的规模与速度，全球企业和政府机构可能面临新一轮网络安全危机。 美国AI编程初创公司Cognition首席执行官Scott Wu警告，按当前趋势， 未来6至12个月全球可能出现“大量重大数据泄露”，财富50强、财富100强企业及政府机构均处于高风险之下。他在播客节目《Invest Like the Best》中称，这一趋势“几乎不可避免”。 Wu认为，真正的分水岭在于防御能力能否跟上攻击技术的演进：企业和政府是否能够大规模引入AI加强防御，还是任由风险在未来数年内失控。 11月以来，多起数据泄露事件接连发生，导致航空公司停运、数字银行平台服务中断，也让外界对AI助长网络攻击的",
      "source": "华尔街见闻",
      "zh": "AI网络攻击风暴将至？Cognition CEO警告：未来一年，大型数据泄露几乎不可避免"
-    },
-    {
-     "title": "深圳南山设自然科学基金 政府配资比例全国区级最高",
-     "link": "http://www.eeo.com.cn/2026/1127/1105384.shtml",
-     "pubDate": "Fri, 27 Nov 2026 16:13:36 +0800",
-     "summary": "21世纪经济报道记者 陈思琦 深圳报道 在11月27日开幕的2026西丽湖论坛上，深圳市南山区正式发布《南山区自然科学基金管理办法》（以下简称《办法》）。 21世纪经济报道记者获悉，基金聚焦基础研究和应用基础研究，设置市区协同、前沿探索、产学研联合重点专项三类项目，形成“企业主导、高额配比、重点投入、全链支持、破除门槛”五大创新机制，旨在通过政策带动、市区联动、杠杆撬动，构建长期稳定、持续吸附高端...",
-     "source": "经济观察网",
-     "zh": "深圳南山设自然科学基金 政府配资比例全国区级最高"
     },
     {
      "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
      "source": "CNBC",
      "zh": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push"
-    },
-    {
-     "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
-     "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-     "pubDate": "Fri, 27 Nov 2026 07:15:13 GMT",
-     "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-     "source": "CNBC",
-     "zh": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations"
     }
    ]
   },
@@ -2497,6 +2497,38 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+     "pubDate": "Fri, 27 Nov 2026 05:01:39 EST",
+     "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists discovered that the tusk contains two intertwined microscopic spirals that twist in o",
+     "source": "ScienceDaily",
+     "zh": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret"
+    },
+    {
+     "title": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?",
+     "link": "https://www.livescience.com/technology/quantum/darpa-is-assessing-microsofts-controversial-quantum-computing-technology-what-will-happen-if-the-majorana-2-platform-is-vindicated",
+     "pubDate": "Fri, 27 Nov 2026 10:00:00 +0000",
+     "summary": "Microsoft has doubled down on its Majorana 2 quantum computing platform despite pushback from the physics community, with DARPA researchers now set to evaluate the bold claims.",
+     "source": "Live Science",
+     "zh": "DARPA is assessing Microsoft's controversial quantum computing technology. What will happen if the Majorana 2 platform is vindicated?"
+    },
+    {
+     "title": "Engineering antibiotics could expand the pool of new drug candidates",
+     "link": "https://news.mit.edu/2026/engineering-antibiotics-could-expand-new-drug-candidates-pool-1127",
+     "pubDate": "Fri, 27 Nov 2026 05:00:00 -0500",
+     "summary": "MIT researchers have found a way to make existing drug compounds safer for human cells, potentially making it easier to develop new antibiotics.",
+     "source": "MIT News",
+     "zh": "Engineering antibiotics could expand the pool of new drug candidates"
+    },
+    {
+     "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:52:24 EST",
+     "summary": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours. The breakthrough could turn a maj",
+     "source": "ScienceDaily",
+     "zh": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil"
+    },
     {
      "title": "A fat-burning molecule has an unexpected benefit for your muscles",
      "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
@@ -2520,22 +2552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact environmental",
      "source": "ScienceDaily",
      "zh": "Harvard’s tiny UV light chip could help shrink quantum computers"
-    },
-    {
-     "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
-     "pubDate": "Thu, 26 Nov 2026 20:05:56 EST",
-     "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have s",
-     "source": "ScienceDaily",
-     "zh": "These bizarre prehistoric mammals may have been misunderstood for 150 years"
-    },
-    {
-     "title": "This dietary supplement may have an unexpected benefit for the brain",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
-     "pubDate": "Thu, 26 Nov 2026 18:34:32 EST",
-     "summary": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to t",
-     "source": "ScienceDaily",
-     "zh": "This dietary supplement may have an unexpected benefit for the brain"
     },
     {
      "title": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing",
@@ -2584,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Live Science spoke with astrophysicist Erin Macdonald about her role as a science adviser for 'Star Trek' and other Hollywood movies.",
      "source": "Live Science",
      "zh": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her"
-    },
-    {
-     "title": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests",
-     "link": "https://www.livescience.com/health/heart-circulation/your-risk-of-heart-attack-and-stroke-could-be-forecasted-30-years-in-advance-study-suggests",
-     "pubDate": "Wed, 25 Nov 2026 20:20:00 +0000",
-     "summary": "Researchers knew that cholesterol and blood pressure are important for estimating stroke risk, but a new study suggests these should be measured far earlier in life.",
-     "source": "Live Science",
-     "zh": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests"
     },
     {
      "title": "A cosmically close supernova may spill the stellar explosion’s secrets",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "The proof apparently settles a 167-year-old puzzle related to prime numbers, thanks to a human mathematician working with AI.",
      "source": "Science News",
      "zh": "Math’s holy grail, the Riemann hypothesis, appears solved with AI’s help"
-    },
-    {
-     "title": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery",
-     "link": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123",
-     "pubDate": "Mon, 23 Nov 2026 15:55:00 -0500",
-     "summary": "The lab will support four state Medicaid agencies in building capacity to use evidence in their decision-making.",
-     "source": "MIT News",
-     "zh": "J-PAL North America launches Medicaid Learning Lab to help state agencies test, learn, and improve health care delivery"
     },
     {
      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",

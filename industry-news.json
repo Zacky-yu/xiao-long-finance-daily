@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 21:12:05",
+ "generated_at": "2026/11/27 21:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "3万+付费商家！有赞龙虾干了5000万次任务，对话CEO白鸦",
@@ -241,12 +233,20 @@
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     },
     {
-     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
-     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
-     "source": "KDnuggets",
-     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
+     "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
+     "link": "https://zhidx.com/p/614303.html",
+     "pubDate": "Thu, 26 Nov 2026 20:03:39 +0800",
+     "summary": "智东西 作者 | 许丽思 编辑 | 漠影 AI都能破解黎曼猜想这种百年数学难题、证明大名鼎鼎的代数版P≠NP了，可真让AI指挥机器人叠件衣服、收拾一桌杂物，或者做顿饭，它的动作还是太费劲了。 把目光转向生产线，机器人也很难干好大量看似简单的工作。汽车工厂里的线束插拔、电池包装配，家电产线中的精密零部件组装，看起来无非是对准、握住、推进几步，却 需要机器人 持续感知接触状态、调整力度和姿态。 现在，具身智能的一大瓶颈就在于，大脑发展飞快，机器人越来越会理解指令、规划动作，却很难稳定完成精细操作。 它需要更灵敏的感知，也需要一整套把感知变成操作的能力。 今天，一目科技宣布战略升级， 基于触觉 感知",
+     "source": "智东西",
+     "zh": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？"
+    },
+    {
+     "title": "SteerSound：迈向更可靠的音频编辑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+     "source": "机器之心",
+     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+     "link": "https://electrek.co/2026/11/27/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+     "pubDate": "Fri, 27 Nov 2026 13:27:31 +0000",
+     "summary": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal brands. After weeks of early access savings, things have ticked up to their biggest deals of the season across EVs, power stations, tools, and plenty more. We’re",
+     "source": "Electrek",
+     "zh": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more"
+    },
+    {
      "title": "This Audi E-Tron EV Has 125,000 Miles. Replacing Its Battery Was A Huge Pain",
      "link": "https://insideevs.com/news/817033/audi-e-tron-battery-replacement-video/",
      "pubDate": "Fri, 27 Nov 2026 12:40:52 +0000",
@@ -681,12 +689,12 @@
      "zh": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game"
     },
     {
-     "title": "Nio Firefly reaches 100,000 cumulative deliveries, about 19 months after market launch",
+     "title": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time",
      "link": "https://cnevpost.com/2026/11/27/nio-firefly-reaches-100000-cumulative-deliveries/",
      "pubDate": "Fri, 27 Nov 2026 09:47:43 +0000",
      "summary": "Firefly's 100,000th delivery came 42 days after it surpassed the 90,000 mark on October 16. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "Nio Firefly reaches 100,000 cumulative deliveries, about 19 months after market launch"
+     "zh": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time"
     },
     {
      "title": "Nio Onvo launches updated L60 Black Knight edition starting at $31,430",
@@ -759,14 +767,6 @@
      "summary": "The Onvo L90's latest 10,000 deliveries slowed from the roughly 3.5 months it took to grow from 50,000 to 60,000 units. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Nio's Onvo flagship L90 SUV reaches 70,000 deliveries, latest 10,000 take over 4 months"
-    },
-    {
-     "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
-     "link": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
-     "pubDate": "Thu, 26 Nov 2026 14:36:17 +0000",
-     "summary": "A man in Denver has found a cheap way to beat Waymo’s self-driving system: a few orange traffic cones and a carton of eggs. Waymo says it has counted at least 30 egg attacks on its robotaxis in Denver, all believed to be the same man. And the Denver District Attorney’s Office has declined to file ch",
-     "source": "Electrek",
-     "zh": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times"
     },
     {
      "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+     "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+     "pubDate": "Fri, 27 Nov 2026 17:19:34 +0530",
+     "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.code",
+     "source": "The Hacker News",
+     "zh": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
+    },
+    {
      "title": "Microsoft removes WSUS server role in Windows Server 2028",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
      "pubDate": "Fri, 27 Nov 2026 06:18:36 -0500",
@@ -1673,14 +1681,6 @@
      "zh": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’"
     },
     {
-     "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-     "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-     "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530",
-     "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not thr",
-     "source": "The Hacker News",
-     "zh": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware"
-    },
-    {
      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
      "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
      "pubDate": "Thu, 26 Nov 2026 13:04:06 +0000",
@@ -1753,6 +1753,30 @@
    "total": 18,
    "items": [
     {
+     "title": "我支持青旅不接待40岁以上的人",
+     "link": "https://www.huxiu.com/article/4909074.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 21:21:15 +0800",
+     "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 全面围剿40岁：吵得最凶的青旅，恰恰是最不刚需的一环。 近日，一位女士入住浙江嘉兴一家“酒店”时，因年龄超过40岁被拒绝办理入住，只能转去其他酒店。 全网开始热烈讨论#女子称因年龄超40岁被酒店拒绝入住#。 1，这位女士其实是57岁。 2，所谓酒店其实是青旅。 这个热搜怎么来的，只能说中文互联网博大精深。 40岁这个数字一写，很多网友拔出20米长刀就冲过去了。 大家不是对40岁这个数字敏感，是对40岁被判定“无能”这件事感到愤怒。 这个XX岁以上就无能了的标签，到底是咋来的？ 难道34岁的人骁勇善战，35岁就一骨碌从上铺摔下来？34岁的",
+     "source": "虎嗅",
+     "zh": "我支持青旅不接待40岁以上的人"
+    },
+    {
+     "title": "从4.82亿到36.99亿：华测导航的九年爬坡",
+     "link": "https://www.huxiu.com/article/4909071.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 21:13:22 +0800",
+     "summary": "本文来自微信公众号： 太空与网络 ，作者：杨艳，原文标题：《数字财富 | 从4.82亿到36.99亿：华测导航的九年爬坡》 并购与大项目可以在短期内把收入快速推高。但，前者一旦整合不顺或所购业务被剥离，后者一旦交付结束、下一期须重新获取，规模又会以相近的幅度快速回落。 从4.82亿到36.99亿：华测导航的九年爬坡 ——北斗高精度六家上市公司对比观察 引言 2026年10月底，华测导航（300627.SZ）披露财报：前三季度营业收入25.03亿元，同比下降4.39%；归母净利润3.69亿元，同比下降25.14%。这是公司自2017年上市以来罕见的营收利润双回撤。 此番回撤之前，华测导航走出的是",
+     "source": "虎嗅",
+     "zh": "从4.82亿到36.99亿：华测导航的九年爬坡"
+    },
+    {
+     "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale",
+     "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+     "pubDate": "Fri, 27 Nov 2026 13:10:54 +0000",
+     "summary": "WIRED’s pick for the best travel T-shirt is on sale for Black Friday. Expand your merino wardrobe with these deals. Hurry though, the sale ends tonight.",
+     "source": "WIRED",
+     "zh": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale"
+    },
+    {
      "title": "美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年",
      "link": "https://www.ithome.com/1/033/748.htm",
      "pubDate": "Fri, 27 Nov 2026 13:06:05 GMT",
@@ -1775,6 +1799,14 @@
      "summary": "IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。 IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。 城区领航辅助安全里程门槛由 300 公里降低至 100 公里 ，使用 ACC、LCC、HNOA 累计里程达到 100 公里即可解锁 CNOA。 高速领航辅助同步优化，对周边车辆的响应更平顺，减少急刹与",
      "source": "IT之家",
      "zh": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里"
+    },
+    {
+     "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+     "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+     "pubDate": "Fri, 27 Nov 2026 13:01:02 +0000",
+     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Counseling for mental health decreases likelihood of protesting by 34%–39%"
     },
     {
      "title": "pixiv FANBOX：即日起不再支持使用 Mastercard 万事达信用卡为成年向内容付费",
@@ -1807,6 +1839,14 @@
      "summary": "IT之家 11 月 27 日消息，智元今日宣布，旗下机器人精灵 G2 在龙旗科技产线的部署近期再获突破：在质检上下料工序并线稳定运行的基础上，进一步拓展至精密装配环节， 正式承担喇叭 BOX 安装任务并实现并线生产 。 官方表示，这意味着机器人从「搬运型」作业向「精密操作型」作业延伸，同一台机器人无需定制改造即可胜任不同工序， 方案的跨工序复制能力在真实量产环境中再次得到验证 。 据IT之家此前报道，6 月 23 日至 28 日，智元精灵 G2 机器人开启“平板量产质检工段全覆盖”真实产线直播， 机器人作业成功率 99.99% 。 精灵 G2 从高速运行的流水线上抓取待测平板，与测试装备实时通",
      "source": "IT之家",
      "zh": "智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产"
+    },
+    {
+     "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+     "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+     "pubDate": "Fri, 27 Nov 2026 12:43:40 +0000",
+     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "New York and California Age Gating Rules Go into Effect in the New Year"
     },
     {
      "title": "上汽大通 2027 款大家 7 MPV 上市：CLTC 续航至高 570km，售价 16.98 万元起",
@@ -1857,22 +1897,6 @@
      "zh": "袁记云饺一边招股，一边开出堡店首店"
     },
     {
-     "title": "山姆羽绒服爆红，“隐形”纺织大省想出圈久矣",
-     "link": "https://www.huxiu.com/article/4909058.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 20:13:52 +0800",
-     "summary": "本文来自微信公众号： 城市进化论 ，作者：程晓玲 刘旭强 一件卖爆单的羽绒服，让向来低调的北方纺织大省意外来到聚光灯下。 近段时间，一款标价399元、充绒量300克的羽绒服在全国多地山姆门店卖断货，各地网友“求代购”心切刷屏网络。就在这件被称为“性价比之王”的羽绒服吊牌上，一行本不显眼的“产地：山东泰安”字样，引发公众热议。 有分析直指：充绒量300克，80%白鸭绒，光绒的成本就占到售价三成以上。叠加面料、加工与渠道等费用，定价399元几乎是一笔“做不出来”的买卖，但山东泰安的一家服装厂做到了。 这件颠覆行业常理的羽绒服背后，指向的是山东纺织服装产业的底盘——山东现有纺织服装生产企业5万余家，",
-     "source": "虎嗅",
-     "zh": "山姆羽绒服爆红，“隐形”纺织大省想出圈久矣"
-    },
-    {
-     "title": "“感到震惊”，顶尖名校宣布暂停数学博士招生",
-     "link": "https://www.huxiu.com/article/4909057.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 20:13:09 +0800",
-     "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：孙滔 原定12月15日截止的博士申请，还没到截止日就作废了。 近日，美国常春藤名校达特茅斯学院宣布，数学博士项目将暂停2027—2028学年新生招生。这个项目每年通常招收7至9人。已经递交的申请材料和推荐信，校方不再审阅。 据《达特茅斯报》报道，校方给出的理由是，文理学院正在对数学系开展院系评估。但这项评估何时结束，博士招生何时恢复，校方均未给出明确答案。 这并不是美国大学第一次暂停数学博士招生。今年早些时候，乔治·华盛顿大学也曾暂停数学博士项目一个招生周期。不同大学接连作出类似决定，难免让人追问：美国大学的数学博士培养正在发生什么变化？ 一",
-     "source": "虎嗅",
-     "zh": "“感到震惊”，顶尖名校宣布暂停数学博士招生"
-    },
-    {
      "title": "Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)",
      "link": "https://www.techmeme.com/261127/p4#a261127p4",
      "pubDate": "Fri, 27 Nov 2026 07:10:01 -0500",
@@ -1884,7 +1908,7 @@
      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
      "link": "https://eprint.iacr.org/2026/3020.pdf",
      "pubDate": "Fri, 27 Nov 2026 12:08:51 +0000",
-     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 47 # Comments: 18",
+     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 65 # Comments: 24",
      "source": "Hacker News",
      "zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
     },
@@ -1903,6 +1927,14 @@
      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
      "source": "Ars Technica",
      "zh": "Intel faced a choice: Give Trump 10% or face the consequences"
+    },
+    {
+     "title": "Kimi for Science More scientific ideas, made possible",
+     "link": "https://www.kimi.ai/news/kimi-for-science-program",
+     "pubDate": "Fri, 27 Nov 2026 12:03:11 +0000",
+     "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 13 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Kimi for Science More scientific ideas, made possible"
     },
     {
      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
@@ -1924,17 +1956,9 @@
      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
      "pubDate": "Fri, 27 Nov 2026 11:41:11 +0000",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 9 # Comments: 10",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 11 # Comments: 14",
      "source": "Hacker News",
      "zh": "Pizza history: AI agent's cardless purchase is a first for UK"
-    },
-    {
-     "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
-     "link": "https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 11:32:17 +0000",
-     "summary": "Score deals on WIRED-tested headphones, laptops, and soundbars.",
-     "source": "WIRED",
-     "zh": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off"
     },
     {
      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
@@ -1967,30 +1991,6 @@
      "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以上大家庭只剩下 9.3%。家庭这个最小单元，正在变得越来越小。很多人会把一人户、二人户简单等同于单身和丁克，但现实比标签复杂。一人户里面，既有主动选择独居的年轻人，也有子女离开后独自生活的老人；二人户里，有还没生育的年轻夫妻，也有相伴养老的老年夫妇。它不是某一类人的选择，而是一整",
      "source": "Solidot",
      "zh": "一人户二人户占全国家庭构成的近六成"
-    },
-    {
-     "title": "韩国上线卡在分级，素材本地化改了三版还要不要继续？",
-     "link": "https://www.baijing.cn/question/639011",
-     "pubDate": "Fri, 27 Nov 2026 09:06:53 +0000",
-     "summary": "我们一款二次元卡牌手游刚在韩国上线两周，团队8人，投放月预算约30万人民币。游戏内已按GRAC要求做完分级申报，但市场素材一直卡在本地接受度上：同一套角色立绘在国内和东南亚CTR能到2.8%，在韩国Kakao渠道只有0.9%，带韩语谐音梗的短视频完播率反而比纯展示高出一截。目前已试过换韩籍画师重绘主视觉、找本地MCN改脚本，但审核反馈仍说部分表现偏“日系”，转化没起来。现在纠结的是继续深挖本地化素材，还是先把分级合规细节和渠道资源理顺？判断素材该停还是该加码的标准到底看什么？",
-     "source": "白鲸出海",
-     "zh": "韩国上线卡在分级，素材本地化改了三版还要不要继续？"
-    },
-    {
-     "title": "欧洲支付失败率降了，但广告CPA反而涨了，该砍投放吗？",
-     "link": "https://www.baijing.cn/question/639010",
-     "pubDate": "Fri, 27 Nov 2026 08:57:51 +0000",
-     "summary": "欧洲市场做订阅制工具，团队8人，月投放预算约4万欧元，主要跑Google和Meta。上季度接了Adyen的本地支付方式（iDEAL、Sofort、SEPA直接借记），结账页支付成功率从82%提到91%，但同期投放端CPA从19欧元涨到27欧元，新客首月留存没变。已经排查过落地页加载和归因窗口，怀疑是支付方式放开后吸引了大量低意愿用户，也试过把预算向高LTV渠道倾斜两周，CPA只回落到24欧元。现在卡在要不要为了支付体验保留这些本地方式，还是收窄投放人群。判断标准应该看首月回本周期还是支付成功率本身？",
-     "source": "白鲸出海",
-     "zh": "欧洲支付失败率降了，但广告CPA反而涨了，该砍投放吗？"
-    },
-    {
-     "title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
-     "link": "https://www.solidot.org/story?sid=86010",
-     "pubDate": "Fri, 27 Nov 2026 16:55:50 +0800",
-     "summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三个月的离职补偿金，将 2026 年 12 月 31 日定为他们的最后工作日。在匿名员工论坛 Blind 上，一位 IBM 员工说到印度工作可能意味着减薪 80%。 HireMe CEO George Carrillo 指出，调动工作岗位可能意味着举家搬迁。它会影响配偶的工作、子女",
-     "source": "Solidot",
-     "zh": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国"
     }
    ]
   },
@@ -2000,6 +2000,46 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple Black Friday, Siri AI usage limits, more on HomeView",
+     "link": "https://9to5mac.com/2026/11/27/happy-hour-618/",
+     "pubDate": "Fri, 27 Nov 2026 13:26:05 +0000",
+     "summary": "Happy Thanksgiving! Benjamin and Chance talk about Apple’s typically underwhelming Black Friday shopping event, the apparent return of PRODUCT(RED), and Apple’s confusing ambitions for the future of the HomeView. Also, Apple starts enforcing limits on Siri AI and other Apple Intelligence features, w",
+     "source": "9to5Mac",
+     "zh": "Apple Black Friday, Siri AI usage limits, more on HomeView"
+    },
+    {
+     "title": "Watch our Black Friday livestream for a chance to WIN a $250 Amazon gift card!",
+     "link": "https://www.androidauthority.com/black-friday-livestream-amazon-gift-card-giveaway-2026-3740849/",
+     "pubDate": "Fri, 27 Nov 2026 13:23:05 +0000",
+     "summary": "Tune in to our Black Friday livestream on YouTube today and you could win a $250 Amazon gift card.",
+     "source": "Android Authority",
+     "zh": "Watch our Black Friday livestream for a chance to WIN a $250 Amazon gift card!"
+    },
+    {
+     "title": "Gemini Live is testing a new Activity tab for all your agentic tasks",
+     "link": "https://www.androidauthority.com/google-gemini-live-tasks-scheduled-compose-box-apk-teardown-3740800/",
+     "pubDate": "Fri, 27 Nov 2026 13:18:35 +0000",
+     "summary": "Additionally, Gemini Live could get a brand-new text box to type your request.",
+     "source": "Android Authority",
+     "zh": "Gemini Live is testing a new Activity tab for all your agentic tasks"
+    },
+    {
+     "title": "Galaxy Z Fold 8 Ultra drops $450 to a record low",
+     "link": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-black-friday-deal-3740563/",
+     "pubDate": "Fri, 27 Nov 2026 13:13:29 +0000",
+     "summary": "The 512GB Galaxy Z Fold 8 Ultra in Violet is 20% off, with an 8-inch main screen and 200MP camera, ahead of Black Friday.",
+     "source": "Android Authority",
+     "zh": "Galaxy Z Fold 8 Ultra drops $450 to a record low"
+    },
+    {
+     "title": "Google Health won’t let users manually add rests between workout sets",
+     "link": "https://www.androidauthority.com/google-health-custom-workout-rest-intervals-issues-3740812/",
+     "pubDate": "Fri, 27 Nov 2026 13:13:27 +0000",
+     "summary": "The Health Coach can do something the manual workout builder can't.",
+     "source": "Android Authority",
+     "zh": "Google Health won’t let users manually add rests between workout sets"
+    },
     {
      "title": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card",
      "link": "https://9to5google.com/2026/11/27/meta-quest-3s-black-friday-week-2026-deal/",
@@ -2025,44 +2065,12 @@
      "zh": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait"
     },
     {
-     "title": "Amazon’s eero 7 Wi-Fi 7 mesh router drops to $139.99",
-     "link": "https://www.androidauthority.com/eero-7-router-deal-3740622/",
-     "pubDate": "Fri, 27 Nov 2026 12:53:15 +0000",
-     "summary": "The eero 7 dual-band Wi-Fi 7 router is $30 off for Black Friday, close to its lowest price ever.",
-     "source": "Android Authority",
-     "zh": "Amazon’s eero 7 Wi-Fi 7 mesh router drops to $139.99"
-    },
-    {
-     "title": "512GB Galaxy Z Flip 8 gets $275 price drop for Black Friday",
-     "link": "https://www.androidauthority.com/galaxy-z-flip-8-black-friday-deal-3740548/",
-     "pubDate": "Fri, 27 Nov 2026 12:36:32 +0000",
-     "summary": "The 512GB Galaxy Z Flip 8 in Pink drops to a record-low $1,124.99, with a 4.1-inch FlexWindow and 50MP camera.",
-     "source": "Android Authority",
-     "zh": "512GB Galaxy Z Flip 8 gets $275 price drop for Black Friday"
-    },
-    {
-     "title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more",
-     "link": "https://www.androidauthority.com/chatgpt-android-call-text-view-screen-3740765/",
-     "pubDate": "Fri, 27 Nov 2026 12:07:21 +0000",
-     "summary": "It could also peek at your screen to answer your questions better.",
-     "source": "Android Authority",
-     "zh": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more"
-    },
-    {
      "title": "Realme 17 Ultra's memory configurations and colors tipped",
      "link": "https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php",
      "pubDate": "Fri, 27 Nov 2026 13:03:03 +0100",
      "summary": "We've heard about the Realme 17T and Realme 17 Pro before, and we've even seen their designs. While Realme hasn't confirmed these smartphones yet, a tipster claims the Realme 17 series will also include an Ultra model. The Realme 17 Ultra is tipped to be the first Ultra smartphone in the company's n",
      "source": "GSMArena",
      "zh": "Realme 17 Ultra's memory configurations and colors tipped"
-    },
-    {
-     "title": "Samsung’s Galaxy A37 5G gets a $150 Black Friday price cut",
-     "link": "https://www.androidauthority.com/samsung-galaxy-a37-black-friday-deal-3740544/",
-     "pubDate": "Fri, 27 Nov 2026 12:02:45 +0000",
-     "summary": "The unlocked Galaxy A37 5G drops to $339.99 on Amazon, its lowest price since Prime Day in June.",
-     "source": "Android Authority",
-     "zh": "Samsung’s Galaxy A37 5G gets a $150 Black Friday price cut"
     },
     {
      "title": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further",
@@ -2105,12 +2113,12 @@
      "zh": "本周看什么 | 最近值得一看的 8 部作品"
     },
     {
-     "title": "Apple launches Black Friday Shopping Event: Is it worth it?",
+     "title": "Apple launches Black Friday Shopping Event: Here’s how much you can save",
      "link": "https://9to5mac.com/2026/11/27/apple-black-friday-shopping-event-deals/",
      "pubDate": "Fri, 27 Nov 2026 08:10:50 +0000",
      "summary": "Apple has officially kicked off its Black Friday Shopping Event in the United States and other countries. You can score an Apple gift card of up to $300 with an eligible product. Apple’s offer comes as Black Friday deals at Amazon continue, with more lucrative cash savings than Apple’s gift card off",
      "source": "9to5Mac",
-     "zh": "Apple launches Black Friday Shopping Event: Is it worth it?"
+     "zh": "Apple launches Black Friday Shopping Event: Here’s how much you can save"
     },
     {
      "title": "WhatsApp announces the Travel eSIM feature",
@@ -2177,14 +2185,6 @@
      "zh": "Readdle’s Documents app adds voice recording with transcripts, summaries, more"
     },
     {
-     "title": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)",
-     "link": "https://9to5mac.com/2026/11/26/airpods-pro-3-best-black-friday-price/",
-     "pubDate": "Thu, 26 Nov 2026 20:24:23 +0000",
-     "summary": "Update November 26, 2026 : AirPods Pro 3 are still in stock after selling out. They’ve dropped down to their new all-time low price of $149 . Happy Thanksgiving! Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with an incredible $100 discount to $149 shipped – their best price ev",
-     "source": "9to5Mac",
-     "zh": "PSA: AirPods Pro 3 are in stock, still $149 ($100 off)"
-    },
-    {
      "title": "1Password says it was hacked but users' vaults are safe",
      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
      "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
@@ -2249,6 +2249,134 @@
    "total": 13,
    "items": [
     {
+     "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+     "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:22:00 GMT",
+     "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
+     "source": "MarketWatch",
+     "zh": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals"
+    },
+    {
+     "title": "The S&P 500 is in a correction. Bear markets and recessions don&apos;t always follow",
+     "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+     "pubDate": "Fri, 27 Nov 2026 13:21:56 GMT",
+     "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+     "source": "CNBC",
+     "zh": "The S&P 500 is in a correction. Bear markets and recessions don&apos;t always follow"
+    },
+    {
+     "title": "松发股份下属公司拟约170亿元投建绿色高端海工科技装备制造项目",
+     "link": "http://stock.eastmoney.com/news/11219,202611273941949316.html",
+     "pubDate": "Fri, 27 Nov 2026 21:20:47 +0800",
+     "summary": "11月27日晚间， 松发股份 （603268）披露公告称，公司下属公司恒力造船（大连）有限公司（以下简称“恒力造船”）拟投资约170亿元建设绿色高端海工科技装备制造项目。 松发股份 表示，为把握当前发展机遇，顺应船舶市场需求，公司适时启动绿色高端海工科技装备制造项目建设。本投资项目以恒力造船为实施主体，预计总投资金额为170亿元，拟建成一座智能化、绿色化、数字化的船舶建造产业基地。本项目规划陆域面积1053.48万平方米，建设设计内容主要包括：陆域车间、堆场及附属动能区等设施。项目建成后，可有效提升订单承揽灵活性，提升企业的市场竞争力。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "松发股份下属公司拟约170亿元投建绿色高端海工科技装备制造项目"
+    },
+    {
+     "title": "*ST卓然将于12月4日终止上市暨摘牌",
+     "link": "http://stock.eastmoney.com/news/11134,202611273941949269.html",
+     "pubDate": "Fri, 27 Nov 2026 21:20:12 +0800",
+     "summary": "11月27日晚间， *ST卓然 （688121）披露公告称，当日，公司收到上交所出具的《关于上海卓然工程技术股份有限公司股票终止上市的决定》，上交所决定终止公司股票上市。 *ST卓然 表示，公司股票将于12月4日终止上市暨摘牌。公司股票终止上市后，将转入全国中小企业股份转让系统依托原证券公司代办股份转让系统设立并代为管理的两网公司及退市公司板块挂牌转让。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "*ST卓然将于12月4日终止上市暨摘牌"
+    },
+    {
+     "title": "欧洲央行官员：通胀率持续高于3%，或需进一步加息",
+     "link": "http://hk.eastmoney.com/news/1533,202611273941948380.html",
+     "pubDate": "Fri, 27 Nov 2026 21:19:33 +0800",
+     "summary": "欧洲央行管委内格尔表示，由于欧元区通胀率明年很长一段时间内可能仍将保持在3%以上，欧洲央行最早可能在下个月就需要进一步加息。“我们预计，到2027年，通胀率仍可能持续高于3%，”身兼德国联邦 银行 行长的纳格尔在出席一场活动时表示，“这意味着在货币政策方面，我们或许还需采取更多行动。我们将在12月再次召开会议。” （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "欧洲央行官员：通胀率持续高于3%，或需进一步加息"
+    },
+    {
+     "title": "Carlsberg plans an IPO for its India unit",
+     "link": "https://seekingalpha.com/news/4677018-carlsberg-plans-an-ipo-for-its-india-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:19:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Carlsberg plans an IPO for its India unit"
+    },
+    {
+     "title": "美团王兴：预计明年AI相关的资本支出将低于今年",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941948966.html",
+     "pubDate": "Fri, 27 Nov 2026 21:18:41 +0800",
+     "summary": "“无论前端交互方式如何演进，用户对本地生活服务的核心需求并未改变。”11月27日晚，美团三季度财报电话会上，CEO王兴表示，“AI要真正创造价值，关键在于将高价值场景、高质量数据和闭环执行能力深度结合，这正是美团的优势所在。”王兴同时表示，“今年我们通过AI相关的资本支出订单锁定了部分算力用于未来使用，因此我们预计明年AI相关的资本支出将低于今年。” （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美团王兴：预计明年AI相关的资本支出将低于今年"
+    },
+    {
+     "title": "粤港澳大湾区大数据中心启动港深莞三地产业生态创新共建",
+     "link": "http://finance.eastmoney.com/news/1360,202611273941948135.html",
+     "pubDate": "Fri, 27 Nov 2026 21:17:11 +0800",
+     "summary": "第二十八届中国国际高新技术成果交易会期间，粤港澳大湾区 大数据 中心负责人与深圳、香港、东莞有关方面代表共同启动共建，推动三地创新资源协同联动。 大数据 中心将作为重要平台节点，承接更多跨城协同的创新需求，推动香港、深圳、东莞三地的产业、技术、数据与场景资源在同一套生态框架下更顺畅对接流转。粤港澳大湾区 大数据 中心是中央赋予深圳“双区建设”的重要任务，定位为服务“数字湾区”建设的公共数据基础设施。同日，粤港澳大湾区数据应用创新大赛主题赛·AIOPC创意挑战赛正式启动，设立总额1000亿token的激励资源池，主赛道开放“Skill编程应用”“开放创意应用”两个方向，特色赛道聚焦具体应用场景。",
+     "source": "东方财富股票",
+     "zh": "粤港澳大湾区大数据中心启动港深莞三地产业生态创新共建"
+    },
+    {
+     "title": "华为算力概念火爆！“8天4板”华胜天成提示风险，华为相关供货不足百万元，前三季度亏损2.59亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941948461.html",
+     "pubDate": "Fri, 27 Nov 2026 21:16:08 +0800",
+     "summary": "11月27日盘后， 华胜天成 （600410.SH，股价20.90元，市值229.17亿元）披露《股票交易异常波动公告》。公告称，公司股票于11月25日、11月26日、11月27日连续三个交易日内日收盘价格涨幅偏离值累计超过20%，根据相关规定，属于股票交易异常波动情形。11月27日，公司股价以涨停价报收，近8个交易日走出“8天4板”行情。 从全年走势看， 华胜天成 股价呈现“先扬、后抑、再急升”的形态。以2025年12月31日前复权收盘价17.87元为起点，公司股价年内累计上涨16.97%。年初至2月末，股价一度升至28.92元（前复权）；3月11日盘中最高触及34.31元（前复权），为年内",
+     "source": "东方财富股票",
+     "zh": "华为算力概念火爆！“8天4板”华胜天成提示风险，华为相关供货不足百万元，前三季度亏损2.59亿元"
+    },
+    {
+     "title": "US tech stocks set to jump at open as volatile trading takes hold",
+     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 13:15:41 GMT",
+     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+     "source": "Financial Times",
+     "zh": "US tech stocks set to jump at open as volatile trading takes hold"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:15:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "Trump to meet Abdul El-Sayed on golden ‘TrumpCare’ proposal",
+     "link": "https://seekingalpha.com/news/4677016-trump-to-meet-abdul-el-sayed-on-golden-trumpcare-proposal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:11:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump to meet Abdul El-Sayed on golden ‘TrumpCare’ proposal"
+    },
+    {
+     "title": "Columbia Financial CFO Thomas Splaine to step down",
+     "link": "https://seekingalpha.com/news/4677012-columbia-financial-cfo-thomas-splaine-to-step-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:09:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Columbia Financial CFO Thomas Splaine to step down"
+    },
+    {
+     "title": "Weight Watchers uses $10M cash to retire $16.3M in loan debt",
+     "link": "https://seekingalpha.com/news/4677015-weight-watchers-uses-10m-cash-to-retire-163m-in-loan-debt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:08:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Weight Watchers uses $10M cash to retire $16.3M in loan debt"
+    },
+    {
+     "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+     "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+     "pubDate": "Fri, 27 Nov 2026 13:00:42 GMT",
+     "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
+     "source": "CNBC",
+     "zh": "Spain’s election could pull Madrid closer to Trump’s Washington"
+    },
+    {
+     "title": "11月27日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611273941896282.html",
+     "pubDate": "Fri, 27 Nov 2026 21:00:00 +0800",
+     "summary": "热点聚焦 国常会定调资本市场： 27日国常会再度提及资本市场相关内容，带来积极信号。 综合 记者采访情况来看，本次会议有六个特别点值得关注，尤其是有三个“首次”。一是叠加今年11月6日国常会已提及资本市场，这是国常会史上首次在一个月内两次密集提及资本市场改革；二是本次国常会提及资本市场内容多达285个字，亦为史上首次；三是会议提到 加力发挥“国家队”稳市作用，这是“国家队”这个表述第一次出现在国常会的新闻稿里 。 吴清召开会议 ： 中国证监会党委书记、主席吴清11月27日主持召开党委（扩大）会议，传达学习上午国务院常务会议精神，研究部署贯彻落实举措。会议强调，坚持以防风险、强监管、促高质量发展",
+     "source": "东方财富资讯",
+     "zh": "11月27日东方财富财经晚报（附新闻联播）"
+    },
+    {
      "title": "Railtown AI targets lower AI costs with new model testing tools",
      "link": "https://seekingalpha.com/news/4677008-railtown-ai-targets-lower-ai-costs-with-new-model-testing-tools?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 07:55:04 -0500",
@@ -2273,38 +2401,6 @@
      "zh": "央行发布存贷款利率新规 罚息不再默认“顶格上浮50%” 机构计息系统面临改造压力"
     },
     {
-     "title": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定",
-     "link": "http://www.eeo.com.cn/2026/1127/1105744.shtml",
-     "pubDate": "Fri, 27 Nov 2026 20:52:31 +0800",
-     "summary": "据中国人民银行网站11月27日消息，《人民币存贷款利率管理规定》（以下简称《规定》）已经2026年10月30日中国人民银行第10次行务会审议通过，现予发布，自2027年3月21日起施行。 “随着利率市场化改革不断推进，利率的行政性管制逐步放开，各项存贷款利率由金融机构按市场化原则自主确定，中国人民银行负责利率政策的制定、执行和监管。同时，市场利率定价自律机制等行业自律组织也发挥着日益重要的作用。”据中国人民银...",
-     "source": "经济观察网",
-     "zh": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定"
-    },
-    {
-     "title": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》",
-     "link": "http://www.eeo.com.cn/2026/1127/1105743.shtml",
-     "pubDate": "Fri, 27 Nov 2026 20:52:19 +0800",
-     "summary": "本报讯 （记者韩昱） 据中国注册会计师协会网站11月27日消息，《注册会计师行业发展“十五五”规划》（以下简称《规划》）现已印发。 《规划》提出，注册会计师行业作为高端生产性服务业，是现代化产业体系的重要组成部分，必须深入实施扩能提质行动，持续扩大服务有效供给，持续提升审计服务质量，不断拓展多元化增值服务领域，加快新技术与行业深度融合，向专业化和价值链高端延伸，不断做强做大、做精做专，持续...",
-     "source": "经济观察网",
-     "zh": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》"
-    },
-    {
-     "title": "OceanaGold secures Ausgold shareholder approval for acquisition",
-     "link": "https://seekingalpha.com/news/4677009-oceanagold-secures-ausgold-shareholder-approval-for-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:51:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OceanaGold secures Ausgold shareholder approval for acquisition"
-    },
-    {
-     "title": "Anthropic stock gains premarket, reclaiming IPO price",
-     "link": "https://seekingalpha.com/news/4676996-anthropic-stock-gains-premarket-reclaiming-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:50:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic stock gains premarket, reclaiming IPO price"
-    },
-    {
      "title": "11月27日晚间上市公司利好消息一览(附名单)",
      "link": "http://finance.eastmoney.com/news/1353,202611273941923444.html",
      "pubDate": "Fri, 27 Nov 2026 20:44:46 +0800",
@@ -2313,28 +2409,12 @@
      "zh": "11月27日晚间上市公司利好消息一览(附名单)"
     },
     {
-     "title": "Search Minerals announces C$1.4M secured convertible loan",
-     "link": "https://seekingalpha.com/news/4677004-search-minerals-announces-c-1_4m-secured-convertible-loan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:43:10 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Search Minerals announces C$1.4M secured convertible loan"
-    },
-    {
      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 12:42:00 GMT",
      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
      "source": "MarketWatch",
      "zh": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images"
-    },
-    {
-     "title": "TruSilver Metals begins OTCQB trading ahead of silver drilling",
-     "link": "https://seekingalpha.com/news/4677006-trusilver-metals-begins-otcqb-trading-ahead-of-silver-drilling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:40:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TruSilver Metals begins OTCQB trading ahead of silver drilling"
     },
     {
      "title": "黄金强势反弹，大规模空头挤压一触即发？",
@@ -2393,14 +2473,6 @@
      "zh": "中国金融稳定报告（2026）：证监会将适时推广新模式浮动管理费率基金 提高权益类基金占比和公募基金持股市值占比"
     },
     {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 12:15:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
-    },
-    {
      "title": "央行：研究建立在特定情景下向非银机构提供流动性的机制性安排 发挥好两项支持资本市场的货币政策工具作用",
      "link": "http://finance.eastmoney.com/news/1345,202611273941893334.html",
      "pubDate": "Fri, 27 Nov 2026 20:09:31 +0800",
@@ -2415,78 +2487,6 @@
      "summary": "在经历连续下跌并触及一年多低点后， 黄金 周五迎来强劲反弹。美元涨势暂歇、全球股市企稳，促使此前因流动性压力被迫抛售 黄金 的投资者重新入场。不过，美国经济增长强劲、通胀压力持续以及美联储进一步加息预期，仍令 黄金 后续走势面临考验。 欧盘交易时段，现货黄金大涨3%，报每盎司3673美元；12月交割的美国COMEX黄金 期货 大涨3.9%，突破每盎司3700美元关口。此前，金价周三一度跌至2025年8月以来最低水平。 随着市场风险偏好回暖，其他 贵金属 也同步反弹，现货 白银 上涨6.6%，至每盎司44.25美元；铂金上涨5.4%，至1360.82美元；钯金上涨4.6%，至913.07美元。 ",
      "source": "东方财富资讯",
      "zh": "黄金多头终于喘口气！金价从一年多低点强势反弹3% 但加息阴影仍未消散"
-    },
-    {
-     "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
-     "link": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 12:08:00 GMT",
-     "summary": "Binance recovered its withdrawal systems on Thursday after losing $6.3 billion in a crypto heist last month.",
-     "source": "Finextra",
-     "zh": "Binance withdrawals back online after $6.3 bn loss in cyberattack"
-    },
-    {
-     "title": "中国人民银行发布《中国金融稳定报告（2026）》",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941885137.html",
-     "pubDate": "Fri, 27 Nov 2026 20:03:51 +0800",
-     "summary": "近日，中国人民 银行 发布了《中国金融稳定报告（2026）》。报告认为，2025年，面对复杂严峻的国内外形势，我国完整准确全面贯彻新发展理念，加快构建新发展格局，着力推动高质量发展，坚持稳中求进工作总基调，统筹国内国际两个大局，统筹发展和安全，经济顶压前行、向新向优发展，圆满实现经济社会发展主要目标任务，“十四五”胜利收官。2025年，我国国内生产总值(GDP)达到140.19万亿元，同比增长5%。就业总体稳定，国际收支基本平衡，对外贸易较快增长，外汇储备规模超过3.3万亿美元，重点领域风险化解取得积极进展，社会大局保持稳定。 金融系统坚持党中央对金融工作的集中统一领导，按照党中央、国务院决策",
-     "source": "东方财富资讯",
-     "zh": "中国人民银行发布《中国金融稳定报告（2026）》"
-    },
-    {
-     "title": "Stocks look like a Black Friday bargain. Read the fine print.",
-     "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 12:01:00 GMT",
-     "summary": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
-     "source": "MarketWatch",
-     "zh": "Stocks look like a Black Friday bargain. Read the fine print."
-    },
-    {
-     "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-     "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-     "pubDate": "Fri, 27 Nov 2026 12:00:22 GMT",
-     "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
-     "source": "CNBC",
-     "zh": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?"
-    },
-    {
-     "title": "报道：美国曾敦促委内瑞拉和伊拉克退出OPEC",
-     "link": "https://wallstreetcn.com/articles/3786844",
-     "pubDate": "Fri, 27 Nov 2026 19:58:43 +0800",
-     "summary": "OPEC内部协调面临新的考验，成员国之间的利益分歧与外部市场竞争，正给这一产油国联盟的稳定性带来更多不确定性。 11月27日，据路透社报道， 特朗普政府曾鼓励委内瑞拉和伊拉克考虑退出OPEC，并阻止委内瑞拉缴纳年度会费。 这一此前未被披露的举动，涉及OPEC五个创始成员国中的两个。 据报道援引十名知情人士，美方官员当时正推动两国扩大石油产量和投资，部分人士担心OPEC的产量限制可能制约这一目标。 相关讨论一度引起沙特方面关注。沙特王储Mohammed bin Salman今夏出面沟通，促使特朗普政府不再推进此事。在伊拉克，总理Ali Faleh al-Zaidi也曾提出退出OPEC的可能性，但",
-     "source": "华尔街见闻",
-     "zh": "报道：美国曾敦促委内瑞拉和伊拉克退出OPEC"
-    },
-    {
-     "title": "US tech stocks set to jump at open as volatile trading takes hold",
-     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 11:58:07 GMT",
-     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
-     "source": "Financial Times",
-     "zh": "US tech stocks set to jump at open as volatile trading takes hold"
-    },
-    {
-     "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-     "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-     "pubDate": "Fri, 27 Nov 2026 11:49:18 GMT",
-     "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
-     "source": "CNBC",
-     "zh": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push"
-    },
-    {
-     "title": "美团单季赚21亿元，增长向零售和海外延伸",
-     "link": "https://wallstreetcn.com/articles/3786857",
-     "pubDate": "Fri, 27 Nov 2026 19:30:55 +0800",
-     "summary": "美团的利润开始修复了。 11月27日，美团发布三季报，营收1156亿元，同比增长21.6%；净利润20.7亿元，上年同期为亏损186.3亿元。核心本地商业经营利润恢复至57亿元，成为此次盈利改善的主要支撑。 这份财报呈现出两个变化，国内主业重新贡献利润，食杂零售和海外业务继续扩张。美团需要解决的问题，也从承受补贴战的亏损，转向如何分配恢复的盈利能力。 利润修复首先来自营销投入的变化。三季度，美团销售及营销开支同比下降20.1%至270亿元，占收入的比例由35.6%降至23.4%。公司将核心本地商业扭亏主要归因于审慎的营销支出，以及收入增长带来的经营杠杆效应。 补贴能够迅速拉高订单量，却也会吸引",
-     "source": "华尔街见闻",
-     "zh": "美团单季赚21亿元，增长向零售和海外延伸"
-    },
-    {
-     "title": "创业板指历史第4次单日涨幅达10%，涨幅位列历史第三",
-     "link": "http://www.eeo.com.cn/2026/1127/1105719.shtml",
-     "pubDate": "Fri, 27 Nov 2026 19:26:15 +0800",
-     "summary": "11月27日，A股午后全线拉升，创业板指收涨11.61%，报2443.96点，创下年内最大单日涨幅。据Wind数据，自2010年发布以来，创业板指单日涨幅达到或超过10%的情形仅出现4次，此前3次均集中在2024年9月末至10月初：9月27日涨10.00%（精确值为 9.9960%）、9月30日涨15.36%、10月8日涨17.25%（历史最高）。今日涨幅位列历史第三。",
-     "source": "经济观察网",
-     "zh": "创业板指历史第4次单日涨幅达10%，涨幅位列历史第三"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 05:12:05",
+ "generated_at": "2026/11/28 05:32:12",
  "recent_days": 7,
  "industries": [
   {
@@ -281,22 +281,6 @@
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
-     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
-     "source": "Electronics Weekly",
-     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
-    },
-    {
-     "title": "Struggling Celerons",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
-     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Struggling Celerons"
-    },
-    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -319,38 +303,6 @@
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
-    },
-    {
-     "title": "Kontron KBox industrial computer platform targets robotics and AI",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
-     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
-    },
-    {
-     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
-     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
-     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
-     "source": "Electronics Weekly",
-     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
-    },
-    {
-     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
-     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
-    },
-    {
-     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
-     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -495,6 +447,54 @@
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1753,10 +1753,18 @@
      "zh": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers"
     },
     {
+     "title": "UK net migration at lowest level since 1997",
+     "link": "https://www.bbc.com/news/articles/cq36gj12n0l3o",
+     "pubDate": "Fri, 27 Nov 2026 20:38:19 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cq36gj12n0l3o Comments URL: https://news.ycombinator.com/item?id=50671417 Points: 8 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "UK net migration at lowest level since 1997"
+    },
+    {
      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
      "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 19 # Comments: 0",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 33 # Comments: 5",
      "source": "Hacker News",
      "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
     },
@@ -1788,7 +1796,7 @@
      "title": "The AT&T Unix PC (3B1) VM",
      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "The AT&T Unix PC (3B1) VM"
     },
@@ -1796,7 +1804,7 @@
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 139 # Comments: 92",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 163 # Comments: 100",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1812,7 +1820,7 @@
      "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
      "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
      "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
-     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 24 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 26 # Comments: 1",
      "source": "Hacker News",
      "zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
     },
@@ -1847,14 +1855,6 @@
      "summary": "Financial Times : Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses &nbsp; &mdash;&nbsp; US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in ",
      "source": "Techmeme",
      "zh": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
-    },
-    {
-     "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-     "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
-     "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 12 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
     },
     {
      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
@@ -1993,6 +1993,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
+     "link": "https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
+     "pubDate": "Fri, 27 Nov 2026 21:17:44 +0000",
+     "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one that leaves enough room in the budget for t",
+     "source": "9to5Google",
+     "zh": "Which Waterdrop water filters are actually worth buying this Black Friday?"
+    },
+    {
      "title": "MacWhisper now remembers speakers’ voices across recordings",
      "link": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
      "pubDate": "Fri, 27 Nov 2026 21:08:01 +0000",
@@ -2105,12 +2113,12 @@
      "zh": "I’m so glad I didn’t give up on the Galaxy Z Fold 8"
     },
     {
-     "title": "Review: The Alexa Tablet 12 Pro is Amazon’s first iPad alternative I actually want to use",
+     "title": "Review: The Alexa Tablet 12 Pro is an iPad alternative I actually want to use",
      "link": "https://9to5google.com/2026/11/27/amazon-alexa-tablet-12-pro-review/",
      "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
      "summary": "I knew Amazon’s new flagship tablet was different when I found myself actually reaching for it. Of course, you might be saying, that’s the job of a reviewer: to use the device throughout your daily life and let people know the good, the bad, and the ugly. But with the Alexa Tablet 12 Pro, I wasn’t j",
      "source": "9to5Google",
-     "zh": "Review: The Alexa Tablet 12 Pro is Amazon’s first iPad alternative I actually want to use"
+     "zh": "Review: The Alexa Tablet 12 Pro is an iPad alternative I actually want to use"
     },
     {
      "title": "Black Friday 2026: photo gear and software deals that are actually worth checking out",
@@ -2143,14 +2151,6 @@
      "summary": "UK carrier Rebel has partnered with TCL to create the Rebel Phone for Kids, a rebranded TCL K70 5G. But instead of running Android with enabled parental controls, the Rebel Phone for Kids runs RebelOS and specifically restricts installing social media apps and has strict control over internet browsi",
      "source": "GSMArena",
      "zh": "TCL teams up with Rebel in the UK to make a social media-less kids phone"
-    },
-    {
-     "title": "The Pixel Watch 5 just hit a new low of $284 on Black Friday",
-     "link": "https://9to5google.com/2026/11/27/pixel-watch-5-black-friday-deal-2026/",
-     "pubDate": "Fri, 27 Nov 2026 18:18:50 +0000",
-     "summary": "Target has already run out of the deal, but Amazon still seems to have stock of the 41mm Pixel Watch 5 Black Friday deal. more…",
-     "source": "9to5Google",
-     "zh": "The Pixel Watch 5 just hit a new low of $284 on Black Friday"
     },
     {
      "title": "Soundcore Nebula P1i projector drops to a record-low $279",
@@ -2241,12 +2241,68 @@
    "total": 13,
    "items": [
     {
-     "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商 双方诉讼战升级",
-     "link": "http://stock.eastmoney.com/news/1611,202611283942130796.html",
-     "pubDate": "Sat, 28 Nov 2026 04:55:07 +0800",
-     "summary": "OpenAI向 苹果 发起反诉，指控这家科技巨头窃取其商业机密、阻断其硬件供应商渠道，两家曾经的合作伙伴之间的法律对抗正迅速激化。 周五，OpenAI在加州法院提起诉讼，回击 苹果 于今年夏天对其提出的商业秘密窃取指控。OpenAI在诉状中措辞强硬，指控 苹果 \"以一切可用手段实施不公平竞争\"，涵盖\"多种违法、不公平及侵权行为\"。 此次法律摩擦对两家公司的关系造成进一步损害。就在两年前，双方还达成合作协议，将ChatGPT嵌入iPhone。 如今随着OpenAI加速布局硬件领域，直接与苹果形成竞争态势，双方关系已急剧恶化。这场法律战的走向，将对两家公司在AI硬件及供应链领域的竞争格局产生深远影",
+     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
+    },
+    {
+     "title": "富时A50期指连续夜盘微跌0.09% 报13051点",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942133458.html",
+     "pubDate": "Sat, 28 Nov 2026 05:18:36 +0800",
+     "summary": "富时A50期指连续夜盘微跌0.09%，报13051点。",
      "source": "东方财富股票",
-     "zh": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商 双方诉讼战升级"
+     "zh": "富时A50期指连续夜盘微跌0.09% 报13051点"
+    },
+    {
+     "title": "美存储芯片与光通信领涨，纳指涨2.3%，金银铜齐涨，美债跌，原油冲高转跌",
+     "link": "https://wallstreetcn.com/articles/3786838",
+     "pubDate": "Sat, 28 Nov 2026 05:15:46 +0800",
+     "summary": "AI交易重新活跃，美股在提前收市的交易日里全面上涨，存储芯片与光通信板块领涨。现货黄金从一周低位反弹，WTI原油盘中冲高后回落，10年期美债收益率随避险需求消退而走高。 周五， 标普500 收于7,297.49点，涨1.60%，本周四个交易日累涨5.6%、创2025年4月以来最大单周涨幅； 纳指 涨2.31%； 道指 涨1.18%； 罗素2000 涨1.71%。 中概股指数 涨3.02%。 风险偏好回暖削弱了美债避险需求，10年期美债收益率回到本周高位附近，升约10基点至4.932%。美元指数维持在104附近。黄金大涨2.5%至每盎司3,639美元，从15个月低点强势反弹。 从整周走势来看，A",
+     "source": "华尔街见闻",
+     "zh": "美存储芯片与光通信领涨，纳指涨2.3%，金银铜齐涨，美债跌，原油冲高转跌"
+    },
+    {
+     "title": "富时A50期指连续夜盘收跌0.09%",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942133671.html",
+     "pubDate": "Sat, 28 Nov 2026 05:15:22 +0800",
+     "summary": "富时A50期指连续夜盘收跌0.09%，报13051点。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "富时A50期指连续夜盘收跌0.09%"
+    },
+    {
+     "title": "标普：法国持续的政治两极分化可能继续制约减赤措施和促增长改革的实施",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942133790.html",
+     "pubDate": "Sat, 28 Nov 2026 05:14:50 +0800",
+     "summary": "标普：法国持续的政治两极分化可能继续制约减赤措施和促增长改革的实施。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "标普：法国持续的政治两极分化可能继续制约减赤措施和促增长改革的实施"
+    },
+    {
+     "title": "标普将法国评级展望调整至负面；确认“A+/A-1”评级",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942131523.html",
+     "pubDate": "Sat, 28 Nov 2026 05:14:48 +0800",
+     "summary": "标普将法国评级展望调整至负面；确认“A+/A-1”评级。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "标普将法国评级展望调整至负面；确认“A+/A-1”评级"
+    },
+    {
+     "title": "标普：在连续两年经济表现疲软之后 法国2027年实际GDP增长可能仍将低迷",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942134078.html",
+     "pubDate": "Sat, 28 Nov 2026 05:14:27 +0800",
+     "summary": "标普：在连续两年经济表现疲软之后，法国2027年实际GDP增长可能仍将低迷。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "标普：在连续两年经济表现疲软之后 法国2027年实际GDP增长可能仍将低迷"
+    },
+    {
+     "title": "标普：预计法国赤字仍将承压",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942133817.html",
+     "pubDate": "Sat, 28 Nov 2026 05:14:18 +0800",
+     "summary": "标普：预计法国赤字仍将承压。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "标普：预计法国赤字仍将承压"
     },
     {
      "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
@@ -2257,44 +2313,12 @@
      "zh": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级"
     },
     {
-     "title": "美军称在阿曼湾击中一艘货船使其丧失航行能力",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942130121.html",
-     "pubDate": "Sat, 28 Nov 2026 04:49:45 +0800",
-     "summary": "美军中央司令部27日发布消息说，美军战机26日在阿曼湾对一艘“试图突破美海军封锁”的散装货船发动打击，使其丧失航行能力。 消息说，这艘货船悬挂帕劳国旗，在离开伊朗阿巴斯港后，不顾警告试图突破美军封锁。一架美军战机随后发射精确制导炸弹，击中该船船尾，致使其推进系统瘫痪，船上船员未受伤害。 消息称，美军中央司令部继续执行对伊朗 港口 的封锁。美军已迫使158艘商船改变航向，令6艘商船丧失航行能力。 美军于7月14日恢复针对所有进出伊朗 港口 船只的封锁行动。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "美军称在阿曼湾击中一艘货船使其丧失航行能力"
-    },
-    {
-     "title": "中国充电联盟开放服务平台总经理仝宗旗：行业已进入“拼质量、拼效率、拼生态”的下半场",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942130629.html",
-     "pubDate": "Sat, 28 Nov 2026 04:49:27 +0800",
-     "summary": "“如何从‘有’到‘好’、以精细化运营提升服务品质，是全行业共同面对的问题。目前行业需求归为五点：产业链数据互通仍存在壁垒，中小微企业获取行业信息不够及时，后市场运维人才的专业化要求提高，央国企进场后运营服务标准化要求抬升，部分细分领域标准仍待补足。”近日，在2026中国 汽车 充换电生态大会期间，中国充电联盟开放服务平台总经理仝宗旗接受了《中国经营报》记者专访。 据了解，国内充换电基础设施总量持续领跑全球，行业增长逻辑正在发生根本性切换。对此，仝宗旗在接受专访时，梳理了今年行业的几大结构性变化，围绕场景细分、数智化平台、增值服务、出海、统建统服、换电路线等话题，给出产业判断。在仝宗旗看来，行业",
-     "source": "东方财富股票",
-     "zh": "中国充电联盟开放服务平台总经理仝宗旗：行业已进入“拼质量、拼效率、拼生态”的下半场"
-    },
-    {
-     "title": "汽车充换电谋新局 交能融合促转型",
-     "link": "http://finance.eastmoney.com/news/1358,202611283942130544.html",
-     "pubDate": "Sat, 28 Nov 2026 04:46:55 +0800",
-     "summary": "2026年， 汽车 充换电行业正从各自建网转向跨品牌、跨领域合作，竞争焦点也转向网络互通、标准兼容与资源的高效利用，充换电设施更是加速从单一补能终端向 综合 能源节点演进。面对新形势、新机遇，《中国经营报》记者在2026中国 汽车 充换电生态大会现场了解到，众多业内人士就当前的行业转型明方向、谋思路、聚合力，共议充电行业的下一步发展。 “当前，充电基础设施行业正处于加速整合期，部分企业因技术、模式不能适应用户需求而退出市场，行业既要巩固已有成果和优势，更要迎接创新与变革带来的挑战。”中国 汽车 工业协会副会长兼秘书长付炳锋对包括《中国经营报》在内的媒体记者表示。 “如何从‘有’到‘好’、以精细",
-     "source": "东方财富股票",
-     "zh": "汽车充换电谋新局 交能融合促转型"
-    },
-    {
-     "title": "车企集体造芯 黑芝麻智能扭亏面临挑战",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942130274.html",
-     "pubDate": "Sat, 28 Nov 2026 04:43:30 +0800",
-     "summary": "作为“自动驾驶计算芯片第一股”， 黑芝麻智能 （02533.HK）跨界具身智能赛道的举措引发市场关注。 近日， 黑芝麻智能 成立具身智能总部，同时宣布，已与数十家国内 机器人 企业建立生态伙伴关系，与多家头部 机器人 厂商达成量产订单，涵盖轮式 机器人 、 人形机器人 、四足机器狗、工业机械臂等品类。 在深度布局具身智能的同时， 黑芝麻智能 资本市场的动作频频。公告显示，11月23日， 黑芝麻 智能核心员工完成增持，总代价约5300万港元，超出原计划4000万—5000万港元的上限。 虽然 黑芝麻 智能手握具身智能量产订单，新一轮增持超额完成，但是资本市场却持保守看法。 截至2026年11月2",
-     "source": "东方财富股票",
-     "zh": "车企集体造芯 黑芝麻智能扭亏面临挑战"
-    },
-    {
-     "title": "国际油价27日微跌",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942129885.html",
-     "pubDate": "Sat, 28 Nov 2026 04:41:09 +0800",
-     "summary": "截至当天收盘，纽约商品交易所1月交货的轻质原油 期货 价格下跌60美分，收于每桶83.08美元，跌幅为0.72%；1月交货的伦敦布伦特原油 期货 价格下跌1.13美元，收于每桶95.44美元，跌幅为1.17%。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "国际油价27日微跌"
+     "title": "标普19个月最佳一周！美股AI交易巨震背后：黄仁勋回归、特朗普押注与监管风险交织",
+     "link": "https://wallstreetcn.com/articles/3786878",
+     "pubDate": "Sat, 28 Nov 2026 04:54:11 +0800",
+     "summary": "黄仁勋重新执掌英伟达，点燃美股周初反弹，但AI交易随即再度遭遇剧烈震荡，Anthropic上市后首次破发、英伟达两日回吐近10%。特朗普政府的AI政策押注、科技巨头巨额资本开支引发的回报疑虑，以及监管和宏观政策风险，共同塑造了在巨震后仍大幅收涨的感恩节交易周。 黄仁勋回归引爆周一大反弹，AI交易两日抛售后周五回暖 11月23日周一，英伟达董事会宣布黄仁勋重新出任公司CEO，成为扭转此前美股科技股抛售行情的关键催化剂。此前，特朗普曾公开推动黄仁勋回归，白宫方面也参与了相关沟通。特朗普周一当天表示，黄仁勋重新执掌英伟达对公司乃至美国经济都很重要。 消息公布后，英伟达股价周一暴涨31.5%，单日市值",
+     "source": "华尔街见闻",
+     "zh": "标普19个月最佳一周！美股AI交易巨震背后：黄仁勋回归、特朗普押注与监管风险交织"
     },
     {
      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -2369,14 +2393,6 @@
      "zh": "日本烟草大涨！市场押注其与奥驰亚联手收购并分拆帝国品牌"
     },
     {
-     "title": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带",
-     "link": "https://wallstreetcn.com/articles/3786871",
-     "pubDate": "Sat, 28 Nov 2026 03:19:50 +0800",
-     "summary": "美国年度最大购物季已经拉开帷幕，但消费分化正在加剧：高收入家庭计划增加节日支出，近半数低收入家庭却准备削减开销，K型消费格局正成为今年黑色星期五的主线。 据高盛零售分析师Brooke Roach团队对约1000名消费者的调查， 年收入10万美元及以上的家庭中，50%计划增加节日消费，高于去年的44%；年收入低于5万美元的家庭中，48%预计削减支出，也高于去年的46%。分析师指出，消费乐观情绪仍集中在高收入群体，中低收入家庭则更加谨慎。 与此同时，全美零售联合会（NRF）与Prosper Insights & Analytics预计，今年感恩节购物周末将吸引1.827亿消费者，较去年下降约2%。",
-     "source": "华尔街见闻",
-     "zh": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带"
-    },
-    {
      "title": "Energy Fuels gains 11% as peers and the broader market rise",
      "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
@@ -2391,14 +2407,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "FuelCell Energy climbs 8% alongside broad market rally"
-    },
-    {
-     "title": "Astera Labs climbs 9% amid broad rally in technology shares",
-     "link": "https://seekingalpha.com/news/4677097-astera-labs-climbs-9-percent-amid-broad-rally-in-technology-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:07:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Astera Labs climbs 9% amid broad rally in technology shares"
     },
     {
      "title": "The warnings behind this week’s stock-market rally",
@@ -2439,14 +2447,6 @@
      "summary": "New breakthroughs call for faster upgrades to security, not panic",
      "source": "Financial Times",
      "zh": "AI and the decryption nightmare"
-    },
-    {
-     "title": "美国空军核心云平台Cloud One遭黑客入侵，内部人士警告“事态极其严重”",
-     "link": "https://wallstreetcn.com/articles/3786872",
-     "pubDate": "Sat, 28 Nov 2026 02:17:34 +0800",
-     "summary": "美国空军旗舰云基础设施Cloud One据报遭到黑客入侵，可能令大量敏感的战术与人事数据面临风险。 这是美国军方最大云平台之一首次被公开披露遭突破，事件发生在平台升级期间，暴露了国防部在将核心业务迁移至商业云过程中所积累的系统性脆弱性。多名知情人士将该入侵形容为“大事件”。 据路透上周五报道， 此次入侵是在过去一个月内的平台升级过程中被发现的。目前尚不清楚攻击者的身份，也无法确认其是否实际获取了数据。 美国空军在回应中表示，不对“特定网络与系统的安全态势、漏洞或运行状态”置评，并强调持续采取审慎措施保护空军部信息、系统与任务能力。 Cloud One于2017年推出，用于存储数据并为飞机维护、",
-     "source": "华尔街见闻",
-     "zh": "美国空军核心云平台Cloud One遭黑客入侵，内部人士警告“事态极其严重”"
     },
     {
      "title": "Intermex sues Western Union over merger agreement termination",

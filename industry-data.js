@@ -2018,14 +2018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99"
     },
     {
-     "title": "Pixelated 127: Nobody reads, nobody writes",
-     "link": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
-     "pubDate": "Fri, 27 Nov 2026 21:30:00 +0000",
-     "summary": "Welcome to Pixelated episode 127. This week, we’re unlocking a bonus episode from the vault. Originally recorded in the aftermath of the Pixel 11 launch and review cycle, listen in as Abner, Damien, and Will discuss how they stay motivated to continue reporting on and reviewing technology products, ",
-     "source": "9to5Google",
-     "zh": "Pixelated 127: Nobody reads, nobody writes"
-    },
-    {
      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
      "link": "https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
      "pubDate": "Fri, 27 Nov 2026 21:17:44 +0000",
@@ -2160,6 +2152,14 @@ window.INDUSTRY_DATA = {
      "summary": "Just because you can doesn’t mean you should.",
      "source": "Android Authority",
      "zh": "YouTube’s latest mobile redesign lets you like videos without opening them"
+    },
+    {
+     "title": "What new Google Messages features are rolling out [November 2026]",
+     "link": "https://9to5google.com/2026/11/27/new-google-messages-features/",
+     "pubDate": "Fri, 27 Nov 2026 18:38:00 +0000",
+     "summary": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…",
+     "source": "9to5Google",
+     "zh": "What new Google Messages features are rolling out [November 2026]"
     },
     {
      "title": "TCL teams up with Rebel in the UK to make a social media-less kids phone",

@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-27T04:49:20.304Z",
+  "generatedAt": "2026-11-27T05:09:19.663Z",
   "count": 40,
   "items": [
+    {
+      "title": "Is the stock market open on Black Friday?",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+      "pubDate": "Fri, 27 Nov 2026 05:01:00 GMT",
+      "content": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
+      "source": "US",
+      "category": "美股市场"
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -73,14 +81,6 @@
       "content": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
       "source": "US",
       "category": "全球综合"
-    },
-    {
-      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-      "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-      "pubDate": "Thu, 26 Nov 2026 14:00:00 GMT",
-      "content": "The ‘Bank of AI’ faces a host of troubles ahead.",
-      "source": "US",
-      "category": "半导体"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

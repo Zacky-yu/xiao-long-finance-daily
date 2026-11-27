@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 12:51:51",
+ "generated_at": "2026/11/27 13:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,54 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Context Scaling: A New Frontier of AI Scaling",
+     "link": "https://arxiv.org/abs/2611.33160",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment c",
+     "source": "arXiv cs.AI",
+     "zh": "Context Scaling: A New Frontier of AI Scaling"
+    },
+    {
+     "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+     "link": "https://arxiv.org/abs/2611.33161",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausibl",
+     "source": "arXiv cs.AI",
+     "zh": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection"
+    },
+    {
+     "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+     "link": "https://arxiv.org/abs/2611.33165",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that ",
+     "source": "arXiv cs.AI",
+     "zh": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics"
+    },
+    {
+     "title": "General-Purpose Decision Models for AI Configuration Tuning",
+     "link": "https://arxiv.org/abs/2611.33190",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost.",
+     "source": "arXiv cs.AI",
+     "zh": "General-Purpose Decision Models for AI Configuration Tuning"
+    },
+    {
+     "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+     "link": "https://arxiv.org/abs/2611.33263",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate respons",
+     "source": "arXiv cs.AI",
+     "zh": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning"
+    },
+    {
+     "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+     "link": "https://arxiv.org/abs/2611.33303",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. Howe",
+     "source": "arXiv cs.AI",
+     "zh": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
+    },
     {
      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
      "link": "https://www.qbitai.com/2026/11/513163.html",
@@ -162,54 +210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
     },
     {
-     "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-     "link": "https://arxiv.org/abs/2611.31284",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act. In this paper, we show that allocation is ",
-     "source": "arXiv cs.AI",
-     "zh": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition"
-    },
-    {
-     "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-     "link": "https://arxiv.org/abs/2611.31301",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmar",
-     "source": "arXiv cs.AI",
-     "zh": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake"
-    },
-    {
-     "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-     "link": "https://arxiv.org/abs/2611.31329",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set ",
-     "source": "arXiv cs.AI",
-     "zh": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data"
-    },
-    {
-     "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-     "link": "https://arxiv.org/abs/2611.31345",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive ",
-     "source": "arXiv cs.AI",
-     "zh": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs"
-    },
-    {
-     "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-     "link": "https://arxiv.org/abs/2611.31346",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-decep",
-     "source": "arXiv cs.AI",
-     "zh": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations"
-    },
-    {
-     "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-     "link": "https://arxiv.org/abs/2611.31347",
-     "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act on the answer unseen. We attack six Laya models with 81 programmatic edits of 5",
-     "source": "arXiv cs.AI",
-     "zh": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations"
-    },
-    {
      "title": "马斯克脑机接口上市在即！关键临床试验获批，意念玩《GTA 6》已成真",
      "link": "https://zhidx.com/p/614531.html",
      "pubDate": "Thu, 26 Nov 2026 11:17:30 +0800",
@@ -258,6 +258,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Global smartphone shipments to fall a further 6% in 2027 as memory squeeze persists",
+     "link": "https://www.digitimes.com/news/a20261127PR201/smartphone-shipments-forecast-market-2027.html",
+     "pubDate": "Fri, 27 Nov 2026 04:45:22 GMT",
+     "summary": "Global smartphone shipments are forecast to decline 13.9% year-over-year in 2026 and fall a further 6% in 2027, according to Counterpoint Research's latest Smartphone Market Outlook Tracker, released on November 25. The research firm expects a 6% rebound in 2028, but said the market will not regain ",
+     "source": "DIGITIMES",
+     "zh": "Global smartphone shipments to fall a further 6% in 2027 as memory squeeze persists"
+    },
+    {
+     "title": "India's festive smartphone sales fall 22% as memory costs push prices up: Counterpoint",
+     "link": "https://www.digitimes.com/news/a20261127PR200/india-smartphone-sales-price-demand-2026.html",
+     "pubDate": "Fri, 27 Nov 2026 04:37:38 GMT",
+     "summary": "India's smartphone sales during the 2026 festive season, which ran from October 8 to November 10, fell an estimated 22% year-over-year, according to preliminary post-festive checks by Counterpoint Research. The decline was much steeper than the research firm's pre-festive forecast of 12%. Market val",
+     "source": "DIGITIMES",
+     "zh": "India's festive smartphone sales fall 22% as memory costs push prices up: Counterpoint"
+    },
+    {
+     "title": "China's Weimob to form Nvidia RTX PRO 5500 cluster as chip export restrictions loom",
+     "link": "https://www.digitimes.com/news/a20261127VL210/nvidia-rtx-chips-software-production.html",
+     "pubDate": "Fri, 27 Nov 2026 04:27:44 GMT",
+     "summary": "Weimob, a Chinese provider of cloud-based commerce software and marketing services, announced its planned purchase of 5,000 Nvidia RTX PRO 5500 graphics cards for its own AI-powered services as well as possibly leasing compute. The upcoming purchase reflects a drive among Chinese companies to acquir",
+     "source": "DIGITIMES",
+     "zh": "China's Weimob to form Nvidia RTX PRO 5500 cluster as chip export restrictions loom"
+    },
+    {
      "title": "SpaceX million-satellite plan exposes hurdles to space-based data centers",
      "link": "https://www.digitimes.com/news/a20261127PD211/spacex-data-fcc-launch-capacity.html",
      "pubDate": "Fri, 27 Nov 2026 04:13:09 GMT",
@@ -280,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic has used simulated tests to assess whether artificial intelligence (AI) can resist temptation and follow rules. The results found that its new-generation Claude models still attempted to cross boundaries, but violations involving the use of external data fell substantially.",
      "source": "DIGITIMES",
      "zh": "Can AI resist temptation? Anthropic finds lower violation rates in new Claude models"
-    },
-    {
-     "title": "Gem Terminal expects new copper materials to make up half of revenue in 2027, with copper prices the key risk",
-     "link": "https://www.digitimes.com/news/a20261126PD222/copper-materials-revenue-2027-2026.html",
-     "pubDate": "Fri, 27 Nov 2026 03:53:33 GMT",
-     "summary": "Taiwan-based terminal and copper materials processor Gem Terminal Industry expects its advanced copper materials to account for 50% of revenue in 2027, up from around 30% in 2026, overtaking traditional terminals as its largest product line, president Yu-min Lin said at an investor conference on Nov",
-     "source": "DIGITIMES",
-     "zh": "Gem Terminal expects new copper materials to make up half of revenue in 2027, with copper prices the key risk"
-    },
-    {
-     "title": "Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027",
-     "link": "https://www.digitimes.com/news/a20261126PD208/analog-ic-capacity-financing-2027.html",
-     "pubDate": "Fri, 27 Nov 2026 03:40:56 GMT",
-     "summary": "Market concerns over circular financing in AI remain unresolved following the turmoil surrounding Nvidia CEO Jensen Huang's resignation on November 12 and subsequent return. Supply chain players across AI chips, memory, and power-related sectors could all be affected, fueling uncertainty over the br",
-     "source": "DIGITIMES",
-     "zh": "Analog IC shortages persist despite AI uncertainty as supply becomes key concern for 2027"
-    },
-    {
-     "title": "US chip rules, anti-distillation efforts force delays on China's flagship AI models",
-     "link": "https://www.digitimes.com/news/a20261127VL208/flagship-moonshot-training-data-claude.html",
-     "pubDate": "Fri, 27 Nov 2026 03:40:10 GMT",
-     "summary": "A coordinated push by Washington and leading American artificial intelligence labs is beginning to bottleneck China's rapid AI progress. By tightening access to offshore computing clusters and erecting technical barriers against unauthorized model training, US policymakers and tech giants have force",
-     "source": "DIGITIMES",
-     "zh": "US chip rules, anti-distillation efforts force delays on China's flagship AI models"
     },
     {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
@@ -1754,6 +1754,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？",
+     "link": "https://www.baijing.cn/question/638999",
+     "pubDate": "Fri, 27 Nov 2026 04:53:28 +0000",
+     "summary": "我们做中东女性护肤，沙特站TikTok刚起量，团队一共3个人，一个运营兼投放、一个阿语内容、一个供应链。上个月跟利雅得两位本地红人做了两场直播，第一场同时在线峰值只有80人，第二场因为红人临时改档期，我们提前一周备的货和素材全压着。现在卡在排期上：红人档期不稳定，我们人手又排不出专人盯每场直播加复盘，一个月最多撑两场。想问问同样小团队做沙特直播红人合作的，你们是按什么标准筛红人、怎么定排期节奏，才能保证每场都有人盯数据又不至于把人耗死？",
+     "source": "白鲸出海",
+     "zh": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？"
+    },
+    {
+     "title": "腾讯阿里百度集体交账，AI进入兑现期",
+     "link": "https://www.tmtpost.com/8219613.html",
+     "pubDate": "Fri, 27 Nov 2026 12:52:19 +0800",
+     "summary": "AI投入热，何以要算长远账。",
+     "source": "钛媒体",
+     "zh": "腾讯阿里百度集体交账，AI进入兑现期"
+    },
+    {
+     "title": "从410亿美元收购，看MNC“算账”哲学",
+     "link": "https://www.tmtpost.com/8219437.html",
+     "pubDate": "Fri, 27 Nov 2026 12:51:55 +0800",
+     "summary": "“410亿美元是一个标准估值”",
+     "source": "钛媒体",
+     "zh": "从410亿美元收购，看MNC“算账”哲学"
+    },
+    {
+     "title": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！",
+     "link": "https://www.tmtpost.com/8219499.html",
+     "pubDate": "Fri, 27 Nov 2026 12:51:53 +0800",
+     "summary": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！",
+     "source": "钛媒体",
+     "zh": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！"
+    },
+    {
+     "title": "实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢",
+     "link": "https://www.tmtpost.com/8219494.html",
+     "pubDate": "Fri, 27 Nov 2026 12:51:52 +0800",
+     "summary": "思考得像睡着了",
+     "source": "钛媒体",
+     "zh": "实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢"
+    },
+    {
      "title": "长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展",
      "link": "https://www.ithome.com/1/033/327.htm",
      "pubDate": "Fri, 27 Nov 2026 04:43:20 GMT",
@@ -1901,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Google will show solo Android developers' phone numbers and addresses",
      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
      "pubDate": "Fri, 27 Nov 2026 03:11:41 +0000",
-     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 53 # Comments: 21",
+     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 59 # Comments: 29",
      "source": "Hacker News",
      "zh": "Google will show solo Android developers' phone numbers and addresses"
     },
@@ -1914,38 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？"
     },
     {
-     "title": "功臣不封侯，字节无山头",
-     "link": "https://www.tmtpost.com/8219495.html",
-     "pubDate": "Fri, 27 Nov 2026 11:03:58 +0800",
-     "summary": "字节用一套高度理性的现代工程化管理，消解传统互联网的江湖人情与领地意识。它让这台庞大的机器在面对时代剧变时依然保持着敏捷，也让身处其中的每一个人，都必须习惯没有领地的奔跑。",
-     "source": "钛媒体",
-     "zh": "功臣不封侯，字节无山头"
-    },
-    {
-     "title": "独家 |  在看不见“真人”的红果，人怎么赚钱",
-     "link": "https://www.tmtpost.com/8220004.html",
-     "pubDate": "Fri, 27 Nov 2026 11:00:06 +0800",
-     "summary": "红果的未来是自主生成短剧，而不需要靠真人",
-     "source": "钛媒体",
-     "zh": "独家 |  在看不见“真人”的红果，人怎么赚钱"
-    },
-    {
-     "title": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
-     "link": "https://www.tmtpost.com/8219833.html",
-     "pubDate": "Fri, 27 Nov 2026 10:59:55 +0800",
-     "summary": "11月24日，比亚迪宣布，与英国英力士汽车（INEOS Automotive）就收购法国汉巴赫（Hambach）汽车工厂进入独家谈判。",
-     "source": "钛媒体",
-     "zh": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场"
-    },
-    {
-     "title": "炎症性肠病之争，绕不开的艾伯维",
-     "link": "https://www.tmtpost.com/8219400.html",
-     "pubDate": "Fri, 27 Nov 2026 10:59:53 +0800",
-     "summary": "一座大山的形成",
-     "source": "钛媒体",
-     "zh": "炎症性肠病之争，绕不开的艾伯维"
-    },
-    {
      "title": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？",
      "link": "https://www.baijing.cn/question/638994",
      "pubDate": "Fri, 27 Nov 2026 02:42:23 +0000",
@@ -1954,18 +1962,10 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？"
     },
     {
-     "title": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？",
-     "link": "https://www.baijing.cn/question/638993",
-     "pubDate": "Fri, 27 Nov 2026 02:14:03 +0000",
-     "summary": "我们做二次元卡牌RPG，团队12人，3月刚在韩国上线，GRAC分级和概率公示都按流程走完了，但预注册阶段Meta和Google的CPA一直卡在1.8万韩元上下，比日本同品类高出近一倍。已经试过换素材方向、把预算往Naver和Kakao渠道倾斜，也调过受众年龄分层，成本只降了不到15%。现在纠结的是：韩国市场这个CPA到底是分级合规带来的素材审核限制导致的，还是我们本地化素材本身没打中韩国玩家？想先判断该继续加预算跑量，还是回头重做素材和落地页。",
-     "source": "白鲸出海",
-     "zh": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？"
-    },
-    {
      "title": "Hard Drive pricing has gotten bad",
      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
      "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 167 # Comments: 87",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 179 # Comments: 101",
      "source": "Hacker News",
      "zh": "Hard Drive pricing has gotten bad"
     },
@@ -1986,12 +1986,12 @@ window.INDUSTRY_DATA = {
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
     },
     {
-     "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-     "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-     "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
-     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 43 # Comments: 20",
+     "title": "ESO statement on approval of launch of one million space data centres",
+     "link": "https://www.eso.org/public/news/eso2614/",
+     "pubDate": "Fri, 27 Nov 2026 00:03:44 +0000",
+     "summary": "Article URL: https://www.eso.org/public/news/eso2614/ Comments URL: https://news.ycombinator.com/item?id=50661224 Points: 12 # Comments: 7",
      "source": "Hacker News",
-     "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
+     "zh": "ESO statement on approval of launch of one million space data centres"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo X500 Pro Max Apex Orange hands-on",
+     "link": "https://www.gsmarena.com/vivo_x500_pro_max_apex_orange_hands_on-news-75651.php",
+     "pubDate": "Fri, 27 Nov 2026 06:02:02 +0100",
+     "summary": "vivo unveiled the X500 Pro Max in September and began its international rollout last month. Today, it launched the X500 Pro Max in India alongside the X500, X500 Pro, and Watch GT 2. The vivo X500 Pro Max comes in Apex Orange and Eternal Black colors in India. We got our hands on the Apex Orange mod",
+     "source": "GSMArena",
+     "zh": "vivo X500 Pro Max Apex Orange hands-on"
+    },
     {
      "title": "ANBERNIC’s next Snapdragon-powered Game Boy-like handheld comes with active cooling",
      "link": "https://www.androidauthority.com/anbernic-rg-47g1-teased-snapdragon-120hz-3740662/",
@@ -2112,14 +2120,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Report: Apple accounted for 57% of US smartphone shipments in Q3"
-    },
-    {
-     "title": "Amazon US Black Friday deals: the best smartphone offers",
-     "link": "https://www.gsmarena.com/amazon_us_black_friday_deals_last_call_for_the_best_smartphone_offers-news-75650.php",
-     "pubDate": "Thu, 26 Nov 2026 21:49:01 +0100",
-     "summary": "Amazon extended Black Friday sales to a full week – but those seven days are nearly over. The big date, the actual Black Friday, is tomorrow, so you don’t have much time left. We looked through the offers and updated the prices in a couple of places. We’re glad to report that nothing is out of stock",
-     "source": "GSMArena",
-     "zh": "Amazon US Black Friday deals: the best smartphone offers"
     },
     {
      "title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
@@ -2250,6 +2250,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nations Royalty Corp. reports Q2 results",
+     "link": "https://seekingalpha.com/news/4676924-nations-royalty-corp-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:03:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nations Royalty Corp. reports Q2 results"
+    },
+    {
+     "title": "恒生科技指数涨4%",
+     "link": "http://finance.eastmoney.com/news/11440,202611273941567779.html",
+     "pubDate": "Fri, 27 Nov 2026 13:02:36 +0800",
+     "summary": "港股午后快速走强，恒生科技指数涨4%。",
+     "source": "东方财富股票",
+     "zh": "恒生科技指数涨4%"
+    },
+    {
+     "title": "午后A股井喷上涨 科创50指数涨逾7% 创业板指涨5.7%",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941566475.html",
+     "pubDate": "Fri, 27 Nov 2026 13:00:53 +0800",
+     "summary": "午后A股井喷上涨，科创50指数涨逾7%，创业板指涨5.7%。盘面上， 华为欧拉 、 高带宽内存 、 光刻机 、 财税数字化 、 华为昇腾 、 半导体 涨幅居前。",
+     "source": "东方财富股票",
+     "zh": "午后A股井喷上涨 科创50指数涨逾7% 创业板指涨5.7%"
+    },
+    {
+     "title": "Friday's Economic Calendar",
+     "link": "https://seekingalpha.com/news/4676824-fridays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Friday's Economic Calendar"
+    },
+    {
+     "title": "摩根大通将彪马评级从中性下调至减持",
+     "link": "http://stock.eastmoney.com/news/1611,202611273941567580.html",
+     "pubDate": "Fri, 27 Nov 2026 12:59:11 +0800",
+     "summary": "摩根大通 将彪马评级从中性下调至减持，目标价从26欧元下调至21欧元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "摩根大通将彪马评级从中性下调至减持"
+    },
+    {
+     "title": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M",
+     "link": "https://seekingalpha.com/news/4676923-bqe-water-gaap-eps-of-281-beats-by-108-revenue-of-1227m-misses-by-093m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:58:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M"
+    },
+    {
+     "title": "“天下第一财神庙”昨天重新开放！现场人山人海 有人提前4天就去等候",
+     "link": "http://finance.eastmoney.com/news/11058,202611273941538520.html",
+     "pubDate": "Fri, 27 Nov 2026 12:56:07 +0800",
+     "summary": "历经半年全面封闭修缮，有着 “天下第一财神庙” 之称的杭州北高峰灵顺寺于11月26日重新对外开放。 消息一出，令江浙沪等候已久的粉丝们为之一振。上海的吴女士提前一天定好杭州的 酒店 、往返 高铁 票，只为赶上这波重开热潮。在灵隐景区开餐厅的小金，在餐厅官方账号上兴冲冲地晒出“天下第一财神庙”重新开放的海报。想到即将蜂拥而至的大客流，她对餐厅生意的回暖充满期待。 11月26日早上，有网友发帖称财神庙开门了！一大早已经有很多人在排队。 “人已经在工位上班了，但魂好像还在山上。” 有网友今天凌晨五点起来去财神庙，回来没耽误打九点的上班卡。 随着人越来越多，有博主发帖称：“现场人山人海。” “天下第一",
+     "source": "东方财富股票",
+     "zh": "“天下第一财神庙”昨天重新开放！现场人山人海 有人提前4天就去等候"
+    },
+    {
+     "title": "China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%",
+     "link": "https://seekingalpha.com/news/4676915-chinas-industrial-profits-surge-201-in-october-as-ten-month-growth-accelerates-to-16?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:55:03 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%"
+    },
+    {
+     "title": "诺诚健华：佐来曲替尼成为中国首款自主研发获批治疗儿童实体瘤的TRK抑制剂",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941566152.html",
+     "pubDate": "Fri, 27 Nov 2026 12:54:54 +0800",
+     "summary": "诺诚健华 今天宣布，公司自主研发的新一代TRK抑制剂佐来曲替尼获得中国国家药品监督管理局批准，用于治疗2岁至12岁携带NTRK融合基因的儿童实体瘤患者，标志着中国首款自主研发治疗儿童实体瘤的新一代TRK抑制剂获批上市。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "诺诚健华：佐来曲替尼成为中国首款自主研发获批治疗儿童实体瘤的TRK抑制剂"
+    },
+    {
+     "title": "苹果美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续",
+     "link": "http://stock.eastmoney.com/news/11228,202611273941557031.html",
+     "pubDate": "Fri, 27 Nov 2026 12:53:23 +0800",
+     "summary": "苹果 有望在 消费电子 市场疲软之际异军突起，近期发布的几份报告显示， 苹果 在零部件短缺和成本上涨方面的处理比竞争对手更加得当，这让该公司的产品市占率得到了提升。 Counterpoint最新的美国智能手机出货报告显示，在整体出货量下降9%的情况下， 苹果 的市场份额从去年同期的50%增长至57%。 Counterpoint指出，内存成本上涨在第三季度对低端安卓手机市场造成了尤为严重的冲击。该机构高级分析师Emily Herbert表示，安卓OEM厂商几乎没有办法在不提高产品价格或减少产量的情况下，消化更高的物料成本。 而三星是唯一一家出货量份额增长的主要安卓智能手机厂商，其市场份额增长了1",
+     "source": "东方财富股票",
+     "zh": "苹果美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续"
+    },
+    {
+     "title": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision",
+     "link": "https://seekingalpha.com/news/4676918-trump-alleges-fake-gdp-data-ahead-of-midterms-after-43-revision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:48:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision"
+    },
+    {
      "title": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M",
      "link": "https://seekingalpha.com/news/4676919-ntg-clarity-networks-gaap-eps-of-c000-revenue-of-c1922m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 23:44:42 -0500",
@@ -2258,76 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M"
     },
     {
-     "title": "魏建军谈长城为何坚持燃油车：国内卖电动车不赚钱 “一车卖全球”已跑通",
-     "link": "http://finance.eastmoney.com/news/1349,202611273941565723.html",
-     "pubDate": "Fri, 27 Nov 2026 12:41:55 +0800",
-     "summary": "11月27日，2027广州车展期间， 长城汽车 董事长魏建军在接受凤凰网科技在内的媒体采访时，回应了 新能源 渗透率不断提升背景下， 长城汽车 为何仍坚持燃油车及多能源技术路线的问题。魏建军表示， 汽车 产业需要形成商业闭环， 长城汽车 在国内销售电动车不赚钱，但在海外市场，纯电、燃油、HEV（油电混动）和PHEV（插电混动）车型均能实现盈利。 魏建军介绍， 长城汽车 通过归元平台，实现从传统燃油车到纯电、插电混动、油电混动的多种动力形式覆盖，即“一车多动力、一车多能源”。这一模式能够扩大单一车型的市场覆盖范围，满足全球不同地区消费者的需求。 魏建军以欧拉5为例透露， 目前欧拉5月销量接近2万",
-     "source": "东方财富股票",
-     "zh": "魏建军谈长城为何坚持燃油车：国内卖电动车不赚钱 “一车卖全球”已跑通"
-    },
-    {
-     "title": "“不就是5G升级到6G吗？”没那么简单",
-     "link": "http://finance.eastmoney.com/news/11158,202611273941565058.html",
-     "pubDate": "Fri, 27 Nov 2026 12:37:25 +0800",
-     "summary": "《新一代 通信 网建设实施方案》26日发布，从顶层设计到落地实施，我国新一代 通信 网建设正式迈入新阶段。 如果用一句话概括“新一代 通信 网”，也许有人会说，不就是5G升级到6G，网速更快了吗？这一理解并不全面。 方案明确，新一代通信网是以第五代移动通信演进/第六代移动通信（5G—A/6G）、万兆光网、 卫星互联网 等为核心支撑，以高速泛在、天地一体、云网融合、智能敏捷、绿色低碳、安全可控为关键特征的智能化 综合 性数字信息基础设施，主要由基础网络、空间网络、国际网络、融合网络构成。 新一代通信网的“新”，绝非网速的简单提升，而是内涵的全面拓展。 新的连接主体，从连接“人”到连接“人机物”“",
-     "source": "东方财富股票",
-     "zh": "“不就是5G升级到6G吗？”没那么简单"
-    },
-    {
-     "title": "丰田母公司10月全球销量同比下降4.6%",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941565162.html",
-     "pubDate": "Fri, 27 Nov 2026 12:35:21 +0800",
-     "summary": "丰田母公司10月全球销量同比下降4.6%至880,087辆。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "丰田母公司10月全球销量同比下降4.6%"
-    },
-    {
-     "title": "Binance ends withdrawal freeze following recovery efforts after October security incident",
-     "link": "https://seekingalpha.com/news/4676914-binance-ends-withdrawal-freeze-following-recovery-efforts-after-october-security-incident?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:34:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Binance ends withdrawal freeze following recovery efforts after October security incident"
-    },
-    {
-     "title": "泰国SET指数上涨1%",
-     "link": "http://stock.eastmoney.com/news/1439,202611273941564880.html",
-     "pubDate": "Fri, 27 Nov 2026 12:33:05 +0800",
-     "summary": "泰国SET指数上涨1%至1,428.88点。",
-     "source": "东方财富股票",
-     "zh": "泰国SET指数上涨1%"
-    },
-    {
-     "title": "Trump says Huang is excited about his 'second term' at Nvidia",
-     "link": "https://seekingalpha.com/news/4676912-trump-says-huang-is-excited-about-his-second-term-at-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:32:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump says Huang is excited about his 'second term' at Nvidia"
-    },
-    {
      "title": "Tech stocks regain ground at end of volatile trading week",
      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 04:31:57 GMT",
      "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
      "source": "Financial Times",
      "zh": "Tech stocks regain ground at end of volatile trading week"
-    },
-    {
-     "title": "11月27日午间涨停复盘：96股涨停 全筑股份9天7板",
-     "link": "http://stock.eastmoney.com/news/11781,202611273941564441.html",
-     "pubDate": "Fri, 27 Nov 2026 12:31:46 +0800",
-     "summary": "今日午盘沪指 涨 0.28%，深成指 涨 2.16%，创业板指 涨 3.79%，今日午盘大盘成交额9205.20亿，较上个交易日放量1242.23亿。 涨停个股数量方面，今日午盘共计96股涨停，另有19只个股盘中一度触及涨停，封板率83.48%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "11月27日午间涨停复盘：96股涨停 全筑股份9天7板"
-    },
-    {
-     "title": "美团：骑手薪酬均透明可查，不存在网传“工资准时险”",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941564650.html",
-     "pubDate": "Fri, 27 Nov 2026 12:31:44 +0800",
-     "summary": "11月27日，美团发布声明称，骑手薪酬均透明可查，不存在网传“工资准时险”。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "美团：骑手薪酬均透明可查，不存在网传“工资准时险”"
     },
     {
      "title": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能",
@@ -2352,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
      "source": "CNBC",
      "zh": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations"
-    },
-    {
-     "title": "SAP said to consider cutting 10,000 jobs in AI-focused business revamp",
-     "link": "https://seekingalpha.com/news/4676911-sap-said-to-consider-cutting-10000-jobs-in-ai-focused-business-revamp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:17:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SAP said to consider cutting 10,000 jobs in AI-focused business revamp"
     },
     {
      "title": "华为乾崑合作品牌达26个，搭载车型超60款",
@@ -2402,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "An exiled former leader faces execution at home. Why does she want to go back?"
     },
     {
-     "title": "Rocket Lab Launches 101st Electron Mission",
-     "link": "https://seekingalpha.com/news/4676910-rocket-lab-launches-101st-electron-mission?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 22:59:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rocket Lab Launches 101st Electron Mission"
-    },
-    {
      "title": "赋信与建信：AI时代信任构建的两条路径",
      "link": "http://www.eeo.com.cn/2026/1127/1104916.shtml",
      "pubDate": "Fri, 27 Nov 2026 11:52:57 +0800",
@@ -2450,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
     },
     {
-     "title": "盘中A股突变！两大利好引爆算力赛道",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941545367.html",
-     "pubDate": "Fri, 27 Nov 2026 11:23:32 +0800",
-     "summary": "算力产业链集体异动！ 11月27日盘中，A股各大指数纷纷拉升，截至券商中国记者发稿，创业板指、科创50指数涨超2%，深证成指涨超1%。 算力产业链全线爆发， 华为昇腾 、算力 租赁 、 云计算 等方向集体大涨。 开盘3分钟内， 天源迪科 、 天亿马 、 艾布鲁 就直线拉升至20%涨停， 润和软件 、 法本信息 随后也陆续封死20%涨停， 拓维信息 、 中贝通信 、 恒为科技 、 浙大网新 、 华胜天成 、 神州数码 等10%涨停。 市场分析人士指出， 算力概念 股大涨主要有两大原因： 一是 英伟达 暂停向马来西亚、新加坡、泰国和印度尼西亚发运搭载其芯片的服务器，对国产算力构成间接利好。近日，有",
-     "source": "东方财富资讯",
-     "zh": "盘中A股突变！两大利好引爆算力赛道"
-    },
-    {
      "title": "北汽新能源3.89亿元租下长安北京工厂，16.85亿元技改押注新平台",
      "link": "http://www.eeo.com.cn/2026/1127/1104846.shtml",
      "pubDate": "Fri, 27 Nov 2026 11:22:27 +0800",
@@ -2482,12 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高"
     },
     {
-     "title": "三线齐发 长三角高铁营业里程突破8500公里",
-     "link": "http://www.eeo.com.cn/2026/1127/1104784.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:34:09 +0800",
-     "summary": "三条高铁新建正线约364.5公里，设计时速均为350公里，是长三角铁路联网补网强链的重要项目。",
-     "source": "经济观察网",
-     "zh": "三线齐发 长三角高铁营业里程突破8500公里"
+     "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
+     "link": "https://wallstreetcn.com/articles/3786816",
+     "pubDate": "Fri, 27 Nov 2026 10:16:32 +0800",
+     "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
+     "source": "华尔街见闻",
+     "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 04:51:59",
+ "generated_at": "2026/11/28 05:12:05",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -24,6 +32,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
-    },
-    {
-     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-     "source": "TechCrunch AI",
-     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
-    },
-    {
-     "title": "SteerSound：迈向更可靠的音频编辑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
-     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
-     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
-     "source": "机器之心",
-     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -642,6 +642,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Podcast: Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more",
+     "link": "https://electrek.co/2026/11/27/podcast-tesla-fsd-v15-volvo-xc60-90-phevs-porsche-boxster-ev-and-more/",
+     "pubDate": "Fri, 27 Nov 2026 20:58:02 +0000",
+     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more. more…",
+     "source": "Electrek",
+     "zh": "Podcast: Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more"
+    },
+    {
+     "title": "Volvo A40 Electric articulated haul trucks get to work in the UK",
+     "link": "https://electrek.co/2026/11/27/volvo-a40-electric-articulated-haul-trucks-get-to-work-in-the-uk/",
+     "pubDate": "Fri, 27 Nov 2026 20:51:59 +0000",
+     "summary": "After becoming the world’s first all-electric 40 ton class articulated haul truck into regular series production earlier this year, the Volvo A40 has finally reached its first customers in the UK – and they wasted no time putting the big BEV to work on one of the nation’s largest, most important inf",
+     "source": "Electrek",
+     "zh": "Volvo A40 Electric articulated haul trucks get to work in the UK"
+    },
+    {
      "title": "Volkswagen’s new ID. Buzz Beach electric camper goes on sale, starting at over $70,000",
      "link": "https://electrek.co/2026/11/27/vw-id-buzz-beach-ev-camper-goes-on-sale-starting-over-70000/",
      "pubDate": "Fri, 27 Nov 2026 20:28:58 +0000",
@@ -672,22 +688,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Amazon Black Friday Main Event Sale is in full swing with more amazing deals than we can keep up with, and we’ve filled this edition with a wide variety of new appearances and sales increasing their discounts – plus, everything we can’t fit in here are waiting in our updated Black Friday Green D",
      "source": "Electrek",
      "zh": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more"
-    },
-    {
-     "title": "BYD’s flagship electric minivan debuts with a new style and 559 miles of range",
-     "link": "https://electrek.co/2026/11/27/byd-whale-flagship-electric-minivan-debuts-559-miles-range/",
-     "pubDate": "Fri, 27 Nov 2026 18:40:39 +0000",
-     "summary": "BYD’s new flagship MPV is not your average minivan. The Whale can drive over 559 miles (900 km) on a single charge, charge in as little as five minutes, and it’s packed with BYD’s latest tech. more…",
-     "source": "Electrek",
-     "zh": "BYD’s flagship electric minivan debuts with a new style and 559 miles of range"
-    },
-    {
-     "title": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range",
-     "link": "https://electrek.co/2026/11/27/prevost-h3-45-electric-coach-540-kwh-mcs/",
-     "pubDate": "Fri, 27 Nov 2026 17:23:17 +0000",
-     "summary": "Prevost, the Quebec coach builder owned by Volvo Group, has unveiled the H3-45 Electric, its first battery-electric motorcoach. It gets a 540 kWh Volvo battery, 450 kW (600 hp) from two electric motors, and both CCS1 and MCS charging as standard. The H3-45 is Prevost’s flagship and one of the most c",
-     "source": "Electrek",
-     "zh": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range"
     },
     {
      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
@@ -841,6 +841,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Loblaw’s Hydrogen Truck Crossed the Rockies. Another Truck Brought Its Fuel.",
+     "link": "https://cleantechnica.com/2026/11/27/loblaw-hydrogen-truck-rockies-mobile-fuel/",
+     "pubDate": "Fri, 27 Nov 2026 21:02:04 +0000",
+     "summary": "Loblaw’s hydrogen truck crossed the Rockies with three fills and mobile fuel delivery. The trip did not establish a commercial freight system. The post Loblaw’s Hydrogen Truck Crossed the Rockies. Another Truck Brought Its Fuel. appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Loblaw’s Hydrogen Truck Crossed the Rockies. Another Truck Brought Its Fuel."
+    },
     {
      "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
      "link": "https://oilprice.com/Energy/Energy-General/Georgia-Voters-to-Decide-Fate-of-17-Billion-Data-Center-Megaproject.html",
@@ -1064,14 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E. This study examines the environmental footprint of travel influencers, and the role they and social m",
      "source": "CleanTechnica",
      "zh": "High-Flying Influencers"
-    },
-    {
-     "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
-     "link": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
-     "pubDate": "Fri, 27 Nov 2026 04:50:29 +0000",
-     "summary": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers. Travel influencers have a disproportionate ",
-     "source": "CleanTechnica",
-     "zh": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same"
     },
     {
      "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
@@ -1746,18 +1746,18 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "UK net migration at lowest level since 1997",
-     "link": "https://www.bbc.com/news/articles/cq36gj12n0l3o",
-     "pubDate": "Fri, 27 Nov 2026 20:38:19 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cq36gj12n0l3o Comments URL: https://news.ycombinator.com/item?id=50671417 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "UK net migration at lowest level since 1997"
+     "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
+     "link": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 20:51:30 +0000",
+     "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
+     "source": "WIRED",
+     "zh": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers"
     },
     {
      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
      "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 19 # Comments: 0",
      "source": "Hacker News",
      "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "The AT&T Unix PC (3B1) VM",
      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "The AT&T Unix PC (3B1) VM"
     },
@@ -1797,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 121 # Comments: 82",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 139 # Comments: 92",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
      "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
      "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
-     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 22 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 24 # Comments: 1",
      "source": "Hacker News",
      "zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
     },
@@ -1850,6 +1850,14 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
     },
     {
+     "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+     "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+     "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 12 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
+    },
+    {
      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
      "link": "https://www.techmeme.com/261127/p10#a261127p10",
      "pubDate": "Fri, 27 Nov 2026 13:15:00 -0500",
@@ -1864,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
      "source": "WIRED",
      "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
-    },
-    {
-     "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
-     "link": "https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 17:14:52 +0000",
-     "summary": "Glazed donut skin days are ahead. Save on select LED masks and devices through December 8.",
-     "source": "WIRED",
-     "zh": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More"
     },
     {
      "title": "DeepSeek给智能装上了电表",
@@ -1994,6 +1994,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "MacWhisper now remembers speakers’ voices across recordings",
+     "link": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
+     "pubDate": "Fri, 27 Nov 2026 21:08:01 +0000",
+     "summary": "Dutch developer Jordi Bruin rolled out an update to his excellent transcription app MacWhisper this week with a much-requested feature: the ability to automatically identify previously named speakers in new recordings. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "MacWhisper now remembers speakers’ voices across recordings"
+    },
+    {
      "title": "Here are the best Apple Watch deals for Black Friday",
      "link": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
      "pubDate": "Fri, 27 Nov 2026 20:40:35 +0000",
@@ -2112,14 +2120,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some Black Friday deals started early, and some aren't as good as they look. Here are the ones worth buying, checked against past prices.",
      "source": "DPReview",
      "zh": "Black Friday 2026: photo gear and software deals that are actually worth checking out"
-    },
-    {
-     "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
-     "link": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
-     "pubDate": "Fri, 27 Nov 2026 18:42:21 +0000",
-     "summary": "OpenAI has countersued Apple, accusing the iPhone maker of stealing trade secrets and threatening suppliers working on its upcoming devices. The filing escalates a legal fight that began with Apple’s lawsuit against OpenAI in July . more…",
-     "source": "9to5Mac",
-     "zh": "OpenAI countersues Apple, alleging trade secret theft and supplier threats"
     },
     {
      "title": "YouTube’s latest mobile redesign lets you like videos without opening them",
@@ -2242,52 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美股成交额前20：黑五半日市指数齐涨 存储芯片暴涨",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942129766.html",
-     "pubDate": "Sat, 28 Nov 2026 04:29:53 +0800",
-     "summary": "美东时间11月27日（周五），感恩节后\"黑色星期五\"半日市（美东13:00提前收盘），美股三大指数全线上涨，道指涨1.18%报50774.94点，标普500涨1.60%报7297.49点，纳指涨2.31%报24129.50点，11大板块全部收涨。 存储芯片 与光 通信 板块暴涨， 闪迪 涨15.43%、美光涨7.40%， 英伟达 盘前一度涨逾4%但收盘仅涨0.88%，成交额241.76亿美元仍居首。 第1名 英伟达 涨0.88%至150.62美元，成交额241.76亿美元居首。盘前一度涨逾4%，但半日市流动性偏薄，涨幅尾盘明显收窄。 第2名 美光科技 大涨7.40%至645.76美元，成交额1",
+     "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商 双方诉讼战升级",
+     "link": "http://stock.eastmoney.com/news/1611,202611283942130796.html",
+     "pubDate": "Sat, 28 Nov 2026 04:55:07 +0800",
+     "summary": "OpenAI向 苹果 发起反诉，指控这家科技巨头窃取其商业机密、阻断其硬件供应商渠道，两家曾经的合作伙伴之间的法律对抗正迅速激化。 周五，OpenAI在加州法院提起诉讼，回击 苹果 于今年夏天对其提出的商业秘密窃取指控。OpenAI在诉状中措辞强硬，指控 苹果 \"以一切可用手段实施不公平竞争\"，涵盖\"多种违法、不公平及侵权行为\"。 此次法律摩擦对两家公司的关系造成进一步损害。就在两年前，双方还达成合作协议，将ChatGPT嵌入iPhone。 如今随着OpenAI加速布局硬件领域，直接与苹果形成竞争态势，双方关系已急剧恶化。这场法律战的走向，将对两家公司在AI硬件及供应链领域的竞争格局产生深远影",
      "source": "东方财富股票",
-     "zh": "美股成交额前20：黑五半日市指数齐涨 存储芯片暴涨"
+     "zh": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商 双方诉讼战升级"
     },
     {
-     "title": "聚焦产业升级与绿色转型消费行业共寻新解法",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942129485.html",
-     "pubDate": "Sat, 28 Nov 2026 04:28:44 +0800",
-     "summary": "在“新质组织下消费产业升级与绿色消费转型”圆桌对话环节，多家消费领域企业代表参与研讨，围绕全产业链改造、绿色实践、技术赋能、行业未来机遇等话题展开讨论，探寻消费产业高质量发展路径。 与会嘉宾认为，消费产业升级并非简单的终端产品迭代，而是要在上下游环节实现生产工艺与产业链升级，以更低能耗创造更高产业价值，这已成为消费品行业转型的核心课题。参与本次圆桌对话的嘉宾包括卫龙公关副总裁吴狄， 怡园酒业 控股有限公司党委书记李宇欣，无限极（中国）有限公司企业社会责任与媒体事务总监、思利及人公益基金会理事长张前。 消费产业的核心痛点不少源自上游原料端，如何化解 农产品 原料不确定性、打通产业链条，是企业推进",
-     "source": "东方财富股票",
-     "zh": "聚焦产业升级与绿色转型消费行业共寻新解法"
+     "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
+     "link": "https://wallstreetcn.com/articles/3786877",
+     "pubDate": "Sat, 28 Nov 2026 04:54:16 +0800",
+     "summary": "OpenAI向苹果发起反诉，指控这家科技巨头窃取其商业机密、阻断其硬件供应商渠道，两家曾经的合作伙伴之间的法律对抗正迅速激化。 周五，OpenAI在加州法院提起诉讼，回击苹果于今年夏天对其提出的商业秘密窃取指控。OpenAI在诉状中措辞强硬，指控苹果\"以一切可用手段实施不公平竞争\"，涵盖\"多种违法、不公平及侵权行为\"。 此次法律摩擦对两家公司的关系造成进一步损害。就在两年前，双方还达成合作协议，将ChatGPT嵌入iPhone。 如今随着OpenAI加速布局硬件领域，直接与苹果形成竞争态势，双方关系已急剧恶化。这场法律战的走向，将对两家公司在AI硬件及供应链领域的竞争格局产生深远影响。 苹果股",
+     "source": "华尔街见闻",
+     "zh": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级"
     },
     {
-     "title": "杰富瑞经济学家Mohit Kumar表示 美联储12月政策会议可能是“鹰派程度的顶峰”",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942129265.html",
-     "pubDate": "Sat, 28 Nov 2026 04:27:45 +0800",
-     "summary": "杰富瑞经济学家Mohit Kumar表示，美联储12月政策会议可能是“鹰派程度的顶峰”，并可能成为“市场的转折点”。 （文章来源：财联社）",
+     "title": "美军称在阿曼湾击中一艘货船使其丧失航行能力",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942130121.html",
+     "pubDate": "Sat, 28 Nov 2026 04:49:45 +0800",
+     "summary": "美军中央司令部27日发布消息说，美军战机26日在阿曼湾对一艘“试图突破美海军封锁”的散装货船发动打击，使其丧失航行能力。 消息说，这艘货船悬挂帕劳国旗，在离开伊朗阿巴斯港后，不顾警告试图突破美军封锁。一架美军战机随后发射精确制导炸弹，击中该船船尾，致使其推进系统瘫痪，船上船员未受伤害。 消息称，美军中央司令部继续执行对伊朗 港口 的封锁。美军已迫使158艘商船改变航向，令6艘商船丧失航行能力。 美军于7月14日恢复针对所有进出伊朗 港口 船只的封锁行动。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "杰富瑞经济学家Mohit Kumar表示 美联储12月政策会议可能是“鹰派程度的顶峰”"
+     "zh": "美军称在阿曼湾击中一艘货船使其丧失航行能力"
     },
     {
-     "title": "数智化重构能源新生态 绿电、储能与算力协同赋能",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942129377.html",
-     "pubDate": "Sat, 28 Nov 2026 04:25:34 +0800",
-     "summary": "11月20日，由《中国经营报》主办的“与时偕行以质图强”——2026数字驱动·产业焕新论坛在成都举行。 在论坛圆桌对话环节， 琏升科技 董秘吴艳兰、海辰储能钠电产品线总监潘纬韬、川财证券首席经济学家陈雳围绕绿电、储能与算力协同等议题展开深入探讨。 吴艳兰提出，数字平台是串联能源供需两端的连接器与稳定器，以数字化调度协调绿电供给、匹配算力持续用电需求，是光伏及其他能源企业推进产业升级的重要方向。 吴艳兰表示，协同体系包含三层逻辑：发电侧通过储能平滑风电、光伏出力；负荷侧依托数字技术调节算力负荷，引导其适配绿电曲线；电网层面依靠智能调度实现分布式电站与零散算力需求匹配。仅靠单点设备升级，能效提升有",
+     "title": "中国充电联盟开放服务平台总经理仝宗旗：行业已进入“拼质量、拼效率、拼生态”的下半场",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942130629.html",
+     "pubDate": "Sat, 28 Nov 2026 04:49:27 +0800",
+     "summary": "“如何从‘有’到‘好’、以精细化运营提升服务品质，是全行业共同面对的问题。目前行业需求归为五点：产业链数据互通仍存在壁垒，中小微企业获取行业信息不够及时，后市场运维人才的专业化要求提高，央国企进场后运营服务标准化要求抬升，部分细分领域标准仍待补足。”近日，在2026中国 汽车 充换电生态大会期间，中国充电联盟开放服务平台总经理仝宗旗接受了《中国经营报》记者专访。 据了解，国内充换电基础设施总量持续领跑全球，行业增长逻辑正在发生根本性切换。对此，仝宗旗在接受专访时，梳理了今年行业的几大结构性变化，围绕场景细分、数智化平台、增值服务、出海、统建统服、换电路线等话题，给出产业判断。在仝宗旗看来，行业",
      "source": "东方财富股票",
-     "zh": "数智化重构能源新生态 绿电、储能与算力协同赋能"
+     "zh": "中国充电联盟开放服务平台总经理仝宗旗：行业已进入“拼质量、拼效率、拼生态”的下半场"
     },
     {
-     "title": "瑞华智策高燕：AI技术替代的是工作而不是人",
-     "link": "http://finance.eastmoney.com/news/1360,202611283942129645.html",
-     "pubDate": "Sat, 28 Nov 2026 04:22:46 +0800",
-     "summary": "“所谓AI替代，其实是技术对工作的替代，而不是对人的替代。”瑞华智策合伙人、中国新质组织研究中心主任高燕在接受《中国经营报》记者采访时说。 在高燕看来，企业是否真正进入AI转型，不能只看员工使用了多少工具，更要看AI是否改变了工作流程和组织运行方式。她以信息处理为例，过去需要多人花较长时间完成的工作，借助智能体后可能由更少的人就能完成。但随之而来的问题是：原有流程是否需要重新设计？哪些环节可以交给AI，哪些环节仍必须由人负责？员工又该把时间和精力转向什么工作？ 谈及当下普遍存在的“AI替代”焦虑情绪，高燕强调，AI技术的深入应用是对人的某些工作产生了替代，而并不是对人的替代。从短期来看，AI会",
+     "title": "汽车充换电谋新局 交能融合促转型",
+     "link": "http://finance.eastmoney.com/news/1358,202611283942130544.html",
+     "pubDate": "Sat, 28 Nov 2026 04:46:55 +0800",
+     "summary": "2026年， 汽车 充换电行业正从各自建网转向跨品牌、跨领域合作，竞争焦点也转向网络互通、标准兼容与资源的高效利用，充换电设施更是加速从单一补能终端向 综合 能源节点演进。面对新形势、新机遇，《中国经营报》记者在2026中国 汽车 充换电生态大会现场了解到，众多业内人士就当前的行业转型明方向、谋思路、聚合力，共议充电行业的下一步发展。 “当前，充电基础设施行业正处于加速整合期，部分企业因技术、模式不能适应用户需求而退出市场，行业既要巩固已有成果和优势，更要迎接创新与变革带来的挑战。”中国 汽车 工业协会副会长兼秘书长付炳锋对包括《中国经营报》在内的媒体记者表示。 “如何从‘有’到‘好’、以精细",
      "source": "东方财富股票",
-     "zh": "瑞华智策高燕：AI技术替代的是工作而不是人"
+     "zh": "汽车充换电谋新局 交能融合促转型"
     },
     {
-     "title": "人瑞人才张建国：承载技术的组织能力是AI时代所稀缺的",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942128954.html",
-     "pubDate": "Sat, 28 Nov 2026 04:19:34 +0800",
-     "summary": "11月20日， 人瑞人才 董事长、瑞华智策CEO张建国在接受《中国经营报》记者专访时指出：AI技术带来的变化不只是工具升级，也将影响企业商业模式、生产方式和组织形态。 在张建国看来，AI时代真正稀缺的不仅是技术，更是能够承载技术、组织智能并持续创造价值的组织能力。他分析道，技术变革往往会推动企业经营方式和组织形态随之变化。从 计算机 、互联网到如今的 人工智能 ，每一次重要技术进步都会重新定义企业创造价值的方式。AI进入企业后，不能只被看作局部工具，也不能简单理解为给员工增加一种新能力。企业还要进一步思考：AI如何进入业务流程，哪些工作可以由技术承担，组织结构和人才机制又需要怎样调整。 “员工",
+     "title": "车企集体造芯 黑芝麻智能扭亏面临挑战",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942130274.html",
+     "pubDate": "Sat, 28 Nov 2026 04:43:30 +0800",
+     "summary": "作为“自动驾驶计算芯片第一股”， 黑芝麻智能 （02533.HK）跨界具身智能赛道的举措引发市场关注。 近日， 黑芝麻智能 成立具身智能总部，同时宣布，已与数十家国内 机器人 企业建立生态伙伴关系，与多家头部 机器人 厂商达成量产订单，涵盖轮式 机器人 、 人形机器人 、四足机器狗、工业机械臂等品类。 在深度布局具身智能的同时， 黑芝麻智能 资本市场的动作频频。公告显示，11月23日， 黑芝麻 智能核心员工完成增持，总代价约5300万港元，超出原计划4000万—5000万港元的上限。 虽然 黑芝麻 智能手握具身智能量产订单，新一轮增持超额完成，但是资本市场却持保守看法。 截至2026年11月2",
      "source": "东方财富股票",
-     "zh": "人瑞人才张建国：承载技术的组织能力是AI时代所稀缺的"
+     "zh": "车企集体造芯 黑芝麻智能扭亏面临挑战"
+    },
+    {
+     "title": "国际油价27日微跌",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942129885.html",
+     "pubDate": "Sat, 28 Nov 2026 04:41:09 +0800",
+     "summary": "截至当天收盘，纽约商品交易所1月交货的轻质原油 期货 价格下跌60美分，收于每桶83.08美元，跌幅为0.72%；1月交货的伦敦布伦特原油 期货 价格下跌1.13美元，收于每桶95.44美元，跌幅为1.17%。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "国际油价27日微跌"
     },
     {
      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
      "source": "MarketWatch",
      "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
-    },
-    {
-     "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-     "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
-     "pubDate": "Fri, 27 Nov 2026 16:43:14 GMT",
-     "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
-     "source": "CNBC",
-     "zh": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
     }
    ]
   },

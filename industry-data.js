@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 04:12:08",
+ "generated_at": "2026/11/28 04:32:08",
  "recent_days": 7,
  "industries": [
   {
@@ -642,6 +642,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Volkswagen’s new ID. Buzz Beach electric camper goes on sale, starting at over $70,000",
+     "link": "https://electrek.co/2026/11/27/vw-id-buzz-beach-ev-camper-goes-on-sale-starting-over-70000/",
+     "pubDate": "Fri, 27 Nov 2026 20:28:58 +0000",
+     "summary": "Volkswagen opened orders for the new ID. Buzz Beach in the UK , an electric van built for camping and overnight stays, with a fold-out mattress and more. It’s not exactly cheap, though, starting at over $70,000. more…",
+     "source": "Electrek",
+     "zh": "Volkswagen’s new ID. Buzz Beach electric camper goes on sale, starting at over $70,000"
+    },
+    {
+     "title": "Zoomlion shows off SIXTY electrified, AI equipment assets at bauma 2026",
+     "link": "https://electrek.co/2026/11/27/zoomlion-shows-off-sixty-electrified-ai-equipment-assets-at-bauma-2026/",
+     "pubDate": "Fri, 27 Nov 2026 20:13:56 +0000",
+     "summary": "Wit more than sixty (60!) new-energy models spanning everything from driverless excavators to cabless loaders and hybrid-electric mining trucks, the next generation of Zoomlion machinery is wowing everyone at bauma 2026. more…",
+     "source": "Electrek",
+     "zh": "Zoomlion shows off SIXTY electrified, AI equipment assets at bauma 2026"
+    },
+    {
      "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
      "link": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
      "pubDate": "Fri, 27 Nov 2026 19:22:01 +0000",
@@ -672,22 +688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Prevost, the Quebec coach builder owned by Volvo Group, has unveiled the H3-45 Electric, its first battery-electric motorcoach. It gets a 540 kWh Volvo battery, 450 kW (600 hp) from two electric motors, and both CCS1 and MCS charging as standard. The H3-45 is Prevost’s flagship and one of the most c",
      "source": "Electrek",
      "zh": "Prevost unveils Electric coach bus: 600 hp, 540 kWh, 250-mile range"
-    },
-    {
-     "title": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027",
-     "link": "https://electrek.co/2026/11/27/toyota-confirms-highlander-9x-first-erev-top-tier-tech/",
-     "pubDate": "Fri, 27 Nov 2026 17:18:59 +0000",
-     "summary": "The Toyota Highlander 9X will go on sale in early 2027 as the brand’s first extended-range electric vehicle with advanced new tech from Huawei and CATL. more…",
-     "source": "Electrek",
-     "zh": "Toyota confirms the Highlander 9X will launch as its first EREV with top-tier tech in early 2027"
-    },
-    {
-     "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
-     "link": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
-     "pubDate": "Fri, 27 Nov 2026 17:06:53 +0000",
-     "summary": "Used Cybertruck prices are up 10 to 15% in the month since Tesla announced it would end production of its electric pickup, according to listing data from CarGurus and Visor. Some dealers are pushing it much further. One in New Jersey now wants $150,790 for a used Cyberbeast, about $36,000 more than ",
-     "source": "Electrek",
-     "zh": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K"
     },
     {
      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+     "link": "https://www.techmeme.com/261127/p13#a261127p13",
+     "pubDate": "Fri, 27 Nov 2026 15:15:01 -0500",
+     "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more &nbsp; &mdash;&nbsp; &ldquo;If we pause now, people still won't understand what's at stake.&rdquo;&nbsp; &m",
+     "source": "Techmeme",
+     "zh": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)"
+    },
+    {
      "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
      "link": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 19:51:43 +0000",
@@ -1754,10 +1762,26 @@ window.INDUSTRY_DATA = {
      "zh": "Best Black Friday AirPods Deals I’ve Found (2026)"
     },
     {
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+     "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombin",
+     "source": "Hacker News",
+     "zh": "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+    },
+    {
+     "title": "The AT&T Unix PC (3B1) VM",
+     "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+     "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The AT&T Unix PC (3B1) VM"
+    },
+    {
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 53 # Comments: 27",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 76 # Comments: 58",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1770,20 +1794,20 @@ window.INDUSTRY_DATA = {
      "zh": "Black Friday Deals on Household Essentials and Affordable Toys to Donate"
     },
     {
+     "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
+     "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+     "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
+     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
+    },
+    {
      "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
      "link": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 19:07:28 +0000",
      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
      "source": "WIRED",
      "zh": "Black Friday Mattress Deals: Get Up to 55% Off (2026)"
-    },
-    {
-     "title": "I'm a watchmaker and I accidentally made a software factory",
-     "link": "https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/",
-     "pubDate": "Fri, 27 Nov 2026 19:06:35 +0000",
-     "summary": "Article URL: https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/ Comments URL: https://news.ycombinator.com/item?id=50670517 Points: 6 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "I'm a watchmaker and I accidentally made a software factory"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
      "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
      "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 8 # Comments: 1",
      "source": "Hacker News",
      "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
     },
@@ -1837,17 +1861,9 @@ window.INDUSTRY_DATA = {
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "link": "https://github.com/convex/convex-backend-skill/issues/64",
      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 80 # Comments: 22",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 88 # Comments: 25",
      "source": "Hacker News",
      "zh": "Convex skills send the user's app idea to a remote server without telling them"
-    },
-    {
-     "title": "Show HN: DragDropMath – Learn math by feel",
-     "link": "https://dragdropmath.com/",
-     "pubDate": "Fri, 27 Nov 2026 17:56:28 +0000",
-     "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created Drag",
-     "source": "Hacker News",
-     "zh": "Show HN: DragDropMath – Learn math by feel"
     },
     {
      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
@@ -1930,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上"
     },
     {
-     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-     "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-     "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 239 # Comments: 132",
-     "source": "Hacker News",
-     "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
-    },
-    {
      "title": "文明的历史是小麦的历史",
      "link": "https://www.solidot.org/story?sid=86013",
      "pubDate": "Fri, 27 Nov 2026 23:37:23 +0800",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准 G1/4\" 进出水口 ，兼容分体液冷生态；设有水泵故障蜂鸣报警器；享受 6 年",
      "source": "IT之家",
      "zh": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计"
-    },
-    {
-     "title": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市",
-     "link": "https://www.ithome.com/1/033/768.htm",
-     "pubDate": "Fri, 27 Nov 2026 14:40:45 GMT",
-     "summary": "IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展。 广汽能源表示，截至 2026 年 11 月， 在补能网络建设上，广汽自营充电网络已覆盖 31 个省级行政区、240 个城市，自营充电站达 2563 座、自营充电桩突破 3.3 万根 。 广汽能源同时透露，公司目标到 2027 年底补能网络覆盖 300 个城市、2030 年构建十万充电终端的生态网。加速在县域、高速沿线及北方高寒地区布局，并推进兆瓦级 10C 超充桩升级。",
-     "source": "IT之家",
-     "zh": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung is reportedly giving its camera app an AI mode",
+     "link": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+     "pubDate": "Fri, 27 Nov 2026 20:06:02 +0000",
+     "summary": "The feature could mirror the Siri mode Apple added in iOS 27.",
+     "source": "Engadget",
+     "zh": "Samsung is reportedly giving its camera app an AI mode"
+    },
     {
      "title": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL",
      "link": "https://www.gsmarena.com/iphone_18_pro_max_vs_pixel_11_pro_xl_battery_camera_price_compared-news-75304.php",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Poco F1 was incredible – a flagship Snapdragon 845 chipset for around $300, depending on the region. We won’t be seeing that level of value-for-money again soon, but the Poco F9 Ultra is a good spiritual successor. Poco F9 Ultra With an MSRP of €900 for the base 12/256GB model, the F9 Ultra is a",
      "source": "GSMArena",
      "zh": "Deal: the Poco F9 Ultra is on sale for Black Friday with discounts up to 25%"
-    },
-    {
-     "title": "Realme 17 Ultra's memory configurations and colors tipped",
-     "link": "https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php",
-     "pubDate": "Fri, 27 Nov 2026 13:03:03 +0100",
-     "summary": "We've heard about the Realme 17T and Realme 17 Pro before, and we've even seen their designs. While Realme hasn't confirmed these smartphones yet, a tipster claims the Realme 17 series will also include an Ultra model. The Realme 17 Ultra is tipped to be the first Ultra smartphone in the company's n",
-     "source": "GSMArena",
-     "zh": "Realme 17 Ultra's memory configurations and colors tipped"
     }
    ]
   },
@@ -2241,6 +2241,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
+     "title": "SA Asks: What's the best-positioned chip stock right now?",
+     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best-positioned chip stock right now?"
+    },
+    {
+     "title": "US tech stocks rise in latest market swing",
+     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT",
+     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+     "source": "Financial Times",
+     "zh": "US tech stocks rise in latest market swing"
+    },
     {
      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
@@ -2370,22 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Astera Labs climbs 9% amid broad rally in technology shares"
     },
     {
-     "title": "Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday",
-     "link": "https://seekingalpha.com/news/4677053-catalyst-watch-jobs-report-jensen-huang-in-dc-and-cyber-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:00:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday"
-    },
-    {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 18:53:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
      "title": "The warnings behind this week’s stock-market rally",
      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
      "source": "MarketWatch",
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
-     "title": "US tech stocks rise in latest market swing",
-     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 17:27:23 GMT",
-     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
-     "source": "Financial Times",
-     "zh": "US tech stocks rise in latest market swing"
     },
     {
      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 12:31:50",
+ "generated_at": "2026/11/27 12:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -10,6 +10,22 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+     "link": "https://www.qbitai.com/2026/11/513163.html",
+     "pubDate": "Fri, 27 Nov 2026 03:53:49 +0000",
+     "summary": "Quickwit查询总耗时降31%，最高降87%",
+     "source": "量子位",
+     "zh": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩"
+    },
+    {
+     "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+     "link": "https://www.qbitai.com/2026/11/513155.html",
+     "pubDate": "Fri, 27 Nov 2026 03:45:19 +0000",
+     "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+     "source": "量子位",
+     "zh": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻"
+    },
+    {
      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
      "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
      "pubDate": "Fri, 27 Nov 2026 03:43:35 +0000",
@@ -18,12 +34,28 @@ window.INDUSTRY_DATA = {
      "zh": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in"
     },
     {
+     "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+     "link": "https://www.qbitai.com/2026/11/513125.html",
+     "pubDate": "Fri, 27 Nov 2026 03:33:11 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "具身公司抱团回应：通用大模型跨维打击？没那么简单"
+    },
+    {
      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
      "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
      "pubDate": "Fri, 27 Nov 2026 03:31:30 +0000",
      "summary": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuse",
      "source": "MarkTechPost",
      "zh": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache"
+    },
+    {
+     "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+     "link": "https://www.qbitai.com/2026/11/513101.html",
+     "pubDate": "Fri, 27 Nov 2026 03:23:25 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "百亿具身独角兽破壁，玩家集体涌向它的牌桌"
     },
     {
      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
@@ -40,22 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
      "source": "量子位",
      "zh": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！"
-    },
-    {
-     "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-     "link": "https://www.qbitai.com/2026/11/513075.html",
-     "pubDate": "Fri, 27 Nov 2026 02:03:10 +0000",
-     "summary": "担心课题被AI抢先，该怎么办？",
-     "source": "量子位",
-     "zh": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”"
-    },
-    {
-     "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-     "link": "https://www.qbitai.com/2026/11/513053.html",
-     "pubDate": "Fri, 27 Nov 2026 01:16:10 +0000",
-     "summary": "Quickwit查询总耗时降31%，最高降87%",
-     "source": "量子位",
-     "zh": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩"
     },
     {
      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
@@ -90,28 +106,12 @@ window.INDUSTRY_DATA = {
      "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
     },
     {
-     "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-     "link": "https://www.qbitai.com/2026/11/513021.html",
-     "pubDate": "Thu, 26 Nov 2026 13:56:01 +0000",
-     "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-     "source": "量子位",
-     "zh": "381个AI直播冲刺证明P=NP！把GitHub干崩了"
-    },
-    {
      "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
      "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
      "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
      "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
      "source": "KDnuggets",
      "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
-    },
-    {
-     "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-     "link": "https://www.qbitai.com/2026/11/512981.html",
-     "pubDate": "Thu, 26 Nov 2026 12:39:08 +0000",
-     "summary": "还得是科班尖子生",
-     "source": "量子位",
-     "zh": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用"
     },
     {
      "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
@@ -330,12 +330,28 @@ window.INDUSTRY_DATA = {
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
+     "title": "Eutelsat US wins Space Force CSCO satcom contract",
+     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
+     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
+    },
+    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
+    },
+    {
+     "title": "Fable: The Volatile CEO",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
+     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -362,6 +378,22 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
+     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
+     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
+     "source": "Electronics Weekly",
+     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
+    },
+    {
+     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
+     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
+    },
+    {
      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
      "pubDate": "Thu, 26 Nov 2026 08:55:48 +0000",
@@ -376,6 +408,22 @@ window.INDUSTRY_DATA = {
      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series. The post Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026 appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026"
+    },
+    {
+     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
+     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
+     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
+    },
+    {
+     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
+     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
+     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
+     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1754,6 +1754,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展",
+     "link": "https://www.ithome.com/1/033/327.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:43:20 GMT",
+     "summary": "IT之家 11 月 27 日消息，长城欧拉汽车官方微博今日宣布， 欧拉 5 PLUS 全新车色“云栖青” 于广州车展正式亮相。 据介绍，欧拉 5 PLUS 是欧拉 5 家族新成员，定位年轻家庭的时尚智能 SUV。IT之家了解到，新车延续欧拉 5 家族的设计风格， 长宽高分别为 4758/1833（1844）/1626mm，轴距为 2720mm ，车侧采用传统样式门把手，提供多种轮圈样式选择。 该车此前已经完成工信部申报，新车不仅延续了家族式设计语言， 带来了纯电、混动、燃油三种动力版本选择 ，进一步完善品牌产品矩阵。 与欧拉 5 家族其它车型保持一致，燃油版本搭载长城 1.5T 涡轮增压发动机",
+     "source": "IT之家",
+     "zh": "长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展"
+    },
+    {
+     "title": "魏牌谭健：打死不做增程、打死不做速成，是长城汽车永远不变的做事准则",
+     "link": "https://www.ithome.com/1/033/326.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:36:18 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，长城汽车魏牌执行副总经理谭健在长城汽车全球多动力战略暨魏牌新品发布会上登台发表讲话。 谭健表示， 打死不做增程、打死不做速成，是魏牌和长城汽车永远不变的做事准则 。 据IT之家此前报道，今年 1 月，在长城归元平台全球发布会上，对于增程车型， 长城汽车总裁穆峰喊出“打死不做增程”这一口号 。他谈到，增程其实在技术上生成路线不存在什么门槛。而且由于发动机无法直驱的这个缺陷，在中高速的这些场景，由于系统的传递链路过长，就会导致能量效率的层层损耗。 他透露，实测增程的这种效率，在这种场景下，要比直驱至少要降低 13%。所以有理由认为，",
+     "source": "IT之家",
+     "zh": "魏牌谭健：打死不做增程、打死不做速成，是长城汽车永远不变的做事准则"
+    },
+    {
+     "title": "CNET 测试苹果 iPhone Duo 开合已超 67.8 万次，出现闭合异常",
+     "link": "https://www.ithome.com/1/033/325.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:32:47 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 CNET 对苹果首款折叠 iPhone Duo 的开合测试直播已进入第 23 天，目前视频画面最后开合次数定格在 678,315 次， 并表示铰链已经出现了可感知的退化 ，但目前尚未彻底失效。 CNET 团队表示在经过约 67.8 万次的开合后，苹果 iPhone Duo 原本的阻尼感已基本没有了，现在的开合手感“更松、更轻”。 在本次测试开合约 63 万次后出现了新的异常，无法完全闭合。不过，测试人员表示，若用手将 iPhone Duo 合上，机身仍可正常闭合；但重新交由测试装置操作后，该问题会再次出现。 手机仍能完全合上，但合上后容易被轻轻推开，",
+     "source": "IT之家",
+     "zh": "CNET 测试苹果 iPhone Duo 开合已超 67.8 万次，出现闭合异常"
+    },
+    {
+     "title": "定位“新派越野”，奇瑞纵横 R700 全球首秀",
+     "link": "https://www.ithome.com/1/033/324.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:31:31 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天（27 日）上午开幕的 2026 广州车展上，奇瑞纵横 R700 迎来了全球首秀。新车与纵横 G700 同平台打造，同样也是一款方盒子车型，不过更加侧重精致豪华感，官方将其描述为“新派越野”。 预告图显示，新车采用方盒子造型 + 悬浮式车顶设计，配备了大尺寸直瀑格栅和竖条形状的大灯组，内部则是点阵灯珠，风格独特。 除了外观首秀外，官方暂未披露新车的更多信息，IT之家也将持续关注。 作为参考，纵横 G700 搭载鲲鹏超能混动 CDM-O 系统，配备 2.0T 纵置混动专用发动机，发动机最大功率 155kW，电机总功率 510kW；支持原地掉头、水上航行。提",
+     "source": "IT之家",
+     "zh": "定位“新派越野”，奇瑞纵横 R700 全球首秀"
+    },
+    {
+     "title": "员工住宿难，三只松鼠转型更难",
+     "link": "https://www.huxiu.com/article/4908897.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 12:27:53 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：赵晓娟 双11的业绩没有曝光，三只松鼠的员工宿舍却被曝光。 11月26日，三只松鼠公司被曝出部分宿舍环境脏乱，一间房内设置了12张上下铺床位，洗漱间却是水泥地面，热水设施旁边更是堆满了垃圾。 界面新闻从三只松鼠方面了解到，被曝光当日三只松鼠已发布致歉声明，称涉事宿舍为年货节期间临时启用的旺季周转宿舍，承认存在设施配置简陋等问题，并表示已对相关人员进行转移安置。 员工宿舍事件让外界将三只松鼠此前强调成本效率和组织调整关联起来，过去两年，这家曾经依靠电商红利快速成长的零食企业，试图通过高端性价比策略重建增长，但三只松鼠的营收和利润均在2024年大幅反弹后，到",
+     "source": "虎嗅",
+     "zh": "员工住宿难，三只松鼠转型更难"
+    },
+    {
+     "title": "BBA广州车展大反攻：奥迪Q9首秀、宝马新世代落地、奔驰超20款车亮相",
+     "link": "https://www.huxiu.com/article/4908895.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 12:25:35 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，编辑：刘学，作者：曹杨 宋然 作为国内车市年度收官大展，11月27日，第二十四届广州国际汽车展览会正式拉开大幕。 官方数据显示，本届广州车展展览总面积22万平方米，汇集了全球主流车企、本土集团品牌及自主新能源品牌，合计展出车辆1106台，包含115台首发新车、707台新能源车。 随着汽车产业全面转向新能源赛道，车展早已成为自主品牌角逐的核心阵地。 概念车亮相、机器人“站场”、新车首发轮番登场，叠加针对女性用户、年轻用户等群体的，以及宠物友好、户外露营、IP联名等多元营销玩法，自主品牌不仅持续扩张展台面积，收割的车展流量也越来越高。 时代周报记者在广州车展现场发",
+     "source": "虎嗅",
+     "zh": "BBA广州车展大反攻：奥迪Q9首秀、宝马新世代落地、奔驰超20款车亮相"
+    },
+    {
+     "title": "退租“提灯定损”要凉了？北京拟规定：正常损耗不得扣减，房东扣押金得先拿证据",
+     "link": "https://www.huxiu.com/article/4908893.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 12:25:09 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：宋珂欣 退租时，房内物品为正常使用造成的自然损耗，出租人不得以此为由扣除押金。 近日，《北京市住房租赁合同（示范文本）（修订征求意见稿）》（下称“征求意见稿”）发布，其中对于租房产生的正常损耗及赔付责任作了明确规定。 征求意见稿还拟明确，出租人扣减押金的，应当向承租人提供扣减事由、金额明细及相关损失的证明材料。 为何会有此次修订？动因在起草说明中已有交代：近年来因押金返还、住房维修、住房腾退等产生的纠纷时有发生，社会公众对完善租赁合同条款、强化租赁当事人权益保护的呼声较高。 纠纷的规模从司法数据中可见一斑。 据2025年司法审判数据，全国民商",
+     "source": "虎嗅",
+     "zh": "退租“提灯定损”要凉了？北京拟规定：正常损耗不得扣减，房东扣押金得先拿证据"
+    },
+    {
+     "title": "广汽昊铂官宣全新跨界车型：主打宽阔低趴，明年见",
+     "link": "https://www.ithome.com/1/033/322.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:24:40 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天（27 日）上午开幕的 2026 广州车展上，广汽昊铂宣布即将推出全新的跨界车型。该车基于概念车“大地 Earth”打造，拥有宽阔低趴、优雅舒展的姿态，将于 2027 年正式亮相。 不过，截至IT之家发稿，官方尚未公布新车更详细的信息。 说回前面提到的“大地 Earth”概念车，其在 2025 上海车展首秀，官方称其为一款“ 集前瞻设计、尖端科技与可持续理念于一身 ”的未来座驾。 新车外观采用了“熔岩流动”设计语言，以黑曜石色为主色调，车身的姿态较低，线条借鉴风蚀地貌的天然曲线，整车风阻系数仅 0.19。 这款概念车搭载广汽最新“星灵 2.0”电子电气架",
+     "source": "IT之家",
+     "zh": "广汽昊铂官宣全新跨界车型：主打宽阔低趴，明年见"
+    },
+    {
+     "title": "英伟达叫停东南亚四国发货：中国大模型厂商的三条退路",
+     "link": "https://www.huxiu.com/article/4908892.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 12:24:36 +0800",
+     "summary": "本文来自微信公众号： 大G看科技 ，作者：大G看科技 英伟达叫停东南亚四国发货：中国大模型厂商的三条退路 2026年11月26日，英国《金融时报》报道了一件事。英伟达要求戴尔、超微电脑这些组装厂，停止向马来西亚、新加坡、泰国和印度尼西亚运送服务器。通知是直接发给这四国买家的，理由只有一句：英伟达不允许相关订单发货。 英伟达、戴尔、超微都没有回应。这是临时措施还是长期安排，目前没有人说得清。 但时间线很清楚。11月16日新规发布，19日生效。11月20日，一家服务器厂商全面停发。21日《日经亚洲》报道至少两家暂停交付。26日，停发指令追到了英伟达自己。半个月，从写规则到不发一箱货。 同一张时间线",
+     "source": "虎嗅",
+     "zh": "英伟达叫停东南亚四国发货：中国大模型厂商的三条退路"
+    },
+    {
+     "title": "追短剧“上头”大脑真的会变笨吗，专家称多数人充分休息后可恢复、长期损害适应社会能力",
+     "link": "https://www.ithome.com/1/033/321.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:24:14 GMT",
+     "summary": "IT之家 11 月 27 日消息，据《中国网络视听发展研究报告（2026）》显示，截至去年底， 微短剧应用人均单日使用时长达 129 分钟 。 不少人感叹，追短剧太“上头”，但刷剧后，会格外空虚，记忆力和注意力都明显下滑。那么，究竟为什么人们刷短剧会停不下来？刷短剧真的会让人变笨吗？ 据央视新闻今日报道，专家介绍，短剧的叙事设计里藏着两层心理机制： 一方面，它依靠高密度反转剧情，用间歇性、脉冲式的刺激， 持续拉动多巴胺分泌 ，不断勾起观众的期待； 另一方面，它抓住人们的情感诉求与自我实现的渴望， 虚构出与现实生活截然相反的世界 ，用幻想提供情绪抚慰。 专家称，在刷短剧的过程中，人处于多巴胺水平",
+     "source": "IT之家",
+     "zh": "追短剧“上头”大脑真的会变笨吗，专家称多数人充分休息后可恢复、长期损害适应社会能力"
+    },
+    {
      "title": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？",
      "link": "https://www.baijing.cn/question/638998",
      "pubDate": "Fri, 27 Nov 2026 04:21:55 +0000",
@@ -1762,60 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？"
     },
     {
-     "title": "长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4",
-     "link": "https://www.ithome.com/1/033/320.htm",
-     "pubDate": "Fri, 27 Nov 2026 04:20:49 GMT",
-     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，长城汽车官宣发布行业首个全场景物理 AI 操作系统 —— Coffee AIOS 4。 据介绍，长城 Coffee AIOS 4 主打“ 一个大脑 三位一体 ”， 含辅助驾驶、智能座舱、智慧服务三大板块 。 长城汽车智能化负责人姜海鹏表示，“一个大脑”指的是 Master Agent（简称“MA”），支持全域感知、深度思考、协同行动、持续进化等。 智能座舱方面，Coffee AIOS 4 具备“有眼力，有交代，会办事”三大能力。“有眼力”支持识别车内发起语音识别的人、能记住车内交流过的话题、乘客使用习惯等；“有交代”支持根据车速",
-     "source": "IT之家",
-     "zh": "长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4"
-    },
-    {
-     "title": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起",
-     "link": "https://www.ithome.com/1/033/319.htm",
-     "pubDate": "Fri, 27 Nov 2026 04:05:28 GMT",
-     "summary": "IT之家 11 月 27 日消息，全新深蓝 L07 AI 激光版车型今日在 2026 广州车展上市， 限时权益价 14.99 万元起 。 240 智臻 AI 激光版 14.99 万元 670 智行 AI 激光版 14.99 万元 670 智臻 AI 激光版 15.99 万元 全新深蓝 L07 AI 激光版带来全新 极光绿 配色，前灯组与前格栅造型焕新，采用大掀背车尾，配备贯穿式 LED 尾灯、半隐藏式门把手。 全新深蓝 L07 AI 激光版带来全新 薄荷晨曦 内饰配色，升级到 10.2 英寸液晶仪表屏、电动遮阳帘。 全新深蓝 L07 AI 激光版配备主副驾座椅迎宾、通风、加热、按摩，后排座椅也",
-     "source": "IT之家",
-     "zh": "全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起"
-    },
-    {
      "title": "印度独立站红人联盟佣金给到18%，退货率却压不住，备货该怎么调？",
      "link": "https://www.baijing.cn/question/638997",
      "pubDate": "Fri, 27 Nov 2026 03:58:25 +0000",
      "summary": "我们做印度市场独立站，主要卖手机配件和智能穿戴，团队6个人，刚起量阶段，月GMV大概3万美金。红人和联盟佣金给到15%-18%，转化还行，但退货率一直在22%左右，COD拒收占大头。现在备货是按红人带货预测提前1个月压到海外仓，结果滞销SKU越堆越多，现金流很紧。试过把佣金降到12%换利润，红人直接不推了；也试过只备爆款，但断货又掉排名。卡在备货节奏和退货成本之间，想请教在南亚做独立站的同行，你们是按什么标准决定哪些SKU提前压仓、哪些走一件代发？",
      "source": "白鲸出海",
      "zh": "印度独立站红人联盟佣金给到18%，退货率却压不住，备货该怎么调？"
-    },
-    {
-     "title": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿",
-     "link": "https://www.ithome.com/1/033/309.htm",
-     "pubDate": "Fri, 27 Nov 2026 03:54:29 GMT",
-     "summary": "IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，报道称在《务实工程师》（The Pragmatic Engineer）播客节目中，微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）坦言，公司已放缓招聘应届毕业生及初级岗位的速度。 在节目中，纳德拉表示，在 AI 重塑工作方式的过程中，企业首先要将内部人员重新安排到合适的岗位，之后才会考虑行业招聘和校园招聘。这段言论在网络上引发广泛讨论，也让“AI 时代应届生如何获得第一份工作”成为公众关注的焦点。IT之家附上相关视频如下： 纳德拉引用“AI 原生公司”的概念，指出在 AI",
-     "source": "IT之家",
-     "zh": "纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿"
-    },
-    {
-     "title": "长三角铁路首次：安徽淮阜、淮蚌、巢马三条高铁同日开通，和县、濉溪、固镇、蒙城、利辛 5 县结束不通高铁的历史",
-     "link": "https://www.ithome.com/1/033/295.htm",
-     "pubDate": "Fri, 27 Nov 2026 03:50:57 GMT",
-     "summary": "IT之家 11 月 27 日消息，安徽巢马高铁、淮蚌高铁、淮阜高铁三条线路今日集中开通运营。至此，安徽全省高铁里程突破 3300 公里，覆盖 16 市 44 县。长三角铁路营业里程超过 1.58 万公里，高铁里程突破 8500 公里。 这同时意味着，马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县与利辛县共 5 个县就此告别不通高铁的历史，首次接入长三角高铁网络。三条新线正线合计约 364.5 公里，设计时速均为 350 公里，三线共 10 座新建车站同步启用。 巢马高铁西起巢湖东站，东至马鞍山东站，正线全长约 61 公里，设巢湖东、含山、郑蒲港、马鞍山南、马鞍山东 5 座车站。该线路打",
-     "source": "IT之家",
-     "zh": "长三角铁路首次：安徽淮阜、淮蚌、巢马三条高铁同日开通，和县、濉溪、固镇、蒙城、利辛 5 县结束不通高铁的历史"
-    },
-    {
-     "title": "庆祝宝可梦 30 周年，CASETiFY 公布系列像素风数码配饰",
-     "link": "https://www.ithome.com/1/033/291.htm",
-     "pubDate": "Fri, 27 Nov 2026 03:49:20 GMT",
-     "summary": "IT之家 11 月 27 日消息，数码配件制造商 CASETiFY 当地时间本月 25 日面向日本市场公布了 多款像素风《宝可梦》IP 保护壳与配饰 。这些纪念《宝可梦》30 周年的产品将于 12 月 1 日发售。 IT之家注意到，CASETiFY 此次带来了精灵球形状的无线耳机保护壳、皮卡丘家族主题无线耳机盒保护套、多款宝可梦小挂件等，其中皮卡丘造型的立体护符饰品还支持“放电”效果。",
-     "source": "IT之家",
-     "zh": "庆祝宝可梦 30 周年，CASETiFY 公布系列像素风数码配饰"
-    },
-    {
-     "title": "全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型",
-     "link": "https://www.ithome.com/1/033/283.htm",
-     "pubDate": "Fri, 27 Nov 2026 03:47:53 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，在今日的 2026 广州车展上，深蓝汽车董事长邓承浩宣布，全新深蓝 S07/L07 AI 激光版车型将 行业首批开放域端到端豆包大模型 。 邓承浩介绍称，过去的车载语音是听懂听清到理解再到执行的三步流水线，用户对它说的每一句话，都必须是它懂的认识的话，今天这条路重写了，你的语音动作和实时场景同时进入到系统，多模态感知大模型能看懂你的意图。 IT之家获悉，全新深蓝 S07/L07 AI 激光版车型全系搭载金钟罩电池 + 宁德时代电芯。",
-     "source": "IT之家",
-     "zh": "全新深蓝 S07/L07 AI 激光版车型行业首批开放域端到端豆包大模型"
     },
     {
      "title": "Coupang 火箭配送入驻后，韩语详情页素材转化明显低于预期该改哪一层？",
@@ -1869,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Google will show solo Android developers' phone numbers and addresses",
      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
      "pubDate": "Fri, 27 Nov 2026 03:11:41 +0000",
-     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 48 # Comments: 16",
+     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 53 # Comments: 21",
      "source": "Hacker News",
      "zh": "Google will show solo Android developers' phone numbers and addresses"
     },
@@ -1914,52 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "炎症性肠病之争，绕不开的艾伯维"
     },
     {
-     "title": "地府F4牛头马面都是谁？",
-     "link": "https://www.huxiu.com/article/4908646.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 10:59:39 +0800",
-     "summary": "地府F4其实是牛头、马面、黑白无常这四位打工鬼，牛头马面负责安保，相当于地狱狱警，黑白无常负责勾魂，算是外勤。不是所有黑白无常都是谢范组合，地府F4都是被中国人硬凑出来的CP。",
-     "source": "虎嗅",
-     "zh": "地府F4牛头马面都是谁？"
-    },
-    {
-     "title": "下一代算力中心的答案，为什么先出现在内蒙古戈壁？",
-     "link": "https://www.huxiu.com/article/4905911.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 10:47:21 +0800",
-     "summary": "外网刷屏！国际顶级机构SemiAnalysis 实地探访乌兰察布星河基地，深度解析为何全面超越美国&ldquo;星际之门&rdquo;。AI竞争，远不止芯片：在下一代AI供电架构的工程落地上，中国已不只是在对标美国，更拿出了走在前面的创新样本，开始为全球AI基建打样。",
-     "source": "虎嗅",
-     "zh": "下一代算力中心的答案，为什么先出现在内蒙古戈壁？"
-    },
-    {
-     "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
-     "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
-     "pubDate": "Fri, 27 Nov 2026 02:44:12 +0000",
-     "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst Comments URL: https://news.ycombinator.com/item?id=50662153 Points: 16 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "New AI research suggests AI bubble bursting and to expect major market collapse"
-    },
-    {
-     "title": "很多投资机构不投模型了，改投数据",
-     "link": "https://www.huxiu.com/article/4908868.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 10:42:35 +0800",
-     "summary": "本文来自微信公众号： 科技暴论 ，作者：南书1997，头图来自：AI生成 市场对具身智能的投资没有降温，只是在收敛和分化。 IT桔子数据显示，截至目前，2026年具身智能赛道的整体融资规模已破千亿元，是去年的3倍多；同时，半数以上的资金流向了头部公司，不少明星公司的估值先后突破200亿元，单轮融资金额达到数亿美金或者等额人民币。 这说明资本市场仍然在用真金白银去支持具身智能，但策略在改变： 从最早投本体、零部件、传感器，到后来的模型，给机器人补上&ldquo;大脑&rdquo;，整个产业链已经非常齐备，细分赛道也呈现出明显的纵向梯队分布，机构们已经投了足够多的项目，因此很难再投类似的新case",
-     "source": "虎嗅",
-     "zh": "很多投资机构不投模型了，改投数据"
-    },
-    {
      "title": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？",
      "link": "https://www.baijing.cn/question/638994",
      "pubDate": "Fri, 27 Nov 2026 02:42:23 +0000",
      "summary": "美国站家居收纳类目，团队5人，月广告预算约1.2万美元。上季度把ACOS从31%压到18%，但FBA入库后平均45天才回款，广告费却是按周从信用卡扣，现金流被账期和广告消耗两头挤。试过把日预算从400美元砍到260美元，ACOS反而回到24%，排名掉出前两页；也试过改投Sponsored Brands，转化尚可但回款节奏没变。现在卡在要不要按回款周期倒推广告预算上限——是继续用信用卡扛账期保排名，还是等回款再放量？判断标准该怎么定？",
      "source": "白鲸出海",
      "zh": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？"
-    },
-    {
-     "title": "入境游的重头戏还在后面",
-     "link": "https://www.huxiu.com/article/4908864.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 10:22:26 +0800",
-     "summary": "本文来自微信公众号： 经济观察网 ，作者：苏斯楠 免签“朋友圈”把“说走就走的中国游”变成常态。我国入境游已从“会不会来”的问题，转为“来了接不接得住”的问题。 “想要一个深圳”成了海外社交媒体的流行话题。 11月19日，APEC第三十三次领导人非正式会议在深圳落幕。这场盛会最出圈的，是一众政要的“深圳体验”。 俄罗斯总统普京说深圳是“最现代化、最具活力的大都市之一”；智利总统卡斯特感慨“进步不是奇迹，而是一种决心”；新加坡总理黄循财在《人民日报》撰文称深圳“令人瞩目”；韩国总统李在明则直言“未来技术如何改变生活，深圳给出了答案”。 与此同时，免签“朋友圈”把“说走就走的中国游”变成常态。国家",
-     "source": "虎嗅",
-     "zh": "入境游的重头戏还在后面"
     },
     {
      "title": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？",
@@ -1973,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Hard Drive pricing has gotten bad",
      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
      "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 152 # Comments: 76",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 167 # Comments: 87",
      "source": "Hacker News",
      "zh": "Hard Drive pricing has gotten bad"
     },
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &nbsp; &mdash;&nbsp; Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legis",
      "source": "Techmeme",
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
+    },
+    {
+     "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+     "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+     "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
+     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 43 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
     }
    ]
   },
@@ -2016,6 +2016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Pantone's Color of the Year 2027 just leaked, giving us a clue about Motorola's next special-edition shade.",
      "source": "Android Authority",
      "zh": "Motorola’s 2027 Pantone Color of the Year phone could come in this shade"
+    },
+    {
+     "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+     "link": "https://sspai.com/post/119601",
+     "pubDate": "Fri, 27 Nov 2026 11:48:17 +0800",
+     "summary": "先预祝大家买得愉快、用得舒心。 查看全文",
+     "source": "少数派",
+     "zh": "「黑五」值得买：不容错过的 App 和服务优惠"
     },
     {
      "title": "Android just had one of its worst quarters, and Apple is benefiting",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
      "source": "Engadget",
      "zh": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on"
-    },
-    {
-     "title": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time",
-     "link": "https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/",
-     "pubDate": "Thu, 26 Nov 2026 15:36:19 +0000",
-     "summary": "Motorola has been content with mid-grade haptics for years, but the Motorola Signature 27’s haptics rightfully upgrade the experience. more…",
-     "source": "9to5Google",
-     "zh": "The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time"
     }
    ]
   },
@@ -2249,6 +2249,102 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M",
+     "link": "https://seekingalpha.com/news/4676919-ntg-clarity-networks-gaap-eps-of-c000-revenue-of-c1922m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:44:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M"
+    },
+    {
+     "title": "魏建军谈长城为何坚持燃油车：国内卖电动车不赚钱 “一车卖全球”已跑通",
+     "link": "http://finance.eastmoney.com/news/1349,202611273941565723.html",
+     "pubDate": "Fri, 27 Nov 2026 12:41:55 +0800",
+     "summary": "11月27日，2027广州车展期间， 长城汽车 董事长魏建军在接受凤凰网科技在内的媒体采访时，回应了 新能源 渗透率不断提升背景下， 长城汽车 为何仍坚持燃油车及多能源技术路线的问题。魏建军表示， 汽车 产业需要形成商业闭环， 长城汽车 在国内销售电动车不赚钱，但在海外市场，纯电、燃油、HEV（油电混动）和PHEV（插电混动）车型均能实现盈利。 魏建军介绍， 长城汽车 通过归元平台，实现从传统燃油车到纯电、插电混动、油电混动的多种动力形式覆盖，即“一车多动力、一车多能源”。这一模式能够扩大单一车型的市场覆盖范围，满足全球不同地区消费者的需求。 魏建军以欧拉5为例透露， 目前欧拉5月销量接近2万",
+     "source": "东方财富股票",
+     "zh": "魏建军谈长城为何坚持燃油车：国内卖电动车不赚钱 “一车卖全球”已跑通"
+    },
+    {
+     "title": "“不就是5G升级到6G吗？”没那么简单",
+     "link": "http://finance.eastmoney.com/news/11158,202611273941565058.html",
+     "pubDate": "Fri, 27 Nov 2026 12:37:25 +0800",
+     "summary": "《新一代 通信 网建设实施方案》26日发布，从顶层设计到落地实施，我国新一代 通信 网建设正式迈入新阶段。 如果用一句话概括“新一代 通信 网”，也许有人会说，不就是5G升级到6G，网速更快了吗？这一理解并不全面。 方案明确，新一代通信网是以第五代移动通信演进/第六代移动通信（5G—A/6G）、万兆光网、 卫星互联网 等为核心支撑，以高速泛在、天地一体、云网融合、智能敏捷、绿色低碳、安全可控为关键特征的智能化 综合 性数字信息基础设施，主要由基础网络、空间网络、国际网络、融合网络构成。 新一代通信网的“新”，绝非网速的简单提升，而是内涵的全面拓展。 新的连接主体，从连接“人”到连接“人机物”“",
+     "source": "东方财富股票",
+     "zh": "“不就是5G升级到6G吗？”没那么简单"
+    },
+    {
+     "title": "丰田母公司10月全球销量同比下降4.6%",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941565162.html",
+     "pubDate": "Fri, 27 Nov 2026 12:35:21 +0800",
+     "summary": "丰田母公司10月全球销量同比下降4.6%至880,087辆。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "丰田母公司10月全球销量同比下降4.6%"
+    },
+    {
+     "title": "Binance ends withdrawal freeze following recovery efforts after October security incident",
+     "link": "https://seekingalpha.com/news/4676914-binance-ends-withdrawal-freeze-following-recovery-efforts-after-october-security-incident?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:34:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Binance ends withdrawal freeze following recovery efforts after October security incident"
+    },
+    {
+     "title": "泰国SET指数上涨1%",
+     "link": "http://stock.eastmoney.com/news/1439,202611273941564880.html",
+     "pubDate": "Fri, 27 Nov 2026 12:33:05 +0800",
+     "summary": "泰国SET指数上涨1%至1,428.88点。",
+     "source": "东方财富股票",
+     "zh": "泰国SET指数上涨1%"
+    },
+    {
+     "title": "Trump says Huang is excited about his 'second term' at Nvidia",
+     "link": "https://seekingalpha.com/news/4676912-trump-says-huang-is-excited-about-his-second-term-at-nvidia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 23:32:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump says Huang is excited about his 'second term' at Nvidia"
+    },
+    {
+     "title": "Tech stocks regain ground at end of volatile trading week",
+     "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 04:31:57 GMT",
+     "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
+     "source": "Financial Times",
+     "zh": "Tech stocks regain ground at end of volatile trading week"
+    },
+    {
+     "title": "11月27日午间涨停复盘：96股涨停 全筑股份9天7板",
+     "link": "http://stock.eastmoney.com/news/11781,202611273941564441.html",
+     "pubDate": "Fri, 27 Nov 2026 12:31:46 +0800",
+     "summary": "今日午盘沪指 涨 0.28%，深成指 涨 2.16%，创业板指 涨 3.79%，今日午盘大盘成交额9205.20亿，较上个交易日放量1242.23亿。 涨停个股数量方面，今日午盘共计96股涨停，另有19只个股盘中一度触及涨停，封板率83.48%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "11月27日午间涨停复盘：96股涨停 全筑股份9天7板"
+    },
+    {
+     "title": "美团：骑手薪酬均透明可查，不存在网传“工资准时险”",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941564650.html",
+     "pubDate": "Fri, 27 Nov 2026 12:31:44 +0800",
+     "summary": "11月27日，美团发布声明称，骑手薪酬均透明可查，不存在网传“工资准时险”。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "美团：骑手薪酬均透明可查，不存在网传“工资准时险”"
+    },
+    {
+     "title": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941564045.html",
+     "pubDate": "Fri, 27 Nov 2026 12:26:32 +0800",
+     "summary": "国务院总理李强11月27日主持召开国务院常务会议，会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。要推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，提供充足流动性保障。完善保险、企业年金、社保基金等中长期资金入市支持引导政策，不断壮大中长期投资力量。加强输入性风险防范应对。要通过深化改革增强资本市场高质量发展的内生动力，加快发展多层次资本市场。要依法强化资本市场全链条监管，坚决查处财务造假、违规减持等行为，有效",
+     "source": "东方财富资讯",
+     "zh": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能"
+    },
+    {
+     "title": "李强主持召开国务院常务会议 研究持续深化资本市场投融资综合改革工作",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941563415.html",
+     "pubDate": "Fri, 27 Nov 2026 12:25:09 +0800",
+     "summary": "国务院总理李强11月27日主持召开国务院常务会议，听取推动高质量发展 综合 督查情况汇报，研究持续深化资本市场投融资 综合 改革工作，听取国家标准体系建设情况汇报，审议通过《生产安全事故隐患排查治理条例（草案）》。 会议指出，要深入抓好督查发现问题整改，举一反三、以点带面推进问题解决，推动全年各项目标任务高质量完成。要积极吸纳各地提出的意见建议，在研究明年工作思路时统筹予以考虑，切实改进相关工作。要以督查整改为契机，抓好长效机制建设，调整完善不适应高质量发展要求的政策举措，优化实施方式，健全激励约束机制，打好政策组合拳。 会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期",
+     "source": "东方财富资讯",
+     "zh": "李强主持召开国务院常务会议 研究持续深化资本市场投融资综合改革工作"
+    },
     {
      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -2280,6 +2376,22 @@ window.INDUSTRY_DATA = {
      "summary": "11月27日，A股震荡上涨，沪指盘初一度下跌，盘中震荡走高，创业板高开高走，盘中一度大涨超4%，科创综指、科创50均涨超4%，得益于AI算力爆发，润和软件20CM涨停，常山北明、拓维信息涨停。半导体板块大反弹，华虹宏力涨超5%。算力硬件拉升，光电路交换机、光模块、光芯片概念股大涨。军工、基本金属、精细化工等板块走强。银行、煤炭、石油天然气等板块陷入调整。 港股早盘高开高走，恒指、恒科指双双拉升，恒科指涨超3%，权重科网股集体反弹，美团、快手、哔哩哔哩等纷纷走高，芯片半导体、光模块等走高。债市方面，国债期货集体下跌。商品方面，国内商品期货普涨。核心市场走势： A股 ：截至发稿，沪指涨0.28%，",
      "source": "华尔街见闻",
      "zh": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升"
+    },
+    {
+     "title": "多股新签订单新高！主力吸筹半导体设备(附股)",
+     "link": "http://finance.eastmoney.com/news/11139,202611273941557725.html",
+     "pubDate": "Fri, 27 Nov 2026 12:05:25 +0800",
+     "summary": "半导体 设备周五大涨， 华海诚科 、 灿芯股份 等多股20CM涨停， 长川科技 、 中科飞测 等多股涨超10%。 多股新签订单创 新高 从产业基本面看， 国产 半导体 设备正迎来历史性替代窗口 。据21世纪经济报道，近期 中微公司 、 盛美上海 等多家国内设备企业披露前三季度新签订单普遍创历史 新高 ，头部存储厂三期产线国产设备采购占比首次突破五成，存储与先进逻辑正成为国产设备渗透的核心方向。 此外，国际 半导体 产业协会（SEMI）预计，2026年全球300毫米晶圆厂前道设备支出将达1490亿美元、同比增长31%，为本轮设备景气提供支撑。 国信证券 指出，自主可控政策支持叠加技术突破，后续可",
+     "source": "东方财富资讯",
+     "zh": "多股新签订单新高！主力吸筹半导体设备(附股)"
+    },
+    {
+     "title": "大资金逆向加仓力度不一般！宽基ETF净申购6760亿 超过924前力度",
+     "link": "http://finance.eastmoney.com/news/1344,202611273941556168.html",
+     "pubDate": "Fri, 27 Nov 2026 12:01:21 +0800",
+     "summary": "9月1日到11月26日，只用了57个交易日，9只核心宽基ETF合计净申购了6759.6亿元。这个数字，已经超过2024年1月1日到9月20日、也就是924行情启动前八个多月里的6716.5亿元。 更不同的是净申购速度，上一轮用了176个交易日，日均净申购38.4亿元，单日峰值372.0亿元；这一轮日均来到118.6亿元，约为当时的三倍，单日最大净申购达到895.7亿元，9只ETF合计份额则扩张了162.5%。 宽基ETF份额的大幅扩张，常被用来捕捉以中央汇金为代表的“国家队”托市信号。国家队护盘时，通常通过增持沪深300、上证50、 中证500 、中证1000、科创50等宽基ETF入市。成交量",
+     "source": "东方财富资讯",
+     "zh": "大资金逆向加仓力度不一般！宽基ETF净申购6760亿 超过924前力度"
     },
     {
      "title": "An exiled former leader faces execution at home. Why does she want to go back?",
@@ -2362,38 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "千曙科技获2亿元增资 运力平台想要“定义”货车"
     },
     {
-     "title": "金银价格直线拉升！贵金属板块强势反弹 机构看好后市表现(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611273941544716.html",
-     "pubDate": "Fri, 27 Nov 2026 11:19:26 +0800",
-     "summary": "11月27日， 现货 黄金 直线拉升突破3600美元/盎司 ，现货 白银 大涨3.52%。机构认为，央行购金持续托底叠加板块深度回调， 贵金属 配置价值正逐步显现。 现货 黄金 重上3600美元，现货 白银 大涨3.52% 11月27日亚市盘中，现货 黄金 直线拉升，突破3600美元/盎司关口，日内上涨0.98%； 现货 白银 涨势更为凌厉，日内大涨3.52% 。 此前一个交易日，受美国感恩节假期影响，纽商所提前结束交易，12月交割的黄金 期货 尾盘上涨0.86%，报3566.20美元/盎司；12月交割的白银期价尾盘上涨2.94%，报41.235美元/盎司。 本周早些时候，金价曾经历快速下探。",
-     "source": "东方财富资讯",
-     "zh": "金银价格直线拉升！贵金属板块强势反弹 机构看好后市表现(名单)"
-    },
-    {
-     "title": "掀涨停潮！算力概念集体大爆发 发生了什么？",
-     "link": "http://finance.eastmoney.com/news/11822,202611273941544392.html",
-     "pubDate": "Fri, 27 Nov 2026 11:18:10 +0800",
-     "summary": "11月27日早盘，得益于国产 规划力挺 、海外断供倒逼、Token需求爆表 三重催化共振 ，AI 算力概念 掀起涨停潮，华为算力链、算力 租赁 、 东数西算 等集体暴涨， 汉鑫科技 30cm封板， 艾布鲁 、 天亿马 、 天源迪科 、 润和软件 均20cm涨停， 华胜天成 、 证通电子 、 宏川智慧 、 大位科技 等近10股亦强势涨停。 多份重磅文件同向发力 11月26日，广东省印发《算力发展“十五五”规划》，其中明确，到2028年智算规模突破1000EFlops、2030年超过2500EFlops，并提出鼓励算力中心优先使用 国产算力芯片 、提升国产化替代水平和应用规模，同时推进国产大模型、",
-     "source": "东方财富资讯",
-     "zh": "掀涨停潮！算力概念集体大爆发 发生了什么？"
-    },
-    {
-     "title": "香港数字资产平台落地！数字货币板块大涨 多只概念股获机构密集调研(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202611273941535817.html",
-     "pubDate": "Fri, 27 Nov 2026 11:00:11 +0800",
-     "summary": "11月27日早盘， 数字货币 板块异动拉升， 法本信息 、 天源迪科 20%涨停。 香港数字资产平台上线、数字金融论坛召开等多重利好共振，板块情绪显著回暖。 香港代币化结算基建落子提速 盘面上， 数字货币 板块指数盘中涨超4%， 楚天龙 、 证通电子 、 太极股份 等多股涨停， 科蓝软件 、 先进数通 等纷纷走强。 11月25日，香港金融管理局宣布正式推出 CMU数字资产平台 。该平台基于分布式账本技术构建，支持债券发行、二级市场交易结算及交收、票息支付和到期赎回等全流程无纸化操作，并支持将传统债券代币化。 平台采用链上原子化货银两讫（DvP）结算模式，可对接即时支付结算系统及央行 数字货币 ",
-     "source": "东方财富资讯",
-     "zh": "香港数字资产平台落地！数字货币板块大涨 多只概念股获机构密集调研(名单)"
-    },
-    {
-     "title": "美股AI风向变了：软件>硬件？",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941533080.html",
-     "pubDate": "Fri, 27 Nov 2026 10:59:11 +0800",
-     "summary": "随着市场对 人工智能 热潮中赢家和输家的看法发生急剧转变，今年迄今为止， 半导体 股和软件股的市场表现已从原本的“一边倒”变为了“不相上下”，而这一风向转变或许值得投资者高度留意。 本月美国科技板块惨遭血洗，但软件股受到的波及相对有限；此轮抛售潮主要集中在不久前仍被资本“众星捧月”的芯片股上。 德意志银行 跨资产策略主管Max Uleer指出，“目前市场对 半导体 股的审慎情绪，恰恰与六到九个月前我们对软件股的情绪如出一辙。” 时移世易 今年早些时候，投资者因担心 人工智能 技术的进步会破坏其商业模式，纷纷抛售软件公司股票。但该行业在下半年扭转了颓势，并在近期市场波动中守住了涨幅，这凸显了投资",
-     "source": "东方财富资讯",
-     "zh": "美股AI风向变了：软件>硬件？"
-    },
-    {
      "title": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高",
      "link": "https://wallstreetcn.com/articles/3786823",
      "pubDate": "Fri, 27 Nov 2026 10:58:30 +0800",
@@ -2408,86 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "三条高铁新建正线约364.5公里，设计时速均为350公里，是长三角铁路联网补网强链的重要项目。",
      "source": "经济观察网",
      "zh": "三线齐发 长三角高铁营业里程突破8500公里"
-    },
-    {
-     "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
-     "link": "https://wallstreetcn.com/articles/3786816",
-     "pubDate": "Fri, 27 Nov 2026 10:16:32 +0800",
-     "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
-     "source": "华尔街见闻",
-     "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
-    },
-    {
-     "title": "Intercede outlines GBP 21M revenue guidance as it expands MyID authenticate and post-quantum cryptography work",
-     "link": "https://seekingalpha.com/news/4676909-intercede-outlines-gbp-21m-revenue-guidance-as-it-expands-myid-authenticate-and-post-quantum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 21:03:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intercede outlines GBP 21M revenue guidance as it expands MyID authenticate and post-quantum cryptography work"
-    },
-    {
-     "title": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍",
-     "link": "https://wallstreetcn.com/articles/3786817",
-     "pubDate": "Fri, 27 Nov 2026 10:01:58 +0800",
-     "summary": "11月27日，国家统计局公布数据显示，1-10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。 其中，10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。 从三大门类看，1-10月采矿业利润增长38.8%，制造业利润增长17.5%，电力、热力、燃气及水生产和供应业利润下降14.8%。 电子行业：一项拉动近10个百分点 中国国家统计局工业司首席统计师于卫宁称，电子行业对利润增长支撑作用明显。 人工",
-     "source": "华尔街见闻",
-     "zh": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍"
-    },
-    {
-     "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
-     "link": "https://wallstreetcn.com/articles/3786819",
-     "pubDate": "Fri, 27 Nov 2026 09:59:06 +0800",
-     "summary": "美银首席投资策略师Michael Hartnett最新发布的2027年展望报告，为2027年标普500指数设定了三大情境： 由广度驱动的“软着陆”基准情形（约7777点），由AI和政府干预驱动的“全面泡沫”（约8888点），以及市场极度缺乏防备的“硬着陆”破裂情形（约6666点） 。 Hartnett认为，市场当前对宏观经济的定价存在严重偏差，对硬着陆的定价严重不足——美银11月全球基金经理调查显示，仅3%的投资者预期硬着陆，而预期软着陆和无着陆的比例分别为50%和42%。 这一判断的核心依据是仓位与预期： 资产配置者普遍超配股票和商品、低配现金和债券，2026年股票基金流入年化达1.5万亿美",
-     "source": "华尔街见闻",
-     "zh": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 01:15:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 00:31:00 GMT",
-     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-     "source": "MarketWatch",
-     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
-    },
-    {
-     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-     "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
-     "pubDate": "Fri, 27 Nov 2026 00:22:29 GMT",
-     "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-     "source": "CNBC",
-     "zh": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks"
-    },
-    {
-     "title": "MoonPay and Highnote file for national bank charters",
-     "link": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
-     "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
-     "source": "Finextra",
-     "zh": "MoonPay and Highnote file for national bank charters"
-    },
-    {
-     "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
-     "link": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
-     "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
-     "source": "Finextra",
-     "zh": "Shuttle secures FCA authorisation to help startups raise capital across borders"
     }
    ]
   },
@@ -2497,6 +2497,46 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:42:17 EST",
+     "summary": "Researchers have discovered that a naturally occurring molecule released during exercise helps muscles become stronger, resist fatigue, and withstand damage. The molecule, already available as a dietary supplement, could open new avenues for treating muscle deterioration associated with type 2 diabe",
+     "source": "ScienceDaily",
+     "zh": "A fat-burning molecule has an unexpected benefit for your muscles"
+    },
+    {
+     "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+     "pubDate": "Thu, 26 Nov 2026 22:56:06 EST",
+     "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker wor",
+     "source": "ScienceDaily",
+     "zh": "Scientists identify two ages when children may be most vulnerable to screen time"
+    },
+    {
+     "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+     "pubDate": "Thu, 26 Nov 2026 22:22:20 EST",
+     "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock smaller quantum computers, ultra-precise atomic clocks, and compact environmental",
+     "source": "ScienceDaily",
+     "zh": "Harvard’s tiny UV light chip could help shrink quantum computers"
+    },
+    {
+     "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+     "pubDate": "Thu, 26 Nov 2026 20:05:56 EST",
+     "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have s",
+     "source": "ScienceDaily",
+     "zh": "These bizarre prehistoric mammals may have been misunderstood for 150 years"
+    },
+    {
+     "title": "This dietary supplement may have an unexpected benefit for the brain",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+     "pubDate": "Thu, 26 Nov 2026 18:34:32 EST",
+     "summary": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to t",
+     "source": "ScienceDaily",
+     "zh": "This dietary supplement may have an unexpected benefit for the brain"
+    },
     {
      "title": "Oldest male orca on record may have been identified thanks to historical atomic bomb testing",
      "link": "https://www.livescience.com/animals/orcas/oldest-male-orca-on-record-may-have-been-identified-thanks-to-historical-atomic-bomb-testing",
@@ -2538,52 +2578,12 @@ window.INDUSTRY_DATA = {
      "zh": "Common supplements rival antibiotics in treating severe gum disease"
     },
     {
-     "title": "Loneliness is making us sick, but we may be treating it all wrong",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
-     "pubDate": "Thu, 26 Nov 2026 06:32:30 EST",
-     "summary": "Loneliness can be surprisingly deadly, with previous research linking it to a roughly 30% increase in the risk of premature death. However, a new study warns that treating loneliness as a medical condition could distract from its deeper social causes. While healthcare professionals can offer support",
-     "source": "ScienceDaily",
-     "zh": "Loneliness is making us sick, but we may be treating it all wrong"
-    },
-    {
-     "title": "The surprising reason women seem better at multitasking than men",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
-     "pubDate": "Thu, 26 Nov 2026 06:21:47 EST",
-     "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
-     "source": "ScienceDaily",
-     "zh": "The surprising reason women seem better at multitasking than men"
-    },
-    {
      "title": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her",
      "link": "https://www.livescience.com/space/astronomy/you-had-one-job-astrophysicist-and-star-trek-science-advisor-erin-macdonald-on-the-secret-to-her-success-and-the-science-flubs-that-haunt-her",
      "pubDate": "Thu, 26 Nov 2026 10:51:27 +0000",
      "summary": "Live Science spoke with astrophysicist Erin Macdonald about her role as a science adviser for 'Star Trek' and other Hollywood movies.",
      "source": "Live Science",
      "zh": "'You had one job': Astrophysicist and Star Trek science advisor Erin MacDonald on the secret to her success and the science flubs that haunt her"
-    },
-    {
-     "title": "This 345-million-year-old fossil had scientists fooled for decades",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
-     "pubDate": "Thu, 26 Nov 2026 05:46:17 EST",
-     "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery ",
-     "source": "ScienceDaily",
-     "zh": "This 345-million-year-old fossil had scientists fooled for decades"
-    },
-    {
-     "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
-     "pubDate": "Wed, 25 Nov 2026 21:42:37 EST",
-     "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbia",
-     "source": "ScienceDaily",
-     "zh": "Scientists discover mysterious lakes more than a mile beneath the Red Sea"
-    },
-    {
-     "title": "World’s largest trial of robotic knee replacement reveals surprising results",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
-     "pubDate": "Wed, 25 Nov 2026 20:04:22 EST",
-     "summary": "Robot-assisted knee replacement surgery offers greater surgical precision, but a landmark clinical trial has revealed a surprising limitation. Despite the advanced technology, patients experienced no meaningful improvements in pain, mobility, or recovery compared with conventional surgery after one ",
-     "source": "ScienceDaily",
-     "zh": "World’s largest trial of robotic knee replacement reveals surprising results"
     },
     {
      "title": "Your risk of heart attack and stroke could be forecasted 30 years in advance, study suggests",

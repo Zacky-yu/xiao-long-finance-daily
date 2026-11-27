@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 11:12:31",
+ "generated_at": "2026/11/27 11:21:48",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,12 +1754,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+     "link": "https://www.techmeme.com/261126/p27#a261126p27",
+     "pubDate": "Thu, 26 Nov 2026 22:15:01 -0500",
+     "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX &nbsp; &mdash;&nbsp; Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents ",
+     "source": "Techmeme",
+     "zh": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)"
+    },
+    {
      "title": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？",
      "link": "https://www.baijing.cn/question/638995",
      "pubDate": "Fri, 27 Nov 2026 03:07:38 +0000",
      "summary": "我们5人小团队，一款卡牌RPG去年底做完东南亚本地化，主攻越南。按越南版号（Giấy phép phát hành trò chơi điện tử）要求提交了材料，结果卡在内容审核环节已经三个月，中间补过一次剧情文本和付费点说明，至今没有明确反馈。现在人力只够维护一个市场的运营和客服排期，原计划Q2越南首发，再顺延就要撞上印尼和泰国的买量旺季。已经试过找本地发行代提交、也调整过游戏内抽卡概率公示，还是没推进。想直接问：这种版号不确定期，是先转印尼、泰国上线跑数据，还是继续等越南？你们判断的依据是什么？",
      "source": "白鲸出海",
      "zh": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？"
+    },
+    {
+     "title": "功臣不封侯，字节无山头",
+     "link": "https://www.tmtpost.com/8219495.html",
+     "pubDate": "Fri, 27 Nov 2026 11:03:58 +0800",
+     "summary": "字节用一套高度理性的现代工程化管理，消解传统互联网的江湖人情与领地意识。它让这台庞大的机器在面对时代剧变时依然保持着敏捷，也让身处其中的每一个人，都必须习惯没有领地的奔跑。",
+     "source": "钛媒体",
+     "zh": "功臣不封侯，字节无山头"
+    },
+    {
+     "title": "独家 |  在看不见“真人”的红果，人怎么赚钱",
+     "link": "https://www.tmtpost.com/8220004.html",
+     "pubDate": "Fri, 27 Nov 2026 11:00:06 +0800",
+     "summary": "红果的未来是自主生成短剧，而不需要靠真人",
+     "source": "钛媒体",
+     "zh": "独家 |  在看不见“真人”的红果，人怎么赚钱"
+    },
+    {
+     "title": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
+     "link": "https://www.tmtpost.com/8219833.html",
+     "pubDate": "Fri, 27 Nov 2026 10:59:55 +0800",
+     "summary": "11月24日，比亚迪宣布，与英国英力士汽车（INEOS Automotive）就收购法国汉巴赫（Hambach）汽车工厂进入独家谈判。",
+     "source": "钛媒体",
+     "zh": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场"
+    },
+    {
+     "title": "炎症性肠病之争，绕不开的艾伯维",
+     "link": "https://www.tmtpost.com/8219400.html",
+     "pubDate": "Fri, 27 Nov 2026 10:59:53 +0800",
+     "summary": "一座大山的形成",
+     "source": "钛媒体",
+     "zh": "炎症性肠病之争，绕不开的艾伯维"
+    },
+    {
+     "title": "马云，走进芯片时代",
+     "link": "https://www.tmtpost.com/8219379.html",
+     "pubDate": "Fri, 27 Nov 2026 10:59:51 +0800",
+     "summary": "从2018年的云栖大会，到2026年平头哥的办公区，马云还是那个马云，阿里的生意却发生了很大的变化。",
+     "source": "钛媒体",
+     "zh": "马云，走进芯片时代"
+    },
+    {
+     "title": "ALO趁火打劫Lululemon",
+     "link": "https://www.tmtpost.com/8219789.html",
+     "pubDate": "Fri, 27 Nov 2026 10:59:48 +0800",
+     "summary": "一场新老对手的好戏，算是拉开了幕。",
+     "source": "钛媒体",
+     "zh": "ALO趁火打劫Lululemon"
+    },
+    {
+     "title": "蔚来 firefly 萤火虫达成 10 万台交付里程碑，3 款十万纪念限定新品上线",
+     "link": "https://www.ithome.com/1/033/219.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:59:44 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，今日 2026 广州车展正式拉开帷幕，蔚来旗下品牌 firefly 萤火虫达成 10 万台交付里程碑。 firefly 萤火虫同时宣布，3 款十万纪念款限定新品上线，包含十万发光纪念款飞行夹克、十万发光纪念款冰箱贴、firefly 萤火虫 1:64 合金车模。 据IT之家了解，2025 年 4 月 29 日，蔚来 firefly 萤火虫开启首批交付，距今不到一年半。今年 9 月 5 日，firefly 萤火虫第 80,000 台交付仪式在合肥举行。10 月 16 日，firefly 萤火虫第 9 万台交付仪式在郑州举行。 10 月 1 日，蔚来公司公布了最",
+     "source": "IT之家",
+     "zh": "蔚来 firefly 萤火虫达成 10 万台交付里程碑，3 款十万纪念限定新品上线"
     },
     {
      "title": "地府F4牛头马面都是谁？",
@@ -1770,6 +1834,30 @@ window.INDUSTRY_DATA = {
      "zh": "地府F4牛头马面都是谁？"
     },
     {
+     "title": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警",
+     "link": "https://www.ithome.com/1/033/218.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:54:01 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 BornCity 昨日（11 月 26 日）发布博文，报道称微软通过 Windows Update 更新通道， 面向部分运行 Windows 11 系统的英特尔迷你主机用户推送问题驱动更新，引发 Windows Defender 高风险警报。 IT之家援引博文介绍，微软面向部分英特尔 NUC 迷你主机产品，推送 1.0.0.38 版本 Intel Performance Driver Extension，该驱动属于 Intel NUC Software Studio Service 的一部分。 该问题驱动内嵌了名为 WinRing0 的老旧内核驱动组",
+     "source": "IT之家",
+     "zh": "微软 Win11 向部分英特尔 NUC 迷你电脑推送问题驱动，Defender 直接报警"
+    },
+    {
+     "title": "东风日产 NX7 上市发布：全系宁德时代电池，11.99 万元起",
+     "link": "https://www.ithome.com/1/033/217.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:53:36 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天开幕的广州车展上，东风日产 NX7 正式发布上市，定位“智能零压 SUV”。 新车共推出三款配置，官方指导价 12.99 万元起，叠加上市权益后 11.99 万元起，号称 15 万级最强插混 SUV。 320 Pro 12.99 万元，限时 11.99 万元 320 Max 13.99 万元，限时 12.99 万元 320 Ultra 激光雷达版 14.99 万元，限时 13.99 万元 东风日产表示，公司研发的新能源车型正加速走向海外：N7 已进入菲律宾市场，NX8、NX7 也将先后走向海外。 入门级的 320 Pro 核心三电规格与高配车型一致，而 ",
+     "source": "IT之家",
+     "zh": "东风日产 NX7 上市发布：全系宁德时代电池，11.99 万元起"
+    },
+    {
+     "title": "整车购买 43.48 万元起，蔚来 ES8 玄金揽月特别版上市",
+     "link": "https://www.ithome.com/1/033/216.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:52:36 GMT",
+     "summary": "IT之家 11 月 27 日消息，今日 2026 广州车展正式拉开帷幕，蔚来汽车宣布旗下旗舰 SUV 车型蔚来 ES8 玄金揽月特别版正式上市。新车推出整车购买与电池租用两种购车方案，整车购买方案售价为 43.48 万元起，电池租用方式购买方案售价为 32.68 万元起。 即日起至 2026 年 12 月 31 日（含），锁单蔚来 ES8 玄金揽月特别版的用户可享限时购车礼遇，包括：1 万元特别版购车礼金、0 首付 5 免 2 金融方案、5 年 NOP+ 免费使用权、飞航头等舱套装。 IT之家注意到，蔚来 ES8 玄金揽月特别版从东方乌金釉中汲取灵感，提炼“玄金”主题，展现出独特的豪华质感。外",
+     "source": "IT之家",
+     "zh": "整车购买 43.48 万元起，蔚来 ES8 玄金揽月特别版上市"
+    },
+    {
      "title": "下一代算力中心的答案，为什么先出现在内蒙古戈壁？",
      "link": "https://www.huxiu.com/article/4905911.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 10:47:21 +0800",
@@ -1778,20 +1866,20 @@ window.INDUSTRY_DATA = {
      "zh": "下一代算力中心的答案，为什么先出现在内蒙古戈壁？"
     },
     {
-     "title": "黑五开考：直邮已死，谁获新生？",
-     "link": "https://www.tmtpost.com/8219884.html",
-     "pubDate": "Fri, 27 Nov 2026 10:44:00 +0800",
-     "summary": "两张税单，一次大迁徙，和一场黑五大考。",
-     "source": "钛媒体",
-     "zh": "黑五开考：直邮已死，谁获新生？"
+     "title": "广东移动启动 2G 网络有序退网，将分阶段停止服务",
+     "link": "https://www.ithome.com/1/033/215.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:45:13 GMT",
+     "summary": "IT之家 11 月 27 日消息，中国移动广东公司 11 月 22 日发布《中国移动广东公司关于 2G 有序退网的公告》称，为整合资源提升服务品质，公司决定对 2G 网络实施有序退网，2G 网络退网完成后仅适用 2G 网络的相关业务将同步终止服务。 自公告发布之日起 30 日后， 广东省的中国移动 2G 网络将逐步退出服务 ，具体根据各区域情况分阶段实施。届时，仅支持 2G 网络的终端、资费套餐和 SIM 卡将无法使用，建议及时升级。公司将为客户提供 购机、物联网模组、套餐优惠以及免费更换个人 USIM 卡等服务 ，全力做好保障支撑。 公告提到，目前 2G 网络设备服役年限较长， 部分设备已进",
+     "source": "IT之家",
+     "zh": "广东移动启动 2G 网络有序退网，将分阶段停止服务"
     },
     {
-     "title": "2027 款极氪 7X 车型上市，限时权益价 21.68 万元起",
-     "link": "https://www.ithome.com/1/033/212.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:43:26 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，2027 款极氪 7X 车型今日在 2026 广州车展正式上市，定价 22.98 万元起， 限时权益价 21.68 万元起 。 2027 款极氪 7X 带来晨曦金、云珀红两款新外观配色，就是台上展示的两款。 2027 款极氪 7X 首发千里浩瀚 G-ASD 4.1 版本 ，支持 AI 终点领航、无图园区漫游。 IT之家汇总主要参数如下（同配置省略）： 后驱 Max 版：75kWh 神盾金砖电池、5.5C 快充、（SoC 10%-80%）充电时间 10.5min、CLTC 续航里程 620km、900V 电机 / 电控 / 热管理、CCD 电磁减振、千里浩瀚",
+     "title": "比亚迪海洋网首款旗舰 MPV“海鲸”全球首发亮相",
+     "link": "https://www.ithome.com/1/033/214.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:45:11 GMT",
+     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展上，比亚迪海洋网首款旗舰 MPV“海鲸”正式亮相。 该车被官方定位为海洋网第五大独立 IP，主打家用旗舰 MPV 市场，采用全新海洋美学 2.0。 “海鲸”的推出填补了海洋网在 MPV 细分市场的空白。在此之前，海洋网已形成海鸥、海豚、海豹、海狮等基于海洋生物命名的 IP 矩阵。新增的“海鲸”意味着该网络的产品线进一步向大型家用车市场延伸。 IT之家后续将为大家带来更多相关报道。",
      "source": "IT之家",
-     "zh": "2027 款极氪 7X 车型上市，限时权益价 21.68 万元起"
+     "zh": "比亚迪海洋网首款旗舰 MPV“海鲸”全球首发亮相"
     },
     {
      "title": "很多投资机构不投模型了，改投数据",
@@ -1808,54 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国站家居收纳类目，团队5人，月广告预算约1.2万美元。上季度把ACOS从31%压到18%，但FBA入库后平均45天才回款，广告费却是按周从信用卡扣，现金流被账期和广告消耗两头挤。试过把日预算从400美元砍到260美元，ACOS反而回到24%，排名掉出前两页；也试过改投Sponsored Brands，转化尚可但回款节奏没变。现在卡在要不要按回款周期倒推广告预算上限——是继续用信用卡扛账期保排名，还是等回款再放量？判断标准该怎么定？",
      "source": "白鲸出海",
      "zh": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？"
-    },
-    {
-     "title": "蔚来新乐道 L60 黑骑士版上市：标配曜黑套装，整车购买 21.08 万元起",
-     "link": "https://www.ithome.com/1/033/211.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:41:19 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，今日 2026 广州车展正式拉开帷幕，蔚来旗下品牌乐道汽车宣布，新乐道 L60 黑骑士版正式上市。新车提供 Max+ 黑骑士版与 Ultra+ 黑骑士版两款车型，整车购买价格分别为 21.08 万元和 22.58 万元起；若选择电池租用方式购买，则分别为 15.38 万元和 16.88 万元起。 IT之家注意到，黑骑士版最显著的特征在于其专属的外观套件。新车采用高人气“星空黑”外观色，车身配备专属黑骑士曜黑套装，包括曜黑前后 LOGO 与曜黑尾部字标，并搭载全新 20 英寸多辐锋影曜黑轮圈，整体呈现出“越夜越锋芒”的视觉效果。 内饰方面，黑骑士版标配全新黑",
-     "source": "IT之家",
-     "zh": "蔚来新乐道 L60 黑骑士版上市：标配曜黑套装，整车购买 21.08 万元起"
-    },
-    {
-     "title": "光伏2026这一年：亏损周期里继续“反内卷”，集体押注储能、技术和AI",
-     "link": "https://www.tmtpost.com/8219738.html",
-     "pubDate": "Fri, 27 Nov 2026 10:37:16 +0800",
-     "summary": "真能突围吗？",
-     "source": "钛媒体",
-     "zh": "光伏2026这一年：亏损周期里继续“反内卷”，集体押注储能、技术和AI"
-    },
-    {
-     "title": "“9 系之上，唯有世家”：别克全新至境世家开启预售",
-     "link": "https://www.ithome.com/1/033/210.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:35:44 GMT",
-     "summary": "IT之家 11 月 27 日消息，今天（11 月 27 日）召开的 2026 广州车展开幕首日， 别克全新至境世家正式亮相并开启预售，将于 12 月 4 日上市，官方同步喊出“9 系之上，唯有世家”，把新车定位在“9 系”旗舰之上。 IT之家附上售价相关信息如下： 逍遥纯电版：官方指导价：489,900，限时焕新价 ¥464,900 起 真龙插混 MAX：预购页面暂未看到相关售价信息 外观上，新车换装 Avenir 金标，并采用星河湾流半隐藏式门把手。该设计保留机械开启支点，即使车辆断电，车门仍可从外部机械开启。此外为了强化其商务接待与长途出行的场景定位，该车配备银翼礼宾光毯、云台礼宾空悬等配",
-     "source": "IT之家",
-     "zh": "“9 系之上，唯有世家”：别克全新至境世家开启预售"
-    },
-    {
-     "title": "问界发布整车一体 L3 架构，赛力斯副总裁周林称 L3 核心体验就是脱手脱眼",
-     "link": "https://www.ithome.com/1/033/209.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:35:34 GMT",
-     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，赛力斯集团副总裁、问界汽车 CTO 周林分享了问界汽车在 L3 时代最新智能驾驶技术成果。 周林提到， 问界的辅助驾驶总里程位居中国市场首位 ，已超过 120 亿公里。在非节假日期间，其单日平均新增辅助驾驶里程超过 2350 万公里，且这一数据仍在持续攀升。 同时，周林还发布了问界整车一体 L3 架构，包含整车一体 L3 级全域感知、整车一体 L3 级决策协同控制、整车一体 L3 级场景体验。 周林表示：“L3 时代， 核心体验就是脱手脱眼 ，人不需要一直握着方向盘，那在这种情况下，就需要保证绝对的安全。”",
-     "source": "IT之家",
-     "zh": "问界发布整车一体 L3 架构，赛力斯副总裁周林称 L3 核心体验就是脱手脱眼"
-    },
-    {
-     "title": "一句话就能剪辑视频了，豆包工作独家接入剪映官方插件",
-     "link": "https://www.ithome.com/1/033/208.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:33:51 GMT",
-     "summary": "IT之家 11 月 27 日消息，今天（27 日）上午，豆包官方宣布，豆包工作独家接入剪映官方插件，一句话就能剪辑视频了。 该功能支持 一句话剪辑与多轨编辑 。用户可将视频素材交给豆包工作，用一句话描述需求并调用剪映完成剪辑，还可继续通过对话修改，或打开多轨草稿进行细调。 ‎据介绍，此次接入将自然语言交互与剪映的视频剪辑能力结合。以常见的口播视频为例，拍摄后删减重复内容、处理读错或嘴瓢的部分、添加字幕以及调整字幕字体和字号，通常涉及多项操作。用户现在可以 一句话描述这些要求，由豆包工作调用剪映处理 ，减少逐项操作的负担。 在剪辑结果生成后，用户可以 边看边提出修改要求，继续调整视频内容 。对于",
-     "source": "IT之家",
-     "zh": "一句话就能剪辑视频了，豆包工作独家接入剪映官方插件"
-    },
-    {
-     "title": "问界汽车面向 L3 的研发和测试体系公开，实车测试里程达 1100 万公里",
-     "link": "https://www.ithome.com/1/033/207.htm",
-     "pubDate": "Fri, 27 Nov 2026 02:28:18 GMT",
-     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展上，赛力斯集团副总裁、问界汽车 CTO 周林分享了问界汽车面向 L3 的研发和测试体系。 据介绍，问界汽车拥有 1300+ 的 L3 整车安全策略、14000+ 的 L3 测试用例、 实车测试里程 1100 万公里 、覆盖用户场景 10 万+ 。 周林提到， 问界的辅助驾驶总里程位居中国市场首位 ，已超过 120 亿公里。在非节假日期间，其单日平均新增辅助驾驶里程超过 2350 万公里，且这一数据仍在持续攀升。 据IT之家了解，问界最新一代双旗舰 —— 全新一代 M9 和新 M8 均全系标配整车一体 L3 架构，即将上市的新 M7 ",
-     "source": "IT之家",
-     "zh": "问界汽车面向 L3 的研发和测试体系公开，实车测试里程达 1100 万公里"
     },
     {
      "title": "入境游的重头戏还在后面",
@@ -1882,44 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？"
     },
     {
-     "title": "舜宇智行：三年分红39.11亿超累计净利，关联交易、募资补流引争议",
-     "link": "https://www.tmtpost.com/8216831.html",
-     "pubDate": "Fri, 27 Nov 2026 10:13:02 +0800",
-     "summary": "2023-2025年公司累计现金分红39.11亿元，分红总额甚至超出同期累计净利润，在刚刚完成大额分红的背景下，公司拟通过IPO募资补充营运资金，该项募资安排的必要性与合理性，备受市场热议。",
-     "source": "钛媒体",
-     "zh": "舜宇智行：三年分红39.11亿超累计净利，关联交易、募资补流引争议"
-    },
-    {
-     "title": "普祺医药：九年累计亏损超6亿元，公司目前已资不抵债",
-     "link": "https://www.tmtpost.com/8216839.html",
-     "pubDate": "Fri, 27 Nov 2026 10:10:43 +0800",
-     "summary": "截至2026年4月末，普祺医药净资产由正转负，陷入资不抵债状态。",
-     "source": "钛媒体",
-     "zh": "普祺医药：九年累计亏损超6亿元，公司目前已资不抵债"
-    },
-    {
      "title": "涨价、减配、挤牙膏：手机堆料战，被内存逼停",
      "link": "https://www.huxiu.com/article/4908855.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 10:07:26 +0800",
      "summary": "本文来自微信公众号： 识礁Farsight ，作者：识礁团队，制图：识礁Farsight 一直以来，手机行业都奉行“加量不加价”的升级策略。随着内存价格飙升，这一迭代逻辑正在崩塌。 近日，据数码博主“数码闲聊站”爆料，2027年手机芯片规划不再激进，有些不迭代或小迭代。头部大厂的迭代芯片计划砍掉部分外围配置，性能挤牙膏，进一步控制成本。“3nm芯片继续战未来，机圈全面进入过日子时代”。 事实上，为避免大幅涨价，2026年部分旗舰手机已开始放缓核心配置的升级节奏。以今年9月问世的OPPO Find X10 E为例，其起售价为4999元，搭载天玑9500s处理器。该处理器虽然发布于2026年1月，",
      "source": "虎嗅",
      "zh": "涨价、减配、挤牙膏：手机堆料战，被内存逼停"
-    },
-    {
-     "title": "消费级显卡正在变成一门边缘生意",
-     "link": "https://www.tmtpost.com/8219460.html",
-     "pubDate": "Fri, 27 Nov 2026 10:05:26 +0800",
-     "summary": "消费者还能买到平价显卡吗？",
-     "source": "钛媒体",
-     "zh": "消费级显卡正在变成一门边缘生意"
-    },
-    {
-     "title": "他们，将剩菜做成了生意",
-     "link": "https://www.tmtpost.com/8219729.html",
-     "pubDate": "Fri, 27 Nov 2026 10:05:25 +0800",
-     "summary": "让天下没有被浪费的粮食",
-     "source": "钛媒体",
-     "zh": "他们，将剩菜做成了生意"
     },
     {
      "title": "肯尼亚买量成本涨了三成，是网络环境问题还是平台政策收紧？",
@@ -1936,6 +1944,14 @@ window.INDUSTRY_DATA = {
      "summary": "我们做美区 TikTok Shop 家居收纳，起量阶段，团队 4 个人，其中 2 个全职负责达人建联。上个月寄出 210 份样品，走完视频发布的只有 63 位，最终带出 9 单成交，样品成本加物流接近 4000 美元，单均获客成本高得没法继续。现在卡在筛选环节：后台只能看到达人的粉丝量和近 30 天 GMV，没法判断对方是否真的会认真拍。试过按粉丝量 1 万以上优先寄、也试过先发私信确认排期再寄，但回复率不到三成，2 个人一天最多跟进 40 个达人，排期一拖就是两三周。想请教在这种人力下，寄样前的筛选标准该怎么定，是先卡近 30 天带货品类还是先卡视频发布率？",
      "source": "白鲸出海",
      "zh": "TikTok Shop 美国站寄样 200 多位达人只出 9 单，4 人团队该怎么排期筛选？"
+    },
+    {
+     "title": "Hard Drive pricing has gotten bad",
+     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 49 # Comments: 15",
+     "source": "Hacker News",
+     "zh": "Hard Drive pricing has gotten bad"
     },
     {
      "title": "巴西达人素材换成墨西哥直接投，为什么完播率掉了四成？",
@@ -1962,36 +1978,20 @@ window.INDUSTRY_DATA = {
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
     },
     {
+     "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+     "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+     "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
+     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 36 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
+    },
+    {
      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
      "link": "https://www.techmeme.com/261126/p25#a261126p25",
      "pubDate": "Thu, 26 Nov 2026 17:10:01 -0500",
      "summary": "Nathan Grayson / Aftermath : A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K &nbsp; &mdash;&nbsp; What goes around comes around, I suppose.&nbsp; Earlier this year, Kick streamer N3on, a weasly",
      "source": "Techmeme",
      "zh": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)"
-    },
-    {
-     "title": "Is Alice Huang a spy or not?",
-     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
-     "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-     "source": "TechCrunch",
-     "zh": "Is Alice Huang a spy or not?"
-    },
-    {
-     "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
-     "link": "https://www.techmeme.com/261126/p24#a261126p24",
-     "pubDate": "Thu, 26 Nov 2026 14:55:02 -0500",
-     "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal su",
-     "source": "Techmeme",
-     "zh": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)"
-    },
-    {
-     "title": "X finally gets parental controls after 20 years",
-     "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-     "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
-     "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
-     "source": "TechCrunch",
-     "zh": "X finally gets parental controls after 20 years"
     }
    ]
   },
@@ -2250,6 +2250,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "创业板指涨超3% 科创50指数涨超4%",
+     "link": "http://finance.eastmoney.com/news/11440,202611273941541985.html",
+     "pubDate": "Fri, 27 Nov 2026 11:13:12 +0800",
+     "summary": "创业板指涨超3%，科创50指数涨超4%，算力硬件股集体回暖， 半导体 、 存储芯片 、 光刻机 板块涨幅居前。",
+     "source": "东方财富股票",
+     "zh": "创业板指涨超3% 科创50指数涨超4%"
+    },
+    {
+     "title": "韩国综指涨幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/11440,202611273941541622.html",
+     "pubDate": "Fri, 27 Nov 2026 11:11:19 +0800",
+     "summary": "韩国综指涨幅扩大至3%，现报4856.3点。个股方面，三星 电子 、 SK海力士 涨超3%。",
+     "source": "东方财富股票",
+     "zh": "韩国综指涨幅扩大至3%"
+    },
+    {
+     "title": "A股股价前10名，9只上涨",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941541755.html",
+     "pubDate": "Fri, 27 Nov 2026 11:10:23 +0800",
+     "summary": "11月27日，A股主要指数盘中拉升。截至发稿，创业板指涨幅扩大至2%，深证成指涨逾1.5%。另外，科创综指涨超3%， 长鑫科技 、 中微公司 、 澜起科技 等纷纷走高。 A股股价前十的公司股票中，包括 寒武纪 、宇树科技、 联讯仪器 、 源杰科技 、 北方华创 、 拓荆科技 、 频准激光 、 中际旭创 、 蘅东光 在内的九只股票上涨。截至发稿， 源杰科技 、 蘅东光 涨逾8%， 联讯仪器 、 北方华创 、 频准激光 涨超5%。 （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "A股股价前10名，9只上涨"
+    },
+    {
+     "title": "澳大利亚外长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳实施反犹袭击的个人实施反恐融资制裁",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941541251.html",
+     "pubDate": "Fri, 27 Nov 2026 11:08:39 +0800",
+     "summary": "澳大利亚外长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳实施反犹袭击的个人实施反恐融资制裁。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "澳大利亚外长黄英贤：澳大利亚今日对两名代表伊朗伊斯兰革命卫队在澳实施反犹袭击的个人实施反恐融资制裁"
+    },
+    {
+     "title": "新西兰工党领袖希普金斯：待政府组建后，将就个人未来做出决定",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941541124.html",
+     "pubDate": "Fri, 27 Nov 2026 11:08:09 +0800",
+     "summary": "新西兰工党领袖希普金斯：待政府组建后，将就个人未来做出决定。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "新西兰工党领袖希普金斯：待政府组建后，将就个人未来做出决定"
+    },
+    {
+     "title": "新西兰工党领袖希普金斯：对今日的结果感到失望",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941541053.html",
+     "pubDate": "Fri, 27 Nov 2026 11:08:09 +0800",
+     "summary": "新西兰工党领袖希普金斯：对今日的结果感到失望。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "新西兰工党领袖希普金斯：对今日的结果感到失望"
+    },
+    {
+     "title": "香港数字资产平台落地！数字货币板块大涨 多只概念股获机构密集调研(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611273941535817.html",
+     "pubDate": "Fri, 27 Nov 2026 11:00:11 +0800",
+     "summary": "11月27日早盘， 数字货币 板块异动拉升， 法本信息 、 天源迪科 20%涨停。 香港数字资产平台上线、数字金融论坛召开等多重利好共振，板块情绪显著回暖。 香港代币化结算基建落子提速 盘面上， 数字货币 板块指数盘中涨超4%， 楚天龙 、 证通电子 、 太极股份 等多股涨停， 科蓝软件 、 先进数通 等纷纷走强。 11月25日，香港金融管理局宣布正式推出 CMU数字资产平台 。该平台基于分布式账本技术构建，支持债券发行、二级市场交易结算及交收、票息支付和到期赎回等全流程无纸化操作，并支持将传统债券代币化。 平台采用链上原子化货银两讫（DvP）结算模式，可对接即时支付结算系统及央行 数字货币 ",
+     "source": "东方财富资讯",
+     "zh": "香港数字资产平台落地！数字货币板块大涨 多只概念股获机构密集调研(名单)"
+    },
+    {
+     "title": "美股AI风向变了：软件>硬件？",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941533080.html",
+     "pubDate": "Fri, 27 Nov 2026 10:59:11 +0800",
+     "summary": "随着市场对 人工智能 热潮中赢家和输家的看法发生急剧转变，今年迄今为止， 半导体 股和软件股的市场表现已从原本的“一边倒”变为了“不相上下”，而这一风向转变或许值得投资者高度留意。 本月美国科技板块惨遭血洗，但软件股受到的波及相对有限；此轮抛售潮主要集中在不久前仍被资本“众星捧月”的芯片股上。 德意志银行 跨资产策略主管Max Uleer指出，“目前市场对 半导体 股的审慎情绪，恰恰与六到九个月前我们对软件股的情绪如出一辙。” 时移世易 今年早些时候，投资者因担心 人工智能 技术的进步会破坏其商业模式，纷纷抛售软件公司股票。但该行业在下半年扭转了颓势，并在近期市场波动中守住了涨幅，这凸显了投资",
+     "source": "东方财富资讯",
+     "zh": "美股AI风向变了：软件>硬件？"
+    },
+    {
      "title": "功能性治愈进入“接力”时代 GST-HG141有望成为序贯治疗的通用基石",
      "link": "http://finance.eastmoney.com/news/1344,202611273941527238.html",
      "pubDate": "Fri, 27 Nov 2026 10:41:40 +0800",
@@ -2338,22 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "国家数据局拟完善数据规则！AI用数确权与付费机制有望明确(附股)"
     },
     {
-     "title": "国家统计局：1—10月份全国规模以上工业企业利润增长16.0%",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941472336.html",
-     "pubDate": "Fri, 27 Nov 2026 09:30:20 +0800",
-     "summary": "1—10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%（按可比口径计算，详见附注二）。 1—10月份，规模以上工业企业中，国有控股企业实现利润总额21080.3亿元，同比增长13.0%；股份制企业实现利润总额52426.6亿元，增长21.4%；外商及港澳台投资企业实现利润总额14678.7亿元，增长0.2%；私营企业实现利润总额17589.3亿元，增长11.4%。 1—10月份，采矿业实现利润总额9936.1亿元，同比增长38.8%；制造业实现利润总额51137.5亿元，增长17.5%； 电力 、热力、燃气及水生产和供应业实现利润总额6299.9亿元，下降14.8",
-     "source": "东方财富资讯",
-     "zh": "国家统计局：1—10月份全国规模以上工业企业利润增长16.0%"
-    },
-    {
-     "title": "扛过最凶险阶段！全球“柴油危机”警报正在解除？",
-     "link": "http://finance.eastmoney.com/news/1356,202611273941473982.html",
-     "pubDate": "Fri, 27 Nov 2026 09:29:01 +0800",
-     "summary": "在中东地区长达数月的战火将柴油价格推至历史高位之后，这一推动全球经济运转的燃料价格近来终于迎来了喘息之机，这为消费者、企业以及多国央行官员带来了一段暂时的解压窗口。 数据显示，欧洲柴油 期货 价格已从美伊冲突初期的峰值重挫近30%，本月以来的跌幅尤为显著。美国加油站的油价走势亦呈现类似态势，全美平均零售价虽仍显著高于战前，但已自9月高位回落。在亚洲市场上，现货船货相较于区域基准正持续呈折价成交，表明供应充足。 这轮柴油价格回调主要受原油端类似跌势的带动。 与此同时，穿行于霍尔木兹海峡的原油及成品油运力已有所恢复。 这为亚洲炼油厂增产铺平了道路，而美国的炼油厂仍在满负荷运转。与此同时，欧洲的柴油",
-     "source": "东方财富资讯",
-     "zh": "扛过最凶险阶段！全球“柴油危机”警报正在解除？"
-    },
-    {
      "title": "德银：科技股抛售或将见底，预计明年标普500再涨25%至9000点，美联储或再加息三次",
      "link": "https://wallstreetcn.com/articles/3786813",
      "pubDate": "Fri, 27 Nov 2026 09:17:12 +0800",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
      "source": "CNBC",
      "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
-     "link": "https://seekingalpha.com/news/4676908-sierra-madre-targets-1200-to-1500-tonnes-per-day-by-q3-next-year-while-advancing-30000-meter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 14:02:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 19:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
-     "link": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 13:34:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
-    },
-    {
-     "title": "SAP explores at least 10,000 job cuts",
-     "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
-     "summary": "European software group is latest to restructure as AI hits software sector",
-     "source": "Financial Times",
-     "zh": "SAP explores at least 10,000 job cuts"
-    },
-    {
-     "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
-     "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more"
-    },
-    {
-     "title": "Semiconductor chips are the new oil. Here&apos;s why",
-     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-     "pubDate": "Thu, 26 Nov 2026 17:52:15 GMT",
-     "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-     "source": "CNBC",
-     "zh": "Semiconductor chips are the new oil. Here&apos;s why"
     }
    ]
   },

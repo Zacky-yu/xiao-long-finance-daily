@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 20:53:59",
+ "generated_at": "2026/11/27 20:59:25",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "智东西 作者 | 李水青 编辑 | 云鹏 智东西11月27日报道，今日，在港股SaaS企业 有赞 十四周年大会上，有赞 创始人兼CEO白鸦 公布了一系列AI落地成果。 经营Agent 有赞龙虾 上线以来，已经服务 3万多 家付费商家、 10万多 名付费用户，累计完成 5000万次 任务； AI客户运营产品「一客一策」 帮助商家将客户回复率平均提升至群发的 10倍 以上； AI客销 则开始承接咨询接待与销售转化，在医疗健康、母婴、消费电子等行业形成可复用的应用场景。 当天，有赞还宣布 开源全平台商品库和交易支付能力 ，进一步向AI创业者开放经营基础设施。 从消费者决策到商家日常经营，再到企业内部",
      "source": "智东西",
      "zh": "3万+付费商家！有赞龙虾干了5000万次任务，对话CEO白鸦"
+    },
+    {
+     "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+     "link": "https://www.qbitai.com/2026/11/513346.html",
+     "pubDate": "Fri, 27 Nov 2026 11:18:24 +0000",
+     "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+     "source": "量子位",
+     "zh": "全国首批首家！商汤大装置获Token工厂智算能力最高评级"
     },
     {
      "title": "NeurIPS 2026｜基模告别重训！港科大、混元开源Rosetta：终结基模「学新忘旧」",
@@ -217,28 +225,28 @@
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     },
     {
+     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
+     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
+     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
+     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
+     "source": "KDnuggets",
+     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
+    },
+    {
+     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
+     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
+     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
+     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
+     "source": "KDnuggets",
+     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
+    },
+    {
      "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
      "link": "https://zhidx.com/p/614303.html",
      "pubDate": "Thu, 26 Nov 2026 20:03:39 +0800",
      "summary": "智东西 作者 | 许丽思 编辑 | 漠影 AI都能破解黎曼猜想这种百年数学难题、证明大名鼎鼎的代数版P≠NP了，可真让AI指挥机器人叠件衣服、收拾一桌杂物，或者做顿饭，它的动作还是太费劲了。 把目光转向生产线，机器人也很难干好大量看似简单的工作。汽车工厂里的线束插拔、电池包装配，家电产线中的精密零部件组装，看起来无非是对准、握住、推进几步，却 需要机器人 持续感知接触状态、调整力度和姿态。 现在，具身智能的一大瓶颈就在于，大脑发展飞快，机器人越来越会理解指令、规划动作，却很难稳定完成精细操作。 它需要更灵敏的感知，也需要一整套把感知变成操作的能力。 今天，一目科技宣布战略升级， 基于触觉 感知",
      "source": "智东西",
      "zh": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？"
-    },
-    {
-     "title": "SteerSound：迈向更可靠的音频编辑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
-     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
-     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
-     "source": "机器之心",
-     "zh": "SteerSound：迈向更可靠的音频编辑"
-    },
-    {
-     "title": "传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=2&sn=133ad9665035bc5be0491b4357010b3a",
-     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
-     "summary": "支撑现代互联网安全近半个世纪的数学假设，可能要被 AI 推翻了。",
-     "source": "机器之心",
-     "zh": "传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？"
     }
    ]
   },
@@ -303,6 +311,14 @@
      "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
      "source": "DIGITIMES",
      "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
+    },
+    {
+     "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
+     "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0000",
+     "summary": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
+     "source": "Electronics Weekly",
+     "zh": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -479,54 +495,6 @@
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1905,14 +1873,6 @@
      "zh": "Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)"
     },
     {
-     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-     "link": "https://eprint.iacr.org/2026/3020.pdf",
-     "pubDate": "Fri, 27 Nov 2026 12:08:51 +0000",
-     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 20 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
-    },
-    {
      "title": "Best Dyson Vacuum Black Friday Deals for 2026: Up to $400 Off",
      "link": "https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 12:05:59 +0000",
@@ -1943,14 +1903,6 @@
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "The 123 Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
-    },
-    {
-     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-     "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-     "pubDate": "Fri, 27 Nov 2026 11:41:11 +0000",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 6 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Pizza history: AI agent's cardless purchase is a first for UK"
     },
     {
      "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
@@ -2023,6 +1975,22 @@
      "summary": "我们做休闲消除类手游，欧洲（德国/法国/英国/西班牙）刚上线三个月，团队 6 人，月买量预算 3 万欧左右。法国区 ASA 从 6 月的 2.6 欧涨到 8 月的 4.2 欧，D7 ROAS 只有 18%，同期德国涨到 3.5 欧、英国 3.8 欧。已经试过换关键词组、拆分品牌词和品类词、把素材从 3 套扩到 9 套，也试过把预算往德国倾斜，但法国量级一压就掉到日均 40 安装以下，起量节奏完全断了。现在卡在要不要保法国区的量：继续加预算怕回不了本，砍掉又担心影响后续自然量和榜单。想直接问，法国 ASA 这个成本水平下，你们判断继续投还是先收缩的取舍标准是什么？",
      "source": "白鲸出海",
      "zh": "法国 ASA 单次安装成本涨到 4.2 欧，手游团队该继续加预算还是转投别的渠道？"
+    },
+    {
+     "title": "GPSR 责任人信息不全，德国站被下架后这批备货该怎么处理？",
+     "link": "https://www.baijing.cn/question/639008",
+     "pubDate": "Fri, 27 Nov 2026 08:41:41 +0000",
+     "summary": "上个月德国站有 7 个 SKU 被下架，后台提示缺少欧盟责任人信息，可我们的欧代合同签的是法国主体，西班牙站又要求本地语种标签，英国站脱欧后单独一套规则。我们做家居收纳类目，团队 12 人，刚起量阶段，德国仓压了约 4000 件货，法国仓也有 2000 件，现在退货率从 3% 涨到 8%，主要原因是包装上没有责任人地址和警告语。已经试过让工厂补印标签贴纸，但德国站审核不认贴纸版本，要求印在包装本体上。卡在重新备货的周期和旧库存的清关成本上。这种情况下是弃货重做包装，还是先转其他站点消化？",
+     "source": "白鲸出海",
+     "zh": "GPSR 责任人信息不全，德国站被下架后这批备货该怎么处理？"
+    },
+    {
+     "title": "旅行者 1 号发回无法解读的信息",
+     "link": "https://www.solidot.org/story?sid=86009",
+     "pubDate": "Fri, 27 Nov 2026 16:34:43 +0800",
+     "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。导致此次故障的确切原因尚不明确。",
+     "source": "Solidot",
+     "zh": "旅行者 1 号发回无法解读的信息"
     }
    ]
   },
@@ -2032,6 +2000,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card",
+     "link": "https://9to5google.com/2026/11/27/meta-quest-3s-black-friday-week-2026-deal/",
+     "pubDate": "Fri, 27 Nov 2026 12:54:53 +0000",
+     "summary": "This year’s Meta Quest 3S Black Friday deal just got even sweeter with an additional bonus from Amazon or Target. more…",
+     "source": "9to5Google",
+     "zh": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card"
+    },
+    {
+     "title": "Sony’s BRAVIA Theater Bar 5 hits a record-low $248",
+     "link": "https://www.androidauthority.com/sony-bravia-theater-bar-5-deal-3740574/",
+     "pubDate": "Fri, 27 Nov 2026 12:54:39 +0000",
+     "summary": "Sony's 3.1-channel Dolby Atmos soundbar with a wireless subwoofer is 29% off, now at its lowest price ever.",
+     "source": "Android Authority",
+     "zh": "Sony’s BRAVIA Theater Bar 5 hits a record-low $248"
+    },
+    {
+     "title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait",
+     "link": "https://www.androidauthority.com/samsung-one-ui-9-5-camera-vision-mode-auto-portrait-apk-teardown-3740793/",
+     "pubDate": "Fri, 27 Nov 2026 12:53:55 +0000",
+     "summary": "Both features are likely bound for the Galaxy S27 series.",
+     "source": "Android Authority",
+     "zh": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait"
+    },
+    {
+     "title": "Amazon’s eero 7 Wi-Fi 7 mesh router drops to $139.99",
+     "link": "https://www.androidauthority.com/eero-7-router-deal-3740622/",
+     "pubDate": "Fri, 27 Nov 2026 12:53:15 +0000",
+     "summary": "The eero 7 dual-band Wi-Fi 7 router is $30 off for Black Friday, close to its lowest price ever.",
+     "source": "Android Authority",
+     "zh": "Amazon’s eero 7 Wi-Fi 7 mesh router drops to $139.99"
+    },
     {
      "title": "512GB Galaxy Z Flip 8 gets $275 price drop for Black Friday",
      "link": "https://www.androidauthority.com/galaxy-z-flip-8-black-friday-deal-3740548/",
@@ -2063,30 +2063,6 @@
      "summary": "The unlocked Galaxy A37 5G drops to $339.99 on Amazon, its lowest price since Prime Day in June.",
      "source": "Android Authority",
      "zh": "Samsung’s Galaxy A37 5G gets a $150 Black Friday price cut"
-    },
-    {
-     "title": "TRIMUI Brick Hammer Pro U is finally here: Premium Android Game Boy handheld for $250",
-     "link": "https://www.androidauthority.com/trimui-brick-hammer-pro-u-price-availability-3740779/",
-     "pubDate": "Fri, 27 Nov 2026 11:55:52 +0000",
-     "summary": "Add this to your list of vertical Android handhelds worth keeping an eye on.",
-     "source": "Android Authority",
-     "zh": "TRIMUI Brick Hammer Pro U is finally here: Premium Android Game Boy handheld for $250"
-    },
-    {
-     "title": "Save $1,200 on the Nebula X1 4K triple laser projector",
-     "link": "https://www.androidauthority.com/nebula-x1-projector-deal-3740616/",
-     "pubDate": "Fri, 27 Nov 2026 11:47:55 +0000",
-     "summary": "Nebula's flagship 4K projector is 40% off on Amazon, dropping to its lowest price ever this Black Friday season.",
-     "source": "Android Authority",
-     "zh": "Save $1,200 on the Nebula X1 4K triple laser projector"
-    },
-    {
-     "title": "Anker Zolo 20,000mAh power bank with built-in cable is 23% off",
-     "link": "https://www.androidauthority.com/anker-zolo-20000mah-power-bank-deal-3740571/",
-     "pubDate": "Fri, 27 Nov 2026 11:38:11 +0000",
-     "summary": "Anker's 30W Zolo power bank drops to $32.99, its lowest price in six months, with a built-in USB-C cable.",
-     "source": "Android Authority",
-     "zh": "Anker Zolo 20,000mAh power bank with built-in cable is 23% off"
     },
     {
      "title": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further",
@@ -2263,14 +2239,6 @@
      "summary": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
      "source": "Engadget",
      "zh": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition"
-    },
-    {
-     "title": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more",
-     "link": "https://9to5google.com/2026/11/26/black-friday-deals-pixel-watch-5-pixelsnap-ring-stand-alexa-tablet/",
-     "pubDate": "Thu, 26 Nov 2026 16:51:28 +0000",
-     "summary": "Today’s 9to5Toys Lunch Break is headlined by the now live Amazon Thanksgiving sale as part of its massive Black Friday event, the Best Buy 24-hour Thanksgiving Flash Sale , and the now even lower price on Google’s Pixel Watch 5 starting from $285 shipped. That deal joins a rare all-time low on the l",
-     "source": "9to5Google",
-     "zh": "Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more"
     }
    ]
   },
@@ -2281,6 +2249,86 @@
    "total": 13,
    "items": [
     {
+     "title": "Coca-Cola continues its refranchising strategy with a deal in Africa",
+     "link": "https://seekingalpha.com/news/4677010-coca-cola-continues-its-refranchising-strategy-with-deal-in-africa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 07:53:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Coca-Cola continues its refranchising strategy with a deal in Africa"
+    },
+    {
+     "title": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定",
+     "link": "http://www.eeo.com.cn/2026/1127/1105744.shtml",
+     "pubDate": "Fri, 27 Nov 2026 20:52:31 +0800",
+     "summary": "据中国人民银行网站11月27日消息，《人民币存贷款利率管理规定》（以下简称《规定》）已经2026年10月30日中国人民银行第10次行务会审议通过，现予发布，自2027年3月21日起施行。 “随着利率市场化改革不断推进，利率的行政性管制逐步放开，各项存贷款利率由金融机构按市场化原则自主确定，中国人民银行负责利率政策的制定、执行和监管。同时，市场利率定价自律机制等行业自律组织也发挥着日益重要的作用。”据中国人民银...",
+     "source": "经济观察网",
+     "zh": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定"
+    },
+    {
+     "title": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》",
+     "link": "http://www.eeo.com.cn/2026/1127/1105743.shtml",
+     "pubDate": "Fri, 27 Nov 2026 20:52:19 +0800",
+     "summary": "本报讯 （记者韩昱） 据中国注册会计师协会网站11月27日消息，《注册会计师行业发展“十五五”规划》（以下简称《规划》）现已印发。 《规划》提出，注册会计师行业作为高端生产性服务业，是现代化产业体系的重要组成部分，必须深入实施扩能提质行动，持续扩大服务有效供给，持续提升审计服务质量，不断拓展多元化增值服务领域，加快新技术与行业深度融合，向专业化和价值链高端延伸，不断做强做大、做精做专，持续...",
+     "source": "经济观察网",
+     "zh": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》"
+    },
+    {
+     "title": "OceanaGold secures Ausgold shareholder approval for acquisition",
+     "link": "https://seekingalpha.com/news/4677009-oceanagold-secures-ausgold-shareholder-approval-for-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 07:51:38 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OceanaGold secures Ausgold shareholder approval for acquisition"
+    },
+    {
+     "title": "Anthropic stock gains premarket, reclaiming IPO price",
+     "link": "https://seekingalpha.com/news/4676996-anthropic-stock-gains-premarket-reclaiming-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 07:50:12 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic stock gains premarket, reclaiming IPO price"
+    },
+    {
+     "title": "伊拉克石油部长：伊拉克的石油产能将得到提升",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941923240.html",
+     "pubDate": "Fri, 27 Nov 2026 20:46:13 +0800",
+     "summary": "伊拉克石油部长表示，伊拉克的石油产能将得到提升。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊拉克石油部长：伊拉克的石油产能将得到提升"
+    },
+    {
+     "title": "11月27日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202611273941923444.html",
+     "pubDate": "Fri, 27 Nov 2026 20:44:46 +0800",
+     "summary": "沪深两市多家上市公司11月27日晚间发布重要公告，以下为利好的消息汇总： 贵州茅台 2026年中期利润分配方案：拟10派256元 贵州茅台 (600519)11月27日发布2026年中期利润分配方案，拟向全体股东每股派发现金红利25.6元（含税），合计派发现金红利320.02亿元（含税）。 华胜天成 ：公司与华为主要合作模式为基于项目建设与运营需求采购华为软件硬件产品 华胜天成 (600410)11月27日公告，公司股票交易于11月25日、11月26日、11月27日，连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动的情形。鉴于近期公司股票价格波动较大，公司股价可能存在短",
+     "source": "东方财富股票",
+     "zh": "11月27日晚间上市公司利好消息一览(附名单)"
+    },
+    {
+     "title": "印尼央行行长：2027年GDP增速可能达到6%",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941923079.html",
+     "pubDate": "Fri, 27 Nov 2026 20:44:43 +0800",
+     "summary": "印尼央行行长：2027年GDP增速可能达到6%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "印尼央行行长：2027年GDP增速可能达到6%"
+    },
+    {
+     "title": "国常会首次在新闻稿中提及“国家队”，提出加力发挥稳市作用",
+     "link": "http://stock.eastmoney.com/news/11215,202611273941923796.html",
+     "pubDate": "Fri, 27 Nov 2026 20:44:00 +0800",
+     "summary": "海报新闻记者任静报道 11月27日，国务院常务会议研究持续深化资本市场投融资 综合 改革工作，提出持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。并明确要加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能。11月27日，A股市场午后开启强势反弹，截至收盘，沪指涨3.73%，深成指涨7.24%，创业板指涨11.61%。 此次国常会对资本市场稳定机制和深化改革作出多项部署。会议提出，要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，",
+     "source": "东方财富股票",
+     "zh": "国常会首次在新闻稿中提及“国家队”，提出加力发挥稳市作用"
+    },
+    {
+     "title": "六大品牌73辆展车参展 广汽集团全品牌亮相2026广州车展",
+     "link": "http://stock.eastmoney.com/news/11219,202611273941923543.html",
+     "pubDate": "Fri, 27 Nov 2026 20:43:16 +0800",
+     "summary": "11月27日，第二十四届广州国际 汽车 展览会开幕。主场作战的 广汽集团 携旗下传祺、昊铂、埃安、启境、广汽本田、广汽丰田六大品牌，集结广交会展馆A区2.2号馆，分享“市场+技术”双轮驱动的“双V模型”产品开发理念及实践，展示其产品矩阵、技术积累与服务布局。 当前， 汽车 行业正处在“战略机遇”攻坚期，如何保持战略定力、穿越周期，是所有企业的核心命题之一。本届车展， 广汽集团 携旗下 乘用车 品牌集中参展，共计73辆展车。广汽以多元化产品矩阵全面呈现企业在电动化、智能化转型领域的最新进展与阶段性成果。 自主品牌方面，传祺深耕智享家庭，携越7、向往M8 PHEV L、E8 PHEV等车型，打造全",
+     "source": "东方财富股票",
+     "zh": "六大品牌73辆展车参展 广汽集团全品牌亮相2026广州车展"
+    },
+    {
      "title": "Search Minerals announces C$1.4M secured convertible loan",
      "link": "https://seekingalpha.com/news/4677004-search-minerals-announces-c-1_4m-secured-convertible-loan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 07:43:10 -0500",
@@ -2289,20 +2337,20 @@
      "zh": "Search Minerals announces C$1.4M secured convertible loan"
     },
     {
+     "title": "宏景科技：拟4000万至8000万元回购股份用于股权激励或员工持股",
+     "link": "http://stock.eastmoney.com/news/11215,202611273941923911.html",
+     "pubDate": "Fri, 27 Nov 2026 20:42:57 +0800",
+     "summary": "上证智讯 11月27日晚间， 宏景科技 发布回购报告书称，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司A股股份，回购资金总额不低于4000万元（含）且不超过8000万元（含），回购价格不超过170元/股（含），该价格上限不高于董事会通过回购决议前三十个交易日公司股票交易均价的150%。本次回购股份拟用于 股权激励 或员工持股计划。 按回购资金上限8000万元、价格上限170元/股测算，预计回购股份约47.06万股，约占公司当前总股本的0.22%；按回购资金下限4000万元测算，预计回购股份约23.53万股，约占公司总股本的0.11%。回购期限为自董事会审议通过回购股份方案之日起不超",
+     "source": "东方财富股票",
+     "zh": "宏景科技：拟4000万至8000万元回购股份用于股权激励或员工持股"
+    },
+    {
      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 12:42:00 GMT",
      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
      "source": "MarketWatch",
      "zh": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images"
-    },
-    {
-     "title": "跑步进场回购！收到董事长提议当天，江瀚新材就拿出最高3亿元的回购方案，拟未来进行出售或注销",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941921712.html",
-     "pubDate": "Fri, 27 Nov 2026 20:41:36 +0800",
-     "summary": "江瀚新材 （603281.SH）实际控制人、董事长甘书官于2026年11月27日向董事会提交股份回购提议。 公司在收到提议当天便以临时提案方式召开董事会，全票审议通过了该项回购议案！并在当天盘后披露了回购报告书。本次回购拟动用自有资金和股票回购专项贷款，资金总额在1.50亿元至3.00亿元之间。 本次股份回购由公司领头人直接发起。2026年11月27日，甘书官正式向公司董事会递交了《关于公司回购股份的提议》。对于发起回购的初衷，甘书官在提议中明确表示，这是基于对公司未来持续发展的信心以及对公司价值的认可。他 综合 考虑了企业当前的股价走势、实际经营情况以及财务情况，提议通过集中竞价交易回购股份",
-     "source": "东方财富股票",
-     "zh": "跑步进场回购！收到董事长提议当天，江瀚新材就拿出最高3亿元的回购方案，拟未来进行出售或注销"
     },
     {
      "title": "TruSilver Metals begins OTCQB trading ahead of silver drilling",
@@ -2321,76 +2369,12 @@
      "zh": "黄金强势反弹，大规模空头挤压一触即发？"
     },
     {
-     "title": "赣锋锂业：11月27日斥资981.03万元回购29.41万股",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941917846.html",
-     "pubDate": "Fri, 27 Nov 2026 20:38:05 +0800",
-     "summary": "21财经11月27日电， 赣锋锂业 （01772.HK）发布翌日披露报表，11月27日，公司于深圳证券交易所回购29.41万股，每股最高回购价为33.58元，每股最低回购价为33.16元，付出的总代价为981.03万元。本次回购股份拟持作库存股份，拟注销股份数目为0。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "赣锋锂业：11月27日斥资981.03万元回购29.41万股"
-    },
-    {
-     "title": "创想三维：控股股东及副董事长完成增持公司股份",
-     "link": "http://hk.eastmoney.com/news/11223,202611273941918184.html",
-     "pubDate": "Fri, 27 Nov 2026 20:38:05 +0800",
-     "summary": "21财经11月27日电， 创想三维 （03388.HK）发布自愿公告，公司控股股东、副董事长兼执行董事敖丹军先生及刘辉林先生以自有资金于公开市场购入公司H股。其中，敖丹军先生购入24万股H股，占总股本约0.05%，平均价格约每股7.4港元，总代价为177.5万港元，增持后直接持股由约10.8%上升至约10.85%；刘辉林先生购入27.3万股H股，占总股本约0.06%，平均价格约每股7.47港元，总代价为204.05万港元，增持后直接持股由约10.8%上升至约10.86%。两人表示不排除未来进一步增持公司股份的可能性。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "创想三维：控股股东及副董事长完成增持公司股份"
-    },
-    {
      "title": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027",
      "link": "https://seekingalpha.com/news/4677002-micron-sk-hynix-samsung-in-focus-as-gf-cuts-dram-prices-for-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 07:37:54 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027"
-    },
-    {
-     "title": "涨停！PCB巨头景旺电子，拟斥资26.8亿元扩产！股价较年内高点回撤超40%",
-     "link": "http://stock.eastmoney.com/news/11216,202611273941921632.html",
-     "pubDate": "Fri, 27 Nov 2026 20:37:52 +0800",
-     "summary": "11月27日晚间， 景旺电子 （603228.SH ，股价64.53元，市值693.85亿元）发布公告宣布，公司董事会审议通过议案，拟投资建设“高阶mSAP精密线路板项目”。该项目预计总投资金额为26.80亿元，规划建设期为24个月，定位于AI算力基础设施领域的高端 PCB 产品，重点面向800G、1.6T及3.2T光模块 PCB 等应用市场。 在此次宣布大额扩产之前， 景旺电子 刚刚交出了一份高速增长的三季报。受益于高速 通信 与AI数据基础设施领域高性能 PCB 产品出货提速，公司2026年第三季度归母净利润实现同比超过两倍的爆发式增长，产品结构正加速向高附加值方向迁移。 拟投资26.80",
-     "source": "东方财富股票",
-     "zh": "涨停！PCB巨头景旺电子，拟斥资26.8亿元扩产！股价较年内高点回撤超40%"
-    },
-    {
-     "title": "国科微：拟2.5亿至5亿元回购公司股份用于注销",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941921389.html",
-     "pubDate": "Fri, 27 Nov 2026 20:37:51 +0800",
-     "summary": "上证智讯 11月27日晚间， 国科微 发布公告称，公司拟使用自有资金及/或自筹资金，通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的人民币普通股（A股）股票，回购资金总额不低于2.50亿元（含）且不超过5.00亿元（含），回购价格不超过187元/股（含），回购股份将用于注销并减少公司注册资本。 按回购金额上限5.00亿元、价格上限187元/股测算，预计回购股份约267.38万股，约占公司当前总股本的1.23%；按回购金额下限2.50亿元测算，预计回购股份约133.69万股，约占0.62%。回购期限为自公司股东会审议通过回购股份方案之日起12个月内。 本次回购方案已经公司第四届董事会",
-     "source": "东方财富股票",
-     "zh": "国科微：拟2.5亿至5亿元回购公司股份用于注销"
-    },
-    {
-     "title": "贵州茅台：中期拟10派256元 合计派现约320.02亿元",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941921284.html",
-     "pubDate": "Fri, 27 Nov 2026 20:37:51 +0800",
-     "summary": "上证智讯 11月27日晚间， 贵州茅台 发布2026年中期利润分配方案公告称，公司拟以实施权益分派股权登记日公司总股本为基数实施2026年中期利润分配，向全体股东每股派发现金红利25.60元（含税）。截至2026年10月31日，公司总股本约12.50亿股，以此计算合计派发现金红利约320.02亿元（含税）。 公告显示，本次利润分配的具体股权登记日将在分配实施公告中明确；在实施权益分派的股权登记日前公司总股本如发生变动的，公司将维持利润分配总额不变，相应调整每股分配比例。该方案已经公司2026年11月26日召开的第五届董事会2026年度第八次会议审议通过，无需提交公司股东会审议，经董事会审议通过",
-     "source": "东方财富股票",
-     "zh": "贵州茅台：中期拟10派256元 合计派现约320.02亿元"
-    },
-    {
-     "title": "PARATUS ENERGY SVCS LTD declares $0.22 dividend",
-     "link": "https://seekingalpha.com/news/4677007-paratus-energy-svcs-ltd-declares-0_22-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:36:59 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PARATUS ENERGY SVCS LTD declares $0.22 dividend"
-    },
-    {
-     "title": "JPMorgan, BlackRock bid to manage part of Singapore's $543B public pension fund - report",
-     "link": "https://seekingalpha.com/news/4676999-jpmorgan-blackrock-bid-to-manage-part-of-singapores-543b-public-pension-fund---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:35:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "JPMorgan, BlackRock bid to manage part of Singapore's $543B public pension fund - report"
-    },
-    {
-     "title": "Ero Copper suspends Tucuma operations amid rain overflows",
-     "link": "https://seekingalpha.com/news/4676913-ero-copper-suspends-tucuma-operations-amid-rain-overflows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:35:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ero Copper suspends Tucuma operations amid rain overflows"
     },
     {
      "title": "First principles to cling to when markets convulse",
@@ -2503,22 +2487,6 @@
      "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
      "source": "CNBC",
      "zh": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push"
-    },
-    {
-     "title": "11月27日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941863848.html",
-     "pubDate": "Fri, 27 Nov 2026 19:32:22 +0800",
-     "summary": "沪深两市多家上市公司11月27日晚间发布公司公告，以下为重要公告汇总。 【品大事】 中国长城 ：拟公开挂牌转让超云数字18%股权 中国长城 (000066)11月27日公告，公司拟公开挂牌转让所持有的超云数字技术集团有限公司（以下简称“超云数字”）18%的股权，首次挂牌价将不低于1.45亿元。 贵州茅台 2026年中期利润分配方案：拟10派256元 贵州茅台 (600519)11月27日发布2026年中期利润分配方案，拟向全体股东每股派发现金红利25.6元（含税），合计派发现金红利320.02亿元（含税）。 华胜天成 ：公司与华为主要合作模式为基于项目建设与运营需求采购华为软件硬件产品 华胜天",
-     "source": "东方财富资讯",
-     "zh": "11月27日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "美团单季赚21亿元，增长向零售和海外延伸",
-     "link": "https://wallstreetcn.com/articles/3786857",
-     "pubDate": "Fri, 27 Nov 2026 19:30:55 +0800",
-     "summary": "美团的利润开始修复了。 11月27日，美团发布三季报，营收1156亿元，同比增长21.6%；净利润20.7亿元，上年同期为亏损186.3亿元。核心本地商业经营利润恢复至57亿元，成为此次盈利改善的主要支撑。 这份财报呈现出两个变化，国内主业重新贡献利润，食杂零售和海外业务继续扩张。美团需要解决的问题，也从承受补贴战的亏损，转向如何分配恢复的盈利能力。 利润修复首先来自营销投入的变化。三季度，美团销售及营销开支同比下降20.1%至270亿元，占收入的比例由35.6%降至23.4%。公司将核心本地商业扭亏主要归因于审慎的营销支出，以及收入增长带来的经营杠杆效应。 补贴能够迅速拉高订单量，却也会吸引",
-     "source": "华尔街见闻",
-     "zh": "美团单季赚21亿元，增长向零售和海外延伸"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 13:28:33",
+ "generated_at": "2026/11/27 13:31:50",
  "recent_days": 7,
  "industries": [
   {
@@ -58,22 +58,6 @@ window.INDUSTRY_DATA = {
      "zh": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
     },
     {
-     "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
-     "link": "https://www.qbitai.com/2026/11/513194.html",
-     "pubDate": "Fri, 27 Nov 2026 04:05:56 +0000",
-     "summary": "企业需要有用的 AI",
-     "source": "量子位",
-     "zh": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间"
-    },
-    {
-     "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
-     "link": "https://www.qbitai.com/2026/11/513211.html",
-     "pubDate": "Fri, 27 Nov 2026 04:05:18 +0000",
-     "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
-     "source": "量子位",
-     "zh": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准"
-    },
-    {
      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
      "link": "https://www.qbitai.com/2026/11/513163.html",
      "pubDate": "Fri, 27 Nov 2026 03:53:49 +0000",
@@ -120,6 +104,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "量子位",
      "zh": "百亿具身独角兽破壁，玩家集体涌向它的牌桌"
+    },
+    {
+     "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+     "link": "https://www.qbitai.com/2026/11/513091.html",
+     "pubDate": "Fri, 27 Nov 2026 02:56:03 +0000",
+     "summary": "倒计时两周，报名从速！",
+     "source": "量子位",
+     "zh": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！"
+    },
+    {
+     "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+     "link": "https://www.qbitai.com/2026/11/513087.html",
+     "pubDate": "Fri, 27 Nov 2026 02:19:12 +0000",
+     "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
+     "source": "量子位",
+     "zh": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！"
     },
     {
      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
@@ -1754,20 +1754,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "市值蒸发千亿，影石为“上天”买单",
+     "link": "https://www.tmtpost.com/8219614.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:30 +0800",
+     "summary": "全景无人机叫好难速成",
+     "source": "钛媒体",
+     "zh": "市值蒸发千亿，影石为“上天”买单"
+    },
+    {
+     "title": "欧洲电商巨头，集体涌向二手市场",
+     "link": "https://www.tmtpost.com/8219657.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:28 +0800",
+     "summary": "今年的欧洲圣诞购物季，二手商品正在成为一种热门的礼物选择。",
+     "source": "钛媒体",
+     "zh": "欧洲电商巨头，集体涌向二手市场"
+    },
+    {
+     "title": "长视频的挽歌：爱奇艺跌入180天退市整改期",
+     "link": "https://www.tmtpost.com/8219721.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:21 +0800",
+     "summary": "看到新闻，我给它充了个全年会员。",
+     "source": "钛媒体",
+     "zh": "长视频的挽歌：爱奇艺跌入180天退市整改期"
+    },
+    {
+     "title": "金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元",
+     "link": "https://www.tmtpost.com/8219525.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:06 +0800",
+     "summary": "金山云Q3财报分化，AI增长但净利待验证",
+     "source": "钛媒体",
+     "zh": "金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元"
+    },
+    {
+     "title": "一条产线动辄数百亿元，中国OLED到了整合的时候？",
+     "link": "https://www.tmtpost.com/8219705.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:02 +0800",
+     "summary": "曾经成就中国面板产业的扩张模式，还能走多远？",
+     "source": "钛媒体",
+     "zh": "一条产线动辄数百亿元，中国OLED到了整合的时候？"
+    },
+    {
      "title": "日本站季节性选品备货，樱花季和梅雨季的节奏怎么错开？",
      "link": "https://www.baijing.cn/question/639000",
      "pubDate": "Fri, 27 Nov 2026 05:18:45 +0000",
      "summary": "去年樱花季前备了一批赏樱野餐垫，3月中旬入仓，结果日本站3月下旬连续下雨，两周只出了不到200件，剩下600多件压到5月才清完，仓储费吃掉大半利润。今年团队5个人，月备货预算30万人民币，想同时做樱花季和梅雨季两个波段，但工厂起订量卡着，一次下单只能压一个品。已经试过按去年销量砍半备货、用亚马逊日本站的历史搜索词看季节曲线，但梅雨季除湿盒的退货率比预期高，客户反馈是包装漏液。现在卡在备货节奏和退货损耗怎么平衡上，是该先小批量空运试销，还是直接按季节窗口一次性备足？",
      "source": "白鲸出海",
      "zh": "日本站季节性选品备货，樱花季和梅雨季的节奏怎么错开？"
-    },
-    {
-     "title": "长城为何坚持燃油车？魏建军称国内电车不赚钱、36 年没造过一辆速成车",
-     "link": "https://www.ithome.com/1/033/337.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:17:51 GMT",
-     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展期间，长城汽车董事长魏建军接受媒体采访，回应了长城为何仍坚持燃油车及多能源技术路线，并对近期行业热议的“速成车”话题发表了看法。 他明确表示，长城在国内销售电动车暂未实现盈利，但在海外市场“一车卖全球”的商业模式已完全跑通。 魏建军指出，汽车产业需要形成商业闭环。目前长城在国内卖电动车不赚钱，但在海外市场，纯电、燃油、油电混动（HEV）和插电混动（PHEV）车型均能实现盈利。他认为，判断一种能源形式是否足够好，不应仅以电动化为标准，而要看其能否满足全球不同地区用户的真实需求，部分国家仍面临电力短缺和充电设施不足的问题。 这一逻辑依托于长城",
-     "source": "IT之家",
-     "zh": "长城为何坚持燃油车？魏建军称国内电车不赚钱、36 年没造过一辆速成车"
     },
     {
      "title": "阿里健康，余涌的难题不只是利润",
@@ -1834,6 +1866,22 @@ window.INDUSTRY_DATA = {
      "zh": "9月以来，宽基ETF净申购超6700亿"
     },
     {
+     "title": "美团声明：骑手薪酬透明可查，不存在网传“工资准时险”",
+     "link": "https://www.ithome.com/1/033/330.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:57:56 GMT",
+     "summary": "IT之家 11 月 27 日消息，今天（27 日）午间，“美团骑手”公众号发布声明称，骑手薪酬均透明可查，不存在网传“工资准时险”。 声明提到，近期，美团发现网上有部分骑手称“ 平台给骑手准时发工资，需要扣除 4.5% 的费用购买‘工资险’？ ”经仔细排查，美团专送和众包骑手等 均不存在该情况 。美团同时全面清查各合作商的服务规范和流程，均无任何类似情况。相关举报线索经二次核实后部分骑手已反馈， 这种情况不是指美团 。 IT之家获悉，声明称，自 2020 年以来，美团每月 稳定透明为百万骑手发薪 ，骑手伙伴均可查阅个人收入明细，坚决打击各种合作商违规扣费、乱收费行为。对于各合作商，美团配送已有",
+     "source": "IT之家",
+     "zh": "美团声明：骑手薪酬透明可查，不存在网传“工资准时险”"
+    },
+    {
+     "title": "\"What's Claude's Fursona?\" and Other Questions",
+     "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+     "pubDate": "Fri, 27 Nov 2026 04:56:18 +0000",
+     "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "\"What's Claude's Fursona?\" and Other Questions"
+    },
+    {
      "title": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？",
      "link": "https://www.baijing.cn/question/638999",
      "pubDate": "Fri, 27 Nov 2026 04:53:28 +0000",
@@ -1848,30 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI投入热，何以要算长远账。",
      "source": "钛媒体",
      "zh": "腾讯阿里百度集体交账，AI进入兑现期"
-    },
-    {
-     "title": "从410亿美元收购，看MNC“算账”哲学",
-     "link": "https://www.tmtpost.com/8219437.html",
-     "pubDate": "Fri, 27 Nov 2026 12:51:55 +0800",
-     "summary": "“410亿美元是一个标准估值”",
-     "source": "钛媒体",
-     "zh": "从410亿美元收购，看MNC“算账”哲学"
-    },
-    {
-     "title": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！",
-     "link": "https://www.tmtpost.com/8219499.html",
-     "pubDate": "Fri, 27 Nov 2026 12:51:53 +0800",
-     "summary": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！",
-     "source": "钛媒体",
-     "zh": "时隔一年，小鹏机器人再登台，何小鹏又哽咽了！"
-    },
-    {
-     "title": "实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢",
-     "link": "https://www.tmtpost.com/8219494.html",
-     "pubDate": "Fri, 27 Nov 2026 12:51:52 +0800",
-     "summary": "思考得像睡着了",
-     "source": "钛媒体",
-     "zh": "实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢"
     },
     {
      "title": "员工住宿难，三只松鼠转型更难",
@@ -1922,28 +1946,20 @@ window.INDUSTRY_DATA = {
      "zh": "Coupang 火箭配送入驻后，韩语详情页素材转化明显低于预期该改哪一层？"
     },
     {
-     "title": "一场物理AI闭门会里的三层“温差”",
-     "link": "https://www.tmtpost.com/8218564.html",
-     "pubDate": "Fri, 27 Nov 2026 11:27:53 +0800",
-     "summary": "一份调研、四道考题，和“一手托两方”的答案",
-     "source": "钛媒体",
-     "zh": "一场物理AI闭门会里的三层“温差”"
-    },
-    {
-     "title": "白酒的“去库存周期”走到哪了？",
-     "link": "https://www.tmtpost.com/8219964.html",
-     "pubDate": "Fri, 27 Nov 2026 11:16:06 +0800",
-     "summary": "所有的局部暖意，都只是长周期阵痛中的序曲",
-     "source": "钛媒体",
-     "zh": "白酒的“去库存周期”走到哪了？"
-    },
-    {
      "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
      "link": "https://www.techmeme.com/261126/p27#a261126p27",
      "pubDate": "Thu, 26 Nov 2026 22:15:01 -0500",
      "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX &nbsp; &mdash;&nbsp; Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents ",
      "source": "Techmeme",
      "zh": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)"
+    },
+    {
+     "title": "Google will show solo Android developers' phone numbers and addresses",
+     "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+     "pubDate": "Fri, 27 Nov 2026 03:11:41 +0000",
+     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 68 # Comments: 33",
+     "source": "Hacker News",
+     "zh": "Google will show solo Android developers' phone numbers and addresses"
     },
     {
      "title": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？",
@@ -1954,44 +1970,28 @@ window.INDUSTRY_DATA = {
      "zh": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？"
     },
     {
+     "title": "The Cutthroat Business of Shipwrecks",
+     "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+     "pubDate": "Fri, 27 Nov 2026 01:21:49 +0000",
+     "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Cutthroat Business of Shipwrecks"
+    },
+    {
+     "title": "Hard Drive pricing has gotten bad",
+     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+     "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 195 # Comments: 127",
+     "source": "Hacker News",
+     "zh": "Hard Drive pricing has gotten bad"
+    },
+    {
      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
      "pubDate": "Fri, 27 Nov 2026 00:56:52 +0000",
      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
      "source": "WIRED",
      "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
-    },
-    {
-     "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
-     "link": "https://www.techmeme.com/261126/p26#a261126p26",
-     "pubDate": "Thu, 26 Nov 2026 19:30:01 -0500",
-     "summary": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &nbsp; &mdash;&nbsp; Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legis",
-     "source": "Techmeme",
-     "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
-    },
-    {
-     "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
-     "link": "https://www.techmeme.com/261126/p25#a261126p25",
-     "pubDate": "Thu, 26 Nov 2026 17:10:01 -0500",
-     "summary": "Nathan Grayson / Aftermath : A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K &nbsp; &mdash;&nbsp; What goes around comes around, I suppose.&nbsp; Earlier this year, Kick streamer N3on, a weasly",
-     "source": "Techmeme",
-     "zh": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)"
-    },
-    {
-     "title": "Is Alice Huang a spy or not?",
-     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
-     "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-     "source": "TechCrunch",
-     "zh": "Is Alice Huang a spy or not?"
-    },
-    {
-     "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
-     "link": "https://www.techmeme.com/261126/p24#a261126p24",
-     "pubDate": "Thu, 26 Nov 2026 14:55:02 -0500",
-     "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal su",
-     "source": "Techmeme",
-     "zh": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)"
     }
    ]
   },
@@ -2250,12 +2250,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "最大跌43.5%！英伟达算力卡远期租金集体下跌 国产算力迎来新的估值窗口？",
-     "link": "http://finance.eastmoney.com/news/11158,202611273941576493.html",
-     "pubDate": "Fri, 27 Nov 2026 13:16:37 +0800",
-     "summary": "AI算力 租赁 市场正在释放新的价格信号。 财闻海外资讯援引PriceCompute最新数据，截至11月27日03:00 UTC，市场对2028年12月GPU 租赁 价格的预期较当前价格出现明显折价。其中， 英伟达 （NVDA.US）的H100、H200、B200和B300 GPU的远期 租赁 价格分别为2.10美元、4.29美元、5.50美元和8.96美元/ GPU小时，较当前价格分别折价30.9%、38.0%、43.5%和16.6%。 值得注意的是， GPU租赁价格短期并未同步下跌。 该平台数据显示，过去一周H100、H200和B200租赁价格分别上涨9.4%、8.1%和6.2%。 短期租",
+     "title": "调查：韩国11月出口增速料创逾50年新高，AI芯片需求功不可没",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941582516.html",
+     "pubDate": "Fri, 27 Nov 2026 13:21:40 +0800",
+     "summary": "路透周五公布的一项调查显示，受AI相关内存芯片需求持续推动，韩国11月出口料加速增长，增幅创半个多世纪以来最高。调查的八位经济学家预估中值显示，韩国11月出口料同比增长96.8%，高于10月的93.9%。这一增幅将创1974年1月以来最高，并标志着出口连续第18个月增长。上周，继德国、美国和中国之后，韩国成为第四个出口额达到1万亿美元的国家，推动全球AI热潮的内存芯片需求强劲是主要动力。周四，韩国央行将2027年经济增长预期从2.9%大幅上调至4.1%，为2021年以来最快增速。iM证券首席经济学家Park Sang-Hyun表示：“ 半导体 出口持续强劲，意味着11月出口额预计将创下月度新高",
      "source": "东方财富股票",
-     "zh": "最大跌43.5%！英伟达算力卡远期租金集体下跌 国产算力迎来新的估值窗口？"
+     "zh": "调查：韩国11月出口增速料创逾50年新高，AI芯片需求功不可没"
+    },
+    {
+     "title": "刚刚，A股直线拉升，创业板指涨逾7%，科创50涨超10% | 盘中速报",
+     "link": "http://stock.eastmoney.com/news/11215,202611273941583854.html",
+     "pubDate": "Fri, 27 Nov 2026 13:21:34 +0800",
+     "summary": "今日午后，A股三大指数开盘直线拉升，创业板指拉升涨逾7%，沪指涨2.22%，深成指涨4.7%，科创50涨超10%。 （免责声明：文章内容和数据仅供参考，不构成投资建议。投资者据此操作，风险自担。） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "刚刚，A股直线拉升，创业板指涨逾7%，科创50涨超10% | 盘中速报"
+    },
+    {
+     "title": "监管部门将全力维护资本市场平稳运行",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941582334.html",
+     "pubDate": "Fri, 27 Nov 2026 13:21:33 +0800",
+     "summary": "国常会针对增强股市内在稳定性做了最新部署。记者获悉，下一步监管部门将坚持稳字当头，加强跨境风险监测研判和政策工具储备，巩固完善稳市机制建设，持续筑牢资本市场风险防波堤防浪堤，全力维护资本市场平稳运行。近期重点推进两大方面工作：一是优化股份回购规则，推动上市公司加大回购力度。抓紧修订《上市公司股份回购规则》，进一步提高股份回购便利度，增强护盘式回购的约束力。提高上市公司股票回购增持专项再贷款覆盖率，督促已披露计划的上市公司加快实施进度。支持、鼓励和督促具备条件的上市公司积极实施股份回购，持续做好市值管理。二是持续丰富市场投资产品和工具。持续加大权益类基金产品供给和创新力度，鼓励基金管理人发行更多",
+     "source": "东方财富股票",
+     "zh": "监管部门将全力维护资本市场平稳运行"
+    },
+    {
+     "title": "港股芯片股、光通信、PCB概念全线大涨",
+     "link": "http://hk.eastmoney.com/news/1797,202611273941580950.html",
+     "pubDate": "Fri, 27 Nov 2026 13:21:15 +0800",
+     "summary": "港股芯片股、光 通信 、 PCB 概念全线大涨， 芯碁微装 升逾30%， 壁仞科技 、 天数智芯 升逾18%， 华虹宏力 升17%， 中际旭创 升15%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "港股芯片股、光通信、PCB概念全线大涨"
+    },
+    {
+     "title": "WTI原油期货涨幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/1356,202611273941582424.html",
+     "pubDate": "Fri, 27 Nov 2026 13:20:55 +0800",
+     "summary": "WTI原油 期货 涨幅扩大至3%，报86.20美元/桶。",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货涨幅扩大至3%"
+    },
+    {
+     "title": "监管将全力推动中长期资金入市政策文件取得更多成效",
+     "link": "http://stock.eastmoney.com/news/1426,202611273941580861.html",
+     "pubDate": "Fri, 27 Nov 2026 13:19:59 +0800",
+     "summary": "就国常会针对增强股市内在稳定性的最新部署，据记者了解，监管部门将全力推动中长期资金入市政策文件取得更多成效，持续健全“长钱长投”的市场机制和生态，进一步推动长周期考核全面落实落地，持续深化公募基金改革，研究推出更多务实管用的新政策新举措，推动形成长期投资回报稳定、投融资协调发展和市场功能有效发挥的良性互动。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "监管将全力推动中长期资金入市政策文件取得更多成效"
     },
     {
      "title": "国常会“稳市”！AH股午后集体飙升，创业板暴涨超8%，科创50狂拉10%，恒科指涨5%",
@@ -2274,52 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "SIR Royalty Income Fund reports Q4 results"
     },
     {
-     "title": "日本20年期国债收益率下跌2.5个基点，至3.535%",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941575028.html",
-     "pubDate": "Fri, 27 Nov 2026 13:12:40 +0800",
-     "summary": "日本20年期国债收益率下跌2.5个基点，至3.535%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "日本20年期国债收益率下跌2.5个基点，至3.535%"
-    },
-    {
-     "title": "欧盟据悉拟筹集数百亿欧元强化防务能力 降低对美军事依赖",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941575989.html",
-     "pubDate": "Fri, 27 Nov 2026 13:10:39 +0800",
-     "summary": "据外媒报道，知情人士透露，随着欧洲加快降低对美国的依赖，欧盟正准备提供数百亿欧元的新贷款和拨款，以替代美国提供的军事作战能力。新一轮融资计划将接续欧盟去年推出的规模达1500亿欧元的欧洲安全行动计划（SAFE）。目前欧盟的重点是建设应对大规模冲突所需的技术和后勤保障能力，而特朗普政府一直在削减美国在欧洲的此类军事能力。知情人士表示，新计划预计将于明年下半年启动，资金将部分来自借款，部分来自欧盟下一个七年期预算。该计划的最终形式将取决于欧盟与成员国及北约的磋商结果，以确定各国的实际需求。计划还将考虑美国目前在欧洲部署的军事能力，以及美国决定撤出的相关军事力量。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟据悉拟筹集数百亿欧元强化防务能力 降低对美军事依赖"
-    },
-    {
-     "title": "恒生科技指数涨超5%，恒生指数涨近2%",
-     "link": "http://hk.eastmoney.com/news/1533,202611273941572096.html",
-     "pubDate": "Fri, 27 Nov 2026 13:10:10 +0800",
-     "summary": "恒生科技指数涨超5%，恒生指数涨近2%； 半导体 、光 通信 、 PCB 等板块涨幅居前。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "恒生科技指数涨超5%，恒生指数涨近2%"
-    },
-    {
-     "title": "港交所公开谴责许家印等7人",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941573363.html",
-     "pubDate": "Fri, 27 Nov 2026 13:09:47 +0800",
-     "summary": "央广网北京11月27日消息（记者徐锦秀）11月26日，香港联交所发布纪律行动公告，公开谴责中国恒大（已退市，正清盘）、 恒大物业 （06666.HK）及许家印、夏海钧等7名董事，并对其中6人作出董事不适合性声明。 公告显示，2020年12月至2021年8月， 恒大物业 及其附属公司以净额134亿元人民币的定期存款作质押，为第三方取得 银行 承兑汇票及贷款提供担保，相关贷款所得款项最终转回中国恒大，其中100亿元用于提前赎回中国恒大发行的债券。 联交所认定，中国恒大及 恒大物业 严重违反《上市规则》，相关董事严重失职。其中，许家印曾指示时任财务总监潘大荣及其他高级管理人员，将恒大物业及其附属公司",
-     "source": "东方财富股票",
-     "zh": "港交所公开谴责许家印等7人"
-    },
-    {
      "title": "Frontier Lithium Inc. reports 1H results",
      "link": "https://seekingalpha.com/news/4676925-frontier-lithium-inc-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 00:09:27 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Frontier Lithium Inc. reports 1H results"
-    },
-    {
-     "title": "科创50指数涨幅扩大至10%",
-     "link": "http://finance.eastmoney.com/news/11440,202611273941569956.html",
-     "pubDate": "Fri, 27 Nov 2026 13:07:43 +0800",
-     "summary": "科创50指数涨幅扩大至10%，现报1287.07点。 华丰科技 、 中科飞测 涨停， 源杰科技 、盛科 通信 、 华海清科 、 拓荆科技 涨超15%，仅4只成份股下跌。",
-     "source": "东方财富股票",
-     "zh": "科创50指数涨幅扩大至10%"
     },
     {
      "title": "Nations Royalty Corp. reports Q2 results",
@@ -2344,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "午后A股井喷上涨，科创50指数涨逾10%，创业板指涨7.5%，全市场近5200股飘红。盘面上， 华为欧拉 、 高带宽内存 、 光刻机 、 财税数字化 、 华为昇腾 、 半导体 涨幅居前。 今日要闻 国家统计局：1—10月份全国规模以上工业企业利润增长16.0% 1—10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。1—10月份，规模以上工业企业中，国有控股企业实现利润总额21080.3亿元，同比增长13.0%；股份制企业实现利润总额52426.6亿元，增长21.4%；外商及港澳台投资企业实现利润总额14678.7亿元，增长0.2%；私营企业实现利润总额17589",
      "source": "东方财富资讯",
      "zh": "午后A股井喷上涨 科创50指数涨逾10% 创业板指涨7.5% 全市场近5200股飘红"
+    },
+    {
+     "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
+     "link": "https://www.ft.com/content/2a98efa0-2c2d-47e3-99a9-e00fbe699c34?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 05:00:22 GMT",
+     "summary": "Employees, analysts and legal experts question whether the company’s management structure and governance will be reformed",
+     "source": "Financial Times",
+     "zh": "‘A changed man.’ How will Jensen Huang lead Nvidia now?"
     },
     {
      "title": "The US and Europe have opposite economic problems",
@@ -2402,12 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%"
     },
     {
-     "title": "Tech stocks regain ground at end of volatile trading week",
+     "title": "Asia stocks stabilise",
      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 04:31:57 GMT",
      "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
      "source": "Financial Times",
-     "zh": "Tech stocks regain ground at end of volatile trading week"
+     "zh": "Asia stocks stabilise"
     },
     {
      "title": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能",
@@ -2434,6 +2442,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations"
     },
     {
+     "title": "华为乾崑合作品牌达26个，搭载车型超60款",
+     "link": "http://www.eeo.com.cn/2026/1127/1104948.shtml",
+     "pubDate": "Fri, 27 Nov 2026 12:08:06 +0800",
+     "summary": "华为乾崑生态大会2026在广州举行。华为智能汽车解决方案宣布，累计搭载26个品牌、超60款车型，智能化部件发货量突破1亿件；乾崑智驾与鸿蒙座舱搭载量双双突破200万。",
+     "source": "经济观察网",
+     "zh": "华为乾崑合作品牌达26个，搭载车型超60款"
+    },
+    {
      "title": "多股新签订单新高！主力吸筹半导体设备(附股)",
      "link": "http://finance.eastmoney.com/news/11139,202611273941557725.html",
      "pubDate": "Fri, 27 Nov 2026 12:05:25 +0800",
@@ -2450,12 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "大资金逆向加仓力度不一般！宽基ETF净申购6760亿 超过924前力度"
     },
     {
-     "title": "An exiled former leader faces execution at home. Why does she want to go back?",
-     "link": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 04:00:58 GMT",
-     "summary": "Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death",
-     "source": "Financial Times",
-     "zh": "An exiled former leader faces execution at home. Why does she want to go back?"
+     "title": "赋信与建信：AI时代信任构建的两条路径",
+     "link": "http://www.eeo.com.cn/2026/1127/1104916.shtml",
+     "pubDate": "Fri, 27 Nov 2026 11:52:57 +0800",
+     "summary": "AI可以赋信——让信息更透明、行为更可验证。但信任不只是信息对称，更是关系认同。AI无法替代管理者在关键时刻的选择——选择信任而非管控，选择坦诚而非掩饰。",
+     "source": "经济观察网",
+     "zh": "赋信与建信：AI时代信任构建的两条路径"
+    },
+    {
+     "title": "主体性成长指南｜01 把自己活成主语",
+     "link": "http://www.eeo.com.cn/2026/1127/1104913.shtml",
+     "pubDate": "Fri, 27 Nov 2026 11:51:31 +0800",
+     "summary": "语法课上，主语是那个“发出动作的人”。放到人生里，主语就是——这件事，是谁在做决定。",
+     "source": "经济观察网",
+     "zh": "主体性成长指南｜01 把自己活成主语"
     },
     {
      "title": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”",
@@ -2464,30 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达股价在创下历史性单日涨幅后迅速遭遇抛压，技术面警示信号随之浮现。 周三（11月25日），英伟达股价延续跌势，连续第二个交易日收跌，进一步回吐周一暴涨逾30%的涨幅。彼时，受董事会宣布恢复首席执行官黄仁勋职务消息提振，英伟达单日市值暴增近1万亿美元。然而，华尔街策略师普遍警告，由于黄仁勋即将出席国会听证会——预计这将是一系列听证的首场——局势远未平息。 自周二开盘以来，英伟达股价累计跌幅已超过11% ，据道琼斯市场数据显示，此轮下跌已将其逼近技术分析师密切关注的“死亡交叉”临界点。 死亡交叉一触即发 “死亡交叉”是技术分析中的经典形态，指某资产或指数的 50日移动均线跌破200日移动均线 ",
      "source": "华尔街见闻",
      "zh": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”"
-    },
-    {
-     "title": "创业板指上涨3.79% 全市场超4600股飘红 华为产业链领涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941549883.html",
-     "pubDate": "Fri, 27 Nov 2026 11:30:47 +0800",
-     "summary": "沪指窄幅震荡，创业板指涨逾3.7%，科创50指数涨逾4.4%。盘面上， 华为欧拉 、 财税数字化 、 高带宽内存 、 华为昇腾 、 光刻机 、 华为鲲鹏 、算力 租赁 、IT服务涨幅居前， 渔业 、 银行 、 白色家电 、 种植业 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.28%，报3486.76点；深成指上涨2.16%，报10301.40点；创业板指上涨3.79%，报2272.72点；科创50指数上涨4.43%，报1221.79点；北证50指数上涨3.66%，报779.96点。全市场上涨个股有4653家，下跌个股有827家，96只股涨停。两市半日合计成交9205亿。 今日要闻 国家统计",
-     "source": "东方财富资讯",
-     "zh": "创业板指上涨3.79% 全市场超4600股飘红 华为产业链领涨"
-    },
-    {
-     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-     "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
-     "pubDate": "Fri, 27 Nov 2026 03:30:23 GMT",
-     "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
-     "source": "CNBC",
-     "zh": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
-    },
-    {
-     "title": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高",
-     "link": "https://wallstreetcn.com/articles/3786823",
-     "pubDate": "Fri, 27 Nov 2026 10:58:30 +0800",
-     "summary": "美国消费者在今年假日购物季的借贷消费规模预计将创下历史新高，“先买后付”（BNPL）工具的使用量持续攀升。 据Adobe预测，在11月1日至12月31日期间，美国消费者使用“先买后付”的 在线借贷消费支出将达到创纪录的213亿美元，较去年同期增长6.6%。 仅在“网购星期一”（Cyber Monday），该项支出预计将达到10.9亿美元，连续第二年突破10亿美元大关；“黑五”（Black Friday）也将额外贡献8.07亿美元的信贷消费。 这一支付模式的显著特征在于对智能手机的极度依赖。Adobe的数据显示，高达82%的“先买后付”支出将通过手机完成， 机构将这一现象直接归因于移动设备更容易",
-     "source": "华尔街见闻",
-     "zh": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高"
     }
    ]
   },

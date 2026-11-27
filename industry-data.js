@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 03:52:29",
+ "generated_at": "2026/11/28 04:12:08",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,10 +1746,18 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
+     "link": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 19:51:43 +0000",
+     "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
+     "source": "WIRED",
+     "zh": "Best Black Friday AirPods Deals I’ve Found (2026)"
+    },
+    {
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 19 # Comments: 5",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 53 # Comments: 27",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1768,6 +1776,14 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
      "source": "WIRED",
      "zh": "Black Friday Mattress Deals: Get Up to 55% Off (2026)"
+    },
+    {
+     "title": "I'm a watchmaker and I accidentally made a software factory",
+     "link": "https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/",
+     "pubDate": "Fri, 27 Nov 2026 19:06:35 +0000",
+     "summary": "Article URL: https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/ Comments URL: https://news.ycombinator.com/item?id=50670517 Points: 6 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "I'm a watchmaker and I accidentally made a software factory"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
      "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
      "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
     },
@@ -1821,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "link": "https://github.com/convex/convex-backend-skill/issues/64",
      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 71 # Comments: 18",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 80 # Comments: 22",
      "source": "Hacker News",
      "zh": "Convex skills send the user's app idea to a remote server without telling them"
     },
@@ -1832,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created Drag",
      "source": "Hacker News",
      "zh": "Show HN: DragDropMath – Learn math by feel"
-    },
-    {
-     "title": "I'm Scared of AI",
-     "link": "https://thesoapbox.email/archive/3",
-     "pubDate": "Fri, 27 Nov 2026 17:45:31 +0000",
-     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 178 # Comments: 190",
-     "source": "Hacker News",
-     "zh": "I'm Scared of AI"
     },
     {
      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
@@ -1898,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "耐克全球供应链再次受到考验"
     },
     {
-     "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
-     "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 16:24:22 +0000",
-     "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday.",
-     "source": "WIRED",
-     "zh": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More"
-    },
-    {
      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
      "link": "https://www.solidot.org/story?sid=86015",
      "pubDate": "Sat, 28 Nov 2026 00:14:48 +0800",
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 226 # Comments: 126",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 239 # Comments: 132",
      "source": "Hacker News",
      "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
     },
@@ -1994,6 +1994,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL",
+     "link": "https://www.gsmarena.com/iphone_18_pro_max_vs_pixel_11_pro_xl_battery_camera_price_compared-news-75304.php",
+     "pubDate": "Fri, 27 Nov 2026 21:03:01 +0100",
+     "summary": "Apple's iPhone 18 Pro Max and Google's Pixel 11 Pro XL represent two different approaches to the premium smartphone. Apple's latest flagship brings a powerful new chipset and a variable-aperture main camera, while Google counters with a lighter design, a brighter display, and its own take on Android",
+     "source": "GSMArena",
+     "zh": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL"
+    },
+    {
+     "title": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more",
+     "link": "https://9to5mac.com/2026/11/27/daily-november-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 20:01:59 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNo",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more"
+    },
+    {
      "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
      "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
      "pubDate": "Fri, 27 Nov 2026 19:45:23 +0000",
@@ -2008,6 +2024,22 @@ window.INDUSTRY_DATA = {
      "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
      "source": "Engadget",
      "zh": "OpenAI countersues Apple and accuses it of stealing trade secrets"
+    },
+    {
+     "title": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home",
+     "link": "https://9to5mac.com/2026/11/27/meross-ms605/",
+     "pubDate": "Fri, 27 Nov 2026 19:30:00 +0000",
+     "summary": "Presence sensors tell Apple Home when someone is in a particular room, which is awesome for running automations based on that. They don’t tell it where in the room you are, though. That’s why these types of automations end up being all-or-nothing type things: you walk into a room, and every light co",
+     "source": "9to5Mac",
+     "zh": "HomeKit Weekly: Meross’s new presence sensor splits a room into three zones for Apple Home"
+    },
+    {
+     "title": "Google Play Black Friday deals: Loads of Android games and apps on sale today",
+     "link": "https://9to5toys.com/2026/11/27/google-play-black-friday-deals/",
+     "pubDate": "Fri, 27 Nov 2026 19:29:59 +0000",
+     "summary": "The official main Pixel 11 Pro, Pixel 11 Pro XL. However, the Google Play Store has loads of deals of its own this week, and you’ll find the best of them waiting down below. Just be sure to also scope out Google’s Pixel Watch 5 starting from $285 shipped , the very first deals on the latest Pixelsna",
+     "source": "9to5Google",
+     "zh": "Google Play Black Friday deals: Loads of Android games and apps on sale today"
     },
     {
      "title": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans",
@@ -2106,28 +2138,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Pixel Watch 5 just hit a new low of $284 on Black Friday"
     },
     {
-     "title": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday",
-     "link": "https://9to5google.com/2026/11/27/aawireless-android-auto-carplay-wireless-adapter-black-friday-sale/",
-     "pubDate": "Fri, 27 Nov 2026 18:05:00 +0000",
-     "summary": "Android Auto and Apple CarPlay are important tools for any drive, but many cars can’t use them without a wire. That’s where wireless adapters step in, and AAWireless’ Android Auto + CarPlay adapter is the best I’ve used, and it’s got a solid Black Friday discount in tow. more…",
-     "source": "9to5Google",
-     "zh": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday"
-    },
-    {
      "title": "Here are the best Black Friday iPad deals",
      "link": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
      "pubDate": "Fri, 27 Nov 2026 18:03:10 +0000",
      "summary": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off , an equally wild $400 off M5 MacBook Air , and now even lower prices on the new M6 MacBook Pro at $250 off , but there are some solid iPad discounts live today too. While perhaps not as eventf",
      "source": "9to5Mac",
      "zh": "Here are the best Black Friday iPad deals"
-    },
-    {
-     "title": "Three new iPhones will launch early next year, here’s what’s coming",
-     "link": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
-     "pubDate": "Fri, 27 Nov 2026 17:57:23 +0000",
-     "summary": "Apple recently launched the iPhone 18 Pro and iPhone Duo, but three more new iPhone models will reportedly arrive in early 2027. Here’s what’s coming. more…",
-     "source": "9to5Mac",
-     "zh": "Three new iPhones will launch early next year, here’s what’s coming"
     },
     {
      "title": "Soundcore Nebula P1i projector drops to a record-low $279",
@@ -2144,14 +2160,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon’s Black Friday week is drawing to a close, but it’s not over yet – the prices for the main Samsung Galaxy S26 trio have dropped even further. Samsung Galaxy S26 Ultra • Samsung Galaxy S26+ and Galaxy S26 The Samsung Galaxy S26 Ultra was $350 off when the sales event started – now the discount",
      "source": "GSMArena",
      "zh": "Deal: Amazon increases its Black Friday discounts for the Galaxy S26, S26+ and S26 Ultra"
-    },
-    {
-     "title": "iPhone Duo Diary: Pros & cons in early real-life use",
-     "link": "https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/",
-     "pubDate": "Fri, 27 Nov 2026 17:00:00 +0000",
-     "summary": "I said back at the launch that I was experiencing extreme levels of technolust for the iPhone Duo despite feeling that it wasn’t the best match for me. A hands-on session of around half an hour in an Apple Store didn’t change either impression. But there’s of course no substitute for real-life usage",
-     "source": "9to5Mac",
-     "zh": "iPhone Duo Diary: Pros & cons in early real-life use"
     },
     {
      "title": "Ecovacs Deebot X12 OmniCyclone robot vacuum is 50% off",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "We've heard about the Realme 17T and Realme 17 Pro before, and we've even seen their designs. While Realme hasn't confirmed these smartphones yet, a tipster claims the Realme 17 series will also include an Ultra model. The Realme 17 Ultra is tipped to be the first Ultra smartphone in the company's n",
      "source": "GSMArena",
      "zh": "Realme 17 Ultra's memory configurations and colors tipped"
-    },
-    {
-     "title": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further",
-     "link": "https://www.gsmarena.com/deal_amazon_germany_drops_the_galaxy_s26_ultra_price_even_further-news-75666.php",
-     "pubDate": "Fri, 27 Nov 2026 11:57:02 +0100",
-     "summary": "In a way, the Samsung Galaxy S26 Ultra was lucky – it launched early in 2026 and was spared the endless memory price increases throughout the year. Flagships that launched in the second half of 2026 are quite expensive compared to ones that launched in the first half of the year. Samsung Galaxy S26 ",
-     "source": "GSMArena",
-     "zh": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further"
     }
    ]
   },
@@ -2242,6 +2242,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
+     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+     "source": "MarketWatch",
+     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
+    },
+    {
+     "title": "苹果在智利反垄断案中面临逾8000万美元罚款",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942126887.html",
+     "pubDate": "Sat, 28 Nov 2026 03:45:01 +0800",
+     "summary": "苹果 在智利反垄断案中面临逾8000万美元罚款。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "苹果在智利反垄断案中面临逾8000万美元罚款"
+    },
+    {
+     "title": "美国原油期货结算价报每桶83.08美元 跌幅0.72%",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942126145.html",
+     "pubDate": "Sat, 28 Nov 2026 03:32:42 +0800",
+     "summary": "美国（WTI）原油 期货 结算价报每桶83.08美元，跌幅0.72%。",
+     "source": "东方财富股票",
+     "zh": "美国原油期货结算价报每桶83.08美元 跌幅0.72%"
+    },
+    {
+     "title": "WTI原油期货结算价报每桶83.08美元，跌幅0.72%",
+     "link": "http://finance.eastmoney.com/news/1356,202611283942126380.html",
+     "pubDate": "Sat, 28 Nov 2026 03:32:25 +0800",
+     "summary": "WTI原油 期货 结算价报每桶83.08美元，跌幅0.72%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货结算价报每桶83.08美元，跌幅0.72%"
+    },
+    {
+     "title": "天能集团王恒利：从绿色智造到乡村共富 全面探索ESG实践新路径",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942126283.html",
+     "pubDate": "Sat, 28 Nov 2026 03:25:21 +0800",
+     "summary": "“对天能来说，绿色发展不是一个概念，也不是一个口号，它一定要和商业模式结合，构建产品设计、清洁工艺、数智制造、循环再生的绿色闭环生态圈。如果商业模式不成立，绿色发展很难落地。”11月23日，在“2026中国企业ESG大会”上，天能集团有限公司公共关系总监王恒利在发言中表示。 据王恒利介绍，天能围绕产品设计生态化、生产工艺清洁化、装备制造智能化、资源利用循环化四个方面，推动绿色发展融入生产经营全过程。从产品源头减少有害元素使用，到改进生产工艺、推进数智制造，再到废旧 电池 回收利用，企业逐步构建起覆盖生产制造和资源再生的绿色发展体系。 以产品设计为例，天能从源头入手，对产品中有毒有害元素的使用进",
+     "source": "东方财富股票",
+     "zh": "天能集团王恒利：从绿色智造到乡村共富 全面探索ESG实践新路径"
+    },
+    {
      "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
      "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
@@ -2250,12 +2290,28 @@ window.INDUSTRY_DATA = {
      "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
     },
     {
+     "title": "王伟：ESG表现最终会传递到资本市场",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942125946.html",
+     "pubDate": "Sat, 28 Nov 2026 03:22:43 +0800",
+     "summary": "做好ESG工作对企业长期风险管控具有重要价值，好的ESG表现有助于企业在资本市场的估值。 中国海洋石油 集团有限公司资本运营部资深专务王伟介绍， 中国海油 已经连续第22年披露可持续发展报告，是国内第一批开始可持续信息鉴证的企业。当前， 中国海油 已经建立了一套比较完善的可持续信息披露管理制度体系。经过长期实践， 中国海油 在ESG方面的工作可以归纳为三点：让数据可信、融入日常、真正转化到资本市场。 “对于资本市场，上市公司披露的数据得保证数据是准确的、真实的。”王伟说，公司每年会把资本市场比较关注的关键指标，比如温室气体排放、污染物排放、水资源管理、供应链管理等，聘请第三方进行鉴证，目的就是",
+     "source": "东方财富股票",
+     "zh": "王伟：ESG表现最终会传递到资本市场"
+    },
+    {
      "title": "SA Asks: What's the best gold play right now for investors?",
      "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What's the best gold play right now for investors?"
+    },
+    {
+     "title": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942125682.html",
+     "pubDate": "Sat, 28 Nov 2026 03:21:46 +0800",
+     "summary": "美股经历此前的下跌后，投资者风险偏好回升， Anthropic 随大盘走高，重新站上83美元的发行价。 截至收盘， Anthropic （股票代码：ANT）股价报91.88美元，较前一交易日上涨10.98%，结束了连续两个交易日收于83美元发行价下方的局面，本周累涨3.34%。 这也意味着，这家上周刚创下首次公开募股（IPO）募资纪录的 人工智能 （AI）公司，成功以反弹结束其在 纳斯达克 上市后的首个完整交易周。 在 Anthropic 上市之前，市场对AI支出增长速度的担忧就已引发科技股震荡。先前，Anthropic已承诺，到2045年累计支出近9010亿美元。 黄仁勋本周早些时候重回 英",
+     "source": "东方财富股票",
+     "zh": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价"
     },
     {
      "title": "从铝市场逼空到LME紧急干预：一场库存危机如何将交易所推向险境？",
@@ -2386,6 +2442,14 @@ window.INDUSTRY_DATA = {
      "zh": "Intermex sues Western Union over merger agreement termination"
     },
     {
+     "title": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%",
+     "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
+     "pubDate": "Sat, 28 Nov 2026 02:00:33 +0800",
+     "summary": "美东时间周五，美股三大指数集体收涨，截止收盘，道琼斯指数涨1.18%，标普500指数涨1.60%， 纳斯达克 综合 指数涨2.31%。 AI交易回暖， 费城 半导体 指数涨超4%。 存储、光 通信 板块领涨， 闪迪 涨超15%，为7月以来最大单日涨幅。 美光科技 、 SK海力士 涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropic 涨近11%，创下自11月19日上市以来最大单日涨幅，股价重回90美元上方。 特斯拉 涨超5%， SpaceX 、 亚马逊 涨近4%，Meta涨超3%， 英伟达 、 苹果 上涨0.88%。 纳斯达克 中国金龙指数涨",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%"
+    },
+    {
      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 17:31:00 GMT",
@@ -2416,70 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
      "source": "CNBC",
      "zh": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
-    },
-    {
-     "title": "Wave of cyber incidents rattles western economies",
-     "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 16:19:21 GMT",
-     "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
-     "source": "Financial Times",
-     "zh": "Wave of cyber incidents rattles western economies"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 16:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
-     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-     "source": "CNBC",
-     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 15:45:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
-     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
-     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
-     "source": "经济观察网",
-     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
-    },
-    {
-     "title": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元",
-     "link": "http://www.eeo.com.cn/2026/1127/1105812.shtml",
-     "pubDate": "Fri, 27 Nov 2026 22:52:21 +0800",
-     "summary": "消费者辛女士入住酒店期间，孩子不慎碰坏房间摆件，酒店起初索赔3000元，但该摆件7年前采购价仅980元，最终双方按采购价完成赔付。根据民法典，财物损坏赔偿以填补实际损失为原则，要考虑物品折旧，不能按商家单方报出的高价赔偿；若商家摆放物品未做好提示，也需承担相应责任，消费者遭遇不合理索赔可依法维权。",
-     "source": "经济观察网",
-     "zh": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元"
-    },
-    {
-     "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
-     "link": "https://wallstreetcn.com/articles/3786838",
-     "pubDate": "Fri, 27 Nov 2026 22:43:56 +0800",
-     "summary": "人工智能交易回暖，全球股市普涨，今日美股将提前收盘。 美股盘初，标普500指数涨1.11%，道琼斯工业平均指数涨0.55%，纳斯达克综合指数涨1.58%，纳斯达克100指数涨1.5%，中概指数涨3%。 个股方面，闪迪涨8.1%，Nebius集团涨5.1%，希捷科技、SK海力士ADR、西部数据、Cerebras系统、美光、CoreWeave、英特尔、AMD、台积电至多涨超4%，英伟达涨1.2%。Anthropic涨3.6%，SpaceX涨2.8%。 纳斯达克金龙中国指数上涨3.01%，热门中概股里，金山云涨8.3%，B站涨7.1%。中概ETF CQQQ涨8.5%。国常会：加力发挥“国家队”稳市作",
-     "source": "华尔街见闻",
-     "zh": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落"
-    },
-    {
-     "title": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委",
-     "link": "http://www.eeo.com.cn/2026/1127/1105808.shtml",
-     "pubDate": "Fri, 27 Nov 2026 22:39:15 +0800",
-     "summary": "中国经济网南京11月27日综合报道 11月27日下午，中国共产党江苏省第十五届委员会在南京举行第一次全体会议，选举信长星为省委书记，刘小涛、范波为省委副书记，信长星、刘小涛、范波、周红波、张文兵、胡立杰、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文为省委常务委员会委员。 上述名单显示，江苏省副省长马士光、沈剑荣，江苏省军区政委敬健，镇江市委书记吴庆文新任江苏省委常委。 <img src=\"https:...",
-     "source": "经济观察网",
-     "zh": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委"
     }
    ]
   },

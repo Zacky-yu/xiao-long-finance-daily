@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 11:06:29",
+ "generated_at": "2026/11/27 11:12:31",
  "recent_days": 7,
  "industries": [
   {
@@ -338,28 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Eutelsat US wins Space Force CSCO satcom contract"
     },
     {
-     "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
-     "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
-     "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
-     "source": "Semiconductor Today",
-     "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
-    },
-    {
      "title": "Fable: The Volatile CEO",
      "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
      "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
      "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Fable: The Volatile CEO"
-    },
-    {
-     "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/californiadreams-261126.shtml",
-     "pubDate": "Thu, 26 Nov 2026 14:02:14 GMT",
-     "summary": "California DREAMS (Defense Ready Electronics and Microdevices Superhub) and the California Pacific Northwest AI Hardware Hub are consolidating their organizations into a single, expanded superhub that will provide startups, defense contractors, commercial companies, innovators, and government partne",
-     "source": "Semiconductor Today",
-     "zh": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub"
     },
     {
      "title": "A Defect Is Not Yet a Scrap Decision",
@@ -458,14 +442,6 @@ window.INDUSTRY_DATA = {
      "zh": "CXO Interview with Osman Chaudry of yieldWerx"
     },
     {
-     "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
-     "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
-     "summary": "Avicena Tech Corp of Sunnyvale, CA, USA, which is developing micro-LED-based optical interconnects, has raised over $100m in Series C funding to accelerate commercialization of its LightBundle platform for AI infrastructure. The round included new and existing investors InterVest, Tiger Global, Cerb",
-     "source": "Semiconductor Today",
-     "zh": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects"
-    },
-    {
      "title": "Blog Review: Nov. 25",
      "link": "https://semiengineering.com/blog-review-nov-25-3/",
      "pubDate": "Wed, 25 Nov 2026 08:01:39 +0000",
@@ -482,20 +458,44 @@ window.INDUSTRY_DATA = {
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
     },
     {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
     },
     {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？",
+     "link": "https://www.baijing.cn/question/638995",
+     "pubDate": "Fri, 27 Nov 2026 03:07:38 +0000",
+     "summary": "我们5人小团队，一款卡牌RPG去年底做完东南亚本地化，主攻越南。按越南版号（Giấy phép phát hành trò chơi điện tử）要求提交了材料，结果卡在内容审核环节已经三个月，中间补过一次剧情文本和付费点说明，至今没有明确反馈。现在人力只够维护一个市场的运营和客服排期，原计划Q2越南首发，再顺延就要撞上印尼和泰国的买量旺季。已经试过找本地发行代提交、也调整过游戏内抽卡概率公示，还是没推进。想直接问：这种版号不确定期，是先转印尼、泰国上线跑数据，还是继续等越南？你们判断的依据是什么？",
+     "source": "白鲸出海",
+     "zh": "越南手游版号卡了三个月，5人小团队该不该先上线印尼和泰国？"
+    },
+    {
+     "title": "地府F4牛头马面都是谁？",
+     "link": "https://www.huxiu.com/article/4908646.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 10:59:39 +0800",
+     "summary": "地府F4其实是牛头、马面、黑白无常这四位打工鬼，牛头马面负责安保，相当于地狱狱警，黑白无常负责勾魂，算是外勤。不是所有黑白无常都是谢范组合，地府F4都是被中国人硬凑出来的CP。",
+     "source": "虎嗅",
+     "zh": "地府F4牛头马面都是谁？"
+    },
+    {
      "title": "下一代算力中心的答案，为什么先出现在内蒙古戈壁？",
      "link": "https://www.huxiu.com/article/4905911.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 10:47:21 +0800",
@@ -1906,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "他们，将剩菜做成了生意"
     },
     {
-     "title": "G2算力基建进入减速周期",
-     "link": "https://www.huxiu.com/article/4908853.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 10:04:06 +0800",
-     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：视觉中国 过去半个多月，作者预测了黄仁勋的离任与复职（ 《复盘：如何成功预测黄仁勋回归》） 。关注黄仁勋事件是因为这个事件直接影响全球算力产业方向。 过去不到两年时间，是G2算力基建爆发的加速周期，因AI大模型突飞猛进，G2的AI企业在算力基建方面投入巨大，使得英伟达成为G2博弈的焦点，最终出现黄仁勋离任事件。 黄仁勋事件处置暴露出来美国内部有三派立场： 一是加速主义阵营主导，同时支持美国闭源模型和中国开源模型，主张宽松的出口管制政策。 二是减速主义阵营主导，认为美国算力中心建设导致美国地方能源价格提升，产生噪音等污染，不利于算力基建",
-     "source": "虎嗅",
-     "zh": "G2算力基建进入减速周期"
-    },
-    {
      "title": "肯尼亚买量成本涨了三成，是网络环境问题还是平台政策收紧？",
      "link": "https://www.baijing.cn/question/638992",
      "pubDate": "Fri, 27 Nov 2026 01:47:35 +0000",
@@ -1928,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做美区 TikTok Shop 家居收纳，起量阶段，团队 4 个人，其中 2 个全职负责达人建联。上个月寄出 210 份样品，走完视频发布的只有 63 位，最终带出 9 单成交，样品成本加物流接近 4000 美元，单均获客成本高得没法继续。现在卡在筛选环节：后台只能看到达人的粉丝量和近 30 天 GMV，没法判断对方是否真的会认真拍。试过按粉丝量 1 万以上优先寄、也试过先发私信确认排期再寄，但回复率不到三成，2 个人一天最多跟进 40 个达人，排期一拖就是两三周。想请教在这种人力下，寄样前的筛选标准该怎么定，是先卡近 30 天带货品类还是先卡视频发布率？",
      "source": "白鲸出海",
      "zh": "TikTok Shop 美国站寄样 200 多位达人只出 9 单，4 人团队该怎么排期筛选？"
-    },
-    {
-     "title": "Hard Drive pricing has gotten bad",
-     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 38 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Hard Drive pricing has gotten bad"
     },
     {
      "title": "巴西达人素材换成墨西哥直接投，为什么完播率掉了四成？",
@@ -1962,14 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
     },
     {
-     "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-     "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-     "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
-     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 33 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
-    },
-    {
      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
      "link": "https://www.techmeme.com/261126/p25#a261126p25",
      "pubDate": "Thu, 26 Nov 2026 17:10:01 -0500",
@@ -1978,20 +1970,28 @@ window.INDUSTRY_DATA = {
      "zh": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)"
     },
     {
-     "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-     "link": "https://kendell.dev/blog/arkwrapper/",
-     "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 53 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
+     "title": "Is Alice Huang a spy or not?",
+     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
+     "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+     "source": "TechCrunch",
+     "zh": "Is Alice Huang a spy or not?"
     },
     {
-     "title": "AI made self-hosting fun again",
-     "link": "https://janlukas.blog/posts/ai-self-hosting",
-     "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 358 # Comments: 197",
-     "source": "Hacker News",
-     "zh": "AI made self-hosting fun again"
+     "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
+     "link": "https://www.techmeme.com/261126/p24#a261126p24",
+     "pubDate": "Thu, 26 Nov 2026 14:55:02 -0500",
+     "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal su",
+     "source": "Techmeme",
+     "zh": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)"
+    },
+    {
+     "title": "X finally gets parental controls after 20 years",
+     "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+     "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
+     "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+     "source": "TechCrunch",
+     "zh": "X finally gets parental controls after 20 years"
     }
    ]
   },
@@ -2250,54 +2250,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "港股创新药概念股集体上扬，歌礼制药涨超10%，三生制药涨超8%，康方生物涨超5%",
-     "link": "http://hk.eastmoney.com/news/1797,202611273941534394.html",
-     "pubDate": "Fri, 27 Nov 2026 10:56:01 +0800",
-     "summary": "港股 创新药 概念股集体上扬，歌礼制药涨超10%， 三生制药 涨超8%， 康方生物 涨超5%， 翰森制药 、 金斯瑞生物科技 、 中国生物制药 涨超4%， 药明生物 涨超3%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "港股创新药概念股集体上扬，歌礼制药涨超10%，三生制药涨超8%，康方生物涨超5%"
-    },
-    {
-     "title": "高股息红利股逆势下挫 中国神华跌超5%",
-     "link": "http://finance.eastmoney.com/news/11440,202611273941534231.html",
-     "pubDate": "Fri, 27 Nov 2026 10:55:50 +0800",
-     "summary": "高股息 红利股 盘中逆势下挫， 中国神华 跌超5%， 中国石化 、 中国移动 、 南京银行 、 美的集团 、 格力电器 、 中国石油 等跟跌。消息面上， 中国神华 在港交所公告，拟以每股38.10港元配售最多1.77亿股，预计所得款项总额约67.4亿港元。配售价较前收盘价折让7.7%。 中国神华 H股现跌超6%。",
-     "source": "东方财富股票",
-     "zh": "高股息红利股逆势下挫 中国神华跌超5%"
-    },
-    {
-     "title": "中金：维持理想汽车“跑赢行业”评级及港股目标价68港元",
-     "link": "http://hk.eastmoney.com/news/1535,202611273941533316.html",
-     "pubDate": "Fri, 27 Nov 2026 10:54:08 +0800",
-     "summary": "中金发表研报指， 理想汽车 (02015.HK)今年第三季业绩符合预期，收入288.3亿元，同比升5.4%、环比升12.3%； 综合 毛利率回升至16.7%，同比升0.4个百分点，环比升5.7个百分点；自由现金流为20亿元，同比及环比转正。交付量99,964辆，同比升7.2%、环比升1.7%，L6及L8贡献环比增量，单车收入环比升10.5%。该行认为，规模效应叠加 电池 降本，第四季毛利率有望环比提升；公司亦计划开拓海外市场，包括在泰国国际车展首发右舵版MEGA，i6计划于明年首季在荷兰、挪威开启交付。该行基本维持今年盈利预测不变，维持“跑赢行业”评级及港股目标价68港元。 （文章来源：金十数",
-     "source": "东方财富股票",
-     "zh": "中金：维持理想汽车“跑赢行业”评级及港股目标价68港元"
-    },
-    {
-     "title": "越南总理：（美国）关税将远低于此前提议的水平",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941531750.html",
-     "pubDate": "Fri, 27 Nov 2026 10:52:07 +0800",
-     "summary": "越南总理：（美国）关税将远低于此前提议的水平。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "越南总理：（美国）关税将远低于此前提议的水平"
-    },
-    {
-     "title": "越南总理：越南在贸易谈判中作出了非常坚定的承诺",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941530263.html",
-     "pubDate": "Fri, 27 Nov 2026 10:50:07 +0800",
-     "summary": "越南总理：越南在贸易谈判中作出了非常坚定的承诺。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "越南总理：越南在贸易谈判中作出了非常坚定的承诺"
-    },
-    {
-     "title": "三角防务董事长所持股份近七成质押，前三季度扣非净利转亏，股价年内腰斩",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941533139.html",
-     "pubDate": "Fri, 27 Nov 2026 10:49:59 +0800",
-     "summary": "11月26日，西安 三角防务 股份有限公司（证券代码：300775，证券简称： 三角防务 ）披露《关于董事长部分股份质押的公告》。公告显示， 公司董事长严建亚将其所持1390万股公司股份办理质押，占其个人所持股份的69.50%，占公司总股本的2.54%。 根据公告，本次质押股份为非限售股，亦非补充质押； 质押起始日为2026年11月25日，质押到期日为2027年11月25日；质权人为中国中金财富证券有限公司；质押用途为个人资金需求。 公告同时披露了股东及其一致行动人的累计质押情况。本次质押以截至2026年11月20日收市后公司总股本547,554,025股为计算依据。 严建亚直接持有公司股份2",
-     "source": "东方财富股票",
-     "zh": "三角防务董事长所持股份近七成质押，前三季度扣非净利转亏，股价年内腰斩"
-    },
-    {
      "title": "功能性治愈进入“接力”时代 GST-HG141有望成为序贯治疗的通用基石",
      "link": "http://finance.eastmoney.com/news/1344,202611273941527238.html",
      "pubDate": "Fri, 27 Nov 2026 10:41:40 +0800",
@@ -2314,14 +2266,6 @@ window.INDUSTRY_DATA = {
      "zh": "创业板涨超2%，科创50涨近3%，AI算力掀起涨停潮，半导体产业链反弹，恒科指涨3%，科网股集体拉升"
     },
     {
-     "title": "三线齐发 长三角高铁营业里程突破8500公里",
-     "link": "http://www.eeo.com.cn/2026/1127/1104784.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:34:09 +0800",
-     "summary": "三条高铁新建正线约364.5公里，设计时速均为350公里，是长三角铁路联网补网强链的重要项目。",
-     "source": "经济观察网",
-     "zh": "三线齐发 长三角高铁营业里程突破8500公里"
-    },
-    {
      "title": "黄仁勋明年底前再被罢免CEO概率达29% 特朗普：对股市有点担心 或很快与他通话",
      "link": "http://finance.eastmoney.com/news/11158,202611273941519962.html",
      "pubDate": "Fri, 27 Nov 2026 10:27:50 +0800",
@@ -2330,52 +2274,12 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋明年底前再被罢免CEO概率达29% 特朗普：对股市有点担心 或很快与他通话"
     },
     {
-     "title": "直击2026广州车展：演员朱一龙抵达现场",
-     "link": "http://www.eeo.com.cn/2026/1127/1104763.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:26:19 +0800",
-     "summary": "直击2026广州车展！演员朱一龙抵达现场，他要去哪个品牌展台？你最喜欢他的哪部作品？",
-     "source": "经济观察网",
-     "zh": "直击2026广州车展：演员朱一龙抵达现场"
-    },
-    {
-     "title": "农业农村部：到2030年摸清农业文化遗产资源",
-     "link": "http://www.eeo.com.cn/2026/1127/1104762.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:26:02 +0800",
-     "summary": "下一步，农业农村部将培育农业文化遗产传承人，开展乡土文化能人培训，加强农耕技艺、传统手工艺及民俗节庆传承。同时，将农业景观、民俗风情转化为乡村新产业新业态，深化农文旅融合，推动价值转化，赋能乡村振兴。...",
-     "source": "经济观察网",
-     "zh": "农业农村部：到2030年摸清农业文化遗产资源"
-    },
-    {
-     "title": "第三届国家农产品质量安全风险评估专家委员会换届大会在京召开",
-     "link": "http://www.eeo.com.cn/2026/1127/1104751.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:17:43 +0800",
-     "summary": "会议强调，“十五五”时期是农产品质量安全治理体系和治理能力现代化纵深推进的关键时期。",
-     "source": "经济观察网",
-     "zh": "第三届国家农产品质量安全风险评估专家委员会换届大会在京召开"
-    },
-    {
-     "title": "“三北”工程将按照14个重点分区 推行差异化治理",
-     "link": "http://www.eeo.com.cn/2026/1127/1104750.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:17:32 +0800",
-     "summary": "2026年安排中央投资277亿元，实施重点项目328个，建设任务7448万亩，目前完成各类建设任务6874万亩，“三北”工程攻坚战取得明显成效。",
-     "source": "经济观察网",
-     "zh": "“三北”工程将按照14个重点分区 推行差异化治理"
-    },
-    {
      "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
      "link": "https://wallstreetcn.com/articles/3786816",
      "pubDate": "Fri, 27 Nov 2026 10:16:32 +0800",
      "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
      "source": "华尔街见闻",
      "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
-    },
-    {
-     "title": "韩国综合指数盘中涨超2%",
-     "link": "http://www.eeo.com.cn/2026/1127/1104745.shtml",
-     "pubDate": "Fri, 27 Nov 2026 10:14:06 +0800",
-     "summary": "11月27日，韩国综合指数盘中涨超2%，截至北京时间9时35分，该指数涨2.12%。",
-     "source": "经济观察网",
-     "zh": "韩国综合指数盘中涨超2%"
     },
     {
      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
@@ -2488,6 +2392,102 @@ window.INDUSTRY_DATA = {
      "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
      "source": "CNBC",
      "zh": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks"
+    },
+    {
+     "title": "MoonPay and Highnote file for national bank charters",
+     "link": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
+     "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
+     "source": "Finextra",
+     "zh": "MoonPay and Highnote file for national bank charters"
+    },
+    {
+     "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
+     "link": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
+     "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
+     "source": "Finextra",
+     "zh": "Shuttle secures FCA authorisation to help startups raise capital across borders"
+    },
+    {
+     "title": "Here are the major earnings before the open Friday",
+     "link": "https://seekingalpha.com/news/4676738-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 18:00:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Friday"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 22:00:00 GMT",
+     "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+     "source": "MarketWatch",
+     "zh": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
+    },
+    {
+     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 21:45:00 GMT",
+     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+     "source": "MarketWatch",
+     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
+    },
+    {
+     "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+     "pubDate": "Thu, 26 Nov 2026 21:13:17 GMT",
+     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+     "source": "CNBC",
+     "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
+     "link": "https://seekingalpha.com/news/4676908-sierra-madre-targets-1200-to-1500-tonnes-per-day-by-q3-next-year-while-advancing-30000-meter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 14:02:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling"
+    },
+    {
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+     "pubDate": "Thu, 26 Nov 2026 19:00:00 GMT",
+     "summary": "“Retirement is a financial status, not an age.”",
+     "source": "MarketWatch",
+     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+    },
+    {
+     "title": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
+     "link": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 13:34:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
+    },
+    {
+     "title": "SAP explores at least 10,000 job cuts",
+     "link": "https://www.ft.com/content/ef05b4ab-7944-44ae-ad00-15475f8c1ec9?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 18:24:34 GMT",
+     "summary": "European software group is latest to restructure as AI hits software sector",
+     "source": "Financial Times",
+     "zh": "SAP explores at least 10,000 job cuts"
+    },
+    {
+     "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
+     "link": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 26 Nov 2026 13:06:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more"
+    },
+    {
+     "title": "Semiconductor chips are the new oil. Here&apos;s why",
+     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+     "pubDate": "Thu, 26 Nov 2026 17:52:15 GMT",
+     "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+     "source": "CNBC",
+     "zh": "Semiconductor chips are the new oil. Here&apos;s why"
     }
    ]
   },

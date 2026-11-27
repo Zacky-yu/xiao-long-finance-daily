@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 14:11:51",
+ "generated_at": "2026/11/27 14:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -426,14 +426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -496,6 +488,14 @@ window.INDUSTRY_DATA = {
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -570,14 +570,6 @@ window.INDUSTRY_DATA = {
      "zh": "FCC should focus on robot security, not country of origin"
     },
     {
-     "title": "Space robotics: notes from an IROS 2026 plenary session",
-     "link": "https://robohub.org/space-robotics-notes-from-an-iros-2026-plenary-session/",
-     "pubDate": "Wed, 25 Nov 2026 16:36:36 +0000",
-     "summary": "By Emmet Cole Space robotics was the focus of a plenary panel at IROS 2026 in Pittsburgh, where speakers from NASA, JAXA and academia discussed the roles robots will play in lunar exploration, human spaceflight and work in orbit. Their examples ranged from unloading cargo and building lunar infrastr",
-     "source": "Robohub",
-     "zh": "Space robotics: notes from an IROS 2026 plenary session"
-    },
-    {
      "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
      "link": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
      "pubDate": "Wed, 25 Nov 2026 15:00:03 +0000",
@@ -618,28 +610,12 @@ window.INDUSTRY_DATA = {
      "zh": "Special Report: Engineering Focus on Motion Control"
     },
     {
-     "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
-     "link": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
-     "pubDate": "Mon, 23 Nov 2026 12:32:08 +0000",
-     "summary": "What happens when a research idea seems too ambitious, too unfamiliar or simply too early for the world to understand? In this episode of The Human Stories Behind the Robots, Professor Sabine Hauert OBE shares her journey from experimenting with flying robot swarms to developing technologies that co",
-     "source": "Robohub",
-     "zh": "Human Stories Behind the Robot: from bold ideas to real-world impact"
-    },
-    {
      "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
      "link": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
      "pubDate": "Fri, 20 Nov 2026 17:30:03 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enj",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces"
-    },
-    {
-     "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
-     "link": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro/",
-     "pubDate": "Fri, 20 Nov 2026 13:33:55 +0000",
-     "summary": "Claire chatted to Sebastian Castro about developing open-source software for robot task planning and behaviour. Sebastian Castro is an independent roboticist specializing in robotic manipulation. He is currently contracting with the Dexterous Robotics Group at NASA’s Johnson Space Center. Sebastian ",
-     "source": "Robohub",
-     "zh": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro"
     }
    ]
   },
@@ -1314,6 +1290,14 @@ window.INDUSTRY_DATA = {
      "zh": "Shivelyuch Socked In"
     },
     {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
+    },
+    {
      "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
      "link": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
      "pubDate": "Thu, 26 Nov 2026 21:08:45 +0000",
@@ -1426,6 +1410,30 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1448,6 +1456,14 @@ window.INDUSTRY_DATA = {
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
+    },
+    {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1474,6 +1490,14 @@ window.INDUSTRY_DATA = {
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
+     "title": "Progress MS-36 launches to ISS from Baikonur",
+     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
+     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
+     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Progress MS-36 launches to ISS from Baikonur"
+    },
+    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1488,22 +1512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "Industry Shares Plan for Moon Base Power Tower",
-     "link": "https://payloadspace.com/industry-shares-plan-for-moon-base-power-tower/",
-     "pubDate": "Mon, 23 Nov 2026 13:59:00 +0000",
-     "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Industry Shares Plan for Moon Base Power Tower"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1513,6 +1521,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+     "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+     "pubDate": "Fri, 27 Nov 2026 11:34:20 +0530",
+     "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, w",
+     "source": "The Hacker News",
+     "zh": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
+    },
+    {
+     "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+     "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+     "pubDate": "Fri, 27 Nov 2026 11:18:20 +0530",
+     "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL and 4HTTP2ROOT. \"I fo",
+     "source": "The Hacker News",
+     "zh": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access"
+    },
     {
      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -1634,22 +1658,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cyprus Becomes Espionage Target for Iranian Hackers"
     },
     {
-     "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-     "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-     "pubDate": "Thu, 26 Nov 2026 12:32:34 +0530",
-     "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to C",
-     "source": "The Hacker News",
-     "zh": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
-    },
-    {
-     "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-     "pubDate": "Thu, 26 Nov 2026 12:14:46 +0530",
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE",
-     "source": "The Hacker News",
-     "zh": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products"
-    },
-    {
      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
      "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500",
@@ -1722,6 +1730,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "欧洲 SaaS 客户要 DPA 和子处理者清单，5 人团队怎么排期才不拖交付？",
+     "link": "https://www.baijing.cn/question/639002",
+     "pubDate": "Fri, 27 Nov 2026 06:15:20 +0000",
+     "summary": "我们做面向德国和法国中小企业的 B2B SaaS，产品刚上线进入起量阶段，团队一共 5 人，其中只有 1 个兼职法务顾问每周来半天。上个月德国客户签约前要求签 DPA 并提供完整子处理者清单，我们用了 AWS 法兰克福区、Stripe 和 Intercom，但内部没人能持续维护这份清单和数据处理记录。已经试过临时让后端同事整理，结果拖了两周客户差点流失，现在卡在没人有固定时间跟进 GDPR 文档和客户尽调问卷。想确认这种人力下应该先固化哪几份文档、按什么节奏更新，才能不拖交付？",
+     "source": "白鲸出海",
+     "zh": "欧洲 SaaS 客户要 DPA 和子处理者清单，5 人团队怎么排期才不拖交付？"
+    },
+    {
+     "title": "华硕 ROG 战刃 4 Ace Max 鼠标上线：模具尺寸更大，核心规格不变",
+     "link": "https://www.ithome.com/1/033/352.htm",
+     "pubDate": "Fri, 27 Nov 2026 06:14:32 GMT",
+     "summary": "IT之家 11 月 27 日消息，华硕 (ASUS) 在今年 8 月的 gamescom 2026 科隆游戏展新品发布中提到了 ROG Gladius IV Ace Max 鼠标。这一型号是 ROG 战刃 4 Ace (Gladius IV Ace) 的更大尺寸版本。 而在近期，ROG 战刃 4 Ace 的 Max 版本也正式上线华硕官网。其 在尺寸更大的同时对模具造型进行了调整 ，且 保持了核心的硬件规格 。 长度 宽度 最高点 前高 基础质量 非 Max 127.56mm 67.75mm 44.15mm 14.02mm 56g Max 128.6mm 69mm 44.5mm 15.26mm",
+     "source": "IT之家",
+     "zh": "华硕 ROG 战刃 4 Ace Max 鼠标上线：模具尺寸更大，核心规格不变"
+    },
+    {
+     "title": "索尼新专利：手柄配专属按键，游戏中随时切换画质和流畅度",
+     "link": "https://www.ithome.com/1/033/351.htm",
+     "pubDate": "Fri, 27 Nov 2026 06:13:53 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 TechPowerUp 今天（11 月 27 日）发布博文，报道称索尼互动娱乐（SIE）获批一项专利， 研究一种让玩家在游戏进行中，通过手柄上的专用按键即时切换画质与性能模式的技术。 IT之家查询公开资料，该专利申请编号为 US 2026/0364447 A1，于 2026 年 7 月 22 日提交，美国专利商标局于 11 月 19 日公布。 按照专利描述，玩家今后或许不必反复进入游戏设置菜单，只需按下手柄上的一个专用按键，就能随时切换“画质优先”和“性能优先”等预设方案。 例如，当玩家希望获得更流畅的帧率时，可以一键降低纹理分辨率、过滤效果、着色器",
+     "source": "IT之家",
+     "zh": "索尼新专利：手柄配专属按键，游戏中随时切换画质和流畅度"
+    },
+    {
+     "title": "慌啥子嘛，急啥子嘛",
+     "link": "https://www.huxiu.com/article/4908890.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 14:13:12 +0800",
+     "summary": "本文来自： 匹夫老六说财税 ，作者：匹夫老六，题图来自：AI生成 这文章其实好早就写了，一直没发，我其实不太愿意聊这类话题，没啥意思，还有一堆杠精。 正好最近赵本山那个&ldquo;慌啥子嘛，慢慢来&rdquo;火了，那咱们顺便就随便说说。 确实是，慌啥呢？急啥呢？ 其实你仔细观察，不管是企业还是个人，很多都是死于自己的慌和急。 整个市场的环境，都是这种气氛，感觉慢一步就饿死了。 不管是现实，还是网络，都是这种急躁的氛围。 但很多时候，慌和急会让你做出很多错误的选择和判断，反而慢慢来长期看是一种性价比很高的策略。 之前我写过 《&ldquo;拖&rdquo;其实也是一种风控》 。 其实你如果想",
+     "source": "虎嗅",
+     "zh": "慌啥子嘛，急啥子嘛"
+    },
+    {
+     "title": "全新奔驰纯电 GLC SUV 上市：限时 25.49~36.22 万元，标配 800V 架构与 Momenta 智驾",
+     "link": "https://www.ithome.com/1/033/350.htm",
+     "pubDate": "Fri, 27 Nov 2026 06:11:20 GMT",
+     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展上，全新梅赛德斯-奔驰纯电 GLC SUV 正式上市。新车共推出三款车型，官方售价区间为 26.99 万至 36.22 万元，限时专享价为 25.49 万元起。 尺寸方面，新车车长达到 4933mm，轴距为 3027mm，已超过燃油版长轴 GLC，内部空间更为宽裕。外观采用最新设计语言，前格栅内置 942 颗聚碳酸酯背光颗粒，走近可呈现依次点亮效果。尾部配备贯穿式星徽尾灯，并新增了 128L 的前备箱。 内饰配备贯穿式联屏，内置 1000 颗独立 LED 实现双区背光调光。车机搭载“小奔”虚拟助手，融合豆包大模型与 3D 图形技术。配置包",
+     "source": "IT之家",
+     "zh": "全新奔驰纯电 GLC SUV 上市：限时 25.49~36.22 万元，标配 800V 架构与 Momenta 智驾"
+    },
+    {
+     "title": "2027 PANTONE 年度流行色曝光，摩托罗拉手机将穿“水漾飞溅”蓝绿新外衣",
+     "link": "https://www.ithome.com/1/033/349.htm",
+     "pubDate": "Fri, 27 Nov 2026 06:03:43 GMT",
+     "summary": "IT之家 11 月 27 日消息，消息源 @_evanblass_ 今天（11 月 27 日）在 X 平台发布推文，报道称 PANTONE（潘通 / 彩通）的 2027 年度流行色可能名为 Aqua Splash（官方将于 12 月 3 日公布）， 且摩托罗拉已酝酿将该颜色应用在新款手机上。 IT之家查询公开资料，Aqua Splash 色号为 PANTONE 14-4812 TPG，而在美国及英国官方页面则显示 PANTONE 14-4812 TCX Aqua Splash，暂未查询到中文对应颜色名称，直译为“水漾飞溅”。 色彩方面，科技媒体 Android Authority 指出“水漾飞",
+     "source": "IT之家",
+     "zh": "2027 PANTONE 年度流行色曝光，摩托罗拉手机将穿“水漾飞溅”蓝绿新外衣"
+    },
+    {
+     "title": "人人都想当“老铺黄金”",
+     "link": "https://www.tmtpost.com/8220040.html",
+     "pubDate": "Fri, 27 Nov 2026 14:01:16 +0800",
+     "summary": "驱动这一轮高端化的底层力量上消费代际更替、悦己需求崛起、渠道模式失灵，这一趋势很难因金价波动而逆转。",
+     "source": "钛媒体",
+     "zh": "人人都想当“老铺黄金”"
+    },
+    {
      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
      "link": "https://www.wired.com/story/ulta-coupon/",
      "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
@@ -1770,20 +1834,28 @@ window.INDUSTRY_DATA = {
      "zh": "Newegg Promo Codes and Coupons for November 2026"
     },
     {
+     "title": "荣威家越 07 纯电版上市：行业首搭豆包座舱助手，13.28 万元起",
+     "link": "https://www.ithome.com/1/033/348.htm",
+     "pubDate": "Fri, 27 Nov 2026 05:58:17 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天的广州车展发布会上，荣威家越 07 纯电版正式发布，官方指导价 &nbsp;13.28 至 14.98 万元。 该车全系标配 800V 碳化硅平台 + 651km 超长纯电续航 + 80.6kWh 大电池，电机峰值功率达 245kW，峰值扭矩达 430N·m ，零百加速 5.9 秒。 荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可、云绒暖灰内饰色。 其车内还配有 AI 灵光氛围灯、双 15.6 英寸 2.5K 超清大屏。此次新车搭载 AI",
+     "source": "IT之家",
+     "zh": "荣威家越 07 纯电版上市：行业首搭豆包座舱助手，13.28 万元起"
+    },
+    {
+     "title": "极摩客 M10 迷你主机上市：AMD 锐龙 5 6600H + 24GB LPDDR5，2899 元起",
+     "link": "https://www.ithome.com/1/033/346.htm",
+     "pubDate": "Fri, 27 Nov 2026 05:57:30 GMT",
+     "summary": "IT之家 11 月 27 日消息，极摩客 (GMKtec) 现已在电商平台开售 M10 迷你主机。该型号 基于 AMD 锐龙 5 6600H 处理器 ， 板载 24GB LPDDR5-4800 内存 ，无存储款售 2899 元。 天猫 极摩客 M10 迷你主机 2899 元起 直达链接 M10 三维 114×106×42.5 (mm)，质量约 430g；配备热管 + 涡轮风扇散热系统，支持 45W 峰值功率、40W 持续功率；兼容 VESA 壁挂规范。 该迷你主机 内置 3 个 M.2 SSD 盘位 ，分别为 2280 (PCIe Gen4 ×4)、2280 (PCIe Gen4 ×4 / S",
+     "source": "IT之家",
+     "zh": "极摩客 M10 迷你主机上市：AMD 锐龙 5 6600H + 24GB LPDDR5，2899 元起"
+    },
+    {
      "title": "车企打响二手车残值保卫战",
      "link": "https://www.huxiu.com/article/4908916.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 13:55:15 +0800",
      "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万元起。随车公布的还有一组回购条款：符合条件的消费者，购车满两年可按权益价八折回购，满三年按七折回购。 11月24日，小米集团发布第三季度业绩。在向投资者展示的演示材料中，小米专门列出了旗下两款车型的保值率：小米YU7一年期保值率为82.3%，连续四个月位居纯电动车型第一；小米SU7为74.9%，连续四个月位居20万元以上纯电动轿车第一。 一天后，理想汽车董事长李想在财报电话会上宣布，将车型更新周期从一年延长至两年左右，2027年减少大规模改款。改善车辆保值率，是此次调整",
      "source": "虎嗅",
      "zh": "车企打响二手车残值保卫战"
-    },
-    {
-     "title": "何小鹏谈“IRON 人形机器人何时进入海外”：中国市场交付后一个季度，就会进入欧洲",
-     "link": "https://www.ithome.com/1/033/344.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:50:23 GMT",
-     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展期间，小鹏集团董事长、CEO 何小鹏与小鹏机器人 IRON 共同巡展。 据新浪科技报道，何小鹏谈到“何时进入海外市场”：“ 在中国市场交付后一个季度，我们就会进入欧洲 。有 500-1000 名海外的合作伙伴都在问我什么时候到欧洲卖。我觉得我们先在中国市场交付，过一个季度再往海外出口。” 何小鹏强调：“IRON 的研发、安全、数据隐私等方面，我们都是考虑了中国和欧洲等多个国家及区域，同时来做开发。” 2026 广州车展期间，小鹏 IRON 人形机器人亲自主持了小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。 IT",
-     "source": "IT之家",
-     "zh": "何小鹏谈“IRON 人形机器人何时进入海外”：中国市场交付后一个季度，就会进入欧洲"
     },
     {
      "title": "经销商后，工厂正沦为零售商的“现金奶牛”",
@@ -1810,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple&apos;s share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)"
     },
     {
-     "title": "罗技 G 悄然带来 PRO X1 SUPERSTRIKE 鼠标：保留电磁微动，传感器降级",
-     "link": "https://www.ithome.com/1/033/343.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:44:45 GMT",
-     "summary": "IT之家 11 月 27 日消息，Logitech G（罗技 G）近期悄然推出了 PRO X1 SUPERSTRIKE 鼠标。这一型号也被称为“ GPW 5 雪豹 网吧版 ”。 IT之家注意到，PRO X1 SUPERSTRIKE 与 PRO X2 SUPERSTRIKE“GPW 5 雪豹”整体规格相近，保留了标志性的 HITS 电磁微动系统，但 光学传感器从 HERO 2 44K 降级至 HERO 25K ， 轮询速率则从 8kHz 降级至 1kHz 。 这款鼠标依旧采用面向中大手型、适用于右手、推荐趴握的对称设计模具，拥有 5 个可编程按键，支持 10 档触发点、5 档 Rapid Tri",
-     "source": "IT之家",
-     "zh": "罗技 G 悄然带来 PRO X1 SUPERSTRIKE 鼠标：保留电磁微动，传感器降级"
-    },
-    {
-     "title": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友直呼“中国速度”",
-     "link": "https://www.ithome.com/1/033/342.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:44:44 GMT",
-     "summary": "IT之家 11 月 27 日消息，根据博主 Sawyer Merritt 今天（11 月 27 日）在 X 平台发布推文，晒出一张 SpaceX 位于美国得克萨斯州 StarBase 数据中心建设现场航拍图， 称在不到 90 天时间里项目推进初具规模，多栋大型建筑已拔地而起。 IT之家查询公开资料，StarBase 是 SpaceX 规划的大型 AI 超级计算园区，位于得克萨斯州南部布朗斯维尔港附近的 444 英亩地块，该地块投资超过 240 亿美元 （IT之家注：现汇率约合 1,601.99 亿元人民币） ，建设超级计算设施及天然气发电厂；项目已创造逾 3,000 个建筑岗位，预计投运后还将",
-     "source": "IT之家",
-     "zh": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友直呼“中国速度”"
-    },
-    {
      "title": "印尼美妆投放素材被评论区说“不像本地牌子”，清真认证要怎么在短视频里讲清楚？",
      "link": "https://www.baijing.cn/question/639001",
      "pubDate": "Fri, 27 Nov 2026 05:42:51 +0000",
      "summary": "我们做印尼美妆跨境，主推唇釉和防晒，团队6人，刚起量，月投放预算大概8万美元，主要跑TikTok和Shopee站内广告。最近发现同一套素材在越南、泰国跑得还行，印尼的点击率却低了近四成，评论区反复出现“看不出是不是本地牌子”“清真认证呢”这类质疑。我们已经把主播换成印尼本地面孔，也加了印尼语字幕，但转化还是卡在详情页到下单这一步。现在不确定的是：清真认证信息到底该在短视频前3秒就打出，还是放到详情页和客服话术里更自然？本地化素材的“可信度”该怎么判断，是看评论情绪还是看加购率？",
      "source": "白鲸出海",
      "zh": "印尼美妆投放素材被评论区说“不像本地牌子”，清真认证要怎么在短视频里讲清楚？"
-    },
-    {
-     "title": "阿里千问澄清后训练负责人周浩离职传闻，将起诉造谣自媒体",
-     "link": "https://www.ithome.com/1/033/341.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:41:04 GMT",
-     "summary": "IT之家 11 月 27 日消息，针对今日自媒体“Top 华人科创社”发布的《Qwen 后训练负责人周浩离职》一文，阿里千问官方正式作出回应，明确表示该文章纯属造谣，并将起诉追究其法律责任。 千问官方指出，该自媒体不仅杜撰了人员变动的事实，甚至连当事人名字都写错了。传闻中提及的“周浩”实为“周昊”，文章缺乏基本的事实核查。 阿里千问同时强调，近期针对 Qwen 大模型团队的不实信息和谣言持续出现。面对此类情况，官方将依法追究相关主体的法律责任。IT之家后续将保持关注。",
-     "source": "IT之家",
-     "zh": "阿里千问澄清后训练负责人周浩离职传闻，将起诉造谣自媒体"
     },
     {
      "title": "AIDC进入GW时代，数据中心正在换一种活法",
@@ -1858,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "美妆“定义问题”的分界线：机会是门票，反省才是主场"
     },
     {
-     "title": "奥迪 Q9 中国首秀：品牌史上最大 SUV，首次启用“9”命名",
-     "link": "https://www.ithome.com/1/033/340.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:26:06 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，今天（11 月 27 日）召开的 2026 广州国际汽车展览会上，奥迪旗下首款大型豪华全尺寸 SUV Q9 迎来中国首秀。 作为奥迪首次启用“9”命名的旗舰 SUV，Q9 也是奥迪品牌史上尺寸最大的车型，填补了奥迪在全尺寸豪华 SUV 市场的空白。 奥迪 Q9 车身长 5.31 米、宽 2.21 米、高 1.81 米，轴距达 3.14 米，尺寸全面超越现款 Q7 与 Q8。其定位直指奔驰 GLS 和宝马 X7，将进入百万级全尺寸豪华 SUV 竞争区间。新车提供六座和七座布局，第二排可选独立电动座椅，兼顾商务接待与多人口家庭出行需求。 设计上，奥迪 Q9 延",
-     "source": "IT之家",
-     "zh": "奥迪 Q9 中国首秀：品牌史上最大 SUV，首次启用“9”命名"
-    },
-    {
      "title": "湖南黄金43亿收购，99%承诺压在2032年",
      "link": "https://www.huxiu.com/article/4908905.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 13:25:55 +0800",
@@ -1874,12 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "湖南黄金43亿收购，99%承诺压在2032年"
     },
     {
-     "title": "2027 款凯迪拉克 XT5 上市：限时 21.59 万元起，标配蜂鸟底盘、33 英寸 9K 屏 + 2.0T 轻混",
-     "link": "https://www.ithome.com/1/033/338.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:23:50 GMT",
-     "summary": "IT之家 11 月 27 日消息，2027 款凯迪拉克 XT5 在 2026 广州车展上正式上市。新车共推出 4 款配置，官方指导价区间为 23.59 万至 32.59 万元，限时权益价区间为 21.59 万至 30.59 万元。 作为年度改款，新车延续了现款车型的家族式设计。前脸配备盾型格栅与 7 字型大灯组，车尾采用由镀铬饰条连接的 T 字型尾灯。此次改款新增了哑光灰色车漆。车身长宽高分别为 4888/1957/1694mm，轴距为 2863mm。 IT之家注意到，其内饰布局未发生明显变化，搭载 33 英寸 9K 曲面屏与三辐式多功能方向盘，中控屏下方保留了空调控制的物理按键区域。现款车型",
-     "source": "IT之家",
-     "zh": "2027 款凯迪拉克 XT5 上市：限时 21.59 万元起，标配蜂鸟底盘、33 英寸 9K 屏 + 2.0T 轻混"
+     "title": "The need for a formally verifiable mainstream programming language",
+     "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+     "pubDate": "Fri, 27 Nov 2026 05:22:06 +0000",
+     "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 19 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "The need for a formally verifiable mainstream programming language"
     },
     {
      "title": "市值蒸发千亿，影石为“上天”买单",
@@ -1906,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "长视频的挽歌：爱奇艺跌入180天退市整改期"
     },
     {
-     "title": "金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元",
-     "link": "https://www.tmtpost.com/8219525.html",
-     "pubDate": "Fri, 27 Nov 2026 13:20:06 +0800",
-     "summary": "金山云Q3财报分化，AI增长但净利待验证",
-     "source": "钛媒体",
-     "zh": "金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元"
-    },
-    {
      "title": "日本站季节性选品备货，樱花季和梅雨季的节奏怎么错开？",
      "link": "https://www.baijing.cn/question/639000",
      "pubDate": "Fri, 27 Nov 2026 05:18:45 +0000",
@@ -1930,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "阿里健康，余涌的难题不只是利润"
     },
     {
-     "title": "为什么一首歌会把我们带回相似的青春？",
-     "link": "https://www.huxiu.com/article/4908903.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 13:13:14 +0800",
-     "summary": "本文来自微信公众号： PsyCulture&Science ，作者：Turnbull等，原文标题：《PNAS | 为什么一首歌会把我们带回相似的青春？》 你是否经历过这样的瞬间？走在街角的咖啡店，或是深夜随手打开车载电台，一段久违的前奏毫无征兆地撞进耳朵。刹那间，眼前的街景仿佛被按下了暂停键，你的思绪被瞬间拽回几年前的某个夏夜——也许是高中毕业舞会上摇晃的灯光，也许是童年时坐在父母车后座看过的漫长日落。那种汹涌而至的怀旧感如此真实、细腻，让你确信这是专属于你一个人的生命印记。 然而，如果科学家把你此刻脑海中的画面提取出来，与成百上千个素昧平生的同龄人进行比对，你会惊讶地发现：在同一首歌的催化下",
-     "source": "虎嗅",
-     "zh": "为什么一首歌会把我们带回相似的青春？"
-    },
-    {
      "title": "\"What's Claude's Fursona?\" and Other Questions",
      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
      "pubDate": "Fri, 27 Nov 2026 04:56:18 +0000",
-     "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 39 # Comments: 3",
+     "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 53 # Comments: 15",
      "source": "Hacker News",
      "zh": "\"What's Claude's Fursona?\" and Other Questions"
-    },
-    {
-     "title": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？",
-     "link": "https://www.baijing.cn/question/638999",
-     "pubDate": "Fri, 27 Nov 2026 04:53:28 +0000",
-     "summary": "我们做中东女性护肤，沙特站TikTok刚起量，团队一共3个人，一个运营兼投放、一个阿语内容、一个供应链。上个月跟利雅得两位本地红人做了两场直播，第一场同时在线峰值只有80人，第二场因为红人临时改档期，我们提前一周备的货和素材全压着。现在卡在排期上：红人档期不稳定，我们人手又排不出专人盯每场直播加复盘，一个月最多撑两场。想问问同样小团队做沙特直播红人合作的，你们是按什么标准筛红人、怎么定排期节奏，才能保证每场都有人盯数据又不至于把人耗死？",
-     "source": "白鲸出海",
-     "zh": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？"
-    },
-    {
-     "title": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？",
-     "link": "https://www.baijing.cn/question/638998",
-     "pubDate": "Fri, 27 Nov 2026 04:21:55 +0000",
-     "summary": "我们做面向北美中小团队的排班 SaaS，PLG 模式，团队 12 人，月投放预算约 3 万美元，主要靠 Google Ads 和内容 SEO 拉自助注册。最近 30 天免费试用注册量还行，但试用转付费只有 4.1%，比上季度掉了近两个点。查了后台，发现不少用户在结账页填完卡号后被拒，Stripe 后台显示部分加拿大用户因 3D Secure 验证失败流失；另外年付订单从付款到账要 5 到 7 个工作日才确认开通，销售说这期间有人直接不回邮件了。已经试过换定价页文案、加对比表，也接入了 Stripe 的 Radar 规则，但拒付率没明显降。现在分不清是投放渠道带来的低意向流量，还是结账和回款时效",
-     "source": "白鲸出海",
-     "zh": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？"
     }
    ]
   },
@@ -2218,44 +2226,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Pender Growth Fund GAAP EPS of $1.28",
+     "link": "https://seekingalpha.com/news/4676938-pender-growth-fund-gaap-eps-of-128?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:24:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pender Growth Fund GAAP EPS of $1.28"
+    },
+    {
+     "title": "Bitcoin Treasury Corporation GAAP EPS of $2.25, revenue of $0.08M",
+     "link": "https://seekingalpha.com/news/4676937-bitcoin-treasury-corporation-gaap-eps-of-225-revenue-of-008m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:21:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bitcoin Treasury Corporation GAAP EPS of $2.25, revenue of $0.08M"
+    },
+    {
+     "title": "Urbanfund GAAP EPS of C$0.006, revenue of C$2.06M",
+     "link": "https://seekingalpha.com/news/4676936-urbanfund-gaap-eps-of-c0006-revenue-of-c206m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:19:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Urbanfund GAAP EPS of C$0.006, revenue of C$2.06M"
+    },
+    {
+     "title": "Fab-Form Industries GAAP EPS of C$0.02, revenue of C$1.37M",
+     "link": "https://seekingalpha.com/news/4676935-fab-form-industries-gaap-eps-of-c002-revenue-of-c137m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:16:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fab-Form Industries GAAP EPS of C$0.02, revenue of C$1.37M"
+    },
+    {
+     "title": "Organto Foods reports Q3 results",
+     "link": "https://seekingalpha.com/news/4676934-organto-foods-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:13:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Organto Foods reports Q3 results"
+    },
+    {
      "title": "Abcourt Mines GAAP EPS of -C$0.01, revenue of C$7M",
      "link": "https://seekingalpha.com/news/4676933-abcourt-mines-gaap-eps-of-c001-revenue-of-c7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 01:08:11 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Abcourt Mines GAAP EPS of -C$0.01, revenue of C$7M"
-    },
-    {
-     "title": "Stellantis flags rising costs in Italy despite €5B R&D plan",
-     "link": "https://seekingalpha.com/news/4676931-stellantis-flags-rising-costs-in-italy-despite-5b-rd-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 01:07:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stellantis flags rising costs in Italy despite €5B R&D plan"
-    },
-    {
-     "title": "Serabi Gold plc GAAP EPS of $0.13, revenue of $45.83M; updates FY2026 production guidance",
-     "link": "https://seekingalpha.com/news/4676932-serabi-gold-plc-gaap-eps-of-013-revenue-of-4583m-updates-fy2026-production-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 01:06:24 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Serabi Gold plc GAAP EPS of $0.13, revenue of $45.83M; updates FY2026 production guidance"
-    },
-    {
-     "title": "Los Angeles disables Google AI search features as school pushback grows",
-     "link": "https://seekingalpha.com/news/4676929-los-angeles-disables-google-ai-search-features-as-school-pushback-grows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:59:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Los Angeles disables Google AI search features as school pushback grows"
-    },
-    {
-     "title": "Soma Gold GAAP EPS of -C$0.02, revenue of C$23.8M",
-     "link": "https://seekingalpha.com/news/4676930-soma-gold-gaap-eps-of-c002-revenue-of-c238m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:58:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Soma Gold GAAP EPS of -C$0.02, revenue of C$23.8M"
     },
     {
      "title": "午后科技成长行情大反弹！低轨组网明确2030年目标，卫星ETF永赢盘中涨超9%！",
@@ -2306,14 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "探月通信有保障！我国主导推动ITU通过月球探索新决议"
     },
     {
-     "title": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks",
-     "link": "https://seekingalpha.com/news/4676916-asian-stocks-jump-on-us-futures-rally-china-profit-beat-shrugging-off-tariff-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:47:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks"
-    },
-    {
      "title": "国常会“稳市”！AH股午后集体飙升，创业板暴涨10%，科创50狂拉超12%，恒科指涨5%",
      "link": "https://wallstreetcn.com/articles/3786820",
      "pubDate": "Fri, 27 Nov 2026 13:47:47 +0800",
@@ -2328,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "最新召开的国常会首次提到，将加力发挥“国家队”稳市作用。 综合 记者从监管部门了解到的情况以及采访调研来看，“国家队”入市护盘过程中，各类稳定资金、中长期资金积极入市，两项稳市货币政策工具持续落地显效，\"国家队\"入市护盘过程中，10月初以来，公募基金、券商自营、私募证券基金、社保基金、保险机构等均表现为净买入，专业机构正加大逆周期布局力度。上市公司回购增持实施金额近600亿元，力度远超以往。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "“国家队”入市护盘过程中 各类机构均表现为净买入"
+    },
+    {
+     "title": "泰晶科技发布10亿定增募资计划，拟投高精度石英频率元器件扩产等项目",
+     "link": "http://www.eeo.com.cn/2026/1127/1105115.shtml",
+     "pubDate": "Fri, 27 Nov 2026 13:39:55 +0800",
+     "summary": "根据预案，高精度石英频率元器件扩产项目为此次募投计划中单个金额最大的投资项目。",
+     "source": "经济观察网",
+     "zh": "泰晶科技发布10亿定增募资计划，拟投高精度石英频率元器件扩产等项目"
     },
     {
      "title": "创业板指涨幅扩大至10% 科创50指数涨近13% 全市场近5400股飘红",
@@ -2442,20 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations"
     },
     {
-     "title": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”",
-     "link": "https://wallstreetcn.com/articles/3786822",
-     "pubDate": "Fri, 27 Nov 2026 11:37:56 +0800",
-     "summary": "英伟达股价在创下历史性单日涨幅后迅速遭遇抛压，技术面警示信号随之浮现。 周三（11月25日），英伟达股价延续跌势，连续第二个交易日收跌，进一步回吐周一暴涨逾30%的涨幅。彼时，受董事会宣布恢复首席执行官黄仁勋职务消息提振，英伟达单日市值暴增近1万亿美元。然而，华尔街策略师普遍警告，由于黄仁勋即将出席国会听证会——预计这将是一系列听证的首场——局势远未平息。 自周二开盘以来，英伟达股价累计跌幅已超过11% ，据道琼斯市场数据显示，此轮下跌已将其逼近技术分析师密切关注的“死亡交叉”临界点。 死亡交叉一触即发 “死亡交叉”是技术分析中的经典形态，指某资产或指数的 50日移动均线跌破200日移动均线 ",
-     "source": "华尔街见闻",
-     "zh": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”"
-    },
-    {
-     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-     "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
-     "pubDate": "Fri, 27 Nov 2026 03:30:23 GMT",
-     "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
-     "source": "CNBC",
-     "zh": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
+     "title": "华为乾崑合作品牌达26个，搭载车型超60款",
+     "link": "http://www.eeo.com.cn/2026/1127/1104948.shtml",
+     "pubDate": "Fri, 27 Nov 2026 12:08:06 +0800",
+     "summary": "华为乾崑生态大会2026在广州举行。华为智能汽车解决方案宣布，累计搭载26个品牌、超60款车型，智能化部件发货量突破1亿件；乾崑智驾与鸿蒙座舱搭载量双双突破200万。",
+     "source": "经济观察网",
+     "zh": "华为乾崑合作品牌达26个，搭载车型超60款"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 05:44:10",
+ "generated_at": "2026/11/28 05:52:07",
  "recent_days": 7,
  "industries": [
   {
@@ -282,14 +282,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
-     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
-     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
-     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
-     "source": "SemiAnalysis",
-     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
-    },
-    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -466,14 +458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -496,6 +480,22 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
+    },
+    {
+     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1354,6 +1354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
+     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
+     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
+    },
+    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1384,6 +1392,14 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
+    },
+    {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1434,6 +1450,30 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1458,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1480,30 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
-    },
-    {
-     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
-     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1970,20 +1994,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day",
+     "link": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day/",
+     "pubDate": "Fri, 27 Nov 2026 21:49:17 +0000",
+     "summary": "Counterpoint Research says Apple led smartphone sales in China during this year’s Double 11 shopping festival (also known as Singles’ Day), despite a broader slump in smartphone demand. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day"
+    },
+    {
+     "title": "SanDisk’s new 2TB Portable SSD is 33% cheaper right now",
+     "link": "https://www.androidauthority.com/sandisk-2tb-portable-ssd-deal-3741056/",
+     "pubDate": "Fri, 27 Nov 2026 21:46:26 +0000",
+     "summary": "SanDisk's latest 2TB Portable SSD with up to 1,000MB/s read speeds is down to $269.99, its lowest price since launch.",
+     "source": "Android Authority",
+     "zh": "SanDisk’s new 2TB Portable SSD is 33% cheaper right now"
+    },
+    {
      "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
      "link": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
      "pubDate": "Fri, 27 Nov 2026 21:30:50 +0000",
      "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
      "source": "Android Authority",
      "zh": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99"
-    },
-    {
-     "title": "Pixelated 127: Nobody reads, nobody writes",
-     "link": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
-     "pubDate": "Fri, 27 Nov 2026 21:30:00 +0000",
-     "summary": "Welcome to Pixelated episode 127. This week, we’re unlocking a bonus episode from the vault. Originally recorded in the aftermath of the Pixel 11 launch and review cycle, listen in as Abner, Damien, and Will discuss how they stay motivated to continue reporting on and reviewing technology products, ",
-     "source": "9to5Google",
-     "zh": "Pixelated 127: Nobody reads, nobody writes"
     },
     {
      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
@@ -2090,14 +2122,6 @@ window.INDUSTRY_DATA = {
      "zh": "LineageOS 24 PC port brings Android 17 to your spare laptop"
     },
     {
-     "title": "Apple TV unveils major new sci-fi series that’s coming soon",
-     "link": "https://9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon/",
-     "pubDate": "Fri, 27 Nov 2026 19:22:45 +0000",
-     "summary": "Apple TV ( only $6.99/month for Black Friday ) is about to debut its next major sci-fi series: Neuromancer. A recent behind-the-scenes piece reveals new details on what could be the streamer’s next Severance or Pluribus-sized hit. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV unveils major new sci-fi series that’s coming soon"
-    },
-    {
      "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8",
      "link": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
      "pubDate": "Fri, 27 Nov 2026 19:15:00 +0000",
@@ -2128,6 +2152,14 @@ window.INDUSTRY_DATA = {
      "summary": "Just because you can doesn’t mean you should.",
      "source": "Android Authority",
      "zh": "YouTube’s latest mobile redesign lets you like videos without opening them"
+    },
+    {
+     "title": "What new Google Messages features are rolling out [November 2026]",
+     "link": "https://9to5google.com/2026/11/27/new-google-messages-features/",
+     "pubDate": "Fri, 27 Nov 2026 18:38:00 +0000",
+     "summary": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…",
+     "source": "9to5Google",
+     "zh": "What new Google Messages features are rolling out [November 2026]"
     },
     {
      "title": "TCL teams up with Rebel in the UK to make a social media-less kids phone",
@@ -2178,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "5 Costco Electronics With Deep Discounts For Black Friday 2026"
     },
     {
-     "title": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off",
-     "link": "https://www.androidauthority.com/tcl-note-a1-nxtpaper-deal-3740621/",
-     "pubDate": "Fri, 27 Nov 2026 16:50:40 +0000",
-     "summary": "TCL's paper-like Note A1 NXTPAPER tablet drops to a record-low $449.99, with a stylus and flip case included.",
-     "source": "Android Authority",
-     "zh": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off"
-    },
-    {
      "title": "WhatsApp adds support for travel eSIMs",
      "link": "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/",
      "pubDate": "Fri, 27 Nov 2026 16:24:07 +0000",
@@ -2217,6 +2241,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "金属大反攻！伦铜创九个月最大日涨，纽银涨近8%，AI恐慌缓解、中国稳市信号提振",
+     "link": "https://wallstreetcn.com/articles/3786879",
+     "pubDate": "Sat, 28 Nov 2026 05:46:09 +0800",
+     "summary": "经历此前一轮集中抛售后，金属市场周五迎来强势反攻，铜、黄金和白银集体走高。伦铜创九个月来最大单日涨幅，COMEX白银期货涨近8%。AI交易恐慌缓解、中国释放稳市信号，推动市场风险偏好回暖；但这轮上涨究竟意味着趋势反转，还是超跌后的仓位修复，仍有待观察。 市场情绪从低谷回暖，伦铜一度涨超6% 周五，LME三个月期铜收涨约3.2%，报12251美元/吨，盘中一度上涨6.4%，创2月以来最大单日涨幅。全周累计上涨约0.75%，结束三周连跌。 上海期货交易所主力铜合约收涨5.5%，盘中涨幅一度达7.1%；COMEX 12月期铜收涨3.38%，创4月8日以来最大日涨幅，报5.517美元/磅，全周上涨约0",
+     "source": "华尔街见闻",
+     "zh": "金属大反攻！伦铜创九个月最大日涨，纽银涨近8%，AI恐慌缓解、中国稳市信号提振"
+    },
     {
      "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
      "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2360,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国最重要的购物季以低迷姿态拉开帷幕。消费者普遍压缩支出、精简礼品清单，部分门店员工数量甚至超过顾客。尽管折扣力度依然可观，但价格基数上移与消费心态趋谨，使得今年黑色星期五的气氛明显不及往年。 据彭博，购物中心客流稀疏，零售商感受到明显压力。 纽约曼哈顿一家豪华购物中心内，安保人员数量多于顾客；纽约郊区多处购物中心停车位充裕；一名在芝加哥沃尔玛购物的消费者表示，她今年的节日预算从2000美元直接腰斩至1000美元。 全美零售联合会（NRF）数据显示， 自疫情结束以来，今年假日购物周末的到场消费者人数预计将首次出现下滑，提前开启的分散促销活动令消费者在感恩节前便已分流。 尽管如此， 价格上涨与更",
      "source": "华尔街见闻",
      "zh": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费"
-    },
-    {
-     "title": "日本烟草大涨！市场押注其与奥驰亚联手收购并分拆帝国品牌",
-     "link": "https://wallstreetcn.com/articles/3786874",
-     "pubDate": "Sat, 28 Nov 2026 03:20:03 +0800",
-     "summary": "日本烟草股价近日表现亮眼。 市场押注该公司将与奥驰亚（Altria）联手，收购并拆分英国卷烟制造商帝国品牌（Imperial Brands）。 据 华尔街见闻此前文章 ，奥驰亚此前一天表示，正在考虑以全现金方式竞购帝国品牌，并已就收购其中部分业务与另一方展开讨论。据彭博报道，日本烟草正在评估与合作伙伴共同收购的方案。 帝国品牌表示尚未收到任何收购接洽，但会考虑任何提案。Jefferies 的 Andon-Ionita 认为，鉴于其关键美国业务和德国业务面临挑战，帝国品牌股东可能愿意接受市盈率高于过去五年 12 个月峰值 9.6 倍的报价。 这笔交易可能拉开烟草行业一轮大规模整合的序幕。随着许多",
-     "source": "华尔街见闻",
-     "zh": "日本烟草大涨！市场押注其与奥驰亚联手收购并分拆帝国品牌"
     },
     {
      "title": "Energy Fuels gains 11% as peers and the broader market rise",

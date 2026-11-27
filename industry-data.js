@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 06:52:00",
+ "generated_at": "2026/11/28 07:12:08",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱",
+     "link": "https://www.ithome.com/1/033/776.htm",
+     "pubDate": "Fri, 27 Nov 2026 22:53:40 GMT",
+     "summary": "IT之家 11 月 28 日消息，据彭博社当地时间 11 月 27 日报道，美国无线频谱公司 Anterix 正考虑大规模出售其持有的 900 MHz 无线频谱资产，而马斯克旗下 SpaceX 已表达对这一频段的兴趣。 随着 SpaceX 拓展卫星直连终端（Direct-to-Device，D2D）业务，双方可能围绕低频段频谱展开进一步合作或交易。 Anterix 是美国持有 900 MHz 频段许可规模最大的企业之一，其频谱覆盖美国本土 48 个州，以及夏威夷、阿拉斯加和波多黎各。根据该公司向美国证券交易委员会提交的文件，其持有的主要频谱范围为 896-901 MHz 和 935-940 M",
+     "source": "IT之家",
+     "zh": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱"
+    },
+    {
+     "title": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率",
+     "link": "https://www.ithome.com/1/033/775.htm",
+     "pubDate": "Fri, 27 Nov 2026 22:49:52 GMT",
+     "summary": "IT之家 11 月 28 日消息，YouTube 频道 MxBenchmarkPC 在最新一期视频中， 对比显示经过玩家 MOD 启用的英伟达 DLSS 5 神经渲染技术，可大幅改善《荒野大镖客 2》的光照效果，画面几乎具备电影质感，但同时带来明显的性能损耗。 该频道主播在英伟达 GeForce RTX 5080 显卡上，使用《荒野大镖客 2》（Red Dead Redemption 2）游戏，对比未开启神经渲染、单次渲染和双次渲染三种情况。IT之家附上相关视频如下： 本次测试在 4K 分辨率、DLSS 4.5 性能模式（DLSS 5 是通过 MOD 启用神经渲染，这里的 DLSS 4.5 游",
+     "source": "IT之家",
+     "zh": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率"
+    },
+    {
+     "title": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留",
+     "link": "https://www.ithome.com/1/033/774.htm",
+     "pubDate": "Fri, 27 Nov 2026 22:49:16 GMT",
+     "summary": "IT之家 11 月 28 日消息，IBM 正在停止为旗下咨询部门大多数职位提供美国工作签证及绿卡担保，部分持有 H-1B 工作签证或正在申请美国永久居留权（绿卡）的员工，需要在接受海外调岗和离职之间作出选择，相关离职安排将于 2026 年 12 月 31 日生效。 图源：Pexels 据《Rest of World》报道，IBM 已向部分美国员工传达这一决定，要求他们在约三周内决定是否接受公司提供的海外职位。对于不愿接受外派的员工， 公司将提供相当于三个月薪酬的离职补偿 ，并将 2026 年 12 月 31 日设为最后工作日。 此次调整涉及 IBM Consulting 部门。IT之家注意到，",
+     "source": "IT之家",
+     "zh": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留"
+    },
+    {
      "title": "八达通遭网络攻击：7500 名客户、2.2 万名商户资料受影响",
      "link": "https://www.ithome.com/1/033/773.htm",
      "pubDate": "Fri, 27 Nov 2026 22:43:58 GMT",
@@ -1762,6 +1786,14 @@ window.INDUSTRY_DATA = {
      "zh": "存在超 12 年：Linux 内核被曝 CVSS 9.8 高危漏洞：无需登录即可获取服务器 root 权限"
     },
     {
+     "title": "'Everybody Is Going to Be Made Obsolete'",
+     "link": "https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete",
+     "pubDate": "Fri, 27 Nov 2026 22:12:27 +0000",
+     "summary": "Article URL: https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete Comments URL: https://news.ycombinator.com/item?id=50672187 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "'Everybody Is Going to Be Made Obsolete'"
+    },
+    {
      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
      "link": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 22:11:06 +0000",
@@ -1773,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
     },
@@ -1781,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "9/UX: a Macintosh-inspired desktop for 9front",
      "link": "https://progrium.github.io/9ux/",
      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 29 # Comments: 4",
      "source": "Hacker News",
      "zh": "9/UX: a Macintosh-inspired desktop for 9front"
     },
@@ -1792,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently ",
      "source": "Techmeme",
      "zh": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)"
-    },
-    {
-     "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-     "link": "https://sessiongraph.ai/",
-     "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
-     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 7 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
     },
     {
      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
      "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 97 # Comments: 30",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 108 # Comments: 36",
      "source": "Hacker News",
      "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
     },
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
      "link": "https://github.com/skeeto/prospero",
      "pubDate": "Fri, 27 Nov 2026 20:23:14 +0000",
-     "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 15 # Comments: 1",
      "source": "Hacker News",
      "zh": "Prospero: Bloat-free, native AI coding harness with ImGui"
     },
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主，原文标题：《从《慌啥子嘛》到《能不慌吗》：赵本山的窗，普通人的门》 赵本山进棚那天，大概没想到一周之后风向会调头。 2026年11月13日，69岁的他真人真嗓录了《慌啥子嘛》。视频上线三小时，点赞破百万，几天里刷遍全网。评论区顶在最前头的一句话是：“小时候他逗我笑，长大了他哄我不哭。” 这首歌来历有点特别。它原本是一首川渝方言小调，困困羊作词作曲，村口吴老二首唱，九月末发出来的时候安安静静，没溅起什么水花。后来有网友用AI合成赵本山的声线翻唱了一遍，一下就火了。 不少人听着以为就是本人，跑去评论区喊话，求他真唱一回。换作眼下别的明星，见着AI",
      "source": "虎嗅",
      "zh": "从“慌啥子嘛”到“能不慌吗”：赵本山的窗，普通人的门"
-    },
-    {
-     "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
-     "link": "https://www.solidot.org/story?sid=86014",
-     "pubDate": "Fri, 27 Nov 2026 23:59:17 +0800",
-     "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 Linux 上实现稳定运行 30+ FPS。",
-     "source": "Solidot",
-     "zh": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上"
-    },
-    {
-     "title": "文明的历史是小麦的历史",
-     "link": "https://www.solidot.org/story?sid=86013",
-     "pubDate": "Fri, 27 Nov 2026 23:37:23 +0800",
-     "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久远。现存最古老的文字记录并非史诗或宗教典籍，而是关于谷物储存与税收的行政记录。虽然世界其它地区的主导粮作物不同，比如东亚",
-     "source": "Solidot",
-     "zh": "文明的历史是小麦的历史"
-    },
-    {
-     "title": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲",
-     "link": "https://www.ithome.com/1/033/771.htm",
-     "pubDate": "Fri, 27 Nov 2026 15:04:07 GMT",
-     "summary": "IT之家 11 月 27 日消息，在今天进行的 2026 广州车展中，魏牌宣布旗下魏牌高山右舵版（WEY G9）今日于香港市场正式上市。 据介绍，魏牌高山车型依托原生平台实现左舵与右舵版本同步开发，并根据不同地区的通行法规与用车习惯进行属地化适配。 此外魏牌还预热该车将于今年四季度登陆澳洲市场 。 规格方面，IT之家获悉该车尺寸为 5050mmx1985mmx1900mm，轴距 3085mm。车辆采用 1.5T 发动机 + 前后双电机插电混动，系统综合最大功率 442 马力、峰值扭矩 642 牛 · 米，匹配 44.28kWh 电池，NEDC 纯电续航 170km。",
-     "source": "IT之家",
-     "zh": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+     "link": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+     "pubDate": "Fri, 27 Nov 2026 22:46:29 +0000",
+     "summary": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you're getting the best performance available.",
+     "source": "Engadget",
+     "zh": "5 ways to make sure your console isn't holding back your GTA 6 performance"
+    },
     {
      "title": "iPhone 18 and iPhone 18e production reportedly delayed again",
      "link": "https://www.gsmarena.com/iphone_18_and_iphone_18e_production_reportedly_delayed_again-news-75682.php",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hackers reportedly infiltrated the Air Force's cloud systems"
     },
     {
-     "title": "5 Costco Electronics With Deep Discounts For Black Friday 2026",
-     "link": "https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/",
-     "pubDate": "Fri, 27 Nov 2026 16:51:43 +0000",
-     "summary": "Costco members can get some pretty great deals this weekend.",
-     "source": "Engadget",
-     "zh": "5 Costco Electronics With Deep Discounts For Black Friday 2026"
-    },
-    {
      "title": "ChatGPT for Android could soon make calls and send texts",
      "link": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php",
      "pubDate": "Fri, 27 Nov 2026 16:34:02 +0100",
@@ -2241,6 +2241,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月28日",
+     "link": "https://wallstreetcn.com/articles/3786883",
+     "pubDate": "Sat, 28 Nov 2026 07:07:23 +0800",
+     "summary": "华见早安之声 要闻精选 中国 国常会 ： 加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能 。 证监会 ： 抓紧研究出台相关增量政策，壮大中长期资金入市力量 。 监管部门 ：全力维护资本市场平稳运行，严防“伪科技”借机上市、无真实业绩公司“注水”上市。 贷款罚息利率不再设上下限 ！ 中国央行 ：由金融机构与借款人协商确定。 中国10月规模以上工业企业利润 同比加速增长至20.1% ，AI驱动下电子行业1-10月利润翻倍。 外卖大战降温 ， 美团 Q3营收同比增长21.6%超预期，营业利润连续两个季度盈利，核心业务扭亏为盈。 电话会 ：王兴复盘美团优选“重大错误” ，外卖竞",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月28日"
+    },
+    {
+     "title": "Anthropic周五收涨10.98%至91.88美元，重新站上发行价",
+     "link": "https://wallstreetcn.com/articles/3786884",
+     "pubDate": "Sat, 28 Nov 2026 07:05:13 +0800",
+     "summary": "Anthropic PBC在纳斯达克完成首个完整交易周，周五股价收于每股91.88美元，重回83美元的发行价上方。 此前，这家由Dario Amodei领导的人工智能实验室完成了创纪录的首次公开募股，规模达1195亿美元。 周五该股上涨近11%，创下自11月19日上市以来的最高收盘价，结束了连续两个交易日收盘价低于发行价的走势。 当日美股因感恩节假期提前收盘，随着风险偏好回升，Anthropic跟随大盘反弹。 按周五收盘价计算，公司完全稀释市值约为1.7万亿美元，低于上市首日盘中触及的逾2万亿美元峰值，当天股价最高触及115.10美元，随后回落。 首周走势反复，黄仁勋回归、AI投资回报担忧等冲",
+     "source": "华尔街见闻",
+     "zh": "Anthropic周五收涨10.98%至91.88美元，重新站上发行价"
+    },
+    {
+     "title": "欧洲央行管委武伊契奇表示 若无意外 12月加息押注很可能是对的",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942144622.html",
+     "pubDate": "Sat, 28 Nov 2026 07:03:04 +0800",
+     "summary": "欧洲央行管委武伊契奇表示，若无意外，12月加息押注很可能是对的。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "欧洲央行管委武伊契奇表示 若无意外 12月加息押注很可能是对的"
+    },
+    {
+     "title": "全球股市一片飘红 金银铜携手反弹 | 环球市场",
+     "link": "http://finance.eastmoney.com/news/1356,202611283942144484.html",
+     "pubDate": "Sat, 28 Nov 2026 06:58:28 +0800",
+     "summary": "财联社11月28日讯 隔夜，AI板块重获资金青睐，全球风险偏好在感恩节假期后明显回暖。 衡量美股恐慌情绪的VIX指数最能说明情绪的反转：该指数前一周飙升86%至35.89，本周则回落约30%，周五一度回到24附近。 纳指虽录得7个月来最佳单周表现，但距10月高点仍有约13%的跌幅，仍处于回调区间。瑞银策略师Gerry Fowler指出，节后交投清淡，有限的买盘也能推高指数。 金银现货价格周三刚创约15个月新低，周五盘中一度较周三低点分别回升约6%和15%，收复上周跌幅的五分之一，并录得三周来首次周涨。 铜 价则终于止住颓势，伦 铜 终结了此前的周线六连跌。 然而，市场仍几乎完全定价美联储12月",
+     "source": "东方财富股票",
+     "zh": "全球股市一片飘红 金银铜携手反弹 | 环球市场"
+    },
+    {
+     "title": "高盛Molavi：AI拥挤交易退潮后市场“脆弱平衡” 信贷风险决定后市走向",
+     "link": "http://stock.eastmoney.com/news/1436,202611283942144331.html",
+     "pubDate": "Sat, 28 Nov 2026 06:50:04 +0800",
+     "summary": "随着资金大规模撤离此前高度拥挤的 人工智能 交易，美股市场正处于微妙的平衡状态。 高盛 合伙人Bobby Molavi在最新报告中指出，尽管股市经历了剧烈回调并出现反弹，但信贷市场压力持续升温，市场未来走向仍面临多重不确定性。 过去一个月内，标普500指数从高位回落，峰谷跌幅一度达到10.7%， 高盛 恐慌指数创下纪录新高。与此同时，此前支撑市场全年走势的 人工智能 板块遭到对冲基金大幅减持，市场内部轮动机制一度失效。 Bobby Molavi在最新发布的《Ruminations》报告中以“让这一切停止吧”开篇，形容过去四至六周及第四季度以来的市场情绪。他表示， 当前市场实际上处于“相当微妙的",
+     "source": "东方财富股票",
+     "zh": "高盛Molavi：AI拥挤交易退潮后市场“脆弱平衡” 信贷风险决定后市走向"
+    },
     {
      "title": "高盛Molavi：AI拥挤交易退潮后市场“脆弱平衡”，信贷风险决定后市走向",
      "link": "https://wallstreetcn.com/articles/3786880",
@@ -2258,44 +2298,36 @@ window.INDUSTRY_DATA = {
      "zh": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费"
     },
     {
-     "title": "周五（11月27日）纽约尾盘（周六北京时间05:59） 离岸人民币（CNH）兑美元报6.6553元",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942143278.html",
-     "pubDate": "Sat, 28 Nov 2026 06:22:33 +0800",
-     "summary": "周五（11月27日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.6553元，较周四纽约尾盘涨46点，日内整体交投于6.6669-6.6537元区间，亚太午盘短线显著走高。本周，离岸人民币累计上涨大约0.3%。 （文章来源：新浪财经快讯）",
+     "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
+     "link": "http://global.eastmoney.com/news/1959,202611283942144522.html",
+     "pubDate": "Sat, 28 Nov 2026 06:46:38 +0800",
+     "summary": "科威特外交部27日召见伊朗驻科大使，就前一天导致两名意大利公民死亡的 无人机 袭击事件提出抗议。 科威特外交部当日在社交媒体平台发表声明称，伊朗26日使用 无人机 袭击科威特一处重要设施，造成两名意大利公民死亡、一名科威特公民和一名巴基斯坦公民受伤，并造成严重财产损失。 声明说，已向伊朗大使递交正式照会，抗议伊朗针对科威特的“持续袭击”。科外交部副大臣哈马德·马沙安在当日召见伊朗大使时表示，这些袭击公然侵犯科威特主权和领土完整，严重违反国际法和《联合国宪章》。 马沙安强调，伊朗应对此类袭击及其后果承担全部责任，科威特保留其固有的自卫权，以及采取一切必要措施维护国家主权和安全、保障境内公民和居民",
      "source": "东方财富股票",
-     "zh": "周五（11月27日）纽约尾盘（周六北京时间05:59） 离岸人民币（CNH）兑美元报6.6553元"
+     "zh": "科威特召见伊朗大使 抗议伊“持续袭击”"
     },
     {
-     "title": "沙特民防部门表示东部省的危险已经过去",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942143198.html",
-     "pubDate": "Sat, 28 Nov 2026 06:22:31 +0800",
-     "summary": "沙特民防部门表示东部省的危险已经过去。 （文章来源：新浪财经快讯）",
+     "title": "周六你需要知道的隔夜全球要闻：AI交易回暖纳指涨超2%；交易员削减美联储加息押注 预计明年晚些转向宽松；瑞银建议逢低买入白银",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942144154.html",
+     "pubDate": "Sat, 28 Nov 2026 06:46:21 +0800",
+     "summary": "1、AI交易回暖，美三大股指集体收涨，道琼斯指数涨1.18%，本周累涨5.5%；标普500指数涨1.60%，本周累涨5.6%，创下2025年4月以来最大单周涨幅； 纳斯达克 综合 指数涨2.31%，本周累涨6.7%。 纳斯达克 中国金龙指数收涨3.02%，本周累涨7.6%。 2、费城 半导体 指数涨近5%，本周累涨超9%。存储、光 通信 板块领涨， 闪迪 涨近16%，为7月以来最大单日涨幅，美光和 SK海力士 涨超7%，Coherent涨14%，Lumentum涨近8%。 Anthropic 涨近11%，创下上市以来最大单日涨幅，股价重回90美元上方。 3、美股上涨削弱避险需求，风险偏好上升推",
      "source": "东方财富股票",
-     "zh": "沙特民防部门表示东部省的危险已经过去"
+     "zh": "周六你需要知道的隔夜全球要闻：AI交易回暖纳指涨超2%；交易员削减美联储加息押注 预计明年晚些转向宽松；瑞银建议逢低买入白银"
     },
     {
-     "title": "以色列正直党领导人指责利库德集团拖延组阁谈判",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942142798.html",
-     "pubDate": "Sat, 28 Nov 2026 06:20:56 +0800",
-     "summary": "以色列正直党领导人加迪·埃森科特11月27日发表声明，指责以色列看守政府总理内塔尼亚胡领导的利库德集团拖延组阁谈判，企图推动新一轮选举。 埃森科特在声明中称，利库德集团在谈判中不愿妥协，并且在超过两周的时间里拒绝拿出具体方案。他表示，当前已到关键抉择时刻，但只要利库德愿意调整方向，对话的大门仍然敞开。 以色列议会有120个席位。在10月27日的议会选举中，内塔尼亚胡阵营获53席，埃森科特阵营获48席，均未达到单独组阁所需的61席门槛，不属于任何阵营但反对内塔尼亚胡政府的阿拉伯裔政党共占19席。以总统赫尔佐格11月8日授权埃森科特组建新政府，根据以色列法律，埃森科特有28天时间组建新政府，可申请",
+     "title": "美股ETF追踪 | 闪迪暴涨15% 存储杠杆ETF霸榜",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942127012.html",
+     "pubDate": "Sat, 28 Nov 2026 06:46:03 +0800",
+     "summary": "周五（感恩节后提前收盘）美股三大指数集体上涨，道琼斯指数涨1.18%， 纳斯达克 综合 指数涨2.31%，标普500指数涨1.60%。大型科技股普遍上涨， 特斯拉 涨5.22%、 亚马逊 涨3.96%、Meta涨3.13%、 英伟达 涨0.80%、 苹果 涨0.83%、谷歌涨0.68%、 微软 涨0.60%。 美股ETF升幅榜Top5 1. 二倍做多SNDK ETF-Corgi (SNDC.US) 升33.59%，成交额62.24万美元。 2. 二倍做多SNDK ETF-Leverage (SNDG.US) 升32.42%，成交额1280.21万美元。 3. 二倍做多SNDK ETF-T-RE",
      "source": "东方财富股票",
-     "zh": "以色列正直党领导人指责利库德集团拖延组阁谈判"
+     "zh": "美股ETF追踪 | 闪迪暴涨15% 存储杠杆ETF霸榜"
     },
     {
-     "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942141946.html",
-     "pubDate": "Sat, 28 Nov 2026 06:20:23 +0800",
-     "summary": "当地时间28日凌晨，伊朗伊斯兰革命卫队海军表示，几小时前，两艘油轮在霍尔木兹海峡爆炸并起火。其中一艘在海塞卜港附近触雷，另一艘在霍尔木兹海峡以东“未经授权”航线上航行时触雷。与此前发生爆炸的油轮类似，这些船只通过关闭定位系统，试图秘密穿越霍尔木兹海峡，随后，它们在该海峡南部海岸发生爆炸并起火。 伊朗伊斯兰革命卫队海军发出警告，霍尔木兹海峡内所有“未经授权”的航线，均布满了极具破坏性的水雷。此外，即便有美军提供空中支援，油轮若试图在这一区域航行，也无法避免触雷。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸"
-    },
-    {
-     "title": "以色列正直党领导人指责总理内塔尼亚胡领导的利库德集团拖延组阁谈判 企图推动新一轮选举",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942143325.html",
-     "pubDate": "Sat, 28 Nov 2026 06:18:14 +0800",
-     "summary": "以色列正直党领导人加迪·埃森科特11月27日发表声明，指责以色列看守政府总理内塔尼亚胡领导的利库德集团拖延组阁谈判，企图推动新一轮选举。埃森科特在声明中称，利库德集团在谈判中不愿妥协，并且在超过两周的时间里拒绝拿出具体方案。他表示，当前已到关键抉择时刻，但只要利库德愿意调整方向，对话的大门仍然敞开。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "以色列正直党领导人指责总理内塔尼亚胡领导的利库德集团拖延组阁谈判 企图推动新一轮选举"
+     "title": "全球市场：美股三大指数集体收涨 纳指涨超2% AI存储板块领涨 闪迪涨近16%",
+     "link": "http://stock.eastmoney.com/news/11784,202611283942131834.html",
+     "pubDate": "Sat, 28 Nov 2026 06:15:51 +0800",
+     "summary": "美股市场： 美股三大指数11月27日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨591.99点，收于50774.94点，涨幅为1.18%； 标准普尔 500种股票指数上涨114.71点，收于7297.49点，涨幅为1.6%； 纳斯达克 综合 指数上涨543.7点，收于24129.5点，涨幅为2.31%。 本周，道指 累涨5.46%， 纳指 累涨6.68%， 标普500 累涨5.60% 。 美股AI存储、光通信板块领涨，闪迪涨近16%，为7月以来最大单日涨幅。美光科技、SK海力士涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropi",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数集体收涨 纳指涨超2% AI存储板块领涨 闪迪涨近16%"
     },
     {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
@@ -2344,22 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
-    },
-    {
-     "title": "美存储芯片与光通信领涨，纳指涨2.3%，金银铜齐涨，美债跌，原油冲高转跌",
-     "link": "https://wallstreetcn.com/articles/3786838",
-     "pubDate": "Sat, 28 Nov 2026 05:15:46 +0800",
-     "summary": "AI交易重新活跃，美股在提前收市的交易日里全面上涨，存储芯片与光通信板块领涨。现货黄金从一周低位反弹，WTI原油盘中冲高后回落，10年期美债收益率随避险需求消退而走高。 周五， 标普500 收于7,297.49点，涨1.60%，本周四个交易日累涨5.6%、创2025年4月以来最大单周涨幅； 纳指 涨2.31%； 道指 涨1.18%； 罗素2000 涨1.71%。 中概股指数 涨3.02%。 风险偏好回暖削弱了美债避险需求，10年期美债收益率回到本周高位附近，升约10基点至4.932%。美元指数维持在104附近。黄金大涨2.5%至每盎司3,639美元，从15个月低点强势反弹。 从整周走势来看，A",
-     "source": "华尔街见闻",
-     "zh": "美存储芯片与光通信领涨，纳指涨2.3%，金银铜齐涨，美债跌，原油冲高转跌"
-    },
-    {
-     "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
-     "link": "https://wallstreetcn.com/articles/3786877",
-     "pubDate": "Sat, 28 Nov 2026 04:54:16 +0800",
-     "summary": "OpenAI向苹果发起反诉，指控这家科技巨头窃取其商业机密、阻断其硬件供应商渠道，两家曾经的合作伙伴之间的法律对抗正迅速激化。 周五，OpenAI在加州法院提起诉讼，回击苹果于今年夏天对其提出的商业秘密窃取指控。OpenAI在诉状中措辞强硬，指控苹果\"以一切可用手段实施不公平竞争\"，涵盖\"多种违法、不公平及侵权行为\"。 此次法律摩擦对两家公司的关系造成进一步损害。就在两年前，双方还达成合作协议，将ChatGPT嵌入iPhone。 如今随着OpenAI加速布局硬件领域，直接与苹果形成竞争态势，双方关系已急剧恶化。这场法律战的走向，将对两家公司在AI硬件及供应链领域的竞争格局产生深远影响。 苹果股",
-     "source": "华尔街见闻",
-     "zh": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级"
     },
     {
      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -2464,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
      "source": "MarketWatch",
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
-     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 17:04:00 GMT",
-     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
-     "source": "MarketWatch",
-     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
-    },
-    {
-     "title": "Wave of cyber incidents rattles western economies",
-     "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 16:19:21 GMT",
-     "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
-     "source": "Financial Times",
-     "zh": "Wave of cyber incidents rattles western economies"
     }
    ]
   },

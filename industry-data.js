@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 05:32:12",
+ "generated_at": "2026/11/28 05:44:10",
  "recent_days": 7,
  "industries": [
   {
@@ -282,6 +282,30 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
+    },
+    {
+     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
+     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
+    },
+    {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -304,6 +328,38 @@ window.INDUSTRY_DATA = {
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -410,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -432,70 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "GRIDSERVE Secures £420 Million Financing to Strengthen Leadership Position in EV Charging & Support Next Phase of Growth",
+     "link": "https://cleantechnica.com/2026/11/27/gridserve-secures-420-million-financing-to-strengthen-leadership-position-in-ev-charging-support-next-phase-of-growth/",
+     "pubDate": "Fri, 27 Nov 2026 21:30:41 +0000",
+     "summary": "Major refinancing package strengthens GRIDSERVE’s long-term funding position and financial resilience New financing structure provides dedicated capital for continued investment and network expansion Deal reflects significant financial progress, with GRIDSERVE reporting positive EBITDA for the first",
+     "source": "CleanTechnica",
+     "zh": "GRIDSERVE Secures £420 Million Financing to Strengthen Leadership Position in EV Charging & Support Next Phase of Growth"
+    },
+    {
      "title": "Loblaw’s Hydrogen Truck Crossed the Rockies. Another Truck Brought Its Fuel.",
      "link": "https://cleantechnica.com/2026/11/27/loblaw-hydrogen-truck-rockies-mobile-fuel/",
      "pubDate": "Fri, 27 Nov 2026 21:02:04 +0000",
@@ -1064,14 +1072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives. This could soon change thanks to the forthcoming European Competitiveness ",
      "source": "CleanTechnica",
      "zh": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy"
-    },
-    {
-     "title": "High-Flying Influencers",
-     "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
-     "pubDate": "Fri, 27 Nov 2026 04:53:00 +0000",
-     "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E. This study examines the environmental footprint of travel influencers, and the role they and social m",
-     "source": "CleanTechnica",
-     "zh": "High-Flying Influencers"
     },
     {
      "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
@@ -1354,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1392,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1450,30 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1528,6 +1480,30 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1746,6 +1722,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+     "link": "https://www.techmeme.com/261127/p14#a261127p14",
+     "pubDate": "Fri, 27 Nov 2026 16:35:01 -0500",
+     "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently ",
+     "source": "Techmeme",
+     "zh": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)"
+    },
+    {
      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
      "link": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 20:51:30 +0000",
@@ -1754,18 +1738,10 @@ window.INDUSTRY_DATA = {
      "zh": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers"
     },
     {
-     "title": "UK net migration at lowest level since 1997",
-     "link": "https://www.bbc.com/news/articles/cq36gj12n0l3o",
-     "pubDate": "Fri, 27 Nov 2026 20:38:19 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cq36gj12n0l3o Comments URL: https://news.ycombinator.com/item?id=50671417 Points: 8 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "UK net migration at lowest level since 1997"
-    },
-    {
      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
      "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 33 # Comments: 5",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 42 # Comments: 15",
      "source": "Hacker News",
      "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
     },
@@ -1797,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "The AT&T Unix PC (3B1) VM",
      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 24 # Comments: 3",
      "source": "Hacker News",
      "zh": "The AT&T Unix PC (3B1) VM"
     },
@@ -1805,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 163 # Comments: 100",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 193 # Comments: 128",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1821,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
      "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
      "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
-     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 26 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
     },
@@ -1832,6 +1808,14 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
      "source": "WIRED",
      "zh": "Black Friday Mattress Deals: Get Up to 55% Off (2026)"
+    },
+    {
+     "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+     "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+     "pubDate": "Fri, 27 Nov 2026 18:59:55 +0000",
+     "summary": "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/ Comments URL: https://news.ycombinator.com/item?id=50670443 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1954,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "文明的历史是小麦的历史"
     },
     {
-     "title": "The CMA says Meta made changes to Muse&apos;s ToS in the UK to reflect the country&apos;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
-     "link": "https://www.techmeme.com/261127/p8#a261127p8",
-     "pubDate": "Fri, 27 Nov 2026 10:25:00 -0500",
-     "summary": "Joseph Bambridge / Politico : The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US &nbsp; &mdash;&nbsp; The U.K. terms of service for Muse give consumers far more protection than in the U.S.&nbsp; &mdas",
-     "source": "Techmeme",
-     "zh": "The CMA says Meta made changes to Muse&apos;s ToS in the UK to reflect the country&apos;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)"
-    },
-    {
      "title": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲",
      "link": "https://www.ithome.com/1/033/771.htm",
      "pubDate": "Fri, 27 Nov 2026 15:04:07 GMT",
@@ -1993,6 +1969,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
+     "link": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
+     "pubDate": "Fri, 27 Nov 2026 21:30:50 +0000",
+     "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
+     "source": "Android Authority",
+     "zh": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99"
+    },
+    {
+     "title": "Pixelated 127: Nobody reads, nobody writes",
+     "link": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
+     "pubDate": "Fri, 27 Nov 2026 21:30:00 +0000",
+     "summary": "Welcome to Pixelated episode 127. This week, we’re unlocking a bonus episode from the vault. Originally recorded in the aftermath of the Pixel 11 launch and review cycle, listen in as Abner, Damien, and Will discuss how they stay motivated to continue reporting on and reviewing technology products, ",
+     "source": "9to5Google",
+     "zh": "Pixelated 127: Nobody reads, nobody writes"
+    },
     {
      "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
      "link": "https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
@@ -2138,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "YouTube’s latest mobile redesign lets you like videos without opening them"
     },
     {
-     "title": "What new Google Messages features are rolling out [November 2026]",
-     "link": "https://9to5google.com/2026/11/27/new-google-messages-features/",
-     "pubDate": "Fri, 27 Nov 2026 18:38:00 +0000",
-     "summary": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…",
-     "source": "9to5Google",
-     "zh": "What new Google Messages features are rolling out [November 2026]"
-    },
-    {
      "title": "TCL teams up with Rebel in the UK to make a social media-less kids phone",
      "link": "https://www.gsmarena.com/tcl_teams_up_with_rebel_in_the_uk_to_make_a_social_medialess_kids_phone-news-75672.php",
      "pubDate": "Fri, 27 Nov 2026 19:31:02 +0100",
@@ -2202,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "TCL’s Note A1 NXTPAPER note-taking tablet is $150 off"
     },
     {
-     "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
-     "link": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
-     "pubDate": "Fri, 27 Nov 2026 16:26:00 +0000",
-     "summary": "One UI 9.5 beta code ties about three dozen features to a Galaxy AI version the Galaxy S26 doesn't have.",
-     "source": "Android Authority",
-     "zh": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27"
-    },
-    {
      "title": "WhatsApp adds support for travel eSIMs",
      "link": "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims/",
      "pubDate": "Fri, 27 Nov 2026 16:24:07 +0000",
@@ -2242,12 +2218,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
+    },
+    {
      "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
      "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
+    },
+    {
+     "title": "法国经济、财政和工业部长莱斯屈尔表示 法国经济前景仍不确定",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942135052.html",
+     "pubDate": "Sat, 28 Nov 2026 05:20:50 +0800",
+     "summary": "法国经济、财政和工业部长莱斯屈尔表示，法国经济前景仍不确定。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "法国经济、财政和工业部长莱斯屈尔表示 法国经济前景仍不确定"
+    },
+    {
+     "title": "法国经济、财政和工业部长莱斯屈尔表示  标普表示法国务必尽快敲定预算",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942135168.html",
+     "pubDate": "Sat, 28 Nov 2026 05:20:15 +0800",
+     "summary": "法国经济、财政和工业部长莱斯屈尔表示， 标普表示法国务必尽快敲定预算。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "法国经济、财政和工业部长莱斯屈尔表示  标普表示法国务必尽快敲定预算"
     },
     {
      "title": "富时A50期指连续夜盘微跌0.09% 报13051点",
@@ -2280,30 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "标普：法国持续的政治两极分化可能继续制约减赤措施和促增长改革的实施。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "标普：法国持续的政治两极分化可能继续制约减赤措施和促增长改革的实施"
-    },
-    {
-     "title": "标普将法国评级展望调整至负面；确认“A+/A-1”评级",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942131523.html",
-     "pubDate": "Sat, 28 Nov 2026 05:14:48 +0800",
-     "summary": "标普将法国评级展望调整至负面；确认“A+/A-1”评级。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "标普将法国评级展望调整至负面；确认“A+/A-1”评级"
-    },
-    {
-     "title": "标普：在连续两年经济表现疲软之后 法国2027年实际GDP增长可能仍将低迷",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942134078.html",
-     "pubDate": "Sat, 28 Nov 2026 05:14:27 +0800",
-     "summary": "标普：在连续两年经济表现疲软之后，法国2027年实际GDP增长可能仍将低迷。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普：在连续两年经济表现疲软之后 法国2027年实际GDP增长可能仍将低迷"
-    },
-    {
-     "title": "标普：预计法国赤字仍将承压",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942133817.html",
-     "pubDate": "Sat, 28 Nov 2026 05:14:18 +0800",
-     "summary": "标普：预计法国赤字仍将承压。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普：预计法国赤字仍将承压"
     },
     {
      "title": "OpenAI反击苹果！指控其窃取商业机密、威胁供应商，双方诉讼战升级",
@@ -2402,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Energy Fuels gains 11% as peers and the broader market rise"
     },
     {
-     "title": "FuelCell Energy climbs 8% alongside broad market rally",
-     "link": "https://seekingalpha.com/news/4677101-fuelcell-energy-climbs-8-percent-alongside-broad-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:08:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FuelCell Energy climbs 8% alongside broad market rally"
-    },
-    {
      "title": "The warnings behind this week’s stock-market rally",
      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
@@ -2461,7 +2429,7 @@ window.INDUSTRY_DATA = {
      "title": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%",
      "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
      "pubDate": "Sat, 28 Nov 2026 02:00:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体收涨，截止收盘，道琼斯指数涨1.18%，标普500指数涨1.60%， 纳斯达克 综合 指数涨2.31%。 AI交易回暖， 费城 半导体 指数涨超4%。 存储、光 通信 板块领涨， 闪迪 涨超15%，为7月以来最大单日涨幅。 美光科技 、 SK海力士 涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropic 涨近11%，创下自11月19日上市以来最大单日涨幅，股价重回90美元上方。 特斯拉 涨超5%， SpaceX 、 亚马逊 涨近4%，Meta涨超3%， 英伟达 、 苹果 上涨0.88%。 纳斯达克 中国金龙指数涨",
+     "summary": "美东时间周五，美股三大指数集体收涨，截止收盘，道琼斯指数涨1.18%，标普500指数涨1.60%， 纳斯达克 综合 指数涨2.31%。 AI交易回暖， 费城 半导体 指数涨超4%。 存储、光 通信 板块领涨， 闪迪 涨超15%，为7月以来最大单日涨幅。 美光科技 、 SK海力士 涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropic 涨近11%，创下自11月19日上市以来最大单日涨幅，股价重回90美元上方。 特斯拉 涨超5%， SpaceX 涨近5%， 亚马逊 涨近4%，Meta涨超3%， 英伟达 、 苹果 上涨0.88%。 纳斯达克 中国金",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%"
     },
@@ -2480,6 +2448,14 @@ window.INDUSTRY_DATA = {
      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
      "source": "MarketWatch",
      "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
+    },
+    {
+     "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+     "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+     "pubDate": "Fri, 27 Nov 2026 16:43:14 GMT",
+     "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+     "source": "CNBC",
+     "zh": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
     }
    ]
   },

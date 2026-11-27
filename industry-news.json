@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 20:59:25",
+ "generated_at": "2026/11/27 21:12:05",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "颤抖吧剪辑师！你豆姐能直接操控剪映了！",
+     "link": "https://zhidx.com/p/615139.html",
+     "pubDate": "Fri, 27 Nov 2026 21:08:20 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
+     "source": "智东西",
+     "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
+    },
     {
      "title": "3万+付费商家！有赞龙虾干了5000万次任务，对话CEO白鸦",
      "link": "https://zhidx.com/p/615061.html",
@@ -231,22 +247,6 @@
      "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
      "source": "KDnuggets",
      "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
-    },
-    {
-     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
-     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
-     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
-     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
-     "source": "KDnuggets",
-     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
-    },
-    {
-     "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
-     "link": "https://zhidx.com/p/614303.html",
-     "pubDate": "Thu, 26 Nov 2026 20:03:39 +0800",
-     "summary": "智东西 作者 | 许丽思 编辑 | 漠影 AI都能破解黎曼猜想这种百年数学难题、证明大名鼎鼎的代数版P≠NP了，可真让AI指挥机器人叠件衣服、收拾一桌杂物，或者做顿饭，它的动作还是太费劲了。 把目光转向生产线，机器人也很难干好大量看似简单的工作。汽车工厂里的线束插拔、电池包装配，家电产线中的精密零部件组装，看起来无非是对准、握住、推进几步，却 需要机器人 持续感知接触状态、调整力度和姿态。 现在，具身智能的一大瓶颈就在于，大脑发展飞快，机器人越来越会理解指令、规划动作，却很难稳定完成精细操作。 它需要更灵敏的感知，也需要一整套把感知变成操作的能力。 今天，一目科技宣布战略升级， 基于触觉 感知",
-     "source": "智东西",
-     "zh": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？"
     }
    ]
   },
@@ -1753,6 +1753,38 @@
    "total": 18,
    "items": [
     {
+     "title": "美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年",
+     "link": "https://www.ithome.com/1/033/748.htm",
+     "pubDate": "Fri, 27 Nov 2026 13:06:05 GMT",
+     "summary": "IT之家 11 月 27 日消息，据每日经济新闻，对于市场关注的美团与微信小微的试点合作进展，美团 CEO 王兴在财报发布后的业绩电话会上表示， 双方合作正按计划推进 ，双方聚焦本地服务场景，优先打磨微信生态内完整服务链路。 王兴认为，微信 AI 能力叠加美团本地供给与履约能力， 有望挖掘微信生态内新的本地服务需求 。 在 AI 资本开支上，王兴表示，美团将坚持 ROI（投资回报率）导向、审慎投入。王兴透露， 今年已提前锁定部分算力资源，预计明年 AI 相关资本开支将低于今年 ，投入节奏服从整体财务规划，兼顾业务收益与推理成本，持续优化投入效率。 他同时提到，AI 将持续在研发、客服、运营等环",
+     "source": "IT之家",
+     "zh": "美团王兴：与微信小微合作按计划推进，预计明年 AI 资本开支将低于今年"
+    },
+    {
+     "title": "Serial numbers in Chinese filings reveal that Nvidia&apos;s restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+     "link": "https://www.techmeme.com/261127/p6#a261127p6",
+     "pubDate": "Fri, 27 Nov 2026 08:05:01 -0500",
+     "summary": "Bloomberg : Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed &nbsp; &mdash;&nbsp; A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center",
+     "source": "Techmeme",
+     "zh": "Serial numbers in Chinese filings reveal that Nvidia&apos;s restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)"
+    },
+    {
+     "title": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里",
+     "link": "https://www.ithome.com/1/033/747.htm",
+     "pubDate": "Fri, 27 Nov 2026 13:02:20 GMT",
+     "summary": "IT之家 11 月 27 日消息，小米澎程今日宣布 OTA 1.20 已经开始全量推送，本次更新主要适配 N70、N90 全系车型，涉及辅助驾驶、智能座舱与日常用车体验。 IT之家从官方公告获悉，辅助驾驶方面，城区领航辅助功能的使用体验得到优化：加减速更平稳，变道选道更准确，避障绕行的横纵向协同更连贯，路口左转、右转及合流的博弈能力提升。小爱行车播报取消了变道语音提示，减少辅助驾驶过程中的打扰。 城区领航辅助安全里程门槛由 300 公里降低至 100 公里 ，使用 ACC、LCC、HNOA 累计里程达到 100 公里即可解锁 CNOA。 高速领航辅助同步优化，对周边车辆的响应更平顺，减少急刹与",
+     "source": "IT之家",
+     "zh": "小米澎程 OTA 1.20 开启全量推送：新增 iPhone 数字钥匙功能，城区领航辅助解锁门槛降至 100 公里"
+    },
+    {
+     "title": "pixiv FANBOX：即日起不再支持使用 Mastercard 万事达信用卡为成年向内容付费",
+     "link": "https://www.ithome.com/1/033/746.htm",
+     "pubDate": "Fri, 27 Nov 2026 12:54:18 GMT",
+     "summary": "IT之家 11 月 27 日消息，pixiv 旗下创作者订阅平台 pixiv FANBOX 宣布，即日起用户无法再通过 Mastercard（万事达）信用卡为成年向（适用于 18 岁及以上人群）内容创作者支付赞助费用，全年龄内容不受相应影响。 IT之家注意到，目前 pixiv FANBOX 仍支持通过 Visa、JCB 和美国运通（American Express）信用卡为成年向内容创作者支付赞助费用。 自 2022 年夏季以来，已有多家数字内容平台陆续遭遇信用卡支付服务商停止提供支付服务的情况。尽管多数平台并未明确说明具体原因，但外界认为，这可能与成年向内容交易限制措施有关。 相关阅读： 《",
+     "source": "IT之家",
+     "zh": "pixiv FANBOX：即日起不再支持使用 Mastercard 万事达信用卡为成年向内容付费"
+    },
+    {
      "title": "50米内，有店月收入620万，有店冷清，新鲜零食加速分化",
      "link": "https://www.huxiu.com/article/4909065.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 20:45:24 +0800",
@@ -1801,22 +1833,6 @@
      "zh": "一大批“杂毛硬科技”的天，要塌了"
     },
     {
-     "title": "上海地铁计次票 12 月 1 日启用：激活日及之后 30 个自然日内有效，折合单次最低 4.33 元",
-     "link": "https://www.ithome.com/1/033/741.htm",
-     "pubDate": "Fri, 27 Nov 2026 12:27:38 GMT",
-     "summary": "IT之家 11 月 27 日消息，据申工社公众号，上海地铁计次票于昨日起正式开售，12 月 1 日起正式启用，自激活日及之后 30 个自然日运营时段内有效。 据介绍，相应计次票适用于上海全市范围轨道交通（不含磁浮线、金山铁路、市域机场线及以后开通的市域线），计次票不限乘距，在适用范围内每次进出站计一个乘次。 四档套餐分别为：35 次 190 元、45 次 210 元、60 次 270 元、90 次 390 元，折合单次约 5.43 元、4.67 元、4.50 元、4.33 元 。 具体购买方式上，用户可以在 Metro 大都会 App、上海交通卡 App、随申行 App 购买电子版本，利用二维",
-     "source": "IT之家",
-     "zh": "上海地铁计次票 12 月 1 日启用：激活日及之后 30 个自然日内有效，折合单次最低 4.33 元"
-    },
-    {
-     "title": "小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元",
-     "link": "https://www.ithome.com/1/033/740.htm",
-     "pubDate": "Fri, 27 Nov 2026 12:25:51 GMT",
-     "summary": "IT之家 11 月 27 日消息，小米智能生态今日宣布，小米智能门锁 5 系列两款新品开启预售。 小米智能门锁 5 单摄版新增 2K 超清智能猫眼，升级支持微信小程序开锁、视频通话远程开锁，支持猫眼遮挡提醒， 到手价 1199 元 。 小米智能门锁 5 单摄版搭载新一代 AI 半导体指纹识别技术，识别速度 ≤0.7 秒，识别率 ≥99.53%，支持关门疾速自动上锁；搭配直插式 C 级锁芯，锁体内置 4 个检测开关，可全天候监测锁体状态。 京东 小米智能门锁 5 单摄版 到手价 1199 元 领 0.9 元券 小米智能门锁 5 大屏猫眼版门锁内面板嵌入 3.97 英寸高清可视大屏，访客按响门铃后",
-     "source": "IT之家",
-     "zh": "小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元"
-    },
-    {
      "title": "头部房企大额资金正越来越多下沉至一线项目",
      "link": "https://www.huxiu.com/article/4909060.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 20:20:00 +0800",
@@ -1831,14 +1847,6 @@
      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
      "source": "WIRED",
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories"
-    },
-    {
-     "title": "消息称徕卡 Q3 43 Monochrom 黑白相机 12 月 3 日发布，定价 7490 欧元",
-     "link": "https://www.ithome.com/1/033/739.htm",
-     "pubDate": "Fri, 27 Nov 2026 12:14:38 GMT",
-     "summary": "IT之家 11 月 27 日消息，外媒 LeicaRumors 发文，透露徕卡 Q3 43 Monochrom 黑白相机将于 12 月 3 日发布。 该机可以看作是标准款徕卡 Q3 Monochrom 黑白相机换上 Q3 43 的 43mm f/2 镜头，为喜欢中焦段便携相机的用户提供一种新选择。机身继续采用 6000 万像素全画幅传感器，搭配 Maestro IV 处理器和 8GB DRAM 缓存。支持录制 30 帧 / 秒的 8K 视频或 60 帧 / 秒的 4K 视频。 ▲ 现款标准款徕卡 Q3 Monochrom 黑白相机 价格方面，徕卡 Q3 标准版的官方售价为 6,490 欧元 （",
-     "source": "IT之家",
-     "zh": "消息称徕卡 Q3 43 Monochrom 黑白相机 12 月 3 日发布，定价 7490 欧元"
     },
     {
      "title": "袁记云饺一边招股，一边开出堡店首店",
@@ -1873,6 +1881,14 @@
      "zh": "Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)"
     },
     {
+     "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+     "link": "https://eprint.iacr.org/2026/3020.pdf",
+     "pubDate": "Fri, 27 Nov 2026 12:08:51 +0000",
+     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 47 # Comments: 18",
+     "source": "Hacker News",
+     "zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
+    },
+    {
      "title": "Best Dyson Vacuum Black Friday Deals for 2026: Up to $400 Off",
      "link": "https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 12:05:59 +0000",
@@ -1903,6 +1919,14 @@
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "The 123 Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+     "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+     "pubDate": "Fri, 27 Nov 2026 11:41:11 +0000",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 9 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Pizza history: AI agent's cardless purchase is a first for UK"
     },
     {
      "title": "15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
@@ -1967,30 +1991,6 @@
      "summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三个月的离职补偿金，将 2026 年 12 月 31 日定为他们的最后工作日。在匿名员工论坛 Blind 上，一位 IBM 员工说到印度工作可能意味着减薪 80%。 HireMe CEO George Carrillo 指出，调动工作岗位可能意味着举家搬迁。它会影响配偶的工作、子女",
      "source": "Solidot",
      "zh": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国"
-    },
-    {
-     "title": "法国 ASA 单次安装成本涨到 4.2 欧，手游团队该继续加预算还是转投别的渠道？",
-     "link": "https://www.baijing.cn/question/639009",
-     "pubDate": "Fri, 27 Nov 2026 08:47:43 +0000",
-     "summary": "我们做休闲消除类手游，欧洲（德国/法国/英国/西班牙）刚上线三个月，团队 6 人，月买量预算 3 万欧左右。法国区 ASA 从 6 月的 2.6 欧涨到 8 月的 4.2 欧，D7 ROAS 只有 18%，同期德国涨到 3.5 欧、英国 3.8 欧。已经试过换关键词组、拆分品牌词和品类词、把素材从 3 套扩到 9 套，也试过把预算往德国倾斜，但法国量级一压就掉到日均 40 安装以下，起量节奏完全断了。现在卡在要不要保法国区的量：继续加预算怕回不了本，砍掉又担心影响后续自然量和榜单。想直接问，法国 ASA 这个成本水平下，你们判断继续投还是先收缩的取舍标准是什么？",
-     "source": "白鲸出海",
-     "zh": "法国 ASA 单次安装成本涨到 4.2 欧，手游团队该继续加预算还是转投别的渠道？"
-    },
-    {
-     "title": "GPSR 责任人信息不全，德国站被下架后这批备货该怎么处理？",
-     "link": "https://www.baijing.cn/question/639008",
-     "pubDate": "Fri, 27 Nov 2026 08:41:41 +0000",
-     "summary": "上个月德国站有 7 个 SKU 被下架，后台提示缺少欧盟责任人信息，可我们的欧代合同签的是法国主体，西班牙站又要求本地语种标签，英国站脱欧后单独一套规则。我们做家居收纳类目，团队 12 人，刚起量阶段，德国仓压了约 4000 件货，法国仓也有 2000 件，现在退货率从 3% 涨到 8%，主要原因是包装上没有责任人地址和警告语。已经试过让工厂补印标签贴纸，但德国站审核不认贴纸版本，要求印在包装本体上。卡在重新备货的周期和旧库存的清关成本上。这种情况下是弃货重做包装，还是先转其他站点消化？",
-     "source": "白鲸出海",
-     "zh": "GPSR 责任人信息不全，德国站被下架后这批备货该怎么处理？"
-    },
-    {
-     "title": "旅行者 1 号发回无法解读的信息",
-     "link": "https://www.solidot.org/story?sid=86009",
-     "pubDate": "Fri, 27 Nov 2026 16:34:43 +0800",
-     "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。导致此次故障的确切原因尚不明确。",
-     "source": "Solidot",
-     "zh": "旅行者 1 号发回无法解读的信息"
     }
    ]
   },
@@ -2249,12 +2249,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Railtown AI targets lower AI costs with new model testing tools",
+     "link": "https://seekingalpha.com/news/4677008-railtown-ai-targets-lower-ai-costs-with-new-model-testing-tools?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 07:55:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Railtown AI targets lower AI costs with new model testing tools"
+    },
+    {
      "title": "Coca-Cola continues its refranchising strategy with a deal in Africa",
      "link": "https://seekingalpha.com/news/4677010-coca-cola-continues-its-refranchising-strategy-with-deal-in-africa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 07:53:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Coca-Cola continues its refranchising strategy with a deal in Africa"
+    },
+    {
+     "title": "央行发布存贷款利率新规 罚息不再默认“顶格上浮50%” 机构计息系统面临改造压力",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941924887.html",
+     "pubDate": "Fri, 27 Nov 2026 20:52:37 +0800",
+     "summary": "11月27日，人民 银行 发布《人民币存贷款利率管理规定》（下称《新规》），自2027年3月21日起施行，这也是1999年《人民币利率管理规定》运行26年来的系统性大修。值得关注的是，本次修订取消了贷款罚息利率在合同利率基础上加收30%—50%的刚性区间，改由金融机构与借款人协商确定。 “一直以来，罚息、提前还款手续费，所有的收费都计入利率上限的，都会校验，最高是IRR24，所以目测利率影响有限。”有华东地区某消费金融公司人士告诉财联社记者。不过，该人士同时坦言，《新规》对计息公式的调整才更“伤筋动骨”。 时隔26年的大修订：罚息“顶格上浮50%”成为历史 “1999年制定的《人民币利率管理规",
+     "source": "东方财富资讯",
+     "zh": "央行发布存贷款利率新规 罚息不再默认“顶格上浮50%” 机构计息系统面临改造压力"
     },
     {
      "title": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定",
@@ -2289,44 +2305,12 @@
      "zh": "Anthropic stock gains premarket, reclaiming IPO price"
     },
     {
-     "title": "伊拉克石油部长：伊拉克的石油产能将得到提升",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941923240.html",
-     "pubDate": "Fri, 27 Nov 2026 20:46:13 +0800",
-     "summary": "伊拉克石油部长表示，伊拉克的石油产能将得到提升。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊拉克石油部长：伊拉克的石油产能将得到提升"
-    },
-    {
      "title": "11月27日晚间上市公司利好消息一览(附名单)",
      "link": "http://finance.eastmoney.com/news/1353,202611273941923444.html",
      "pubDate": "Fri, 27 Nov 2026 20:44:46 +0800",
      "summary": "沪深两市多家上市公司11月27日晚间发布重要公告，以下为利好的消息汇总： 贵州茅台 2026年中期利润分配方案：拟10派256元 贵州茅台 (600519)11月27日发布2026年中期利润分配方案，拟向全体股东每股派发现金红利25.6元（含税），合计派发现金红利320.02亿元（含税）。 华胜天成 ：公司与华为主要合作模式为基于项目建设与运营需求采购华为软件硬件产品 华胜天成 (600410)11月27日公告，公司股票交易于11月25日、11月26日、11月27日，连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动的情形。鉴于近期公司股票价格波动较大，公司股价可能存在短",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "11月27日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "印尼央行行长：2027年GDP增速可能达到6%",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941923079.html",
-     "pubDate": "Fri, 27 Nov 2026 20:44:43 +0800",
-     "summary": "印尼央行行长：2027年GDP增速可能达到6%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印尼央行行长：2027年GDP增速可能达到6%"
-    },
-    {
-     "title": "国常会首次在新闻稿中提及“国家队”，提出加力发挥稳市作用",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941923796.html",
-     "pubDate": "Fri, 27 Nov 2026 20:44:00 +0800",
-     "summary": "海报新闻记者任静报道 11月27日，国务院常务会议研究持续深化资本市场投融资 综合 改革工作，提出持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。并明确要加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能。11月27日，A股市场午后开启强势反弹，截至收盘，沪指涨3.73%，深成指涨7.24%，创业板指涨11.61%。 此次国常会对资本市场稳定机制和深化改革作出多项部署。会议提出，要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，",
-     "source": "东方财富股票",
-     "zh": "国常会首次在新闻稿中提及“国家队”，提出加力发挥稳市作用"
-    },
-    {
-     "title": "六大品牌73辆展车参展 广汽集团全品牌亮相2026广州车展",
-     "link": "http://stock.eastmoney.com/news/11219,202611273941923543.html",
-     "pubDate": "Fri, 27 Nov 2026 20:43:16 +0800",
-     "summary": "11月27日，第二十四届广州国际 汽车 展览会开幕。主场作战的 广汽集团 携旗下传祺、昊铂、埃安、启境、广汽本田、广汽丰田六大品牌，集结广交会展馆A区2.2号馆，分享“市场+技术”双轮驱动的“双V模型”产品开发理念及实践，展示其产品矩阵、技术积累与服务布局。 当前， 汽车 行业正处在“战略机遇”攻坚期，如何保持战略定力、穿越周期，是所有企业的核心命题之一。本届车展， 广汽集团 携旗下 乘用车 品牌集中参展，共计73辆展车。广汽以多元化产品矩阵全面呈现企业在电动化、智能化转型领域的最新进展与阶段性成果。 自主品牌方面，传祺深耕智享家庭，携越7、向往M8 PHEV L、E8 PHEV等车型，打造全",
-     "source": "东方财富股票",
-     "zh": "六大品牌73辆展车参展 广汽集团全品牌亮相2026广州车展"
     },
     {
      "title": "Search Minerals announces C$1.4M secured convertible loan",
@@ -2335,14 +2319,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Search Minerals announces C$1.4M secured convertible loan"
-    },
-    {
-     "title": "宏景科技：拟4000万至8000万元回购股份用于股权激励或员工持股",
-     "link": "http://stock.eastmoney.com/news/11215,202611273941923911.html",
-     "pubDate": "Fri, 27 Nov 2026 20:42:57 +0800",
-     "summary": "上证智讯 11月27日晚间， 宏景科技 发布回购报告书称，公司拟使用自有资金或自筹资金，以集中竞价交易方式回购公司A股股份，回购资金总额不低于4000万元（含）且不超过8000万元（含），回购价格不超过170元/股（含），该价格上限不高于董事会通过回购决议前三十个交易日公司股票交易均价的150%。本次回购股份拟用于 股权激励 或员工持股计划。 按回购资金上限8000万元、价格上限170元/股测算，预计回购股份约47.06万股，约占公司当前总股本的0.22%；按回购资金下限4000万元测算，预计回购股份约23.53万股，约占公司总股本的0.11%。回购期限为自董事会审议通过回购股份方案之日起不超",
-     "source": "东方财富股票",
-     "zh": "宏景科技：拟4000万至8000万元回购股份用于股权激励或员工持股"
     },
     {
      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
@@ -2369,12 +2345,12 @@
      "zh": "黄金强势反弹，大规模空头挤压一触即发？"
     },
     {
-     "title": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027",
-     "link": "https://seekingalpha.com/news/4677002-micron-sk-hynix-samsung-in-focus-as-gf-cuts-dram-prices-for-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 07:37:54 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Micron, SK Hynix, Samsung in focus as GF cuts DRAM prices for 2027"
+     "title": "SAP may cut 10,000 jobs to make room for AI",
+     "link": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 12:37:00 GMT",
+     "summary": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
+     "source": "Finextra",
+     "zh": "SAP may cut 10,000 jobs to make room for AI"
     },
     {
      "title": "First principles to cling to when markets convulse",
@@ -2433,6 +2409,14 @@
      "zh": "央行：研究建立在特定情景下向非银机构提供流动性的机制性安排 发挥好两项支持资本市场的货币政策工具作用"
     },
     {
+     "title": "黄金多头终于喘口气！金价从一年多低点强势反弹3% 但加息阴影仍未消散",
+     "link": "http://stock.eastmoney.com/news/1768,202611273941893414.html",
+     "pubDate": "Fri, 27 Nov 2026 20:09:24 +0800",
+     "summary": "在经历连续下跌并触及一年多低点后， 黄金 周五迎来强劲反弹。美元涨势暂歇、全球股市企稳，促使此前因流动性压力被迫抛售 黄金 的投资者重新入场。不过，美国经济增长强劲、通胀压力持续以及美联储进一步加息预期，仍令 黄金 后续走势面临考验。 欧盘交易时段，现货黄金大涨3%，报每盎司3673美元；12月交割的美国COMEX黄金 期货 大涨3.9%，突破每盎司3700美元关口。此前，金价周三一度跌至2025年8月以来最低水平。 随着市场风险偏好回暖，其他 贵金属 也同步反弹，现货 白银 上涨6.6%，至每盎司44.25美元；铂金上涨5.4%，至1360.82美元；钯金上涨4.6%，至913.07美元。 ",
+     "source": "东方财富资讯",
+     "zh": "黄金多头终于喘口气！金价从一年多低点强势反弹3% 但加息阴影仍未消散"
+    },
+    {
      "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
      "link": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Fri, 27 Nov 2026 12:08:00 GMT",
@@ -2487,6 +2471,22 @@
      "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
      "source": "CNBC",
      "zh": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push"
+    },
+    {
+     "title": "美团单季赚21亿元，增长向零售和海外延伸",
+     "link": "https://wallstreetcn.com/articles/3786857",
+     "pubDate": "Fri, 27 Nov 2026 19:30:55 +0800",
+     "summary": "美团的利润开始修复了。 11月27日，美团发布三季报，营收1156亿元，同比增长21.6%；净利润20.7亿元，上年同期为亏损186.3亿元。核心本地商业经营利润恢复至57亿元，成为此次盈利改善的主要支撑。 这份财报呈现出两个变化，国内主业重新贡献利润，食杂零售和海外业务继续扩张。美团需要解决的问题，也从承受补贴战的亏损，转向如何分配恢复的盈利能力。 利润修复首先来自营销投入的变化。三季度，美团销售及营销开支同比下降20.1%至270亿元，占收入的比例由35.6%降至23.4%。公司将核心本地商业扭亏主要归因于审慎的营销支出，以及收入增长带来的经营杠杆效应。 补贴能够迅速拉高订单量，却也会吸引",
+     "source": "华尔街见闻",
+     "zh": "美团单季赚21亿元，增长向零售和海外延伸"
+    },
+    {
+     "title": "创业板指历史第4次单日涨幅达10%，涨幅位列历史第三",
+     "link": "http://www.eeo.com.cn/2026/1127/1105719.shtml",
+     "pubDate": "Fri, 27 Nov 2026 19:26:15 +0800",
+     "summary": "11月27日，A股午后全线拉升，创业板指收涨11.61%，报2443.96点，创下年内最大单日涨幅。据Wind数据，自2010年发布以来，创业板指单日涨幅达到或超过10%的情形仅出现4次，此前3次均集中在2024年9月末至10月初：9月27日涨10.00%（精确值为 9.9960%）、9月30日涨15.36%、10月8日涨17.25%（历史最高）。今日涨幅位列历史第三。",
+     "source": "经济观察网",
+     "zh": "创业板指历史第4次单日涨幅达10%，涨幅位列历史第三"
     }
    ]
   },

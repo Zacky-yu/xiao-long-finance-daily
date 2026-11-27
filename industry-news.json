@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 03:12:10",
+ "generated_at": "2026/11/28 03:32:11",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -23,6 +31,14 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -231,22 +247,6 @@
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
-    },
-    {
-     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-     "source": "TechCrunch AI",
-     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
-    },
-    {
-     "title": "SteerSound：迈向更可靠的音频编辑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
-     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
-     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
-     "source": "机器之心",
-     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Penguin Revives Retired DDR4 for AI Servers",
+     "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+     "pubDate": "Fri, 27 Nov 2026 19:17:00 +0000",
+     "summary": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The post Penguin Revives Retired DDR4 for AI Servers appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Penguin Revives Retired DDR4 for AI Servers"
+    },
     {
      "title": "Tekscend sees mold supply as key hurdle for AR glasses production",
      "link": "https://www.digitimes.com/news/a20261120VL222/nanoimprint-component-ar-glasses-production-manufacturing.html",
@@ -449,14 +457,6 @@
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "EU Rules Bring New Safety Requirements for Farm Robots",
-     "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
-     "pubDate": "Thu, 26 Nov 2026 08:55:48 +0000",
-     "summary": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery. The post EU Rules Bring New Safety Requirements for Farm Robots appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "EU Rules Bring New Safety Requirements for Farm Robots"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "The ‘Iron’ age: XPeng prepares for mass production of its humanoid robot",
+     "link": "https://roboticsandautomationnews.com/2026/11/27/the-iron-age-xpeng-prepares-for-mass-production-of-its-humanoid-robot/107831/",
+     "pubDate": "Fri, 27 Nov 2026 19:14:21 +0000",
+     "summary": "For a company that made its name manufacturing intelligent electric vehicles, the prospect of producing a humanoid robot every two and a half minutes represents a remarkable evolution of its industrial ambitions. And that is precisely what Chinese technology company XPeng is working towards. At its ",
+     "source": "Robotics & Automation",
+     "zh": "The ‘Iron’ age: XPeng prepares for mass production of its humanoid robot"
+    },
+    {
      "title": "Robbyant open-sources AI models to improve robotic navigation and spatial memory",
      "link": "https://roboticsandautomationnews.com/2026/11/27/robbyant-open-sources-ai-models-to-improve-robotic-navigation-and-spatial-memory/107827/",
      "pubDate": "Fri, 27 Nov 2026 18:59:42 +0000",
@@ -543,14 +551,6 @@
      "summary": "A robotic packing line can continue operating even if a separate digital display showing its output stops updating. The machinery remains productive, but supervisors may lose access to the information they use to coordinate packing, pallet collection and dispatch. That makes the computer behind the ",
      "source": "Robotics & Automation",
      "zh": "Keeping digital signage reliable in automated manufacturing environments"
-    },
-    {
-     "title": "Why Windshield Accuracy Matters in Vehicles With ADAS",
-     "link": "https://roboticsandautomationnews.com/2026/11/27/why-windshield-accuracy-matters-in-vehicles-with-adas/107808/",
-     "pubDate": "Fri, 27 Nov 2026 14:12:02 +0000",
-     "summary": "A windshield does more than protect you from wind, rain, and road debris. In many modern cars, it also helps safety systems monitor the road. These cars have cameras mounted behind the windshield that help detect vehicles, pedestrians, and road markings. The cameras need a clear view of the road to ",
-     "source": "Robotics & Automation",
-     "zh": "Why Windshield Accuracy Matters in Vehicles With ADAS"
     },
     {
      "title": "GXO doubling down on robotics in 2027",
@@ -641,6 +641,14 @@
    "total": 5,
    "items": [
     {
+     "title": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery",
+     "link": "https://electrek.co/2026/11/27/worlds-largest-electric-bulk-cargo-shop-packs-massive-23-5-mwh-battery/",
+     "pubDate": "Fri, 27 Nov 2026 19:22:01 +0000",
+     "summary": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a number of unique problems – but if the new BRF Froan bulk carrier proves anything, it’s that battery size isn’t one of them. The new electric cargo ship is packing an impossib",
+     "source": "Electrek",
+     "zh": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery"
+    },
+    {
      "title": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more",
      "link": "https://electrek.co/2026/11/27/velotric-final-black-friday-phase-e-bike-lows-ego-8-inch-cordless-auger-greenworks-snow-blowers-more/",
      "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
@@ -679,14 +687,6 @@
      "summary": "Used Cybertruck prices are up 10 to 15% in the month since Tesla announced it would end production of its electric pickup, according to listing data from CarGurus and Visor. Some dealers are pushing it much further. One in New Jersey now wants $150,790 for a used Cyberbeast, about $36,000 more than ",
      "source": "Electrek",
      "zh": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K"
-    },
-    {
-     "title": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more",
-     "link": "https://electrek.co/2026/11/27/ego-power-nexus-1400w-portable-inverter-generator-matter-outdoor-smart-plug-more/",
-     "pubDate": "Fri, 27 Nov 2026 16:16:03 +0000",
-     "summary": "There’s still time to score major deals during Amazon’s Black Friday Sale and countless other sales across all kinds of brands, and for the few we’ve rounded up here, there’s so much more waiting for you in our Black Friday Green Deals hub here . Below, you can find the EGO Nexus 1,400W Portable Inv",
-     "source": "Electrek",
-     "zh": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more"
     },
     {
      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "pCloud confirms password manager hack after suspicious login alerts",
+     "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+     "pubDate": "Fri, 27 Nov 2026 14:26:04 -0500",
+     "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+     "source": "BleepingComputer",
+     "zh": "pCloud confirms password manager hack after suspicious login alerts"
+    },
+    {
      "title": "New Boston Scientific data breach exposes personal, medical info",
      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
      "pubDate": "Fri, 27 Nov 2026 13:57:42 -0500",
@@ -1607,14 +1615,6 @@
      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.code",
      "source": "The Hacker News",
      "zh": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
-    },
-    {
-     "title": "Microsoft removes WSUS server role in Windows Server 2028",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-     "pubDate": "Fri, 27 Nov 2026 06:18:36 -0500",
-     "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft removes WSUS server role in Windows Server 2028"
     },
     {
      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
@@ -1745,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
+     "link": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 19:07:28 +0000",
+     "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
+     "source": "WIRED",
+     "zh": "Black Friday Mattress Deals: Get Up to 55% Off (2026)"
+    },
+    {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
      "link": "https://www.techmeme.com/261127/p12#a261127p12",
      "pubDate": "Fri, 27 Nov 2026 13:57:47 -0500",
@@ -1772,7 +1780,7 @@
      "title": "The NFL Player Who Left Football for Math",
      "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
      "pubDate": "Fri, 27 Nov 2026 18:17:20 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html Comments URL: https://news.ycombinator.com/item?id=50669963 Points: 9 # Comments: 3",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html Comments URL: https://news.ycombinator.com/item?id=50669963 Points: 10 # Comments: 4",
      "source": "Hacker News",
      "zh": "The NFL Player Who Left Football for Math"
     },
@@ -1796,7 +1804,7 @@
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "link": "https://github.com/convex/convex-backend-skill/issues/64",
      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 23 # Comments: 2",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 37 # Comments: 6",
      "source": "Hacker News",
      "zh": "Convex skills send the user's app idea to a remote server without telling them"
     },
@@ -1804,7 +1812,7 @@
      "title": "I'm Scared of AI",
      "link": "https://thesoapbox.email/archive/3",
      "pubDate": "Fri, 27 Nov 2026 17:45:31 +0000",
-     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 138 # Comments: 139",
+     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 149 # Comments: 151",
      "source": "Hacker News",
      "zh": "I'm Scared of AI"
     },
@@ -1836,7 +1844,7 @@
      "title": "Palliative Care for the Chronically Online",
      "link": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
      "pubDate": "Fri, 27 Nov 2026 17:01:51 +0000",
-     "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 28 # Comments: 9",
+     "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 32 # Comments: 10",
      "source": "Hacker News",
      "zh": "Palliative Care for the Chronically Online"
     },
@@ -1916,7 +1924,7 @@
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 177 # Comments: 104",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 190 # Comments: 112",
      "source": "Hacker News",
      "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
     },
@@ -1932,7 +1940,7 @@
      "title": "False computer-checked proofs",
      "link": "https://cr.yp.to/proofs/falseccp.html",
      "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 105 # Comments: 42",
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 107 # Comments: 45",
      "source": "Hacker News",
      "zh": "False computer-checked proofs"
     },
@@ -1975,14 +1983,6 @@
      "summary": "IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展。 广汽能源表示，截至 2026 年 11 月， 在补能网络建设上，广汽自营充电网络已覆盖 31 个省级行政区、240 个城市，自营充电站达 2563 座、自营充电桩突破 3.3 万根 。 广汽能源同时透露，公司目标到 2027 年底补能网络覆盖 300 个城市、2030 年构建十万充电终端的生态网。加速在县域、高速沿线及北方高寒地区布局，并推进兆瓦级 10C 超充桩升级。",
      "source": "IT之家",
      "zh": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市"
-    },
-    {
-     "title": "恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌",
-     "link": "https://www.ithome.com/1/033/767.htm",
-     "pubDate": "Fri, 27 Nov 2026 14:38:10 GMT",
-     "summary": "IT之家 11 月 27 日消息，恒大汽车今日在港交所发布公告称，公司于 2026 年 11 月 27 日接获联交所函件，联交所上市委员会已决定根据上市规则第 6.01A (1) 条取消公司上市地位， 原因是公司未能于 2026 年 9 月 30 日的复牌截止时间达成所有复牌指引。 根据上市规则第 2B 章，恒大汽车有权在除牌决定发出日期起计七个营业日内，将决定提交上市复核委员会复核。若公司决定不申请复核，股份的最后上市日期为 2026 年 12 月 11 日， 上市地位将自 2026 年 12 月 14 日上午 9 时起取消。 公告称，董事会正征询顾问意见，并考虑是否提出请求，将除牌决定提交",
-     "source": "IT之家",
-     "zh": "恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌"
     }
    ]
   },
@@ -1992,6 +1992,46 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans",
+     "link": "https://9to5google.com/2026/11/27/the-oneplus-coloros-17-update-is-proving-to-be-a-disappointment-for-fans/",
+     "pubDate": "Fri, 27 Nov 2026 19:27:57 +0000",
+     "summary": "As OxygenOS is slowly being replaced by ColorOS on OnePlus devices, long-time OnePlus fans are expressing their disappointment with several missing OnePlus features. more…",
+     "source": "9to5Google",
+     "zh": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans"
+    },
+    {
+     "title": "LineageOS 24 PC port brings Android 17 to your spare laptop",
+     "link": "https://www.androidauthority.com/lineageos-pc-port-3741004/",
+     "pubDate": "Fri, 27 Nov 2026 19:26:29 +0000",
+     "summary": "This project might just be the cure for Googlebook envy.",
+     "source": "Android Authority",
+     "zh": "LineageOS 24 PC port brings Android 17 to your spare laptop"
+    },
+    {
+     "title": "Apple TV unveils major new sci-fi series that’s coming soon",
+     "link": "https://9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon/",
+     "pubDate": "Fri, 27 Nov 2026 19:22:45 +0000",
+     "summary": "Apple TV ( only $6.99/month for Black Friday ) is about to debut its next major sci-fi series: Neuromancer. A recent behind-the-scenes piece reveals new details on what could be the streamer’s next Severance or Pluribus-sized hit. more…",
+     "source": "9to5Mac",
+     "zh": "Apple TV unveils major new sci-fi series that’s coming soon"
+    },
+    {
+     "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8",
+     "link": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
+     "pubDate": "Fri, 27 Nov 2026 19:15:00 +0000",
+     "summary": "For a phone that heavily tested my patience in the first few weeks, the Galaxy Z Fold 8 has become an all-time favorite. more…",
+     "source": "9to5Google",
+     "zh": "I’m so glad I didn’t give up on the Galaxy Z Fold 8"
+    },
+    {
+     "title": "Review: The Alexa Tablet 12 Pro is Amazon’s first iPad alternative I actually want to use",
+     "link": "https://9to5google.com/2026/11/27/amazon-alexa-tablet-12-pro-review/",
+     "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
+     "summary": "I knew Amazon’s new flagship tablet was different when I found myself actually reaching for it. Of course, you might be saying, that’s the job of a reviewer: to use the device throughout your daily life and let people know the good, the bad, and the ugly. But with the Alexa Tablet 12 Pro, I wasn’t j",
+     "source": "9to5Google",
+     "zh": "Review: The Alexa Tablet 12 Pro is Amazon’s first iPad alternative I actually want to use"
+    },
     {
      "title": "Black Friday 2026: photo gear and software deals that are actually worth checking out",
      "link": "https://www.dpreview.com/news/black-friday-2026-photo-gear-and-software-deals-that-are-actually-worth-checking-out/",
@@ -2065,14 +2105,6 @@
      "zh": "Here are the best Black Friday iPad deals"
     },
     {
-     "title": "Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems",
-     "link": "https://9to5google.com/2026/11/27/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems/",
-     "pubDate": "Fri, 27 Nov 2026 17:57:35 +0000",
-     "summary": "Black Friday is one of the best times of the year to tackle some of the bigger upgrades around your...",
-     "source": "9to5Google",
-     "zh": "Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems"
-    },
-    {
      "title": "Three new iPhones will launch early next year, here’s what’s coming",
      "link": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
      "pubDate": "Fri, 27 Nov 2026 17:57:23 +0000",
@@ -2087,14 +2119,6 @@
      "summary": "Soundcore's budget Google TV projector with flip-out speakers is $120 off ahead of Black Friday.",
      "source": "Android Authority",
      "zh": "Soundcore Nebula P1i projector drops to a record-low $279"
-    },
-    {
-     "title": "TCL NXTPAPER displays look amazing, and they’re up to 38% off right now",
-     "link": "https://9to5google.com/2026/11/27/tcl-nxtpaper-black-friday-sale-2026/",
-     "pubDate": "Fri, 27 Nov 2026 17:13:55 +0000",
-     "summary": "TCL’s Black Friday deals are making the company’s most affordable NXTPAPER phones and tablets an even better price. more…",
-     "source": "9to5Google",
-     "zh": "TCL NXTPAPER displays look amazing, and they’re up to 38% off right now"
     },
     {
      "title": "Deal: Amazon increases its Black Friday discounts for the Galaxy S26, S26+ and S26 Ultra",
@@ -2121,28 +2145,12 @@
      "zh": "Ecovacs Deebot X12 OmniCyclone robot vacuum is 50% off"
     },
     {
-     "title": "Black Friday deals: Galaxy Z Fold 8 at least $450 off, Echo smart displays $100 off, Pixel Watch 5 $115 off, more",
-     "link": "https://9to5google.com/2026/11/27/black-friday-deals-fold-8-echo-smart-display-pixel-watch-5/",
-     "pubDate": "Fri, 27 Nov 2026 16:57:55 +0000",
-     "summary": "The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as much as $115 off Pixel Watch 5 models, and the best price ever on Google Home Speaker . We also have Galaxy Z Fold 8 at a giant $450 off the list price (or even lower for some users directly at Samsung ), the Echo Show smart display lineu",
-     "source": "9to5Google",
-     "zh": "Black Friday deals: Galaxy Z Fold 8 at least $450 off, Echo smart displays $100 off, Pixel Watch 5 $115 off, more"
-    },
-    {
      "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
      "link": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
      "pubDate": "Fri, 27 Nov 2026 16:55:43 +0000",
      "summary": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
      "source": "Engadget",
      "zh": "Hackers reportedly infiltrated the Air Force's cloud systems"
-    },
-    {
-     "title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
-     "link": "https://9to5mac.com/2026/11/27/macos-27-3-adds-three-new-features-to-your-mac-heres-whats-coming/",
-     "pubDate": "Fri, 27 Nov 2026 16:53:06 +0000",
-     "summary": "macOS 27.3 is launching next month alongside iOS 27.3 and more, and it includes a variety of new features for Mac users. Here are three macOS 27.3 features coming soon. more…",
-     "source": "9to5Mac",
-     "zh": "macOS 27.3 adds three new Mac features, here’s what’s coming"
     },
     {
      "title": "5 Costco Electronics With Deep Discounts For Black Friday 2026",
@@ -2175,14 +2183,6 @@
      "summary": "Users will be able to buy the travel eSIM service directly through WhatsApp.",
      "source": "Engadget",
      "zh": "WhatsApp adds support for travel eSIMs"
-    },
-    {
-     "title": "Hisense U7 Mini-LED TV hits a record low with $700 off",
-     "link": "https://www.androidauthority.com/hisense-65-inch-u7-black-friday-deal-3740954/",
-     "pubDate": "Fri, 27 Nov 2026 16:19:32 +0000",
-     "summary": "The 65-inch Hisense U7 Mini-LED TV is 47% off, its lowest price yet, with a 165Hz panel and up to 3,000 nits.",
-     "source": "Android Authority",
-     "zh": "Hisense U7 Mini-LED TV hits a record low with $700 off"
     },
     {
      "title": "ChatGPT for Android could soon make calls and send texts",
@@ -2241,6 +2241,110 @@
    "total": 13,
    "items": [
     {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
+    },
+    {
+     "title": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942125682.html",
+     "pubDate": "Sat, 28 Nov 2026 03:21:46 +0800",
+     "summary": "美股经历此前的下跌后，投资者风险偏好回升， Anthropic 随大盘走高，重新站上83美元的发行价。 截至收盘， Anthropic （股票代码：ANT）股价报91.88美元，较前一交易日上涨10.98%，结束了连续两个交易日收于83美元发行价下方的局面，本周累涨3.34%。 这也意味着，这家上周刚创下首次公开募股（IPO）募资纪录的 人工智能 （AI）公司，成功以反弹结束其在 纳斯达克 上市后的首个完整交易周。 在 Anthropic 上市之前，市场对AI支出增长速度的担忧就已引发科技股震荡。先前，Anthropic已承诺，到2045年累计支出近9010亿美元。 黄仁勋本周早些时候重回 英",
+     "source": "东方财富股票",
+     "zh": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价"
+    },
+    {
+     "title": "从铝市场逼空到LME紧急干预：一场库存危机如何将交易所推向险境？",
+     "link": "https://wallstreetcn.com/articles/3786875",
+     "pubDate": "Sat, 28 Nov 2026 03:20:24 +0800",
+     "summary": "一场历史性的供应逼空正再度将伦敦金属交易所（LME）推向信任危机。 现货价格远高于期货、可用库存降至1990年以来最低，持有空头头寸的铝产业链企业承受数十年来最陡的展期成本。在实物用户密集施压后，LME本周紧急修改规则，试图遏制大型交易商对市场的挤压。 据彭博援引知情人士透露， LME本周二宣布缩短新冶炼厂注册交割的等待期，并批准印尼PT Hua Chin Aluminum Indonesia的金属自下周起交割；当日午后另一份通知进一步收紧大额持仓规则。 消息落地后一分钟内，市场最关注的现货对三个月期货价差从每吨400美元骤降至67美元。 不过，干预效果尚待观察。 价差在周四和周五重新走阔，尽",
+     "source": "华尔街见闻",
+     "zh": "从铝市场逼空到LME紧急干预：一场库存危机如何将交易所推向险境？"
+    },
+    {
+     "title": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费",
+     "link": "https://wallstreetcn.com/articles/3786876",
+     "pubDate": "Sat, 28 Nov 2026 03:20:13 +0800",
+     "summary": "美国最重要的购物季以低迷姿态拉开帷幕。消费者普遍压缩支出、精简礼品清单，部分门店员工数量甚至超过顾客。尽管折扣力度依然可观，但价格基数上移与消费心态趋谨，使得今年黑色星期五的气氛明显不及往年。 据彭博，购物中心客流稀疏，零售商感受到明显压力。 纽约曼哈顿一家豪华购物中心内，安保人员数量多于顾客；纽约郊区多处购物中心停车位充裕；一名在芝加哥沃尔玛购物的消费者表示，她今年的节日预算从2000美元直接腰斩至1000美元。 全美零售联合会（NRF）数据显示， 自疫情结束以来，今年假日购物周末的到场消费者人数预计将首次出现下滑，提前开启的分散促销活动令消费者在感恩节前便已分流。 尽管如此， 价格上涨与更",
+     "source": "华尔街见闻",
+     "zh": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费"
+    },
+    {
+     "title": "日本烟草大涨！市场押注其与奥驰亚联手收购并分拆帝国品牌",
+     "link": "https://wallstreetcn.com/articles/3786874",
+     "pubDate": "Sat, 28 Nov 2026 03:20:03 +0800",
+     "summary": "日本烟草股价近日表现亮眼。 市场押注该公司将与奥驰亚（Altria）联手，收购并拆分英国卷烟制造商帝国品牌（Imperial Brands）。 据 华尔街见闻此前文章 ，奥驰亚此前一天表示，正在考虑以全现金方式竞购帝国品牌，并已就收购其中部分业务与另一方展开讨论。据彭博报道，日本烟草正在评估与合作伙伴共同收购的方案。 帝国品牌表示尚未收到任何收购接洽，但会考虑任何提案。Jefferies 的 Andon-Ionita 认为，鉴于其关键美国业务和德国业务面临挑战，帝国品牌股东可能愿意接受市盈率高于过去五年 12 个月峰值 9.6 倍的报价。 这笔交易可能拉开烟草行业一轮大规模整合的序幕。随着许多",
+     "source": "华尔街见闻",
+     "zh": "日本烟草大涨！市场押注其与奥驰亚联手收购并分拆帝国品牌"
+    },
+    {
+     "title": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带",
+     "link": "https://wallstreetcn.com/articles/3786871",
+     "pubDate": "Sat, 28 Nov 2026 03:19:50 +0800",
+     "summary": "美国年度最大购物季已经拉开帷幕，但消费分化正在加剧：高收入家庭计划增加节日支出，近半数低收入家庭却准备削减开销，K型消费格局正成为今年黑色星期五的主线。 据高盛零售分析师Brooke Roach团队对约1000名消费者的调查， 年收入10万美元及以上的家庭中，50%计划增加节日消费，高于去年的44%；年收入低于5万美元的家庭中，48%预计削减支出，也高于去年的46%。分析师指出，消费乐观情绪仍集中在高收入群体，中低收入家庭则更加谨慎。 与此同时，全美零售联合会（NRF）与Prosper Insights & Analytics预计，今年感恩节购物周末将吸引1.827亿消费者，较去年下降约2%。",
+     "source": "华尔街见闻",
+     "zh": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带"
+    },
+    {
+     "title": "祁星：ESG 话语权逐步转向定价权，绿色与转型金融将协同助力产业转型",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942125534.html",
+     "pubDate": "Sat, 28 Nov 2026 03:19:32 +0800",
+     "summary": "中信建投 证券股份有限公司ESG及绿色金融首席分析师祁星表示，资本市场层面所有与ESG相关的问题，都可以归结为标准与收益两大方向。“只要把标准设明白，把收益验清楚，很多核心矛盾和市场上的困惑可能也就迎刃而解了。” 在ESG标准方面，祁星提出，ESG投入是投资还是成本，取决于“怎么做”和“怎么说”。企业要聚焦实质性议题开展实践，同时依托监管披露规则做好价值传递。证监会指导沪深北交易所发布的《上市公司可持续发展报告编制指南》为企业划定披露规范，将推动ESG披露提质。 在收益方面，祁星援引MSCI（ 明晟 公司）研究数据表示，2022年之前，在同行业中，ESG评级越高的公司，其竞争力、利润率和分红也",
+     "source": "东方财富股票",
+     "zh": "祁星：ESG 话语权逐步转向定价权，绿色与转型金融将协同助力产业转型"
+    },
+    {
+     "title": "英国就业和养老金部发生严重网络安全事件",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942124890.html",
+     "pubDate": "Sat, 28 Nov 2026 03:17:05 +0800",
+     "summary": "当地时间11月27日，英国就业和 养老金 大臣帕特·麦克法登表示，该部门发生一起严重 网络安全 事件，目前尚无证据表明有人员的个人信息遭泄露，相关调查仍在进行中。 在被问及此次事件是否属于恶意网络攻击时，麦克法登表示，现阶段无法透露更多信息。 英国就业和 养老金 部当天发表声明称，作为预防措施， 该部门已暂停部分在线服务 ，并正与英国国家 网络安全 中心及政府网络协调中心展开联合调查。 养老金 及社会福利金的正常发放不受影响。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "英国就业和养老金部发生严重网络安全事件"
+    },
+    {
+     "title": "王振：ESG从成本变成价值，必须可验证、可比较、可转译",
+     "link": "http://finance.eastmoney.com/news/1378,202611283942125265.html",
+     "pubDate": "Sat, 28 Nov 2026 03:16:31 +0800",
+     "summary": "“ESG要从成本变成价值，必须过三道关——可验证、可比较、可转译。不可验证就是宣传，不可比较就无法定价，不能转译成现金流和资本成本，就进不了投资决策。”国际资本市场协会CFC 教育 认证中心负责人王振表示。 一家企业的ESG表现，要通过什么路径，才能真正转化为资本市场给出的估值和融资条件？王振的回答是：“定价不是一次性‘贴标签’，而是一条五步传导链。” “披露解决‘有没有’，鉴证解决‘信不信’，分析解决‘好不好’，资本转译解决‘值多少’；只有走到第五步，ESG才真正进入估值和融资环节。”王振表示，全球平均意义上的绿色溢价正在收窄，因此不能把定价前景全押在标签溢价上，真正的支撑是底色的可信度。 ",
+     "source": "东方财富股票",
+     "zh": "王振：ESG从成本变成价值，必须可验证、可比较、可转译"
+    },
+    {
+     "title": "追短剧“上头”，大脑真的会变笨吗？",
+     "link": "http://finance.eastmoney.com/news/1348,202611283942125790.html",
+     "pubDate": "Sat, 28 Nov 2026 03:15:33 +0800",
+     "summary": "《中国网络视听发展研究报告（2026）》显示，截至去年底，微短剧应用人均单日使用时长达129分钟。不少人感叹，追短剧太“上头”，但过后又会感到格外空虚，记忆力和注意力明显下滑。 那么，人们刷短剧为什么会停不下来？刷短剧真的会让人变笨吗？ 追短剧会变笨吗？ 专家介绍，短剧的叙事设计里藏着两层心理机制—— 一方面，短剧依靠高密度反转剧情，用间歇性、脉冲式的刺激，持续拉动多巴胺分泌，不断勾起观众的期待； 另一方面，短剧抓住人们的情感诉求与自我实现的渴望，虚构出与现实生活截然相反的世界，用幻想提供情绪抚慰。 中国科学院计算技术研究所研究员张语轩介绍，短剧有两个特点，一是跟事实相反，它的爽感便来自于此；",
+     "source": "东方财富股票",
+     "zh": "追短剧“上头”，大脑真的会变笨吗？"
+    },
+    {
+     "title": "利好来了！广东重要发布→",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942125840.html",
+     "pubDate": "Sat, 28 Nov 2026 03:15:27 +0800",
+     "summary": "11月26日，广东省政务服务和数据管理局、广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。 规划提出，到2028年，广东算力发展取得重要阶段性成效，智算规模突破1000 EFlops（FP16），全省 数据中心 绿电使用占比超80%，新建大型及以上 数据中心 电能利用效率（PUE）小于1.2，存量 数据中心 能效显著提升，绿色低碳发展达到全国先进水平，边缘智算深入推进，算力设施建设布局持续优化，算力网络时延进一步降低，数算电网一体化协同建设水平显著提升，基本建成国际一流、国内领先的算力高地。 统筹算力设施布局 强化算力高效供给 深度融入国家“ 东数西算 ”工程战略布局，全面提升韶关",
+     "source": "东方财富股票",
+     "zh": "利好来了！广东重要发布→"
+    },
+    {
+     "title": "Energy Fuels gains 11% as peers and the broader market rise",
+     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
+    },
+    {
      "title": "FuelCell Energy climbs 8% alongside broad market rally",
      "link": "https://seekingalpha.com/news/4677101-fuelcell-energy-climbs-8-percent-alongside-broad-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:08:46 -0500",
@@ -2265,84 +2369,12 @@
      "zh": "Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday"
     },
     {
-     "title": "消息人士称 依视路陆逊梯卡目标收购阿玛尼2%至3%的股权",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942123918.html",
-     "pubDate": "Sat, 28 Nov 2026 02:59:10 +0800",
-     "summary": "消息人士称，依视路陆逊梯卡（EssilorLuxottica）目标收购阿玛尼2%至3%的股权。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "消息人士称 依视路陆逊梯卡目标收购阿玛尼2%至3%的股权"
-    },
-    {
-     "title": "Phillips 66 shares uptick after eight-session losing streak",
-     "link": "https://seekingalpha.com/news/4677099-phillips-66-shares-uptick-after-eight-session-losing-streak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 13:56:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Phillips 66 shares uptick after eight-session losing streak"
-    },
-    {
-     "title": "刘倩：产品始终是ESG在企业的第一现场",
-     "link": "http://finance.eastmoney.com/news/1348,202611283942124139.html",
-     "pubDate": "Sat, 28 Nov 2026 02:55:25 +0800",
-     "summary": "中央财经大学可持续发展国际研究中心主任刘倩表示，产品材料选择影响产品的环境表现；设计创新影响能源和资源效率；生产工艺影响成本和质量；数字档案连接使用和回收；可信信息进入客户选择、主体信用和国际资产流通。 全球ESG市场规则主要有五大变化：一是数字产品护照开始把守市场准入；二是供应链责任形成企业管理、产品尽调、市场禁令三层约束；三是转型披露从“有没有”走向“讲得够不够细”；四是绿色用电从“一年算总账”走向“每个小时对得上”；五是碳排放从“环境账”变成“成本账”。 结合上述五个变化来看，刘倩认为，信息看得见，靠全生命周期的数据；来源查得清，靠每一环的履责记录；转型讲得明，靠可检验的行动和结果；绿电",
-     "source": "东方财富股票",
-     "zh": "刘倩：产品始终是ESG在企业的第一现场"
-    },
-    {
      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 18:53:00 GMT",
      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
      "source": "MarketWatch",
      "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "新松机器人前三季度增收不增利",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942124069.html",
-     "pubDate": "Sat, 28 Nov 2026 02:52:25 +0800",
-     "summary": "近日，沈阳新松 机器人 自动化股份有限公司（以下简称“新松 机器人 ”，300024.SZ）披露2026年第三季度报告。数据显示，公司前三季度实现营业收入24.37亿元，同比增长9.87%，其中第三季度单季营收达9.86亿元，同比大幅增长76.60%，创下近两年单季增速新高。与营收端回暖形成反差的是，公司前三季度归母净利润为-3.18亿元，亏损幅度同比扩大近1倍，扣非净亏损达3.61亿元。公司增收不增利引发市场关注。 围绕三季报披露的营收结构、存货规模、研发投入等核心议题，《中国经营报》记者向新松 机器人 发送采访函。公司书面回复称，三季度营收增长主要源自海外项目验收节奏提速与 半导体 装备业",
-     "source": "东方财富股票",
-     "zh": "新松机器人前三季度增收不增利"
-    },
-    {
-     "title": "Tech rally sends D-Wave Quantum higher by 10%",
-     "link": "https://seekingalpha.com/news/4677100-tech-rally-sends-d-wave-quantum-higher-by-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 13:51:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tech rally sends D-Wave Quantum higher by 10%"
-    },
-    {
-     "title": "XPENG launches five new vehicle models, megawatt charging infrastructure",
-     "link": "https://seekingalpha.com/news/4677083-xpeng-launches-five-new-vehicle-models-megawatt-charging-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 13:49:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "XPENG launches five new vehicle models, megawatt charging infrastructure"
-    },
-    {
-     "title": "汉嘉数智“倒手”伏泰科技",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942123641.html",
-     "pubDate": "Sat, 28 Nov 2026 02:49:14 +0800",
-     "summary": "一年前还是数字化转型的主角，两年后就成了被摆上货架的资产。近期， 汉嘉数智 科技集团股份有限公司（以下简称“ 汉嘉数智 ”，300746.SZ）董事会审议通过重大资产出售议案，拟将控股子公司苏州市伏泰信息科技股份有限公司（以下简称“伏泰科技”）16%的股份作价1.73亿元对外转让，持股比例由51%降至35%，伏泰科技自此退出 汉嘉数智 合并报表。此时，距离汉嘉数智2024年11月豪掷5.81亿元现金将其收入囊中，恰好两年。一买一卖之间，公司最新披露的2026年三季报显示，前三季度汉嘉数智营业总收入为7.29亿元，同比下滑18.54%；归母净利润为1130.17万元，同比下滑55.44%。 《中",
-     "source": "东方财富股票",
-     "zh": "汉嘉数智“倒手”伏泰科技"
-    },
-    {
-     "title": "AI热提振美股 标普500指数创下2025年4月以来最大单周涨幅",
-     "link": "http://finance.eastmoney.com/news/1360,202611283942123824.html",
-     "pubDate": "Sat, 28 Nov 2026 02:48:28 +0800",
-     "summary": "美国股市以上涨为华尔街动荡的一周划上了句号， 人工智能 交易反弹加速，降低了投资者对美国国债和避险货币的需求。 人工智能 热的重燃拉动一度走到熊市边缘的 纳斯达克 100指数上涨了2.6%。标普500指数则交出了2025年4月以来最强单周表现。感恩节次日美国股市提前收盘。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "AI热提振美股 标普500指数创下2025年4月以来最大单周涨幅"
-    },
-    {
-     "title": "江苏常州春秋淹城牵手万岁山 爆款文旅模式异地复制要过几道坎？",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942123731.html",
-     "pubDate": "Sat, 28 Nov 2026 02:46:31 +0800",
-     "summary": "中经记者郭阳琛石英婧上海报道 “一天不到20元，三天随时进出，白天逛淹城遗址，晚上看乐园夜场演出，朋友圈都刷屏了。”2026年11月中旬以来，江苏省多地中小学生陆续放秋假，万岁山（常州）淹城乐园一改往日常态，变得人山人海，常州当地居民李丽（化名）带家人游玩后感慨道。 坐拥国内保存最完整的春秋古城遗址，位于江苏省常州市武进区的春秋淹城旅游区是国家5A级旅游景区。不过，在文旅市场竞争加剧背景下，该景区核心淹城春秋乐园逐渐显现出内容陈旧、游客留不住、二次消费薄弱等问题。为此，当地不远千里引进了擅长打造实景演艺、自带流量的河南省万岁山旅游文化有限公司（以下简称“万岁山”）。 今年10月底，淹城春秋乐园",
-     "source": "东方财富股票",
-     "zh": "江苏常州春秋淹城牵手万岁山 爆款文旅模式异地复制要过几道坎？"
     },
     {
      "title": "The warnings behind this week’s stock-market rally",
@@ -2447,38 +2479,6 @@
      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
      "source": "Financial Times",
      "zh": "Wave of cyber incidents rattles western economies"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 16:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
-     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-     "source": "CNBC",
-     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 15:45:00 GMT",
-     "summary": "“My wife stopped working outside the home in 1970.”",
-     "source": "MarketWatch",
-     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
-    },
-    {
-     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
-     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
-     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
-     "source": "经济观察网",
-     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 09:31:56",
+ "generated_at": "2026/11/27 09:52:18",
  "recent_days": 7,
  "industries": [
   {
@@ -41,28 +41,12 @@
      "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
     },
     {
-     "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-     "link": "https://www.qbitai.com/2026/11/513021.html",
-     "pubDate": "Thu, 26 Nov 2026 13:56:01 +0000",
-     "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-     "source": "量子位",
-     "zh": "381个AI直播冲刺证明P=NP！把GitHub干崩了"
-    },
-    {
      "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
      "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
      "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
      "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
      "source": "KDnuggets",
      "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
-    },
-    {
-     "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-     "link": "https://www.qbitai.com/2026/11/512981.html",
-     "pubDate": "Thu, 26 Nov 2026 12:39:08 +0000",
-     "summary": "还得是科班尖子生",
-     "source": "量子位",
-     "zh": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用"
     },
     {
      "title": "AI都攻克黎曼猜想了，为什么机器人还拧不好一颗螺丝？",
@@ -89,44 +73,12 @@
      "zh": "QQ音乐，用上决策模型了"
     },
     {
-     "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
-     "link": "https://www.qbitai.com/2026/11/512972.html",
-     "pubDate": "Thu, 26 Nov 2026 10:07:55 +0000",
-     "summary": "全栈方案破解工业机器人连续作业难题",
-     "source": "量子位",
-     "zh": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守"
-    },
-    {
-     "title": "极客公园创新大会 2027 全议程公布！",
-     "link": "https://www.qbitai.com/2026/11/512952.html",
-     "pubDate": "Thu, 26 Nov 2026 08:19:20 +0000",
-     "summary": "今天，IF 2027 全议程揭晓。",
-     "source": "量子位",
-     "zh": "极客公园创新大会 2027 全议程公布！"
-    },
-    {
-     "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-     "link": "https://www.qbitai.com/2026/11/512942.html",
-     "pubDate": "Thu, 26 Nov 2026 07:36:04 +0000",
-     "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-     "source": "量子位",
-     "zh": "报名最后2天｜AI浪潮之中，来认识创造未来的人"
-    },
-    {
      "title": "目标估值2200亿！曝英国AI语音创企寻求新融资",
      "link": "https://zhidx.com/p/614573.html",
      "pubDate": "Thu, 26 Nov 2026 14:45:37 +0800",
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月26日消息，今日，据彭博社援引知情人士消息报道，英国AI语音初创公司ElevenLabs正就新一轮融资展开早期磋商，目标估值 330亿美元（约合人民币2199亿元） 。 知情人士称，该公司计划在 2027年前三个月 正式启动本轮融资。由于相关信息尚未公开，消息人士要求匿名。目前，相关讨论仍处于初步阶段，但已有部分潜在投资方希望进程尽早开启。 拟议中的估值较ElevenLabs今年9月通过员工要约收购达到的 220亿美元（约合人民币1466亿元） 估值 提升了50% ，延续了该公司融资估值以“11的倍数”定价的惯例。据彭博社报道，该公司商业",
      "source": "智东西",
      "zh": "目标估值2200亿！曝英国AI语音创企寻求新融资"
-    },
-    {
-     "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-     "link": "https://www.qbitai.com/2026/11/512916.html",
-     "pubDate": "Thu, 26 Nov 2026 06:41:23 +0000",
-     "summary": "30秒一镜到底，可自动编排镜头",
-     "source": "量子位",
-     "zh": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一"
     },
     {
      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -247,6 +199,54 @@
      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
      "source": "TechCrunch AI",
      "zh": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+    },
+    {
+     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+     "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
+     "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
+    },
+    {
+     "title": "Where scientists draw the line on AI agents",
+     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+     "pubDate": "Wed, 25 Nov 2026 18:52:55 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Where scientists draw the line on AI agents"
+    },
+    {
+     "title": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents",
+     "link": "https://www.kdnuggets.com/2026/11/vibe-coding-for-business-analytics-custom-crm-dashboards-reporting-apps-and-ai-agents",
+     "pubDate": "Wed, 25 Nov 2026 18:00:33 +0000",
+     "summary": "Discover how Alaio Vibecode, an AI app builder for Bitrix24, helps teams create custom CRM analytics dashboards, reporting tools, lead scoring apps, and AI agents.",
+     "source": "KDnuggets",
+     "zh": "Vibe Coding for Business Analytics: Custom CRM Dashboards, Reporting Apps, and AI Agents"
+    },
+    {
+     "title": "Verifiable Social Reasoning for LLM Assistants",
+     "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+     "pubDate": "Wed, 25 Nov 2026 17:10:27 +0000",
+     "summary": "Generative AI",
+     "source": "Google Research",
+     "zh": "Verifiable Social Reasoning for LLM Assistants"
+    },
+    {
+     "title": "Why Data Job Candidates Freeze on Questions They Already Know",
+     "link": "https://www.kdnuggets.com/why-data-job-candidates-freeze-on-questions-they-already-know",
+     "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+     "summary": "Pressure disrupts recall in interviews. Timed mock interviews let you rehearse it.",
+     "source": "KDnuggets",
+     "zh": "Why Data Job Candidates Freeze on Questions They Already Know"
+    },
+    {
+     "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
+     "link": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-security-engineer-in-2026",
+     "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+     "summary": "From cybersecurity foundations to defending machine learning systems, agentic pipelines, and large language model applications.",
+     "source": "KDnuggets",
+     "zh": "The Roadmap to Becoming an AI Security Engineer in 2027"
     }
    ]
   },
@@ -1753,6 +1753,86 @@
    "total": 18,
    "items": [
     {
+     "title": "肯尼亚买量成本涨了三成，是网络环境问题还是平台政策收紧？",
+     "link": "https://www.baijing.cn/question/638992",
+     "pubDate": "Fri, 27 Nov 2026 01:47:35 +0000",
+     "summary": "我们是一款SLG手游，团队8人，主攻非洲市场，尼日利亚和肯尼亚是重点，月买量预算大概1.5万美元。最近一个月肯尼亚的CPI从0.35美元涨到0.46美元，涨幅超30%，但尼日利亚和南非同期基本没动。我们主要投Meta和Google UAC，素材和出价策略都没大改。排查过素材疲劳，换了两轮新素材效果有限；也查过后台归因，没发现明显异常。怀疑跟当地网络环境有关，肯尼亚部分区域4G覆盖不稳定，加载时长偏长可能拉高了跳出率。另外听说Meta近期对部分非洲市场的广告审核和投放政策有调整，不确定是不是这个原因。想问的是：这种情况下，应该先排查网络环境适配问题，还是先确认平台政策变化的影响？判断的优先级怎么",
+     "source": "白鲸出海",
+     "zh": "肯尼亚买量成本涨了三成，是网络环境问题还是平台政策收紧？"
+    },
+    {
+     "title": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售：14.7 英寸 OLED 内屏、麒麟 XE90 芯片",
+     "link": "https://www.ithome.com/1/033/182.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:42:06 GMT",
+     "summary": "IT之家 11 月 27 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日正式开售，定价 14999 元起，叠加国补后 13499 元起。IT之家整理如下： 16GB + 256GB（含键盘 + 内胆包）：14999 元 16GB + 512GB（含键盘 + 内胆包）：16999 元 24GB+ 512GB（含键盘 + 内胆包）：18999 元 32GB + 1TB（含键盘 + 手写笔 + 内胆包）：22999 元 32GB + 1TB（限定套装）：24999 元 折叠键盘：1299 元 官方还推出了 MateBook Fold 非凡大师版本，该版本机型配备 32GB RA",
+     "source": "IT之家",
+     "zh": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售：14.7 英寸 OLED 内屏、麒麟 XE90 芯片"
+    },
+    {
+     "title": "奇瑞全新艾瑞泽 7 预售：标配 1.5T 鲲鹏动力，8.39 万元起",
+     "link": "https://www.ithome.com/1/033/181.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:41:00 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞全新艾瑞泽 7 开启预售，标配 1.5T 鲲鹏动力， 8.39 万元起 。 尊贵型：8.39 万元 旗舰型：9.29 万元 据官方介绍，艾瑞泽 7 是奇瑞“全球化”战略的最新力作，从立项之初即按照全球标准研发。它跳出了“先造好车再做海外适配”的传统路径，直接从第一张图纸切入全球化体系， 围绕全球七十多个国家需求进行同步开发与验证 。 IT之家注意到， 新车全温域验证历经-40℃ 北欧极寒与 50℃ 中东烈日 ，覆盖 10 项极端工况；全路型验证投入近千台实车，完成 120 万公里测试，覆盖 30 多种全球典型路况； 全海",
+     "source": "IT之家",
+     "zh": "奇瑞全新艾瑞泽 7 预售：标配 1.5T 鲲鹏动力，8.39 万元起"
+    },
+    {
+     "title": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
+     "link": "https://www.huxiu.com/article/4908844.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 09:39:36 +0800",
+     "summary": "本文来自微信公众号： 象限Trine ，作者：张恒 11月24日，比亚迪宣布，与英国英力士汽车（INEOS Automotive）就收购法国汉巴赫（Hambach）汽车工厂进入独家谈判。 这座工厂并不普通。它最早由奔驰建设，用于生产Smart品牌汽车，2020年被英力士从奔驰手中收购，目前主要生产Grenadier越野车。工厂位于法国东北部，靠近德国边境，拥有近900名员工。 如果交易最终完成，这将成为比亚迪在西欧的重要制造基地。 值得注意的是，比亚迪并没有选择从零开始建厂，而是直接瞄准一家已经具备汽车生产能力的欧洲工厂。它想要的，不只是厂房和设备，还有当地的产业基础、员工队伍，以及进入欧洲市",
+     "source": "虎嗅",
+     "zh": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场"
+    },
+    {
+     "title": "中国无人出租车的迪拜热战",
+     "link": "https://www.tmtpost.com/8219718.html",
+     "pubDate": "Fri, 27 Nov 2026 09:39:16 +0800",
+     "summary": "中国Robotaxi公司加速布局迪拜，百度萝卜快跑率先落地，推动无人驾驶服务扩展至全球。",
+     "source": "钛媒体",
+     "zh": "中国无人出租车的迪拜热战"
+    },
+    {
+     "title": "小米 HAD 辅助驾驶最新版本 HyperOS 1.20 发布，澎程全系车型即日起全量推送",
+     "link": "https://www.ithome.com/1/033/179.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:36:48 GMT",
+     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展小米汽车发布会上，小米 HAD 最新版本 Xiaomi HyperOS 1.20 正式发布，该版本引入因果链和车端世界模型，号称能像人一样思考，处理更准确。 IT之家从发布会获悉， 小米澎程全系即日开启全量推送 ；第一代 SU7 Pro / Max、 SU7 Ultra，新一代 SU7 全系 / YU7 全系将陆续推送。 李肖爽还宣布，截至 11 月 26 日，小米澎程系列 已交付超 6 万台 。小米澎程 SUV 于 9 月 12 日开启首批交付， 6 万台交付用时两个半月 。 李肖爽表示，在刚刚过去的 10 月，小米澎程的全系都获",
+     "source": "IT之家",
+     "zh": "小米 HAD 辅助驾驶最新版本 HyperOS 1.20 发布，澎程全系车型即日起全量推送"
+    },
+    {
+     "title": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%",
+     "link": "https://www.ithome.com/1/033/178.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:36:34 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 TweakTown 今天（11 月 27 日）报道，11 月 17~19 日在荷兰召开的 2026 图形编程大会上，AMD 展示了 RT-MLAS 光线追踪优化技术，可以降低复杂、重复场景中光线追踪的显存占用，最高降至 13 分之一。 该技术全称为“光线追踪多级加速结构”（RT-MLAS），已作为 VK_AMDX_multi_level_acceleration_structure 扩展纳入 Vulkan 1.4.369 规范。 该功能目前仅面向 AMD RDNA 4 架构显卡开放，涵盖 Radeon RX 9000 系列消费级显卡，以及 Radeo",
+     "source": "IT之家",
+     "zh": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%"
+    },
+    {
+     "title": "理想少赚的30亿去哪了？",
+     "link": "https://www.huxiu.com/article/4908843.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 09:35:36 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 理想三季度亏得比上季度少多了，算是个好消息。 可把时间拉长看，同样是一个季度卖10万辆左右的车，2023年三季度理想在经营上赚了23个亿，今年三季度经营亏损7个亿。 车少卖了五千辆，里外里，差了30个亿。这30个亿，大头出在毛利上。 …… 在我看来，这比三季度亏了多少钱更值得琢磨。 理想三季度净亏3.1亿，不过，咱们今天主要看经营利润，看看理想日常做生意，到底能挣多少钱。 做汽车生意，无非就算两笔账，每卖一辆车能留下多少钱，养这么大一个公司又要花多少钱。 我们把理想前几年的账翻出来看看。 2023年三季度，理想的生意还很好做。L系列三款车撑着，增程",
+     "source": "虎嗅",
+     "zh": "理想少赚的30亿去哪了？"
+    },
+    {
+     "title": "AOC 推出 24G41SE 显示器：23.8\" 小尺寸，FHD 320Hz",
+     "link": "https://www.ithome.com/1/033/177.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:32:38 GMT",
+     "summary": "IT之家 11 月 27 日消息，AOC 本月 24 日在官网上线了 24G41SE 小尺寸电竞显示器。这一型号 基于 23.8\" Fast IPS 面板 ，分辨率 FHD (1920×1080)，原生刷新率 300Hz、超频刷新率 320Hz。 该显示器 亮度可达 400nits ，静态对比度 1000:1；GtG 响应时间 1ms、MPRT 响应时间 0.3ms；色深 8bit，色域 100% sRGB / 92% DCI-P3，sRGB 下色偏（平均值）ΔE＜2；支持硬件低蓝光、可变刷新率。 该显示器提供 1 个 HDMI 2.1 TMDS、1 个 DisplayPort 1.4，另有一",
+     "source": "IT之家",
+     "zh": "AOC 推出 24G41SE 显示器：23.8\" 小尺寸，FHD 320Hz"
+    },
+    {
+     "title": "东风奕派 EP7 广州车展首发亮相：全球首款搭载华为乾崑与宁德时代换电的轿跑",
+     "link": "https://www.ithome.com/1/033/176.htm",
+     "pubDate": "Fri, 27 Nov 2026 01:31:25 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，今日广州车展正式拉开帷幕。在本届车展上，东风奕派旗下全新中大型纯电轿车 EP7 迎来首发亮相，该车是全球首款搭载华为乾崑和宁德时代换电的轿跑。 IT之家注意到，东风奕派 EP7 采用了品牌全新的设计语言，整体造型时尚简约。前脸部分，新车配备封闭式前格栅，搭配星环式灯组，视觉效果极具辨识度。前包围设计动感，并集成主动式进气格栅。 车身侧面，EP7 采用溜背式轿跑设计，线条流畅且富有张力。半隐藏式门把手与双五辐轮圈的组合，既降低了风阻，又增添了运动气息，整车风阻系数 0.203。车身尺寸方面，新车长宽高分别为 4910mm、1930mm、1478mm，轴距 2",
+     "source": "IT之家",
+     "zh": "东风奕派 EP7 广州车展首发亮相：全球首款搭载华为乾崑与宁德时代换电的轿跑"
+    },
+    {
      "title": "TikTok Shop 美国站寄样 200 多位达人只出 9 单，4 人团队该怎么排期筛选？",
      "link": "https://www.baijing.cn/question/638991",
      "pubDate": "Fri, 27 Nov 2026 01:25:16 +0000",
@@ -1801,22 +1881,6 @@
      "zh": "美国年轻人恋爱新观：宁可单身，也不和搞AI 的处对象"
     },
     {
-     "title": "美方欲切断在华DUV维保，荷兰：美国不是ASML的老板",
-     "link": "https://www.huxiu.com/article/4908834.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 09:07:54 +0800",
-     "summary": "本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯浪客剑，原文标题：《美方欲切断在华DUV维保！荷兰：美国不是ASML的老板！》 据彭博社11月26日报道，荷兰政府明确表示，将抵制美国政府拟通过“MATCH”法案进一步限制荷兰光刻机巨头阿斯麦（ASML）对华销售的计划，并将该提案称为对ASML的威胁。荷兰外贸与发展合作大臣舍尔·舍尔茨玛（Sjoerd Sjoerdsma）当地时间周四的议会上表示，荷兰政府反对这项法案的域外管辖效力。 MATCH法案：把盟友绑上美国规则 据了解，《硬件技术管制多边协调法案》（Multilateral Alignment of Technology",
-     "source": "虎嗅",
-     "zh": "美方欲切断在华DUV维保，荷兰：美国不是ASML的老板"
-    },
-    {
-     "title": "广州车展是“最后一次卡位”？慌啥子嘛",
-     "link": "https://www.huxiu.com/article/4908833.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 09:04:39 +0800",
-     "summary": "本文来自微信公众号： BusinessCars ，作者：Roomy 反正，自主品牌杀不死合资，电动车也杀不死燃油车。 特朗普还在频频回味来华之旅，在社交媒体狂晒深圳的图片，特斯拉FSD V15的发布再次触动国内智驾厂商的神经，这些热闹伴随着黄仁勋离任11天就“熹妃回宫”，为广州车展拉开了序曲。 序曲里最冲击眼球的是，是一组很矛盾的数字。 一边是，广州车展展车总数1106辆，其中首发新车115辆、新能源707辆，占比超六成。 可谓是，“千车竞发”。其中，首发新车在广州车展首次跨过百辆门槛，创下近几年的新高，一改往年的“错峰”。 一边是乘联会刚刚发布的11月上半个月销量数据，乘用车零售61.1万辆",
-     "source": "虎嗅",
-     "zh": "广州车展是“最后一次卡位”？慌啥子嘛"
-    },
-    {
      "title": "Edge AI Daily 早报（11月27日）",
      "link": "https://www.tmtpost.com/8219678.html",
      "pubDate": "Fri, 27 Nov 2026 09:00:41 +0800",
@@ -1841,46 +1905,6 @@
      "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
     },
     {
-     "title": "三线齐发，长三角高铁营业里程突破 8500 公里",
-     "link": "https://www.ithome.com/1/033/164.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:54:32 GMT",
-     "summary": "IT之家 11 月 27 日消息，据新华社报道，安徽巢马高铁、淮蚌高铁、淮阜高铁于今天（27 日）开通运营，马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县和利辛县共 5 个县告别不通高铁的历史， 长三角铁路营业里程超 1.58 万公里，高铁里程突破 8500 公里，“轨道上的长三角”再添新动脉 。 三条高铁新建正线约 364.5 公里，设计时速均为 350 公里，是长三角铁路联网补网强链的重要项目。IT之家附各线路连接情况如下： 巢马高铁在巢湖东站连接合杭高铁，在马鞍山东站连接宁安高铁； 淮蚌高铁在淮北北站通过淮萧联络线连接郑徐高铁，在蚌埠南站连接京沪高铁与合蚌高铁，在双堆集站连接淮阜",
-     "source": "IT之家",
-     "zh": "三线齐发，长三角高铁营业里程突破 8500 公里"
-    },
-    {
-     "title": "没外屏的巨型 iPhone Duo：苹果最贵 iPad 曝光，折叠内屏达 19~20 英寸",
-     "link": "https://www.ithome.com/1/033/162.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:49:55 GMT",
-     "summary": "IT之家 11 月 27 日消息，在最新一期 Power On 播客节目中，彭博社的马克 · 古尔曼（Mark Gurman）透露，苹果内部正在推进 Project J312 项目，定位巨型可折叠 iPad， 展开后内屏尺寸达到 19~20 英寸，上市后售价介于 3,000 美元至 5,000 美元 （IT之家注：现汇率约合 20,025 元至 33,375 元人民币） 之间。 外观方面，古尔曼形容是“一个没有外屏的巨型 iPhone Duo”，预估设备不会设置外部辅助屏幕，整体形态将更接近一块可对折的大屏平板。 定位方面，古尔曼称苹果并不打算把它定位为面向普通消费者的常规 iPad，而更可能",
-     "source": "IT之家",
-     "zh": "没外屏的巨型 iPhone Duo：苹果最贵 iPad 曝光，折叠内屏达 19~20 英寸"
-    },
-    {
-     "title": "一张 COF 膜登上《科学》：我国科学家发现反离子限域传质新机制，亚纳米通道实现离子选择性反转",
-     "link": "https://www.ithome.com/1/033/161.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:41:08 GMT",
-     "summary": "IT之家 11 月 27 日消息，今日，中国科学技术大学徐铜文教授、李兴亚特任教授联合安徽大学伍斌副教授团队在《科学》（Science）期刊发表研究，揭示了一种反常识的离子传质现象。 简单来说，当共价有机框架（COF）膜的通道缩小到亚 1 纳米时，原本应传导阴离子的荷正电通道，反而表现出对阳离子的高选择性。研究团队将这一机制命名为“反离子限域（CIC）效应”。 ▲ 图 1.反离子限域（CIC）效应诱导亚纳米 COF 膜通道电荷极性反转 ▲ 图 2.CIC 效应提升 COF 膜混合盐体系中离子分离性能 这一发现直接挑战了膜分离领域的经典 Donnan-Manning 模型。该模型认为，荷正电通道",
-     "source": "IT之家",
-     "zh": "一张 COF 膜登上《科学》：我国科学家发现反离子限域传质新机制，亚纳米通道实现离子选择性反转"
-    },
-    {
-     "title": "小米雷军打卡参观微博总部：账号已开通 16 年，累计发帖超 22000 条",
-     "link": "https://www.ithome.com/1/033/160.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:33:18 GMT",
-     "summary": "IT之家 11 月 27 日消息，小米创始人、董事长兼 CEO 雷军刚刚发文，披露了其前一天前往微博公司参观学习的行程。 他同时在文中回顾了自己在微博平台上的活跃轨迹。据介绍，他开通微博已满 16 年，累计发帖数量超过 22000 条。 雷军在文中向微博平台上的所有朋友表达了感谢。按照 16 年的跨度计算，其账号平均每年发布微博超 1300 条，日均发帖约三至四条。 IT之家注意到，雷军是国内最早将个人社交账号与品牌形象深度绑定的科技企业创始人之一。微博平台自 2009 年上线后，成为小米早期粉丝文化构建与产品营销的核心阵地，高管与用户在评论区的直接互动也是该品牌传播的显著特征。 相关阅读： ",
-     "source": "IT之家",
-     "zh": "小米雷军打卡参观微博总部：账号已开通 16 年，累计发帖超 22000 条"
-    },
-    {
-     "title": "欧洲央行行长拉加德：AI 是帮助欧洲抵御能源危机的因素之一",
-     "link": "https://www.ithome.com/1/033/159.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:32:52 GMT",
-     "summary": "IT之家 11 月 27 日消息，据彭博社报道，欧洲央行行长克里斯蒂娜 · 拉加德认为， AI 是帮助欧洲抵御能源危机的因素之一 。 知情人士透露，当地时间 26 日，拉加德在布鲁塞尔与欧洲各国领导人交流时指出，面对伊朗战争带来的冲击，欧洲经济表现出的韧性 比预期更强 。 拉加德将 AI、能源以及全球长期利率上升列为影响经济前景的三大因素。她指出，长期利率走高部分源于市场预期央行将进一步提高借贷成本，但更主要的推动力来自各国政府和企业大规模发行债券。 知情人士还表示，拉加德还敦促各国领导人确保数字欧元立法工作在 2026 年底前完成。 综合IT之家此前报道，本月早些时候，拉加德警告称，网络攻击",
-     "source": "IT之家",
-     "zh": "欧洲央行行长拉加德：AI 是帮助欧洲抵御能源危机的因素之一"
-    },
-    {
      "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
      "link": "https://www.techmeme.com/261126/p26#a261126p26",
      "pubDate": "Thu, 26 Nov 2026 19:30:01 -0500",
@@ -1889,28 +1913,12 @@
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
     },
     {
-     "title": "笔记本支持合盖休眠，Linux Mint 27 Beta 版开放下载",
-     "link": "https://www.ithome.com/1/033/158.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:23:56 GMT",
-     "summary": "IT之家 11 月 27 日消息，当地时间 26 日，据外媒 Neowin 报道，Linux Mint 27 的首批 Beta 测试镜像现已正式开放下载。新版本代号为 Adrien，基于 Ubuntu 26.04 LTS 打造，Cinnamon、MATE 和 Xfce 三个桌面版本的测试镜像均已获准发布。 对于笔记本用户而言，Linux Mint 27 最值得期待的变化之一是 休眠功能终于回归 ，设置过程更为简便。新版本还带来了几款新应用：系统监控工具、终端模拟器和压缩包管理工具。 IT之家汇总该版本带来的主要变化如下： 睡眠模式 合上笔记本电脑屏幕后，系统通常会进入“挂起”状态。该功能会先将",
-     "source": "IT之家",
-     "zh": "笔记本支持合盖休眠，Linux Mint 27 Beta 版开放下载"
-    },
-    {
      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
      "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
-     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 21 # Comments: 1",
      "source": "Hacker News",
      "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
-    },
-    {
-     "title": "Oakland's $30 minimum wage push advances toward city council vote",
-     "link": "https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/",
-     "pubDate": "Thu, 26 Nov 2026 23:33:34 +0000",
-     "summary": "Article URL: https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/ Comments URL: https://news.ycombinator.com/item?id=50661044 Points: 9 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Oakland's $30 minimum wage push advances toward city council vote"
     },
     {
      "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
@@ -1932,7 +1940,7 @@
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "link": "https://kendell.dev/blog/arkwrapper/",
      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 35 # Comments: 6",
+     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 37 # Comments: 6",
      "source": "Hacker News",
      "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
     },
@@ -1940,7 +1948,7 @@
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 283 # Comments: 152",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 295 # Comments: 157",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1948,9 +1956,17 @@
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 223 # Comments: 45",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 228 # Comments: 47",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
+    },
+    {
+     "title": "Company Culture = Slack Emoji ÷ √Headcount",
+     "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+     "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 81 # Comments: 18",
+     "source": "Hacker News",
+     "zh": "Company Culture = Slack Emoji ÷ √Headcount"
     },
     {
      "title": "Is Alice Huang a spy or not?",
@@ -1972,25 +1988,9 @@
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 34 # Comments: 22",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 35 # Comments: 22",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
-    },
-    {
-     "title": "X finally gets parental controls after 20 years",
-     "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-     "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
-     "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
-     "source": "TechCrunch",
-     "zh": "X finally gets parental controls after 20 years"
-    },
-    {
-     "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
-     "link": "https://www.techmeme.com/261126/p23#a261126p23",
-     "pubDate": "Thu, 26 Nov 2026 13:05:38 -0500",
-     "summary": "CTech : Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems &nbsp; &mdash;&nbsp; The company, spun off from Sony earlier this year, is preparing a new low-power 5G modem for smart glasses, wearable",
-     "source": "Techmeme",
-     "zh": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)"
     }
    ]
   },
@@ -2249,52 +2249,92 @@
    "total": 13,
    "items": [
     {
-     "title": "11月27日港股开盘：恒指高开0.17% 联想集团领涨成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202611273941470529.html",
-     "pubDate": "Fri, 27 Nov 2026 09:23:11 +0800",
-     "summary": "港股11月27日高开，恒生指数开盘报22263.7点，涨36.82点，涨幅0.17%；恒生科技指数开盘报3433.38点，涨16.0点，涨幅0.47%。恒生指数成分股中 联想集团 、 宁德时代 、 九龙仓置业 涨幅居前， 中国神华 、 小米集团-W 、 东方海外国际 跌幅靠前。恒生科技指数成分股中 智谱 、 联想集团 、 MINIMAX-W 涨幅居前， 小米集团-W 、 京东集团-SW 、 腾讯控股 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请",
+     "title": "三力士：截至11月20日最新股东户数4.59万户，较上期增加0.36%",
+     "link": "http://stock.eastmoney.com/news/11111,202611273941483146.html",
+     "pubDate": "Fri, 27 Nov 2026 09:44:38 +0800",
+     "summary": "三力士 最新披露数据显示，截至11月20日公司股东户数为4.59万户，较上期(2026年11月10日) 增加167户，增幅为0.36% 。户均持有流通股数量 为1.76万股， 与上期基本持平， 户均持股金额 由上期的6.10万元减少至5.39万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保",
      "source": "东方财富股票",
-     "zh": "11月27日港股开盘：恒指高开0.17% 联想集团领涨成分股"
+     "zh": "三力士：截至11月20日最新股东户数4.59万户，较上期增加0.36%"
     },
     {
-     "title": "港股开盘：恒生科技指数涨0.47%，恒生指数涨0.17%",
-     "link": "http://finance.eastmoney.com/news/11440,202611273941470276.html",
-     "pubDate": "Fri, 27 Nov 2026 09:22:07 +0800",
-     "summary": "香港恒生指数开盘涨0.17%，恒生科技指数涨0.47%， 智谱 、 联想控股 涨超3%， 中芯国际 、快手涨超1%，小米集团跌超1%。",
+     "title": "韩国财长：有必要全面评估经济与市场之间的风险外溢",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941483342.html",
+     "pubDate": "Fri, 27 Nov 2026 09:43:06 +0800",
+     "summary": "韩国财长：有必要全面评估经济与市场之间的风险外溢。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "港股开盘：恒生科技指数涨0.47%，恒生指数涨0.17%"
+     "zh": "韩国财长：有必要全面评估经济与市场之间的风险外溢"
     },
     {
-     "title": "恒指开盘涨0.17%，恒科指涨0.47%",
-     "link": "http://hk.eastmoney.com/news/1797,202611273941470360.html",
-     "pubDate": "Fri, 27 Nov 2026 09:21:55 +0800",
-     "summary": "恒指开盘涨0.17%，恒科指涨0.47%。科指成分股中， 智谱 涨3.41%， 联想集团 涨2.92%， MINIMAX-W 涨2.61%， 天数智芯 涨1.89%， 华虹宏力 涨1.78%。 （文章来源：哈富快讯）",
+     "title": "港股光通信股盘中拉升，华虹宏力、中际旭创双双涨超4%",
+     "link": "http://hk.eastmoney.com/news/1535,202611273941482926.html",
+     "pubDate": "Fri, 27 Nov 2026 09:43:05 +0800",
+     "summary": "港股光 通信 股盘中拉升， 华虹宏力 (01347.HK)、 中际旭创 (03308.HK)双双涨超4%， 剑桥科技 (06166.HK)、 罗博特科 (03757.HK)、 长飞光纤光缆 (06869.HK)、 曦智科技-P (01879.HK)等个股跟涨。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "恒指开盘涨0.17%，恒科指涨0.47%"
+     "zh": "港股光通信股盘中拉升，华虹宏力、中际旭创双双涨超4%"
     },
     {
-     "title": "杭州挂牌两宗涉宅用地 起始总价约75.1亿元",
-     "link": "http://finance.eastmoney.com/news/1359,202611273941469423.html",
-     "pubDate": "Fri, 27 Nov 2026 09:20:47 +0800",
-     "summary": "杭州市规划和自然资源局发布杭州市国有建设用地使用权挂牌出让公告，将采用挂牌方式出让两宗地块，起始总价约75.1亿元，地块用途均为住宅（设配套公建）用地，将于2026年12月19正式挂牌出让。此次出让的两宗地块分别位于上城区和西湖区，地块实行自由竞价，按照价高者得的原则确定竞得人。 （文章来源：财联社）",
+     "title": "地铁设计：截至11月20日最新股东户数1.14万户，较上期减少11.88%",
+     "link": "http://stock.eastmoney.com/news/11111,202611273941480613.html",
+     "pubDate": "Fri, 27 Nov 2026 09:42:39 +0800",
+     "summary": "地铁设计 最新披露数据显示，截至11月20日公司股东户数为1.14万户，较上期(2026年11月10日) 减少1542户，降幅为11.88% 。户均持有流通股数量 由上期的3.18万股上升至3.60万股， 户均持股金额 由上期的46.33万元增加至55.68万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
      "source": "东方财富股票",
-     "zh": "杭州挂牌两宗涉宅用地 起始总价约75.1亿元"
+     "zh": "地铁设计：截至11月20日最新股东户数1.14万户，较上期减少11.88%"
     },
     {
-     "title": "博亚精工：截至11月20日最新股东户数1.12万户，较上期减少8.94%",
-     "link": "http://stock.eastmoney.com/news/11111,202611273941469033.html",
-     "pubDate": "Fri, 27 Nov 2026 09:20:40 +0800",
-     "summary": "博亚精工 最新披露数据显示，截至11月20日公司股东户数为1.12万户，较上期(2026年10月30日) 减少1097户，降幅为8.94% 。户均持有流通股数量 由上期的7522股上升至8261股， 户均持股金额 由上期的11.47万元减少至11.00万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何",
+     "title": "【调研快报】英诺激光接待投资者网上提问调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611273941480513.html",
+     "pubDate": "Fri, 27 Nov 2026 09:42:39 +0800",
+     "summary": "英诺激光 11月27日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括董事长、总经理 ZHAO XIAOJIE,财务总监 陈文,独立董事 刘雪明,董事会秘书、副总经理 张勇。 公司就以下问题进行了回复： 公司就投资者在本次说明会中提出的问题进行了回复: 一、超快激光器目前已经成为行业重点发展的项目,贵公司有哪些独特的竞争优势吗?公司未来在哪些方面加大研发和市场布局? 答:尊敬的投资者,您好!感谢您对行业的认同!公司是国内领先的微加工激光器生产商,是全球少数同时具有纳秒、亚纳秒、皮秒、飞秒... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操",
      "source": "东方财富股票",
-     "zh": "博亚精工：截至11月20日最新股东户数1.12万户，较上期减少8.94%"
+     "zh": "【调研快报】英诺激光接待投资者网上提问调研"
     },
     {
-     "title": "瑞德智能：截至11月20日最新股东户数1.02万户，较上期增加0.56%",
-     "link": "http://stock.eastmoney.com/news/11111,202611273941468996.html",
-     "pubDate": "Fri, 27 Nov 2026 09:20:40 +0800",
-     "summary": "瑞德智能 最新披露数据显示，截至11月20日公司股东户数为1.02万户，较上期(2026年11月10日) 增加57户，增幅为0.56% 。户均持有流通股数量 由上期的9970股下降至9915股， 户均持股金额 由上期的17.38万元减少至14.00万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型",
+     "title": "韩国财政部长：有必要全面评估经济与市场之间的风险溢出效应",
+     "link": "http://finance.eastmoney.com/news/1346,202611273941482859.html",
+     "pubDate": "Fri, 27 Nov 2026 09:42:27 +0800",
+     "summary": "韩国财政部长表示，有必要全面评估经济与市场之间的风险溢出效应。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "瑞德智能：截至11月20日最新股东户数1.02万户，较上期增加0.56%"
+     "zh": "韩国财政部长：有必要全面评估经济与市场之间的风险溢出效应"
+    },
+    {
+     "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+     "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+     "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT",
+     "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+     "source": "CNBC",
+     "zh": "China industrial profits growth surges to a 5-month high of 20.1% in October"
+    },
+    {
+     "title": "入境游的重头戏还在后面",
+     "link": "http://www.eeo.com.cn/2026/1127/1104684.shtml",
+     "pubDate": "Fri, 27 Nov 2026 09:34:40 +0800",
+     "summary": "免签“朋友圈”把“说走就走的中国游”变成常态。我国入境游已从“会不会来”的问题，转为“来了接不接得住”的问题。",
+     "source": "经济观察网",
+     "zh": "入境游的重头戏还在后面"
+    },
+    {
+     "title": "国家统计局：1—10月份全国规模以上工业企业利润增长16.0%",
+     "link": "http://finance.eastmoney.com/news/1345,202611273941472336.html",
+     "pubDate": "Fri, 27 Nov 2026 09:30:20 +0800",
+     "summary": "1—10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%（按可比口径计算，详见附注二）。 1—10月份，规模以上工业企业中，国有控股企业实现利润总额21080.3亿元，同比增长13.0%；股份制企业实现利润总额52426.6亿元，增长21.4%；外商及港澳台投资企业实现利润总额14678.7亿元，增长0.2%；私营企业实现利润总额17589.3亿元，增长11.4%。 1—10月份，采矿业实现利润总额9936.1亿元，同比增长38.8%；制造业实现利润总额51137.5亿元，增长17.5%； 电力 、热力、燃气及水生产和供应业实现利润总额6299.9亿元，下降14.8",
+     "source": "东方财富资讯",
+     "zh": "国家统计局：1—10月份全国规模以上工业企业利润增长16.0%"
+    },
+    {
+     "title": "11月27日集合竞价：证通电子3连板 常山北明2连板",
+     "link": "http://stock.eastmoney.com/news/11752,202611273941471191.html",
+     "pubDate": "Fri, 27 Nov 2026 09:26:12 +0800",
+     "summary": "11月27日，三大指数集体高开，上证指数高开0.16%，深证成指高开0.37%，创业板指高开0.59%。板块方面， 旅游零售Ⅲ 领涨， 珠免集团 涨9.98%， 旅游零售Ⅱ 、 大宗用纸 等开盘涨幅居前。 个股方面，9股竞价涨停，其中 证通电子 3连板、 常山北明 2连板、 山鹰国际 2连板、 鹿山新材 2连板、 骏亚科技 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富资讯",
+     "zh": "11月27日集合竞价：证通电子3连板 常山北明2连板"
+    },
+    {
+     "title": "新建黔江至吉首铁路重庆段计划年底开工 酉阳、秀山将迎来高铁时代",
+     "link": "http://www.eeo.com.cn/2026/1127/1104667.shtml",
+     "pubDate": "Fri, 27 Nov 2026 09:26:12 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/7503957798AC6F2FE9FCF61080976AA1.jpg\" alt=\"1382829952fbd5b7b91dfea3d2bcd7f4\" data-title=\"1382829952fbd5b7b91dfea3d2bcd7f4\" data-target=\"2126118724597026817\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/CONTENT_CL",
+     "source": "经济观察网",
+     "zh": "新建黔江至吉首铁路重庆段计划年底开工 酉阳、秀山将迎来高铁时代"
     },
     {
      "title": "一只偏股混合基金 如何能收益率全周期倒数第一？调仓可谓“步步惊心”",
@@ -2345,14 +2385,6 @@
      "zh": "美股股指期货刚刚突然拉升！美伊谈判传来大消息！"
     },
     {
-     "title": "联合国报告：中东冲突扰动航道 2026年全球海运贸易预计零增长",
-     "link": "http://finance.eastmoney.com/news/1344,202611273941272665.html",
-     "pubDate": "Fri, 27 Nov 2026 08:50:54 +0800",
-     "summary": "联合国贸发会议（UNCTAD）在《2026年海运评述》报告中表示，受主要 航运 干线扰动、贸易前景不确定性拖累，2026年全球海运货量预计陷入停滞。 报告数据显示，2025年全球海运货物量增长1.9%，至123亿吨，增幅较2024年的3.9%明显回落。而2026年海运货物吨数预计增速将至0%。 不过，2026年船舶为规避风险绕行更远航线，按吨海里口径统计的海运需求预计增长1.5%。集装箱贸易预计增长3.3%，增速同样低于2025年。 核心 航运 要道承压 联合国贸发会议称，2月美伊冲突爆发后，3月初霍尔木兹海峡的商船通行量锐减95%。 霍尔木兹海峡承担全球约五分之一石油以及化肥等战略物资运输。",
-     "source": "东方财富资讯",
-     "zh": "联合国报告：中东冲突扰动航道 2026年全球海运贸易预计零增长"
-    },
-    {
      "title": "今年已跌11%！欧元对人民币势创二十年来最大年度跌幅",
      "link": "https://wallstreetcn.com/articles/3786809",
      "pubDate": "Fri, 27 Nov 2026 08:41:31 +0800",
@@ -2375,14 +2407,6 @@
      "summary": "华尔街最赚钱、最可靠的交易之一正在出现裂痕。 据彭博11月27日报道，2026年表现强劲的套利交易（carry trade）近期明显承压：彭博外汇套利指数今年累计上涨6.8%，有望创2022年以来最佳年度表现并实现连续第六年上涨，但在今年每个月都录得正收益之后， 11月正走向年内首次单月下跌 ，跌幅0.9%。高盛、富国银行、花旗等机构相继表态，认为超额收益的空间正在收窄， 套利交易不再是“买入后无需理会”的策略 。 环境逆转的直接触发因素是风险偏好降温。 人工智能相关押注出现裂痕，削弱了市场风险偏好并推高波动率，而套利交易恰恰依赖市场平静才能积累收益。与此同时，巴西大选意外结果提供了最鲜明的风",
      "source": "华尔街见闻",
      "zh": "从年赚20%到单月转负，华尔街最爱的套利交易“失灵了”"
-    },
-    {
-     "title": "A股热点前瞻丨广东印发算力发展“十五五”规划；摩根大通上调贵州茅台至超配",
-     "link": "http://finance.eastmoney.com/news/11874,202611273941268441.html",
-     "pubDate": "Fri, 27 Nov 2026 08:29:34 +0800",
-     "summary": "①广东算力规划明确智算目标，国产算力链获政策加持； ②八部门印发服贸“十五五”规划，数字服务出海空间打开； ③三部门部署新一代 通信 网建设，6G商用进程有望加快； ④ 摩根大通 上调 贵州茅台 至超配，目标价1800元； ⑤国内首台16兆瓦级燃机通过鉴定，自主燃机迎商业化拐点； ⑥ 珠免集团 拟全资控股免税公司，区域免税整合提速。 盘面回顾 11月26日，沪指微涨0.01%，深成指险守万点大关，创业板指涨0.29%，两市成交仅1.32万亿元。 贵金属 、 元件 、水产、 煤炭 等板块表现活跃， 生物制品 、民航、 教育 等板块调整。 广东算力“十五五”规划印发 鼓励优先用国产算力芯片 广东省",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨广东印发算力发展“十五五”规划；摩根大通上调贵州茅台至超配"
     },
     {
      "title": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”",
@@ -2463,30 +2487,6 @@
      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
      "source": "CNBC",
      "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
-     "link": "https://seekingalpha.com/news/4676908-sierra-madre-targets-1200-to-1500-tonnes-per-day-by-q3-next-year-while-advancing-30000-meter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 14:02:25 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 19:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
-     "link": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 13:34:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive"
     }
    ]
   },

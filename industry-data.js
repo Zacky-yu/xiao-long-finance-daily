@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 21:51:57",
+ "generated_at": "2026/11/27 22:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
      "source": "KDnuggets",
      "zh": "10 GitHub Repositories to Master AI Decision Models"
+    },
+    {
+     "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
+     "link": "https://zhidx.com/p/615054.html",
+     "pubDate": "Fri, 27 Nov 2026 20:20:11 +0800",
+     "summary": "&nbsp; 智东西 作者 | 孙小雯 编辑 | 云鹏 4个智能体组队，就一定比各自独立工作更强吗？答案未必。 智东西11月27日消息，近日，开源社区Hugging Face公布一项多智能体训练实验及其复现教程，探索如何让智能体在组队后学会有效配合。 ▲Hugging Face多智能体训练博客页面（图源：Hugging Face） 研究人员让4个智能体共用阿里6亿参数模型Qwen3-0.6B，学习交换各自掌握的信息。经过75次训练更新，四个智能体组成的团队在训练任务中的成功率从6.56%升至82.34%，每次团队尝试平均生成的Token数量减少37.4%。 实验中，4个智能体各自拥有独立上下文",
+     "source": "智东西",
+     "zh": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍"
     },
     {
      "title": "3万+付费商家！有赞龙虾干了5000万次任务，对话CEO白鸦",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
      "source": "TechCrunch AI",
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
-    },
-    {
-     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
-     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
-     "source": "KDnuggets",
-     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
     }
    ]
   },
@@ -257,6 +257,54 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Intel: How Better Power Delivery Could Unlock More AI Performance",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376763-intel-how-better-power-delivery-could-unlock-more-ai-performance/",
+     "pubDate": "Fri, 27 Nov 2026 14:00:11 +0000",
+     "summary": "An AI accelerator can have more transistors, more memory bandwidth, and a faster interconnect, yet still leave performance on the table if its power delivery network cannot keep up. Intel Foundry’s white paper Driving Power Delivery Innovations for the AI Data Center Era makes an optimistic case for",
+     "source": "SemiWiki",
+     "zh": "Intel: How Better Power Delivery Could Unlock More AI Performance"
+    },
+    {
+     "title": "NuVolta Technical Sharing: PCB Grounding Design and Return Path",
+     "link": "https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path/",
+     "pubDate": "Fri, 27 Nov 2026 14:00:00 +0000",
+     "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
+     "source": "EE Times",
+     "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
+    },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
      "link": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
@@ -280,6 +328,14 @@ window.INDUSTRY_DATA = {
      "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
      "source": "DIGITIMES",
      "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
+    },
+    {
+     "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
+     "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0000",
+     "summary": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
+     "source": "Electronics Weekly",
+     "zh": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -312,6 +368,14 @@ window.INDUSTRY_DATA = {
      "summary": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative l",
      "source": "DIGITIMES",
      "zh": "Phone chip demand may stay weak in 2027, recovery seen in 2028"
+    },
+    {
+     "title": "Musk to give two SpaceX shares to every American child",
+     "link": "https://www.electronicsweekly.com/news/business/musk-to-give-twospacex-shares-to-every-american-child-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 06:14:12 +0000",
+     "summary": "Elon Musk is to give two SpaceX shares to every child in America. The gift is worth $18bn. Children will receive one share from SpaceX and one from him personally, […] The post Musk to give two SpaceX shares to every American child appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Musk to give two SpaceX shares to every American child"
     },
     {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
@@ -386,28 +450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026"
     },
     {
-     "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
-     "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
-     "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
-     "summary": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs. The post Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs appeared first on EE T",
-     "source": "EE Times",
-     "zh": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs"
-    },
-    {
      "title": "NVIDIA: What Really Happened Behind Closed Doors Between November 11 and November 23?",
      "link": "https://semiwiki.com/artificial-intelligence/376841-nvidia-what-really-happened-behind-closed-doors-between-november-11-and-november-23/",
      "pubDate": "Wed, 25 Nov 2026 21:30:36 +0000",
      "summary": "An investigative hypothesis for semiconductor ecosystem stakeholders, financial journalists, corporate-governance experts, institutional investors, and serious investigative sleuths. One that I’ve not heard anyone present since the Nvidia CEO reinstatement. Consider the chronology. The questions it ",
      "source": "SemiWiki",
      "zh": "NVIDIA: What Really Happened Behind Closed Doors Between November 11 and November 23?"
-    },
-    {
-     "title": "CXO Interview with Osman Chaudry of yieldWerx",
-     "link": "https://semiwiki.com/eda/yieldwerx/376626-cxo-interview-with-osman-chaudry-of-yieldwerx/",
-     "pubDate": "Wed, 25 Nov 2026 18:00:37 +0000",
-     "summary": "Osman Chaudry is a business and technology leader with over 25 years of experience in software development, investment management, and e-commerce. With a Bachelor of Engineering (BEng) in Information Systems Engineering from Imperial College London, he has a proven track record of driving success in",
-     "source": "SemiWiki",
-     "zh": "CXO Interview with Osman Chaudry of yieldWerx"
     },
     {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "GXO doubling down on robotics in 2027",
+     "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+     "pubDate": "Fri, 27 Nov 2026 13:56:43 +0000",
+     "summary": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "GXO doubling down on robotics in 2027"
+    },
     {
      "title": "Best Truck Accident Lawyers in Queens, NY for 2027",
      "link": "https://roboticsandautomationnews.com/2026/11/27/best-truck-accident-lawyers-in-queens-ny-for-2027/107783/",
@@ -618,14 +626,6 @@ window.INDUSTRY_DATA = {
      "zh": "How does Orchard AI fit into John Deere’s technology portfolio?"
     },
     {
-     "title": "Special Report: Engineering Focus on Motion Control",
-     "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
-     "pubDate": "Mon, 23 Nov 2026 15:16:26 +0000",
-     "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Special Report: Engineering Focus on Motion Control"
-    },
-    {
      "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
      "link": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
      "pubDate": "Mon, 23 Nov 2026 12:32:08 +0000",
@@ -649,6 +649,22 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Wheel-E Podcast: Juiced Scrambler Mini, ALSO pauses e-bikes, more",
+     "link": "https://electrek.co/2026/11/27/wheel-e-podcast-juiced-scrambler-mini-also-pauses-e-bikes-more/",
+     "pubDate": "Fri, 27 Nov 2026 13:56:48 +0000",
+     "summary": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Juiced and Amflow, ALSO pauses deliveries of its TM-B e-bikes amid issues, Congress passed an e-bi",
+     "source": "Electrek",
+     "zh": "Wheel-E Podcast: Juiced Scrambler Mini, ALSO pauses e-bikes, more"
+    },
+    {
+     "title": "Zeekr updates mainstay SUV 7X with new 85-kWh battery option and limited-time perks",
+     "link": "https://cnevpost.com/2026/11/27/zeekr-launches-2027-7x/",
+     "pubDate": "Fri, 27 Nov 2026 13:55:38 +0000",
+     "summary": "The 2027 Zeekr 7X has an official guide price starting at 229,800 yuan ($34,260), with a limited-time starting price of 216,800 yuan after launch perks. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Zeekr updates mainstay SUV 7X with new 85-kWh battery option and limited-time perks"
+    },
     {
      "title": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
      "link": "https://electrek.co/2026/11/27/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
@@ -682,12 +698,12 @@ window.INDUSTRY_DATA = {
      "zh": "BYD unveils Ocean lineup's first flagship MPV Whale, set to launch in Q1 2027"
     },
     {
-     "title": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game",
+     "title": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game",
      "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
      "pubDate": "Fri, 27 Nov 2026 09:57:17 +0000",
      "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60 and XC90 plug-in hybrids. The new vehicles promise to double the EV-only range to 73-78 miles, making them a new breed of hybrid rarely seen outside China. But what can you do with so much EV-onl",
      "source": "Electrek",
-     "zh": "Review: 2028 Volvo’s XC60/90 PHEVs get 80 miles of EV range, changing the game"
+     "zh": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game"
     },
     {
      "title": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time",
@@ -746,28 +762,12 @@ window.INDUSTRY_DATA = {
      "zh": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more"
     },
     {
-     "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
-     "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
-     "pubDate": "Thu, 26 Nov 2026 17:33:21 +0000",
-     "summary": "Tesla has parked a fleet of mobile Supercharger stalls at some of its busiest stations in California and Arizona to handle the Thanksgiving travel crush. The company says 29 temporary stalls are live, on top of 1,027 permanent stalls it opened in the US over the last 56 days. It’s the most organized",
-     "source": "Electrek",
-     "zh": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush"
-    },
-    {
      "title": "Huawei unveils Xingchi brand to target mainstream L2 assisted driving market",
      "link": "https://cnevpost.com/2026/11/26/huawei-unveils-xingchi-brand-l2-assisted-driving/",
      "pubDate": "Thu, 26 Nov 2026 15:27:53 +0000",
      "summary": "Xingchi will focus on L2 assisted driving for the mainstream mass market, while Qiankun ADS will primarily target autonomous driving in the future. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Huawei unveils Xingchi brand to target mainstream L2 assisted driving market"
-    },
-    {
-     "title": "Nio's Onvo flagship L90 SUV reaches 70,000 deliveries, latest 10,000 take over 4 months",
-     "link": "https://cnevpost.com/2026/11/26/nio-onvo-l90-70000-deliveries/",
-     "pubDate": "Thu, 26 Nov 2026 14:47:08 +0000",
-     "summary": "The Onvo L90's latest 10,000 deliveries slowed from the roughly 3.5 months it took to grow from 50,000 to 60,000 units. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio's Onvo flagship L90 SUV reaches 70,000 deliveries, latest 10,000 take over 4 months"
     },
     {
      "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "France targeting termination of 3.5GW solar PV contracts",
+     "link": "https://www.pv-tech.org/france-terminate-3-5gw-solar-pv-contracts/",
+     "pubDate": "Fri, 27 Nov 2026 14:00:43 +0000",
+     "summary": "The French government has proposed terminating 3.5GW of solar PV contracts next year, deeming them disproportionately costly.",
+     "source": "PV Tech",
+     "zh": "France targeting termination of 3.5GW solar PV contracts"
+    },
     {
      "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
      "link": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck/",
@@ -1024,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "See more from Canary Media’s “Chart of the Week” column . Solar energy is poised to become the No. 2 source of electricity in China, capping off a remarkable ascent over the last decade. Hydropower has historically been the runner-up on China’s grid — a distant second to coal, which provides more th",
      "source": "Canary Media",
      "zh": "Solar is coming for the No. 2 spot on China’s grid"
-    },
-    {
-     "title": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER",
-     "link": "https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/",
-     "pubDate": "Fri, 27 Nov 2026 06:04:04 +0000",
-     "summary": "Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator (CER).",
-     "source": "PV Tech",
-     "zh": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER"
     },
     {
      "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+     "pubDate": "Fri, 27 Nov 2026 14:00:00 GMT",
+     "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+     "source": "Dark Reading",
+     "zh": "'God Mode' Flaws Could Wreak Border-Control Havoc"
+    },
+    {
      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
      "pubDate": "Fri, 27 Nov 2026 17:19:34 +0530",
@@ -1730,14 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing"
     },
     {
-     "title": "Satellites Have a Ground-Level Cybersecurity Problem",
-     "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
-     "pubDate": "Tue, 24 Nov 2026 22:05:34 GMT",
-     "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
-     "source": "Dark Reading",
-     "zh": "Satellites Have a Ground-Level Cybersecurity Problem"
-    },
-    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
@@ -1753,6 +1753,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
+     "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 14:07:09 +0000",
+     "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+     "source": "WIRED",
+     "zh": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off"
+    },
     {
      "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
      "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/",
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
      "pubDate": "Fri, 27 Nov 2026 13:01:02 +0000",
-     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 39 # Comments: 21",
+     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 53 # Comments: 58",
      "source": "Hacker News",
      "zh": "Counseling for mental health decreases likelihood of protesting by 34%–39%"
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "US Air Force's cloud computing platform hacked",
      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
      "pubDate": "Fri, 27 Nov 2026 12:54:11 +0000",
-     "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 28 # Comments: 4",
      "source": "Hacker News",
      "zh": "US Air Force's cloud computing platform hacked"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
      "pubDate": "Fri, 27 Nov 2026 12:43:40 +0000",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 27 # Comments: 10",
      "source": "Hacker News",
      "zh": "New York and California Age Gating Rules Go into Effect in the New Year"
     },
@@ -1922,18 +1930,18 @@ window.INDUSTRY_DATA = {
      "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories"
     },
     {
-     "title": "Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)",
+     "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
      "link": "https://www.techmeme.com/261127/p4#a261127p4",
      "pubDate": "Fri, 27 Nov 2026 07:10:01 -0500",
-     "summary": "Reuters : Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds &nbsp; &mdash;&nbsp; Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter ",
+     "summary": "Reuters : Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications &nbsp; &mdash;&nbsp; Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the m",
      "source": "Techmeme",
-     "zh": "Sources: the US Air Force recently found that hackers breached Cloud One, the cloud computing platform powering its air defense radar and other data feeds (Reuters)"
+     "zh": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)"
     },
     {
      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
      "link": "https://eprint.iacr.org/2026/3020.pdf",
      "pubDate": "Fri, 27 Nov 2026 12:08:51 +0000",
-     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 78 # Comments: 33",
+     "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 86 # Comments: 40",
      "source": "Hacker News",
      "zh": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]"
     },
@@ -1957,23 +1965,15 @@ window.INDUSTRY_DATA = {
      "title": "Kimi for Science: More scientific ideas, made possible",
      "link": "https://www.kimi.ai/news/kimi-for-science-program",
      "pubDate": "Fri, 27 Nov 2026 12:03:11 +0000",
-     "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 29 # Comments: 6",
+     "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 39 # Comments: 12",
      "source": "Hacker News",
      "zh": "Kimi for Science: More scientific ideas, made possible"
-    },
-    {
-     "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-     "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 11:58:32 +0000",
-     "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-     "source": "WIRED",
-     "zh": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off"
     },
     {
      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
      "pubDate": "Fri, 27 Nov 2026 11:41:11 +0000",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 11 # Comments: 18",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer Comments URL: https://news.ycombinator.com/item?id=50665732 Points: 12 # Comments: 23",
      "source": "Hacker News",
      "zh": "Pizza history: AI agent's cardless purchase is a first for UK"
     },
@@ -2001,6 +2001,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple TV is $6.99/month (50% off) for Black Friday, details here",
+     "link": "https://9to5mac.com/2026/11/27/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+     "pubDate": "Fri, 27 Nov 2026 13:59:20 +0000",
+     "summary": "Apple TV has a Black Friday deal now available that lets new and returning subscribers get the service for just $6.99/month for up to six months (normally $14.99/month). Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple TV is $6.99/month (50% off) for Black Friday, details here"
+    },
+    {
+     "title": "Every single pair of Xreal smart glasses is now on sale for Black Friday",
+     "link": "https://9to5google.com/2026/11/27/all-xreal-glasses-black-friday-sale-2026/",
+     "pubDate": "Fri, 27 Nov 2026 13:54:07 +0000",
+     "summary": "Xreal offers an impressively wide range of smart display glasses that give you a massive virtual display without the massive price tag. more…",
+     "source": "9to5Google",
+     "zh": "Every single pair of Xreal smart glasses is now on sale for Black Friday"
+    },
+    {
+     "title": "These are the best Mac Black Friday deals",
+     "link": "https://9to5mac.com/2026/11/27/mac-black-friday-deals-roundup/",
+     "pubDate": "Fri, 27 Nov 2026 13:53:28 +0000",
+     "summary": "We have now made our way to the Black Friday main event , with Amazon’s biggest sale of the year delivering an incredible $100 price drop on AirPods Pro 3 , but the MacBook deals are going crazy here today too, folks. We have M5 MacBook Air at a wild $400 off the list and MacBook Neo at $100 off wit",
+     "source": "9to5Mac",
+     "zh": "These are the best Mac Black Friday deals"
+    },
+    {
+     "title": "Black Friday knocks $450 off the Samsung Galaxy S26 Ultra",
+     "link": "https://www.androidauthority.com/galaxy-s26-ultra-black-friday-deal-3740547/",
+     "pubDate": "Fri, 27 Nov 2026 13:51:26 +0000",
+     "summary": "Samsung's top flagship is 32% off on Amazon, dropping below $950 with its 200MP camera and Privacy Display.",
+     "source": "Android Authority",
+     "zh": "Black Friday knocks $450 off the Samsung Galaxy S26 Ultra"
+    },
     {
      "title": "Samsung’s biggest Galaxy Z Fold 8 discounts yet are live, up to $900 for some",
      "link": "https://9to5google.com/2026/11/27/samsung-galaxy-z-fold-8-black-friday-deal/",
@@ -2080,14 +2112,6 @@ window.INDUSTRY_DATA = {
      "summary": "This year’s Meta Quest 3S Black Friday deal just got even sweeter with an additional bonus from Amazon or Target. more…",
      "source": "9to5Google",
      "zh": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card"
-    },
-    {
-     "title": "Sony’s BRAVIA Theater Bar 5 hits a record-low $248",
-     "link": "https://www.androidauthority.com/sony-bravia-theater-bar-5-deal-3740574/",
-     "pubDate": "Fri, 27 Nov 2026 12:54:39 +0000",
-     "summary": "Sony's 3.1-channel Dolby Atmos soundbar with a wireless subwoofer is 29% off, now at its lowest price ever.",
-     "source": "Android Authority",
-     "zh": "Sony’s BRAVIA Theater Bar 5 hits a record-low $248"
     },
     {
      "title": "Realme 17 Ultra's memory configurations and colors tipped",
@@ -2186,22 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Backloggd urges users to change their passwords after a breach"
     },
     {
-     "title": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
-     "link": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/",
-     "pubDate": "Thu, 26 Nov 2026 21:09:36 +0000",
-     "summary": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Report: Apple accounted for 57% of US smartphone shipments in Q3"
-    },
-    {
-     "title": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
-     "link": "https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more/",
-     "pubDate": "Thu, 26 Nov 2026 20:30:32 +0000",
-     "summary": "Readdle updated its Documents app for iPhone and iPad this week with Voice Notes, a new AI-powered feature that lets users record conversations and automatically generate transcripts, summaries, and follow-up notes. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Readdle’s Documents app adds voice recording with transcripts, summaries, more"
-    },
-    {
      "title": "1Password says it was hacked but users' vaults are safe",
      "link": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
      "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
@@ -2232,14 +2240,6 @@ window.INDUSTRY_DATA = {
      "summary": "The giant Amazon Thanksgiving sale is now live as part of its ongoing Black Friday event, alongside the 1-day Best Buy Thanksgiving Flash Sale , but it is time to take a look at today’s Android game and app deals. We have titles like Sands of Salzaar, Radiant: Guardians Of Light, Castle Ramble Premi",
      "source": "9to5Google",
      "zh": "Thanksgiving Android app deals and freebies: Bioweaver, Deus Ex GO, Seoul Exorcist 1111, Hitman GO, more"
-    },
-    {
-     "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
-     "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
-     "pubDate": "Thu, 26 Nov 2026 18:09:18 +0000",
-     "summary": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
-     "source": "Engadget",
-     "zh": "NVIDIA reportedly halts AI chip shipments to Southeast Asia"
     }
    ]
   },
@@ -2250,28 +2250,124 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Chip stocks rebound to cap a volatile week",
-     "link": "https://seekingalpha.com/news/4676995-chip-stocks-rebound-to-cap-a-volatile-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:47:18 -0500",
+     "title": "S&P 500 heads for fourth straight week of outsized moves as volatility persists",
+     "link": "https://seekingalpha.com/news/4677030-sp-500-heads-for-fourth-straight-week-of-outsized-moves-as-volatility-persists?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 09:01:57 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Chip stocks rebound to cap a volatile week"
+     "zh": "S&P 500 heads for fourth straight week of outsized moves as volatility persists"
     },
     {
-     "title": "4 stocks to watch on Friday: NVDA, ANT, UBER, and MU",
-     "link": "https://seekingalpha.com/news/4677023-4-stocks-to-watch-on-friday-nvda-ant-uber-and-mu?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:43:44 -0500",
+     "title": "BofA sets 2027 S&P 500 target at 7,800 after pullback",
+     "link": "https://seekingalpha.com/news/4677028-bofa-sets-2027-s-and-p-500-target-at-7800-after-pullback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 09:01:36 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "4 stocks to watch on Friday: NVDA, ANT, UBER, and MU"
+     "zh": "BofA sets 2027 S&P 500 target at 7,800 after pullback"
     },
     {
-     "title": "European luxury braces for another bumpy and uneven year—J.P. Morgan",
-     "link": "https://seekingalpha.com/news/4677013-european-luxury-braces-for-another-bumpy-and-uneven-year---jp-morgan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:42:53 -0500",
+     "title": "From squishies to can crushers: The toys on the top of Santa's list",
+     "link": "https://seekingalpha.com/news/4676651-from-squishies-to-can-crushers-the-toys-on-the-top-of-santas-list?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 09:00:45 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "European luxury braces for another bumpy and uneven year—J.P. Morgan"
+     "zh": "From squishies to can crushers: The toys on the top of Santa's list"
+    },
+    {
+     "title": "Keep the AI, lose the concentration, says Franklin Templeton",
+     "link": "https://seekingalpha.com/news/4677029-keep-the-ai-lose-the-concentration-says-franklin-templeton?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:59:53 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Keep the AI, lose the concentration, says Franklin Templeton"
+    },
+    {
+     "title": "Top consumer discretionary stocks in November: ADT, Chipotle, Crocs",
+     "link": "https://seekingalpha.com/news/4677027-top-consumer-discretionary-stocks-in-november-adt-chipotle-crocs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:59:10 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Top consumer discretionary stocks in November: ADT, Chipotle, Crocs"
+    },
+    {
+     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+     "pubDate": "Fri, 27 Nov 2026 13:58:19 GMT",
+     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+     "source": "CNBC",
+     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+    },
+    {
+     "title": "德国联邦议院通过2027年预算案 增加国防等开支",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941988979.html",
+     "pubDate": "Fri, 27 Nov 2026 21:53:41 +0800",
+     "summary": "德国联邦议院于周五通过了总额为5560亿欧元（约合6100亿美元）的2027年预算案。该预算案涵盖了国防开支的增加、大规模投资，以及德国历史上第二高的新增借款规模。德国总理默茨领导的政府承诺，将致力于加强德国的核心基础设施，并在经历数十年的投资不足后重建其军事力量。预算数据显示，新增借款总额将达到2104亿欧元，仅次于2021年新冠疫情期间创下的2154亿欧元的历史最高纪录。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "德国联邦议院通过2027年预算案 增加国防等开支"
+    },
+    {
+     "title": "688121 终止上市！",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941992266.html",
+     "pubDate": "Fri, 27 Nov 2026 21:53:00 +0800",
+     "summary": "*ST卓然 将正式退市。 *ST卓然 (688121)11月27日公告，上海证券交易所决定终止公司股票上市，公司股票将于2026年12月4日终止上市暨摘牌。 终止上市决定指出，“截至2026年10月28日，你公司股票已连续20个交易日每日股票收盘市值均低于3亿元，上述情形属于《上海证券交易所科创板股票上市规则（2026年4月修订）》（以下简称《科创板股票上市规则》）第12.3.1条第一款第（三）项规定的股票终止上市情形。根据《科创板股票上市规则》第12.3.5条的规定，经上海证券交易所（以下简称‘本所’）上市审核委员会审议，本所决定终止你公司股票上市。” 此前于10月28日晚间 *ST卓然 公",
+     "source": "东方财富股票",
+     "zh": "688121 终止上市！"
+    },
+    {
+     "title": "美国商品贸易逆差连续第四个月扩大 资本品进口继续增长",
+     "link": "http://finance.eastmoney.com/news/1346,202611273941992352.html",
+     "pubDate": "Fri, 27 Nov 2026 21:52:24 +0800",
+     "summary": "随着资本品进口继续增长，美国10月商品贸易逆差连续第四个月扩大。美国商务部周五公布的数据显示，10月商品贸易逆差较前月扩大10.7%，至1495亿美元，为2025年3月以来最高。接受调查的经济学家预估中值为小幅扩大至1360亿美元。上述数据未经通胀调整。商品进口增长6.1%，出口增长3.2%。资本品进口增长8.5%，创下新纪录；这一类别包括用于 人工智能 基础设施建设的 计算机 及配件、 半导体 和电信设备。周五的数据表明，进入秋季后，美国建设 数据中心 的热潮仍未减弱。过去一年，资本品一直是推动贸易逆差扩大的主要因素。 报告还显示，其他类别的进口也有所增长，其中消费品进口增长2.6%，工业用",
+     "source": "东方财富股票",
+     "zh": "美国商品贸易逆差连续第四个月扩大 资本品进口继续增长"
+    },
+    {
+     "title": "外汇局：10月份中国外汇市场总计成交3.77万亿美元",
+     "link": "http://www.eeo.com.cn/2026/1127/1105796.shtml",
+     "pubDate": "Fri, 27 Nov 2026 21:52:19 +0800",
+     "summary": "本报讯 （记者刘琪） 11月27日，国家外汇管理局公布2026年10月中国外汇市场交易概况数据。国家外汇管理局统计数据显示，2026年10月，中国外汇市场（不含外币对市场，下同）总计成交25.36万亿元人民币（等值3.77万亿美元）。其中，银行对客户市场成交4.32万亿元人民币（等值0.64万亿美元），银行间市场成交21.04万亿元人民币（等值3.13万亿美元）；即期市场成交8.16万亿元人民币（等值1.21万亿美元），衍生品市场成交17.20...",
+     "source": "经济观察网",
+     "zh": "外汇局：10月份中国外汇市场总计成交3.77万亿美元"
+    },
+    {
+     "title": "中南文化：筹划重大资产重组",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941988148.html",
+     "pubDate": "Fri, 27 Nov 2026 21:51:55 +0800",
+     "summary": "上证报中国证券网讯（记者骆民） 中南文化 公告，2026年11月27日，公司及全资子公司中南投资与 大众公用 、大众燃投、林克文、林磊渊、赵文碧及其他各方签署《收购框架协议》， 中南文化 拟以支付现金的方式购买上海儒驭100%股权、上海慧冉100%股权；中南投资拟以支付现金的方式收购林磊渊、赵文碧合计所持江阴升宏达2%出资份额并成为江阴升宏达的普通合伙人暨执行事务合伙人。本次交易完成后，公司及全资子公司中南投资通过控制上海儒驭、上海慧冉、江阴升宏达实现控制江阴天力燃气有限公司（以下简称“江阴天力”）52.5%股权暨取得江阴天力控股权。本次收购完成后，江阴天力将成为公司的控股子公司，纳入公司合并",
+     "source": "东方财富股票",
+     "zh": "中南文化：筹划重大资产重组"
+    },
+    {
+     "title": "乌克兰总统泽连斯基：召开了最高统帅部会议",
+     "link": "http://finance.eastmoney.com/news/1351,202611273941988744.html",
+     "pubDate": "Fri, 27 Nov 2026 21:51:40 +0800",
+     "summary": "乌克兰总统泽连斯基：召开了最高统帅部会议。针对俄罗斯袭击可能导致局势严重恶化的情况，已制定了基辅公共交通及整体 物流 运作的具体预案。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "乌克兰总统泽连斯基：召开了最高统帅部会议"
+    },
+    {
+     "title": "HSBC: AI will remain as the key market engine into 2027",
+     "link": "https://seekingalpha.com/news/4677025-hsbc-ai-will-remain-as-the-key-market-engine-into-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 08:50:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HSBC: AI will remain as the key market engine into 2027"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:45:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "Lloyds app goes down",
+     "link": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 13:43:00 GMT",
+     "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+     "source": "Finextra",
+     "zh": "Lloyds app goes down"
     },
     {
      "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降",
@@ -2282,46 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降"
     },
     {
-     "title": "哈马斯官员证实哈亚之子在以军空袭中幸存",
-     "link": "http://finance.eastmoney.com/news/11790,202611273941971827.html",
-     "pubDate": "Fri, 27 Nov 2026 21:41:46 +0800",
-     "summary": "当地时间11月27日，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员纳伊姆证实，哈马斯领导人哈亚的儿子当天凌晨在加沙城里马尔社区一处公寓遭以军空袭，但本人及其家人均在袭击中幸存。纳伊姆表示，以军此次袭击行径属于“国家恐怖主义”。他表示，只要以色列方面持续采取此类行动且未受追究，中东地区就无法实现任何真正的安全与稳定。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "哈马斯官员证实哈亚之子在以军空袭中幸存"
-    },
-    {
-     "title": "002445，筹划重大资产重组，不停牌！",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941969727.html",
-     "pubDate": "Fri, 27 Nov 2026 21:39:24 +0800",
-     "summary": "中南文化 正筹划重大资产重组。 中南文化 （002445）11月27日公告称，公司及全资子公司中南投资拟以支付现金方式收购上海儒驭100%股权、上海慧冉100%股权及江阴升宏达2%出资份额，交易完成后公司及全资子公司中南投资将控制江阴天力52.5%股权并取得控股权。 公告提到，本次交易预计构成重大资产重组，不构成关联交易及重组上市。本次交易符合公司向 综合 性能源集团转型的发展战略，也是积极落实江阴市国资平台能源整合布局的重要举措，有助于公司推动热电、 天然气 业务协同发展，提升 综合 能源服务能力。 根据《上市公司股票停复牌规则》《深圳证券交易所上市公司自律监管指引第6号——停复牌》的相关规",
-     "source": "东方财富股票",
-     "zh": "002445，筹划重大资产重组，不停牌！"
-    },
-    {
-     "title": "捷克众议院批准对炼油厂征收“暴利税”",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941969844.html",
-     "pubDate": "Fri, 27 Nov 2026 21:39:18 +0800",
-     "summary": "捷克议会众议院周五批准对炼油厂征收“暴利税”，适用期为2026年和2027年。此举将影响波兰能源集团Orlen在捷克的业务——该公司拥有捷克境内的两家炼油厂。 捷克财政部长阿莱娜·席勒罗娃表示，该税项将适用于2026年和2027年，预计仅2026年一年，该税项就将带来 至少55亿捷克克朗（约合2.47亿美元） 的收入。 捷克政府认为，在当前地缘政治紧张局势背景下，原油价格与成品油价格之间的价差大幅扩大，使得炼油厂获得了“暴利”。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "捷克众议院批准对炼油厂征收“暴利税”"
-    },
-    {
-     "title": "【环球财经】土耳其推进资本市场整顿 拟引入人工智能强化监管",
-     "link": "http://finance.eastmoney.com/news/1352,202611273941971385.html",
-     "pubDate": "Fri, 27 Nov 2026 21:38:49 +0800",
-     "summary": "新华财经伊斯坦布尔11月27日电（记者许万虎）土耳其政府近日宣布，将建立基于 人工智能 技术的市场操纵行为预警系统，并在必要时下调相关预扣税税率，以增强里拉资产吸引力。土耳其副总统杰夫代特·耶尔马兹表示，随着投资基金违规问题调查持续推进，资本市场在清除不健康因素后将实现更加稳健发展。 土耳其财政部长穆罕默德·希姆谢克表示，此前投资基金风波中撤出的资金几乎全部转入 银行 存款，这一资金流向变化是暂时的，投资者对资本市场的信心和投资意愿将逐步恢复。他说，土耳其资本市场委员会将在改革框架下建立 人工智能 预警系统，加强对市场操纵行为的监测，同时政府将与央行保持政策协调，必要时通过降低预扣税税率维持里",
-     "source": "东方财富股票",
-     "zh": "【环球财经】土耳其推进资本市场整顿 拟引入人工智能强化监管"
-    },
-    {
-     "title": "一品牌宣布：明年起，面向中国大陆市场停产燃油车",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941967698.html",
-     "pubDate": "Fri, 27 Nov 2026 21:37:44 +0800",
-     "summary": "本文自南都。 11月27日，上海 汽车 集团股份有限公司 乘用车 分公司官方 微博 @上汽MG 宣布：为顺应全球化 新能源 发展趋势，根据公司发展战略需求，上汽MG品牌决定：自2027年1月1日起，将面向中国大陆市场停产在售版本纯燃油车型。 对既有燃油 汽车 用户，MG将继续提供完善的维保服务与全周期零部件供给，保障用户正常用车与售后权益。 南方都市报（nddaily）报道 （文章来源：湾财ND）",
-     "source": "东方财富股票",
-     "zh": "一品牌宣布：明年起，面向中国大陆市场停产燃油车"
-    },
-    {
      "title": "经济观察报 第1298期",
      "link": "http://www.eeo.com.cn/2026/1127/1105792.shtml",
      "pubDate": "Fri, 27 Nov 2026 21:37:43 +0800",
@@ -2330,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "经济观察报 第1298期"
     },
     {
-     "title": "新药与经典制剂并行：巴芪柔肝颗粒与济川蒲地蓝的中药创新样本",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941965733.html",
-     "pubDate": "Fri, 27 Nov 2026 21:36:02 +0800",
-     "summary": "11月23日， 济川药业 与玉森新药联合研发的1.1类中药 创新药 巴芪柔肝颗粒取得临床试验许可，拟用于慢性乙型肝炎肝纤维化治疗。该新药源自名老中医临床经验方，历经院内制剂到 创新药 的完整转化，是中医药“源于临床、用于临床”的鲜活实践。巴芪柔肝颗粒的新进展，也为观察国内中药创新研发提供了一个现实样本。 四味药材，组方严谨 蒲地蓝消炎口服液由蒲公英、苦地丁、板蓝根、黄芩四味药材配伍而成，组方严谨，具有清热解毒、抗炎消肿之效，多用于热毒蕴结引发的咽炎、扁桃体炎等病症。蒲地蓝消炎口服液针对的是“热毒蕴结”——表现为咽喉红肿疼痛、舌苔黄、口渴、发热等症状。 独家剂型，便捷患者用药 固体剂型(片剂、胶",
-     "source": "东方财富股票",
-     "zh": "新药与经典制剂并行：巴芪柔肝颗粒与济川蒲地蓝的中药创新样本"
-    },
-    {
-     "title": "Goods trade deficit unexpectedly widens in October; Wholesale and retail inventories rise",
-     "link": "https://seekingalpha.com/news/4677017-goods-trade-deficit-unexpectedly-widens-in-october-wholesale-and-retail-inventories-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:34:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goods trade deficit unexpectedly widens in October; Wholesale and retail inventories rise"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 13:32:10 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
-    },
-    {
-     "title": "Formula Systems declares $1.63 dividend",
-     "link": "https://seekingalpha.com/news/4677019-formula-systems-declares-1_63-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:29:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Formula Systems declares $1.63 dividend"
+     "title": "Renters are now a national political constituency that can influence elections",
+     "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:30:00 GMT",
+     "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+     "source": "MarketWatch",
+     "zh": "Renters are now a national political constituency that can influence elections"
     },
     {
      "title": "外汇局：6月末我国对外证券投资资产21572亿美元",
@@ -2386,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "外汇局：10月份我国国际收支货物和服务贸易顺差860亿美元"
     },
     {
+     "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+     "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:22:00 GMT",
+     "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
+     "source": "MarketWatch",
+     "zh": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals"
+    },
+    {
      "title": "The S&P 500 is in a correction. Bear markets and recessions don&apos;t always follow",
      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
      "pubDate": "Fri, 27 Nov 2026 13:21:56 GMT",
@@ -2394,20 +2434,28 @@ window.INDUSTRY_DATA = {
      "zh": "The S&P 500 is in a correction. Bear markets and recessions don&apos;t always follow"
     },
     {
-     "title": "Carlsberg plans an IPO for its India unit",
-     "link": "https://seekingalpha.com/news/4677018-carlsberg-plans-an-ipo-for-its-india-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 08:19:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Carlsberg plans an IPO for its India unit"
-    },
-    {
      "title": "US tech stocks set to jump at open as volatile trading takes hold",
      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 13:15:41 GMT",
      "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
      "source": "Financial Times",
      "zh": "US tech stocks set to jump at open as volatile trading takes hold"
+    },
+    {
+     "title": "New car prices are at a record high. Here&apos;s where to look for deals",
+     "link": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+     "pubDate": "Fri, 27 Nov 2026 13:15:01 GMT",
+     "summary": "While the average price of a new car hit $51,109 in October, according to Kelley Blue Book, many buyers are spending far less on their purchase. Here's how.",
+     "source": "CNBC",
+     "zh": "New car prices are at a record high. Here&apos;s where to look for deals"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:15:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
     },
     {
      "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "据中国人民银行网站11月27日消息，《人民币存贷款利率管理规定》（以下简称《规定》）已经2026年10月30日中国人民银行第10次行务会审议通过，现予发布，自2027年3月21日起施行。 “随着利率市场化改革不断推进，利率的行政性管制逐步放开，各项存贷款利率由金融机构按市场化原则自主确定，中国人民银行负责利率政策的制定、执行和监管。同时，市场利率定价自律机制等行业自律组织也发挥着日益重要的作用。”据中国人民银...",
      "source": "经济观察网",
      "zh": "《人民币存贷款利率管理规定》明年3月21日起施行 不再对罚息利率区间进行具体规定"
-    },
-    {
-     "title": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》",
-     "link": "http://www.eeo.com.cn/2026/1127/1105743.shtml",
-     "pubDate": "Fri, 27 Nov 2026 20:52:19 +0800",
-     "summary": "本报讯 （记者韩昱） 据中国注册会计师协会网站11月27日消息，《注册会计师行业发展“十五五”规划》（以下简称《规划》）现已印发。 《规划》提出，注册会计师行业作为高端生产性服务业，是现代化产业体系的重要组成部分，必须深入实施扩能提质行动，持续扩大服务有效供给，持续提升审计服务质量，不断拓展多元化增值服务领域，加快新技术与行业深度融合，向专业化和价值链高端延伸，不断做强做大、做精做专，持续...",
-     "source": "经济观察网",
-     "zh": "中国注册会计师协会印发《注册会计师行业发展“十五五”规划》"
-    },
-    {
-     "title": "11月27日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202611273941923444.html",
-     "pubDate": "Fri, 27 Nov 2026 20:44:46 +0800",
-     "summary": "沪深两市多家上市公司11月27日晚间发布重要公告，以下为利好的消息汇总： 贵州茅台 2026年中期利润分配方案：拟10派256元 贵州茅台 (600519)11月27日发布2026年中期利润分配方案，拟向全体股东每股派发现金红利25.6元（含税），合计派发现金红利320.02亿元（含税）。 华胜天成 ：公司与华为主要合作模式为基于项目建设与运营需求采购华为软件硬件产品 华胜天成 (600410)11月27日公告，公司股票交易于11月25日、11月26日、11月27日，连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动的情形。鉴于近期公司股票价格波动较大，公司股价可能存在短",
-     "source": "东方财富资讯",
-     "zh": "11月27日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "黄金强势反弹，大规模空头挤压一触即发？",
-     "link": "https://wallstreetcn.com/articles/3786859",
-     "pubDate": "Fri, 27 Nov 2026 20:39:27 +0800",
-     "summary": "黄金市场正在经历一场剧烈的技术性反转。在经历了数周惨烈抛售、空头头寸大幅积累之后，金价强势拉升，市场正在评估这场反弹能否演变为一轮系统性的空头挤压行情。 金价本周大幅走高，确认了此前图表上出现的\"锤形反转\"形态。据The Market Ear分析， 金价在触及3400美元关键支撑位后强势反弹，当前面临的首个阻力位在3800美元附近（21日均线），若能有效收于该水平之上，则通往4000美元区域的技术阻力相当有限。 值得注意的是，200日均线目前仍远高于现货价格，均值回归交易空间依然充裕。 此轮反弹的潜在推动力不容小觑。高盛数据显示， 投机者在11月10日至17日期间净卖出93亿美元黄金期货，随后",
-     "source": "华尔街见闻",
-     "zh": "黄金强势反弹，大规模空头挤压一触即发？"
-    },
-    {
-     "title": "SAP may cut 10,000 jobs to make room for AI",
-     "link": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 12:37:00 GMT",
-     "summary": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
-     "source": "Finextra",
-     "zh": "SAP may cut 10,000 jobs to make room for AI"
-    },
-    {
-     "title": "First principles to cling to when markets convulse",
-     "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 12:32:08 GMT",
-     "summary": "If you haven’t a clue what to do right now, stick to the investment basics",
-     "source": "Financial Times",
-     "zh": "First principles to cling to when markets convulse"
-    },
-    {
-     "title": "中国金融稳定报告（2026）：证监会将适时推广新模式浮动管理费率基金 提高权益类基金占比和公募基金持股市值占比",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941895645.html",
-     "pubDate": "Fri, 27 Nov 2026 20:15:35 +0800",
-     "summary": "中国人民 银行 发布了《中国金融稳定报告（2026）》。报告指出，中国证监会将持续深化公募基金改革。一是完善公募基金产品谱系，推出更多中低波动、稳健收益类产品，有效对接保险资金、 养老金 、 银行 理财等投资需求，落实好权益类基金快速注册机制，推动指数化投资高质量发展，适时推广新模式浮动管理费率基金，提高权益类基金占比和公募基金持股市值占比。二是稳步落地业绩比较基准新规，组织行业机构分批次有序调整存量公募产品业绩比较基准，切实引导公募基金提升投资稳定性、提高投资者获得感。三是健全投资者利益绑定机制，做好《基金管理公司绩效考核管理指引》落地实施工作，建立基金销售机构分类评价机制，推动行业机构更好",
-     "source": "东方财富资讯",
-     "zh": "中国金融稳定报告（2026）：证监会将适时推广新模式浮动管理费率基金 提高权益类基金占比和公募基金持股市值占比"
     }
    ]
   },
@@ -2586,12 +2586,12 @@ window.INDUSTRY_DATA = {
      "zh": "'I would love to discover Attila's grave': Live Science readers weigh in on which archaeological discoveries they would want to find"
     },
     {
-     "title": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game",
+     "title": "Stars in your eyes? These are the best Black Friday telescope, smart telescope, binoculars and star projector deals we've found to raise your skywatching game",
      "link": "https://www.livescience.com/products/optics/stars-in-your-eyes-these-are-the-best-black-friday-telescopes-smart-telescopes-and-binocular-deals-weve-found-to-raise-your-skywatching-game",
      "pubDate": "Thu, 26 Nov 2026 12:33:31 +0000",
      "summary": "We've found the stargazing deals worth your money this Black Friday at retailers like Amazon and B&H, including some of our favorite models that we've personally tried and tested.",
      "source": "Live Science",
-     "zh": "Stars in your eyes? These are the best Black Friday telescopes, smart telescopes and binocular deals we've found to raise your skywatching game"
+     "zh": "Stars in your eyes? These are the best Black Friday telescope, smart telescope, binoculars and star projector deals we've found to raise your skywatching game"
     },
     {
      "title": "Common supplements rival antibiotics in treating severe gum disease",

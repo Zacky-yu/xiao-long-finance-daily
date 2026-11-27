@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 10:11:55",
+ "generated_at": "2026/11/27 10:31:49",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+     "link": "https://www.qbitai.com/2026/11/513075.html",
+     "pubDate": "Fri, 27 Nov 2026 02:03:10 +0000",
+     "summary": "担心课题被AI抢先，该怎么办？",
+     "source": "量子位",
+     "zh": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”"
+    },
+    {
+     "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+     "link": "https://www.qbitai.com/2026/11/513053.html",
+     "pubDate": "Fri, 27 Nov 2026 01:16:10 +0000",
+     "summary": "Quickwit查询总耗时降31%，最高降87%",
+     "source": "量子位",
+     "zh": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩"
+    },
     {
      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
      "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
@@ -106,28 +122,12 @@ window.INDUSTRY_DATA = {
      "zh": "极客公园创新大会 2027 全议程公布！"
     },
     {
-     "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-     "link": "https://www.qbitai.com/2026/11/512942.html",
-     "pubDate": "Thu, 26 Nov 2026 07:36:04 +0000",
-     "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-     "source": "量子位",
-     "zh": "报名最后2天｜AI浪潮之中，来认识创造未来的人"
-    },
-    {
      "title": "目标估值2200亿！曝英国AI语音创企寻求新融资",
      "link": "https://zhidx.com/p/614573.html",
      "pubDate": "Thu, 26 Nov 2026 14:45:37 +0800",
      "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西11月26日消息，今日，据彭博社援引知情人士消息报道，英国AI语音初创公司ElevenLabs正就新一轮融资展开早期磋商，目标估值 330亿美元（约合人民币2199亿元） 。 知情人士称，该公司计划在 2027年前三个月 正式启动本轮融资。由于相关信息尚未公开，消息人士要求匿名。目前，相关讨论仍处于初步阶段，但已有部分潜在投资方希望进程尽早开启。 拟议中的估值较ElevenLabs今年9月通过员工要约收购达到的 220亿美元（约合人民币1466亿元） 估值 提升了50% ，延续了该公司融资估值以“11的倍数”定价的惯例。据彭博社报道，该公司商业",
      "source": "智东西",
      "zh": "目标估值2200亿！曝英国AI语音创企寻求新融资"
-    },
-    {
-     "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-     "link": "https://www.qbitai.com/2026/11/512916.html",
-     "pubDate": "Thu, 26 Nov 2026 06:41:23 +0000",
-     "summary": "30秒一镜到底，可自动编排镜头",
-     "source": "量子位",
-     "zh": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一"
     },
     {
      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -1754,12 +1754,108 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "入境游的重头戏还在后面",
+     "link": "https://www.huxiu.com/article/4908864.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 10:22:26 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：苏斯楠 免签“朋友圈”把“说走就走的中国游”变成常态。我国入境游已从“会不会来”的问题，转为“来了接不接得住”的问题。 “想要一个深圳”成了海外社交媒体的流行话题。 11月19日，APEC第三十三次领导人非正式会议在深圳落幕。这场盛会最出圈的，是一众政要的“深圳体验”。 俄罗斯总统普京说深圳是“最现代化、最具活力的大都市之一”；智利总统卡斯特感慨“进步不是奇迹，而是一种决心”；新加坡总理黄循财在《人民日报》撰文称深圳“令人瞩目”；韩国总统李在明则直言“未来技术如何改变生活，深圳给出了答案”。 与此同时，免签“朋友圈”把“说走就走的中国游”变成常态。国家",
+     "source": "虎嗅",
+     "zh": "入境游的重头戏还在后面"
+    },
+    {
+     "title": "51种1类创新药进医保，为什么到医院还是开不到？",
+     "link": "https://www.huxiu.com/article/4908861.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 10:19:17 +0800",
+     "summary": "本文来自微信公众号： 经济观察网 ，作者：颜齐 进了医保目录，不等于进了医院药房。患者拿着处方在医院买不到药，医生开得出却配不上。但这“最后一公里”的梗阻，其实是一个老生常谈的话题。 曾经定价129万元/支的CAR-T抗癌药瑞基奥仑赛注射液，因首次进入国家基本医保目录引发公众关注。该产品纳入医保后的支付标准为28.86万元，降幅超77%，自2027年1月1日起执行。 同时，2026年医保目录调整，新增107种药品，其中51种为1类创新药，数量创历史新高。 然而，进了医保目录，不等于进了医院药房。患者拿着处方在医院买不到药，医生开得出却配不上。但这“最后一公里”的梗阻，其实是一个老生常谈的话题。",
+     "source": "虎嗅",
+     "zh": "51种1类创新药进医保，为什么到医院还是开不到？"
+    },
+    {
+     "title": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？",
+     "link": "https://www.baijing.cn/question/638993",
+     "pubDate": "Fri, 27 Nov 2026 02:14:03 +0000",
+     "summary": "我们做二次元卡牌RPG，团队12人，3月刚在韩国上线，GRAC分级和概率公示都按流程走完了，但预注册阶段Meta和Google的CPA一直卡在1.8万韩元上下，比日本同品类高出近一倍。已经试过换素材方向、把预算往Naver和Kakao渠道倾斜，也调过受众年龄分层，成本只降了不到15%。现在纠结的是：韩国市场这个CPA到底是分级合规带来的素材审核限制导致的，还是我们本地化素材本身没打中韩国玩家？想先判断该继续加预算跑量，还是回头重做素材和落地页。",
+     "source": "白鲸出海",
+     "zh": "韩国手游上线前做完GRAC分级，为什么预注册CPA还是冲到1.8万韩元？"
+    },
+    {
+     "title": "舜宇智行：三年分红39.11亿超累计净利，关联交易、募资补流引争议",
+     "link": "https://www.tmtpost.com/8216831.html",
+     "pubDate": "Fri, 27 Nov 2026 10:13:02 +0800",
+     "summary": "2023-2025年公司累计现金分红39.11亿元，分红总额甚至超出同期累计净利润，在刚刚完成大额分红的背景下，公司拟通过IPO募资补充营运资金，该项募资安排的必要性与合理性，备受市场热议。",
+     "source": "钛媒体",
+     "zh": "舜宇智行：三年分红39.11亿超累计净利，关联交易、募资补流引争议"
+    },
+    {
+     "title": "微星推出 MAG OLED 271QEX24 显示器：250nits SDR 亮度，2.5 倍耐刮",
+     "link": "https://www.ithome.com/1/033/199.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:12:35 GMT",
+     "summary": "IT之家 11 月 27 日消息，微星 (MSI) 现已在其官网上线 MAG OLED 271QEX24 显示器。这一型号仍基于三星显示 27\" QHD 240Hz 平价 QD-OLED 面板，但规格属性有所改善。 该显示器的 SDR 亮度从类似产品的 200nits 提升至 250nit ；此外，其表面硬度从 2H 提升至 3H， 拥有 2.5 倍的抗刮耐磨性能 ，更易日常打理。 MAG OLED 271QEX24 拥有 400nits 的 HDR 峰值亮度 ，静态对比度 1.5M:1；灰阶 (GtG) 响应时间 0.03ms；色深 10bit， 色域 99% DCI-P3 / 98% Ad",
+     "source": "IT之家",
+     "zh": "微星推出 MAG OLED 271QEX24 显示器：250nits SDR 亮度，2.5 倍耐刮"
+    },
+    {
+     "title": "普祺医药：九年累计亏损超6亿元，公司目前已资不抵债",
+     "link": "https://www.tmtpost.com/8216839.html",
+     "pubDate": "Fri, 27 Nov 2026 10:10:43 +0800",
+     "summary": "截至2026年4月末，普祺医药净资产由正转负，陷入资不抵债状态。",
+     "source": "钛媒体",
+     "zh": "普祺医药：九年累计亏损超6亿元，公司目前已资不抵债"
+    },
+    {
+     "title": "2027 款岚图泰山开启预售：120 度宁德时代三元锂电池，43.99 万元",
+     "link": "https://www.ithome.com/1/033/198.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:10:22 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，2027 款岚图泰山今日开启预售，只有一个版本可选，预售价 43.99 万元。新车将在 12 月上旬正式发售并同步开启交付。 2027 款岚图泰山定位中式豪华大六座 SUV，采用 6 座布局，拥有 108L 电动前备厢，后排升级 LC 智能调光车窗，前排换用全新双联屏设计，搭载华为鸿蒙座舱 HarmonySpace 6。 2027 款岚图泰山的外观延续前代，前脸采用“天地鲲鹏”设计，拥有 588 片“龙鳞纹”展示东方美学。新车还搭载华为乾崑 896 线激光雷达、虎踞底盘，并采用华为乾崑智驾 HUAWEI ADS 系统。 新车标配 120kWh 宁德时代三元",
+     "source": "IT之家",
+     "zh": "2027 款岚图泰山开启预售：120 度宁德时代三元锂电池，43.99 万元"
+    },
+    {
+     "title": "2027 年小鹏 5 款全球车型将登陆海外市场：出海不是性价比品牌，稳稳占住中高端市场",
+     "link": "https://www.ithome.com/1/033/197.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:10:07 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，在今日的 2026 广州国际车展上，小鹏汽车宣布， 2027 年小鹏 5 款全球车型将登陆海外市场 ，小鹏 P7 车型也将于 2027 年第二季度登陆欧洲市场。 IT之家在发布会现场获悉，小鹏汽车官方预计，2026 年小鹏全球海外销量预计将首次突破 10 万辆。仅 10 月份， 小鹏就在海外单月交付 13,326 辆，同比增长 166%，创下了历史新高 。 与此同时，小鹏的销售和售后网络也已经覆盖了 83 个国家和地区，全球门店数量也已经超过 1,300 家。 小鹏汽车还表示， 小鹏在海外不是性价比品牌 ，而是在欧洲的主流中国品牌中保持最高平均售价，单车均",
+     "source": "IT之家",
+     "zh": "2027 年小鹏 5 款全球车型将登陆海外市场：出海不是性价比品牌，稳稳占住中高端市场"
+    },
+    {
      "title": "涨价、减配、挤牙膏：手机堆料战，被内存逼停",
      "link": "https://www.huxiu.com/article/4908855.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 10:07:26 +0800",
      "summary": "本文来自微信公众号： 识礁Farsight ，作者：识礁团队，制图：识礁Farsight 一直以来，手机行业都奉行“加量不加价”的升级策略。随着内存价格飙升，这一迭代逻辑正在崩塌。 近日，据数码博主“数码闲聊站”爆料，2027年手机芯片规划不再激进，有些不迭代或小迭代。头部大厂的迭代芯片计划砍掉部分外围配置，性能挤牙膏，进一步控制成本。“3nm芯片继续战未来，机圈全面进入过日子时代”。 事实上，为避免大幅涨价，2026年部分旗舰手机已开始放缓核心配置的升级节奏。以今年9月问世的OPPO Find X10 E为例，其起售价为4999元，搭载天玑9500s处理器。该处理器虽然发布于2026年1月，",
      "source": "虎嗅",
      "zh": "涨价、减配、挤牙膏：手机堆料战，被内存逼停"
+    },
+    {
+     "title": "奇瑞 QQ 啡车全球众筹：CLTC 纯电续航 420km、L2 级辅助驾驶，9.69 万元",
+     "link": "https://www.ithome.com/1/033/195.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:06:16 GMT",
+     "summary": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞还带来了全新的 QQ 啡车，号称“快乐起飞”。 据介绍，奇瑞 QQ 啡车拥有「快乐三件套」，包含「自由橘光」定制车衣（奶白油和阳光橘双拼色设计）、17 寸「晴空之轮」轮毂、车载水电系统「快乐食光」后备厢套件。 IT之家在广州车展现场了解到，奇瑞 QQ 啡车开启全球众筹，众筹 1000 台之后开启量产。新车 CLTC 纯电续航 420km，配备电动前备厢，支持 L2 级辅助驾驶、自动泊车，定价 9.69 万元。",
+     "source": "IT之家",
+     "zh": "奇瑞 QQ 啡车全球众筹：CLTC 纯电续航 420km、L2 级辅助驾驶，9.69 万元"
+    },
+    {
+     "title": "消费级显卡正在变成一门边缘生意",
+     "link": "https://www.tmtpost.com/8219460.html",
+     "pubDate": "Fri, 27 Nov 2026 10:05:26 +0800",
+     "summary": "消费者还能买到平价显卡吗？",
+     "source": "钛媒体",
+     "zh": "消费级显卡正在变成一门边缘生意"
+    },
+    {
+     "title": "他们，将剩菜做成了生意",
+     "link": "https://www.tmtpost.com/8219729.html",
+     "pubDate": "Fri, 27 Nov 2026 10:05:25 +0800",
+     "summary": "让天下没有被浪费的粮食",
+     "source": "钛媒体",
+     "zh": "他们，将剩菜做成了生意"
+    },
+    {
+     "title": "259 元酷态科 5 号磁吸电能卡 Air 开售，5000mAh 电芯容量",
+     "link": "https://www.ithome.com/1/033/194.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:04:20 GMT",
+     "summary": "IT之家 11 月 27 日消息，酷态科 5 号磁吸电能卡 Air 今日 10:00 开售，日常价 299 元，首销权益价不高于 259 元。 作为酷态科首款超薄磁吸， 该产品薄约 0.77cm，轻约 115g ，全面通过 2026 新国标认证，飞机 / 高铁均可携带。 该产品搭载苹果 iPhone 同厂 ATL 电芯， MacBook 同系铝合金外壳 ，灵动流光灯带设计，可提示剩余电量。 新品全新升级 OPC 放心充 2.1，号称“绿灯一亮智能护机”，支持 15W MAX 磁吸无线 / 25W MAX 有线双模式供电，iPhone 12-18 系列机型支持 7.5W MAX 磁吸无线充。 此",
+     "source": "IT之家",
+     "zh": "259 元酷态科 5 号磁吸电能卡 Air 开售，5000mAh 电芯容量"
     },
     {
      "title": "G2算力基建进入减速周期",
@@ -1778,6 +1874,14 @@ window.INDUSTRY_DATA = {
      "zh": "医疗创新｜乙肝患者终于有了停药的盼头"
     },
     {
+     "title": "工信部：今年前 10 个月电信业务收入 1.43 万亿元同比降 2.6%，5G 基站达 528.1 万个",
+     "link": "https://www.ithome.com/1/033/193.htm",
+     "pubDate": "Fri, 27 Nov 2026 02:00:28 GMT",
+     "summary": "IT之家 11 月 27 日消息，工信部今日发布《2026 年前 10 个月通信业经济运行情况》，前 10 个月，通信业运行基本平稳。电信业务总量稳步增长，移动互联网接入流量延续较快增势，5G、千兆、物联网等新型基础设施建设持续推进。 一、总体运行情况 前 10 个月，电信业务收入累计完成 1.43 万亿元，同比下降 2.6%。按照上年不变价计算的电信业务总量同比增长 7.2%。 图 1 电信业务收入和电信业务总量累计增速 二、电信用户发展情况 固定宽带接入用户规模稳步扩大，千兆用户数持续增加。 截至 10 月末，三家基础电信企业的固定互联网宽带接入用户达到 7.1 亿户，比上年末净增 195",
+     "source": "IT之家",
+     "zh": "工信部：今年前 10 个月电信业务收入 1.43 万亿元同比降 2.6%，5G 基站达 528.1 万个"
+    },
+    {
      "title": "十三年磨一剑，GTA6为何封神？",
      "link": "https://www.huxiu.com/article/4908675.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 09:58:02 +0800",
@@ -1794,76 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "肯尼亚买量成本涨了三成，是网络环境问题还是平台政策收紧？"
     },
     {
-     "title": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售：14.7 英寸 OLED 内屏、麒麟 XE90 芯片",
-     "link": "https://www.ithome.com/1/033/182.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:42:06 GMT",
-     "summary": "IT之家 11 月 27 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 今日正式开售，定价 14999 元起，叠加国补后 13499 元起。IT之家整理如下： 16GB + 256GB（含键盘 + 内胆包）：14999 元 16GB + 512GB（含键盘 + 内胆包）：16999 元 24GB+ 512GB（含键盘 + 内胆包）：18999 元 32GB + 1TB（含键盘 + 手写笔 + 内胆包）：22999 元 32GB + 1TB（限定套装）：24999 元 折叠键盘：1299 元 官方还推出了 MateBook Fold 非凡大师版本，该版本机型配备 32GB RA",
-     "source": "IT之家",
-     "zh": "14999 元起华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售：14.7 英寸 OLED 内屏、麒麟 XE90 芯片"
-    },
-    {
-     "title": "奇瑞全新艾瑞泽 7 预售：标配 1.5T 鲲鹏动力，8.39 万元起",
-     "link": "https://www.ithome.com/1/033/181.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:41:00 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，在今天的 2026 广州车展上，奇瑞全新艾瑞泽 7 开启预售，标配 1.5T 鲲鹏动力， 8.39 万元起 。 尊贵型：8.39 万元 旗舰型：9.29 万元 据官方介绍，艾瑞泽 7 是奇瑞“全球化”战略的最新力作，从立项之初即按照全球标准研发。它跳出了“先造好车再做海外适配”的传统路径，直接从第一张图纸切入全球化体系， 围绕全球七十多个国家需求进行同步开发与验证 。 IT之家注意到， 新车全温域验证历经-40℃ 北欧极寒与 50℃ 中东烈日 ，覆盖 10 项极端工况；全路型验证投入近千台实车，完成 120 万公里测试，覆盖 30 多种全球典型路况； 全海",
-     "source": "IT之家",
-     "zh": "奇瑞全新艾瑞泽 7 预售：标配 1.5T 鲲鹏动力，8.39 万元起"
-    },
-    {
-     "title": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
-     "link": "https://www.huxiu.com/article/4908844.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 09:39:36 +0800",
-     "summary": "本文来自微信公众号： 象限Trine ，作者：张恒 11月24日，比亚迪宣布，与英国英力士汽车（INEOS Automotive）就收购法国汉巴赫（Hambach）汽车工厂进入独家谈判。 这座工厂并不普通。它最早由奔驰建设，用于生产Smart品牌汽车，2020年被英力士从奔驰手中收购，目前主要生产Grenadier越野车。工厂位于法国东北部，靠近德国边境，拥有近900名员工。 如果交易最终完成，这将成为比亚迪在西欧的重要制造基地。 值得注意的是，比亚迪并没有选择从零开始建厂，而是直接瞄准一家已经具备汽车生产能力的欧洲工厂。它想要的，不只是厂房和设备，还有当地的产业基础、员工队伍，以及进入欧洲市",
-     "source": "虎嗅",
-     "zh": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场"
-    },
-    {
      "title": "中国无人出租车的迪拜热战",
      "link": "https://www.tmtpost.com/8219718.html",
      "pubDate": "Fri, 27 Nov 2026 09:39:16 +0800",
      "summary": "中国Robotaxi公司加速布局迪拜，百度萝卜快跑率先落地，推动无人驾驶服务扩展至全球。",
      "source": "钛媒体",
      "zh": "中国无人出租车的迪拜热战"
-    },
-    {
-     "title": "小米 HAD 辅助驾驶最新版本 HyperOS 1.20 发布，澎程全系车型即日起全量推送",
-     "link": "https://www.ithome.com/1/033/179.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:36:48 GMT",
-     "summary": "IT之家 11 月 27 日消息，在今天的 2026 广州车展小米汽车发布会上，小米 HAD 最新版本 Xiaomi HyperOS 1.20 正式发布，该版本引入因果链和车端世界模型，号称能像人一样思考，处理更准确。 IT之家从发布会获悉， 小米澎程全系即日开启全量推送 ；第一代 SU7 Pro / Max、 SU7 Ultra，新一代 SU7 全系 / YU7 全系将陆续推送。 李肖爽还宣布，截至 11 月 26 日，小米澎程系列 已交付超 6 万台 。小米澎程 SUV 于 9 月 12 日开启首批交付， 6 万台交付用时两个半月 。 李肖爽表示，在刚刚过去的 10 月，小米澎程的全系都获",
-     "source": "IT之家",
-     "zh": "小米 HAD 辅助驾驶最新版本 HyperOS 1.20 发布，澎程全系车型即日起全量推送"
-    },
-    {
-     "title": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%",
-     "link": "https://www.ithome.com/1/033/178.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:36:34 GMT",
-     "summary": "IT之家 11 月 27 日消息，科技媒体 TweakTown 今天（11 月 27 日）报道，11 月 17~19 日在荷兰召开的 2026 图形编程大会上，AMD 展示了 RT-MLAS 光线追踪优化技术，可以降低复杂、重复场景中光线追踪的显存占用，最高降至 13 分之一。 该技术全称为“光线追踪多级加速结构”（RT-MLAS），已作为 VK_AMDX_multi_level_acceleration_structure 扩展纳入 Vulkan 1.4.369 规范。 该功能目前仅面向 AMD RDNA 4 架构显卡开放，涵盖 Radeon RX 9000 系列消费级显卡，以及 Radeo",
-     "source": "IT之家",
-     "zh": "AMD 新 Vulkan 技术为光追游戏“减负”，显存占用最高降约 92%"
-    },
-    {
-     "title": "理想少赚的30亿去哪了？",
-     "link": "https://www.huxiu.com/article/4908843.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 09:35:36 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 理想三季度亏得比上季度少多了，算是个好消息。 可把时间拉长看，同样是一个季度卖10万辆左右的车，2023年三季度理想在经营上赚了23个亿，今年三季度经营亏损7个亿。 车少卖了五千辆，里外里，差了30个亿。这30个亿，大头出在毛利上。 …… 在我看来，这比三季度亏了多少钱更值得琢磨。 理想三季度净亏3.1亿，不过，咱们今天主要看经营利润，看看理想日常做生意，到底能挣多少钱。 做汽车生意，无非就算两笔账，每卖一辆车能留下多少钱，养这么大一个公司又要花多少钱。 我们把理想前几年的账翻出来看看。 2023年三季度，理想的生意还很好做。L系列三款车撑着，增程",
-     "source": "虎嗅",
-     "zh": "理想少赚的30亿去哪了？"
-    },
-    {
-     "title": "AOC 推出 24G41SE 显示器：23.8\" 小尺寸，FHD 320Hz",
-     "link": "https://www.ithome.com/1/033/177.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:32:38 GMT",
-     "summary": "IT之家 11 月 27 日消息，AOC 本月 24 日在官网上线了 24G41SE 小尺寸电竞显示器。这一型号 基于 23.8\" Fast IPS 面板 ，分辨率 FHD (1920×1080)，原生刷新率 300Hz、超频刷新率 320Hz。 该显示器 亮度可达 400nits ，静态对比度 1000:1；GtG 响应时间 1ms、MPRT 响应时间 0.3ms；色深 8bit，色域 100% sRGB / 92% DCI-P3，sRGB 下色偏（平均值）ΔE＜2；支持硬件低蓝光、可变刷新率。 该显示器提供 1 个 HDMI 2.1 TMDS、1 个 DisplayPort 1.4，另有一",
-     "source": "IT之家",
-     "zh": "AOC 推出 24G41SE 显示器：23.8\" 小尺寸，FHD 320Hz"
-    },
-    {
-     "title": "东风奕派 EP7 广州车展首发亮相：全球首款搭载华为乾崑与宁德时代换电的轿跑",
-     "link": "https://www.ithome.com/1/033/176.htm",
-     "pubDate": "Fri, 27 Nov 2026 01:31:25 GMT",
-     "summary": "IT之家 11 月 27 日现场消息，今日广州车展正式拉开帷幕。在本届车展上，东风奕派旗下全新中大型纯电轿车 EP7 迎来首发亮相，该车是全球首款搭载华为乾崑和宁德时代换电的轿跑。 IT之家注意到，东风奕派 EP7 采用了品牌全新的设计语言，整体造型时尚简约。前脸部分，新车配备封闭式前格栅，搭配星环式灯组，视觉效果极具辨识度。前包围设计动感，并集成主动式进气格栅。 车身侧面，EP7 采用溜背式轿跑设计，线条流畅且富有张力。半隐藏式门把手与双五辐轮圈的组合，既降低了风阻，又增添了运动气息，整车风阻系数 0.203。车身尺寸方面，新车长宽高分别为 4910mm、1930mm、1478mm，轴距 2",
-     "source": "IT之家",
-     "zh": "东风奕派 EP7 广州车展首发亮相：全球首款搭载华为乾崑与宁德时代换电的轿跑"
     },
     {
      "title": "TikTok Shop 美国站寄样 200 多位达人只出 9 单，4 人团队该怎么排期筛选？",
@@ -1874,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 美国站寄样 200 多位达人只出 9 单，4 人团队该怎么排期筛选？"
     },
     {
-     "title": "我们看好的Citizens Financial尚未兑现收益 —— 为何继续持有该股",
-     "link": "https://www.tmtpost.com/8219782.html",
-     "pubDate": "Fri, 27 Nov 2026 09:18:46 +0800",
-     "summary": "Citizens 正在拓展私人银行业务，目标在 2027 年底前实现更高回报。本轮抛售给投资者提供了更低的入场价。",
-     "source": "钛媒体",
-     "zh": "我们看好的Citizens Financial尚未兑现收益 —— 为何继续持有该股"
-    },
-    {
-     "title": "AI制药：科技巨头集体下注，研发从“工具外挂”奔赴临床大考丨盘点2026",
+     "title": "AI制药2026：科技巨头集体下注，研发从“工具外挂”奔赴临床大考",
      "link": "https://www.tmtpost.com/8219609.html",
-     "pubDate": "Fri, 27 Nov 2026 09:08:55 +0800",
+     "pubDate": "Fri, 27 Nov 2026 09:08:00 +0800",
      "summary": "这是一场缓慢而务实的范式迁移，算力、模型、数据、实验能力、临床证据，缺一不可。",
      "source": "钛媒体",
-     "zh": "AI制药：科技巨头集体下注，研发从“工具外挂”奔赴临床大考丨盘点2026"
-    },
-    {
-     "title": "Edge AI Daily 早报（11月27日）",
-     "link": "https://www.tmtpost.com/8219678.html",
-     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0800",
-     "summary": "OpenAI宣称将方阵矩阵乘法渐近指数ω精确证明为9/4，谷歌以Cogentic生成6篇数学预印本，OpenAI与Anthropic同日发布VP≠VNP论文及Lean形式化材料，AI科研正逼近机器可验证边界。OpenAI测试面向企业客户的私有推理，零数据留存与运行时保护成竞争焦点。",
-     "source": "钛媒体",
-     "zh": "Edge AI Daily 早报（11月27日）"
+     "zh": "AI制药2026：科技巨头集体下注，研发从“工具外挂”奔赴临床大考"
     },
     {
      "title": "巴西达人素材换成墨西哥直接投，为什么完播率掉了四成？",
@@ -1925,17 +1949,9 @@ window.INDUSTRY_DATA = {
      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
      "pubDate": "Fri, 27 Nov 2026 00:03:18 +0000",
-     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 28 # Comments: 3",
+     "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/ Comments URL: https://news.ycombinator.com/item?id=50661218 Points: 31 # Comments: 7",
      "source": "Hacker News",
      "zh": "AI agents now control part of DeepMind's compute for Gemini experiments"
-    },
-    {
-     "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
-     "link": "https://www.tmtpost.com/8219586.html",
-     "pubDate": "Fri, 27 Nov 2026 07:20:00 +0800",
-     "summary": "爱奇艺触发退市警告，回应：暂不停牌，180日内整改；美团、淘宝闪购官宣：全面取消超时扣款处罚；祝丽丹起诉娃哈哈商业股份有限公司案件未开庭，法院工作人员称“已撤诉”；SpaceX官宣儿童赠股计划，马斯克个人捐赠等额匹配；三部委：积极推进5G-A网络规模覆盖，适时开展6G网络建设；五部门部署推进技工教育高质量特色发展，将建设100个优质专业；国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益；有饮料可以不标生产日期？市场监管总局回应；中国央行1000亿元人民币2个月国库现金定期存款定于12月1日招投标；中上协：以10月收盘价计算，上市公司境内股份总市值100万亿元；中信证券：11",
-     "source": "钛媒体",
-     "zh": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元"
     },
     {
      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "link": "https://kendell.dev/blog/arkwrapper/",
      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 43 # Comments: 7",
+     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 46 # Comments: 8",
      "source": "Hacker News",
      "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 320 # Comments: 167",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 325 # Comments: 173",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1965,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 244 # Comments: 49",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 250 # Comments: 49",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1973,25 +1989,9 @@ window.INDUSTRY_DATA = {
      "title": "Company Culture = Slack Emoji ÷ √Headcount",
      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
      "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 106 # Comments: 26",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 116 # Comments: 30",
      "source": "Hacker News",
      "zh": "Company Culture = Slack Emoji ÷ √Headcount"
-    },
-    {
-     "title": "Is Alice Huang a spy or not?",
-     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-     "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
-     "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-     "source": "TechCrunch",
-     "zh": "Is Alice Huang a spy or not?"
-    },
-    {
-     "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
-     "link": "https://www.techmeme.com/261126/p24#a261126p24",
-     "pubDate": "Thu, 26 Nov 2026 14:55:02 -0500",
-     "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal su",
-     "source": "Techmeme",
-     "zh": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)"
     }
    ]
   },
@@ -2250,6 +2250,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "第三届国家农产品质量安全风险评估专家委员会换届大会在京召开",
+     "link": "http://www.eeo.com.cn/2026/1127/1104751.shtml",
+     "pubDate": "Fri, 27 Nov 2026 10:17:43 +0800",
+     "summary": "会议强调，“十五五”时期是农产品质量安全治理体系和治理能力现代化纵深推进的关键时期。",
+     "source": "经济观察网",
+     "zh": "第三届国家农产品质量安全风险评估专家委员会换届大会在京召开"
+    },
+    {
+     "title": "“三北”工程将按照14个重点分区 推行差异化治理",
+     "link": "http://www.eeo.com.cn/2026/1127/1104750.shtml",
+     "pubDate": "Fri, 27 Nov 2026 10:17:32 +0800",
+     "summary": "2026年安排中央投资277亿元，实施重点项目328个，建设任务7448万亩，目前完成各类建设任务6874万亩，“三北”工程攻坚战取得明显成效。",
+     "source": "经济观察网",
+     "zh": "“三北”工程将按照14个重点分区 推行差异化治理"
+    },
+    {
+     "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
+     "link": "https://wallstreetcn.com/articles/3786816",
+     "pubDate": "Fri, 27 Nov 2026 10:16:32 +0800",
+     "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
+     "source": "华尔街见闻",
+     "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
+    },
+    {
+     "title": "韩国综合指数盘中涨超2%",
+     "link": "http://www.eeo.com.cn/2026/1127/1104745.shtml",
+     "pubDate": "Fri, 27 Nov 2026 10:14:06 +0800",
+     "summary": "11月27日，韩国综合指数盘中涨超2%，截至北京时间9时35分，该指数涨2.12%。",
+     "source": "经济观察网",
+     "zh": "韩国综合指数盘中涨超2%"
+    },
+    {
+     "title": "今日看点｜2026广州车展将举行",
+     "link": "http://www.eeo.com.cn/2026/1127/1104735.shtml",
+     "pubDate": "Fri, 27 Nov 2026 10:08:35 +0800",
+     "summary": "11月27日至12月6日，2026广州车展将在广交会展馆举行。本届广州车展以“新科技・新生活”为主题，总面积22万平方米，展车总数1106辆，其中首发新车115辆，新能源车707辆。",
+     "source": "经济观察网",
+     "zh": "今日看点｜2026广州车展将举行"
+    },
+    {
+     "title": "创业板早盘涨超1%，AI算力掀起涨停潮，半导体产业链反弹，恒科指涨超2%，科网股集体拉升",
+     "link": "https://wallstreetcn.com/articles/3786820",
+     "pubDate": "Fri, 27 Nov 2026 10:08:31 +0800",
+     "summary": "11月27日，A股震荡分化，沪指盘初回落，创业板高开高走，早盘涨1%，AI算力爆发，润和软件20CM涨停，常山北明、拓维信息涨停。半导体板块反弹，华虹宏力涨超5%。军工、汽车、教育等板块走强。煤炭、石油化工、冰雪旅游等板块集体调整。 港股早盘高开高走，恒指、恒科指双双拉升，恒科指涨超2%，权重科网股集体反弹，美团、快手、哔哩哔哩等纷纷走高，芯片半导体、光模块等走高。债市方面，国债期货集体下跌。商品方面，国内商品期货普涨。核心市场走势： A股 ：截至发稿，沪指跌0.18%，深成指涨0.16%，创业板指涨0.76%。 港股 ：截至发稿，恒指涨0.43%，恒科指涨1.72%。 债市 ：国债期货全线下",
+     "source": "华尔街见闻",
+     "zh": "创业板早盘涨超1%，AI算力掀起涨停潮，半导体产业链反弹，恒科指涨超2%，科网股集体拉升"
+    },
+    {
      "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
      "pubDate": "Fri, 27 Nov 2026 02:04:09 GMT",
@@ -2280,6 +2328,14 @@ window.INDUSTRY_DATA = {
      "summary": "11月27日，国家统计局公布数据显示，1-10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。 其中，10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。 从三大门类看，1-10月采矿业利润增长38.8%，制造业利润增长17.5%，电力、热力、燃气及水生产和供应业利润下降14.8%。 电子行业：一项拉动近10个百分点 中国国家统计局工业司首席统计师于卫宁称，电子行业对利润增长支撑作用明显。 人工",
      "source": "华尔街见闻",
      "zh": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍"
+    },
+    {
+     "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+     "link": "https://wallstreetcn.com/articles/3786819",
+     "pubDate": "Fri, 27 Nov 2026 09:59:06 +0800",
+     "summary": "美银首席投资策略师Michael Hartnett最新发布的2027年展望报告，为2027年标普500指数设定了三大情境： 由广度驱动的“软着陆”基准情形（约7777点），由AI和政府干预驱动的“全面泡沫”（约8888点），以及市场极度缺乏防备的“硬着陆”破裂情形（约6666点） 。 Hartnett认为，市场当前对宏观经济的定价存在严重偏差，对硬着陆的定价严重不足——美银11月全球基金经理调查显示，仅3%的投资者预期硬着陆，而预期软着陆和无着陆的比例分别为50%和42%。 这一判断的核心依据是仓位与预期： 资产配置者普遍超配股票和商品、低配现金和债券，2026年股票基金流入年化达1.5万亿美",
+     "source": "华尔街见闻",
+     "zh": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666"
     },
     {
      "title": "【调研快报】好想你接待源峰基金等3家机构调研",
@@ -2338,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "军工板块表现活跃 成飞集成触及涨停"
     },
     {
-     "title": "许海东：汽车出海不只是产品输出，更多中国车企有望进入全球前十",
-     "link": "http://www.eeo.com.cn/2026/1127/1104710.shtml",
-     "pubDate": "Fri, 27 Nov 2026 09:52:19 +0800",
-     "summary": "11月26日，在南方财经全媒体集团指导、21世纪经济报道主办的2026新汽车年会上，中国汽车工业协会专务副秘书长许海东表示，中国汽车出海不仅是产品输出。他同时表示，更多中国车企有望进入全球前十。 他指出，中国汽车出口真正迎来爆发式增长是在“十四五”期间。许海东认为，中国车企崛起主要有两方面原因：一是基本具备正向设计能力，涵盖外观设计、质量管理、供应链管理和服务管理等方面；二是较好把握了“80后”“90后...",
-     "source": "经济观察网",
-     "zh": "许海东：汽车出海不只是产品输出，更多中国车企有望进入全球前十"
-    },
-    {
      "title": "私募规模“锣鼓”暂停，10月份证券类私募缩水8700亿元",
      "link": "https://wallstreetcn.com/articles/3786818",
      "pubDate": "Fri, 27 Nov 2026 09:51:00 +0800",
@@ -2354,28 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "私募规模“锣鼓”暂停，10月份证券类私募缩水8700亿元"
     },
     {
-     "title": "51种1类创新药进医保，为什么到医院还是开不到？",
-     "link": "http://www.eeo.com.cn/2026/1127/1104698.shtml",
-     "pubDate": "Fri, 27 Nov 2026 09:45:23 +0800",
-     "summary": "进了医保目录，不等于进了医院药房。患者拿着处方在医院买不到药，医生开得出却配不上。但这“最后一公里”的梗阻，其实是一个老生常谈的话题。",
-     "source": "经济观察网",
-     "zh": "51种1类创新药进医保，为什么到医院还是开不到？"
-    },
-    {
      "title": "国家数据局拟完善数据规则！AI用数确权与付费机制有望明确(附股)",
      "link": "http://finance.eastmoney.com/news/11822,202611273941474978.html",
      "pubDate": "Fri, 27 Nov 2026 09:35:14 +0800",
      "summary": "国家数据局就完善数据规则公开征求意见， 支持和鼓励为数据付费 ，赋能 人工智能 创新发展。机构认为， 数据要素 正从制度建设迈向价值释放。 数据规则公开征求意见 为推动 数据要素 赋能 人工智能 创新发展，国家数据局 11月26日 发布《关于完善数据规则 赋能 人工智能 创新发展的若干意见》（公开征求意见稿），围绕人工智能发展的 数据要素 需求，从 三大方面提出十二项具体举措 。 征求意见稿明确，推动数据产权制度在人工智能用数领域运用，同时支持采集生成的数据、衍生数据、协议取得的数据依法合规用于人工智能训练和推理。 文件还提出，协调好数据处理者与受托方的关系，支持和鼓励为数据付费；建立人工智能",
      "source": "东方财富资讯",
      "zh": "国家数据局拟完善数据规则！AI用数确权与付费机制有望明确(附股)"
-    },
-    {
-     "title": "入境游的重头戏还在后面",
-     "link": "http://www.eeo.com.cn/2026/1127/1104684.shtml",
-     "pubDate": "Fri, 27 Nov 2026 09:34:40 +0800",
-     "summary": "免签“朋友圈”把“说走就走的中国游”变成常态。我国入境游已从“会不会来”的问题，转为“来了接不接得住”的问题。",
-     "source": "经济观察网",
-     "zh": "入境游的重头戏还在后面"
     },
     {
      "title": "国家统计局：1—10月份全国规模以上工业企业利润增长16.0%",
@@ -2400,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月27日，三大指数集体高开，上证指数高开0.16%，深证成指高开0.37%，创业板指高开0.59%。板块方面， 旅游零售Ⅲ 领涨， 珠免集团 涨9.98%， 旅游零售Ⅱ 、 大宗用纸 等开盘涨幅居前。 个股方面，9股竞价涨停，其中 证通电子 3连板、 常山北明 2连板、 山鹰国际 2连板、 鹿山新材 2连板、 骏亚科技 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
      "source": "东方财富资讯",
      "zh": "11月27日集合竞价：证通电子3连板 常山北明2连板"
-    },
-    {
-     "title": "新建黔江至吉首铁路重庆段计划年底开工 酉阳、秀山将迎来高铁时代",
-     "link": "http://www.eeo.com.cn/2026/1127/1104667.shtml",
-     "pubDate": "Fri, 27 Nov 2026 09:26:12 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/7503957798AC6F2FE9FCF61080976AA1.jpg\" alt=\"1382829952fbd5b7b91dfea3d2bcd7f4\" data-title=\"1382829952fbd5b7b91dfea3d2bcd7f4\" data-target=\"2126118724597026817\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/CONTENT_CL",
-     "source": "经济观察网",
-     "zh": "新建黔江至吉首铁路重庆段计划年底开工 酉阳、秀山将迎来高铁时代"
     },
     {
      "title": "一只偏股混合基金 如何能收益率全周期倒数第一？调仓可谓“步步惊心”",
@@ -2450,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     },
     {
-     "title": "今年已跌11%！欧元对人民币势创二十年来最大年度跌幅",
-     "link": "https://wallstreetcn.com/articles/3786809",
-     "pubDate": "Fri, 27 Nov 2026 08:41:31 +0800",
-     "summary": "欧元正迈向二十年来对人民币的最大年度跌幅。 截至11月27日，欧元兑人民币报7.3064附近，接近2023年低点，年内累计下挫约11%。若当前的下跌趋势得以维持，或创2005年来最大跌幅。 据彭博报道，法国政局动荡，加上美国利率预期相对高企，令投资者撤离欧元。与此同时，创纪录的贸易顺差也在支撑人民币。 据欧盟统计局数据，9月欧元区对华贸易逆差同比扩大18.5%，至417亿欧元，相当于日均近14亿欧元（约合15亿美元）。ABN Amro Bank NV的经济学家认为，贸易错配的规模意味着汇率调整只能解释其中一部分问题。 政治与利率：欧元承压的两条主线 法国政局动荡削弱了市场对欧元的信心 。与此同",
-     "source": "华尔街见闻",
-     "zh": "今年已跌11%！欧元对人民币势创二十年来最大年度跌幅"
-    },
-    {
      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 00:31:00 GMT",
      "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
      "source": "MarketWatch",
      "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
-    },
-    {
-     "title": "从年赚20%到单月转负，华尔街最爱的套利交易“失灵了”",
-     "link": "https://wallstreetcn.com/articles/3786812",
-     "pubDate": "Fri, 27 Nov 2026 08:30:56 +0800",
-     "summary": "华尔街最赚钱、最可靠的交易之一正在出现裂痕。 据彭博11月27日报道，2026年表现强劲的套利交易（carry trade）近期明显承压：彭博外汇套利指数今年累计上涨6.8%，有望创2022年以来最佳年度表现并实现连续第六年上涨，但在今年每个月都录得正收益之后， 11月正走向年内首次单月下跌 ，跌幅0.9%。高盛、富国银行、花旗等机构相继表态，认为超额收益的空间正在收窄， 套利交易不再是“买入后无需理会”的策略 。 环境逆转的直接触发因素是风险偏好降温。 人工智能相关押注出现裂痕，削弱了市场风险偏好并推高波动率，而套利交易恰恰依赖市场平静才能积累收益。与此同时，巴西大选意外结果提供了最鲜明的风",
-     "source": "华尔街见闻",
-     "zh": "从年赚20%到单月转负，华尔街最爱的套利交易“失灵了”"
-    },
-    {
-     "title": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”",
-     "link": "https://wallstreetcn.com/articles/3786811",
-     "pubDate": "Fri, 27 Nov 2026 08:25:23 +0800",
-     "summary": "由于市场对人工智能热潮可持续性的担忧加剧， 铠侠控股本月股价暴跌逾40%，估值已跌至日经225指数成分股最低水平，成为日本最便宜的蓝筹股。 这家日本存储芯片制造商当前股价对应预期市盈率约1.7倍，不仅低于东京电力，也低于SK海力士等存储同业。据彭博11月27日报道，华尔街分析师对此普遍看多，18个买入评级对1个持有和1个卖出。同时，高盛在11月22日的报告中维持买入评级，认为进一步下行空间有限。 市场对AI热潮可持续性的担忧是本轮抛售的主因。 短期内，铠侠股价走势很大程度上取决于大型科技公司能否为AI基础设施建设提供资金，以及可能拖慢这一进程的政治阻力。分析师认为，芯片价格高企、长期供应协议以",
-     "source": "华尔街见闻",
-     "zh": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”"
     },
     {
      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",

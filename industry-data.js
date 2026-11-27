@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 03:32:11",
+ "generated_at": "2026/11/28 03:52:29",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
-     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
-     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
-     "source": "KDnuggets",
-     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
-    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -32,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
+    {
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "source": "TechCrunch AI",
+     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
+    {
+     "title": "SteerSound：迈向更可靠的音频编辑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+     "source": "机器之心",
+     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
+     "link": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
+     "pubDate": "Fri, 27 Nov 2026 19:30:00 +0000",
+     "summary": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
+     "source": "Space.com",
+     "zh": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today"
+    },
+    {
      "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
      "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
      "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
@@ -1328,14 +1336,6 @@ window.INDUSTRY_DATA = {
      "summary": "On Nov. 27, 1885, an astronomer made the first known photograph of a meteor. Here's why it mattered.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 27, 1885: Astronomer captures 1st known photo of a meteor during an Andromedid meteor storm"
-    },
-    {
-     "title": "Don't get ripped off this Black Friday! Shop safely online with our scam-spotting guide",
-     "link": "https://www.space.com/stargazing/skywatching-kit/dont-get-ripped-off-this-black-friday-shop-safely-online-with-our-scam-spotting-guide",
-     "pubDate": "Fri, 27 Nov 2026 15:46:27 +0000",
-     "summary": "I've been Black Friday bargain hunting for a long time and I'm here to tell you how to avoid getting scammed. From fraudulent sites to fake goods, my guide will help you shop safely online.",
-     "source": "Space.com",
-     "zh": "Don't get ripped off this Black Friday! Shop safely online with our scam-spotting guide"
     },
     {
      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Michael Nielsen took down his book on neural nets",
+     "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+     "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 19 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Michael Nielsen took down his book on neural nets"
+    },
+    {
+     "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
+     "link": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 19:26:33 +0000",
+     "summary": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season.",
+     "source": "WIRED",
+     "zh": "Black Friday Deals on Household Essentials and Affordable Toys to Donate"
+    },
+    {
      "title": "Black Friday Mattress Deals: Get Up to 55% Off (2026)",
      "link": "https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 19:07:28 +0000",
@@ -1778,12 +1794,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
     },
     {
-     "title": "The NFL Player Who Left Football for Math",
-     "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
-     "pubDate": "Fri, 27 Nov 2026 18:17:20 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html Comments URL: https://news.ycombinator.com/item?id=50669963 Points: 10 # Comments: 4",
+     "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+     "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+     "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
+     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 5 # Comments: 1",
      "source": "Hacker News",
-     "zh": "The NFL Player Who Left Football for Math"
+     "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
     },
     {
      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
@@ -1805,15 +1821,23 @@ window.INDUSTRY_DATA = {
      "title": "Convex skills send the user's app idea to a remote server without telling them",
      "link": "https://github.com/convex/convex-backend-skill/issues/64",
      "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 37 # Comments: 6",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 71 # Comments: 18",
      "source": "Hacker News",
      "zh": "Convex skills send the user's app idea to a remote server without telling them"
+    },
+    {
+     "title": "Show HN: DragDropMath – Learn math by feel",
+     "link": "https://dragdropmath.com/",
+     "pubDate": "Fri, 27 Nov 2026 17:56:28 +0000",
+     "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious. So I created Drag",
+     "source": "Hacker News",
+     "zh": "Show HN: DragDropMath – Learn math by feel"
     },
     {
      "title": "I'm Scared of AI",
      "link": "https://thesoapbox.email/archive/3",
      "pubDate": "Fri, 27 Nov 2026 17:45:31 +0000",
-     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 149 # Comments: 151",
+     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 178 # Comments: 190",
      "source": "Hacker News",
      "zh": "I'm Scared of AI"
     },
@@ -1840,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
      "source": "Ars Technica",
      "zh": "The best Black Friday deals Ars could find"
-    },
-    {
-     "title": "Palliative Care for the Chronically Online",
-     "link": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
-     "pubDate": "Fri, 27 Nov 2026 17:01:51 +0000",
-     "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 32 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Palliative Care for the Chronically Online"
     },
     {
      "title": "中国客车出海，遇到了比关税更复杂的壁垒",
@@ -1914,18 +1930,10 @@ window.INDUSTRY_DATA = {
      "zh": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上"
     },
     {
-     "title": "Walking Pad Deals to Shop This Black Friday (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
-     "pubDate": "Fri, 27 Nov 2026 15:43:33 +0000",
-     "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
-     "source": "WIRED",
-     "zh": "Walking Pad Deals to Shop This Black Friday (2026)"
-    },
-    {
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 190 # Comments: 112",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 226 # Comments: 126",
      "source": "Hacker News",
      "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
     },
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久远。现存最古老的文字记录并非史诗或宗教典籍，而是关于谷物储存与税收的行政记录。虽然世界其它地区的主导粮作物不同，比如东亚",
      "source": "Solidot",
      "zh": "文明的历史是小麦的历史"
-    },
-    {
-     "title": "False computer-checked proofs",
-     "link": "https://cr.yp.to/proofs/falseccp.html",
-     "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 107 # Comments: 45",
-     "source": "Hacker News",
-     "zh": "False computer-checked proofs"
     },
     {
      "title": "The CMA says Meta made changes to Muse&apos;s ToS in the UK to reflect the country&apos;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+     "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+     "pubDate": "Fri, 27 Nov 2026 19:45:23 +0000",
+     "summary": "Bloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.",
+     "source": "Engadget",
+     "zh": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang"
+    },
+    {
+     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+     "link": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+     "pubDate": "Fri, 27 Nov 2026 19:44:38 +0000",
+     "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
+     "source": "Engadget",
+     "zh": "OpenAI countersues Apple and accuses it of stealing trade secrets"
+    },
     {
      "title": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans",
      "link": "https://9to5google.com/2026/11/27/the-oneplus-coloros-17-update-is-proving-to-be-a-disappointment-for-fans/",
@@ -2216,22 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "In a way, the Samsung Galaxy S26 Ultra was lucky – it launched early in 2026 and was spared the endless memory price increases throughout the year. Flagships that launched in the second half of 2026 are quite expensive compared to ones that launched in the first half of the year. Samsung Galaxy S26 ",
      "source": "GSMArena",
      "zh": "Deal: Amazon Germany drops the Galaxy S26 Ultra price even further"
-    },
-    {
-     "title": "Google will soon share Android developers' addresses publicly",
-     "link": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
-     "pubDate": "Fri, 27 Nov 2026 09:38:33 +0000",
-     "summary": "Google is getting flak for its decision to publish Android developers' identifying information around the world to comply with European laws.",
-     "source": "Engadget",
-     "zh": "Google will soon share Android developers' addresses publicly"
-    },
-    {
-     "title": "本周看什么 | 最近值得一看的 8 部作品",
-     "link": "https://sspai.com/post/119658",
-     "pubDate": "Fri, 27 Nov 2026 16:32:46 +0800",
-     "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ... 查看全文",
-     "source": "少数派",
-     "zh": "本周看什么 | 最近值得一看的 8 部作品"
     }
    ]
   },
@@ -2256,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942125682.html",
-     "pubDate": "Sat, 28 Nov 2026 03:21:46 +0800",
-     "summary": "美股经历此前的下跌后，投资者风险偏好回升， Anthropic 随大盘走高，重新站上83美元的发行价。 截至收盘， Anthropic （股票代码：ANT）股价报91.88美元，较前一交易日上涨10.98%，结束了连续两个交易日收于83美元发行价下方的局面，本周累涨3.34%。 这也意味着，这家上周刚创下首次公开募股（IPO）募资纪录的 人工智能 （AI）公司，成功以反弹结束其在 纳斯达克 上市后的首个完整交易周。 在 Anthropic 上市之前，市场对AI支出增长速度的担忧就已引发科技股震荡。先前，Anthropic已承诺，到2045年累计支出近9010亿美元。 黄仁勋本周早些时候重回 英",
-     "source": "东方财富股票",
-     "zh": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价"
     },
     {
      "title": "从铝市场逼空到LME紧急干预：一场库存危机如何将交易所推向险境？",
@@ -2296,46 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国年度最大购物季已经拉开帷幕，但消费分化正在加剧：高收入家庭计划增加节日支出，近半数低收入家庭却准备削减开销，K型消费格局正成为今年黑色星期五的主线。 据高盛零售分析师Brooke Roach团队对约1000名消费者的调查， 年收入10万美元及以上的家庭中，50%计划增加节日消费，高于去年的44%；年收入低于5万美元的家庭中，48%预计削减支出，也高于去年的46%。分析师指出，消费乐观情绪仍集中在高收入群体，中低收入家庭则更加谨慎。 与此同时，全美零售联合会（NRF）与Prosper Insights & Analytics预计，今年感恩节购物周末将吸引1.827亿消费者，较去年下降约2%。",
      "source": "华尔街见闻",
      "zh": "美国黑五消费“K型分化”加剧：富人越买越多，穷人勒紧裤腰带"
-    },
-    {
-     "title": "祁星：ESG 话语权逐步转向定价权，绿色与转型金融将协同助力产业转型",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942125534.html",
-     "pubDate": "Sat, 28 Nov 2026 03:19:32 +0800",
-     "summary": "中信建投 证券股份有限公司ESG及绿色金融首席分析师祁星表示，资本市场层面所有与ESG相关的问题，都可以归结为标准与收益两大方向。“只要把标准设明白，把收益验清楚，很多核心矛盾和市场上的困惑可能也就迎刃而解了。” 在ESG标准方面，祁星提出，ESG投入是投资还是成本，取决于“怎么做”和“怎么说”。企业要聚焦实质性议题开展实践，同时依托监管披露规则做好价值传递。证监会指导沪深北交易所发布的《上市公司可持续发展报告编制指南》为企业划定披露规范，将推动ESG披露提质。 在收益方面，祁星援引MSCI（ 明晟 公司）研究数据表示，2022年之前，在同行业中，ESG评级越高的公司，其竞争力、利润率和分红也",
-     "source": "东方财富股票",
-     "zh": "祁星：ESG 话语权逐步转向定价权，绿色与转型金融将协同助力产业转型"
-    },
-    {
-     "title": "英国就业和养老金部发生严重网络安全事件",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942124890.html",
-     "pubDate": "Sat, 28 Nov 2026 03:17:05 +0800",
-     "summary": "当地时间11月27日，英国就业和 养老金 大臣帕特·麦克法登表示，该部门发生一起严重 网络安全 事件，目前尚无证据表明有人员的个人信息遭泄露，相关调查仍在进行中。 在被问及此次事件是否属于恶意网络攻击时，麦克法登表示，现阶段无法透露更多信息。 英国就业和 养老金 部当天发表声明称，作为预防措施， 该部门已暂停部分在线服务 ，并正与英国国家 网络安全 中心及政府网络协调中心展开联合调查。 养老金 及社会福利金的正常发放不受影响。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "英国就业和养老金部发生严重网络安全事件"
-    },
-    {
-     "title": "王振：ESG从成本变成价值，必须可验证、可比较、可转译",
-     "link": "http://finance.eastmoney.com/news/1378,202611283942125265.html",
-     "pubDate": "Sat, 28 Nov 2026 03:16:31 +0800",
-     "summary": "“ESG要从成本变成价值，必须过三道关——可验证、可比较、可转译。不可验证就是宣传，不可比较就无法定价，不能转译成现金流和资本成本，就进不了投资决策。”国际资本市场协会CFC 教育 认证中心负责人王振表示。 一家企业的ESG表现，要通过什么路径，才能真正转化为资本市场给出的估值和融资条件？王振的回答是：“定价不是一次性‘贴标签’，而是一条五步传导链。” “披露解决‘有没有’，鉴证解决‘信不信’，分析解决‘好不好’，资本转译解决‘值多少’；只有走到第五步，ESG才真正进入估值和融资环节。”王振表示，全球平均意义上的绿色溢价正在收窄，因此不能把定价前景全押在标签溢价上，真正的支撑是底色的可信度。 ",
-     "source": "东方财富股票",
-     "zh": "王振：ESG从成本变成价值，必须可验证、可比较、可转译"
-    },
-    {
-     "title": "追短剧“上头”，大脑真的会变笨吗？",
-     "link": "http://finance.eastmoney.com/news/1348,202611283942125790.html",
-     "pubDate": "Sat, 28 Nov 2026 03:15:33 +0800",
-     "summary": "《中国网络视听发展研究报告（2026）》显示，截至去年底，微短剧应用人均单日使用时长达129分钟。不少人感叹，追短剧太“上头”，但过后又会感到格外空虚，记忆力和注意力明显下滑。 那么，人们刷短剧为什么会停不下来？刷短剧真的会让人变笨吗？ 追短剧会变笨吗？ 专家介绍，短剧的叙事设计里藏着两层心理机制—— 一方面，短剧依靠高密度反转剧情，用间歇性、脉冲式的刺激，持续拉动多巴胺分泌，不断勾起观众的期待； 另一方面，短剧抓住人们的情感诉求与自我实现的渴望，虚构出与现实生活截然相反的世界，用幻想提供情绪抚慰。 中国科学院计算技术研究所研究员张语轩介绍，短剧有两个特点，一是跟事实相反，它的爽感便来自于此；",
-     "source": "东方财富股票",
-     "zh": "追短剧“上头”，大脑真的会变笨吗？"
-    },
-    {
-     "title": "利好来了！广东重要发布→",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942125840.html",
-     "pubDate": "Sat, 28 Nov 2026 03:15:27 +0800",
-     "summary": "11月26日，广东省政务服务和数据管理局、广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。 规划提出，到2028年，广东算力发展取得重要阶段性成效，智算规模突破1000 EFlops（FP16），全省 数据中心 绿电使用占比超80%，新建大型及以上 数据中心 电能利用效率（PUE）小于1.2，存量 数据中心 能效显著提升，绿色低碳发展达到全国先进水平，边缘智算深入推进，算力设施建设布局持续优化，算力网络时延进一步降低，数算电网一体化协同建设水平显著提升，基本建成国际一流、国内领先的算力高地。 统筹算力设施布局 强化算力高效供给 深度融入国家“ 东数西算 ”工程战略布局，全面提升韶关",
-     "source": "东方财富股票",
-     "zh": "利好来了！广东重要发布→"
     },
     {
      "title": "Energy Fuels gains 11% as peers and the broader market rise",
@@ -2434,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Intermex sues Western Union over merger agreement termination"
     },
     {
-     "title": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%",
-     "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
-     "pubDate": "Sat, 28 Nov 2026 02:00:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体收涨，截止收盘，道琼斯指数涨1.18%，标普500指数涨1.60%， 纳斯达克 综合 指数涨2.31%。 AI交易回暖， 费城 半导体 指数涨超4%。 存储、光 通信 板块领涨， 闪迪 涨超15%，为7月以来最大单日涨幅。 美光科技 、 SK海力士 涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropic 涨近11%，创下自11月19日上市以来最大单日涨幅，股价重回90美元上方。 特斯拉 涨超5%， SpaceX 、 亚马逊 涨近4%，Meta涨超3%， 英伟达 、 苹果 上涨0.88%。 纳斯达克 中国金龙指数涨",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体收涨 纳指涨超2% AI存储概念涨幅居前 闪迪涨超15%"
-    },
-    {
      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 17:31:00 GMT",
@@ -2480,6 +2424,62 @@ window.INDUSTRY_DATA = {
      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
      "source": "Financial Times",
      "zh": "Wave of cyber incidents rattles western economies"
+    },
+    {
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 16:00:00 GMT",
+     "summary": "“Retirement is a financial status, not an age.”",
+     "source": "MarketWatch",
+     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+    },
+    {
+     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
+     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
+     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+     "source": "CNBC",
+     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 15:45:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
+     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
+     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
+     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
+     "source": "经济观察网",
+     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
+    },
+    {
+     "title": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元",
+     "link": "http://www.eeo.com.cn/2026/1127/1105812.shtml",
+     "pubDate": "Fri, 27 Nov 2026 22:52:21 +0800",
+     "summary": "消费者辛女士入住酒店期间，孩子不慎碰坏房间摆件，酒店起初索赔3000元，但该摆件7年前采购价仅980元，最终双方按采购价完成赔付。根据民法典，财物损坏赔偿以填补实际损失为原则，要考虑物品折旧，不能按商家单方报出的高价赔偿；若商家摆放物品未做好提示，也需承担相应责任，消费者遭遇不合理索赔可依法维权。",
+     "source": "经济观察网",
+     "zh": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元"
+    },
+    {
+     "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
+     "link": "https://wallstreetcn.com/articles/3786838",
+     "pubDate": "Fri, 27 Nov 2026 22:43:56 +0800",
+     "summary": "人工智能交易回暖，全球股市普涨，今日美股将提前收盘。 美股盘初，标普500指数涨1.11%，道琼斯工业平均指数涨0.55%，纳斯达克综合指数涨1.58%，纳斯达克100指数涨1.5%，中概指数涨3%。 个股方面，闪迪涨8.1%，Nebius集团涨5.1%，希捷科技、SK海力士ADR、西部数据、Cerebras系统、美光、CoreWeave、英特尔、AMD、台积电至多涨超4%，英伟达涨1.2%。Anthropic涨3.6%，SpaceX涨2.8%。 纳斯达克金龙中国指数上涨3.01%，热门中概股里，金山云涨8.3%，B站涨7.1%。中概ETF CQQQ涨8.5%。国常会：加力发挥“国家队”稳市作",
+     "source": "华尔街见闻",
+     "zh": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落"
+    },
+    {
+     "title": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委",
+     "link": "http://www.eeo.com.cn/2026/1127/1105808.shtml",
+     "pubDate": "Fri, 27 Nov 2026 22:39:15 +0800",
+     "summary": "中国经济网南京11月27日综合报道 11月27日下午，中国共产党江苏省第十五届委员会在南京举行第一次全体会议，选举信长星为省委书记，刘小涛、范波为省委副书记，信长星、刘小涛、范波、周红波、张文兵、胡立杰、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文为省委常务委员会委员。 上述名单显示，江苏省副省长马士光、沈剑荣，江苏省军区政委敬健，镇江市委书记吴庆文新任江苏省委常委。 <img src=\"https:...",
+     "source": "经济观察网",
+     "zh": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委"
     }
    ]
   },

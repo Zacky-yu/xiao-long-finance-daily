@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 13:52:16",
+ "generated_at": "2026/11/27 14:11:51",
  "recent_days": 7,
  "industries": [
   {
@@ -57,6 +57,22 @@
      "zh": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
     },
     {
+     "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+     "link": "https://www.qbitai.com/2026/11/513194.html",
+     "pubDate": "Fri, 27 Nov 2026 04:05:56 +0000",
+     "summary": "企业需要有用的 AI",
+     "source": "量子位",
+     "zh": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间"
+    },
+    {
+     "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+     "link": "https://www.qbitai.com/2026/11/513211.html",
+     "pubDate": "Fri, 27 Nov 2026 04:05:18 +0000",
+     "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+     "source": "量子位",
+     "zh": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准"
+    },
+    {
      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
      "link": "https://www.qbitai.com/2026/11/513163.html",
      "pubDate": "Fri, 27 Nov 2026 03:53:49 +0000",
@@ -103,22 +119,6 @@
      "summary": "",
      "source": "量子位",
      "zh": "百亿具身独角兽破壁，玩家集体涌向它的牌桌"
-    },
-    {
-     "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-     "link": "https://www.qbitai.com/2026/11/513091.html",
-     "pubDate": "Fri, 27 Nov 2026 02:56:03 +0000",
-     "summary": "倒计时两周，报名从速！",
-     "source": "量子位",
-     "zh": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！"
-    },
-    {
-     "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-     "link": "https://www.qbitai.com/2026/11/513087.html",
-     "pubDate": "Fri, 27 Nov 2026 02:19:12 +0000",
-     "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
-     "source": "量子位",
-     "zh": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！"
     },
     {
      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
@@ -425,6 +425,14 @@
      "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
      "pubDate": "Wed, 25 Nov 2026 22:02:21 +0000",
@@ -487,14 +495,6 @@
      "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
      "source": "Semiconductor Today",
      "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -849,12 +849,28 @@
    "total": 9,
    "items": [
     {
+     "title": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER",
+     "link": "https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/",
+     "pubDate": "Fri, 27 Nov 2026 06:04:04 +0000",
+     "summary": "Australia's rooftop solar sector installed 890MW in its strongest third quarter on record, according to the Clean Energy Regulator's (CER).",
+     "source": "PV Tech",
+     "zh": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER"
+    },
+    {
      "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
      "pubDate": "Thu, 26 Nov 2026 23:18:44 -0600",
      "summary": "Crude oil prices were set to book a weekly gain after a string of losses, as increasingly frequent reports about tanker attacks in the Strait of Hormuz undermined expectations of a glut. Data showing lower than pre-war levels of energy commodity exports from the Middle East also contributed, as did ",
      "source": "OilPrice",
      "zh": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears"
+    },
+    {
+     "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+     "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+     "pubDate": "Fri, 27 Nov 2026 04:57:21 +0000",
+     "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives. This could soon change thanks to the forthcoming European Competitiveness ",
+     "source": "CleanTechnica",
+     "zh": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy"
     },
     {
      "title": "High-Flying Influencers",
@@ -985,14 +1001,6 @@
      "zh": "Beyond climate forecasting: AI’s growing role in distributed energy flexibility"
     },
     {
-     "title": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
-     "link": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
-     "pubDate": "Thu, 26 Nov 2026 14:49:46 +0000",
-     "summary": "Millions of renters, apartment residents, and condo owners can’t put solar on a roof they don’t control. Plug-in solar, also called balcony solar or plug-in PV, offers a workaround: one or more panels connected through a microinverter to an ordinary wall outlet, with no roof work and, in a growing .",
-     "source": "CleanTechnica",
-     "zh": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say"
-    },
-    {
      "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
      "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
      "pubDate": "Thu, 26 Nov 2026 14:20:22 +0000",
@@ -1063,14 +1071,6 @@
      "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
      "source": "Energy Storage News",
      "zh": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain"
-    },
-    {
-     "title": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount",
-     "link": "https://www.pv-tech.org/ht-saae-divesting-turkish-pv-manufacturing-subsidiary-overseas-losses/",
-     "pubDate": "Thu, 26 Nov 2026 11:28:44 +0000",
-     "summary": "Veteran Chinese PV manufacturer HT‑SAAE plans to offload its remaining 15% stake in its Turkish subsidiary, HT Solar Energy, established a decade ago.",
-     "source": "PV Tech",
-     "zh": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount"
     },
     {
      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
@@ -1313,14 +1313,6 @@
      "zh": "Shivelyuch Socked In"
     },
     {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
-    },
-    {
      "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
      "link": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
      "pubDate": "Thu, 26 Nov 2026 21:08:45 +0000",
@@ -1433,30 +1425,6 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1479,14 +1447,6 @@
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1513,14 +1473,6 @@
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1535,6 +1487,22 @@
      "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "Industry Shares Plan for Moon Base Power Tower",
+     "link": "https://payloadspace.com/industry-shares-plan-for-moon-base-power-tower/",
+     "pubDate": "Mon, 23 Nov 2026 13:59:00 +0000",
+     "summary": "NASA tapped three companies—Redwire, Blue Origin's Honeybee Robotics, and Yank Technologies—to build the pieces of a Mini-Communications and Solar Tower. The post Industry Shares Plan for Moon Base Power Tower appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Industry Shares Plan for Moon Base Power Tower"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1753,12 +1721,84 @@
    "total": 18,
    "items": [
     {
+     "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+     "link": "https://www.wired.com/story/ulta-coupon/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+     "source": "WIRED",
+     "zh": "Ulta Promo Codes: Up to 20% Off in November 2026"
+    },
+    {
+     "title": "Home Depot Promo Codes: 30% Off in November 2026",
+     "link": "https://www.wired.com/story/home-depot-promo-code/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Save up to 30% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
+     "source": "WIRED",
+     "zh": "Home Depot Promo Codes: 30% Off in November 2026"
+    },
+    {
+     "title": "Peacock Promo Codes: 40% Off November 2026",
+     "link": "https://www.wired.com/story/peacock-promo-code/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+     "source": "WIRED",
+     "zh": "Peacock Promo Codes: 40% Off November 2026"
+    },
+    {
+     "title": "Dell Coupon Codes: 20% Off for November 2026",
+     "link": "https://www.wired.com/story/dell-coupon-code/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+     "source": "WIRED",
+     "zh": "Dell Coupon Codes: 20% Off for November 2026"
+    },
+    {
+     "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+     "link": "https://www.wired.com/story/nike-promo-code/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+     "source": "WIRED",
+     "zh": "Nike Promo Codes and Discounts: 30% for November 2026"
+    },
+    {
+     "title": "Newegg Promo Codes and Coupons for November 2026",
+     "link": "https://www.wired.com/story/newegg-promo-code/",
+     "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+     "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+     "source": "WIRED",
+     "zh": "Newegg Promo Codes and Coupons for November 2026"
+    },
+    {
+     "title": "车企打响二手车残值保卫战",
+     "link": "https://www.huxiu.com/article/4908916.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 13:55:15 +0800",
+     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万元起。随车公布的还有一组回购条款：符合条件的消费者，购车满两年可按权益价八折回购，满三年按七折回购。 11月24日，小米集团发布第三季度业绩。在向投资者展示的演示材料中，小米专门列出了旗下两款车型的保值率：小米YU7一年期保值率为82.3%，连续四个月位居纯电动车型第一；小米SU7为74.9%，连续四个月位居20万元以上纯电动轿车第一。 一天后，理想汽车董事长李想在财报电话会上宣布，将车型更新周期从一年延长至两年左右，2027年减少大规模改款。改善车辆保值率，是此次调整",
+     "source": "虎嗅",
+     "zh": "车企打响二手车残值保卫战"
+    },
+    {
+     "title": "何小鹏谈“IRON 人形机器人何时进入海外”：中国市场交付后一个季度，就会进入欧洲",
+     "link": "https://www.ithome.com/1/033/344.htm",
+     "pubDate": "Fri, 27 Nov 2026 05:50:23 GMT",
+     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展期间，小鹏集团董事长、CEO 何小鹏与小鹏机器人 IRON 共同巡展。 据新浪科技报道，何小鹏谈到“何时进入海外市场”：“ 在中国市场交付后一个季度，我们就会进入欧洲 。有 500-1000 名海外的合作伙伴都在问我什么时候到欧洲卖。我觉得我们先在中国市场交付，过一个季度再往海外出口。” 何小鹏强调：“IRON 的研发、安全、数据隐私等方面，我们都是考虑了中国和欧洲等多个国家及区域，同时来做开发。” 2026 广州车展期间，小鹏 IRON 人形机器人亲自主持了小鹏的发布会。何小鹏表示，这可能是历史上第一次由机器人在车展进行新车发布。 IT",
+     "source": "IT之家",
+     "zh": "何小鹏谈“IRON 人形机器人何时进入海外”：中国市场交付后一个季度，就会进入欧洲"
+    },
+    {
      "title": "经销商后，工厂正沦为零售商的“现金奶牛”",
      "link": "https://www.huxiu.com/article/4908913.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 13:47:40 +0800",
      "summary": "本文来自微信公众号： 零售圈 ，作者：零售荆言 前几天，笔者的一位做食品工厂的朋友告诉笔者，他正陷入“甜蜜的烦恼”。 事情是这样的，几家区域超市希望请他代工自有品牌，包装规格、生产标准都能满足，核算下来，净利润5%左右，勉强可以接受，但需要有45天的账期，他很为难，一是本来工厂的现金流不充裕，再去寻找外来资金，利润很难覆盖整体成本，二是如果依然有售后问题，这笔生意可能亏本。但在全国快消品行业工厂开工率不足70%的当下，如果拒绝，再找到类似的生意也难，这让他非常纠结。 笔者询问了多个为商超和平台代工自有品牌的工厂，大多碰到了类似的问题。 经销商逐步在流通环节弱化之后，链条上的资金缓冲功能正在转向",
      "source": "虎嗅",
      "zh": "经销商后，工厂正沦为零售商的“现金奶牛”"
+    },
+    {
+     "title": "茅台回归茅台",
+     "link": "https://www.tmtpost.com/8219741.html",
+     "pubDate": "Fri, 27 Nov 2026 13:45:42 +0800",
+     "summary": "持续收回分散在外的茅台酒销售配额",
+     "source": "钛媒体",
+     "zh": "茅台回归茅台"
     },
     {
      "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple&apos;s share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
@@ -1777,12 +1817,12 @@
      "zh": "罗技 G 悄然带来 PRO X1 SUPERSTRIKE 鼠标：保留电磁微动，传感器降级"
     },
     {
-     "title": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友惊呼“中国速度”",
+     "title": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友直呼“中国速度”",
      "link": "https://www.ithome.com/1/033/342.htm",
      "pubDate": "Fri, 27 Nov 2026 05:44:44 GMT",
      "summary": "IT之家 11 月 27 日消息，根据博主 Sawyer Merritt 今天（11 月 27 日）在 X 平台发布推文，晒出一张 SpaceX 位于美国得克萨斯州 StarBase 数据中心建设现场航拍图， 称在不到 90 天时间里项目推进初具规模，多栋大型建筑已拔地而起。 IT之家查询公开资料，StarBase 是 SpaceX 规划的大型 AI 超级计算园区，位于得克萨斯州南部布朗斯维尔港附近的 444 英亩地块，该地块投资超过 240 亿美元 （IT之家注：现汇率约合 1,601.99 亿元人民币） ，建设超级计算设施及天然气发电厂；项目已创造逾 3,000 个建筑岗位，预计投运后还将",
      "source": "IT之家",
-     "zh": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友惊呼“中国速度”"
+     "zh": "不到 90 天从空地到建筑群：SpaceX 数据中心已初具规模，网友直呼“中国速度”"
     },
     {
      "title": "印尼美妆投放素材被评论区说“不像本地牌子”，清真认证要怎么在短视频里讲清楚？",
@@ -1873,28 +1913,12 @@
      "zh": "金山云Q3财报：营收35亿元，增长40%，归母净亏损1.1亿元"
     },
     {
-     "title": "一条产线动辄数百亿元，中国OLED到了整合的时候？",
-     "link": "https://www.tmtpost.com/8219705.html",
-     "pubDate": "Fri, 27 Nov 2026 13:20:02 +0800",
-     "summary": "曾经成就中国面板产业的扩张模式，还能走多远？",
-     "source": "钛媒体",
-     "zh": "一条产线动辄数百亿元，中国OLED到了整合的时候？"
-    },
-    {
      "title": "日本站季节性选品备货，樱花季和梅雨季的节奏怎么错开？",
      "link": "https://www.baijing.cn/question/639000",
      "pubDate": "Fri, 27 Nov 2026 05:18:45 +0000",
      "summary": "去年樱花季前备了一批赏樱野餐垫，3月中旬入仓，结果日本站3月下旬连续下雨，两周只出了不到200件，剩下600多件压到5月才清完，仓储费吃掉大半利润。今年团队5个人，月备货预算30万人民币，想同时做樱花季和梅雨季两个波段，但工厂起订量卡着，一次下单只能压一个品。已经试过按去年销量砍半备货、用亚马逊日本站的历史搜索词看季节曲线，但梅雨季除湿盒的退货率比预期高，客户反馈是包装漏液。现在卡在备货节奏和退货损耗怎么平衡上，是该先小批量空运试销，还是直接按季节窗口一次性备足？",
      "source": "白鲸出海",
      "zh": "日本站季节性选品备货，樱花季和梅雨季的节奏怎么错开？"
-    },
-    {
-     "title": "长城为何坚持燃油车？魏建军称国内电车不赚钱、36 年没造过一辆速成车",
-     "link": "https://www.ithome.com/1/033/337.htm",
-     "pubDate": "Fri, 27 Nov 2026 05:17:51 GMT",
-     "summary": "IT之家 11 月 27 日消息，在 2026 广州车展期间，长城汽车董事长魏建军接受媒体采访，回应了长城为何仍坚持燃油车及多能源技术路线，并对近期行业热议的“速成车”话题发表了看法。 他明确表示，长城在国内销售电动车暂未实现盈利，但在海外市场“一车卖全球”的商业模式已完全跑通。 魏建军指出，汽车产业需要形成商业闭环。目前长城在国内卖电动车不赚钱，但在海外市场，纯电、燃油、油电混动（HEV）和插电混动（PHEV）车型均能实现盈利。他认为，判断一种能源形式是否足够好，不应仅以电动化为标准，而要看其能否满足全球不同地区用户的真实需求，部分国家仍面临电力短缺和充电设施不足的问题。 这一逻辑依托于长城",
-     "source": "IT之家",
-     "zh": "长城为何坚持燃油车？魏建军称国内电车不赚钱、36 年没造过一辆速成车"
     },
     {
      "title": "阿里健康，余涌的难题不只是利润",
@@ -1913,18 +1937,10 @@
      "zh": "为什么一首歌会把我们带回相似的青春？"
     },
     {
-     "title": "9月以来，宽基ETF净申购超6700亿",
-     "link": "https://www.huxiu.com/article/4908900.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 13:00:54 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：王晨 9月1日到11月26日，只用了57个交易日，9只核心宽基ETF合计净申购了6759.6亿元。这个数字，已经超过2024年1月1日到9月20日、也就是924行情启动前八个多月里的6716.5亿元。 更不同的是净申购速度，上一轮用了176个交易日，日均净申购38.4亿元，单日峰值372.0亿元；这一轮日均来到118.6亿元，约为当时的三倍，单日最大净申购达到895.7亿元，9只ETF合计份额则扩张了162.5%。 宽基ETF份额的大幅扩张，常被用来捕捉以中央汇金为代表的“国家队”托市信号。国家队护盘时，通常通过增持沪深300、上证50、中证500、中证1",
-     "source": "虎嗅",
-     "zh": "9月以来，宽基ETF净申购超6700亿"
-    },
-    {
      "title": "\"What's Claude's Fursona?\" and Other Questions",
      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
      "pubDate": "Fri, 27 Nov 2026 04:56:18 +0000",
-     "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 23 # Comments: 0",
+     "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 39 # Comments: 3",
      "source": "Hacker News",
      "zh": "\"What's Claude's Fursona?\" and Other Questions"
     },
@@ -1943,54 +1959,6 @@
      "summary": "我们做面向北美中小团队的排班 SaaS，PLG 模式，团队 12 人，月投放预算约 3 万美元，主要靠 Google Ads 和内容 SEO 拉自助注册。最近 30 天免费试用注册量还行，但试用转付费只有 4.1%，比上季度掉了近两个点。查了后台，发现不少用户在结账页填完卡号后被拒，Stripe 后台显示部分加拿大用户因 3D Secure 验证失败流失；另外年付订单从付款到账要 5 到 7 个工作日才确认开通，销售说这期间有人直接不回邮件了。已经试过换定价页文案、加对比表，也接入了 Stripe 的 Radar 规则，但拒付率没明显降。现在分不清是投放渠道带来的低意向流量，还是结账和回款时效",
      "source": "白鲸出海",
      "zh": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？"
-    },
-    {
-     "title": "印度独立站红人联盟佣金给到18%，退货率却压不住，备货该怎么调？",
-     "link": "https://www.baijing.cn/question/638997",
-     "pubDate": "Fri, 27 Nov 2026 03:58:25 +0000",
-     "summary": "我们做印度市场独立站，主要卖手机配件和智能穿戴，团队6个人，刚起量阶段，月GMV大概3万美金。红人和联盟佣金给到15%-18%，转化还行，但退货率一直在22%左右，COD拒收占大头。现在备货是按红人带货预测提前1个月压到海外仓，结果滞销SKU越堆越多，现金流很紧。试过把佣金降到12%换利润，红人直接不推了；也试过只备爆款，但断货又掉排名。卡在备货节奏和退货成本之间，想请教在南亚做独立站的同行，你们是按什么标准决定哪些SKU提前压仓、哪些走一件代发？",
-     "source": "白鲸出海",
-     "zh": "印度独立站红人联盟佣金给到18%，退货率却压不住，备货该怎么调？"
-    },
-    {
-     "title": "Coupang 火箭配送入驻后，韩语详情页素材转化明显低于预期该改哪一层？",
-     "link": "https://www.baijing.cn/question/638996",
-     "pubDate": "Fri, 27 Nov 2026 03:32:00 +0000",
-     "summary": "刚入驻 Coupang 火箭配送两周，做的是厨房小家电，团队 6 人、月投放预算约 800 万韩元。主图用的是国内拍的场景图，只做了韩语翻译，结果点击率 1.9%，加购率不到 3%，比我们在其他渠道的韩语素材低了近一半。试过换韩语模特重拍主图、把详情页前两屏改成韩式厨房实景，加购只涨到 3.4%，还是卡在“用户点进来但不信”这一步。现在不确定问题出在主图场景、详情页参数呈现，还是韩语文案的语气。想直接问：韩国消费者对厨房小家电素材最敏感的是哪一层，先改哪一项性价比最高？",
-     "source": "白鲸出海",
-     "zh": "Coupang 火箭配送入驻后，韩语详情页素材转化明显低于预期该改哪一层？"
-    },
-    {
-     "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
-     "link": "https://www.techmeme.com/261126/p27#a261126p27",
-     "pubDate": "Thu, 26 Nov 2026 22:15:01 -0500",
-     "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX &nbsp; &mdash;&nbsp; Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI agents ",
-     "source": "Techmeme",
-     "zh": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)"
-    },
-    {
-     "title": "Google will show solo Android developers' phone numbers and addresses",
-     "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-     "pubDate": "Fri, 27 Nov 2026 03:11:41 +0000",
-     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 72 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "Google will show solo Android developers' phone numbers and addresses"
-    },
-    {
-     "title": "The Cutthroat Business of Shipwrecks",
-     "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-     "pubDate": "Fri, 27 Nov 2026 01:21:49 +0000",
-     "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "The Cutthroat Business of Shipwrecks"
-    },
-    {
-     "title": "Hard Drive pricing has gotten bad",
-     "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-     "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 208 # Comments: 132",
-     "source": "Hacker News",
-     "zh": "Hard Drive pricing has gotten bad"
     }
    ]
   },
@@ -2249,6 +2217,102 @@
    "total": 13,
    "items": [
     {
+     "title": "Abcourt Mines GAAP EPS of -C$0.01, revenue of C$7M",
+     "link": "https://seekingalpha.com/news/4676933-abcourt-mines-gaap-eps-of-c001-revenue-of-c7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:08:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Abcourt Mines GAAP EPS of -C$0.01, revenue of C$7M"
+    },
+    {
+     "title": "Stellantis flags rising costs in Italy despite €5B R&D plan",
+     "link": "https://seekingalpha.com/news/4676931-stellantis-flags-rising-costs-in-italy-despite-5b-rd-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:07:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stellantis flags rising costs in Italy despite €5B R&D plan"
+    },
+    {
+     "title": "Serabi Gold plc GAAP EPS of $0.13, revenue of $45.83M; updates FY2026 production guidance",
+     "link": "https://seekingalpha.com/news/4676932-serabi-gold-plc-gaap-eps-of-013-revenue-of-4583m-updates-fy2026-production-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 01:06:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Serabi Gold plc GAAP EPS of $0.13, revenue of $45.83M; updates FY2026 production guidance"
+    },
+    {
+     "title": "Los Angeles disables Google AI search features as school pushback grows",
+     "link": "https://seekingalpha.com/news/4676929-los-angeles-disables-google-ai-search-features-as-school-pushback-grows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:59:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Los Angeles disables Google AI search features as school pushback grows"
+    },
+    {
+     "title": "Soma Gold GAAP EPS of -C$0.02, revenue of C$23.8M",
+     "link": "https://seekingalpha.com/news/4676930-soma-gold-gaap-eps-of-c002-revenue-of-c238m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:58:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Soma Gold GAAP EPS of -C$0.02, revenue of C$23.8M"
+    },
+    {
+     "title": "午后科技成长行情大反弹！低轨组网明确2030年目标，卫星ETF永赢盘中涨超9%！",
+     "link": "http://finance.eastmoney.com/news/1353,202611273941615163.html",
+     "pubDate": "Fri, 27 Nov 2026 13:56:42 +0800",
+     "summary": "11月27日，A股卫星通信及商业航天板块午后走强。相关ETF方面，卫星ETF永赢（159206）涨超9%，成分股智明达涨停，华曙高科涨超15%，移远通信、航天电器涨停，复旦微电、国光电气等个股跟涨。 消息面上，11月26日，工业和信息化部、国家网信办、国家发展改革委公开发布《新一代通信网建设实施方案》，明确到2030年基本建成低轨卫星互联网系统。方案提出推进高中低轨卫星协同发展，加强星地频谱共享，推动卫星互联网与北斗和地面移动通信网融合。随着组网推进，卫星载荷、地面站及用户终端有望迎来配套建设需求。 卫星研制的共享中试能力加快落地。据人民日报报道，雄安卫星总装、集成与测试中心近日正式投入运行，",
+     "source": "东方财富股票",
+     "zh": "午后科技成长行情大反弹！低轨组网明确2030年目标，卫星ETF永赢盘中涨超9%！"
+    },
+    {
+     "title": "黄金权益池首次实际交易落地 黄金市场数字化转型迈出新一步",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941615483.html",
+     "pubDate": "Fri, 27 Nov 2026 13:56:24 +0800",
+     "summary": "近日，世界 黄金 协会宣布，汇丰 银行 、 摩根大通 和StoneX首次在具有法律约束力的上游市场实际交易中，完成 黄金 权益池（PGI）的交易和结算，并将其用作抵押品。 世界 黄金 协会的上游数字黄金（Wholesale Digital Gold）计划以黄金权益池为基础。此次试点交易的落地，标志着机构投资者在持有、转让和使用黄金的新模式上迈出了重要一步。 作为黄金市场基础设施的一项创新，黄金权益池将如何提升黄金资产流动性、拓展黄金在金融市场的应用场景？未来，随着更多金融机构参与，是否有望进一步惠及个人投资者，为其提供新的黄金投资渠道和产品选择？ 拓展黄金资产应用场景 从全球黄金市场现有的运行",
+     "source": "东方财富股票",
+     "zh": "黄金权益池首次实际交易落地 黄金市场数字化转型迈出新一步"
+    },
+    {
+     "title": "【调研快报】欣锐科技接待投资者网上提问调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611273941614720.html",
+     "pubDate": "Fri, 27 Nov 2026 13:55:43 +0800",
+     "summary": "欣锐科技 11月26日公告称， 11月26日 接待投资者网上提问 调研。 接待人员包括董事长、总经理 吴壬华,董事、财务总监 何兴泰,董事会秘书 朱若愚。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况 公司就投资者在本次说明会中提出的问题进行了回复: 1、请问现在各公司都在回购股份,有的甚至二次回购,贵公司一直没有动静是不看好自己公司价格吗 尊敬的投资者,您好!若公司筹划股份回购事项,将严格按照法律法规及监管要求,履行相应审议程序并及时披露。感谢您的关注。... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容",
+     "source": "东方财富股票",
+     "zh": "【调研快报】欣锐科技接待投资者网上提问调研"
+    },
+    {
+     "title": "雷军持股企业在无锡成立云数据公司",
+     "link": "http://finance.eastmoney.com/news/1354,202611273941615333.html",
+     "pubDate": "Fri, 27 Nov 2026 13:55:26 +0800",
+     "summary": "企查查APP显示，近日，无锡尚算云数据有限公司成立，经营范围包含 云计算 设备制造； 云计算 设备销售； 云计算 装备技术服务；互联网设备制造等。企查查股权穿透显示，该公司由广州尚航信息科技股份有限公司全资持股，后者由兰满桔、雷军等共同持股。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "雷军持股企业在无锡成立云数据公司"
+    },
+    {
+     "title": "国常会定调！科创50ETF东财涨超10%",
+     "link": "http://finance.eastmoney.com/news/1353,202611273941614827.html",
+     "pubDate": "Fri, 27 Nov 2026 13:55:01 +0800",
+     "summary": "截至11月27日13：50，A股三大指数直线拉升，沪指涨超3.49%，深成指涨6.56%，创业板指涨超10%；科创50指数拉升涨超14%。科创50ETF东财（589850）涨14.06%，成交量近5亿，较昨日同期放量2.8倍，换手率24.07%，交投活跃。 消息面上，据新华社报道，11月27日召开的国务院常务会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。要推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，提供充",
+     "source": "东方财富股票",
+     "zh": "国常会定调！科创50ETF东财涨超10%"
+    },
+    {
+     "title": "探月通信有保障！我国主导推动ITU通过月球探索新决议",
+     "link": "http://finance.eastmoney.com/news/1360,202611273941614933.html",
+     "pubDate": "Fri, 27 Nov 2026 13:54:18 +0800",
+     "summary": "11月26日，我国联合俄罗斯、巴西提交的月球探索新决议经国际电信联盟（ITU）2026年全权代表大会审议正式通过，这是国际电信联盟（ITU）首份聚焦月球探索频谱治理的决议，标志着我国深度参与地月空间无线电频谱资源国际规则制定取得重要突破。 据了解，无线电频谱资源是开展月球探索活动不可或缺的基础资源。截至目前，包括我国在内10个国家申报了开展月球探索活动所需的卫星网络资料。国际电信联盟无线电 通信 部门正在开展相关技术工作，研究月球频谱需求、频谱共享、与现有无线电 通信 业务的兼容性，并防范有害干扰。 专家指出，新决议有益于推进全球探月合作，也为我国载人月球探索任务、月球科研站建设等工程实施营造",
+     "source": "东方财富股票",
+     "zh": "探月通信有保障！我国主导推动ITU通过月球探索新决议"
+    },
+    {
+     "title": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks",
+     "link": "https://seekingalpha.com/news/4676916-asian-stocks-jump-on-us-futures-rally-china-profit-beat-shrugging-off-tariff-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:47:55 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks"
+    },
+    {
      "title": "国常会“稳市”！AH股午后集体飙升，创业板暴涨10%，科创50狂拉超12%，恒科指涨5%",
      "link": "https://wallstreetcn.com/articles/3786820",
      "pubDate": "Fri, 27 Nov 2026 13:47:47 +0800",
@@ -2257,20 +2321,20 @@
      "zh": "国常会“稳市”！AH股午后集体飙升，创业板暴涨10%，科创50狂拉超12%，恒科指涨5%"
     },
     {
+     "title": "“国家队”入市护盘过程中 各类机构均表现为净买入",
+     "link": "http://stock.eastmoney.com/news/1407,202611273941610251.html",
+     "pubDate": "Fri, 27 Nov 2026 13:47:10 +0800",
+     "summary": "最新召开的国常会首次提到，将加力发挥“国家队”稳市作用。 综合 记者从监管部门了解到的情况以及采访调研来看，“国家队”入市护盘过程中，各类稳定资金、中长期资金积极入市，两项稳市货币政策工具持续落地显效，\"国家队\"入市护盘过程中，10月初以来，公募基金、券商自营、私募证券基金、社保基金、保险机构等均表现为净买入，专业机构正加大逆周期布局力度。上市公司回购增持实施金额近600亿元，力度远超以往。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "“国家队”入市护盘过程中 各类机构均表现为净买入"
+    },
+    {
      "title": "创业板指涨幅扩大至10% 科创50指数涨近13% 全市场近5400股飘红",
      "link": "http://finance.eastmoney.com/news/1345,202611273941597985.html",
      "pubDate": "Fri, 27 Nov 2026 13:35:45 +0800",
-     "summary": "创业板指涨幅扩大至10%，科创50指数涨近13%，沪指上涨逾3%。全市场近5400股飘红，两市放量超4800亿。 今日要闻 国家统计局：1—10月份全国规模以上工业企业利润增长16.0% 1—10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。1—10月份，规模以上工业企业中，国有控股企业实现利润总额21080.3亿元，同比增长13.0%；股份制企业实现利润总额52426.6亿元，增长21.4%；外商及港澳台投资企业实现利润总额14678.7亿元，增长0.2%；私营企业实现利润总额17589.3亿元，增长11.4%。10月份，规模以上工业企业利润同比增长20.1%",
+     "summary": "创业板指涨幅扩大至10%，科创50指数涨近13%，沪指上涨逾3%。全市场近5400股飘红，两市放量超4800亿。 今日要闻 国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能 国务院总理李强11月27日主持召开国务院常务会议，会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。要推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，提供充足流动性保障。完善保险、企业年金、社保基金等中长期资金入",
      "source": "东方财富资讯",
      "zh": "创业板指涨幅扩大至10% 科创50指数涨近13% 全市场近5400股飘红"
-    },
-    {
-     "title": "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president",
-     "link": "https://seekingalpha.com/news/4676927-euro-zone-picks-spains-pablo-hernandez-de-cos-as-next-ecb-president?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:30:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president"
     },
     {
      "title": "国常会一个月内两提资本市场史上首次 稳市内容涉及较多",
@@ -2295,30 +2359,6 @@
      "summary": "国常会针对增强股市内在稳定性做了最新部署。记者获悉，下一步监管部门将坚持稳字当头，加强跨境风险监测研判和政策工具储备，巩固完善稳市机制建设，持续筑牢资本市场风险防波堤防浪堤，全力维护资本市场平稳运行。近期重点推进两大方面工作：一是优化股份回购规则，推动上市公司加大回购力度。抓紧修订《上市公司股份回购规则》，进一步提高股份回购便利度，增强护盘式回购的约束力。提高上市公司股票回购增持专项再贷款覆盖率，督促已披露计划的上市公司加快实施进度。支持、鼓励和督促具备条件的上市公司积极实施股份回购，持续做好市值管理。二是持续丰富市场投资产品和工具。持续加大权益类基金产品供给和创新力度，鼓励基金管理人发行更多",
      "source": "东方财富资讯",
      "zh": "监管部门将全力维护资本市场平稳运行"
-    },
-    {
-     "title": "SIR Royalty Income Fund reports Q4 results",
-     "link": "https://seekingalpha.com/news/4676926-sir-royalty-income-fund-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:13:35 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SIR Royalty Income Fund reports Q4 results"
-    },
-    {
-     "title": "Frontier Lithium Inc. reports 1H results",
-     "link": "https://seekingalpha.com/news/4676925-frontier-lithium-inc-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:09:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Frontier Lithium Inc. reports 1H results"
-    },
-    {
-     "title": "Nations Royalty Corp. reports Q2 results",
-     "link": "https://seekingalpha.com/news/4676924-nations-royalty-corp-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:03:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nations Royalty Corp. reports Q2 results"
     },
     {
      "title": "Is the stock market open on Black Friday?",
@@ -2369,22 +2409,6 @@
      "zh": "Chinese households shed billions in consumer debt"
     },
     {
-     "title": "Friday's Economic Calendar",
-     "link": "https://seekingalpha.com/news/4676824-fridays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Friday's Economic Calendar"
-    },
-    {
-     "title": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M",
-     "link": "https://seekingalpha.com/news/4676923-bqe-water-gaap-eps-of-281-beats-by-108-revenue-of-1227m-misses-by-093m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:58:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M"
-    },
-    {
      "title": "Asia stocks stabilise",
      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 04:31:57 GMT",
@@ -2417,38 +2441,6 @@
      "zh": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations"
     },
     {
-     "title": "华为乾崑合作品牌达26个，搭载车型超60款",
-     "link": "http://www.eeo.com.cn/2026/1127/1104948.shtml",
-     "pubDate": "Fri, 27 Nov 2026 12:08:06 +0800",
-     "summary": "华为乾崑生态大会2026在广州举行。华为智能汽车解决方案宣布，累计搭载26个品牌、超60款车型，智能化部件发货量突破1亿件；乾崑智驾与鸿蒙座舱搭载量双双突破200万。",
-     "source": "经济观察网",
-     "zh": "华为乾崑合作品牌达26个，搭载车型超60款"
-    },
-    {
-     "title": "多股新签订单新高！主力吸筹半导体设备(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202611273941557725.html",
-     "pubDate": "Fri, 27 Nov 2026 12:05:25 +0800",
-     "summary": "半导体 设备周五大涨， 华海诚科 、 灿芯股份 等多股20CM涨停， 长川科技 、 中科飞测 等多股涨超10%。 多股新签订单创 新高 从产业基本面看， 国产 半导体 设备正迎来历史性替代窗口 。据21世纪经济报道，近期 中微公司 、 盛美上海 等多家国内设备企业披露前三季度新签订单普遍创历史 新高 ，头部存储厂三期产线国产设备采购占比首次突破五成，存储与先进逻辑正成为国产设备渗透的核心方向。 此外，国际 半导体 产业协会（SEMI）预计，2026年全球300毫米晶圆厂前道设备支出将达1490亿美元、同比增长31%，为本轮设备景气提供支撑。 国信证券 指出，自主可控政策支持叠加技术突破，后续可",
-     "source": "东方财富资讯",
-     "zh": "多股新签订单新高！主力吸筹半导体设备(附股)"
-    },
-    {
-     "title": "赋信与建信：AI时代信任构建的两条路径",
-     "link": "http://www.eeo.com.cn/2026/1127/1104916.shtml",
-     "pubDate": "Fri, 27 Nov 2026 11:52:57 +0800",
-     "summary": "AI可以赋信——让信息更透明、行为更可验证。但信任不只是信息对称，更是关系认同。AI无法替代管理者在关键时刻的选择——选择信任而非管控，选择坦诚而非掩饰。",
-     "source": "经济观察网",
-     "zh": "赋信与建信：AI时代信任构建的两条路径"
-    },
-    {
-     "title": "主体性成长指南｜01 把自己活成主语",
-     "link": "http://www.eeo.com.cn/2026/1127/1104913.shtml",
-     "pubDate": "Fri, 27 Nov 2026 11:51:31 +0800",
-     "summary": "语法课上，主语是那个“发出动作的人”。放到人生里，主语就是——这件事，是谁在做决定。",
-     "source": "经济观察网",
-     "zh": "主体性成长指南｜01 把自己活成主语"
-    },
-    {
      "title": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”",
      "link": "https://wallstreetcn.com/articles/3786822",
      "pubDate": "Fri, 27 Nov 2026 11:37:56 +0800",
@@ -2463,30 +2455,6 @@
      "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
      "source": "CNBC",
      "zh": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
-    },
-    {
-     "title": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高",
-     "link": "https://wallstreetcn.com/articles/3786823",
-     "pubDate": "Fri, 27 Nov 2026 10:58:30 +0800",
-     "summary": "美国消费者在今年假日购物季的借贷消费规模预计将创下历史新高，“先买后付”（BNPL）工具的使用量持续攀升。 据Adobe预测，在11月1日至12月31日期间，美国消费者使用“先买后付”的 在线借贷消费支出将达到创纪录的213亿美元，较去年同期增长6.6%。 仅在“网购星期一”（Cyber Monday），该项支出预计将达到10.9亿美元，连续第二年突破10亿美元大关；“黑五”（Black Friday）也将额外贡献8.07亿美元的信贷消费。 这一支付模式的显著特征在于对智能手机的极度依赖。Adobe的数据显示，高达82%的“先买后付”支出将通过手机完成， 机构将这一现象直接归因于移动设备更容易",
-     "source": "华尔街见闻",
-     "zh": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高"
-    },
-    {
-     "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
-     "link": "https://wallstreetcn.com/articles/3786816",
-     "pubDate": "Fri, 27 Nov 2026 10:16:32 +0800",
-     "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
-     "source": "华尔街见闻",
-     "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
-    },
-    {
-     "title": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍",
-     "link": "https://wallstreetcn.com/articles/3786817",
-     "pubDate": "Fri, 27 Nov 2026 10:01:58 +0800",
-     "summary": "11月27日，国家统计局公布数据显示，1-10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。 其中，10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。 从三大门类看，1-10月采矿业利润增长38.8%，制造业利润增长17.5%，电力、热力、燃气及水生产和供应业利润下降14.8%。 电子行业：一项拉动近10个百分点 中国国家统计局工业司首席统计师于卫宁称，电子行业对利润增长支撑作用明显。 人工",
-     "source": "华尔街见闻",
-     "zh": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍"
     }
    ]
   },

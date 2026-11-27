@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 23:41:47",
+ "generated_at": "2026/11/27 23:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Struggling Celerons",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
-     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Struggling Celerons"
-    },
-    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -290,38 +282,6 @@ window.INDUSTRY_DATA = {
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
     },
     {
-     "title": "Kontron KBox industrial computer platform targets robotics and AI",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
-     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
-    },
-    {
-     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
-     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
-     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
-     "source": "Electronics Weekly",
-     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
-    },
-    {
-     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
-     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
-    },
-    {
-     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
-     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
-    },
-    {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
      "link": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
      "pubDate": "Fri, 27 Nov 2026 09:20:19 GMT",
@@ -344,14 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
      "source": "DIGITIMES",
      "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
-    },
-    {
-     "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
-     "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0000",
-     "summary": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
-     "source": "Electronics Weekly",
-     "zh": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The stories we’re grateful for this year",
+     "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+     "pubDate": "Fri, 27 Nov 2026 15:49:05 +0000",
+     "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+     "source": "STAT News",
+     "zh": "The stories we’re grateful for this year"
+    },
+    {
      "title": "STAT+: Here are some health AI conversation starters for the holidays",
      "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
      "pubDate": "Fri, 27 Nov 2026 14:54:22 +0000",
@@ -1136,14 +1144,6 @@ window.INDUSTRY_DATA = {
      "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
      "source": "STAT News",
      "zh": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America"
-    },
-    {
-     "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
-     "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
-     "pubDate": "Wed, 25 Nov 2026 21:28:53 +0000",
-     "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
-     "source": "STAT News",
-     "zh": "Why Medicare’s 2027 physician pay changes worry some specialists"
     },
     {
      "title": "Engineered Medical Gloves Cut Bacterial Transmission by Up to 99%",
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+     "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+     "pubDate": "Fri, 27 Nov 2026 15:43:33 +0000",
+     "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
+     "source": "WIRED",
+     "zh": "Walking Pad Deals to Shop This Black Friday (2026)"
+    },
+    {
+     "title": "CFO不签字，AI 项目就不算完",
+     "link": "https://www.huxiu.com/article/4909092.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 23:33:29 +0800",
+     "summary": "本文来自微信公众号： 爱中 谭 一份AI对账项目的验收材料。 技术部分很漂亮。数百单真实业务样本，单据识别率90%多，自动审核通过超过75%，进入人工处理的不到25%。项目团队算了一笔账：能省下近八成运单审核工作量。 再往后翻，财务意见那一栏是空的。 项目还在实施。至少从材料看，CFO还没签字。 这事挺尴尬的。业务说好用，技术说达标，项目就是结不了尾款。问题不在模型，在另一张纸上。 一、技术验收过了，财务意见空着 很多AI项目把验收理解成一场。 模型准确率达标，系统跑通，业务负责人签个字，验收报告一交，项目就算成了。 但这只是技术验收。 技术验收回答的是：这东西能不能用？ 后面还有一场：财务验",
+     "source": "虎嗅",
+     "zh": "CFO不签字，AI 项目就不算完"
+    },
+    {
      "title": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 15:30:05 +0000",
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
      "pubDate": "Fri, 27 Nov 2026 15:03:17 +0000",
-     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 16 # Comments: 6",
      "source": "Hacker News",
      "zh": "GPT 6.2 Astra Solves a Historical Mystery"
     },
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
      "pubDate": "Fri, 27 Nov 2026 14:55:57 +0000",
-     "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50667664 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50667664 Points: 10 # Comments: 4",
      "source": "Hacker News",
      "zh": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem"
     },
@@ -1885,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
      "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
      "pubDate": "Fri, 27 Nov 2026 14:09:44 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 18 # Comments: 13",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 24 # Comments: 14",
      "source": "Hacker News",
      "zh": "Norse Atlantic suspends all flights as it faces potential collapse"
     },
@@ -1922,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "为什么健身多年，“训练痕迹”却不明显？"
     },
     {
-     "title": "饺子第一股，不靠饺子赚钱",
-     "link": "https://www.huxiu.com/article/4909078.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 21:38:51 +0800",
-     "summary": "本文来自微信公众号： 听潮TI ，编辑：张晓，作者：听潮TI团队 加盟红利、外卖红利与增长边界。 在袁记之前，几乎没有人会觉得饺子是个多具资本想象力的品类。 但这家诞生于广州的企业，用3年多时间把门店数量从不足2000家开到近5000家，并走到了港交所的门前。 今日（11月27日），袁记食品在港交所公告，公司将于12月27日在香港启动公开发售，拟全球发售16312300股H股，香港发售股份1631300股H股（可予重新发配），国际发售股份14681000股H股（可予重新发配），最高发售价为每股28港元。 港股餐饮板块已经太久没有像样的新股，袁记食品的过会，似乎让今年冷清的餐饮IPO市场终于有了",
-     "source": "虎嗅",
-     "zh": "饺子第一股，不靠饺子赚钱"
-    },
-    {
      "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
      "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
      "pubDate": "Fri, 27 Nov 2026 13:10:54 +0000",
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Mental Health Resources and Political Engagement",
      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
      "pubDate": "Fri, 27 Nov 2026 13:01:02 +0000",
-     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 76 # Comments: 133",
+     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 76 # Comments: 135",
      "source": "Hacker News",
      "zh": "Mental Health Resources and Political Engagement"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "US Air Force's cloud computing platform hacked",
      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
      "pubDate": "Fri, 27 Nov 2026 12:54:11 +0000",
-     "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 110 # Comments: 53",
+     "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 121 # Comments: 63",
      "source": "Hacker News",
      "zh": "US Air Force's cloud computing platform hacked"
     },
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ben Jiang / South China Morning Post : Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss &nbsp; &mdash;&nbsp; Chinese food-delivery giant Meituan reported a second consecutive profitable quarter on Friday, as th",
      "source": "Techmeme",
      "zh": "Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss (Ben Jiang/South China Morning Post)"
-    },
-    {
-     "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
-     "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 12:15:27 +0000",
-     "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-     "source": "WIRED",
-     "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories"
     },
     {
      "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "TCL NXTPAPER 70 Pro drops to a record low of $259.99",
+     "link": "https://www.androidauthority.com/tcl-nxtpaper-70-pro-black-friday-deal-3740934/",
+     "pubDate": "Fri, 27 Nov 2026 15:47:21 +0000",
+     "summary": "TCL's 6.9-inch phone with an eye-friendly matte NXTPAPER display is $70 off, its lowest price yet on Amazon.",
+     "source": "Android Authority",
+     "zh": "TCL NXTPAPER 70 Pro drops to a record low of $259.99"
+    },
+    {
+     "title": "Belkin’s 45W USB-C charger two-pack hits a record low of $24.99",
+     "link": "https://www.androidauthority.com/belkin-45w-charger-2-pack-deal-3740569/",
+     "pubDate": "Fri, 27 Nov 2026 15:38:55 +0000",
+     "summary": "Two of Belkin's compact 45W USB-C chargers are 29% off on Amazon, with foldable prongs and cables in the box.",
+     "source": "Android Authority",
+     "zh": "Belkin’s 45W USB-C charger two-pack hits a record low of $24.99"
+    },
     {
      "title": "Android app developers will have to publicly post address, phone number in 2027",
      "link": "https://9to5google.com/2026/11/27/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027/",
@@ -2098,14 +2114,6 @@ window.INDUSTRY_DATA = {
      "zh": "WhatsApp is adding travel eSIMs"
     },
     {
-     "title": "PSA: Amazon’s 2026 Kindle back panels are popping off when owners remove their cases",
-     "link": "https://www.androidauthority.com/amazon-kindle-2026-back-panel-issue-3740856/",
-     "pubDate": "Fri, 27 Nov 2026 14:36:26 +0000",
-     "summary": "Taking off a protective case shouldn't double as a teardown.",
-     "source": "Android Authority",
-     "zh": "PSA: Amazon’s 2026 Kindle back panels are popping off when owners remove their cases"
-    },
-    {
      "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
      "link": "https://9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error/",
      "pubDate": "Fri, 27 Nov 2026 14:35:00 +0000",
@@ -2120,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "We can blame AI for many things, least of all the steep increase in the cost of integral storage and memory we need for PCs, Macs, phones, and consoles. more…",
      "source": "9to5Google",
      "zh": "Storage is expensive right now, but these deals are worth it if you’re desperate for space"
-    },
-    {
-     "title": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon",
-     "link": "https://www.androidauthority.com/shokz-openfit-2-plus-deal-3740882/",
-     "pubDate": "Fri, 27 Nov 2026 14:28:44 +0000",
-     "summary": "Shokz's open-ear earbuds with Dolby Audio and wireless charging are 50% off, matching their lowest price.",
-     "source": "Android Authority",
-     "zh": "Shokz OpenFit 2 Plus open-ear earbuds are half off on Amazon"
     },
     {
      "title": "Best Black Friday deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs,  more [Updated]",
@@ -2250,12 +2250,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Anthropic shares extend gains, recovering from post-IPO slump",
+     "link": "https://seekingalpha.com/news/4676996-anthropic-stock-gains-premarket-reclaiming-ipo-price?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 10:48:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic shares extend gains, recovering from post-IPO slump"
+    },
+    {
+     "title": "Regeneron gains approval of Lynozyfic in UK",
+     "link": "https://seekingalpha.com/news/4677050-regeneron-gains-approval-lynozyfic-uk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 10:47:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Regeneron gains approval of Lynozyfic in UK"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 15:45:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "Ten top-rated consumer discretionary stocks as BofA signals a sector rotation",
+     "link": "https://seekingalpha.com/news/4677059-ten-top-rated-consumer-discretionary-stocks-as-bofa-signals-a-sector-rotation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 10:36:30 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ten top-rated consumer discretionary stocks as BofA signals a sector rotation"
+    },
+    {
+     "title": "中东冲突的受害者！燃油成本飙升压垮运营 欧洲廉航Norse Atlantic申请破产",
+     "link": "http://finance.eastmoney.com/news/1356,202611273942094750.html",
+     "pubDate": "Fri, 27 Nov 2026 23:36:19 +0800",
+     "summary": "美伊冲突引发的能源成本冲击正进一步向航空业蔓延，欧洲廉价航空公司Norse Atlantic Airways当地时间周五正式申请破产。该公司表示，由于全年燃油成本大幅攀升，经营压力持续加剧，加之未能成功获得融资，最终无力维持运营。 Norse Atlantic的母公司Norse Atlantic ASA认定，这家挪威航空公司已不具备继续运营的条件。 该公司周五在一份声明中表示：“尽管公司已付出巨大努力，但迄今仍未能获得足够资金，以满足短期流动性需求。” 就在几天前，Norse Atlantic还表示，公司正面临“严峻的财务困境”，并正在评估各种应对方案，包括寻求战略收购方，以及通过ACMI模式",
+     "source": "东方财富股票",
+     "zh": "中东冲突的受害者！燃油成本飙升压垮运营 欧洲廉航Norse Atlantic申请破产"
+    },
+    {
+     "title": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超11%",
+     "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
+     "pubDate": "Fri, 27 Nov 2026 23:35:33 +0800",
+     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道琼斯指数涨0.73%， 纳斯达克 综合 指数涨1.24 % ， 标普500指数涨0.91%。 AI存储板块上涨， 闪迪 涨超11%， 西部数据 、 美光科技 、 SK海力士 涨超4 % 。 美股“科技巨头”涨跌不一， 英伟达 股价高开后由涨转跌，现跌1.19%； 苹果 股价上涨0.75%， 微软 股价上涨0.30%， 谷歌-A 股价下跌0.37%， 亚马逊 股价上涨3.20%，Meta股价上涨3.70%， 特斯拉 股价上涨5.16%， Anthropic 涨超9%。 全球要闻 避险需求与加息预期双重驱动 美元势创两年来最长月度连涨 随着 人工智能",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超11%"
+    },
+    {
+     "title": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000",
+     "link": "https://seekingalpha.com/news/4677060-cdc-confirms-ninth-measles-linked-death-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 10:35:19 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000"
+    },
+    {
+     "title": "锚定江河战略 四川水发集团展现蜀地治水新实践",
+     "link": "http://finance.eastmoney.com/news/1354,202611273942093354.html",
+     "pubDate": "Fri, 27 Nov 2026 23:33:51 +0800",
+     "summary": "11月26日，“都江堰·江河战略论坛”在成都都江堰市举行，新时代江河治理的前沿思考在此交汇碰撞。作为四川现代水网建设的核心攻坚力量，四川省水利发展集团有限公司（以下简称“四川水发集团”）成为本次论坛的一抹亮色。 论坛现场，国产超大直径双护盾全断面隧道掘进机“越喜号”亮相，彰显四川水利装备制造的硬核实力；配套举办的“兴水惠民——中国江河治理成就展”上，引大济岷、亭子口灌区等撑起四川水网主骨架的标志性水利工程，引发与会专家的广泛关注与深入探讨；《江河治理·都江堰倡议》发布仪式上，该集团以一线建设的实践积淀，为新时代江河治理注入四川力量。 图为《江河治理·都江堰倡议》发布现场 锚定国家水网上游定位勇",
+     "source": "东方财富股票",
+     "zh": "锚定江河战略 四川水发集团展现蜀地治水新实践"
+    },
+    {
+     "title": "闪迪日内涨幅扩大至约12% 领涨美股存储板块",
+     "link": "http://finance.eastmoney.com/news/11228,202611273942093597.html",
+     "pubDate": "Fri, 27 Nov 2026 23:33:01 +0800",
+     "summary": "闪迪 日内涨幅扩大至约12%，领涨美股存储板块。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "闪迪日内涨幅扩大至约12% 领涨美股存储板块"
+    },
+    {
+     "title": "上汽MG：明年1月1日起在中国大陆停产燃油车",
+     "link": "http://finance.eastmoney.com/news/1354,202611273942095526.html",
+     "pubDate": "Fri, 27 Nov 2026 23:32:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天)11月27日，上汽MG发文宣布：为顺应全球化 新能源 发展趋势，根据公司发展战略需求，上汽MG品牌决定自2027年1月1日起，面向中国大陆市场停产在售版本纯燃油车型。 上汽MG品牌决定自2027年1月1日起，面向中国大陆市场停产在售版本纯燃油车型。企业公众号截图 对既有燃油 汽车 用户，MG将继续提供完善的维保服务与全周期零部件供给，保障用户正常用车与售后权益。 公告称，作为面向全球的中国 汽车 品牌，MG充分尊重各区域市场的能源结构、消费习惯与政策环境，坚持以技术创新为核心 驱动力 ，因地制宜推进 新能源 转型。 （文章来源：新京报）",
+     "source": "东方财富股票",
+     "zh": "上汽MG：明年1月1日起在中国大陆停产燃油车"
+    },
+    {
      "title": "Tesla moves to acquire German manufacturing supplier EMAG",
      "link": "https://seekingalpha.com/news/4677035-tesla-moves-to-acquire-german-manufacturing-supplier-emag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 10:31:45 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tesla moves to acquire German manufacturing supplier EMAG"
+    },
+    {
+     "title": "纷美利乐回应最高法宣判：服从判决",
+     "link": "http://finance.eastmoney.com/news/1354,202611273942091627.html",
+     "pubDate": "Fri, 27 Nov 2026 23:31:10 +0800",
+     "summary": "11月27日，针对当天最高法公开宣判利乐垄断后继民事诉讼两案，纷美相关人士向北京商报记者回应称，“ 纷美包装 尊重并拥护最高法终审判决，纷美将继续深耕无菌包装主业，以品质打造民族品牌。” 利乐公司官网发布声明称，“已收到最高人民法院对我司所提起的上诉案件作出的终审判决。尽管对判决结果感到遗憾，利乐公司服从最高人民法院的判决，对该案件不再寻求进一步法律救济”。 当天，最高人民法院在 知识产权 法庭第一法庭公开开庭，对纷美（北京）贸易有限公司等（以下简称“纷美方”）及山东 新巨丰 科技包装股份有限公司等（以下简称“ 新巨丰 方”）分别诉利乐中国有限公司等（以下简称“利乐方”）滥用市场支配地位两案公",
+     "source": "东方财富股票",
+     "zh": "纷美利乐回应最高法宣判：服从判决"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -2282,44 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
     },
     {
-     "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
-     "link": "https://seekingalpha.com/news/4676986-nvidia-gains-premarket-as-stock-heads-for-end-to-volatile-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 10:25:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia stock falls after premarket gains as volatile week nears its end"
-    },
-    {
-     "title": "CoreWeave gives up early gains amid neocloud worries",
-     "link": "https://seekingalpha.com/news/4677057-coreweave-gives-up-early-gains-amid-neocloud-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 10:19:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CoreWeave gives up early gains amid neocloud worries"
-    },
-    {
      "title": "US tech stocks rise in latest market swing",
      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 15:17:23 GMT",
      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
      "source": "Financial Times",
      "zh": "US tech stocks rise in latest market swing"
-    },
-    {
-     "title": "BAE Systems scores European combat vehicle contracts worth $6B",
-     "link": "https://seekingalpha.com/news/4677051-bae-systems-scores-european-combat-vehicle-contracts-worth-6b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 10:12:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BAE Systems scores European combat vehicle contracts worth $6B"
-    },
-    {
-     "title": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超9%",
-     "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
-     "pubDate": "Fri, 27 Nov 2026 23:11:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道琼斯指数涨0.67%， 纳斯达克 综合 指数涨0.94 % ， 标普500指数涨0.69%。 AI存储板块上涨， 闪迪 涨超9%， 西部数据 、 美光科技 、 SK海力士 涨超3 % 。 美股“科技巨头”涨跌不一， 英伟达 股价高开后由涨转跌，现跌1.56%； Anthropic 涨超6%， 苹果 股价上涨0.49%， 微软 股价上涨0.30%， 谷歌-A 股价下跌0.47%， 亚马逊 股价上涨2.79%，Meta股价上涨2.90%， 特斯拉 股价上涨3.43%。 全球要闻 避险需求与加息预期双重驱动 美元势创两年来最长月度连涨 随着 人工智能 ",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超9%"
     },
     {
      "title": "From Jobs to Jensen: tech’s metamorphosis",
@@ -2344,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they don’t seem to be generating revenues from it at the same rate.",
      "source": "MarketWatch",
      "zh": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking."
-    },
-    {
-     "title": "Here are the major earnings after the close Friday",
-     "link": "https://seekingalpha.com/news/4676743-here-are-the-major-earnings-after-the-close-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 10:00:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings after the close Friday"
     },
     {
      "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
      "source": "CNBC",
      "zh": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts"
-    },
-    {
-     "title": "AI股抛售潮接近尾声？摩根大通警告：真正的风险可能在2027年",
-     "link": "https://wallstreetcn.com/articles/3786864",
-     "pubDate": "Fri, 27 Nov 2026 22:10:31 +0800",
-     "summary": "AI股的抛售潮或许正在接近尾声，但市场真正需要警惕的，可能不是眼前的暴跌，而是反弹之后逐渐累积的经济增长风险。 摩根大通欧洲量化策略主管Khuram Chaudhry领衔的团队在最新报告中指出， 当前市场正处于“熊市三阶段”框架中的第一阶段（崩跌）尾声，短期有望转向第二阶段（反弹），但随后可能进入第三阶段（缓慢下行），2027年全球经济增长放缓将成为市场面临的主要风险。 该团队认为，近期动量股的集中抛售已显现出熊市第一阶段的典型特征，而投资者情绪跌至过去20年来的极端低位，与盈利预期、采购经理人指数等基本面指标所反映的情况出现明显背离，短期反弹的条件正在形成。 但反弹并不意味着风险解除。 摩根",
-     "source": "华尔街见闻",
-     "zh": "AI股抛售潮接近尾声？摩根大通警告：真正的风险可能在2027年"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 13:58:19 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
-    },
-    {
-     "title": "外汇局：10月份中国外汇市场总计成交3.77万亿美元",
-     "link": "http://www.eeo.com.cn/2026/1127/1105796.shtml",
-     "pubDate": "Fri, 27 Nov 2026 21:52:19 +0800",
-     "summary": "本报讯 （记者刘琪） 11月27日，国家外汇管理局公布2026年10月中国外汇市场交易概况数据。国家外汇管理局统计数据显示，2026年10月，中国外汇市场（不含外币对市场，下同）总计成交25.36万亿元人民币（等值3.77万亿美元）。其中，银行对客户市场成交4.32万亿元人民币（等值0.64万亿美元），银行间市场成交21.04万亿元人民币（等值3.13万亿美元）；即期市场成交8.16万亿元人民币（等值1.21万亿美元），衍生品市场成交17.20...",
-     "source": "经济观察网",
-     "zh": "外汇局：10月份中国外汇市场总计成交3.77万亿美元"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 13:45:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
-     "title": "Lloyds app goes down",
-     "link": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 13:43:00 GMT",
-     "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
-     "source": "Finextra",
-     "zh": "Lloyds app goes down"
-    },
-    {
-     "title": "经济观察报 第1298期",
-     "link": "http://www.eeo.com.cn/2026/1127/1105792.shtml",
-     "pubDate": "Fri, 27 Nov 2026 21:37:43 +0800",
-     "summary": "经济观察报 第1298期",
-     "source": "经济观察网",
-     "zh": "经济观察报 第1298期"
     }
    ]
   },

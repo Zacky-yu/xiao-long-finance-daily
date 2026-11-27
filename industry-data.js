@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 23:35:16",
+ "generated_at": "2026/11/27 23:41:47",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -282,6 +290,38 @@ window.INDUSTRY_DATA = {
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
     },
     {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
+    },
+    {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
      "link": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
      "pubDate": "Fri, 27 Nov 2026 09:20:19 GMT",
@@ -304,6 +344,14 @@ window.INDUSTRY_DATA = {
      "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
      "source": "DIGITIMES",
      "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
+    },
+    {
+     "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
+     "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0000",
+     "summary": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
+     "source": "Electronics Weekly",
+     "zh": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+     "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/",
+     "pubDate": "Fri, 27 Nov 2026 15:35:22 +0000",
+     "summary": "Paris, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting […] The post Governments Invest $71.8B in Space Defense as Militarization of Space Accel",
+     "source": "SpaceNews",
+     "zh": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates"
+    },
+    {
      "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
      "link": "https://www.space.com/stargazing/skywatching-kit/make-the-most-of-the-new-moon-on-dec-8-and-get-closer-views-of-the-stars-with-the-celestron-inspire-100az",
      "pubDate": "Fri, 27 Nov 2026 15:10:00 +0000",
@@ -1528,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 15:30:05 +0000",
+     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+     "source": "WIRED",
+     "zh": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026"
+    },
+    {
      "title": "The CMA says Meta made changes to Muse&apos;s ToS in the UK to reflect the country&apos;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
      "link": "https://www.techmeme.com/261127/p8#a261127p8",
      "pubDate": "Fri, 27 Nov 2026 10:25:00 -0500",
@@ -1922,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "饺子第一股，不靠饺子赚钱"
     },
     {
-     "title": "131 Best Black Friday Deals Now Live: Our Expert Picks for 2026",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 13:36:48 +0000",
-     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
-     "source": "WIRED",
-     "zh": "131 Best Black Friday Deals Now Live: Our Expert Picks for 2026"
-    },
-    {
      "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
      "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
      "pubDate": "Fri, 27 Nov 2026 13:10:54 +0000",
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android app developers will have to publicly post address, phone number in 2027",
+     "link": "https://9to5google.com/2026/11/27/android-app-developers-will-have-to-publicly-post-address-phone-number-in-2027/",
+     "pubDate": "Fri, 27 Nov 2026 15:35:00 +0000",
+     "summary": "Following new regulations, Google Play will require Android app developers to publicly post a business address starting in 2027 and, while there are workarounds, it’s not going to be the easiest thing. more…",
+     "source": "9to5Google",
+     "zh": "Android app developers will have to publicly post address, phone number in 2027"
+    },
+    {
+     "title": "ChatGPT for Android could soon make calls and send texts",
+     "link": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php",
+     "pubDate": "Fri, 27 Nov 2026 16:34:02 +0100",
+     "summary": "You can already set ChatGPT as your default digital assistant on Android, but so far it's been limited to voice conversations and text replies. Today, strings found in version 1.2026.328 of the Android app suggest OpenAI is working on giving it much deeper control over your phone. The leftover permi",
+     "source": "GSMArena",
+     "zh": "ChatGPT for Android could soon make calls and send texts"
+    },
     {
      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
      "link": "https://9to5mac.com/2026/11/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
@@ -2130,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple TV is $6.99/month (50% off) for Black Friday, details here"
     },
     {
-     "title": "Every single pair of Xreal smart glasses is now on sale for Black Friday",
-     "link": "https://9to5google.com/2026/11/27/all-xreal-glasses-black-friday-sale-2026/",
-     "pubDate": "Fri, 27 Nov 2026 13:54:07 +0000",
-     "summary": "Xreal offers an impressively wide range of smart display glasses that give you a massive virtual display without the massive price tag. more…",
-     "source": "9to5Google",
-     "zh": "Every single pair of Xreal smart glasses is now on sale for Black Friday"
-    },
-    {
      "title": "These are the best Mac Black Friday deals",
      "link": "https://9to5mac.com/2026/11/27/mac-black-friday-deals-roundup/",
      "pubDate": "Fri, 27 Nov 2026 13:53:28 +0000",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "本周看什么 | 最近值得一看的 8 部作品"
     },
     {
-     "title": "WhatsApp announces the Travel eSIM feature",
-     "link": "https://www.gsmarena.com/whatsapp_travel_esim_feature-news-75665.php",
-     "pubDate": "Fri, 27 Nov 2026 08:51:02 +0100",
-     "summary": "We recently learned that WhatsApp was testing a new feature called \"Travel eSIM,\" and the Meta-owned company has now officially announced it. WhatsApp says it's \"a new way to buy and install a data e-SIM when traveling internationally in just a few taps without leaving the app,\" and that the entire ",
-     "source": "GSMArena",
-     "zh": "WhatsApp announces the Travel eSIM feature"
-    },
-    {
      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
      "link": "https://sspai.com/post/119601",
      "pubDate": "Fri, 27 Nov 2026 11:48:17 +0800",
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Tesla moves to acquire German manufacturing supplier EMAG",
+     "link": "https://seekingalpha.com/news/4677035-tesla-moves-to-acquire-german-manufacturing-supplier-emag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 10:31:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tesla moves to acquire German manufacturing supplier EMAG"
+    },
+    {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 15:30:00 GMT",
@@ -2266,60 +2274,20 @@ window.INDUSTRY_DATA = {
      "zh": "SK Hynix increases buybacks following recent share skid: report"
     },
     {
+     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
+     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
+     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
+     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
+     "source": "经济观察网",
+     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
+    },
+    {
      "title": "Nvidia stock falls after premarket gains as volatile week nears its end",
      "link": "https://seekingalpha.com/news/4676986-nvidia-gains-premarket-as-stock-heads-for-end-to-volatile-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 10:25:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia stock falls after premarket gains as volatile week nears its end"
-    },
-    {
-     "title": "山姆羽绒服爆红，“隐形”纺织大省想出圈久矣",
-     "link": "http://finance.eastmoney.com/news/1354,202611273942087990.html",
-     "pubDate": "Fri, 27 Nov 2026 23:25:04 +0800",
-     "summary": "一件卖爆单的羽绒服，让向来低调的北方纺织大省意外来到聚光灯下。 近段时间，一款标价399元、充绒量300克的羽绒服在全国多地山姆门店卖断货，各地网友“求代购”心切刷屏网络。就在这件被称为“性价比之王”的羽绒服吊牌上，一行本不显眼的“产地：山东泰安”字样，却引发公众热议。 有分析直指：充绒量300克，80%白鸭绒，光绒的成本就占到售价三成以上。叠加面料、加工与渠道等费用，定价399元几乎是一笔“做不出来”的买卖，但山东泰安的一家服装厂做到了。 这件颠覆行业常理的羽绒服背后，指向的是山东纺织服装产业的底盘——山东现有纺织服装生产企业5万余家，国家级特色产业集群22个；纱产量全国第一，布产量全国第二",
-     "source": "东方财富股票",
-     "zh": "山姆羽绒服爆红，“隐形”纺织大省想出圈久矣"
-    },
-    {
-     "title": "引望、启境与神州租车三方战略签约 融合华为乾崑智驾能力",
-     "link": "http://finance.eastmoney.com/news/1354,202611273942089476.html",
-     "pubDate": "Fri, 27 Nov 2026 23:24:58 +0800",
-     "summary": "上证报中国证券网讯（记者俞立严）11月27日，引望、启境 汽车 与神州租车在广州共同签署三方战略合作协议。根据协议，三方将围绕华为乾崑APP生态开展合作探讨，覆盖租车服务体验、联合运营、积分场景等方向，并把数字钥匙、 ETC 便捷通行、华为乾崑智驾等能力放进一次完整行程里，共同探索“租车即体验、体验促信任”的生态创新模式。 按照规划，未来，三方将在安全与合规前提下，持续探索车云服务、辅助智驾运营及未来出行方式，让一次出行的智能化延展为更多场景可复用、可持续进化的生态能力，提供更智能的出行服务。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "引望、启境与神州租车三方战略签约 融合华为乾崑智驾能力"
-    },
-    {
-     "title": "美国联邦通信委员会主席卡尔：对迪士尼歧视行为的调查仍在继续",
-     "link": "http://stock.eastmoney.com/news/1611,202611273942088734.html",
-     "pubDate": "Fri, 27 Nov 2026 23:24:08 +0800",
-     "summary": "美国联邦 通信 委员会主席卡尔：对 迪士尼 歧视行为的调查仍在继续。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国联邦通信委员会主席卡尔：对迪士尼歧视行为的调查仍在继续"
-    },
-    {
-     "title": "ST中珠全资子公司拟出售资产 货值超3.32亿元",
-     "link": "http://stock.eastmoney.com/news/11219,202611273942086869.html",
-     "pubDate": "Fri, 27 Nov 2026 23:23:59 +0800",
-     "summary": "上证报中国证券网讯（记者荆淮侨）11月27日晚间， ST中珠 发布公告称，根据业务发展需要，全资子公司中珠红旗拟采取在市场寻找意向交易方、公开挂牌等方式出售持有的商铺及其他商业存量资产。公司称，本次交易系基于公司整体发展战略及资产结构优化需要，有利于优化公司资源配置、盘活存量资产，促进公司聚焦核心业务，推动公司实现高质量发展。 据披露，本次拟出售的资产为中珠红旗持有的项目商铺、商业 综合 体等两类资产。其中，项目商铺18套，合计面积5179.44平方米，货值3788万元；商业 综合 体2处，合计面积1.38万平方米，货值2.94亿元。 公司表示，本次出售资产有助于出清低效资产，回笼资金，整体提",
-     "source": "东方财富股票",
-     "zh": "ST中珠全资子公司拟出售资产 货值超3.32亿元"
-    },
-    {
-     "title": "湖北发布营商环境实务一本通 135个服务入口覆盖企业全生命周期",
-     "link": "http://finance.eastmoney.com/news/1350,202611273942085869.html",
-     "pubDate": "Fri, 27 Nov 2026 23:23:50 +0800",
-     "summary": "上证报中国证券网讯（记者荆淮侨）记者11月27日从湖北省发展改革委了解到，《湖北省营商环境实务一本通》于近日正式发布，聚焦企业高频办事需求，将分散在不同部门、不同平台的政务入口、政策申报渠道和公共服务平台系统集成，为各类经营主体提供“一站式、全链条”办事指引。 据了解，该手册围绕企业全生命周期设置进入市场、要素支撑、经营发展、项目建设、科创支持、注销退出6大核心板块，细分为31个服务栏目，集成114项高频涉企服务事项和135个服务入口。从企业开办、创业扶持、外资准入，到招聘用工、融资信贷、跨境贸易，再到 工程建设 项目审批、科技成果转化、企业注销和破产重整，经营主体可按照所处发展阶段和实际办事",
-     "source": "东方财富股票",
-     "zh": "湖北发布营商环境实务一本通 135个服务入口覆盖企业全生命周期"
-    },
-    {
-     "title": "北京丰台：让更多科创企业从丰台借港出海、链接全球",
-     "link": "http://hk.eastmoney.com/news/11223,202611273942086169.html",
-     "pubDate": "Fri, 27 Nov 2026 23:23:38 +0800",
-     "summary": "上证报中国证券网讯（记者刘暄）作为2026中国（北京）数字金融论坛平行论坛之一，“科金荟”出海服务系列活动之京港科技金融协同发展交流专场25日在北京丰台丽泽商务区举办。据悉，下一步，北京市丰台区将持续深化与香港在科技金融领域的常态化对接，把政策宣讲、上市辅导和资源撮合机制化、长效化，让更多科创企业从丰台借港出海、链接全球。 北京市丰台区副区长崔向华在会上就丰台区区域发展情况及企业出海保障等服务机制向与会各方作交流推介。目前，丰台已汇聚大批科技企业，国家高新技术企业超过3700家，总量居北京市第二，不少企业已经完成技术突破，进入全球化布局的关键阶段，但在赴港发展过程中，普遍面临香港政策不熟悉、资",
-     "source": "东方财富股票",
-     "zh": "北京丰台：让更多科创企业从丰台借港出海、链接全球"
     },
     {
      "title": "CoreWeave gives up early gains amid neocloud worries",
@@ -2354,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超9%"
     },
     {
+     "title": "From Jobs to Jensen: tech’s metamorphosis",
+     "link": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+     "pubDate": "Fri, 27 Nov 2026 15:10:17 GMT",
+     "summary": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+     "source": "Financial Times",
+     "zh": "From Jobs to Jensen: tech’s metamorphosis"
+    },
+    {
      "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
      "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 15:04:00 GMT",
@@ -2376,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Here are the major earnings after the close Friday"
-    },
-    {
-     "title": "AI bubble debate: Drawing parallels with the dot-com era",
-     "link": "https://seekingalpha.com/news/4677003-ai-bubble-debate-drawing-parallels-with-the-dot-com-era?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 09:57:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI bubble debate: Drawing parallels with the dot-com era"
     },
     {
      "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
@@ -2488,6 +2456,38 @@ window.INDUSTRY_DATA = {
      "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
      "source": "CNBC",
      "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+    },
+    {
+     "title": "外汇局：10月份中国外汇市场总计成交3.77万亿美元",
+     "link": "http://www.eeo.com.cn/2026/1127/1105796.shtml",
+     "pubDate": "Fri, 27 Nov 2026 21:52:19 +0800",
+     "summary": "本报讯 （记者刘琪） 11月27日，国家外汇管理局公布2026年10月中国外汇市场交易概况数据。国家外汇管理局统计数据显示，2026年10月，中国外汇市场（不含外币对市场，下同）总计成交25.36万亿元人民币（等值3.77万亿美元）。其中，银行对客户市场成交4.32万亿元人民币（等值0.64万亿美元），银行间市场成交21.04万亿元人民币（等值3.13万亿美元）；即期市场成交8.16万亿元人民币（等值1.21万亿美元），衍生品市场成交17.20...",
+     "source": "经济观察网",
+     "zh": "外汇局：10月份中国外汇市场总计成交3.77万亿美元"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 13:45:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "Lloyds app goes down",
+     "link": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 13:43:00 GMT",
+     "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+     "source": "Finextra",
+     "zh": "Lloyds app goes down"
+    },
+    {
+     "title": "经济观察报 第1298期",
+     "link": "http://www.eeo.com.cn/2026/1127/1105792.shtml",
+     "pubDate": "Fri, 27 Nov 2026 21:37:43 +0800",
+     "summary": "经济观察报 第1298期",
+     "source": "经济观察网",
+     "zh": "经济观察报 第1298期"
     }
    ]
   },

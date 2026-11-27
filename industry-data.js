@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 00:12:12",
+ "generated_at": "2026/11/28 00:32:10",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -24,6 +32,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
-    },
-    {
-     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-     "source": "TechCrunch AI",
-     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
-    },
-    {
-     "title": "SteerSound：迈向更可靠的音频编辑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
-     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
-     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
-     "source": "机器之心",
-     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -264,14 +264,6 @@ window.INDUSTRY_DATA = {
      "summary": "TSMC has revealed additional technical details about its upcoming A14 (1.4nm-class) manufacturing technology at the 2026 Europe OIP Ecosystem Workshop, providing semiconductor designers with a clearer picture of the performance, power efficiency and density improvements expected from its next-genera",
      "source": "SemiWiki",
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
-    },
-    {
-     "title": "Struggling Celerons",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
-     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Struggling Celerons"
     },
     {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
@@ -298,38 +290,6 @@ window.INDUSTRY_DATA = {
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
     },
     {
-     "title": "Kontron KBox industrial computer platform targets robotics and AI",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
-     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
-    },
-    {
-     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
-     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
-     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
-     "source": "Electronics Weekly",
-     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
-    },
-    {
-     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
-     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
-    },
-    {
-     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
-     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
-    },
-    {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
      "link": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
      "pubDate": "Fri, 27 Nov 2026 09:20:19 GMT",
@@ -352,14 +312,6 @@ window.INDUSTRY_DATA = {
      "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
      "source": "DIGITIMES",
      "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
-    },
-    {
-     "title": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series",
-     "link": "https://www.electronicsweekly.com/market-sectors/power/sponsored-content-energy-storage-pcs-dc-link-capacitor-selection-ripple-current-esr-thermal-performance-of-ymin-cw3-cw6-series-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:00:41 +0000",
-     "summary": "Starting with a Common Engineering Question In energy storage PCS DC-link designs, rated voltage and capacitance are essential starting points, but they do not fully determine how a capacitor performs […] The post Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR",
-     "source": "Electronics Weekly",
-     "zh": "Sponsored Content: Energy Storage PCS DC-Link Capacitor Selection: Ripple Current, ESR & Thermal Performance of YMIN CW3/CW6 Series"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more",
+     "link": "https://electrek.co/2026/11/27/ego-power-nexus-1400w-portable-inverter-generator-matter-outdoor-smart-plug-more/",
+     "pubDate": "Fri, 27 Nov 2026 16:16:03 +0000",
+     "summary": "There’s still time to score major deals during Amazon’s Black Friday Sale and countless other sales across all kinds of brands, and for the few we’ve rounded up here, there’s so much more waiting for you in our Black Friday Green Deals hub here . Below, you can find the EGO Nexus 1,400W Portable Inv",
+     "source": "Electrek",
+     "zh": "EGO Power+ Nexus 1,400W portable inverter + generator hits new $579 low, Matter Outdoor Smart Plug new $22 low, more"
+    },
+    {
      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
      "link": "https://insideevs.com/news/817061/eu-ev-sales-october-jump/",
      "pubDate": "Fri, 27 Nov 2026 15:15:52 +0000",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Whale is expected to target the 300,000 yuan ($44,730) price segment, and is the fourth MPV model from the BYD Group. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD unveils Ocean lineup's first flagship MPV Whale, set to launch in Q1 2027"
-    },
-    {
-     "title": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game",
-     "link": "https://electrek.co/2026/11/27/review-2028-volvos-xc60-90-phevs-get-80-miles-of-ev-range-changing-the-game/",
-     "pubDate": "Fri, 27 Nov 2026 09:57:17 +0000",
-     "summary": "Volvo flew us out to Copenhagen to drive across the bridge to Sweden to check out the upcoming 2028 XC60 and XC90 plug-in hybrids. The new vehicles promise to double the EV-only range to 73-78 miles, making them a new breed of hybrid rarely seen outside China. But what can you do with so much EV-onl",
-     "source": "Electrek",
-     "zh": "Review: Volvo’s 2028 XC60/90 PHEVs get 80 miles of EV range, changing the game"
     },
     {
      "title": "Nio Firefly reaches 100,000 cumulative deliveries as shipments set to exceed 10,000 this month for first time",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+     "link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+     "pubDate": "Fri, 27 Nov 2026 15:27:20 GMT",
+     "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
+     "source": "Dark Reading",
+     "zh": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks"
+    },
+    {
      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
      "pubDate": "Fri, 27 Nov 2026 10:09:40 -0500",
@@ -1730,14 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'"
     },
     {
-     "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
-     "pubDate": "Wed, 25 Nov 2026 14:00:00 GMT",
-     "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
-     "source": "Dark Reading",
-     "zh": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing"
-    },
-    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
      "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
@@ -1754,12 +1754,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+     "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 16:24:22 +0000",
+     "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday.",
+     "source": "WIRED",
+     "zh": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More"
+    },
+    {
+     "title": "从“慌啥子嘛”到“能不慌吗”：赵本山的窗，普通人的门",
+     "link": "https://www.huxiu.com/article/4909100.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 00:09:07 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主，原文标题：《从《慌啥子嘛》到《能不慌吗》：赵本山的窗，普通人的门》 赵本山进棚那天，大概没想到一周之后风向会调头。 2026年11月13日，69岁的他真人真嗓录了《慌啥子嘛》。视频上线三小时，点赞破百万，几天里刷遍全网。评论区顶在最前头的一句话是：“小时候他逗我笑，长大了他哄我不哭。” 这首歌来历有点特别。它原本是一首川渝方言小调，困困羊作词作曲，村口吴老二首唱，九月末发出来的时候安安静静，没溅起什么水花。后来有网友用AI合成赵本山的声线翻唱了一遍，一下就火了。 不少人听着以为就是本人，跑去评论区喊话，求他真唱一回。换作眼下别的明星，见着AI",
+     "source": "虎嗅",
+     "zh": "从“慌啥子嘛”到“能不慌吗”：赵本山的窗，普通人的门"
+    },
+    {
      "title": "Walking Pad Deals to Shop This Black Friday (2026)",
      "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
      "pubDate": "Fri, 27 Nov 2026 15:43:33 +0000",
      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are on sale.",
      "source": "WIRED",
      "zh": "Walking Pad Deals to Shop This Black Friday (2026)"
+    },
+    {
+     "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+     "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+     "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 24 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
     },
     {
      "title": "文明的历史是小麦的历史",
@@ -1776,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "137 Best Black Friday Deals Now Live: Our Expert Picks for 2026"
+    },
+    {
+     "title": "False Computer-Checked Proofs",
+     "link": "https://cr.yp.to/proofs/falseccp.html",
+     "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 14 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "False Computer-Checked Proofs"
     },
     {
      "title": "The CMA says Meta made changes to Muse&apos;s ToS in the UK to reflect the country&apos;s consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
@@ -1797,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
      "pubDate": "Fri, 27 Nov 2026 15:03:17 +0000",
-     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 24 # Comments: 7",
+     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 53 # Comments: 21",
      "source": "Hacker News",
      "zh": "GPT 6.2 Astra Solves a Historical Mystery"
     },
@@ -1821,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
      "pubDate": "Fri, 27 Nov 2026 14:55:57 +0000",
-     "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50667664 Points: 12 # Comments: 5",
+     "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/ Comments URL: https://news.ycombinator.com/item?id=50667664 Points: 16 # Comments: 5",
      "source": "Hacker News",
      "zh": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem"
     },
@@ -1877,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
      "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
      "pubDate": "Fri, 27 Nov 2026 14:09:44 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 28 # Comments: 17",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo Comments URL: https://news.ycombinator.com/item?id=50667143 Points: 35 # Comments: 22",
      "source": "Hacker News",
      "zh": "Norse Atlantic suspends all flights as it faces potential collapse"
     },
@@ -1898,36 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Black Friday Sonos Deals (2026): Up to 34% Off"
     },
     {
-     "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)",
-     "link": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
-     "pubDate": "Fri, 27 Nov 2026 13:10:54 +0000",
-     "summary": "WIRED’s pick for the best travel T-shirt is on sale for Black Friday. Expand your merino wardrobe with these deals. Hurry though, the sale ends tonight.",
-     "source": "WIRED",
-     "zh": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale (2026)"
-    },
-    {
-     "title": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
-     "link": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
-     "pubDate": "Fri, 27 Nov 2026 13:06:34 +0000",
-     "summary": "Article URL: https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/ Comments URL: https://news.ycombinator.com/item?id=50666487 Points: 10 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out"
-    },
-    {
      "title": "Serial numbers in Chinese filings reveal that Nvidia&apos;s restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
      "link": "https://www.techmeme.com/261127/p6#a261127p6",
      "pubDate": "Fri, 27 Nov 2026 08:05:01 -0500",
      "summary": "Bloomberg : Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed &nbsp; &mdash;&nbsp; A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center",
      "source": "Techmeme",
      "zh": "Serial numbers in Chinese filings reveal that Nvidia&apos;s restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)"
-    },
-    {
-     "title": "Mental Health Resources and Political Engagement",
-     "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-     "pubDate": "Fri, 27 Nov 2026 13:01:02 +0000",
-     "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 81 # Comments: 141",
-     "source": "Hacker News",
-     "zh": "Mental Health Resources and Political Engagement"
     },
     {
      "title": "Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss (Ben Jiang/South China Morning Post)",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以上大家庭只剩下 9.3%。家庭这个最小单元，正在变得越来越小。很多人会把一人户、二人户简单等同于单身和丁克，但现实比标签复杂。一人户里面，既有主动选择独居的年轻人，也有子女离开后独自生活的老人；二人户里，有还没生育的年轻夫妻，也有相伴养老的老年夫妇。它不是某一类人的选择，而是一整",
      "source": "Solidot",
      "zh": "一人户二人户占全国家庭构成的近六成"
-    },
-    {
-     "title": "韩国上线卡在分级，素材本地化改了三版还要不要继续？",
-     "link": "https://www.baijing.cn/question/639011",
-     "pubDate": "Fri, 27 Nov 2026 09:06:53 +0000",
-     "summary": "我们一款二次元卡牌手游刚在韩国上线两周，团队8人，投放月预算约30万人民币。游戏内已按GRAC要求做完分级申报，但市场素材一直卡在本地接受度上：同一套角色立绘在国内和东南亚CTR能到2.8%，在韩国Kakao渠道只有0.9%，带韩语谐音梗的短视频完播率反而比纯展示高出一截。目前已试过换韩籍画师重绘主视觉、找本地MCN改脚本，但审核反馈仍说部分表现偏“日系”，转化没起来。现在纠结的是继续深挖本地化素材，还是先把分级合规细节和渠道资源理顺？判断素材该停还是该加码的标准到底看什么？",
-     "source": "白鲸出海",
-     "zh": "韩国上线卡在分级，素材本地化改了三版还要不要继续？"
     }
    ]
   },
@@ -2002,12 +2002,60 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more",
+     "link": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/",
+     "pubDate": "Fri, 27 Nov 2026 16:27:22 +0000",
+     "summary": "The official main event Black Friday sales are now live everywhere and the Apple deals are wild at Amazon. Alongside the brilliant deal on AirPods Pro 3 at a wild $100 off , the M5 MacBook Air offers at $400 off , and MacBook Neo models at $100 off , Amazon has also now dropped the price again on th",
+     "source": "9to5Mac",
+     "zh": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more"
+    },
+    {
+     "title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+     "pubDate": "Fri, 27 Nov 2026 16:26:00 +0000",
+     "summary": "One UI 9.5 beta code ties about three dozen features to a Galaxy AI version the Galaxy S26 doesn't have.",
+     "source": "Android Authority",
+     "zh": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27"
+    },
+    {
+     "title": "Hisense U7 Mini-LED TV hits a record low with $700 off",
+     "link": "https://www.androidauthority.com/hisense-65-inch-u7-black-friday-deal-3740954/",
+     "pubDate": "Fri, 27 Nov 2026 16:19:32 +0000",
+     "summary": "The 65-inch Hisense U7 Mini-LED TV is 47% off, its lowest price yet, with a 165Hz panel and up to 3,000 nits.",
+     "source": "Android Authority",
+     "zh": "Hisense U7 Mini-LED TV hits a record low with $700 off"
+    },
+    {
+     "title": "Google app’s Images tab may get a major redesign with more control over your feed",
+     "link": "https://www.androidauthority.com/google-app-images-tab-collections-ai-mode-apk-teardown-3740851/",
+     "pubDate": "Fri, 27 Nov 2026 16:17:13 +0000",
+     "summary": "Google is also working on a new AI Mode experience called ‘Ask Anything’ to answer questions about a collection.",
+     "source": "Android Authority",
+     "zh": "Google app’s Images tab may get a major redesign with more control over your feed"
+    },
+    {
+     "title": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for",
+     "link": "https://9to5mac.com/2026/11/27/apples-new-homeview-is-exactly-the-home-product-ive-been-waiting-for/",
+     "pubDate": "Fri, 27 Nov 2026 16:14:17 +0000",
+     "summary": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro. But my personal favorite new product is Apple’s HomeView . Here’s how I’ve been using it. more…",
+     "source": "9to5Mac",
+     "zh": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for"
+    },
+    {
      "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
      "link": "https://www.androidauthority.com/google-ai-mode-library-pin-rename-threads-3740893/",
      "pubDate": "Fri, 27 Nov 2026 16:04:15 +0000",
      "summary": "AI Mode could soon be much easier to navigate.",
      "source": "Android Authority",
      "zh": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming"
+    },
+    {
+     "title": "2026 tech gift guide for Apple users",
+     "link": "https://9to5mac.com/2026/11/27/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
+     "pubDate": "Fri, 27 Nov 2026 16:00:00 +0000",
+     "summary": "It’s Black Friday, and I’ve updated my 2026 tech gift guide with today’s prices. These are products I’ve used myself and would give to the Apple users in my life. more…",
+     "source": "9to5Mac",
+     "zh": "2026 tech gift guide for Apple users"
     },
     {
      "title": "AirPods Pro 3 one year later: Still the best, and getting even better",
@@ -2082,46 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "When Google Store Black Friday 2026 deals end: Schedule"
     },
     {
-     "title": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday",
-     "link": "https://www.androidauthority.com/tcl-55-inch-f8d-fire-tv-deal-3740918/",
-     "pubDate": "Fri, 27 Nov 2026 15:23:27 +0000",
-     "summary": "TCL's 2026 QLED Fire TV is 32% off, a new low for the 55-inch model with Dolby Vision and Dolby Atmos.",
-     "source": "Android Authority",
-     "zh": "TCL’s 55-inch F8D Fire TV drops $160 for Black Friday"
-    },
-    {
-     "title": "Microsoft’s 2026 Surface Laptop gets a record $500 price cut",
-     "link": "https://www.androidauthority.com/surface-laptop-2026-black-friday-deal-3740917/",
-     "pubDate": "Fri, 27 Nov 2026 15:15:45 +0000",
-     "summary": "The 13.8-inch Surface Laptop with Snapdragon X2 Elite, 16GB of RAM, and 512GB is down to $1,199.99, its lowest price yet.",
-     "source": "Android Authority",
-     "zh": "Microsoft’s 2026 Surface Laptop gets a record $500 price cut"
-    },
-    {
-     "title": "These are the best AirPods deals for Black Friday",
-     "link": "https://9to5mac.com/2026/11/27/airpods-pro-black-friday-deals-pirces/",
-     "pubDate": "Fri, 27 Nov 2026 15:03:06 +0000",
-     "summary": "The massive main event Amazon Black Friday sale is now flying with some of the best AirPods deals ever. Delivering what is quite possibly the very best deal we have tracked all year for anything, you can now score the world’s best earbuds at a wildly low price – AirPods Pro 3 are now $100 off. On to",
-     "source": "9to5Mac",
-     "zh": "These are the best AirPods deals for Black Friday"
-    },
-    {
-     "title": "Sony WF-C510 earbuds drop to $41.95, their lowest in months",
-     "link": "https://www.androidauthority.com/sony-wf-c510-deal-3740883/",
-     "pubDate": "Fri, 27 Nov 2026 14:53:00 +0000",
-     "summary": "Save $28 on Sony's compact true wireless earbuds with multipoint and 22 hours of battery, in Black.",
-     "source": "Android Authority",
-     "zh": "Sony WF-C510 earbuds drop to $41.95, their lowest in months"
-    },
-    {
-     "title": "iOS 27.3 adds limits for these advanced features, details here",
-     "link": "https://9to5mac.com/2026/11/27/ios-27-3-adds-limits-for-these-advanced-features-details-here/",
-     "pubDate": "Fri, 27 Nov 2026 14:50:41 +0000",
-     "summary": "iOS 27.3 launches soon with a key change: certain advanced AI features will have daily usage limits. In an article posted on X , leaker pdfu details how this new system works. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27.3 adds limits for these advanced features, details here"
-    },
-    {
      "title": "WhatsApp is adding travel eSIMs",
      "link": "https://9to5google.com/2026/11/27/whatsapp-is-adding-travel-esims/",
      "pubDate": "Fri, 27 Nov 2026 14:45:00 +0000",
@@ -2144,14 +2152,6 @@ window.INDUSTRY_DATA = {
      "summary": "We can blame AI for many things, least of all the steep increase in the cost of integral storage and memory we need for PCs, Macs, phones, and consoles. more…",
      "source": "9to5Google",
      "zh": "Storage is expensive right now, but these deals are worth it if you’re desperate for space"
-    },
-    {
-     "title": "Apple TV is $6.99/month (50% off) for Black Friday, details here",
-     "link": "https://9to5mac.com/2026/11/27/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
-     "pubDate": "Fri, 27 Nov 2026 13:59:20 +0000",
-     "summary": "Apple TV has a Black Friday deal now available that lets new and returning subscribers get the service for just $6.99/month for up to six months (normally $14.99/month). Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV is $6.99/month (50% off) for Black Friday, details here"
     },
     {
      "title": "Deal: the Poco F9 Ultra is on sale for Black Friday with discounts up to 25%",
@@ -2249,6 +2249,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Market 'delicately poised' after narrow AI unwind - Goldman",
+     "link": "https://seekingalpha.com/news/4677062-market-delicately-poised-after-narrow-ai-unwind-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 11:14:46 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Market 'delicately poised' after narrow AI unwind - Goldman"
+    },
     {
      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -2365,17 +2373,9 @@ window.INDUSTRY_DATA = {
      "title": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超11%",
      "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
      "pubDate": "Fri, 27 Nov 2026 23:35:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道琼斯指数涨0.73%， 纳斯达克 综合 指数涨1.24 % ， 标普500指数涨0.91%。 AI存储板块上涨， 闪迪 涨超11%， 西部数据 、 美光科技 、 SK海力士 涨超4 % 。 美股“科技巨头”涨跌不一， 英伟达 股价高开后由涨转跌，现跌1.19%； 苹果 股价上涨0.75%， 微软 股价上涨0.30%， 谷歌-A 股价下跌0.37%， 亚马逊 股价上涨3.20%，Meta股价上涨3.70%， 特斯拉 股价上涨5.16%， Anthropic 涨超9%。 全球要闻 避险需求与加息预期双重驱动 美元势创两年来最长月度连涨 随着 人工智能",
+     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道琼斯指数涨1.01%， 纳斯达克 综合 指数涨1.67 % ， 标普500指数涨1.18%。 AI存储板块上涨， 闪迪 涨超13%， 美光科技 涨超6 % ， SK海力士 涨超5 %， 西部数据 涨超4 % 。 美股“科技巨头”涨跌不一， 英伟达 股价高开后由涨转跌，现跌0.79%； 苹果 股价上涨0.95%， 微软 股价上涨0.11%， 谷歌-A 股价下跌0.14%， 亚马逊 股价上涨3.98%，Meta股价上涨3.71%， 特斯拉 股价上涨4.85%， Anthropic 涨近9%。 全球要闻 避险需求与加息预期双重驱动 美元势创两年来最长月",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体上涨 AI存储板块走强 闪迪涨超11%"
-    },
-    {
-     "title": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000",
-     "link": "https://seekingalpha.com/news/4677060-cdc-confirms-ninth-measles-linked-death-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 10:35:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CDC confirms ninth measles-linked death for 2026 as case count tops 6,000"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -2384,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
      "source": "MarketWatch",
      "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
+    },
+    {
+     "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+     "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+     "pubDate": "Fri, 27 Nov 2026 15:27:11 GMT",
+     "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
+     "source": "CNBC",
+     "zh": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
     },
     {
      "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "阿维塔把旗舰SUV推向了问界M9所在的价格带。 11月27日，阿维塔T09量产版在广州车展迎来中国首秀，瞄准50万元级豪华SUV市场。阿维塔科技董事长陈卓表示，公司用了三年打磨这款车。T09此次尚未公布正式售价。 这个市场已有明确的先行者。问界M9建议零售价47.98万元起。11月2日，问界汽车宣布，全新一代M9系列20周累计交付突破5万辆。其中，M9 Ultimate领世加长版开启交付50天超过5000辆，成交均价突破70万元。对于T09而言，进入这一市场，既能看到真实的高价车需求，也要面对已经积累用户的对手。 更直接的竞争在于，两者都有华为技术支持。T09还将搭载最新一代乾崑智驾、鸿蒙座舱",
      "source": "华尔街见闻",
      "zh": "阿维塔要抢问界M9的生意"
-    },
-    {
-     "title": "长安加码自研，争夺高阶智驾主动权",
-     "link": "https://wallstreetcn.com/articles/3786865",
-     "pubDate": "Fri, 27 Nov 2026 22:26:50 +0800",
-     "summary": "长安一边继续与华为推新车，一边加快自己的智驾迭代。 11月27日开幕的广州车展上，长安汽车发布天枢领航Ultra 2.0，计划于2027年1月中旬通过OTA推送车位到车位、多点式掉头、收费站通行等功能。继今年9月发布天枢领航后，长安此次把升级重点放在道路、园区和停车位之间的连续通行。 同一天，深蓝L07 AI激光版上市，限时权益价14.99万—15.99万元，与此前已上市的S07 AI激光版成为华为引望星驰方案的首批搭载车型。深蓝表示，两款车已完成相关硬件预埋，计划在2027年星驰正式开通订阅服务时，为已售AI激光版车辆免费OTA升级至正式方案。 这延续了长安今年9月已明确的品牌分工：主品牌（",
-     "source": "华尔街见闻",
-     "zh": "长安加码自研，争夺高阶智驾主动权"
     }
    ]
   },

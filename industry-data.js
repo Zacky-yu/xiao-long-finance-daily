@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 08:12:07",
+ "generated_at": "2026/11/27 08:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,52 +1754,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "35岁危机，究竟是谁的危机？",
-     "link": "https://www.huxiu.com/article/4908819.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 08:06:21 +0800",
-     "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 想象一个今天并不陌生的场景。 一名35岁的互联网从业者，在公司工作多年，突然接到HR的通知：业务要调整，组织要优化，团队也需要年轻化。话说得很周全，但意思很明白：他可以离开了。 失业之后，他打开手机，发现互联网早已为他备好了答案。学AI，提高核心竞争力，打造第二曲线，建立个人品牌，摆脱对单一职业的依赖。还有不少文章提醒年轻人，最好在35岁之前完成某些任务，以免将来重蹈覆辙。 这些建议读得多了，难免觉得哪里不对劲： 一个员工离开了，但接下来需要上课、转型、复盘和重新规划人生的，仍然只有这个员工。 职场像一场不断追加考试科目的测试，出卷的人却似乎",
+     "title": "华为还是没忘了我们这些“穷哥们”",
+     "link": "https://www.huxiu.com/article/4908788.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:26:41 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜作者摄于华为乾崑生态大会 &nbsp; 余文乐在一档节目里讲过自己发病时的样子：开车手抖、冒冷汗、喘不上气，只能把车靠边停下。那之后，他不太敢开车了。 &nbsp; 热搜底下不少人留言说&ldquo;我也是&rdquo;。按国内躯体症状障碍约4.5%的患病率、14.1亿人口估算，差不多6300万人；再按39.6%的驾照持有率折算，可能有2500万司机（仅作者推演，非实际人数），手抖、心慌、状态不在线的时候，照样得上班、接孩子、买菜。余文乐可以不开车，大多数人没这个选项。 &nbsp; 这帮人需要的智驾，说白了就一件事：状态最差的那一分钟，车能把方向盘扶住。",
      "source": "虎嗅",
-     "zh": "35岁危机，究竟是谁的危机？"
+     "zh": "华为还是没忘了我们这些“穷哥们”"
     },
     {
-     "title": "一天卖了253亿的GTA6，被骂惨了",
-     "link": "https://www.huxiu.com/article/4908820.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 08:05:44 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：陈浩 玩家还愿不愿意花10年时间，等待一群人把游戏世界一砖一瓦砌出来？ 小迪（化名）把PS5从北京背回了老家。 她要休年假，但还是把游戏主机塞进了行李箱，就为了接着玩GTA6（《侠盗猎车手6》）。到11月25日发售的第6天，她已经玩了60多个小时，才推到游戏第三章的开头。“一般的游戏，60个小时够你白金通关（把游戏中所有的奖杯、成就全凑齐）了。”她喜欢在游戏里到处闲逛、打听NPC的闲事，自嘲“吃瓜的心特别重”，时间根本不够用。 小迪玩过的3A（高成本、高体量、高质量）大作并不少，《黑神话：悟空》《影之刃零》都在第一时间通关了。她偏爱这类讲究操作的游",
+     "title": "资本的马尔萨斯陷阱",
+     "link": "https://www.huxiu.com/article/4908823.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:25:29 +0800",
+     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，题图来自：视觉中国 马尔萨斯陷阱的原意指：在前工业社会，技术进步带来的产出增加，往往会被更快的人口增长吃掉，结果人均收入长期被压在&ldquo;刚好能活&rdquo;的水平附近。 逻辑来自马尔萨斯《人口论》：人口倾向于按几何级数增长，粮食和生活资料更接近算术级数增长；一旦生活改善，出生率上升、死亡率下降，人口扩张，摊薄土地与粮食，实际工资回落。若人口超过承载力，就会通过&ldquo;积极抑制&rdquo;&mdash;&mdash;饥荒、瘟疫、战争、婴儿死亡率上升&mdash;&mdash;或&ldquo;预防性抑制&rdquo;&mdash",
      "source": "虎嗅",
-     "zh": "一天卖了253亿的GTA6，被骂惨了"
+     "zh": "资本的马尔萨斯陷阱"
     },
     {
-     "title": "中年人不装了：花父母退休金，不丢脸",
-     "link": "https://www.huxiu.com/article/4908590.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 08:00:01 +0800",
-     "summary": "本文来自微信公众号： 十点人物志 ，作者：Fann，编辑：芝士咸鱼，题图来自：视觉中国 继拼学历、拼工作、拼家底之后，一些中年人拼起了父母的退休金。 这与人们印象中的&ldquo;啃老&rdquo;不太相同。他们大多有工作、有孩子，甚至有房有车，看上去过着稳定体面的生活。只是房贷、育儿和日常开销一笔笔算下来，仅靠自己的收入，未必能轻松负担。 有人每月工资刚到账，贷款一扣就见底，月底得靠父母转来几千块&ldquo;生活补贴&rdquo;；有人孩子的补习班缴费单一张接一张，最后掏钱的是爷爷奶奶；还有人遭遇降薪、失业，投出去的简历迟迟没有回音，兜兜转转，又接过了父母递来的退休金&hellip;&he",
+     "title": "当阅读只为获取知识，我们将失去什么？",
+     "link": "https://www.huxiu.com/article/4908828.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:20:29 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：程乐松 不绝如缕的文气正在面临从黄昏到永夜的根本性危机。 英国作家毛姆有一句名言：“阅读是一座随身携带的避难所”。也就是说，阅读不仅是获取知识的手段，更是慰藉心灵、理解和抵抗无奈与困顿，让自己获得内心平静与适然的最有效手段。阅读之所以有如此价值，就是因为所有被阅读的文字背后都有一个个活生生的人及其生命经验。从这个意义上讲，阅读是心灵跨越时空的相遇。 当下人类遭遇的前所未有的巨大挑战是，我们阅读到的文字背后可能并不是一个个活生生的人及其生命经验，乃至作为其生命经验一部分的阅读积累与独特理解力，而是一个个会在无数词元中以极高效的方式组合出一个“有意义”（在现阶段",
      "source": "虎嗅",
-     "zh": "中年人不装了：花父母退休金，不丢脸"
+     "zh": "当阅读只为获取知识，我们将失去什么？"
     },
     {
-     "title": "半年下跌30%，黄金的逻辑已和去年大不一样",
-     "link": "https://www.huxiu.com/article/4907391.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 08:00:00 +0800",
-     "summary": "黄金逻辑生变！黄金半年暴跌30%，如今的逻辑和去年大不一样。地缘政治过去能推高黄金，现在却没什么作用，美伊冲突都没带动价格。",
+     "title": "围棋日渐失去智力体验，数学会不会重蹈覆辙？",
+     "link": "https://www.huxiu.com/article/4908827.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:20:16 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：王正汉 心灵自成一方天地，能在其中把地狱变成天堂，把天堂变成地狱。 ——约翰·弥尔顿 对数学家而言，黎曼猜想被攻克的那一刻，很像李世石在围棋比赛中败给AlphaGo：在这项融汇直觉与鲜活气韵、在东亚流传了数千年的游戏中，人类输给了机器。面对一份包含1700万行Lean代码的证明，我虽感难过，却仍对数学这门学科乐观，只是对数学家职业本身悲观。首当其冲的是那些初出茅庐、尚未获得终身教职的数学家：博士生、博士后和终身教职轨的助理教授。我不适合就他们的处境提出建议，所以将把讨论集中在数学这门学科上。本文可以视为我此前三篇文章的总结——那三篇分别谈及AI时代的人类数学",
      "source": "虎嗅",
-     "zh": "半年下跌30%，黄金的逻辑已和去年大不一样"
+     "zh": "围棋日渐失去智力体验，数学会不会重蹈覆辙？"
     },
     {
-     "title": "蹭量、白嫖、PPT拿奖，AI黑客松快被搞臭了",
-     "link": "https://www.huxiu.com/article/4906247.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 08:00:00 +0800",
-     "summary": "参赛者混圈子，主办方空手套白狼，投资人白嫖方案，厂商只是凑排场。现场不用演示产品，直接PPT讲讲就能拿奖，简直成了创意大赛。项目同质化严重，番茄钟、AI宠物、记账本一场接一场，真正用代码做东西的人越来越少。",
+     "title": "\"人生是旷野\"？但没矿怎么野？",
+     "link": "https://www.huxiu.com/article/4908826.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:19:22 +0800",
+     "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《\"人生是旷野\"？但没矿怎么野？！》 “妈妈，人生是旷野哦！”这句话早在前几年火遍大江南北，这两奶奶一个华丽转身，开始背刺普通人。 点开这个tag，去非洲、去欧洲、去南美，次一点也得去趟新疆、内蒙或者西藏。我们广大工农阶级忍不住仰天长问be like：“那我所有的经济损失呢！” 别人一怒之下辞职去冰岛，我一怒之下也就只能一怒之下。 再往下翻，大家已经给旷野文学改上词了。“人生是旷野，但家里没有矿就不敢野”“人生不止旷野，还有旷工”“同样是牛马，它们天天在旷野，我天天想旷工”。 刷过两三条，后面的剧情闭着眼都能猜。上一个镜头还在工位上挨骂，",
      "source": "虎嗅",
-     "zh": "蹭量、白嫖、PPT拿奖，AI黑客松快被搞臭了"
+     "zh": "\"人生是旷野\"？但没矿怎么野？"
     },
     {
-     "title": "这一轮AI浪潮，像极了计划经济",
-     "link": "https://www.huxiu.com/article/4908818.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:59:58 +0800",
-     "summary": "本文来自微信公众号： 锦缎 ，作者：愚老头 01 被打断的半导体产业转移 世界半导体行业最早发源于美国，期间经过了三次产业转移。 上个世纪五十到七十年代，美国开创了半导体这条行业赛道，当时的主要需求来自于军方。进入七十年代之后，日本家电行业崛起，新增需求更多来自于家电，日本半导体行业顺势崛起。但进入九十年代之后，美国又开发出了计算机这条新赛道，芯片代工行业开始成熟，半导体行业又向韩国和中国台湾地区转移。 如果没有后来的各种制裁和断供，2000年之后，半导体行业就应该转移到大陆。 上个世纪的经济互助委员会（经互会），保加利亚生产小吊车，匈牙利造客车，罗马尼亚量产拖拉机，造船业主要在乌克兰，蒙古生",
+     "title": "一个国家要繁荣，靠的到底是大公司，还是小公司？",
+     "link": "https://www.huxiu.com/article/4908825.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:16:09 +0800",
+     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 一个国家要繁荣，靠的到底是大公司，还是小公司？ 这个问题好像早有标准答案。 媒体爱讲车库里的创业故事，一提大公司，大家想到的多半是垄断、内卷、店大欺客。但在美国，大公司给员工的工资更高、福利更好，研发投入更多，生产率也更高。 最近《金融时报》的经济评论员Tej Parikh写了一篇专栏，题目就叫《为大公司辩护》，配图是一张航拍照：加州库比蒂诺，一大片郊区民宅的屋顶中间，躺着苹果总部那个巨大的玻璃圆环。 图注说，2024年亚马逊、谷歌母公司、微软、Meta和苹果这五家公司的研发投入加起来是2270亿美元，比美国联邦政府全部的非国防研发",
      "source": "虎嗅",
-     "zh": "这一轮AI浪潮，像极了计划经济"
+     "zh": "一个国家要繁荣，靠的到底是大公司，还是小公司？"
+    },
+    {
+     "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒",
+     "link": "https://www.ithome.com/1/033/155.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:10:55 GMT",
+     "summary": "IT之家 11 月 27 日消息，当地时间 25 日，微软推出 Visual Studio Code 1.148，进一步完善了应用的 AI 功能，重点优化智能体的使用体验。本次更新最受关注的新功能，是允许 AI 智能体工作时阻止电脑自动进入睡眠状态。 这项功能目前处于预览阶段，提供三种设置模式： 智能体工作时始终保持电脑唤醒、仅在笔记本电脑接通电源时保持唤醒、完全关闭 。 另一项重要更新是支持直接在隔离的开发容器（Dev Container）中运行智能体。此前，用户需要准备一个通常名为 devcontainer.json 的配置文件，才能将智能体放入独立的开发容器中运行。现在，VS Code ",
+     "source": "IT之家",
+     "zh": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒"
+    },
+    {
+     "title": "分析师蒲得宇预测 DRAM 内存价格 2028 年或腰斩，但明年仍上涨",
+     "link": "https://www.ithome.com/1/033/154.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:10:11 GMT",
+     "summary": "IT之家 11 月 27 日消息，广发证券分析师蒲得宇（Jeff Pu）下调了对 2027 年全球 DRAM 合约价格的增长预期，并首次给出 2028 年价格走势的三种情景预测。 其中，基准情景预计传统 DRAM 价格可能在 2028 年降至每 GB 约 8 美元，较 2027 年预估的 16 美元下跌 50%。不过，这并不意味着明年内存就会降价，他预计 2027 年 DRAM 价格仍将继续上涨，只是涨幅收窄。 他表示，广发证券已将 2027 年四个季度 DRAM 合约价格环比涨幅预测，从此前的 10%、7%、5% 和 3%，分别下调至 6%、3%、0% 和 0%。这意味着 DRAM 合约价格",
+     "source": "IT之家",
+     "zh": "分析师蒲得宇预测 DRAM 内存价格 2028 年或腰斩，但明年仍上涨"
+    },
+    {
+     "title": "三星酝酿 SPAC 框架，为 Galaxy S26 等手机引入苹果式“私有云”",
+     "link": "https://www.ithome.com/1/033/153.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:08:02 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 Android Authority 昨日（11 月 26 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版更新代码，发现名为 SPAC 的全新框架，其设计思路与苹果的“私有云计算”（Private Cloud Compute，PCC）高度相似。 IT之家注：苹果的“私有云计算”是为 Apple Intelligence 打造的云端 AI 隐私架构，当任务复杂到 iPhone 无法本地完成后，苹果会在专用服务器上处理请求，在技术上尽量减少获取和留存个人数据的机会，并让用户使用更强大的云端 AI。 图源：苹果 而在 Galaxy A",
+     "source": "IT之家",
+     "zh": "三星酝酿 SPAC 框架，为 Galaxy S26 等手机引入苹果式“私有云”"
+    },
+    {
+     "title": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元",
+     "link": "https://www.ithome.com/1/033/152.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:03:24 GMT",
+     "summary": "IT之家 11 月 27 日消息，国家广播电视总局第 17 号令《有线广播电视运营服务管理规定》与第 18 号令《交互式网络电视运营服务管理暂行规定》11 月 27 日起正式施行。 这两项规章均明确，有线电视与 IPTV 运营服务提供者应坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。违规者由县级以上广播电视主管部门责令改正，给予警告、通报批评；情节严重的，并处 1 万元以上 10 万元以下罚款。 图源：Pexels 这项禁令直接约束的是有线电视与 IPTV 的运营方，即用户通过运营商机顶盒接收电视信号的场景。两类服务中，有线电视实际用户截至 2026 年 6 月",
+     "source": "IT之家",
+     "zh": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元"
     },
     {
      "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
@@ -1816,38 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 Pro、Galaxy S27 Ultra 还有约 2 个月时间（预估 2027 年 1 月发布），相关零部件已提前现身网络，涵盖充电接口小板、主板排线等。 目前曝光的两款充电接口板上分别印有 SM-S957B 和 SM-S958B 的型号标识，前者据称对应 Galaxy S27 Pro，后者对应 Galaxy S27 Ultra。此外，S27 Ultra 的主板排线上还出现了面向美国运营商的型号，以及“MAIN”“SUB”“USB”等接口标注。IT之家",
      "source": "IT之家",
      "zh": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”"
-    },
-    {
-     "title": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相",
-     "link": "https://www.ithome.com/1/033/149.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:51:01 GMT",
-     "summary": "IT之家 11 月 27 日消息，当地时间 26 日，福特全新 GT41 赛车正式亮相，明年还将重返勒芒 24 小时耐力赛最高组别。车名沿用了 GT40 的命名思路，取自车身高度：车顶进气口离地高度为 41 英寸 （IT之家注：约 1,041 毫米） 。 GT41 的动力核心是一台 5.4 升自然吸气混合动力 V8 发动机 。整套发动机项目完全由福特自主研发，这也是福特引以为傲的地方。 这台发动机专供 GT41 项目使用，从设计、制造到测试均由福特自行完成。福特赛车部门还负责零部件开发、发动机标定和软件开发，甚至连车灯、雨刷等辅助设备所需的低压系统也由其负责。 据IT之家了解，接下来，福特将集",
-     "source": "IT之家",
-     "zh": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相"
-    },
-    {
-     "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
-     "link": "https://www.ithome.com/1/033/148.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:44:16 GMT",
-     "summary": "IT之家 11 月 27 日消息，谷歌宣布，自 2027 年 3 月 1 日起，被认定为“交易者”（Trader）的 Google Play 开发者，需要在应用商店公开展示电话号码和实体地址。 该政策旨在配合欧盟《数字服务法》（DSA）及英国相关法规实施，但 Google 选择将信息公开范围扩大至全球，而非仅限于欧洲地区。 谷歌表示，所有活跃的 Google Play 开发者在 2027 年 2 月 1 日之前，通过 Play Console 声明自己是否属于交易者，无论其应用面向哪个国家或地区分发。 谷歌对“交易者”的定义主要涉及商业活动，包括通过付费应用、应用内购买或广告获得收入的开发者。",
-     "source": "IT之家",
-     "zh": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话"
-    },
-    {
-     "title": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度",
-     "link": "https://www.ithome.com/1/033/147.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:42:12 GMT",
-     "summary": "IT之家 11 月 27 日消息，科技媒体 Phys 昨日（11 月 26 日）发布博文，报道称最新研究警告，随着 5G 网络在人口密集城市大规模部署， 其信号泄漏可能干扰气象卫星对大气水汽的观测，进而影响暴雨、飓风等高影响天气的预报。 这项研究由美国罗格斯大学的研究团队推进，第一作者为 Behzad Golparvar，相关研究于 10 月 16 日发表在《地球物理研究快报》，题目名为《预计的 5G 干扰可能削弱被动微波辐射资料同化并改变高影响天气预报》。 在现有的设计框架下，气象卫星主要通过测量约 23.8 吉赫兹频段的自然微波，判断低层大气中的水汽含量。这些数据是天气模式初始化的重要输入",
-     "source": "IT之家",
-     "zh": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度"
-    },
-    {
-     "title": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持",
-     "link": "https://www.ithome.com/1/033/146.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:32:58 GMT",
-     "summary": "IT之家 11 月 27 日消息，小米官网安全中心于 11 月 26 日更新智能硬件产品终止软件支持（EOS）列表，新增 7 款手机，分别为： Xiaomi 12S (cn) Xiaomi MIX Fold 2 (cn) Xiaomi Civi 2 (cn) Xiaomi 12 Lite (tr) Redmi Note 12 Pro+ (cn) Redmi Note 12 Pro (cn) Redmi Note 12 探索版 (cn) 此次新增机型涵盖小米数字系列、MIX 折叠屏系列、Civi 系列以及 Redmi Note 系列。其中，后三款 Redmi Note 12 系列机型对应的软件版",
-     "source": "IT之家",
-     "zh": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持"
     },
     {
      "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "link": "https://kendell.dev/blog/arkwrapper/",
      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 192 # Comments: 109",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 212 # Comments: 120",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1885,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 196 # Comments: 34",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 205 # Comments: 38",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Company Culture = Slack Emoji ÷ √Headcount",
      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
      "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 68 # Comments: 11",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 70 # Comments: 12",
      "source": "Hacker News",
      "zh": "Company Culture = Slack Emoji ÷ √Headcount"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 25 # Comments: 11",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 26 # Comments: 15",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -2250,12 +2250,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”",
+     "link": "https://wallstreetcn.com/articles/3786811",
+     "pubDate": "Fri, 27 Nov 2026 08:25:23 +0800",
+     "summary": "由于市场对人工智能热潮可持续性的担忧加剧， 铠侠控股本月股价暴跌逾40%，估值已跌至日经225指数成分股最低水平，成为日本最便宜的蓝筹股。 这家日本存储芯片制造商当前股价对应预期市盈率约1.7倍，不仅低于东京电力，也低于SK海力士等存储同业。据彭博11月27日报道，华尔街分析师对此普遍看多，18个买入评级对1个持有和1个卖出。同时，高盛在11月22日的报告中维持买入评级，认为进一步下行空间有限。 市场对AI热潮可持续性的担忧是本轮抛售的主因。 短期内，铠侠股价走势很大程度上取决于大型科技公司能否为AI基础设施建设提供资金，以及可能拖慢这一进程的政治阻力。分析师认为，芯片价格高企、长期供应协议以",
+     "source": "华尔街见闻",
+     "zh": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”"
+    },
+    {
+     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+     "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+     "pubDate": "Fri, 27 Nov 2026 00:22:29 GMT",
+     "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+     "source": "CNBC",
+     "zh": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks"
+    },
+    {
      "title": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤",
      "link": "https://wallstreetcn.com/articles/3786807",
      "pubDate": "Fri, 27 Nov 2026 08:07:00 +0800",
      "summary": "欧洲股市周四反弹，美国股指期货在感恩节假期提前休市前维持涨势。交易员眼下最关心的问题是：在美元周三午间突然走弱之后，AI 股下午出现的急升，究竟意味着持续反转的开始，还是又一轮熊市反弹。 瑞银（UBS）股票交易员Mark Paski周三向客户表示， 他正在关注拥挤的消费必需品避险交易是否出现动能衰减的迹象，而这可能是AI股正在筑底的信号。 Paski指出，更有力的信号将出现在可口可乐、Keurig Dr Pepper、宝洁、高露洁-棕榄和沃尔玛出现实质性抛售之时。但他同时表示， 防御性股票的全面平仓尚未出现。 上述判断代表了市场对“避险交易与AI动量交易”这两大拥挤头寸相对强弱的关注，直接影响",
      "source": "华尔街见闻",
      "zh": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤"
+    },
+    {
+     "title": "MoonPay and Highnote file for national bank charters",
+     "link": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
+     "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
+     "source": "Finextra",
+     "zh": "MoonPay and Highnote file for national bank charters"
+    },
+    {
+     "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
+     "link": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 00:01:00 GMT",
+     "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
+     "source": "Finextra",
+     "zh": "Shuttle secures FCA authorisation to help startups raise capital across borders"
     },
     {
      "title": "中国中免：融资净偿还2606.17万元，融资余额30.74亿元",
@@ -2330,44 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Here are the major earnings before the open Friday"
     },
     {
-     "title": "物理AI峰会催化不断！算力基建景气向好 多股业绩倍增可期(名单)",
-     "link": "http://stock.eastmoney.com/news/11134,202611273941036483.html",
-     "pubDate": "Fri, 27 Nov 2026 06:43:30 +0800",
-     "summary": "11月25日，2026 物理AI 行业峰会暨九章云极智算生态大会在深圳举行。AI加速从屏幕走向产线， 物理AI 相关概念股的业绩增长预期正在升温。 物理AI 峰会深圳召开，生态联盟同步成立 11月25日，2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。 会上，九章云极DataCanvas正式发布面向物理AI的算力基础设施与工具栈服务体系“Physical AI Factory（物理AI工厂）”，并发起成立“ 极光 物理AI产业生态联盟”，首批成员覆盖 机器人 本体、世界模型、仿真平台、科研机构及智算云服务等领域。 九章云极董事长方磊在会上表示，AI过去10年学会“说话”，过去3年学会",
-     "source": "东方财富资讯",
-     "zh": "物理AI峰会催化不断！算力基建景气向好 多股业绩倍增可期(名单)"
-    },
-    {
-     "title": "据报道 韩国评估扩大股市稳定基金",
-     "link": "http://finance.eastmoney.com/news/1351,202611273941035511.html",
-     "pubDate": "Fri, 27 Nov 2026 06:42:22 +0800",
-     "summary": "据报道，韩国评估扩大股市稳定基金。 延伸阅读 韩国居民卖股买房资金量飙涨 韩媒称政府资金大迁移设想落空 “警惕风险传导” 今年，韩国居民卖股票买房的钱突破10万亿韩元（约合人民币496亿元）。 韩国《中央日报》中文网26日报道称，今年1月至10月，韩国 房地产 买入资金中申报的股票、债券、虚拟货币出售款为10.0715万亿韩元。自开始汇总相关资料以来，这是年度累计额首次突破10万亿韩元。 上述报道提到，韩国政府原本推行引导不动产资金流向股市的“资金大迁移”政策，市场走势却反向演变，股市成了楼市的资金来源。 今年6月，韩国 综合 指数一路飙升至9000点上方，股票交易活跃账户数也从2025年底的",
-     "source": "东方财富资讯",
-     "zh": "据报道 韩国评估扩大股市稳定基金"
-    },
-    {
      "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
      "link": "https://wallstreetcn.com/articles/3786746",
      "pubDate": "Fri, 27 Nov 2026 06:33:10 +0800",
      "summary": "感恩节当天美股与美债市场全天休市，其他主要市场在人工智能抛售暂歇后普遍反弹。日经225指数与韩国综指收涨，欧洲股市同步走高。 中东供应风险继续发酵，原油连续第三个交易日上涨，铜价从11个月低位反弹，比特币横盘于6万美元上方。 周四，泛欧股指斯托克600涨1.80%至636.98点，德国DAX涨2.08%报25,215.52点，法国CAC40涨1.61%报8,108.74点，英国富时100涨1.75%报10,609.30点。全部板块收涨，约95%的成分股上涨。 同一天公布的欧央行10月会议纪要偏鹰，多数委员认为10月已具备加息条件，最终选择再等一轮数据。期货市场对12月加息25个基点的定价升到九",
      "source": "华尔街见闻",
      "zh": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨"
-    },
-    {
-     "title": "11月27日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1353,202611273941019565.html",
-     "pubDate": "Fri, 27 Nov 2026 06:03:26 +0800",
-     "summary": "11月27日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 中国信通院：国星宇航“星算”计划天秤座卫星标称算力达32PFLOPS 近日，中国信通院发布了 国星宇航 “星算”计划02组卫星首批第三方在轨能力测试数据。数据显示，“星算”计划02组天秤座卫星标称算力达32PFLOPS（每秒千万亿次浮点运算），“星算”计划相关技术路线初步可行。 马斯克宣布送股票：每个美国孩子2股SpaceX 北京时间11月26日，马斯克在社交平台上发文称，每名美国儿童都将获得两股 SpaceX 股票，一股来自 SpaceX 公司，另一股来自他个人。随后，马斯克进一步透露， SpaceX 公司赠予的股票将于今年",
-     "source": "东方财富资讯",
-     "zh": "11月27日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "东方财富财经早餐 11月27日周五",
-     "link": "http://finance.eastmoney.com/news/1353,202611263940986188.html",
-     "pubDate": "Fri, 27 Nov 2026 06:00:36 +0800",
-     "summary": "每日精选 商务部回应关税问题 ： 商务部新闻发言人何亚东在26日举行的例行新闻发布会上表示， 美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则 ，中方对此坚决反对。此前美国宣布计划对产自中国及其他经济体的商品加征新一轮关税。据美国贸易代表办公室称，对华进口商品的税率将提高至 20%，这与此前中美双方的协议一致。 广东省算力发展规划 ： 11月26日，广东省政务服务和数据管理局、广东省发展和改革委员会印发《广东省算力发展“十五五”规划》。其中提到，集中力量突破产业技术短板，着力缩小与国际领先水平在单芯片算力性能上的代际差距，同时加强芯片异构融合与协同适配，推动多元算",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 11月27日周五"
     },
     {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -2408,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
      "source": "CNBC",
      "zh": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工",
-     "link": "https://wallstreetcn.com/articles/3786799",
-     "pubDate": "Fri, 27 Nov 2026 04:24:19 +0800",
-     "summary": "欧洲市值最高的软件公司SAP正筹划一轮至少1万人的裁员，以推动公司向AI时代转型，这家老牌企业软件巨头的组织与产品逻辑将随之重写。 11月26日，据彭博援引知情人士透露，德国思爱普Sap正在准备一项裁减至少1万个岗位的计划， 将影响其全球至少9%的员工，所有部门均被要求梳理可能存在裁撤空间的领域，产品与工程部门以及销售部门是重点。 据报道，作为此次变革的一部分， Sap领导层将继续重新设计其产品开发与销售模式。 Sap在一份声明中表示： Sap持续审查其组织架构，以确保与公司战略和客户需求保持一致。 对投资者而言，这意味着SAP可能再度启动一轮与2024年规模相当的重组，短期将带来费用计提与业",
-     "source": "华尔街见闻",
-     "zh": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工"
     },
     {
      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",
@@ -2488,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend"
+    },
+    {
+     "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+     "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+     "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
+     "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+     "source": "Financial Times",
+     "zh": "Andrew Bailey says unreleased AI models have raised encryption concerns"
     }
    ]
   },

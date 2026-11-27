@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 07:52:11",
+ "generated_at": "2026/11/27 08:12:07",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Huawei pitches Ascend AI chips to South Korean customers",
+     "link": "https://www.digitimes.com/news/a20261126VL214/huawei-ascend-chips-nvidia-atlas.html",
+     "pubDate": "Thu, 26 Nov 2026 23:57:02 GMT",
+     "summary": "Huawei Technologies has begun marketing its self-developed Ascend AI chips in South Korea, seeking a foothold in a market where Nvidia is expanding its business through partnerships with domestic chipmakers.",
+     "source": "DIGITIMES",
+     "zh": "Huawei pitches Ascend AI chips to South Korean customers"
+    },
+    {
      "title": "US battery startups find a second wind as Washington weighs funding revival",
      "link": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html",
      "pubDate": "Thu, 26 Nov 2026 22:42:05 GMT",
@@ -296,14 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Japan's Ministry of Economy, Trade and Industry (METI) and the New Energy and Industrial Technology Development Organization (NEDO) announced the latest results of the Generative AI Accelerator Challenge (GENIAC) in Tokyo in September 2026, selecting 13 companies and organizations to develop multipu",
      "source": "DIGITIMES",
      "zh": "Japan backs robot foundation models for manufacturing, construction, logistics"
-    },
-    {
-     "title": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers",
-     "link": "https://www.digitimes.com/news/a20261126PD227/taiwan-electronics-eu-supply-chain-automakers.html",
-     "pubDate": "Thu, 26 Nov 2026 22:38:57 GMT",
-     "summary": "The EU's non-discriminatory quotas on imported hybrid vehicles, which take effect on December 1 for 200 days, will push European automakers that are localizing production to deepen cooperation with Taiwanese automotive electronics suppliers, with Delta Electronics and Taiwan's five major electronics",
-     "source": "DIGITIMES",
-     "zh": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers"
     },
     {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+     "link": "https://oilprice.com/Geopolitics/Africa/Ukraines-Strike-in-Benghazi-Threatens-the-Deal-That-Keeps-Libya-at-Peace.html",
+     "pubDate": "Thu, 26 Nov 2026 18:00:00 -0600",
+     "summary": "Ukraine's sinking of a Russian warship in Benghazi on November 22 is the spark that could ignite another civil war in Libya, just as Tripoli is pitching foreign oil companies at an energy summit for the $20 billion it says it needs to lift output to 2 million barrels a day. Two officers of eastern s",
+     "source": "OilPrice",
+     "zh": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace"
+    },
+    {
+     "title": "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20",
+     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/NASA-Wanted-a-100-Kilowatt-Reactor-on-the-Moon-but-Is-Settling-for-20.html",
+     "pubDate": "Thu, 26 Nov 2026 18:00:00 -0600",
+     "summary": "In August 2025, Washington promised a 100-kilowatt nuclear reactor on the Moon by 2030, ahead of China and Russia. \"We're in a race to the moon, in a race with China to the moon,\" NASA's then-interim chief Sean Duffy said, warning that whoever landed a reactor first could declare a \"keep-out zone\" a",
+     "source": "OilPrice",
+     "zh": "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20"
+    },
+    {
      "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
      "pubDate": "Thu, 26 Nov 2026 16:00:00 -0600",
@@ -906,28 +922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Solar under scrutiny in latest US trade tariff salvo"
     },
     {
-     "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
-     "pubDate": "Thu, 26 Nov 2026 11:00:00 -0600",
-     "summary": "Americans heading into the Thanksgiving holiday are finally getting some relief at the gasoline pump. After months of elevated prices, the national average has fallen sharply in November, dropping to approximately $3.66 per gallon as of November 21. That’s a welcome development for millions of holid",
-     "source": "OilPrice",
-     "zh": "Why Gasoline Prices Are Falling While Diesel Remains Expensive"
-    },
-    {
      "title": "Seabed Mining Has a Refinery Problem Worth Billions",
      "link": "https://cleantechnica.com/2026/11/26/seabed-mining-refinery-problem-billions/",
      "pubDate": "Thu, 26 Nov 2026 16:55:51 +0000",
      "summary": "The Metals Company wants to recover polymetallic nodules from the seabed and sell the nickel, copper, cobalt and manganese they contain. That business needs an industrial processing system before its revenue projections become sales. TMC’s November 2026 update exposed the timing problem. Its propose",
      "source": "CleanTechnica",
      "zh": "Seabed Mining Has a Refinery Problem Worth Billions"
-    },
-    {
-     "title": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-at-Hormuz-Ticks-Up-Despite-Intensified-Attacks.html",
-     "pubDate": "Thu, 26 Nov 2026 10:30:00 -0600",
-     "summary": "The number of tankers carrying energy products through the Strait of Hormuz has increased in November despite the fact that the number of attacks and incidents with mines has hit the highest level since the beginning of the Iran war. Between November 1 and 19, the seven-day moving average count show",
-     "source": "OilPrice",
-     "zh": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks"
     },
     {
      "title": "France triples planned renewable energy auction volume to 1.5 GW",
@@ -1754,44 +1754,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "他们，将剩菜做成了生意",
-     "link": "https://www.huxiu.com/article/4908815.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:43:02 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：范建 剩菜居然也能包装成盲盒，通过特定平台对外出售？ 中国的“余量食物共享”赛道自2021年诞生以来，已让部分城市的年轻群体，养成了“捡漏”的习惯。 当然，平台所出售的剩菜，并不是别人吃剩下的残羹冷炙，而是餐饮店当天没有卖掉的临期食品，通过随机组合的方式低价处理。 这套模式源自丹麦的Too Good To Go。进入国内五年多，为以烘焙店为主的商家清理日常库存，给用户省下开支，亦避免了粮食浪费。 这个看似多赢的模式，在中国却很难成为一门大生意。 领剩菜去 下午刚上班，写字楼里已经有打工人开始刷小程序。附近面包店刚上架两个“魔法袋”，只要9.9元。手速稍慢",
+     "title": "35岁危机，究竟是谁的危机？",
+     "link": "https://www.huxiu.com/article/4908819.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:06:21 +0800",
+     "summary": "本文来自微信公众号： 防冷书斋 ，作者：防冷涂的蜡 想象一个今天并不陌生的场景。 一名35岁的互联网从业者，在公司工作多年，突然接到HR的通知：业务要调整，组织要优化，团队也需要年轻化。话说得很周全，但意思很明白：他可以离开了。 失业之后，他打开手机，发现互联网早已为他备好了答案。学AI，提高核心竞争力，打造第二曲线，建立个人品牌，摆脱对单一职业的依赖。还有不少文章提醒年轻人，最好在35岁之前完成某些任务，以免将来重蹈覆辙。 这些建议读得多了，难免觉得哪里不对劲： 一个员工离开了，但接下来需要上课、转型、复盘和重新规划人生的，仍然只有这个员工。 职场像一场不断追加考试科目的测试，出卷的人却似乎",
      "source": "虎嗅",
-     "zh": "他们，将剩菜做成了生意"
+     "zh": "35岁危机，究竟是谁的危机？"
     },
     {
-     "title": "五星酒店批量法拍，泡沫快挤干了",
-     "link": "https://www.huxiu.com/article/4908814.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:39:01 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 地产系五星酒店，加速清场。 01 临近2026年末，国内五星级酒店的拍卖槌声接连响起。 12月初，三家泰禾系酒店将在福州东二环同时站上阿里拍卖台，凯宾斯基、铂尔曼与智选假日合计起拍价定在14.44亿元，较评估价打了八折。 福州泰禾凯宾斯基及配套商业、车位拍卖公告 放在当下房企出清高星酒店的折扣单里，八折通常只是序章，远不足以打动挑剔的买家。 那些曾斥资数十亿打造的国内各地奢华地标，正批量涌向司法拍卖与产权交易平台。 上周，旅界曾报道，在香江两岸刚落下槌的银主盘交易，世茂集团开发的香港东涌喜来登与福朋喜来登由接管人强制出售，最终作价27亿",
+     "title": "一天卖了253亿的GTA6，被骂惨了",
+     "link": "https://www.huxiu.com/article/4908820.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:05:44 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：陈浩 玩家还愿不愿意花10年时间，等待一群人把游戏世界一砖一瓦砌出来？ 小迪（化名）把PS5从北京背回了老家。 她要休年假，但还是把游戏主机塞进了行李箱，就为了接着玩GTA6（《侠盗猎车手6》）。到11月25日发售的第6天，她已经玩了60多个小时，才推到游戏第三章的开头。“一般的游戏，60个小时够你白金通关（把游戏中所有的奖杯、成就全凑齐）了。”她喜欢在游戏里到处闲逛、打听NPC的闲事，自嘲“吃瓜的心特别重”，时间根本不够用。 小迪玩过的3A（高成本、高体量、高质量）大作并不少，《黑神话：悟空》《影之刃零》都在第一时间通关了。她偏爱这类讲究操作的游",
      "source": "虎嗅",
-     "zh": "五星酒店批量法拍，泡沫快挤干了"
+     "zh": "一天卖了253亿的GTA6，被骂惨了"
     },
     {
-     "title": "谄媚、信任与责任：从一起悲剧说起",
-     "link": "https://www.huxiu.com/article/4908799.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:37:00 +0800",
-     "summary": "本文来自微信公众号： 经济观察报观察家 ，作者：经观观察家 在我看来，未来最好的AI顾问，未必是回答最迅速、最能让人安心的那个。它应当知道自己的能力从何处开始，也知道在什么地方需要停下；它应当能够解释复杂问题，也愿意承认无法判断；它应当帮助用户获得知识，同时保留外部专业人士提出异议的机会 2026年2月11日晚上，患有癫痫症的31岁华人工程师万女士向Chat－GPT提出了一个问题：头部的疼痛是否与发烧时的疼痛相似，只是疼痛的类型不同？ChatGPT迅速给出了肯定的回答，并告诉她，这种疼痛是她逐步减少抗癫痫药物拉莫三嗪用量过程中出现的正常现象，“并不危险”。在回答的最后，ChatGPT还表示愿意",
+     "title": "中年人不装了：花父母退休金，不丢脸",
+     "link": "https://www.huxiu.com/article/4908590.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:00:01 +0800",
+     "summary": "本文来自微信公众号： 十点人物志 ，作者：Fann，编辑：芝士咸鱼，题图来自：视觉中国 继拼学历、拼工作、拼家底之后，一些中年人拼起了父母的退休金。 这与人们印象中的&ldquo;啃老&rdquo;不太相同。他们大多有工作、有孩子，甚至有房有车，看上去过着稳定体面的生活。只是房贷、育儿和日常开销一笔笔算下来，仅靠自己的收入，未必能轻松负担。 有人每月工资刚到账，贷款一扣就见底，月底得靠父母转来几千块&ldquo;生活补贴&rdquo;；有人孩子的补习班缴费单一张接一张，最后掏钱的是爷爷奶奶；还有人遭遇降薪、失业，投出去的简历迟迟没有回音，兜兜转转，又接过了父母递来的退休金&hellip;&he",
      "source": "虎嗅",
-     "zh": "谄媚、信任与责任：从一起悲剧说起"
+     "zh": "中年人不装了：花父母退休金，不丢脸"
     },
     {
-     "title": "农行这么强，“亲儿子”怎么垫底了？",
-     "link": "https://www.huxiu.com/article/4908686.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:22:26 +0800",
-     "summary": "出品 | 妙投APP 作者 | 刘国辉 编辑 | 丁萍 头图 | 视觉中国 国有四大行中，最近几年里业绩增长最强的是农行。但在大行旗下的公募基金中，发展最弱的，也出自农行 。 基金三季报数据显示，农银汇理基金非货基金规模1563亿元，居行业第37位。这个地位并不算差，不过考虑到大股东农业银行的大行地位，农银汇理这个行业地位有点不应该了。 农行不仅是国有四大行之一，更是近年来资产规模已经超越建行居行业第二位。相比之下，农银汇理基金在强大股东背景加持下，却依然是四大行旗下公募子公司中综合实力最差的一家。 截至2026年三季度末，工行旗下工银瑞信非货规模4529亿元，居行业第16位，中银基金和建信基",
+     "title": "半年下跌30%，黄金的逻辑已和去年大不一样",
+     "link": "https://www.huxiu.com/article/4907391.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:00:00 +0800",
+     "summary": "黄金逻辑生变！黄金半年暴跌30%，如今的逻辑和去年大不一样。地缘政治过去能推高黄金，现在却没什么作用，美伊冲突都没带动价格。",
      "source": "虎嗅",
-     "zh": "农行这么强，“亲儿子”怎么垫底了？"
+     "zh": "半年下跌30%，黄金的逻辑已和去年大不一样"
     },
     {
-     "title": "我终于发现了世界上最好的工作",
-     "link": "https://www.huxiu.com/article/4908804.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:22:05 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 我们从小到大，被灌输了太多太多关于&ldquo;好工作&rdquo;的标准。 总结起来，离不开这几个词：稳定、体面、薪水高、压力小。最好再加一个&ldquo;事少离家近&rdquo;。 但很奇怪的是，你观察身边那些真正挤进了这些标准里的人，过得似乎也没有想象中那么轻松。 有人每天在工位上浑浑噩噩，靠下班后的报复性刷手机来找补。有人一份工作干了三五年，突然惊觉，自己除了熟悉公司内部的那套流程，什么也没长进，心里越来越慌。 直到前段时间，我又一次重读《纳瓦尔宝典》，读到纳瓦尔的一句话。 他说： &ld",
+     "title": "蹭量、白嫖、PPT拿奖，AI黑客松快被搞臭了",
+     "link": "https://www.huxiu.com/article/4906247.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 08:00:00 +0800",
+     "summary": "参赛者混圈子，主办方空手套白狼，投资人白嫖方案，厂商只是凑排场。现场不用演示产品，直接PPT讲讲就能拿奖，简直成了创意大赛。项目同质化严重，番茄钟、AI宠物、记账本一场接一场，真正用代码做东西的人越来越少。",
      "source": "虎嗅",
-     "zh": "我终于发现了世界上最好的工作"
+     "zh": "蹭量、白嫖、PPT拿奖，AI黑客松快被搞臭了"
+    },
+    {
+     "title": "这一轮AI浪潮，像极了计划经济",
+     "link": "https://www.huxiu.com/article/4908818.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 07:59:58 +0800",
+     "summary": "本文来自微信公众号： 锦缎 ，作者：愚老头 01 被打断的半导体产业转移 世界半导体行业最早发源于美国，期间经过了三次产业转移。 上个世纪五十到七十年代，美国开创了半导体这条行业赛道，当时的主要需求来自于军方。进入七十年代之后，日本家电行业崛起，新增需求更多来自于家电，日本半导体行业顺势崛起。但进入九十年代之后，美国又开发出了计算机这条新赛道，芯片代工行业开始成熟，半导体行业又向韩国和中国台湾地区转移。 如果没有后来的各种制裁和断供，2000年之后，半导体行业就应该转移到大陆。 上个世纪的经济互助委员会（经互会），保加利亚生产小吊车，匈牙利造客车，罗马尼亚量产拖拉机，造船业主要在乌克兰，蒙古生",
+     "source": "虎嗅",
+     "zh": "这一轮AI浪潮，像极了计划经济"
+    },
+    {
+     "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
+     "link": "https://www.ithome.com/1/033/151.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:54:42 GMT",
+     "summary": "IT之家 11 月 27 日消息，苹果 2026 年黑色星期五购物活动已率先在澳大利亚、新西兰和泰国上线，随后将陆续覆盖欧洲、美国和加拿大等市场。 本次活动将持续至 11 月 30 日（网络星期一），用户购买符合条件的苹果产品，可获得最高 300 美元（IT之家注：当前汇率约合人民币 1999 元）的 Apple Gift Card 礼品卡。用户可通过 Apple Store 零售店、Apple Store 应用和苹果官网参与活动。 需要注意的是，礼品卡只能用于后续购买，不能直接抵扣本次购买产品的价格。礼品卡可用于购买苹果产品及配件，也可支付 Apple Music、Apple TV、App ",
+     "source": "IT之家",
+     "zh": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等"
+    },
+    {
+     "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
+     "link": "https://www.ithome.com/1/033/150.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:52:28 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 Pro、Galaxy S27 Ultra 还有约 2 个月时间（预估 2027 年 1 月发布），相关零部件已提前现身网络，涵盖充电接口小板、主板排线等。 目前曝光的两款充电接口板上分别印有 SM-S957B 和 SM-S958B 的型号标识，前者据称对应 Galaxy S27 Pro，后者对应 Galaxy S27 Ultra。此外，S27 Ultra 的主板排线上还出现了面向美国运营商的型号，以及“MAIN”“SUB”“USB”等接口标注。IT之家",
+     "source": "IT之家",
+     "zh": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”"
+    },
+    {
+     "title": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相",
+     "link": "https://www.ithome.com/1/033/149.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:51:01 GMT",
+     "summary": "IT之家 11 月 27 日消息，当地时间 26 日，福特全新 GT41 赛车正式亮相，明年还将重返勒芒 24 小时耐力赛最高组别。车名沿用了 GT40 的命名思路，取自车身高度：车顶进气口离地高度为 41 英寸 （IT之家注：约 1,041 毫米） 。 GT41 的动力核心是一台 5.4 升自然吸气混合动力 V8 发动机 。整套发动机项目完全由福特自主研发，这也是福特引以为傲的地方。 这台发动机专供 GT41 项目使用，从设计、制造到测试均由福特自行完成。福特赛车部门还负责零部件开发、发动机标定和软件开发，甚至连车灯、雨刷等辅助设备所需的低压系统也由其负责。 据IT之家了解，接下来，福特将集",
+     "source": "IT之家",
+     "zh": "5.4 升自吸混动大 V8 加持，福特全新 GT41 赛车亮相"
+    },
+    {
+     "title": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话",
+     "link": "https://www.ithome.com/1/033/148.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:44:16 GMT",
+     "summary": "IT之家 11 月 27 日消息，谷歌宣布，自 2027 年 3 月 1 日起，被认定为“交易者”（Trader）的 Google Play 开发者，需要在应用商店公开展示电话号码和实体地址。 该政策旨在配合欧盟《数字服务法》（DSA）及英国相关法规实施，但 Google 选择将信息公开范围扩大至全球，而非仅限于欧洲地区。 谷歌表示，所有活跃的 Google Play 开发者在 2027 年 2 月 1 日之前，通过 Play Console 声明自己是否属于交易者，无论其应用面向哪个国家或地区分发。 谷歌对“交易者”的定义主要涉及商业活动，包括通过付费应用、应用内购买或广告获得收入的开发者。",
+     "source": "IT之家",
+     "zh": "谷歌 Play 新规：2027 年 3 月起，部分开发者须全球公开住址和电话"
+    },
+    {
+     "title": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度",
+     "link": "https://www.ithome.com/1/033/147.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:42:12 GMT",
+     "summary": "IT之家 11 月 27 日消息，科技媒体 Phys 昨日（11 月 26 日）发布博文，报道称最新研究警告，随着 5G 网络在人口密集城市大规模部署， 其信号泄漏可能干扰气象卫星对大气水汽的观测，进而影响暴雨、飓风等高影响天气的预报。 这项研究由美国罗格斯大学的研究团队推进，第一作者为 Behzad Golparvar，相关研究于 10 月 16 日发表在《地球物理研究快报》，题目名为《预计的 5G 干扰可能削弱被动微波辐射资料同化并改变高影响天气预报》。 在现有的设计框架下，气象卫星主要通过测量约 23.8 吉赫兹频段的自然微波，判断低层大气中的水汽含量。这些数据是天气模式初始化的重要输入",
+     "source": "IT之家",
+     "zh": "新研究表明 5G 能干扰卫星“看天气”，影响天气预报精度"
+    },
+    {
+     "title": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持",
+     "link": "https://www.ithome.com/1/033/146.htm",
+     "pubDate": "Thu, 26 Nov 2026 23:32:58 GMT",
+     "summary": "IT之家 11 月 27 日消息，小米官网安全中心于 11 月 26 日更新智能硬件产品终止软件支持（EOS）列表，新增 7 款手机，分别为： Xiaomi 12S (cn) Xiaomi MIX Fold 2 (cn) Xiaomi Civi 2 (cn) Xiaomi 12 Lite (tr) Redmi Note 12 Pro+ (cn) Redmi Note 12 Pro (cn) Redmi Note 12 探索版 (cn) 此次新增机型涵盖小米数字系列、MIX 折叠屏系列、Civi 系列以及 Redmi Note 系列。其中，后三款 Redmi Note 12 系列机型对应的软件版",
+     "source": "IT之家",
+     "zh": "小米 12S、MIX Fold 2、Redmi Note 12 Pro 等多款机型终止软件支持"
     },
     {
      "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
@@ -1800,54 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "爱奇艺触发退市警告，回应：暂不停牌，180日内整改；美团、淘宝闪购官宣：全面取消超时扣款处罚；祝丽丹起诉娃哈哈商业股份有限公司案件未开庭，法院工作人员称“已撤诉”；SpaceX官宣儿童赠股计划，马斯克个人捐赠等额匹配；三部委：积极推进5G-A网络规模覆盖，适时开展6G网络建设；五部门部署推进技工教育高质量特色发展，将建设100个优质专业；国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益；有饮料可以不标生产日期？市场监管总局回应；中国央行1000亿元人民币2个月国库现金定期存款定于12月1日招投标；中上协：以10月收盘价计算，上市公司境内股份总市值100万亿元；中信证券：11",
      "source": "钛媒体",
      "zh": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元"
-    },
-    {
-     "title": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时",
-     "link": "https://www.ithome.com/1/033/141.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:17:19 GMT",
-     "summary": "IT之家 11 月 27 日消息，在 Anthropic，AI 正在改变软件工程师的晋升标准。据《商业内幕》今天（27 日）报道，Anthropic 平台工程负责人凯特琳 · 莱斯近期谈到了 AI 对工程师职业发展的影响。她指出，AI 普及后，单纯以 项目完成时间 来判断工程师是否具备晋升条件，已经没有过去那么大的参考价值。 过去需要数年才能完成的工作，现在几个月就能完成。相比项目耗时，她的团队更看重 降低系统延迟、避免事故等 实际成果。“归根结底，还是看实际影响。” 随着 AI 智能体加速软件开发，工程师创造价值的方式也在发生变化。莱斯认为，工作的重点正从编写代码转向“协调”：既要让团队成员",
-     "source": "IT之家",
-     "zh": "Anthropic 平台工程负责人莱斯：AI 改变工程师晋升标准，不再只看项目耗时"
-    },
-    {
-     "title": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题",
-     "link": "https://www.ithome.com/1/033/140.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:13:23 GMT",
-     "summary": "IT之家 11 月 27 日消息，据 Wccftech 今日报道，NVIDIA Profile Inspector 开发者 Orbmu2k 发布了一款名为 NVIDIA G-SYNC Tweaks 的免费开源工具。 这款工具可用于调整英伟达显卡驱动中未公开的 G-SYNC、可变刷新率（VRR）相关参数，重点解决部分高刷显示器在 60 FPS 时提前触发低帧率补偿（LFC），导致 OLED 屏幕亮度闪烁以及其他显示器出现卡顿的问题。 可变刷新率技术能够让显示器刷新率与 GPU 实际输出帧率动态同步，从而减少画面撕裂和卡顿。当游戏帧率低于显示器支持的 VRR 范围时，低帧率补偿（LFC）会通过重复",
-     "source": "IT之家",
-     "zh": "英伟达 G-SYNC 新工具上线：解决约 60 FPS 时 OLED 屏幕亮度闪烁问题"
-    },
-    {
-     "title": "主播在视频里放火狐 Firefox 浏览器官方链接，竟被谷歌标记“垃圾信息”",
-     "link": "https://www.ithome.com/1/033/139.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:10:31 GMT",
-     "summary": "IT之家 11 月 27 日消息，科技媒体 NeoWin 昨日（11 月 26 日）发布博文，报道称谷歌旗下视频平台 YouTube 近日将一条指向 Mozilla Firefox 官方网站的链接， 判定为违反“垃圾信息、欺骗性行为和诈骗政策”的内容并予以移除 ，引发外界对平台自动审核机制和内容治理透明度争议。 该事件的起因是 All Things Secured 频道上传制作的《谷歌替代方案？减少对谷歌产品依赖的 6 种方法》视频，内容本身主要介绍减少对谷歌服务依赖的方法。该频道主要关注隐私与安全类相关内容，IT之家发稿前查询，该频道订阅者数量为 43.7 万。 根据该频道创作者在社交平台 ",
-     "source": "IT之家",
-     "zh": "主播在视频里放火狐 Firefox 浏览器官方链接，竟被谷歌标记“垃圾信息”"
-    },
-    {
-     "title": "长城跟格力做的都是同质化生意",
-     "link": "https://www.huxiu.com/article/4908811.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 07:09:36 +0800",
-     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “如果你做的是标准化商品生意，你不可能比行业里最蠢的竞争对手聪明多少——价格由他决定。” ——沃伦·巴菲特（1990，全美航空投资复盘） 长城汽车的SUV保持了多年的第一，现在已经跌到了第九，魏建军同学压力山大，正因如此，上周拜访胖东来，这周又找上了格力董明珠。 这种情况只能说明一件事，企业创始人自己都找不到解决问题的办法，只能东看看，西看看，看看有没有什么新思路，向大家交流学习一下。 大概率也不会有什么新思路。 零售、空调、汽车，其实都是典型的标准化商品生意，汽车还好一点，至少还有情感属性，外型、配置、智驾方面还能创造一点点差异化，零售跟空",
-     "source": "虎嗅",
-     "zh": "长城跟格力做的都是同质化生意"
-    },
-    {
-     "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
-     "link": "https://www.ithome.com/1/033/138.htm",
-     "pubDate": "Thu, 26 Nov 2026 22:59:06 GMT",
-     "summary": "IT之家 11 月 27 日消息，OpenAI 已紧急修复 GPT-6.2 上线初期的一项计费错误 —— 此前该问题导致大多数用户使用 GPT-6.2 Astra 和 Sol 时，消耗的套餐额度按折扣价进行了计算。 OpenAI Codex 与 ChatGPT 负责人 Thibault Sottiaux（Tibo）表示，修复后，用户完成相同工作量时将消耗更多额度：与上周相比，Astra 用户触及使用上限的速度将加快 40%，Sol 用户则将加快 25%。 Sottiaux 同时表示，尽管修复后两款模型的额度消耗速度有所增加，但与上一代 GPT-6 Astra 和 GPT-6.1 Sol 相比，",
-     "source": "IT之家",
-     "zh": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%"
-    },
-    {
-     "title": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%",
-     "link": "https://www.ithome.com/1/033/137.htm",
-     "pubDate": "Thu, 26 Nov 2026 22:56:17 GMT",
-     "summary": "IT之家 11 月 27 日消息， 彭博社昨日（11 月 26 日）发布博文，报道称德国软件巨头思爱普（SAP）正考虑在一轮以人工智能为核心的重组中，裁减至少 1 万个工作岗位。 该规模约相当于 SAP 全球员工总数的 9%，最终裁员人数尚未确定，后续或因公司与劳工代表的协商结果而有所调整。 IT之家查询公开资料，思爱普成立于 1972 年，总部位于德国沃尔多夫，是全球企业应用软件的重要供应商，是“欧洲市值最高的软件公司”。其核心产品帮助企业完成财务、供应链、采购、人力资源、销售和运营等流程的数字化管理。 知情人士称，SAP 管理层正推动软件业务向 AI 时代转型，要求各部门梳理可以精简的岗位",
-     "source": "IT之家",
-     "zh": "彭博社：欧洲市值最高的软件公司 SAP 计划裁员超 1 万人，约占总员工 9%"
     },
     {
      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&apos;s organizers out of ~$260K (Nathan Grayson/Aftermath)",
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "link": "https://kendell.dev/blog/arkwrapper/",
      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 141 # Comments: 84",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 192 # Comments: 109",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 181 # Comments: 32",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 196 # Comments: 34",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
@@ -1885,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Company Culture = Slack Emoji ÷ √Headcount",
      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
      "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 62 # Comments: 8",
+     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 68 # Comments: 11",
      "source": "Hacker News",
      "zh": "Company Culture = Slack Emoji ÷ √Headcount"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 19 # Comments: 11",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 25 # Comments: 11",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -1922,28 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "X finally gets parental controls after 20 years"
     },
     {
-     "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-     "link": "https://github.com/eisenzopf/rvoip",
-     "pubDate": "Thu, 26 Nov 2026 19:18:09 +0000",
-     "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 60 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "Rvoip 0.5 the complete VoIP stack in Rust"
-    },
-    {
      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
      "pubDate": "Thu, 26 Nov 2026 18:49:47 +0000",
      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
      "source": "WIRED",
      "zh": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026"
-    },
-    {
-     "title": "Steam 黑色星期五促销持续至 11 月 30 日，特惠页面同步改版",
-     "link": "https://www.ithome.com/1/033/135.htm",
-     "pubDate": "Thu, 26 Nov 2026 18:30:51 GMT",
-     "summary": "IT之家 11 月 27 日消息，Valve 官方宣布，为迎接黑色星期五购物季，Steam 对“折扣与活动”页面进行了改版升级。 虽然 Steam 平台本身并未举办官方的黑色星期五特卖活动，但开发者与发行商正自发地在即日起至 11 月 30 日期间为各类游戏推出折扣优惠，Steam 同步为该页面换上了黑五主题装饰。 此次更新不仅涉及页面外观，还调整了内容展示方式。用户打开页面后，可以看到系统根据个人兴趣提供的个性化游戏推荐，同时结合当前热门游戏以及人气正在上升的内容，展示相关游戏和类别。 Steam 确认，黑色星期五主题装饰将于 11 月 30 日（太平洋时间）撤下，但此次页面体验改进不会随之",
-     "source": "IT之家",
-     "zh": "Steam 黑色星期五促销持续至 11 月 30 日，特惠页面同步改版"
     },
     {
      "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
@@ -1992,6 +1984,14 @@ window.INDUSTRY_DATA = {
      "summary": "今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。",
      "source": "Solidot",
      "zh": "今天的老年人相比上一代人记忆力衰退放缓"
+    },
+    {
+     "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
+     "link": "https://www.techmeme.com/261126/p20#a261126p20",
+     "pubDate": "Thu, 26 Nov 2026 10:50:27 -0500",
+     "summary": "Cristian Dina / The Next Web : Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD &nbsp; &mdash;&nbsp; SK hynix, Samsung and AMD's venture arms joined the Series C. New chief executive Kevin Po",
+     "source": "Techmeme",
+     "zh": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)"
     }
    ]
   },
@@ -2250,52 +2250,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "新疆众和：融资净偿还2011.29万元，融资余额9.47亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941126127.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:42 +0800",
-     "summary": "交易所最新数据显示，新疆众和于2026年11月26日获融资买入1273.23万元，融资偿还3284.52万元， 当日融资净偿还2011.29万元。 目前，该股融资余额9.47亿，占流通市值比例为8.33%。 该股当日融券卖出1.31万股，融券偿还300股， 融券净卖出1.28万股。 目前，该股融券余量61.53万股，融券余额450.4万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "新疆众和：融资净偿还2011.29万元，融资余额9.47亿元"
+     "title": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤",
+     "link": "https://wallstreetcn.com/articles/3786807",
+     "pubDate": "Fri, 27 Nov 2026 08:07:00 +0800",
+     "summary": "欧洲股市周四反弹，美国股指期货在感恩节假期提前休市前维持涨势。交易员眼下最关心的问题是：在美元周三午间突然走弱之后，AI 股下午出现的急升，究竟意味着持续反转的开始，还是又一轮熊市反弹。 瑞银（UBS）股票交易员Mark Paski周三向客户表示， 他正在关注拥挤的消费必需品避险交易是否出现动能衰减的迹象，而这可能是AI股正在筑底的信号。 Paski指出，更有力的信号将出现在可口可乐、Keurig Dr Pepper、宝洁、高露洁-棕榄和沃尔玛出现实质性抛售之时。但他同时表示， 防御性股票的全面平仓尚未出现。 上述判断代表了市场对“避险交易与AI动量交易”这两大拥挤头寸相对强弱的关注，直接影响",
+     "source": "华尔街见闻",
+     "zh": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤"
     },
     {
-     "title": "永茂泰：融资净偿还70.12万元，融资余额1.15亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941126011.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:42 +0800",
-     "summary": "交易所最新数据显示，永茂泰于2026年11月26日获融资买入388.51万元，融资偿还458.63万元， 当日融资净偿还70.12万元。 目前，该股融资余额1.15亿，占流通市值比例为4.05%。 该股当日融券卖出6200股，融券偿还0股， 融券净卖出6200股。 目前，该股融券余量1.46万股，融券余额12.53万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任",
+     "title": "中国中免：融资净偿还2606.17万元，融资余额30.74亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941224250.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:35 +0800",
+     "summary": "交易所最新数据显示， 中国中免 于2026年11月26日获融资买入7517.68万元，融资偿还1.01亿元， 当日融资净偿还2606.17万元。 目前，该股融资余额30.74亿，占流通市值比例为3.27%。 该股当日融券卖出1.01万股，融券偿还2.04万股， 融券净偿还1.03万股。 目前，该股融券余量27.81万股，融券余额1340.16万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
      "source": "东方财富股票",
-     "zh": "永茂泰：融资净偿还70.12万元，融资余额1.15亿元"
+     "zh": "中国中免：融资净偿还2606.17万元，融资余额30.74亿元"
     },
     {
-     "title": "中青旅：融资净偿还39.05万元，融资余额2.96亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941125884.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:42 +0800",
-     "summary": "交易所最新数据显示，中青旅于2026年11月26日获融资买入226.61万元，融资偿还265.66万元， 当日融资净偿还39.05万元。 目前，该股融资余额2.96亿，占流通市值比例为6.96%。 该股当日融券卖出4700股，融券偿还0股， 融券净卖出4700股。 目前，该股融券余量2.96万股，融券余额17.38万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任",
+     "title": "博隆技术：融资净偿还198.07万元，融资余额1.4亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941224186.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:32 +0800",
+     "summary": "交易所最新数据显示， 博隆技术 于2026年11月26日获融资买入105.82万元，融资偿还303.89万元， 当日融资净偿还198.07万元。 目前，该股融资余额1.40亿，占流通市值比例为9.43%。 该股当日无融券交易。目前，该股融券余量3900股，融券余额16.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险",
      "source": "东方财富股票",
-     "zh": "中青旅：融资净偿还39.05万元，融资余额2.96亿元"
+     "zh": "博隆技术：融资净偿还198.07万元，融资余额1.4亿元"
     },
     {
-     "title": "东威科技：融资净偿还1373.87万元，融资余额4.93亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941125584.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:42 +0800",
-     "summary": "交易所最新数据显示，东威科技于2026年11月26日获融资买入2538.04万元，融资偿还3911.91万元， 当日融资净偿还1373.87万元。 目前，该股融资余额4.93亿，占流通市值比例为5.78%。 该股当日融券卖出1.05万股，融券偿还500股， 融券净卖出9980股。 目前，该股融券余量9.38万股，融券余额267.94万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致",
+     "title": "星湖科技：融资净偿还734.3万元，融资余额4.44亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941224084.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:31 +0800",
+     "summary": "交易所最新数据显示， 星湖科技 于2026年11月26日获融资买入601.14万元，融资偿还1335.44万元， 当日融资净偿还734.3万元。 目前，该股融资余额4.44亿，占流通市值比例为7.05%。 该股当日融券卖出1.25万股，融券偿还1.61万股， 融券净偿还3600股。 目前，该股融券余量60.03万股，融券余额227.51万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
      "source": "东方财富股票",
-     "zh": "东威科技：融资净偿还1373.87万元，融资余额4.93亿元"
+     "zh": "星湖科技：融资净偿还734.3万元，融资余额4.44亿元"
     },
     {
-     "title": "保利发展：融资净偿还280.73万元，融资余额28.38亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941125288.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:32 +0800",
-     "summary": "交易所最新数据显示， 保利发展 于2026年11月26日获融资买入3763.12万元，融资偿还4043.86万元， 当日融资净偿还280.73万元。 目前，该股融资余额28.38亿，占流通市值比例为4.72%。 该股当日融券卖出6.88万股，融券偿还6.69万股， 融券净卖出1900股。 目前，该股融券余量197.15万股，融券余额989.69万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
+     "title": "中国汽研：融资净偿还41.14万元，融资余额1.6亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941223948.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:30 +0800",
+     "summary": "交易所最新数据显示， 中国汽研 于2026年11月26日获融资买入441.96万元，融资偿还483.11万元， 当日融资净偿还41.14万元。 目前，该股融资余额1.60亿，占流通市值比例为1.09%。 该股当日融券卖出1.66万股，融券偿还4900股， 融券净卖出1.17万股。 目前，该股融券余量26.17万股，融券余额382.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
      "source": "东方财富股票",
-     "zh": "保利发展：融资净偿还280.73万元，融资余额28.38亿元"
+     "zh": "中国汽研：融资净偿还41.14万元，融资余额1.6亿元"
     },
     {
-     "title": "彩虹股份：融资净买入206.3万元，融资余额4.83亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941125172.html",
-     "pubDate": "Fri, 27 Nov 2026 07:44:29 +0800",
-     "summary": "交易所最新数据显示， 彩虹股份 于2026年11月26日获融资买入1605.57万元，融资偿还1399.27万元， 当日融资净买入206.3万元。 目前，该股融资余额4.83亿，占流通市值比例为2.25%。 该股当日融券卖出5.04万股，融券偿还2.81万股， 融券净卖出2.23万股。 目前，该股融券余量61.88万股，融券余额370.66万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "title": "宏力达：融资净偿还371.45万元，融资余额1.84亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941223885.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:30 +0800",
+     "summary": "交易所最新数据显示， 宏力达 于2026年11月26日获融资买入181.95万元，融资偿还553.40万元， 当日融资净偿还371.45万元。 目前，该股融资余额1.84亿，占流通市值比例为5.54%。 该股当日无融券交易。目前，该股融券余量9769股，融券余额23.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，",
      "source": "东方财富股票",
-     "zh": "彩虹股份：融资净买入206.3万元，融资余额4.83亿元"
+     "zh": "宏力达：融资净偿还371.45万元，融资余额1.84亿元"
+    },
+    {
+     "title": "康希诺：融资净偿还2454.34万元，融资余额2.95亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611273941223744.html",
+     "pubDate": "Fri, 27 Nov 2026 07:58:29 +0800",
+     "summary": "交易所最新数据显示， 康希诺 于2026年11月26日获融资买入1834.85万元，融资偿还4289.20万元， 当日融资净偿还2454.34万元。 目前，该股融资余额2.95亿，占流通市值比例为4.76%。 该股当日融券卖出5400股，融券偿还1200股， 融券净卖出4200股。 目前，该股融券余量1.39万股，融券余额74.82万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "康希诺：融资净偿还2454.34万元，融资余额2.95亿元"
+    },
+    {
+     "title": "沙特吉赞炼油厂遇袭，OPEC+拟延长配额，布油重回96美元",
+     "link": "https://wallstreetcn.com/articles/3786808",
+     "pubDate": "Fri, 27 Nov 2026 07:56:58 +0800",
+     "summary": "中东紧张态势急剧升级。以色列宣布备战伊朗，科威特遭遇爆炸事件，沙特吉赞炼油厂遭胡塞武装袭击致一人死亡，霍尔木兹海峡通行威胁再度浮现，多重地缘风险叠加推动油价走高。 据新华社报道 ，沙特主导的多国联军26日证实， 位于沙特西南部的吉赞炼油厂遭也门胡塞武装袭击。沙特能源部随后确认，此次袭击造成一名工人死亡，炼油厂发生火灾并已被扑灭，部分生产作业临时中断。 多国联军发言人图尔基·马利基在声明中警告， 任何针对平民及民用设施的袭击将招致坚决军事回应。 与此同时，OPEC+正就延续当前产量配额展开讨论，市场对供应端的关注度持续上升。 上述事件与科威特爆炸、以色列备战声明及霍尔木兹海峡紧张态势同步发酵，共",
+     "source": "华尔街见闻",
+     "zh": "沙特吉赞炼油厂遇袭，OPEC+拟延长配额，布油重回96美元"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月27日",
@@ -2400,22 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "欧洲市值最高的软件公司SAP正筹划一轮至少1万人的裁员，以推动公司向AI时代转型，这家老牌企业软件巨头的组织与产品逻辑将随之重写。 11月26日，据彭博援引知情人士透露，德国思爱普Sap正在准备一项裁减至少1万个岗位的计划， 将影响其全球至少9%的员工，所有部门均被要求梳理可能存在裁撤空间的领域，产品与工程部门以及销售部门是重点。 据报道，作为此次变革的一部分， Sap领导层将继续重新设计其产品开发与销售模式。 Sap在一份声明中表示： Sap持续审查其组织架构，以确保与公司战略和客户需求保持一致。 对投资者而言，这意味着SAP可能再度启动一轮与2024年规模相当的重组，短期将带来费用计提与业",
      "source": "华尔街见闻",
      "zh": "报道：Sap拟在AI重组中裁减至少1万个岗位，影响其全球至少9%的员工"
-    },
-    {
-     "title": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律",
-     "link": "https://wallstreetcn.com/articles/3786793",
-     "pubDate": "Fri, 27 Nov 2026 04:23:59 +0800",
-     "summary": "Pablo Hernandez de Cos即将出任欧洲央行行长，接替提前离任的拉加德，西班牙将首次执掌欧元区货币政策。 据彭博报道， 随着荷兰政府向欧洲同僚的共识靠拢，各国领导人预计将于周四在布鲁塞尔正式提名现年55岁的De Cos。他将接替拉加德，拉加德将提前结束任期，于2月7日离开欧洲央行。 尽管De Cos仍需接受欧洲议会听证，但议会的意见不具备约束力，当前已在推进的政治共识意味着其行长任命基本板上钉钉。 欧洲理事会主席Costa表示， 欧元区成员国同意由推荐的原西班牙央行行长de Cos出任下一届欧洲央行行长，同意对Boone、Brunnermeier出任欧洲央行官员的推荐。 这为1",
-     "source": "华尔街见闻",
-     "zh": "欧央行迎新掌门！西班牙前央行行长De Cos接替拉加德，货币政策偏鸽，强调财政纪律"
-    },
-    {
-     "title": "全球燃油供应回升，炼油利润跌至数月低点",
-     "link": "https://wallstreetcn.com/articles/3786801",
-     "pubDate": "Fri, 27 Nov 2026 04:16:24 +0800",
-     "summary": "伊朗战争对能源市场的冲击正在退潮。随着全球炼厂开足马力补充供应、中东出口恢复以及石油消费走弱，将原油加工为燃油的利润已跌至数月来最低水平，消费者、企业和央行由此获得了一丝暂时的通胀缓解。 柴油裂解价差是衡量炼油利润的核心指标。据彭博报道，亚洲和欧洲柴油裂解价差已逼近7月以来最低，美国汽油裂解价差回落至战前水平，欧洲汽油裂解价差则跌至2023年以来的三年低点。 裂解价差走弱意味着成品油价格下跌快于原油，但绝对价格仍显著高于战前。这一转变直接影响通胀预期与炼厂盈利。 燃油成本是全球经济和货币政策的关键变量，裂解价差回落有助于缓解价格压力；但对炼油企业而言，这也意味着战时高利润难以持续。 供应恢复与",
-     "source": "华尔街见闻",
-     "zh": "全球燃油供应回升，炼油利润跌至数月低点"
     },
     {
      "title": "Sierra Madre targets 1,200 to 1,500 tonnes per day by Q3 next year while advancing 30,000-meter East District drilling",

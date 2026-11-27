@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/27 08:32:03",
+ "generated_at": "2026/11/27 08:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Celebrating Cultures And Equity On Thanksgiving Day",
+     "link": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
+     "pubDate": "Fri, 27 Nov 2026 00:26:38 +0000",
+     "summary": "There is an important subtext to this Thanksgiving Day in the United States. A “blue tsunami” has occurred, so, come January, the Democratic party will control the House of Representatives and the Senate. While there are many important elements to this upheaval, one thread connects them all: Democra",
+     "source": "CleanTechnica",
+     "zh": "Celebrating Cultures And Equity On Thanksgiving Day"
+    },
+    {
      "title": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
      "link": "https://oilprice.com/Geopolitics/Africa/Ukraines-Strike-in-Benghazi-Threatens-the-Deal-That-Keeps-Libya-at-Peace.html",
      "pubDate": "Thu, 26 Nov 2026 18:00:00 -0600",
@@ -1071,14 +1079,6 @@
      "summary": "The company launches a competitive bidding process for up to 150 megawatts of new Michigan solar energy. DTE Energy has announced plans to add up to 150 megawatts of new solar energy in Michigan, creating construction jobs, supporting local communities, and saving customers money on fuel costs. Beca",
      "source": "CleanTechnica",
      "zh": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs"
-    },
-    {
-     "title": "Europe’s Solar Problem Is No Longer Solar",
-     "link": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
-     "pubDate": "Wed, 25 Nov 2026 23:51:55 +0000",
-     "summary": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up. By Prof Ray Wills SolarPower Europe’s September mid-year assessment describes a familiar contradiction: solar is contributing more to energy security and affordability, yet weakening p",
-     "source": "CleanTechnica",
-     "zh": "Europe’s Solar Problem Is No Longer Solar"
     },
     {
      "title": "What is holding back bidirectional EV charging as a grid resource?",
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+     "link": "https://www.techmeme.com/261126/p26#a261126p26",
+     "pubDate": "Thu, 26 Nov 2026 19:30:01 -0500",
+     "summary": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &nbsp; &mdash;&nbsp; Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legis",
+     "source": "Techmeme",
+     "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
+    },
+    {
      "title": "华为还是没忘了我们这些“穷哥们”",
      "link": "https://www.huxiu.com/article/4908788.html?f=rss",
      "pubDate": "Fri, 27 Nov 2026 08:26:41 +0800",
@@ -1767,6 +1775,30 @@
      "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，题图来自：视觉中国 马尔萨斯陷阱的原意指：在前工业社会，技术进步带来的产出增加，往往会被更快的人口增长吃掉，结果人均收入长期被压在&ldquo;刚好能活&rdquo;的水平附近。 逻辑来自马尔萨斯《人口论》：人口倾向于按几何级数增长，粮食和生活资料更接近算术级数增长；一旦生活改善，出生率上升、死亡率下降，人口扩张，摊薄土地与粮食，实际工资回落。若人口超过承载力，就会通过&ldquo;积极抑制&rdquo;&mdash;&mdash;饥荒、瘟疫、战争、婴儿死亡率上升&mdash;&mdash;或&ldquo;预防性抑制&rdquo;&mdash",
      "source": "虎嗅",
      "zh": "资本的马尔萨斯陷阱"
+    },
+    {
+     "title": "笔记本支持合盖休眠，Linux Mint 27 Beta 版开放下载",
+     "link": "https://www.ithome.com/1/033/158.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:23:56 GMT",
+     "summary": "IT之家 11 月 27 日消息，当地时间 26 日，据外媒 Neowin 报道，Linux Mint 27 的首批 Beta 测试镜像现已正式开放下载。新版本代号为 Adrien，基于 Ubuntu 26.04 LTS 打造，Cinnamon、MATE 和 Xfce 三个桌面版本的测试镜像均已获准发布。 对于笔记本用户而言，Linux Mint 27 最值得期待的变化之一是 休眠功能终于回归 ，设置过程更为简便。新版本还带来了几款新应用：系统监控工具、终端模拟器和压缩包管理工具。 IT之家汇总该版本带来的主要变化如下： 睡眠模式 合上笔记本电脑屏幕后，系统通常会进入“挂起”状态。该功能会先将",
+     "source": "IT之家",
+     "zh": "笔记本支持合盖休眠，Linux Mint 27 Beta 版开放下载"
+    },
+    {
+     "title": "DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额",
+     "link": "https://www.ithome.com/1/033/157.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:21:03 GMT",
+     "summary": "IT之家 11 月 27 日消息，昨日起，有部分 DeepSeek 用户反馈，网页端和移动端 App 内正在灰度测试“显示本轮消耗额度”功能。 用户在完成一轮对话后，界面会弹出详情页，展示本次交互消耗的 Token 数量及其对应的估算金额（价格和 API 持平）。尽管当前面向个人用户的对话服务依然免费，但该功能让单次对话背后的计算成本变得可见。 根据用户提供的截图，额度按“空闲时段”价格估算。计费拆分为三个维度： 输入缓存命中部分，单价为 0.02 元 / 百万 tokens，本轮用量约 18.5 万，折合 0.0037 元； 输入缓存未命中部分，单价为 1 元 / 百万 tokens，用量约",
+     "source": "IT之家",
+     "zh": "DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额"
+    },
+    {
+     "title": "民间移植 PC 版《GTA 6》游戏多人模式演示曝光，帧率约 25~30 FPS",
+     "link": "https://www.ithome.com/1/033/156.htm",
+     "pubDate": "Fri, 27 Nov 2026 00:20:44 GMT",
+     "summary": "IT之家 11 月 27 日消息，根据 Portwatch 网站认证，民间移植的 PC 版《侠盗猎车手 VI》（GTA6）已实现多人模式。视频发布者 TeK 表示， 其团队已在同一游戏世界中，实现同步显示多名玩家角色与载具，并加入“近距离语音聊天”功能，游戏帧率，视频所显示的运行帧率约为每秒 25 至 30 帧。 IT之家附上相关视频如下： 追踪非官方《GTA 6》PC 移植进展的社区项目 PortWatch VI 随后表示，已核实该视频为真实内容。PortWatch VI 是一个由社区维护的追踪网站，专门记录将泄露的主机版《GTA 6》构建移植、重编译或模拟到 PC 上的各类尝试，并追踪民间",
+     "source": "IT之家",
+     "zh": "民间移植 PC 版《GTA 6》游戏多人模式演示曝光，帧率约 25~30 FPS"
     },
     {
      "title": "当阅读只为获取知识，我们将失去什么？",
@@ -1825,30 +1857,6 @@
      "zh": "三星酝酿 SPAC 框架，为 Galaxy S26 等手机引入苹果式“私有云”"
     },
     {
-     "title": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元",
-     "link": "https://www.ithome.com/1/033/152.htm",
-     "pubDate": "Fri, 27 Nov 2026 00:03:24 GMT",
-     "summary": "IT之家 11 月 27 日消息，国家广播电视总局第 17 号令《有线广播电视运营服务管理规定》与第 18 号令《交互式网络电视运营服务管理暂行规定》11 月 27 日起正式施行。 这两项规章均明确，有线电视与 IPTV 运营服务提供者应坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。违规者由县级以上广播电视主管部门责令改正，给予警告、通报批评；情节严重的，并处 1 万元以上 10 万元以下罚款。 图源：Pexels 这项禁令直接约束的是有线电视与 IPTV 的运营方，即用户通过运营商机顶盒接收电视信号的场景。两类服务中，有线电视实际用户截至 2026 年 6 月",
-     "source": "IT之家",
-     "zh": "有线电视与 IPTV 广告禁令今日生效：开机看全屏直播，违者最高罚 10 万元"
-    },
-    {
-     "title": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等",
-     "link": "https://www.ithome.com/1/033/151.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:54:42 GMT",
-     "summary": "IT之家 11 月 27 日消息，苹果 2026 年黑色星期五购物活动已率先在澳大利亚、新西兰和泰国上线，随后将陆续覆盖欧洲、美国和加拿大等市场。 本次活动将持续至 11 月 30 日（网络星期一），用户购买符合条件的苹果产品，可获得最高 300 美元（IT之家注：当前汇率约合人民币 1999 元）的 Apple Gift Card 礼品卡。用户可通过 Apple Store 零售店、Apple Store 应用和苹果官网参与活动。 需要注意的是，礼品卡只能用于后续购买，不能直接抵扣本次购买产品的价格。礼品卡可用于购买苹果产品及配件，也可支付 Apple Music、Apple TV、App ",
-     "source": "IT之家",
-     "zh": "苹果在部分地区上线 2026 黑五促销：购买指定产品可获 25~300 美元礼品卡，支持 iPhone、Mac、iPad 等"
-    },
-    {
-     "title": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”",
-     "link": "https://www.ithome.com/1/033/150.htm",
-     "pubDate": "Thu, 26 Nov 2026 23:52:28 GMT",
-     "summary": "IT之家 11 月 27 日消息，科技媒体 sammyguru 昨日（11 月 26 日）发布博文， 报道称距离三星发布 Galaxy S27 Pro、Galaxy S27 Ultra 还有约 2 个月时间（预估 2027 年 1 月发布），相关零部件已提前现身网络，涵盖充电接口小板、主板排线等。 目前曝光的两款充电接口板上分别印有 SM-S957B 和 SM-S958B 的型号标识，前者据称对应 Galaxy S27 Pro，后者对应 Galaxy S27 Ultra。此外，S27 Ultra 的主板排线上还出现了面向美国运营商的型号，以及“MAIN”“SUB”“USB”等接口标注。IT之家",
-     "source": "IT之家",
-     "zh": "三星 Galaxy S27 Pro / Ultra 手机发布倒计时，内部零件已先“露脸”"
-    },
-    {
      "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
      "link": "https://www.tmtpost.com/8219586.html",
      "pubDate": "Fri, 27 Nov 2026 07:20:00 +0800",
@@ -1868,7 +1876,7 @@
      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
      "link": "https://kendell.dev/blog/arkwrapper/",
      "pubDate": "Thu, 26 Nov 2026 21:59:19 +0000",
-     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 24 # Comments: 4",
      "source": "Hacker News",
      "zh": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
     },
@@ -1876,7 +1884,7 @@
      "title": "AI made self-hosting fun again",
      "link": "https://janlukas.blog/posts/ai-self-hosting",
      "pubDate": "Thu, 26 Nov 2026 21:47:45 +0000",
-     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 212 # Comments: 120",
+     "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 226 # Comments: 131",
      "source": "Hacker News",
      "zh": "AI made self-hosting fun again"
     },
@@ -1884,17 +1892,17 @@
      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
      "pubDate": "Thu, 26 Nov 2026 21:08:05 +0000",
-     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 205 # Comments: 38",
+     "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 211 # Comments: 39",
      "source": "Hacker News",
      "zh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad"
     },
     {
-     "title": "Company Culture = Slack Emoji ÷ √Headcount",
-     "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-     "pubDate": "Thu, 26 Nov 2026 20:49:49 +0000",
-     "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 70 # Comments: 12",
+     "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+     "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+     "pubDate": "Thu, 26 Nov 2026 20:39:05 +0000",
+     "summary": "Article URL: https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo Comments URL: https://news.ycombinator.com/item?id=50659532 Points: 31 # Comments: 20",
      "source": "Hacker News",
-     "zh": "Company Culture = Slack Emoji ÷ √Headcount"
+     "zh": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo"
     },
     {
      "title": "Is Alice Huang a spy or not?",
@@ -1916,7 +1924,7 @@
      "title": "Top-cited AI scientists at four US companies compared",
      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
      "pubDate": "Thu, 26 Nov 2026 19:44:31 +0000",
-     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 26 # Comments: 15",
+     "summary": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 27 # Comments: 18",
      "source": "Hacker News",
      "zh": "Top-cited AI scientists at four US companies compared"
     },
@@ -1983,14 +1991,6 @@
      "summary": "今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。",
      "source": "Solidot",
      "zh": "今天的老年人相比上一代人记忆力衰退放缓"
-    },
-    {
-     "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
-     "link": "https://www.techmeme.com/261126/p20#a261126p20",
-     "pubDate": "Thu, 26 Nov 2026 10:50:27 -0500",
-     "summary": "Cristian Dina / The Next Web : Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD &nbsp; &mdash;&nbsp; SK hynix, Samsung and AMD's venture arms joined the Series C. New chief executive Kevin Po",
-     "source": "Techmeme",
-     "zh": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)"
     }
    ]
   },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "X finally launches parental controls for teen accounts",
+     "link": "https://www.gsmarena.com/x_finally_launches_parental_controls_for_teen_accounts-news-75655.php",
+     "pubDate": "Fri, 27 Nov 2026 01:28:02 +0100",
+     "summary": "X says it's not designed for or promoted to children, but anyone aged 13 or older can sign up, and teen accounts already default to protected mode, with sensitive media restricted and targeted ads blocked. Today the platform is adding its first-ever Parental Controls on top of those defaults, aimed ",
+     "source": "GSMArena",
+     "zh": "X finally launches parental controls for teen accounts"
+    },
     {
      "title": "The US will hit China and 13 other trading partners with fresh tariffs, affecting Apple",
      "link": "https://www.gsmarena.com/the_us_will_hit_china_and_13_other_trading_partners_with_fresh_tariffs_affecting_apple-news-75659.php",
@@ -2185,14 +2193,6 @@
      "zh": "Unihertz shows off Titan 2 Elite in new white color, and you can pre-order now"
     },
     {
-     "title": "Last call for Amazon UK's top Black Friday deals: flagships, foldables, mid-rangers and more",
-     "link": "https://www.gsmarena.com/last_call_for_amazon_uks_top_black_friday_deals_flagships_foldables_midrangers_and_more-news-75652.php",
-     "pubDate": "Thu, 26 Nov 2026 18:11:02 +0100",
-     "summary": "The week of sales preceding Black Friday is coming to an end – but you still have enough time to pick up a new smartphone on sale. In fact, the prices of several models have gone down since the sales started. The prices of foldables in particular have seen notable downward corrections since last wee",
-     "source": "GSMArena",
-     "zh": "Last call for Amazon UK's top Black Friday deals: flagships, foldables, mid-rangers and more"
-    },
-    {
      "title": "XTEINK’s pocket-sized X4 Pro e-reader is an easy stocking stuffer at $84",
      "link": "https://9to5google.com/2026/11/26/xteinks-pocket-sized-x4-pro-e-reader-is-an-easy-stocking-stuffer-at-84/",
      "pubDate": "Thu, 26 Nov 2026 17:07:10 +0000",
@@ -2249,6 +2249,54 @@
    "total": 13,
    "items": [
     {
+     "title": "今年已跌11%！欧元对人民币势创二十年来最大年度跌幅",
+     "link": "https://wallstreetcn.com/articles/3786809",
+     "pubDate": "Fri, 27 Nov 2026 08:41:31 +0800",
+     "summary": "欧元正迈向二十年来对人民币的最大年度跌幅。 截至11月27日，欧元兑人民币报7.3064附近，接近2023年低点，年内累计下挫约11%。若当前的下跌趋势得以维持，或创2005年来最大跌幅。 据彭博报道，法国政局动荡，加上美国利率预期相对高企，令投资者撤离欧元。与此同时，创纪录的贸易顺差也在支撑人民币。 据欧盟统计局数据，9月欧元区对华贸易逆差同比扩大18.5%，至417亿欧元，相当于日均近14亿欧元（约合15亿美元）。ABN Amro Bank NV的经济学家认为，贸易错配的规模意味着汇率调整只能解释其中一部分问题。 政治与利率：欧元承压的两条主线 法国政局动荡削弱了市场对欧元的信心 。与此同",
+     "source": "华尔街见闻",
+     "zh": "今年已跌11%！欧元对人民币势创二十年来最大年度跌幅"
+    },
+    {
+     "title": "德银预计2027年“加息三次，标普9000点”，背后是同一股力量",
+     "link": "https://wallstreetcn.com/articles/3786813",
+     "pubDate": "Fri, 27 Nov 2026 08:37:25 +0800",
+     "summary": "德意志银行在最新发布的2027年全球展望中提出，标普500指数有望在2027年底升至9000点。不过，该行预计美联储还将实施三次加息，联邦基金利率或升至4.625%。 这两项看似方向不同的预测，指向同一个核心变量： AI资本开支。 德银认为，AI投资将继续带动美国增长、企业盈利和股市表现；但与此同时，相关投资也可能加剧通胀压力、推高融资成本，并放大信用市场的脆弱性。 该行股票策略团队看好科技股及美国、亚洲市场；但该行信用策略团队建议配置标普500指数看跌期权，以应对AI资本开支减速带来的市场风险。 AI资本开支支撑增长，但生产率红利或更晚显现 该行首席经济学家David Folkerts-La",
+     "source": "华尔街见闻",
+     "zh": "德银预计2027年“加息三次，标普9000点”，背后是同一股力量"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 00:31:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "从年赚20%到单月转负，华尔街最爱的套利交易“失灵了”",
+     "link": "https://wallstreetcn.com/articles/3786812",
+     "pubDate": "Fri, 27 Nov 2026 08:30:56 +0800",
+     "summary": "华尔街最赚钱、最可靠的交易之一正在出现裂痕。 据彭博11月27日报道，2026年表现强劲的套利交易（carry trade）近期明显承压：彭博外汇套利指数今年累计上涨6.8%，有望创2022年以来最佳年度表现并实现连续第六年上涨，但在今年每个月都录得正收益之后， 11月正走向年内首次单月下跌 ，跌幅0.9%。高盛、富国银行、花旗等机构相继表态，认为超额收益的空间正在收窄， 套利交易不再是“买入后无需理会”的策略 。 环境逆转的直接触发因素是风险偏好降温。 人工智能相关押注出现裂痕，削弱了市场风险偏好并推高波动率，而套利交易恰恰依赖市场平静才能积累收益。与此同时，巴西大选意外结果提供了最鲜明的风",
+     "source": "华尔街见闻",
+     "zh": "从年赚20%到单月转负，华尔街最爱的套利交易“失灵了”"
+    },
+    {
+     "title": "A股热点前瞻丨广东印发算力发展“十五五”规划；摩根大通上调贵州茅台至超配",
+     "link": "http://finance.eastmoney.com/news/11874,202611273941268441.html",
+     "pubDate": "Fri, 27 Nov 2026 08:29:34 +0800",
+     "summary": "①广东算力规划明确智算目标，国产算力链获政策加持； ②八部门印发服贸“十五五”规划，数字服务出海空间打开； ③三部门部署新一代 通信 网建设，6G商用进程有望加快； ④ 摩根大通 上调 贵州茅台 至超配，目标价1800元； ⑤国内首台16兆瓦级燃机通过鉴定，自主燃机迎商业化拐点； ⑥ 珠免集团 拟全资控股免税公司，区域免税整合提速。 盘面回顾 11月26日，沪指微涨0.01%，深成指险守万点大关，创业板指涨0.29%，两市成交仅1.32万亿元。 贵金属 、 元件 、水产、 煤炭 等板块表现活跃， 生物制品 、民航、 教育 等板块调整。 广东算力“十五五”规划印发 鼓励优先用国产算力芯片 广东省",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨广东印发算力发展“十五五”规划；摩根大通上调贵州茅台至超配"
+    },
+    {
+     "title": "鸿蒙智行以“全周期耐久”解题电池安全",
+     "link": "http://www.eeo.com.cn/2026/1127/1104620.shtml",
+     "pubDate": "Fri, 27 Nov 2026 08:25:54 +0800",
+     "summary": "据鸿蒙智行方面介绍，华为巨鲸电池平台提前五年满足动力电池新国标，把安全从“新车过关”升级成“全周期考量”。",
+     "source": "经济观察网",
+     "zh": "鸿蒙智行以“全周期耐久”解题电池安全"
+    },
+    {
      "title": "暴跌40%后，铠侠成日本最便宜蓝筹股，华尔街“压倒性看多”",
      "link": "https://wallstreetcn.com/articles/3786811",
      "pubDate": "Fri, 27 Nov 2026 08:25:23 +0800",
@@ -2265,12 +2313,44 @@
      "zh": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks"
     },
     {
+     "title": "500多万元的“迷你基” 靠躺平躲过下跌 年内收益进前十",
+     "link": "http://finance.eastmoney.com/news/1344,202611273941263295.html",
+     "pubDate": "Fri, 27 Nov 2026 08:16:54 +0800",
+     "summary": "股票仓位不足三成，基金规模仅有500多万元，一只鲜少受到市场关注的迷你基金，却挤进了今年主动权益基金业绩前十。 临近年末，主动权益基金业绩分化愈发明显。Wind数据显示，截至最新净值披露，超5100只主动权益基金中，近九成基金出现亏损，年内平均收益率为-16.60%，首尾业绩相差超过153个百分点。 在为数不多的绩优基金中，由刘志强管理的先锋聚优颇为特别。该基金年内收益达到39.35%，暂居主动权益基金业绩第十位，年内最大回撤仅为11.96%，远低于排名在其之前的9只基金。截至三季度末，该基金股票仓位仅为25.80%，也是年内业绩前十的基金中，唯一一只股票仓位不足六成的产品。 财联社记者进一步",
+     "source": "东方财富资讯",
+     "zh": "500多万元的“迷你基” 靠躺平躲过下跌 年内收益进前十"
+    },
+    {
+     "title": "马斯克豪赠加码：承诺每年向所有美国儿童捐赠一股SpaceX",
+     "link": "http://finance.eastmoney.com/news/1344,202611273941262761.html",
+     "pubDate": "Fri, 27 Nov 2026 08:14:21 +0800",
+     "summary": "当地时间周四，全球首富、 SpaceX 和 特斯拉 公司创始人埃隆·马斯克表示， 他将每年向美国所有孩子再捐赠一股 SpaceX 股份 。 “今后每年，我都会向美国所有的孩子再捐赠一股 SpaceX 股票。”马斯克在社交平台X上表示。 马斯克是在回复科技博主Steven Mark Ryan的帖子时作出这一表态的。 Ryan的帖子引用了马斯克11月25日在X上作出的赠股承诺：“美国每名儿童都将获得两股 SpaceX股票，一股来自公司，另一股来自于我本人”，并评论称“很难说出比这更棒的慈善之举”。 马斯克在这条回复中并未说明年度捐赠计划何时开始，是否将通过“特朗普账户”进行、哪些儿童符合资格，以及",
+     "source": "东方财富资讯",
+     "zh": "马斯克豪赠加码：承诺每年向所有美国儿童捐赠一股SpaceX"
+    },
+    {
+     "title": "事关阿斯麦在华业务 荷兰表态力阻美国MATCH法案",
+     "link": "http://finance.eastmoney.com/news/11158,202611273941257886.html",
+     "pubDate": "Fri, 27 Nov 2026 08:10:12 +0800",
+     "summary": "面对美国试图进一步插手 阿斯麦 （ASML）对华业务的做法，荷兰政府再次公开表达不满。荷兰外交大臣贝伦德森25日在访问北京期间表示，荷兰政府正努力阻止美国通过一项可能进一步限制 阿斯麦 在华业务的法案。 贝伦德森称，荷兰政府当前的工作重点是阻止美国通过所谓《硬件技术控制多边协同法案》（MATCH法案）。他表示，荷兰始终将自主决定本国的出口管制政策，不希望看到具有域外效力的单边决定。 美国国会议员正试图将MATCH法案纳入年度国防授权法案，推动荷兰、日本等国进一步收紧对华 半导体 制造设备出口管制。相关限制不仅涉及设备销售，还可能延伸至已售设备的维护和维修服务。如果荷兰接受这一安排，将对 阿斯麦",
+     "source": "东方财富资讯",
+     "zh": "事关阿斯麦在华业务 荷兰表态力阻美国MATCH法案"
+    },
+    {
      "title": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤",
      "link": "https://wallstreetcn.com/articles/3786807",
      "pubDate": "Fri, 27 Nov 2026 08:07:00 +0800",
      "summary": "欧洲股市周四反弹，美国股指期货在感恩节假期提前休市前维持涨势。交易员眼下最关心的问题是：在美元周三午间突然走弱之后，AI 股下午出现的急升，究竟意味着持续反转的开始，还是又一轮熊市反弹。 瑞银（UBS）股票交易员Mark Paski周三向客户表示， 他正在关注拥挤的消费必需品避险交易是否出现动能衰减的迹象，而这可能是AI股正在筑底的信号。 Paski指出，更有力的信号将出现在可口可乐、Keurig Dr Pepper、宝洁、高露洁-棕榄和沃尔玛出现实质性抛售之时。但他同时表示， 防御性股票的全面平仓尚未出现。 上述判断代表了市场对“避险交易与AI动量交易”这两大拥挤头寸相对强弱的关注，直接影响",
      "source": "华尔街见闻",
      "zh": "瑞银交易员：必选消费安全交易降温或是AI股见底信号，但防御股尚未普遍回撤"
+    },
+    {
+     "title": "11月27日投资日历 | 国家统计局公布10月规模以上工业企业利润数据",
+     "link": "http://finance.eastmoney.com/news/11848,202611273941225360.html",
+     "pubDate": "Fri, 27 Nov 2026 08:01:21 +0800",
+     "summary": "（1）11月27日将有5715亿元隔夜逆回购到期。 （2）第二十四届广州国际 汽车 展览会将于11月27日至12月6日在广交会展馆举办，以“新科技?新生活”为主题，11月27日为媒体日。 （3）2026上海国际智慧康养产业博览会将于11月27日至29日在上海展览中心举办，以“银龄无界，智享年华”为主题。 （4）第二届雷达无线电产业大会将于11月27日至29日在南京国际展览中心举办，以“感知无界?智链未来”为主题。 （5）北京医学会风湿病学分会第26届学术年会将于11月27日至28日在北京国际饭店举办，以“关节炎与消化系统损害”为主题。 （6） *ST沐邦 ：将撤销退市风险警示并继续被实施其他风",
+     "source": "东方财富资讯",
+     "zh": "11月27日投资日历 | 国家统计局公布10月规模以上工业企业利润数据"
     },
     {
      "title": "MoonPay and Highnote file for national bank charters",
@@ -2289,52 +2369,12 @@
      "zh": "Shuttle secures FCA authorisation to help startups raise capital across borders"
     },
     {
-     "title": "中国中免：融资净偿还2606.17万元，融资余额30.74亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941224250.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:35 +0800",
-     "summary": "交易所最新数据显示， 中国中免 于2026年11月26日获融资买入7517.68万元，融资偿还1.01亿元， 当日融资净偿还2606.17万元。 目前，该股融资余额30.74亿，占流通市值比例为3.27%。 该股当日融券卖出1.01万股，融券偿还2.04万股， 融券净偿还1.03万股。 目前，该股融券余量27.81万股，融券余额1340.16万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
-     "source": "东方财富股票",
-     "zh": "中国中免：融资净偿还2606.17万元，融资余额30.74亿元"
-    },
-    {
-     "title": "博隆技术：融资净偿还198.07万元，融资余额1.4亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941224186.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:32 +0800",
-     "summary": "交易所最新数据显示， 博隆技术 于2026年11月26日获融资买入105.82万元，融资偿还303.89万元， 当日融资净偿还198.07万元。 目前，该股融资余额1.40亿，占流通市值比例为9.43%。 该股当日无融券交易。目前，该股融券余量3900股，融券余额16.98万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险",
-     "source": "东方财富股票",
-     "zh": "博隆技术：融资净偿还198.07万元，融资余额1.4亿元"
-    },
-    {
-     "title": "星湖科技：融资净偿还734.3万元，融资余额4.44亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941224084.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:31 +0800",
-     "summary": "交易所最新数据显示， 星湖科技 于2026年11月26日获融资买入601.14万元，融资偿还1335.44万元， 当日融资净偿还734.3万元。 目前，该股融资余额4.44亿，占流通市值比例为7.05%。 该股当日融券卖出1.25万股，融券偿还1.61万股， 融券净偿还3600股。 目前，该股融券余量60.03万股，融券余额227.51万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
-     "source": "东方财富股票",
-     "zh": "星湖科技：融资净偿还734.3万元，融资余额4.44亿元"
-    },
-    {
-     "title": "中国汽研：融资净偿还41.14万元，融资余额1.6亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941223948.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:30 +0800",
-     "summary": "交易所最新数据显示， 中国汽研 于2026年11月26日获融资买入441.96万元，融资偿还483.11万元， 当日融资净偿还41.14万元。 目前，该股融资余额1.60亿，占流通市值比例为1.09%。 该股当日融券卖出1.66万股，融券偿还4900股， 融券净卖出1.17万股。 目前，该股融券余量26.17万股，融券余额382.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
-     "source": "东方财富股票",
-     "zh": "中国汽研：融资净偿还41.14万元，融资余额1.6亿元"
-    },
-    {
-     "title": "宏力达：融资净偿还371.45万元，融资余额1.84亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941223885.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:30 +0800",
-     "summary": "交易所最新数据显示， 宏力达 于2026年11月26日获融资买入181.95万元，融资偿还553.40万元， 当日融资净偿还371.45万元。 目前，该股融资余额1.84亿，占流通市值比例为5.54%。 该股当日无融券交易。目前，该股融券余量9769股，融券余额23.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，",
-     "source": "东方财富股票",
-     "zh": "宏力达：融资净偿还371.45万元，融资余额1.84亿元"
-    },
-    {
-     "title": "康希诺：融资净偿还2454.34万元，融资余额2.95亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611273941223744.html",
-     "pubDate": "Fri, 27 Nov 2026 07:58:29 +0800",
-     "summary": "交易所最新数据显示， 康希诺 于2026年11月26日获融资买入1834.85万元，融资偿还4289.20万元， 当日融资净偿还2454.34万元。 目前，该股融资余额2.95亿，占流通市值比例为4.76%。 该股当日融券卖出5400股，融券偿还1200股， 融券净卖出4200股。 目前，该股融券余量1.39万股，融券余额74.82万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
-     "source": "东方财富股票",
-     "zh": "康希诺：融资净偿还2454.34万元，融资余额2.95亿元"
+     "title": "ETF追踪丨11月26日股票型ETF净申购88亿元 资金加仓创业板ETF易方达",
+     "link": "http://stock.eastmoney.com/news/11868,202611273941224569.html",
+     "pubDate": "Fri, 27 Nov 2026 08:00:10 +0800",
+     "summary": "东方财富 Choice数据显示，11月26日，ETF资金整体净流入2.76亿元，其中，股票型净流入88.38亿元。 股票型ETF中，当日净申购前3依次为：创业板ETF易方达，净申购46.35亿元；中证1000ETF南方，净申购43.45亿元；沪深300ETF易方达，净申购19.46亿元。 股票型ETF当日净赎回前3为：中证A500ETF国泰，净赎回6.93亿元；A500ETF南方，净赎回4.87亿元；中证1000ETF广发，净赎回3.43亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求",
+     "source": "东方财富资讯",
+     "zh": "ETF追踪丨11月26日股票型ETF净申购88亿元 资金加仓创业板ETF易方达"
     },
     {
      "title": "沙特吉赞炼油厂遇袭，OPEC+拟延长配额，布油重回96美元",
@@ -2345,28 +2385,12 @@
      "zh": "沙特吉赞炼油厂遇袭，OPEC+拟延长配额，布油重回96美元"
     },
     {
-     "title": "华尔街见闻早餐FM-Radio | 2026年11月27日",
-     "link": "https://wallstreetcn.com/articles/3786805",
-     "pubDate": "Fri, 27 Nov 2026 07:04:49 +0800",
-     "summary": "华见早安之声 要闻精选 中国 美国 针对中国进口产品税率将提升20% ， 中国外交部 ： 中方将继续采取必要措施捍卫自身正当权益 。 中国商务部 ： 坚决反对美对中国等经济体加征301关税 ；望美中推动对等降税安排尽快落地实施。 商务部 ：中方将密切关注欧方混动汽车保障措施后续调查进展。 国内四大商业银行 已与上市公司签订 股票回购增持贷款合同超6000亿元 。 香港联交所 披露恒大资金违规路径 ， 谴责 中国恒大与恒大物业，许家印等六人被认定不适合担任董事。 腾讯 AI制药成果登上《Nature》主刊 ，双靶点多肽实现从头设计。 海外 特朗普 称 Q3美国GDP数据造假 、 被蓄意压低 ，此",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年11月27日"
-    },
-    {
      "title": "Here are the major earnings before the open Friday",
      "link": "https://seekingalpha.com/news/4676738-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 18:00:09 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Here are the major earnings before the open Friday"
-    },
-    {
-     "title": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨",
-     "link": "https://wallstreetcn.com/articles/3786746",
-     "pubDate": "Fri, 27 Nov 2026 06:33:10 +0800",
-     "summary": "感恩节当天美股与美债市场全天休市，其他主要市场在人工智能抛售暂歇后普遍反弹。日经225指数与韩国综指收涨，欧洲股市同步走高。 中东供应风险继续发酵，原油连续第三个交易日上涨，铜价从11个月低位反弹，比特币横盘于6万美元上方。 周四，泛欧股指斯托克600涨1.80%至636.98点，德国DAX涨2.08%报25,215.52点，法国CAC40涨1.61%报8,108.74点，英国富时100涨1.75%报10,609.30点。全部板块收涨，约95%的成分股上涨。 同一天公布的欧央行10月会议纪要偏鹰，多数委员认为10月已具备加息条件，最终选择再等一轮数据。期货市场对12月加息25个基点的定价升到九",
-     "source": "华尔街见闻",
-     "zh": "美股感恩节休市，欧股涨1.8%收窄月跌幅，德指反弹2%，原油三连涨"
     },
     {
      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -2383,14 +2407,6 @@
      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
      "source": "MarketWatch",
      "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
-    },
-    {
-     "title": "英国帝国品牌大涨！美国奥驰亚考虑现金收购，日本烟草也在评估竞购",
-     "link": "https://wallstreetcn.com/articles/3786806",
-     "pubDate": "Fri, 27 Nov 2026 05:42:25 +0800",
-     "summary": "美国烟草巨头奥驰亚（Altria）正评估以全现金方式收购英国帝国品牌（Imperial Brands），同时与第三方商谈处置后者部分业务；据彭博报道，日本烟草亦在评估联手竞购，一场可能重塑全球卷烟格局的百亿美元级交易浮出水面。 奥驰亚周四公开确认，公司正在考虑对帝国品牌发起全现金收购，并已就帝国品牌部分业务与一个未具名的第三方展开磋商。彭博同日报道称，日本烟草正评估收购帝国品牌的可能性，并可能引入合作方、按区域拆分其资产。 消息推动伦敦上市的帝国品牌股价一度大涨17.6%，收盘涨幅13.3%，报3432便士，市值升至259亿英镑（约339.3亿美元）。 帝国品牌回应称，公司未与奥驰亚或任何第三",
-     "source": "华尔街见闻",
-     "zh": "英国帝国品牌大涨！美国奥驰亚考虑现金收购，日本烟草也在评估竞购"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2471,22 +2487,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend"
-    },
-    {
-     "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
-     "link": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 12:49:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend"
-    },
-    {
-     "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-     "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
-     "pubDate": "Thu, 26 Nov 2026 17:13:40 GMT",
-     "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
-     "source": "Financial Times",
-     "zh": "Andrew Bailey says unreleased AI models have raised encryption concerns"
     }
    ]
   },

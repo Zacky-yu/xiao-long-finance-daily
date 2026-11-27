@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 01:52:02",
+ "generated_at": "2026/11/28 02:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
-     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
-     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
-     "source": "KDnuggets",
-     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
-    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -32,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
+    {
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "source": "TechCrunch AI",
+     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
+    {
+     "title": "SteerSound：迈向更可靠的音频编辑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+     "source": "机器之心",
+     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Tekscend sees mold supply as key hurdle for AR glasses production",
+     "link": "https://www.digitimes.com/news/a20261120VL222/nanoimprint-component-ar-glasses-production-manufacturing.html",
+     "pubDate": "Fri, 27 Nov 2026 17:36:00 GMT",
+     "summary": "Optical component makers preparing to use nanoimprint technology for augmented reality (AR) glasses are struggling to find suitable master molds, according to Japan's Tekscend Photomask.",
+     "source": "DIGITIMES",
+     "zh": "Tekscend sees mold supply as key hurdle for AR glasses production"
+    },
     {
      "title": "TSMC Reveals Details of A14 Manufacturing Compared to N2P",
      "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/376876-tsmc-reveals-details-of-a14-manufacturing-compared-to-n2p/",
@@ -386,14 +394,6 @@ window.INDUSTRY_DATA = {
      "zh": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO"
     },
     {
-     "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
-     "link": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html",
-     "pubDate": "Fri, 27 Nov 2026 07:43:28 GMT",
-     "summary": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative l",
-     "source": "DIGITIMES",
-     "zh": "Phone chip demand may stay weak in 2027, recovery seen in 2028"
-    },
-    {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
      "link": "https://semiwiki.com/eda/siemens-eda/376688-four-signoff-assumptions-that-dont-survive-the-move-to-3d-ics/",
      "pubDate": "Thu, 26 Nov 2026 18:00:15 +0000",
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Prensilia launches new robotic hand for industrial humanoids and cobots",
+     "link": "https://roboticsandautomationnews.com/2026/11/27/prensilia-launches-new-robotic-hand-for-industrial-humanoids-and-cobots/107822/",
+     "pubDate": "Fri, 27 Nov 2026 17:57:17 +0000",
+     "summary": "Italian robotics company Prensilia has introduced NH1 Era, a robotic hand designed for humanoid and collaborative robots, combining versatile grasping capabilities with the grip force and durability required for industrial applications. Unveiled at SPS 2026 in Nuremberg, Germany, the robotic hand is",
+     "source": "Robotics & Automation",
+     "zh": "Prensilia launches new robotic hand for industrial humanoids and cobots"
+    },
+    {
      "title": "How to Move a Large Collection Without Losing Track of What You Own",
      "link": "https://roboticsandautomationnews.com/2026/11/27/how-to-move-a-large-collection-without-losing-track-of-what-you-own/107819/",
      "pubDate": "Fri, 27 Nov 2026 17:11:47 +0000",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "A truck crash on the Van Wyck or the BQE leaves two kinds of evidence behind. One is visible: the damage, the scene, the witnesses. The other sits inside the truck, in an electronic logging device (ELD), an engine control module and often a camera, and some of it can be overwritten within days. That",
      "source": "Robotics & Automation",
      "zh": "Best Truck Accident Lawyers in Queens, NY for 2027"
-    },
-    {
-     "title": "6 Best Car Accident Lawyers in Rochester, New York for 2027",
-     "link": "https://roboticsandautomationnews.com/2026/11/27/6-best-car-accident-lawyers-in-rochester-new-york-for-2027/107797/",
-     "pubDate": "Fri, 27 Nov 2026 13:41:05 +0000",
-     "summary": "A crash on I-490 at rush hour or a slide through a snowy intersection on East Avenue can leave you with medical bills, a damaged car and an insurance adjuster asking for a recorded statement within days. The lawyer you call first shapes almost everything that follows. The choice matters more now tha",
-     "source": "Robotics & Automation",
-     "zh": "6 Best Car Accident Lawyers in Rochester, New York for 2027"
     },
     {
      "title": "Robot Talk Episode 172 – Robots that learn like children, with Leticia Mara Berto",
@@ -1746,10 +1746,18 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "I'm Scared of AI",
+     "link": "https://thesoapbox.email/archive/3",
+     "pubDate": "Fri, 27 Nov 2026 17:45:31 +0000",
+     "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 23 # Comments: 15",
+     "source": "Hacker News",
+     "zh": "I'm Scared of AI"
+    },
+    {
      "title": "France Slips into Recession as Exports Sag",
      "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5",
      "pubDate": "Fri, 27 Nov 2026 17:21:51 +0000",
-     "summary": "Article URL: https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5 Comments URL: https://news.ycombinator.com/item?id=50669280 Points: 7 # Comments: 4",
+     "summary": "Article URL: https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5 Comments URL: https://news.ycombinator.com/item?id=50669280 Points: 12 # Comments: 12",
      "source": "Hacker News",
      "zh": "France Slips into Recession as Exports Sag"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Palliative Care for the Chronically Online",
      "link": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
      "pubDate": "Fri, 27 Nov 2026 17:01:51 +0000",
-     "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "Palliative Care for the Chronically Online"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
      "pubDate": "Fri, 27 Nov 2026 15:40:31 +0000",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 100 # Comments: 45",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 111 # Comments: 60",
      "source": "Hacker News",
      "zh": "Credit card skimming scripts using WebRTC found on popular shopping sites"
     },
@@ -1885,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "False computer-checked proofs",
      "link": "https://cr.yp.to/proofs/falseccp.html",
      "pubDate": "Fri, 27 Nov 2026 15:26:09 +0000",
-     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 66 # Comments: 26",
+     "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 75 # Comments: 30",
      "source": "Hacker News",
      "zh": "False computer-checked proofs"
     },
@@ -1909,17 +1917,9 @@ window.INDUSTRY_DATA = {
      "title": "GPT 6.2 Astra Solves a Historical Mystery",
      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
      "pubDate": "Fri, 27 Nov 2026 15:03:17 +0000",
-     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 100 # Comments: 43",
+     "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 110 # Comments: 45",
      "source": "Hacker News",
      "zh": "GPT 6.2 Astra Solves a Historical Mystery"
-    },
-    {
-     "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-     "link": "https://bouncemarket.minhanhday.com/",
-     "pubDate": "Fri, 27 Nov 2026 15:01:50 +0000",
-     "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly",
-     "source": "Hacker News",
-     "zh": "Show HN: bouncemarket – a live prediction market game for a bouncing ball"
     },
     {
      "title": "我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施",
@@ -1993,6 +1993,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday",
+     "link": "https://9to5google.com/2026/11/27/aawireless-android-auto-carplay-wireless-adapter-black-friday-sale/",
+     "pubDate": "Fri, 27 Nov 2026 18:05:00 +0000",
+     "summary": "Android Auto and Apple CarPlay are important tools for any drive, but many cars can’t use them without a wire. That’s where wireless adapters step in, and AAWireless’ Android Auto + CarPlay adapter is the best I’ve used, and it’s got a solid Black Friday discount in tow. more…",
+     "source": "9to5Google",
+     "zh": "The best wireless Android Auto + CarPlay adapter I’ve used gets a rare discount for Black Friday"
+    },
+    {
+     "title": "Here are the best Black Friday iPad deals",
+     "link": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
+     "pubDate": "Fri, 27 Nov 2026 18:03:10 +0000",
+     "summary": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off , an equally wild $400 off M5 MacBook Air , and now even lower prices on the new M6 MacBook Pro at $250 off , but there are some solid iPad discounts live today too. While perhaps not as eventf",
+     "source": "9to5Mac",
+     "zh": "Here are the best Black Friday iPad deals"
+    },
+    {
+     "title": "Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems",
+     "link": "https://9to5google.com/2026/11/27/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems/",
+     "pubDate": "Fri, 27 Nov 2026 17:57:35 +0000",
+     "summary": "Black Friday is one of the best times of the year to tackle some of the bigger upgrades around your...",
+     "source": "9to5Google",
+     "zh": "Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems"
+    },
+    {
+     "title": "Three new iPhones will launch early next year, here’s what’s coming",
+     "link": "https://9to5mac.com/2026/11/27/three-new-iphones-will-launch-early-next-year-heres-whats-coming/",
+     "pubDate": "Fri, 27 Nov 2026 17:57:23 +0000",
+     "summary": "Apple recently launched the iPhone 18 Pro and iPhone Duo, but three more new iPhone models will reportedly arrive in early 2027. Here’s what’s coming. more…",
+     "source": "9to5Mac",
+     "zh": "Three new iPhones will launch early next year, here’s what’s coming"
+    },
+    {
+     "title": "Soundcore Nebula P1i projector drops to a record-low $279",
+     "link": "https://www.androidauthority.com/nebula-p1i-projector-deal-3740617/",
+     "pubDate": "Fri, 27 Nov 2026 17:53:25 +0000",
+     "summary": "Soundcore's budget Google TV projector with flip-out speakers is $120 off ahead of Black Friday.",
+     "source": "Android Authority",
+     "zh": "Soundcore Nebula P1i projector drops to a record-low $279"
+    },
     {
      "title": "TCL NXTPAPER displays look amazing, and they’re up to 38% off right now",
      "link": "https://9to5google.com/2026/11/27/tcl-nxtpaper-black-friday-sale-2026/",
@@ -2082,14 +2122,6 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon’s newest Ring Battery Doorbell beats Nest with 2K, and it’s only $39 right now"
     },
     {
-     "title": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do",
-     "link": "https://9to5google.com/2026/11/27/google-pixel-prepares-new-priority-notifications-feature-heres-what-it-will-do/",
-     "pubDate": "Fri, 27 Nov 2026 16:30:00 +0000",
-     "summary": "Google has a new “Priority Notifications” feature in the works for Pixel phones with the ability to pull your most important information to the top of the screen and even highlight it with a bit of color. more…",
-     "source": "9to5Google",
-     "zh": "Google Pixel prepares new ‘Priority Notifications’ feature – here’s what it will do"
-    },
-    {
      "title": "Black Friday deals: AirPods Pro 3 $100 off, M6 MacBook Pro now $250 off, M5 Air $400 off, Series 12, more",
      "link": "https://9to5mac.com/2026/11/27/apple-black-friday-deals-airpods-macbook-watch/",
      "pubDate": "Fri, 27 Nov 2026 16:27:22 +0000",
@@ -2136,38 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has launched several exciting new products in the last month, including iPhone Duo and the redesigned MacBook Pro. But my personal favorite new product is Apple’s HomeView . Here’s how I’ve been using it. more…",
      "source": "9to5Mac",
      "zh": "Apple’s new ‘HomeView’ is exactly the home product I’ve been waiting for"
-    },
-    {
-     "title": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming",
-     "link": "https://www.androidauthority.com/google-ai-mode-library-pin-rename-threads-3740893/",
-     "pubDate": "Fri, 27 Nov 2026 16:04:15 +0000",
-     "summary": "AI Mode could soon be much easier to navigate.",
-     "source": "Android Authority",
-     "zh": "Google’s AI Mode could soon get a dedicated Library, pinned chats, and thread renaming"
-    },
-    {
-     "title": "2026 tech gift guide for Apple users",
-     "link": "https://9to5mac.com/2026/11/27/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
-     "pubDate": "Fri, 27 Nov 2026 16:00:00 +0000",
-     "summary": "It’s Black Friday, and I’ve updated my 2026 tech gift guide with today’s prices. These are products I’ve used myself and would give to the Apple users in my life. more…",
-     "source": "9to5Mac",
-     "zh": "2026 tech gift guide for Apple users"
-    },
-    {
-     "title": "AirPods Pro 3 one year later: Still the best, and getting even better",
-     "link": "https://9to5mac.com/2026/11/27/airpods-pro-3-one-year-later/",
-     "pubDate": "Fri, 27 Nov 2026 15:55:08 +0000",
-     "summary": "It’s been just over a year since Apple released AirPods Pro 3, and I can confidently say I’ve worn them every day since. After a year of heavy use, I’m even more convinced that AirPods Pro 3 are the best money you can spend on Apple gear (especially at current sale pricing). Buy AirPods Pro 3: $149 ",
-     "source": "9to5Mac",
-     "zh": "AirPods Pro 3 one year later: Still the best, and getting even better"
-    },
-    {
-     "title": "Google Docs can now do more with Microsoft Word documents without converting the file",
-     "link": "https://9to5google.com/2026/11/27/google-docs-microsoft-word-compare-documents/",
-     "pubDate": "Fri, 27 Nov 2026 15:55:00 +0000",
-     "summary": "Google Docs is getting an update in how it handles Microsoft Word documents, adding the ability to compare revisions without converting the file. more…",
-     "source": "9to5Google",
-     "zh": "Google Docs can now do more with Microsoft Word documents without converting the file"
     },
     {
      "title": "ChatGPT for Android could soon make calls and send texts",
@@ -2242,6 +2242,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "3 things to look out for on Monday",
+     "link": "https://seekingalpha.com/news/4677078-3-things-to-look-out-for-on-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 13:07:06 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "3 things to look out for on Monday"
+    },
+    {
+     "title": "U.S. equities close on top on Black Friday",
+     "link": "https://seekingalpha.com/news/4677074-us-equities-close-on-top-on-black-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 13:05:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. equities close on top on Black Friday"
+    },
+    {
+     "title": "SA analyst: Bulls have the edge heading into the final weeks of 2026",
+     "link": "https://seekingalpha.com/news/4677075-sa-analyst-bulls-have-the-edge-heading-into-the-final-weeks-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 13:01:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA analyst: Bulls have the edge heading into the final weeks of 2026"
+    },
+    {
+     "title": "Verizon in talks to buy Fidium in $6B deal — FT",
+     "link": "https://seekingalpha.com/news/4677076-verizon-in-talks-to-buy-fidium-in-6b-deal-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 12:55:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Verizon in talks to buy Fidium in $6B deal — FT"
+    },
+    {
+     "title": "美官员称美国空军云计算平台遭黑客入侵",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942116920.html",
+     "pubDate": "Sat, 28 Nov 2026 01:54:12 +0800",
+     "summary": "当地时间11月27日， 记者 获悉，一名美国官员证实，美国空军的 云计算 平台遭黑客入侵，此次 网络安全 事件可能导致敏感军事信息泄露。目前，官方尚未透露入侵发生的具体时间及其造成的实际影响。 美国空军发言人表示，国防部不会就特定网络和系统的安全状况、漏洞或运行状态发表评论。发言人同时称，空军正持续采取措施保护部门信息、系统和任务能力，确保关键作战资产的安全、韧性和可用性仍是首要任务。 近期，美国联邦机构接连发生 网络安全 事件。本周早些时候，知情人士称，联邦调查局（FBI）用于联邦、州和地方执法机构之间共享重要信息的国家犯罪信息中心（NCIC）近期遭到入侵。约两个月前，联邦调查局与荷兰国家警",
+     "source": "东方财富股票",
+     "zh": "美官员称美国空军云计算平台遭黑客入侵"
+    },
+    {
+     "title": "Tombill Mines names new CFO",
+     "link": "https://seekingalpha.com/news/4677077-tombill-mines-names-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 12:53:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tombill Mines names new CFO"
+    },
+    {
+     "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+     "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+     "pubDate": "Fri, 27 Nov 2026 17:50:22 GMT",
+     "summary": "SpaceX shares jumped in Friday trading after Elon Musk said on X that he would donate shares to American children every year.",
+     "source": "CNBC",
+     "zh": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations"
+    },
+    {
+     "title": "从超涨到超跌：白银暴跌近七成后，反弹将强于黄金？",
+     "link": "http://finance.eastmoney.com/news/1361,202611283942116737.html",
+     "pubDate": "Sat, 28 Nov 2026 01:49:18 +0800",
+     "summary": "财联社11月28日讯 从年初的“超涨”到如今的“超跌”， 白银 年内走出了一轮过山车行情。今年以来一度回避直接做多的瑞银近日转变态度，押注美联储加息周期结束后， 白银 的反弹幅度或将超过 黄金 。 据媒体当地时间11月27日报道， 瑞银（UBS）在致客户的报告中表示， 白银 已显超卖，该行目前倾向于在未来数月做多白银。 瑞银全球财富管理首席投资办公室策略师Dominic Schnider在最新报告中写道：“从12个月的维度看，我们认为白银已经超跌，正如它在2026年一季度初曾经超涨一样。” 他所说的“超涨”发生在今年年初。据媒体报道，白银曾于1月29日创下每盎司121.62美元的历史高点，2月",
+     "source": "东方财富股票",
+     "zh": "从超涨到超跌：白银暴跌近七成后，反弹将强于黄金？"
+    },
+    {
+     "title": "手握稀缺900兆赫频谱 美股小公司Anterix年内大涨280",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942116686.html",
+     "pubDate": "Sat, 28 Nov 2026 01:47:33 +0800",
+     "summary": "财联社11月28日讯 Anterix是美国900兆赫频段授权频谱的最大持有者。如今，这家总部位于新泽西州的公司正考虑更大规模地出售手中频谱，而正在拓展卫星直连终端业务的 SpaceX ，已经表明对这一频段感兴趣。 从服务电网起家，约85%的频谱仍可交易 Anterix过去主要向地方 公用事业 公司出租频谱，帮助这些企业推进电网现代化。近年来，公司调整了策略，除直接出售频谱外，也在利用手中的频谱开发能带来经常性收入的服务。 目前，与Anterix签约的几家 公用事业 公司，合计仅使用了该公司所持频谱的约15%。据Anterix披露，其在全美持有的频谱资源中，约85%仍可供交易。 与此同时， Sp",
+     "source": "东方财富股票",
+     "zh": "手握稀缺900兆赫频谱 美股小公司Anterix年内大涨280"
+    },
+    {
+     "title": "联合国秘书长谴责针对科威特的无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942116889.html",
+     "pubDate": "Sat, 28 Nov 2026 01:42:14 +0800",
+     "summary": "当地时间11月27日，联合国秘书长古特雷斯通过新闻发言人迪雅里克发表声明，谴责11月26日针对科威特发动的 无人机 袭击。 古特雷斯表示声援科威特，并向遇难者家属致以诚挚慰问，同时祝愿伤者早日康复。此次袭击造成两名意大利公民死亡，一名科威特公民和一名巴基斯坦公民受伤。 古特雷斯对该地区局势持续升级深感担忧，呼吁各方保持克制，避免采取任何可能进一步破坏地区和平与安全、危及正在进行的外交努力的行动。敌对行动一旦重新爆发，将给该地区乃至更广泛范围带来灾难性后果。 古特雷斯重申，对话与外交仍然是实现该地区持久和平的唯一可行途径。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "联合国秘书长谴责针对科威特的无人机袭击"
+    },
+    {
      "title": "Advantage Energy holder to vote against sale to Canadian Natural Resources",
      "link": "https://seekingalpha.com/news/4677073-advantage-energy-holder-to-vote-against-sale-to-canadian-natural-resources?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 12:39:57 -0500",
@@ -2250,20 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "Advantage Energy holder to vote against sale to Canadian Natural Resources"
     },
     {
-     "title": "Valero breaks losing streak, but 'hold rating' and $300 warning loom",
-     "link": "https://seekingalpha.com/news/4677072-valero-breaks-losing-streak-but-hold-rating-and-300-warning-loom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 12:37:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Valero breaks losing streak, but 'hold rating' and $300 warning loom"
-    },
-    {
      "title": "威瑞森正就收购Fidium约60亿美元交易进行谈判 以扩大宽带业务版图",
      "link": "http://finance.eastmoney.com/news/11228,202611283942115395.html",
      "pubDate": "Sat, 28 Nov 2026 01:32:29 +0800",
      "summary": "威瑞森正就收购Fidium约60亿美元交易进行谈判，以扩大宽带业务版图。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "威瑞森正就收购Fidium约60亿美元交易进行谈判 以扩大宽带业务版图"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 17:31:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
      "title": "US tech stocks rise in latest market swing",
@@ -2282,76 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达股价翻红 此前一度下跌2%"
     },
     {
-     "title": "美团第三季度实现收入1156亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942115114.html",
-     "pubDate": "Sat, 28 Nov 2026 01:22:00 +0800",
-     "summary": "11月27日晚间，美团发布第三季度业绩报告。第三季度，美团实现收入1156亿元，同比增长21.6%，经调整净利润同比扭亏为盈。经营层面，随着外卖行业竞争环境趋于理性，叠加三季度暑期消费旺季效应，美团各项业务经营质量进一步提升，核心本地商业和新业务均保持增长。 “我们将不断推动产品与服务创新，坚定扩大生态与科技投入，持续为行业各方创造长期价值，帮大家吃得更好，生活更好。”美团CEO王兴表示。 新业务维持高增长 财报显示，第三季度美团核心本地商业保持稳健增长，新业务板块延续高增长态势。 分业务来看，外卖行业平均客单价同比明显回升。美团到店、 酒店 及旅游业务保持高质量增长。在此带动下，第三季度，核",
-     "source": "东方财富股票",
-     "zh": "美团第三季度实现收入1156亿元"
-    },
-    {
-     "title": "固德威：调排产拓渠道加快去库存",
-     "link": "http://stock.eastmoney.com/news/11134,202611283942114928.html",
-     "pubDate": "Sat, 28 Nov 2026 01:22:00 +0800",
-     "summary": "11月27日， 固德威 技术股份有限公司（以下简称“ 固德威 ”）举行2026年三季度业绩说明会，公司管理层围绕经营业绩、库存管理、储能业务发展及未来市场布局等话题与投资者展开交流。 固德威 主要从事 太阳能 、储能等 新能源 电力 电源设备的研发、生产和销售，主营产品包括光伏并网 逆变器 、储能 逆变器 、储能 电池 及户用系统等，并面向家庭、工商业用户及地面电站提供智慧能源管理整体解决方案。 三季报显示，2026年前三季度，固德威实现营业收入94.98亿元，同比增长53.34%；归属于上市公司股东的净利润4.31亿元，同比增长431.48%；归属于上市公司股东的扣除非经常性损益的净利润4.",
-     "source": "东方财富股票",
-     "zh": "固德威：调排产拓渠道加快去库存"
-    },
-    {
-     "title": "渝三峡A新增长曲线显现",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942114427.html",
-     "pubDate": "Sat, 28 Nov 2026 01:22:00 +0800",
-     "summary": "传统 涂料 企业重庆三峡油漆股份有限公司（以下简称“ 渝三峡A ”）对重庆蔚蓝时代节能技术有限公司（以下简称“蔚蓝时代”）的产业并购，正在交出阶段性答卷。 11月27日， 渝三峡A 相关负责人在接受《证券日报》记者采访时说，自纳入公司合并报表后，蔚蓝时代收入增长显著提速，多场景落地持续推进。与此同时， 渝三峡A “ 涂料 + 新材料 ”双轮驱动的战略框架逐步落地，一条新的增长曲线已现雏形。 渝三峡A是1994年登陆深交所的老牌工业 涂料 企业，核心主业为工业重防腐涂料。在传统涂料行业竞争加剧、增长空间受限背景下，公司选择通过产业并购寻找转型突破口。蔚蓝时代成立于2022年12月份，主营辐射制冷",
-     "source": "东方财富股票",
-     "zh": "渝三峡A新增长曲线显现"
-    },
-    {
-     "title": "四方面入手管好用好募集资金",
-     "link": "http://finance.eastmoney.com/news/1371,202611283942116112.html",
-     "pubDate": "Sat, 28 Nov 2026 01:21:00 +0800",
-     "summary": "■王镜茹 近日，某上市公司披露收到监管部门出具的警示函，认定该公司在募投项目建设过程中，违规将2800万元募集资金出借给7家公司。相关资金虽已归还募集资金专户，但这一事件仍提示上市公司：募投项目涉及主体多、资金往来复杂，需要将管理要求落实到项目实施和资金使用的具体环节。 上市公司的募集资金具有明确的使用边界，既要依规使用，更要提高投入效率，推动融资转化为研发能力、有效产能和经营成果。这需要把项目论证、预算安排、支付审核及实施监督有效衔接起来，确保募集资金得到有效执行。 从过往的相关案例看，既存在直接挪用、违规出借资金，也有借助缺乏真实交易背景的采购、工程款等转移资金的情形，还有关联方占用、擅自",
-     "source": "东方财富股票",
-     "zh": "四方面入手管好用好募集资金"
-    },
-    {
-     "title": "Jazz wins approval of Ziihera for gastroesophageal cancer in UK",
-     "link": "https://seekingalpha.com/news/4677067-jazz-wins-approval-ziihera-gastroesophageal-cancer-uk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 12:10:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jazz wins approval of Ziihera for gastroesophageal cancer in UK"
-    },
-    {
-     "title": "Danish drugmaker Lundbeck reportedly eyeing deals in psychedelic space",
-     "link": "https://seekingalpha.com/news/4677070-psychedelic-stocks-gain-lundbeck-eyes-deals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 12:00:34 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Danish drugmaker Lundbeck reportedly eyeing deals in psychedelic space"
-    },
-    {
-     "title": "美股三大指数均涨超1% AI存储板块走强 闪迪涨超14%",
-     "link": "http://finance.eastmoney.com/news/1345,202611273942038237.html",
-     "pubDate": "Sat, 28 Nov 2026 01:00:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道琼斯指数涨1.13%， 纳斯达克 综合 指数涨1.84 % ， 标普500指数涨1.38%。 AI存储板块上涨， 闪迪 涨超14%， 美光科技 涨超6 % ， SK海力士 、 西部数据 涨超5 % 。 美股“科技巨头”涨跌不一， 英伟达 跌0.33%； 苹果 股价上涨0.69%， 微软 股价上涨0.34%， 谷歌-A 股价由跌转涨、现涨0.14%， 亚马逊 股价上涨3.83%，Meta股价上涨3.27%， 特斯拉 股价上涨5.09%， Anthropic 涨超10%。 全球要闻 避险需求与加息预期双重驱动 美元势创两年来最长月度连涨 随着 人工智",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数均涨超1% AI存储板块走强 闪迪涨超14%"
-    },
-    {
-     "title": "Dynacor Group declares CAD 0.0133 dividend",
-     "link": "https://seekingalpha.com/news/4677071-dynacor-group-declares-cad-0_0133-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 11:55:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dynacor Group declares CAD 0.0133 dividend"
-    },
-    {
-     "title": "Stocks hit the sales early: S&P 500 up 1.5% on Black Friday",
-     "link": "https://seekingalpha.com/news/4677069-stocks-hit-the-sales-early-sp-500-up-15-on-black-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 11:55:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stocks hit the sales early: S&P 500 up 1.5% on Black Friday"
+     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 17:04:00 GMT",
+     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+     "source": "MarketWatch",
+     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
     },
     {
      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
@@ -2370,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "Wave of cyber incidents rattles western economies"
     },
     {
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 16:00:00 GMT",
+     "summary": "“Retirement is a financial status, not an age.”",
+     "source": "MarketWatch",
+     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
+    },
+    {
      "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
      "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
@@ -2378,12 +2402,28 @@ window.INDUSTRY_DATA = {
      "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
     },
     {
-     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
-     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
-     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
-     "source": "经济观察网",
-     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 15:45:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 15:30:00 GMT",
+     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+     "source": "MarketWatch",
+     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
      "title": "From Jobs to Jensen: tech’s metamorphosis",
@@ -2394,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "From Jobs to Jensen: tech’s metamorphosis"
     },
     {
-     "title": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元",
-     "link": "http://www.eeo.com.cn/2026/1127/1105812.shtml",
-     "pubDate": "Fri, 27 Nov 2026 22:52:21 +0800",
-     "summary": "消费者辛女士入住酒店期间，孩子不慎碰坏房间摆件，酒店起初索赔3000元，但该摆件7年前采购价仅980元，最终双方按采购价完成赔付。根据民法典，财物损坏赔偿以填补实际损失为原则，要考虑物品折旧，不能按商家单方报出的高价赔偿；若商家摆放物品未做好提示，也需承担相应责任，消费者遭遇不合理索赔可依法维权。",
-     "source": "经济观察网",
-     "zh": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元"
-    },
-    {
      "title": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落",
      "link": "https://wallstreetcn.com/articles/3786838",
      "pubDate": "Fri, 27 Nov 2026 22:43:56 +0800",
      "summary": "人工智能交易回暖，全球股市普涨，今日美股将提前收盘。 美股盘初，标普500指数涨1.11%，道琼斯工业平均指数涨0.55%，纳斯达克综合指数涨1.58%，纳斯达克100指数涨1.5%，中概指数涨3%。 个股方面，闪迪涨8.1%，Nebius集团涨5.1%，希捷科技、SK海力士ADR、西部数据、Cerebras系统、美光、CoreWeave、英特尔、AMD、台积电至多涨超4%，英伟达涨1.2%。Anthropic涨3.6%，SpaceX涨2.8%。 纳斯达克金龙中国指数上涨3.01%，热门中概股里，金山云涨8.3%，B站涨7.1%。中概ETF CQQQ涨8.5%。国常会：加力发挥“国家队”稳市作",
      "source": "华尔街见闻",
      "zh": "AI交易回暖，纳指涨1.5%，闪迪涨超8%，中概指数涨3%，金银大涨，美债回落"
-    },
-    {
-     "title": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委",
-     "link": "http://www.eeo.com.cn/2026/1127/1105808.shtml",
-     "pubDate": "Fri, 27 Nov 2026 22:39:15 +0800",
-     "summary": "中国经济网南京11月27日综合报道 11月27日下午，中国共产党江苏省第十五届委员会在南京举行第一次全体会议，选举信长星为省委书记，刘小涛、范波为省委副书记，信长星、刘小涛、范波、周红波、张文兵、胡立杰、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文为省委常务委员会委员。 上述名单显示，江苏省副省长马士光、沈剑荣，江苏省军区政委敬健，镇江市委书记吴庆文新任江苏省委常委。 <img src=\"https:...",
-     "source": "经济观察网",
-     "zh": "马士光、沈剑荣、敬健、吴庆文新任江苏省委常委"
     },
     {
      "title": "Sweden to join Eurosystem's T2 RTGS system",
@@ -2456,30 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "长安一边继续与华为推新车，一边加快自己的智驾迭代。 11月27日开幕的广州车展上，长安汽车发布天枢领航Ultra 2.0，计划于2027年1月中旬通过OTA推送车位到车位、多点式掉头、收费站通行等功能。继今年9月发布天枢领航后，长安此次把升级重点放在道路、园区和停车位之间的连续通行。 同一天，深蓝L07 AI激光版上市，限时权益价14.99万—15.99万元，与此前已上市的S07 AI激光版成为华为引望星驰方案的首批搭载车型。深蓝表示，两款车已完成相关硬件预埋，计划在2027年星驰正式开通订阅服务时，为已售AI激光版车辆免费OTA升级至正式方案。 这延续了长安今年9月已明确的品牌分工：主品牌（",
      "source": "华尔街见闻",
      "zh": "长安加码自研，争夺高阶智驾主动权"
-    },
-    {
-     "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-     "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-     "pubDate": "Fri, 27 Nov 2026 14:12:55 GMT",
-     "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
-     "source": "CNBC",
-     "zh": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts"
-    },
-    {
-     "title": "AI股抛售潮接近尾声？摩根大通警告：真正的风险可能在2027年",
-     "link": "https://wallstreetcn.com/articles/3786864",
-     "pubDate": "Fri, 27 Nov 2026 22:10:31 +0800",
-     "summary": "AI股的抛售潮或许正在接近尾声，但市场真正需要警惕的，可能不是眼前的暴跌，而是反弹之后逐渐累积的经济增长风险。 摩根大通欧洲量化策略主管Khuram Chaudhry领衔的团队在最新报告中指出， 当前市场正处于“熊市三阶段”框架中的第一阶段（崩跌）尾声，短期有望转向第二阶段（反弹），但随后可能进入第三阶段（缓慢下行），2027年全球经济增长放缓将成为市场面临的主要风险。 该团队认为，近期动量股的集中抛售已显现出熊市第一阶段的典型特征，而投资者情绪跌至过去20年来的极端低位，与盈利预期、采购经理人指数等基本面指标所反映的情况出现明显背离，短期反弹的条件正在形成。 但反弹并不意味着风险解除。 摩根",
-     "source": "华尔街见闻",
-     "zh": "AI股抛售潮接近尾声？摩根大通警告：真正的风险可能在2027年"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 13:58:19 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
     }
    ]
   },

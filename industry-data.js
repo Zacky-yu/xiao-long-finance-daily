@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 06:12:15",
+ "generated_at": "2026/11/28 06:32:09",
  "recent_days": 7,
  "industries": [
   {
@@ -282,6 +282,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
+    },
+    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -458,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -480,22 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1354,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1392,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1450,30 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1528,6 +1480,30 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1746,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
+     "link": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 22:11:06 +0000",
+     "summary": "Shark’s vacuums impress me again and again, and my favorite models are deeply discounted right now..",
+     "source": "WIRED",
+     "zh": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)"
+    },
+    {
+     "title": "9/UX: a Macintosh-inspired desktop for 9front",
+     "link": "https://progrium.github.io/9ux/",
+     "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "9/UX: a Macintosh-inspired desktop for 9front"
+    },
+    {
      "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
      "link": "https://www.techmeme.com/261127/p14#a261127p14",
      "pubDate": "Fri, 27 Nov 2026 16:35:01 -0500",
@@ -1765,7 +1757,7 @@ window.INDUSTRY_DATA = {
      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
      "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 71 # Comments: 25",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 85 # Comments: 26",
      "source": "Hacker News",
      "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
     },
@@ -1773,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
      "link": "https://github.com/skeeto/prospero",
      "pubDate": "Fri, 27 Nov 2026 20:23:14 +0000",
-     "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Prospero: Bloat-free, native AI coding harness with ImGui"
     },
@@ -1805,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "The AT&T Unix PC (3B1) VM",
      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 33 # Comments: 6",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 35 # Comments: 7",
      "source": "Hacker News",
      "zh": "The AT&T Unix PC (3B1) VM"
     },
@@ -1813,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 232 # Comments: 143",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 253 # Comments: 149",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1832,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve found great deals on our favorite WIRED-tested mattresses and sleep accessories.",
      "source": "WIRED",
      "zh": "Black Friday Mattress Deals: Get Up to 55% Off (2026)"
-    },
-    {
-     "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-     "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-     "pubDate": "Fri, 27 Nov 2026 18:59:55 +0000",
-     "summary": "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/ Comments URL: https://news.ycombinator.com/item?id=50670443 Points: 6 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1872,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Alexander Weber / Bloomberg : European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels &nbsp; &mdash;&nbsp; Euro-area workers are turning to artificial intelligence at a similar rate as their peers",
      "source": "Techmeme",
      "zh": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)"
-    },
-    {
-     "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
-     "link": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 18:08:37 +0000",
-     "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
-     "source": "WIRED",
-     "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
     },
     {
      "title": "DeepSeek给智能装上了电表",
@@ -2250,6 +2226,14 @@ window.INDUSTRY_DATA = {
      "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
     },
     {
+     "title": "美国10月贸易逆差创一年半新高：受AI基建推动 进口额刷新历史纪录",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942138029.html",
+     "pubDate": "Sat, 28 Nov 2026 05:54:06 +0800",
+     "summary": "AI基础设施建设热潮正把美国的贸易账目推向新的失衡高度。10月商品贸易逆差扩大10.7%至1495亿美元，进口跃升6.1%至3653亿美元，创1992年有统计以来的最高纪录，贸易可能在第四季度继续拖累经济增长。 美国商务部周五公布的数据显示， 进口增长呈现全面开花态势，资本品、 汽车 、工业用品和消费品悉数上扬，反映内需依旧强劲。 企业大举押注AI，但相关基础设施严重依赖进口，而进口在GDP核算中属于减项。 FWDBONDS首席经济学家Christopher Rupkey直言， 10月商品贸易逆差恶化将拖累第四季度经济增长，资本品进口激增表明AI并不总是带来更快的美国经济增长。 高盛 经济学家",
+     "source": "东方财富股票",
+     "zh": "美国10月贸易逆差创一年半新高：受AI基建推动 进口额刷新历史纪录"
+    },
+    {
      "title": "美国10月贸易逆差创一年半新高：受AI基建推动，进口额刷新历史纪录",
      "link": "https://wallstreetcn.com/articles/3786881",
      "pubDate": "Sat, 28 Nov 2026 05:53:20 +0800",
@@ -2258,12 +2242,44 @@ window.INDUSTRY_DATA = {
      "zh": "美国10月贸易逆差创一年半新高：受AI基建推动，进口额刷新历史纪录"
     },
     {
-     "title": "90后张策：电网一线守护万家灯火",
-     "link": "http://www.eeo.com.cn/2026/1128/1105840.shtml",
-     "pubDate": "Sat, 28 Nov 2026 05:39:16 +0800",
-     "summary": "张策（右）与同事在河南省洛阳市伊川县110千伏理学变电站内开展巡视。受访者供图 深耕电力运维8年，张策相信一个朴素的道理：“运维效率从来不是比拼速度，守牢安全底线、杜绝误操作，才是我们变电运维人的立身准则。”这句话，...",
-     "source": "经济观察网",
-     "zh": "90后张策：电网一线守护万家灯火"
+     "title": "金属大反攻！伦铜创九个月最大日涨 纽银涨近8% AI恐慌缓解、中国稳市信号提振",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942137930.html",
+     "pubDate": "Sat, 28 Nov 2026 05:48:03 +0800",
+     "summary": "经历此前一轮集中抛售后，金属市场周五迎来强势反攻， 铜 、 黄金 和 白银 集体走高。伦 铜 创九个月来最大单日涨幅，COMEX 白银 期货 涨近8%。AI交易恐慌缓解、中国释放稳市信号，推动市场风险偏好回暖；但这轮上涨究竟意味着趋势反转，还是超跌后的仓位修复，仍有待观察。 市场情绪从低谷回暖，伦 铜 一度涨超6% 周五，内外盘期铜均大幅收涨。上海 期货 交易所主力铜合约收涨5.5%，盘中涨幅一度达7.1%。 LME三个月期铜盘中一度涨6.4%，收涨约3.2%，创2月3日以来最大单日涨幅，报12251美元/吨，全周累涨约0.75%，结束三周连跌。 COMEX12月期铜收涨3.38%，创4月8日",
+     "source": "东方财富股票",
+     "zh": "金属大反攻！伦铜创九个月最大日涨 纽银涨近8% AI恐慌缓解、中国稳市信号提振"
+    },
+    {
+     "title": "前10月规上工业企业利润同比增长16.0%",
+     "link": "http://finance.eastmoney.com/news/1352,202611283942137089.html",
+     "pubDate": "Sat, 28 Nov 2026 05:45:18 +0800",
+     "summary": "国家统计局27日发布数据：前10月，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%。其中， 电子 行业利润同比增长1.0倍，规上高技术制造业利润同比增长50.9%， 有色金属 矿、有色行业利润同比分别增长60.2%、71.7%。 （文章来源：人民日报）",
+     "source": "东方财富股票",
+     "zh": "前10月规上工业企业利润同比增长16.0%"
+    },
+    {
+     "title": "安徽3条高铁同日开通 长三角高铁里程突破8500公里",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942136439.html",
+     "pubDate": "Sat, 28 Nov 2026 05:45:18 +0800",
+     "summary": "11月27日，“轨道上的长三角”再添新动脉，安徽巢（湖）马（鞍山） 高铁 、淮（北）蚌（埠） 高铁 、淮（北）阜（阳） 高铁 开通运营，长三角铁路营业里程超1.58万公里，高铁里程突破8500公里。马鞍山市和县、淮北市濉溪县、蚌埠市固镇县、亳州市蒙城县和利辛县共5个县告别不通高铁的历史。 3条高铁接入长三角高铁网，构建起联通合肥、南京都市圈，以及长三角中心城市的多路径快速通道，大幅压缩皖北、皖江城市间时空距离，为区域经济社会发展注入新动能。 （文章来源：人民日报）",
+     "source": "东方财富股票",
+     "zh": "安徽3条高铁同日开通 长三角高铁里程突破8500公里"
+    },
+    {
+     "title": "楼上楼下，研发中试加转化",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942137188.html",
+     "pubDate": "Sat, 28 Nov 2026 05:45:17 +0800",
+     "summary": "河北石家庄高新区， 京津冀 国家技术创新中心河北中心创新港，一栋建筑面积3万平方米的楼里，藏着一个“垂直”的创新链条。 乘电梯往上走，3楼，河北国创具身智能科技有限公司的研发人员，正进行二代四足 机器人 的研发；7楼，光偏振分析与光纤传感技术实验室， 京津冀 三地的科研力量正用光纤传感技术研发“智能蒙皮”；9楼，是“智能蒙皮”以后要到达的地方，在这里，中试平台将为新技术提供验证。 “等中试完成，‘智能蒙皮’将重回3楼，让我们的 机器人 感知更灵敏。”河北国创具身智能科技有限公司负责人李中益说。 今年6月创新港开园后，看中“研发中试不出楼、产业场景不出省”的全链条转化生态，北京元亨谊和 机器人 ",
+     "source": "东方财富股票",
+     "zh": "楼上楼下，研发中试加转化"
+    },
+    {
+     "title": "细分需求里藏着文旅商机（编辑手记）",
+     "link": "http://finance.eastmoney.com/news/1373,202611283942136720.html",
+     "pubDate": "Sat, 28 Nov 2026 05:45:17 +0800",
+     "summary": "海南文昌航天小镇龙楼，如今有民宿150余家，较2016年增长约30倍。黄柏栋2025年入行时，面对的是已经很“热”的航天文旅市场，但他敏锐抓住“追箭族”的细分需求，闯出一片天地。 “人无我有、人有我优”，黄柏栋胜在后者。把文旅赛道做出新意，第一步是给消费者“画像”。年龄、性别、家庭成员有哪些、都有什么爱好……把准每个消费者的“痛点”“爽点”，有针对性地设计方案，服务才能精准。 在此基础上，用活用足本地资源，补上短板，给老产品增添新内涵，消费者才愿意留下来。 无论花样如何翻新，诚信经营是底线。让消费者既开心又安心，文旅赛道大有可为。 （文章来源：人民日报）",
+     "source": "东方财富股票",
+     "zh": "细分需求里藏着文旅商机（编辑手记）"
     },
     {
      "title": "金属大反攻！伦铜创九个月最大日涨，纽银涨近8%，AI恐慌缓解、中国稳市信号提振",
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI and the decryption nightmare"
     },
     {
-     "title": "Intermex sues Western Union over merger agreement termination",
-     "link": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 18:10:00 GMT",
-     "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
-     "source": "Finextra",
-     "zh": "Intermex sues Western Union over merger agreement termination"
-    },
-    {
      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 17:31:00 GMT",
@@ -2448,38 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
      "source": "Financial Times",
      "zh": "Wave of cyber incidents rattles western economies"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 16:00:00 GMT",
-     "summary": "“Retirement is a financial status, not an age.”",
-     "source": "MarketWatch",
-     "zh": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?"
-    },
-    {
-     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
-     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-     "source": "CNBC",
-     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位",
-     "link": "http://www.eeo.com.cn/2026/1127/1105817.shtml",
-     "pubDate": "Fri, 27 Nov 2026 23:26:15 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）科尔尼近日发布《2026年全球城市指数报告》。报告显示，纽约、伦敦、巴黎、东京和新加坡仍稳居全球城市综合排名（GCI）前五，领先地位进一步巩固。排名前20%的城市平均得分增幅接近全部样本城市整体增幅的12倍。中国城市表现亮眼。北京位列第6，上海上升1位至第7，创近六年来最佳表现。长沙上升9位，青岛、济南各上升5位，广州、深圳各上升3位。在潜力排名（GCO）中，北京上升15位，跻身亚太地区...",
-     "source": "经济观察网",
-     "zh": "科尔尼发布《2026年全球城市指数报告》：上海升至第七位"
-    },
-    {
-     "title": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元",
-     "link": "http://www.eeo.com.cn/2026/1127/1105812.shtml",
-     "pubDate": "Fri, 27 Nov 2026 22:52:21 +0800",
-     "summary": "消费者辛女士入住酒店期间，孩子不慎碰坏房间摆件，酒店起初索赔3000元，但该摆件7年前采购价仅980元，最终双方按采购价完成赔付。根据民法典，财物损坏赔偿以填补实际损失为原则，要考虑物品折旧，不能按商家单方报出的高价赔偿；若商家摆放物品未做好提示，也需承担相应责任，消费者遭遇不合理索赔可依法维权。",
-     "source": "经济观察网",
-     "zh": "南财法治通 | 住4000元酒店碰坏摆件被索赔3000元"
     }
    ]
   },

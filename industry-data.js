@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/27 13:11:50",
+ "generated_at": "2026/11/27 13:20:49",
  "recent_days": 7,
  "industries": [
   {
@@ -330,28 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "From AA to USB-C: Follow Shrouk’s PCB Build with a Free 60-Day Trial"
     },
     {
-     "title": "Eutelsat US wins Space Force CSCO satcom contract",
-     "link": "https://www.electronicsweekly.com/news/business/eutelsat-us-wins-space-force-csco-contract-for-satcom-services-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 15:56:40 +0000",
-     "summary": "The US subsidiary of Eutelsat has won a contract worth up to $60 million under the U.S. Space Force Commercial Satellite Communications Office (CSCO) Warrior Plans initiative. Using OneWeb’s LEO […] The post Eutelsat US wins Space Force CSCO satcom contract appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Eutelsat US wins Space Force CSCO satcom contract"
-    },
-    {
      "title": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/coherent-261126.shtml",
      "pubDate": "Thu, 26 Nov 2026 15:56:08 GMT",
      "summary": "Materials, networking and laser technology firm Coherent Corp of Saxonburg, PA, USA has been named #33 on TIME's America's Top Manufacturers 2027 list, placing it among the USA’s 250 leading manufacturers. Coherent also ranked #7 among 48 companies in TIME’s Electronics & Semiconductors industry cla",
      "source": "Semiconductor Today",
      "zh": "Coherent ranks 33rd on TIME’s America's Top Manufacturers 2027 list"
-    },
-    {
-     "title": "Fable: The Volatile CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-volatile-ceo-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 14:30:50 +0000",
-     "summary": "There was once a CEO of one of the world’s biggest tech companies who was very tall (6ft 5ins) and very volatile. When a star engineer told him he was […] The post Fable: The Volatile CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Volatile CEO"
     },
     {
      "title": "California DREAMS and Paciic Northwest AI Hub unite to form expanded Microelectronics Commons Hub",
@@ -378,22 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "Microchip Ethernet TSN switches drive in-vehicle networks",
-     "link": "https://www.electronicsweekly.com/news/products/digital-integrated-circuits/microchip-ethernet-tsn-switches-drive-in-vehicle-networks-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 11:22:42 +0000",
-     "summary": "Microchip is introducing two new automotive Ethernet switch families for Software-Defined Vehicles. It is sampling the LAN9324x and LAN9322x automotive-qualified Ethernet Time-Sensitive Networking (TSN) switches, for in-vehicle networks (IVN). “Software-defined […] The post Microchip Ethernet TSN sw",
-     "source": "Electronics Weekly",
-     "zh": "Microchip Ethernet TSN switches drive in-vehicle networks"
-    },
-    {
-     "title": "Rutronik partners with 3Peak for IoT, AI, automotive",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/rutronik-partners-with-3peak-for-iot-ai-automotive-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 10:09:57 +0000",
-     "summary": "Rutronik is partnering with 3Peak – a analogue and mixed-signal components specialist – to expand its franchise portfolio. The agreement will see 3Peak products made available to the regions of […] The post Rutronik partners with 3Peak for IoT, AI, automotive appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Rutronik partners with 3Peak for IoT, AI, automotive"
-    },
-    {
      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
      "pubDate": "Thu, 26 Nov 2026 08:55:48 +0000",
@@ -408,22 +376,6 @@ window.INDUSTRY_DATA = {
      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series. The post Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026 appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026"
-    },
-    {
-     "title": "FCC gives SpaceX permission to launch 1m datacentres into orbit",
-     "link": "https://www.electronicsweekly.com/news/business/fcc-gives-spacex-permission-to-launch-1m-datacentres-into-orbit-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:15:38 +0000",
-     "summary": "Yesterday, FCC chairman Brendan Carr said the agency has given SpaceX permission to launch one million datacentres into space. The datacentres will make up an orbiting network of AI datacentres […] The post FCC gives SpaceX permission to launch 1m datacentres into orbit appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "FCC gives SpaceX permission to launch 1m datacentres into orbit"
-    },
-    {
-     "title": "Samsung and Hynix adopt YMTC’s Xtacking technology",
-     "link": "https://www.electronicsweekly.com/news/business/samsung-and-bynix-adopt-ymtcs-xtacking-technology-2026-11/",
-     "pubDate": "Thu, 26 Nov 2026 06:13:43 +0000",
-     "summary": "Samsung and Hynix, are adopting the Xtacking technology for 3D NAND developed by Yangtze Memory Technologies (YMTC), reports the Nikkei. Xtacking manufactures memory cells and control circuitry on separate wafers […] The post Samsung and Hynix adopt YMTC’s Xtacking technology appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Samsung and Hynix adopt YMTC’s Xtacking technology"
     },
     {
      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
+     "link": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
+     "pubDate": "Fri, 27 Nov 2026 04:50:29 +0000",
+     "summary": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers. Travel influencers have a disproportionate ",
+     "source": "CleanTechnica",
+     "zh": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same"
+    },
+    {
      "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
      "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
      "pubDate": "Thu, 26 Nov 2026 19:00:00 -0600",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "An earlier version of this article appeared in The Driven on 15 October 2026. This version has been revised and updated with the most recent registration data. By Ray Wills, Raphael Wellmann, and Peter Newman In January 2024, Toyota chairman Akio Toyoda said battery EVs would reach at most 30% ... [",
      "source": "CleanTechnica",
      "zh": "Hybrids Are a Waypoint, Not the Destination"
-    },
-    {
-     "title": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs",
-     "link": "https://cleantechnica.com/2026/11/25/dte-energy-advances-new-michigan-solar-projects-to-create-jobs-save-customers-money-on-fuel-costs/",
-     "pubDate": "Thu, 26 Nov 2026 00:03:28 +0000",
-     "summary": "The company launches a competitive bidding process for up to 150 megawatts of new Michigan solar energy. DTE Energy has announced plans to add up to 150 megawatts of new solar energy in Michigan, creating construction jobs, supporting local communities, and saving customers money on fuel costs. Beca",
-     "source": "CleanTechnica",
-     "zh": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs"
     },
     {
      "title": "What is holding back bidirectional EV charging as a grid resource?",
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "9月以来，宽基ETF净申购超6700亿",
+     "link": "https://www.huxiu.com/article/4908900.html?f=rss",
+     "pubDate": "Fri, 27 Nov 2026 13:00:54 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：王晨 9月1日到11月26日，只用了57个交易日，9只核心宽基ETF合计净申购了6759.6亿元。这个数字，已经超过2024年1月1日到9月20日、也就是924行情启动前八个多月里的6716.5亿元。 更不同的是净申购速度，上一轮用了176个交易日，日均净申购38.4亿元，单日峰值372.0亿元；这一轮日均来到118.6亿元，约为当时的三倍，单日最大净申购达到895.7亿元，9只ETF合计份额则扩张了162.5%。 宽基ETF份额的大幅扩张，常被用来捕捉以中央汇金为代表的“国家队”托市信号。国家队护盘时，通常通过增持沪深300、上证50、中证500、中证1",
+     "source": "虎嗅",
+     "zh": "9月以来，宽基ETF净申购超6700亿"
+    },
+    {
      "title": "沙特TikTok直播红人合作，3人团队排期怎么排才不崩？",
      "link": "https://www.baijing.cn/question/638999",
      "pubDate": "Fri, 27 Nov 2026 04:53:28 +0000",
@@ -1792,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "思考得像睡着了",
      "source": "钛媒体",
      "zh": "实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢"
+    },
+    {
+     "title": "月之暗面：Kimi 科研支持计划现已开放申请",
+     "link": "https://www.ithome.com/1/033/328.htm",
+     "pubDate": "Fri, 27 Nov 2026 04:45:21 GMT",
+     "summary": "IT之家 11 月 27 日消息，月之暗面今天（27 日）上午宣布，Kimi 科研支持计划开放申请，首期将面向自然科学、工程学及相关交叉学科的科研人员，入选申请者将获得 Kimi API 额度、Kimi 团队的技术支持等。 Kimi API 额度，具体额度根据研究需求与评审结果确定 Kimi 团队的技术支持，以及优先体验新模型、获取精选研究与社区资源的机会 优秀研究者及团队，获得更长期、更深入的技术与资源支持 IT之家从官方公告获悉，月之暗面表示，相信 AI 既能加速科学研究的进程，也能拓展科学探索的边界：让更多大胆的设想有机会走向验证。从生命健康到能源材料，从基础科学的前沿到尚未触及的未知领",
+     "source": "IT之家",
+     "zh": "月之暗面：Kimi 科研支持计划现已开放申请"
     },
     {
      "title": "长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展",
@@ -1866,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达叫停东南亚四国发货：中国大模型厂商的三条退路"
     },
     {
-     "title": "追短剧“上头”大脑真的会变笨吗，专家称多数人充分休息后可恢复、长期损害适应社会能力",
-     "link": "https://www.ithome.com/1/033/321.htm",
-     "pubDate": "Fri, 27 Nov 2026 04:24:14 GMT",
-     "summary": "IT之家 11 月 27 日消息，据《中国网络视听发展研究报告（2026）》显示，截至去年底， 微短剧应用人均单日使用时长达 129 分钟 。 不少人感叹，追短剧太“上头”，但刷剧后，会格外空虚，记忆力和注意力都明显下滑。那么，究竟为什么人们刷短剧会停不下来？刷短剧真的会让人变笨吗？ 据央视新闻今日报道，专家介绍，短剧的叙事设计里藏着两层心理机制： 一方面，它依靠高密度反转剧情，用间歇性、脉冲式的刺激， 持续拉动多巴胺分泌 ，不断勾起观众的期待； 另一方面，它抓住人们的情感诉求与自我实现的渴望， 虚构出与现实生活截然相反的世界 ，用幻想提供情绪抚慰。 专家称，在刷短剧的过程中，人处于多巴胺水平",
-     "source": "IT之家",
-     "zh": "追短剧“上头”大脑真的会变笨吗，专家称多数人充分休息后可恢复、长期损害适应社会能力"
-    },
-    {
      "title": "北美 SaaS 免费试用转付费卡在支付环节，怎么判断是渠道问题还是结账体验问题？",
      "link": "https://www.baijing.cn/question/638998",
      "pubDate": "Fri, 27 Nov 2026 04:21:55 +0000",
@@ -1914,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "一场物理AI闭门会里的三层“温差”"
     },
     {
-     "title": "在看不见“真人”的红果，人怎么赚钱",
-     "link": "https://www.huxiu.com/article/4908863.html?f=rss",
-     "pubDate": "Fri, 27 Nov 2026 11:23:14 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正，题图来自：视觉中国 字节的红果，正在大量消费用户时间，也在加速把AI短剧推入变现的快车道。 一个传导链条已经形成：人、钱、流量，都在往红果流、往AI短剧赛道流。传统影视剧公司，无论主动还是被动，都被推到了转型的十字路口。 但转型谈何容易。一位头部影视公司的AI项目负责人，日前与《木禾商业财经》做了一场一个半小时的坦诚对话。他分享了传统影视公司转型AI短剧踩过的坑、交过的学费，也讲了他们看到的红果究竟要什么剧，以及如何面对这个平台带来的行业变革与挑战。 他的一个行业预测是， 红果未来或会成长为一个生成式推荐引擎，自己将生产一切。 在这一刻来临之前",
-     "source": "虎嗅",
-     "zh": "在看不见“真人”的红果，人怎么赚钱"
-    },
-    {
      "title": "白酒的“去库存周期”走到哪了？",
      "link": "https://www.tmtpost.com/8219964.html",
      "pubDate": "Fri, 27 Nov 2026 11:16:06 +0800",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Google will show solo Android developers' phone numbers and addresses",
      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
      "pubDate": "Fri, 27 Nov 2026 03:11:41 +0000",
-     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 59 # Comments: 29",
+     "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 64 # Comments: 31",
      "source": "Hacker News",
      "zh": "Google will show solo Android developers' phone numbers and addresses"
     },
@@ -1962,10 +1962,18 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊美国站ACOS压到18%后回款周期拉到45天，广告预算该不该跟着账期走？"
     },
     {
+     "title": "The Cutthroat Business of Shipwrecks",
+     "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+     "pubDate": "Fri, 27 Nov 2026 01:21:49 +0000",
+     "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Cutthroat Business of Shipwrecks"
+    },
+    {
      "title": "Hard Drive pricing has gotten bad",
      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
      "pubDate": "Fri, 27 Nov 2026 01:13:49 +0000",
-     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 179 # Comments: 101",
+     "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 186 # Comments: 109",
      "source": "Hacker News",
      "zh": "Hard Drive pricing has gotten bad"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &nbsp; &mdash;&nbsp; Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of legis",
      "source": "Techmeme",
      "zh": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)"
-    },
-    {
-     "title": "ESO statement on approval of launch of one million space data centres",
-     "link": "https://www.eso.org/public/news/eso2614/",
-     "pubDate": "Fri, 27 Nov 2026 00:03:44 +0000",
-     "summary": "Article URL: https://www.eso.org/public/news/eso2614/ Comments URL: https://news.ycombinator.com/item?id=50661224 Points: 12 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "ESO statement on approval of launch of one million space data centres"
     }
    ]
   },
@@ -2250,6 +2250,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SIR Royalty Income Fund reports Q4 results",
+     "link": "https://seekingalpha.com/news/4676926-sir-royalty-income-fund-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:13:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SIR Royalty Income Fund reports Q4 results"
+    },
+    {
+     "title": "国常会“稳市”！AH股午后集体飙升，创业板暴涨超8%，科创50狂拉10%，恒科指涨5%",
+     "link": "https://wallstreetcn.com/articles/3786820",
+     "pubDate": "Fri, 27 Nov 2026 13:11:12 +0800",
+     "summary": "11月27日，A股午后直线大涨，沪指涨超1%，创业板直线拉升涨超7%，科创综指、科创50均涨超9%，其中科创50涨近10%，中芯国际、寒武纪、华虹宏力、中微公司、海光信息全线爆发。AI算力、半导体板块大反弹，算力硬件拉升，光电路交换机、光模块、光芯片概念股大涨。券商板块午后拉升。军工、基本金属、精细化工等板块走强。 消息面，国常会会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。要推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“",
+     "source": "华尔街见闻",
+     "zh": "国常会“稳市”！AH股午后集体飙升，创业板暴涨超8%，科创50狂拉10%，恒科指涨5%"
+    },
+    {
+     "title": "Frontier Lithium Inc. reports 1H results",
+     "link": "https://seekingalpha.com/news/4676925-frontier-lithium-inc-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 00:09:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Frontier Lithium Inc. reports 1H results"
+    },
+    {
      "title": "Nations Royalty Corp. reports Q2 results",
      "link": "https://seekingalpha.com/news/4676924-nations-royalty-corp-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 00:03:58 -0500",
@@ -2258,20 +2282,44 @@ window.INDUSTRY_DATA = {
      "zh": "Nations Royalty Corp. reports Q2 results"
     },
     {
-     "title": "恒生科技指数涨4%",
-     "link": "http://finance.eastmoney.com/news/11440,202611273941567779.html",
-     "pubDate": "Fri, 27 Nov 2026 13:02:36 +0800",
-     "summary": "港股午后快速走强，恒生科技指数涨4%。",
-     "source": "东方财富股票",
-     "zh": "恒生科技指数涨4%"
+     "title": "Is the stock market open on Black Friday?",
+     "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 05:01:00 GMT",
+     "summary": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
+     "source": "MarketWatch",
+     "zh": "Is the stock market open on Black Friday?"
     },
     {
-     "title": "午后A股井喷上涨 科创50指数涨逾7% 创业板指涨5.7%",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941566475.html",
-     "pubDate": "Fri, 27 Nov 2026 13:00:53 +0800",
-     "summary": "午后A股井喷上涨，科创50指数涨逾7%，创业板指涨5.7%。盘面上， 华为欧拉 、 高带宽内存 、 光刻机 、 财税数字化 、 华为昇腾 、 半导体 涨幅居前。",
-     "source": "东方财富股票",
-     "zh": "午后A股井喷上涨 科创50指数涨逾7% 创业板指涨5.7%"
+     "title": "The US and Europe have opposite economic problems",
+     "link": "https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 05:00:22 GMT",
+     "summary": "Hoarding by the rich and stagnation for the middle class are different problems for different regions",
+     "source": "Financial Times",
+     "zh": "The US and Europe have opposite economic problems"
+    },
+    {
+     "title": "Tech stocks set for worst month in four years as volatility surges",
+     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 05:00:22 GMT",
+     "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+     "source": "Financial Times",
+     "zh": "Tech stocks set for worst month in four years as volatility surges"
+    },
+    {
+     "title": "Marine Le Pen: the woman who could break the EU",
+     "link": "https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 05:00:13 GMT",
+     "summary": "The far-right frontrunner for the French presidency is the biggest populist challenge in the bloc’s history",
+     "source": "Financial Times",
+     "zh": "Marine Le Pen: the woman who could break the EU"
+    },
+    {
+     "title": "Chinese households shed trillions in consumer debt",
+     "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 05:00:04 GMT",
+     "summary": "A three-year decline in mortgages in China is now spreading to consumer loans",
+     "source": "Financial Times",
+     "zh": "Chinese households shed trillions in consumer debt"
     },
     {
      "title": "Friday's Economic Calendar",
@@ -2282,28 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Friday's Economic Calendar"
     },
     {
-     "title": "摩根大通将彪马评级从中性下调至减持",
-     "link": "http://stock.eastmoney.com/news/1611,202611273941567580.html",
-     "pubDate": "Fri, 27 Nov 2026 12:59:11 +0800",
-     "summary": "摩根大通 将彪马评级从中性下调至减持，目标价从26欧元下调至21欧元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "摩根大通将彪马评级从中性下调至减持"
-    },
-    {
      "title": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M",
      "link": "https://seekingalpha.com/news/4676923-bqe-water-gaap-eps-of-281-beats-by-108-revenue-of-1227m-misses-by-093m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 23:58:05 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BQE Water GAAP EPS of $2.81 beats by $1.08, revenue of $12.27M misses by $0.93M"
-    },
-    {
-     "title": "“天下第一财神庙”昨天重新开放！现场人山人海 有人提前4天就去等候",
-     "link": "http://finance.eastmoney.com/news/11058,202611273941538520.html",
-     "pubDate": "Fri, 27 Nov 2026 12:56:07 +0800",
-     "summary": "历经半年全面封闭修缮，有着 “天下第一财神庙” 之称的杭州北高峰灵顺寺于11月26日重新对外开放。 消息一出，令江浙沪等候已久的粉丝们为之一振。上海的吴女士提前一天定好杭州的 酒店 、往返 高铁 票，只为赶上这波重开热潮。在灵隐景区开餐厅的小金，在餐厅官方账号上兴冲冲地晒出“天下第一财神庙”重新开放的海报。想到即将蜂拥而至的大客流，她对餐厅生意的回暖充满期待。 11月26日早上，有网友发帖称财神庙开门了！一大早已经有很多人在排队。 “人已经在工位上班了，但魂好像还在山上。” 有网友今天凌晨五点起来去财神庙，回来没耽误打九点的上班卡。 随着人越来越多，有博主发帖称：“现场人山人海。” “天下第一",
-     "source": "东方财富股票",
-     "zh": "“天下第一财神庙”昨天重新开放！现场人山人海 有人提前4天就去等候"
     },
     {
      "title": "China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%",
@@ -2314,60 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "China's industrial profits surge 20.1% in October as ten-month growth accelerates to 16%"
     },
     {
-     "title": "诺诚健华：佐来曲替尼成为中国首款自主研发获批治疗儿童实体瘤的TRK抑制剂",
-     "link": "http://finance.eastmoney.com/news/1354,202611273941566152.html",
-     "pubDate": "Fri, 27 Nov 2026 12:54:54 +0800",
-     "summary": "诺诚健华 今天宣布，公司自主研发的新一代TRK抑制剂佐来曲替尼获得中国国家药品监督管理局批准，用于治疗2岁至12岁携带NTRK融合基因的儿童实体瘤患者，标志着中国首款自主研发治疗儿童实体瘤的新一代TRK抑制剂获批上市。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "诺诚健华：佐来曲替尼成为中国首款自主研发获批治疗儿童实体瘤的TRK抑制剂"
-    },
-    {
-     "title": "苹果美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续",
-     "link": "http://stock.eastmoney.com/news/11228,202611273941557031.html",
-     "pubDate": "Fri, 27 Nov 2026 12:53:23 +0800",
-     "summary": "苹果 有望在 消费电子 市场疲软之际异军突起，近期发布的几份报告显示， 苹果 在零部件短缺和成本上涨方面的处理比竞争对手更加得当，这让该公司的产品市占率得到了提升。 Counterpoint最新的美国智能手机出货报告显示，在整体出货量下降9%的情况下， 苹果 的市场份额从去年同期的50%增长至57%。 Counterpoint指出，内存成本上涨在第三季度对低端安卓手机市场造成了尤为严重的冲击。该机构高级分析师Emily Herbert表示，安卓OEM厂商几乎没有办法在不提高产品价格或减少产量的情况下，消化更高的物料成本。 而三星是唯一一家出货量份额增长的主要安卓智能手机厂商，其市场份额增长了1",
-     "source": "东方财富股票",
-     "zh": "苹果美国市占增至57%！机构：高端机保持韧性而大众机萎缩趋势明年将延续"
-    },
-    {
-     "title": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision",
-     "link": "https://seekingalpha.com/news/4676918-trump-alleges-fake-gdp-data-ahead-of-midterms-after-43-revision?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:48:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump alleges 'fake' GDP data ahead of midterms after 4.3% revision"
-    },
-    {
-     "title": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M",
-     "link": "https://seekingalpha.com/news/4676919-ntg-clarity-networks-gaap-eps-of-c000-revenue-of-c1922m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 26 Nov 2026 23:44:42 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "NTG Clarity Networks GAAP EPS of C$0.00, revenue of C$19.22M"
-    },
-    {
      "title": "Tech stocks regain ground at end of volatile trading week",
      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
      "pubDate": "Fri, 27 Nov 2026 04:31:57 GMT",
      "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
      "source": "Financial Times",
      "zh": "Tech stocks regain ground at end of volatile trading week"
-    },
-    {
-     "title": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941564045.html",
-     "pubDate": "Fri, 27 Nov 2026 12:26:32 +0800",
-     "summary": "国务院总理李强11月27日主持召开国务院常务会议，会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期调节和改革攻坚两手抓，持续完善资本市场稳市机制，实施好存量政策，谋划出台增量政策，促进资本市场平稳健康发展。要推动上市公司加大分红回购力度，加力发挥“国家队”稳市作用，进一步优化中央汇金公司的类“平准基金”功能，提供充足流动性保障。完善保险、企业年金、社保基金等中长期资金入市支持引导政策，不断壮大中长期投资力量。加强输入性风险防范应对。要通过深化改革增强资本市场高质量发展的内生动力，加快发展多层次资本市场。要依法强化资本市场全链条监管，坚决查处财务造假、违规减持等行为，有效",
-     "source": "东方财富资讯",
-     "zh": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能"
-    },
-    {
-     "title": "李强主持召开国务院常务会议 研究持续深化资本市场投融资综合改革工作",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941563415.html",
-     "pubDate": "Fri, 27 Nov 2026 12:25:09 +0800",
-     "summary": "国务院总理李强11月27日主持召开国务院常务会议，听取推动高质量发展 综合 督查情况汇报，研究持续深化资本市场投融资 综合 改革工作，听取国家标准体系建设情况汇报，审议通过《生产安全事故隐患排查治理条例（草案）》。 会议指出，要深入抓好督查发现问题整改，举一反三、以点带面推进问题解决，推动全年各项目标任务高质量完成。要积极吸纳各地提出的意见建议，在研究明年工作思路时统筹予以考虑，切实改进相关工作。要以督查整改为契机，抓好长效机制建设，调整完善不适应高质量发展要求的政策举措，优化实施方式，健全激励约束机制，打好政策组合拳。 会议指出，资本市场事关经济发展大局。要坚持目标导向、问题导向，坚持逆周期",
-     "source": "东方财富资讯",
-     "zh": "李强主持召开国务院常务会议 研究持续深化资本市场投融资综合改革工作"
     },
     {
      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
@@ -2384,30 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "华为乾崑生态大会2026在广州举行。华为智能汽车解决方案宣布，累计搭载26个品牌、超60款车型，智能化部件发货量突破1亿件；乾崑智驾与鸿蒙座舱搭载量双双突破200万。",
      "source": "经济观察网",
      "zh": "华为乾崑合作品牌达26个，搭载车型超60款"
-    },
-    {
-     "title": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升",
-     "link": "https://wallstreetcn.com/articles/3786820",
-     "pubDate": "Fri, 27 Nov 2026 12:06:01 +0800",
-     "summary": "11月27日，A股震荡上涨，沪指盘初一度下跌，盘中震荡走高，创业板高开高走，盘中一度大涨超4%，科创综指、科创50均涨超4%，得益于AI算力爆发，润和软件20CM涨停，常山北明、拓维信息涨停。半导体板块大反弹，华虹宏力涨超5%。算力硬件拉升，光电路交换机、光模块、光芯片概念股大涨。军工、基本金属、精细化工等板块走强。银行、煤炭、石油天然气等板块陷入调整。 港股早盘高开高走，恒指、恒科指双双拉升，恒科指涨超3%，权重科网股集体反弹，美团、快手、哔哩哔哩等纷纷走高，芯片半导体、光模块等走高。债市方面，国债期货集体下跌。商品方面，国内商品期货普涨。核心市场走势： A股 ：截至发稿，沪指涨0.28%，",
-     "source": "华尔街见闻",
-     "zh": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升"
-    },
-    {
-     "title": "多股新签订单新高！主力吸筹半导体设备(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202611273941557725.html",
-     "pubDate": "Fri, 27 Nov 2026 12:05:25 +0800",
-     "summary": "半导体 设备周五大涨， 华海诚科 、 灿芯股份 等多股20CM涨停， 长川科技 、 中科飞测 等多股涨超10%。 多股新签订单创 新高 从产业基本面看， 国产 半导体 设备正迎来历史性替代窗口 。据21世纪经济报道，近期 中微公司 、 盛美上海 等多家国内设备企业披露前三季度新签订单普遍创历史 新高 ，头部存储厂三期产线国产设备采购占比首次突破五成，存储与先进逻辑正成为国产设备渗透的核心方向。 此外，国际 半导体 产业协会（SEMI）预计，2026年全球300毫米晶圆厂前道设备支出将达1490亿美元、同比增长31%，为本轮设备景气提供支撑。 国信证券 指出，自主可控政策支持叠加技术突破，后续可",
-     "source": "东方财富资讯",
-     "zh": "多股新签订单新高！主力吸筹半导体设备(附股)"
-    },
-    {
-     "title": "大资金逆向加仓力度不一般！宽基ETF净申购6760亿 超过924前力度",
-     "link": "http://finance.eastmoney.com/news/1344,202611273941556168.html",
-     "pubDate": "Fri, 27 Nov 2026 12:01:21 +0800",
-     "summary": "9月1日到11月26日，只用了57个交易日，9只核心宽基ETF合计净申购了6759.6亿元。这个数字，已经超过2024年1月1日到9月20日、也就是924行情启动前八个多月里的6716.5亿元。 更不同的是净申购速度，上一轮用了176个交易日，日均净申购38.4亿元，单日峰值372.0亿元；这一轮日均来到118.6亿元，约为当时的三倍，单日最大净申购达到895.7亿元，9只ETF合计份额则扩张了162.5%。 宽基ETF份额的大幅扩张，常被用来捕捉以中央汇金为代表的“国家队”托市信号。国家队护盘时，通常通过增持沪深300、上证50、 中证500 、中证1000、科创50等宽基ETF入市。成交量",
-     "source": "东方财富资讯",
-     "zh": "大资金逆向加仓力度不一般！宽基ETF净申购6760亿 超过924前力度"
     },
     {
      "title": "An exiled former leader faces execution at home. Why does she want to go back?",
@@ -2440,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达股价在创下历史性单日涨幅后迅速遭遇抛压，技术面警示信号随之浮现。 周三（11月25日），英伟达股价延续跌势，连续第二个交易日收跌，进一步回吐周一暴涨逾30%的涨幅。彼时，受董事会宣布恢复首席执行官黄仁勋职务消息提振，英伟达单日市值暴增近1万亿美元。然而，华尔街策略师普遍警告，由于黄仁勋即将出席国会听证会——预计这将是一系列听证的首场——局势远未平息。 自周二开盘以来，英伟达股价累计跌幅已超过11% ，据道琼斯市场数据显示，此轮下跌已将其逼近技术分析师密切关注的“死亡交叉”临界点。 死亡交叉一触即发 “死亡交叉”是技术分析中的经典形态，指某资产或指数的 50日移动均线跌破200日移动均线 ",
      "source": "华尔街见闻",
      "zh": "暴涨30%后连跌两日，英伟达逼近“死亡交叉”"
-    },
-    {
-     "title": "创业板指上涨3.79% 全市场超4600股飘红 华为产业链领涨",
-     "link": "http://finance.eastmoney.com/news/1345,202611273941549883.html",
-     "pubDate": "Fri, 27 Nov 2026 11:30:47 +0800",
-     "summary": "沪指窄幅震荡，创业板指涨逾3.7%，科创50指数涨逾4.4%。盘面上， 华为欧拉 、 财税数字化 、 高带宽内存 、 华为昇腾 、 光刻机 、 华为鲲鹏 、算力 租赁 、IT服务涨幅居前， 渔业 、 银行 、 白色家电 、 种植业 表现不佳，领跌市场。 截至午间收盘，沪指上涨0.28%，报3486.76点；深成指上涨2.16%，报10301.40点；创业板指上涨3.79%，报2272.72点；科创50指数上涨4.43%，报1221.79点；北证50指数上涨3.66%，报779.96点。全市场上涨个股有4653家，下跌个股有827家，96只股涨停。两市半日合计成交9205亿。 今日要闻 国家统计",
-     "source": "东方财富资讯",
-     "zh": "创业板指上涨3.79% 全市场超4600股飘红 华为产业链领涨"
     },
     {
      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
@@ -2488,6 +2440,54 @@ window.INDUSTRY_DATA = {
      "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前 华尔街见闻提及 ，SpaceX宣布向每位持有“特朗普账户”的美国儿童捐赠一股新发行的 A 类普通股，马斯克随后承诺以个人名义等额配捐一股，该初始捐赠计划总估值约为180亿美元。 随着年度捐赠机制的加入，这一史上规模最大的企业及个人定向股权派发计划，正在引发资本市场对股权",
      "source": "华尔街见闻",
      "zh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！"
+    },
+    {
+     "title": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍",
+     "link": "https://wallstreetcn.com/articles/3786817",
+     "pubDate": "Fri, 27 Nov 2026 10:01:58 +0800",
+     "summary": "11月27日，国家统计局公布数据显示，1-10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。 其中，10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。 从三大门类看，1-10月采矿业利润增长38.8%，制造业利润增长17.5%，电力、热力、燃气及水生产和供应业利润下降14.8%。 电子行业：一项拉动近10个百分点 中国国家统计局工业司首席统计师于卫宁称，电子行业对利润增长支撑作用明显。 人工",
+     "source": "华尔街见闻",
+     "zh": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍"
+    },
+    {
+     "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+     "link": "https://wallstreetcn.com/articles/3786819",
+     "pubDate": "Fri, 27 Nov 2026 09:59:06 +0800",
+     "summary": "美银首席投资策略师Michael Hartnett最新发布的2027年展望报告，为2027年标普500指数设定了三大情境： 由广度驱动的“软着陆”基准情形（约7777点），由AI和政府干预驱动的“全面泡沫”（约8888点），以及市场极度缺乏防备的“硬着陆”破裂情形（约6666点） 。 Hartnett认为，市场当前对宏观经济的定价存在严重偏差，对硬着陆的定价严重不足——美银11月全球基金经理调查显示，仅3%的投资者预期硬着陆，而预期软着陆和无着陆的比例分别为50%和42%。 这一判断的核心依据是仓位与预期： 资产配置者普遍超配股票和商品、低配现金和债券，2026年股票基金流入年化达1.5万亿美",
+     "source": "华尔街见闻",
+     "zh": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 01:15:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
+     "summary": "“My wife stopped working outside the home in 1970.”",
+     "source": "MarketWatch",
+     "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
+    },
+    {
+     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 00:31:00 GMT",
+     "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+     "source": "MarketWatch",
+     "zh": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance"
+    },
+    {
+     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+     "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+     "pubDate": "Fri, 27 Nov 2026 00:22:29 GMT",
+     "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+     "source": "CNBC",
+     "zh": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks"
     }
    ]
   },

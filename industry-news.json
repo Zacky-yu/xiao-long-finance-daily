@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 04:32:08",
+ "generated_at": "2026/11/28 04:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1289,6 +1289,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
+     "link": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
+     "pubDate": "Fri, 27 Nov 2026 20:29:57 +0000",
+     "summary": "Whether you're a fan of Star Wars, Ryan Gosling or both, you're spoilt for choice this Black Friday with serious savings on Lego's Star Wars sets and Project Hail Mary sets.",
+     "source": "Space.com",
+     "zh": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites"
+    },
+    {
      "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
      "link": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
      "pubDate": "Fri, 27 Nov 2026 19:30:00 +0000",
@@ -1327,14 +1335,6 @@
      "summary": "The queen in the northern night sky is supposedly one of the easiest constellations to recognize — you just look for a W. Or is that an M?",
      "source": "Space.com",
      "zh": "Who turned the W upside down? Why Cassiopeia won't sit still"
-    },
-    {
-     "title": "On this day in space! Nov. 27, 1885: Astronomer captures 1st known photo of a meteor during an Andromedid meteor storm",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-27-2026",
-     "pubDate": "Fri, 27 Nov 2026 16:30:13 +0000",
-     "summary": "On Nov. 27, 1885, an astronomer made the first known photograph of a meteor. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 27, 1885: Astronomer captures 1st known photo of a meteor during an Andromedid meteor storm"
     },
     {
      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
@@ -1745,6 +1745,22 @@
    "total": 18,
    "items": [
     {
+     "title": "UK net migration at lowest level since 1997",
+     "link": "https://www.bbc.com/news/articles/cq36gj12n0l3o",
+     "pubDate": "Fri, 27 Nov 2026 20:38:19 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cq36gj12n0l3o Comments URL: https://news.ycombinator.com/item?id=50671417 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "UK net migration at lowest level since 1997"
+    },
+    {
+     "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+     "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+     "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
+     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
+    },
+    {
      "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
      "link": "https://www.techmeme.com/261127/p13#a261127p13",
      "pubDate": "Fri, 27 Nov 2026 15:15:01 -0500",
@@ -1772,7 +1788,7 @@
      "title": "The AT&T Unix PC (3B1) VM",
      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
      "pubDate": "Fri, 27 Nov 2026 19:40:33 +0000",
-     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 13 # Comments: 1",
      "source": "Hacker News",
      "zh": "The AT&T Unix PC (3B1) VM"
     },
@@ -1780,7 +1796,7 @@
      "title": "Michael Nielsen took down his book on neural nets",
      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
      "pubDate": "Fri, 27 Nov 2026 19:31:01 +0000",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 76 # Comments: 58",
+     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 121 # Comments: 82",
      "source": "Hacker News",
      "zh": "Michael Nielsen took down his book on neural nets"
     },
@@ -1796,7 +1812,7 @@
      "title": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84",
      "link": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
      "pubDate": "Fri, 27 Nov 2026 19:25:16 +0000",
-     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84 Comments URL: https://news.ycombinator.com/item?id=50670694 Points: 22 # Comments: 1",
      "source": "Hacker News",
      "zh": "Michael Giles, co-founder and drummer of King Crimson, dies aged 84"
     },
@@ -1833,14 +1849,6 @@
      "zh": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
     },
     {
-     "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-     "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
-     "pubDate": "Fri, 27 Nov 2026 18:28:29 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50670088 Points: 8 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]"
-    },
-    {
      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
      "link": "https://www.techmeme.com/261127/p10#a261127p10",
      "pubDate": "Fri, 27 Nov 2026 13:15:00 -0500",
@@ -1855,14 +1863,6 @@
      "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
      "source": "WIRED",
      "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
-    },
-    {
-     "title": "Convex skills send the user's app idea to a remote server without telling them",
-     "link": "https://github.com/convex/convex-backend-skill/issues/64",
-     "pubDate": "Fri, 27 Nov 2026 18:02:45 +0000",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 88 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "Convex skills send the user's app idea to a remote server without telling them"
     },
     {
      "title": "Best CurrentBody Black Friday Deals (2026): 20% Off LED Masks and More",
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here are the best Apple Watch deals for Black Friday",
+     "link": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
+     "pubDate": "Fri, 27 Nov 2026 20:40:35 +0000",
+     "summary": "Amazon is serving up the best prices ever on the latest Apple Watch models for Black Friday 2026. As we push through the biggest sale of the year, with particularly fantastic deals live on AirPods Pro 3 at an insane $100 off and 2026 AirPods Max at $130 off , not to mention the wild $400 discount on",
+     "source": "9to5Mac",
+     "zh": "Here are the best Apple Watch deals for Black Friday"
+    },
+    {
+     "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+     "link": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
+     "pubDate": "Fri, 27 Nov 2026 20:31:12 +0000",
+     "summary": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution and in-app purchases. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple faces potential $80 million fine and App Store overhaul in Chile"
+    },
     {
      "title": "Samsung is reportedly giving its camera app an AI mode",
      "link": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
@@ -2129,28 +2145,12 @@
      "zh": "TCL teams up with Rebel in the UK to make a social media-less kids phone"
     },
     {
-     "title": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price",
-     "link": "https://9to5mac.com/2026/11/27/aqara-w200-adaptive-temperature-thermostat-review/",
-     "pubDate": "Fri, 27 Nov 2026 18:26:36 +0000",
-     "summary": "Earlier this year, my wife and I bought our first house. Along with all the other exciting things, it’s also let me spend a lot of time testing new smart home gear. One of the most important and useful smart home accessories is a smart thermostat. Six months ago, I installed the Aqara Smart Thermost",
-     "source": "9to5Mac",
-     "zh": "Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price"
-    },
-    {
      "title": "The Pixel Watch 5 just hit a new low of $284 on Black Friday",
      "link": "https://9to5google.com/2026/11/27/pixel-watch-5-black-friday-deal-2026/",
      "pubDate": "Fri, 27 Nov 2026 18:18:50 +0000",
      "summary": "Target has already run out of the deal, but Amazon still seems to have stock of the 41mm Pixel Watch 5 Black Friday deal. more…",
      "source": "9to5Google",
      "zh": "The Pixel Watch 5 just hit a new low of $284 on Black Friday"
-    },
-    {
-     "title": "Here are the best Black Friday iPad deals",
-     "link": "https://9to5mac.com/2026/11/27/here-are-the-best-black-friday-ipad-deals/",
-     "pubDate": "Fri, 27 Nov 2026 18:03:10 +0000",
-     "summary": "The official Amazon Black Friday sale is flying right now with a bananas deal on AirPods Pro 3 at $100 off , an equally wild $400 off M5 MacBook Air , and now even lower prices on the new M6 MacBook Pro at $250 off , but there are some solid iPad discounts live today too. While perhaps not as eventf",
-     "source": "9to5Mac",
-     "zh": "Here are the best Black Friday iPad deals"
     },
     {
      "title": "Soundcore Nebula P1i projector drops to a record-low $279",
@@ -2241,6 +2241,54 @@
    "total": 13,
    "items": [
     {
+     "title": "美股成交额前20：黑五半日市指数齐涨 存储芯片暴涨",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942129766.html",
+     "pubDate": "Sat, 28 Nov 2026 04:29:53 +0800",
+     "summary": "美东时间11月27日（周五），感恩节后\"黑色星期五\"半日市（美东13:00提前收盘），美股三大指数全线上涨，道指涨1.18%报50774.94点，标普500涨1.60%报7297.49点，纳指涨2.31%报24129.50点，11大板块全部收涨。 存储芯片 与光 通信 板块暴涨， 闪迪 涨15.43%、美光涨7.40%， 英伟达 盘前一度涨逾4%但收盘仅涨0.88%，成交额241.76亿美元仍居首。 第1名 英伟达 涨0.88%至150.62美元，成交额241.76亿美元居首。盘前一度涨逾4%，但半日市流动性偏薄，涨幅尾盘明显收窄。 第2名 美光科技 大涨7.40%至645.76美元，成交额1",
+     "source": "东方财富股票",
+     "zh": "美股成交额前20：黑五半日市指数齐涨 存储芯片暴涨"
+    },
+    {
+     "title": "聚焦产业升级与绿色转型消费行业共寻新解法",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942129485.html",
+     "pubDate": "Sat, 28 Nov 2026 04:28:44 +0800",
+     "summary": "在“新质组织下消费产业升级与绿色消费转型”圆桌对话环节，多家消费领域企业代表参与研讨，围绕全产业链改造、绿色实践、技术赋能、行业未来机遇等话题展开讨论，探寻消费产业高质量发展路径。 与会嘉宾认为，消费产业升级并非简单的终端产品迭代，而是要在上下游环节实现生产工艺与产业链升级，以更低能耗创造更高产业价值，这已成为消费品行业转型的核心课题。参与本次圆桌对话的嘉宾包括卫龙公关副总裁吴狄， 怡园酒业 控股有限公司党委书记李宇欣，无限极（中国）有限公司企业社会责任与媒体事务总监、思利及人公益基金会理事长张前。 消费产业的核心痛点不少源自上游原料端，如何化解 农产品 原料不确定性、打通产业链条，是企业推进",
+     "source": "东方财富股票",
+     "zh": "聚焦产业升级与绿色转型消费行业共寻新解法"
+    },
+    {
+     "title": "杰富瑞经济学家Mohit Kumar表示 美联储12月政策会议可能是“鹰派程度的顶峰”",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942129265.html",
+     "pubDate": "Sat, 28 Nov 2026 04:27:45 +0800",
+     "summary": "杰富瑞经济学家Mohit Kumar表示，美联储12月政策会议可能是“鹰派程度的顶峰”，并可能成为“市场的转折点”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "杰富瑞经济学家Mohit Kumar表示 美联储12月政策会议可能是“鹰派程度的顶峰”"
+    },
+    {
+     "title": "数智化重构能源新生态 绿电、储能与算力协同赋能",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942129377.html",
+     "pubDate": "Sat, 28 Nov 2026 04:25:34 +0800",
+     "summary": "11月20日，由《中国经营报》主办的“与时偕行以质图强”——2026数字驱动·产业焕新论坛在成都举行。 在论坛圆桌对话环节， 琏升科技 董秘吴艳兰、海辰储能钠电产品线总监潘纬韬、川财证券首席经济学家陈雳围绕绿电、储能与算力协同等议题展开深入探讨。 吴艳兰提出，数字平台是串联能源供需两端的连接器与稳定器，以数字化调度协调绿电供给、匹配算力持续用电需求，是光伏及其他能源企业推进产业升级的重要方向。 吴艳兰表示，协同体系包含三层逻辑：发电侧通过储能平滑风电、光伏出力；负荷侧依托数字技术调节算力负荷，引导其适配绿电曲线；电网层面依靠智能调度实现分布式电站与零散算力需求匹配。仅靠单点设备升级，能效提升有",
+     "source": "东方财富股票",
+     "zh": "数智化重构能源新生态 绿电、储能与算力协同赋能"
+    },
+    {
+     "title": "瑞华智策高燕：AI技术替代的是工作而不是人",
+     "link": "http://finance.eastmoney.com/news/1360,202611283942129645.html",
+     "pubDate": "Sat, 28 Nov 2026 04:22:46 +0800",
+     "summary": "“所谓AI替代，其实是技术对工作的替代，而不是对人的替代。”瑞华智策合伙人、中国新质组织研究中心主任高燕在接受《中国经营报》记者采访时说。 在高燕看来，企业是否真正进入AI转型，不能只看员工使用了多少工具，更要看AI是否改变了工作流程和组织运行方式。她以信息处理为例，过去需要多人花较长时间完成的工作，借助智能体后可能由更少的人就能完成。但随之而来的问题是：原有流程是否需要重新设计？哪些环节可以交给AI，哪些环节仍必须由人负责？员工又该把时间和精力转向什么工作？ 谈及当下普遍存在的“AI替代”焦虑情绪，高燕强调，AI技术的深入应用是对人的某些工作产生了替代，而并不是对人的替代。从短期来看，AI会",
+     "source": "东方财富股票",
+     "zh": "瑞华智策高燕：AI技术替代的是工作而不是人"
+    },
+    {
+     "title": "人瑞人才张建国：承载技术的组织能力是AI时代所稀缺的",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942128954.html",
+     "pubDate": "Sat, 28 Nov 2026 04:19:34 +0800",
+     "summary": "11月20日， 人瑞人才 董事长、瑞华智策CEO张建国在接受《中国经营报》记者专访时指出：AI技术带来的变化不只是工具升级，也将影响企业商业模式、生产方式和组织形态。 在张建国看来，AI时代真正稀缺的不仅是技术，更是能够承载技术、组织智能并持续创造价值的组织能力。他分析道，技术变革往往会推动企业经营方式和组织形态随之变化。从 计算机 、互联网到如今的 人工智能 ，每一次重要技术进步都会重新定义企业创造价值的方式。AI进入企业后，不能只被看作局部工具，也不能简单理解为给员工增加一种新能力。企业还要进一步思考：AI如何进入业务流程，哪些工作可以由技术承担，组织结构和人才机制又需要怎样调整。 “员工",
+     "source": "东方财富股票",
+     "zh": "人瑞人才张建国：承载技术的组织能力是AI时代所稀缺的"
+    },
+    {
      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
@@ -2273,38 +2321,6 @@
      "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
     },
     {
-     "title": "苹果在智利反垄断案中面临逾8000万美元罚款",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942126887.html",
-     "pubDate": "Sat, 28 Nov 2026 03:45:01 +0800",
-     "summary": "苹果 在智利反垄断案中面临逾8000万美元罚款。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "苹果在智利反垄断案中面临逾8000万美元罚款"
-    },
-    {
-     "title": "美国原油期货结算价报每桶83.08美元 跌幅0.72%",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942126145.html",
-     "pubDate": "Sat, 28 Nov 2026 03:32:42 +0800",
-     "summary": "美国（WTI）原油 期货 结算价报每桶83.08美元，跌幅0.72%。",
-     "source": "东方财富股票",
-     "zh": "美国原油期货结算价报每桶83.08美元 跌幅0.72%"
-    },
-    {
-     "title": "WTI原油期货结算价报每桶83.08美元，跌幅0.72%",
-     "link": "http://finance.eastmoney.com/news/1356,202611283942126380.html",
-     "pubDate": "Sat, 28 Nov 2026 03:32:25 +0800",
-     "summary": "WTI原油 期货 结算价报每桶83.08美元，跌幅0.72%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货结算价报每桶83.08美元，跌幅0.72%"
-    },
-    {
-     "title": "天能集团王恒利：从绿色智造到乡村共富 全面探索ESG实践新路径",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942126283.html",
-     "pubDate": "Sat, 28 Nov 2026 03:25:21 +0800",
-     "summary": "“对天能来说，绿色发展不是一个概念，也不是一个口号，它一定要和商业模式结合，构建产品设计、清洁工艺、数智制造、循环再生的绿色闭环生态圈。如果商业模式不成立，绿色发展很难落地。”11月23日，在“2026中国企业ESG大会”上，天能集团有限公司公共关系总监王恒利在发言中表示。 据王恒利介绍，天能围绕产品设计生态化、生产工艺清洁化、装备制造智能化、资源利用循环化四个方面，推动绿色发展融入生产经营全过程。从产品源头减少有害元素使用，到改进生产工艺、推进数智制造，再到废旧 电池 回收利用，企业逐步构建起覆盖生产制造和资源再生的绿色发展体系。 以产品设计为例，天能从源头入手，对产品中有毒有害元素的使用进",
-     "source": "东方财富股票",
-     "zh": "天能集团王恒利：从绿色智造到乡村共富 全面探索ESG实践新路径"
-    },
-    {
      "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
      "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
@@ -2313,28 +2329,12 @@
      "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
     },
     {
-     "title": "王伟：ESG表现最终会传递到资本市场",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942125946.html",
-     "pubDate": "Sat, 28 Nov 2026 03:22:43 +0800",
-     "summary": "做好ESG工作对企业长期风险管控具有重要价值，好的ESG表现有助于企业在资本市场的估值。 中国海洋石油 集团有限公司资本运营部资深专务王伟介绍， 中国海油 已经连续第22年披露可持续发展报告，是国内第一批开始可持续信息鉴证的企业。当前， 中国海油 已经建立了一套比较完善的可持续信息披露管理制度体系。经过长期实践， 中国海油 在ESG方面的工作可以归纳为三点：让数据可信、融入日常、真正转化到资本市场。 “对于资本市场，上市公司披露的数据得保证数据是准确的、真实的。”王伟说，公司每年会把资本市场比较关注的关键指标，比如温室气体排放、污染物排放、水资源管理、供应链管理等，聘请第三方进行鉴证，目的就是",
-     "source": "东方财富股票",
-     "zh": "王伟：ESG表现最终会传递到资本市场"
-    },
-    {
      "title": "SA Asks: What's the best gold play right now for investors?",
      "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942125682.html",
-     "pubDate": "Sat, 28 Nov 2026 03:21:46 +0800",
-     "summary": "美股经历此前的下跌后，投资者风险偏好回升， Anthropic 随大盘走高，重新站上83美元的发行价。 截至收盘， Anthropic （股票代码：ANT）股价报91.88美元，较前一交易日上涨10.98%，结束了连续两个交易日收于83美元发行价下方的局面，本周累涨3.34%。 这也意味着，这家上周刚创下首次公开募股（IPO）募资纪录的 人工智能 （AI）公司，成功以反弹结束其在 纳斯达克 上市后的首个完整交易周。 在 Anthropic 上市之前，市场对AI支出增长速度的担忧就已引发科技股震荡。先前，Anthropic已承诺，到2045年累计支出近9010亿美元。 黄仁勋本周早些时候重回 英",
-     "source": "东方财富股票",
-     "zh": "周五反弹扭转全周跌势 Anthropic单日涨11%收复发行价"
     },
     {
      "title": "从铝市场逼空到LME紧急干预：一场库存危机如何将交易所推向险境？",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 22:21:23",
+ "generated_at": "2026/11/28 22:31:45",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,22 @@
      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
      "source": "TechCrunch AI",
      "zh": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security"
+    },
+    {
+     "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+     "link": "https://www.qbitai.com/2026/11/513507.html",
+     "pubDate": "Sat, 28 Nov 2026 12:53:02 +0000",
+     "summary": "这还只是热身",
+     "source": "量子位",
+     "zh": "xAI联创张国栋戴自航创业，90天搓出互联网时光机"
+    },
+    {
+     "title": "最新：黎曼猜想证明通过独立验证！",
+     "link": "https://www.qbitai.com/2026/11/513484.html",
+     "pubDate": "Sat, 28 Nov 2026 12:42:37 +0000",
+     "summary": "六种检查全通过",
+     "source": "量子位",
+     "zh": "最新：黎曼猜想证明通过独立验证！"
     },
     {
      "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
@@ -177,22 +193,6 @@
      "zh": "同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告"
     },
     {
-     "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
-     "link": "https://www.qbitai.com/2026/11/513320.html",
-     "pubDate": "Fri, 27 Nov 2026 07:39:18 +0000",
-     "summary": "淡泊名利，实至名归🎉",
-     "source": "量子位",
-     "zh": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名"
-    },
-    {
-     "title": "DeepSeek APP突然更新账单，网友：要收费了？",
-     "link": "https://www.qbitai.com/2026/11/513305.html",
-     "pubDate": "Fri, 27 Nov 2026 07:29:10 +0000",
-     "summary": "网页App双端亮出聊天账单",
-     "source": "量子位",
-     "zh": "DeepSeek APP突然更新账单，网友：要收费了？"
-    },
-    {
      "title": "DeepSeek的账本来了！聊天多少钱，一目了然",
      "link": "https://zhidx.com/p/614968.html",
      "pubDate": "Fri, 27 Nov 2026 14:18:17 +0800",
@@ -329,6 +329,22 @@
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
+     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
+    },
+    {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -351,6 +367,38 @@
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -447,46 +495,6 @@
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
     }
    ]
   },
@@ -1729,6 +1737,30 @@
    "total": 18,
    "items": [
     {
+     "title": "【视频】风云概念车 AURA 首次亮相，理工男奇瑞风云开始聊审美",
+     "link": "https://www.ithome.com/1/034/019.htm",
+     "pubDate": "Sat, 28 Nov 2026 14:29:19 GMT",
+     "summary": "广州车展很难记住谁是谁，但风云AURA概念车一眼忘不掉：猎豹蓄力的低趴侧面、瓷器感车漆、珠宝级按键阻尼，把浪漫藏进每一处细节。 点击关注IT之家视频号",
+     "source": "IT之家",
+     "zh": "【视频】风云概念车 AURA 首次亮相，理工男奇瑞风云开始聊审美"
+    },
+    {
+     "title": "消失的鬼字，降临的诡异世界",
+     "link": "https://www.huxiu.com/article/4909229.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 22:20:23 +0800",
+     "summary": "本文来自微信公众号： 一点人间见识 ，作者：无梦生 最近狂刷红果短剧，连续刷到几部诡异规则怪谈类的剧目。 大概套路是如下：主角被丢进一个有诡异的世界，上了一辆神秘的公交车，车上贴着几条规则。守规则就能活，不遵守规则就会被嘎。 在这类世界里，诡异是一种单独的生物，有自己的习性和禁忌。 我之前只看修真和历史类的网文，真没接触过这类小说，所以一度刷起来很是上头。但看着看着，总觉得有点别扭。这个剧里人挂在嘴上的\"诡异\"，好像就是我们平时说的鬼。 又继续刷了几部后，发现这类短剧的设定其实很完整：世界上有人，也有诡异，两种东西并存；诡异拥有的有各种功能的物品叫\"诡物\"。 看到这里，我基本可以确定，这个诡，",
+     "source": "虎嗅",
+     "zh": "消失的鬼字，降临的诡异世界"
+    },
+    {
+     "title": "雷军回应初代小米用户催更 18 标准版：非常感动，仿佛回到了 15 年前小米手机刚刚发布",
+     "link": "https://www.ithome.com/1/034/017.htm",
+     "pubDate": "Sat, 28 Nov 2026 14:14:30 GMT",
+     "summary": "IT之家 11 月 28 日消息，小米创始人、董事长兼 CEO 雷军昨日发文，披露了其 11 月 26 日前往微博公司参观学习的行程。 据微博数码消息，雷军到访新浪微博总部时， 遇到了小米 1 老用户现场催更小米 18 。 IT之家注意到，雷军今日发文，回应了此次“催更”事件： 前几天，我到微博公司参观，有位微博员工拿出他的小米手机 1，还带着蒙德里安艺术家后盖，请我签字。 那一瞬间，我真的非常感动，仿佛回到了 15 年前小米手机刚刚发布 。 值得一提的是，雷军微博还带上了“小米 18”这一话题， 或暗示新机将至 。 据IT之家今日早些时候报道，小米官方已经在小米商城、京东、天猫等平台开启小米",
+     "source": "IT之家",
+     "zh": "雷军回应初代小米用户催更 18 标准版：非常感动，仿佛回到了 15 年前小米手机刚刚发布"
+    },
+    {
      "title": "17 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
      "link": "https://www.wired.com/story/black-friday-best-buy-deals-11-28-2026/",
      "pubDate": "Sat, 28 Nov 2026 14:03:30 +0000",
@@ -1785,28 +1817,12 @@
      "zh": "用时三年，广汽丰田铂智品牌完成 20 万台交付"
     },
     {
-     "title": "记者实测十品牌仅小米电视有开机广告：客服回应称属互联网电视（OTT），用户只能向其申请关闭",
-     "link": "https://www.ithome.com/1/034/011.htm",
-     "pubDate": "Sat, 28 Nov 2026 13:30:44 GMT",
-     "summary": "IT之家 11 月 28 日消息，昨日（11 月 27 日），国家广播电视总局第 17 号令与第 18 号令正式施行。两项规定均明确， 有线电视与 IPTV 运营服务提供者应坚持直播优先原则 ，不得播放开机广告 。 图源：Pexels 据大风新闻今日报道，华商报大风新闻记者走访商场，实测 TCL、卡萨帝、创维、飞利浦、长虹、东芝、海信、华为、小米、三星等 10 个品牌的电视机，通过遥控器或电视机设置的开关按钮尝试， 仅小米电视仍存在开机广告 。 报道提到，小米客服对此表示， 小米电视属于互联网电视（OTT），用户只能向客服申请关闭开机广告 ，申请提交后，会在 24 小时内协助关闭。 参考IT之",
-     "source": "IT之家",
-     "zh": "记者实测十品牌仅小米电视有开机广告：客服回应称属互联网电视（OTT），用户只能向其申请关闭"
-    },
-    {
      "title": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed",
      "link": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
      "pubDate": "Sat, 28 Nov 2026 13:21:21 +0000",
      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/ Comments URL: https://news.ycombinator.com/item?id=50677340 Points: 8 # Comments: 5",
      "source": "Hacker News",
      "zh": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed"
-    },
-    {
-     "title": "浙江大学团队用脑机接口治疗难治性抑郁症，在重大精神疾病精准治疗赛道实现突破",
-     "link": "https://www.ithome.com/1/034/010.htm",
-     "pubDate": "Sat, 28 Nov 2026 13:17:39 GMT",
-     "summary": "IT之家 11 月 28 日消息，浙江大学发文，11 月 24 日，浙江大学计算机学院与双脑中心脑机接口团队联合多家单位，发布了面向难治性抑郁症精准治疗的侵入式脑机接口系统 —— DeepAxtiv ，为全国约 3000 万被难治性抑郁症折磨的患者点亮了希望的曙光。 已开展的临床试验表明， DeepAxtiv 的疗效大幅优于当前国际同行平均水平 ，标志着我国侵入式脑机接口在重大精神疾病精准治疗赛道实现关键性突破。 据介绍，研究团队自主攻克三大核心技术体系： 全球首创抑郁个性化靶点选择技术 iTarget，能够为每位患者匹配最优治疗靶点，实现刺激干预方案的个性化优化； 推出全球领先的抑郁症状感知",
-     "source": "IT之家",
-     "zh": "浙江大学团队用脑机接口治疗难治性抑郁症，在重大精神疾病精准治疗赛道实现突破"
     },
     {
      "title": "美团每年砸百亿做AI，王兴不想只做外卖生意",
@@ -1919,14 +1935,6 @@
      "summary": "本文来自微信公众号： 智先生 ，作者：Isidore 今年感恩节，美国艾奥瓦州的民众过得不咋愉快，尤其是东南部米德尔敦镇的居民，更是提心吊胆。 因为节前一天，美军在他们家门口的弹药厂点了个超大号“烟花”，有毒的。被炸掉的是68桶叠氮化铅，将近5吨，这东西是雷管里的起爆药，相当于炸药的火柴头。 引爆之前，弹药厂西南5英里内的居民被劝去住酒店，20英里内的则被要求关死门窗，关掉暖气，自行买胶带糊门缝。 炸完几分钟，大统领发帖，说陆军的处置远远超出预期，随后又称之为“伟大的成功”；一小时后，美国环保署（EPA）通报全国，周边空气中的铅含量“零检出”。 军方高兴，白宫高兴，EPA也高兴，唯独老百姓不买",
      "source": "虎嗅",
      "zh": "美国这个州，真炸了"
-    },
-    {
-     "title": "7100万倍，马斯克画出“宇宙级”大饼",
-     "link": "https://www.huxiu.com/article/4909218.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 20:29:16 +0800",
-     "summary": "本文来自微信公众号： 格隆 ，作者：独行侠，原文标题：《7100万倍！马斯克画出“宇宙级”大饼》 11月26日，马斯克在X上发了简短的帖子。 大意是：如果SpaceX能实现多行星生存，再捕获哪怕百万分之一的太阳能，公司未来市值可能达到当前全球经济规模的约100万倍。 按IMF的口径，2026年全球经济规模约128万亿美元，100万倍，就是1.28亿亿美元。而SpaceX当前市值约1.8万亿美元，也就是说，这个远期目标大约是现在的7100多万倍。 他本人也承认“难度极大”，而且照例，没有时间表，没有可证伪的路径。 这个数字，虽然夸张到完全没有任何实际考究价值，但并非没有意义。 要知道，这句话出现",
-     "source": "虎嗅",
-     "zh": "7100万倍，马斯克画出“宇宙级”大饼"
     },
     {
      "title": "科学家用海鸟监视关闭 AIS 信号的船只",
@@ -2249,12 +2257,36 @@
      "zh": "AI data center boom strains construction labor across the U.S."
     },
     {
+     "title": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942399188.html",
+     "pubDate": "Sat, 28 Nov 2026 21:53:53 +0800",
+     "summary": "上证报中国证券网讯（记者 宋薇萍）近日，第十一届“创客中国”中小企业创新创业大赛全国总决赛在上海杨浦区复兴岛举行。经过一天半的激烈角逐，本届赛事全国总决赛收官。 重庆张雪机车、广州艾佛光通、苏州领慧立芯、武汉微泰 电子 、福建国光新业等 5家企业荣获企业组一等奖 ，企业组另评出二等奖15名、三等奖30名；创业组一等奖由武汉芯力科技术有限公司斩获，另评出二等奖3名、三等奖4名。 本届总决赛由工业和信息化部 网络安全 产业发展中心（工业和信息化部信息中心）、上海市经济和信息化委员会、上海市杨浦区人民政府共同主办。 自3月启动以来，本届赛事共举办35个省级区域赛、15个专题赛和1个境外区域赛， 参赛",
+     "source": "东方财富股票",
+     "zh": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖"
+    },
+    {
+     "title": "业界共探港航产业高端化、智能化、绿色化发展新路径",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942399059.html",
+     "pubDate": "Sat, 28 Nov 2026 21:53:47 +0800",
+     "summary": "上证报中国证券网讯（记者 王文嫣）近日，由中交集团主办、上海 振华重工 集团承办的“智启港航新征程，共筑产业新生态”智慧港航产业高质量发展论坛在北京举行。该论坛作为中交集团产业协同创新与融合发展联盟成立大会的分论坛之一，汇聚来自行业协会、国内外 港口 企业、科研院所、高校及合作伙伴等60多家单位共计120名业内代表，共探港航产业高端化、智能化、绿色化发展新路径。 交通运输 部水运局二级巡视员翁笑冰表示，港航产业是国民经济基础性、战略性产业，智慧港航是水运行业培育新质生产力的重要抓手。 交通运输 部水运局将围绕“十五五”水运“一网四化”建设方向，以一体化融合畅通枢纽衔接，以安全化提升筑牢韧性底线",
+     "source": "东方财富股票",
+     "zh": "业界共探港航产业高端化、智能化、绿色化发展新路径"
+    },
+    {
      "title": "Elon Musk says Google willing to rent more compute from SpaceX",
      "link": "https://seekingalpha.com/news/4677117-musk-says-google-willing-rent-spacex-compute?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 28 Nov 2026 08:53:20 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Elon Musk says Google willing to rent more compute from SpaceX"
+    },
+    {
+     "title": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942398738.html",
+     "pubDate": "Sat, 28 Nov 2026 21:48:00 +0800",
+     "summary": "11月27日，四川证监局披露一则行政处罚决定书，一名证券从业人员因在内幕信息敏感期内控制使用他人证券账户买卖股票获利61.61万元，同时被查出长达18年借用他人账户违规炒股，两项违法合计被没收违法所得61.61万元、罚款148.21万元， 罚没总额约209.82万元 。 根据行政处罚决定书，2025年8月6日早间，相关公司公告《关于控股股东、实际控制人签署〈股份转让协议〉、〈表决权委托协议〉暨控制权变更的提示性公告》。该公告内容属于《证券法》第八十条第二款第八项、第九项所列重大事件，公开前构成内幕信息，内幕信息敏感期为2025年7月7日至2025年8月6日早间。 四川证监局查明，当事人刘某林在",
+     "source": "东方财富股票",
+     "zh": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万"
     },
     {
      "title": "Billions on the line for Berkshire utility as Oregon&apos;s high court reviews wildfire claims",
@@ -2279,6 +2311,30 @@
      "summary": "■冷翠华 《保险公司资产负债管理办法》（以下简称《办法》）将于2027年1月1日起施行。《办法》进一步强化资产负债管理工作的重要性，压实保险公司董事会最终责任。资产负债管理成效，正是衡量保险公司治理成色的一把尺子，保险公司需要多维度完善机制，做好资产负债管理。 压实各层级责任，理顺资产负债管理的治理结构。保险公司董事会要统筹审定资产负债战略、重大产品方案、长期资产配置政策，持续跟踪错配风险...",
      "source": "经济观察网",
      "zh": "资产负债统筹能力检验险企治理水平"
+    },
+    {
+     "title": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942399496.html",
+     "pubDate": "Sat, 28 Nov 2026 21:43:00 +0800",
+     "summary": "大模型走向规模化商用，企业最关心的已从“能不能用”转向“划不划算、担不担责、信不信得过”。长期跟踪AI合规与审计一线的美国圣克拉拉大学教授、信息系统与分析系主任陆海兵接受证券时报记者专访时，围绕商业化落地、成本收益、责任划分、数据隐私、合规能力和产业链趋势作了梳理。 他认为，跑通闭环的多是 软件开发 、智能客服、金融数据处理和 专业服务 自动化等需求原本就存在的场景；自主医疗诊断、金融投资决策、通用型AI数字员工仍受可靠性和责任归属制约。合规正从成本负担转向竞争优势；未来三到五年，AI有望从辅助单任务走向参与完整业务流程，但治理必须跟得上自主能力扩张。 商业化：哪些跑通闭环，哪些仍在试点 证券",
+     "source": "东方财富股票",
+     "zh": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去"
+    },
+    {
+     "title": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942399355.html",
+     "pubDate": "Sat, 28 Nov 2026 21:41:11 +0800",
+     "summary": "苏超决赛现场 数万名观众齐聚南京奥体中心 热闹的赛场之下 一场空中守护正在悄然进行 无人机 升空执勤 AI实时研判人流、车流 为现场观众的安全保驾护航 苏超决赛： 低空系统守护万人赛场 2026年苏超决赛，赛事方在南京奥体中心现场部署 24架 无人机 空中执勤 ，与地面传统监控联动，实时掌握地面人员流动态势。 如今的安防早已不同于以往， 无人机 承担空中布控职能，与地面传统监控形成联动。 由 中国电信 与公安联合打造的低空智能指挥调度系统，通过AI实时分析、测算人群密度，辅助开展人流精准疏导；同时感知奥体周边车辆数量，联动疏导道路交通。6万多名观众在不到30分钟的时间内安全有序离场。 双重守护",
+     "source": "东方财富股票",
+     "zh": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→"
+    },
+    {
+     "title": "全新红旗H9广州车展上市，售价32.98万元起",
+     "link": "http://finance.eastmoney.com/news/11262,202611283942399274.html",
+     "pubDate": "Sat, 28 Nov 2026 21:41:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）11月27日，全新红旗H9于2026广州车展正式上市，推出 豪华 MAX、尊贵Ultra、旗舰Ultra、四驱旗舰Ultimate共4款车型，售价区间为 32.98万元-41.98万元 。 全新H9的长宽高参数分别为5230/1955/1515毫米，轴距 3120毫米，定位中大型轿车。车内搭载鸿蒙座舱、25扬声器构成的HUAWEI SOUND卓越系列7.1.4空间音响。 动力方面，全新红旗H9基于混动专属架构打造，搭载2.0T插混系统，发动机最大功率140千瓦，单电机最大功率220千瓦，双电机最大功率444千瓦，匹配纵置双挡混动电驱与40.4千瓦时 电池 包。",
+     "source": "东方财富股票",
+     "zh": "全新红旗H9广州车展上市，售价32.98万元起"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2321,14 +2377,6 @@
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
-     "title": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”",
-     "link": "http://stock.eastmoney.com/news/11219,202611283942396292.html",
-     "pubDate": "Sat, 28 Nov 2026 20:55:26 +0800",
-     "summary": "从两百万元级的行政旗舰，到十万元出头的家用轿车， 自主品牌在2026车市“收官之战”的广州车展集体“亮剑” 。 第二十四届广州国际车展以“新科技?新生活”为主题，展览面积达22万平方米，展车总数1106辆。其中， 首发新车115辆，创下广州车展 历史新高 ； 新能源 展车707辆，占比达63.9%，较去年增加78辆。 “随着年末促销、广州车展等活动陆续展开，如何将阶段性客流转化为有效订单，推动消费需求持续释放，成为产业链各方关注的重点。”中国 汽车 工业协会副秘书长陈士华表示。 本届车展上“东道主” 广汽、 比亚迪 继续包馆 。“自主一哥” 比亚迪 集团在2.1号馆打造品牌独立展区，王朝、海洋",
-     "source": "东方财富资讯",
-     "zh": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”"
-    },
-    {
      "title": "2027款岚图泰山开启预售 预售价43.99万元",
      "link": "http://www.eeo.com.cn/2026/1128/1106814.shtml",
      "pubDate": "Sat, 28 Nov 2026 20:45:47 +0800",
@@ -2359,14 +2407,6 @@
      "summary": "智能化方面，NX7搭载Momenta R7世界模型及激光雷达，泊车能力覆盖全国300余种场景，官方称可应对仅宽出车身40厘米的极限窄位。",
      "source": "经济观察网",
      "zh": "东风日产NX7上市 限时权益价11.99万元起"
-    },
-    {
-     "title": "11月28日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202611283942394613.html",
-     "pubDate": "Sat, 28 Nov 2026 20:38:00 +0800",
-     "summary": "今日摘要 习近平总书记指出，要扎实做好非物质文化遗产的系统性保护，更好满足人民日益增长的精神文化需求，推进文化自信自强。党的十八大以来，以习近平同志为核心的党中央高度重视非遗保护传承工作，推动非遗在创造性转化、创新性发展中融入现代生活，焕发时代光彩。 系列报道《学习贯彻五中全会精神在基层》今天播出：福建漳州、山东青岛落实全会精神，推动基层党建服务民生一线。 1至10月，全国社会 物流 总额同比增长4.8%，高端 物流 需求加快释放。 《活力中国调研行》今天播出：各地如何补短板、通堵点，让开放之路越走越宽。 神舟二十三号和神舟二十四号航天员完成在轨交接。 伊朗称，夺回两艘此前被美军劫持的油轮；美",
-     "source": "东方财富资讯",
-     "zh": "11月28日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "These tech stocks may let you play defense without giving up on AI",
@@ -2401,14 +2441,6 @@
      "zh": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？"
     },
     {
-     "title": "下周A股解禁市值逾430亿元 矿业巨头解禁居首",
-     "link": "http://stock.eastmoney.com/news/11134,202611283942384274.html",
-     "pubDate": "Sat, 28 Nov 2026 18:50:00 +0800",
-     "summary": "下周A股解禁市值逾 430亿元 。 据证券时报·数据宝统计，下周（11月30日至12月4日），A股将有32家上市公司迎来限售股解禁。以最新价计算，32家上市公司解禁股对应市值合计约 433.07亿元 。 从规模上看，8股解禁市值超过10亿元。 中国铀业 解禁市值达 201.39亿元 ，居于第一； 京仪装备 、 鑫宏业 、 深粮控股 、 中机认检 分列第二至第五，解禁市值均在30亿元以上。从类型上看，除 深粮控股 为定向增发机构配售股份，其余4股均为首发限售股份。 中国铀业 前三季度实现营收157.99亿元，同比增长14.78%；归母净利润14.39亿元，同比增长19.92%。公司是唯一在A股上",
-     "source": "东方财富资讯",
-     "zh": "下周A股解禁市值逾430亿元 矿业巨头解禁居首"
-    },
-    {
      "title": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复",
      "link": "https://wallstreetcn.com/articles/3786912",
      "pubDate": "Sat, 28 Nov 2026 18:35:00 +0800",
@@ -2425,36 +2457,12 @@
      "zh": "马斯克：算力租赁价格走向分化"
     },
     {
-     "title": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942379974.html",
-     "pubDate": "Sat, 28 Nov 2026 18:02:30 +0800",
-     "summary": "今日，马斯克在X平台发帖称， 谷歌已表达意向，计划从 SpaceX 租用更多AI算力 。 马斯克是在回复X平台用户X Freeze时作出上述表态。此前X Freeze曾评论称，如果谷歌最终从 SpaceX 采购的算力规模超过 Anthropic ，他完全不会感到意外。谷歌已承诺在多个国家为用户免费提供为期两年的Gemini付费版使用权，且目前谷歌的模型性能十分出色，迟早会需要大量算力资源。 随后，马斯克表示“不确定谁会买更多”，并同步披露算力 租赁 市场的价格分化信号： 面向高带宽训练、规模大且连贯的算力集群租金持续走高；而5000张GPU以内的中小算力订单，租金则在下降 。 两者 综合 下来",
-     "source": "东方财富资讯",
-     "zh": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势"
-    },
-    {
      "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
      "link": "https://wallstreetcn.com/articles/3786910",
      "pubDate": "Sat, 28 Nov 2026 17:55:20 +0800",
      "summary": "美国家庭对股市的押注已达到有史以来最高水平，即便AI股票近期大幅下挫，散户资金仍源源不断涌入。这场长达四年的牛市正将数以百万计的普通投资者推向前所未有的风险敞口，而他们的财富走向，也将在很大程度上左右市场能否企稳。 据德意志银行对EPFR数据的分析， 今年流入追踪美股的ETF及共同基金的新增资金已超过4500亿美元，有望创下历史纪录。即便在过去一个月AI交易全面瓦解、市场剧烈震荡之际，仅11月截至18日，美国股票基金仍净流入逾1410亿美元——彼时标普500指数已下跌3.4%。 Ned Davis Research首席美国策略师Ed Clissold的数据显示， 美国股票目前占美国家庭金融资产",
      "source": "华尔街见闻",
      "zh": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入"
-    },
-    {
-     "title": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速",
-     "link": "http://stock.eastmoney.com/news/11228,202611283942378384.html",
-     "pubDate": "Sat, 28 Nov 2026 17:26:58 +0800",
-     "summary": "11月26日，美国太空探索技术公司 SpaceX 负责人马斯克在社交媒体发文：在满足一定条件的前提下， SpaceX 未来市值可能达到当前全球经济规模的约100万倍 。他同时呼吁投资者持有 SpaceX 股票。 与此同时， SpaceX与马斯克旗下另一家公司 特斯拉 的合并谈判已进入实操阶段 。 目前两家公司合计市值接近3.4万亿美元 。 远期市值可达全球经济100万倍 两个前提条件门槛极高 马斯克给出的条件有两个：一是成功将人类的生存范围拓展至多个星球，二是捕获利用哪怕只有百万分之一的 太阳能 量。 按照国际货币基金组织的数据，2026年全球经济规模约为128万亿美元。而截至11月27日美股",
-     "source": "东方财富资讯",
-     "zh": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速"
-    },
-    {
-     "title": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？",
-     "link": "http://finance.eastmoney.com/news/1345,202611283942378265.html",
-     "pubDate": "Sat, 28 Nov 2026 17:25:31 +0800",
-     "summary": "加密货币市场集体下挫！ 刚刚过去的24小时内，加密货币市场集体跳水。截至发稿，比特币跌幅超过3%，跌破6万美元关口；以太坊跌超4%，XRP、HYPE、BNB跌超3%，Solana跌2.60%。比特币曾在27日早些时候跟随美国股指 期货 上涨，但在美股正式开盘后再度承压，走势与美股出现明显分化。 根据CoinGlass数据，最近24小时加密货币全网共有10万人爆仓，爆仓总金额超过4亿美元。其中，最大单笔爆仓发生在Binance-ETHUSDT交易对，价值999.28万美元。 近几周加密货币市场表现疲弱。11月27日，美国现货比特币ETF单日净流出3.89亿美元，连续第八个交易日遭遇资金流出；自1",
-     "source": "东方财富资讯",
-     "zh": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？"
     },
     {
      "title": "The mathematicians living through an AI revolution",

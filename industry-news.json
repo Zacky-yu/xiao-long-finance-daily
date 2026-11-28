@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 16:51:53",
+ "generated_at": "2026/11/28 17:11:53",
  "recent_days": 7,
  "industries": [
   {
@@ -329,14 +329,6 @@
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
-     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
-     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
-     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
-     "source": "SemiAnalysis",
-     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
-    },
-    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -465,14 +457,6 @@
      "zh": "A Defect Is Not Yet a Scrap Decision"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -495,6 +479,22 @@
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
+    },
+    {
+     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+     "link": "https://www.pv-magazine.com/2026/11/28/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites/",
+     "pubDate": "Sat, 28 Nov 2026 08:50:00 +0000",
+     "summary": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C&I) sites just over 1 MWh of storage. The post Chinese inverter maker bundles DC-coupled storage for commercial sites appea",
+     "source": "pv magazine",
+     "zh": "Chinese inverter maker bundles DC-coupled storage for commercial sites"
+    },
+    {
      "title": "Leading the energy transition: stereotypes, AI and what stays human",
      "link": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/",
      "pubDate": "Sat, 28 Nov 2026 08:45:00 +0000",
@@ -983,14 +991,6 @@
      "summary": "Greenhouse lettuce thrives under natural sunlight filtered through specialized glass from the perovskite solar startup UbiQD, while conserving water resources, too. The post The Proof Is In The Lettuce: Perovskite Makes Things Grow Better appeared first on CleanTechnica .",
      "source": "CleanTechnica",
      "zh": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better"
-    },
-    {
-     "title": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity",
-     "link": "https://www.pv-magazine.com/2026/11/27/japans-30th-solar-auction-allocates-27-7-mw-of-pv-capacity/",
-     "pubDate": "Fri, 27 Nov 2026 14:24:01 +0000",
-     "summary": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh. The post Japan’s 30th solar auction allocates 27.7 MW of PV capacity appeared fi",
-     "source": "pv magazine",
-     "zh": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity"
     },
     {
      "title": "France targeting termination of 3.5GW solar PV contracts",
@@ -1361,6 +1361,14 @@
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
+     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
+     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
+    },
+    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1391,6 +1399,14 @@
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
+    },
+    {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1433,6 +1449,30 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1457,6 +1497,14 @@
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1479,30 +1527,6 @@
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
-    },
-    {
-     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
-     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1713,12 +1737,76 @@
    "total": 18,
    "items": [
     {
+     "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
+     "link": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/",
+     "pubDate": "Sat, 28 Nov 2026 08:58:38 +0000",
+     "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
+     "source": "WIRED",
+     "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
+    },
+    {
+     "title": "《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？",
+     "link": "https://www.ithome.com/1/033/927.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:54:34 GMT",
+     "summary": "IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《后 AI 时代最重要的问题》的长文，全文约 8000 字。文章发出后，引发全网热议。 冯骥在文章开篇提出了一个问题：当人工智能（AI）在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？他认为， 这就是后 AI 时代最重要的问题，没有之一 。 在他看来，这轮 AI 革命与历次工业革命有两点根本不同： 一是“迁徙的高地没了” 过去，机器替代的是肌肉与脚力，人从农田退进车间，从流水线退进写字楼，一路往更费脑子的高处搬家，新冒出来的行业往往有着更细",
+     "source": "IT之家",
+     "zh": "《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？"
+    },
+    {
+     "title": "今年 10 月，欧盟纯电动汽车销量超过汽柴油汽车之和",
+     "link": "https://www.ithome.com/1/033/926.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:50:23 GMT",
+     "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 insideevs 报道，欧盟纯电动汽车市场正加速增长。10 月新车注册量比 2025 年同期增加约 24000 辆，其中纯电动车就贡献了超过 10.6 万辆的增量。与之形成对比的是，纯汽油车注册量下降近 30%，柴油车也下降了 31%。 欧洲汽车制造商协会（ACEA）数据显示，欧盟 10 月共 注册 279799 辆纯电动乘用车 ，同比上涨 61.4%。同期， 汽油车注册量为 158970 辆，柴油车为 51177 辆 。换句话说，上个月欧盟每 新增 3 辆汽油车或柴油车，就有约 4 辆纯电动车上牌 。 IT之家注：ACEA 将混",
+     "source": "IT之家",
+     "zh": "今年 10 月，欧盟纯电动汽车销量超过汽柴油汽车之和"
+    },
+    {
+     "title": "神舟二十三号和神舟二十四号航天员完成在轨交接，首名外籍航天员将返回",
+     "link": "https://www.ithome.com/1/033/924.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:50:05 GMT",
+     "summary": "IT之家 11 月 28 日消息，据央视新闻报道，北京时间 2026 年 11 月 28 日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙。根据任务计划安排， 首名外籍航天员穆罕默德 · 齐尚 · 阿里将乘坐神舟二十三号飞船返回 ，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。 截至目前，航天员张志远、黎家盈、穆罕默德 · 齐尚 · 阿里已完成全部既定任务，航天员张志远将担任神舟二十三号返回任务指令长。 3 名航天员将于近日搭乘飞船返回东风着陆场 ，还将带回来自“天宫”的“神秘礼物”。 目前，着陆场及各参试系统正在",
+     "source": "IT之家",
+     "zh": "神舟二十三号和神舟二十四号航天员完成在轨交接，首名外籍航天员将返回"
+    },
+    {
+     "title": "永诺 16mm F1.8 DA DSM APS-C 镜头新增尼康 Z 卡口，1299 元",
+     "link": "https://www.ithome.com/1/033/923.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:49:14 GMT",
+     "summary": "IT之家 11 月 28 日消息，永诺今日宣布推出 YN16mm F1.8Z DA DSM Z 卡口 APS-C 画幅广角镜头，该镜头此前已推出索尼 E 卡口版本，新品首发价 1299 元 。 这款镜头等效全画幅 24mm 焦段，重约 273g ；拥有 Fn-A、Fn-B 两个自定义按键；支持控制环操作，可根据使用需求分配光圈、ISO、曝光补偿等功能；搭载 DSM 数控步进电机，对焦响应快、精度高、寻焦动作安静。 这款镜头搭载 8 组 10 片光学结构，包含非球面镜片、低色散镜片及超低色散镜片；配合纳米多层镀膜，提升透光率并抑制逆光鬼像与眩光。 IT之家附产品规格如下： 京东 永诺 YN 16",
+     "source": "IT之家",
+     "zh": "永诺 16mm F1.8 DA DSM APS-C 镜头新增尼康 Z 卡口，1299 元"
+    },
+    {
+     "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max",
+     "link": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/",
+     "pubDate": "Sat, 28 Nov 2026 08:49:12 +0000",
+     "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage.",
+     "source": "WIRED",
+     "zh": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max"
+    },
+    {
      "title": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off",
      "link": "https://www.wired.com/story/black-friday-headphone-deals-11-28-26/",
      "pubDate": "Sat, 28 Nov 2026 08:43:46 +0000",
      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
      "source": "WIRED",
      "zh": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off"
+    },
+    {
+     "title": "上汽乘用车副总经理张亮：荣威大概率不会再有 10 万以下的车，成本太低产品很难做好",
+     "link": "https://www.ithome.com/1/033/922.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:42:12 GMT",
+     "summary": "IT之家 11 月 28 日消息，据“麻辣车评官方微博”消息，2026 年广州车展上，上汽乘用车副总经理、销售公司总经理张亮在接受媒体采访时表示， 荣威极大可能不会再有 10 万元以下的车 。 张亮表示，所谓荣威“家越”，就是要让家更跨越，这个名字一看就能感受到品牌的定位和态度，定位就是为家，态度就是要更好、更跨越、更超越。 他称，要做到更超越，没有一定的成本保证、没有一定的价格保证，很难跨越； 太便宜、成本太低，产品很难做得好 ，所以要往上跨越、往上超越，不断在 AI 原生上进行突破，让产品更好地满足更多家庭的需要。他补充称，荣威“绝大概率不会再有 10 万以下的车”。 IT之家注意到，目前",
+     "source": "IT之家",
+     "zh": "上汽乘用车副总经理张亮：荣威大概率不会再有 10 万以下的车，成本太低产品很难做好"
+    },
+    {
+     "title": "首销 499 → 329 元：荣耀 Earbuds 耳夹耳机新低，Hi-Res 金标音质",
+     "link": "https://www.ithome.com/1/033/921.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:38:37 GMT",
+     "summary": "荣耀 Earbuds 耳夹式耳机于 11 月 23 日正式发布，其拥有 Hi-Res 金标音质、约 40 小时综合续航。 官方建议零售价 499 元，今日叠加国补后仅需 339 元破冰新低。 评价返 10 元 E 卡，折合仅需 329 元： 先领 50 元券： 点此领券 京东 荣耀 Earbuds 耳夹式耳机 星空黑 国补后 339 元 直达链接 京东 荣耀 Earbuds 耳夹式耳机 珠光白 国补后 339 元 直达链接 已有不少 UP 主做了这款耳机与华为 FreeClip2 对比视频，有需求的小伙伴可以搜搜看： 点此查看示例 。 据介绍，这款耳机提供星空黑和珠光白两款配色，拥有专属挂饰配",
+     "source": "IT之家",
+     "zh": "首销 499 → 329 元：荣耀 Earbuds 耳夹耳机新低，Hi-Res 金标音质"
     },
     {
      "title": "从“炫技”到“上岗”，机器人干活能力迎大考",
@@ -1745,60 +1833,12 @@
      "zh": "I Found the Best Black Friday Deals on Phones (2026): iPhone, Pixel, and Moto Up to 50% Off"
     },
     {
-     "title": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家",
-     "link": "https://www.ithome.com/1/033/920.htm",
-     "pubDate": "Sat, 28 Nov 2026 08:15:41 GMT",
-     "summary": "IT之家 11 月 28 日消息，《科创板日报》今日报道，南京市今日发布《开源鸿蒙智能体发展行动计划（2026—2028 年）》，部署九项重点任务，涵盖鸿蒙智能体产品发展、生态企业培育、公共服务体系完善、产业园区建设、特色 OPC 社区打造、安全可信技术支撑体系构建、标杆场景打造及人才体系培育等。 按照该行动计划，目标到 2028 年，打造标杆场景超 10 个，集聚生态企业超 100 家， 企业营收规模超 1000 亿元 ，建成全国领先的鸿蒙智能体创新高地。 IT之家注意到，11 月 28 日，2026 开源鸿蒙技术大会在南京举行。华为公司常务董事、终端 BG 董事长余承东视频致辞称，开源鸿蒙",
-     "source": "IT之家",
-     "zh": "南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家"
-    },
-    {
-     "title": "全新实景视图特斯拉 FSD v15 不再独有，小米汽车世界模型 2.0 实时渲染能力公开",
-     "link": "https://www.ithome.com/1/033/919.htm",
-     "pubDate": "Sat, 28 Nov 2026 08:08:21 GMT",
-     "summary": "IT之家 11 月 28 日消息， 特斯拉 11 月 22 日宣布在美国市场推出 FSD v15 ，并向早期体验计划（EAP）成员推送首批版本。本次更新对安全关键场景的处理能力宣称提升了 25 倍，同时带来了全新可视化界面 ——“Tesla Reality View”（实景视图）。 昨日， 小米汽车正式发布 Xiaomi Auto World Model 2.0 （小米汽车世界模型 2.0）。官方宣称小米汽车世界模型 2.0 进一步将多视角视频生成、物理交互建模、三维场景重建与动作建模连接起来，为辅助驾驶和具身智能统一因果世界模型带来新的范式。 据介绍，模型支持 1—7 路摄像头视角，训练语料",
-     "source": "IT之家",
-     "zh": "全新实景视图特斯拉 FSD v15 不再独有，小米汽车世界模型 2.0 实时渲染能力公开"
-    },
-    {
      "title": "袁记云饺在猪价暴跌中越赚越多，但加盟商回本更难了",
      "link": "https://www.huxiu.com/article/4909182.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 16:07:23 +0800",
      "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 12月7日，被称为“中国最大饺子IPO”的袁记食品将正式登陆港股。要知道，截至11月20日，港股年内已有126家公司完成上市，但内地餐饮企业的挂牌数量，截至11月下旬依然是零。 看得出来，资本对传统餐饮讲的开店故事已失去耐心。 可同样经历过今年1月首次递表失效、7月重新递表的袁记食品，却硬是在11月拿到了港交所的通行证。根据公告，若按最高发售价计算且不计超额配售权，袁记食品本次发行募资总额约4.57亿港元。 从广州菜市场一间5平方米的档口，到全球近4800家门店，袁记食品用了十四年。如果顺利挂牌，它将成为港股“现制饺子云吞第一股”，也是2026年",
      "source": "虎嗅",
      "zh": "袁记云饺在猪价暴跌中越赚越多，但加盟商回本更难了"
-    },
-    {
-     "title": "北京：今年新采购公交车实现 100% 新能源化",
-     "link": "https://www.ithome.com/1/033/918.htm",
-     "pubDate": "Sat, 28 Nov 2026 08:03:33 GMT",
-     "summary": "IT之家 11 月 28 日消息，据“北京发布”，2026 年，北京公交集团计划采购公交车 2470 辆， 新购车辆实现 100% 新能源化 。从车型构成看，8 米、10 米级车辆合计 1784 辆，占比达到 72%。中小型车辆能够更好适配不同线路客流特点和城市道路通行条件，满足接驳地铁、复杂路况等灵活运营场景需求，进一步优化首都公交运力结构。 2026 年，北京公交集团全年计划采购公交车 2470 辆，包括 8 米纯电动车 900 辆、10 米纯电动车 884 辆、12 米纯电动车 105 辆、13.7 米纯电动车 197 辆、13.7 米增程车 243 辆、18 米增程车 70 辆、双层纯",
-     "source": "IT之家",
-     "zh": "北京：今年新采购公交车实现 100% 新能源化"
-    },
-    {
-     "title": "吉利银河 M7 远航家 11 月 30 日加新上市，综合续航至高 1756km",
-     "link": "https://www.ithome.com/1/033/916.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:59:51 GMT",
-     "summary": "IT之家 11 月 28 日消息，吉利银河今日宣布银河 M7 远航家将于 11 月 30 日加新上市，纯电续航至高 251km，综合续航至高 1756km。 IT之家注意到，吉利银河 M7 于 4 月 28 日正式上市，该车共推出 4 款配置车型，限时指导价下探至 10.98 万元起，价格如下： 车型 官方指导价（万元） 限时指导价（万元） 225km 远航版 11.98 10.98 225km 领航版 12.78 11.78 225km 探索 + 版 13.78 12.78 225km 星舰版 14.78 13.78 作为参考，银河 M7 定位于紧凑型插电式混合动力 SUV，其核心亮点在于采",
-     "source": "IT之家",
-     "zh": "吉利银河 M7 远航家 11 月 30 日加新上市，综合续航至高 1756km"
-    },
-    {
-     "title": "有记录以来最热的一周：地球 11 月 18~24 日史上首次连续 7 天“高烧”突破 2℃ 门槛",
-     "link": "https://www.ithome.com/1/033/915.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:56:24 GMT",
-     "summary": "IT之家 11 月 28 日消息，根据欧盟哥白尼气候服务中心确认的初步数据，11 月 18 日至 24 日地球平均日气温连续 7 天高于工业化前水平 2 摄氏度以上， 这是有记录以来首次出现这种情况。 升温幅度在 11 月 23 日（周一）达到峰值，当天全球气温较该日期对应的 1850 至 1900 年估算基线高出 2.25 摄氏度，为该机构数据集中单日差值最大的一次。IT之家附上相关图片如下： 报道指出今年 11 月已经有 10 天达到或超过 2 摄氏度这一标准，在本次连续 7 天之前，本月还有 3 天越过了 2 摄氏度。而在 11 月之前，该机构有记录以来，全球日平均气温比工业化前水平高出",
-     "source": "IT之家",
-     "zh": "有记录以来最热的一周：地球 11 月 18~24 日史上首次连续 7 天“高烧”突破 2℃ 门槛"
-    },
-    {
-     "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
-     "link": "https://www.ithome.com/1/033/914.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:52:37 GMT",
-     "summary": "IT之家 11 月 28 日消息，据华为数字能源分享，在联合国工业发展组织 60 周年纪念活动期间，雅砻江流域水电开发有限公司（简称“雅砻江公司”）与华为联合打造的“AI 赋能绿色能源方案”荣获“2026 年全球可持续工业 AI 解决方案奖”。 ▲ 雅砻江公司与华为联合荣获“2026 年全球可持续工业 AI 解决方案奖” 据介绍，该奖项由联合国工业发展组织（UNIDO）、联合国贸易和发展会议（UNCTAD）、联合国数字与新兴技术办公室（ODET）、国际电信联盟（ITU）、联合国发展协调办公室（UNDCO）以及世界机器人合作组织（WRCO）面向全球首次发起， 共收到来自 61 个国家 220 余",
-     "source": "IT之家",
-     "zh": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站"
     },
     {
      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
@@ -1927,22 +1967,6 @@
      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
      "source": "WIRED",
      "zh": "Walmart Promo Codes: 20% Off for November 2026"
-    },
-    {
-     "title": "Govee Discount Codes and Deals: 30% Off",
-     "link": "https://www.wired.com/story/govee-discount-code/",
-     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
-     "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-     "source": "WIRED",
-     "zh": "Govee Discount Codes and Deals: 30% Off"
-    },
-    {
-     "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
-     "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
-     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
-     "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-     "source": "WIRED",
-     "zh": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026"
     },
     {
      "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
@@ -2209,20 +2233,68 @@
    "total": 13,
    "items": [
     {
-     "title": "摩根大通看多A股：沪深300指数明年有望站上4800点！高盛、瑞银、大摩也发声",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942373129.html",
-     "pubDate": "Sat, 28 Nov 2026 16:42:00 +0800",
-     "summary": "近日， 摩根大通 、 高盛 、瑞银、 摩根士丹利 等纷纷发声，集体看多中国股市。 摩根大通 ：沪深300指数明年有望站上4800点 11月27日， 摩根大通 最新发布中国A股股票策略2027年展望，主题为“创新型和收入型标的构成的杠铃”。 该行中国股票策略师张晓宁在报告中提出，当前市场价格已在快速反映宏观数据遭遇逆风、2026年三季度每股盈利低于预期、AI变现与供应限制等担忧。 未来几个月出现显著反弹的潜力取决于国内AI供应链与其他“六张网”领域（即算力网、新型电网、新一代 通信 网、水网、城市 地下管网 、 物流 网）的政策支持——既包括政府表态，也包括通过“国家队”基金进行的注资。 张晓宁",
+     "title": "重庆燃气，“检讨”还是“交差”？",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942377285.html",
+     "pubDate": "Sat, 28 Nov 2026 17:02:36 +0800",
+     "summary": "近日， 重庆燃气 集团股份有限公司（以下简称“ 重庆燃气 ”）发布公告称，公司董事会全票通过 《关于 重庆燃气 “十四五”检讨报告的议案》 。这份“检讨”再次引发关注。 燃气企业“认错”并不新鲜。因监管处罚交整改报告的，因服务问题道歉的，因管理者违规检讨的都有过。但把五年规划作为检讨对象且董事会全票通过、还对外公告的实属罕见。 上一个规划周期，重庆燃气经历两轮通报、两度换帅。2026年是“十五五”开局之年，这次“检讨”是新节点已到、但问题未了，不得不进行的复盘。 其实，对重庆燃气而言，真正的问题藏在账单里。重庆市政府新闻办此前通报：错抄和违规估抄、计费周期混乱、价格政策执行不到位、换表组织无序",
      "source": "东方财富股票",
-     "zh": "摩根大通看多A股：沪深300指数明年有望站上4800点！高盛、瑞银、大摩也发声"
+     "zh": "重庆燃气，“检讨”还是“交差”？"
     },
     {
-     "title": "失去主流位置的燃油车还能怎么卖？ | 2026广州车展",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942373059.html",
-     "pubDate": "Sat, 28 Nov 2026 16:35:14 +0800",
-     "summary": "11月27日，广州车展首日，相隔几个展馆的两家中国 汽车 制造商作出了相反的商业抉择。 长城汽车 一口气推出三款油电混动（HEV）车型，并同步更新两款纯燃油SUV； 上汽集团 旗下的MG则宣布，自2027年1月1日起， 停止面向中国大陆市场生产现有在售版本的纯燃油车 。 同一座展馆内的“一进一退”，折射出中国车市正在重新计算的一笔生存账。 中国 汽车 流通协会乘联分会数据显示，今年10月，中国 乘用车 新能源 零售渗透率已达 67.5% ，纯燃油车销量 同比暴跌51% ，但普通油电混动销量却 逆势增长28% 。 麦肯锡今年5月发布的《2026麦肯锡中国 汽车 消费者洞察》显示，在过去一年内购买",
+     "title": "付费让Claude训练AI，结果研究越做越差？Anthropic被曝秘密限制模型能力，开发者怒了",
+     "link": "https://wallstreetcn.com/articles/3786909",
+     "pubDate": "Sat, 28 Nov 2026 16:59:03 +0800",
+     "summary": "开发者最怕的，或许不是AI写不出代码，而是它明明给出了答案，却悄悄把你的研究带进了沟里。 最近，一场围绕Anthropic旗下Claude模型的争议在开发者社区迅速发酵。多名研究人员声称， 在使用Claude进行机器学习研究时，模型不仅频繁给出有缺陷的代码，还会擅自修改训练参数、改变实验条件，导致模型无法收敛，白白消耗数天GPU算力。 更令开发者不安的是，这些异常表现似乎与Anthropic此前披露的一项隐秘机制不谋而合。 今年6月，Anthropic在Fable 5系统卡中承认，曾针对可能帮助用户开发竞争性AI模型的任务部署特殊干预措施。与常见的安全限制不同，这套机制被设计为对用户“完全不可",
+     "source": "华尔街见闻",
+     "zh": "付费让Claude训练AI，结果研究越做越差？Anthropic被曝秘密限制模型能力，开发者怒了"
+    },
+    {
+     "title": "风暴、断电、涨价……美国人迎来不省心的“黑五”",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942376426.html",
+     "pubDate": "Sat, 28 Nov 2026 16:58:35 +0800",
+     "summary": "美国消费者27日迎来“黑色星期五”购物日。一天前， 强风暴席卷美国东海岸和西海岸等地区 ，引发洪水、断电等状况并扰乱交通；另据业界预测，受油价居高不下影响，今年“黑五”不少商品价格将高于往年同期。 天公不作美 风暴带来的强降雨覆盖美国东海岸和中西部多地。从纽约州到弗吉尼亚州，都报告了恶劣天气引发的水上救援。新泽西州和纽约州部分地区进入紧急状态。 田纳西河流域26日迎来降雪。密苏里州东部地区降雪量达到15英寸（约38厘米），该州文茨维尔市一处冰场的屋顶坍塌，所幸当时无人在场。 强风刮倒树木和电线。在弗吉尼亚州汉普顿市，格兰德维尤海滩上一株光秃秃的“网红树”被掀倒。当地气象学家里基·马修斯在社交媒",
      "source": "东方财富股票",
-     "zh": "失去主流位置的燃油车还能怎么卖？ | 2026广州车展"
+     "zh": "风暴、断电、涨价……美国人迎来不省心的“黑五”"
+    },
+    {
+     "title": "莱斯信息联合中标安徽省低空智能网联系统项目",
+     "link": "http://finance.eastmoney.com/news/11134,202611283942376780.html",
+     "pubDate": "Sat, 28 Nov 2026 16:58:32 +0800",
+     "summary": "据 莱斯信息 消息，近日， 莱斯信息 以联合体身份成功中标安徽省低空智能网联系统项目（一期），中标金额约4877万元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "莱斯信息联合中标安徽省低空智能网联系统项目"
+    },
+    {
+     "title": "美国“黑五”购物季网络销售火热，实体店相对冷清，调查显示超八成消费者计划“精打细算”",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942376857.html",
+     "pubDate": "Sat, 28 Nov 2026 16:54:39 +0800",
+     "summary": "美国今年“黑色星期五”呈现网购火热、实体店降温的景象。食品和汽油价格上涨挤压家庭预算，不少消费者缩减送礼名单、转向价格更低的商品，零售商推出的折扣也未必能够打动买家。 路透社援引Adobe Analytics初步数据报道，截至当地时间27日18时30分，美国“黑色星期五”网购金额达到 97亿美元 ， 同比增长12.8% ，增幅高于此前预计的全天9.2%。前一天感恩节的网购金额达到71亿美元，同比增长10.4%，主要由 电子 产品、玩具和服装折扣带动。 与线上销售的火热相比，实体店表现相对冷清。客流追踪机构Passby数据显示，截至当天18时30分过后，全美商店到访人次 同比减少2.4% 。不过",
+     "source": "东方财富股票",
+     "zh": "美国“黑五”购物季网络销售火热，实体店相对冷清，调查显示超八成消费者计划“精打细算”"
+    },
+    {
+     "title": "在轨交接完成！航天员将带回“神秘礼物”",
+     "link": "http://finance.eastmoney.com/news/11790,202611283942375645.html",
+     "pubDate": "Sat, 28 Nov 2026 16:49:00 +0800",
+     "summary": "据中国载人 航天工程 办公室消息，北京时间2026年11月28日，神舟二十三号和神舟二十四号航天员进行交接仪式， 移交了中国空间站的钥匙 。 根据任务计划安排，首名外籍航天员穆罕默德·齐尚·阿里将乘坐神舟二十三号飞船返回，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。 截至目前，航天员张志远、黎家盈、穆罕默德·齐尚·阿里已完成全部既定任务，航天员张志远将担任神舟二十三号返回任务指令长。3名航天员将于近日搭乘飞船返回东风着陆场，还将带回来自“天宫”的 “神秘礼物” 。 目前，着陆场及各参试系统正在紧锣密鼓做好迎接航天员回家的各项准备。 （文",
+     "source": "东方财富股票",
+     "zh": "在轨交接完成！航天员将带回“神秘礼物”"
+    },
+    {
+     "title": "未勤勉尽责！中银证券收深圳证监局警示函，涉及富兰克辅导、督导履职",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942377153.html",
+     "pubDate": "Sat, 28 Nov 2026 16:48:47 +0800",
+     "summary": "11月27日，深圳证监局发布公告，对中银国际证券股份有限公司出具警示函措施。 公告显示，经查， 中银证券 公司作为富兰克科技（深圳）股份有限公司（简称富兰克）的辅导机构、持续督导主办券商， 在履行相关职责过程中未勤勉尽责，未发现富兰克内部控制、财务核算和信息披露等方面存在的问题， 未有效督促富兰克完善公司治理、提高规范运作水平、规范履行信息披露义务。 深圳证监局指出，上述情形违反了《首次公开发行股票并上市辅导监管规定》（证监会公告〔2024〕2号，下同）第三条，《非上市公众公司监督管理办法》（证监会令第227号，下同）第四十一条第一款和《非上市公众公司信息披露管理办法》（证监会令第227号，下",
+     "source": "东方财富股票",
+     "zh": "未勤勉尽责！中银证券收深圳证监局警示函，涉及富兰克辅导、督导履职"
+    },
+    {
+     "title": "神舟二十三号和神舟二十四号航天员完成在轨交接",
+     "link": "http://finance.eastmoney.com/news/1345,202611283942373290.html",
+     "pubDate": "Sat, 28 Nov 2026 16:46:27 +0800",
+     "summary": "据中国载人 航天工程 办公室消息，北京时间2026年11月28日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙。根据任务计划安排，首名外籍航天员穆罕默德·齐尚·阿里将乘坐神舟二十三号飞船返回，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。 截至目前，航天员张志远、黎家盈、穆罕默德·齐尚·阿里已完成全部既定任务，航天员张志远将担任神舟二十三号返回任务指令长。3名航天员将于近日搭乘飞船返回东风着陆场，还将带回来自“天宫”的“神秘礼物”。 目前，着陆场及各参试系统正在紧锣密鼓做好迎接航天员回家的各项准备。 （文章来源：央",
+     "source": "东方财富资讯",
+     "zh": "神舟二十三号和神舟二十四号航天员完成在轨交接"
     },
     {
      "title": "花旗记错了“350亿美元”",
@@ -2237,40 +2309,24 @@
      "link": "http://stock.eastmoney.com/news/11134,202611283942372357.html",
      "pubDate": "Sat, 28 Nov 2026 16:32:24 +0800",
      "summary": "11月26日至28日，被誉为“中国科技第一展”的第二十八届高交会在 深圳国际 会展中心举办。40万平方米的展馆内，来自全球120余个国家和地区的5000余家科创主体同台。 机器人 依然是本届展会焦点，但与往年擂台格斗、快闪巡游的“炫技”不同，本届高交会上， 机器人 “能不能真干活”成为行业关注的焦点 ，参展商被追问最多的问题是 机器人 多久能部署、能不能稳定干活、账算不算得过来。 机器人 展馆人气旺 从“炫技”到“干活”，展陈逻辑变化的背后，是 机器人 能力的持续进化：自主能力增强，一批 机器人 不再依赖人工遥控，凭视觉、算法与程序自主规划路径并完成任务； 学习能力进化，家居机器人“一教就会”",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "高交会现场直击！从“炫技”到“上岗” 机器人干活能力迎大考"
-    },
-    {
-     "title": "实探广州车展：10万级车型，也能拥有快充、高阶辅助驾驶",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942372416.html",
-     "pubDate": "Sat, 28 Nov 2026 16:32:22 +0800",
-     "summary": "11月27日，第二十四届广州国际 汽车 展览会在广交会展馆启幕。本届车展共汇集展车 1106辆 ，较上届增长1.9%。其中，首发新车达 115辆 ，同比增长23.7%，创下广州车展新高； 新能源 展车 707辆 ，占比提升至63.9%，成为展会绝对主角。 各大车企将大批全新产品集中投向本届广州车展，电动化竞争持续深化，智能化从高端配置加速向家用市场下沉，自主品牌、合资及 豪华 品牌同台竞技，为年末车市冲刺吹响号角。 值得关注的是，本届车展，自主品牌与造车新势力将曾经高端车型专属的快充、智能座舱、 激光雷达 、高阶辅助驾驶配置，快速下沉到家用价格带。 人流汇聚车展 本报记者 殷浩楠 摄 合资品牌",
-     "source": "东方财富股票",
-     "zh": "实探广州车展：10万级车型，也能拥有快充、高阶辅助驾驶"
-    },
-    {
-     "title": "段永平：马斯克确实显著提高了我的生活质量",
-     "link": "http://stock.eastmoney.com/news/11228,202611283942372142.html",
-     "pubDate": "Sat, 28 Nov 2026 16:30:00 +0800",
-     "summary": "日前，有网友发文提到段永平，并表示：我也是Tesla早期的用户，事实上我的modle S是今年才卖掉的。啥都不说了，赌两块钱吧：一块是Tesla10年后的股价比今天低，一块赌 苹果 10年后股价比今天高。 11月27日，段永平回复道：“我没赢也没输。我其实赢了。因为我现在开着 特斯拉 ，用着starlinks，马斯克确实显著提高了我的生活质量。” （文章来源：财闻）",
-     "source": "东方财富股票",
-     "zh": "段永平：马斯克确实显著提高了我的生活质量"
     },
     {
      "title": "游科创始人冯骥8000字长文谈AI冲击：未来文娱行业或只剩下两种形态",
      "link": "http://finance.eastmoney.com/news/1345,202611283942372249.html",
      "pubDate": "Sat, 28 Nov 2026 16:29:43 +0800",
      "summary": "当 人工智能 在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？ 近日，《黑神话：悟空》制作人、游戏科学创始人冯骥一篇8000字长文《后AI时代最重要的问题》在社交平台刷屏，该文立足文娱产业的一线观察，抛出这道AI浪潮下无法回避的命题。 冯骥首先对“后AI时代”作出定义，即AI已在绝大多数领域超越绝大多数人类智力的时代。他指出，和过往历次工业革命相比，这次AI革命至少有两点不一样：一是机器替代体力时，人尚可向脑力高地迁徙；二是淘汰的时钟加速，个体还没完成技能转型，原有赛道价值就已被改写。 他最核心的判断是： AI大模型的出现，使智力在历史上第一次脱离肉身，从劳动要素变成了资本要素。 ",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "游科创始人冯骥8000字长文谈AI冲击：未来文娱行业或只剩下两种形态"
     },
     {
-     "title": "32堂专题课程+11场实操实训 鲁渝协作以科技创新赋能乡村振兴",
-     "link": "http://www.eeo.com.cn/2026/1128/1106524.shtml",
-     "pubDate": "Sat, 28 Nov 2026 16:13:13 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 梁浩楠）今年11月以来，鲁渝协作科技创新协同赋能乡村振兴产业提升系列专题培训在渝顺利举办。培训邀请鲁渝两地30余位行业专家，开设32堂专题课程、11场现场教学实操实训，培育基层产业骨干、农技人才、基层医务人员200余名。 培训现场。受访单位供图 本次培训由重庆市科学技术局主办、西南大学承办，紧扣鲁渝常态化协作工作部署，以“科技创新赋能全产业链、鲁渝协作助力乡村振兴”为主题，聚焦重...",
-     "source": "经济观察网",
-     "zh": "32堂专题课程+11场实操实训 鲁渝协作以科技创新赋能乡村振兴"
+     "title": "DeepSeek×昇腾950适配再提升：FlashMLA稀疏注意力算子Prefill达98.5%硬件峰值",
+     "link": "http://finance.eastmoney.com/news/1360,202611283942368495.html",
+     "pubDate": "Sat, 28 Nov 2026 15:34:11 +0800",
+     "summary": "没有发布新模型的梁文锋一点也没闲着。 近日，DeepSeek在GitHub上更新了FlashMLA的最新优化成果： DeepSeek发布了 华为昇腾 950 NPU平台上的fused norm+RoPE+attention+RoPE+cast融合算子 ，同时 优化了原有昇腾Prefill、Decoding算子的性能 ， 在Prefill时能够达到425TFlops（98.5%硬件极限），在Decoding时能够达到372TFlops（86.1%硬件极限）。 在9月30日发布之初，Prefill和Decoding算子能达到的性能分别是：Prefill时能够达到410TFlops（95%硬件极限）",
+     "source": "东方财富资讯",
+     "zh": "DeepSeek×昇腾950适配再提升：FlashMLA稀疏注意力算子Prefill达98.5%硬件峰值"
     },
     {
      "title": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！",
@@ -2279,6 +2335,22 @@
      "summary": "“AI股神”、前OpenAI研究员Leopold Aschenbrenner旗下Situational Awareness基金在三季度遭遇重挫后，仍在其致投资者信中对AI赛道保持高度乐观，并将Anthropic列为核心持仓，称其估值\"极度低估\"。 据此前披露的投资者信函，该基金上半年录得439%的惊人回报，但三季度净值回撤65%，截至9月底全年收益收窄至88.5%。尽管如此，Aschenbrenner在信中再度向投资者喊话， 称\"现在是买入的最佳时机\"，并对AI进展速度及实验室商业价值作出一系列大胆预测。 在持仓结构上，随着最大私募持仓Anthropic完成IPO，该组合目前约70%为公开股票",
      "source": "华尔街见闻",
      "zh": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！"
+    },
+    {
+     "title": "下调押注！美联储加息有变数！",
+     "link": "http://stock.eastmoney.com/news/11722,202611283942368160.html",
+     "pubDate": "Sat, 28 Nov 2026 15:18:00 +0800",
+     "summary": "交易员下调对美联储加息的押注。 根据芝商所FedWatch工具，交易员目前预计美联储 到明年3月加息两次的概率为100% ， 到明年年中第三次加息的概率接近90% 。与两周前相比，市场对加息的押注有所降温，并开始预期美联储将在明年晚些时候转向宽松。两周前，交易员预期美联储会在明年9月前加息三次，第四次加息的概率为35%。 目前，一些交易员预计，随着加息影响显现以及股市下跌拖累美国这个全球最大经济体，美联储可能在明年晚些时候转向宽松。 此外，近日，前 高盛 首席外汇策略师Robin Brooks警告称，在油价下跌的背景下，美联储收紧政策正推动实际利率大幅攀升；如果市场在12月8日至9日FOMC会",
+     "source": "东方财富资讯",
+     "zh": "下调押注！美联储加息有变数！"
+    },
+    {
+     "title": "长鑫科技上榜 险资四季度调仓路线浮现",
+     "link": "http://stock.eastmoney.com/news/11134,202611283942365644.html",
+     "pubDate": "Sat, 28 Nov 2026 15:03:44 +0800",
+     "summary": "近期，多家上市公司披露前十大股东情况，四季度以来险资调仓路线随之浮现。记者梳理发现，多家保险机构增持 电子 、 有色金属 、 汽车 等行业公司。 险资现身 长鑫科技 前十大流通股东 多家 电子 行业上市公司获得险资增持。 长鑫科技 公告显示，截至11月19日， 中邮人寿和 中国人寿 旗下产品分别持有该公司股票2083.17万股和1920.19万股，均新进成为公司前十大流通股东。 华海清科 公告显示，截至11月12日，人保寿险旗下产品持有该公司股票数量为788.66万股，新进成为 华海清科 前十大股东。 广钢气体 公告称，截至11月11日， 景顺 长城基金国寿股份成长股票型组合单一 资产管理 计",
+     "source": "东方财富资讯",
+     "zh": "长鑫科技上榜 险资四季度调仓路线浮现"
     },
     {
      "title": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！",
@@ -2305,22 +2377,6 @@
      "zh": "标普下调法国评级展望至负面：经济衰退、赤字高企、政局动荡三座大山压顶"
     },
     {
-     "title": "金科股份控股股东被证监会立案调查",
-     "link": "http://www.eeo.com.cn/2026/1128/1106333.shtml",
-     "pubDate": "Sat, 28 Nov 2026 14:04:22 +0800",
-     "summary": "控股股东京渝星筑、京渝星璨于11月20日收到中国证监会《立案告知书》，因涉嫌信息披露违法违规被立案；同时，两家平台的合伙人天娇绿苑也因涉嫌信息披露违法违规被立案。",
-     "source": "经济观察网",
-     "zh": "金科股份控股股东被证监会立案调查"
-    },
-    {
-     "title": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开",
-     "link": "https://wallstreetcn.com/articles/3786901",
-     "pubDate": "Sat, 28 Nov 2026 14:01:58 +0800",
-     "summary": "11月25日，个人养老金制度实施满四周年。 四年间，个人养老金的货架逐渐丰富，已有基金351只，理财39只，在售保险产品233款，储蓄类产品256款。 经历了最初两年的开户热潮，能不能让更多人往里存钱，是个人养老金如今面临的关隘。 截至2025年末，个养累计缴存1452亿元。以当年6月的1.5亿个账户估算，平均每个账户累计缴存不足千元。 开户热、缴存冷，是个人养老金发展到第四年仍然无法回避的现实。 与之形成对比的，是账户之外正在点燃的星星之火。 枢纽根据行业数据估算，如今养老目标基金在账户外的规模已是账户内的2.6倍；账户外的养老理财规模，是账户内理财的4倍；保险行业试点三年的商业养老金，规模",
-     "source": "华尔街见闻",
-     "zh": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开"
-    },
-    {
      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
      "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
      "pubDate": "Sat, 28 Nov 2026 06:00:01 GMT",
@@ -2335,22 +2391,6 @@
      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
      "source": "CNBC",
      "zh": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO"
-    },
-    {
-     "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
-     "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
-     "source": "经济观察网",
-     "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
-    },
-    {
-     "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
-     "link": "http://www.eeo.com.cn/2026/1128/1106257.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:13:10 +0800",
-     "summary": "中新经纬11月28日电 存储芯片行情持续火热，SK海力士、三星半导体三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度，SK海力士员工人均计提绩效奖金就达到2.3亿韩元(约合114.8万元人民币)。截至9月，员工累计人均计提奖金升至5.02亿韩元(约合250.5万元人民币)。若全年营业利润达到券商预测值，人均奖金将增至约7.85亿韩元(约合391.7万元人民币)。 报道称，由于SK...",
-     "source": "经济观察网",
-     "zh": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元"
     },
     {
      "title": "The mathematicians living through an AI revolution",
@@ -2385,46 +2425,6 @@
      "zh": "AI agents are coming for big business"
     },
     {
-     "title": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割",
-     "link": "http://www.eeo.com.cn/2026/1128/1106220.shtml",
-     "pubDate": "Sat, 28 Nov 2026 12:52:22 +0800",
-     "summary": "中新经纬11月28日电(董湘依)据美国有线电视新闻网(CNN)报道，当地时间周五，OpenAI对苹果公司提起反诉，指控苹果公司窃取商业秘密，并阻挠其与硬件供应商合作。 据报道，双方争端可以追溯至今年7月。彼时，苹果公司提起诉讼，指控两名跳槽至OpenAI的前员工窃取商业秘密，用于研发一款人工智能硬件设备。OpenAI当时否认了相关指控。 时隔数月，这次OpenAI又指控前员工，把硬件商业秘密泄露给苹果公司。 另据路...",
-     "source": "经济观察网",
-     "zh": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割"
-    },
-    {
-     "title": "11月沪牌拍卖结果出炉",
-     "link": "http://www.eeo.com.cn/2026/1128/1106217.shtml",
-     "pubDate": "Sat, 28 Nov 2026 12:52:12 +0800",
-     "summary": "【11月沪牌拍卖结果出炉】据“上海发布”消息，11月沪牌拍卖结果出炉：个人额度合计拍卖总数4229个，参加拍卖人数20384人，中标率20.7%。最低成交价93700元，平均成交价为93779元，比上个月93874元减少了95元。最低成交价的截止时间是11:29:59第851位。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "11月沪牌拍卖结果出炉"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
@@ -2447,6 +2447,30 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
+    },
+    {
+     "title": "SA Asks: What's the best-positioned chip stock right now?",
+     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best-positioned chip stock right now?"
+    },
+    {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
     }
    ]
   },

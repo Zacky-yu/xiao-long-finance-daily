@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 11:46:28",
+ "generated_at": "2026/11/28 11:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -290,6 +290,22 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
+     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
+    },
+    {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -312,6 +328,38 @@ window.INDUSTRY_DATA = {
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1810,6 +1810,14 @@ window.INDUSTRY_DATA = {
      "zh": "国资1.4亿买老挝酒店，只卖1万块？"
     },
     {
+     "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+     "link": "https://unkernel.dev",
+     "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
+    },
+    {
      "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
      "link": "https://www.ithome.com/1/033/822.htm",
      "pubDate": "Sat, 28 Nov 2026 03:18:23 GMT",
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Atari Homebrew Awards Cancelled",
      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
      "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 81 # Comments: 56",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 101 # Comments: 76",
      "source": "Hacker News",
      "zh": "Atari Homebrew Awards Cancelled"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
      "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 69 # Comments: 57",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 81 # Comments: 62",
      "source": "Hacker News",
      "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
     },
@@ -1965,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
      "link": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
      "pubDate": "Sat, 28 Nov 2026 01:20:16 +0000",
-     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 49 # Comments: 33",
+     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 52 # Comments: 34",
      "source": "Hacker News",
      "zh": "Alaska seized his plane over some beers. He is asking the Supreme Court for help"
-    },
-    {
-     "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
-     "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
-     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
-     "source": "WIRED",
-     "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
     }
    ]
   },
@@ -2234,6 +2234,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "创纪录！利乐反垄断案终审被判罚4.92亿 涉事公司回应",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942344689.html",
+     "pubDate": "Sat, 28 Nov 2026 11:35:11 +0800",
+     "summary": "11月27日，最高人民法院对纷美（北京）贸易有限公司等（下称“ 纷美包装 ”）、山东 新巨丰 科技包装股份有限公司等（下称“ 新巨丰 ”）诉利乐中国有限公司等（下称“利乐”）滥用市场支配地位两案公开宣判。 最高法 知识产权 法庭副庭长朱理当庭宣布： 纷美包装 （00468.HK）、 新巨丰 （301296.SZ）的上诉请求部分成立，利乐方的上诉请求不成立，依法改判利乐方连带赔偿纷美方经济损失4.64亿元及合理开支200万元、赔偿新巨丰方经济损失2567万元及合理开支80万元，两案赔偿总额合计 4.92亿元 ，本判决为终审判决。 据悉，本案是中国反垄断后继民事诉讼领域迄今 判赔金额最高的案件 ，",
+     "source": "东方财富股票",
+     "zh": "创纪录！利乐反垄断案终审被判罚4.92亿 涉事公司回应"
+    },
+    {
+     "title": "尚界Z7T星野套装广州车展上市，售价27.48万元起",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942346048.html",
+     "pubDate": "Sat, 28 Nov 2026 11:30:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）11月27日，尚界品牌在2026广州车展发布尚界Z7T星野套装，Z7、Z7T及H5全系车型也同时亮相。尚界Z7T星野套装聚焦露营场景，有Max+、Ultra两个配置版本，售价分别为 27.48万元及31.98万元 ，同时推出 限时至高51800元权益 。 尚界新车。 企业供图 尚界Z7T星野套装提供杜维埃蓝、晚山新绿、琥珀金绿、鎏金黑、流光银五款车色，并带来10处专属外观升级，包括全新进气格栅搭配金属前铲、侧向金属侧裙搭配拼色外后视镜等。 配置方面，尚界Z7T星野套装延续了Z7/Z7T全系标配的 华为乾崑智驾ADS 5辅助驾驶系统 、896线双光路图像级 激光",
+     "source": "东方财富股票",
+     "zh": "尚界Z7T星野套装广州车展上市，售价27.48万元起"
+    },
+    {
+     "title": "深圳首座空铁联运城市候机楼现已启用",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942345646.html",
+     "pubDate": "Sat, 28 Nov 2026 11:28:00 +0800",
+     "summary": "人民财讯11月28日电，据深视新闻，最近，深圳首座空铁联运城市候机楼——深圳北站城市候机楼旅客联程运输中心，正式投入运营。该候机楼依托广深港 高铁 、厦深铁路等干线 高铁 网络，直接辐射大湾区及广东省主要城市群，成为 深圳机场 航空网与大湾区轨道交通网深度融合的“物理接口”。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "深圳首座空铁联运城市候机楼现已启用"
+    },
+    {
      "title": "全球基金经理遭遇AI投资难题：低配恐遭撤换 重仓又怕泡沫",
      "link": "http://finance.eastmoney.com/news/11246,202611283942344597.html",
      "pubDate": "Sat, 28 Nov 2026 11:23:40 +0800",
@@ -2242,20 +2266,28 @@ window.INDUSTRY_DATA = {
      "zh": "全球基金经理遭遇AI投资难题：低配恐遭撤换 重仓又怕泡沫"
     },
     {
+     "title": "葵花药业被调出中证1000指数 公司今年前三季度业绩扭亏，近年股价持续下跌",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942346247.html",
+     "pubDate": "Sat, 28 Nov 2026 11:23:22 +0800",
+     "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、 中证500 、中证1000、中证A50、中证A100、中证A500等指数样本。其中， 葵花药业 （002737）被调出中证1000指数 。 被调出中证1000指数背后， 葵花药业 今年以来股价持续承压，业绩成功扭亏，但暂未恢复亏损前水准。 资料显示， 葵花药业 主营业务为各类中成药、化学药品（包括生物制药）、健康养生品的研发、生产和销售。公司拥有“小葵花”、“葵花”两大知名品牌。公司于2014年12月在深交所上市。 往期财报显示，葵花药业业绩在2023年达到一个高峰，当年营收57亿元，归母净利润11.19亿元。但好景不长，2024年公",
+     "source": "东方财富股票",
+     "zh": "葵花药业被调出中证1000指数 公司今年前三季度业绩扭亏，近年股价持续下跌"
+    },
+    {
+     "title": "600095、601519，终止合并！",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942346143.html",
+     "pubDate": "Sat, 28 Nov 2026 11:22:00 +0800",
+     "summary": "11月27日晚间， 湘财股份 (600095)与 大智慧 (601519)双双发布公告，宣布撤回 湘财股份 换股吸收合并 大智慧 并募集配套资金暨关联交易申请，并与交易对方签署《 湘财股份 有限公司与上海 大智慧 股份有限公司之吸收合并协议之解除协议》。同一天，上交所出具决定， 终止对该项交易的审核 。这场备受市场关注的“券商+金融科技”联姻，在推进约20个月后正式画上句号。 合并事项审核两度中止 这笔交易启动于2025年3月。因筹划本次交易，湘财股份与大智慧股票自2025年3月17日开市起停牌。2025年3月28日，湘财股份、大智慧董事会分别审议通过交易预案等议案，两家上市公司股票于2025",
+     "source": "东方财富股票",
+     "zh": "600095、601519，终止合并！"
+    },
+    {
      "title": "多年旧账仍追责！*ST英飞、*ST数源因年报虚假记载被深交所处分",
      "link": "http://finance.eastmoney.com/news/1344,202611283942344445.html",
      "pubDate": "Sat, 28 Nov 2026 11:17:59 +0800",
      "summary": "深交所11月27日晚间挂出两份纪律处分决定书：一份指向 *ST英飞 （002528.SZ），另一份指向 *ST数源 （000909.SZ）。两家当下戴着*ST帽子的上市公司，都因年报虚假记载被罚，相关处分均记入证券 期货 市场诚信档案数据库。 同一天，两家公司还各自收到了各地证监局的行政处罚决定书。 *ST英飞 这边，根据深圳证监局《行政处罚决定书》（〔2026〕20号），公司被警告并罚款550万元，另有9名相关责任人合计被罚1190万元。 *ST数源 那边，浙江证监局一口气开出〔2026〕39号至45号共7份处罚决定书，公司被警告并罚款800万元，时任董事长章国经处400万元罚款，还被采取8",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "多年旧账仍追责！*ST英飞、*ST数源因年报虚假记载被深交所处分"
-    },
-    {
-     "title": "沙特：拦截并摧毁了也门胡塞武装向利雅得发射的巡航导弹",
-     "link": "http://finance.eastmoney.com/news/1356,202611283942344360.html",
-     "pubDate": "Sat, 28 Nov 2026 11:15:36 +0800",
-     "summary": "沙特领导的联盟表示，其拦截并摧毁了也门胡塞武装向利雅得发射的巡航导弹。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "沙特：拦截并摧毁了也门胡塞武装向利雅得发射的巡航导弹"
     },
     {
      "title": "定存“不烧心”",
@@ -2266,36 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "定存“不烧心”"
     },
     {
-     "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942344189.html",
-     "pubDate": "Sat, 28 Nov 2026 11:07:41 +0800",
-     "summary": "菲律宾大气地球物理天文局27日表示，超强厄尔尼诺现象的影响可能存在滞后，预计2027年2月至3月菲律宾大部分地区降雨量远低于正常水平，干旱及水资源短缺风险或进一步加剧。 据菲律宾媒体报道，菲律宾气象局气象服务助理主管帕古拉扬当天表示，厄尔尼诺的实际影响并非仅在其达到峰值时才会显现，影响可能在一段滞后期后进一步加剧。 帕古拉扬说，受厄尔尼诺引发的持续干旱影响，菲律宾水库水位可能在2026年12月至2027年5月期间持续下降。2027年2月至3月，菲律宾降雨量预计将远低于正常水平，部分地区可能出现高温、降雨减少和水资源短缺等情况。 菲律宾气候学家此前预测，超强厄尔尼诺可能于2026年12月达到峰值",
-     "source": "东方财富股票",
-     "zh": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰"
-    },
-    {
      "title": "全球大救市，独缺美联储",
      "link": "https://wallstreetcn.com/articles/3786891",
      "pubDate": "Sat, 28 Nov 2026 11:06:36 +0800",
      "summary": "全球主要市场本周掀起一场密集的政策救市行动，从华盛顿到首尔，各市场财政部门、监管机构与国家基金轮番出手护盘。然而，分析人士警告，这些干预措施虽能短暂提振市场，却无法从根本上扭转方向，真正具备无限弹药的救市者——美联储，目前仍处于缄默期。 在美国，特朗普政府向英伟达董事会施压，推动黄仁勋重返CEO一职，纳指一度跌入技术性熊市后骤然拉升，标普500指数周内收涨5%。亚洲市场方面，据新华社，中国国务院常务会议首次点名\"国家队\"，明确要求\"加力发挥'国家队'稳市作用\"，创业板指受提振涨超11%，韩国政府宣布启动自2008年以来首个超10万亿韩元的市场稳定基金，并放宽上市公司回购申报上限、加强卖空监控。",
      "source": "华尔街见闻",
      "zh": "全球大救市，独缺美联储"
-    },
-    {
-     "title": "内蒙古百亿元基金投向106个项目 带动项目总投资3792.25亿元",
-     "link": "http://stock.eastmoney.com/news/11246,202611283942344062.html",
-     "pubDate": "Sat, 28 Nov 2026 11:03:00 +0800",
-     "summary": "据内蒙古日报，今年，内蒙古自治区发展和改革委员会会同3家政策性 银行 内蒙古分行组成联合工作组，加强谋划储备新型政策性金融工具项目。2026年内蒙古共获得投放基金 197.22亿元 ，比2025年增长131%。 今年，内蒙古依托联审联批工作机制全面推动重大项目前期推进工作。截至目前，基金共投向内蒙古106个项目，带动项目总投资 3792.25亿元 ，撬动作用明显。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "内蒙古百亿元基金投向106个项目 带动项目总投资3792.25亿元"
-    },
-    {
-     "title": "AI拆掉了软件公司的旧计价器 “有赞们”找到新解药了吗？",
-     "link": "http://hk.eastmoney.com/news/11223,202611283942343597.html",
-     "pubDate": "Sat, 28 Nov 2026 10:59:29 +0800",
-     "summary": "14岁的 有赞 ，决定 不再做一家SaaS（软件即服务）公司 了。 有赞 创始人兼CEO白鸦（朱宁）说这句话的时候，语气很轻松。 11月27日下午， 有赞 14周年大会会后，在被问及SaaS行业的未来时，白鸦这么回答：“我觉得SaaS行业没了也挺好，大家有了一个更大的行业，就是AI（ 人工智能 ）企业服务。”现场有人笑了。 但这句话不是玩笑。 就在前一天，微盟宣布4.3亿元采购约5000张Blackwell GPU，把AI战火烧向算力基础设施。同处港股的两家头部SaaS公司，在同一个星期做出了方向相反的动作： 一个向下买算力，一个向上押场景 。两条路都在试图回答一个问题：当AI让软件功能可以被",
-     "source": "东方财富股票",
-     "zh": "AI拆掉了软件公司的旧计价器 “有赞们”找到新解药了吗？"
     },
     {
      "title": "歼-35A飞抵珠海 将首次真机进馆展出",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
      "source": "MarketWatch",
      "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 13:51:49",
+ "generated_at": "2026/11/28 14:11:48",
  "recent_days": 7,
  "industries": [
   {
@@ -17,14 +17,6 @@
      "zh": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”"
     },
     {
-     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
-     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
-     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
-     "source": "KDnuggets",
-     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
-    },
-    {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
      "pubDate": "Fri, 27 Nov 2026 14:07:33 +0000",
@@ -39,14 +31,6 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -209,22 +193,6 @@
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     },
     {
-     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
-     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
-     "source": "KDnuggets",
-     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
-    },
-    {
-     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
-     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
-     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
-     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
-     "source": "KDnuggets",
-     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
-    },
-    {
      "title": "SteerSound：迈向更可靠的音频编辑",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
      "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
@@ -247,6 +215,38 @@
      "summary": "打破 AI 3D 的「虚假精细」。",
      "source": "机器之心",
      "zh": "告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了"
+    },
+    {
+     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+     "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+    },
+    {
+     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+     "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+     "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
+    },
+    {
+     "title": "GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745240&idx=3&sn=6db0d8f2621561054778cdef72220067",
+     "pubDate": "Thu, 26 Nov 2026 11:08:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6"
+    },
+    {
+     "title": "震撼：OpenAI破解矩阵乘法指数，答案是9/4！连破8大世纪数学悬案",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745240&idx=2&sn=cfe1c7eee43670ea2c70f225973fef5b",
+     "pubDate": "Thu, 26 Nov 2026 11:08:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "震撼：OpenAI破解矩阵乘法指数，答案是9/4！连破8大世纪数学悬案"
     }
    ]
   },
@@ -1289,6 +1289,14 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+     "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+     "pubDate": "Sat, 28 Nov 2026 05:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writt",
+     "source": "NASA",
+     "zh": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph"
+    },
+    {
      "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
      "link": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
      "pubDate": "Fri, 27 Nov 2026 20:29:57 +0000",
@@ -1415,14 +1423,6 @@
      "summary": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation w",
      "source": "NASA",
      "zh": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis"
-    },
-    {
-     "title": "Seeking Refuge on Resolution Island",
-     "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
-     "pubDate": "Thu, 26 Nov 2026 05:01:00 +0000",
-     "summary": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
-     "source": "NASA",
-     "zh": "Seeking Refuge on Resolution Island"
     },
     {
      "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
@@ -1737,6 +1737,118 @@
    "total": 18,
    "items": [
     {
+     "title": "TikTok Shop 巴西站达人佣金压到多少，备货和退货才不亏？",
+     "link": "https://www.baijing.cn/question/639026",
+     "pubDate": "Sat, 28 Nov 2026 06:02:44 +0000",
+     "summary": "巴西站做美妆个护，达人带货佣金普遍报到 20% 起，我们一款身体乳佣金 22% 加平台活动，毛利只剩 9 个点。备货走圣保罗海外仓，首批 3000 件压了 40 天，退货率 11%，退回来的货二次销售折价三成。试过把佣金降到 15% 换中小达人，出单量掉了一半；也试过只给头部达人 25% 冲量，结果退货率飙到 18%。现在卡在选品和备货节奏上：高佣金品类不敢多备，低佣金又推不动。想请教的是，在巴西站达人佣金和退货率之间，你们的选品和备货安全线是怎么定的？",
+     "source": "白鲸出海",
+     "zh": "TikTok Shop 巴西站达人佣金压到多少，备货和退货才不亏？"
+    },
+    {
+     "title": "Walmart Promo Codes: 20% Off for November 2026",
+     "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+     "source": "WIRED",
+     "zh": "Walmart Promo Codes: 20% Off for November 2026"
+    },
+    {
+     "title": "Govee Discount Codes and Deals: 30% Off",
+     "link": "https://www.wired.com/story/govee-discount-code/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+     "source": "WIRED",
+     "zh": "Govee Discount Codes and Deals: 30% Off"
+    },
+    {
+     "title": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
+     "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+     "source": "WIRED",
+     "zh": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026"
+    },
+    {
+     "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+     "link": "https://www.wired.com/story/corsair-coupon/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+     "source": "WIRED",
+     "zh": "Corsair Discount Code: Up to 50% Off for November 2026"
+    },
+    {
+     "title": "Zoro Coupon Codes: 20% Off November 2026",
+     "link": "https://www.wired.com/story/zoro-promo-code/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.",
+     "source": "WIRED",
+     "zh": "Zoro Coupon Codes: 20% Off November 2026"
+    },
+    {
+     "title": "Udemy Coupon Codes: 20% Off November 2026",
+     "link": "https://www.wired.com/story/udemy-promo-code/",
+     "pubDate": "Sat, 28 Nov 2026 06:00:00 +0000",
+     "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+     "source": "WIRED",
+     "zh": "Udemy Coupon Codes: 20% Off November 2026"
+    },
+    {
+     "title": "留住家门口的养老院",
+     "link": "https://www.huxiu.com/article/4909165.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:59:55 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：社论，原文标题：《经观社论｜留住家门口的养老院》 养老、育幼不是工业生产，不能只算总账，对很多家庭而言，十公里外新建的设备齐全的大型养老院无法填补离家百米外一个小型养老院关闭的空白。 11月23日，国家发展改革委等四部门公布《“一老一小”服务体系建设实施方案》（下称实施方案），提出到2030年，社区养老服务机构和设施覆盖率达到70%。这是这份文件中三个定量化指标之一，由此可见社区养老机构和设施在整个养老体系中的重要性。 为什么政策要如此强调社区养老机构？因为社区养老机构具有其他类型养老院无法替代的作用。 很多入住社区养老院的老人处于失能或半失能状态，需",
+     "source": "虎嗅",
+     "zh": "留住家门口的养老院"
+    },
+    {
+     "title": "忙忙叨叨一整年，只有定存“不烧心”",
+     "link": "https://www.huxiu.com/article/4909164.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:57:12 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：刘颖 牛钰 2026年以来，随着各类金融资产的风险指数提升，很多人在遭受一轮又一轮真金白银的亏损之后，重新看待投资收益，开始回归低利率的银行存款。 如果你年初手握10万元，投入股票、基金、黄金其中之一并持有至今，是赔是赚？以Wind数据统计粗略估算，截至11月25日，这笔钱可能分别浮亏1.2万元（以上证指数计）、1.6万元（普通股票型基金）、2.2万元；如果你购买“稳健低波”的银行理财，近一个月同样会遭遇收益回撤，甚至亏损。 你会发现，2026年以来的投资市场确实不一般。不仅股票、基金、大宗商品投资处处透出风险，连过往可以在风浪中作为资产安全垫的低风险",
+     "source": "虎嗅",
+     "zh": "忙忙叨叨一整年，只有定存“不烧心”"
+    },
+    {
+     "title": "金价震荡考验周大福",
+     "link": "https://www.huxiu.com/article/4909163.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:57:04 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：罗文利 从最新财报来看，周大福的产品和渠道调整已有进展，但转型还未能帮助其在金价波动中稳住经营利润。 黄金价格的剧烈波动，正在考验周大福的经营转型。 11月24日，周大福珠宝集团有限公司（01929.HK，下称“周大福”）发布截至2026年9月30日止六个月的中期业绩。期内，周大福营业收入同比增长13.5%至442.63亿港元，归母净利润增长98.7%至50.34亿港元。财报解释，归母净利润的增长主要受黄金借贷公允价值损益由亏转盈的影响。更能反映核心业务表现的经营利润同比下降18.2%至55.79亿港元，毛利率也由30.5%降至25.6%。周大福称，这",
+     "source": "虎嗅",
+     "zh": "金价震荡考验周大福"
+    },
+    {
+     "title": "日均12元的酒店早餐自助，快被精明打工人吃成食堂了",
+     "link": "https://www.huxiu.com/article/4909162.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:52:16 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：牧羊，编辑：曾宝气 近些年，不少酒店也在推出瞄准顾客消费痛点，又能更合理利用酒店资源的活动，诸如剩菜盲盒、餐饮大排档外摆、88元的酒店饼房生日蛋糕、平价的游泳健身次卡、钟点房自助洗衣……照这个趋势，人们简直可以把自己的整个生活按项目托管给一家酒店了。 而酒店早餐月卡的走红，其实是一场供需的双向试探。 如果每天有10元左右的早餐预算，打工人会怎样安排？ 不想啃隔夜面包的人盯上了快餐店的早餐，每天10块钱出头就能吃到汉堡咖啡或者包子馒头小套餐，不过还得额外办个月卡，算下来好像又没便宜多少。如果选择自己做饭，成本的确是降下来了，但每天早上出门前，还得洗洗刷刷弄好",
+     "source": "虎嗅",
+     "zh": "日均12元的酒店早餐自助，快被精明打工人吃成食堂了"
+    },
+    {
+     "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+     "link": "https://www.techmeme.com/261128/p1#a261128p1",
+     "pubDate": "Sat, 28 Nov 2026 00:50:02 -0500",
+     "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z &nbsp; &mdash;&nbsp; Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained ",
+     "source": "Techmeme",
+     "zh": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)"
+    },
+    {
+     "title": "沙特买量素材本地化踩了合规坑，最近这波政策变化该怎么应对？",
+     "link": "https://www.baijing.cn/question/639025",
+     "pubDate": "Sat, 28 Nov 2026 05:49:40 +0000",
+     "summary": "我们是一支12人的中东小团队，主做一款SLG手游，刚在沙特和阿联酋起量，月投放预算大约15万美元，主要跑Meta和TikTok。上个月有一批阿拉伯语素材被平台以“内容不符合当地文化规范”为由拒审，通过率从八成掉到不足五成，CPA直接涨了四成。我们试过换KOL口播、加本地服饰元素、找沙特籍配音，还是卡在审核这一关，不清楚到底是素材里的女性形象、宗教符号还是节日元素触发的。最近平台对中东地区的广告内容审核明显收紧，想问问大家现在素材本地化的合规红线到底怎么划，是优先改视觉元素还是先调整投放结构？",
+     "source": "白鲸出海",
+     "zh": "沙特买量素材本地化踩了合规坑，最近这波政策变化该怎么应对？"
+    },
+    {
+     "title": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100",
+     "link": "https://www.ithome.com/1/033/841.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:49:39 GMT",
+     "summary": "IT之家 11 月 28 日消息，Standard Kernel 公司于 11 月 18 日发布博文，通过优化英特尔 Gaudi2 加速器， 让其在特定 AI 推理任务中超过了英伟达 H100。 IT之家注：Gaudi2 是英特尔旗下 Habana Labs 研发的第二代深度学习加速器，于 2022 年 5 月发布，主要面向 AI 训练，相比较初代，制程从 16nm 升级到 7nm，TPC 数量从 8 个增至 24 个，并新增 FP8 支持。显存容量从 32GB 增至 96GB，片上 SRAM 翻倍至 48MB。 项目 Gaudi2 H100 PCIe 80GB 发布时间 2022 年 5 月",
+     "source": "IT之家",
+     "zh": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100"
+    },
+    {
      "title": "冬天会让人变抑郁、迟钝吗？研究发现，答案可能和你想的不一样",
      "link": "https://www.huxiu.com/article/4909161.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 13:43:27 +0800",
@@ -1785,14 +1897,6 @@
      "zh": "18只主动ETF上市首周：17只收涨，有的重仓科技股，散户“抄作业”或存较大误差"
     },
     {
-     "title": "海伦司“双帅制”试验5个月落幕：“瑞幸系”联席CEO辞任，数字化增长与运营仍会推进",
-     "link": "https://www.huxiu.com/article/4909159.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 13:26:57 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：高梦阳，作者：幸雯雯 不到半年，海伦司的联席行政总裁团队出现了变动。 11月26日，海伦司（09869.HK）公告称，王浩因“为投入更多时间于个人事务”辞任公司联席行政总裁，辞任后不再于集团担任任何职务。贺大庆将继续担任公司唯一的行政总裁。 此时距离王浩获委任为公司联席行政总裁，刚好过去五个月。 今年6月26日，海伦司在创始人徐炳忠卸任行政总裁后，打破单一CEO传统，从外部聘请拥有瑞幸咖啡私域顾问及神州优车营销背景的王浩，搭档深耕海伦司内部营运多年的贺大庆，共同担任联席CEO。 王浩的履历中，数字化和用户运营能力是比较突出的特点。没料到，签下五年服务协议",
-     "source": "虎嗅",
-     "zh": "海伦司“双帅制”试验5个月落幕：“瑞幸系”联席CEO辞任，数字化增长与运营仍会推进"
-    },
-    {
      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
      "link": "https://www.tmtpost.com/8221323.html",
      "pubDate": "Sat, 28 Nov 2026 13:26:50 +0800",
@@ -1825,14 +1929,6 @@
      "zh": "小米 18 标准版开放预约，预计下周官宣预热"
     },
     {
-     "title": "要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”",
-     "link": "https://www.ithome.com/1/033/833.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:11:51 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）发布博文，报道称名叫埃利奥特 · 卡伦德（Elliot Callender）的抗议者， 目前已在 Anthropic 旧金山总部外绝食 4 天，要求叫停 AI 递归式自我改进。 IT之家注：AI 递归式自我改进（Recursive Self-Improvement，简称 RSI）是指 AI 系统具备改进自己的能力，比如改写代码、优化训练方法、设计更强的下一代模型。改进后的系统再继续改进自己，这样一轮轮循环下去。 卡伦德表示哪怕要绝食超过 40 天，只要能施压 Anthropic 给其造成负面影响",
-     "source": "IT之家",
-     "zh": "要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”"
-    },
-    {
      "title": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？",
      "link": "https://www.baijing.cn/question/639022",
      "pubDate": "Sat, 28 Nov 2026 04:58:29 +0000",
@@ -1841,52 +1937,12 @@
      "zh": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？"
     },
     {
-     "title": "判赔4.92亿元，利乐垄断旧案终审落槌，千亿乳业巨头背后的包装暗战",
-     "link": "https://www.huxiu.com/article/4909154.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:33:39 +0800",
-     "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的，原文标题：《判赔4.92亿元！利乐垄断旧案终审落槌，千亿乳业巨头背后的包装暗战》 11月27日，最高人民法院对纷美包装、新巨丰分别起诉利乐滥用市场支配地位两案进行二审，改判利乐赔偿纷美包装4.66亿元、赔偿新巨丰2647万元，合计4.92亿元。利乐官网声明称服从判决，不再寻求进一步法律救济。新巨丰方面，目前公开信息中未见单独表态。 追溯六载终获赔 这两起案件并非近期新发生的争议，而是对十余年前垄断行为的后续民事诉讼。 简单来说，两案由利乐垄断中国包装市场的行为而起，最终，二审以“市场份额法”测算其从2009年到2014年应当让出的份额，",
-     "source": "虎嗅",
-     "zh": "判赔4.92亿元，利乐垄断旧案终审落槌，千亿乳业巨头背后的包装暗战"
-    },
-    {
      "title": "GPSR 标签合规，两个人怎么排期才赶得上？",
      "link": "https://www.baijing.cn/question/639021",
      "pubDate": "Sat, 28 Nov 2026 04:33:13 +0000",
      "summary": "我们做欧洲站家居收纳，德国、法国、西班牙三个站点，团队一共两个人，一个管供应链一个管运营。GPSR 生效后，每个 SKU 都要补欧盟负责人信息和警示标签，我们 80 多个在售 SKU，光核对现有包装上的信息就花了三周，现在还有 40 多个没改完。试过让工厂直接印新标签，但德国站和法国站的负责人信息不一样，工厂说混单容易出错，要求分批做，排期又往后拖了两周。卡在人力上：两个人既要盯日常运营又要盯合规改版，根本排不开。像我们这种小团队，是先把主力 SKU 改完、长尾款直接下架，还是硬着头皮全量改？",
      "source": "白鲸出海",
      "zh": "GPSR 标签合规，两个人怎么排期才赶得上？"
-    },
-    {
-     "title": "冯骥的8000字长文：他说对了最难说对的地方，但下一段不归他写",
-     "link": "https://www.huxiu.com/article/4909142.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:24:06 +0800",
-     "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 11月27日，游戏科学创始人、《黑神话：悟空》制作人冯骥开通了个人公众号，名字叫\"冯骥Yocar\"。 第一篇就是长文，标题叫《后AI时代最重要的问题》，全文约8000字，读下来要二十来分钟。文章发出两小时，游戏圈一批高层就在转发。讨论到现在还没停。 他自己说，动笔的由头是两条消息。一条是老本行的：《GTA6》上线，首日收入刷新了人类文娱史纪录。另一条是AI生成的网页游戏，他玩了几款，有的玩到忘了时间。然后他写下那个困扰他好几年的问题：等AI把大部分活儿都干了，人怎么办？ 一、他的核心论点是什么？ 冯骥这篇文章的骨架，我认为是五句话。 第一句，他给",
-     "source": "虎嗅",
-     "zh": "冯骥的8000字长文：他说对了最难说对的地方，但下一段不归他写"
-    },
-    {
-     "title": "梁文锋“量化”聊天",
-     "link": "https://www.huxiu.com/article/4909153.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:22:46 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥 做量化投资出身的梁文锋，开始“量化”DeepSeek的C端用户了。 11月26日，DeepSeek悄悄上线了一项新功能。 在每轮对话结束后，用户可以点击回答下方的图标，查看自己消耗了多少Token、其中有多少命中了缓存，以及按照DeepSeek的API价格计算，这轮对话值多少钱。 虽然这笔钱目前还不需要用户来掏，但免费服务突然多了价签，还是引发了外界关于DeepSeek即将收费的猜测。 有趣的是，在今年5月的投资者闭门交流会上，梁文锋还不知道拿C端用户怎么办。 “虽然现在不知道这些用户有什么用，现在它是一个纯成本的支出，但是以后可能是有用的。” ",
-     "source": "虎嗅",
-     "zh": "梁文锋“量化”聊天"
-    },
-    {
-     "title": "印度方言短剧在本地平台内容审核新规下，泰米尔语和孟加拉语剧本要改到什么程度？",
-     "link": "https://www.baijing.cn/question/639020",
-     "pubDate": "Sat, 28 Nov 2026 04:10:48 +0000",
-     "summary": "我们做印度方言短剧，团队12人，主攻泰米尔语和孟加拉语，刚上线3个月，日活2万左右。最近印度本地短视频平台收紧了内容审核规则，我们一批带家庭冲突和婚恋反转的剧集被限流，单集完播率从45%掉到28%，投放成本涨了约三成。已经试过删减冲突镜头、加免责声明、把反派动机改得更直白，但审核还是卡在“价值观导向”这一步，说不清具体标准。现在纠结的是：是继续按平台提示逐条改剧本，还是换一套更保守的叙事模板重新起量？想问问有经验的人，方言短剧在印度做本地化审核，判断标准到底该怎么定？",
-     "source": "白鲸出海",
-     "zh": "印度方言短剧在本地平台内容审核新规下，泰米尔语和孟加拉语剧本要改到什么程度？"
-    },
-    {
-     "title": "法语配音返工两轮仍被差评，法国市场本地化到底该怎么排期？",
-     "link": "https://www.baijing.cn/question/639019",
-     "pubDate": "Sat, 28 Nov 2026 03:50:24 +0000",
-     "summary": "我们一款卡牌RPG刚在法国上线两周，团队一共9个人，本地化只有1个兼职法语校对。首版配音找的是巴黎一家工作室，玩家评论里反复提“语气像念稿”“战斗喊话没情绪”，法语区商店评分从4.6掉到4.1。返工重录了一轮主线和新手引导，花了11天，结果节奏又拖慢了西班牙语和德语的排期。现在纠结的是：人手就这么多，是该先集中把法语配音的导演和试音环节做扎实再铺其他语种，还是先按现有质量上线、靠后续版本迭代补？想听听做过欧洲多语种配音排期的同行怎么判断这个取舍。",
-     "source": "白鲸出海",
-     "zh": "法语配音返工两轮仍被差评，法国市场本地化到底该怎么排期？"
     },
     {
      "title": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
@@ -1900,7 +1956,7 @@
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 90 # Comments: 7",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 104 # Comments: 7",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     },
@@ -1919,62 +1975,6 @@
      "summary": "《复仇者联盟》依然是最强IP。",
      "source": "钛媒体",
      "zh": "《复联5》要来救市了"
-    },
-    {
-     "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
-     "link": "https://www.tmtpost.com/8221007.html",
-     "pubDate": "Sat, 28 Nov 2026 10:58:00 +0800",
-     "summary": "“川酒六朵金花”之一的水井坊，总经理又双叒叕换了。",
-     "source": "钛媒体",
-     "zh": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅"
-    },
-    {
-     "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
-     "link": "https://www.tmtpost.com/8221003.html",
-     "pubDate": "Sat, 28 Nov 2026 10:53:00 +0800",
-     "summary": "三家公司招聘要求背后，有五种共同能力。",
-     "source": "钛媒体",
-     "zh": "OpenAI 和 Anthropic 在招什么样的营销人才？"
-    },
-    {
-     "title": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？",
-     "link": "https://www.tmtpost.com/8220992.html",
-     "pubDate": "Sat, 28 Nov 2026 10:48:00 +0800",
-     "summary": "大卖场老兵，正站在十字路口。",
-     "source": "钛媒体",
-     "zh": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？"
-    },
-    {
-     "title": "Atari Homebrew Awards Cancelled",
-     "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
-     "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 147 # Comments: 146",
-     "source": "Hacker News",
-     "zh": "Atari Homebrew Awards Cancelled"
-    },
-    {
-     "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
-     "link": "https://www.techmeme.com/261127/p16#a261127p16",
-     "pubDate": "Fri, 27 Nov 2026 21:00:01 -0500",
-     "summary": "LithoWar : How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff &nbsp; &mdash;&nbsp; At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle i",
-     "source": "Techmeme",
-     "zh": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)"
-    },
-    {
-     "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-     "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-     "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 134 # Comments: 104",
-     "source": "Hacker News",
-     "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
-    },
-    {
-     "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
-     "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
-     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
-     "source": "WIRED",
-     "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
     }
    ]
   },
@@ -2233,60 +2233,76 @@
    "total": 13,
    "items": [
     {
-     "title": "证监会出手！“南京路宝宝总”被严肃查处",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942359110.html",
-     "pubDate": "Sat, 28 Nov 2026 13:43:32 +0800",
-     "summary": "近日，证监会对安某、乔某涉嫌编造传播证券市场误导性信息依法作出行政处罚。经查，安某、乔某在网络平台分别发布涉及上市公司 中公教育 、 共进股份 的误导性信息，相关低俗言论经网络渠道大范围传播，导致两家上市公司股价异常波动，违反证券法规，破坏公序良俗。证监会决定对安某、乔某 没收违法所得并处罚款 。 具体来看，两起案件的舆情发酵路径相似，均从股票社区低俗言论迅速外溢为全网话题，并直接扰动资本市场。 2026年7月2日10时27分，安某（网名 “南京路宝宝总” ，女性头像）在网络平台发布涉 中公教育 的“赌约帖”，以立帖为证方式作出一年内涨不到20倍等夸张低俗承诺，迅速引发围观；7月4日晚间，该账",
-     "source": "东方财富股票",
-     "zh": "证监会出手！“南京路宝宝总”被严肃查处"
+     "title": "金科股份控股股东被证监会立案调查",
+     "link": "http://www.eeo.com.cn/2026/1128/1106333.shtml",
+     "pubDate": "Sat, 28 Nov 2026 14:04:22 +0800",
+     "summary": "控股股东京渝星筑、京渝星璨于11月20日收到中国证监会《立案告知书》，因涉嫌信息披露违法违规被立案；同时，两家平台的合伙人天娇绿苑也因涉嫌信息披露违法违规被立案。",
+     "source": "经济观察网",
+     "zh": "金科股份控股股东被证监会立案调查"
     },
     {
-     "title": "20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942359065.html",
-     "pubDate": "Sat, 28 Nov 2026 13:40:19 +0800",
-     "summary": "11月28日，河南省球类运动中心发布声明： （文章来源：澎湃新闻）",
+     "title": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开",
+     "link": "https://wallstreetcn.com/articles/3786901",
+     "pubDate": "Sat, 28 Nov 2026 14:01:58 +0800",
+     "summary": "11月25日，个人养老金制度实施满四周年。 四年间，个人养老金的货架逐渐丰富，已有基金351只，理财39只，在售保险产品233款，储蓄类产品256款。 经历了最初两年的开户热潮，能不能让更多人往里存钱，是个人养老金如今面临的关隘。 截至2025年末，个养累计缴存1452亿元。以当年6月的1.5亿个账户估算，平均每个账户累计缴存不足千元。 开户热、缴存冷，是个人养老金发展到第四年仍然无法回避的现实。 与之形成对比的，是账户之外正在点燃的星星之火。 枢纽根据行业数据估算，如今养老目标基金在账户外的规模已是账户内的2.6倍；账户外的养老理财规模，是账户内理财的4倍；保险行业试点三年的商业养老金，规模",
+     "source": "华尔街见闻",
+     "zh": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开"
+    },
+    {
+     "title": "成立14个月估值涨逾9倍，这家LPU创企收获第三家上市公司股东",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942360821.html",
+     "pubDate": "Sat, 28 Nov 2026 13:55:37 +0800",
+     "summary": "《科创板日报》11月28日讯（记者 杨小小） 继 星宸科技 （301536.SZ）、 智微智能 （001339.SZ）之后，推理芯片公司 元川微 的新一轮融资，又出现了上市公司的身影。 新智认知（603869.SH，证券简称 ST智知 ）11月25日晚披露，公司旗下基金拟与新奥资本参与的基金共同投资杭州元川微科技有限公司。两家基金各出资约3000万元，通过专项投资主体合计投资 6000万元 ，取得元川微Pre-A+轮增资后1.25%的股权。 据此测算，元川微本轮投后估值为 48亿元 。 新智认知与新奥资本同属新奥系。此次公告披露的是双方联合参与的一笔投资，元川微Pre-A+轮的完整规模尚未在该",
      "source": "东方财富股票",
-     "zh": "20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局"
+     "zh": "成立14个月估值涨逾9倍，这家LPU创企收获第三家上市公司股东"
+    },
+    {
+     "title": "这两家公司获百余家机构密集调研",
+     "link": "http://finance.eastmoney.com/news/11158,202611283942360724.html",
+     "pubDate": "Sat, 28 Nov 2026 13:53:32 +0800",
+     "summary": "Choice数据统计，近两周已有 351家A股上市公司获机构投资者调研 。其中， 微导纳米 、 盛美上海 两家公司获百余家机构 密集调研 。 数据来源：Choice 机构调研个股排名 近两周，机构投资者调研的上市公司中，共两家公司接待调研机构家数超100家。获机构调研最多的是 微导纳米 ，调研机构家数 142家 ，参与调研的机构包括42家券商、44家基金、18家私募和5家保险等； 盛美上海 获 130家 机构调研。 此外， 乐鑫科技 、 TCL中环 、 恺英网络 、奥比中光获80家以上机构调研。 数据来源：Choice 机构调研行业分布 近两周，机构调研量最多的行业是 电子 设备 ，累计调研量",
+     "source": "东方财富股票",
+     "zh": "这两家公司获百余家机构密集调研"
     },
     {
      "title": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可",
      "link": "https://wallstreetcn.com/articles/3786900",
-     "pubDate": "Sat, 28 Nov 2026 13:36:52 +0800",
-     "summary": "据英国《金融时报》，得克萨斯州突然重启此前暂停的数据中心项目审批，超过1800个项目重新获得推进机会。随着民主党籍新州长吉娜·希诺霍萨（Gina Hinojosa）明年1月即将上任，且其已承诺收紧数据中心建设，开发商正争分夺秒，试图赶在新政府上台前拿到审批许可。 今年8月，应时任州长格雷格·阿博特（Greg Abbott）办公室要求，得州暂停了新数据中心项目的审批。当时，涉及新增电力需求的申请规模达到474吉瓦。暂停措施此后进一步延长。如今，随着得州电力可靠性委员会（ERCOT）完成有关数据中心对当地社区影响的信息收集，阿博特办公室确认，项目审批可以重新推进。开发商正加快申请，希望赶在希诺霍萨",
+     "pubDate": "Sat, 28 Nov 2026 13:52:15 +0800",
+     "summary": "得州正在上演一场与时间赛跑的监管博弈。 据英国《金融时报》最新报道，在暂停逾1800个数据中心项目许可审批数月后，共和党州长Greg Abbott的办公室突然发出指令， 要求得州环境质量委员会（TCEQ）全面恢复数据中心相关许可的签发，开发商随即争分夺秒地抢在政权交接前锁定审批。 这一急转弯的直接导火索，是即将于明年1月就任的民主党州长Gina Hinojosa。Hinojosa在竞选期间明确承诺，将对新数据中心建设实施暂停令、取消行业税收优惠，并赋予地方社区对新设施建设的更大话语权。TCEQ在恢复许可后，已率先批准了SpaceX位于布朗斯维尔附近、造价240亿美元的Boca Chica燃气发",
      "source": "华尔街见闻",
      "zh": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可"
     },
     {
-     "title": "长城汽车魏建军到访格力电器，董明珠因员工提前备好咖啡当面批评",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942358370.html",
-     "pubDate": "Sat, 28 Nov 2026 13:34:18 +0800",
-     "summary": "红星资本局11月28日消息，近日， 长城汽车 （601633.SH）董事长魏建军到访 格力电器 （000651.SZ）， 格力电器 董事长董明珠陪同。该过程在魏建军的社交账号上全程直播，其中董明珠批评员工的切片引起网友关注。 红星资本局回溯此次直播发现，在参观 格力电器 相关展厅及产品时，两人经过格力智能 机器人 咖啡亭，董明珠提及坐下来喝一杯咖啡，旁边的工作人员因称“有提前做好的”、未进行现场演示而引发董明珠的不满。 董明珠当场批评道：“提前做好的？我们想体验，你们这做事叫做……真是的……提前做好了，我不是为了喝咖啡，是体验……你们做什么事，真的是要命。” 在这一过程中，魏建军没有说话，而后",
+     "title": "数据确认：法国已陷入经济衰退",
+     "link": "http://finance.eastmoney.com/news/1352,202611283942360424.html",
+     "pubDate": "Sat, 28 Nov 2026 13:49:00 +0800",
+     "summary": "据法新社、法国国际广播电台（RFI）等法媒报道，根据法国国家统计与经济研究所27日公布的数据， 法国经济自第二季度起已陷入衰退 ，今年三个季度的经济表现低于预期。 法国国家统计与经济研究所在详细报告中宣布，作为衡量经济活动及创造财富指标的国内生产总值（GDP），在第二季度持平、第一季度下降0.2%之后， 第三季度又下降了0.2% 。 法国国家统计机构提供的最新详细数据显示，法国自第二季度起已陷入所谓的“技术性”轻微衰退，其特征是国内生产总值连续两个季度下滑。 数据显示，相比2025年第四季度的6657亿欧元，法国今年前三季度的国内生产总值分别为6644亿欧元、6642亿欧元、6626亿欧元。 ",
      "source": "东方财富股票",
-     "zh": "长城汽车魏建军到访格力电器，董明珠因员工提前备好咖啡当面批评"
+     "zh": "数据确认：法国已陷入经济衰退"
     },
     {
-     "title": "格恩半导体完成IPO辅导备案 系国内首家氮化镓激光芯片规模量产企业",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942358788.html",
-     "pubDate": "Sat, 28 Nov 2026 13:28:00 +0800",
-     "summary": "《科创板日报》11月28日讯（记者 王楚凡） 近日，格恩 半导体 （安徽）股份有限公司（下称：格恩 半导体 ）在安徽证监局 完成IPO辅导备案 ，辅导券商为 国泰海通 证券。 这家2021年8月落地安徽六安金安区的企业，聚焦 氮化镓 激光芯片本土化发展。 ▍三安系“老兵”带队 格恩 半导体 的成长节奏，与其创始人阚宏柱的产业经历高度相关。 作为在化合物半导体领域深耕多年的从业者，阚宏柱兼具学术背景与产业运营经验：拥有研究生学历、工商管理博士学位，为上海财经大学博士后，同时是福建三安集团体系内的资深高管，历任三安集团总办副主任、北京办事处主任、项目建设副总指挥等职，深度参与过国内头部化合物半导体",
+     "title": "鑫科材料：XKC70385产品研发取得关键阶段性突破",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942359932.html",
+     "pubDate": "Sat, 28 Nov 2026 13:48:00 +0800",
+     "summary": "据 鑫科材料 消息，面向AI算力中心与 新能源 汽车 行业对高端连接器用高强高导、抗应力松弛、无铍 环保 材料的迫切需求，公司成功开发出具有自主 知识产权 的 铜 镍 硅 钴 系合金XKC70385，并获授权发明专利“一种高强度耐高温 铜 合金带材及其在AI算力中心的应用”。该产品在性能与工程化应用上取得关键阶段性突破，为AI连接器材料国产化与差异化布局提供了有力支撑。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "格恩半导体完成IPO辅导备案 系国内首家氮化镓激光芯片规模量产企业"
+     "zh": "鑫科材料：XKC70385产品研发取得关键阶段性突破"
     },
     {
-     "title": "北京国资追加、阿里入局，向量奇点成立半年连融两轮",
-     "link": "http://finance.eastmoney.com/news/11231,202611283942358498.html",
-     "pubDate": "Sat, 28 Nov 2026 13:28:00 +0800",
-     "summary": "《科创板日报》28日讯， 近日，北京向量奇点科技有限公司（下称“向量奇点”）宣布完成 数亿元A轮融资 ，本轮融资由北京市 人工智能 产业投资基金、北工投资及旗下北工量子基金、北京万信融智、 中关村 科学城基金领衔， 阿里集团 、招商局 创投 、啟赋资本、湖南财信、北洋海棠基金、雅瑞资本等共同参与。 这是这家成立于今年5月的中性原子量子计算公司，完成的 第二轮融资 。 此前，向量奇点在今年8月完成 超亿元天使轮融资 ，由IDG资本领投，跟投方包括五源资本、耀途资本、英诺天使基金、 滴普科技 ，以及此次的领投方北京市 人工智能 产业投资基金等。 根据财联社 创投 通—执中数据，以2026年11月为",
+     "title": "《AIGC内容生产行业自律公约》发布",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942359362.html",
+     "pubDate": "Sat, 28 Nov 2026 13:45:51 +0800",
+     "summary": "在2026中国文化产业发展大会上，《AIGC内容生产行业自律公约》正式发布。《公约》引导市场主体在拥抱技术创新的同时，坚守价值导向，严守版权保护底线，厘清人机创作边界，防范技术滥用风险。 中国民营文化产业商会会长吴建荣表示，在积极拥抱AI技术的同时，我们也需要推动相关法律法规和行业规范的完善，进一步明确原创作品的 知识产权 归属、使用边界及利益分配机制，让原创者的价值得到充分尊重和合理回报。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "北京国资追加、阿里入局，向量奇点成立半年连融两轮"
+     "zh": "《AIGC内容生产行业自律公约》发布"
     },
     {
-     "title": "浙江国资加码具身数据采集",
-     "link": "http://stock.eastmoney.com/news/11376,202611283942358651.html",
-     "pubDate": "Sat, 28 Nov 2026 13:27:00 +0800",
-     "summary": "近日，大衍科技（桐乡）有限公司（下称“大衍科技”）完成 数千万元Pre-A轮融资 ，由赛智伯乐领投，普华资本、浙商 创投 、浙里信跟投，老股东浙江省科创母基金追投。本轮资金将主要用于 数据中心 建设与触觉手套产线搭建。 此前，今年7月披露的融资信息显示，大衍科技已获得数千万元天使轮融资，由松禾清湛领投，浙江省金控及广州番禺创新基金等参与。可以看到，从此前天使轮到本次Pre-A轮， 浙江国资不同的投资平台都先后参与到了大衍科技的融资中 。 根据财联社 创投 通—执中数据，以2026年11月为预测基准时间，大衍科技后续2年的融资预测概率为70.56%。该数据仅为模型估算，不代表实际融资结果。 大衍",
+     "title": "钴价连续上涨 后续走势如何？",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942359233.html",
+     "pubDate": "Sat, 28 Nov 2026 13:45:22 +0800",
+     "summary": "周内 钴 价连续上涨，截至11月27日结束，中联金 钴 价报34.9万元/吨，较刚果（金）“禁令”出台前涨近9万元/吨，不到一周 涨幅超34% 。 11月23日，刚果（金）战略矿产市场监管局（ARECOMS）宣布，自11月30日起 暂停全部 钴 出口 ，恢复时间另行通知。刚果（金）是全球第一大钴生产国，2025年其钴产量占全球的74.2%。 上证报记者采访获悉，刚果（金）钴出口政策调整背景下，当地矿企仍维持生产，只是货源在境内堆积；国内钴盐端库存或率先承压。钴价短期具备上行动力，但其供需格局的重要变量在于后续需求能否回暖。 最强政策工具“重出江湖” 这并非刚果（金）首次动用钴出口暂停这一调控工",
      "source": "东方财富股票",
-     "zh": "浙江国资加码具身数据采集"
+     "zh": "钴价连续上涨 后续走势如何？"
     },
     {
      "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
@@ -2295,6 +2311,22 @@
      "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
      "source": "经济观察网",
      "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
+    },
+    {
+     "title": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年",
+     "link": "http://hk.eastmoney.com/news/11223,202611283942355888.html",
+     "pubDate": "Sat, 28 Nov 2026 13:16:59 +0800",
+     "summary": "美团称外卖行业已经迎来拐点。 11月27日，美团（03690.HK）发布了2026年第三季度业绩报告。三季度，美团实现 收入1156亿元，同比增长21.6% 。 净利润为20.7亿元 ，去年同期净亏损为186亿元，实现扭亏为盈。 分业务看，核心本地商业分部三季度收入同比增长16.8%至783亿元。其中商家服务的收入增长8.2%，主要受交易金额增加及线上营销活跃商家数量增加所带动。与自营品类如药品和酒类相关的商品销售收入增加至43亿元，同比增长75.8%。 美团CEO王兴表示，在今年三季度， 外卖行业迎来拐点 ，有三个信号：客单价（AOV）同比明显回升；低价订单占比环比持续下降；行业补贴趋于理性",
+     "source": "东方财富资讯",
+     "zh": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年"
+    },
+    {
+     "title": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942356774.html",
+     "pubDate": "Sat, 28 Nov 2026 13:13:27 +0800",
+     "summary": "奶茶赛道有段时间未打价格战，作为“初代网红新茶饮”的乐乐茶打破了这种平静。 据乐乐茶官方账号发布，为庆祝品牌十周年，自11月27日起上线全新价格： 小程序全线产品调价30% ，12.9元就能喝到招牌产品。 品牌海报显示，多款招牌产品售价集中在 5.9-13.9元 左右，实际降幅约在39-65%。比如，最便宜的柠檬水从17元降到5.9元一杯，招牌产品黑糖波霸脏脏茶则从原价23元调整为12.9元起。 这一调价力度，放在行业里也是较为“激进”的。至此，乐乐茶主力产品已落入 古茗 、 茶百道 、CoCo等同行长期争夺的价格带。社交平台上，甚至有网友称“乐乐茶价格快追上蜜雪”，也有人调侃品牌如此降价“日",
+     "source": "东方财富资讯",
+     "zh": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零"
     },
     {
      "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
@@ -2361,6 +2393,14 @@
      "zh": "11月沪牌拍卖结果出炉"
     },
     {
+     "title": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）",
+     "link": "http://stock.eastmoney.com/news/11622,202611283942357559.html",
+     "pubDate": "Sat, 28 Nov 2026 12:44:33 +0800",
+     "summary": "本周主要股指集体反弹，沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 。 行业主题上看， 机器人 相关ETF被资金看好，而 半导体 、金融、 煤炭 相关ETF被资金抛售。 超840亿元资金借道ETF进场 本周沪深两市成交7.91万亿元，其中沪市成交3.71万亿元，深市成交4.2万亿元。截至最新收盘，沪指报收于3606.49点，全周上涨2.06%，深证成指报收于10814.02点，全周上涨5.44%。 Wind数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 ，宽基指数ETF净流入1056亿元，行业主题ETF净流出117亿元。 细分来看，主要宽基指数整",
+     "source": "东方财富资讯",
+     "zh": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）"
+    },
+    {
      "title": "葛卫东卖了10万股中材科技",
      "link": "http://stock.eastmoney.com/news/11215,202611283942353196.html",
      "pubDate": "Sat, 28 Nov 2026 12:18:21 +0800",
@@ -2377,30 +2417,6 @@
      "zh": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元"
     },
     {
-     "title": "AI新消费赛道密集上新！机构资金加仓16股",
-     "link": "http://stock.eastmoney.com/news/11134,202611283942352767.html",
-     "pubDate": "Sat, 28 Nov 2026 12:11:40 +0800",
-     "summary": "AI眼镜 赛道热度持续攀升 ，成为 消费电子 领域最亮眼的增长风口。 多家企业发布 AI眼镜 新品 据报道， 小米 AI眼镜 2代 或将于12月中旬与小米18标准版手机（手机起售价5699元起）同步发布，并于当天上市开售。 近期已有多家企业密集发布AI眼镜新品。当地时间11月12日， 三星 电子 新款AI眼镜 在韩国、美国同步开启预售，备货量在数小时内就被抢购一空，该款产品定于12月10日正式发售。 11月4日，影目科技发布空间智能眼镜INMOFuture，采用双目1080P全彩阵列光波导并支持6DoF空间锚定。 10月27日，乐奇Rokid在杭州举行Rokid Jungle2026新品发布会",
-     "source": "东方财富资讯",
-     "zh": "AI新消费赛道密集上新！机构资金加仓16股"
-    },
-    {
-     "title": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942348217.html",
-     "pubDate": "Sat, 28 Nov 2026 11:57:28 +0800",
-     "summary": "在英国广播公司27日播出的采访中，乌克兰总统泽连斯基对美国总统特朗普称俄罗斯总统普京为“朋友”表达不满，并敦促美国加大力度对俄罗斯施压。俄方回应称，泽连斯基的言论表明他“不愿走和平解决的道路”。 泽连斯基在位于乌克兰首都基辅的办公室接受采访时，再次以激烈言辞批评普京。他还称，特朗普先前在社交媒体发布一张与普京拥抱的图片“很奇怪”，“这当然取决于美国总统，但……这很奇怪”，“他（普京）不可能是朋友”。 泽连斯基还抱怨美国没有对俄罗斯施加足够压力，称目前需要“更多进展”。 据美联社报道，白宫尚未就泽连斯基的言论作出回应。前一天，特朗普已为自己称普京为“朋友”辩护：“我们想达成协议。”他说，“我可以",
-     "source": "东方财富资讯",
-     "zh": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压"
-    },
-    {
-     "title": "重大资产重组！这只A股公告：股票不停牌",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942349464.html",
-     "pubDate": "Sat, 28 Nov 2026 11:57:09 +0800",
-     "summary": "11月27日， 中南文化 披露《关于筹划重大资产重组的提示性公告》。公司及全资子公司江阴中南红股权投资管理有限公司（下称中南投资）拟以现金购买上海儒驭能源投资有限公司、上海慧冉投资有限公司各100%股权；中南投资拟以现金收购林磊渊、赵文碧合计所持江阴升宏达股权投资企业（有限合伙）2%出资份额，并成为其普通合伙人暨执行事务合伙人。交易完成后，公司及中南投资通过控制上述三家企业，间接取得江阴天力燃气有限公司（下称江阴天力） 52.5%股权 ，江阴天力将纳入合并报表范围。 公告称，本次交易预计构成重大资产重组，不构成关联交易，不涉及发行股份，不构成重组上市，也不会导致控股股东和实际控制人变更， 公司",
-     "source": "东方财富资讯",
-     "zh": "重大资产重组！这只A股公告：股票不停牌"
-    },
-    {
      "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
      "link": "https://wallstreetcn.com/articles/3786895",
      "pubDate": "Sat, 28 Nov 2026 11:55:29 +0800",
@@ -2409,28 +2425,12 @@
      "zh": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！"
     },
     {
-     "title": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？",
-     "link": "http://bank.eastmoney.com/news/1174,202611283942348581.html",
-     "pubDate": "Sat, 28 Nov 2026 11:52:54 +0800",
-     "summary": "大额存单转让市场有望迎来新的制度性变化。 11月27日，中国人民 银行 正式公布 《大额存单管理办法》 （以下简称《办法》），进一步明确大额存单可以通过发行人自有渠道或第三方平台办理转让，并授权全国 银行 间同业拆借中心（以下简称同业拆借中心）为大额存单业务提供第三方发行、转让和信息披露服务。 央行有关部门负责人表示，下一步将结合市场实际，着手研究第三方平台等相关配套安排，保障大额存单转让有序开展。 受访业内人士指出，此次修订的重要意义在于，为大额存单转让市场引入统一的第三方服务机制提供了制度依据。 此前，大额存单转让主要依托 银行 自有渠道开展，不同银行之间缺乏有效的信息互通和交易衔接，市场",
-     "source": "东方财富资讯",
-     "zh": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？"
-    },
-    {
      "title": "新乐道L60黑骑士版正式上市，整车售价21.08万元起",
      "link": "http://www.eeo.com.cn/2026/1128/1106135.shtml",
      "pubDate": "Sat, 28 Nov 2026 11:52:14 +0800",
      "summary": "北京商报讯（记者 蔺雨葳）11月27日，第二十四届广州国际汽车展览会正式开幕。蔚来公司以“大有新境”为主题，携NIO蔚来、ONVO乐道、firefly萤火虫三大品牌亮相本次车展。乐道汽车L90、L80和L60全系产品登场，新乐道L60黑骑士版正式上市，整车售价21.08万元起，采用BaaS电池租用方式售价15.38万元起，同步开启全国交付。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/8D7BA47CB50108B83...",
      "source": "经济观察网",
      "zh": "新乐道L60黑骑士版正式上市，整车售价21.08万元起"
-    },
-    {
-     "title": "定存“不烧心”",
-     "link": "http://www.eeo.com.cn/2026/1128/1106067.shtml",
-     "pubDate": "Sat, 28 Nov 2026 11:07:44 +0800",
-     "summary": "2026年以来，随着各类金融资产的风险指数提升，很多人在遭受一轮又一轮真金白银的亏损之后，重新看待投资收益，开始回归低利率的银行存款。",
-     "source": "经济观察网",
-     "zh": "定存“不烧心”"
     },
     {
      "title": "全球大救市，独缺美联储",
@@ -2457,20 +2457,20 @@
      "zh": "特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”"
     },
     {
-     "title": "铝市割裂一幕：期货价格下跌，现货却遭史诗级逼空，LME紧急出手",
-     "link": "https://wallstreetcn.com/articles/3786875",
-     "pubDate": "Sat, 28 Nov 2026 10:02:42 +0800",
-     "summary": "伦敦金属交易所（LME）铝市场近日上演罕见割裂行情，铝期货价格随大宗商品整体走低，现货价格却在逼空压力下急剧飙升。 本周初，LME铝现货较三个月期铝的升水一度飙升至每吨400美元，创下1988年和1990年以来的极端水平。 据彭博援引知情人士透露， 制造商和交易商纷纷向LME发出紧急呼吁，警告称因套期保值头寸承受巨额亏损，部分企业面临违约风险。 在此压力下，LME于本周被迫出手干预。 华尔街见闻提及 ，11月24日周二，伦敦金属交易所推出新规打压大型铝交易商的逼空能力，包括缩短新冶炼厂的交割注册期，并对持有大规模头寸的交易商加以限制。 新规发布后，现货与三个月期货之间的价差（现货升水）在数分钟",
-     "source": "华尔街见闻",
-     "zh": "铝市割裂一幕：期货价格下跌，现货却遭史诗级逼空，LME紧急出手"
-    },
-    {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
      "source": "MarketWatch",
      "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
     }
    ]
   },

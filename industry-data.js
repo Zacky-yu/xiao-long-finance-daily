@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 08:31:57",
+ "generated_at": "2026/11/28 08:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -282,14 +282,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
-     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
-     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
-     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
-     "source": "SemiAnalysis",
-     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
-    },
-    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -466,14 +458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -496,6 +480,22 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
+    },
+    {
+     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1354,6 +1354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
+     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
+     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
+    },
+    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1384,6 +1392,14 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
+    },
+    {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1434,6 +1450,30 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1458,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1480,30 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
-    },
-    {
-     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
-     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1704,14 +1728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
      "source": "Dark Reading",
      "zh": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'"
-    },
-    {
-     "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "pubDate": "Sat, 21 Nov 2026 00:36:39 +0000",
-     "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers ",
-     "source": "Krebs on Security",
-     "zh": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
     }
    ]
   },
@@ -1721,6 +1737,38 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "国资1.4亿买老挝酒店，只卖1万块？",
+     "link": "https://www.huxiu.com/article/4909110.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 08:38:29 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 五星琅勃拉邦铂尔曼，1万块挂牌清仓背后。 ▲ 01 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园",
+     "source": "虎嗅",
+     "zh": "国资1.4亿买老挝酒店，只卖1万块？"
+    },
+    {
+     "title": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布",
+     "link": "https://www.ithome.com/1/033/792.htm",
+     "pubDate": "Sat, 28 Nov 2026 00:25:18 GMT",
+     "summary": "IT之家 11 月 28 日消息，《空洞骑士：丝之歌》（Hollow Knight：Silksong）全新 DLC“悲恸之海”（Sea of Sorrow）正式公布，将于 12 月 11 日推出。 这是《空洞骑士：丝之歌》推出后的首个大型扩展内容，所有玩家均可免费获得。开发商 Team Cherry 表示，此次扩展将为玩家带来全新的海洋主题冒险内容。 根据 Team Cherry 公布的信息，玩家将在“悲恸之海”中探索法洛姆（Pharloom）被遗忘的海洋，前往海面及海底区域，穿越群岛、堡垒，以及深藏于海浪之下的洞穴。 Team Cherry 表示，开发团队过去一年一直在为这次扩展内容进行开发",
+     "source": "IT之家",
+     "zh": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布"
+    },
+    {
+     "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
+     "link": "https://www.ithome.com/1/033/790.htm",
+     "pubDate": "Sat, 28 Nov 2026 00:24:00 GMT",
+     "summary": "IT之家 11 月 28 日消息，微软一直积极推动 Copilot 融入旗下各类应用，Office 自然也不例外。然而据外媒 Neowin 当地时间 27 日报道，一名 IT 管理员指出，部分新功能可能给使用 Microsoft 365 的企业和组织带来棘手的合规风险。 据这名管理员透露，拥有 Business Premium 订阅及 Copilot 许可证的用户， 只需向 Copilot 输入文字指令，就能直接编辑保存在 OneDrive 和 SharePoint 中的文件 。Copilot 还可以自行识别目标文件并进行修改，用户既不必指定文件名，也无需明确确认修改操作。 即使没有启用按使用",
+     "source": "IT之家",
+     "zh": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险"
+    },
+    {
+     "title": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息",
+     "link": "https://www.ithome.com/1/033/791.htm",
+     "pubDate": "Sat, 28 Nov 2026 00:22:28 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Neowin 昨日（11 月 27 日）发布博文， 报道称勒索软件组织 Inception 声称入侵了域名注册商和网站托管服务商 GoDaddy，并在其泄密网站上公开了约 37.5GB 的数据。 GoDaddy 成立于 1997 年，总部位于美国亚利桑那州坦佩，是全球最大的域名注册商，根据该公司年报，截至 2025 年 12 月 31 日该机构管理约 8,100 万个域名。按 .com 域名数（2026 年 5 月）统计，GoDaddy 管理约 5,270 万个域名，远超第二名 Namecheap（约 1,370 万）。 根据 Inception 披",
+     "source": "IT之家",
+     "zh": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息"
+    },
     {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
@@ -1736,6 +1784,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界 这两天出差和商家交流的时候，大家又在担心11月25日美国发布的\"新关税\"消息。大家担心2027年的关税战会再起，影响2027年中国外贸的整体表现和出口美国的增长势头。在我看下来其实不用太担心，美国此举在我看来不是\"负面影响\"反而是\"正面影响\"。因为中国主持的APEC会议多国领导人达成了一个非常积极的贸易合作规则框架。就算美国新301关税落地也不会给中国当前的出口美国贸易新增太多的负担，反而是针对其他出口美国的制造业经济体（如东南亚、日韩、欧洲、拉美等）带去了非常大的压力，凸显了中国的相对税率优势。 先把话说清楚：我说\"正面\"，不是说中国的税率变",
      "source": "虎嗅",
      "zh": "2027年1月美国‘新关税’可能对中国出口的影响？"
+    },
+    {
+     "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
+     "link": "https://www.ithome.com/1/033/789.htm",
+     "pubDate": "Sat, 28 Nov 2026 00:07:44 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Linuxiac 今天（11 月 28 日）报道，免费、开源、跨平台的 3D 引擎 Open 3D Engine（简称 O3DE）发布 26.10 版本， 带来包含 200 多项修复和改进，增强开发 3D 游戏、模拟和交互式应用程序。 在界面与工具方面，引擎将 Qt 版本从 5.15.2 升级至 6.10.2，实现了编辑器和开发工具的现代化。新版本还重新设计了实体检查器，统一了编辑器快捷键，并在资源编辑器中加入撤销功能。 在 Linux 平台方面，游戏启动器首次原生支持 Wayland，用户可在运行时或编译时选择 Wayland 或 X11。IT之家",
+     "source": "IT之家",
+     "zh": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland"
     },
     {
      "title": "GE医疗、飞利浦、西门子医疗全球营收增长，唯独中国区业绩承压",
@@ -1770,28 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位"
     },
     {
-     "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
-     "link": "https://www.ithome.com/1/033/786.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:39:57 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称 在海关舱单记录后 ，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属于桌面处理器产品。 英特尔近日在其官方网站发布的 Windows Zero Copy 显示虚拟化驱动程序文档中，首次明确列出了“Raptor Lake-S NEXT PV”，从而在产品发布之前，悄然确认了 Raptor Lake-S NEXT 这一处理器系列的存在。 文档显示，最新版 Windows Zero Copy 驱动支持 Bartlett Lake-",
-     "source": "IT之家",
-     "zh": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实"
-    },
-    {
      "title": "Why drivers want cheap, dumb cars again",
      "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
      "pubDate": "Fri, 27 Nov 2026 23:39:15 +0000",
-     "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html Comments URL: https://news.ycombinator.com/item?id=50672762 Points: 36 # Comments: 24",
+     "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html Comments URL: https://news.ycombinator.com/item?id=50672762 Points: 49 # Comments: 61",
      "source": "Hacker News",
      "zh": "Why drivers want cheap, dumb cars again"
-    },
-    {
-     "title": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁",
-     "link": "https://www.ithome.com/1/033/785.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:38:22 GMT",
-     "summary": "IT之家 11 月 28 日消息，三名知情人士告诉路透社，美国空军旗舰云计算平台 Cloud One 遭黑客入侵，大量涉及 战术、人事和后勤 的敏感数据恐面临安全威胁。 其中两名知情人士称，入侵事件是在近一个月内 对 Cloud One 进行系统升级时发现的 ，整个平台的运行因此受到影响。 至于黑客身份、入侵究竟波及多大范围，以及是否有数据被盗，目前均无法确定。美国空军回应称：“我们不对特定网络和系统的安全状况、漏洞或运行状态发表评论。我们持续采取审慎措施，保护美国空军部的信息、系统和任务执行能力。” IT之家从报道中获悉，美国空军于 2017 年启动 Cloud One 项目，旨在提供一站式",
-     "source": "IT之家",
-     "zh": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁"
     },
     {
      "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
@@ -1802,28 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)"
     },
     {
-     "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
-     "link": "https://www.ithome.com/1/033/784.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:28:45 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有： 1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额 DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可展示单次对话 Token 消耗及估算金额，当前个人用户仍可免费使用该服务。>> 查看详情 2. 有线电视与 IPTV 广告禁令 11 月 27 日生效：开机看全屏直播，违者最高罚 10 万元 广电总局两项新规 11 月 27 日施行，有线电视与 IPTV 开机广告被全面禁止，违规最高罚 10 万；超 6 亿用户可实现开机即看直播，智能电视厂商开屏广告暂不受限",
-     "source": "IT之家",
-     "zh": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业..."
-    },
-    {
      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
      "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 23:27:04 +0000",
      "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
      "source": "WIRED",
      "zh": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)"
-    },
-    {
-     "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
-     "link": "https://www.ithome.com/1/033/783.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:26:40 GMT",
-     "summary": "IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻求 8,000 万美元 （IT之家注：现汇率约合 5.34 亿元人民币） 罚款并要求其开放 App Store 应用商店。 IT之家查询公开资料，FNE 在智利的角色是调查者和起诉方，目前该机构已向竞争法庭提起诉讼，请求法庭认定苹果违法并处以罚款。FNE 在长达 50 页的起诉文件中称，苹果的相关行为违反了智利第 211 号法令。 该机构认为，至少自 2019 年至今，苹果在智利境内的 iOS 应用分发市场和应用内付费数字商品分发市场中，实施了妨碍、限",
-     "source": "IT之家",
-     "zh": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款"
     },
     {
      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 16 # Comments: 1",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 27 # Comments: 7",
      "source": "Hacker News",
      "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
     },
@@ -1853,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
      "link": "https://tabernet.es/",
      "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
-     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 21 # Comments: 5",
      "source": "Hacker News",
      "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
     },
@@ -1869,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 40 # Comments: 26",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 45 # Comments: 31",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
     },
@@ -1877,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "9/UX: a Macintosh-inspired desktop for 9front",
      "link": "https://progrium.github.io/9ux/",
      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 52 # Comments: 9",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 59 # Comments: 10",
      "source": "Hacker News",
      "zh": "9/UX: a Macintosh-inspired desktop for 9front"
     },
@@ -1893,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
      "link": "https://sessiongraph.ai/",
      "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
-     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 17 # Comments: 8",
+     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 18 # Comments: 9",
      "source": "Hacker News",
      "zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
     },
@@ -1952,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
      "source": "Ars Technica",
      "zh": "The best Black Friday deals Ars could find"
-    },
-    {
-     "title": "中国客车出海，遇到了比关税更复杂的壁垒",
-     "link": "https://www.huxiu.com/article/4909104.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 00:38:21 +0800",
-     "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月26日，挪威当地媒体报道称，布斯克吕郡交通委员会通过了一份有关公交车采购安全问题的意见书。该郡希望由挪威中央政府决定哪些客车制造商符合安全要求，并承担由此产生的额外采购成本。 这场争论源于挪威政府今年8月提出的一项政策建议：减少公共交通系统对缺乏安全政策合作关系国家的客车供应商的依赖。 中国客车企业是这项政策潜在的主要影响对象。 与此同时，中国客车出口仍在快速增长。中国客车统计信息网数据显示，今年10月，中国新能源客车出口达到1874辆，同比增长55.4%；前十个月累计出口17858辆，同比增长29.5%。 随着中国客车在海外市场的",
-     "source": "虎嗅",
-     "zh": "中国客车出海，遇到了比关税更复杂的壁垒"
     }
    ]
   },
@@ -2218,52 +2234,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "银价跌破40美元关口后反弹 上行弹性尚待工业需求驱动",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942147573.html",
-     "pubDate": "Sat, 28 Nov 2026 07:58:20 +0800",
-     "summary": "11月25日，国际 白银 现货、COMEX 白银 期货 盘中双双跌破40美元/盎司关口，COMEX 白银 期货 盘中一度脉冲下探至37.955美元/盎司，创2025年9月以来最低水平。随后，国际银价出现较为明显的反弹，11月26日收盘涨幅达到4.22%，11月27日盘中涨幅超过6%。值得一提的是，2026年1月，COMEX白银价格曾一度升至121.785美元/盎司。白银概念股方面，最近两个交易日，白银板块上市公司股价连续大幅上涨，引发市场关注。机构预判长期向上弹性打开依赖工业需求的配合。 多家受访上市公司告诉中国证券报记者，目前，白银的工业需求主要集中在光伏行业，最近两年，受光伏装机量影响，需",
+     "title": "荷兰团体起诉Meta要求停售智能眼镜",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942328719.html",
+     "pubDate": "Sat, 28 Nov 2026 08:41:51 +0800",
+     "summary": "当地时间26日，荷兰消费者协会与一家数字权利组织向法院提起诉讼，要求暂停美国“元”公司（ Meta（META.US） ）旗下智能眼镜在荷兰的销售，指控这类产品允许佩戴者在他人不知情的情况下拍摄， 涉嫌违反欧盟隐私保护法规 。 荷兰一家致力于打击网络性侵害的数字权利组织在庭审中表示，“元”公司旗下智能眼镜可能被用于在更衣室、泳池、 医院 等地实施偷拍，而这是对他人隐私的严重侵犯。原告方要求“元”公司禁止佩戴者用智能眼镜在他人不知情的情况下录制影像，不得将拍摄素材用于 人工智能 模型训练，并且 在合规整改完成前暂停销售 。 针对相关指控，“元”公司方面表示，智能眼镜配备录制指示灯，可以提醒周围人设",
      "source": "东方财富股票",
-     "zh": "银价跌破40美元关口后反弹 上行弹性尚待工业需求驱动"
+     "zh": "荷兰团体起诉Meta要求停售智能眼镜"
     },
     {
-     "title": "科兴制药：融资净偿还15.29万元，融资余额1.5亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942321971.html",
-     "pubDate": "Sat, 28 Nov 2026 07:58:00 +0800",
-     "summary": "交易所最新数据显示， 科兴制药 于2026年11月27日获融资买入744.84万元，融资偿还760.13万元， 当日融资净偿还15.29万元。 目前，该股融资余额1.50亿，占流通市值比例为5.03%。 该股当日融券卖出1400股，融券偿还0股， 融券净卖出1400股。 目前，该股融券余量9300股，融券余额13.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "title": "优麦科技常江：“产品+服务”是美妆行业发展新趋势",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942328990.html",
+     "pubDate": "Sat, 28 Nov 2026 08:41:22 +0800",
+     "summary": "上证报中国证券网讯（记者王墨璞嘉）在近日举办的SIA2026科学护肤创新联盟年度大会上，SIA科盟发起人、优麦科技创始人兼CEO常江表示，在AI加持下， “产品+服务”将成为美妆行业的发展新趋势 。服务在企业业务中的比重将上升，并走向精准化、个性化、居家化。谁能理顺产品、服务与资本要素的关系，谁就能建立起行业壁垒。 这一判断的前提，是 服务场景的重构 。“AI时代，企业需要在产品基础上叠加服务。没有服务，就不能从单一产品走向解决方案，企业也就仍停留在制造业的逻辑里。”常江认为，在未来，从检测领域到治疗领域，都将有新的AI+服务场景出现。 常江预测，AI+服务场景脱离不了线下环境。企业将在线上提",
      "source": "东方财富股票",
-     "zh": "科兴制药：融资净偿还15.29万元，融资余额1.5亿元"
+     "zh": "优麦科技常江：“产品+服务”是美妆行业发展新趋势"
     },
     {
-     "title": "酒钢宏兴：融资净买入167.93万元，融资余额1.76亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942321871.html",
-     "pubDate": "Sat, 28 Nov 2026 07:58:00 +0800",
-     "summary": "交易所最新数据显示， 酒钢宏兴 于2026年11月27日获融资买入568.27万元，融资偿还400.35万元， 当日融资净买入167.93万元。 目前，该股融资余额1.76亿，占流通市值比例为2.29%。 该股当日融券卖出0股，融券偿还2000股， 融券净偿还2000股。 目前，该股融券余量5500股，融券余额6765元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
+     "title": "“399元羽绒服卖断货”是消费降级吗",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942140230.html",
+     "pubDate": "Sat, 28 Nov 2026 08:40:31 +0800",
+     "summary": "“399元羽绒服卖断货”现象，给市场各方传递了一个清晰信号：消费者并非不愿意消费，而是拒绝为虚高溢价和信息不透明买单。更重要的是，它从一个侧面印证了扩内需战略中“强化供需适配”的重要性。 没想到一件价值399元的羽绒服，竟成了观察当下中国消费风向的窗口。 入冬以来，北京大学文创店399元羽绒外套卖断货，山姆会员店一款售价399.9元羽绒服在多地售罄，胖东来200多元的平价款羽绒服更成了抢手货……这些场景让不少人与“消费降级”关联起来：你看，消费者都捂紧口袋了，连过冬棉衣都舍不得买了，这不就是消费降级吗？ 乍一看，似乎有几分道理，但仔细分析下原因，就不会简单将二者画等号了。过去，很多消费者在选购",
      "source": "东方财富股票",
-     "zh": "酒钢宏兴：融资净买入167.93万元，融资余额1.76亿元"
+     "zh": "“399元羽绒服卖断货”是消费降级吗"
     },
     {
-     "title": "航发动力：融资净偿还1886.37万元，融资余额21.73亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942321770.html",
-     "pubDate": "Sat, 28 Nov 2026 07:57:54 +0800",
-     "summary": "交易所最新数据显示， 航发动力 于2026年11月27日获融资买入6270.52万元，融资偿还8156.89万元， 当日融资净偿还1886.37万元。 目前，该股融资余额21.73亿，占流通市值比例为2.43%。 该股当日融券卖出2.71万股，融券偿还8.29万股， 融券净偿还5.58万股。 目前，该股融券余量21.84万股，融券余额732.3万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
+     "title": "“欧洲优先”侵蚀全球汽车业健康",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942139918.html",
+     "pubDate": "Sat, 28 Nov 2026 08:38:51 +0800",
+     "summary": "近日，德法两国就欧盟 汽车 产业扶持政策达成一致，将本地化比例作为车企获得补贴与税收优惠的门槛，日本未被纳入特殊待遇范围。此举引发日本产业界广泛担忧，认为“日本 汽车 正在被欧洲市场排挤”。分析人士认为，欧盟为限制中国电动 汽车 出台所谓的产业保护措施，触及的却是汽车产业的全球化生产体系。在“欧洲优先”的保护主义倾向面前，如何保住既有市场、维护全球生产网络，已成为多个汽车生产国共同面对的难题。 德法达成的政策共识，属于欧盟《工业加速器法案》（IAA）框架下内容。这套法案打着“扶持本土绿色产业”的旗号，实际上是用极其严苛的本地化比例要求，把全球绝大多数成熟汽车供应链直接隔绝在欧洲补贴体系之外。法",
      "source": "东方财富股票",
-     "zh": "航发动力：融资净偿还1886.37万元，融资余额21.73亿元"
+     "zh": "“欧洲优先”侵蚀全球汽车业健康"
     },
     {
-     "title": "豪森智能：融资净买入4.17万元，融资余额1.05亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942321668.html",
-     "pubDate": "Sat, 28 Nov 2026 07:57:53 +0800",
-     "summary": "交易所最新数据显示， 豪森智能 于2026年11月27日获融资买入265.41万元，融资偿还261.24万元， 当日融资净买入4.17万元。 目前，该股融资余额1.05亿，占流通市值比例为5.82%。 该股当日融券卖出0股，融券偿还200股， 融券净偿还200股。 目前，该股融券余量1.55万股，融券余额16.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "title": "上海航运交易所：本周运输市场保持稳定 远洋航线走势分化",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942328193.html",
+     "pubDate": "Sat, 28 Nov 2026 08:37:57 +0800",
+     "summary": "据上海 航运 交易所，本周，中国出口集装箱运输市场保持稳定，不同航线因各自的供需基本面差异，市场运价走势出现分化， 综合 指数小幅上涨 。据国家统计局最新发布的数据显示，中国10月规模以上工业企业利润同比增长20.1%，增速较9月进一步加快，显示出工业生产总体良好，新动能快速发力。 11月27日，上海 航运 交易研究所（筹）发布的上海出口集装箱 综合 运价指数为 3569.54点 ，较上期上涨1.9%。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "豪森智能：融资净买入4.17万元，融资余额1.05亿元"
+     "zh": "上海航运交易所：本周运输市场保持稳定 远洋航线走势分化"
     },
     {
-     "title": "敏芯股份：融资净买入1287.85万元，融资余额2.61亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942321579.html",
-     "pubDate": "Sat, 28 Nov 2026 07:57:53 +0800",
-     "summary": "交易所最新数据显示， 敏芯股份 于2026年11月27日获融资买入7973.42万元，融资偿还6685.57万元， 当日融资净买入1287.85万元。 目前，该股融资余额2.61亿，占流通市值比例为5.82%。 该股当日融券卖出0股，融券偿还200股， 融券净偿还200股。 目前，该股融券余量1.03万股，融券余额58.84万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "title": "一觉醒来！霍尔木兹海峡突传大消息！特朗普：如果能达成协议最好",
+     "link": "http://finance.eastmoney.com/news/1344,202611283942328280.html",
+     "pubDate": "Sat, 28 Nov 2026 08:36:00 +0800",
+     "summary": "国际油价27日微跌。截至当天收盘，纽约商品交易所1月交货的轻质原油 期货 价格下跌60美分，收于每桶83.08美元，跌幅为0.72%；1月交货的伦敦布伦特原油 期货 价格下跌1.13美元，收于每桶95.44美元，跌幅为1.17%。 消息面上，当地时间28日凌晨，伊朗伊斯兰革命卫队海军表示，几小时前，两艘油轮在霍尔木兹海峡爆炸并起火。其中一艘在海塞卜港附近触雷，另一艘在霍尔木兹海峡以东“未经授权”航线上航行时触雷。 与此前发生爆炸的油轮类似，这些船只通过关闭定位系统，试图秘密穿越霍尔木兹海峡，随后，它们在该海峡南部海岸发生爆炸并起火。 伊朗伊斯兰革命卫队海军发出警告，霍尔木兹海峡内所有“未经授权",
      "source": "东方财富股票",
-     "zh": "敏芯股份：融资净买入1287.85万元，融资余额2.61亿元"
+     "zh": "一觉醒来！霍尔木兹海峡突传大消息！特朗普：如果能达成协议最好"
+    },
+    {
+     "title": "IC独角兽IPO新进展！AI芯片国产化率有望大比例提升（附股）",
+     "link": "http://stock.eastmoney.com/news/11134,202611283942322660.html",
+     "pubDate": "Sat, 28 Nov 2026 08:10:05 +0800",
+     "summary": "从中国证监会官网IPO辅导公示系统获悉，由中国工程院院士、“星光中国芯工程”总指挥邓中翰创立的中星微技术股份有限公司（下称“中星微技术”）的IPO辅导状态近日变更为“ 辅导验收 ”。 中星微技术拟申报科创板IPO 中星微技术是在数字感知领域拥有国际领先的 AI芯片 设计技术和新一代AI视觉技术的高科技企业，面向公共安全、智慧能源、智慧交通、智慧金融、智慧林草、工业 物联网 、 车联网及家庭等领域，提供数智化行业应用及解决方案。 根据证监会官网公告，中星微技术本次拟申报 科创板IPO 。 回顾历史，公司的资本化之路并不平顺。 早年，公司从 纳斯达克 退市后，2016年，上市公司 综艺股份 曾计划",
+     "source": "东方财富资讯",
+     "zh": "IC独角兽IPO新进展！AI芯片国产化率有望大比例提升（附股）"
+    },
+    {
+     "title": "国常会部署“稳市”后 十大券商重磅发声",
+     "link": "http://finance.eastmoney.com/news/1344,202611283942322039.html",
+     "pubDate": "Sat, 28 Nov 2026 08:00:48 +0800",
+     "summary": "美东时间周五，三大股指集体高开，早盘一度回吐大部分涨幅，随后震荡走高， 并在尾盘快速拉升，最终道指和标普500指数均涨超1%，纳指涨超2%。 截至收盘， 标准普尔 500指数涨1.6%，报7297.49点； 纳斯达克 综合 指数涨2.31%，报24129.5点；道琼斯工业平均指数涨1.18%，报50774.94点。 板块方面，大型科技股全线上涨， 特斯拉 涨超5%， 亚马逊 涨近4%，脸书涨超3%， 苹果 涨0.83%， 英伟达 涨0.8%，谷歌涨0.68%， 微软 涨0.6%。 芯片股表现强劲，费城 半导体 指数涨4.69%， 高通 、ARM涨逾6%， 英特尔 涨超5%，AMD涨逾4%， 博",
+     "source": "东方财富资讯",
+     "zh": "国常会部署“稳市”后 十大券商重磅发声"
+    },
+    {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
     },
     {
      "title": "国务院常务会议解读丨国常会新部署释放明确稳市信号",
@@ -2272,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "11月27日举行的国务院常务会议研究了持续深化资本市场投融资 综合 改革工作，释放五大鲜明稳市信号。截至当日收盘，A股超5000只个股飘红，成交明显放量。 信号一：明确“资本市场事关经济发展大局”。 资本市场一头连着企业融资、产业升级，另一头连着居民资产、财产性收入。 会议指出，资本市场事关经济发展大局。在 招商证券 研究发展中心负责人谢亚轩看来，会议把资本市场放在经济发展大局中谋划，定位清晰。企业直接融资渠道是否畅通，科技创新、先进制造能否获得持续资金活水，与市场预期密切相关；居民资产配置、财产性收入增长，同样受市场预期影响。稳住股市，就是稳预期，对巩固经济回升向好态势意义重大。 信号二：“",
      "source": "东方财富资讯",
      "zh": "国务院常务会议解读丨国常会新部署释放明确稳市信号"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
     },
     {
      "title": "信贷市场表里不一：7050亿美元AI债与CCC级“垃圾债”承压，优质企业独自坚挺",
@@ -2298,20 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "凌晨！VIX恐慌指数直线跳水！全球市场情绪回暖"
     },
     {
-     "title": "蓝牌混动也上高阶智驾，广汽本田开启新一轮产品更新",
-     "link": "http://www.eeo.com.cn/2026/1128/1105848.shtml",
-     "pubDate": "Sat, 28 Nov 2026 07:17:59 +0800",
-     "summary": "以新一代混动冠道为起点，广汽本田将本田混动技术与中国本土智能化能力融合。未来两年5款新车的规划，正将合资续约的长期布局转化为产品更新与本土化研发的具体行动。",
-     "source": "经济观察网",
-     "zh": "蓝牌混动也上高阶智驾，广汽本田开启新一轮产品更新"
-    },
-    {
-     "title": "证监会：抓紧研究出台增量政策 完善资本市场稳市机制",
-     "link": "http://stock.eastmoney.com/news/1405,202611283942146954.html",
-     "pubDate": "Sat, 28 Nov 2026 07:11:17 +0800",
-     "summary": "11月27日，证监会党委书记、主席吴清主持召开党委（扩大）会议，传达学习国务院常务会议精神，研究部署贯彻落实举措。会议要求，坚持目标导向、问题导向，落实落细各项存量政策，会同有关方面抓紧研究出台相关增量政策。 会议认为，党中央、国务院高度重视资本市场改革发展稳定工作。近年来，在党中央、国务院坚强领导下，以新“国九条”为统领，资本市场持续深化投融资 综合 改革并取得重要进展，基础制度和生态体系得到系统性重塑，市场功能和效率稳步提升。下一步，证监会系统要深入学习贯彻党的二十届五中全会精神，认真贯彻落实今年以来中央政治局会议和这次国务院常务会议部署安排，坚持以防风险、强监管、促高质量发展为主线，坚持",
-     "source": "东方财富资讯",
-     "zh": "证监会：抓紧研究出台增量政策 完善资本市场稳市机制"
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月28日",
@@ -2346,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费"
     },
     {
-     "title": "全球市场：美股三大指数集体收涨 纳指涨超2% AI存储板块领涨 闪迪涨近16%",
-     "link": "http://stock.eastmoney.com/news/11784,202611283942131834.html",
-     "pubDate": "Sat, 28 Nov 2026 06:15:51 +0800",
-     "summary": "美股市场： 美股三大指数11月27日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨591.99点，收于50774.94点，涨幅为1.18%； 标准普尔 500种股票指数上涨114.71点，收于7297.49点，涨幅为1.6%； 纳斯达克 综合 指数上涨543.7点，收于24129.5点，涨幅为2.31%。 本周，道指 累涨5.46%， 纳指 累涨6.68%， 标普500 累涨5.60% 。 美股AI存储、光通信板块领涨，闪迪涨近16%，为7月以来最大单日涨幅。美光科技、SK海力士涨超7%，Coherent涨超14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropi",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体收涨 纳指涨超2% AI存储板块领涨 闪迪涨近16%"
-    },
-    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
@@ -2368,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI基础设施建设热潮正把美国的贸易账目推向新的失衡高度。10月商品贸易逆差扩大10.7%至1495亿美元，进口跃升6.1%至3653亿美元，创1992年有统计以来的最高纪录，贸易可能在第四季度继续拖累经济增长。 美国商务部周五公布的数据显示， 进口增长呈现全面开花态势，资本品、汽车、工业用品和消费品悉数上扬，反映内需依旧强劲。 企业大举押注AI，但相关基础设施严重依赖进口，而进口在GDP核算中属于减项。 FWDBONDS首席经济学家Christopher Rupkey直言， 10月商品贸易逆差恶化将拖累第四季度经济增长，资本品进口激增表明AI并不总是带来更快的美国经济增长。 高盛经济学家也将第",
      "source": "华尔街见闻",
      "zh": "美国10月贸易逆差创一年半新高：受AI基建推动，进口额刷新历史纪录"
-    },
-    {
-     "title": "90后张策：电网一线守护万家灯火",
-     "link": "http://www.eeo.com.cn/2026/1128/1105840.shtml",
-     "pubDate": "Sat, 28 Nov 2026 05:39:16 +0800",
-     "summary": "张策（右）与同事在河南省洛阳市伊川县110千伏理学变电站内开展巡视。受访者供图 深耕电力运维8年，张策相信一个朴素的道理：“运维效率从来不是比拼速度，守牢安全底线、杜绝误操作，才是我们变电运维人的立身准则。”这句话，...",
-     "source": "经济观察网",
-     "zh": "90后张策：电网一线守护万家灯火"
     },
     {
      "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
@@ -2394,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     },
     {
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
      "title": "SA Asks: What's the best-positioned chip stock right now?",
      "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
@@ -2408,6 +2440,14 @@ window.INDUSTRY_DATA = {
      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
      "source": "Financial Times",
      "zh": "US tech stocks rise in latest market swing"
+    },
+    {
+     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
+     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+     "source": "MarketWatch",
+     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
     },
     {
      "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
@@ -2432,30 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Energy Fuels gains 11% as peers and the broader market rise"
-    },
-    {
-     "title": "Trump’s Nvidia intervention has a cost for US stocks",
-     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
-     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
-     "source": "Financial Times",
-     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
-    },
-    {
-     "title": "AI and the decryption nightmare",
-     "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT",
-     "summary": "New breakthroughs call for faster upgrades to security, not panic",
-     "source": "Financial Times",
-     "zh": "AI and the decryption nightmare"
     }
    ]
   },

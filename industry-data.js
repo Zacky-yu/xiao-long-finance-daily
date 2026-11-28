@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 22:11:51",
+ "generated_at": "2026/11/28 22:21:23",
  "recent_days": 7,
  "industries": [
   {
@@ -98,6 +98,14 @@ window.INDUSTRY_DATA = {
      "zh": "具身寒冬里，投资人还在给什么样的公司打钱？00后中科大团队白泽通境四个月融近亿"
     },
     {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
+    {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
      "pubDate": "Fri, 27 Nov 2026 14:07:33 +0000",
@@ -112,6 +120,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
-    },
-    {
-     "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
-     "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
-     "pubDate": "Thu, 26 Nov 2026 22:06:40 +0000",
-     "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano"
-    },
-    {
-     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-     "pubDate": "Thu, 26 Nov 2026 20:03:54 +0000",
-     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-     "source": "TechCrunch AI",
-     "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
     }
    ]
   },
@@ -330,22 +330,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
-     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
-     "source": "Electronics Weekly",
-     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
-    },
-    {
-     "title": "Struggling Celerons",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
-     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Struggling Celerons"
-    },
-    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -368,38 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
-    },
-    {
-     "title": "Kontron KBox industrial computer platform targets robotics and AI",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
-     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
-    },
-    {
-     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
-     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
-     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
-     "source": "Electronics Weekly",
-     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
-    },
-    {
-     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
-     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
-    },
-    {
-     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
-     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
     }
    ]
   },
@@ -1802,6 +1794,14 @@ window.INDUSTRY_DATA = {
      "zh": "记者实测十品牌仅小米电视有开机广告：客服回应称属互联网电视（OTT），用户只能向其申请关闭"
     },
     {
+     "title": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed",
+     "link": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
+     "pubDate": "Sat, 28 Nov 2026 13:21:21 +0000",
+     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/ Comments URL: https://news.ycombinator.com/item?id=50677340 Points: 8 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed"
+    },
+    {
      "title": "浙江大学团队用脑机接口治疗难治性抑郁症，在重大精神疾病精准治疗赛道实现突破",
      "link": "https://www.ithome.com/1/034/010.htm",
      "pubDate": "Sat, 28 Nov 2026 13:17:39 GMT",
@@ -1968,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google has replaced the fitness tracking software for your Fitbit or Wear OS watch with an app called Google Health. Here’s how to make it do more than just the basics.",
      "source": "WIRED",
      "zh": "7 Pro Tips to Get More Out of the Google Health App"
-    },
-    {
-     "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-     "link": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
-     "pubDate": "Sat, 28 Nov 2026 11:57:04 +0000",
-     "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 36 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims"
     }
    ]
   },
@@ -1985,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "With the way things are going, you’ll probably never get this $699 Samsung Tab S11 deal again",
+     "link": "https://9to5google.com/2026/11/28/samsung-galaxy-tab-s11-black-friday-deal-2026/",
+     "pubDate": "Sat, 28 Nov 2026 14:17:41 +0000",
+     "summary": "This Samsung tablet Black Friday deal drops the price by $300, bringing it down below the original launch price. more…",
+     "source": "9to5Google",
+     "zh": "With the way things are going, you’ll probably never get this $699 Samsung Tab S11 deal again"
+    },
     {
      "title": "How to permanently delete your PlayStation account",
      "link": "https://www.engadget.com/2325141/how-to-permanently-delete-playstation-account/",
@@ -2216,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one that leaves enough room in the budget for t",
      "source": "9to5Google",
      "zh": "Which Waterdrop water filters are actually worth buying this Black Friday?"
-    },
-    {
-     "title": "MacWhisper now remembers speakers’ voices across recordings",
-     "link": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
-     "pubDate": "Fri, 27 Nov 2026 21:08:01 +0000",
-     "summary": "Dutch developer Jordi Bruin rolled out an update to his excellent transcription app MacWhisper this week with a much-requested feature: the ability to automatically identify previously named speakers in new recordings. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "MacWhisper now remembers speakers’ voices across recordings"
     }
    ]
   },
@@ -2234,12 +2226,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
-     "link": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html",
-     "pubDate": "Sat, 28 Nov 2026 14:06:43 GMT",
-     "summary": "Centcom denied a claim by the head of Iran's navy that his country's forces struck the USS Abraham Lincoln aircraft carrier on the first day of the war.",
+     "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+     "link": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+     "pubDate": "Sat, 28 Nov 2026 14:11:10 GMT",
+     "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
      "source": "CNBC",
-     "zh": "U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls"
+     "zh": "The Iran war could shatter rising expectations of surplus oil supply in coming months"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -2250,20 +2242,12 @@ window.INDUSTRY_DATA = {
      "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
-     "title": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942399188.html",
-     "pubDate": "Sat, 28 Nov 2026 21:53:53 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）近日，第十一届“创客中国”中小企业创新创业大赛全国总决赛在上海杨浦区复兴岛举行。经过一天半的激烈角逐，本届赛事全国总决赛收官。 重庆张雪机车、广州艾佛光通、苏州领慧立芯、武汉微泰 电子 、福建国光新业等 5家企业荣获企业组一等奖 ，企业组另评出二等奖15名、三等奖30名；创业组一等奖由武汉芯力科技术有限公司斩获，另评出二等奖3名、三等奖4名。 本届总决赛由工业和信息化部 网络安全 产业发展中心（工业和信息化部信息中心）、上海市经济和信息化委员会、上海市杨浦区人民政府共同主办。 自3月启动以来，本届赛事共举办35个省级区域赛、15个专题赛和1个境外区域赛， 参赛",
-     "source": "东方财富股票",
-     "zh": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖"
-    },
-    {
-     "title": "业界共探港航产业高端化、智能化、绿色化发展新路径",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942399059.html",
-     "pubDate": "Sat, 28 Nov 2026 21:53:47 +0800",
-     "summary": "上证报中国证券网讯（记者 王文嫣）近日，由中交集团主办、上海 振华重工 集团承办的“智启港航新征程，共筑产业新生态”智慧港航产业高质量发展论坛在北京举行。该论坛作为中交集团产业协同创新与融合发展联盟成立大会的分论坛之一，汇聚来自行业协会、国内外 港口 企业、科研院所、高校及合作伙伴等60多家单位共计120名业内代表，共探港航产业高端化、智能化、绿色化发展新路径。 交通运输 部水运局二级巡视员翁笑冰表示，港航产业是国民经济基础性、战略性产业，智慧港航是水运行业培育新质生产力的重要抓手。 交通运输 部水运局将围绕“十五五”水运“一网四化”建设方向，以一体化融合畅通枢纽衔接，以安全化提升筑牢韧性底线",
-     "source": "东方财富股票",
-     "zh": "业界共探港航产业高端化、智能化、绿色化发展新路径"
+     "title": "AI data center boom strains construction labor across the U.S.",
+     "link": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+     "pubDate": "Sat, 28 Nov 2026 14:00:01 GMT",
+     "summary": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+     "source": "CNBC",
+     "zh": "AI data center boom strains construction labor across the U.S."
     },
     {
      "title": "Elon Musk says Google willing to rent more compute from SpaceX",
@@ -2274,12 +2258,12 @@ window.INDUSTRY_DATA = {
      "zh": "Elon Musk says Google willing to rent more compute from SpaceX"
     },
     {
-     "title": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942398738.html",
-     "pubDate": "Sat, 28 Nov 2026 21:48:00 +0800",
-     "summary": "11月27日，四川证监局披露一则行政处罚决定书，一名证券从业人员因在内幕信息敏感期内控制使用他人证券账户买卖股票获利61.61万元，同时被查出长达18年借用他人账户违规炒股，两项违法合计被没收违法所得61.61万元、罚款148.21万元， 罚没总额约209.82万元 。 根据行政处罚决定书，2025年8月6日早间，相关公司公告《关于控股股东、实际控制人签署〈股份转让协议〉、〈表决权委托协议〉暨控制权变更的提示性公告》。该公告内容属于《证券法》第八十条第二款第八项、第九项所列重大事件，公开前构成内幕信息，内幕信息敏感期为2025年7月7日至2025年8月6日早间。 四川证监局查明，当事人刘某林在",
-     "source": "东方财富股票",
-     "zh": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万"
+     "title": "Billions on the line for Berkshire utility as Oregon&apos;s high court reviews wildfire claims",
+     "link": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
+     "pubDate": "Sat, 28 Nov 2026 13:46:46 GMT",
+     "summary": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one billion in damages over four wildfires in 2020.",
+     "source": "CNBC",
+     "zh": "Billions on the line for Berkshire utility as Oregon&apos;s high court reviews wildfire claims"
     },
     {
      "title": "AI视频应用赛道再现大额融资 能否驱动AI短剧制作成本下降？",
@@ -2296,30 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "■冷翠华 《保险公司资产负债管理办法》（以下简称《办法》）将于2027年1月1日起施行。《办法》进一步强化资产负债管理工作的重要性，压实保险公司董事会最终责任。资产负债管理成效，正是衡量保险公司治理成色的一把尺子，保险公司需要多维度完善机制，做好资产负债管理。 压实各层级责任，理顺资产负债管理的治理结构。保险公司董事会要统筹审定资产负债战略、重大产品方案、长期资产配置政策，持续跟踪错配风险...",
      "source": "经济观察网",
      "zh": "资产负债统筹能力检验险企治理水平"
-    },
-    {
-     "title": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942399496.html",
-     "pubDate": "Sat, 28 Nov 2026 21:43:00 +0800",
-     "summary": "大模型走向规模化商用，企业最关心的已从“能不能用”转向“划不划算、担不担责、信不信得过”。长期跟踪AI合规与审计一线的美国圣克拉拉大学教授、信息系统与分析系主任陆海兵接受证券时报记者专访时，围绕商业化落地、成本收益、责任划分、数据隐私、合规能力和产业链趋势作了梳理。 他认为，跑通闭环的多是 软件开发 、智能客服、金融数据处理和 专业服务 自动化等需求原本就存在的场景；自主医疗诊断、金融投资决策、通用型AI数字员工仍受可靠性和责任归属制约。合规正从成本负担转向竞争优势；未来三到五年，AI有望从辅助单任务走向参与完整业务流程，但治理必须跟得上自主能力扩张。 商业化：哪些跑通闭环，哪些仍在试点 证券",
-     "source": "东方财富股票",
-     "zh": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去"
-    },
-    {
-     "title": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942399355.html",
-     "pubDate": "Sat, 28 Nov 2026 21:41:11 +0800",
-     "summary": "苏超决赛现场 数万名观众齐聚南京奥体中心 热闹的赛场之下 一场空中守护正在悄然进行 无人机 升空执勤 AI实时研判人流、车流 为现场观众的安全保驾护航 苏超决赛： 低空系统守护万人赛场 2026年苏超决赛，赛事方在南京奥体中心现场部署 24架 无人机 空中执勤 ，与地面传统监控联动，实时掌握地面人员流动态势。 如今的安防早已不同于以往， 无人机 承担空中布控职能，与地面传统监控形成联动。 由 中国电信 与公安联合打造的低空智能指挥调度系统，通过AI实时分析、测算人群密度，辅助开展人流精准疏导；同时感知奥体周边车辆数量，联动疏导道路交通。6万多名观众在不到30分钟的时间内安全有序离场。 双重守护",
-     "source": "东方财富股票",
-     "zh": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→"
-    },
-    {
-     "title": "全新红旗H9广州车展上市，售价32.98万元起",
-     "link": "http://finance.eastmoney.com/news/11262,202611283942399274.html",
-     "pubDate": "Sat, 28 Nov 2026 21:41:00 +0800",
-     "summary": "新京报 贝壳 财经讯（记者白昊天）11月27日，全新红旗H9于2026广州车展正式上市，推出 豪华 MAX、尊贵Ultra、旗舰Ultra、四驱旗舰Ultimate共4款车型，售价区间为 32.98万元-41.98万元 。 全新H9的长宽高参数分别为5230/1955/1515毫米，轴距 3120毫米，定位中大型轿车。车内搭载鸿蒙座舱、25扬声器构成的HUAWEI SOUND卓越系列7.1.4空间音响。 动力方面，全新红旗H9基于混动专属架构打造，搭载2.0T插混系统，发动机最大功率140千瓦，单电机最大功率220千瓦，双电机最大功率444千瓦，匹配纵置双挡混动电驱与40.4千瓦时 电池 包。",
-     "source": "东方财富股票",
-     "zh": "全新红旗H9广州车展上市，售价32.98万元起"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2472,6 +2432,38 @@ window.INDUSTRY_DATA = {
      "summary": "今日，马斯克在X平台发帖称， 谷歌已表达意向，计划从 SpaceX 租用更多AI算力 。 马斯克是在回复X平台用户X Freeze时作出上述表态。此前X Freeze曾评论称，如果谷歌最终从 SpaceX 采购的算力规模超过 Anthropic ，他完全不会感到意外。谷歌已承诺在多个国家为用户免费提供为期两年的Gemini付费版使用权，且目前谷歌的模型性能十分出色，迟早会需要大量算力资源。 随后，马斯克表示“不确定谁会买更多”，并同步披露算力 租赁 市场的价格分化信号： 面向高带宽训练、规模大且连贯的算力集群租金持续走高；而5000张GPU以内的中小算力订单，租金则在下降 。 两者 综合 下来",
      "source": "东方财富资讯",
      "zh": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势"
+    },
+    {
+     "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
+     "link": "https://wallstreetcn.com/articles/3786910",
+     "pubDate": "Sat, 28 Nov 2026 17:55:20 +0800",
+     "summary": "美国家庭对股市的押注已达到有史以来最高水平，即便AI股票近期大幅下挫，散户资金仍源源不断涌入。这场长达四年的牛市正将数以百万计的普通投资者推向前所未有的风险敞口，而他们的财富走向，也将在很大程度上左右市场能否企稳。 据德意志银行对EPFR数据的分析， 今年流入追踪美股的ETF及共同基金的新增资金已超过4500亿美元，有望创下历史纪录。即便在过去一个月AI交易全面瓦解、市场剧烈震荡之际，仅11月截至18日，美国股票基金仍净流入逾1410亿美元——彼时标普500指数已下跌3.4%。 Ned Davis Research首席美国策略师Ed Clissold的数据显示， 美国股票目前占美国家庭金融资产",
+     "source": "华尔街见闻",
+     "zh": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入"
+    },
+    {
+     "title": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速",
+     "link": "http://stock.eastmoney.com/news/11228,202611283942378384.html",
+     "pubDate": "Sat, 28 Nov 2026 17:26:58 +0800",
+     "summary": "11月26日，美国太空探索技术公司 SpaceX 负责人马斯克在社交媒体发文：在满足一定条件的前提下， SpaceX 未来市值可能达到当前全球经济规模的约100万倍 。他同时呼吁投资者持有 SpaceX 股票。 与此同时， SpaceX与马斯克旗下另一家公司 特斯拉 的合并谈判已进入实操阶段 。 目前两家公司合计市值接近3.4万亿美元 。 远期市值可达全球经济100万倍 两个前提条件门槛极高 马斯克给出的条件有两个：一是成功将人类的生存范围拓展至多个星球，二是捕获利用哪怕只有百万分之一的 太阳能 量。 按照国际货币基金组织的数据，2026年全球经济规模约为128万亿美元。而截至11月27日美股",
+     "source": "东方财富资讯",
+     "zh": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速"
+    },
+    {
+     "title": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？",
+     "link": "http://finance.eastmoney.com/news/1345,202611283942378265.html",
+     "pubDate": "Sat, 28 Nov 2026 17:25:31 +0800",
+     "summary": "加密货币市场集体下挫！ 刚刚过去的24小时内，加密货币市场集体跳水。截至发稿，比特币跌幅超过3%，跌破6万美元关口；以太坊跌超4%，XRP、HYPE、BNB跌超3%，Solana跌2.60%。比特币曾在27日早些时候跟随美国股指 期货 上涨，但在美股正式开盘后再度承压，走势与美股出现明显分化。 根据CoinGlass数据，最近24小时加密货币全网共有10万人爆仓，爆仓总金额超过4亿美元。其中，最大单笔爆仓发生在Binance-ETHUSDT交易对，价值999.28万美元。 近几周加密货币市场表现疲弱。11月27日，美国现货比特币ETF单日净流出3.89亿美元，连续第八个交易日遭遇资金流出；自1",
+     "source": "东方财富资讯",
+     "zh": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？"
+    },
+    {
+     "title": "The mathematicians living through an AI revolution",
+     "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
+     "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+     "source": "Financial Times",
+     "zh": "The mathematicians living through an AI revolution"
     }
    ]
   },

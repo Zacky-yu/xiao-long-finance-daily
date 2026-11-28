@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 19:31:51",
+ "generated_at": "2026/11/28 19:51:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1738,6 +1738,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "当秒回消息成为一种职场表演",
+     "link": "https://www.huxiu.com/article/4909213.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 19:42:27 +0800",
+     "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 现代职场有一项颇为微妙的生存技能：秒回消息。 领导在工作群里布置了一项任务，事情可以慢慢做，但“收到”最好马上发出去。至于有没有理解任务、手头还有多少工作、什么时候能够完成，那是接下来需要考虑的事情。 有时候，一个人正在认真工作，反而需要停下手头的工作，回复一条消息，以证明自己正在认真工作。 类似的情形还有很多。工作已经完成，却不愿意第一个下班；会议上没有什么需要补充的，却总觉得应该说上几句；周末收到一条工作消息，明明不是什么紧急事项，还是下意识地拿起手机。 这些行为有一个共同点：它们不一定能让工作完成得更好，却能够让一个人看起来更加勤奋、积极、负",
+     "source": "虎嗅",
+     "zh": "当秒回消息成为一种职场表演"
+    },
+    {
+     "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
+     "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-28-2026/",
+     "pubDate": "Sat, 28 Nov 2026 11:33:21 +0000",
+     "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+     "source": "WIRED",
+     "zh": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories"
+    },
+    {
+     "title": "Swift Saw the Secrets of Space Before Falling to Earth",
+     "link": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
+     "pubDate": "Sat, 28 Nov 2026 11:30:00 +0000",
+     "summary": "Designed for a two-year mission, the Neil Gehrels Swift Observatory saw thousands of gamma-ray bursts and stars being torn apart by black holes over 22 years before burning up in Earth’s atmosphere.",
+     "source": "WIRED",
+     "zh": "Swift Saw the Secrets of Space Before Falling to Earth"
+    },
+    {
+     "title": "蔚来江苏第 500 座换电站投运，充换电覆盖全省 95 个行政区县",
+     "link": "https://www.ithome.com/1/033/984.htm",
+     "pubDate": "Sat, 28 Nov 2026 11:26:55 GMT",
+     "summary": "IT之家 11 月 28 日消息，蔚来今日宣布，随着「蔚来换电站｜南通海门区政务服务中心」投入运营，蔚来公司在江苏累计投入运营换电站 500 座。 截至目前，江苏蔚来换电站累计换电服务已突破 1,950 万次， 占全国换电总量约 14.77% 。2026 年 1—10 月，蔚来公司江苏市场销量高速增长，同比增长 59.8%。 据官方透露，500 座换电站的背后，是蔚来公司对江苏充换电网络的持续投入。2024 年 12 月 30 日实现江苏换电县县通，2025 年 3 月 31 日实现江苏充电县县通， 充换电服务覆盖全省 95 个行政区县 ；在高速公路上，全省投入运营 104 座换电站，覆盖 G",
+     "source": "IT之家",
+     "zh": "蔚来江苏第 500 座换电站投运，充换电覆盖全省 95 个行政区县"
+    },
+    {
+     "title": "超大公司的 AI Native 转型：从个人提效到组织交付",
+     "link": "https://www.huxiu.com/article/4909211.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 19:25:57 +0800",
+     "summary": "本文来自微信公众号： 先看我说完 ，，原文标题：《超大公司的 AI Native 转型：从个人提效到组织交付》 超大公司的AI Native转型：从个人提效到组织交付 超大公司的AI Native转型，关键是把AI扩大的个人执行能力，转化为可验收、能接续、有人长期负责的组织交付能力。 产品经理可以借助AI做出功能，工程师可以推进跨专业任务，研究者可以自行优化训练效率。但员工做得更快以后，审核可能排队，集成可能停滞，工具也可能只有作者会用。管理者需要改变工作安排，让新增能力持续转化为更好的产品、服务和经营结果。 结合对AI公司的观察、访谈和公开实践，本文提出三个判断。第一，围绕完整结果安排工作，",
+     "source": "虎嗅",
+     "zh": "超大公司的 AI Native 转型：从个人提效到组织交付"
+    },
+    {
+     "title": "我国太空数据中心在轨技术试验平台上线",
+     "link": "https://www.ithome.com/1/033/983.htm",
+     "pubDate": "Sat, 28 Nov 2026 11:15:05 GMT",
+     "summary": "IT之家 11 月 28 日消息，据北京发布今日消息，11 月 27 日，2026 太空数据中心建设工作推进大会举行，大会公布了北京太空算力工作进展， 并发布了太空数据中心在轨技术试验平台 。 据介绍，太空数据中心在轨技术试验平台正式上线，平台依托超大功率太空数据中心首发技术试验星 —— 辰光一号 01 星构建，标志着辰光一号 01 星在圆满完成既定在轨测试任务后，转入在轨试验服务阶段。 今年 7 月 24 日发射入轨后，它已稳定运行超 4 个月，在轨提供 25000TOPS 算力，部署 4 个专业模型和 2 个通用大模型完成在轨推理。这个平台将面向高校、科研院所、企业等单位提供在轨算力和模型",
+     "source": "IT之家",
+     "zh": "我国太空数据中心在轨技术试验平台上线"
+    },
+    {
+     "title": "No perfect way to find the love of your life",
+     "link": "https://yappings.mikeluu.xyz/blogs/the-perfect-partner",
+     "pubDate": "Sat, 28 Nov 2026 11:07:49 +0000",
+     "summary": "Article URL: https://yappings.mikeluu.xyz/blogs/the-perfect-partner Comments URL: https://news.ycombinator.com/item?id=50676532 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "No perfect way to find the love of your life"
+    },
+    {
      "title": "一边关店，一边热销，烘焙工厂店是不是一个好生意？",
      "link": "https://www.huxiu.com/article/4909209.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 19:07:40 +0800",
@@ -1818,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "Claude现在是赛博田柯宇"
     },
     {
-     "title": "“一觉醒来，我成了AI短剧里人人喊打的反派？”",
-     "link": "https://www.huxiu.com/article/4909200.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 18:27:12 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：房子，编辑：鱼香 近日，模特“七海”发文公开指控当红AI短剧《丑狐》对其进行“AI融脸”。不同于直接覆盖面部的AI换脸，融脸抓取面部特征再造新面孔，靠打擦边球躲避审核，普通人、明星乃至逝者都难逃其害。当人脸可以被无限批量生成，肖像权保护正面临全新的难题。 一觉醒来，我成了AI短剧里人人喊打的反派？ 近日，模特“七海”发文公开指控当红AI短剧《丑狐》对其进行“AI融脸”，网友比对发现七海的形象和短剧里反派的形象十分相似。 (图/社交媒体截图@七海Christine) 而这已经不是她第一次遭遇AI形象侵权了。今年3月，AI短剧《桃花簪》就擅自使用七海肖像，把她",
-     "source": "虎嗅",
-     "zh": "“一觉醒来，我成了AI短剧里人人喊打的反派？”"
-    },
-    {
      "title": "29 Best Black Friday Deals Under $100 (2026)",
      "link": "https://www.wired.com/story/best-black-friday-deals-under-100-11-28-2026/",
      "pubDate": "Sat, 28 Nov 2026 10:25:39 +0000",
@@ -1834,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "29 Best Black Friday Deals Under $100 (2026)"
     },
     {
-     "title": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”",
-     "link": "https://www.ithome.com/1/033/976.htm",
-     "pubDate": "Sat, 28 Nov 2026 10:20:53 GMT",
-     "summary": "IT之家 11 月 28 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 有网友昨日在刘赫微博评论区反馈，领取补贴想在华为商城购买新机时，却遇到了断货问题。对此，刘赫当晚回应称：“ 在补货了，这两天整的鸡飞狗跳... ” 截至发文， 华为星芒 OSTA O1 Pro 手机在华为商城、京东等平台均可正常购买 ，支持现货发货、至高 12 期 0 分期利息。 作为参考，博主 @",
-     "source": "IT之家",
-     "zh": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”"
-    },
-    {
-     "title": "北京流行“只上半天学”？别人家娃是为补课，我家阿斯娃为了回家躺平",
-     "link": "https://www.huxiu.com/article/4909199.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 18:17:10 +0800",
-     "summary": "本文来自微信公众号： 大米和小米 ，编辑：何言苏渡，作者：半天上学记 “北京出现了一种很有趣的现象：很多家长为了让孩子考得更好，选择只上半天学，因为上学太耽误学习了。” 这句话最早来自一位北京网友的帖子，随后冲上热搜，讨论也随之多了起来。有人质疑，有人赞同。 有人认为下午两节副科加一节自习，不如接回家刷两套卷子；有人说他们班周五下午能走掉一半人；也有人表示，“学生就该在学校待着。” 巧的是，我也在北京，娃读小学，也只上半天。不同的是，我中午接她回家，是因为她有阿斯伯格，在校少待半天能少很多麻烦。 图|网络朵朵妈 同一个校门，两个方向 我女儿读小学中年段，阿斯伯格，伴随多动。 从这学期开始，她每",
-     "source": "虎嗅",
-     "zh": "北京流行“只上半天学”？别人家娃是为补课，我家阿斯娃为了回家躺平"
-    },
-    {
-     "title": "李斌喊话传统豪车门店：如果希望转型，欢迎和蔚来联系",
-     "link": "https://www.ithome.com/1/033/965.htm",
-     "pubDate": "Sat, 28 Nov 2026 10:12:34 GMT",
-     "summary": "IT之家 11 月 28 日消息，2026 第二十四届广州国际汽车展览会于 11 月 27 日至 12 月 6 日在广交会展馆举办。 据第一财经报道，蔚来创始人、董事长、CEO 李斌在广州车展期间表示，以前的一些高端品牌门店，当年经营状态不错，投资也特别大，这几年传统豪华品牌在中国往智能电动化方向进行品牌转型。 这些品牌的门店在经营上压力是非常大的， 如果有合适的豪华品牌门店希望转型，欢迎和蔚来联系 。蔚来到明年想部署接近 200 家门店，还有很多的合作机会。 据IT之家此前报道，2026 年 10 月， 蔚来公司交付新车 34,246 台 。2026 年 1-10 月，蔚来公司共交付新车 3",
-     "source": "IT之家",
-     "zh": "李斌喊话传统豪车门店：如果希望转型，欢迎和蔚来联系"
+     "title": "Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice",
+     "link": "https://dev.ua/en/news/durov-1795852825",
+     "pubDate": "Sat, 28 Nov 2026 10:24:43 +0000",
+     "summary": "Article URL: https://dev.ua/en/news/durov-1795852825 Comments URL: https://news.ycombinator.com/item?id=50676333 Points: 12 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice"
     },
     {
      "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
@@ -1872,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Although it remains within the realm of theoretical physics, a new study hints at a parallel chemistry that would force us to rethink how we organize the fundamental components of the universe.",
      "source": "WIRED",
      "zh": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles"
-    },
-    {
-     "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max",
-     "link": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/",
-     "pubDate": "Sat, 28 Nov 2026 09:32:04 +0000",
-     "summary": "Streaming apps are offering their biggest subscription deals of the year. Here’s how to take advantage.",
-     "source": "WIRED",
-     "zh": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max"
-    },
-    {
-     "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
-     "link": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/",
-     "pubDate": "Sat, 28 Nov 2026 09:15:38 +0000",
-     "summary": "Whether you’re shopping for a new Kindle or looking to break free from Amazon’s ecosystem, Black Friday is one of the best times to shop for a new e-reader.",
-     "source": "WIRED",
-     "zh": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off"
     },
     {
      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
@@ -1960,22 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "拉合尔这边 3 月单量从日均 180 单冲到 420 单，可 COD 签收率从 74% 掉到 61%，等于每 10 单有 4 单退货，投放侧 CPA 从 6.2 美元涨到 9.8 美元，广告费一个月烧掉约 1.4 万美元。我们 6 个人小团队，主要跑 Meta 和 TikTok，物流用本地一家做卡拉奇—拉合尔干线的服务商，承诺 3-5 天派送，实际偏远区域经常拖到 8 天以上，客户等不及就拒收。已经试过在广告落地页加“货到付款、先验货再签收”的说明，也把偏远邮编排除出投放，签收率只回到 65%。现在卡在不知道该先换物流商还是先改投放结构，从投放成本角度看，这种情况下该优先压 CPA 还是先保签",
      "source": "白鲸出海",
      "zh": "巴基斯坦 COD 单量涨了但签收率掉到 61%，投放 CPA 还能怎么压？"
-    },
-    {
-     "title": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
-     "link": "https://www.techmeme.com/261128/p2#a261128p2",
-     "pubDate": "Sat, 28 Nov 2026 01:25:04 -0500",
-     "summary": "Eleanor Pringle / Fortune : COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five &nbsp; &mdash;&nbsp; Reddit boasts engagement metrics that would be the envy of many other online platforms: Over ",
-     "source": "Techmeme",
-     "zh": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)"
-    },
-    {
-     "title": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？",
-     "link": "https://www.baijing.cn/question/639028",
-     "pubDate": "Sat, 28 Nov 2026 06:22:00 +0000",
-     "summary": "我们做汽车线束配件，去年开始在墨西哥新莱昂州找本地代工做近岸外包，团队一共3个人，一个人兼采购和跟单，月均出货约40个柜。最近连续两批货因为供应商原材料到货延迟，交期从35天拖到70天，客户罚款条款已经触发。试过用共享表格加WhatsApp群同步进度，但时差和西语沟通跟不上，关键节点全靠对方口头反馈。现在卡在要不要加人常驻当地，还是先上一套轻量供应链协同工具把排期可视化。3个人的运营节奏下，你们判断该先补人力还是先补系统？",
-     "source": "白鲸出海",
-     "zh": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？"
     }
    ]
   },
@@ -1985,6 +1985,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Anker Prime 300W power bank gets $100 off for Black Friday",
+     "link": "https://www.androidauthority.com/anker-prime-power-bank-26250mah-deal-3740572/",
+     "pubDate": "Sat, 28 Nov 2026 11:37:28 +0000",
+     "summary": "Anker's 26,250mAh Prime power bank with charging base drops to a record-low $229.99, $30 below our last deal.",
+     "source": "Android Authority",
+     "zh": "Anker Prime 300W power bank gets $100 off for Black Friday"
+    },
+    {
+     "title": "TCL’s 55-inch QM7L Mini-LED TV drops to a record-low $697.99",
+     "link": "https://www.androidauthority.com/tcl-55-inch-qm7l-deal-3740955/",
+     "pubDate": "Sat, 28 Nov 2026 11:36:43 +0000",
+     "summary": "Save $502 on TCL's 55-inch SQD-Mini LED TV with 144Hz gaming, Dolby Vision IQ, and Google TV.",
+     "source": "Android Authority",
+     "zh": "TCL’s 55-inch QM7L Mini-LED TV drops to a record-low $697.99"
+    },
+    {
+     "title": "XREAL AURA review: Is Android XR really worth it?",
+     "link": "https://www.androidauthority.com/xreal-aura-review-3739471/",
+     "pubDate": "Sat, 28 Nov 2026 11:30:42 +0000",
+     "summary": "The XREAL AURA is easily the best Android XR system you can buy today — if you actually need Android XR.",
+     "source": "Android Authority",
+     "zh": "XREAL AURA review: Is Android XR really worth it?"
+    },
     {
      "title": "I finally switched from Google Authenticator to Ente Auth, and I wish I’d done it sooner",
      "link": "https://www.androidauthority.com/google-authenticator-vs-ente-auth-3738681/",
@@ -2122,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "SanDisk’s new 2TB Portable SSD is 33% cheaper right now"
     },
     {
-     "title": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99",
-     "link": "https://www.androidauthority.com/garmin-fenix-8-pro-51mm-deal-3741055/",
-     "pubDate": "Fri, 27 Nov 2026 21:30:50 +0000",
-     "summary": "Save $350 on the 51mm Garmin fenix 8 Pro, which adds LTE and satellite messaging to Garmin's rugged AMOLED watch.",
-     "source": "Android Authority",
-     "zh": "Garmin’s fenix 8 Pro smartwatch drops to a record-low $849.99"
-    },
-    {
      "title": "Pixelated 127: Nobody reads, nobody writes",
      "link": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
      "pubDate": "Fri, 27 Nov 2026 21:30:00 +0000",
@@ -2208,22 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "As OxygenOS is slowly being replaced by ColorOS on OnePlus devices, long-time OnePlus fans are expressing their disappointment with several missing OnePlus features. more…",
      "source": "9to5Google",
      "zh": "The OnePlus ColorOS 17 update is proving to be a disappointment for fans"
-    },
-    {
-     "title": "LineageOS 24 PC port brings Android 17 to your spare laptop",
-     "link": "https://www.androidauthority.com/lineageos-pc-port-3741004/",
-     "pubDate": "Fri, 27 Nov 2026 19:26:29 +0000",
-     "summary": "This project might just be the cure for Googlebook envy.",
-     "source": "Android Authority",
-     "zh": "LineageOS 24 PC port brings Android 17 to your spare laptop"
-    },
-    {
-     "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8",
-     "link": "https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/",
-     "pubDate": "Fri, 27 Nov 2026 19:15:00 +0000",
-     "summary": "For a phone that heavily tested my patience in the first few weeks, the Galaxy Z Fold 8 has become an all-time favorite. more…",
-     "source": "9to5Google",
-     "zh": "I’m so glad I didn’t give up on the Galaxy Z Fold 8"
     }
    ]
   },
@@ -2233,6 +2233,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "我国探索全生命周期城市更新规划设计新路径",
+     "link": "http://finance.eastmoney.com/news/11261,202611283942387479.html",
+     "pubDate": "Sat, 28 Nov 2026 19:37:02 +0800",
+     "summary": "住房城乡建设部有关负责人28日表示，当前，我国城市更新正从多点探索转向全面推进，要探索城市更新的新路径、新模式，转变以往重规划、轻实施的惯性思维，贯穿规划建设、运营治理全生命周期，高水平开展城市更新规划设计，实现城市高质量发展。 由中国城市规划学会主办的2026中国城市规划年会全体大会28日在广州举行。 住房城乡建设部副部长董建国在会上表示，探索全生命周期城市更新规划设计新路径，要坚持问需于民、问计于民、问效于民，将盘活改造的公共空间、服务设施、生态资源等优先用于满足民生需求。 城市更新是投资于物与投资于人的重要结合点，要做深做细做实城市更新各项工作，以更新促转型，催生新的消费场景、创意经济、",
+     "source": "东方财富股票",
+     "zh": "我国探索全生命周期城市更新规划设计新路径"
+    },
+    {
+     "title": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？",
+     "link": "https://wallstreetcn.com/articles/3786914",
+     "pubDate": "Sat, 28 Nov 2026 19:31:31 +0800",
+     "summary": "野村证券警告 ，美联储当前缺乏转向鸽派的宏观依据，但一场由\"替罪羊\"引发的“小型金融冲击”，或将成为其政策转向的导火索——候选对象包括一家小型新云公司或科技投资基金的倒闭，而非超大规模科技巨头。 据追风交易台，野村证券首席策略师Naka Matsuzawa在11月27日发布的宏观策略周报中指出， 近期美国经济数据持续强劲，通胀与增长均未给美联储提供任何暂停加息的理由 。然而，科技板块信用利差持续走阔，市场已开始定价政策失误与衰退风险。他预计，在12月8日至9日美联储议息会议前的静默期内，市场与央行之间的经济评估分歧将成为主导主题。 Matsuzawa认为， 若上述小规模冲击成真，将是投资者转为",
+     "source": "华尔街见闻",
+     "zh": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？"
+    },
+    {
+     "title": "中国神华67亿港元配售落定 多家国际长线基金与大型对冲基金踊跃认购",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942387364.html",
+     "pubDate": "Sat, 28 Nov 2026 19:30:00 +0800",
+     "summary": "11月26日港股收市后， 中国神华 （1088.HK）签署H股新股配售协议：以每股38.10港元配售1.77亿股，募集资金总额约 67.44亿港元 。 对此， 中国神华 相关负责人对新华财经记者表示，这是公司在港上市21年来的首次H股配售，交易在一个盘后窗口内完成定价，多家国际长线基金与大型对冲基金踊跃认购——机构用真金 白银 ，对公司投出了信任票。 配售股份不到1%，控股股东持股比例“回到原点” 据介绍，本次拟发行1.77亿股，占现有已发行股份约0.82%，占经扩大后已发行股份约0.81%。从其控股股东持股的变化轨迹可见，该公司年初重组相关公告及26日配售公告的股权结构表显示，资产重组后国家",
+     "source": "东方财富股票",
+     "zh": "中国神华67亿港元配售落定 多家国际长线基金与大型对冲基金踊跃认购"
+    },
+    {
+     "title": "冲上车展“热搜”首位！“热闹是属于华为的”",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942387648.html",
+     "pubDate": "Sat, 28 Nov 2026 19:26:33 +0800",
+     "summary": "【导读】华为冲上广州车展“热搜”首位，头部零部件企业声量持续上升 中国基金报记者邱德坤 如果车展有热搜， 华为已冲到榜首 。 11月27日，2026广州车展开幕，“买车就买乾崑智驾”占据了展馆大门口最显眼的位置。 “这一届车展，热闹是属于华为的。”一位车企人士向记者表示，华为正在打破零部件企业隐于车企身后的刻板印象。 同样是头部零部件供应商， 宁德时代 选择联手华为乾崑，在2026广州车展上加码换电生态。 华为、 宁德时代 坚定向前， 整车企业却有意后退 。 在2026广州车展上，“蔚小理零小”等造车新势力均未发布新车，头部 汽车 集团多以改款焕新车型为主，成为外界观察其放慢竞争步伐的重要依据",
+     "source": "东方财富股票",
+     "zh": "冲上车展“热搜”首位！“热闹是属于华为的”"
+    },
+    {
+     "title": "华为冲上广州车展“热搜”首位，头部零部件企业声量持续上升",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942387770.html",
+     "pubDate": "Sat, 28 Nov 2026 19:23:00 +0800",
+     "summary": "【导读】华为冲上广州车展“热搜”首位，头部零部件企业声量持续上升 中国基金报记者邱德坤 如果车展有热搜， 华为已冲到榜首 。 11月27日，2026广州车展开幕， “买车就买乾崑智驾” 占据了展馆大门口最显眼的位置。 “这一届车展，热闹是属于华为的。”一位车企人士向记者表示，华为正在打破零部件企业隐于车企身后的刻板印象。 同样是头部零部件供应商， 宁德时代 选择联手华为乾崑，在2026广州车展上加码换电生态。 华为、 宁德时代 坚定向前， 整车企业却有意后退 。 在2026广州车展上，“蔚小理零小”等造车新势力均未发布新车，头部 汽车 集团多以改款焕新车型为主，成为外界观察其放慢竞争步伐的重要",
+     "source": "东方财富股票",
+     "zh": "华为冲上广州车展“热搜”首位，头部零部件企业声量持续上升"
+    },
+    {
+     "title": "泽连斯基改口，承认乌方出动无人艇在利比亚击沉俄护卫舰一事，没有事先和欧洲伙伴协调",
+     "link": "http://finance.eastmoney.com/news/1438,202611283942387082.html",
+     "pubDate": "Sat, 28 Nov 2026 19:21:51 +0800",
+     "summary": "据乌克兰《基辅独立报》、俄罗斯塔斯社等多家外媒报道，乌克兰总统泽连斯基当地时间27日承认，乌方近日在利比亚采取有关行动时， 未事先与有关盟友协调 。 泽连斯基在社交平台X上发文称，他当天与意大利总理梅洛尼通话，并讨论了一些当前正在处理的问题，相互理解很重要。“我确认，最近在利比亚的行动是在没有事先与我们的欧洲伙伴协调的情况下进行的。” 据外媒报道，泽连斯基近日在采访中谈及乌克兰袭击利比亚境内的俄罗斯船只时称，乌方不会在未与伙伴协调的情况下采取此类行动。不过，意大利副总理兼外长塔亚尼称，乌克兰在利比亚实施针对俄罗斯的军事行动前，并未向意大利及其他盟友通报，也未就行动进行协调。 泽连斯基23日证实",
+     "source": "东方财富股票",
+     "zh": "泽连斯基改口，承认乌方出动无人艇在利比亚击沉俄护卫舰一事，没有事先和欧洲伙伴协调"
+    },
+    {
+     "title": "西班牙加那利群岛附近发现的移民船已有14人死亡",
+     "link": "http://finance.eastmoney.com/news/11790,202611283942386352.html",
+     "pubDate": "Sat, 28 Nov 2026 19:16:00 +0800",
+     "summary": "记者28日获悉，一艘从冈比亚出发、在海上漂流约10天的移民船于27日在西班牙加那利群岛埃尔耶罗岛附近被救援人员发现，船上14人死亡，84名幸存者被送上岸，另有6人因伤病严重由直升机转运。 此前一天，埃尔耶罗岛还接连接收两艘移民船，岛上接收和救援压力持续加大。 加那利群岛政府再次呼吁西班牙中央政府及欧盟加强应对。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "西班牙加那利群岛附近发现的移民船已有14人死亡"
+    },
     {
      "title": "下周A股解禁市值逾430亿元 矿业巨头解禁居首",
      "link": "http://stock.eastmoney.com/news/11134,202611283942384274.html",
@@ -2320,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月26日至28日，被誉为“中国科技第一展”的第二十八届高交会在 深圳国际 会展中心举办。40万平方米的展馆内，来自全球120余个国家和地区的5000余家科创主体同台。 机器人 依然是本届展会焦点，但与往年擂台格斗、快闪巡游的“炫技”不同，本届高交会上， 机器人 “能不能真干活”成为行业关注的焦点 ，参展商被追问最多的问题是 机器人 多久能部署、能不能稳定干活、账算不算得过来。 机器人 展馆人气旺 从“炫技”到“干活”，展陈逻辑变化的背后，是 机器人 能力的持续进化：自主能力增强，一批 机器人 不再依赖人工遥控，凭视觉、算法与程序自主规划路径并完成任务； 学习能力进化，家居机器人“一教就会”",
      "source": "东方财富资讯",
      "zh": "高交会现场直击！从“炫技”到“上岗” 机器人干活能力迎大考"
-    },
-    {
-     "title": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！",
-     "link": "https://wallstreetcn.com/articles/3786904",
-     "pubDate": "Sat, 28 Nov 2026 15:18:48 +0800",
-     "summary": "“AI股神”、前OpenAI研究员Leopold Aschenbrenner旗下Situational Awareness基金在三季度遭遇重挫后，仍在其致投资者信中对AI赛道保持高度乐观，并将Anthropic列为核心持仓，称其估值\"极度低估\"。 据此前披露的投资者信函，该基金上半年录得439%的惊人回报，但三季度净值回撤65%，截至9月底全年收益收窄至88.5%。尽管如此，Aschenbrenner在信中再度向投资者喊话， 称\"现在是买入的最佳时机\"，并对AI进展速度及实验室商业价值作出一系列大胆预测。 在持仓结构上，随着最大私募持仓Anthropic完成IPO，该组合目前约70%为公开股票",
-     "source": "华尔街见闻",
-     "zh": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！"
     },
     {
      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
@@ -2424,54 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
-    },
-    {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
-    },
-    {
-     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
-     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
-     "source": "MarketWatch",
-     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
-    },
-    {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
     }
    ]
   },

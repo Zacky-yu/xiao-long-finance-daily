@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 18:31:48",
+ "generated_at": "2026/11/28 18:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -81,6 +81,14 @@
      "zh": "具身寒冬里，投资人还在给什么样的公司打钱？00后中科大团队白泽通境四个月融近亿"
     },
     {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
+    {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
      "pubDate": "Fri, 27 Nov 2026 14:07:33 +0000",
@@ -95,6 +103,14 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -231,22 +247,6 @@
      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
      "source": "MarkTechPost",
      "zh": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano"
-    },
-    {
-     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-     "pubDate": "Thu, 26 Nov 2026 20:03:54 +0000",
-     "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-     "source": "TechCrunch AI",
-     "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
-    },
-    {
-     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-     "source": "TechCrunch AI",
-     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     }
    ]
   },
@@ -327,14 +327,6 @@
      "summary": "TSMC has revealed additional technical details about its upcoming A14 (1.4nm-class) manufacturing technology at the 2026 Europe OIP Ecosystem Workshop, providing semiconductor designers with a clearer picture of the performance, power efficiency and density improvements expected from its next-genera",
      "source": "SemiWiki",
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
-    },
-    {
-     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
-     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
-     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
-     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
-     "source": "SemiAnalysis",
-     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
     },
     {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
@@ -465,14 +457,6 @@
      "zh": "A Defect Is Not Yet a Scrap Decision"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -495,6 +479,22 @@
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
+    },
+    {
+     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1361,6 +1361,14 @@
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
+     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
+     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
+    },
+    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1391,6 +1399,14 @@
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
+    },
+    {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1433,6 +1449,30 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1457,6 +1497,14 @@
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1479,30 +1527,6 @@
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
-    },
-    {
-     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
-     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1713,6 +1737,46 @@
    "total": 18,
    "items": [
     {
+     "title": "野生综艺新样本：从《耶呼，黏苞米》到《OK了老铁们》",
+     "link": "https://www.huxiu.com/article/4909194.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:40:20 +0800",
+     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部，原文标题：《野生综艺新样本：从《耶呼！黏苞米》到《OK了老铁们》》 近期，无明星、无冠名的博主自制综艺《OK了老铁们》频繁登上热搜。 节目由博主陈泽自费打造，在抖音个人账号独播，常驻嘉宾是他相熟的主播好友：花小龙、coke、刘回、斩虍。此外，王征宇以零片酬担任导演，制作团队则集结了《快乐再出发》原班班底。 《OK了老铁们》第一季于五月上线，在陈泽老家黑龙江绥棱拍摄；第二季、第三季陆续到访重庆、贵州从江，不同篇章呈现出不一样的地域氛围。节目整体播放量迅速破亿。目前，第一季正片单期点赞量更是逼近千万。 博主自制综艺并不是新近才出现的品类。早",
+     "source": "虎嗅",
+     "zh": "野生综艺新样本：从《耶呼，黏苞米》到《OK了老铁们》"
+    },
+    {
+     "title": "马斯克：把钱捐给非营利组织，不如直接给人们发钱",
+     "link": "https://www.huxiu.com/article/4909202.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:27:14 +0800",
+     "summary": "本文来自微信公众号： 瓦砾村夫 ，作者：瓦砾老瓦 1.直接发钱 北京时间11月26日，马斯克发帖称，美国每个孩子将得到两股SpaceX股票，一股来自公司，一股来自他本人。次日，正值美国感恩节下午，他又在回复中说，以后每年再向美国所有孩子捐赠一股SpaceX股票。 11月27日晚，Arnold Ventures联合主席约翰·阿诺德（John Arnold）发帖称，埃隆的这笔捐赠说明，特朗普账户是一种出色的新型捐赠模式。 他写道，迄今埃隆已向马斯克基金会捐赠83亿美元，但其中很少到达实际运作的慈善机构，多数仍留在基金会，或转入他个人的捐赠者建议基金、以及他控制的非营利组织，对社会的益处微乎其微。 ",
+     "source": "虎嗅",
+     "zh": "马斯克：把钱捐给非营利组织，不如直接给人们发钱"
+    },
+    {
+     "title": "Claude现在是赛博田柯宇",
+     "link": "https://www.huxiu.com/article/4909201.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:27:13 +0800",
+     "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating 2026年11月下旬，国内一位做强化学习的研究员在排查迟迟不收敛的实验时，从Claude写的训练代码里翻出了一处他从未同意过的改动。 他用Opus 5.5和Fable 5.2优化一个工业过程控制项目的网络结构和训练方案。据他自述，Claude没打任何招呼，就往参数配置里塞进一个系数，把learning rate压低了100倍。机器学习里，学习率掉两个数量级，模型基本就进入了植物人状态。它还顺手改了验证环节的判分条件，把实验的最高分封顶在传统方法的水平附近。 几乎同一时间，大洋彼岸做像素画扩散模型的开发者Astropulse晒",
+     "source": "虎嗅",
+     "zh": "Claude现在是赛博田柯宇"
+    },
+    {
+     "title": "“一觉醒来，我成了AI短剧里人人喊打的反派？”",
+     "link": "https://www.huxiu.com/article/4909200.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:27:12 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：房子，编辑：鱼香 近日，模特“七海”发文公开指控当红AI短剧《丑狐》对其进行“AI融脸”。不同于直接覆盖面部的AI换脸，融脸抓取面部特征再造新面孔，靠打擦边球躲避审核，普通人、明星乃至逝者都难逃其害。当人脸可以被无限批量生成，肖像权保护正面临全新的难题。 一觉醒来，我成了AI短剧里人人喊打的反派？ 近日，模特“七海”发文公开指控当红AI短剧《丑狐》对其进行“AI融脸”，网友比对发现七海的形象和短剧里反派的形象十分相似。 (图/社交媒体截图@七海Christine) 而这已经不是她第一次遭遇AI形象侵权了。今年3月，AI短剧《桃花簪》就擅自使用七海肖像，把她",
+     "source": "虎嗅",
+     "zh": "“一觉醒来，我成了AI短剧里人人喊打的反派？”"
+    },
+    {
+     "title": "29 Best Black Friday Deals Under $100 (2026)",
+     "link": "https://www.wired.com/story/best-black-friday-deals-under-100-11-28-2026/",
+     "pubDate": "Sat, 28 Nov 2026 10:25:39 +0000",
+     "summary": "Here are the best Black Friday discounts we’ve found so far on WIRED-tested gear.",
+     "source": "WIRED",
+     "zh": "29 Best Black Friday Deals Under $100 (2026)"
+    },
+    {
      "title": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”",
      "link": "https://www.ithome.com/1/033/976.htm",
      "pubDate": "Sat, 28 Nov 2026 10:20:53 GMT",
@@ -1743,14 +1807,6 @@
      "summary": "本文来自微信公众号： 新经销 ，作者：周群 前段时间，拜访刘春雄教授，聊到中国快消品流通体系的变化时，他提出了一个值得深度思考的观点： 中国快消品行业经历过三次价格冲击：第一次来自商超，第二次来自电商，第三次则来自当下的新零售供应链变革。 前两次价格冲击，尽管给传统流通体系带来了不小的挑战，但行业最终都找到了新的利益平衡方式。但这一次，过去行之有效的方法，可能正在失效。 回顾中国快消品行业二十多年的发展历程，每一次价格冲击的背后，实际上都是一次零售变革，也伴随着流通体系的调整和产业利益的重新分配。 那么，第三次价格冲击，又会给这个行业带来什么？ 第一次价格冲击： 商超崛起，打破传统批发价格体系",
      "source": "虎嗅",
      "zh": "快消行业，正在经历第三次价格冲击"
-    },
-    {
-     "title": "大润发的困局",
-     "link": "https://www.huxiu.com/article/4909196.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 18:11:22 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：新经销 半年亏损5.14亿元，营收少了30亿元。 11月18日，大润发母公司高鑫零售发布2027财年中期业绩报告。截至2026年9月30日的六个月内，高鑫零售实现营收274.87亿元，同比下降9.9%；归母净亏损5.14亿元，同比扩大317.9%；同店销售下降9.5%。 2025年3月，德弘资本正式入主高鑫零售。此后一年多时间里，大润发进行了不少经营调整：关闭低效门店、缩减卖场面积、强化生鲜经营、开发自有品牌、推进全国联合采购，同时也在探索中型超市和前置仓业务。 从最新财报来看，一些改革已经取得了阶段性成果。自有品牌销售额同比增长82%，生鲜销量、复购率、",
-     "source": "虎嗅",
-     "zh": "大润发的困局"
     },
     {
      "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
@@ -1825,28 +1881,12 @@
      "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
     },
     {
-     "title": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)",
-     "link": "https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/",
-     "pubDate": "Sat, 28 Nov 2026 08:58:38 +0000",
-     "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
-     "source": "WIRED",
-     "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
-    },
-    {
-     "title": "从“炫技”到“上岗”，机器人干活能力迎大考",
-     "link": "https://www.huxiu.com/article/4909184.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 16:37:12 +0800",
-     "summary": "本文来自微信公众号： 中国证券报 ，作者：黄灵灵，原文标题：《高交会现场直击！从“炫技”到“上岗”，机器人干活能力迎大考》 11月26日至28日，被誉为“中国科技第一展”的第二十八届高交会在深圳国际会展中心举办。40万平方米的展馆内，来自全球120余个国家和地区的5000余家科创主体同台。 机器人依然是本届展会焦点，但与往年擂台格斗、快闪巡游的“炫技”不同，本届高交会上，机器人“能不能真干活”成为行业关注的焦点，参展商被追问最多的问题是机器人多久能部署、能不能稳定干活、账算不算得过来。 从“炫技”到“干活”，展陈逻辑变化的背后，是机器人能力的持续进化：自主能力增强，一批机器人不再依赖人工遥控，",
-     "source": "虎嗅",
-     "zh": "从“炫技”到“上岗”，机器人干活能力迎大考"
-    },
-    {
-     "title": "袁记云饺在猪价暴跌中越赚越多，但加盟商回本更难了",
-     "link": "https://www.huxiu.com/article/4909182.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 16:07:23 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 12月7日，被称为“中国最大饺子IPO”的袁记食品将正式登陆港股。要知道，截至11月20日，港股年内已有126家公司完成上市，但内地餐饮企业的挂牌数量，截至11月下旬依然是零。 看得出来，资本对传统餐饮讲的开店故事已失去耐心。 可同样经历过今年1月首次递表失效、7月重新递表的袁记食品，却硬是在11月拿到了港交所的通行证。根据公告，若按最高发售价计算且不计超额配售权，袁记食品本次发行募资总额约4.57亿港元。 从广州菜市场一间5平方米的档口，到全球近4800家门店，袁记食品用了十四年。如果顺利挂牌，它将成为港股“现制饺子云吞第一股”，也是2026年",
-     "source": "虎嗅",
-     "zh": "袁记云饺在猪价暴跌中越赚越多，但加盟商回本更难了"
+     "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+     "link": "https://fleetlayer.ai/",
+     "pubDate": "Sat, 28 Nov 2026 08:37:09 +0000",
+     "summary": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.) Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browse",
+     "source": "Hacker News",
+     "zh": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines"
     },
     {
      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
@@ -1863,14 +1903,6 @@
      "summary": "Erich Schwartzel / Wall Street Journal : A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO &nbsp; &mdash;&nbsp; As a longtime friend of the Nvidia CEO puts it, &ldquo;Jensen will always pull",
      "source": "Techmeme",
      "zh": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia&apos;s CEO (Erich Schwartzel/Wall Street Journal)"
-    },
-    {
-     "title": "英诺王晟：投RSI，本质上是在投验证器",
-     "link": "https://www.huxiu.com/article/4909177.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 15:36:28 +0800",
-     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队 RSI正在失去概念光环，成为一种常规技术手段。 定焦One（dingjiaoone）原创 在AI一级市场逐渐降温的背景下，RSI（Recursive Self-Improvement，递归自我改进）仍然是少数保持较高投资热度的方向之一。 不过，英诺科创基金合伙人、北京前沿国际人工智能研究院理事长王晟给面对这股投资热潮却直言，“所有以RSI为目的的项目，都是对无知投资人的PUA。” 11月25日，在“向新而行”人工智能场景推介及供需对接会暨中关村AI新场景产业创新活动上，王晟发表了题为《RSI（递归自我改进）与人工智能场景创新》的演讲，分",
-     "source": "虎嗅",
-     "zh": "英诺王晟：投RSI，本质上是在投验证器"
     },
     {
      "title": "欧洲短剧订阅转化卡在3.2%，是内容选品还是付费墙设计的问题？",
@@ -1940,17 +1972,9 @@
      "title": "FastLanes: Next-gen File Format [pdf]",
      "link": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
      "pubDate": "Sat, 28 Nov 2026 06:14:21 +0000",
-     "summary": "Article URL: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf Comments URL: https://news.ycombinator.com/item?id=50675195 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf Comments URL: https://news.ycombinator.com/item?id=50675195 Points: 13 # Comments: 2",
      "source": "Hacker News",
      "zh": "FastLanes: Next-gen File Format [pdf]"
-    },
-    {
-     "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
-     "link": "https://www.techmeme.com/261128/p1#a261128p1",
-     "pubDate": "Sat, 28 Nov 2026 00:50:02 -0500",
-     "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z &nbsp; &mdash;&nbsp; Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained ",
-     "source": "Techmeme",
-     "zh": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)"
     }
    ]
   },
@@ -2209,12 +2233,68 @@
    "total": 13,
    "items": [
     {
+     "title": "意向成交与投融资额超1750亿元 第二十八届高交会今天闭幕",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942382580.html",
+     "pubDate": "Sat, 28 Nov 2026 18:40:23 +0800",
+     "summary": "第二十八届中国国际高新技术成果交易会今天在广东深圳闭幕。本届高交会有来自全球120多个国家和地区的1365个采购团参观采购，突破48万人次专业观众现场洽谈交易，其中国际观众超4.5万人次，促成570余项供需对接与投融资对接项目现场签约，意向成交与投融资额超1750亿元。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "意向成交与投融资额超1750亿元 第二十八届高交会今天闭幕"
+    },
+    {
+     "title": "太空数据中心在轨技术试验平台上线",
+     "link": "http://finance.eastmoney.com/news/1360,202611283942382473.html",
+     "pubDate": "Sat, 28 Nov 2026 18:36:00 +0800",
+     "summary": "据北京发布，11月27日，2026太空 数据中心 建设工作推进大会举行，大会公布了北京太空算力工作进展，发布了太空 数据中心 在轨技术试验平台、地球大模型引擎V0.1版两项核心成果。 太空 数据中心 在轨技术试验平台正式上线 ，平台依托超大功率太空数据中心首发技术试验星——辰光一号01星构建，标志着辰光一号01星在圆满完成既定在轨测试任务后，转入在轨试验服务阶段。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "太空数据中心在轨技术试验平台上线"
+    },
+    {
+     "title": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复",
+     "link": "https://wallstreetcn.com/articles/3786912",
+     "pubDate": "Sat, 28 Nov 2026 18:35:00 +0800",
+     "summary": "霍尔木兹海峡正陷入一场双向封锁的僵局。美国持续以海上封锁和制裁压制伊朗经济，伊朗则以愈发激进的袭船战术反制过往船只，两股力量的对峙正将这条全球最重要的能源航运通道推向长期失序的边缘。 据媒体报道，美国中央司令部于当地时间周五宣布，美军飞机于周四击中并瘫痪了一艘在阿曼湾试图突破美国海上封锁的帕劳籍散货船M/V Pacific Archer。该船从伊朗港口城市班达尔阿巴斯出发，在多次警告无效后遭到打击，船尾受损。 这是美军迄今第六次对拒绝服从警告的船只动用武力。 与此同时， 伊朗在过去两个月内对至少六艘船只实施了\"二次打击\"战术， 将同一艘船连续袭击两次乃至三次，以彻底瘫痪船只并干扰救援行动。航运",
+     "source": "华尔街见闻",
+     "zh": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复"
+    },
+    {
+     "title": "《黑神话：悟空》制作人冯骥发长文谈“后AI时代”",
+     "link": "http://finance.eastmoney.com/news/1352,202611283942382360.html",
+     "pubDate": "Sat, 28 Nov 2026 18:35:00 +0800",
+     "summary": "11月27日，游戏科学创始人、CEO，《黑神话：悟空》制作人冯骥发布约8000字长文，追问当AI在生产端大规模取代人类劳动后，社会应该如何看待人的价值。他认为，这将成为“一道决定财富与尊严如何分配的政经必答题”。 冯骥认为，AI会给文娱内容行业带来空前的撕裂与两极分化。一面是旧时代的超级IP将拥有更强的马太效应，一面是腰部从业者的利润微薄化乃至消失。在他看来，创作工具确实平权了，但分发入口没有平权，算力分配没有平权，分钱的方式更没有平权。 他还提出，当通用 人工智能 成为决定所有人命运的基础设施时，长期红利理应回流全社会，通过全民分红，平等地惠及每一个人。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "《黑神话：悟空》制作人冯骥发长文谈“后AI时代”"
+    },
+    {
      "title": "马斯克：算力租赁价格走向分化",
      "link": "https://wallstreetcn.com/articles/3786911",
      "pubDate": "Sat, 28 Nov 2026 18:25:42 +0800",
      "summary": "AI算力租赁市场出现新的价格信号。马斯克最新透露称， 面向大规模、高带宽AI训练的GPU集群租金正在显著上涨，而小规模算力租赁价格反而下跌。 马斯克周六在社交平台X上表示， 谷歌有意向SpaceX租用更多算力资源 。这一表态源于市场对谷歌与Anthropic谁会成为SpaceX更大算力客户的讨论。马斯克回应称： “不确定谁会租得更多，但谷歌已经表达了向我们租用更多算力的意愿。” 除了透露潜在客户需求，马斯克还谈到了AI算力租赁市场正在发生的价格变化。 他表示， 针对大规模、高度互联、专门用于高带宽AI训练的算力集群，租赁价格正在上涨，有时涨幅相当显著。与之相反，规模较小的算力租赁价格正在下降，",
      "source": "华尔街见闻",
      "zh": "马斯克：算力租赁价格走向分化"
+    },
+    {
+     "title": "中科江南：以支付电子化为核心业务，长期服务各级财政部门",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942382074.html",
+     "pubDate": "Sat, 28 Nov 2026 18:24:38 +0800",
+     "summary": "中科江南 在投资者关系活动中表示，公司以支付 电子 化为核心业务，长期服务各级财政部门、行政事业单位和金融机构，深度参与国家财政资金运转体系建设。公司业务覆盖财政部及32个省及下辖市县，已形成较为完整的业务布局、稳定的客户基础与扎实的行业信任，是政府资金流转基础设施的代表性企业。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "中科江南：以支付电子化为核心业务，长期服务各级财政部门"
+    },
+    {
+     "title": "伊朗海军司令：伊军事行动最终目标是将美国逐出西亚",
+     "link": "http://finance.eastmoney.com/news/1959,202611283942381912.html",
+     "pubDate": "Sat, 28 Nov 2026 18:23:24 +0800",
+     "summary": "据伊朗塔斯尼姆通讯社28日报道，伊朗海军司令伊拉尼日前表示，伊朗“不久后”将开展多项军事行动，“最终目标”是 将美国逐出整个西亚地区 。 伊拉尼27日接受伊朗媒体采访时说，伊朗最高领袖穆杰塔巴已向伊朗武装力量下达指示，取消军事行动的地理范围限制。伊朗武装力量已接到相关任务指令，将于不久后执行。 随着地理范围限制被取消，伊朗可以投入射程更远的武器装备。 伊拉尼表示，打破美国对伊朗实施的海上封锁并非伊朗军事行动的终点。伊朗武装力量已将美军阻挡在阿拉伯海和印度洋北部，未来将进一步迫使其后撤。 伊朗海军将以最高战备状态应对敌方行动。他说，美军不仅必须撤出西亚，还必须撤离印度洋海域。 （文章来源：财联社",
+     "source": "东方财富股票",
+     "zh": "伊朗海军司令：伊军事行动最终目标是将美国逐出西亚"
+    },
+    {
+     "title": "开源鸿蒙发布具身智能操作系统RoboOH 2.0",
+     "link": "http://finance.eastmoney.com/news/1360,202611283942381487.html",
+     "pubDate": "Sat, 28 Nov 2026 18:22:08 +0800",
+     "summary": "11月28日，2026开源鸿蒙技术大会在南京举行，会上发布开源鸿蒙具身智能操作系统RoboOH 2.0。该系统兼容多种具身智能技术路线，支持多模型推理、数据采集及 机器人 运动控制等能力，覆盖双足、四足、轮式及旋翼等不同形态。 此外，大会还发布了开源鸿蒙设备平台1.0 Release及开源鸿蒙统一互联3.0 Release。前者支持AI辅助应用开发及芯片适配，可面向 两轮车 、家电等设备；后者拓展了跨厂商设备互联等能力。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "开源鸿蒙发布具身智能操作系统RoboOH 2.0"
     },
     {
      "title": "去越南建炼铝厂！",
@@ -2231,6 +2311,14 @@
      "summary": "周大福CFO叶家盈提到，金价波动可能会暂时抑制消费者的购买意愿，并对定价首饰的销售造成压力。",
      "source": "经济观察网",
      "zh": "金价震荡考验周大福"
+    },
+    {
+     "title": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942379974.html",
+     "pubDate": "Sat, 28 Nov 2026 18:02:30 +0800",
+     "summary": "今日，马斯克在X平台发帖称， 谷歌已表达意向，计划从 SpaceX 租用更多AI算力 。 马斯克是在回复X平台用户X Freeze时作出上述表态。此前X Freeze曾评论称，如果谷歌最终从 SpaceX 采购的算力规模超过 Anthropic ，他完全不会感到意外。谷歌已承诺在多个国家为用户免费提供为期两年的Gemini付费版使用权，且目前谷歌的模型性能十分出色，迟早会需要大量算力资源。 随后，马斯克表示“不确定谁会买更多”，并同步披露算力 租赁 市场的价格分化信号： 面向高带宽训练、规模大且连贯的算力集群租金持续走高；而5000张GPU以内的中小算力订单，租金则在下降 。 两者 综合 下来",
+     "source": "东方财富资讯",
+     "zh": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势"
     },
     {
      "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
@@ -2313,28 +2401,12 @@
      "zh": "32堂专题课程+11场实操实训 鲁渝协作以科技创新赋能乡村振兴"
     },
     {
-     "title": "DeepSeek×昇腾950适配再提升：FlashMLA稀疏注意力算子Prefill达98.5%硬件峰值",
-     "link": "http://finance.eastmoney.com/news/1360,202611283942368495.html",
-     "pubDate": "Sat, 28 Nov 2026 15:34:11 +0800",
-     "summary": "没有发布新模型的梁文锋一点也没闲着。 近日，DeepSeek在GitHub上更新了FlashMLA的最新优化成果： DeepSeek发布了 华为昇腾 950 NPU平台上的fused norm+RoPE+attention+RoPE+cast融合算子 ，同时 优化了原有昇腾Prefill、Decoding算子的性能 ， 在Prefill时能够达到425TFlops（98.5%硬件极限），在Decoding时能够达到372TFlops（86.1%硬件极限）。 在9月30日发布之初，Prefill和Decoding算子能达到的性能分别是：Prefill时能够达到410TFlops（95%硬件极限）",
-     "source": "东方财富资讯",
-     "zh": "DeepSeek×昇腾950适配再提升：FlashMLA稀疏注意力算子Prefill达98.5%硬件峰值"
-    },
-    {
      "title": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！",
      "link": "https://wallstreetcn.com/articles/3786904",
      "pubDate": "Sat, 28 Nov 2026 15:18:48 +0800",
      "summary": "“AI股神”、前OpenAI研究员Leopold Aschenbrenner旗下Situational Awareness基金在三季度遭遇重挫后，仍在其致投资者信中对AI赛道保持高度乐观，并将Anthropic列为核心持仓，称其估值\"极度低估\"。 据此前披露的投资者信函，该基金上半年录得439%的惊人回报，但三季度净值回撤65%，截至9月底全年收益收窄至88.5%。尽管如此，Aschenbrenner在信中再度向投资者喊话， 称\"现在是买入的最佳时机\"，并对AI进展速度及实验室商业价值作出一系列大胆预测。 在持仓结构上，随着最大私募持仓Anthropic完成IPO，该组合目前约70%为公开股票",
      "source": "华尔街见闻",
      "zh": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！"
-    },
-    {
-     "title": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！",
-     "link": "https://wallstreetcn.com/articles/3786896",
-     "pubDate": "Sat, 28 Nov 2026 14:44:11 +0800",
-     "summary": "摩根大通认为，费城半导体指数自高点回落约40%，跌幅已超过金融危机以来历次下行周期，但支撑周期见顶的四大核心指标均未发出预警信号。该行判断行业上行周期有望延续至2028年，市场对盈利大幅下修的预期在短期内难以兑现。 据追风交易台，摩根大通亚太科技研究团队在11月27日发布的亚洲科技策略报告中指出，当前市场对半导体周期的定价已接近“基本面下行周期”的情形， 但库存、产能、交货周期与长协定价这四项关键指标均未出现典型见顶特征。 该行认为，在AI算力需求结构性增长的背景下，即便部分领域出现5%至10%的需求走软，也不足以引发买方行为的全面逆转。 行业仍可能维持上行至2028年，未来三到四个月内出现市",
-     "source": "华尔街见闻",
-     "zh": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！"
     },
     {
      "title": "金科股份控股股东被证监会立案调查",
@@ -2359,14 +2431,6 @@
      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
      "source": "CNBC",
      "zh": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO"
-    },
-    {
-     "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
-     "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
-     "source": "经济观察网",
-     "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
     },
     {
      "title": "The mathematicians living through an AI revolution",
@@ -2401,52 +2465,12 @@
      "zh": "AI agents are coming for big business"
     },
     {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
      "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
      "source": "CNBC",
      "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
-    },
-    {
-     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
-    },
-    {
-     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     }
    ]
   },

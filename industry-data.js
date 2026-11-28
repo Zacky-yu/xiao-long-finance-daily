@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 09:11:52",
+ "generated_at": "2026/11/28 09:31:51",
  "recent_days": 7,
  "industries": [
   {
@@ -282,6 +282,22 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
+     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
+    },
+    {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -304,6 +320,38 @@ window.INDUSTRY_DATA = {
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1738,6 +1738,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "巴西支付接入排期撞上运营节奏，3人团队该怎么排？",
+     "link": "https://www.baijing.cn/question/639013",
+     "pubDate": "Sat, 28 Nov 2026 01:24:02 +0000",
+     "summary": "我们做拉美休闲手游，巴西是主力市场，月流水刚过20万美元。团队总共3人：1个后端兼支付、1个运营、1个本地化。现在巴西要接Pix和Boleto，本地化那边还要同步西语和葡语的客服话术。上周试了用第三方聚合支付，结果Pix到账延迟平均4小时，Boleto回款周期7天，运营那边活动排期全乱了。我们卡在：是先停活动等支付稳定，还是先接Pix保转化、Boleto往后放？3个人手实在排不开，想问问有经验的朋友，这种节奏该怎么取舍？",
+     "source": "白鲸出海",
+     "zh": "巴西支付接入排期撞上运营节奏，3人团队该怎么排？"
+    },
+    {
+     "title": "奔驰中国拟持股70%，再组新合资公司为何瞄准采购",
+     "link": "https://www.huxiu.com/article/4909115.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 09:08:36 +0800",
+     "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 奔驰准备在北京再设一家合资公司，业务瞄准零部件采购。 据路透社11月27日援引中国市场监管部门申报文件的报道，奔驰中国计划与北京奔驰设立一家新公司，采购乘用车零部件并向北京奔驰供应。其中，奔驰中国持股70%，北京奔驰持股30%，双方共同控制新公司。 北京奔驰将同时成为这家公司的股东和客户。采购环节被单独放进一家合资公司，意味着整车生产之外，双方又多了一项需要共同经营的业务。 这笔合资计划出现时，奔驰正在应对利润压力。一个月前的10月27日，奔驰将2026年乘用车业务调整后销售利润率预期，从3%至5%下调至2%至3%，并提及中国市场环境走弱及第",
+     "source": "虎嗅",
+     "zh": "奔驰中国拟持股70%，再组新合资公司为何瞄准采购"
+    },
+    {
+     "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
+     "link": "https://www.ithome.com/1/033/798.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:04:32 GMT",
+     "summary": "IT之家 11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米机器人 BrainBot。 据悉，该机器人能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类机器人的 5 倍。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦在外面。结果就是，医生即使拥有能够对抗某种疾病的药物，也未必能让药物真正抵达患病",
+     "source": "IT之家",
+     "zh": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药"
+    },
+    {
+     "title": "系列首款可拍 8K 视频机型：富士 X-T6 曝光，电池容量提高 16%、引入新胶片模拟模式",
+     "link": "https://www.ithome.com/1/033/797.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:02:28 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 fujirumors 昨日（11 月 27 日）发布博文，报道称在 12 月 2 日举办的 Fujifilm X Summit 峰会上，富士（Fujifilm）将推出 X-T6 无反相机，在欧洲的建议零售价为 2,099 欧元，比前代产品高出 100 欧元。 消息称富士 X-T6 的核心升级富士 X-Trans CMOS 6 HR 传感器。该传感器据称采用 RGBW 子像素技术，从而降低低光照条件下拍摄照片和视频时的噪点。 视频方面，X-T6 将支持 8K/30p 4:2:2 10 位拍摄， 有望成为富士 X-T 系列首款可拍摄 8K 视频的机型。 ",
+     "source": "IT之家",
+     "zh": "系列首款可拍 8K 视频机型：富士 X-T6 曝光，电池容量提高 16%、引入新胶片模拟模式"
+    },
+    {
+     "title": "Denuvo 追查破解者 voices38 身份未果：Discord 无数据、Reddit 拒绝提供资料，Valve 提交 7 个 Steam 账号但未能确认归属",
+     "link": "https://www.ithome.com/1/033/796.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:01:54 GMT",
+     "summary": "IT之家 11 月 28 日消息，Denuvo 母公司 Irdeto 今年 9 月在加州北区联邦地区法院起诉 voices38，指控其绕过 26 款游戏的 D 加密保护。但截至目前，此次调查仍未取得明显进展。 尽管美国法院批准其向 Valve、Discord 和 Reddit 调取用户资料，且 Valve 已提交涉及 7 个 Steam 账号的信息，但这家公司仍未能确认相关账号背后的真实身份，不得不向法院申请额外 90 天调查时间。 Denuvo 母公司 Irdeto 于 2026 年 9 月 14 日在美国加利福尼亚州北区联邦地区法院起诉匿名破解者 voices38，指控其绕过 Denuvo",
+     "source": "IT之家",
+     "zh": "Denuvo 追查破解者 voices38 身份未果：Discord 无数据、Reddit 拒绝提供资料，Valve 提交 7 个 Steam 账号但未能确认归属"
+    },
+    {
      "title": "韩国独立站红人种草素材，为什么本地化越做转化越低？",
      "link": "https://www.baijing.cn/question/639012",
      "pubDate": "Sat, 28 Nov 2026 00:57:58 +0000",
@@ -1770,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂"
     },
     {
-     "title": "大众被印度追税后将奔驰、宝马、起亚拖下水，称“所有车企都这么干”",
+     "title": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？",
      "link": "https://www.ithome.com/1/033/794.htm",
      "pubDate": "Sat, 28 Nov 2026 00:44:52 GMT",
      "summary": "IT之家 11 月 28 日消息，路透社当地时间 11 月 27 日报道，大众汽车在印度面临的 12 亿美元 （IT之家注：现汇率约合 80.05 亿元人民币） 关税追缴纠纷进入新的交锋阶段。 大众向孟买法院主张，印度税务部门在零部件进口关税问题上对其进行了不公正的针对，并将梅赛德斯-奔驰、宝马、起亚等竞争对手的进口数据一并提交给了法庭。 此次事件争议的核心在于印度对汽车进口的两套税率：单独进口零部件适用约 10% 的关税，而以全散件形式进口、用于当地组装的车辆则适用约 30% 至 35% 的税率。 印度税务部门指控大众“故意”将接近完整的汽车拆分为零部件、分批运往印度，在当地组装成整车，从而",
      "source": "IT之家",
-     "zh": "大众被印度追税后将奔驰、宝马、起亚拖下水，称“所有车企都这么干”"
+     "zh": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？"
     },
     {
      "title": "国资1.4亿买老挝酒店，只卖1万块？",
@@ -1794,22 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布"
     },
     {
-     "title": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险",
-     "link": "https://www.ithome.com/1/033/790.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:24:00 GMT",
-     "summary": "IT之家 11 月 28 日消息，微软一直积极推动 Copilot 融入旗下各类应用，Office 自然也不例外。然而据外媒 Neowin 当地时间 27 日报道，一名 IT 管理员指出，部分新功能可能给使用 Microsoft 365 的企业和组织带来棘手的合规风险。 据这名管理员透露，拥有 Business Premium 订阅及 Copilot 许可证的用户， 只需向 Copilot 输入文字指令，就能直接编辑保存在 OneDrive 和 SharePoint 中的文件 。Copilot 还可以自行识别目标文件并进行修改，用户既不必指定文件名，也无需明确确认修改操作。 即使没有启用按使用",
-     "source": "IT之家",
-     "zh": "IT 管理员称微软 Copilot 可擅自修改企业 OneDrive / SharePoint 文件，恐引合规风险"
-    },
-    {
-     "title": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息",
-     "link": "https://www.ithome.com/1/033/791.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:22:28 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Neowin 昨日（11 月 27 日）发布博文， 报道称勒索软件组织 Inception 声称入侵了域名注册商和网站托管服务商 GoDaddy，并在其泄密网站上公开了约 37.5GB 的数据。 GoDaddy 成立于 1997 年，总部位于美国亚利桑那州坦佩，是全球最大的域名注册商，根据该公司年报，截至 2025 年 12 月 31 日该机构管理约 8,100 万个域名。按 .com 域名数（2026 年 5 月）统计，GoDaddy 管理约 5,270 万个域名，远超第二名 Namecheap（约 1,370 万）。 根据 Inception 披",
-     "source": "IT之家",
-     "zh": "约 37.5GB：全球最大域名注册商 GoDaddy 被爆数据泄露，含薪酬等员工信息"
-    },
-    {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
      "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
@@ -1824,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界 这两天出差和商家交流的时候，大家又在担心11月25日美国发布的\"新关税\"消息。大家担心2027年的关税战会再起，影响2027年中国外贸的整体表现和出口美国的增长势头。在我看下来其实不用太担心，美国此举在我看来不是\"负面影响\"反而是\"正面影响\"。因为中国主持的APEC会议多国领导人达成了一个非常积极的贸易合作规则框架。就算美国新301关税落地也不会给中国当前的出口美国贸易新增太多的负担，反而是针对其他出口美国的制造业经济体（如东南亚、日韩、欧洲、拉美等）带去了非常大的压力，凸显了中国的相对税率优势。 先把话说清楚：我说\"正面\"，不是说中国的税率变",
      "source": "虎嗅",
      "zh": "2027年1月美国‘新关税’可能对中国出口的影响？"
-    },
-    {
-     "title": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland",
-     "link": "https://www.ithome.com/1/033/789.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:07:44 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Linuxiac 今天（11 月 28 日）报道，免费、开源、跨平台的 3D 引擎 Open 3D Engine（简称 O3DE）发布 26.10 版本， 带来包含 200 多项修复和改进，增强开发 3D 游戏、模拟和交互式应用程序。 在界面与工具方面，引擎将 Qt 版本从 5.15.2 升级至 6.10.2，实现了编辑器和开发工具的现代化。新版本还重新设计了实体检查器，统一了编辑器快捷键，并在资源编辑器中加入撤销功能。 在 Linux 平台方面，游戏启动器首次原生支持 Wayland，用户可在运行时或编译时选择 Wayland 或 X11。IT之家",
-     "source": "IT之家",
-     "zh": "开源 3D 引擎 O3DE 升级 26.10：编辑器换上 Qt 6 新界面，启动器首次原生支持 Wayland"
     },
     {
      "title": "GE医疗、飞利浦、西门子医疗全球营收增长，唯独中国区业绩承压",
@@ -1850,10 +1866,18 @@ window.INDUSTRY_DATA = {
      "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
     },
     {
+     "title": "Passkey blues",
+     "link": "https://ssg.dev/passkey-blues/",
+     "pubDate": "Fri, 27 Nov 2026 23:51:28 +0000",
+     "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Passkey blues"
+    },
+    {
      "title": "Painting 1990s anime scenes in Python",
      "link": "https://www.fofr.ai/greenhouse-after-the-typhoon",
      "pubDate": "Fri, 27 Nov 2026 23:50:17 +0000",
-     "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "Painting 1990s anime scenes in Python"
     },
@@ -1893,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 36 # Comments: 10",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 61 # Comments: 15",
      "source": "Hacker News",
      "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
     },
@@ -1901,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
      "link": "https://tabernet.es/",
      "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
-     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 24 # Comments: 8",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 29 # Comments: 10",
      "source": "Hacker News",
      "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
     },
@@ -1917,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 50 # Comments: 37",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 54 # Comments: 40",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
     },
@@ -1925,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "9/UX: a Macintosh-inspired desktop for 9front",
      "link": "https://progrium.github.io/9ux/",
      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 62 # Comments: 10",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 68 # Comments: 11",
      "source": "Hacker News",
      "zh": "9/UX: a Macintosh-inspired desktop for 9front"
     },
@@ -1936,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently ",
      "source": "Techmeme",
      "zh": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)"
-    },
-    {
-     "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-     "link": "https://sessiongraph.ai/",
-     "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
-     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 21 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
     },
     {
      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
@@ -1960,22 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more &nbsp; &mdash;&nbsp; &ldquo;If we pause now, people still won't understand what's at stake.&rdquo;&nbsp; &m",
      "source": "Techmeme",
      "zh": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)"
-    },
-    {
-     "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
-     "link": "https://www.techmeme.com/261127/p12#a261127p12",
-     "pubDate": "Fri, 27 Nov 2026 13:57:47 -0500",
-     "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and &ldquo;coercing and threatening&rdquo; suppliers that work with both &nbsp; &mdash;&nbsp; The ChatGPT maker also accuses the tech giant of &lsquo;coercing and threatening&rsquo; su",
-     "source": "Techmeme",
-     "zh": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)"
-    },
-    {
-     "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
-     "link": "https://www.techmeme.com/261127/p11#a261127p11",
-     "pubDate": "Fri, 27 Nov 2026 13:50:02 -0500",
-     "summary": "Financial Times : Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses &nbsp; &mdash;&nbsp; US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence in ",
-     "source": "Techmeme",
-     "zh": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)"
     }
    ]
   },
@@ -2106,12 +2106,12 @@ window.INDUSTRY_DATA = {
      "zh": "Here are the best Apple Watch deals for Black Friday"
     },
     {
-     "title": "Apple faces potential $80 million fine and App Store overhaul in Chile",
+     "title": "Apple faces potential $80 million fine and App Store overhaul in Chile [U: Apple responds]",
      "link": "https://9to5mac.com/2026/11/27/apple-faces-potential-80-million-fine-and-app-store-overhaul-in-chile/",
      "pubDate": "Fri, 27 Nov 2026 20:31:12 +0000",
      "summary": "Chile’s national competition authority, Fiscalía Nacional Económica (FNE), has filed an antitrust lawsuit against Apple, accusing the company of abusing its dominant position in iOS app distribution and in-app purchases. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "Apple faces potential $80 million fine and App Store overhaul in Chile"
+     "zh": "Apple faces potential $80 million fine and App Store overhaul in Chile [U: Apple responds]"
     },
     {
      "title": "Samsung is reportedly giving its camera app an AI mode",
@@ -2234,60 +2234,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "冯骥约八千字长文谈AI冲击：创作工具平权了 分钱方式没有平权",
+     "link": "http://finance.eastmoney.com/news/1373,202611273941981150.html",
+     "pubDate": "Sat, 28 Nov 2026 09:13:32 +0800",
+     "summary": "11月27日，游戏科学创始人、CEO，《黑神话：悟空》制作人冯骥发长文追问，当AI在生产端大规模取代人类劳动后，社会应该如何看待人的价值？他认为，这将成为“一道决定财富与尊严如何分配的政经必答题”。 冯骥提到，他近期密集试玩了一批用Fable 5.2做出来的网页游戏，“不少作品完成度高得惊人”，有几款甚至让他玩到忘记时间。但当游戏用AI做，如果有一天没有任何工作需要人了，人该怎么办？ 他认为，绝大部分以创作为生的从业者，正在迎来某种意义上的末法时代。“如果我们只是用户，AI带来的供给侧繁荣或许是件大好事。” 他提出，AI会给文娱内容行业带来空前的撕裂与两极分化。一面是旧时代的超级IP将拥有更强",
+     "source": "东方财富股票",
+     "zh": "冯骥约八千字长文谈AI冲击：创作工具平权了 分钱方式没有平权"
+    },
+    {
+     "title": "中概股普遍上涨，纳斯达克中国金龙指数涨3.02%",
+     "link": "http://finance.eastmoney.com/news/11228,202611283942333815.html",
+     "pubDate": "Sat, 28 Nov 2026 09:10:38 +0800",
+     "summary": "当地时间11月27日，中概股普遍上涨， 纳斯达克 中国金龙指数涨3.02% 。 热门中概股方面， 奇富科技 涨超13%， 大全新能源 涨逾10%， 希尔威金属矿业 涨超10%， 麦思智能 涨逾10%， 金山云 涨超7%， 哔哩哔哩 、 禾赛 科技、 BOSS直聘 、 腾讯音乐 涨逾6%。跌幅方面， 世纪互联 跌近11%， 万国数据 跌超2%。 （文章来源：财闻）",
+     "source": "东方财富股票",
+     "zh": "中概股普遍上涨，纳斯达克中国金龙指数涨3.02%"
+    },
+    {
+     "title": "大手笔护盘！A股，真金白银来了",
+     "link": "http://finance.eastmoney.com/news/1353,202611283942333785.html",
+     "pubDate": "Sat, 28 Nov 2026 09:09:29 +0800",
+     "summary": "最近，多笔大额回购投向 锂 电产业链： 盐湖股份 拟出资 15亿—20亿元 回购股份，回购价格不超过33.66元/股，将用于注销以减少公司注册资本。同时， 天齐锂业 董事长蒋安琪提议公司以自有资金或自筹资金回购股份，回购资金总额不低于4亿元且不超过8亿元。 据不完全统计，11月以来， 锂 电产业链已有6家企业披露 回购计划 ， 合计金额上限约50亿元 。同时， 宁德时代 7月推出的200亿元至400亿元注销式回购仍在推进，截至11月中旬累计回购已超58亿元。 本轮回购潮背后，是行业正在经历的深度调整。数据显示，碳酸 锂 期货 主力合约LC2701从9月起至今 累计下跌超过43% ，较年内高点回",
+     "source": "东方财富股票",
+     "zh": "大手笔护盘！A股，真金白银来了"
+    },
+    {
+     "title": "600095、601519 ，突然终止合并",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942333153.html",
+     "pubDate": "Sat, 28 Nov 2026 09:09:11 +0800",
+     "summary": "11月27日晚间， 湘财股份 （600095.SH，股价7.15元，市值204.43亿元）与 大智慧 （601519.SH，股价7.56元，市值150.38亿元）公告，两家公司董事会分别审议通过 撤回换股吸收合并并募集配套资金暨关联交易申请 的议案， 湘财股份 与 大智慧 同时将签署《吸收合并协议之解除协议》。 此时距上交所受理该申请已过去 13个月 ，期间交易两次因申报文件估值、财务数据过有效期被中止审核。对于撤回原因， 湘财股份 公告称“鉴于外部环境变化和公司发展需要，经双方审慎研究、协商一致”。公司承诺至少1个月内不再筹划重大资产重组。 从受理到撤回：13个月，两次中止审核 这是一桩以换",
+     "source": "东方财富股票",
+     "zh": "600095、601519 ，突然终止合并"
+    },
+    {
+     "title": "报名费涨到799元 老玩家在“退坑”：HYROX狂奔两年 还能火多久？",
+     "link": "http://finance.eastmoney.com/news/1344,202611283942332875.html",
+     "pubDate": "Sat, 28 Nov 2026 09:08:12 +0800",
+     "summary": "11月20日至22日，HYROX广州站在争议余波中重启。广州站观众依旧热情，多项国内纪录被打破。从2024年11月中国内地首站约1700名有效参赛者，到2026年5月上海站报名突破万人，HYROX只用不到一年半时间。这份热度从哪里来，又能持续多久？当报名费从699元涨到799元，当第一批玩家开始说“退坑”，这条被HYROX带火的 综合 体能赛道，正迎来一次压力测试。 （HYROX广州站现场参赛者供图） 狂奔一年半撞上一场风波 “在个人第九站比赛，终于完成‘站台’突破！”刚刚完成HYROX广州站赛事的巧克力（化名）对记者说。所谓站台，指成绩排进细分组别前三，这次巧克力与队友以58分21秒获得25",
+     "source": "东方财富股票",
+     "zh": "报名费涨到799元 老玩家在“退坑”：HYROX狂奔两年 还能火多久？"
+    },
+    {
+     "title": "脑癌治疗新希望：加州理工学院研发纳米机器人BrainBot 可随血液循环突破血脑屏障向脑内递药",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942332750.html",
+     "pubDate": "Sat, 28 Nov 2026 09:07:32 +0800",
+     "summary": "11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米 机器人 BrainBot。 据悉，该 机器人 能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类 机器人 的 5 倍 。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦在外面。结果就是，医生即使拥有能够对抗某种疾病的药物，也未必能让药物真正抵达患",
+     "source": "东方财富股票",
+     "zh": "脑癌治疗新希望：加州理工学院研发纳米机器人BrainBot 可随血液循环突破血脑屏障向脑内递药"
+    },
+    {
+     "title": "付费前夜 DeepSeek大佬圈都有谁？黄仁勋也去了",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942332916.html",
+     "pubDate": "Sat, 28 Nov 2026 09:06:51 +0800",
+     "summary": "卖水的钟睒睒、养猪的秦英林、造 电池 的曾毓群、做燃气的王玉锁，以及创办 爱尔眼科 的陈邦都出现在DeepSeek的投资名单上。 11月27日，DeepSeek安卓端App更新2.10.0版本后， 新增了功能按钮 ，可查看每轮对话消耗额度对应的具体资费，其计费模式和API的官方文档计费模式相同。此举或为后续推出App付费模式做铺垫。 与传统 互联网服务 较低的边际成本不同，大模型每次推理都需要消耗算力。随着 AI应用 规模扩大，大模型厂商正在终结互联网时代的免费逻辑。不过，商业模式面临调整，并未减弱资本市场对DeepSeek的投资热情。 卖水的钟睒睒、养猪的秦英林、造 电池 的曾毓群、做燃气的",
+     "source": "东方财富资讯",
+     "zh": "付费前夜 DeepSeek大佬圈都有谁？黄仁勋也去了"
+    },
+    {
+     "title": "实际收益率曲线走平，预示美元见顶？",
+     "link": "https://wallstreetcn.com/articles/3786886",
+     "pubDate": "Sat, 28 Nov 2026 09:06:03 +0800",
+     "summary": "美元自9月中旬以来累计涨幅约5%，但本周从约20个月高位急剧回撤，或正预示阶段性顶部形成。 彭博宏观策略师Simon White最新指出，实际收益率曲线已开始走平，这一信号在历史上与美元阶段性见顶高度吻合。 White并未给出美元即将崩跌的断言，但实际收益率曲线走平、利率差动能减弱、融资结构脆弱与潜在政策转向四重信号叠加，意味着美元阶段性顶部形成的概率正在上升，投资者宜保持警惕。 实际收益率曲线发出预警 在引领美元走势的诸多指标中，可靠的前瞻信号历来难觅。White表示， 10年期对3个月实际收益率曲线是他所找到的最佳先行指标之一。 当前数据显示，该曲线已开始走平，按历史规律，这预示美元近期将",
+     "source": "华尔街见闻",
+     "zh": "实际收益率曲线走平，预示美元见顶？"
+    },
+    {
      "title": "每天写作业都像一场战争,可能不只是态度问题 识别儿童青少年学习困难的症状表现与评估时机",
      "link": "http://www.eeo.com.cn/2026/1128/1095753.shtml",
      "pubDate": "Sat, 28 Nov 2026 09:05:01 +0800",
      "summary": "学习困难本身会带来失败体验。长期得不到解释和支持时，孩子可能逐渐形成“反正我做不到”的认识，继而减少尝试、逃避任务、对抗要求。随着课程难度增加，基础断层、情绪压力和亲子冲突可能互相强化。",
      "source": "经济观察网",
      "zh": "每天写作业都像一场战争,可能不只是态度问题 识别儿童青少年学习困难的症状表现与评估时机"
-    },
-    {
-     "title": "闪迪涨近16%，美国科技股，暴涨！",
-     "link": "http://finance.eastmoney.com/news/11228,202611283942332092.html",
-     "pubDate": "Sat, 28 Nov 2026 09:00:05 +0800",
-     "summary": "感恩节假期后，美股迎来半日交易。当地时间11月27日， AI交易回暖 ，美国三大股指集体收涨， 道指涨1.18%报50774.94点，标普500指数涨1.6%报7297.49点，纳指涨2.31%报24129.5点 。 本周，道指涨5.46%，标普500指数涨5.6%，纳指涨6.68%。 当日，费城 半导体 指数涨近5%，本周累涨超9%。存储、光 通信 板块领涨， 闪迪 涨近16% ，为7月以来最大单日涨幅。 美光科技 、 SK海力士 涨超7%，Coherent涨14%，Lumentum涨近8%。 大型科技股集体上扬， Anthropic 涨近11% ，创下自11月19日上市以来最大单日涨幅，股",
-     "source": "东方财富股票",
-     "zh": "闪迪涨近16%，美国科技股，暴涨！"
-    },
-    {
-     "title": "A股股票回购一览：45家公司披露回购进展",
-     "link": "http://finance.eastmoney.com/news/11134,202611283942331794.html",
-     "pubDate": "Sat, 28 Nov 2026 08:59:14 +0800",
-     "summary": "Wind数据显示，11月28日，45家公司发布股票回购相关进展。其中，5家公司股东提议回购公司股份，18家公司首次披露股票回购预案，3家公司回购方案获股东大会通过，12家公司披露股票回购实施进展，7家公司回购方案已实施完毕。 从股东提议回购方案来看， 思特威-W 、 明阳智能 、 美瑞新材 股东提议回购金额最高，分别提议回购不超10.0亿元、1.5亿元、5000.0万元。 从首次披露回购预案来看， 国科微 、 江瀚新材 、 德福科技 回购预案金额最高，分别拟回购不超5.0亿元、3.0亿元、2.0亿元。 从回购实施进展来看， 博亚精工 、 艾芬达 、 清源股份 回购金额最高，分别回购6410.9",
-     "source": "东方财富股票",
-     "zh": "A股股票回购一览：45家公司披露回购进展"
-    },
-    {
-     "title": "A股定增一览：6家公司披露定增进展",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942331572.html",
-     "pubDate": "Sat, 28 Nov 2026 08:59:13 +0800",
-     "summary": "Wind数据显示，11月28日，A股共6家公司发布定增相关公告。其中4家 定增预案 获股东大会通过，1家 定增预案 获证监会通过，1家定增方案停止实施。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "A股定增一览：6家公司披露定增进展"
-    },
-    {
-     "title": "时隔24年，佳能重返半导体ArF光刻机市场",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942331489.html",
-     "pubDate": "Sat, 28 Nov 2026 08:57:35 +0800",
-     "summary": "11月28日，财闻海外资讯援引日经中文网报道，佳能日前宣布，将重新进入用于 半导体 电路形成的“ArF（氟化氩） 光刻机 ”市场。新产品是自2002年以来 时隔24年推出 。最大厂商荷兰 阿斯麦 （ASML.US） （ASML）控股的设备供需紧张，佳能也迎来商机。 将于 12月上旬开始接受ArF干式 光刻机 订单 。该设备可支持最小约65纳米（1纳米为十亿分之一米）线宽的电路形成，可用于部分存储器制造工序、功率 半导体 和 传感器 的量产。该设备将由佳能宇都宫工厂生产。 佳能此前在与 阿斯麦 的销售竞争中失利，于2007年停止接受ArF 光刻机 订单。此后，该公司一直从事技术代际较ArF更早的",
-     "source": "东方财富股票",
-     "zh": "时隔24年，佳能重返半导体ArF光刻机市场"
-    },
-    {
-     "title": "上汽MG官宣全面转型：明年1月1日起在中国大陆停产燃油车",
-     "link": "http://finance.eastmoney.com/news/1349,202611283942331261.html",
-     "pubDate": "Sat, 28 Nov 2026 08:56:05 +0800",
-     "summary": "11月27日，上汽MG发文表示，为顺应全球化 新能源 发展趋势，根据公司发展战略需求，上汽MG品牌决定自2027年1月1日起，面向中国大陆市场停产在售版本纯燃油车型。 （文章来源：财闻）",
-     "source": "东方财富股票",
-     "zh": "上汽MG官宣全面转型：明年1月1日起在中国大陆停产燃油车"
-    },
-    {
-     "title": "金银价格双双大涨",
-     "link": "http://finance.eastmoney.com/news/11253,202611283942331391.html",
-     "pubDate": "Sat, 28 Nov 2026 08:55:55 +0800",
-     "summary": "美东时间周五，国际 贵金属 大涨。 COMEX 黄金 期货 涨2.44%，报3681.1美元/盎司 ； COMEX 白银 期货 涨5.35%，报43.985美元/盎司 。 现货 黄金 涨2.45%，报3653.50美元/盎司 ； 现货 白银 涨5.24%，报43.717美元/盎司 。此前，金价周三一度跌至2025年8月以来最低水平。 （文章来源：蓝鲸新闻）",
-     "source": "东方财富股票",
-     "zh": "金银价格双双大涨"
     },
     {
      "title": "道指涨近600点，美股芯片股大爆发，闪迪狂飙近16%",
@@ -2338,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "国常会部署“稳市”后 十大券商重磅发声"
     },
     {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
      "title": "上市地位将被取消 恒大汽车造车“黄粱一梦”",
      "link": "http://hk.eastmoney.com/news/11223,202611283942323085.html",
      "pubDate": "Sat, 28 Nov 2026 07:48:19 +0800",
@@ -2346,12 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "上市地位将被取消 恒大汽车造车“黄粱一梦”"
     },
     {
-     "title": "国务院常务会议解读丨国常会新部署释放明确稳市信号",
-     "link": "http://finance.eastmoney.com/news/1344,202611283942235631.html",
-     "pubDate": "Sat, 28 Nov 2026 07:41:52 +0800",
-     "summary": "11月27日举行的国务院常务会议研究了持续深化资本市场投融资 综合 改革工作，释放五大鲜明稳市信号。截至当日收盘，A股超5000只个股飘红，成交明显放量。 信号一：明确“资本市场事关经济发展大局”。 资本市场一头连着企业融资、产业升级，另一头连着居民资产、财产性收入。 会议指出，资本市场事关经济发展大局。在 招商证券 研究发展中心负责人谢亚轩看来，会议把资本市场放在经济发展大局中谋划，定位清晰。企业直接融资渠道是否畅通，科技创新、先进制造能否获得持续资金活水，与市场预期密切相关；居民资产配置、财产性收入增长，同样受市场预期影响。稳住股市，就是稳预期，对巩固经济回升向好态势意义重大。 信号二：“",
-     "source": "东方财富资讯",
-     "zh": "国务院常务会议解读丨国常会新部署释放明确稳市信号"
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
     },
     {
      "title": "信贷市场表里不一：7050亿美元AI债与CCC级“垃圾债”承压，优质企业独自坚挺",
@@ -2360,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "表面平静的信贷基准指数之下，暗流正在急剧涌动。 高盛策略师Sara Grut在最新发布的《全球市场日报》中警告，受人工智能债务供给激增与低评级借款人偿债压力恶化驱动， 当前信贷市场已严重分化，呈现出“AI债承压、垃圾债恶化、优质企业独自坚挺”的割裂局面，整体指数的温和波动正在掩盖局部领域的剧烈信用重估。 尽管标普500指数在11月经历了近10%的阶段性回调，美元投资级（IG）债券利差仅小幅走阔11个基点，仍处于2008年全球金融危机以来的第23百分位低位。 然而， 市场底层已出现显著裂痕 ：CCC级高收益债利差突破1200个基点，AI相关债券在过去一年多持续跑输其对应股票， 垃圾债市场更是创下",
      "source": "华尔街见闻",
      "zh": "信贷市场表里不一：7050亿美元AI债与CCC级“垃圾债”承压，优质企业独自坚挺"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月28日",
@@ -2386,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "高盛Molavi：AI拥挤交易退潮后市场“脆弱平衡”，信贷风险决定后市走向"
     },
     {
-     "title": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费",
-     "link": "https://wallstreetcn.com/articles/3786876",
-     "pubDate": "Sat, 28 Nov 2026 06:46:54 +0800",
-     "summary": "美国最重要的购物季以低迷姿态拉开帷幕。消费者普遍压缩支出、精简礼品清单，部分门店员工数量甚至超过顾客。尽管折扣力度依然可观，但价格基数上移与消费心态趋谨，使得今年黑色星期五的气氛明显不及往年。 据彭博，购物中心客流稀疏，零售商感受到明显压力。 纽约曼哈顿一家豪华购物中心内，安保人员数量多于顾客；纽约郊区多处购物中心停车位充裕；一名在芝加哥沃尔玛购物的消费者表示，她今年的节日预算从2000美元直接腰斩至1000美元。 客流监测公司Passby的数据显示， 截至美东时间下午3点30分，全美门店客流量为5.3亿人次，同比下降2%。 咨询公司Kearney美洲零售业务负责人Michael Brown表",
-     "source": "华尔街见闻",
-     "zh": "美国“黑五”购物季遇冷：消费者削减预算、缩短购物清单，折扣也难刺激消费"
-    },
-    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
@@ -2418,6 +2442,14 @@ window.INDUSTRY_DATA = {
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     },
     {
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
      "title": "SA Asks: What's the best-positioned chip stock right now?",
      "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
@@ -2434,44 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "US tech stocks rise in latest market swing"
     },
     {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
-    },
-    {
-     "title": "Trump’s Nvidia intervention has a cost for US stocks",
-     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
-     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
-     "source": "Financial Times",
-     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
+     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+     "source": "MarketWatch",
+     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
     }
    ]
   },

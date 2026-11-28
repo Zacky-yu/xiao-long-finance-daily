@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 20:11:55",
+ "generated_at": "2026/11/28 20:33:30",
  "recent_days": 7,
  "industries": [
   {
@@ -1737,6 +1737,14 @@
    "total": 18,
    "items": [
     {
+     "title": "何小鹏的物理AI野心，已经超出了汽车行业",
+     "link": "https://www.tmtpost.com/8221505.html",
+     "pubDate": "Sat, 28 Nov 2026 20:04:04 +0800",
+     "summary": "从汽车到人形机器人，小鹏押注物理AI，商业化成为下一道门槛。",
+     "source": "钛媒体",
+     "zh": "何小鹏的物理AI野心，已经超出了汽车行业"
+    },
+    {
      "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
      "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-28-26/",
      "pubDate": "Sat, 28 Nov 2026 12:02:12 +0000",
@@ -1807,14 +1815,6 @@
      "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 现代职场有一项颇为微妙的生存技能：秒回消息。 领导在工作群里布置了一项任务，事情可以慢慢做，但“收到”最好马上发出去。至于有没有理解任务、手头还有多少工作、什么时候能够完成，那是接下来需要考虑的事情。 有时候，一个人正在认真工作，反而需要停下手头的工作，回复一条消息，以证明自己正在认真工作。 类似的情形还有很多。工作已经完成，却不愿意第一个下班；会议上没有什么需要补充的，却总觉得应该说上几句；周末收到一条工作消息，明明不是什么紧急事项，还是下意识地拿起手机。 这些行为有一个共同点：它们不一定能让工作完成得更好，却能够让一个人看起来更加勤奋、积极、负",
      "source": "虎嗅",
      "zh": "当秒回消息成为一种职场表演"
-    },
-    {
-     "title": "Farewell",
-     "link": "https://github.com/p-e-w/heretic/issues/601",
-     "pubDate": "Sat, 28 Nov 2026 11:42:26 +0000",
-     "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 3 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Farewell"
     },
     {
      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
@@ -1913,14 +1913,6 @@
      "zh": "马斯克：把钱捐给非营利组织，不如直接给人们发钱"
     },
     {
-     "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
-     "link": "https://fleetlayer.ai/",
-     "pubDate": "Sat, 28 Nov 2026 08:37:09 +0000",
-     "summary": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.) Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browse",
-     "source": "Hacker News",
-     "zh": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines"
-    },
-    {
      "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
      "link": "https://www.tmtpost.com/8221371.html",
      "pubDate": "Sat, 28 Nov 2026 15:51:04 +0800",
@@ -1975,6 +1967,14 @@
      "summary": "GPSR 生效后我们在德国、法国、西班牙三个站点的详情页和素材里都加了欧盟责任人名称、地址和邮箱，结果德国站转化率从 3.1% 掉到 2.4%，法国站基本没动，西班牙站还小涨了一点。团队 6 个人，做的是小家电配件，月广告预算 1.5 万欧左右，目前是起量阶段，用 Shopify 独立站加本地平台双轨跑。已经试过把责任人信息从主图挪到详情页底部、把邮箱换成在线表单，德国站还是没回来；也找过本地翻译改文案，但不确定是不是“德国消费者看到非德语的合规说明就警惕”这个问题。现在卡在要不要按国家拆素材、还是统一一套合规话术。想直接问：GPSR 责任人信息在德国、法国、西班牙的素材里到底该怎么放，判断该",
      "source": "白鲸出海",
      "zh": "GPSR 责任人信息挂上德国站后，本地素材转化反而掉了，欧洲各国接受度差在哪？"
+    },
+    {
+     "title": "巴基斯坦 COD 单量涨了但签收率掉到 61%，投放 CPA 还能怎么压？",
+     "link": "https://www.baijing.cn/question/639029",
+     "pubDate": "Sat, 28 Nov 2026 06:33:09 +0000",
+     "summary": "拉合尔这边 3 月单量从日均 180 单冲到 420 单，可 COD 签收率从 74% 掉到 61%，等于每 10 单有 4 单退货，投放侧 CPA 从 6.2 美元涨到 9.8 美元，广告费一个月烧掉约 1.4 万美元。我们 6 个人小团队，主要跑 Meta 和 TikTok，物流用本地一家做卡拉奇—拉合尔干线的服务商，承诺 3-5 天派送，实际偏远区域经常拖到 8 天以上，客户等不及就拒收。已经试过在广告落地页加“货到付款、先验货再签收”的说明，也把偏远邮编排除出投放，签收率只回到 65%。现在卡在不知道该先换物流商还是先改投放结构，从投放成本角度看，这种情况下该优先压 CPA 还是先保签",
+     "source": "白鲸出海",
+     "zh": "巴基斯坦 COD 单量涨了但签收率掉到 61%，投放 CPA 还能怎么压？"
     }
    ]
   },
@@ -2233,6 +2233,14 @@
    "total": 13,
    "items": [
     {
+     "title": "弥合中小微融资信息差 北京有了新解法",
+     "link": "http://www.eeo.com.cn/2026/1128/1106807.shtml",
+     "pubDate": "Sat, 28 Nov 2026 20:14:20 +0800",
+     "summary": "中小微企业融资遇到的第一道难题往往不是资质，而是不知道去哪家银行尝试。如今在北京，这一难题有了新解法。",
+     "source": "经济观察网",
+     "zh": "弥合中小微融资信息差 北京有了新解法"
+    },
+    {
      "title": "广汽传祺给油混加大电池，明年连推三款新车",
      "link": "https://wallstreetcn.com/articles/3786918",
      "pubDate": "Sat, 28 Nov 2026 19:58:20 +0800",
@@ -2463,14 +2471,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
-    },
-    {
-     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     }
    ]
   },

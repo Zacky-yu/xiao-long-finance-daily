@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 14:11:48",
+ "generated_at": "2026/11/28 14:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -17,6 +17,14 @@
      "zh": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”"
     },
     {
+     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
+     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
+     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
+     "source": "KDnuggets",
+     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
+    },
+    {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
      "pubDate": "Fri, 27 Nov 2026 14:07:33 +0000",
@@ -31,6 +39,14 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
+    },
+    {
+     "title": "10 GitHub Repositories to Master AI Decision Models",
+     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
+     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
+     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
+     "source": "KDnuggets",
+     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -193,6 +209,22 @@
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
     },
     {
+     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
+     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
+     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
+     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
+     "source": "KDnuggets",
+     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
+    },
+    {
+     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
+     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
+     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
+     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
+     "source": "KDnuggets",
+     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
+    },
+    {
      "title": "SteerSound：迈向更可靠的音频编辑",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
      "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
@@ -215,38 +247,6 @@
      "summary": "打破 AI 3D 的「虚假精细」。",
      "source": "机器之心",
      "zh": "告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了"
-    },
-    {
-     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-     "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-     "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
-    },
-    {
-     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-     "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-     "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
-    },
-    {
-     "title": "GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745240&idx=3&sn=6db0d8f2621561054778cdef72220067",
-     "pubDate": "Thu, 26 Nov 2026 11:08:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "GPT-6.2正式接班！OpenAI官宣淘汰GPT-5.6"
-    },
-    {
-     "title": "震撼：OpenAI破解矩阵乘法指数，答案是9/4！连破8大世纪数学悬案",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745240&idx=2&sn=cfe1c7eee43670ea2c70f225973fef5b",
-     "pubDate": "Thu, 26 Nov 2026 11:08:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "震撼：OpenAI破解矩阵乘法指数，答案是9/4！连破8大世纪数学悬案"
     }
    ]
   },
@@ -1737,6 +1737,86 @@
    "total": 18,
    "items": [
     {
+     "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+     "link": "https://www.techmeme.com/261128/p3#a261128p3",
+     "pubDate": "Sat, 28 Nov 2026 01:45:01 -0500",
+     "summary": "John Reynolds / Tech.eu : Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ &nbsp; &mdash;&nbsp; Trustly has raised the funds from existing investors.&nbsp; &mdash;&nbsp; Swedish fintech Trust",
+     "source": "Techmeme",
+     "zh": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)"
+    },
+    {
+     "title": "GPSR 责任人信息挂上德国站后，本地素材转化反而掉了，欧洲各国接受度差在哪？",
+     "link": "https://www.baijing.cn/question/639030",
+     "pubDate": "Sat, 28 Nov 2026 06:38:13 +0000",
+     "summary": "GPSR 生效后我们在德国、法国、西班牙三个站点的详情页和素材里都加了欧盟责任人名称、地址和邮箱，结果德国站转化率从 3.1% 掉到 2.4%，法国站基本没动，西班牙站还小涨了一点。团队 6 个人，做的是小家电配件，月广告预算 1.5 万欧左右，目前是起量阶段，用 Shopify 独立站加本地平台双轨跑。已经试过把责任人信息从主图挪到详情页底部、把邮箱换成在线表单，德国站还是没回来；也找过本地翻译改文案，但不确定是不是“德国消费者看到非德语的合规说明就警惕”这个问题。现在卡在要不要按国家拆素材、还是统一一套合规话术。想直接问：GPSR 责任人信息在德国、法国、西班牙的素材里到底该怎么放，判断该",
+     "source": "白鲸出海",
+     "zh": "GPSR 责任人信息挂上德国站后，本地素材转化反而掉了，欧洲各国接受度差在哪？"
+    },
+    {
+     "title": "学会目光短浅，小心延迟满足",
+     "link": "https://www.huxiu.com/article/4909143.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 14:37:00 +0800",
+     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人，头图来自：AI生成 周末不卷，随便写点。 最近见了很多老朋友，大家聊天的时候很有趣的达成了一种共识。 要学会目光短浅，小心延迟满足。 我们从小听到的说法，都是告诉我们，不要计较当下，要着眼长线。 这句话是对的，但这里是存在前提的。 不纠结眼前利益的前提是，长期利益在自己的可控范围内。 如果长期利益需要依附别人兑现，那这个长期利益就是画饼耍猴。 要立马短期兑现。 举个例子，你在打工，你肯定会听到老板告诉你要好好干，坚持长期努力，才有一个好的将来。 那，谁掌握你【干的好不好】的定义权呢？ 很多老板讲这句话的时候，其实是暗示他才是正确的选择，所以你跟",
+     "source": "虎嗅",
+     "zh": "学会目光短浅，小心延迟满足"
+    },
+    {
+     "title": "巴基斯坦 COD 单量涨了但签收率掉到 61%，投放 CPA 还能怎么压？",
+     "link": "https://www.baijing.cn/question/639029",
+     "pubDate": "Sat, 28 Nov 2026 06:33:09 +0000",
+     "summary": "拉合尔这边 3 月单量从日均 180 单冲到 420 单，可 COD 签收率从 74% 掉到 61%，等于每 10 单有 4 单退货，投放侧 CPA 从 6.2 美元涨到 9.8 美元，广告费一个月烧掉约 1.4 万美元。我们 6 个人小团队，主要跑 Meta 和 TikTok，物流用本地一家做卡拉奇—拉合尔干线的服务商，承诺 3-5 天派送，实际偏远区域经常拖到 8 天以上，客户等不及就拒收。已经试过在广告落地页加“货到付款、先验货再签收”的说明，也把偏远邮编排除出投放，签收率只回到 65%。现在卡在不知道该先换物流商还是先改投放结构，从投放成本角度看，这种情况下该优先压 CPA 还是先保签",
+     "source": "白鲸出海",
+     "zh": "巴基斯坦 COD 单量涨了但签收率掉到 61%，投放 CPA 还能怎么压？"
+    },
+    {
+     "title": "中国手机品牌最难的一年荣耀涨得最猛",
+     "link": "https://www.huxiu.com/article/4909167.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 14:32:15 +0800",
+     "summary": "本文来自微信公众号： 冯伟冯大白 ，作者：冯大白 截至11月下旬，论今年中国手机品牌在逆风里开拓市场的势头，我会选荣耀。它一季度的出货增速在全球前十家厂商中排第一。到了市场跌得更深的三季度，荣耀在马来西亚和新加坡的排名又上了一个台阶。卖手机的人今年有个两难，内存越来越贵，维持原价，利润被挤薄，一旦涨价，顾客手里的旧手机多半还能再用一年。按Omdia的统计，三季度全球智能手机出货量同比少了两成，为2013年以来同期最低。这样一年，能在最经不起涨价的市场把货铺开，尤其考验厂商手里有什么产品、当地又有谁愿意卖。 IDC在4月公布的初步统计显示，荣耀一季度全球出货增长24%，同期大盘跌了4.1%。Om",
+     "source": "虎嗅",
+     "zh": "中国手机品牌最难的一年荣耀涨得最猛"
+    },
+    {
+     "title": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型",
+     "link": "https://www.ithome.com/1/033/843.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:25:43 GMT",
+     "summary": "IT之家 11 月 28 日消息，长城汽车 2027 款坦克 400 家族今日在 2026 广州车展上正式上市，共推出 5 款车型，售价区间为 24.98 万至 31.98 万元。 新车提供汽油、柴油、Hi4-T 和 Hi4-Z 多种动力形式，主要升级集中在智能驾驶、座舱舒适性、内外饰配色及户外拓展配置等方面。其中，Hi4-Z 车型采用 800V 高压平台。 外观方面，新车延续现款机甲风格设计，新增钛空青车身配色，全系提供 4 种外观颜色。 车身长宽高分别为 4964×1970×1905 毫米，轴距为 2850 毫米。内饰新增旭辉橙配色，共提供两种内饰颜色，车内配备 15.6 英寸中控屏、12",
+     "source": "IT之家",
+     "zh": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型"
+    },
+    {
+     "title": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+     "link": "https://www.techmeme.com/261128/p2#a261128p2",
+     "pubDate": "Sat, 28 Nov 2026 01:25:04 -0500",
+     "summary": "Eleanor Pringle / Fortune : COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five &nbsp; &mdash;&nbsp; Reddit boasts engagement metrics that would be the envy of many other online platforms: Over ",
+     "source": "Techmeme",
+     "zh": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)"
+    },
+    {
+     "title": "传奇眼镜蛇重现：福特 Mustang Cobra 名称时隔 22 年回归",
+     "link": "https://www.ithome.com/1/033/842.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:24:15 GMT",
+     "summary": "IT之家 11 月 28 日消息，汽车媒体 CarBuzz 昨日（11 月 27 日）发布博文， 报道称福特（Ford）在发布 GT41 赛车后 ，在官方随后公布的宣传视频中，出现了 Mustang Cobra 徽标，距离该名称消失已过去 22 年。 该视频由扎克 · 施奈德执导、马特 · 达蒙担任旁白，名为《Hyper Trip Go Like Hell》，回顾了福特的赛车历史，并展望其未来的赛车运动规划。 福特随后把含有徽标的片段单独剪出，发布在 Mustang 官方 Instagram 账号上，并配文称，这是为下一代 Mustang Cobra 重新设计的徽标。 IT之家援引博文介绍，C",
+     "source": "IT之家",
+     "zh": "传奇眼镜蛇重现：福特 Mustang Cobra 名称时隔 22 年回归"
+    },
+    {
+     "title": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？",
+     "link": "https://www.baijing.cn/question/639028",
+     "pubDate": "Sat, 28 Nov 2026 06:22:00 +0000",
+     "summary": "我们做汽车线束配件，去年开始在墨西哥新莱昂州找本地代工做近岸外包，团队一共3个人，一个人兼采购和跟单，月均出货约40个柜。最近连续两批货因为供应商原材料到货延迟，交期从35天拖到70天，客户罚款条款已经触发。试过用共享表格加WhatsApp群同步进度，但时差和西语沟通跟不上，关键节点全靠对方口头反馈。现在卡在要不要加人常驻当地，还是先上一套轻量供应链协同工具把排期可视化。3个人的运营节奏下，你们判断该先补人力还是先补系统？",
+     "source": "白鲸出海",
+     "zh": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？"
+    },
+    {
+     "title": "肯尼亚买量素材点击率只有1.2%，本地化到底该改哪里？",
+     "link": "https://www.baijing.cn/question/639027",
+     "pubDate": "Sat, 28 Nov 2026 06:15:49 +0000",
+     "summary": "我们在内罗毕做一款中轻度SLG手游，团队6个人，起量阶段月买量预算大概1.5万美元，主要在Google Ads和Meta投肯尼亚、尼日利亚两个市场。同样的素材，尼日利亚CPI约0.18美元、点击率2.6%，肯尼亚点击率只有1.2%、CPI反而到0.31美元。素材是英文配音加欧美卡通画风，试过把文案换成斯瓦希里语短句、加了当地M-Pesa充值场景的截图，点击率只涨了0.1个百分点。也试过找本地小网红拍15秒实拍，量太小跑不动。现在卡在不知道该优先改美术风格、配音口音还是卖点表达，想问问有肯尼亚投放经验的同行，判断素材本地化是否到位，你们看的是哪几个具体指标？",
+     "source": "白鲸出海",
+     "zh": "肯尼亚买量素材点击率只有1.2%，本地化到底该改哪里？"
+    },
+    {
      "title": "TikTok Shop 巴西站达人佣金压到多少，备货和退货才不亏？",
      "link": "https://www.baijing.cn/question/639026",
      "pubDate": "Sat, 28 Nov 2026 06:02:44 +0000",
@@ -1849,22 +1929,6 @@
      "zh": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100"
     },
     {
-     "title": "冬天会让人变抑郁、迟钝吗？研究发现，答案可能和你想的不一样",
-     "link": "https://www.huxiu.com/article/4909161.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 13:43:27 +0800",
-     "summary": "本文来自微信公众号： 神经现实 ，作者：Tim Brennen 当白昼变短时我们都会感到情绪低落？熬过冬天真的很难？又或许……我们只是受到了社交媒体的暗示？每一年，大众媒体上都会有文章说，随着白昼变短、黑夜变长，我们可以预见到自己会觉得悲伤和不安。诸如“冬季大脑：为什么我们在冬季感到悲伤和疲惫？”和“你在冬季感到抑郁的实际理由”这样的标题会出现在我们眼前。 我们的大脑和情绪受冬季影响这一观点，于20世纪80年代首次由美国生物精神病学家提供科学依据[1]。这种情况如今被称为季节性情感障碍（seasonal affective disorder），简称SAD。据报道，被诊断为季节性情感障碍的人会在",
-     "source": "虎嗅",
-     "zh": "冬天会让人变抑郁、迟钝吗？研究发现，答案可能和你想的不一样"
-    },
-    {
-     "title": "巴西墨西哥支付失败率居高不下，备货和退货该怎么算？",
-     "link": "https://www.baijing.cn/question/639024",
-     "pubDate": "Sat, 28 Nov 2026 05:42:41 +0000",
-     "summary": "我们做拉美市场独立站，主卖手机配件，团队8人，月流水约15万美元，巴西和墨西哥各占四成。用Mercado Pago和本地信用卡收单，巴西分期付款订单占六成，但近两个月支付失败率从12%涨到21%，拒付后客户直接弃单，货已经备在圣保罗海外仓，滞销库存压了约4000件。试过换收单通道、加装3DS验证，失败率只降了3个点。现在纠结备货节奏要不要按支付成功率打折来排产，退货产生的二次物流成本又该摊到定价里还是算进营销费，想请教有拉美本地收单经验的同行，这个账到底怎么算才不亏？",
-     "source": "白鲸出海",
-     "zh": "巴西墨西哥支付失败率居高不下，备货和退货该怎么算？"
-    },
-    {
      "title": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名",
      "link": "https://www.ithome.com/1/033/840.htm",
      "pubDate": "Sat, 28 Nov 2026 05:39:42 GMT",
@@ -1889,60 +1953,12 @@
      "zh": "美国 ITC 认定三星侵犯日企 Maxell 相机专利，Galaxy S25 系列在美或遭进口禁令"
     },
     {
-     "title": "18只主动ETF上市首周：17只收涨，有的重仓科技股，散户“抄作业”或存较大误差",
-     "link": "https://www.huxiu.com/article/4909160.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 13:28:56 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，作者：谢怡雯，编辑：习昂，原文标题：《18只主动ETF上市首周：17只收涨，有的重仓科技股！散户“抄作业”或存较大误差》 本周，首批18只主动ETF已经登陆A股上市交易。 据Wind统计，上市首周，18只主动ETF中有17只实现上涨，其中永赢景气均衡、华宝均衡精选、摩根大盘成长、国泰鑫汇均衡收益4只涨幅居前，周涨幅均超过4%。时代周报记者注意到，上述主动ETF的重仓股中出现了寒武纪、中际旭创等多只热门科技股。 从持仓数量来看，采用量化策略的主动ETF产品持股数量普遍远高于采用主观策略的产品，其中汇添富均衡智选的持股数量达到480只，而采用主观策略的主动ETF普",
-     "source": "虎嗅",
-     "zh": "18只主动ETF上市首周：17只收涨，有的重仓科技股，散户“抄作业”或存较大误差"
-    },
-    {
      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
      "link": "https://www.tmtpost.com/8221323.html",
      "pubDate": "Sat, 28 Nov 2026 13:26:50 +0800",
      "summary": "建成AI Native原生组织，将是下一阶段行业竞争、产业变革的核心关键。",
      "source": "钛媒体",
      "zh": "蔚来开始用AI改造自己，这笔经济账怎么算？"
-    },
-    {
-     "title": "英伟达掏 2.9 亿美元，了结历时 8 年的挖矿显卡官司",
-     "link": "https://www.ithome.com/1/033/835.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:20:45 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）发布博文， 报道称英伟达同意支付 2.9 亿美元 （IT之家注：现汇率约合 19.35 亿元人民币） 和解金，以了结一起历时 8 年的证券集体诉讼。 投资者指控该公司在 2018 年加密货币挖矿热潮期间，误导股东对其游戏业务收入中挖矿需求实际占比的判断。 英伟达在和解中并未承认存在不当行为。 IT之家援引博文介绍，2017 年至 2018 年是加密货币挖矿最为猖獗的时期之一。大量黄牛抢购 2017 年初发布的 Pascal 架构 GTX 1000 系列显卡，零售游戏显卡一度十分紧缺。同年，英伟达",
-     "source": "IT之家",
-     "zh": "英伟达掏 2.9 亿美元，了结历时 8 年的挖矿显卡官司"
-    },
-    {
-     "title": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？",
-     "link": "https://www.baijing.cn/question/639023",
-     "pubDate": "Sat, 28 Nov 2026 05:18:34 +0000",
-     "summary": "我们在达卡做本地化小家电，主推电风扇和净水器滤芯，团队8人，月GMV约12万美元，刚起量阶段。收款接的是本地钱包bKash和Nagad，加一个国际卡通道，但最近两个月卡通道拒付率到了6.8%，bKash回调成功率也只有九成出头，客服每天要手动核对几十笔失败订单。备货上我们按国内经验一次压了45天库存，结果退货率冲到11%，达卡仓里堆了三百多台滞销风扇。已经试过换通道商、缩短结算周期，卡在不知道是先把备货周期压到20天还是先换支付服务商。这两件事的先后顺序怎么判断？",
-     "source": "白鲸出海",
-     "zh": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？"
-    },
-    {
-     "title": "小米 18 标准版开放预约，预计下周官宣预热",
-     "link": "https://www.ithome.com/1/033/834.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:13:49 GMT",
-     "summary": "IT之家 11 月 28 日消息，小米官方今日已经在小米商城、京东、天猫等平台开启小米 18 标准版（M261DB）的预约活动，但未透露任何有价值信息。结合此前爆料，小米 18 标准版预计在 12 月发布，有望在下周官宣并开启预热宣传。 京东 Xiaomi 18 手机即将发布 0 元预约赢新品手机 5G 手机 旗舰手机 新品上市 待公布 直达链接 实际上，小米 18 标准版的预约活动早在 11 月 20 日前后就已在部分门店启动。 按照小米官方介绍，小米商城 9.9 元预约可享价值 399 元的 365 天只换不修服务（若未购机，9.9 元订金将在 2026 年 12 月 30 日前自动原路退",
-     "source": "IT之家",
-     "zh": "小米 18 标准版开放预约，预计下周官宣预热"
-    },
-    {
-     "title": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？",
-     "link": "https://www.baijing.cn/question/639022",
-     "pubDate": "Sat, 28 Nov 2026 04:58:29 +0000",
-     "summary": "我们做的是工具类应用，团队8人，主攻印度市场，刚上线阶段。上周Google Play印度区审核连续被拒两次，第一次说截图里出现的手势在当地有冒犯风险，第二次说描述文案里的一个词在印地语语境下含义不当。我们试过把截图换成纯功能展示、去掉所有人物元素，文案也找本地人润色过一轮，但不确定审核方到底按什么标准判断。目前月推广预算大概3000美元，不敢大规模投。想直接问：印度区应用商店对素材的文化敏感度审核，有没有相对明确的判断标准，还是只能反复试错？",
-     "source": "白鲸出海",
-     "zh": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？"
-    },
-    {
-     "title": "GPSR 标签合规，两个人怎么排期才赶得上？",
-     "link": "https://www.baijing.cn/question/639021",
-     "pubDate": "Sat, 28 Nov 2026 04:33:13 +0000",
-     "summary": "我们做欧洲站家居收纳，德国、法国、西班牙三个站点，团队一共两个人，一个管供应链一个管运营。GPSR 生效后，每个 SKU 都要补欧盟负责人信息和警示标签，我们 80 多个在售 SKU，光核对现有包装上的信息就花了三周，现在还有 40 多个没改完。试过让工厂直接印新标签，但德国站和法国站的负责人信息不一样，工厂说混单容易出错，要求分批做，排期又往后拖了两周。卡在人力上：两个人既要盯日常运营又要盯合规改版，根本排不开。像我们这种小团队，是先把主力 SKU 改完、长尾款直接下架，还是硬着头皮全量改？",
-     "source": "白鲸出海",
-     "zh": "GPSR 标签合规，两个人怎么排期才赶得上？"
     },
     {
      "title": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
@@ -1956,25 +1972,9 @@
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 104 # Comments: 7",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 128 # Comments: 9",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
-    },
-    {
-     "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
-     "link": "https://www.tmtpost.com/8221273.html",
-     "pubDate": "Sat, 28 Nov 2026 11:17:25 +0800",
-     "summary": "一场还没有完全出现在报表里的利润挤压。",
-     "source": "钛媒体",
-     "zh": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么"
-    },
-    {
-     "title": "《复联5》要来救市了",
-     "link": "https://www.tmtpost.com/8221005.html",
-     "pubDate": "Sat, 28 Nov 2026 11:03:00 +0800",
-     "summary": "《复仇者联盟》依然是最强IP。",
-     "source": "钛媒体",
-     "zh": "《复联5》要来救市了"
     }
    ]
   },
@@ -1984,6 +1984,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung is working on Vision mode and Auto portrait for its Camera app",
+     "link": "https://www.gsmarena.com/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679.php",
+     "pubDate": "Sat, 28 Nov 2026 07:07:02 +0100",
+     "summary": "Samsung recently launched the One UI 9.5 beta for the Galaxy S26 series. Today some strings in that software point to two new Camera app features in the works, called Vision mode and Auto portrait. Vision would be a new mode sitting alongside Photo, Video, and the rest. It appears to show an AI-writ",
+     "source": "GSMArena",
+     "zh": "Samsung is working on Vision mode and Auto portrait for its Camera app"
+    },
     {
      "title": "「黑五」值得买：不容错过的数码硬件优惠",
      "link": "https://sspai.com/post/119651",
@@ -2215,14 +2223,6 @@
      "summary": "Just because you can doesn’t mean you should.",
      "source": "Android Authority",
      "zh": "YouTube’s latest mobile redesign lets you like videos without opening them"
-    },
-    {
-     "title": "TCL teams up with Rebel in the UK to make a social media-less kids phone",
-     "link": "https://www.gsmarena.com/tcl_teams_up_with_rebel_in_the_uk_to_make_a_social_medialess_kids_phone-news-75672.php",
-     "pubDate": "Fri, 27 Nov 2026 19:31:02 +0100",
-     "summary": "UK carrier Rebel has partnered with TCL to create the Rebel Phone for Kids, a rebranded TCL K70 5G. But instead of running Android with enabled parental controls, the Rebel Phone for Kids runs RebelOS and specifically restricts installing social media apps and has strict control over internet browsi",
-     "source": "GSMArena",
-     "zh": "TCL teams up with Rebel in the UK to make a social media-less kids phone"
     }
    ]
   },
@@ -2232,6 +2232,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "“智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？",
+     "link": "https://wallstreetcn.com/articles/3786902",
+     "pubDate": "Sat, 28 Nov 2026 14:43:43 +0800",
+     "summary": "《黑神话：悟空》制作人、游戏科学创始人冯骥的一篇8000字长文，将一场关于AI时代财富分配的深层追问推至公众视野。在他看来， 这轮AI革命的破坏性远超历次工业革命——不是因为它消灭了某类岗位，而是因为它第一次让智力本身脱离了肉身，从劳动要素变成了可按度计费、无限复制的资本要素。 11月27日，冯骥在个人公众号\"冯骥Yocar\"发表《后AI时代最重要的问题》，文章迅速在社交媒体刷屏。他在文中指出， 当资本可以\"直接拿电费去批发智力\"，普通人出售工时的议价基础便从根子上动摇了。在文娱行业，这一冲击将表现为超级IP赢家通吃与腰部从业者利润消失的双重极化。 针对财富分配问题，冯骥提出了他的主张： AI",
+     "source": "华尔街见闻",
+     "zh": "“智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？"
+    },
+    {
+     "title": "标普下调法国评级展望至负面：经济衰退、赤字高企、政局动荡三座大山压顶",
+     "link": "https://wallstreetcn.com/articles/3786903",
+     "pubDate": "Sat, 28 Nov 2026 14:36:00 +0800",
+     "summary": "法国正面临多重压力叠加的艰难局面。评级机构标普周五将法国信用评级展望由稳定下调至负面，警告这一欧元区第二大经济体在政治动荡与增长乏力的双重夹击下，可能难以有效压缩庞大的财政赤字。 标普维持法国A+的主权信用评级不变，但措辞明确指向下行风险。该机构表示，“持续的政治极化——包括2027年总统大选之后——可能继续制约削减赤字措施和提振增长改革的落实。”法国经济部长Roland Lescure随后回应称，此次评级展望调整\"凸显了尽快为法国制定一份负责任预算的迫切必要性\"，并重申政府将把赤字压降至不超过GDP的5%。 此次下调带来的市场压力不可小觑。法国10年期国债收益率上月一度升至2002年以来高点",
+     "source": "华尔街见闻",
+     "zh": "标普下调法国评级展望至负面：经济衰退、赤字高企、政局动荡三座大山压顶"
+    },
     {
      "title": "金科股份控股股东被证监会立案调查",
      "link": "http://www.eeo.com.cn/2026/1128/1106333.shtml",
@@ -2249,20 +2265,20 @@
      "zh": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开"
     },
     {
-     "title": "成立14个月估值涨逾9倍，这家LPU创企收获第三家上市公司股东",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942360821.html",
-     "pubDate": "Sat, 28 Nov 2026 13:55:37 +0800",
-     "summary": "《科创板日报》11月28日讯（记者 杨小小） 继 星宸科技 （301536.SZ）、 智微智能 （001339.SZ）之后，推理芯片公司 元川微 的新一轮融资，又出现了上市公司的身影。 新智认知（603869.SH，证券简称 ST智知 ）11月25日晚披露，公司旗下基金拟与新奥资本参与的基金共同投资杭州元川微科技有限公司。两家基金各出资约3000万元，通过专项投资主体合计投资 6000万元 ，取得元川微Pre-A+轮增资后1.25%的股权。 据此测算，元川微本轮投后估值为 48亿元 。 新智认知与新奥资本同属新奥系。此次公告披露的是双方联合参与的一笔投资，元川微Pre-A+轮的完整规模尚未在该",
-     "source": "东方财富股票",
-     "zh": "成立14个月估值涨逾9倍，这家LPU创企收获第三家上市公司股东"
+     "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+     "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+     "pubDate": "Sat, 28 Nov 2026 06:00:01 GMT",
+     "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+     "source": "CNBC",
+     "zh": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure"
     },
     {
-     "title": "这两家公司获百余家机构密集调研",
-     "link": "http://finance.eastmoney.com/news/11158,202611283942360724.html",
-     "pubDate": "Sat, 28 Nov 2026 13:53:32 +0800",
-     "summary": "Choice数据统计，近两周已有 351家A股上市公司获机构投资者调研 。其中， 微导纳米 、 盛美上海 两家公司获百余家机构 密集调研 。 数据来源：Choice 机构调研个股排名 近两周，机构投资者调研的上市公司中，共两家公司接待调研机构家数超100家。获机构调研最多的是 微导纳米 ，调研机构家数 142家 ，参与调研的机构包括42家券商、44家基金、18家私募和5家保险等； 盛美上海 获 130家 机构调研。 此外， 乐鑫科技 、 TCL中环 、 恺英网络 、奥比中光获80家以上机构调研。 数据来源：Choice 机构调研行业分布 近两周，机构调研量最多的行业是 电子 设备 ，累计调研量",
-     "source": "东方财富股票",
-     "zh": "这两家公司获百余家机构密集调研"
+     "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+     "link": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+     "pubDate": "Sat, 28 Nov 2026 06:00:01 GMT",
+     "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+     "source": "CNBC",
+     "zh": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO"
     },
     {
      "title": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可",
@@ -2273,60 +2289,12 @@
      "zh": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可"
     },
     {
-     "title": "数据确认：法国已陷入经济衰退",
-     "link": "http://finance.eastmoney.com/news/1352,202611283942360424.html",
-     "pubDate": "Sat, 28 Nov 2026 13:49:00 +0800",
-     "summary": "据法新社、法国国际广播电台（RFI）等法媒报道，根据法国国家统计与经济研究所27日公布的数据， 法国经济自第二季度起已陷入衰退 ，今年三个季度的经济表现低于预期。 法国国家统计与经济研究所在详细报告中宣布，作为衡量经济活动及创造财富指标的国内生产总值（GDP），在第二季度持平、第一季度下降0.2%之后， 第三季度又下降了0.2% 。 法国国家统计机构提供的最新详细数据显示，法国自第二季度起已陷入所谓的“技术性”轻微衰退，其特征是国内生产总值连续两个季度下滑。 数据显示，相比2025年第四季度的6657亿欧元，法国今年前三季度的国内生产总值分别为6644亿欧元、6642亿欧元、6626亿欧元。 ",
-     "source": "东方财富股票",
-     "zh": "数据确认：法国已陷入经济衰退"
-    },
-    {
-     "title": "鑫科材料：XKC70385产品研发取得关键阶段性突破",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942359932.html",
-     "pubDate": "Sat, 28 Nov 2026 13:48:00 +0800",
-     "summary": "据 鑫科材料 消息，面向AI算力中心与 新能源 汽车 行业对高端连接器用高强高导、抗应力松弛、无铍 环保 材料的迫切需求，公司成功开发出具有自主 知识产权 的 铜 镍 硅 钴 系合金XKC70385，并获授权发明专利“一种高强度耐高温 铜 合金带材及其在AI算力中心的应用”。该产品在性能与工程化应用上取得关键阶段性突破，为AI连接器材料国产化与差异化布局提供了有力支撑。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "鑫科材料：XKC70385产品研发取得关键阶段性突破"
-    },
-    {
-     "title": "《AIGC内容生产行业自律公约》发布",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942359362.html",
-     "pubDate": "Sat, 28 Nov 2026 13:45:51 +0800",
-     "summary": "在2026中国文化产业发展大会上，《AIGC内容生产行业自律公约》正式发布。《公约》引导市场主体在拥抱技术创新的同时，坚守价值导向，严守版权保护底线，厘清人机创作边界，防范技术滥用风险。 中国民营文化产业商会会长吴建荣表示，在积极拥抱AI技术的同时，我们也需要推动相关法律法规和行业规范的完善，进一步明确原创作品的 知识产权 归属、使用边界及利益分配机制，让原创者的价值得到充分尊重和合理回报。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "《AIGC内容生产行业自律公约》发布"
-    },
-    {
-     "title": "钴价连续上涨 后续走势如何？",
-     "link": "http://stock.eastmoney.com/news/11219,202611283942359233.html",
-     "pubDate": "Sat, 28 Nov 2026 13:45:22 +0800",
-     "summary": "周内 钴 价连续上涨，截至11月27日结束，中联金 钴 价报34.9万元/吨，较刚果（金）“禁令”出台前涨近9万元/吨，不到一周 涨幅超34% 。 11月23日，刚果（金）战略矿产市场监管局（ARECOMS）宣布，自11月30日起 暂停全部 钴 出口 ，恢复时间另行通知。刚果（金）是全球第一大钴生产国，2025年其钴产量占全球的74.2%。 上证报记者采访获悉，刚果（金）钴出口政策调整背景下，当地矿企仍维持生产，只是货源在境内堆积；国内钴盐端库存或率先承压。钴价短期具备上行动力，但其供需格局的重要变量在于后续需求能否回暖。 最强政策工具“重出江湖” 这并非刚果（金）首次动用钴出口暂停这一调控工",
-     "source": "东方财富股票",
-     "zh": "钴价连续上涨 后续走势如何？"
-    },
-    {
      "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
      "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
      "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
      "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
      "source": "经济观察网",
      "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
-    },
-    {
-     "title": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年",
-     "link": "http://hk.eastmoney.com/news/11223,202611283942355888.html",
-     "pubDate": "Sat, 28 Nov 2026 13:16:59 +0800",
-     "summary": "美团称外卖行业已经迎来拐点。 11月27日，美团（03690.HK）发布了2026年第三季度业绩报告。三季度，美团实现 收入1156亿元，同比增长21.6% 。 净利润为20.7亿元 ，去年同期净亏损为186亿元，实现扭亏为盈。 分业务看，核心本地商业分部三季度收入同比增长16.8%至783亿元。其中商家服务的收入增长8.2%，主要受交易金额增加及线上营销活跃商家数量增加所带动。与自营品类如药品和酒类相关的商品销售收入增加至43亿元，同比增长75.8%。 美团CEO王兴表示，在今年三季度， 外卖行业迎来拐点 ，有三个信号：客单价（AOV）同比明显回升；低价订单占比环比持续下降；行业补贴趋于理性",
-     "source": "东方财富资讯",
-     "zh": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年"
-    },
-    {
-     "title": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942356774.html",
-     "pubDate": "Sat, 28 Nov 2026 13:13:27 +0800",
-     "summary": "奶茶赛道有段时间未打价格战，作为“初代网红新茶饮”的乐乐茶打破了这种平静。 据乐乐茶官方账号发布，为庆祝品牌十周年，自11月27日起上线全新价格： 小程序全线产品调价30% ，12.9元就能喝到招牌产品。 品牌海报显示，多款招牌产品售价集中在 5.9-13.9元 左右，实际降幅约在39-65%。比如，最便宜的柠檬水从17元降到5.9元一杯，招牌产品黑糖波霸脏脏茶则从原价23元调整为12.9元起。 这一调价力度，放在行业里也是较为“激进”的。至此，乐乐茶主力产品已落入 古茗 、 茶百道 、CoCo等同行长期争夺的价格带。社交平台上，甚至有网友称“乐乐茶价格快追上蜜雪”，也有人调侃品牌如此降价“日",
-     "source": "东方财富资讯",
-     "zh": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零"
     },
     {
      "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
@@ -2337,20 +2305,12 @@
      "zh": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元"
     },
     {
-     "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
-     "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:41 GMT",
-     "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+     "title": "The mathematicians living through an AI revolution",
+     "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
+     "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
      "source": "Financial Times",
-     "zh": "Iran hitting same ships twice to deter traffic from Strait of Hormuz"
-    },
-    {
-     "title": "US military repelled drones at RAF base",
-     "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:41 GMT",
-     "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
-     "source": "Financial Times",
-     "zh": "US military repelled drones at RAF base"
+     "zh": "The mathematicians living through an AI revolution"
     },
     {
      "title": "‘Only in America’ and other good lies",
@@ -2393,30 +2353,6 @@
      "zh": "11月沪牌拍卖结果出炉"
     },
     {
-     "title": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）",
-     "link": "http://stock.eastmoney.com/news/11622,202611283942357559.html",
-     "pubDate": "Sat, 28 Nov 2026 12:44:33 +0800",
-     "summary": "本周主要股指集体反弹，沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 。 行业主题上看， 机器人 相关ETF被资金看好，而 半导体 、金融、 煤炭 相关ETF被资金抛售。 超840亿元资金借道ETF进场 本周沪深两市成交7.91万亿元，其中沪市成交3.71万亿元，深市成交4.2万亿元。截至最新收盘，沪指报收于3606.49点，全周上涨2.06%，深证成指报收于10814.02点，全周上涨5.44%。 Wind数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 ，宽基指数ETF净流入1056亿元，行业主题ETF净流出117亿元。 细分来看，主要宽基指数整",
-     "source": "东方财富资讯",
-     "zh": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）"
-    },
-    {
-     "title": "葛卫东卖了10万股中材科技",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942353196.html",
-     "pubDate": "Sat, 28 Nov 2026 12:18:21 +0800",
-     "summary": "11月27日晚间， 中材科技 （002080）发布回购股份事项前十名股东和前十名无限售条件股东持股情况。公告显示，截至11月24日，知名投资人 葛卫东 位列公司第三大股东，持股数量为1721.48万股，占公司总股份的0.98%。 与截至11月13日的1731.48万股持股数量相比，葛卫东在短短7个交易日内小幅 减持了10万股 。而葛卫东关联人王萍在此期间一股未卖，仍以802.2万股的持仓量位列第五大股东。 11月27日， 中材科技 涨停 ，报收33.07元/股，总市值约为584亿元。 从股价表现来看，进入三季度， 中材科技 股价快速下跌，截至11月27日，公司股价较年内高点 回撤幅度高达68%",
-     "source": "东方财富资讯",
-     "zh": "葛卫东卖了10万股中材科技"
-    },
-    {
-     "title": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元",
-     "link": "http://finance.eastmoney.com/news/11158,202611283942351772.html",
-     "pubDate": "Sat, 28 Nov 2026 12:14:07 +0800",
-     "summary": "“华尔街狼王”正遭遇职业生涯最严峻的一段时期。 彭博亿万富翁指数最新显示，卡尔·伊坎（Carl Icahn）个人净资产于上周五跌至 12亿美元 ，为彭博2012年开始追踪其财富以来的最低点，过去五年累计缩水约 210亿美元 （约合人民币1401.477亿元）。 伊坎企业 （Icahn Enterprises，IEP）今年已 下跌超50% 。IEP部分2029年到期债券 收益率突破30% ，公司整体债务规模约 44亿美元 。与此同时，IEP旗下核心资产CVR Energy股价本月已累计 下跌超40% 。 市场对伊坎的担忧由来已久。2023年，做空机构兴登堡（Hindenburg Research",
-     "source": "东方财富资讯",
-     "zh": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元"
-    },
-    {
      "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
      "link": "https://wallstreetcn.com/articles/3786895",
      "pubDate": "Sat, 28 Nov 2026 11:55:29 +0800",
@@ -2441,22 +2377,6 @@
      "zh": "全球大救市，独缺美联储"
     },
     {
-     "title": "AI威胁日益加剧！大规模网络故障席卷西方，OpenAI视为比编程更大市场",
-     "link": "https://wallstreetcn.com/articles/3786889",
-     "pubDate": "Sat, 28 Nov 2026 10:42:31 +0800",
-     "summary": "一连串高规格网络事件与系统中断正密集冲击欧美核心公共部门与商业机构，暴露出老旧数字基础设施在人工智能时代面临的严峻脆弱性，并直接催生了人工智能巨头对网络安全商业化的激烈争夺。 11月27日，据英国《金融时报》报道， 英国政府周五被迫将其大部分社会福利系统下线 ，成为横跨美欧关键基础设施最新暴露出的安全短板。 此前一周内，美国财政部、美国中央情报局（CIA）以及国际足联（Fifa）等机构接连卷入网络入侵与服务中断风波。 这一轮密集爆发的停摆与数据泄露，已在跨大西洋两岸引发对黑客攻击升级的广泛担忧，并迅速转化为科技巨头的商业风口。 据The Information报道， OpenAI联合创始人兼总",
-     "source": "华尔街见闻",
-     "zh": "AI威胁日益加剧！大规模网络故障席卷西方，OpenAI视为比编程更大市场"
-    },
-    {
-     "title": "特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”",
-     "link": "https://wallstreetcn.com/articles/3786888",
-     "pubDate": "Sat, 28 Nov 2026 10:03:35 +0800",
-     "summary": "华盛顿本周向市场发出了一个清晰信号：美国将不惜一切代价赢得人工智能竞赛，联邦政府已准备好直接介入。这一信号点燃了华尔街感恩节周的疯狂行情，也将美国股市的命运与一家公司、一个人紧紧绑在了一起。 特朗普亲自致电英伟达董事会，促成了黄仁勋的复职。消息公布后，英伟达股价单日飙升31.5%，市值暴增约9520亿美元，刷新史上单日最大市值增幅纪录。标普500指数当日上涨4.7%，纳斯达克100指数劲升6.9%，均创下自2025年4月9日关税暂停以来的最强单日表现。尽管此后市场剧烈震荡，纳斯达克100一度短暂跌入熊市区间，标普500也跌破其200日均线，但在感恩节假期前后市场完成惊险逆转，本周累计涨幅达5%",
-     "source": "华尔街见闻",
-     "zh": "特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”"
-    },
-    {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
@@ -2471,6 +2391,86 @@
      "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
      "source": "MarketWatch",
      "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+     "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
+     "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+     "source": "CNBC",
+     "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
+    },
+    {
+     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
+    },
+    {
+     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
+    },
+    {
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
+     "title": "SA Asks: What's the best-positioned chip stock right now?",
+     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best-positioned chip stock right now?"
+    },
+    {
+     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
+     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+     "source": "MarketWatch",
+     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
+    },
+    {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
+    },
+    {
+     "title": "Energy Fuels gains 11% as peers and the broader market rise",
+     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
     }
    ]
   },

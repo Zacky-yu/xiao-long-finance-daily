@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 15:51:48",
+ "generated_at": "2026/11/28 16:11:50",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,54 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Column: Beyond lithium and rare earths, fluorspar is a hidden chokepoint for chip production",
+     "link": "https://www.digitimes.com/news/a20261127PD209/lithium-production-cobalt-materials-gallium.html",
+     "pubDate": "Sat, 28 Nov 2026 07:20:57 GMT",
+     "summary": "Debate over critical minerals has centered on metals and metalloids such as lithium, cobalt, rare earths, graphite, gallium, and germanium, as if geopolitical rivalry played out only in battery electrodes and chip epitaxial materials. A less visible but equally fragile supply chain sits behind semic",
+     "source": "DIGITIMES",
+     "zh": "Column: Beyond lithium and rare earths, fluorspar is a hidden chokepoint for chip production"
+    },
+    {
+     "title": "PCB supply risks may rival chip shortages, threatening next wave of AI and electronics growth",
+     "link": "https://www.digitimes.com/news/a20261127PD226/pcb-demand-supply-chain-capacity-medical.html",
+     "pubDate": "Sat, 28 Nov 2026 07:20:38 GMT",
+     "summary": "The Global Electronics Association says shortages across the printed circuit board supply chain are intensifying, with companies in the automotive, industrial, medical, and telecommunications sectors reporting that surging AI demand is consuming limited capacity. The resulting extended lead times an",
+     "source": "DIGITIMES",
+     "zh": "PCB supply risks may rival chip shortages, threatening next wave of AI and electronics growth"
+    },
+    {
+     "title": "Nvidia's Southeast Asia shipment freeze tests Taiwan's AI-server manufacturing hedge",
+     "link": "https://www.digitimes.com/news/a20261127VL214/ai-server-capacity-manufacturing-regulation-nvidia-taiwan.html",
+     "pubDate": "Sat, 28 Nov 2026 07:20:01 GMT",
+     "summary": "For Taiwan's AI-server manufacturers, Southeast Asia has long represented an industrial hedge against the geopolitical uncertainties surrounding US-China technological competition.",
+     "source": "DIGITIMES",
+     "zh": "Nvidia's Southeast Asia shipment freeze tests Taiwan's AI-server manufacturing hedge"
+    },
+    {
+     "title": "Samsung, SK Hynix pursue different DRAM designs",
+     "link": "https://www.digitimes.com/news/a20261127VL215/samsung-dram-sk-hynix-data-production.html",
+     "pubDate": "Sat, 28 Nov 2026 07:19:27 GMT",
+     "summary": "Samsung Electronics and SK Hynix are pursuing different approaches to increasing DRAM density as the capacitors used to store data become harder to shrink. Samsung is developing vertically stacked memory cells, while SK Hynix is testing a design that eliminates the capacitor altogether.",
+     "source": "DIGITIMES",
+     "zh": "Samsung, SK Hynix pursue different DRAM designs"
+    },
+    {
+     "title": "Samsung hesitates to take on Nvidia in robot chips",
+     "link": "https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html",
+     "pubDate": "Sat, 28 Nov 2026 07:19:12 GMT",
+     "summary": "South Korea asked Samsung Electronics in October to develop a domestic alternative to Nvidia's Jetson Thor robotics computing platform, but the chipmaker expressed reservations over market demand, South Korean broadcaster MTN reported, citing a government official.",
+     "source": "DIGITIMES",
+     "zh": "Samsung hesitates to take on Nvidia in robot chips"
+    },
+    {
+     "title": "LG AI Research targets data and model bottlenecks in smart manufacturing",
+     "link": "https://www.digitimes.com/news/a20261126PD233/data-lg-adoption-manufacturing-materials.html",
+     "pubDate": "Sat, 28 Nov 2026 07:18:59 GMT",
+     "summary": "LG AI Research is automating data preparation, building expert foundation models, and setting up an autonomous laboratory to ease the burden on companies that want to deploy AI and keep using it, particularly in manufacturing.",
+     "source": "DIGITIMES",
+     "zh": "LG AI Research targets data and model bottlenecks in smart manufacturing"
+    },
+    {
      "title": "GTA: Grand Three Assumptions",
      "link": "https://www.eetimes.com/gta-grand-three-assumptions/",
      "pubDate": "Sat, 28 Nov 2026 02:00:00 +0000",
@@ -272,14 +320,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands. The post Penguin Revives Retired DDR4 for AI Servers appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Penguin Revives Retired DDR4 for AI Servers"
-    },
-    {
-     "title": "Tekscend sees mold supply as key hurdle for AR glasses production",
-     "link": "https://www.digitimes.com/news/a20261120VL222/nanoimprint-component-ar-glasses-production-manufacturing.html",
-     "pubDate": "Fri, 27 Nov 2026 17:36:00 GMT",
-     "summary": "Optical component makers preparing to use nanoimprint technology for augmented reality (AR) glasses are struggling to find suitable master molds, according to Japan's Tekscend Photomask.",
-     "source": "DIGITIMES",
-     "zh": "Tekscend sees mold supply as key hurdle for AR glasses production"
     },
     {
      "title": "TSMC Reveals Details of A14 Manufacturing Compared to N2P",
@@ -362,52 +402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
-     "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
-     "link": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
-     "pubDate": "Fri, 27 Nov 2026 09:20:19 GMT",
-     "summary": "China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this ",
-     "source": "DIGITIMES",
-     "zh": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame"
-    },
-    {
-     "title": "Dutch tool maker Trymax deepens Japan push with Kanematsu PWS",
-     "link": "https://www.digitimes.com/news/a20261127VL216/dutch-automotive-equipment-investment-japan-production.html",
-     "pubDate": "Fri, 27 Nov 2026 09:11:21 GMT",
-     "summary": "Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak.",
-     "source": "DIGITIMES",
-     "zh": "Dutch tool maker Trymax deepens Japan push with Kanematsu PWS"
-    },
-    {
-     "title": "AI cooling will progress toward removal of thermal interface materials, says Jentech president",
-     "link": "https://www.digitimes.com/news/a20261127PD224/jentech-precision-cooling-materials-2027.html",
-     "pubDate": "Fri, 27 Nov 2026 09:03:45 GMT",
-     "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of",
-     "source": "DIGITIMES",
-     "zh": "AI cooling will progress toward removal of thermal interface materials, says Jentech president"
-    },
-    {
      "title": "Huawei’s Next Big AI Move: HBM Workaround",
      "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
      "pubDate": "Fri, 27 Nov 2026 08:56:46 +0000",
      "summary": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year. The post Huawei’s Next Big AI Move: HBM Workaround appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Huawei’s Next Big AI Move: HBM Workaround"
-    },
-    {
-     "title": "Bank of Korea flags risks to memory chip boom",
-     "link": "https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html",
-     "pubDate": "Fri, 27 Nov 2026 08:40:40 GMT",
-     "summary": "Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26.",
-     "source": "DIGITIMES",
-     "zh": "Bank of Korea flags risks to memory chip boom"
-    },
-    {
-     "title": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO",
-     "link": "https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html",
-     "pubDate": "Fri, 27 Nov 2026 07:53:57 GMT",
-     "summary": "The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI data centers, advanced packaging, optoelec",
-     "source": "DIGITIMES",
-     "zh": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO"
     },
     {
      "title": "Four signoff assumptions that don’t survive the move to 3D ICs",
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Germany’s solar generation tops 100 TWh in 2026",
+     "link": "https://www.pv-magazine.com/2026/11/28/germanys-solar-generation-tops-100-twh-in-2026/",
+     "pubDate": "Sat, 28 Nov 2026 08:00:00 +0000",
+     "summary": "PV systems in Germany have generated more than 100 TWh of electricity in 2026, nearly tripling output over the past decade, according to data from Fraunhofer ISE. The post Germany’s solar generation tops 100 TWh in 2026 appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Germany’s solar generation tops 100 TWh in 2026"
+    },
+    {
      "title": "Walking the walk is more important than the climate talk",
      "link": "https://www.pv-magazine.com/2026/11/28/walking-the-walk-is-more-important-than-the-climate-talk/",
      "pubDate": "Sat, 28 Nov 2026 05:00:00 +0000",
@@ -1000,14 +1008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Australia opens 5GW renewable energy tender with new developer assessment and First Nations participation requirements.",
      "source": "PV Tech",
      "zh": "Australia opens 5GW renewable energy tender under Capacity Investment Scheme"
-    },
-    {
-     "title": "Elco launches propane air-to-water heat pumps for commercial applications",
-     "link": "https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications/",
-     "pubDate": "Fri, 27 Nov 2026 12:09:35 +0000",
-     "summary": "The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70. The systems can deliver flow temperatures of up to 75 C and be cascaded to reach a combined capacity of 1.35 MW. The post Elco launc",
-     "source": "pv magazine",
-     "zh": "Elco launches propane air-to-water heat pumps for commercial applications"
     },
     {
      "title": "Q3 2026 was highest on record for Indian rooftop solar additions, says Mercom",
@@ -1738,6 +1738,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "北京：今年新采购公交车实现 100% 新能源化",
+     "link": "https://www.ithome.com/1/033/918.htm",
+     "pubDate": "Sat, 28 Nov 2026 08:03:33 GMT",
+     "summary": "IT之家 11 月 28 日消息，据“北京发布”，2026 年，北京公交集团计划采购公交车 2470 辆， 新购车辆实现 100% 新能源化 。从车型构成看，8 米、10 米级车辆合计 1784 辆，占比达到 72%。中小型车辆能够更好适配不同线路客流特点和城市道路通行条件，满足接驳地铁、复杂路况等灵活运营场景需求，进一步优化首都公交运力结构。 2026 年，北京公交集团全年计划采购公交车 2470 辆，包括 8 米纯电动车 900 辆、10 米纯电动车 884 辆、12 米纯电动车 105 辆、13.7 米纯电动车 197 辆、13.7 米增程车 243 辆、18 米增程车 70 辆、双层纯",
+     "source": "IT之家",
+     "zh": "北京：今年新采购公交车实现 100% 新能源化"
+    },
+    {
+     "title": "吉利银河 M7 远航家 11 月 30 日加新上市，综合续航至高 1756km",
+     "link": "https://www.ithome.com/1/033/916.htm",
+     "pubDate": "Sat, 28 Nov 2026 07:59:51 GMT",
+     "summary": "IT之家 11 月 28 日消息，吉利银河今日宣布银河 M7 远航家将于 11 月 30 日加新上市，纯电续航至高 251km，综合续航至高 1756km。 IT之家注意到，吉利银河 M7 于 4 月 28 日正式上市，该车共推出 4 款配置车型，限时指导价下探至 10.98 万元起，价格如下： 车型 官方指导价（万元） 限时指导价（万元） 225km 远航版 11.98 10.98 225km 领航版 12.78 11.78 225km 探索 + 版 13.78 12.78 225km 星舰版 14.78 13.78 作为参考，银河 M7 定位于紧凑型插电式混合动力 SUV，其核心亮点在于采",
+     "source": "IT之家",
+     "zh": "吉利银河 M7 远航家 11 月 30 日加新上市，综合续航至高 1756km"
+    },
+    {
+     "title": "有记录以来最热的一周：地球 11 月 18~24 日史上首次连续 7 天“高烧”突破 2℃ 门槛",
+     "link": "https://www.ithome.com/1/033/915.htm",
+     "pubDate": "Sat, 28 Nov 2026 07:56:24 GMT",
+     "summary": "IT之家 11 月 28 日消息，根据欧盟哥白尼气候服务中心确认的初步数据，11 月 18 日至 24 日地球平均日气温连续 7 天高于工业化前水平 2 摄氏度以上， 这是有记录以来首次出现这种情况。 升温幅度在 11 月 23 日（周一）达到峰值，当天全球气温较该日期对应的 1850 至 1900 年估算基线高出 2.25 摄氏度，为该机构数据集中单日差值最大的一次。IT之家附上相关图片如下： 报道指出今年 11 月已经有 10 天达到或超过 2 摄氏度这一标准，在本次连续 7 天之前，本月还有 3 天越过了 2 摄氏度。而在 11 月之前，该机构有记录以来，全球日平均气温比工业化前水平高出",
+     "source": "IT之家",
+     "zh": "有记录以来最热的一周：地球 11 月 18~24 日史上首次连续 7 天“高烧”突破 2℃ 门槛"
+    },
+    {
+     "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+     "link": "https://www.ithome.com/1/033/914.htm",
+     "pubDate": "Sat, 28 Nov 2026 07:52:37 GMT",
+     "summary": "IT之家 11 月 28 日消息，据华为数字能源分享，在联合国工业发展组织 60 周年纪念活动期间，雅砻江流域水电开发有限公司（简称“雅砻江公司”）与华为联合打造的“AI 赋能绿色能源方案”荣获“2026 年全球可持续工业 AI 解决方案奖”。 ▲ 雅砻江公司与华为联合荣获“2026 年全球可持续工业 AI 解决方案奖” 据介绍，该奖项由联合国工业发展组织（UNIDO）、联合国贸易和发展会议（UNCTAD）、联合国数字与新兴技术办公室（ODET）、国际电信联盟（ITU）、联合国发展协调办公室（UNDCO）以及世界机器人合作组织（WRCO）面向全球首次发起， 共收到来自 61 个国家 220 余",
+     "source": "IT之家",
+     "zh": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站"
+    },
+    {
+     "title": "上汽荣威家越 07 大定锁单突破 3.5 万台，全系搭载豆包座舱助手",
+     "link": "https://www.ithome.com/1/033/913.htm",
+     "pubDate": "Sat, 28 Nov 2026 07:51:47 GMT",
+     "summary": "IT之家 11 月 28 日消息，上汽荣威今日宣布，家越 07 大定锁单突破 35,000 台，全系搭载豆包座舱助手。 据IT之家此前报道，家越 07 于 10 月 23 日上市，限时权益价 11.98 万元起；家越 07 纯电版于 11 月 27 日上市，限时权益价 13.28 万元起。 车型 指导价（万元） 限时权益价（万元） 220 智享版 12.78 11.98 220 激光雷达版 13.78 12.98 320 激光雷达版 14.58 13.78 320 激光雷达智尊版 15.28 14.48 651 智享版 14.08 13.28 651 激光雷达版 15.08 14.28 651",
+     "source": "IT之家",
+     "zh": "上汽荣威家越 07 大定锁单突破 3.5 万台，全系搭载豆包座舱助手"
+    },
+    {
+     "title": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+     "link": "https://www.tmtpost.com/8221371.html",
+     "pubDate": "Sat, 28 Nov 2026 15:51:04 +0800",
+     "summary": "Nvidia has ordered partners to stop shipping servers with its chips to Malaysia, Singapore, Thailand and Indonesia after new U.S. export rules took effect. The move aims to block Chinese firms from reaching restricted processors through regional data centers. How long the freeze will last is unclear",
+     "source": "钛媒体",
+     "zh": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries"
+    },
+    {
+     "title": "何小鹏：机器人交付后，预计首年实现良好盈利",
+     "link": "https://www.ithome.com/1/033/912.htm",
+     "pubDate": "Sat, 28 Nov 2026 07:43:12 GMT",
+     "summary": "IT之家 11 月 28 日消息，小鹏集团董事长、CEO 何小鹏在 2026 广州车展期间的活动中谈到了小鹏机器人。他表示，机器人作为小鹏的生态产品， 交付后首年预计实现良好盈利 。技术上，机器人产品 IRON 已实现 全身运控与视听感知打通 ，触觉是主要攻关难点，压力、扭力等触觉能力有望今明两年取得突破，期待明年科技日展示新进展。此外，产品设计已兼顾海外多语言、安全、隐私合规要求，将先在国内交付，再拓展海外市场。 据IT之家了解 2026 广州车展期间，小鹏 IRON 人形机器人亲自主持了小鹏的发布会。何小鹏表示，这可能是历史上 第一次由机器人 在车展进行新车发布。 小鹏 IRON 机器人在",
+     "source": "IT之家",
+     "zh": "何小鹏：机器人交付后，预计首年实现良好盈利"
+    },
+    {
      "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia&apos;s CEO (Erich Schwartzel/Wall Street Journal)",
      "link": "https://www.techmeme.com/261128/p4#a261128p4",
      "pubDate": "Sat, 28 Nov 2026 02:40:01 -0500",
@@ -1752,54 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队 RSI正在失去概念光环，成为一种常规技术手段。 定焦One（dingjiaoone）原创 在AI一级市场逐渐降温的背景下，RSI（Recursive Self-Improvement，递归自我改进）仍然是少数保持较高投资热度的方向之一。 不过，英诺科创基金合伙人、北京前沿国际人工智能研究院理事长王晟给面对这股投资热潮却直言，“所有以RSI为目的的项目，都是对无知投资人的PUA。” 11月25日，在“向新而行”人工智能场景推介及供需对接会暨中关村AI新场景产业创新活动上，王晟发表了题为《RSI（递归自我改进）与人工智能场景创新》的演讲，分",
      "source": "虎嗅",
      "zh": "英诺王晟：投RSI，本质上是在投验证器"
-    },
-    {
-     "title": "苹果  (PRODUCT)RED 红色版 HomePod mini 2 音箱实物曝光",
-     "link": "https://www.ithome.com/1/033/899.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:32:42 GMT",
-     "summary": "IT之家 11 月 28 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（11 月 28 日）在 X 平台发布推文， 爆料称部分线下门店已展示 (PRODUCT)RED 版 HomePod mini 2。 该款智能音箱预计 12 月 1 日星期二发售，这一天恰好是世界艾滋病日。 相关实物照片有两张，其中一张最初由 X 平台用户 @s_s_s_t_x（IT之家发稿前，该推文已删除）分享，古尔曼随后通过其账号再次发布： 另一张由 Reddit 用户 mateograph 发布。从照片来看，这款 HomePod mini 2 采用红色网状面板，包装盒上似乎还贴有 (RED) 标识。外",
-     "source": "IT之家",
-     "zh": "苹果  (PRODUCT)RED 红色版 HomePod mini 2 音箱实物曝光"
-    },
-    {
-     "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
-     "link": "https://www.ithome.com/1/033/898.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:31:08 GMT",
-     "summary": "IT之家 11 月 28 日消息，马斯克在 X 上透露，目前尚不确定哪家客户会采购更多算力， 但谷歌已表示有兴趣从 SpaceX 租用更多算力 。 马斯克表示，面向高带宽训练配置的大规模连续算力集群，其租赁价格正在走高，有时甚至大幅上涨。而小规模算力（约 5,000 张 GPU 以内）的租金则在下滑。总体来看， SpaceX 算力的单张 GPU 平均租赁价格正呈上升趋势 。 IT之家注意到，据纽约时报报道，马斯克近日向员工表示，公司在人工智能研发方面正落后于 Anthropic、OpenAI 等竞争对手。因此， 与其将数据中心算力全部用于自研 AI 产品，不如出租给竞争对手，以获得更高的商业回",
-     "source": "IT之家",
-     "zh": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力"
-    },
-    {
-     "title": "广州为车展推出购车专项补贴：最高 5000 元 / 辆，总金额 5000 万元",
-     "link": "https://www.ithome.com/1/033/892.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:27:03 GMT",
-     "summary": "IT之家 11 月 28 日消息，广州市为第二十四届广州国际汽车展览会推出购车专项补贴， 总金额 5000 万元 ，活动时间为 11 月 27 日至 12 月 6 日。 据官方公布信息，本次补贴对象为购置新车群体，按新车销售发票含税价格分为三档： 购车价格 6 万元（含）至 8 万元（不含）：补贴 2000 元 / 辆； 购车价格 8 万元（含）至 15 万元（不含）：补贴 4000 元 / 辆； 购车价格 15 万元（含）以上：补贴 5000 元 / 辆。 官方提示，车展专项补贴 只能在车展现场领取 ，需现场扫描二维码领取资格券，额度有限、先到先得。 领取路径为登录云闪付 App，首页 — ",
-     "source": "IT之家",
-     "zh": "广州为车展推出购车专项补贴：最高 5000 元 / 辆，总金额 5000 万元"
-    },
-    {
-     "title": "华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内",
-     "link": "https://www.ithome.com/1/033/890.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:26:38 GMT",
-     "summary": "IT之家 11 月 28 日消息，华为 Mate 90 系列手机已于 11 月 18 日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据实测， Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外，长按 AI 圆环可进入 AI 屏，获取更多服务，例如行业趋势解读、AI 分析、智能记忆助手等。 IT之家注意到，目前华为官方已公开 AI 快捷栏功能详情信息。据介绍， 该功能是 HarmonyOS 7.0 及以上版本在桌面底部区域新增的系统级 AI 入口 ",
-     "source": "IT之家",
-     "zh": "华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内"
-    },
-    {
-     "title": "1696 元：马歇尔 STANMORE III 蓝牙音箱京东亚马逊再降价",
-     "link": "https://www.ithome.com/1/033/887.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:25:39 GMT",
-     "summary": "亚马逊美国海外官方旗舰店今日继续黑五狂促，马歇尔 STANMORE III 蓝牙音箱目前直降至 1696 元。 京东 马歇尔 STANMORE III 无线蓝牙音响 券后 1695.86 元 领 100 元券 据介绍，这款蓝牙音箱号称拥有比上一代更宽广的声场，能够“传递出萦绕全场的 Marshall 标志性音效”。 配备具有向外倾斜的高音单元与新版导波管，同时搭载双向驱动单元系统，音箱内置的动态响度有助于调节声音的音调平衡，号称可以在“各种音量下带来卓越音质”。 规格方面，该音箱搭载蓝牙 5.2 技术，配备 1 个 5 英寸低音单元和 2 个 3/4 英寸高音单元，整体尺寸 350x203x1",
-     "source": "IT之家",
-     "zh": "1696 元：马歇尔 STANMORE III 蓝牙音箱京东亚马逊再降价"
-    },
-    {
-     "title": "微软 XBOX GDK 工具包泄露，有望加速民间移植 PC 版《GTA 6》游戏",
-     "link": "https://www.ithome.com/1/033/884.htm",
-     "pubDate": "Sat, 28 Nov 2026 07:23:40 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Notebookcheck 今天（11 月 28 日）报道，微软内部的 XBOX GDK 近日被曝泄露， 这一事件可能为《侠盗猎车手 VI》（GTA 6）PC 版的民间移植工作提供新的助力。 IT之家注：XBOX GDK 是微软提供给游戏开发者的开发工具包，其中关联 Windows 游戏部分本就是公开的，但 XBOX 主机专用的文档和工具，微软只向签署保密协议的开发者提供，外界很难了解主机的底层运作方式。泄露之后，非官方的移植者可能更清楚游戏在 Series X/S 上如何调用硬件资源。 该媒体指出自 Cyberleek 发布完整的 XBOX 版《G",
-     "source": "IT之家",
-     "zh": "微软 XBOX GDK 工具包泄露，有望加速民间移植 PC 版《GTA 6》游戏"
     },
     {
      "title": "《GTA6》的对手，居然是一个国产土味小游戏？",
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "建成AI Native原生组织，将是下一阶段行业竞争、产业变革的核心关键。",
      "source": "钛媒体",
      "zh": "蔚来开始用AI改造自己，这笔经济账怎么算？"
-    },
-    {
-     "title": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
-     "link": "https://www.techmeme.com/261127/p17#a261127p17",
-     "pubDate": "Fri, 27 Nov 2026 22:35:05 -0500",
-     "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect &ldquo;overcaution&rdquo;, where Claude clings to self-imposed rules on long tasks &nbsp; &mdash;&nbsp; Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and ot",
-     "source": "Techmeme",
-     "zh": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)"
     }
    ]
   },
@@ -2234,6 +2234,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "实测三家品牌电视开机仍有广告 小米：我们属于互联网电视，但可协助关闭",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942370265.html",
+     "pubDate": "Sat, 28 Nov 2026 15:51:10 +0800",
+     "summary": "有线电视与IPTV管理规定11月27日起施行，要求开机不得播广告。11月27日、28日三名网友测试家里小米、海信、海尔品牌电视，开机仍有广告。小米客服表示，他们属于互联网OTT电视，客服可根据用户需要协助关闭开机广告，目前没有推出新版本更新开机广告系统的计划。 （文章来源：澎湃新闻）",
+     "source": "东方财富股票",
+     "zh": "实测三家品牌电视开机仍有广告 小米：我们属于互联网电视，但可协助关闭"
+    },
+    {
+     "title": "小城“智”变：浙江县域如何长出“AI森林”？",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942370198.html",
+     "pubDate": "Sat, 28 Nov 2026 15:48:40 +0800",
+     "summary": "初冬时节，浙江嘉兴桐乡乌镇的白墙黛瓦间，流淌出独属于江南水乡的静谧。随着2026年世界互联网大会乌镇峰会闭幕，全球宾朋暂别这座千年古镇。而在桐乡的企业家队伍中，“乌镇七子”的说法仍在持续升温。 所谓“七子”，指的是福瑞泰克、尚元智行、新生纪、赛那德、数翰科技、大衍科技、芯寒智能这7家科创企业，它们以 人工智能 为主线，涵盖算力散热、仿真数据、具身智能等领域，展现出“软硬结合、数实融合”的AI创新生态。 以县域的体量来说，拥有自己的AI企业“朋友圈”实属不易。但更令人惊喜的是，着眼整个浙江， 人工智能 正加速“下沉”，为县域高质量发展带来系统性变革。 2026年浙江省政府工作报告指出，“十五五”",
+     "source": "东方财富股票",
+     "zh": "小城“智”变：浙江县域如何长出“AI森林”？"
+    },
+    {
+     "title": "东鹏饮料被调出中证A50指数，单季度净利下滑，主力单品增长失速，转而谋求酒类增长点",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942370566.html",
+     "pubDate": "Sat, 28 Nov 2026 15:46:41 +0800",
+     "summary": "11月27日，中证指数公司发布公告称，决定调整沪深300、 中证500 、中证1000、中证A50、中证A100、中证A500等指数样本。其中， 东鹏饮料 (605499)被调出中证A50指数 。 东鹏饮料 (集团)股份有限公司的主营业务是饮料的研发、生产及销售。公司的主要产品是能量饮料、电解质饮料、茶（类）饮料、咖啡（类）饮料、植物蛋白（类）饮料以及果蔬汁类饮料。 2026年第三季度报告显示，前三季度， 东鹏饮料 营业收入185.96亿元，同比增长10.4%；归母净利润41.45亿元，同比增长10.21%；扣非归母净利润38.51亿元，同比增长8.79%。 虽然前三季度累计业绩增长，但东鹏特",
+     "source": "东方财富股票",
+     "zh": "东鹏饮料被调出中证A50指数，单季度净利下滑，主力单品增长失速，转而谋求酒类增长点"
+    },
+    {
+     "title": "顶流基金经理新品发行失败 基金“明星光环”失灵了？",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942369932.html",
+     "pubDate": "Sat, 28 Nov 2026 15:45:01 +0800",
+     "summary": "明星基金经理也卖不动基金了！ 11月27日，中航基金公告，由百亿权益名将韩浩拟任基金经理的中航周期研选领航混合基金因未达备案条件，宣告 发行失败 ，成为年内第二只募集失败的公募产品。 近期市场震荡延续，基金发行端寒意渐浓，11月内已有 24只主动权益类产品宣布延长募集期 。和韩浩情况类似，还有多只绩优基金经理挂帅的新发基金同样遇冷。 有分析指出，在行情震荡背景下，投资者风险偏好回落，不再盲目为历史高收益与“明星效应”买单，对新发基金态度更趋审慎。 中航基金旗下一产品发行失败 11月27日，中航基金公告，中航周期研选领航混合型证券投资基金自2026年10月27日起公开募集。截至2026年11月2",
+     "source": "东方财富股票",
+     "zh": "顶流基金经理新品发行失败 基金“明星光环”失灵了？"
+    },
+    {
      "title": "DeepSeek×昇腾950适配再提升：FlashMLA稀疏注意力算子Prefill达98.5%硬件峰值",
      "link": "http://finance.eastmoney.com/news/1360,202611283942368495.html",
      "pubDate": "Sat, 28 Nov 2026 15:34:11 +0800",
@@ -2248,38 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "12月7日， 第十六届中国航展 将在珠海开幕。本周，空军和海军都相继发布了关于本届航展的新消息。海军方面， 多型现役装备将首次公开 ，主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全景式亮相。全方位展示新时代人民海军转型建设成就。 在飞行表演环节，海军将派出 歼-35和歼-15T舰载战斗机、空警-600预警机 ，以及教-15、直-20J、直-8C直升机分别进行编队飞行、通场飞行、 机场 破袭演练，多维立体展示人民海军海空作战体系。 歼-35是 海军首型隐身舰载战斗机 ，采用常规气动布局，航电系统、武器系统性能较三代机大幅提升，具备良好的隐身性能、机动性能、态势感知和信息交互能力。此外，歼",
      "source": "东方财富股票",
      "zh": "主力舰载机歼-35、歼-15T、空警-600，将再同框"
-    },
-    {
-     "title": "天有为：收到福田汽车多款仪表及显示屏项目定点通知",
-     "link": "http://stock.eastmoney.com/news/11219,202611283942367655.html",
-     "pubDate": "Sat, 28 Nov 2026 15:25:00 +0800",
-     "summary": "据 天有为 消息，公司收到 福田汽车 多款仪表及显示屏项目定点通知，产品生命周期5—10年，预计2027年开始量产。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "天有为：收到福田汽车多款仪表及显示屏项目定点通知"
-    },
-    {
-     "title": "司法部发布监督安全生产领域严格执法典型案例",
-     "link": "http://finance.eastmoney.com/news/11790,202611283942367160.html",
-     "pubDate": "Sat, 28 Nov 2026 15:24:32 +0800",
-     "summary": "记者11月28日从司法部获悉，为充分体现重点执法领域“严格依法执法”，司法部根据社会热点和群众关切，从安全生产、食品药品、生态环境等领域选取一批典型案例。本次发布的5个典型案例，聚焦安全生产领域，强化执法监管，督促指导执法部门严格执法，以罚促改，体现了以监督促规范、以规范提质效的良性循环。 据介绍，在山西某市监督指导市应急局依法适用从重处罚案中，行政执法监督机构指导执法部门准确认定违法事实，对屡查屡犯、整改不力的违法行为依法作出顶格处罚，以严厉惩处倒逼企业树牢安全生产意识。 在江西某区监督纠正区应急局遗漏处罚责任主体案中，行政执法协调监督局督促执法部门对遗漏的责任人员补充作出处罚，及时纠正执法",
-     "source": "东方财富股票",
-     "zh": "司法部发布监督安全生产领域严格执法典型案例"
-    },
-    {
-     "title": "李子园董事长李博胜，最新发声",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942366821.html",
-     "pubDate": "Sat, 28 Nov 2026 15:20:19 +0800",
-     "summary": "中国基金报记者 郑俊婷 10月31日， 李子园 两份公告同步发出：一份是2026年三季报，前三季度营收、净利润双双下滑；另一份是人事变动公告， 63岁的创始人李国平提前两年卸任董事长，其34岁的儿子李博胜接棒 。 资本市场对此的解读简单直接——“甜牛奶第一股”的困境与希望，在这一天同时摆上了台面。 接任近一个月，这位1992年出生、留美归来的“企二代”都做了些什么？近日，李博胜接受中国基金报记者独家专访时给出了他的行程表：回到一线，跑遍年采购额超500万元的大客户，去听报表里看不到、汇报里被过滤掉的东西；回到数字，把近几年的经营数据重新过了一遍，并接入自己的AI助手重新梳理；回到人，与核心团队",
-     "source": "东方财富股票",
-     "zh": "李子园董事长李博胜，最新发声"
-    },
-    {
-     "title": "5天涨近40%！603360，紧急提示",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942369824.html",
-     "pubDate": "Sat, 28 Nov 2026 15:20:00 +0800",
-     "summary": "百傲化学 (603360)股价持续大涨，公司连发公告提示风险。 11月27日晚间， 百傲化学 发布公告称，公司股票自2026年11月23日至11月27日，连续5个交易日收盘价累计上涨达 39.30% ，短期涨幅较大，敬请投资者注意二级市场交易风险。 梳理来看， 百傲化学 本轮行情启动于11月23日，当日上涨2.11%；随后在11月24—25日连续两日涨停；11月26—27日保持强劲走势，涨幅分别为6.53%、5.87%， 最新股价为11.91元/股，市值84亿元 。 成交量方面，公司股票在11月25—27日明显放量，成交额分别为5.81亿元、7.06亿元、6.97亿元，换手率分别达8.21%、",
-     "source": "东方财富股票",
-     "zh": "5天涨近40%！603360，紧急提示"
     },
     {
      "title": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！",

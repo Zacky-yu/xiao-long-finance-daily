@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 08:12:04",
+ "generated_at": "2026/11/28 08:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -282,6 +282,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
+    },
+    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -458,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -480,22 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "IONNA’s got a 50% discount off EV charging over Thanksgiving weekend",
+     "link": "https://electrek.co/2026/11/27/ionnas-got-a-50-discount-off-ev-charging-over-thanksgiving-weekend/",
+     "pubDate": "Sat, 28 Nov 2026 00:20:41 +0000",
+     "summary": "IONNA has a great deal for Thanksgiving EV road-trippers: Charging across its entire fast-charging network is half off until thep=[]””” end of Sunday, November 29. more…",
+     "source": "Electrek",
+     "zh": "IONNA’s got a 50% discount off EV charging over Thanksgiving weekend"
+    },
+    {
      "title": "Podcast: Tesla FSD v15, Volvo XC60/90 PHEVs, Porsche Boxster EV, and more",
      "link": "https://electrek.co/2026/11/27/podcast-tesla-fsd-v15-volvo-xc60-90-phevs-porsche-boxster-ev-and-more/",
      "pubDate": "Fri, 27 Nov 2026 20:58:02 +0000",
@@ -680,14 +688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Moving millions of tons of coal, sugar, and other bulk cargo is serious business, and decarbonizing that business presents a number of unique problems – but if the new BRF Froan bulk carrier proves anything, it’s that battery size isn’t one of them. The new electric cargo ship is packing an impossib",
      "source": "Electrek",
      "zh": "World’s largest electric bulk cargo shop packs MASSIVE 23.5 MWh battery"
-    },
-    {
-     "title": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more",
-     "link": "https://electrek.co/2026/11/27/velotric-final-black-friday-phase-e-bike-lows-ego-8-inch-cordless-auger-greenworks-snow-blowers-more/",
-     "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
-     "summary": "The Amazon Black Friday Main Event Sale is in full swing with more amazing deals than we can keep up with, and we’ve filled this edition with a wide variety of new appearances and sales increasing their discounts – plus, everything we can’t fit in here are waiting in our updated Black Friday Green D",
-     "source": "Electrek",
-     "zh": "Velotric e-bikes hit new Black Friday lows $760 off, EGO 8-inch cordless auger $449, Greenworks cordless snow blowers, more"
     },
     {
      "title": "EVs Outsold Gas And Diesel Cars Combined In The EU In October",
@@ -1354,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1392,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1450,30 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1528,6 +1480,30 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1746,12 +1722,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+     "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
+     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+     "source": "WIRED",
+     "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
+    },
+    {
+     "title": "2027年1月美国‘新关税’可能对中国出口的影响？",
+     "link": "https://www.huxiu.com/article/4909106.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 08:09:32 +0800",
+     "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界 这两天出差和商家交流的时候，大家又在担心11月25日美国发布的\"新关税\"消息。大家担心2027年的关税战会再起，影响2027年中国外贸的整体表现和出口美国的增长势头。在我看下来其实不用太担心，美国此举在我看来不是\"负面影响\"反而是\"正面影响\"。因为中国主持的APEC会议多国领导人达成了一个非常积极的贸易合作规则框架。就算美国新301关税落地也不会给中国当前的出口美国贸易新增太多的负担，反而是针对其他出口美国的制造业经济体（如东南亚、日韩、欧洲、拉美等）带去了非常大的压力，凸显了中国的相对税率优势。 先把话说清楚：我说\"正面\"，不是说中国的税率变",
+     "source": "虎嗅",
+     "zh": "2027年1月美国‘新关税’可能对中国出口的影响？"
+    },
+    {
+     "title": "GE医疗、飞利浦、西门子医疗全球营收增长，唯独中国区业绩承压",
+     "link": "https://www.huxiu.com/article/4909107.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 08:07:29 +0800",
+     "summary": "本文来自微信公众号： 动脉网 ，作者：张靖 2026年第三季度，GE医疗、飞利浦、西门子医疗（GPS）的中国影像业务迎来阶段性回暖。但是：翻阅三家企业的最新财报与业绩电话会，没有任何一家上调中国市场业绩预期。 与此同时，GPS 2026年在全球市场营收保持稳定增长，另一边却是中国区域整体承压。GPS三巨头正在经历怎样的市场变局？它们面临哪些共性挑战，又走出了怎样截然不同的应对路径？ 01 GPS，中国区业绩承压 近期，GPS三家企业陆续发布业绩报告，中国市场成为财报与业绩电话会里反复出现的高频词。 11月25日，西门子医疗发布2026财年年报，报告期为2025年10月至2026年9月。财报数据",
+     "source": "虎嗅",
+     "zh": "GE医疗、飞利浦、西门子医疗全球营收增长，唯独中国区业绩承压"
+    },
+    {
+     "title": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货",
+     "link": "https://www.ithome.com/1/033/788.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:58:04 GMT",
+     "summary": "IT之家 11 月 28 日消息，当地时间 11 月 26 日，亚马逊日本站出现商品价格异常，三星最新旗舰手机 Galaxy S26 Ultra 一度以 20,185 日元 （IT之家注：现汇率约合 845.6 元人民币） 的价格出售，相比原价立减 92%。 亚马逊随后紧急修正商品价格，但部分消费者已经成功下单。 据 SamMobile 报道，尽管此次价格异常疑似源于商品定价少打了一位数，但亚马逊仍履行了部分订单。截至发稿，已经有十多位买家反馈收到货并晒出手机照片。另外，日本当地科技社区也出现了相关订单发货及收货讨论。 据 Android Authority 报道，此次价格异常仅涉及 256G",
+     "source": "IT之家",
+     "zh": "亚马逊再现“临时工”：三星 Galaxy S26 Ultra 以 0.84 折成交，部分用户已收到货"
+    },
+    {
      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
      "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
      "pubDate": "Fri, 27 Nov 2026 23:54:42 +0000",
      "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
      "source": "WIRED",
      "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
+    },
+    {
+     "title": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位",
+     "link": "https://www.ithome.com/1/033/787.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:53:18 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 phoronix 报道称，AMD 工程师于 11 月 26 日向 DRM-Next 提交了新一轮内核图形与计算驱动变更， 推动 Linux 7.5 内核合并支持 GFX13（即 RDNA 5）图形架构。 报道称 AMD 已于本月初发布一系列补丁，为开源 AMDGPU 驱动程序添加 GFX13 实验性支持。而在最新提交的变更中，AMD 团队已开始为 Linux 7.5 合并窗口做准备，进一步推动 RDNA 5 发布落地。 此前已有消息提及两个特定目标，即 GFX 13.0.1 和 GFX 13.0.4，表明 AMD 正在准备至少两种图形 IP 配置。不",
+     "source": "IT之家",
+     "zh": "Linux 7.5 将合并支持 AMD RDNA5，新显卡驱动提前就位"
     },
     {
      "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
@@ -1765,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Why drivers want cheap, dumb cars again",
      "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
      "pubDate": "Fri, 27 Nov 2026 23:39:15 +0000",
-     "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html Comments URL: https://news.ycombinator.com/item?id=50672762 Points: 21 # Comments: 3",
+     "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html Comments URL: https://news.ycombinator.com/item?id=50672762 Points: 36 # Comments: 24",
      "source": "Hacker News",
      "zh": "Why drivers want cheap, dumb cars again"
     },
@@ -1810,22 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款"
     },
     {
-     "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
-     "link": "https://www.ithome.com/1/033/782.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:21:01 GMT",
-     "summary": "IT之家 11 月 28 日消息，《GTA 6》迎来热闹非凡的发售首周，女主角露西娅的扮演者曼尼 ·L· 佩雷斯发文对粉丝的支持表示感谢。 佩雷斯还透露了自己与 R 星开始合作的大致时间：自己饰演露西娅 已有近十年 。由此推断，她很可能早在游戏开发初期就确定出演这一角色。 当地时间 27 日，据外媒 VGC 报道，佩雷斯在一则 Instagram 快拍中写道：“过去几天的生活就像一场旋风，我想借此机会向大家说声谢谢。感谢新关注我的每一位粉丝，感谢大家发来的暖心留言，也感谢大家对游戏和我饰演的角色给予的好评。为了赋予露西娅生命，我付出了近十年的心血。她早已成为 我生命中非常重要的一部分 ，能够让",
-     "source": "IT之家",
-     "zh": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血"
-    },
-    {
-     "title": "微信鸿蒙版 App 获 8.0.24.37 邀测升级",
-     "link": "https://www.ithome.com/1/033/781.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:17:23 GMT",
-     "summary": "IT之家 11 月 28 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.24.37 (8394789) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/27-2026/12/27。 IT之家注意到，和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶、MeoW 整理，8.0.24 版本的微信新增了如下特性： 1.设置＞朋友权限变更为通讯录权限； 2.我＞收藏＞笔记点击右上角三点新增小图模式、大图模式切换； 3.视频号＞发起直播＞更多＞互动与变现新增奖品； 4.视频号评论区左上角新增「问小微」入口（逐步开",
-     "source": "IT之家",
-     "zh": "微信鸿蒙版 App 获 8.0.24.37 邀测升级"
-    },
-    {
      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
      "link": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 23:15:34 +0000",
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 16 # Comments: 1",
      "source": "Hacker News",
      "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
     },
@@ -1853,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
      "link": "https://tabernet.es/",
      "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
-     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 10 # Comments: 3",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 17 # Comments: 5",
      "source": "Hacker News",
      "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 38 # Comments: 23",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 40 # Comments: 26",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "9/UX: a Macintosh-inspired desktop for 9front",
      "link": "https://progrium.github.io/9ux/",
      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 48 # Comments: 9",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 52 # Comments: 9",
      "source": "Hacker News",
      "zh": "9/UX: a Macintosh-inspired desktop for 9front"
     },
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
      "link": "https://sessiongraph.ai/",
      "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
-     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 14 # Comments: 8",
+     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 17 # Comments: 8",
      "source": "Hacker News",
      "zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
     },
@@ -1912,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more &nbsp; &mdash;&nbsp; &ldquo;If we pause now, people still won't understand what's at stake.&rdquo;&nbsp; &m",
      "source": "Techmeme",
      "zh": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)"
-    },
-    {
-     "title": "Best Black Friday AirPods Deals I’ve Found (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 19:51:43 +0000",
-     "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
-     "source": "WIRED",
-     "zh": "Best Black Friday AirPods Deals I’ve Found (2026)"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1968,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 汽车财报 ，作者：汽车财报工作室 11月26日，挪威当地媒体报道称，布斯克吕郡交通委员会通过了一份有关公交车采购安全问题的意见书。该郡希望由挪威中央政府决定哪些客车制造商符合安全要求，并承担由此产生的额外采购成本。 这场争论源于挪威政府今年8月提出的一项政策建议：减少公共交通系统对缺乏安全政策合作关系国家的客车供应商的依赖。 中国客车企业是这项政策潜在的主要影响对象。 与此同时，中国客车出口仍在快速增长。中国客车统计信息网数据显示，今年10月，中国新能源客车出口达到1874辆，同比增长55.4%；前十个月累计出口17858辆，同比增长29.5%。 随着中国客车在海外市场的",
      "source": "虎嗅",
      "zh": "中国客车出海，遇到了比关税更复杂的壁垒"
-    },
-    {
-     "title": "一碗拉面揭开堂食店的定价死穴",
-     "link": "https://www.huxiu.com/article/4909103.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 00:35:07 +0800",
-     "summary": "本文来自微信公众号： 我即风口我即方位 ，作者：癫峰玩家Gara大大 最近公司附近开了新嘉中心，外卖列表一下子多了不少选择。我在里面点过一次梅将——一家做横滨家系的拉面店，汤头够浓，面条够劲，凑完满减四十多块，在一线城市的拉面赛道里算性价比不错。 抱着\"堂食口感一定更好\"的心态，我去了店里。出品没问题，服务也很好，比我预期的稳。真正让我困惑的，是结账之后的那张账单：一家产品在线、权益也在线的店，正在用自己的菜单，把客人往线上推。 图注：外卖端\"【招牌】白丸-原味家系濃厚な豚骨ラーメン\"标价66元，商品优惠24.7元、配送费优惠7.3元后实付41.3元。优惠几乎全部作用在面上。 一、先把账摊开：",
-     "source": "虎嗅",
-     "zh": "一碗拉面揭开堂食店的定价死穴"
-    },
-    {
-     "title": "耐克全球供应链再次受到考验",
-     "link": "https://www.huxiu.com/article/4909097.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 00:30:38 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 11月25日，美国贸易代表办公室公布针对14个经济体的301调查结果及拟议关税方案。其中，越南面临最高35%的关税，印度尼西亚则面临最高18%的拟议税率。 第二天，越南政府表示，正在努力尽快与美国达成贸易协议。路透社援引制鞋行业人士的话称，印度尼西亚已经吸引了一批新的制鞋业投资，越南的产能扩张则陷入停滞。 耐克是受影响最大的国际消费品牌之一。 2026财年，耐克全球52%的品牌鞋履和34%的品牌服装产自越南。对于这家年收入超过460亿美元的运动品牌而言，越南的贸易政策变化已经足以影响整个集团的利润表现。 过去几年，从疫情期间的工厂",
-     "source": "虎嗅",
-     "zh": "耐克全球供应链再次受到考验"
     }
    ]
   },
@@ -1993,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Galaxy S27 Ultra tipped to improve night photography and video",
+     "link": "https://www.gsmarena.com/galaxy_s27_ultra_tipped_to_improve_night_photography_and_video-news-75678.php",
+     "pubDate": "Sat, 28 Nov 2026 01:21:02 +0100",
+     "summary": "We've already heard that the upcoming Samsung Galaxy S27 Ultra may drop both its 3x telephoto camera and its laser autofocus module. Today a tipster on X claims there's some good news too, with the new main camera having significantly improved the brightness and detail in night photography. The vide",
+     "source": "GSMArena",
+     "zh": "Galaxy S27 Ultra tipped to improve night photography and video"
+    },
     {
      "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
      "link": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
@@ -2224,14 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
      "source": "Engadget",
      "zh": "Hackers reportedly infiltrated the Air Force's cloud systems"
-    },
-    {
-     "title": "ChatGPT for Android could soon make calls and send texts",
-     "link": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php",
-     "pubDate": "Fri, 27 Nov 2026 16:34:02 +0100",
-     "summary": "You can already set ChatGPT as your default digital assistant on Android, but so far it's been limited to voice conversations and text replies. Today, strings found in version 1.2026.328 of the Android app suggest OpenAI is working on giving it much deeper control over your phone. The leftover permi",
-     "source": "GSMArena",
-     "zh": "ChatGPT for Android could soon make calls and send texts"
     }
    ]
   },
@@ -2241,14 +2217,6 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
     {
      "title": "银价跌破40美元关口后反弹 上行弹性尚待工业需求驱动",
      "link": "http://finance.eastmoney.com/news/1354,202611283942147573.html",
@@ -2306,14 +2274,6 @@ window.INDUSTRY_DATA = {
      "zh": "国务院常务会议解读丨国常会新部署释放明确稳市信号"
     },
     {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
      "title": "信贷市场表里不一：7050亿美元AI债与CCC级“垃圾债”承压，优质企业独自坚挺",
      "link": "https://wallstreetcn.com/articles/3786882",
      "pubDate": "Sat, 28 Nov 2026 07:25:44 +0800",
@@ -2344,14 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "以新一代混动冠道为起点，广汽本田将本田混动技术与中国本土智能化能力融合。未来两年5款新车的规划，正将合资续约的长期布局转化为产品更新与本土化研发的具体行动。",
      "source": "经济观察网",
      "zh": "蓝牌混动也上高阶智驾，广汽本田开启新一轮产品更新"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
      "title": "证监会：抓紧研究出台增量政策 完善资本市场稳市机制",
@@ -2442,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     },
     {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
      "title": "SA Asks: What's the best-positioned chip stock right now?",
      "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
@@ -2466,20 +2410,52 @@ window.INDUSTRY_DATA = {
      "zh": "US tech stocks rise in latest market swing"
     },
     {
-     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
-     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
-     "source": "MarketWatch",
-     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
-    },
-    {
      "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
      "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
+    },
+    {
+     "title": "Energy Fuels gains 11% as peers and the broader market rise",
+     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
+    },
+    {
+     "title": "Trump’s Nvidia intervention has a cost for US stocks",
+     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
+     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+     "source": "Financial Times",
+     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
+    },
+    {
+     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
+     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+     "source": "CNBC",
+     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+    },
+    {
+     "title": "AI and the decryption nightmare",
+     "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT",
+     "summary": "New breakthroughs call for faster upgrades to security, not panic",
+     "source": "Financial Times",
+     "zh": "AI and the decryption nightmare"
     }
    ]
   },

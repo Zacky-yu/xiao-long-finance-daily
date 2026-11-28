@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 12:11:52",
+ "generated_at": "2026/11/28 12:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -290,6 +290,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
+    },
+    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -458,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Defect Is Not Yet a Scrap Decision"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -480,22 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1354,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1392,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1450,30 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1528,6 +1480,30 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1738,6 +1714,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "梁文锋“量化”聊天",
+     "link": "https://www.huxiu.com/article/4909153.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 12:22:46 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥 做量化投资出身的梁文锋，开始“量化”DeepSeek的C端用户了。 11月26日，DeepSeek悄悄上线了一项新功能。 在每轮对话结束后，用户可以点击回答下方的图标，查看自己消耗了多少Token、其中有多少命中了缓存，以及按照DeepSeek的API价格计算，这轮对话值多少钱。 虽然这笔钱目前还不需要用户来掏，但免费服务突然多了价签，还是引发了外界关于DeepSeek即将收费的猜测。 有趣的是，在今年5月的投资者闭门交流会上，梁文锋还不知道拿C端用户怎么办。 “虽然现在不知道这些用户有什么用，现在它是一个纯成本的支出，但是以后可能是有用的。” ",
+     "source": "虎嗅",
+     "zh": "梁文锋“量化”聊天"
+    },
+    {
+     "title": "再谈美团阿里：一家公司同时具备多种能力是幻觉",
+     "link": "https://www.huxiu.com/article/4909152.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 12:15:40 +0800",
+     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “台积电其实我早就知道，因为我们原来拿芯片是从台联电，台积电是不会直接供芯片的，它是做代工的，它只是帮人加工芯片。30多年前我就跟台联电说，你们做芯片是做不过台积电的，因为它们是专注在做那个。台联电那个时候又做代工，又做自己的芯片，又开发各种各样的产品，我说你长期是做不过它们的。不幸而言中，你看台积电（注：市值1.77万亿美元）和台联电（注：市值331亿美元）现在天地之差。” ——段永平 2015年，苹果的前CEO蒂姆·库克在清华有一个对话活动，当时他当被问到“在过去3年中哪些是你做的最困难的决策”时，库克回答说，最难的是“决定不做什么”。因",
+     "source": "虎嗅",
+     "zh": "再谈美团阿里：一家公司同时具备多种能力是幻觉"
+    },
+    {
+     "title": "在“最后的经济”时代，普通人如何抢占AI 财富制高点",
+     "link": "https://www.huxiu.com/article/4909151.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 12:15:40 +0800",
+     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust，原文标题：《在“最后的经济”时代，普通人如何抢占AI 财富制高点｜不懂经网站》 过去这两年，只要聊起AI带来的冲击与威胁，很多人都会陷入一种难以言说的焦虑和迷茫。 这也难怪。现在即便是最迟钝的旁观者，也能感觉到我们正在撞上一场前所未有的历史巨变。百年大变局，千年大变局，甚至是人类文明的转折点。 谷歌的AI领袖哈萨比斯说它的量级可能是工业革命的十倍；很多科技大佬则直言我们正站在“奇点”边缘，而奇点之后的世界，连亲手造出它的人都无法预测。 但最折磨人的，不是变化本身，而是我们此刻所处的尴尬位置：脚下的旧大陆正在肉眼可见地沉没，而远方的新世",
+     "source": "虎嗅",
+     "zh": "在“最后的经济”时代，普通人如何抢占AI 财富制高点"
+    },
+    {
+     "title": "“兄弟，法庭见，”OpenAI反诉苹果窃密",
+     "link": "https://www.huxiu.com/article/4909150.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 12:11:54 +0800",
+     "summary": "本文来自微信公众号： 机器之心 ，编辑：Neo，作者：关注AI的，原文标题：《「兄弟，法庭见！」OpenAI反诉苹果窃密》 400多名苹果员工已经跳槽去了OpenAI。 但其中有一名员工，在OpenAI工作了短短半年后，又回到了苹果。 按照OpenAI的说法，窃取商业机密可能就是他最初加入OpenAI的目的。 当地时间11月27日，OpenAI正式反诉苹果，向美国加州北区联邦地区法院提交了一份长达81页的反诉及答辩文件。 四个月前，苹果率先将OpenAI告上法庭，指控后者通过招募苹果员工窃取商业机密，为自己的消费电子产品研发铺路。 如今，OpenAI将同样的指控抛向了苹果。 此次，OpenAI",
+     "source": "虎嗅",
+     "zh": "“兄弟，法庭见，”OpenAI反诉苹果窃密"
+    },
+    {
      "title": "Ray Dalio债务危机：这次一样吗？",
      "link": "https://www.huxiu.com/article/4909148.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 12:00:25 +0800",
@@ -1754,60 +1762,12 @@ window.INDUSTRY_DATA = {
      "zh": "自古至今，人的生存权都是斗争出来的，被AI唬住的都是懦夫"
     },
     {
-     "title": "法语配音返工两轮仍被差评，法国市场本地化到底该怎么排期？",
-     "link": "https://www.baijing.cn/question/639019",
-     "pubDate": "Sat, 28 Nov 2026 03:50:24 +0000",
-     "summary": "我们一款卡牌RPG刚在法国上线两周，团队一共9个人，本地化只有1个兼职法语校对。首版配音找的是巴黎一家工作室，玩家评论里反复提“语气像念稿”“战斗喊话没情绪”，法语区商店评分从4.6掉到4.1。返工重录了一轮主线和新手引导，花了11天，结果节奏又拖慢了西班牙语和德语的排期。现在纠结的是：人手就这么多，是该先集中把法语配音的导演和试音环节做扎实再铺其他语种，还是先按现有质量上线、靠后续版本迭代补？想听听做过欧洲多语种配音排期的同行怎么判断这个取舍。",
-     "source": "白鲸出海",
-     "zh": "法语配音返工两轮仍被差评，法国市场本地化到底该怎么排期？"
-    },
-    {
-     "title": "写给产品经理：功能清单式“AI 化”是怎么死的",
-     "link": "https://www.huxiu.com/article/4909146.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:44:28 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：黄哈哈哈，原文标题：《写给产品经理：功能清单式「AI 化」是怎么死的》 上周旁听一个评审会，产品经理讲新版本，里面有个检查清单，十几个格子，打满了勾。 有人问了句，用户用这些功能的时候，哪一步变快了。 他答不上来。 不是没有数据，是从来没这么问过自己。 200多项功能 去年有款AI眼镜，宣传册上印着200多项AI功能。后来有人统计，长期还在用的不到6%。 我特意去看了用户买它的理由，排前面的是拍视频、拍照、听歌，AI助手排第四。 今年上半年这个品类全球出货创新高，400多万副；而同期国内二季度掉了8%，第一次负增长；退货率高的时候能到七成。真正卖",
-     "source": "虎嗅",
-     "zh": "写给产品经理：功能清单式“AI 化”是怎么死的"
-    },
-    {
-     "title": "DeepSeek能拯救知乎吗？",
-     "link": "https://www.huxiu.com/article/4909145.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:41:53 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 如果遇到一个不懂的问题，你现在是习惯打开知乎，还是打开小红书？微信？抖音？DeepSeek？还是豆包进行搜索？ 相信不少人的习惯已经变了，这可能也是知乎最近几年最头疼的事情，没有之一。 但最近，知乎和DeepSeek的关系突然变得十分密切。 11月23日，知乎公告确认，此前出资15亿元认购的投资基金，已经通过中间主体间接投资了DeepSeek。 仅仅四天之后，知乎又官宣与DeepSeek展开内容合作。 未来，大家在DeepSeek上提问，如果答案引用了知乎的内容，就可以看到内容标题、摘要、创作者信息，并直接跳转至知乎阅读原文。知乎的社区问答",
-     "source": "虎嗅",
-     "zh": "DeepSeek能拯救知乎吗？"
-    },
-    {
-     "title": "学会目光短浅，小心延迟满足",
-     "link": "https://www.huxiu.com/article/4909143.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:38:26 +0800",
-     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 周末不卷，随便写点。 最近见了很多老朋友，大家聊天的时候很有趣的达成了一种共识。 要学会目光短浅，小心延迟满足。 我们从小听到的说法，都是告诉我们，不要计较当下，要着眼长线。 这句话是对的，但这里是存在前提的。 不纠结眼前利益的前提是，长期利益在自己的可控范围内。 如果长期利益需要依附别人兑现，那这个长期利益就是画饼耍猴。 要立马短期兑现。 举个栗子，你在打工，你肯定会听到老板告诉你要好好干，坚持长期努力，才有一个好的将来。 那，谁掌握你【干的好不好】的定义权呢？ 很多老板讲这句话的时候，其实是暗示他才是正确的选择，所以你跟着他才有肉吃。 ",
-     "source": "虎嗅",
-     "zh": "学会目光短浅，小心延迟满足"
-    },
-    {
      "title": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
      "link": "https://www.techmeme.com/261127/p17#a261127p17",
      "pubDate": "Fri, 27 Nov 2026 22:35:05 -0500",
      "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect &ldquo;overcaution&rdquo;, where Claude clings to self-imposed rules on long tasks &nbsp; &mdash;&nbsp; Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and ot",
      "source": "Techmeme",
      "zh": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)"
-    },
-    {
-     "title": "新药研发近20年，A股麻醉龙头在商业化前夜放弃",
-     "link": "https://www.huxiu.com/article/4909139.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:25:11 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：陈桐垚 一款历经近19年研发、完成Ⅲ期临床并递交上市申请的1类创新药，最终却倒在了商业化前的最后一步。 近日，人福医药集团股份公司（以下简称“人福医药”）发布公告称，公司决定终止重组质粒-肝细胞生长因子注射液（pUDK-HGF）的后续研发工作，并对相关开发支出全额计提资产减值准备。此次减值预计减少公司2026年度利润总额约4亿元，减少归属于上市公司股东的净利润约3亿元。 值得注意的是，人福医药此前因年度报告存在虚假记载等问题被实施其他风险警示，股票简称为ST人福。11月26日，公告发布后的首个交易日，ST人福股价低开后有所反弹，最终收于19.30元/股，",
-     "source": "虎嗅",
-     "zh": "新药研发近20年，A股麻醉龙头在商业化前夜放弃"
-    },
-    {
-     "title": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？",
-     "link": "https://www.baijing.cn/question/639018",
-     "pubDate": "Sat, 28 Nov 2026 03:24:04 +0000",
-     "summary": "上周给一位洛杉矶的美妆达人寄样，样品签收后第 9 天才出第一条视频，结果 TikTok Shop 的达人佣金结算要等订单妥投后 T+8 才进可提现余额，我这边备货的资金占用直接拉到 30 天以上。我们做美妆个护，北美刚起量阶段，3 人小团队，月预算约 2 万美元，主要通过 TikTok Shop 美国站达人邀约加寄样跑量，目前邀约私信回复率不到 8%，寄样后出片率约 35%。已经试过在邀约话术里强调佣金比例和样品免费，也用过平台后台的批量邀约工具，但达人对结算时效和物流妥投时间没概念，谈好的排期经常拖。现在卡在要不要把妥投时效和回款节点写进邀约模板里，还是先按达人历史履约数据筛人再谈？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？"
     },
     {
      "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
@@ -1821,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     },
@@ -1874,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "《复联5》要来救市了"
     },
     {
-     "title": "澳新独立站用Stripe收款，回款周期和物流时效怎么匹配才不压现金流？",
-     "link": "https://www.baijing.cn/question/639017",
-     "pubDate": "Sat, 28 Nov 2026 03:02:53 +0000",
-     "summary": "我们做户外露营装备独立站，主攻澳新市场，团队5个人，刚起量阶段，月GMV大概8万澳币。现在用Stripe收澳币和纽币，但发现回款周期要7天左右，而本地客户对物流时效要求很高，悉尼墨尔本基本要3-5天送达，奥克兰也要5-7天。目前用澳洲海外仓备货，但从国内补货到仓要25天左右，导致资金压在库存和应收账款上，现金流很紧。试过调整结算币种和提前提现，但手续费不低，也试过让客户预付部分定金，转化率掉了大概15%。现在卡在回款周期和补货时效的匹配上，想问问同行，澳新市场独立站一般怎么设定备货节奏和支付结算方案，才能让回款周期覆盖补货周期？",
-     "source": "白鲸出海",
-     "zh": "澳新独立站用Stripe收款，回款周期和物流时效怎么匹配才不压现金流？"
-    },
-    {
      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
      "link": "https://www.tmtpost.com/8221007.html",
      "pubDate": "Sat, 28 Nov 2026 10:58:00 +0800",
@@ -1914,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？"
     },
     {
-     "title": "Lazada 泰国跨境店履约时效拖累投放，CPA 涨到多少该停？",
-     "link": "https://www.baijing.cn/question/639016",
-     "pubDate": "Sat, 28 Nov 2026 02:41:28 +0000",
-     "summary": "上个月在 Lazada 泰国跨境店推一款无线耳机，投放花了约 8 万泰铢，CPA 从月初的 180 泰铢涨到 320 泰铢，后台显示履约时效从 3 天变成 6 天，好几单因为清关延迟被取消。我们试过换曼谷本地仓、调低出价、把预算挪到越南站，效果都不明显，卡在不确定是继续扛时效等权重恢复，还是先砍投放止损。5 人小团队，月预算就这个量级，想直接问：跨境店履约时效超过几天，投放 CPA 涨到多少就该停？",
-     "source": "白鲸出海",
-     "zh": "Lazada 泰国跨境店履约时效拖累投放，CPA 涨到多少该停？"
-    },
-    {
      "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
      "link": "https://www.tmtpost.com/8220989.html",
      "pubDate": "Sat, 28 Nov 2026 10:36:00 +0800",
@@ -1930,18 +1874,10 @@ window.INDUSTRY_DATA = {
      "zh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价"
     },
     {
-     "title": "德国红人带货回款慢，独立站支付和履约怎么配才不压现金流？",
-     "link": "https://www.baijing.cn/question/639015",
-     "pubDate": "Sat, 28 Nov 2026 02:11:09 +0000",
-     "summary": "德国站独立站刚起量，月GMV约8万欧，团队6人。找本地红人做测评带货，红人内容上线后订单涨了但回款要等14天，本地仓发货妥投平均4.2天，退货率11%，现金流被卡住。目前用Stripe收款、DHL从波兰仓发货。试过缩短账期和预付，但德国客户不接受预付比例太高。卡在支付账期和物流时效怎么平衡，是先换本地支付方式还是调整发货仓？",
-     "source": "白鲸出海",
-     "zh": "德国红人带货回款慢，独立站支付和履约怎么配才不压现金流？"
-    },
-    {
      "title": "Atari Homebrew Awards Cancelled",
      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
      "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 109 # Comments: 90",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 115 # Comments: 99",
      "source": "Hacker News",
      "zh": "Atari Homebrew Awards Cancelled"
     },
@@ -1954,28 +1890,68 @@ window.INDUSTRY_DATA = {
      "zh": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)"
     },
     {
-     "title": "美国短剧App投放ROI崩了，五人小队该先砍素材产能还是先调排期？",
-     "link": "https://www.baijing.cn/question/639014",
-     "pubDate": "Sat, 28 Nov 2026 01:49:06 +0000",
-     "summary": "我们做北美短剧App，起量中，投放加运营一共5个人：1个投手、2个剪辑、1个运营、1个兼职数据分析。上月在Meta和TikTok日耗冲到3000美元后，ROI从0.9掉到0.55，素材周产从20条压到12条还是追不上衰减，剪辑排期已经排到两周后。试过砍掉低效素材组、把预算往TikTok倾斜，但新剧上线节奏和投放测试窗口对不上，投手一天要盯8个广告组，运营还要兼客服。现在卡在人力就这么多，是先停掉部分在投剧集保ROI，还是硬扛排期继续扩素材量？",
-     "source": "白鲸出海",
-     "zh": "美国短剧App投放ROI崩了，五人小队该先砍素材产能还是先调排期？"
-    },
-    {
      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
      "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 90 # Comments: 68",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 97 # Comments: 78",
      "source": "Hacker News",
      "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
     },
     {
-     "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
-     "link": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
-     "pubDate": "Sat, 28 Nov 2026 01:20:16 +0000",
-     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 58 # Comments: 39",
+     "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
+     "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
+     "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
+     "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
+     "source": "WIRED",
+     "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
+    },
+    {
+     "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+     "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+     "pubDate": "Fri, 27 Nov 2026 23:54:42 +0000",
+     "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
+     "source": "WIRED",
+     "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
+    },
+    {
+     "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261127/p15#a261127p15",
+     "pubDate": "Fri, 27 Nov 2026 18:30:02 -0500",
+     "summary": "Jean Eaglesham / Wall Street Journal : US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage &nbsp; &mdash;&nbsp; The multiday outage has left customers struggling to reach the insurer during one ",
+     "source": "Techmeme",
+     "zh": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)"
+    },
+    {
+     "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
+     "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 23:27:04 +0000",
+     "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
+     "source": "WIRED",
+     "zh": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)"
+    },
+    {
+     "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
+     "link": "https://www.wired.com/story/black-friday-gaming-deals-11-27-2026/",
+     "pubDate": "Fri, 27 Nov 2026 23:15:34 +0000",
+     "summary": "Headsets, keyboards, and video games are all on sale. Here’s what we’ve found so far.",
+     "source": "WIRED",
+     "zh": "The Best Black Friday Gaming Deals I’ve Found (2026)"
+    },
+    {
+     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+     "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 202 # Comments: 67",
      "source": "Hacker News",
-     "zh": "Alaska seized his plane over some beers. He is asking the Supreme Court for help"
+     "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+    },
+    {
+     "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+     "link": "https://tabernet.es/",
+     "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 51 # Comments: 23",
+     "source": "Hacker News",
+     "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
     }
    ]
   },
@@ -2426,30 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "上交所调整多项指数样本 12月11日收市后生效"
     },
     {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
@@ -2472,6 +2424,30 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
+    },
+    {
+     "title": "SA Asks: What's the best-positioned chip stock right now?",
+     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best-positioned chip stock right now?"
+    },
+    {
+     "title": "US tech stocks rise in latest market swing",
+     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT",
+     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+     "source": "Financial Times",
+     "zh": "US tech stocks rise in latest market swing"
+    },
+    {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
     }
    ]
   },

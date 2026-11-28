@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 10:12:01",
+ "generated_at": "2026/11/28 10:31:50",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
-     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
-     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
-     "source": "KDnuggets",
-     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
-    },
     {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
@@ -32,14 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
+    {
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "source": "TechCrunch AI",
+     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
+    {
+     "title": "SteerSound：迈向更可靠的音频编辑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+     "source": "机器之心",
+     "zh": "SteerSound：迈向更可靠的音频编辑"
     }
    ]
   },
@@ -290,6 +290,22 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
+     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
+    },
+    {
+     "title": "Struggling Celerons",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
+     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Struggling Celerons"
+    },
+    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -312,6 +328,38 @@ window.INDUSTRY_DATA = {
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
+    },
+    {
+     "title": "Kontron KBox industrial computer platform targets robotics and AI",
+     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
+     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
+    },
+    {
+     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
+     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
+     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
+     "source": "Electronics Weekly",
+     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
+    },
+    {
+     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
+     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
+    },
+    {
+     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
+     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
+     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
+     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
-    },
-    {
-     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
-     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
-     "source": "Semiconductor Today",
-     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Why AI Struggles To Reuse Chip Designs",
-     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
-     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why AI Struggles To Reuse Chip Designs"
-    },
-    {
-     "title": "AI Vs. High-Level Synthesis",
-     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
-     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Vs. High-Level Synthesis"
-    },
-    {
-     "title": "AI Can Read The Code, But Can It Understand The Chip?",
-     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
-     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
-    },
-    {
-     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
-     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
-    },
-    {
-     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
-     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
-     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1738,6 +1738,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "后AI时代最重要的问题",
+     "link": "https://www.huxiu.com/article/4909123.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 10:15:49 +0800",
+     "summary": "本文来自微信公众号： 冯骥Yocar ，作者：冯骥，头图来自：AI生成 当人工智能 （AI） 在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？ 这个问题听上去像一句书斋里的哲学清谈，但只要顺着现实往下稍作推演，很快就会撞上千家万户的饭碗与迫在眉睫的抉择，最终变成一道决定财富与尊严如何分配的政经必答题。 如果把&ldquo;后AI时代&rdquo;定义为AI已在绝大多数领域超越绝大多数人类智力的时代&mdash;&mdash;我认为，这就是后AI时代最重要的问题，没有之一。 一 上个周末，我的屏幕几乎被两股八竿子打不着的消息劈成两半。 一半在老本行。《GTA6》改写了人类文娱史的收入",
+     "source": "虎嗅",
+     "zh": "后AI时代最重要的问题"
+    },
+    {
+     "title": "谷歌正在打造一台“AI 红果机”，把你的生活拍成24小时播放的爆款剧",
+     "link": "https://www.huxiu.com/article/4909128.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 10:14:42 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《谷歌正在打造一台「AI 红果机」，把你的生活拍成24小时播放的爆款剧》 在《黑镜》第六季的《琼糟透了》（Joan Is Awful）中，女主角琼（Joan）某天晚上打开电视，发现自己的生活竟然被AI拍成了一部电视剧。 剧里的女主角正在经历和她当天一模一样的事情，甚至连她私下里的生活细节都被还原了。 琼试图要求平台下架电视剧，却发现自己早已在用户协议中授权了相关内容。流媒体平台可以利用生成式AI和演员的数字肖像，不断将她的生活拍成新的剧集。 这一集表面上是讲一个女人发现自己的人生被拍成电视剧，实际上是一集非常典型的黑镜式讽刺。",
+     "source": "虎嗅",
+     "zh": "谷歌正在打造一台“AI 红果机”，把你的生活拍成24小时播放的爆款剧"
+    },
+    {
+     "title": "“Token之都”里的淘金客：抢时间，抓风口，在450亿投资里分一杯羹",
+     "link": "https://www.huxiu.com/article/4909127.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 10:11:23 +0800",
+     "summary": "本文来自微信公众号： 猛犸工作室 ，编辑：李巍巍，作者：傅一波 抢时间 乌兰察布被称为“Token之都”是有原因的。 从乌兰察布市中心出发，街道宽阔，行人稀少，低矮的楼房和零散的商铺沿街分布；再往外走，是连片的农田。过去，这座北方小城最为人熟知的特产是土豆。 这里的生活有自己的节奏，缓慢、安静，甚至有些漫不经心。当地人形容，“我们靠天吃饭，见天收”。时间是最不紧要的东西。 乌兰察布的算力中心鸟瞰图源：受访者 如今，只需20分钟车程，走出市区，抵达察哈尔高新技术开发区，另一种乌兰察布出现了——宽阔笔直的道路两侧，巨型算力中心依次铺开，围墙、高压电线圈起一座座机房。载着超长风机叶片的卡车往来不息，",
+     "source": "虎嗅",
+     "zh": "“Token之都”里的淘金客：抢时间，抓风口，在450亿投资里分一杯羹"
+    },
+    {
+     "title": "德国红人带货回款慢，独立站支付和履约怎么配才不压现金流？",
+     "link": "https://www.baijing.cn/question/639015",
+     "pubDate": "Sat, 28 Nov 2026 02:11:09 +0000",
+     "summary": "德国站独立站刚起量，月GMV约8万欧，团队6人。找本地红人做测评带货，红人内容上线后订单涨了但回款要等14天，本地仓发货妥投平均4.2天，退货率11%，现金流被卡住。目前用Stripe收款、DHL从波兰仓发货。试过缩短账期和预付，但德国客户不接受预付比例太高。卡在支付账期和物流时效怎么平衡，是先换本地支付方式还是调整发货仓？",
+     "source": "白鲸出海",
+     "zh": "德国红人带货回款慢，独立站支付和履约怎么配才不压现金流？"
+    },
+    {
+     "title": "刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意",
+     "link": "https://www.tmtpost.com/8220724.html",
+     "pubDate": "Sat, 28 Nov 2026 10:08:42 +0800",
+     "summary": "刘銮雄的长子刘鸣炜，正做大海外地产生意。",
+     "source": "钛媒体",
+     "zh": "刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意"
+    },
+    {
+     "title": "解码袁记IPO：一只饺子，两个市场，三种生意",
+     "link": "https://www.tmtpost.com/8220884.html",
+     "pubDate": "Sat, 28 Nov 2026 10:08:37 +0800",
+     "summary": "加盟红利、外卖红利与增长边界。",
+     "source": "钛媒体",
+     "zh": "解码袁记IPO：一只饺子，两个市场，三种生意"
+    },
+    {
+     "title": "“微软 2026 最大宕机”事件后，Outlook 和 GitHub 再次反馈出现服务故障",
+     "link": "https://www.ithome.com/1/033/808.htm",
+     "pubDate": "Sat, 28 Nov 2026 02:07:02 GMT",
+     "summary": "IT之家 11 月 28 日消息，根据故障监测平台 DownDetector 今天（11 月 28 日）发布的最新追踪数据， 微软在经历“2026 最大宕机”事件 后， 旗下的 Outlook 和 GitHub 再次出现服务故障。 Outlook 方面，根据该平台监测的反馈数据，在过去 24 小时持续有用户反馈登录、收发信息出现故障，从美国东部时间凌晨 1:01（北京时间 11 月 27 日 14:01）开始，峰值时间出现在北京时间 11 月 27 日 14 点 36 分。 而 GitHub 方面，根据反馈数据，用户访问时普遍遇到 504 网关超时错误，从美国东部时间 11 月 27 日 13",
+     "source": "IT之家",
+     "zh": "“微软 2026 最大宕机”事件后，Outlook 和 GitHub 再次反馈出现服务故障"
+    },
+    {
+     "title": "AI 软件公司最担心的事情，终于发生了",
+     "link": "https://www.huxiu.com/article/4909126.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 10:06:09 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 前段时间，一位AI软件公司的合伙人告诉我：他们刚丢掉了一个重要客户。 这个客户是他们的第一个大客户，每年给他们贡献上千万的收入。 丢单的原因，不是产品出了问题，也不是竞争对手挖墙脚。 而是客户决定自研。 这家公司的AI产品很有竞争力，年营收去年就做到了数千万。 我和他们的产研负责任人交流过，当时他充满信心的给我说：AI软件背后的工程化太多，客户不可能自研。 但随着大模型能力越来越强，客户需要补的工程化越来越少，曾经坚不可摧的护城墙，轰然倒塌。 前段时间，一位软件公司CEO来拜访我。 他问了我一个问题：AI对软件行业最致命的威胁，到底是什么？ ",
+     "source": "虎嗅",
+     "zh": "AI 软件公司最担心的事情，终于发生了"
+    },
+    {
+     "title": "蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好",
+     "link": "https://www.tmtpost.com/8220737.html",
+     "pubDate": "Sat, 28 Nov 2026 10:02:21 +0800",
+     "summary": "两口子都做中产的生意。",
+     "source": "钛媒体",
+     "zh": "蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好"
+    },
+    {
+     "title": "长鑫科技流通股东大洗牌，外资股东至少套现80亿",
+     "link": "https://www.tmtpost.com/8220923.html",
+     "pubDate": "Sat, 28 Nov 2026 10:02:12 +0800",
+     "summary": "前十大流通股东换了9个。",
+     "source": "钛媒体",
+     "zh": "长鑫科技流通股东大洗牌，外资股东至少套现80亿"
+    },
+    {
      "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
      "link": "https://www.techmeme.com/261127/p16#a261127p16",
      "pubDate": "Fri, 27 Nov 2026 21:00:01 -0500",
@@ -1786,44 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek给智能装上了电表"
     },
     {
-     "title": "耐克全球供应链再次受到考验",
-     "link": "https://www.tmtpost.com/8220973.html",
-     "pubDate": "Sat, 28 Nov 2026 09:49:28 +0800",
-     "summary": "耐克过去四十多年的发展史，在很大程度上也是全球制鞋产业的迁移史。",
-     "source": "钛媒体",
-     "zh": "耐克全球供应链再次受到考验"
-    },
-    {
-     "title": "国际轻奢集体撤退，谁接住了中女的千元衣柜？",
-     "link": "https://www.tmtpost.com/8220985.html",
-     "pubDate": "Sat, 28 Nov 2026 09:49:21 +0800",
-     "summary": "国际轻奢退场，国产中高端女装迎来上位窗口。",
-     "source": "钛媒体",
-     "zh": "国际轻奢集体撤退，谁接住了中女的千元衣柜？"
-    },
-    {
      "title": "美国短剧App投放ROI崩了，五人小队该先砍素材产能还是先调排期？",
      "link": "https://www.baijing.cn/question/639014",
      "pubDate": "Sat, 28 Nov 2026 01:49:06 +0000",
      "summary": "我们做北美短剧App，起量中，投放加运营一共5个人：1个投手、2个剪辑、1个运营、1个兼职数据分析。上月在Meta和TikTok日耗冲到3000美元后，ROI从0.9掉到0.55，素材周产从20条压到12条还是追不上衰减，剪辑排期已经排到两周后。试过砍掉低效素材组、把预算往TikTok倾斜，但新剧上线节奏和投放测试窗口对不上，投手一天要盯8个广告组，运营还要兼客服。现在卡在人力就这么多，是先停掉部分在投剧集保ROI，还是硬扛排期继续扩素材量？",
      "source": "白鲸出海",
      "zh": "美国短剧App投放ROI崩了，五人小队该先砍素材产能还是先调排期？"
-    },
-    {
-     "title": "现在的黄仁勋也没办法让GeForce显卡变便宜",
-     "link": "https://www.tmtpost.com/8220759.html",
-     "pubDate": "Sat, 28 Nov 2026 09:47:31 +0800",
-     "summary": "游戏玩家刚放下的心又悬起来了。",
-     "source": "钛媒体",
-     "zh": "现在的黄仁勋也没办法让GeForce显卡变便宜"
-    },
-    {
-     "title": "《后会友期》单挑红果，芒果TV「画地为牢」",
-     "link": "https://www.tmtpost.com/8220792.html",
-     "pubDate": "Sat, 28 Nov 2026 09:47:26 +0800",
-     "summary": "为什么手握爆款综艺，会员却卖不动了？",
-     "source": "钛媒体",
-     "zh": "《后会友期》单挑红果，芒果TV「画地为牢」"
     },
     {
      "title": "仅今年第三季度，SK 海力士员工人均绩效奖金预估可达 2.3 亿韩元",
@@ -1853,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
      "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 35 # Comments: 14",
      "source": "Hacker News",
      "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
     },
@@ -1864,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 发宏商业 ，作者：发宏商业 一个值得先摆出来的反差是：2025年，全国237所MBA招生院校中89%宣布扩招，总名额从6.3万增至7.2万；但同一年，上海交通大学安泰经管学院的MBA/EMBA录取总数从前一年的816人跌至517人，非全MBA从567人腰斩到362人，EMBA从165人跌到73人。复试线按国家A线146分执行，“过线几乎全录”。北京师范大学、武汉大学、同济大学等名校的非全日制MBA，第一志愿也首次出现招不满、开放调剂的情况。 一边是供给端拼命扩，一边是需求端在头部名校那里反而缩了。这个背离本身，比任何“商学院有没有价值”的抽象争论都诚实。它说明的不是商学院",
      "source": "虎嗅",
      "zh": "AI时代的商学院：学费买不到的那张“认知入场券”"
-    },
-    {
-     "title": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国",
-     "link": "https://www.ithome.com/1/033/801.htm",
-     "pubDate": "Sat, 28 Nov 2026 01:26:44 GMT",
-     "summary": "IT之家 11 月 28 日消息，《GTA 6》发售前，曾有消息称，R 星考虑过将一款《侠盗猎车手》系列新作的故事舞台搬到东京，但最终放弃了这一计划。R 星前高管奥贝 · 维尔梅伊（Obbe Vermeij）当时解释，开发一款以海外为背景的 GTA 游戏 存在不小的风险 。 当地时间 27 日，外媒 Eurogamer 发布了采访 R 星联合负责人罗布 · 尼尔森（Rob Nelson）的内容。 尼尔森谈到了未来将 GTA 系列带出美国的可能性。他认为，这种情况不太可能发生，不过理由与此前维尔梅伊给出的解释并不相同。“我不知道…… 因为总会有更有意思的地方值得我们考虑，把游戏设定在那里。 美国",
-     "source": "IT之家",
-     "zh": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国"
     },
     {
      "title": "巴西支付接入排期撞上运营节奏，3人团队该怎么排？",
@@ -1885,17 +1925,9 @@ window.INDUSTRY_DATA = {
      "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
      "link": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
      "pubDate": "Sat, 28 Nov 2026 01:20:16 +0000",
-     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 15 # Comments: 0",
+     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 30 # Comments: 2",
      "source": "Hacker News",
      "zh": "Alaska seized his plane over some beers. He is asking the Supreme Court for help"
-    },
-    {
-     "title": "奔驰中国拟持股70%，再组新合资公司为何瞄准采购",
-     "link": "https://www.huxiu.com/article/4909115.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 09:08:36 +0800",
-     "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 奔驰准备在北京再设一家合资公司，业务瞄准零部件采购。 据路透社11月27日援引中国市场监管部门申报文件的报道，奔驰中国计划与北京奔驰设立一家新公司，采购乘用车零部件并向北京奔驰供应。其中，奔驰中国持股70%，北京奔驰持股30%，双方共同控制新公司。 北京奔驰将同时成为这家公司的股东和客户。采购环节被单独放进一家合资公司，意味着整车生产之外，双方又多了一项需要共同经营的业务。 这笔合资计划出现时，奔驰正在应对利润压力。一个月前的10月27日，奔驰将2026年乘用车业务调整后销售利润率预期，从3%至5%下调至2%至3%，并提及中国市场环境走弱及第",
-     "source": "虎嗅",
-     "zh": "奔驰中国拟持股70%，再组新合资公司为何瞄准采购"
     },
     {
      "title": "韩国独立站红人种草素材，为什么本地化越做转化越低？",
@@ -1906,36 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩国独立站红人种草素材，为什么本地化越做转化越低？"
     },
     {
-     "title": "57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂",
-     "link": "https://www.huxiu.com/article/4909111.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 08:50:28 +0800",
-     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 昨天看到一个新闻，一位57岁的女士在嘉兴被一家酒店拒之门外，店方理由是“仅限18至40岁入住”。该女士则认为自己在预订页面中并未见到明显的年龄限制提示，提交订单页面同样没有醒目提示，仅在订房条款中才有标注，相当于进入三级页面才能见到。此外，酒店主页也没有醒目提示。 酒店提供的是上下铺多人客房，该女士提供的平台退款截图显示，退款金额为26.31元。从房间形态和价位，都可以确认这实际上是一个青年旅社的床位。 在网络评论中，支持酒店的声音明显更多，诸如“人家明明是青年旅社”“上过小学都应该认得青年二字”之类的评论直接刷屏。 这些评论看起来自",
-     "source": "虎嗅",
-     "zh": "57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂"
-    },
-    {
-     "title": "国资1.4亿买老挝酒店，只卖1万块？",
-     "link": "https://www.huxiu.com/article/4909110.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 08:38:29 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 五星琅勃拉邦铂尔曼，1万块挂牌清仓背后。 ▲ 01 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园",
-     "source": "虎嗅",
-     "zh": "国资1.4亿买老挝酒店，只卖1万块？"
-    },
-    {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
      "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
-    },
-    {
-     "title": "2027年1月美国‘新关税’可能对中国出口的影响？",
-     "link": "https://www.huxiu.com/article/4909106.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 08:09:32 +0800",
-     "summary": "本文来自微信公众号： 载堉视界 ，作者：载堉视界 这两天出差和商家交流的时候，大家又在担心11月25日美国发布的\"新关税\"消息。大家担心2027年的关税战会再起，影响2027年中国外贸的整体表现和出口美国的增长势头。在我看下来其实不用太担心，美国此举在我看来不是\"负面影响\"反而是\"正面影响\"。因为中国主持的APEC会议多国领导人达成了一个非常积极的贸易合作规则框架。就算美国新301关税落地也不会给中国当前的出口美国贸易新增太多的负担，反而是针对其他出口美国的制造业经济体（如东南亚、日韩、欧洲、拉美等）带去了非常大的压力，凸显了中国的相对税率优势。 先把话说清楚：我说\"正面\"，不是说中国的税率变",
-     "source": "虎嗅",
-     "zh": "2027年1月美国‘新关税’可能对中国出口的影响？"
     },
     {
      "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
@@ -1949,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "Passkey blues",
      "link": "https://ssg.dev/passkey-blues/",
      "pubDate": "Fri, 27 Nov 2026 23:51:28 +0000",
-     "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 28 # Comments: 4",
+     "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 44 # Comments: 14",
      "source": "Hacker News",
      "zh": "Passkey blues"
-    },
-    {
-     "title": "Painting 1990s anime scenes in Python",
-     "link": "https://www.fofr.ai/greenhouse-after-the-typhoon",
-     "pubDate": "Fri, 27 Nov 2026 23:50:17 +0000",
-     "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Painting 1990s anime scenes in Python"
     },
     {
      "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
@@ -2250,12 +2250,44 @@ window.INDUSTRY_DATA = {
      "zh": "铝市割裂一幕：期货价格下跌，现货却遭史诗级逼空，LME紧急出手"
     },
     {
+     "title": "今年前10个月物流业总收入12.3万亿元 同比增长4.2%",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942336881.html",
+     "pubDate": "Sat, 28 Nov 2026 09:55:12 +0800",
+     "summary": "中国 物流 与采购联合会今天（28日）发布今年前10个月 物流 运行数据。今年1月至10月，我国 物流 市场呈现规模稳中有进、结构持续向优的良好态势，物流供给端积极变革， 综合 效能和韧性有所增强，国际物流通道高效畅通。 从市场规模看，1月至10月，物流业总收入12.3万亿元，同比增长4.2%。（央视新闻） （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "今年前10个月物流业总收入12.3万亿元 同比增长4.2%"
+    },
+    {
+     "title": "海南自贸港封关后药企如何获益？海关揭晓三大“密码”",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942336754.html",
+     "pubDate": "Sat, 28 Nov 2026 09:52:43 +0800",
+     "summary": "海南自贸 港封关运作即将满一年，自贸港红利如何赋能生物医药产业？海口海关关税处副处长辜振成27日揭晓三大“密码”：信用监管赋能、便利化监管举措支撑、加工增值政策助力。 当天，“畅营自贸港 惠企在一线”安商惠企之生物医药产业专场新闻发布会在海口国家高新区举办。辜振成表示， 海南自贸 港封关运作后，药企用好进口 原料药 、药用 辅料 开展深加工，产业提速、产能释放的 综合 效应加速显现。 一是信用监管赋能。截至目前，海口关区共有 133家AEO企业 ，其中11家为医药企业。海口海关对高级认证企业简化“二线”出岛核验流程，降低现场查验比例，支持适用“分批出岛、集中申报”，大幅压缩制度性交易成本。 在",
+     "source": "东方财富股票",
+     "zh": "海南自贸港封关后药企如何获益？海关揭晓三大“密码”"
+    },
+    {
      "title": "猪周期变长了 养殖户亏大了",
      "link": "http://www.eeo.com.cn/2026/1128/1105952.shtml",
      "pubDate": "Sat, 28 Nov 2026 09:52:29 +0800",
      "summary": "本轮猪周期自2022年12月进入下行通道，至2026年11月已持续47个月，构成了历史上罕见的超长猪周期。周期过长的核心原因在于行业规模化程度提升，整体抗风险能力增强，产能去化节奏随之放缓。同时，养殖效率持续提升，即便能繁母猪数量有所减少，市场的猪肉供给并没有同步下降。",
      "source": "经济观察网",
      "zh": "猪周期变长了 养殖户亏大了"
+    },
+    {
+     "title": "仅今年第三季度SK海力士员工人均绩效奖金预估可达2.3亿韩元",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942336681.html",
+     "pubDate": "Sat, 28 Nov 2026 09:47:17 +0800",
+     "summary": "11 月 28 日消息，据韩媒 ChosunBiz 昨天（27 日）报道，SK 海力士员工的绩效奖金规模正迅速攀升。据估算，仅今年第三季度，公司计提的员工绩效奖金就折合 人均 2.3 亿韩元 （IT之家注：现汇率约合 114.2 万元人民币）。 截至 9 月底，人均累计计提金额达到 5.02 亿韩元（现汇率约合 249.2 万元人民币）。如果全年营业利润符合证券机构的预测， 人均奖金有望达到 7.85 亿韩元 （现汇率约合 389.8 万元人民币）。 为了支付明年年初开始发放的奖金及其他款项，SK 海力士计提的应付薪酬也在 9 月底突破 15 万亿韩元（现汇率约合 744.75 亿元人民币）。",
+     "source": "东方财富股票",
+     "zh": "仅今年第三季度SK海力士员工人均绩效奖金预估可达2.3亿韩元"
+    },
+    {
+     "title": "被印度追税12亿美元 大众把奔驰、宝马、起亚写进法庭文件",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942336583.html",
+     "pubDate": "Sat, 28 Nov 2026 09:44:37 +0800",
+     "summary": "11月28日，据路透社报道，在与印度政府围绕约 12亿美元关税追缴要求 展开诉讼之际，大众 汽车 将奔驰、宝马、起亚等同行的零部件进口数据提交给孟买一家法院，称 生产同类 汽车 的制造商均采用类似进口模式并按10%的税率缴税 ，印度税务部门不应只对大众追缴更高关税。 这场争议的核心， 是大众进口的货物应被认定为单独 汽车零部件 ，还是接近整车的 汽车 套件 。印度税务部门指控，大众将用于组装奥迪、斯 柯达 和大众品牌汽车的部件拆分成不同批次运入印度，以约10%的税率申报，从而规避汽车套件适用的约30%关税。 大众否认存在违规行为 。其印度子公司在11月10日提交的法庭文件中表示，印度方面声称其",
+     "source": "东方财富股票",
+     "zh": "被印度追税12亿美元 大众把奔驰、宝马、起亚写进法庭文件"
     },
     {
      "title": "医美低龄化：监护人同意，不该只是走个过场",
@@ -2270,8 +2302,16 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1354,202611283942335051.html",
      "pubDate": "Sat, 28 Nov 2026 09:40:17 +0800",
      "summary": "据供应链消息称， 特斯拉 的下一代 人工智能 芯片AI不太可能在2027年实现量产，因为 特斯拉 AI5芯片的设计合作伙伴——台湾创意 电子 （GUC）将其在 台积电 的有限产能优先分配给了谷歌Axiom芯片和 微软 的产品。 此前供应链消息指出， 特斯拉 AI5芯片的设计交给了创意 电子 ，并间接排进 台积电 投片队列，将使用 台积电 的3纳米制程工艺。韩国三星 电子 也供应部分AI5芯片，使用2纳米制程工艺。 消息人士最新表示，虽然创意电子从台积电获得的3纳米芯片产能配额有所增加，但仍不足以满足其所有客户的需求。利润是创意电子将产能优先分配给谷歌和 微软 的主要动机，因为云服务提供商的订单",
-     "source": "东方财富资讯",
+     "source": "东方财富股票",
      "zh": "特斯拉AI5芯片难在明年量产？台积电产能争夺战中输给谷歌和微软"
+    },
+    {
+     "title": "涉案金额近亿元，利元亨与客户互相起诉，因合同尾款多次“掐架”",
+     "link": "http://finance.eastmoney.com/news/11134,202611283942335921.html",
+     "pubDate": "Sat, 28 Nov 2026 09:38:40 +0800",
+     "summary": "利元亨 （688499.SH）近日连发两则诉讼公告，其全资子公司惠州索沃与微宏动力系统（湖州）有限公司（下称“微宏动力”）存在合同纠纷。公司已向法院提起诉讼，追讨剩余货款 1.07亿元 及逾期付款违约金，目前该案尚未开庭。 但事情很快从一方追责变成互相起诉。根据11月27日公告，微宏动力也起诉了惠州索沃，认为涉案设备的实际性能和约定的技术标准有差距，提出折价接收的条件，希望涉案合同采购价能减少 8890万元 ，相当于合同总价的25%。 2026年以来，由于合同尾款纠纷， 利元亨 与微宏动力及其母公司美国微宏多次互相起诉。 利元亨 方面表示，此次激化矛盾的，是微宏动力单方面终止项目的行为。 11",
+     "source": "东方财富股票",
+     "zh": "涉案金额近亿元，利元亨与客户互相起诉，因合同尾款多次“掐架”"
     },
     {
      "title": "央行发布2026年金融稳定报告！银行业风险收敛 公募流动性承压能力较强",
@@ -2432,46 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
      "source": "Financial Times",
      "zh": "US tech stocks rise in latest market swing"
-    },
-    {
-     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
-     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
-     "source": "MarketWatch",
-     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
-    },
-    {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
-    },
-    {
-     "title": "The warnings behind this week’s stock-market rally",
-     "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
-     "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
-     "source": "MarketWatch",
-     "zh": "The warnings behind this week’s stock-market rally"
     }
    ]
   },

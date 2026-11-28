@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 14:51:54",
+ "generated_at": "2026/11/28 15:11:49",
  "recent_days": 7,
  "industries": [
   {
@@ -1738,12 +1738,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "欧洲短剧订阅转化卡在3.2%，是内容选品还是付费墙设计的问题？",
+     "link": "https://www.baijing.cn/question/639033",
+     "pubDate": "Sat, 28 Nov 2026 07:03:22 +0000",
+     "summary": "我们做欧洲短剧出海，德国、法国、英国、西班牙四国同步上线，内容以都市情感和悬疑反转为主，团队12人，月投放预算约8万欧元。目前免费前3集到订阅的转化率只有3.2%，英国稍高、德国最低。已经试过AB测试付费墙位置、首月0.99欧元促销和本地化字幕重做，转化没明显起色。内容采购上我们按国内爆款逻辑备了20部剧，但欧洲用户对豪门、复仇题材的完播率明显低于预期，退货和退款率在德国接近6%。现在卡在选品方向：是该按欧洲本地偏好重新采购剧本，还是先优化付费墙和定价？想听听同行的判断标准。",
+     "source": "白鲸出海",
+     "zh": "欧洲短剧订阅转化卡在3.2%，是内容选品还是付费墙设计的问题？"
+    },
+    {
+     "title": "别克至境 E7 上市 6 个月交付突破 4 万台刷新纪录，推出全新车色“墨竹青”",
+     "link": "https://www.ithome.com/1/033/855.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:55:22 GMT",
+     "summary": "IT之家 11 月 28 日消息，别克今日宣布，至境 E7 上市 6 个月，4 万用户里程碑达成，刷新中高端合资新能源交付纪录。 IT之家注意到，官方还推出了全新车色「墨竹青」， 限时置换价 14.19 万元起 。 9 月 23 日，别克至境 E7 焕新版车型上市，提供三款配置，分别为 1600 大满配、1600 超满配 Pro 版和 1600 超满配 Turbo 版，车身尺寸为 4850 × 1910 × 1676mm，轴距 2850mm。 别克至境 E7 焕新版首发搭载新一代豆包大模型及行业首个 S2S 端到端语音大模型，还配备 Momenta R6 强化学习大模型。 动力方面，该车搭载真",
+     "source": "IT之家",
+     "zh": "别克至境 E7 上市 6 个月交付突破 4 万台刷新纪录，推出全新车色“墨竹青”"
+    },
+    {
+     "title": "德国站 VAT 递延后，清关放行到资金回款要多久？",
+     "link": "https://www.baijing.cn/question/639032",
+     "pubDate": "Sat, 28 Nov 2026 06:54:19 +0000",
+     "summary": "德国站走 VAT 递延清关，货代说汉堡港放行平均 2 天，但实际从到港到入仓用了 9 天，其中 4 天卡在递延税号与报关行对不上。我们 6 人小团队、月广告预算 4 万欧元，做汽配类目，刚起量阶段，用 Amazon Pan-EU 和第三方面单。现在资金回款周期被拉到 45 天以上，现金流吃紧。已试过换报关行、提前 3 天发预报，仍卡在递延申报与平台回款对账这一环。想直接问：德国 VAT 递延下，清关放行到回款的合理时效区间到底是多少，超期该先查报关行还是查平台结算？",
+     "source": "白鲸出海",
+     "zh": "德国站 VAT 递延后，清关放行到资金回款要多久？"
+    },
+    {
+     "title": "全球最大“人造太阳”第 7 个真空室模块吊装就位，安装进度超四分之三",
+     "link": "https://www.ithome.com/1/033/854.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:54:15 GMT",
+     "summary": "IT之家 11 月 28 日消息，法国当地时间 11 月 26 日，全球最大“人造太阳”国际热核聚变实验堆（ITER）托卡马克装置第 7 个真空室模块 —— Sector Module 9 完成整体吊装并精准落位。 ITER 由欧盟、中国、俄罗斯、美国、日本、韩国和印度共同参与建造 ，建造地点位于法国南部。这一国际大科学工程旨在模拟太阳发光发热的核聚变过程，探索受控核聚变技术的商业化可行性，又被称为全球最大“人造太阳”。 据中核集团 11 月 27 日发布的文章，这是 ITER 真空室模块的首次双侧受限吊装，由中核工程联合体牵头协调国际团队完成。至此， ITER 真空室模块组装进度超过四分之三",
+     "source": "IT之家",
+     "zh": "全球最大“人造太阳”第 7 个真空室模块吊装就位，安装进度超四分之三"
+    },
+    {
+     "title": "AI推理芯片新秀14个月估值涨逾9倍，创始人曾任职华为",
+     "link": "https://www.huxiu.com/article/4909173.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 14:53:47 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：敖瑾 继星宸科技（301536.SZ）、智微智能（001339.SZ）之后，推理芯片公司元川微的新一轮融资，又出现了上市公司的身影。 新智认知（603869.SH，证券简称ST智知）11月25日晚披露，公司旗下基金拟与新奥资本参与的基金共同投资杭州元川微科技有限公司。两家基金各出资约3000万元，通过专项投资主体合计投资6000万元，取得元川微Pre-A+轮增资后1.25%的股权。 据此测算，元川微本轮投后估值为48亿元。 新智认知与新奥资本同属新奥系。此次公告披露的是双方联合参与的一笔投资，元川微Pre-A+轮的完整规模尚未在该公告中公布。目前增资协",
+     "source": "虎嗅",
+     "zh": "AI推理芯片新秀14个月估值涨逾9倍，创始人曾任职华为"
+    },
+    {
+     "title": "全球首个无需电池、可生物吸收的植入物问世，还能“发光报平安”",
+     "link": "https://www.ithome.com/1/033/853.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:49:53 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Phys 昨日（11 月 27 日）发布博文，报道称香港理工大学联合韩国延世大学的研究人员， 研发出全球首个无需电池、可生物吸收的植入物，能靠超声波自行发电，还能通过发光显示自身状态。 报道指出植入式生物电子设备主要用于持续监测身体的生理变化，也能在需要时提供精准的治疗。但它们一旦被植入，医生和患者就很难直接查看它们的状态。 此外设备出现损坏或性能下降后，往往要等到身体出现并发症，问题才会被发现。其中电池的问题也不容忽视，由于电池的寿命有限，还可能漏液，在长期使用过程中会带来安全隐患。 这款新装置不用电池，靠超声波就能获得电力。 它用的是“摩擦电”技",
+     "source": "IT之家",
+     "zh": "全球首个无需电池、可生物吸收的植入物问世，还能“发光报平安”"
+    },
+    {
+     "title": "孟加拉bKash通道接入后回款要T+5，是继续用还是换本地收单？",
+     "link": "https://www.baijing.cn/question/639031",
+     "pubDate": "Sat, 28 Nov 2026 06:48:19 +0000",
+     "summary": "我们在达卡做小额订阅工具，起量中，月流水约8万美元，团队6人。上个月接了bKash和Nagad两个本地钱包通道，用户付款成功率从52%提到71%，但结算卡在回款上：bKash走代理行清算，实际到账T+5，Nagad更慢，遇到周五和公共假期能拖到T+7，现金流压了近两周的投放预算。已试过让本地合作方代收再转，但账期没缩短，还多一层对账。现在纠结是继续扛这个回款周期、把定价上调覆盖资金占用，还是换成当地有牌照的收单机构做直连。判断该看通道费率还是看实际到账天数？",
+     "source": "白鲸出海",
+     "zh": "孟加拉bKash通道接入后回款要T+5，是继续用还是换本地收单？"
+    },
+    {
+     "title": "一汽解放首台 1000 公里 J7 氢燃料电池牵引车下线，号称将实现“人歇车不歇”",
+     "link": "https://www.ithome.com/1/033/852.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:47:26 GMT",
+     "summary": "IT之家 11 月 28 日消息，一汽解放通过官方公众号宣布，11 月 26 日， 一汽解放首台 1000 公里 J7 氢燃料电池牵引车 在解放有限制造中心四川厂顺利下线。据介绍，1000 公里 J7 氢燃料电池牵引车系统集成度高，在氢电隔离、管路密封、系统匹配、安全管控等方面均对标行业最高标准。 面对中长途干线物流对“长续航、快补能”的需求，研发团队从底层架构出发，成功打破氢燃料电池重卡在长续航与高集成度上的技术瓶颈，引领燃料电池整车产品发展方向。一汽解放 J7 产品平台搭载 Ⅳ 型瓶氢系统，配合高效能量管理策略，让车辆能轻松跨越千公里，真正实现了“人歇车不歇”的干线物流运营节奏，以超强的产",
+     "source": "IT之家",
+     "zh": "一汽解放首台 1000 公里 J7 氢燃料电池牵引车下线，号称将实现“人歇车不歇”"
+    },
+    {
      "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
      "link": "https://www.techmeme.com/261128/p3#a261128p3",
      "pubDate": "Sat, 28 Nov 2026 01:45:01 -0500",
      "summary": "John Reynolds / Tech.eu : Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ &nbsp; &mdash;&nbsp; Trustly has raised the funds from existing investors.&nbsp; &mdash;&nbsp; Swedish fintech Trust",
      "source": "Techmeme",
      "zh": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)"
+    },
+    {
+     "title": "长安 NEVO X 概念车官宣 12 月 1 日全球首秀，2026 泰国国际车展正式亮相",
+     "link": "https://www.ithome.com/1/033/850.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:42:34 GMT",
+     "summary": "IT之家 11 月 28 日消息，长安汽车今日宣布，旗下 NEVO X 概念车将于 12 月 1 日在 2026 泰国国际车展全球首秀，并放出了一张 AI 海报，官方公布的主题为“光蕴未来，天枢启新”。 IT之家注：2026 泰国国际车展为区域性车展，将于 12 月 2 日至 13 日举行。第 43 届车展主席夸猜 · 帕帕蓬表示，2025 年车展十分成功 —— 销售汽车 75,246 辆、摩托车 5,263 辆，观众超 150 万人次，创造超过 700 亿泰铢的经济效益。 目前，长安汽车尚未公布 NEVO X 概念车的具体设计、动力配置及技术参数，相关信息预计将在 12 月 1 日的全球首秀",
+     "source": "IT之家",
+     "zh": "长安 NEVO X 概念车官宣 12 月 1 日全球首秀，2026 泰国国际车展正式亮相"
+    },
+    {
+     "title": "消息称华为 Mate 90 系列手机实时激活销量已破 100 万",
+     "link": "https://www.ithome.com/1/033/849.htm",
+     "pubDate": "Sat, 28 Nov 2026 06:41:07 GMT",
+     "summary": "IT之家 11 月 28 日消息，博主 @数码闲聊站 今日爆料，华为 Mate 90 系列，实时激活销量已破 100 万 。 博主称 Mate 90 系列是 今年下半年唯二 达成百万激活的国产旗舰机。 IT之家注意到， 此前达成该成就的机型为华为 Pura X View 阔直板手机 。 在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 —— Mate 90 系列手机正式发布，售价 5999 元起。 11 月 24 日，华为还推出了 Mate 90 Air 手机，主打大屏幕 + 轻薄设计，搭载麒麟 9020 处理器，售价 4999 元起，将于 12 月 4 ",
+     "source": "IT之家",
+     "zh": "消息称华为 Mate 90 系列手机实时激活销量已破 100 万"
     },
     {
      "title": "GPSR 责任人信息挂上德国站后，本地素材转化反而掉了，欧洲各国接受度差在哪？",
@@ -1778,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国手机品牌最难的一年荣耀涨得最猛"
     },
     {
-     "title": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型",
-     "link": "https://www.ithome.com/1/033/843.htm",
-     "pubDate": "Sat, 28 Nov 2026 06:25:43 GMT",
-     "summary": "IT之家 11 月 28 日消息，长城汽车 2027 款坦克 400 家族今日在 2026 广州车展上正式上市，共推出 5 款车型，售价区间为 24.98 万至 31.98 万元。 新车提供汽油、柴油、Hi4-T 和 Hi4-Z 多种动力形式，主要升级集中在智能驾驶、座舱舒适性、内外饰配色及户外拓展配置等方面。其中，Hi4-Z 车型采用 800V 高压平台。 外观方面，新车延续现款机甲风格设计，新增钛空青车身配色，全系提供 4 种外观颜色。 车身长宽高分别为 4964×1970×1905 毫米，轴距为 2850 毫米。内饰新增旭辉橙配色，共提供两种内饰颜色，车内配备 15.6 英寸中控屏、12",
-     "source": "IT之家",
-     "zh": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型"
-    },
-    {
      "title": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
      "link": "https://www.techmeme.com/261128/p2#a261128p2",
      "pubDate": "Sat, 28 Nov 2026 01:25:04 -0500",
@@ -1794,36 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "COO Jen Wong says 80%+ of Reddit&apos;s monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)"
     },
     {
-     "title": "传奇眼镜蛇重现：福特 Mustang Cobra 名称时隔 22 年回归",
-     "link": "https://www.ithome.com/1/033/842.htm",
-     "pubDate": "Sat, 28 Nov 2026 06:24:15 GMT",
-     "summary": "IT之家 11 月 28 日消息，汽车媒体 CarBuzz 昨日（11 月 27 日）发布博文， 报道称福特（Ford）在发布 GT41 赛车后 ，在官方随后公布的宣传视频中，出现了 Mustang Cobra 徽标，距离该名称消失已过去 22 年。 该视频由扎克 · 施奈德执导、马特 · 达蒙担任旁白，名为《Hyper Trip Go Like Hell》，回顾了福特的赛车历史，并展望其未来的赛车运动规划。 福特随后把含有徽标的片段单独剪出，发布在 Mustang 官方 Instagram 账号上，并配文称，这是为下一代 Mustang Cobra 重新设计的徽标。 IT之家援引博文介绍，C",
-     "source": "IT之家",
-     "zh": "传奇眼镜蛇重现：福特 Mustang Cobra 名称时隔 22 年回归"
-    },
-    {
      "title": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？",
      "link": "https://www.baijing.cn/question/639028",
      "pubDate": "Sat, 28 Nov 2026 06:22:00 +0000",
      "summary": "我们做汽车线束配件，去年开始在墨西哥新莱昂州找本地代工做近岸外包，团队一共3个人，一个人兼采购和跟单，月均出货约40个柜。最近连续两批货因为供应商原材料到货延迟，交期从35天拖到70天，客户罚款条款已经触发。试过用共享表格加WhatsApp群同步进度，但时差和西语沟通跟不上，关键节点全靠对方口头反馈。现在卡在要不要加人常驻当地，还是先上一套轻量供应链协同工具把排期可视化。3个人的运营节奏下，你们判断该先补人力还是先补系统？",
      "source": "白鲸出海",
      "zh": "墨西哥近岸外包订单排期被供应商拖了两个月，只靠3个人怎么盯住跨境供应链节点？"
-    },
-    {
-     "title": "肯尼亚买量素材点击率只有1.2%，本地化到底该改哪里？",
-     "link": "https://www.baijing.cn/question/639027",
-     "pubDate": "Sat, 28 Nov 2026 06:15:49 +0000",
-     "summary": "我们在内罗毕做一款中轻度SLG手游，团队6个人，起量阶段月买量预算大概1.5万美元，主要在Google Ads和Meta投肯尼亚、尼日利亚两个市场。同样的素材，尼日利亚CPI约0.18美元、点击率2.6%，肯尼亚点击率只有1.2%、CPI反而到0.31美元。素材是英文配音加欧美卡通画风，试过把文案换成斯瓦希里语短句、加了当地M-Pesa充值场景的截图，点击率只涨了0.1个百分点。也试过找本地小网红拍15秒实拍，量太小跑不动。现在卡在不知道该优先改美术风格、配音口音还是卖点表达，想问问有肯尼亚投放经验的同行，判断素材本地化是否到位，你们看的是哪几个具体指标？",
-     "source": "白鲸出海",
-     "zh": "肯尼亚买量素材点击率只有1.2%，本地化到底该改哪里？"
-    },
-    {
-     "title": "TikTok Shop 巴西站达人佣金压到多少，备货和退货才不亏？",
-     "link": "https://www.baijing.cn/question/639026",
-     "pubDate": "Sat, 28 Nov 2026 06:02:44 +0000",
-     "summary": "巴西站做美妆个护，达人带货佣金普遍报到 20% 起，我们一款身体乳佣金 22% 加平台活动，毛利只剩 9 个点。备货走圣保罗海外仓，首批 3000 件压了 40 天，退货率 11%，退回来的货二次销售折价三成。试过把佣金降到 15% 换中小达人，出单量掉了一半；也试过只给头部达人 25% 冲量，结果退货率飙到 18%。现在卡在选品和备货节奏上：高佣金品类不敢多备，低佣金又推不动。想请教的是，在巴西站达人佣金和退货率之间，你们的选品和备货安全线是怎么定的？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 巴西站达人佣金压到多少，备货和退货才不亏？"
     },
     {
      "title": "Walmart Promo Codes: 20% Off for November 2026",
@@ -1898,60 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "金价震荡考验周大福"
     },
     {
-     "title": "日均12元的酒店早餐自助，快被精明打工人吃成食堂了",
-     "link": "https://www.huxiu.com/article/4909162.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 13:52:16 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：牧羊，编辑：曾宝气 近些年，不少酒店也在推出瞄准顾客消费痛点，又能更合理利用酒店资源的活动，诸如剩菜盲盒、餐饮大排档外摆、88元的酒店饼房生日蛋糕、平价的游泳健身次卡、钟点房自助洗衣……照这个趋势，人们简直可以把自己的整个生活按项目托管给一家酒店了。 而酒店早餐月卡的走红，其实是一场供需的双向试探。 如果每天有10元左右的早餐预算，打工人会怎样安排？ 不想啃隔夜面包的人盯上了快餐店的早餐，每天10块钱出头就能吃到汉堡咖啡或者包子馒头小套餐，不过还得额外办个月卡，算下来好像又没便宜多少。如果选择自己做饭，成本的确是降下来了，但每天早上出门前，还得洗洗刷刷弄好",
-     "source": "虎嗅",
-     "zh": "日均12元的酒店早餐自助，快被精明打工人吃成食堂了"
-    },
-    {
      "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
      "link": "https://www.techmeme.com/261128/p1#a261128p1",
      "pubDate": "Sat, 28 Nov 2026 00:50:02 -0500",
      "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z &nbsp; &mdash;&nbsp; Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and fine-grained ",
      "source": "Techmeme",
      "zh": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)"
-    },
-    {
-     "title": "沙特买量素材本地化踩了合规坑，最近这波政策变化该怎么应对？",
-     "link": "https://www.baijing.cn/question/639025",
-     "pubDate": "Sat, 28 Nov 2026 05:49:40 +0000",
-     "summary": "我们是一支12人的中东小团队，主做一款SLG手游，刚在沙特和阿联酋起量，月投放预算大约15万美元，主要跑Meta和TikTok。上个月有一批阿拉伯语素材被平台以“内容不符合当地文化规范”为由拒审，通过率从八成掉到不足五成，CPA直接涨了四成。我们试过换KOL口播、加本地服饰元素、找沙特籍配音，还是卡在审核这一关，不清楚到底是素材里的女性形象、宗教符号还是节日元素触发的。最近平台对中东地区的广告内容审核明显收紧，想问问大家现在素材本地化的合规红线到底怎么划，是优先改视觉元素还是先调整投放结构？",
-     "source": "白鲸出海",
-     "zh": "沙特买量素材本地化踩了合规坑，最近这波政策变化该怎么应对？"
-    },
-    {
-     "title": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100",
-     "link": "https://www.ithome.com/1/033/841.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:49:39 GMT",
-     "summary": "IT之家 11 月 28 日消息，Standard Kernel 公司于 11 月 18 日发布博文，通过优化英特尔 Gaudi2 加速器， 让其在特定 AI 推理任务中超过了英伟达 H100。 IT之家注：Gaudi2 是英特尔旗下 Habana Labs 研发的第二代深度学习加速器，于 2022 年 5 月发布，主要面向 AI 训练，相比较初代，制程从 16nm 升级到 7nm，TPC 数量从 8 个增至 24 个，并新增 FP8 支持。显存容量从 32GB 增至 96GB，片上 SRAM 翻倍至 48MB。 项目 Gaudi2 H100 PCIe 80GB 发布时间 2022 年 5 月",
-     "source": "IT之家",
-     "zh": "英特尔 Gaudi2 加速卡逆袭：软件优化后部分 AI 性能超英伟达 H100"
-    },
-    {
-     "title": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名",
-     "link": "https://www.ithome.com/1/033/840.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:39:42 GMT",
-     "summary": "IT之家 11 月 28 日消息，国家广播电视总局今日通报网络视听节目不良传播行为专项治理典型案例，快手、抖音、爱奇艺、百度网盘、微博、哔哩哔哩、红果短剧、微信、腾讯等平台均出现在处置名单中。 通报称，今年以来广电总局针对网络剧、微短剧、网络综艺等领域的不良传播生态开展专项治理，对侵权盗版、低俗不良、暴力恐怖以及 AI 魔改等违规内容予以整改。 一、处置网络视听节目侵权盗版传播典型案例 1.处置通过网络视听平台违规传播侵权盗版网络视听节目。 快手平台依规处置“嘉 ** 剧”“男 ** 享”“鱼 ** 鸣”等账号违规传播微短剧、影视剧、网络综艺侵权盗版内容。抖音平台依规处置“情 **”“一 * ",
-     "source": "IT之家",
-     "zh": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名"
-    },
-    {
-     "title": "不眠不休的芯片设计师：台积电推出 ADK 套件，用 AI 设计下一代芯片",
-     "link": "https://www.ithome.com/1/033/838.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:35:47 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）报道， 本周在慕尼黑举行的 2026 年欧洲 OIP 生态系统研讨会上，台积电首次公开了 AI 设计套件（AI Design Kit，下文简称 ADK）。 该套件汇集了特定工艺的技术信息、实施指南和设计方法，可让 AI 智能体自动完成并优化芯片开发流程。 台积电生态系统与联盟管理负责人阿维克 · 萨卡尔（Aveek Sarkar）强调，ADK 并非要取代传统的工艺设计套件（PDK），是对其的有益补充。台积电希望融合多年积累的工艺经验，与客户自身的编排层和设计经验，为下一代设计流程提供支持。 台积",
-     "source": "IT之家",
-     "zh": "不眠不休的芯片设计师：台积电推出 ADK 套件，用 AI 设计下一代芯片"
-    },
-    {
-     "title": "美国 ITC 认定三星侵犯日企 Maxell 相机专利，Galaxy S25 系列在美或遭进口禁令",
-     "link": "https://www.ithome.com/1/033/836.htm",
-     "pubDate": "Sat, 28 Nov 2026 05:29:05 GMT",
-     "summary": "IT之家 11 月 28 日消息，三星 Galaxy S25 系列及部分 Galaxy 平板电脑或将在美国遭遇进口禁令。美国国际贸易委员会（ITC）最新认定，三星 侵犯了日本 Maxell 公司的相机技术专利 。 当地时间 26 日，据彭博社报道，ITC 已针对 Galaxy S25 系列 发布停止侵权令，并下达美国进口禁令 。部分 Galaxy 平板电脑也可能受到影响。不过，已经售出的设备及采用重新设计相机系统的型号，均不在禁令范围内。 这项裁决目前进入为期 60 天的总统审查期，审查从 11 月 25 日开始。据IT之家了解，相关专利纠纷始于 2024 年 12 月。当时，Maxell 就",
-     "source": "IT之家",
-     "zh": "美国 ITC 认定三星侵犯日企 Maxell 相机专利，Galaxy S25 系列在美或遭进口禁令"
     },
     {
      "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 128 # Comments: 9",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 157 # Comments: 12",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     }
@@ -2234,6 +2234,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "无人车交付破万！上汽大通携智慧物流全链路生态亮相广州车展",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942365348.html",
+     "pubDate": "Sat, 28 Nov 2026 14:57:59 +0800",
+     "summary": "以“科技驱动生态”为主题，上汽大通亮相2026广州车展，发布无人 智慧物流 全链路生态。发布会现场， 第一万台大拿RoboVAN交付新石器 ，成为 首个实现无人 物流 车交付破万的中国车企 。 当前，无人 物流 行业呈现 三大痛点 ：场景分散，单一车型无法适配多元需求，定制研发成本居高不下；仓配链路存在断点，两端装卸环节成为效率瓶颈；规模化运营管控复杂，网络扩大后运力错配、资源浪费的问题凸显。 上汽大通率先实现无人 智慧物流 全链路闭环 ，不止拥有全矩阵 智慧物流 机器人 大拿RoboVAN，更以全场景无人装卸方案补齐链路短板，打通仓内到末端交付的效率断点。具身智能 机器人 、潜伏式AGV、无",
+     "source": "东方财富股票",
+     "zh": "无人车交付破万！上汽大通携智慧物流全链路生态亮相广州车展"
+    },
+    {
+     "title": "金价回调带动购金热 黄金迎来抢购潮",
+     "link": "http://finance.eastmoney.com/news/11158,202611283942364735.html",
+     "pubDate": "Sat, 28 Nov 2026 14:56:17 +0800",
+     "summary": "自今年9月以来，国际 黄金 价格已经 连续3个月下跌 。 25日，现货 黄金 价格一度跌破每盎司3500美元的整数关口，创下自 2025年9月 以来的新低。 随着金价出现较大幅度的回调，消费者购金热情明显上涨。 27日，现货 黄金 价格出现较大幅度的反弹，和年初每盎司5596.33美元的高点相比， 下跌幅度仍然超过30% 。 记者在各地走访时发现，金价回调不仅没有影响消费者的购金热情，黄金市场上反而呈现出一种越跌越买的消费行情。 在江苏常州多家商场的金店专柜前，驻足试戴黄金首饰、询问价格的顾客络绎不绝。 这些消费者中，既有偏爱小克重 饰品 的年轻群体，也有全家出动选购大件金饰的家庭客群。 消费",
+     "source": "东方财富股票",
+     "zh": "金价回调带动购金热 黄金迎来抢购潮"
+    },
+    {
+     "title": "光伏“退役潮”近在咫尺，回收利用站上爆发风口！",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942365242.html",
+     "pubDate": "Sat, 28 Nov 2026 14:56:00 +0800",
+     "summary": "面对近在咫尺的光伏“退役潮”，组件退役回收正从隐性课题变成产业焦点。 走进位于浙江省嘉兴市南湖区的嘉兴市嘉源新能科技有限公司车间，一条智能光伏组件拆解处理产线正有序运转。传送带上，一块块退役光伏组件缓缓前行，等待被重新“唤醒”。 经过10道工序，这些组件最终拆解变成玻璃、 铝 、 铜 、含银硅粉、 塑料 混合物5大类再生原料，后续销售输送至上下游制造企业循环复用。 这是我国光伏组件退役回收再利用的场景之一。面对近在咫尺的光伏“退役潮”，组件退役回收正从隐性课题变成产业焦点。商务部等9部门日前印发《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》（以下简称《意见》）明确，将光伏组件",
+     "source": "东方财富股票",
+     "zh": "光伏“退役潮”近在咫尺，回收利用站上爆发风口！"
+    },
+    {
+     "title": "不再只做“资金通道”！香港财库局陈浩濂：让每一分资金落到产业升级实处",
+     "link": "http://finance.eastmoney.com/news/11223,202611283942365162.html",
+     "pubDate": "Sat, 28 Nov 2026 14:55:00 +0800",
+     "summary": "“香港要做的，不只是把资金‘引进来、转出去’，更要 让每一分资金都落到产业升级的实处 。” 11 月 28 日，第八届粤港澳大湾区金融发展论坛在广东佛山召开，香港特区政府财经事务及库务局副局长陈浩濂在会上作主旨演讲，他表示，从追求“规模”转向“功能”提升、从“金融的城市”走向“金融赋能的城市”，这两大战略转变，不仅是香港巩固提升国际金融中心地位的内在要求，更与大湾区开创“十五五”金融高质量发展新局面的目标高度契合。 粤港澳大湾区具备“一国、两制、三法域”的独特背景，其中，香港拥有资金自由流动、普通法制度、与海外主要市场接轨的监管制度，以及简单和低税制等制度优势。陈浩濂表示，特区政府将继续发挥香",
+     "source": "东方财富股票",
+     "zh": "不再只做“资金通道”！香港财库局陈浩濂：让每一分资金落到产业升级实处"
+    },
+    {
+     "title": "九龙建业：拟5.85亿港元出售上海杨浦项目40%股权，项目尚未开工",
+     "link": "http://finance.eastmoney.com/news/11223,202611283942364565.html",
+     "pubDate": "Sat, 28 Nov 2026 14:51:19 +0800",
+     "summary": "11月27日， 九龙建业 (00034.HK)发布公告，公司拟以 5.85亿港元 向独立第三方PowerCity Ventures Limited出售威鞍有限公司 40%股权 及相应股东贷款。 交易完成后， 九龙建业 将不再持有威鞍任何权益，威鞍也不再作为其联营公司入账。公司预计，此次出售不会录得收益或亏损。 具体来看，交易对价中， 40%股权作价1港元，股东贷款作价5.85亿港元 。该笔出售贷款为威鞍欠付卖方的贷款、利息及其他款项总额，截至2026年9月30日约为8.006亿港元。买方须在签署协议时以现金支付5850万港元按金，占代价10%；余下5.265亿港元于完成日期支付。 交易预计于2",
+     "source": "东方财富股票",
+     "zh": "九龙建业：拟5.85亿港元出售上海杨浦项目40%股权，项目尚未开工"
+    },
+    {
+     "title": "西部证券孙寅：资本市场定位再强化 多渠道资金合力托底",
+     "link": "http://fund.eastmoney.com/news/11383,202611283942364124.html",
+     "pubDate": "Sat, 28 Nov 2026 14:48:00 +0800",
+     "summary": "11月27日召开的国务院常务会议对资本市场工作作出部署。 西部证券 研发中心负责人孙寅在接受上证报记者采访时表示，本次国常会进一步抬升资本市场在宏观经济框架中的战略定位，强调投融资两端均衡发展，以资本市场功能发挥服务实体经济大局。 西部证券 表示，会议明确提及优化中央汇金公司类“平准基金”功能，加力发挥“国家队”稳市作用。此前一系列稳市政策持续落地，多渠道资金形成承接合力。 股份回购方面，近期A股公司积极开展股份回购， 10月A股回购金额达217亿元，环比增长9.5% ，其中 美的集团 、 宁德时代 回购金额位列前列，分别达32亿元、31亿元，10月注销式回购股份数量占比为39.9%，回购增厚",
+     "source": "东方财富股票",
+     "zh": "西部证券孙寅：资本市场定位再强化 多渠道资金合力托底"
+    },
+    {
+     "title": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！",
+     "link": "https://wallstreetcn.com/articles/3786896",
+     "pubDate": "Sat, 28 Nov 2026 14:44:11 +0800",
+     "summary": "摩根大通认为，费城半导体指数自高点回落约40%，跌幅已超过金融危机以来历次下行周期，但支撑周期见顶的四大核心指标均未发出预警信号。该行判断行业上行周期有望延续至2028年，市场对盈利大幅下修的预期在短期内难以兑现。 据追风交易台，摩根大通亚太科技研究团队在11月27日发布的亚洲科技策略报告中指出，当前市场对半导体周期的定价已接近“基本面下行周期”的情形， 但库存、产能、交货周期与长协定价这四项关键指标均未出现典型见顶特征。 该行认为，在AI算力需求结构性增长的背景下，即便部分领域出现5%至10%的需求走软，也不足以引发买方行为的全面逆转。 行业仍可能维持上行至2028年，未来三到四个月内出现市",
+     "source": "华尔街见闻",
+     "zh": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！"
+    },
+    {
      "title": "“智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？",
      "link": "https://wallstreetcn.com/articles/3786902",
      "pubDate": "Sat, 28 Nov 2026 14:43:43 +0800",
@@ -2250,12 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "标普下调法国评级展望至负面：经济衰退、赤字高企、政局动荡三座大山压顶"
     },
     {
-     "title": "金科股份控股股东被证监会立案调查",
-     "link": "http://www.eeo.com.cn/2026/1128/1106333.shtml",
-     "pubDate": "Sat, 28 Nov 2026 14:04:22 +0800",
-     "summary": "控股股东京渝星筑、京渝星璨于11月20日收到中国证监会《立案告知书》，因涉嫌信息披露违法违规被立案；同时，两家平台的合伙人天娇绿苑也因涉嫌信息披露违法违规被立案。",
-     "source": "经济观察网",
-     "zh": "金科股份控股股东被证监会立案调查"
+     "title": "全球IPO之王为何最怕黄仁勋回归？他归来后 这三种企业是最大受益者",
+     "link": "http://stock.eastmoney.com/news/11228,202611283942361516.html",
+     "pubDate": "Sat, 28 Nov 2026 14:20:35 +0800",
+     "summary": "黄仁勋离开11天后“火速”回归， 英伟达 股价一天大涨31.5% ，却没能让华尔街彻底安心。 本周，美股科技股剧烈震荡——大涨、大跌、再反弹。 刚刚完成史上最大规模IPO的 Anthropic ，上市仅四个交易日便跌破发行价。 比巨头之间的竞争与利益分歧更值得警惕的是，AI行业正面临一场更深层的考验。阿波罗全球预计，到2028年，AI产业累计资本开支可能达到 3.5万亿美元 。 但巨额投资能否收回？GPU 租赁 价格下跌是否预示算力供给过剩？超过3万亿美元的表外债务会否引发连锁风险？ 数据中心 建设又将如何应对日益增长的政策阻力？ 黄仁勋回归了，但华尔街最担心的四大风险，仍未解除。 黄仁勋回归",
+     "source": "东方财富资讯",
+     "zh": "全球IPO之王为何最怕黄仁勋回归？他归来后 这三种企业是最大受益者"
+    },
+    {
+     "title": "国常会释放稳市新信号 后市怎么走？卖方一线解读：增量政策可期",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942361248.html",
+     "pubDate": "Sat, 28 Nov 2026 14:10:13 +0800",
+     "summary": "11月27日，国务院常务会议释放资本市场政策新信号。会议研究持续深化资本市场投融资 综合 改革工作，明确提出资本市场事关经济发展大局， 坚持逆周期调节和改革攻坚两手抓 ，持续完善资本市场稳市机制，并提出 实施好存量政策、谋划出台增量政策 。 此次会议明确提出 加力发挥“国家队”稳市作用 ，进一步优化中央汇金公司类“平准基金”功能并提供充足流动性保障，同时推动上市公司加大分红回购力度，完善保险、企业年金、社保基金等中长期资金入市支持引导政策。 从资本市场定位提升，到稳市机制进一步完善，此次会议释放了哪些新的政策信号？后续增量政策又有哪些值得期待？ 多家券商认为，此次会议不仅进一步提升了资本市场的",
+     "source": "东方财富资讯",
+     "zh": "国常会释放稳市新信号 后市怎么走？卖方一线解读：增量政策可期"
     },
     {
      "title": "个人养老金四周年调查：账户缴存仍冷、外围通道渐开",
@@ -2290,20 +2354,28 @@ window.INDUSTRY_DATA = {
      "zh": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可"
     },
     {
-     "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
-     "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
-     "source": "经济观察网",
-     "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
+     "title": "钴价连续上涨 后续走势如何？",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942359233.html",
+     "pubDate": "Sat, 28 Nov 2026 13:45:22 +0800",
+     "summary": "周内 钴 价连续上涨，截至11月27日结束，中联金 钴 价报34.9万元/吨，较刚果（金）“禁令”出台前涨近9万元/吨，不到一周 涨幅超34% 。 11月23日，刚果（金）战略矿产市场监管局（ARECOMS）宣布，自11月30日起 暂停全部 钴 出口 ，恢复时间另行通知。刚果（金）是全球第一大钴生产国，2025年其钴产量占全球的74.2%。 上证报记者采访获悉，刚果（金）钴出口政策调整背景下，当地矿企仍维持生产，只是货源在境内堆积；国内钴盐端库存或率先承压。钴价短期具备上行动力，但其供需格局的重要变量在于后续需求能否回暖。 最强政策工具“重出江湖” 这并非刚果（金）首次动用钴出口暂停这一调控工",
+     "source": "东方财富资讯",
+     "zh": "钴价连续上涨 后续走势如何？"
     },
     {
-     "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
-     "link": "http://www.eeo.com.cn/2026/1128/1106257.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:13:10 +0800",
-     "summary": "中新经纬11月28日电 存储芯片行情持续火热，SK海力士、三星半导体三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度，SK海力士员工人均计提绩效奖金就达到2.3亿韩元(约合114.8万元人民币)。截至9月，员工累计人均计提奖金升至5.02亿韩元(约合250.5万元人民币)。若全年营业利润达到券商预测值，人均奖金将增至约7.85亿韩元(约合391.7万元人民币)。 报道称，由于SK...",
-     "source": "经济观察网",
-     "zh": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元"
+     "title": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年",
+     "link": "http://hk.eastmoney.com/news/11223,202611283942355888.html",
+     "pubDate": "Sat, 28 Nov 2026 13:16:59 +0800",
+     "summary": "美团称外卖行业已经迎来拐点。 11月27日，美团（03690.HK）发布了2026年第三季度业绩报告。三季度，美团实现 收入1156亿元，同比增长21.6% 。 净利润为20.7亿元 ，去年同期净亏损为186亿元，实现扭亏为盈。 分业务看，核心本地商业分部三季度收入同比增长16.8%至783亿元。其中商家服务的收入增长8.2%，主要受交易金额增加及线上营销活跃商家数量增加所带动。与自营品类如药品和酒类相关的商品销售收入增加至43亿元，同比增长75.8%。 美团CEO王兴表示，在今年三季度， 外卖行业迎来拐点 ，有三个信号：客单价（AOV）同比明显回升；低价订单占比环比持续下降；行业补贴趋于理性",
+     "source": "东方财富资讯",
+     "zh": "美团三季度扭亏为盈 王兴：外卖行业迎来拐点 明年AI相关资本支出将低于今年"
+    },
+    {
+     "title": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942356774.html",
+     "pubDate": "Sat, 28 Nov 2026 13:13:27 +0800",
+     "summary": "奶茶赛道有段时间未打价格战，作为“初代网红新茶饮”的乐乐茶打破了这种平静。 据乐乐茶官方账号发布，为庆祝品牌十周年，自11月27日起上线全新价格： 小程序全线产品调价30% ，12.9元就能喝到招牌产品。 品牌海报显示，多款招牌产品售价集中在 5.9-13.9元 左右，实际降幅约在39-65%。比如，最便宜的柠檬水从17元降到5.9元一杯，招牌产品黑糖波霸脏脏茶则从原价23元调整为12.9元起。 这一调价力度，放在行业里也是较为“激进”的。至此，乐乐茶主力产品已落入 古茗 、 茶百道 、CoCo等同行长期争夺的价格带。社交平台上，甚至有网友称“乐乐茶价格快追上蜜雪”，也有人调侃品牌如此降价“日",
+     "source": "东方财富资讯",
+     "zh": "低至5.9一杯 乐乐茶全线降价超30% 此前多地门店已清零"
     },
     {
      "title": "The mathematicians living through an AI revolution",
@@ -2338,20 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI agents are coming for big business"
     },
     {
-     "title": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割",
-     "link": "http://www.eeo.com.cn/2026/1128/1106220.shtml",
-     "pubDate": "Sat, 28 Nov 2026 12:52:22 +0800",
-     "summary": "中新经纬11月28日电(董湘依)据美国有线电视新闻网(CNN)报道，当地时间周五，OpenAI对苹果公司提起反诉，指控苹果公司窃取商业秘密，并阻挠其与硬件供应商合作。 据报道，双方争端可以追溯至今年7月。彼时，苹果公司提起诉讼，指控两名跳槽至OpenAI的前员工窃取商业秘密，用于研发一款人工智能硬件设备。OpenAI当时否认了相关指控。 时隔数月，这次OpenAI又指控前员工，把硬件商业秘密泄露给苹果公司。 另据路...",
-     "source": "经济观察网",
-     "zh": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割"
-    },
-    {
-     "title": "11月沪牌拍卖结果出炉",
-     "link": "http://www.eeo.com.cn/2026/1128/1106217.shtml",
-     "pubDate": "Sat, 28 Nov 2026 12:52:12 +0800",
-     "summary": "【11月沪牌拍卖结果出炉】据“上海发布”消息，11月沪牌拍卖结果出炉：个人额度合计拍卖总数4229个，参加拍卖人数20384人，中标率20.7%。最低成交价93700元，平均成交价为93779元，比上个月93874元减少了95元。最低成交价的截止时间是11:29:59第851位。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "11月沪牌拍卖结果出炉"
+     "title": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）",
+     "link": "http://stock.eastmoney.com/news/11622,202611283942357559.html",
+     "pubDate": "Sat, 28 Nov 2026 12:44:33 +0800",
+     "summary": "本周主要股指集体反弹，沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 。 行业主题上看， 机器人 相关ETF被资金看好，而 半导体 、金融、 煤炭 相关ETF被资金抛售。 超840亿元资金借道ETF进场 本周沪深两市成交7.91万亿元，其中沪市成交3.71万亿元，深市成交4.2万亿元。截至最新收盘，沪指报收于3606.49点，全周上涨2.06%，深证成指报收于10814.02点，全周上涨5.44%。 Wind数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入 840.15亿元 ，宽基指数ETF净流入1056亿元，行业主题ETF净流出117亿元。 细分来看，主要宽基指数整",
+     "source": "东方财富资讯",
+     "zh": "蜂拥进场！超840亿资金借道ETF扫货 但这些板块却遭资金抛售（附名单）"
     },
     {
      "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
@@ -2360,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "高盛全球对冲基金业务主管Tony Pasquariello在最新客户报告中给出罕见直白的判断：过去八周是他职业生涯中见过规模最大的清仓之一，而AI基础设施交易最丰厚的上行空间已经过去，2027年将是一个回报较少的年份。 Pasquariello的核心论据在于供需格局的转换。他认为， 仓位确实比二季度末健康得多，但明年将面对自2000年以来最大的股票净供给增量，同时AI资本开支对盈利的拉动正在减速，2028年的盈利前景将成为持续悬在市场头上的问号。 Pasquariello并未转向看空整体市场。他强调美股主要趋势仍完好，11个主要板块中有7个自二季度末以来依然上涨，美元与美债在最糟糕的时刻“完成",
      "source": "华尔街见闻",
      "zh": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！"
-    },
-    {
-     "title": "新乐道L60黑骑士版正式上市，整车售价21.08万元起",
-     "link": "http://www.eeo.com.cn/2026/1128/1106135.shtml",
-     "pubDate": "Sat, 28 Nov 2026 11:52:14 +0800",
-     "summary": "北京商报讯（记者 蔺雨葳）11月27日，第二十四届广州国际汽车展览会正式开幕。蔚来公司以“大有新境”为主题，携NIO蔚来、ONVO乐道、firefly萤火虫三大品牌亮相本次车展。乐道汽车L90、L80和L60全系产品登场，新乐道L60黑骑士版正式上市，整车售价21.08万元起，采用BaaS电池租用方式售价15.38万元起，同步开启全国交付。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/8D7BA47CB50108B83...",
-     "source": "经济观察网",
-     "zh": "新乐道L60黑骑士版正式上市，整车售价21.08万元起"
-    },
-    {
-     "title": "全球大救市，独缺美联储",
-     "link": "https://wallstreetcn.com/articles/3786891",
-     "pubDate": "Sat, 28 Nov 2026 11:06:36 +0800",
-     "summary": "全球主要市场本周掀起一场密集的政策救市行动，从华盛顿到首尔，各市场财政部门、监管机构与国家基金轮番出手护盘。然而，分析人士警告，这些干预措施虽能短暂提振市场，却无法从根本上扭转方向，真正具备无限弹药的救市者——美联储，目前仍处于缄默期。 在美国，特朗普政府向英伟达董事会施压，推动黄仁勋重返CEO一职，纳指一度跌入技术性熊市后骤然拉升，标普500指数周内收涨5%。亚洲市场方面，据新华社，中国国务院常务会议首次点名\"国家队\"，明确要求\"加力发挥'国家队'稳市作用\"，创业板指受提振涨超11%，韩国政府宣布启动自2008年以来首个超10万亿韩元的市场稳定基金，并放宽上市公司回购申报上限、加强卖空监控。",
-     "source": "华尔街见闻",
-     "zh": "全球大救市，独缺美联储"
     },
     {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
@@ -2424,54 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
-    },
-    {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
-    },
-    {
-     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
-     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
-     "source": "MarketWatch",
-     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
-    },
-    {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
     }
    ]
   },

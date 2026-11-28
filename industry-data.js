@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 13:03:54",
+ "generated_at": "2026/11/28 13:11:49",
  "recent_days": 7,
  "industries": [
   {
@@ -1882,6 +1882,14 @@ window.INDUSTRY_DATA = {
      "zh": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据"
     },
     {
+     "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+     "link": "https://unkernel.dev",
+     "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 43 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
+    },
+    {
      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
      "link": "https://www.tmtpost.com/8221273.html",
      "pubDate": "Sat, 28 Nov 2026 11:17:25 +0800",
@@ -1938,6 +1946,14 @@ window.INDUSTRY_DATA = {
      "zh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价"
     },
     {
+     "title": "Atari Homebrew Awards Cancelled",
+     "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+     "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 137 # Comments: 124",
+     "source": "Hacker News",
+     "zh": "Atari Homebrew Awards Cancelled"
+    },
+    {
      "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
      "link": "https://www.techmeme.com/261127/p16#a261127p16",
      "pubDate": "Fri, 27 Nov 2026 21:00:01 -0500",
@@ -1946,36 +1962,20 @@ window.INDUSTRY_DATA = {
      "zh": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)"
     },
     {
+     "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+     "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+     "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 118 # Comments: 88",
+     "source": "Hacker News",
+     "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
+    },
+    {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
      "link": "https://www.wired.com/story/best-black-friday-deals-11-27-2026/",
      "pubDate": "Sat, 28 Nov 2026 00:14:33 +0000",
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
-    },
-    {
-     "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
-     "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
-     "pubDate": "Fri, 27 Nov 2026 23:54:42 +0000",
-     "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
-     "source": "WIRED",
-     "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
-    },
-    {
-     "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261127/p15#a261127p15",
-     "pubDate": "Fri, 27 Nov 2026 18:30:02 -0500",
-     "summary": "Jean Eaglesham / Wall Street Journal : US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage &nbsp; &mdash;&nbsp; The multiday outage has left customers struggling to reach the insurer during one ",
-     "source": "Techmeme",
-     "zh": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)"
-    },
-    {
-     "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
-     "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 23:27:04 +0000",
-     "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
-     "source": "WIRED",
-     "zh": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)"
     }
    ]
   },
@@ -2234,78 +2234,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "SK海力士员工赚爆了 人均季度奖金2.3亿韩元 全年奖金或增至7.85亿韩元",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942354463.html",
-     "pubDate": "Sat, 28 Nov 2026 12:48:00 +0800",
-     "summary": "存储芯片 行情持续火热， SK海力士 、三星 半导体 三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度， SK海力士 员工 人均计提绩效奖金就达到2.3亿韩元 （约合114.8万元人民币）。截至9月，员工累计人均计提奖金升至5.02亿韩元（约合250.5万元人民币）。若全年营业利润达到券商预测值， 人均奖金将增至约7.85亿韩元 （约合391.7万元人民币）。 报道称，由于 SK海力士 已计提将于明年初发放的奖金及各类薪酬，截至9月末，公司应付职工薪酬余额突破15万亿韩元（约合748.5万元）。 SK海力士和三星 电子 2026年第三季",
-     "source": "东方财富股票",
-     "zh": "SK海力士员工赚爆了 人均季度奖金2.3亿韩元 全年奖金或增至7.85亿韩元"
-    },
-    {
-     "title": "币安：已获得初步批准 可在不丹建立受监管的数字资产运营业务",
-     "link": "http://finance.eastmoney.com/news/1439,202611283942354521.html",
-     "pubDate": "Sat, 28 Nov 2026 12:47:12 +0800",
-     "summary": "币安表示，已获得 格勒普 中央 银行 的初步批准，可在不丹建立受监管的数字资产运营业务。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "币安：已获得初步批准 可在不丹建立受监管的数字资产运营业务"
-    },
-    {
-     "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942354246.html",
-     "pubDate": "Sat, 28 Nov 2026 12:38:50 +0800",
-     "summary": "近期部分机构或个人，以“兰州大学”“兰大”“兰州大学某机构”或“兰州大学硕士研究生”的名义，建立招生网站或新媒体账号，违规发布同等学力申请硕士虚假招生宣传信息。 11月27日，兰州大学发布声明称：兰州大学从未以任何形式委托任何 教育 培训机构或个人面向社会进行同等学力申请硕士学位招生宣传与收费，从未设立所谓任何与兰州大学同等学力申请硕士学位相关的机构。 请广大学员勿相信“交费包过”“不用上课”“不用考试”“1.5年学制”“毕业双证”等虚假宣传，避免上当受骗。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利"
-    },
-    {
-     "title": "“史上最强厄尔尼诺”来袭，对气候有哪些影响？",
-     "link": "http://finance.eastmoney.com/news/11158,202611283942354152.html",
-     "pubDate": "Sat, 28 Nov 2026 12:36:00 +0800",
-     "summary": "根据国家气候中心预测，今年发生的厄尔尼诺，可能是70多年有监测记录以来最强的一次。而世界气象组织的研判显示，本轮厄尔尼诺事件持续增强，预计将在12月达到最强水平。那么，今冬天气究竟如何？史上最强的厄尔尼诺又将如何影响全球天气呢？ 厄尔尼诺，就是赤道中东 太平洋 的海水异常升温，并持续半年以上，进而引发大气的连锁反应，搅动全球的气候格局。这一关键海区的海温连续5个月达到或者超过常年0.5℃，就是一次厄尔尼诺事件；峰值达到或者高出2.5℃以上，就是超强厄尔尼诺。根据预测，此次超强厄尔尼诺事件的峰值强度约3.3～3.5℃，远超此前的最高纪录2.9℃。 超强厄尔尼诺到底会带来什么呢？最直观的表现，就是",
-     "source": "东方财富股票",
-     "zh": "“史上最强厄尔尼诺”来袭，对气候有哪些影响？"
-    },
-    {
-     "title": "前10个月黑龙江省货物贸易进出口总值同比增长9.7%",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942354067.html",
-     "pubDate": "Sat, 28 Nov 2026 12:30:00 +0800",
-     "summary": "据哈尔滨海关统计，2026年前10个月，黑龙江省货物贸易进出口总值2830.1亿元，比去年同期增长9.7%。其中，出口877.3亿元，增长21.2%；进口1952.8亿元，增长5.2%。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "前10个月黑龙江省货物贸易进出口总值同比增长9.7%"
-    },
-    {
-     "title": "葛卫东卖了10万股中材科技",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942353196.html",
-     "pubDate": "Sat, 28 Nov 2026 12:18:21 +0800",
-     "summary": "11月27日晚间， 中材科技 （002080）发布回购股份事项前十名股东和前十名无限售条件股东持股情况。公告显示，截至11月24日，知名投资人 葛卫东 位列公司第三大股东，持股数量为1721.48万股，占公司总股份的0.98%。 与截至11月13日的1731.48万股持股数量相比，葛卫东在短短7个交易日内小幅 减持了10万股 。而葛卫东关联人王萍在此期间一股未卖，仍以802.2万股的持仓量位列第五大股东。 11月27日， 中材科技 涨停 ，报收33.07元/股，总市值约为584亿元。 从股价表现来看，进入三季度， 中材科技 股价快速下跌，截至11月27日，公司股价较年内高点 回撤幅度高达68%",
-     "source": "东方财富资讯",
-     "zh": "葛卫东卖了10万股中材科技"
-    },
-    {
-     "title": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元",
-     "link": "http://finance.eastmoney.com/news/11158,202611283942351772.html",
-     "pubDate": "Sat, 28 Nov 2026 12:14:07 +0800",
-     "summary": "“华尔街狼王”正遭遇职业生涯最严峻的一段时期。 彭博亿万富翁指数最新显示，卡尔·伊坎（Carl Icahn）个人净资产于上周五跌至 12亿美元 ，为彭博2012年开始追踪其财富以来的最低点，过去五年累计缩水约 210亿美元 （约合人民币1401.477亿元）。 伊坎企业 （Icahn Enterprises，IEP）今年已 下跌超50% 。IEP部分2029年到期债券 收益率突破30% ，公司整体债务规模约 44亿美元 。与此同时，IEP旗下核心资产CVR Energy股价本月已累计 下跌超40% 。 市场对伊坎的担忧由来已久。2023年，做空机构兴登堡（Hindenburg Research",
-     "source": "东方财富资讯",
-     "zh": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元"
-    },
-    {
-     "title": "AI新消费赛道密集上新！机构资金加仓16股",
-     "link": "http://stock.eastmoney.com/news/11134,202611283942352767.html",
-     "pubDate": "Sat, 28 Nov 2026 12:11:40 +0800",
-     "summary": "AI眼镜 赛道热度持续攀升 ，成为 消费电子 领域最亮眼的增长风口。 多家企业发布 AI眼镜 新品 据报道， 小米 AI眼镜 2代 或将于12月中旬与小米18标准版手机（手机起售价5699元起）同步发布，并于当天上市开售。 近期已有多家企业密集发布AI眼镜新品。当地时间11月12日， 三星 电子 新款AI眼镜 在韩国、美国同步开启预售，备货量在数小时内就被抢购一空，该款产品定于12月10日正式发售。 11月4日，影目科技发布空间智能眼镜INMOFuture，采用双目1080P全彩阵列光波导并支持6DoF空间锚定。 10月27日，乐奇Rokid在杭州举行Rokid Jungle2026新品发布会",
-     "source": "东方财富资讯",
-     "zh": "AI新消费赛道密集上新！机构资金加仓16股"
-    },
-    {
-     "title": "重大资产重组！这只A股公告：股票不停牌",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942349464.html",
-     "pubDate": "Sat, 28 Nov 2026 11:57:09 +0800",
-     "summary": "11月27日， 中南文化 披露《关于筹划重大资产重组的提示性公告》。公司及全资子公司江阴中南红股权投资管理有限公司（下称中南投资）拟以现金购买上海儒驭能源投资有限公司、上海慧冉投资有限公司各100%股权；中南投资拟以现金收购林磊渊、赵文碧合计所持江阴升宏达股权投资企业（有限合伙）2%出资份额，并成为其普通合伙人暨执行事务合伙人。交易完成后，公司及中南投资通过控制上述三家企业，间接取得江阴天力燃气有限公司（下称江阴天力） 52.5%股权 ，江阴天力将纳入合并报表范围。 公告称，本次交易预计构成重大资产重组，不构成关联交易，不涉及发行股份，不构成重组上市，也不会导致控股股东和实际控制人变更， 公司",
-     "source": "东方财富资讯",
-     "zh": "重大资产重组！这只A股公告：股票不停牌"
-    },
-    {
      "title": "经历职业生涯最大规模清仓之一后，高盛对冲基金主管警告：AI交易最赚钱的阶段或已过去",
      "link": "https://wallstreetcn.com/articles/3786895",
      "pubDate": "Sat, 28 Nov 2026 11:55:29 +0800",
@@ -2314,28 +2242,12 @@ window.INDUSTRY_DATA = {
      "zh": "经历职业生涯最大规模清仓之一后，高盛对冲基金主管警告：AI交易最赚钱的阶段或已过去"
     },
     {
-     "title": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？",
-     "link": "http://bank.eastmoney.com/news/1174,202611283942348581.html",
-     "pubDate": "Sat, 28 Nov 2026 11:52:54 +0800",
-     "summary": "大额存单转让市场有望迎来新的制度性变化。 11月27日，中国人民 银行 正式公布 《大额存单管理办法》 （以下简称《办法》），进一步明确大额存单可以通过发行人自有渠道或第三方平台办理转让，并授权全国 银行 间同业拆借中心（以下简称同业拆借中心）为大额存单业务提供第三方发行、转让和信息披露服务。 央行有关部门负责人表示，下一步将结合市场实际，着手研究第三方平台等相关配套安排，保障大额存单转让有序开展。 受访业内人士指出，此次修订的重要意义在于，为大额存单转让市场引入统一的第三方服务机制提供了制度依据。 此前，大额存单转让主要依托 银行 自有渠道开展，不同银行之间缺乏有效的信息互通和交易衔接，市场",
-     "source": "东方财富资讯",
-     "zh": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？"
-    },
-    {
      "title": "新乐道L60黑骑士版正式上市，整车售价21.08万元起",
      "link": "http://www.eeo.com.cn/2026/1128/1106135.shtml",
      "pubDate": "Sat, 28 Nov 2026 11:52:14 +0800",
      "summary": "北京商报讯（记者 蔺雨葳）11月27日，第二十四届广州国际汽车展览会正式开幕。蔚来公司以“大有新境”为主题，携NIO蔚来、ONVO乐道、firefly萤火虫三大品牌亮相本次车展。乐道汽车L90、L80和L60全系产品登场，新乐道L60黑骑士版正式上市，整车售价21.08万元起，采用BaaS电池租用方式售价15.38万元起，同步开启全国交付。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/8D7BA47CB50108B83...",
      "source": "经济观察网",
      "zh": "新乐道L60黑骑士版正式上市，整车售价21.08万元起"
-    },
-    {
-     "title": "星链大举扩张之际 关键高管宣布离开SpaceX",
-     "link": "http://stock.eastmoney.com/news/1416,202611283942347926.html",
-     "pubDate": "Sat, 28 Nov 2026 11:49:56 +0800",
-     "summary": "SpaceX 又一关键高管离职 ，这可能将加剧投资者对其传统业务稳定性的担忧。 在周五一封宣布重大组织变革的 电子 邮件中，星链首席执行官Michael Nicolls确认了该业务核心高管Chad Gibbs离职，并赞扬了他在 SpaceX 十多年来的巨大贡献。 Gibbs此前担任 SpaceX 业务运营副总裁，负责星链计划的多项重要职能，包括移动服务扩展、供应链运营、销售组织和客户支持团队。 Gibbs此时的离职可能给该业务造成一定冲击。目前SpaceX尚未宣布接受Gibbs工作的继任人选，Gibbs也没有透露他接下来的工作安排。 星链与SpaceX 星链已经成为SpaceX目前最重要的收入",
-     "source": "东方财富资讯",
-     "zh": "星链大举扩张之际 关键高管宣布离开SpaceX"
     },
     {
      "title": "定存“不烧心”",
@@ -2472,6 +2384,94 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
      "source": "MarketWatch",
      "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
+    },
+    {
+     "title": "SA Asks: What's the best-positioned chip stock right now?",
+     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best-positioned chip stock right now?"
+    },
+    {
+     "title": "US tech stocks rise in latest market swing",
+     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT",
+     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+     "source": "Financial Times",
+     "zh": "US tech stocks rise in latest market swing"
+    },
+    {
+     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
+     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+     "source": "MarketWatch",
+     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
+    },
+    {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
+    },
+    {
+     "title": "Energy Fuels gains 11% as peers and the broader market rise",
+     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
+    },
+    {
+     "title": "The warnings behind this week’s stock-market rally",
+     "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
+     "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+     "source": "MarketWatch",
+     "zh": "The warnings behind this week’s stock-market rally"
+    },
+    {
+     "title": "Trump’s Nvidia intervention has a cost for US stocks",
+     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
+     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+     "source": "Financial Times",
+     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
+    },
+    {
+     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
+     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+     "source": "CNBC",
+     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
+    },
+    {
+     "title": "AI and the decryption nightmare",
+     "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT",
+     "summary": "New breakthroughs call for faster upgrades to security, not panic",
+     "source": "Financial Times",
+     "zh": "AI and the decryption nightmare"
+    },
+    {
+     "title": "Can AI crack encryption?",
+     "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 18:16:51 GMT",
+     "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+     "source": "Financial Times",
+     "zh": "Can AI crack encryption?"
     }
    ]
   },

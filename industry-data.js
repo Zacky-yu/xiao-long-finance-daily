@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 18:11:52",
+ "generated_at": "2026/11/28 18:31:48",
  "recent_days": 7,
  "industries": [
   {
@@ -34,6 +34,30 @@ window.INDUSTRY_DATA = {
      "zh": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”"
     },
     {
+     "title": "Astra、Fable轮番没拿下的题，Carbon一个提示，103分钟交出43页证明",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745576&idx=3&sn=a49245a39f77280484e491ad288684d2",
+     "pubDate": "Sat, 28 Nov 2026 12:06:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Astra、Fable轮番没拿下的题，Carbon一个提示，103分钟交出43页证明"
+    },
+    {
+     "title": "奥特曼宣布：OpenAI推出隐私推理！GPT-6.2修正额度错误，开发者却怒了",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745576&idx=2&sn=46f3c08c790a24b5ebca7731e8518434",
+     "pubDate": "Sat, 28 Nov 2026 12:06:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "奥特曼宣布：OpenAI推出隐私推理！GPT-6.2修正额度错误，开发者却怒了"
+    },
+    {
+     "title": "这群中国「天才少年」在深圳杀疯了！单杀GPT-6 Astra拿下三榜第一",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652745576&idx=1&sn=2b7095ff3de128454b566097c54b9992",
+     "pubDate": "Sat, 28 Nov 2026 12:06:00 +0800",
+     "summary": "25台机器人同场干家务，明年量产",
+     "source": "新智元",
+     "zh": "这群中国「天才少年」在深圳杀疯了！单杀GPT-6 Astra拿下三榜第一"
+    },
+    {
      "title": "AI自主优化昇腾Kernel：探索自己的RSI路径，引起Anthropic联合创始人Jack Clark关注",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076822&idx=3&sn=cf2cdb6dd460200c737fd87e239c5f6c",
      "pubDate": "Sat, 28 Nov 2026 12:00:00 +0800",
@@ -58,14 +82,6 @@ window.INDUSTRY_DATA = {
      "zh": "具身寒冬里，投资人还在给什么样的公司打钱？00后中科大团队白泽通境四个月融近亿"
     },
     {
-     "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
-     "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
-     "summary": "A two-stage pipeline for document clustering and LLM-driven topic discovery, aided by Scikit-LLM's summarization tools.",
-     "source": "KDnuggets",
-     "zh": "Blending Unsupervised Clustering Tasks with Scikit-LLM"
-    },
-    {
      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
      "link": "https://www.qbitai.com/2026/11/513352.html",
      "pubDate": "Fri, 27 Nov 2026 14:07:33 +0000",
@@ -80,14 +96,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月27日报道，今天， 豆包工作宣布接入剪映官方插件 ，支持通过自然语言完成视频剪辑、多轮修改和多轨编辑。 用户只需要提供素材，再用一句话描述剪辑需求，豆包工作就能 调用剪映完成相关操作 ，还可以直接打开剪映草稿进行后续调整。 此外，此次接入还支持调用剪映Hub， 将文稿、代码、脚本或商品图转化为科普动画、知识短视频、短漫剧 等内容。 为了看看这套功能究竟好不好用，智东西准备了 口播、古风短视频、纪录片、二次元动漫和长视频 等不同类型的素材，让豆包工作直接完成剪辑。 一、实测一句话剪视频：口播表现最好，古风短视频",
      "source": "智东西",
      "zh": "颤抖吧剪辑师！你豆姐能直接操控剪映了！"
-    },
-    {
-     "title": "10 GitHub Repositories to Master AI Decision Models",
-     "link": "https://www.kdnuggets.com/10-github-repositories-to-master-ai-decision-models",
-     "pubDate": "Fri, 27 Nov 2026 13:00:00 +0000",
-     "summary": "Explore 10 GitHub repositories to learn how to build, train, fine-tune, deploy, and evaluate AI decision models that make faster, more efficient decisions.",
-     "source": "KDnuggets",
-     "zh": "10 GitHub Repositories to Master AI Decision Models"
     },
     {
      "title": "Hugging Face工程师新研究：20美元，让多智能体协同任务成功率大涨11倍",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
      "source": "TechCrunch AI",
      "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
-    },
-    {
-     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
-     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
-     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
-     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
-     "source": "KDnuggets",
-     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
     }
    ]
   },
@@ -328,6 +328,14 @@ window.INDUSTRY_DATA = {
      "summary": "TSMC has revealed additional technical details about its upcoming A14 (1.4nm-class) manufacturing technology at the 2026 Europe OIP Ecosystem Workshop, providing semiconductor designers with a clearer picture of the performance, power efficiency and density improvements expected from its next-genera",
      "source": "SemiWiki",
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
+    },
+    {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
     },
     {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
@@ -458,6 +466,14 @@ window.INDUSTRY_DATA = {
      "zh": "A Defect Is Not Yet a Scrap Decision"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -480,22 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1362,14 +1362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1400,14 +1392,6 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1450,30 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1498,14 +1458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1528,6 +1480,30 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1738,6 +1714,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”",
+     "link": "https://www.ithome.com/1/033/976.htm",
+     "pubDate": "Sat, 28 Nov 2026 10:20:53 GMT",
+     "summary": "IT之家 11 月 28 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫也已开通微博，持续解答网友疑惑。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 有网友昨日在刘赫微博评论区反馈，领取补贴想在华为商城购买新机时，却遇到了断货问题。对此，刘赫当晚回应称：“ 在补货了，这两天整的鸡飞狗跳... ” 截至发文， 华为星芒 OSTA O1 Pro 手机在华为商城、京东等平台均可正常购买 ，支持现货发货、至高 12 期 0 分期利息。 作为参考，博主 @",
+     "source": "IT之家",
+     "zh": "网友反馈 OSTA O1 Pro 华为商城断货，星芒刘赫回应“在补货了，这两天整的鸡飞狗跳”"
+    },
+    {
+     "title": "北京流行“只上半天学”？别人家娃是为补课，我家阿斯娃为了回家躺平",
+     "link": "https://www.huxiu.com/article/4909199.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:17:10 +0800",
+     "summary": "本文来自微信公众号： 大米和小米 ，编辑：何言苏渡，作者：半天上学记 “北京出现了一种很有趣的现象：很多家长为了让孩子考得更好，选择只上半天学，因为上学太耽误学习了。” 这句话最早来自一位北京网友的帖子，随后冲上热搜，讨论也随之多了起来。有人质疑，有人赞同。 有人认为下午两节副科加一节自习，不如接回家刷两套卷子；有人说他们班周五下午能走掉一半人；也有人表示，“学生就该在学校待着。” 巧的是，我也在北京，娃读小学，也只上半天。不同的是，我中午接她回家，是因为她有阿斯伯格，在校少待半天能少很多麻烦。 图|网络朵朵妈 同一个校门，两个方向 我女儿读小学中年段，阿斯伯格，伴随多动。 从这学期开始，她每",
+     "source": "虎嗅",
+     "zh": "北京流行“只上半天学”？别人家娃是为补课，我家阿斯娃为了回家躺平"
+    },
+    {
+     "title": "李斌喊话传统豪车门店：如果希望转型，欢迎和蔚来联系",
+     "link": "https://www.ithome.com/1/033/965.htm",
+     "pubDate": "Sat, 28 Nov 2026 10:12:34 GMT",
+     "summary": "IT之家 11 月 28 日消息，2026 第二十四届广州国际汽车展览会于 11 月 27 日至 12 月 6 日在广交会展馆举办。 据第一财经报道，蔚来创始人、董事长、CEO 李斌在广州车展期间表示，以前的一些高端品牌门店，当年经营状态不错，投资也特别大，这几年传统豪华品牌在中国往智能电动化方向进行品牌转型。 这些品牌的门店在经营上压力是非常大的， 如果有合适的豪华品牌门店希望转型，欢迎和蔚来联系 。蔚来到明年想部署接近 200 家门店，还有很多的合作机会。 据IT之家此前报道，2026 年 10 月， 蔚来公司交付新车 34,246 台 。2026 年 1-10 月，蔚来公司共交付新车 3",
+     "source": "IT之家",
+     "zh": "李斌喊话传统豪车门店：如果希望转型，欢迎和蔚来联系"
+    },
+    {
+     "title": "快消行业，正在经历第三次价格冲击",
+     "link": "https://www.huxiu.com/article/4909197.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:11:39 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：周群 前段时间，拜访刘春雄教授，聊到中国快消品流通体系的变化时，他提出了一个值得深度思考的观点： 中国快消品行业经历过三次价格冲击：第一次来自商超，第二次来自电商，第三次则来自当下的新零售供应链变革。 前两次价格冲击，尽管给传统流通体系带来了不小的挑战，但行业最终都找到了新的利益平衡方式。但这一次，过去行之有效的方法，可能正在失效。 回顾中国快消品行业二十多年的发展历程，每一次价格冲击的背后，实际上都是一次零售变革，也伴随着流通体系的调整和产业利益的重新分配。 那么，第三次价格冲击，又会给这个行业带来什么？ 第一次价格冲击： 商超崛起，打破传统批发价格体系",
+     "source": "虎嗅",
+     "zh": "快消行业，正在经历第三次价格冲击"
+    },
+    {
+     "title": "大润发的困局",
+     "link": "https://www.huxiu.com/article/4909196.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 18:11:22 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：新经销 半年亏损5.14亿元，营收少了30亿元。 11月18日，大润发母公司高鑫零售发布2027财年中期业绩报告。截至2026年9月30日的六个月内，高鑫零售实现营收274.87亿元，同比下降9.9%；归母净亏损5.14亿元，同比扩大317.9%；同店销售下降9.5%。 2025年3月，德弘资本正式入主高鑫零售。此后一年多时间里，大润发进行了不少经营调整：关闭低效门店、缩减卖场面积、强化生鲜经营、开发自有品牌、推进全国联合采购，同时也在探索中型超市和前置仓业务。 从最新财报来看，一些改革已经取得了阶段性成果。自有品牌销售额同比增长82%，生鲜销量、复购率、",
+     "source": "虎嗅",
+     "zh": "大润发的困局"
+    },
+    {
+     "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+     "link": "https://www.wired.com/story/best-black-friday-tech-deals-11-28-26/",
+     "pubDate": "Sat, 28 Nov 2026 10:09:03 +0000",
+     "summary": "Why pay more? The best Black Friday tech deals offer deep discounts on great WIRED-tested gear.",
+     "source": "WIRED",
+     "zh": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)"
+    },
+    {
+     "title": "华境 S 五座版 SUV 官宣下个月上市，标配华为乾崑智驾 ADS 5 Pro 与宁德时代电芯",
+     "link": "https://www.ithome.com/1/033/959.htm",
+     "pubDate": "Sat, 28 Nov 2026 10:08:49 GMT",
+     "summary": "IT之家 11 月 28 日消息，五菱品牌与市场总监 @思行Si-Hang 今日宣布， 华境 S 大五座 SUV 将在下个月正式上市 （具体日期暂未公布）。 据IT之家此前报道， 华境 S 已于 11 月 25 日正式开启预订 ，可享限时 1000 元抵 3000 元权益。 新车全系标配华为乾崑科技与宁德时代电芯 ，并提供后排一键纯平功能，放倒后可形成约两米的平整空间。 尺寸方面，华境 S 五座版车长 5235mm、车宽 1999mm、车高 1800mm，轴距 3105mm。五座版外观提供日照金山、沧海悬月等配色方案，其中日照金山采用金色车顶搭配黑色车身，沧海悬月采用银色车顶搭配蓝色车身，内饰",
+     "source": "IT之家",
+     "zh": "华境 S 五座版 SUV 官宣下个月上市，标配华为乾崑智驾 ADS 5 Pro 与宁德时代电芯"
+    },
+    {
      "title": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
      "link": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/",
      "pubDate": "Sat, 28 Nov 2026 10:00:00 +0000",
@@ -1746,20 +1778,28 @@ window.INDUSTRY_DATA = {
      "zh": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles"
     },
     {
-     "title": "世界最高输电铁塔在江苏首次开展检修，外骨骼机器人辅助极限作业",
-     "link": "https://www.ithome.com/1/033/942.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:45:41 GMT",
-     "summary": "IT之家 11 月 28 日消息，11 月 28 日，位于江苏的 500 千伏凤城至梅里长江大跨越工程开展首次人工走线检修，外骨骼机器人首次投入这项高空作业。 据央视新闻报道，该工程是国内规模最大的超高压跨江输变电工程，承担着江苏北部清洁能源送往苏南用电负荷中心的任务，这也是世界最高输电铁塔的首次人工走线检修。 据江苏省送变电有限公司检修作业负责人郑熠珉介绍，这座铁塔长期运行在跨江高湿、多阵风环境中，随着运行时间积累，设备腐蚀、松动等隐患会慢慢滋生；冬季用电高峰临近，江苏电网保供压力加大，此次检修是保障跨江送电的重要一环。 走线人员登塔作业前，已依托大型无人机完成一轮巡检，并利用人工智能技术识",
+     "title": "我国发布全球首个高效灵活燃煤发电技术，最低可降至额定负荷 15% 稳定运行",
+     "link": "https://www.ithome.com/1/033/947.htm",
+     "pubDate": "Sat, 28 Nov 2026 09:59:26 GMT",
+     "summary": "IT之家 11 月 28 日消息，据央视新闻报道，11 月 26 日，我国自主研发的全球首个新型高效灵活燃煤发电技术成功发布，多项核心指标达到国际领先水平。 该项目是我国重大技术装备示范项目。应用这一新技术后，相较传统机组， 新机组最低可降至额定负荷 15% 稳定运行，全程无需烧油助燃 ；可精准跟随电网峰谷波动，适配大规模新能源并网消纳需求。 IT之家获悉，经机组性能测试，实现了 15% 超低负荷无助燃干态运行，突破了燃煤机组超低负荷工况干湿态转换的技术瓶颈；在 50% 负荷以上大范围连续变负荷速率超过 4% Pe / min， 刷新了煤粉炉机组大范围快速调节速率的世界纪录 ，取得了多项关键技",
      "source": "IT之家",
-     "zh": "世界最高输电铁塔在江苏首次开展检修，外骨骼机器人辅助极限作业"
+     "zh": "我国发布全球首个高效灵活燃煤发电技术，最低可降至额定负荷 15% 稳定运行"
     },
     {
-     "title": "出海新节点：零跑汽车累计出口超 26 万台，官宣业务覆盖全球超 50 个国际市场",
-     "link": "https://www.ithome.com/1/033/938.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:41:28 GMT",
-     "summary": "IT之家 11 月 28 日消息，零跑汽车官方今日宣布，达成“出海新节点”—— 累计出口超 26 万台 ，海通太仓港累计发运零跑超 20 万台，成为首个出口破 20 万台的单一港口。 2023 年启动出海，2024 年成立零跑国际、首批整车发运欧洲，今年前 10 个月零跑出口超 18 万台，至今累计出口已超 26 万台。 零跑海外业务覆盖全球超 50 个国际市场，海外门店超 1200 家。 据IT之家此前报道，本月 19 日，零跑汽车通过官方公众号宣布， 零跑汽车第 200 万台整车正式下线 ，第 5 万台 D19 同步完成下线，成为国内首家达成 200 万台下线的造车新势力。 根据介绍，零跑",
+     "title": "《黑神话：悟空》制作人冯骥：从四年前开始，AI 可能已经逐渐控制了世界",
+     "link": "https://www.ithome.com/1/033/945.htm",
+     "pubDate": "Sat, 28 Nov 2026 09:58:24 GMT",
+     "summary": "IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《 后 AI 时代最重要的问题 》的长文，全文约 8000 字。文章发出后，引发全网热议。 冯骥在展开推演之前，先分享了自己的“暴论”—— 与很多人想象的 AI 失控时间点不同， 从四年前开始，AI 可能已经逐渐控制了世界 。 他说，这是在一次吃饭聊天中与同事偶然扯出来的假说，一度让自己很上头。后面又独自与 AI 探讨了很久，还与它一起写过一篇假模假式的论文。IT之家附假说的要点如下（让 AI 帮忙缩写了一下）： 最笨的寄生虫，才会急着毒死宿主；真正演",
      "source": "IT之家",
-     "zh": "出海新节点：零跑汽车累计出口超 26 万台，官宣业务覆盖全球超 50 个国际市场"
+     "zh": "《黑神话：悟空》制作人冯骥：从四年前开始，AI 可能已经逐渐控制了世界"
+    },
+    {
+     "title": "289 → 188 元：安克 140W 带屏充电套装直降，3C+1A 功率温控实时监测",
+     "link": "https://www.ithome.com/1/033/944.htm",
+     "pubDate": "Sat, 28 Nov 2026 09:57:40 GMT",
+     "summary": "安克 140W 带屏充电头 采用 3C+1A 设计 ，功率温控 实时监测 ，日常售价 289 元。 今日京东国补后仅需 188 元即可入手，内含 1.5 米 240W C-C 快充线。 京东 ANKER 安克智显充 140W 充电器套装 国补后 188 元 直达链接 价格如果不对，可以尝试多点几次上方卡片，跳转京东后留意 App 顶部是否弹出 9 折券。 也可以加入购物车，在购物车右下方点击「砸京蛋」浮窗领券。 这款充电头配备一块 TFT 屏（具体规格未公布），可以显示充电功率信息，充电头可选黑 / 银双色，配备可折叠插脚。 接口方面，这款充电头的 USB-C1 /C2 接口至高支持 140W",
+     "source": "IT之家",
+     "zh": "289 → 188 元：安克 140W 带屏充电套装直降，3C+1A 功率温控实时监测"
     },
     {
      "title": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max",
@@ -1770,44 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "I Found the Best Black Friday Streaming Deals (2026): Apple TV, Disney, HBO Max"
     },
     {
-     "title": "AOC“Q25G5SE6”24.5 英寸 2K 360Hz 显示器开售，1399 元",
-     "link": "https://www.ithome.com/1/033/934.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:28:36 GMT",
-     "summary": "IT之家 11 月 28 日消息，AOC G5 宙斯盾二代 Q25G5SE6 电竞显示器现已开售， 定价 1399 元 。 这款显示器搭载了一块 24.5 英寸 2K 分辨率（2560×1440）原生 360Hz Fast IPS 面板，可实现 1ms GtG / 0.3ms (MPRT) 的响应时间，色域覆盖 100% sRGB、95% DCI-P3，DeltaE 这款显示器通过 VESA DisplayHDR 400 认证，HDR 峰值亮度可达 450nit；支持硬件低蓝光 + DC 不闪屏，配备 HDMI 2.1、DP 1.4、音频接口。 IT之家附这款产品主要参数： 京东 AOC 24",
-     "source": "IT之家",
-     "zh": "AOC“Q25G5SE6”24.5 英寸 2K 360Hz 显示器开售，1399 元"
-    },
-    {
-     "title": "消息称华星 / 天马 / 京东方 / 维信诺都在测试 240Hz 超高刷，最高 2K+240Hz",
-     "link": "https://www.ithome.com/1/033/933.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:22:32 GMT",
-     "summary": "IT之家 11 月 28 日消息，博主 @数码闲聊站 今日爆料称，国产屏还是更激进，华星 / 天马 / 京东方 / 维信诺都在测试 240Hz 超高刷，最高 2K+240Hz，子系下一代旗舰应该能见到。 早在上个月，该博主便爆料某屏厂正在做 2K+240Hz 显示屏， 预计 2027 年能上机 ，目前不暗指任何新机。 IT之家注意到，目前市面上的新机多采用 1.5K+ 高刷方案，兼顾流畅性与功耗，部分旗舰机型将屏幕分辨率提升至 2K 规格。如果爆料属实，2K+240Hz 方案在提升清晰度与流畅性的同时，能否在功耗上取得理想效果，值得大家关注。 目前， 荣耀 WIN 平板 已官宣将业界首发 24",
-     "source": "IT之家",
-     "zh": "消息称华星 / 天马 / 京东方 / 维信诺都在测试 240Hz 超高刷，最高 2K+240Hz"
-    },
-    {
-     "title": "岚图汽车 CEO 蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”",
-     "link": "https://www.ithome.com/1/033/931.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:18:12 GMT",
-     "summary": "IT之家 11 月 28 日消息，据界面新闻报道，在 2026 广州车展上，岚图汽车 CEO 蒋焘表示，今年国内车市下滑明显， 业界对明年全年的预期相对保守 。 受补贴退坡影响，明年一季度或有部分需求提前释放；海外出口方面，受关税及法规趋严影响，增量空间亦将受限。总体而言， 今明两年汽车行业面临的形势依然严峻 ，类似变化在手机、家电、光伏产业均有先例。 在战略调整方面，蒋焘表示， 岚图将从此前“以量为主”转向“量与利润双平衡” 。未来将通过保持充足现金流、聚焦盈利车型，让企业健康可持续发展。 据IT之家此前报道， 岚图汽车 2026 年 10 月交付新车 13030 辆 ； 1-10 月累计交",
-     "source": "IT之家",
-     "zh": "岚图汽车 CEO 蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”"
-    },
-    {
      "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
      "link": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/",
      "pubDate": "Sat, 28 Nov 2026 09:15:38 +0000",
      "summary": "Whether you’re shopping for a new Kindle or looking to break free from Amazon’s ecosystem, Black Friday is one of the best times to shop for a new e-reader.",
      "source": "WIRED",
      "zh": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off"
-    },
-    {
-     "title": "999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车",
-     "link": "https://www.ithome.com/1/033/930.htm",
-     "pubDate": "Sat, 28 Nov 2026 09:15:26 GMT",
-     "summary": "今日京东自营 AirPods 大促加码，AirPods 5 支持主动降噪，官方定价 999 元，长续航 + 无线充电盒版定价 1149 元。 今日 PLUS 国补后低至 789 元起，此优惠限账号： 京东 Apple AirPods 5 支持主动降噪 国补后 789 元 直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 917 元 直达链接 AirPods 京东保价 7 天，一周内下单的 PLUS 会员都可保价哦： 点此保价 。 AirPods Pro 3 定价 1899 元，今日京东 PLUS 国补后 1265 元也是好价： 京东 AirPods Pro 第三",
-     "source": "IT之家",
-     "zh": "999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车"
     },
     {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
@@ -1824,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Nespresso under $100, $250 off a slim De’Longhi, and more deals on machines we’d make room for on our own counters.",
      "source": "WIRED",
      "zh": "Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)"
-    },
-    {
-     "title": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-     "link": "https://www.wired.com/story/black-friday-headphone-deals-11-28-26/",
-     "pubDate": "Sat, 28 Nov 2026 08:43:46 +0000",
-     "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-     "source": "WIRED",
-     "zh": "20 Best Black Friday Headphone Deals (2026): Up to 57% Off"
     },
     {
      "title": "从“炫技”到“上岗”，机器人干活能力迎大考",
@@ -1872,30 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队 RSI正在失去概念光环，成为一种常规技术手段。 定焦One（dingjiaoone）原创 在AI一级市场逐渐降温的背景下，RSI（Recursive Self-Improvement，递归自我改进）仍然是少数保持较高投资热度的方向之一。 不过，英诺科创基金合伙人、北京前沿国际人工智能研究院理事长王晟给面对这股投资热潮却直言，“所有以RSI为目的的项目，都是对无知投资人的PUA。” 11月25日，在“向新而行”人工智能场景推介及供需对接会暨中关村AI新场景产业创新活动上，王晟发表了题为《RSI（递归自我改进）与人工智能场景创新》的演讲，分",
      "source": "虎嗅",
      "zh": "英诺王晟：投RSI，本质上是在投验证器"
-    },
-    {
-     "title": "《GTA6》的对手，居然是一个国产土味小游戏？",
-     "link": "https://www.huxiu.com/article/4909176.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 15:20:09 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《《GTA 6》的对手，居然是一个国产土味小游戏？》 发售第一天拿下37.9亿美金的《GTA 6》，最近被网友安排了一位野生宿敌： 《疯狂水世界》。 尽管你可能对这个游戏名字感到陌生，但只要刷过短视频，DNA里多半已经刻进了它的AI短片男主角，肥强。 于是有网友留下一句神调侃：《GTA 6》确实优秀，只可惜它的对手是《疯狂水世界》。 先叠个甲，本文非广，纯粹是被这位网友的拉郎配整乐了。 但玩笑归玩笑，这两款游戏一庄一谐，走的恰好是AI时代游戏行业的两条路线。 这可能是《GTA 6》最离谱的对手 单看用户画像，两款游戏压根不存在",
-     "source": "虎嗅",
-     "zh": "《GTA6》的对手，居然是一个国产土味小游戏？"
-    },
-    {
-     "title": "换了AI 招牌，为什么报表没变",
-     "link": "https://www.huxiu.com/article/4909174.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 15:09:56 +0800",
-     "summary": "本文来自微信公众号： 爱中 谭 很多企业的AI转型，是从换招牌开始的。 大模型接了，AI委员会成立了，组织改名了，发布会也开了。 年底一算，预算没动，验收没动，责任没动。 报表上什么都没变。 这些动作没有错。发布会是一次性投入，收益即时，风险可控；制度改革是持续投入，收益延迟，还会动到人。 所以大多数企业，先换最容易换的那一层。 但换招牌，不等于换制度。 一百多年前，中国也发生过一次类似的“换招牌”。 一、一根辫子，十六年没剪完 1645年，清廷颁布剃发令。 “留头不留发，留发不留头。” 这句话今天听起来像野蛮，但在当时，它是一套非常清楚的统治技术：让所有人头上都挂着一个看得见的服从标记。 你",
-     "source": "虎嗅",
-     "zh": "换了AI 招牌，为什么报表没变"
-    },
-    {
-     "title": "厦门银行，为何还没走出吴世群印迹？",
-     "link": "https://www.huxiu.com/article/4909175.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 15:07:18 +0800",
-     "summary": "本文来自微信公众号： 正经社 ，作者：智者正叔，原文标题：《厦门银行，为何还没走出吴世群印迹？丨正经深度》 11月12日，福建省纪委监委网站发布消息，厦门银行股份有限公司原党委书记、董事长吴世群涉嫌严重违纪违法，主动投案，目前正接受厦门市纪委监委纪律审查和监察调查。 吴世群1963年6月出生，2003年加入厦门银行，出任副董事长兼行长，2009年起开始担任董事长，直到2022年9月辞任。10多年的掌舵生涯，给厦门银行打上了深深的个人印迹；时至今日，尽管离任已经4年多，但印迹仍然清晰可见。 1 吴世群的三大“政绩” 主政厦门银行19年，最令吴世群感到骄傲的，是2008年引入台湾富邦金控作为战略投",
-     "source": "虎嗅",
-     "zh": "厦门银行，为何还没走出吴世群印迹？"
     },
     {
      "title": "欧洲短剧订阅转化卡在3.2%，是内容选品还是付费墙设计的问题？",
@@ -1965,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "FastLanes: Next-gen File Format [pdf]",
      "link": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
      "pubDate": "Sat, 28 Nov 2026 06:14:21 +0000",
-     "summary": "Article URL: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf Comments URL: https://news.ycombinator.com/item?id=50675195 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf Comments URL: https://news.ycombinator.com/item?id=50675195 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "FastLanes: Next-gen File Format [pdf]"
     },
@@ -2234,60 +2210,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "马斯克：算力租赁价格走向分化",
+     "link": "https://wallstreetcn.com/articles/3786911",
+     "pubDate": "Sat, 28 Nov 2026 18:25:42 +0800",
+     "summary": "AI算力租赁市场出现新的价格信号。马斯克最新透露称， 面向大规模、高带宽AI训练的GPU集群租金正在显著上涨，而小规模算力租赁价格反而下跌。 马斯克周六在社交平台X上表示， 谷歌有意向SpaceX租用更多算力资源 。这一表态源于市场对谷歌与Anthropic谁会成为SpaceX更大算力客户的讨论。马斯克回应称： “不确定谁会租得更多，但谷歌已经表达了向我们租用更多算力的意愿。” 除了透露潜在客户需求，马斯克还谈到了AI算力租赁市场正在发生的价格变化。 他表示， 针对大规模、高度互联、专门用于高带宽AI训练的算力集群，租赁价格正在上涨，有时涨幅相当显著。与之相反，规模较小的算力租赁价格正在下降，",
+     "source": "华尔街见闻",
+     "zh": "马斯克：算力租赁价格走向分化"
+    },
+    {
+     "title": "去越南建炼铝厂！",
+     "link": "http://www.eeo.com.cn/2026/1128/1106698.shtml",
+     "pubDate": "Sat, 28 Nov 2026 18:11:38 +0800",
+     "summary": "越南是全球铝土矿大国。铝土矿储量约31亿吨，占全球总储量10%以上，位居全球第三。此前越南以出口铝土矿原矿为主，凭借丰富的铝土矿资源，越南正谋求成为电解铝的重要供给方，为本国未来工业发展奠定基础。",
+     "source": "经济观察网",
+     "zh": "去越南建炼铝厂！"
+    },
+    {
+     "title": "金价震荡考验周大福",
+     "link": "http://www.eeo.com.cn/2026/1128/1106683.shtml",
+     "pubDate": "Sat, 28 Nov 2026 18:06:05 +0800",
+     "summary": "周大福CFO叶家盈提到，金价波动可能会暂时抑制消费者的购买意愿，并对定价首饰的销售造成压力。",
+     "source": "经济观察网",
+     "zh": "金价震荡考验周大福"
+    },
+    {
      "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
      "link": "https://wallstreetcn.com/articles/3786910",
      "pubDate": "Sat, 28 Nov 2026 17:55:20 +0800",
      "summary": "美国家庭对股市的押注已达到有史以来最高水平，即便AI股票近期大幅下挫，散户资金仍源源不断涌入。这场长达四年的牛市正将数以百万计的普通投资者推向前所未有的风险敞口，而他们的财富走向，也将在很大程度上左右市场能否企稳。 据德意志银行对EPFR数据的分析， 今年流入追踪美股的ETF及共同基金的新增资金已超过4500亿美元，有望创下历史纪录。即便在过去一个月AI交易全面瓦解、市场剧烈震荡之际，仅11月截至18日，美国股票基金仍净流入逾1410亿美元——彼时标普500指数已下跌3.4%。 Ned Davis Research首席美国策略师Ed Clissold的数据显示， 美国股票目前占美国家庭金融资产",
      "source": "华尔街见闻",
      "zh": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入"
-    },
-    {
-     "title": "年入25亿元！河南60后，把一包湿厕纸卖到了世界第一，德佑母公司要IPO了，黑蚁资本入局",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942379674.html",
-     "pubDate": "Sat, 28 Nov 2026 17:51:00 +0800",
-     "summary": "10亿包湿厕纸，冲出一个IPO。 来源：新财富杂志 综合 自 界面新闻、IPO日报、融中财经、中国基金报、公开资料等 一张小小的湿厕纸，撑起一家冲刺A股的消费公司。 近日，湿厕纸龙头“德佑”品牌的母公司逸祥卫生科技股份有限公司（下称“逸祥科技”）在河南证监局办理辅导备案，开启A股IPO之旅， 或成“湿厕纸第一股” 。 广发证券 担任辅导机构。 01 从母婴赛道跑出来的湿厕纸 德佑的前身，是“60后”董事长杨自强2002年在郑州创办的祥发商贸，最初从事卫生用品线下经销，起步阶段杨自强甚至骑着三轮车送货。 长期深耕线下渠道让他对“通路太长、费用太高”有切肤之痛，这也成为后来德佑押注线上的起点。 2",
-     "source": "东方财富股票",
-     "zh": "年入25亿元！河南60后，把一包湿厕纸卖到了世界第一，德佑母公司要IPO了，黑蚁资本入局"
-    },
-    {
-     "title": "天齐锂业高级副总裁熊万渝：建立锂行业透明、可核验的绿色标准与评价体系",
-     "link": "http://stock.eastmoney.com/news/11219,202611283942379446.html",
-     "pubDate": "Sat, 28 Nov 2026 17:51:00 +0800",
-     "summary": "11月25日至27日，2026年第三届中国国际 锂 业大会召开。 天齐锂业 高级副总裁熊万渝在大会上表示：“为推动 锂 行业绿色价值获得市场化认可、实现可持续发展成本合理共担，建议企业携手行业协会及产业链上下游伙伴， 建立透明、可核验的绿色标准与评价体系 ，以及与之相适应的政策框架和行业协作机制，推动产业链各方协同推进绿色产品的生产与供应。” 熊万渝表示， 锂 是推动能源变革的关键金属。根据预测，全球锂需求将 从2026年的约190万吨碳酸锂当量增至2035年的约473万吨 。 “面对巨大的潜在市场需求，锂行业必须走可持续、高质量发展之路。”熊万渝分析称，一方面，随着新兴应用场景不断拓展锂电产",
-     "source": "东方财富股票",
-     "zh": "天齐锂业高级副总裁熊万渝：建立锂行业透明、可核验的绿色标准与评价体系"
-    },
-    {
-     "title": "603616，重大资产重组终止",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942379775.html",
-     "pubDate": "Sat, 28 Nov 2026 17:48:00 +0800",
-     "summary": "韩建河山 （603616）筹划近一年的 重大资产重组终止 。 11月26日晚间， 韩建河山 发布公告称，公司董事会审议通过 终止发行股份及支付现金购买辽宁兴福 新材料 股份有限公司 （以下简称“兴福新材”）99.9978%股份并募集配套资金的议案，将撤回相关申请文件，同时授权管理层办理终止相关事宜。 核心诉求未能达成一致 谈及终止交易原因， 韩建河山 表示，鉴于本次交易事项推进时间较长，当前市场环境较本次交易事项筹划初期发生了较大变化，交易各方未能就彼此核心诉求达成一致，为切实维护公司及全体股东利益，经公司审慎研究并与交易对方协商，决定终止本次交易并撤回申请文件。 据原定方案，韩建河山拟发行股",
-     "source": "东方财富股票",
-     "zh": "603616，重大资产重组终止"
-    },
-    {
-     "title": "特斯拉大动作，要收购这家德国公司资产，为生产人形机器人Optimus铺路",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942379820.html",
-     "pubDate": "Sat, 28 Nov 2026 17:47:17 +0800",
-     "summary": "中新经纬11月28日电 据路透社报道，德国反垄断机构当地时间周五公布的一份申报文件显示， 特斯拉 拟收购德国机床制造商EMAG的相关资产 。 公开资料显示， EMAG是欧洲高端数控机床制造商 ，总部位于德国西南部城市斯图加特市附近，成立至今已有近160年历史。业务主要分布在 汽车 制造及配套工业、机械制造工业等，其生产的设备可用于制造人形 机器人 的驱动系统。 据Automotive World报道，有越来越多的迹象表明这项交易正在落地。德国企业登记信息显示， 特斯拉 将一家在德国注册的公司近期进行更名，其注册地址正是EMAG的总部所在地。 在 特斯拉 三季度财报电话会上，特斯拉首席执行官埃隆",
-     "source": "东方财富股票",
-     "zh": "特斯拉大动作，要收购这家德国公司资产，为生产人形机器人Optimus铺路"
-    },
-    {
-     "title": "苏州市上市公司发展联合会成立",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942379523.html",
-     "pubDate": "Sat, 28 Nov 2026 17:46:00 +0800",
-     "summary": "中证报中证网讯（记者 林倩）11月27日， 苏州市上市公司发展联合会成立大会在苏州金鸡湖畔召开 。同日召开的苏州市上市公司发展联合会第一届第一次会员大会审议通过了联合会章程及相关制度，选举产生了联合会第一届理事会、监事会。 苏州市政协党组书记、主席朱民当选联合会会长， 东吴证券 党委书记、董事长范力当选执行会长， 东吴证券 、 华兴源创 、 莱克电气 、 东山精密 、 金宏气体 、 亨通光电 、 蔚蓝锂芯 、 科沃斯 、 东方盛虹 、 隆扬电子 、 工商银行 苏州分行、苏州创新投资集团有限公司以及苏州 资产管理 有限公司等当选副会长单位， 苏州银行 当选监事长单位， 苏州高新 、元禾控股当选监",
-     "source": "东方财富股票",
-     "zh": "苏州市上市公司发展联合会成立"
-    },
-    {
-     "title": "贵州册亨恒定山风电场全容量并网发电",
-     "link": "http://finance.eastmoney.com/news/1348,202611283942379393.html",
-     "pubDate": "Sat, 28 Nov 2026 17:41:00 +0800",
-     "summary": "据中国 三峡能源 ，11月26日，贵州册亨恒定山10万千瓦风电场实现全容量并网发电。该项目是三峡集团“十五五”时期在贵州首个全容量并网风电项目，全容量并网后，预计年均输出清洁电能超1.7亿千瓦时。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "贵州册亨恒定山风电场全容量并网发电"
     },
     {
      "title": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速",
@@ -2386,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "摩根大通驳斥“半导体周期见顶论”：四大指标均未发出预警  ，市场悲观过头了！"
     },
     {
-     "title": "“智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？",
-     "link": "https://wallstreetcn.com/articles/3786902",
-     "pubDate": "Sat, 28 Nov 2026 14:43:43 +0800",
-     "summary": "《黑神话：悟空》制作人、游戏科学创始人冯骥的一篇8000字长文，将一场关于AI时代财富分配的深层追问推至公众视野。在他看来， 这轮AI革命的破坏性远超历次工业革命——不是因为它消灭了某类岗位，而是因为它第一次让智力本身脱离了肉身，从劳动要素变成了可按度计费、无限复制的资本要素。 11月27日，冯骥在个人公众号\"冯骥Yocar\"发表《后AI时代最重要的问题》，文章迅速在社交媒体刷屏。他在文中指出， 当资本可以\"直接拿电费去批发智力\"，普通人出售工时的议价基础便从根子上动摇了。在文娱行业，这一冲击将表现为超级IP赢家通吃与腰部从业者利润消失的双重极化。 针对财富分配问题，冯骥提出了他的主张： AI",
-     "source": "华尔街见闻",
-     "zh": "“智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？"
-    },
-    {
      "title": "金科股份控股股东被证监会立案调查",
      "link": "http://www.eeo.com.cn/2026/1128/1106333.shtml",
      "pubDate": "Sat, 28 Nov 2026 14:04:22 +0800",
@@ -2426,28 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
     },
     {
-     "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
-     "link": "http://www.eeo.com.cn/2026/1128/1106257.shtml",
-     "pubDate": "Sat, 28 Nov 2026 13:13:10 +0800",
-     "summary": "中新经纬11月28日电 存储芯片行情持续火热，SK海力士、三星半导体三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度，SK海力士员工人均计提绩效奖金就达到2.3亿韩元(约合114.8万元人民币)。截至9月，员工累计人均计提奖金升至5.02亿韩元(约合250.5万元人民币)。若全年营业利润达到券商预测值，人均奖金将增至约7.85亿韩元(约合391.7万元人民币)。 报道称，由于SK...",
-     "source": "经济观察网",
-     "zh": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元"
-    },
-    {
      "title": "The mathematicians living through an AI revolution",
      "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
      "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
      "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
      "source": "Financial Times",
      "zh": "The mathematicians living through an AI revolution"
-    },
-    {
-     "title": "‘Only in America’ and other good lies",
-     "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
-     "summary": "Diverse societies need noble myths to keep them whole",
-     "source": "Financial Times",
-     "zh": "‘Only in America’ and other good lies"
     },
     {
      "title": "Pedro Sánchez: the partisan warrior fighting to the last",
@@ -2458,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "Pedro Sánchez: the partisan warrior fighting to the last"
     },
     {
+     "title": "‘Only in America’ and other good lies",
+     "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
+     "summary": "Diverse societies need noble myths to keep them whole",
+     "source": "Financial Times",
+     "zh": "‘Only in America’ and other good lies"
+    },
+    {
      "title": "AI agents are coming for big business",
      "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
      "pubDate": "Sat, 28 Nov 2026 05:00:14 GMT",
@@ -2466,12 +2402,52 @@ window.INDUSTRY_DATA = {
      "zh": "AI agents are coming for big business"
     },
     {
-     "title": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割",
-     "link": "http://www.eeo.com.cn/2026/1128/1106220.shtml",
-     "pubDate": "Sat, 28 Nov 2026 12:52:22 +0800",
-     "summary": "中新经纬11月28日电(董湘依)据美国有线电视新闻网(CNN)报道，当地时间周五，OpenAI对苹果公司提起反诉，指控苹果公司窃取商业秘密，并阻挠其与硬件供应商合作。 据报道，双方争端可以追溯至今年7月。彼时，苹果公司提起诉讼，指控两名跳槽至OpenAI的前员工窃取商业秘密，用于研发一款人工智能硬件设备。OpenAI当时否认了相关指控。 时隔数月，这次OpenAI又指控前员工，把硬件商业秘密泄露给苹果公司。 另据路...",
-     "source": "经济观察网",
-     "zh": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割"
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+     "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
+     "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+     "source": "CNBC",
+     "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
+    },
+    {
+     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
+    },
+    {
+     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
+     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     }
    ]
   },

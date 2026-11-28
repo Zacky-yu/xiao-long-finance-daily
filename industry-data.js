@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 13:31:55",
+ "generated_at": "2026/11/28 13:51:49",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”",
+     "link": "https://zhidx.com/p/614041.html",
+     "pubDate": "Sat, 28 Nov 2026 12:46:00 +0800",
+     "summary": "智东西 作者 | 周加琦 编辑 | 漠影 先来看一段视频。 机器人拿着菜刀，对一根黄瓜连续下刀。切完一面，它又自主翻转黄瓜，重新定位，完成另一面的切割。 这可不是一次普通的切黄瓜，而是一道连老师傅都要反复练习才能切好的蓑衣黄瓜。 蓑衣黄瓜是中式凉菜里的经典刀工菜，因切好后能像蓑衣一样层层展开而得名。因对刀工要求高蓑衣黄瓜常被当作检验刀工基本功的项目：手稳不稳、对力气的分寸拿不拿得准，几刀就看得出来。 智东西11月28日报道，这段视频来自 老板电器 。在这个过程中，机器人能够根据食材的接触反馈调整力度，还能通过视觉感知识别食材状态，完成翻转后的重新定位。 在面对真实食材时，它做到了像厨师一样进行",
+     "source": "智东西",
+     "zh": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”"
+    },
     {
      "title": "Blending Unsupervised Clustering Tasks with Scikit-LLM",
      "link": "https://www.kdnuggets.com/blending-unsupervised-clustering-tasks-with-scikit-llm",
@@ -168,14 +176,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "1.9万Star中国开源神作2.0来了！灵波发布「空间记忆」双王炸"
-    },
-    {
-     "title": "推理吞吐提升60%！中科类脑要做国芯国模的价值放大器",
-     "link": "https://zhidx.com/p/614856.html",
-     "pubDate": "Fri, 27 Nov 2026 09:13:02 +0800",
-     "summary": "智东西 作者 | 三北 编辑 | 漠影 AI行业，正进入一场更复杂的算力竞赛。 11月22日，“AI教母”、斯坦福大学教授 李飞飞 在AMD入职一周感想中说：“AI就是计算，计算就是AI。”同日， 马斯克 谈算力投入时则感慨：“要启动、冷却并稳定运行如此庞大的计算能力极其困难，明年的资金短缺问题也将非常严重。” ▲马斯克与李飞飞同日在社交平台X上谈及AI算力问题 两句话放在一起，道出了当下AI产业的一个现实 处境：模型能力需要计算支撑，但计算规模并不直接等于有效产出。 对国产算力而言，芯片供给逐步丰富之后，如何让更多算力真正转化为稳定、高效、可持续交付的Token，正在成为基础设施升级的新课题",
-     "source": "智东西",
-     "zh": "推理吞吐提升60%！中科类脑要做国芯国模的价值放大器"
     },
     {
      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -1738,6 +1738,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "冬天会让人变抑郁、迟钝吗？研究发现，答案可能和你想的不一样",
+     "link": "https://www.huxiu.com/article/4909161.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:43:27 +0800",
+     "summary": "本文来自微信公众号： 神经现实 ，作者：Tim Brennen 当白昼变短时我们都会感到情绪低落？熬过冬天真的很难？又或许……我们只是受到了社交媒体的暗示？每一年，大众媒体上都会有文章说，随着白昼变短、黑夜变长，我们可以预见到自己会觉得悲伤和不安。诸如“冬季大脑：为什么我们在冬季感到悲伤和疲惫？”和“你在冬季感到抑郁的实际理由”这样的标题会出现在我们眼前。 我们的大脑和情绪受冬季影响这一观点，于20世纪80年代首次由美国生物精神病学家提供科学依据[1]。这种情况如今被称为季节性情感障碍（seasonal affective disorder），简称SAD。据报道，被诊断为季节性情感障碍的人会在",
+     "source": "虎嗅",
+     "zh": "冬天会让人变抑郁、迟钝吗？研究发现，答案可能和你想的不一样"
+    },
+    {
+     "title": "巴西墨西哥支付失败率居高不下，备货和退货该怎么算？",
+     "link": "https://www.baijing.cn/question/639024",
+     "pubDate": "Sat, 28 Nov 2026 05:42:41 +0000",
+     "summary": "我们做拉美市场独立站，主卖手机配件，团队8人，月流水约15万美元，巴西和墨西哥各占四成。用Mercado Pago和本地信用卡收单，巴西分期付款订单占六成，但近两个月支付失败率从12%涨到21%，拒付后客户直接弃单，货已经备在圣保罗海外仓，滞销库存压了约4000件。试过换收单通道、加装3DS验证，失败率只降了3个点。现在纠结备货节奏要不要按支付成功率打折来排产，退货产生的二次物流成本又该摊到定价里还是算进营销费，想请教有拉美本地收单经验的同行，这个账到底怎么算才不亏？",
+     "source": "白鲸出海",
+     "zh": "巴西墨西哥支付失败率居高不下，备货和退货该怎么算？"
+    },
+    {
+     "title": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名",
+     "link": "https://www.ithome.com/1/033/840.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:39:42 GMT",
+     "summary": "IT之家 11 月 28 日消息，国家广播电视总局今日通报网络视听节目不良传播行为专项治理典型案例，快手、抖音、爱奇艺、百度网盘、微博、哔哩哔哩、红果短剧、微信、腾讯等平台均出现在处置名单中。 通报称，今年以来广电总局针对网络剧、微短剧、网络综艺等领域的不良传播生态开展专项治理，对侵权盗版、低俗不良、暴力恐怖以及 AI 魔改等违规内容予以整改。 一、处置网络视听节目侵权盗版传播典型案例 1.处置通过网络视听平台违规传播侵权盗版网络视听节目。 快手平台依规处置“嘉 ** 剧”“男 ** 享”“鱼 ** 鸣”等账号违规传播微短剧、影视剧、网络综艺侵权盗版内容。抖音平台依规处置“情 **”“一 * ",
+     "source": "IT之家",
+     "zh": "广电总局通报网络视听治理典型案例：侵权盗版、低俗微短剧、AI 魔改三类问题被点名"
+    },
+    {
+     "title": "不眠不休的芯片设计师：台积电推出 ADK 套件，用 AI 设计下一代芯片",
+     "link": "https://www.ithome.com/1/033/838.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:35:47 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）报道， 本周在慕尼黑举行的 2026 年欧洲 OIP 生态系统研讨会上，台积电首次公开了 AI 设计套件（AI Design Kit，下文简称 ADK）。 该套件汇集了特定工艺的技术信息、实施指南和设计方法，可让 AI 智能体自动完成并优化芯片开发流程。 台积电生态系统与联盟管理负责人阿维克 · 萨卡尔（Aveek Sarkar）强调，ADK 并非要取代传统的工艺设计套件（PDK），是对其的有益补充。台积电希望融合多年积累的工艺经验，与客户自身的编排层和设计经验，为下一代设计流程提供支持。 台积",
+     "source": "IT之家",
+     "zh": "不眠不休的芯片设计师：台积电推出 ADK 套件，用 AI 设计下一代芯片"
+    },
+    {
+     "title": "美国 ITC 认定三星侵犯日企 Maxell 相机专利，Galaxy S25 系列在美或遭进口禁令",
+     "link": "https://www.ithome.com/1/033/836.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:29:05 GMT",
+     "summary": "IT之家 11 月 28 日消息，三星 Galaxy S25 系列及部分 Galaxy 平板电脑或将在美国遭遇进口禁令。美国国际贸易委员会（ITC）最新认定，三星 侵犯了日本 Maxell 公司的相机技术专利 。 当地时间 26 日，据彭博社报道，ITC 已针对 Galaxy S25 系列 发布停止侵权令，并下达美国进口禁令 。部分 Galaxy 平板电脑也可能受到影响。不过，已经售出的设备及采用重新设计相机系统的型号，均不在禁令范围内。 这项裁决目前进入为期 60 天的总统审查期，审查从 11 月 25 日开始。据IT之家了解，相关专利纠纷始于 2024 年 12 月。当时，Maxell 就",
+     "source": "IT之家",
+     "zh": "美国 ITC 认定三星侵犯日企 Maxell 相机专利，Galaxy S25 系列在美或遭进口禁令"
+    },
+    {
+     "title": "18只主动ETF上市首周：17只收涨，有的重仓科技股，散户“抄作业”或存较大误差",
+     "link": "https://www.huxiu.com/article/4909160.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:28:56 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，作者：谢怡雯，编辑：习昂，原文标题：《18只主动ETF上市首周：17只收涨，有的重仓科技股！散户“抄作业”或存较大误差》 本周，首批18只主动ETF已经登陆A股上市交易。 据Wind统计，上市首周，18只主动ETF中有17只实现上涨，其中永赢景气均衡、华宝均衡精选、摩根大盘成长、国泰鑫汇均衡收益4只涨幅居前，周涨幅均超过4%。时代周报记者注意到，上述主动ETF的重仓股中出现了寒武纪、中际旭创等多只热门科技股。 从持仓数量来看，采用量化策略的主动ETF产品持股数量普遍远高于采用主观策略的产品，其中汇添富均衡智选的持股数量达到480只，而采用主观策略的主动ETF普",
+     "source": "虎嗅",
+     "zh": "18只主动ETF上市首周：17只收涨，有的重仓科技股，散户“抄作业”或存较大误差"
+    },
+    {
+     "title": "海伦司“双帅制”试验5个月落幕：“瑞幸系”联席CEO辞任，数字化增长与运营仍会推进",
+     "link": "https://www.huxiu.com/article/4909159.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 13:26:57 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，编辑：高梦阳，作者：幸雯雯 不到半年，海伦司的联席行政总裁团队出现了变动。 11月26日，海伦司（09869.HK）公告称，王浩因“为投入更多时间于个人事务”辞任公司联席行政总裁，辞任后不再于集团担任任何职务。贺大庆将继续担任公司唯一的行政总裁。 此时距离王浩获委任为公司联席行政总裁，刚好过去五个月。 今年6月26日，海伦司在创始人徐炳忠卸任行政总裁后，打破单一CEO传统，从外部聘请拥有瑞幸咖啡私域顾问及神州优车营销背景的王浩，搭档深耕海伦司内部营运多年的贺大庆，共同担任联席CEO。 王浩的履历中，数字化和用户运营能力是比较突出的特点。没料到，签下五年服务协议",
+     "source": "虎嗅",
+     "zh": "海伦司“双帅制”试验5个月落幕：“瑞幸系”联席CEO辞任，数字化增长与运营仍会推进"
+    },
+    {
+     "title": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+     "link": "https://www.tmtpost.com/8221323.html",
+     "pubDate": "Sat, 28 Nov 2026 13:26:50 +0800",
+     "summary": "建成AI Native原生组织，将是下一阶段行业竞争、产业变革的核心关键。",
+     "source": "钛媒体",
+     "zh": "蔚来开始用AI改造自己，这笔经济账怎么算？"
+    },
+    {
+     "title": "英伟达掏 2.9 亿美元，了结历时 8 年的挖矿显卡官司",
+     "link": "https://www.ithome.com/1/033/835.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:20:45 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）发布博文， 报道称英伟达同意支付 2.9 亿美元 （IT之家注：现汇率约合 19.35 亿元人民币） 和解金，以了结一起历时 8 年的证券集体诉讼。 投资者指控该公司在 2018 年加密货币挖矿热潮期间，误导股东对其游戏业务收入中挖矿需求实际占比的判断。 英伟达在和解中并未承认存在不当行为。 IT之家援引博文介绍，2017 年至 2018 年是加密货币挖矿最为猖獗的时期之一。大量黄牛抢购 2017 年初发布的 Pascal 架构 GTX 1000 系列显卡，零售游戏显卡一度十分紧缺。同年，英伟达",
+     "source": "IT之家",
+     "zh": "英伟达掏 2.9 亿美元，了结历时 8 年的挖矿显卡官司"
+    },
+    {
      "title": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？",
      "link": "https://www.baijing.cn/question/639023",
      "pubDate": "Sat, 28 Nov 2026 05:18:34 +0000",
@@ -1746,44 +1818,28 @@ window.INDUSTRY_DATA = {
      "zh": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？"
     },
     {
+     "title": "小米 18 标准版开放预约，预计下周官宣预热",
+     "link": "https://www.ithome.com/1/033/834.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:13:49 GMT",
+     "summary": "IT之家 11 月 28 日消息，小米官方今日已经在小米商城、京东、天猫等平台开启小米 18 标准版（M261DB）的预约活动，但未透露任何有价值信息。结合此前爆料，小米 18 标准版预计在 12 月发布，有望在下周官宣并开启预热宣传。 京东 Xiaomi 18 手机即将发布 0 元预约赢新品手机 5G 手机 旗舰手机 新品上市 待公布 直达链接 实际上，小米 18 标准版的预约活动早在 11 月 20 日前后就已在部分门店启动。 按照小米官方介绍，小米商城 9.9 元预约可享价值 399 元的 365 天只换不修服务（若未购机，9.9 元订金将在 2026 年 12 月 30 日前自动原路退",
+     "source": "IT之家",
+     "zh": "小米 18 标准版开放预约，预计下周官宣预热"
+    },
+    {
+     "title": "要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”",
+     "link": "https://www.ithome.com/1/033/833.htm",
+     "pubDate": "Sat, 28 Nov 2026 05:11:51 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Tom's Hardware 昨日（11 月 27 日）发布博文，报道称名叫埃利奥特 · 卡伦德（Elliot Callender）的抗议者， 目前已在 Anthropic 旧金山总部外绝食 4 天，要求叫停 AI 递归式自我改进。 IT之家注：AI 递归式自我改进（Recursive Self-Improvement，简称 RSI）是指 AI 系统具备改进自己的能力，比如改写代码、优化训练方法、设计更强的下一代模型。改进后的系统再继续改进自己，这样一轮轮循环下去。 卡伦德表示哪怕要绝食超过 40 天，只要能施压 Anthropic 给其造成负面影响",
+     "source": "IT之家",
+     "zh": "要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”"
+    },
+    {
      "title": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？",
      "link": "https://www.baijing.cn/question/639022",
      "pubDate": "Sat, 28 Nov 2026 04:58:29 +0000",
      "summary": "我们做的是工具类应用，团队8人，主攻印度市场，刚上线阶段。上周Google Play印度区审核连续被拒两次，第一次说截图里出现的手势在当地有冒犯风险，第二次说描述文案里的一个词在印地语语境下含义不当。我们试过把截图换成纯功能展示、去掉所有人物元素，文案也找本地人润色过一轮，但不确定审核方到底按什么标准判断。目前月推广预算大概3000美元，不敢大规模投。想直接问：印度区应用商店对素材的文化敏感度审核，有没有相对明确的判断标准，还是只能反复试错？",
      "source": "白鲸出海",
      "zh": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？"
-    },
-    {
-     "title": "1999 元华为随行 WiFi 6 Pro 轻享年包版发售：5A 高速网络、便携免插卡、7000mAh 电池",
-     "link": "https://www.ithome.com/1/033/831.htm",
-     "pubDate": "Sat, 28 Nov 2026 04:56:49 GMT",
-     "summary": "IT之家 11 月 28 日消息，华为本周新推出了一款华为随行 WiFi 6 Pro 轻享年包版，定价为 1999 元。 京东 华为随行 WiFi 6 Pro 轻享年包版 5A 高速网络 便携免插卡 7000mAh 电池 随身 WiFi 无线 1999 元 直达链接 正如其名，华为随行 WiFi 6 Pro 轻享年包版自带一年 5G 轻享套餐流量。 华为随行 WiFi 6 Pro 轻享年包版搭载 5A 高速网络技术，支持三载波聚合、双载波同时轮发及超级上行技术；搭载 9 根蜂窝全向天线，实现 360° 立体环绕覆盖。 华为随行 WiFi 6 Pro 采用机卡一体设计，内置官方流量卡，无需额外插",
-     "source": "IT之家",
-     "zh": "1999 元华为随行 WiFi 6 Pro 轻享年包版发售：5A 高速网络、便携免插卡、7000mAh 电池"
-    },
-    {
-     "title": "两小时内狂写 3.2GB：继 AMD、英伟达之后，雷蛇音频软件也被反馈异常 SSD 写入",
-     "link": "https://www.ithome.com/1/033/830.htm",
-     "pubDate": "Sat, 28 Nov 2026 04:55:51 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称继 AMD、英伟达之后， 雷蛇（Razer）音频软件（Audio Utility）也存在 SSD 固态硬盘异常写入问题。 根据 u/Stefouch 在 Reddit 社区发帖，他为新购入的 BlackShark V3 X Hyperspeed 耳机安装了这款独立软件，但未安装完整的 Razer Synapse 4 套件。他反馈后台进程 rzappengine.exe 会持续向固态硬盘写入数据，在不到两小时内累计记录了 3.2GB 的 I/O 写入字节。 他通过 Sysinternals P",
-     "source": "IT之家",
-     "zh": "两小时内狂写 3.2GB：继 AMD、英伟达之后，雷蛇音频软件也被反馈异常 SSD 写入"
-    },
-    {
-     "title": "CDPR 高管：《女神异闻录 5》用手机短信推动剧情，对《赛博朋克 2077》影响深远",
-     "link": "https://www.ithome.com/1/033/829.htm",
-     "pubDate": "Sat, 28 Nov 2026 04:48:13 GMT",
-     "summary": "IT之家 11 月 28 日消息，据外媒 Gamesradar 今天（28 日）上午报道，前《赛博朋克 2077》任务负责人、现任《赛博朋克 2》副游戏总监帕维尔 · 萨斯科透露，Atlus 的《女神异闻录 5》和 CD Projekt Red 的《赛博朋克 2077》这两款可以说代表了各自公司最高水准的 RPG 作品，其实有着一段 意想不到的渊源 。 萨斯科最近在 X 平台回应了一名玩家的分析，谈到了《女神异闻录 5》如何影响《赛博朋克 2077》的叙事设计。该玩家讨论的是游戏如何利用手机短信推动剧情，并举出了支线角色 El César 的例子：在一场拳赛风波中，玩家可以选择不收下 El C",
-     "source": "IT之家",
-     "zh": "CDPR 高管：《女神异闻录 5》用手机短信推动剧情，对《赛博朋克 2077》影响深远"
-    },
-    {
-     "title": "AR 眼镜关键部件发现新材料，有望薄至石英方案的 1/120",
-     "link": "https://www.ithome.com/1/033/828.htm",
-     "pubDate": "Sat, 28 Nov 2026 04:41:33 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Headline 昨日（11 月 27 日）发布博文，报道称韩国研究人员发现铜铝氧化物（CuAlO₂）控制光线的效率远高于目前常用的石英材料，有望让 AR 眼镜关键部件半波片（half-wave plate）变薄至 120 分之一。 IT之家查询公开资料，在 AR 眼镜中，半波片负责调整光的偏振状态，让显示光线按设计路径传播并进入人眼。目前主流厂商都依赖该光学元件，调整偏振和引导光路，让进入眼睛的光更多，画面更亮。 在材质方面，半波片目前主要用石英制成。石英的双折射较弱，要达到半波相位差，就必须做得比较厚，因此会占用镜片和镜框的空间。",
-     "source": "IT之家",
-     "zh": "AR 眼镜关键部件发现新材料，有望薄至石英方案的 1/120"
     },
     {
      "title": "判赔4.92亿元，利乐垄断旧案终审落槌，千亿乳业巨头背后的包装暗战",
@@ -1818,38 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "梁文锋“量化”聊天"
     },
     {
-     "title": "马斯克：Grok Bot 的目标是让你可以构建整个公司",
-     "link": "https://www.ithome.com/1/033/827.htm",
-     "pubDate": "Sat, 28 Nov 2026 04:21:13 GMT",
-     "summary": "IT之家 11 月 28 日消息，今天（28 日）凌晨，埃隆 · 马斯克在 X 平台发文称：就像现实中的企业一样，使用 Grok Bot 时，打造具备专属职能的 Bot 非常重要。你可以设置一个管理 Bot 来监督、协调其余 Bot 的工作。和人类员工同理，如果让单个 Bot 承担过多繁杂任务，它就会顾此失彼。 随后，马斯克补充说：Grok Bot 的目标， 是让你能够构建完整的公司 。 Grok Bot 于 2026 年 8 月 11 日以测试版形式上线，定位为可执行任务的 AI 智能体，而非单纯的聊天机器人。其功能包括交互式购物卡片、订阅模板，以及可长期保存项目上下文的工作空间，试图覆盖个",
-     "source": "IT之家",
-     "zh": "马斯克：Grok Bot 的目标是让你可以构建整个公司"
-    },
-    {
-     "title": "再谈美团阿里：一家公司同时具备多种能力是幻觉",
-     "link": "https://www.huxiu.com/article/4909152.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:15:40 +0800",
-     "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善 “台积电其实我早就知道，因为我们原来拿芯片是从台联电，台积电是不会直接供芯片的，它是做代工的，它只是帮人加工芯片。30多年前我就跟台联电说，你们做芯片是做不过台积电的，因为它们是专注在做那个。台联电那个时候又做代工，又做自己的芯片，又开发各种各样的产品，我说你长期是做不过它们的。不幸而言中，你看台积电（注：市值1.77万亿美元）和台联电（注：市值331亿美元）现在天地之差。” ——段永平 2015年，苹果的前CEO蒂姆·库克在清华有一个对话活动，当时他当被问到“在过去3年中哪些是你做的最困难的决策”时，库克回答说，最难的是“决定不做什么”。因",
-     "source": "虎嗅",
-     "zh": "再谈美团阿里：一家公司同时具备多种能力是幻觉"
-    },
-    {
-     "title": "在“最后的经济”时代，普通人如何抢占AI 财富制高点",
-     "link": "https://www.huxiu.com/article/4909151.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:15:40 +0800",
-     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust，原文标题：《在“最后的经济”时代，普通人如何抢占AI 财富制高点｜不懂经网站》 过去这两年，只要聊起AI带来的冲击与威胁，很多人都会陷入一种难以言说的焦虑和迷茫。 这也难怪。现在即便是最迟钝的旁观者，也能感觉到我们正在撞上一场前所未有的历史巨变。百年大变局，千年大变局，甚至是人类文明的转折点。 谷歌的AI领袖哈萨比斯说它的量级可能是工业革命的十倍；很多科技大佬则直言我们正站在“奇点”边缘，而奇点之后的世界，连亲手造出它的人都无法预测。 但最折磨人的，不是变化本身，而是我们此刻所处的尴尬位置：脚下的旧大陆正在肉眼可见地沉没，而远方的新世",
-     "source": "虎嗅",
-     "zh": "在“最后的经济”时代，普通人如何抢占AI 财富制高点"
-    },
-    {
-     "title": "“兄弟，法庭见，”OpenAI反诉苹果窃密",
-     "link": "https://www.huxiu.com/article/4909150.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 12:11:54 +0800",
-     "summary": "本文来自微信公众号： 机器之心 ，编辑：Neo，作者：关注AI的，原文标题：《「兄弟，法庭见！」OpenAI反诉苹果窃密》 400多名苹果员工已经跳槽去了OpenAI。 但其中有一名员工，在OpenAI工作了短短半年后，又回到了苹果。 按照OpenAI的说法，窃取商业机密可能就是他最初加入OpenAI的目的。 当地时间11月27日，OpenAI正式反诉苹果，向美国加州北区联邦地区法院提交了一份长达81页的反诉及答辩文件。 四个月前，苹果率先将OpenAI告上法庭，指控后者通过招募苹果员工窃取商业机密，为自己的消费电子产品研发铺路。 如今，OpenAI将同样的指控抛向了苹果。 此次，OpenAI",
-     "source": "虎嗅",
-     "zh": "“兄弟，法庭见，”OpenAI反诉苹果窃密"
-    },
-    {
      "title": "印度方言短剧在本地平台内容审核新规下，泰米尔语和孟加拉语剧本要改到什么程度？",
      "link": "https://www.baijing.cn/question/639020",
      "pubDate": "Sat, 28 Nov 2026 04:10:48 +0000",
@@ -1874,26 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)"
     },
     {
-     "title": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？",
-     "link": "https://www.baijing.cn/question/639018",
-     "pubDate": "Sat, 28 Nov 2026 03:24:04 +0000",
-     "summary": "上周给一位洛杉矶的美妆达人寄样，样品签收后第 9 天才出第一条视频，结果 TikTok Shop 的达人佣金结算要等订单妥投后 T+8 才进可提现余额，我这边备货的资金占用直接拉到 30 天以上。我们做美妆个护，北美刚起量阶段，3 人小团队，月预算约 2 万美元，主要通过 TikTok Shop 美国站达人邀约加寄样跑量，目前邀约私信回复率不到 8%，寄样后出片率约 35%。已经试过在邀约话术里强调佣金比例和样品免费，也用过平台后台的批量邀约工具，但达人对结算时效和物流妥投时间没概念，谈好的排期经常拖。现在卡在要不要把妥投时效和回款节点写进邀约模板里，还是先按达人历史履约数据筛人再谈？",
-     "source": "白鲸出海",
-     "zh": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？"
-    },
-    {
-     "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
-     "link": "https://www.ithome.com/1/033/824.htm",
-     "pubDate": "Sat, 28 Nov 2026 03:22:22 GMT",
-     "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世界的信息 ，而苹果出于隐私保护考虑，不愿向其开放 iPhone 中的这些数据。 ",
-     "source": "IT之家",
-     "zh": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据"
-    },
-    {
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 53 # Comments: 4",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 90 # Comments: 7",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     },
@@ -1938,18 +1946,10 @@ window.INDUSTRY_DATA = {
      "zh": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？"
     },
     {
-     "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
-     "link": "https://www.tmtpost.com/8220989.html",
-     "pubDate": "Sat, 28 Nov 2026 10:36:00 +0800",
-     "summary": "AI硬件与先进制造重塑港股科技版图。",
-     "source": "钛媒体",
-     "zh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价"
-    },
-    {
      "title": "Atari Homebrew Awards Cancelled",
      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
      "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 140 # Comments: 134",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 147 # Comments: 146",
      "source": "Hacker News",
      "zh": "Atari Homebrew Awards Cancelled"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
      "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 121 # Comments: 95",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 134 # Comments: 104",
      "source": "Hacker News",
      "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
     },
@@ -2234,6 +2234,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "证监会出手！“南京路宝宝总”被严肃查处",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942359110.html",
+     "pubDate": "Sat, 28 Nov 2026 13:43:32 +0800",
+     "summary": "近日，证监会对安某、乔某涉嫌编造传播证券市场误导性信息依法作出行政处罚。经查，安某、乔某在网络平台分别发布涉及上市公司 中公教育 、 共进股份 的误导性信息，相关低俗言论经网络渠道大范围传播，导致两家上市公司股价异常波动，违反证券法规，破坏公序良俗。证监会决定对安某、乔某 没收违法所得并处罚款 。 具体来看，两起案件的舆情发酵路径相似，均从股票社区低俗言论迅速外溢为全网话题，并直接扰动资本市场。 2026年7月2日10时27分，安某（网名 “南京路宝宝总” ，女性头像）在网络平台发布涉 中公教育 的“赌约帖”，以立帖为证方式作出一年内涨不到20倍等夸张低俗承诺，迅速引发围观；7月4日晚间，该账",
+     "source": "东方财富股票",
+     "zh": "证监会出手！“南京路宝宝总”被严肃查处"
+    },
+    {
+     "title": "20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局",
+     "link": "http://finance.eastmoney.com/news/1350,202611283942359065.html",
+     "pubDate": "Sat, 28 Nov 2026 13:40:19 +0800",
+     "summary": "11月28日，河南省球类运动中心发布声明： （文章来源：澎湃新闻）",
+     "source": "东方财富股票",
+     "zh": "20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局"
+    },
+    {
+     "title": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可",
+     "link": "https://wallstreetcn.com/articles/3786900",
+     "pubDate": "Sat, 28 Nov 2026 13:36:52 +0800",
+     "summary": "据英国《金融时报》，得克萨斯州突然重启此前暂停的数据中心项目审批，超过1800个项目重新获得推进机会。随着民主党籍新州长吉娜·希诺霍萨（Gina Hinojosa）明年1月即将上任，且其已承诺收紧数据中心建设，开发商正争分夺秒，试图赶在新政府上台前拿到审批许可。 今年8月，应时任州长格雷格·阿博特（Greg Abbott）办公室要求，得州暂停了新数据中心项目的审批。当时，涉及新增电力需求的申请规模达到474吉瓦。暂停措施此后进一步延长。如今，随着得州电力可靠性委员会（ERCOT）完成有关数据中心对当地社区影响的信息收集，阿博特办公室确认，项目审批可以重新推进。开发商正加快申请，希望赶在希诺霍萨",
+     "source": "华尔街见闻",
+     "zh": "赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可"
+    },
+    {
+     "title": "长城汽车魏建军到访格力电器，董明珠因员工提前备好咖啡当面批评",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942358370.html",
+     "pubDate": "Sat, 28 Nov 2026 13:34:18 +0800",
+     "summary": "红星资本局11月28日消息，近日， 长城汽车 （601633.SH）董事长魏建军到访 格力电器 （000651.SZ）， 格力电器 董事长董明珠陪同。该过程在魏建军的社交账号上全程直播，其中董明珠批评员工的切片引起网友关注。 红星资本局回溯此次直播发现，在参观 格力电器 相关展厅及产品时，两人经过格力智能 机器人 咖啡亭，董明珠提及坐下来喝一杯咖啡，旁边的工作人员因称“有提前做好的”、未进行现场演示而引发董明珠的不满。 董明珠当场批评道：“提前做好的？我们想体验，你们这做事叫做……真是的……提前做好了，我不是为了喝咖啡，是体验……你们做什么事，真的是要命。” 在这一过程中，魏建军没有说话，而后",
+     "source": "东方财富股票",
+     "zh": "长城汽车魏建军到访格力电器，董明珠因员工提前备好咖啡当面批评"
+    },
+    {
+     "title": "格恩半导体完成IPO辅导备案 系国内首家氮化镓激光芯片规模量产企业",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942358788.html",
+     "pubDate": "Sat, 28 Nov 2026 13:28:00 +0800",
+     "summary": "《科创板日报》11月28日讯（记者 王楚凡） 近日，格恩 半导体 （安徽）股份有限公司（下称：格恩 半导体 ）在安徽证监局 完成IPO辅导备案 ，辅导券商为 国泰海通 证券。 这家2021年8月落地安徽六安金安区的企业，聚焦 氮化镓 激光芯片本土化发展。 ▍三安系“老兵”带队 格恩 半导体 的成长节奏，与其创始人阚宏柱的产业经历高度相关。 作为在化合物半导体领域深耕多年的从业者，阚宏柱兼具学术背景与产业运营经验：拥有研究生学历、工商管理博士学位，为上海财经大学博士后，同时是福建三安集团体系内的资深高管，历任三安集团总办副主任、北京办事处主任、项目建设副总指挥等职，深度参与过国内头部化合物半导体",
+     "source": "东方财富股票",
+     "zh": "格恩半导体完成IPO辅导备案 系国内首家氮化镓激光芯片规模量产企业"
+    },
+    {
+     "title": "北京国资追加、阿里入局，向量奇点成立半年连融两轮",
+     "link": "http://finance.eastmoney.com/news/11231,202611283942358498.html",
+     "pubDate": "Sat, 28 Nov 2026 13:28:00 +0800",
+     "summary": "《科创板日报》28日讯， 近日，北京向量奇点科技有限公司（下称“向量奇点”）宣布完成 数亿元A轮融资 ，本轮融资由北京市 人工智能 产业投资基金、北工投资及旗下北工量子基金、北京万信融智、 中关村 科学城基金领衔， 阿里集团 、招商局 创投 、啟赋资本、湖南财信、北洋海棠基金、雅瑞资本等共同参与。 这是这家成立于今年5月的中性原子量子计算公司，完成的 第二轮融资 。 此前，向量奇点在今年8月完成 超亿元天使轮融资 ，由IDG资本领投，跟投方包括五源资本、耀途资本、英诺天使基金、 滴普科技 ，以及此次的领投方北京市 人工智能 产业投资基金等。 根据财联社 创投 通—执中数据，以2026年11月为",
+     "source": "东方财富股票",
+     "zh": "北京国资追加、阿里入局，向量奇点成立半年连融两轮"
+    },
+    {
+     "title": "浙江国资加码具身数据采集",
+     "link": "http://stock.eastmoney.com/news/11376,202611283942358651.html",
+     "pubDate": "Sat, 28 Nov 2026 13:27:00 +0800",
+     "summary": "近日，大衍科技（桐乡）有限公司（下称“大衍科技”）完成 数千万元Pre-A轮融资 ，由赛智伯乐领投，普华资本、浙商 创投 、浙里信跟投，老股东浙江省科创母基金追投。本轮资金将主要用于 数据中心 建设与触觉手套产线搭建。 此前，今年7月披露的融资信息显示，大衍科技已获得数千万元天使轮融资，由松禾清湛领投，浙江省金控及广州番禺创新基金等参与。可以看到，从此前天使轮到本次Pre-A轮， 浙江国资不同的投资平台都先后参与到了大衍科技的融资中 。 根据财联社 创投 通—执中数据，以2026年11月为预测基准时间，大衍科技后续2年的融资预测概率为70.56%。该数据仅为模型估算，不代表实际融资结果。 大衍",
+     "source": "东方财富股票",
+     "zh": "浙江国资加码具身数据采集"
+    },
+    {
      "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
      "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
      "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
@@ -2256,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
      "source": "Financial Times",
      "zh": "Iran hitting same ships twice to deter traffic from Strait of Hormuz"
+    },
+    {
+     "title": "US military repelled drones at RAF base",
+     "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:41 GMT",
+     "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+     "source": "Financial Times",
+     "zh": "US military repelled drones at RAF base"
     },
     {
      "title": "‘Only in America’ and other good lies",
@@ -2298,12 +2362,60 @@ window.INDUSTRY_DATA = {
      "zh": "11月沪牌拍卖结果出炉"
     },
     {
+     "title": "葛卫东卖了10万股中材科技",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942353196.html",
+     "pubDate": "Sat, 28 Nov 2026 12:18:21 +0800",
+     "summary": "11月27日晚间， 中材科技 （002080）发布回购股份事项前十名股东和前十名无限售条件股东持股情况。公告显示，截至11月24日，知名投资人 葛卫东 位列公司第三大股东，持股数量为1721.48万股，占公司总股份的0.98%。 与截至11月13日的1731.48万股持股数量相比，葛卫东在短短7个交易日内小幅 减持了10万股 。而葛卫东关联人王萍在此期间一股未卖，仍以802.2万股的持仓量位列第五大股东。 11月27日， 中材科技 涨停 ，报收33.07元/股，总市值约为584亿元。 从股价表现来看，进入三季度， 中材科技 股价快速下跌，截至11月27日，公司股价较年内高点 回撤幅度高达68%",
+     "source": "东方财富资讯",
+     "zh": "葛卫东卖了10万股中材科技"
+    },
+    {
+     "title": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元",
+     "link": "http://finance.eastmoney.com/news/11158,202611283942351772.html",
+     "pubDate": "Sat, 28 Nov 2026 12:14:07 +0800",
+     "summary": "“华尔街狼王”正遭遇职业生涯最严峻的一段时期。 彭博亿万富翁指数最新显示，卡尔·伊坎（Carl Icahn）个人净资产于上周五跌至 12亿美元 ，为彭博2012年开始追踪其财富以来的最低点，过去五年累计缩水约 210亿美元 （约合人民币1401.477亿元）。 伊坎企业 （Icahn Enterprises，IEP）今年已 下跌超50% 。IEP部分2029年到期债券 收益率突破30% ，公司整体债务规模约 44亿美元 。与此同时，IEP旗下核心资产CVR Energy股价本月已累计 下跌超40% 。 市场对伊坎的担忧由来已久。2023年，做空机构兴登堡（Hindenburg Research",
+     "source": "东方财富资讯",
+     "zh": "“华尔街狼王”突传大消息！个人财富5年缩水1400亿元"
+    },
+    {
+     "title": "AI新消费赛道密集上新！机构资金加仓16股",
+     "link": "http://stock.eastmoney.com/news/11134,202611283942352767.html",
+     "pubDate": "Sat, 28 Nov 2026 12:11:40 +0800",
+     "summary": "AI眼镜 赛道热度持续攀升 ，成为 消费电子 领域最亮眼的增长风口。 多家企业发布 AI眼镜 新品 据报道， 小米 AI眼镜 2代 或将于12月中旬与小米18标准版手机（手机起售价5699元起）同步发布，并于当天上市开售。 近期已有多家企业密集发布AI眼镜新品。当地时间11月12日， 三星 电子 新款AI眼镜 在韩国、美国同步开启预售，备货量在数小时内就被抢购一空，该款产品定于12月10日正式发售。 11月4日，影目科技发布空间智能眼镜INMOFuture，采用双目1080P全彩阵列光波导并支持6DoF空间锚定。 10月27日，乐奇Rokid在杭州举行Rokid Jungle2026新品发布会",
+     "source": "东方财富资讯",
+     "zh": "AI新消费赛道密集上新！机构资金加仓16股"
+    },
+    {
+     "title": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942348217.html",
+     "pubDate": "Sat, 28 Nov 2026 11:57:28 +0800",
+     "summary": "在英国广播公司27日播出的采访中，乌克兰总统泽连斯基对美国总统特朗普称俄罗斯总统普京为“朋友”表达不满，并敦促美国加大力度对俄罗斯施压。俄方回应称，泽连斯基的言论表明他“不愿走和平解决的道路”。 泽连斯基在位于乌克兰首都基辅的办公室接受采访时，再次以激烈言辞批评普京。他还称，特朗普先前在社交媒体发布一张与普京拥抱的图片“很奇怪”，“这当然取决于美国总统，但……这很奇怪”，“他（普京）不可能是朋友”。 泽连斯基还抱怨美国没有对俄罗斯施加足够压力，称目前需要“更多进展”。 据美联社报道，白宫尚未就泽连斯基的言论作出回应。前一天，特朗普已为自己称普京为“朋友”辩护：“我们想达成协议。”他说，“我可以",
+     "source": "东方财富资讯",
+     "zh": "不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压"
+    },
+    {
+     "title": "重大资产重组！这只A股公告：股票不停牌",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942349464.html",
+     "pubDate": "Sat, 28 Nov 2026 11:57:09 +0800",
+     "summary": "11月27日， 中南文化 披露《关于筹划重大资产重组的提示性公告》。公司及全资子公司江阴中南红股权投资管理有限公司（下称中南投资）拟以现金购买上海儒驭能源投资有限公司、上海慧冉投资有限公司各100%股权；中南投资拟以现金收购林磊渊、赵文碧合计所持江阴升宏达股权投资企业（有限合伙）2%出资份额，并成为其普通合伙人暨执行事务合伙人。交易完成后，公司及中南投资通过控制上述三家企业，间接取得江阴天力燃气有限公司（下称江阴天力） 52.5%股权 ，江阴天力将纳入合并报表范围。 公告称，本次交易预计构成重大资产重组，不构成关联交易，不涉及发行股份，不构成重组上市，也不会导致控股股东和实际控制人变更， 公司",
+     "source": "东方财富资讯",
+     "zh": "重大资产重组！这只A股公告：股票不停牌"
+    },
+    {
      "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
      "link": "https://wallstreetcn.com/articles/3786895",
      "pubDate": "Sat, 28 Nov 2026 11:55:29 +0800",
      "summary": "高盛全球对冲基金业务主管Tony Pasquariello在最新客户报告中给出罕见直白的判断：过去八周是他职业生涯中见过规模最大的清仓之一，而AI基础设施交易最丰厚的上行空间已经过去，2027年将是一个回报较少的年份。 Pasquariello的核心论据在于供需格局的转换。他认为， 仓位确实比二季度末健康得多，但明年将面对自2000年以来最大的股票净供给增量，同时AI资本开支对盈利的拉动正在减速，2028年的盈利前景将成为持续悬在市场头上的问号。 Pasquariello并未转向看空整体市场。他强调美股主要趋势仍完好，11个主要板块中有7个自二季度末以来依然上涨，美元与美债在最糟糕的时刻“完成",
      "source": "华尔街见闻",
      "zh": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！"
+    },
+    {
+     "title": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？",
+     "link": "http://bank.eastmoney.com/news/1174,202611283942348581.html",
+     "pubDate": "Sat, 28 Nov 2026 11:52:54 +0800",
+     "summary": "大额存单转让市场有望迎来新的制度性变化。 11月27日，中国人民 银行 正式公布 《大额存单管理办法》 （以下简称《办法》），进一步明确大额存单可以通过发行人自有渠道或第三方平台办理转让，并授权全国 银行 间同业拆借中心（以下简称同业拆借中心）为大额存单业务提供第三方发行、转让和信息披露服务。 央行有关部门负责人表示，下一步将结合市场实际，着手研究第三方平台等相关配套安排，保障大额存单转让有序开展。 受访业内人士指出，此次修订的重要意义在于，为大额存单转让市场引入统一的第三方服务机制提供了制度依据。 此前，大额存单转让主要依托 银行 自有渠道开展，不同银行之间缺乏有效的信息互通和交易衔接，市场",
+     "source": "东方财富资讯",
+     "zh": "银行不再“画地为牢”！央行研究引入大额存单转让第三方平台 哪些交易堵点将被打通？"
     },
     {
      "title": "新乐道L60黑骑士版正式上市，整车售价21.08万元起",
@@ -2354,124 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "铝市割裂一幕：期货价格下跌，现货却遭史诗级逼空，LME紧急出手"
     },
     {
-     "title": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景",
-     "link": "https://wallstreetcn.com/articles/3786887",
-     "pubDate": "Sat, 28 Nov 2026 09:43:43 +0800",
-     "summary": "当AI巨头Anthropic以83美元的定价完成史上最大规模的IPO时，媒体的狂欢如期而至。然而，《纽约时报》在此关键节点发布的一篇重磅专栏文章背后，却牵扯出一条隐秘的资本利益链。在科技与资本深度绑定的今天，所谓的“独立新闻”，究竟是谁在买单？ 2026年11月18日，这是属于AI行业的一个历史性时刻：Anthropic完成了史上最大规模的IPO，定价83美元，次日以111.50美元开盘。 就在IPO当天的绝佳时机，《纽约时报》发布了一篇极具影响力的专栏文章——《我花了一年时间与Anthropic员工交谈，以下是他们的信仰》。文章详细描绘了Anthropic员工在IPO前几周关于如何平衡AI发",
-     "source": "华尔街见闻",
-     "zh": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景"
-    },
-    {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
      "source": "MarketWatch",
      "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
-     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-     "source": "MarketWatch",
-     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
-    },
-    {
-     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-     "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
-     "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
-     "source": "CNBC",
-     "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
-    },
-    {
-     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
-    },
-    {
-     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
-    },
-    {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
-    },
-    {
-     "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-     "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
-     "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
-     "source": "MarketWatch",
-     "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
-    },
-    {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
-    },
-    {
-     "title": "The warnings behind this week’s stock-market rally",
-     "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
-     "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
-     "source": "MarketWatch",
-     "zh": "The warnings behind this week’s stock-market rally"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
     }
    ]
   },

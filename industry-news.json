@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 09:31:51",
+ "generated_at": "2026/11/28 09:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -281,6 +281,14 @@
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
+     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
+     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+     "source": "SemiAnalysis",
+     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
+    },
+    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -457,6 +465,14 @@
      "zh": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -479,22 +495,6 @@
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
-    },
-    {
-     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
-     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
-     "source": "Semiconductor Today",
-     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
-    },
-    {
-     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
-     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
-     "source": "Semiconductor Today",
-     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1353,14 +1353,6 @@
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
-     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
-     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
-     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
-     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
-    },
-    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1391,14 +1383,6 @@
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
-    },
-    {
-     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
-     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
-     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1449,30 +1433,6 @@
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1497,14 +1457,6 @@
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
-    },
-    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1527,6 +1479,30 @@
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
+    },
+    {
+     "title": "As it happened: NG-25 preview news teleconference",
+     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
+     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
+     "source": "Spaceflight Now",
+     "zh": "As it happened: NG-25 preview news teleconference"
+    },
+    {
+     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
+     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
+     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
+    },
+    {
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1737,12 +1713,76 @@
    "total": 18,
    "items": [
     {
+     "title": "AI投资进入调整期，创业者该怎么应对？",
+     "link": "https://www.tmtpost.com/8220836.html",
+     "pubDate": "Sat, 28 Nov 2026 09:42:30 +0800",
+     "summary": "一级市场“有人跟投、无人领投”，这两类AI公司能活下来。",
+     "source": "钛媒体",
+     "zh": "AI投资进入调整期，创业者该怎么应对？"
+    },
+    {
+     "title": "新基延募仍遇冷，东方基金严凯“顶流光环”失色",
+     "link": "https://www.tmtpost.com/8220856.html",
+     "pubDate": "Sat, 28 Nov 2026 09:42:25 +0800",
+     "summary": "单押半导体遭反噬。",
+     "source": "钛媒体",
+     "zh": "新基延募仍遇冷，东方基金严凯“顶流光环”失色"
+    },
+    {
+     "title": "闭源守擂，开源掀桌？我们实测了登顶全球的MAGI-2",
+     "link": "https://www.tmtpost.com/8220768.html",
+     "pubDate": "Sat, 28 Nov 2026 09:33:36 +0800",
+     "summary": "当开源模型支棱起来，AI视频的战争才刚开始。",
+     "source": "钛媒体",
+     "zh": "闭源守擂，开源掀桌？我们实测了登顶全球的MAGI-2"
+    },
+    {
+     "title": "AI时代的商学院：学费买不到的那张“认知入场券”",
+     "link": "https://www.huxiu.com/article/4909119.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 09:26:58 +0800",
+     "summary": "本文来自微信公众号： 发宏商业 ，作者：发宏商业 一个值得先摆出来的反差是：2025年，全国237所MBA招生院校中89%宣布扩招，总名额从6.3万增至7.2万；但同一年，上海交通大学安泰经管学院的MBA/EMBA录取总数从前一年的816人跌至517人，非全MBA从567人腰斩到362人，EMBA从165人跌到73人。复试线按国家A线146分执行，“过线几乎全录”。北京师范大学、武汉大学、同济大学等名校的非全日制MBA，第一志愿也首次出现招不满、开放调剂的情况。 一边是供给端拼命扩，一边是需求端在头部名校那里反而缩了。这个背离本身，比任何“商学院有没有价值”的抽象争论都诚实。它说明的不是商学院",
+     "source": "虎嗅",
+     "zh": "AI时代的商学院：学费买不到的那张“认知入场券”"
+    },
+    {
+     "title": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国",
+     "link": "https://www.ithome.com/1/033/801.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:26:44 GMT",
+     "summary": "IT之家 11 月 28 日消息，《GTA 6》发售前，曾有消息称，R 星考虑过将一款《侠盗猎车手》系列新作的故事舞台搬到东京，但最终放弃了这一计划。R 星前高管奥贝 · 维尔梅伊（Obbe Vermeij）当时解释，开发一款以海外为背景的 GTA 游戏 存在不小的风险 。 当地时间 27 日，外媒 Eurogamer 发布了采访 R 星联合负责人罗布 · 尼尔森（Rob Nelson）的内容。 尼尔森谈到了未来将 GTA 系列带出美国的可能性。他认为，这种情况不太可能发生，不过理由与此前维尔梅伊给出的解释并不相同。“我不知道…… 因为总会有更有意思的地方值得我们考虑，把游戏设定在那里。 美国",
+     "source": "IT之家",
+     "zh": "R 星联合负责人尼尔森表态：《侠盗猎车手》系列不太可能走出美国"
+    },
+    {
+     "title": "民间移植 PC 版 LineageOS 24 登场：4GB 内存电脑也能运行，让你体验安卓 17",
+     "link": "https://www.ithome.com/1/033/800.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:26:43 GMT",
+     "summary": "IT之家 11 月 28 日消息，开发者 Mateus Seiboth 于 11 月 26 日在 Reddit 社区发帖， 分享了开源 CapivaOS 项目，把 LineageOS 24 移植到 x86 架构的个人电脑上。 该项目基于安卓 17 系统，在 GitHub 平台上项目名称为 LineageOS 24.0 for x86_64 PCs，让为手头有闲置笔记本电脑的用户，提供了低成本体验“安卓笔记本”方式。 安装方式上，该项目提供 2 种方式，一种是直接使用预编译 ISO，通过 U 盘启动，可以进入 live 系统试用；另一种是自己编译后用 PcInstaller 安装到硬盘。 在操作",
+     "source": "IT之家",
+     "zh": "民间移植 PC 版 LineageOS 24 登场：4GB 内存电脑也能运行，让你体验安卓 17"
+    },
+    {
      "title": "巴西支付接入排期撞上运营节奏，3人团队该怎么排？",
      "link": "https://www.baijing.cn/question/639013",
      "pubDate": "Sat, 28 Nov 2026 01:24:02 +0000",
      "summary": "我们做拉美休闲手游，巴西是主力市场，月流水刚过20万美元。团队总共3人：1个后端兼支付、1个运营、1个本地化。现在巴西要接Pix和Boleto，本地化那边还要同步西语和葡语的客服话术。上周试了用第三方聚合支付，结果Pix到账延迟平均4小时，Boleto回款周期7天，运营那边活动排期全乱了。我们卡在：是先停活动等支付稳定，还是先接Pix保转化、Boleto往后放？3个人手实在排不开，想问问有经验的朋友，这种节奏该怎么取舍？",
      "source": "白鲸出海",
      "zh": "巴西支付接入排期撞上运营节奏，3人团队该怎么排？"
+    },
+    {
+     "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+     "link": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+     "pubDate": "Sat, 28 Nov 2026 01:20:16 +0000",
+     "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Alaska seized his plane over some beers. He is asking the Supreme Court for help"
+    },
+    {
+     "title": "小米 REDMI Turbo 6 系列新机通过 3C 认证，支持 100W 有线快充",
+     "link": "https://www.ithome.com/1/033/799.htm",
+     "pubDate": "Sat, 28 Nov 2026 01:13:22 GMT",
+     "summary": "IT之家 11 月 28 日消息，昨日有一款型号为 M407CF 的小米新机通过国家 3C 质量认证。数码博主 @数码闲聊站 称该机属于 REDMI Turbo 6 系列。 如IT之家下图所示，3C 认证显示该机搭配的电源适配器型号为 MDY-18-EW，支持最高 20V 5A 的 100W 功率输出。 作为参考，上一代 REDMI Turbo 4 于 2025 年 1 月发布，搭载 6550mAh 电池并支持 90W 快充。 相关阅读： 《 小米新机通过 3C 认证：有望为 REDMI Note 18，配备 45W 充电 + 8888mAh 电池 》",
+     "source": "IT之家",
+     "zh": "小米 REDMI Turbo 6 系列新机通过 3C 认证，支持 100W 有线快充"
     },
     {
      "title": "奔驰中国拟持股70%，再组新合资公司为何瞄准采购",
@@ -1793,14 +1833,6 @@
      "zh": "Edge AI Daily 早报（11月28日）"
     },
     {
-     "title": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求",
-     "link": "https://www.ithome.com/1/033/795.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:50:37 GMT",
-     "summary": "IT之家 11 月 28 日消息，技术博主 @itspdfu 于 11 月 26 日在 X 平台发布长推文， 通过挖掘 iOS 27.3 Beta 2 开发者预览版，发现了苹果 Siri AI 和多项 Apple Intelligence 功能的每日使用限额。 消息源指出根据苹果设定， 设备每向苹果的私密云计算（PCC）发起一次请求，就消耗一个 Token。 而这些 Token 只用来证明用户还有可用额度，不会暴露用户身份。 在请求流程中，用户在 iPhone 端发起的云端 PCC 请求，会先联系 Token 授予服务（Token Granting Service，简称 TGS）。TGS 知道",
-     "source": "IT之家",
-     "zh": "iOS 27.3 前瞻苹果 AI 限额：Siri AI 标准每日 20 次云端请求"
-    },
-    {
      "title": "57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂",
      "link": "https://www.huxiu.com/article/4909111.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 08:50:28 +0800",
@@ -1809,28 +1841,12 @@
      "zh": "57岁住青旅被拒：“青年”并非指年龄，但认知提前老去的人不懂"
     },
     {
-     "title": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？",
-     "link": "https://www.ithome.com/1/033/794.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:44:52 GMT",
-     "summary": "IT之家 11 月 28 日消息，路透社当地时间 11 月 27 日报道，大众汽车在印度面临的 12 亿美元 （IT之家注：现汇率约合 80.05 亿元人民币） 关税追缴纠纷进入新的交锋阶段。 大众向孟买法院主张，印度税务部门在零部件进口关税问题上对其进行了不公正的针对，并将梅赛德斯-奔驰、宝马、起亚等竞争对手的进口数据一并提交给了法庭。 此次事件争议的核心在于印度对汽车进口的两套税率：单独进口零部件适用约 10% 的关税，而以全散件形式进口、用于当地组装的车辆则适用约 30% 至 35% 的税率。 印度税务部门指控大众“故意”将接近完整的汽车拆分为零部件、分批运往印度，在当地组装成整车，从而",
-     "source": "IT之家",
-     "zh": "大众被印度追税后将奔驰、宝马、起亚拖下水：其他车企也干了，凭什么针对我？"
-    },
-    {
      "title": "国资1.4亿买老挝酒店，只卖1万块？",
      "link": "https://www.huxiu.com/article/4909110.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 08:38:29 +0800",
      "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 五星琅勃拉邦铂尔曼，1万块挂牌清仓背后。 ▲ 01 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园",
      "source": "虎嗅",
      "zh": "国资1.4亿买老挝酒店，只卖1万块？"
-    },
-    {
-     "title": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布",
-     "link": "https://www.ithome.com/1/033/792.htm",
-     "pubDate": "Sat, 28 Nov 2026 00:25:18 GMT",
-     "summary": "IT之家 11 月 28 日消息，《空洞骑士：丝之歌》（Hollow Knight：Silksong）全新 DLC“悲恸之海”（Sea of Sorrow）正式公布，将于 12 月 11 日推出。 这是《空洞骑士：丝之歌》推出后的首个大型扩展内容，所有玩家均可免费获得。开发商 Team Cherry 表示，此次扩展将为玩家带来全新的海洋主题冒险内容。 根据 Team Cherry 公布的信息，玩家将在“悲恸之海”中探索法洛姆（Pharloom）被遗忘的海洋，前往海面及海底区域，穿越群岛、堡垒，以及深藏于海浪之下的洞穴。 Team Cherry 表示，开发团队过去一年一直在为这次扩展内容进行开发",
-     "source": "IT之家",
-     "zh": "《空洞骑士：丝之歌》首个大型扩展「悲恸之海」12 月 11 日免费发布"
     },
     {
      "title": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM",
@@ -1868,7 +1884,7 @@
      "title": "Passkey blues",
      "link": "https://ssg.dev/passkey-blues/",
      "pubDate": "Fri, 27 Nov 2026 23:51:28 +0000",
-     "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "Passkey blues"
     },
@@ -1876,7 +1892,7 @@
      "title": "Painting 1990s anime scenes in Python",
      "link": "https://www.fofr.ai/greenhouse-after-the-typhoon",
      "pubDate": "Fri, 27 Nov 2026 23:50:17 +0000",
-     "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 2",
      "source": "Hacker News",
      "zh": "Painting 1990s anime scenes in Python"
     },
@@ -1905,18 +1921,10 @@
      "zh": "The Best Black Friday Gaming Deals I’ve Found (2026)"
     },
     {
-     "title": "给B站泼一盆冷水",
-     "link": "https://www.huxiu.com/article/4908316.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 07:15:31 +0800",
-     "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜视觉中国 B 站终于熬出了一份扬眉吐气的财报。 11 月 24 日，B 站向市场递上 2026Q3 财报，局面一片明朗：总营收同比增长 8% 至 83.2 亿元；经调整净利润同比增长 5% 至 8.28 亿元；经营利润同比飙升 32%，毛利率由上年同期的 36.7% 升至 37.3%。 不过，市场更关注的落点在用户盘：Q3 日活同比增长 5% 达 1.24 亿，月活同比增长 4.8% 达 3.94 亿；日均使用时长首次突破两小时达 121 分钟，全平台用户总使用时长同比增长 14%， 三项核心用户指标齐创历史新高。 在短剧席卷全",
-     "source": "虎嗅",
-     "zh": "给B站泼一盆冷水"
-    },
-    {
      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
      "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
-     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 61 # Comments: 15",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 76 # Comments: 16",
      "source": "Hacker News",
      "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
     },
@@ -1924,7 +1932,7 @@
      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
      "link": "https://tabernet.es/",
      "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
-     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 29 # Comments: 10",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 32 # Comments: 11",
      "source": "Hacker News",
      "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
     },
@@ -1940,41 +1948,9 @@
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 54 # Comments: 40",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 56 # Comments: 41",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
-    },
-    {
-     "title": "9/UX: a Macintosh-inspired desktop for 9front",
-     "link": "https://progrium.github.io/9ux/",
-     "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 68 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "9/UX: a Macintosh-inspired desktop for 9front"
-    },
-    {
-     "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
-     "link": "https://www.techmeme.com/261127/p14#a261127p14",
-     "pubDate": "Fri, 27 Nov 2026 16:35:01 -0500",
-     "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently ",
-     "source": "Techmeme",
-     "zh": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)"
-    },
-    {
-     "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
-     "link": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 20:51:30 +0000",
-     "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
-     "source": "WIRED",
-     "zh": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers"
-    },
-    {
-     "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-     "link": "https://www.techmeme.com/261127/p13#a261127p13",
-     "pubDate": "Fri, 27 Nov 2026 15:15:01 -0500",
-     "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more &nbsp; &mdash;&nbsp; &ldquo;If we pause now, people still won't understand what's at stake.&rdquo;&nbsp; &m",
-     "source": "Techmeme",
-     "zh": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)"
     }
    ]
   },
@@ -1984,6 +1960,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+     "link": "https://sspai.com/post/119686",
+     "pubDate": "Sat, 28 Nov 2026 08:47:47 +0800",
+     "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ... 查看全文",
+     "source": "少数派",
+     "zh": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限"
+    },
     {
      "title": "Galaxy S27 Ultra tipped to improve night photography and video",
      "link": "https://www.gsmarena.com/galaxy_s27_ultra_tipped_to_improve_night_photography_and_video-news-75678.php",
@@ -2215,14 +2199,6 @@
      "summary": "Amazon’s Black Friday week is drawing to a close, but it’s not over yet – the prices for the main Samsung Galaxy S26 trio have dropped even further. Samsung Galaxy S26 Ultra • Samsung Galaxy S26+ and Galaxy S26 The Samsung Galaxy S26 Ultra was $350 off when the sales event started – now the discount",
      "source": "GSMArena",
      "zh": "Deal: Amazon increases its Black Friday discounts for the Galaxy S26, S26+ and S26 Ultra"
-    },
-    {
-     "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
-     "link": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
-     "pubDate": "Fri, 27 Nov 2026 16:55:43 +0000",
-     "summary": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
-     "source": "Engadget",
-     "zh": "Hackers reportedly infiltrated the Air Force's cloud systems"
     }
    ]
   },
@@ -2233,52 +2209,52 @@
    "total": 13,
    "items": [
     {
-     "title": "冯骥约八千字长文谈AI冲击：创作工具平权了 分钱方式没有平权",
-     "link": "http://finance.eastmoney.com/news/1373,202611273941981150.html",
-     "pubDate": "Sat, 28 Nov 2026 09:13:32 +0800",
-     "summary": "11月27日，游戏科学创始人、CEO，《黑神话：悟空》制作人冯骥发长文追问，当AI在生产端大规模取代人类劳动后，社会应该如何看待人的价值？他认为，这将成为“一道决定财富与尊严如何分配的政经必答题”。 冯骥提到，他近期密集试玩了一批用Fable 5.2做出来的网页游戏，“不少作品完成度高得惊人”，有几款甚至让他玩到忘记时间。但当游戏用AI做，如果有一天没有任何工作需要人了，人该怎么办？ 他认为，绝大部分以创作为生的从业者，正在迎来某种意义上的末法时代。“如果我们只是用户，AI带来的供给侧繁荣或许是件大好事。” 他提出，AI会给文娱内容行业带来空前的撕裂与两极分化。一面是旧时代的超级IP将拥有更强",
+     "title": "特斯拉AI5芯片难在明年量产？台积电产能争夺战中输给谷歌和微软",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942335051.html",
+     "pubDate": "Sat, 28 Nov 2026 09:40:17 +0800",
+     "summary": "据供应链消息称， 特斯拉 的下一代 人工智能 芯片AI不太可能在2027年实现量产，因为 特斯拉 AI5芯片的设计合作伙伴——台湾创意 电子 （GUC）将其在 台积电 的有限产能优先分配给了谷歌Axiom芯片和 微软 的产品。 此前供应链消息指出， 特斯拉 AI5芯片的设计交给了创意 电子 ，并间接排进 台积电 投片队列，将使用 台积电 的3纳米制程工艺。韩国三星 电子 也供应部分AI5芯片，使用2纳米制程工艺。 消息人士最新表示，虽然创意电子从台积电获得的3纳米芯片产能配额有所增加，但仍不足以满足其所有客户的需求。利润是创意电子将产能优先分配给谷歌和 微软 的主要动机，因为云服务提供商的订单",
      "source": "东方财富股票",
-     "zh": "冯骥约八千字长文谈AI冲击：创作工具平权了 分钱方式没有平权"
+     "zh": "特斯拉AI5芯片难在明年量产？台积电产能争夺战中输给谷歌和微软"
     },
     {
-     "title": "中概股普遍上涨，纳斯达克中国金龙指数涨3.02%",
-     "link": "http://finance.eastmoney.com/news/11228,202611283942333815.html",
-     "pubDate": "Sat, 28 Nov 2026 09:10:38 +0800",
-     "summary": "当地时间11月27日，中概股普遍上涨， 纳斯达克 中国金龙指数涨3.02% 。 热门中概股方面， 奇富科技 涨超13%， 大全新能源 涨逾10%， 希尔威金属矿业 涨超10%， 麦思智能 涨逾10%， 金山云 涨超7%， 哔哩哔哩 、 禾赛 科技、 BOSS直聘 、 腾讯音乐 涨逾6%。跌幅方面， 世纪互联 跌近11%， 万国数据 跌超2%。 （文章来源：财闻）",
+     "title": "美军中央司令部否认伊朗军方有关美军的多项说法",
+     "link": "http://finance.eastmoney.com/news/1351,202611283942334944.html",
+     "pubDate": "Sat, 28 Nov 2026 09:38:22 +0800",
+     "summary": "当地时间11月27日，美军中央司令部发文，否认伊朗一名军事指挥官过去24小时内有关美军的多项说法，包括美军夺取两艘伊朗油轮后被伊方趁美军人员熟睡时夺回，以及“亚伯拉罕·林肯”号航母在“史诗怒火”行动首日遭伊方击中。 该司令部称，“林肯”号航母打击群从未被伊朗击中，已完成中东作战部署并于上月安全返回美国。对于向霍尔木兹海峡过往船只收取250万美元通行费的说法，该司令部予以否认，并称美军与地区伙伴控制该海峡，但不收取通行费。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "中概股普遍上涨，纳斯达克中国金龙指数涨3.02%"
+     "zh": "美军中央司令部否认伊朗军方有关美军的多项说法"
     },
     {
-     "title": "大手笔护盘！A股，真金白银来了",
-     "link": "http://finance.eastmoney.com/news/1353,202611283942333785.html",
-     "pubDate": "Sat, 28 Nov 2026 09:09:29 +0800",
-     "summary": "最近，多笔大额回购投向 锂 电产业链： 盐湖股份 拟出资 15亿—20亿元 回购股份，回购价格不超过33.66元/股，将用于注销以减少公司注册资本。同时， 天齐锂业 董事长蒋安琪提议公司以自有资金或自筹资金回购股份，回购资金总额不低于4亿元且不超过8亿元。 据不完全统计，11月以来， 锂 电产业链已有6家企业披露 回购计划 ， 合计金额上限约50亿元 。同时， 宁德时代 7月推出的200亿元至400亿元注销式回购仍在推进，截至11月中旬累计回购已超58亿元。 本轮回购潮背后，是行业正在经历的深度调整。数据显示，碳酸 锂 期货 主力合约LC2701从9月起至今 累计下跌超过43% ，较年内高点回",
+     "title": "上交所调整多项指数样本，12月11日收市后生效",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942334745.html",
+     "pubDate": "Sat, 28 Nov 2026 09:35:05 +0800",
+     "summary": "11月27日，上海证券交易所与中证指数有限公司决定调整上证50、上证180、 上证380 、科创50等指数样本，于2026年12月11日收市后生效。 其中上证50指数更换5只样本，上证180指数更换18只样本， 上证380 指数更换38只样本，科创50指数更换5只样本。 （文章来源：财闻）",
      "source": "东方财富股票",
-     "zh": "大手笔护盘！A股，真金白银来了"
+     "zh": "上交所调整多项指数样本，12月11日收市后生效"
     },
     {
-     "title": "600095、601519 ，突然终止合并",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942333153.html",
-     "pubDate": "Sat, 28 Nov 2026 09:09:11 +0800",
-     "summary": "11月27日晚间， 湘财股份 （600095.SH，股价7.15元，市值204.43亿元）与 大智慧 （601519.SH，股价7.56元，市值150.38亿元）公告，两家公司董事会分别审议通过 撤回换股吸收合并并募集配套资金暨关联交易申请 的议案， 湘财股份 与 大智慧 同时将签署《吸收合并协议之解除协议》。 此时距上交所受理该申请已过去 13个月 ，期间交易两次因申报文件估值、财务数据过有效期被中止审核。对于撤回原因， 湘财股份 公告称“鉴于外部环境变化和公司发展需要，经双方审慎研究、协商一致”。公司承诺至少1个月内不再筹划重大资产重组。 从受理到撤回：13个月，两次中止审核 这是一桩以换",
+     "title": "汽车早报【11月28日】",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942335623.html",
+     "pubDate": "Sat, 28 Nov 2026 09:32:34 +0800",
+     "summary": "首发新车115辆 2026广州车展拉开帷幕 11月27日，第二十四届广州国际 汽车 展览会拉开帷幕。作为国内年度收官A级车展，本届车展以“新科技?新生活”为主题，展览面积达22万平方米，展车总数1106辆。其中， 首发新车115辆 ，创下广州车展 历史新高 ； 新能源 展车707辆，占比达63.9%，较去年增加78辆。 财联社 汽车 ： 新能源 车不再只是展台上的“差异化选项”，而是以绝对主流姿态，定义了中国车市年末风向标的底色。 10月 汽车 整体市场成交价14.43万元 11月27日，乘联分会数据显示，10月汽车整体市场价格变化指数为-12.98， 市场成交价14.43万元 ；本月市场整体",
      "source": "东方财富股票",
-     "zh": "600095、601519 ，突然终止合并"
+     "zh": "汽车早报【11月28日】"
     },
     {
-     "title": "报名费涨到799元 老玩家在“退坑”：HYROX狂奔两年 还能火多久？",
-     "link": "http://finance.eastmoney.com/news/1344,202611283942332875.html",
-     "pubDate": "Sat, 28 Nov 2026 09:08:12 +0800",
-     "summary": "11月20日至22日，HYROX广州站在争议余波中重启。广州站观众依旧热情，多项国内纪录被打破。从2024年11月中国内地首站约1700名有效参赛者，到2026年5月上海站报名突破万人，HYROX只用不到一年半时间。这份热度从哪里来，又能持续多久？当报名费从699元涨到799元，当第一批玩家开始说“退坑”，这条被HYROX带火的 综合 体能赛道，正迎来一次压力测试。 （HYROX广州站现场参赛者供图） 狂奔一年半撞上一场风波 “在个人第九站比赛，终于完成‘站台’突破！”刚刚完成HYROX广州站赛事的巧克力（化名）对记者说。所谓站台，指成绩排进细分组别前三，这次巧克力与队友以58分21秒获得25",
+     "title": "老挝发生4.9级地震，震源深度15千米",
+     "link": "http://finance.eastmoney.com/news/11790,202611283942334172.html",
+     "pubDate": "Sat, 28 Nov 2026 09:31:19 +0800",
+     "summary": "中国地震台网正式测定：11月28日09时17分在老挝（北纬22.39度，东经101.74度）发生4.9级地震，震源深度15千米。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "报名费涨到799元 老玩家在“退坑”：HYROX狂奔两年 还能火多久？"
+     "zh": "老挝发生4.9级地震，震源深度15千米"
     },
     {
-     "title": "脑癌治疗新希望：加州理工学院研发纳米机器人BrainBot 可随血液循环突破血脑屏障向脑内递药",
-     "link": "http://finance.eastmoney.com/news/1351,202611283942332750.html",
-     "pubDate": "Sat, 28 Nov 2026 09:07:32 +0800",
-     "summary": "11 月 28 日消息，当地时间 27 日，据外媒 TechSpot 报道，加州理工学院研究人员开发出一种能够 随血液循环、将药物送入大脑的纳米 机器人 BrainBot。 据悉，该 机器人 能够穿过血脑屏障。这道保护大脑的细胞屏障本来负责阻挡病菌、毒素等有害物质，却也让许多治疗脑部疾病的药物难以抵达病灶。在一种脑癌小鼠模型中，经过光激活的 BrainBot 向脑内输送的药物量约为未激活同类 机器人 的 5 倍 。 血脑屏障的防护能力太强，有时反而成了治疗障碍。它能将病原体、毒素及其他威胁挡在大脑之外，却也会把药物拦在外面。结果就是，医生即使拥有能够对抗某种疾病的药物，也未必能让药物真正抵达患",
+     "title": "6G政策东风劲吹 产业发展将驶入快车道 龙头企业有望率先受益",
+     "link": "http://stock.eastmoney.com/news/11791,202611283942334090.html",
+     "pubDate": "Sat, 28 Nov 2026 09:31:02 +0800",
+     "summary": "日前，工业和信息化部联合国家网信办、国家发展改革委印发《新一代 通信 网建设实施方案》（以下简称《实施方案》）。《实施方案》要求，到2030年，建成覆盖完善、性能领先的新一代 通信 网。基础网络发展水平持续领先，空间网络形成全球服务能力，国际网络韧性明显提升，融合网络实现规模化发展。方案提出，要积极推进5G-A网络规模覆盖，适时开展6G网络建设，适时启动6G商用；开展万兆城市全域试点，加快部署400Gbps及以上超高速光传输系统。 有行业人士指出，从产业链来看，6G核心增量方向集中于通感算智一体化、空天地一体化。产业结构方面，上游包括有线 通信 和无线通信，中游是网络运营商和内容提供商，下游场",
      "source": "东方财富股票",
-     "zh": "脑癌治疗新希望：加州理工学院研发纳米机器人BrainBot 可随血液循环突破血脑屏障向脑内递药"
+     "zh": "6G政策东风劲吹 产业发展将驶入快车道 龙头企业有望率先受益"
     },
     {
      "title": "付费前夜 DeepSeek大佬圈都有谁？黄仁勋也去了",
@@ -2295,22 +2271,6 @@
      "summary": "美元自9月中旬以来累计涨幅约5%，但本周从约20个月高位急剧回撤，或正预示阶段性顶部形成。 彭博宏观策略师Simon White最新指出，实际收益率曲线已开始走平，这一信号在历史上与美元阶段性见顶高度吻合。 White并未给出美元即将崩跌的断言，但实际收益率曲线走平、利率差动能减弱、融资结构脆弱与潜在政策转向四重信号叠加，意味着美元阶段性顶部形成的概率正在上升，投资者宜保持警惕。 实际收益率曲线发出预警 在引领美元走势的诸多指标中，可靠的前瞻信号历来难觅。White表示， 10年期对3个月实际收益率曲线是他所找到的最佳先行指标之一。 当前数据显示，该曲线已开始走平，按历史规律，这预示美元近期将",
      "source": "华尔街见闻",
      "zh": "实际收益率曲线走平，预示美元见顶？"
-    },
-    {
-     "title": "每天写作业都像一场战争,可能不只是态度问题 识别儿童青少年学习困难的症状表现与评估时机",
-     "link": "http://www.eeo.com.cn/2026/1128/1095753.shtml",
-     "pubDate": "Sat, 28 Nov 2026 09:05:01 +0800",
-     "summary": "学习困难本身会带来失败体验。长期得不到解释和支持时，孩子可能逐渐形成“反正我做不到”的认识，继而减少尝试、逃避任务、对抗要求。随着课程难度增加，基础断层、情绪压力和亲子冲突可能互相强化。",
-     "source": "经济观察网",
-     "zh": "每天写作业都像一场战争,可能不只是态度问题 识别儿童青少年学习困难的症状表现与评估时机"
-    },
-    {
-     "title": "道指涨近600点，美股芯片股大爆发，闪迪狂飙近16%",
-     "link": "http://www.eeo.com.cn/2026/1128/1105864.shtml",
-     "pubDate": "Sat, 28 Nov 2026 08:52:12 +0800",
-     "summary": "据21财经雷达，感恩节假期后的美股迎来半日交易，于北京时间11月28日凌晨2时提早收盘。美国三大股指全线收涨，道指涨1.18%，涨近600点，标普500指数涨1.6%，纳指涨2.31%，涨超540点。 存储概念股全线上涨。闪迪涨15.96%，慧荣科技涨8.92%，美光科技涨8.7%，希捷科技涨7.9%。 Anthropic涨10.98%，收报91.88美元，重新站上83美元的IPO发行价。Anthropic上市以来的股价波动，也让IPO的具体安排受到审视。 商品方...",
-     "source": "经济观察网",
-     "zh": "道指涨近600点，美股芯片股大爆发，闪迪狂飙近16%"
     },
     {
      "title": "“可能发生大规模地震” 我驻日大使馆紧急提醒",
@@ -2471,6 +2431,22 @@
      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
      "source": "MarketWatch",
      "zh": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
+    },
+    {
+     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
+    },
+    {
+     "title": "SA Asks: What's the best gold play right now for investors?",
+     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What's the best gold play right now for investors?"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 07:51:58",
+ "generated_at": "2026/11/28 08:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers",
+     "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wasted-Wind-and-Solar-Power-Could-Run-Factories-and-Data-Centers.html",
+     "pubDate": "Fri, 27 Nov 2026 18:00:00 -0600",
+     "summary": "As the scale and reach of variable renewable energies expand around the world, more and more clean energy is being produced. However, more and more of that clean energy is also going to waste. In order to balance energy supply and demand, electric utilities rely on a process called curtailment, wher",
+     "source": "OilPrice",
+     "zh": "Wasted Wind and Solar Power Could Run Factories and Data Centers"
+    },
+    {
      "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
      "link": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
      "pubDate": "Fri, 27 Nov 2026 22:35:21 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "The co-location of solar PV and BESS was the key talking point at the 2026 SolarPlus Central Eastern Europe event.",
      "source": "PV Tech",
      "zh": "Co-locating solar and storage integral to minimise ‘disruptive’ impacts on Central and Eastern European grids"
-    },
-    {
-     "title": "Copper Heads for First Weekly Gain Since Early October After 6.5% Surge",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Copper-Heads-for-First-Weekly-Gain-Since-Early-October-After-65-Surge.html",
-     "pubDate": "Fri, 27 Nov 2026 09:30:00 -0600",
-     "summary": "Copper on the London Metal Exchange is on track to post the first weekly gain in nearly two months, as prices continued to rally on Friday amid improved risk sentiment. After hitting a record high of over $15,000 per ton on the LME in September, copper prices pulled back sharply over the following w",
-     "source": "OilPrice",
-     "zh": "Copper Heads for First Weekly Gain Since Early October After 6.5% Surge"
     },
     {
      "title": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better",
@@ -1746,12 +1746,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
+     "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
+     "pubDate": "Fri, 27 Nov 2026 23:54:42 +0000",
+     "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
+     "source": "WIRED",
+     "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
+    },
+    {
      "title": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实",
      "link": "https://www.ithome.com/1/033/786.htm",
      "pubDate": "Fri, 27 Nov 2026 23:39:57 GMT",
      "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称 在海关舱单记录后 ，英特尔 Raptor Lake-S NEXT 处理器已在官方驱动文档中确认，该系列面向 LGA 1700 平台，属于桌面处理器产品。 英特尔近日在其官方网站发布的 Windows Zero Copy 显示虚拟化驱动程序文档中，首次明确列出了“Raptor Lake-S NEXT PV”，从而在产品发布之前，悄然确认了 Raptor Lake-S NEXT 这一处理器系列的存在。 文档显示，最新版 Windows Zero Copy 驱动支持 Bartlett Lake-",
      "source": "IT之家",
      "zh": "LGA 1700 老平台将迎新处理器，英特尔 Raptor Lake-S NEXT 已坐实"
+    },
+    {
+     "title": "Why drivers want cheap, dumb cars again",
+     "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+     "pubDate": "Fri, 27 Nov 2026 23:39:15 +0000",
+     "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html Comments URL: https://news.ycombinator.com/item?id=50672762 Points: 21 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Why drivers want cheap, dumb cars again"
     },
     {
      "title": "美空军云系统遭黑客入侵，大量战术、人事及后勤相关敏感数据或面临安全威胁",
@@ -1826,6 +1842,22 @@ window.INDUSTRY_DATA = {
      "zh": "给B站泼一盆冷水"
     },
     {
+     "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+     "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+     "pubDate": "Fri, 27 Nov 2026 23:06:29 +0000",
+     "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+    },
+    {
+     "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+     "link": "https://tabernet.es/",
+     "pubDate": "Fri, 27 Nov 2026 23:00:30 +0000",
+     "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 10 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs"
+    },
+    {
      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
      "link": "https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 22:11:06 +0000",
@@ -1837,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Source Control from Hell",
      "link": "https://frantic.im/git/",
      "pubDate": "Fri, 27 Nov 2026 22:06:44 +0000",
-     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 30 # Comments: 15",
+     "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 38 # Comments: 23",
      "source": "Hacker News",
      "zh": "Source Control from Hell"
     },
@@ -1845,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "9/UX: a Macintosh-inspired desktop for 9front",
      "link": "https://progrium.github.io/9ux/",
      "pubDate": "Fri, 27 Nov 2026 21:48:14 +0000",
-     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 39 # Comments: 9",
+     "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 48 # Comments: 9",
      "source": "Hacker News",
      "zh": "9/UX: a Macintosh-inspired desktop for 9front"
     },
@@ -1861,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
      "link": "https://sessiongraph.ai/",
      "pubDate": "Fri, 27 Nov 2026 21:07:34 +0000",
-     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 12 # Comments: 4",
+     "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 14 # Comments: 8",
      "source": "Hacker News",
      "zh": "SessionGraph: Visualize all your coding agent sessions in one interactive graph"
     },
@@ -1872,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss.",
      "source": "WIRED",
      "zh": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers"
-    },
-    {
-     "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
-     "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
-     "pubDate": "Fri, 27 Nov 2026 20:25:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 119 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order"
-    },
-    {
-     "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-     "link": "https://github.com/skeeto/prospero",
-     "pubDate": "Fri, 27 Nov 2026 20:23:14 +0000",
-     "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 21 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Prospero: Bloat-free, native AI coding harness with ImGui"
     },
     {
      "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
@@ -1904,22 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "This is the lowest price I’ve ever seen the AirPods Pro 3 drop to, and there’s no telling when these discounts will change.",
      "source": "WIRED",
      "zh": "Best Black Friday AirPods Deals I’ve Found (2026)"
-    },
-    {
-     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-     "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-     "pubDate": "Fri, 27 Nov 2026 19:42:25 +0000",
-     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombin",
-     "source": "Hacker News",
-     "zh": "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
-    },
-    {
-     "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
-     "link": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 19:26:33 +0000",
-     "summary": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season.",
-     "source": "WIRED",
-     "zh": "Black Friday Deals on Household Essentials and Affordable Toys to Donate"
     },
     {
      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
+     "link": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
+     "pubDate": "Fri, 27 Nov 2026 23:58:36 +0000",
+     "summary": "The main event Amazon Black Friday sale is flying , and, much like some of you, we didn’t quite finish up our shopping during yesterday’s wild sale. For Black Friday edition of In My cart we are sharing with everyone the deals we are about to or have already checked out with today. From Amazon’s new",
+     "source": "9to5Mac",
+     "zh": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves"
+    },
     {
      "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
      "link": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
@@ -2122,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple iPhone 18 Pro Max vs. Google Pixel 11 Pro XL"
     },
     {
-     "title": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more",
-     "link": "https://9to5mac.com/2026/11/27/daily-november-27-2026/",
-     "pubDate": "Fri, 27 Nov 2026 20:01:59 +0000",
-     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNo",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Daily: November 27, 2026 – MacBook Air overhaul rumors, more"
-    },
-    {
      "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
      "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
      "pubDate": "Fri, 27 Nov 2026 19:45:23 +0000",
@@ -2242,12 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "柳药集团：融资净买入173.91万元，融资余额2.6亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942229169.html",
-     "pubDate": "Sat, 28 Nov 2026 07:44:53 +0800",
-     "summary": "交易所最新数据显示，柳药集团于2026年11月27日获融资买入983.81万元，融资偿还809.90万元， 当日融资净买入173.91万元。 目前，该股融资余额2.60亿，占流通市值比例为4.20%。 该股当日融券卖出100股，融券偿还100股， 融券净卖出0股。 目前，该股融券余量2.93万股，融券余额45.68万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任",
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "银价跌破40美元关口后反弹 上行弹性尚待工业需求驱动",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942147573.html",
+     "pubDate": "Sat, 28 Nov 2026 07:58:20 +0800",
+     "summary": "11月25日，国际 白银 现货、COMEX 白银 期货 盘中双双跌破40美元/盎司关口，COMEX 白银 期货 盘中一度脉冲下探至37.955美元/盎司，创2025年9月以来最低水平。随后，国际银价出现较为明显的反弹，11月26日收盘涨幅达到4.22%，11月27日盘中涨幅超过6%。值得一提的是，2026年1月，COMEX白银价格曾一度升至121.785美元/盎司。白银概念股方面，最近两个交易日，白银板块上市公司股价连续大幅上涨，引发市场关注。机构预判长期向上弹性打开依赖工业需求的配合。 多家受访上市公司告诉中国证券报记者，目前，白银的工业需求主要集中在光伏行业，最近两年，受光伏装机量影响，需",
      "source": "东方财富股票",
-     "zh": "柳药集团：融资净买入173.91万元，融资余额2.6亿元"
+     "zh": "银价跌破40美元关口后反弹 上行弹性尚待工业需求驱动"
+    },
+    {
+     "title": "科兴制药：融资净偿还15.29万元，融资余额1.5亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611283942321971.html",
+     "pubDate": "Sat, 28 Nov 2026 07:58:00 +0800",
+     "summary": "交易所最新数据显示， 科兴制药 于2026年11月27日获融资买入744.84万元，融资偿还760.13万元， 当日融资净偿还15.29万元。 目前，该股融资余额1.50亿，占流通市值比例为5.03%。 该股当日融券卖出1400股，融券偿还0股， 融券净卖出1400股。 目前，该股融券余量9300股，融券余额13.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "科兴制药：融资净偿还15.29万元，融资余额1.5亿元"
+    },
+    {
+     "title": "酒钢宏兴：融资净买入167.93万元，融资余额1.76亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611283942321871.html",
+     "pubDate": "Sat, 28 Nov 2026 07:58:00 +0800",
+     "summary": "交易所最新数据显示， 酒钢宏兴 于2026年11月27日获融资买入568.27万元，融资偿还400.35万元， 当日融资净买入167.93万元。 目前，该股融资余额1.76亿，占流通市值比例为2.29%。 该股当日融券卖出0股，融券偿还2000股， 融券净偿还2000股。 目前，该股融券余量5500股，融券余额6765元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富股票",
+     "zh": "酒钢宏兴：融资净买入167.93万元，融资余额1.76亿元"
+    },
+    {
+     "title": "航发动力：融资净偿还1886.37万元，融资余额21.73亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611283942321770.html",
+     "pubDate": "Sat, 28 Nov 2026 07:57:54 +0800",
+     "summary": "交易所最新数据显示， 航发动力 于2026年11月27日获融资买入6270.52万元，融资偿还8156.89万元， 当日融资净偿还1886.37万元。 目前，该股融资余额21.73亿，占流通市值比例为2.43%。 该股当日融券卖出2.71万股，融券偿还8.29万股， 融券净偿还5.58万股。 目前，该股融券余量21.84万股，融券余额732.3万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该",
+     "source": "东方财富股票",
+     "zh": "航发动力：融资净偿还1886.37万元，融资余额21.73亿元"
+    },
+    {
+     "title": "豪森智能：融资净买入4.17万元，融资余额1.05亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611283942321668.html",
+     "pubDate": "Sat, 28 Nov 2026 07:57:53 +0800",
+     "summary": "交易所最新数据显示， 豪森智能 于2026年11月27日获融资买入265.41万元，融资偿还261.24万元， 当日融资净买入4.17万元。 目前，该股融资余额1.05亿，占流通市值比例为5.82%。 该股当日融券卖出0股，融券偿还200股， 融券净偿还200股。 目前，该股融券余量1.55万股，融券余额16.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "豪森智能：融资净买入4.17万元，融资余额1.05亿元"
+    },
+    {
+     "title": "敏芯股份：融资净买入1287.85万元，融资余额2.61亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611283942321579.html",
+     "pubDate": "Sat, 28 Nov 2026 07:57:53 +0800",
+     "summary": "交易所最新数据显示， 敏芯股份 于2026年11月27日获融资买入7973.42万元，融资偿还6685.57万元， 当日融资净买入1287.85万元。 目前，该股融资余额2.61亿，占流通市值比例为5.82%。 该股当日融券卖出0股，融券偿还200股， 融券净偿还200股。 目前，该股融券余量1.03万股，融券余额58.84万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "敏芯股份：融资净买入1287.85万元，融资余额2.61亿元"
+    },
+    {
+     "title": "国务院常务会议解读丨国常会新部署释放明确稳市信号",
+     "link": "http://finance.eastmoney.com/news/1344,202611283942235631.html",
+     "pubDate": "Sat, 28 Nov 2026 07:41:52 +0800",
+     "summary": "11月27日举行的国务院常务会议研究了持续深化资本市场投融资 综合 改革工作，释放五大鲜明稳市信号。截至当日收盘，A股超5000只个股飘红，成交明显放量。 信号一：明确“资本市场事关经济发展大局”。 资本市场一头连着企业融资、产业升级，另一头连着居民资产、财产性收入。 会议指出，资本市场事关经济发展大局。在 招商证券 研究发展中心负责人谢亚轩看来，会议把资本市场放在经济发展大局中谋划，定位清晰。企业直接融资渠道是否畅通，科技创新、先进制造能否获得持续资金活水，与市场预期密切相关；居民资产配置、财产性收入增长，同样受市场预期影响。稳住股市，就是稳预期，对巩固经济回升向好态势意义重大。 信号二：“",
+     "source": "东方财富资讯",
+     "zh": "国务院常务会议解读丨国常会新部署释放明确稳市信号"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2266,12 +2322,44 @@ window.INDUSTRY_DATA = {
      "zh": "信贷市场表里不一：7050亿美元AI债与CCC级“垃圾债”承压，优质企业独自坚挺"
     },
     {
+     "title": "央行连发两文！大额存单门槛下调 贷款罚息规则生变",
+     "link": "http://forex.eastmoney.com/news/1131,202611283942152316.html",
+     "pubDate": "Sat, 28 Nov 2026 07:23:52 +0800",
+     "summary": "11月27日，人民 银行 （下称“央行”）正式发布《大额存单管理办法》（下称《办法》）和《人民币存贷款利率管理规定》（下称《规定》），两部规章均自2027年3月21日起施行。两部规章将此前分散在多份文件中的规则整合为统一制度，并对市场反映集中的条款作出调整。 比如，为降低产品门槛，《办法》明确将个人和机构投资者的大额存单认购起点金额分别由此前的20万元和1000万元下调至10万元和500万元。 鉴于过去按照固定百分比加收罚息，导致利率较高的贷款逾期后罚息利率更高，部分因特殊原因无力还款的借款人更加难以承担。《规定》取消了贷款罚息利率的上下限，明确罚息利率由借贷双方协商确定。央行预计，罚息利率总",
+     "source": "东方财富资讯",
+     "zh": "央行连发两文！大额存单门槛下调 贷款罚息规则生变"
+    },
+    {
+     "title": "凌晨！VIX恐慌指数直线跳水！全球市场情绪回暖",
+     "link": "http://finance.eastmoney.com/news/1354,202611283942152758.html",
+     "pubDate": "Sat, 28 Nov 2026 07:22:00 +0800",
+     "summary": "恐慌指数下跌，全球市场情绪回暖！ 北京时间11月28日凌晨，VIX恐慌指数突然直线跳水，截至收盘跌幅超过10%，报23.87；而在跳水之前，该指数一度涨超2%。VIX指数走低通常意味着投资者对短期市场剧烈波动的担忧有所缓解，风险偏好有所回升。 周五，美股三大指数集体上涨。截至收盘，道指涨1.18%，标普500指数涨1.60%，纳指涨2.31%。芯片股集体走强，费城 半导体 指数涨4.69%，存储与光 通信 板块领涨： 闪迪 大涨近16%，Coherent涨14%，Lumentum涨近8%， 迈威尔科技 、 美光科技 、 SK海力士 、 西部数据 、 希捷科技 涨超7%， 康宁 涨近5%。个股方",
+     "source": "东方财富资讯",
+     "zh": "凌晨！VIX恐慌指数直线跳水！全球市场情绪回暖"
+    },
+    {
+     "title": "蓝牌混动也上高阶智驾，广汽本田开启新一轮产品更新",
+     "link": "http://www.eeo.com.cn/2026/1128/1105848.shtml",
+     "pubDate": "Sat, 28 Nov 2026 07:17:59 +0800",
+     "summary": "以新一代混动冠道为起点，广汽本田将本田混动技术与中国本土智能化能力融合。未来两年5款新车的规划，正将合资续约的长期布局转化为产品更新与本土化研发的具体行动。",
+     "source": "经济观察网",
+     "zh": "蓝牌混动也上高阶智驾，广汽本田开启新一轮产品更新"
+    },
+    {
      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
      "source": "MarketWatch",
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "证监会：抓紧研究出台增量政策 完善资本市场稳市机制",
+     "link": "http://stock.eastmoney.com/news/1405,202611283942146954.html",
+     "pubDate": "Sat, 28 Nov 2026 07:11:17 +0800",
+     "summary": "11月27日，证监会党委书记、主席吴清主持召开党委（扩大）会议，传达学习国务院常务会议精神，研究部署贯彻落实举措。会议要求，坚持目标导向、问题导向，落实落细各项存量政策，会同有关方面抓紧研究出台相关增量政策。 会议认为，党中央、国务院高度重视资本市场改革发展稳定工作。近年来，在党中央、国务院坚强领导下，以新“国九条”为统领，资本市场持续深化投融资 综合 改革并取得重要进展，基础制度和生态体系得到系统性重塑，市场功能和效率稳步提升。下一步，证监会系统要深入学习贯彻党的二十届五中全会精神，认真贯彻落实今年以来中央政治局会议和这次国务院常务会议部署安排，坚持以防风险、强监管、促高质量发展为主线，坚持",
+     "source": "东方财富资讯",
+     "zh": "证监会：抓紧研究出台增量政策 完善资本市场稳市机制"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月28日",
@@ -2330,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "美国10月贸易逆差创一年半新高：受AI基建推动，进口额刷新历史纪录"
     },
     {
+     "title": "90后张策：电网一线守护万家灯火",
+     "link": "http://www.eeo.com.cn/2026/1128/1105840.shtml",
+     "pubDate": "Sat, 28 Nov 2026 05:39:16 +0800",
+     "summary": "张策（右）与同事在河南省洛阳市伊川县110千伏理学变电站内开展巡视。受访者供图 深耕电力运维8年，张策相信一个朴素的道理：“运维效率从来不是比拼速度，守牢安全底线、杜绝误操作，才是我们变电运维人的立身准则。”这句话，...",
+     "source": "经济观察网",
+     "zh": "90后张策：电网一线守护万家灯火"
+    },
+    {
      "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
      "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
@@ -2384,102 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
-    },
-    {
-     "title": "Energy Fuels gains 11% as peers and the broader market rise",
-     "link": "https://seekingalpha.com/news/4677102-energy-fuels-gains-11-percent-as-peers-and-the-broader-market-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:10:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Energy Fuels gains 11% as peers and the broader market rise"
-    },
-    {
-     "title": "The warnings behind this week’s stock-market rally",
-     "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 18:40:00 GMT",
-     "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
-     "source": "MarketWatch",
-     "zh": "The warnings behind this week’s stock-market rally"
-    },
-    {
-     "title": "Trump’s Nvidia intervention has a cost for US stocks",
-     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
-     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
-     "source": "Financial Times",
-     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
-    },
-    {
-     "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-     "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-     "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
-     "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-     "source": "CNBC",
-     "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
-    },
-    {
-     "title": "AI and the decryption nightmare",
-     "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT",
-     "summary": "New breakthroughs call for faster upgrades to security, not panic",
-     "source": "Financial Times",
-     "zh": "AI and the decryption nightmare"
-    },
-    {
-     "title": "Can AI crack encryption?",
-     "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:16:51 GMT",
-     "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
-     "source": "Financial Times",
-     "zh": "Can AI crack encryption?"
-    },
-    {
-     "title": "Intermex sues Western Union over merger agreement termination",
-     "link": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 18:10:00 GMT",
-     "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
-     "source": "Finextra",
-     "zh": "Intermex sues Western Union over merger agreement termination"
-    },
-    {
-     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 17:04:00 GMT",
-     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
-     "source": "MarketWatch",
-     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
-    },
-    {
-     "title": "Wave of cyber incidents rattles western economies",
-     "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 16:19:21 GMT",
-     "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
-     "source": "Financial Times",
-     "zh": "Wave of cyber incidents rattles western economies"
-    },
-    {
-     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
-     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
-     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-     "source": "CNBC",
-     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
-    },
-    {
-     "title": "Sweden to join Eurosystem's T2 RTGS system",
-     "link": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 27 Nov 2026 14:29:00 GMT",
-     "summary": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
-     "source": "Finextra",
-     "zh": "Sweden to join Eurosystem's T2 RTGS system"
     }
    ]
   },

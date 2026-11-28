@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 11:37:48",
+ "generated_at": "2026/11/28 11:46:28",
  "recent_days": 7,
  "industries": [
   {
@@ -289,22 +289,6 @@
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
-     "summary": "Siglent is expanding its SDM4000A series with a new 7½-digit precision digital multimeter, the SDM4075A. Key technical highlights include a DC basic accuracy of 16 ppm, measurement rates of up […] The post Siglent SDM4075A precision digital multimeter samples 2 MSa/s appeared first on Electronics We",
-     "source": "Electronics Weekly",
-     "zh": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s"
-    },
-    {
-     "title": "Struggling Celerons",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/struggling-celerons-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 14:27:24 +0000",
-     "summary": "1According to analysts at the PC Technology Forum in Nune 1996, Intel is struggling to compete in the sub-$1,000 PC market, with its Celeron microprocessor taking flak because of its […] The post Struggling Celerons appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Struggling Celerons"
-    },
-    {
      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
      "pubDate": "Fri, 27 Nov 2026 14:22:45 +0000",
@@ -327,38 +311,6 @@
      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return? If a ground plane is split and a signal crosses the gap, its return current may be forced to detour. The result ca",
      "source": "EE Times",
      "zh": "NuVolta Technical Sharing: PCB Grounding Design and Return Path"
-    },
-    {
-     "title": "Kontron KBox industrial computer platform targets robotics and AI",
-     "link": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/kontron-kbox-industrial-computer-platform-targets-robotics-and-ai-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 11:29:35 +0000",
-     "summary": "Intel Core Ultra 5 and 7 Series processors power Kontron’s KBox industrial robotics platform. The KBox A-151-PTL-ROBO delivers up to 180 TOPS of AI performance, highlights the company. Specifically, options […] The post Kontron KBox industrial computer platform targets robotics and AI appeared first",
-     "source": "Electronics Weekly",
-     "zh": "Kontron KBox industrial computer platform targets robotics and AI"
-    },
-    {
-     "title": "LeoLabs buys FishEye to deliver missile tracking radars",
-     "link": "https://www.electronicsweekly.com/news/business/leolabs-buys-fisheye-to-deliver-missile-tracking-radars-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:54:46 +0000",
-     "summary": "LeoLabs, a Space Situational Awareness specialist, is buying FishEye Software, an engineering services company specialising in mission-critical U.S. Government defence systems. This includes field testing government owned-and-operated radars for space […] The post LeoLabs buys FishEye to deliver mis",
-     "source": "Electronics Weekly",
-     "zh": "LeoLabs buys FishEye to deliver missile tracking radars"
-    },
-    {
-     "title": "Most Read – ASML battle, Haas at Arm, USPTO access",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-battle-haas-at-arm-uspto-access-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 10:05:11 +0000",
-     "summary": "The most popular articles on the site cover a research boost for FDSOI and RF-SOI, Rene Haas signing a contract to stay at Arm till 2033, and the Netherlands possibly resisting US over ASML exports. The post Most Read – ASML battle, Haas at Arm, USPTO access appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – ASML battle, Haas at Arm, USPTO access"
-    },
-    {
-     "title": "Kioxia and Nvidia extend GPU to petabyte scale",
-     "link": "https://www.electronicsweekly.com/news/business/kioxia-and-nvidia-extend-gpu-to-petabyte-scale-2026-11/",
-     "pubDate": "Fri, 27 Nov 2026 09:30:19 +0000",
-     "summary": "Kioxia and Nvidia have demonstrated the potential to extend effective GPU memory capacity to petabyte scale using Nvidia SCADA software harnessing the performance of Kioxia SSDs in support of Nvidia’s […] The post Kioxia and Nvidia extend GPU to petabyte scale appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Kioxia and Nvidia extend GPU to petabyte scale"
     },
     {
      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
@@ -495,6 +447,54 @@
      "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
      "source": "Semiconductor Today",
      "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
+    },
+    {
+     "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 12:33:40 GMT",
+     "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
+    },
+    {
+     "title": "Why AI Struggles To Reuse Chip Designs",
+     "link": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:47 +0000",
+     "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be automated. The post Why AI Struggles To Reuse Chip Designs appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why AI Struggles To Reuse Chip Designs"
+    },
+    {
+     "title": "AI Vs. High-Level Synthesis",
+     "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:34 +0000",
+     "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results? The post AI Vs. High-Level Synthesis appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Vs. High-Level Synthesis"
+    },
+    {
+     "title": "AI Can Read The Code, But Can It Understand The Chip?",
+     "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+     "pubDate": "Tue, 24 Nov 2026 08:11:31 +0000",
+     "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome. The post AI Can Read The Code, But Can It Understand The Chip? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AI Can Read The Code, But Can It Understand The Chip?"
+    },
+    {
+     "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
+     "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
+     "pubDate": "Tue, 24 Nov 2026 08:08:01 +0000",
+     "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects. The post Hope Is Not A Strategy: What First-Silicon Success Really Takes appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Hope Is Not A Strategy: What First-Silicon Success Really Takes"
+    },
+    {
+     "title": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
+     "link": "https://spectrum.ieee.org/sram-memory-z2ram",
+     "pubDate": "Sat, 21 Nov 2026 14:00:02 +0000",
+     "summary": "Pat Gelsinger is familiar with the graveyard of failed memory technologies. “We haven’t had a new memory for three decades,” says the former Intel CEO. SRAM, DRAM, and flash memory still dominate. Gelsinger has witnessed the rise and fall of several potential alternatives—most recently Optane , Inte",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density"
     }
    ]
   },
@@ -1737,6 +1737,30 @@
    "total": 18,
    "items": [
     {
+     "title": "DeepSeek能拯救知乎吗？",
+     "link": "https://www.huxiu.com/article/4909145.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 11:41:53 +0800",
+     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 如果遇到一个不懂的问题，你现在是习惯打开知乎，还是打开小红书？微信？抖音？DeepSeek？还是豆包进行搜索？ 相信不少人的习惯已经变了，这可能也是知乎最近几年最头疼的事情，没有之一。 但最近，知乎和DeepSeek的关系突然变得十分密切。 11月23日，知乎公告确认，此前出资15亿元认购的投资基金，已经通过中间主体间接投资了DeepSeek。 仅仅四天之后，知乎又官宣与DeepSeek展开内容合作。 未来，大家在DeepSeek上提问，如果答案引用了知乎的内容，就可以看到内容标题、摘要、创作者信息，并直接跳转至知乎阅读原文。知乎的社区问答",
+     "source": "虎嗅",
+     "zh": "DeepSeek能拯救知乎吗？"
+    },
+    {
+     "title": "学会目光短浅，小心延迟满足",
+     "link": "https://www.huxiu.com/article/4909143.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 11:38:26 +0800",
+     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 周末不卷，随便写点。 最近见了很多老朋友，大家聊天的时候很有趣的达成了一种共识。 要学会目光短浅，小心延迟满足。 我们从小听到的说法，都是告诉我们，不要计较当下，要着眼长线。 这句话是对的，但这里是存在前提的。 不纠结眼前利益的前提是，长期利益在自己的可控范围内。 如果长期利益需要依附别人兑现，那这个长期利益就是画饼耍猴。 要立马短期兑现。 举个栗子，你在打工，你肯定会听到老板告诉你要好好干，坚持长期努力，才有一个好的将来。 那，谁掌握你【干的好不好】的定义权呢？ 很多老板讲这句话的时候，其实是暗示他才是正确的选择，所以你跟着他才有肉吃。 ",
+     "source": "虎嗅",
+     "zh": "学会目光短浅，小心延迟满足"
+    },
+    {
+     "title": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+     "link": "https://www.techmeme.com/261127/p17#a261127p17",
+     "pubDate": "Fri, 27 Nov 2026 22:35:05 -0500",
+     "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect &ldquo;overcaution&rdquo;, where Claude clings to self-imposed rules on long tasks &nbsp; &mdash;&nbsp; Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and ot",
+     "source": "Techmeme",
+     "zh": "Anthropic says Claude doesn&apos;t silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)"
+    },
+    {
      "title": "新药研发近20年，A股麻醉龙头在商业化前夜放弃",
      "link": "https://www.huxiu.com/article/4909139.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 11:25:11 +0800",
@@ -1761,6 +1785,14 @@
      "zh": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？"
     },
     {
+     "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+     "link": "https://www.ithome.com/1/033/824.htm",
+     "pubDate": "Sat, 28 Nov 2026 03:22:22 GMT",
+     "summary": "IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI 无法从运行其 AI 服务的 iPhone 中取得所需数据 。 法德尔曾与艾夫在苹果共事，因被誉为“iPod 之父”以及参与创造 iPhone 而广为人知。他创办了 Build Collective，此前还创立过 Nest Labs。 法德尔认为，OpenAI 之所以执意开发独立硬件，是因为它需要 获取现实物理世界的信息 ，而苹果出于隐私保护考虑，不愿向其开放 iPhone 中的这些数据。 ",
+     "source": "IT之家",
+     "zh": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据"
+    },
+    {
      "title": "黄仁勋回来了，英伟达的信用担保风险还在",
      "link": "https://www.huxiu.com/article/4909138.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 11:20:51 +0800",
@@ -1777,12 +1809,12 @@
      "zh": "国资1.4亿买老挝酒店，只卖1万块？"
     },
     {
-     "title": "阿里腾讯百度齐交底，国产AI芯片不藏了",
-     "link": "https://www.huxiu.com/article/4909136.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:19:25 +0800",
-     "summary": "本文来自微信公众号： 半导体产业纵横 ，作者：俊熹 近日，阿里巴巴首席执行官吴泳铭在2027财年第二季度财报电话会上，首次公开了平头哥三代AI芯片路线图：今年真武M890全面上线，明年第一季度性能达到M890三倍的新一代真武V900量产并推出超节点集群，2028年推进J900量产。他表示，2027年和2028年阿里新增AI芯片供应的绝大多数将来自自研平头哥，旗舰产品优先保障下一代通义千问等大模型训练，推理侧则广泛采购其他国产芯片品牌，整体进度已超出最初预期。 几乎在同一时间，腾讯和百度也给出了对应进展。腾讯管理层在2026年第三季度财报电话会上确认，旗下模型推理已经可以在数量相对有限的国产芯片",
-     "source": "虎嗅",
-     "zh": "阿里腾讯百度齐交底，国产AI芯片不藏了"
+     "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+     "link": "https://www.ithome.com/1/033/822.htm",
+     "pubDate": "Sat, 28 Nov 2026 03:18:23 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S26 系列的可能。 IT之家援引博文介绍，附上文中相关主要功能介绍如下： 图库与",
+     "source": "IT之家",
+     "zh": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能"
     },
     {
      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
@@ -1793,12 +1825,12 @@
      "zh": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么"
     },
     {
-     "title": "美团想起来自己是开公司的了",
-     "link": "https://www.huxiu.com/article/4909135.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:15:18 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 美团终于又赚上钱了。 昨天晚上，美团发了三季报，去年同期亏了186亿，今年同期赚了近21亿；这已经是美团连续第二个季度盈利了，只不过比上个季度少赚了一点。 我翻了一遍财报，又看了看电话会纪要，发现一件挺有意思的事，据卖方测算，美团三季度的外卖订单量同比还在下降，客单价却回升了。 去年大家恨不得让全国人民一天点四顿外卖，今年单子少了，账反倒好看了。 这门生意，到底发生了什么变化呢？ …… 简单说，美团终于有空算账了。从前忙着数订单，如今忙着数订单里还剩几个钱。 先看这份财报。 三季度美团收入1155亿，比去年同期多了21.6%，创下单季新高。经营利润",
-     "source": "虎嗅",
-     "zh": "美团想起来自己是开公司的了"
+     "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
+     "link": "https://www.ithome.com/1/033/821.htm",
+     "pubDate": "Sat, 28 Nov 2026 03:14:50 GMT",
+     "summary": "IT之家 11 月 28 日消息，影石 Insta360 的新一代旗舰运动相机 Ace Pro 3 已定档 12 月 1 日晚 8 点在中国发布，官方预热主题为“定局已破”。 在发布会前，官方预热视频重点展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能，暗示该系列产品可能在影像系统方面迎来较大调整。 爆料者 Igor Bogdanov 分享的宣传资料显示，影石 Ace Pro 3 可能配备徕卡 Summicron 主摄（等效焦距 22mm）+ 超广角镜头（等效焦距 14mm）。新机还可能采用 1/1.1 英寸方形传感器，尺寸较 Ace Pro 2 的 1/1.3 英寸传感器有所增",
+     "source": "IT之家",
+     "zh": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布"
     },
     {
      "title": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你",
@@ -1841,12 +1873,12 @@
      "zh": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅"
     },
     {
-     "title": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除",
+     "title": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除推文",
      "link": "https://www.ithome.com/1/033/818.htm",
      "pubDate": "Sat, 28 Nov 2026 02:56:15 GMT",
      "summary": "IT之家 11 月 28 日消息，科技媒体 Windows Latest 昨日（11 月 27 日）发布博文，报道称微软旗下代码托管平台 GitHub 陷入舆论漩涡 ，在应 Take-Two 要求关闭 3,007 个民间移植 PC 版《侠盗猎车手 VI》（GTA 6）仓库后 2 天，官方宣传开源工具 AnyPS5。 AnyPS5 是 GitHub 上的开源项目，目标是把 PS5 游戏的可执行文件重写成能在 Windows 和 Linux 上运行的程序。该项目于今年 8 月发布，IT之家发稿前访问已 Fork 超 6,100 个，Star 数量达到 6.28 万个。 根据项目动态，AnyPS5 ",
      "source": "IT之家",
-     "zh": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除"
+     "zh": "“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除推文"
     },
     {
      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
@@ -1857,28 +1889,12 @@
      "zh": "OpenAI 和 Anthropic 在招什么样的营销人才？"
     },
     {
-     "title": "歼-35A 飞抵珠海将首次以真机形式进馆展出，12 月 7 日航展开幕",
-     "link": "https://www.ithome.com/1/033/817.htm",
-     "pubDate": "Sat, 28 Nov 2026 02:51:53 GMT",
-     "summary": "IT之家 11 月 28 日消息，据央视报道，今天上午，歼-35A 飞抵珠海金湾机场，将在第十六届中国国际航空航天博览会上首次以真机形式进入 1 号馆，面向观众进行近距离静态展示。 此前两届航展中，该机仅以飞行表演形式亮相，未开放地面近距离参观。 第十六届中国航展定于 12 月 7 日至 13 日在珠海举办，恰逢中国航展创办 30 周年。本届航展空军采取“飞行展示 + 地面静态展示”相结合的方式，歼-35A 同时出现在飞行展示名单与静态展区中，形成“空中飞、地面看”的双重展示安排。 歼-35A 由航空工业集团自主研制，为单座、双发、翼身融合布局的中型隐身多用途战斗机，配备双后掠外倾垂尾与全动平",
-     "source": "IT之家",
-     "zh": "歼-35A 飞抵珠海将首次以真机形式进馆展出，12 月 7 日航展开幕"
-    },
-    {
      "title": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？",
      "link": "https://www.tmtpost.com/8220992.html",
      "pubDate": "Sat, 28 Nov 2026 10:48:00 +0800",
      "summary": "大卖场老兵，正站在十字路口。",
      "source": "钛媒体",
      "zh": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？"
-    },
-    {
-     "title": "广汽弹匣电池 3.0 亮相广州车展：底部防护 2000J、手榴弹爆破不起火",
-     "link": "https://www.ithome.com/1/033/815.htm",
-     "pubDate": "Sat, 28 Nov 2026 02:46:46 GMT",
-     "summary": "IT之家 11 月 28 日消息，在 2026 广州车展上，广汽集团正式展出弹匣电池 3.0 技术，围绕底部撞击与侧面碰撞两类用车高频风险，提出“两硬三防”的电池安全方案。 广汽集团电池系统研发负责人王清泉在车展现场介绍称，新技术的重点是强化结构防护，同时把风险识别环节前移。 “两硬三防”中的“两硬”指两道结构防护。第一道针对底部撞击。新版动力电池安全国标首次将底部撞击纳入强制测试，能量要求为 150 焦耳（IT之家注：焦耳是能量单位，1 焦耳相当于 1 牛顿的力作用 1 米距离所做的功）。 王清泉称，弹匣电池在 5 年前已满足这一要求，3.0 技术通过七层防护架构把底部防护能力提升至 200",
-     "source": "IT之家",
-     "zh": "广汽弹匣电池 3.0 亮相广州车展：底部防护 2000J、手榴弹爆破不起火"
     },
     {
      "title": "Lazada 泰国跨境店履约时效拖累投放，CPA 涨到多少该停？",
@@ -1895,14 +1911,6 @@
      "summary": "AI硬件与先进制造重塑港股科技版图。",
      "source": "钛媒体",
      "zh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价"
-    },
-    {
-     "title": "CounterPoint：京东方若合并维信诺，AMOLED 面板份额将位列第二仅次三星显示",
-     "link": "https://www.ithome.com/1/033/811.htm",
-     "pubDate": "Sat, 28 Nov 2026 02:22:47 GMT",
-     "summary": "IT之家 11 月 28 日消息，据 CounterPoint 分析，若京东方（BOE）推进对维信诺（Visionox）的收购并完成合并，两家公司在 AMOLED 面板出货市场的合计份额将达到约 32% ，一举跃居全球第二，仅次于当前行业龙头三星显示（Samsung Display），远超现有单独排名第二的厂商。 此前有韩媒报道称，京东方高层已与合肥市政府方面展开高级别会谈，原本聚焦收购维信诺单条 OLED 产线的谈判范围，已扩大至探讨公司整体收购，相关交易规模预计将在今年 12 月敲定。 不过针对市场收购传闻，维信诺已于 11 月 25 日公开回应，公司目前 尚未与任何投资方签署具有法律约束",
-     "source": "IT之家",
-     "zh": "CounterPoint：京东方若合并维信诺，AMOLED 面板份额将位列第二仅次三星显示"
     },
     {
      "title": "德国红人带货回款慢，独立站支付和履约怎么配才不压现金流？",
@@ -1967,14 +1975,6 @@
      "summary": "It's time to shop the very best Black Friday deals on the very best tech gadgets we recommend.",
      "source": "WIRED",
      "zh": "2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM"
-    },
-    {
-     "title": "Yeti Coolers Are up to 30% Off for Black Friday (2026)",
-     "link": "https://www.wired.com/story/yeti-black-friday-sale-11-2026/",
-     "pubDate": "Fri, 27 Nov 2026 23:54:42 +0000",
-     "summary": "Yeti’s Black Friday deals cover everything from a cooler for the tailgate to a Rambler for your desk.",
-     "source": "WIRED",
-     "zh": "Yeti Coolers Are up to 30% Off for Black Friday (2026)"
     }
    ]
   },
@@ -2244,7 +2244,7 @@
      "title": "多年旧账仍追责！*ST英飞、*ST数源因年报虚假记载被深交所处分",
      "link": "http://finance.eastmoney.com/news/1344,202611283942344445.html",
      "pubDate": "Sat, 28 Nov 2026 11:17:59 +0800",
-     "summary": "深交所11月27日晚间挂出两份纪律处分决定书：一份指向 *ST英飞 （002528.SZ），另一份指向 *ST数源 （000909.SZ）。两家当下戴着*ST帽子的上市公司，都因年报虚假记载被罚，相关处分均记入证券 期货 市场诚信档案数据库。 同一天，两家公司还各自收到了各地证监局的行政处罚决定书。 *ST英飞 这边，根据深圳证监局《行政处罚决定书》（〔2026〕20号），公司被警告并罚款550万元，另有9名相关责任人合计被罚1190万元。 *ST数源 那边，浙江证监局一口气开出〔2026〕39号至45号共7份处罚决定书，公司被警告并罚款800万元，时任董事长章国经除400万元罚款，还被采取8",
+     "summary": "深交所11月27日晚间挂出两份纪律处分决定书：一份指向 *ST英飞 （002528.SZ），另一份指向 *ST数源 （000909.SZ）。两家当下戴着*ST帽子的上市公司，都因年报虚假记载被罚，相关处分均记入证券 期货 市场诚信档案数据库。 同一天，两家公司还各自收到了各地证监局的行政处罚决定书。 *ST英飞 这边，根据深圳证监局《行政处罚决定书》（〔2026〕20号），公司被警告并罚款550万元，另有9名相关责任人合计被罚1190万元。 *ST数源 那边，浙江证监局一口气开出〔2026〕39号至45号共7份处罚决定书，公司被警告并罚款800万元，时任董事长章国经处400万元罚款，还被采取8",
      "source": "东方财富股票",
      "zh": "多年旧账仍追责！*ST英飞、*ST数源因年报虚假记载被深交所处分"
     },
@@ -2353,6 +2353,14 @@
      "zh": "猪周期变长了 养殖户亏大了"
     },
     {
+     "title": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景",
+     "link": "https://wallstreetcn.com/articles/3786887",
+     "pubDate": "Sat, 28 Nov 2026 09:43:43 +0800",
+     "summary": "当AI巨头Anthropic以83美元的定价完成史上最大规模的IPO时，媒体的狂欢如期而至。然而，《纽约时报》在此关键节点发布的一篇重磅专栏文章背后，却牵扯出一条隐秘的资本利益链。在科技与资本深度绑定的今天，所谓的“独立新闻”，究竟是谁在买单？ 2026年11月18日，这是属于AI行业的一个历史性时刻：Anthropic完成了史上最大规模的IPO，定价83美元，次日以111.50美元开盘。 就在IPO当天的绝佳时机，《纽约时报》发布了一篇极具影响力的专栏文章——《我花了一年时间与Anthropic员工交谈，以下是他们的信仰》。文章详细描绘了Anthropic员工在IPO前几周关于如何平衡AI发",
+     "source": "华尔街见闻",
+     "zh": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景"
+    },
+    {
      "title": "医美低龄化：监护人同意，不该只是走个过场",
      "link": "http://www.eeo.com.cn/2026/1128/1105939.shtml",
      "pubDate": "Sat, 28 Nov 2026 09:42:05 +0800",
@@ -2399,14 +2407,6 @@
      "summary": "学习困难本身会带来失败体验。长期得不到解释和支持时，孩子可能逐渐形成“反正我做不到”的认识，继而减少尝试、逃避任务、对抗要求。随着课程难度增加，基础断层、情绪压力和亲子冲突可能互相强化。",
      "source": "经济观察网",
      "zh": "每天写作业都像一场战争,可能不只是态度问题 识别儿童青少年学习困难的症状表现与评估时机"
-    },
-    {
-     "title": "冷战结束后最大规模动员！英国国防部联系约10万名战略预备役人员",
-     "link": "https://wallstreetcn.com/articles/3786885",
-     "pubDate": "Sat, 28 Nov 2026 08:41:55 +0800",
-     "summary": "英国国防部已向约10万名战略预备役人员发出信函，要求更新联系方式与民用技能信息，这是英国自冷战结束以来规模最大的战时动员准备行动。 11月26日媒体披露该消息后，英国国防大臣Wes Streeting与退伍军人事务大臣Calvin Bailey先后表态， 称发函属于常规行政整顿与必要预防，并非立即启动战时动员。 与此同时， 英国国防部计划邀请最多约1000名人员自愿参加军事演习，其中包括2027年春季北约“坚定捍卫者”演习。 对投资者与市场而言，防务支出路径明确利好国防承包商与核潜艇维护供应链，但财政空间受限及劳动力收缩预期可能对英国本土增长与主权信用定价构成掣肘。 市场需密切跟踪英国《武装部",
-     "source": "华尔街见闻",
-     "zh": "冷战结束后最大规模动员！英国国防部联系约10万名战略预备役人员"
     },
     {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",

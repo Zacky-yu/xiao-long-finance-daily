@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 21:11:51",
+ "generated_at": "2026/11/28 21:31:51",
  "recent_days": 7,
  "industries": [
   {
@@ -1737,6 +1737,14 @@
    "total": 18,
    "items": [
     {
+     "title": "美团每年砸百亿做AI，王兴不想只做外卖生意",
+     "link": "https://www.tmtpost.com/8220970.html",
+     "pubDate": "Sat, 28 Nov 2026 21:14:51 +0800",
+     "summary": "外卖竞争降温后，美团的利润开始修复，AI投入也到了需要进一步检验成效的时候。",
+     "source": "钛媒体",
+     "zh": "美团每年砸百亿做AI，王兴不想只做外卖生意"
+    },
+    {
      "title": "李开复：黄仁勋曾到DeepSeek请教",
      "link": "https://www.huxiu.com/article/4909224.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 21:03:31 +0800",
@@ -1817,6 +1825,14 @@
      "zh": "每日优鲜消失后，我在小象超市买不到“对味”"
     },
     {
+     "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+     "link": "https://scriptor-pro.github.io/luciole-mono/",
+     "pubDate": "Sat, 28 Nov 2026 12:50:15 +0000",
+     "summary": "TLDR : Atkinson Hyperlegible Mono alternative Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr) Please tell me what you thin",
+     "source": "Hacker News",
+     "zh": "Show HN: Luciole Mono – terminal font designed for legibility"
+    },
+    {
      "title": "Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys",
      "link": "https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/",
      "pubDate": "Sat, 28 Nov 2026 12:49:46 +0000",
@@ -1857,14 +1873,6 @@
      "zh": "AI短剧，正把游戏踹下吸金王座"
     },
     {
-     "title": "家电卖场为“讨好”AI，正在到处“表演”科技生活",
-     "link": "https://www.tmtpost.com/8221334.html",
-     "pubDate": "Sat, 28 Nov 2026 20:40:17 +0800",
-     "summary": "万平大店越开越多，AI 能填满家电卖场的空场子吗？",
-     "source": "钛媒体",
-     "zh": "家电卖场为“讨好”AI，正在到处“表演”科技生活"
-    },
-    {
      "title": "Power operators are using sensors and software to dynamically adjust grid safety limits, boosting existing network capacity amid rising AI-driven energy demand (Martha Muir/Financial Times)",
      "link": "https://www.techmeme.com/261128/p5#a261128p5",
      "pubDate": "Sat, 28 Nov 2026 07:40:01 -0500",
@@ -1879,14 +1887,6 @@
      "summary": "本文来自微信公众号： 智先生 ，作者：Isidore 今年感恩节，美国艾奥瓦州的民众过得不咋愉快，尤其是东南部米德尔敦镇的居民，更是提心吊胆。 因为节前一天，美军在他们家门口的弹药厂点了个超大号“烟花”，有毒的。被炸掉的是68桶叠氮化铅，将近5吨，这东西是雷管里的起爆药，相当于炸药的火柴头。 引爆之前，弹药厂西南5英里内的居民被劝去住酒店，20英里内的则被要求关死门窗，关掉暖气，自行买胶带糊门缝。 炸完几分钟，大统领发帖，说陆军的处置远远超出预期，随后又称之为“伟大的成功”；一小时后，美国环保署（EPA）通报全国，周边空气中的铅含量“零检出”。 军方高兴，白宫高兴，EPA也高兴，唯独老百姓不买",
      "source": "虎嗅",
      "zh": "美国这个州，真炸了"
-    },
-    {
-     "title": "AnthropicAI posted a fraudulent proof of RH",
-     "link": "https://twitter.com/QualiaQuanta/status/2126158001035768256",
-     "pubDate": "Sat, 28 Nov 2026 12:36:46 +0000",
-     "summary": "Article URL: https://twitter.com/QualiaQuanta/status/2126158001035768256 Comments URL: https://news.ycombinator.com/item?id=50677014 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "AnthropicAI posted a fraudulent proof of RH"
     },
     {
      "title": "利用 NFC 贴卡转账，虚假投资理财诈骗新套路曝光",
@@ -1956,7 +1956,7 @@
      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
      "link": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
      "pubDate": "Sat, 28 Nov 2026 11:57:04 +0000",
-     "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 20 # Comments: 8",
      "source": "Hacker News",
      "zh": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims"
     },
@@ -1964,7 +1964,7 @@
      "title": "Farewell",
      "link": "https://github.com/p-e-w/heretic/issues/601",
      "pubDate": "Sat, 28 Nov 2026 11:42:26 +0000",
-     "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 199 # Comments: 49",
+     "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 237 # Comments: 67",
      "source": "Hacker News",
      "zh": "Farewell"
     },
@@ -1984,6 +1984,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple Cyber Monday Weekend deals: AirPods Pro 3 $100 off, MacBook from $599, iPad, AirTags 2, more",
+     "link": "https://9to5mac.com/2026/11/28/best-apple-black-friday-deals-airpods-pro-3-macbook/",
+     "pubDate": "Sat, 28 Nov 2026 13:26:54 +0000",
+     "summary": "The official Amazon Black Friday sale has now transitioned to the official Cyber Monday Weekend event , and the Apple deals are still soaring. Alongside AirPods Pro 3 at the fantastic $100 off and AirPods Max at $130 off , we also still have the Apple Watch Series 12 lineup at $100 off , the just-re",
+     "source": "9to5Mac",
+     "zh": "Apple Cyber Monday Weekend deals: AirPods Pro 3 $100 off, MacBook from $599, iPad, AirTags 2, more"
+    },
+    {
+     "title": "Nebula P1 projector with detachable speakers gets $250 markdown",
+     "link": "https://www.androidauthority.com/soundcore-nebula-p1-black-friday-deal-3740618/",
+     "pubDate": "Sat, 28 Nov 2026 13:21:21 +0000",
+     "summary": "The Nebula P1 drops to $549, its lowest price yet, with two wireless speakers you can place around the room.",
+     "source": "Android Authority",
+     "zh": "Nebula P1 projector with detachable speakers gets $250 markdown"
+    },
+    {
+     "title": "5 free Samsung Galaxy Watch apps every owner should know about",
+     "link": "https://www.engadget.com/2325008/free-samsung-galaxy-watch-apps-every-owner-should-know-about/",
+     "pubDate": "Sat, 28 Nov 2026 13:15:00 +0000",
+     "summary": "Samsung's Galaxy Watches offer lots of features for free via apps in the Play Store. Here are a few of our favorite free watch apps.",
+     "source": "Engadget",
+     "zh": "5 free Samsung Galaxy Watch apps every owner should know about"
+    },
+    {
+     "title": "9 questions you shouldn't ask ChatGPT",
+     "link": "https://www.engadget.com/2324752/questions-avoid-asking-chatgpt-why/",
+     "pubDate": "Sat, 28 Nov 2026 13:15:00 +0000",
+     "summary": "Some subjects are best left for humans because bots can't provide enough understanding to give good advice.",
+     "source": "Engadget",
+     "zh": "9 questions you shouldn't ask ChatGPT"
+    },
     {
      "title": "Lenovo’s Idea Tab Pro Gen 2 bundle gets a $200 discount",
      "link": "https://www.androidauthority.com/lenovo-idea-tab-pro-gen-2-deal-black-friday-3741043/",
@@ -2039,14 +2071,6 @@
      "summary": "Save $502 on TCL's 55-inch SQD-Mini LED TV with 144Hz gaming, Dolby Vision IQ, and Google TV.",
      "source": "Android Authority",
      "zh": "TCL’s 55-inch QM7L Mini-LED TV drops to a record-low $697.99"
-    },
-    {
-     "title": "XREAL AURA review: Is Android XR really worth it?",
-     "link": "https://www.androidauthority.com/xreal-aura-review-3739471/",
-     "pubDate": "Sat, 28 Nov 2026 11:30:42 +0000",
-     "summary": "The XREAL AURA is easily the best Android XR system you can buy today — if you actually need Android XR.",
-     "source": "Android Authority",
-     "zh": "XREAL AURA review: Is Android XR really worth it?"
     },
     {
      "title": "Deal: the Apple AirPods Pro 3 are 32% off for Amazon Germany's Black Friday week",
@@ -2185,14 +2209,6 @@
      "zh": "MacWhisper now remembers speakers’ voices across recordings"
     },
     {
-     "title": "Here are the best Apple Watch deals for Black Friday",
-     "link": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
-     "pubDate": "Fri, 27 Nov 2026 20:40:35 +0000",
-     "summary": "Amazon is serving up the best prices ever on the latest Apple Watch models for Black Friday 2026. As we push through the biggest sale of the year, with particularly fantastic deals live on AirPods Pro 3 at an insane $100 off and 2026 AirPods Max at $130 off , not to mention the wild $400 discount on",
-     "source": "9to5Mac",
-     "zh": "Here are the best Apple Watch deals for Black Friday"
-    },
-    {
      "title": "Samsung is reportedly giving its camera app an AI mode",
      "link": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
      "pubDate": "Fri, 27 Nov 2026 20:06:02 +0000",
@@ -2207,22 +2223,6 @@
      "summary": "Bloomberg traced the lineage of one GB300 server rack to Gigabyte Technology.",
      "source": "Engadget",
      "zh": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang"
-    },
-    {
-     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
-     "link": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
-     "pubDate": "Fri, 27 Nov 2026 19:44:38 +0000",
-     "summary": "The suit suggests that the iPhone maker is trying to \"compete unfairly by any means available.\"",
-     "source": "Engadget",
-     "zh": "OpenAI countersues Apple and accuses it of stealing trade secrets"
-    },
-    {
-     "title": "Google Play Black Friday deals: Loads of Android games and apps on sale today",
-     "link": "https://9to5toys.com/2026/11/27/google-play-black-friday-deals/",
-     "pubDate": "Fri, 27 Nov 2026 19:29:59 +0000",
-     "summary": "The official main Pixel 11 Pro, Pixel 11 Pro XL. However, the Google Play Store has loads of deals of its own this week, and you’ll find the best of them waiting down below. Just be sure to also scope out Google’s Pixel Watch 5 starting from $285 shipped , the very first deals on the latest Pixelsna",
-     "source": "9to5Google",
-     "zh": "Google Play Black Friday deals: Loads of Android games and apps on sale today"
     }
    ]
   },
@@ -2233,12 +2233,44 @@
    "total": 13,
    "items": [
     {
+     "title": "国际海洋法法庭驳回阿根廷要求暂停马岛附近石油开发的申请",
+     "link": "http://finance.eastmoney.com/news/1356,202611283942396563.html",
+     "pubDate": "Sat, 28 Nov 2026 21:10:32 +0800",
+     "summary": "当地时间11月28日，国际海洋法法庭（ITLOS）以18票对3票，驳回阿根廷要求暂停马尔维纳斯群岛（简称马岛，英国称福克兰群岛）附近海上石油开发项目的紧急临时措施申请。 1982年4月，阿英两国因马岛主权归属问题爆发战争，战争以英国胜利而告终。阿根廷战败后一直没有放弃对马岛主权的要求，英国则拒绝就马岛主权问题进行谈判。 阿根廷总统米莱9月3日晚就马岛问题发表全国电视讲话时强调，将对在马岛及周边争议海域开采自然资源的外国公司加大制裁力度。阿外交部9月22日向英国驻阿大使馆发出照会，抗议马岛当局在英方支持下延长相关企业在马岛及争议海域的油气开采许可证有效期。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "国际海洋法法庭驳回阿根廷要求暂停马岛附近石油开发的申请"
+    },
+    {
      "title": "First Citizens Bank to take over United Fidelity in biggest U.S. bank failure in two years",
      "link": "https://seekingalpha.com/news/4677116-first-citizens-bank-buy-failed-united-fidelity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 28 Nov 2026 08:05:40 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "First Citizens Bank to take over United Fidelity in biggest U.S. bank failure in two years"
+    },
+    {
+     "title": "斯菱智驱：增强公司综合实力，提高整体业务规模和行业地位，进而提升持续经营能力",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942396770.html",
+     "pubDate": "Sat, 28 Nov 2026 21:02:00 +0800",
+     "summary": "21财经11月28日电， 斯菱智驱 在投资者关系活动中表示，收购银球科技有助于公司拓展精密轴承业务，通过共享研发技术、销售体系和品牌优势，实现优势互补，从而增强公司 综合 实力，提高整体业务规模和行业地位，进而提升持续经营能力。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "斯菱智驱：增强公司综合实力，提高整体业务规模和行业地位，进而提升持续经营能力"
+    },
+    {
+     "title": "斯菱智驱：构建“汽车零部件+高精密零部件”双轮驱动的发展格局",
+     "link": "http://finance.eastmoney.com/news/11215,202611283942396694.html",
+     "pubDate": "Sat, 28 Nov 2026 21:02:00 +0800",
+     "summary": "21财经11月28日电， 斯菱智驱 在投资者关系活动中表示，在主业方面，公司持续扩大营销网络布局与建设，开拓全球顶级售后客户，积极推动主机配套市场客户的合作。高精密零部件业务方面，公司稳步推进《 机器人 零部件智能化改造项目》的建设落地。未来，公司将巩固现有业务优势并把握新兴产业机遇，构建“ 汽车零部件 +高精密零部件”双轮驱动的发展格局。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "斯菱智驱：构建“汽车零部件+高精密零部件”双轮驱动的发展格局"
+    },
+    {
+     "title": "斯菱智驱：具备产品综合参数优化能力 能够依据行业趋势及客户需求推进定制化研发",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942395829.html",
+     "pubDate": "Sat, 28 Nov 2026 21:01:00 +0800",
+     "summary": "斯菱智驱 在投资者关系活动中表示，在高精密零部件产品研发方面，公司依托现有研发平台与技术积累，持续推进技术攻关与产品迭代升级。此外，公司具备产品 综合 参数优化能力，能够依据行业趋势及客户需求推进定制化研发。同时，公司持续完善研发体系，积极引进专业人才，试验验证条件完善，为后续在该领域的业务拓展奠定基础。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "斯菱智驱：具备产品综合参数优化能力 能够依据行业趋势及客户需求推进定制化研发"
     },
     {
      "title": "Nvidia prepares for congressional hearings as tech industry braces for impact",
@@ -2263,6 +2295,22 @@
      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
      "source": "MarketWatch",
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
+     "title": "三只松鼠道歉了，然后呢？",
+     "link": "http://finance.eastmoney.com/news/11219,202611283942395966.html",
+     "pubDate": "Sat, 28 Nov 2026 20:56:03 +0800",
+     "summary": "来源|凤凰网《风暴眼》 年货节还没来， 三只松鼠 先被一段宿舍视频推到舆论风口。 视频里，一间屋子有12张上下铺，泥洗漱池结着一层黄渍，饮水机旁堆着大量垃圾无人清理。 视频传开之后， 三只松鼠 连夜发了致歉声明，把这件事定性为 旺季临时周转宿舍的管理疏漏 。涉事工人很快被安排搬走，住进带独立卫浴的四人间。 图源：网络 按说这套整改动作不算太慢，但为什么却没能抚平外界的质疑？ 01 宣传说的是“两室一厅” 有网友第一反应是，如果没有这条视频，这样的住宿条件会不会一直维持下去？ 网传住宿环境 图源：网络 旺季用工不是新鲜事，每年四季度仓储、分拣、包装岗位都会涌入大量短期工人，住宿配套本该提前规划妥",
+     "source": "东方财富股票",
+     "zh": "三只松鼠道歉了，然后呢？"
+    },
+    {
+     "title": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942396292.html",
+     "pubDate": "Sat, 28 Nov 2026 20:55:26 +0800",
+     "summary": "从两百万元级的行政旗舰，到十万元出头的家用轿车， 自主品牌在2026车市“收官之战”的广州车展集体“亮剑” 。 第二十四届广州国际车展以“新科技?新生活”为主题，展览面积达22万平方米，展车总数1106辆。其中， 首发新车115辆，创下广州车展 历史新高 ； 新能源 展车707辆，占比达63.9%，较去年增加78辆。 “随着年末促销、广州车展等活动陆续展开，如何将阶段性客流转化为有效订单，推动消费需求持续释放，成为产业链各方关注的重点。”中国 汽车 工业协会副秘书长陈士华表示。 本届车展上“东道主” 广汽、 比亚迪 继续包馆 。“自主一哥” 比亚迪 集团在2.1号馆打造品牌独立展区，王朝、海洋",
+     "source": "东方财富股票",
+     "zh": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”"
     },
     {
      "title": "2027款岚图泰山开启预售 预售价43.99万元",
@@ -2305,6 +2353,14 @@
      "zh": "零跑全新Lafa5上市 限时优惠价10.28万元起"
     },
     {
+     "title": "11月28日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611283942394613.html",
+     "pubDate": "Sat, 28 Nov 2026 20:38:00 +0800",
+     "summary": "今日摘要 习近平总书记指出，要扎实做好非物质文化遗产的系统性保护，更好满足人民日益增长的精神文化需求，推进文化自信自强。党的十八大以来，以习近平同志为核心的党中央高度重视非遗保护传承工作，推动非遗在创造性转化、创新性发展中融入现代生活，焕发时代光彩。 系列报道《学习贯彻五中全会精神在基层》今天播出：福建漳州、山东青岛落实全会精神，推动基层党建服务民生一线。 1至10月，全国社会 物流 总额同比增长4.8%，高端 物流 需求加快释放。 《活力中国调研行》今天播出：各地如何补短板、通堵点，让开放之路越走越宽。 神舟二十三号和神舟二十四号航天员完成在轨交接。 伊朗称，夺回两艘此前被美军劫持的油轮；美",
+     "source": "东方财富资讯",
+     "zh": "11月28日晚间央视新闻联播要闻集锦"
+    },
+    {
      "title": "These tech stocks may let you play defense without giving up on AI",
      "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
      "pubDate": "Sat, 28 Nov 2026 12:30:00 GMT",
@@ -2345,6 +2401,14 @@
      "zh": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？"
     },
     {
+     "title": "下周A股解禁市值逾430亿元 矿业巨头解禁居首",
+     "link": "http://stock.eastmoney.com/news/11134,202611283942384274.html",
+     "pubDate": "Sat, 28 Nov 2026 18:50:00 +0800",
+     "summary": "下周A股解禁市值逾 430亿元 。 据证券时报·数据宝统计，下周（11月30日至12月4日），A股将有32家上市公司迎来限售股解禁。以最新价计算，32家上市公司解禁股对应市值合计约 433.07亿元 。 从规模上看，8股解禁市值超过10亿元。 中国铀业 解禁市值达 201.39亿元 ，居于第一； 京仪装备 、 鑫宏业 、 深粮控股 、 中机认检 分列第二至第五，解禁市值均在30亿元以上。从类型上看，除 深粮控股 为定向增发机构配售股份，其余4股均为首发限售股份。 中国铀业 前三季度实现营收157.99亿元，同比增长14.78%；归母净利润14.39亿元，同比增长19.92%。公司是唯一在A股上",
+     "source": "东方财富资讯",
+     "zh": "下周A股解禁市值逾430亿元 矿业巨头解禁居首"
+    },
+    {
      "title": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复",
      "link": "https://wallstreetcn.com/articles/3786912",
      "pubDate": "Sat, 28 Nov 2026 18:35:00 +0800",
@@ -2361,12 +2425,36 @@
      "zh": "马斯克：算力租赁价格走向分化"
     },
     {
+     "title": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942379974.html",
+     "pubDate": "Sat, 28 Nov 2026 18:02:30 +0800",
+     "summary": "今日，马斯克在X平台发帖称， 谷歌已表达意向，计划从 SpaceX 租用更多AI算力 。 马斯克是在回复X平台用户X Freeze时作出上述表态。此前X Freeze曾评论称，如果谷歌最终从 SpaceX 采购的算力规模超过 Anthropic ，他完全不会感到意外。谷歌已承诺在多个国家为用户免费提供为期两年的Gemini付费版使用权，且目前谷歌的模型性能十分出色，迟早会需要大量算力资源。 随后，马斯克表示“不确定谁会买更多”，并同步披露算力 租赁 市场的价格分化信号： 面向高带宽训练、规模大且连贯的算力集群租金持续走高；而5000张GPU以内的中小算力订单，租金则在下降 。 两者 综合 下来",
+     "source": "东方财富资讯",
+     "zh": "马斯克最新爆料：谷歌意向租用SpaceX更多算力 GPU平均租赁价格呈上行趋势"
+    },
+    {
      "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
      "link": "https://wallstreetcn.com/articles/3786910",
      "pubDate": "Sat, 28 Nov 2026 17:55:20 +0800",
      "summary": "美国家庭对股市的押注已达到有史以来最高水平，即便AI股票近期大幅下挫，散户资金仍源源不断涌入。这场长达四年的牛市正将数以百万计的普通投资者推向前所未有的风险敞口，而他们的财富走向，也将在很大程度上左右市场能否企稳。 据德意志银行对EPFR数据的分析， 今年流入追踪美股的ETF及共同基金的新增资金已超过4500亿美元，有望创下历史纪录。即便在过去一个月AI交易全面瓦解、市场剧烈震荡之际，仅11月截至18日，美国股票基金仍净流入逾1410亿美元——彼时标普500指数已下跌3.4%。 Ned Davis Research首席美国策略师Ed Clissold的数据显示， 美国股票目前占美国家庭金融资产",
      "source": "华尔街见闻",
      "zh": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入"
+    },
+    {
+     "title": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速",
+     "link": "http://stock.eastmoney.com/news/11228,202611283942378384.html",
+     "pubDate": "Sat, 28 Nov 2026 17:26:58 +0800",
+     "summary": "11月26日，美国太空探索技术公司 SpaceX 负责人马斯克在社交媒体发文：在满足一定条件的前提下， SpaceX 未来市值可能达到当前全球经济规模的约100万倍 。他同时呼吁投资者持有 SpaceX 股票。 与此同时， SpaceX与马斯克旗下另一家公司 特斯拉 的合并谈判已进入实操阶段 。 目前两家公司合计市值接近3.4万亿美元 。 远期市值可达全球经济100万倍 两个前提条件门槛极高 马斯克给出的条件有两个：一是成功将人类的生存范围拓展至多个星球，二是捕获利用哪怕只有百万分之一的 太阳能 量。 按照国际货币基金组织的数据，2026年全球经济规模约为128万亿美元。而截至11月27日美股",
+     "source": "东方财富资讯",
+     "zh": "马斯克抛出“百万倍市值”设想 SpaceX与特斯拉合并提速"
+    },
+    {
+     "title": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？",
+     "link": "http://finance.eastmoney.com/news/1345,202611283942378265.html",
+     "pubDate": "Sat, 28 Nov 2026 17:25:31 +0800",
+     "summary": "加密货币市场集体下挫！ 刚刚过去的24小时内，加密货币市场集体跳水。截至发稿，比特币跌幅超过3%，跌破6万美元关口；以太坊跌超4%，XRP、HYPE、BNB跌超3%，Solana跌2.60%。比特币曾在27日早些时候跟随美国股指 期货 上涨，但在美股正式开盘后再度承压，走势与美股出现明显分化。 根据CoinGlass数据，最近24小时加密货币全网共有10万人爆仓，爆仓总金额超过4亿美元。其中，最大单笔爆仓发生在Binance-ETHUSDT交易对，价值999.28万美元。 近几周加密货币市场表现疲弱。11月27日，美国现货比特币ETF单日净流出3.89亿美元，连续第八个交易日遭遇资金流出；自1",
+     "source": "东方财富资讯",
+     "zh": "集体跳水！10万人爆仓！资金大规模出逃 比特币怎么了？"
     },
     {
      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
@@ -2383,94 +2471,6 @@
      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
      "source": "CNBC",
      "zh": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO"
-    },
-    {
-     "title": "The mathematicians living through an AI revolution",
-     "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
-     "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
-     "source": "Financial Times",
-     "zh": "The mathematicians living through an AI revolution"
-    },
-    {
-     "title": "Pedro Sánchez: the partisan warrior fighting to the last",
-     "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
-     "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
-     "source": "Financial Times",
-     "zh": "Pedro Sánchez: the partisan warrior fighting to the last"
-    },
-    {
-     "title": "‘Only in America’ and other good lies",
-     "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
-     "summary": "Diverse societies need noble myths to keep them whole",
-     "source": "Financial Times",
-     "zh": "‘Only in America’ and other good lies"
-    },
-    {
-     "title": "AI agents are coming for big business",
-     "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:14 GMT",
-     "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
-     "source": "Financial Times",
-     "zh": "AI agents are coming for big business"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
-     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-     "source": "MarketWatch",
-     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
-    },
-    {
-     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-     "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
-     "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
-     "source": "CNBC",
-     "zh": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
-    },
-    {
-     "title": "BNY Mellon Strategic Municipals declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677111-bny-mellon-strategic-municipals-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:27:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon Strategic Municipals declares $0.03 dividend"
-    },
-    {
-     "title": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend",
-     "link": "https://seekingalpha.com/news/4677110-bny-mellon-strategic-municipal-bond-fund-declares-0_03-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 16:24:32 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
-    },
-    {
-     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
-     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-     "source": "MarketWatch",
-     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
-    },
-    {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/28 13:11:49",
+ "generated_at": "2026/11/28 13:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -1737,6 +1737,14 @@
    "total": 18,
    "items": [
     {
+     "title": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？",
+     "link": "https://www.baijing.cn/question/639023",
+     "pubDate": "Sat, 28 Nov 2026 05:18:34 +0000",
+     "summary": "我们在达卡做本地化小家电，主推电风扇和净水器滤芯，团队8人，月GMV约12万美元，刚起量阶段。收款接的是本地钱包bKash和Nagad，加一个国际卡通道，但最近两个月卡通道拒付率到了6.8%，bKash回调成功率也只有九成出头，客服每天要手动核对几十笔失败订单。备货上我们按国内经验一次压了45天库存，结果退货率冲到11%，达卡仓里堆了三百多台滞销风扇。已经试过换通道商、缩短结算周期，卡在不知道是先把备货周期压到20天还是先换支付服务商。这两件事的先后顺序怎么判断？",
+     "source": "白鲸出海",
+     "zh": "孟加拉收款通道接入后拒付率偏高，备货节奏该怎么调？"
+    },
+    {
      "title": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？",
      "link": "https://www.baijing.cn/question/639022",
      "pubDate": "Sat, 28 Nov 2026 04:58:29 +0000",
@@ -1884,7 +1892,7 @@
      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
      "link": "https://unkernel.dev",
      "pubDate": "Sat, 28 Nov 2026 03:19:20 +0000",
-     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 43 # Comments: 4",
+     "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 53 # Comments: 4",
      "source": "Hacker News",
      "zh": "Unkernel: Real Linux kernel, compiled to WebAssembly"
     },
@@ -1903,14 +1911,6 @@
      "summary": "《复仇者联盟》依然是最强IP。",
      "source": "钛媒体",
      "zh": "《复联5》要来救市了"
-    },
-    {
-     "title": "澳新独立站用Stripe收款，回款周期和物流时效怎么匹配才不压现金流？",
-     "link": "https://www.baijing.cn/question/639017",
-     "pubDate": "Sat, 28 Nov 2026 03:02:53 +0000",
-     "summary": "我们做户外露营装备独立站，主攻澳新市场，团队5个人，刚起量阶段，月GMV大概8万澳币。现在用Stripe收澳币和纽币，但发现回款周期要7天左右，而本地客户对物流时效要求很高，悉尼墨尔本基本要3-5天送达，奥克兰也要5-7天。目前用澳洲海外仓备货，但从国内补货到仓要25天左右，导致资金压在库存和应收账款上，现金流很紧。试过调整结算币种和提前提现，但手续费不低，也试过让客户预付部分定金，转化率掉了大概15%。现在卡在回款周期和补货时效的匹配上，想问问同行，澳新市场独立站一般怎么设定备货节奏和支付结算方案，才能让回款周期覆盖补货周期？",
-     "source": "白鲸出海",
-     "zh": "澳新独立站用Stripe收款，回款周期和物流时效怎么匹配才不压现金流？"
     },
     {
      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
@@ -1948,7 +1948,7 @@
      "title": "Atari Homebrew Awards Cancelled",
      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
      "pubDate": "Sat, 28 Nov 2026 02:03:25 +0000",
-     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 137 # Comments: 124",
+     "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 140 # Comments: 134",
      "source": "Hacker News",
      "zh": "Atari Homebrew Awards Cancelled"
     },
@@ -1964,7 +1964,7 @@
      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
      "pubDate": "Sat, 28 Nov 2026 01:32:56 +0000",
-     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 118 # Comments: 88",
+     "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 121 # Comments: 95",
      "source": "Hacker News",
      "zh": "Woman evicted after landlord's AI assistant told her she could delay rent"
     },
@@ -2233,12 +2233,76 @@
    "total": 13,
    "items": [
     {
-     "title": "经历职业生涯最大规模清仓之一后，高盛对冲基金主管警告：AI交易最赚钱的阶段或已过去",
+     "title": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行",
+     "link": "http://www.eeo.com.cn/2026/1128/1106276.shtml",
+     "pubDate": "Sat, 28 Nov 2026 13:26:13 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 吴礼霜）11月28日，渝见哈密·美美与共——“十万重庆人游哈密”文旅宣传推广暨哈密特色美食周活动在重庆举行。活动借力重庆对口援疆契机，展示出大海道雅丹、东天山冰雪、伊吾胡杨等特色风光，向重庆市民发出赴哈密游玩的诚挚邀约。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/700BC5882BCC6BFDDB1252AC96C73954.png\" data-target=\"2126523661757214721\" data-o...",
+     "source": "经济观察网",
+     "zh": "两地12家景区互免门票 “十万重庆人游哈密”推介会在渝举行"
+    },
+    {
+     "title": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元",
+     "link": "http://www.eeo.com.cn/2026/1128/1106257.shtml",
+     "pubDate": "Sat, 28 Nov 2026 13:13:10 +0800",
+     "summary": "中新经纬11月28日电 存储芯片行情持续火热，SK海力士、三星半导体三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度，SK海力士员工人均计提绩效奖金就达到2.3亿韩元(约合114.8万元人民币)。截至9月，员工累计人均计提奖金升至5.02亿韩元(约合250.5万元人民币)。若全年营业利润达到券商预测值，人均奖金将增至约7.85亿韩元(约合391.7万元人民币)。 报道称，由于SK...",
+     "source": "经济观察网",
+     "zh": "SK海力士员工赚爆了，人均季度奖金2.3亿韩元，全年奖金或增至7.85亿韩元"
+    },
+    {
+     "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+     "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:41 GMT",
+     "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+     "source": "Financial Times",
+     "zh": "Iran hitting same ships twice to deter traffic from Strait of Hormuz"
+    },
+    {
+     "title": "‘Only in America’ and other good lies",
+     "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
+     "summary": "Diverse societies need noble myths to keep them whole",
+     "source": "Financial Times",
+     "zh": "‘Only in America’ and other good lies"
+    },
+    {
+     "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+     "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
+     "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
+     "source": "Financial Times",
+     "zh": "Pedro Sánchez: the partisan warrior fighting to the last"
+    },
+    {
+     "title": "AI agents are coming for big business",
+     "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+     "pubDate": "Sat, 28 Nov 2026 05:00:14 GMT",
+     "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+     "source": "Financial Times",
+     "zh": "AI agents are coming for big business"
+    },
+    {
+     "title": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割",
+     "link": "http://www.eeo.com.cn/2026/1128/1106220.shtml",
+     "pubDate": "Sat, 28 Nov 2026 12:52:22 +0800",
+     "summary": "中新经纬11月28日电(董湘依)据美国有线电视新闻网(CNN)报道，当地时间周五，OpenAI对苹果公司提起反诉，指控苹果公司窃取商业秘密，并阻挠其与硬件供应商合作。 据报道，双方争端可以追溯至今年7月。彼时，苹果公司提起诉讼，指控两名跳槽至OpenAI的前员工窃取商业秘密，用于研发一款人工智能硬件设备。OpenAI当时否认了相关指控。 时隔数月，这次OpenAI又指控前员工，把硬件商业秘密泄露给苹果公司。 另据路...",
+     "source": "经济观察网",
+     "zh": "科技巨头“互撕”，OpenAI 反手起诉苹果窃密：前员工入职疑似“卧底”，苹果诱导其把工作文件存iCloud，工作信息与个人信息难以切割"
+    },
+    {
+     "title": "11月沪牌拍卖结果出炉",
+     "link": "http://www.eeo.com.cn/2026/1128/1106217.shtml",
+     "pubDate": "Sat, 28 Nov 2026 12:52:12 +0800",
+     "summary": "【11月沪牌拍卖结果出炉】据“上海发布”消息，11月沪牌拍卖结果出炉：个人额度合计拍卖总数4229个，参加拍卖人数20384人，中标率20.7%。最低成交价93700元，平均成交价为93779元，比上个月93874元减少了95元。最低成交价的截止时间是11:29:59第851位。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "11月沪牌拍卖结果出炉"
+    },
+    {
+     "title": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！",
      "link": "https://wallstreetcn.com/articles/3786895",
      "pubDate": "Sat, 28 Nov 2026 11:55:29 +0800",
      "summary": "高盛全球对冲基金业务主管Tony Pasquariello在最新客户报告中给出罕见直白的判断：过去八周是他职业生涯中见过规模最大的清仓之一，而AI基础设施交易最丰厚的上行空间已经过去，2027年将是一个回报较少的年份。 Pasquariello的核心论据在于供需格局的转换。他认为， 仓位确实比二季度末健康得多，但明年将面对自2000年以来最大的股票净供给增量，同时AI资本开支对盈利的拉动正在减速，2028年的盈利前景将成为持续悬在市场头上的问号。 Pasquariello并未转向看空整体市场。他强调美股主要趋势仍完好，11个主要板块中有7个自二季度末以来依然上涨，美元与美债在最糟糕的时刻“完成",
      "source": "华尔街见闻",
-     "zh": "经历职业生涯最大规模清仓之一后，高盛对冲基金主管警告：AI交易最赚钱的阶段或已过去"
+     "zh": "职业生涯最大清仓之一后，高盛对冲基金主管警告：AI最赚钱的时代或已结束！"
     },
     {
      "title": "新乐道L60黑骑士版正式上市，整车售价21.08万元起",
@@ -2265,28 +2329,12 @@
      "zh": "全球大救市，独缺美联储"
     },
     {
-     "title": "黄仁勋回来了，英伟达的信用担保风险还在",
-     "link": "http://www.eeo.com.cn/2026/1128/1106035.shtml",
-     "pubDate": "Sat, 28 Nov 2026 10:43:56 +0800",
-     "summary": "为帮助客户获得融资、采购芯片，英伟达正在押上自己的信用，相关担保上限合计已达1180亿美元。这门生意的风险在于，一旦AI算力需求降温、客户违约且相关资产难以转租或处置，英伟达不仅可能损失后续芯片订单，还可能承担相应担保赔付。",
-     "source": "经济观察网",
-     "zh": "黄仁勋回来了，英伟达的信用担保风险还在"
-    },
-    {
      "title": "AI威胁日益加剧！大规模网络故障席卷西方，OpenAI视为比编程更大市场",
      "link": "https://wallstreetcn.com/articles/3786889",
      "pubDate": "Sat, 28 Nov 2026 10:42:31 +0800",
      "summary": "一连串高规格网络事件与系统中断正密集冲击欧美核心公共部门与商业机构，暴露出老旧数字基础设施在人工智能时代面临的严峻脆弱性，并直接催生了人工智能巨头对网络安全商业化的激烈争夺。 11月27日，据英国《金融时报》报道， 英国政府周五被迫将其大部分社会福利系统下线 ，成为横跨美欧关键基础设施最新暴露出的安全短板。 此前一周内，美国财政部、美国中央情报局（CIA）以及国际足联（Fifa）等机构接连卷入网络入侵与服务中断风波。 这一轮密集爆发的停摆与数据泄露，已在跨大西洋两岸引发对黑客攻击升级的广泛担忧，并迅速转化为科技巨头的商业风口。 据The Information报道， OpenAI联合创始人兼总",
      "source": "华尔街见闻",
      "zh": "AI威胁日益加剧！大规模网络故障席卷西方，OpenAI视为比编程更大市场"
-    },
-    {
-     "title": "绿灯配时多一秒，人本主义多一点",
-     "link": "http://www.eeo.com.cn/2026/1128/1106008.shtml",
-     "pubDate": "Sat, 28 Nov 2026 10:29:30 +0800",
-     "summary": "车辆和行人，通行效率为谁定义？谁的时间更值钱？若以人的尺度为考量，配时的优先级本该倒过来。因为每一个开车的人同时也是行人，压缩行人的通行时间，就是在怠慢全体市民。",
-     "source": "经济观察网",
-     "zh": "绿灯配时多一秒，人本主义多一点"
     },
     {
      "title": "特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”",
@@ -2305,28 +2353,12 @@
      "zh": "铝市割裂一幕：期货价格下跌，现货却遭史诗级逼空，LME紧急出手"
     },
     {
-     "title": "猪周期变长了 养殖户亏大了",
-     "link": "http://www.eeo.com.cn/2026/1128/1105952.shtml",
-     "pubDate": "Sat, 28 Nov 2026 09:52:29 +0800",
-     "summary": "本轮猪周期自2022年12月进入下行通道，至2026年11月已持续47个月，构成了历史上罕见的超长猪周期。周期过长的核心原因在于行业规模化程度提升，整体抗风险能力增强，产能去化节奏随之放缓。同时，养殖效率持续提升，即便能繁母猪数量有所减少，市场的猪肉供给并没有同步下降。",
-     "source": "经济观察网",
-     "zh": "猪周期变长了 养殖户亏大了"
-    },
-    {
      "title": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景",
      "link": "https://wallstreetcn.com/articles/3786887",
      "pubDate": "Sat, 28 Nov 2026 09:43:43 +0800",
      "summary": "当AI巨头Anthropic以83美元的定价完成史上最大规模的IPO时，媒体的狂欢如期而至。然而，《纽约时报》在此关键节点发布的一篇重磅专栏文章背后，却牵扯出一条隐秘的资本利益链。在科技与资本深度绑定的今天，所谓的“独立新闻”，究竟是谁在买单？ 2026年11月18日，这是属于AI行业的一个历史性时刻：Anthropic完成了史上最大规模的IPO，定价83美元，次日以111.50美元开盘。 就在IPO当天的绝佳时机，《纽约时报》发布了一篇极具影响力的专栏文章——《我花了一年时间与Anthropic员工交谈，以下是他们的信仰》。文章详细描绘了Anthropic员工在IPO前几周关于如何平衡AI发",
      "source": "华尔街见闻",
      "zh": "Anthropic创纪录IPO背后的媒体暗战：纽约时报新锐AI作家被曝隐瞒“金主”背景"
-    },
-    {
-     "title": "医美低龄化：监护人同意，不该只是走个过场",
-     "link": "http://www.eeo.com.cn/2026/1128/1105939.shtml",
-     "pubDate": "Sat, 28 Nov 2026 09:42:05 +0800",
-     "summary": "当未成年人把手术刀当作开学礼物，当机构把“看起来成年”当作免责通行证，讨论的重心就不该停留在“孩子爱美”的表层，风险与监管应同时被提及。",
-     "source": "经济观察网",
-     "zh": "医美低龄化：监护人同意，不该只是走个过场"
     },
     {
      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
@@ -2393,14 +2425,6 @@
      "zh": "SA Asks: What's the best-positioned chip stock right now?"
     },
     {
-     "title": "US tech stocks rise in latest market swing",
-     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT",
-     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
-     "source": "Financial Times",
-     "zh": "US tech stocks rise in latest market swing"
-    },
-    {
      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 19:55:00 GMT",
@@ -2441,36 +2465,12 @@
      "zh": "The warnings behind this week’s stock-market rally"
     },
     {
-     "title": "Trump’s Nvidia intervention has a cost for US stocks",
-     "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:26:25 GMT",
-     "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
-     "source": "Financial Times",
-     "zh": "Trump’s Nvidia intervention has a cost for US stocks"
-    },
-    {
      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
      "pubDate": "Fri, 27 Nov 2026 18:20:32 GMT",
      "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
      "source": "CNBC",
      "zh": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding"
-    },
-    {
-     "title": "AI and the decryption nightmare",
-     "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:18:27 GMT",
-     "summary": "New breakthroughs call for faster upgrades to security, not panic",
-     "source": "Financial Times",
-     "zh": "AI and the decryption nightmare"
-    },
-    {
-     "title": "Can AI crack encryption?",
-     "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 18:16:51 GMT",
-     "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
-     "source": "Financial Times",
-     "zh": "Can AI crack encryption?"
     }
    ]
   },

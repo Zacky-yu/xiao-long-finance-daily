@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 22:31:45",
+ "generated_at": "2026/11/28 22:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -1290,6 +1290,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Looking for your first drone? This DJI Mini 3 bundle has everything you need for $420 this Thanksgiving weekend",
+     "link": "https://www.space.com/stargazing/skywatching-kit/looking-for-your-first-drone-this-dji-mini-3-bundle-has-everything-you-need-for-420-dollars-this-black-friday-weekend",
+     "pubDate": "Sat, 28 Nov 2026 14:45:00 +0000",
+     "summary": "This DJI drone has 4K video, automatic flying features, landing gear and spare propellers — what more do you need to get flying? And now you can save $64 this weekend.",
+     "source": "Space.com",
+     "zh": "Looking for your first drone? This DJI Mini 3 bundle has everything you need for $420 this Thanksgiving weekend"
+    },
+    {
+     "title": "On this day in space! Nov. 28, 1967: Astronomers Jocelyn Bell and Antony Hewish disover the 1st pulsar with Little Green Men 1 signal",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-28-2026",
+     "pubDate": "Sat, 28 Nov 2026 14:33:34 +0000",
+     "summary": "On November 28, 1967, astronomers found the first pulsar and they called the signal Little Green Men 1. Here's why it mattered.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 28, 1967: Astronomers Jocelyn Bell and Antony Hewish disover the 1st pulsar with Little Green Men 1 signal"
+    },
+    {
      "title": "Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network",
      "link": "https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network/",
      "pubDate": "Sat, 28 Nov 2026 14:05:09 +0000",
@@ -1336,22 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Whether you're a fan of Star Wars, Ryan Gosling or both, you're spoilt for choice this Black Friday with serious savings on Lego's Star Wars sets and Project Hail Mary sets.",
      "source": "Space.com",
      "zh": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites"
-    },
-    {
-     "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
-     "link": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
-     "pubDate": "Fri, 27 Nov 2026 19:30:00 +0000",
-     "summary": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
-     "source": "Space.com",
-     "zh": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today"
-    },
-    {
-     "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
-     "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
-     "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
-     "summary": "Atmos Space Cargo will fly its first Phoenix cargo-return capsule on SpaceX's Bandwagon 3 rideshare mission, which is scheduled to launch this spring.",
-     "source": "Space.com",
-     "zh": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea"
     },
     {
      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
@@ -1738,6 +1738,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more (Joel Khalili/Wired)",
+     "link": "https://www.techmeme.com/261128/p6#a261128p6",
+     "pubDate": "Sat, 28 Nov 2026 09:40:01 -0500",
+     "summary": "Joel Khalili / Wired : Q&A with Q.ANT CEO Michael F&ouml;rtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more &nbsp; &mdash;&nbsp; German company Q.ANT is trying to cut the amount of energy required to run AI models by us",
+     "source": "Techmeme",
+     "zh": "Q&A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more (Joel Khalili/Wired)"
+    },
+    {
      "title": "【视频】风云概念车 AURA 首次亮相，理工男奇瑞风云开始聊审美",
      "link": "https://www.ithome.com/1/034/019.htm",
      "pubDate": "Sat, 28 Nov 2026 14:29:19 GMT",
@@ -1760,6 +1768,22 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 28 日消息，小米创始人、董事长兼 CEO 雷军昨日发文，披露了其 11 月 26 日前往微博公司参观学习的行程。 据微博数码消息，雷军到访新浪微博总部时， 遇到了小米 1 老用户现场催更小米 18 。 IT之家注意到，雷军今日发文，回应了此次“催更”事件： 前几天，我到微博公司参观，有位微博员工拿出他的小米手机 1，还带着蒙德里安艺术家后盖，请我签字。 那一瞬间，我真的非常感动，仿佛回到了 15 年前小米手机刚刚发布 。 值得一提的是，雷军微博还带上了“小米 18”这一话题， 或暗示新机将至 。 据IT之家今日早些时候报道，小米官方已经在小米商城、京东、天猫等平台开启小米",
      "source": "IT之家",
      "zh": "雷军回应初代小米用户催更 18 标准版：非常感动，仿佛回到了 15 年前小米手机刚刚发布"
+    },
+    {
+     "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+     "link": "https://github.com/RiccardoSottini/AffrescoUI",
+     "pubDate": "Sat, 28 Nov 2026 14:09:39 +0000",
+     "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI Comments URL: https://news.ycombinator.com/item?id=50677861 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run"
+    },
+    {
+     "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+     "link": "https://koppar.ai/blog/lte-modem-bring-up/",
+     "pubDate": "Sat, 28 Nov 2026 14:06:19 +0000",
+     "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/ Comments URL: https://news.ycombinator.com/item?id=50677822 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The AI-designed USB-C LTE Modem is built, and it makes calls"
     },
     {
      "title": "17 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off",
@@ -1821,9 +1845,17 @@ window.INDUSTRY_DATA = {
      "title": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed",
      "link": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
      "pubDate": "Sat, 28 Nov 2026 13:21:21 +0000",
-     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/ Comments URL: https://news.ycombinator.com/item?id=50677340 Points: 8 # Comments: 5",
+     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/ Comments URL: https://news.ycombinator.com/item?id=50677340 Points: 26 # Comments: 30",
      "source": "Hacker News",
      "zh": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed"
+    },
+    {
+     "title": "IBM MVS 3.8 Community Edition (52-year old OS)",
+     "link": "https://github.com/MVS-sysgen/sysgen",
+     "pubDate": "Sat, 28 Nov 2026 13:17:39 +0000",
+     "summary": "Article URL: https://github.com/MVS-sysgen/sysgen Comments URL: https://news.ycombinator.com/item?id=50677302 Points: 11 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "IBM MVS 3.8 Community Edition (52-year old OS)"
     },
     {
      "title": "美团每年砸百亿做AI，王兴不想只做外卖生意",
@@ -1944,38 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "并非所有渔船和货船都以透明方式运营。由于它们规避监测，其对海洋野生动物的影响无法量化。一项新研究提出了一种发现未被监测船只的策略：将录音设备绑在海鸟身上。船只可通过关闭自动识别系统（AIS）追踪技术来隐匿其活动。研究人员将轻型录音设备安装在三种海鸟（北方塘鹅、韦斯特兰海燕和巴利阿里鹱，它们各自生活在不同的海洋环境中）身上。他们通过 GPS 绘制了些海鸟的活动轨迹，分析了记录各种独特船只声音的音频记录。他们发现，记录到的船只声音中有相当大一部分与 AIS 报告的活动并不重合。例如北方塘鹅平均每天在船只附近停留 68 分钟，其中至少有 22 分钟是在未被监测到的船只周围。换言之，在塘鹅捕捉到的船只",
      "source": "Solidot",
      "zh": "科学家用海鸟监视关闭 AIS 信号的船只"
-    },
-    {
-     "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
-     "link": "https://www.wired.com/story/best-black-friday-sonos-deals-11-28-26/",
-     "pubDate": "Sat, 28 Nov 2026 12:02:12 +0000",
-     "summary": "Always wanted a Sonos speaker but scared off by the price? Black Friday is one of the best times to shop the brand.",
-     "source": "WIRED",
-     "zh": "The Best Black Friday Sonos Deals (2026): Up to 34% Off"
-    },
-    {
-     "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
-     "link": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
-     "pubDate": "Sat, 28 Nov 2026 12:00:20 +0000",
-     "summary": "Kindles are getting costlier faster than they're getting better.",
-     "source": "Ars Technica",
-     "zh": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price"
-    },
-    {
-     "title": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
-     "link": "https://www.wired.com/story/amazon-black-friday-deals-11-28-2026/",
-     "pubDate": "Sat, 28 Nov 2026 12:00:04 +0000",
-     "summary": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30.",
-     "source": "WIRED",
-     "zh": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off"
-    },
-    {
-     "title": "7 Pro Tips to Get More Out of the Google Health App",
-     "link": "https://www.wired.com/story/7-pro-tips-to-get-more-out-of-the-google-health-app/",
-     "pubDate": "Sat, 28 Nov 2026 12:00:00 +0000",
-     "summary": "Google has replaced the fitness tracking software for your Fitbit or Wear OS watch with an app called Google Health. Here’s how to make it do more than just the basics.",
-     "source": "WIRED",
-     "zh": "7 Pro Tips to Get More Out of the Google Health App"
     }
    ]
   },
@@ -1986,12 +1986,44 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Telegram issues security warning to iPhone users running older iOS versions",
+     "link": "https://9to5mac.com/2026/11/28/telegram-issues-security-warning-to-iphone-users-running-older-ios-versions/",
+     "pubDate": "Sat, 28 Nov 2026 14:40:57 +0000",
+     "summary": "Messaging platform Telegram is sending out alerts to users running outdated versions of iOS, urging them to install the latest available software update. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Telegram issues security warning to iPhone users running older iOS versions"
+    },
+    {
+     "title": "Apple @ Work: Apple quietly fixes the Rosetta problem it created in Golden Gate",
+     "link": "https://9to5mac.com/2026/11/28/apple-quietly-fixes-the-rosetta-problem-it-created-in-golden-gate/",
+     "pubDate": "Sat, 28 Nov 2026 14:33:00 +0000",
+     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
+     "source": "9to5Mac",
+     "zh": "Apple @ Work: Apple quietly fixes the Rosetta problem it created in Golden Gate"
+    },
+    {
+     "title": "iOS 27 could be messing up your CarPlay experience with Google Maps and Waze",
+     "link": "https://www.engadget.com/2325353/ios-27-carplay-google-maps-waze-issues/",
+     "pubDate": "Sat, 28 Nov 2026 14:30:00 +0000",
+     "summary": "iOS 27 has improved CarPlay, but also brought along some navigation problems. Unfortunately, there's no perfect solution until Apple fixes the issue.",
+     "source": "Engadget",
+     "zh": "iOS 27 could be messing up your CarPlay experience with Google Maps and Waze"
+    },
+    {
      "title": "With the way things are going, you’ll probably never get this $699 Samsung Tab S11 deal again",
      "link": "https://9to5google.com/2026/11/28/samsung-galaxy-tab-s11-black-friday-deal-2026/",
      "pubDate": "Sat, 28 Nov 2026 14:17:41 +0000",
      "summary": "This Samsung tablet Black Friday deal drops the price by $300, bringing it down below the original launch price. more…",
      "source": "9to5Google",
      "zh": "With the way things are going, you’ll probably never get this $699 Samsung Tab S11 deal again"
+    },
+    {
+     "title": "5 music streaming services that let you listen for free",
+     "link": "https://www.engadget.com/2325263/free-music-streaming-services/",
+     "pubDate": "Sat, 28 Nov 2026 14:15:00 +0000",
+     "summary": "Most music streaming apps require a subscription for all their features, but free tiers are perfectly usable if you don't mind the ads.",
+     "source": "Engadget",
+     "zh": "5 music streaming services that let you listen for free"
     },
     {
      "title": "How to permanently delete your PlayStation account",
@@ -2040,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Nebula P1 drops to $549, its lowest price yet, with two wireless speakers you can place around the room.",
      "source": "Android Authority",
      "zh": "Nebula P1 projector with detachable speakers gets $250 markdown"
-    },
-    {
-     "title": "5 free Samsung Galaxy Watch apps every owner should know about",
-     "link": "https://www.engadget.com/2325008/free-samsung-galaxy-watch-apps-every-owner-should-know-about/",
-     "pubDate": "Sat, 28 Nov 2026 13:15:00 +0000",
-     "summary": "Samsung's Galaxy Watches offer lots of features for free via apps in the Play Store. Here are a few of our favorite free watch apps.",
-     "source": "Engadget",
-     "zh": "5 free Samsung Galaxy Watch apps every owner should know about"
-    },
-    {
-     "title": "9 questions you shouldn't ask ChatGPT",
-     "link": "https://www.engadget.com/2324752/questions-avoid-asking-chatgpt-why/",
-     "pubDate": "Sat, 28 Nov 2026 13:15:00 +0000",
-     "summary": "Some subjects are best left for humans because bots can't provide enough understanding to give good advice.",
-     "source": "Engadget",
-     "zh": "9 questions you shouldn't ask ChatGPT"
     },
     {
      "title": "Lenovo’s Idea Tab Pro Gen 2 bundle gets a $200 discount",
@@ -2202,28 +2218,12 @@ window.INDUSTRY_DATA = {
      "zh": "Google still doesn’t have a new Nest Hub to sell me, and I’m pretty tempted by Amazon’s Echo Show deals"
     },
     {
-     "title": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day",
-     "link": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day/",
-     "pubDate": "Fri, 27 Nov 2026 21:49:17 +0000",
-     "summary": "Counterpoint Research says Apple led smartphone sales in China during this year’s Double 11 shopping festival (also known as Singles’ Day), despite a broader slump in smartphone demand. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day"
-    },
-    {
      "title": "Pixelated 127: Nobody reads, nobody writes",
      "link": "https://9to5google.com/2026/11/27/pixelated-127-nobody-reads-nobody-writes/",
      "pubDate": "Fri, 27 Nov 2026 21:30:00 +0000",
      "summary": "Welcome to Pixelated episode 127. This week, we’re unlocking a bonus episode from the vault. Originally recorded in the aftermath of the Pixel 11 launch and review cycle, listen in as Abner, Damien, and Will discuss how they stay motivated to continue reporting on and reviewing technology products, ",
      "source": "9to5Google",
      "zh": "Pixelated 127: Nobody reads, nobody writes"
-    },
-    {
-     "title": "Which Waterdrop water filters are actually worth buying this Black Friday?",
-     "link": "https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/",
-     "pubDate": "Fri, 27 Nov 2026 21:17:44 +0000",
-     "summary": "Black Friday can turn something as simple as a home water upgrade into a real headache. Do you need a system that fills a glass in seconds, or one that keeps always-ready hot water available right on the counter? Maybe you’re more worried about finding one that leaves enough room in the budget for t",
-     "source": "9to5Google",
-     "zh": "Which Waterdrop water filters are actually worth buying this Black Friday?"
     }
    ]
   },
@@ -2234,12 +2234,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Earnings Scoreboard: 12 of 13 reporting firms beat EPS and revenue estimates; 9 grow Y/Y profits",
+     "link": "https://seekingalpha.com/news/4676928-earnings-scoreboard-12-of-13-reporting-firms-beat-eps-and-revenue-estimates-9-grow-yy-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 28 Nov 2026 09:35:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Earnings Scoreboard: 12 of 13 reporting firms beat EPS and revenue estimates; 9 grow Y/Y profits"
+    },
+    {
      "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
      "link": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
-     "pubDate": "Sat, 28 Nov 2026 14:11:10 GMT",
+     "pubDate": "Sat, 28 Nov 2026 14:34:51 GMT",
      "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
      "source": "CNBC",
      "zh": "The Iran war could shatter rising expectations of surplus oil supply in coming months"
+    },
+    {
+     "title": "巴基斯坦总理谈及中巴友谊时，多次使用“兄弟”一词；中国将巴基斯坦选为载人航天工程首个外国伙伴，这一荣誉巴基斯坦人民将永远铭记在心",
+     "link": "http://finance.eastmoney.com/news/11790,202611283942408261.html",
+     "pubDate": "Sat, 28 Nov 2026 22:33:06 +0800",
+     "summary": "11月28日，巴基斯坦总理穆罕默德·夏巴兹·谢里夫在巴基斯坦太空与高层大气研究委员会总部，与在中国空间站执行神舟二十四号载人飞行任务的巴基斯坦航天员穆罕默德·齐尚·阿里进行了天地通话。夏巴兹祝贺穆罕默德·齐尚·阿里成为第一位进入太空的巴基斯坦人。 在谈及中巴友谊时，他多次使用“兄弟”一词，并表示中巴友谊被带入了太空。对于中国将巴基斯坦选为载人 航天工程 首个外国伙伴，夏巴兹表示这一荣誉，巴基斯坦人民将永远铭记在心。 （文章来源：新黄河）",
+     "source": "东方财富股票",
+     "zh": "巴基斯坦总理谈及中巴友谊时，多次使用“兄弟”一词；中国将巴基斯坦选为载人航天工程首个外国伙伴，这一荣誉巴基斯坦人民将永远铭记在心"
+    },
+    {
+     "title": "黄河内蒙古呼和浩特段全线流凌",
+     "link": "http://finance.eastmoney.com/news/11790,202611283942408772.html",
+     "pubDate": "Sat, 28 Nov 2026 22:30:59 +0800",
+     "summary": "记者从内蒙古自治区防汛抗旱指挥部办公室了解到，截至11月28日9时， 黄河内蒙古呼和浩特段全线流凌 。 受昼夜温差影响，午后部分河段流凌呈零星分布。 黄河内蒙古呼和浩特段流凌密度约20%~30%。其中托克托县段流凌密度约30%，清水河县段流凌密度约20%；黄河头道拐段水位987.02米，较昨日上涨0.06米，流量634立方米/秒，较昨日增加33立方米/秒，当前无险情。 （央视新闻） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "黄河内蒙古呼和浩特段全线流凌"
+    },
+    {
+     "title": "主播说联播丨航展看飞机？今年珠海告诉你：格局小了",
+     "link": "http://finance.eastmoney.com/news/1360,202611283942407026.html",
+     "pubDate": "Sat, 28 Nov 2026 22:30:00 +0800",
+     "summary": "12月7日，第十六届中国国际航空航天博览会将在珠海举办。 今天（11月28日）上午， 歼-35A 飞抵珠海，将 首次以真机形式面向全球观众近距离静态展示 。 歼-35A 之所以备受关注，就在于它是我国自主研制的 新一代中型隐身多用途战斗机 ，是隐身与反隐身作战体系的重要组成力量，可拦截敌方战斗机、轰炸机、巡航导弹等空中目标。 本届航展称得上是重磅集结，一个接一个的“首次”让人满怀期待。比如，空军将首次展出我国自主研制的新一代军用大型运输机 运-20B 、新一代预警雷达等装备。 此外，海军将首次实装参加本届航展，增加高栏海上装备展示区，陆海空联动、全景式亮相，多型现役装备将首次公开。 这一安排，",
+     "source": "东方财富股票",
+     "zh": "主播说联播丨航展看飞机？今年珠海告诉你：格局小了"
+    },
+    {
+     "title": "英国海上贸易行动办公室：武装人员已离开也门近海被劫持货船",
+     "link": "http://finance.eastmoney.com/news/1356,202611283942408127.html",
+     "pubDate": "Sat, 28 Nov 2026 22:28:36 +0800",
+     "summary": "当地时间11月28日，英国海上贸易行动办公室称，登上也门近海一艘货船的武装人员已离开该船，船员安全。 此前，英国海上贸易行动办公室发布通报称，一艘货船在也门巴尔哈夫西南约64海里处的亚丁湾海域遭武装人员劫持。 据该货船船长报告，协调世界时当天6时30分（也门亚丁时间9时30分），未经授权的武装人员登上货船并控制该船。（央视新闻） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "英国海上贸易行动办公室：武装人员已离开也门近海被劫持货船"
+    },
+    {
+     "title": "美国空军云计算平台“云一号”遭黑客攻入，战术、人事、后勤等敏感数据面临风险",
+     "link": "http://finance.eastmoney.com/news/1959,202611283942407216.html",
+     "pubDate": "Sat, 28 Nov 2026 22:27:40 +0800",
+     "summary": "据路透社最新报道，近几周黑客攻破了美国空军主力 云计算 平台，令敏感数据面临风险。这是政府机构接连发生的一连串 网络安全 事件与系统中断中的最新一例。 路透社当地时间11月27日援引三名消息人士的话报道称，黑客侵入了空军 “云一号”（Cloud One）平台 ，该平台承载敏感的战术、人事和后勤数据。 其中两名消息人士告诉路透社，这起入侵是在过去一个月左右、 系统升级期间被发现的 。路透社称，尚未查明黑客身份、其侵入系统的深度，以及是否有数据从“云一号”被窃取。 据报的这起入侵之前，近日已连续发生其他入侵事件。 中央情报局周二表示，其部分非涉密系统在一次黑客入侵中遭暴露。国家情报总监办公室称，其",
+     "source": "东方财富股票",
+     "zh": "美国空军云计算平台“云一号”遭黑客攻入，战术、人事、后勤等敏感数据面临风险"
+    },
+    {
+     "title": "国常会定调后 资本市场持续回暖有望获支撑",
+     "link": "http://stock.eastmoney.com/news/11215,202611283942404556.html",
+     "pubDate": "Sat, 28 Nov 2026 22:27:40 +0800",
+     "summary": "11月27日召开的国务院常务会议研究持续深化资本市场投融资 综合 改革工作。证监会同日传达学习国常会精神，从完善稳市机制、壮大中长期投资力量、防范输入性风险、深化资本市场改革、强化全链条监管等方面部署落实。 政策端与资金端同向发力 ，成为观察下一阶段市场运行的重要线索。 下周政策接力落地信号明确：融资交易保证金比例调整周一实施。 中国证券报记者获悉，为持续丰富场外中低波动产品供给，吸引更多中长期资金入市，证监会近期将推出首批场外股债恒定比例指数基金。首批产品将优先面向中小基金公司，支持其特色化、差异化发展。下周，证监会将组织首批基金公司上报产品，加快推动产品落地，并有序实现产品的常态化注册。 ",
+     "source": "东方财富股票",
+     "zh": "国常会定调后 资本市场持续回暖有望获支撑"
+    },
+    {
+     "title": "What’s the most tax-efficient way to donate to charity?",
+     "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 14:27:00 GMT",
+     "summary": "How to make your donations beneficial for both you and the recipient",
+     "source": "MarketWatch",
+     "zh": "What’s the most tax-efficient way to donate to charity?"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -2258,36 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI data center boom strains construction labor across the U.S."
     },
     {
-     "title": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖",
-     "link": "http://finance.eastmoney.com/news/1350,202611283942399188.html",
-     "pubDate": "Sat, 28 Nov 2026 21:53:53 +0800",
-     "summary": "上证报中国证券网讯（记者 宋薇萍）近日，第十一届“创客中国”中小企业创新创业大赛全国总决赛在上海杨浦区复兴岛举行。经过一天半的激烈角逐，本届赛事全国总决赛收官。 重庆张雪机车、广州艾佛光通、苏州领慧立芯、武汉微泰 电子 、福建国光新业等 5家企业荣获企业组一等奖 ，企业组另评出二等奖15名、三等奖30名；创业组一等奖由武汉芯力科技术有限公司斩获，另评出二等奖3名、三等奖4名。 本届总决赛由工业和信息化部 网络安全 产业发展中心（工业和信息化部信息中心）、上海市经济和信息化委员会、上海市杨浦区人民政府共同主办。 自3月启动以来，本届赛事共举办35个省级区域赛、15个专题赛和1个境外区域赛， 参赛",
-     "source": "东方财富股票",
-     "zh": "第十一届“创客中国”全国总决赛在沪收官  张雪机车等获企业组一等奖"
-    },
-    {
-     "title": "业界共探港航产业高端化、智能化、绿色化发展新路径",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942399059.html",
-     "pubDate": "Sat, 28 Nov 2026 21:53:47 +0800",
-     "summary": "上证报中国证券网讯（记者 王文嫣）近日，由中交集团主办、上海 振华重工 集团承办的“智启港航新征程，共筑产业新生态”智慧港航产业高质量发展论坛在北京举行。该论坛作为中交集团产业协同创新与融合发展联盟成立大会的分论坛之一，汇聚来自行业协会、国内外 港口 企业、科研院所、高校及合作伙伴等60多家单位共计120名业内代表，共探港航产业高端化、智能化、绿色化发展新路径。 交通运输 部水运局二级巡视员翁笑冰表示，港航产业是国民经济基础性、战略性产业，智慧港航是水运行业培育新质生产力的重要抓手。 交通运输 部水运局将围绕“十五五”水运“一网四化”建设方向，以一体化融合畅通枢纽衔接，以安全化提升筑牢韧性底线",
-     "source": "东方财富股票",
-     "zh": "业界共探港航产业高端化、智能化、绿色化发展新路径"
-    },
-    {
      "title": "Elon Musk says Google willing to rent more compute from SpaceX",
      "link": "https://seekingalpha.com/news/4677117-musk-says-google-willing-rent-spacex-compute?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 28 Nov 2026 08:53:20 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Elon Musk says Google willing to rent more compute from SpaceX"
-    },
-    {
-     "title": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万",
-     "link": "http://stock.eastmoney.com/news/11215,202611283942398738.html",
-     "pubDate": "Sat, 28 Nov 2026 21:48:00 +0800",
-     "summary": "11月27日，四川证监局披露一则行政处罚决定书，一名证券从业人员因在内幕信息敏感期内控制使用他人证券账户买卖股票获利61.61万元，同时被查出长达18年借用他人账户违规炒股，两项违法合计被没收违法所得61.61万元、罚款148.21万元， 罚没总额约209.82万元 。 根据行政处罚决定书，2025年8月6日早间，相关公司公告《关于控股股东、实际控制人签署〈股份转让协议〉、〈表决权委托协议〉暨控制权变更的提示性公告》。该公告内容属于《证券法》第八十条第二款第八项、第九项所列重大事件，公开前构成内幕信息，内幕信息敏感期为2025年7月7日至2025年8月6日早间。 四川证监局查明，当事人刘某林在",
-     "source": "东方财富股票",
-     "zh": "券商员工借用他人账户炒股18年亏损，另涉内幕交易获利61万，合计被罚没超209万"
     },
     {
      "title": "Billions on the line for Berkshire utility as Oregon&apos;s high court reviews wildfire claims",
@@ -2312,30 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "■冷翠华 《保险公司资产负债管理办法》（以下简称《办法》）将于2027年1月1日起施行。《办法》进一步强化资产负债管理工作的重要性，压实保险公司董事会最终责任。资产负债管理成效，正是衡量保险公司治理成色的一把尺子，保险公司需要多维度完善机制，做好资产负债管理。 压实各层级责任，理顺资产负债管理的治理结构。保险公司董事会要统筹审定资产负债战略、重大产品方案、长期资产配置政策，持续跟踪错配风险...",
      "source": "经济观察网",
      "zh": "资产负债统筹能力检验险企治理水平"
-    },
-    {
-     "title": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去",
-     "link": "http://finance.eastmoney.com/news/1354,202611283942399496.html",
-     "pubDate": "Sat, 28 Nov 2026 21:43:00 +0800",
-     "summary": "大模型走向规模化商用，企业最关心的已从“能不能用”转向“划不划算、担不担责、信不信得过”。长期跟踪AI合规与审计一线的美国圣克拉拉大学教授、信息系统与分析系主任陆海兵接受证券时报记者专访时，围绕商业化落地、成本收益、责任划分、数据隐私、合规能力和产业链趋势作了梳理。 他认为，跑通闭环的多是 软件开发 、智能客服、金融数据处理和 专业服务 自动化等需求原本就存在的场景；自主医疗诊断、金融投资决策、通用型AI数字员工仍受可靠性和责任归属制约。合规正从成本负担转向竞争优势；未来三到五年，AI有望从辅助单任务走向参与完整业务流程，但治理必须跟得上自主能力扩张。 商业化：哪些跑通闭环，哪些仍在试点 证券",
-     "source": "东方财富股票",
-     "zh": "对话美国圣克拉拉大学教授陆海兵：AI规模化落地，可信治理决定产品能否卖出去"
-    },
-    {
-     "title": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→",
-     "link": "http://finance.eastmoney.com/news/11219,202611283942399355.html",
-     "pubDate": "Sat, 28 Nov 2026 21:41:11 +0800",
-     "summary": "苏超决赛现场 数万名观众齐聚南京奥体中心 热闹的赛场之下 一场空中守护正在悄然进行 无人机 升空执勤 AI实时研判人流、车流 为现场观众的安全保驾护航 苏超决赛： 低空系统守护万人赛场 2026年苏超决赛，赛事方在南京奥体中心现场部署 24架 无人机 空中执勤 ，与地面传统监控联动，实时掌握地面人员流动态势。 如今的安防早已不同于以往， 无人机 承担空中布控职能，与地面传统监控形成联动。 由 中国电信 与公安联合打造的低空智能指挥调度系统，通过AI实时分析、测算人群密度，辅助开展人流精准疏导；同时感知奥体周边车辆数量，联动疏导道路交通。6万多名观众在不到30分钟的时间内安全有序离场。 双重守护",
-     "source": "东方财富股票",
-     "zh": "6万观众有序离场！揭秘苏超决赛上空的低空安防力量→"
-    },
-    {
-     "title": "全新红旗H9广州车展上市，售价32.98万元起",
-     "link": "http://finance.eastmoney.com/news/11262,202611283942399274.html",
-     "pubDate": "Sat, 28 Nov 2026 21:41:00 +0800",
-     "summary": "新京报 贝壳 财经讯（记者白昊天）11月27日，全新红旗H9于2026广州车展正式上市，推出 豪华 MAX、尊贵Ultra、旗舰Ultra、四驱旗舰Ultimate共4款车型，售价区间为 32.98万元-41.98万元 。 全新H9的长宽高参数分别为5230/1955/1515毫米，轴距 3120毫米，定位中大型轿车。车内搭载鸿蒙座舱、25扬声器构成的HUAWEI SOUND卓越系列7.1.4空间音响。 动力方面，全新红旗H9基于混动专属架构打造，搭载2.0T插混系统，发动机最大功率140千瓦，单电机最大功率220千瓦，双电机最大功率444千瓦，匹配纵置双挡混动电驱与40.4千瓦时 电池 包。",
-     "source": "东方财富股票",
-     "zh": "全新红旗H9广州车展上市，售价32.98万元起"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -2378,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     },
     {
+     "title": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”",
+     "link": "http://stock.eastmoney.com/news/11219,202611283942396292.html",
+     "pubDate": "Sat, 28 Nov 2026 20:55:26 +0800",
+     "summary": "从两百万元级的行政旗舰，到十万元出头的家用轿车， 自主品牌在2026车市“收官之战”的广州车展集体“亮剑” 。 第二十四届广州国际车展以“新科技?新生活”为主题，展览面积达22万平方米，展车总数1106辆。其中， 首发新车115辆，创下广州车展 历史新高 ； 新能源 展车707辆，占比达63.9%，较去年增加78辆。 “随着年末促销、广州车展等活动陆续展开，如何将阶段性客流转化为有效订单，推动消费需求持续释放，成为产业链各方关注的重点。”中国 汽车 工业协会副秘书长陈士华表示。 本届车展上“东道主” 广汽、 比亚迪 继续包馆 。“自主一哥” 比亚迪 集团在2.1号馆打造品牌独立展区，王朝、海洋",
+     "source": "东方财富资讯",
+     "zh": "直击2026广州车展：“收官大战”打响 自主品牌羊城集体“亮剑”"
+    },
+    {
      "title": "2027款岚图泰山开启预售 预售价43.99万元",
      "link": "http://www.eeo.com.cn/2026/1128/1106814.shtml",
      "pubDate": "Sat, 28 Nov 2026 20:45:47 +0800",
@@ -2410,6 +2434,14 @@ window.INDUSTRY_DATA = {
      "zh": "东风日产NX7上市 限时权益价11.99万元起"
     },
     {
+     "title": "11月28日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202611283942394613.html",
+     "pubDate": "Sat, 28 Nov 2026 20:38:00 +0800",
+     "summary": "今日摘要 习近平总书记指出，要扎实做好非物质文化遗产的系统性保护，更好满足人民日益增长的精神文化需求，推进文化自信自强。党的十八大以来，以习近平同志为核心的党中央高度重视非遗保护传承工作，推动非遗在创造性转化、创新性发展中融入现代生活，焕发时代光彩。 系列报道《学习贯彻五中全会精神在基层》今天播出：福建漳州、山东青岛落实全会精神，推动基层党建服务民生一线。 1至10月，全国社会 物流 总额同比增长4.8%，高端 物流 需求加快释放。 《活力中国调研行》今天播出：各地如何补短板、通堵点，让开放之路越走越宽。 神舟二十三号和神舟二十四号航天员完成在轨交接。 伊朗称，夺回两艘此前被美军劫持的油轮；美",
+     "source": "东方财富资讯",
+     "zh": "11月28日晚间央视新闻联播要闻集锦"
+    },
+    {
      "title": "These tech stocks may let you play defense without giving up on AI",
      "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
      "pubDate": "Sat, 28 Nov 2026 12:30:00 GMT",
@@ -2440,38 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "野村证券警告 ，美联储当前缺乏转向鸽派的宏观依据，但一场由\"替罪羊\"引发的“小型金融冲击”，或将成为其政策转向的导火索——候选对象包括一家小型新云公司或科技投资基金的倒闭，而非超大规模科技巨头。 据追风交易台，野村证券首席策略师Naka Matsuzawa在11月27日发布的宏观策略周报中指出， 近期美国经济数据持续强劲，通胀与增长均未给美联储提供任何暂停加息的理由 。然而，科技板块信用利差持续走阔，市场已开始定价政策失误与衰退风险。他预计，在12月8日至9日美联储议息会议前的静默期内，市场与央行之间的经济评估分歧将成为主导主题。 Matsuzawa认为， 若上述小规模冲击成真，将是投资者转为",
      "source": "华尔街见闻",
      "zh": "美联储转鸽的催化剂：一家小型新云公司倒闭，引爆一场“小型金融危机”？"
-    },
-    {
-     "title": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复",
-     "link": "https://wallstreetcn.com/articles/3786912",
-     "pubDate": "Sat, 28 Nov 2026 18:35:00 +0800",
-     "summary": "霍尔木兹海峡正陷入一场双向封锁的僵局。美国持续以海上封锁和制裁压制伊朗经济，伊朗则以愈发激进的袭船战术反制过往船只，两股力量的对峙正将这条全球最重要的能源航运通道推向长期失序的边缘。 据媒体报道，美国中央司令部于当地时间周五宣布，美军飞机于周四击中并瘫痪了一艘在阿曼湾试图突破美国海上封锁的帕劳籍散货船M/V Pacific Archer。该船从伊朗港口城市班达尔阿巴斯出发，在多次警告无效后遭到打击，船尾受损。 这是美军迄今第六次对拒绝服从警告的船只动用武力。 与此同时， 伊朗在过去两个月内对至少六艘船只实施了\"二次打击\"战术， 将同一艘船连续袭击两次乃至三次，以彻底瘫痪船只并干扰救援行动。航运",
-     "source": "华尔街见闻",
-     "zh": "伊朗反复袭船，美国武力拦截！霍尔木兹海峡遭美伊双向封锁，战前通航水平恐难恢复"
-    },
-    {
-     "title": "马斯克：算力租赁价格走向分化",
-     "link": "https://wallstreetcn.com/articles/3786911",
-     "pubDate": "Sat, 28 Nov 2026 18:25:42 +0800",
-     "summary": "AI算力租赁市场出现新的价格信号。马斯克最新透露称， 面向大规模、高带宽AI训练的GPU集群租金正在显著上涨，而小规模算力租赁价格反而下跌。 马斯克周六在社交平台X上表示， 谷歌有意向SpaceX租用更多算力资源 。这一表态源于市场对谷歌与Anthropic谁会成为SpaceX更大算力客户的讨论。马斯克回应称： “不确定谁会租得更多，但谷歌已经表达了向我们租用更多算力的意愿。” 除了透露潜在客户需求，马斯克还谈到了AI算力租赁市场正在发生的价格变化。 他表示， 针对大规模、高度互联、专门用于高带宽AI训练的算力集群，租赁价格正在上涨，有时涨幅相当显著。与之相反，规模较小的算力租赁价格正在下降，",
-     "source": "华尔街见闻",
-     "zh": "马斯克：算力租赁价格走向分化"
-    },
-    {
-     "title": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入",
-     "link": "https://wallstreetcn.com/articles/3786910",
-     "pubDate": "Sat, 28 Nov 2026 17:55:20 +0800",
-     "summary": "美国家庭对股市的押注已达到有史以来最高水平，即便AI股票近期大幅下挫，散户资金仍源源不断涌入。这场长达四年的牛市正将数以百万计的普通投资者推向前所未有的风险敞口，而他们的财富走向，也将在很大程度上左右市场能否企稳。 据德意志银行对EPFR数据的分析， 今年流入追踪美股的ETF及共同基金的新增资金已超过4500亿美元，有望创下历史纪录。即便在过去一个月AI交易全面瓦解、市场剧烈震荡之际，仅11月截至18日，美国股票基金仍净流入逾1410亿美元——彼时标普500指数已下跌3.4%。 Ned Davis Research首席美国策略师Ed Clissold的数据显示， 美国股票目前占美国家庭金融资产",
-     "source": "华尔街见闻",
-     "zh": "40%！美国家庭股票敞口创历史新高，AI暴跌之际仍在疯狂买入"
-    },
-    {
-     "title": "The mathematicians living through an AI revolution",
-     "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
-     "pubDate": "Sat, 28 Nov 2026 05:00:32 GMT",
-     "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
-     "source": "Financial Times",
-     "zh": "The mathematicians living through an AI revolution"
     }
    ]
   },

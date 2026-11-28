@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 11:31:57",
+ "generated_at": "2026/11/28 11:37:48",
  "recent_days": 7,
  "industries": [
   {
@@ -290,14 +290,6 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC Reveals Details of A14 Manufacturing Compared to N2P"
     },
     {
-     "title": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
-     "link": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
-     "pubDate": "Fri, 27 Nov 2026 15:54:59 GMT",
-     "summary": "Better Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
-     "source": "SemiAnalysis",
-     "zh": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive"
-    },
-    {
      "title": "Siglent SDM4075A precision digital multimeter samples 2 MSa/s",
      "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-sdm4075a-precision-digital-multimeter-samples-2-msa-s-2026-11/",
      "pubDate": "Fri, 27 Nov 2026 15:48:39 +0000",
@@ -466,14 +458,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Defect Is Not Yet a Scrap Decision"
     },
     {
-     "title": "Evaluating Recent Model Releases on GDPx",
-     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
-     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-     "source": "SemiAnalysis",
-     "zh": "Evaluating Recent Model Releases on GDPx"
-    },
-    {
      "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
      "pubDate": "Wed, 25 Nov 2026 13:13:24 GMT",
@@ -496,6 +480,22 @@ window.INDUSTRY_DATA = {
      "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides. The post Chip Industry T",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 25"
+    },
+    {
+     "title": "BluGlass expands GaN laser product roadmap to surface-emitting lasers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 21:22:57 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, is expanding its GaN laser product roadmap into surface-emitting lasers, adding a potential new product platform that complements its established edge-emitting laser bu",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass expands GaN laser product roadmap to surface-emitting lasers"
+    },
+    {
+     "title": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aoi-241126.shtml",
+     "pubDate": "Tue, 24 Nov 2026 13:27:04 GMT",
+     "summary": "Applied Optoelectronics Inc (AOI) of Sugar Land, TX, USA (a designer and manufacturer of optical and hybrid fibre-coaxial networking products for AI data centers, cable TV and broadband fiber access networks) has signed a multi-year long-term agreement (LTA) with an existing tier-1 hyperscale data-c",
+     "source": "Semiconductor Today",
+     "zh": "AOI announces multi-year long-term agreement with tier-1 hyperscale data-center customer"
     }
    ]
   },
@@ -1354,6 +1354,14 @@ window.INDUSTRY_DATA = {
      "zh": "Artemis III Astronaut Andre Douglas Visits VAB"
     },
     {
+     "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+     "link": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+     "pubDate": "Fri, 27 Nov 2026 14:52:40 +0000",
+     "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut"
+    },
+    {
      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
@@ -1384,6 +1392,14 @@ window.INDUSTRY_DATA = {
      "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
      "source": "NASA",
      "zh": "Shivelyuch Socked In"
+    },
+    {
+     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+     "link": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+     "pubDate": "Thu, 26 Nov 2026 22:40:55 +0000",
+     "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1… The post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040"
     },
     {
      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -1434,6 +1450,30 @@ window.INDUSTRY_DATA = {
      "zh": "Cerberus to Acquire Airbus US Space & Defense"
     },
     {
+     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
+     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
+    },
+    {
+     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
+     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
+    },
+    {
+     "title": "Tiangong Space Station welcomes first international visitor",
+     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
+     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
+     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Tiangong Space Station welcomes first international visitor"
+    },
+    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1458,6 +1498,14 @@ window.INDUSTRY_DATA = {
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
     },
     {
+     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
+     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
+    },
+    {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
      "pubDate": "Mon, 23 Nov 2026 22:21:32 +0000",
@@ -1480,30 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
      "source": "Spaceflight Now",
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
-    },
-    {
-     "title": "As it happened: NG-25 preview news teleconference",
-     "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
-     "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
-     "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral.",
-     "source": "Spaceflight Now",
-     "zh": "As it happened: NG-25 preview news teleconference"
-    },
-    {
-     "title": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027",
-     "link": "https://payloadspace.com/exclusive-verde-technologies-will-test-perovskite-solar-cells-on-the-iss-in-2027/",
-     "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
-     "summary": "Solar cell manufacturer Verde Technologies signed a contract to send its lightweight, ultra-thin perovskite solar cells to the ISS. The post Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027 appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Exclusive: Verde Technologies Will Test Perovskite Solar Cells on the ISS in 2027"
-    },
-    {
-     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
-     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
-     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
-     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
     }
    ]
   },
@@ -1714,6 +1738,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "新药研发近20年，A股麻醉龙头在商业化前夜放弃",
+     "link": "https://www.huxiu.com/article/4909139.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 11:25:11 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：陈桐垚 一款历经近19年研发、完成Ⅲ期临床并递交上市申请的1类创新药，最终却倒在了商业化前的最后一步。 近日，人福医药集团股份公司（以下简称“人福医药”）发布公告称，公司决定终止重组质粒-肝细胞生长因子注射液（pUDK-HGF）的后续研发工作，并对相关开发支出全额计提资产减值准备。此次减值预计减少公司2026年度利润总额约4亿元，减少归属于上市公司股东的净利润约3亿元。 值得注意的是，人福医药此前因年度报告存在虚假记载等问题被实施其他风险警示，股票简称为ST人福。11月26日，公告发布后的首个交易日，ST人福股价低开后有所反弹，最终收于19.30元/股，",
+     "source": "虎嗅",
+     "zh": "新药研发近20年，A股麻醉龙头在商业化前夜放弃"
+    },
+    {
+     "title": "“Token之都”里的淘金客：抢时间，抓风口，在450亿投资里分一杯羹",
+     "link": "https://www.huxiu.com/article/4909127.html?f=rss",
+     "pubDate": "Sat, 28 Nov 2026 11:25:00 +0800",
+     "summary": "本文来自微信公众号： 猛犸工作室 ，编辑：李巍巍，作者：傅一波 抢时间 乌兰察布被称为“Token之都”是有原因的。 从乌兰察布市中心出发，街道宽阔，行人稀少，低矮的楼房和零散的商铺沿街分布；再往外走，是连片的农田。过去，这座北方小城最为人熟知的特产是土豆。 这里的生活有自己的节奏，缓慢、安静，甚至有些漫不经心。当地人形容，“我们靠天吃饭，见天收”。时间是最不紧要的东西。 乌兰察布的算力中心鸟瞰图源：受访者 如今，只需20分钟车程，走出市区，抵达察哈尔高新技术开发区，另一种乌兰察布出现了——宽阔笔直的道路两侧，巨型算力中心依次铺开，围墙、高压电线圈起一座座机房。载着超长风机叶片的卡车往来不息，",
+     "source": "虎嗅",
+     "zh": "“Token之都”里的淘金客：抢时间，抓风口，在450亿投资里分一杯羹"
+    },
+    {
      "title": "TikTok Shop 美国达人带货，回款周期和履约时效怎么算进邀约话术里？",
      "link": "https://www.baijing.cn/question/639018",
      "pubDate": "Sat, 28 Nov 2026 03:24:04 +0000",
@@ -1733,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "国资1.4亿买老挝酒店，只卖1万块？",
      "link": "https://www.huxiu.com/article/4909110.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 11:20:00 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 五星琅勃拉邦铂尔曼，1万块挂牌清仓背后。 ▲ 01 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少，头图来自：AI生成 一 最近几天，云南酒店圈和产权交易市场出了一件颇为魔幻的事。 一家当年花1.42亿接盘、挂牌雅高铂尔曼的老挝五星度假村，其业主公司如今在云南省产权交易所挂牌转让100%股权，标价只要1万块钱。 如此离谱的股权转让信息来自云南省产权交易所官网，标的是云南能投居正琅勃拉邦酒店100%股权。 而花1万元去买海外五星级度假村的全部股权，听起来比买辆代步电动车还要便宜，迅速在业内引发围观。 公开资料显示，该酒店在老挝琅勃拉邦名气颇大，2019年才正式开业，项目占地面积达到16.08公顷，属于低密度园区型度假村，总共配有123间",
      "source": "虎嗅",
      "zh": "国资1.4亿买老挝酒店，只卖1万块？"
     },
@@ -1746,6 +1786,14 @@ window.INDUSTRY_DATA = {
      "zh": "阿里腾讯百度齐交底，国产AI芯片不藏了"
     },
     {
+     "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+     "link": "https://www.tmtpost.com/8221273.html",
+     "pubDate": "Sat, 28 Nov 2026 11:17:25 +0800",
+     "summary": "一场还没有完全出现在报表里的利润挤压。",
+     "source": "钛媒体",
+     "zh": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么"
+    },
+    {
      "title": "美团想起来自己是开公司的了",
      "link": "https://www.huxiu.com/article/4909135.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 11:15:18 +0800",
@@ -1754,12 +1802,20 @@ window.INDUSTRY_DATA = {
      "zh": "美团想起来自己是开公司的了"
     },
     {
-     "title": "从“慌啥子嘛”到“能不慌吗”：赵本山的窗，普通人的门",
-     "link": "https://www.huxiu.com/article/4909100.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:10:00 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主，原文标题：《从《慌啥子嘛》到《能不慌吗》：赵本山的窗，普通人的门》 赵本山进棚那天，大概没想到一周之后风向会调头。 2026年11月13日，69岁的他真人真嗓录了《慌啥子嘛》。视频上线三小时，点赞破百万，几天里刷遍全网。评论区顶在最前头的一句话是：“小时候他逗我笑，长大了他哄我不哭。” 这首歌来历有点特别。它原本是一首川渝方言小调，困困羊作词作曲，村口吴老二首唱，九月末发出来的时候安安静静，没溅起什么水花。后来有网友用AI合成赵本山的声线翻唱了一遍，一下就火了。 不少人听着以为就是本人，跑去评论区喊话，求他真唱一回。换作眼下别的明星，见着AI",
-     "source": "虎嗅",
-     "zh": "从“慌啥子嘛”到“能不慌吗”：赵本山的窗，普通人的门"
+     "title": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你",
+     "link": "https://www.ithome.com/1/033/820.htm",
+     "pubDate": "Sat, 28 Nov 2026 03:04:18 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）报道，在 One UI 9.5 首个 Beta 测试版中，通过挖掘 13.9.00.12 版设备维护（Device Care）应用， 发现三星正酝酿“错过常用充电时间”提醒功能。 据报道，当手机电量降至 20% 至 30% 之间，且既未在充电、也未开启省电模式时，系统便会弹出充电提醒。提醒还可能结合用户默认日历中的安排，如锻炼、观影、会议或演出，提示届时电量或许不足；若日历中没有相关事件，则显示通用提醒。IT之家附上相关截图如下： 该功能需用户开启三星个性化建议选项，且设备需要升级到 On",
+     "source": "IT之家",
+     "zh": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你"
+    },
+    {
+     "title": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元",
+     "link": "https://www.ithome.com/1/033/819.htm",
+     "pubDate": "Sat, 28 Nov 2026 03:03:41 GMT",
+     "summary": "IT之家 11 月 28 日消息，迈从 Ace 68 GT 绯刃银新色今日发售，首发价 669 元。 京东 迈从（MCHOSE）Ace 68 GT 绯刃银 粉泰山磁轴【新品开售】 键盘 16K/8K 有线 FPS 无畏契约打瓦双驱动 &nbsp;Ace 68 GT 券后 669 元 领 80 元券 这款键盘采用 68 配列紧凑布局，机身整体由全铝精工锻造，外壳提供阳极氧化与高分子喷涂两种工艺，配合机甲战舰美学设计与镂空机械风设计，银色机身搭配波尔多红撞色。 该产品定位赛事级全铝电竞磁轴键盘，同时也是《三角洲行动》烽火职业联赛指定键盘。 该键盘搭载迈从全自研天问方案，配备双核芯片，主频达 512",
+     "source": "IT之家",
+     "zh": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元"
     },
     {
      "title": "《复联5》要来救市了",
@@ -1776,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "我们做户外露营装备独立站，主攻澳新市场，团队5个人，刚起量阶段，月GMV大概8万澳币。现在用Stripe收澳币和纽币，但发现回款周期要7天左右，而本地客户对物流时效要求很高，悉尼墨尔本基本要3-5天送达，奥克兰也要5-7天。目前用澳洲海外仓备货，但从国内补货到仓要25天左右，导致资金压在库存和应收账款上，现金流很紧。试过调整结算币种和提前提现，但手续费不低，也试过让客户预付部分定金，转化率掉了大概15%。现在卡在回款周期和补货时效的匹配上，想问问同行，澳新市场独立站一般怎么设定备货节奏和支付结算方案，才能让回款周期覆盖补货周期？",
      "source": "白鲸出海",
      "zh": "澳新独立站用Stripe收款，回款周期和物流时效怎么匹配才不压现金流？"
-    },
-    {
-     "title": "谁把日本的未来先“吃”光了？日本如何登顶全球债务率冠军？",
-     "link": "https://www.huxiu.com/article/4908747.html?f=rss",
-     "pubDate": "Sat, 28 Nov 2026 11:00:00 +0800",
-     "summary": "一口气看懂，日债危机！明明日本越借越多，为何付的利息却一年比一年少？",
-     "source": "虎嗅",
-     "zh": "谁把日本的未来先“吃”光了？日本如何登顶全球债务率冠军？"
     },
     {
      "title": "“争议”总经理上任176天“闪辞”，水井坊6年已换8帅",
@@ -1848,30 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI硬件与先进制造重塑港股科技版图。",
      "source": "钛媒体",
      "zh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价"
-    },
-    {
-     "title": "212 首款三门车型 T10 上市：三片式快拆硬顶，17.99 万-18.99 万元",
-     "link": "https://www.ithome.com/1/033/814.htm",
-     "pubDate": "Sat, 28 Nov 2026 02:35:49 GMT",
-     "summary": "IT之家 11 月 28 日消息，2026 广州车展期间，212 品牌旗下首款三门车型 T10 正式上市，推出 2.0T 汽油版和 2.0T 柴油版，官方售价分别为 17.99 万元和 18.99 万元。T10 基于经典硬派越野底盘架构打造，采用三门短轴和三片式快拆硬顶设计，并预留 30 余处原厂拓展接口，主打专业越野与个性化体验。 据IT之家了解，该车提供前后整体硬桥 + 大梁结构，长宽高分别为 4416/1955/1925mm，轴距为 2570mm。其设计主打复古风，轮廓硬朗方正，配有圆形车灯和粗壮的前格栅，以及大尺寸前保险杠。此外，该车最大的特征是采用三门四座设计，并配有可拆卸车顶；尾门",
-     "source": "IT之家",
-     "zh": "212 首款三门车型 T10 上市：三片式快拆硬顶，17.99 万-18.99 万元"
-    },
-    {
-     "title": "客户不买单，具身智能的“第一”还值几个钱？",
-     "link": "https://www.tmtpost.com/8220898.html",
-     "pubDate": "Sat, 28 Nov 2026 10:33:00 +0800",
-     "summary": "一份对机器人落地能力的测评成绩，能说明什么？",
-     "source": "钛媒体",
-     "zh": "客户不买单，具身智能的“第一”还值几个钱？"
-    },
-    {
-     "title": "魏建军回应“长城汽车销量从第一掉到第九”：内卷、资本裹挟、财务造假是主因",
-     "link": "https://www.ithome.com/1/033/813.htm",
-     "pubDate": "Sat, 28 Nov 2026 02:29:57 GMT",
-     "summary": "IT之家 11 月 28 日消息，此前，长城汽车董事长魏建军在与胖东来创始人于东来交流时，透露长城汽车销量排名从中国自主品牌第一下滑至第九，引发广泛关注。 在 2026 广州车展现场，魏建军就此事作出公开回应。他将排名变化的主要原因归结为三点：“内卷”“资本裹挟”和“财务造假”。 魏建军表示，如果不能排除恶意竞争，汽车产业就无法得到健康发展。“我排到第九，但是我心里边很坦然，他们都睡不着觉。” 在之前跟于东来进行交流的时候，于东来也回应称“你管他压力呢，你做自己嘛”，并建议魏建军不必被排名绑架。 魏建军此前已多次公开批评部分车企依靠关联交易虚构销量、以“零公里二手车”粉饰业绩等行为，并主张车企",
-     "source": "IT之家",
-     "zh": "魏建军回应“长城汽车销量从第一掉到第九”：内卷、资本裹挟、财务造假是主因"
     },
     {
      "title": "CounterPoint：京东方若合并维信诺，AMOLED 面板份额将位列第二仅次三星显示",

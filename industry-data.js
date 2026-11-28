@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 12:51:52",
+ "generated_at": "2026/11/28 13:03:54",
  "recent_days": 7,
  "industries": [
   {
@@ -122,54 +122,6 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek的账本来了！聊天多少钱，一目了然"
     },
     {
-     "title": "Context Scaling: A New Frontier of AI Scaling",
-     "link": "https://arxiv.org/abs/2611.33160",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33160v1 Announce Type: new Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment c",
-     "source": "arXiv cs.AI",
-     "zh": "Context Scaling: A New Frontier of AI Scaling"
-    },
-    {
-     "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-     "link": "https://arxiv.org/abs/2611.33161",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33161v1 Announce Type: new Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausibl",
-     "source": "arXiv cs.AI",
-     "zh": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection"
-    },
-    {
-     "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
-     "link": "https://arxiv.org/abs/2611.33165",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that ",
-     "source": "arXiv cs.AI",
-     "zh": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics"
-    },
-    {
-     "title": "General-Purpose Decision Models for AI Configuration Tuning",
-     "link": "https://arxiv.org/abs/2611.33190",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33190v1 Announce Type: new Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost.",
-     "source": "arXiv cs.AI",
-     "zh": "General-Purpose Decision Models for AI Configuration Tuning"
-    },
-    {
-     "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-     "link": "https://arxiv.org/abs/2611.33263",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33263v1 Announce Type: new Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate respons",
-     "source": "arXiv cs.AI",
-     "zh": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning"
-    },
-    {
-     "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-     "link": "https://arxiv.org/abs/2611.33303",
-     "pubDate": "Fri, 27 Nov 2026 00:00:00 -0500",
-     "summary": "arXiv:2611.33303v1 Announce Type: new Abstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usually set by planting a proof, that is, by sampling a proof of the desired depth and stating its premises as the problem. Howe",
-     "source": "arXiv cs.AI",
-     "zh": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
-    },
-    {
      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
      "link": "https://www.qbitai.com/2026/11/513194.html",
      "pubDate": "Fri, 27 Nov 2026 04:05:56 +0000",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
      "source": "TechCrunch AI",
      "zh": "Nvidia hits pause on chip shipments to Southeast Asia"
+    },
+    {
+     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+     "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+     "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+     "source": "TechCrunch AI",
+     "zh": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
+    {
+     "title": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work",
+     "link": "https://www.kdnuggets.com/how-to-future-proof-your-data-career-as-coding-agents-take-over-routine-work",
+     "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
+     "summary": "The skills that keep you irreplaceable when AI handles the boilerplate.",
+     "source": "KDnuggets",
+     "zh": "How to Future-Proof Your Data Career as Coding Agents Take Over Routine Work"
+    },
+    {
+     "title": "Top 5 Open-Source Alternatives to OpenAI Dots",
+     "link": "https://www.kdnuggets.com/top-5-open-source-alternatives-to-openai-dots",
+     "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
+     "summary": "Explore top open-source alternatives to OpenAI Dots for building always-on AI agents with persistent memory, task automation, custom skills, and local deployment.",
+     "source": "KDnuggets",
+     "zh": "Top 5 Open-Source Alternatives to OpenAI Dots"
+    },
+    {
+     "title": "SteerSound：迈向更可靠的音频编辑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+     "source": "机器之心",
+     "zh": "SteerSound：迈向更可靠的音频编辑"
+    },
+    {
+     "title": "传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=2&sn=133ad9665035bc5be0491b4357010b3a",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "支撑现代互联网安全近半个世纪的数学假设，可能要被 AI 推翻了。",
+     "source": "机器之心",
+     "zh": "传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？"
+    },
+    {
+     "title": "告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=1&sn=f93a604b241936b7a44c45d2e29a76ac",
+     "pubDate": "Thu, 26 Nov 2026 19:38:00 +0800",
+     "summary": "打破 AI 3D 的「虚假精细」。",
+     "source": "机器之心",
+     "zh": "告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Walking the walk is more important than the climate talk",
+     "link": "https://www.pv-magazine.com/2026/11/28/walking-the-walk-is-more-important-than-the-climate-talk/",
+     "pubDate": "Sat, 28 Nov 2026 05:00:00 +0000",
+     "summary": "Nearly a quarter of countries have breached the Paris Agreement by not submitting new nationally determined contributions to the United Nations. This isn’t a one-off, or just exclusive to governments. Recent research found nearly 40% of companies missed or abandoned 2020 climate targets with no cons",
+     "source": "pv magazine",
+     "zh": "Walking the walk is more important than the climate talk"
+    },
+    {
      "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers",
      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wasted-Wind-and-Solar-Power-Could-Run-Factories-and-Data-Centers.html",
      "pubDate": "Fri, 27 Nov 2026 18:00:00 -0600",
@@ -1024,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "The financial picture for China-based battery OEM Narada Power has continued to worsen, and this year saw it fall to the lowest rating in the Battery StorageTech Bankability Ratings Report.",
      "source": "Energy Storage News",
      "zh": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating"
-    },
-    {
-     "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
-     "link": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie/",
-     "pubDate": "Fri, 27 Nov 2026 11:18:46 +0000",
-     "summary": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product availability, rising costs, and supply chain constraints are among the ma",
-     "source": "pv magazine",
-     "zh": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie"
     },
     {
      "title": "Vena Energy secures US$113 million loan for 114MW Indonesia portfolio",
@@ -1738,6 +1738,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？",
+     "link": "https://www.baijing.cn/question/639022",
+     "pubDate": "Sat, 28 Nov 2026 04:58:29 +0000",
+     "summary": "我们做的是工具类应用，团队8人，主攻印度市场，刚上线阶段。上周Google Play印度区审核连续被拒两次，第一次说截图里出现的手势在当地有冒犯风险，第二次说描述文案里的一个词在印地语语境下含义不当。我们试过把截图换成纯功能展示、去掉所有人物元素，文案也找本地人润色过一轮，但不确定审核方到底按什么标准判断。目前月推广预算大概3000美元，不敢大规模投。想直接问：印度区应用商店对素材的文化敏感度审核，有没有相对明确的判断标准，还是只能反复试错？",
+     "source": "白鲸出海",
+     "zh": "印度上架被拒两次，素材本地化到底要改到什么程度才算过？"
+    },
+    {
+     "title": "1999 元华为随行 WiFi 6 Pro 轻享年包版发售：5A 高速网络、便携免插卡、7000mAh 电池",
+     "link": "https://www.ithome.com/1/033/831.htm",
+     "pubDate": "Sat, 28 Nov 2026 04:56:49 GMT",
+     "summary": "IT之家 11 月 28 日消息，华为本周新推出了一款华为随行 WiFi 6 Pro 轻享年包版，定价为 1999 元。 京东 华为随行 WiFi 6 Pro 轻享年包版 5A 高速网络 便携免插卡 7000mAh 电池 随身 WiFi 无线 1999 元 直达链接 正如其名，华为随行 WiFi 6 Pro 轻享年包版自带一年 5G 轻享套餐流量。 华为随行 WiFi 6 Pro 轻享年包版搭载 5A 高速网络技术，支持三载波聚合、双载波同时轮发及超级上行技术；搭载 9 根蜂窝全向天线，实现 360° 立体环绕覆盖。 华为随行 WiFi 6 Pro 采用机卡一体设计，内置官方流量卡，无需额外插",
+     "source": "IT之家",
+     "zh": "1999 元华为随行 WiFi 6 Pro 轻享年包版发售：5A 高速网络、便携免插卡、7000mAh 电池"
+    },
+    {
+     "title": "两小时内狂写 3.2GB：继 AMD、英伟达之后，雷蛇音频软件也被反馈异常 SSD 写入",
+     "link": "https://www.ithome.com/1/033/830.htm",
+     "pubDate": "Sat, 28 Nov 2026 04:55:51 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Wccftech 昨日（11 月 27 日）发布博文，报道称继 AMD、英伟达之后， 雷蛇（Razer）音频软件（Audio Utility）也存在 SSD 固态硬盘异常写入问题。 根据 u/Stefouch 在 Reddit 社区发帖，他为新购入的 BlackShark V3 X Hyperspeed 耳机安装了这款独立软件，但未安装完整的 Razer Synapse 4 套件。他反馈后台进程 rzappengine.exe 会持续向固态硬盘写入数据，在不到两小时内累计记录了 3.2GB 的 I/O 写入字节。 他通过 Sysinternals P",
+     "source": "IT之家",
+     "zh": "两小时内狂写 3.2GB：继 AMD、英伟达之后，雷蛇音频软件也被反馈异常 SSD 写入"
+    },
+    {
+     "title": "CDPR 高管：《女神异闻录 5》用手机短信推动剧情，对《赛博朋克 2077》影响深远",
+     "link": "https://www.ithome.com/1/033/829.htm",
+     "pubDate": "Sat, 28 Nov 2026 04:48:13 GMT",
+     "summary": "IT之家 11 月 28 日消息，据外媒 Gamesradar 今天（28 日）上午报道，前《赛博朋克 2077》任务负责人、现任《赛博朋克 2》副游戏总监帕维尔 · 萨斯科透露，Atlus 的《女神异闻录 5》和 CD Projekt Red 的《赛博朋克 2077》这两款可以说代表了各自公司最高水准的 RPG 作品，其实有着一段 意想不到的渊源 。 萨斯科最近在 X 平台回应了一名玩家的分析，谈到了《女神异闻录 5》如何影响《赛博朋克 2077》的叙事设计。该玩家讨论的是游戏如何利用手机短信推动剧情，并举出了支线角色 El César 的例子：在一场拳赛风波中，玩家可以选择不收下 El C",
+     "source": "IT之家",
+     "zh": "CDPR 高管：《女神异闻录 5》用手机短信推动剧情，对《赛博朋克 2077》影响深远"
+    },
+    {
+     "title": "AR 眼镜关键部件发现新材料，有望薄至石英方案的 1/120",
+     "link": "https://www.ithome.com/1/033/828.htm",
+     "pubDate": "Sat, 28 Nov 2026 04:41:33 GMT",
+     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Headline 昨日（11 月 27 日）发布博文，报道称韩国研究人员发现铜铝氧化物（CuAlO₂）控制光线的效率远高于目前常用的石英材料，有望让 AR 眼镜关键部件半波片（half-wave plate）变薄至 120 分之一。 IT之家查询公开资料，在 AR 眼镜中，半波片负责调整光的偏振状态，让显示光线按设计路径传播并进入人眼。目前主流厂商都依赖该光学元件，调整偏振和引导光路，让进入眼睛的光更多，画面更亮。 在材质方面，半波片目前主要用石英制成。石英的双折射较弱，要达到半波相位差，就必须做得比较厚，因此会占用镜片和镜框的空间。",
+     "source": "IT之家",
+     "zh": "AR 眼镜关键部件发现新材料，有望薄至石英方案的 1/120"
+    },
+    {
      "title": "判赔4.92亿元，利乐垄断旧案终审落槌，千亿乳业巨头背后的包装暗战",
      "link": "https://www.huxiu.com/article/4909154.html?f=rss",
      "pubDate": "Sat, 28 Nov 2026 12:33:39 +0800",
@@ -1842,44 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据"
     },
     {
-     "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
-     "link": "https://www.ithome.com/1/033/822.htm",
-     "pubDate": "Sat, 28 Nov 2026 03:18:23 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文， 通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。 根据三星内部代码细节，三星 Galaxy S26 Ultra 的 Galaxy AI 内部版本号为“20263”，暂不满足运行上述 AI 功能的要求，但不排除在 Galaxy S27 系列发布后，将这些功能下放到 S26 系列的可能。 IT之家援引博文介绍，附上文中相关主要功能介绍如下： 图库与",
-     "source": "IT之家",
-     "zh": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能"
-    },
-    {
      "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
      "link": "https://www.tmtpost.com/8221273.html",
      "pubDate": "Sat, 28 Nov 2026 11:17:25 +0800",
      "summary": "一场还没有完全出现在报表里的利润挤压。",
      "source": "钛媒体",
      "zh": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么"
-    },
-    {
-     "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
-     "link": "https://www.ithome.com/1/033/821.htm",
-     "pubDate": "Sat, 28 Nov 2026 03:14:50 GMT",
-     "summary": "IT之家 11 月 28 日消息，影石 Insta360 的新一代旗舰运动相机 Ace Pro 3 已定档 12 月 1 日晚 8 点在中国发布，官方预热主题为“定局已破”。 在发布会前，官方预热视频重点展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能，暗示该系列产品可能在影像系统方面迎来较大调整。 爆料者 Igor Bogdanov 分享的宣传资料显示，影石 Ace Pro 3 可能配备徕卡 Summicron 主摄（等效焦距 22mm）+ 超广角镜头（等效焦距 14mm）。新机还可能采用 1/1.1 英寸方形传感器，尺寸较 Ace Pro 2 的 1/1.3 英寸传感器有所增",
-     "source": "IT之家",
-     "zh": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布"
-    },
-    {
-     "title": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你",
-     "link": "https://www.ithome.com/1/033/820.htm",
-     "pubDate": "Sat, 28 Nov 2026 03:04:18 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）报道，在 One UI 9.5 首个 Beta 测试版中，通过挖掘 13.9.00.12 版设备维护（Device Care）应用， 发现三星正酝酿“错过常用充电时间”提醒功能。 据报道，当手机电量降至 20% 至 30% 之间，且既未在充电、也未开启省电模式时，系统便会弹出充电提醒。提醒还可能结合用户默认日历中的安排，如锻炼、观影、会议或演出，提示届时电量或许不足；若日历中没有相关事件，则显示通用提醒。IT之家附上相关截图如下： 该功能需用户开启三星个性化建议选项，且设备需要升级到 On",
-     "source": "IT之家",
-     "zh": "三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你"
-    },
-    {
-     "title": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元",
-     "link": "https://www.ithome.com/1/033/819.htm",
-     "pubDate": "Sat, 28 Nov 2026 03:03:41 GMT",
-     "summary": "IT之家 11 月 28 日消息，迈从 Ace 68 GT 绯刃银新色今日发售，首发价 669 元。 京东 迈从（MCHOSE）Ace 68 GT 绯刃银 粉泰山磁轴【新品开售】 键盘 16K/8K 有线 FPS 无畏契约打瓦双驱动 &nbsp;Ace 68 GT 券后 669 元 领 80 元券 这款键盘采用 68 配列紧凑布局，机身整体由全铝精工锻造，外壳提供阳极氧化与高分子喷涂两种工艺，配合机甲战舰美学设计与镂空机械风设计，银色机身搭配波尔多红撞色。 该产品定位赛事级全铝电竞磁轴键盘，同时也是《三角洲行动》烽火职业联赛指定键盘。 该键盘搭载迈从全自研天问方案，配备双核芯片，主频达 512",
-     "source": "IT之家",
-     "zh": "迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元"
     },
     {
      "title": "《复联5》要来救市了",
@@ -1920,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "大卖场老兵，正站在十字路口。",
      "source": "钛媒体",
      "zh": "半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？"
-    },
-    {
-     "title": "Lazada 泰国跨境店履约时效拖累投放，CPA 涨到多少该停？",
-     "link": "https://www.baijing.cn/question/639016",
-     "pubDate": "Sat, 28 Nov 2026 02:41:28 +0000",
-     "summary": "上个月在 Lazada 泰国跨境店推一款无线耳机，投放花了约 8 万泰铢，CPA 从月初的 180 泰铢涨到 320 泰铢，后台显示履约时效从 3 天变成 6 天，好几单因为清关延迟被取消。我们试过换曼谷本地仓、调低出价、把预算挪到越南站，效果都不明显，卡在不确定是继续扛时效等权重恢复，还是先砍投放止损。5 人小团队，月预算就这个量级，想直接问：跨境店履约时效超过几天，投放 CPA 涨到多少就该停？",
-     "source": "白鲸出海",
-     "zh": "Lazada 泰国跨境店履约时效拖累投放，CPA 涨到多少该停？"
     },
     {
      "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
@@ -2234,6 +2234,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SK海力士员工赚爆了 人均季度奖金2.3亿韩元 全年奖金或增至7.85亿韩元",
+     "link": "http://finance.eastmoney.com/news/1355,202611283942354463.html",
+     "pubDate": "Sat, 28 Nov 2026 12:48:00 +0800",
+     "summary": "存储芯片 行情持续火热， SK海力士 、三星 半导体 三季度盈利暴增，两家公司的员工也将收获丰厚奖金。 据韩国媒体ChosunBiz报道，据估算，仅今年第三季度， SK海力士 员工 人均计提绩效奖金就达到2.3亿韩元 （约合114.8万元人民币）。截至9月，员工累计人均计提奖金升至5.02亿韩元（约合250.5万元人民币）。若全年营业利润达到券商预测值， 人均奖金将增至约7.85亿韩元 （约合391.7万元人民币）。 报道称，由于 SK海力士 已计提将于明年初发放的奖金及各类薪酬，截至9月末，公司应付职工薪酬余额突破15万亿韩元（约合748.5万元）。 SK海力士和三星 电子 2026年第三季",
+     "source": "东方财富股票",
+     "zh": "SK海力士员工赚爆了 人均季度奖金2.3亿韩元 全年奖金或增至7.85亿韩元"
+    },
+    {
+     "title": "币安：已获得初步批准 可在不丹建立受监管的数字资产运营业务",
+     "link": "http://finance.eastmoney.com/news/1439,202611283942354521.html",
+     "pubDate": "Sat, 28 Nov 2026 12:47:12 +0800",
+     "summary": "币安表示，已获得 格勒普 中央 银行 的初步批准，可在不丹建立受监管的数字资产运营业务。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "币安：已获得初步批准 可在不丹建立受监管的数字资产运营业务"
+    },
+    {
      "title": "兰州大学：“交费包过”“不用上课”等为虚假宣传 保留追责权利",
      "link": "http://finance.eastmoney.com/news/1350,202611283942354246.html",
      "pubDate": "Sat, 28 Nov 2026 12:38:50 +0800",
@@ -2256,22 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "据哈尔滨海关统计，2026年前10个月，黑龙江省货物贸易进出口总值2830.1亿元，比去年同期增长9.7%。其中，出口877.3亿元，增长21.2%；进口1952.8亿元，增长5.2%。 （文章来源：人民财讯）",
      "source": "东方财富股票",
      "zh": "前10个月黑龙江省货物贸易进出口总值同比增长9.7%"
-    },
-    {
-     "title": "多家企业发布AI眼镜新品 机构资金加仓16只概念股",
-     "link": "http://finance.eastmoney.com/news/11215,202611283942353990.html",
-     "pubDate": "Sat, 28 Nov 2026 12:30:00 +0800",
-     "summary": "据报道， 小米 AI眼镜 2代或将于12月中旬发布并于当天上市开售 。近期已有多家企业密集发布 AI眼镜 新品。包括三星 电子 新款 AI眼镜 、影目科技空间智能眼镜INMOFuture等。从更长时间线看，AI眼镜赛道的升温早有迹象。 AI眼镜产业链分为上游元器件、中游整机制造和下游渠道应用三个环节，A股市场有逾50家上市公司涉及AI眼镜业务。 资金层面来看，证券时报·数据宝统计，截至11月27日收盘，11月以来机构资金净买入超1000万元的AI眼镜概念股有 16只 。其中5股机构资金净买入超1亿元，分别为 富瀚微 、 歌尔股份 、 信维通信 、 中国电信 、 康冠科技 。 （文章来源：人民财",
-     "source": "东方财富股票",
-     "zh": "多家企业发布AI眼镜新品 机构资金加仓16只概念股"
-    },
-    {
-     "title": "南京发布鸿蒙智能体三年行动计划：2028年营收破千亿，集聚企业超100家",
-     "link": "http://finance.eastmoney.com/news/1355,202611283942353758.html",
-     "pubDate": "Sat, 28 Nov 2026 12:27:18 +0800",
-     "summary": "南京市今日发布《开源鸿蒙智能体发展行动计划（2026—2028年）》，部署九项重点任务，涵盖鸿蒙智能体产品发展、生态企业培育、公共服务体系完善、产业园区建设、特色OPC社区打造、安全可信技术支撑体系构建、标杆场景打造及人才体系培育等。 目标到2028年，打造标杆场景超10个，集聚生态企业超100家， 企业营收规模超1000亿元 ，建成全国领先的鸿蒙智能体创新高地。 （科创板日报记者 黄心怡） （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "南京发布鸿蒙智能体三年行动计划：2028年营收破千亿，集聚企业超100家"
     },
     {
      "title": "葛卫东卖了10万股中材科技",
@@ -2418,6 +2418,30 @@ window.INDUSTRY_DATA = {
      "zh": "医美低龄化：监护人同意，不该只是走个过场"
     },
     {
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
+     "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+     "source": "MarketWatch",
+     "zh": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?"
+    },
+    {
+     "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+     "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 23:15:00 GMT",
+     "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+     "source": "MarketWatch",
+     "zh": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+    },
+    {
      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
      "pubDate": "Fri, 27 Nov 2026 22:00:57 GMT",
@@ -2442,36 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "BNY Mellon strategic Municipal bond fund declares $0.03 dividend"
     },
     {
-     "title": "SA Asks: What's the best-positioned chip stock right now?",
-     "link": "https://seekingalpha.com/news/4677107-sa-asks-whats-the-best-positioned-chip-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 15:15:51 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best-positioned chip stock right now?"
-    },
-    {
-     "title": "US tech stocks rise in latest market swing",
-     "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
-     "pubDate": "Fri, 27 Nov 2026 20:08:09 GMT",
-     "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
-     "source": "Financial Times",
-     "zh": "US tech stocks rise in latest market swing"
-    },
-    {
-     "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
-     "link": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:24:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple faces countersuit from OpenAI for stealing trade secrets - FT"
-    },
-    {
-     "title": "SA Asks: What's the best gold play right now for investors?",
-     "link": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 27 Nov 2026 14:22:07 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What's the best gold play right now for investors?"
+     "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+     "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 20:16:00 GMT",
+     "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+     "source": "MarketWatch",
+     "zh": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia"
     }
    ]
   },
